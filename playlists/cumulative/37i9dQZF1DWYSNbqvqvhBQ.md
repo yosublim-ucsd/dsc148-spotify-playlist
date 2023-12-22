@@ -2,9 +2,9 @@
 
 ### [Stay Tuned!](https://open.spotify.com/playlist/37i9dQZF1DWYSNbqvqvhBQ)
 
-> Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: KANE
+> Luister naar de fijnste nieuwe songs en hits van dit moment! Cover: Teddy Swims
 
-328 songs - 19 hr 7 min
+329 songs - 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/track/5U1OEoEW4xnalSAToamwZL) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/2Dd8cbNS15m10ZV4qYWlGr) | 4:45 | 2023-02-23 | 2023-04-01 |
 | [Different Kind Of Beautiful](https://open.spotify.com/track/6mxsd0LQt2qk2rpLEqlCJw) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Different Kind Of Beautiful](https://open.spotify.com/album/6M7C0uHmNik7gss4M31k0t) | 3:21 | 2023-10-27 |  |
 | [Dive](https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dive](https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee) | 3:20 | 2023-04-06 | 2023-10-21 |
-| [Do Me Like You Do](https://open.spotify.com/track/1wWuRniG0pYjpQbQ7BqOjf) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Do Me Like You Do](https://open.spotify.com/album/6AvaCvysF20atKfAswyGYA) | 3:02 | 2023-09-15 |  |
+| [Do Me Like You Do](https://open.spotify.com/track/1wWuRniG0pYjpQbQ7BqOjf) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Do Me Like You Do](https://open.spotify.com/album/6AvaCvysF20atKfAswyGYA) | 3:02 | 2023-09-15 | 2023-12-22 |
 | [Doesn’t Do Me Any Good](https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 3:52 | 2023-09-21 |  |
 | [Don't Forget Me](https://open.spotify.com/track/7173t6WyjOaVya4lPFY00a) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:10 | 2023-06-22 |  |
 | [Don't Let Me Go](https://open.spotify.com/track/7cnPWKugkvngck0zKReuW8) | [Typh Barrow](https://open.spotify.com/artist/1LyPW0dCTQJJSfF8FIHKlM) | [Don't Let Me Go](https://open.spotify.com/album/7a9CySuWBrCloiW8XC2aa1) | 2:54 | 2023-02-23 | 2023-06-02 |
@@ -144,6 +144,7 @@
 | [Hungry](https://open.spotify.com/track/0mxxBmD8Rp2FQ1P616Px3v) | [Orange Skyline](https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx) | [Orange Skyline](https://open.spotify.com/album/4XDK4JBcsmGbWmNWL2TUW1) | 2:50 | 2023-03-17 | 2023-04-14 |
 | [Hungry](https://open.spotify.com/track/4fECwnyeUV7tFEwIsMmPBv) | [Orange Skyline](https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx) | [Orange Skyline](https://open.spotify.com/album/1cZw7eM6QA6xt1dWKIjWL6) | 2:50 | 2023-02-23 | 2023-03-19 |
 | [Hurts So Bad \- with Josh Teskey](https://open.spotify.com/track/096BuPZG4gYg7TCm9q0cai) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr), [Josh Teskey](https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd) | [Hurts So Bad](https://open.spotify.com/album/2lcWB8hvP1V23ikmzuqdx2) | 3:55 | 2023-02-23 | 2023-03-31 |
+| [I Am Nothing \(Without You\)](https://open.spotify.com/track/2LiunkCrHRITKICHmCTiWy) | [Moving Into Tucson](https://open.spotify.com/artist/5mFtVrSOmWy0NRUTMZ7JRY) | [Distraction](https://open.spotify.com/album/4PS0Us41beukSX2KOqpHBc) | 3:08 | 2023-12-21 |  |
 | [I Don't Miss You](https://open.spotify.com/track/3q9zwhKPHiUh8zVZ4sI5qs) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [I Don't Miss You](https://open.spotify.com/album/6ozapqxYdXe9uMaMfB6UZp) | 3:37 | 2023-04-13 | 2023-09-16 |
 | [I Drink Wine](https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:16 | 2023-02-23 | 2023-03-31 |
 | [I Feel Love](https://open.spotify.com/track/33mnKAhmZILoMxxUrkHlcg) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Blood Orange](https://open.spotify.com/album/3JX33V2KTmNWzqBOPRpjSJ) | 3:13 | 2023-04-28 | 2023-10-13 |

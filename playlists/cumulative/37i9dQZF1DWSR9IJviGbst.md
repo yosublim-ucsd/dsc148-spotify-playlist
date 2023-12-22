@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSR9IJviGbst.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSR9IJviGbst) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSR9IJviGbst)
 
-### [Babbling Brooks](https://open.spotify.com/playlist/37i9dQZF1DWSR9IJviGbst)
+### [Gentle Stream Water Sounds](https://open.spotify.com/playlist/37i9dQZF1DWSR9IJviGbst)
 
 > Get into the flow of the forest, with relaxing natural water sounds of small creeks and calming streams.
 

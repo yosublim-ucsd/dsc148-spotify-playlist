@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 
 > inspirations &amp; favorites
 
-[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,368 likes - 777 songs - 2 day 13 hr 16 min
+[Jacques Greene](https://open.spotify.com/user/philippeaubindionne) - 6,366 likes - 777 songs - 2 day 13 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -264,7 +264,7 @@ pretty - [cumulative](/playlists/cumulative/5IGfrWkWQKM6F3fBWme0m1.md) - [plain]
 | 254 | [Because](https://open.spotify.com/track/2KA9ueqwrLd003UHqmC2MF) | [Sylvere](https://open.spotify.com/artist/6Uaezuj0rByRvQHRujnBcp) | [Because](https://open.spotify.com/album/4UieVzn9OwP8v0WGUykAir) | 4:46 |
 | 255 | [The Snoofer](https://open.spotify.com/track/4yFiV8qwdQ2n1cF1l4BYWJ) | [Moomin](https://open.spotify.com/artist/5GyUtaUuEnR7uhRF3jDj4s) | [The Snoofer](https://open.spotify.com/album/3Umz8bZx4SbTFeyjS5x7Pb) | 5:47 |
 | 256 | [Chaos Energy](https://open.spotify.com/track/4S1tnT9D73oTaGfihIGkOf) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Chaos Energy](https://open.spotify.com/album/7cNZnFUMk3PSgW7ljGszFV) | 5:13 |
-| 257 | [Nowhere Good](https://open.spotify.com/track/4kelCn9OAPBUtQg6CUXv8M) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O), [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [LUZ](https://open.spotify.com/album/2Xh5yUHosjfKq2B0ud0c98) | 5:22 |
+| 257 | [Nowhere Good feat\. Bella Boo](https://open.spotify.com/track/4kelCn9OAPBUtQg6CUXv8M) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O), [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [LUZ](https://open.spotify.com/album/2Xh5yUHosjfKq2B0ud0c98) | 5:22 |
 | 258 | [Cut to the Feeling](https://open.spotify.com/track/5HCVU3HmfkeLVR1gPhwaWk) | [Yawning Portal](https://open.spotify.com/artist/68fiKpJLoB94P1fLMZTZbC) | [Heart & Earth](https://open.spotify.com/album/4z6l1hnrwl1UlYcSMKu0mS) | 4:04 |
 | 259 | [Plonk IV](https://open.spotify.com/track/3f7hRh1hz2sDxSX1uhzi6e) | [Huerco S.](https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy) | [Plonk](https://open.spotify.com/album/0URcDAZuAvHu1pNFPekiL5) | 5:33 |
 | 260 | [Send Herb](https://open.spotify.com/track/1COOihQPkJyKaXY1KHozHu) | [Alvva](https://open.spotify.com/artist/5hopXl1FsmJN319Q6dK3lv) | [Send Herb](https://open.spotify.com/album/2It3D3ylhntF2n0P9RHnee) | 6:02 |

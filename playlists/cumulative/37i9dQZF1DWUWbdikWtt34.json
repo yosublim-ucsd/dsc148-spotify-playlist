@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Putri Isnari",
+  "description": "Dendang Dangdut teratas. Cover: Lesti, Mom Uung, Rizky Billar",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -1454,6 +1454,32 @@
       "duration_ms": 330998,
       "name": "Menggapai Cinta",
       "url": "https://open.spotify.com/track/4rerJfXC9ursw1GszRrxuO"
+    },
+    {
+      "album": {
+        "name": "Menyerah",
+        "url": "https://open.spotify.com/album/0zA93D842xuF7GCUitx0i6"
+      },
+      "artists": [
+        {
+          "name": "Lesti",
+          "url": "https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB"
+        },
+        {
+          "name": "Mom Uung",
+          "url": "https://open.spotify.com/artist/5w0tU4gg00N5ODpshCHz6c"
+        },
+        {
+          "name": "Rizky Billar",
+          "url": "https://open.spotify.com/artist/1QHSgB3sQ7xd1Cbs3yPU16"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268795,
+      "name": "Menyerah",
+      "url": "https://open.spotify.com/track/17QG2cIIyiUk3938GRLRTq"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The best Ambient tracks from 2010 to 2019. ",
-  "num_followers": 7677,
+  "num_followers": 7694,
   "original_name": "Ambient 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDY3ZWM3ZjVhOTFkZTFhZDQwNGU3NzE0NDFlZjQ3YmE2YWVkYjRh",
+  "snapshot_id": "MCw5Y2YzYmVhNTQ5M2JlNWQyOWVkNTBmZDQ4MGU0N2RjODE2MzdlNDhl",
   "tracks": [
     {
       "added_at": "2023-06-07 15:21:34",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Gave in Rest",
-        "url": "https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 210716,
-      "name": "Gilded",
-      "url": "https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Void VIII",
         "url": "https://open.spotify.com/album/5EFR1d59FzW9KkZO4lCJES"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 244973,
       "name": "Pulse",
       "url": "https://open.spotify.com/track/7juphslZcWQqXJYeKXGUHS"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Gave in Rest",
+        "url": "https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 210716,
+      "name": "Gilded",
+      "url": "https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "For Those Of You Who Have Never (And Also Those Who Have)",
-        "url": "https://open.spotify.com/album/57o6rhS5v8qPeRPzrNRWF9"
-      },
-      "artists": [
-        {
-          "name": "Huerco S.",
-          "url": "https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy"
-        }
-      ],
-      "duration_ms": 367013,
-      "name": "Hear Me Out",
-      "url": "https://open.spotify.com/track/6bxilo3FjnLhbk8IzhyVO4"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Narkopop",
         "url": "https://open.spotify.com/album/4JQ2igmQEWUihSRzWgTiCF"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 292333,
       "name": "Narkopop 1",
       "url": "https://open.spotify.com/track/1C9OEukFkuCc67GlGhxyIP"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "For Those Of You Who Have Never (And Also Those Who Have)",
+        "url": "https://open.spotify.com/album/57o6rhS5v8qPeRPzrNRWF9"
+      },
+      "artists": [
+        {
+          "name": "Huerco S.",
+          "url": "https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy"
+        }
+      ],
+      "duration_ms": 367013,
+      "name": "Hear Me Out",
+      "url": "https://open.spotify.com/track/6bxilo3FjnLhbk8IzhyVO4"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "A Turn of Breath - Extended",
-        "url": "https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ"
-      },
-      "artists": [
-        {
-          "name": "Ian William Craig",
-          "url": "https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q"
-        }
-      ],
-      "duration_ms": 192559,
-      "name": "Before Meaning Comes",
-      "url": "https://open.spotify.com/track/1T8YONUfkmHPqmUueSYq0V"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Forgotten Hill",
         "url": "https://open.spotify.com/album/53fSlFeav0ih0YWUU2M1Kf"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 321894,
       "name": "Cherry Blossom Petals Fall Like Heavy Snow",
       "url": "https://open.spotify.com/track/5xWpxxbOgiVJnveonlraii"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "A Turn of Breath - Extended",
+        "url": "https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ"
+      },
+      "artists": [
+        {
+          "name": "Ian William Craig",
+          "url": "https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q"
+        }
+      ],
+      "duration_ms": 192559,
+      "name": "Before Meaning Comes",
+      "url": "https://open.spotify.com/track/1T8YONUfkmHPqmUueSYq0V"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Moiety",
+        "url": "https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO"
+      },
+      "artists": [
+        {
+          "name": "Helios",
+          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
+        }
+      ],
+      "duration_ms": 239351,
+      "name": "Equal Ourselves",
+      "url": "https://open.spotify.com/track/3P8K105H7ecziOaAuVh4RN"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Goodbye To Language",
         "url": "https://open.spotify.com/album/10bvLR2PyyfhP9xzU9feBu"
       },
@@ -1195,6 +1211,26 @@
       "duration_ms": 199517,
       "name": "Blue Diamond",
       "url": "https://open.spotify.com/track/0uiQHwjtQpvEClMkYjEhBi"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/4josdBWbgaRcF4bEh7U7v4"
+      },
+      "artists": [
+        {
+          "name": "Ben Lukas Boysen",
+          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
+        },
+        {
+          "name": "Sebastian Plano",
+          "url": "https://open.spotify.com/artist/7epYP6gVqTvHaKG7iSMAzr"
+        }
+      ],
+      "duration_ms": 214668,
+      "name": "Opening",
+      "url": "https://open.spotify.com/track/7H3bUCNluOOnkBx5yQ9NwU"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1231,42 +1267,6 @@
       "duration_ms": 244786,
       "name": "Infra 1",
       "url": "https://open.spotify.com/track/3c7ZpMEp2doDCVm1Rw7Vf3"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/4josdBWbgaRcF4bEh7U7v4"
-      },
-      "artists": [
-        {
-          "name": "Ben Lukas Boysen",
-          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
-        },
-        {
-          "name": "Sebastian Plano",
-          "url": "https://open.spotify.com/artist/7epYP6gVqTvHaKG7iSMAzr"
-        }
-      ],
-      "duration_ms": 214668,
-      "name": "Opening",
-      "url": "https://open.spotify.com/track/7H3bUCNluOOnkBx5yQ9NwU"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Moiety",
-        "url": "https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO"
-      },
-      "artists": [
-        {
-          "name": "Helios",
-          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
-        }
-      ],
-      "duration_ms": 239351,
-      "name": "Equal Ourselves",
-      "url": "https://open.spotify.com/track/3P8K105H7ecziOaAuVh4RN"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Low Distance",
-        "url": "https://open.spotify.com/album/7eA7lexsBpvgs17la5jRc0"
-      },
-      "artists": [
-        {
-          "name": "Deaf Center",
-          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
-        }
-      ],
-      "duration_ms": 227458,
-      "name": "Faded Earth",
-      "url": "https://open.spotify.com/track/5d6YkxTsmw6isMtqsw8vzh"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Travels in Constants Volume 24",
         "url": "https://open.spotify.com/album/5MoraJgA2tdIqILJ7yM3TA"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 204826,
       "name": "The Endless Battle of the Maudlin Ballade, Pt. 2",
       "url": "https://open.spotify.com/track/7vVIKytsOPqqs7rlxTrSGR"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Low Distance",
+        "url": "https://open.spotify.com/album/7eA7lexsBpvgs17la5jRc0"
+      },
+      "artists": [
+        {
+          "name": "Deaf Center",
+          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
+        }
+      ],
+      "duration_ms": 227458,
+      "name": "Faded Earth",
+      "url": "https://open.spotify.com/track/5d6YkxTsmw6isMtqsw8vzh"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Living With Yourself",
-        "url": "https://open.spotify.com/album/0AT7IX2DuUhYyAaHDtNzWx"
-      },
-      "artists": [
-        {
-          "name": "Mark McGuire",
-          "url": "https://open.spotify.com/artist/2w7aH9RfRWfODKlj0WI8By"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Two Different People",
-      "url": "https://open.spotify.com/track/2pujZjrKfMS9clMZi5GqLt"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Curious Things",
         "url": "https://open.spotify.com/album/2Kq9ej2SCW6z0lt9Yyx8uF"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 328826,
       "name": "Ogives / Redistributed",
       "url": "https://open.spotify.com/track/1W7ZT84ehANv5CZNJ1GHY6"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Living With Yourself",
+        "url": "https://open.spotify.com/album/0AT7IX2DuUhYyAaHDtNzWx"
+      },
+      "artists": [
+        {
+          "name": "Mark McGuire",
+          "url": "https://open.spotify.com/artist/2w7aH9RfRWfODKlj0WI8By"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Two Different People",
+      "url": "https://open.spotify.com/track/2pujZjrKfMS9clMZi5GqLt"
     },
     {
       "added_at": "2023-06-07 15:21:34",

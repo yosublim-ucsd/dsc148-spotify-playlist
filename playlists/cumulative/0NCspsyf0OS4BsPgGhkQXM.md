@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-978 songs - 2 day 3 hr 31 min
+979 songs - 2 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -784,6 +784,7 @@
 | [SO HIGH](https://open.spotify.com/track/4iru4THOvnPBJMBwvrUDPS) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [CIRCUIT DREAMS](https://open.spotify.com/album/1tz6AIBHxEH3rfBZ8ri80P) | 3:24 | 2023-10-19 |  |
 | [Sober](https://open.spotify.com/track/3PYHVvoFONHRTWiDeRk0dK) | [scsc](https://open.spotify.com/artist/76EtZST05YbVzXkUsMHhbS) | [Sober](https://open.spotify.com/album/2xAQ6N5SfAUdzJX0RDsKyP) | 3:50 | 2022-05-06 | 2022-06-04 |
 | [Sold My Soul](https://open.spotify.com/track/4oyQFA7BnwLUPFFk8ptNOa) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY) | [Sold My Soul](https://open.spotify.com/album/3zGrGTP0vCSqIErxuyp6sJ) | 3:28 | 2023-08-16 |  |
+| [Solitude Velocity \- Slowed + Loop](https://open.spotify.com/track/7qqZLIcRL8BTXh12vOBgYQ) | [Luke Willies](https://open.spotify.com/artist/3uIws1bbX1b53e0xJpz94r) | [Solitude Velocity \- Slowed + Loop](https://open.spotify.com/album/3IZA0CxZOrAHBVfJmZFnFo) | 5:58 | 2023-12-21 |  |
 | [Solstice](https://open.spotify.com/track/5YCGiUK8GHKTDzen6nJc4Y) | [INZO](https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ) | [Solstice](https://open.spotify.com/album/4VVYjDuvidxSiGwfcBUykX) | 5:03 | 2023-04-08 | 2023-08-26 |
 | [Something More](https://open.spotify.com/track/38nxI26aJyktPbgmiFYNK9) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [Alltair](https://open.spotify.com/artist/4gBQ6BSVo4NDxXohKHEQHY) | [Something More](https://open.spotify.com/album/0p009r4U2sfdTKEKqCCdWU) | 2:50 | 2022-03-18 | 2022-04-19 |
 | [Something Wrong](https://open.spotify.com/track/44jYwjxJNpJiwiLi2cDl3G) | [Le Malls](https://open.spotify.com/artist/0a8BrKaJ80jFDVudXKkGab) | [Bassline](https://open.spotify.com/album/7Jaq1HSRWeweq0YQG2TShv) | 2:52 | 2022-01-14 | 2022-03-05 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Kleo x Segah x Motive ",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Jeff Redd",
   "name": "NKVT",
   "tracks": [
     {
@@ -329,6 +329,28 @@
     },
     {
       "album": {
+        "name": "Aramazsan Arama",
+        "url": "https://open.spotify.com/album/1EwOWKlq8ufPZKpEg0eOSU"
+      },
+      "artists": [
+        {
+          "name": "Decrat",
+          "url": "https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5"
+        },
+        {
+          "name": "Velet",
+          "url": "https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162142,
+      "name": "Aramazsan Arama",
+      "url": "https://open.spotify.com/track/1hd4lSaJtLomTU3s6OXsf6"
+    },
+    {
+      "album": {
         "name": "Arar\u0131m Yar\u0131n",
         "url": "https://open.spotify.com/album/2zUHnGXEvzKk02vnJQHAnm"
       },
@@ -504,7 +526,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 128450,
       "name": "A\u015eIK OLDUM",
       "url": "https://open.spotify.com/track/3SJklzPJQ6qYw6WzlRtBRj"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 
 > <a href="https://open.spotify.com/genre/edm\_dance">Dance music</a> unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,188 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,212 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 | 79 | [You Were Loved \(with OneRepublic\) \- Acoustic](https://open.spotify.com/track/3QcvwgkJmYL6Hz7tvYqkD3) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [You Were Loved \(with OneRepublic\) \[Acoustic\]](https://open.spotify.com/album/62maG5ACfFJ232Nle4rtqq) | 3:31 |
 | 80 | [Real Life \- Acoustic](https://open.spotify.com/track/4Ujd4ROrsrujyD4GQZi4oh) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [NAATIONS](https://open.spotify.com/artist/6mpxgK8EZh8VDoe6trGF0f) | [Real Life \(Acoustic\)](https://open.spotify.com/album/31IHRCGs5lvEvDkaDjr3eZ) | 3:42 |
 | 81 | [Spectrum \- Acoustic Version](https://open.spotify.com/track/23meR9hk6hYjvMJjExeYE1) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo) | [Spectrum EP](https://open.spotify.com/album/3VH3gtVsAA09K3QOWMSdOU) | 1:50 |
-| 82 | [Mad World \- Acoustic Version](https://open.spotify.com/track/3uXVW7yEmJvVeslQae2dc3) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Jake Reese](https://open.spotify.com/artist/0eBOZ74PcpQb3SisNPgaRQ) | [Mad World \(Acoustic Version\)](https://open.spotify.com/album/4Eq4A8AIi4PvXOEqrK2Iaq) | 2:49 |
-| 83 | [Are You with Me \- Harold Van Lennep Piano Edit](https://open.spotify.com/track/0kcVKQd51mgJdEe3Fgqmas) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Are You With Me \(Remixes\)](https://open.spotify.com/album/5Lg5cLkEmlq2IN0K0u5KeC) | 2:56 |
-| 84 | [Florida](https://open.spotify.com/track/6caZJt9HJb4Oi8eUwofGBy) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Florida](https://open.spotify.com/album/5W6DaTWwEqOQMdLjTHxf50) | 1:36 |
+| 82 | [Florida](https://open.spotify.com/track/6caZJt9HJb4Oi8eUwofGBy) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Florida](https://open.spotify.com/album/5W6DaTWwEqOQMdLjTHxf50) | 1:36 |
+| 83 | [Mad World \- Acoustic Version](https://open.spotify.com/track/3uXVW7yEmJvVeslQae2dc3) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Jake Reese](https://open.spotify.com/artist/0eBOZ74PcpQb3SisNPgaRQ) | [Mad World \(Acoustic Version\)](https://open.spotify.com/album/4Eq4A8AIi4PvXOEqrK2Iaq) | 2:49 |
+| 84 | [Are You with Me \- Harold Van Lennep Piano Edit](https://open.spotify.com/track/0kcVKQd51mgJdEe3Fgqmas) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Are You With Me \(Remixes\)](https://open.spotify.com/album/5Lg5cLkEmlq2IN0K0u5KeC) | 2:56 |
 | 85 | [Here Tonight \- Acoustic Version](https://open.spotify.com/track/6EJAP09tSNsp7kBhtC8Fcg) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Jay Cosmic](https://open.spotify.com/artist/0p7L2MImTqtWEAlMN9qHYx), [Collin McLoughlin](https://open.spotify.com/artist/6oKeE1UH8FizqNPScqM1NE) | [Here Tonight \(Acoustic Version\)](https://open.spotify.com/album/3riI0LyX9QUpboMEgjGgju) | 2:47 |
 | 86 | [Long Time Coming](https://open.spotify.com/track/1zFTuPPXc1pn2W1LXNQ9ND) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r) | [Brighter Future](https://open.spotify.com/album/2j5Ie27rxisV2j51sm2mVA) | 2:19 |
 | 87 | [How to Love \(feat\. Sofia Reyes\) \- Acoustic](https://open.spotify.com/track/52B2TNxEZ7z7ytwLdA99pG) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [How to Love \(feat\. Sofia Reyes\) \[Spanish & Acoustic\]](https://open.spotify.com/album/3MsD918JVOTgVAAGYw94Uy) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GiUwx1edLZ.md) - [plain]
 | 99 | [No Time For Tears \- Acoustic](https://open.spotify.com/track/6j7JXcBcgkqiMV7RMWzcpk) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [No Time For Tears \(Acoustic\)](https://open.spotify.com/album/6JdEdTE43TPbQ49iawf3uw) | 3:25 |
 | 100 | [Ones You Miss \- Acoustic](https://open.spotify.com/track/62SkGDuBT9YGE11bLCuSJl) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Ones You Miss \(Acoustic\)](https://open.spotify.com/album/0SlDDFEJwrS2EN2rEHi3kp) | 1:52 |
 
-Snapshot ID: `MCwwZDI1N2RmNTA5MDc3ZDAyNjJiNDVjYmZjNWJkMzhlODQwNjJmOWMy`
+Snapshot ID: `MCxjNjMwYzA3NGFkMjY2ODEzYjA5NjRlMGE4MDFiY2YzZWQwMWVjN2Fj`

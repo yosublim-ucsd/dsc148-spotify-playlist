@@ -4,7 +4,7 @@
 
 > Jazz that captures the essence of autumn.
 
-468 songs - 1 day 6 hr 1 min
+472 songs - 1 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Better? Lighter? Easier?](https://open.spotify.com/track/7G32BRrjxfsmrtOiF7Qaz4) | [Maxime Leroy Trio](https://open.spotify.com/artist/4z6j0Z8eFGwMjlJFDAmV2M) | [Better? Lighter? Easier?](https://open.spotify.com/album/0ru9McSxaSuleuNABJ1ygj) | 3:14 | 2023-09-22 |  |
 | [Bewitched](https://open.spotify.com/track/7va480wmDj33F0PRpINgkD) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [Bewitched](https://open.spotify.com/album/2GeLBQLeuf4AzujFK206X0) | 3:27 | 2022-04-12 |  |
 | [Beyond Belief](https://open.spotify.com/track/4Y27hhN8JYQnD4XPnqlZsU) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Beyond Belief](https://open.spotify.com/album/3NbBA45Xy9RD9og05z7NBJ) | 3:31 | 2022-11-17 |  |
-| [Black Ice](https://open.spotify.com/track/2vLmNEKsbw9sjl7PFzmar3) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Black Ice](https://open.spotify.com/album/6Wq8NLhoc7O3VpDZx8hpr4) | 3:48 | 2022-10-27 |  |
+| [Black Ice](https://open.spotify.com/track/2vLmNEKsbw9sjl7PFzmar3) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Black Ice](https://open.spotify.com/album/6Wq8NLhoc7O3VpDZx8hpr4) | 3:48 | 2022-10-27 | 2023-12-22 |
 | [Blue in Green](https://open.spotify.com/track/36cspwQPiIL9ElURDU7bGX) | [Hudson Harris & Haim](https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV) | [Blue in Green](https://open.spotify.com/album/1gFhq2ad0vX0D3MyxG3Kqq) | 3:49 | 2021-12-07 | 2022-12-02 |
 | [Blue Mist](https://open.spotify.com/track/4douYG0S01NIbF0vyz7PPb) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Mist](https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit) | 3:24 | 2023-03-03 | 2023-05-26 |
 | [Blue Moon](https://open.spotify.com/track/05KUj61TSptAGUrlMSS4aj) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Blue Moon](https://open.spotify.com/album/3vZUBxXFUgjiPXylxY78Pq) | 3:40 | 2021-12-07 | 2022-01-08 |
@@ -119,6 +119,7 @@
 | [Embraceable You](https://open.spotify.com/track/24pfsJ5fFppdTxjgmqNlSN) | [Martin Harding Quartet](https://open.spotify.com/artist/1ETjP5CHsWKioJfH0n4FEB) | [Embraceable You](https://open.spotify.com/album/0dTFv8W09ohDBCXrlT0nJK) | 4:01 | 2022-01-07 | 2022-04-13 |
 | [Empty Embrace](https://open.spotify.com/track/23M3EyLMK59mwAftJcWjJX) | [Halcyon Jazz Band](https://open.spotify.com/artist/65v6vabYRS8eorJk8Heb6n) | [Empty Embrace](https://open.spotify.com/album/7tZNqPtohwikYeyXWlMLhd) | 3:05 | 2023-05-11 |  |
 | [Enigmatic Echoes](https://open.spotify.com/track/4VQpucRkBAU0sU5XMD28uq) | [Turning Trio](https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC) | [Enigmatic Echoes](https://open.spotify.com/album/32GcUaTDK6U07ohK8p0iSF) | 4:05 | 2023-09-22 |  |
+| [Eternal Love](https://open.spotify.com/track/56vEbP6qnGqn21YwH2WCcd) | [Arthur Taylor Trio](https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n) | [Eternal Love](https://open.spotify.com/album/7glJx2sUdT6hK6qU9kVVEw) | 3:29 | 2023-12-22 |  |
 | [Ever Since You Came](https://open.spotify.com/track/7GaJHvb45wl4F5QYuesmI8) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Ever Since You Came](https://open.spotify.com/album/72goGK8ag1HjjFDirVAjWI) | 4:37 | 2022-08-17 |  |
 | [Everything Happens To Me](https://open.spotify.com/track/5skJZRiUtObQ6tR130S5O1) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [When Sunny Gets Blue](https://open.spotify.com/album/1BIRyHurwWkR2PiyW9Q54z) | 2:41 | 2021-12-07 |  |
 | [Everything To Me](https://open.spotify.com/track/1D7BVIjNGLW0dBlD5NEmev) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Everything To Me](https://open.spotify.com/album/5gKlIc5h9S3NigmdtLUwjI) | 5:24 | 2021-12-07 | 2023-06-02 |
@@ -363,6 +364,7 @@
 | [Someone Elses Love](https://open.spotify.com/track/0NVDCHyEn5eLwfcxx2QFC6) | [Sodermalm Strand](https://open.spotify.com/artist/33J2KlLdNu8EHXQ1j4ifLp) | [Someone Elses Love](https://open.spotify.com/album/0UF9P6f5lz0xSlJpg7X4kv) | 3:43 | 2022-08-30 |  |
 | [Someone To Watch Over Me](https://open.spotify.com/track/6idTshNWsrWkNUrJYgzs3v) | [Long Island Quartet](https://open.spotify.com/artist/2fmPgnUqExSLjXIwIyigPR) | [Someone To Watch Over Me](https://open.spotify.com/album/71H3cyUj63XR2VBs8BdecJ) | 4:08 | 2021-12-07 |  |
 | [Sometime Ago](https://open.spotify.com/track/6HZgxhesyOy8jkTiAFfQmR) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [Sometime Ago](https://open.spotify.com/album/3gDtm0TuOChwQxe1sg1W9q) | 2:40 | 2022-08-17 |  |
+| [Sometimes](https://open.spotify.com/track/1o4HX3IdpPdoT3zB8bThhb) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Sometimes](https://open.spotify.com/album/0shZE0rf62F4ei2ioJs9Fs) | 3:44 | 2023-12-22 |  |
 | [Somewhere Over The Rainbow](https://open.spotify.com/track/3hG0RxJqxggDnSjg6tU6Py) | [The North Sea Trio](https://open.spotify.com/artist/1aalpsSEZpG1wLuLvXcCco) | [Somewhere Over The Rainbow](https://open.spotify.com/album/5N5QVPTLl1WVZE6yuWJGv6) | 3:35 | 2022-04-12 | 2022-06-01 |
 | [Soon](https://open.spotify.com/track/2fAydkC38qWCHMDz5WjhGk) | [Kevin Waters Group](https://open.spotify.com/artist/57U22BNH5ClRbVtpNjVAoG) | [Soon](https://open.spotify.com/album/4Zj16QaY58OccNy2W9ohpE) | 4:21 | 2022-08-11 |  |
 | [Sooner or Later](https://open.spotify.com/track/0ajS6qLPmNV7QEF0Dp6m1z) | [Douglas Ruby Trio](https://open.spotify.com/artist/1viVBXkZrTMnLT6hsFhiMM) | [Sooner or Later](https://open.spotify.com/album/4ctLemLDyoXpPURF5s5zvs) | 3:25 | 2023-10-06 |  |
@@ -386,6 +388,7 @@
 | [Tell Me](https://open.spotify.com/track/05VtTtYxedMwnMJiysMpJW) | [Foster Davies](https://open.spotify.com/artist/78Pm7H24T9om74ZfNs4UF7) | [Tell Me](https://open.spotify.com/album/7wul9iPUYQoZPR9ekVcxAa) | 4:24 | 2022-08-11 |  |
 | [Tenderly](https://open.spotify.com/track/5w6hGJhvWy9Fth9eldO0rT) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [Tenderly](https://open.spotify.com/album/5rEcJC5idMYjO6mq3eJFeC) | 3:23 | 2021-12-07 |  |
 | [That's All](https://open.spotify.com/track/53VuyKap8WiDjkrtm5d4h3) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [King Of The Tenors](https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v) | 3:47 | 2021-12-07 | 2022-11-25 |
+| [The Apostate](https://open.spotify.com/track/6Ntc0OMq9jqZlAdhnf4UMz) | [Kevin Waters Group](https://open.spotify.com/artist/57U22BNH5ClRbVtpNjVAoG) | [The Apostate](https://open.spotify.com/album/1pR0FZ1Ob5uyGGif7CSKGX) | 3:44 | 2023-12-22 |  |
 | [The ballad of sad young men](https://open.spotify.com/track/5gvPQHCaeoHCG7pKse1VqO) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [Same As Ever](https://open.spotify.com/album/2cEEweAitLTN47YeFWz0Gc) | 5:10 | 2021-12-07 | 2022-08-12 |
 | [The Batysphere](https://open.spotify.com/track/7wjyhXjXor4PscmHQrImTy) | [The Collective](https://open.spotify.com/artist/36tnEBoX2HE41bmQi1xWKP) | [The Batysphere](https://open.spotify.com/album/4LKbw609Uu1VvXpSc9RVc4) | 2:26 | 2023-08-24 |  |
 | [The Beauty of Everyday Things](https://open.spotify.com/track/3jiTehDiPwfIxr9MHfPUvb) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [The Beauty of Everyday Things](https://open.spotify.com/album/608J2I94u2wUhinJT3Aihk) | 3:23 | 2022-01-07 |  |
@@ -450,6 +453,7 @@
 | [When We Were Young](https://open.spotify.com/track/509DJTmdSrynAqzm5c1m3K) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [When We Were Young](https://open.spotify.com/album/06zd6KljxtUR3E9o7QPPXn) | 2:59 | 2022-11-10 |  |
 | [When You're Here](https://open.spotify.com/track/0oXrVmcJVCd7043iyHmmUI) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Things To Look Forward To](https://open.spotify.com/album/6HKoV1sIgJA7qgmwiX8Joo) | 5:21 | 2023-03-03 |  |
 | [When You're Not Around Me](https://open.spotify.com/track/6DixEJXg93VyLrtJopHzsg) | [Stewart Park Quartet](https://open.spotify.com/artist/6WM9U52WDUrqLdjVDJRT1d) | [When You're Not Around Me](https://open.spotify.com/album/6xNJFhbq0YmZcDcAnlVuTL) | 3:45 | 2023-12-08 | 2023-12-15 |
+| [Where or When](https://open.spotify.com/track/5ABObbZnTJIMSOfaNcu0xm) | [Joe Wilson Trio](https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E) | [Where or when](https://open.spotify.com/album/1Q1UqyRWrgL4JK2hbyiTQA) | 3:28 | 2023-12-22 |  |
 | [Where Two Oceans Meet](https://open.spotify.com/track/6zYKe47ZWgbHRdwUUr52TJ) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [Where Two Oceans Meet](https://open.spotify.com/album/3EMRqLCAtf4AviavLTrQlw) | 3:13 | 2023-08-10 |  |
 | [Will You Wait For Me](https://open.spotify.com/track/0FFYwlRnQbuQhfW2pbzIgv) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [Will You Wait For Me](https://open.spotify.com/album/0vHnbVxEXwagrTFClPMVgi) | 3:47 | 2023-11-17 |  |
 | [Willow](https://open.spotify.com/track/0E30aSv1GFX0SG0zbsCxGH) | [More than Jazz](https://open.spotify.com/artist/6BLANsh44CPzD19TF0X0Et) | [Willow](https://open.spotify.com/album/594swB6PoPzgC7NcHFMRB8) | 3:16 | 2022-11-24 |  |

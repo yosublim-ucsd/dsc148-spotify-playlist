@@ -4,7 +4,7 @@
 
 > Vibey indie tracks for just hanging out.
 
-727 songs - 1 day 19 hr 41 min
+728 songs - 1 day 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Asc\. Scorpio](https://open.spotify.com/track/2MnSPY2QYMbtkDWGzY02In) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Asc\. Scorpio](https://open.spotify.com/album/1dudQXY04T9fOzNRlnHSYQ) | 2:46 | 2023-04-21 |  |
 | [Asc\. Scorpio](https://open.spotify.com/track/3Af0Uw9IfaJzb6ZBi2Jdl6) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Asc\. Scorpio](https://open.spotify.com/album/7JU9R2cwpftETvz94nhUfR) | 2:46 | 2022-11-10 | 2023-04-30 |
 | [Asking 4 a Friend](https://open.spotify.com/track/5rb8wJ5AgXg5vUyo9mofZh) | [Anna Burch](https://open.spotify.com/artist/26OB2jqYqL7pNslVtu4VGt) | [Asking 4 a Friend](https://open.spotify.com/album/4Gj9biEnOasNTaZweJKSt6) | 3:53 | 2020-10-05\* | 2021-05-25 |
+| [Astral Plane](https://open.spotify.com/track/6srWhJKBiuuPXpjUjQeAHc) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Silver](https://open.spotify.com/album/043vgwukOxX7bcL4VuMX10) | 4:41 | 2023-12-14 |  |
 | [Autumn](https://open.spotify.com/track/2KhrOCk3xdBDYI3xYOn2vK) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Autumn](https://open.spotify.com/album/7oPUmWoISXzUuANQ4o38V2) | 2:32 | 2021-11-19 | 2022-04-19 |
 | [Average Guy \(Blame\)](https://open.spotify.com/track/1ZJaZDD8D9SqmBNAXehB6H) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W), [Monster Rally](https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43) | [Average Guy \(Blame\)](https://open.spotify.com/album/3IDnvOtwynPayvIxyY7Zdo) | 3:00 | 2023-12-12 |  |
 | [Awake](https://open.spotify.com/track/2qC1sUo8xxRRqYsaYEdDuZ) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Awake](https://open.spotify.com/album/7HWdGPosPkb9GY5MOgLgSW) | 4:43 | 2020-10-16 | 2022-04-20 |
@@ -376,7 +377,7 @@
 | [Kyoto \(The Marías Remix\)](https://open.spotify.com/track/4N4y5krXgvSSGBktqHCdpx) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Kyoto \(The Marías Remix\)](https://open.spotify.com/album/0xMkev5tjeicR9DwfCkBhf) | 3:38 | 2021-08-27 | 2022-07-23 |
 | [L\-Train](https://open.spotify.com/track/5uDxY7uEOSHI8OOqYphnr4) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [L\-Train](https://open.spotify.com/album/3HqA2mPPC5Uadvdt9AU0HO) | 3:47 | 2022-06-10 | 2022-09-16 |
 | [Last Time](https://open.spotify.com/track/6voWMJuzUNtqMMxK9QfcNb) | [Insightful](https://open.spotify.com/artist/0iq8RFnJPaAzjxStLi9Y9z) | [Last Time](https://open.spotify.com/album/4FsFRQE3zfNogpB5ll5kRE) | 3:41 | 2021-05-03 | 2021-10-14 |
-| [Lately](https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 3:30 | 2023-07-07 |  |
+| [Lately](https://open.spotify.com/track/4jIguNAkXc1KhaNjPNo6Bl) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 3:30 | 2023-07-07 | 2023-12-22 |
 | [Laurelhurst](https://open.spotify.com/track/16gvCSeJMZRtdt89BIqiNg) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Protect Our Winters](https://open.spotify.com/album/5xJLwTxrpzWtnocHOXbbF4) | 3:09 | 2021-04-02 | 2022-07-27 |
 | [LAUREN](https://open.spotify.com/track/5sQSiJhUQcJDCW9S81bKIU) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [LAUREN](https://open.spotify.com/album/7tYzmylSBKXvZUQlh7cZHB) | 2:53 | 2023-12-12 |  |
 | [Lavender](https://open.spotify.com/track/6h0u2pSqMV0JPvzsnA8hwg) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Lavender](https://open.spotify.com/album/21jCpNY7QMkgvX2qHnglBX) | 3:11 | 2021-06-04 | 2022-06-25 |

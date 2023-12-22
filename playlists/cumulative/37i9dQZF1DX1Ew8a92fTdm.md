@@ -4,7 +4,7 @@
 
 > Peaceful music box tunes for sleepy babies.
 
-255 songs - 6 hr 30 min
+256 songs - 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Close Together](https://open.spotify.com/track/4bXwpLhOCnHZScpOPmOI7X) | [Linnea Nord](https://open.spotify.com/artist/4PquHZJBaOcfBdPliZvCLq) | [Close Together](https://open.spotify.com/album/3XlXwOJ9yHcMYrJ5nXKRhY) | 1:14 | 2022-02-10 |  |
 | [Cloud Castles](https://open.spotify.com/track/6Fq1ceTEqN9eMDq7QNPMld) | [Irving Simon](https://open.spotify.com/artist/7hZbX41Usjsq13fQDqXSHa) | [Cloud Castles](https://open.spotify.com/album/4sprVQ6qKOBMFMjljbb1Or) | 2:08 | 2022-02-10 |  |
 | [Cuddle](https://open.spotify.com/track/5QYMcm9d8vixNQcj2uM88O) | [Linnea Nord](https://open.spotify.com/artist/4PquHZJBaOcfBdPliZvCLq) | [Cuddle](https://open.spotify.com/album/5TBQkKMj35YYutKnkxUdjE) | 1:14 | 2022-02-10 | 2023-05-19 |
+| [daisy](https://open.spotify.com/track/4Wpot9tmOGZ5OQ1HNNeo3x) | [Margaret Bloom](https://open.spotify.com/artist/246CkETgfAKnA3ajlO2ri4) | [daisy](https://open.spotify.com/album/3t3fGOcbPDLMZHUKord9Gw) | 2:07 | 2023-12-22 |  |
 | [Danny Boy](https://open.spotify.com/track/6qBPfq25xnMLhUrUp7WJd0) | [Spotty Box](https://open.spotify.com/artist/0W1atZRo3p6T25yU1gMvpq) | [Danny Boy](https://open.spotify.com/album/491QWq1E8D6NYHZVplMmTU) | 1:39 | 2022-02-10 |  |
 | [Dans notre jardin](https://open.spotify.com/track/0Q3wPSFh2tmOTeMe1yAFQM) | [Chante Abbott](https://open.spotify.com/artist/1T4QcRl1ubcs9mJgtjjP8q) | [Dans notre jardin](https://open.spotify.com/album/7Lz4tikU1XQxOis3UNLPWl) | 1:28 | 2022-04-22 | 2023-05-19 |
 | [Dear buddy](https://open.spotify.com/track/4QL90SubKWbeN6GQLu7p0c) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [Dear buddy](https://open.spotify.com/album/5Z0IS48eAdA3SwecrqVNMT) | 1:41 | 2023-05-19 |  |

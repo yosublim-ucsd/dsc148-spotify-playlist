@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena!",
-  "num_followers": 62754,
+  "num_followers": 62790,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmMzNjM2MTZkMWNhYWI3NDU1YWNiYzhmZmM1OWUyNmU4NjQwMjEx",
+  "snapshot_id": "MCw4NjlmMTgwZWFmMDc3MjI1NzBlMWFlZTI1MzhlNWNmZTQyNDhlZmUw",
   "tracks": [
     {
       "added_at": "2023-10-05 22:49:47",
@@ -527,18 +527,18 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Hecho y Derecho",
-        "url": "https://open.spotify.com/album/5ox4gVjB2vljDMSfKUFOK6"
+        "name": "Siempre Arriba",
+        "url": "https://open.spotify.com/album/1ZyuRSvEjBg1lbS9tfTNNR"
       },
       "artists": [
         {
-          "name": "Los Potros Del Sur",
-          "url": "https://open.spotify.com/artist/6zWLSfAWJ35c78VgLRs7EY"
+          "name": "Gran Sismo Tropikal",
+          "url": "https://open.spotify.com/artist/2ukK9Jw0F1ZX9NZqx7r8Rs"
         }
       ],
-      "duration_ms": 208640,
-      "name": "Con Quien Te Olvido",
-      "url": "https://open.spotify.com/track/2N9p8JgTiXJHJsqETbctXe"
+      "duration_ms": 246230,
+      "name": "Con Que Derecho",
+      "url": "https://open.spotify.com/track/26iOxv7FyPSfYeV1beFg7j"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -591,18 +591,18 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Siempre Arriba",
-        "url": "https://open.spotify.com/album/1ZyuRSvEjBg1lbS9tfTNNR"
+        "name": "Hecho y Derecho",
+        "url": "https://open.spotify.com/album/5ox4gVjB2vljDMSfKUFOK6"
       },
       "artists": [
         {
-          "name": "Gran Sismo Tropikal",
-          "url": "https://open.spotify.com/artist/2ukK9Jw0F1ZX9NZqx7r8Rs"
+          "name": "Los Potros Del Sur",
+          "url": "https://open.spotify.com/artist/6zWLSfAWJ35c78VgLRs7EY"
         }
       ],
-      "duration_ms": 246230,
-      "name": "Con Que Derecho",
-      "url": "https://open.spotify.com/track/26iOxv7FyPSfYeV1beFg7j"
+      "duration_ms": 208640,
+      "name": "Con Quien Te Olvido",
+      "url": "https://open.spotify.com/track/2N9p8JgTiXJHJsqETbctXe"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "En 3d y a Todo Color",
-        "url": "https://open.spotify.com/album/4izoOBAYsECpgty3zi9w80"
-      },
-      "artists": [
-        {
-          "name": "Los Potros Del Sur",
-          "url": "https://open.spotify.com/artist/6zWLSfAWJ35c78VgLRs7EY"
-        }
-      ],
-      "duration_ms": 223085,
-      "name": "Mentirosa",
-      "url": "https://open.spotify.com/track/4fLSNdj45MMwAynymYuWJz"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "Nacieron para Triunfar, Vol. 1",
         "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 193125,
       "name": "La Mesa 20",
       "url": "https://open.spotify.com/track/0hDEKg9kg4d46bXmtZzYJO"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "En 3d y a Todo Color",
+        "url": "https://open.spotify.com/album/4izoOBAYsECpgty3zi9w80"
+      },
+      "artists": [
+        {
+          "name": "Los Potros Del Sur",
+          "url": "https://open.spotify.com/artist/6zWLSfAWJ35c78VgLRs7EY"
+        }
+      ],
+      "duration_ms": 223085,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/4fLSNdj45MMwAynymYuWJz"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
+        "name": "Alma Enamorada",
+        "url": "https://open.spotify.com/album/2BoTjs0a7IgcKXQNQqJgdg"
+      },
+      "artists": [
+        {
+          "name": "Los Halcones Negros",
+          "url": "https://open.spotify.com/artist/3gKLNRsPFUsiUA1gk9tXyS"
+        }
+      ],
+      "duration_ms": 267186,
+      "name": "Sola Con Mi Soledad / Y Voy a Ser Feliz",
+      "url": "https://open.spotify.com/track/7gQ8PK6QcOMrKJn6QCRV2z"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
         "name": "Guarachas Rancheras",
         "url": "https://open.spotify.com/album/6nASV1w9xlItVsMV9QTSaI"
       },
@@ -1183,18 +1199,18 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Alma Enamorada",
-        "url": "https://open.spotify.com/album/2BoTjs0a7IgcKXQNQqJgdg"
+        "name": "Somos Infieles",
+        "url": "https://open.spotify.com/album/4vNNb74WGZJl9cCWQjmrpC"
       },
       "artists": [
         {
-          "name": "Los Halcones Negros",
-          "url": "https://open.spotify.com/artist/3gKLNRsPFUsiUA1gk9tXyS"
+          "name": "Grupo el duelo",
+          "url": "https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv"
         }
       ],
-      "duration_ms": 267186,
-      "name": "Sola Con Mi Soledad / Y Voy a Ser Feliz",
-      "url": "https://open.spotify.com/track/7gQ8PK6QcOMrKJn6QCRV2z"
+      "duration_ms": 199527,
+      "name": "Somos Infieles",
+      "url": "https://open.spotify.com/track/0xxqACHxwwhP4r51GmnRrU"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -1211,22 +1227,6 @@
       "duration_ms": 168973,
       "name": "El Lirio",
       "url": "https://open.spotify.com/track/66iqMUdKbpwpZ82nxCecTn"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
-        "name": "Somos Infieles",
-        "url": "https://open.spotify.com/album/4vNNb74WGZJl9cCWQjmrpC"
-      },
-      "artists": [
-        {
-          "name": "Grupo el duelo",
-          "url": "https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv"
-        }
-      ],
-      "duration_ms": 199527,
-      "name": "Somos Infieles",
-      "url": "https://open.spotify.com/track/0xxqACHxwwhP4r51GmnRrU"
     },
     {
       "added_at": "2023-10-05 22:49:47",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-10-05 22:49:47",
       "album": {
-        "name": "Estuve / Que Bonito / Nadie, Nadie (\u00c9xitos Festivos 2021- 2022)",
-        "url": "https://open.spotify.com/album/3hFCnihuYyAjHumLe6hJ7i"
-      },
-      "artists": [
-        {
-          "name": "Los Inseparables",
-          "url": "https://open.spotify.com/artist/1i2GXZdxpWHbdHJczBTSLm"
-        }
-      ],
-      "duration_ms": 572865,
-      "name": "Estuve / Que Bonito / Nadie, Nadie (\u00c9xitos Festivos 2021- 2022)",
-      "url": "https://open.spotify.com/track/71z1ZW6RS5apxcjKrwSs0w"
-    },
-    {
-      "added_at": "2023-10-05 22:49:47",
-      "album": {
         "name": "Del Campo a la Ciudad",
         "url": "https://open.spotify.com/album/7At6x4F85wqZB22sTzO0E4"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 164089,
       "name": "Del Campo a la Ciudad",
       "url": "https://open.spotify.com/track/6mjCELq0QXKs0UV8BM4f52"
+    },
+    {
+      "added_at": "2023-10-05 22:49:47",
+      "album": {
+        "name": "Estuve / Que Bonito / Nadie, Nadie (\u00c9xitos Festivos 2021- 2022)",
+        "url": "https://open.spotify.com/album/3hFCnihuYyAjHumLe6hJ7i"
+      },
+      "artists": [
+        {
+          "name": "Los Inseparables",
+          "url": "https://open.spotify.com/artist/1i2GXZdxpWHbdHJczBTSLm"
+        }
+      ],
+      "duration_ms": 572865,
+      "name": "Estuve / Que Bonito / Nadie, Nadie (\u00c9xitos Festivos 2021- 2022)",
+      "url": "https://open.spotify.com/track/71z1ZW6RS5apxcjKrwSs0w"
     }
   ],
   "unique_name": "Ranchera Chilena",

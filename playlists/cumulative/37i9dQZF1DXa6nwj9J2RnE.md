@@ -4,7 +4,7 @@
 
 > edgy muziek met een rand uit eigen land\. cover: Naaz
 
-115 songs - 6 hr 21 min
+116 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [The Great Hope Design](https://open.spotify.com/track/6D2whKQXHFzQtqPa5BXwPP) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie) | [The Great Hope Design](https://open.spotify.com/album/02KjMI6Z4XAJALVX9XjcEM) | 5:20 | 2023-02-23 | 2023-09-01 |
 | [The Observer](https://open.spotify.com/track/6f6qL5EOxhStjbxy4mSbfQ) | [Leah Rye](https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn) | [The Observer](https://open.spotify.com/album/0F4ukdM899G7C49k0SBWL2) | 4:43 | 2023-06-08 |  |
 | [Time for Love](https://open.spotify.com/track/4wCYpfVP2qRSYB4OO5q8FC) | [Kafka](https://open.spotify.com/artist/4jDwckX5APMXI8oCH60Jqa), [WAZGOGG](https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5) | [Time for Love](https://open.spotify.com/album/5la69AsSpd40RNEmgojJ3p) | 3:41 | 2023-05-09 |  |
+| [Troostzoekers \(met Froukje\)](https://open.spotify.com/track/1EGEgAKpYg1T9zOVZKyP8J) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Sterrenlopen](https://open.spotify.com/album/5GMxtUUhppf2fnfCSivkKQ) | 3:32 | 2023-12-21 |  |
 | [Unknown Emotions](https://open.spotify.com/track/0txBNrcVUh5KwUDntM4Jb3) | [Sophie van Hasselt](https://open.spotify.com/artist/3r68N4ZRD3j8AfGrGvhMVm) | [Eat My Brain](https://open.spotify.com/album/6nnhnOsILg9HXlSKUK5RSG) | 2:12 | 2023-02-23 | 2023-08-22 |
 | [UPROOT](https://open.spotify.com/track/757h2XNOmakab55xqMFDRc) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [UPROOT](https://open.spotify.com/album/3PFdGibdmouG6DD5BiYn7l) | 3:13 | 2023-11-23 |  |
 | [Vallen](https://open.spotify.com/track/41eqyX8AkVLck2y8WE3y5j) | [Emilia Mabel](https://open.spotify.com/artist/5ui9cV71wlarlXk0uKYWVV) | [Vallen](https://open.spotify.com/album/5yjHp3FxUjwGgb6MWQHDFW) | 3:02 | 2023-02-23 | 2023-06-09 |

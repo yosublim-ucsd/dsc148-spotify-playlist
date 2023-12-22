@@ -4,7 +4,7 @@
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Judas Priest
 
-778 songs - 2 day 9 hr 39 min
+779 songs - 2 day 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -420,6 +420,7 @@
 | [Moonlight Rendezvous](https://open.spotify.com/track/6P5Ma1HFYDsgOpLaGu6Jkz) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Dark Connection](https://open.spotify.com/album/30O1KkbyS9bbOniw7xtQux) | 5:38 | 2022-07-08 |  |
 | [More Than Dreaming](https://open.spotify.com/track/5DoxBVVLzWlTrCmihusfSG) | [Light The Torch](https://open.spotify.com/artist/6RIRplpyp79REfeBrvW8rH) | [More Than Dreaming](https://open.spotify.com/album/3KRvjJjHAvUgjxVe53Qovi) | 3:09 | 2021-12-17 | 2022-07-29 |
 | [More Than Dreaming](https://open.spotify.com/track/7Lx46Dt2A9Dr9cSsm2okk0) | [Light The Torch](https://open.spotify.com/artist/6RIRplpyp79REfeBrvW8rH) | [You Will Be the Death of Me](https://open.spotify.com/album/3wB6kgbmfIEQQz7VOzuFpO) | 3:09 | 2022-07-08 | 2022-11-13 |
+| [Mountain Throne](https://open.spotify.com/track/13QzE0EC55URX49joq09YU) | [Green Lung](https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk) | [This Heathen Land](https://open.spotify.com/album/4z0wIv63H2EM3hqF3Sgg4K) | 4:24 | 2023-12-21 |  |
 | [My Curse](https://open.spotify.com/track/6zKF4293k44ItKWJJgrhXv) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 4:04 | 2022-08-19 |  |
 | [My Dystopia](https://open.spotify.com/track/2nPs2kLCJQFwx62PrYcjts) | [Brainstorm](https://open.spotify.com/artist/6IlOclSCHgJ9Aix6QEktkO) | [Wall of Skulls](https://open.spotify.com/album/6iDBykFuBbSaHhnPzVH1y9) | 4:30 | 2021-12-17 | 2022-07-24 |
 | [MY HANDS ARE EMPTY](https://open.spotify.com/track/4RqYIpKL0gu6iCXhDwTVGz) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [ØF KINGDØM AND CRØWN](https://open.spotify.com/album/6duwuU8xgK7ShKMCrUxfBi) | 5:29 | 2022-08-26 |  |
@@ -590,7 +591,7 @@
 | [Soldier On!](https://open.spotify.com/track/7spRyvnK00GrJ3f4iJrkvt) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Soldier On! / Night Stalkers / We’ll Be Back](https://open.spotify.com/album/2qS54pyHeqvTvzdWAo91rv) | 4:54 | 2022-08-26 | 2022-09-09 |
 | [Solitary](https://open.spotify.com/track/2ILFXeQHHC3dBe7gX4iSwD) | [Hiraes](https://open.spotify.com/artist/1Djkm24RzECe7M6KuxKZzt) | [Solitary](https://open.spotify.com/album/5ve5alQHZxty9kTbvzaILU) | 4:21 | 2021-12-17 | 2022-07-15 |
 | [Son of Vengeance](https://open.spotify.com/track/0fNSEGMYMcJpQIcLpUq9FT) | [Rhapsody Of Fire](https://open.spotify.com/artist/2GnCQNJbs4xqFulqAdAg2U) | [Glory for Salvation](https://open.spotify.com/album/4OfONg7cNiDlH9tpVNKN5i) | 5:46 | 2021-12-17 | 2022-07-25 |
-| [Song to Say Goodbye](https://open.spotify.com/track/1x9jqnd7tU7qRS2Uwt5PIx) | [Harakiri for the Sky](https://open.spotify.com/artist/58KBq6qkQnfWYRqCjffQQq) | [Mære](https://open.spotify.com/album/4c32wkJFuLUKHueu8YlldK) | 5:24 | 2022-07-13 |  |
+| [Song to Say Goodbye](https://open.spotify.com/track/1x9jqnd7tU7qRS2Uwt5PIx) | [Harakiri for the Sky](https://open.spotify.com/artist/58KBq6qkQnfWYRqCjffQQq) | [Mære](https://open.spotify.com/album/4c32wkJFuLUKHueu8YlldK) | 5:24 | 2022-07-13 | 2023-12-22 |
 | [Sorcerer's Fate](https://open.spotify.com/track/3dg5pL4eoNNzuWMYrSYcK1) | [Spirit Adrift](https://open.spotify.com/artist/5sW5eR9g4kNibasfrlw4EN) | [Sorcerer's Fate](https://open.spotify.com/album/5aucqaGKQlvoLPkJRQuPj5) | 5:33 | 2022-06-10 | 2022-06-29 |
 | [Souleater](https://open.spotify.com/track/7KWCzqPg2WrritNTlYuQ4t) | [Iron Savior](https://open.spotify.com/artist/6COmyouHXwCeIGS1IFd1PA) | [Souleater](https://open.spotify.com/album/0odSFBZLUN9TLasYMArCU6) | 4:56 | 2021-12-17 | 2022-07-29 |
 | [Spillways \[Feat\. Joe Elliott\]](https://open.spotify.com/track/720C8mWrqRdh1zYBGqLj9p) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D), [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ), [Joe Elliott](https://open.spotify.com/artist/5Nbg0g30EwMpYD6jQ2xcfX) | [Spillways \[Feat\. Joe Elliott\]](https://open.spotify.com/album/1aMqVnl2zFenUsGrlYMc91) | 3:19 | 2023-01-27 |  |

@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 203695,
       "name": "Black Out (JO1 ver.)",
       "url": "https://open.spotify.com/track/1o4Vt7q9MI7UueHETvJKrE"
@@ -510,7 +510,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 250033,
       "name": "It\u2019s all good",
       "url": "https://open.spotify.com/track/5V6ZKHUuyo9TgpmzMgxV9R"
@@ -751,6 +751,28 @@
     },
     {
       "album": {
+        "name": "Peppermint Yum",
+        "url": "https://open.spotify.com/album/16R9nHpSohQdu9oSbCUMxn"
+      },
+      "artists": [
+        {
+          "name": "FANTASTICS from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS"
+        },
+        {
+          "name": "EPEX",
+          "url": "https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180906,
+      "name": "Peppermint Yum",
+      "url": "https://open.spotify.com/track/0KQ72rfmW02tMsipMs7xrU"
+    },
+    {
+      "album": {
         "name": "PHOTOGENIC",
         "url": "https://open.spotify.com/album/2K0VX8by8hTI9YEJZvsJpZ"
       },
@@ -960,7 +982,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 205373,
       "name": "Snowin'",
       "url": "https://open.spotify.com/track/6gsWfx1d3KtV4Y8ecsLVfx"
@@ -996,10 +1018,36 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-03",
+      "date_removed": null,
       "duration_ms": 176120,
       "name": "SOS",
       "url": "https://open.spotify.com/track/3gahDIUGQT0Hlmf5zNN4ta"
+    },
+    {
+      "album": {
+        "name": "SPICE feat. F.HERO & BEAR KNUCKLE",
+        "url": "https://open.spotify.com/album/4OVmL13BgYxXgsH2ruGGNz"
+      },
+      "artists": [
+        {
+          "name": "PSYCHIC FEVER from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb"
+        },
+        {
+          "name": "F.HERO",
+          "url": "https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ"
+        },
+        {
+          "name": "Bear Knuckle",
+          "url": "https://open.spotify.com/artist/2NebavOcCJEGrt0wFUjDnO"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241673,
+      "name": "SPICE feat. F.HERO & BEAR KNUCKLE",
+      "url": "https://open.spotify.com/track/3DBD5ycENXcDM3D86h7G5K"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: SXMPRA
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,888 likes - 127 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,111 likes - 127 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 7 | [BANDS!](https://open.spotify.com/track/00DcGQYevuWmUzqXetdczu) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [BANDS!](https://open.spotify.com/album/2AGvFNr5drvor5NZhh0oTe) | 2:22 |
 | 8 | [DADE COUNTY SUICIDE](https://open.spotify.com/track/0qDh00qePgockS9SuBap61) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [DADE COUNTY SUICIDE](https://open.spotify.com/album/0QLCyl9KIwORSxc17aLSBU) | 2:07 |
 | 9 | [Not Even Ghosts Are This Empty](https://open.spotify.com/track/7rzNKooM3JrKVT40fR22HI) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear The Razor Guarding My Heel \(V\)](https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas) | 3:00 |
-| 10 | [POPTHATRUNK](https://open.spotify.com/track/6FxxGoSCC9UaX8loeVwrcs) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [POPTHATRUNK](https://open.spotify.com/album/0brdkkqwVS8Y4v4s3xCZ7S) | 2:13 |
+| 10 | [POPTHATRUNK](https://open.spotify.com/track/4BLbZo3DCqQXMzogWV1GNP) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [POPTHATRUNK](https://open.spotify.com/album/2eFWG2ZnDaiiesSNssfaVc) | 2:13 |
 | 11 | [harmful](https://open.spotify.com/track/63kMVxA0GX56dSBmmmPbP7) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [harmful](https://open.spotify.com/album/3801uSyiDSkOYSWaNL7dNg) | 2:03 |
 | 12 | [RIGHT BETWEEN THE EYES](https://open.spotify.com/track/6MduUVifnAw1mft3JR41Z9) | [Gao the Arsonist](https://open.spotify.com/artist/4ZonAe7RftZZ4ef3KGWsum) | [RIGHT BETWEEN THE EYES](https://open.spotify.com/album/3T5Ja60ghxC0pCsDb2G3T6) | 3:36 |
 | 13 | [TOMORROW WILL NOT COME](https://open.spotify.com/track/5t9SAPZmW0zTmkYGLc4sTk) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA) | [TOMORROW WILL NOT COME](https://open.spotify.com/album/2urKBNTHSezfBsuJf4lLWi) | 2:37 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 126 | [ÅÅÅFRESTELSE](https://open.spotify.com/track/2Rwcxnc8f1oyaxBvvX5TJf) | [Killstation](https://open.spotify.com/artist/0zPILh9oEH0fDagpkHTQQ8) | [ÅÅÅFRESTELSE](https://open.spotify.com/album/0pSR4oL8sKE2ZriOo35tJR) | 2:22 |
 | 127 | [MONEY POWER FAME](https://open.spotify.com/track/4EsaTQDXDnD9hsKUjqtSK1) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [MONEY POWER FAME](https://open.spotify.com/album/3X3p3ZZ7VnV5JYwtfHUVQy) | 3:04 |
 
-Snapshot ID: `MCxiYzJjMzJkZmY0ZjZlOWQ4YmY3YjY2ZDUxMzY3Y2Q2ZWFkOGZkYmE4`
+Snapshot ID: `MCwzNTIwNGM3ZDFmYjdhNGE3YTIzMjJkZTAwOTQxNzUxZWJjMzY4OTU5`

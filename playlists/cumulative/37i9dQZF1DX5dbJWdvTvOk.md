@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-630 songs - 1 day 2 hr 41 min
+632 songs - 1 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [Imagine](https://open.spotify.com/track/0JWLHBuJtbbR9ycmxVvmu7) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Imagine](https://open.spotify.com/album/4eXY3l7p4tlcSopoPBBUQ6) | 2:23 | 2023-04-21 |  |
 | [Impressions](https://open.spotify.com/track/5FtBh1Ik9zIzJSoh33fxlM) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Impressions](https://open.spotify.com/album/44WfQys4PLW5lRENyD5U62) | 4:18 | 2023-06-22 |  |
 | [In due time](https://open.spotify.com/track/60oudaUU0seUx9WI4Dlgiz) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [In due time](https://open.spotify.com/album/5evrAlWRbv2cGh79NZeBzP) | 1:55 | 2023-06-02 | 2023-08-26 |
+| [In good company](https://open.spotify.com/track/2PmwATbeMAyIullNs55HJN) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [In good company](https://open.spotify.com/album/4RA2oHsVnCcQQYUnYaDBkc) | 2:25 | 2023-12-15 |  |
 | [In Madeira](https://open.spotify.com/track/0inkIpP5IGzsoPSswvOQX8) | [Emil Dahl](https://open.spotify.com/artist/0ozEvXh18ZvAwli3GDA1N6) | [In Madeira](https://open.spotify.com/album/0wDvPY4UWN3DRGD2hmUwvr) | 1:45 | 2023-04-21 | 2023-08-26 |
 | [In Search of Miracles](https://open.spotify.com/track/1LWBEJpBkLHkrA662BDHNI) | [Denver Paige](https://open.spotify.com/artist/7u18DW0RHIYBIBZymrnVj5) | [In Search of Miracles](https://open.spotify.com/album/0nQesqp5e8RV2mPN664mvm) | 2:27 | 2023-02-24 | 2023-04-22 |
 | [Inamorata](https://open.spotify.com/track/6o3KXEq44ThRSknUDcIXAT) | [Hugh Blake](https://open.spotify.com/artist/72kt4nY6XIqB3gBpkdB83D) | [Inamorata](https://open.spotify.com/album/3bCmccXAf7WgYZf6Gm8ZYa) | 2:29 | 2023-04-21 |  |
@@ -344,6 +345,7 @@
 | [Lucent](https://open.spotify.com/track/7HvBZicMq8Vb4NGPMaEYnd) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Lucent](https://open.spotify.com/album/1ND7mdeP1jyfPC3bswQIdn) | 2:04 | 2023-02-24 | 2023-04-22 |
 | [Lumen](https://open.spotify.com/track/6GfVl6fqJjiWYtWbaRUysl) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Lumen](https://open.spotify.com/album/6xUP4LUnifBek3FCwxXXiD) | 2:36 | 2023-08-31 |  |
 | [Lusen](https://open.spotify.com/track/5nPOD520fGVNUIUVAeOjbY) | [Alex Albright](https://open.spotify.com/artist/26JRo0347XPbM7ve7owOdj) | [Lusen](https://open.spotify.com/album/3lDUaFHShfQnRw5QuK1oZe) | 2:47 | 2022-07-15 | 2023-04-22 |
+| [Lux Brumalis](https://open.spotify.com/track/2QrxZvUD1JpMLREXy3D44T) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Lux Brumalis](https://open.spotify.com/album/7xfHnRzqnzx8rQNClgi6Pm) | 2:47 | 2023-12-15 |  |
 | [Luz de Aurora](https://open.spotify.com/track/75ducgEDNEPpzIqlxuEfoO) | [Homero Alvarez](https://open.spotify.com/artist/1Fa3oDtXt1Zb84g4bnFnf1) | [Luz de Aurora](https://open.spotify.com/album/2VYRYrgfzcLODcYNPCD4xA) | 2:55 | 2023-04-21 | 2023-09-22 |
 | [Madeline](https://open.spotify.com/track/0jXI8KkVrQpZaHtKOpoSJ2) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Madeline](https://open.spotify.com/album/6pq0RlmMLCrhAKPNPKobJX) | 2:10 | 2023-04-21 | 2023-05-05 |
 | [Madeline](https://open.spotify.com/track/51c0wJWXcH4CLcRtmeghK9) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Madeline](https://open.spotify.com/album/2dC5WIOAtSstDRiNwjDOHi) | 2:10 | 2023-04-21 | 2023-10-22 |
@@ -546,7 +548,7 @@
 | [Te Echo De Menos](https://open.spotify.com/track/1u2C4fLwsMerlZCqumCl6z) | [Gabriel Vilente](https://open.spotify.com/artist/5sXiB1kUrPOBBWf3SqrCYO) | [Te Echo De Menos](https://open.spotify.com/album/7FS6hAIyRA7VJ7ELMKH6gb) | 3:04 | 2022-10-28 | 2023-04-22 |
 | [Te quiero hasta la muerte](https://open.spotify.com/track/38GYfritueLqRIxoK1AVzX) | [Jesus Quintana](https://open.spotify.com/artist/2ABU0wZVTQR6hLNZp8GyHB) | [Te quiero hasta la muerte](https://open.spotify.com/album/582zz5eEBI6wgTIkU3Z5Tw) | 1:54 | 2022-10-28 | 2023-04-22 |
 | [Teatime](https://open.spotify.com/track/09fhTYGSgNoATa9MnNAHes) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Teatime](https://open.spotify.com/album/2Rshes42tKuMv3wJ5aUD15) | 2:48 | 2023-06-02 |  |
-| [Telodice](https://open.spotify.com/track/2p0Hp7dQvwfEu8nsP3fCMT) | [Oma Holt](https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY) | [Telodice](https://open.spotify.com/album/4DnzOYq45aBZ2X8LsN2run) | 2:10 | 2023-04-21 |  |
+| [Telodice](https://open.spotify.com/track/2p0Hp7dQvwfEu8nsP3fCMT) | [Oma Holt](https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY) | [Telodice](https://open.spotify.com/album/4DnzOYq45aBZ2X8LsN2run) | 2:10 | 2023-04-21 | 2023-12-22 |
 | [Ten Eyck](https://open.spotify.com/track/2SVWtMKFeHoHbAidcGnD0L) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Ten Eyck](https://open.spotify.com/album/1xfdS5017HheV0A5Iz2t1J) | 2:20 | 2023-09-07 |  |
 | [The Air Portal](https://open.spotify.com/track/0SAvctlgQPtPS6t3sgelQv) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [The Air Portal](https://open.spotify.com/album/0QhXjZGYdD92PpGsPBwTGl) | 2:37 | 2022-10-07 | 2023-04-22 |
 | [The Airport](https://open.spotify.com/track/6clNGc6Zu3OZFdgWLOIxZG) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Airport](https://open.spotify.com/album/6LW69sYxSScS6gt5Kkqw9c) | 2:30 | 2023-03-10 | 2023-04-22 |
@@ -575,7 +577,7 @@
 | [Toucher mon coeur](https://open.spotify.com/track/3hl7B9bDfLmDd32hh3pD4Y) | [Bonno Neo](https://open.spotify.com/artist/5nBFfdEKdggIFXDXiWs8lf) | [Brouillard épais](https://open.spotify.com/album/1hkUIy6TCA1stwWpOvIB1A) | 2:23 | 2023-04-21 |  |
 | [Toujours](https://open.spotify.com/track/4KcEPxhVRj82HNQkZz0fTW) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Toujours](https://open.spotify.com/album/676ljNNDqK54CNbN0NOayI) | 3:11 | 2023-09-07 |  |
 | [tranquila](https://open.spotify.com/track/0WfGcbNKdff8Ud2kQVW2nz) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [tranquila](https://open.spotify.com/album/2SkyKZ3eE11Hyrg3E1BZZy) | 2:49 | 2022-07-15 | 2023-04-22 |
-| [Tranquille](https://open.spotify.com/track/2aSvGgyhVRgQYDzhBbWJ51) | [Cordell Zoe](https://open.spotify.com/artist/1HVeNsc2IF1ob1427YyiRc) | [Tranquille](https://open.spotify.com/album/6QYtL1c2hj8S0EcBpFbNYP) | 2:50 | 2023-04-21 |  |
+| [Tranquille](https://open.spotify.com/track/2aSvGgyhVRgQYDzhBbWJ51) | [Cordell Zoe](https://open.spotify.com/artist/1HVeNsc2IF1ob1427YyiRc) | [Tranquille](https://open.spotify.com/album/6QYtL1c2hj8S0EcBpFbNYP) | 2:50 | 2023-04-21 | 2023-12-22 |
 | [Tranquillité](https://open.spotify.com/track/1IY7Sd93dqmjFu0Kb48Z90) | [Phil Stent](https://open.spotify.com/artist/1E1Kt5Hh9SbIGSTb8tyU8G) | [Tranquillité](https://open.spotify.com/album/6gC38WXTRW3FR65ThRvt6p) | 2:35 | 2023-08-10 |  |
 | [Treasures](https://open.spotify.com/track/1RByCxHaCocuHZtSjItbDl) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Treasures](https://open.spotify.com/album/5Z7o5BPIvdd8tMSHMMObQ7) | 2:19 | 2022-10-07 | 2023-04-22 |
 | [Tree and Traveller](https://open.spotify.com/track/3BpomYyWO3vmpre6yAqi9a) | [Africa Levine](https://open.spotify.com/artist/5PAXHtHmQBQWOpMN2ukyow) | [Tree and Traveller](https://open.spotify.com/album/12WlSNJDYyL51vwPRHYZMw) | 2:43 | 2023-04-21 |  |

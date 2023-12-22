@@ -1,12 +1,12 @@
 {
   "description": "La sensibilidad a flor de piel.",
-  "num_followers": 64218,
+  "num_followers": 64260,
   "original_name": "C\u00e1ncer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWQxYzJiYWVlZjU0NTEyYWI3ZjU5MDZkMTA2ODBhNjk1Yzk1OGEx",
+  "snapshot_id": "MCwyZTRhNjNhZmM5ZTA4OTczNzI1Y2UwMGVhNWM4ZmVjOTU1OWE3ODA2",
   "tracks": [
     {
       "added_at": "2021-06-18 00:37:00",
@@ -355,6 +355,22 @@
     {
       "added_at": "2021-06-18 00:37:00",
       "album": {
+        "name": "Up From Below - 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/2nqKKUI6G3YGYNyjqBxjmd"
+      },
+      "artists": [
+        {
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+        }
+      ],
+      "duration_ms": 306373,
+      "name": "Home (2019 Remaster)",
+      "url": "https://open.spotify.com/track/5uGXVcOINWmyUzpz0lKq7m"
+    },
+    {
+      "added_at": "2021-06-18 00:37:00",
+      "album": {
         "name": "Good Girl Gone Bad",
         "url": "https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 275986,
       "name": "Umbrella",
       "url": "https://open.spotify.com/track/2yPoXCs7BSIUrucMdK5PzV"
-    },
-    {
-      "added_at": "2021-06-18 00:37:00",
-      "album": {
-        "name": "Up From Below - 10th Anniversary Edition",
-        "url": "https://open.spotify.com/album/2nqKKUI6G3YGYNyjqBxjmd"
-      },
-      "artists": [
-        {
-          "name": "Edward Sharpe & The Magnetic Zeros",
-          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
-        }
-      ],
-      "duration_ms": 306373,
-      "name": "Home (2019 Remaster)",
-      "url": "https://open.spotify.com/track/5uGXVcOINWmyUzpz0lKq7m"
     },
     {
       "added_at": "2021-06-18 00:37:00",

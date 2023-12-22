@@ -2,7 +2,7 @@
 
 ### [Int 'o Rione](https://open.spotify.com/playlist/37i9dQZF1DWYrg01Xmlew6)
 
-> Rap napoletano e il meglio della scena campana\. MV Killa in cover.
+> Rap napoletano e il meglio della scena campana\. Luchè in cover.
 
 276 songs - 12 hr 52 min
 

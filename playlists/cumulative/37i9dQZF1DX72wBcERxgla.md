@@ -4,7 +4,7 @@
 
 > Jazz piano to accompany your reading.
 
-451 songs - 23 hr 35 min
+456 songs - 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Dancing on the ceiling](https://open.spotify.com/track/1fn5QC6Cauel9hmwjb6Jjq) | [Leah Lambert](https://open.spotify.com/artist/6VFXRWtRRS8jLEs1ISJXs4) | [Dancing on the ceiling](https://open.spotify.com/album/3JgJZaMMSUiIrfvtTADQN6) | 2:20 | 2023-06-22 |  |
 | [Danny Boy](https://open.spotify.com/track/28gJFSn4q1NUCFRraPjoLh) | [Felix Møller](https://open.spotify.com/artist/07DAhsZBe6MWpQkiSJHdLL) | [Danny Boy](https://open.spotify.com/album/0vp6GWGRO6KqdP6VIB5Ysb) | 2:48 | 2023-11-17 |  |
 | [Dansero](https://open.spotify.com/track/72A294OT4WtwLqmMvm5uhB) | [Ron Bladworth](https://open.spotify.com/artist/0BqBNOQfrBTClJMq6n03Mf) | [Dansero](https://open.spotify.com/album/5imNzHswQu9mbRp64AInqs) | 3:38 | 2023-08-10 |  |
+| [Darn that dream](https://open.spotify.com/track/0bkag72gBWYSE8Iq5acWsQ) | [Luca Armone](https://open.spotify.com/artist/10sVj1A1tQkzJ9VvQjaEF2) | [Darn that dream](https://open.spotify.com/album/6F6JIoYIxfB6YUoIMK4per) | 3:24 | 2023-12-22 |  |
 | [Darn That Dream](https://open.spotify.com/track/7wyqQSiefHCrYQ3xqAqfwJ) | [Ray Royston](https://open.spotify.com/artist/4Z8ZqLJlYjb7gGt3eFWfFG) | [Darn That Dream](https://open.spotify.com/album/1Hs8Ia3HjN1JzaXNEwJ6Y3) | 3:52 | 2022-04-12 | 2023-05-05 |
 | [Day By Day](https://open.spotify.com/track/21rmrbV8sWD6G0DBErDASD) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [Day By Day](https://open.spotify.com/album/2TLjiBB9ln1kQpKIzGapDN) | 3:11 | 2023-04-27 |  |
 | [Day Dream](https://open.spotify.com/track/0cWJ8W7tdobRmx362SLh6t) | [Madison Wynn\-Riley](https://open.spotify.com/artist/6q2hpvfVQLJUC04n4pjnBa) | [Day Dream](https://open.spotify.com/album/1O1g0LpkzUi1REzd2A8FCw) | 2:23 | 2023-09-22 |  |
@@ -107,6 +108,7 @@
 | [Dreamer](https://open.spotify.com/track/22Boj3xlWhTJeoE2UdWCzH) | [Lars Griffin](https://open.spotify.com/artist/1qELgxrcF6pJQll3tQfNJN) | [Dreamer](https://open.spotify.com/album/4gs6vplWiAfM30HdjxrHYT) | 2:40 | 2023-08-10 |  |
 | [Dreams](https://open.spotify.com/track/2PmWxFKAruvuCNv6ll9sn0) | [Arto Ferrara](https://open.spotify.com/artist/0mhQiATaCY2exxGueTVOpH) | [Dreams](https://open.spotify.com/album/6SwXGGKrl4gD6yLPJMXgM6) | 2:27 | 2022-10-13 |  |
 | [Dreams](https://open.spotify.com/track/1d1lfPt3kdB2DInFt1mhVe) | [Darius Briley](https://open.spotify.com/artist/0SlMXLjZNuSRZJ3VvpbQit) | [Dreams](https://open.spotify.com/album/17nFGc4cZJcr61JbeWFTLk) | 2:23 | 2023-01-19 |  |
+| [Duero](https://open.spotify.com/track/1lH3KG2MVPqXp6QmSevMb2) | [Aron Finneas](https://open.spotify.com/artist/5eL2qDCUxC7emQsTp17aDx) | [Duero](https://open.spotify.com/album/1aI7HeoLOS1UyFroeRGNGk) | 3:15 | 2023-12-22 |  |
 | [Early Autumn](https://open.spotify.com/track/3VztHPAF4NNh2QXdQ5M6XP) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [Early Autumn](https://open.spotify.com/album/59fAHLXGySE1TJ9HeVCTl7) | 2:53 | 2023-02-23 |  |
 | [Easy Living](https://open.spotify.com/track/5o2QRKZqtdKMeZ47Im0wgg) | [Dee Burton](https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL) | [Easy Living](https://open.spotify.com/album/4G08VuIeQLEvP0ieLg7kIB) | 3:37 | 2022-04-12 | 2023-06-02 |
 | [Easy To Love](https://open.spotify.com/track/3qDOuXZLl3XZXuZVdyYoN9) | [Carl Dwight](https://open.spotify.com/artist/3Vhd8Gg0oT6hpsl8bnxZ2Y) | [Easy To Love](https://open.spotify.com/album/7g0cL3m9GNrvyfqjEjFDOE) | 2:24 | 2023-04-13 |  |
@@ -281,6 +283,7 @@
 | [Night Mood](https://open.spotify.com/track/1zQJVpcXpaXJRETpADpD5f) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Night Mood](https://open.spotify.com/album/1Xsdw8DS23e5QULFLFqfRF) | 2:51 | 2022-08-10 |  |
 | [Nightfall](https://open.spotify.com/track/2u0BcOivuEWkzdS12lKQDx) | [Elsa Gifford](https://open.spotify.com/artist/2WkJQ6rsCVeyNuVidqTaoW) | [Nightfall](https://open.spotify.com/album/0xDTqheOH1HbPRb8Bi4K3U) | 2:00 | 2023-05-11 |  |
 | [Nordic Dreams](https://open.spotify.com/track/1XRHb1rYnhKxoF0SzCgVjH) | [Ron de Lauren](https://open.spotify.com/artist/5P9IE3snjc1rSoMKPIjzod) | [Nordic Dreams](https://open.spotify.com/album/0VjnDOivugjQtCXeUEmW8H) | 3:46 | 2023-06-01 |  |
+| [novak](https://open.spotify.com/track/3rZVAQpemoV95KJ7hvrSg8) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [novak](https://open.spotify.com/album/1ZLd1xk9RnVjL94hq4m3bM) | 2:10 | 2023-12-22 |  |
 | [Now\-empty](https://open.spotify.com/track/5Tfz82TMmH7gaqH7cvBXzJ) | [Graydon Poole](https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37) | [Now\-empty](https://open.spotify.com/album/15nWsQs6zRJDlM58O9XF3t) | 1:49 | 2023-05-25 | 2023-08-26 |
 | [Oceans](https://open.spotify.com/track/2NN1eF0zkuC3ag0ILFNA7f) | [Jonathán Bridges](https://open.spotify.com/artist/2dQCJiivYdK2HuhoUKcerS) | [Oceans](https://open.spotify.com/album/2he7TH3cwJVKipwDjFPkR7) | 2:40 | 2023-09-22 |  |
 | [Oh Lady Be Good](https://open.spotify.com/track/2ksjtAUVYC6vZ64GRhQn2h) | [Camille Blanche](https://open.spotify.com/artist/6AaWDcxoX78PME15nCCMoa) | [Oh Lady Be Good](https://open.spotify.com/album/2pnrqa6WnHe2cJUG3dPwAi) | 3:11 | 2023-05-04 |  |
@@ -324,8 +327,10 @@
 | [S Wonderful](https://open.spotify.com/track/7FMLsi2Ix1FkyADYRYMA8I) | [Arielan Vide](https://open.spotify.com/artist/2fvlcT93u5SQePtPugGGpz) | [S Wonderful](https://open.spotify.com/album/2l9fjk2KJyZ8wWOihLvCCM) | 2:43 | 2023-08-17 |  |
 | [Sad Eyes](https://open.spotify.com/track/1EOmCGRp5PYbRJ5gKQeDeF) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [Sad Eyes](https://open.spotify.com/album/4fgNlENNCWFn1lnYYzih0B) | 3:44 | 2022-04-12 |  |
 | [Saint James Infirmary Blues](https://open.spotify.com/track/076g7APvGbCYC9wYiropf8) | [Ottilie Lebau](https://open.spotify.com/artist/361nXBd8zOp4m6PB7Gjnie) | [Saint James Infirmary Blues](https://open.spotify.com/album/0UIZgy3M75tnAlxUKAxQPn) | 2:04 | 2022-08-30 |  |
+| [Same As Usual](https://open.spotify.com/track/7E7UnuDjlg1rLIrOvPfXxC) | [Lyn Ardbeg](https://open.spotify.com/artist/6cUNyotmONFDiZvl8LafA6) | [Same As Usual](https://open.spotify.com/album/0DqnmKlSE720tR5xG1AFu7) | 2:36 | 2023-12-22 |  |
 | [Sapphire Skies and Velvet Dreams](https://open.spotify.com/track/3Aon4cYBKcNb5RLopJPPrG) | [Hamilton Reed](https://open.spotify.com/artist/48VtkBYuWbEZxRWaXLJlkb) | [Sapphire Skies and Velvet Dreams](https://open.spotify.com/album/4Oqx0PEt8Yvw4YezkBu3vv) | 2:01 | 2023-06-01 |  |
 | [Say It \(Over And Over Again\)](https://open.spotify.com/track/71cmAPzuEmZZ1HZu1PDUwU) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [Say It \(Over And Over Again\)](https://open.spotify.com/album/4bw5L1NlVh6CQOccEEbOJw) | 4:27 | 2022-09-13 |  |
+| [Second Time Around](https://open.spotify.com/track/6UVDL7iRD2koITeSrXeYo0) | [Trent Garner](https://open.spotify.com/artist/6vrs8wBxBAdOuzOAr0LsZm) | [Second Time Around](https://open.spotify.com/album/7KJ6N0sOmOUq9oEH4TAoXZ) | 2:08 | 2023-12-22 |  |
 | [Sense of deja vu](https://open.spotify.com/track/6skHdCKQql2JWRHv7A6kY0) | [Irvine Martin](https://open.spotify.com/artist/14fHRMD5WDw92XuxlDXaa9) | [Sense of deja vu](https://open.spotify.com/album/5xiZ8E2KJx45TZ8tRVfff7) | 2:51 | 2023-08-10 |  |
 | [September in the Rain](https://open.spotify.com/track/7u21y9GiZwaBvqtOeNqh3t) | [Francesca Marr](https://open.spotify.com/artist/1eq350rdehuYyP5bQCAoEd) | [Peace](https://open.spotify.com/album/6KUjUDDb3AEXXFPeXyzy6b) | 3:22 | 2022-04-12 | 2022-06-15 |
 | [September Song](https://open.spotify.com/track/0I4fzEcHoiQTuvWw928Z6C) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [September Song](https://open.spotify.com/album/6JnRwXgYca3ywxqOmhuR1B) | 3:17 | 2023-01-12 |  |

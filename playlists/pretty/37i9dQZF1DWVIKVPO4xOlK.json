@@ -1,12 +1,12 @@
 {
   "description": "Welcome to L.A. Lo que suena in the city of dreams. Cover: Los Desvelados ",
-  "num_followers": 401423,
+  "num_followers": 401430,
   "original_name": "Rompiendo: Los Angeles",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWZhNzE1MjkzNmFiMTRhYWMyNjFmZDBjYjM0NmYzN2QyMTM4OGUy",
+  "snapshot_id": "MCxjMzEzMGE3ODQ3ZDFmOTYxYmE0MjdiM2U3MDZhNmFjZDhhMzY5YWVi",
   "tracks": [
     {
       "added_at": "2023-12-08 18:17:28",
@@ -695,26 +695,6 @@
     {
       "added_at": "2023-12-08 18:17:28",
       "album": {
-        "name": "La Fresa",
-        "url": "https://open.spotify.com/album/1TW0GzpdhiBK6dZxI4yGV4"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 174923,
-      "name": "La Fresa",
-      "url": "https://open.spotify.com/track/1PexKCGqX41T01rtTH08YN"
-    },
-    {
-      "added_at": "2023-12-08 18:17:28",
-      "album": {
         "name": "Dinero No Tenia (En Vivo)",
         "url": "https://open.spotify.com/album/4I4HdAzHO28j18IibnON3F"
       },
@@ -807,22 +787,6 @@
     {
       "added_at": "2023-12-08 18:17:28",
       "album": {
-        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
-        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 250851,
-      "name": "LOS PITS",
-      "url": "https://open.spotify.com/track/7ucEkWU0SVy0XFdfXESgfY"
-    },
-    {
-      "added_at": "2023-12-08 18:17:28",
-      "album": {
         "name": "Autosabotear",
         "url": "https://open.spotify.com/album/5HlLxDeeDyWMD7dBb1rC5a"
       },
@@ -839,6 +803,22 @@
     {
       "added_at": "2023-12-08 18:17:28",
       "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 250851,
+      "name": "LOS PITS",
+      "url": "https://open.spotify.com/track/7ucEkWU0SVy0XFdfXESgfY"
+    },
+    {
+      "added_at": "2023-12-08 18:17:28",
+      "album": {
         "name": "Mata",
         "url": "https://open.spotify.com/album/7i9x6F8kOA5AsQetVTMZoN"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 161262,
       "name": "Mata",
       "url": "https://open.spotify.com/track/1m43bKhTmsUVIVYEdRDzXn"
+    },
+    {
+      "added_at": "2023-12-08 18:17:28",
+      "album": {
+        "name": "La Fresa",
+        "url": "https://open.spotify.com/album/6o8WsqrJDQBPxG2gxnZIpu"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 174923,
+      "name": "La Fresa",
+      "url": "https://open.spotify.com/track/2DzHUSTaK8KWDYjiPuHzPu"
     }
   ],
   "unique_name": "Rompiendo: Los Angeles",

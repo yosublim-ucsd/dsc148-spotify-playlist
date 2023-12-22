@@ -1,12 +1,12 @@
 {
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
-  "num_followers": 125082,
+  "num_followers": 125119,
   "original_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjEwYjNjY2Y0NDExYTdhNzhmZDRiYWY0YmE0NzQ2YmFjZGMwZDM4",
+  "snapshot_id": "MCxkODE2YzZkYmU5MzkzNTRjMjg0NmEwODA1Y2ExZmFkNzc4NjU1YmU2",
   "tracks": [
     {
       "added_at": "2023-12-19 15:00:00",
@@ -343,18 +343,18 @@
     {
       "added_at": "2023-12-19 15:00:00",
       "album": {
-        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
-        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
       },
       "artists": [
         {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 161041,
-      "name": "DOGTOOTH",
-      "url": "https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw"
+      "duration_ms": 190392,
+      "name": "Truth or Dare",
+      "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
     },
     {
       "added_at": "2023-12-19 15:00:00",
@@ -375,18 +375,18 @@
     {
       "added_at": "2023-12-19 15:00:00",
       "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
+        "name": "CALL ME IF YOU GET LOST: The Estate Sale",
+        "url": "https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         }
       ],
-      "duration_ms": 190392,
-      "name": "Truth or Dare",
-      "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
+      "duration_ms": 161041,
+      "name": "DOGTOOTH",
+      "url": "https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw"
     },
     {
       "added_at": "2023-12-19 15:00:00",
@@ -1727,18 +1727,22 @@
     {
       "added_at": "2023-12-19 15:00:00",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/2l79vjW435oxjYenGcjQoP"
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/0gk7hvi9elX9iuiNuxmcNu"
       },
       "artists": [
         {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        },
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
         }
       ],
-      "duration_ms": 211768,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/6OYm4FXjYy0Q3sgssdFEho"
+      "duration_ms": 177813,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/01V9616p11FWNcMYTQTg3j"
     },
     {
       "added_at": "2023-12-19 15:00:00",
@@ -1759,22 +1763,18 @@
     {
       "added_at": "2023-12-19 15:00:00",
       "album": {
-        "name": "Nowhere",
-        "url": "https://open.spotify.com/album/0gk7hvi9elX9iuiNuxmcNu"
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/2l79vjW435oxjYenGcjQoP"
       },
       "artists": [
         {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        },
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
         }
       ],
-      "duration_ms": 177813,
-      "name": "Nowhere",
-      "url": "https://open.spotify.com/track/01V9616p11FWNcMYTQTg3j"
+      "duration_ms": 211768,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/6OYm4FXjYy0Q3sgssdFEho"
     },
     {
       "added_at": "2023-12-19 15:00:00",
@@ -1855,6 +1855,26 @@
     {
       "added_at": "2023-12-19 15:00:00",
       "album": {
+        "name": "The Juicebox",
+        "url": "https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        },
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 150700,
+      "name": "Body & Soul (feat. Biig Piig)",
+      "url": "https://open.spotify.com/track/6ltcWFTmyRQbSNCNOTK0uM"
+    },
+    {
+      "added_at": "2023-12-19 15:00:00",
+      "album": {
         "name": "Girlfriend",
         "url": "https://open.spotify.com/album/0q4Y4pXndd7NxFIwG5yInO"
       },
@@ -1879,22 +1899,6 @@
       "duration_ms": 143581,
       "name": "Girlfriend",
       "url": "https://open.spotify.com/track/7vfRSHJyOY8qUZ0XXSEbBr"
-    },
-    {
-      "added_at": "2023-12-19 15:00:00",
-      "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/7MkNlHw0O8KKr3yJ3RtgVW"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        }
-      ],
-      "duration_ms": 174516,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/1dLXLETYiZohIZWnse4ypG"
     }
   ],
   "unique_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",

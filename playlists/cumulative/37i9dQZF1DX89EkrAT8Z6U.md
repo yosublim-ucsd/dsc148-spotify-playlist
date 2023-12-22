@@ -4,7 +4,7 @@
 
 > A mixtape for the perfect anime fight scene.
 
-298 songs - 12 hr 38 min
+299 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,8 @@
 | [Phantom Troupe \- Remix](https://open.spotify.com/track/07Pv7QJd4kFRyusSSlJODo) | [Shofu](https://open.spotify.com/artist/6Mt5Jv5qiHPyCmnaLbr6Rz), [Token Black](https://open.spotify.com/artist/7o4jUmg3xAzo6IYUawh2YE), [954mari](https://open.spotify.com/artist/4B6My3qCkyAX7n3qzUZONc), [OmarCameUp](https://open.spotify.com/artist/5p9aalXlIMSGKmey78Ah5v), [Dedboii Kez](https://open.spotify.com/artist/6IZOq4fC3vRZvcMdnqME9h), [PE$O PETE](https://open.spotify.com/artist/6VZiS2VunvxmraSXYGLBZv), [Ham Sandwich](https://open.spotify.com/artist/10IrmnIj8FmleJotGxwTRX), [TUCK2SHARP](https://open.spotify.com/artist/7hn7cmaQByxy38U1vGCPE8), [Ty Wild](https://open.spotify.com/artist/2uE23RLfCmZurbJzYgjKMm), [G.Yee](https://open.spotify.com/artist/1dmJ1ESL5MHZAEtLqXYd6t), [BlackLynk](https://open.spotify.com/artist/46ZR1UUZY1GAt4DmlQbZs4), [VI Seconds](https://open.spotify.com/artist/7l7jyhyCooS3qKlBhZLIiG), [ShueTube](https://open.spotify.com/artist/7BmPVzemtO9g4azCeM37Sk), [Tanukes](https://open.spotify.com/artist/4UVz2mDQK34FFq5V5cBZ5l) | [Phantom Troupe \(Remix\)](https://open.spotify.com/album/0ZzUopArm41ddN0orm3j7a) | 7:02 | 2022-05-25 | 2022-07-28 |
 | [PLASTIC ART](https://open.spotify.com/track/0uwdULpmQ5vB62NN0duw8S) | [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [KALEIDOSCOPE](https://open.spotify.com/album/1ZyR3m6dXdqBHb96BrtlSZ) | 2:14 | 2022-05-25 | 2022-07-29 |
 | [Please Stop Screaming](https://open.spotify.com/track/46kh3wq04lw5mhoX0cL3Nr) | [Nimstarr](https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf) | [Please Stop Screaming](https://open.spotify.com/album/5eth3XV0kKLcIHr0076RVO) | 2:31 | 2023-09-15 | 2023-09-27 |
-| [POPTHATRUNK](https://open.spotify.com/track/6FxxGoSCC9UaX8loeVwrcs) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [POPTHATRUNK](https://open.spotify.com/album/0brdkkqwVS8Y4v4s3xCZ7S) | 2:13 | 2023-08-29 |  |
+| [POPTHATRUNK](https://open.spotify.com/track/4BLbZo3DCqQXMzogWV1GNP) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [POPTHATRUNK](https://open.spotify.com/album/2eFWG2ZnDaiiesSNssfaVc) | 2:13 | 2023-09-26 |  |
+| [POPTHATRUNK](https://open.spotify.com/track/6FxxGoSCC9UaX8loeVwrcs) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [POPTHATRUNK](https://open.spotify.com/album/0brdkkqwVS8Y4v4s3xCZ7S) | 2:13 | 2023-08-29 | 2023-12-22 |
 | [Princess Bubblegum](https://open.spotify.com/track/2O9KgUsmuon6Gycdmagc6t) | [ilyTOMMY](https://open.spotify.com/artist/4XWaILHqySwH1y6LhlYcsb) | [Princess Bubblegum](https://open.spotify.com/album/3pb0Q6sH9ZhxjOKvSVP5bE) | 1:35 | 2022-09-29 | 2023-07-14 |
 | [Prom Night](https://open.spotify.com/track/7KhJdiu4zbPlhlImRLIyDl) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [Prom Night](https://open.spotify.com/album/3ft78ZmPZcpVxpgzHTqcNZ) | 2:25 | 2022-06-10 | 2022-10-27 |
 | [PUNK TACTICS](https://open.spotify.com/track/2jQ1P0aGT4WkNyJCeoQnb9) | [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [PUNK TACTICS](https://open.spotify.com/album/5L1RkN1nh5m18ZuXCktUbc) | 2:23 | 2023-11-28 |  |

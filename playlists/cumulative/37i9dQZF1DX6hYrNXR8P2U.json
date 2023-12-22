@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "M\u00e1s m\u00fasica, menos etiquetas. \n\ud83d\udcf7 mhtresuno ft Dillom",
+  "description": "M\u00e1s m\u00fasica, menos etiquetas. ",
   "name": "piola",
   "tracks": [
     {
@@ -444,7 +444,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 250621,
       "name": "Cangrejal",
       "url": "https://open.spotify.com/track/4DNSjR34NzyowHIiNBpdrr"
@@ -532,6 +532,24 @@
       "duration_ms": 244992,
       "name": "Coastin' (with Alem\u00e1n)",
       "url": "https://open.spotify.com/track/3UCyLYeUJUrt7aE1yzqjqf"
+    },
+    {
+      "album": {
+        "name": "Mucho",
+        "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240520,
+      "name": "Como Eran Las Cosas",
+      "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
     },
     {
       "album": {
@@ -934,6 +952,24 @@
       "duration_ms": 200942,
       "name": "FANTINO",
       "url": "https://open.spotify.com/track/5dLzWnp0GXZyEFGhreAy9g"
+    },
+    {
+      "album": {
+        "name": "fasol",
+        "url": "https://open.spotify.com/album/3FrHuIryL7bMs4gobVH4q4"
+      },
+      "artists": [
+        {
+          "name": "lisandro skar",
+          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100909,
+      "name": "fasol",
+      "url": "https://open.spotify.com/track/6KQpaCC7hhVNyORHgMujfq"
     },
     {
       "album": {

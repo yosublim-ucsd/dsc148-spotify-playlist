@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 66485,
+  "num_followers": 66554,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzQ2MWNhZTI2YjRmNzI0ODVkNTk4YTdjMWUzODFhNWQ5MDc5Yzlk",
+  "snapshot_id": "MCw3ZTAxMGE5NzVjMWE4ZmY2ODYxNzAzMGQ2Zjc2OTE5ZDU3NzU2NjI1",
   "tracks": [
     {
       "added_at": "2023-12-20 10:48:06",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-12-20 10:48:06",
       "album": {
-        "name": "Lennie Tristano / The New Tristano",
-        "url": "https://open.spotify.com/album/1NONihvQGQ4aVVV956pGH9"
-      },
-      "artists": [
-        {
-          "name": "Lennie Tristano",
-          "url": "https://open.spotify.com/artist/6VoQTYD2vUVvm1H031lp3e"
-        }
-      ],
-      "duration_ms": 365840,
-      "name": "Ghost of a Chance",
-      "url": "https://open.spotify.com/track/5vTBSWHl0qXtM1980R2pVM"
-    },
-    {
-      "added_at": "2023-12-20 10:48:06",
-      "album": {
         "name": "Art Pepper + Eleven: Modern Jazz Classics",
         "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 210533,
       "name": "Walkin' Shoes",
       "url": "https://open.spotify.com/track/3wqWq1ZOBIO0NQo98kmIFC"
+    },
+    {
+      "added_at": "2023-12-20 10:48:06",
+      "album": {
+        "name": "Lennie Tristano / The New Tristano",
+        "url": "https://open.spotify.com/album/1NONihvQGQ4aVVV956pGH9"
+      },
+      "artists": [
+        {
+          "name": "Lennie Tristano",
+          "url": "https://open.spotify.com/artist/6VoQTYD2vUVvm1H031lp3e"
+        }
+      ],
+      "duration_ms": 365840,
+      "name": "Ghost of a Chance",
+      "url": "https://open.spotify.com/track/5vTBSWHl0qXtM1980R2pVM"
     },
     {
       "added_at": "2023-12-20 10:48:06",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-12-20 10:48:06",
       "album": {
-        "name": "A Pell Of A Time",
-        "url": "https://open.spotify.com/album/3mHfj7IYxLfpAOULy0nM11"
-      },
-      "artists": [
-        {
-          "name": "Dave Pell's Jazz Octet",
-          "url": "https://open.spotify.com/artist/7uKEUlOk1OB6GcGp0rxnaM"
-        }
-      ],
-      "duration_ms": 338000,
-      "name": "Angel Eyes",
-      "url": "https://open.spotify.com/track/0DD6R7aDMmqPrt6qRXZHP3"
-    },
-    {
-      "added_at": "2023-12-20 10:48:06",
-      "album": {
         "name": "Bird Feathers (Remastered)",
         "url": "https://open.spotify.com/album/2BvoHpEjeJf6lM0p9720AM"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 352440,
       "name": "Solar",
       "url": "https://open.spotify.com/track/6pzpKJYKvHUzOpz9J207j3"
+    },
+    {
+      "added_at": "2023-12-20 10:48:06",
+      "album": {
+        "name": "A Pell Of A Time",
+        "url": "https://open.spotify.com/album/3mHfj7IYxLfpAOULy0nM11"
+      },
+      "artists": [
+        {
+          "name": "Dave Pell's Jazz Octet",
+          "url": "https://open.spotify.com/artist/7uKEUlOk1OB6GcGp0rxnaM"
+        }
+      ],
+      "duration_ms": 338000,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/0DD6R7aDMmqPrt6qRXZHP3"
     },
     {
       "added_at": "2023-12-20 10:48:06",

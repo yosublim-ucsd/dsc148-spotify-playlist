@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "Boss music for boss people. Cover: Picture Parlour",
+  "description": "Boss music for boss people. Cover: STONE",
   "name": "Proper Belters",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 253200,
       "name": "Accidental Doom",
       "url": "https://open.spotify.com/track/4RWRV4KKmBJevD1jSupSry"
@@ -110,6 +110,24 @@
       "duration_ms": 264986,
       "name": "Alright",
       "url": "https://open.spotify.com/track/57BvpyURy7xPYKgbPRaynf"
+    },
+    {
+      "album": {
+        "name": "punkadonk2",
+        "url": "https://open.spotify.com/album/28f5ioD8CPtdT2WIMvrs72"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193607,
+      "name": "Am I Even A Man",
+      "url": "https://open.spotify.com/track/203aZkz0i3swvunzfGlUbe"
     },
     {
       "album": {
@@ -592,7 +610,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 211701,
       "name": "CHEMICALS",
       "url": "https://open.spotify.com/track/3bGnizZtJfcuY6ZOoaSMZI"
@@ -1024,7 +1042,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 174379,
       "name": "Fashion",
       "url": "https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ"
@@ -1316,7 +1334,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 138165,
       "name": "Goonies (I Only Tolerate You)",
       "url": "https://open.spotify.com/track/38HNASK1K4hAuLD1BRIQan"
@@ -1356,6 +1374,24 @@
       "duration_ms": 168095,
       "name": "Hard To Love",
       "url": "https://open.spotify.com/track/5ZydsKomR0uijruih5pVZ0"
+    },
+    {
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/5ycbPGmtrkxqAOL2QuLKBe"
+      },
+      "artists": [
+        {
+          "name": "Declan Welsh and The Decadent West",
+          "url": "https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202434,
+      "name": "Hardly News",
+      "url": "https://open.spotify.com/track/1vB2WPQZUrm1jL0zPZtnhX"
     },
     {
       "album": {
@@ -1464,6 +1500,24 @@
       "duration_ms": 292437,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/2kRuduqaJfLIWGZy5EOBam"
+    },
+    {
+      "album": {
+        "name": "How Do You Sleep At Night?",
+        "url": "https://open.spotify.com/album/49TAgh1ogazJrsGUvgp5tu"
+      },
+      "artists": [
+        {
+          "name": "JAMIE WEBSTER",
+          "url": "https://open.spotify.com/artist/5ugVdZNXtMIj6ECTzGsyqS"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208385,
+      "name": "How Do You Sleep At Night?",
+      "url": "https://open.spotify.com/track/2K37XDEcpev2hUDbb14XGd"
     },
     {
       "album": {
@@ -1759,6 +1813,24 @@
     },
     {
       "album": {
+        "name": "It's Never Been Better",
+        "url": "https://open.spotify.com/album/4aaQTdQnHVRV2Bc5khFjTw"
+      },
+      "artists": [
+        {
+          "name": "THE GOA EXPRESS",
+          "url": "https://open.spotify.com/artist/0uuWKORLosOJB3L6D7zplX"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189253,
+      "name": "It's Never Been Better",
+      "url": "https://open.spotify.com/track/3VV0kXFKzcX135XSTrKy7t"
+    },
+    {
+      "album": {
         "name": "ITSA",
         "url": "https://open.spotify.com/album/2MPhNCqzpEbSZkWX5juNYo"
       },
@@ -1975,6 +2047,24 @@
     },
     {
       "album": {
+        "name": "Lap Around The Sun",
+        "url": "https://open.spotify.com/album/4H7EQv3aw3XFT3cODg7TWQ"
+      },
+      "artists": [
+        {
+          "name": "Post-Party",
+          "url": "https://open.spotify.com/artist/6Sg6gogb6FlpSMhqTL7XO9"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184831,
+      "name": "Lap Around The Sun",
+      "url": "https://open.spotify.com/track/7iC546xP2SSf2Ws3fKeG9X"
+    },
+    {
+      "album": {
         "name": "Deepest Blue",
         "url": "https://open.spotify.com/album/2l6T54veKjGFPc4MHVPrjl"
       },
@@ -1986,7 +2076,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 218751,
       "name": "Lazy Brain",
       "url": "https://open.spotify.com/track/3lIVyH8SN5yPVExgWuyiYh"
@@ -2080,6 +2170,24 @@
       "duration_ms": 227307,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/7ckvoom2YHogDgVDHG2sF3"
+    },
+    {
+      "album": {
+        "name": "Love To Walk Away",
+        "url": "https://open.spotify.com/album/3H3oeo1nVS1IzgQVOXcDdD"
+      },
+      "artists": [
+        {
+          "name": "The Vaccines",
+          "url": "https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127474,
+      "name": "Love To Walk Away",
+      "url": "https://open.spotify.com/track/7wykJuA5AbOMLTmsNSi1Cq"
     },
     {
       "album": {
@@ -2209,6 +2317,24 @@
     },
     {
       "album": {
+        "name": "No Guilt",
+        "url": "https://open.spotify.com/album/5EnI5i4Sv9XJUvypda5Gz9"
+      },
+      "artists": [
+        {
+          "name": "PROJECTOR",
+          "url": "https://open.spotify.com/artist/25loVbwSp0xXNu4Ds1lTa9"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124120,
+      "name": "No Guilt",
+      "url": "https://open.spotify.com/track/6YzPDlOHBdZfQRZ3KskqSS"
+    },
+    {
+      "album": {
         "name": "Alcopops & Charity Shops",
         "url": "https://open.spotify.com/album/5RXX48BI3S6SlvMo1cX5jB"
       },
@@ -2238,7 +2364,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 218805,
       "name": "One Man Band",
       "url": "https://open.spotify.com/track/2D4CxBVX7N2ob0IHZKMm0e"
@@ -2310,7 +2436,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 166698,
       "name": "Patsy Decline",
       "url": "https://open.spotify.com/track/5e0X1BgUtlx8930aZ2QWU0"
@@ -2328,7 +2454,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 195240,
       "name": "People Should Know Better",
       "url": "https://open.spotify.com/track/3jB0zfTTSyyQZpKMb53I2f"
@@ -2710,6 +2836,28 @@
       "duration_ms": 224040,
       "name": "Somewhere",
       "url": "https://open.spotify.com/track/0xjNvmVnlOR8cfd0rWbVJH"
+    },
+    {
+      "album": {
+        "name": "SQUEEZE ME LIKE A LEMON",
+        "url": "https://open.spotify.com/album/7H6SgwSso0FsLknG0EkqyA"
+      },
+      "artists": [
+        {
+          "name": "The Skinner Brothers",
+          "url": "https://open.spotify.com/artist/4PY51S3HuOMhnZA0Sx8FRN"
+        },
+        {
+          "name": "JC Stormz",
+          "url": "https://open.spotify.com/artist/5cBZZuan5Jn4TcIQoh58QV"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167523,
+      "name": "SQUEEZE ME LIKE A LEMON",
+      "url": "https://open.spotify.com/track/2owmH2uDBkaaTyTtYR3oKF"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > Introducing Alma — a soul born from Latin and house music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,720 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,718 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,24 +64,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 54 | [Toma Que Toma](https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Toma Que Toma](https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd) | 3:47 |
 | 55 | [Morena](https://open.spotify.com/track/1D0pCmlp5TnFaCTifJGAHW) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Kuisitambó](https://open.spotify.com/artist/6iWNV6MJhL8469VQpRRiMK) | [Morena](https://open.spotify.com/album/2vSBA2DSlXOcamxOAFLAht) | 2:48 |
 | 56 | [Esta Vaina](https://open.spotify.com/track/63CgLY7pJtFU1Oic20tL07) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [Esta Vaina](https://open.spotify.com/album/3QgF3YoBLnrEKOT2IWOiuq) | 3:35 |
-| 57 | [Wimbo](https://open.spotify.com/track/7iTDDrMZszyVaTowWShuwf) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Wimbo](https://open.spotify.com/album/1g0MngSgjz9ZiPEe8thh87) | 2:30 |
-| 58 | [La Gente](https://open.spotify.com/track/4TbPgvEeXo4tLnBS7xpfR2) | [ESSED](https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo) | [La Gente](https://open.spotify.com/album/3uEaV5TBdnuqgvdRky5bRZ) | 3:12 |
-| 59 | [Balança](https://open.spotify.com/track/3EOVCa2GmmNvVqrmLeCq1F) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx), [PAVE](https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny) | [Balança](https://open.spotify.com/album/6d97tKqeGjCsKhxfhwJq5X) | 2:25 |
+| 57 | [Balança](https://open.spotify.com/track/3EOVCa2GmmNvVqrmLeCq1F) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx), [PAVE](https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny) | [Balança](https://open.spotify.com/album/6d97tKqeGjCsKhxfhwJq5X) | 2:25 |
+| 58 | [Wimbo](https://open.spotify.com/track/7iTDDrMZszyVaTowWShuwf) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Wimbo](https://open.spotify.com/album/1g0MngSgjz9ZiPEe8thh87) | 2:30 |
+| 59 | [La Gente](https://open.spotify.com/track/4TbPgvEeXo4tLnBS7xpfR2) | [ESSED](https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo) | [La Gente](https://open.spotify.com/album/3uEaV5TBdnuqgvdRky5bRZ) | 3:12 |
 | 60 | [La Bulla](https://open.spotify.com/track/0TaXn3UgkHmba7ew4JFZEM) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Many Malon](https://open.spotify.com/artist/7KizV6niQzeuEqXKvMMXYM) | [La Bulla](https://open.spotify.com/album/406Xu0Zh1jTzjzBPsJCYmo) | 2:50 |
 | 61 | [Dimini](https://open.spotify.com/track/3UwlHoQ1pEHHds28BJ2bvb) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [Twolate](https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh) | [Dimini](https://open.spotify.com/album/3ygKQsnMN1nBrpsxYYnlny) | 2:22 |
 | 62 | [Ecua](https://open.spotify.com/track/56WrCLZKVR4Lm34r5qgTYC) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Roots](https://open.spotify.com/album/092HVKUeBzxIl1EyMFnCJC) | 3:48 |
 | 63 | [Yo Quiero Una Nena \(Sunnery James & Ryan Marciano and Tom Enzy Remix\)](https://open.spotify.com/track/0PHsJbGSWsc73G2bAs1FuB) | [Daveartt](https://open.spotify.com/artist/40CLkIpVGy41mBDx1u9D87), [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Yo Quiero Una Nena \(Sunnery James & Ryan Marciano and Tom Enzy Remix\)](https://open.spotify.com/album/4mbBidN8p7hQbRC1Cf519J) | 3:18 |
 | 64 | [Tuku Tu](https://open.spotify.com/track/1ICNLsyIPgrIjN36Txxx7B) | [BOLO THE DJ](https://open.spotify.com/artist/4qaAcBXIagTIWYkJRlxYZ7) | [Tuku Tu](https://open.spotify.com/album/06S2P8ii5L32tyu5JCTcx1) | 2:20 |
 | 65 | [Jaleo](https://open.spotify.com/track/1YcBeCPxCdPCxXOrWJEiwm) | [Kenny Brian](https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [Jaleo](https://open.spotify.com/album/1ZdmmuqN2FXZrSvR4bvu0C) | 3:07 |
-| 66 | [Libre](https://open.spotify.com/track/6mCu7S5fBIlaF81L17ZDoM) | [Bart B More](https://open.spotify.com/artist/1eOOXqRHILTxqrEUAYyQU0) | [Libre](https://open.spotify.com/album/0arqdWadUzAgi4OImNKHjs) | 3:21 |
-| 67 | [Esta Pegao](https://open.spotify.com/track/4Lwjq2BbsaSGguUmljBxGK) | [Carloh](https://open.spotify.com/artist/3cPsVugsjXZ03yXIblunwd) | [Esta Pegao](https://open.spotify.com/album/07BUUQ2N6sDXNeMRAHrGth) | 2:40 |
-| 68 | [Canutito](https://open.spotify.com/track/2nHgZpG5MI2AmY83SnPEys) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Canutito](https://open.spotify.com/album/4g3RxEavuwvedsrhW1hevG) | 3:26 |
-| 69 | [Trágatelo](https://open.spotify.com/track/7isW5u9xH4iDUJfqn36UMl) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Philip Z](https://open.spotify.com/artist/15F2LcEjhyssahY1ZsGg7C), [Fatboi](https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE) | [Trágatelo](https://open.spotify.com/album/77pIaKUlGjnL7tXbVL7FTI) | 2:47 |
-| 70 | [Morena](https://open.spotify.com/track/3pyYe4wjMV0ehhmBgZo9tE) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [Morena](https://open.spotify.com/album/2uV1mmtYPm4cGFnXWZa1kc) | 2:50 |
+| 66 | [Canutito](https://open.spotify.com/track/2nHgZpG5MI2AmY83SnPEys) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Canutito](https://open.spotify.com/album/4g3RxEavuwvedsrhW1hevG) | 3:26 |
+| 67 | [Libre](https://open.spotify.com/track/6mCu7S5fBIlaF81L17ZDoM) | [Bart B More](https://open.spotify.com/artist/1eOOXqRHILTxqrEUAYyQU0) | [Libre](https://open.spotify.com/album/0arqdWadUzAgi4OImNKHjs) | 3:21 |
+| 68 | [Esta Pegao](https://open.spotify.com/track/4Lwjq2BbsaSGguUmljBxGK) | [Carloh](https://open.spotify.com/artist/3cPsVugsjXZ03yXIblunwd) | [Esta Pegao](https://open.spotify.com/album/07BUUQ2N6sDXNeMRAHrGth) | 2:40 |
+| 69 | [Morena](https://open.spotify.com/track/3pyYe4wjMV0ehhmBgZo9tE) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [Morena](https://open.spotify.com/album/2uV1mmtYPm4cGFnXWZa1kc) | 2:50 |
+| 70 | [Trágatelo](https://open.spotify.com/track/7isW5u9xH4iDUJfqn36UMl) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Philip Z](https://open.spotify.com/artist/15F2LcEjhyssahY1ZsGg7C), [Fatboi](https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE) | [Trágatelo](https://open.spotify.com/album/77pIaKUlGjnL7tXbVL7FTI) | 2:47 |
 | 71 | [Desconocidos](https://open.spotify.com/track/1Hd36cEZ37e9dNyxJy9ys6) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Argia](https://open.spotify.com/artist/3K2j2d5WP7SfP06QTV8iz4) | [Desconocidos](https://open.spotify.com/album/0Kpg2Flv9TK2V8s7bJrade) | 5:22 |
 | 72 | [Caliente](https://open.spotify.com/track/7GA5kAtcfu6ffdjrsDNCe3) | [Saffron Stone](https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz) | [Caliente](https://open.spotify.com/album/0k9fJtZqLDVJi56EbJ6hYE) | 2:33 |
 | 73 | [Mueve Los Dos Pies](https://open.spotify.com/track/4ZSAH3KeoaQ17VpplxkdVQ) | [Teddy Wong](https://open.spotify.com/artist/0GdhK4DxpuQ1C7SXpdon31) | [Mueve Los Dos Pies](https://open.spotify.com/album/62RADUg9aYhCC2k7fxg2jU) | 3:32 |
 | 74 | [Gitrox](https://open.spotify.com/track/7jQZtYrb5nyWXEiNlu0VMQ) | [Los Padres](https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU) | [Gitrox](https://open.spotify.com/album/02LTijbsb6BLbfZMKOEip1) | 3:17 |
 | 75 | [Baila Mi Gente](https://open.spotify.com/track/6TJvvAp8YA41ZAsZDonWUS) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Baila Mi Gente](https://open.spotify.com/album/0WwClPZncNg0Oqb25jB2q4) | 2:40 |
 
-Snapshot ID: `MCxhYmMwYTY2OTMwMjQ4NDU4Mjg3NDlhMmZmZGM5YTg0NWFjZWYwY2U5`
+Snapshot ID: `MCxhMzI4NjU1M2NiYWI5ZGNhNjBjZTg3MTc1YzY4Zjc3ZWMxY2IwNzEw`

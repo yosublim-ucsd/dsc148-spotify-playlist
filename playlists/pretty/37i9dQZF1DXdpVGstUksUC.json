@@ -1,12 +1,12 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 539068,
+  "num_followers": 539071,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjNkN2IwMDNkZTYzMDBmYzlkYjNhM2ZhNDI0NjYzZmQyMGUzN2M2",
+  "snapshot_id": "MCw1ODE2NWJmMWQzODlhODQwN2ZlYTdhM2JkOGM2MGU0NGMzYmY5Yjg4",
   "tracks": [
     {
       "added_at": "2023-10-06 04:01:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Agents Of Ahriman",
-        "url": "https://open.spotify.com/album/5PSBwA2oaiwxhJXcORR52z"
-      },
-      "artists": [
-        {
-          "name": "Greenleaf",
-          "url": "https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7"
-        }
-      ],
-      "duration_ms": 185440,
-      "name": "Stray Bullit Woman",
-      "url": "https://open.spotify.com/track/3QBGlNOpMFuPQjpWu3eL2c"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Dopes To Infinity",
         "url": "https://open.spotify.com/album/6Dh8ASautDuCAtsWebqyGS"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 267933,
       "name": "Negasonic Teenage Warhead",
       "url": "https://open.spotify.com/track/39M82JuLd0Fe6w62q0zPMF"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Agents Of Ahriman",
+        "url": "https://open.spotify.com/album/5PSBwA2oaiwxhJXcORR52z"
+      },
+      "artists": [
+        {
+          "name": "Greenleaf",
+          "url": "https://open.spotify.com/artist/2Mjr7nb7vY7AQwxGskDlM7"
+        }
+      ],
+      "duration_ms": 185440,
+      "name": "Stray Bullit Woman",
+      "url": "https://open.spotify.com/track/3QBGlNOpMFuPQjpWu3eL2c"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Warp Riders",
-        "url": "https://open.spotify.com/album/4APeNJPvYBUTRTF3OLUCUT"
-      },
-      "artists": [
-        {
-          "name": "The Sword",
-          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
-        }
-      ],
-      "duration_ms": 249333,
-      "name": "Tres Brujas",
-      "url": "https://open.spotify.com/track/0A2xPmHDRHDaWWwACMmPTA"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Old Gods",
         "url": "https://open.spotify.com/album/5cFsLTBGGzrVYtUY89XmQM"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 360800,
       "name": "Old Gods",
       "url": "https://open.spotify.com/track/203vkEu6B8lrR1cyLgKp80"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Warp Riders",
+        "url": "https://open.spotify.com/album/4APeNJPvYBUTRTF3OLUCUT"
+      },
+      "artists": [
+        {
+          "name": "The Sword",
+          "url": "https://open.spotify.com/artist/0q32a3GRCjDxS4EIrC7YVY"
+        }
+      ],
+      "duration_ms": 249333,
+      "name": "Tres Brujas",
+      "url": "https://open.spotify.com/track/0A2xPmHDRHDaWWwACMmPTA"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "The No. 6 Dance",
-        "url": "https://open.spotify.com/album/3V1vwPwJmuY0hJHf8Qac5J"
-      },
-      "artists": [
-        {
-          "name": "Five Horse Johnson",
-          "url": "https://open.spotify.com/artist/4lFmtj9tVIuMIjUllILQPl"
-        }
-      ],
-      "duration_ms": 214600,
-      "name": "Mississippi King",
-      "url": "https://open.spotify.com/track/44MBgTjYSZUIqq6KoBEcsD"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Macho Libre",
         "url": "https://open.spotify.com/album/00mzkzyLCpZOaNXwZHpQjO"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 230653,
       "name": "Leftovers",
       "url": "https://open.spotify.com/track/7IM5tvokhddITGFOrbZZGk"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "The No. 6 Dance",
+        "url": "https://open.spotify.com/album/3V1vwPwJmuY0hJHf8Qac5J"
+      },
+      "artists": [
+        {
+          "name": "Five Horse Johnson",
+          "url": "https://open.spotify.com/artist/4lFmtj9tVIuMIjUllILQPl"
+        }
+      ],
+      "duration_ms": 214600,
+      "name": "Mississippi King",
+      "url": "https://open.spotify.com/track/44MBgTjYSZUIqq6KoBEcsD"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "The Great American Death Rattle",
-        "url": "https://open.spotify.com/album/5CqNNTLYPQMpfXrs9LtHVY"
-      },
-      "artists": [
-        {
-          "name": "Youngblood Supercult",
-          "url": "https://open.spotify.com/artist/4WGjGwFHGjMwImoTe84nz7"
-        }
-      ],
-      "duration_ms": 244720,
-      "name": "The Great American Death Rattle",
-      "url": "https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Head Smashed In",
         "url": "https://open.spotify.com/album/0ISNJ9yB6tvbXX995axuv5"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 325313,
       "name": "Perfect Man",
       "url": "https://open.spotify.com/track/62AUjyLBcIPnpu8r6Onl1X"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "The Great American Death Rattle",
+        "url": "https://open.spotify.com/album/5CqNNTLYPQMpfXrs9LtHVY"
+      },
+      "artists": [
+        {
+          "name": "Youngblood Supercult",
+          "url": "https://open.spotify.com/artist/4WGjGwFHGjMwImoTe84nz7"
+        }
+      ],
+      "duration_ms": 244720,
+      "name": "The Great American Death Rattle",
+      "url": "https://open.spotify.com/track/2idNfRGfCw4ZAmIwHMBaUR"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "High Volume: The Stoner Rock Collection",
-        "url": "https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x"
-      },
-      "artists": [
-        {
-          "name": "Gas Giant",
-          "url": "https://open.spotify.com/artist/2Npjb3nqMxBL8XDBa37won"
-        }
-      ],
-      "duration_ms": 371983,
-      "name": "Too Stoned",
-      "url": "https://open.spotify.com/track/3i5Z1K6f6E1OcVQ8DZqkyQ"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "CVI",
         "url": "https://open.spotify.com/album/7m68iZmhsTYgIVFrVs6Dnp"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 318023,
       "name": "(If You Want the Smoke) Be the Fire",
       "url": "https://open.spotify.com/track/4kjZaRGXFw8na6fbgPQUYN"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "High Volume: The Stoner Rock Collection",
+        "url": "https://open.spotify.com/album/5bcsAnJvIiept5zU4B2g8x"
+      },
+      "artists": [
+        {
+          "name": "Gas Giant",
+          "url": "https://open.spotify.com/artist/2Npjb3nqMxBL8XDBa37won"
+        }
+      ],
+      "duration_ms": 371983,
+      "name": "Too Stoned",
+      "url": "https://open.spotify.com/track/3i5Z1K6f6E1OcVQ8DZqkyQ"
     },
     {
       "added_at": "2023-10-06 04:01:00",

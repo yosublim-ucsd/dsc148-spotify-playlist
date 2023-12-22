@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 941657,
+  "num_followers": 941736,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTdkNjhmYWI4YjMwMjY5YWI0ZWY3NTkzZmIwZGQ5YzA3MzdkYTI0",
+  "snapshot_id": "MCwwNjc2ZTExNDFjOWIxMTMwZWFmN2MwMDBmYjVhYzFiZWM1NWU4NjNi",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -927,6 +927,26 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Dance No More (with Kaleena Zanders)",
+        "url": "https://open.spotify.com/album/7uvMgsCSqtqOGaUfTRMZpL"
+      },
+      "artists": [
+        {
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+        },
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        }
+      ],
+      "duration_ms": 202657,
+      "name": "Dance No More (with Kaleena Zanders)",
+      "url": "https://open.spotify.com/track/7gDgphzQU0urJU3AtoLJup"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Mind Awake, Body Asleep",
         "url": "https://open.spotify.com/album/4sM2DMHiDDU25XRx7AEJ0x"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 150447,
       "name": "Mind Awake, Body Asleep",
       "url": "https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Dance No More (with Kaleena Zanders)",
-        "url": "https://open.spotify.com/album/7uvMgsCSqtqOGaUfTRMZpL"
-      },
-      "artists": [
-        {
-          "name": "Sunday Scaries",
-          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
-        },
-        {
-          "name": "Kaleena Zanders",
-          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
-        }
-      ],
-      "duration_ms": 202657,
-      "name": "Dance No More (with Kaleena Zanders)",
-      "url": "https://open.spotify.com/track/7gDgphzQU0urJU3AtoLJup"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1595,22 +1595,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Body Move",
-        "url": "https://open.spotify.com/album/5TyjyT6103AqJNbUFukmuG"
+        "name": "Chain Gang",
+        "url": "https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0"
       },
       "artists": [
         {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
-        },
-        {
-          "name": "Aries",
-          "url": "https://open.spotify.com/artist/6uj8itikYSe2m6oExXXSZH"
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
         }
       ],
-      "duration_ms": 130500,
-      "name": "Body Move",
-      "url": "https://open.spotify.com/track/1INJXUsFg4bLYN9Wtw87EG"
+      "duration_ms": 107536,
+      "name": "Chain Gang",
+      "url": "https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1631,18 +1627,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Chain Gang",
-        "url": "https://open.spotify.com/album/0tS6kuEWcyV4jEty6H4Rz0"
+        "name": "Body Move",
+        "url": "https://open.spotify.com/album/5TyjyT6103AqJNbUFukmuG"
       },
       "artists": [
         {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        },
+        {
+          "name": "Aries",
+          "url": "https://open.spotify.com/artist/6uj8itikYSe2m6oExXXSZH"
         }
       ],
-      "duration_ms": 107536,
-      "name": "Chain Gang",
-      "url": "https://open.spotify.com/track/27gCmJDwzTxTx9e90NWDTb"
+      "duration_ms": 130500,
+      "name": "Body Move",
+      "url": "https://open.spotify.com/track/1INJXUsFg4bLYN9Wtw87EG"
     },
     {
       "added_at": "2023-12-15 05:00:00",

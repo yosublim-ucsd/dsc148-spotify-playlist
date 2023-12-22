@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1X6Ic8.md) - [plain]
 
 > This is The 1975\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 761,380 likes - 42 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 761,481 likes - 42 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1X6Ic8.md) - [plain]
 | 41 | [Pressure](https://open.spotify.com/track/3W4xpnA5BVg9qduchV1mQy) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 3:41 |
 | 42 | [Undo](https://open.spotify.com/track/1LD52Nzt9wg1vB3F6gelPH) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe Version\)](https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c) | 4:04 |
 
-Snapshot ID: `MjgzODQ1NTksMDAwMDAwMDA0NWM5OTcyMWQzNDk5MzlkNTdiOTFhMTVmODc4YTk2Mw==`
+Snapshot ID: `MjgzODYwMTksMDAwMDAwMDA4ZjU3NjYyOWMzN2YxMjg5YzZiYTIwMjRjMDA2Y2IwNQ==`

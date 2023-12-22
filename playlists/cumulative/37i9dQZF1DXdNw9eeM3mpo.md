@@ -4,7 +4,7 @@
 
 > 100% ska en español\. Los Fabulosos Cadillacs en portada.
 
-309 songs - 18 hr 50 min
+310 songs - 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Kilómetros](https://open.spotify.com/track/4Jr2cHZaIe1rmdVlc5efIy) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [No Es Lo Que Parece](https://open.spotify.com/album/3zSpK9IRrUvX96rTL5tmzC) | 3:11 | 2021-12-21 |  |
 | [Kilómetros \- En Vivo](https://open.spotify.com/track/6Cqxghbtzx0DdnQYnMwpEw) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [20 Años: El Show Más Feliz del Mundo \(En Vivo\)](https://open.spotify.com/album/3LcZw9ONp2XAz0VDJ5RILj) | 5:04 | 2021-12-21 | 2023-07-01 |
 | [Konfesión](https://open.spotify.com/track/20K8gKxabOpZe5BEJH2thY) | [Skaparapid](https://open.spotify.com/artist/0KS8PpA5dt2xO2nGB7wMlS) | [Ací Estem](https://open.spotify.com/album/3gBBuswdlFKPtSj3FITA79) | 4:11 | 2021-12-21 | 2022-07-22 |
-| [La Bacha](https://open.spotify.com/track/0uoCp44J9zDIp0YiU3Q9Gu) | [Adhesivo](https://open.spotify.com/artist/3G09ejwK6mqyGaWXDF1w6n) | [La Bacha](https://open.spotify.com/album/2g2F7xOQIfylKxoT2sA4Xw) | 3:16 | 2023-04-21 |  |
+| [La Bacha](https://open.spotify.com/track/0uoCp44J9zDIp0YiU3Q9Gu) | [Adhesivo](https://open.spotify.com/artist/3G09ejwK6mqyGaWXDF1w6n) | [La Bacha](https://open.spotify.com/album/2g2F7xOQIfylKxoT2sA4Xw) | 3:16 | 2023-04-21 | 2023-12-22 |
 | [La Banda Borracha](https://open.spotify.com/track/5oXFI9ZLYGUbpLZY34T3ai) | [La Lupita](https://open.spotify.com/artist/64Fg1xlMcuDptp5EiNIIcB) | [La Banda Borracha](https://open.spotify.com/album/6QB9WO7bZPX4MfbteFWWJM) | 3:33 | 2021-12-21 | 2022-08-19 |
 | [LA BESTIA](https://open.spotify.com/track/0ruzjmHbo1rQzSzhTB3E97) | [Los Intocables](https://open.spotify.com/artist/1DVzzjpINLQBDKIF4FRPrD) | [LA BESTIA](https://open.spotify.com/album/4mnYASpvR57lHSg8iJwWeh) | 3:17 | 2023-06-30 | 2023-10-13 |
 | [La Bolsa](https://open.spotify.com/track/2qSbz1afvswRV4g7fT3dgj) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx), [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [La Bolsa](https://open.spotify.com/album/6wbS0YyaDg2mbJDkZBk1el) | 3:19 | 2023-05-05 |  |
@@ -293,6 +293,7 @@
 | [Todos Locos](https://open.spotify.com/track/20j3mg8wGS2d3HbTrYWLsk) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Circología](https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7) | 2:22 | 2021-12-21 | 2023-04-22 |
 | [Total](https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Frecuencia Rebelde](https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj) | 3:16 | 2021-12-21 |  |
 | [Traición a la Mejicana](https://open.spotify.com/track/4XRYK2sdrRCcuzHBbN9ziE) | [La Banda de Grillo](https://open.spotify.com/artist/1TscVCk7XePD3K4FjwCzpq), [Chelo Zimbabwe](https://open.spotify.com/artist/0XLVhJIBt95ktFoPLtdC37) | [Traición a la Mejicana](https://open.spotify.com/album/4Ibmvd4Ur0Ob7TsnbGJSvI) | 4:00 | 2023-09-01 | 2023-09-29 |
+| [TU ALMA MIA/ADELITA](https://open.spotify.com/track/24w6juIgwVkJQ3XmPH9C3Q) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Dale Aborigen](https://open.spotify.com/album/5iApfIWDo1t5wRiePb2paS) | 3:49 | 2023-11-24 |  |
 | [Tu Alma Mía & Adelita](https://open.spotify.com/track/1sxw4UT4h3qpd1ABFEPBe8) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Dale Aborigen](https://open.spotify.com/album/212ondLs1xEcRuSM0iu70X) | 3:49 | 2021-12-21 | 2022-12-03 |
 | [Tu Alma Mía & Adelita](https://open.spotify.com/track/3JuJ8K9qJshYxQGR1ijoaa) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Dale Aborigen](https://open.spotify.com/album/6TAMJC8XUIxWIKaWBIgn8h) | 3:49 | 2021-12-21 | 2022-07-29 |
 | [Tu Alma Mía / Adelita](https://open.spotify.com/track/0aDTaI6pxKLiy0vcmHebZR) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Greatest Hits](https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl) | 3:53 | 2021-12-21 | 2023-12-18 |

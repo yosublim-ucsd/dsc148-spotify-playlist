@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. Lex en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,622 likes - 90 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,623 likes - 90 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 60 | [Don't Let Me Go](https://open.spotify.com/track/2LPZv2eISfucFyxrMzOsVE) | [HAJJ](https://open.spotify.com/artist/5u8V8ixzEKcIjWxNbNOHvI) | [Don't Let Me Go](https://open.spotify.com/album/1MrQws4rtOnCjgjaXYavzr) | 3:03 |
 | 61 | [Highway \- Original Mix](https://open.spotify.com/track/6AUlcDivRD0L1EbeljUoLr) | [Andre VII](https://open.spotify.com/artist/6ydoTVyJn4VEKeRUeTtjFq) | [Highway](https://open.spotify.com/album/21J0Swjz8gN4mRTfTTyrC7) | 6:09 |
 | 62 | [This Generation](https://open.spotify.com/track/7ALZfK8izr67IrJfqTOuIn) | [Tadeo Fernandez](https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS) | [This Generation](https://open.spotify.com/album/6OIubcGvfwcaYLrC9lnFrK) | 2:52 |
-| 63 | [Baby 'O](https://open.spotify.com/track/6GA3AQKqCvdzfsqNFGfbrL) | [Titán](https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu) | [Baby 'O](https://open.spotify.com/album/4hwb8VxXw7wek68HBzxEYk) | 4:15 |
-| 64 | [El Pana Dero](https://open.spotify.com/track/6rlhaRVuyfMEbLqdY7iWEP) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [El Pana Dero](https://open.spotify.com/album/5B1upn3tokanXGtSeSuGHM) | 2:44 |
+| 63 | [El Pana Dero](https://open.spotify.com/track/6rlhaRVuyfMEbLqdY7iWEP) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [El Pana Dero](https://open.spotify.com/album/5B1upn3tokanXGtSeSuGHM) | 2:44 |
+| 64 | [Baby 'O](https://open.spotify.com/track/6GA3AQKqCvdzfsqNFGfbrL) | [Titán](https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu) | [Baby 'O](https://open.spotify.com/album/4hwb8VxXw7wek68HBzxEYk) | 4:15 |
 | 65 | [Fire](https://open.spotify.com/track/6cQ652KB26bjWHt2OZkB5Z) | [Alfred Beck](https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93), [Riallo](https://open.spotify.com/artist/3IMw3PZVhu5PUkT6p3jW5u), [Sapir Amar](https://open.spotify.com/artist/1Pjebxkm2UjQrQ5tg4kXYC) | [Fire](https://open.spotify.com/album/3sXt7lzsm7c0nJFb7huHjl) | 3:01 |
 | 66 | [Thousand Drums](https://open.spotify.com/track/5YAyAyhxJ5B14SRxpSi5Xr) | [Orjan Nilsen](https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM), [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl) | [Thousand Drums](https://open.spotify.com/album/2DI0GDytpZdZcevYbvFUhd) | 3:21 |
 | 67 | [Give Me Your Heart \(Somos Uno\)](https://open.spotify.com/track/0cEkRIcJMo0KIxNsWiKyob) | [Sisster](https://open.spotify.com/artist/6d7Gn9vZrwwN9gBnKHzdzF) | [Give Me Your Heart \(Somos Uno\)](https://open.spotify.com/album/3R79qs8T32OudQdPBZ0Ope) | 3:29 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 89 | [Inside Out](https://open.spotify.com/track/3kRfmys5Ga7GPDNuSHFF8f) | [Maciel](https://open.spotify.com/artist/18EPLdbAm32pw1FUJUFMN0), [Benlon](https://open.spotify.com/artist/2VD7hi5KkmTgalaFZ8dnls), [Sharpz](https://open.spotify.com/artist/0ljA2i2R8t59sJwmq8SLs4) | [Inside Out](https://open.spotify.com/album/1TQ6tghOuwvsRvanzeoGmF) | 2:54 |
 | 90 | [Galactic Feelings](https://open.spotify.com/track/5UdlBVNbiLgSYJs0mVka5R) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Galactic Feelings](https://open.spotify.com/album/0DOKHmbh2GwQ0Xq6G7uo0X) | 4:10 |
 
-Snapshot ID: `MCwwMWMzMjBiMWVlZWFhOTAwNmExNWJmYjU3MzllM2I3ZjhmYTk2NjM5`
+Snapshot ID: `MCxmODI2NDNmODk4MTdhN2VmMjU1MDZmMTQ3NmIzYzRjOWM4MDhmYjM1`

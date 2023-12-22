@@ -1,12 +1,12 @@
 {
   "description": "Grupo Benzadeus e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 224041,
+  "num_followers": 224066,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzU5OWU0MmFjZmEzNTNkODFhZWY1NDc2NTI1OWMzNzY2MWQ3MGU4",
+  "snapshot_id": "MCxmNDhmYjRlZDQyNGJkODQ0ZGIzMzFkNmMzODQ0OTVhZGZkNzZjYjA3",
   "tracks": [
     {
       "added_at": "2023-12-15 03:01:00",
@@ -323,42 +323,6 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "Faz Completo, Chefe",
-        "url": "https://open.spotify.com/album/6KBfDOPHZWb4FUpJMfSrVL"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "DJ WN",
-          "url": "https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB"
-        }
-      ],
-      "duration_ms": 127228,
-      "name": "Faz Completo, Chefe",
-      "url": "https://open.spotify.com/track/3uxc6B7LaEeOdLe4WWzME8"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
-        "name": "Atlanta - Spotify Singles",
-        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        }
-      ],
-      "duration_ms": 121031,
-      "name": "Atlanta - Spotify Singles",
-      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
         "name": "Amor e \u00d3dio",
         "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
       },
@@ -391,6 +355,42 @@
       "duration_ms": 179945,
       "name": "Loucura",
       "url": "https://open.spotify.com/track/4QCwvUs4ob87Tq9VP07Uo3"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "Atlanta - Spotify Singles",
+        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        }
+      ],
+      "duration_ms": 121031,
+      "name": "Atlanta - Spotify Singles",
+      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "Faz Completo, Chefe",
+        "url": "https://open.spotify.com/album/6KBfDOPHZWb4FUpJMfSrVL"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "DJ WN",
+          "url": "https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB"
+        }
+      ],
+      "duration_ms": 127228,
+      "name": "Faz Completo, Chefe",
+      "url": "https://open.spotify.com/track/3uxc6B7LaEeOdLe4WWzME8"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -871,6 +871,26 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
+        "name": "\u00c9 OS D",
+        "url": "https://open.spotify.com/album/7duVEHhFXXNS4GF0OFYBIN"
+      },
+      "artists": [
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "\u00c9 OS D",
+      "url": "https://open.spotify.com/track/0FqqR9vFwoJoBKhTUfJl6q"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
         "name": "TAURUS",
         "url": "https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 190344,
       "name": "99 Problemas",
       "url": "https://open.spotify.com/track/5dFYzcIVBUCu6YIix6cdNw"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
-        "name": "\u00c9 OS D",
-        "url": "https://open.spotify.com/album/7duVEHhFXXNS4GF0OFYBIN"
-      },
-      "artists": [
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        },
-        {
-          "name": "Perera DJ",
-          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "\u00c9 OS D",
-      "url": "https://open.spotify.com/track/0FqqR9vFwoJoBKhTUfJl6q"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "Xuxu",
-        "url": "https://open.spotify.com/album/28NVGuWHSlUaFrsMbx037O"
-      },
-      "artists": [
-        {
-          "name": "Filhos De Jorge",
-          "url": "https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE"
-        },
-        {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
-        }
-      ],
-      "duration_ms": 172523,
-      "name": "Xuxu",
-      "url": "https://open.spotify.com/track/45Qqs9BW6k67PuSViT2rLv"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
         "name": "Bem Vindo Natal Mixtape 2",
         "url": "https://open.spotify.com/album/3uMKaRHfxppABibJFJi0mr"
       },
@@ -1207,6 +1187,26 @@
       "duration_ms": 136615,
       "name": "Gato Preto",
       "url": "https://open.spotify.com/track/3iCz1xQzu2BeklLyMCKICr"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "Xuxu",
+        "url": "https://open.spotify.com/album/28NVGuWHSlUaFrsMbx037O"
+      },
+      "artists": [
+        {
+          "name": "Filhos De Jorge",
+          "url": "https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE"
+        },
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        }
+      ],
+      "duration_ms": 172523,
+      "name": "Xuxu",
+      "url": "https://open.spotify.com/track/45Qqs9BW6k67PuSViT2rLv"
     },
     {
       "added_at": "2023-12-15 03:01:00",

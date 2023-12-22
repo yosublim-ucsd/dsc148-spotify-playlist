@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWF3yivn1m3D.md) - [plain]
 
 > The best of the legendary composer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 680,879 likes - 77 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 681,239 likes - 77 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWF3yivn1m3D.md) - [plain]
 | 24 | [Discombobulate](https://open.spotify.com/track/0cm6cAtRu0C0sEZzDjZFsx) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Sherlock Holmes \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4eouZPpapIAd6TvYkUTGDq) | 2:25 |
 | 25 | [Seven Worlds One Planet Suite](https://open.spotify.com/track/5lQVNs4bllulBximHUQL5K) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Jacob Shea](https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc) | [Seven Worlds One Planet \(Original Television Soundtrack\)](https://open.spotify.com/album/2KTONzFGV20JddBJYTsMyR) | 5:01 |
 | 26 | [The Job](https://open.spotify.com/track/4EW68zLGIpylzn6JPgcNl7) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Widows \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3DnNmCPLr3pddkLHOZfS1s) | 4:58 |
-| 27 | [The Blue Planet](https://open.spotify.com/track/1fw6GuGz4Zq1aSoXXxhvr6) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Jacob Shea](https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc), [David Fleming](https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8) | [Blue Planet II \(Original Television Soundtrack\)](https://open.spotify.com/album/2La7crUpW4po25IYpveXws) | 3:17 |
+| 27 | [The Blue Planet](https://open.spotify.com/track/1zV1NHVIJbBsvhwuxgMIxk) | [Jacob Shea](https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [David Fleming](https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8) | [Blue Planet II \(Original Television Soundtrack\)](https://open.spotify.com/album/6aXolSS4oP1j52cdCxOr5L) | 3:17 |
 | 28 | [The Burning Bush](https://open.spotify.com/track/5tgyHc2LLF0BI2udBTMFJz) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Prince Of Egypt \(Music From The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA) | 7:16 |
 | 29 | [Themyscira](https://open.spotify.com/track/4C7lKHNYzm9c8ywpGNlAc9) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Wonder Woman 1984 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1S6PQvbIyUIS9P6Cxu9lmO) | 3:51 |
 | 30 | [Planet Earth II Suite](https://open.spotify.com/track/1P2QPnAPlrRnldot0wIE6E) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Jacob Shea](https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc), [Jasha Klebe](https://open.spotify.com/artist/7owBDVkVmRAeJINp1Ou9N3) | [Planet Earth II \(Original Television Soundtrack\)](https://open.spotify.com/album/0DuJfDsORVE5T5jaQkKIzL) | 4:31 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWF3yivn1m3D.md) - [plain]
 | 76 | [Run Free](https://open.spotify.com/track/75OrTolKEnimJj625JUIft) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Spirit: Stallion Of The Cimarron \(Music From The Original Motion Picture\)](https://open.spotify.com/album/3pDG0vQ5LfL2BQZJJtkbg8) | 6:21 |
 | 77 | [Iris And Jasper](https://open.spotify.com/track/4JCi6FpV6DHi0OBFhmrKGy) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Holiday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1wJZSN3VrWTR8OcFJ4lp9I) | 3:24 |
 
-Snapshot ID: `MCxhYWRkMmQ1NzRkZjQ3MzViYjBkZjJlYmJmM2QzMjMxNzEwNjA5ZmUy`
+Snapshot ID: `MCxiNTM5OGRkOGU5YjE1OTFkMzFlNmQ4ZTBmNmY0NWJmMjM0YTJhY2Y3`

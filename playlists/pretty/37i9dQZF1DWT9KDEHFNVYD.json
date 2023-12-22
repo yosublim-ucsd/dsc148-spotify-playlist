@@ -1,12 +1,12 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.",
-  "num_followers": 11422,
+  "num_followers": 11424,
   "original_name": "Krautrock Highway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMThhOTJhMGM2MDgxNzNjZWU0ZDljMzg5MmFlYTdiZmM5ZDIwMzIw",
+  "snapshot_id": "MCxmNzhlMjQ0OWYyYzE1ODMwMWE0MzRlNjE5OWUxNzVmZmY3YjM5YTQy",
   "tracks": [
     {
       "added_at": "2021-07-30 14:56:06",
@@ -219,22 +219,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Mars Audiac Quintet",
-        "url": "https://open.spotify.com/album/3p7TBwwN0OGa9UxpcbdeY4"
-      },
-      "artists": [
-        {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
-        }
-      ],
-      "duration_ms": 188933,
-      "name": "Wow And Flutter",
-      "url": "https://open.spotify.com/track/7I8lsynj5wHO1p2DxccDrX"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Zitilites",
         "url": "https://open.spotify.com/album/6SRo0LgsrC4MV3nONDtr4c"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 266546,
       "name": "Surfing The Warm Industry",
       "url": "https://open.spotify.com/track/10JEpI1y7PMD9r3ZxF6CFZ"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Mars Audiac Quintet",
+        "url": "https://open.spotify.com/album/3p7TBwwN0OGa9UxpcbdeY4"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        }
+      ],
+      "duration_ms": 188933,
+      "name": "Wow And Flutter",
+      "url": "https://open.spotify.com/track/7I8lsynj5wHO1p2DxccDrX"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -775,22 +775,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Know by Heart",
-        "url": "https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S"
-      },
-      "artists": [
-        {
-          "name": "The American Analog Set",
-          "url": "https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "Like Foxes Through Fences",
-      "url": "https://open.spotify.com/track/05e1tN9mBd1qky5SdIGGTI"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Primary Colours",
         "url": "https://open.spotify.com/album/22Nn88o4b8qGFXt2IkaFXV"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 478493,
       "name": "Sea Within a Sea",
       "url": "https://open.spotify.com/track/4PeCRnvmRc60UBEEHZuSQO"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Know by Heart",
+        "url": "https://open.spotify.com/album/2V3jlwKVWObfRDzgnL3E2S"
+      },
+      "artists": [
+        {
+          "name": "The American Analog Set",
+          "url": "https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A"
+        }
+      ],
+      "duration_ms": 217133,
+      "name": "Like Foxes Through Fences",
+      "url": "https://open.spotify.com/track/05e1tN9mBd1qky5SdIGGTI"
     },
     {
       "added_at": "2023-01-25 02:05:47",
@@ -1001,20 +1001,20 @@
       "url": "https://open.spotify.com/track/24vNTDqvAfgKMyDAT6ZFBd"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
+      "added_at": "2022-03-04 01:55:34",
       "album": {
-        "name": "Empty Estate",
-        "url": "https://open.spotify.com/album/6jQGv6CXR9quOlin4TDvTq"
+        "name": "Mandatory Enjoyment",
+        "url": "https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc"
       },
       "artists": [
         {
-          "name": "Wild Nothing",
-          "url": "https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB"
+          "name": "Dummy",
+          "url": "https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC"
         }
       ],
-      "duration_ms": 205586,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/0NWdgbD2abX2AWfz44WL9T"
+      "duration_ms": 184013,
+      "name": "Final Weapon",
+      "url": "https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1031,6 +1031,22 @@
       "duration_ms": 295026,
       "name": "To the East",
       "url": "https://open.spotify.com/track/1OfR8T0YBBwKXxt7nbAJaT"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Empty Estate",
+        "url": "https://open.spotify.com/album/6jQGv6CXR9quOlin4TDvTq"
+      },
+      "artists": [
+        {
+          "name": "Wild Nothing",
+          "url": "https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB"
+        }
+      ],
+      "duration_ms": 205586,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/0NWdgbD2abX2AWfz44WL9T"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1065,22 +1081,6 @@
       "url": "https://open.spotify.com/track/3Q7tI1K0tkbR35245NYV8X"
     },
     {
-      "added_at": "2022-03-04 01:55:34",
-      "album": {
-        "name": "Mandatory Enjoyment",
-        "url": "https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc"
-      },
-      "artists": [
-        {
-          "name": "Dummy",
-          "url": "https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC"
-        }
-      ],
-      "duration_ms": 184013,
-      "name": "Final Weapon",
-      "url": "https://open.spotify.com/track/4cV5qpNHPtZ4tEL2HGGtZm"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Ege Bamyasi (Remastered Version)",
@@ -1113,22 +1113,6 @@
       "url": "https://open.spotify.com/track/7r7xmYxgBhwCDvgKzNwj4p"
     },
     {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Haha Sound",
-        "url": "https://open.spotify.com/album/7LhYW5INITQKexibfDCmtP"
-      },
-      "artists": [
-        {
-          "name": "Broadcast",
-          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
-        }
-      ],
-      "duration_ms": 261426,
-      "name": "Pendulum",
-      "url": "https://open.spotify.com/track/6hbP2Xs5W0SVvepjLWnTeL"
-    },
-    {
       "added_at": "2023-04-07 06:00:00",
       "album": {
         "name": "Ficci\u00f3n",
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Stars Are the Light",
-        "url": "https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5"
+        "name": "Haha Sound",
+        "url": "https://open.spotify.com/album/7LhYW5INITQKexibfDCmtP"
       },
       "artists": [
         {
-          "name": "Moon Duo",
-          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
         }
       ],
-      "duration_ms": 288031,
-      "name": "The World and the Sun",
-      "url": "https://open.spotify.com/track/0dpkOiQplc6atQ19JUultZ"
+      "duration_ms": 261426,
+      "name": "Pendulum",
+      "url": "https://open.spotify.com/track/6hbP2Xs5W0SVvepjLWnTeL"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1175,6 +1159,22 @@
       "duration_ms": 322360,
       "name": "Super-Electric",
       "url": "https://open.spotify.com/track/21vqlbCLLwlWxZX5JPostL"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Stars Are the Light",
+        "url": "https://open.spotify.com/album/1sHQuaIevYqota2y67KzK5"
+      },
+      "artists": [
+        {
+          "name": "Moon Duo",
+          "url": "https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu"
+        }
+      ],
+      "duration_ms": 288031,
+      "name": "The World and the Sun",
+      "url": "https://open.spotify.com/track/0dpkOiQplc6atQ19JUultZ"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Warrior on the Edge of Time",
+        "url": "https://open.spotify.com/album/0vp16atvbB8MmXPaL8Q3A9"
+      },
+      "artists": [
+        {
+          "name": "Hawkwind",
+          "url": "https://open.spotify.com/artist/2jK54ZlZhTF1TxygsVeR05"
+        }
+      ],
+      "duration_ms": 309733,
+      "name": "Opa-Loka",
+      "url": "https://open.spotify.com/track/3Lr8LULx6VXGqf3FeiVjC0"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/3sH28pORiCQMqQNWuXweUv"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 279601,
       "name": "Quakenbr\u00fcck - version",
       "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Warrior on the Edge of Time",
-        "url": "https://open.spotify.com/album/0vp16atvbB8MmXPaL8Q3A9"
-      },
-      "artists": [
-        {
-          "name": "Hawkwind",
-          "url": "https://open.spotify.com/artist/2jK54ZlZhTF1TxygsVeR05"
-        }
-      ],
-      "duration_ms": 309733,
-      "name": "Opa-Loka",
-      "url": "https://open.spotify.com/track/3Lr8LULx6VXGqf3FeiVjC0"
     },
     {
       "added_at": "2022-03-18 05:36:55",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp"
-      },
-      "artists": [
-        {
-          "name": "Lorelle Meets The Obsolete",
-          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
-        }
-      ],
-      "duration_ms": 381868,
-      "name": "The Sound of all Things",
-      "url": "https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "I Am Not Afraid Of You And I Will Beat Your Ass",
         "url": "https://open.spotify.com/album/7dU9MbmRJaTX7JJzAd5bqL"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 646960,
       "name": "Pass The Hatchet, I Think I'm Goodkind",
       "url": "https://open.spotify.com/track/2Sz8LPsM6ltd9sb34H6Oz8"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp"
+      },
+      "artists": [
+        {
+          "name": "Lorelle Meets The Obsolete",
+          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
+        }
+      ],
+      "duration_ms": 381868,
+      "name": "The Sound of all Things",
+      "url": "https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM"
     },
     {
       "added_at": "2021-07-30 14:56:06",

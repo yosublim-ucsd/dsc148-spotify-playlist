@@ -1,12 +1,12 @@
 {
   "description": "what are we?",
-  "num_followers": 266300,
+  "num_followers": 267430,
   "original_name": "situationship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZGJjNjc4MjdhMzNjMzE4YjQyZjM5ZDA4NzlhMWM4ZWE0ZGFiMzZl",
+  "snapshot_id": "MCxlODE3YmFiNzE0MTRhOGU2YzY0MThiODVkODMxODczNTI2Y2M3ZjU1",
   "tracks": [
     {
       "added_at": "2023-11-30 06:27:46",
@@ -831,22 +831,18 @@
     {
       "added_at": "2023-11-30 06:27:46",
       "album": {
-        "name": "F*CK LOVE 3+: OVER YOU",
-        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
+        "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Capital Cities",
+          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
         }
       ],
-      "duration_ms": 141805,
-      "name": "STAY (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo"
+      "duration_ms": 192789,
+      "name": "Safe And Sound",
+      "url": "https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb"
     }
   ],
   "unique_name": "situationship",

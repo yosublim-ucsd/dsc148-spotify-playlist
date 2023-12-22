@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26qb6H.md) - [plain]
 
 > This is Murda Beatz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,123 likes - 33 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,122 likes - 33 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO26qb6H.md) - [plain]
 | 32 | [Outside](https://open.spotify.com/track/5ZuP7gjwZlBcGsxcSOtpfa) | [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Outside](https://open.spotify.com/album/4hoY7EvJ5DFDNGlN2eG2MN) | 2:16 |
 | 33 | [McQueen](https://open.spotify.com/track/4vLRgSxcRmhnhAl9dKb0jl) | [TrifeDrew](https://open.spotify.com/artist/3cWGilyM7pw2Q1bGbTXuBr), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [McQueen](https://open.spotify.com/album/3kCfNWxtVZI9UuUXLGv0an) | 2:36 |
 
-Snapshot ID: `MjgzODQ1NjAsMDAwMDAwMDA2NzMyODRkNWIxODZiNjFhZGMwMmRkZjU4NmNkNjc2ZQ==`
+Snapshot ID: `MjgzODYwMTksMDAwMDAwMDAyNDIwNTliOGNhMWQ4ZTY0OTEzN2UxMDkxNWE4MWMyNw==`

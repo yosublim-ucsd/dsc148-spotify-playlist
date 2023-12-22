@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 104805,
+  "num_followers": 104811,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzNjMDVhMDE0ZjhmMjZhMWRiMmQ5MDFhN2ZiODRhYzk1NTNkNTFi",
+  "snapshot_id": "MCxkNjdkYzc1YzI0ZGZjNDg3YmNkZGEyN2E4NDBmMDQ0ZTJkYWEyMjM4",
   "tracks": [
     {
       "added_at": "2023-12-07 21:35:38",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-12-07 21:35:38",
       "album": {
-        "name": "Cursi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2hb5mHsPvEyj7ZvBKSD6Vo"
-      },
-      "artists": [
-        {
-          "name": "N\u00fameros Primos",
-          "url": "https://open.spotify.com/artist/0s2Cx0lTelNIvyXMX3GyP7"
-        }
-      ],
-      "duration_ms": 216292,
-      "name": "Astigmatismo y Miop\u00eda",
-      "url": "https://open.spotify.com/track/1188pTebmHUwpwkQvjVu2C"
-    },
-    {
-      "added_at": "2023-12-07 21:35:38",
-      "album": {
         "name": "Cuando Estoy con El (Sesi\u00f3n Jeanette)",
         "url": "https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 326961,
       "name": "Cuando Estoy con El - Sesi\u00f3n Jeanette",
       "url": "https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3"
+    },
+    {
+      "added_at": "2023-12-07 21:35:38",
+      "album": {
+        "name": "Cursi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2hb5mHsPvEyj7ZvBKSD6Vo"
+      },
+      "artists": [
+        {
+          "name": "N\u00fameros Primos",
+          "url": "https://open.spotify.com/artist/0s2Cx0lTelNIvyXMX3GyP7"
+        }
+      ],
+      "duration_ms": 216292,
+      "name": "Astigmatismo y Miop\u00eda",
+      "url": "https://open.spotify.com/track/1188pTebmHUwpwkQvjVu2C"
     },
     {
       "added_at": "2023-12-07 21:35:38",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2023-12-07 21:35:38",
       "album": {
-        "name": "Nosotros Dos",
-        "url": "https://open.spotify.com/album/2u8lXaejQL4N9yhOeLdspj"
-      },
-      "artists": [
-        {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
-        }
-      ],
-      "duration_ms": 246133,
-      "name": "Nosotros Dos",
-      "url": "https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ"
-    },
-    {
-      "added_at": "2023-12-07 21:35:38",
-      "album": {
         "name": "Romance de Fin de Semana",
         "url": "https://open.spotify.com/album/1OYZ5cJN4YZiUq54DZDcvN"
       },
@@ -1735,6 +1715,26 @@
       "duration_ms": 275670,
       "name": "Romance de Fin de Semana",
       "url": "https://open.spotify.com/track/2DevAjPcgZ3H2fzw9jYMIm"
+    },
+    {
+      "added_at": "2023-12-07 21:35:38",
+      "album": {
+        "name": "Nosotros Dos",
+        "url": "https://open.spotify.com/album/2u8lXaejQL4N9yhOeLdspj"
+      },
+      "artists": [
+        {
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+        },
+        {
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+        }
+      ],
+      "duration_ms": 246133,
+      "name": "Nosotros Dos",
+      "url": "https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ"
     },
     {
       "added_at": "2023-12-07 21:35:38",

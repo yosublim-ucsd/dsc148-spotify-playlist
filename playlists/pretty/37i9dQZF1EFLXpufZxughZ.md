@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/68dXiKlXR8OQojuPZd8lz1">T\-Minus</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,992 likes - 123 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,994 likes - 123 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [MIDDLE CHILD](https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [MIDDLE CHILD](https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc) | 3:33 |
 | 2 | [The London \(feat\. J\. Cole & Travis Scott\)](https://open.spotify.com/track/5h0ERFfd8oKj1LoKXTbbWz) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [The London \(feat\. J\. Cole & Travis Scott\)](https://open.spotify.com/album/4VCUBbgs3uNjwggcq3sk5l) | 3:27 |
-| 3 | [Swimming Pools \(Drank\)](https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Swimming Pools \(Drank\)](https://open.spotify.com/album/2XPrwlaAHHXnJzP9tBcIzH) | 4:07 |
+| 3 | [Swimming Pools \(Drank\)](https://open.spotify.com/track/23RXMgsL67RwKHYy8tJRwF) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Swimming Pools \(Drank\)](https://open.spotify.com/album/6SKicD1IkM8QF8hCK45gGe) | 3:52 |
 | 4 | [The Motto](https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 3:01 |
 | 5 | [Pretty Little Fears \(feat\. J\. Cole\)](https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [East Atlanta Love Letter](https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2) | 4:00 |
 | 6 | [Kevin’s Heart](https://open.spotify.com/track/6tZ3b7ik1QDXFAZlXib0YZ) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [KOD](https://open.spotify.com/album/4Wv5UAieM1LDEYVq5WmqDd) | 3:20 |
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 99 | [I Been That Girl](https://open.spotify.com/track/7o2JyoEdDAlhdyzjAfol7m) | [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [The MF Life \(Deluxe Version\)](https://open.spotify.com/album/3PWwOV9kUSHZ4EvFFKWLLY) | 2:53 |
 | 100 | [Co\-Defendant](https://open.spotify.com/track/0TEWH6vaudxvccI5dO2Ari) | [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j) | [Da REAList](https://open.spotify.com/album/2odMjBXzTq94QWJtiYrc1b) | 4:27 |
 | 101 | [Don't Quit \- Live](https://open.spotify.com/track/7I7fTsTJF0XzcL9Th8UeD0) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [Smokie Norful Live](https://open.spotify.com/album/2LDhc2VoiPQ6uKpPQc4R4u) | 7:07 |
-| 102 | [Basic Ordinary Ugly](https://open.spotify.com/track/0AxURtGtBclLeSi3Jy9Z62) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Basic Ordinary Ugly](https://open.spotify.com/album/5NnEgD8zjgofmIzCj1ass4) | 2:32 |
+| 102 | [Basic Ordinary Ugly](https://open.spotify.com/track/5wblr9dK0iPouvvFTUiImS) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Basic Ordinary Ugly](https://open.spotify.com/album/2eXGs6Oj4TMW7gNjhsEY5l) | 2:32 |
 | 103 | [Love](https://open.spotify.com/track/0OouDOffh65KDSgmKqsdXl) | [Lyfe Jennings](https://open.spotify.com/artist/33C3ByGk9NCrjTIXr6npqf) | [I Still Believe \(Deluxe\)](https://open.spotify.com/album/2m1dt02G7ShQXmdz549Vpi) | 3:18 |
 | 104 | [Spotlight](https://open.spotify.com/track/3zkFhD7MVekTg7646JJ1dj) | [Lyfe Jennings](https://open.spotify.com/artist/33C3ByGk9NCrjTIXr6npqf) | [I Still Believe \(Deluxe\)](https://open.spotify.com/album/2m1dt02G7ShQXmdz549Vpi) | 3:21 |
 | 105 | [Been Gone](https://open.spotify.com/track/7CWvBBYSGmwkteQ5IGg6V5) | [Keshia Chanté](https://open.spotify.com/artist/4jTnkOwrJvTSJokhx3guJH) | [2U](https://open.spotify.com/album/0pd3q6RmQe1OzAg95pKkmM) | 3:35 |
@@ -132,4 +132,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 122 | [It's Alright](https://open.spotify.com/track/0OIrTCGGsV35HNAC4UR0wD) | [Clive Bruce](https://open.spotify.com/artist/74A1JytvpdwhdpCD7ydkk5) | [Gypsy Queen](https://open.spotify.com/album/5wZbC3NsXrEyxNzIMtZ1QH) | 2:24 |
 | 123 | [T.R.I.B.E](https://open.spotify.com/track/00IuwiO6X1ZdguEb0cfxx6) | [The A.I.M.](https://open.spotify.com/artist/6LJbmJajmn2ITsXJqECxJP) | [T.R.I.B.E](https://open.spotify.com/album/4Y26nPJ19pqiTyQjpgeCVJ) | 3:59 |
 
-Snapshot ID: `MjgzODU0MTAsMDAwMDAwMDBhNTM5YzQyMGMxMDg1Mjc2ZDVhYjI0ZWYzNTY4YjdmMA==`
+Snapshot ID: `MjgzODY4NTAsMDAwMDAwMDAxYWViNzRmYzBjODhhZGU5MmYwNDcyNDM5ODY4NzY5Nw==`

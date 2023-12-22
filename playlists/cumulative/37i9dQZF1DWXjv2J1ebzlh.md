@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-2,187 songs - 6 day 3 hr 20 min
+2,188 songs - 6 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1942,7 +1942,8 @@
 | [The Message](https://open.spotify.com/track/364k0PwcNv842UUjmleIN9) | [Gyedu\-Blay Ambolley](https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj) | [The Message \(Analog Africa Dance Edition No\. 9\)](https://open.spotify.com/album/0brmDZ18UVq39dLEbJEHk0) | 7:47 | 2023-03-17 |  |
 | [The Message](https://open.spotify.com/track/3DAP08TRTRku6DMafOJ30O) | [Gyedu\-Blay Ambolley](https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj) | [The Message \(Analog Africa Dance Edition No\. 9\)](https://open.spotify.com/album/0UY7GXPO8SPURvXQtCVLAX) | 7:47 | 2022-07-27 | 2023-04-30 |
 | [The Message](https://open.spotify.com/track/4L9QE9eksxN2MKmPfPJY60) | [Gyedu\-Blay Ambolley](https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj) | [Gyedu\-Blay Ambolley \(Analog Africa Dance Edition No\. 9\)](https://open.spotify.com/album/6jaFQ9mvvP5Z9iK3sTHz58) | 7:47 | 2022-07-12 | 2022-07-29 |
-| [The Panther](https://open.spotify.com/track/0TO438ElpElpdtY9s4aNjv) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 2:29 | 2022-06-09 |  |
+| [The Panther](https://open.spotify.com/track/0QDyFT23YOXVPLdiAPYVin) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Africadelic](https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg) | 2:29 | 2023-11-29 |  |
+| [The Panther](https://open.spotify.com/track/0TO438ElpElpdtY9s4aNjv) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 2:29 | 2022-06-09 | 2023-12-22 |
 | [The Rockin' Alcoholic](https://open.spotify.com/track/5WsbG7J20LLkjeorXCjrl0) | [Crazy Cavan](https://open.spotify.com/artist/1GpRTQRruGUoxhRYV0RtEv), [The Rhythm Rockers](https://open.spotify.com/artist/2vUb000rRvIR0OySDVJSat) | [Who's Gonna Rock Ya?](https://open.spotify.com/album/3y1a1gYk4RMdg89gslVInZ) | 2:40 | 2022-06-09 |  |
 | [The Seduction](https://open.spotify.com/track/246zY5ACHigYXA7xA9LOnE) | [Aiff](https://open.spotify.com/artist/74ZWPhV6JyjHh4MAxF8Rc3) | [Afro Soul System](https://open.spotify.com/album/7A8vI5HQHkeLPqYczuS0d9) | 4:04 | 2022-06-09 | 2022-07-29 |
 | [The Seduction](https://open.spotify.com/track/5z0LxrEQrzdtlU7wHFscRR) | [Aiff](https://open.spotify.com/artist/74ZWPhV6JyjHh4MAxF8Rc3) | [Afro Soul System](https://open.spotify.com/album/0S5EBAZ54MqTbVwpT2Pj6K) | 4:04 | 2022-07-27 |  |

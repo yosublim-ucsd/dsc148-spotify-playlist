@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7FllUzTV8T.md) - [plain]
 
 > Instrumental relaxing jazz with the cozy sound of soft vinyl crackle.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,843 likes - 26 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,897 likes - 30 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,15 +24,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7FllUzTV8T.md) - [plain]
 | 14 | [I fall in love too easily](https://open.spotify.com/track/0CpQmQGlTmL9uR3oCc4Hhu) | [Daniel Patarava](https://open.spotify.com/artist/2fEhjNNeXKROZI0UgPfiyi) | [I fall in love too easily](https://open.spotify.com/album/5xBUXURTU9aTX4VWBoOghb) | 3:26 |
 | 15 | [Come Sunday](https://open.spotify.com/track/7yHcLHOC6PeYvNf3DUgtCu) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [Come Sunday](https://open.spotify.com/album/229mvjpr3IdMq3cZBrXpWM) | 2:54 |
 | 16 | [In the Shadows of the City](https://open.spotify.com/track/767rFkDccEdmm51rwJSTWB) | [The Belleville Band](https://open.spotify.com/artist/06ZTM5bZGUrNwBobE5eVBW) | [In the Shadows of the City](https://open.spotify.com/album/4kppzpEv6Hp70ZUanL11v0) | 2:54 |
-| 17 | [Night and Day](https://open.spotify.com/track/4OOLNG5RDtYUZk3VYTS7rz) | [Clark Younger](https://open.spotify.com/artist/2uxmpv4oWJsk2oITNtAlJe) | [Night and Day](https://open.spotify.com/album/0Iv5W5Lm7ibsmueeklTsMQ) | 2:21 |
-| 18 | [Closing Time](https://open.spotify.com/track/5mjhH6JqYCCkRs9LuD1Idm) | [Tannenbaum Trio](https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn) | [Closing Time](https://open.spotify.com/album/67i3fnUudXoCRC9GWk27jd) | 3:05 |
-| 19 | [My Foolish Heart](https://open.spotify.com/track/6xEh5m8089BLEY5VMuWfaO) | [Meadowpoints](https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J) | [My Foolish Heart](https://open.spotify.com/album/5CnczrrRf699fELiw9BQ83) | 2:34 |
-| 20 | [Sleep Next To Me Darling](https://open.spotify.com/track/0HsgwgxchAtdnxs1jwHHzn) | [The Midnight Quartet](https://open.spotify.com/artist/3RgMoZ7V6T8taBTLb58Wld) | [Sleep Next To Me Darling](https://open.spotify.com/album/4ic3hlnkS8PAlXZqBk2JsI) | 2:32 |
-| 21 | [Don't Know Why](https://open.spotify.com/track/6uPE44mlFld6sOFlgbgj72) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [Don't Know Why](https://open.spotify.com/album/3nwZXqBNuBerpH4F5tMswC) | 3:10 |
-| 22 | [Still](https://open.spotify.com/track/1coxapf3dtylD5wl43ww8A) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Still](https://open.spotify.com/album/3ZEE7nBAnMYh8ipXXITrxu) | 2:55 |
-| 23 | [When Lights are low](https://open.spotify.com/track/2vPmWS4ZMc3mBpmAIHoxd1) | [Kyra Mora](https://open.spotify.com/artist/7lC8W5ZQ4NK7aIB0uD0F7C) | [When Lights are low](https://open.spotify.com/album/2azrWFhcxnpRfBVQPUDHJ8) | 2:33 |
-| 24 | [The Masquerade is Over](https://open.spotify.com/track/4NLUFoyaX8hORCATnJ3hOL) | [Ray Wilshire](https://open.spotify.com/artist/7LuCANGo1IuYQvcOWPywMZ) | [The Masquerade is Over](https://open.spotify.com/album/203twYDlbyx4VnwOPxm0cJ) | 2:40 |
-| 25 | [In the Blue Of The Evening](https://open.spotify.com/track/1rLuWpZwNX4wXP4y7eRmc3) | [Kerrie Walton](https://open.spotify.com/artist/6LHJu0JVH5MbOgsogB7EhR) | [In the Blue Of The Evening](https://open.spotify.com/album/3OgbQEZ1stEBi6tw6sTvv4) | 2:36 |
-| 26 | [Journeying](https://open.spotify.com/track/7EiFxYWutlCRtrQHHwKVeS) | [Rossdale Juntion](https://open.spotify.com/artist/6ERbL5L4LpFFmA2dS9zJ9D) | [Journeying](https://open.spotify.com/album/0o2DSj4LinX5MLJGxzKcnS) | 2:33 |
+| 17 | [April Showers](https://open.spotify.com/track/13FtO3C0RwCn3sjgDb1nYQ) | [Kupiers & Winter](https://open.spotify.com/artist/7GNJojOvDmfEwn4Dq5fm8g) | [April Showers](https://open.spotify.com/album/4LqeVKaBMwBSDdoJWqKOxe) | 2:33 |
+| 18 | [Night and Day](https://open.spotify.com/track/4OOLNG5RDtYUZk3VYTS7rz) | [Clark Younger](https://open.spotify.com/artist/2uxmpv4oWJsk2oITNtAlJe) | [Night and Day](https://open.spotify.com/album/0Iv5W5Lm7ibsmueeklTsMQ) | 2:21 |
+| 19 | [Closing Time](https://open.spotify.com/track/5mjhH6JqYCCkRs9LuD1Idm) | [Tannenbaum Trio](https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn) | [Closing Time](https://open.spotify.com/album/67i3fnUudXoCRC9GWk27jd) | 3:05 |
+| 20 | [Astoria](https://open.spotify.com/track/0l5PJV6B2Z03pO8TkEMzxH) | [Clifford Randall Sextet](https://open.spotify.com/artist/5b4vsyo5ULucBMPOU1Khlm) | [Astoria](https://open.spotify.com/album/7t11CijMPFRmJv4EACNbd1) | 2:42 |
+| 21 | [My Foolish Heart](https://open.spotify.com/track/6xEh5m8089BLEY5VMuWfaO) | [Meadowpoints](https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J) | [My Foolish Heart](https://open.spotify.com/album/5CnczrrRf699fELiw9BQ83) | 2:34 |
+| 22 | [Sleep Next To Me Darling](https://open.spotify.com/track/0HsgwgxchAtdnxs1jwHHzn) | [The Midnight Quartet](https://open.spotify.com/artist/3RgMoZ7V6T8taBTLb58Wld) | [Sleep Next To Me Darling](https://open.spotify.com/album/4ic3hlnkS8PAlXZqBk2JsI) | 2:32 |
+| 23 | [No Trouble](https://open.spotify.com/track/1gYOx5P59hN0C1ToMkwjbu) | [South On South Jazz Trio](https://open.spotify.com/artist/2S3UDGktnF1yMyPODluKqM) | [No Trouble](https://open.spotify.com/album/4C46278YVf8ZX3oswTaASq) | 2:07 |
+| 24 | [Don't Know Why](https://open.spotify.com/track/6uPE44mlFld6sOFlgbgj72) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [Don't Know Why](https://open.spotify.com/album/3nwZXqBNuBerpH4F5tMswC) | 3:10 |
+| 25 | [Still](https://open.spotify.com/track/1coxapf3dtylD5wl43ww8A) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Still](https://open.spotify.com/album/3ZEE7nBAnMYh8ipXXITrxu) | 2:55 |
+| 26 | [When Lights are low](https://open.spotify.com/track/2vPmWS4ZMc3mBpmAIHoxd1) | [Kyra Mora](https://open.spotify.com/artist/7lC8W5ZQ4NK7aIB0uD0F7C) | [When Lights are low](https://open.spotify.com/album/2azrWFhcxnpRfBVQPUDHJ8) | 2:33 |
+| 27 | [The Masquerade is Over](https://open.spotify.com/track/4NLUFoyaX8hORCATnJ3hOL) | [Ray Wilshire](https://open.spotify.com/artist/7LuCANGo1IuYQvcOWPywMZ) | [The Masquerade is Over](https://open.spotify.com/album/203twYDlbyx4VnwOPxm0cJ) | 2:40 |
+| 28 | [I Love You for Sentimental Reasons](https://open.spotify.com/track/70DqVqMJOJNoxiz9ciEl0y) | [Tonic and their Time](https://open.spotify.com/artist/4f9dZJd9mswxGvKKoTJSZT) | [I Love You for Sentimental Reasons](https://open.spotify.com/album/1W6x5SIBcGGzXfsDS1bDPD) | 2:49 |
+| 29 | [In the Blue Of The Evening](https://open.spotify.com/track/1rLuWpZwNX4wXP4y7eRmc3) | [Kerrie Walton](https://open.spotify.com/artist/6LHJu0JVH5MbOgsogB7EhR) | [In the Blue Of The Evening](https://open.spotify.com/album/3OgbQEZ1stEBi6tw6sTvv4) | 2:36 |
+| 30 | [Journeying](https://open.spotify.com/track/7EiFxYWutlCRtrQHHwKVeS) | [Rossdale Juntion](https://open.spotify.com/artist/6ERbL5L4LpFFmA2dS9zJ9D) | [Journeying](https://open.spotify.com/album/0o2DSj4LinX5MLJGxzKcnS) | 2:33 |
 
-Snapshot ID: `MCw1OWExYmRkYTY3OGEzN2M3YzdmOTBiNWVjNGRmOWRiNDI3NDM4MTYz`
+Snapshot ID: `MCwwNWU3NTllMDAzYTNkYjBhODEwNmIyYTMxNWJmNjAyZTdlYzhiMmYw`

@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,371 songs - 10 day 1 hr 23 min
+6,373 songs - 10 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,7 +388,7 @@
 | [Autumn Antique](https://open.spotify.com/track/2g8ofV4Nb7t0STDmtQHUqn) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Ardour \(10th Anniversary Edition\)](https://open.spotify.com/album/4BRfqRgxilQLOJWVPyPMLp) | 1:58 | 2020-11-25 | 2021-10-20 |
 | [Autumn Antique](https://open.spotify.com/track/36IONbK6S9l62QdJaCN2Zf) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Ardour](https://open.spotify.com/album/7Ju0MUsGwfV6SxkKIsmyBY) | 1:58 | 2021-10-26 | 2022-05-27 |
 | [Autumn Briefs](https://open.spotify.com/track/1kcXids1llWtkF7wTQ8HfL) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Autumn Briefs](https://open.spotify.com/album/7HCchLIXZ4SiCw9xriIAdW) | 2:25 | 2023-12-01 |  |
-| [Autumn By Day](https://open.spotify.com/track/3LeUuH1mBJ5gDYy341G5F1) | [Raz\-One](https://open.spotify.com/artist/6wDQgJE1sKWmrZL2N0vYyP), [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Autumn By Day](https://open.spotify.com/album/77zMlgEvTla8owtUALXSLs) | 2:15 | 2023-12-15 |  |
+| [Autumn By Day](https://open.spotify.com/track/3LeUuH1mBJ5gDYy341G5F1) | [Raz\-One](https://open.spotify.com/artist/6wDQgJE1sKWmrZL2N0vYyP), [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Autumn By Day](https://open.spotify.com/album/77zMlgEvTla8owtUALXSLs) | 2:15 | 2023-12-15 | 2023-12-22 |
 | [Autumn Chills](https://open.spotify.com/track/4TBN4UOWS9rncMWFZZ6ZPx) | [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT) | [Autumn Chills](https://open.spotify.com/album/4d9E6HwVqUpTbTxBaUIMil) | 2:13 | 2023-10-20 |  |
 | [Autumn in Bedford](https://open.spotify.com/track/1CBF67kcwdIKl4VriSSWQn) | [Art Vandeley](https://open.spotify.com/artist/6aHekjqSdW1DwredIrNAWE) | [Autumn in Bedford](https://open.spotify.com/album/4f9WPunAhXYt0OcK4wH2QA) | 2:09 | 2022-10-21 |  |
 | [Autumn Leaves](https://open.spotify.com/track/0TL7mfVp5qpMzKIBRZabFj) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Orange Stick](https://open.spotify.com/artist/2Ie3P7oklbSFxfrGtrkT9W), [Formal Chicken](https://open.spotify.com/artist/5k3Cw8TfLQt40L5dbqxJKD) | [Autumn Leaves](https://open.spotify.com/album/55UAgxvcSjiwwYiUtbin8x) | 2:34 | 2020-09-25 | 2021-01-11 |
@@ -520,6 +520,7 @@
 | [Beauty Hospital](https://open.spotify.com/track/5ve1C4kmHQE3Dr93bP4qYp) | [Guavas](https://open.spotify.com/artist/2gg2qNLYW3EN6T1PYZ1LvI) | [Beauty Hospital](https://open.spotify.com/album/7ESnTwTcJAeRK1iMEf826F) | 1:45 | 2021-12-03 | 2022-06-17 |
 | [bebiendo mimosas en una hamaca](https://open.spotify.com/track/3ZmHZzwDi0hcPlC6xkBeKa) | [homieunculus](https://open.spotify.com/artist/2NCbESF6hLETOpmvwwiaqz), [L33M](https://open.spotify.com/artist/1lABdQKhhzsm6tMHNqBKo9) | [bebiendo mimosas en una hamaca](https://open.spotify.com/album/0CU9sF8SUKODFp8AdRHo3S) | 2:51 | 2022-11-18 | 2022-11-25 |
 | [bebiendo mimosas en una hamaca](https://open.spotify.com/track/3s5A9isqd5xHMjzdNnWC4E) | [homieunculus](https://open.spotify.com/artist/2NCbESF6hLETOpmvwwiaqz), [L33M](https://open.spotify.com/artist/1lABdQKhhzsm6tMHNqBKo9) | [bebiendo mimosas en una hamaca](https://open.spotify.com/album/3XLe6sP4yHAoUMpQHiEgCu) | 2:51 | 2022-08-19 | 2022-11-20 |
+| [bedroom window](https://open.spotify.com/track/6RQAcAioLEYn4skbZtaDz3) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [bedroom window](https://open.spotify.com/album/4bKmTfRyL1OFmGJaMfVNT6) | 2:22 | 2023-12-22 |  |
 | [Beef](https://open.spotify.com/track/37JzWp3RbqltFeSQOwxfco) | [Pawcut](https://open.spotify.com/artist/0el9N0gW4ROadV7V1IPaI5) | [Beef](https://open.spotify.com/album/2uwrwuLc0SlOeE8oUifdmm) | 2:08 | 2022-10-07 | 2023-02-11 |
 | [Bees](https://open.spotify.com/track/0Ah2Q32BMsk2wQM9njGeUN) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [Bees](https://open.spotify.com/album/5xVjcaS9MY61xDKXVeTiUk) | 2:06 | 2022-05-27 | 2022-09-16 |
 | [Bees And Apple Trees](https://open.spotify.com/track/4FeSdmoasdapuCFdMclAn6) | [Heinrich Schlupf](https://open.spotify.com/artist/2d4Qz6TAMDn8JCO1udJn8y), [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo) | [Bees And Apple Trees](https://open.spotify.com/album/3XiCkyRxejz5rmj3G33XIQ) | 1:49 | 2022-07-08 | 2022-10-21 |
@@ -1055,7 +1056,7 @@
 | [cliffside](https://open.spotify.com/track/4XL5qF8dwrMczCGJLswco9) | [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q), [morningtime](https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS) | [cliffside](https://open.spotify.com/album/3lNOcijBUH1HVwrZ99O790) | 2:25 | 2023-11-17 |  |
 | [Climbing](https://open.spotify.com/track/2ec7B12PyWx8BOtYsZWv99) | [Christopher Jackson](https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj) | [Climbing](https://open.spotify.com/album/1riNXWdkcrDoySZIY5j34L) | 3:48 | 2022-09-23 | 2023-01-13 |
 | [Climbing](https://open.spotify.com/track/5SnbTsYX72YPhyU06IRuU4) | [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [Climbing](https://open.spotify.com/album/2yqv18Dh91stSQDmbM8n5K) | 2:12 | 2023-09-15 |  |
-| [Clockers](https://open.spotify.com/track/0Sd3s9p1TQUYuitVOpXlh4) | [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT) | [Colorwave Seasons](https://open.spotify.com/album/1pGm9P5nsLlDBe4E6RvDtD) | 1:57 | 2023-12-15 |  |
+| [Clockers](https://open.spotify.com/track/0Sd3s9p1TQUYuitVOpXlh4) | [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT) | [Colorwave Seasons](https://open.spotify.com/album/1pGm9P5nsLlDBe4E6RvDtD) | 1:57 | 2023-12-15 | 2023-12-22 |
 | [clocks](https://open.spotify.com/track/6OIvZwDLct03wI7dA5Ljpw) | [Koaraktor](https://open.spotify.com/artist/6wn1ulTOgegggm9vCwK9Ql) | [clocks](https://open.spotify.com/album/2KaWbgp5F8zYShSZ9s9IvA) | 1:35 | 2021-11-05 | 2022-05-27 |
 | [Clocks Forward](https://open.spotify.com/track/3DXOgShDK2FK1nUM6NeGnL) | [Psalm Trees](https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S), [Guillaume Muschalle](https://open.spotify.com/artist/43sWO6H2WXUn7HbNPnyG5X) | [Clocks Forward](https://open.spotify.com/album/62YSGSZJsYILAa9H0h9Y7i) | 2:21 | 2019-05-26\* | 2019-06-15 |
 | [Closed Eyes](https://open.spotify.com/track/0eE5eceODQO7W3vwQ3Hrs2) | [Pearldiver](https://open.spotify.com/artist/4e9BBDC8gDwj2WVADiqyVQ) | [Closed Eyes](https://open.spotify.com/album/3ilbOBTZas2MNEdNausZol) | 2:23 | 2022-03-11 | 2022-08-12 |
@@ -2480,6 +2481,7 @@
 | [Hoopers Paradise](https://open.spotify.com/track/1HdOaoRT2UxS91sUtVbA8R) | [Mamoosh](https://open.spotify.com/artist/4Crh0nifXFdUqmIsxFUfen) | [Hoopers Paradise](https://open.spotify.com/album/58rVNCvdAr3Yq2E4EZVF9b) | 2:28 | 2022-11-11 | 2023-02-15 |
 | [Hope](https://open.spotify.com/track/1v0pJvqbQy4fPByvx9htQc) | [Arcanyz](https://open.spotify.com/artist/6P9n0dWWZ5e635iygIyzwB), [yani](https://open.spotify.com/artist/6TdK92VfuJbFh7aNmGv6li) | [Home](https://open.spotify.com/album/3ix64sR4T6m6r3lYZiNRUp) | 2:37 | 2022-12-09 |  |
 | [Hope](https://open.spotify.com/track/2Sn6K7nX20ix6BHQlGLNxW) | [Flash Cut](https://open.spotify.com/artist/18og5BfnT40SMfHFXOpTMr) | [Hope](https://open.spotify.com/album/2TtzJ2RGlzY4nC4ps6Kqjx) | 1:52 | 2023-11-24 |  |
+| [Hope](https://open.spotify.com/track/798xA6Nh36kCeElGeuTHtq) | [Josa](https://open.spotify.com/artist/2BUX6bhQxzfkO4CH8dmwQp) | [Hope](https://open.spotify.com/album/2N5gf9IqhA8Wq7LpgsbShl) | 2:21 | 2023-12-22 |  |
 | [Hope](https://open.spotify.com/track/0jXpKI2b7ZL8wCwY3IP5qA) | [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x), [DECAP](https://open.spotify.com/artist/0YNQuoFHti0UjsFm94aaXL) | [Hope](https://open.spotify.com/album/79ev9Q1ACQmC7c1nlcR6TI) | 2:17 | 2021-07-31 | 2022-03-12 |
 | [Hope](https://open.spotify.com/track/0ol4syVMldT5iqxUoRn6mx) | [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy), [SEA](https://open.spotify.com/artist/5yJ0VbxI0ZCekj1DrRI53O) | [Hope](https://open.spotify.com/album/2Bbr3OrCyE89VNlXJXjdQF) | 2:36 | 2020-08-07 | 2021-01-11 |
 | [Hope](https://open.spotify.com/track/00PeFMEYbTy8WpcVguwdoF) | [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K) | [Hope](https://open.spotify.com/album/0XSM9Bn1IhapI40BRbGO0J) | 1:59 | 2021-01-21 | 2021-11-21 |

@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 ### [100 DK](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> dk rap der holder det 100 / Merro8 🚨
+> dk rap der holder det 100 / Omar / Baloosh 🚨
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,371 likes - 63 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,383 likes - 63 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [New York City](https://open.spotify.com/track/3HLVXuHXqFi9x7QCoFWbzF) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [New York City](https://open.spotify.com/album/7eDqc9IAUhWSitkF7M6cc9) | 2:22 |
+| 1 | [Danser Med Dæmoner](https://open.spotify.com/track/5BKvRShfSfa1phRGEKkSvb) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC), [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Danser Med Dæmoner](https://open.spotify.com/album/0ylIK3wZr5wKMixNJxrqNy) | 2:41 |
 | 2 | [555 \(feat\. KESI\)](https://open.spotify.com/track/3VWuGvgAaYMB6bSNevfozD) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Kiko Club](https://open.spotify.com/album/3y4SAFKOvJ9CDDwNaMOgLL) | 2:37 |
-| 3 | [For Life](https://open.spotify.com/track/0WsFZJppZyqnjW63zGLQzH) | [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Championship](https://open.spotify.com/album/7imt3ZtPP755cCvwrSCsjC) | 2:36 |
-| 4 | [Danser Med Dæmoner](https://open.spotify.com/track/5BKvRShfSfa1phRGEKkSvb) | [Baloosh](https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC), [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Danser Med Dæmoner](https://open.spotify.com/album/0ylIK3wZr5wKMixNJxrqNy) | 2:41 |
-| 5 | [GIVE IT 2 ME](https://open.spotify.com/track/7kOe99207cdyOlLHKy65SA) | [GMG](https://open.spotify.com/artist/2SCRrSkAkIVnZYJGPhsoN7) | [GIVE IT 2 ME](https://open.spotify.com/album/56UICC9UdmC7iMZsvKExBu) | 2:04 |
-| 6 | [FORSVINDER \(feat\. Gobs\)](https://open.spotify.com/track/2aNMkT86YjYPlKujUiHYbS) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [FORSVINDER \(feat\. Gobs\)](https://open.spotify.com/album/0Xhp7Kgke0OveQaVRMkJwW) | 2:40 |
-| 7 | [Skarpt Lys](https://open.spotify.com/track/4dC3pTi2Bbei0QGMg722Rl) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Kiko Club](https://open.spotify.com/album/3y4SAFKOvJ9CDDwNaMOgLL) | 3:03 |
+| 3 | [FORSVINDER \(feat\. Gobs\)](https://open.spotify.com/track/2aNMkT86YjYPlKujUiHYbS) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [FORSVINDER \(feat\. Gobs\)](https://open.spotify.com/album/0Xhp7Kgke0OveQaVRMkJwW) | 2:40 |
+| 4 | [For Life](https://open.spotify.com/track/0WsFZJppZyqnjW63zGLQzH) | [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Championship](https://open.spotify.com/album/7imt3ZtPP755cCvwrSCsjC) | 2:36 |
+| 5 | [New York City](https://open.spotify.com/track/3HLVXuHXqFi9x7QCoFWbzF) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [New York City](https://open.spotify.com/album/7eDqc9IAUhWSitkF7M6cc9) | 2:22 |
+| 6 | [Skarpt Lys](https://open.spotify.com/track/4dC3pTi2Bbei0QGMg722Rl) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Kiko Club](https://open.spotify.com/album/3y4SAFKOvJ9CDDwNaMOgLL) | 3:03 |
+| 7 | [GIVE IT 2 ME](https://open.spotify.com/track/7kOe99207cdyOlLHKy65SA) | [GMG](https://open.spotify.com/artist/2SCRrSkAkIVnZYJGPhsoN7) | [GIVE IT 2 ME](https://open.spotify.com/album/56UICC9UdmC7iMZsvKExBu) | 2:04 |
 | 8 | [Safari](https://open.spotify.com/track/79gUiYKiISCPKBAy5YDdtD) | [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [Safari](https://open.spotify.com/album/6TYCo7fdwrP8tnFP4PdG41) | 2:47 |
 | 9 | [Roll With It](https://open.spotify.com/track/3LrSFkh0r57DlAzj9MCerw) | [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS) | [Championship](https://open.spotify.com/album/7imt3ZtPP755cCvwrSCsjC) | 2:27 |
 | 10 | [Je Ka Jo](https://open.spotify.com/track/0GFJI3tJuE9S3su4H8Co2G) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [Je Ka Jo](https://open.spotify.com/album/29OCZ1A2FbLNBvoDrlEUf0) | 2:58 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 62 | [Draco](https://open.spotify.com/track/5G02IArmAsqcU3yTdLxZRN) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [Draco](https://open.spotify.com/album/10FjouEsDArE1pce1q6j7v) | 2:13 |
 | 63 | [Internazionale \(feat\. Magzim\)](https://open.spotify.com/track/4ymwixcQXSHyAY5Af4bvr8) | [Emil Stabil](https://open.spotify.com/artist/2toxhc2iSbFHWgy3VMnqR7), [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [Internazionale \(feat\. Magzim\)](https://open.spotify.com/album/3YON54IWdqFWos7oNwoiiG) | 2:34 |
 
-Snapshot ID: `MCw1MzMzNDAyN2RjNGNmYzhiOGVkZjA4ZTZjYjc0MGNmYTZhYjVmZTM2`
+Snapshot ID: `MCw2ZGU1N2ZlNmExNzQzZGY1ZTE1N2YxMmE3ZmQ4NTY0ZGE4OGYwY2Zh`

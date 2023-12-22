@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-894 songs - 1 day 23 hr 12 min
+895 songs - 1 day 23 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@
 | [Du & jag](https://open.spotify.com/track/238cGn6CtR3w3Ugage1c8o) | [Poolkant](https://open.spotify.com/artist/6CToC6Dzd86xtNaRUBp1cE) | [Du & jag](https://open.spotify.com/album/0tcBkHCenEUvUv4aQW5GzG) | 2:46 | 2022-06-16 | 2023-02-14 |
 | [Du får allt](https://open.spotify.com/track/3DXyXXXfq8fOr1hLVZ6jkk) | [Tiger](https://open.spotify.com/artist/13daebbVeDg0MQzofle4hQ) | [Du får allt](https://open.spotify.com/album/3rhGsvhnwnTUA4xOEiyETE) | 3:16 | 2022-02-20 | 2022-05-08 |
 | [Du förtjänar det](https://open.spotify.com/track/3h9gue3M30OFKEEBKJXRjE) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Du förtjänar det](https://open.spotify.com/album/3DFyVQhs7YYtmL1TmDgyRn) | 3:19 | 2022-05-12 | 2023-10-06 |
-| [Du har fel](https://open.spotify.com/track/396xDoQ53JLaRv9MvIr7Ge) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Du har fel](https://open.spotify.com/album/5rcfdNQJA0jQTlN5xd2IgH) | 2:44 | 2023-08-17 |  |
+| [Du har fel](https://open.spotify.com/track/396xDoQ53JLaRv9MvIr7Ge) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Du har fel](https://open.spotify.com/album/5rcfdNQJA0jQTlN5xd2IgH) | 2:44 | 2023-08-17 | 2023-12-22 |
 | [Du kommer dra](https://open.spotify.com/track/2B1lM51YSusA3I5OUpD8yN) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Tills alla glömt oss](https://open.spotify.com/album/4d0B1xECMoQLXQwt10W2pa) | 2:59 | 2021-12-16 | 2022-01-14 |
 | [Du sa \(det kanske var fult\)](https://open.spotify.com/track/2FOYQ8TV3xcH8FBZlnSbww) | [Vibefabriken](https://open.spotify.com/artist/4OoB00ctLYR2VL8FdseAVW) | [Du sa \(det kanske var fult\)](https://open.spotify.com/album/7cLCVo7ZkZ0TQc5XGaYmux) | 2:42 | 2022-02-26 | 2022-04-01 |
 | [Du är allt jag vill ha](https://open.spotify.com/track/6jMDUl6rExqyjRzYavMFuy) | [Oscar Enestad](https://open.spotify.com/artist/1rfH6kxUn8tYlzejKr3894) | [Du är allt jag vill ha](https://open.spotify.com/album/6SwhrL9xj9ujMVNrKmFU6m) | 3:00 | 2022-04-28 | 2022-07-29 |
@@ -443,6 +443,7 @@
 | [Kyss!](https://open.spotify.com/track/3ldYKctJWFisYe41pa6VWo) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Kyss!](https://open.spotify.com/album/3cFLqMC1sJAIdQibUcmfhe) | 3:24 | 2021-12-16 | 2022-03-11 |
 | [Känner ingenting](https://open.spotify.com/track/2373AatpPbJF5klnOAfI2X) | [Marika Larsson](https://open.spotify.com/artist/5WIrNia2mhdmq27YqJj1hB) | [Känner ingenting](https://open.spotify.com/album/7yxwheJBWmnfyzyqI0bLI4) | 2:57 | 2021-12-16 | 2022-03-03 |
 | [Känslodiplomaten](https://open.spotify.com/track/1000gg1gsEwmCMXrVbJnFt) | [Galleriet](https://open.spotify.com/artist/32ThSpM7Ukigtw16EIYYT7) | [Känslodiplomaten](https://open.spotify.com/album/6nlRpNWQLHEt6FkiktioPr) | 3:32 | 2023-10-19 | 2023-11-27 |
+| [Kärleksvärk](https://open.spotify.com/track/6jUynpgWKtsv1HC1S37wOI) | [TRENDEN](https://open.spotify.com/artist/6YuKFo9oa6f4KGcrDm982S) | [Kärleksvärk](https://open.spotify.com/album/3qcmiU3Erv7DhvEh9zHKh1) | 2:10 | 2023-12-21 |  |
 | [La La La](https://open.spotify.com/track/4LtPFH4paCpButjQP4mYaR) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [La La La](https://open.spotify.com/album/7MoHttJ87Iih7fEDFlaMeC) | 3:59 | 2022-03-10 | 2022-05-05 |
 | [La La La](https://open.spotify.com/track/6MV4043JueYwL8WZgWKq6t) | [Nyman](https://open.spotify.com/artist/5uUtgag4eH1FrlbGUz3XgT), [RAENE](https://open.spotify.com/artist/6fTa2ugChlaoRIF6jvrZdV) | [La La La](https://open.spotify.com/album/2Y9bjGUDJj5zf6DdW1n4cL) | 3:22 | 2022-03-10 | 2022-04-20 |
 | [Landet i fjärran](https://open.spotify.com/track/6xeeAu3iNRp8NGw1s9cfCw) | [Cleo](https://open.spotify.com/artist/1SwDFc5jX708XR3XtzLrRs), [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2), [Academics](https://open.spotify.com/artist/2qDTb1Hj9x4Ic97w87xfkg) | [Missaoui](https://open.spotify.com/album/1iX6D47cXE8PgH5gylJRIn) | 4:43 | 2022-07-28 | 2023-09-25 |

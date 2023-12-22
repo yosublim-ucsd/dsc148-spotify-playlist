@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,101 songs - 1 day 17 hr 37 min
+1,102 songs - 1 day 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Closing Time](https://open.spotify.com/track/62eqqtL3fsqposdcUA2iyc) | [Charlee Nguyen](https://open.spotify.com/artist/5ffORofXMmNRRtwIeQsyW3), [Manocchs](https://open.spotify.com/artist/7nuSdpLse2KEipMvQ1hWEc) | [Closing Time](https://open.spotify.com/album/62ODSJUV0C332z53VKemHB) | 2:13 | 2022-07-22 | 2023-10-06 |
 | [Cloudless Horizon](https://open.spotify.com/track/4lG6c9JltUjFPBXzR6PUe9) | [d'Andy](https://open.spotify.com/artist/6OBQW4uISzDYrUR5dEYhkb) | [Cloudless Horizon](https://open.spotify.com/album/2PWpUIo77qYk3IqDyIfbus) | 1:42 | 2023-02-17 | 2023-08-04 |
 | [Clouds](https://open.spotify.com/track/6lvcW2TWmHkV9DUSR55uXs) | [Agx12](https://open.spotify.com/artist/49UL7yljFCnRKP4ZDVY6q5), [Adbeel](https://open.spotify.com/artist/7i5bDhrZDrpdLX9XHGjkbj) | [Clouds](https://open.spotify.com/album/2FNg9YwxmrHVMbr3aL4HBJ) | 2:08 | 2022-09-02 | 2023-10-06 |
+| [Cloudy Haze](https://open.spotify.com/track/6tcHiMVFJ2mSL8S0xFZafh) | [Rein Dayz](https://open.spotify.com/artist/7wiw28FhChBCUr3VYQ68HI) | [Cloudy Haze](https://open.spotify.com/album/5fzU8llBFqIRTGbVweNrQl) | 2:16 | 2023-12-22 |  |
 | [Coffee Break](https://open.spotify.com/track/2iQ7zLgkFg5oz9GszNqKad) | [flat disc](https://open.spotify.com/artist/65GQa6LQz8LMbqjGb8qY5g) | [Coffee Break](https://open.spotify.com/album/1jd8sYTu2nql0HNKUoRwWF) | 2:19 | 2022-10-15 |  |
 | [Cold Breeze](https://open.spotify.com/track/1vhYXAKylvmoBAeWVMnXVg) | [Chill Denis](https://open.spotify.com/artist/4gOKqVqVRQCGUrc70alpbr) | [Cold Breeze](https://open.spotify.com/album/6hTlSMabr9DBUhUfDdQoeO) | 2:25 | 2022-10-28 | 2023-09-26 |
 | [Cold Pillows](https://open.spotify.com/track/6a3UWWhZheDHZMi8hBLKgn) | [Tailwinds](https://open.spotify.com/artist/6W50Jtaz33gA5opvEA0q0g) | [Softer](https://open.spotify.com/album/1WvWdv5jyAbPHwEgT7nfbf) | 3:20 | 2021-11-10 | 2023-03-02 |
@@ -1029,7 +1030,7 @@
 | [u make me](https://open.spotify.com/track/6OyPiy5eWajl56cC6Em7no) | [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc), [milligon](https://open.spotify.com/artist/62h3mAlyYduSmprbNEdKKD) | [u make me](https://open.spotify.com/album/3iXK2nkrVGdDeAd50g67UY) | 2:02 | 2021-11-10 | 2023-08-04 |
 | [Ubongo Extreme](https://open.spotify.com/track/01mOFVIoSPGQQVodkz7qB4) | [Bokoya](https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Ubongo Extreme](https://open.spotify.com/album/6UdCLCk1mdYkYyctZz4a6t) | 2:50 | 2023-09-22 | 2023-11-11 |
 | [Umbrella Shopping](https://open.spotify.com/track/7MgqCfXy33YBpunYl1uhMQ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Umbrella Shopping](https://open.spotify.com/album/638MCjxBy9yOuhN34rB4x6) | 2:21 | 2021-11-10 | 2022-07-22 |
-| [under the bridge](https://open.spotify.com/track/3h7XIKkKdKANv6A7Fnp2Dt) | [lucygray](https://open.spotify.com/artist/1LIIJsUl0fGlhLHwAWjrJI), [Cxldaf](https://open.spotify.com/artist/2SAKglF2F0Wb3G2xd9ddfS) | [under the bridge](https://open.spotify.com/album/17pt1juyta07K6q3HTuB4T) | 1:48 | 2022-12-09 |  |
+| [under the bridge](https://open.spotify.com/track/3h7XIKkKdKANv6A7Fnp2Dt) | [lucygray](https://open.spotify.com/artist/1LIIJsUl0fGlhLHwAWjrJI), [Cxldaf](https://open.spotify.com/artist/2SAKglF2F0Wb3G2xd9ddfS) | [under the bridge](https://open.spotify.com/album/17pt1juyta07K6q3HTuB4T) | 1:48 | 2022-12-09 | 2023-12-22 |
 | [Under the Sun](https://open.spotify.com/track/3KXCoTPmfACMdybcLX1fMg) | [Smith Beats](https://open.spotify.com/artist/5HHXSrUf66808GVDTVmH1u), [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5) | [Beach Nights](https://open.spotify.com/album/5Z9PxUtXneYQv30ZqtofI3) | 1:57 | 2022-11-11 | 2023-05-20 |
 | [Underwater](https://open.spotify.com/track/78lEAnMeOms1c1FXioIeeu) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [Epifania](https://open.spotify.com/artist/47OYz3d3DvnXpfaJ7i0z6b), [Funcc.](https://open.spotify.com/artist/3vAvHFXAMYvfj5AO2CoYyX) | [Underwater](https://open.spotify.com/album/12UhzmLUAd5IF165Hl3jSv) | 2:22 | 2021-11-10 | 2022-07-29 |
 | [Underwater Love](https://open.spotify.com/track/7arGIO8om7TdI0ymebjmk9) | [Mood Officer](https://open.spotify.com/artist/6juoGFVxluu8uqkpmugdF5), [Casual Chill](https://open.spotify.com/artist/2NDHujf9zYxhdC7RxXt4Jq) | [Underwater Love](https://open.spotify.com/album/3LFHHn0ktXn1rcd4Xtegtc) | 2:00 | 2022-10-28 | 2023-10-06 |

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-886 songs - 2 day 15 hr 32 min
+887 songs - 2 day 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -688,6 +688,7 @@
 | [Sleep Swimming](https://open.spotify.com/track/5M2UUj4MKLWehb2e6FHCU8) | [Gelka](https://open.spotify.com/artist/6xIXch03AK6grENT8RlmeF) | [Sleep Swimming](https://open.spotify.com/album/11tHvsaYYk7uHR7yDAsJoX) | 2:40 | 2020-10-28 | 2022-07-28 |
 | [sleep\_mode](https://open.spotify.com/track/5S2qQsIUJS3082VtpE1mrD) | [Allem Iversom](https://open.spotify.com/artist/6RaUtVLO8R5TsVdJIxSrq1) | [go\_computer](https://open.spotify.com/album/1VhHn3aZb1XO1EbBCMPkd7) | 2:51 | 2019-06-19\* | 2020-10-22 |
 | [Sleepless in Berlin](https://open.spotify.com/track/1noDNeVWioK5Q17deVoUpl) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Sleepless in Berlin](https://open.spotify.com/album/5L7zbbmO9aW5Vj5ZB5yrTs) | 3:18 | 2019-06-19\* | 2020-10-21 |
+| [slice \- Gold Panda Remix](https://open.spotify.com/track/2OrqhbF4qjcSki327nFA3l) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk), [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [slice \(Gold Panda Remix\)](https://open.spotify.com/album/37koGE4707P8UdATM25L62) | 4:11 | 2023-12-21 |  |
 | [Slow Buchla Sunshine](https://open.spotify.com/track/4cwLYDk0qjI7hiwVA5TVSn) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 3:52 | 2019-07-28 |  |
 | [Slumber Party](https://open.spotify.com/track/1ZmOLLdiD40zv5NWLRR44N) | [Sonny Side Up](https://open.spotify.com/artist/4gFsE3BJKgBw4VdueiIrEl) | [Slumber Party](https://open.spotify.com/album/3uesVMCOOzxd2gbjOTCPmz) | 4:00 | 2019-06-19\* | 2020-10-21 |
 | [Small Moments](https://open.spotify.com/track/1kZJtkm4oTcM4WhJbYudAX) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Flow State](https://open.spotify.com/album/0kWP6DpuAwyqICsF0HMOLb) | 3:31 | 2019-07-25 | 2020-10-22 |
@@ -792,7 +793,7 @@
 | [The Secret Garden](https://open.spotify.com/track/0t2NFrMc8tN7ILhForVafb) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X), [Mrs Jynx](https://open.spotify.com/artist/1fk2SqCITKPp4UvJfJhB2Q) | [The Secret Garden](https://open.spotify.com/album/5mihlvzwZlyOSyMN2dpqsl) | 4:41 | 2021-09-10 | 2022-06-19 |
 | [The Shimmering](https://open.spotify.com/track/5uKZdIleAR6OH7KNAnZNp4) | [Austeria](https://open.spotify.com/artist/6nImttseHjHeRnSY68rFBj) | [The Shimmering](https://open.spotify.com/album/406awJt91WNjFqcFDxQgwN) | 2:42 | 2019-07-25 | 2020-10-21 |
 | [The Visitor](https://open.spotify.com/track/6cpOIIgk3nZ30imud87dGK) | [Mad Zach](https://open.spotify.com/artist/1RxjZjOSbva0JR7T2LsRve) | [The Visitor](https://open.spotify.com/album/6DRui3Vpj3UrFYAdwwxpma) | 5:21 | 2019-06-19\* | 2022-04-17 |
-| [The Warehouse](https://open.spotify.com/track/6cofOcVh37qyVEuBBVd6Wi) | [The M Machine](https://open.spotify.com/artist/62rW7FjQy7clhBDHuumg22) | [Glare](https://open.spotify.com/album/7sQt3KcCaK8Xky9F1oatJn) | 2:26 | 2019-05-26\* |  |
+| [The Warehouse](https://open.spotify.com/track/6cofOcVh37qyVEuBBVd6Wi) | [The M Machine](https://open.spotify.com/artist/62rW7FjQy7clhBDHuumg22) | [Glare](https://open.spotify.com/album/7sQt3KcCaK8Xky9F1oatJn) | 2:26 | 2019-05-26\* | 2023-12-22 |
 | [The Wave \- Radio Edit](https://open.spotify.com/track/26psGKOS3wq1K4D1aqGLd3) | [Good Lee](https://open.spotify.com/artist/5yOhJjcBmxlZxXI4clQqPM) | [The Wave](https://open.spotify.com/album/0t8Eyq5An1RO8s2sveygQy) | 4:05 | 2021-05-09 | 2022-07-28 |
 | [There is Nowhere](https://open.spotify.com/track/5RfgXcobIzarx0SXf0GGrZ) | [Spaces Between](https://open.spotify.com/artist/1TSp1wQomRLNzQd8bju17n) | [Black Blood](https://open.spotify.com/album/3t6EKSoRByx4yvbavuYBsB) | 4:30 | 2019-06-21 | 2020-10-22 |
 | [Thin Floors And Tall Ceilings](https://open.spotify.com/track/1zyMwU1NtRDkuQWthUbGsL) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [A Moment Apart](https://open.spotify.com/album/3VzsvmhnUb9OZ59bq2aoNZ) | 2:58 | 2019-06-19\* | 2020-10-22 |

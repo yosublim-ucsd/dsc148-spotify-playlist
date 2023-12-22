@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzQwYWQzY2M1MGE5NDY3ZGZhZmYxNDJjZTcxYTZlMDUxMjc5MGNm",
+  "snapshot_id": "MCwwYWQ0M2IxODQ2MDk5YTRiYzlmNzMzYjg5MTZjYzRkNGMyZjhjYWFj",
   "tracks": [
     {
       "added_at": "2023-07-07 15:58:47",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-07-07 15:58:47",
       "album": {
-        "name": "LOG",
-        "url": "https://open.spotify.com/album/7xNGojQFo9UPNIVuuDF1EL"
-      },
-      "artists": [
-        {
-          "name": "Ku One Chan",
-          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
-        }
-      ],
-      "duration_ms": 203780,
-      "name": "Just Can't Say",
-      "url": "https://open.spotify.com/track/2E3PNYbkIKRiQrRVDb0pIg"
-    },
-    {
-      "added_at": "2023-07-07 15:58:47",
-      "album": {
         "name": "Racket Boys (Original Television Soundtrack) Pt. 5",
         "url": "https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 203386,
       "name": "Cloud",
       "url": "https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah"
+    },
+    {
+      "added_at": "2023-07-07 15:58:47",
+      "album": {
+        "name": "LOG",
+        "url": "https://open.spotify.com/album/7xNGojQFo9UPNIVuuDF1EL"
+      },
+      "artists": [
+        {
+          "name": "Ku One Chan",
+          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
+        }
+      ],
+      "duration_ms": 203780,
+      "name": "Just Can't Say",
+      "url": "https://open.spotify.com/track/2E3PNYbkIKRiQrRVDb0pIg"
     },
     {
       "added_at": "2023-07-07 15:58:47",

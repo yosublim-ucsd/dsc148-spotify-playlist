@@ -4,7 +4,7 @@
 
 > Finish together\. Listen to the official playlist for Sex Education, now streaming on Netflix.
 
-362 songs - 22 hr 33 min
+363 songs - 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Allez donc vous faire bronzer](https://open.spotify.com/track/7ma87nv4jgpXfjlwMFOvLn) | [Sacha Distel](https://open.spotify.com/artist/1si0MhutSLRlQbxiBV08tz) | [Les trésors de Sacha Distel](https://open.spotify.com/album/4X7jv7kMduXpxuTwpzH0wV) | 3:16 | 2023-08-22 |  |
 | [Alright](https://open.spotify.com/track/0jNU3Khf2j07P7KV0p9hTD) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [Clueless / Original Motion Picture Soundtrack](https://open.spotify.com/album/3OrviLrUARxsTuGdWdQTMh) | 3:01 | 2021-10-26 |  |
 | [Amateur](https://open.spotify.com/track/3ivr0feWTsOwpgwTufBzYG) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Sex Education Original Soundtrack](https://open.spotify.com/album/0d5VbUpz8dcGC17Jkm3og4) | 3:01 | 2023-08-22 |  |
-| [Any Way the Wind Blows](https://open.spotify.com/track/5ECVygXKHN7Hqbutsa5bzJ) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Ways](https://open.spotify.com/album/2ZqdswALyu4SyQI2JHxbly) | 3:01 | 2023-09-21 |  |
+| [Any Way the Wind Blows](https://open.spotify.com/track/5ECVygXKHN7Hqbutsa5bzJ) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Ways](https://open.spotify.com/album/2ZqdswALyu4SyQI2JHxbly) | 3:01 | 2023-09-21 | 2023-12-22 |
+| [Any Way the Wind Blows](https://open.spotify.com/track/6b3AxcFd30h4dx7nPXraRF) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [WAYS](https://open.spotify.com/album/13Lic5cbhujb4ngZs8BlTm) | 3:01 | 2023-09-25 |  |
 | [Anybody](https://open.spotify.com/track/44SSviC4R1TkAdsyptjDpE) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:08 | 2023-08-22 |  |
 | [Are You Man Enough?](https://open.spotify.com/track/6DdWSQJNCQuQjXJQBHXTz0) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Main Street People](https://open.spotify.com/album/3RQVbZ3zV5l9EOWDMyiwuR) | 3:27 | 2023-09-21 |  |
 | [Asleep \- 2011 Remaster](https://open.spotify.com/track/7LZgdL0MxiElfaKZbuuE4l) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Louder Than Bombs](https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8) | 4:13 | 2023-08-22 |  |

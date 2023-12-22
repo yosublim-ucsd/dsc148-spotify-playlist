@@ -1,12 +1,12 @@
 {
   "description": "Tropical y refrescante. Con todo el sabor y tradici\u00f3n de M\u00e9xico.",
-  "num_followers": 23176,
+  "num_followers": 23192,
   "original_name": "Aguas Frescas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzQ4YzQwMzk0ZDIyNDhkY2JkMzRlOTUzOTFlMTE4ODc2NDYxYTJh",
+  "snapshot_id": "MCxiY2RjNjdkNjJmMWE0MTE2YzM5YjFlZDM3OWI3MjBmYzg3NDRhMzlj",
   "tracks": [
     {
       "added_at": "2023-01-23 22:42:50",
@@ -95,22 +95,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Exitos Para Amanecer Bailando",
-        "url": "https://open.spotify.com/album/17GuJaIZdVJKUhVcRPjCuz"
-      },
-      "artists": [
-        {
-          "name": "Los Plebeyos",
-          "url": "https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a"
-        }
-      ],
-      "duration_ms": 124604,
-      "name": "El Pipiripau",
-      "url": "https://open.spotify.com/track/6o37HYivkZWytjATLbQ7xk"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Exitos De Billo's Caracas Boys",
         "url": "https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 183228,
       "name": "Cumbia Caletera",
       "url": "https://open.spotify.com/track/5t1feZXRvi9xSFNEEMuboe"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Exitos Para Amanecer Bailando",
+        "url": "https://open.spotify.com/album/17GuJaIZdVJKUhVcRPjCuz"
+      },
+      "artists": [
+        {
+          "name": "Los Plebeyos",
+          "url": "https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a"
+        }
+      ],
+      "duration_ms": 124604,
+      "name": "El Pipiripau",
+      "url": "https://open.spotify.com/track/6o37HYivkZWytjATLbQ7xk"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Edixion Platino",
-        "url": "https://open.spotify.com/album/0I03z93hlF5NpbQHqj07ak"
-      },
-      "artists": [
-        {
-          "name": "Los Rehenes",
-          "url": "https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8"
-        }
-      ],
-      "duration_ms": 167933,
-      "name": "Necesito Que Regreses",
-      "url": "https://open.spotify.com/track/5PD0sX9q4ILqtifyQSHqf6"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "3 En 1 Super Show De Los Vaskez",
         "url": "https://open.spotify.com/album/5sFWeLEilmm41a93FXouql"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 172200,
       "name": "Pollito Con Papas",
       "url": "https://open.spotify.com/track/6k8s5icx0itCEkcFOaZUuB"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Edixion Platino",
+        "url": "https://open.spotify.com/album/0I03z93hlF5NpbQHqj07ak"
+      },
+      "artists": [
+        {
+          "name": "Los Rehenes",
+          "url": "https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8"
+        }
+      ],
+      "duration_ms": 167933,
+      "name": "Necesito Que Regreses",
+      "url": "https://open.spotify.com/track/5PD0sX9q4ILqtifyQSHqf6"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "El Danz\u00f3n Nunca Muere",
-        "url": "https://open.spotify.com/album/3qJpBRCr2V3XDEQ4TlOHOi"
-      },
-      "artists": [
-        {
-          "name": "Los Mejores Danzones De Todos Los Tiempos",
-          "url": "https://open.spotify.com/artist/4jY7nNhjSj8d39IhJjjEMm"
-        }
-      ],
-      "duration_ms": 185893,
-      "name": "Nereidas",
-      "url": "https://open.spotify.com/track/5Ef5cRtJtPQ3Pvw9rNXqVf"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Matamoros Querido",
         "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 191733,
       "name": "Vereda Tropical",
       "url": "https://open.spotify.com/track/6lno3T1Mgtr2Xt28nWVmUP"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "El Danz\u00f3n Nunca Muere",
+        "url": "https://open.spotify.com/album/3qJpBRCr2V3XDEQ4TlOHOi"
+      },
+      "artists": [
+        {
+          "name": "Los Mejores Danzones De Todos Los Tiempos",
+          "url": "https://open.spotify.com/artist/4jY7nNhjSj8d39IhJjjEMm"
+        }
+      ],
+      "duration_ms": 185893,
+      "name": "Nereidas",
+      "url": "https://open.spotify.com/track/5Ef5cRtJtPQ3Pvw9rNXqVf"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
+        "name": "El Pasado",
+        "url": "https://open.spotify.com/album/6t03MjmuMMfP7o2QUi4qhC"
+      },
+      "artists": [
+        {
+          "name": "Chico Che y La Crisis",
+          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
+        }
+      ],
+      "duration_ms": 170319,
+      "name": "El Restaurantito",
+      "url": "https://open.spotify.com/track/3S2U1ZoesGZi8ZTOkxxlS3"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
         "name": "Az\u00facar! Caliente",
         "url": "https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 176706,
       "name": "Yerbero Moderno",
       "url": "https://open.spotify.com/track/6DIjVmwlgVdSdHAYSkS5ga"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
-        "name": "El Pasado",
-        "url": "https://open.spotify.com/album/6t03MjmuMMfP7o2QUi4qhC"
-      },
-      "artists": [
-        {
-          "name": "Chico Che y La Crisis",
-          "url": "https://open.spotify.com/artist/36OebUTEGjxsjUnpQhnmHm"
-        }
-      ],
-      "duration_ms": 170319,
-      "name": "El Restaurantito",
-      "url": "https://open.spotify.com/track/3S2U1ZoesGZi8ZTOkxxlS3"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Los \u00c9xitos de Chava Flores en la Voz de Chava Flores y Fernando Rosas",
-        "url": "https://open.spotify.com/album/6T1qoWlqTnzh8668YTyKSL"
-      },
-      "artists": [
-        {
-          "name": "Chava Flores",
-          "url": "https://open.spotify.com/artist/3qvw5E5LD9Wq0nFNnBL4O2"
-        }
-      ],
-      "duration_ms": 168053,
-      "name": "S\u00e1bado D.F.",
-      "url": "https://open.spotify.com/track/2CoCTWNwmcDsTMPxG4CmMP"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Tibiri Tabara",
         "url": "https://open.spotify.com/album/0sBZusCQsXx3gERsOGyeOD"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 217360,
       "name": "T\u00edbiri T\u00e1bara",
       "url": "https://open.spotify.com/track/5imytNyyEoxEvClMBwZe6j"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Los \u00c9xitos de Chava Flores en la Voz de Chava Flores y Fernando Rosas",
+        "url": "https://open.spotify.com/album/6T1qoWlqTnzh8668YTyKSL"
+      },
+      "artists": [
+        {
+          "name": "Chava Flores",
+          "url": "https://open.spotify.com/artist/3qvw5E5LD9Wq0nFNnBL4O2"
+        }
+      ],
+      "duration_ms": 168053,
+      "name": "S\u00e1bado D.F.",
+      "url": "https://open.spotify.com/track/2CoCTWNwmcDsTMPxG4CmMP"
     },
     {
       "added_at": "2023-01-23 22:42:50",

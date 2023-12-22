@@ -1,12 +1,12 @@
 {
   "description": "Let's go!",
-  "num_followers": 342832,
+  "num_followers": 343058,
   "original_name": "Indie x Running",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWUwMmY1NTZkNjA3ZDQ1NDNiYTIxNWM1MmI0ODg1NWRkZDExYjY3",
+  "snapshot_id": "MCwxMDRiYmVlNzYxNjIyYTg0ZTUzMjExZDhiNGUwMTI4NzYzMzU5Mjdh",
   "tracks": [
     {
       "added_at": "2023-01-20 11:00:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Tourist History",
-        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
-      },
-      "artists": [
-        {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-        }
-      ],
-      "duration_ms": 191706,
-      "name": "What You Know",
-      "url": "https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "More Than Just a Dream",
         "url": "https://open.spotify.com/album/6yhvsasMsZ1ZMuTk8qIHx0"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 209386,
       "name": "Out of My League",
       "url": "https://open.spotify.com/track/2Z5wXgysowvzl0nKGNGU0t"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "Tourist History",
+        "url": "https://open.spotify.com/album/0wNjC8d3ve2L2yaomEWUsa"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 191706,
+      "name": "What You Know",
+      "url": "https://open.spotify.com/track/3GBApU0NuzH4hKZq4NOSdA"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Year of the Caprese",
-        "url": "https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas"
-      },
-      "artists": [
-        {
-          "name": "Cherub",
-          "url": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
-        }
-      ],
-      "duration_ms": 323253,
-      "name": "Doses & Mimosas",
-      "url": "https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/0ajuOfBlVf6XlnaZAYUVBf"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 191173,
       "name": "Burning",
       "url": "https://open.spotify.com/track/0QgR03vMDoBoLgcu08EtKl"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "Year of the Caprese",
+        "url": "https://open.spotify.com/album/070DVvXuLD3fM3KYs47tas"
+      },
+      "artists": [
+        {
+          "name": "Cherub",
+          "url": "https://open.spotify.com/artist/00dwwnz3V4kRfu3UFYpJLz"
+        }
+      ],
+      "duration_ms": 323253,
+      "name": "Doses & Mimosas",
+      "url": "https://open.spotify.com/track/44CZRkOxv7UItaAUmh8PgN"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "For Ever",
-        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 184599,
-      "name": "Heavy, California",
-      "url": "https://open.spotify.com/track/34wcz4mpAActEc6gtqX3wz"
-    },
-    {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
         "name": "Costello Music",
         "url": "https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 215173,
       "name": "Chelsea Dagger",
       "url": "https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z"
+    },
+    {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "For Ever",
+        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 184599,
+      "name": "Heavy, California",
+      "url": "https://open.spotify.com/track/34wcz4mpAActEc6gtqX3wz"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1265,6 +1265,26 @@
       "url": "https://open.spotify.com/track/2HKDVLcHYBD8asWWttLU3W"
     },
     {
+      "added_at": "2023-01-20 11:00:00",
+      "album": {
+        "name": "Lockjaw",
+        "url": "https://open.spotify.com/album/5I0kS30hvtI7a1LFEhaPve"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 254037,
+      "name": "This Song Is Not About A Girl",
+      "url": "https://open.spotify.com/track/0Z7GNrvgEj3iiIxxPtRwIe"
+    },
+    {
       "added_at": "2023-05-17 13:32:35",
       "album": {
         "name": "Lots of Nothing (feat. BENEE)",
@@ -1285,26 +1305,6 @@
       "url": "https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j"
     },
     {
-      "added_at": "2023-01-20 11:00:00",
-      "album": {
-        "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
-      },
-      "artists": [
-        {
-          "name": "Capital Cities",
-          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
-        },
-        {
-          "name": "Sebu Simonian",
-          "url": "https://open.spotify.com/artist/2qNFFftPmkByIgN023GgLZ"
-        }
-      ],
-      "duration_ms": 202921,
-      "name": "One Minute More",
-      "url": "https://open.spotify.com/track/0NYLOvWtvJdyeceDD9R1Vw"
-    },
-    {
       "added_at": "2023-02-10 12:43:59",
       "album": {
         "name": "Alpha Zulu",
@@ -1323,22 +1323,22 @@
     {
       "added_at": "2023-01-20 11:00:00",
       "album": {
-        "name": "Lockjaw",
-        "url": "https://open.spotify.com/album/5I0kS30hvtI7a1LFEhaPve"
+        "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
       },
       "artists": [
         {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+          "name": "Capital Cities",
+          "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
         },
         {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+          "name": "Sebu Simonian",
+          "url": "https://open.spotify.com/artist/2qNFFftPmkByIgN023GgLZ"
         }
       ],
-      "duration_ms": 254037,
-      "name": "This Song Is Not About A Girl",
-      "url": "https://open.spotify.com/track/0Z7GNrvgEj3iiIxxPtRwIe"
+      "duration_ms": 202921,
+      "name": "One Minute More",
+      "url": "https://open.spotify.com/track/0NYLOvWtvJdyeceDD9R1Vw"
     },
     {
       "added_at": "2023-01-20 11:00:00",
@@ -1569,22 +1569,6 @@
       "url": "https://open.spotify.com/track/5n4mNEN0wnFOvoob4VVx4W"
     },
     {
-      "added_at": "2023-02-10 12:43:59",
-      "album": {
-        "name": "The Day My Father Died",
-        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 200693,
-      "name": "Chariot",
-      "url": "https://open.spotify.com/track/64vHUkjiPKkUWTGfyeKnPW"
-    },
-    {
       "added_at": "2023-01-20 11:00:00",
       "album": {
         "name": "The Front Bottoms",
@@ -1599,6 +1583,22 @@
       "duration_ms": 297346,
       "name": "Flashlight",
       "url": "https://open.spotify.com/track/04hN6ODPxg2w93G6x0XQxr"
+    },
+    {
+      "added_at": "2023-02-10 12:43:59",
+      "album": {
+        "name": "The Day My Father Died",
+        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 200693,
+      "name": "Chariot",
+      "url": "https://open.spotify.com/track/64vHUkjiPKkUWTGfyeKnPW"
     },
     {
       "added_at": "2023-01-20 11:00:00",

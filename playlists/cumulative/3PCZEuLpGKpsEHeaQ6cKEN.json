@@ -749,6 +749,24 @@
     },
     {
       "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/2IWqfCrda5ydvw95GxzvZk"
+      },
+      "artists": [
+        {
+          "name": "Mees Salom\u00e9",
+          "url": "https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193653,
+      "name": "Apart",
+      "url": "https://open.spotify.com/track/3Fi81m5NUHcWfpNwhsu3Kt"
+    },
+    {
+      "album": {
         "name": "Are U With Me",
         "url": "https://open.spotify.com/album/6tQ2QvimZFyOP1aw4pA5tw"
       },
@@ -4976,7 +4994,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 172523,
       "name": "Fourth Dimension",
       "url": "https://open.spotify.com/track/2ojoNqheLtUVW8yTIaxND0"
@@ -9360,7 +9378,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 209056,
       "name": "Losing Control (feat. Nathan Nicholson)",
       "url": "https://open.spotify.com/track/6yW6KjdBVwpexa0xI26si0"
@@ -10070,10 +10088,32 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 154702,
       "name": "Mind Talking",
       "url": "https://open.spotify.com/track/0lJ0a3noMVleqsUHRmIr94"
+    },
+    {
+      "album": {
+        "name": "Minutes To Midnight",
+        "url": "https://open.spotify.com/album/103fZxDapNRktmJkvXAsmW"
+      },
+      "artists": [
+        {
+          "name": "Kryder",
+          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
+        },
+        {
+          "name": "JAI RYU",
+          "url": "https://open.spotify.com/artist/1YtiawZzH3pF90C07iauWh"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221170,
+      "name": "Minutes To Midnight",
+      "url": "https://open.spotify.com/track/2fLI7UuB5qHZlQ14kbQrZy"
     },
     {
       "album": {
@@ -11849,6 +11889,28 @@
     },
     {
       "album": {
+        "name": "Feel Again (Remixes)",
+        "url": "https://open.spotify.com/album/4JDUbnbF8WAebdHNWTdDID"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Lucky Lou",
+          "url": "https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144285,
+      "name": "Pas de Bourree - Miami Club Mix",
+      "url": "https://open.spotify.com/track/4iunb6DsRYHx2oEdgYVE8X"
+    },
+    {
+      "album": {
         "name": "Armada Music - 20 Years (Remixed)",
         "url": "https://open.spotify.com/album/4OD3z2wuOlBanqCItlGtsb"
       },
@@ -12650,7 +12712,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 213339,
       "name": "Rhythm Of The Night",
       "url": "https://open.spotify.com/track/6OFJOpzi9xZrm3eEJE1SIG"
@@ -12698,6 +12760,28 @@
       "duration_ms": 156031,
       "name": "Ringo",
       "url": "https://open.spotify.com/track/2oxsa1Hjgucb5fZXCRqASr"
+    },
+    {
+      "album": {
+        "name": "Ringo (Miss Monique Remix)",
+        "url": "https://open.spotify.com/album/0DweN2CtrxoKqvz0w2hcPC"
+      },
+      "artists": [
+        {
+          "name": "Lufthaus",
+          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+        },
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222594,
+      "name": "Ringo - Miss Monique Remix",
+      "url": "https://open.spotify.com/track/0fRLU02X1H2RqWPWKKaJ5c"
     },
     {
       "album": {
@@ -12766,7 +12850,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 164996,
       "name": "Rock The Show",
       "url": "https://open.spotify.com/track/5DqO80YvcskULZAaFAegOq"

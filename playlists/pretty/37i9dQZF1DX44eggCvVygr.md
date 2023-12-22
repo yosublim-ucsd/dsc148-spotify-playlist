@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44eggCvVygr.md) - [plain]
 
 > All the music from Netflix's La Casa de Papel/Money Heist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,347 likes - 63 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,466 likes - 63 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44eggCvVygr.md) - [plain]
 | 50 | [Te Estoy Amando Locamente](https://open.spotify.com/track/5QfmCmdL4qnzqMz5Z0gvzV) | [Las Grecas](https://open.spotify.com/artist/5sWCGfIxmNiMAl6n8kdbkb) | [Te Estoy Amando Locamente](https://open.spotify.com/album/2NpRaaZ6Hi7Y5GqWeLwGqH) | 3:11 |
 | 51 | [Maskenfreiheit](https://open.spotify.com/track/0U6DDIna03AaXc35Djhjgi) | [Belako](https://open.spotify.com/artist/7znL32O79uRRRhojT25gug) | [Render Me Numb, Trivial Violence](https://open.spotify.com/album/26MeZzexBTmsfmge60gYe3) | 3:00 |
 | 52 | [Days Like This](https://open.spotify.com/track/3xINh6YqkLfucEtjoa4x7D) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Days Like This](https://open.spotify.com/album/2J2QLpbe1EBRP65w9v8CRL) | 3:17 |
-| 53 | [Centro Di Gravità Permanente \- Remastered 2021](https://open.spotify.com/track/6OzeWNA1SQgZBw5caqAIKN) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [La Voce Del Padrone \(Remastered\)](https://open.spotify.com/album/3vHxkAyC36Bi581ZUysCtZ) | 3:59 |
+| 53 | [Centro Di Gravità Permanente \- Remastered 2021](https://open.spotify.com/track/6OzeWNA1SQgZBw5caqAIKN) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [La Voce Del Padrone \(Remastered 2021\)](https://open.spotify.com/album/3vHxkAyC36Bi581ZUysCtZ) | 3:59 |
 | 54 | [All You Need to Know](https://open.spotify.com/track/6a8AIQEeuWKRoQakg3Aujf) | [Howe Gelb](https://open.spotify.com/artist/2oAKV8mT3NB1hZbGbGcdYB), [Lonna Kelly](https://open.spotify.com/artist/3lNd01OLBdD9jodTpJG4RG) | [Further Standards](https://open.spotify.com/album/0kYvtUDxRxcZe7JehdMiV8) | 3:43 |
 | 55 | [Amado Mio](https://open.spotify.com/track/139kwDhYiXDKr1qSmnIXOD) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Sympathique](https://open.spotify.com/album/2y2CKDqSlMlPw6trrKwjzC) | 4:49 |
 | 56 | [Suspiros de España \- Pasodoble](https://open.spotify.com/track/6BigVQt0dYzoEjHLTLk83W) | [Real Orquesta Sinfonica De Sevilla](https://open.spotify.com/artist/4fAkGj5c8n7tfc5rYeFOD6) | [Suspiros de España \(Pasodobles\)](https://open.spotify.com/album/3icVxFCY1RbYvSQk5aCON0) | 4:06 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44eggCvVygr.md) - [plain]
 | 62 | [Wake Up](https://open.spotify.com/track/6Hmj7SrLRbreLVfVS7mV1S) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Funeral](https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH) | 5:35 |
 | 63 | [Bella ciao](https://open.spotify.com/track/0Hssk7StCZSPBwTaghTJsR) | [Najwa](https://open.spotify.com/artist/7dp8dR96gWncIypef8kTnS) | [Bella ciao](https://open.spotify.com/album/5ddDj8XH2GBfgDjEZpVD0p) | 2:09 |
 
-Snapshot ID: `MCwyOTU1ZWRhYWUyYjg5OTQ3OGFlNjdlODk4ZmRiNzRiOTRkNGE3ZWFj`
+Snapshot ID: `MCwyZTUxYWUzMzJlNzNkZDllMTQ0ODFlYjcwOWQ0NzI0NDEyMzFmYjZi`

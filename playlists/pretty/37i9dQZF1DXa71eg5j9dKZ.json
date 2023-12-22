@@ -1,12 +1,12 @@
 {
-  "description": "The home for alternative electronic music. Cover: Duskus",
-  "num_followers": 501788,
+  "description": "The home for alternative electronic music. Cover: Barry Can't Swim",
+  "num_followers": 501801,
   "original_name": "Altar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDRiZDJhNTZmMmIzNmY0NGE4NTNiMzUyY2Q3NTk5MTA3YzYxZjll",
+  "snapshot_id": "MCwwM2E5NzY5YzkxMjlhZGUzNDMxNGJmMTA2NjhjMDA5MTRhOTQ2MmUw",
   "tracks": [
     {
       "added_at": "2023-12-15 00:00:00",
@@ -29,6 +29,30 @@
       "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
     },
     {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Smoke In Your Eyes",
+        "url": "https://open.spotify.com/album/5EEitGHmxCB0XD0rtV3bE7"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Ossie",
+          "url": "https://open.spotify.com/artist/4k2R7rFptalNPkyGEq2s9G"
+        },
+        {
+          "name": "Harry Stone",
+          "url": "https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96"
+        }
+      ],
+      "duration_ms": 391503,
+      "name": "Smoke In Your Eyes",
+      "url": "https://open.spotify.com/track/2Kurh5hEYRgzDzuahjHytQ"
+    },
+    {
       "added_at": "2023-12-15 00:00:00",
       "album": {
         "name": "Healers Vol. 1",
@@ -45,20 +69,24 @@
       "url": "https://open.spotify.com/track/2y8USOrYuvaz4BqN9guAt4"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Cult Classics",
-        "url": "https://open.spotify.com/album/3mnKHGcVhqsdZP1IeyLbS6"
+        "name": "JOY (Push The Button)",
+        "url": "https://open.spotify.com/album/1jkNntbUEEHM1TDNrestb2"
       },
       "artists": [
         {
           "name": "Joy Anonymous",
           "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        },
+        {
+          "name": "Sugababes",
+          "url": "https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf"
         }
       ],
-      "duration_ms": 237979,
-      "name": "JOY (Up The Street)",
-      "url": "https://open.spotify.com/track/1d9NF9D6HgLWvGQyPrYE98"
+      "duration_ms": 235198,
+      "name": "JOY (Push The Button)",
+      "url": "https://open.spotify.com/track/38k9ZI2scBdNV11KM3pTNB"
     },
     {
       "added_at": "2023-12-15 00:00:00",
@@ -135,6 +163,22 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
+        "name": "Duofade",
+        "url": "https://open.spotify.com/album/5JjxlBFREiVPgFpW1wP5mK"
+      },
+      "artists": [
+        {
+          "name": "Leon Vynehall",
+          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
+        }
+      ],
+      "duration_ms": 236750,
+      "name": "Duofade",
+      "url": "https://open.spotify.com/track/18aVHbdnr0Uu0vDsTJfYwR"
+    },
+    {
+      "added_at": "2023-12-15 00:00:00",
+      "album": {
         "name": "I Believe In Love Again (Jex Opolis Remix)",
         "url": "https://open.spotify.com/album/5HRtN5JcxONyY8WlvayG2g"
       },
@@ -183,6 +227,38 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
+        "name": "Backshifting",
+        "url": "https://open.spotify.com/album/5H96oSbsd5Ob8DqOAMHIS7"
+      },
+      "artists": [
+        {
+          "name": "Ivy Lab",
+          "url": "https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs"
+        }
+      ],
+      "duration_ms": 244634,
+      "name": "Backshifting",
+      "url": "https://open.spotify.com/track/7AsthFcXBLZlGAyDpljpoy"
+    },
+    {
+      "added_at": "2023-12-15 00:00:00",
+      "album": {
+        "name": "Cult Classics",
+        "url": "https://open.spotify.com/album/3mnKHGcVhqsdZP1IeyLbS6"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        }
+      ],
+      "duration_ms": 237979,
+      "name": "JOY (Up The Street)",
+      "url": "https://open.spotify.com/track/1d9NF9D6HgLWvGQyPrYE98"
+    },
+    {
+      "added_at": "2023-12-15 00:00:00",
+      "album": {
         "name": "EST",
         "url": "https://open.spotify.com/album/0uTa7zuhN42yVclpAkJL9i"
       },
@@ -195,6 +271,22 @@
       "duration_ms": 336541,
       "name": "EST",
       "url": "https://open.spotify.com/track/1ojCQ0v59O77rKZbwN8aQh"
+    },
+    {
+      "added_at": "2023-12-15 00:00:00",
+      "album": {
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/7qfq6ubyO9WY1vLFAMAC85"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 220311,
+      "name": "Watch Me",
+      "url": "https://open.spotify.com/track/3Zu4WIeXp4NbQZbcqv1MOr"
     },
     {
       "added_at": "2023-12-15 00:00:00",
@@ -219,18 +311,38 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
-        "name": "Backshifting",
-        "url": "https://open.spotify.com/album/5H96oSbsd5Ob8DqOAMHIS7"
+        "name": "Self To Blame",
+        "url": "https://open.spotify.com/album/6NvDwBu9uM79wNI7ZzA5nY"
       },
       "artists": [
         {
-          "name": "Ivy Lab",
-          "url": "https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs"
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Kayla Blackmon",
+          "url": "https://open.spotify.com/artist/46J5rGvJ6xnn5cCZguck6W"
         }
       ],
-      "duration_ms": 244634,
-      "name": "Backshifting",
-      "url": "https://open.spotify.com/track/7AsthFcXBLZlGAyDpljpoy"
+      "duration_ms": 245360,
+      "name": "Self To Blame",
+      "url": "https://open.spotify.com/track/5KpCmDP66zOO4sjKuneMjQ"
+    },
+    {
+      "added_at": "2023-12-15 00:00:00",
+      "album": {
+        "name": "I Feel You Feel",
+        "url": "https://open.spotify.com/album/0kp7hFBIN1CFuv3gIBcdDo"
+      },
+      "artists": [
+        {
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
+        }
+      ],
+      "duration_ms": 243530,
+      "name": "Start Again",
+      "url": "https://open.spotify.com/track/2dPOMJfe0ingxUn9g6S52d"
     },
     {
       "added_at": "2023-12-15 00:00:00",
@@ -255,38 +367,6 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
-        "name": "Duofade",
-        "url": "https://open.spotify.com/album/5JjxlBFREiVPgFpW1wP5mK"
-      },
-      "artists": [
-        {
-          "name": "Leon Vynehall",
-          "url": "https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU"
-        }
-      ],
-      "duration_ms": 236750,
-      "name": "Duofade",
-      "url": "https://open.spotify.com/track/18aVHbdnr0Uu0vDsTJfYwR"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
-        "name": "I Feel You Feel",
-        "url": "https://open.spotify.com/album/0kp7hFBIN1CFuv3gIBcdDo"
-      },
-      "artists": [
-        {
-          "name": "Model Man",
-          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
-        }
-      ],
-      "duration_ms": 243530,
-      "name": "Start Again",
-      "url": "https://open.spotify.com/track/2dPOMJfe0ingxUn9g6S52d"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
         "name": "Birth4000",
         "url": "https://open.spotify.com/album/5jWraquGLoS4pFefyUytmx"
       },
@@ -299,22 +379,6 @@
       "duration_ms": 286274,
       "name": "Birth4000",
       "url": "https://open.spotify.com/track/0ULiCJAR2lmaHrXvs3exRm"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
-        "name": "When Will We Land?",
-        "url": "https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 246840,
-      "name": "Always Get Through To You",
-      "url": "https://open.spotify.com/track/0g8nIlk2ltpZP8lYlPvRx1"
     },
     {
       "added_at": "2023-12-15 00:00:00",
@@ -335,18 +399,78 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
-        "name": "Watch Me",
-        "url": "https://open.spotify.com/album/7qfq6ubyO9WY1vLFAMAC85"
+        "name": "Small Sanctuary",
+        "url": "https://open.spotify.com/album/3Hw0CqwBTvGz4HfPscEPfp"
       },
       "artists": [
         {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
         }
       ],
-      "duration_ms": 220311,
-      "name": "Watch Me",
-      "url": "https://open.spotify.com/track/3Zu4WIeXp4NbQZbcqv1MOr"
+      "duration_ms": 218133,
+      "name": "Small Sanctuary",
+      "url": "https://open.spotify.com/track/7Lx1FPVrAunBz3ykpmFxsN"
+    },
+    {
+      "added_at": "2023-12-15 00:00:00",
+      "album": {
+        "name": "Jenny (Heaven Can You Hear Me)",
+        "url": "https://open.spotify.com/album/48E7qLe1f4qle7WeA2qt2X"
+      },
+      "artists": [
+        {
+          "name": "Bandit",
+          "url": "https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2"
+        },
+        {
+          "name": "Belfort",
+          "url": "https://open.spotify.com/artist/5n2GF9IrgXtV9s2HBPCI3R"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "Jenny (Heaven Can You Hear Me)",
+      "url": "https://open.spotify.com/track/6j5PkIPTIt17kDCNppFmpy"
+    },
+    {
+      "added_at": "2023-12-15 00:00:00",
+      "album": {
+        "name": "When Will We Land?",
+        "url": "https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 246840,
+      "name": "Always Get Through To You",
+      "url": "https://open.spotify.com/track/0g8nIlk2ltpZP8lYlPvRx1"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/6yF8JrEp3yBfFJptdIPLi7"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 189840,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/7h8qrDfxBzUGcXXiR4Jxea"
     },
     {
       "added_at": "2023-12-15 00:00:00",
@@ -367,42 +491,6 @@
       "duration_ms": 222000,
       "name": "TR Smooth",
       "url": "https://open.spotify.com/track/6NV9a8WK4MvuJZg6VSu2KD"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
-        "name": "Small Sanctuary",
-        "url": "https://open.spotify.com/album/3Hw0CqwBTvGz4HfPscEPfp"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 218133,
-      "name": "Small Sanctuary",
-      "url": "https://open.spotify.com/track/7Lx1FPVrAunBz3ykpmFxsN"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
-        "name": "Self To Blame",
-        "url": "https://open.spotify.com/album/6NvDwBu9uM79wNI7ZzA5nY"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
-        {
-          "name": "Kayla Blackmon",
-          "url": "https://open.spotify.com/artist/46J5rGvJ6xnn5cCZguck6W"
-        }
-      ],
-      "duration_ms": 245360,
-      "name": "Self To Blame",
-      "url": "https://open.spotify.com/track/5KpCmDP66zOO4sjKuneMjQ"
     },
     {
       "added_at": "2023-12-15 00:00:00",
@@ -635,26 +723,6 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
-        "name": "Jenny (Heaven Can You Hear Me)",
-        "url": "https://open.spotify.com/album/48E7qLe1f4qle7WeA2qt2X"
-      },
-      "artists": [
-        {
-          "name": "Bandit",
-          "url": "https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2"
-        },
-        {
-          "name": "Belfort",
-          "url": "https://open.spotify.com/artist/5n2GF9IrgXtV9s2HBPCI3R"
-        }
-      ],
-      "duration_ms": 195013,
-      "name": "Jenny (Heaven Can You Hear Me)",
-      "url": "https://open.spotify.com/track/6j5PkIPTIt17kDCNppFmpy"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
         "name": "Pain & Pleasure (feat. VANYFOX & F\u00e9d\u00e9ration Internationale du Bruit)",
         "url": "https://open.spotify.com/album/4Jz3pVofJLIfyyslzejjqo"
       },
@@ -787,22 +855,6 @@
       "duration_ms": 216070,
       "name": "Blow Out",
       "url": "https://open.spotify.com/track/5xWn1sBr3ZkFOSUrfp6Iz4"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
-        "name": "SOBER",
-        "url": "https://open.spotify.com/album/5nS6v4qdEL2h9lTasRmziy"
-      },
-      "artists": [
-        {
-          "name": "SIPHO.",
-          "url": "https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ"
-        }
-      ],
-      "duration_ms": 155906,
-      "name": "SOBER",
-      "url": "https://open.spotify.com/track/5sFZ7F3b7LDdQTwt7UnNvZ"
     },
     {
       "added_at": "2023-12-15 00:00:00",
@@ -1179,22 +1231,6 @@
     {
       "added_at": "2023-12-15 00:00:00",
       "album": {
-        "name": "Alchemy",
-        "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 206445,
-      "name": "Simply Won't Do",
-      "url": "https://open.spotify.com/track/6q41rWOFtGs0K63lm0tAPa"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
         "name": "Room With A View (Digital Underground)",
         "url": "https://open.spotify.com/album/2Fdl0K5pBsUQazFOHvPZVp"
       },
@@ -1239,26 +1275,6 @@
       "duration_ms": 252208,
       "name": "Marabelle",
       "url": "https://open.spotify.com/track/5pkCK8nUi4yxwNIVi03FIm"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
-        "name": "Pleasure Peak",
-        "url": "https://open.spotify.com/album/3myfX09GyHOpYaDN0AlHFY"
-      },
-      "artists": [
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        },
-        {
-          "name": "The Martinez Brothers",
-          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
-        }
-      ],
-      "duration_ms": 200826,
-      "name": "Pleasure Peak",
-      "url": "https://open.spotify.com/track/0p4gPitg46gAPG3IdJvW5d"
     },
     {
       "added_at": "2023-12-15 00:00:00",

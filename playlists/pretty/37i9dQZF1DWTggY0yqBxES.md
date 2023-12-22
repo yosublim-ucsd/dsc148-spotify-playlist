@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: AG Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 948,268 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 948,325 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 40 | [Fuck Em Up Moses](https://open.spotify.com/track/4tH1p1TYEtXkLNtPDPHnvI) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Fuck Em Up Moses](https://open.spotify.com/album/5LxED8zuZ1X7XUMdQS60E6) | 3:39 |
 | 41 | [I Don't Wanna Be In Love, But I Don't Wanna Be Alone](https://open.spotify.com/track/0Cy1cXdjWDZogM5YVk0EDI) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [I Don't Wanna Be In Love, But I Don't Wanna Be Alone](https://open.spotify.com/album/78nImjHu9SijmNwWEccFQn) | 2:50 |
 | 42 | [FOCUSED](https://open.spotify.com/track/3IdXc5Yfz1pdsv5NfbKldV) | [ICECOLDBISHOP](https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4) | [GENERATIONAL CURSE](https://open.spotify.com/album/4eEU0y6UgZnMw4rqSV2xBs) | 4:28 |
-| 43 | [POPTHATRUNK](https://open.spotify.com/track/6FxxGoSCC9UaX8loeVwrcs) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [POPTHATRUNK](https://open.spotify.com/album/0brdkkqwVS8Y4v4s3xCZ7S) | 2:13 |
+| 43 | [POPTHATRUNK](https://open.spotify.com/track/4BLbZo3DCqQXMzogWV1GNP) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [POPTHATRUNK](https://open.spotify.com/album/2eFWG2ZnDaiiesSNssfaVc) | 2:13 |
 | 44 | [SOME THINGS](https://open.spotify.com/track/1nTDUAdKAsABK9BudqjL1M) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [FARADA](https://open.spotify.com/artist/7lnACC1f3tsle3dFZ50veL) | [SOME THINGS](https://open.spotify.com/album/2pAZLc3G7vtAKJ4Yq68O27) | 2:35 |
 | 45 | [F\* TASTE](https://open.spotify.com/track/0eyFCLT8pkBjqxgkgypZGk) | [Yoshi T.](https://open.spotify.com/artist/0KDEs3f3DfvAoLp1S24OJ0) | [F\* TASTE](https://open.spotify.com/album/6DXn08iIwPybGOxdSMWx7L) | 2:00 |
 | 46 | [DRACULA](https://open.spotify.com/track/5UahFzPYaCRSgb5QkDH8iO) | [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [DRACULA](https://open.spotify.com/album/0t6XelUenN8uSlGHLgarcr) | 2:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [R.I.P.](https://open.spotify.com/track/3CoHgbwTCOhigOIJP60uja) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [R.I.P.](https://open.spotify.com/album/1RUt29Os0Cu7xwz9HeZBE2) | 2:41 |
 | 100 | [Go](https://open.spotify.com/track/0ygId62cVyJWm8ZKaHX8CV) | [Taylor Bennett](https://open.spotify.com/artist/6CqjoQyGZlnhnq5gAUz92c), [HXLLYWOOD](https://open.spotify.com/artist/7xlLJW6mWTYxZVLYkSGPjJ), [MONI DA G](https://open.spotify.com/artist/4twqXMj5X9jIGTAwrZLwYI) | [Go](https://open.spotify.com/album/4mRq2sJNSNwCIxMyVaiLeH) | 4:09 |
 
-Snapshot ID: `MCwwM2U3YjA4ZjM3MjEwNzgxMWVlZTFkMzBmNzFhMjUyNTBjYTIwMjA5`
+Snapshot ID: `MCxhMTE4MTMzNDU5NzMwODJkZjNlMjQ3ZDk5NzhiM2ZmNWZlYjM0Y2Y4`

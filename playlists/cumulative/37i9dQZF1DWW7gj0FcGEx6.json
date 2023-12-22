@@ -1786,10 +1786,28 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 212040,
       "name": "Holding Hands (From \"The Crown: Season Six Soundtrack\")",
       "url": "https://open.spotify.com/track/0vPpOw4JOAKB9QMivOAnQj"
+    },
+    {
+      "album": {
+        "name": "The Crown: Season Six (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/4SD5pyJRlNnLCR0yZeWKZN"
+      },
+      "artists": [
+        {
+          "name": "Martin Phipps",
+          "url": "https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212040,
+      "name": "Holding Hands (From \"The Crown: Season Six Soundtrack\")",
+      "url": "https://open.spotify.com/track/3qdBxyNGX7ly8HD4Im0xIg"
     },
     {
       "album": {
@@ -3021,6 +3039,24 @@
     },
     {
       "album": {
+        "name": "American Fiction (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2pRlRr8tWybfbSKcrMPMF0"
+      },
+      "artists": [
+        {
+          "name": "Laura Karpman",
+          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196947,
+      "name": "My Pafology - From \"American Fiction\" Soundtrack",
+      "url": "https://open.spotify.com/track/0m9PfZjzAtpjE6kvNMMZQe"
+    },
+    {
+      "album": {
         "name": "My Pafology (From \"American Fiction\" Soundtrack)",
         "url": "https://open.spotify.com/album/51MDFve5uXaiFsU8dezgKk"
       },
@@ -3032,7 +3068,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 196947,
       "name": "My Pafology - From \"American Fiction\" Soundtrack",
       "url": "https://open.spotify.com/track/7BCvV8CqFW9nfHpcULwglX"

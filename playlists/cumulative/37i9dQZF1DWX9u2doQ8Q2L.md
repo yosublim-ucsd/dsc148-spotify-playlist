@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,215 songs - 3 day 2 hr 56 min
+1,216 songs - 3 day 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [BYE BYE](https://open.spotify.com/track/2x7yirzFtKkatyq3MiGNk0) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [BYE BYE](https://open.spotify.com/album/5QqEam7ebMRqT4Mf0xO0h0) | 3:41 | 2022-08-25 | 2022-08-27 |
 | [Bye Bye](https://open.spotify.com/track/3hPTqw8pMF7SQpxaWngBOM) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Bye Bye](https://open.spotify.com/album/2oaPQosRx7EHt403lUQu07) | 3:41 | 2022-08-25 | 2022-10-25 |
 | [Bye Bye \(0331\)](https://open.spotify.com/track/4RwdPcdrJfmPXyxrAeS8c8) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [Jesus Loves You](https://open.spotify.com/album/0MmKSrbOnVxqUga9R0MAH3) | 2:48 | 2023-04-04 | 2023-05-05 |
-| [Bystanders](https://open.spotify.com/track/3KdhgPWqcU3pThQudClzWO) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Diffusion of Responsibility](https://open.spotify.com/album/7JLobvu32MBmKrDL2QXB6L) | 4:03 | 2023-11-14 |  |
+| [Bystanders](https://open.spotify.com/track/3KdhgPWqcU3pThQudClzWO) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Diffusion of Responsibility](https://open.spotify.com/album/7JLobvu32MBmKrDL2QXB6L) | 4:03 | 2023-11-14 | 2023-12-22 |
 | [c r a z y](https://open.spotify.com/track/35lQAoWxWXQCLRZiC2Bpi7) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [c r a z y](https://open.spotify.com/album/559cpQp7ZCDP8RdiKEuyXR) | 3:13 | 2023-09-05 | 2023-10-04 |
 | [Calming Influence](https://open.spotify.com/track/6oxJq06up4ZTTgRavK6Z4N) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [Pecori](https://open.spotify.com/artist/1seX236woEXAlmlfqDLi3t), [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [Calming Influence](https://open.spotify.com/album/0nx6HgpMKXO9fM3KXFFgXZ) | 4:48 | 2022-12-06 | 2022-12-21 |
 | [Candle Light](https://open.spotify.com/track/1xsgBj3O1MchwVBa6ckwXx) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Green Light](https://open.spotify.com/album/3KhTmSUwEUdPGjE1ay4gI2) | 3:49 | 2022-05-26 | 2023-02-22 |
@@ -984,6 +984,7 @@
 | [さすらい](https://open.spotify.com/track/031TxiS8q3h6Js2mbR3GPm) | [Tamio Okuda](https://open.spotify.com/artist/3ZWE1TnryM03rfzVin17K0) | [さすらい](https://open.spotify.com/album/4Dl6sL07KuneoBXvmMDGS2) | 3:26 | 2023-12-05 |  |
 | [さなぎ](https://open.spotify.com/track/5yPHD1uZkeZf3aRh2A8mz0) | [Haruko Oishi](https://open.spotify.com/artist/7d2QeclNKv9vuSvvHuXKQE) | [脈光](https://open.spotify.com/album/4K1kDRnYCIoPJItc6qmKzB) | 4:32 | 2022-08-16 | 2022-09-28 |
 | [さらまっぽ](https://open.spotify.com/track/6f9Fl22sy1UhH788M7BkH3) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [さらまっぽ](https://open.spotify.com/album/0eWUONdRJ4WYpwcoh3D3hA) | 3:19 | 2023-06-27 | 2023-07-05 |
+| [しょうもない夜](https://open.spotify.com/track/1mSDhkET9Qecp1EuPWX7Er) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [しょうもない夜](https://open.spotify.com/album/31zPEVkCWiYlzMKJF2FvGc) | 3:32 | 2023-12-21 |  |
 | [すずめ](https://open.spotify.com/track/1huqzMaPdQkXuOJaLxrC2s) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [十明](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [すずめ](https://open.spotify.com/album/3zisC3dWvvbDMHGVrxmaBF) | 3:56 | 2022-09-29 | 2022-10-01 |
 | [そして僕は途方に暮れる \(feat\. 黒川沙良\)](https://open.spotify.com/track/0saXHM5Z0JU0vjYUYOQ3nC) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Sala Kurokawa](https://open.spotify.com/artist/5gfV2sADb4hk8v0l3TxN15) | [そして僕は途方に暮れる \(feat\. 黒川沙良\)](https://open.spotify.com/album/2RplRrB1GzCpovo9YoyXAW) | 4:24 | 2023-03-07 | 2023-09-13 |
 | [たぶんMaybe明治 feat\. あ、たぎれんたろう](https://open.spotify.com/track/4XdSe3t6dLv4wm38EzztCc) | [Rekishi](https://open.spotify.com/artist/0ZNOGQWBmBxJPBQG0HS0mJ), [あ、たぎれんたろう](https://open.spotify.com/artist/5HT55SPkrxr8N49KCsDrFC) | [レキシチ](https://open.spotify.com/album/11ZNUUORgFEH7S8ZHF0sH4) | 3:31 | 2022-05-26 | 2022-06-22 |

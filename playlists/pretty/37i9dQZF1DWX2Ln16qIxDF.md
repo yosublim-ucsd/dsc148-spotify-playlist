@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain](/playlists/plain/37i9dQZF1DWX2Ln16qIxDF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX2Ln16qIxDF)
 
-### [El Top 2023](https://open.spotify.com/playlist/37i9dQZF1DWX2Ln16qIxDF)
+### [Top Verano 2024](https://open.spotify.com/playlist/37i9dQZF1DWX2Ln16qIxDF)
 
-> Roze Oficial & Peipper están en el Top 🔥
+> Lo que más suena está en el Top 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 931,553 likes - 101 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 932,771 likes - 101 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 | 100 | [En Un Loop](https://open.spotify.com/track/2sYskpiXS8DD4tEsxoycpS) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [INTERMITENTE](https://open.spotify.com/album/30KCpzi4d2tMxyF5zsRU8j) | 2:49 |
 | 101 | [Whos That B!Tch?](https://open.spotify.com/track/1zGuXTNJXJYkC8AJqiQUAK) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Whos That B!Tch?](https://open.spotify.com/album/73YJ3dUZY8a1RQy4KB2dQc) | 2:33 |
 
-Snapshot ID: `MCw0MGZiYzNlNzJkZjM1NTAyZjZjZTgwMzFlODJmZjI5MTNlOTA2MmI0`
+Snapshot ID: `MCxhNTVkMGE2ZTNkNGFlMDg3YTg0OGM3YzZjMTk4NDBlODdlMjE3MjFi`

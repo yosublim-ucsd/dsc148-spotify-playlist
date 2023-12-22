@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > What's new in rock\. Cover: Charlotte Sands
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,249 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,245 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Stray](https://open.spotify.com/track/3Cn7sqZOpHHgRAlC7ZHpxl) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Cold War Kids](https://open.spotify.com/album/5pBiNV0jWUlQtd40ir524c) | 3:01 |
 | 100 | [Plaster Girl](https://open.spotify.com/track/4WJJ5Klv5EgxXpw7Kl7Vdt) | [Thermal](https://open.spotify.com/artist/0rXfVyHv2j4AaWRvhM44KS) | [Plaster Girl](https://open.spotify.com/album/7pbvS6lwjSmn48GlPUim2H) | 4:40 |
 
-Snapshot ID: `MCw4NmJlZTBjMDhhMWZjOTcyNWZkZDBjNWVlZjQzMGI3MzM3MDE1YzE3`
+Snapshot ID: `MCxlODAxMWNlZWJlODNhMmMzZmJmNDhjMWZhZmI2NDE3NzIzOGQ4MTJj`

@@ -2,7 +2,7 @@
 
 ### [Éxitos México](https://open.spotify.com/playlist/37i9dQZF1DX5BAPG29mHS8)
 
-> Los hits de ahora en la playlist más grande de México\. Dani Flow, El Bogueto, Uzielito Mix en portada.
+> Los hits de ahora en la playlist más grande de México\. Peso Pluma y Anitta en portada.
 
 475 songs - 1 day 2 hr 4 min
 

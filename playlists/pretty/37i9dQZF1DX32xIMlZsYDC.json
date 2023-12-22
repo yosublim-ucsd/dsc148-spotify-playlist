@@ -1,12 +1,12 @@
 {
   "description": "Despierta poco a poco con la tranquilidad de las notas del piano.",
-  "num_followers": 18619,
+  "num_followers": 18617,
   "original_name": "Piano para Despertar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzg3OWZmOGE2MDI3NDIwNDY3NmViYzM4ZjkyNzNjZWVlOGJiN2Jk",
+  "snapshot_id": "MCxmZGJmNzA5MzRjMmYwM2RiN2FmYWJkYWE4MDY3N2E0ZGVlMDVhODIw",
   "tracks": [
     {
       "added_at": "2023-09-11 13:52:39",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Tales Of Solace",
-        "url": "https://open.spotify.com/album/7M7ZlXalpujk6zXlhb1J4s"
-      },
-      "artists": [
-        {
-          "name": "Stephan Moccio",
-          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
-        }
-      ],
-      "duration_ms": 251600,
-      "name": "Lumi\u00e8re",
-      "url": "https://open.spotify.com/track/3iNliE9VdKaPmpUangZfTB"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "In Itself",
         "url": "https://open.spotify.com/album/5dKgGpZkMl8i3RQNbKtFCh"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 142706,
       "name": "My Only One",
       "url": "https://open.spotify.com/track/6weHliQCgO8eaXFpONJJ7Z"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Tales Of Solace",
+        "url": "https://open.spotify.com/album/7M7ZlXalpujk6zXlhb1J4s"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "duration_ms": 251600,
+      "name": "Lumi\u00e8re",
+      "url": "https://open.spotify.com/track/3iNliE9VdKaPmpUangZfTB"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Chambers",
-        "url": "https://open.spotify.com/album/61DhX4MuBUYTYnlrdBhyiN"
-      },
-      "artists": [
-        {
-          "name": "Ali Toygar",
-          "url": "https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H"
-        }
-      ],
-      "duration_ms": 145280,
-      "name": "Chambers",
-      "url": "https://open.spotify.com/track/4wHsmSi7FBZ2aZhQ3ook7M"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Humbly",
         "url": "https://open.spotify.com/album/7r8ESgCgTKTuJRjAUo7F1I"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 167043,
       "name": "Maurice",
       "url": "https://open.spotify.com/track/7l92bhAAWWCnRrbmekFSor"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Chambers",
+        "url": "https://open.spotify.com/album/61DhX4MuBUYTYnlrdBhyiN"
+      },
+      "artists": [
+        {
+          "name": "Ali Toygar",
+          "url": "https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H"
+        }
+      ],
+      "duration_ms": 145280,
+      "name": "Chambers",
+      "url": "https://open.spotify.com/track/4wHsmSi7FBZ2aZhQ3ook7M"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "If You Must Go",
-        "url": "https://open.spotify.com/album/3jEulBsDS8z6IMdS3GzSmd"
-      },
-      "artists": [
-        {
-          "name": "Larry McDavid",
-          "url": "https://open.spotify.com/artist/7hAPV8dP6bbuFTeoINNcqz"
-        }
-      ],
-      "duration_ms": 127624,
-      "name": "If You Must Go",
-      "url": "https://open.spotify.com/track/6u3YEpTK7Hc4mc2TIXCZeB"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/4JnGk3makGnlFtCyxfyALk"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 165903,
       "name": "Older",
       "url": "https://open.spotify.com/track/3yhqUuC2ahWeC8PP4mj5Gl"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "If You Must Go",
+        "url": "https://open.spotify.com/album/3jEulBsDS8z6IMdS3GzSmd"
+      },
+      "artists": [
+        {
+          "name": "Larry McDavid",
+          "url": "https://open.spotify.com/artist/7hAPV8dP6bbuFTeoINNcqz"
+        }
+      ],
+      "duration_ms": 127624,
+      "name": "If You Must Go",
+      "url": "https://open.spotify.com/track/6u3YEpTK7Hc4mc2TIXCZeB"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Summer Breeze",
-        "url": "https://open.spotify.com/album/4u92wdvS8QrFikLjgPBsZa"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Mayer",
-          "url": "https://open.spotify.com/artist/1N9hJSBYCDRgetd57dZukY"
-        }
-      ],
-      "duration_ms": 126969,
-      "name": "Under the Willow Tree",
-      "url": "https://open.spotify.com/track/3qto6LgDhFq9FGrAORDBzX"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Reflections Pt. 3 / RWKS",
         "url": "https://open.spotify.com/album/4lKjOi9WFEBvafMP8IXToY"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 213737,
       "name": "Badzura: Muse d'eau",
       "url": "https://open.spotify.com/track/2X32IY314Mt7NRi2taldLX"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/4u92wdvS8QrFikLjgPBsZa"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Mayer",
+          "url": "https://open.spotify.com/artist/1N9hJSBYCDRgetd57dZukY"
+        }
+      ],
+      "duration_ms": 126969,
+      "name": "Under the Willow Tree",
+      "url": "https://open.spotify.com/track/3qto6LgDhFq9FGrAORDBzX"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Memories In Red",
-        "url": "https://open.spotify.com/album/7qCicUGGOs2RmmV7QDFs7y"
-      },
-      "artists": [
-        {
-          "name": "Fredrik Lundberg",
-          "url": "https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Memories In Red",
-      "url": "https://open.spotify.com/track/7oj0ajSBpsNjSZAL51fIAM"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Reading Life",
         "url": "https://open.spotify.com/album/5IJMYSNkVFCLCa3MVnxXti"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 164500,
       "name": "Reading Life",
       "url": "https://open.spotify.com/track/67XsGbJOJeoHm7ez27nCar"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Memories In Red",
+        "url": "https://open.spotify.com/album/7qCicUGGOs2RmmV7QDFs7y"
+      },
+      "artists": [
+        {
+          "name": "Fredrik Lundberg",
+          "url": "https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Memories In Red",
+      "url": "https://open.spotify.com/track/7oj0ajSBpsNjSZAL51fIAM"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Soudainement",
-        "url": "https://open.spotify.com/album/1ifSKbmtHSrvkhBtp2Q9rX"
-      },
-      "artists": [
-        {
-          "name": "Alonzo Gautier",
-          "url": "https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Soudainement",
-      "url": "https://open.spotify.com/track/4k9OkooMVPlnoU2qJLKl0k"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Morgenstern",
         "url": "https://open.spotify.com/album/5YMCE4ptMtQgujet4mkiZb"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 189250,
       "name": "Morgenstern",
       "url": "https://open.spotify.com/track/1djt5vu3t1tQsaLyuS3DgA"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Soudainement",
+        "url": "https://open.spotify.com/album/1ifSKbmtHSrvkhBtp2Q9rX"
+      },
+      "artists": [
+        {
+          "name": "Alonzo Gautier",
+          "url": "https://open.spotify.com/artist/0f21lXm0HIIrfEBSJz2Oy3"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Soudainement",
+      "url": "https://open.spotify.com/track/4k9OkooMVPlnoU2qJLKl0k"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "L'habit ne fait pas le moine",
-        "url": "https://open.spotify.com/album/0jq8I1nrYieRyPt7tcl0Db"
+        "name": "Memoir",
+        "url": "https://open.spotify.com/album/6lxC3Lifp52AImYMNuaLi5"
       },
       "artists": [
         {
-          "name": "Pascal Duval",
-          "url": "https://open.spotify.com/artist/3VpKcUweq77xUWClI5oSYl"
+          "name": "Pied-\u00e0-Terre",
+          "url": "https://open.spotify.com/artist/3FChImdCbv0x9AYfNzGfvQ"
         }
       ],
-      "duration_ms": 180124,
-      "name": "L'habit ne fait pas le moine",
-      "url": "https://open.spotify.com/track/0XGbTlSbgCWgqL5KuQY2qz"
+      "duration_ms": 202000,
+      "name": "Memoir",
+      "url": "https://open.spotify.com/track/4K29oq8bXo7wel9P8QMY2n"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Memoir",
-        "url": "https://open.spotify.com/album/6lxC3Lifp52AImYMNuaLi5"
+        "name": "L'habit ne fait pas le moine",
+        "url": "https://open.spotify.com/album/0jq8I1nrYieRyPt7tcl0Db"
       },
       "artists": [
         {
-          "name": "Pied-\u00e0-Terre",
-          "url": "https://open.spotify.com/artist/3FChImdCbv0x9AYfNzGfvQ"
+          "name": "Pascal Duval",
+          "url": "https://open.spotify.com/artist/3VpKcUweq77xUWClI5oSYl"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Memoir",
-      "url": "https://open.spotify.com/track/4K29oq8bXo7wel9P8QMY2n"
+      "duration_ms": 180124,
+      "name": "L'habit ne fait pas le moine",
+      "url": "https://open.spotify.com/track/0XGbTlSbgCWgqL5KuQY2qz"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Asilah",
-        "url": "https://open.spotify.com/album/5ngz6Awk3fEPDe5GomDmRM"
-      },
-      "artists": [
-        {
-          "name": "Sumsar",
-          "url": "https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW"
-        }
-      ],
-      "duration_ms": 160086,
-      "name": "Asilah",
-      "url": "https://open.spotify.com/track/00iniRV1mt5IS6ep01e2Ts"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Ever so Slightly",
         "url": "https://open.spotify.com/album/3ITjZBoELygScB7OPp1hzq"
       },
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Doldrums",
-        "url": "https://open.spotify.com/album/40IZbOkmYrcusUzTzLmT0p"
+        "name": "Asilah",
+        "url": "https://open.spotify.com/album/5ngz6Awk3fEPDe5GomDmRM"
       },
       "artists": [
         {
-          "name": "Franz Becker",
-          "url": "https://open.spotify.com/artist/4QepILDr1gW2tDbFhWCl3t"
+          "name": "Sumsar",
+          "url": "https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW"
         }
       ],
-      "duration_ms": 201500,
-      "name": "Bellevue",
-      "url": "https://open.spotify.com/track/2Djv53hoQWobBuNHkSKpXC"
+      "duration_ms": 160086,
+      "name": "Asilah",
+      "url": "https://open.spotify.com/track/00iniRV1mt5IS6ep01e2Ts"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1351,6 +1335,22 @@
       "duration_ms": 146300,
       "name": "Here",
       "url": "https://open.spotify.com/track/3rLYj3hgyEw9BhGgcJER8O"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Doldrums",
+        "url": "https://open.spotify.com/album/40IZbOkmYrcusUzTzLmT0p"
+      },
+      "artists": [
+        {
+          "name": "Franz Becker",
+          "url": "https://open.spotify.com/artist/4QepILDr1gW2tDbFhWCl3t"
+        }
+      ],
+      "duration_ms": 201500,
+      "name": "Bellevue",
+      "url": "https://open.spotify.com/track/2Djv53hoQWobBuNHkSKpXC"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Munich Session",
-        "url": "https://open.spotify.com/album/5Dp1VpNlgHhyXoLVU3xUEC"
-      },
-      "artists": [
-        {
-          "name": "Carlos Cipa",
-          "url": "https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Arkata (Munich Session)",
-      "url": "https://open.spotify.com/track/2Vtfuz6CZSpOZ6f40k7Ywk"
-    },
-    {
-      "added_at": "2023-09-11 13:52:39",
-      "album": {
         "name": "Wunder",
         "url": "https://open.spotify.com/album/0inF6HuUMAG0pdakByW83E"
       },
@@ -1467,18 +1451,34 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/4ppzXvFRl1WF5nnjUq0Vjk"
+        "name": "Mursejler",
+        "url": "https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID"
       },
       "artists": [
         {
-          "name": "Loris Murray",
-          "url": "https://open.spotify.com/artist/0wIQaTVToNDimdZU9Kj2gk"
+          "name": "Jacob David",
+          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
         }
       ],
-      "duration_ms": 135874,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/6MV97AqFAH2PLEzfuX5qzS"
+      "duration_ms": 223000,
+      "name": "Snefri",
+      "url": "https://open.spotify.com/track/61WmSJkNz048nns7uCmn1E"
+    },
+    {
+      "added_at": "2023-09-11 13:52:39",
+      "album": {
+        "name": "Munich Session",
+        "url": "https://open.spotify.com/album/5Dp1VpNlgHhyXoLVU3xUEC"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cipa",
+          "url": "https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Arkata (Munich Session)",
+      "url": "https://open.spotify.com/track/2Vtfuz6CZSpOZ6f40k7Ywk"
     },
     {
       "added_at": "2023-09-11 13:52:39",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2023-09-11 13:52:39",
       "album": {
-        "name": "Mursejler",
-        "url": "https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID"
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/4ppzXvFRl1WF5nnjUq0Vjk"
       },
       "artists": [
         {
-          "name": "Jacob David",
-          "url": "https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP"
+          "name": "Loris Murray",
+          "url": "https://open.spotify.com/artist/0wIQaTVToNDimdZU9Kj2gk"
         }
       ],
-      "duration_ms": 223000,
-      "name": "Snefri",
-      "url": "https://open.spotify.com/track/61WmSJkNz048nns7uCmn1E"
+      "duration_ms": 135874,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/6MV97AqFAH2PLEzfuX5qzS"
     },
     {
       "added_at": "2023-09-11 13:52:39",

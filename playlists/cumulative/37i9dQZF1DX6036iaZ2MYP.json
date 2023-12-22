@@ -151,6 +151,24 @@
     },
     {
       "album": {
+        "name": "Al\u00f3",
+        "url": "https://open.spotify.com/album/0556miRSxmC7vGyTZuZ5Ex"
+      },
+      "artists": [
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176387,
+      "name": "Al\u00f3",
+      "url": "https://open.spotify.com/track/1PCqgmYwQQfZtDXSYvcAXy"
+    },
+    {
+      "album": {
         "name": "Amapiano",
         "url": "https://open.spotify.com/album/6SS3BYYRmatpgcIrmRCuI6"
       },
@@ -502,7 +520,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 173333,
       "name": "BAD TILL ETERNITY (feat. Zlatan)",
       "url": "https://open.spotify.com/track/2iJxQENVp6qHhHv1rdoPtX"
@@ -542,7 +560,7 @@
       ],
       "date_added": "2023-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 175789,
       "name": "Badman Love",
       "url": "https://open.spotify.com/track/1fDTVpr032sozi3eJl3PKt"
@@ -942,6 +960,24 @@
       "duration_ms": 129123,
       "name": "Cast",
       "url": "https://open.spotify.com/track/6BWgLorAwF17ofyu8361HM"
+    },
+    {
+      "album": {
+        "name": "Catalina",
+        "url": "https://open.spotify.com/album/1tSdRTgVoLYysXFOJL27a6"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/5r4Ip1WtFkVnYgeoYeq2kb"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161454,
+      "name": "Catalina",
+      "url": "https://open.spotify.com/track/70miFfHBsaa6QlSriWqY6l"
     },
     {
       "album": {
@@ -1366,8 +1402,8 @@
           "url": "https://open.spotify.com/artist/6mIfJvCK5jtTmX2ftY3lnw"
         },
         {
-          "name": "Jey Brownie",
-          "url": "https://open.spotify.com/artist/5CwbRXj3B6ZgSUeyn7GhlO"
+          "name": "JEY BROWNIE",
+          "url": "https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ"
         }
       ],
       "date_added": "2023-12-14",
@@ -1606,6 +1642,24 @@
       "duration_ms": 175412,
       "name": "Don't Say Much",
       "url": "https://open.spotify.com/track/09tqcm66azHdAwrH8V9ZAn"
+    },
+    {
+      "album": {
+        "name": "Donnez-moi",
+        "url": "https://open.spotify.com/album/68WusgUxH55TmIoMehtSNm"
+      },
+      "artists": [
+        {
+          "name": "Yanslo",
+          "url": "https://open.spotify.com/artist/3MiqACB1T9VnHWCV490ZPq"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168459,
+      "name": "Donnez-moi",
+      "url": "https://open.spotify.com/track/6x9WQM94zyPlTePhhqZDZP"
     },
     {
       "album": {
@@ -5634,7 +5688,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 161454,
       "name": "VIP",
       "url": "https://open.spotify.com/track/2V9d3FzVsuKj417TXh9uyx"

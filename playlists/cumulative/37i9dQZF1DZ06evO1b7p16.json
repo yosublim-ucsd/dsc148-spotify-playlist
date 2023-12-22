@@ -795,6 +795,28 @@
     },
     {
       "album": {
+        "name": "S'old (Remixes)",
+        "url": "https://open.spotify.com/album/0KLeIGewVPe1KRB9dv7Mue"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        },
+        {
+          "name": "Tushar Apte",
+          "url": "https://open.spotify.com/artist/6LCld2MR6JS728sAQkn2ve"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131733,
+      "name": "S'old - Springloaded Remix",
+      "url": "https://open.spotify.com/track/7gGuvt2UiEYj4KRxrfmQsh"
+    },
+    {
+      "album": {
         "name": "Where You Want To Be",
         "url": "https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9"
       },

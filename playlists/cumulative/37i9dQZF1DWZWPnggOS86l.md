@@ -4,7 +4,7 @@
 
 > Uma viagem no tempo com grandes hits da história do Emo no Brasil\. Foto: Emoponto
 
-67 songs - 3 hr 55 min
+68 songs - 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Cada Poça Dessa Rua Tem Um Pouco de Minhas Lágrimas](https://open.spotify.com/track/2Anewlbuh2nnlUc0bxIKgU) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Ciano](https://open.spotify.com/album/3LfBdvxxInsz67JEFGsZnO) | 5:54 | 2023-10-29 |  |
 | [Cada Poça Dessa Rua Tem Um Pouco de Minhas Lágrimas](https://open.spotify.com/track/4WMZXYJ57CZMX5W1bWcNHb) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Ciano](https://open.spotify.com/album/1nCMa3kC0kbnabvqKdH0aR) | 5:54 | 2023-03-02 | 2023-11-04 |
 | [Credenciais](https://open.spotify.com/track/7uGZL8ch8oTxEEbfile7ON) | [Hurtmold](https://open.spotify.com/artist/65RycP7iE8vX8tbzKy3top) | [Cozido](https://open.spotify.com/album/2L9l1Hshuxg4NufjpaQSF3) | 3:27 | 2023-03-02 |  |
-| [Criança](https://open.spotify.com/track/44Hewpc6MVWcWdQGzPfauT) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [Essa Noite Bateu Com um Sonho](https://open.spotify.com/album/0Ki5QTAVHWBjxPOh3uR4ux) | 4:36 | 2023-03-02 |  |
+| [Criança](https://open.spotify.com/track/2GldKzHbVO2zQR3ZeWjfrh) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [Essa Noite Bateu Com Um Sonho](https://open.spotify.com/album/4cFrj5k0r7SFBXXU50L9Ph) | 4:36 | 2023-10-29 |  |
+| [Criança](https://open.spotify.com/track/44Hewpc6MVWcWdQGzPfauT) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [Essa Noite Bateu Com um Sonho](https://open.spotify.com/album/0Ki5QTAVHWBjxPOh3uR4ux) | 4:36 | 2023-03-02 | 2023-12-22 |
 | [Danger Drive](https://open.spotify.com/track/51D3cNgovTqPUEKjZ3SjVl) | [Hateen](https://open.spotify.com/artist/4KDa0GMe5CxKSxEGtGFkxk), [Cesar Santisteban](https://open.spotify.com/artist/77EQoB9QxjmhDPwgUO3iJl), [Ricardo Di Roberto](https://open.spotify.com/artist/4lgaB76DMMxszkram6sxzN), [Boris Fratogianni](https://open.spotify.com/artist/0RA7PyF1TBYZNz9ujw9vUl) | [Dear Life](https://open.spotify.com/album/5o14YCLkiD4J9FrXIQC0d3) | 3:39 | 2023-03-02 |  |
 | [Danse Macabre](https://open.spotify.com/track/4ToGY2sw5NMxFyaEAHDnPZ) | [Scalene](https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z) | [Real / Surreal \(Deluxe\)](https://open.spotify.com/album/5QR2xVbwCNxOBgssCLEmhP) | 3:11 | 2023-03-02 |  |
 | [Deixar Partir](https://open.spotify.com/track/1KO2sIVY67lHRc0jpFOkUK) | [Emoponto](https://open.spotify.com/artist/5wybIAmMmNUQ4zmwRMODRb) | [Melhores Dias](https://open.spotify.com/album/07q5ehLPieuHrOoX3GO9KF) | 3:33 | 2023-03-02 |  |

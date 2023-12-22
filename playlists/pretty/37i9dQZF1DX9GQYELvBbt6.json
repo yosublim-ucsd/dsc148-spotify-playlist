@@ -1,12 +1,12 @@
 {
   "description": "\u9670\u30ad\u30e3\u3067\u3082\u3044\u3044\u3002\u96c6\u56e3\u306b\u306a\u3058\u3081\u306a\u304f\u3066\u3082\u3044\u3044\u3002\u3072\u3068\u308a\u3067\u904e\u3054\u3059\u6642\u9593\u306b\u3082\u3001\u97f3\u697d\u306f\u305d\u3063\u3068\u5bc4\u308a\u6dfb\u3063\u3066\u304f\u308c\u308b\u3002 Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 22134,
+  "num_followers": 22152,
   "original_name": "\u5b64\u72ec\u306e\u97f3\u304c\u8074\u3053\u3048\u308b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjc1YTg3Y2Q1NWE0YjIwODRmNzI5OTIyYmEwODAwMzYyMzFlNGEy",
+  "snapshot_id": "MCw4YjJmMDQ5YWY0YmE1NTU1NDY4OWI3YzIxZmRmNWRlMDk2ZTJlYmUw",
   "tracks": [
     {
       "added_at": "2023-12-19 15:00:00",
@@ -755,18 +755,18 @@
     {
       "added_at": "2023-12-19 15:00:00",
       "album": {
-        "name": "\u4e09\u6587\u5c0f\u8aac",
-        "url": "https://open.spotify.com/album/6Q5PZMhX9eKHW2jHSoGF0G"
+        "name": "12:45 (Stripped)",
+        "url": "https://open.spotify.com/album/0Tjtg0HRAovRk40NzgIwsv"
       },
       "artists": [
         {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+          "name": "Etham",
+          "url": "https://open.spotify.com/artist/5fywYLnKJi950Y5yMqavxm"
         }
       ],
-      "duration_ms": 280533,
-      "name": "\u4e09\u6587\u5c0f\u8aac",
-      "url": "https://open.spotify.com/track/7BMKWT0Vw0EKDELXLvuWCp"
+      "duration_ms": 179013,
+      "name": "12:45 - Stripped",
+      "url": "https://open.spotify.com/track/4edtsBlaX23OPYmhA4R0GP"
     },
     {
       "added_at": "2023-12-19 15:00:00",
@@ -787,18 +787,18 @@
     {
       "added_at": "2023-12-19 15:00:00",
       "album": {
-        "name": "12:45 (Stripped)",
-        "url": "https://open.spotify.com/album/0Tjtg0HRAovRk40NzgIwsv"
+        "name": "\u4e09\u6587\u5c0f\u8aac",
+        "url": "https://open.spotify.com/album/6Q5PZMhX9eKHW2jHSoGF0G"
       },
       "artists": [
         {
-          "name": "Etham",
-          "url": "https://open.spotify.com/artist/5fywYLnKJi950Y5yMqavxm"
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
         }
       ],
-      "duration_ms": 179013,
-      "name": "12:45 - Stripped",
-      "url": "https://open.spotify.com/track/4edtsBlaX23OPYmhA4R0GP"
+      "duration_ms": 280533,
+      "name": "\u4e09\u6587\u5c0f\u8aac",
+      "url": "https://open.spotify.com/track/7BMKWT0Vw0EKDELXLvuWCp"
     },
     {
       "added_at": "2023-12-19 15:00:00",

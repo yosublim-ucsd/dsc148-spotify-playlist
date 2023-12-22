@@ -11795,6 +11795,24 @@
     },
     {
       "album": {
+        "name": "\u3057\u3087\u3046\u3082\u306a\u3044\u591c",
+        "url": "https://open.spotify.com/album/31zPEVkCWiYlzMKJF2FvGc"
+      },
+      "artists": [
+        {
+          "name": "Soushi Sakiyama",
+          "url": "https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212798,
+      "name": "\u3057\u3087\u3046\u3082\u306a\u3044\u591c",
+      "url": "https://open.spotify.com/track/1mSDhkET9Qecp1EuPWX7Er"
+    },
+    {
+      "album": {
         "name": "\u305d\u306e\u4ed6\u5927\u52e2",
         "url": "https://open.spotify.com/album/5TgFCGghZFdgWgVB0wymxK"
       },
@@ -13598,7 +13616,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 257282,
       "name": "\u30b7\u30e5\u30ac\u30fc\u30bd\u30eb\u30c8",
       "url": "https://open.spotify.com/track/791f4rwkhCje7i8h3pn4yK"
@@ -14928,6 +14946,24 @@
       "duration_ms": 181853,
       "name": "\u30dc\u30fc\u30a4\u30ba \u30c9\u30f3\u30c8 \u30af\u30e9\u30a4",
       "url": "https://open.spotify.com/track/2oZM29QXfk0Oi6d15PjoSp"
+    },
+    {
+      "album": {
+        "name": "\u30de\u30b7\u30ed",
+        "url": "https://open.spotify.com/album/6pJMwyufoIy2yaGhDfjc9P"
+      },
+      "artists": [
+        {
+          "name": "sumika",
+          "url": "https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190296,
+      "name": "\u30de\u30b7\u30ed",
+      "url": "https://open.spotify.com/track/07px1DXwJ5VXyHA8396ySP"
     },
     {
       "album": {
@@ -18784,7 +18820,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 239106,
       "name": "\u71c8",
       "url": "https://open.spotify.com/track/7jtXjZ3JViUo9M3ogYAapO"

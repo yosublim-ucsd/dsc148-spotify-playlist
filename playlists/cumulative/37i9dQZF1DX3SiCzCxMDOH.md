@@ -4,7 +4,7 @@
 
 > Find your study focus with calm instrumental Jazz.
 
-679 songs - 1 day 15 hr 55 min
+683 songs - 1 day 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [I Will](https://open.spotify.com/track/1L7N7WKoeTBDThE4eCX41B) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [I Will](https://open.spotify.com/album/4WRGSWTEHvrWfmIdv382O5) | 2:48 | 2023-06-22 |  |
 | [I Will Wait For You](https://open.spotify.com/track/0YFqTbYqglQhH2mkj1Cb1z) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [I Will Wait For You](https://open.spotify.com/album/0O6hlZssMqH4QAG1zDoWhH) | 2:16 | 2022-04-11 | 2022-10-28 |
 | [I'll Be Seeing You](https://open.spotify.com/track/6n4yC8xONFzknfbasLvGZH) | [Goldilocks Trio](https://open.spotify.com/artist/2fVn4UU5CHiuJtJwHx0q7M) | [Moonlight in Vermont](https://open.spotify.com/album/3m63lHtdqEuoaRXHmwpqoJ) | 3:01 | 2022-08-17 | 2023-03-25 |
+| [I'll Be There](https://open.spotify.com/track/02PAR02BrdtAdLFOuPIBWP) | [Bernstein Square](https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK) | [I'll Be There](https://open.spotify.com/album/6aEjFrveJnlIDHj8ImUhgH) | 3:50 | 2023-12-22 |  |
 | [I'll never stop loving you](https://open.spotify.com/track/0MYJbAm4cQxWzKVGmIp7KS) | [Jennie Reigen](https://open.spotify.com/artist/4gefXT9y8hdGtxBmkHN2HA) | [I'll never stop loving you](https://open.spotify.com/album/7D7IqqcmJPkvbxjQFBxZDk) | 3:51 | 2023-02-16 |  |
 | [I'll Remember April](https://open.spotify.com/track/2cZnKG4dSaeFUjzseX2FcJ) | [Jean Fines](https://open.spotify.com/artist/4ihEX5weyJhILB9sbuT5K7) | [I'll Remember April](https://open.spotify.com/album/69LhLZfkMImf8AL2mLhwps) | 3:27 | 2023-09-08 |  |
 | [I'll Take Romance](https://open.spotify.com/track/0QPlQSzKFeCaUUsTKI5l3H) | [Cecil Andrews](https://open.spotify.com/artist/3w12mAdbXsNTiBc4xhM0OV) | [I'll Take Romance](https://open.spotify.com/album/3P6Gr9HoWa95zNt5TKb62t) | 3:46 | 2022-11-17 | 2023-04-14 |
@@ -289,6 +290,7 @@
 | [In Space And Time](https://open.spotify.com/track/64ns7jHUJWaFn25DXc8aMK) | [Quinn Perry Trio](https://open.spotify.com/artist/16azKEAxILijPKm6gQf9Rb) | [In Space And Time](https://open.spotify.com/album/6bye45GDWXbdltU1GRSP7g) | 3:12 | 2023-08-10 |  |
 | [In the Blink of an Eye](https://open.spotify.com/track/6ojZVftxBE1dGfkJHvE6Lb) | [Urskogen Jazz](https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A) | [In the Blink of an Eye](https://open.spotify.com/album/5tkmYVK9VnNwsYXoyNyf5i) | 3:28 | 2023-05-25 |  |
 | [In the Days of our Love](https://open.spotify.com/track/74x6ocYFnfjVf5DdtFR7gP) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [In the Days of our Love](https://open.spotify.com/album/01iCII3qvoMbwotsY5hjk0) | 3:40 | 2022-04-11 |  |
+| [In the Mood for Romance](https://open.spotify.com/track/3hGuzdYTPih41oH3L2m1fu) | [Sidney Hatfield Trio](https://open.spotify.com/artist/6H3KpzoFcsyiizhxJDboDB) | [In the Mood for Romance](https://open.spotify.com/album/51WtIwzbjyyTsiGXwdiwUR) | 3:39 | 2023-12-22 |  |
 | [In The Normal World](https://open.spotify.com/track/1ZmQ6hnTsXicbT8DnOmdBi) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [In The Normal World](https://open.spotify.com/album/6AP34atxToIcX9nDZYt6W3) | 3:40 | 2022-10-27 |  |
 | [In the Rain](https://open.spotify.com/track/3cT3PwSMVB7wKkeiLvfYez) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [In the Rain](https://open.spotify.com/album/5Oa3uJhlz8F0wjNe41IvPX) | 3:58 | 2023-08-10 |  |
 | [In The Wee Small Hours Of The Morning](https://open.spotify.com/track/2UPYanBCFUE1XeJUxFrMFP) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [In The Wee Small Hours Of The Morning](https://open.spotify.com/album/1n2ZwnIo8yDU6T64f2ARiK) | 3:54 | 2023-01-26 |  |
@@ -537,6 +539,7 @@
 | [Star Eyes](https://open.spotify.com/track/3fJsrfPYlvYrll2306xwJn) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Star Eyes](https://open.spotify.com/album/6sscV2kzdu75DlL4b3bIDX) | 4:29 | 2022-08-10 | 2023-02-24 |
 | [Stardust](https://open.spotify.com/track/1BBwIeicvH1pRRyWZRz2cG) | [Bridgerton Vail](https://open.spotify.com/artist/258zL72kPsK1Y6IqgdoPDC) | [Stardust](https://open.spotify.com/album/3x56DyddKPzuzkj8SmFkdr) | 3:46 | 2022-08-10 |  |
 | [Starry Skies and Saxophones](https://open.spotify.com/track/3GvTDh5qbXRvpjcVE5r34w) | [Anita Rosswell](https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk) | [Starry Skies and Saxophones](https://open.spotify.com/album/5rkoaMS3FOnul78sYUGdB8) | 3:43 | 2023-12-08 |  |
+| [Stars Above](https://open.spotify.com/track/2iMQAwqqjCEeLlnPppBOYW) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Stars Above](https://open.spotify.com/album/0jbSSFBfcHSJl7UVaCk1S9) | 2:58 | 2023-12-22 |  |
 | [Stars Fell On Alabama](https://open.spotify.com/track/6V9XxCoJ9Ujckla3A0aUYL) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [Stars Fell On Alabama](https://open.spotify.com/album/1jJKCnldeVDpCo5p7DFXJp) | 4:04 | 2022-08-10 |  |
 | [Stella by Starlight](https://open.spotify.com/track/3wQLuUwHezzoYCmKWztTxm) | [Tommies Trio](https://open.spotify.com/artist/6A8VCzSDHW4C4Q2J0sIJJN) | [Stella by Starlight](https://open.spotify.com/album/1vDFNuVUq9NcQ0QCRpoVbN) | 3:57 | 2022-04-11 |  |
 | [Steps Ahead](https://open.spotify.com/track/3PglbYgSF2NiYDRMiONnio) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Steps Ahead](https://open.spotify.com/album/2pVrdxaWpxPeFLtAz3EYIh) | 3:22 | 2022-05-10 |  |
@@ -651,6 +654,7 @@
 | [When You Are Around](https://open.spotify.com/track/3WUrXHDowLk25UtALiohVD) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [When You Are Around](https://open.spotify.com/album/3v6ovPPFtr6E6vpVuBw2bi) | 3:11 | 2022-04-11 | 2022-09-21 |
 | [When You're Here](https://open.spotify.com/track/0oXrVmcJVCd7043iyHmmUI) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Things To Look Forward To](https://open.spotify.com/album/6HKoV1sIgJA7qgmwiX8Joo) | 5:21 | 2023-02-02 |  |
 | [When Your Lover Has Gone](https://open.spotify.com/track/0TgEPps1Z86WY2henEcH2T) | [Ray Horne Trio](https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT) | [When Your Lover Has Gone](https://open.spotify.com/album/37JPTyLv4CmNEQzlQfjSRI) | 2:43 | 2023-04-13 |  |
+| [Where or When](https://open.spotify.com/track/5ABObbZnTJIMSOfaNcu0xm) | [Joe Wilson Trio](https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E) | [Where or when](https://open.spotify.com/album/1Q1UqyRWrgL4JK2hbyiTQA) | 3:28 | 2023-12-22 |  |
 | [Where Two Oceans Meet](https://open.spotify.com/track/6zYKe47ZWgbHRdwUUr52TJ) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [Where Two Oceans Meet](https://open.spotify.com/album/3EMRqLCAtf4AviavLTrQlw) | 3:13 | 2023-08-10 |  |
 | [Whispering Skies](https://open.spotify.com/track/1paocj4BrXXNPAuCBXUYwB) | [Douglas Ruby Trio](https://open.spotify.com/artist/1viVBXkZrTMnLT6hsFhiMM) | [Whispering Skies](https://open.spotify.com/album/2y9gWuPjoSrvNrWDOFb3aH) | 3:26 | 2023-08-24 |  |
 | [Whispers of jazz in the Wind](https://open.spotify.com/track/1MaPPNPwSHNoEraAbmhsrp) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [Whispers of jazz in the Wind](https://open.spotify.com/album/5Oz37JyAwOb2In1O1iMBQZ) | 4:25 | 2023-05-25 |  |

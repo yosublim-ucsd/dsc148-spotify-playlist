@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: G\-laspada
+> Il meglio dell'R&B italiano\. Cover: Livio Cori
 
-440 songs - 21 hr 48 min
+442 songs - 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [La più bella](https://open.spotify.com/track/6mBrMo2CUoou15ZRqJpmI3) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [La più bella](https://open.spotify.com/album/21XWxQ4WH8wyDoKb8rGP3Z) | 3:21 | 2022-05-05 | 2022-09-09 |
 | [La Ruota](https://open.spotify.com/track/07QINcI3c3RB3RKEDleJ1e) | [OIDA](https://open.spotify.com/artist/4P0X1UyVaHhoe2lCHKQRef) | [La Ruota](https://open.spotify.com/album/2gC0l4h2w09SRuQHUeDvnG) | 3:24 | 2022-06-09 | 2022-07-29 |
 | [LA TIGRE \(feat\. GELO\)](https://open.spotify.com/track/1WOcVg5uTpw0KdmY3yO2lI) | [Matteo Paolillo \- Icaro](https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J), [Lolloflow](https://open.spotify.com/artist/6od7hFnrVLa1zCuSyQimic), [GELO](https://open.spotify.com/artist/7s4IAtCfcA31LaTyEHUfjn) | [COME TE](https://open.spotify.com/album/5JitUbks61rKLb3lkg7SPZ) | 2:39 | 2023-05-18 | 2023-06-09 |
-| [Lacreme](https://open.spotify.com/track/2u06zfITzLEtglB2Jkr2pa) | [SVM](https://open.spotify.com/artist/3wLbD7kI7V3nruSMNuajEL), [LEO](https://open.spotify.com/artist/5AskeiOm2rZPjeMn7V26sp) | [Lacreme](https://open.spotify.com/album/69MYsY05VjQEjxW14MJ7mM) | 3:07 | 2022-06-09 |  |
+| [Lacreme](https://open.spotify.com/track/2u06zfITzLEtglB2Jkr2pa) | [SVM](https://open.spotify.com/artist/3wLbD7kI7V3nruSMNuajEL), [LEO](https://open.spotify.com/artist/5AskeiOm2rZPjeMn7V26sp) | [Lacreme](https://open.spotify.com/album/69MYsY05VjQEjxW14MJ7mM) | 3:07 | 2022-06-09 | 2023-12-22 |
 | [LACRIME D'ORO](https://open.spotify.com/track/4HlpFmqICHyhgPZJlcp3Vw) | [Bobby Wanna](https://open.spotify.com/artist/3MloiHhHN5KznOzRWZKwOH) | [LACRIME D'ORO](https://open.spotify.com/album/1yQj474qyH6wbzfQ6mlsmw) | 2:40 | 2022-05-19 | 2023-01-27 |
 | [Lacrime dolci](https://open.spotify.com/track/5jTUqOCEHL8VzXGibJWlwf) | [Giulia Penna](https://open.spotify.com/artist/3LVgsRfnE5D4Qt83Qj6dYS) | [Lacrime dolci](https://open.spotify.com/album/6Fpaqs6bsEXWhG2bE2NgCm) | 2:46 | 2022-05-05 | 2022-07-29 |
 | [lady](https://open.spotify.com/track/7dyGck536nTt7BaGcEyOXJ) | [Jess](https://open.spotify.com/artist/2frtodbBy4VwQlIkfZd0kw) | [lady](https://open.spotify.com/album/0W2Hl8EavczdDz8aDRf28d) | 3:13 | 2022-11-24 | 2023-02-03 |
@@ -296,6 +296,7 @@
 | [Ossessione](https://open.spotify.com/track/2xTA9Fzx9W1VoqZAslxhgU) | [Riél](https://open.spotify.com/artist/0LGmCHNVaxGNAPTb73ndWL) | [Ossessione](https://open.spotify.com/album/4l8tNPanRmYX7lLkb5qbPy) | 3:08 | 2022-05-05 | 2022-08-12 |
 | [Paloma](https://open.spotify.com/track/3HKKh1DDcgRxOFAFFd0sAi) | [Nane'](https://open.spotify.com/artist/3CIpt1rEz9sUpijNv8W9zM) | [Paloma](https://open.spotify.com/album/7051vm5XsmQ96gajI3qhcm) | 2:26 | 2022-10-13 | 2023-04-14 |
 | [Paradiso & Inferno](https://open.spotify.com/track/4jmdFKP6vJlEOgTXTftaHW) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Paradiso & Inferno](https://open.spotify.com/album/5pS1WGsTET4iAXgeueFCM9) | 2:16 | 2022-06-02 | 2023-06-16 |
+| [Parisien](https://open.spotify.com/track/6cSaFsSlu0KpsGSCjDMkVm) | [GALLI](https://open.spotify.com/artist/5mBJ4KEcCGC9A92wlI4Mue), [poivediamo](https://open.spotify.com/artist/0RKXkIFbxgg9qO6QoJbKsu) | [Parisien](https://open.spotify.com/album/06xiiIgtEDYOVWd1rSFBrE) | 2:40 | 2023-12-21 |  |
 | [PARLAME 'E TE \(con Federico Di Napoli & O'Tsunami\)](https://open.spotify.com/track/5hdEy03sDt2rk2hDMGUIUg) | [VTR](https://open.spotify.com/artist/0FAe1lSd4Zi6wCIHbgGhI1), [Federico Di Napoli](https://open.spotify.com/artist/4M2iXQKbmJhbcQEMpxCnxu), [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm) | [PARLAME 'E TE \(con Federico Di Napoli & O'Tsunami\)](https://open.spotify.com/album/4ruBCav6dbun5BYOPQq2hd) | 2:53 | 2023-08-31 | 2023-10-27 |
 | [parole dette male](https://open.spotify.com/track/72FMKiJcDj3jjUFJgLvZ5Q) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [parole dette male](https://open.spotify.com/album/2xfmbz3t4vbIQITzKJrmXd) | 3:06 | 2023-02-09 | 2023-09-15 |
 | [Pas pour toi](https://open.spotify.com/track/4ScqPc9ABKT0czGYbc0HLK) | [Yasmina](https://open.spotify.com/artist/0Ylj9zDExomAj5GhujYkyI) | [Pas pour toi](https://open.spotify.com/album/5kw4tP7YxEDnEvJm4Hj2N2) | 3:19 | 2022-06-30 | 2022-07-29 |
@@ -442,6 +443,7 @@
 | [Vivere](https://open.spotify.com/track/40P8i5YKA3xMDSozUw1vgK) | [Saintess](https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J) | [Vivere](https://open.spotify.com/album/6REfVvtABJIP3wVIvoyOEP) | 2:19 | 2023-09-28 | 2023-10-27 |
 | [Volevo Portarti Al Mare](https://open.spotify.com/track/0GXIWEkfHN5RE3G9Y67bqr) | [Kaze](https://open.spotify.com/artist/7whJIhjyiftRQjoAKJVNjU) | [Volevo Portarti Al Mare](https://open.spotify.com/album/0KIp2ubNGwlo2H9DDpegfV) | 3:17 | 2022-05-26 | 2023-04-14 |
 | [voragini](https://open.spotify.com/track/2gJs1MMvEYpRuJdSfm0363) | [Valucre](https://open.spotify.com/artist/6Aw7jZkZ38TArxniZ04Sma) | [voragini](https://open.spotify.com/album/2YyOB64wpE88iBRZvrw0Rb) | 2:48 | 2023-06-15 | 2023-11-24 |
+| [VUOI DIRMI](https://open.spotify.com/track/41GPkxPP6mfi8dSldCKZRG) | [Florence](https://open.spotify.com/artist/5qyGTDa4a3jH5cGdH6G9M6), [dNoise](https://open.spotify.com/artist/410eOpymx2am8CnIi1TfRe) | [VUOI DIRMI](https://open.spotify.com/album/0b1qKcsDX2Y85mUoSkg2bh) | 3:02 | 2023-12-21 |  |
 | [WHY U NAKED?](https://open.spotify.com/track/5Tjs43LYIKEdlLU7EXlM7Q) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC), [Lil Busso](https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051) | [WHY U NAKED?](https://open.spotify.com/album/6lzxkrJYYDItv1ASIKavBN) | 2:35 | 2022-10-27 | 2023-03-18 |
 | [x averti](https://open.spotify.com/track/3tThvTQnw9UiMiYQFU3GwC) | [Evra](https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb), [Simon Bayle](https://open.spotify.com/artist/38c5fkv7JWziTzgp0Fj3Ay) | [x averti](https://open.spotify.com/album/2uw9IwbZRJwsAZj1Jx8hUu) | 3:00 | 2022-05-12 | 2022-11-11 |
 | [Yakuza](https://open.spotify.com/track/6Q4I5oIDhnRwNhbLwW7dN1) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [Radio Gotham](https://open.spotify.com/album/6hGUJpYzwN9DPqVUC2onlU) | 2:43 | 2023-01-19 |  |

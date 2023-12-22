@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/7EYxnpva8IlIgJ42z96zXH.md) - cumulative - [plain](/playlists/plain/7EYxnpva8IlIgJ42z96zXH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7EYxnpva8IlIgJ42z96zXH)
 
-### [Morning Workout \|\| Top 100 2023 Dance Hits](https://open.spotify.com/playlist/7EYxnpva8IlIgJ42z96zXH)
+### [Morning Workout 2024](https://open.spotify.com/playlist/7EYxnpva8IlIgJ42z96zXH)
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly!
 

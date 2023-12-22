@@ -16773,6 +16773,24 @@
     },
     {
       "album": {
+        "name": "Solitude Velocity - Slowed + Loop",
+        "url": "https://open.spotify.com/album/3IZA0CxZOrAHBVfJmZFnFo"
+      },
+      "artists": [
+        {
+          "name": "Luke Willies",
+          "url": "https://open.spotify.com/artist/3uIws1bbX1b53e0xJpz94r"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358056,
+      "name": "Solitude Velocity - Slowed + Loop",
+      "url": "https://open.spotify.com/track/7qqZLIcRL8BTXh12vOBgYQ"
+    },
+    {
+      "album": {
         "name": "Solstice",
         "url": "https://open.spotify.com/album/4VVYjDuvidxSiGwfcBUykX"
       },

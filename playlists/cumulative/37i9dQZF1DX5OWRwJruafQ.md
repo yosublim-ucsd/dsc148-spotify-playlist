@@ -2,9 +2,9 @@
 
 ### [Ghaint Flow](https://open.spotify.com/playlist/37i9dQZF1DX5OWRwJruafQ)
 
-> Keep it Punjabi, Keep it Real\. Cover: Prem Dhillon
+> Keep it Punjabi, Keep it Real\. Cover: Sukha
 
-275 songs - 13 hr 6 min
+276 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [295 x2](https://open.spotify.com/track/5H7WUlLsv5wkCrQXpUBExL) | [Singga](https://open.spotify.com/artist/6nmrEhAdodPuhMLMbefluW) | [295 X2](https://open.spotify.com/album/5YUr0cxGAUt1RrOwzOenp8) | 4:27 | 2023-11-07 | 2023-11-16 |
 | [32 Bor](https://open.spotify.com/track/2dc0rGPWK6vA29OfIG64dP) | [Bhalwaan](https://open.spotify.com/artist/0B6Y4zlto5DbCaU6eNLvXi), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Mxrci Season, Vol\. 1](https://open.spotify.com/album/6aaKM8CzO2kABbJjPjNUdZ) | 3:06 | 2023-10-19 | 2023-11-08 |
 | [65 Inch Ghodian](https://open.spotify.com/track/6wZzl3g6LhAk1ry6MoZnlx) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [65 Inch Ghodian](https://open.spotify.com/album/1Cr8qrPYfkbmvPcNVfdoeU) | 1:56 | 2023-03-29 |  |
+| [8 ASLE](https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:41 | 2023-12-21 |  |
 | [ACE](https://open.spotify.com/track/3o4PICY3UQ0nlCEcnbcgBs) | [Te\-G Sandhu](https://open.spotify.com/artist/3FnOP57D6zVHW05rdummqf) | [ACE](https://open.spotify.com/album/2grSvfHRTJ4Fwc44e7Y2UF) | 2:23 | 2023-12-18 |  |
 | [Adulthood](https://open.spotify.com/track/5D8O2iH92KcvTpHRb691DF) | [Joban Sandhu](https://open.spotify.com/artist/5IMKL9U2FzIB9fFn2kILAf) | [Adulthood](https://open.spotify.com/album/1vYVjhzmdVzLN6pM8enlFO) | 1:09 | 2023-03-29 | 2023-04-21 |
 | [Ahhi Kuj Khatteya](https://open.spotify.com/track/6prYVb7vpt7o7zx7q2BaYM) | [Gurtaj](https://open.spotify.com/artist/3z8g7U9Esi3qXRo34zcmfO), [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Davi Singh](https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0) | [Ahhi Kuj Khatteya](https://open.spotify.com/album/1Stt5cMP16F8sn3bALd4ml) | 2:23 | 2023-04-20 | 2023-05-06 |
@@ -143,7 +144,7 @@
 | [JOURNEY](https://open.spotify.com/track/1M0eK04kGu4ucZ08VVyP4o) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [GLOBAL WARNING](https://open.spotify.com/album/5dbxmcCgZQLdsLtZW5398p) | 2:54 | 2023-07-31 |  |
 | [Judge](https://open.spotify.com/track/2t3u2kqwm3GgZtXh6AZLNN) | [Sucha Yaar](https://open.spotify.com/artist/3796Al8KerYiCPaOK1vHZJ), [Spy Boi](https://open.spotify.com/artist/1gttYcIL5LonZdudIP1HLb) | [Buss](https://open.spotify.com/album/7ByQiP8tW3nB0dBzdislAz) | 2:25 | 2023-09-14 | 2023-11-08 |
 | [Jungle](https://open.spotify.com/track/5PBoyMck1mdc6zKeHQjeBS) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [BK](https://open.spotify.com/artist/3O96LSvlQrNeKpZ8FuZkEk), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Jungle](https://open.spotify.com/album/14pOspmSYB2qjQ7FE2xMxd) | 3:00 | 2023-05-26 | 2023-06-10 |
-| [Kaka](https://open.spotify.com/track/31JDOPIVK99SMS9gGSi8LY) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu), [Sudesh Kumari](https://open.spotify.com/artist/6ISgfsT7lr3JXu6RfOj46X) | [Kaka](https://open.spotify.com/album/7LQsR1iVrL8BL78lJzu38Q) | 1:56 | 2023-12-06 |  |
+| [Kaka](https://open.spotify.com/track/31JDOPIVK99SMS9gGSi8LY) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu), [Sudesh Kumari](https://open.spotify.com/artist/6ISgfsT7lr3JXu6RfOj46X) | [Kaka](https://open.spotify.com/album/7LQsR1iVrL8BL78lJzu38Q) | 1:56 | 2023-12-06 | 2023-12-22 |
 | [Kalakaar](https://open.spotify.com/track/1P2kP6CnEQunaOaOQVcxDE) | [Raka](https://open.spotify.com/artist/6DaYS7s7hXtNtuGwBICzVB) | [Kalakaar](https://open.spotify.com/album/0vbvJKEtYuVEeOKwAMvOxx) | 2:39 | 2023-05-24 | 2023-05-27 |
 | [Khadaak](https://open.spotify.com/track/2l4WWoL2e7XL77hT3r4iee) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS), [Shevv](https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok), [Micheal](https://open.spotify.com/artist/4HITSZH8b5ITVXjg91mFY1) | [Khadaak](https://open.spotify.com/album/0Wjak0wq7GXx6Gkf0FN1Q5) | 2:37 | 2023-09-21 |  |
 | [Khauf \(From "Zindagi Zindabaad"\)](https://open.spotify.com/track/4AOblHfneYWvjUl1clwzLU) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Preet Hundal](https://open.spotify.com/artist/3jbXizgjZpi8FZ9g28wb1c), [Pardeep Malak](https://open.spotify.com/artist/2adVNkNRt1fiCW4vIeK2NO) | [Khauf \(From "Zindagi Zindabaad"\)](https://open.spotify.com/album/4k5j3g48igjYLTmFGITUSc) | 3:18 | 2023-10-11 |  |

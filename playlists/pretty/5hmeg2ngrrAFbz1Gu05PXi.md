@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5hmeg2ngrrAFbz1Gu05PXi.md) - [plain]
 
 > Get into the flow and stay focused while writing code, with music curated by the JetBrains team\. www.jetbrains.com
 
-[JetBrains](https://open.spotify.com/user/31wtooekigsgd6objezm7wf3kdrm) - 4,483 likes - 120 songs - 10 hr 35 min
+[JetBrains](https://open.spotify.com/user/31wtooekigsgd6objezm7wf3kdrm) - 4,511 likes - 100 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,25 +108,5 @@ pretty - [cumulative](/playlists/cumulative/5hmeg2ngrrAFbz1Gu05PXi.md) - [plain]
 | 98 | [Pluto](https://open.spotify.com/track/4v2qF5diFRuFbTVHwZxNMp) | [Dreamers Delight](https://open.spotify.com/artist/1bDXdxSg3Ve7V7f3bteIyk) | [Pluto](https://open.spotify.com/album/4kYiNJPycfJZ3ZwBPzIWkt) | 3:16 |
 | 99 | [Manzanita](https://open.spotify.com/track/3qkRA6vWRJT0XVAbTKCzU2) | [Kalya Scintilla](https://open.spotify.com/artist/4OaiBs44dwDgn9WjDD8jg4) | [Listen to the Trees](https://open.spotify.com/album/3qp0uTYHl6stm55sEVRJMT) | 5:58 |
 | 100 | [Polynomial\-C](https://open.spotify.com/track/3iHGhKJc0OR5m37pVyRLrQ) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Classics](https://open.spotify.com/album/3SLSq9tzQ8Wq8RWuo0MaXG) | 4:46 |
-| 101 | [Crockett's Theme \- Original Mix](https://open.spotify.com/track/445YwSgIoXj8yJlK7i9oKo) | [Michael Cassette](https://open.spotify.com/artist/3xDWzhtOet1qJ08MLimhSd) | [Temporarity](https://open.spotify.com/album/5sh4WQrvz44dqgdoWaTk7j) | 7:06 |
-| 102 | [Dream Sequence](https://open.spotify.com/track/2wzYmJLOrxNA1d2qRf7myi) | [Break Science](https://open.spotify.com/artist/1O9rhv6tMHchfb6Qx2yd6O), [Dreamers Delight](https://open.spotify.com/artist/1bDXdxSg3Ve7V7f3bteIyk) | [Dream Sequence](https://open.spotify.com/album/0Qp0oJOsWUb0e4yzViEUKE) | 4:24 |
-| 103 | [An Ending \(Ascent\) \- Remastered 2005](https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:26 |
-| 104 | [Branches](https://open.spotify.com/track/77WHBXjGPaP3oltNy1FxST) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [Branches \- EP](https://open.spotify.com/album/7EqHaqyThUjvatfKnird1Q) | 5:03 |
-| 105 | [Riding the Froth](https://open.spotify.com/track/5BrcqY1B2yGeY4XYiKkKBy) | [Birds of Paradise](https://open.spotify.com/artist/2cOMs1YerprZJ15SDrESaQ), [Morphatrix](https://open.spotify.com/artist/5AmJt0gC6AZokY5uDBGKtV) | [Riding the Froth](https://open.spotify.com/album/77Omivq51cpzYjTKZHl48e) | 6:15 |
-| 106 | [Sunday Stroll \(feat\. Clark Smith & Wildabeast\)](https://open.spotify.com/track/0MpW0Za5kwtPciLEPmdx52) | [Late Night Radio](https://open.spotify.com/artist/0FIRQJT2PBffTJEZvipVi2), [Clark Smith](https://open.spotify.com/artist/5uWD3JwI2XpjnGcdSP8Lz3), [Wildabeast](https://open.spotify.com/artist/4UDyP9JrOCJBCUiCc5Eqkv) | [Reflective Tangents](https://open.spotify.com/album/0yKl9t5eOtdm1adCMjdjP5) | 3:48 |
-| 107 | [Nami](https://open.spotify.com/track/6iCQdVyQF5RfMEJWS031Og) | [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [Kings](https://open.spotify.com/album/7K3hEvdkhH7LRauBZrMKDP) | 3:48 |
-| 108 | [Curiosity](https://open.spotify.com/track/1nZBDSwhT22lduk4x3K76E) | [Random Rab](https://open.spotify.com/artist/4w8MWlPCLi8uZRkCMyrtCO) | [Formless Edge](https://open.spotify.com/album/4W1iY4Uhnhx5apgB8qRfxg) | 7:18 |
-| 109 | [The Painful Way](https://open.spotify.com/track/6XpA6R9pRVgZcjarViwOm0) | [Darren Korb](https://open.spotify.com/artist/0ZMWrgLff357yxLyEU77a1) | [Hades: Original Soundtrack](https://open.spotify.com/album/5jTYZA6b4VoSRnR5TMldgb) | 6:53 |
-| 110 | [Cycle Eyes \- Psychemagik Lagoon Nebula Mix](https://open.spotify.com/track/6hrHyPsfIN1xYPPqBhYNXT) | [Cosmonauts](https://open.spotify.com/artist/61N8Fn3r75LyVmOiDfym94) | [Cycle Eyes](https://open.spotify.com/album/5omJVAX9GznJ3HDU5N437O) | 8:21 |
-| 111 | [Interloper](https://open.spotify.com/track/1nbxaFALcmHQ1SrbcWl934) | [Carbon Based Lifeforms](https://open.spotify.com/artist/38DX4hQVvPBs3PThDIAK11) | [Interloper \(2015 Remaster\)](https://open.spotify.com/album/3jBcf9rVNv5xe7K9eqTd7Z) | 6:31 |
-| 112 | [The Descent](https://open.spotify.com/track/459INdwzvu2vElqbndkD6x) | [CharlestheFirst](https://open.spotify.com/artist/2FTj5ijy8lP59d2V9dHR6I) | [The Descent](https://open.spotify.com/album/3q7VP5N3TDan6MnxHbKhv1) | 4:05 |
-| 113 | [Nightwalking Your Memory \- 2011 Remaster](https://open.spotify.com/track/65gjEjrifNIm9MzuEhMoFs) | [Vector Lovers](https://open.spotify.com/artist/2LK47LL5KdPAUJKFffzp9B) | [Electrospective](https://open.spotify.com/album/2TVzGGiNCrkuIJpZHBRpP9) | 5:06 |
-| 114 | [Hold Me \(Instrumental\)](https://open.spotify.com/track/6E3j4helkCIaldqTkhCWW1) | [Milosh](https://open.spotify.com/artist/4KRGjXEJ1yed7F3ALFOAEO) | [Jetlag Instrumentals](https://open.spotify.com/album/3iAFREIRLS35zRqzaTAWep) | 8:13 |
-| 115 | [MOS 6581](https://open.spotify.com/track/3ZRhh0wXdAZd2CTFmO7x0M) | [Carbon Based Lifeforms](https://open.spotify.com/artist/38DX4hQVvPBs3PThDIAK11) | [Hydroponic Garden \(2015 Remaster\)](https://open.spotify.com/album/4ZkNd9ALV3jkWmoZ9Um3lP) | 7:20 |
-| 116 | [Kow Chow](https://open.spotify.com/track/5CGWUQ3asNMDqnYxLmlMGi) | [Sunmonx](https://open.spotify.com/artist/4jIcnlU3POWCKZRYo6UtwQ) | [Power Salad](https://open.spotify.com/album/0F6YKEYXVF9mNhAVlp6q4j) | 7:52 |
-| 117 | [Central Plain](https://open.spotify.com/track/5IqQCMrzCKpSs2kKoQbffY) | [Carbon Based Lifeforms](https://open.spotify.com/artist/38DX4hQVvPBs3PThDIAK11) | [Interloper \(2015 Remaster\)](https://open.spotify.com/album/3jBcf9rVNv5xe7K9eqTd7Z) | 7:38 |
-| 118 | [Vladimir Martynov: The Beatitudes](https://open.spotify.com/track/35bfCo1peMNIjrsrMPm7Aw) | [Vladimir Martynov](https://open.spotify.com/artist/5oLXPtqJveGbowHgv9g0Y8), [Kronos Quartet](https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3) | [Music of Vladimir Martynov](https://open.spotify.com/album/1rI45ExlAyl1beRN0efNcd) | 5:26 |
-| 119 | [Mad Blunted Jazz](https://open.spotify.com/track/5DBHf9TJyINVithuciTmic) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Underground Vibes](https://open.spotify.com/album/0HvGtxzwRl8L0Oq7HHOIdT) | 5:10 |
-| 120 | [Star Tripper](https://open.spotify.com/track/62GJnNUrj6V1LPBS5zaKrk) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL) | [Star Wars Headspace](https://open.spotify.com/album/6oJnwRad77TohXQ683Rlw6) | 4:37 |
 
-Snapshot ID: `MzMwLDJlMDcxMDQ0OTZmYzdkZjNiMzQzNDczOTM0YzY4NTU3MTA4NDliNTM=`
+Snapshot ID: `MzMxLDUwZDcwODQ2YTA0ODBiMmMyNmIyZGM1NjlhYTJhZTFhMDE5ZDcxODE=`

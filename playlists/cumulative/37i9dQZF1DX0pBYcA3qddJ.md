@@ -4,7 +4,7 @@
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-620 songs - 1 day 17 hr 56 min
+621 songs - 1 day 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [Quai](https://open.spotify.com/track/7pAHrBXNISzLLFiquzlMpb) | [SADFRANK](https://open.spotify.com/artist/2F4sUnzP850MX9jgOLgwuW) | [Quai](https://open.spotify.com/album/6wq3R7atGikH6erhFOvAqm) | 6:50 | 2022-11-15 | 2022-12-02 |
 | [Quiet Place](https://open.spotify.com/track/3u0mY7Jotmf0YVnzTXyKv1) | [Wataru Sato](https://open.spotify.com/artist/7M9OHZ1HUapqspMXEthkvb) | [Piano Meditations Ⅱ](https://open.spotify.com/album/0Q4n7jtLWAmwWwkonnS6H1) | 3:30 | 2023-03-02 | 2023-03-04 |
 | [Quiet Place](https://open.spotify.com/track/6k96PVCzURnKNnWDpsZ6xY) | [Wataru Sato](https://open.spotify.com/artist/7M9OHZ1HUapqspMXEthkvb) | [Piano Meditations II](https://open.spotify.com/album/6sdYGreE8MbiQHrgF6jJh6) | 3:30 | 2023-03-02 | 2023-07-26 |
+| [QUIET SPACE FOR QUIET LIFE, Pt.3](https://open.spotify.com/track/7LUxmRn3m9Y7Bpiak546Qt) | [XTAL](https://open.spotify.com/artist/2t07wCTjaVSrObNSvgMyLi), [畳野彩加](https://open.spotify.com/artist/04y7KDVl7fo1YNHCzeRfW4) | [QUIET SPACE FOR QUIET LIFE, Pt.3&4](https://open.spotify.com/album/1pwQGSXQWBJUNHMhGaNP9j) | 14:59 | 2023-12-19 |  |
 | [Quiet Waves](https://open.spotify.com/track/0HmGUT1lfiHEOMyW6HGsjJ) | [Marika Takeuchi](https://open.spotify.com/artist/0lsDi98XEKVkgN2kdZWBHT) | [Quiet Waves](https://open.spotify.com/album/6TRArfAl3OtpMg31atfjxT) | 3:24 | 2022-12-01 | 2023-02-10 |
 | [Qué Problema](https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Qué Problema](https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp) | 3:24 | 2023-10-24 | 2023-11-22 |
 | [Rain](https://open.spotify.com/track/6yEdyZYuw1XfX2wVpcjhvk) | [Masaki Kawasaki](https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK) | [Life in Process](https://open.spotify.com/album/01i1UYjei9cY4kFL1VjSWH) | 2:45 | 2022-12-01 | 2023-02-03 |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Mi amooorrrrrr! Las canciones escritas por \"El Lujo de Sinaloa\".",
-  "num_followers": 41443,
+  "num_followers": 41469,
   "original_name": "Cancionero Joss Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjE3MWE3ZDgzOWI2NmJmNWU3NDBiZDZiZTJjMjBkMmIwMWQwOTA4",
+  "snapshot_id": "MCw0Y2Y5MGIxZjU2Zjg3MjE1YzJiNzFkODUzNmYzOTdkZGNkM2JjNDI0",
   "tracks": [
     {
       "added_at": "2022-01-25 18:24:05",
@@ -483,18 +483,18 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Vas A Recordarme",
-        "url": "https://open.spotify.com/album/5oCSMM79ZFH04eRwF33pbV"
+        "name": "Clase de Historia",
+        "url": "https://open.spotify.com/album/0P9LadsczPB6D05zC4Ifat"
       },
       "artists": [
         {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+          "name": "Voz De Mando",
+          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
         }
       ],
-      "duration_ms": 236613,
-      "name": "Vas A Recordarme",
-      "url": "https://open.spotify.com/track/2lCEkKWWTOwsgXjOwZtMdd"
+      "duration_ms": 164160,
+      "name": "Pa' Que No Me And\u00e9n Contando",
+      "url": "https://open.spotify.com/track/6WmDxFQYvdt6Ecy6M9tVgf"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -519,18 +519,18 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Clase de Historia",
-        "url": "https://open.spotify.com/album/0P9LadsczPB6D05zC4Ifat"
+        "name": "Vas A Recordarme",
+        "url": "https://open.spotify.com/album/5oCSMM79ZFH04eRwF33pbV"
       },
       "artists": [
         {
-          "name": "Voz De Mando",
-          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
         }
       ],
-      "duration_ms": 164160,
-      "name": "Pa' Que No Me And\u00e9n Contando",
-      "url": "https://open.spotify.com/track/6WmDxFQYvdt6Ecy6M9tVgf"
+      "duration_ms": 236613,
+      "name": "Vas A Recordarme",
+      "url": "https://open.spotify.com/track/2lCEkKWWTOwsgXjOwZtMdd"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Para Que No Te Lo Imagines",
-        "url": "https://open.spotify.com/album/1nOxhTNxrg8S4k9kzFexlr"
-      },
-      "artists": [
-        {
-          "name": "Saul El Jaguar Alarc\u00f3n",
-          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
-        }
-      ],
-      "duration_ms": 180853,
-      "name": "Para Que No Te Lo Imagines",
-      "url": "https://open.spotify.com/track/18pl2xFm8lYKPzqwktYeoz"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Con la Misma Sangre",
         "url": "https://open.spotify.com/album/2S0gbkHu2C7AqHp6Z6n3ZO"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 180106,
       "name": "Me Dolio",
       "url": "https://open.spotify.com/track/1NdS10z6OuIzTmC2QS7qK2"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Para Que No Te Lo Imagines",
+        "url": "https://open.spotify.com/album/1nOxhTNxrg8S4k9kzFexlr"
+      },
+      "artists": [
+        {
+          "name": "Saul El Jaguar Alarc\u00f3n",
+          "url": "https://open.spotify.com/artist/4zDxqX7DmkPcNfXkrPuYro"
+        }
+      ],
+      "duration_ms": 180853,
+      "name": "Para Que No Te Lo Imagines",
+      "url": "https://open.spotify.com/track/18pl2xFm8lYKPzqwktYeoz"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Besos Pasajeros",
-        "url": "https://open.spotify.com/album/4hnLDA6aX8OHS3oHXSBKA0"
-      },
-      "artists": [
-        {
-          "name": "Jary Franco",
-          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
-        }
-      ],
-      "duration_ms": 219266,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/4p5jLUvSnWQnzK5ME1zUxj"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Mi Promesa",
         "url": "https://open.spotify.com/album/0Ez3AihXSg9dVmgQcNnMmw"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 167080,
       "name": "Pasatiempo",
       "url": "https://open.spotify.com/track/0QjSk1FuKdKRvAkomG8d0o"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Besos Pasajeros",
+        "url": "https://open.spotify.com/album/4hnLDA6aX8OHS3oHXSBKA0"
+      },
+      "artists": [
+        {
+          "name": "Jary Franco",
+          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
+        }
+      ],
+      "duration_ms": 219266,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/4p5jLUvSnWQnzK5ME1zUxj"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Vivir En Pecado",
-        "url": "https://open.spotify.com/album/2bWvpp8ZK3t2ONOR7cjNjC"
-      },
-      "artists": [
-        {
-          "name": "Nena Guzman",
-          "url": "https://open.spotify.com/artist/77H38dMT3cSpIoM3xCPqvA"
-        }
-      ],
-      "duration_ms": 192946,
-      "name": "Vivir En Pecado",
-      "url": "https://open.spotify.com/track/5PR6uzkU9z62LxkaBDWsPD"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "No Consigo Olvidarte",
         "url": "https://open.spotify.com/album/7Mv0GXTjDXE3aH8sekxGf3"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 229346,
       "name": "No Consigo Olvidarte",
       "url": "https://open.spotify.com/track/3qxqgXhdqXutYKeOQmphCG"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Vivir En Pecado",
+        "url": "https://open.spotify.com/album/2bWvpp8ZK3t2ONOR7cjNjC"
+      },
+      "artists": [
+        {
+          "name": "Nena Guzman",
+          "url": "https://open.spotify.com/artist/77H38dMT3cSpIoM3xCPqvA"
+        }
+      ],
+      "duration_ms": 192946,
+      "name": "Vivir En Pecado",
+      "url": "https://open.spotify.com/track/5PR6uzkU9z62LxkaBDWsPD"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Quedamos",
-        "url": "https://open.spotify.com/album/6fpGT5CFKIEkYmesh6N4yA"
-      },
-      "artists": [
-        {
-          "name": "Cheyo Carrillo",
-          "url": "https://open.spotify.com/artist/0B3Y1kxlIzgb8enwxo7Kks"
-        }
-      ],
-      "duration_ms": 194653,
-      "name": "Pa' No Extra\u00f1arte Tanto",
-      "url": "https://open.spotify.com/track/1WbuBTLMx5OnZGyLGdr37t"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Mi Vicio y Mi Adiccion",
         "url": "https://open.spotify.com/album/5JVPrxA5iNw484JvAcR9LG"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 210341,
       "name": "Ya Te Sabes el Camino",
       "url": "https://open.spotify.com/track/3AG4eFRB1GMrsaLkuK7zqk"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Quedamos",
+        "url": "https://open.spotify.com/album/6fpGT5CFKIEkYmesh6N4yA"
+      },
+      "artists": [
+        {
+          "name": "Cheyo Carrillo",
+          "url": "https://open.spotify.com/artist/0B3Y1kxlIzgb8enwxo7Kks"
+        }
+      ],
+      "duration_ms": 194653,
+      "name": "Pa' No Extra\u00f1arte Tanto",
+      "url": "https://open.spotify.com/track/1WbuBTLMx5OnZGyLGdr37t"
     },
     {
       "added_at": "2022-01-25 18:24:05",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2022-01-25 18:24:05",
       "album": {
-        "name": "Con la Misma Sangre",
-        "url": "https://open.spotify.com/album/2S0gbkHu2C7AqHp6Z6n3ZO"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ortiz",
-          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
-        }
-      ],
-      "duration_ms": 138333,
-      "name": "No Quieren",
-      "url": "https://open.spotify.com/track/5xNdBAnEva5RtzQGwF5Mky"
-    },
-    {
-      "added_at": "2022-01-25 18:24:05",
-      "album": {
         "name": "Quedamos",
         "url": "https://open.spotify.com/album/6fpGT5CFKIEkYmesh6N4yA"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 173586,
       "name": "Me Toca Llorar",
       "url": "https://open.spotify.com/track/6a7E7c016XBapSa7PbN6rq"
+    },
+    {
+      "added_at": "2022-01-25 18:24:05",
+      "album": {
+        "name": "Con la Misma Sangre",
+        "url": "https://open.spotify.com/album/2S0gbkHu2C7AqHp6Z6n3ZO"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ortiz",
+          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
+        }
+      ],
+      "duration_ms": 138333,
+      "name": "No Quieren",
+      "url": "https://open.spotify.com/track/5xNdBAnEva5RtzQGwF5Mky"
     },
     {
       "added_at": "2022-01-25 18:24:05",

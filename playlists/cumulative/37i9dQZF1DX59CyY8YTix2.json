@@ -2166,7 +2166,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 150966,
       "name": "Destruction Sisters",
       "url": "https://open.spotify.com/track/2yL4L5IgsXNQ7vBTFB5w9Q"
@@ -7650,6 +7650,24 @@
       "duration_ms": 168680,
       "name": "odoru yo-ni",
       "url": "https://open.spotify.com/track/5i8DJaF9DX2zkxJaT1Rqva"
+    },
+    {
+      "album": {
+        "name": "ODYSSEY",
+        "url": "https://open.spotify.com/album/0ADfbr8bXhhRUnEkTbsVRE"
+      },
+      "artists": [
+        {
+          "name": "NEMOPHILA",
+          "url": "https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276573,
+      "name": "ODYSSEY",
+      "url": "https://open.spotify.com/track/46G9BfFwSFCPpoPm0pAgP1"
     },
     {
       "album": {

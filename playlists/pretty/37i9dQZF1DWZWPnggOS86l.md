@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWPnggOS86l.md) - [plain]
 
 > Uma viagem no tempo com grandes hits da história do Emo no Brasil\. Foto: Emoponto
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,521 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,519 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWPnggOS86l.md) - [plain]
 | 36 | [As Cores](https://open.spotify.com/track/3LQiSlultMCKcbGYWXmFvt) | [Cine](https://open.spotify.com/artist/4MZmexF6g7Kk5nWAP8f5Zr) | [Flashback](https://open.spotify.com/album/2p0nOVuLQbbAdXNKiaw48R) | 3:54 |
 | 37 | [Lembrar Me Faz Sofrer](https://open.spotify.com/track/6gibLc856RW7O3bL8gcENe) | [Display](https://open.spotify.com/artist/6wK3QnC206lJhV7QtC352T) | [Um Dia Pra Sonhar](https://open.spotify.com/album/3RCvS7nvwuIm7CszP8P7A7) | 2:48 |
 | 38 | [Noite](https://open.spotify.com/track/5XtQX7YAnDR7ki1yJYfrUU) | [Dead Fish](https://open.spotify.com/artist/7Lvg39k5XgXevGR767ikYI) | [Afasia](https://open.spotify.com/album/3S7osO3azTq6kvaIX0H3NW) | 3:16 |
-| 39 | [Criança](https://open.spotify.com/track/44Hewpc6MVWcWdQGzPfauT) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [Essa Noite Bateu Com um Sonho](https://open.spotify.com/album/0Ki5QTAVHWBjxPOh3uR4ux) | 4:36 |
+| 39 | [Criança](https://open.spotify.com/track/2GldKzHbVO2zQR3ZeWjfrh) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [Essa Noite Bateu Com Um Sonho](https://open.spotify.com/album/4cFrj5k0r7SFBXXU50L9Ph) | 4:36 |
 | 40 | [Anteontem](https://open.spotify.com/track/4bdpZyVOz99woYjNTjF6ls) | [CPM 22](https://open.spotify.com/artist/2Jw4Lrfjnyv2QsDoBgnrAP) | [CPM22](https://open.spotify.com/album/4IfW9TyWxqjTWMoSKBEdCK) | 3:04 |
 | 41 | [E Tao Raro](https://open.spotify.com/track/67s36dh8Q7Cy01kBesiVlh) | [Darvin](https://open.spotify.com/artist/4qOzfJoSvcBp7dSDlXxwBY) | [Darvin](https://open.spotify.com/album/7BKnHmaLvrw48FAnlyUJAA) | 3:36 |
 | 42 | [Última Canção de Amor](https://open.spotify.com/track/3kLflOI6vXdx8GUdGwZRTJ) | [Hill Valleys](https://open.spotify.com/artist/3wVosBmSz90RTWawTngLeL) | [Rua dos Perdedores, Esquina dos Corações Quebrados](https://open.spotify.com/album/5GF1agGJD07nFCmcuGSFJQ) | 2:41 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWPnggOS86l.md) - [plain]
 | 59 | [Voltar a Ser Canção](https://open.spotify.com/track/4As0FVE0RhNu5nKYgHa3dN) | [Dom Pedro](https://open.spotify.com/artist/2dn4iIwTZDvX8suARVjwBs) | [Primeiro](https://open.spotify.com/album/0Q6r6sOigwWud4pXvg8BTH) | 4:04 |
 | 60 | [Olha minha cara](https://open.spotify.com/track/6y1ssXWGsye4VJsSOP50Kt) | [Canto dos Malditos Na Terra do Nunca](https://open.spotify.com/artist/0zpgOZi5pnXnFxanyxowaI) | [Canto dos Malditos Na Terra do Nunca](https://open.spotify.com/album/2O5Q1X14xnEt4AbS2QkbLp) | 3:31 |
 
-Snapshot ID: `MCw0MzUwMGI3N2ZmY2JkYjA4NmE1MDEwZTIyMTI1OTdhZjFiODQyZmIx`
+Snapshot ID: `MCxmZjgxNDM1OWEwMmIzOTNmZGMwZGJhYjFjMzMwMTk5ZWM5OGE3MTZk`

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-1,031 songs - 2 day 7 hr 46 min
+1,032 songs - 2 day 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,7 +302,7 @@
 | [Everybody Wants To Party](https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV) | [Everybody Wants To Party](https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj) | 3:04 | 2021-02-28 | 2022-12-15 |
 | [Everyone](https://open.spotify.com/track/1b27zUMtkjBkLpxtK77gR8) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Everyone](https://open.spotify.com/album/5r0RFbLJaZ1u7PLuL6Dk8C) | 3:06 | 2020-10-13 | 2021-10-11 |
 | [Everything You Have Done \- Meduza Edit](https://open.spotify.com/track/5ooCfBqZyTB5CTdu1x7S77) | [GENESI](https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Everything You Have Done \(Meduza Edit\)](https://open.spotify.com/album/6MHJBq2F6942ToNXteGQTe) | 2:36 | 2023-03-17 | 2023-07-21 |
-| [Everywhere](https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Everywhere](https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq) | 2:46 | 2023-09-01 |  |
+| [Everywhere](https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Everywhere](https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq) | 2:46 | 2023-09-01 | 2023-12-22 |
 | [Expressing What Matters](https://open.spotify.com/track/1cz5UfKK1ZCKYMylCHsUI6) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Etran](https://open.spotify.com/album/2X0qQbmpTzSmURWNSjxEUU) | 4:23 | 2020-07-01 | 2020-12-12 |
 | [Eyes On You](https://open.spotify.com/track/1evX3NUBE7QujnSmky2ox4) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY) | [Eyes On You](https://open.spotify.com/album/6UiYJyJVz6xIwlYOL6g4WI) | 3:22 | 2021-11-21 | 2022-07-29 |
 | [F.O.M.F\. \- Petty Penguin Remix](https://open.spotify.com/track/44qpw2NGXSLCbQsDc1UZKg) | [DJ Tazz Xx](https://open.spotify.com/artist/21mCpgs4IhPMGKOhotkra7), [Koolby Loach](https://open.spotify.com/artist/2zfv2f7qJNhGCVMPosuhj4), [Petty Penguin](https://open.spotify.com/artist/06Sz7X326yoBcrGtAEIiv0) | [F.O.M.F\. \(Petty Penguin Remix\)](https://open.spotify.com/album/48KNcThC969iwTkT4jp1DM) | 2:24 | 2021-02-28 | 2021-12-20 |
@@ -520,6 +520,7 @@
 | [Lifetime \(with Ty Dolla $ign & 070 Shake\)](https://open.spotify.com/track/3zQpGaH50HeMjxurMZVF6q) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Lifetime](https://open.spotify.com/album/4jFxIzyBN7JD5rwLT0chjg) | 3:06 | 2021-07-25 | 2022-07-29 |
 | [Lift](https://open.spotify.com/track/2dQYULMxZEMtMYpQ9j7hZz) | [Conor Ross](https://open.spotify.com/artist/508wtStPsMdIxMButKYnOS) | [Lift](https://open.spotify.com/album/6GgFm8wYjyE2GOR1FLwmQB) | 2:50 | 2021-02-28 | 2022-01-11 |
 | [Lights Out](https://open.spotify.com/track/0ftR6PhIBwtcDc7Kp7dqT1) | [DJ Zinc](https://open.spotify.com/artist/1cwlYsgHBYvLzT4C24AliQ), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Lights Out](https://open.spotify.com/album/0ayE4BTYcnHcKykmbMzWB1) | 2:58 | 2020-11-14 | 2021-11-07 |
+| [Like A Prayer](https://open.spotify.com/track/5DIOs6NEUV14lGzerovXZN) | [LSR/CITY](https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2), [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Annabel](https://open.spotify.com/artist/4zR2t8bagib4ozydVgb93l) | [Like A Prayer](https://open.spotify.com/album/0P0UAa1mOYWrKpuCFklA87) | 3:49 | 2023-12-15 |  |
 | [Like I Used To](https://open.spotify.com/track/6lDc44gzmoUCF9L8PL0KrA) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Like I Used To](https://open.spotify.com/album/5bRtAP2yHcZ7dW7tqkTmx6) | 3:06 | 2023-05-19 | 2023-09-09 |
 | [Like That](https://open.spotify.com/track/0ddvXI226RBn6NXy692GK7) | [Seamus D](https://open.spotify.com/artist/1eclxqn6DJRn90KpPaCfIw) | [Like That](https://open.spotify.com/album/4l9bferLbzMG6fUDiguMQm) | 3:00 | 2022-02-18 | 2023-03-27 |
 | [Like This](https://open.spotify.com/track/1vV4T6tvTn4FIrwdvom3rf) | [Subshock & Evangelos](https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH) | [Like This](https://open.spotify.com/album/6ags5DWWEfEkqgozlPGQVY) | 2:43 | 2020-09-20 | 2021-11-20 |

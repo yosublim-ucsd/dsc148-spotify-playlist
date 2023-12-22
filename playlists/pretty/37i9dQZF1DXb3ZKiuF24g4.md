@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZKiuF24g4.md) - [plain]
 
 > The perfect soundtrack for when you're having fun in the sun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,851 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,850 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZKiuF24g4.md) - [plain]
 | 49 | [Jamming](https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:31 |
 | 50 | [Coastal](https://open.spotify.com/track/22ejspKqayOvA7eCzUjFlk) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Hemingway's Whiskey](https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7) | 2:39 |
 
-Snapshot ID: `MCxmN2VkNWQ4OGRkYjdiZmM5YWUwODU4ZWM3YjdmOTkwNTk2ZGQwNzA0`
+Snapshot ID: `MCw4MTBmOWVlMTdkMzE4N2NlMDI1NTU1YmYxMTQ3YzdlMTRkZjYxMTZm`

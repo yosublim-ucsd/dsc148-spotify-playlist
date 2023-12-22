@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: G-laspada",
+  "description": "Il meglio dell'R&B italiano. Cover: Livio Cori",
   "name": "anima R&B",
   "tracks": [
     {
@@ -3832,7 +3832,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 187200,
       "name": "Lacreme",
       "url": "https://open.spotify.com/track/2u06zfITzLEtglB2Jkr2pa"
@@ -5706,6 +5706,28 @@
       "duration_ms": 136105,
       "name": "Paradiso & Inferno",
       "url": "https://open.spotify.com/track/4jmdFKP6vJlEOgTXTftaHW"
+    },
+    {
+      "album": {
+        "name": "Parisien",
+        "url": "https://open.spotify.com/album/06xiiIgtEDYOVWd1rSFBrE"
+      },
+      "artists": [
+        {
+          "name": "GALLI",
+          "url": "https://open.spotify.com/artist/5mBJ4KEcCGC9A92wlI4Mue"
+        },
+        {
+          "name": "poivediamo",
+          "url": "https://open.spotify.com/artist/0RKXkIFbxgg9qO6QoJbKsu"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160923,
+      "name": "Parisien",
+      "url": "https://open.spotify.com/track/6cSaFsSlu0KpsGSCjDMkVm"
     },
     {
       "album": {
@@ -8558,6 +8580,28 @@
       "duration_ms": 168042,
       "name": "voragini",
       "url": "https://open.spotify.com/track/2gJs1MMvEYpRuJdSfm0363"
+    },
+    {
+      "album": {
+        "name": "VUOI DIRMI",
+        "url": "https://open.spotify.com/album/0b1qKcsDX2Y85mUoSkg2bh"
+      },
+      "artists": [
+        {
+          "name": "Florence",
+          "url": "https://open.spotify.com/artist/5qyGTDa4a3jH5cGdH6G9M6"
+        },
+        {
+          "name": "dNoise",
+          "url": "https://open.spotify.com/artist/410eOpymx2am8CnIi1TfRe"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182423,
+      "name": "VUOI DIRMI",
+      "url": "https://open.spotify.com/track/41GPkxPP6mfi8dSldCKZRG"
     },
     {
       "album": {

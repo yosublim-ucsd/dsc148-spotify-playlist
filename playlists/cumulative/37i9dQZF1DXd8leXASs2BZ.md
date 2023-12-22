@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Carz
 
-124 songs - 5 hr 42 min
+125 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [In Da Club](https://open.spotify.com/track/5ygbawTd45qE7v0b3nm5UM) | [DJ KANJI](https://open.spotify.com/artist/2pNpSANblSC6W1FgxkAAzN), [GREEN KIDS](https://open.spotify.com/artist/033K0BXzkUzfXaqg4FyDBE), [acha](https://open.spotify.com/artist/2dGmHsaMrg4ugaPitdCLDA), [Flight\-A](https://open.spotify.com/artist/1THqfAAgE7cG20VwdMu0dh), [Swag\-A](https://open.spotify.com/artist/1rsNd66RgHfpsr8poImDDm), [Crazy\-K](https://open.spotify.com/artist/5plEGylcB4vrDbh3CdLUMN), [BARCO](https://open.spotify.com/artist/5zhO8Dv5JVs3P9bnFVRIgR) | [In Da Club](https://open.spotify.com/album/7rwlJ483BMKLF8eHnQOikM) | 3:01 | 2023-12-07 |  |
 | [In My Mind](https://open.spotify.com/track/6iRK132kCqyUTyFgnNbGMg) | [Nephew](https://open.spotify.com/artist/2QuPFnj8mE4ghAFuQx1vzV) | [RNB ERA](https://open.spotify.com/album/2DqBNpTXiMKwLuIjNzEq8B) | 2:49 | 2023-12-07 |  |
 | [junkie](https://open.spotify.com/track/0w9YAJAe83rOwK8yKCURqN) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm) | [junkie](https://open.spotify.com/album/1O51SwMFrdxhjgsSzC9Fsw) | 2:28 | 2023-12-07 |  |
+| [Kill Bill](https://open.spotify.com/track/3OgK0m3ubna6qz1DBgJOcN) | [Luke Silver](https://open.spotify.com/artist/2UwDGHRsJYHKbOMLPdNVjj), [VAPESHARK](https://open.spotify.com/artist/3nJ1t2nfTGc9X8gLTRwGd7) | [Kill Bill](https://open.spotify.com/album/17NM9tiswNH0fojmUNR0AL) | 2:48 | 2023-12-21 |  |
 | [LEAD](https://open.spotify.com/track/4t7AY95Hf5UZBtRKjjswbO) | [Carz](https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn) | [LEAD](https://open.spotify.com/album/12eiDX769GffsCljewZy7i) | 3:52 | 2023-12-19 |  |
 | [LEAD](https://open.spotify.com/track/7LeYWbIiGruTyxr2VfMTBP) | [Carz](https://open.spotify.com/artist/2C8Pd4hyOnljituQXkTLZn) | [LEAD](https://open.spotify.com/album/4pmDFVR4ofQ5jOXfjVlHM9) | 3:52 | 2023-12-19 | 2023-12-21 |
 | [Lil Rich](https://open.spotify.com/track/3tgcoa85EGp0zV88lFdhcr) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK) | [Soul Quake](https://open.spotify.com/album/55cvRjMBb8M1fq1xnTMm09) | 3:21 | 2023-12-07 |  |
@@ -122,7 +123,7 @@
 | [UV](https://open.spotify.com/track/0ZN89ciaiag2wxPoDPSray) | [Swoo](https://open.spotify.com/artist/2177RsrP8VeFlEa26VWsmT), [Yatt](https://open.spotify.com/artist/3EqsmFPUUnJDhDQ7GTdken) | [UV](https://open.spotify.com/album/3VIMhF4pFB1yGeeNc5GBhm) | 2:37 | 2023-12-07 |  |
 | [Waste My Time](https://open.spotify.com/track/5lfS6aBkfSq8OoWb4NnkLL) | [SINO](https://open.spotify.com/artist/0cs6SdLF2vIVW1eJ1dvAQE), [Kazu Dank](https://open.spotify.com/artist/1oPwWvBU1s9qvGl66o3ZkJ) | [V.L.C\. Tomorrow](https://open.spotify.com/album/6cW1fYITwKu5RoPuq2KDIU) | 3:43 | 2023-12-19 |  |
 | [waterdragon](https://open.spotify.com/track/65opDW5dpztEpriLFhxwU5) | [kegøn](https://open.spotify.com/artist/1K65FMS221HfgzjJoYo1Jb) | [waterdragon](https://open.spotify.com/album/2EL1SKBKvs67TRia9XhpAR) | 2:21 | 2023-12-14 |  |
-| [Way Good](https://open.spotify.com/track/4QZXsa3ZYi9ZONvkDHubhR) | [TOMi](https://open.spotify.com/artist/5awuWSFbruV8MiasyEjeL8), [Kethug](https://open.spotify.com/artist/68cAP4Go5kmvViP9SHhlaJ) | [Way Good](https://open.spotify.com/album/4o1pJRtw1KYrt8mXqudCRm) | 2:52 | 2023-12-07 |  |
+| [Way Good](https://open.spotify.com/track/4QZXsa3ZYi9ZONvkDHubhR) | [TOMi](https://open.spotify.com/artist/5awuWSFbruV8MiasyEjeL8), [Kethug](https://open.spotify.com/artist/68cAP4Go5kmvViP9SHhlaJ) | [Way Good](https://open.spotify.com/album/4o1pJRtw1KYrt8mXqudCRm) | 2:52 | 2023-12-07 | 2023-12-22 |
 | [weed not stop](https://open.spotify.com/track/3cPdfkBw2YESqDct8EQsvm) | [1000ca](https://open.spotify.com/artist/5abBwZ894SCDPwwv3ZKbCY), [143](https://open.spotify.com/artist/3tOEYz4AM8NNUobfA9t86n), [sh1t](https://open.spotify.com/artist/6XhN6U7Gwmu6NYm1BpPhH9), [Lisa lil vinci](https://open.spotify.com/artist/7ArD0uoFbEMDotjrvdrjwH), [XAN](https://open.spotify.com/artist/5NfqonprYhdYuBctIrOv6B) | [weed not stop](https://open.spotify.com/album/0PJIDgNJiLGnOEwUfV5Ia5) | 4:39 | 2023-12-07 |  |
 | [Xchain](https://open.spotify.com/track/6BNrTHvibxIU6rbx3mypMJ) | [Leisu](https://open.spotify.com/artist/2mGiNGTMNfU16D4PbtWFOj), [yamadagalzing](https://open.spotify.com/artist/5e1LtaEddZkGx57OPtYON5), [izolma](https://open.spotify.com/artist/5Cjc9g0qHNWfuQJlpCpAKM) | [Revive](https://open.spotify.com/album/1p5xD637v6Q6NEXSrXoL1B) | 2:54 | 2023-12-07 |  |
 | [Yaminouchi](https://open.spotify.com/track/5lJocOmXtCH53DYMzNG8NH) | [NoukunDollar](https://open.spotify.com/artist/7DdSOoyQz8PsjJCYOYQl0Y), [Yaminouchi](https://open.spotify.com/artist/04SKpBwIB2DVqhUEUAeSin) | [Yaminouchi](https://open.spotify.com/album/2blVqSq2fjV5q4cFDGdPUk) | 3:43 | 2023-12-07 |  |

@@ -4,7 +4,7 @@
 
 > Instrumental piano versions of famous songs to make you fall asleep.
 
-121 songs - 6 hr 21 min
+122 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Girl on fire](https://open.spotify.com/track/4IuATSvO2qXkgTRuHC8LYq) | [Taylor Stone](https://open.spotify.com/artist/4RG7tWsxcGEyY5EtLKW4X7) | [Girl on fire](https://open.spotify.com/album/2zOAwVXSVxjxbp74MFl1oQ) | 3:32 | 2023-09-29 |  |
 | [Go your own way](https://open.spotify.com/track/16pcdSTB0XzKh0fDa2bqHt) | [Anissa Henderson](https://open.spotify.com/artist/7hWN9tSQOmj0pafX5UWsjE) | [Somewhere only we know](https://open.spotify.com/album/7sTmrR8KKOUvFIM1RgeSbx) | 3:02 | 2023-09-29 |  |
 | [Golden Hour \- Piano](https://open.spotify.com/track/07UZEhzObdhFdBk91IDMxO) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Relaxing Pop Piano Covers](https://open.spotify.com/album/6RInRZcSuXuuJFAMFkKdEy) | 2:38 | 2023-09-29 |  |
+| [Goodbye Yellow Brick Road](https://open.spotify.com/track/2qJsAAXFRJDzBDPnGD1HgA) | [Moonsong](https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX) | [Goodbye Yellow Brick Road](https://open.spotify.com/album/3NQazGgBW6d4uioUvaaYx7) | 2:14 | 2023-12-22 |  |
 | [Groovy Kind Of Love](https://open.spotify.com/track/6faVa20KtdwfyzsJ6PaohE) | [Pequeño Casero](https://open.spotify.com/artist/78lsXTokMcrytsGHc6jtf9) | [Groovy Kind Of Love](https://open.spotify.com/album/6swG5Fj4XarYTsnOm3CVAk) | 3:12 | 2023-09-29 |  |
 | [Halo](https://open.spotify.com/track/4lu6zYkghmAlCnDcgKqJcY) | [Mia Carrera](https://open.spotify.com/artist/00zoOzjXViIF4Fs8XQSK9m) | [Halo](https://open.spotify.com/album/0ud9AD3KGlQX1NRLJQpOQ4) | 3:30 | 2023-09-29 |  |
 | [Hello](https://open.spotify.com/track/1efHwagPxIFfADSjRqndUs) | [Elodie Malabul](https://open.spotify.com/artist/1QijYE17aztDpSt76Tak8p) | [Hello](https://open.spotify.com/album/2rGcI5Yw0RehWAigKLPFY4) | 2:01 | 2023-09-29 |  |

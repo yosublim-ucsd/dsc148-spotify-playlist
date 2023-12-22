@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover:\bPark Ji Yoon(\ubc15\uc9c0\uc724)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover:\bLEEWOO(\uc774\uc6b0)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -3174,6 +3174,24 @@
       "duration_ms": 175040,
       "name": "Crush on you",
       "url": "https://open.spotify.com/track/3TUPqVuyNK2mPeA9QmHygo"
+    },
+    {
+      "album": {
+        "name": "Curiosity",
+        "url": "https://open.spotify.com/album/3DKezdDevdEAMi3gT3czOt"
+      },
+      "artists": [
+        {
+          "name": "MIJOO",
+          "url": "https://open.spotify.com/artist/3kDLzk5AtS3cQaVXkISAzO"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204933,
+      "name": "Curiosity",
+      "url": "https://open.spotify.com/track/2XCErHtPrNPA3SIYgAoica"
     },
     {
       "album": {
@@ -16138,6 +16156,24 @@
       "duration_ms": 246426,
       "name": "The days we were us",
       "url": "https://open.spotify.com/track/0ePTSwGDAWLKhDrbIzb8Qb"
+    },
+    {
+      "album": {
+        "name": "SHE",
+        "url": "https://open.spotify.com/album/0iRDF7wPErnrRDaL0XpRZw"
+      },
+      "artists": [
+        {
+          "name": "LEEWOO",
+          "url": "https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217226,
+      "name": "the different way",
+      "url": "https://open.spotify.com/track/1ajbBbe73q6D6KbY4YuRwC"
     },
     {
       "album": {

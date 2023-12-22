@@ -1,12 +1,12 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 147990,
+  "num_followers": 148054,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTI2ZmY0MjZhYWM0YzRjYTI5NzUzMDJiYmU3MzY0NGIwZjEyZjAz",
+  "snapshot_id": "MCxmODY2NWNjY2YxMTcyNWYxY2ZkZTgxZTkzMmExY2MyMjZlYmQ1MGZi",
   "tracks": [
     {
       "added_at": "2022-11-25 16:48:26",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-11-25 16:48:26",
       "album": {
-        "name": "So Good To Me (Remixes)",
-        "url": "https://open.spotify.com/album/3coyILlnBFrIV8ZW7EjVxV"
-      },
-      "artists": [
-        {
-          "name": "Chris Malinchak",
-          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
-        }
-      ],
-      "duration_ms": 158677,
-      "name": "So Good to Me - Radio Edit",
-      "url": "https://open.spotify.com/track/4YYODVaWvNDvqsYiQtJJrM"
-    },
-    {
-      "added_at": "2022-11-25 16:48:26",
-      "album": {
         "name": "In Colour",
         "url": "https://open.spotify.com/album/04Duapg2mNlVykd895xcfZ"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 283066,
       "name": "Loud Places",
       "url": "https://open.spotify.com/track/7lPgKA5mLFNmGPMdb07OlM"
+    },
+    {
+      "added_at": "2022-11-25 16:48:26",
+      "album": {
+        "name": "So Good To Me (Remixes)",
+        "url": "https://open.spotify.com/album/3coyILlnBFrIV8ZW7EjVxV"
+      },
+      "artists": [
+        {
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+        }
+      ],
+      "duration_ms": 158677,
+      "name": "So Good to Me - Radio Edit",
+      "url": "https://open.spotify.com/track/4YYODVaWvNDvqsYiQtJJrM"
     },
     {
       "added_at": "2022-11-25 16:48:26",
@@ -743,6 +743,22 @@
     {
       "added_at": "2022-11-25 16:48:26",
       "album": {
+        "name": "Pastoral",
+        "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 220630,
+      "name": "Pastoral",
+      "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
+    },
+    {
+      "added_at": "2022-11-25 16:48:26",
+      "album": {
         "name": "sketches of transition",
         "url": "https://open.spotify.com/album/258Q9Jl6LO9OTDOmSRfR21"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 261746,
       "name": "amelia",
       "url": "https://open.spotify.com/track/1ME0C8xm5YmInbok1znS9W"
-    },
-    {
-      "added_at": "2022-11-25 16:48:26",
-      "album": {
-        "name": "Pastoral",
-        "url": "https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde"
-      },
-      "artists": [
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 220630,
-      "name": "Pastoral",
-      "url": "https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS"
     },
     {
       "added_at": "2022-11-25 16:48:26",
@@ -863,18 +863,18 @@
     {
       "added_at": "2022-11-25 16:48:26",
       "album": {
-        "name": "Cold Spring Fault Less Youth",
-        "url": "https://open.spotify.com/album/4jaLRarRRCScr5v6Y6vUQu"
+        "name": "Versailles (Hold)",
+        "url": "https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15"
       },
       "artists": [
         {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
         }
       ],
-      "duration_ms": 286760,
-      "name": "Made To Stray",
-      "url": "https://open.spotify.com/track/0BVdNCqYq6offkjRGKVRDB"
+      "duration_ms": 218727,
+      "name": "Versailles (Hold) - Edit",
+      "url": "https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX"
     }
   ],
   "unique_name": "Melantronic",

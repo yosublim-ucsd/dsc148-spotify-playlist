@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 66312,
+  "num_followers": 66332,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmY3M2JhYzhkMDQ4MGIyMjc1NzhjYzE3ZDM0NzkyYjUxOWU1NzQ5",
+  "snapshot_id": "MCwxNGNiY2U5NmMzNTQ4NmM5ZDQwNzViMmQwZmM4ZThhNjI5YjM5M2Vk",
   "tracks": [
     {
       "added_at": "2023-10-27 21:57:42",
@@ -303,6 +303,22 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
+        "name": "120 Km/Hr.",
+        "url": "https://open.spotify.com/album/1SgPUGiM2u18nbgcutSHxM"
+      },
+      "artists": [
+        {
+          "name": "Allison",
+          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
+        }
+      ],
+      "duration_ms": 221066,
+      "name": "Vamos Otra Vez",
+      "url": "https://open.spotify.com/track/2hMFkTRHfUn9QShgYLsTWb"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
         "name": "Mientras quede aliento",
         "url": "https://open.spotify.com/album/0dbOXHbcNBNEq5LpmJGGrG"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 217920,
       "name": "Apariencia",
       "url": "https://open.spotify.com/track/2v4oBaRnTe2YuaQovidduL"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
-        "name": "120 Km/Hr.",
-        "url": "https://open.spotify.com/album/1SgPUGiM2u18nbgcutSHxM"
-      },
-      "artists": [
-        {
-          "name": "Allison",
-          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "Vamos Otra Vez",
-      "url": "https://open.spotify.com/track/2hMFkTRHfUn9QShgYLsTWb"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "Solo Dios lo Sabe",
-        "url": "https://open.spotify.com/album/6Fg2fhsyWhk86CZruRUrQv"
-      },
-      "artists": [
-        {
-          "name": "GUFI",
-          "url": "https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN"
-        }
-      ],
-      "duration_ms": 165605,
-      "name": "Solo Dios lo Sabe",
-      "url": "https://open.spotify.com/track/2PA11HBziALO8mnvnh3qXw"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
         "name": "Mejores Tiempos",
         "url": "https://open.spotify.com/album/1mVd6hoLX3MnyRlUPijZRE"
       },
@@ -519,18 +503,18 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "J\u00e4ula",
-        "url": "https://open.spotify.com/album/1yLnsXPIitOv2ExApCDEGE"
+        "name": "Solo Dios lo Sabe",
+        "url": "https://open.spotify.com/album/6Fg2fhsyWhk86CZruRUrQv"
       },
       "artists": [
         {
-          "name": "Mi Mascota Leila",
-          "url": "https://open.spotify.com/artist/3fMUI1SlJ06jX1V0qGNmge"
+          "name": "GUFI",
+          "url": "https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN"
         }
       ],
-      "duration_ms": 226063,
-      "name": "Cc (Como Compas)",
-      "url": "https://open.spotify.com/track/5Bnn9MKvL9JGeBdbnSdB5O"
+      "duration_ms": 165605,
+      "name": "Solo Dios lo Sabe",
+      "url": "https://open.spotify.com/track/2PA11HBziALO8mnvnh3qXw"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -551,6 +535,22 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
+        "name": "J\u00e4ula",
+        "url": "https://open.spotify.com/album/1yLnsXPIitOv2ExApCDEGE"
+      },
+      "artists": [
+        {
+          "name": "Mi Mascota Leila",
+          "url": "https://open.spotify.com/artist/3fMUI1SlJ06jX1V0qGNmge"
+        }
+      ],
+      "duration_ms": 226063,
+      "name": "Cc (Como Compas)",
+      "url": "https://open.spotify.com/track/5Bnn9MKvL9JGeBdbnSdB5O"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
         "name": "El B\u00e1lsamo para los Sabios y los Buenos Perdedores",
         "url": "https://open.spotify.com/album/4L41cXrG4RL5W63unJLi6A"
       },
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "UNODOCE",
-        "url": "https://open.spotify.com/album/2FXkHYPtMxXJXSzVvBYCbd"
-      },
-      "artists": [
-        {
-          "name": "ALOISIO",
-          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
-        }
-      ],
-      "duration_ms": 73533,
-      "name": "UNODOCE",
-      "url": "https://open.spotify.com/track/70xUEwLN1ueqTebmEEth50"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
         "name": "Fantasmas",
         "url": "https://open.spotify.com/album/6DXXRDiKXGvJ69FRjVykHZ"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 216296,
       "name": "Fantasmas",
       "url": "https://open.spotify.com/track/4p1fdScUiB1t9idEW5r3sW"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
+        "name": "UNODOCE",
+        "url": "https://open.spotify.com/album/2FXkHYPtMxXJXSzVvBYCbd"
+      },
+      "artists": [
+        {
+          "name": "ALOISIO",
+          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
+        }
+      ],
+      "duration_ms": 73533,
+      "name": "UNODOCE",
+      "url": "https://open.spotify.com/track/70xUEwLN1ueqTebmEEth50"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
+        "name": "Un A\u00f1o",
+        "url": "https://open.spotify.com/album/33PGlKYVigoH6jR1qwUfh6"
+      },
+      "artists": [
+        {
+          "name": "Abril 88",
+          "url": "https://open.spotify.com/artist/0vAYt4d53Aqk5zqJ764Y9l"
+        }
+      ],
+      "duration_ms": 166540,
+      "name": "Un A\u00f1o",
+      "url": "https://open.spotify.com/track/1NvuUQSActakCpCg071n2x"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
         "name": "Autodestrucci\u00f3n",
         "url": "https://open.spotify.com/album/3OeUOu3JA9jwSWqE95VPrR"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 234437,
       "name": "Conversaciones Con Mi Almohada",
       "url": "https://open.spotify.com/track/56azZHaAdx4Ml2GybnV58P"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
-        "name": "Un A\u00f1o",
-        "url": "https://open.spotify.com/album/33PGlKYVigoH6jR1qwUfh6"
-      },
-      "artists": [
-        {
-          "name": "Abril 88",
-          "url": "https://open.spotify.com/artist/0vAYt4d53Aqk5zqJ764Y9l"
-        }
-      ],
-      "duration_ms": 166540,
-      "name": "Un A\u00f1o",
-      "url": "https://open.spotify.com/track/1NvuUQSActakCpCg071n2x"
     },
     {
       "added_at": "2023-10-27 21:57:42",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-10-27 21:57:42",
       "album": {
-        "name": "Un X100To (Cover)",
-        "url": "https://open.spotify.com/album/0jZNt1uX0aBjDWatpmv0mN"
-      },
-      "artists": [
-        {
-          "name": "Pedro y el Lobo",
-          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
-        }
-      ],
-      "duration_ms": 166265,
-      "name": "Un X100To - Cover",
-      "url": "https://open.spotify.com/track/5jAy79SzEzta9iXoGOeTfp"
-    },
-    {
-      "added_at": "2023-10-27 21:57:42",
-      "album": {
         "name": "Dualidad",
         "url": "https://open.spotify.com/album/6Nt5M8zfrtUKTjgKrHXASg"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 223046,
       "name": "Dualidad",
       "url": "https://open.spotify.com/track/7uYMRAb62VrGKpOWbaY86m"
+    },
+    {
+      "added_at": "2023-10-27 21:57:42",
+      "album": {
+        "name": "Un X100To (Cover)",
+        "url": "https://open.spotify.com/album/0jZNt1uX0aBjDWatpmv0mN"
+      },
+      "artists": [
+        {
+          "name": "Pedro y el Lobo",
+          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
+        }
+      ],
+      "duration_ms": 166265,
+      "name": "Un X100To - Cover",
+      "url": "https://open.spotify.com/track/5jAy79SzEzta9iXoGOeTfp"
     },
     {
       "added_at": "2023-10-27 21:57:42",

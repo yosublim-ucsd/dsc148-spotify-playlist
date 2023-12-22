@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href="https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau?si=tV19pJIgSkSq1IjoAZtWIQ">Anendlessocean</a>
 
-112 songs - 7 hr 25 min
+114 songs - 7 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Jesus](https://open.spotify.com/track/3cGdGKVJX3iO9bEahsdGqh) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Jesus](https://open.spotify.com/album/1vrTCUyXVNRarmtEGJwER2) | 3:36 | 2023-11-17 |  |
 | [Joyful Noise](https://open.spotify.com/track/3wNVEsiyCWRkwEZvncGOOT) | [His Church Music](https://open.spotify.com/artist/1jMeFoQnHRPmCYctBPZqbp), [Pamela Myburgh](https://open.spotify.com/artist/0fmsGte6TDNGk9WwaAAhfJ) | [Joyful Noise](https://open.spotify.com/album/4rEJpPtx2uMpFYHfh0Iii1) | 4:59 | 2023-10-20 |  |
 | [Just as I am](https://open.spotify.com/track/2PSyahpyNwy0yFeSyvxkly) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Just as I am](https://open.spotify.com/album/5oOAOVwVfqRkBxrX7zk0Tk) | 2:17 | 2023-10-20 |  |
+| [Konse](https://open.spotify.com/track/5ZlLfuWfBZMiZIPPmAD2oW) | [Paul Payne837](https://open.spotify.com/artist/1TZ5t6mqPJEJ1HELSGt7cp) | [Konse](https://open.spotify.com/album/4hQrrzNmi7d52JNUrdPcdn) | 3:20 | 2023-12-22 |  |
 | [Kumama Papa](https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2) | [Grace Lokwa](https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Kumama](https://open.spotify.com/album/4VWqQy7daz2lmZVLZakGjb) | 4:20 | 2023-10-20 |  |
 | [Liberty](https://open.spotify.com/track/2Qjl9RwO2qQZaLpXQgJqIZ) | [Stefan Green](https://open.spotify.com/artist/1VlsN7ndYTrSCrqFcWzdNO) | [Liberty](https://open.spotify.com/album/6OT3uygECDrzpVjGd2rjy3) | 3:57 | 2023-10-20 |  |
 | [Lift Me](https://open.spotify.com/track/0p0OlAwwoRoL9HkwfLGhO5) | [Tobi Adey](https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE) | [Veil](https://open.spotify.com/album/3OSOyi6kUgfrZKUrOklrol) | 3:56 | 2023-10-20 |  |
@@ -88,6 +89,7 @@
 | [Overflow](https://open.spotify.com/track/3ERv48syFEopv0b1Lztn1Z) | [Rhema Onuoha](https://open.spotify.com/artist/5nsPtwNBlugfTFBzgSzgVX) | [Amen](https://open.spotify.com/album/5rt15Fv93aObicrRkMB1Z7) | 6:54 | 2023-11-24 |  |
 | [Owo Oluwa](https://open.spotify.com/track/2JKJWJyX3BbavWJ9mGCk6s) | [P.Daniel Olawande](https://open.spotify.com/artist/3oNl2csZbBr9DozLABsLTL) | [Owo Oluwa](https://open.spotify.com/album/27JyI1SfX9raMik8gMmTHu) | 6:10 | 2023-10-20 |  |
 | [Peace \(Open Verse\)](https://open.spotify.com/track/7jkOX2bZm2lrAn7vBtBysS) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j) | [Great God](https://open.spotify.com/album/4P3kOp9sw1SCMDuSFuibOB) | 2:26 | 2023-10-20 |  |
+| [Promises](https://open.spotify.com/track/6Toiq8ZjdvUlFR6I9Pz0Qw) | [Kachi Annuncia](https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf) | [Promises](https://open.spotify.com/album/4pwdNzKJM9PZXjyEisUMzE) | 3:17 | 2023-12-22 |  |
 | [Provider](https://open.spotify.com/track/0n9BmdMs7fugQBsLAOmMGg) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Provider](https://open.spotify.com/album/52o4SrgD78FtKdtrtCp747) | 3:28 | 2023-12-08 |  |
 | [Real](https://open.spotify.com/track/1HCNR9ew8WunsxuoFp0SJ4) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [Annie Daymar](https://open.spotify.com/artist/3xjZKxoPWWG1akLsPpNfsS) | [Real](https://open.spotify.com/album/0vaGqeqotjImeaBUvBP4mS) | 2:13 | 2023-11-17 |  |
 | [Rescued](https://open.spotify.com/track/0JbnRJjLOuM5fCO1lK6Gc5) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Ryan Hylton](https://open.spotify.com/artist/1P8PmsHk2ZIxMQcFC3n7vm) | [Rescued](https://open.spotify.com/album/6HRJBgzN5liP0zXwpSiVx7) | 2:45 | 2023-10-27 |  |

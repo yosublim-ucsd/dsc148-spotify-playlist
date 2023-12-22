@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 68666,
+  "num_followers": 68674,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGFkMjRiNjc3MGIwNjAwNWQwYTdkYWE1Y2IxMTkxZjMzMmVhOGQ1",
+  "snapshot_id": "MCw5MzMzYmQxN2ViOWEzYjU1ZDljZGU1NzcxZTBmOTQ5YmRiMjJhOTVh",
   "tracks": [
     {
       "added_at": "2023-10-12 22:00:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
+        "name": "Rotl\u00f6sa Singlar",
+        "url": "https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH"
+      },
+      "artists": [
+        {
+          "name": "Jeepstarr",
+          "url": "https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu"
+        }
+      ],
+      "duration_ms": 237702,
+      "name": "Jag Minns",
+      "url": "https://open.spotify.com/track/47E8xJBn9zs8Bes9iFCJ0p"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
         "name": "Mi Amor",
         "url": "https://open.spotify.com/album/5YtHb5glRtjDX9QtkeqgnD"
       },
@@ -651,18 +667,26 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Rotl\u00f6sa Singlar",
-        "url": "https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH"
+        "name": "Slutpl\u00e4deringen",
+        "url": "https://open.spotify.com/album/32qy7Z7Db0xCpB5m0yLsRs"
       },
       "artists": [
         {
-          "name": "Jeepstarr",
-          "url": "https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu"
+          "name": "Kartellen",
+          "url": "https://open.spotify.com/artist/3kklzjWziqW7RX5jQjsRnb"
+        },
+        {
+          "name": "Cherrie",
+          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
+        },
+        {
+          "name": "General Knas",
+          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
         }
       ],
-      "duration_ms": 237702,
-      "name": "Jag Minns",
-      "url": "https://open.spotify.com/track/47E8xJBn9zs8Bes9iFCJ0p"
+      "duration_ms": 156360,
+      "name": "Rikslarm",
+      "url": "https://open.spotify.com/track/0KnRzbQpj0J5nXRqtuSRhz"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -715,30 +739,6 @@
       "duration_ms": 253977,
       "name": "Under samma himmel",
       "url": "https://open.spotify.com/track/5i1gw38Lf3EkOueDEbhwzO"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
-        "name": "Slutpl\u00e4deringen",
-        "url": "https://open.spotify.com/album/32qy7Z7Db0xCpB5m0yLsRs"
-      },
-      "artists": [
-        {
-          "name": "Kartellen",
-          "url": "https://open.spotify.com/artist/3kklzjWziqW7RX5jQjsRnb"
-        },
-        {
-          "name": "Cherrie",
-          "url": "https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW"
-        },
-        {
-          "name": "General Knas",
-          "url": "https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy"
-        }
-      ],
-      "duration_ms": 156360,
-      "name": "Rikslarm",
-      "url": "https://open.spotify.com/track/0KnRzbQpj0J5nXRqtuSRhz"
     },
     {
       "added_at": "2023-10-12 22:00:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-10-12 22:00:00",
       "album": {
-        "name": "Br\u00e5da dagar",
-        "url": "https://open.spotify.com/album/2fYUrWZt0JQ3Ny0YdM53WR"
-      },
-      "artists": [
-        {
-          "name": "Kalle Baah",
-          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
-        }
-      ],
-      "duration_ms": 254293,
-      "name": "Bulleribock",
-      "url": "https://open.spotify.com/track/5IKbSU96n46JOVu75evnPs"
-    },
-    {
-      "added_at": "2023-10-12 22:00:00",
-      "album": {
         "name": "The Tomtations Show",
         "url": "https://open.spotify.com/album/0SH0zQr3ds4stTX3Jl6I3q"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 282124,
       "name": "Aina \u00c4lskar Reggae",
       "url": "https://open.spotify.com/track/0ZxfitMpf8fLzcww0763rb"
+    },
+    {
+      "added_at": "2023-10-12 22:00:00",
+      "album": {
+        "name": "Br\u00e5da dagar",
+        "url": "https://open.spotify.com/album/2fYUrWZt0JQ3Ny0YdM53WR"
+      },
+      "artists": [
+        {
+          "name": "Kalle Baah",
+          "url": "https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI"
+        }
+      ],
+      "duration_ms": 254293,
+      "name": "Bulleribock",
+      "url": "https://open.spotify.com/track/5IKbSU96n46JOVu75evnPs"
     }
   ],
   "unique_name": "Svensk Reggae",

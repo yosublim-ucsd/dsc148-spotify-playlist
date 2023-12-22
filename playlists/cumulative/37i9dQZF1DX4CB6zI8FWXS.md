@@ -2,9 +2,9 @@
 
 ### [Groovin' R&B](https://open.spotify.com/playlist/37i9dQZF1DX4CB6zI8FWXS)
 
-> R&Bの最新話題曲をまとめてお届けします。cover: Arlo Parks
+> R&Bの最新話題曲をまとめてお届けします。cover: Wizkid
 
-311 songs - 16 hr 51 min
+312 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Nowhere](https://open.spotify.com/track/01V9616p11FWNcMYTQTg3j) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Nowhere](https://open.spotify.com/album/0gk7hvi9elX9iuiNuxmcNu) | 2:57 | 2023-11-16 | 2023-12-08 |
 | [Obvious \(feat\. Muni Long\)](https://open.spotify.com/track/2HXb9BYC7dPcrmcJi18GrZ) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [22 \(Deluxe\)](https://open.spotify.com/album/3d34rQj5U6GoBSr1EqPkPd) | 3:39 | 2023-03-16 | 2023-03-25 |
 | [Often](https://open.spotify.com/track/3IcKY1xunfGXlYy9BMUEkt) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Often](https://open.spotify.com/album/4lc5ULEJzRFmnhRVqlyg86) | 2:35 | 2023-11-09 | 2023-11-17 |
+| [Ololufe \(feat\. Wande Coal\)](https://open.spotify.com/track/0x3sDnom0itB72oEVrRE7v) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [S2](https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM) | 3:30 | 2023-12-21 |  |
 | [On + On \(with Justine Skye\)](https://open.spotify.com/track/157TL0eU2bppVrCKnll6zR) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [Breathwork](https://open.spotify.com/album/72GuMt9GOvytS3yxco7qQ0) | 2:49 | 2023-06-15 | 2023-10-27 |
 | [On My Mama](https://open.spotify.com/track/1o8Z7GD1CeOaVBEyuzu4HO) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [On My Mama](https://open.spotify.com/album/3KAqJe3dwWZFukNlOS6JXS) | 3:06 | 2023-06-15 |  |
 | [ON THE LOW](https://open.spotify.com/track/1EAYfaIcNMICqXBkpaEdJ5) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [ON THE LOW](https://open.spotify.com/album/0Jdg9AhorPRvu4W5lHyz7A) | 2:37 | 2023-09-14 | 2023-09-29 |
@@ -239,7 +240,7 @@
 | [Slow \(with Ciara\)](https://open.spotify.com/track/3ZrtBTReHr1xFDglmHwCX5) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Slow \(with Ciara\)](https://open.spotify.com/album/3pVjFaJut000WiN2WZBtKK) | 3:12 | 2023-04-20 |  |
 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2023-09-07 |  |
 | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/track/3unpulZnIiKRZ4MCymHfXx) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/album/24myqNnAEPwBjGfhEm6WJA) | 3:06 | 2023-03-23 |  |
-| [Smooth Operator](https://open.spotify.com/track/08CZBPPhtvtSnSRk88Z6AK) | [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu), [Michaela](https://open.spotify.com/artist/4ORoaZhVBXIzhnubUbdd5S) | [Smooth Operator](https://open.spotify.com/album/1Gt2tyMYNqqUDNPWk3R1QX) | 2:51 | 2023-12-14 |  |
+| [Smooth Operator](https://open.spotify.com/track/08CZBPPhtvtSnSRk88Z6AK) | [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu), [Michaela](https://open.spotify.com/artist/4ORoaZhVBXIzhnubUbdd5S) | [Smooth Operator](https://open.spotify.com/album/1Gt2tyMYNqqUDNPWk3R1QX) | 2:51 | 2023-12-14 | 2023-12-22 |
 | [Softest Touch](https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Softest Touch](https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi) | 2:44 | 2023-03-30 |  |
 | [Solitude \(with BIA & Lucky Daye\)](https://open.spotify.com/track/2cjhbrRCiUwRWL2PDPpDAu) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Solitude \(with BIA & Lucky Daye\)](https://open.spotify.com/album/5R0IoGOOlP8dbynqmABnYA) | 2:54 | 2023-03-16 | 2023-05-19 |
 | [Sometimes \(with Jenevieve\)](https://open.spotify.com/track/5BIdQhE32pSs9CfyC7C9LD) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Girls Night Out \(Extended\)](https://open.spotify.com/album/17yQt833qcvDgDWJNfnz0p) | 3:15 | 2023-03-16 | 2023-11-24 |

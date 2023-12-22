@@ -20921,6 +20921,24 @@
     },
     {
       "album": {
+        "name": "Have a Good Time Here",
+        "url": "https://open.spotify.com/album/2oRX6o3vzi8w3EQQla48LW"
+      },
+      "artists": [
+        {
+          "name": "Mariya Takeuchi",
+          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223626,
+      "name": "Have a Good Time Here",
+      "url": "https://open.spotify.com/track/3rDewXZvbOQPWUR8TPi6VW"
+    },
+    {
+      "album": {
         "name": "Have a nice day",
         "url": "https://open.spotify.com/album/6Y38hzu8YDSyEaKy3yrE5p"
       },
@@ -23414,8 +23432,8 @@
           "url": "https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT"
         },
         {
-          "name": "\u4e2d\u91ce\u967d\u4ecb (Emerald)",
-          "url": "https://open.spotify.com/artist/0739BfOyf0T8AiIKiS6ZcX"
+          "name": "\u4e2d\u91ce\u967d\u4ecb",
+          "url": "https://open.spotify.com/artist/5bH25QCn5bJU3XhycPQj49"
         }
       ],
       "date_added": "2023-12-19",
@@ -73706,7 +73724,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 223626,
       "name": "\u541b\u306e\u5c45\u5834\u6240",
       "url": "https://open.spotify.com/track/2p2aLfEpB9ItHaT5yC9Ylx"

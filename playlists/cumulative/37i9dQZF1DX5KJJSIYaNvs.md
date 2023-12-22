@@ -4,7 +4,7 @@
 
 > Highlights of 2023, listen to women at full volume \#SpotifyWrapped Cover \- Shilpa Rao
 
-253 songs - 14 hr 43 min
+254 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Kehndi Haan Kehndi Naa](https://open.spotify.com/track/7jl8FKIm4v4RfaGXLEV0s6) | [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86) | [Kehndi Haan Kehndi Naa](https://open.spotify.com/album/5KBhZPdX6L8iWK8E6azUde) | 3:21 | 2022-02-01 | 2022-03-08 |
 | [Kehri Gali](https://open.spotify.com/track/1paDFKGNdKWOSq8sk4Bv8u) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Tini \- EP](https://open.spotify.com/album/2ieFpeF1ll67TuqGjmOJP3) | 3:33 | 2022-09-06 | 2023-12-09 |
 | [Khwaab](https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab](https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4) | 2:58 | 2023-03-02 | 2023-08-04 |
+| [Kise Hor Da](https://open.spotify.com/track/6VtaoiKwWcVNtTpr8vTRUE) | [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s) | [Manmaani](https://open.spotify.com/album/2LAmN6XVq5kGH59XOezHkM) | 2:36 | 2023-12-21 |  |
 | [Kusu Kusu \(From "Satyameva Jayate 2"\)](https://open.spotify.com/track/6G699QfN1BWYWXfiblH51F) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P), [Dev Negi](https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK) | [Kusu Kusu \(From "Satyameva Jayate 2"\)](https://open.spotify.com/album/4QsZTMq6EZp26T67ou6ch9) | 3:15 | 2022-02-01 |  |
 | [Kyun](https://open.spotify.com/track/5FsqQpWVPzhDfnyNqU2Og7) | [Aastha Gill](https://open.spotify.com/artist/1BYjhAClGpBTLZfics0VRZ) | [Kyun](https://open.spotify.com/album/6GxIBsdJ8kYdHgnpKRByFM) | 2:26 | 2023-06-07 |  |
 | [Kyun Ho Jaate Ho Door](https://open.spotify.com/track/2boHTy8wRvOsr0xbf2uyBS) | [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Kyun Ho Jaate Ho Door](https://open.spotify.com/album/1EM3mEUMGkA46gTbmpJ2lN) | 2:50 | 2021-12-10 | 2022-01-05 |
@@ -209,7 +210,7 @@
 | [Saibo](https://open.spotify.com/track/6udC4b4jOSnHb9ItnXgKLR) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW) | [Shor in the City \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2HZl13JCi3PIaqVlIkp4q6) | 3:15 | 2022-04-05 |  |
 | [Salamat Rahe](https://open.spotify.com/track/1XjuK0C1GrX2Y59pjROzgY) | [Bhoomi Trivedi](https://open.spotify.com/artist/16IWQKGP5XiiKxalXZuIMZ), [Hussain Haidry](https://open.spotify.com/artist/2iABRD4RXxrhfiO1TPdFvy) | [I Love You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HFZIV8Jzpsvf63xInX6e6) | 3:23 | 2023-06-20 | 2023-07-25 |
 | [Samjhawan](https://open.spotify.com/track/0rk2X5TAhraBC5aCIXK2Rq) | [Jawad Ahmad](https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp), [Shaarib Toshi](https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Samjhawan](https://open.spotify.com/album/6XgV61OBbr8gHlXdAQ89Sj) | 4:29 | 2023-03-02 |  |
-| [Saranga Dariya](https://open.spotify.com/track/74IQCxI4nws964fic1Q4pv) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Love Story](https://open.spotify.com/album/7BuoXUb63gAPM9CMOlXJw1) | 3:50 | 2023-07-03 |  |
+| [Saranga Dariya](https://open.spotify.com/track/74IQCxI4nws964fic1Q4pv) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Love Story](https://open.spotify.com/album/7BuoXUb63gAPM9CMOlXJw1) | 3:50 | 2023-07-03 | 2023-12-22 |
 | [Savaria](https://open.spotify.com/track/060UbVPBhXeQhMLtef21WG) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Vikram Montrose](https://open.spotify.com/artist/0aXLGxJ65wok0y1bVG6flg) | [Savaria](https://open.spotify.com/album/3oMktrcEUa7JaqmzrpWSln) | 3:08 | 2023-10-06 | 2023-11-30 |
 | [Shaamat](https://open.spotify.com/track/6v5SAmKr4QjRr0K2RdlPFm) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Tara Sutaria](https://open.spotify.com/artist/6rOmL22Rvtv9INMpxfLluj) | [Ek Villain Returns](https://open.spotify.com/album/6DCj9zSkRhSN77UQe3J4s1) | 5:34 | 2022-11-30 |  |
 | [Shaamat \(From "Ek Villain Returns"\)](https://open.spotify.com/track/455lcFHS2MOMKcGquhAf22) | [Ankit Tiwari](https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB), [Tara Sutaria](https://open.spotify.com/artist/6rOmL22Rvtv9INMpxfLluj) | [Shaamat \(From "Ek Villain Returns"\)](https://open.spotify.com/album/6fgugUW2JZ9MYLffnmv8fB) | 5:34 | 2022-08-03 | 2023-11-30 |

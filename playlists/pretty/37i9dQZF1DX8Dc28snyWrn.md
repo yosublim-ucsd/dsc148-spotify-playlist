@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Dc28snyWrn.md) - [plain]
 
 > Take a breath with these lively, cathartic songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,915 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,992 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Dc28snyWrn.md) - [plain]
 | 49 | [Keep Your Head Up \(Album Version\)](https://open.spotify.com/track/2kebNtlS7DqWE54Z66FZIt) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Andy Grammer](https://open.spotify.com/album/2wp1jec3BcuaaXyM8VucWZ) | 3:10 |
 | 50 | [Geronimo](https://open.spotify.com/track/19cL3SOKpwnwoKkII7U3Wh) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Bombs Away](https://open.spotify.com/album/2Yi29VOccHCwktsZNqtxbt) | 3:38 |
 
-Snapshot ID: `MCwxNTRlN2E2MGE4MmJhNWRlMDViNWJlMDUzNmY3Y2YwMGYwYmMxNzI0`
+Snapshot ID: `MCw0OTA4MDRiODNkNzRlMTIyNDNlMWM4YTliNTdmZTdlZWY3ZTE0Mjdh`

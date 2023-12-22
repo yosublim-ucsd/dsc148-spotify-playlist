@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 278656,
       "name": "A Woman's Worth",
       "url": "https://open.spotify.com/track/1tD0eQMblBrqm3rY8ZksFS"
@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 303333,
       "name": "A Woman's Worth",
       "url": "https://open.spotify.com/track/0rimetBQIYXE3uMCbuXBUa"
@@ -356,7 +356,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 272703,
       "name": "Brand New Me",
       "url": "https://open.spotify.com/track/3ddTcWO0otfZvR3zn0bduS"
@@ -554,7 +554,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 217066,
       "name": "Come For Me (Unlocked)",
       "url": "https://open.spotify.com/track/1xgf7XiQ7rHae5SOuIrNVC"
@@ -580,7 +580,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 209853,
       "name": "Come For Me (Unlocked) (feat. Khalid & Lucky Daye)",
       "url": "https://open.spotify.com/track/0GDTDoQIJPk8zKBK4r1pzK"
@@ -974,7 +974,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 206911,
       "name": "Fallin'",
       "url": "https://open.spotify.com/track/4M3VnGriMuTOUV65fj16yg"
@@ -992,7 +992,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 210200,
       "name": "Fallin'",
       "url": "https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D"
@@ -1686,7 +1686,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 262762,
       "name": "LALA (Unlocked)",
       "url": "https://open.spotify.com/track/5oRbU0qch8SO127OPwiFdX"
@@ -1708,7 +1708,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 271226,
       "name": "LALA (Unlocked) (feat. Swae Lee)",
       "url": "https://open.spotify.com/track/1P3RSPnpzibXUDIMz3kLxE"
@@ -2524,7 +2524,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 171520,
       "name": "Only You (Originals)",
       "url": "https://open.spotify.com/track/05TNqUXgomBnqbzKKC8y6Y"
@@ -2542,7 +2542,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 195746,
       "name": "Only You (Originals)",
       "url": "https://open.spotify.com/track/4CN5QwsYFty7KkcVguSBXr"
@@ -2618,7 +2618,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 211066,
       "name": "Perfect Way To Die",
       "url": "https://open.spotify.com/track/4rxetbgJZra2oJKBIF8vr5"
@@ -2636,7 +2636,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 238997,
       "name": "Perfect Way To Die",
       "url": "https://open.spotify.com/track/0ALegRhmtzVDGhXvrOUrI0"
@@ -3064,7 +3064,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 250218,
       "name": "So Done",
       "url": "https://open.spotify.com/track/3CHdCeXVBB5U7PYxjilNuT"
@@ -3086,7 +3086,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 234866,
       "name": "So Done (feat. Khalid)",
       "url": "https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f"
@@ -3191,6 +3191,24 @@
     },
     {
       "album": {
+        "name": "Superwoman (Official Video)",
+        "url": "https://open.spotify.com/album/5wfC6dduP3qmO9unZ9HcPc"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253098,
+      "name": "Superwoman",
+      "url": "https://open.spotify.com/track/18kkEfe5r9c1TqoWpmjlKR"
+    },
+    {
+      "album": {
         "name": "As I Am (Expanded Edition)",
         "url": "https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h"
       },
@@ -3202,7 +3220,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 274106,
       "name": "Superwoman",
       "url": "https://open.spotify.com/track/694V3efHIeLmVRZIDMGc4O"
@@ -3256,7 +3274,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 190200,
       "name": "Teenage Love Affair",
       "url": "https://open.spotify.com/track/34ClgyHf8Awds1ew9vMX26"
@@ -3274,7 +3292,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 295210,
       "name": "Teenage Love Affair",
       "url": "https://open.spotify.com/track/4VnUhIagY3iC1N4MeWsEtw"
@@ -3476,7 +3494,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 168405,
       "name": "Trillions",
       "url": "https://open.spotify.com/track/4SRgSvPTF1xYFvDJYbyMG3"
@@ -3498,7 +3516,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 173053,
       "name": "Trillions (feat. Brent Faiyaz)",
       "url": "https://open.spotify.com/track/5md3aeM1WaEjDec9gH21yW"
@@ -3624,7 +3642,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 249240,
       "name": "Un-thinkable (I'm Ready)",
       "url": "https://open.spotify.com/track/4JOP8ELK6AaeySe7sKe996"
@@ -3642,7 +3660,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 281791,
       "name": "Un-thinkable (I'm Ready)",
       "url": "https://open.spotify.com/track/3eIU2ArynyyP0uFJG6ibsj"
@@ -3678,7 +3696,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 204400,
       "name": "Underdog",
       "url": "https://open.spotify.com/track/7FsAFw1oZeTJUZmIzSh0cg"
@@ -3696,7 +3714,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 208042,
       "name": "Underdog",
       "url": "https://open.spotify.com/track/1umefo2cFpOUXfRhcqqhZM"

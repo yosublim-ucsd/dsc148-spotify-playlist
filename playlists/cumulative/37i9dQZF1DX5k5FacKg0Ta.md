@@ -4,7 +4,7 @@
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-180 songs - 15 hr 41 min
+181 songs - 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,8 @@
 | [Sunday 20](https://open.spotify.com/track/1ZgAdSaIBOiuP4ORjwqq19) | [Timo Lassy](https://open.spotify.com/artist/12DkoR4cqoY6osVYHmsrAq) | [Trio](https://open.spotify.com/album/5lQSdw9RAGUJt2PS6az04U) | 5:47 | 2022-09-02 | 2023-02-18 |
 | [Syncopation](https://open.spotify.com/track/6szbDS2fOgav2PnB9fizou) | [Salesvuo Syncopation](https://open.spotify.com/artist/2dN3cwSujoBLOUvVxQBSY6) | [The Complete Loft Sessions](https://open.spotify.com/album/76OAO96nHjX9b2zSwYa0pE) | 4:34 | 2023-05-26 |  |
 | [The Day](https://open.spotify.com/track/7MMdO6NliB7AtFjefzFPd4) | [Signe](https://open.spotify.com/artist/3vltTncSI7lVsRtKnsEDfY) | [Syntax](https://open.spotify.com/album/45CGm3hNDfYcacvfukU2Ee) | 4:42 | 2023-06-02 | 2023-11-24 |
-| [The Moment Came](https://open.spotify.com/track/0otzA9Phtpsq04L9ZNUdAG) | [Josefiina Vannesluoma & Mortal Lease](https://open.spotify.com/artist/2WaYzZjc8NjXoPOqPpTnCM), [Sampo Kasurinen](https://open.spotify.com/artist/7fDPR1tDItmggYa8X97ksA), [Mikael Myrskog](https://open.spotify.com/artist/3pzdD5EnatdGM1OMZFuABN), [Nathan Francis](https://open.spotify.com/artist/4dB51YWbPAWssQkEe9DiUc), [Ville Luukkonen](https://open.spotify.com/artist/6Y6nK6vtcrXfsEIZhPV1fK) | [The Mortal Lease](https://open.spotify.com/album/6T6ub80N2wRq5CpMhclgYR) | 4:21 | 2023-10-19 |  |
+| [The Moment Came](https://open.spotify.com/track/0otzA9Phtpsq04L9ZNUdAG) | [Josefiina Vannesluoma & Mortal Lease](https://open.spotify.com/artist/2WaYzZjc8NjXoPOqPpTnCM), [Sampo Kasurinen](https://open.spotify.com/artist/7fDPR1tDItmggYa8X97ksA), [Mikael Myrskog](https://open.spotify.com/artist/3pzdD5EnatdGM1OMZFuABN), [Nathan Francis](https://open.spotify.com/artist/4dB51YWbPAWssQkEe9DiUc), [Ville Luukkonen](https://open.spotify.com/artist/6Y6nK6vtcrXfsEIZhPV1fK) | [The Mortal Lease](https://open.spotify.com/album/6T6ub80N2wRq5CpMhclgYR) | 4:21 | 2023-10-19 | 2023-12-22 |
+| [The Moment Came](https://open.spotify.com/track/0wTpJvzSYYdDMLmTF4AN9W) | [Josefiina Vannesluoma & Mortal Lease](https://open.spotify.com/artist/2WaYzZjc8NjXoPOqPpTnCM), [Sampo Kasurinen](https://open.spotify.com/artist/7fDPR1tDItmggYa8X97ksA), [Mikael Myrskog](https://open.spotify.com/artist/3pzdD5EnatdGM1OMZFuABN), [Nathan Francis](https://open.spotify.com/artist/4dB51YWbPAWssQkEe9DiUc), [Ville Luukkonen](https://open.spotify.com/artist/6Y6nK6vtcrXfsEIZhPV1fK) | [The Mortal Lease](https://open.spotify.com/album/0UkwuNUpeHUoqoYVuUHvkS) | 4:21 | 2023-12-15 |  |
 | [The Wheel](https://open.spotify.com/track/1rqk8yEMJ0R1oPvPjbM7Sv) | [Aarni Häkkinen](https://open.spotify.com/artist/5fL8MQ2i1zl3wczWfqAZYk), [Kasperi Sarikoski](https://open.spotify.com/artist/1yNUIy8ESiCTqEcCcf0snT), [Markus Niittynen](https://open.spotify.com/artist/0eusP0tQPKn4K6IHIuTZdn) | [The Wheel](https://open.spotify.com/album/0kKU0PwlEvOxTVgQLs1Qj9) | 7:07 | 2023-03-31 |  |
 | [The World Is Your Oyster](https://open.spotify.com/track/2yeGxLeOGTlQKZSUK2Mni7) | [Baba Ganoush Orkestra](https://open.spotify.com/artist/7eWAHn8KdJO4tNckYlkYUV) | [Meze](https://open.spotify.com/album/74JJd6RmHqD3deWsTIHEGq) | 4:23 | 2022-09-02 | 2023-09-15 |
 | [Three Dots And A Dash](https://open.spotify.com/track/28eRQiRTyHjVBatDBx5HTN) | [Olli Virtanen](https://open.spotify.com/artist/31hwRZySlJxJfoyMaB5Cx2), [Johannes Granroth](https://open.spotify.com/artist/0UCkImub9q7nMqkzegJFKm) | [Three Dots And A Dash](https://open.spotify.com/album/12ESJsQWfDMtkPak2o5b5z) | 4:16 | 2023-10-05 |  |

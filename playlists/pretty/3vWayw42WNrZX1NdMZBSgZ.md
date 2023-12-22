@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Poloo &quot;Sicario&quot;, Carlos Vives &amp; Ryan Castro &quot;Los Sabanales 3.0&quot;,  Polimá Westcoast &quot;BARCELONA&quot;, Emilia &amp; TINI &quot;La\_Original.mp3&quot;, Shakira &amp; Fuerza Regida &quot;El Jefe&quot;, Maluma x Carin Leon &quot;Segun Quien&quot; Cover: Carlos Vives, Ryan Castro
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 55,705 likes - 128 songs - 6 hr 47 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 55,703 likes - 128 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

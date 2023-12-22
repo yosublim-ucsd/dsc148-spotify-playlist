@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle guitar covers.
 
-265 songs - 13 hr 15 min
+266 songs - 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [TRUSTFALL](https://open.spotify.com/track/06riG7sQ4Oy5rM6rsxTyar) | [Leonardo Reyes](https://open.spotify.com/artist/5dK2EQpJRKs9eQbZ0PLnJG) | [TRUSTFALL](https://open.spotify.com/album/6rADWJpE4iU6o2a0STDQqZ) | 3:59 | 2023-03-17 |  |
 | [Unholy](https://open.spotify.com/track/0PygCKsVWFtKUQpOEXCgQs) | [Jimmie Pérez](https://open.spotify.com/artist/2YVeoYWJCapA1D4CFEr4Ff) | [Unholy](https://open.spotify.com/album/7nop3KZ6kZTdPuSf9bdFKw) | 2:31 | 2022-12-02 | 2023-02-04 |
 | [Until I Found You](https://open.spotify.com/track/4R2XWHPK2ljTjehV1PK82q) | [Ross Ware](https://open.spotify.com/artist/31DhMA96nPz7vdNPVTWi1q) | [Until I Found You](https://open.spotify.com/album/7eUEXAlRnCI2TTsqK3BJHm) | 2:16 | 2022-12-23 | 2023-06-03 |
+| [Up Where We Belong](https://open.spotify.com/track/3DGhWJz1fSwd80IOi6LjUH) | [Lo Larsen](https://open.spotify.com/artist/1RsZrWsACeuDkqAISdeFDi) | [Up Where We Belong](https://open.spotify.com/album/2n5lxbfM2ypvRahQ6LDrvc) | 3:21 | 2023-12-22 |  |
 | [Visa vid vindens ängar](https://open.spotify.com/track/7yuJEGsaEhonLWpqX67h5v) | [Adrian Edblad](https://open.spotify.com/artist/1BULcfR4Qb9AWG696JouwW) | [Visa vid vindens ängar](https://open.spotify.com/album/4hjS1cyVshSuAk0oLhVGKB) | 2:26 | 2022-05-20 | 2023-06-03 |
 | [Wake Me Up](https://open.spotify.com/track/41SWY0rWeJTEpzcLaR3dfL) | [Brennan Lynch](https://open.spotify.com/artist/17pyV0hn7BcEd4esh9GvHX) | [Wake Me Up](https://open.spotify.com/album/4PgndqAmhT0Pti7eVBv63o) | 1:50 | 2023-05-05 | 2023-06-16 |
 | [We Found Love](https://open.spotify.com/track/7oEmwAjdMSSeKdyRcqFb1z) | [Melvin Gale](https://open.spotify.com/artist/3l1WfSrcchINNxR1OygC8z) | [We Found Love](https://open.spotify.com/album/2X5MEv6zDjKVSzHUmmk8Vi) | 1:57 | 2023-05-05 | 2023-08-26 |

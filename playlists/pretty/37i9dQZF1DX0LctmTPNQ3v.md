@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0LctmTPNQ3v.md) - [plain]
 
 > Time to headbang around the Christmas tree! Cover: August Burns Red
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,516 likes - 69 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,455 likes - 69 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0LctmTPNQ3v.md) - [plain]
 | 68 | [Jingle Balls](https://open.spotify.com/track/1YpvaqiJEB1sZy7YXp9T9t) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Essential Korn](https://open.spotify.com/album/4YsYdC1VAagQknJujE7cvC) | 3:25 |
 | 69 | [Jingle Bell Rock](https://open.spotify.com/track/1KByj9F7hWwqxxSTHcLBGj) | [Brojob](https://open.spotify.com/artist/180Rv5adp0TxkQUawZM0wG) | [A VERY DEATHCORE CHRISTMAS WITH BROJOB 2](https://open.spotify.com/album/4nKOQ3IQWQtnlcRI4USzk4) | 2:29 |
 
-Snapshot ID: `MCw1M2NlM2ZiMTAwM2UzMWQ0ODU3Yjk0NDAzOGVkMDVlMDk2YTQyNjc5`
+Snapshot ID: `MCw0YTBkNjYyNjZkYjU1MjZiMzg4YzU2NjdhMjU2MjUxZmRkZWUyN2U3`

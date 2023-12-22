@@ -4,7 +4,7 @@
 
 > Good vibes for good times!
 
-138 songs - 8 hr 23 min
+139 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [There I Go](https://open.spotify.com/track/3CuCZo5XcwYTmoGio7GvD1) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Cali Roots Riddim 2020](https://open.spotify.com/album/6x5l8Cjzh0GaKQLVsLBOk7) | 3:22 | 2021-08-24 |  |
 | [Vibes \(feat\. KDM on the Track\) \- DJ Noiz Remix](https://open.spotify.com/track/0it8gyCvD9hIgokj6AzlR4) | [Creed Tha Kid](https://open.spotify.com/artist/0Gzx0kLgEZkaNJYGJCbdYR), [KDM on the Track](https://open.spotify.com/artist/5LFz0KKbclucY3br4TShZG), [DJ Noiz](https://open.spotify.com/artist/0ZVAv3drBuIRSc88ATH6UK) | [Vibes \(feat\. KDM on the Track\) \[DJ Noiz Remix\]](https://open.spotify.com/album/7GpPnJ92CkwSPFVKOwFGgl) | 3:01 | 2021-08-24 |  |
 | [We Smoke](https://open.spotify.com/track/7ypcbwvatoanQoXHLWXmaZ) | [Bodega Collective](https://open.spotify.com/artist/1kgMO1lOMZtHhRd7oOdHAW), [Big Skeez](https://open.spotify.com/artist/0N4XZEiYb7RIeIN0lsmVMu), [Elijah Yo](https://open.spotify.com/artist/4QdSwI8nLBjrN7344lBCbL), [RenzoMck.](https://open.spotify.com/artist/7h6GkKpa1H12PiOQ6RiRh4), [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [We Smoke](https://open.spotify.com/album/2Za3qO1esJmOgd77kqakkz) | 3:01 | 2022-04-21 |  |
+| [Working](https://open.spotify.com/track/3WA9SHUrBSnSJdZ6zG1x64) | [Bradamon Band](https://open.spotify.com/artist/3SGQLqF1vIQNVRmY54FNmr), [Lion Rezz](https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR) | [Working](https://open.spotify.com/album/5x2umHD2Cv6xFDhl7o12PY) | 3:28 | 2023-12-21 |  |
 | [Your Body](https://open.spotify.com/track/3HRpldxycaV9vJpNjSgoUb) | [Bibao](https://open.spotify.com/artist/3qbfPofRrhxm6jnbacynct) | [Your Body](https://open.spotify.com/album/3J0HiVk2mH6MzgfjePiQey) | 3:13 | 2021-08-24 | 2023-08-19 |
 | [Your Body](https://open.spotify.com/track/1tPzWQoTAjIrRk2S0G3QbN) | [Bibao](https://open.spotify.com/artist/3qbfPofRrhxm6jnbacynct) | [Believer](https://open.spotify.com/album/42QqNvcbYw5sGS3ieHrner) | 3:14 | 2023-06-08 | 2023-08-20 |
 | [Your Body](https://open.spotify.com/track/5wJhRNAobkFF9M6mDM2jG8) | [Bibao](https://open.spotify.com/artist/3qbfPofRrhxm6jnbacynct) | [Your Body](https://open.spotify.com/album/6hqIetwGvjUB5BaxJ9A7jX) | 3:14 | 2023-06-08 |  |

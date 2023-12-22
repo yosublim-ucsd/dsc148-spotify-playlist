@@ -5,6 +5,42 @@
   "tracks": [
     {
       "album": {
+        "name": "April Showers",
+        "url": "https://open.spotify.com/album/4LqeVKaBMwBSDdoJWqKOxe"
+      },
+      "artists": [
+        {
+          "name": "Kupiers & Winter",
+          "url": "https://open.spotify.com/artist/7GNJojOvDmfEwn4Dq5fm8g"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153624,
+      "name": "April Showers",
+      "url": "https://open.spotify.com/track/13FtO3C0RwCn3sjgDb1nYQ"
+    },
+    {
+      "album": {
+        "name": "Astoria",
+        "url": "https://open.spotify.com/album/7t11CijMPFRmJv4EACNbd1"
+      },
+      "artists": [
+        {
+          "name": "Clifford Randall Sextet",
+          "url": "https://open.spotify.com/artist/5b4vsyo5ULucBMPOU1Khlm"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Astoria",
+      "url": "https://open.spotify.com/track/0l5PJV6B2Z03pO8TkEMzxH"
+    },
+    {
+      "album": {
         "name": "Can't Help Loving That Man",
         "url": "https://open.spotify.com/album/72e5VzjaNRQ56KLxh8sbdI"
       },
@@ -185,6 +221,24 @@
     },
     {
       "album": {
+        "name": "I Love You for Sentimental Reasons",
+        "url": "https://open.spotify.com/album/1W6x5SIBcGGzXfsDS1bDPD"
+      },
+      "artists": [
+        {
+          "name": "Tonic and their Time",
+          "url": "https://open.spotify.com/artist/4f9dZJd9mswxGvKKoTJSZT"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169429,
+      "name": "I Love You for Sentimental Reasons",
+      "url": "https://open.spotify.com/track/70DqVqMJOJNoxiz9ciEl0y"
+    },
+    {
+      "album": {
         "name": "In the Blue Of The Evening",
         "url": "https://open.spotify.com/album/3OgbQEZ1stEBi6tw6sTvv4"
       },
@@ -326,6 +380,24 @@
       "duration_ms": 141645,
       "name": "Night and Day",
       "url": "https://open.spotify.com/track/4OOLNG5RDtYUZk3VYTS7rz"
+    },
+    {
+      "album": {
+        "name": "No Trouble",
+        "url": "https://open.spotify.com/album/4C46278YVf8ZX3oswTaASq"
+      },
+      "artists": [
+        {
+          "name": "South On South Jazz Trio",
+          "url": "https://open.spotify.com/artist/2S3UDGktnF1yMyPODluKqM"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127550,
+      "name": "No Trouble",
+      "url": "https://open.spotify.com/track/1gYOx5P59hN0C1ToMkwjbu"
     },
     {
       "album": {

@@ -4,13 +4,14 @@
 
 > Fusion hits of Coke Studio Pakistan\. Cover: Justin Bibis
 
-106 songs - 11 hr 43 min
+107 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aankharli Pharookai](https://open.spotify.com/track/5CDPRFMf6tAWMHfDY0tUv9) | [Karam Abbas](https://open.spotify.com/artist/73JkgWmqytdG1D2y8pnN9g), [Mai Dhai](https://open.spotify.com/artist/2bhqzypxtk5TJRHZLZMJ4u) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 6:12 | 2022-03-15 | 2023-10-08 |
 | [Aankharli Pharookai](https://open.spotify.com/track/3FKuxLw6af3jCRffrZ5jhI) | [Mai Dhai](https://open.spotify.com/artist/2bhqzypxtk5TJRHZLZMJ4u), [Karam Abbas](https://open.spotify.com/artist/73JkgWmqytdG1D2y8pnN9g) | [Coke Studio: Season 8](https://open.spotify.com/album/3peJK6wepWMSteaniFjkbz) | 6:12 | 2022-10-12 | 2023-12-09 |
-| [Aankharli Pharookai](https://open.spotify.com/track/3lEAjZXyDxjtObgKajRQ8F) | [Mai Dhai](https://open.spotify.com/artist/4m5YL2zRW7v3pc3p6tkVEf), [Karam Abbas](https://open.spotify.com/artist/73JkgWmqytdG1D2y8pnN9g) | [Coke Studio: Season 8](https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B) | 6:12 | 2022-10-12 |  |
+| [Aankharli Pharookai](https://open.spotify.com/track/3lEAjZXyDxjtObgKajRQ8F) | [Mai Dhai](https://open.spotify.com/artist/4m5YL2zRW7v3pc3p6tkVEf), [Karam Abbas](https://open.spotify.com/artist/73JkgWmqytdG1D2y8pnN9g) | [Coke Studio: Season 8](https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B) | 6:12 | 2022-10-12 | 2023-12-22 |
+| [Aankharli Pharookai \- Coke Studio Season 8](https://open.spotify.com/track/7izadKEukVlB13gS28kYlq) | [Mai Dhai](https://open.spotify.com/artist/4m5YL2zRW7v3pc3p6tkVEf), [Karam Abbas](https://open.spotify.com/artist/73JkgWmqytdG1D2y8pnN9g) | [Aankharli Pharookai \(Coke Studio Season 8\)](https://open.spotify.com/album/4ZFSUUpgbSTBbDUufKZo3I) | 6:12 | 2022-10-12 |  |
 | [Aaya Laariye](https://open.spotify.com/track/3AwPmvABmAc0iVuH49UOi8) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR), [Naeem Abbas Rufi](https://open.spotify.com/artist/47xe2IGE9DzGXpsFVvmXaF), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Coke Studio: Season 9](https://open.spotify.com/album/1BFQiBnV2cxrw1WFsabMcL) | 7:12 | 2022-03-15 | 2022-07-29 |
 | [Aaya Laariye \(Coke Studio Season 9\)](https://open.spotify.com/track/3mdWh20oySW08m75NxSC51) | [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR), [Naeem Abbas Rufi](https://open.spotify.com/artist/47xe2IGE9DzGXpsFVvmXaF) | [Aaya Laariye \(Coke Studio Season 9\)](https://open.spotify.com/album/53Itk6l9qzgKvvTBopDjhi) | 7:12 | 2022-03-15 |  |
 | [Aurangzeb](https://open.spotify.com/track/48wMVinMbKbym6Ql6eSJx7) | [Mughal\-E\-Funk](https://open.spotify.com/artist/0FMFfSdbjQi08hUB2KqUyx) | [Coke Studio Season 11 \(Sound of The Nation\)](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 4:42 | 2022-03-15 |  |

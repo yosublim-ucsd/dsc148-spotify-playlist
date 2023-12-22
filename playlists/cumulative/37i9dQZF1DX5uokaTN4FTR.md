@@ -2,7 +2,7 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: Belters Only, Sonny Fodera, Jazzy
+> The UK's biggest dance playlist! Cover: cassö, RAYE, D\-Block Europe
 
 533 songs - 1 day 4 hr 11 min
 

@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 504356,
+  "num_followers": 504407,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1Zjc5Y2IwMTYyNmI0NGRlYzA2ZWI1ZGMxY2Y3OTEyMWU1ZmVmY2Ni",
+  "snapshot_id": "MCw2OGRkZWNhYTU2MzdlZmFiNTQzNjgxYjdlZDEyODMzYmQyYjU5ZGU0",
   "tracks": [
     {
       "added_at": "2023-02-10 11:00:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 253208,
+      "name": "Lay Me Down",
+      "url": "https://open.spotify.com/track/74sb4Gib0cL3TQeCjYF8vh"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "OTW",
         "url": "https://open.spotify.com/album/0c4JocKlxYfBjZep8TJkcI"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 263013,
       "name": "OTW",
       "url": "https://open.spotify.com/track/6Hgh47WXVKtXN5zGOu0hjI"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 253208,
-      "name": "Lay Me Down",
-      "url": "https://open.spotify.com/track/74sb4Gib0cL3TQeCjYF8vh"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Every Kingdom",
-        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 249173,
-      "name": "Only Love",
-      "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Stripped",
         "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 238560,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 249173,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Part Of The Light",
-        "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 296386,
-      "name": "Such A Simple Thing",
-      "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Melancholic",
         "url": "https://open.spotify.com/album/6s7HjPR5SQ29OYKLIGq63J"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 170830,
       "name": "Lay By Me",
       "url": "https://open.spotify.com/track/5xQ1yxKzTuPcSNO9FP0lNS"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Part Of The Light",
+        "url": "https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 296386,
+      "name": "Such A Simple Thing",
+      "url": "https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1373,22 +1373,6 @@
       "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
     },
     {
-      "added_at": "2023-11-08 15:18:46",
-      "album": {
-        "name": "Full Circle : Sonic Book One",
-        "url": "https://open.spotify.com/album/0ZTwFe2keKG5kkROe5Unf7"
-      },
-      "artists": [
-        {
-          "name": "Omarion",
-          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
-        }
-      ],
-      "duration_ms": 173604,
-      "name": "Serious",
-      "url": "https://open.spotify.com/track/4FFbsUwwKfRjqVg3xJlhxS"
-    },
-    {
       "added_at": "2023-02-10 11:00:00",
       "album": {
         "name": "The Thrill Of It All (Special Edition)",
@@ -1403,6 +1387,22 @@
       "duration_ms": 207164,
       "name": "Midnight Train",
       "url": "https://open.spotify.com/track/1A85fOmviQuGgkF6Lww6Nd"
+    },
+    {
+      "added_at": "2023-11-08 15:18:46",
+      "album": {
+        "name": "Full Circle : Sonic Book One",
+        "url": "https://open.spotify.com/album/0ZTwFe2keKG5kkROe5Unf7"
+      },
+      "artists": [
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        }
+      ],
+      "duration_ms": 173604,
+      "name": "Serious",
+      "url": "https://open.spotify.com/track/4FFbsUwwKfRjqVg3xJlhxS"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
-        "name": "Echos",
-        "url": "https://open.spotify.com/album/6NEBdOy6auSHbdeC3jB4hQ"
-      },
-      "artists": [
-        {
-          "name": "Joshua Hyslop",
-          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
-        }
-      ],
-      "duration_ms": 257972,
-      "name": "Long Way Down",
-      "url": "https://open.spotify.com/track/5sdliaZjk3rVGuT13UVhxn"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
         "name": "Love Like This",
         "url": "https://open.spotify.com/album/5QJTyOnj3P0CfRNhhot0NO"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 250701,
       "name": "Love Like This",
       "url": "https://open.spotify.com/track/4evLXgbsrUfHvQjyyLmYDe"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
+        "name": "Echos",
+        "url": "https://open.spotify.com/album/6NEBdOy6auSHbdeC3jB4hQ"
+      },
+      "artists": [
+        {
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+        }
+      ],
+      "duration_ms": 257972,
+      "name": "Long Way Down",
+      "url": "https://open.spotify.com/track/5sdliaZjk3rVGuT13UVhxn"
     },
     {
       "added_at": "2023-02-10 11:00:00",
@@ -2031,6 +2031,22 @@
     {
       "added_at": "2023-02-10 11:00:00",
       "album": {
+        "name": "Suburb Hero",
+        "url": "https://open.spotify.com/album/0LuEYOydWvtw06yEO2x3O6"
+      },
+      "artists": [
+        {
+          "name": "Endre Nordvik",
+          "url": "https://open.spotify.com/artist/13BXjgYUjBzIvo5KgVoDPb"
+        }
+      ],
+      "duration_ms": 227252,
+      "name": "I'm In Love With You",
+      "url": "https://open.spotify.com/track/294dYnMUNXBv5oCbDV5Qxh"
+    },
+    {
+      "added_at": "2023-02-10 11:00:00",
+      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/67b4tJxbnsJbbcTUjnlb3y"
       },
@@ -2047,22 +2063,6 @@
       "duration_ms": 141757,
       "name": "Honey (with Muni Long)",
       "url": "https://open.spotify.com/track/5C93HMg6JWdTey2P717Ozq"
-    },
-    {
-      "added_at": "2023-02-10 11:00:00",
-      "album": {
-        "name": "Suburb Hero",
-        "url": "https://open.spotify.com/album/0LuEYOydWvtw06yEO2x3O6"
-      },
-      "artists": [
-        {
-          "name": "Endre Nordvik",
-          "url": "https://open.spotify.com/artist/13BXjgYUjBzIvo5KgVoDPb"
-        }
-      ],
-      "duration_ms": 227252,
-      "name": "I'm In Love With You",
-      "url": "https://open.spotify.com/track/294dYnMUNXBv5oCbDV5Qxh"
     },
     {
       "added_at": "2023-02-10 11:00:00",

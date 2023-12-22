@@ -1,33 +1,13 @@
 {
   "description": "Praise and worship from East Africa. Your ultimate Swahili Spiritual nourishment here. Cover: <a href=\"https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl?si=HadD_XhBS2mDgi67XVbyhA\">Phina</a> ",
-  "num_followers": 7031,
+  "num_followers": 7101,
   "original_name": "Swahili Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTc0ODYzZWI3MzYxNTU1OGFhOTRiYzhjMWE0MTgyYjVjMmE5OTBj",
+  "snapshot_id": "MCwyZjViZDAyMGIzMjA0MTdlZjdjNDc0MTRmZDQzOWY3MDZlMjVhOTJj",
   "tracks": [
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Sisi Ni Wale (feat. Freshow Band) [choir Version]",
-        "url": "https://open.spotify.com/album/6IqGrFxiBkjLnalaa6oKc4"
-      },
-      "artists": [
-        {
-          "name": "Phina",
-          "url": "https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl"
-        },
-        {
-          "name": "Freshow Band",
-          "url": "https://open.spotify.com/artist/4fhqxcc0V8TX4kAo1DEamA"
-        }
-      ],
-      "duration_ms": 152842,
-      "name": "Sisi Ni Wale (feat. Freshow Band) - choir Version",
-      "url": "https://open.spotify.com/track/6P9iYKJSKPJVFnBH1BAVWO"
-    },
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
@@ -93,22 +73,6 @@
       "url": "https://open.spotify.com/track/1CrMQWrcbgM12xZWAnPITv"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Pombe",
-        "url": "https://open.spotify.com/album/7bS2N5Hr5tmTzf58oxwXn7"
-      },
-      "artists": [
-        {
-          "name": "Rose Muhando",
-          "url": "https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87"
-        }
-      ],
-      "duration_ms": 341284,
-      "name": "Pombe",
-      "url": "https://open.spotify.com/track/4W3Bm7G15aXGEFd9oNaJJu"
-    },
-    {
       "added_at": "2023-11-24 00:01:00",
       "album": {
         "name": "Nita Amini (Live)",
@@ -123,6 +87,58 @@
       "duration_ms": 779914,
       "name": "Nita Amini - Live",
       "url": "https://open.spotify.com/track/0MmeFIEKNgYpw1cHWgBMJd"
+    },
+    {
+      "added_at": "2023-10-13 00:01:00",
+      "album": {
+        "name": "Sisi Ni Wale",
+        "url": "https://open.spotify.com/album/62kTShyCsFUxCyrqcs5Rb3"
+      },
+      "artists": [
+        {
+          "name": "Phina",
+          "url": "https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl"
+        }
+      ],
+      "duration_ms": 228251,
+      "name": "Sisi Ni Wale",
+      "url": "https://open.spotify.com/track/7fw4Nzwa0FB7Qwu3zyFaY9"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Sisi Ni Wale (feat. Freshow Band) [choir Version]",
+        "url": "https://open.spotify.com/album/6IqGrFxiBkjLnalaa6oKc4"
+      },
+      "artists": [
+        {
+          "name": "Phina",
+          "url": "https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl"
+        },
+        {
+          "name": "Freshow Band",
+          "url": "https://open.spotify.com/artist/4fhqxcc0V8TX4kAo1DEamA"
+        }
+      ],
+      "duration_ms": 152842,
+      "name": "Sisi Ni Wale (feat. Freshow Band) - choir Version",
+      "url": "https://open.spotify.com/track/6P9iYKJSKPJVFnBH1BAVWO"
+    },
+    {
+      "added_at": "2023-06-16 00:01:00",
+      "album": {
+        "name": "Safari: The Journey",
+        "url": "https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy"
+      },
+      "artists": [
+        {
+          "name": "Adawnage",
+          "url": "https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3"
+        }
+      ],
+      "duration_ms": 282932,
+      "name": "Naomba",
+      "url": "https://open.spotify.com/track/3Js89zRlholrVwfRJpWGEV"
     },
     {
       "added_at": "2022-06-24 17:41:13",
@@ -157,22 +173,6 @@
       "url": "https://open.spotify.com/track/6ry9UkAiQWj9lucisl02OR"
     },
     {
-      "added_at": "2023-10-13 00:01:00",
-      "album": {
-        "name": "Sisi Ni Wale",
-        "url": "https://open.spotify.com/album/62kTShyCsFUxCyrqcs5Rb3"
-      },
-      "artists": [
-        {
-          "name": "Phina",
-          "url": "https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl"
-        }
-      ],
-      "duration_ms": 228251,
-      "name": "Sisi Ni Wale",
-      "url": "https://open.spotify.com/track/7fw4Nzwa0FB7Qwu3zyFaY9"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Amen (feat. Kusah)",
@@ -204,25 +204,25 @@
           "url": "https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3"
         }
       ],
-      "duration_ms": 282932,
-      "name": "Naomba",
-      "url": "https://open.spotify.com/track/3Js89zRlholrVwfRJpWGEV"
-    },
-    {
-      "added_at": "2023-06-16 00:01:00",
-      "album": {
-        "name": "Safari: The Journey",
-        "url": "https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy"
-      },
-      "artists": [
-        {
-          "name": "Adawnage",
-          "url": "https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3"
-        }
-      ],
       "duration_ms": 281155,
       "name": "Uwezo",
       "url": "https://open.spotify.com/track/2CSXfQMjtbCi0bzPN8JqfM"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Pombe",
+        "url": "https://open.spotify.com/album/7bS2N5Hr5tmTzf58oxwXn7"
+      },
+      "artists": [
+        {
+          "name": "Rose Muhando",
+          "url": "https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87"
+        }
+      ],
+      "duration_ms": 341284,
+      "name": "Pombe",
+      "url": "https://open.spotify.com/track/4W3Bm7G15aXGEFd9oNaJJu"
     },
     {
       "added_at": "2023-06-09 00:01:00",
@@ -259,6 +259,22 @@
       "duration_ms": 192623,
       "name": "Tosheka",
       "url": "https://open.spotify.com/track/7wMBdjdvTxLlkZxhvS2aZx"
+    },
+    {
+      "added_at": "2022-06-24 17:41:13",
+      "album": {
+        "name": "Chanzo (Live)",
+        "url": "https://open.spotify.com/album/3GuJna16plebttcjo2CWWG"
+      },
+      "artists": [
+        {
+          "name": "Rehema Simfukwe",
+          "url": "https://open.spotify.com/artist/7qVRVoyILJ5XLMChYXIkKu"
+        }
+      ],
+      "duration_ms": 582283,
+      "name": "Chanzo - Live",
+      "url": "https://open.spotify.com/track/5iG9Kx1j49PZxAgr9G7CAw"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -363,22 +379,6 @@
       "duration_ms": 260064,
       "name": "Kumama Papa",
       "url": "https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2"
-    },
-    {
-      "added_at": "2022-06-24 17:41:13",
-      "album": {
-        "name": "Chanzo (Live)",
-        "url": "https://open.spotify.com/album/3GuJna16plebttcjo2CWWG"
-      },
-      "artists": [
-        {
-          "name": "Rehema Simfukwe",
-          "url": "https://open.spotify.com/artist/7qVRVoyILJ5XLMChYXIkKu"
-        }
-      ],
-      "duration_ms": 582283,
-      "name": "Chanzo - Live",
-      "url": "https://open.spotify.com/track/5iG9Kx1j49PZxAgr9G7CAw"
     },
     {
       "added_at": "2022-06-24 17:41:13",

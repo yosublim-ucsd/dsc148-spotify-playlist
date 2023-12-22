@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 241488,
+  "num_followers": 241527,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTAxYzk0NGUxNWI4MTlmMzNmOWUxOTkwMjM0YTkzNTVlZmRhYTkx",
+  "snapshot_id": "MCw3MTcyNTI0ZDAwZWQ1ZWUzZjQ0ZDg1NTliZjM4NjIwYjZmYTljZDdj",
   "tracks": [
     {
       "added_at": "2023-12-18 13:45:12",
@@ -963,26 +963,6 @@
     {
       "added_at": "2023-12-18 13:45:12",
       "album": {
-        "name": "You and I",
-        "url": "https://open.spotify.com/album/4LOK8lJTo5ftB7gr4vnngj"
-      },
-      "artists": [
-        {
-          "name": "Alice Aera",
-          "url": "https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7"
-        },
-        {
-          "name": "Majo",
-          "url": "https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/1EMy0gThjvmvKVQqBhBrPY"
-    },
-    {
-      "added_at": "2023-12-18 13:45:12",
-      "album": {
         "name": "Still Work (feat. Ty Dolla $ign & Muni Long)",
         "url": "https://open.spotify.com/album/0t2ykalFeWerglEzAC9tBS"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 154552,
       "name": "Still Work (feat. Ty Dolla $ign & Muni Long)",
       "url": "https://open.spotify.com/track/0teFeL0RvDeDbpmi1YZlFt"
+    },
+    {
+      "added_at": "2023-12-18 13:45:12",
+      "album": {
+        "name": "You and I",
+        "url": "https://open.spotify.com/album/4LOK8lJTo5ftB7gr4vnngj"
+      },
+      "artists": [
+        {
+          "name": "Alice Aera",
+          "url": "https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7"
+        },
+        {
+          "name": "Majo",
+          "url": "https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/1EMy0gThjvmvKVQqBhBrPY"
     },
     {
       "added_at": "2023-12-18 13:45:12",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-12-18 13:45:12",
       "album": {
-        "name": "Zwanger in De Club",
-        "url": "https://open.spotify.com/album/73kbFX65iAHPx1OPXvo4sJ"
-      },
-      "artists": [
-        {
-          "name": "KIMONO",
-          "url": "https://open.spotify.com/artist/1nSGi0gYeO1v0gWXRaGk1F"
-        }
-      ],
-      "duration_ms": 232747,
-      "name": "Zwanger in De Club",
-      "url": "https://open.spotify.com/track/1cGTc7bB6ZXCREKvIQE2gg"
-    },
-    {
-      "added_at": "2023-12-18 13:45:12",
-      "album": {
         "name": "Just Expectationz",
         "url": "https://open.spotify.com/album/4fuHL63s4VtjWQLy5QqlTa"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 228877,
       "name": "Just Expectationz",
       "url": "https://open.spotify.com/track/10GbMfN6Bt4V9k1blNBjzz"
+    },
+    {
+      "added_at": "2023-12-18 13:45:12",
+      "album": {
+        "name": "Zwanger in De Club",
+        "url": "https://open.spotify.com/album/73kbFX65iAHPx1OPXvo4sJ"
+      },
+      "artists": [
+        {
+          "name": "KIMONO",
+          "url": "https://open.spotify.com/artist/1nSGi0gYeO1v0gWXRaGk1F"
+        }
+      ],
+      "duration_ms": 232747,
+      "name": "Zwanger in De Club",
+      "url": "https://open.spotify.com/track/1cGTc7bB6ZXCREKvIQE2gg"
     },
     {
       "added_at": "2023-12-18 13:45:12",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-12-18 13:45:12",
       "album": {
-        "name": "Baeside",
-        "url": "https://open.spotify.com/album/6b4rqnlyogdajmmTc8tpRZ"
-      },
-      "artists": [
-        {
-          "name": "LORNZO",
-          "url": "https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz"
-        }
-      ],
-      "duration_ms": 104000,
-      "name": "Baeside",
-      "url": "https://open.spotify.com/track/61INco9IWV4MfDHnuLZQkt"
-    },
-    {
-      "added_at": "2023-12-18 13:45:12",
-      "album": {
         "name": "Drop In",
         "url": "https://open.spotify.com/album/5mFidAy9MG3XHqIFiH8NB3"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 206511,
       "name": "Drop In",
       "url": "https://open.spotify.com/track/3EawgQ7oWbOQ2vVg4Vk12j"
+    },
+    {
+      "added_at": "2023-12-18 13:45:12",
+      "album": {
+        "name": "Baeside",
+        "url": "https://open.spotify.com/album/6b4rqnlyogdajmmTc8tpRZ"
+      },
+      "artists": [
+        {
+          "name": "LORNZO",
+          "url": "https://open.spotify.com/artist/165m3O9waRPKckujKZnFlz"
+        }
+      ],
+      "duration_ms": 104000,
+      "name": "Baeside",
+      "url": "https://open.spotify.com/track/61INco9IWV4MfDHnuLZQkt"
     },
     {
       "added_at": "2023-12-18 13:45:12",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-12-18 13:45:12",
       "album": {
+        "name": "Loveloca",
+        "url": "https://open.spotify.com/album/6cc0aH6M1S3SAUdMglc37e"
+      },
+      "artists": [
+        {
+          "name": "J.A.D.E",
+          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Loveloca",
+      "url": "https://open.spotify.com/track/1JCKPYM0yFZfXeC04RmeiB"
+    },
+    {
+      "added_at": "2023-12-18 13:45:12",
+      "album": {
         "name": "I Love You And Its Getting Worse",
         "url": "https://open.spotify.com/album/4EveH7LTJ6mTkxXWK6y2Vu"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 179112,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/4eLFb0Ygy59SEisCWsa85h"
-    },
-    {
-      "added_at": "2023-12-18 13:45:12",
-      "album": {
-        "name": "Loveloca",
-        "url": "https://open.spotify.com/album/6cc0aH6M1S3SAUdMglc37e"
-      },
-      "artists": [
-        {
-          "name": "J.A.D.E",
-          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Loveloca",
-      "url": "https://open.spotify.com/track/1JCKPYM0yFZfXeC04RmeiB"
     },
     {
       "added_at": "2023-12-18 13:45:12",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-12-18 13:45:12",
       "album": {
-        "name": "hoe bedoel je?",
-        "url": "https://open.spotify.com/album/4CN04dChYLqFWOaSDhtOG3"
-      },
-      "artists": [
-        {
-          "name": "Danny Dubb",
-          "url": "https://open.spotify.com/artist/1ZzmoEKSOVNm75SY7T1zBe"
-        }
-      ],
-      "duration_ms": 137846,
-      "name": "hoe bedoel je?",
-      "url": "https://open.spotify.com/track/7juYCJy0yvKaV8uvZJV4p9"
-    },
-    {
-      "added_at": "2023-12-18 13:45:12",
-      "album": {
         "name": "2 Am",
         "url": "https://open.spotify.com/album/6gTZhOGjg9D5Ks5HunS9wu"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 142857,
       "name": "Emotionally Unavailable",
       "url": "https://open.spotify.com/track/4ysqeIgg9nExbHT9jyXMZu"
+    },
+    {
+      "added_at": "2023-12-18 13:45:12",
+      "album": {
+        "name": "hoe bedoel je?",
+        "url": "https://open.spotify.com/album/4CN04dChYLqFWOaSDhtOG3"
+      },
+      "artists": [
+        {
+          "name": "Danny Dubb",
+          "url": "https://open.spotify.com/artist/1ZzmoEKSOVNm75SY7T1zBe"
+        }
+      ],
+      "duration_ms": 137846,
+      "name": "hoe bedoel je?",
+      "url": "https://open.spotify.com/track/7juYCJy0yvKaV8uvZJV4p9"
     },
     {
       "added_at": "2023-12-18 13:45:12",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-12-18 13:45:12",
       "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/6OskzKNJss2nReEKRchfiy"
-      },
-      "artists": [
-        {
-          "name": "Sky Feliz",
-          "url": "https://open.spotify.com/artist/7EeqJ1ky6b1Kjf4vgGkx3O"
-        }
-      ],
-      "duration_ms": 164286,
-      "name": "Linger On",
-      "url": "https://open.spotify.com/track/6sAhTL86FQa2RhdbozNECI"
-    },
-    {
-      "added_at": "2023-12-18 13:45:12",
-      "album": {
         "name": "1+1",
         "url": "https://open.spotify.com/album/6PGhknbHltteEYewVcwXx4"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 172739,
       "name": "1+1",
       "url": "https://open.spotify.com/track/2TtiDn0UNM0x5O6wvcd7Kt"
+    },
+    {
+      "added_at": "2023-12-18 13:45:12",
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/6OskzKNJss2nReEKRchfiy"
+      },
+      "artists": [
+        {
+          "name": "Sky Feliz",
+          "url": "https://open.spotify.com/artist/7EeqJ1ky6b1Kjf4vgGkx3O"
+        }
+      ],
+      "duration_ms": 164286,
+      "name": "Linger On",
+      "url": "https://open.spotify.com/track/6sAhTL86FQa2RhdbozNECI"
     },
     {
       "added_at": "2023-12-18 13:45:12",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-12-18 13:45:12",
       "album": {
-        "name": "All I Need",
-        "url": "https://open.spotify.com/album/1CjPP5G4HZ9AuiJrMLHm6A"
-      },
-      "artists": [
-        {
-          "name": "Miss Lafamilia",
-          "url": "https://open.spotify.com/artist/5RUIxQGzPzXUD19Rb3W4e9"
-        }
-      ],
-      "duration_ms": 173909,
-      "name": "All I Need",
-      "url": "https://open.spotify.com/track/5V5MLWpaH416tfZl5e5z84"
-    },
-    {
-      "added_at": "2023-12-18 13:45:12",
-      "album": {
         "name": "Essence",
         "url": "https://open.spotify.com/album/113oIbTJ2PlFjNOw6xyMrF"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 172941,
       "name": "Awareness - Radio Edit",
       "url": "https://open.spotify.com/track/2bp8l2gJkGgsUszjJaruXp"
+    },
+    {
+      "added_at": "2023-12-18 13:45:12",
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/1CjPP5G4HZ9AuiJrMLHm6A"
+      },
+      "artists": [
+        {
+          "name": "Miss Lafamilia",
+          "url": "https://open.spotify.com/artist/5RUIxQGzPzXUD19Rb3W4e9"
+        }
+      ],
+      "duration_ms": 173909,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/5V5MLWpaH416tfZl5e5z84"
     },
     {
       "added_at": "2023-12-18 13:45:12",

@@ -1,12 +1,12 @@
 {
   "description": "Warm tunes to get you in the snuggle spirit, la fogata y el chocolate caliente son opcionales.",
-  "num_followers": 3214,
+  "num_followers": 3232,
   "original_name": "cozied up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMzU4ZDM2YTk4ODU2OWEyN2FiZjlkOTAwZDBhMGQwNjNmMzFmN2Jl",
+  "snapshot_id": "MCxhOTIxODljNmY4NmVkMGY1NmQxNjI1OThjYTBhMjgzYmI0OTc3YmY4",
   "tracks": [
     {
       "added_at": "2023-12-15 19:29:49",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-12-15 19:29:49",
       "album": {
+        "name": "rimas del verbo amar",
+        "url": "https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn"
+      },
+      "artists": [
+        {
+          "name": "BORJA",
+          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
+        }
+      ],
+      "duration_ms": 250186,
+      "name": "rimas del verbo amar",
+      "url": "https://open.spotify.com/track/4uJErcTeJUb93hu5Ud2kIX"
+    },
+    {
+      "added_at": "2023-12-15 19:29:49",
+      "album": {
         "name": "A Very Laufey Holiday",
         "url": "https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 158133,
       "name": "Love to Keep Me Warm",
       "url": "https://open.spotify.com/track/3wNzFBRNBuK1xz6XbZNBBQ"
-    },
-    {
-      "added_at": "2023-12-15 19:29:49",
-      "album": {
-        "name": "rimas del verbo amar",
-        "url": "https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn"
-      },
-      "artists": [
-        {
-          "name": "BORJA",
-          "url": "https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw"
-        }
-      ],
-      "duration_ms": 250186,
-      "name": "rimas del verbo amar",
-      "url": "https://open.spotify.com/track/4uJErcTeJUb93hu5Ud2kIX"
     },
     {
       "added_at": "2023-12-15 19:29:49",

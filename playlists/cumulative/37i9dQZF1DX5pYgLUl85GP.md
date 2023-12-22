@@ -4,7 +4,7 @@
 
 > El Top 50 de canciones en Instagram Reels, actualizado cada semana.
 
-54 songs - 2 hr 38 min
+55 songs - 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Moi...Lolita \- Angèle](https://open.spotify.com/track/6kVLJIRX0DPObwVPtaObaj) | [Trinix Remix](https://open.spotify.com/artist/0RvjLz7klSc5lNgxX7EiVZ) | [Moi...Lolita \- Angèle](https://open.spotify.com/album/6u7IH6q1O5166U07lcQx84) | 3:04 | 2023-12-13 |  |
 | [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 | 2023-12-13 |  |
 | [Monkeys Spinning Monkeys](https://open.spotify.com/track/0JOkg9ppNx6yXxVBqfDpB4) | [Kevin MacLeod](https://open.spotify.com/artist/4fSMtiyC6lF5BUO1tUMWMs), [Kevin](https://open.spotify.com/artist/7mTcyvqv1GInWjOTVkz6h1) | [Monkeys Spinning Monkeys](https://open.spotify.com/album/0B0M52eYuwR8kR0TZiYraN) | 2:05 | 2023-12-13 |  |
-| [Montagem Coral](https://open.spotify.com/track/2bWf8d1FhnB1ypJZ2bDUvt) | [fedo DJ](https://open.spotify.com/artist/0sfCfF62IjeupwxdvH7KM3), [ciaffa](https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x), [Sinom](https://open.spotify.com/artist/5M4Z9UYuF8o4fSrhnL6S5C), [UNCRYPTED INC.](https://open.spotify.com/artist/1Lp30VcQVQEDdb3Til1hRQ) | [Montagem Coral](https://open.spotify.com/album/3ON26D5AT9jJWeNwSc3CVR) | 2:25 | 2023-12-13 |  |
+| [MONTAGEM CORAL](https://open.spotify.com/track/5xnWaCA2uZkwxApShLNMs2) | [DJ Holanda](https://open.spotify.com/artist/7yC8pbSjZCPUp7q9zxhGAC), [Mc GW](https://open.spotify.com/artist/4PCJUOWh3i4ZrlzA2xRLXT), [Mc Th](https://open.spotify.com/artist/75ANwjnjXVeNJthIJgCo36), [Mc Cyclope](https://open.spotify.com/artist/1FIUVa3ZUJ2DAUHpXTxLGs) | [MONTAGEM CORAL](https://open.spotify.com/album/1Z27T5LoirDlX3bo8Kb6ee) | 2:25 | 2023-12-20 |  |
+| [Montagem Coral](https://open.spotify.com/track/2bWf8d1FhnB1ypJZ2bDUvt) | [fedo DJ](https://open.spotify.com/artist/0sfCfF62IjeupwxdvH7KM3), [ciaffa](https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x), [Sinom](https://open.spotify.com/artist/5M4Z9UYuF8o4fSrhnL6S5C), [UNCRYPTED INC.](https://open.spotify.com/artist/1Lp30VcQVQEDdb3Til1hRQ) | [Montagem Coral](https://open.spotify.com/album/3ON26D5AT9jJWeNwSc3CVR) | 2:25 | 2023-12-13 | 2023-12-22 |
 | [Mood Malandro](https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Mood Malandro](https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr) | 3:11 | 2023-12-13 |  |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-12-13 |  |
 | [Otra Vez](https://open.spotify.com/track/5LNf5l8xXqus1s9A43ReEZ) | [ProdMarvin](https://open.spotify.com/artist/0GZZDfmSrMDswOFc9nBWQz) | [Otra Vez](https://open.spotify.com/album/5408habaWK37BE9QUNEstD) | 2:14 | 2023-12-13 |  |

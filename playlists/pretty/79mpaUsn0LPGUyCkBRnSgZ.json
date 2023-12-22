@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "MTEyOCwzNDM0OWNjMTM5NTNlYmNjMTUyNzZhYzY5YTQ2ZTA4ZWI3ZDkxMWFi",
+  "snapshot_id": "MTEyOSwzODhjZTJkMDA2ZjI4ZDhhYjA3ZGU0YzkwMDVmZWRkNGE1YzVlMzcy",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -4939,6 +4939,26 @@
       "duration_ms": 80000,
       "name": "NINA",
       "url": "https://open.spotify.com/track/7cm2RiP6XC0LdzTWa6pi85"
+    },
+    {
+      "added_at": "2023-12-21 15:40:35",
+      "album": {
+        "name": "How Long Do You Think It's Gonna Last?",
+        "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
+      },
+      "artists": [
+        {
+          "name": "Big Red Machine",
+          "url": "https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O"
+        },
+        {
+          "name": "Ana\u00efs Mitchell",
+          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
+        }
+      ],
+      "duration_ms": 218426,
+      "name": "Latter Days",
+      "url": "https://open.spotify.com/track/7wOdJjz1WHJiBdzKSZWszu"
     }
   ],
   "unique_name": "Zacklog",

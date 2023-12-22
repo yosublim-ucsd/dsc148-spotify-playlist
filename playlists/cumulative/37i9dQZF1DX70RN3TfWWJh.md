@@ -2,7 +2,7 @@
 
 ### [Workout](https://open.spotify.com/playlist/37i9dQZF1DX70RN3TfWWJh)
 
-> Pop hits to keep your workout fresh,
+> Pop hits to keep your workout fresh
 
 520 songs - 1 day 2 hr 26 min
 

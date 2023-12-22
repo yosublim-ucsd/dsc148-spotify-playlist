@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 
 > A sonic wonderland of mesmerizing tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,522 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,580 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 49 | [El Tonto](https://open.spotify.com/track/1QbjXGsTITFUIxPauH3wJR) | [Radiotrónica](https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN) | [El Tonto](https://open.spotify.com/album/7zPK13GhWDQlCIebA48xxE) | 3:14 |
 | 50 | [Mata Hari](https://open.spotify.com/track/7wdoS8Tczz8wjhVjVsttIs) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Selva](https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M) | 3:47 |
 
-Snapshot ID: `MCxjOGMzNGNiYmIxMWU2MTZiOTQyYjg3NTc5OTdlYzNlNDYxMWI1Nzc1`
+Snapshot ID: `MCxhNzAyNzU2YzM5YzhiNTkxZmI0NDI3YmFhNDFhNzcyMGUyOGQzZmZk`

@@ -2683,6 +2683,28 @@
     },
     {
       "album": {
+        "name": "Working",
+        "url": "https://open.spotify.com/album/5x2umHD2Cv6xFDhl7o12PY"
+      },
+      "artists": [
+        {
+          "name": "Bradamon Band",
+          "url": "https://open.spotify.com/artist/3SGQLqF1vIQNVRmY54FNmr"
+        },
+        {
+          "name": "Lion Rezz",
+          "url": "https://open.spotify.com/artist/14fxWsn0UdNiW2GQIsL1wR"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208915,
+      "name": "Working",
+      "url": "https://open.spotify.com/track/3WA9SHUrBSnSJdZ6zG1x64"
+    },
+    {
+      "album": {
         "name": "Your Body",
         "url": "https://open.spotify.com/album/3J0HiVk2mH6MzgfjePiQey"
       },

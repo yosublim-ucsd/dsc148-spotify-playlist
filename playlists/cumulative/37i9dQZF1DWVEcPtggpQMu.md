@@ -2,9 +2,9 @@
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL?si=aSHo\-0MxTGCtM3fmI\-26Vw">Blxckie</a>
+> Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd?si=IgW7s1DITrCiFOfUmYULMA">Wordz</a>
 
-658 songs - 1 day 11 hr 46 min
+659 songs - 1 day 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Big Yonkinto](https://open.spotify.com/track/4IvFWu97HE2SqiMENUWfxs) | [Tae Africa](https://open.spotify.com/artist/4rT8HuOGuYHDbMH9IsWMAo), [DJ Switch](https://open.spotify.com/artist/6RBUG4w3ErLFxSxOmu7jnb) | [4 THE MO$H](https://open.spotify.com/album/17TGlMTOKVFSxo6HGHQRlD) | 3:21 | 2023-09-08 | 2023-10-21 |
 | [BIGGER THAN ME](https://open.spotify.com/track/2T8zFhRIoj0v4sD9YoZDW8) | [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [DEADLINES: FREE P2](https://open.spotify.com/album/5DvFNfnvFyPLDZp5gQm8ir) | 3:12 | 2022-12-12 | 2023-07-07 |
 | [BIGGER THAN US](https://open.spotify.com/track/1Ufrupv87t48mU4KtcZLbX) | [The Big Hash](https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL), [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT) | [BIGGER THAN US](https://open.spotify.com/album/6RsrwgXBbG6u23NnaHPOb5) | 3:35 | 2022-02-10 | 2022-09-10 |
+| [BIRDZ](https://open.spotify.com/track/3L8Sl6hGnFzVhXJ1KWrZR2) | [Wordz](https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd), [MashBeatz](https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras) | [PEOPLE FORGET TO BE PEOPLE \(Deluxe\)](https://open.spotify.com/album/4ThKlVCBUqAFU2ojb5VdH0) | 1:49 | 2023-12-21 |  |
 | [BLACK BLOOD](https://open.spotify.com/track/270GSJd0GkhCSMNYDlrtwN) | [Mark Akol](https://open.spotify.com/artist/3bEST1JRTy3cmNbRLTyEVb), [Sipho the Gift](https://open.spotify.com/artist/3UJed0SE76dXKWetExB4F8) | [BLACK BLOOD](https://open.spotify.com/album/0JIPX2B4XreeB3oHCU3U3c) | 1:20 | 2023-08-24 | 2023-10-21 |
 | [BLEED](https://open.spotify.com/track/1VZSafeIiGSZVCSQCbKPYX) | [GOLDFINGER\_SA](https://open.spotify.com/artist/028Hcr3uSb6RSZ22KSvmnq) | [BLEED](https://open.spotify.com/album/3TIKjP00HBJKfKoBAUGUV5) | 2:10 | 2022-03-24 | 2022-04-23 |
 | [Blessings](https://open.spotify.com/track/7gtn3W8ye2oMkPl5r0lLFz) | [Sipho the Gift](https://open.spotify.com/artist/3UJed0SE76dXKWetExB4F8), [Lia Butler](https://open.spotify.com/artist/730XN1ILF6WThTLwfSHFb3) | [Anxiety/Blessings](https://open.spotify.com/album/1lHaSEnVKbqmPu34CoVfcP) | 3:19 | 2022-02-17 | 2022-03-04 |

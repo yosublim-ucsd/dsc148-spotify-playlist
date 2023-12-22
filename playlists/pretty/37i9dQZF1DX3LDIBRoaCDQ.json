@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk.",
-  "num_followers": 1549529,
+  "num_followers": 1549743,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTA2OWFjODViZDMzN2ZlOTQ1MmVjMTc0ZWEzZDQ5ZDliNTZmMjU4",
+  "snapshot_id": "MCw4ZjdjZTFjMjQ2MWZiMmNmM2U0NjVjOTRlNTNjMTUxMjAzNDY2MGVj",
   "tracks": [
     {
       "added_at": "2022-11-28 15:26:19",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Wild in the Streets",
+        "url": "https://open.spotify.com/album/2PbpUnB5bRMHTF5bVF9HQr"
+      },
+      "artists": [
+        {
+          "name": "Circle Jerks",
+          "url": "https://open.spotify.com/artist/4ubY8RYfXkcEqgjEMDuLYl"
+        }
+      ],
+      "duration_ms": 151853,
+      "name": "Wild in the Streets",
+      "url": "https://open.spotify.com/track/2teaBsajEi4BWAZOD92vmS"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "Last Scream of the Missing Neighbors",
         "url": "https://open.spotify.com/album/4SXVG1SPGjA5ofm3CQsPnc"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 125040,
       "name": "I Love Livin' in the City",
       "url": "https://open.spotify.com/track/0qHt7KGw9LPm4Ms4qUZlSd"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Wild in the Streets",
-        "url": "https://open.spotify.com/album/2PbpUnB5bRMHTF5bVF9HQr"
-      },
-      "artists": [
-        {
-          "name": "Circle Jerks",
-          "url": "https://open.spotify.com/artist/4ubY8RYfXkcEqgjEMDuLYl"
-        }
-      ],
-      "duration_ms": 151853,
-      "name": "Wild in the Streets",
-      "url": "https://open.spotify.com/track/2teaBsajEi4BWAZOD92vmS"
     },
     {
       "added_at": "2022-11-28 15:26:19",

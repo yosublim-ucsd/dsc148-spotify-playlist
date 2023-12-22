@@ -4,7 +4,7 @@
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: yonige
 
-1,348 songs - 3 day 12 hr 34 min
+1,349 songs - 3 day 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [Dear Mom.](https://open.spotify.com/track/4xXLWhQPvbfYPfePQrA9kX) | [黑木](https://open.spotify.com/artist/2X1CtlSS1wXCjvQUPDdWNE) | [Dear Mom.](https://open.spotify.com/album/6YPi0EXRUIe4Ur3za4mQcl) | 4:06 | 2023-12-12 | 2023-12-20 |
 | [debbie](https://open.spotify.com/track/1L3KhykfkDwn8e0thZQCl1) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [debbie](https://open.spotify.com/album/3hbyV1y0FBu458IiNEu7o8) | 3:44 | 2022-05-31 | 2022-07-28 |
 | [Depression \- No Joy Remix](https://open.spotify.com/track/4Mv4PAsS2Q2bv8CJsTM9se) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq), [No Joy](https://open.spotify.com/artist/5N7DAaXV1EVXS8h2wyYrx2) | [Depression \(No Joy Remix\)](https://open.spotify.com/album/5akrcqcTzwHEJoB3OFGY9R) | 2:57 | 2023-02-28 | 2023-04-05 |
-| [Destruction Sisters](https://open.spotify.com/track/2yL4L5IgsXNQ7vBTFB5w9Q) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [INSAINT](https://open.spotify.com/album/7e6Q8ViA61T7KNw15oFr2s) | 2:30 | 2023-09-28 |  |
+| [Destruction Sisters](https://open.spotify.com/track/2yL4L5IgsXNQ7vBTFB5w9Q) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [INSAINT](https://open.spotify.com/album/7e6Q8ViA61T7KNw15oFr2s) | 2:30 | 2023-09-28 | 2023-12-22 |
 | [deus ex machina](https://open.spotify.com/track/3tklPArlXB1QUkPjCs0OB2) | [yonige](https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ) | [deus ex machina](https://open.spotify.com/album/7wQdgQFpJ8xLFiHxn9Jbyh) | 4:34 | 2023-12-05 | 2023-12-13 |
 | [distortion](https://open.spotify.com/track/6KFxZlEY7wIwZMzU2KHxGH) | [snooty](https://open.spotify.com/artist/4yuXex0AzwrDsTChZmGYvR) | [distortion](https://open.spotify.com/album/0ce13RSPlfQF0Z1Z1KgkXh) | 2:37 | 2023-12-12 | 2023-12-14 |
 | [distortion](https://open.spotify.com/track/78WUchJwUV7AmpbIjpVo9W) | [snooty](https://open.spotify.com/artist/4yuXex0AzwrDsTChZmGYvR) | [distortion](https://open.spotify.com/album/0mag2XvyFb1120iHHibXZZ) | 2:37 | 2023-12-12 | 2023-12-20 |
@@ -426,6 +426,7 @@
 | [Now Back](https://open.spotify.com/track/08PdBo2T8kdaZ2ZIK28SMd) | [アマイワナ](https://open.spotify.com/artist/78khO3LkYjAc4VSpHOJjrH) | [ベイビィ・ベッドルーム・パンク](https://open.spotify.com/album/3W23YvRkjCaoJycK3mD71W) | 3:01 | 2022-10-18 | 2022-11-02 |
 | [Odd Dancer](https://open.spotify.com/track/5KrmHvZqGCzxVjEdcB4xiX) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [Odd Dancer](https://open.spotify.com/album/6dgYwFD881z4kSbi0W0FA1) | 3:10 | 2023-06-29 | 2023-08-30 |
 | [odoru yo\-ni](https://open.spotify.com/track/5i8DJaF9DX2zkxJaT1Rqva) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [踊る様に](https://open.spotify.com/album/3BJTUKmDayBruxO1l5bP5E) | 2:48 | 2022-09-06 | 2023-04-12 |
+| [ODYSSEY](https://open.spotify.com/track/46G9BfFwSFCPpoPm0pAgP1) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [ODYSSEY](https://open.spotify.com/album/0ADfbr8bXhhRUnEkTbsVRE) | 4:36 | 2023-12-21 |  |
 | [OH HEY](https://open.spotify.com/track/6YZeMe9CGjpc6JG6JofwsU) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [OH HEY](https://open.spotify.com/album/1JlkxU3l8RV4whcN0nP1DD) | 3:57 | 2022-06-07 | 2022-10-12 |
 | [OH! LOVE! 幻!](https://open.spotify.com/track/5asbnOYmKPgHfV9fCmuyoN) | [SpecialThanks](https://open.spotify.com/artist/1ZzoJJ9wVpdlxB8Hp96ENk) | [OH! LOVE! 幻!](https://open.spotify.com/album/70MlunmJxH9H09zr2VlxrU) | 1:33 | 2023-10-31 | 2023-11-16 |
 | [olive drive](https://open.spotify.com/track/0AlkosW5LjGmQulFMj0UyC) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [Awesome.Ep](https://open.spotify.com/album/4yjXv4xDjCZQ1gZcK5kjd1) | 5:02 | 2022-11-15 | 2022-11-25 |

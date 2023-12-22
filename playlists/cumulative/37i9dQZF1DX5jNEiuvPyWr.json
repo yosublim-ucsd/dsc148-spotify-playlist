@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : So La Lune",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Djadja & Dinaz",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -492,7 +492,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 210408,
       "name": "Aucun effet",
       "url": "https://open.spotify.com/track/0zBClWjxSCelFFMBTOAcrN"
@@ -634,6 +634,24 @@
       "duration_ms": 139178,
       "name": "AVERSE",
       "url": "https://open.spotify.com/track/08S6rWmtM6L4xPpSjhm1g7"
+    },
+    {
+      "album": {
+        "name": "A\u00efcha",
+        "url": "https://open.spotify.com/album/0oae25t19eKc6zm5oEvaOL"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206684,
+      "name": "A\u00efcha",
+      "url": "https://open.spotify.com/track/3Z2lGD8m63wJ93bQ7BJrPT"
     },
     {
       "album": {
@@ -2819,6 +2837,24 @@
     },
     {
       "album": {
+        "name": "ICE",
+        "url": "https://open.spotify.com/album/7M1WGdWsIKZLjQLW4U9erX"
+      },
+      "artists": [
+        {
+          "name": "Ayvee",
+          "url": "https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114857,
+      "name": "kerosene",
+      "url": "https://open.spotify.com/track/1DU4iqHjKYdPt4iXo1vAsp"
+    },
+    {
+      "album": {
         "name": "ERRR",
         "url": "https://open.spotify.com/album/33YFTG260lyzS3THXtwyq7"
       },
@@ -2902,7 +2938,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 208336,
       "name": "L'\u00e2me du phoenix",
       "url": "https://open.spotify.com/track/4V1lFBt09vY2Jfx8jiVejx"

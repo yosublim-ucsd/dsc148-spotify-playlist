@@ -598,7 +598,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 235434,
       "name": "Between Us",
       "url": "https://open.spotify.com/track/1UxRk7ySL6EpSA0fuByeg0"
@@ -616,7 +616,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 255594,
       "name": "Between Us",
       "url": "https://open.spotify.com/track/1Cx24ZH6qTdVWNkcpylTHu"
@@ -846,7 +846,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 221280,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/22VBxThfU7M01FQ4TnomrO"
@@ -868,7 +868,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 208106,
       "name": "Breathe (feat. Ina Wroldsen)",
       "url": "https://open.spotify.com/track/4Vbz3osCh6DwHYv5gVv5H2"
@@ -1082,7 +1082,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 193365,
       "name": "Change My Love",
       "url": "https://open.spotify.com/track/3p7x1m7QkmeawRAujjGWd2"
@@ -1100,7 +1100,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 204453,
       "name": "Change My Love",
       "url": "https://open.spotify.com/track/5z4G37A29NpXvYVUY8BnZX"
@@ -1212,7 +1212,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 164724,
       "name": "City That Never Sleeps",
       "url": "https://open.spotify.com/track/2jv9q6oVcAlrVLk9QEmzar"
@@ -1230,7 +1230,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 169752,
       "name": "City That Never Sleeps",
       "url": "https://open.spotify.com/track/3qTUtYXgkWZ9dbt79ySZ2Z"
@@ -1406,6 +1406,28 @@
       "duration_ms": 199893,
       "name": "Confetti",
       "url": "https://open.spotify.com/track/1IsPPqD3imYYapeCbI6Bgx"
+    },
+    {
+      "album": {
+        "name": "Confetti (Official Video)",
+        "url": "https://open.spotify.com/album/34tIlktFA0OLI2OI80zWyV"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357248,
+      "name": "Confetti",
+      "url": "https://open.spotify.com/track/4MRHfc2LNFRoXJrrt33DiR"
     },
     {
       "album": {
@@ -2326,7 +2348,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 251968,
       "name": "Final Song",
       "url": "https://open.spotify.com/track/2abRWWHiHaA1ewYKFLDwSG"
@@ -2344,7 +2366,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 243501,
       "name": "Finally",
       "url": "https://open.spotify.com/track/3L2YVdNHcxmyLE5WKPKGU1"
@@ -2362,7 +2384,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 245000,
       "name": "Finally",
       "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
@@ -2468,7 +2490,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-18",
+      "date_removed": null,
       "duration_ms": 211200,
       "name": "Fly Girl",
       "url": "https://open.spotify.com/track/3qYbFcdGwTDulw6zVFOT2b"
@@ -2490,7 +2512,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 205384,
       "name": "Fly Girl (feat. Missy Elliott)",
       "url": "https://open.spotify.com/track/2sITbbWIOeg2Lwp4WN2jqr"
@@ -2862,7 +2884,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 244250,
       "name": "Good Luck",
       "url": "https://open.spotify.com/track/2gwI89uI3UQ23rSpK8B6vX"
@@ -2888,7 +2910,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-17",
+      "date_removed": null,
       "duration_ms": 235453,
       "name": "Good Luck (with Jax Jones & Galantis)",
       "url": "https://open.spotify.com/track/2BfJX65Te5q84Pku7osGRH"
@@ -3524,7 +3546,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 195000,
       "name": "I Could Get Used To This",
       "url": "https://open.spotify.com/track/0GN9ZMBqfeBTpCWT1XL2hl"
@@ -3546,7 +3568,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 194760,
       "name": "I Could Get Used To This (with WEISS)",
       "url": "https://open.spotify.com/track/6MSuMFyOdoJMAEgvnhqbRu"
@@ -3666,7 +3688,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 223520,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/0xxrzE1V4R2XBk4CfuTss0"
@@ -4238,7 +4260,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 148773,
       "name": "Let Them Know",
       "url": "https://open.spotify.com/track/3iEwla99ovgF0Rdla6FZm4"
@@ -4256,7 +4278,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 182850,
       "name": "Let Them Know",
       "url": "https://open.spotify.com/track/3hSe567EWQTIE1FMPhS9HZ"
@@ -4346,7 +4368,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 220968,
       "name": "Love (Sweet Love)",
       "url": "https://open.spotify.com/track/6Y9Sk7mKkNndGQBIwQ52Il"
@@ -4906,7 +4928,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 213427,
       "name": "Never Forget You",
       "url": "https://open.spotify.com/track/6hmhG1b4LEyNuashVvuIAo"
@@ -4928,7 +4950,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 242709,
       "name": "Never Forget You",
       "url": "https://open.spotify.com/track/03xHr4qu6VkaArjRs8KEi4"
@@ -4982,7 +5004,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 183021,
       "name": "No",
       "url": "https://open.spotify.com/track/0ONFGnOEErh2tL0HY39F3V"
@@ -5000,7 +5022,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 200320,
       "name": "No",
       "url": "https://open.spotify.com/track/2tY9Hf0oArZ1iYvqaKnMe9"
@@ -5400,7 +5422,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 216533,
       "name": "OK (Anxiety Anthem)",
       "url": "https://open.spotify.com/track/6bW7xROpvstfDvXdOnH96p"
@@ -5418,7 +5440,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 224600,
       "name": "OK (Anxiety Anthem)",
       "url": "https://open.spotify.com/track/6CuvET3Z4fcM20Oy82GTLf"
@@ -5712,13 +5734,13 @@
           "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
         },
         {
-          "name": "Years & Years",
+          "name": "Olly Alexander (Years & Years)",
           "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
         }
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 192960,
       "name": "Play",
       "url": "https://open.spotify.com/track/5MQRqJYqoOGT5hHNd5jvnC"
@@ -6246,7 +6268,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 239200,
       "name": "Ring Ring",
       "url": "https://open.spotify.com/track/3RLcG58HLAW5lIMBjMdaW9"
@@ -6272,7 +6294,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 217906,
       "name": "Ring Ring (with Mabel feat. Rich The Kid)",
       "url": "https://open.spotify.com/track/51FZnO9sWc2dazJneozkHp"
@@ -6464,7 +6486,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 190010,
       "name": "Run",
       "url": "https://open.spotify.com/track/38WySUQ3V67eYDboiRHLVk"
@@ -6486,7 +6508,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-18",
+      "date_removed": null,
       "duration_ms": 190093,
       "name": "Run (with Galantis)",
       "url": "https://open.spotify.com/track/1kaJ2dEM1jeXQaH7uDdyoD"
@@ -6834,7 +6856,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 153742,
       "name": "Side Effects",
       "url": "https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp"
@@ -6856,7 +6878,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 158290,
       "name": "Side Effects",
       "url": "https://open.spotify.com/track/5MjIJP6IHMgp986qKPr16E"
@@ -7164,7 +7186,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 147539,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/5KZVbtDMFcurkynWsncKtr"
@@ -7182,7 +7204,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 237690,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/51gLUAldcnacDgR5leewIC"
@@ -7222,7 +7244,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 212586,
       "name": "Sweet Melody",
       "url": "https://open.spotify.com/track/7tDXKvR41asAMSVF0KAlBz"
@@ -7240,7 +7262,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 213693,
       "name": "Sweet Melody",
       "url": "https://open.spotify.com/track/76Tuo484SLohJakHLnGI3B"
@@ -7270,7 +7292,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 228720,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/2LqwV6UF8PGnoEtqw8nYzN"
@@ -7300,7 +7322,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 210967,
       "name": "Tequila - Jax Jones & Martin Solveig Present Europa",
       "url": "https://open.spotify.com/track/6fU55C7VdMSSkJ0ZGmX2Kg"
@@ -7416,7 +7438,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 246074,
       "name": "The Rhythm",
       "url": "https://open.spotify.com/track/4laPvATil8SrIAlysZazYN"
@@ -7434,7 +7456,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 255240,
       "name": "The Rhythm",
       "url": "https://open.spotify.com/track/0k9KhK3PCrI5c7Q5biOUIs"
@@ -7706,7 +7728,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 208251,
       "name": "Tongue",
       "url": "https://open.spotify.com/track/6TYyyYYfOYGAvCJQQVrY8y"
@@ -7724,7 +7746,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 228120,
       "name": "Tongue",
       "url": "https://open.spotify.com/track/7wL6ixEy0N1EQVg9k62vnE"
@@ -8094,7 +8116,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 154786,
       "name": "Wasabi",
       "url": "https://open.spotify.com/track/7IOuCLt770D8v0u3SVaDeI"
@@ -8112,7 +8134,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-18",
+      "date_removed": null,
       "duration_ms": 208170,
       "name": "Wasabi",
       "url": "https://open.spotify.com/track/3FqXfId5uNh9kKzmHCWBF3"
@@ -8130,7 +8152,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 163700,
       "name": "Waste My Time",
       "url": "https://open.spotify.com/track/6Vt2v8xwxcGqAOcTKlBeWo"
@@ -8148,7 +8170,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 202377,
       "name": "Waste My Time",
       "url": "https://open.spotify.com/track/4KAsJ5ES1pdHl9CyYWQAo3"

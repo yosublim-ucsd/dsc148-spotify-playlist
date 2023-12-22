@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle piano covers.
 
-376 songs - 20 hr 3 min
+377 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Golden Hour \- Piano](https://open.spotify.com/track/07UZEhzObdhFdBk91IDMxO) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Relaxing Pop Piano Covers](https://open.spotify.com/album/6RInRZcSuXuuJFAMFkKdEy) | 2:38 | 2023-03-17 |  |
 | [Golden Hour \- Piano](https://open.spotify.com/track/6VfEhCxKzT7u1fW6lWtHV7) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Golden Hour \(Piano\)](https://open.spotify.com/album/7H4URknmYd8Am6pQLtZny6) | 2:38 | 2022-12-16 | 2023-04-12 |
 | [good 4 u](https://open.spotify.com/track/75tn6WWZg2fiMVXwalRKDs) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [Calm Piano Covers \(Volume 3\)](https://open.spotify.com/album/1snNEn4IXOOgkKkWNoKvca) | 3:21 | 2022-12-16 |  |
+| [Goodbye Yellow Brick Road](https://open.spotify.com/track/2qJsAAXFRJDzBDPnGD1HgA) | [Moonsong](https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX) | [Goodbye Yellow Brick Road](https://open.spotify.com/album/3NQazGgBW6d4uioUvaaYx7) | 2:14 | 2023-12-22 |  |
 | [Groovy Kind Of Love](https://open.spotify.com/track/6faVa20KtdwfyzsJ6PaohE) | [Pequeño Casero](https://open.spotify.com/artist/78lsXTokMcrytsGHc6jtf9) | [Groovy Kind Of Love](https://open.spotify.com/album/6swG5Fj4XarYTsnOm3CVAk) | 3:12 | 2022-11-18 |  |
 | [Hallelujah](https://open.spotify.com/track/4YZwWfva9YsKx2Xoo5eCBK) | [Brian Crain](https://open.spotify.com/artist/6roo9MjIl9htSsX2Snnipb) | [Piano and Light](https://open.spotify.com/album/0X03bt3jajm7DMCZ2L2SAl) | 4:11 | 2022-08-01 | 2022-10-15 |
 | [Hallelujah](https://open.spotify.com/track/4vXkT1Dgel9Y3W9V3IvM74) | [William Chu](https://open.spotify.com/artist/1OMbaqIBBz86y7FdoMcwMv) | [Hallelujah](https://open.spotify.com/album/38alZxIo99eD19U9ldrQSl) | 2:44 | 2022-10-14 | 2022-11-19 |

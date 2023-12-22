@@ -4,7 +4,7 @@
 
 > Blissed out beats and head nodding grooves \- Relax, study and vibe.
 
-404 songs - 15 hr 19 min
+406 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Glisten](https://open.spotify.com/track/7FCfLXSocNwUeEr8ML3phO) | [beyond pluto](https://open.spotify.com/artist/6WShzu0391mQ6M2hJEwm49) | [Glisten](https://open.spotify.com/album/5LVrVPyxHkhfrz3CiNWmMO) | 2:37 | 2022-12-09 |  |
 | [glow](https://open.spotify.com/track/35YOc3y59Yuplqg2SJLV7P) | [low&slow](https://open.spotify.com/artist/5nRIouNA5T37sVSDEjbhAL) | [glow](https://open.spotify.com/album/7AWPZZncC7z4FSJ5aZRbWP) | 2:09 | 2023-12-08 |  |
 | [Golden](https://open.spotify.com/track/72nUDZndXIVqRfcN8QY0OO) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv), [Brunch Collect](https://open.spotify.com/artist/0kAzoeOzrlScAtTLUy613u) | [Golden](https://open.spotify.com/album/14UMA8sw4Y9aBsCdlgWdMN) | 1:54 | 2023-01-06 |  |
+| [Gomorra](https://open.spotify.com/track/7b2pxrFGHyyzoClnxKqEVC) | [BeatsBySindri](https://open.spotify.com/artist/3l4l6Du65QxJ1uhw8SLsyV) | [Gomorra](https://open.spotify.com/album/6VVBTVyunenDGqNgmTKZZT) | 2:47 | 2023-12-22 |  |
 | [gradient humor](https://open.spotify.com/track/5b98E5yGPOo1to0S3MrLfc) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [gradient humor](https://open.spotify.com/album/2Pj0yWMnyWUoVoKEIF9pSQ) | 1:30 | 2022-11-11 |  |
 | [Great Listener](https://open.spotify.com/track/6naWnjaM6tZwt7Mpnv9HQK) | [pesto tree](https://open.spotify.com/artist/56eBOoNdnXvjDoAZXIaqed) | [Great Listener](https://open.spotify.com/album/7eLNVm2V5UdCg2IWMampBB) | 1:46 | 2022-11-11 | 2023-12-11 |
 | [Green Tea](https://open.spotify.com/track/2RUWiI2TRg7w1ejv0xHnif) | [Montparnasse](https://open.spotify.com/artist/3becgVz2D1McZjnd9YI6gK) | [Green Tea](https://open.spotify.com/album/5t5QgzTY2EOywscM6SiQex) | 2:18 | 2022-09-09 | 2022-12-16 |
@@ -313,6 +314,7 @@
 | [Sayuri](https://open.spotify.com/track/2RluOZNvc49Ddj3cqLUUSR) | [Fritz Pants](https://open.spotify.com/artist/6gGcdv1surWW1Mh32Q3GF1) | [Sayuri](https://open.spotify.com/album/04u4KqVs87eqD8smvP7Ril) | 2:13 | 2023-10-13 |  |
 | [Sea in Sight](https://open.spotify.com/track/4qI6GUyfbMtZ4gjxxISUaO) | [Snowji](https://open.spotify.com/artist/1jBhtlpf2bKt06VAAjwmBK), [Naute](https://open.spotify.com/artist/2LfwnXXH6HdeP825h4u7lt), [Deez Agree](https://open.spotify.com/artist/2xDHLlqk3BQ5vPY1ryXoNz) | [Sea in Sight](https://open.spotify.com/album/2IQCRrLVuHDq5ePsaWL5tv) | 2:13 | 2022-11-25 |  |
 | [Seasons](https://open.spotify.com/track/6RUXqsK0MlNGXFWBfZs400) | [M.I Hakone](https://open.spotify.com/artist/1Gi5R2l9oX8zs5iiy2vP7v) | [Seasons](https://open.spotify.com/album/1Gi40W4rRup1t8B0p5Y5Yf) | 2:04 | 2023-10-20 |  |
+| [Seven Hundred Fourteen 七百十四](https://open.spotify.com/track/12V1thgB2Hos7uSU4rOqro) | [d.w.h](https://open.spotify.com/artist/2Mv14rolxu9z56WEkPIhZd) | [Seven Hundred Fourteen 七百十四](https://open.spotify.com/album/1NUA3c1HKGNj9Bl5uWh7x7) | 2:24 | 2023-12-22 |  |
 | [Shakshuka](https://open.spotify.com/track/6kTd6Xu9IBCB5ShedtldZw) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [mommy](https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk) | [Shakshuka](https://open.spotify.com/album/2qL1eyBwFr9f4mDOFEXuii) | 2:52 | 2022-09-16 | 2023-11-18 |
 | [shelter](https://open.spotify.com/track/2RyZjcwgW7X3eMm38hZ0zo) | [Kolorama](https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC) | [shelter](https://open.spotify.com/album/2luq40AQDoOiR5hkbogFIc) | 2:05 | 2023-09-08 |  |
 | [Shifting Sands](https://open.spotify.com/track/4oikNLzA8VDnsEXrsiHQA9) | [G:sson](https://open.spotify.com/artist/6CrxpBxPlsZeW6Ss9mgoU8) | [Shifting Sands](https://open.spotify.com/album/3gEyvquozZ9YafoVW5Xlq2) | 2:27 | 2023-10-06 |  |

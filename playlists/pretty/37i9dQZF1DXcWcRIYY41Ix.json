@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Yoly Saa.",
-  "num_followers": 119641,
+  "num_followers": 119673,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWE1M2I4M2MzMDY5YmJiYTdkZGIzYzg1ZTJlOTM1Y2EwM2RhOTM5",
+  "snapshot_id": "MCxlNGNmMGRjYmM2NGViMTdhNTNlNmZjZDliNWUyNjE3NTZmMjcxNmIz",
   "tracks": [
     {
       "added_at": "2023-12-15 09:56:27",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-12-15 09:56:27",
       "album": {
+        "name": "ah\u00ed atr\u00e1s (miedo en el mar)",
+        "url": "https://open.spotify.com/album/0r6JJGfoXpCqOPvGCh9Sup"
+      },
+      "artists": [
+        {
+          "name": "Luis Ferc\u00e1n",
+          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
+        }
+      ],
+      "duration_ms": 233813,
+      "name": "ah\u00ed atr\u00e1s (miedo en el mar)",
+      "url": "https://open.spotify.com/track/4xcZZdAB9IZ9mOFrC9cmsL"
+    },
+    {
+      "added_at": "2023-12-15 09:56:27",
+      "album": {
         "name": "Lo Primero",
         "url": "https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 185036,
       "name": "Chavela",
       "url": "https://open.spotify.com/track/0rZrzVHDc6k3EYnAnIhUel"
-    },
-    {
-      "added_at": "2023-12-15 09:56:27",
-      "album": {
-        "name": "ah\u00ed atr\u00e1s (miedo en el mar)",
-        "url": "https://open.spotify.com/album/0r6JJGfoXpCqOPvGCh9Sup"
-      },
-      "artists": [
-        {
-          "name": "Luis Ferc\u00e1n",
-          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
-        }
-      ],
-      "duration_ms": 233813,
-      "name": "ah\u00ed atr\u00e1s (miedo en el mar)",
-      "url": "https://open.spotify.com/track/4xcZZdAB9IZ9mOFrC9cmsL"
     },
     {
       "added_at": "2023-12-15 09:56:27",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-12-15 09:56:27",
       "album": {
-        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
-        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Cristina Plata",
-          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
-        }
-      ],
-      "duration_ms": 183152,
-      "name": "Cuando los A\u00f1os Pasen",
-      "url": "https://open.spotify.com/track/6u1FdgL0eDeYOVrBxkvXF8"
-    },
-    {
-      "added_at": "2023-12-15 09:56:27",
-      "album": {
         "name": "Que Entren En Mi Cabeza",
         "url": "https://open.spotify.com/album/6GDCV6UWVgWDyiaw8QVQPz"
       },
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2023-12-15 09:56:27",
       "album": {
-        "name": "Inmensamente Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
+        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
+        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
       },
       "artists": [
         {
-          "name": "Ronroneo",
-          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
+          "name": "Mar\u00eda Cristina Plata",
+          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
         }
       ],
-      "duration_ms": 219967,
-      "name": "Inmensamente Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
+      "duration_ms": 183152,
+      "name": "Cuando los A\u00f1os Pasen",
+      "url": "https://open.spotify.com/track/6u1FdgL0eDeYOVrBxkvXF8"
     },
     {
       "added_at": "2023-12-15 09:56:27",
@@ -1227,6 +1211,22 @@
       "duration_ms": 167752,
       "name": "Rumba en Cahuita",
       "url": "https://open.spotify.com/track/0weanLGPZzqdbznu0iklgW"
+    },
+    {
+      "added_at": "2023-12-15 09:56:27",
+      "album": {
+        "name": "Inmensamente Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
+      },
+      "artists": [
+        {
+          "name": "Ronroneo",
+          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
+        }
+      ],
+      "duration_ms": 219967,
+      "name": "Inmensamente Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
     },
     {
       "added_at": "2023-12-15 09:56:27",
@@ -1259,6 +1259,26 @@
       "duration_ms": 200213,
       "name": "Tu Casa",
       "url": "https://open.spotify.com/track/4mnFuqhIJ0IgSbEe3HymeU"
+    },
+    {
+      "added_at": "2023-12-15 09:56:27",
+      "album": {
+        "name": "Los versos s\u00e1ficos",
+        "url": "https://open.spotify.com/album/6gOgdemsUT1qHDVMlEDmNi"
+      },
+      "artists": [
+        {
+          "name": "Christina Rosenvinge",
+          "url": "https://open.spotify.com/artist/7MignPwWd7ZxlPi54KtLpp"
+        },
+        {
+          "name": "Maria Arnal",
+          "url": "https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm"
+        }
+      ],
+      "duration_ms": 214823,
+      "name": "Canci\u00f3n de boda",
+      "url": "https://open.spotify.com/track/2bAofGOs0dpLpOtnhk6bqd"
     },
     {
       "added_at": "2023-12-15 09:56:27",
@@ -1315,58 +1335,6 @@
     {
       "added_at": "2023-12-15 09:56:27",
       "album": {
-        "name": "Los versos s\u00e1ficos",
-        "url": "https://open.spotify.com/album/6gOgdemsUT1qHDVMlEDmNi"
-      },
-      "artists": [
-        {
-          "name": "Christina Rosenvinge",
-          "url": "https://open.spotify.com/artist/7MignPwWd7ZxlPi54KtLpp"
-        },
-        {
-          "name": "Maria Arnal",
-          "url": "https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm"
-        }
-      ],
-      "duration_ms": 214823,
-      "name": "Canci\u00f3n de boda",
-      "url": "https://open.spotify.com/track/2bAofGOs0dpLpOtnhk6bqd"
-    },
-    {
-      "added_at": "2023-12-15 09:56:27",
-      "album": {
-        "name": "Tab\u00fa",
-        "url": "https://open.spotify.com/album/0vtS3RtK84fPO6U5GV59L5"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 244251,
-      "name": "Tab\u00fa",
-      "url": "https://open.spotify.com/track/6UJg0mVgXgQCDFOmi3lem6"
-    },
-    {
-      "added_at": "2023-12-15 09:56:27",
-      "album": {
-        "name": "Casi tierra",
-        "url": "https://open.spotify.com/album/2lScS0LNcGpQT5pY6MwJwY"
-      },
-      "artists": [
-        {
-          "name": "Vicente Navarro",
-          "url": "https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ"
-        }
-      ],
-      "duration_ms": 188405,
-      "name": "En el r\u00edo",
-      "url": "https://open.spotify.com/track/7qhXqxSuwOl5iYUDTLZFPY"
-    },
-    {
-      "added_at": "2023-12-15 09:56:27",
-      "album": {
         "name": "Yo Soy",
         "url": "https://open.spotify.com/album/6CO6GE3u3JTuxdcE10nE0e"
       },
@@ -1387,18 +1355,18 @@
     {
       "added_at": "2023-12-15 09:56:27",
       "album": {
-        "name": "Limoneros",
-        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
+        "name": "Casi tierra",
+        "url": "https://open.spotify.com/album/2lScS0LNcGpQT5pY6MwJwY"
       },
       "artists": [
         {
-          "name": "Borneo",
-          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
+          "name": "Vicente Navarro",
+          "url": "https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ"
         }
       ],
-      "duration_ms": 175786,
-      "name": "Limoneros",
-      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
+      "duration_ms": 188405,
+      "name": "En el r\u00edo",
+      "url": "https://open.spotify.com/track/7qhXqxSuwOl5iYUDTLZFPY"
     },
     {
       "added_at": "2023-12-15 09:56:27",
@@ -1415,6 +1383,38 @@
       "duration_ms": 202680,
       "name": "En Las Olas",
       "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
+    },
+    {
+      "added_at": "2023-12-15 09:56:27",
+      "album": {
+        "name": "Limoneros",
+        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
+      },
+      "artists": [
+        {
+          "name": "Borneo",
+          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
+        }
+      ],
+      "duration_ms": 175786,
+      "name": "Limoneros",
+      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
+    },
+    {
+      "added_at": "2023-12-15 09:56:27",
+      "album": {
+        "name": "Tab\u00fa",
+        "url": "https://open.spotify.com/album/0vtS3RtK84fPO6U5GV59L5"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 244251,
+      "name": "Tab\u00fa",
+      "url": "https://open.spotify.com/track/6UJg0mVgXgQCDFOmi3lem6"
     },
     {
       "added_at": "2023-12-15 09:56:27",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2023-12-15 09:56:27",
       "album": {
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3"
+      },
+      "artists": [
+        {
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+        }
+      ],
+      "duration_ms": 202610,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/25j1JelJbw6qcWSrwm6GAh"
+    },
+    {
+      "added_at": "2023-12-15 09:56:27",
+      "album": {
         "name": "Claroscuro",
         "url": "https://open.spotify.com/album/4RLLGLmJOwqsrq2H4DLUfo"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 233000,
       "name": "Gigante",
       "url": "https://open.spotify.com/track/6gofHPVdi4rGKuxHEbFPNR"
-    },
-    {
-      "added_at": "2023-12-15 09:56:27",
-      "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3"
-      },
-      "artists": [
-        {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
-        }
-      ],
-      "duration_ms": 202610,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/25j1JelJbw6qcWSrwm6GAh"
     }
   ],
   "unique_name": "Cancionistas",

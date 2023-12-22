@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ea8UX0P9phKEpXzFjy6q5.md) - [plain]
 
 > 
 
-[Marquis](https://open.spotify.com/user/31n4dji4mze6heiffb55f6j4uceq) - 0 like - 77 songs - 4 hr 27 min
+[Marquis](https://open.spotify.com/user/31n4dji4mze6heiffb55f6j4uceq) - 0 like - 78 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,5 +85,6 @@ pretty - [cumulative](/playlists/cumulative/0ea8UX0P9phKEpXzFjy6q5.md) - [plain]
 | 75 | [Ylang Ylang](https://open.spotify.com/track/6lAMnXLVCBPMXXWAK4lGSL) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [Ylang Ylang EP](https://open.spotify.com/album/0A13mnL2iaAoke3GXWsvB1) | 3:33 |
 | 76 | [Sparks](https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 3:47 |
 | 77 | [ARE WE STILL FRIENDS?](https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 4:25 |
+| 78 | [Kids](https://open.spotify.com/track/3pyyGVqWvRMq43qtJBzxe0) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Kids](https://open.spotify.com/album/39OIkrUzvzzCkwhXh9Rdeg) | 4:29 |
 
-Snapshot ID: `MzMxLDVhZWMwNTU5NDAyZDhhZGI2YmJiNTY1NDBhMGVmYzljNzJmZjllZDE=`
+Snapshot ID: `MzMyLDZjZTVkYmZlNzE5YzgxMjQ2ZjJhYTc2Yjc5ZGQ3MTM1M2ZiNDkwMGI=`

@@ -1,15 +1,67 @@
 {
-  "description": "All the new music you need to hear right now. Cover: Rene\u00e9 Rapp & Megan Thee Stallion",
-  "num_followers": 545629,
+  "description": "All the new music you need to hear right now. Cover: Tom Odell",
+  "num_followers": 545669,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzQwNmU3NmNjZWIwZDRhYjBiZmE0NzVlOTg5NWZhN2M4OTJmOWFj",
+  "snapshot_id": "MCw2MTdmZWIwYWM4ODMxOTJmNDEwZjk0OWM1OGIxNjgzM2Q5Y2ZjOWE4",
   "tracks": [
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Entrapreneur",
+        "url": "https://open.spotify.com/album/6VrYcDdRM3W0eqHbaTKcWh"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 144253,
+      "name": "Entrapreneur",
+      "url": "https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "The End",
+        "url": "https://open.spotify.com/album/5yQSR4I6kIx4a7Siq2Q6vZ"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 205634,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/3e4QnOQmNqJaBjpmjGYZK0"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "S2",
+        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 210194,
+      "name": "Ololufe (feat. Wande Coal)",
+      "url": "https://open.spotify.com/track/0x3sDnom0itB72oEVrRE7v"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Not My Fault (with Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj"
@@ -29,7 +81,47 @@
       "url": "https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Smoke In Your Eyes",
+        "url": "https://open.spotify.com/album/5EEitGHmxCB0XD0rtV3bE7"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Ossie",
+          "url": "https://open.spotify.com/artist/4k2R7rFptalNPkyGEq2s9G"
+        },
+        {
+          "name": "Harry Stone",
+          "url": "https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96"
+        }
+      ],
+      "duration_ms": 391503,
+      "name": "Smoke In Your Eyes",
+      "url": "https://open.spotify.com/track/2Kurh5hEYRgzDzuahjHytQ"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Wifey Riddim 4",
+        "url": "https://open.spotify.com/album/6DYAAqIERXoKZxUymEq1S3"
+      },
+      "artists": [
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "duration_ms": 183935,
+      "name": "Wifey Riddim 4",
+      "url": "https://open.spotify.com/track/6tbHckupN0s7pM7w2ifq12"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Deadly (feat. Victony)",
         "url": "https://open.spotify.com/album/03YaxCFFtgahKn6fk8lxcL"
@@ -49,7 +141,83 @@
       "url": "https://open.spotify.com/track/7MmtzAIcOnhKL8cjpdLitf"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "JOY (Push The Button)",
+        "url": "https://open.spotify.com/album/1jkNntbUEEHM1TDNrestb2"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        },
+        {
+          "name": "Sugababes",
+          "url": "https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf"
+        }
+      ],
+      "duration_ms": 235198,
+      "name": "JOY (Push The Button)",
+      "url": "https://open.spotify.com/track/38k9ZI2scBdNV11KM3pTNB"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Back To The Water Below",
+        "url": "https://open.spotify.com/album/4B9IAqwQaPYHQi7kJcpPFQ"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 186196,
+      "name": "Mountains At Midnight",
+      "url": "https://open.spotify.com/track/63V2LU9M9pLkimultjujl5"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 235689,
+      "name": "Needle (feat. Drake)",
+      "url": "https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6B5LA5m4bNlH1lTI91biWb"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "RobbieG",
+          "url": "https://open.spotify.com/artist/2NWRfNAjBd2cUOKbE9Isda"
+        }
+      ],
+      "duration_ms": 181737,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/52Y1NDCiTeWECwQSeUdAaA"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "THINK LATER",
         "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
@@ -65,7 +233,31 @@
       "url": "https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Lace It (with Eminem & benny blanco)",
+        "url": "https://open.spotify.com/album/5nOfPCLpHGpayGrUNHAPLt"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        }
+      ],
+      "duration_ms": 217526,
+      "name": "Lace It (with Eminem & benny blanco)",
+      "url": "https://open.spotify.com/track/4qmG24ebshLXtKu9HIShBP"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Stop Giving Me Advice",
         "url": "https://open.spotify.com/album/0JhzjAau8sB1yiU8HzS3vv"
@@ -89,7 +281,7 @@
       "url": "https://open.spotify.com/track/6j3wDNKqEeZ6QwPtCcpJX8"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Sleepwalking",
         "url": "https://open.spotify.com/album/1WkPJ7h3W8VNTOaRWWsATU"
@@ -105,23 +297,27 @@
       "url": "https://open.spotify.com/track/4axflVhTuU55y1ZYyLJ22X"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "There Will Come A Day (From The Original Motion Picture \u201cThe Color Purple\u201d)",
-        "url": "https://open.spotify.com/album/4dIqji1wN91X70LlogDNva"
+        "name": "leavemealone",
+        "url": "https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb"
       },
       "artists": [
         {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
         }
       ],
-      "duration_ms": 223501,
-      "name": "There Will Come A Day - From The Original Motion Picture \u201cThe Color Purple\u201d",
-      "url": "https://open.spotify.com/track/7d85Lf81OaQ43VfOCQWxi7"
+      "duration_ms": 222784,
+      "name": "leavemealone",
+      "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Walk Away",
         "url": "https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc"
@@ -145,47 +341,63 @@
       "url": "https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+        "name": "f@k\u20ac",
+        "url": "https://open.spotify.com/album/1o8jGQjvhRvE3ecv4KSlS4"
       },
       "artists": [
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Kingdom",
+          "url": "https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj"
         }
       ],
-      "duration_ms": 235689,
-      "name": "Needle (feat. Drake)",
-      "url": "https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91"
+      "duration_ms": 107250,
+      "name": "f@k\u20ac",
+      "url": "https://open.spotify.com/track/25dihw6b05yrnLyqxs3IDO"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "leavemealone",
-        "url": "https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb"
+        "name": "Twin Sisters (feat. Skrapz) [Edit]",
+        "url": "https://open.spotify.com/album/0lT9O0O6cx7ftjEn3dPNY1"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+          "name": "Ghetts",
+          "url": "https://open.spotify.com/artist/7zJL978NtANOysfGY21ty6"
         },
         {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+          "name": "Skrapz",
+          "url": "https://open.spotify.com/artist/67R8l2OLqGwA9V4BKllYQY"
         }
       ],
-      "duration_ms": 222784,
-      "name": "leavemealone",
-      "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
+      "duration_ms": 230693,
+      "name": "Twin Sisters (feat. Skrapz) - Edit",
+      "url": "https://open.spotify.com/track/1DZjlDnEKkKRIYEIFXQ5EN"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "There Will Come A Day (From The Original Motion Picture \u201cThe Color Purple\u201d)",
+        "url": "https://open.spotify.com/album/4dIqji1wN91X70LlogDNva"
+      },
+      "artists": [
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "duration_ms": 223501,
+      "name": "There Will Come A Day - From The Original Motion Picture \u201cThe Color Purple\u201d",
+      "url": "https://open.spotify.com/track/7d85Lf81OaQ43VfOCQWxi7"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/7rROu8cbJwD6gr3DwcPx07"
@@ -201,23 +413,7 @@
       "url": "https://open.spotify.com/track/70lkOeQI0L3bSgj183ZPm5"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
-        "name": "The Color Purple (Music From And Inspired By)",
-        "url": "https://open.spotify.com/album/3OWJJ98IlTcnSKKrbgeCT5"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 249413,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/30lwUdX7cxvB7pAo99jDt5"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "MY HOUSE",
         "url": "https://open.spotify.com/album/1H1ivGeE2LjPjE71OITTZs"
@@ -233,7 +429,23 @@
       "url": "https://open.spotify.com/track/7omJfT9s6V2IpQNBYyq5C8"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "The Color Purple (Music From And Inspired By)",
+        "url": "https://open.spotify.com/album/3OWJJ98IlTcnSKKrbgeCT5"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 249413,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/30lwUdX7cxvB7pAo99jDt5"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Meekzness",
         "url": "https://open.spotify.com/album/2puF8hJFMPoEaYMaSHTZ8F"
@@ -249,7 +461,7 @@
       "url": "https://open.spotify.com/track/6UtbpIkvZkL3eODRJ8QuHQ"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Hungover (with Camden Cox)",
         "url": "https://open.spotify.com/album/0zmoJBEhLPoiKBzXMeFjAm"
@@ -273,7 +485,7 @@
       "url": "https://open.spotify.com/track/1HmeANWuuCP6ldvGgKwTLi"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Happiness (feat. Asake & Gunna)",
         "url": "https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf"
@@ -297,7 +509,7 @@
       "url": "https://open.spotify.com/track/6rOqLUy3kp0PVQQEtNPpbQ"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Slipping Through My Fingers",
         "url": "https://open.spotify.com/album/7pSzmTOe96E5qc3gXgMvpr"
@@ -313,7 +525,7 @@
       "url": "https://open.spotify.com/track/6ZDAwdhazkWaqEDk0bj1OU"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Not An Angel",
         "url": "https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k"
@@ -329,7 +541,7 @@
       "url": "https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "I Like",
         "url": "https://open.spotify.com/album/0zSwAYM6WdPW2sj3JyQpya"
@@ -357,7 +569,7 @@
       "url": "https://open.spotify.com/track/1QE4gxq2czTc8ClhPvTrgT"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Astronaut",
         "url": "https://open.spotify.com/album/3kEiyT5GXTX6jFK92h6qL9"
@@ -373,7 +585,7 @@
       "url": "https://open.spotify.com/track/7nku4ywsysUidKcPiS4hIQ"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "No Justice 4 Grenfell, No Peace",
         "url": "https://open.spotify.com/album/4Hw8t6mRiXBVssPD4AqtMO"
@@ -393,7 +605,7 @@
       "url": "https://open.spotify.com/track/4xfeP9VdQivxdtcaUF1FLQ"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "TYLA",
         "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
@@ -409,7 +621,7 @@
       "url": "https://open.spotify.com/track/1whAXVGN8AdfrnoXNIXfJf"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Rise Up",
         "url": "https://open.spotify.com/album/6eDKKi7HgzlGQQM8F67og7"
@@ -425,7 +637,7 @@
       "url": "https://open.spotify.com/track/3wEKXWiYq3h4MCDJZiny0S"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Paris",
         "url": "https://open.spotify.com/album/5DFNdBjKvIRlPl0i76yBSC"
@@ -441,7 +653,7 @@
       "url": "https://open.spotify.com/track/3WzmwVmkRDTYroaLg0Klcb"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Take Me Home, Country Roads",
         "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
@@ -457,7 +669,7 @@
       "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Airplane Tickets",
         "url": "https://open.spotify.com/album/6xEpW40GaWcE663h7cA3Ws"
@@ -481,7 +693,7 @@
       "url": "https://open.spotify.com/track/2v1FKs8SR6tYEYREKM6MNN"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Dilemma",
         "url": "https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk"
@@ -497,7 +709,7 @@
       "url": "https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY"
@@ -513,7 +725,7 @@
       "url": "https://open.spotify.com/track/0j6oelnoCs8StrR26Fm04P"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "pretty good for a bad day",
         "url": "https://open.spotify.com/album/3Rj2HxZFLcGCCb7bZWwe9r"
@@ -533,7 +745,7 @@
       "url": "https://open.spotify.com/track/00LBxD0r6QHfBYDrvJUsuw"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "QUE CHIMBA DE VIDA",
         "url": "https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW"
@@ -549,7 +761,7 @@
       "url": "https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Hold The Girl (Bonus Edition)",
         "url": "https://open.spotify.com/album/6XSoviEu85xxQIAtX9VPIb"
@@ -569,7 +781,7 @@
       "url": "https://open.spotify.com/track/4H9yO3xQEpKHbLwF6n5ldj"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "You're Losing Me (From The Vault)",
         "url": "https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7"
@@ -585,7 +797,7 @@
       "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "ROUND HERE",
         "url": "https://open.spotify.com/album/66Kdoqkhg6iT6lNJrspv56"
@@ -601,7 +813,7 @@
       "url": "https://open.spotify.com/track/3NvTqpuCU4AW7XTCGekj8l"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Lover/Friend",
         "url": "https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX"
@@ -621,7 +833,7 @@
       "url": "https://open.spotify.com/track/5ahq8vkzMznGmfN2EVOukP"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "42",
         "url": "https://open.spotify.com/album/1q93Q9Xc7WIcJLNBgOIPBQ"
@@ -641,7 +853,7 @@
       "url": "https://open.spotify.com/track/5PIhpG2ax06QpBLRqlYQql"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Fashion Nympho",
         "url": "https://open.spotify.com/album/6iu5ClhbjsWLrTHr8evGl9"
@@ -657,7 +869,7 @@
       "url": "https://open.spotify.com/track/36DpqHlVo4uw3ZbcMCgsZx"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "I Got Nothing",
         "url": "https://open.spotify.com/album/32wadIN0emxBanTLINlH08"
@@ -681,7 +893,7 @@
       "url": "https://open.spotify.com/track/4yagkb6nJCRcfjUhaOVHTw"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "The Game",
         "url": "https://open.spotify.com/album/1ZFchlkKWv6JZFioJMKysF"
@@ -701,7 +913,7 @@
       "url": "https://open.spotify.com/track/5y6mmcrK3rWoh3iIlsVGMP"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Eras Of Us",
         "url": "https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX"
@@ -717,7 +929,7 @@
       "url": "https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Love To Walk Away",
         "url": "https://open.spotify.com/album/3H3oeo1nVS1IzgQVOXcDdD"
@@ -733,7 +945,7 @@
       "url": "https://open.spotify.com/track/7wykJuA5AbOMLTmsNSi1Cq"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Coffee",
         "url": "https://open.spotify.com/album/6fUx09147ONG7cKZyHK1cC"
@@ -749,7 +961,7 @@
       "url": "https://open.spotify.com/track/6Nar1OSCQBUqXQ7G6lUIq1"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Witness Me (feat. Shawn Mendes, Stormzy & Kirk Franklin)",
         "url": "https://open.spotify.com/album/0FNmNqZYPEXQbLajHmR9En"
@@ -777,7 +989,7 @@
       "url": "https://open.spotify.com/track/4lIA2yIyg1nPmJ1rBwNFUG"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "u come near",
         "url": "https://open.spotify.com/album/5RAgbzI7Aa6fwrC3Vtyrl7"
@@ -793,7 +1005,7 @@
       "url": "https://open.spotify.com/track/4C5JVzRg7ca8TtVfwJBnXN"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "I Need It Now",
         "url": "https://open.spotify.com/album/3QwtmPuPBkUDuwN5ownyUu"
@@ -809,7 +1021,7 @@
       "url": "https://open.spotify.com/track/4jrhI63h2RzQpA4PgOAgGe"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Levitate",
         "url": "https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr"
@@ -829,7 +1041,7 @@
       "url": "https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "VACANCY",
         "url": "https://open.spotify.com/album/4kCboiPS30I9IL5cCgCmjz"
@@ -845,7 +1057,7 @@
       "url": "https://open.spotify.com/track/3fcVS6VEBwtD9Qo3polMCf"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Seeing Red",
         "url": "https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe"
@@ -861,7 +1073,7 @@
       "url": "https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Bad Woman",
         "url": "https://open.spotify.com/album/2AjNw7myEdHO8f2ZOm9A9W"
@@ -877,7 +1089,7 @@
       "url": "https://open.spotify.com/track/0NmWLEvSOhiV4HsMbADwOj"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Night Of The Hunter",
         "url": "https://open.spotify.com/album/4kRBqUuM4kKOgBqUG9usud"
@@ -893,7 +1105,7 @@
       "url": "https://open.spotify.com/track/0ytE5aUxuTyXXrUiQMyHUq"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Bringing Me Home",
         "url": "https://open.spotify.com/album/1WdDBOFiSMGuAuLUKJbvXL"
@@ -913,7 +1125,7 @@
       "url": "https://open.spotify.com/track/6Uuh5KUTe7ujO2vhpruqW7"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Alchemical: Volume 1",
         "url": "https://open.spotify.com/album/4kC5hseZbGaAjiJvr9Hk55"
@@ -929,7 +1141,7 @@
       "url": "https://open.spotify.com/track/6NIlYycjhvtKGKtiABymF3"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Don't Have To Say",
         "url": "https://open.spotify.com/album/5tycmn2ltiY6h2b7DKPrLc"
@@ -945,23 +1157,7 @@
       "url": "https://open.spotify.com/track/71kzGdYc8Srk6frgFMyslo"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
-        "name": "exes",
-        "url": "https://open.spotify.com/album/54FpKE2Pug3xbPz26WUVSH"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "exes",
-      "url": "https://open.spotify.com/track/0HD8mbiPjp3o94X3EaZp0o"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Body Moving",
         "url": "https://open.spotify.com/album/5EcypjAXyzxlrF5AKCNg9K"
@@ -981,23 +1177,7 @@
       "url": "https://open.spotify.com/track/5SFCEkybGYmmzKqewtDEaN"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
-        "name": "Elevator Hum",
-        "url": "https://open.spotify.com/album/6fenEkY5qHSMxWKRpObBrb"
-      },
-      "artists": [
-        {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
-        }
-      ],
-      "duration_ms": 235835,
-      "name": "Elevator Hum",
-      "url": "https://open.spotify.com/track/3MPLwP2T5FQ2vtJiDvn79Q"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Hot In Here",
         "url": "https://open.spotify.com/album/02oLtxGI6xxN68iVnnDR6W"
@@ -1017,27 +1197,7 @@
       "url": "https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
-        "name": "M1onTheBeat The Mixtape",
-        "url": "https://open.spotify.com/album/2eNxE5vYk1YgZGQx6BT8UL"
-      },
-      "artists": [
-        {
-          "name": "M1onTheBeat",
-          "url": "https://open.spotify.com/artist/7gOJzXf9msdY8JUhMQypSH"
-        },
-        {
-          "name": "Headie One",
-          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
-        }
-      ],
-      "duration_ms": 122089,
-      "name": "Skinfade",
-      "url": "https://open.spotify.com/track/4UCEIGRovOmBuJz0oOHjI2"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "TRUSTFALL (Tour Deluxe Edition)",
         "url": "https://open.spotify.com/album/4hgincUyDza4A228fFQRiK"
@@ -1053,7 +1213,7 @@
       "url": "https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "This Life",
         "url": "https://open.spotify.com/album/4uWcWrnFw0c0cl6Z8Q0lPN"
@@ -1069,7 +1229,7 @@
       "url": "https://open.spotify.com/track/2rZ7c57535FWSMpwkZJ5Tq"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Deep Diving",
         "url": "https://open.spotify.com/album/6jtHcOL3d6JKURexonnmRX"
@@ -1085,7 +1245,7 @@
       "url": "https://open.spotify.com/track/7mZqRLdsQ9zircq53qyW0z"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "EZIOKWU (UNCUT)",
         "url": "https://open.spotify.com/album/59oUX928TvSEtKvCPREKVW"
@@ -1105,7 +1265,7 @@
       "url": "https://open.spotify.com/track/2LP8KwtvzUx1onvXKQCoKR"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Two Hearts",
         "url": "https://open.spotify.com/album/7oiZpyHMQeOc1GMU7fBjSh"
@@ -1121,23 +1281,7 @@
       "url": "https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
-        "name": "GET NAUGHTY !",
-        "url": "https://open.spotify.com/album/3oeK4C4V2CjcpBHvIXTUQz"
-      },
-      "artists": [
-        {
-          "name": "Master Peace",
-          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
-        }
-      ],
-      "duration_ms": 149815,
-      "name": "GET NAUGHTY !",
-      "url": "https://open.spotify.com/track/1z5GBU5eT0LxyBFAcaigHG"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Into Your Room (with MUNA)",
         "url": "https://open.spotify.com/album/5xoc8PmIs7xsuxaA7t4Oun"
@@ -1157,7 +1301,7 @@
       "url": "https://open.spotify.com/track/3RaG1pAMRHFiCAqcE9KKNo"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Oral",
         "url": "https://open.spotify.com/album/0Jldmuyjx6v7nMefI7y00r"
@@ -1177,7 +1321,7 @@
       "url": "https://open.spotify.com/track/6VCNxAwxA83j2jE3QZpYPr"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Everywhere, Everything (with Gracie Abrams)",
         "url": "https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno"
@@ -1197,23 +1341,7 @@
       "url": "https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
-        "name": "Bon App\u00e9tit",
-        "url": "https://open.spotify.com/album/5Tax49IzkZVlDraQdobhEk"
-      },
-      "artists": [
-        {
-          "name": "Unknown T",
-          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
-        }
-      ],
-      "duration_ms": 197924,
-      "name": "Bon App\u00e9tit",
-      "url": "https://open.spotify.com/track/0K56woQKVkZSgqxom9aNqO"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Lovin On Me",
         "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
@@ -1229,7 +1357,7 @@
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Antisocial",
         "url": "https://open.spotify.com/album/66kttDxrG5qysNcZHFoxEB"
@@ -1245,23 +1373,7 @@
       "url": "https://open.spotify.com/track/5WRkjGzj48bn7evIhiHSbp"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
-        "name": "15 Fridays",
-        "url": "https://open.spotify.com/album/6fLk4rc1ex3br0dRQmp3Os"
-      },
-      "artists": [
-        {
-          "name": "Moko",
-          "url": "https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH"
-        }
-      ],
-      "duration_ms": 125714,
-      "name": "weh yuh deh",
-      "url": "https://open.spotify.com/track/3b3lEG3HnUVY9AQOiSpCGj"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Memory Lane & Winter Song",
         "url": "https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8"
@@ -1277,23 +1389,7 @@
       "url": "https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
-        "name": "Homecoming",
-        "url": "https://open.spotify.com/album/3WHRzQYzTFmIVnYiqGWBra"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 172059,
-      "name": "Homecoming",
-      "url": "https://open.spotify.com/track/6Q1VMEsgtuOXZxdduuj4lG"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Watch Me",
         "url": "https://open.spotify.com/album/7qfq6ubyO9WY1vLFAMAC85"
@@ -1309,23 +1405,7 @@
       "url": "https://open.spotify.com/track/3Zu4WIeXp4NbQZbcqv1MOr"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
-        "name": "Lean",
-        "url": "https://open.spotify.com/album/3xptwar8jWvntwB4hVKf88"
-      },
-      "artists": [
-        {
-          "name": "Bugzy Malone",
-          "url": "https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL"
-        }
-      ],
-      "duration_ms": 180640,
-      "name": "Lean",
-      "url": "https://open.spotify.com/track/4gioGwFuDOfkNuDPflzjad"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Little Blue Moon",
         "url": "https://open.spotify.com/album/4BRgkGx8jvMncKLgugeVYp"
@@ -1341,23 +1421,7 @@
       "url": "https://open.spotify.com/track/0Lmx2qlN2FbeGWgqTBzQ2k"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
-        "name": "orbit",
-        "url": "https://open.spotify.com/album/5xLRIrNswkxjD0U0z47Rw2"
-      },
-      "artists": [
-        {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
-        }
-      ],
-      "duration_ms": 189994,
-      "name": "orbit",
-      "url": "https://open.spotify.com/track/1xMtUb8b1DxW89FJfxOwPN"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Head In The Ground",
         "url": "https://open.spotify.com/album/4eCIhpR9BlftjlDWb1t0WD"
@@ -1377,23 +1441,7 @@
       "url": "https://open.spotify.com/track/1kbUDBZ6ORICXCXZAQCQq2"
     },
     {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
-        "name": "Answer Phone",
-        "url": "https://open.spotify.com/album/64J78r5rx9qs9ZJZ4xSkBt"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 160019,
-      "name": "Answer Phone",
-      "url": "https://open.spotify.com/track/0vYNMCubrGX6XHpX0KrGOe"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
+      "added_at": "2023-12-22 00:00:01",
       "album": {
         "name": "Snowflake Suzie",
         "url": "https://open.spotify.com/album/6HBxIk9HDOQy1qPuC9oaRm"
@@ -1407,46 +1455,6 @@
       "duration_ms": 220350,
       "name": "Snowflake Suzie",
       "url": "https://open.spotify.com/track/0B2hkwmDeDi2Tx87YgHQui"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
-        "name": "Hell In High Heels (feat. Jazmine Johnson)",
-        "url": "https://open.spotify.com/album/3gB2o3pjiNUxKLqUYDqgsX"
-      },
-      "artists": [
-        {
-          "name": "Netsky",
-          "url": "https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP"
-        },
-        {
-          "name": "Jazmine Johnson",
-          "url": "https://open.spotify.com/artist/31DGmB9yp1uMCkov630Ptz"
-        }
-      ],
-      "duration_ms": 167441,
-      "name": "Hell In High Heels (feat. Jazmine Johnson)",
-      "url": "https://open.spotify.com/track/2N1SBksYNigOK3XtGNhp8i"
-    },
-    {
-      "added_at": "2023-12-15 00:00:00",
-      "album": {
-        "name": "BLOCKBUSTA",
-        "url": "https://open.spotify.com/album/4XN6Kx1iUxtuhuAfh0zqZN"
-      },
-      "artists": [
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 125468,
-      "name": "ROBOSHOTTA (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/7DiylLh1Kdcd1q1dWRcJNq"
     }
   ],
   "unique_name": "All New All Now",

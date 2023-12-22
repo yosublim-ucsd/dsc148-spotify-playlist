@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 324701,
+  "num_followers": 324807,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTIzODFjYzc0ZmViMjY0OTVmNzgzOTRkY2UzN2MxYWJiZjBkM2Zj",
+  "snapshot_id": "MCw3MzNhMzUzZTRkMzM0ZDUyOTE0NzY5MzY4N2U2NWEzMTk3NTlhODk1",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -991,22 +991,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Two Steps",
-        "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
+        "name": "North",
+        "url": "https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP"
       },
       "artists": [
         {
-          "name": "Maths Time Joy",
-          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
         },
         {
-          "name": "Kevin Garrett",
-          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Two Steps",
-      "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
+      "duration_ms": 222000,
+      "name": "Middle of Things, Beautiful Wife (feat. Xavier Oma\u0308r))",
+      "url": "https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1027,22 +1027,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "North",
-        "url": "https://open.spotify.com/album/3j3grBQp6z5bhMaJeHwsvP"
+        "name": "Two Steps",
+        "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
       },
       "artists": [
         {
-          "name": "Sango",
-          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+          "name": "Maths Time Joy",
+          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
         },
         {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+          "name": "Kevin Garrett",
+          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Middle of Things, Beautiful Wife (feat. Xavier Oma\u0308r))",
-      "url": "https://open.spotify.com/track/1OjmLuc3Kf34WcEAasCjsO"
+      "duration_ms": 242000,
+      "name": "Two Steps",
+      "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "o shit!",
-        "url": "https://open.spotify.com/album/14V0wL2inmCogS2KVsWNm2"
-      },
-      "artists": [
-        {
-          "name": "lentra",
-          "url": "https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT"
-        }
-      ],
-      "duration_ms": 136822,
-      "name": "o shit!",
-      "url": "https://open.spotify.com/track/0RQpg3Q0QOxp6gqDpE8uWH"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Third (Deluxe)",
         "url": "https://open.spotify.com/album/6WIYPzBb2wVK5HOSN2oyDx"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 264581,
       "name": "Brooklyn Ballers",
       "url": "https://open.spotify.com/track/6It85s3KMaxCxIppRGx5U8"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "o shit!",
+        "url": "https://open.spotify.com/album/14V0wL2inmCogS2KVsWNm2"
+      },
+      "artists": [
+        {
+          "name": "lentra",
+          "url": "https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT"
+        }
+      ],
+      "duration_ms": 136822,
+      "name": "o shit!",
+      "url": "https://open.spotify.com/track/0RQpg3Q0QOxp6gqDpE8uWH"
     },
     {
       "added_at": "2023-12-01 00:01:00",

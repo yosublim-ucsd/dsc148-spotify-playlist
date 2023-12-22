@@ -4,7 +4,7 @@
 
 > Nuevos hallazgos de música indie latina\. Silvestre y La Naranja en portada.
 
-3,493 songs - 8 day 2 hr 17 min
+3,494 songs - 8 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1659,6 +1659,7 @@
 | [Labios Rotos](https://open.spotify.com/track/6VNQj0KGZroDNoBA5ynciG) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Labios Rotos](https://open.spotify.com/album/5NP2opKQgy4DWcZWLsu2p8) | 3:06 | 2023-06-23 | 2023-07-01 |
 | [Lagartija](https://open.spotify.com/track/1zkt9TRs6jHQCbVCP7xIqM) | [Amatria](https://open.spotify.com/artist/5aINmhPWfAHvZ5qaMdBezq), [Siloé](https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4) | [De las cenizas](https://open.spotify.com/album/0tqrcl0TrH3mh8jsiTHfCJ) | 2:55 | 2023-11-17 | 2023-11-25 |
 | [Laguna](https://open.spotify.com/track/5DrHgtqk6tf0hbuc3i5tB9) | [Tulsa](https://open.spotify.com/artist/2gtVnbrVpID8VrotZPOg2a) | [Laguna](https://open.spotify.com/album/1jLlM2l3XmCEpPTOAQIjuB) | 3:29 | 2023-08-04 | 2023-08-19 |
+| [lagunas](https://open.spotify.com/track/4lB3bD59ItctK9ii4Thy3y) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [lagunas](https://open.spotify.com/album/1pCNxr8UOeAaWuJ67ZFsfx) | 3:39 | 2023-12-15 |  |
 | [lalalala](https://open.spotify.com/track/4dMVCg7imGhzLHazEskCBQ) | [Masta Roi](https://open.spotify.com/artist/1uEU1I3gUtxUv4tlcpsInS), [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [lalalala](https://open.spotify.com/album/3z4vVK3Og3nwyup77oC2ex) | 4:04 | 2023-08-25 | 2023-09-02 |
 | [LALALAND](https://open.spotify.com/track/6OMY4RzCzm7WiuyaP1XXqZ) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [555](https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP) | 2:56 | 2023-04-28 | 2023-05-06 |
 | [Lamento del Cerro](https://open.spotify.com/track/7Cxz8FQ0mN7BSqvklFaj7q) | [LvRod](https://open.spotify.com/artist/0KI4UbGY4Tta8GNoMgzTEv), [Cruz](https://open.spotify.com/artist/3jRRLWFGyWuc1kcy32y6aG) | [Lamento del Cerro](https://open.spotify.com/album/1XEgy7YoHfbKQYzCPDdJZm) | 3:11 | 2022-04-08 | 2022-04-16 |

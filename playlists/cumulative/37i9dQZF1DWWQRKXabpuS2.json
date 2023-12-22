@@ -1963,6 +1963,24 @@
     },
     {
       "album": {
+        "name": "Jannat Al Hob",
+        "url": "https://open.spotify.com/album/7mKEvo2ScRVTcOvgfezrkR"
+      },
+      "artists": [
+        {
+          "name": "Assala Nasri",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236800,
+      "name": "Jannat Al Hob",
+      "url": "https://open.spotify.com/track/2mrgVjT6BNT46MFwhLmFO7"
+    },
+    {
+      "album": {
         "name": "Jany Al Asmar",
         "url": "https://open.spotify.com/album/01Z9FR6JmU9LxLuDQfR6w7"
       },
@@ -4316,7 +4334,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 177189,
       "name": "\u0627\u0644\u062d\u064a\u0644\u0629",
       "url": "https://open.spotify.com/track/5JGPBZF9E9A1hRwhxPBpga"
@@ -4622,7 +4640,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 256801,
       "name": "\u0632\u0644\u0632\u0627\u0644",
       "url": "https://open.spotify.com/track/7ct7Fb7Z77kDpB1pxL3uLD"
@@ -4730,7 +4748,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 203428,
       "name": "\u0633\u0648\u0627\u0644\u064a\u0641 \u0627\u0644\u0648\u0644\u0647",
       "url": "https://open.spotify.com/track/6sX47nT4v24OVf2FbfGE70"

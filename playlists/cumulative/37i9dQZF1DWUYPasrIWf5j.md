@@ -4,7 +4,7 @@
 
 > Instrumental covers of favourites played on ukulele.
 
-145 songs - 8 hr 17 min
+147 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Build Me Up Buttercup \- Ukulele](https://open.spotify.com/track/6s2A4P2D14VpH3zNmnQU3H) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Better Together & Build Me Up Buttercup \(Ukulele\)](https://open.spotify.com/album/67inhQMLBbDsFQJsZZIr9K) | 3:28 | 2022-05-20 | 2023-04-13 |
 | [California Stars](https://open.spotify.com/track/4zs1BjUwkwSGaNMHfweh1Z) | [Cliff Hillis](https://open.spotify.com/artist/1mpEw4E2cHyrO6PZVMWqlW) | [California Stars](https://open.spotify.com/album/09gOk1XfZR9icyU09dC5kg) | 3:30 | 2023-10-20 |  |
 | [Can't Help Falling In Love](https://open.spotify.com/track/7cIIcCaaa4Db6tQJdR7VPp) | [Michael Sharon](https://open.spotify.com/artist/3nwEO3bnbLWk2QGHo7JSvm) | [Uke Classics](https://open.spotify.com/album/27AhRs4C9zr6daRn8f0ckn) | 3:09 | 2022-05-20 |  |
-| [Chandelier \- Ukulele Version](https://open.spotify.com/track/4zYScIQJOR961vVGVb4XTt) | [The Ukulele Boys](https://open.spotify.com/artist/3ulXcJHsniZBycOD3Tic9T) | [Chandelier \(Ukulele Version\)](https://open.spotify.com/album/1Oeat3PspWRfN6pzIt9jTM) | 3:29 | 2022-05-20 |  |
+| [Chandelier \- Ukulele Version](https://open.spotify.com/track/4zYScIQJOR961vVGVb4XTt) | [The Ukulele Boys](https://open.spotify.com/artist/3ulXcJHsniZBycOD3Tic9T) | [Chandelier \(Ukulele Version\)](https://open.spotify.com/album/1Oeat3PspWRfN6pzIt9jTM) | 3:29 | 2022-05-20 | 2023-12-22 |
 | [Come On Get Higher](https://open.spotify.com/track/1kyWVfQ7VVJqyZ05gSUhQ0) | [Brandi Singer](https://open.spotify.com/artist/6M21uZWGDjG8BDYuFBTxzo) | [Ukelele Girl](https://open.spotify.com/album/6dMsLBwMpTlwWsE1U3Sz7R) | 3:37 | 2022-05-20 |  |
 | [Count On Me](https://open.spotify.com/track/49mGPurzHvCPjiLTTEsc7G) | [Shirley Michaels](https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW) | [This Is Home](https://open.spotify.com/album/5oPVf7ao47R9xnp2XcDSfa) | 3:30 | 2022-08-03 | 2023-04-28 |
 | [Creep](https://open.spotify.com/track/1e9ByTDUpTepe8OFCoSVaT) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [Wonderwall](https://open.spotify.com/album/7ohyq2hWw1wwEqMPyoSgUG) | 4:04 | 2022-07-01 | 2023-04-28 |
@@ -44,6 +44,7 @@
 | [Don't Worry Be Happy](https://open.spotify.com/track/53NooRcLJYR85eCatEWtVI) | [Seth Luke](https://open.spotify.com/artist/2Z2anZ5fPhykLkMi7E7lC5) | [Don't Worry Be Happy / Let It Be](https://open.spotify.com/album/2Y3sWhJ198XlLmrsoxc7pQ) | 5:22 | 2023-03-16 |  |
 | [Dream a Little Dream](https://open.spotify.com/track/1LMOBk8uRCJm53pOPkYMsp) | [Peter Shore](https://open.spotify.com/artist/7JNxtPv7RyoODXUVh45GW6) | [Uke Dreams](https://open.spotify.com/album/0xBCxd4ODDwEiaZHnztUA6) | 3:31 | 2022-05-20 |  |
 | [Driver's License](https://open.spotify.com/track/0Z4318tVXV1bUuf481yYb5) | [Shirley Michaels](https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW) | [Driver's License](https://open.spotify.com/album/5eK4J7fmTeXVuokj4GBFJl) | 3:52 | 2023-03-16 |  |
+| [Every Breath You Take](https://open.spotify.com/track/3IMNxMkK7ELLnnE5HlSNeD) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Every Breath You Take](https://open.spotify.com/album/0VrFqadXNGwa28aYJxh7W7) | 2:45 | 2023-12-22 |  |
 | [Fast Car](https://open.spotify.com/track/2ZxxrbtKlESR3rvbbn44Ae) | [Liam O'Driscoll](https://open.spotify.com/artist/7djFTVrQrEuOZeP1yKGe1v) | [Fast Car](https://open.spotify.com/album/0bJ0Xr1AeueAvJCNDOcIRH) | 3:59 | 2023-06-08 |  |
 | [Get Lucky](https://open.spotify.com/track/2Bh7NpIcbGrjwq2h6Lt3j6) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Get Lucky](https://open.spotify.com/album/3kIVqsQDvMGaFtJETEuieb) | 4:49 | 2022-05-20 | 2023-04-12 |
 | [Get Lucky](https://open.spotify.com/track/5qzgAtVIkJFpTV2KMUPzkR) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Get Lucky](https://open.spotify.com/album/5Svcuvif030EABjV9kM4RI) | 4:49 | 2023-03-16 |  |
@@ -52,7 +53,7 @@
 | [Hakuna Matata \- Ukulele](https://open.spotify.com/track/0bKdhkB3bO9fR5YEI4n7U0) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Ukulele Covers](https://open.spotify.com/album/00QZQbLEZASvyeiOLzE0ky) | 2:47 | 2023-03-16 |  |
 | [Hallelujah](https://open.spotify.com/track/3nSQdZM55hMuvGYtfHfOK6) | [Julia Sweet](https://open.spotify.com/artist/19wgTuefDnrHoMXlHPXHl3) | [Hallelujah](https://open.spotify.com/album/7q8hxe9dE4uMpOf7NYK78x) | 3:34 | 2022-05-20 |  |
 | [Heather](https://open.spotify.com/track/0152wIoLYZdFSPz3Shm15o) | [Hannah Sugar](https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB) | [Heather](https://open.spotify.com/album/0AUiVvugI0KDonoRFZktg9) | 3:14 | 2022-05-20 | 2023-04-28 |
-| [Here Comes the Sun](https://open.spotify.com/track/17DaSKTxBcuciWvywF2Vbg) | [Carsten Knudsen](https://open.spotify.com/artist/5f3DTzC7s625Pb9kLFicSj) | [Ukulele](https://open.spotify.com/album/3P36Jk9aUHfDfExcgdQeSg) | 2:08 | 2022-05-20 |  |
+| [Here Comes the Sun](https://open.spotify.com/track/17DaSKTxBcuciWvywF2Vbg) | [Carsten Knudsen](https://open.spotify.com/artist/5f3DTzC7s625Pb9kLFicSj) | [Ukulele](https://open.spotify.com/album/3P36Jk9aUHfDfExcgdQeSg) | 2:08 | 2022-05-20 | 2023-12-22 |
 | [Hey Jude](https://open.spotify.com/track/74LXmnNAKHNgn8JEuGrISk) | [Elis Pearson](https://open.spotify.com/artist/5Tn7D5Ih27zm6AtK69sgkq) | [Hey Jude](https://open.spotify.com/album/2Kosz9DOR5XQbAkWh1rWY3) | 2:57 | 2023-11-17 |  |
 | [Hey There Delilah](https://open.spotify.com/track/1x2hzBT4Sk9PNXj9OjhJdU) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Hey There Delilah / Hey, Soul Sister](https://open.spotify.com/album/4VNr8g6Ga5YtPhL2vOU8ol) | 4:14 | 2022-05-20 | 2023-04-13 |
 | [Hey There Delilah](https://open.spotify.com/track/3pCSKzscGOwXOzwQiqhS8M) | [The Lullaby Guys](https://open.spotify.com/artist/6OcKcmGusXOjKqLZSctJbo) | [Hey There Delilah / Hey, Soul Sister](https://open.spotify.com/album/6vyf76FDqpHNyjkCDllarM) | 4:14 | 2023-03-16 |  |
@@ -63,6 +64,7 @@
 | [I Want It That Way](https://open.spotify.com/track/0QkiEOuLDZguBZDorRna6t) | [Ryan Updike](https://open.spotify.com/artist/4ORWb3haiggKJnkNjSC1mN) | [True Colors](https://open.spotify.com/album/5C2bi9rLxNWpOI2Tv22GKt) | 3:39 | 2023-03-16 | 2023-04-28 |
 | [I'm Like A Bird](https://open.spotify.com/track/6xWOpaygdUpc556o1GQNM1) | [Billy Travers](https://open.spotify.com/artist/6uH72BDcGwtCjFlxCRlb8v) | [Hey There Delilah](https://open.spotify.com/album/3rMN8ZoPC2D8N2F4CjcHVb) | 3:52 | 2022-05-20 | 2023-04-28 |
 | [I'm Yours](https://open.spotify.com/track/6R5e0W5LUy23G7wEAaCcyJ) | [Dennis Lookman](https://open.spotify.com/artist/6PuM7Jj4nf4b20oyrbBg2h) | [Ukelele Moments](https://open.spotify.com/album/2imt754FShtqbVcAyALgbq) | 4:23 | 2022-05-20 |  |
+| [Imagine](https://open.spotify.com/track/5PsyUysC9xxltdgASA4A5Y) | [Kit Sutton](https://open.spotify.com/artist/0mqyygSn1RlqnfLsUqOjCh) | [Imagine](https://open.spotify.com/album/7ma6gtjLWnj7JmRqnwgyL1) | 2:50 | 2023-12-22 |  |
 | [Imagine](https://open.spotify.com/track/5QwJtbZbdQxPnKR7CAXtyO) | [Shirley Michaels](https://open.spotify.com/artist/5j0M8nKfKmKnf0G7pd9duW) | [Imagine](https://open.spotify.com/album/5uZvfWL9waxif9bt1CaCU1) | 3:04 | 2022-07-01 | 2023-04-28 |
 | [In My Life](https://open.spotify.com/track/1LBi1Zjam0zpKVCCbZtPqu) | [Tiny Uke Orchestra](https://open.spotify.com/artist/7MVmlp60IXood748fgjIxR) | [Tiny Uke Orchestra](https://open.spotify.com/album/5bCq8lFqofxI9qbBhQqUam) | 2:26 | 2022-07-26 | 2023-04-28 |
 | [In My Life](https://open.spotify.com/track/7wv9b0S0n3Y6Jk2iguxhdM) | [Tiny Uke Orchestra](https://open.spotify.com/artist/7MVmlp60IXood748fgjIxR) | [Tiny Uke Orchestra plays The Beatles](https://open.spotify.com/album/1wyGOzD94QfrjDS6E5c4JU) | 2:26 | 2022-05-20 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del Trap, Rap y Reggaeton Cristiano. \nFoto: Vaes",
-  "num_followers": 178257,
+  "num_followers": 178316,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWJlZTQ2Njc5MjlhYjQ0ODFjNzI1NGZiNDY2YmQyNWUyNjYxMmQ0",
+  "snapshot_id": "MCw1OGU3ZTk3N2IyNzQ0MzhmMzg5ZTQzMGRmOGM3MzFmMTZjNGUxY2U0",
   "tracks": [
     {
       "added_at": "2022-08-27 05:04:45",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
+        "name": "DTOX",
+        "url": "https://open.spotify.com/album/3Pe3gBLsaciO2Oae7Q5pw1"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 168974,
+      "name": "Alante Alante",
+      "url": "https://open.spotify.com/track/2Iy9cEp9xx1wUH1XYHqykX"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
         "name": "Dosis",
         "url": "https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 236578,
       "name": "A Ciegas",
       "url": "https://open.spotify.com/track/6yfHerzOkiXdbBmpWMNkTg"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
-        "name": "DTOX",
-        "url": "https://open.spotify.com/album/3Pe3gBLsaciO2Oae7Q5pw1"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 168974,
-      "name": "Alante Alante",
-      "url": "https://open.spotify.com/track/2Iy9cEp9xx1wUH1XYHqykX"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Dosis",
-        "url": "https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR"
-      },
-      "artists": [
-        {
-          "name": "Indiomar",
-          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
-        },
-        {
-          "name": "Musiko",
-          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
-        }
-      ],
-      "duration_ms": 165698,
-      "name": "No Disparo",
-      "url": "https://open.spotify.com/track/7hF2EHeIpUri12J7JQ6kMg"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Sin Escalas",
         "url": "https://open.spotify.com/album/4vhqPvtXtDQuiH2In9s0bQ"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 211050,
       "name": "Sin Escalas",
       "url": "https://open.spotify.com/track/6M6Wlo6TvOOTdv2NmCw0zB"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Dosis",
+        "url": "https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR"
+      },
+      "artists": [
+        {
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        }
+      ],
+      "duration_ms": 165698,
+      "name": "No Disparo",
+      "url": "https://open.spotify.com/track/7hF2EHeIpUri12J7JQ6kMg"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Coraz\u00f3n de Piedra",
-        "url": "https://open.spotify.com/album/4lWKZHImC1eY5HzvjJwP56"
-      },
-      "artists": [
-        {
-          "name": "Lowsan Melgar",
-          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
-        },
-        {
-          "name": "Musiko",
-          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
-        }
-      ],
-      "duration_ms": 221879,
-      "name": "Coraz\u00f3n de Piedra",
-      "url": "https://open.spotify.com/track/0PImEtenba1318UQSlkmeP"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Hasta La Eternidad",
         "url": "https://open.spotify.com/album/5CLBYqE42hfdx895RnUXy3"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 252571,
       "name": "Hasta La Eternidad",
       "url": "https://open.spotify.com/track/4ZneStpoEsKoFFIrjkBVmO"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "Coraz\u00f3n de Piedra",
+        "url": "https://open.spotify.com/album/4lWKZHImC1eY5HzvjJwP56"
+      },
+      "artists": [
+        {
+          "name": "Lowsan Melgar",
+          "url": "https://open.spotify.com/artist/4MgA2G0NoAMdcFBaK5ZAfw"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        }
+      ],
+      "duration_ms": 221879,
+      "name": "Coraz\u00f3n de Piedra",
+      "url": "https://open.spotify.com/track/0PImEtenba1318UQSlkmeP"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "La Evoluci\u00f3n",
-        "url": "https://open.spotify.com/album/02IX1iajO2m4lKJaP0zi1Q"
-      },
-      "artists": [
-        {
-          "name": "Rudy Torres",
-          "url": "https://open.spotify.com/artist/6VpE3hBrlQD0DEhdB7KeJD"
-        }
-      ],
-      "duration_ms": 157100,
-      "name": "Los Bendigo",
-      "url": "https://open.spotify.com/track/0BDnqzWuOUnfRZJEyFcfJA"
-    },
-    {
-      "added_at": "2022-08-27 05:04:45",
-      "album": {
         "name": "Yo Te Mir\u00e9",
         "url": "https://open.spotify.com/album/1JgcgcFc7JovAPTxZCKuFu"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 246000,
       "name": "Yo Te Mire",
       "url": "https://open.spotify.com/track/4cWLRE1mdN12esAunRt7bo"
+    },
+    {
+      "added_at": "2022-08-27 05:04:45",
+      "album": {
+        "name": "La Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/02IX1iajO2m4lKJaP0zi1Q"
+      },
+      "artists": [
+        {
+          "name": "Rudy Torres",
+          "url": "https://open.spotify.com/artist/6VpE3hBrlQD0DEhdB7KeJD"
+        }
+      ],
+      "duration_ms": 157100,
+      "name": "Los Bendigo",
+      "url": "https://open.spotify.com/track/0BDnqzWuOUnfRZJEyFcfJA"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1699,22 +1699,18 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Mateo 10:16",
-        "url": "https://open.spotify.com/album/6z2Av6IZJ1UW3mDCPlTuzd"
+        "name": "Cotizate",
+        "url": "https://open.spotify.com/album/3P6ycIHjLsndBulGxlZhlC"
       },
       "artists": [
         {
-          "name": "Yowcend la Igriega",
-          "url": "https://open.spotify.com/artist/1QuXODJkEDfIq84NfQY5Go"
-        },
-        {
-          "name": "Jay Kalyl",
-          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+          "name": "Militante Bierd",
+          "url": "https://open.spotify.com/artist/733gVnl0NSCkPdvdGUrH7F"
         }
       ],
-      "duration_ms": 179999,
-      "name": "Flavor",
-      "url": "https://open.spotify.com/track/1SJhAaHz6DbDOfQJ11RqzF"
+      "duration_ms": 192036,
+      "name": "Cotizate",
+      "url": "https://open.spotify.com/track/088VGorNzLe2sYbcmlct0W"
     },
     {
       "added_at": "2022-08-27 05:04:45",
@@ -1735,18 +1731,22 @@
     {
       "added_at": "2022-08-27 05:04:45",
       "album": {
-        "name": "Cotizate",
-        "url": "https://open.spotify.com/album/3P6ycIHjLsndBulGxlZhlC"
+        "name": "Mateo 10:16",
+        "url": "https://open.spotify.com/album/6z2Av6IZJ1UW3mDCPlTuzd"
       },
       "artists": [
         {
-          "name": "Militante Bierd",
-          "url": "https://open.spotify.com/artist/733gVnl0NSCkPdvdGUrH7F"
+          "name": "Yowcend la Igriega",
+          "url": "https://open.spotify.com/artist/1QuXODJkEDfIq84NfQY5Go"
+        },
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
         }
       ],
-      "duration_ms": 192036,
-      "name": "Cotizate",
-      "url": "https://open.spotify.com/track/088VGorNzLe2sYbcmlct0W"
+      "duration_ms": 179999,
+      "name": "Flavor",
+      "url": "https://open.spotify.com/track/1SJhAaHz6DbDOfQJ11RqzF"
     },
     {
       "added_at": "2022-08-27 05:04:45",

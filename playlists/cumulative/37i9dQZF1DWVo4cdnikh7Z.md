@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Ayalaan
 
-1,039 songs - 2 day 15 hr 46 min
+1,040 songs - 2 day 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [En Manasu](https://open.spotify.com/track/29agoUyHupTRkoEfsp7vau) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Kavivelu Saravanan](https://open.spotify.com/artist/560fMUUdJGxO7LK22T0JNf), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Srinisha Jayaseelan](https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a) | [Ulagammai \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3ZttSo448diTZObOZCsfVc) | 4:58 | 2023-09-26 | 2023-11-17 |
 | [En Mel Vizhundha Mazhaiye](https://open.spotify.com/track/7pRGQW4Q2BGL9eIraIUTht) | [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [En Mel Vizhundha Mazhaiye \(From "Dejavu"\)](https://open.spotify.com/album/7uSfDSWPwYyyl2l4f2YFvY) | 3:19 | 2022-07-27 | 2022-07-29 |
 | [En Mel Vizhundha Mazhaiye \(From "Dejavu"\)](https://open.spotify.com/track/7bYJeI6AAiP4TIB1vtCh3J) | [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ) | [En Mel Vizhundha Mazhaiye \(From "Dejavu"\) \- Single](https://open.spotify.com/album/7i30RXzaG2FbVE5NQq522b) | 3:19 | 2022-07-27 | 2022-08-05 |
+| [En Nenjam Neendhudhey \(From "Chevvaikizhamai"\)](https://open.spotify.com/track/3lgETNa7tq0s4Tmlt5xTP2) | [Harshika Devanath](https://open.spotify.com/artist/5PKcHZjlcaKjI9L1eDga3S), [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Palani Bharathi](https://open.spotify.com/artist/6zG98UhwxKWvhuhHk47Nrb) | [En Nenjam Neendhudhey \(From "Chevvaikizhamai"\)](https://open.spotify.com/album/5QAGT8iX4aMpph108Bh0Ic) | 3:53 | 2023-12-21 |  |
 | [En Nizhalini](https://open.spotify.com/track/73k5uX5CbAbFHaiO7cJpC0) | [Harini](https://open.spotify.com/artist/41BeeC5hYqvtGkM79RYvN4) | [License \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0MZM1k8dCV8oVNok4C17DD) | 4:04 | 2023-11-28 | 2023-12-08 |
 | [En Rojaa Neeye](https://open.spotify.com/track/3lH2RPkpaDvj4aKEeTV6rA) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [En Rojaa Neeye \(From "Kushi"\) \(Tamil\)](https://open.spotify.com/album/16KiJHyPW6BcOm46xulMwd) | 4:03 | 2023-05-09 | 2023-05-11 |
 | [En Rojaa Neeye \(From "Kushi"\)](https://open.spotify.com/track/13fsvYMK0cPDgYcWIasc2o) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [En Rojaa Neeye \(From "Kushi"\) \- Single](https://open.spotify.com/album/06B2tZByNLYFnNJAFVTDsv) | 4:03 | 2023-05-09 | 2023-09-26 |

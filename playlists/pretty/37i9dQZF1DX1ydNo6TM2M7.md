@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ydNo6TM2M7.md) - [plain]
 
 > The USB essentials that defined our setlists this year\. Cover: Skrillex, Fred again.\. & Four Tet
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,979 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,010 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ydNo6TM2M7.md) - [plain]
 | 74 | [Istibtan](https://open.spotify.com/track/0xKYUsca6nDBKcEWL8PyKQ) | [Toumba](https://open.spotify.com/artist/2BX3Brla1PKdsoIUg0HoaF) | [Petals](https://open.spotify.com/album/2dvdzQpXvoqeh8MShZupIy) | 4:36 |
 | 75 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 |
 
-Snapshot ID: `MCw3OWVlZmMwNjM3Yjc2NTMxM2Q0YWM4M2ZmMGMzMzY1MDA0NGQzOTQ3`
+Snapshot ID: `MCwxZDEyMjY0YTA5OThhMDlhOTg3NjQxZjZkMGMyODE3ODA1ZWZkYzIz`

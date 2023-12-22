@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: Matt Force & Young Queenz",
+  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: Delf",
   "name": "+852 Rising",
   "tracks": [
     {
@@ -266,6 +266,28 @@
       "duration_ms": 182306,
       "name": "96930\u7f85\u74e6\u6d85\u7c73",
       "url": "https://open.spotify.com/track/1gE9ZZdEKULhuzAIk70C68"
+    },
+    {
+      "album": {
+        "name": "9AM IN LONDON",
+        "url": "https://open.spotify.com/album/1QWsd2aHXEs6ylyIZtXF8G"
+      },
+      "artists": [
+        {
+          "name": "Deb Fan",
+          "url": "https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m"
+        },
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202289,
+      "name": "9AM IN LONDON",
+      "url": "https://open.spotify.com/track/2K2NYHKFiW7oSKlbtO5Xxj"
     },
     {
       "album": {
@@ -3599,6 +3621,24 @@
     },
     {
       "album": {
+        "name": "Blue Hour",
+        "url": "https://open.spotify.com/album/0fruFp7UTDJ1sLZDs01CAG"
+      },
+      "artists": [
+        {
+          "name": "Peace Lo",
+          "url": "https://open.spotify.com/artist/0NiSYetyXtCKWhDZXfqydC"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212640,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/6J1YPcD1DNYgde4dyKfiU4"
+    },
+    {
+      "album": {
         "name": "Hush",
         "url": "https://open.spotify.com/album/1V1Xqe6dKCPxq1KBOf5P1D"
       },
@@ -5281,6 +5321,46 @@
     },
     {
       "album": {
+        "name": "Memento Mori",
+        "url": "https://open.spotify.com/album/7nsj9ZVgDDUQJ8DXzlOvNr"
+      },
+      "artists": [
+        {
+          "name": "J Jelly",
+          "url": "https://open.spotify.com/artist/6P03BlZWRPQGNSyiauTllj"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180923,
+      "name": "Memento Mori",
+      "url": "https://open.spotify.com/track/04lQSJvoNROMuCKEH0Hpx2"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/5oAqUJpRFQ40UvYFMGJwxq"
+      },
+      "artists": [
+        {
+          "name": "BONBON",
+          "url": "https://open.spotify.com/artist/20nbtZQKG25u7aYv9dgviq"
+        },
+        {
+          "name": "\u6b50\u967d\u5fb7\u8f1d",
+          "url": "https://open.spotify.com/artist/5c1JGDtkUtlJcTxoYmnod4"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283795,
+      "name": "Merry Christmas",
+      "url": "https://open.spotify.com/track/4xr6fbaNBaI2VJ9BV3vwd6"
+    },
+    {
+      "album": {
         "name": "Meteor (ft. XTIE)",
         "url": "https://open.spotify.com/album/0mJh1ggPbCmtI7FdiH3RXT"
       },
@@ -5885,6 +5965,24 @@
     },
     {
       "album": {
+        "name": "No Say!",
+        "url": "https://open.spotify.com/album/2H3mK6dxY0TuT6nzx5ZvzX"
+      },
+      "artists": [
+        {
+          "name": "Eagle Chan",
+          "url": "https://open.spotify.com/artist/6nrxFSRns03p3RTspJ6a5D"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152602,
+      "name": "No Say!",
+      "url": "https://open.spotify.com/track/7ncYTeOCmTr9ZVGBGHcj7r"
+    },
+    {
+      "album": {
         "name": "no strings attatched",
         "url": "https://open.spotify.com/album/2HeLq4gxOD5tcgUXmqb8qC"
       },
@@ -6226,6 +6324,24 @@
       "duration_ms": 227585,
       "name": "ok sure - \u6c42\u5176\u5566version",
       "url": "https://open.spotify.com/track/5mcKzj2jMmHUTELb6KpZV6"
+    },
+    {
+      "album": {
+        "name": "OK\u5566\u558e",
+        "url": "https://open.spotify.com/album/0NNDX7JrgGcenEe3fSbplA"
+      },
+      "artists": [
+        {
+          "name": "N9",
+          "url": "https://open.spotify.com/artist/3POd6Qa84pvklcv3bDWd0J"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "OK\u5566\u558e",
+      "url": "https://open.spotify.com/track/3q65wacAwBLLsO18MAvpz1"
     },
     {
       "album": {
@@ -6913,6 +7029,28 @@
     },
     {
       "album": {
+        "name": "rain or shine (\u76f8\u64c1\u7684\u8df3)",
+        "url": "https://open.spotify.com/album/3gjapwFDyFU2jFs38DP8rd"
+      },
+      "artists": [
+        {
+          "name": "mansonvibes",
+          "url": "https://open.spotify.com/artist/1a8TIH1iv3shLyozSMjaoX"
+        },
+        {
+          "name": "Kay Tse",
+          "url": "https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255487,
+      "name": "rain or shine (\u76f8\u64c1\u7684\u8df3)",
+      "url": "https://open.spotify.com/track/56MEd81XhzgsaLrlveom2Q"
+    },
+    {
+      "album": {
         "name": "Rari",
         "url": "https://open.spotify.com/album/1q9G3PA0UMdrDifhGmRyw5"
       },
@@ -7278,6 +7416,24 @@
       "duration_ms": 268915,
       "name": "Selenian Dream",
       "url": "https://open.spotify.com/track/5HEBYRE2QhH5WxAow4EvVA"
+    },
+    {
+      "album": {
+        "name": "Sense",
+        "url": "https://open.spotify.com/album/0zM3NbWbcsXurYGe5XFpir"
+      },
+      "artists": [
+        {
+          "name": "Drotoch",
+          "url": "https://open.spotify.com/artist/1gkL2IZQpyIM7qXG1Zep7U"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Sense",
+      "url": "https://open.spotify.com/track/608FQp5ctipsoxKUHtkbM5"
     },
     {
       "album": {
@@ -9779,6 +9935,24 @@
     },
     {
       "album": {
+        "name": "You Can't Stop Me",
+        "url": "https://open.spotify.com/album/0qxlt4shCfMU822W22rX6t"
+      },
+      "artists": [
+        {
+          "name": "\u77f3\u88c2\u7b26",
+          "url": "https://open.spotify.com/artist/2z5PPOztYLholwAHp3teQq"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199255,
+      "name": "You Can't Stop Me",
+      "url": "https://open.spotify.com/track/0jHtBuOZX2wcHTJSC2Rxby"
+    },
+    {
+      "album": {
         "name": "You gone",
         "url": "https://open.spotify.com/album/3f8mtMGqgvfJyjLSFqFVru"
       },
@@ -9815,6 +9989,24 @@
     },
     {
       "album": {
+        "name": "You will die tomorrow",
+        "url": "https://open.spotify.com/album/7eb9SfkLYjWUNBy0ZnEdbe"
+      },
+      "artists": [
+        {
+          "name": "\u6771\u6d8c\u4e8b\u767c",
+          "url": "https://open.spotify.com/artist/6ClTWrZnl5uWikZC82fhAT"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281666,
+      "name": "You will die tomorrow",
+      "url": "https://open.spotify.com/track/7xSVVKC4HWzLYTukHDIv0A"
+    },
+    {
+      "album": {
         "name": "You'll Never Know",
         "url": "https://open.spotify.com/album/6B3rJyoegOOnDPjnighssL"
       },
@@ -9848,6 +10040,24 @@
       "duration_ms": 274000,
       "name": "You'll Never Know (When I Was Younger)",
       "url": "https://open.spotify.com/track/7kTAJ5Oyd6ODvld30mhNfE"
+    },
+    {
+      "album": {
+        "name": "Almond Milk",
+        "url": "https://open.spotify.com/album/2wOqA3RVKIFxeZc8WpMlef"
+      },
+      "artists": [
+        {
+          "name": "Almond Milk",
+          "url": "https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "You, Me, Dance",
+      "url": "https://open.spotify.com/track/5WpJG1jatsWZZHildSbGSW"
     },
     {
       "album": {
@@ -11625,6 +11835,24 @@
     },
     {
       "album": {
+        "name": "\u597d\u591c",
+        "url": "https://open.spotify.com/album/6A9nXe8LlDw7eBrHN10ehS"
+      },
+      "artists": [
+        {
+          "name": "kiwiseed",
+          "url": "https://open.spotify.com/artist/1S13YkJMlcNKAB5QUbJPxZ"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207718,
+      "name": "\u597d\u591c",
+      "url": "https://open.spotify.com/track/3bSRaZR7BF1aHRNumJP3jZ"
+    },
+    {
+      "album": {
         "name": "\u597d\u60f3\u5927\u8072\u8b1b\u6211\u559c\u6b61\u4f60",
         "url": "https://open.spotify.com/album/5maKeiDNTqNBKuWnPzX9is"
       },
@@ -12452,6 +12680,24 @@
       "duration_ms": 193333,
       "name": "\u6211\u60f3\u53bb\u4f11\u606f (feat. Kindle)",
       "url": "https://open.spotify.com/track/0CICJ3nkG0HFfxjZBcM8yo"
+    },
+    {
+      "album": {
+        "name": "\u6211\uff0c\u4f60",
+        "url": "https://open.spotify.com/album/6NAjq0o554ltClBUos7dXU"
+      },
+      "artists": [
+        {
+          "name": "Haysen Cheng",
+          "url": "https://open.spotify.com/artist/0nh7l4AluXpKHvqx1f3biK"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164450,
+      "name": "\u6211\uff0c\u4f60",
+      "url": "https://open.spotify.com/track/11mXntmb9Hpal79nKLKOmS"
     },
     {
       "album": {
@@ -13671,6 +13917,24 @@
     },
     {
       "album": {
+        "name": "\u6f38\u7a7a",
+        "url": "https://open.spotify.com/album/2UNf7Yb57Ywuz3eH1TMlZ1"
+      },
+      "artists": [
+        {
+          "name": "rosemances",
+          "url": "https://open.spotify.com/artist/7lq5r4rEXkxtYt3bGK4fAK"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "\u6f38\u7a7a",
+      "url": "https://open.spotify.com/track/4M5wtKptoXz2Qfopqmmk03"
+    },
+    {
+      "album": {
         "name": "\u706b\u6d77",
         "url": "https://open.spotify.com/album/30fW4yZKzTaLnzKssLlcEi"
       },
@@ -13722,6 +13986,24 @@
       "duration_ms": 121153,
       "name": "\u7121\u8ca8",
       "url": "https://open.spotify.com/track/6eQkfMMehEm1Ic6kSBByTO"
+    },
+    {
+      "album": {
+        "name": "\u7159",
+        "url": "https://open.spotify.com/album/1GetYbyhaZj8G95gm3kC0r"
+      },
+      "artists": [
+        {
+          "name": "The Priceless Boat",
+          "url": "https://open.spotify.com/artist/3aIis27ZwDnQzBIx7CqYXV"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199449,
+      "name": "\u7159",
+      "url": "https://open.spotify.com/track/6pmuAMwi2dzTy9UkuFcIdy"
     },
     {
       "album": {
@@ -15172,6 +15454,28 @@
       "duration_ms": 288000,
       "name": "\u9999",
       "url": "https://open.spotify.com/track/4q9vO6YbRXdfScIFR3I4t6"
+    },
+    {
+      "album": {
+        "name": "Geosonics - A Love Letter",
+        "url": "https://open.spotify.com/album/25AEzqbb0RLpOkMnGidwPV"
+      },
+      "artists": [
+        {
+          "name": "Delf",
+          "url": "https://open.spotify.com/artist/3ZVZi0IyNLH18rZsmA8SfO"
+        },
+        {
+          "name": "polun",
+          "url": "https://open.spotify.com/artist/64bB4K2Z0AohDMCrnTtypq"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88578,
+      "name": "\u9999",
+      "url": "https://open.spotify.com/track/1mQs7TBokQ8l85TUcdlGeu"
     },
     {
       "album": {

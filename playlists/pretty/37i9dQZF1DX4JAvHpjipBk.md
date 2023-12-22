@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Karol G, Lil Baby, Alan Walker, Reneé Rapp, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,190,366 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,190,641 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [How Do I Say Goodbye \(feat\. Delaney Jane\)](https://open.spotify.com/track/7EdBkc2HvH9gIlBDtiYmY1) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Delaney Jane](https://open.spotify.com/artist/3fuxStOqQv8TiytHeuGiE8) | [How Do I Say Goodbye \(feat\. Delaney Jane\)](https://open.spotify.com/album/2BP6zvUEaHNqxyTCSUGXPZ) | 2:49 |
 | 100 | [BACK2ORBIT](https://open.spotify.com/track/67UwEESR9kfCdMuTNLeXaK) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW), [451](https://open.spotify.com/artist/0x2owJPJ7tQZaSSKJq6GXA) | [CAUSE AND EFFECT](https://open.spotify.com/album/0Wx9bpnH2kqj4TJ7mdW6dY) | 2:35 |
 
-Snapshot ID: `MCw2ZGM4MmU5MmI0NzZlYTEzNDg4YTQ5MTU3NWYzYThiYzYwMWE4Njg2`
+Snapshot ID: `MCw0MTk0ODAzNzQwMDkwOTliNzM3MDgwZWQ1ZThhNzJjYWVkYWRiNGE0`

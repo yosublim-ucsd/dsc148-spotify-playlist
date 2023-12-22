@@ -2867,6 +2867,24 @@
     },
     {
       "album": {
+        "name": "The Seasons",
+        "url": "https://open.spotify.com/album/3w3aEFwHeZrD6jVbai9IUa"
+      },
+      "artists": [
+        {
+          "name": "Brian Arthur",
+          "url": "https://open.spotify.com/artist/60Tmojoo0H54vpQ7EW6J4H"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58344,
+      "name": "The Seasons",
+      "url": "https://open.spotify.com/track/3CYett5nf6G0WimlVsngXm"
+    },
+    {
+      "album": {
         "name": "Music Box Fairytales",
         "url": "https://open.spotify.com/album/6mLKdRWCbi1WlUu6afxwzr"
       },

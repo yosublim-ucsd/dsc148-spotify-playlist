@@ -4,7 +4,7 @@
 
 > Ingenting peppar en under ett träningspass som riktigt bra musik.
 
-223 songs - 10 hr 54 min
+224 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,7 @@
 | [Safe Place \(feat\. Maximus\)](https://open.spotify.com/track/2MAkRdJohGSnQJXNcRZPIs) | [Pelago](https://open.spotify.com/artist/5kgwb87hriOMQstPRdvInn), [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C) | [Safe Place \(feat\. Maximus\)](https://open.spotify.com/album/5GyFeddVWHPmY3ETkD7e4T) | 3:09 | 2021-11-19 | 2022-07-29 |
 | [Salt](https://open.spotify.com/track/5iyZwawawLjHYpX4MxUKVF) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 3:00 | 2022-07-28 | 2023-10-13 |
 | [Salt](https://open.spotify.com/track/7vgv8KZBSo0TPzyIWG9yzV) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Salt](https://open.spotify.com/album/6KPJTxKFCpuzrwyJGcURqK) | 3:00 | 2021-11-19 | 2022-07-29 |
-| [SAY IT RIGHT](https://open.spotify.com/track/0OqwQgw65uPda8vhAwC6Dj) | [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [SAY IT RIGHT](https://open.spotify.com/album/0JAVn7KQVTjlnoO8nOBhHu) | 3:33 | 2023-12-08 |  |
+| [SAY IT RIGHT](https://open.spotify.com/track/0OqwQgw65uPda8vhAwC6Dj) | [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [SAY IT RIGHT](https://open.spotify.com/album/0JAVn7KQVTjlnoO8nOBhHu) | 3:33 | 2023-12-08 | 2023-12-22 |
 | [SE MIG](https://open.spotify.com/track/0djNuMqEv8KCVE0tUQyyrJ) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [SE MIG](https://open.spotify.com/album/1hH4uUsYGsiZBFi9XlzoX9) | 3:18 | 2021-11-19 | 2022-07-29 |
 | [SE MIG](https://open.spotify.com/track/0gYDwJCTHfdL3oqWIAKLhl) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Och som vanligt händer det något hemskt](https://open.spotify.com/album/7efvTTk8KIylfIuqBiFGXM) | 3:18 | 2022-07-28 | 2023-12-08 |
 | [Shine Your Light \(feat\. Akon\)](https://open.spotify.com/track/2ttfqpA40dpzzz9QhxnFCv) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Shine Your Light \(feat\. Akon\)](https://open.spotify.com/album/2g64ICU2z18zpnuS5rQbM9) | 3:09 | 2021-11-19 | 2023-12-08 |
@@ -206,6 +206,7 @@
 | [The Nights](https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [The Days / Nights](https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF) | 2:56 | 2023-12-08 |  |
 | [The Other Side \(from Trolls World Tour\)](https://open.spotify.com/track/463PQggkmk5tTw8ug0ahOX) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The Other Side \(from Trolls World Tour\)](https://open.spotify.com/album/50ZTMRi6Biq1i1pWbcaKaJ) | 3:08 | 2022-07-28 |  |
 | [The Truth \- Sam Feldt Remix](https://open.spotify.com/track/4ERDsm0YhyQuP32Qrvg2ne) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [The Truth \(Sam Feldt Remix\)](https://open.spotify.com/album/3eLaVXLiU0z1oguPxtNHLD) | 3:40 | 2021-11-19 | 2022-07-29 |
+| [Thieves](https://open.spotify.com/track/6Af3ncYlnMUubDYKcoHZIF) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [Thieves](https://open.spotify.com/album/2jxT4u5M7wykbnYp46RYkd) | 2:25 | 2023-12-21 |  |
 | [Think You Should](https://open.spotify.com/track/4QZHDAf0lw2PN6olVg0ztp) | [Donkeyboy](https://open.spotify.com/artist/0UACE2nWl5uUyJRo1kIYQO), [Linnea Dale](https://open.spotify.com/artist/3wuG1n9nWNz4szSzITG7wO) | [Think You Should](https://open.spotify.com/album/7itxK8CyOVj7nJEMlqWFYv) | 3:01 | 2021-11-19 | 2022-07-29 |
 | [Thorns](https://open.spotify.com/track/6DuE8kXIDJ3oiCibWXmgeN) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Thorns](https://open.spotify.com/album/57ATyOS7Gud3uEjzIbMp7Y) | 3:06 | 2021-11-19 | 2022-07-28 |
 | [Tillfälligheter](https://open.spotify.com/track/5iJLphnVyGpLeAcsOZSfhw) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Tillfälligheter](https://open.spotify.com/album/4tr4TQvcgflCRwOqHcilfL) | 3:46 | 2021-11-19 | 2022-07-29 |

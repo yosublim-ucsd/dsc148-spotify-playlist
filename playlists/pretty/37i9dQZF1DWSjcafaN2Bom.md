@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 
 > Finish together\. Listen to the official playlist for Sex Education, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,023 likes - 331 songs - 20 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,141 likes - 331 songs - 20 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 | 5 | [Lilac And Black](https://open.spotify.com/track/77Sbn84oxVqGFqwrMPzJwS) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [All Of Us Flames](https://open.spotify.com/album/5vO3cJcNAgBv91ADrMnc8l) | 4:20 |
 | 6 | [Modern Girl](https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Modern Girl](https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2) | 3:43 |
 | 7 | [Hot In Here](https://open.spotify.com/track/1xZ45QDjH5d8ikGPnWTsPB) | [Donald Philp](https://open.spotify.com/artist/5AtT5PuPd9NcaifPAZsJXu) | [Pop High](https://open.spotify.com/album/16iIwtHZj0hdJ6aAk71FIx) | 3:11 |
-| 8 | [Any Way the Wind Blows](https://open.spotify.com/track/5ECVygXKHN7Hqbutsa5bzJ) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Ways](https://open.spotify.com/album/2ZqdswALyu4SyQI2JHxbly) | 3:01 |
+| 8 | [Any Way the Wind Blows](https://open.spotify.com/track/6b3AxcFd30h4dx7nPXraRF) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [WAYS](https://open.spotify.com/album/13Lic5cbhujb4ngZs8BlTm) | 3:01 |
 | 9 | [Rain or Shine](https://open.spotify.com/track/02IhK8HPAI8Cc6T4KN32if) | [Five Star](https://open.spotify.com/artist/4toJT7YydhWcrYNgWJK4hW) | [The Greatest Hits](https://open.spotify.com/album/2aOTyHK8aDNzfh5gQbPlOC) | 3:58 |
 | 10 | [Forever In Sunset](https://open.spotify.com/track/7ofb8SMiE4pDit5ewXNArn) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [All Of Us Flames](https://open.spotify.com/album/5vO3cJcNAgBv91ADrMnc8l) | 4:22 |
 | 11 | [What so Never the Dance](https://open.spotify.com/track/6prMFcHStSSOeDaXjwe48O) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Back In The Day: The Best Of Bootsy](https://open.spotify.com/album/5drHXExICEAsiNehDQvYwV) | 3:57 |
@@ -340,4 +340,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjcafaN2Bom.md) - [plain]
 | 330 | [Tired of Being Alone](https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Gets Next to You](https://open.spotify.com/album/6A2T77SSF5TUglshWSQAiC) | 2:52 |
 | 331 | [Crimson & Clover](https://open.spotify.com/track/6FEKEO3y7QFcMwoGeR0GtU) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [Tommy James and The Shondells: Anthology](https://open.spotify.com/album/5IL9KRDDd1L4m6f9SKS0yN) | 3:29 |
 
-Snapshot ID: `MCw3NTI0NmMyNTA4M2M4ZWNlYTJjNTkyMGMyMmZiMjU0YjgyMTQ0MjIw`
+Snapshot ID: `MCw2MDNjMWQ3NjlmYTRmODEwNTc1MTEzMzAyOWRmMDkwMDc5MmI0MzIy`

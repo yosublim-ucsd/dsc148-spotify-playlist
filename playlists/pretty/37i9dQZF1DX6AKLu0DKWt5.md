@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 
 > Music from TV shows and films nominated for the 81st Golden Globe Awards\. Watch Jan 7, 2024 on CBS and Paramount+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,789 likes - 33 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,807 likes - 33 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 28 | [VARIATION AUTOUR D'UN PRÉLUDE \- Anatomie d'une chute](https://open.spotify.com/track/56aWLDEFQ8M8N5lYELOlCh) | [Benoît Daniel](https://open.spotify.com/artist/1Dx91qbEKrT1WqwsVCROCS) | [ANATOMIE D'UNE CHUTE \(Musique Originale\)](https://open.spotify.com/album/1NB0OhXSZpxJDKZJq5tw8o) | 4:32 |
 | 29 | [Bella](https://open.spotify.com/track/7dLWK0Gaa5zPswYx1TDWZl) | [Jerskin Fendrix](https://open.spotify.com/artist/42ktBPs67SvwvkWZDtn6TW) | [Poor Things \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3gz3XOFJ5w99GDode87xbO) | 1:43 |
 | 30 | [Confirming Hal's Story](https://open.spotify.com/track/1HDs5K0y7hXzoVs6Gm8Udg) | [Nathan Barr](https://open.spotify.com/artist/0e0qyGBSGh9YwvpQFbkRBC), [Dimitri Smith](https://open.spotify.com/artist/6ri2hXvqVTXbfCWzeIxAnP) | [The Diplomat \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/54ihllvNENcMnfXCpxV9BB) | 1:09 |
-| 31 | [Forbidden Joy](https://open.spotify.com/track/5oSKfEgB2UhxP0ZRowITA7) | [Paul Leonard\-Morgan](https://open.spotify.com/artist/0360rTDeUjEyBXaz2Ki00a) | [Fellow Travelers \(Original Series Soundtrack\)](https://open.spotify.com/album/6Q93LklTcvLAysA2IhxHmP) | 1:33 |
-| 32 | [Holding Hands \(From "The Crown: Season Six Soundtrack"\)](https://open.spotify.com/track/3qdBxyNGX7ly8HD4Im0xIg) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Crown: Season Six \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4SD5pyJRlNnLCR0yZeWKZN) | 3:32 |
+| 31 | [Holding Hands \(From "The Crown: Season Six Soundtrack"\)](https://open.spotify.com/track/3qdBxyNGX7ly8HD4Im0xIg) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Crown: Season Six \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4SD5pyJRlNnLCR0yZeWKZN) | 3:32 |
+| 32 | [Forbidden Joy](https://open.spotify.com/track/5oSKfEgB2UhxP0ZRowITA7) | [Paul Leonard\-Morgan](https://open.spotify.com/artist/0360rTDeUjEyBXaz2Ki00a) | [Fellow Travelers \(Original Series Soundtrack\)](https://open.spotify.com/album/6Q93LklTcvLAysA2IhxHmP) | 1:33 |
 | 33 | [Fought & Lost \- Full Length TV Version](https://open.spotify.com/track/2VegZvwc34NF0RVqxjkwfY) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Ted Lasso: Season 3 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/6oemmy2XTmRXRryKR77LuG) | 4:14 |
 
-Snapshot ID: `MCxjYTY0ODM1OTUzMmFmYmE4ZTU3ODIxODM4MWRiZjI0NWZhYjQ1ZDFk`
+Snapshot ID: `MCw3MGJhOTIxNmM2MDNmMTAxMmVhZTdjZGI4YjM4MGU2NDg1OGQ1ZmNm`

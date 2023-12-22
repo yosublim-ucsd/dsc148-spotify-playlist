@@ -4,7 +4,7 @@
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-189 songs - 9 hr 11 min
+191 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [La paloma](https://open.spotify.com/track/1SFkmsya6AYHk9xv3wvz1G) | [André Verchuren](https://open.spotify.com/artist/6rT4bZhhSQC6dCT33qgShE) | [Double d'or : du Paso au Tango](https://open.spotify.com/album/7BKj5gALmgvZZM4qvPsYsi) | 2:52 | 2022-11-25 | 2023-04-28 |
 | [La Parisienne](https://open.spotify.com/track/3RKt4BWo6MAmGd9LtlFwrZ) | [Corinne Lesage & Her Accordion](https://open.spotify.com/artist/5RxEmNfnXn9wlZxH6SuT6E) | [Souvenir From Paris Vol\. 3](https://open.spotify.com/album/2Cqf5TCoyaAC2oteGVa91i) | 2:11 | 2022-11-25 | 2023-05-19 |
 | [La pastourelle \(valse\)](https://open.spotify.com/track/0VnaFfaJKoivoa8DzJE6Cs) | [Yvette Horner](https://open.spotify.com/artist/5NZd2r4rjPIli27nwjM0QN) | [Dansez maintenant](https://open.spotify.com/album/2n844853yULEG5qbGNR2Io) | 2:06 | 2022-02-18 |  |
+| [La valse de l’ennui](https://open.spotify.com/track/770OLcU9D0TVX9nkG9CfXd) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [La valse de l’ennui](https://open.spotify.com/album/0JLCQls2RbkiulcExBRMAw) | 2:12 | 2023-12-22 |  |
 | [La Valse Des Lilas](https://open.spotify.com/track/1pO5SHUmtDJFMI0eoY7zUW) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [La Valse Des Lilas](https://open.spotify.com/album/4VOZymoJz9MfpfVoNXrahF) | 3:24 | 2023-10-06 |  |
 | [La Valse Des Niglos](https://open.spotify.com/track/0M4bg3q6Cjb1kVIfQJEBUR) | [Zazou](https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA) | [Merle Noir](https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod) | 3:11 | 2022-11-25 |  |
 | [La vie en rose](https://open.spotify.com/track/5nMtd6QVWMv8tiYkPlPuD7) | [Daniel Colin](https://open.spotify.com/artist/2ou5vHf8Vp1ru210N1fi5F), [Dominique Cravic](https://open.spotify.com/artist/3YbvJxUxRDaLxoe7K5nPV8), [Claire Elzière](https://open.spotify.com/artist/1Zz0qtkLEAJvEmi3w6QKRO) | [French Cafe Music](https://open.spotify.com/album/6xkpSZA1I5GGQ706McVrCr) | 2:14 | 2022-02-18 | 2023-03-22 |
@@ -101,6 +102,7 @@
 | [La Vraie Valse Musette](https://open.spotify.com/track/2zrVAASEpNrRWCVtFHxMXM) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [Dancing On the Moon](https://open.spotify.com/album/0Zf7Qa3xDuoaYmKgJun22x) | 3:01 | 2022-11-25 | 2023-08-19 |
 | [La Zingara](https://open.spotify.com/track/0MWobJTLASCpmQ2a3yrCWJ) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [La Zingara](https://open.spotify.com/album/7A2CsrEpQ657PuoTxV9iy3) | 3:18 | 2022-02-18 | 2023-08-19 |
 | [Le bal de la marine](https://open.spotify.com/track/5nd1YmPZduCJkVljfecCms) | [Baguette Quartette](https://open.spotify.com/artist/777tZTVQGgq94n1KBZf54r) | [A La Noce](https://open.spotify.com/album/1Z1tQ9n2ZZFBuJP11hz9AP) | 2:10 | 2022-11-25 |  |
+| [Le malin a 3 pieds](https://open.spotify.com/track/5sB6uPE7bjSzBVmIOn27FU) | [Bateau Mouche](https://open.spotify.com/artist/5qCJ0Ww13jRmYWuL3PLEmf) | [Le malin a 3 pieds](https://open.spotify.com/album/5k9EstGuwve6Fr9SIlTFL0) | 2:59 | 2023-12-22 |  |
 | [Le Mauvais Rêve](https://open.spotify.com/track/0Fys0W4K98zYT8nHq4CGvO) | [Le Bleu Ensemble](https://open.spotify.com/artist/3cyV8AxHAoyulOGudi2PGG) | [Le Mauvais Rêve](https://open.spotify.com/album/07n3EfDsuC5RbNrKVisVEZ) | 2:11 | 2023-05-25 |  |
 | [Le Parc De Plaisir](https://open.spotify.com/track/3eFo3R4r0KPT932Wa5zq0P) | [Francois Parisi](https://open.spotify.com/artist/5UwPIPTmXwjYU3VoTOVXDV) | [Midnight in Paris \(Music from the Motion Picture\)](https://open.spotify.com/album/4T6ytV8yCJ9UJ8CsWjetq0) | 2:12 | 2022-02-18 | 2023-05-19 |
 | [Le Plus Beau Tango Du Monde \- Tango](https://open.spotify.com/track/2UDqPpMrmvP0FXHZ35YHsP) | [Edouard Duleu](https://open.spotify.com/artist/49WpqtZQzP4PICzb34lY15) | [Au bal musette, Vol\. 4](https://open.spotify.com/album/1P2kQLzal0rB0gUutYCMjd) | 2:40 | 2022-02-18 | 2023-04-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Las mejores canciones del año de Fresh Finds España\. Foto: stivijoes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,137 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,136 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 74 | [Vas a Poder](https://open.spotify.com/track/6RMrxuHDtVQweuxpLTvtrs) | [Lidna](https://open.spotify.com/artist/1NQ8qxpIGcXdB6KspJYw5y) | [Vas a Poder](https://open.spotify.com/album/5Ik46dsXAfF33FBMsMcXlN) | 4:05 |
 | 75 | [NMDLV](https://open.spotify.com/track/4eAFArk45q3jk70ssY3jMf) | [Margielin](https://open.spotify.com/artist/0Kp2ACUPUbT5GK7gOo6M40) | [NMDLV](https://open.spotify.com/album/1UcPmHrhoOPtIwCTrYGpRF) | 3:58 |
 
-Snapshot ID: `MCwzNjRhZThjNjFhYWI3ZmE4ZmI5Yzk4NzAzNThlNzIwNmViYTJhNTEz`
+Snapshot ID: `MCw5N2Y1M2FkMmEyM2E4ZDQ0YTY0MDExNTlmZWZmZmRlZGNkZmUyMzcy`

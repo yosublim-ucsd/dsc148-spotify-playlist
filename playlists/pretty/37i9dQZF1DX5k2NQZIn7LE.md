@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k2NQZIn7LE.md) - [plain]
 
 > Fusion hits of Coke Studio Pakistan\. Cover: Justin Bibis
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,471 likes - 66 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,491 likes - 66 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k2NQZIn7LE.md) - [plain]
 | 34 | [Sammi Meri Waar](https://open.spotify.com/track/4SOlMjbKYAvLKaanovsWnA) | [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q), [Umair Jaswal](https://open.spotify.com/artist/4eGTCbD3UlgIF479AuXp5u) | [Coke Studio: Season 8](https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B) | 6:32 |
 | 35 | [Sakal Ban](https://open.spotify.com/track/1TicbQ2crhIeZ1EzHlu1CU) | [Rizwan](https://open.spotify.com/artist/51CkNYOrEaNCFHaW5XHeQ5), [Muazzam Ali Khan](https://open.spotify.com/artist/2gpOH1RVAPuNbw2OdLGdOf) | [Coke Studio: Season 8](https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B) | 6:46 |
 | 36 | [Sayon](https://open.spotify.com/track/5rHKDnFKUryaztHYAmLgpa) | [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy) | [Coke Studio: Season 8](https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B) | 4:50 |
-| 37 | [Aankharli Pharookai](https://open.spotify.com/track/3lEAjZXyDxjtObgKajRQ8F) | [Mai Dhai](https://open.spotify.com/artist/4m5YL2zRW7v3pc3p6tkVEf), [Karam Abbas](https://open.spotify.com/artist/73JkgWmqytdG1D2y8pnN9g) | [Coke Studio: Season 8](https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B) | 6:12 |
+| 37 | [Aankharli Pharookai \- Coke Studio Season 8](https://open.spotify.com/track/7izadKEukVlB13gS28kYlq) | [Mai Dhai](https://open.spotify.com/artist/4m5YL2zRW7v3pc3p6tkVEf), [Karam Abbas](https://open.spotify.com/artist/73JkgWmqytdG1D2y8pnN9g) | [Aankharli Pharookai \(Coke Studio Season 8\)](https://open.spotify.com/album/4ZFSUUpgbSTBbDUufKZo3I) | 6:12 |
 | 38 | [Lagi Bina/Chal Mele Noon Challiye](https://open.spotify.com/track/39GINZGDFwFP2jeKp0PSXK) | [Jaffer Zaidi](https://open.spotify.com/artist/2IDzlRhIDa3xEqXTrAE8ex), [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5), [Saieen Zahoor](https://open.spotify.com/artist/3qicDXfpXrkSeFOJfHjG9q) | [Coke Studio Season 9 Episode 6](https://open.spotify.com/album/7K2eeaENGgn33dsHe2Hwmb) | 8:12 |
 | 39 | [Meri Meri](https://open.spotify.com/track/2oQSnKHxOqwsakcEUgQZso) | [Sara Haider](https://open.spotify.com/artist/6SAVSCOYe60i9z4XY9O2Rh), [Rizwan Butt](https://open.spotify.com/artist/7EbkUgsmelOvqaXTsXuH1r) | [Coke Studio: Season 9](https://open.spotify.com/album/0XhnwVTHd5Z0MwdrulhJhQ) | 6:26 |
 | 40 | [Jhalliya](https://open.spotify.com/track/3SLF8aHcEjcSWXhQ8UFkhO) | [Faakhir Mehmood](https://open.spotify.com/artist/1qQJwdn7ly96oIwBlIh678), [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Masooma Anwar and Shahzad Nawaz](https://open.spotify.com/artist/6q3kns9q4DT6KbycguuPfw) | [Coke Studio Season 9 Episode 5](https://open.spotify.com/album/0TYZKlP336TX3VUL39uXR2) | 7:11 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k2NQZIn7LE.md) - [plain]
 | 65 | [Laila O Laila](https://open.spotify.com/track/65GexggyAOfTLMWLKQS4eb) | [Rostam Mirlashari](https://open.spotify.com/artist/5zlHJ38vwLDvO6sf1lneZz), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 4:29 |
 | 66 | [Charkha Nolakha](https://open.spotify.com/track/0GKo5LtZM9SvqxZvnxz8hk) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Qayaas](https://open.spotify.com/artist/070AvN8e3WycppehEutQao), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 6:42 |
 
-Snapshot ID: `MCw0NjRjYTViNGZmZjM1YzVlOTczM2Q0MmYxODA2Njk0MDA4NjI2NzI3`
+Snapshot ID: `MCw4MTAxN2U1OGExYzQwZTVmYjcyYjBlMTk4ODAxZTg5YjRjZDI2YjYz`

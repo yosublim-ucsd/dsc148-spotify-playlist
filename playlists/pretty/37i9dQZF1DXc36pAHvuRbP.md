@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 
 > Toutes les nouveautés préférées de vos enfants\. Découvrez les nouvelles chansons favorites de la famille!
 
-[Spotify](https://open.spotify.com/user/spotify) - 545 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 546 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,20 +36,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 | 26 | [Thomas Pesquet](https://open.spotify.com/track/50YeLRN6WuokVA4am51idF) | [Les Enfantastiques](https://open.spotify.com/artist/0ON4LlfWkxxkwP73WYmDBo) | [Demain](https://open.spotify.com/album/0buU8ofbPSLAUHWd73Gdrn) | 4:28 |
 | 27 | [Allez on fait la paix](https://open.spotify.com/track/1WKkhJXBgtWyX5x1f8nPTX) | [Les Déménageurs](https://open.spotify.com/artist/5LXF4uYZowOh8m8pUW46Xf) | [Le patamodd](https://open.spotify.com/album/02hqji8pH8CAhLxNGOZCk2) | 3:28 |
 | 28 | [Qu'est\-ce qu'on dit ?](https://open.spotify.com/track/5Sk8N81JHTtZRMtu3zmPJb) | [Pascal Parisot](https://open.spotify.com/artist/0GHdbA1O72G8k3EcddfP4r) | [Les pieds dans le plat](https://open.spotify.com/album/4i8l6zVkhPzO8n5gi2PDHM) | 0:45 |
-| 29 | [Bienvenue à toi](https://open.spotify.com/track/6awvphIFrbxUEKPtF4CyzL) | [Mélyne](https://open.spotify.com/artist/097FQHsEBVe3sfWA4CzMXg) | [Au fil des émotions](https://open.spotify.com/album/3599W40Fl4JOYPOi6p20dn) | 2:25 |
+| 29 | [Même pas mal](https://open.spotify.com/track/3eQ7o1gJqfTkd6GgrlX0Kw) | [Méli Mômes](https://open.spotify.com/artist/662WKYh0Dqqc0cwb5f5dcs) | [Même pas !](https://open.spotify.com/album/4hks57cdKR3buw5jUH7HTH) | 3:20 |
 | 30 | [A quoi rêve t'il ?](https://open.spotify.com/track/5R9PGIMpm2ZsLDY7Z5FfLV) | [Nicolas Berton](https://open.spotify.com/artist/7I0x0YDBHmRV0BnND5S3Hr) | [Les comptines de Kikobert, vol\. 1](https://open.spotify.com/album/3WB5YjKoohtEqv62CfE2jr) | 1:35 |
 | 31 | [Ecrans, rendez\-nous nos parents !](https://open.spotify.com/track/3Lg9P0bFpgMcS12fcuQz78) | [Aldebert](https://open.spotify.com/artist/1Vr9NCbc1sYiPDeZmFjOTS), [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz) | [Enfantillages 4 \(nouvelle édition\)](https://open.spotify.com/album/1ZWPMvFYSX5OPAuo06Sn0u) | 3:41 |
 | 32 | [C'est bon mais c'est pas bon](https://open.spotify.com/track/3mICivmX1jTJczvkBzMA4E) | [Zut](https://open.spotify.com/artist/6co5KIJVQRz4rE3MICmM1O) | [J'aime quand tu souris](https://open.spotify.com/album/0wxpkwIYmNr7G2JGMqBeBk) | 3:03 |
-| 33 | [Même pas mal](https://open.spotify.com/track/3eQ7o1gJqfTkd6GgrlX0Kw) | [Méli Mômes](https://open.spotify.com/artist/662WKYh0Dqqc0cwb5f5dcs) | [Même pas !](https://open.spotify.com/album/4hks57cdKR3buw5jUH7HTH) | 3:20 |
+| 33 | [Bienvenue à toi](https://open.spotify.com/track/6awvphIFrbxUEKPtF4CyzL) | [Mélyne](https://open.spotify.com/artist/097FQHsEBVe3sfWA4CzMXg) | [Au fil des émotions](https://open.spotify.com/album/3599W40Fl4JOYPOi6p20dn) | 2:25 |
 | 34 | [Super ego](https://open.spotify.com/track/0CGmBHnvgvuUmadxtfyAPL) | [Ego le cachalot](https://open.spotify.com/artist/1NUbfVDGaCGn7076nftqsX), [David Delabrosse](https://open.spotify.com/artist/3QQEhfPjYoFBl3UJQidYvs) | [Super ego](https://open.spotify.com/album/4W0zJt6SU9faWpR7wB4UT2) | 4:18 |
 | 35 | [Différents](https://open.spotify.com/track/2lDC0u4QVDrNTEXMsfeh0T) | [BAB et les chats](https://open.spotify.com/artist/3LlW5HV7PUrapO8Zi41hKG) | [Au bonheur des mômes](https://open.spotify.com/album/7HriK4Z1qbySsEGtoRT9YS) | 2:37 |
 | 36 | [La chouchou](https://open.spotify.com/track/5tK6HcRvSBjaV9DHnuOb8r) | [Les Voilà Voilà](https://open.spotify.com/artist/5rfuIJA479dntPMrQPu8S8) | [Allez hop hop hop](https://open.spotify.com/album/7o22tHcJmR29Id0OWEAtAk) | 3:16 |
-| 37 | [Je suis content](https://open.spotify.com/track/76Kng3M8uChs6RVq05l5v0) | [Mélyne](https://open.spotify.com/artist/097FQHsEBVe3sfWA4CzMXg) | [Au fil des émotions](https://open.spotify.com/album/3599W40Fl4JOYPOi6p20dn) | 2:41 |
-| 38 | [Sur place ou à emporter](https://open.spotify.com/track/2YGqR7F0aBD7f5rhQUCipe) | [Pascal Parisot](https://open.spotify.com/artist/0GHdbA1O72G8k3EcddfP4r) | [Les pieds dans le plat](https://open.spotify.com/album/4i8l6zVkhPzO8n5gi2PDHM) | 1:24 |
+| 37 | [Jour après jour](https://open.spotify.com/track/2mrztXHhKdZakOGkVYyRmf) | [Anne Darban](https://open.spotify.com/artist/5aCcmpcfPDJJMVoWBh4xQI) | [Gardiens de la forêt](https://open.spotify.com/album/1vh5w8QO5wZIrKgBMWGu4D) | 2:24 |
+| 38 | [Behhh !](https://open.spotify.com/track/0mIDfkO3ECnK3Hb7kDoFZl) | [Pascal Parisot](https://open.spotify.com/artist/0GHdbA1O72G8k3EcddfP4r) | [Les pieds dans le plat](https://open.spotify.com/album/4i8l6zVkhPzO8n5gi2PDHM) | 2:44 |
 | 39 | [C'est qui qui ?](https://open.spotify.com/track/17KU29ddpFt7Pz9ptp9KAD) | [Ego le cachalot](https://open.spotify.com/artist/1NUbfVDGaCGn7076nftqsX), [David Delabrosse](https://open.spotify.com/artist/3QQEhfPjYoFBl3UJQidYvs) | [Super ego](https://open.spotify.com/album/4W0zJt6SU9faWpR7wB4UT2) | 3:27 |
-| 40 | [Jour après jour](https://open.spotify.com/track/2mrztXHhKdZakOGkVYyRmf) | [Anne Darban](https://open.spotify.com/artist/5aCcmpcfPDJJMVoWBh4xQI) | [Gardiens de la forêt](https://open.spotify.com/album/1vh5w8QO5wZIrKgBMWGu4D) | 2:24 |
-| 41 | [Mon pyjama de nuit](https://open.spotify.com/track/3qr8P26MpzPsbX9UlsTDR8) | [Lilie PRINTEMPS](https://open.spotify.com/artist/6Xonv30F4iMglvc2ShBS5d), [Damien Joëts](https://open.spotify.com/artist/5wdkTEkiwIkJBc2GxCIQsm) | [Quand le chat n'est pas là..\. ça part en live !](https://open.spotify.com/album/1GACfNIsqn0yWWI7NWrmV3) | 3:02 |
-| 42 | [Même pas vrai](https://open.spotify.com/track/7ELaCrdSeZaFeGTTKAoFCT) | [Méli Mômes](https://open.spotify.com/artist/662WKYh0Dqqc0cwb5f5dcs) | [Même pas !](https://open.spotify.com/album/4hks57cdKR3buw5jUH7HTH) | 3:57 |
+| 40 | [Je suis content](https://open.spotify.com/track/76Kng3M8uChs6RVq05l5v0) | [Mélyne](https://open.spotify.com/artist/097FQHsEBVe3sfWA4CzMXg) | [Au fil des émotions](https://open.spotify.com/album/3599W40Fl4JOYPOi6p20dn) | 2:41 |
+| 41 | [Même pas vrai](https://open.spotify.com/track/7ELaCrdSeZaFeGTTKAoFCT) | [Méli Mômes](https://open.spotify.com/artist/662WKYh0Dqqc0cwb5f5dcs) | [Même pas !](https://open.spotify.com/album/4hks57cdKR3buw5jUH7HTH) | 3:57 |
+| 42 | [Mon pyjama de nuit](https://open.spotify.com/track/3qr8P26MpzPsbX9UlsTDR8) | [Lilie PRINTEMPS](https://open.spotify.com/artist/6Xonv30F4iMglvc2ShBS5d), [Damien Joëts](https://open.spotify.com/artist/5wdkTEkiwIkJBc2GxCIQsm) | [Quand le chat n'est pas là..\. ça part en live !](https://open.spotify.com/album/1GACfNIsqn0yWWI7NWrmV3) | 3:02 |
 | 43 | [Une petite plume](https://open.spotify.com/track/3Gw3S9cYcRDREwTB92dzcp) | [Steve Waring](https://open.spotify.com/artist/5iVY7nE6VJGAnwNkseXhGg), [Alice Waring](https://open.spotify.com/artist/17tO4qjjnXSGNyLibLh0hV) | [Une petite plume](https://open.spotify.com/album/3GaZBE7p1MuNQTnfgwtwdy) | 1:57 |
 | 44 | [Oui, tu peux tout](https://open.spotify.com/track/1t6UqYDgZ2cbQK2JAfY0sr) | [Alain Schneider](https://open.spotify.com/artist/4EIBpXAtyE9RuhNRUfnzN6) | [Mundo Pataques](https://open.spotify.com/album/3yo0Q9fgzmyIrQTR3QO8x6) | 3:09 |
 | 45 | [Un jour je sortirai du nid](https://open.spotify.com/track/1r9igavodLhMg9ishLJvIc) | [Nicolas Berton](https://open.spotify.com/artist/7I0x0YDBHmRV0BnND5S3Hr) | [Les comptines de Kikobert, Vol\. 3](https://open.spotify.com/album/0F9PNnmf8ZTNXzBZATF5z6) | 1:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 | 49 | [Le temps des cadeaux](https://open.spotify.com/track/5uyvqfUGBXrKIvkgj8BYOK) | [Les Voilà Voilà](https://open.spotify.com/artist/5rfuIJA479dntPMrQPu8S8) | [Allez hop hop hop](https://open.spotify.com/album/7o22tHcJmR29Id0OWEAtAk) | 3:18 |
 | 50 | [La visite](https://open.spotify.com/track/1VNVanWsdzlB4p6mZk9iGt) | [Animau](https://open.spotify.com/artist/0e31LJBC9curXXYmvF7xeV) | [Les fulgurantes chansons de l'inquiétant petit adorable fantôme !](https://open.spotify.com/album/3Qx2WR8n0z1xSAqfLFEwf2) | 4:10 |
 
-Snapshot ID: `MCxjODk1MDFhNGQ3MDhmZWYwMWY0MzIzODdlNTUxZDdhYTZjMTY4MDI1`
+Snapshot ID: `MCxmMGRkNThhOTY3MDQwYzljYzIzNjhhZjEyYjM4NzI2NTRiNzJmZWJh`

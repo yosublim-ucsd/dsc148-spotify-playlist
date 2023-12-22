@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover : Silly Boy Blue
+> The best French indie tracks right now\. Cover : Adèle Castillon
 
-433 songs - 23 hr 43 min
+434 songs - 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Be me for a minute](https://open.spotify.com/track/1xfLzOnwmmUtKTcs5C3p8n) | [Emma Castellino](https://open.spotify.com/artist/2layJFdtvlPW95WA9s2GST) | [october tape](https://open.spotify.com/album/7ytaeCJGzgd0JbZtdSUTvY) | 3:38 | 2023-10-26 | 2023-12-08 |
 | [bedroom walls](https://open.spotify.com/track/7AQocoPIOuhVfdxnogZgf8) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls](https://open.spotify.com/album/2SF5uQ1lC1OmlnpMYlOv9U) | 2:23 | 2022-02-24 | 2022-04-01 |
 | [best day ever](https://open.spotify.com/track/5Oj8fVzb2Ha8NutbI0x3P8) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [postcard from Amsterdam](https://open.spotify.com/album/4WVKByV0X2xO0G6BMR6RDL) | 3:00 | 2022-05-06 | 2022-05-20 |
-| [Better Place](https://open.spotify.com/track/6WsIlHouT5aKb13OH9QIIU) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [Better Place](https://open.spotify.com/album/1Vx2KKGOduLm5qyvZSVtM2) | 3:40 | 2023-10-05 |  |
+| [Better Place](https://open.spotify.com/track/6WsIlHouT5aKb13OH9QIIU) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [Better Place](https://open.spotify.com/album/1Vx2KKGOduLm5qyvZSVtM2) | 3:40 | 2023-10-05 | 2023-12-22 |
 | [Bloqué](https://open.spotify.com/track/4km8XxyYCw5CSHM5H36K47) | [Météo Mirage](https://open.spotify.com/artist/76eO2ty9LXEKOITbJq6pCc) | [Bloqué](https://open.spotify.com/album/4AghyVNlGwrNpvj8uL7cPG) | 3:11 | 2021-12-16 | 2022-04-08 |
 | [blueberry stains](https://open.spotify.com/track/6YPIckxQBC4boFjWSAtlkb) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [postcard from L.A.](https://open.spotify.com/album/2dIT5g4FDrWXxKscvZkJs5) | 3:06 | 2022-07-28 | 2022-09-23 |
 | [Boom Boom](https://open.spotify.com/track/7ytIPPfpyCWMhnPC5bp5iB) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [Boom Boom](https://open.spotify.com/album/1DQ15XaG2nFt9dTMJwtbYA) | 3:29 | 2021-12-16 | 2022-02-04 |
@@ -126,6 +126,7 @@
 | [Flight To Vienna](https://open.spotify.com/track/3CoBGFdnpBTVv4gbf5H1Km) | [Khamsin](https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren) | [Flight To Vienna](https://open.spotify.com/album/69WrckSdGdNlDQiJrrjxP5) | 2:23 | 2023-04-27 | 2023-05-05 |
 | [Flowers](https://open.spotify.com/track/7ogQYxp96INp4fbzOYitRq) | [Deluxe](https://open.spotify.com/artist/4EePV5BljRSXJnYww4d5Qa) | [Flowers](https://open.spotify.com/album/5rvVfYlcboTW6usum9qWoK) | 3:41 | 2022-02-24 | 2022-03-04 |
 | [Folle](https://open.spotify.com/track/4u0dpuvdgKBBGljlKYRkf2) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [La vitesse](https://open.spotify.com/album/6fTd6zoldO0tq7EM5d82RF) | 3:26 | 2022-11-24 | 2023-09-08 |
+| [For Better and For Worse](https://open.spotify.com/track/3ankwuUT4iWTFhGEyC0k9Y) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [For Better and For Worse](https://open.spotify.com/album/2xeCYK4beWrE6uPOLW9e3F) | 3:32 | 2023-12-21 |  |
 | [For You](https://open.spotify.com/track/0op37JDMnP0HjclpLQiDn4) | [Little Animal](https://open.spotify.com/artist/6KPezj9yK8mv2pHkn7jftz) | [For You](https://open.spotify.com/album/5t97GHautbE5U3tSb7yDAG) | 3:11 | 2023-03-02 | 2023-03-25 |
 | [Forever](https://open.spotify.com/track/6NJMt4G4L6bLsoYDU0BF50) | [Kids Return](https://open.spotify.com/artist/5U4QUWaCwxvtUz2hTu0Bkq) | [Forever](https://open.spotify.com/album/2WYpJDqkpE0rbTzU4QvOyY) | 3:45 | 2022-03-24 | 2022-04-08 |
 | [Forever](https://open.spotify.com/track/2BY27TSBwYybHpRPp0tqyd) | [Victor Marc](https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX) | [Forever](https://open.spotify.com/album/7dhFtgAxeAxanyNhh8k1ur) | 3:22 | 2022-10-27 | 2022-11-25 |

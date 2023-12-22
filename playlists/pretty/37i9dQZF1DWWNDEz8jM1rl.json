@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 120383,
+  "num_followers": 120411,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjcyZjBhNjYyZGViOTcwYTg5NWVmNTY3YzcyMzg1YjU0ODk2ZWQx",
+  "snapshot_id": "MCw3ZjQyZjdiMjEyMDY1MzM0N2VlNDBjYmQxY2I5YjlkYmI0OWZkNDQ0",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -311,22 +311,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Vive en M\u00ed",
-        "url": "https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x"
-      },
-      "artists": [
-        {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
-        }
-      ],
-      "duration_ms": 234042,
-      "name": "Soy Tu Padre",
-      "url": "https://open.spotify.com/track/6zs6YLKvJolVWvSRW4KV17"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Chino \" De Viaje \" ..... Camino Al Cielo",
         "url": "https://open.spotify.com/album/5fWfAVXPS3buPNuv0tCViu"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 250493,
       "name": "Dame Tus Ojos (feat. Laurie Col\u00f3n)",
       "url": "https://open.spotify.com/track/3jPaLIbWPyfS5GZluhxh4D"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Vive en M\u00ed",
+        "url": "https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "duration_ms": 234042,
+      "name": "Soy Tu Padre",
+      "url": "https://open.spotify.com/track/6zs6YLKvJolVWvSRW4KV17"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Favor y Gracia",
-        "url": "https://open.spotify.com/album/70RxgRw7Fije42VXWsUH1C"
-      },
-      "artists": [
-        {
-          "name": "Alex Linares",
-          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
-        }
-      ],
-      "duration_ms": 221544,
-      "name": "El Barrio Lo Sabe",
-      "url": "https://open.spotify.com/track/2wA8CQeX2p3vkP6Wfl2j6x"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "De Todo Un Poco",
         "url": "https://open.spotify.com/album/0HpcxLjTaZ65MM7auMqwdb"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 210053,
       "name": "Rumbarengue",
       "url": "https://open.spotify.com/track/4h689d9SNdQ5WbrYcsGtG4"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Favor y Gracia",
+        "url": "https://open.spotify.com/album/70RxgRw7Fije42VXWsUH1C"
+      },
+      "artists": [
+        {
+          "name": "Alex Linares",
+          "url": "https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT"
+        }
+      ],
+      "duration_ms": 221544,
+      "name": "El Barrio Lo Sabe",
+      "url": "https://open.spotify.com/track/2wA8CQeX2p3vkP6Wfl2j6x"
     },
     {
       "added_at": "2020-09-18 05:02:00",

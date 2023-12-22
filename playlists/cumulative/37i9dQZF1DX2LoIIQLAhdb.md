@@ -2,16 +2,16 @@
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : Low Jay
+> Le R&B français, nouvelle ère\. Photo : Nej
 
-234 songs - 11 hr 17 min
+237 songs - 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [20ème symphonie](https://open.spotify.com/track/2DQOu0QGjeRPJ8NzyUO4l2) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [20ème symphonie](https://open.spotify.com/album/441i6kpJyPZw9A0zAd5Eqd) | 2:15 | 2023-02-23 | 2023-03-18 |
 | [Ailleurs](https://open.spotify.com/track/56q3vWvUDhVR0yHTtC9RLN) | [Mibsy](https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB) | [Ailleurs](https://open.spotify.com/album/4Qsy1FwQVGeYD2JkZKUZPH) | 2:09 | 2023-02-23 | 2023-03-25 |
 | [Aime encore](https://open.spotify.com/track/7cdZLWUqqx3bbLBl0HUCCM) | [Olivyah](https://open.spotify.com/artist/1RWFgAXpkRkDhovaib8Bt5) | [Aime encore](https://open.spotify.com/album/4HU4YkYfoHKgeHXZrw1PlZ) | 3:11 | 2023-06-29 | 2023-07-21 |
-| [Aller retour](https://open.spotify.com/track/4wduvsRDvehncCMardqsQ6) | [Aöme](https://open.spotify.com/artist/2ylIlV0oukLVNOjsqv6HI8) | [528 HZ](https://open.spotify.com/album/3Sgzvftq9J9oLH66IVnoyd) | 3:18 | 2023-12-08 |  |
+| [Aller retour](https://open.spotify.com/track/4wduvsRDvehncCMardqsQ6) | [Aöme](https://open.spotify.com/artist/2ylIlV0oukLVNOjsqv6HI8) | [528 HZ](https://open.spotify.com/album/3Sgzvftq9J9oLH66IVnoyd) | 3:18 | 2023-12-08 | 2023-12-22 |
 | [Alliés](https://open.spotify.com/track/2qyLMmwoNMu5UbUVkKZDJo) | [KRN](https://open.spotify.com/artist/3qbqyAhAkU804siT3gPzK5), [Bilton](https://open.spotify.com/artist/5OeY6e62St2Nubj9hbfuIb) | [Alliés](https://open.spotify.com/album/3GPJ5CsnhSFp6quFRzNtFL) | 2:57 | 2023-03-23 | 2023-05-26 |
 | [Allo](https://open.spotify.com/track/3aeCyLTeN6ypImKPtdjYjZ) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Allo](https://open.spotify.com/album/1JcEpcqvv3IMdtcupUh0yD) | 3:15 | 2023-10-12 |  |
 | [ANANAS \- Acoustic version](https://open.spotify.com/track/3nfP0gnomKijWe3LikQg7P) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG) | [ANANAS \(Acoustic version\)](https://open.spotify.com/album/6lJsS5QVgRhJyp398XalZc) | 2:59 | 2023-01-05 | 2023-01-27 |
@@ -74,6 +74,7 @@
 | [Encorps](https://open.spotify.com/track/1e9uba4Ei8fHrXDYrNTuTN) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/1AV7yqXIK2IhVpLvd5KSfr) | 3:56 | 2023-02-16 | 2023-02-19 |
 | [Encorps](https://open.spotify.com/track/7LIdkzgw9GofNXPnc6IbV1) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ROOM 96](https://open.spotify.com/album/6MFyUXJ1YrcHvraPVirOZ1) | 3:56 | 2023-02-16 | 2023-07-21 |
 | [Encré](https://open.spotify.com/track/68oq1f0Jd0gtdmofDUR5wn) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Encré](https://open.spotify.com/album/2Ix9DqXnaQxL9X6FyWl9Kv) | 3:30 | 2022-11-24 | 2022-12-16 |
+| [Ex](https://open.spotify.com/track/5Y4Dekluv6nGMVTSnqzJyA) | [Dof'](https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr) | [4 SEASONS \- WINTER](https://open.spotify.com/album/6cU214tMQeiPGIp4gmiEcz) | 3:21 | 2023-12-21 |  |
 | [FAIS COMME SI](https://open.spotify.com/track/6RuiQmOMRgjmJetS5LSven) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG), [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [ROUGE](https://open.spotify.com/album/28dP7VNZqg0SyrIZtPsbfj) | 3:01 | 2022-11-24 | 2022-12-02 |
 | [Fauté](https://open.spotify.com/track/2xHHdkLDXT6gdHyu1bRZMz) | [Souf](https://open.spotify.com/artist/2tsnxjntsRI6iFL9ZeC0ec) | [Souf](https://open.spotify.com/album/5sqzSkimnmtWIMcrZiBd3S) | 3:30 | 2022-12-15 | 2023-01-13 |
 | [Fini d'espérer](https://open.spotify.com/track/0DMQwNGCiSzLB2HsfHNAtb) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Fini d'espérer](https://open.spotify.com/album/1wjf1dJlUK9bun5IopzmyK) | 3:28 | 2022-11-24 | 2023-04-28 |
@@ -195,7 +196,7 @@
 | [Quelqu'un d'autre](https://open.spotify.com/track/1w62sZZvD2ybf1FEeovI84) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Quelqu'un d'autre](https://open.spotify.com/album/5UcLTGrzXoWuhOPsTKVvZI) | 3:01 | 2023-08-10 | 2023-08-19 |
 | [Quelqu'un d'autre](https://open.spotify.com/track/3Ni5MBq60khbNsor0UYlzk) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Quelqu'un d'autre](https://open.spotify.com/album/4fvXVtz9imF8xZlaK7G8ra) | 3:01 | 2023-08-19 | 2023-10-19 |
 | [Quelqu'un d'autre](https://open.spotify.com/track/4e4hmNgPXUzfoANBzZbV9h) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Quelqu'un d'autre](https://open.spotify.com/album/4PtfBRspzSbF2D1Wx0dIxh) | 3:01 | 2023-10-12 |  |
-| [Raison](https://open.spotify.com/track/1qViJHPK9172gdxvkzuEoD) | [Cristina](https://open.spotify.com/artist/2otrzAaHAsniPlX95lxLbC) | [Raison](https://open.spotify.com/album/5aGS7j1Vjyh1d0mnvvPFAo) | 2:22 | 2023-11-30 |  |
+| [Raison](https://open.spotify.com/track/1qViJHPK9172gdxvkzuEoD) | [Cristina](https://open.spotify.com/artist/2otrzAaHAsniPlX95lxLbC) | [Raison](https://open.spotify.com/album/5aGS7j1Vjyh1d0mnvvPFAo) | 2:22 | 2023-11-30 | 2023-12-22 |
 | [RALENTIS](https://open.spotify.com/track/2czrgYc5DCObCgvuxboSx8) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [RALENTIS](https://open.spotify.com/album/3oRMxvh84xIQUVJJxyDqQM) | 2:12 | 2023-10-19 | 2023-11-24 |
 | [Rassure\-toi](https://open.spotify.com/track/5Y4ryOk5BqUVPOXLmiHKF0) | [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [Rassure\-toi](https://open.spotify.com/album/08kXWDkoGFhwlg5NPatEXo) | 2:54 | 2023-08-24 | 2023-10-13 |
 | [Recommencer](https://open.spotify.com/track/6EF6zlUNisqtLfHEvpTsIF) | [AMK](https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi) | [La Vie de Roni](https://open.spotify.com/album/778m8T5Wd138JDqikOE8Ef) | 2:43 | 2023-07-27 | 2023-09-08 |
@@ -218,6 +219,7 @@
 | [STARBOY](https://open.spotify.com/track/5dcr1TKZrq2N15lVIfaK21) | [CHRISUPTOWN](https://open.spotify.com/artist/30N4KghspyCmNAmOlmW2z5), [DIMA DIMA](https://open.spotify.com/artist/5eb7nRgBZmN9EIBVLLZjbu) | [STARBOY](https://open.spotify.com/album/6UqiTNHnZugEVwRuRW9TQC) | 2:34 | 2023-06-29 | 2023-07-21 |
 | [Step By Step](https://open.spotify.com/track/4mJBWq4XbarSGfDNJ8ufF7) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Step By Step](https://open.spotify.com/album/7opoRFAZZnYiB8nG4gVQVA) | 2:51 | 2023-08-03 | 2023-10-06 |
 | [T'avais raison](https://open.spotify.com/track/1xlVMFQ2d7ceUYjUOp431H) | [NL](https://open.spotify.com/artist/44CpDft3h6UMOzq06YrHFO), [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y) | [T'avais raison](https://open.spotify.com/album/41zHFFsPyr6i85IP4LKbYQ) | 2:42 | 2023-04-27 | 2023-06-16 |
+| [Ta queen](https://open.spotify.com/track/0mc5DjPqI8lGnoybr4YU9L) | [Karabalik Beatz](https://open.spotify.com/artist/460I5w9PL2AG09pjwwY5D6), [Hayla Peter](https://open.spotify.com/artist/3UcE1V9cLBH9GtHamHjai1) | [Dans le coeur](https://open.spotify.com/album/3exmuax22PozgPSs7HPzLZ) | 2:55 | 2023-12-21 |  |
 | [Tatiana](https://open.spotify.com/track/3nyyodJO8A9kqEbssWdJvX) | [Aöme](https://open.spotify.com/artist/2ylIlV0oukLVNOjsqv6HI8) | [Tatiana](https://open.spotify.com/album/4Vx7h6MaCrPBfx35xjuFBn) | 3:25 | 2023-07-06 | 2023-08-11 |
 | [TE AMO](https://open.spotify.com/track/1aFQ1KEjMNBb1N0BGmnTUT) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [LES DERNIÈRES VOLONTÉS DE MOZART \(SYMPHONY\)](https://open.spotify.com/album/4u1S2O3WTGIj53GqtpVjlI) | 3:17 | 2022-12-01 | 2023-02-10 |
 | [TE AMO \(en duo avec Tayc\)](https://open.spotify.com/track/3ofDyMOUeUqotT8C2ZmScK) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [LDVM SYMPHONY](https://open.spotify.com/album/3azKfgAZRJXGiqQNFz1jfd) | 3:17 | 2022-12-01 | 2022-12-03 |
@@ -227,6 +229,7 @@
 | [Tous les mêmes](https://open.spotify.com/track/7lKWxwj3OoCcRrt6jc4ISE) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa) | [Tous les mêmes](https://open.spotify.com/album/0qwV8NjYwXfFAB9lMafnSz) | 2:30 | 2023-02-02 | 2023-06-30 |
 | [Tout](https://open.spotify.com/track/5Lz5K5wFwBIkUYnzNTEdpA) | [Pearl](https://open.spotify.com/artist/2MhjocNxlP3QVRiKqKcpkF) | [Tout](https://open.spotify.com/album/7xWdkdj3NvGshk6QDuQNuB) | 2:38 | 2023-07-06 | 2023-08-04 |
 | [Trahison](https://open.spotify.com/track/4KlcmzQslGv5RDpGLEykG9) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y) | [Pièce Maîtresse](https://open.spotify.com/album/3ZAiBEiCKVYwdeiWHEYIU3) | 2:56 | 2023-10-26 | 2023-12-08 |
+| [TRASH](https://open.spotify.com/track/1hxmWeKn0vU5Re70KXEUhy) | [Sassy](https://open.spotify.com/artist/7xctvxd7HiY2nLko37YEx2), [Mkz03](https://open.spotify.com/artist/74v95iW9MSTppigeI0g5Fi) | [TRASH](https://open.spotify.com/album/4ZDOGNZRO5uWmSXiFLwTn8) | 3:30 | 2023-12-21 |  |
 | [Trop tard](https://open.spotify.com/track/01OI74TG0wEOVmdYrrnNfW) | [Maïssa](https://open.spotify.com/artist/2E1HBeu5oSprLnGtpuEv1Y) | [Trop tard](https://open.spotify.com/album/2kuJP4EdXHAB8avJAQFkVH) | 3:48 | 2022-11-24 | 2023-02-03 |
 | [Un bout de nous](https://open.spotify.com/track/2vn8j2f7rqfaz3myB5j4vp) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [L'amour change le monde](https://open.spotify.com/album/3SNI5vICDQqgyQq11ei9s9) | 3:18 | 2022-11-24 | 2022-12-09 |
 | [Une Femme](https://open.spotify.com/track/5QV9n75vtzTzXuVUZDWyt9) | [Kayna Samet](https://open.spotify.com/artist/3qLpAs6VLppZrKlI0CXK6k), [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Une Femme](https://open.spotify.com/album/0mbq63Bpo92pg9pCX1uxcp) | 2:50 | 2023-03-16 | 2023-07-07 |
@@ -235,7 +238,7 @@
 | [Vécu \- Bonus Track](https://open.spotify.com/track/1HuefEfJ2y1o9QjmVmwPAY) | [ISK](https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j), [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Vécu \(Bonus Track\)](https://open.spotify.com/album/7dmoqxxkrkcgMNMRLM6pkf) | 3:00 | 2023-10-19 | 2023-11-16 |
 | [Warda](https://open.spotify.com/track/1LSz924w38ZryrV1nGnFIV) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [ATHENA](https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP) | 3:11 | 2023-10-05 |  |
 | [WAVYSHAWTY](https://open.spotify.com/track/0E1scA58vjVFBHQEzrlXZC) | [HARON](https://open.spotify.com/artist/7z43TluM9EYBKS5io7OYVr) | [WAVYSHAWTY](https://open.spotify.com/album/1hKUNPmRzykqlZLmRBzG7c) | 3:02 | 2023-05-18 | 2023-06-23 |
-| [Wine Slow](https://open.spotify.com/track/5Spn4k5ScY07K4tiNka9G7) | [Dof'](https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr) | [Wine Slow](https://open.spotify.com/album/5m9GW55aDkffBclwaOYB6L) | 3:01 | 2023-10-12 |  |
+| [Wine Slow](https://open.spotify.com/track/5Spn4k5ScY07K4tiNka9G7) | [Dof'](https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr) | [Wine Slow](https://open.spotify.com/album/5m9GW55aDkffBclwaOYB6L) | 3:01 | 2023-10-12 | 2023-12-22 |
 | [Yabibi \(feat\. Nej\)](https://open.spotify.com/track/1AsYPCnhaiMRe80lizpzGk) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Résilience \(Réedition\)](https://open.spotify.com/album/5ccZx34vHtGMUbEuEt3cON) | 2:37 | 2023-07-27 | 2023-10-06 |
 | [Yoyo](https://open.spotify.com/track/72dTIgAVI6vZQI4B0GhcYr) | [Osmaus](https://open.spotify.com/artist/7lJjHV1eg3KjdzvohgBKlF) | [Yoyo](https://open.spotify.com/album/37x2aZDoCSpJUtaEfdfw4V) | 3:24 | 2022-12-15 | 2023-01-20 |
 | [Zina](https://open.spotify.com/track/3EhZJlhHrDOamXhXSoZbL0) | [Emkal](https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs) | [Zina](https://open.spotify.com/album/2ctn0Isyb0sySJ8tLoxb8X) | 2:16 | 2023-05-18 | 2023-09-29 |

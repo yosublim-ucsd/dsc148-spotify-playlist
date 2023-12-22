@@ -1,12 +1,12 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: KWON EUNBI(\uad8c\uc740\ube44)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 49338,
+  "num_followers": 49353,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZDU2OWVkYTQ0YmExNzg0ODczMGVkNTE0NmU2ZTkyMmJiNTUxNzkw",
+  "snapshot_id": "MCxlMDZkNDE0ZDI0OWUzY2RmZmViMDNhZjYxNzQ2MGIwZjczNjBjYTNj",
   "tracks": [
     {
       "added_at": "2023-11-02 08:20:42",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "dosii",
-        "url": "https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6"
-      },
-      "artists": [
-        {
-          "name": "dosii",
-          "url": "https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd"
-        }
-      ],
-      "duration_ms": 231709,
-      "name": "lovememore.",
-      "url": "https://open.spotify.com/track/0P9XwjnnIPQFTwdqvu01Mf"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "pporappippam",
         "url": "https://open.spotify.com/album/5IKVYCIhY5SyMhj1cYovz3"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 206616,
       "name": "pporappippam",
       "url": "https://open.spotify.com/track/7oQh96s9YemWG3A4zkIbrU"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "dosii",
+        "url": "https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6"
+      },
+      "artists": [
+        {
+          "name": "dosii",
+          "url": "https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd"
+        }
+      ],
+      "duration_ms": 231709,
+      "name": "lovememore.",
+      "url": "https://open.spotify.com/track/0P9XwjnnIPQFTwdqvu01Mf"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -747,22 +747,18 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "East Shore",
-        "url": "https://open.spotify.com/album/3haGGKVIiuJ8wlJBriAhPP"
+        "name": "HAPPEN",
+        "url": "https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s"
       },
       "artists": [
         {
-          "name": "Bronze",
-          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
-        },
-        {
-          "name": "OOHYO",
-          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
         }
       ],
-      "duration_ms": 212750,
-      "name": "With The Star",
-      "url": "https://open.spotify.com/track/5v7RICydLLBV5AKoCRmfrG"
+      "duration_ms": 188573,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/1oEMCcw6M6aSVVDURlBFeu"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -799,18 +795,22 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "HAPPEN",
-        "url": "https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s"
+        "name": "East Shore",
+        "url": "https://open.spotify.com/album/3haGGKVIiuJ8wlJBriAhPP"
       },
       "artists": [
         {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+          "name": "Bronze",
+          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
+        },
+        {
+          "name": "OOHYO",
+          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
         }
       ],
-      "duration_ms": 188573,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/1oEMCcw6M6aSVVDURlBFeu"
+      "duration_ms": 212750,
+      "name": "With The Star",
+      "url": "https://open.spotify.com/track/5v7RICydLLBV5AKoCRmfrG"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "City Drive",
-        "url": "https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1"
-      },
-      "artists": [
-        {
-          "name": "Nahee",
-          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
-        }
-      ],
-      "duration_ms": 207888,
-      "name": "City Drive",
-      "url": "https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "WJ STAY?",
         "url": "https://open.spotify.com/album/0ty0TBeM5B8HU6hzOdjz4f"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 214847,
       "name": "You Got",
       "url": "https://open.spotify.com/track/4RCstQ4YjgYnjGEu0X2BxP"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "City Drive",
+        "url": "https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1"
+      },
+      "artists": [
+        {
+          "name": "Nahee",
+          "url": "https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD"
+        }
+      ],
+      "duration_ms": 207888,
+      "name": "City Drive",
+      "url": "https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp"
     },
     {
       "added_at": "2023-11-02 08:20:42",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-11-02 08:20:42",
       "album": {
-        "name": "Love & Evil",
-        "url": "https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue"
-      },
-      "artists": [
-        {
-          "name": "LOO\u03a0\u0394 1/3",
-          "url": "https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy"
-        }
-      ],
-      "duration_ms": 201409,
-      "name": "Rain 51db",
-      "url": "https://open.spotify.com/track/3WALXPWdol0F0quHImXEYm"
-    },
-    {
-      "added_at": "2023-11-02 08:20:42",
-      "album": {
         "name": "Rainbow note",
         "url": "https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 212137,
       "name": "Venus",
       "url": "https://open.spotify.com/track/1o3zYtXOalCmiSl6CIij0p"
+    },
+    {
+      "added_at": "2023-11-02 08:20:42",
+      "album": {
+        "name": "Love & Evil",
+        "url": "https://open.spotify.com/album/2o19HGYWURILfZ9BSNw4ue"
+      },
+      "artists": [
+        {
+          "name": "LOO\u03a0\u0394 1/3",
+          "url": "https://open.spotify.com/artist/4u9YxYzCjpMjnMcwNu9fzy"
+        }
+      ],
+      "duration_ms": 201409,
+      "name": "Rain 51db",
+      "url": "https://open.spotify.com/track/3WALXPWdol0F0quHImXEYm"
     },
     {
       "added_at": "2023-11-02 08:20:42",

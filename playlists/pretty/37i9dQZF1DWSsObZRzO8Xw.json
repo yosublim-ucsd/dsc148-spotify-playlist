@@ -1,12 +1,12 @@
 {
   "description": "Welcome to the universe of complex rhythms and mesmerizing loops. Cover: LITE",
-  "num_followers": 158956,
+  "num_followers": 159087,
   "original_name": "Math Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjY3MzZkYTk3MmU0MGE3NDNhYTk2NWVhYjYyN2QzZjdhYTBhYzk3",
+  "snapshot_id": "MCxmOTIzM2VkMDJjZGQ4M2NlNjQ1Mzc3ZTljZjRlNzYzZDY3MGEzZTli",
   "tracks": [
     {
       "added_at": "2023-11-09 16:46:30",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-11-09 16:46:30",
       "album": {
-        "name": "Memory Lame",
-        "url": "https://open.spotify.com/album/4xa1QJqW4ZVywlZQgMLKR9"
-      },
-      "artists": [
-        {
-          "name": "Giraffes? Giraffes!",
-          "url": "https://open.spotify.com/artist/5wGMwXlBLMpuJzRpPxNFjq"
-        }
-      ],
-      "duration_ms": 273782,
-      "name": "At the Turf Field Behind My Parents' House",
-      "url": "https://open.spotify.com/track/4bhQ4kGrhteFbgSDSaOVqv"
-    },
-    {
-      "added_at": "2023-11-09 16:46:30",
-      "album": {
         "name": "SIMILAR",
         "url": "https://open.spotify.com/album/4eEgCTAwqEajxJNFw0bwYA"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 199886,
       "name": "KALA",
       "url": "https://open.spotify.com/track/45oVbRMfv2I5ICtCI6jfPW"
+    },
+    {
+      "added_at": "2023-11-09 16:46:30",
+      "album": {
+        "name": "Memory Lame",
+        "url": "https://open.spotify.com/album/4xa1QJqW4ZVywlZQgMLKR9"
+      },
+      "artists": [
+        {
+          "name": "Giraffes? Giraffes!",
+          "url": "https://open.spotify.com/artist/5wGMwXlBLMpuJzRpPxNFjq"
+        }
+      ],
+      "duration_ms": 273782,
+      "name": "At the Turf Field Behind My Parents' House",
+      "url": "https://open.spotify.com/track/4bhQ4kGrhteFbgSDSaOVqv"
     },
     {
       "added_at": "2023-11-09 16:46:30",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-11-09 16:46:30",
       "album": {
-        "name": "Valuables",
-        "url": "https://open.spotify.com/album/6ppuPMu9s3GYz2sOiGcTJk"
-      },
-      "artists": [
-        {
-          "name": "Enemies",
-          "url": "https://open.spotify.com/artist/5vfSFPrDPPBGExVLldEDOB"
-        }
-      ],
-      "duration_ms": 267852,
-      "name": "itsallwaves",
-      "url": "https://open.spotify.com/track/04xtPsRyfN9giDE6plaIev"
-    },
-    {
-      "added_at": "2023-11-09 16:46:30",
-      "album": {
         "name": "Lava Land",
         "url": "https://open.spotify.com/album/4ascPqnfGL1QlRlnu9gvzM"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 297000,
       "name": "Little Bubble, Where You Going?",
       "url": "https://open.spotify.com/track/5P9nqVXwUUMQeUCJJuCXAx"
+    },
+    {
+      "added_at": "2023-11-09 16:46:30",
+      "album": {
+        "name": "Valuables",
+        "url": "https://open.spotify.com/album/6ppuPMu9s3GYz2sOiGcTJk"
+      },
+      "artists": [
+        {
+          "name": "Enemies",
+          "url": "https://open.spotify.com/artist/5vfSFPrDPPBGExVLldEDOB"
+        }
+      ],
+      "duration_ms": 267852,
+      "name": "itsallwaves",
+      "url": "https://open.spotify.com/track/04xtPsRyfN9giDE6plaIev"
     },
     {
       "added_at": "2023-11-09 16:46:30",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-11-09 16:46:30",
       "album": {
-        "name": "A Forest of Polarity",
-        "url": "https://open.spotify.com/album/6MUQF78jqyNY73S9XbcF8o"
-      },
-      "artists": [
-        {
-          "name": "Rooftops",
-          "url": "https://open.spotify.com/artist/4HBe2DscKcmFAjL1ml3Lx6"
-        }
-      ],
-      "duration_ms": 217360,
-      "name": "Raft Easily",
-      "url": "https://open.spotify.com/track/31jGKJm3lNbQJgUx6mnt9r"
-    },
-    {
-      "added_at": "2023-11-09 16:46:30",
-      "album": {
         "name": "Gloss Drop",
         "url": "https://open.spotify.com/album/4oX4lpSnDyqQ2oadKTlcaR"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 377493,
       "name": "Futura",
       "url": "https://open.spotify.com/track/19I9rURZV4nIGyutPTyaNL"
+    },
+    {
+      "added_at": "2023-11-09 16:46:30",
+      "album": {
+        "name": "A Forest of Polarity",
+        "url": "https://open.spotify.com/album/6MUQF78jqyNY73S9XbcF8o"
+      },
+      "artists": [
+        {
+          "name": "Rooftops",
+          "url": "https://open.spotify.com/artist/4HBe2DscKcmFAjL1ml3Lx6"
+        }
+      ],
+      "duration_ms": 217360,
+      "name": "Raft Easily",
+      "url": "https://open.spotify.com/track/31jGKJm3lNbQJgUx6mnt9r"
     },
     {
       "added_at": "2023-11-09 16:46:30",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-11-09 16:46:30",
       "album": {
+        "name": "Route One or Die",
+        "url": "https://open.spotify.com/album/70J0gVtwKcMBXqm3uDdkDH"
+      },
+      "artists": [
+        {
+          "name": "Three Trapped Tigers",
+          "url": "https://open.spotify.com/artist/1FGfJBdp4l7sELXNf92jrT"
+        }
+      ],
+      "duration_ms": 298760,
+      "name": "Cramm",
+      "url": "https://open.spotify.com/track/1kdYAlixc4q9O1HO1tbfw2"
+    },
+    {
+      "added_at": "2023-11-09 16:46:30",
+      "album": {
         "name": "Yum !!",
         "url": "https://open.spotify.com/album/2tvYqqcIyY6fz3knjQ2fJx"
       },
@@ -1079,18 +1095,18 @@
     {
       "added_at": "2023-11-09 16:46:30",
       "album": {
-        "name": "Route One or Die",
-        "url": "https://open.spotify.com/album/70J0gVtwKcMBXqm3uDdkDH"
+        "name": "Ni Hablar",
+        "url": "https://open.spotify.com/album/25VaZh2ORGoNWwdNSn5H1s"
       },
       "artists": [
         {
-          "name": "Three Trapped Tigers",
-          "url": "https://open.spotify.com/artist/1FGfJBdp4l7sELXNf92jrT"
+          "name": "LE\u00d1A",
+          "url": "https://open.spotify.com/artist/3A3FoilKOXzYIkHm948iBS"
         }
       ],
-      "duration_ms": 298760,
-      "name": "Cramm",
-      "url": "https://open.spotify.com/track/1kdYAlixc4q9O1HO1tbfw2"
+      "duration_ms": 221686,
+      "name": "GRVD",
+      "url": "https://open.spotify.com/track/7dKs6gN3niTRTFkoJWc3JJ"
     },
     {
       "added_at": "2023-11-09 16:46:30",
@@ -1127,18 +1143,18 @@
     {
       "added_at": "2023-11-09 16:46:30",
       "album": {
-        "name": "Ni Hablar",
-        "url": "https://open.spotify.com/album/25VaZh2ORGoNWwdNSn5H1s"
+        "name": "51\u00b031'47\"S 58\u00b007'44\"W",
+        "url": "https://open.spotify.com/album/6G3EKAe7lqV1xYaLGxow6O"
       },
       "artists": [
         {
-          "name": "LE\u00d1A",
-          "url": "https://open.spotify.com/artist/3A3FoilKOXzYIkHm948iBS"
+          "name": "Puerto Austral",
+          "url": "https://open.spotify.com/artist/4PeFo2mhFvz9CeURn4nQ5o"
         }
       ],
-      "duration_ms": 221686,
-      "name": "GRVD",
-      "url": "https://open.spotify.com/track/7dKs6gN3niTRTFkoJWc3JJ"
+      "duration_ms": 213512,
+      "name": "Bamb\u00fa",
+      "url": "https://open.spotify.com/track/0blSP29ZqkQxUGImV3rB2o"
     },
     {
       "added_at": "2023-11-09 16:46:30",
@@ -1159,18 +1175,18 @@
     {
       "added_at": "2023-11-09 16:46:30",
       "album": {
-        "name": "51\u00b031'47\"S 58\u00b007'44\"W",
-        "url": "https://open.spotify.com/album/6G3EKAe7lqV1xYaLGxow6O"
+        "name": "Beow",
+        "url": "https://open.spotify.com/album/2Kxe4roMOtztT6Qn6fvNgl"
       },
       "artists": [
         {
-          "name": "Puerto Austral",
-          "url": "https://open.spotify.com/artist/4PeFo2mhFvz9CeURn4nQ5o"
+          "name": "Suffer Like G Did",
+          "url": "https://open.spotify.com/artist/7mFJ8ikeW57cChHbHpYiUf"
         }
       ],
-      "duration_ms": 213512,
-      "name": "Bamb\u00fa",
-      "url": "https://open.spotify.com/track/0blSP29ZqkQxUGImV3rB2o"
+      "duration_ms": 208892,
+      "name": "Beow",
+      "url": "https://open.spotify.com/track/69pFXap7G2AGMUXV0Njtab"
     },
     {
       "added_at": "2023-11-09 16:46:30",
@@ -1203,22 +1219,6 @@
       "duration_ms": 174000,
       "name": "Baile Amargo",
       "url": "https://open.spotify.com/track/1kWoh3kdfxO0ZXEwMoVky5"
-    },
-    {
-      "added_at": "2023-11-09 16:46:30",
-      "album": {
-        "name": "Beow",
-        "url": "https://open.spotify.com/album/2Kxe4roMOtztT6Qn6fvNgl"
-      },
-      "artists": [
-        {
-          "name": "Suffer Like G Did",
-          "url": "https://open.spotify.com/artist/7mFJ8ikeW57cChHbHpYiUf"
-        }
-      ],
-      "duration_ms": 208892,
-      "name": "Beow",
-      "url": "https://open.spotify.com/track/69pFXap7G2AGMUXV0Njtab"
     },
     {
       "added_at": "2023-11-09 16:46:30",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-11-09 16:46:30",
       "album": {
-        "name": "Land Wars",
-        "url": "https://open.spotify.com/album/5gBDfLIfFuLQJQ41kjuDPb"
-      },
-      "artists": [
-        {
-          "name": "Land Wars",
-          "url": "https://open.spotify.com/artist/7ElwpPgxeEmTih4SlTcB9O"
-        }
-      ],
-      "duration_ms": 234306,
-      "name": "Friends Suck",
-      "url": "https://open.spotify.com/track/42pO1zZememxps3eSEXfnp"
-    },
-    {
-      "added_at": "2023-11-09 16:46:30",
-      "album": {
         "name": "Mar\u00eda",
         "url": "https://open.spotify.com/album/3XIKKZu6j73mu2MKFdi9JX"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 244375,
       "name": "Lasitud",
       "url": "https://open.spotify.com/track/1t3nTkvb3iTshGXZOg6AgU"
+    },
+    {
+      "added_at": "2023-11-09 16:46:30",
+      "album": {
+        "name": "Land Wars",
+        "url": "https://open.spotify.com/album/5gBDfLIfFuLQJQ41kjuDPb"
+      },
+      "artists": [
+        {
+          "name": "Land Wars",
+          "url": "https://open.spotify.com/artist/7ElwpPgxeEmTih4SlTcB9O"
+        }
+      ],
+      "duration_ms": 234306,
+      "name": "Friends Suck",
+      "url": "https://open.spotify.com/track/42pO1zZememxps3eSEXfnp"
     },
     {
       "added_at": "2023-11-09 16:46:30",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2023-11-09 16:46:30",
       "album": {
-        "name": "P\u00e1ramo",
-        "url": "https://open.spotify.com/album/6dvTFKqd5icLCXWLL1NlNz"
+        "name": "Valerio y la \u00daltima Vuelta al Palejon\u00fa",
+        "url": "https://open.spotify.com/album/49x51YGTHDL8fbERpiuxyH"
       },
       "artists": [
         {
-          "name": "Def\u00f3rmica",
-          "url": "https://open.spotify.com/artist/2472MBj59UMXdRCn5zwbwF"
+          "name": "Jean Loup",
+          "url": "https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U"
         }
       ],
-      "duration_ms": 303893,
-      "name": "Novelesco",
-      "url": "https://open.spotify.com/track/34EmVSEZKS6hrEVAVtGMdN"
+      "duration_ms": 251373,
+      "name": "Torino",
+      "url": "https://open.spotify.com/track/3ph50wGap6ERq55TPRV89D"
     },
     {
       "added_at": "2023-11-09 16:46:30",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2023-11-09 16:46:30",
       "album": {
-        "name": "Valerio y la \u00daltima Vuelta al Palejon\u00fa",
-        "url": "https://open.spotify.com/album/49x51YGTHDL8fbERpiuxyH"
+        "name": "P\u00e1ramo",
+        "url": "https://open.spotify.com/album/6dvTFKqd5icLCXWLL1NlNz"
       },
       "artists": [
         {
-          "name": "Jean Loup",
-          "url": "https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U"
+          "name": "Def\u00f3rmica",
+          "url": "https://open.spotify.com/artist/2472MBj59UMXdRCn5zwbwF"
         }
       ],
-      "duration_ms": 251373,
-      "name": "Torino",
-      "url": "https://open.spotify.com/track/3ph50wGap6ERq55TPRV89D"
+      "duration_ms": 303893,
+      "name": "Novelesco",
+      "url": "https://open.spotify.com/track/34EmVSEZKS6hrEVAVtGMdN"
     },
     {
       "added_at": "2023-11-09 16:46:30",

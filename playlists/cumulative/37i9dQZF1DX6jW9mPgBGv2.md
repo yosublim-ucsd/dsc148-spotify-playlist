@@ -4,7 +4,7 @@
 
 > El rango más alto\. Ellos lo tienen y lo saben\. Bad Bunny plantando cara.
 
-106 songs - 6 hr 30 min
+108 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [100 MILLONES](https://open.spotify.com/track/4Ixc50wY5pbUvNEogTQ2wL) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [100 MILLONES](https://open.spotify.com/album/5nqsQ0kfgdhrN8is8FR2rP) | 3:57 | 2021-12-01 |  |
 | [6B \(feat\. Go Get Music\)](https://open.spotify.com/track/4eWqqT2MQtg6p1gLVuz3oT) | [Los G4](https://open.spotify.com/artist/1uaiSMIzlh2Y6Fx4bC1c6s), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3), [Go Get Music](https://open.spotify.com/artist/0BKYcWhq6W4TYSLSJk1ZDJ) | [6B \(feat\. Go Get Music\)](https://open.spotify.com/album/0Zt0jTYE1PpUpKeAp9Jd45) | 3:34 | 2023-02-11 |  |
 | [Adentro de la Disco \(feat\. Myke Towers\)](https://open.spotify.com/track/2QJQJEI9WvhqQViGS58gZ7) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Adentro de la Disco \(feat\. Myke Towers\)](https://open.spotify.com/album/2gRPPH31jHTGwhniJINHVr) | 3:12 | 2023-06-16 |  |
+| [Al Costo](https://open.spotify.com/track/0GEsx6S00XYMLpoZERJsEo) | [Jamby El Favo](https://open.spotify.com/artist/128ftF9X7Kd7Di2fq3wYVs) | [Al Costo](https://open.spotify.com/album/5wYOBxAQAbTqi6xbbRsuIE) | 2:44 | 2023-12-22 |  |
 | [Aleluya \(Pt.2\)](https://open.spotify.com/track/2zBgCRY5xJfbjPuG9MTSA2) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Para Llegar Arriba](https://open.spotify.com/album/6GXucyDVunCpe3OCoVo1xA) | 2:35 | 2021-12-01 |  |
 | [Aleman: Bzrp Music Sessions, Vol\. 15](https://open.spotify.com/track/7xRWmHZ2wt3zDgM5mAL0JU) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Aleman: Bzrp Music Sessions, Vol\. 15](https://open.spotify.com/album/3clF95vv6O71LUshRmF2q8) | 2:54 | 2021-12-01 |  |
 | [Antes de Morirme](https://open.spotify.com/track/0zhkLYpmMZyjtv03haC77Y) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Before Famous](https://open.spotify.com/album/7wlVu0H4e9T0vyl5kYonz2) | 3:41 | 2022-04-25 |  |
@@ -103,6 +104,7 @@
 | [Tarjeta](https://open.spotify.com/track/7zYsVejuPDQMWYzVYrM7xT) | [Panda Black](https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Tarjeta](https://open.spotify.com/album/6G8v60PffQzTMYin95WjeA) | 1:36 | 2023-11-24 |  |
 | [Tata](https://open.spotify.com/track/4h4ZykphGhv6HoomNndhm3) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Monarca](https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN) | 2:45 | 2021-12-01 |  |
 | [Tiburones](https://open.spotify.com/track/5QacJpuPIKIzsp2GPPt0ew) | [Shootter Ledo](https://open.spotify.com/artist/2e5kXDvESsDPMyuQZ0qouH), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [Tiburones](https://open.spotify.com/album/2HdXNU8YnSaR5IjlRWmq3E) | 3:22 | 2023-11-10 |  |
+| [TLD](https://open.spotify.com/track/2YyPxb5eGbmqi8rEwoxZe4) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [El Principe 2](https://open.spotify.com/album/5U3A4CCnKzp3vtWbIqAzNO) | 3:59 | 2023-12-22 |  |
 | [TRAPPii](https://open.spotify.com/track/1NnWem6HonEiI378MLLOH8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [TRAPPii](https://open.spotify.com/album/7iF9xB4XpjpAUK1K3gQk7v) | 2:57 | 2023-09-22 |  |
 | [Tu No Metes Cabra](https://open.spotify.com/track/43SMQMC2X2fAOuTPRnSGrG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Tu No Metes Cabra](https://open.spotify.com/album/1zyFFgmRlW5GbTyTTyjQ8w) | 2:50 | 2021-12-01 |  |
 | [Tu No Vive Asi \(feat\. Mambo Kingz & DJ Luian\)](https://open.spotify.com/track/6NSMQFKgjpQb0KkjMDYIK0) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD) | [Tu No Vive Asi \(feat\. Mambo Kingz & DJ Luian\)](https://open.spotify.com/album/12yPsAPzZ5584HxpItKBUn) | 4:24 | 2021-12-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3trfBa7jeme9hRFIwOhAMM.md) - [plain]
 
 > bringing you all things house!! follow me on tour <a href="http://www.instagram.com/curbi">here</a> and don't forget to <a href="https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT">follow my artist profile</a>..
 
-[Curbi](https://open.spotify.com/user/curbimusic) - 4,113 likes - 40 songs - 2 hr 0 min
+[Curbi](https://open.spotify.com/user/curbimusic) - 4,119 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/3trfBa7jeme9hRFIwOhAMM.md) - [plain]
 | 39 | [Uncontrollable](https://open.spotify.com/track/0C2UfwJjLLNnUftt9bZdgn) | [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V), [Zadquiel](https://open.spotify.com/artist/5hFK4GrVDIi7EOTO4QJG5o) | [Uncontrollable / Haters EP](https://open.spotify.com/album/5grwqKWg5XsvFKqsuqZP49) | 3:06 |
 | 40 | [Make Amends \(feat\. Kyan Palmer\)](https://open.spotify.com/track/4Ocr8ezgeulwYhg3aZIqDL) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Kyan Palmer](https://open.spotify.com/artist/3W5hlKkJKXp7xY7R7IYfxp) | [Make Amends \(feat\. Kyan Palmer\)](https://open.spotify.com/album/0tNgfFcdLPQhzfgE6kI3u4) | 2:40 |
 
-Snapshot ID: `MTQ2NCxmOTg2MWU0NTlkNWVlM2JjMjRjYmY3NmM1YWJkMjE2MzE3YTNhODkw`
+Snapshot ID: `MTQ2NixiYmMyODgzNzkxN2UzM2VhMjU1NWEyMDI1MmQ3YmIwYzA3ZDgwMmRm`

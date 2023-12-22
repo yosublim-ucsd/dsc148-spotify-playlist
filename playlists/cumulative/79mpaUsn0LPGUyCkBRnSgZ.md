@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-378 songs - 1 day 0 hr 33 min
+379 songs - 1 day 0 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Knotty Pine](https://open.spotify.com/track/6OVrzpbprJutSZeJGAfm5F) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF), [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [Dark Was The Night \(Red Hot Compilation\)](https://open.spotify.com/album/1ZgPLRwQF58fsgciZl1PO4) | 2:22 | 2023-12-03 |  |
 | [Kodachrome](https://open.spotify.com/track/3f0U5NaD1bCk8nmKpn2ZJY) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [There Goes Rhymin' Simon](https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD) | 3:35 | 2023-05-21 | 2023-06-11 |
 | [Labor](https://open.spotify.com/track/5mebhNwj9TqwjeyGvBAIcT) | [Aesop Rock](https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ) | [Labor Days](https://open.spotify.com/album/3zJMNOxnbHWG2rZwswnSM2) | 2:32 | 2023-08-04 |  |
+| [Latter Days](https://open.spotify.com/track/7wOdJjz1WHJiBdzKSZWszu) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 3:38 | 2023-12-21 |  |
 | [Leather & Lace](https://open.spotify.com/track/33Z5vF0bF0OyZWabDcXgbB) | [Radiator Hospital](https://open.spotify.com/artist/0HMLp79IAd9Z8zMgxqpyxn) | [Torch Song](https://open.spotify.com/album/1GYm7FRy5UZPNu1cTtOdKs) | 2:01 | 2023-12-03 |  |
 | [Leave It In My Dreams](https://open.spotify.com/track/31u6rUeIEXGrYVoh10U7eu) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Virtue](https://open.spotify.com/album/2dMmcXlG8xtRJNlsjIrPWe) | 3:59 | 2023-09-12 |  |
 | [Let England Shake](https://open.spotify.com/track/2XwL9kTn9411Ed4p0MLYx3) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Let England Shake](https://open.spotify.com/album/2f8Rfpdol5jrJe3OL4YH6k) | 3:09 | 2023-05-20 |  |

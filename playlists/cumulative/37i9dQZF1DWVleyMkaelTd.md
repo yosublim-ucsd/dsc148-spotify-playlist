@@ -4,7 +4,7 @@
 
 > Soundtrack your cozy dinner with bossa nova jazz.
 
-169 songs - 10 hr 40 min
+171 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [How Insensitive](https://open.spotify.com/track/4U8uDeTOVWCNtMLNjrQo6N) | [Ivo Rio Band](https://open.spotify.com/artist/5ZIDWGBTOxrUE0Dd9qiUiv) | [Triste](https://open.spotify.com/album/7vfuRG7S9K0VJczr3L7CNO) | 4:15 | 2022-04-26 | 2023-08-11 |
 | [I didn't know what time it was](https://open.spotify.com/track/2zAErc7IF0XI38zPfaXipU) | [Clube no norte](https://open.spotify.com/artist/18eKmZOA1BvY1sBLnvKNHH) | [Dindi](https://open.spotify.com/album/4knjVWNKQlrrsXpfPImum0) | 4:10 | 2022-04-26 |  |
 | [I Left My Heart in San Francisco](https://open.spotify.com/track/6p2Qx196CPwdcxKE7eweKi) | [Leandro Amor Trio](https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ) | [I Left My Heart in San Francisco](https://open.spotify.com/album/6ZagCmpNLdmAjSxVOmjLot) | 3:43 | 2023-01-12 |  |
+| [I Mean To Say](https://open.spotify.com/track/7w2wEyWPyUg7NhB2YARJB0) | [Mornington](https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS) | [I Mean To Say](https://open.spotify.com/album/3zPx8FFBdTdMDI91doYfa8) | 3:37 | 2023-12-22 |  |
 | [I Should Have Known Better](https://open.spotify.com/track/2ZvXvqnAZeQyCbqVgjfqzW) | [Lisa Ekdahl](https://open.spotify.com/artist/4SJSGUVZ04tezaGrxc96EE) | [Grand Songs](https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv) | 3:26 | 2022-04-26 | 2022-05-25 |
 | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/track/3URt3hJlLJEJFwBNBIyOGY) | [Tom Rogers Band](https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR) | [I Still Haven't Found What I'm Looking For](https://open.spotify.com/album/6DIhteXyU6TqzXu6mdwuzO) | 3:25 | 2022-12-01 |  |
 | [I'm Glad There Is You](https://open.spotify.com/track/3cqo3iiXecJmN3CbQAAtpn) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Haven't We Met?](https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx) | 5:01 | 2022-04-26 | 2022-06-15 |
@@ -109,6 +110,7 @@
 | [Nado Borboleta](https://open.spotify.com/track/1LK94Pkl6MQJouTSi8MyLS) | [Vinícius](https://open.spotify.com/artist/1k8aIB0NA92A8rVKA4HnaM) | [Bossa Nova EP](https://open.spotify.com/album/0Eb5CwXAUx0p3IkHsWAlBs) | 4:26 | 2022-04-26 | 2022-09-30 |
 | [Nana](https://open.spotify.com/track/7hZgnIYynYjpYPQ5lcvUXm) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Nana](https://open.spotify.com/album/7JXX0EsuHWnOweuAmeb484) | 4:33 | 2023-02-02 |  |
 | [Nature Boy](https://open.spotify.com/track/127WDW2MedpO5IpOITKrk8) | [Lighthouse Lounge Band](https://open.spotify.com/artist/7KjOxELnBlgibEtaW703Nc) | [Nature Boy](https://open.spotify.com/album/3zhJcSU3vvj5UviDGFT7eR) | 4:23 | 2022-04-26 |  |
+| [New Wave](https://open.spotify.com/track/5PtTXjAnu5kTbAXT6iNtQO) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [New Wave](https://open.spotify.com/album/1dOpRmg7S4eRYL7xExPRB8) | 3:23 | 2023-12-22 |  |
 | [Noite Suave](https://open.spotify.com/track/5dVUdUdr5CXEpC6Lu0pb2U) | [Leandro Amor Trio](https://open.spotify.com/artist/4S4flqSBJsefHltJ4wZXEZ) | [Noite Suave](https://open.spotify.com/album/4BEKXeaDkF5uvYkhEY2Fhk) | 4:24 | 2022-08-10 | 2023-09-02 |
 | [North Carolina](https://open.spotify.com/track/6EmTdoIgJe8PygIqxJ48iu) | [Henry Albert Trio](https://open.spotify.com/artist/0oeLogVOTRyRb8h43KVlXm) | [North Carolina](https://open.spotify.com/album/5CSBOCtfPDZdagmDqyvb81) | 2:54 | 2023-02-16 |  |
 | [Nothing To Lose \(from The Party\)](https://open.spotify.com/track/6hoPWPOBh92PQqkbqJmqdX) | [Owen Silberman](https://open.spotify.com/artist/7elv0yvaQGqWdcnwV1VVUy) | [Out of Tinseltown](https://open.spotify.com/album/4kihph6RfV3BjW5jrjYWJ4) | 3:22 | 2022-04-26 |  |

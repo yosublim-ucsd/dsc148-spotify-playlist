@@ -268,7 +268,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 68608,
       "name": "ABC Lullaby",
       "url": "https://open.spotify.com/track/1NKpbUfUe5KKzeTth786Bf"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 88783,
       "name": "As You Fall Asleep",
       "url": "https://open.spotify.com/track/3e02zZNzCZ0i9WVMqhD0Xz"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 97584,
       "name": "Baby Mine",
       "url": "https://open.spotify.com/track/3XuHDU7k5CUtbXR15XstHw"
@@ -473,6 +473,42 @@
     },
     {
       "album": {
+        "name": "Bah Bah Black Sheep",
+        "url": "https://open.spotify.com/album/2i22SdqYHHtQa8juiAVj7V"
+      },
+      "artists": [
+        {
+          "name": "Mano Chaves",
+          "url": "https://open.spotify.com/artist/6UM4agygW7G4oLMZJ7gZJe"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84583,
+      "name": "Bah Bah Black Sheep",
+      "url": "https://open.spotify.com/track/4PjElayQdqf0G16Sm9NMYN"
+    },
+    {
+      "album": {
+        "name": "Beautiful Dreamer",
+        "url": "https://open.spotify.com/album/4t8q5lh2SJO5dE92gm79nw"
+      },
+      "artists": [
+        {
+          "name": "Angeline Delaunay",
+          "url": "https://open.spotify.com/artist/4v4KtI8f8puIEpQ4SoW270"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97235,
+      "name": "Beautiful Dreamer",
+      "url": "https://open.spotify.com/track/1rF8701CXgc6si6F0dL5FU"
+    },
+    {
+      "album": {
         "name": "Beautiful Dreamer",
         "url": "https://open.spotify.com/album/0FVCReDPOPfadN0trS1saa"
       },
@@ -488,6 +524,24 @@
       "duration_ms": 110347,
       "name": "Beautiful Dreamer",
       "url": "https://open.spotify.com/track/74a4lvusf5aaocjmfYlNLH"
+    },
+    {
+      "album": {
+        "name": "Beauty and the Beast",
+        "url": "https://open.spotify.com/album/5nRgwCpMoA7D4g5VzsPtkB"
+      },
+      "artists": [
+        {
+          "name": "Salma Bolea",
+          "url": "https://open.spotify.com/artist/1oSv4SByCh3CRXwj2105DM"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107374,
+      "name": "Beauty and the Beast",
+      "url": "https://open.spotify.com/track/61SAnZrvmVUVloSMfLUViW"
     },
     {
       "album": {
@@ -556,7 +610,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 117124,
       "name": "Bestevennen",
       "url": "https://open.spotify.com/track/1S7GRWwKfMQLST2R1FfIvw"
@@ -970,7 +1024,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 124026,
       "name": "Didn't Leave Nobody but the Baby",
       "url": "https://open.spotify.com/track/4Xk05CiaJyLvWc7GtTUQCv"
@@ -988,7 +1042,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 85043,
       "name": "Ding Dong",
       "url": "https://open.spotify.com/track/6EgPt4flLVAt723yffCBgA"
@@ -1438,7 +1492,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 146524,
       "name": "Frere Jacques",
       "url": "https://open.spotify.com/track/10o2IooSoAxkvKonJDEbcz"
@@ -1456,10 +1510,28 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 99130,
       "name": "Friendship",
       "url": "https://open.spotify.com/track/4HtLnFbQPAZLFWYh9l8ulM"
+    },
+    {
+      "album": {
+        "name": "Fr\u00e8re Jacques (Are you Sleeping, Brother John)",
+        "url": "https://open.spotify.com/album/19e46jBhbIyTfa7f1YXUKm"
+      },
+      "artists": [
+        {
+          "name": "Roary Hayes",
+          "url": "https://open.spotify.com/artist/0BjdWFICerD6wyuHLAOPUa"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95750,
+      "name": "Fr\u00e8re Jacques (Are you Sleeping, Brother John)",
+      "url": "https://open.spotify.com/track/2pvJEckkQJWM9zNwJLdmm9"
     },
     {
       "album": {
@@ -1492,7 +1564,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 88000,
       "name": "Go the Distance",
       "url": "https://open.spotify.com/track/44QuIQOudSIgY6coo40j6w"
@@ -1582,7 +1654,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 75675,
       "name": "Good Night, Everyone",
       "url": "https://open.spotify.com/track/47Ehr3NNx21NOO1ggFIVFT"
@@ -1636,7 +1708,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 100967,
       "name": "Head, Shoulders, Knees & Toes",
       "url": "https://open.spotify.com/track/4ZljxdHTbvMCzGxh6UKGai"
@@ -1798,7 +1870,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 82250,
       "name": "I Don't Like Peas",
       "url": "https://open.spotify.com/track/0fm4S3aLlxvh1viBe47osX"
@@ -1816,7 +1888,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 84278,
       "name": "I Love Us",
       "url": "https://open.spotify.com/track/0FlxHJjxFQNjQMyvXlZPpY"
@@ -2104,7 +2176,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 63250,
       "name": "Let's Go On A Treasure Hunt",
       "url": "https://open.spotify.com/track/6sWBGUMOeH7kJpC7Zo6h7p"
@@ -2500,7 +2572,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 115729,
       "name": "Morning Has Broken",
       "url": "https://open.spotify.com/track/1o9wSgY433ioAFNZ8jU71C"
@@ -2662,7 +2734,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 81391,
       "name": "My button",
       "url": "https://open.spotify.com/track/1GKcRgmp5fjLS6nttBMNKw"
@@ -2716,7 +2788,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 77297,
       "name": "My name is Sue",
       "url": "https://open.spotify.com/track/05qmZG60q8wpsBate4bfAq"
@@ -2788,7 +2860,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 79750,
       "name": "My Wiggly Tooth",
       "url": "https://open.spotify.com/track/5bLJFknbjDtNMqc48JJ27i"
@@ -2860,7 +2932,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 93238,
       "name": "Once Upon A Star",
       "url": "https://open.spotify.com/track/6HZbiuLTLlQKP33MJRkzp8"
@@ -2950,7 +3022,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 109324,
       "name": "Please Mr. Butler",
       "url": "https://open.spotify.com/track/3dvW8Qs0s5ZZiHg4bjt1WJ"
@@ -2968,7 +3040,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 124871,
       "name": "Promenons-nous dans les bois",
       "url": "https://open.spotify.com/track/6gpQ1i2GT6WZwSs2b2b3OQ"
@@ -3274,7 +3346,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 81913,
       "name": "Sleepy Pony",
       "url": "https://open.spotify.com/track/7bzxInF7V8ygpA3TUzSwMN"
@@ -3436,7 +3508,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 84324,
       "name": "Stars Above",
       "url": "https://open.spotify.com/track/5LINFAlFwHABVuvQuIwRlQ"
@@ -3634,7 +3706,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 116500,
       "name": "The Magic Pancake",
       "url": "https://open.spotify.com/track/7kfp6vxgUNSdNBLGRRTY60"
@@ -3670,7 +3742,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 105596,
       "name": "The Squirrel in the Tree",
       "url": "https://open.spotify.com/track/5bp8UCKrWYO8d6Lzn9R3kY"
@@ -3922,7 +3994,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 130348,
       "name": "Twinkle Twinkle Little Star",
       "url": "https://open.spotify.com/track/7DrVXRTcTBRUd3aEUyQhjX"
@@ -4066,7 +4138,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 89500,
       "name": "Warm Enough For Ice Cream",
       "url": "https://open.spotify.com/track/5HNtQTusF4gpK3LYKalUyF"
@@ -4138,7 +4210,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 93874,
       "name": "When I Close My Eyes",
       "url": "https://open.spotify.com/track/7luR1726Cf9Wgt4Q3yljOF"
@@ -4228,7 +4300,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 103647,
       "name": "Winnie the Pooh",
       "url": "https://open.spotify.com/track/2G5lwoT8Wno8FqwmTSdOJe"
@@ -4300,7 +4372,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 182806,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/2jr13lHXdcc9C8JREVVpM7"

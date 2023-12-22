@@ -4,7 +4,7 @@
 
 > Enjoy the songs from the lineup appearing at Let's Rock Festival 2023! \(Let's Rock Festival 2023에 출연하는 라인업의 노래들을 즐겨보세요!\)
 
-131 songs - 8 hr 55 min
+132 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [It Doesn't Matter](https://open.spotify.com/track/2yujjkBN8aw0eJTBQTLD2P) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [It Doesn't Matter](https://open.spotify.com/album/5EvNDonhQsBFfZQCgAzU0d) | 3:34 | 2023-09-04 |  |
 | [Kim Cheolsu Story](https://open.spotify.com/track/48mBeNB9eRSxbPn9bDIcyn) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Kim Cheolsu Story](https://open.spotify.com/album/7hvLtgOO2CbZkEhrsjjlC2) | 4:08 | 2023-09-04 |  |
 | [KNOCK \(With PARKMOONCHI\)](https://open.spotify.com/track/5tsFpHn90YwfYdfKGb0UnJ) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [KNOCK \(With PARKMOONCHI\)](https://open.spotify.com/album/3SHirl0IeccHW7cpPZXuLU) | 3:25 | 2023-09-04 |  |
-| [Kyo181](https://open.spotify.com/track/0jqrftVPDJaSWpa31kgDrf) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Kyo181](https://open.spotify.com/album/3N0IUl4bbHeBmLFaMAVgCW) | 4:13 | 2023-09-04 |  |
+| [Kyo181](https://open.spotify.com/track/0jqrftVPDJaSWpa31kgDrf) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Kyo181](https://open.spotify.com/album/3N0IUl4bbHeBmLFaMAVgCW) | 4:13 | 2023-09-04 | 2023-12-22 |
+| [Kyo181](https://open.spotify.com/track/520WqSVz1lyOWz3WUjVX4U) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Kyo181](https://open.spotify.com/album/1EeGRwwj6UuAzdHmPBAsfg) | 4:13 | 2023-09-04 |  |
 | [Let's Do Well](https://open.spotify.com/track/3LC2XvIgfPpJChlceA82qU) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [사랑의 단상 Chapter 5 : The Letter From Nowhere](https://open.spotify.com/album/28KClRRM4IQB7QN204Xkym) | 4:23 | 2023-09-04 |  |
 | [Like We Turn the Pages](https://open.spotify.com/track/4TlOsdI9nScXp9drxUOZVk) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Like We Turn the Pages](https://open.spotify.com/album/10TE6ow8ZCGrO0mTe0tWbE) | 3:12 | 2023-09-04 |  |
 | [LOST](https://open.spotify.com/track/3t8nzuzkwU6URJqdtmhg83) | [Guckkasten](https://open.spotify.com/artist/71kRpwy6xTeG2OXXkRJdkA) | [FRAME](https://open.spotify.com/album/2R7autQAAltvOsyFuTYLUy) | 4:56 | 2023-09-04 | 2023-12-13 |

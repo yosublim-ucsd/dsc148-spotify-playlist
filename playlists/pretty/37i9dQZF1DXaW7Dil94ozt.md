@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaW7Dil94ozt.md) - [plain]
 
 > Enjoy the songs from the lineup appearing at Let's Rock Festival 2023! \(Let's Rock Festival 2023에 출연하는 라인업의 노래들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,376 likes - 120 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,384 likes - 120 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaW7Dil94ozt.md) - [plain]
 | 59 | [Tik Tak Tok \(feat\. So!YoON!\)](https://open.spotify.com/track/0kz21Av0iMO0SBlSd7HyXn) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn), [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Tik Tak Tok](https://open.spotify.com/album/3Smz9fmZKjq0hsHexHnEut) | 6:17 |
 | 60 | [Desert Eagle](https://open.spotify.com/track/0haCeyoW7lP7PNRu3RnSZZ) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Desert Eagle](https://open.spotify.com/album/3VfI9ZwIJSL6xBJ6LuT3Sx) | 5:09 |
 | 61 | [Mercurial](https://open.spotify.com/track/3JpZzVHJ641hGw1EgzToGc) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Mercurial](https://open.spotify.com/album/786eyZKL9JTgEptCf9JvdQ) | 3:30 |
-| 62 | [Kyo181](https://open.spotify.com/track/0jqrftVPDJaSWpa31kgDrf) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Kyo181](https://open.spotify.com/album/3N0IUl4bbHeBmLFaMAVgCW) | 4:13 |
+| 62 | [Kyo181](https://open.spotify.com/track/520WqSVz1lyOWz3WUjVX4U) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Kyo181](https://open.spotify.com/album/1EeGRwwj6UuAzdHmPBAsfg) | 4:13 |
 | 63 | [Good Luck to You](https://open.spotify.com/track/03JARaiVyO6xN2UNDi7NYZ) | [PEPPERTONES](https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj) | [Beginner's Luck](https://open.spotify.com/album/0rwMYpbxg4Iaw2RbCG07xv) | 4:20 |
 | 64 | [Some Day in the 21century](https://open.spotify.com/track/5x10QpbGDx31JOr82oWnqj) | [PEPPERTONES](https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj) | [Beginner's Luck](https://open.spotify.com/album/0rwMYpbxg4Iaw2RbCG07xv) | 4:12 |
 | 65 | [Love and Peace](https://open.spotify.com/track/2T5YVtQspCHTAgk392GHNS) | [PEPPERTONES](https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj) | [Beginner's Luck](https://open.spotify.com/album/0rwMYpbxg4Iaw2RbCG07xv) | 5:33 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaW7Dil94ozt.md) - [plain]
 | 119 | [나 좋자고 그러는겨 Did It For Me](https://open.spotify.com/track/0xLfKXJta9gzJzwzgGJUL9) | [바비핀스 Bobby Pins](https://open.spotify.com/artist/3IVOVMBeLoJNgb6hGh7OcM) | [하지 말래 Don't Do It](https://open.spotify.com/album/76YzPru5W3pRbdIYVEy7IS) | 2:57 |
 | 120 | [Autumn Color](https://open.spotify.com/track/0gn5tFa1L4r00MgZHa1GyU) | [바비핀스 Bobby Pins](https://open.spotify.com/artist/3IVOVMBeLoJNgb6hGh7OcM) | [Autumn Color](https://open.spotify.com/album/4bacxFhgwgW5p5HWYl88J9) | 4:44 |
 
-Snapshot ID: `MCw1YmIxYjVjZWQxOWY1YTY4MDQzMDE2OTBiZjg2MzE3NjhjYmRiNWNh`
+Snapshot ID: `MCxlNzNiMWVjMTk5ZmU0MDJkYzg2ZGNmZWZmM2Q3MjNkMjk4NzJjYmRm`

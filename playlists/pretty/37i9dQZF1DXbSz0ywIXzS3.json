@@ -1,12 +1,12 @@
 {
   "description": "\"I am never drinking again\".",
-  "num_followers": 710,
+  "num_followers": 798,
   "original_name": "hAngOvEr fRiEnDLy rOcK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWFiNGM5ZjViNWNmNWZkNDAzZWU1ZTFiZjI2ZTIzMDU1ZjEzZTg2",
+  "snapshot_id": "MCw5YmFmNGE1MmIxZjVmODU3ZTdhMmM3M2UxZGM4ZGIxMzg5MDQzMjI3",
   "tracks": [
     {
       "added_at": "2023-10-25 14:26:42",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-10-25 14:26:42",
       "album": {
-        "name": "Lovely Little Lonely",
-        "url": "https://open.spotify.com/album/2jStuYeaRty1cwxjoxfo9K"
-      },
-      "artists": [
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        }
-      ],
-      "duration_ms": 192825,
-      "name": "Don't Come Down",
-      "url": "https://open.spotify.com/track/47ojH5LeQhl1ZltSAHBEFF"
-    },
-    {
-      "added_at": "2023-10-25 14:26:42",
-      "album": {
         "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
         "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
       },
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2023-10-25 14:26:42",
       "album": {
-        "name": "girlfriends",
-        "url": "https://open.spotify.com/album/3cuyb6sSpCSEc6TLBh1sUQ"
+        "name": "Lovely Little Lonely",
+        "url": "https://open.spotify.com/album/2jStuYeaRty1cwxjoxfo9K"
       },
       "artists": [
         {
-          "name": "girlfriends",
-          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
         }
       ],
-      "duration_ms": 163832,
-      "name": "California",
-      "url": "https://open.spotify.com/track/5RmGKBLOYl9hbNE7BuDmur"
+      "duration_ms": 192825,
+      "name": "Don't Come Down",
+      "url": "https://open.spotify.com/track/47ojH5LeQhl1ZltSAHBEFF"
     },
     {
       "added_at": "2023-10-25 14:26:42",
@@ -1267,6 +1251,22 @@
       "duration_ms": 256133,
       "name": "Epiphany",
       "url": "https://open.spotify.com/track/43TQVltxEHaqCKpSsttaT5"
+    },
+    {
+      "added_at": "2023-10-25 14:26:42",
+      "album": {
+        "name": "girlfriends",
+        "url": "https://open.spotify.com/album/3cuyb6sSpCSEc6TLBh1sUQ"
+      },
+      "artists": [
+        {
+          "name": "girlfriends",
+          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
+        }
+      ],
+      "duration_ms": 163832,
+      "name": "California",
+      "url": "https://open.spotify.com/track/5RmGKBLOYl9hbNE7BuDmur"
     },
     {
       "added_at": "2023-10-25 14:26:42",

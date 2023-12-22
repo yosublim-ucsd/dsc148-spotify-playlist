@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-455 songs - 1 day 15 hr 21 min
+456 songs - 1 day 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Gira](https://open.spotify.com/track/4b7ip6Jw2XG8avLgM41kcl) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Gira](https://open.spotify.com/album/4gw2Z16cnAt917rOGlPBA2) | 7:45 | 2021-12-08 | 2022-11-20 |
 | [Go On and Make It Through](https://open.spotify.com/track/4Adh1Klm7A1JSRT6Pafhq5) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Keep Me Warm \(feat\. GAPS\)](https://open.spotify.com/album/3RrLv99FiRd4YjO9NbKSES) | 6:11 | 2022-05-03 | 2022-09-10 |
 | [Going Down \- Original Mix](https://open.spotify.com/track/6qraMlY4ZvQCkWF1Q9Uk9A) | [Col Lawton](https://open.spotify.com/artist/1KoBr4hgTMG3lPR353sNqm) | [Going Down EP](https://open.spotify.com/album/1YOK5okCvTwpNkLg7xpUYI) | 7:03 | 2021-12-08 | 2023-11-24 |
-| [Going In Circles \- Radio Edit](https://open.spotify.com/track/3PiC11NGRcRxoXl87vnMws) | [Ross Couch](https://open.spotify.com/artist/6n9tw6ZtS39CELDQAKvanX) | [Going In Circles](https://open.spotify.com/album/6uotgb8PA90PIpfHVvec6l) | 3:40 | 2022-10-28 |  |
+| [Going In Circles \- Radio Edit](https://open.spotify.com/track/3PiC11NGRcRxoXl87vnMws) | [Ross Couch](https://open.spotify.com/artist/6n9tw6ZtS39CELDQAKvanX) | [Going In Circles](https://open.spotify.com/album/6uotgb8PA90PIpfHVvec6l) | 3:40 | 2022-10-28 | 2023-12-22 |
 | [Gravity](https://open.spotify.com/track/1HCiKjfdSRGEDtyb1bXwRF) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Gravity](https://open.spotify.com/album/0Yur9nH0TXKubnfNM5YAKS) | 3:57 | 2023-09-22 |  |
 | [Gravity](https://open.spotify.com/track/31ST3YK94PXjmvsLri3m3y) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Gravity](https://open.spotify.com/album/0tsq8YsDQkVgKQIq65UCbH) | 3:57 | 2023-06-30 | 2023-09-06 |
 | [Gravity \(with Delhia De France\)](https://open.spotify.com/track/6mIce4eaRg6UOFHABNX2xL) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Gravity / Daka](https://open.spotify.com/album/29QX0FyGAT6KSSPyzT8s1Q) | 5:29 | 2021-12-08 |  |
@@ -452,6 +452,7 @@
 | [Why So Blue? \- Radio Edit](https://open.spotify.com/track/3pMT96h7pwJMsRGsXwpyVU) | [Haider](https://open.spotify.com/artist/7L7XkH1dMZGeedtOdYOVLF) | [Why So Blue? \(Radio Edit\)](https://open.spotify.com/album/34Bdpya8LJbNANnDDmlfXq) | 2:58 | 2023-01-06 | 2023-04-05 |
 | [Why So Blue? \- Radio Edit](https://open.spotify.com/track/7f8POQ76x9ki1D48lCsXoq) | [Haider](https://open.spotify.com/artist/7L7XkH1dMZGeedtOdYOVLF) | [Dance Now, Cry Later](https://open.spotify.com/album/0b6miPcQIohCUYRmRjUFia) | 2:58 | 2021-12-08 | 2022-07-29 |
 | [with you](https://open.spotify.com/track/5idD707HmiYqTU8TifpPc8) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [with you](https://open.spotify.com/album/4HNmTH7hARtWqGeqIMMLWL) | 2:46 | 2021-12-08 | 2023-08-12 |
+| [Wonder](https://open.spotify.com/track/5fnoZCg3VQjKYgx0J0uWA6) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq), [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Wonder](https://open.spotify.com/album/4pAPLq8ge3ifacEFJigqug) | 3:40 | 2023-12-15 |  |
 | [Yini \- Serge Devant Remix](https://open.spotify.com/track/6N9GDLobAFh4RpndxG5gcp) | [Fabio Aurea](https://open.spotify.com/artist/19yeJrAma98qEbDOmye8SQ), [Toshi](https://open.spotify.com/artist/6G621T2CmHyx5LCvd8QE63), [Serge Devant](https://open.spotify.com/artist/41ZhnBiaqeoe6asIzVDvqP) | [Yini, the Remixes](https://open.spotify.com/album/4IbQbaFvHISYJonMdxwxAP) | 7:51 | 2021-12-08 | 2022-11-17 |
 | [You & I](https://open.spotify.com/track/0x2FCEwCQPBjy9DgyCNTAG) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [You & I](https://open.spotify.com/album/1pRGnxyrtGfMH4o0jihfyU) | 3:32 | 2023-10-13 | 2023-11-04 |
 | [You & I](https://open.spotify.com/track/3SqFOlaoUGG8DQLQ0pPkEU) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [You & I](https://open.spotify.com/album/6igefRN2lXM6pLTbtyFzAO) | 3:32 | 2023-10-28 |  |

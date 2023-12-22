@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [1969](https://open.spotify.com/track/6AP8cZgUPZbbxlV40H98Xv) | [Ken Verheecke](https://open.spotify.com/artist/2zRXC9OjmjzJYeGJ76irbl) | [Northern Skies](https://open.spotify.com/album/2CQlQUHsZIiLKJkDyXZhj0) | 2:50 | 2022-02-18 |  |
+| [1969](https://open.spotify.com/track/6AP8cZgUPZbbxlV40H98Xv) | [Ken Verheecke](https://open.spotify.com/artist/2zRXC9OjmjzJYeGJ76irbl) | [Northern Skies](https://open.spotify.com/album/2CQlQUHsZIiLKJkDyXZhj0) | 2:50 | 2022-02-18 | 2023-12-22 |
 | [1st Day](https://open.spotify.com/track/1zbAxqx1OfY6Avcp7s1wJb) | [Debit](https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe) | [The Long Count](https://open.spotify.com/album/5E3VtquEh09l4f1jvLbksN) | 2:21 | 2022-03-04 | 2023-04-16 |
 | [5th Night](https://open.spotify.com/track/7vEkNIl8MnRzugwZyQtSQY) | [Debit](https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe) | [The Long Count](https://open.spotify.com/album/5E3VtquEh09l4f1jvLbksN) | 3:04 | 2022-09-21 | 2023-01-15 |
 | [92982.3](https://open.spotify.com/track/14jjKMNUMd8lKIdaqwn4XG) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [92982](https://open.spotify.com/album/6a22PsvseOZcFqySU0jQvk) | 7:03 | 2023-04-21 |  |
@@ -256,7 +256,7 @@
 | [Starethrough \- Transition Mix](https://open.spotify.com/track/1p03UtzOhN62YFGKMZPBfj) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Reduct](https://open.spotify.com/album/3mNZPQiVKNEvKp7mYhRQPd) | 5:04 | 2021-10-06 | 2022-07-28 |
 | [Stargazers](https://open.spotify.com/track/3PpzHsBBaQidL7kLGEspN3) | [Microhm](https://open.spotify.com/artist/2R34QK2WtkeIezUVWOEjRN) | [Eternal Night](https://open.spotify.com/album/7kWVSVCKdMFg3pKha9eCn5) | 7:15 | 2021-10-06 | 2022-07-29 |
 | [Static Discos 100](https://open.spotify.com/track/1ruo1XspKEfAEJthJg9UI7) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd), [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Static Discos 100](https://open.spotify.com/album/5BE3SX8n0vQ2rEWzsqdS9q) | 1:40 | 2021-10-06 |  |
-| [Street Talk](https://open.spotify.com/track/0fTYyY4Egxd86l8Yvvo2Ag) | [Holodec](https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3) | [Street Talk](https://open.spotify.com/album/5vR8ut78J1NdClW40QmtuT) | 3:49 | 2021-10-06 | 2023-08-28 |
+| [Street Talk](https://open.spotify.com/track/0fTYyY4Egxd86l8Yvvo2Ag) | [Holodec](https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3) | [Street Talk](https://open.spotify.com/album/5vR8ut78J1NdClW40QmtuT) | 3:49 | 2021-10-06 |  |
 | [Street Talk](https://open.spotify.com/track/3oeuuz1IrxQ5ezrJ6seFxC) | [Holodec](https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3) | [Street Talk](https://open.spotify.com/album/5kQMsWzWservF6GC2lJ3cv) | 3:49 | 2021-10-06 | 2023-01-25 |
 | [Subtractive Skies](https://open.spotify.com/track/3ehy5UoF8LJfWmJpm4UHOI) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO) | [Nonlin](https://open.spotify.com/album/1HG66ZvnAjtbKyWoXvBLTn) | 6:46 | 2021-10-06 |  |
 | [Subtractive Skies](https://open.spotify.com/track/5TTxqNygjuZTh5ILVDN33r) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO) | [Subtractive Skies](https://open.spotify.com/album/3XbdBcwI4SE64f49Y92V54) | 6:46 | 2021-10-06 | 2022-07-29 |

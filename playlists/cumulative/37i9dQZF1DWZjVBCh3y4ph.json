@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : Lycina\u00efs Jean",
+  "description": "Les hits zouk du moment. Photo : Kalipsxau",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -64,10 +64,28 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 191150,
       "name": "Blesser",
       "url": "https://open.spotify.com/track/5mlP39pwHpY1MjS3FFqXPq"
+    },
+    {
+      "album": {
+        "name": "Bobo",
+        "url": "https://open.spotify.com/album/11fWEJUTNotTd01ZHOca08"
+      },
+      "artists": [
+        {
+          "name": "JmaX",
+          "url": "https://open.spotify.com/artist/1bUDh0j68XndR1nE47FjJV"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233790,
+      "name": "Bobo",
+      "url": "https://open.spotify.com/track/4KGKnSCyp6XlbYtroVMBia"
     },
     {
       "album": {
@@ -210,7 +228,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 162650,
       "name": "Doudou",
       "url": "https://open.spotify.com/track/4jxoCg2Jl4GLqafbR57DOe"
@@ -622,7 +640,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 163426,
       "name": "Limbisa - Kriolu Version",
       "url": "https://open.spotify.com/track/0e8djkn3TGLjP9VstMyOZt"
@@ -666,7 +684,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 186036,
       "name": "Ma Vie",
       "url": "https://open.spotify.com/track/0NaxyxpoxUugFeGx4B2YW3"
@@ -710,6 +728,24 @@
       "duration_ms": 306922,
       "name": "MAYDAY",
       "url": "https://open.spotify.com/track/4JaiYhTtUQN4TkwafnrEjn"
+    },
+    {
+      "album": {
+        "name": "Mon Ame",
+        "url": "https://open.spotify.com/album/5D04obr5kvJyT6OfekEVVz"
+      },
+      "artists": [
+        {
+          "name": "Laconi",
+          "url": "https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170344,
+      "name": "Mon Ame",
+      "url": "https://open.spotify.com/track/1pBlTfWf1jNFlSXxhu7a7p"
     },
     {
       "album": {
@@ -1158,6 +1194,42 @@
       "duration_ms": 194823,
       "name": "Stop",
       "url": "https://open.spotify.com/track/2eYCmlVnHxy838TI9LKE05"
+    },
+    {
+      "album": {
+        "name": "STOP CA",
+        "url": "https://open.spotify.com/album/5eafYCtCmWYZNrpgRr3Y96"
+      },
+      "artists": [
+        {
+          "name": "Naya Subtil",
+          "url": "https://open.spotify.com/artist/4VPAcrsBL7hbHYw3teVnyC"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273815,
+      "name": "STOP CA",
+      "url": "https://open.spotify.com/track/2juogVxiOaHQhKColeLdw0"
+    },
+    {
+      "album": {
+        "name": "S\u00e9 Vou",
+        "url": "https://open.spotify.com/album/08wZlqOMwOQsAzkrkfYQmy"
+      },
+      "artists": [
+        {
+          "name": "Elowdy.C",
+          "url": "https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169090,
+      "name": "S\u00e9 Vou",
+      "url": "https://open.spotify.com/track/7t2jOVBu8OMm567iQBVdO6"
     },
     {
       "album": {

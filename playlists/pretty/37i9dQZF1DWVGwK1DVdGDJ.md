@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGwK1DVdGDJ.md) - [plain]
 
 > 🐰 This Is NewJeans\. The essential tracks, all in one playlist\. 🐇
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,459 likes - 26 songs - 53 min 58 sec
+[Spotify](https://open.spotify.com/user/spotify) - 144,873 likes - 38 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,5 +34,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGwK1DVdGDJ.md) - [plain]
 | 24 | [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 |
 | 25 | [Cookie](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:55 |
 | 26 | [Hurt](https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:57 |
+| 27 | [Ditto \(250 Remix\)](https://open.spotify.com/track/6JVXVLqCPaodBSEwRFUN8w) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NJWMX](https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX) | 3:21 |
+| 28 | [OMG \(FRNK Remix\)](https://open.spotify.com/track/4yjDMKCAeLovlo9ih0AgXW) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NJWMX](https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX) | 3:30 |
+| 29 | [Attention \(250 Remix\)](https://open.spotify.com/track/2nW48vXnZZ5EYka46v7GOk) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NJWMX](https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX) | 3:01 |
+| 30 | [Hype Boy \(250 Remix\)](https://open.spotify.com/track/6CUKsv928uT4561qJovhhG) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NJWMX](https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX) | 4:11 |
+| 31 | [Cookie \(FRNK Remix\)](https://open.spotify.com/track/5bwpbZBOY0mrmRhZ94c0kW) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NJWMX](https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX) | 3:32 |
+| 32 | [Hurt \(250 Remix\)](https://open.spotify.com/track/2gWWYL6iXZKkOqCE3TQHBM) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NJWMX](https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX) | 3:44 |
+| 33 | [Ditto \(250 Remix\) \(Instrumental\)](https://open.spotify.com/track/3dCCHYqCAMdm1GCuklUaZG) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NJWMX](https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX) | 3:21 |
+| 34 | [OMG \(FRNK Remix\) \(Instrumental\)](https://open.spotify.com/track/2oLVT9Lo0SavCNpGw4WfPp) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NJWMX](https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX) | 3:30 |
+| 35 | [Attention \(250 Remix\) \(Instrumental\)](https://open.spotify.com/track/4MhgDz4lSj2HtlUcpe3yrd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NJWMX](https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX) | 3:01 |
+| 36 | [Hype Boy \(250 Remix\) \(Instrumental\)](https://open.spotify.com/track/6tU4EeTSSawN9sbfAjWPX4) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NJWMX](https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX) | 4:11 |
+| 37 | [Cookie \(FRNK Remix\) \(Instrumental\)](https://open.spotify.com/track/2akxtSALPUX8orriSWyDi4) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NJWMX](https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX) | 3:32 |
+| 38 | [Hurt \(250 Remix\) \(Instrumental\)](https://open.spotify.com/track/1q9V1vsIEehAm2hDT6l53g) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NJWMX](https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX) | 3:36 |
 
-Snapshot ID: `MCw1ZGNjOGJjMGQyMjZmZTA5YWI0YmYxNDg2MjFiNjQzMjk0MWMzYWE2`
+Snapshot ID: `MCxjODg0NGU2MzQwYzdkY2QyMzMzNmVjNDU4ZTY2YjhjMWQ0YjFmNzBi`

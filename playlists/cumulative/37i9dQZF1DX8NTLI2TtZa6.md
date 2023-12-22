@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-467 songs - 20 hr 1 min
+468 songs - 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,9 +40,10 @@
 | [And There You Were](https://open.spotify.com/track/2OLfuAdRtXwsoORwiWahPe) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [A New Path](https://open.spotify.com/album/0sFVHCju4aS5BEiZtMt2LC) | 2:24 | 2023-08-21 | 2023-08-30 |
 | [And There You Were](https://open.spotify.com/track/4pe4ikorUF17h8dplM2JKv) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Where Love Is Endless](https://open.spotify.com/album/4RNFuZ5GkDi2Xlw7GtxzuH) | 2:24 | 2023-11-07 | 2023-11-17 |
 | [And There You Were](https://open.spotify.com/track/52jbzZPhldQ7ETBu20S0yr) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Good Night My Boy](https://open.spotify.com/album/1hVGbiYBujj0qqqJymDUUq) | 2:24 | 2023-11-20 | 2023-12-13 |
-| [And There You Were](https://open.spotify.com/track/54Z5v1xvglyOEh3KWsNsEr) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [When You Dream](https://open.spotify.com/album/4wJjh6QsoPWdDObVTHHJMh) | 2:24 | 2023-12-12 |  |
+| [And There You Were](https://open.spotify.com/track/54Z5v1xvglyOEh3KWsNsEr) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [When You Dream](https://open.spotify.com/album/4wJjh6QsoPWdDObVTHHJMh) | 2:24 | 2023-12-12 | 2023-12-22 |
 | [And There You Were](https://open.spotify.com/track/5qcXvge6W2VFVwH20TNoPA) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [And Blueberries](https://open.spotify.com/album/5L2Y9P1JFnFirIsk9RbqWp) | 2:24 | 2023-08-21 | 2023-09-13 |
 | [And There You Were](https://open.spotify.com/track/5wgdYkgZVflEgEmFIWvpug) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Close To Maman](https://open.spotify.com/album/3dweglz4WqwRFNAU9eA3iH) | 2:24 | 2023-09-26 | 2023-10-25 |
+| [And There You Were](https://open.spotify.com/track/6M7XzlMsertPBhysePSjhL) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Safe In Her Arms](https://open.spotify.com/album/2v0XpYcW0Rj9PyakkzeKUn) | 2:24 | 2023-12-19 |  |
 | [And There You Were](https://open.spotify.com/track/6inqfF6liJBitNaHqvxbj8) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [From Out Of Nowhere](https://open.spotify.com/album/0UetsAF1JQXncnzxmbua3v) | 2:24 | 2023-07-25 | 2023-08-23 |
 | [And There You Were](https://open.spotify.com/track/7bSLnYwRRxstyvCoqorAPU) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Of Great Expectations](https://open.spotify.com/album/3E1aUqQYMvCaOexhgq8V1Q) | 2:24 | 2023-08-21 | 2023-09-05 |
 | [And There You Were](https://open.spotify.com/track/7drtx97JQqC1zmb8AsrBuN) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [The Coldest Night](https://open.spotify.com/album/4F6VptSeANB6VQidKICIYn) | 2:24 | 2023-10-23 | 2023-11-06 |

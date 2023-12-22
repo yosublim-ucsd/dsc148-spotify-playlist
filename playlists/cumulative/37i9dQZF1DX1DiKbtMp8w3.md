@@ -4,7 +4,7 @@
 
 > Meet the lineup & LIVE EXPERIENCE of Busan International Rock Festival, the longest\-running rock festival in Korea! \(한국 최장수 국제 록 페스티벌인 부산 록 페스티벌의 라인업과 현장 경험을 만나보세요!\)
 
-260 songs - 14 hr 55 min
+261 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [JUNGLE](https://open.spotify.com/track/2wFmUoCn1z1BFxUjUtW0Lc) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [MONKEY HOTEL](https://open.spotify.com/album/7l4uULQ4qODIw5MSlLDM3r) | 3:09 | 2022-10-06 |  |
 | [Jungle the Black](https://open.spotify.com/track/4F4arrk8iGRPBE76XCf4PL) | [Galaxy Express](https://open.spotify.com/artist/3HbmUr6CJxkk0YGkxeNpMp) | [Noise on Fire \(Remastered\)](https://open.spotify.com/album/5OiizE4CuzR6iez0imn8lQ) | 2:39 | 2022-08-12 |  |
 | [Kirin](https://open.spotify.com/track/4BW4E5kn6EP1dLFXbidn19) | [THORNAPPLE](https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG) | [Enlightenment](https://open.spotify.com/album/5mfhM5hlMcZdpuR0h4No0D) | 3:32 | 2022-10-06 |  |
-| [Kyo181](https://open.spotify.com/track/0jqrftVPDJaSWpa31kgDrf) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Kyo181](https://open.spotify.com/album/3N0IUl4bbHeBmLFaMAVgCW) | 4:13 | 2022-10-06 |  |
+| [Kyo181](https://open.spotify.com/track/0jqrftVPDJaSWpa31kgDrf) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Kyo181](https://open.spotify.com/album/3N0IUl4bbHeBmLFaMAVgCW) | 4:13 | 2022-10-06 | 2023-12-22 |
+| [Kyo181](https://open.spotify.com/track/520WqSVz1lyOWz3WUjVX4U) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Kyo181](https://open.spotify.com/album/1EeGRwwj6UuAzdHmPBAsfg) | 4:13 | 2023-08-09 |  |
 | [Let me go!](https://open.spotify.com/track/0yZ5nThTk7dZfgrhlQbxtT) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | [The Volunteers](https://open.spotify.com/album/0hwXFwuvVfZwn6asTargTD) | 3:33 | 2022-08-25 |  |
 | [Lifestyle](https://open.spotify.com/track/2Od2vma6qhjUTpWdfa701R) | [Hila Ruach](https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P) | [BAT YAM](https://open.spotify.com/album/35wu0lTtX9QrtBoYcl88mZ) | 3:40 | 2022-08-12 |  |
 | [Lonely Night](https://open.spotify.com/track/5pHYQ1TuV7Ye5WWYcAxFjE) | [BOOHWAL](https://open.spotify.com/artist/2LtEDRKi75vGtsfdy205jX) | [Color](https://open.spotify.com/album/5jzebpTutPXBN69mZOwzQy) | 3:38 | 2022-08-25 |  |

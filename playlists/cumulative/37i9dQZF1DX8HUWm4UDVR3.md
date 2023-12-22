@@ -2,9 +2,9 @@
 
 ### [Couleur Pop](https://open.spotify.com/playlist/37i9dQZF1DX8HUWm4UDVR3)
 
-> La pop française annonce la couleur\. Photo : Rouquine
+> La pop française annonce la couleur\. Photo : Anaïs MVA
 
-105 songs - 5 hr 14 min
+108 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Amour de vacances](https://open.spotify.com/track/7d4L2mrGvxclgQVMmHSL1l) | [Louisette & Amaury](https://open.spotify.com/artist/5SfrCQKlH9T305RZiAud0y), [PALOSUEÑO](https://open.spotify.com/artist/2dPQbEFN0nVnkqDSDB1PT9), [Louisette](https://open.spotify.com/artist/3X0yWI2mffotaoZ6rvbFVT), [Amaury](https://open.spotify.com/artist/0C0OTAymY2bmqgYZ0WZCJI) | [Amour de vacances](https://open.spotify.com/album/2N1i1A3vPHEZPxtotd7LLe) | 2:51 | 2023-09-07 | 2023-10-06 |
 | [Aseptisé](https://open.spotify.com/track/2W5IVgVXNf3IcqRGWv5lr0) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq) | [Aseptisé](https://open.spotify.com/album/2qn28PdWCLjFQfydpVoNEP) | 3:01 | 2023-10-19 |  |
 | [Baiser Amer](https://open.spotify.com/track/3cguuolaXUqJU7tUAEbFfZ) | [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM) | [Baiser Amer](https://open.spotify.com/album/7LP6H3F3QX3p3rCWecqbLK) | 2:37 | 2023-09-07 | 2023-10-13 |
-| [BEST LIFE](https://open.spotify.com/track/5Qjk0a7VO87YfIVacHJVgG) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [BEST LIFE](https://open.spotify.com/album/3lkMSvubaannkhFlv8lyg1) | 2:50 | 2023-11-30 |  |
+| [Belle et douce](https://open.spotify.com/track/62EIK97xEvRVHCPMluN8bR) | [Enola Cox](https://open.spotify.com/artist/4FugFjuE5dLtKNtSbxe3gD) | [Mémoire d'un Été](https://open.spotify.com/album/59xVZaODpDUf84OtD7QwYJ) | 2:57 | 2023-12-21 |  |
+| [BEST LIFE](https://open.spotify.com/track/5Qjk0a7VO87YfIVacHJVgG) | [Mauvaise Bouche](https://open.spotify.com/artist/5kmLM9mSvPHT8SxGS9DqCo) | [BEST LIFE](https://open.spotify.com/album/3lkMSvubaannkhFlv8lyg1) | 2:50 | 2023-11-30 | 2023-12-22 |
 | [Bonnie](https://open.spotify.com/track/1AQnssggAwAJTeV9hFzZHu) | [ALTA](https://open.spotify.com/artist/7dW8OtSsFavE9MUjqq4pSN) | [Nagasaki](https://open.spotify.com/album/7je4NzsgC07H1xxFZR0g8s) | 2:38 | 2023-09-28 | 2023-12-15 |
 | [Bébé](https://open.spotify.com/track/4lQvyWrV2vamH8sQRxwwRz) | [Charlie Motto](https://open.spotify.com/artist/6zdCsWv5dvlyaJhk0nMmfb) | [Bébé](https://open.spotify.com/album/7adtShWeqe2YtwzB4bVKpg) | 3:00 | 2023-11-23 |  |
 | [Carabine](https://open.spotify.com/track/2z1EwCtvjaqa0AK5hQqvD0) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Photographie](https://open.spotify.com/album/3OUdDelS2copkJpYt7LEP2) | 3:21 | 2023-11-09 |  |
@@ -48,6 +49,7 @@
 | [Honnête](https://open.spotify.com/track/38rGEAgvkS19rOmPjV4DPx) | [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Honnête](https://open.spotify.com/album/5e7f0QJkEgwda9ke50M43K) | 2:59 | 2023-09-14 | 2023-12-08 |
 | [Idiot](https://open.spotify.com/track/6JOlXpSpvjk6wi2pFJhhau) | [SAM](https://open.spotify.com/artist/7c5GqUF44K4Hmx77zhALdR), [Allen B](https://open.spotify.com/artist/4IMbOxi9R1vkvUZqPClKt8) | [Idiot](https://open.spotify.com/album/7w44o7QHPANWTfn8qa66Cs) | 2:56 | 2023-09-21 | 2023-12-15 |
 | [J'aime pas sortir](https://open.spotify.com/track/0qOaSyBrDM4TmSEWrkfN6m) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [J'aime pas sortir](https://open.spotify.com/album/2QsJu8zj3GjP9bYvtKsR6C) | 2:52 | 2023-07-27 | 2023-10-06 |
+| [J'aimerais danser avec toi](https://open.spotify.com/track/1fWvBuZBG7AomF8Qk27vMM) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [J'aimerais danser avec toi](https://open.spotify.com/album/5V5TGyamn7lRkTfnoYM8vO) | 2:39 | 2023-12-21 |  |
 | [J'me barre](https://open.spotify.com/track/2ZkWEkVDL73dSNAv21aa0B) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [J'me barre](https://open.spotify.com/album/73Rk8FmhOaBIza5bOYnTmT) | 2:59 | 2023-09-28 |  |
 | [J'vais passer l'âge](https://open.spotify.com/track/2lXsHUjQV9sZN83sivu9JE) | [Laurie Darmon](https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U) | [J'vais passer l'âge](https://open.spotify.com/album/37vSJJne6tHF4nDhnRDybJ) | 3:02 | 2023-10-12 | 2023-11-10 |
 | [Je veux, je veux, je veux](https://open.spotify.com/track/1O1BFGmTnnRX5L6FAQeMyI) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Je veux, je veux, je veux](https://open.spotify.com/album/2Vm3JlbhgYPWjD6wsOgwlS) | 2:52 | 2023-07-27 | 2023-09-22 |
@@ -72,7 +74,7 @@
 | [Mexico](https://open.spotify.com/track/0eNAdxp91MiBmI7sHPsJJG) | [Elephanz](https://open.spotify.com/artist/2CD8tl357w6zYA3XYuOJPO), [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [Mexico](https://open.spotify.com/album/6pVxwt4I2528nKeP5MHq0I) | 3:07 | 2023-07-27 | 2023-10-13 |
 | [Mission](https://open.spotify.com/track/04wLbifT6G1tAzBRqMAC7d) | [Ambre Sls](https://open.spotify.com/artist/3cMsbhJUy9mujVSPtMzxe9), [La Pépite](https://open.spotify.com/artist/2Ago4l6T5ldhK0qjc9iSvV) | [Mission](https://open.spotify.com/album/4pITFt5Q4CnPjlcb1VLBtd) | 3:03 | 2023-10-12 |  |
 | [Même en enfer](https://open.spotify.com/track/0mxEFN9yHT8HLgEp1NtcDE) | [Zélie](https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx) | [Zélie c'est qui ?](https://open.spotify.com/album/40SVgjQqu5lHeUqeHsTdha) | 2:45 | 2023-07-27 | 2023-10-13 |
-| [Nuits bleues](https://open.spotify.com/track/14V0agAxlMODImJusOV3dC) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [Nuits bleues](https://open.spotify.com/album/1f5u4egw7dLFkDcXnhqkhW) | 2:36 | 2023-11-09 |  |
+| [Nuits bleues](https://open.spotify.com/track/14V0agAxlMODImJusOV3dC) | [Elena Copsi](https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm) | [Nuits bleues](https://open.spotify.com/album/1f5u4egw7dLFkDcXnhqkhW) | 2:36 | 2023-11-09 | 2023-12-22 |
 | [Oh ma vie](https://open.spotify.com/track/6SLMAJI9fGwK3oQC32pWNB) | [Achile](https://open.spotify.com/artist/21KPPMcnfzFYt3yseua9Nl) | [Oh ma vie](https://open.spotify.com/album/2OvbOMc6jBk55fvhnJI42u) | 3:18 | 2023-07-27 | 2023-10-13 |
 | [OH MADELEINE](https://open.spotify.com/track/6mlYa6FsNSfpBtr8axmVoc) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [OH MADELEINE](https://open.spotify.com/album/2P7t2OnISRXXoGd7C6cfxx) | 2:39 | 2023-08-31 |  |
 | [Oublier](https://open.spotify.com/track/37mcuOb6LwRA8wuZvySQ43) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Oublier](https://open.spotify.com/album/3MJltJ9phcfouKbcupRDoP) | 3:03 | 2023-09-07 | 2023-10-20 |
@@ -102,6 +104,7 @@
 | [Spoon](https://open.spotify.com/track/4lrByaHULAk1oFuKI6rOsA) | [Lancelot](https://open.spotify.com/artist/2h6HFDlZrXhfMDob23obTs) | [Spoon](https://open.spotify.com/album/4dFtbwST7q3v77LrcurwP8) | 2:59 | 2023-07-27 |  |
 | [SPQ](https://open.spotify.com/track/56LuwIO3bDdZNjbMIcbVGL) | [Manwarp](https://open.spotify.com/artist/54YtaiyvjFdsEu7iVGL7r3) | [SPQ](https://open.spotify.com/album/4pvMSdpkZtn8diJEwiLigi) | 3:04 | 2023-09-07 | 2023-12-01 |
 | [Stigmate](https://open.spotify.com/track/3SsLyXY1ddnhjAwSafPIrc) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Pulsations](https://open.spotify.com/album/5dfL1lSvKW38OgZQaOXIFo) | 3:10 | 2023-10-05 | 2023-12-15 |
+| [Stigmate \- Radio Edit](https://open.spotify.com/track/1CCglTzgQP2UCQtRwkpHOc) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Stigmate \(Radio Edit\)](https://open.spotify.com/album/7qVz48nAVwSdEje5MUTqTf) | 2:25 | 2023-12-21 |  |
 | [Super potos](https://open.spotify.com/track/6zeKT4FyrZogtpv1NZqINr) | [Venus VNR](https://open.spotify.com/artist/1VNVb5UAADT5TLDjQ1oGZW) | [Super potos](https://open.spotify.com/album/6AuJdkK4SBkcLskg9tF1NK) | 2:11 | 2023-09-14 | 2023-11-10 |
 | [Tara](https://open.spotify.com/track/4DokPvEWGHqqFIi4uWnYyh) | [DAYSY](https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk) | [Comme je suis](https://open.spotify.com/album/50MyaLvIiDzLntnyJoihFW) | 2:32 | 2023-12-14 |  |
 | [Tirer la nuit sur les étoiles \- Yan Wagner Radio Remix](https://open.spotify.com/track/7bY9boNbEOBFACQicbgyvF) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk), [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd), [Yan Wagner](https://open.spotify.com/artist/7JLtS4ASAUsAYrsShMerMc) | [Tirer la nuit sur les étoiles \(Yan Wagner Remix\)](https://open.spotify.com/album/0Je8ec42W3n68qOlKAZtEh) | 3:18 | 2023-07-27 | 2023-09-08 |
@@ -111,7 +114,7 @@
 | [Ultra Chelou](https://open.spotify.com/track/57UBYwVmyJI6vKxU9C5toS) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [Ultra Chelou](https://open.spotify.com/album/6yREVOqD9UEQb4sR4aZzge) | 2:46 | 2023-10-05 |  |
 | [Vent violent](https://open.spotify.com/track/08B3fIzo8bmYNlGgeZMzCM) | [Fleur Copin](https://open.spotify.com/artist/7LcMjf96A3Do8qhgjnn8Fy) | [Vent violent](https://open.spotify.com/album/2ZmUpBmqmuRf2Ev6opeojO) | 2:13 | 2023-09-28 | 2023-10-20 |
 | [Vital](https://open.spotify.com/track/6TmFRumBFH5pe47ifSk6xH) | [Tessa Galli](https://open.spotify.com/artist/2gwcCVXHaxheagUuFstHvI) | [Vital](https://open.spotify.com/album/78JSV318gx3LZyLYnbGqqP) | 2:52 | 2023-09-07 | 2023-10-06 |
-| [XS](https://open.spotify.com/track/08Jrszz3ir62gPhy9wfU4i) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [XS](https://open.spotify.com/album/52JamK8WdjuILo8uhev83g) | 2:36 | 2023-07-27 |  |
+| [XS](https://open.spotify.com/track/08Jrszz3ir62gPhy9wfU4i) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [XS](https://open.spotify.com/album/52JamK8WdjuILo8uhev83g) | 2:36 | 2023-07-27 | 2023-12-22 |
 | [Ça ira](https://open.spotify.com/track/4fzoguCLFCgt2ldzSkLkL4) | [Gaëlle](https://open.spotify.com/artist/7IEKUdw3xG4W1DpxvLL0di) | [Ça ira](https://open.spotify.com/album/18sxQrfpUxfwygD6RTtcju) | 2:38 | 2023-12-14 |  |
 
 \*This playlist was first scraped on 2023-07-29. Prior content cannot be recovered.

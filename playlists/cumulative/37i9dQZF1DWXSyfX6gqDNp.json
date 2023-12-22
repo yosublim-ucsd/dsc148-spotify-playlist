@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Being the problem",
+        "url": "https://open.spotify.com/album/7j8VO9KD9r54qiFTQevH8T"
+      },
+      "artists": [
+        {
+          "name": "Mabon Clarke Quartet",
+          "url": "https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176337,
+      "name": "Being the problem",
+      "url": "https://open.spotify.com/track/2wJkGPUzUHcdDCPHe0bF4b"
+    },
+    {
+      "album": {
         "name": "Seven Days of Falling",
         "url": "https://open.spotify.com/album/36M6vwSgrPqzUYYG4cKlIB"
       },

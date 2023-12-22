@@ -4217,6 +4217,24 @@
     },
     {
       "album": {
+        "name": "Up Where We Belong",
+        "url": "https://open.spotify.com/album/2n5lxbfM2ypvRahQ6LDrvc"
+      },
+      "artists": [
+        {
+          "name": "Lo Larsen",
+          "url": "https://open.spotify.com/artist/1RsZrWsACeuDkqAISdeFDi"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201789,
+      "name": "Up Where We Belong",
+      "url": "https://open.spotify.com/track/3DGhWJz1fSwd80IOi6LjUH"
+    },
+    {
+      "album": {
         "name": "Visa vid vindens \u00e4ngar",
         "url": "https://open.spotify.com/album/4hjS1cyVshSuAk0oLhVGKB"
       },

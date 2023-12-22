@@ -4,7 +4,7 @@
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5?si=OjiQz5aVRKCMcGcbLuHUuA">Sneziey</a>
 
-181 songs - 18 hr 15 min
+182 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Nne Ndi Shumela \(Live\)](https://open.spotify.com/track/1h80HKqjegsny8lawquT4C) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Takie Ndou](https://open.spotify.com/artist/4VRhAhWIwAZ8nXLAxuzDGu) | [Nne Ndi Shumela \(Live\)](https://open.spotify.com/album/5UF3bB4HpAtm1cJCQR2J5x) | 8:08 | 2022-09-15 |  |
 | [Nothing Without You \- Live](https://open.spotify.com/track/33ovGnOeJfoSXRyL3dZhgf) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Love & Grace \(Live At The Barnyard Theatre / Deluxe Version\)](https://open.spotify.com/album/3ett5uGGvISE7Sl75Z98Hv) | 7:50 | 2023-06-23 |  |
 | [Ntate Kemang \- Live](https://open.spotify.com/track/3Gf0vZL1EqayR8su1FlSXd) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p) | [Spirit of Praise, Vol\. 6 \(Live\)](https://open.spotify.com/album/1HcsuCBcgQOZs96LGKO9Ba) | 4:29 | 2023-06-16 |  |
+| [Ntho ke ena \(Live\)](https://open.spotify.com/track/2NHFL8FpxYGJ1ovE4uIuWs) | [Tebs David](https://open.spotify.com/artist/5wuC7dnBTQsphj7CIOm4fv) | [Ntho ke ena \(Live\)](https://open.spotify.com/album/0olffnuTDQXe6cYxOse7f3) | 6:00 | 2023-12-22 |  |
 | [Nxa Ngimbona \- Live](https://open.spotify.com/track/2JWpFdGDHflpiRpfoRilNL) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Nxa Ngimbona \(Live\)](https://open.spotify.com/album/7DkQ7RJcsGJls3WyfQEwwU) | 6:03 | 2022-03-17 |  |
 | [Pela Hao / Jehovah o Lefika \- Live](https://open.spotify.com/track/5rPuW9s3cqoNKeVNUrBCjd) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [Hymns of Faith \(Live\)](https://open.spotify.com/album/4P7hoE9mBHjwNgJTLtrlWo) | 8:41 | 2022-02-17 |  |
 | [Phendula Imithandazo](https://open.spotify.com/track/3mRQCsQk2RKfW36ZJbG82z) | [Mjakes The Producer](https://open.spotify.com/artist/1xPLC6Bv9F6olLAxpN6XLZ), [Nhlonipho](https://open.spotify.com/artist/4fmvHSoDtKFGNsQL3imnRN) | [Phendula Imithandazo](https://open.spotify.com/album/0rbl6EdViK0hKcMKoPyvMs) | 4:24 | 2023-10-20 |  |

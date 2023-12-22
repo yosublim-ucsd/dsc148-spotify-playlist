@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 149678,
+  "num_followers": 150048,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmM4MzBkZWM0YzBlMzY4NmMxYWU2ZDgzNzI0ODIxODEyNDUxZjM0",
+  "snapshot_id": "MCwzOTQ4MTAyY2ViODgzNzczNWU0NzQwYzY5NjU1ZWIwODU1MDg1NWUx",
   "tracks": [
     {
       "added_at": "2023-09-22 12:14:33",
@@ -203,6 +203,22 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
+        "name": "Inca Ore / Grouper",
+        "url": "https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 196893,
+      "name": "Poison Tree",
+      "url": "https://open.spotify.com/track/6Q5uDNuuFYa8ToL3CCoHPC"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
         "name": "snowfall (Slowed + Reverb)",
         "url": "https://open.spotify.com/album/3odz9MUzucRfbCCH8hxqCK"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 150660,
       "name": "snowfall (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/4VkEkljlOC5cMbRMhREO5E"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
-        "name": "Inca Ore / Grouper",
-        "url": "https://open.spotify.com/album/2oztVYt7jDJBTysn00vM6E"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 196893,
-      "name": "Poison Tree",
-      "url": "https://open.spotify.com/track/6Q5uDNuuFYa8ToL3CCoHPC"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -595,22 +595,18 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "Alter",
-        "url": "https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza"
+        "name": "Untourable Album",
+        "url": "https://open.spotify.com/album/1vYB8mYSGiKxE5C2RGjfDP"
       },
       "artists": [
         {
-          "name": "Lustmord",
-          "url": "https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7"
-        },
-        {
-          "name": "Karin Park",
-          "url": "https://open.spotify.com/artist/5uBdYy8QRabKEL1MtDPXfr"
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
         }
       ],
-      "duration_ms": 566208,
-      "name": "Entwined",
-      "url": "https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC"
+      "duration_ms": 206340,
+      "name": "Shoulders",
+      "url": "https://open.spotify.com/track/2Ef5PbCqzsxCzwvbWXGVgm"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -647,6 +643,26 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
+        "name": "Alter",
+        "url": "https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza"
+      },
+      "artists": [
+        {
+          "name": "Lustmord",
+          "url": "https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7"
+        },
+        {
+          "name": "Karin Park",
+          "url": "https://open.spotify.com/artist/5uBdYy8QRabKEL1MtDPXfr"
+        }
+      ],
+      "duration_ms": 566208,
+      "name": "Entwined",
+      "url": "https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
         "name": "Gazing Back At Earth",
         "url": "https://open.spotify.com/album/7bLpr6loDfBGLeHW6imrKA"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 316000,
       "name": "Gazing Back At Earth",
       "url": "https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
-        "name": "Untourable Album",
-        "url": "https://open.spotify.com/album/1vYB8mYSGiKxE5C2RGjfDP"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 206340,
-      "name": "Shoulders",
-      "url": "https://open.spotify.com/track/2Ef5PbCqzsxCzwvbWXGVgm"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
+        "name": "hexa",
+        "url": "https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs"
+      },
+      "artists": [
+        {
+          "name": "Maxx",
+          "url": "https://open.spotify.com/artist/058CZbsaJmJbRQvDRAAErr"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "hexa",
+      "url": "https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
         "name": "Vintage Well",
         "url": "https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm"
       },
@@ -939,18 +955,22 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
-        "name": "hexa",
-        "url": "https://open.spotify.com/album/3142OVL5k96lO51q7Hmiqs"
+        "name": "haunted, but it's ambient",
+        "url": "https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl"
       },
       "artists": [
         {
-          "name": "Maxx",
-          "url": "https://open.spotify.com/artist/058CZbsaJmJbRQvDRAAErr"
+          "name": "MADEBYGODES",
+          "url": "https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc"
+        },
+        {
+          "name": "Sedogy Bedam",
+          "url": "https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt"
         }
       ],
-      "duration_ms": 149333,
-      "name": "hexa",
-      "url": "https://open.spotify.com/track/6BWIrKTvVD1w1zB1WhbRmP"
+      "duration_ms": 136800,
+      "name": "haunted, but it's ambient",
+      "url": "https://open.spotify.com/track/7gQ4JFzIS4CcwbPntsVDsN"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -987,26 +1007,6 @@
       "duration_ms": 396773,
       "name": "Gold of the Azure - Marconi Union Remix",
       "url": "https://open.spotify.com/track/3PdFwrtQxYdw0S1urHwKO6"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
-        "name": "haunted, but it's ambient",
-        "url": "https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl"
-      },
-      "artists": [
-        {
-          "name": "MADEBYGODES",
-          "url": "https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc"
-        },
-        {
-          "name": "Sedogy Bedam",
-          "url": "https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "haunted, but it's ambient",
-      "url": "https://open.spotify.com/track/7gQ4JFzIS4CcwbPntsVDsN"
     },
     {
       "added_at": "2023-09-22 12:14:33",
@@ -1083,6 +1083,42 @@
     {
       "added_at": "2023-09-22 12:14:33",
       "album": {
+        "name": "Moments.",
+        "url": "https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t"
+      },
+      "artists": [
+        {
+          "name": "Violet A. Foster",
+          "url": "https://open.spotify.com/artist/3OKmOc5V850cI1rAjyo9Gi"
+        }
+      ],
+      "duration_ms": 156301,
+      "name": "Locale",
+      "url": "https://open.spotify.com/track/7EmVoBw3vXMwBpIhPA4KEF"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
+        "name": "haunted (remixes)",
+        "url": "https://open.spotify.com/album/7x8aZZv6uPClwBoRy3hTmX"
+      },
+      "artists": [
+        {
+          "name": "MADEBYGODES",
+          "url": "https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc"
+        },
+        {
+          "name": "Sedogy Bedam",
+          "url": "https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt"
+        }
+      ],
+      "duration_ms": 153984,
+      "name": "haunted (florence slowed version)",
+      "url": "https://open.spotify.com/track/41kZoTblXlap0lNHaQA3Qw"
+    },
+    {
+      "added_at": "2023-09-22 12:14:33",
+      "album": {
         "name": "Angel's Flight",
         "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
       },
@@ -1111,38 +1147,6 @@
       "duration_ms": 417142,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
-        "name": "Moments.",
-        "url": "https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t"
-      },
-      "artists": [
-        {
-          "name": "Violet A. Foster",
-          "url": "https://open.spotify.com/artist/3OKmOc5V850cI1rAjyo9Gi"
-        }
-      ],
-      "duration_ms": 156301,
-      "name": "Locale",
-      "url": "https://open.spotify.com/track/7EmVoBw3vXMwBpIhPA4KEF"
-    },
-    {
-      "added_at": "2023-09-22 12:14:33",
-      "album": {
-        "name": "Take My Hand",
-        "url": "https://open.spotify.com/album/2KVKBlcWmJ49mhV4wfQ50I"
-      },
-      "artists": [
-        {
-          "name": "Luke Taylor",
-          "url": "https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR"
-        }
-      ],
-      "duration_ms": 159972,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/2li1k57BZcIGJrISHXlOmh"
     }
   ],
   "unique_name": "gloomcore",

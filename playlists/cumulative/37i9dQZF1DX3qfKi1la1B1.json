@@ -880,7 +880,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 216306,
       "name": "California and Me",
       "url": "https://open.spotify.com/track/5VP1yXviUwA0KA0ewit5pe"
@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 185715,
       "name": "Charge It",
       "url": "https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH"
@@ -2332,7 +2332,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 740010,
       "name": "I swear, I Really Wanted To Make A \"Rap\" Album But This Is Literally The Way The Wind Blew Me This Time",
       "url": "https://open.spotify.com/track/1lbjDy6IIerHFGZWKG0hno"
@@ -3732,7 +3732,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 261638,
       "name": "Origami Song",
       "url": "https://open.spotify.com/track/20jLunM1GMasrScNWN45mP"
@@ -4114,6 +4114,28 @@
       "duration_ms": 234266,
       "name": "Promise",
       "url": "https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09"
+    },
+    {
+      "album": {
+        "name": "QUIET SPACE FOR QUIET LIFE, Pt.3&4",
+        "url": "https://open.spotify.com/album/1pwQGSXQWBJUNHMhGaNP9j"
+      },
+      "artists": [
+        {
+          "name": "XTAL",
+          "url": "https://open.spotify.com/artist/2t07wCTjaVSrObNSvgMyLi"
+        },
+        {
+          "name": "\u7573\u91ce\u5f69\u52a0",
+          "url": "https://open.spotify.com/artist/04y7KDVl7fo1YNHCzeRfW4"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 899591,
+      "name": "QUIET SPACE FOR QUIET LIFE, Pt.3",
+      "url": "https://open.spotify.com/track/7LUxmRn3m9Y7Bpiak546Qt"
     },
     {
       "album": {
@@ -5038,7 +5060,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 148115,
       "name": "Strike (Holster)",
       "url": "https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay"
@@ -5206,6 +5228,24 @@
       "duration_ms": 386899,
       "name": "The Encounters - Silent Poets Remix",
       "url": "https://open.spotify.com/track/5QTqbpSEZKLPG9IVVG08ko"
+    },
+    {
+      "album": {
+        "name": "The End",
+        "url": "https://open.spotify.com/album/5yQSR4I6kIx4a7Siq2Q6vZ"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205634,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/3e4QnOQmNqJaBjpmjGYZK0"
     },
     {
       "album": {
@@ -5550,7 +5590,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 189565,
       "name": "Turning Point",
       "url": "https://open.spotify.com/track/5pQR2DV8gHTVNJnXgrBDix"
@@ -5838,6 +5878,24 @@
       "duration_ms": 186000,
       "name": "WE'LL DIE THIS WAY",
       "url": "https://open.spotify.com/track/28nI6Aum8oazhOQ6tsbI7t"
+    },
+    {
+      "album": {
+        "name": "Weeping Willow / \u679d\u5782\u67f3",
+        "url": "https://open.spotify.com/album/7An1KBeh1UYMiX7KIkfgam"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193973,
+      "name": "Weeping Willow / \u679d\u5782\u67f3",
+      "url": "https://open.spotify.com/track/3jzFhXdkG5EPbF0TkbWDlj"
     },
     {
       "album": {

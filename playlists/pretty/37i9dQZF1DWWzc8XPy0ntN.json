@@ -1,12 +1,12 @@
 {
   "description": "Productores latinos underground para bailar con aud\u00edfonos.",
-  "num_followers": 123732,
+  "num_followers": 123738,
   "original_name": "Escena Electr\u00f3nica Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTJmMDY0MjQ0ZmRjOTc2YzRjMGVlMGI2MGJkMjkxZGU1ZDQzY2Nh",
+  "snapshot_id": "MCxkYzg3ZWE1N2Y5YzU5MjhkNzVhMTM4MGJmZTE3MzYxZGYwNjZmZTE3",
   "tracks": [
     {
       "added_at": "2022-08-18 23:29:09",
@@ -367,22 +367,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Night in Tijuana",
-        "url": "https://open.spotify.com/album/4vKaGMoRdGVu6u6GJyqHTx"
-      },
-      "artists": [
-        {
-          "name": "Kelman Duran",
-          "url": "https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd"
-        }
-      ],
-      "duration_ms": 170909,
-      "name": "Dancehall, Audubon Ballroom",
-      "url": "https://open.spotify.com/track/09LNA3vpPg0Zd3ghzTv5BN"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Mexican Superstar",
         "url": "https://open.spotify.com/album/4lSJuFFlo7MEKtpLCBXW14"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 237000,
       "name": "Mexican Superstar",
       "url": "https://open.spotify.com/track/71twNlaatmLS7noNHrjNlZ"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Night in Tijuana",
+        "url": "https://open.spotify.com/album/4vKaGMoRdGVu6u6GJyqHTx"
+      },
+      "artists": [
+        {
+          "name": "Kelman Duran",
+          "url": "https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd"
+        }
+      ],
+      "duration_ms": 170909,
+      "name": "Dancehall, Audubon Ballroom",
+      "url": "https://open.spotify.com/track/09LNA3vpPg0Zd3ghzTv5BN"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -499,6 +499,22 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
+        "name": "Give It To The Music",
+        "url": "https://open.spotify.com/album/7KNJCJsDEnAdLt9WbJD0Th"
+      },
+      "artists": [
+        {
+          "name": "Nortec: Bostich + Fussible",
+          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+        }
+      ],
+      "duration_ms": 294250,
+      "name": "Give It To The Music",
+      "url": "https://open.spotify.com/track/4lzBK0eegI0rCCEIPg0sVI"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
         "name": "Mexico Trance",
         "url": "https://open.spotify.com/album/7AJ6vYLnEU0O6yzO6fvJIZ"
       },
@@ -531,22 +547,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Mala Hierba",
-        "url": "https://open.spotify.com/album/2gUpydA3UPgqBkpjGbCCOy"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda y Jos\u00e9",
-          "url": "https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX"
-        }
-      ],
-      "duration_ms": 215111,
-      "name": "Mala Hierba",
-      "url": "https://open.spotify.com/track/1QjfhdsjAMgXKR78X7NUXr"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Esta Noche",
         "url": "https://open.spotify.com/album/4otyeBB3oeu6L7M7tYD1It"
       },
@@ -567,18 +567,18 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Give It To The Music",
-        "url": "https://open.spotify.com/album/7KNJCJsDEnAdLt9WbJD0Th"
+        "name": "Mala Hierba",
+        "url": "https://open.spotify.com/album/2gUpydA3UPgqBkpjGbCCOy"
       },
       "artists": [
         {
-          "name": "Nortec: Bostich + Fussible",
-          "url": "https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg"
+          "name": "Mar\u00eda y Jos\u00e9",
+          "url": "https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX"
         }
       ],
-      "duration_ms": 294250,
-      "name": "Give It To The Music",
-      "url": "https://open.spotify.com/track/4lzBK0eegI0rCCEIPg0sVI"
+      "duration_ms": 215111,
+      "name": "Mala Hierba",
+      "url": "https://open.spotify.com/track/1QjfhdsjAMgXKR78X7NUXr"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -595,6 +595,34 @@
       "duration_ms": 215280,
       "name": "Cuarzo",
       "url": "https://open.spotify.com/track/1aIModmKDbvX4xJqBFgQv8"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Nz\u00fambi",
+        "url": "https://open.spotify.com/album/76dn7yiHINDA18rFqopGp0"
+      },
+      "artists": [
+        {
+          "name": "Doble Redoble",
+          "url": "https://open.spotify.com/artist/4XJopnM0aD3RN5NWnl6fdT"
+        },
+        {
+          "name": "Borchi",
+          "url": "https://open.spotify.com/artist/1dPeBgMAiuyI2gXcphyNMH"
+        },
+        {
+          "name": "Asaph S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI"
+        },
+        {
+          "name": "Boog\u00e1t",
+          "url": "https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R"
+        }
+      ],
+      "duration_ms": 238492,
+      "name": "Platano Macho",
+      "url": "https://open.spotify.com/track/2JW0Rz7D4q3KxbvsBZrZZv"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -651,50 +679,6 @@
     {
       "added_at": "2022-08-18 23:29:09",
       "album": {
-        "name": "Nz\u00fambi",
-        "url": "https://open.spotify.com/album/76dn7yiHINDA18rFqopGp0"
-      },
-      "artists": [
-        {
-          "name": "Doble Redoble",
-          "url": "https://open.spotify.com/artist/4XJopnM0aD3RN5NWnl6fdT"
-        },
-        {
-          "name": "Borchi",
-          "url": "https://open.spotify.com/artist/1dPeBgMAiuyI2gXcphyNMH"
-        },
-        {
-          "name": "Asaph S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI"
-        },
-        {
-          "name": "Boog\u00e1t",
-          "url": "https://open.spotify.com/artist/2y2bEk3zCBVBMDkrXgA29R"
-        }
-      ],
-      "duration_ms": 238492,
-      "name": "Platano Macho",
-      "url": "https://open.spotify.com/track/2JW0Rz7D4q3KxbvsBZrZZv"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
-        "name": "Hola",
-        "url": "https://open.spotify.com/album/632kGPMnxUSMHTngCCeb4Z"
-      },
-      "artists": [
-        {
-          "name": "Dietscha Jung",
-          "url": "https://open.spotify.com/artist/6DYNkp4jACOeI3bn2gmKqg"
-        }
-      ],
-      "duration_ms": 141818,
-      "name": "K Royal Con Las de Harina",
-      "url": "https://open.spotify.com/track/08V1tV1HjwZeV04MaV9dpQ"
-    },
-    {
-      "added_at": "2022-08-18 23:29:09",
-      "album": {
         "name": "Bufebe",
         "url": "https://open.spotify.com/album/1BU2ah2FQ4SbswByhQonrO"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 324444,
       "name": "Corrado",
       "url": "https://open.spotify.com/track/0ulKl0MCIn9mYHmxK8DLA2"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "Hola",
+        "url": "https://open.spotify.com/album/632kGPMnxUSMHTngCCeb4Z"
+      },
+      "artists": [
+        {
+          "name": "Dietscha Jung",
+          "url": "https://open.spotify.com/artist/6DYNkp4jACOeI3bn2gmKqg"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "K Royal Con Las de Harina",
+      "url": "https://open.spotify.com/track/08V1tV1HjwZeV04MaV9dpQ"
     },
     {
       "added_at": "2023-02-28 03:45:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-12-21 17:17:38",
       "album": {
-        "name": "Catalog Number Sta122",
-        "url": "https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf"
-      },
-      "artists": [
-        {
-          "name": "Fax",
-          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
-        }
-      ],
-      "duration_ms": 149869,
-      "name": "10",
-      "url": "https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D"
-    },
-    {
-      "added_at": "2022-12-21 17:17:38",
-      "album": {
         "name": "Dreamy Hamilton (Remixes)",
         "url": "https://open.spotify.com/album/4X40gozRTAuJrosoKxf9M6"
       },
@@ -793,20 +777,20 @@
       "url": "https://open.spotify.com/track/0uVfcsjX9FX0VRU3sn2PyR"
     },
     {
-      "added_at": "2022-08-18 23:29:09",
+      "added_at": "2022-12-21 17:17:38",
       "album": {
-        "name": "I Can't Find",
-        "url": "https://open.spotify.com/album/5Jj04Klsiv5Iw6CzFDRYVe"
+        "name": "Catalog Number Sta122",
+        "url": "https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf"
       },
       "artists": [
         {
-          "name": "The Mechanic",
-          "url": "https://open.spotify.com/artist/2WeMFNubmmrJqYYlBwc60I"
+          "name": "Fax",
+          "url": "https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4"
         }
       ],
-      "duration_ms": 224000,
-      "name": "I Can't Find",
-      "url": "https://open.spotify.com/track/6mgPAe08nGJuIrFwCYuJSN"
+      "duration_ms": 149869,
+      "name": "10",
+      "url": "https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D"
     },
     {
       "added_at": "2022-08-18 23:29:09",
@@ -823,6 +807,22 @@
       "duration_ms": 500869,
       "name": "Pieles",
       "url": "https://open.spotify.com/track/5kh71E46NXD2ub6OcvFVy5"
+    },
+    {
+      "added_at": "2022-08-18 23:29:09",
+      "album": {
+        "name": "I Can't Find",
+        "url": "https://open.spotify.com/album/5Jj04Klsiv5Iw6CzFDRYVe"
+      },
+      "artists": [
+        {
+          "name": "The Mechanic",
+          "url": "https://open.spotify.com/artist/2WeMFNubmmrJqYYlBwc60I"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "I Can't Find",
+      "url": "https://open.spotify.com/track/6mgPAe08nGJuIrFwCYuJSN"
     },
     {
       "added_at": "2022-08-18 23:29:09",

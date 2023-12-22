@@ -1455,6 +1455,28 @@
     },
     {
       "album": {
+        "name": "Kill Bill",
+        "url": "https://open.spotify.com/album/17NM9tiswNH0fojmUNR0AL"
+      },
+      "artists": [
+        {
+          "name": "Luke Silver",
+          "url": "https://open.spotify.com/artist/2UwDGHRsJYHKbOMLPdNVjj"
+        },
+        {
+          "name": "VAPESHARK",
+          "url": "https://open.spotify.com/artist/3nJ1t2nfTGc9X8gLTRwGd7"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168193,
+      "name": "Kill Bill",
+      "url": "https://open.spotify.com/track/3OgK0m3ubna6qz1DBgJOcN"
+    },
+    {
+      "album": {
         "name": "LEAD",
         "url": "https://open.spotify.com/album/12eiDX769GffsCljewZy7i"
       },
@@ -2444,7 +2466,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 172045,
       "name": "Way Good",
       "url": "https://open.spotify.com/track/4QZXsa3ZYi9ZONvkDHubhR"

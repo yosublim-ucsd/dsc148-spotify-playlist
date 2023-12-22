@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > Håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,882 likes - 80 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,931 likes - 80 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Likkle Boy](https://open.spotify.com/track/1Pbc670CnjRQT2z7W7WzDN) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Likkle Boy](https://open.spotify.com/album/6UoEY8gw0sUG1YReQCc1O7) | 2:00 |
+| 1 | [Holy Father](https://open.spotify.com/track/5L3rVVMUlgJgDRaXc4V3wt) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [Holy Father](https://open.spotify.com/album/3EDPjtq7VheovIXi7hXCTu) | 2:38 |
 | 2 | [Överallt](https://open.spotify.com/track/2O5WGi5MYNRSNiT47J5QbH) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Överallt](https://open.spotify.com/album/0Ma4pU6qyMUlk4wl24ncjM) | 2:05 |
 | 3 | [Roma](https://open.spotify.com/track/72Vowls7A5ZiLp8bfAOPig) | [FGZ](https://open.spotify.com/artist/4Si6O7X4gvXWjVF2yYzORs) | [Roma](https://open.spotify.com/album/56IVBQgF3IcQE3cYrrsDJL) | 2:41 |
-| 4 | [We Lit](https://open.spotify.com/track/48Cgrs2KhleyXMRtoOSbK5) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Kod Röd](https://open.spotify.com/album/6ghcTg1cb6We9GWZGOWOgH) | 2:33 |
-| 5 | [Holy Father](https://open.spotify.com/track/5L3rVVMUlgJgDRaXc4V3wt) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [Holy Father](https://open.spotify.com/album/3EDPjtq7VheovIXi7hXCTu) | 2:38 |
-| 6 | [YOUNG THUG PÅ 1M](https://open.spotify.com/track/6b88vMQia1ddGYjkQPTizO) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [DAN](https://open.spotify.com/artist/0nBco1iBK1g1CJVrJWQUlp) | [YOUNG THUG PÅ 1M](https://open.spotify.com/album/4ZjRNNwA1ldmgFausc2oby) | 2:25 |
-| 7 | [Automatic RMX \(feat\. Baby Gang\)](https://open.spotify.com/track/0u3Hx0SSWhemODiuA7ZV14) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Automatic RMX \(feat\. Baby Gang\)](https://open.spotify.com/album/3j6szanjkO1lTjsL6xAPeo) | 2:10 |
-| 8 | [Hjärta](https://open.spotify.com/track/2ovn0uhOcqZOaOFbJiAh2d) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Hjärta](https://open.spotify.com/album/2bZBvHKMCyYt3VdTSa8kPH) | 2:38 |
+| 4 | [YOUNG THUG PÅ 1M](https://open.spotify.com/track/6b88vMQia1ddGYjkQPTizO) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [DAN](https://open.spotify.com/artist/0nBco1iBK1g1CJVrJWQUlp) | [YOUNG THUG PÅ 1M](https://open.spotify.com/album/4ZjRNNwA1ldmgFausc2oby) | 2:25 |
+| 5 | [Likkle Boy](https://open.spotify.com/track/1Pbc670CnjRQT2z7W7WzDN) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [Likkle Boy](https://open.spotify.com/album/6UoEY8gw0sUG1YReQCc1O7) | 2:00 |
+| 6 | [We Lit](https://open.spotify.com/track/48Cgrs2KhleyXMRtoOSbK5) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Kod Röd](https://open.spotify.com/album/6ghcTg1cb6We9GWZGOWOgH) | 2:33 |
+| 7 | [Hjärta](https://open.spotify.com/track/2ovn0uhOcqZOaOFbJiAh2d) | [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Hjärta](https://open.spotify.com/album/2bZBvHKMCyYt3VdTSa8kPH) | 2:38 |
+| 8 | [Automatic RMX \(feat\. Baby Gang\)](https://open.spotify.com/track/0u3Hx0SSWhemODiuA7ZV14) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Automatic RMX \(feat\. Baby Gang\)](https://open.spotify.com/album/3j6szanjkO1lTjsL6xAPeo) | 2:10 |
 | 9 | [Twogunkid](https://open.spotify.com/track/0kxi8BDubqlXhRqTkuIZe7) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [En paus från internet \- Del 1](https://open.spotify.com/album/3kda21yqjtpYe0WRwgOk00) | 2:16 |
 | 10 | [Aktiv](https://open.spotify.com/track/7FILcXgBfO8f48zLaIqb9g) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Spår av BLod](https://open.spotify.com/album/7aZiFpe3Ji0BQ3E2Uo7LzK) | 2:40 |
 | 11 | [QUE PASA?](https://open.spotify.com/track/3ZGxEFPmgKtrGXzCWCb04l) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [QUE PASA?](https://open.spotify.com/album/6YoQO2lhDjISo3XmzD2Kos) | 2:20 |
-| 12 | [Julbrevet](https://open.spotify.com/track/6Zu0W8fwq8TPjAbdjSQBsu) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Le Winter](https://open.spotify.com/artist/3dtPDEZGp9vvPpe8reKHUR) | [Julbrevet](https://open.spotify.com/album/60u5LJYUnXwx816jCOH569) | 1:45 |
-| 13 | [Beväpnade](https://open.spotify.com/track/7ECXPRN333xnTqDp4bZm2F) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Beväpnade](https://open.spotify.com/album/3u6m4HbCwD7jDUq4nbCoTf) | 1:47 |
+| 12 | [Beväpnade](https://open.spotify.com/track/7ECXPRN333xnTqDp4bZm2F) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Beväpnade](https://open.spotify.com/album/3u6m4HbCwD7jDUq4nbCoTf) | 1:47 |
+| 13 | [Julbrevet](https://open.spotify.com/track/6Zu0W8fwq8TPjAbdjSQBsu) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Le Winter](https://open.spotify.com/artist/3dtPDEZGp9vvPpe8reKHUR) | [Julbrevet](https://open.spotify.com/album/60u5LJYUnXwx816jCOH569) | 1:45 |
 | 14 | [Dans från dig](https://open.spotify.com/track/2u85ptzhLjdL4iHV5pNUtb) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ), [Sara Kurt](https://open.spotify.com/artist/0ap6IhwNQwrARwuwzTjKIh), [Le Winter](https://open.spotify.com/artist/3dtPDEZGp9vvPpe8reKHUR) | [Dans från dig](https://open.spotify.com/album/0cVVi5pOnxXno0Krda4f8g) | 2:16 |
 | 15 | [Min Skugga](https://open.spotify.com/track/5wOO2PntnNbOSgaszLkbt7) | [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD) | [Min Skugga](https://open.spotify.com/album/6PUHMo6qU9N8GpE4vjLwHE) | 3:09 |
 | 16 | [Crazy](https://open.spotify.com/track/3Ez3ZpuhwVyTInPHXSXV1m) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR) | [Crazy](https://open.spotify.com/album/4MQaDqPfUzyPQ427RBmZJE) | 2:32 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 79 | [TURN](https://open.spotify.com/track/6j5QuG4MlwvSgSY0D6DMRI) | [LKay](https://open.spotify.com/artist/0ao2HCPhWbdBSA6Sa94xTa), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [TURN](https://open.spotify.com/album/0ynIkR95qfhpCK0KAFbe8l) | 2:43 |
 | 80 | [ELTON](https://open.spotify.com/track/0piouxd8gy4K1DnKMBAO0c) | [2M](https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c) | [ELTON](https://open.spotify.com/album/2xNPeHuKdpeCyn65rkhN40) | 2:10 |
 
-Snapshot ID: `MCwzM2Y5Y2ZkMTRiMjE5MzRiMDg3ODMxZDIyZTM0NDliNWUyYWNkZWVl`
+Snapshot ID: `MCw0Y2FhZDYzNWQ4OTAxOGZkNDA5OGQ2MzlhN2M3MWUxODdiNTk3MjEz`

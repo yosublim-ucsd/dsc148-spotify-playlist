@@ -4,7 +4,7 @@
 
 > Not NOT pop\. Cover: beabadoobee, Mac Wetha, Aminé
 
-1,581 songs - 3 day 4 hr 13 min
+1,582 songs - 3 day 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -521,6 +521,7 @@
 | [Get Lost In The Music](https://open.spotify.com/track/09z2LpPORefMOJKYyJQShL) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Get Lost In The Music](https://open.spotify.com/album/5FBk0BFXqwMrtdrxxfa21B) | 3:49 | 2021-07-31 | 2021-10-14 |
 | [Get My Shit Together](https://open.spotify.com/track/3nC6Gt3CHy298GkUWdO0fh) | [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj), [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [Get My Shit Together](https://open.spotify.com/album/2mVfNzwL8lRJyRS2CTHCkW) | 3:10 | 2022-04-01 | 2022-06-11 |
 | [GET NAUGHTY !](https://open.spotify.com/track/1z5GBU5eT0LxyBFAcaigHG) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [GET NAUGHTY !](https://open.spotify.com/album/3oeK4C4V2CjcpBHvIXTUQz) | 2:29 | 2023-12-08 |  |
+| [Get out my house](https://open.spotify.com/track/0xfj4umWuuP0aSq2T4M8JF) | [Kieran Ivy](https://open.spotify.com/artist/0wzHzFNLOLex8psv09KqNK) | [Get out my house](https://open.spotify.com/album/4l8lysRbVyMUZQsrnkr5aL) | 2:55 | 2023-12-15 |  |
 | [Get Up \(feat\. Vince Staples\)](https://open.spotify.com/track/6PbU0URiPBpH4UD9CfCgF7) | [Terrell Hines](https://open.spotify.com/artist/2jhjHaG1p2SMn6cDyhwhjQ), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Get Up \(feat\. Vince Staples\)](https://open.spotify.com/album/2XOgYO8CiY86X9XK3wbqbs) | 2:47 | 2020-10-13\* | 2021-05-29 |
 | [get yo bread](https://open.spotify.com/track/1CbRf2PzsxscJKbzlngTyr) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [get yo bread](https://open.spotify.com/album/4gV0AqHdzOwBuykylnF0lf) | 3:44 | 2022-07-15 | 2022-08-06 |
 | [get yo bread](https://open.spotify.com/track/7L5W4IMeAwM0jYTCmS6AjA) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [IT'S OKAY, WE'RE DREAMING II: don't worry, i'll be fine](https://open.spotify.com/album/4aI8eV2NI3p6HdNMk43pcq) | 3:44 | 2022-10-25 | 2022-10-29 |
@@ -1370,7 +1371,7 @@
 | [The Fall](https://open.spotify.com/track/6bs2Q3d1EqZb7pUTfQaAth) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [The Fall](https://open.spotify.com/album/6UIJW1Dzene2situnL8YHw) | 2:45 | 2022-04-01 | 2022-04-10 |
 | [The feelings tend to stay the same](https://open.spotify.com/track/4WwynJRKVuJzMgew9ptoDe) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [The feelings tend to stay the same](https://open.spotify.com/album/6OT1kHq5Gcn3zvKoj7XCgb) | 2:28 | 2020-10-13\* | 2021-02-13 |
 | [the fractal song](https://open.spotify.com/track/7LTJ2alkzEumlU6bPEMm9e) | [gabby start](https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9) | [the fractal song](https://open.spotify.com/album/3oNbVcy0gsNGvnnJRPL5z6) | 2:40 | 2022-01-28 | 2022-04-10 |
-| [The Gods Must Be Crazy](https://open.spotify.com/track/62ir3CludVLlbrXk6AOlGg) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl) | [The Gods Must Be Crazy](https://open.spotify.com/album/5isDMdPrvufHyLyO8E4Hr1) | 3:00 | 2023-09-29 |  |
+| [The Gods Must Be Crazy](https://open.spotify.com/track/62ir3CludVLlbrXk6AOlGg) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl) | [The Gods Must Be Crazy](https://open.spotify.com/album/5isDMdPrvufHyLyO8E4Hr1) | 3:00 | 2023-09-29 | 2023-12-22 |
 | [The Joke](https://open.spotify.com/track/3Ml2TX8o5reIR0mAEXVhvv) | [BAD CHILD](https://open.spotify.com/artist/7ayksoJ16I0E4Riftzvfaz) | [The Joke](https://open.spotify.com/album/1o8K4bT1jZ8ayWT8uc0cyf) | 2:51 | 2023-05-19 | 2023-06-24 |
 | [The Jungle](https://open.spotify.com/track/5BGmmTZL2bsRi5qFP0OWX0) | [Oliver Malcolm](https://open.spotify.com/artist/5ut4VhaCRPsEjAZ93jpPfK) | [Are You Living In The Real World? \- EP](https://open.spotify.com/album/6Uutk4ONNcluULLclNZEgB) | 2:03 | 2022-04-05 |  |
 | [The Light](https://open.spotify.com/track/4hSOItU6YvWBNwG7kOPOKX) | [Jabril](https://open.spotify.com/artist/7akqOKvUbVnmKsafHZYJ4s), [Harrisun](https://open.spotify.com/artist/7Fs3Yj5hp3rvtj9JSXYiSa) | [The Light](https://open.spotify.com/album/4OJtHHJKm6fYJGz6HYa7Re) | 3:16 | 2022-07-08 | 2022-08-06 |

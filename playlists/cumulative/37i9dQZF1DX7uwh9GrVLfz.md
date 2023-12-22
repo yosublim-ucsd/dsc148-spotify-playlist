@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: ガガガSP
 
-689 songs - 1 day 12 hr 53 min
+690 songs - 1 day 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -664,6 +664,7 @@
 | [欠けボタンの浜](https://open.spotify.com/track/1w4z24d1WsNzAiSgvMegOe) | [Husking Bee](https://open.spotify.com/artist/3reslfdzWDC8qHVM36KtZy) | [FOUR COLOR PROBLEM](https://open.spotify.com/album/6UPDZijSd4tsuTQnp1cvRh) | 3:15 | 2022-05-12 | 2022-07-27 |
 | [死がふたりを分かつまで](https://open.spotify.com/track/2VrInjH5nNuehjX97Zq4hq) | [PK shampoo](https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ) | [死がふたりを分かつまで](https://open.spotify.com/album/2WoNMJ9rbmpGFEMYOFB272) | 3:17 | 2023-11-21 |  |
 | [永久に](https://open.spotify.com/track/4bqBqH6zYVgIZXQO4ZyZJ7) | [THE FOREVER YOUNG](https://open.spotify.com/artist/6frp4bEF93k77mFn6AbwQd) | [永久に](https://open.spotify.com/album/0VeAIIbyFuQS7WeWqxa0PP) | 4:06 | 2023-08-08 | 2023-08-10 |
+| [永遠少女](https://open.spotify.com/track/1f5lVcQBXRG4tXR9Vk2eMs) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [永遠少女](https://open.spotify.com/album/5NNnqLKCYbLjnz63CnvnKQ) | 4:02 | 2023-12-19 |  |
 | [永遠衝動](https://open.spotify.com/track/5I2A6BkRvTve67HLQbK3WE) | [I's](https://open.spotify.com/artist/2nLJEolH6pXx09IC4LrWBU) | [永遠衝動](https://open.spotify.com/album/1qmSmgNIWi1DwyXGv4Fbtz) | 4:14 | 2023-08-29 |  |
 | [決意の歌](https://open.spotify.com/track/32HxsGp4jX5URUmulu5dHd) | [bacho](https://open.spotify.com/artist/6ERhWmTmbMG8FQGYfFIIgc) | [レコンキスタ](https://open.spotify.com/album/3KrJbIHprGRPzuVN2OI4fv) | 5:21 | 2022-05-12 | 2022-07-27 |
 | [泣き虫デスマッチ](https://open.spotify.com/track/0N9uFmMjZLBK28fwYxbFtZ) | [Garlicboys](https://open.spotify.com/artist/6nPBc3gSUZ1rQaMvD0VXZz) | [再録ベスト](https://open.spotify.com/album/39cFpk3zsEtX8aE0Mgs7WU) | 2:36 | 2022-05-12 | 2022-07-24 |
@@ -690,7 +691,7 @@
 | [表参道](https://open.spotify.com/track/3ulW6i37o4FpqJSlebZflY) | [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI) | [ANORAK!](https://open.spotify.com/album/1COk9YWIlyNkyerTI4OOnB) | 2:04 | 2022-11-16 | 2022-11-17 |
 | [証](https://open.spotify.com/track/2NqEXbLw9l78MsFCuxhlHJ) | [THE FOREVER YOUNG](https://open.spotify.com/artist/6frp4bEF93k77mFn6AbwQd) | [証](https://open.spotify.com/album/5ytodu6cQWyhNzotNTWuzo) | 3:46 | 2022-05-24 | 2022-07-29 |
 | [賽を振る](https://open.spotify.com/track/51Kx7vgqkbr68b4yAIBW1t) | [Rudo](https://open.spotify.com/artist/5Q58P9YrOKt4SoUyV9w7Jc) | [賽を振る](https://open.spotify.com/album/3p6DYCR7z0hk6OFqprYmMn) | 4:53 | 2022-05-12 | 2022-07-29 |
-| [金色グラフティー](https://open.spotify.com/track/4sHj1jEbYuKGy6zM2LKXOI) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [You are ROTTENGRAFFTY](https://open.spotify.com/album/09O9X6o3DJfUCgB2PEP4ZB) | 4:17 | 2022-07-21 |  |
+| [金色グラフティー](https://open.spotify.com/track/4sHj1jEbYuKGy6zM2LKXOI) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [You are ROTTENGRAFFTY](https://open.spotify.com/album/09O9X6o3DJfUCgB2PEP4ZB) | 4:17 | 2022-07-21 | 2023-12-22 |
 | [金色グラフティー](https://open.spotify.com/track/3Qs3O0rc4R0hl7WkTuMJ6U) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [Walk](https://open.spotify.com/album/2ZPTCQBG8YLgf83T8W3Bfh) | 4:18 | 2022-05-12 | 2022-07-27 |
 | [銀河鉄道の夜](https://open.spotify.com/track/3gjTlJclAZCTa2IP2tn6wW) | [GOING STEADY](https://open.spotify.com/artist/7EyYmxeTBOeaZ09aaAAtCE) | [さくらの唄](https://open.spotify.com/album/48SXTUrfrvgKVPoVQjeur0) | 5:41 | 2022-05-12 |  |
 | [限界突破 \- 2023ver](https://open.spotify.com/track/5zL1aH9pHJa1BWB4qZqbRK) | [虎の子ラミー](https://open.spotify.com/artist/4uxbGvHpQJ9uKKDoOjlEjk) | [DRIP OF RAMMY](https://open.spotify.com/album/4bgwaDZGObqdJbRkZnqFjw) | 3:30 | 2023-08-22 | 2023-08-30 |

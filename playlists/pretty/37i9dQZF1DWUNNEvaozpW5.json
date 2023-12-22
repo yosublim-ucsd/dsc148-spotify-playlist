@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Robe.",
-  "num_followers": 573794,
+  "num_followers": 573867,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDE4OTIzNTI1YzllOTkxYzU2YzIxMzA4ZjhjZGNjMDZkZjY3MDU1",
+  "snapshot_id": "MCw1YWRiYTg0Nzg2MWY3YjY4ZjFhZTMwZGRlNmRiNTUzOThhNGUyZjkz",
   "tracks": [
     {
       "added_at": "2023-12-15 14:42:13",
@@ -715,22 +715,18 @@
     {
       "added_at": "2023-12-15 14:42:13",
       "album": {
-        "name": "Ahora o nunca",
-        "url": "https://open.spotify.com/album/1gVTdZJaemKysGPHgMQfvD"
+        "name": "La Ley Del Desierto",
+        "url": "https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu"
       },
       "artists": [
         {
-          "name": "La Pegatina",
-          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
-        },
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+          "name": "Radio Futura",
+          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
         }
       ],
-      "duration_ms": 189600,
-      "name": "Y volar (con los Caligaris)",
-      "url": "https://open.spotify.com/track/0vabIwEiZDGml2CyVmGNBX"
+      "duration_ms": 210840,
+      "name": "Escuela de Calor",
+      "url": "https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88"
     },
     {
       "added_at": "2023-12-15 14:42:13",
@@ -751,18 +747,22 @@
     {
       "added_at": "2023-12-15 14:42:13",
       "album": {
-        "name": "La Ley Del Desierto",
-        "url": "https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu"
+        "name": "Ahora o nunca",
+        "url": "https://open.spotify.com/album/1gVTdZJaemKysGPHgMQfvD"
       },
       "artists": [
         {
-          "name": "Radio Futura",
-          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+        },
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
         }
       ],
-      "duration_ms": 210840,
-      "name": "Escuela de Calor",
-      "url": "https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88"
+      "duration_ms": 189600,
+      "name": "Y volar (con los Caligaris)",
+      "url": "https://open.spotify.com/track/0vabIwEiZDGml2CyVmGNBX"
     },
     {
       "added_at": "2023-12-15 14:42:13",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-12-15 14:42:13",
       "album": {
+        "name": "Veneno En La Piel",
+        "url": "https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O"
+      },
+      "artists": [
+        {
+          "name": "Radio Futura",
+          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
+        }
+      ],
+      "duration_ms": 222013,
+      "name": "Veneno en la Piel",
+      "url": "https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln"
+    },
+    {
+      "added_at": "2023-12-15 14:42:13",
+      "album": {
         "name": "Rock & Roll Star - 30 a\u00f1os",
         "url": "https://open.spotify.com/album/24fPzeDiySM2lt3pvuLKGR"
       },
@@ -887,38 +903,6 @@
     {
       "added_at": "2023-12-15 14:42:13",
       "album": {
-        "name": "La Rosa De Los Vientos",
-        "url": "https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT"
-      },
-      "artists": [
-        {
-          "name": "La Frontera",
-          "url": "https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3"
-        }
-      ],
-      "duration_ms": 275026,
-      "name": "El Limite",
-      "url": "https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu"
-    },
-    {
-      "added_at": "2023-12-15 14:42:13",
-      "album": {
-        "name": "Veneno En La Piel",
-        "url": "https://open.spotify.com/album/5494a8BNRIElBxQmoWpo8O"
-      },
-      "artists": [
-        {
-          "name": "Radio Futura",
-          "url": "https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM"
-        }
-      ],
-      "duration_ms": 222013,
-      "name": "Veneno en la Piel",
-      "url": "https://open.spotify.com/track/4oCGALJSQZxLnsnPPgShln"
-    },
-    {
-      "added_at": "2023-12-15 14:42:13",
-      "album": {
         "name": "Sin Tiempo",
         "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 269426,
       "name": "Necesito Respirar",
       "url": "https://open.spotify.com/track/6uK6H8xkSQRA4Y2TfczXs0"
+    },
+    {
+      "added_at": "2023-12-15 14:42:13",
+      "album": {
+        "name": "La Rosa De Los Vientos",
+        "url": "https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT"
+      },
+      "artists": [
+        {
+          "name": "La Frontera",
+          "url": "https://open.spotify.com/artist/4WeIMVqCUH09dxtBsstIw3"
+        }
+      ],
+      "duration_ms": 275026,
+      "name": "El Limite",
+      "url": "https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu"
     },
     {
       "added_at": "2023-12-15 14:42:13",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-12-15 14:42:13",
       "album": {
-        "name": "Vispera De Todos Los Santos",
-        "url": "https://open.spotify.com/album/3oMQlXuuVWj4hPFvgKK7oY"
-      },
-      "artists": [
-        {
-          "name": "Los Suaves",
-          "url": "https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL"
-        }
-      ],
-      "duration_ms": 294200,
-      "name": "Palabras Para Julia",
-      "url": "https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE"
-    },
-    {
-      "added_at": "2023-12-15 14:42:13",
-      "album": {
         "name": "Vamos Tirando",
         "url": "https://open.spotify.com/album/5gNFpJQAyJQvaBmMF8GH0V"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 188106,
       "name": "Tras la barra",
       "url": "https://open.spotify.com/track/0fN93Sc6gJCkHbh9bqlLX7"
+    },
+    {
+      "added_at": "2023-12-15 14:42:13",
+      "album": {
+        "name": "Vispera De Todos Los Santos",
+        "url": "https://open.spotify.com/album/3oMQlXuuVWj4hPFvgKK7oY"
+      },
+      "artists": [
+        {
+          "name": "Los Suaves",
+          "url": "https://open.spotify.com/artist/1Z3i5hUtelWqBwEA1RoWhL"
+        }
+      ],
+      "duration_ms": 294200,
+      "name": "Palabras Para Julia",
+      "url": "https://open.spotify.com/track/2jGfKzi1RvbkAyffbDyESE"
     },
     {
       "added_at": "2023-12-15 14:42:13",
@@ -1463,6 +1463,26 @@
     {
       "added_at": "2023-12-15 14:42:13",
       "album": {
+        "name": "Te entiendo",
+        "url": "https://open.spotify.com/album/48LCDKfzLfuaoHlMKUreII"
+      },
+      "artists": [
+        {
+          "name": "Pignoise",
+          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 240814,
+      "name": "Te entiendo",
+      "url": "https://open.spotify.com/track/6KBgTCipUwiimLNCSal4FZ"
+    },
+    {
+      "added_at": "2023-12-15 14:42:13",
+      "album": {
         "name": "El doble de tu mitad",
         "url": "https://open.spotify.com/album/2S06GoLfAKn93qbHwL6b8u"
       },
@@ -1535,26 +1555,6 @@
       "duration_ms": 263506,
       "name": "Tu frialdad",
       "url": "https://open.spotify.com/track/2A3WfAbX9KHMQhewdpUiok"
-    },
-    {
-      "added_at": "2023-12-15 14:42:13",
-      "album": {
-        "name": "Te entiendo",
-        "url": "https://open.spotify.com/album/48LCDKfzLfuaoHlMKUreII"
-      },
-      "artists": [
-        {
-          "name": "Pignoise",
-          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
-        },
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 240814,
-      "name": "Te entiendo",
-      "url": "https://open.spotify.com/track/6KBgTCipUwiimLNCSal4FZ"
     },
     {
       "added_at": "2023-12-15 14:42:13",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2023-12-15 14:42:13",
       "album": {
-        "name": "Mundo Amador",
-        "url": "https://open.spotify.com/album/3datOykBe0V1Yaqk3hnhPy"
-      },
-      "artists": [
-        {
-          "name": "Raimundo Amador",
-          "url": "https://open.spotify.com/artist/3skUHmTNpFUxTZaVxgvhF7"
-        }
-      ],
-      "duration_ms": 211173,
-      "name": "Ay Que Gustito Pa' Mis Orejas",
-      "url": "https://open.spotify.com/track/6olopCEGYHL8U7jMRWBnJJ"
-    },
-    {
-      "added_at": "2023-12-15 14:42:13",
-      "album": {
         "name": "Matricula De Honor/New Booklet",
         "url": "https://open.spotify.com/album/4ajHTO6YQLBIgfsF9MpKBv"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 180266,
       "name": "Rock And Roll en la Plaza del Pueblo",
       "url": "https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf"
+    },
+    {
+      "added_at": "2023-12-15 14:42:13",
+      "album": {
+        "name": "Mundo Amador",
+        "url": "https://open.spotify.com/album/3datOykBe0V1Yaqk3hnhPy"
+      },
+      "artists": [
+        {
+          "name": "Raimundo Amador",
+          "url": "https://open.spotify.com/artist/3skUHmTNpFUxTZaVxgvhF7"
+        }
+      ],
+      "duration_ms": 211173,
+      "name": "Ay Que Gustito Pa' Mis Orejas",
+      "url": "https://open.spotify.com/track/6olopCEGYHL8U7jMRWBnJJ"
     },
     {
       "added_at": "2023-12-15 14:42:13",

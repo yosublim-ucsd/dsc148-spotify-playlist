@@ -4,7 +4,7 @@
 
 > From Annakili to Viduthalai \- all the essential tracks of Isaignani!
 
-509 songs - 1 day 16 hr 8 min
+510 songs - 1 day 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -460,7 +460,8 @@
 | [Un Paarvayil \(Duet\)](https://open.spotify.com/track/2fAIpwOoEr2MdK3UJCIfX4) | [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Amman Kovil Kizhakale \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Ynuau9m4nwk88sNxjaBYe) | 3:56 | 2021-11-01 | 2023-05-09 |
 | [Unna Nenachen](https://open.spotify.com/track/1qLS9qBGi20RzxHvUtCE9Y) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8) | [Apoorva Sagodharargal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4tXTIbf7lrJiqHrlZK31yL) | 4:39 | 2021-11-01 | 2023-05-09 |
 | [Unna Nenachu](https://open.spotify.com/track/5iXFBbApLVdTta1BrM3QTv) | [Ilaiyaraaja](https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Psycho \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/5a3Je5YG4cYIS0Yg4ZoY01) | 4:35 | 2021-11-01 | 2023-05-09 |
-| [Unna Vida](https://open.spotify.com/track/7j6Cb59M9yOq3aw4fmDzQj) | [Kamal Haasan](https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Virumandi](https://open.spotify.com/album/0veWiEigm8wkr9H8RZD499) | 6:25 | 2021-11-01 |  |
+| [Unna Vida](https://open.spotify.com/track/1Yko4TT3MPeN690GIaHmUv) | [Kamal Haasan](https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Virumandi](https://open.spotify.com/album/1P0L8j8W834ANW2uyBKxOo) | 6:25 | 2021-11-01 |  |
+| [Unna Vida](https://open.spotify.com/track/7j6Cb59M9yOq3aw4fmDzQj) | [Kamal Haasan](https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Virumandi](https://open.spotify.com/album/0veWiEigm8wkr9H8RZD499) | 6:25 | 2021-11-01 | 2023-12-22 |
 | [Unnai Thaney Thanjam](https://open.spotify.com/track/5XdzFE0jokxh2ofzdEueBz) | [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52), [Manjula](https://open.spotify.com/artist/793QL3YoBHJgonPYb7EMKo) | [Nallavanukku Nallavan \(Orignal Motion Picture Soundtrack\)](https://open.spotify.com/album/7IYAD8gZjwAfXhSxYeykx3) | 4:11 | 2021-11-01 | 2022-07-29 |
 | [Unnai Thaney Thanjam](https://open.spotify.com/track/7tVZ6qfYzqlrWAxO3Q33M1) | [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52), [Manjula](https://open.spotify.com/artist/793QL3YoBHJgonPYb7EMKo) | [Nallavanukku Nallavan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4BZLIyGmzXx8Ge8H1QCdUw) | 4:11 | 2021-11-01 | 2023-08-10 |
 | [Unnai Thaney Thanjam \(From 'Nallavanukku Nallavan'\)](https://open.spotify.com/track/1lnBsynnMl1EZDdqOcABTs) | [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52) | [Thalaivar Thiruvizha](https://open.spotify.com/album/5nsjTk1TZNKr7rmg62fvgd) | 4:11 | 2021-11-01 | 2023-03-14 |

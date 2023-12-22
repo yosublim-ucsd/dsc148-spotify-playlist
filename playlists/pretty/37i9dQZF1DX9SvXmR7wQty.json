@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Lost",
-  "num_followers": 39439,
+  "num_followers": 39443,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDFhYzUwOGE0NjdlODI1YWM0MWZhZTU3Y2VmN2MwZTkwOTg0ZmY2",
+  "snapshot_id": "MCxkYzEzMjg3ZTdlYjczOThhZDBlOWM2M2M1ZmRmMWRjNzE2Y2I3MGNl",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -235,6 +235,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "P\u00e9riph",
+        "url": "https://open.spotify.com/album/4ImOyHSUym1ZFnmV3SKXDI"
+      },
+      "artists": [
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        }
+      ],
+      "duration_ms": 168849,
+      "name": "P\u00e9riph",
+      "url": "https://open.spotify.com/track/0J8Ff1p7vpxBMLnZuAwAUb"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "TRAP$TAR 3",
         "url": "https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 159299,
       "name": "\u00c7a c'est bien",
       "url": "https://open.spotify.com/track/1CFcahfucbIGHRzLOP3qYX"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "P\u00e9riph",
-        "url": "https://open.spotify.com/album/4ImOyHSUym1ZFnmV3SKXDI"
-      },
-      "artists": [
-        {
-          "name": "PLK",
-          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
-        }
-      ],
-      "duration_ms": 168849,
-      "name": "P\u00e9riph",
-      "url": "https://open.spotify.com/track/0J8Ff1p7vpxBMLnZuAwAUb"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -515,18 +515,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/1HXZARN2w0GDcZ4QHwNo9N"
+        "name": "Rashel",
+        "url": "https://open.spotify.com/album/6R3uElG5fC3jt31MsyLeT2"
       },
       "artists": [
         {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
         }
       ],
-      "duration_ms": 183981,
-      "name": "XOXO",
-      "url": "https://open.spotify.com/track/2S9p5lu7tZvYMob6q7mmBe"
+      "duration_ms": 176160,
+      "name": "Rashel",
+      "url": "https://open.spotify.com/track/4OXR2xcqJiLIjAtzEdbauW"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -551,22 +555,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Rashel",
-        "url": "https://open.spotify.com/album/6R3uElG5fC3jt31MsyLeT2"
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/1HXZARN2w0GDcZ4QHwNo9N"
       },
       "artists": [
         {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
-        },
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
         }
       ],
-      "duration_ms": 176160,
-      "name": "Rashel",
-      "url": "https://open.spotify.com/track/4OXR2xcqJiLIjAtzEdbauW"
+      "duration_ms": 183981,
+      "name": "XOXO",
+      "url": "https://open.spotify.com/track/2S9p5lu7tZvYMob6q7mmBe"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -643,38 +643,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Encore plus",
-        "url": "https://open.spotify.com/album/2p1iQufm1aLmR3oIo6ENOr"
-      },
-      "artists": [
-        {
-          "name": "Landy",
-          "url": "https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK"
-        }
-      ],
-      "duration_ms": 189230,
-      "name": "Encore plus",
-      "url": "https://open.spotify.com/track/39lgf886U50NvJ8DRntHIL"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "CRASH C\u0152UR",
-        "url": "https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK"
-      },
-      "artists": [
-        {
-          "name": "Eddy de Pretto",
-          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
-        }
-      ],
-      "duration_ms": 169640,
-      "name": "CRASH <3",
-      "url": "https://open.spotify.com/track/3qxpjvGzwjP4b6EDYLaon6"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Yoski 2",
         "url": "https://open.spotify.com/album/5KdkD8T6GXikv2YgM2ssqd"
       },
@@ -695,6 +663,38 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "CRASH C\u0152UR",
+        "url": "https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK"
+      },
+      "artists": [
+        {
+          "name": "Eddy de Pretto",
+          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
+        }
+      ],
+      "duration_ms": 169640,
+      "name": "CRASH <3",
+      "url": "https://open.spotify.com/track/3qxpjvGzwjP4b6EDYLaon6"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Encore plus",
+        "url": "https://open.spotify.com/album/2p1iQufm1aLmR3oIo6ENOr"
+      },
+      "artists": [
+        {
+          "name": "Landy",
+          "url": "https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK"
+        }
+      ],
+      "duration_ms": 189230,
+      "name": "Encore plus",
+      "url": "https://open.spotify.com/track/39lgf886U50NvJ8DRntHIL"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "AMBITION",
         "url": "https://open.spotify.com/album/3uiDxNXAJJzru700mPfYwE"
       },
@@ -707,22 +707,6 @@
       "duration_ms": 152200,
       "name": "MONEY MAKER",
       "url": "https://open.spotify.com/track/3WM94J8wiCVZxGcHEHzAej"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Jane Birkin",
-        "url": "https://open.spotify.com/album/2oN1NPHrJDWBFeUiG0phb2"
-      },
-      "artists": [
-        {
-          "name": "MIKA",
-          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
-        }
-      ],
-      "duration_ms": 196546,
-      "name": "Jane Birkin",
-      "url": "https://open.spotify.com/track/4xsVpeTSTh64G82qf2HHaF"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -747,6 +731,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Que ta t\u00eate fleurisse toujours",
+        "url": "https://open.spotify.com/album/2FuPctpcSia7TyA1liF27u"
+      },
+      "artists": [
+        {
+          "name": "MIKA",
+          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        }
+      ],
+      "duration_ms": 197053,
+      "name": "Bougez",
+      "url": "https://open.spotify.com/track/2NmHMbZ6LRvyvTY0nbalfg"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Comme \u00e7a",
         "url": "https://open.spotify.com/album/0wXuAfHyW6b04NTj1CjUYt"
       },
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Yemma",
+        "url": "https://open.spotify.com/album/1kPducajpmz3HQOF9e8BoA"
+      },
+      "artists": [
+        {
+          "name": "Niro",
+          "url": "https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q"
+        }
+      ],
+      "duration_ms": 157625,
+      "name": "Yemma",
+      "url": "https://open.spotify.com/track/3i9rNpToR25Cx5XdkStxn2"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Joli coeur",
         "url": "https://open.spotify.com/album/2r0jcbln2gKoim766i3rsd"
       },
@@ -775,6 +791,22 @@
       "duration_ms": 194466,
       "name": "Joli coeur",
       "url": "https://open.spotify.com/track/00YhQePKpHGPqcnmYxIj0x"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Life Is Life (C'est la vie)",
+        "url": "https://open.spotify.com/album/0wGjk4xe1uiNbW3DxehqNy"
+      },
+      "artists": [
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        }
+      ],
+      "duration_ms": 145525,
+      "name": "Life Is Life (C'est la vie)",
+      "url": "https://open.spotify.com/track/1ds4c5ehLBwn8PEghUMbTl"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -799,38 +831,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Life Is Life (C'est la vie)",
-        "url": "https://open.spotify.com/album/0wGjk4xe1uiNbW3DxehqNy"
-      },
-      "artists": [
-        {
-          "name": "Willy William",
-          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
-        }
-      ],
-      "duration_ms": 145525,
-      "name": "Life Is Life (C'est la vie)",
-      "url": "https://open.spotify.com/track/1ds4c5ehLBwn8PEghUMbTl"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Yemma",
-        "url": "https://open.spotify.com/album/1kPducajpmz3HQOF9e8BoA"
-      },
-      "artists": [
-        {
-          "name": "Niro",
-          "url": "https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q"
-        }
-      ],
-      "duration_ms": 157625,
-      "name": "Yemma",
-      "url": "https://open.spotify.com/track/3i9rNpToR25Cx5XdkStxn2"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Avec elle",
         "url": "https://open.spotify.com/album/3zVzY7IdtotQVKGCPOUiBg"
       },
@@ -843,6 +843,22 @@
       "duration_ms": 166299,
       "name": "Avec elle",
       "url": "https://open.spotify.com/track/2cjMxpKD3fAmM0iZPWHJri"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Jane Birkin",
+        "url": "https://open.spotify.com/album/2oN1NPHrJDWBFeUiG0phb2"
+      },
+      "artists": [
+        {
+          "name": "MIKA",
+          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
+        }
+      ],
+      "duration_ms": 196546,
+      "name": "Jane Birkin",
+      "url": "https://open.spotify.com/track/4xsVpeTSTh64G82qf2HHaF"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -863,38 +879,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Cabeza",
-        "url": "https://open.spotify.com/album/0OtbUuSwEoGO7vyz8vbN9n"
-      },
-      "artists": [
-        {
-          "name": "RIDSA",
-          "url": "https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es"
-        }
-      ],
-      "duration_ms": 174819,
-      "name": "Cabeza",
-      "url": "https://open.spotify.com/track/0KsAixZGfxIHIt4evkBkit"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Que ta t\u00eate fleurisse toujours",
-        "url": "https://open.spotify.com/album/2FuPctpcSia7TyA1liF27u"
-      },
-      "artists": [
-        {
-          "name": "MIKA",
-          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
-        }
-      ],
-      "duration_ms": 197053,
-      "name": "Bougez",
-      "url": "https://open.spotify.com/track/2NmHMbZ6LRvyvTY0nbalfg"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Ma Vie",
         "url": "https://open.spotify.com/album/3XkQtHK3tnk2FSN74TEA8E"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 174101,
       "name": "KB9",
       "url": "https://open.spotify.com/track/4PbUJQL1l8FNeskGcW1syj"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Cabeza",
+        "url": "https://open.spotify.com/album/0OtbUuSwEoGO7vyz8vbN9n"
+      },
+      "artists": [
+        {
+          "name": "RIDSA",
+          "url": "https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es"
+        }
+      ],
+      "duration_ms": 174819,
+      "name": "Cabeza",
+      "url": "https://open.spotify.com/track/0KsAixZGfxIHIt4evkBkit"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

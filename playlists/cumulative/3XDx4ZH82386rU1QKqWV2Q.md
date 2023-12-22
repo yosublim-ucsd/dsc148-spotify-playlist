@@ -4,7 +4,7 @@
 
 > Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!
 
-431 songs - 18 hr 40 min
+435 songs - 18 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [DO NOT RESUSCITATE](https://open.spotify.com/track/6J0pQxIy3vFORwI8MTqByk) | [hix](https://open.spotify.com/artist/4Eqq0H4QPYpM3U8SKFTJDq), [ething](https://open.spotify.com/artist/4c6MrhMBcutKWe7Blqqnct) | [THE OUTSIDER](https://open.spotify.com/album/5hjlO9o1y5uf4GdaaTpBdn) | 1:47 | 2023-07-03 | 2023-07-19 |
 | [DOOMSDAY](https://open.spotify.com/track/0j8mk7LcS5tmUrLDeOnihT) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [DOOMSDAY](https://open.spotify.com/album/6hyyVJHfFBFjh4zF9XF7Re) | 2:06 | 2023-08-21 | 2023-09-26 |
 | [Drive Forever](https://open.spotify.com/track/6Ede2Ta7dVhcV7QYQ3OH6N) | [T3NZU](https://open.spotify.com/artist/5bgu60VOkifx3xadonzsgi) | [Drive Forever](https://open.spotify.com/album/3nw958OcSLIbilnETAD7KO) | 2:25 | 2023-06-12 |  |
+| [DRXFT](https://open.spotify.com/track/6cI4mcLDQHchYhcQpoiDi5) | [GXTHMODE](https://open.spotify.com/artist/1p3418t2jRBA2ttFkBMMhT) | [DRXFT](https://open.spotify.com/album/6kvY3tlx9OcdHEymKFvdBu) | 1:36 | 2023-12-21 |  |
 | [Duro Pa Duro](https://open.spotify.com/track/5MjVtn80QCd3Pt1glCFLt7) | [DIPIENS](https://open.spotify.com/artist/6CYjGgv0fYxHFHCKWn7SyX), [REDIX](https://open.spotify.com/artist/4j32Ck6YTzyr3tU9LPwkUF), [Inverted](https://open.spotify.com/artist/2ErypZXqwS0kVUfqqd0MRx) | [Duro Pa Duro](https://open.spotify.com/album/6od5TBG7oA5mQ0NvEFiGKx) | 2:29 | 2023-12-08 |  |
 | [DXNAMITE](https://open.spotify.com/track/1tWuZiRwEgr0ajAzeK59sx) | [BCMP](https://open.spotify.com/artist/21LJD2uYWRm9v5Klx1qDRR) | [DXNAMITE](https://open.spotify.com/album/2s2Ny8PZ2IsAkV8feYQuZF) | 2:04 | 2023-09-05 |  |
 | [ECSTASY](https://open.spotify.com/track/2KD9czprFfRftJ0tPJq0bD) | [$ubRosa](https://open.spotify.com/artist/06WoXV6MZbiAEyjA7q37QM) | [ECSTASY](https://open.spotify.com/album/26s9hu1W8xrnlsJQ4ygCGc) | 1:52 | 2023-07-03 | 2023-12-14 |
@@ -263,6 +264,7 @@
 | [My Time](https://open.spotify.com/track/4VlFjMNQgctMjKOHqQaYxV) | [Master Yeti](https://open.spotify.com/artist/1xR2S5GSN26FYw6KuytiGU) | [My Time](https://open.spotify.com/album/3dGDZR5Xw4Pi7dadkxdIUc) | 2:28 | 2023-06-12 |  |
 | [NEFOR BRASILEIRO](https://open.spotify.com/track/4QnvZSnFkxBw6LsJ1sKapC) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [TRIO BRASILEIRO](https://open.spotify.com/album/2vRvBfelX9SLgtUs4Ia7YB) | 2:16 | 2023-08-05 | 2023-09-26 |
 | [NEON BLADE](https://open.spotify.com/track/56aUyjq8nTiqcfPD5qBLfm) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [NEON BLADE](https://open.spotify.com/album/2gVcJD2rhO3LY71roEl0iE) | 4:25 | 2023-06-12 |  |
+| [Netflix and Kill](https://open.spotify.com/track/3MrGoHZzskvzIZ6Lfe8v4v) | [BOOGEYMVN](https://open.spotify.com/artist/6PCexaOMXM5GALQuF1WgLV) | [ONE GOOD SCARE](https://open.spotify.com/album/2p0aDqg3nxHtYkH8atyTzo) | 2:12 | 2023-12-21 |  |
 | [New Chain Leak](https://open.spotify.com/track/3MErOGmzTKf9e6Mz61KFZJ) | [Att!cus](https://open.spotify.com/artist/5Ew66gq1eIUqeQWZ7wt1k7), [4NZO](https://open.spotify.com/artist/2J3vLuQpjTalAOkZoqaT4h) | [4!](https://open.spotify.com/album/5Gn2RCN95GAiu656ENCgGb) | 2:11 | 2023-07-22 | 2023-08-28 |
 | [NIGHT CITY](https://open.spotify.com/track/3YaLFZ52OqM3iNwQvnxThf) | [NUEKI](https://open.spotify.com/artist/1nccv1GNVkBdvsYi2FB5FB), [TOLCHONOV](https://open.spotify.com/artist/23P2mSsBpPkfR9fTrOc1a4), [LeDoc](https://open.spotify.com/artist/1i2zxq7wpaoJJarTsrBPK1) | [NIGHT CITY](https://open.spotify.com/album/2gOgXmUqCOBquQnOagcgDU) | 1:56 | 2023-06-12 |  |
 | [No Dissin](https://open.spotify.com/track/02uL6BAXoxMOjVjGdKMJyR) | [Baby Jungle](https://open.spotify.com/artist/3chQVApiF3AoD6aym9IWwx) | [No Dissin](https://open.spotify.com/album/6FkChT69eCHKp0E9omQ6nn) | 2:48 | 2023-09-21 |  |
@@ -311,6 +313,7 @@
 | [Rayne](https://open.spotify.com/track/3ghuSWfiC84vtwTqtXV3RR) | [Sölus\-Sun](https://open.spotify.com/artist/50j4abnuV2BBK42TIC4L7T) | [Rayne](https://open.spotify.com/album/5UkXl87ANLYXWD2F55G2fA) | 3:43 | 2023-07-10 | 2023-07-29 |
 | [REBOLA NO MEU CARALHO](https://open.spotify.com/track/6ijmhnbAimirN5LHl0ps4W) | [TOKYOSLEEP](https://open.spotify.com/artist/3S85ac8yF0ePaCGDPVv0LH), [Nemecist](https://open.spotify.com/artist/3HZFRAdrfCUdkl2ajPWQ0M), [acronym.](https://open.spotify.com/artist/5GFRLmuyDjzaobJ5xRFAU0) | [REBOLA NO MEU CARALHO](https://open.spotify.com/album/5UbtwwTLV8n3Z6QCoFwu8Q) | 1:23 | 2023-12-08 |  |
 | [Red on the Inside](https://open.spotify.com/track/7AQFuHcmTjp0jmYAcsa2tm) | [Pseudo](https://open.spotify.com/artist/1wFUwnJhCYwRe6eC0DlMkd) | [Red on the Inside](https://open.spotify.com/album/26z1Kks5YilEHOPJqznsFk) | 2:45 | 2023-06-12 | 2023-08-06 |
+| [Regicide](https://open.spotify.com/track/6h05oCNZCBAQqLpmywEki5) | [SAVAS](https://open.spotify.com/artist/5gNZeyVKgWnO0V9i3XUNYs) | [Regicide](https://open.spotify.com/album/0Op2o7M3BEXbfWkOEUZRCc) | 2:09 | 2023-12-21 |  |
 | [REI DO BRASIL](https://open.spotify.com/track/6Seth37t5I69wFbuGFrsiG) | [Seek](https://open.spotify.com/artist/3qycxIGAHj1KyoAQ6PGCO6) | [REI DO BRASIL](https://open.spotify.com/album/5rDznSixlUXNxJySfWQNb7) | 1:37 | 2023-06-12 | 2023-09-26 |
 | [Retribution](https://open.spotify.com/track/2IFSfu19kxWBLQB2CEHqyb) | [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [PHONK WALKER](https://open.spotify.com/artist/4DotIIZU4xta9EFAMvO6Kx), [Ku$h Drifter](https://open.spotify.com/artist/17PKqjvXIlUPIx2TrwnVnb) | [Retribution](https://open.spotify.com/album/0IBYv6Wf8j1v8WndS5HleO) | 1:53 | 2023-06-12 |  |
 | [Revelations](https://open.spotify.com/track/30rWGQPZb3yNrzLL5bLBrd) | [NUMJA](https://open.spotify.com/artist/291QipJFhiK4dCiCsmXTZ2) | [Revelations](https://open.spotify.com/album/65yvXsR8utZSgj5jZawDNI) | 3:26 | 2023-07-03 | 2023-07-19 |
@@ -345,6 +348,7 @@
 | [Show Me](https://open.spotify.com/track/558O5tR6wMeXOyf3qPRa9O) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [Show Me](https://open.spotify.com/album/1wIZvaBKOVyPLaPcigi28n) | 2:23 | 2023-08-26 | 2023-12-14 |
 | [Shrapnel](https://open.spotify.com/track/4GtRQmv1VgyCKG8NTMSxEn) | [Rok Ali and the Addiction](https://open.spotify.com/artist/2LIBmNEFBvgXxkqVw91tAg) | [Rok Ali and the Addiction](https://open.spotify.com/album/5pVPuas0oCL1piHutkLTST) | 4:16 | 2023-06-12 | 2023-07-04 |
 | [SKULLcrusher](https://open.spotify.com/track/7fDHtRKuVKXU555SsX8hAc) | [MONOWIRE](https://open.spotify.com/artist/0ssyYSlMlTH7CWxonEhr12) | [SKULLcrusher](https://open.spotify.com/album/5pcu430nfrb9B4OU7guw3j) | 1:49 | 2023-06-12 |  |
+| [SKYBRAIN](https://open.spotify.com/track/0hMF9JZmQDneq3U5LAlQ26) | [NIGHTHAVVK](https://open.spotify.com/artist/6xLEm2hwUy19nyzwWPoUNt) | [SKYBRAIN](https://open.spotify.com/album/6lQIMyQGe68OcwCMZyfFBu) | 2:48 | 2023-12-21 |  |
 | [Skyline](https://open.spotify.com/track/3GTNPbq9ycUnBfIZBq7ko1) | [Astrani](https://open.spotify.com/artist/5qqwQ9tQhy8USkdYB3VE8P) | [Skyline](https://open.spotify.com/album/1OQiTRJVr4aJjJiBZ7Ax81) | 4:10 | 2023-07-03 | 2023-07-19 |
 | [Slide](https://open.spotify.com/track/35EepYDTGEcwmO0Hrws93C) | [Dehko](https://open.spotify.com/artist/1xV2xLgsPO74FavF7Tz083), [Snap Dogg](https://open.spotify.com/artist/3gwjMn413kOhSLR9wb4CWJ) | [Tektroit](https://open.spotify.com/album/5uA7WPYDfREdjLacHolhqK) | 3:28 | 2023-06-12 |  |
 | [Smoke](https://open.spotify.com/track/1kaU2OVc5Zj1uFaw50W8ZE) | [Cowbell Cult](https://open.spotify.com/artist/39M7VBSU9jF9IpmkNQeycY), [Joehdah](https://open.spotify.com/artist/7pZPHbnazpBvpdAG51TuxQ) | [Cowbell Cult, Vol\. 1](https://open.spotify.com/album/78dlN8ziXrEeDNHIxt8u4o) | 1:54 | 2023-06-12 |  |

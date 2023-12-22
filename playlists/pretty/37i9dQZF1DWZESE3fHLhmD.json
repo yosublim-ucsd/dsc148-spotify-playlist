@@ -1,12 +1,12 @@
 {
   "description": "Bringt auch nach 16 Uhr noch ein bisschen Licht ins Dunkel.",
-  "num_followers": 1288772,
+  "num_followers": 1288790,
   "original_name": "Wintergef\u00fchle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2E2MWQxYmEyYzI2YjAwYWRmYjA2MTYyZDk1NjY4NDk4ODI4OGI5",
+  "snapshot_id": "MCwzM2RkNTA4NDYxNmZkOGUyOWEwMmU2YmIxNTE1Nzg5MDlhZTY2OGI0",
   "tracks": [
     {
       "added_at": "2023-12-19 17:38:44",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-12-19 17:38:44",
       "album": {
+        "name": "Blame Brett",
+        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 176005,
+      "name": "Blame Brett",
+      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
+    },
+    {
+      "added_at": "2023-12-19 17:38:44",
+      "album": {
         "name": "Ein Traum",
         "url": "https://open.spotify.com/album/3PpsCdaIagDzd4EvDSCSWo"
       },
@@ -779,18 +795,18 @@
     {
       "added_at": "2023-12-19 17:38:44",
       "album": {
-        "name": "Blame Brett",
-        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
+        "name": "Winterherz",
+        "url": "https://open.spotify.com/album/2drpDTlCM3pSjH2PEhXWVD"
       },
       "artists": [
         {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+          "name": "JAS",
+          "url": "https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9"
         }
       ],
-      "duration_ms": 176005,
-      "name": "Blame Brett",
-      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
+      "duration_ms": 160000,
+      "name": "Winterherz",
+      "url": "https://open.spotify.com/track/2NY6OwXheFjzMvdVmw69mQ"
     },
     {
       "added_at": "2023-12-19 17:38:44",
@@ -847,22 +863,6 @@
       "duration_ms": 134521,
       "name": "5 Meter Mauern (aus \"The Voice of Germany 2023\") - Live",
       "url": "https://open.spotify.com/track/2kMLXLXuqdoXFRMLTQYkrW"
-    },
-    {
-      "added_at": "2023-12-19 17:38:44",
-      "album": {
-        "name": "Winterherz",
-        "url": "https://open.spotify.com/album/2drpDTlCM3pSjH2PEhXWVD"
-      },
-      "artists": [
-        {
-          "name": "JAS",
-          "url": "https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Winterherz",
-      "url": "https://open.spotify.com/track/2NY6OwXheFjzMvdVmw69mQ"
     },
     {
       "added_at": "2023-12-19 17:38:44",
@@ -963,6 +963,26 @@
     {
       "added_at": "2023-12-19 17:38:44",
       "album": {
+        "name": "Drachenfrucht",
+        "url": "https://open.spotify.com/album/38x0C388O3eX76t2kmfZeD"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        },
+        {
+          "name": "Berq",
+          "url": "https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1"
+        }
+      ],
+      "duration_ms": 186249,
+      "name": "Drachenfrucht",
+      "url": "https://open.spotify.com/track/5mDZnH5AtLhmmz45i4Ru8X"
+    },
+    {
+      "added_at": "2023-12-19 17:38:44",
+      "album": {
         "name": "Autumn Variations (Fan Living Room Sessions)",
         "url": "https://open.spotify.com/album/5bLE2kmkZWlzAYeb6To6LA"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 188604,
       "name": "Into The Walls",
       "url": "https://open.spotify.com/track/5Gdbm8oHbicLgj79HcOxtL"
-    },
-    {
-      "added_at": "2023-12-19 17:38:44",
-      "album": {
-        "name": "Drachenfrucht",
-        "url": "https://open.spotify.com/album/38x0C388O3eX76t2kmfZeD"
-      },
-      "artists": [
-        {
-          "name": "ENNIO",
-          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
-        },
-        {
-          "name": "Berq",
-          "url": "https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1"
-        }
-      ],
-      "duration_ms": 186249,
-      "name": "Drachenfrucht",
-      "url": "https://open.spotify.com/track/5mDZnH5AtLhmmz45i4Ru8X"
     },
     {
       "added_at": "2023-12-19 17:38:44",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-12-19 17:38:44",
       "album": {
-        "name": "Synchronize",
-        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 164576,
-      "name": "Synchronize",
-      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
-    },
-    {
-      "added_at": "2023-12-19 17:38:44",
-      "album": {
         "name": "Von Wind und Anonymit\u00e4t",
         "url": "https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 198448,
       "name": "Egoist",
       "url": "https://open.spotify.com/track/1SBsBiDUROntxMXINn8Cak"
+    },
+    {
+      "added_at": "2023-12-19 17:38:44",
+      "album": {
+        "name": "Synchronize",
+        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 164576,
+      "name": "Synchronize",
+      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
     },
     {
       "added_at": "2023-12-19 17:38:44",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-12-19 17:38:44",
       "album": {
-        "name": "Somebody Like You",
-        "url": "https://open.spotify.com/album/09LPF57on4STv8JhBAI6cd"
-      },
-      "artists": [
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
-        }
-      ],
-      "duration_ms": 200266,
-      "name": "Somebody Like You",
-      "url": "https://open.spotify.com/track/7jLAYW3N25Piy6lEI4WczE"
-    },
-    {
-      "added_at": "2023-12-19 17:38:44",
-      "album": {
         "name": "Utopie",
         "url": "https://open.spotify.com/album/7k8u3WFdC2fHOmp9VWsC2E"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 163026,
       "name": "Utopie",
       "url": "https://open.spotify.com/track/5dEk2G5Cdklq7eZFCrTIkm"
+    },
+    {
+      "added_at": "2023-12-19 17:38:44",
+      "album": {
+        "name": "Somebody Like You",
+        "url": "https://open.spotify.com/album/09LPF57on4STv8JhBAI6cd"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 200266,
+      "name": "Somebody Like You",
+      "url": "https://open.spotify.com/track/7jLAYW3N25Piy6lEI4WczE"
     },
     {
       "added_at": "2023-12-19 17:38:44",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-12-19 17:38:44",
       "album": {
+        "name": "rimini tape",
+        "url": "https://open.spotify.com/album/364XipkMF0Rp55oBjaHFtU"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        }
+      ],
+      "duration_ms": 174546,
+      "name": "Rimini",
+      "url": "https://open.spotify.com/track/2JNIWfyUG8AXC2staqyay5"
+    },
+    {
+      "added_at": "2023-12-19 17:38:44",
+      "album": {
         "name": "Looks Like Me",
         "url": "https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 163316,
       "name": "Forget Somebody",
       "url": "https://open.spotify.com/track/4nTsYZHFfecWk7NPXqqVyD"
-    },
-    {
-      "added_at": "2023-12-19 17:38:44",
-      "album": {
-        "name": "rimini tape",
-        "url": "https://open.spotify.com/album/364XipkMF0Rp55oBjaHFtU"
-      },
-      "artists": [
-        {
-          "name": "ENNIO",
-          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
-        }
-      ],
-      "duration_ms": 174546,
-      "name": "Rimini",
-      "url": "https://open.spotify.com/track/2JNIWfyUG8AXC2staqyay5"
     },
     {
       "added_at": "2023-12-19 17:38:44",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2023-12-19 17:38:44",
       "album": {
-        "name": "Falling Asleep At The Wheel",
-        "url": "https://open.spotify.com/album/359BMiYkEMDC70gvpCVljg"
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs"
       },
       "artists": [
         {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
         }
       ],
-      "duration_ms": 203247,
-      "name": "Falling Asleep At The Wheel",
-      "url": "https://open.spotify.com/track/5rqQv5jUcg58xsi1nuZDl9"
+      "duration_ms": 263349,
+      "name": "Ordinary Love",
+      "url": "https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp"
     },
     {
       "added_at": "2023-12-19 17:38:44",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2023-12-19 17:38:44",
       "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs"
+        "name": "Falling Asleep At The Wheel",
+        "url": "https://open.spotify.com/album/359BMiYkEMDC70gvpCVljg"
       },
       "artists": [
         {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 263349,
-      "name": "Ordinary Love",
-      "url": "https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp"
+      "duration_ms": 203247,
+      "name": "Falling Asleep At The Wheel",
+      "url": "https://open.spotify.com/track/5rqQv5jUcg58xsi1nuZDl9"
     },
     {
       "added_at": "2023-12-19 17:38:44",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2023-12-19 17:38:44",
       "album": {
-        "name": "At Your Worst (feat. Zoe Wees)",
-        "url": "https://open.spotify.com/album/6BI0yzMCxkaqTmrUVm8bSh"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        },
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
-        }
-      ],
-      "duration_ms": 167201,
-      "name": "At Your Worst (feat. Zoe Wees)",
-      "url": "https://open.spotify.com/track/2nvrp6laQsP9kkZuc48BTR"
-    },
-    {
-      "added_at": "2023-12-19 17:38:44",
-      "album": {
         "name": "sandmann",
         "url": "https://open.spotify.com/album/02bdwgTWtG1zIFdhx95L11"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 154286,
       "name": "sandmann",
       "url": "https://open.spotify.com/track/0VjaALHWHv43TFwqwf2tKB"
+    },
+    {
+      "added_at": "2023-12-19 17:38:44",
+      "album": {
+        "name": "At Your Worst (feat. Zoe Wees)",
+        "url": "https://open.spotify.com/album/6BI0yzMCxkaqTmrUVm8bSh"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        },
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        }
+      ],
+      "duration_ms": 167201,
+      "name": "At Your Worst (feat. Zoe Wees)",
+      "url": "https://open.spotify.com/track/2nvrp6laQsP9kkZuc48BTR"
     }
   ],
   "unique_name": "Wintergef\u00fchle",

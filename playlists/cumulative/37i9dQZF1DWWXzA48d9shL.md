@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: SXMPRA
 
-560 songs - 22 hr 8 min
+561 songs - 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,7 +406,8 @@
 | [PIGGY BACK](https://open.spotify.com/track/11TscKLROG8TH1nkMkjIIr) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [PIGGY BACK](https://open.spotify.com/album/3mHzVRTVO0wXn0En8DsaCJ) | 2:14 | 2022-02-25 | 2022-06-11 |
 | [Pipe Down](https://open.spotify.com/track/1xw3s0E9MNtRftzYFQrdqt) | [Lil Toe](https://open.spotify.com/artist/47yRnoOUz46ZKr9W3mKn5Z) | [Pipe Down](https://open.spotify.com/album/1IMqk7bmimVAf4C0XqiaWF) | 2:09 | 2021-09-17 | 2022-07-16 |
 | [POLTERGEIST!](https://open.spotify.com/track/041sluNZwBxTCOuu766eNi) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [POLTERGEIST!](https://open.spotify.com/album/7ycyfTn9AqKH27KjA4XQqp) | 1:41 | 2022-04-08 | 2022-11-26 |
-| [POPTHATRUNK](https://open.spotify.com/track/6FxxGoSCC9UaX8loeVwrcs) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [POPTHATRUNK](https://open.spotify.com/album/0brdkkqwVS8Y4v4s3xCZ7S) | 2:13 | 2023-08-29 |  |
+| [POPTHATRUNK](https://open.spotify.com/track/4BLbZo3DCqQXMzogWV1GNP) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [POPTHATRUNK](https://open.spotify.com/album/2eFWG2ZnDaiiesSNssfaVc) | 2:13 | 2023-08-29 |  |
+| [POPTHATRUNK](https://open.spotify.com/track/6FxxGoSCC9UaX8loeVwrcs) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [POPTHATRUNK](https://open.spotify.com/album/0brdkkqwVS8Y4v4s3xCZ7S) | 2:13 | 2023-08-29 | 2023-12-22 |
 | [PRISONER OF DARKNESS](https://open.spotify.com/track/1CYwQ5CvUIWbCojH7s6YXW) | [Daedra](https://open.spotify.com/artist/4Bl3FXav6VIDmSpaHLwpon) | [PRISONER OF DARKNESS](https://open.spotify.com/album/7xBRtGm9KfNi7kncG4gvz6) | 2:02 | 2023-02-03 | 2023-03-18 |
 | [Priton](https://open.spotify.com/track/5q2lsqzPGPyQn6fMBUupLP) | [MVDNES](https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7), [Dahako](https://open.spotify.com/artist/4IBT5lUigLwZDQkeyxdgFp) | [Priton](https://open.spotify.com/album/1WYSfTi4fA8GW99SED2G3U) | 1:58 | 2022-09-23 | 2023-08-05 |
 | [Private](https://open.spotify.com/track/79PXeW2SPqJ3lcSXoPbpmU) | [Croosh](https://open.spotify.com/artist/0khqcsFxd6ans7Zh1JqraT) | [Capsule 2](https://open.spotify.com/album/1uAFVm1vQvh0uwVMXcmF9b) | 1:47 | 2021-09-17 | 2022-09-17 |

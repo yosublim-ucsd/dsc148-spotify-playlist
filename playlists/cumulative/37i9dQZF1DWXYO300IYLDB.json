@@ -461,6 +461,24 @@
     },
     {
       "album": {
+        "name": "Baby Can You Stay (Acoustic)",
+        "url": "https://open.spotify.com/album/2zNqJN7E033d93J0cGB3Yx"
+      },
+      "artists": [
+        {
+          "name": "WNRDA",
+          "url": "https://open.spotify.com/artist/2Ja7uINE33t1t5d06J6PFQ"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186685,
+      "name": "Baby Can You Stay - Acoustic",
+      "url": "https://open.spotify.com/track/2D0KV8BVHuxJJzlRqNfxL7"
+    },
+    {
+      "album": {
         "name": "Beautiful Soul (Acoustic)",
         "url": "https://open.spotify.com/album/0fYVnOdzyAKZV77mvli2Qz"
       },
@@ -2618,7 +2636,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 192426,
       "name": "In A Perfect World (with Julia Michaels) - Acoustic",
       "url": "https://open.spotify.com/track/1Dw3ZSgoBZANlxWbebQjvf"
@@ -3925,6 +3943,24 @@
     },
     {
       "album": {
+        "name": "On The Way",
+        "url": "https://open.spotify.com/album/3H2v38YigQUXP24Yhq49YA"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192373,
+      "name": "On The Way",
+      "url": "https://open.spotify.com/track/0TvxrH69oDuV4k9NZAvs3l"
+    },
+    {
+      "album": {
         "name": "= (Tour Edition)",
         "url": "https://open.spotify.com/album/2CIOGAByaHyjQ1EO55JSzC"
       },
@@ -4490,7 +4526,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 205546,
       "name": "Sidelines",
       "url": "https://open.spotify.com/track/4mMviz9DJKLPyfhxpQIBcW"

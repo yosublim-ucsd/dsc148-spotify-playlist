@@ -2,9 +2,9 @@
 
 ### [Youth Service](https://open.spotify.com/playlist/37i9dQZF1DX2VXwwgu0PzV)
 
-> Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV?si=ZH6h6PoyTZC4meHqmMEB\-A">Reblah</a>
+> Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h">Praiz Singz</a>
 
-522 songs - 1 day 6 hr 49 min
+523 songs - 1 day 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [Look what you've done](https://open.spotify.com/track/7KuXYbVO5fi6Re3q0iJTEN) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Look what you've done](https://open.spotify.com/album/1VwL7Cjd9Bs7gDIKAQPbv9) | 8:48 | 2023-06-16 |  |
 | [Lord Arise \- Let The Enemy Be Scattered](https://open.spotify.com/track/2MmZGEYWcwNNcmHzAaXnuq) | [Enakeno](https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi) | [Lord Arise \(Let The Enemy Be Scattered\)](https://open.spotify.com/album/2zN6oelCzl8mNjZ4cBM7DT) | 2:12 | 2023-08-11 | 2023-09-15 |
 | [Lord You Are Good \- Spontaneous](https://open.spotify.com/track/53rr2POjQ9z4lO4P39Bnua) | [Chris Heaven](https://open.spotify.com/artist/0wWIHR4oX0miVq88XpVoYZ) | [Lord You Are Good \(Spontaneous\)](https://open.spotify.com/album/1DHzPKOhwivoj9n4GoOyGn) | 6:45 | 2023-10-20 | 2023-12-15 |
+| [Lost in you \(Jesus\)](https://open.spotify.com/track/1C4xfK4kTUL1IXS58PqGRU) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Psalms and Sacrifice](https://open.spotify.com/album/0Ebs0XXWCtMywrDwe1efFP) | 4:18 | 2023-12-22 |  |
 | [Love Is Sweet](https://open.spotify.com/track/4ylpxiJDwyF3nhwFyPnJPE) | [Asha Elia](https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY) | [Love Is Sweet](https://open.spotify.com/album/43MImKx1fAjC0xMdGdj3tu) | 2:35 | 2023-02-10 | 2023-06-16 |
 | [Love Me](https://open.spotify.com/track/1x8g9i82Ej5xNzwysUyZCd) | [Sammy Hart](https://open.spotify.com/artist/7uj5a4BDtYb5oI4EfypnNv) | [Love Me](https://open.spotify.com/album/5cQa96HLCYtv4TQbyvS1S9) | 3:49 | 2023-02-02 | 2023-06-16 |
 | [MAJO](https://open.spotify.com/track/3ixbMvMSAZLWRhqNdlQbnd) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F) | [MAJO](https://open.spotify.com/album/3rcxWLvZXA2ZtmZzvPNqec) | 2:53 | 2023-11-24 |  |

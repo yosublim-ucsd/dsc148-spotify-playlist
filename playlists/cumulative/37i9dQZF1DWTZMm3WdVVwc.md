@@ -4,7 +4,7 @@
 
 > 寒い季節がやってきました。そんな凍える日々を少しだけ暖めるような冬の名曲たちを一つのプレイリストに。
 
-92 songs - 6 hr 18 min
+93 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Dark Enough to See the Stars](https://open.spotify.com/track/7Bk3CAkTH58ZdxHJIwvkA7) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [SZNZ: Winter](https://open.spotify.com/album/52FaHwCCUz8aMLMWlZgYzo) | 2:36 | 2023-12-12 |  |
 | [Everything](https://open.spotify.com/track/6bkJ4p6uSKmSnKxYpmB4aG) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [Super Best Records \-15th Celebration\-](https://open.spotify.com/album/6HDgwZwj73QuaWubxCFyE8) | 7:00 | 2023-12-12 |  |
 | [First Love \- 2022 Mix](https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love \(2022 Mix\)](https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID) | 4:21 | 2023-12-12 |  |
+| [Frozen](https://open.spotify.com/track/4Vum4ZzIKBE1hNucaj5T3h) | [Linus](https://open.spotify.com/artist/5xkIt3pe76h4JgWeKpKm4L), [Hiromi](https://open.spotify.com/artist/61HMESIuiKbI3sUAow6K8j) | [Frozen](https://open.spotify.com/album/70yCi0GqnN1zp4rYNlL0Bv) | 4:37 | 2023-12-21 |  |
 | [FUYU](https://open.spotify.com/track/76qMVdk2nqV2JGfQSzuhQq) | [Ryoma Takamura](https://open.spotify.com/artist/4DQarWq5qDQV42Kz4dnedK), [Noconoco](https://open.spotify.com/artist/7mqeh0ppveN8XEZLXo8PkS), [Saba](https://open.spotify.com/artist/3st6n375XAVbTiurmhpa1Q), [Donatello](https://open.spotify.com/artist/3KDD4QJCRWBrOhGcUIc96y) | [FUYU](https://open.spotify.com/album/3HspJUOkTe12sN4Cpvoor1) | 3:14 | 2023-12-12 |  |
 | [ghost](https://open.spotify.com/track/2IAw3jr5rgI8k7DuJxis29) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc) | 5:52 | 2023-12-12 |  |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2023-12-12 | 2023-12-15 |
@@ -39,7 +40,7 @@
 | [LOVE LOVE LOVE](https://open.spotify.com/track/239dSULr1VNeGL30rzWZx2) | [gb](https://open.spotify.com/artist/7Ll3Cj9QGaAJ42YdRcFKG6) | [LOVE LOVE LOVE](https://open.spotify.com/album/6lPTKqfxFjfOodm0U7eXlC) | 3:11 | 2023-12-19 |  |
 | [marble latte](https://open.spotify.com/track/603KJ6OCDnVxfCVjDOJZ4f) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4), [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ) | [marble latte](https://open.spotify.com/album/27wiTABJf6UJfdncR3O8w6) | 3:37 | 2023-12-19 |  |
 | [Memory Lane](https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Memory Lane & Winter Song](https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8) | 3:12 | 2023-12-12 |  |
-| [Milk tea](https://open.spotify.com/track/6AA62UWsygs2OxTXdRd5Nz) | [ReN](https://open.spotify.com/artist/22wa94PJF9zyFJMTp2BYus) | [Milk tea](https://open.spotify.com/album/0LmrMvBQU257p864XtE9np) | 5:01 | 2023-12-12 |  |
+| [Milk tea](https://open.spotify.com/track/6AA62UWsygs2OxTXdRd5Nz) | [ReN](https://open.spotify.com/artist/22wa94PJF9zyFJMTp2BYus) | [Milk tea](https://open.spotify.com/album/0LmrMvBQU257p864XtE9np) | 5:01 | 2023-12-12 | 2023-12-22 |
 | [Moonlight](https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm) | [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [Moonlight](https://open.spotify.com/album/1B7s0MuLuwvGpSMOpzKDTN) | 3:29 | 2023-12-12 |  |
 | [My Red Little Fox](https://open.spotify.com/track/18R8a3jq3bbda5XX8fol2r) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 3:42 | 2023-12-12 |  |
 | [nagame \- Re:flection](https://open.spotify.com/track/2B3IrHDuFUusTu37FdY7dd) | [Schuwa Schuwa](https://open.spotify.com/artist/3Zcl5m1Mre2ZlfVU7xYSC8) | [nagame \(Re:flection\)](https://open.spotify.com/album/1NxLroom3IuNKjn2k2GBZ4) | 4:09 | 2023-12-12 | 2023-12-20 |

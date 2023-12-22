@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "La playlist che \u00e8 come andare ai concerti! Novit\u00e0 rock, indie e punk dall'Italia. Cover: OMINI",
+  "description": "La playlist che \u00e8 come andare ai concerti! Novit\u00e0 rock, indie e punk dall'Italia. Cover: Barkee Bay",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -942,7 +942,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 227381,
       "name": "Back In The Loop",
       "url": "https://open.spotify.com/track/3INoRjtC6c0SZJaet3465R"
@@ -2315,6 +2315,24 @@
     },
     {
       "album": {
+        "name": "Collision",
+        "url": "https://open.spotify.com/album/09W1yvXLaUhGLwy4X60dM1"
+      },
+      "artists": [
+        {
+          "name": "Mr. Bison",
+          "url": "https://open.spotify.com/artist/0TE7bBoZ1pF0yjfmxlFFwz"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194160,
+      "name": "Collision",
+      "url": "https://open.spotify.com/track/07L9itLWYnepJaZiXy5IcP"
+    },
+    {
+      "album": {
         "name": "Color Shades",
         "url": "https://open.spotify.com/album/32aZ5m6NZ2zv9nlReMdrg1"
       },
@@ -2492,7 +2510,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 220596,
       "name": "Come volevi essere",
       "url": "https://open.spotify.com/track/6Cvod0V1TVofdbAUyNLhYb"
@@ -7208,7 +7226,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 57000,
       "name": "Neuro Queer Cyber Punk (italia)",
       "url": "https://open.spotify.com/track/1UK7liy7XxmvtFcbiLj914"
@@ -8073,6 +8091,24 @@
     },
     {
       "album": {
+        "name": "Paranoia Park",
+        "url": "https://open.spotify.com/album/2EL20laugXPLGG4rDjC43y"
+      },
+      "artists": [
+        {
+          "name": "NAMIDA",
+          "url": "https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Paranoia Park",
+      "url": "https://open.spotify.com/track/3Vbw1LXY0RK8fQVRqomPWs"
+    },
+    {
+      "album": {
         "name": "Parlami",
         "url": "https://open.spotify.com/album/5yLLr1dLk439zVforZ4zZw"
       },
@@ -8830,6 +8866,24 @@
     {
       "album": {
         "name": "Quelli come noi",
+        "url": "https://open.spotify.com/album/69FIQOMkfmxTmcNm4Abadk"
+      },
+      "artists": [
+        {
+          "name": "Barkee Bay",
+          "url": "https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168837,
+      "name": "Quelli come noi",
+      "url": "https://open.spotify.com/track/0La20XCja1JWq58oyjli4P"
+    },
+    {
+      "album": {
+        "name": "Quelli come noi",
         "url": "https://open.spotify.com/album/4rYhntW2a7ri7dnstTtip8"
       },
       "artists": [
@@ -8916,7 +8970,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 198706,
       "name": "Receding Hairlines",
       "url": "https://open.spotify.com/track/1LoqsE92WXai4UkfSoCBzF"
@@ -9100,7 +9154,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 210538,
       "name": "Roma (non mi chiederai pi\u00f9)",
       "url": "https://open.spotify.com/track/33d7jB1nMIaOL0WgZLlhg4"
@@ -11099,6 +11153,24 @@
     },
     {
       "album": {
+        "name": "Til Life Do Us Part",
+        "url": "https://open.spotify.com/album/2LiofEjkfhdxWeLL6qqlnw"
+      },
+      "artists": [
+        {
+          "name": "The Devils",
+          "url": "https://open.spotify.com/artist/4dr588YumnHS2BIa7QOZI8"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Til Life Do Us Part",
+      "url": "https://open.spotify.com/track/2o8uFXQOFhnyKjVSYui1tN"
+    },
+    {
+      "album": {
         "name": "Time and Time",
         "url": "https://open.spotify.com/album/4tnfYJuYrz6WOmIc0BjDAa"
       },
@@ -11388,6 +11460,24 @@
       "duration_ms": 131964,
       "name": "TU MI MANDI FUORI",
       "url": "https://open.spotify.com/track/235dHwSaoNAWY29a0gSBWw"
+    },
+    {
+      "album": {
+        "name": "Torino",
+        "url": "https://open.spotify.com/album/7MghbDesd382NZuHggJ5O7"
+      },
+      "artists": [
+        {
+          "name": "Scheletri",
+          "url": "https://open.spotify.com/artist/5tzlUTfnx5Wp7dRPrJ8nPj"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228666,
+      "name": "Tu non sei niente",
+      "url": "https://open.spotify.com/track/1NXq5J1hYartYHhMDjfB8L"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Redeemed](https://open.spotify.com/playlist/37i9dQZF1DX8vgStRdrKer)
 
-> This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:   <a href="https://open.spotify.com/artist/0ZH0SbRhX3D2vaRGvTU3Rh?si=YkPkwrdXTb2HyyQlLNCJrA">Kinsu</a>
+> This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:   <a href="https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D">PV Idemudia</a>
 
 68 songs - 6 hr 3 min
 

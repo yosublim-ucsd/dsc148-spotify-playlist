@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: VICTIN, Kawe, Thiag\u00e3o, Lookas, Noventa",
-  "num_followers": 158264,
+  "num_followers": 158357,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2Y0NmFhZTQ4MTFmOTBhNjI4YTNhODMzODhjOWYyMjQyMWQzODM0",
+  "snapshot_id": "MCwwNWE2Mjk4NmU5YzMwZTgwNDYzMTk2MWI3Mzk1NjYxYzJhNzYxYWZh",
   "tracks": [
     {
       "added_at": "2023-11-24 07:15:42",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-11-24 07:15:42",
       "album": {
+        "name": "Fogo",
+        "url": "https://open.spotify.com/album/4iuWmHUUjyc7pq5yR8OX63"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 160062,
+      "name": "Fogo",
+      "url": "https://open.spotify.com/track/3Epqbk8U4pWZRxQNlaP3Vc"
+    },
+    {
+      "added_at": "2023-11-24 07:15:42",
+      "album": {
         "name": "Cora\u00e7\u00e3o Cansado",
         "url": "https://open.spotify.com/album/647o2SxR5KwJMyiW8UjWwW"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 160000,
       "name": "Cora\u00e7\u00e3o Cansado",
       "url": "https://open.spotify.com/track/00IM6KmIxhJGhJ6s4Rzutf"
-    },
-    {
-      "added_at": "2023-11-24 07:15:42",
-      "album": {
-        "name": "Fogo",
-        "url": "https://open.spotify.com/album/4iuWmHUUjyc7pq5yR8OX63"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 160062,
-      "name": "Fogo",
-      "url": "https://open.spotify.com/track/3Epqbk8U4pWZRxQNlaP3Vc"
     },
     {
       "added_at": "2023-11-24 07:15:42",
@@ -631,6 +631,38 @@
     {
       "added_at": "2023-11-24 07:15:42",
       "album": {
+        "name": "Ju\u00edzo Final",
+        "url": "https://open.spotify.com/album/6vn7pXMOSJHxTwUYkfNNOf"
+      },
+      "artists": [
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        }
+      ],
+      "duration_ms": 149576,
+      "name": "Ju\u00edzo Final",
+      "url": "https://open.spotify.com/track/7tyML8BrEAJJlYWXCrAr0D"
+    },
+    {
+      "added_at": "2023-11-24 07:15:42",
+      "album": {
+        "name": "Jesus Invadiu a Cena",
+        "url": "https://open.spotify.com/album/6ZYHnkp7z1agh309H04SYA"
+      },
+      "artists": [
+        {
+          "name": "VICTIN",
+          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
+        }
+      ],
+      "duration_ms": 206829,
+      "name": "Aff",
+      "url": "https://open.spotify.com/track/3F25r7aIj83DaGs7kVDnP6"
+    },
+    {
+      "added_at": "2023-11-24 07:15:42",
+      "album": {
         "name": "Metas e Versos (feat. Brunno Ramos)",
         "url": "https://open.spotify.com/album/1lvWIINLaBBYpz419bFlF0"
       },
@@ -659,22 +691,6 @@
     {
       "added_at": "2023-11-24 07:15:42",
       "album": {
-        "name": "Jesus Invadiu a Cena",
-        "url": "https://open.spotify.com/album/6ZYHnkp7z1agh309H04SYA"
-      },
-      "artists": [
-        {
-          "name": "VICTIN",
-          "url": "https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p"
-        }
-      ],
-      "duration_ms": 206829,
-      "name": "Aff",
-      "url": "https://open.spotify.com/track/3F25r7aIj83DaGs7kVDnP6"
-    },
-    {
-      "added_at": "2023-11-24 07:15:42",
-      "album": {
         "name": "Predestinado",
         "url": "https://open.spotify.com/album/4D0hEnelEJSkEplzl3tfh2"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 162272,
       "name": "Viv\u00e3o",
       "url": "https://open.spotify.com/track/06fddvzlWUEew0EGXK7eei"
-    },
-    {
-      "added_at": "2023-11-24 07:15:42",
-      "album": {
-        "name": "Ju\u00edzo Final",
-        "url": "https://open.spotify.com/album/6vn7pXMOSJHxTwUYkfNNOf"
-      },
-      "artists": [
-        {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
-        }
-      ],
-      "duration_ms": 149576,
-      "name": "Ju\u00edzo Final",
-      "url": "https://open.spotify.com/track/7tyML8BrEAJJlYWXCrAr0D"
     },
     {
       "added_at": "2023-11-24 07:15:42",
@@ -819,18 +819,22 @@
     {
       "added_at": "2023-11-24 07:15:42",
       "album": {
-        "name": "Salmos 33:3",
-        "url": "https://open.spotify.com/album/3kvCH6WieHrSGdD8Q60M5U"
+        "name": "Ladr\u00e3o",
+        "url": "https://open.spotify.com/album/6w145Bh0gJREaGV52bXvmQ"
       },
       "artists": [
         {
-          "name": "Kant",
-          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
         }
       ],
-      "duration_ms": 159400,
-      "name": "Salmos 33:3",
-      "url": "https://open.spotify.com/track/07NVaJJmhoih1A70w6ylPZ"
+      "duration_ms": 165000,
+      "name": "Ladr\u00e3o",
+      "url": "https://open.spotify.com/track/1S2LdnCSPrV9xxlGEefNDn"
     },
     {
       "added_at": "2023-11-24 07:15:42",
@@ -875,6 +879,22 @@
     {
       "added_at": "2023-11-24 07:15:42",
       "album": {
+        "name": "Salmos 33:3",
+        "url": "https://open.spotify.com/album/3kvCH6WieHrSGdD8Q60M5U"
+      },
+      "artists": [
+        {
+          "name": "Kant",
+          "url": "https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "Salmos 33:3",
+      "url": "https://open.spotify.com/track/07NVaJJmhoih1A70w6ylPZ"
+    },
+    {
+      "added_at": "2023-11-24 07:15:42",
+      "album": {
         "name": "Olho pro C\u00e9u",
         "url": "https://open.spotify.com/album/34rhziCCOtspVNUED09xYb"
       },
@@ -895,38 +915,6 @@
       "duration_ms": 228668,
       "name": "Olho pro C\u00e9u",
       "url": "https://open.spotify.com/track/5m4DYDaq07W0o2dIYGik0S"
-    },
-    {
-      "added_at": "2023-11-24 07:15:42",
-      "album": {
-        "name": "Ac\u00fastico OnSet #1 - Siga Adiante",
-        "url": "https://open.spotify.com/album/2XsKcTiMnXeRKhVA8BE63Q"
-      },
-      "artists": [
-        {
-          "name": "OnSet",
-          "url": "https://open.spotify.com/artist/486ZJwd4t1GNxDMDzGQqwI"
-        },
-        {
-          "name": "Ago de Souza",
-          "url": "https://open.spotify.com/artist/3GFtfrjtBet1N3RIN9Fmqk"
-        },
-        {
-          "name": "Stella Yeshua",
-          "url": "https://open.spotify.com/artist/2X2BJy2XLWgvdeAdKFkrfW"
-        },
-        {
-          "name": "Dablyo",
-          "url": "https://open.spotify.com/artist/4ojsT7JOFibDg7ZjW8Ormz"
-        },
-        {
-          "name": "Jana Baps",
-          "url": "https://open.spotify.com/artist/0QJVszKiVI4rciiKkjWpcj"
-        }
-      ],
-      "duration_ms": 217731,
-      "name": "Ac\u00fastico OnSet #1 - Siga Adiante",
-      "url": "https://open.spotify.com/track/1lumFVKdKI1ry8laEH1WET"
     },
     {
       "added_at": "2023-11-24 07:15:42",
@@ -963,22 +951,34 @@
     {
       "added_at": "2023-11-24 07:15:42",
       "album": {
-        "name": "Ladr\u00e3o",
-        "url": "https://open.spotify.com/album/6w145Bh0gJREaGV52bXvmQ"
+        "name": "Ac\u00fastico OnSet #1 - Siga Adiante",
+        "url": "https://open.spotify.com/album/2XsKcTiMnXeRKhVA8BE63Q"
       },
       "artists": [
         {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+          "name": "OnSet",
+          "url": "https://open.spotify.com/artist/486ZJwd4t1GNxDMDzGQqwI"
         },
         {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+          "name": "Ago de Souza",
+          "url": "https://open.spotify.com/artist/3GFtfrjtBet1N3RIN9Fmqk"
+        },
+        {
+          "name": "Stella Yeshua",
+          "url": "https://open.spotify.com/artist/2X2BJy2XLWgvdeAdKFkrfW"
+        },
+        {
+          "name": "Dablyo",
+          "url": "https://open.spotify.com/artist/4ojsT7JOFibDg7ZjW8Ormz"
+        },
+        {
+          "name": "Jana Baps",
+          "url": "https://open.spotify.com/artist/0QJVszKiVI4rciiKkjWpcj"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Ladr\u00e3o",
-      "url": "https://open.spotify.com/track/1S2LdnCSPrV9xxlGEefNDn"
+      "duration_ms": 217731,
+      "name": "Ac\u00fastico OnSet #1 - Siga Adiante",
+      "url": "https://open.spotify.com/track/1lumFVKdKI1ry8laEH1WET"
     },
     {
       "added_at": "2023-11-24 07:15:42",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-11-24 07:15:42",
       "album": {
-        "name": "Deus \u00e9 Bom",
-        "url": "https://open.spotify.com/album/0TYghw8KxSX2XHTSHRIuBW"
-      },
-      "artists": [
-        {
-          "name": "Krawk",
-          "url": "https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Deus \u00e9 Bom",
-      "url": "https://open.spotify.com/track/0SVVp5cSZVZc0EcKr1SzFw"
-    },
-    {
-      "added_at": "2023-11-24 07:15:42",
-      "album": {
         "name": "Se o Esp\u00edrito de Deus Se Move em Mim",
         "url": "https://open.spotify.com/album/0onAAqhvNW20080BvMMCkO"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 130515,
       "name": "Se o Esp\u00edrito de Deus Se Move em Mim",
       "url": "https://open.spotify.com/track/3Ob9HR0tFe110PuUrZdIcy"
+    },
+    {
+      "added_at": "2023-11-24 07:15:42",
+      "album": {
+        "name": "Deus \u00e9 Bom",
+        "url": "https://open.spotify.com/album/0TYghw8KxSX2XHTSHRIuBW"
+      },
+      "artists": [
+        {
+          "name": "Krawk",
+          "url": "https://open.spotify.com/artist/7a99I3BHPvsv4aBVNqb4g4"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Deus \u00e9 Bom",
+      "url": "https://open.spotify.com/track/0SVVp5cSZVZc0EcKr1SzFw"
     },
     {
       "added_at": "2023-11-24 07:15:42",
@@ -1079,30 +1079,6 @@
     {
       "added_at": "2023-11-24 07:15:42",
       "album": {
-        "name": "Amor \u00c1gape",
-        "url": "https://open.spotify.com/album/3e1uEOZv78o5VnfgWKqnkc"
-      },
-      "artists": [
-        {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 326028,
-      "name": "Amor \u00c1gape",
-      "url": "https://open.spotify.com/track/2AgIr2i9ygNU6IfZLiXduU"
-    },
-    {
-      "added_at": "2023-11-24 07:15:42",
-      "album": {
         "name": "Paulo & Silas",
         "url": "https://open.spotify.com/album/3HO8J0o54JCm2rdhqleCHd"
       },
@@ -1123,6 +1099,50 @@
       "duration_ms": 173222,
       "name": "Paulo & Silas",
       "url": "https://open.spotify.com/track/4so9ijYlh3tSUYlotbdUPg"
+    },
+    {
+      "added_at": "2023-11-24 07:15:42",
+      "album": {
+        "name": "Labirinto",
+        "url": "https://open.spotify.com/album/5hiTwmu0UXUPUVs9Si2tzW"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        },
+        {
+          "name": "Orelhv",
+          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
+        }
+      ],
+      "duration_ms": 217272,
+      "name": "Labirinto",
+      "url": "https://open.spotify.com/track/4YJuSrst66PSW3bdJk1SwN"
+    },
+    {
+      "added_at": "2023-11-24 07:15:42",
+      "album": {
+        "name": "Amor \u00c1gape",
+        "url": "https://open.spotify.com/album/3e1uEOZv78o5VnfgWKqnkc"
+      },
+      "artists": [
+        {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 326028,
+      "name": "Amor \u00c1gape",
+      "url": "https://open.spotify.com/track/2AgIr2i9ygNU6IfZLiXduU"
     },
     {
       "added_at": "2023-11-24 07:15:42",
@@ -1199,6 +1219,22 @@
     {
       "added_at": "2023-11-24 07:15:42",
       "album": {
+        "name": "Nome Sobre Todo Nome",
+        "url": "https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 133624,
+      "name": "Nome Sobre Todo Nome",
+      "url": "https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc"
+    },
+    {
+      "added_at": "2023-11-24 07:15:42",
+      "album": {
         "name": "CRISTO FAZ A WAVE",
         "url": "https://open.spotify.com/album/3cnklZJoW7feW3nF9pZYWL"
       },
@@ -1215,42 +1251,6 @@
       "duration_ms": 180000,
       "name": "CRISTO FAZ A WAVE",
       "url": "https://open.spotify.com/track/7qA4ovLWETJrwMXOAa7X00"
-    },
-    {
-      "added_at": "2023-11-24 07:15:42",
-      "album": {
-        "name": "Labirinto",
-        "url": "https://open.spotify.com/album/5hiTwmu0UXUPUVs9Si2tzW"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        },
-        {
-          "name": "Orelhv",
-          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
-        }
-      ],
-      "duration_ms": 217272,
-      "name": "Labirinto",
-      "url": "https://open.spotify.com/track/4YJuSrst66PSW3bdJk1SwN"
-    },
-    {
-      "added_at": "2023-11-24 07:15:42",
-      "album": {
-        "name": "Nome Sobre Todo Nome",
-        "url": "https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 133624,
-      "name": "Nome Sobre Todo Nome",
-      "url": "https://open.spotify.com/track/4WSdliftGLqW8bdw8HR8qc"
     },
     {
       "added_at": "2023-11-24 07:15:42",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-11-24 07:15:42",
       "album": {
+        "name": "E F\u00e9",
+        "url": "https://open.spotify.com/album/30ds3ileHxbUp4oiuQOijT"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 153400,
+      "name": "E F\u00e9",
+      "url": "https://open.spotify.com/track/2qfI1rpgbGjNoaqcOJVfc2"
+    },
+    {
+      "added_at": "2023-11-24 07:15:42",
+      "album": {
         "name": "Eu Era Servo",
         "url": "https://open.spotify.com/album/4Cc72TrT4isWBvG2OvBu71"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 133653,
       "name": "Al\u00e9m",
       "url": "https://open.spotify.com/track/2Y2qeRr0FjFOEJBP1AqtiC"
-    },
-    {
-      "added_at": "2023-11-24 07:15:42",
-      "album": {
-        "name": "E F\u00e9",
-        "url": "https://open.spotify.com/album/30ds3ileHxbUp4oiuQOijT"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 153400,
-      "name": "E F\u00e9",
-      "url": "https://open.spotify.com/track/2qfI1rpgbGjNoaqcOJVfc2"
     },
     {
       "added_at": "2023-11-24 07:15:42",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2023-11-24 07:15:42",
       "album": {
+        "name": "Mundo Fake",
+        "url": "https://open.spotify.com/album/4y8lqaoxaIppfPAyySwxjQ"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 163538,
+      "name": "Mundo Fake",
+      "url": "https://open.spotify.com/track/3oxG8EN5ChnjBdUNGfYXyN"
+    },
+    {
+      "added_at": "2023-11-24 07:15:42",
+      "album": {
         "name": "Quebrantado (Remix)",
         "url": "https://open.spotify.com/album/20mQsfaFBgXfGYsa6eC5aP"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 228888,
       "name": "Quebrantado - Remix",
       "url": "https://open.spotify.com/track/7zBbWxmYCttrkijpVwDbKN"
-    },
-    {
-      "added_at": "2023-11-24 07:15:42",
-      "album": {
-        "name": "Mundo Fake",
-        "url": "https://open.spotify.com/album/4y8lqaoxaIppfPAyySwxjQ"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 163538,
-      "name": "Mundo Fake",
-      "url": "https://open.spotify.com/track/3oxG8EN5ChnjBdUNGfYXyN"
     },
     {
       "added_at": "2023-11-24 07:15:42",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "Future Dance hits. Cover: Mel Blue",
+  "description": "Future Dance hits. Cover: Shygirl",
   "name": "New Dance Beats",
   "tracks": [
     {
@@ -64,6 +64,28 @@
       "duration_ms": 374116,
       "name": "(still) WON'T4GETU",
       "url": "https://open.spotify.com/track/0XIBrC5NWpiOleeVQuxiIo"
+    },
+    {
+      "album": {
+        "name": "1, 2, 3 (with Topic)",
+        "url": "https://open.spotify.com/album/7nBfkzrJ7wG5Jjoyru5dvu"
+      },
+      "artists": [
+        {
+          "name": "Oliver Cronin",
+          "url": "https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "1, 2, 3 (with Topic)",
+      "url": "https://open.spotify.com/track/0ELy9afthy6LVjF43Yw47l"
     },
     {
       "album": {
@@ -666,7 +688,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 234399,
       "name": "AEIOU - TCTS Remix",
       "url": "https://open.spotify.com/track/7oZHKzoxAeCP5RCBFC3kQD"
@@ -1866,7 +1888,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 276860,
       "name": "Arped",
       "url": "https://open.spotify.com/track/30rDCGXWmEegemGNj9dHJe"
@@ -1922,7 +1944,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 216716,
       "name": "Asking (feat. Clementine Douglas) - Jae Depz Remix",
       "url": "https://open.spotify.com/track/5NS3dv4PaNLytLUlkGYdlw"
@@ -2028,7 +2050,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 156586,
       "name": "attached - demo",
       "url": "https://open.spotify.com/track/5hSvUYzplozSK2u7dnJrUo"
@@ -3890,6 +3912,24 @@
       "duration_ms": 311500,
       "name": "Bodhi",
       "url": "https://open.spotify.com/track/211hiFb3wPqq3NZB7fx8gw"
+    },
+    {
+      "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/47Kr2pTLecB1WiI5b9DjEN"
+      },
+      "artists": [
+        {
+          "name": "Future Soundscapes",
+          "url": "https://open.spotify.com/artist/78GOlphTWBNF3LpZtbH1oA"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/649wzzjX1Xz739rJxqbyWm"
     },
     {
       "album": {
@@ -6914,7 +6954,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 181314,
       "name": "Connection",
       "url": "https://open.spotify.com/track/4m4kkrHB3CV4JgXup5e6LA"
@@ -7689,6 +7729,24 @@
     },
     {
       "album": {
+        "name": "Dance Tonight",
+        "url": "https://open.spotify.com/album/2uj0DCLP3rv7YrSJKrCBHB"
+      },
+      "artists": [
+        {
+          "name": "Hotham",
+          "url": "https://open.spotify.com/artist/3ygKK0BEUFKnjfhjzIMNSx"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164187,
+      "name": "Dance Tonight",
+      "url": "https://open.spotify.com/track/44qCCbdtfX0u0B58yBPJVJ"
+    },
+    {
+      "album": {
         "name": "Dance With Me",
         "url": "https://open.spotify.com/album/4sxxnU52NlKjVXWLoeAoUa"
       },
@@ -8048,7 +8106,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 325863,
       "name": "Deep Blue Sea - Motez Remix",
       "url": "https://open.spotify.com/track/3n7rRydIf2UlirFcEzO0dh"
@@ -10651,6 +10709,28 @@
     },
     {
       "album": {
+        "name": "f@k\u20ac",
+        "url": "https://open.spotify.com/album/1o8jGQjvhRvE3ecv4KSlS4"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Kingdom",
+          "url": "https://open.spotify.com/artist/1ofhNTFMyFVSs62cJWG0oj"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107250,
+      "name": "f@k\u20ac",
+      "url": "https://open.spotify.com/track/25dihw6b05yrnLyqxs3IDO"
+    },
+    {
+      "album": {
         "name": "FACE2FACE",
         "url": "https://open.spotify.com/album/3MFpdO7n6GNczDIVjH5s5T"
       },
@@ -12144,6 +12224,28 @@
       "duration_ms": 208392,
       "name": "Forever",
       "url": "https://open.spotify.com/track/1g28qxrvdh7ob5rTEHiFEc"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/6B5LA5m4bNlH1lTI91biWb"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "RobbieG",
+          "url": "https://open.spotify.com/artist/2NWRfNAjBd2cUOKbE9Isda"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181737,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/52Y1NDCiTeWECwQSeUdAaA"
     },
     {
       "album": {
@@ -13998,7 +14100,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 399976,
       "name": "Growth - Blanka Barbara Remix",
       "url": "https://open.spotify.com/track/1f3v49JrhHi6KHz0oGhaqc"
@@ -15649,6 +15751,28 @@
     },
     {
       "album": {
+        "name": "Houdini (Adam Port Mix)",
+        "url": "https://open.spotify.com/album/5PFMZUwGykBJr2o2G63RAG"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Houdini - Adam Port Mix",
+      "url": "https://open.spotify.com/track/5bGNsC7FTQ3WZzz0XYOmvZ"
+    },
+    {
+      "album": {
         "name": "House Affair",
         "url": "https://open.spotify.com/album/2YWrXRsChp6NHq0g1WsONZ"
       },
@@ -16066,7 +16190,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 199696,
       "name": "I Believe In Love Again - Jex Opolis Remix Edit",
       "url": "https://open.spotify.com/track/17t5Ba4T5CEYw2WG2clNeu"
@@ -17144,7 +17268,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 192000,
       "name": "Insane",
       "url": "https://open.spotify.com/track/5pw7w1fYJHBJ8oB41929bg"
@@ -17608,6 +17732,28 @@
       "duration_ms": 175650,
       "name": "Jour Meilleur (feat. Orelsan) - Lost Frequencies Edit",
       "url": "https://open.spotify.com/track/7sLNer9AVuoNOVrYEXb1rF"
+    },
+    {
+      "album": {
+        "name": "JOY (Push The Button)",
+        "url": "https://open.spotify.com/album/1jkNntbUEEHM1TDNrestb2"
+      },
+      "artists": [
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        },
+        {
+          "name": "Sugababes",
+          "url": "https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235198,
+      "name": "JOY (Push The Button)",
+      "url": "https://open.spotify.com/track/38k9ZI2scBdNV11KM3pTNB"
     },
     {
       "album": {
@@ -25307,6 +25453,32 @@
     },
     {
       "album": {
+        "name": "Peace of Mind",
+        "url": "https://open.spotify.com/album/6yF8JrEp3yBfFJptdIPLi7"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189840,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/7h8qrDfxBzUGcXXiR4Jxea"
+    },
+    {
+      "album": {
         "name": "Peach",
         "url": "https://open.spotify.com/album/4PdNoQMu0R9j8jOawIIKGJ"
       },
@@ -27269,6 +27441,28 @@
     },
     {
       "album": {
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/1lxjMEG1ow2R5tfwEub0Eh"
+      },
+      "artists": [
+        {
+          "name": "Justin Mylo",
+          "url": "https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu"
+        },
+        {
+          "name": "Karen Harding",
+          "url": "https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160800,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/1taZgqmYybM7nXGje9u4HH"
+    },
+    {
+      "album": {
         "name": "Reviver",
         "url": "https://open.spotify.com/album/2kTvFfFnBqJr1Aa2r8QwnF"
       },
@@ -28738,6 +28932,32 @@
       "duration_ms": 251520,
       "name": "Second Line",
       "url": "https://open.spotify.com/track/0I04jKhqWDv55sRz3LGLzh"
+    },
+    {
+      "album": {
+        "name": "Secrets (feat. Jazz Montell)",
+        "url": "https://open.spotify.com/album/0lMVfNvXYGaa5iFS4NU39o"
+      },
+      "artists": [
+        {
+          "name": "Glockenbach",
+          "url": "https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i"
+        },
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Jazz Montell",
+          "url": "https://open.spotify.com/artist/5HVnBG4feWijxr9j531PFs"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171200,
+      "name": "Secrets (feat. Jazz Montell)",
+      "url": "https://open.spotify.com/track/3SdpHyWPOlTBn6ZWB9XwWZ"
     },
     {
       "album": {
@@ -30223,6 +30443,32 @@
     },
     {
       "album": {
+        "name": "Smoke In Your Eyes",
+        "url": "https://open.spotify.com/album/5EEitGHmxCB0XD0rtV3bE7"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Ossie",
+          "url": "https://open.spotify.com/artist/4k2R7rFptalNPkyGEq2s9G"
+        },
+        {
+          "name": "Harry Stone",
+          "url": "https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391503,
+      "name": "Smoke In Your Eyes",
+      "url": "https://open.spotify.com/track/2Kurh5hEYRgzDzuahjHytQ"
+    },
+    {
+      "album": {
         "name": "Snakes & Ladders",
         "url": "https://open.spotify.com/album/75SOx68GKRsHhu4ErYOe3A"
       },
@@ -31546,7 +31792,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 209102,
       "name": "Still Fall",
       "url": "https://open.spotify.com/track/3JG1pGENyNtrVyPd1VPhN4"
@@ -33498,6 +33744,28 @@
       "duration_ms": 159046,
       "name": "The Last Time",
       "url": "https://open.spotify.com/track/23z63OEx2ij2wpKqJVFVSW"
+    },
+    {
+      "album": {
+        "name": "The Last Time (Sistek Radio Remix)",
+        "url": "https://open.spotify.com/album/3OhBldeU1EQvfqCxTA9OMW"
+      },
+      "artists": [
+        {
+          "name": "Nat Dunn",
+          "url": "https://open.spotify.com/artist/6uNiUxDeo17yUnA472Zhni"
+        },
+        {
+          "name": "Sistek",
+          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219847,
+      "name": "The Last Time - Sistek Radio Remix",
+      "url": "https://open.spotify.com/track/5lpP8rveTL7H7P6PYp6n4w"
     },
     {
       "album": {
@@ -38044,6 +38312,32 @@
       "duration_ms": 237116,
       "name": "You & I - Mansionair Remix",
       "url": "https://open.spotify.com/track/0t5WDA4jaAYWCacACgG0HK"
+    },
+    {
+      "album": {
+        "name": "You & Me (Rivo Remix)",
+        "url": "https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Eliza Doolittle",
+          "url": "https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1"
+        },
+        {
+          "name": "Rivo",
+          "url": "https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208524,
+      "name": "You & Me - Rivo Remix",
+      "url": "https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa"
     },
     {
       "album": {

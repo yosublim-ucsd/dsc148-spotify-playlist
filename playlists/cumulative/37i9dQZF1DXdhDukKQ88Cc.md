@@ -2,7 +2,7 @@
 
 ### [100 DK](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> dk rap der holder det 100 / Merro8 🚨
+> dk rap der holder det 100 / Omar / Baloosh 🚨
 
 95 songs - 4 hr 3 min
 

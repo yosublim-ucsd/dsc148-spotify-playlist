@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,365 songs - 2 day 3 hr 27 min
+1,366 songs - 2 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,6 +441,7 @@
 | [Funk Da World](https://open.spotify.com/track/5HNet2FEGHXf5Oq7Z1Zg0X) | [Hanakoto Bang](https://open.spotify.com/artist/1ieKkeFUSXuSVazHGyVVtm) | [INSTRUMENTAL BEATS VOL 8.](https://open.spotify.com/album/3a6kCBP5QtIbDZuNvu2IHb) | 1:29 | 2022-09-02 | 2023-08-04 |
 | [Furminator](https://open.spotify.com/track/0PQsmbX0FP5rlxsdVEhJBG) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Furminator](https://open.spotify.com/album/2JRw52d1R46aVrrdAXeKMB) | 2:09 | 2022-05-27 |  |
 | [Galu](https://open.spotify.com/track/02lQKzdCsP0YeRDRjJunz7) | [Ahe Bane](https://open.spotify.com/artist/3UERyQ4VEbAEy8qfc6OwvU) | [Maulu](https://open.spotify.com/album/6D3JN5dhSXj1YvaBzWL8dW) | 2:03 | 2022-01-27 | 2023-04-21 |
+| [Gameboy](https://open.spotify.com/track/69Wy5L5OTVYeQDztAIQQEf) | [Cmd q](https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG) | [Gameboy](https://open.spotify.com/album/2Hjq6BNgblfylZkW3LJjsJ) | 1:48 | 2023-12-22 |  |
 | [Garden Araki](https://open.spotify.com/track/6aUu7XAvrwqJfOXkG3YLZ1) | [Pat Poker](https://open.spotify.com/artist/6CAC4ia3z2NKbunyFfzEDS) | [Garden Araki](https://open.spotify.com/album/4GrDO1XWWOXoKJ8kwAnyRD) | 2:23 | 2022-01-27 | 2022-10-15 |
 | [Garden State](https://open.spotify.com/track/11BoL6AYgUYZhIiba3tQj8) | [Florence Ada](https://open.spotify.com/artist/55eWRokjrhKoE28jaHJYw7) | [Garden State](https://open.spotify.com/album/6VHkSxgJysWVbAjXICRsTU) | 1:56 | 2023-07-13 | 2023-09-29 |
 | [Garden State of Mind](https://open.spotify.com/track/5j6pA9MgFKQ0vT0rIW8uhS) | [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Gino's Cappuccino](https://open.spotify.com/album/3etXsPOM7IutaC6rUKUxAe) | 4:49 | 2022-01-27 | 2022-07-01 |
@@ -669,7 +670,7 @@
 | [lo\-fi shrine](https://open.spotify.com/track/61ageyUZp3kNUpOhuVDk44) | [heroku](https://open.spotify.com/artist/376UjXiYKUUjXatPRQoWSC) | [kyoto calling](https://open.spotify.com/album/0MWZAefCAhCIkpwtZFsBYv) | 2:04 | 2022-01-27 | 2022-04-22 |
 | [lofi jazz](https://open.spotify.com/track/32n3aVyrJN7T72NIy14eQu) | [Siesta](https://open.spotify.com/artist/6awqPfhaJwYe8ioLMRlvQP) | [lofi jazz](https://open.spotify.com/album/5cHegGhkFqiAdipFC0Jtb7) | 1:41 | 2022-12-09 | 2023-10-06 |
 | [Lofi on the Bass](https://open.spotify.com/track/2IhrewZbhBLNdTgxNKrIdE) | [Daniel Fridell](https://open.spotify.com/artist/4WG5037NDBAMyjzClxwmKK), [Sven Lindvall](https://open.spotify.com/artist/3TauislvTr1US5ZCbjnLUx) | [Lofi on the Bass](https://open.spotify.com/album/2ADzOtvCNQFQ2IQCrucOZP) | 3:37 | 2023-11-17 |  |
-| [Lofi Velvet Oasis](https://open.spotify.com/track/5ZOuVqzMW7NUMGIUCWnyzx) | [Lovetime Rhapsody](https://open.spotify.com/artist/1khPvt8OPAxBnQTIZ0kHJi) | [A Walk Through The Clouds](https://open.spotify.com/album/7bCRZzbTOPhZYSV5h81GdC) | 2:31 | 2023-11-17 |  |
+| [Lofi Velvet Oasis](https://open.spotify.com/track/5ZOuVqzMW7NUMGIUCWnyzx) | [Lovetime Rhapsody](https://open.spotify.com/artist/1khPvt8OPAxBnQTIZ0kHJi) | [A Walk Through The Clouds](https://open.spotify.com/album/7bCRZzbTOPhZYSV5h81GdC) | 2:31 | 2023-11-17 | 2023-12-22 |
 | [Lonely Mountain](https://open.spotify.com/track/2kxJbP2CXEZRCaCefWD721) | [Historians](https://open.spotify.com/artist/15itgh8cH72Bu7pXiyj0r1) | [Brooding T\-Rex](https://open.spotify.com/album/3Ixz2N2NtUOZEcP0JuCgrF) | 2:48 | 2022-01-27 | 2023-05-20 |
 | [Long for](https://open.spotify.com/track/5clFQSNR2BFzgfYf9CNQPJ) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m), [takeo](https://open.spotify.com/artist/77ONEFnCEJnH1qm5dBzDcf) | [Long for](https://open.spotify.com/album/3YhoM7R1RxZUJeKYMyjXFN) | 2:33 | 2022-12-09 | 2023-04-28 |
 | [Long Walks](https://open.spotify.com/track/4CUcBdtk6vfz1AEantq8Yh) | [Joi Casette](https://open.spotify.com/artist/00HEKt0f42LmgnoabKX3Ok) | [Long Walks](https://open.spotify.com/album/3UtFxXCfwdy9ZPzs5fWVzK) | 2:04 | 2022-01-27 |  |

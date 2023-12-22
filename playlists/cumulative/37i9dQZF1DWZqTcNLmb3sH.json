@@ -2362,7 +2362,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 151000,
       "name": "Bad Boys (from \"Bheema\")",
       "url": "https://open.spotify.com/track/1fpHvSPEF5au5OTIrkroeV"
@@ -6360,7 +6360,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 273230,
       "name": "Ene Sikthu Malli Ninge (From \"Hejjaru\")",
       "url": "https://open.spotify.com/track/6XaUnemvzyduP2zzFXifsV"
@@ -7496,7 +7496,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 204394,
       "name": "Gorukana Gaana - From \"Kaalapatthar\"",
       "url": "https://open.spotify.com/track/1TOJjeA0mp2yL05om9MoXr"
@@ -8056,6 +8056,32 @@
       "duration_ms": 88472,
       "name": "Hata Madida (Male Version)",
       "url": "https://open.spotify.com/track/0mIk9nc5mV86TQmdOdJedj"
+    },
+    {
+      "album": {
+        "name": "Hathurina Deepa (From \"Ranga Samudra\")",
+        "url": "https://open.spotify.com/album/0TzaRoUjEtErQVKzkl5nQe"
+      },
+      "artists": [
+        {
+          "name": "M. M. Keeravani",
+          "url": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+        },
+        {
+          "name": "Desi Mohan",
+          "url": "https://open.spotify.com/artist/3ulgjGAAoPrw7rHaMfR9sa"
+        },
+        {
+          "name": "Vagish Channagiri",
+          "url": "https://open.spotify.com/artist/7fLsKdmYi0nnKNRnydobpO"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275241,
+      "name": "Hathurina Deepa (From \"Ranga Samudra\")",
+      "url": "https://open.spotify.com/track/3FTIz33oSuRWxiAdVKw9ue"
     },
     {
       "album": {
@@ -16303,6 +16329,32 @@
     },
     {
       "album": {
+        "name": "Ninnalli Naa (From \"Mangalavaaram\")",
+        "url": "https://open.spotify.com/album/48DK0LTdbmYhjoAr5B7LhY"
+      },
+      "artists": [
+        {
+          "name": "Harshika Devanath",
+          "url": "https://open.spotify.com/artist/5PKcHZjlcaKjI9L1eDga3S"
+        },
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231838,
+      "name": "Ninnalli Naa (From \"Mangalavaaram\")",
+      "url": "https://open.spotify.com/track/0bRru3UERlb1DY8UprYQZh"
+    },
+    {
+      "album": {
         "name": "Saddu! Vicharane Nadeyuttide",
         "url": "https://open.spotify.com/album/3UeUbYR7ssMzOhwfXXGYhD"
       },
@@ -16780,6 +16832,28 @@
       "duration_ms": 223545,
       "name": "O Nidhima",
       "url": "https://open.spotify.com/track/6TLwG6i4xePR1hT3cUyrqz"
+    },
+    {
+      "album": {
+        "name": "Mangalavaaram (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0WrJspyqw4b4TrD3uPoqII"
+      },
+      "artists": [
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        },
+        {
+          "name": "Pramod Maravanthe",
+          "url": "https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226081,
+      "name": "O Praanave",
+      "url": "https://open.spotify.com/track/2xwd7RCg2197tH6syHl7Je"
     },
     {
       "album": {

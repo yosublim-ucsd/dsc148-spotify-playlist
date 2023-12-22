@@ -2,9 +2,9 @@
 
 ### [Afro Fusion](https://open.spotify.com/playlist/37i9dQZF1DXdiuTkmMSmb9)
 
-> Tropical jams to catch a vibe and whine to\. Cover: Libianca
+> Tropical jams to catch a vibe and whine to\. Cover: Wizkid
 
-390 songs - 20 hr 5 min
+392 songs - 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [Masala](https://open.spotify.com/track/01edOubcjFt0LAqJtwaG93) | [hummerhummer](https://open.spotify.com/artist/77MBNlDseOmqVvt840PCbZ), [Kash goodluck](https://open.spotify.com/artist/5VUdAGVfx1EPyVi5QvT9xa) | [The Prelude \(Gwanga Mujje\)](https://open.spotify.com/album/331rvKR8ffkyjMXt1oD52X) | 3:00 | 2022-07-18 | 2022-10-28 |
 | [Masculine \(feat\. Burna Boy\)](https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Beautiful And Brutal Yard](https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD) | 3:24 | 2023-07-13 |  |
 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 | 2023-10-12 |  |
+| [Me or Him](https://open.spotify.com/track/7MvYd9nPzSIWn6x66PNUxk) | [Daniel Bukuru](https://open.spotify.com/artist/64vfsqk9SccdA5Eqr8XPP7) | [Me or Him](https://open.spotify.com/album/4vcVtYquP8ffHwKgzmkPEY) | 3:12 | 2023-12-21 |  |
 | [Mercy](https://open.spotify.com/track/6eLjOsfFnwdb4dZ4kQqW7b) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Mercy](https://open.spotify.com/album/2DWDjIDrDSiL0XPW4qy9kR) | 2:47 | 2022-07-18 | 2022-08-26 |
 | [Mercy](https://open.spotify.com/track/4NsFzoTE4XdXpnjETfQLMZ) | [Kwame Anthem](https://open.spotify.com/artist/43FZHTH6FsPw5jEXT9yJp9), [Aymix](https://open.spotify.com/artist/3KovTlzUIWFOB8yQ4xBILr) | [WORTH THE WAIT](https://open.spotify.com/album/64aXLGJFmgrjZuZIKGskJ2) | 3:06 | 2022-11-24 | 2023-09-01 |
 | [MERLOT](https://open.spotify.com/track/4mPW13e8qf7nCRIcEus6oK) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [MERLOT](https://open.spotify.com/album/1RRLb4HprP0YH3YNvmopB9) | 2:52 | 2022-09-05 | 2022-09-09 |
@@ -250,6 +251,7 @@
 | [Ogogoro \(with Bas & Ayra Starr\)](https://open.spotify.com/track/72Cn4VmfpwAZk3NHVEplYx) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 2:30 | 2023-03-02 | 2023-09-01 |
 | [Okay](https://open.spotify.com/track/2Iv3GHM3xFKIPbYSnhJAXO) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Afro Pop, Vol\. 1](https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR) | 3:06 | 2022-08-25 | 2022-09-09 |
 | [Okay](https://open.spotify.com/track/5DXRCUXssxlsM8mHQpT4Ej) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [Okay](https://open.spotify.com/album/4lcZJepsDpN3YmtJidQwQp) | 2:48 | 2022-09-05 | 2022-09-09 |
+| [Ololufe \(feat\. Wande Coal\)](https://open.spotify.com/track/0x3sDnom0itB72oEVrRE7v) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [S2](https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM) | 3:30 | 2023-12-21 |  |
 | [On Di Low](https://open.spotify.com/track/4bcpjP8x9RovEBXVZwqZeB) | [Alutondo](https://open.spotify.com/artist/0vuNvwaPfkZ3YvGR8pQvwa), [Dau Dau](https://open.spotify.com/artist/5zE6gcTHIzl8LuAqhcCDu1) | [On Di Low](https://open.spotify.com/album/2gtTIIBEINcTUUFIHv7Mm5) | 3:39 | 2022-08-25 | 2023-01-13 |
 | [ONE MORE NIGHT](https://open.spotify.com/track/6gNU7w0XIn0OPv3xsQM713) | [Raf Receipt](https://open.spotify.com/artist/1VKRxxtnMP0EYuTmJ52m95) | [ONE MORE NIGHT](https://open.spotify.com/album/4UI8mlzCWOAbApGZJDgNbX) | 2:15 | 2022-07-18 | 2022-08-26 |
 | [Only You](https://open.spotify.com/track/1bg9gGJbrPxpaftqNgWpOz) | [STANY](https://open.spotify.com/artist/35DTcB1iUsRZKcmTn9PVPg), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Only You](https://open.spotify.com/album/4tFcJsaPk3MFYLEkFPcpHg) | 3:15 | 2022-10-13 | 2023-02-17 |

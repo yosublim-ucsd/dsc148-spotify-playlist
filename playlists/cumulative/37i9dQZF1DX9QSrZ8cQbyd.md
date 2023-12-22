@@ -4,7 +4,7 @@
 
 > Glockenspiel lullabies for your baby to fall asleep.
 
-188 songs - 5 hr 11 min
+189 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [The Peace of the Night](https://open.spotify.com/track/3oIPH7m0DAwD0VFK1Uycio) | [Orson Pierson](https://open.spotify.com/artist/43rTSYyJFSBjnuS3nNQswf) | [The Peace of the Night](https://open.spotify.com/album/5JimndzgmbOkh5dbaKjR0H) | 0:58 | 2021-11-11 | 2022-04-23 |
 | [The Red Little House](https://open.spotify.com/track/4097AnhLGCx0DD2a7QsMNP) | [Kaleb Terrell](https://open.spotify.com/artist/0oiz2oryJ2DOvJAA98fPIJ) | [The Red Little House](https://open.spotify.com/album/5PcZ9EhVGTTcQHi8J2JHav) | 1:42 | 2023-08-17 |  |
 | [The Rooster](https://open.spotify.com/track/3G691fRcbrkjBPeN5X2tO5) | [Kit Romilly](https://open.spotify.com/artist/0yI8CvVKPU5Ya1B1FVeBx1) | [The Rooster](https://open.spotify.com/album/6YrHZXpnoIHg2CbK73zUjY) | 1:26 | 2021-11-11 |  |
+| [The Seasons](https://open.spotify.com/track/3CYett5nf6G0WimlVsngXm) | [Brian Arthur](https://open.spotify.com/artist/60Tmojoo0H54vpQ7EW6J4H) | [The Seasons](https://open.spotify.com/album/3w3aEFwHeZrD6jVbai9IUa) | 0:58 | 2023-12-22 |  |
 | [The Sleepy Elephant Song](https://open.spotify.com/track/2ViNyGnb3YhNN2XYjg3IaJ) | [Aveline Auclair](https://open.spotify.com/artist/6FL5lxsl1kpKAEUeDliRoC) | [Music Box Fairytales](https://open.spotify.com/album/6mLKdRWCbi1WlUu6afxwzr) | 1:33 | 2023-03-23 | 2023-06-10 |
 | [The Song For You](https://open.spotify.com/track/1Tzz33d3lCreodYOyB3ptN) | [Saxon Howland](https://open.spotify.com/artist/1GWprHthhoUHxSFNDIzkI9) | [The Song For You](https://open.spotify.com/album/2o3htZyom2sLOLsPUlwxBx) | 1:20 | 2022-09-22 | 2023-12-09 |
 | [The Stars Above](https://open.spotify.com/track/1zOabAT0CeNm2aN9OhEN6i) | [Sammie Elliott](https://open.spotify.com/artist/1o0iPfmqGYTb0bucYuvGgr) | [My Fantasy](https://open.spotify.com/album/6APLIWg2VEvrbv5h2RVRck) | 1:14 | 2021-11-11 |  |

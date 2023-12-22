@@ -4,7 +4,7 @@
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Bas
 
-461 songs - 23 hr 39 min
+462 songs - 23 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -400,7 +400,8 @@
 | [TAG "YOU IT"](https://open.spotify.com/track/0Jkwdh7zGpv7hdDSqy8grL) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v), [DJ Wino](https://open.spotify.com/artist/7wV8FJAwzw07RTmgAd9oWT) | [TAG "YOU IT"](https://open.spotify.com/album/4nvns17lnT2yJcnOj6sq8h) | 3:54 | 2023-03-16 | 2023-04-09 |
 | [TALK DIFFERENT](https://open.spotify.com/track/66sufd2ajZ6WMtaNQcArnm) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Cottonwood 2](https://open.spotify.com/album/7l49L64CFakYuaV4EL11sP) | 3:40 | 2023-04-14 | 2023-05-19 |
 | [Talkback](https://open.spotify.com/track/7o3fWwXCehCmRya4TBvqpe) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Talkback](https://open.spotify.com/album/5MNz65f0S30Ev8AGVdFI5I) | 3:04 | 2023-03-16 | 2023-03-25 |
-| [TEACH ME HOW TO DRILL \(FEAT\. FIVIO FOREIGN\)](https://open.spotify.com/track/3sc0gnX1tOCoaMbiVujFmM) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [TEACH ME HOW TO DRILL \(FEAT\. FIVIO FOREIGN\)](https://open.spotify.com/album/1IwT4O2dDNGtTamYJe7uuv) | 3:16 | 2023-12-14 |  |
+| [TEACH ME HOW TO DRILL \(FEAT\. FIVIO FOREIGN\)](https://open.spotify.com/track/3sc0gnX1tOCoaMbiVujFmM) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [TEACH ME HOW TO DRILL \(FEAT\. FIVIO FOREIGN\)](https://open.spotify.com/album/1IwT4O2dDNGtTamYJe7uuv) | 3:16 | 2023-12-14 | 2023-12-22 |
+| [TEACH ME HOW TO DRILL \(feat\. Fivio Foreign\)](https://open.spotify.com/track/5swaNc5Ezn8WKacGObLCKF) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [TEACH ME HOW TO DRILL \(feat\. Fivio Foreign\)](https://open.spotify.com/album/2o8kQCbnv8Rytmk4Fb8rwZ) | 3:16 | 2023-12-14 |  |
 | [Temporary \(feat\. Don Toliver\)](https://open.spotify.com/track/0bTiLwSo2xmhA6BcCXTOkx) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Since I Have A Lover](https://open.spotify.com/album/4ixavb1zLBMERcEWfsy8oC) | 2:58 | 2023-03-23 | 2023-06-03 |
 | [Tequila Shots](https://open.spotify.com/track/16imuDRy30OJ19fJLAA3Fu) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Tequila Shots](https://open.spotify.com/album/6OjkSwUgvaM8zhkUumQXWN) | 3:09 | 2023-10-13 | 2023-10-23 |
 | [Thang For You \(feat\. No Cap\)](https://open.spotify.com/track/1GlLIz7AtCYnwvXpz2rzbo) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [NoCap](https://open.spotify.com/artist/3o2XvAddxTcAXl5wwWrrPZ) | [Thang For You \(feat\. No Cap\)](https://open.spotify.com/album/2gEXNftII7Pb0LLzc9MBM2) | 4:19 | 2023-08-03 | 2023-08-11 |

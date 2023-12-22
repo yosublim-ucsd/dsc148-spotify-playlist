@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u8a71\u984c\u306e\u30ed\u30c3\u30af\u30d2\u30c3\u30c8\u3092Volume\u4e0a\u3052\u3066\u7206\u97f3\u3067\u3002Cover: Sum 41",
+  "description": "\u8a71\u984c\u306e\u30ed\u30c3\u30af\u30d2\u30c3\u30c8\u3092Volume\u4e0a\u3052\u3066\u7206\u97f3\u3067\u3002Cover: FZMZ",
   "name": "Rock The World",
   "tracks": [
     {
@@ -450,7 +450,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 195278,
       "name": "A Little Bit Happy",
       "url": "https://open.spotify.com/track/0QligzLNiKkIKW1Ea2MFHt"
@@ -490,7 +490,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 165525,
       "name": "A Room Up In The Sky (feat. The Mar\u00edas)",
       "url": "https://open.spotify.com/track/2b6tGpbflP62TnzKx9TSDu"
@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 109704,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/75qNRiB12VNzkg52Q13ojm"
@@ -1206,7 +1206,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 215435,
       "name": "Arrows",
       "url": "https://open.spotify.com/track/35r4qfODdAxAUuDl7VRE8C"
@@ -1264,7 +1264,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 193198,
       "name": "Asleep",
       "url": "https://open.spotify.com/track/5Wx4OTeGLWb3mMws1VjAms"
@@ -1420,7 +1420,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 162645,
       "name": "Back To Us (feat. Goody Grace and Smrtdeath)",
       "url": "https://open.spotify.com/track/1jOzZUwloEQwXTSEhIrRW3"
@@ -1540,6 +1540,24 @@
       "duration_ms": 175480,
       "name": "Bad Time",
       "url": "https://open.spotify.com/track/3ybguBEEMkpKz07SBefKW3"
+    },
+    {
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203369,
+      "name": "ballad of a homeschooled girl",
+      "url": "https://open.spotify.com/track/5sp71CUt0jXRNqHblPGp7b"
     },
     {
       "album": {
@@ -2018,10 +2036,28 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 176005,
       "name": "Blame Brett",
       "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
+    },
+    {
+      "album": {
+        "name": "Blame My Ex",
+        "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177003,
+      "name": "Blame Brett",
+      "url": "https://open.spotify.com/track/6twjuBZfRJIZnoHrghzWLk"
     },
     {
       "album": {
@@ -2466,10 +2502,32 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-17",
+      "date_removed": null,
       "duration_ms": 236073,
       "name": "BROKEN GAMES",
       "url": "https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5"
+    },
+    {
+      "album": {
+        "name": "BROKEN GAMES (Remix)",
+        "url": "https://open.spotify.com/album/4vmmbgywov4RSGDKbzr86D"
+      },
+      "artists": [
+        {
+          "name": "FZMZ",
+          "url": "https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb"
+        },
+        {
+          "name": "Kordhell",
+          "url": "https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195333,
+      "name": "BROKEN GAMES - Remix",
+      "url": "https://open.spotify.com/track/55QWScNHZIgJ6qXJc4ICGh"
     },
     {
       "album": {
@@ -2816,6 +2874,24 @@
       "duration_ms": 162065,
       "name": "Calm Down (A Little Bit Louder Now)",
       "url": "https://open.spotify.com/track/0mtGnMCDl70UkOi3VRnzY2"
+    },
+    {
+      "album": {
+        "name": "BLUE Turtle Dove",
+        "url": "https://open.spotify.com/album/5ScSiAnW7tI9kjZ3cmS6d1"
+      },
+      "artists": [
+        {
+          "name": "PEZZHEAD",
+          "url": "https://open.spotify.com/artist/6aVSDYGiTFnafE19XhK3PI"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222950,
+      "name": "Calverley",
+      "url": "https://open.spotify.com/track/13HSuJkVMEQ8Ji95Y4pzIn"
     },
     {
       "album": {
@@ -3839,6 +3915,24 @@
     },
     {
       "album": {
+        "name": "DEADBEAT (demo)",
+        "url": "https://open.spotify.com/album/10m7tBBmCXRaQW0GP1jlBK"
+      },
+      "artists": [
+        {
+          "name": "WesGhost",
+          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145714,
+      "name": "DEADBEAT - demo",
+      "url": "https://open.spotify.com/track/3COVhNcQ71ZyAxHyM1xiK4"
+    },
+    {
+      "album": {
         "name": "The Jaws Of Life",
         "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
       },
@@ -3908,7 +4002,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-24",
+      "date_removed": null,
       "duration_ms": 181266,
       "name": "Deep End (from \"Aquaman and the Lost Kingdom\")",
       "url": "https://open.spotify.com/track/20xiB92NDhWtM4sqXUreQU"
@@ -4946,7 +5040,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 163109,
       "name": "EXCALIBUR",
       "url": "https://open.spotify.com/track/6gg9wuYw3WvZ6bdfUxWZui"
@@ -5434,7 +5528,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 198097,
       "name": "FLESH AND BONE",
       "url": "https://open.spotify.com/track/4jj7lOFhYu59x8QUgvQ6NJ"
@@ -5694,7 +5788,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 188192,
       "name": "FUNERAL",
       "url": "https://open.spotify.com/track/2Ny0tCcYlti1RXsrNtRMl3"
@@ -5806,7 +5900,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 254614,
       "name": "Get It On",
       "url": "https://open.spotify.com/track/4amCG4BiUtmbLvM60o2w2W"
@@ -6504,7 +6598,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 241638,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/6OIQbqoIyqBvF4JQDamfOE"
@@ -8758,7 +8852,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-15",
+      "date_removed": null,
       "duration_ms": 199342,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3RQHAFkEHiFHQ7qmMpKRdv"
@@ -8902,7 +8996,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 127474,
       "name": "Love To Walk Away",
       "url": "https://open.spotify.com/track/7wykJuA5AbOMLTmsNSi1Cq"
@@ -9574,7 +9668,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 171891,
       "name": "Motel Way of Life",
       "url": "https://open.spotify.com/track/3hqNVh2HrQyX0j9FsjSQX9"
@@ -9794,7 +9888,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -10896,7 +10990,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 341580,
       "name": "Pall To The Wall",
       "url": "https://open.spotify.com/track/0BoUmEpU5vKwrx0O7lBHGy"
@@ -11113,6 +11207,24 @@
     },
     {
       "album": {
+        "name": "Photographs (Bonus Track Dive)",
+        "url": "https://open.spotify.com/album/23lrMiB6nwTczpEoyLTXO1"
+      },
+      "artists": [
+        {
+          "name": "ITCHY",
+          "url": "https://open.spotify.com/artist/42pWilgI9MEZARoTtGHNR4"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208730,
+      "name": "Photographs - Bonus Track Dive",
+      "url": "https://open.spotify.com/track/5QxxeK7ktsZ1xQImL91moM"
+    },
+    {
+      "album": {
         "name": "Piggie",
         "url": "https://open.spotify.com/album/47Nwndy2RaIR3JjvGr9LOm"
       },
@@ -11308,7 +11420,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 195688,
       "name": "pretty good for a bad day",
       "url": "https://open.spotify.com/track/00LBxD0r6QHfBYDrvJUsuw"
@@ -11690,7 +11802,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 252385,
       "name": "Re\u65b9\u7a0b\u5f0f",
       "url": "https://open.spotify.com/track/5gMvuRZRAtYxsYBs5lRDMH"
@@ -11998,7 +12110,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-06",
+      "date_removed": null,
       "duration_ms": 192440,
       "name": "Running Out Of Time",
       "url": "https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE"
@@ -12492,6 +12604,24 @@
       "duration_ms": 293960,
       "name": "Show Me How",
       "url": "https://open.spotify.com/track/4wJ2mw9b5hTZTKTtbLKDJZ"
+    },
+    {
+      "album": {
+        "name": "Show Me How To Love",
+        "url": "https://open.spotify.com/album/7a0y1S3C96JFkeWZ4mTmon"
+      },
+      "artists": [
+        {
+          "name": "Empire Fall",
+          "url": "https://open.spotify.com/artist/3LURa20zIKdXG4MHqz70zp"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171034,
+      "name": "Show Me How To Love",
+      "url": "https://open.spotify.com/track/0iBUNQawR3rfxZ3SsTrkum"
     },
     {
       "album": {
@@ -13340,6 +13470,24 @@
       "duration_ms": 234220,
       "name": "Stay [Feat. Patrick Wilson]",
       "url": "https://open.spotify.com/track/5koxSCWVJInF4T6jj5SQ3H"
+    },
+    {
+      "album": {
+        "name": "internet teenage lover",
+        "url": "https://open.spotify.com/album/0NT5ZBUomUJezXJAZtKXOK"
+      },
+      "artists": [
+        {
+          "name": "Lesssug\u00e4r",
+          "url": "https://open.spotify.com/artist/6DhnCZ4po8PyhoooXojDBB"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274238,
+      "name": "stay away go!",
+      "url": "https://open.spotify.com/track/40Ud4qavLWVlzy0oFgvo71"
     },
     {
       "album": {
@@ -14232,6 +14380,24 @@
       "duration_ms": 244216,
       "name": "The Indigo Streak",
       "url": "https://open.spotify.com/track/57bBIId9EiuZEMzNA54bKk"
+    },
+    {
+      "album": {
+        "name": "No Looking Back",
+        "url": "https://open.spotify.com/album/0dwAxWVt9N0HIO4QPmFZq5"
+      },
+      "artists": [
+        {
+          "name": "Less Than Hollow",
+          "url": "https://open.spotify.com/artist/6YKUQqeyWshUssuIyayCpD"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201343,
+      "name": "The Last Time",
+      "url": "https://open.spotify.com/track/4YXmWAo4IHhHpkZbtlwBYm"
     },
     {
       "album": {
@@ -16253,6 +16419,24 @@
     },
     {
       "album": {
+        "name": "ROLL MOTTLE",
+        "url": "https://open.spotify.com/album/3PJCRV6Ht0IF3Esc6yvQxd"
+      },
+      "artists": [
+        {
+          "name": "Vestron Vulture",
+          "url": "https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203720,
+      "name": "You Don't Like Real Girls",
+      "url": "https://open.spotify.com/track/4DyIiCu13N2psksuq1xeMU"
+    },
+    {
+      "album": {
         "name": "Re: This Is Why",
         "url": "https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j"
       },
@@ -16268,7 +16452,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 234448,
       "name": "You First (Re: Remi Wolf)",
       "url": "https://open.spotify.com/track/4w34xOG4R20bcijSufbq8l"
@@ -16398,7 +16582,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 187653,
       "name": "Your Side of Town",
       "url": "https://open.spotify.com/track/3XV77GNuIPYff6T7bzjYy9"

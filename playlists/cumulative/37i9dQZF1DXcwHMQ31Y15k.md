@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Masdddho
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: NDX A.K.A.
 
-261 songs - 21 hr 35 min
+262 songs - 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Top Topan](https://open.spotify.com/track/5pjJmCYsCzg2xRJHDq18kq) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Top Topan](https://open.spotify.com/album/6VB2l8Dz7ozkpgDAw42ehB) | 4:26 | 2022-05-26 | 2023-10-13 |
 | [Tresno Liyane](https://open.spotify.com/track/7IWKUR4CrurVIc6BPWwWiR) | [Northsle](https://open.spotify.com/artist/2uLPgRE1AC21L9Ep5WmGVu), [Agiff](https://open.spotify.com/artist/6RQy74jvNAxRoUyYaL2JyG) | [Tresno Liyane](https://open.spotify.com/album/5zI0wfXVhntN1EjsdrdViQ) | 4:50 | 2023-06-02 |  |
 | [Tresno Liyane](https://open.spotify.com/track/6TGKyyyMCmtjf3MpdRnpxE) | [Tembang Gula](https://open.spotify.com/artist/6g7kngIkweehmJyN2AYOOH), [Tomo Widayat](https://open.spotify.com/artist/3ZCCt9k6vWEDbdR0XKjHXY) | [Tresno Liyane](https://open.spotify.com/album/5ihcCehRsNOjAIiEZVbDGu) | 4:54 | 2022-05-26 | 2022-08-19 |
+| [Tresno Tekan Mati \- New Version](https://open.spotify.com/track/6dpx06KUkby9EfiUTLkiXd) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Tresno Tekan Mati \(New Version\)](https://open.spotify.com/album/5a2TytayKwqFURNG7ArVlw) | 4:31 | 2023-12-21 |  |
 | [Tutupono](https://open.spotify.com/track/2hSAl1oXLAC0PbTXdRaMee) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Tutupono](https://open.spotify.com/album/4jabGpRwf88fAgVkDxoPbd) | 6:12 | 2023-07-28 | 2023-09-22 |
 | [Urip Rekoso](https://open.spotify.com/track/75APZykcRrekbpKkE798OD) | [Brindil Kurus](https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb) | [Urip Rekoso](https://open.spotify.com/album/7vFS81qrJnWRPhMURUybUc) | 4:27 | 2023-10-06 |  |
 | [Waton](https://open.spotify.com/track/3uIn4odpSB1ob8lqSYE0VP) | [Brindil Kurus](https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb) | [Waton](https://open.spotify.com/album/0lAfrVXeLeHFkkpt3WMeCF) | 4:13 | 2023-08-31 | 2023-12-09 |

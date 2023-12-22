@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Wet Bed Gang.  ",
-  "num_followers": 56738,
+  "num_followers": 56753,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2UxYjFlZTRhZmYwNDYxYzNhNmUzYWU0Y2M0MzIxMzBkMGE0NTIx",
+  "snapshot_id": "MCw4MzVmODAzZDFhMGQ2Nzc3MTBmYThhN2IxZTZlNDk0YTY0OWQ0ZjMx",
   "tracks": [
     {
       "added_at": "2023-12-14 11:29:01",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-12-14 11:29:01",
       "album": {
-        "name": "International Bizz",
-        "url": "https://open.spotify.com/album/7g3nF0SFu2SNbMnVjyGX4K"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "International Bizz",
-      "url": "https://open.spotify.com/track/1mmYrB8rIUWA73nsivDPu4"
-    },
-    {
-      "added_at": "2023-12-14 11:29:01",
-      "album": {
         "name": "Anatomia de GROG",
         "url": "https://open.spotify.com/album/333cuKMpbc1kaTufa6Uu2y"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 282960,
       "name": "Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/1dmgHNSeYDyqb6TwLatTfc"
+    },
+    {
+      "added_at": "2023-12-14 11:29:01",
+      "album": {
+        "name": "International Bizz",
+        "url": "https://open.spotify.com/album/7g3nF0SFu2SNbMnVjyGX4K"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "International Bizz",
+      "url": "https://open.spotify.com/track/1mmYrB8rIUWA73nsivDPu4"
     },
     {
       "added_at": "2023-12-14 11:29:01",
@@ -1171,30 +1171,6 @@
     {
       "added_at": "2023-12-14 11:29:01",
       "album": {
-        "name": "ES7\u00c1DIO",
-        "url": "https://open.spotify.com/album/4ix8vvB3aP45fYYsZobRLq"
-      },
-      "artists": [
-        {
-          "name": "Lhast",
-          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
-        },
-        {
-          "name": "Rafaell Dior",
-          "url": "https://open.spotify.com/artist/4G8d2H1R7P1rlGptL7Uzla"
-        },
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 217715,
-      "name": "ES7\u00c1DIO",
-      "url": "https://open.spotify.com/track/430EuoJ6KwzO0fFuCwu6am"
-    },
-    {
-      "added_at": "2023-12-14 11:29:01",
-      "album": {
         "name": "Malandro",
         "url": "https://open.spotify.com/album/5HpKHknhyCUqa0dcToXWFe"
       },
@@ -1207,22 +1183,6 @@
       "duration_ms": 210675,
       "name": "Malandro",
       "url": "https://open.spotify.com/track/1QBBBnxF3xD0Gu5kHXk8oB"
-    },
-    {
-      "added_at": "2023-12-14 11:29:01",
-      "album": {
-        "name": "P de Pablito",
-        "url": "https://open.spotify.com/album/7BkBkdAwb0X7pbIBjP9zzF"
-      },
-      "artists": [
-        {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "P de Pablito",
-      "url": "https://open.spotify.com/track/5iZdN7FwGMBBaYsPP5DO8l"
     },
     {
       "added_at": "2023-12-14 11:29:01",
@@ -1247,6 +1207,22 @@
     {
       "added_at": "2023-12-14 11:29:01",
       "album": {
+        "name": "P de Pablito",
+        "url": "https://open.spotify.com/album/7BkBkdAwb0X7pbIBjP9zzF"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "P de Pablito",
+      "url": "https://open.spotify.com/track/5iZdN7FwGMBBaYsPP5DO8l"
+    },
+    {
+      "added_at": "2023-12-14 11:29:01",
+      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/2uFgPZNyontItiQ5P2TZU6"
       },
@@ -1259,6 +1235,22 @@
       "duration_ms": 220800,
       "name": "Good Life",
       "url": "https://open.spotify.com/track/0kM7y3ykrd0pmixnTnMp23"
+    },
+    {
+      "added_at": "2023-12-14 11:29:01",
+      "album": {
+        "name": "STAY FLY",
+        "url": "https://open.spotify.com/album/4iIcbooXI3ECNDtEHMZIYq"
+      },
+      "artists": [
+        {
+          "name": "LON3R JOHNY",
+          "url": "https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd"
+        }
+      ],
+      "duration_ms": 234893,
+      "name": "STAY FLY",
+      "url": "https://open.spotify.com/track/2QTqMOfniBv3Y0GWkJa5bZ"
     },
     {
       "added_at": "2023-12-14 11:29:01",
@@ -1291,38 +1283,6 @@
     {
       "added_at": "2023-12-14 11:29:01",
       "album": {
-        "name": "STAY FLY",
-        "url": "https://open.spotify.com/album/4iIcbooXI3ECNDtEHMZIYq"
-      },
-      "artists": [
-        {
-          "name": "LON3R JOHNY",
-          "url": "https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd"
-        }
-      ],
-      "duration_ms": 234893,
-      "name": "STAY FLY",
-      "url": "https://open.spotify.com/track/2QTqMOfniBv3Y0GWkJa5bZ"
-    },
-    {
-      "added_at": "2023-12-14 11:29:01",
-      "album": {
-        "name": "Clima",
-        "url": "https://open.spotify.com/album/15axyA5TYLSMDDsUS64xIH"
-      },
-      "artists": [
-        {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
-        }
-      ],
-      "duration_ms": 171063,
-      "name": "Clima",
-      "url": "https://open.spotify.com/track/1FTuNyIwUs3srXdMIS1Lql"
-    },
-    {
-      "added_at": "2023-12-14 11:29:01",
-      "album": {
         "name": "41",
         "url": "https://open.spotify.com/album/0j5hj2LagmGhWKkbrHGm2X"
       },
@@ -1343,22 +1303,6 @@
     {
       "added_at": "2023-12-14 11:29:01",
       "album": {
-        "name": "Conclus\u00e3o",
-        "url": "https://open.spotify.com/album/44Hs7uBI8i9aJlDp2nkQxE"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 147820,
-      "name": "Conclus\u00e3o",
-      "url": "https://open.spotify.com/track/3POu1ffLnehBhpNGuaaOG3"
-    },
-    {
-      "added_at": "2023-12-14 11:29:01",
-      "album": {
         "name": "Morte do Artista",
         "url": "https://open.spotify.com/album/7a88VpAUQJiWQbrlWOF9oL"
       },
@@ -1371,26 +1315,6 @@
       "duration_ms": 207658,
       "name": "Morte do Artista",
       "url": "https://open.spotify.com/track/049X01PzvnR4faZt2I3eXr"
-    },
-    {
-      "added_at": "2023-12-14 11:29:01",
-      "album": {
-        "name": "O Re$To",
-        "url": "https://open.spotify.com/album/6iXe2Fi1uFGc06A2LFEjGg"
-      },
-      "artists": [
-        {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        },
-        {
-          "name": "DJ HYPE MYKE",
-          "url": "https://open.spotify.com/artist/1QJNTcEVJfb5qVsMvtA5ch"
-        }
-      ],
-      "duration_ms": 304600,
-      "name": "O Re$To",
-      "url": "https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R"
     },
     {
       "added_at": "2023-12-14 11:29:01",
@@ -1415,6 +1339,58 @@
     {
       "added_at": "2023-12-14 11:29:01",
       "album": {
+        "name": "Conclus\u00e3o",
+        "url": "https://open.spotify.com/album/44Hs7uBI8i9aJlDp2nkQxE"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 147820,
+      "name": "Conclus\u00e3o",
+      "url": "https://open.spotify.com/track/3POu1ffLnehBhpNGuaaOG3"
+    },
+    {
+      "added_at": "2023-12-14 11:29:01",
+      "album": {
+        "name": "Clima",
+        "url": "https://open.spotify.com/album/15axyA5TYLSMDDsUS64xIH"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "duration_ms": 171063,
+      "name": "Clima",
+      "url": "https://open.spotify.com/track/1FTuNyIwUs3srXdMIS1Lql"
+    },
+    {
+      "added_at": "2023-12-14 11:29:01",
+      "album": {
+        "name": "O Re$To",
+        "url": "https://open.spotify.com/album/6iXe2Fi1uFGc06A2LFEjGg"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        },
+        {
+          "name": "DJ HYPE MYKE",
+          "url": "https://open.spotify.com/artist/1QJNTcEVJfb5qVsMvtA5ch"
+        }
+      ],
+      "duration_ms": 304600,
+      "name": "O Re$To",
+      "url": "https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R"
+    },
+    {
+      "added_at": "2023-12-14 11:29:01",
+      "album": {
         "name": "Pra Sempre (feat. Jimmy P & Dino d'Santiago)",
         "url": "https://open.spotify.com/album/7kyvtUprGFS8S2poWsYtEt"
       },
@@ -1435,6 +1411,22 @@
       "duration_ms": 195757,
       "name": "Pra Sempre (feat. Jimmy P & Dino d'Santiago)",
       "url": "https://open.spotify.com/track/6y7gYOHjUbj0HdTx5iGDuI"
+    },
+    {
+      "added_at": "2023-12-14 11:29:01",
+      "album": {
+        "name": "ALK",
+        "url": "https://open.spotify.com/album/2a5yMPRNFWcu0o2kwBgXcv"
+      },
+      "artists": [
+        {
+          "name": "Lhast",
+          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
+        }
+      ],
+      "duration_ms": 217715,
+      "name": "ES7\u00c1DIO",
+      "url": "https://open.spotify.com/track/3tDch5qsTummG1elCD2hjn"
     }
   ],
   "unique_name": "Rap Tuga Hits",

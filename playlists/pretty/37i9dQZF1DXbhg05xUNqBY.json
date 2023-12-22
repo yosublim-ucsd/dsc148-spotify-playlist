@@ -1,12 +1,12 @@
 {
   "description": "Breathe deep, and relax with the softer side of Christian music.",
-  "num_followers": 347710,
+  "num_followers": 347733,
   "original_name": "Calming Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDVjY2ZmODllYmU0YzZmNjMxODA3NjYzMDljOTU0YzRlYmE5YjA3",
+  "snapshot_id": "MCwyYzE4MjFiOTRmODIzMjIyOWEwMWNmMTFmNzM4YmIwZjYyMGVkYmVi",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:02",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
+        "name": "Peace to All Who Enter Here",
+        "url": "https://open.spotify.com/album/5OSq9qdMdN2DyGx90wekZk"
+      },
+      "artists": [
+        {
+          "name": "Josh Garrels",
+          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "Wash Me Clean",
+      "url": "https://open.spotify.com/track/7jnKoJHxdjjjQGqbkgyRPH"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
         "name": "Songs from Home",
         "url": "https://open.spotify.com/album/6jdZFEEGZA6KcSUiETNOUP"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 307062,
       "name": "Jesus My Beloved",
       "url": "https://open.spotify.com/track/4EsYYFhkGUz9kxjQzMx1D3"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
-        "name": "Peace to All Who Enter Here",
-        "url": "https://open.spotify.com/album/5OSq9qdMdN2DyGx90wekZk"
-      },
-      "artists": [
-        {
-          "name": "Josh Garrels",
-          "url": "https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "Wash Me Clean",
-      "url": "https://open.spotify.com/track/7jnKoJHxdjjjQGqbkgyRPH"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Twenty Four",
-        "url": "https://open.spotify.com/album/0tyhsvvuD7LAkKv2Z9FfU2"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Ogden",
-          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
-        }
-      ],
-      "duration_ms": 138019,
-      "name": "06:00 Sunrise",
-      "url": "https://open.spotify.com/track/3mCfc1Sf16fonjtBdxZOXC"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Helpless One",
         "url": "https://open.spotify.com/album/4MEBE9KVyYrQqDbUqZvyvN"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
+        "name": "Belovedness",
+        "url": "https://open.spotify.com/album/4B5hr91ODZS3Pn1zLz142m"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kroger",
+          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "Belovedness",
+      "url": "https://open.spotify.com/track/2pAyv8F5dFMahqD5of77ty"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
         "name": "Onward & Upward",
         "url": "https://open.spotify.com/album/6bPc9nUVS4Hk4M2RCGtjFi"
       },
@@ -651,18 +651,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Belovedness",
-        "url": "https://open.spotify.com/album/4B5hr91ODZS3Pn1zLz142m"
+        "name": "Quiet Talk",
+        "url": "https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW"
       },
       "artists": [
         {
-          "name": "Sarah Kroger",
-          "url": "https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH"
+          "name": "Jillian Edwards",
+          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
         }
       ],
-      "duration_ms": 222666,
-      "name": "Belovedness",
-      "url": "https://open.spotify.com/track/2pAyv8F5dFMahqD5of77ty"
+      "duration_ms": 168000,
+      "name": "Quiet Talk",
+      "url": "https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -699,18 +699,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Quiet Talk",
-        "url": "https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW"
+        "name": "Twenty Four",
+        "url": "https://open.spotify.com/album/0tyhsvvuD7LAkKv2Z9FfU2"
       },
       "artists": [
         {
-          "name": "Jillian Edwards",
-          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
+          "name": "Jonathan Ogden",
+          "url": "https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Quiet Talk",
-      "url": "https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg"
+      "duration_ms": 138019,
+      "name": "06:00 Sunrise",
+      "url": "https://open.spotify.com/track/3mCfc1Sf16fonjtBdxZOXC"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
+        "name": "Graves Into Gardens (Acoustic)",
+        "url": "https://open.spotify.com/album/2lgBs5Jkwh9k8LvRxCaNmF"
+      },
+      "artists": [
+        {
+          "name": "Will Morrison",
+          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
+        }
+      ],
+      "duration_ms": 278035,
+      "name": "Graves Into Gardens - Acoustic",
+      "url": "https://open.spotify.com/track/0yMTBqAAAtjNtCkphns47E"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/2wka6tv9YcVMl9MCHhmFii"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 219272,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/2AmHhr6CvjpvYqdXy02VgU"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
-        "name": "Graves Into Gardens (Acoustic)",
-        "url": "https://open.spotify.com/album/2lgBs5Jkwh9k8LvRxCaNmF"
-      },
-      "artists": [
-        {
-          "name": "Will Morrison",
-          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
-        }
-      ],
-      "duration_ms": 278035,
-      "name": "Graves Into Gardens - Acoustic",
-      "url": "https://open.spotify.com/track/0yMTBqAAAtjNtCkphns47E"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
+        "name": "Ever Closer",
+        "url": "https://open.spotify.com/album/71LjLdoffQMtueXs1nJkCc"
+      },
+      "artists": [
+        {
+          "name": "Shaylee Simeone",
+          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
+        }
+      ],
+      "duration_ms": 232687,
+      "name": "Ever Closer",
+      "url": "https://open.spotify.com/track/7FPk4lvq4NbxZhAcVn6vdI"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
         "name": "Be My Shalom",
         "url": "https://open.spotify.com/album/5Q3pr1K8HU2taEjuQavQac"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 187943,
       "name": "Be My Shalom",
       "url": "https://open.spotify.com/track/6eGFb1mib8IH3F6QGirRIG"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
-        "name": "Ever Closer",
-        "url": "https://open.spotify.com/album/71LjLdoffQMtueXs1nJkCc"
-      },
-      "artists": [
-        {
-          "name": "Shaylee Simeone",
-          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
-        }
-      ],
-      "duration_ms": 232687,
-      "name": "Ever Closer",
-      "url": "https://open.spotify.com/track/7FPk4lvq4NbxZhAcVn6vdI"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Holy, Holy, Holy",
-        "url": "https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB"
-      },
-      "artists": [
-        {
-          "name": "John Tibbs",
-          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Holy, Holy, Holy",
-      "url": "https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Evergreen",
         "url": "https://open.spotify.com/album/7ebIxlhEADsL5NNiWmRRuk"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 156270,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/0I5r1VOxCdRdmAnBkTcBFS"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Holy, Holy, Holy",
+        "url": "https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB"
+      },
+      "artists": [
+        {
+          "name": "John Tibbs",
+          "url": "https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Holy, Holy, Holy",
+      "url": "https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT"
     },
     {
       "added_at": "2023-02-07 17:43:02",

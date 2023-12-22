@@ -4,7 +4,7 @@
 
 > Smooth beats for sleepless nights.
 
-559 songs - 21 hr 3 min
+562 songs - 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Entangled](https://open.spotify.com/track/5YjyRNNS28iHVbrwrSyO0P) | [joorla](https://open.spotify.com/artist/6Dfu0b3T2H62yDNsMwfj2q) | [Entangled](https://open.spotify.com/album/0T0rIb0FY0FMnrL6TDXw1K) | 1:47 | 2022-11-11 |  |
 | [Enter the Dojo](https://open.spotify.com/track/0bUAIs5WK5z6NsNpSqPIwT) | [Soul Dojo](https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI) | [Enter the Dojo](https://open.spotify.com/album/2utx5xxfImWZ7EwkT7qwzg) | 1:28 | 2022-05-20 | 2022-06-10 |
 | [ephemeral](https://open.spotify.com/track/7cR6m3PDXpE3x6UfXhuLkK) | [ENRA](https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4) | [ephemeral](https://open.spotify.com/album/1Mw0bmt8iSZuWb626G7JkB) | 1:49 | 2022-05-20 | 2022-06-10 |
+| [exhale](https://open.spotify.com/track/57lhljt2lQn9x5hitpDjJ5) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [exhale](https://open.spotify.com/album/6zZLGaivwAi4f5i5DdZe3I) | 2:47 | 2023-12-22 |  |
 | [Facet](https://open.spotify.com/track/20daDJKdGNH1doL5LQYSVl) | [Manganese Sprinter](https://open.spotify.com/artist/3a9R6p2JMCzIPmdXA7d2yK) | [Facet](https://open.spotify.com/album/72mc2K3D3LfSf8PidsfH7i) | 3:28 | 2023-04-11 | 2023-10-01 |
 | [Falling](https://open.spotify.com/track/41x6WguVMsx9Mn0omCYMCO) | [Carlile G.](https://open.spotify.com/artist/1sFHTftk8Uv66yflP78Wi7) | [Falling](https://open.spotify.com/album/2PC3BMAAknWwEBMvepVhhK) | 2:47 | 2023-09-29 |  |
 | [Fascinations of Style](https://open.spotify.com/track/1oHZim30tpQXfZks6sgRrd) | [Madbank](https://open.spotify.com/artist/0PWa4U2yMdW9jOhrKv6SzI) | [Savage Hearts](https://open.spotify.com/album/719kSTPTYUbFa2ovAq0igN) | 2:40 | 2022-06-03 | 2022-09-17 |
@@ -439,6 +440,7 @@
 | [Seed of a Thought](https://open.spotify.com/track/6smNHgmjTDNJWaovT0NbRR) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj), [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [Seed of a Thought](https://open.spotify.com/album/3GnK0lasJIQFXFEc8SwLak) | 1:59 | 2022-05-20 | 2023-01-18 |
 | [Segundi](https://open.spotify.com/track/2nxl8OxEJVrQLpUGFiYiqo) | [Fuzl](https://open.spotify.com/artist/4PcJcSL24JeqLoQla78EPA), [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Segundi](https://open.spotify.com/album/5M16glnrF2da7Wcl7xr9V7) | 2:44 | 2022-05-20 | 2023-09-26 |
 | [Serene](https://open.spotify.com/track/7c5AVhL9bDKTrSsaYDHNpW) | [Saltyyyy V](https://open.spotify.com/artist/4EDHI70lFl3T53KI0uEqUG) | [Serene](https://open.spotify.com/album/1jgDDthw4uOqZRxNwYkZ4o) | 1:58 | 2022-05-20 |  |
+| [Seven Hundred Fourteen 七百十四](https://open.spotify.com/track/12V1thgB2Hos7uSU4rOqro) | [d.w.h](https://open.spotify.com/artist/2Mv14rolxu9z56WEkPIhZd) | [Seven Hundred Fourteen 七百十四](https://open.spotify.com/album/1NUA3c1HKGNj9Bl5uWh7x7) | 2:24 | 2023-12-22 |  |
 | [Seven Seas](https://open.spotify.com/track/2JopSERIXbuKbkeYdk2ZI7) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Seven Seas](https://open.spotify.com/album/1Y56nXdaB209z099ruA4jn) | 2:27 | 2022-11-25 | 2023-01-16 |
 | [Seven Seas](https://open.spotify.com/track/2yHEcXbsG36FNM9QNtTsNg) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Dimensions](https://open.spotify.com/album/24G9m7O40uKE7GfZRm9Fs8) | 2:27 | 2023-01-20 |  |
 | [Seven Seas](https://open.spotify.com/track/58QEUVMhf4ngIuJbmect7Y) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Seven Seas](https://open.spotify.com/album/2QcGmtIa9PTcwai3NlSedF) | 2:27 | 2023-01-13 | 2023-02-06 |
@@ -552,6 +554,7 @@
 | [Watercolors](https://open.spotify.com/track/0hHvL9j0j6cIgU5RZ8Sz3Z) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [Watercolors](https://open.spotify.com/album/7uFoovISuM4NRMCUKspVhg) | 2:42 | 2023-09-04 | 2023-12-14 |
 | [wavy night](https://open.spotify.com/track/4gYfc1q07d3jB3ZF3pfqNk) | [Sweeps](https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t) | [wavy night](https://open.spotify.com/album/3LNYg9nhotYP61JtCV5qOW) | 1:25 | 2022-12-16 |  |
 | [Waxing](https://open.spotify.com/track/4xG6I54kv59NsbELXreqHT) | [The Fibbers](https://open.spotify.com/artist/5n43zVDWitfC3uklfrNgQT) | [Waxing](https://open.spotify.com/album/6O7UB1QfYDyuh4fDyTbVs8) | 2:27 | 2022-05-20 | 2022-07-28 |
+| [wayitis](https://open.spotify.com/track/4YlAlxDG0YuYbTF2YteMl0) | [Twiggy Fiz](https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8) | [wayitis](https://open.spotify.com/album/65F6S0mhOFnwLcmXTscLOC) | 3:11 | 2023-12-22 |  |
 | [what if you fly](https://open.spotify.com/track/3aLbLjbcXA7TXbeJrLS4zi) | [lostoutside](https://open.spotify.com/artist/6VnH3ZBgQcJl7aukGnVjjL), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [what if you fly](https://open.spotify.com/album/6ClOqKfpK2cZsVnMgpzg4N) | 1:29 | 2022-10-14 |  |
 | [where were u](https://open.spotify.com/track/4lPug66ovwaHAqWJ1lUFLW) | [inthedark](https://open.spotify.com/artist/3VODOokOAtBPtnB1aAWtf6) | [where were u](https://open.spotify.com/album/2HAjfWz1lAJFKhGdO7QJ15) | 2:12 | 2022-06-24 |  |
 | [who's to say?](https://open.spotify.com/track/21VfOGn96ESFWTdQgavF9T) | [Gereoux](https://open.spotify.com/artist/1Euv0945nayOdRB6RTLDZz) | [who's to say?](https://open.spotify.com/album/4Epas4vX34ucs7J3iQz5JH) | 2:18 | 2022-11-25 | 2023-11-18 |

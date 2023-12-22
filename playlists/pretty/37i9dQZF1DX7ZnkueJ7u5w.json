@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica sabrosa para festejar la temporada de carnavales en M\u00e9xico. ",
-  "num_followers": 266058,
+  "num_followers": 266065,
   "original_name": "Carnaval en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTY4ZjRkYTQ1ZDc3MTcwYjFjNzQwMWMwOGNjYzk0ZjcxMGRhMzc4",
+  "snapshot_id": "MCw3NjNhZWJlMzAxMTM3ZjBhNDU3ZDJkZjA1ZDY2ZGM5YmUzOTMyNWM3",
   "tracks": [
     {
       "added_at": "2022-08-02 22:46:01",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-08-02 22:46:01",
       "album": {
-        "name": "Amor De 3",
-        "url": "https://open.spotify.com/album/70l7WreOvHkn9Jqbh0aqsF"
-      },
-      "artists": [
-        {
-          "name": "Aroma",
-          "url": "https://open.spotify.com/artist/0IZ9yCkg8kUjJNwMA8SHYX"
-        }
-      ],
-      "duration_ms": 188440,
-      "name": "Amor De Tres",
-      "url": "https://open.spotify.com/track/2EAXWHqQhNxgJbg1ZnOXZ3"
-    },
-    {
-      "added_at": "2022-08-02 22:46:01",
-      "album": {
         "name": "Lleg\u00f3 Pap\u00e1",
         "url": "https://open.spotify.com/album/392HEBX1hSP3IyUfuixNUv"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 198635,
       "name": "La Mujer del Pelotero",
       "url": "https://open.spotify.com/track/3dljpxvacIs8jux3Dd1nRw"
+    },
+    {
+      "added_at": "2022-08-02 22:46:01",
+      "album": {
+        "name": "Amor De 3",
+        "url": "https://open.spotify.com/album/70l7WreOvHkn9Jqbh0aqsF"
+      },
+      "artists": [
+        {
+          "name": "Aroma",
+          "url": "https://open.spotify.com/artist/0IZ9yCkg8kUjJNwMA8SHYX"
+        }
+      ],
+      "duration_ms": 188440,
+      "name": "Amor De Tres",
+      "url": "https://open.spotify.com/track/2EAXWHqQhNxgJbg1ZnOXZ3"
     },
     {
       "added_at": "2022-08-02 22:46:01",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-08-02 22:46:01",
       "album": {
-        "name": "The Reventon: 30 Pegaditas",
-        "url": "https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 263253,
-      "name": "El Baile del Perrito",
-      "url": "https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo"
-    },
-    {
-      "added_at": "2022-08-02 22:46:01",
-      "album": {
         "name": "A Medio Vivir",
         "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 262573,
       "name": "Mar\u00eda",
       "url": "https://open.spotify.com/track/0QQHPRbgLJJ5XNzJV1l9BW"
+    },
+    {
+      "added_at": "2022-08-02 22:46:01",
+      "album": {
+        "name": "The Reventon: 30 Pegaditas",
+        "url": "https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 263253,
+      "name": "El Baile del Perrito",
+      "url": "https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo"
     },
     {
       "added_at": "2022-08-02 22:46:01",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-08-02 22:46:01",
       "album": {
-        "name": "Cumbia De Los Cuervos",
-        "url": "https://open.spotify.com/album/2gFrECRltBPCOy0EvY37dq"
-      },
-      "artists": [
-        {
-          "name": "Grupo Super T",
-          "url": "https://open.spotify.com/artist/6F2FQ9MYBUtc7telIlwBKN"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "Nena",
-      "url": "https://open.spotify.com/track/4IimwTTiXvDLjrRoWUebkW"
-    },
-    {
-      "added_at": "2022-08-02 22:46:01",
-      "album": {
         "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 1",
         "url": "https://open.spotify.com/album/3j4M5k6i3DA7fxfHXasvSp"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 261484,
       "name": "De Punta a Punta",
       "url": "https://open.spotify.com/track/21SlXIY6FZw7RcMqLRm901"
+    },
+    {
+      "added_at": "2022-08-02 22:46:01",
+      "album": {
+        "name": "Cumbia De Los Cuervos",
+        "url": "https://open.spotify.com/album/2gFrECRltBPCOy0EvY37dq"
+      },
+      "artists": [
+        {
+          "name": "Grupo Super T",
+          "url": "https://open.spotify.com/artist/6F2FQ9MYBUtc7telIlwBKN"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "Nena",
+      "url": "https://open.spotify.com/track/4IimwTTiXvDLjrRoWUebkW"
     }
   ],
   "unique_name": "Carnaval en M\u00e9xico",

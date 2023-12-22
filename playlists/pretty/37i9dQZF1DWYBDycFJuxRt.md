@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: なとり \*👉 <a href="https://spice.eplus.jp/articles/324821?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,526 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,640 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 23 | [Bikini Freestyle](https://open.spotify.com/track/07XmrQKnUdgutRECCeZCr1) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Pink Crocodile](https://open.spotify.com/album/1dxdRkMljoxEr29devaQhr) | 2:09 |
 | 24 | [Nanairo Colorful](https://open.spotify.com/track/4BNOwFIKjYB56oFhCZx57O) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE) | [Nanairo Colorful](https://open.spotify.com/album/357Rk5z5HzJ6HIb12RgZYq) | 2:42 |
 | 25 | [you are here](https://open.spotify.com/track/4UP3XbEEADUSK1zHnHjEu3) | [Miu Sakamoto](https://open.spotify.com/artist/53MtqYIMvV1Z2L6FCh9f3h) | [あなたがだれのこどもであろうと](https://open.spotify.com/album/6lAU8ES9faDFTk9JCd6ttg) | 3:02 |
-| 26 | [君の居場所](https://open.spotify.com/track/2p2aLfEpB9ItHaT5yC9Ylx) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [君の居場所](https://open.spotify.com/album/15x6ok2P0OFJrmk9DcAVUN) | 3:43 |
+| 26 | [Have a Good Time Here](https://open.spotify.com/track/3rDewXZvbOQPWUR8TPi6VW) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [Have a Good Time Here](https://open.spotify.com/album/2oRX6o3vzi8w3EQQla48LW) | 3:43 |
 | 27 | [今だから](https://open.spotify.com/track/0HelTLdRDpIAXpR5oBfkmb) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU), [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR), [Kazuo Zaitsu](https://open.spotify.com/artist/6BcIYPy8YuukxAZjFpBKcB) | [ユーミン乾杯!!～松任谷由実50周年記念コラボベストアルバム～](https://open.spotify.com/album/6LNustkOXsrHo2bt4bHyxX) | 4:12 |
 | 28 | [Kosansengen](https://open.spotify.com/track/1U1WUqhSHi35ZCYEtyH9c4) | [Zukai](https://open.spotify.com/artist/49yQ9JDtRuZ0kYf2ncmVoR) | [Kosansengen](https://open.spotify.com/album/3fXd87nD0hfPevWspy3w0G) | 3:24 |
 | 29 | [寝顔](https://open.spotify.com/track/7hWvwXjAVgByShizI6ZCSL) | [mol\-74](https://open.spotify.com/artist/7sVShwPweG5PNLgVPdWlbx) | [寝顔](https://open.spotify.com/album/4MSvpJOFCsFraMazHjvCYF) | 4:00 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 65 | [ほかりたい](https://open.spotify.com/track/4uMG1zOKZlXdGMWxbePCoR) | [鍵を返せ](https://open.spotify.com/artist/5Mzb8gbFXMwiaEwXGYfZqj) | [ほかりたい](https://open.spotify.com/album/6tzQWd7MtXhCVAtFLy9KhQ) | 2:29 |
 | 66 | [フォーエバートゥエンティーンズ](https://open.spotify.com/track/5SZLeIN1qdDzvlqJA43ija) | [sanetii](https://open.spotify.com/artist/109bnAEaRhXbAKv7rlP1yy) | [フォーエバートゥエンティーンズ](https://open.spotify.com/album/1s6cmneYCxXj2WwtK1YYgb) | 3:15 |
 | 67 | [I Want To Take You Higher](https://open.spotify.com/track/0vlYu1QTymuj3725dJHEXX) | [FRONTIER BACKYARD](https://open.spotify.com/artist/5MW5Dg53vAA4Rorq0I51xy) | [OUR SONG BOOK vol.1](https://open.spotify.com/album/1KFYt7ymhTpWCeZNBIx2zA) | 3:51 |
-| 68 | [I Feel It Coming](https://open.spotify.com/track/1Iy7Gj9miFq3ZkaSNVAzMh) | [KH](https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr), [The LASTTRAK](https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT), [中野陽介 \(Emerald\)](https://open.spotify.com/artist/0739BfOyf0T8AiIKiS6ZcX) | [Out of Time / I Feel It Coming](https://open.spotify.com/album/2snAPXmUcIxZOHh5C6ILq2) | 4:21 |
+| 68 | [I Feel It Coming](https://open.spotify.com/track/1Iy7Gj9miFq3ZkaSNVAzMh) | [KH](https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr), [The LASTTRAK](https://open.spotify.com/artist/27tedpw5lwTFuWL8i8xVqT), [中野陽介](https://open.spotify.com/artist/5bH25QCn5bJU3XhycPQj49) | [Out of Time / I Feel It Coming](https://open.spotify.com/album/2snAPXmUcIxZOHh5C6ILq2) | 4:21 |
 | 69 | [幻](https://open.spotify.com/track/1IgxmXN91aYEfa2BEyiQaL) | [小田奈都美](https://open.spotify.com/artist/5evvUVk68oUVaG4ugqe0KP) | [幻](https://open.spotify.com/album/2tTnaSiZcSOaiEYVFD8Ntd) | 3:45 |
 | 70 | [Cube](https://open.spotify.com/track/3QSUyvnLOX7t6ygwI2RTGb) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [Cube](https://open.spotify.com/album/6EDyXrQifwCdJP5jnX9B65) | 2:58 |
 | 71 | [Oboresounahodo](https://open.spotify.com/track/0cYopjWQjMk4CXCuBFDv4A) | [ELIONE](https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg), [ineedmorebux](https://open.spotify.com/artist/0bEjmuZL2XkenAxv5YMBxW), [Billy Laurent](https://open.spotify.com/artist/64ysMi7mJ9cs9f0fhpDJuM), [Masato Hayashi](https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2) | [Oboresounahodo](https://open.spotify.com/album/4sRDMulpWKhmUd0B5YgI6w) | 3:09 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 79 | [飛龍\-FeiLong\-](https://open.spotify.com/track/3sE7WksvGo4r2gycSVQouZ) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [飛龍\-FeiLong\-](https://open.spotify.com/album/4iuekehbseN4nIpu7eRZb3) | 3:03 |
 | 80 | [Ashibi Shongane](https://open.spotify.com/track/7clfeWpxZ1Wjq77VlweqiN) | [ORIONBEATS](https://open.spotify.com/artist/5hixBKi8QWh0QVexx69CgI), [Ayanoize](https://open.spotify.com/artist/6xCcuss1kqrQz8dJ2PhLUl) | [Ashibi Shongane](https://open.spotify.com/album/1nYJgjQkCeiKRwmlRN7FTk) | 3:35 |
 
-Snapshot ID: `MCxlNGQyOTIxYjA2MWRkNzg1ZjI2NjE1OWM4NGQyYTA2NzA5MzBkMjkw`
+Snapshot ID: `MCw3OWNkNWE3ZTE0OGRmMmFmMjJmYjEyZGNiZjIzZmM1MDE1NWZlYzk0`

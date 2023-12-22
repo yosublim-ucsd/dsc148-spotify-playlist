@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover:Park Ji Yoon\(박지윤\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover:LEEWOO\(이우\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,114 songs - 3 day 0 hr 9 min
+1,116 songs - 3 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Confession Is Not Flashy](https://open.spotify.com/track/0q58M70BS6kq2q82rpwxcz) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/0Z2dJ96Dei0wMA7Lz2dpgQ) | 3:48 | 2021-12-23 | 2022-06-20 |
 | [Could you come out for a second \(Prod\. YounToven\)](https://open.spotify.com/track/1tQ7LxGCwvAYFKsZZhBRZd) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Could you come out for a second \(Prod\. YounToven\)](https://open.spotify.com/album/1QzfVa9kZIc6PFvpIwtxFS) | 3:16 | 2023-11-02 |  |
 | [Crush on you](https://open.spotify.com/track/3TUPqVuyNK2mPeA9QmHygo) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Crush on you](https://open.spotify.com/album/15XmBCE8jEWzbqzD0Z1vuw) | 2:55 | 2023-09-14 | 2023-11-03 |
+| [Curiosity](https://open.spotify.com/track/2XCErHtPrNPA3SIYgAoica) | [MIJOO](https://open.spotify.com/artist/3kDLzk5AtS3cQaVXkISAzO) | [Curiosity](https://open.spotify.com/album/3DKezdDevdEAMi3gT3czOt) | 3:24 | 2023-12-21 |  |
 | [Darling](https://open.spotify.com/track/1W5IcItEBB4x58xlcFUG6t) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Darling](https://open.spotify.com/album/3E66L4GRXng49nIsQloQFi) | 3:52 | 2021-12-23 | 2022-04-17 |
 | [dawn call from you](https://open.spotify.com/track/6q5qD963d6AuwUF7NAcVhl) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [talks about regret](https://open.spotify.com/album/6019Bbt3r3wVPpV5OWaUSx) | 3:57 | 2022-08-01 | 2022-12-27 |
 | [Daydream](https://open.spotify.com/track/0ZgukDLNhyKfkBcIDD8Myh) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [The Secret Romantic Guesthouse Part.3](https://open.spotify.com/album/2vPvuYUh75pYGUDE4X6uj2) | 3:45 | 2023-04-26 | 2023-08-25 |
@@ -880,6 +881,7 @@
 | [The day we broke up](https://open.spotify.com/track/2ry6V0XvWpEugIWVq4YEVg) | [Lee A Young](https://open.spotify.com/artist/5FpU6Sx82VSTvnoxtbVv6q) | [The day we broke up](https://open.spotify.com/album/2fVDu45mIJtxBZKBAQwy3d) | 3:17 | 2023-08-31 | 2023-11-03 |
 | [The Days We Loved](https://open.spotify.com/track/4cP9dl3mgXIMoX7BcXeVUe) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [The World of the Married, Pt.6 \(Original Television SoundTrack\)](https://open.spotify.com/album/2CA8HkbB26gmzF1KCr5f70) | 4:01 | 2022-03-29 | 2022-04-17 |
 | [The days we were us](https://open.spotify.com/track/0ePTSwGDAWLKhDrbIzb8Qb) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [The days we were us](https://open.spotify.com/album/7vvtZbiMrqKELCfimoAP12) | 4:06 | 2022-11-22 | 2023-01-21 |
+| [the different way](https://open.spotify.com/track/1ajbBbe73q6D6KbY4YuRwC) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz) | [SHE](https://open.spotify.com/album/0iRDF7wPErnrRDaL0XpRZw) | 3:37 | 2023-12-21 |  |
 | [The fact that we broke up \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/4PIJlapmFh8ZXCpKPvdLlU) | [Dawn window](https://open.spotify.com/artist/5nIoYbALPbBGdyajpNGqTm), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [The fact that we broke up](https://open.spotify.com/album/3e00wKIxPpDz6ROLp6wTDP) | 3:49 | 2022-06-18 | 2022-08-19 |
 | [The first love \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 3\]](https://open.spotify.com/track/6DRQvyJXF7st78fCAn9bT7) | [YODAYOUNG](https://open.spotify.com/artist/3TE3mzbf7EouO9qVs7ja6w) | [The first love \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 3\]](https://open.spotify.com/album/0JzL8yKGTU8CxBmZRFFOmR) | 3:56 | 2021-12-23 | 2022-06-06 |
 | [The first moment](https://open.spotify.com/track/05qHfI61F95lluddfpyxk9) | [Jueun](https://open.spotify.com/artist/7n9JiWW3jLlSm7WGaIrD8U) | [Kokdu: Season of Deity \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/17YJmjOShQ9NtxffEX70U8) | 3:27 | 2023-03-15 | 2023-07-08 |

@@ -2,7 +2,7 @@
 
 ### [BlueZA](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> Only the best in South African and international RnB\. Cover: <a href="https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE?si=0UB5UrM3SRKJyuFiLPDgfQ">Tyla</a>
+> Only the best in South African and international RnB\. Cover: <a href="https://open.spotify.com/artist/1qoXgLST4EUgUB9Ml5jVOp?si=4Uvs9o\_ITnmwaSdVA7bV7w">Phiwo</a>
 
 115 songs - 6 hr 5 min
 

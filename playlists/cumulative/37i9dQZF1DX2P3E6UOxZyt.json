@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\uff01Cover: Andr",
+  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\uff01Cover: \u6301\u4fee (Chih Siou)",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -228,7 +228,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 210000,
       "name": "Black Panther",
       "url": "https://open.spotify.com/track/6OHNx1ADztv9b8mCBi2Y5s"
@@ -282,7 +282,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 228284,
       "name": "But I",
       "url": "https://open.spotify.com/track/3zW7IHhXdlFs29zeuaAOMB"
@@ -948,7 +948,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-29",
+      "date_removed": null,
       "duration_ms": 223293,
       "name": "Friends Or ?",
       "url": "https://open.spotify.com/track/6cd94309FnLgWru6RfSYR4"
@@ -1956,7 +1956,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-28",
+      "date_removed": null,
       "duration_ms": 190898,
       "name": "Oh Bob",
       "url": "https://open.spotify.com/track/42esXDlrZgK4EMhwsLjBhd"
@@ -3068,7 +3068,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 189705,
       "name": "You Say Goodbye Easily",
       "url": "https://open.spotify.com/track/4JiP9YjPXjP8Axcx779PKk"
@@ -4712,7 +4712,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 247210,
       "name": "\u59b3\u8aaa\u59b3\u9084\u4e0d\u4e86",
       "url": "https://open.spotify.com/track/6yXggBqj00PxhlFzIrKekS"
@@ -5536,6 +5536,28 @@
       "duration_ms": 212765,
       "name": "\u6211\u4e0d\u662f\u9952\u820c\u6b4c\u624b",
       "url": "https://open.spotify.com/track/4M8aT4P3AlJUGQ4DqaXJpV"
+    },
+    {
+      "album": {
+        "name": "\u6211\u5011 (Vicky\u7248)",
+        "url": "https://open.spotify.com/album/4DHZNSaC7EcF6HjxPTOJha"
+      },
+      "artists": [
+        {
+          "name": "Vicky Chen",
+          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
+        },
+        {
+          "name": "W.M.L",
+          "url": "https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126144,
+      "name": "\u6211\u5011 - Vicky\u7248",
+      "url": "https://open.spotify.com/track/4XnD0PA97QgSeaecGVXfFc"
     },
     {
       "album": {
@@ -6475,6 +6497,24 @@
     },
     {
       "album": {
+        "name": "\u6c92\u6709\u6211\u7684\u90a3\u500b\u5b87\u5b99",
+        "url": "https://open.spotify.com/album/2KjoiKcYc8kzw3rD7nDNb3"
+      },
+      "artists": [
+        {
+          "name": "Chih Siou",
+          "url": "https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191276,
+      "name": "\u6c92\u6709\u6211\u7684\u90a3\u500b\u5b87\u5b99",
+      "url": "https://open.spotify.com/track/6UnzW55tMsnOEn7nLftP5r"
+    },
+    {
+      "album": {
         "name": "\u6c92\u6709\u95dc\u4fc2",
         "url": "https://open.spotify.com/album/56TgG6JFlQHeQFMbXDg4Wt"
       },
@@ -6486,7 +6526,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 160208,
       "name": "\u6c92\u6709\u95dc\u4fc2",
       "url": "https://open.spotify.com/track/79TMN9XqG2uwuhgVUw7siC"
@@ -6758,7 +6798,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 246000,
       "name": "\u70ed\u5e26\u96e8 - \u300a\u70ed\u5e26\u96e8\u300b\u7535\u5f71\u540c\u540d\u4e3b\u9898\u66f2",
       "url": "https://open.spotify.com/track/7JrUmfeLQTT4zO0KAqnBIe"
@@ -6954,7 +6994,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 193319,
       "name": "\u7528\u7834\u788e\u7684\u5fc3\u4fee\u597d\u7834\u788e\u7684\u5fc3",
       "url": "https://open.spotify.com/track/3gadohEpBNZnUAdMu0TOBp"
@@ -7615,6 +7655,24 @@
     },
     {
       "album": {
+        "name": "\u6975\u5149",
+        "url": "https://open.spotify.com/album/71CAN7GIFFxgeuXvoME2ur"
+      },
+      "artists": [
+        {
+          "name": "Young",
+          "url": "https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174878,
+      "name": "\u8ab0\u60f3\u8ddf\u4f60\u7576\u597d\u670b\u53cb",
+      "url": "https://open.spotify.com/track/4MGl5RSQbtkiQ8f2miGoiI"
+    },
+    {
+      "album": {
         "name": "I",
         "url": "https://open.spotify.com/album/26yqvFjCkJ4W69WDtnnz6f"
       },
@@ -7778,7 +7836,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 226774,
       "name": "\u8d77\u9ede",
       "url": "https://open.spotify.com/track/2uJgXbj2oav0Z57t4gIruz"
@@ -7850,7 +7908,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 153177,
       "name": "\u8df3\u821e\u7684\u732b",
       "url": "https://open.spotify.com/track/7dryI2oKSV5C0ramBteshK"

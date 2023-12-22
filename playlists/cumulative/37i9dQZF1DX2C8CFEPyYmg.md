@@ -4,7 +4,7 @@
 
 > Soothing strings for our sleepy little ones.
 
-469 songs - 14 hr 27 min
+472 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,9 @@
 | [Baby Swan Dreams](https://open.spotify.com/track/6m1Bxt4WfWlx5JD2Adp3Dr) | [Moon and Their Friends](https://open.spotify.com/artist/3ANlGiyXKGgsSJCufuut5T) | [Baby Swan Dreams](https://open.spotify.com/album/1C5NXZbIW15RZEoTiF7hBV) | 1:47 | 2022-11-25 |  |
 | [Babysteps](https://open.spotify.com/track/06xkMOMeIKVDhG7mGo218A) | [Mimmi East](https://open.spotify.com/artist/5JD1k7FiD0YmTS7Xcv3RF6) | [Babysteps](https://open.spotify.com/album/1Cz50rG7BSkRQDi7tF4iSu) | 1:04 | 2022-08-11 | 2023-06-16 |
 | [Bä, bä, vita lamm](https://open.spotify.com/track/4s7RQ4fzclmxmEzuCiFj9f) | [Simon Fjällström](https://open.spotify.com/artist/5cmNqNdfwQv9XZWjT7YGpT) | [Bedtime Lullabies](https://open.spotify.com/album/0VLjmHAqOa6R1pv7MttzLL) | 1:36 | 2022-08-11 | 2022-10-29 |
+| [Beautiful Dreamer](https://open.spotify.com/track/1rF8701CXgc6si6F0dL5FU) | [Angeline Delaunay](https://open.spotify.com/artist/4v4KtI8f8puIEpQ4SoW270) | [Beautiful Dreamer](https://open.spotify.com/album/4t8q5lh2SJO5dE92gm79nw) | 1:37 | 2023-12-22 |  |
 | [Beautiful Dreamer](https://open.spotify.com/track/74a4lvusf5aaocjmfYlNLH) | [Sia Bradley](https://open.spotify.com/artist/4o9QVRe1jOStjIsC4tIkdz) | [Beautiful Dreamer](https://open.spotify.com/album/0FVCReDPOPfadN0trS1saa) | 1:50 | 2022-08-11 | 2022-10-29 |
+| [Beauty and the Beast](https://open.spotify.com/track/61SAnZrvmVUVloSMfLUViW) | [Salma Bolea](https://open.spotify.com/artist/1oSv4SByCh3CRXwj2105DM) | [Beauty and the Beast](https://open.spotify.com/album/5nRgwCpMoA7D4g5VzsPtkB) | 1:47 | 2023-12-22 |  |
 | [Bedtime for Julie \- Guitar Version](https://open.spotify.com/track/26OXunNuaPYR2nW3GMeA9Z) | [Steffi du Retz](https://open.spotify.com/artist/7COfBp7javjOBGr1ibVPA8) | [Bedtime for Julie \(Guitar Version\)](https://open.spotify.com/album/0KT0iv8VpEY45gsBUii8zM) | 2:03 | 2022-11-25 |  |
 | [Bedtime Song](https://open.spotify.com/track/1VQoBu1BFz1VicW34FUGmW) | [High Road Guitars](https://open.spotify.com/artist/0f6A9z1kx48hxKrL0trfGw) | [Bedtime Song](https://open.spotify.com/album/7CV29FfihxpwnunsoDAVfH) | 1:36 | 2022-08-11 | 2023-02-18 |
 | [Bedtimes Poems](https://open.spotify.com/track/6YpPCYMFLD5jU4lPptIRFF) | [My Little Guitar](https://open.spotify.com/artist/0N43eonuFdAXrUaAyFJAmQ) | [Bedtimes Poems](https://open.spotify.com/album/5AE0Q8Pjh7L6HpYobpbgdS) | 3:20 | 2022-08-11 | 2023-05-19 |
@@ -150,9 +152,10 @@
 | [Flying To Neverland](https://open.spotify.com/track/4ZDyIkGlce4qMbWFUcXa8a) | [Michaela Quinn](https://open.spotify.com/artist/7cW08KYG0Liawn96x7fAXX) | [Lullaby Harp](https://open.spotify.com/album/1BppJxOxiMcWvQJoJ5JeGq) | 1:42 | 2022-08-11 |  |
 | [Follow The Moon](https://open.spotify.com/track/7l5Ff2ZywsoiAp4y3wpP8c) | [Deanna Lyles](https://open.spotify.com/artist/4jwsZTsLuuek8koKSClnDw) | [Follow The Moon](https://open.spotify.com/album/6ilH29lKYLZszNfUA8YWEJ) | 1:38 | 2022-08-11 |  |
 | [Frances Flamingo](https://open.spotify.com/track/3qIALRjdK35omz1lCcMllw) | [Layla Malley](https://open.spotify.com/artist/2APHMT2p7Cp8GbJvaOfvk1) | [Frances Flamingo](https://open.spotify.com/album/5stM92omwSJQVBvf4jmOZN) | 1:31 | 2022-08-11 |  |
-| [Frere Jacques](https://open.spotify.com/track/10o2IooSoAxkvKonJDEbcz) | [Dajana Goff](https://open.spotify.com/artist/5yCGYGmKqaBkh4d8KtVgzE) | [Frere Jacques \- Lullabies on Harp](https://open.spotify.com/album/1joinFXzUeiDzA9jGtC4Sr) | 2:26 | 2022-08-11 |  |
+| [Frere Jacques](https://open.spotify.com/track/10o2IooSoAxkvKonJDEbcz) | [Dajana Goff](https://open.spotify.com/artist/5yCGYGmKqaBkh4d8KtVgzE) | [Frere Jacques \- Lullabies on Harp](https://open.spotify.com/album/1joinFXzUeiDzA9jGtC4Sr) | 2:26 | 2022-08-11 | 2023-12-22 |
 | [Friendship](https://open.spotify.com/track/4HtLnFbQPAZLFWYh9l8ulM) | [Tibby Andrewson](https://open.spotify.com/artist/74Pwf4cFdOvPBXYqSO1LMe) | [Friendship](https://open.spotify.com/album/1oaqL17MaHwhRdiqspYD2d) | 1:39 | 2022-08-11 | 2023-05-19 |
 | [From My Heart](https://open.spotify.com/track/2tFIVTK6HMxsqW9wDMn6fG) | [Callie Berger](https://open.spotify.com/artist/6oE1DSOeQTgGMvLpFVnnjs) | [From My Heart](https://open.spotify.com/album/1908AsfmF9uDmDobFgTqkT) | 1:39 | 2022-08-11 |  |
+| [Frère Jacques \(Are you Sleeping, Brother John\)](https://open.spotify.com/track/2pvJEckkQJWM9zNwJLdmm9) | [Roary Hayes](https://open.spotify.com/artist/0BjdWFICerD6wyuHLAOPUa) | [Frère Jacques \(Are you Sleeping, Brother John\)](https://open.spotify.com/album/19e46jBhbIyTfa7f1YXUKm) | 1:35 | 2023-12-22 |  |
 | [Gently Slow](https://open.spotify.com/track/08RpEhbRnJzzt318TOEEPJ) | [Mimmi East](https://open.spotify.com/artist/5JD1k7FiD0YmTS7Xcv3RF6) | [Gently Slow](https://open.spotify.com/album/20dortqEfJRZJmobdM7g48) | 2:15 | 2022-08-11 | 2023-06-16 |
 | [Giver of All Dreams](https://open.spotify.com/track/0L5Y4smsxJ2l4QJpbKfZRQ) | [Kim Wayne](https://open.spotify.com/artist/61rwfAiRHfG3L9DEvzUQoW) | [As You Fall Asleep](https://open.spotify.com/album/3Wh3lssmmWfvlTC3xouIXP) | 1:31 | 2022-08-11 | 2022-10-29 |
 | [Go the Distance](https://open.spotify.com/track/44QuIQOudSIgY6coo40j6w) | [Esmé Dean](https://open.spotify.com/artist/3AidWvpVrxSP3vCHDXqRHF) | [Go the Distance](https://open.spotify.com/album/3jzttgjkLZ1w8SstT7gtxR) | 1:28 | 2023-01-20 | 2023-09-08 |
@@ -318,7 +321,7 @@
 | [Rain, Rain, Go Away](https://open.spotify.com/track/3zmJ8KlMAGpS4hpqDJ5xmA) | [Micci Rogers](https://open.spotify.com/artist/5ne1I2oi3j1HJTWK2Luk9z) | [This Old Man](https://open.spotify.com/album/3lchEgofOY5DYfGnFj58DD) | 1:48 | 2022-08-11 |  |
 | [Rainbow](https://open.spotify.com/track/1rSleLhjhHJj2H89tgA7rN) | [Lucas Morel](https://open.spotify.com/artist/5qmQ7yN4yUtz77k2JhY3Mu) | [Rainbow](https://open.spotify.com/album/3d6NOgTphkJbxHNtBtPyT5) | 1:15 | 2023-05-19 |  |
 | [Ring Around The Rosie](https://open.spotify.com/track/67ATkKg9EIm2h6LRRSC2ZO) | [Tippy Tapp](https://open.spotify.com/artist/3mfGOb7OtunRN7s8MiRczA) | [Ring Around The Rosie](https://open.spotify.com/album/0RbeqCPbK4vxnzrZNDrzMa) | 1:39 | 2023-02-24 |  |
-| [Robin Redbreast](https://open.spotify.com/track/1dnGZt3PZpiFXj0s9dH5d6) | [William Bilford](https://open.spotify.com/artist/7LVVFIS8cyyb9aM5OV3Im0) | [Robin Redbreast](https://open.spotify.com/album/4BEB74XhGt2xiOMvLcw8tW) | 1:42 | 2023-05-19 |  |
+| [Robin Redbreast](https://open.spotify.com/track/1dnGZt3PZpiFXj0s9dH5d6) | [William Bilford](https://open.spotify.com/artist/7LVVFIS8cyyb9aM5OV3Im0) | [Robin Redbreast](https://open.spotify.com/album/4BEB74XhGt2xiOMvLcw8tW) | 1:42 | 2023-05-19 | 2023-12-22 |
 | [Rock A Bye Baby](https://open.spotify.com/track/3I31ZqTMemYn9LqnZf5cJt) | [Bianca Fuentes](https://open.spotify.com/artist/56kLVWogvECAhGHFoVXlqx) | [Rock A Bye Baby](https://open.spotify.com/album/49JxwC2Vp7wUHNuihwgg2l) | 1:35 | 2022-10-28 |  |
 | [Rock\-a\-Bye Baby \(Harp Version\)](https://open.spotify.com/track/3pxobkrGecsRGt0YAT99nA) | [Gabriel Lucas](https://open.spotify.com/artist/3duTy2PIQRyuhd0Q0AnanD) | [Rock\-a\-Bye Baby](https://open.spotify.com/album/0u4yBrpeAFMwxc2Qp79Prr) | 1:50 | 2022-08-11 | 2022-10-29 |
 | [Row Row Row Your Boat](https://open.spotify.com/track/2182KvEnqJQ6YfTmobpXwI) | [Alby Graham](https://open.spotify.com/artist/6290bXO73fADsTGqEn7UGM) | [Row Row Row Your Boat](https://open.spotify.com/album/1PvHQyoli2uqfZ2wS8YpO9) | 1:49 | 2023-05-19 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa con Papichamp, The la Planta, El negro tecla, Lolo OG & Locura Mix.",
-  "num_followers": 567730,
+  "num_followers": 567878,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGI2OGYwOWZhYmI2NzIyOTA3Njk0Mzc1ZmMxZmU4ZDUwMGM4YjE5",
+  "snapshot_id": "MCw4Y2Y4ZWRhMTJjZTcxMTA2YTc3MmJhZDBlZTQwZTEzZWYxYzdmZWY4",
   "tracks": [
     {
       "added_at": "2023-12-15 03:00:00",
@@ -431,6 +431,30 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Auto Al Piso",
+        "url": "https://open.spotify.com/album/3wCxXHDzoxH1XS6Z8u8Uuy"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+        },
+        {
+          "name": "Locura Mix",
+          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
+        }
+      ],
+      "duration_ms": 174580,
+      "name": "Auto Al Piso",
+      "url": "https://open.spotify.com/track/2YwFbO158HeAMCSjSaouRu"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Cumbia Villera",
         "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
       },
@@ -459,30 +483,6 @@
       "duration_ms": 212062,
       "name": "Una Calle Nos Separa",
       "url": "https://open.spotify.com/track/68tIkBAvIpA5LNpG4xplME"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Auto Al Piso",
-        "url": "https://open.spotify.com/album/3wCxXHDzoxH1XS6Z8u8Uuy"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "El negro tecla",
-          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
-        },
-        {
-          "name": "Locura Mix",
-          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
-        }
-      ],
-      "duration_ms": 174580,
-      "name": "Auto Al Piso",
-      "url": "https://open.spotify.com/track/2YwFbO158HeAMCSjSaouRu"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1103,6 +1103,34 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "EXCUSAS",
+        "url": "https://open.spotify.com/album/1eeSI54GxvlHs3AMnZhbK0"
+      },
+      "artists": [
+        {
+          "name": "OKY",
+          "url": "https://open.spotify.com/artist/6MLsGkmMLs3wFwNRleDyeU"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "NEGRO DUB",
+          "url": "https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA"
+        },
+        {
+          "name": "Dj Lauuh",
+          "url": "https://open.spotify.com/artist/1spz7NNmvQQbTAyFxPGKAF"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "EXCUSAS",
+      "url": "https://open.spotify.com/track/5CNMBlU7Ovc75rNEtenbVH"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Los Maleantes",
         "url": "https://open.spotify.com/album/4Qjy0jhjBUFH1btd8lmg6Q"
       },
@@ -1131,34 +1159,6 @@
       "duration_ms": 243957,
       "name": "De Regreso Al Penal",
       "url": "https://open.spotify.com/track/2PpnjTOCtpBjAmEDu10Vr8"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "EXCUSAS",
-        "url": "https://open.spotify.com/album/1eeSI54GxvlHs3AMnZhbK0"
-      },
-      "artists": [
-        {
-          "name": "OKY",
-          "url": "https://open.spotify.com/artist/6MLsGkmMLs3wFwNRleDyeU"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "NEGRO DUB",
-          "url": "https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA"
-        },
-        {
-          "name": "Dj Lauuh",
-          "url": "https://open.spotify.com/artist/1spz7NNmvQQbTAyFxPGKAF"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "EXCUSAS",
-      "url": "https://open.spotify.com/track/5CNMBlU7Ovc75rNEtenbVH"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1955,6 +1955,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Solo Le Pido a Dios",
+        "url": "https://open.spotify.com/album/2wNfH17ST3K7xM2OjeZDWY"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 229840,
+      "name": "Llegamos los Pibes Chorros",
+      "url": "https://open.spotify.com/track/5CORS17eUEK7kZOiwDarzj"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Gancia y Limon",
         "url": "https://open.spotify.com/album/7b0BcgTvSykRcLLVF3PhVa"
       },
@@ -1971,22 +1987,6 @@
       "duration_ms": 233314,
       "name": "Gancia y Limon",
       "url": "https://open.spotify.com/track/7uGYENkWct1HfCf7Pmd06o"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Solo Le Pido a Dios",
-        "url": "https://open.spotify.com/album/2wNfH17ST3K7xM2OjeZDWY"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 229840,
-      "name": "Llegamos los Pibes Chorros",
-      "url": "https://open.spotify.com/track/5CORS17eUEK7kZOiwDarzj"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -2271,26 +2271,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "ROMPE",
-        "url": "https://open.spotify.com/album/1goKiEeq4PRTaoDZ18Oixh"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        }
-      ],
-      "duration_ms": 193989,
-      "name": "ROMPE",
-      "url": "https://open.spotify.com/track/5d67pPoDJsY76WYCDUPS8e"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Venite Al Barrio",
         "url": "https://open.spotify.com/album/6FaIAy4mMYiaZUWsutQSUS"
       },
@@ -2307,6 +2287,26 @@
       "duration_ms": 163401,
       "name": "Venite Al Barrio",
       "url": "https://open.spotify.com/track/502621sPRjwZnxC5N7Co80"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "ROMPE",
+        "url": "https://open.spotify.com/album/1goKiEeq4PRTaoDZ18Oixh"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        }
+      ],
+      "duration_ms": 193989,
+      "name": "ROMPE",
+      "url": "https://open.spotify.com/track/5d67pPoDJsY76WYCDUPS8e"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -2371,6 +2371,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Close de Ort!",
+        "url": "https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f"
+      },
+      "artists": [
+        {
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+        }
+      ],
+      "duration_ms": 189613,
+      "name": "Me Re Cabio",
+      "url": "https://open.spotify.com/track/1OCG4qYwvzanyg4f1EcvYI"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Mirame a la Cara 2",
         "url": "https://open.spotify.com/album/3ytpZ963aOa2imkhVqlHRX"
       },
@@ -2391,22 +2407,6 @@
       "duration_ms": 191788,
       "name": "Mirame a La Cara 2",
       "url": "https://open.spotify.com/track/03e0QOtYjB7yg2eZ5mPSYG"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Close de Ort!",
-        "url": "https://open.spotify.com/album/0U5ea4VoRnGRuqUQ7Ca07f"
-      },
-      "artists": [
-        {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
-        }
-      ],
-      "duration_ms": 189613,
-      "name": "Me Re Cabio",
-      "url": "https://open.spotify.com/track/1OCG4qYwvzanyg4f1EcvYI"
     },
     {
       "added_at": "2023-12-15 03:00:00",

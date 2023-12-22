@@ -4,7 +4,7 @@
 
 > Beach vibes and summer jams only.
 
-529 songs - 20 hr 24 min
+531 songs - 20 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Beach Safari](https://open.spotify.com/track/0Xi5bfphPPmBAKPqqUYztL) | [Mama Aiuto](https://open.spotify.com/artist/1PSOEqcIZLUk8nkWH2rr9x) | [Beach Safari](https://open.spotify.com/album/5UahO76QBDjZoukZpbFRWd) | 3:14 | 2022-06-10 | 2022-09-17 |
 | [BEACH WAVES](https://open.spotify.com/track/5kh6cDKfut5E1J8mP8dX0Y) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [BEACH WAVES](https://open.spotify.com/album/3fmQEMS8WJ928ksqzceZF0) | 2:08 | 2022-05-20 |  |
 | [BeatStop](https://open.spotify.com/track/6wC0qvBQ705DXdclZTWaec) | [Freckle & Pete](https://open.spotify.com/artist/63NEeSfDLOqSJB1detrXx3) | [BeatStop](https://open.spotify.com/album/0ZC94kziQDtZsIc9mD39Il) | 1:56 | 2022-05-20 | 2022-05-27 |
+| [bedroom window](https://open.spotify.com/track/6RQAcAioLEYn4skbZtaDz3) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [bedroom window](https://open.spotify.com/album/4bKmTfRyL1OFmGJaMfVNT6) | 2:22 | 2023-12-22 |  |
 | [Beggin'](https://open.spotify.com/track/5eG41VMRPiEf4uIYGdXTc1) | [Pjuck](https://open.spotify.com/artist/4y7TV9mGqoi2fHB1RLhqZm) | [Beggin'](https://open.spotify.com/album/4UruVCOHP4j0PIBJ8yb2dJ) | 2:21 | 2022-06-03 |  |
 | [Beijo Doce](https://open.spotify.com/track/53VTzwDAl6PD9T1hs4rFHH) | [Dawmata](https://open.spotify.com/artist/6RARgJaBjOg2joVzBoL0M3) | [Beijo Doce](https://open.spotify.com/album/1Mim0BAGo3YQDCq0gLQISK) | 2:04 | 2022-06-17 |  |
 | [Big Easy City](https://open.spotify.com/track/22JgzHfHyonKuvOSpvEKDz) | [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0), [Lipoov](https://open.spotify.com/artist/3lbnDrswhXiVZDQswwSJ6t), [93Alekk](https://open.spotify.com/artist/6e0UHI8nGl5Y5DtYPrdaHu) | [Big Easy City](https://open.spotify.com/album/12GryY117JWWaGiywcZrdJ) | 2:00 | 2022-05-20 |  |
@@ -294,6 +295,7 @@
 | [Matalí](https://open.spotify.com/track/0k1wqWrjOvG1xt9kMVQcKp) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [Matalí](https://open.spotify.com/album/0AYDa7YRH3Zh4jSzKgClEV) | 2:26 | 2022-07-29 | 2023-12-09 |
 | [Matalí](https://open.spotify.com/track/26trHnnPcMZIFpG9BJdsbw) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [Matalí](https://open.spotify.com/album/3yAqPvzt8wYKMCCS2qvmic) | 2:26 | 2022-05-20 | 2022-07-29 |
 | [Mauá](https://open.spotify.com/track/5eChYT1I1EWaRO4jkd2Qho) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs), [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Mauá](https://open.spotify.com/album/0oXuC5MMnTCZXPu9esn2OD) | 2:15 | 2022-05-20 | 2022-09-09 |
+| [Maximo Respeto](https://open.spotify.com/track/0WqvJXHlxhuKaz5CmuEDSO) | [Ganzo](https://open.spotify.com/artist/2eZYqViRzYxEWVhIRvL5g8) | [Maximo Respeto](https://open.spotify.com/album/5OuKFBs1dSB1yieAre5kfx) | 2:06 | 2023-12-22 |  |
 | [Memoirs](https://open.spotify.com/track/0f0KTERCQph6e37Yeb2VrW) | [Tino Tapes](https://open.spotify.com/artist/6317TasPoXGpLcmnwqwB6y) | [Memoirs](https://open.spotify.com/album/0QubTuEJKqr5t4nytVlQKc) | 2:15 | 2022-05-20 |  |
 | [Memories](https://open.spotify.com/track/4yAeHq13tReDL6rM6dbTc3) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k), [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Memories](https://open.spotify.com/album/5ai7eCCSVhagmLwUAWCObs) | 2:33 | 2022-08-05 | 2022-11-20 |
 | [Memories](https://open.spotify.com/track/5DQ0QCjMsFzIfdhGHtlamp) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k), [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [The Art of Chilling, Vol\. 2](https://open.spotify.com/album/5fQUFkVsUUBoLPTc2j9mlp) | 2:33 | 2022-11-11 | 2022-12-17 |

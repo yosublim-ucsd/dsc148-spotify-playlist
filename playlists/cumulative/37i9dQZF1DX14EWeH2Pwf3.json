@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Rhove, ANNA.  <a href=\"spotify:playlist:37i9dQZF1DWYQKKZPHGppf\">Scopri il Best Of del 2023 qui!</a>",
+  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Medy.  <a href=\"spotify:playlist:37i9dQZF1DWYQKKZPHGppf\">Scopri il Best Of del 2023 qui!</a>",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -3504,7 +3504,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 189287,
       "name": "Goal (feat. MadMan)",
       "url": "https://open.spotify.com/track/7DvRemU2ACnEjOiLVKC4X7"
@@ -5722,6 +5722,24 @@
       "duration_ms": 174287,
       "name": "MY LOVE SONG 2 (feat. Coez & Frah Quintale)",
       "url": "https://open.spotify.com/track/3ySS2RpQNWsN5T88sfilZb"
+    },
+    {
+      "album": {
+        "name": "N.47",
+        "url": "https://open.spotify.com/album/6fUu9JsM3bqDrC6K9SFSlC"
+      },
+      "artists": [
+        {
+          "name": "Fre_nky",
+          "url": "https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145851,
+      "name": "N.47",
+      "url": "https://open.spotify.com/track/4xkvFol7qRPv0OTbOF1iSj"
     },
     {
       "album": {
@@ -8366,7 +8384,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 156479,
       "name": "Spedizione punitiva",
       "url": "https://open.spotify.com/track/2RqyqoJTECRr2py03ZmTvF"
@@ -9016,6 +9034,24 @@
       "duration_ms": 181714,
       "name": "Un milione di volte (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/6gs7AIeuNkpktUbwZcES2Y"
+    },
+    {
+      "album": {
+        "name": "Un\u2019Altra Volta",
+        "url": "https://open.spotify.com/album/3Iew1h5VtOr8eiSe3omNjj"
+      },
+      "artists": [
+        {
+          "name": "Vale Pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132571,
+      "name": "Un\u2019Altra Volta",
+      "url": "https://open.spotify.com/track/0LibhadIbaCxWStsermQhg"
     },
     {
       "album": {

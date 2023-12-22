@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest house bangers popping off in the UK, let's go! MEDUZA, Ferreck Dawn, Clementine Douglas",
+  "description": "The biggest house bangers popping off in the UK, let's go! Sam Green, Campbell",
   "name": "UK House Music",
   "tracks": [
     {
@@ -406,7 +406,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 169523,
       "name": "All I Ever Need",
       "url": "https://open.spotify.com/track/37EFzT30bq9Jop85wqShzd"
@@ -1462,7 +1462,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 186143,
       "name": "Bring It Back",
       "url": "https://open.spotify.com/track/4fpwv0RSfRMZl55Nn8Gb4q"
@@ -2958,7 +2958,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 186625,
       "name": "Do You Feel It",
       "url": "https://open.spotify.com/track/0lnnhM1bIUT3jzvB0jt2pV"
@@ -3320,7 +3320,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 178040,
       "name": "Dusty Showbiz",
       "url": "https://open.spotify.com/track/30VJGgRcj2MoyeW7UHQgrO"
@@ -3555,6 +3555,32 @@
     },
     {
       "album": {
+        "name": "Every Time I Fall (Logic1000 Remix)",
+        "url": "https://open.spotify.com/album/0bek3r8hzm4BQOWWCDTFoW"
+      },
+      "artists": [
+        {
+          "name": "Me & George",
+          "url": "https://open.spotify.com/artist/4VYA3yEmxcU2ElaVRPHGFv"
+        },
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "KATYA",
+          "url": "https://open.spotify.com/artist/6ARtMKoXQvZclVIxRqMFBQ"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150195,
+      "name": "Every Time I Fall - Logic1000 Remix",
+      "url": "https://open.spotify.com/track/3ryyZmnPduJRgchZYmBAxN"
+    },
+    {
+      "album": {
         "name": "Everybody Everybody",
         "url": "https://open.spotify.com/album/7kLFiZyNmWIH5F3cswDX6M"
       },
@@ -3660,7 +3686,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 215294,
       "name": "Faith",
       "url": "https://open.spotify.com/track/6pvWQ658tA5tXa07TGAb0i"
@@ -3784,7 +3810,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 153825,
       "name": "Feel It Deep Inside",
       "url": "https://open.spotify.com/track/1YLMg5pq8Je82sJeTKABM9"
@@ -3942,7 +3968,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 203750,
       "name": "Feels Darker (Feel It)",
       "url": "https://open.spotify.com/track/4BbBV9dK1kMqD7gGypB5WO"
@@ -4080,7 +4106,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 154554,
       "name": "Find You - Radio Edit",
       "url": "https://open.spotify.com/track/55q0rZUwzQ5xFivvSwIVH0"
@@ -4942,7 +4968,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 230497,
       "name": "Hard To Breathe (feat. Hannah Boleyn)",
       "url": "https://open.spotify.com/track/4aBLX1KrJim9OnvnTNfD2t"
@@ -5294,7 +5320,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 170500,
       "name": "Hot Sweat (feat. Cleo Simone)",
       "url": "https://open.spotify.com/track/5g94B3kC8Qpno3Xvy7OQ32"
@@ -7345,6 +7371,28 @@
     },
     {
       "album": {
+        "name": "Make Me (Franky Rizardo Remix)",
+        "url": "https://open.spotify.com/album/42c7JYNk4kOlZhBnZZoPI0"
+      },
+      "artists": [
+        {
+          "name": "Borai & Denham Audio",
+          "url": "https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1"
+        },
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "Make Me - Franky Rizardo Remix",
+      "url": "https://open.spotify.com/track/57508shL0obX0KUOUL8CJk"
+    },
+    {
+      "album": {
         "name": "Make Me Feel Good (VIP)",
         "url": "https://open.spotify.com/album/3L75UtdPmnwXGULtfR8mZk"
       },
@@ -8218,7 +8266,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 160000,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/7K9ZxHYSwVJ1BTC044EUNw"
@@ -8682,7 +8730,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 155550,
       "name": "On & On",
       "url": "https://open.spotify.com/track/6q8lkavDM3yhk7PXdRK3me"
@@ -10033,6 +10081,28 @@
     },
     {
       "album": {
+        "name": "Rooftopin Again",
+        "url": "https://open.spotify.com/album/3YRQzZCG4RTeZTWByhIJrV"
+      },
+      "artists": [
+        {
+          "name": "Marvin Aloys",
+          "url": "https://open.spotify.com/artist/3CCJPt2Y7WxjlW8tswCu2q"
+        },
+        {
+          "name": "Black Prez",
+          "url": "https://open.spotify.com/artist/3kGJGwSmyImKKigpSkKnTz"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213250,
+      "name": "Rooftopin Again",
+      "url": "https://open.spotify.com/track/3SagPegAVUZSNfT3khDcZZ"
+    },
+    {
+      "album": {
         "name": "Roskill",
         "url": "https://open.spotify.com/album/3Mj7BTnNRpcRQwUM0u1ugc"
       },
@@ -10550,7 +10620,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 341500,
       "name": "Sirena Deep",
       "url": "https://open.spotify.com/track/7Esye77Caf24GfFmAzAUHW"
@@ -11178,7 +11248,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 216562,
       "name": "Strong",
       "url": "https://open.spotify.com/track/3bVrJvRNReqbE2Ow5txo4n"
@@ -12214,6 +12284,36 @@
       "duration_ms": 234312,
       "name": "Tighter (feat. Jalja) - CamelPhat Remix",
       "url": "https://open.spotify.com/track/3PGvcGU10IzjiSA96A2GcO"
+    },
+    {
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/6qdTXzg7QJaI98wzYagK7H"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Jammer",
+          "url": "https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw"
+        },
+        {
+          "name": "Deki Alem",
+          "url": "https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52"
+        },
+        {
+          "name": "A$AP NAST",
+          "url": "https://open.spotify.com/artist/1uLYUm2A6kpFYAECfAFoH1"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340750,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/5JUvmSedBunsVi66CPnEBK"
     },
     {
       "album": {

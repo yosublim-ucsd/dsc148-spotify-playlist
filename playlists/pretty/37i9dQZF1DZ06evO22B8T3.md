@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 
 > This is Paulo Londra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,786 likes - 36 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,794 likes - 36 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 | 35 | [The World Is Yours To Take \- Latin Remix / Budweiser Anthem Of The FIFA World Cup 2022](https://open.spotify.com/track/5zGzSO40FsFK65IloXM7DN) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The World Is Yours To Take \(Latin Remix / Budweiser Anthem Of The FIFA World Cup 2022\)](https://open.spotify.com/album/68fwKhBLMJQkUHQ9UH5AKS) | 2:54 |
 | 36 | [Cansado](https://open.spotify.com/track/4IWSiikKGhA9cBmAL6r3iy) | [Joaqo](https://open.spotify.com/artist/3pkc0OK2BmkQKZNgsa8lOc), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Cansado](https://open.spotify.com/album/2xx2vcIQ5RhMKhvGVphwDu) | 3:02 |
 
-Snapshot ID: `MjgzODQ1NjAsMDAwMDAwMDA3NDVkOWY2YTczOTIwMTdmYWZlYzYyNzM2M2Y4NjY0Mg==`
+Snapshot ID: `MjgzODYwMTksMDAwMDAwMDA4MmY2YzMxMjA2NjUyMmY5MmIwOTgxZGFjYzE5NjExMQ==`

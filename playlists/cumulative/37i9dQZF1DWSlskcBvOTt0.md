@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-549 songs - 2 day 4 hr 53 min
+550 songs - 2 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Angel 1](https://open.spotify.com/track/32uzMvtg0JKDKZzg6KhHoZ) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Angel 1](https://open.spotify.com/album/0omfFup8BUBLpflIPlo4gz) | 5:46 | 2022-04-11 | 2023-02-25 |
 | [Angel Hugs \- Death On The Balcony Remix](https://open.spotify.com/track/2pQyotpT9hhVRHUdlS26de) | [Mike Konstanty](https://open.spotify.com/artist/2e8RBsQwm7aDg9RENzm5tT), [Death on the Balcony](https://open.spotify.com/artist/7cZsqiYF7SFQ0Ni24ly624) | [Angel Hugs](https://open.spotify.com/album/1NNUUK3sO44N0bXYMzIPMX) | 8:31 | 2022-07-01 | 2022-07-27 |
 | [Another Brick In The Wall](https://open.spotify.com/track/6jQH7bOMrSecEmb3oWHeNW) | [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0), [Ucha](https://open.spotify.com/artist/6cC53OuM6AJxU0jJrEgiT3) | [Another Brick In The Wall](https://open.spotify.com/album/670imi4qiQ6eE2TEarhY7y) | 4:01 | 2022-09-09 |  |
-| [Another Disaster](https://open.spotify.com/track/607sdsDqekZqncZatOMu4x) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Another Disaster](https://open.spotify.com/album/5byRdBEonyHtaP8IwaGaFU) | 4:50 | 2023-11-17 |  |
+| [Another Disaster](https://open.spotify.com/track/607sdsDqekZqncZatOMu4x) | [Oliver Schories](https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq) | [Another Disaster](https://open.spotify.com/album/5byRdBEonyHtaP8IwaGaFU) | 4:50 | 2023-11-17 | 2023-12-22 |
 | [Another Planet](https://open.spotify.com/track/1aFaTUEi3pNVmPvHJ4rBTp) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Sun Ra](https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX) | [Another Planet EP](https://open.spotify.com/album/5rX6PK39rcuG2pjYWWA528) | 4:07 | 2021-09-17 | 2022-07-29 |
 | [Antares](https://open.spotify.com/track/1Wtzml7KMFbC3Iq5v1AeUK) | [Rokazer](https://open.spotify.com/artist/0kBZmuhkAKIdZE5YVkdhqV) | [Antares / Stay](https://open.spotify.com/album/2skTHY010QHQpI328uliT0) | 4:48 | 2022-04-11 | 2022-10-06 |
 | [ARCO](https://open.spotify.com/track/2jmW1L3I4VjAS5wMf1qpug) | [DAVID AUGUST](https://open.spotify.com/artist/1cS5EoXVqz7aON00AkVBBA) | [ARCO](https://open.spotify.com/album/2AKxzmw5yfZSNJvIwLidWY) | 4:55 | 2023-07-07 | 2023-08-11 |
@@ -378,6 +378,7 @@
 | [Oud Imperial](https://open.spotify.com/track/4LTCKJhqbHAa8sbDZ5XBMF) | [Michael Simon](https://open.spotify.com/artist/47tdos6tQTQ9AntqjEQjnj) | [Oud Imperial](https://open.spotify.com/album/7khYH0dkJQYr557uLisMal) | 8:36 | 2021-04-21 | 2022-08-19 |
 | [Oudara \- Club Mix](https://open.spotify.com/track/0QX9AiK3RhrJuJEHBlpYVd) | [Daniel Rateuke](https://open.spotify.com/artist/27NerKeEGofbhhDMEhagyq) | [Oudara](https://open.spotify.com/album/7rdSwrZvfnJZfSl8Cmi3Mk) | 5:45 | 2022-07-01 | 2022-07-20 |
 | [Out of Focus \(feat\. Zoot Woman\) \- Âme Remix](https://open.spotify.com/track/3jc7WSwiPPAjdokdwVflJk) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Zoot Woman](https://open.spotify.com/artist/25w2vpqq7dYleBAqMx7Ijx), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Nobody Is Not Loved, Remixes, Pt\. 3](https://open.spotify.com/album/5bFS2PZfzq8CGP58M23ktV) | 6:24 | 2022-06-10 | 2022-12-24 |
+| [Out of Sight](https://open.spotify.com/track/0oXlBKfmpMcpjHF94j5UBd) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv), [Nina Nst](https://open.spotify.com/artist/6S7CIpIi5NY2ZmdUP9Wh4Q) | [Out of Sight](https://open.spotify.com/album/5o602wD0yatOExl8G8qWkw) | 4:02 | 2023-12-15 |  |
 | [Overnight](https://open.spotify.com/track/2ckYzNOvjKVQX5ARttEhlo) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Overnight](https://open.spotify.com/album/6Bx2GZ9URhZitfByTc5eCS) | 3:58 | 2023-11-30 |  |
 | [Palo Santo](https://open.spotify.com/track/6SFGnnxX5VUgpZJiGSKjx7) | [Fiin](https://open.spotify.com/artist/1epLtVgUJz01HSPZbdAT1X) | [Palo Santo](https://open.spotify.com/album/5S2BwJuzdryUUs6sCUuvwC) | 4:36 | 2021-05-07 | 2022-04-23 |
 | [Palomita](https://open.spotify.com/track/5xWzVhDpu6hpcoiO2euL8u) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e) | [Endup](https://open.spotify.com/album/4pQWoTRfKzUqH1Zw61czo6) | 8:03 | 2022-07-01 | 2023-09-30 |

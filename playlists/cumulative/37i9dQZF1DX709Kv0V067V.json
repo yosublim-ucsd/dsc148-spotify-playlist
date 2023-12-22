@@ -1,8 +1,62 @@
 {
   "date_first_scraped": "2022-08-18",
-  "description": "Close your eyes and dream up a night in the great outdoors: \ncrickets chirping, the stars are out, you are cozy and snug in your tent, just sleeping...",
-  "name": "Late Night Nature",
+  "description": "Calming music and the quiet sounds of nature at night to help you sleep",
+  "name": "Late Night Nature Music",
   "tracks": [
+    {
+      "album": {
+        "name": "432 Hz Floating Points",
+        "url": "https://open.spotify.com/album/1Y4RCeSXOf6XRnO95bSPRI"
+      },
+      "artists": [
+        {
+          "name": "Asaj Sadie",
+          "url": "https://open.spotify.com/artist/3derbhCfD9yibDm38jEvac"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151030,
+      "name": "432 Hz Floating Points",
+      "url": "https://open.spotify.com/track/3TTeyNE7YdV3WOaEqI0NNO"
+    },
+    {
+      "album": {
+        "name": "432 Hz Umhverfis",
+        "url": "https://open.spotify.com/album/2OvOdq1tvlTPWdYY588aN8"
+      },
+      "artists": [
+        {
+          "name": "Cypress West",
+          "url": "https://open.spotify.com/artist/1hDe9iKiHylj0C0wdXz3ZL"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147459,
+      "name": "432 Hz Umhverfis",
+      "url": "https://open.spotify.com/track/2W14VKMBkbp9vPFE9GdpTi"
+    },
+    {
+      "album": {
+        "name": "528 Hz Forest Bath",
+        "url": "https://open.spotify.com/album/6OFPwb1DVVufD73n6zAxyx"
+      },
+      "artists": [
+        {
+          "name": "Lars Peters",
+          "url": "https://open.spotify.com/artist/6UFCmfl7djtHECEfm4Vhcx"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "528 Hz Forest Bath",
+      "url": "https://open.spotify.com/track/7iP9eeJpLXBSqWeMwyl1tE"
+    },
     {
       "album": {
         "name": "Relaxing Sounds of Nature and Ambient Healing for Mediation, Relaxation, Sound Therapy and Deep Sleep",
@@ -16,7 +70,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 300068,
       "name": "African Evening Crickets for Peace of Mind and Relaxation",
       "url": "https://open.spotify.com/track/1zGBVv20PEfcxOScO1FEUl"
@@ -34,10 +88,46 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 155357,
       "name": "Afternoon Cricket and Birds",
       "url": "https://open.spotify.com/track/2eQsDNYBy11Ss9qnKPs7AF"
+    },
+    {
+      "album": {
+        "name": "Again Forest",
+        "url": "https://open.spotify.com/album/014eraotEWoBJ7HmwZhoZP"
+      },
+      "artists": [
+        {
+          "name": "Iota Psi",
+          "url": "https://open.spotify.com/artist/6mkoUM994JIaNGMTix01yW"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205500,
+      "name": "Again Forest",
+      "url": "https://open.spotify.com/track/049s53v5zVIBDC8djxkyxY"
+    },
+    {
+      "album": {
+        "name": "Aurora - Remix (Sound Bath)",
+        "url": "https://open.spotify.com/album/6Znzu2ntzOLi3Mr8jBhTAI"
+      },
+      "artists": [
+        {
+          "name": "Adamu Amana",
+          "url": "https://open.spotify.com/artist/5ByaBLExzJSBhFBMXx9DIZ"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150097,
+      "name": "Aurora - Remix (Sound Bath)",
+      "url": "https://open.spotify.com/track/1RuLySEZfWPtSVq3MGlKvf"
     },
     {
       "album": {
@@ -52,7 +142,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 165101,
       "name": "Binaural Cricket Forest",
       "url": "https://open.spotify.com/track/5RXK8nAPqcP8evMwzRUVat"
@@ -70,7 +160,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 194820,
       "name": "Birds And Insects In Tall Harvest Grass",
       "url": "https://open.spotify.com/track/3UM2VNXFBmsnb38ubiD51I"
@@ -88,7 +178,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 121858,
       "name": "Bosque Relajante",
       "url": "https://open.spotify.com/track/55BoTpqnyXXiSGn1re3k3F"
@@ -106,7 +196,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 142000,
       "name": "Brazilian Wood Therapy",
       "url": "https://open.spotify.com/track/0qXDXWu2DUp0iwZ2hiHiDK"
@@ -131,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/308Y2gFGNG4TnQjQbdABOp"
+      },
+      "artists": [
+        {
+          "name": "Silva Minor",
+          "url": "https://open.spotify.com/artist/2qCGBLSIAfV6EYofCDbVZk"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188437,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/5Mfnq3NhU0FjSDZiC022az"
+    },
+    {
+      "album": {
         "name": "Cabin Rain, Crickets and Birds",
         "url": "https://open.spotify.com/album/4mmbBrhNanIweSk6vAqdf6"
       },
@@ -142,10 +250,46 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 171641,
       "name": "Cabin Rain, Crickets and Birds",
       "url": "https://open.spotify.com/track/5cp12tFMGLayeU0qhmxioW"
+    },
+    {
+      "album": {
+        "name": "Calm night",
+        "url": "https://open.spotify.com/album/1WWPDuV2epw3z3So4ASCvx"
+      },
+      "artists": [
+        {
+          "name": "Adelina Somerset",
+          "url": "https://open.spotify.com/artist/3dsMw7dDZ3c6CsdLsYBbLX"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "Calm night",
+      "url": "https://open.spotify.com/track/5ydkdjjrWwOOPQ6OiOUdSE"
+    },
+    {
+      "album": {
+        "name": "Calm Quiet Night",
+        "url": "https://open.spotify.com/album/2XXhRXEpPrJsE0cFZvzIsc"
+      },
+      "artists": [
+        {
+          "name": "Sofia Giuilia",
+          "url": "https://open.spotify.com/artist/28ihnihwirtswSJvhGAGyE"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Calm Quiet Night",
+      "url": "https://open.spotify.com/track/7ilWCyfMlBfnmMULBze6z8"
     },
     {
       "album": {
@@ -160,10 +304,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 153062,
       "name": "Camp Sounds at Night",
       "url": "https://open.spotify.com/track/6d95oHM8NHGs9v60mgOluo"
+    },
+    {
+      "album": {
+        "name": "Chandra (Sound Bath)",
+        "url": "https://open.spotify.com/album/58RbwAIMUYwdxGWxKyTh42"
+      },
+      "artists": [
+        {
+          "name": "Elysia Adler",
+          "url": "https://open.spotify.com/artist/2h1JbJb38it4V14TTHwkha"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160086,
+      "name": "Chandra (Sound Bath)",
+      "url": "https://open.spotify.com/track/1exSjCBayTzyZ5jru6H4Qz"
     },
     {
       "album": {
@@ -196,7 +358,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 590000,
       "name": "Chirping Frogs Sound",
       "url": "https://open.spotify.com/track/3LSKCvgWh9YgPiSfrBwcnU"
@@ -214,7 +376,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 313808,
       "name": "Choice Garden Cricket Sounds",
       "url": "https://open.spotify.com/track/3nri2OmdCc19tZhhPlqBIx"
@@ -247,6 +409,24 @@
     },
     {
       "album": {
+        "name": "Close Of Day",
+        "url": "https://open.spotify.com/album/7skpFIu1UcdzY9myJvTfo5"
+      },
+      "artists": [
+        {
+          "name": "Elevated Minds",
+          "url": "https://open.spotify.com/artist/6Xiv0NC9DAa2HBBKWHtKR6"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145793,
+      "name": "Close Of Day",
+      "url": "https://open.spotify.com/track/3H9DsbBc9Znt08pyOtXBoI"
+    },
+    {
+      "album": {
         "name": "Summer Night Soundscape",
         "url": "https://open.spotify.com/album/54pAnlz5ufEPUkCz4JWcIN"
       },
@@ -258,7 +438,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 254456,
       "name": "Cricket Call",
       "url": "https://open.spotify.com/track/3VFWvpa6JuJjw1Tm8SXSIT"
@@ -302,7 +482,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 224078,
       "name": "Cricket Sounds",
       "url": "https://open.spotify.com/track/3yg9JjNnaR7vCYT2Sb6LTt"
@@ -320,10 +500,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 180000,
       "name": "Cricket Sounds In The Forest",
       "url": "https://open.spotify.com/track/6ii1Ck061Yfrc7Ee92E3Hy"
+    },
+    {
+      "album": {
+        "name": "Infinite",
+        "url": "https://open.spotify.com/album/50DJ6XR4dN48VOyFkn1QP1"
+      },
+      "artists": [
+        {
+          "name": "Lucien M\u00f8rk",
+          "url": "https://open.spotify.com/artist/1a1r1rGzRmzZ45ybcsEAJn"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160558,
+      "name": "Cricket Symphony",
+      "url": "https://open.spotify.com/track/1Rqyy33mQVsFbm55rtzLSp"
     },
     {
       "album": {
@@ -338,7 +536,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 125573,
       "name": "Cricket Symphony",
       "url": "https://open.spotify.com/track/28vbFbR9zrIfuYeBrIUeD7"
@@ -356,7 +554,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 185000,
       "name": "Crickets & Frogs",
       "url": "https://open.spotify.com/track/3al6KR1JeyIxHy99XVfFgR"
@@ -374,7 +572,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 233431,
       "name": "Crickets And Creeks",
       "url": "https://open.spotify.com/track/4vBuRQX4BIohuyBJZlZqVC"
@@ -392,7 +590,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 183928,
       "name": "Crickets and Frogs in NJ",
       "url": "https://open.spotify.com/track/79atIUYIEFLWUfHTLPEzGP"
@@ -410,7 +608,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 120450,
       "name": "Crickets and Frogs in the Swamp at Night",
       "url": "https://open.spotify.com/track/6GfjhpnE21nxI80R0oldWJ"
@@ -428,7 +626,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 140000,
       "name": "Crickets and Light River",
       "url": "https://open.spotify.com/track/44fCs9FpPloYlK8QTrRKXc"
@@ -446,7 +644,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 240000,
       "name": "Crickets by the Ocean",
       "url": "https://open.spotify.com/track/7nwaMlKXEzbOIEIpAKSUdU"
@@ -464,7 +662,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 182068,
       "name": "Crickets by the Ocean 2 Binaural Crickets by the Ocean 2 Binaural",
       "url": "https://open.spotify.com/track/5S3eCI1QR0NGpWTR5asKLO"
@@ -482,7 +680,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 147291,
       "name": "Crickets Forest 1",
       "url": "https://open.spotify.com/track/4jS6Wivh5DWvmd3f5RdaFI"
@@ -518,7 +716,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 175160,
       "name": "Crickets In Redwoods",
       "url": "https://open.spotify.com/track/3jd6uuUl4CBFZXOEjISEjf"
@@ -536,7 +734,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 142000,
       "name": "Crickets In The Canyon",
       "url": "https://open.spotify.com/track/5qYqY3rYs0N38MvwdcT93t"
@@ -554,7 +752,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 122945,
       "name": "Crickets in the Forest Glade",
       "url": "https://open.spotify.com/track/1VtgOi1QYr82UOh38NPK5y"
@@ -572,7 +770,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 230000,
       "name": "Crickets in the Post-Rainfall Summer Night",
       "url": "https://open.spotify.com/track/7kVVhczBlgpkWwYdpz6be3"
@@ -590,7 +788,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 171168,
       "name": "Crickets In The Rain",
       "url": "https://open.spotify.com/track/20n6kgsYIO5FqTCZv7b0cz"
@@ -626,7 +824,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 152058,
       "name": "Crickets Light Wind",
       "url": "https://open.spotify.com/track/2RN6FiFFjUN3AA9YMh1zKH"
@@ -644,7 +842,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 160985,
       "name": "Crickets Namibia Forest",
       "url": "https://open.spotify.com/track/0EZhrWLeeSYtXcR4didS7Z"
@@ -662,7 +860,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 185000,
       "name": "Crickets Relaxation",
       "url": "https://open.spotify.com/track/41OEJc3R6ntUR8qrzVbKn1"
@@ -680,7 +878,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 150726,
       "name": "Dark Forest",
       "url": "https://open.spotify.com/track/1n1qvg30KAOuNxfgR8jhSZ"
@@ -716,10 +914,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 151576,
       "name": "Dark Forest Ambience",
       "url": "https://open.spotify.com/track/5lBS8ByKcBj2G73BM2fbNj"
+    },
+    {
+      "album": {
+        "name": "Deep in the Forest",
+        "url": "https://open.spotify.com/album/4V17VetgclqdDBWxdDkdkK"
+      },
+      "artists": [
+        {
+          "name": "moon echo",
+          "url": "https://open.spotify.com/artist/36RuEVYPpPQPNKGjmrp3hN"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Deep in the Forest",
+      "url": "https://open.spotify.com/track/4DuZpMMRGsLlCCrrA6hwiT"
     },
     {
       "album": {
@@ -734,10 +950,64 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 208000,
       "name": "Deep Jungle",
       "url": "https://open.spotify.com/track/1Xt87jhYuJ02uDliE9qhnk"
+    },
+    {
+      "album": {
+        "name": "Diya (Sound Bath)",
+        "url": "https://open.spotify.com/album/2aAJEm5Fma4pcpLbzKDQ3C"
+      },
+      "artists": [
+        {
+          "name": "Tamila Gagan",
+          "url": "https://open.spotify.com/artist/7hIHAT0tpW2OySiuVog60k"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147346,
+      "name": "Diya (Sound Bath)",
+      "url": "https://open.spotify.com/track/3HE95BrCznsOKCrFuxMIgQ"
+    },
+    {
+      "album": {
+        "name": "Dreamy Night",
+        "url": "https://open.spotify.com/album/7tcXd4l3KsEgKpV1tsyTBT"
+      },
+      "artists": [
+        {
+          "name": "Aziz Kirkin",
+          "url": "https://open.spotify.com/artist/7BPMsxBuGDkaKlsYWR38kS"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Dreamy Night",
+      "url": "https://open.spotify.com/track/4xPrGdmYZi55iLoLnuAzEH"
+    },
+    {
+      "album": {
+        "name": "Dummra At Night",
+        "url": "https://open.spotify.com/album/6yLfzEEpnHh4V0FSrrPQf9"
+      },
+      "artists": [
+        {
+          "name": "Lewis Bird",
+          "url": "https://open.spotify.com/artist/4McPLMM7aYZPv43M5VPXyp"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165250,
+      "name": "Dummra At Night",
+      "url": "https://open.spotify.com/track/1jSZPy7olA0IUqr8Vmamkv"
     },
     {
       "album": {
@@ -752,10 +1022,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 146000,
       "name": "Enchanting Crickets",
       "url": "https://open.spotify.com/track/1sj6CFCR29SAdeNh8trCyD"
+    },
+    {
+      "album": {
+        "name": "Energy Flow",
+        "url": "https://open.spotify.com/album/0ZUfjeHh0e0iCjoRDNn7Dm"
+      },
+      "artists": [
+        {
+          "name": "Denise Rael",
+          "url": "https://open.spotify.com/artist/4ER5TmG8gSZcVI3IFdsmKD"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357818,
+      "name": "Energy Flow",
+      "url": "https://open.spotify.com/track/0nfziqgeSosB3YxNzUhTVd"
     },
     {
       "album": {
@@ -770,10 +1058,64 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 158000,
       "name": "Evening In The Forest",
       "url": "https://open.spotify.com/track/0Hsbe1Ge00BHeK25UVAsYO"
+    },
+    {
+      "album": {
+        "name": "Fairy Glen",
+        "url": "https://open.spotify.com/album/7dqETMCNvQbOPh2ptqWW73"
+      },
+      "artists": [
+        {
+          "name": "Moon Garden",
+          "url": "https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Fairy Glen",
+      "url": "https://open.spotify.com/track/0g0zmrsI1d9LqqpEFPi5qH"
+    },
+    {
+      "album": {
+        "name": "Time Travel",
+        "url": "https://open.spotify.com/album/4DTNbeJ1jcQPB1TPChFDFn"
+      },
+      "artists": [
+        {
+          "name": "Joan Abe",
+          "url": "https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181818,
+      "name": "Feathers In The Sky",
+      "url": "https://open.spotify.com/track/6kMbpMSqq9EsWKCnMVp2HU"
+    },
+    {
+      "album": {
+        "name": "Fluere Ranae",
+        "url": "https://open.spotify.com/album/1nKaP1aHcqJgETJeQ2mV4c"
+      },
+      "artists": [
+        {
+          "name": "Drishti",
+          "url": "https://open.spotify.com/artist/5veQV3vFfmMaOm0gTkc1N1"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Fluere Ranae",
+      "url": "https://open.spotify.com/track/6ZxbHu5i0VEAy4Mied3gBL"
     },
     {
       "album": {
@@ -788,10 +1130,46 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 176000,
       "name": "Forest At Sleep - Seamless",
       "url": "https://open.spotify.com/track/7vmc4nS2iY9D5wq7EodB9t"
+    },
+    {
+      "album": {
+        "name": "Forest Binaural 31HZ Gamma 80HZ - 49HZ",
+        "url": "https://open.spotify.com/album/3dChSeTfOcq7tb8wy40oTf"
+      },
+      "artists": [
+        {
+          "name": "Local Abroad",
+          "url": "https://open.spotify.com/artist/6fzGY6vXqUv1OJxFTVlMfu"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139636,
+      "name": "Forest Binaural 31HZ Gamma 80HZ - 49HZ",
+      "url": "https://open.spotify.com/track/5QaUIVMikfEZGPP4hCY370"
+    },
+    {
+      "album": {
+        "name": "Forest Frost",
+        "url": "https://open.spotify.com/album/1RQMFa6nEOnZeEJQ5gyypq"
+      },
+      "artists": [
+        {
+          "name": "Lewis Bird",
+          "url": "https://open.spotify.com/artist/4McPLMM7aYZPv43M5VPXyp"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Forest Frost",
+      "url": "https://open.spotify.com/track/0b0sQfU517GWyIgVRyDcYN"
     },
     {
       "album": {
@@ -806,7 +1184,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 204154,
       "name": "Forest Mist and Wildlife",
       "url": "https://open.spotify.com/track/5ITfAHa6nmDpg1cFv4eHML"
@@ -842,7 +1220,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 590000,
       "name": "Frogs at Night",
       "url": "https://open.spotify.com/track/3FHbiu4Gd69PB3cEBkqWlr"
@@ -860,10 +1238,46 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 375276,
       "name": "Frogs At the Summer Pond",
       "url": "https://open.spotify.com/track/1XIg494nqCecpAIStY3Iim"
+    },
+    {
+      "album": {
+        "name": "Gaucho and the Buddha",
+        "url": "https://open.spotify.com/album/3ZNzPryXuosYV3nt4Xuumg"
+      },
+      "artists": [
+        {
+          "name": "Sonic Xaman",
+          "url": "https://open.spotify.com/artist/13vgYRGlLirVXX6Yoxzm8c"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Gaucho and the Buddha",
+      "url": "https://open.spotify.com/track/0XT33nfXyfmwzpIL5oQXZd"
+    },
+    {
+      "album": {
+        "name": "Gently (Sound Bath)",
+        "url": "https://open.spotify.com/album/5neIHgWaWwr4R44n8ZiQKh"
+      },
+      "artists": [
+        {
+          "name": "Lake Geneva",
+          "url": "https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185598,
+      "name": "Gently (Sound Bath)",
+      "url": "https://open.spotify.com/track/1NdF3IGESVQxQFi7RJZmFC"
     },
     {
       "album": {
@@ -878,7 +1292,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 190000,
       "name": "Grasshoppers And Cicadas - Seamless",
       "url": "https://open.spotify.com/track/4vxkBnjsY8IALBeAoTD3fo"
@@ -896,10 +1310,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 123344,
       "name": "Grillos nocturnos",
       "url": "https://open.spotify.com/track/03ucR0fNoJPWwPZpU2tqCq"
+    },
+    {
+      "album": {
+        "name": "Grounded",
+        "url": "https://open.spotify.com/album/73OcD8zbuUAOvWShwFij1r"
+      },
+      "artists": [
+        {
+          "name": "Zilon Tay",
+          "url": "https://open.spotify.com/artist/5MXcNvb6HXa2KgYvCqRbuU"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163388,
+      "name": "Grounded",
+      "url": "https://open.spotify.com/track/4OLwU8YwGCYUAureSrInHQ"
     },
     {
       "album": {
@@ -914,7 +1346,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 172041,
       "name": "Harmony of the Forest",
       "url": "https://open.spotify.com/track/3A8wHDwuwmbUQi5RxS5q4h"
@@ -932,10 +1364,64 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 151576,
       "name": "Healing Forest Insects",
       "url": "https://open.spotify.com/track/2ZKsQRrjZrzizVxQS1JejC"
+    },
+    {
+      "album": {
+        "name": "Sacred River",
+        "url": "https://open.spotify.com/album/7Jxz7WCwSPpawViRRIgiqC"
+      },
+      "artists": [
+        {
+          "name": "Namtso Healing",
+          "url": "https://open.spotify.com/artist/1WcNbQEr7rUYmTZ8wX79nT"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Heavenly Lakes",
+      "url": "https://open.spotify.com/track/40g7lkBDUGABMbWzqcSxAv"
+    },
+    {
+      "album": {
+        "name": "Higgur Chirp",
+        "url": "https://open.spotify.com/album/3XHcCxBFxKXhn5jj0o11Yo"
+      },
+      "artists": [
+        {
+          "name": "Hieling",
+          "url": "https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185874,
+      "name": "Higgur Chirp",
+      "url": "https://open.spotify.com/track/27SBO8e489X3ifhIuP9NHa"
+    },
+    {
+      "album": {
+        "name": "Unity",
+        "url": "https://open.spotify.com/album/4ugwhuEqJTGi11swTislS2"
+      },
+      "artists": [
+        {
+          "name": "RE:LX",
+          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171107,
+      "name": "Hr\u0325daya\u015b\u016bra / Braveheart",
+      "url": "https://open.spotify.com/track/4iLnhvckiZvEvN6NSrXAcr"
     },
     {
       "album": {
@@ -950,7 +1436,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 130000,
       "name": "Hypnotic Insects - Seamless",
       "url": "https://open.spotify.com/track/1rA29QczneOC9edQcqb7jI"
@@ -968,7 +1454,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 437642,
       "name": "I Am Eight, Playing With Frogs, In the Rain",
       "url": "https://open.spotify.com/track/4STc4mzx8pu7I2YzJGIHS8"
@@ -986,7 +1472,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 180555,
       "name": "Insects and Jungle Rain",
       "url": "https://open.spotify.com/track/4Fq1o5T3jMFTewig8vzd0H"
@@ -1004,7 +1490,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 130000,
       "name": "Insects Around The Barn",
       "url": "https://open.spotify.com/track/2lNycpK14qnhFjUWBDfoNd"
@@ -1029,6 +1515,24 @@
     },
     {
       "album": {
+        "name": "It's Best To Part Now",
+        "url": "https://open.spotify.com/album/1M1T7paFHO2tdGKrVD4qDo"
+      },
+      "artists": [
+        {
+          "name": "Kylie Karlsson",
+          "url": "https://open.spotify.com/artist/0YlpsaWcW0FShzeBUFIJQI"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "It's Best To Part Now",
+      "url": "https://open.spotify.com/track/3SvVgTf0sNvhCSXgs1iXRv"
+    },
+    {
+      "album": {
         "name": "Wildlife and Nature Soundscapes",
         "url": "https://open.spotify.com/album/4fWw1JF0Mtke2CkcCmrm1S"
       },
@@ -1040,7 +1544,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 200000,
       "name": "Jungle Animals",
       "url": "https://open.spotify.com/track/2tbhXhivOU3SngsiAz3rjv"
@@ -1058,7 +1562,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 312000,
       "name": "Jungle Calm (Nature)",
       "url": "https://open.spotify.com/track/5Fb4yp6Pbw2XOawVYTgbIl"
@@ -1076,7 +1580,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 190445,
       "name": "Jungle Cruise",
       "url": "https://open.spotify.com/track/1MDjUdqLZAQf0Dtmg5674s"
@@ -1094,7 +1598,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 180809,
       "name": "Jungle Night Frogs and Chirps",
       "url": "https://open.spotify.com/track/4QoIfsNSKfeDieWlzZnLqr"
@@ -1112,7 +1616,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 232000,
       "name": "Jungle Night Sounds",
       "url": "https://open.spotify.com/track/2WPt88T68DH3UFhIveodsx"
@@ -1130,7 +1634,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 200721,
       "name": "Jungle Night Sounds",
       "url": "https://open.spotify.com/track/4qmLhnLRSzoyQjPfoSiPc6"
@@ -1148,10 +1652,46 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 124651,
       "name": "Jungle Sleep",
       "url": "https://open.spotify.com/track/4T69BdWfT3RhZfUhaUHlqa"
+    },
+    {
+      "album": {
+        "name": "Kadmium",
+        "url": "https://open.spotify.com/album/5vVfqeo7FWdv1Yy6NtMjdg"
+      },
+      "artists": [
+        {
+          "name": "Hudba Lyrika",
+          "url": "https://open.spotify.com/artist/21JKDXC6Hihde2MshJBXM7"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257967,
+      "name": "Kadmium",
+      "url": "https://open.spotify.com/track/4y4M081eUAG1u0DoMIoBSR"
+    },
+    {
+      "album": {
+        "name": "Keep Calm",
+        "url": "https://open.spotify.com/album/4yRK9AYWhEq3mZGPTwfFGF"
+      },
+      "artists": [
+        {
+          "name": "Sannd\u00fdr",
+          "url": "https://open.spotify.com/artist/4feDtz8H3fR4Oy1tn4wKAU"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187951,
+      "name": "Keep Calm",
+      "url": "https://open.spotify.com/track/01d67EQENQeg8pIji8bv42"
     },
     {
       "album": {
@@ -1166,7 +1706,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 185000,
       "name": "Mediterranean evening",
       "url": "https://open.spotify.com/track/1ICwqqHIZMyZ9kvQL5Bl8t"
@@ -1184,7 +1724,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 144140,
       "name": "Melodic Forest Chorus",
       "url": "https://open.spotify.com/track/0sOuAXvRrT8F9q3VkwiYGP"
@@ -1202,7 +1742,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 245713,
       "name": "Melodic Forest Hymn",
       "url": "https://open.spotify.com/track/59caZIowoRcopdTBzJt6ut"
@@ -1220,7 +1760,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 151507,
       "name": "Midnight Crickets",
       "url": "https://open.spotify.com/track/6t4C5mY5Nu1w2vpcA9CDhM"
@@ -1238,10 +1778,64 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 151576,
       "name": "Midnight Insects",
       "url": "https://open.spotify.com/track/1zDNLJIMO9WfPr46MvrZ5C"
+    },
+    {
+      "album": {
+        "name": "Minimal Self",
+        "url": "https://open.spotify.com/album/0f1nwwkr9wBrjxhI3SWDIg"
+      },
+      "artists": [
+        {
+          "name": "Luthen Karn",
+          "url": "https://open.spotify.com/artist/7sibum1YOuZYbeD6rQntuk"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282545,
+      "name": "Minimal Self",
+      "url": "https://open.spotify.com/track/0wJVti2mddNER80jsssBM1"
+    },
+    {
+      "album": {
+        "name": "Mitra\u00b4s Morning",
+        "url": "https://open.spotify.com/album/5Wt5uingdBJRJr7aBmFF0Y"
+      },
+      "artists": [
+        {
+          "name": "Sangenjaya",
+          "url": "https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Mitra\u00b4s Morning",
+      "url": "https://open.spotify.com/track/0RqfPOB10K1N5ehf2Tbqfc"
+    },
+    {
+      "album": {
+        "name": "Night Solfeggio for the Mind",
+        "url": "https://open.spotify.com/album/1WUP0qojbqgfTDiouUyyB0"
+      },
+      "artists": [
+        {
+          "name": "Doctor Hz",
+          "url": "https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281142,
+      "name": "Moonlight Meditation 639 Hz",
+      "url": "https://open.spotify.com/track/2SpsfOspAiPKQcfdEgchI6"
     },
     {
       "album": {
@@ -1256,7 +1850,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 311517,
       "name": "Moonlit Tropics (Jungle)",
       "url": "https://open.spotify.com/track/2IP5Zk9blC6qFzjoq1svyS"
@@ -1274,7 +1868,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 233450,
       "name": "Music of the Rain",
       "url": "https://open.spotify.com/track/6z9i2Uix7gkzdzUkVDOJcd"
@@ -1292,7 +1886,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 192000,
       "name": "Nature Night-time",
       "url": "https://open.spotify.com/track/0qjA7VzJyneuisZRNATzWp"
@@ -1310,7 +1904,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 151576,
       "name": "Nez Perce Rain Ambience",
       "url": "https://open.spotify.com/track/51ejNisYFVgRoLiUctban9"
@@ -1328,7 +1922,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 120000,
       "name": "Night Crickets",
       "url": "https://open.spotify.com/track/3W2RRzU1CLAIyhBpqumTSg"
@@ -1346,7 +1940,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 187249,
       "name": "Night Crickets",
       "url": "https://open.spotify.com/track/3B4MVYa1k8raX2Y12qTH3K"
@@ -1364,7 +1958,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 218267,
       "name": "Night Frogs",
       "url": "https://open.spotify.com/track/6k0MRwyQu5JDlBBtTHQVDi"
@@ -1382,7 +1976,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 200000,
       "name": "Night Frogs and Safari Ambience",
       "url": "https://open.spotify.com/track/4t0rzck40gPKWxHKRXuwm1"
@@ -1418,7 +2012,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 128000,
       "name": "Night Insects and Light Rain",
       "url": "https://open.spotify.com/track/4EmHUEepAJaOWyL74m9mr6"
@@ -1436,7 +2030,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 154644,
       "name": "Night Insects In The Woods",
       "url": "https://open.spotify.com/track/1kydVAFHPJxmNCbMJ8KsTC"
@@ -1454,7 +2048,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 306777,
       "name": "Night Jungle Sounds",
       "url": "https://open.spotify.com/track/0VF95eL6c5R049PkN0dAVP"
@@ -1490,7 +2084,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 200000,
       "name": "Night Time Safari",
       "url": "https://open.spotify.com/track/51sy1BtzeCL6z5mGUzfeoo"
@@ -1508,7 +2102,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 153062,
       "name": "Nighttime Naturescape",
       "url": "https://open.spotify.com/track/2B8z2Wd0HiLAfS0z2c3xIS"
@@ -1526,10 +2120,46 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 132000,
       "name": "Nighttime With Crickets And Frogs",
       "url": "https://open.spotify.com/track/5dqhUGWklMNLQ2ijvS8YaE"
+    },
+    {
+      "album": {
+        "name": "Nile",
+        "url": "https://open.spotify.com/album/1hxglkQYZppeUfFsJ1rsbb"
+      },
+      "artists": [
+        {
+          "name": "Calmisi",
+          "url": "https://open.spotify.com/artist/70ES1wACbZKHnLEeysUGMy"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165343,
+      "name": "Nile",
+      "url": "https://open.spotify.com/track/06PixnZDs14AvdbXXq1OJR"
+    },
+    {
+      "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/4XvjZzMccHqHmFEetHymWq"
+      },
+      "artists": [
+        {
+          "name": "Maarva Sartha",
+          "url": "https://open.spotify.com/artist/7rCX8x2AEDPBmJIWwlghxT"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387272,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/7anzI2o01sled3Wsjftu3P"
     },
     {
       "album": {
@@ -1544,7 +2174,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 194593,
       "name": "Nyamigis Gardens",
       "url": "https://open.spotify.com/track/6AQ5sjYY0Xi51OdCQWCIpj"
@@ -1562,10 +2192,46 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 120883,
       "name": "Owl Hoots and Insects at Night",
       "url": "https://open.spotify.com/track/78ndHqoKT9yTlVxUL0i0Mq"
+    },
+    {
+      "album": {
+        "name": "Tantra",
+        "url": "https://open.spotify.com/album/4hnPgFlqzJylzUSAVkqwE1"
+      },
+      "artists": [
+        {
+          "name": "RE:LX",
+          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177500,
+      "name": "Prav\u0101sa",
+      "url": "https://open.spotify.com/track/18nVgxKk1SKcszU4j4TKcq"
+    },
+    {
+      "album": {
+        "name": "Rain Theta 146-151hz",
+        "url": "https://open.spotify.com/album/2P86wm0pzidW2gux1YgaaN"
+      },
+      "artists": [
+        {
+          "name": "Yin Shui",
+          "url": "https://open.spotify.com/artist/1lZlfq2dH04NjJl8vZgoYc"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Rain Theta 146-151hz",
+      "url": "https://open.spotify.com/track/2Ljbvgr1rHkrvn3ZcXRXBq"
     },
     {
       "album": {
@@ -1580,10 +2246,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 175769,
       "name": "Rainforest Ambience",
       "url": "https://open.spotify.com/track/6MDmC6OgvXBj9xnLjnJ1RF"
+    },
+    {
+      "album": {
+        "name": "Remain In Light (432 Hz Sound Bath)",
+        "url": "https://open.spotify.com/album/68fnzlJrQwjBXCBSHQhwiI"
+      },
+      "artists": [
+        {
+          "name": "Baba Hall",
+          "url": "https://open.spotify.com/artist/2mcRfqvRv9XFXnTmKMFRuV"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184545,
+      "name": "Remain In Light (432 Hz Sound Bath)",
+      "url": "https://open.spotify.com/track/0oN2nYpBnQTFcl5DQdDqZl"
     },
     {
       "album": {
@@ -1598,7 +2282,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 174215,
       "name": "Rhythm of the Forest",
       "url": "https://open.spotify.com/track/7rDLJDGjkdrvfEjqGm3bLK"
@@ -1616,7 +2300,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 230001,
       "name": "Riparian Jungle Sounds",
       "url": "https://open.spotify.com/track/58suPmlOZN6U11uAv6tVCv"
@@ -1634,10 +2318,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 120000,
       "name": "River Wildlife",
       "url": "https://open.spotify.com/track/2XrYdLmnEQhkflJPIQvzFd"
+    },
+    {
+      "album": {
+        "name": "Road Home (Bells 432 Hz)",
+        "url": "https://open.spotify.com/album/0WZTLDE6Sy1Urkos5ahUr7"
+      },
+      "artists": [
+        {
+          "name": "Nayanni",
+          "url": "https://open.spotify.com/artist/2dx6xmAZP2n29B0nf6uh3J"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142316,
+      "name": "Road Home (Bells 432 Hz)",
+      "url": "https://open.spotify.com/track/7cRnZxnj97cWpKxCtyYPy4"
     },
     {
       "album": {
@@ -1652,10 +2354,46 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 120372,
       "name": "Ruidos del bosque",
       "url": "https://open.spotify.com/track/4wxPsUunioftCy3f0tMH4a"
+    },
+    {
+      "album": {
+        "name": "Sage & Citrus",
+        "url": "https://open.spotify.com/album/0nfpjBVQFTRpwZ6ypSoqS1"
+      },
+      "artists": [
+        {
+          "name": "re:inhabit",
+          "url": "https://open.spotify.com/artist/0qt1gcU5wu2XCs6PyPD7aL"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191621,
+      "name": "Sage",
+      "url": "https://open.spotify.com/track/5pjuPwG6FFIemyozbLzxpl"
+    },
+    {
+      "album": {
+        "name": "Vipassana",
+        "url": "https://open.spotify.com/album/6hiv1Hk05IzlRAN4cwtSbU"
+      },
+      "artists": [
+        {
+          "name": "RE:LX",
+          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Samatha",
+      "url": "https://open.spotify.com/track/2m89atbZGjs0AlwOAB5NQm"
     },
     {
       "album": {
@@ -1670,7 +2408,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 179000,
       "name": "Savanna Crickets Nighttime",
       "url": "https://open.spotify.com/track/1dwrswAVeQ493wzcGLNn1Q"
@@ -1688,7 +2426,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 137674,
       "name": "Savanna Nights",
       "url": "https://open.spotify.com/track/3DJbedmEAaW4JWDL4XmywB"
@@ -1706,7 +2444,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 137674,
       "name": "Savanna Sleep",
       "url": "https://open.spotify.com/track/2TcZu6BMAiWAzD3XTNBWSx"
@@ -1724,7 +2462,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 124087,
       "name": "Selva somnolienta",
       "url": "https://open.spotify.com/track/2gch5sV1jHp3g5zlhOcu7b"
@@ -1742,10 +2480,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 413362,
       "name": "Singing Cicadas",
       "url": "https://open.spotify.com/track/3Lx3qfeuaDZqyoZurVCZ4o"
+    },
+    {
+      "album": {
+        "name": "Sleepy Crickets",
+        "url": "https://open.spotify.com/album/7bR6MqlxJwYGfa3s38lBF4"
+      },
+      "artists": [
+        {
+          "name": "Ariella Grace",
+          "url": "https://open.spotify.com/artist/5mT5q0Xw9OgS0wLS8ttynF"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153333,
+      "name": "Sleepy Crickets",
+      "url": "https://open.spotify.com/track/3NVPvlMKChjP6GkDE8ZqUz"
     },
     {
       "album": {
@@ -1760,10 +2516,46 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 163813,
       "name": "Soft Outdoor Cricket Sounds",
       "url": "https://open.spotify.com/track/6TwGXsPbgPtzqlNsJWn0uC"
+    },
+    {
+      "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/2RWgbPBlxEinNboWLMyFuz"
+      },
+      "artists": [
+        {
+          "name": "Ancestral Beats",
+          "url": "https://open.spotify.com/artist/5s5I6gLsXrfTFt91nIznYb"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Solar",
+      "url": "https://open.spotify.com/track/6wYwoGNZVKpw8mrpbraeZ4"
+    },
+    {
+      "album": {
+        "name": "Sonic Energy Chimes",
+        "url": "https://open.spotify.com/album/4LlY3T0tVBH19Lsu9HFkxq"
+      },
+      "artists": [
+        {
+          "name": "Auditory Illusion",
+          "url": "https://open.spotify.com/artist/0PcmyVVqlElhJJmIziMjy5"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214738,
+      "name": "Sonic Energy Chimes",
+      "url": "https://open.spotify.com/track/6l5E4PZZAANv7dqc0oKlFr"
     },
     {
       "album": {
@@ -1778,7 +2570,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 150215,
       "name": "Soul of the Forest",
       "url": "https://open.spotify.com/track/7mFBfxf7i0af40S1C9b21e"
@@ -1796,7 +2588,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 186000,
       "name": "Sounds of the Marsh",
       "url": "https://open.spotify.com/track/35pJ70xy53RXCaysuKumAa"
@@ -1814,10 +2606,28 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 203988,
       "name": "Spirit of the Forest",
       "url": "https://open.spotify.com/track/6wswaTqL7R7WoQLtv9X4mi"
+    },
+    {
+      "album": {
+        "name": "Spiritual Cleanse",
+        "url": "https://open.spotify.com/album/630PfmNKVuG544d9xlXCMB"
+      },
+      "artists": [
+        {
+          "name": "Spiritualizer",
+          "url": "https://open.spotify.com/artist/608axORAeMj8OmGsz5eu8C"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Spiritual Cleanse",
+      "url": "https://open.spotify.com/track/3uVv850Qxp4lv9Iv6QNvIQ"
     },
     {
       "album": {
@@ -1832,7 +2642,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 210000,
       "name": "Storm in the Distance",
       "url": "https://open.spotify.com/track/0SlsmPh8FGXhfdR3fCb14g"
@@ -1850,10 +2660,46 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 176500,
       "name": "Stress Reducing Insects",
       "url": "https://open.spotify.com/track/3oxArCiA6EsXgJ69VuJD0i"
+    },
+    {
+      "album": {
+        "name": "Summer Weekends",
+        "url": "https://open.spotify.com/album/0MOpNG9aFuZzMYBzLKkJ1O"
+      },
+      "artists": [
+        {
+          "name": "Quiet Point",
+          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "Summer Weekends",
+      "url": "https://open.spotify.com/track/05PUssQxietzKwlhLF2BT8"
+    },
+    {
+      "album": {
+        "name": "Taruffa",
+        "url": "https://open.spotify.com/album/5OrEg96YmtLPUhQFqsEzL6"
+      },
+      "artists": [
+        {
+          "name": "Chatterjee",
+          "url": "https://open.spotify.com/artist/1wwTCciWlDFTdqe19mRY2G"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Taruffa",
+      "url": "https://open.spotify.com/track/5HlyVYcxhjeASC2BZu5kU1"
     },
     {
       "album": {
@@ -1868,7 +2714,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 231450,
       "name": "The Bird Trio",
       "url": "https://open.spotify.com/track/5RGkSUpihOuuyGaoEt0CiF"
@@ -1886,7 +2732,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 148726,
       "name": "The Chirping of the Birds",
       "url": "https://open.spotify.com/track/0pENBGBsTq0eBIvSRQlAmN"
@@ -1904,7 +2750,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 256079,
       "name": "The Swing of the Forest",
       "url": "https://open.spotify.com/track/6zHlA4ul8Tbgc7VKo5gEZW"
@@ -1922,10 +2768,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 245153,
       "name": "The Winds of the Forest",
       "url": "https://open.spotify.com/track/54Q3zGfZ9AKNB4oPNpYGJ0"
+    },
+    {
+      "album": {
+        "name": "Theias",
+        "url": "https://open.spotify.com/album/12tMrozLxtUx7OxkLnIC0X"
+      },
+      "artists": [
+        {
+          "name": "Flouriiche",
+          "url": "https://open.spotify.com/artist/5bExeTiMM34JLG1L7Tiszr"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139225,
+      "name": "Theias (Nature Sounds)",
+      "url": "https://open.spotify.com/track/1FqPRzwHoEJfRJMYxf9XND"
     },
     {
       "album": {
@@ -1940,7 +2804,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 156397,
       "name": "Therapy Forest",
       "url": "https://open.spotify.com/track/2QZGDRyucOmjnZJnowPX1U"
@@ -1965,6 +2829,42 @@
     },
     {
       "album": {
+        "name": "Time Travel",
+        "url": "https://open.spotify.com/album/4DTNbeJ1jcQPB1TPChFDFn"
+      },
+      "artists": [
+        {
+          "name": "Joan Abe",
+          "url": "https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Time Travel",
+      "url": "https://open.spotify.com/track/70x3t8aYYydVYATfjTY1U8"
+    },
+    {
+      "album": {
+        "name": "Togetherness (Forest Sleep 528 Hz)",
+        "url": "https://open.spotify.com/album/7nkGlDGYnqpRe58UYBwP33"
+      },
+      "artists": [
+        {
+          "name": "Sofia Marcello",
+          "url": "https://open.spotify.com/artist/6MVT94tdG9IDB3J07I3qiP"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Togetherness (Forest Sleep 528 Hz)",
+      "url": "https://open.spotify.com/track/3tqIjFtPZ8EBzsXRngKW4s"
+    },
+    {
+      "album": {
         "name": "Peaceful Forest Sounds",
         "url": "https://open.spotify.com/album/4w8JQeeZH7J4ZJucQ5auM2"
       },
@@ -1976,10 +2876,28 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 197965,
       "name": "Tranquility of the Forest",
       "url": "https://open.spotify.com/track/0vW1cA9wBvOfTtSx9L6IAw"
+    },
+    {
+      "album": {
+        "name": "Waking Dream 432 Hz",
+        "url": "https://open.spotify.com/album/7veGPjs133KoJU8lZyvIEF"
+      },
+      "artists": [
+        {
+          "name": "Soul Pursuit",
+          "url": "https://open.spotify.com/artist/3w48oa6N62cxzWfJQYcGpX"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Waking Dream 432 Hz",
+      "url": "https://open.spotify.com/track/7oM7Spv22nZNVQksf4iriT"
     },
     {
       "album": {
@@ -1994,7 +2912,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 186502,
       "name": "Warm Rain In The Forest",
       "url": "https://open.spotify.com/track/5SSFOiWw3zN2QLeEWJSY3B"
@@ -2012,7 +2930,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 185000,
       "name": "West Africa Night Insects - Seamless",
       "url": "https://open.spotify.com/track/3L1l8peGtupqjB5e7hgWGs"
@@ -2030,10 +2948,64 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 539631,
       "name": "Wildlife and Insects at Night in the Desert",
       "url": "https://open.spotify.com/track/7eA7au0FtvrPKYzns7N67C"
+    },
+    {
+      "album": {
+        "name": "With the Wind",
+        "url": "https://open.spotify.com/album/1ZaStm6W3IRkwkRvNw15HX"
+      },
+      "artists": [
+        {
+          "name": "Moon Garden",
+          "url": "https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "With the Wind",
+      "url": "https://open.spotify.com/track/3YNPtUBUsfKRqV0uoOvDQ1"
+    },
+    {
+      "album": {
+        "name": "Yukon Kushok",
+        "url": "https://open.spotify.com/album/3HERBuWLbs8Bdj5gkp9rn5"
+      },
+      "artists": [
+        {
+          "name": "Dreemy",
+          "url": "https://open.spotify.com/artist/7Hh9phP3DEcbwxipzObxum"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Yukon Kushok - Spa",
+      "url": "https://open.spotify.com/track/5BIUgqaWMixNEQTLPj2cVI"
+    },
+    {
+      "album": {
+        "name": "Zirarah",
+        "url": "https://open.spotify.com/album/33HsnfJAm6zPalwBKr8926"
+      },
+      "artists": [
+        {
+          "name": "Moderato Aredo",
+          "url": "https://open.spotify.com/artist/74G3pWoGCFymwyQUPn8rsj"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Zirarah Zirb",
+      "url": "https://open.spotify.com/track/3VmlGfTHgtAwytx8UWrvdw"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX709Kv0V067V"

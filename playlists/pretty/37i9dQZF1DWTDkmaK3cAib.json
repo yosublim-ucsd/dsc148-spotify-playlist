@@ -1,12 +1,12 @@
 {
   "description": "let's get it on",
-  "num_followers": 42773,
+  "num_followers": 42794,
   "original_name": "bes\u00e1ndote <3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMmEzZjJkMjRkMzNjZTQyMWIzZWI1ZmE0MDVjYjJlZDZlYjExYzI3",
+  "snapshot_id": "MCw3YzEyODdmNjQ1ODAyYzRjODNlMWMxYWYyYTY3YzVkNWVhNmUyNzJm",
   "tracks": [
     {
       "added_at": "2023-12-12 22:35:32",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2023-12-12 22:35:32",
       "album": {
-        "name": "No Fue",
-        "url": "https://open.spotify.com/album/01hu8HlyUnBnITx30aDTbD"
-      },
-      "artists": [
-        {
-          "name": "Chita",
-          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
-        },
-        {
-          "name": "CA7RIEL",
-          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
-        }
-      ],
-      "duration_ms": 195844,
-      "name": "No Fue",
-      "url": "https://open.spotify.com/track/5KgGV5yykkThL3rk5mQWfr"
-    },
-    {
-      "added_at": "2023-12-12 22:35:32",
-      "album": {
         "name": "Cardellino",
         "url": "https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC"
       },
@@ -1267,6 +1247,26 @@
       "duration_ms": 163755,
       "name": "COLTRANE",
       "url": "https://open.spotify.com/track/4hM63GBOU82xdvxDa0RxJm"
+    },
+    {
+      "added_at": "2023-12-12 22:35:32",
+      "album": {
+        "name": "No Fue",
+        "url": "https://open.spotify.com/album/01hu8HlyUnBnITx30aDTbD"
+      },
+      "artists": [
+        {
+          "name": "Chita",
+          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
+        },
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        }
+      ],
+      "duration_ms": 195844,
+      "name": "No Fue",
+      "url": "https://open.spotify.com/track/5KgGV5yykkThL3rk5mQWfr"
     },
     {
       "added_at": "2023-12-12 22:35:32",

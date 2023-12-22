@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL?si=aSHo-0MxTGCtM3fmI-26Vw\">Blxckie</a>",
+  "description": "Only the hottest South African rap from the streets. Cover: <a href=\"https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd?si=IgW7s1DITrCiFOfUmYULMA\">Wordz</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -1738,6 +1738,28 @@
       "duration_ms": 215053,
       "name": "BIGGER THAN US",
       "url": "https://open.spotify.com/track/1Ufrupv87t48mU4KtcZLbX"
+    },
+    {
+      "album": {
+        "name": "PEOPLE FORGET TO BE PEOPLE (Deluxe)",
+        "url": "https://open.spotify.com/album/4ThKlVCBUqAFU2ojb5VdH0"
+      },
+      "artists": [
+        {
+          "name": "Wordz",
+          "url": "https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd"
+        },
+        {
+          "name": "MashBeatz",
+          "url": "https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109714,
+      "name": "BIRDZ",
+      "url": "https://open.spotify.com/track/3L8Sl6hGnFzVhXJ1KWrZR2"
     },
     {
       "album": {

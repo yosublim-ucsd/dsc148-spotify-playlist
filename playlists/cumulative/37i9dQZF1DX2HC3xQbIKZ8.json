@@ -419,6 +419,32 @@
     },
     {
       "album": {
+        "name": "Hit The Road",
+        "url": "https://open.spotify.com/album/7CgmSGAPmq7h6C2OvNtwav"
+      },
+      "artists": [
+        {
+          "name": "Teina Mamaori",
+          "url": "https://open.spotify.com/artist/5p0JHW1CkPxEqkbcz59rrp"
+        },
+        {
+          "name": "Classick J",
+          "url": "https://open.spotify.com/artist/7Hhvup3XQTgHKu2FkMKjMq"
+        },
+        {
+          "name": "Hori Shaw",
+          "url": "https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327331,
+      "name": "Hit The Road",
+      "url": "https://open.spotify.com/track/4SxClscieaDJ9dGQR1njjS"
+    },
+    {
+      "album": {
         "name": "I'm Crazy",
         "url": "https://open.spotify.com/album/5o6TcSr6CeJYyrfvCaZxm7"
       },
@@ -1335,6 +1361,24 @@
     },
     {
       "album": {
+        "name": "Stand By Me (Drew Forever)",
+        "url": "https://open.spotify.com/album/6AsVMB0zcOvHvGc3INNY44"
+      },
+      "artists": [
+        {
+          "name": "Common Kings",
+          "url": "https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194530,
+      "name": "Stand By Me (Drew Forever)",
+      "url": "https://open.spotify.com/track/4Ua8dhnL9mKAZ78etjdOHX"
+    },
+    {
+      "album": {
         "name": "Still the One",
         "url": "https://open.spotify.com/album/1dp1GNZaZFwCoqerFgVIA2"
       },
@@ -1430,6 +1474,24 @@
       "duration_ms": 201453,
       "name": "Take It Easy",
       "url": "https://open.spotify.com/track/23jHR6RPxvK2w8XHQwrOJb"
+    },
+    {
+      "album": {
+        "name": "TAKE YA HOME",
+        "url": "https://open.spotify.com/album/1je3xa77wTIBA7Hgh5KfwQ"
+      },
+      "artists": [
+        {
+          "name": "Swiss",
+          "url": "https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "TAKE YA HOME",
+      "url": "https://open.spotify.com/track/6iTkgefVHh412gRjtZuJKF"
     },
     {
       "album": {
@@ -1546,6 +1608,28 @@
       "duration_ms": 243616,
       "name": "T\u016b mai te reo",
       "url": "https://open.spotify.com/track/5DHkzoVC9IQWakugYD4uAe"
+    },
+    {
+      "album": {
+        "name": "Unconditional",
+        "url": "https://open.spotify.com/album/4utMvi2ApprCzAJoj317um"
+      },
+      "artists": [
+        {
+          "name": "Sammy Johnson",
+          "url": "https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA"
+        },
+        {
+          "name": "Aaradhna",
+          "url": "https://open.spotify.com/artist/4CeW2xghttvllIwy4AqNSg"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208282,
+      "name": "Unconditional",
+      "url": "https://open.spotify.com/track/3s2MpAsYP7td9alGNB6Fk1"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Rouquine",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Ana\u00efs MVA",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -213,6 +213,24 @@
     },
     {
       "album": {
+        "name": "M\u00e9moire d'un \u00c9t\u00e9",
+        "url": "https://open.spotify.com/album/59xVZaODpDUf84OtD7QwYJ"
+      },
+      "artists": [
+        {
+          "name": "Enola Cox",
+          "url": "https://open.spotify.com/artist/4FugFjuE5dLtKNtSbxe3gD"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Belle et douce",
+      "url": "https://open.spotify.com/track/62EIK97xEvRVHCPMluN8bR"
+    },
+    {
+      "album": {
         "name": "BEST LIFE",
         "url": "https://open.spotify.com/album/3lkMSvubaannkhFlv8lyg1"
       },
@@ -224,7 +242,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 170546,
       "name": "BEST LIFE",
       "url": "https://open.spotify.com/track/5Qjk0a7VO87YfIVacHJVgG"
@@ -761,6 +779,24 @@
     },
     {
       "album": {
+        "name": "J'aimerais danser avec toi",
+        "url": "https://open.spotify.com/album/5V5TGyamn7lRkTfnoYM8vO"
+      },
+      "artists": [
+        {
+          "name": "ANA\u00cfS MVA",
+          "url": "https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159920,
+      "name": "J'aimerais danser avec toi",
+      "url": "https://open.spotify.com/track/1fWvBuZBG7AomF8Qk27vMM"
+    },
+    {
+      "album": {
         "name": "J'me barre",
         "url": "https://open.spotify.com/album/73Rk8FmhOaBIza5bOYnTmT"
       },
@@ -1228,7 +1264,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 156279,
       "name": "Nuits bleues",
       "url": "https://open.spotify.com/track/14V0agAxlMODImJusOV3dC"
@@ -1781,6 +1817,24 @@
     },
     {
       "album": {
+        "name": "Stigmate (Radio Edit)",
+        "url": "https://open.spotify.com/album/7qVz48nAVwSdEje5MUTqTf"
+      },
+      "artists": [
+        {
+          "name": "Zaoui",
+          "url": "https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145412,
+      "name": "Stigmate - Radio Edit",
+      "url": "https://open.spotify.com/track/1CCglTzgQP2UCQtRwkpHOc"
+    },
+    {
+      "album": {
         "name": "Super potos",
         "url": "https://open.spotify.com/album/6AuJdkK4SBkcLskg9tF1NK"
       },
@@ -1962,7 +2016,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 156477,
       "name": "XS",
       "url": "https://open.spotify.com/track/08Jrszz3ir62gPhy9wfU4i"

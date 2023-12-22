@@ -1070,7 +1070,7 @@
       ],
       "date_added": "2023-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 211945,
       "name": "A New Day (SMG Version)",
       "url": "https://open.spotify.com/track/58KZwvwCJKHOJRVofOPdiU"
@@ -5514,7 +5514,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 204811,
       "name": "Black Magic",
       "url": "https://open.spotify.com/track/4lbKunBAYECY3e0OPVNqHR"
@@ -13403,6 +13403,28 @@
     },
     {
       "album": {
+        "name": "Dulce De Leche",
+        "url": "https://open.spotify.com/album/0z7PP07CHaTpnxfkM2gutj"
+      },
+      "artists": [
+        {
+          "name": "EbNFLoW",
+          "url": "https://open.spotify.com/artist/52tZK4vEgVwQ8gN3BYYGLb"
+        },
+        {
+          "name": "Dolores",
+          "url": "https://open.spotify.com/artist/083XAVPRmjHxahdFzMvOY6"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220007,
+      "name": "Dulce De Leche",
+      "url": "https://open.spotify.com/track/7npX4vsXeMhUCtsuuImWkQ"
+    },
+    {
+      "album": {
         "name": "Dumb Boy",
         "url": "https://open.spotify.com/album/5gEK6V5PjhsaMM6gwwNMQ7"
       },
@@ -14512,7 +14534,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 170106,
       "name": "EX\u00d3TICA",
       "url": "https://open.spotify.com/track/6EURkzSJVUaHiroDWZ99Gn"
@@ -18007,6 +18029,24 @@
     },
     {
       "album": {
+        "name": "Girl, I Know A Guy",
+        "url": "https://open.spotify.com/album/18ps4Zg1TZveN0oPI9cbhl"
+      },
+      "artists": [
+        {
+          "name": "Alex Miller",
+          "url": "https://open.spotify.com/artist/2O6mQU9DIRojQ3mtDuqb4S"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204160,
+      "name": "Girl, I Know A Guy",
+      "url": "https://open.spotify.com/track/21Vy8ApM1WXLPRNnwhetX3"
+    },
+    {
+      "album": {
         "name": "Pop Hitz (15)",
         "url": "https://open.spotify.com/album/6HvtSVJncaNYnCiecaRn3Q"
       },
@@ -19594,7 +19634,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 220978,
       "name": "Hard Lines",
       "url": "https://open.spotify.com/track/3t9NtHYcLV9vRwn2MhcPM4"
@@ -19674,6 +19714,24 @@
       "duration_ms": 234000,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/5WY9T8vPamACXeOgWVzIdI"
+    },
+    {
+      "album": {
+        "name": "Mover\u00e1s tus pies",
+        "url": "https://open.spotify.com/album/6nPMio40jwqP2XaoSe0sDz"
+      },
+      "artists": [
+        {
+          "name": "Plastical People",
+          "url": "https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154605,
+      "name": "Hasta el final",
+      "url": "https://open.spotify.com/track/168mkjE6QXBV4M7MgIUnCV"
     },
     {
       "album": {
@@ -20466,6 +20524,24 @@
       "duration_ms": 218400,
       "name": "HIGHS & lows",
       "url": "https://open.spotify.com/track/2HVtP4lo603ORTZ4ni2vrx"
+    },
+    {
+      "album": {
+        "name": "Hindsight",
+        "url": "https://open.spotify.com/album/1016l7GYTGAXqDheRYGNLi"
+      },
+      "artists": [
+        {
+          "name": "Talk In Code",
+          "url": "https://open.spotify.com/artist/1Gw8doHoxtHc077ucipphC"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192965,
+      "name": "Hindsight",
+      "url": "https://open.spotify.com/track/1oxi8L6luWRLlqZmHEI8qo"
     },
     {
       "album": {
@@ -22096,7 +22172,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 189354,
       "name": "I Want to See You Win",
       "url": "https://open.spotify.com/track/2oncIOM2Fp2mjZOUIWm55A"
@@ -27151,6 +27227,24 @@
     },
     {
       "album": {
+        "name": "Hot Jupiters Nashville 2023",
+        "url": "https://open.spotify.com/album/3SUv9rxOaz2RNvmNKB1yl5"
+      },
+      "artists": [
+        {
+          "name": "Steve Mullaney",
+          "url": "https://open.spotify.com/artist/41PgwnckDxw5iSOL7REZ8z"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263977,
+      "name": "Long Before Our Time",
+      "url": "https://open.spotify.com/track/58q0O9v3G0HnrTyf3J2w91"
+    },
+    {
+      "album": {
         "name": "long way home",
         "url": "https://open.spotify.com/album/6j5Z01WF39JENkXvALSGAH"
       },
@@ -29759,6 +29853,36 @@
     },
     {
       "album": {
+        "name": "Saturday Night Sunday Morning",
+        "url": "https://open.spotify.com/album/38SKYN6oZTYx8EKEOJVFpl"
+      },
+      "artists": [
+        {
+          "name": "Peter Levin",
+          "url": "https://open.spotify.com/artist/1CpSDhvKyyNe87DVssoDh2"
+        },
+        {
+          "name": "The Blind Boys Of Alabama",
+          "url": "https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        },
+        {
+          "name": "Marc Qui\u00f1ones",
+          "url": "https://open.spotify.com/artist/2zstrNi6OUJfF3psAesmed"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287532,
+      "name": "Midnight Rider",
+      "url": "https://open.spotify.com/track/20modtGjw1PJOOGbUYITcv"
+    },
+    {
+      "album": {
         "name": "Midnight Song",
         "url": "https://open.spotify.com/album/5iUxGPNhQN9Z27ILyVbNx9"
       },
@@ -29977,6 +30101,24 @@
     },
     {
       "album": {
+        "name": "Minnesota",
+        "url": "https://open.spotify.com/album/1RlmCefMx4QXgIHTLJqN3m"
+      },
+      "artists": [
+        {
+          "name": "Shana Sarett",
+          "url": "https://open.spotify.com/artist/072Xz51SAdNqkPj6PhGsTo"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262917,
+      "name": "Minnesota",
+      "url": "https://open.spotify.com/track/1XJgYuaWBGWEDYMCtNen4M"
+    },
+    {
+      "album": {
         "name": "Minus Nine",
         "url": "https://open.spotify.com/album/2K6xyilbeXDJVcbkAK5SMe"
       },
@@ -30028,6 +30170,24 @@
       "duration_ms": 164505,
       "name": "Misbehave",
       "url": "https://open.spotify.com/track/5nRlQjvCFzto9wHVJVsXaB"
+    },
+    {
+      "album": {
+        "name": "Miss Me",
+        "url": "https://open.spotify.com/album/4R7wKPwfEJ6n9b0FJTbmGJ"
+      },
+      "artists": [
+        {
+          "name": "2iO88",
+          "url": "https://open.spotify.com/artist/30DnY0zTMtGdfet0JHrdjJ"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127110,
+      "name": "Miss Me",
+      "url": "https://open.spotify.com/track/6oludWLAvKo4bYNrplfVxu"
     },
     {
       "album": {
@@ -33708,6 +33868,24 @@
       "duration_ms": 292824,
       "name": "On the Run",
       "url": "https://open.spotify.com/track/4N9CjZCmixsudkya5a7MtW"
+    },
+    {
+      "album": {
+        "name": "On Things",
+        "url": "https://open.spotify.com/album/1i1lilXoWAuTtjAtJdMnRe"
+      },
+      "artists": [
+        {
+          "name": "President",
+          "url": "https://open.spotify.com/artist/0eAR8yNSIcH6qDSYVG7SlL"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203546,
+      "name": "On Things",
+      "url": "https://open.spotify.com/track/5Jjv7nq2N78rynURploDX9"
     },
     {
       "album": {
@@ -39541,6 +39719,24 @@
     },
     {
       "album": {
+        "name": "Separate Rooms",
+        "url": "https://open.spotify.com/album/1D2vXo9ZptspnSP4fkQRUe"
+      },
+      "artists": [
+        {
+          "name": "B.Miles",
+          "url": "https://open.spotify.com/artist/3rB3PZ6d1hAkNFD4PhLgQk"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211383,
+      "name": "Separate Rooms",
+      "url": "https://open.spotify.com/track/3hlQpXZ6L5BoUb4T6EUYOe"
+    },
+    {
+      "album": {
         "name": "K\u014cAN",
         "url": "https://open.spotify.com/album/2wGa9TxP1UvCn1hnfyyV6v"
       },
@@ -44843,6 +45039,24 @@
     },
     {
       "album": {
+        "name": "Black Magic",
+        "url": "https://open.spotify.com/album/6gYrQQRTylSFZi2D65hw0W"
+      },
+      "artists": [
+        {
+          "name": "Arielle Diba",
+          "url": "https://open.spotify.com/artist/1wjwAZ5HV4p4G9atYKqbMG"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "The Immigrant",
+      "url": "https://open.spotify.com/track/0R9x7lSWhQd95K8duI7sha"
+    },
+    {
+      "album": {
         "name": "The Last Night (Dancing With You)",
         "url": "https://open.spotify.com/album/3mB5vvRnoJFXhaRDIIzwfu"
       },
@@ -47070,6 +47284,24 @@
       "duration_ms": 227200,
       "name": "Truth and Desire",
       "url": "https://open.spotify.com/track/6ApZAVtCIRIWJ1q0XXAd8W"
+    },
+    {
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/2Ad64wHC5FYro56s5M5UU0"
+      },
+      "artists": [
+        {
+          "name": "Macedo",
+          "url": "https://open.spotify.com/artist/4hQT8LjL7j5IlWFQG5Z9kG"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187774,
+      "name": "Truth or Dare",
+      "url": "https://open.spotify.com/track/0SlGIyPCLbIFtOT3UhAFsR"
     },
     {
       "album": {

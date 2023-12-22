@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem L7NNON e Veigh, Anitta, Ivete Sangalo e Ludmilla, Filipe Ret e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,930,604 likes - 99 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,930,965 likes - 99 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 89 | [Desconfiada \- Dan Lellis no Barzin, Ao Vivo](https://open.spotify.com/track/7l9Qof3TShYT4Pi94Q8yBQ) | [Dan Lellis](https://open.spotify.com/artist/7Jp5Nw7cNZTkwFgJX06Cqk), [Mayke & Rodrigo](https://open.spotify.com/artist/70l6HIf0rz8ZMQCW5qK6QI) | [Desconfiada \(Dan Lellis no Barzin, Ao Vivo\)](https://open.spotify.com/album/4BeCXCqEzRBoyac6jMkvTn) | 2:55 |
 | 90 | [Então Vem](https://open.spotify.com/track/0hkjTwk6SXeXjsTFsMGrg9) | [DogBeat](https://open.spotify.com/artist/6QshhXyQBLzoTMIfN5UZLI), [DJ ESCOBAR](https://open.spotify.com/artist/65tpb4BwAnD3HOUs8MC6TB) | [Então Vem](https://open.spotify.com/album/01Sb84Z47yDD3yDHL4BP9L) | 2:45 |
 | 91 | [Senta e Se Concentra](https://open.spotify.com/track/5RE2RPMGv8tkc2NA4Ulbe1) | [FP do Trem Bala](https://open.spotify.com/artist/5hPHLE5ssifxHX5bhK8iXR), [Dj Luanzinho](https://open.spotify.com/artist/6rt4nkW5scQlr4n8opqEKp), [Yuri Hawaiano](https://open.spotify.com/artist/2AJ4aGu5kFvxv7JwaVSPxW), [NaPista](https://open.spotify.com/artist/7noaELdOPmJXFHKSlxhpVM) | [Senta e Se Concentra](https://open.spotify.com/album/0n23tfXOC7OsJvadx9H1Ku) | 2:09 |
-| 92 | [Geração Z](https://open.spotify.com/track/1Uq6siC1b5Aul9pkthR6X1) | [Claudinho](https://open.spotify.com/artist/55t9UQjU4k96OIaLdU8cUH), [Bonde das Maravilhas](https://open.spotify.com/artist/3UZyjeKVvRv39UqBpeYX6d) | [Geração Z](https://open.spotify.com/album/6vkaIdlkiZoWvFMeqFjDAH) | 2:04 |
+| 92 | [Geração Z](https://open.spotify.com/track/1Uq6siC1b5Aul9pkthR6X1) | [Claudinho](https://open.spotify.com/artist/5lXSqKDbxzyaVNAF2YLRy2), [Bonde das Maravilhas](https://open.spotify.com/artist/3UZyjeKVvRv39UqBpeYX6d) | [Geração Z](https://open.spotify.com/album/6vkaIdlkiZoWvFMeqFjDAH) | 2:04 |
 | 93 | [Papum na Tcheca](https://open.spotify.com/track/52CekkAz15XbJmxsNUtN35) | [MC Durrony](https://open.spotify.com/artist/2s1GtomGAJ3fnqQBkUXbIL) | [Papum na Tcheca](https://open.spotify.com/album/17bhO6ws98i4XpeZufIWPd) | 2:14 |
 | 94 | [Fala o Nome do Homi](https://open.spotify.com/track/51Xzlo7Ikzc35QhjU8Qu9C) | [MC Tchelinho](https://open.spotify.com/artist/2OMImVZQlaVtav9HoKxrbv), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [Dj Jonatan da Provi](https://open.spotify.com/artist/7JG3JoKL1rr509m9K301Uu) | [Fala o Nome do Homi](https://open.spotify.com/album/6HvxIWlUpBLW4JsMtlEP0j) | 2:03 |
 | 95 | [Chá](https://open.spotify.com/track/7ldUNr224v5l7YCcZmQrL7) | [Lupa](https://open.spotify.com/artist/7yct0AdXUgrHi83xwSt902) | [Chá](https://open.spotify.com/album/2YFrtVqG5JVvNc8GDclI4K) | 2:45 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 98 | [Dançando na Beira](https://open.spotify.com/track/1CJinr5iT6uvtlhfHlmPKb) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp), [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Dançando na Beira](https://open.spotify.com/album/1yeebqzzcH81XYUDAl44y8) | 2:43 |
 | 99 | [Dezembro](https://open.spotify.com/track/6fqyjifsBZiZLpYA8n3FuB) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x) | [Dezembro](https://open.spotify.com/album/6YTd5CGlZO7L1pnUSgvSvl) | 3:48 |
 
-Snapshot ID: `MCxkYmM2YWY1Y2U3YzI0ZjZiMjAxZTRkMWQ0YjhmYzRlMThkOGIxYjg0`
+Snapshot ID: `MCw3NTAxNjI2YzE1NGRiZWRmYzEwNWFiNjMzYmEzYzg0YmRkOWFiMTY0`

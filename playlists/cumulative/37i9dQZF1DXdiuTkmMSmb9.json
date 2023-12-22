@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tropical jams to catch a vibe and whine to. Cover: Libianca",
+  "description": "Tropical jams to catch a vibe and whine to. Cover: Wizkid",
   "name": "Afro Fusion",
   "tracks": [
     {
@@ -4247,6 +4247,24 @@
     },
     {
       "album": {
+        "name": "Me or Him",
+        "url": "https://open.spotify.com/album/4vcVtYquP8ffHwKgzmkPEY"
+      },
+      "artists": [
+        {
+          "name": "Daniel Bukuru",
+          "url": "https://open.spotify.com/artist/64vfsqk9SccdA5Eqr8XPP7"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192538,
+      "name": "Me or Him",
+      "url": "https://open.spotify.com/track/7MvYd9nPzSIWn6x66PNUxk"
+    },
+    {
+      "album": {
         "name": "Mercy",
         "url": "https://open.spotify.com/album/2DWDjIDrDSiL0XPW4qy9kR"
       },
@@ -5110,6 +5128,28 @@
       "duration_ms": 168802,
       "name": "Okay",
       "url": "https://open.spotify.com/track/5DXRCUXssxlsM8mHQpT4Ej"
+    },
+    {
+      "album": {
+        "name": "S2",
+        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210194,
+      "name": "Ololufe (feat. Wande Coal)",
+      "url": "https://open.spotify.com/track/0x3sDnom0itB72oEVrRE7v"
     },
     {
       "album": {

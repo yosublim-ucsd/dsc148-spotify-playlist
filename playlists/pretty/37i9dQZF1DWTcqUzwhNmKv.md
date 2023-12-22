@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Bring Me the Horizon on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,469,055 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,469,330 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [Two Alive Amongst The Dead](https://open.spotify.com/track/4CjxnxOt8coAxh51QZEHkI) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [Two Alive Amongst The Dead](https://open.spotify.com/album/4Kwjj9SUOtSG80euLteDsS) | 2:47 |
 | 75 | [Silana](https://open.spotify.com/track/0LDzW0VKe4UsbOhnmM7aC9) | [Capra](https://open.spotify.com/artist/4jfu3bxtFywqyCRuTcsve4) | [Errors](https://open.spotify.com/album/3fCRAPxbNpZP9qzDXiblCI) | 3:00 |
 
-Snapshot ID: `MCxhNmQwMDQzNTVhZDk5NGVmZDNlOGI0NDZhOTBkYzQ1NTNjYTU5Y2Ew`
+Snapshot ID: `MCxjZjg0MDMwMjNlYTdhYWRhNGJkZGUxODQzMjIwMmFhZGYzY2IzMTFm`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Solo il meglio dello street rap italiano. Cover: Fre_nky",
+  "description": "Solo il meglio dello street rap italiano. Cover: Rhove, ANNA",
   "name": "Street Culto",
   "tracks": [
     {
@@ -346,7 +346,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 143424,
       "name": "ABC (feat. Bello Figo)",
       "url": "https://open.spotify.com/track/50qPOMP2Kw8qOD1dsExaKQ"
@@ -406,8 +406,8 @@
           "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
         },
         {
-          "name": "FT kings",
-          "url": "https://open.spotify.com/artist/2jq6rrOegUcrh5evVOfqnK"
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
         }
       ],
       "date_added": "2023-10-19",
@@ -967,6 +967,32 @@
     },
     {
       "album": {
+        "name": "BALLAS 2",
+        "url": "https://open.spotify.com/album/05ErXdPOeswAAeB7EXoUXB"
+      },
+      "artists": [
+        {
+          "name": "Diss Gacha",
+          "url": "https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu"
+        },
+        {
+          "name": "MamboLosco",
+          "url": "https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41"
+        },
+        {
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184041,
+      "name": "BALLAS 2",
+      "url": "https://open.spotify.com/track/5dftDcqeIMeoJcZX0YnZsl"
+    },
+    {
+      "album": {
         "name": "BALLAS RMX (feat. MamboLosco, Janga ODT)",
         "url": "https://open.spotify.com/album/7EsYWxFYeTdJp2Ncf1HTHE"
       },
@@ -1330,7 +1356,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 166451,
       "name": "BIMBO (feat. Silent Bob)",
       "url": "https://open.spotify.com/track/4c5wegs9dkCHNhEyHAunBB"
@@ -3335,6 +3361,32 @@
     },
     {
       "album": {
+        "name": "FERRO (feat. Rasty Kilo)",
+        "url": "https://open.spotify.com/album/5GqANzKvHEhOzby11m8iUe"
+      },
+      "artists": [
+        {
+          "name": "emanuelino",
+          "url": "https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU"
+        },
+        {
+          "name": "Rasty Kilo",
+          "url": "https://open.spotify.com/artist/0W7yEx7tCUH0FGMHB3DUL8"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167491,
+      "name": "FERRO (feat. Rasty Kilo)",
+      "url": "https://open.spotify.com/track/1PSoQsnBRfq3hIZGKQhoa8"
+    },
+    {
+      "album": {
         "name": "Fid\u00e8le",
         "url": "https://open.spotify.com/album/1sMos7HLI4co6zgJ0loIM3"
       },
@@ -3372,7 +3424,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 205885,
       "name": "Fils De Pute (feat. Speranza & Rafil\u00f9)",
       "url": "https://open.spotify.com/track/24FFdPglqlH5uXwBwyY8kb"
@@ -5651,6 +5703,24 @@
     },
     {
       "album": {
+        "name": "Nati Per Fare La Guerra",
+        "url": "https://open.spotify.com/album/3B72CwXRmMdlSSJW6cza0h"
+      },
+      "artists": [
+        {
+          "name": "Nabi",
+          "url": "https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138782,
+      "name": "Nati Per Fare La Guerra",
+      "url": "https://open.spotify.com/track/5kjCIGDQzAWgfSKsnjnX7D"
+    },
+    {
+      "album": {
         "name": "Nato Per Questo",
         "url": "https://open.spotify.com/album/3nrUsKXZlLAEKE5HUeoc0v"
       },
@@ -7695,6 +7765,24 @@
     },
     {
       "album": {
+        "name": "EXPORT",
+        "url": "https://open.spotify.com/album/30Dl1ii75LPbTc0LqXBo2s"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Si si (140bpm - Emin)",
+      "url": "https://open.spotify.com/track/3slUj8GoFg2hBcXhWwiq70"
+    },
+    {
+      "album": {
         "name": "Silenzioso",
         "url": "https://open.spotify.com/album/0wmn2eLaiFYf2qN57RcWgH"
       },
@@ -8244,7 +8332,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 188654,
       "name": "Syrup",
       "url": "https://open.spotify.com/track/1CVw4Qr8LTapyiovASUpff"

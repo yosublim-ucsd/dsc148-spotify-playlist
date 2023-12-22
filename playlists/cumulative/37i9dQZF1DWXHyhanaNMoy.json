@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion, fissa & good vibes! Cover: J Balvin",
+  "description": "Motion, fissa & good vibes! Cover: Wizkid",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -1753,6 +1753,40 @@
     },
     {
       "album": {
+        "name": "Basshall Session #3",
+        "url": "https://open.spotify.com/album/5VUd2RpxoXyxGehYhO7AVn"
+      },
+      "artists": [
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        },
+        {
+          "name": "Tribal Kush",
+          "url": "https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD"
+        },
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Jahyanai",
+          "url": "https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8"
+        },
+        {
+          "name": "Kalibwoy",
+          "url": "https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154455,
+      "name": "Basshall Session #3",
+      "url": "https://open.spotify.com/track/1A9C5UhP7LocWVO5ycWsLb"
+    },
+    {
+      "album": {
         "name": "Bay Bin Bay",
         "url": "https://open.spotify.com/album/5j9oYJzz1jl9TVZElO2HFD"
       },
@@ -2562,7 +2596,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 208657,
       "name": "BMS (feat. Henkie T)",
       "url": "https://open.spotify.com/track/3W8JSq7pOdwMdKkFpoEU9N"
@@ -3128,7 +3162,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 148672,
       "name": "Butta My Bread",
       "url": "https://open.spotify.com/track/3aJF7HsFOwuUAFOaRMQCxR"
@@ -3636,7 +3670,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 153346,
       "name": "City Boys",
       "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
@@ -5895,6 +5929,24 @@
     },
     {
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/2tGQUAYe9tAv0cb5FyZPxp"
+      },
+      "artists": [
+        {
+          "name": "Yacn",
+          "url": "https://open.spotify.com/artist/1GJs903cqCxvcxyLoKTeDH"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/5oxqtbOcGrtngCmVBKO50i"
+    },
+    {
+      "album": {
         "name": "Froes",
         "url": "https://open.spotify.com/album/2I1EFFEBTwp4eiHPTu21Yt"
       },
@@ -7232,10 +7284,32 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 154722,
       "name": "IDGAF",
       "url": "https://open.spotify.com/track/498vwBN11kmG729pNaRS8j"
+    },
+    {
+      "album": {
+        "name": "Als Het Niet Nu Is, Wanneer Dan Wel?",
+        "url": "https://open.spotify.com/album/2eMMlN2RGY5zhDNEn1OoXU"
+      },
+      "artists": [
+        {
+          "name": "Jandro",
+          "url": "https://open.spotify.com/artist/7hofCdl9njgv82JjU0HPwI"
+        },
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154722,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/5yFWXhANGrQFCFnJfbV838"
     },
     {
       "album": {
@@ -11708,6 +11782,28 @@
       "duration_ms": 120465,
       "name": "OK",
       "url": "https://open.spotify.com/track/1iOuMmgWQGonnhIwvow7Ac"
+    },
+    {
+      "album": {
+        "name": "S2",
+        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210194,
+      "name": "Ololufe (feat. Wande Coal)",
+      "url": "https://open.spotify.com/track/0x3sDnom0itB72oEVrRE7v"
     },
     {
       "album": {
@@ -16198,7 +16294,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 135849,
       "name": "Tril",
       "url": "https://open.spotify.com/track/6kSv8PoHReHzdB7sFBf2l7"

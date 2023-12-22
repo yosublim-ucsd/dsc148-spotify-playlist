@@ -2,7 +2,7 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> Aliocha Schneider au top des 50 hits de variété française du moment.
+> Vianney, Kendji Girac et Soprano au top des 50 hits de variété française du moment.
 
 80 songs - 4 hr 14 min
 

@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 30706,
+  "num_followers": 30712,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzMzZTdhODYyZjJlNGNhZjA3ZTc5NTc1N2Q3ZWVmODU5ZTZmYmE5",
+  "snapshot_id": "MCw2ZWQ2MzMzNTFlMzdmMWUyMTc2OWI1OTUwYWIzZDA2YWNlM2IyYWU4",
   "tracks": [
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Ond saga",
-        "url": "https://open.spotify.com/album/4ZjxaSk7kgGkWIttkK7D0X"
-      },
-      "artists": [
-        {
-          "name": "KSMB",
-          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
-        }
-      ],
-      "duration_ms": 140653,
-      "name": "Dom br\u00e4nner bilar",
-      "url": "https://open.spotify.com/track/5yVfBRMPGnNDFZiUJWX0bN"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "Krymplings",
         "url": "https://open.spotify.com/album/6lHYeeAQXLPGqEM4wSXlKj"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 152066,
       "name": "Jag Vill Ha En Slav",
       "url": "https://open.spotify.com/track/4xO1DQ3opSAtufO7oNP0C4"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Ond saga",
+        "url": "https://open.spotify.com/album/4ZjxaSk7kgGkWIttkK7D0X"
+      },
+      "artists": [
+        {
+          "name": "KSMB",
+          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
+        }
+      ],
+      "duration_ms": 140653,
+      "name": "Dom br\u00e4nner bilar",
+      "url": "https://open.spotify.com/track/5yVfBRMPGnNDFZiUJWX0bN"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Rosita",
-        "url": "https://open.spotify.com/album/4ub7wQzeA0WWwstboakvmg"
-      },
-      "artists": [
-        {
-          "name": "The Manikins",
-          "url": "https://open.spotify.com/artist/7GW07MfbJzyhaXH4q8rJsu"
-        }
-      ],
-      "duration_ms": 190976,
-      "name": "Rosita",
-      "url": "https://open.spotify.com/track/7tCrArweMQhmc2s8ad0d53"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "V\u00e4rdel\u00f6s",
         "url": "https://open.spotify.com/album/4j1KS0IccBP03iFKJpj0qp"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 151800,
       "name": "Pappa Betalar",
       "url": "https://open.spotify.com/track/6Z8nFhmIrtcWNYhwLb8qZB"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Rosita",
+        "url": "https://open.spotify.com/album/4ub7wQzeA0WWwstboakvmg"
+      },
+      "artists": [
+        {
+          "name": "The Manikins",
+          "url": "https://open.spotify.com/artist/7GW07MfbJzyhaXH4q8rJsu"
+        }
+      ],
+      "duration_ms": 190976,
+      "name": "Rosita",
+      "url": "https://open.spotify.com/track/7tCrArweMQhmc2s8ad0d53"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "\u00c4nnu En G\u00e5ng",
-        "url": "https://open.spotify.com/album/6E7agzpUqkobH8BXLbct0F"
+        "name": "Lyckliga Land",
+        "url": "https://open.spotify.com/album/3jnqE1lvZi9o7ivHjc1YR7"
       },
       "artists": [
         {
-          "name": "Gymnastiken",
-          "url": "https://open.spotify.com/artist/2Y0hhrOobEr0wh8JbCBiI2"
+          "name": "Iguana party",
+          "url": "https://open.spotify.com/artist/0KnMJRO7zyMJ0Ny8K0P84Q"
         }
       ],
-      "duration_ms": 155733,
-      "name": "\u00c4gander\u00e4tt?",
-      "url": "https://open.spotify.com/track/0xiDWdGTuCKSuPwgZ9B22F"
+      "duration_ms": 201093,
+      "name": "Lyckliga Land",
+      "url": "https://open.spotify.com/track/1NB4kKYHMHPdQl6Jx6xxns"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1399,34 +1399,18 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Lyckliga Land",
-        "url": "https://open.spotify.com/album/3jnqE1lvZi9o7ivHjc1YR7"
+        "name": "\u00c4nnu En G\u00e5ng",
+        "url": "https://open.spotify.com/album/6E7agzpUqkobH8BXLbct0F"
       },
       "artists": [
         {
-          "name": "Iguana party",
-          "url": "https://open.spotify.com/artist/0KnMJRO7zyMJ0Ny8K0P84Q"
+          "name": "Gymnastiken",
+          "url": "https://open.spotify.com/artist/2Y0hhrOobEr0wh8JbCBiI2"
         }
       ],
-      "duration_ms": 201093,
-      "name": "Lyckliga Land",
-      "url": "https://open.spotify.com/track/1NB4kKYHMHPdQl6Jx6xxns"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "What We Did Best",
-        "url": "https://open.spotify.com/album/6bnVgn4BzsaWzdplPWGPUp"
-      },
-      "artists": [
-        {
-          "name": "Skumdum",
-          "url": "https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS"
-        }
-      ],
-      "duration_ms": 243680,
-      "name": "Meningsl\u00f6sa M\u00e5ndag",
-      "url": "https://open.spotify.com/track/0UzFvtPaF7mlnV4d3WynM4"
+      "duration_ms": 155733,
+      "name": "\u00c4gander\u00e4tt?",
+      "url": "https://open.spotify.com/track/0xiDWdGTuCKSuPwgZ9B22F"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1443,6 +1427,22 @@
       "duration_ms": 202640,
       "name": "Till Krig",
       "url": "https://open.spotify.com/track/2Dm3dpz92r2Ov6ahGrrpDT"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "What We Did Best",
+        "url": "https://open.spotify.com/album/6bnVgn4BzsaWzdplPWGPUp"
+      },
+      "artists": [
+        {
+          "name": "Skumdum",
+          "url": "https://open.spotify.com/artist/5s6MpxYo0TqzCuNIqVIRFS"
+        }
+      ],
+      "duration_ms": 243680,
+      "name": "Meningsl\u00f6sa M\u00e5ndag",
+      "url": "https://open.spotify.com/track/0UzFvtPaF7mlnV4d3WynM4"
     },
     {
       "added_at": "2023-12-14 23:00:00",

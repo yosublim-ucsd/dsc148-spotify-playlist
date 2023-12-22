@@ -4,7 +4,7 @@
 
 > New, leftfield, and for the real hip\-hop stans! Cover: AG Club
 
-727 songs - 1 day 11 hr 25 min
+728 songs - 1 day 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -500,7 +500,8 @@
 | [Pole Vaulting](https://open.spotify.com/track/62qfZo0EbE7iTgwQU8gl4A) | [Kembe X](https://open.spotify.com/artist/4uc4iep3LqgSj8qN4kp7qD), [Hippie Sabotage](https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE) | [Pole Vaulting](https://open.spotify.com/album/5PQECYAgwzYDghXgPeac4T) | 3:36 | 2023-10-06 |  |
 | [Pomegranate](https://open.spotify.com/track/1jNKhbKmDgYSHHSCEeMXey) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Lyrics to GO, Vol\. 2](https://open.spotify.com/album/0nJ5saIxlohpcXqBR586pH) | 1:49 | 2021-09-03 | 2022-10-15 |
 | [Popeye](https://open.spotify.com/track/2dQkCBUasJzLfNjSumrRDd) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe), [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Popeye](https://open.spotify.com/album/3xrOFa0RU14V1b9gIH1NQN) | 2:54 | 2021-09-03 | 2022-07-27 |
-| [POPTHATRUNK](https://open.spotify.com/track/6FxxGoSCC9UaX8loeVwrcs) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [POPTHATRUNK](https://open.spotify.com/album/0brdkkqwVS8Y4v4s3xCZ7S) | 2:13 | 2023-08-25 |  |
+| [POPTHATRUNK](https://open.spotify.com/track/4BLbZo3DCqQXMzogWV1GNP) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [POPTHATRUNK](https://open.spotify.com/album/2eFWG2ZnDaiiesSNssfaVc) | 2:13 | 2023-12-15 |  |
+| [POPTHATRUNK](https://open.spotify.com/track/6FxxGoSCC9UaX8loeVwrcs) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [POPTHATRUNK](https://open.spotify.com/album/0brdkkqwVS8Y4v4s3xCZ7S) | 2:13 | 2023-08-25 | 2023-12-22 |
 | [Positive](https://open.spotify.com/track/6e3pgQU3ejuK8sqRSHo6su) | [Khary](https://open.spotify.com/artist/4489Zgs4RNq2ZtSh3UnOxZ), [YOG$](https://open.spotify.com/artist/22PiLADkpKIOBgYDt10UXI) | [Positive](https://open.spotify.com/album/4hK6GXrRsNajwG0KIPE2vn) | 3:30 | 2023-09-29 | 2023-10-28 |
 | [potentially the interlude](https://open.spotify.com/track/4TzRq3VeLAeIkdLa96QaRl) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Sundial](https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt) | 2:07 | 2023-08-11 | 2023-08-26 |
 | [Power Power \(feat\. Shaun Ross\)](https://open.spotify.com/track/5XzBAMcPTnB3p1xzYyVhxc) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Shaun Ross](https://open.spotify.com/artist/6GaWtlUT3oavD9SEzhZrA1) | [Power Power \(feat\. Shaun Ross\)](https://open.spotify.com/album/1ftvN3M5OehacrwQ0XJ5cP) | 3:08 | 2022-02-25 | 2023-03-11 |

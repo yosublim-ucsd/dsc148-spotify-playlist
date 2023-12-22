@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: ドミコ
 
-1,155 songs - 2 day 23 hr 45 min
+1,156 songs - 2 day 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -802,6 +802,7 @@
 | [さよならクレール](https://open.spotify.com/track/0vtywjF2euyyRUUJLMvirz) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [NIA](https://open.spotify.com/album/25MbiBXGBg5L7TyWJINPU7) | 3:50 | 2023-03-30 | 2023-07-31 |
 | [さよなら感染対策](https://open.spotify.com/track/1KNS7g79qVxgYrgIXUQoP4) | [ポニーのヒサミツ](https://open.spotify.com/artist/5Jgmn1ZKXTKLR1uxbu0lSg) | [さよなら感染対策](https://open.spotify.com/album/2v19aEF2VPg6pZO2FMUekS) | 2:50 | 2023-08-30 | 2023-09-06 |
 | [さらまっぽ](https://open.spotify.com/track/6f9Fl22sy1UhH788M7BkH3) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [さらまっぽ](https://open.spotify.com/album/0eWUONdRJ4WYpwcoh3D3hA) | 3:19 | 2023-06-27 | 2023-08-02 |
+| [しょうもない夜](https://open.spotify.com/track/1mSDhkET9Qecp1EuPWX7Er) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [しょうもない夜](https://open.spotify.com/album/31zPEVkCWiYlzMKJF2FvGc) | 3:32 | 2023-12-21 |  |
 | [ずっとIMI](https://open.spotify.com/track/0R98847JNfUWNTNaeYCwTU) | [蓮沼執太フィル](https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5) | [ずっとIMI](https://open.spotify.com/album/7wPGSbDiZtj7fPrOsgUPSx) | 2:58 | 2023-03-14 | 2023-03-22 |
 | [それでも、僕は](https://open.spotify.com/track/3vQGpmtadSq1uSkebkrLzW) | [ポニーのヒサミツ](https://open.spotify.com/artist/5Jgmn1ZKXTKLR1uxbu0lSg) | [それでも、僕は](https://open.spotify.com/album/7AigxeTzOuM1MoiHvL61KG) | 4:11 | 2023-02-28 | 2023-03-15 |
 | [たのしいひとり](https://open.spotify.com/track/6jtS7UUrQNrzz8rvycH70P) | [Yujiro Kudo](https://open.spotify.com/artist/199lz68d4IMX2Ep1QA66NA) | [たのしいひとり](https://open.spotify.com/album/76mqPlKogdLjSxmPC7Wopt) | 2:31 | 2023-06-08 | 2023-07-23 |
@@ -1036,7 +1037,7 @@
 | [春の匂いに誘われて](https://open.spotify.com/track/6eBoTEaIcF7lZQE3GBE3Kl) | [Merlion](https://open.spotify.com/artist/0DetD9qvM9Qiokxzo3Srmq) | [春の匂いに誘われて](https://open.spotify.com/album/7KJG0imdCMwHBnyloMglft) | 1:37 | 2023-04-20 | 2023-05-14 |
 | [春よ、恋](https://open.spotify.com/track/5apcXZd7pDhlHYM3fpLIK7) | [the shes gone](https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7) | [春よ、恋](https://open.spotify.com/album/158n63trUTwgLxptMqxA7h) | 5:01 | 2023-01-24 | 2023-02-08 |
 | [春告](https://open.spotify.com/track/5fXCX7eOJSTM6JnwkVeaXJ) | [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [春告](https://open.spotify.com/album/6lXoXCIkKfwKjAxPhDCRYZ) | 3:15 | 2023-03-07 | 2023-05-17 |
-| [時の解決](https://open.spotify.com/track/7KmjtQirbhpj3aeLu3BA7l) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [景色一空](https://open.spotify.com/album/2XAZByUJaGLU5E60QB3zKb) | 6:16 | 2023-10-17 |  |
+| [時の解決](https://open.spotify.com/track/7KmjtQirbhpj3aeLu3BA7l) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [景色一空](https://open.spotify.com/album/2XAZByUJaGLU5E60QB3zKb) | 6:16 | 2023-10-17 | 2023-12-22 |
 | [時間と距離と僕らの旅 \- Rearrange](https://open.spotify.com/track/1HACQgKVGMD8ujdUSiBtl5) | [odol](https://open.spotify.com/artist/1JWciWrGdCTOWeycrjFWpS) | [時間と距離と僕らの旅 \(Rearrange\)](https://open.spotify.com/album/3fpf3mwrSsq3pTQw5LKskP) | 4:17 | 2023-03-21 | 2023-05-23 |
 | [時間はもどらない](https://open.spotify.com/track/4xP4sPe9qhPOKZf9XPsLQV) | [WANG GUNG BAND](https://open.spotify.com/artist/7yHwDGb1SxYEJGjqnjTNtP) | [時間はもどらない](https://open.spotify.com/album/41k17yxAAFQbfXhUrokSKO) | 4:39 | 2023-09-19 | 2023-09-21 |
 | [景色一空](https://open.spotify.com/track/3CfgUhEuuWhwQRkj60SjbY) | [KUKIKODAN](https://open.spotify.com/artist/7mzrWoSNJn8MaPPBPNr9yS) | [景色一空](https://open.spotify.com/album/6gyGX7WrIQKwOWGZHFHgJu) | 4:47 | 2023-10-10 | 2023-11-22 |

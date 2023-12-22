@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLgt88NcLXo.md) - [plain]
 
 > Guitarra cálida e instrumental para un agradable inicio de día.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,986 likes - 150 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,985 likes - 150 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLgt88NcLXo.md) - [plain]
 | 54 | [Oklahoma](https://open.spotify.com/track/76zbGOyubID2QvyjLrY1AU) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Oklahoma](https://open.spotify.com/album/0TkLrVd4OUeTrn1yWXBM3E) | 2:18 |
 | 55 | [El Sabio](https://open.spotify.com/track/1BD7TSYXjUvy4TSK32Wdvt) | [Alonso Librado](https://open.spotify.com/artist/0fCLdOidYGZ2fORXrf3zw0) | [El Sabio](https://open.spotify.com/album/7rEdQ9J5cqBWErZkHyLf7n) | 2:06 |
 | 56 | [When Sarah Returned](https://open.spotify.com/track/0Osgo37JsM3e6PKkrRGX77) | [Daniel Kaede](https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt) | [Somewhere Ahead](https://open.spotify.com/album/5qoSYzAjuuMXA6AaIn5YJT) | 2:36 |
-| 57 | [L'heure de l'harmonie](https://open.spotify.com/track/7818YjCizM6uEh7gjYzVdj) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [L'heure de l'harmonie](https://open.spotify.com/album/0P6Ka37RvhKX8a8AjrGdhc) | 2:19 |
-| 58 | [A Quiet Message](https://open.spotify.com/track/71cuAghXvaIQVBKGRwPDcK) | [Morris Lafleur](https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu) | [A Quiet Message](https://open.spotify.com/album/2oXytMuBdpnQjKnqnSgqdT) | 2:45 |
+| 57 | [A Quiet Message](https://open.spotify.com/track/71cuAghXvaIQVBKGRwPDcK) | [Morris Lafleur](https://open.spotify.com/artist/1YTqyOojEyhUFxFU6X5KKu) | [A Quiet Message](https://open.spotify.com/album/2oXytMuBdpnQjKnqnSgqdT) | 2:45 |
+| 58 | [L'heure de l'harmonie](https://open.spotify.com/track/7818YjCizM6uEh7gjYzVdj) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [L'heure de l'harmonie](https://open.spotify.com/album/0P6Ka37RvhKX8a8AjrGdhc) | 2:19 |
 | 59 | [Sweet Sky](https://open.spotify.com/track/2HUz7Vn3QcsmCPrHmJojvi) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Sweet Sky](https://open.spotify.com/album/7M45WfGEysgnjPlcV2Fmud) | 3:00 |
 | 60 | [Broken Sky](https://open.spotify.com/track/6AIGjxyH4CnUfBXR8LHn0n) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB), [Andrew York](https://open.spotify.com/artist/5MV6MvG9LFSSmrPqOkpBZQ) | [Broken Sky](https://open.spotify.com/album/0TnxaPHs6kY6CpS1kT1xun) | 2:37 |
 | 61 | [Empty Sky](https://open.spotify.com/track/2eMQEd4Eak1eHAR3l8W2GL) | [Wanderer's Trove](https://open.spotify.com/artist/5G70OWQLpkb6IXJU1ut7E1) | [Empty Sky](https://open.spotify.com/album/1WoTK3nCb4P4Drcj8Jekw5) | 3:55 |
@@ -92,20 +92,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLgt88NcLXo.md) - [plain]
 | 82 | [Quite Comfy](https://open.spotify.com/track/0oAZ7VXoIgk8Q8Izs0YkhO) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Quite Comfy](https://open.spotify.com/album/3gf4STG2CwjdpqjqSJNKKw) | 3:34 |
 | 83 | [Estrella](https://open.spotify.com/track/0Q5dhHQXDR3JF4w2Q3JFRj) | [Roy De Paz](https://open.spotify.com/artist/6FqYBvcTFHuoGGZ0pLNOpg) | [Estrella](https://open.spotify.com/album/42ujA4hBAj6SU1MkGkgAKE) | 2:33 |
 | 84 | [El Raval](https://open.spotify.com/track/6uJivEVCODHUHv5d772Sll) | [Los Suculentos](https://open.spotify.com/artist/7bTwrUAlEQ5eq0GILDbSYN) | [El Raval](https://open.spotify.com/album/6ZDP9iCNBu05nZfeJQ2Ez4) | 3:07 |
-| 85 | [Fawns in Spring](https://open.spotify.com/track/2C3ykZW6V8CFVEbBrSa0gK) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Fawns in Spring](https://open.spotify.com/album/4Oo8SDRLkxG7KkMxlSjsOr) | 2:39 |
-| 86 | [Bella Noche](https://open.spotify.com/track/00lkxxDKU6VQAeG1Szxm42) | [Isaac Valero](https://open.spotify.com/artist/6E6ZVCiRYmdbc6Y1Ujgxnm) | [Bella Noche](https://open.spotify.com/album/062sHAqcQvuNhGscr48xfK) | 2:20 |
-| 87 | [Keirin](https://open.spotify.com/track/0ZlIp06FN57EBXDO1oYeUp) | [Paris Little](https://open.spotify.com/artist/2Set9fzetOO5FobntPuLwl) | [Keirin](https://open.spotify.com/album/16u16SQul659X2qT4tc8Zw) | 3:06 |
-| 88 | [Homebound](https://open.spotify.com/track/3fZolWbWofhjyFDQXWL0T3) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Homebound](https://open.spotify.com/album/36VPh59fnClN38LLdlgHnU) | 2:24 |
-| 89 | [tranquila](https://open.spotify.com/track/0WfGcbNKdff8Ud2kQVW2nz) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [tranquila](https://open.spotify.com/album/2SkyKZ3eE11Hyrg3E1BZZy) | 2:49 |
-| 90 | [Unforced](https://open.spotify.com/track/56hk6GkYuk8AmUOdjPEYDb) | [Toledo Heights](https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q) | [Unforced](https://open.spotify.com/album/1ID1Z4DCgMELtWTnLyscGQ) | 2:21 |
-| 91 | [Private Investigation](https://open.spotify.com/track/5UJX41yJ3og8Jb1Gn6kjMv) | [Owen Larssen](https://open.spotify.com/artist/5KC38oAHkvoeZvx2k9Pwlo) | [Private Investigation](https://open.spotify.com/album/5h0J1K7pgcNeILEhv472rN) | 3:04 |
+| 85 | [Bella Noche](https://open.spotify.com/track/00lkxxDKU6VQAeG1Szxm42) | [Isaac Valero](https://open.spotify.com/artist/6E6ZVCiRYmdbc6Y1Ujgxnm) | [Bella Noche](https://open.spotify.com/album/062sHAqcQvuNhGscr48xfK) | 2:20 |
+| 86 | [Fawns in Spring](https://open.spotify.com/track/2C3ykZW6V8CFVEbBrSa0gK) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Fawns in Spring](https://open.spotify.com/album/4Oo8SDRLkxG7KkMxlSjsOr) | 2:39 |
+| 87 | [Homebound](https://open.spotify.com/track/3fZolWbWofhjyFDQXWL0T3) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Homebound](https://open.spotify.com/album/36VPh59fnClN38LLdlgHnU) | 2:24 |
+| 88 | [Keirin](https://open.spotify.com/track/0ZlIp06FN57EBXDO1oYeUp) | [Paris Little](https://open.spotify.com/artist/2Set9fzetOO5FobntPuLwl) | [Keirin](https://open.spotify.com/album/16u16SQul659X2qT4tc8Zw) | 3:06 |
+| 89 | [Private Investigation](https://open.spotify.com/track/5UJX41yJ3og8Jb1Gn6kjMv) | [Owen Larssen](https://open.spotify.com/artist/5KC38oAHkvoeZvx2k9Pwlo) | [Private Investigation](https://open.spotify.com/album/5h0J1K7pgcNeILEhv472rN) | 3:04 |
+| 90 | [tranquila](https://open.spotify.com/track/0WfGcbNKdff8Ud2kQVW2nz) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [tranquila](https://open.spotify.com/album/2SkyKZ3eE11Hyrg3E1BZZy) | 2:49 |
+| 91 | [Unforced](https://open.spotify.com/track/56hk6GkYuk8AmUOdjPEYDb) | [Toledo Heights](https://open.spotify.com/artist/1nxXdVa0LIKGjk0eLLRM6q) | [Unforced](https://open.spotify.com/album/1ID1Z4DCgMELtWTnLyscGQ) | 2:21 |
 | 92 | [Evenings at Point Reyes](https://open.spotify.com/track/2OZrAhYxb2v5ZCFGb7QrD6) | [Riverkin](https://open.spotify.com/artist/4xsqwbF6mpNckpRPn4AEBr) | [Two Trees](https://open.spotify.com/album/2qNkOL7MgmDaFpTGCiqUZd) | 2:54 |
-| 93 | [Viajando Solo](https://open.spotify.com/track/6zKkOpnyYB8sFhjK6NQRgX) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Viajando Solo](https://open.spotify.com/album/4H7MijgiJFlbsVpP2vd1Ij) | 2:43 |
-| 94 | [Easy On The Road Ahead](https://open.spotify.com/track/1bEeNRyUZ236ES8UyPSJxF) | [Woodfray](https://open.spotify.com/artist/1oMo7wloYRSjSQNKgnJlRc) | [Waitwall Mountain](https://open.spotify.com/album/1PSaMx8sT3d1hVK7nUz9tX) | 2:30 |
-| 95 | [Treasures](https://open.spotify.com/track/1RByCxHaCocuHZtSjItbDl) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Treasures](https://open.spotify.com/album/5Z7o5BPIvdd8tMSHMMObQ7) | 2:19 |
-| 96 | [Sweet Disposition](https://open.spotify.com/track/5gNlgxqfMX2G1ptN8hGniT) | [Cody Lane](https://open.spotify.com/artist/5PXw7CZ8v8fcIETkAuHkwJ) | [Ode To The Restless Heart](https://open.spotify.com/album/74hAowWLPfmmeKIxsJF0e1) | 2:40 |
-| 97 | [Whispering Layers](https://open.spotify.com/track/29HXSiNvjzOadUBozQ1wJC) | [Pacific Strings](https://open.spotify.com/artist/5rMCidkAPpXFooZbVUrbuZ) | [Whispering Layers](https://open.spotify.com/album/1Xo3DXwlMHItplKwelQCMT) | 2:34 |
-| 98 | [Costa del Azahar](https://open.spotify.com/track/0vR5LtNZNWdZDoy2qDvZ6Y) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ), [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Costa del Azahar](https://open.spotify.com/album/6bu11bayfc1ZUlF8fDUhSM) | 2:54 |
+| 93 | [Easy On The Road Ahead](https://open.spotify.com/track/1bEeNRyUZ236ES8UyPSJxF) | [Woodfray](https://open.spotify.com/artist/1oMo7wloYRSjSQNKgnJlRc) | [Waitwall Mountain](https://open.spotify.com/album/1PSaMx8sT3d1hVK7nUz9tX) | 2:30 |
+| 94 | [Viajando Solo](https://open.spotify.com/track/6zKkOpnyYB8sFhjK6NQRgX) | [Joseph Gonzalez](https://open.spotify.com/artist/0Xx5c1qUSqajCgoUqS2dMa) | [Viajando Solo](https://open.spotify.com/album/4H7MijgiJFlbsVpP2vd1Ij) | 2:43 |
+| 95 | [Whispering Layers](https://open.spotify.com/track/29HXSiNvjzOadUBozQ1wJC) | [Pacific Strings](https://open.spotify.com/artist/5rMCidkAPpXFooZbVUrbuZ) | [Whispering Layers](https://open.spotify.com/album/1Xo3DXwlMHItplKwelQCMT) | 2:34 |
+| 96 | [Costa del Azahar](https://open.spotify.com/track/0vR5LtNZNWdZDoy2qDvZ6Y) | [Pablo Briceño](https://open.spotify.com/artist/4SoRek2FECACQBVjfhZ3sQ), [Nylonwings](https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN) | [Costa del Azahar](https://open.spotify.com/album/6bu11bayfc1ZUlF8fDUhSM) | 2:54 |
+| 97 | [Treasures](https://open.spotify.com/track/1RByCxHaCocuHZtSjItbDl) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Treasures](https://open.spotify.com/album/5Z7o5BPIvdd8tMSHMMObQ7) | 2:19 |
+| 98 | [Sweet Disposition](https://open.spotify.com/track/5gNlgxqfMX2G1ptN8hGniT) | [Cody Lane](https://open.spotify.com/artist/5PXw7CZ8v8fcIETkAuHkwJ) | [Ode To The Restless Heart](https://open.spotify.com/album/74hAowWLPfmmeKIxsJF0e1) | 2:40 |
 | 99 | [Valentine](https://open.spotify.com/track/533SnCwxVytF3viTF5kYql) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [Valentine](https://open.spotify.com/album/18wiVGkktOzfti1YGrhL9W) | 2:30 |
 | 100 | [Archetype](https://open.spotify.com/track/3i47adxdexT9O3A6o8VO9Z) | [Amine Ortega](https://open.spotify.com/artist/1LtfdXtx0vZJG76Ggr6NJc) | [Follow Me](https://open.spotify.com/album/0uWeeD2szjk9swnC0elm0e) | 3:12 |
 | 101 | [Count On Me](https://open.spotify.com/track/3DuIiNd3wmmFShjBJ7JwT8) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Count On Me](https://open.spotify.com/album/40SJHFJFV60bKRT7A0Wcv6) | 3:09 |
@@ -129,8 +129,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLgt88NcLXo.md) - [plain]
 | 119 | [Don't Save Me Yet](https://open.spotify.com/track/190uB2WD7451d6MIm8ftJd) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [Don't Save Me Yet](https://open.spotify.com/album/6CWY13gXDB3SDFjdMt4YLN) | 3:06 |
 | 120 | [Canción A Solas](https://open.spotify.com/track/2h4IHvYUMuHSRtP1IN7Mpr) | [Marta Fiscovich](https://open.spotify.com/artist/6B7cCKWOKNqdjU5bqeZAS7) | [Canción A Solas](https://open.spotify.com/album/4Qb1rsL5QvMtnDVE4fEjTZ) | 2:26 |
 | 121 | [The Bones \- Acoustic Guitar](https://open.spotify.com/track/0feIKFDxL7dsgdHZRWbdb4) | [Teddy Knight](https://open.spotify.com/artist/0fOXXu7hSPOCnufvtl9xd7) | [The Bones \(Acoustic Guitar\)](https://open.spotify.com/album/5uhCEyOokgbICmNE3f8iyh) | 3:39 |
-| 122 | [Coiseachd](https://open.spotify.com/track/6wtYnLV9sHnK1lL0t7NCyd) | [Maya Eden](https://open.spotify.com/artist/6rBVac1sBnoJsn9PbezokS) | [Coiseachd](https://open.spotify.com/album/3w97nwtlxNTKWZBxhlocnw) | 2:46 |
-| 123 | [Jewel](https://open.spotify.com/track/2faiBPE3tK6ZIaTQlJqryt) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Jewel](https://open.spotify.com/album/77qvXF79TZeKoavRQ4TfPw) | 3:20 |
+| 122 | [Jewel](https://open.spotify.com/track/2faiBPE3tK6ZIaTQlJqryt) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Jewel](https://open.spotify.com/album/77qvXF79TZeKoavRQ4TfPw) | 3:20 |
+| 123 | [Coiseachd](https://open.spotify.com/track/6wtYnLV9sHnK1lL0t7NCyd) | [Maya Eden](https://open.spotify.com/artist/6rBVac1sBnoJsn9PbezokS) | [Coiseachd](https://open.spotify.com/album/3w97nwtlxNTKWZBxhlocnw) | 2:46 |
 | 124 | [Unknown](https://open.spotify.com/track/3GAGou6aIHq6LpVOWat8yl) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [Unknown](https://open.spotify.com/album/2bOqx8yL6KpAUcNtv8RhO2) | 2:27 |
 | 125 | [Camino Del Sol](https://open.spotify.com/track/05tj0VFJS02yNTQd4GRy1C) | [Ceriumidis](https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ) | [Camino Del Sol](https://open.spotify.com/album/4fqXZ2DXJuIOpN1ZID0468) | 2:25 |
 | 126 | [Breakwater](https://open.spotify.com/track/4QfaiapQkaoDfudzWAwYcK) | [Las Almas Nuevas](https://open.spotify.com/artist/5LSP2iBRUfSpFUY7xOislt) | [Breakwater](https://open.spotify.com/album/68E9Lnnt985nLpH08wu9Hr) | 2:31 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLgt88NcLXo.md) - [plain]
 | 149 | [Senderos](https://open.spotify.com/track/0Tac24wJITYhVNDgN6o5iC) | [Julia Quirós](https://open.spotify.com/artist/1WxwRcRO4zK1lfqC5qFsZF) | [Senderos](https://open.spotify.com/album/5b2Qf2d0ca4auxwQGQ3icv) | 2:09 |
 | 150 | [Flamingos in solitude](https://open.spotify.com/track/2NjiOmgtfXhx2S0snRhKFE) | [Marta Fiscovich](https://open.spotify.com/artist/6B7cCKWOKNqdjU5bqeZAS7) | [Flamingos in solitude](https://open.spotify.com/album/4hDqjsdljJMqgDniYFJzHf) | 2:12 |
 
-Snapshot ID: `MCxmMDQ1ODJmZGI1OTNlZmExZjE3NDA3YWI5Njk1OTQxOTYwNDAxNTQw`
+Snapshot ID: `MCxkNGU2YWExMTZhMjU0MDljYWMyYzhmM2FmMzU2NDA0MTVjZjI3MzE5`

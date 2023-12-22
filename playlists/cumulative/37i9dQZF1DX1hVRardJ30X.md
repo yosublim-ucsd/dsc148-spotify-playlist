@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: Eladio Carrion
 
-5,854 songs - 12 day 19 hr 52 min
+5,855 songs - 12 day 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2759,6 +2759,7 @@
 | [Lagrimitas](https://open.spotify.com/track/57UcSYEg7QbLLZRjTgh6vd) | [Marie Monti](https://open.spotify.com/artist/1cMkpoNxTU0H7cKUENpRoX) | [Lagrimitas](https://open.spotify.com/album/42AzdbaIhssBELlcDY5j8D) | 2:40 | 2022-03-18 | 2022-03-26 |
 | [Laguna](https://open.spotify.com/track/6QN9glefJXPoy8vPZLiFL0) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Laguna](https://open.spotify.com/album/6HVsbMOf4kXG3KYBa1KOhD) | 3:31 | 2022-08-05 | 2022-08-13 |
 | [Laguna](https://open.spotify.com/track/1IXlvfEQyufn2NehDTUmdA) | [Rouss](https://open.spotify.com/artist/3Xa0w2RUuQw38J199xgj2A), [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Laguna](https://open.spotify.com/album/69GY4foDKPwFg8yTYY2fMS) | 3:42 | 2023-03-24 | 2023-04-01 |
+| [lagunas](https://open.spotify.com/track/4lB3bD59ItctK9ii4Thy3y) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [lagunas](https://open.spotify.com/album/1pCNxr8UOeAaWuJ67ZFsfx) | 3:39 | 2023-12-15 |  |
 | [LALA](https://open.spotify.com/track/4l2yplVehb4oiQ5qS5XCQc) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [LALA](https://open.spotify.com/album/7CNQuFMI9yYy8dHkPx9Y13) | 3:11 | 2023-09-29 | 2023-10-07 |
 | [LALALA](https://open.spotify.com/track/0vjqOn8iw1jQygL4KK2JCu) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [LALALA](https://open.spotify.com/album/1oOiiAylUiGg1ccIvP5wha) | 2:42 | 2022-07-01 | 2022-07-09 |
 | [LALALAND](https://open.spotify.com/track/6OMY4RzCzm7WiuyaP1XXqZ) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [555](https://open.spotify.com/album/6H5jQW4yRjWAJeFVBmEQnP) | 2:56 | 2023-04-28 | 2023-05-06 |

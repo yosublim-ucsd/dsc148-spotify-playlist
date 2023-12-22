@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-979 songs - 2 day 11 hr 37 min
+980 songs - 2 day 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Comiendo Carbón](https://open.spotify.com/track/1LvKJhu6h6ImnkGPrh4YVy) | [Livelli y los Saravia](https://open.spotify.com/artist/5dcEqAO8T3MOrBkIwWmq72), [Felo Juan](https://open.spotify.com/artist/6HMYrcolraqlDHIDL8JdEX) | [Comiendo Carbón](https://open.spotify.com/album/77B9kH4vbjF27cyj8Ubqdi) | 4:25 | 2022-03-24 | 2022-04-17 |
 | [Como Antes](https://open.spotify.com/track/1ZR473PTTSHGcnyRyidBoA) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Como Antes](https://open.spotify.com/album/7FSHQn3g0X4Io2Q2U4PcKZ) | 2:22 | 2022-04-08 | 2023-03-04 |
 | [Como Ayer](https://open.spotify.com/track/3AWPLOOFNh8vxh8yS5z8dj) | [Juanafé](https://open.spotify.com/artist/5CE7PcyVcEKMSuQA4IHF7d) | [Parrilladas Vargas \(Vol\. II\)](https://open.spotify.com/album/3Hoh17Jm3d2xW0Y73DYpcl) | 3:37 | 2022-04-01 | 2022-04-15 |
+| [Como Eran Las Cosas](https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Mucho](https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3) | 4:00 | 2023-12-21 |  |
 | [Como Las Olas](https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Trios](https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT) | 2:51 | 2022-04-08 | 2022-04-14 |
 | [Como Lo Pedí](https://open.spotify.com/track/2UTNZlatDykZEdZTrSFE4x) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Fuego](https://open.spotify.com/album/46DsjNFAHuGGjMfo1TAyct) | 4:05 | 2022-04-01 | 2022-04-18 |
 | [Como Quieras \- Blackforest Sessions](https://open.spotify.com/track/33VWyyOK98PpPexzUxEpD2) | [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB) | [Como Quieras \(Blackforest Sessions\)](https://open.spotify.com/album/5PDhhHbuo40myQOlAxcwhC) | 3:36 | 2022-03-24 | 2022-04-19 |
@@ -244,7 +245,7 @@
 | [De todas las flores](https://open.spotify.com/track/71ckXi5LTZowReRGRNA9SS) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De todas las flores](https://open.spotify.com/album/17TJKlG2c4i8S7QJfRO0IP) | 5:22 | 2022-10-07 | 2022-10-18 |
 | [De Viaje](https://open.spotify.com/track/0YwrqRHtpvlQChhbiYoQI5) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I) | [De Viaje](https://open.spotify.com/album/3vNCP5XY6ZuYMbqrLj3ChU) | 3:22 | 2022-07-15 | 2022-07-20 |
 | [Debe Haber](https://open.spotify.com/track/0cRAMf7FEpTjLdVbsJBCZU) | [Gigio&spiker](https://open.spotify.com/artist/2wxDtL8blvAzPuZsXT6qdO) | [Debe Haber](https://open.spotify.com/album/4UKYI4j1euthMJJgJyszo6) | 3:16 | 2022-03-28 | 2022-04-15 |
-| [Decide Tú](https://open.spotify.com/track/1OuRWuKhsxNdV2FCIkyCnV) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Caminarás Caminos](https://open.spotify.com/album/337mNEG0GhmCVFOflwtMlS) | 4:08 | 2021-12-24 |  |
+| [Decide Tú](https://open.spotify.com/track/1OuRWuKhsxNdV2FCIkyCnV) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Caminarás Caminos](https://open.spotify.com/album/337mNEG0GhmCVFOflwtMlS) | 4:08 | 2021-12-24 | 2023-12-22 |
 | [Dedos de Mimbre](https://open.spotify.com/track/6fIf0vqGuOeOadqJwIUzOP) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Nahuel Pennisi Canta Spinetta \(renarena\)](https://open.spotify.com/album/77CMK3j774kYdER3DD0Z3O) | 3:51 | 2022-04-13 | 2022-04-18 |
 | [Deja De Pedir Perdon \- MTV Unplugged](https://open.spotify.com/track/2pRfK1DH705B1NL48C31ka) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [MTV Unplugged](https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ) | 4:10 | 2022-04-08 | 2022-04-12 |
 | [Del Parral](https://open.spotify.com/track/1eUavbitIDbMPe9mGRnkTr) | [La Triple Nelson](https://open.spotify.com/artist/1vs5Ejn8M22dZKl4oLcvgM), [Agarrate Catalina](https://open.spotify.com/artist/0Jo06O68y5JjVgiPbAR9Ox), [Sebastián Teysera](https://open.spotify.com/artist/4TidDyz02XtlA9d32j1ZYK) | [Del Parral](https://open.spotify.com/album/4456yXFOijUYKTTstraEaJ) | 4:21 | 2022-03-28 | 2022-04-13 |

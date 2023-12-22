@@ -4,7 +4,7 @@
 
 > Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:0K0IoIF0ARUBsCeRrIs6iw">Daria Huber</a>
 
-1,020 songs - 2 day 2 hr 41 min
+1,021 songs - 2 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -709,7 +709,8 @@
 | [Persa Nella Room](https://open.spotify.com/track/3zrgJXWQCIuESyv2SnCzAE) | [Milly>](https://open.spotify.com/artist/7tTOeyKdqi5XCTXt6EFZwf) | [Persa Nella Room](https://open.spotify.com/album/0uMMNy6JtkB8s2ueMIXsQQ) | 3:00 | 2023-07-12 | 2023-08-16 |
 | [Persone Fragili](https://open.spotify.com/track/4YlUqfyJ6IasiVEZ5D4GZE) | [Dori Sorride](https://open.spotify.com/artist/6GPToISoYK67RIQxS29KfS) | [A Catturare I Raggi](https://open.spotify.com/album/7sMkpgnSLtMZE3SIa5FROR) | 4:37 | 2022-07-28 | 2022-08-27 |
 | [peso](https://open.spotify.com/track/5tlyVD3W2yvAgnK2l9HkDD) | [lambruscoxsimoeddai](https://open.spotify.com/artist/49wMxmMKaVlFwKBrrmPvGQ) | [peso](https://open.spotify.com/album/3b5BAQ20h2VRaeXR7ZB5hG) | 2:40 | 2022-04-08 | 2022-05-28 |
-| [Philosophia/Save Me](https://open.spotify.com/track/5f7WVcejmkNNOA6BjSVP2b) | [CRIPTABASEMENT](https://open.spotify.com/artist/3ds0qpI9DlQv0nve3nCG4c), [Hyrìn](https://open.spotify.com/artist/0MwTmw2jGIVUCZPYCZyeWa) | [Philosophia/Save Me](https://open.spotify.com/album/0Ce4zxdguthYJNcQltOEnJ) | 3:31 | 2023-11-07 |  |
+| [Philosophia / Save Me](https://open.spotify.com/track/5nraD9KqPszQmuT0wCSSUS) | [CRIPTABASEMENT](https://open.spotify.com/artist/3ds0qpI9DlQv0nve3nCG4c), [Hyrìn](https://open.spotify.com/artist/0MwTmw2jGIVUCZPYCZyeWa) | [Emotional Phases / Fasi Emotive](https://open.spotify.com/album/7cDzkluTZ5HTF5GPGNkxCa) | 3:31 | 2023-11-30 |  |
+| [Philosophia/Save Me](https://open.spotify.com/track/5f7WVcejmkNNOA6BjSVP2b) | [CRIPTABASEMENT](https://open.spotify.com/artist/3ds0qpI9DlQv0nve3nCG4c), [Hyrìn](https://open.spotify.com/artist/0MwTmw2jGIVUCZPYCZyeWa) | [Philosophia/Save Me](https://open.spotify.com/album/0Ce4zxdguthYJNcQltOEnJ) | 3:31 | 2023-11-07 | 2023-12-22 |
 | [Piangi mai \(domani\)](https://open.spotify.com/track/1aYYkE4vIycFLgy2IJrlGZ) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [Piangi mai \(domani\)](https://open.spotify.com/album/0MwrHf04OMj7HOG29XC5ev) | 2:32 | 2022-03-03 | 2022-05-06 |
 | [PIANGO AL TECNO](https://open.spotify.com/track/0rfiVdz6nbJwTw0dybbmyW) | [paolo.alneon](https://open.spotify.com/artist/4EOHC7Fi1B0kKa7g49tSQd) | [PIANGO AL TECNO](https://open.spotify.com/album/1P6wz7aDIgYmcDPeDFXw2K) | 2:51 | 2022-11-10 | 2022-12-01 |
 | [Piano bar](https://open.spotify.com/track/5Hhl4K5XEgOI9BGAbLC4QP) | [Orlvndo](https://open.spotify.com/artist/3Bmu3aOG2LZCHs0Isd3w5v) | [Piano bar](https://open.spotify.com/album/6GllrDx3DUNYodfk100T9f) | 3:49 | 2022-01-06 | 2022-02-18 |

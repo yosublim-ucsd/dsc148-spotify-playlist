@@ -1,12 +1,12 @@
 {
   "description": "The best in house music",
-  "num_followers": 182298,
+  "num_followers": 182342,
   "original_name": "House Supreme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjRiOTZlM2JkYmI3MmNiZDZiMzZjZDNkOGEyNThiYWZjNThmYWQ4",
+  "snapshot_id": "MCw2YjZmNDQ1NWQ1ODkyZDNlNTU1YjM4NGMwNTVjYzczOTg2MTdkODlj",
   "tracks": [
     {
       "added_at": "2023-12-15 10:14:53",
@@ -479,6 +479,26 @@
     {
       "added_at": "2023-12-15 10:14:53",
       "album": {
+        "name": "Pasilda",
+        "url": "https://open.spotify.com/album/7nTVeqrRHtGvTRCrrUmdoc"
+      },
+      "artists": [
+        {
+          "name": "Afro Medusa",
+          "url": "https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI"
+        },
+        {
+          "name": "Knee Deep",
+          "url": "https://open.spotify.com/artist/51iQEVj0SBCQZJVrNli23R"
+        }
+      ],
+      "duration_ms": 209500,
+      "name": "Pasilda - Knee Deep Mix",
+      "url": "https://open.spotify.com/track/2BUL7sF7y5oBYUQarVCukR"
+    },
+    {
+      "added_at": "2023-12-15 10:14:53",
+      "album": {
         "name": "Out The Fire (At The Hotel)",
         "url": "https://open.spotify.com/album/7n456SX833Pv7NyjcZoLis"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 214687,
       "name": "Out The Fire (At The Hotel) - Radio Edit",
       "url": "https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT"
-    },
-    {
-      "added_at": "2023-12-15 10:14:53",
-      "album": {
-        "name": "Pasilda",
-        "url": "https://open.spotify.com/album/7nTVeqrRHtGvTRCrrUmdoc"
-      },
-      "artists": [
-        {
-          "name": "Afro Medusa",
-          "url": "https://open.spotify.com/artist/6D1DgoF2TYTbPQbRPEriaI"
-        },
-        {
-          "name": "Knee Deep",
-          "url": "https://open.spotify.com/artist/51iQEVj0SBCQZJVrNli23R"
-        }
-      ],
-      "duration_ms": 209500,
-      "name": "Pasilda - Knee Deep Mix",
-      "url": "https://open.spotify.com/track/2BUL7sF7y5oBYUQarVCukR"
     },
     {
       "added_at": "2023-12-15 10:14:53",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-12-15 10:14:53",
       "album": {
-        "name": "Hungry (For Love)",
-        "url": "https://open.spotify.com/album/2VhVESPvETnPjoM9XOoeRA"
-      },
-      "artists": [
-        {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
-        }
-      ],
-      "duration_ms": 129375,
-      "name": "Hungry (For Love)",
-      "url": "https://open.spotify.com/track/4Uz7te06snSlkmcIwwAvkw"
-    },
-    {
-      "added_at": "2023-12-15 10:14:53",
-      "album": {
         "name": "Pleasure Peak",
         "url": "https://open.spotify.com/album/3myfX09GyHOpYaDN0AlHFY"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 200826,
       "name": "Pleasure Peak",
       "url": "https://open.spotify.com/track/0p4gPitg46gAPG3IdJvW5d"
+    },
+    {
+      "added_at": "2023-12-15 10:14:53",
+      "album": {
+        "name": "Hungry (For Love)",
+        "url": "https://open.spotify.com/album/2VhVESPvETnPjoM9XOoeRA"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 129375,
+      "name": "Hungry (For Love)",
+      "url": "https://open.spotify.com/track/4Uz7te06snSlkmcIwwAvkw"
     },
     {
       "added_at": "2023-12-15 10:14:53",
@@ -963,6 +963,26 @@
     {
       "added_at": "2023-12-15 10:14:53",
       "album": {
+        "name": "LIFTED",
+        "url": "https://open.spotify.com/album/6jR7uovSlToKvLXjTrPZSV"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 183460,
+      "name": "Lights Go Down",
+      "url": "https://open.spotify.com/track/6Q7fxyIXgrbk1bIySqbaij"
+    },
+    {
+      "added_at": "2023-12-15 10:14:53",
+      "album": {
         "name": "Let the Sun Shine (Purple Disco Machine Remix)",
         "url": "https://open.spotify.com/album/6UhfjhKAcnH61ZGR9zZNFh"
       },
@@ -999,26 +1019,6 @@
       "duration_ms": 196075,
       "name": "Lose My Mind (feat. Taylor Moody)",
       "url": "https://open.spotify.com/track/4lYCwQD1GjKmk7MpKSd5d9"
-    },
-    {
-      "added_at": "2023-12-15 10:14:53",
-      "album": {
-        "name": "LIFTED",
-        "url": "https://open.spotify.com/album/6jR7uovSlToKvLXjTrPZSV"
-      },
-      "artists": [
-        {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
-        },
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 183460,
-      "name": "Lights Go Down",
-      "url": "https://open.spotify.com/track/6Q7fxyIXgrbk1bIySqbaij"
     },
     {
       "added_at": "2023-12-15 10:14:53",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2023-12-15 10:14:53",
       "album": {
-        "name": "Assumptions (Jengi Remix)",
-        "url": "https://open.spotify.com/album/2waZkaQGtcdGPWIkcUMxbQ"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        },
-        {
-          "name": "Jengi",
-          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
-        }
-      ],
-      "duration_ms": 186222,
-      "name": "Assumptions - Jengi Remix",
-      "url": "https://open.spotify.com/track/3NaLD1DZ4U2VMf4WXci3Rt"
-    },
-    {
-      "added_at": "2023-12-15 10:14:53",
-      "album": {
         "name": "You Do",
         "url": "https://open.spotify.com/album/37UuuBfGL1b06mmEpeLyrl"
       },
@@ -1331,26 +1311,22 @@
     {
       "added_at": "2023-12-15 10:14:53",
       "album": {
-        "name": "FWD (feat. Rudimental & House Gospel Choir)",
-        "url": "https://open.spotify.com/album/2vRGCL4wSoBAWUkuI8KPfj"
+        "name": "Assumptions (Jengi Remix)",
+        "url": "https://open.spotify.com/album/2waZkaQGtcdGPWIkcUMxbQ"
       },
       "artists": [
         {
-          "name": "Marshall Jefferson",
-          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
         },
         {
-          "name": "House Gospel Choir",
-          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
-        },
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
         }
       ],
-      "duration_ms": 181874,
-      "name": "FWD (feat. Rudimental & House Gospel Choir)",
-      "url": "https://open.spotify.com/track/5R0MkQyiFDPxOek0AmZJt8"
+      "duration_ms": 186222,
+      "name": "Assumptions - Jengi Remix",
+      "url": "https://open.spotify.com/track/3NaLD1DZ4U2VMf4WXci3Rt"
     },
     {
       "added_at": "2023-12-15 10:14:53",
@@ -1391,6 +1367,30 @@
       "duration_ms": 160020,
       "name": "Whisper (with James Yuill)",
       "url": "https://open.spotify.com/track/0RwDjtiwRatY6Ai8z5AIna"
+    },
+    {
+      "added_at": "2023-12-15 10:14:53",
+      "album": {
+        "name": "FWD (feat. Rudimental & House Gospel Choir)",
+        "url": "https://open.spotify.com/album/2vRGCL4wSoBAWUkuI8KPfj"
+      },
+      "artists": [
+        {
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+        },
+        {
+          "name": "House Gospel Choir",
+          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        }
+      ],
+      "duration_ms": 181874,
+      "name": "FWD (feat. Rudimental & House Gospel Choir)",
+      "url": "https://open.spotify.com/track/5R0MkQyiFDPxOek0AmZJt8"
     },
     {
       "added_at": "2023-12-15 10:14:53",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-12-15 10:14:53",
       "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/2l4SDD0yV2KxNGDvfcsu2G"
+      },
+      "artists": [
+        {
+          "name": "Mashd N Kutcher",
+          "url": "https://open.spotify.com/artist/0G5lZVxoMwoY8oV6zR8E7k"
+        }
+      ],
+      "duration_ms": 131637,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/3DByB2U4tr45M2FN82HCPo"
+    },
+    {
+      "added_at": "2023-12-15 10:14:53",
+      "album": {
         "name": "A Bit Patchy (Remixes)",
         "url": "https://open.spotify.com/album/0K671SykDDeXHZ2qOUb3rm"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 460000,
       "name": "A Bit Patchy - Eric Prydz Remix",
       "url": "https://open.spotify.com/track/5JArDbrDlZPae70oqyVQov"
-    },
-    {
-      "added_at": "2023-12-15 10:14:53",
-      "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/2l4SDD0yV2KxNGDvfcsu2G"
-      },
-      "artists": [
-        {
-          "name": "Mashd N Kutcher",
-          "url": "https://open.spotify.com/artist/0G5lZVxoMwoY8oV6zR8E7k"
-        }
-      ],
-      "duration_ms": 131637,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/3DByB2U4tr45M2FN82HCPo"
     },
     {
       "added_at": "2023-12-15 10:14:53",
@@ -1743,26 +1743,6 @@
     {
       "added_at": "2023-12-15 10:14:53",
       "album": {
-        "name": "Be Funky",
-        "url": "https://open.spotify.com/album/64IIYvUmAiRd7InY8Ik4Q3"
-      },
-      "artists": [
-        {
-          "name": "Dutchican Soul",
-          "url": "https://open.spotify.com/artist/4N3bEmG3H0UjxBI0PNhDTB"
-        },
-        {
-          "name": "Yogi",
-          "url": "https://open.spotify.com/artist/5B9P0p88CmlArc27XLyRnB"
-        }
-      ],
-      "duration_ms": 207105,
-      "name": "Be Funky",
-      "url": "https://open.spotify.com/track/347yYEUgjRg4Db6ZFh0G2v"
-    },
-    {
-      "added_at": "2023-12-15 10:14:53",
-      "album": {
         "name": "Dam Swindle x Salsoul Reworks Vol. 1",
         "url": "https://open.spotify.com/album/5hfBsqWgBXYkM4FDfJDpxw"
       },
@@ -1779,6 +1759,26 @@
       "duration_ms": 454873,
       "name": "Let No Man Put Asunder (Dam Swindle Remix)",
       "url": "https://open.spotify.com/track/5qBOa8bCYKg414qTplH9ye"
+    },
+    {
+      "added_at": "2023-12-15 10:14:53",
+      "album": {
+        "name": "Be Funky",
+        "url": "https://open.spotify.com/album/64IIYvUmAiRd7InY8Ik4Q3"
+      },
+      "artists": [
+        {
+          "name": "Dutchican Soul",
+          "url": "https://open.spotify.com/artist/4N3bEmG3H0UjxBI0PNhDTB"
+        },
+        {
+          "name": "Yogi",
+          "url": "https://open.spotify.com/artist/5B9P0p88CmlArc27XLyRnB"
+        }
+      ],
+      "duration_ms": 207105,
+      "name": "Be Funky",
+      "url": "https://open.spotify.com/track/347yYEUgjRg4Db6ZFh0G2v"
     },
     {
       "added_at": "2023-12-15 10:14:53",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2023-12-15 10:14:53",
       "album": {
-        "name": "RUSH (Blush)",
-        "url": "https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp"
-      },
-      "artists": [
-        {
-          "name": "Willo",
-          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
-        }
-      ],
-      "duration_ms": 242545,
-      "name": "RUSH (Blush)",
-      "url": "https://open.spotify.com/track/6pjI3CKUkIGbvSgo7TuRuu"
-    },
-    {
-      "added_at": "2023-12-15 10:14:53",
-      "album": {
         "name": "So Fine",
         "url": "https://open.spotify.com/album/7tcQHmLF5xdqM93umRMdt5"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 216000,
       "name": "So Fine",
       "url": "https://open.spotify.com/track/14qkKbAfG7tYYrgtlZXZFr"
+    },
+    {
+      "added_at": "2023-12-15 10:14:53",
+      "album": {
+        "name": "RUSH (Blush)",
+        "url": "https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp"
+      },
+      "artists": [
+        {
+          "name": "Willo",
+          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
+        }
+      ],
+      "duration_ms": 242545,
+      "name": "RUSH (Blush)",
+      "url": "https://open.spotify.com/track/6pjI3CKUkIGbvSgo7TuRuu"
     },
     {
       "added_at": "2023-12-15 10:14:53",
@@ -2071,6 +2071,22 @@
     {
       "added_at": "2023-12-15 10:14:53",
       "album": {
+        "name": "Souljack EP",
+        "url": "https://open.spotify.com/album/4Wo7BhKv46vuyryLgrgJFK"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 224761,
+      "name": "Souljack",
+      "url": "https://open.spotify.com/track/0W3w9pPy0JvezOG96J2biy"
+    },
+    {
+      "added_at": "2023-12-15 10:14:53",
+      "album": {
         "name": "Say It",
         "url": "https://open.spotify.com/album/6vH7aziXmsqAO8KL7zOOkB"
       },
@@ -2091,22 +2107,6 @@
       "duration_ms": 148571,
       "name": "Say It",
       "url": "https://open.spotify.com/track/4xac76l55QO0SktrL2iQeY"
-    },
-    {
-      "added_at": "2023-12-15 10:14:53",
-      "album": {
-        "name": "Souljack EP",
-        "url": "https://open.spotify.com/album/4Wo7BhKv46vuyryLgrgJFK"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 224761,
-      "name": "Souljack",
-      "url": "https://open.spotify.com/track/0W3w9pPy0JvezOG96J2biy"
     },
     {
       "added_at": "2023-12-15 10:14:53",
@@ -2331,6 +2331,38 @@
     {
       "added_at": "2023-12-15 10:14:53",
       "album": {
+        "name": "Organ",
+        "url": "https://open.spotify.com/album/3r9Q20TK6MIkM3CbsaFPIy"
+      },
+      "artists": [
+        {
+          "name": "CINTHIE",
+          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
+        }
+      ],
+      "duration_ms": 216774,
+      "name": "Organ (DJ-Kicks) - Edit",
+      "url": "https://open.spotify.com/track/0NPDoArWeGDBcGzO5m7g4t"
+    },
+    {
+      "added_at": "2023-12-15 10:14:53",
+      "album": {
+        "name": "Chicago 87",
+        "url": "https://open.spotify.com/album/0FQkFZnBlZR7mNybn4xQzB"
+      },
+      "artists": [
+        {
+          "name": "VIGI",
+          "url": "https://open.spotify.com/artist/7hLLMguIT8ttH9UAl4A46o"
+        }
+      ],
+      "duration_ms": 379200,
+      "name": "After All This Time",
+      "url": "https://open.spotify.com/track/5WN9wAj9Bn8Rf8i4cesLmJ"
+    },
+    {
+      "added_at": "2023-12-15 10:14:53",
+      "album": {
         "name": "Move With Me (Todd Terry Extended Remix)",
         "url": "https://open.spotify.com/album/3hpoG2nJnwKPMfPlY207pp"
       },
@@ -2355,22 +2387,6 @@
     {
       "added_at": "2023-12-15 10:14:53",
       "album": {
-        "name": "Organ",
-        "url": "https://open.spotify.com/album/3r9Q20TK6MIkM3CbsaFPIy"
-      },
-      "artists": [
-        {
-          "name": "CINTHIE",
-          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
-        }
-      ],
-      "duration_ms": 216774,
-      "name": "Organ (DJ-Kicks) - Edit",
-      "url": "https://open.spotify.com/track/0NPDoArWeGDBcGzO5m7g4t"
-    },
-    {
-      "added_at": "2023-12-15 10:14:53",
-      "album": {
         "name": "Heard It All Before (Turbojazz & Sean McCabe Remixes)",
         "url": "https://open.spotify.com/album/3qUm2lJFKLDbIRwEDgk366"
       },
@@ -2391,22 +2407,6 @@
       "duration_ms": 265231,
       "name": "Heard It All Before - Turbojazz & Sean McCabe Remix Edit",
       "url": "https://open.spotify.com/track/6Swv2z8gSTBUlglW7EX0CE"
-    },
-    {
-      "added_at": "2023-12-15 10:14:53",
-      "album": {
-        "name": "Chicago 87",
-        "url": "https://open.spotify.com/album/0FQkFZnBlZR7mNybn4xQzB"
-      },
-      "artists": [
-        {
-          "name": "VIGI",
-          "url": "https://open.spotify.com/artist/7hLLMguIT8ttH9UAl4A46o"
-        }
-      ],
-      "duration_ms": 379200,
-      "name": "After All This Time",
-      "url": "https://open.spotify.com/track/5WN9wAj9Bn8Rf8i4cesLmJ"
     },
     {
       "added_at": "2023-12-15 10:14:53",
@@ -2659,6 +2659,22 @@
     {
       "added_at": "2023-12-15 10:14:53",
       "album": {
+        "name": "On Da Groove",
+        "url": "https://open.spotify.com/album/0KJqUg1zkiFL6df3ZmOXfI"
+      },
+      "artists": [
+        {
+          "name": "Stef Davidse",
+          "url": "https://open.spotify.com/artist/7JXk6wlswhEGYkmtpdqYEX"
+        }
+      ],
+      "duration_ms": 312000,
+      "name": "On Da Groove",
+      "url": "https://open.spotify.com/track/3jotybhgTZeCqXFMqzfInI"
+    },
+    {
+      "added_at": "2023-12-15 10:14:53",
+      "album": {
         "name": "Release Me (feat. Rationale) [Jess Bays Remix]",
         "url": "https://open.spotify.com/album/19Tp9FoAw2zcmvizQ3mjO1"
       },
@@ -2683,42 +2699,26 @@
     {
       "added_at": "2023-12-15 10:14:53",
       "album": {
-        "name": "On Da Groove",
-        "url": "https://open.spotify.com/album/0KJqUg1zkiFL6df3ZmOXfI"
+        "name": "It's Alright",
+        "url": "https://open.spotify.com/album/60jvKinZ1n7w9sgfYzDmGy"
       },
       "artists": [
         {
-          "name": "Stef Davidse",
-          "url": "https://open.spotify.com/artist/7JXk6wlswhEGYkmtpdqYEX"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "On Da Groove",
-      "url": "https://open.spotify.com/track/3jotybhgTZeCqXFMqzfInI"
-    },
-    {
-      "added_at": "2023-12-15 10:14:53",
-      "album": {
-        "name": "Love Somebody Else",
-        "url": "https://open.spotify.com/album/55fImdHcBicoU5PoIWTZyn"
-      },
-      "artists": [
-        {
-          "name": "Sandy Rivera",
-          "url": "https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3"
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
         },
         {
-          "name": "Aruhtra",
-          "url": "https://open.spotify.com/artist/0eNdTqhwRWK5udfkUOuMAv"
+          "name": "George Smeddles",
+          "url": "https://open.spotify.com/artist/5HT6hDqzq0B7EFlokN0hK2"
         },
         {
-          "name": "April Morgan",
-          "url": "https://open.spotify.com/artist/4yZgqRQwgyYlGEwINIslPz"
+          "name": "Paris Brightledge",
+          "url": "https://open.spotify.com/artist/0qYaFWcuXTF2AsQ49N6Kul"
         }
       ],
-      "duration_ms": 160437,
-      "name": "Love Somebody Else - Sandy Rivera & Aruhtra's Mix",
-      "url": "https://open.spotify.com/track/6fbrnevm8nfmTn5cLlgHtX"
+      "duration_ms": 210181,
+      "name": "It's Alright",
+      "url": "https://open.spotify.com/track/047Lim5SzFPOH5oxXxEgFy"
     },
     {
       "added_at": "2023-12-15 10:14:53",
@@ -2743,26 +2743,26 @@
     {
       "added_at": "2023-12-15 10:14:53",
       "album": {
-        "name": "It's Alright",
-        "url": "https://open.spotify.com/album/60jvKinZ1n7w9sgfYzDmGy"
+        "name": "Love Somebody Else",
+        "url": "https://open.spotify.com/album/55fImdHcBicoU5PoIWTZyn"
       },
       "artists": [
         {
-          "name": "Marshall Jefferson",
-          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+          "name": "Sandy Rivera",
+          "url": "https://open.spotify.com/artist/6eChRUoyiCUCrUbwbT9Jq3"
         },
         {
-          "name": "George Smeddles",
-          "url": "https://open.spotify.com/artist/5HT6hDqzq0B7EFlokN0hK2"
+          "name": "Aruhtra",
+          "url": "https://open.spotify.com/artist/0eNdTqhwRWK5udfkUOuMAv"
         },
         {
-          "name": "Paris Brightledge",
-          "url": "https://open.spotify.com/artist/0qYaFWcuXTF2AsQ49N6Kul"
+          "name": "April Morgan",
+          "url": "https://open.spotify.com/artist/4yZgqRQwgyYlGEwINIslPz"
         }
       ],
-      "duration_ms": 210181,
-      "name": "It's Alright",
-      "url": "https://open.spotify.com/track/047Lim5SzFPOH5oxXxEgFy"
+      "duration_ms": 160437,
+      "name": "Love Somebody Else - Sandy Rivera & Aruhtra's Mix",
+      "url": "https://open.spotify.com/track/6fbrnevm8nfmTn5cLlgHtX"
     },
     {
       "added_at": "2023-12-15 10:14:53",

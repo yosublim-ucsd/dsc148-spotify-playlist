@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Os destaques de 2023! Simone Mendes e mais mulheres poderosas para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,615 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,899 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 23 | [que mal que tem?](https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [que mal que tem?](https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY) | 2:37 |
 | 24 | [Admirável Chip Novo](https://open.spotify.com/track/7o7MExeF7niW4VFiie5Zxh) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [Admirável Chip Novo](https://open.spotify.com/album/6t9HEcqxPe5dsIlHyYwATK) | 3:11 |
 | 25 | [Tengo](https://open.spotify.com/track/5WV6br0BPUzhJwyBty80s0) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Ciclone](https://open.spotify.com/album/4IWuMtqZOCu5or3RXZQ26v) | 2:09 |
-| 26 | [Caju \(Da Série Original Amazon Cangaço Novo\)](https://open.spotify.com/track/2BZvNHHo8bxS90MoKwRPAc) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Caju \(Da Série Original Amazon Cangaço Novo\)](https://open.spotify.com/album/13Q7kbWqa4y3atnMHDKvuw) | 2:36 |
+| 26 | [PLAYLIST DE SEXO](https://open.spotify.com/track/4lxDwxNxvod11PZzYMPcmw) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [REVERSA](https://open.spotify.com/album/46flJXmb1UBv1jvP6lAMoj) | 2:38 |
 | 27 | [Meu Paraíso Sou Eu](https://open.spotify.com/track/0vzum63gEJ458xzIiaXCZY) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Vício Inerente](https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr) | 1:57 |
-| 28 | [PLAYLIST DE SEXO](https://open.spotify.com/track/4lxDwxNxvod11PZzYMPcmw) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [REVERSA](https://open.spotify.com/album/46flJXmb1UBv1jvP6lAMoj) | 2:38 |
+| 28 | [Caju \(Da Série Original Amazon Cangaço Novo\)](https://open.spotify.com/track/2BZvNHHo8bxS90MoKwRPAc) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Caju \(Da Série Original Amazon Cangaço Novo\)](https://open.spotify.com/album/13Q7kbWqa4y3atnMHDKvuw) | 2:36 |
 | 29 | [Perigo](https://open.spotify.com/track/7zP9OLU7uItlPuoxrYGN1K) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Quem É Ela?](https://open.spotify.com/album/632zAF6KJH5GFji5N6SoN9) | 2:38 |
 | 30 | [FÃ INCUBADO](https://open.spotify.com/track/2VqYfuxIvdfxvz6gzYyten) | [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [QUER DANÇAR](https://open.spotify.com/album/6P6steMdU7Kg08bGmDYL2d) | 2:19 |
 | 31 | [Pausa](https://open.spotify.com/track/4ZNQesxN8vNtOh5hL5qeWD) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Pausa](https://open.spotify.com/album/0s7AxN40rQwUGlFfoD3B6H) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Pimenta De Cheiro](https://open.spotify.com/track/2cxDLP3uI9ovuHbrNqY3fr) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [ARRISCA](https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc) | 3:27 |
 | 50 | [Homenagem](https://open.spotify.com/track/2EzZnXR3UgkoX92WHgoNYD) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [7 Estrelas \| quem arrancou o céu?](https://open.spotify.com/album/5weOG4lzh2hlbs1oq5YKjy) | 3:26 |
 
-Snapshot ID: `MCxiMjljNzkzYzJkODc1YzE0YzRkN2NhMGZlZGRmNDk4NTczNjAzZjQ0`
+Snapshot ID: `MCxhMGQ2NWQ0NGFmMTQzN2FiYTNiNTAzYmFjODhiZmUzZDA1ZjIwYzRh`

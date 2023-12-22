@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: Fuerza Regida & Marshmello
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,708,253 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,708,231 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 | 59 | [Tambor](https://open.spotify.com/track/2ZoAuTpYHBf9dXlAU9YQTk) | [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl) | [Tambor](https://open.spotify.com/album/25JI1EXm2T6NQTIeYlpOVd) | 2:15 |
 | 60 | [Ritmo De La Noche \(Vamos A La Playa\)](https://open.spotify.com/track/3APyTiWzqQtT8vd0kRz6lo) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [Ritmo De La Noche \(Vamos A La Playa\)](https://open.spotify.com/album/0cti2FC4fjKghKMv8JDPUj) | 2:51 |
 
-Snapshot ID: `MCxkZTQ3OTMwODVhMTZkODFhY2U1ZjMyNTFkZTlmZGI3ODJkY2IwMTlj`
+Snapshot ID: `MCxjNmMyZjU1OGM3NTQ5Y2FjMWVkMzkyOGEzZWI5Nzc5M2JjYmYzOTdj`

@@ -1,12 +1,12 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Theo Rubia",
-  "num_followers": 283888,
+  "num_followers": 284043,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTE2ZTU1OWNjNDdkN2EzNjUyOWRhMjNhMWVmNjRjMGEwYzc1NTg2",
+  "snapshot_id": "MCw5NzVlNWNiODhjNTY1NmM4ZDJkZGU5YTYwMzBlZDAzMGE2MjJkZTIy",
   "tracks": [
     {
       "added_at": "2023-11-24 14:22:43",
@@ -515,26 +515,6 @@
     {
       "added_at": "2023-11-24 14:22:43",
       "album": {
-        "name": "Troco",
-        "url": "https://open.spotify.com/album/0iXI8HqnYqnKJpfe6EpRcA"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
-        {
-          "name": "Marcela Tais",
-          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Troco",
-      "url": "https://open.spotify.com/track/0eC7kRIfqQdJfh8A07PUwv"
-    },
-    {
-      "added_at": "2023-11-24 14:22:43",
-      "album": {
         "name": "Deus Cuida de Mim",
         "url": "https://open.spotify.com/album/29l7yrLpvUqFzbtq6us7Jn"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 224485,
       "name": "Deus Cuida de Mim",
       "url": "https://open.spotify.com/track/1oA2BvYw6lWg4MxM4ALmyG"
+    },
+    {
+      "added_at": "2023-11-24 14:22:43",
+      "album": {
+        "name": "Troco",
+        "url": "https://open.spotify.com/album/0iXI8HqnYqnKJpfe6EpRcA"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "Marcela Tais",
+          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Troco",
+      "url": "https://open.spotify.com/track/0eC7kRIfqQdJfh8A07PUwv"
     },
     {
       "added_at": "2023-11-24 14:22:43",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-11-24 14:22:43",
       "album": {
+        "name": "Segure Minhas M\u00e3os (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2Ks64dAaTIMAa0AaPoCXhY"
+      },
+      "artists": [
+        {
+          "name": "Jhonas Serra",
+          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
+        }
+      ],
+      "duration_ms": 437014,
+      "name": "Segure Minhas M\u00e3os - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0bVh7xl9MWYCmLI2GfmjCx"
+    },
+    {
+      "added_at": "2023-11-24 14:22:43",
+      "album": {
         "name": "Ora\u00e7\u00e3o De Gratid\u00e3o",
         "url": "https://open.spotify.com/album/0zyRK8liOTanEtFqhQTnI5"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 236031,
       "name": "Ora\u00e7\u00e3o De Gratid\u00e3o",
       "url": "https://open.spotify.com/track/2BrZxM2Acd5g3iESZMV37m"
-    },
-    {
-      "added_at": "2023-11-24 14:22:43",
-      "album": {
-        "name": "Segure Minhas M\u00e3os (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2Ks64dAaTIMAa0AaPoCXhY"
-      },
-      "artists": [
-        {
-          "name": "Jhonas Serra",
-          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
-        }
-      ],
-      "duration_ms": 437014,
-      "name": "Segure Minhas M\u00e3os - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0bVh7xl9MWYCmLI2GfmjCx"
     },
     {
       "added_at": "2023-11-24 14:22:43",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-11-24 14:22:43",
       "album": {
-        "name": "De Dentro Pra Fora (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3yvcoy8mYfNGb6Q9WdUd70"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 257105,
-      "name": "De Dentro Pra Fora - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5SstyI2yTMKPkGHRcLjsmO"
-    },
-    {
-      "added_at": "2023-11-24 14:22:43",
-      "album": {
         "name": "Encaixe",
         "url": "https://open.spotify.com/album/5tD8hdyOaLddaSlKwHlWO5"
       },
@@ -767,18 +751,18 @@
     {
       "added_at": "2023-11-24 14:22:43",
       "album": {
-        "name": "Seu Amor: YOUnique (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1279LGdx3pj2hv2p0hivMA"
+        "name": "De Dentro Pra Fora (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3yvcoy8mYfNGb6Q9WdUd70"
       },
       "artists": [
         {
-          "name": "LUDI",
-          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         }
       ],
-      "duration_ms": 444976,
-      "name": "Seu Amor: YOUnique - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3m0CtqEbzclwKxit7C48T3"
+      "duration_ms": 257105,
+      "name": "De Dentro Pra Fora - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5SstyI2yTMKPkGHRcLjsmO"
     },
     {
       "added_at": "2023-11-24 14:22:43",
@@ -795,6 +779,22 @@
       "duration_ms": 331250,
       "name": "Impressionante - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5UmFOEkYxmZQxnO2KMgZgn"
+    },
+    {
+      "added_at": "2023-11-24 14:22:43",
+      "album": {
+        "name": "Seu Amor: YOUnique (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1279LGdx3pj2hv2p0hivMA"
+      },
+      "artists": [
+        {
+          "name": "LUDI",
+          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
+        }
+      ],
+      "duration_ms": 444976,
+      "name": "Seu Amor: YOUnique - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3m0CtqEbzclwKxit7C48T3"
     },
     {
       "added_at": "2023-11-24 14:22:43",

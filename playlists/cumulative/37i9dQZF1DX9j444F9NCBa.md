@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-548 songs - 1 day 3 hr 54 min
+550 songs - 1 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [God Only Knows](https://open.spotify.com/track/0fT81LQSf4Rd9BL0YyAJV5) | [Alva Nørgaard](https://open.spotify.com/artist/7HIFfx126uBOqh9lGH8z2b) | [God Only Knows](https://open.spotify.com/album/7wYPKaSPMw5EUbpXvxhbw8) | 2:32 | 2023-03-17 |  |
 | [Golden Hour \- Piano](https://open.spotify.com/track/07UZEhzObdhFdBk91IDMxO) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Relaxing Pop Piano Covers](https://open.spotify.com/album/6RInRZcSuXuuJFAMFkKdEy) | 2:38 | 2023-03-24 | 2023-06-03 |
 | [Golden Hour \- Piano](https://open.spotify.com/track/6VfEhCxKzT7u1fW6lWtHV7) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Golden Hour \(Piano\)](https://open.spotify.com/album/7H4URknmYd8Am6pQLtZny6) | 2:38 | 2022-12-16 | 2023-04-12 |
+| [Goodbye Yellow Brick Road](https://open.spotify.com/track/2qJsAAXFRJDzBDPnGD1HgA) | [Moonsong](https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX) | [Goodbye Yellow Brick Road](https://open.spotify.com/album/3NQazGgBW6d4uioUvaaYx7) | 2:14 | 2023-12-22 |  |
 | [Goodbye Yellow Brick Road](https://open.spotify.com/track/5KZqaISCbbATLV54SR9ztn) | [Phillipe Goldman](https://open.spotify.com/artist/2kSOIyf9QXEISbCLOgy7rW) | [Goodbye Yellow Brick Road](https://open.spotify.com/album/2yOc7Gl15Vrdx7Ts4II89T) | 2:31 | 2022-09-30 | 2023-04-29 |
 | [Greatest Love Of All](https://open.spotify.com/track/61EhAlUIqBXsgHqbdY7VT9) | [6 strings Guy](https://open.spotify.com/artist/195Dns39hXiNuoATNy03T1) | [Greatest Love Of All](https://open.spotify.com/album/1Ub5PvnX45BagytJfyDnjb) | 4:36 | 2022-01-21 | 2022-06-09 |
 | [Grenade](https://open.spotify.com/track/2vmsMQmSLSoZodKWYyuZrv) | [Trevor Potts](https://open.spotify.com/artist/6fTOLvQf6rBdCas2UAAEEa) | [Grenade](https://open.spotify.com/album/0aY7FDYkSzL2eT6Z4iFvZB) | 2:23 | 2023-04-28 |  |
@@ -493,6 +494,7 @@
 | [Unholy](https://open.spotify.com/track/48y6yD5FxqqaeKNUJ1tYdP) | [Mica Stromberg](https://open.spotify.com/artist/4yyxz7bc0tROTIRMaTKnnK) | [Unholy](https://open.spotify.com/album/2mXDmRXOqw0ZSO0Hfxlrn5) | 3:17 | 2022-12-02 | 2023-01-06 |
 | [Until I Found You](https://open.spotify.com/track/2yIXvAOhIvWZz7wzYTQIdB) | [Eva Witzell](https://open.spotify.com/artist/0A3DJSJYUBT9R1G9Z4zIS6) | [Until I Found You](https://open.spotify.com/album/41NiXyPSiRAoVPJQUw9CR8) | 2:42 | 2022-12-02 | 2023-03-18 |
 | [Until I Found You](https://open.spotify.com/track/4R2XWHPK2ljTjehV1PK82q) | [Ross Ware](https://open.spotify.com/artist/31DhMA96nPz7vdNPVTWi1q) | [Until I Found You](https://open.spotify.com/album/7eUEXAlRnCI2TTsqK3BJHm) | 2:16 | 2023-01-06 | 2023-06-03 |
+| [Up Where We Belong](https://open.spotify.com/track/3DGhWJz1fSwd80IOi6LjUH) | [Lo Larsen](https://open.spotify.com/artist/1RsZrWsACeuDkqAISdeFDi) | [Up Where We Belong](https://open.spotify.com/album/2n5lxbfM2ypvRahQ6LDrvc) | 3:21 | 2023-12-22 |  |
 | [Versace on the Floor](https://open.spotify.com/track/1yGi29gqjufSYeNWY2wPca) | [Benjamin Pirlo](https://open.spotify.com/artist/7KiohRn8uUjyrxcn8cfKxB) | [Versace on the Floor](https://open.spotify.com/album/63JIMLku6xRaZvkpUQTs4R) | 3:18 | 2022-12-02 |  |
 | [Vincent](https://open.spotify.com/track/3hLwdzukhUxAB8epGFKIkf) | [Ciara Bess](https://open.spotify.com/artist/21mEXcNj7iVlrmlhownRpL) | [Vincent](https://open.spotify.com/album/1paZJP3ZNLhSyDLyoetkIC) | 3:38 | 2022-01-21 | 2022-12-02 |
 | [Viva La Vida](https://open.spotify.com/track/7kxKactI72Fl5nZpTpLpJh) | [Chris Island](https://open.spotify.com/artist/2ul9XiZKBUguKSAl2b1His) | [Viva La Vida](https://open.spotify.com/album/4ywHnvPY7ZAp3C3440TJIs) | 3:48 | 2023-06-08 |  |

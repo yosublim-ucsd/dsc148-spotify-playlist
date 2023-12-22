@@ -1,12 +1,12 @@
 {
   "description": "as novas de pop rock br / Foto: TINN",
-  "num_followers": 47069,
+  "num_followers": 47087,
   "original_name": "rockers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDE5OWY2NWMwNjM1MTViOTk2ZTA0YjJhMTExODRhMzA3ZTE4Yjdi",
+  "snapshot_id": "MCxkY2JmODhkZDJjM2E5ZjAxZTE2MGJjY2I4YWNmMGY4MTIwNjAyNzY2",
   "tracks": [
     {
       "added_at": "2023-12-15 03:00:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "If I Can\u2019t Have Love, I Want Power",
+        "url": "https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 173840,
+      "name": "honey",
+      "url": "https://open.spotify.com/track/7p58AJeuaFSUHTnPe5NFaf"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Canoa",
         "url": "https://open.spotify.com/album/3yVv0gmK4EdJNQBWt6au3D"
       },
@@ -407,18 +423,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "If I Can\u2019t Have Love, I Want Power",
-        "url": "https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22"
+        "name": "lonely bitch",
+        "url": "https://open.spotify.com/album/63SAV7dDaGuXCiorabPaze"
       },
       "artists": [
         {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
         }
       ],
-      "duration_ms": 173840,
-      "name": "honey",
-      "url": "https://open.spotify.com/track/7p58AJeuaFSUHTnPe5NFaf"
+      "duration_ms": 175997,
+      "name": "lonely bitch",
+      "url": "https://open.spotify.com/track/6IaOyzYlT5809ASyUKzDPq"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -435,22 +451,6 @@
       "duration_ms": 185337,
       "name": "Eu Nunca Fui Embora",
       "url": "https://open.spotify.com/track/14CmAgvaO309e1erSWnRsJ"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "lonely bitch",
-        "url": "https://open.spotify.com/album/63SAV7dDaGuXCiorabPaze"
-      },
-      "artists": [
-        {
-          "name": "Bea Miller",
-          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
-        }
-      ],
-      "duration_ms": 175997,
-      "name": "lonely bitch",
-      "url": "https://open.spotify.com/track/6IaOyzYlT5809ASyUKzDPq"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Mete o P\u00e9",
+        "url": "https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00f4",
+          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
+        }
+      ],
+      "duration_ms": 142699,
+      "name": "Mete o P\u00e9",
+      "url": "https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Legado",
         "url": "https://open.spotify.com/album/7qk4AUAt8F9m508h7HV8sj"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 134382,
       "name": "Legado",
       "url": "https://open.spotify.com/track/22hTtzEc2038qqwCuiZ687"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Mete o P\u00e9",
-        "url": "https://open.spotify.com/album/1d9bZ6LXQ38biZ5U4ELM3n"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00f4",
-          "url": "https://open.spotify.com/artist/7EFHe9IRYS8gKgtrGCV14u"
-        }
-      ],
-      "duration_ms": 142699,
-      "name": "Mete o P\u00e9",
-      "url": "https://open.spotify.com/track/3Vl9ta4Cyr58nDn2XAJEjF"
     },
     {
       "added_at": "2023-12-15 03:00:00",

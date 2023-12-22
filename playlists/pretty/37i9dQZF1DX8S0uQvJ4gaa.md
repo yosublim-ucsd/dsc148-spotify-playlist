@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Avery Anna
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,196,236 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,196,742 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [All Again](https://open.spotify.com/track/5tbPAlC6DtO9LvqbN3GJ8D) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Family Ties \(Sampler\)](https://open.spotify.com/album/7dHj0WLfCcsqzo82GSnPCz) | 3:48 |
 | 100 | [Remember Us](https://open.spotify.com/track/1k0idEJ0uiXYxYkTFa3Al7) | [John Morgan](https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g) | [Remember Us?](https://open.spotify.com/album/6aqxYkrdxD57QL2jJF17sk) | 3:29 |
 
-Snapshot ID: `MCwxMWE2MWY5OWEwMzgzMWYzMGRmOTljOGE4ZGY1ZWE3YWZmMzUwYmJm`
+Snapshot ID: `MCw1ODM5MTJiZTUyYTExMTk5NTlmZDE3NTIwMTNlMjc3ZTk5OWQ4N2Ni`

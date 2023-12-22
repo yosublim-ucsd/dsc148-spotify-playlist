@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1golRcLMcrP.md) - [plain]
 
 > Listen to the soundtracks of the Castaway Diva\. \(무인도의 디바 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,030 likes - 148 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,119 likes - 148 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1golRcLMcrP.md) - [plain]
 | 44 | [For To do](https://open.spotify.com/track/7kTABuiY3QMMWxkwIZxf8K) | [YU HUI HYEON](https://open.spotify.com/artist/5T2exIHUnJ2yoNqNVIs6IR), [Park Sejun](https://open.spotify.com/artist/6NudWSh9xMZQ1fQyERNRDW) | [CASTAWAY DIVA Original Sound Track](https://open.spotify.com/album/69KqoePkvw88UGbWxypIFt) | 2:50 |
 | 45 | [Nice Morning](https://open.spotify.com/track/3gLPeTarzh9ctFn6hEpfHb) | [WOO JI HUN](https://open.spotify.com/artist/7gtqoiAM3hN5D0ug4BuHW0) | [CASTAWAY DIVA Original Sound Track](https://open.spotify.com/album/69KqoePkvw88UGbWxypIFt) | 1:45 |
 | 46 | [Into The Fog](https://open.spotify.com/track/7LynmYECJpWC6inytbBTai) | [NA YUN SIK](https://open.spotify.com/artist/5MFHXdrPQi4PuWhJVg8DT0) | [CASTAWAY DIVA Original Sound Track](https://open.spotify.com/album/69KqoePkvw88UGbWxypIFt) | 2:32 |
-| 47 | [Dream Island](https://open.spotify.com/track/0HWTnc5SU1OMQVSGcYRmtX) | [Kim Ji\-Ae](https://open.spotify.com/artist/1vStVPZ6YKFukHFrG5Ro4s) | [CASTAWAY DIVA Original Sound Track](https://open.spotify.com/album/69KqoePkvw88UGbWxypIFt) | 3:19 |
+| 47 | [Dreaming Island](https://open.spotify.com/track/0HWTnc5SU1OMQVSGcYRmtX) | [Kim Ji\-Ae](https://open.spotify.com/artist/1vStVPZ6YKFukHFrG5Ro4s) | [CASTAWAY DIVA Original Sound Track](https://open.spotify.com/album/69KqoePkvw88UGbWxypIFt) | 3:19 |
 | 48 | [Fell Piano Sus](https://open.spotify.com/track/1Eic0TbCy9d7CUNM1Uypgj) | [LEE NYEOM](https://open.spotify.com/artist/1F5ghPgVIV9sj2qEAyf5GC) | [CASTAWAY DIVA Original Sound Track](https://open.spotify.com/album/69KqoePkvw88UGbWxypIFt) | 3:22 |
 | 49 | [Just Kidding Sorry](https://open.spotify.com/track/1KgfKx8rC1z7Xm6LpZH3D7) | [WOO JI HUN](https://open.spotify.com/artist/7gtqoiAM3hN5D0ug4BuHW0) | [CASTAWAY DIVA Original Sound Track](https://open.spotify.com/album/69KqoePkvw88UGbWxypIFt) | 2:11 |
 | 50 | [Dull Boy](https://open.spotify.com/track/38oDIBSSCxnZld5IfUj9e4) | [Kim Dong Hyeok](https://open.spotify.com/artist/00DJu7oiL37muIOzbyty5p), [CHOI MOON SUK](https://open.spotify.com/artist/51X3mZNkXi8cy17EMs5u3F) | [CASTAWAY DIVA Original Sound Track](https://open.spotify.com/album/69KqoePkvw88UGbWxypIFt) | 2:05 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1golRcLMcrP.md) - [plain]
 | 147 | [Material Girl](https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:00 |
 | 148 | [We Belong Together](https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo) | 3:21 |
 
-Snapshot ID: `MCw3YjRkMTM0YTY0ZDU1NTIxYzllYzgzMDE5MWI0MjE0NzY4ODI1NTJk`
+Snapshot ID: `MCw4M2YyZDUzOGYyOWUxMTE4ZGI0YmZmOWI4ZmY3NmRkNTg4MTk1YjM3`

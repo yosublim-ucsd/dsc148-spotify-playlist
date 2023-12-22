@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1dvGkpvfI.md) - [plain]
 
 > Challenging norms, breaking boundaries with <a href="https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9?si=eme3jaO3QK6R9DlIBeSAEQ">Mannequin Pussy</a> and the songs that shape their alternative spirit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,930 likes - 30 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,974 likes - 30 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1dvGkpvfI.md) - [plain]
 | 29 | [Public Witness Program](https://open.spotify.com/track/0MiBvroVblvPVD3cdmPQ9S) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [In On The Kill Taker](https://open.spotify.com/album/6jEiEcjAa97b3uktiUSK8J) | 2:04 |
 | 30 | [Yuk Foo](https://open.spotify.com/track/5RmOHOEZxoMryrW3WiE9Jg) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Visions Of A Life](https://open.spotify.com/album/7BJmbXNSX1tUPmVjvrlqvz) | 2:13 |
 
-Snapshot ID: `MCxjZTZiYzUyODk5ZjA4ZTdlMDg1ZjFiZjJkZTFmNTk1ODgwY2FlN2Fl`
+Snapshot ID: `MCw5MDU1MGI5YzE5MGQxMmUzOGNlNmY0YTY3NWNmMjBiZjNmMzcxYWQ4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Our editors' picks of the best Fresh Finds tracks from India this year\. Cover: Aditya Rikhari \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,587 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,616 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 49 | [Kyu Hi Hum Mile](https://open.spotify.com/track/6POdfxoYKn6PE0OK4PlY6R) | [Atul Gupta](https://open.spotify.com/artist/6oBR9IHSypECG3HX96270k) | [Kyu Hi Hum Mile](https://open.spotify.com/album/5z3R00e3c5u6LFhV0wtDx1) | 4:20 |
 | 50 | [Guzarish](https://open.spotify.com/track/4dE5eNG3DVTvIZMy4pY4Jr) | [citimall](https://open.spotify.com/artist/0wnr36mC2ENfSqlGhgAxqU) | [Guzarish](https://open.spotify.com/album/6xRVOiJUIWwWFuUoUfAkQV) | 3:13 |
 
-Snapshot ID: `MCxkMTczOGI2OWE1YjE0YzBiODdhNjdlMTg3M2Y5ZTM3NWJlZDE5MTdh`
+Snapshot ID: `MCw3NmU2ZmMzODBiZGY0ODE3MGQ5NDg2NjQ1OTBlYTEwNjU1MTFiODIx`

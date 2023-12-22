@@ -1,12 +1,12 @@
 {
   "description": "Las canciones que marcaron una \u00e9poca.",
-  "num_followers": 37294,
+  "num_followers": 37324,
   "original_name": "Los 2010 Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjU0MDcxN2FhYjJlOTIxYjkzOWQwNGEzYTdlNTJhNzU1YzE2ZjQ2",
+  "snapshot_id": "MCwwODVjNDYxZTkxOGI3YTRhMjdjMDNlNTNmMGI4OWRiZjRjNWE1ZDFl",
   "tracks": [
     {
       "added_at": "2022-07-06 20:00:46",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-07-06 20:00:46",
       "album": {
-        "name": "Las Antenas",
-        "url": "https://open.spotify.com/album/3x1cxDEbdkgGejry2pwyTz"
-      },
-      "artists": [
-        {
-          "name": "Estelares",
-          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
-        }
-      ],
-      "duration_ms": 241986,
-      "name": "Es el Amor",
-      "url": "https://open.spotify.com/track/08MlcdHmD6lU6JcoSpob77"
-    },
-    {
-      "added_at": "2022-07-06 20:00:46",
-      "album": {
         "name": "Naranja Persa",
         "url": "https://open.spotify.com/album/7tUsFtOjoRAiu5uOHJfETd"
       },
@@ -1015,18 +999,18 @@
     {
       "added_at": "2022-07-06 20:00:46",
       "album": {
-        "name": "A\u00f1os Luz",
-        "url": "https://open.spotify.com/album/4cam3fnP6L0YYcib0EDmhO"
+        "name": "Las Antenas",
+        "url": "https://open.spotify.com/album/3x1cxDEbdkgGejry2pwyTz"
       },
       "artists": [
         {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
         }
       ],
-      "duration_ms": 193246,
-      "name": "An\u0303os Luz",
-      "url": "https://open.spotify.com/track/4SQFu2eDYHTD9DdRVG3vU3"
+      "duration_ms": 241986,
+      "name": "Es el Amor",
+      "url": "https://open.spotify.com/track/08MlcdHmD6lU6JcoSpob77"
     },
     {
       "added_at": "2022-07-06 20:00:46",
@@ -1043,6 +1027,22 @@
       "duration_ms": 178800,
       "name": "Ya Lo Sab\u00eda",
       "url": "https://open.spotify.com/track/1fLa7ba2l141LWPUt7Bcok"
+    },
+    {
+      "added_at": "2022-07-06 20:00:46",
+      "album": {
+        "name": "A\u00f1os Luz",
+        "url": "https://open.spotify.com/album/4cam3fnP6L0YYcib0EDmhO"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 193246,
+      "name": "An\u0303os Luz",
+      "url": "https://open.spotify.com/track/4SQFu2eDYHTD9DdRVG3vU3"
     },
     {
       "added_at": "2022-07-06 20:00:46",

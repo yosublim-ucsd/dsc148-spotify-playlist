@@ -2,9 +2,9 @@
 
 ### [Rap Español](https://open.spotify.com/playlist/37i9dQZF1DXcd2Vmhfon1w)
 
-> Lo mejor del hip hop español\. Feat\. Prok
+> Lo mejor del hip hop español\. Feat\. Ayax y Prok
 
-237 songs - 13 hr 6 min
+238 songs - 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Ciego Por el Club](https://open.spotify.com/track/2k5Chk6O0ugyRdHL6OOFav) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y), [Selecta](https://open.spotify.com/artist/1m9WPOccw8sizsVYUhSVjZ), [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3), [Israel B](https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B) | [Ciego Por el Club](https://open.spotify.com/album/6ejiwsj61cKGpKyR9r9DUZ) | 3:54 | 2022-01-21 | 2022-03-05 |
 | [Como Siempre](https://open.spotify.com/track/2c3rR7VVjayjVwlGWjuwti) | [Denom](https://open.spotify.com/artist/0fwnNjAay5ZHP5bAd63g8Y), [el alquimista](https://open.spotify.com/artist/1KvXPlXGNHzpVizy6ZdUac) | [Get Off The World \- Pa' Bailar Llorando](https://open.spotify.com/album/7HQhybXrUytXRT24WTRiLA) | 3:21 | 2023-10-23 |  |
 | [CREDO](https://open.spotify.com/track/4dWsDhwVrP2W1WCxlOD3TP) | [Bnet](https://open.spotify.com/artist/1HumAcSgWUujlpOm1Zoj6p), [Nerso & Verse](https://open.spotify.com/artist/1jRF8rcj4TMuVQR9PWnpFm) | [CREDO](https://open.spotify.com/album/3fPhpbcTYBI3RrpjkW1SVD) | 1:58 | 2022-01-21 | 2022-03-05 |
+| [Cruella](https://open.spotify.com/track/2WR7QewHfRBViJJkDzoX3H) | [Ayax y Prok](https://open.spotify.com/artist/5Ypafuz95Xk09YDf4tgAvU), [Blasfem](https://open.spotify.com/artist/4FActBvkmDc8h3sI5vbMPZ) | [Cruella](https://open.spotify.com/album/19OJpsDjVjovHPg31QMRXT) | 4:14 | 2023-12-21 |  |
 | [Cura de humildad](https://open.spotify.com/track/0hT5joFq2Y5b8dpYu2YJVn) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Cura de humildad](https://open.spotify.com/album/08nULIhhMXnkD0ubdPnJDK) | 3:38 | 2022-08-04 | 2023-02-15 |
 | [Cómete Mi Éxito](https://open.spotify.com/track/4gFxJbsFvf0L97TlkGW04k) | [Kaze](https://open.spotify.com/artist/2X11x8C63wCzAf1WwsIuLg), [Shoda Monkas](https://open.spotify.com/artist/3K3u27hhXRoHojEeDHXLAe) | [Cómete Mi Éxito](https://open.spotify.com/album/1qA191L6gF00pamusjQHMw) | 3:23 | 2022-01-21 | 2023-06-27 |
 | [De Los Míos](https://open.spotify.com/track/6642UGRd8Ts5NoXTGGomwx) | [Pepe : Vizio](https://open.spotify.com/artist/4rvJ0Ktz2X2Erea9XUHxfu), [KIDDO](https://open.spotify.com/artist/3lLDZNIMUmxMzIE6Vz9Agz) | [De Los Míos](https://open.spotify.com/album/0Gcluis2q5PBpaDAyFtZ8V) | 3:14 | 2023-04-03 | 2023-06-08 |
@@ -135,7 +136,7 @@
 | [Mareas](https://open.spotify.com/track/7smmyEpJwuZn1CZi0K7pLj) | [Serko](https://open.spotify.com/artist/2mHURFmt3SwlrBWImZwYoq) | [Mareas](https://open.spotify.com/album/4vqSKeqWuKOJSUjm2NWtB5) | 2:52 | 2023-06-07 | 2023-09-15 |
 | [Marte](https://open.spotify.com/track/3HV3ntf0fCvf6sbUEdiZS8) | [Babi](https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg), [Denom](https://open.spotify.com/artist/0fwnNjAay5ZHP5bAd63g8Y) | [Marte](https://open.spotify.com/album/0v67Ba06TaCsZgFuTO11kU) | 2:55 | 2023-02-28 | 2023-06-27 |
 | [Marvin](https://open.spotify.com/track/2A2gwWp7rMVCJUGkZ9wWTd) | [Sofía Gabanna](https://open.spotify.com/artist/7oOAUwR8fKK27pEAKdt0mm), [Lupita's Friends](https://open.spotify.com/artist/7gGKjAXKRyDUhSUhFDIaAW) | [Marvin](https://open.spotify.com/album/5QCTjbwZed8JuADmPG1Dgj) | 4:56 | 2022-01-21 | 2022-02-05 |
-| [McAfee](https://open.spotify.com/track/398CZv4tK5ukwRt8SjO1t2) | [Midas Alonso](https://open.spotify.com/artist/4YbohdhSehUUc7RT3STcKW), [Delson Aravena](https://open.spotify.com/artist/7z3WDAzeazNjQckDeenDAf) | [McAfee](https://open.spotify.com/album/6WCmUbg65raxVJQdoTIvUq) | 3:28 | 2023-11-30 |  |
+| [McAfee](https://open.spotify.com/track/398CZv4tK5ukwRt8SjO1t2) | [Midas Alonso](https://open.spotify.com/artist/4YbohdhSehUUc7RT3STcKW), [Delson Aravena](https://open.spotify.com/artist/7z3WDAzeazNjQckDeenDAf) | [McAfee](https://open.spotify.com/album/6WCmUbg65raxVJQdoTIvUq) | 3:28 | 2023-11-30 | 2023-12-22 |
 | [Me basta con mirarte](https://open.spotify.com/track/1mrVhmY8snkIsE3ibTO4vs) | [Deco Mdz](https://open.spotify.com/artist/29O0oBAyoqOjgJHCX1HU9T) | [Me basta con mirarte](https://open.spotify.com/album/44nEexQmojvMecvqr08VwP) | 3:04 | 2022-01-21 | 2022-07-29 |
 | [Me basta con mirarte](https://open.spotify.com/track/3m0Ax3MM6hR2Kv1XEEJFpz) | [Deco Mdz](https://open.spotify.com/artist/29O0oBAyoqOjgJHCX1HU9T) | [Me basta con mirarte](https://open.spotify.com/album/2CaKoZLLzvPwtk4kazyLWS) | 3:04 | 2022-07-19 | 2022-09-17 |
 | [Me Encanta Tu Encanto](https://open.spotify.com/track/6Jq1PlZ9SlBYWVszBcR8Ja) | [EZVIT 810](https://open.spotify.com/artist/20taoPw3DvVajnkUySMckx) | [Me Encanta Tu Encanto](https://open.spotify.com/album/3ZLfwLDRRf2CFQ7aB0CDlI) | 2:32 | 2022-01-21 | 2022-05-28 |

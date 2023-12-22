@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: Digital Astro, Niky Savage",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Cover: emanuelino",
   "name": "Raptopia",
   "tracks": [
     {
@@ -1470,6 +1470,28 @@
       "duration_ms": 142496,
       "name": "Bagage",
       "url": "https://open.spotify.com/track/7634keaijcnpeX1jzPrNQV"
+    },
+    {
+      "album": {
+        "name": "BAGAGES",
+        "url": "https://open.spotify.com/album/4ubYJPqQLgN9Zz4r6kz9CI"
+      },
+      "artists": [
+        {
+          "name": "Fata",
+          "url": "https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m"
+        },
+        {
+          "name": "Swaro",
+          "url": "https://open.spotify.com/artist/48Uk2mcm5dAJS9lupixTGW"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167050,
+      "name": "BAGAGES",
+      "url": "https://open.spotify.com/track/3T4HLpBoKsjcwYjYQR0q39"
     },
     {
       "album": {
@@ -3812,7 +3834,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 125714,
       "name": "Come a Dakar",
       "url": "https://open.spotify.com/track/6a9yidr8DpQwO8qNY29x5B"
@@ -4362,7 +4384,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 198605,
       "name": "Dakar",
       "url": "https://open.spotify.com/track/0e1L1DTR2koDnvZJ4n3ljJ"
@@ -5794,6 +5816,32 @@
       "duration_ms": 144390,
       "name": "FERRAGLIA (feat. DrefGold)",
       "url": "https://open.spotify.com/track/6pU1t6H5wAleJFFfs8ebey"
+    },
+    {
+      "album": {
+        "name": "FERRO (feat. Rasty Kilo)",
+        "url": "https://open.spotify.com/album/5GqANzKvHEhOzby11m8iUe"
+      },
+      "artists": [
+        {
+          "name": "emanuelino",
+          "url": "https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU"
+        },
+        {
+          "name": "Rasty Kilo",
+          "url": "https://open.spotify.com/artist/0W7yEx7tCUH0FGMHB3DUL8"
+        },
+        {
+          "name": "Night Skinny",
+          "url": "https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167491,
+      "name": "FERRO (feat. Rasty Kilo)",
+      "url": "https://open.spotify.com/track/1PSoQsnBRfq3hIZGKQhoa8"
     },
     {
       "album": {
@@ -9080,7 +9128,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 124195,
       "name": "LAMBORGHINI URUS",
       "url": "https://open.spotify.com/track/7dyOsHxaj8fSUI8QohzjpJ"
@@ -9458,7 +9506,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 174624,
       "name": "Louvre",
       "url": "https://open.spotify.com/track/5h7M8JWFpujb265bQFan9K"
@@ -9852,6 +9900,24 @@
       "duration_ms": 73714,
       "name": "MALOCCHIO #1",
       "url": "https://open.spotify.com/track/4GlnTz0XDB3saXOYGubuml"
+    },
+    {
+      "album": {
+        "name": "MALOCCHIO #2",
+        "url": "https://open.spotify.com/album/5e7KwebaX0y3BEZBHoq41T"
+      },
+      "artists": [
+        {
+          "name": "Axell",
+          "url": "https://open.spotify.com/artist/2ySYVtBVDE24iUcJGfHRka"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93451,
+      "name": "MALOCCHIO #2",
+      "url": "https://open.spotify.com/track/4vDBHRi45xgWOcljwWhlzA"
     },
     {
       "album": {
@@ -10727,6 +10793,24 @@
     },
     {
       "album": {
+        "name": "Mille lavori",
+        "url": "https://open.spotify.com/album/4JDR3hI9Jue6Q2dJ66QKoM"
+      },
+      "artists": [
+        {
+          "name": "Abby 6ix",
+          "url": "https://open.spotify.com/artist/19nW3VjtThtO0ek8Ymmg9P"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198304,
+      "name": "Mille lavori",
+      "url": "https://open.spotify.com/track/6FIAh9cosxFM9mlyIPncUM"
+    },
+    {
+      "album": {
         "name": "Million Dollar",
         "url": "https://open.spotify.com/album/4wdR5BTgIKCnADDGb9eqIP"
       },
@@ -11062,7 +11146,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 152275,
       "name": "Morire",
       "url": "https://open.spotify.com/track/4qwSAlQf1ekfpvDA76WqDr"
@@ -11378,6 +11462,24 @@
       "duration_ms": 161149,
       "name": "NASTY",
       "url": "https://open.spotify.com/track/62qL3R7T6G4wgHBpZ8efBu"
+    },
+    {
+      "album": {
+        "name": "Nati Per Fare La Guerra",
+        "url": "https://open.spotify.com/album/3B72CwXRmMdlSSJW6cza0h"
+      },
+      "artists": [
+        {
+          "name": "Nabi",
+          "url": "https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138782,
+      "name": "Nati Per Fare La Guerra",
+      "url": "https://open.spotify.com/track/5kjCIGDQzAWgfSKsnjnX7D"
     },
     {
       "album": {
@@ -15263,6 +15365,24 @@
     },
     {
       "album": {
+        "name": "EXPORT",
+        "url": "https://open.spotify.com/album/30Dl1ii75LPbTc0LqXBo2s"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Si si (140bpm - Emin)",
+      "url": "https://open.spotify.com/track/3slUj8GoFg2hBcXhWwiq70"
+    },
+    {
+      "album": {
         "name": "Si$tema",
         "url": "https://open.spotify.com/album/5EIYPOPAKA8FiVAjVOEicv"
       },
@@ -15454,6 +15574,24 @@
       "duration_ms": 151579,
       "name": "Sintetico (feat. Tony Boy)",
       "url": "https://open.spotify.com/track/4ASEODqcUCLIOY1owcgl45"
+    },
+    {
+      "album": {
+        "name": "Sipario",
+        "url": "https://open.spotify.com/album/4FtMQQQPlsmDsXHbJMbBpD"
+      },
+      "artists": [
+        {
+          "name": "Dot Valentino",
+          "url": "https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101565,
+      "name": "Sipario",
+      "url": "https://open.spotify.com/track/2TN5owJ3vR80Erm7KfgGmO"
     },
     {
       "album": {
@@ -17285,6 +17423,24 @@
     },
     {
       "album": {
+        "name": "UN'ALTRA NOTTE",
+        "url": "https://open.spotify.com/album/2KZJ34oRNoCEYAyDCqOjmf"
+      },
+      "artists": [
+        {
+          "name": "Bubu Doc",
+          "url": "https://open.spotify.com/artist/2ZZkOaLciQrKPqQ9lYm0Yi"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179016,
+      "name": "UN'ALTRA NOTTE",
+      "url": "https://open.spotify.com/track/2VSKm8Uz0Y57LMB8AOHqOm"
+    },
+    {
+      "album": {
         "name": "Una Chance",
         "url": "https://open.spotify.com/album/1Wv5KsADpXa3sXUlff0tzy"
       },
@@ -18387,6 +18543,24 @@
     },
     {
       "album": {
+        "name": "ZIG ZAG",
+        "url": "https://open.spotify.com/album/1jokKdI2v5ZLwXdDYLjyIU"
+      },
+      "artists": [
+        {
+          "name": "Fre_nky",
+          "url": "https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141139,
+      "name": "ZIG ZAG",
+      "url": "https://open.spotify.com/track/7adSyT0GUITkpCHIrLqhTG"
+    },
+    {
+      "album": {
         "name": "ZONE",
         "url": "https://open.spotify.com/album/16Cwm5LSfuvTbk9y13nxXx"
       },
@@ -18402,6 +18576,28 @@
       "duration_ms": 208695,
       "name": "ZONE",
       "url": "https://open.spotify.com/track/4ojFWkavYUbStOneW5c8ZF"
+    },
+    {
+      "album": {
+        "name": "Oue La 6T",
+        "url": "https://open.spotify.com/album/4SrAWAklbPj8KZGjthCWrC"
+      },
+      "artists": [
+        {
+          "name": "Shotas",
+          "url": "https://open.spotify.com/artist/626MEj1uIFt7eZMSroO01a"
+        },
+        {
+          "name": "SPOOKYPBL",
+          "url": "https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174166,
+      "name": "\u00c7a tue",
+      "url": "https://open.spotify.com/track/5H3zvEIPBrZcnQg7pfEQjm"
     },
     {
       "album": {

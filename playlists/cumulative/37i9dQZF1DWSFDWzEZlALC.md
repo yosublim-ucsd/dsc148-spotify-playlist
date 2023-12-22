@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: BRUCKNER, Eli Preiss
 
-473 songs - 22 hr 53 min
+474 songs - 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [o strasse](https://open.spotify.com/track/4WwrvzFnouOufSlZQf5gjc) | [WEIL](https://open.spotify.com/artist/5heeoV9KT4ygkJRc7BvWcu) | [O STRASSE](https://open.spotify.com/album/3SQcKefvJEd3R7kvYgqqXK) | 3:03 | 2023-12-14 |  |
 | [Offiziell Glücklich](https://open.spotify.com/track/4zD9KFD8awuhpSuzygS4Pf) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Offiziell Glücklich](https://open.spotify.com/album/5nI1xih2hIWj0zf056x31C) | 2:48 | 2023-09-14 | 2023-11-17 |
 | [Offline](https://open.spotify.com/track/7Jpjui3BOS3fYqKYzddHm4) | [MOA](https://open.spotify.com/artist/1E7MNGR2FctfNRyFwWLcCY), [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Offline](https://open.spotify.com/album/2tZZnHcwcJsJ7NbSLKLaAd) | 3:30 | 2023-11-24 |  |
+| [oftgefragt\_cover](https://open.spotify.com/track/4B6WImKT5ovI8fJHS5AQLr) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [oftgefragt\_cover](https://open.spotify.com/album/7KxBfTvOv8iThCQuYyloMC) | 3:08 | 2023-12-21 |  |
 | [Ohne uns](https://open.spotify.com/track/7APp1SPNTDUWUPBl4CjqcK) | [Yassin](https://open.spotify.com/artist/04D2woeEnCEpk3Y01gTHy3), [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [FÜR IMMER](https://open.spotify.com/album/058sfd5ZUogzHNpujalOXa) | 2:30 | 2023-05-18 | 2023-10-27 |
 | [One Call away <3](https://open.spotify.com/track/0c1NsAvtTncDw7TlPB7Nkh) | [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [adhs](https://open.spotify.com/album/4AG9l8sVfZ4OhBRjuOFnze) | 2:18 | 2023-03-02 | 2023-05-12 |
 | [One Way](https://open.spotify.com/track/0uLs9eBvzMfs6pjPM251TB) | [KLAN](https://open.spotify.com/artist/3PWVGBibvYW9YfZX6ayYq8) | [One Way](https://open.spotify.com/album/3H10cUuEaI4jIxNiZfQAGz) | 2:57 | 2023-11-24 |  |
@@ -402,7 +403,7 @@
 | [streetsmart](https://open.spotify.com/track/0Qe3c6avosY3zD6m6nmK24) | [Aaron](https://open.spotify.com/artist/1Z3Z5OW15EG3qwFaiqmXvQ) | [streetsmart](https://open.spotify.com/album/6dHxhtdsS5j3GxXbOr7T46) | 2:32 | 2023-08-31 | 2023-12-01 |
 | [Superkraft](https://open.spotify.com/track/3pRsPjpPnnCDGgNJZZiATR) | [CONNY](https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm) | [Superkraft](https://open.spotify.com/album/0zdMpT5ovFKv42wOfvo54Z) | 2:20 | 2023-08-03 | 2023-08-18 |
 | [Suzuki Swift](https://open.spotify.com/track/7tGNyXcMm5YwSi0E5CwB2g) | [Verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [Suzuki Swift](https://open.spotify.com/album/7M0T6e64FpuuLSQ6BqeotP) | 3:22 | 2023-02-02 | 2023-08-11 |
-| [Tanz In Deiner Wohnung](https://open.spotify.com/track/1HK0OkZNHBGUwG4BkcydKB) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Tanz In Deiner Wohnung](https://open.spotify.com/album/4yzLVO788gfMjTO43aX3ws) | 3:04 | 2023-06-22 |  |
+| [Tanz In Deiner Wohnung](https://open.spotify.com/track/1HK0OkZNHBGUwG4BkcydKB) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Tanz In Deiner Wohnung](https://open.spotify.com/album/4yzLVO788gfMjTO43aX3ws) | 3:04 | 2023-06-22 | 2023-12-22 |
 | [Technoclubs](https://open.spotify.com/track/6i2eY2ea3N6HYEp0HGTV2Q) | [STANOVSKY](https://open.spotify.com/artist/4GR8jECs0wPPXOaF1sfYmP) | [Technoclubs](https://open.spotify.com/album/6cF0PwUikGvw2yXbQd6qRk) | 3:48 | 2023-02-09 | 2023-03-10 |
 | [Teen](https://open.spotify.com/track/3QEmBsw9CFMnNWaevPo91r) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Teen](https://open.spotify.com/album/2zRB8bzRMCoXTqNKQtD4Hf) | 3:03 | 2023-08-24 |  |
 | [Teenage Dirtbag](https://open.spotify.com/track/1qua00ZPrL5IHm6mmqBfRI) | [Flinte](https://open.spotify.com/artist/3ZqXNocGLSBgDcpM2QyQMS), [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Teenage Dirtbag](https://open.spotify.com/album/0gwLX3eAeSh7sADfI2VAXc) | 2:29 | 2023-06-29 | 2023-07-28 |

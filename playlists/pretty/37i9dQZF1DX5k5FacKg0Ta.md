@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 
 > Valikoima tuoreita ja hieman vanhempiakin suomalaisia jazz\-helmiä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,592 likes - 71 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,593 likes - 71 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 | 27 | [Turn Again Hourglass](https://open.spotify.com/track/56DziRNCM7W4oerJ0uuAG6) | [Mama Longhorn](https://open.spotify.com/artist/52yqArRZhaFqgHfKw1dADh) | [Turn Again Hourglass](https://open.spotify.com/album/5TNB6VrYqAFwWcIuez679C) | 5:47 |
 | 28 | [Reida](https://open.spotify.com/track/1pBHNnt6bort4V7QH1urYK) | [The Mystic Revelation of Teppo Repo](https://open.spotify.com/artist/0dZa3VK8cBMlUQ8PsozrsR) | [Kosmoksen erakko](https://open.spotify.com/album/0Wt5pnCwuRsNxv2grDTVFF) | 4:48 |
 | 29 | [Quarantine Hotel](https://open.spotify.com/track/52zmgBTqsl1riy73iSrGag) | [Sigurdur Rögnvaldsson](https://open.spotify.com/artist/3yrdwR6M6jaukJJJXxHcJE), [Tuomas Antero Turunen](https://open.spotify.com/artist/1a9jCUUaca6eRDY7DVjYrQ), [Tatu Rönkkö](https://open.spotify.com/artist/46OQgmwKyrVCQBVUyjKFI8), [Jori Huhtala](https://open.spotify.com/artist/6lgNnlT4ua03OwPYYfPT9p) | [Lúna](https://open.spotify.com/album/7v01TkwxSOPqD4luG6HehL) | 5:44 |
-| 30 | [The Moment Came](https://open.spotify.com/track/0otzA9Phtpsq04L9ZNUdAG) | [Josefiina Vannesluoma & Mortal Lease](https://open.spotify.com/artist/2WaYzZjc8NjXoPOqPpTnCM), [Sampo Kasurinen](https://open.spotify.com/artist/7fDPR1tDItmggYa8X97ksA), [Mikael Myrskog](https://open.spotify.com/artist/3pzdD5EnatdGM1OMZFuABN), [Nathan Francis](https://open.spotify.com/artist/4dB51YWbPAWssQkEe9DiUc), [Ville Luukkonen](https://open.spotify.com/artist/6Y6nK6vtcrXfsEIZhPV1fK) | [The Mortal Lease](https://open.spotify.com/album/6T6ub80N2wRq5CpMhclgYR) | 4:21 |
+| 30 | [The Moment Came](https://open.spotify.com/track/0wTpJvzSYYdDMLmTF4AN9W) | [Josefiina Vannesluoma & Mortal Lease](https://open.spotify.com/artist/2WaYzZjc8NjXoPOqPpTnCM), [Sampo Kasurinen](https://open.spotify.com/artist/7fDPR1tDItmggYa8X97ksA), [Mikael Myrskog](https://open.spotify.com/artist/3pzdD5EnatdGM1OMZFuABN), [Nathan Francis](https://open.spotify.com/artist/4dB51YWbPAWssQkEe9DiUc), [Ville Luukkonen](https://open.spotify.com/artist/6Y6nK6vtcrXfsEIZhPV1fK) | [The Mortal Lease](https://open.spotify.com/album/0UkwuNUpeHUoqoYVuUHvkS) | 4:21 |
 | 31 | [Save This One for When You Need It](https://open.spotify.com/track/0U8dPLAIsUIWK5Aty2jByw) | [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX) | [Monkey Mind](https://open.spotify.com/album/3rwh0JR9Y8UYoEJi8U7ulO) | 5:08 |
 | 32 | [Big Push](https://open.spotify.com/track/4igcQEY87rKolBPqiWZKvs) | [Aleksi Heinola Quartet](https://open.spotify.com/artist/1wqgTdQxJwz27q0AjYJAMp) | [Big Push](https://open.spotify.com/album/0trbA2SbGyvjpGim97zxfe) | 6:25 |
 | 33 | [Aelita](https://open.spotify.com/track/61rFTzOs4B62gXv9HCK8x8) | [VIRTA](https://open.spotify.com/artist/4cEFRqiPqB2DmwlZTv6X3b) | [Horros](https://open.spotify.com/album/7KUmdgjZxB8wvZKwAgKePs) | 6:01 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k5FacKg0Ta.md) - [plain]
 | 70 | [Tolonen\-Meltaus](https://open.spotify.com/track/0ZTd2wJwhdlSURtYv0XHIb) | [Reh Tone](https://open.spotify.com/artist/59eLvods4hL6ZIAo0jNZ30) | [Fusionations](https://open.spotify.com/album/481Z3DQ5wwJ6i0J8mPq9HI) | 3:44 |
 | 71 | [Sgr A\*](https://open.spotify.com/track/3QLXh5l26khTqOJC8VdzVZ) | [Ilmiliekki Quartet](https://open.spotify.com/artist/5lyAsOhlvbGujJCVQoDC1B), [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX), [Tuomo Prättälä](https://open.spotify.com/artist/06xoCURLIPFP4LvhXi8aLx), [Antti Lötjönen](https://open.spotify.com/artist/6uEOkKRkGPB7Z274RWBiCR), [Olavi Louhivuori](https://open.spotify.com/artist/7MsLyr0nCXGN6OGoZgZqrT) | [Ilmiliekki Quartet](https://open.spotify.com/album/7nYDVrrDqIis4MuedOyFBZ) | 5:49 |
 
-Snapshot ID: `MCw3ZGIxNmEzYzg2ZjBkZDI1MTkxYjJlMTUwNmRkYTdiY2M1MWJjYjJm`
+Snapshot ID: `MCxlMDRhMTZlZjg0YzM0ZjVjNWM1ZTQzNTkzNTk4MmY2ODkwNGNkNjVj`

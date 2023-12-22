@@ -1290,7 +1290,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 207312,
       "name": "Baarishein",
       "url": "https://open.spotify.com/track/3WLJ7D5kh44K5eJ1NqZQ6W"
@@ -2102,6 +2102,32 @@
       "duration_ms": 220943,
       "name": "Blue Eyes",
       "url": "https://open.spotify.com/track/7wW9scVNLYFLsmBb1yAUmS"
+    },
+    {
+      "album": {
+        "name": "Blur",
+        "url": "https://open.spotify.com/album/6SM96MrU9An3k67FKbvsKM"
+      },
+      "artists": [
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
+          "name": "Sachet-Parampara",
+          "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126133,
+      "name": "Blur",
+      "url": "https://open.spotify.com/track/4zmdSbVzs06VyVRlmc5QTl"
     },
     {
       "album": {
@@ -8513,6 +8539,28 @@
     },
     {
       "album": {
+        "name": "Laadla",
+        "url": "https://open.spotify.com/album/4t1RG86twVCa2cipVdnPmW"
+      },
+      "artists": [
+        {
+          "name": "Ikka",
+          "url": "https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR"
+        },
+        {
+          "name": "Sanjoy",
+          "url": "https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177971,
+      "name": "Laadla",
+      "url": "https://open.spotify.com/track/57LA3fJhESaZtMcxMzR4RT"
+    },
+    {
+      "album": {
         "name": "Laado",
         "url": "https://open.spotify.com/album/0vEzErGiuiczFnmuOD35sB"
       },
@@ -11584,7 +11632,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 170387,
       "name": "No Love",
       "url": "https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp"
@@ -12284,7 +12332,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 321549,
       "name": "Papa Meri Jaan (From \"ANIMAL\")",
       "url": "https://open.spotify.com/track/4m2af7wCfOyYLBQZ3l7xLs"
@@ -13792,7 +13840,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-03",
+      "date_removed": null,
       "duration_ms": 195253,
       "name": "Saibo",
       "url": "https://open.spotify.com/track/6udC4b4jOSnHb9ItnXgKLR"
@@ -14304,7 +14352,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 247941,
       "name": "Shayad",
       "url": "https://open.spotify.com/track/1smFN2CLqGROu0J0UyvDfL"
@@ -14514,7 +14562,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 586075,
       "name": "Shree Hanuman Chalisa",
       "url": "https://open.spotify.com/track/6H7fLdt0AeWpuxUKXuXWrx"
@@ -15201,6 +15249,32 @@
     },
     {
       "album": {
+        "name": "G Thing",
+        "url": "https://open.spotify.com/album/5PFlkcno9qStTmxIF7TXTN"
+      },
+      "artists": [
+        {
+          "name": "Guru Randhawa",
+          "url": "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        {
+          "name": "Shehnaaz Gill",
+          "url": "https://open.spotify.com/artist/1opCEf85NTZSE7YkxLCvmV"
+        },
+        {
+          "name": "Sanjoy",
+          "url": "https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187102,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/4i6z4CQXt1HTGSjCJEquG6"
+    },
+    {
+      "album": {
         "name": "Surma",
         "url": "https://open.spotify.com/album/5Egykpk3OvxbyXd8i4sdcd"
       },
@@ -15526,7 +15600,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 346290,
       "name": "Tere Hawaale (From \"Laal Singh Chaddha\")",
       "url": "https://open.spotify.com/track/4blqlsA1uf2d2I40E90EUC"
@@ -16344,7 +16418,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 270000,
       "name": "Tu Aake Dekhle",
       "url": "https://open.spotify.com/track/5BKKKNwrebowaMoUdBaNby"
@@ -18024,7 +18098,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 243953,
       "name": "Zihaal e Miskin",
       "url": "https://open.spotify.com/track/51DEaelXeJJ6cFFYbX8Hal"

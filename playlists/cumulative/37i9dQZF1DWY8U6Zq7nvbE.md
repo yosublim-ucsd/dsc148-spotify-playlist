@@ -4,7 +4,7 @@
 
 > Soft and cozy acoustic covers of famous songs.
 
-438 songs - 23 hr 44 min
+439 songs - 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Dancing with Tears in My Eyes \- Acoustic Version](https://open.spotify.com/track/3ISO5uPwAdDcfyVDxJovDt) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f), [Natalie Major](https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL) | [Dancing with Tears in My Eyes \(Acoustic Version\)](https://open.spotify.com/album/0N9AXQpUkXEBY2o2Ekes5C) | 3:30 | 2021-03-11 | 2023-04-14 |
 | [Demons \- Acoustic](https://open.spotify.com/track/3TAr9I2A2kwQt9iCi1iRFN) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [Demons \- Acoustic Cover](https://open.spotify.com/album/6mcNDNhARQFWyHzRG9Yz8K) | 3:04 | 2022-12-02 | 2023-03-10 |
 | [Desperado](https://open.spotify.com/track/0ReprZkqLJKjuBH0nowV44) | [Sarah Kristine](https://open.spotify.com/artist/6WfvaZWV6UXdkzG9oQCxw9) | [Desperado](https://open.spotify.com/album/6bhSX2BYFGgJ3iw4wnpkWZ) | 3:11 | 2023-10-27 |  |
+| [Diamonds](https://open.spotify.com/track/0uXKksgFQS0qgjpEKv82wA) | [Beatrice](https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8) | [Diamonds](https://open.spotify.com/album/5LFXHU0Ed4S71AN5baidDF) | 3:26 | 2023-12-15 |  |
 | [Diamonds \- Acoustic](https://open.spotify.com/track/4y8OZW2dyWRobsi2w0C64W) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Diamonds \(Acoustic\)](https://open.spotify.com/album/6xMjjKuAngFJw7oh0lsfG8) | 3:14 | 2021-03-11 | 2022-12-02 |
 | [Die For You](https://open.spotify.com/track/6IrCjGPCRIyALjoR8UuUIy) | [Hanster](https://open.spotify.com/artist/1dGQPw9YakyRaUuDGF0AKt) | [Die For You](https://open.spotify.com/album/6ZaquWVb3EXIUAR7Fey5Gq) | 3:47 | 2023-04-14 | 2023-10-28 |
 | [Dilemma](https://open.spotify.com/track/5MZYOtR8fcaZoWzweBNdMm) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK), [Taylor Manns](https://open.spotify.com/artist/008yUYD9avjHlXXmT47dz9) | [Dilemma](https://open.spotify.com/album/5Jj8Jcob18UYy4GhRNrSMq) | 4:07 | 2022-08-31 | 2023-04-14 |
@@ -233,7 +234,7 @@
 | [July](https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [July](https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg) | 2:36 | 2021-03-11 | 2022-07-29 |
 | [July](https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5) | 2:36 | 2021-03-11 | 2022-09-01 |
 | [Just the Two of Us \- Acoustic](https://open.spotify.com/track/4PF2XC8shB2w4g66MaXyEH) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [Just The Two Of Us \- Acoustic](https://open.spotify.com/album/4YL2SB1NKBwkBvMC1k01dz) | 3:06 | 2022-11-11 |  |
-| [Keep It Simple \(feat\. Wilder Woods\) \- Acoustic](https://open.spotify.com/track/4utWb5IGy6JGSOYd1Ie7Lv) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Petey Martin](https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB), [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [Keep It Simple \(feat\. Wilder Woods\) \[Acoustic\]](https://open.spotify.com/album/25uDrMlNrw9SXufzkVl0jF) | 2:36 | 2021-03-11 |  |
+| [Keep It Simple \(feat\. Wilder Woods\) \- Acoustic](https://open.spotify.com/track/4utWb5IGy6JGSOYd1Ie7Lv) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Petey Martin](https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB), [Wilder Woods](https://open.spotify.com/artist/26DytDdxKgr9N0tdrBSLs2) | [Keep It Simple \(feat\. Wilder Woods\) \[Acoustic\]](https://open.spotify.com/album/25uDrMlNrw9SXufzkVl0jF) | 2:36 | 2021-03-11 | 2023-12-22 |
 | [Keep You Mine \- Acoustic](https://open.spotify.com/track/0Rp4jmwBigtBymrPsMCt3G) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Keep You Mine \(Acoustic\)](https://open.spotify.com/album/2VdpWk3vlznP9XCDpr3tmG) | 3:03 | 2022-11-11 | 2023-10-28 |
 | [Kids](https://open.spotify.com/track/3XCglqn9hJiTm4FGWufop8) | [City Sessions](https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g) | [Kids](https://open.spotify.com/album/7EN2kxjo0F4uwK4iPFvrSX) | 2:32 | 2023-03-31 | 2023-09-01 |
 | [Kill Bill](https://open.spotify.com/track/1mqHs67HG57PXjE4cjbe9k) | [POOL KIDS](https://open.spotify.com/artist/3BWaTyIRQj4KFTCHwvLyHR) | [Kill Bill](https://open.spotify.com/album/38i1txuPzEVzmEd0qbJ2ie) | 3:02 | 2023-04-14 | 2023-09-01 |

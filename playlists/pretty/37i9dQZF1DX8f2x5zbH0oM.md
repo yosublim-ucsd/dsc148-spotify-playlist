@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f2x5zbH0oM.md) - [plain]
 
 > La playlist au\-delà des genres\. Photo : Empress Of
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,804 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,800 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f2x5zbH0oM.md) - [plain]
 | 49 | [Violet](https://open.spotify.com/track/1EQjOZMvkOXWMK2gx6yTZd) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Good People](https://open.spotify.com/album/3c2sTUBeNCa5Nf6HACiyA3) | 7:18 |
 | 50 | [Losing it](https://open.spotify.com/track/6gOJzpZxbYtp5tt5OrlRrJ) | [Clement Bazin](https://open.spotify.com/artist/5CM5PpBzdFwgJmlafK2AEy), [TŌNI](https://open.spotify.com/artist/51mhkfeJi7daEcKbNmKhHM) | [Losing it](https://open.spotify.com/album/3K0hH2KSnhugNfQv7n7uC1) | 3:28 |
 
-Snapshot ID: `MCwwYTE3MGM3ZWI4ZWM5MmQ2MDE5MGU3NjYyMzcyNzNhMmZlNjJmZTQ1`
+Snapshot ID: `MCw0N2EyMmVjMWQ4MTA5ZjZmNTBjN2FiMWNmNjI4Yjg0MTlmYTM0ZTM5`

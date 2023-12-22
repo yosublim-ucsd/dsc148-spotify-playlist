@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: TOKIODK, Raffé, tchelo rodrigues, Lipinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,009 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,050 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Mandona](https://open.spotify.com/track/1cNI6Udwj8fEenmPdZGVYl) | [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [Oldilla](https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9) | [Mandona](https://open.spotify.com/album/5ySMEWu5ubGZhTegROwwCF) | 2:08 |
 | 75 | [Tudo Vai Passar](https://open.spotify.com/track/6zM1Wxa5WJe1gd2Uuf7QJF) | [FJOTA](https://open.spotify.com/artist/2EaN7Ag32d6Cfh2qldaKwW), [Ayo Th](https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty) | [Tudo Vai Passar](https://open.spotify.com/album/2zX2o48wMSqtibPGQUtPfI) | 2:33 |
 
-Snapshot ID: `MCwxMjQ0MDg1ODY1MGQwZWQ3MjAyMmY3ZmUxYjVhMWU0ODAwZDk5Y2Q5`
+Snapshot ID: `MCxjMjRkZWIxMGE3NzEyMzI5NWU5MzM0ODQ1NDk1NDE5OTc5ZjNhODkw`

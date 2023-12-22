@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,232 songs - 2 day 23 hr 54 min
+1,233 songs - 2 day 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -623,7 +623,7 @@
 | [Live Forever](https://open.spotify.com/track/513okdMo2QWWkJ0rMJmjyX) | [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V) | [Live Forever](https://open.spotify.com/album/31PkpoNgP7khe9gLVkjKRw) | 4:01 | 2019-08-09\* | 2019-08-27 |
 | [Live On Love](https://open.spotify.com/track/5ScYUv4grVUOvOECp6TiKZ) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [My Marianne](https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn) | [Live On Love](https://open.spotify.com/album/6FoPkqK70wBaMbL3glpMWR) | 2:51 | 2022-09-23 | 2023-11-21 |
 | [Live Without Your Love \(with Steve Lacy\) \- MK Remix](https://open.spotify.com/track/3A1iduRuZaVfB4LLhrDIO5) | [Love Regenerator](https://open.spotify.com/artist/05KDKIpxshxrB9BMewaCBW), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Live Without Your Love \(with Steve Lacy\) \[MK Remix\]](https://open.spotify.com/album/76KZoOWdTYp2lOLQBeO46o) | 3:40 | 2020-10-30 | 2021-09-11 |
-| [Live You Down](https://open.spotify.com/track/6EkOxvS3VutQvy6MsTrrwh) | [Svidden](https://open.spotify.com/artist/4TCxJvDPZD9i1P1CLPK9BG) | [Live You Down](https://open.spotify.com/album/1vfLlCIdqV5WqXJ4GaOEmJ) | 3:01 | 2023-04-28 |  |
+| [Live You Down](https://open.spotify.com/track/6EkOxvS3VutQvy6MsTrrwh) | [Svidden](https://open.spotify.com/artist/4TCxJvDPZD9i1P1CLPK9BG) | [Live You Down](https://open.spotify.com/album/1vfLlCIdqV5WqXJ4GaOEmJ) | 3:01 | 2023-04-28 | 2023-12-22 |
 | [Living In A Dream](https://open.spotify.com/track/7ag73HpPAknMq1kY1bkNDd) | [Awakend](https://open.spotify.com/artist/4lFbV0wEuW8ulSq6NBYg4O) | [Living In A Dream](https://open.spotify.com/album/1FDVqEqLs8QoEYD8TDs07U) | 3:45 | 2023-08-11 | 2023-09-05 |
 | [Lonely](https://open.spotify.com/track/7zg74P8yN5Z9dW1LI4oPpd) | [Arctic Lake](https://open.spotify.com/artist/0IEPb9ily3E5IAYMSkwtQ6) | [Lonely](https://open.spotify.com/album/5cyiRpzVYVoKsR79oajOjF) | 3:06 | 2021-09-25 | 2022-05-14 |
 | [LONELY NIGHTS \(feat\. Lil Yachty\)](https://open.spotify.com/track/5mv8xuH3y6jxFCBT6a3w4K) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [LONELY NIGHTS \(feat\. Lil Yachty\)](https://open.spotify.com/album/3cUkJwFuXkFCuZCfYDiLwi) | 3:06 | 2019-08-09\* | 2020-03-27 |
@@ -825,6 +825,7 @@
 | [Proud](https://open.spotify.com/track/4YXKVaWzHaVyDq2pVS5cgR) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Joytime III](https://open.spotify.com/album/662MMKEWOxGXbPXQIcgBlW) | 3:11 | 2019-08-20 | 2020-10-30 |
 | [Pull Me Closer](https://open.spotify.com/track/1R58ZwAFGpy4iMxa0mPmIN) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO) | [Pull Me Closer](https://open.spotify.com/album/28WRx5G880dCffLfPUpTED) | 2:44 | 2021-03-14 | 2021-09-25 |
 | [pullmecloser](https://open.spotify.com/track/0LtDM3ttfZsmzmNgm8aAtm) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [pullmecloser](https://open.spotify.com/album/165941zH2zxcRPR9rP8PK2) | 2:30 | 2023-11-17 |  |
+| [Rather Be With You](https://open.spotify.com/track/6uHJca2r3DtdyNh2Jwke34) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Rather Be With You](https://open.spotify.com/album/3yvMr96Iaet6cpz7IIqGly) | 3:08 | 2023-12-01 |  |
 | [Rather Be With You \(feat\. Crooked Colours\)](https://open.spotify.com/track/4Kc1nMxyLCWtx3BganIsQs) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Rather Be With You \(feat\. Crooked Colours\)](https://open.spotify.com/album/5rSdbJ0urwMgblnOxW460H) | 3:08 | 2021-12-03 | 2023-12-11 |
 | [Ready For Love \(feat\. Greg Zlap\)](https://open.spotify.com/track/7lbDAIZ4riUbIk2pAu6Ouw) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb), [Joe Killington](https://open.spotify.com/artist/0QvtEuDIDAsKpfuOe2a237), [Greg Zlap](https://open.spotify.com/artist/3OLp4KhWh6toFAwiPWxbxX) | [Ready For Love \(feat\. Greg Zlap\)](https://open.spotify.com/album/5QaaWtR8dEfeJGiz2Nw0oW) | 2:58 | 2019-08-26 | 2020-10-30 |
 | [Ready For My Love \(feat\. Kudu Blue\)](https://open.spotify.com/track/2qfKlNXwBtGGzUuJBGZYVF) | [Kideko](https://open.spotify.com/artist/0ZwQMCRqfyh1OGQkBh9Cnj), [Kudu Blue](https://open.spotify.com/artist/2kYJ8VmL78aetgtGxQV0Z4) | [Ready For My Love \(feat\. Kudu Blue\)](https://open.spotify.com/album/2M6A1kotD0LIMOokRXJF5J) | 2:23 | 2021-08-15 | 2022-05-14 |

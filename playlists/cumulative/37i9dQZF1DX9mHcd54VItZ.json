@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "031",
+        "url": "https://open.spotify.com/album/3gwMGJtvH9DtIoey702Ha5"
+      },
+      "artists": [
+        {
+          "name": "Phillip Taylor",
+          "url": "https://open.spotify.com/artist/1YYmkWArjQ9gVGDq4BLyVw"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163303,
+      "name": "031",
+      "url": "https://open.spotify.com/track/3wU1yl2Fy9spQUVp8rx8hW"
+    },
+    {
+      "album": {
         "name": "9-2-5",
         "url": "https://open.spotify.com/album/1B3vzwGRP0OZ3pZ4XhsIC5"
       },
@@ -788,6 +806,24 @@
       "duration_ms": 179368,
       "name": "brokeboy",
       "url": "https://open.spotify.com/track/5A2hkikTPwDiJECorH57vg"
+    },
+    {
+      "album": {
+        "name": "Bumper Sticker",
+        "url": "https://open.spotify.com/album/0IJag3C2mx1xw7ZqFPixG8"
+      },
+      "artists": [
+        {
+          "name": "Berry",
+          "url": "https://open.spotify.com/artist/13w9tIoAE9FSWhwgjz7XKd"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174218,
+      "name": "Bumper Sticker",
+      "url": "https://open.spotify.com/track/7ggujZS2laihBf6IWHEtC3"
     },
     {
       "album": {
@@ -1841,6 +1877,24 @@
     },
     {
       "album": {
+        "name": "Blues Chemistry",
+        "url": "https://open.spotify.com/album/1tRK27YKOYapMVidpxJu70"
+      },
+      "artists": [
+        {
+          "name": "Blackwater",
+          "url": "https://open.spotify.com/artist/1Tjf5V96Viwh9So79X0Hik"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265877,
+      "name": "Empty Horizon",
+      "url": "https://open.spotify.com/track/58vtz88cS0uZ37N8a4s3QY"
+    },
+    {
+      "album": {
         "name": "Looking Back At Getting Here",
         "url": "https://open.spotify.com/album/1Kp1XEcGFJKygN7MVhsGIE"
       },
@@ -2134,7 +2188,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 240450,
       "name": "Feeding Time",
       "url": "https://open.spotify.com/track/7aP7aYj4OWS5MFtQtgtora"
@@ -4362,7 +4416,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 178730,
       "name": "Ons Is Die Vuur",
       "url": "https://open.spotify.com/track/39qWtrJIMKpKVbAIrbXViw"
@@ -4806,7 +4860,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 137419,
       "name": "Reckless Love",
       "url": "https://open.spotify.com/track/6ECuZmmXiLXqDtoBOsId2M"

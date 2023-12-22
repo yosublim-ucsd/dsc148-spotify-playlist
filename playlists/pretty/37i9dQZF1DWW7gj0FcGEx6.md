@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,664 likes - 217 songs - 10 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,747 likes - 217 songs - 10 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 12 | [Earth](https://open.spotify.com/track/183tCj3FW0MBHKeDPHKoDj) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Life On Our Planet \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0twoJjqA27AFvNr5UiCNGz) | 3:50 |
 | 13 | [Führer](https://open.spotify.com/track/3cuWui2kuYhAXCbPw75jxx) | [David Schweitzer](https://open.spotify.com/artist/1DUWnPlE7T4m8zBUYK6GIc) | [World War II: From the Frontlines \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4XvRbxvFEzC0c5r43O1F8i) | 2:10 |
 | 14 | [Ahsoka \- End Credits \- From "Ahsoka"](https://open.spotify.com/track/12RRnmIMkMDViOjYd5k2iy) | [Kevin Kiner](https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW) | [Ahsoka \- End Credits \(From "Ahsoka"\)](https://open.spotify.com/album/71DGL0E8WZ0BAkVFOV3bIx) | 3:43 |
-| 15 | [My Pafology \- From "American Fiction" Soundtrack](https://open.spotify.com/track/7BCvV8CqFW9nfHpcULwglX) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD) | [My Pafology \(From "American Fiction" Soundtrack\)](https://open.spotify.com/album/51MDFve5uXaiFsU8dezgKk) | 3:16 |
+| 15 | [My Pafology \- From "American Fiction" Soundtrack](https://open.spotify.com/track/0m9PfZjzAtpjE6kvNMMZQe) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD) | [American Fiction \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2pRlRr8tWybfbSKcrMPMF0) | 3:16 |
 | 16 | [The People's Cry \(Main Theme\) \[From "Avatar: Frontiers of Pandora"\]](https://open.spotify.com/track/1IGh7gLCKtrk39Q2Iyf8Tv) | [Pinar Toprak](https://open.spotify.com/artist/7z1L55q63jRGHqqS3xcGgl) | [The People's Cry \(Main Theme\) \[From "Avatar: Frontiers of Pandora"\]](https://open.spotify.com/album/0kI9bkgVBtNK4q3paGOegK) | 2:18 |
 | 17 | [Le temps d'aimer](https://open.spotify.com/track/7FyrZmyikbebxiZgo9pPdg) | [Amine Bouhafa](https://open.spotify.com/artist/50FuOJ5QTp0kIsLEE2FP5l) | [Le temps d'aimer \(Bande originale du film\)](https://open.spotify.com/album/7qNTsK5kPIEi8jWh4cXSWQ) | 3:21 |
 | 18 | [Southern Right Whale](https://open.spotify.com/track/3rHo0ANuCft06hupWYlE1u) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Jacob Shea](https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc), [Sara Barone](https://open.spotify.com/artist/1OHACW7s48L2ZIn7PUpt8y) | [Planet Earth III \(Original Television Soundtrack\)](https://open.spotify.com/album/5j4IVHFClswFFiN11QQNjl) | 3:49 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 27 | [Bodies Main Title](https://open.spotify.com/track/3tERZdN36IebQcY1Nutz6N) | [Jon Opstad](https://open.spotify.com/artist/64FMaf8JHBUhmBLcvNJXzp) | [Bodies \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/2f8zMjFjHos3kToO2DLsM2) | 1:08 |
 | 28 | [Soupe populaire](https://open.spotify.com/track/04KtwFcMWPbxUZ4eJaUkbb) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l) | [L'Abbé Pierre \- Une vie de combats \(Bande originale du film\)](https://open.spotify.com/album/00NSMSUTkezJ8nabuZ3nUN) | 2:26 |
 | 29 | [Les Souvenirs et les Émotions \- From "La Petite" Soundtrack](https://open.spotify.com/track/2duUkrkNExfMaKowd30udJ) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Les Souvenirs et les Émotions \(From "La Petite" Soundtrack\)](https://open.spotify.com/album/7kdQQwyP3miRSVgu3kz0A5) | 1:43 |
-| 30 | [Holding Hands \(From "The Crown: Season Six Soundtrack"\)](https://open.spotify.com/track/0vPpOw4JOAKB9QMivOAnQj) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [Holding Hands \(From "The Crown: Season Six Soundtrack"\)](https://open.spotify.com/album/1C9g1hrvjlKvwRSU9kUWxJ) | 3:32 |
+| 30 | [Holding Hands \(From "The Crown: Season Six Soundtrack"\)](https://open.spotify.com/track/3qdBxyNGX7ly8HD4Im0xIg) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Crown: Season Six \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4SD5pyJRlNnLCR0yZeWKZN) | 3:32 |
 | 31 | [New York, 1969](https://open.spotify.com/track/5a4Vzq0zwl72Pjox7kFg2J) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Indiana Jones and the Dial of Destiny \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2oaBMWEc8mY8TsCfOREHfV) | 4:17 |
 | 32 | [Selling Montage](https://open.spotify.com/track/7y8zvpcVtc3VQXE2V0fyR6) | [Michael Dean Parsons](https://open.spotify.com/artist/0PtgERFoiSK8egVLiNkure) | [Pain Hustlers \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/03WFtOTe7GVyKgzTLxUDny) | 1:57 |
 | 33 | [The Age of Giants](https://open.spotify.com/track/5cFaQ1UlmXa4UHYctK7hpT) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Blue Whales \- Return of the Giants \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Jgynk3NCpDbCWdjz1LMdq) | 4:00 |
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 216 | [Friendship Theme](https://open.spotify.com/track/317Tb1dzMW3KTUjiTcsN4b) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i), [Brandon Roberts](https://open.spotify.com/artist/7EDDArVp3EXwuDx8HUQrTo) | [Chaos Walking \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2hqIiiiQXOUCkAx2i0JKje) | 1:58 |
 | 217 | [Brianna](https://open.spotify.com/track/6wFLtag0kJnXwva2Qj1khj) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Synchronic \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3zUpvlv6hfVwFC1zwtDT6M) | 1:38 |
 
-Snapshot ID: `MCw2ZTEzZmQ1OTljZjNiYWYwYmU4ODNmZjJkOTY5NTMzZmUxNjAyMWYy`
+Snapshot ID: `MCwwYmRhMDBlMTQ3YzdjN2UwODhmODdlY2VmZmM2YTY2OGFiN2MyNzU3`

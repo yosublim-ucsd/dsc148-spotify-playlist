@@ -2,9 +2,9 @@
 
 ### [Norteño 2023](https://open.spotify.com/playlist/37i9dQZF1DWUvLASFobxmI)
 
-> Bravías, románticas y rancheras, las mejores canciones norteñas\. Grupo Recluta en portada.
+> Bravías, románticas y rancheras, las mejores canciones norteñas\. Regulo Caro y El Padrinito Toys en portada.
 
-442 songs - 23 hr 45 min
+444 songs - 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Bonita](https://open.spotify.com/track/5TdIP1VCcWF1CRw810RRqc) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [Bonita](https://open.spotify.com/album/263Byb9kFZxoZMcmPEbKca) | 3:21 | 2023-04-21 |  |
 | [Bonita](https://open.spotify.com/track/5jZ4F989lTH5jcFxT6ccbP) | [Los Dorados](https://open.spotify.com/artist/3q0KiiH0SqZoOftCEZNAis) | [Bonita](https://open.spotify.com/album/6YQnsEvPHOX3aSZsconRkP) | 3:21 | 2023-01-30 | 2023-04-14 |
 | [Borracho Enamorado](https://open.spotify.com/track/6VcVBZ2b43kiDO6rQxmsYO) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Borracho Enamorado](https://open.spotify.com/album/0sr6urbaaWIMexVmk97TZK) | 2:32 | 2023-06-30 |  |
+| [Borracho Llorón](https://open.spotify.com/track/1vXKRWMJ4mVfHBapY9reS7) | [Arturo Roque](https://open.spotify.com/artist/39Rbc8JMhWt2OQvVv9m94u) | [Borracho Llorón](https://open.spotify.com/album/4U5ks2wUEKSzjTm7oGDOTB) | 3:34 | 2023-12-21 |  |
 | [Bélica Como Ninguna](https://open.spotify.com/track/59XObm1gFYaUOdzsg0QApT) | [Los Ejemplares del Rancho](https://open.spotify.com/artist/6kimDIidGkVRPLCAxNVBgY), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Bélica Como Ninguna](https://open.spotify.com/album/2kEeiftlpYDuSfRmlwCh1K) | 2:21 | 2023-07-28 |  |
 | [Bélico X Siempre](https://open.spotify.com/track/7uZ3mZbVE1e7NtYMBAK3hA) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Bélico X Siempre](https://open.spotify.com/album/1AFs1df7bscMEsh6CEI2Gj) | 2:53 | 2023-04-14 | 2023-05-13 |
 | [Cada Segundo](https://open.spotify.com/track/4kWa04O57kHyvQGzxOWedK) | [Firma De Reyes](https://open.spotify.com/artist/1VdTndpqZlKjRZpvv0qPOW), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Cruz Astorga](https://open.spotify.com/artist/4HUfvEWsK2Gc5SJbx3qVH4) | [Cada Segundo](https://open.spotify.com/album/62PZicuGhtYE60FZgoylHc) | 3:29 | 2023-10-06 | 2023-10-22 |
@@ -158,6 +159,7 @@
 | [El Taliban](https://open.spotify.com/track/0N3ffTqqz9fzuxVt8EY341) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [El Taliban](https://open.spotify.com/album/40EEdGVKmA7zcMOr5HGP6r) | 3:04 | 2022-07-01 | 2022-08-20 |
 | [El Vago De Los Nike](https://open.spotify.com/track/2nYAQN9ZGvoED0N4er1Lt1) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Vive Y Dejame Vivir](https://open.spotify.com/album/1MyVogY0FXlgs1qtDGk7OK) | 2:56 | 2022-08-29 |  |
 | [El Vago De Los Nike](https://open.spotify.com/track/3MdhvQ8BprBhd4lYlgtPt2) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ) | [Vive Y Dejame Vivir](https://open.spotify.com/album/7obSSQZvfcaXki0vc6U847) | 2:56 | 2022-07-01 | 2022-12-14 |
+| [El viaje de mi vida](https://open.spotify.com/track/3RjXj36lEB3Zn8N5BxrDdY) | [Los Mentados De Culiacán](https://open.spotify.com/artist/20ZHlqVa1Q9FHE7Iz1R8xV) | [El viaje de mi vida](https://open.spotify.com/album/6g0r3dStEE1KXDDYxGuFgh) | 3:26 | 2023-12-21 |  |
 | [El Árbol del Mayo](https://open.spotify.com/track/3eU5K7wg8BSv70Jifvyf0A) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [El Árbol del Mayo](https://open.spotify.com/album/4azUaJgvQzzZ13mRRfxx4j) | 3:56 | 2022-09-30 | 2023-01-21 |
 | [Empoderada](https://open.spotify.com/track/4l4uejxEy1JLiYu4ekOQOC) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [Empoderada](https://open.spotify.com/album/1joJ9fKaSdZmrfL5IYYQu9) | 2:33 | 2023-09-22 | 2023-10-15 |
 | [En Cambio No](https://open.spotify.com/track/6pQAlLDQpmq7vcdbFW7ESj) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [LP Norteño](https://open.spotify.com/artist/7k3P0gw7SZwWZ718CsDpy5) | [En Cambio No](https://open.spotify.com/album/2hNjG4PRS550kZO1sjj02l) | 4:04 | 2023-10-21 |  |
@@ -318,7 +320,7 @@
 | [Noche De Pasión \(En Vivo\)](https://open.spotify.com/track/1VzI22RK0crOMtRRscUwZN) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Noche De Pasión \(En Vivo\)](https://open.spotify.com/album/2sjtAV3t1dhuY7EKSun7tX) | 3:03 | 2023-03-10 | 2023-04-16 |
 | [Nuestra Profecía](https://open.spotify.com/track/28GpahmEDD0uc6bTMT36n9) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo) | [Nuestra Profecía](https://open.spotify.com/album/030NSvZvnIb1cIdEdDWw7n) | 2:47 | 2022-07-01 | 2022-08-07 |
 | [Nuestro Amor](https://open.spotify.com/track/4lYaJTrvWTWQQYFYNLnZ2A) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Nuestro Amor](https://open.spotify.com/album/5AQegA6YR71m4uILP9njWn) | 3:00 | 2023-10-21 | 2023-12-02 |
-| [Obsesión](https://open.spotify.com/track/2xOshxJiidlSqyjS3H7LKN) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Obsesión](https://open.spotify.com/album/23GMiZ0oFGX7EEf1QNlbOY) | 2:32 | 2023-09-08 |  |
+| [Obsesión](https://open.spotify.com/track/2xOshxJiidlSqyjS3H7LKN) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Obsesión](https://open.spotify.com/album/23GMiZ0oFGX7EEf1QNlbOY) | 2:32 | 2023-09-08 | 2023-12-22 |
 | [Ojala y te animes](https://open.spotify.com/track/0gdHT6RFfRvrjnnFbKzfL1) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 2/3](https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1) | 3:28 | 2022-08-05 | 2023-10-07 |
 | [Ojalá Que Te Mueras](https://open.spotify.com/track/56ebjrGMxk4cjmycPiZJIM) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Ojalá Que Te Mueras](https://open.spotify.com/album/6Us6zDsEZbXA7pAMlSSpu0) | 2:49 | 2023-12-08 | 2023-12-16 |
 | [Ojos Marrones](https://open.spotify.com/track/40BxyMmURblx07RcVIKW6T) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo) | [Ojos Marrones](https://open.spotify.com/album/0qVXRHwu90sEGTIk5EbHGm) | 3:38 | 2022-12-02 | 2022-12-10 |
@@ -443,7 +445,7 @@
 | [Ya Fue Suficiente](https://open.spotify.com/track/6DxehmTpQ7gPuQzIl4oJ67) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Al Derecho Y Al Reverso \(Deluxe\)](https://open.spotify.com/album/53WBc1wQGoVpcMAUvdMzvS) | 2:40 | 2023-02-24 | 2023-07-15 |
 | [Ya Me Entere \- En Vivo](https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Ya Me Entere \(En Vivo\)](https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe) | 3:42 | 2022-09-02 |  |
 | [Ya No Llores BB](https://open.spotify.com/track/3nhRj5PwAgCViXn9qNjnkx) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Ya No Llores BB](https://open.spotify.com/album/3Aex8IQQTjNn0FXPVc173W) | 2:38 | 2023-12-15 |  |
-| [Yo No Entiendo](https://open.spotify.com/track/6ukZTlYnyKh1XdTOjj4DPj) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [2018](https://open.spotify.com/album/2OqWaNT9qCdQDFOU2e4iEd) | 3:10 | 2023-12-01 |  |
+| [Yo No Entiendo](https://open.spotify.com/track/6ukZTlYnyKh1XdTOjj4DPj) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [2018](https://open.spotify.com/album/2OqWaNT9qCdQDFOU2e4iEd) | 3:10 | 2023-12-01 | 2023-12-22 |
 | [Yo Perdí](https://open.spotify.com/track/0QKr9qO91FbCUDaNsXkZ5T) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Yo Perdí](https://open.spotify.com/album/7qIFqS4tLfjag7YkyPwecJ) | 2:44 | 2022-08-29 | 2022-09-23 |
 | [Yo Seguiré](https://open.spotify.com/track/0wCmsxdleZ6Bx1wnbASzPT) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Yo Seguiré](https://open.spotify.com/album/2Kgdp5hOSOKuk7X1K1yytR) | 4:13 | 2023-02-24 | 2023-10-07 |
 | [Yo Siempre Lo Supe](https://open.spotify.com/track/287iGnAlvAZoOx2vPq3wjt) | [Al Tiro de Armando Ramos](https://open.spotify.com/artist/6fvE3WfQ7mEyYOc4hY6t8O), [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [Yo Siempre Lo Supe](https://open.spotify.com/album/5pypGEQpjgTyqnSmfcDqqk) | 3:30 | 2023-10-21 | 2023-12-02 |

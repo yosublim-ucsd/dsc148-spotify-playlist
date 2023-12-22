@@ -2,9 +2,9 @@
 
 ### [NKVT](https://open.spotify.com/playlist/37i9dQZF1DXdnOj1VEuhgb)
 
-> Türkiye'nin en sıkı çalma listesi\. Kapak: Kleo x Segah x Motive
+> Türkiye'nin en sıkı çalma listesi\. Kapak: Jeff Redd
 
-247 songs - 10 hr 47 min
+248 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [ANLAR ANLAYAN DİLİMDEN](https://open.spotify.com/track/3SHd1jpffHjpoWq0I4TRcE) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [ANLAR ANLAYAN DİLİMDEN](https://open.spotify.com/album/0dTlgsIBAc93WHZE89WZUW) | 2:51 | 2023-04-27 | 2023-06-09 |
 | [ANLARSIN](https://open.spotify.com/track/7422iH48oKjQzRNC8khQnK) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [ANLARSIN](https://open.spotify.com/album/1u95gvoiah3kNlf4s2sBjZ) | 2:58 | 2023-04-13 | 2023-05-05 |
 | [ARABA](https://open.spotify.com/track/47l3syDKFT3PPonobpm1NA) | [Sefo](https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ) | [ARABA](https://open.spotify.com/album/5fcQowx2O7wTG0QiOdWZe6) | 1:31 | 2023-06-08 | 2023-11-11 |
+| [Aramazsan Arama](https://open.spotify.com/track/1hd4lSaJtLomTU3s6OXsf6) | [Decrat](https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5), [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71) | [Aramazsan Arama](https://open.spotify.com/album/1EwOWKlq8ufPZKpEg0eOSU) | 2:42 | 2023-12-21 |  |
 | [Ararım Yarın](https://open.spotify.com/track/7Dfe90uD6HDlA2lq3K1mkp) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Ararım Yarın](https://open.spotify.com/album/2zUHnGXEvzKk02vnJQHAnm) | 2:30 | 2023-08-10 | 2023-10-01 |
 | [ARASAN DA](https://open.spotify.com/track/72jYQj3RgTR1DFLfibD71B) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [ARASAN DA](https://open.spotify.com/album/604LjoILfRCmhYuLCFvel7) | 3:11 | 2023-01-10 | 2023-06-16 |
 | [Arayamadım](https://open.spotify.com/track/1yqsRQmiXPw0KI1Zu1qTGW) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r) | [Arayamadım](https://open.spotify.com/album/2rhtOoRuVEhPE91NqO6yaI) | 2:21 | 2023-08-17 | 2023-10-01 |
@@ -32,7 +33,7 @@
 | [Ayna](https://open.spotify.com/track/6iMkA2M2H8Dz318cAttaSS) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Ayna](https://open.spotify.com/album/6JPCXMFjZQDAswKxIekVsY) | 2:34 | 2023-07-06 | 2023-07-28 |
 | [Aynen](https://open.spotify.com/track/72HD3OMs70hTZlbKVVd1rG) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Hermano](https://open.spotify.com/album/75VicDyzJQYjtYdtDyGxn4) | 3:06 | 2023-04-27 | 2023-10-13 |
 | [AĞZI BOZUK](https://open.spotify.com/track/2Y2D4vvx4SMOYfQaxSZEQz) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [AĞZI BOZUK](https://open.spotify.com/album/3v13HnGtldjB9MeHt9nwEN) | 2:06 | 2023-07-27 |  |
-| [AŞIK OLDUM](https://open.spotify.com/track/3SJklzPJQ6qYw6WzlRtBRj) | [SWIRF](https://open.spotify.com/artist/1PDcVWGthnDkYv57hoQSpG), [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh) | [AŞIK OLDUM](https://open.spotify.com/album/4xU0uz2jlyRYmf75Zo0fxx) | 2:08 | 2023-12-12 |  |
+| [AŞIK OLDUM](https://open.spotify.com/track/3SJklzPJQ6qYw6WzlRtBRj) | [SWIRF](https://open.spotify.com/artist/1PDcVWGthnDkYv57hoQSpG), [DEHA INC.](https://open.spotify.com/artist/2qW4eDZVrF6mlcuaTBEMjh) | [AŞIK OLDUM](https://open.spotify.com/album/4xU0uz2jlyRYmf75Zo0fxx) | 2:08 | 2023-12-12 | 2023-12-22 |
 | [Aşk Olsun](https://open.spotify.com/track/1a9CYYvZHorDJpCICeo9VV) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Aşk Olsun](https://open.spotify.com/album/7oDAfuAUlWaDj5QLxUKVa7) | 2:21 | 2023-06-08 | 2023-10-06 |
 | [BABA](https://open.spotify.com/track/7ah5CgXHNPBtoJsdPV1AKA) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [BABA](https://open.spotify.com/album/0K41qRqQ4RRq29ZjoPmXZQ) | 2:24 | 2023-06-15 |  |
 | [Baby \(feat\. Murda\)](https://open.spotify.com/track/0lJ0izjcXLAgFPo35VxSxU) | [emir taha](https://open.spotify.com/artist/1zofEGCCvRwAdhetK573gb), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Baby \(feat\. Murda\)](https://open.spotify.com/album/6DzDwkBzDSoCkCYsTsPzTO) | 2:47 | 2023-08-24 | 2023-09-09 |

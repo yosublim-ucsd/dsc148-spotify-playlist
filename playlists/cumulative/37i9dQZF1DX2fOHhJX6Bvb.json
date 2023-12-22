@@ -779,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Goodbye Yellow Brick Road",
+        "url": "https://open.spotify.com/album/3NQazGgBW6d4uioUvaaYx7"
+      },
+      "artists": [
+        {
+          "name": "Moonsong",
+          "url": "https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134725,
+      "name": "Goodbye Yellow Brick Road",
+      "url": "https://open.spotify.com/track/2qJsAAXFRJDzBDPnGD1HgA"
+    },
+    {
+      "album": {
         "name": "Groovy Kind Of Love",
         "url": "https://open.spotify.com/album/6swG5Fj4XarYTsnOm3CVAk"
       },

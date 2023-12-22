@@ -1,12 +1,12 @@
 {
   "description": "Dope, Asian, and Femme. Cover: REI AMI",
-  "num_followers": 83081,
+  "num_followers": 83089,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NDMyODNhYmU5ZDQ4YzlmZGI3Y2YzNTUzNjJmZTJlZmRkOTQwMjc4",
+  "snapshot_id": "MCw2M2NjZjkyZjRlMzUyNmNhOWI0NTYzYjMwZTU2NmNiNzhhMDQ0OTQ3",
   "tracks": [
     {
       "added_at": "2023-11-24 04:00:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-11-24 04:00:00",
       "album": {
+        "name": "PRIMAL",
+        "url": "https://open.spotify.com/album/2NVmz3eZuSZTEClHa3Oh4F"
+      },
+      "artists": [
+        {
+          "name": "Chloe Tang",
+          "url": "https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV"
+        }
+      ],
+      "duration_ms": 160357,
+      "name": "PRIMAL",
+      "url": "https://open.spotify.com/track/28cJfuhoBA4D4USICqGr4m"
+    },
+    {
+      "added_at": "2023-11-24 04:00:00",
+      "album": {
         "name": "inhibitions (feat. P-Lo)",
         "url": "https://open.spotify.com/album/0W84AyMDAbWKIGN1gHObDA"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 213076,
       "name": "Seoul",
       "url": "https://open.spotify.com/track/3tezw2TeluZkzOEEztyjSZ"
-    },
-    {
-      "added_at": "2023-11-24 04:00:00",
-      "album": {
-        "name": "PRIMAL",
-        "url": "https://open.spotify.com/album/2NVmz3eZuSZTEClHa3Oh4F"
-      },
-      "artists": [
-        {
-          "name": "Chloe Tang",
-          "url": "https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV"
-        }
-      ],
-      "duration_ms": 160357,
-      "name": "PRIMAL",
-      "url": "https://open.spotify.com/track/28cJfuhoBA4D4USICqGr4m"
     },
     {
       "added_at": "2023-11-24 04:00:00",

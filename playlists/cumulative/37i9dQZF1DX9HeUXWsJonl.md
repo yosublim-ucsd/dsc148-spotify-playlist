@@ -4,7 +4,7 @@
 
 > Les hits tunisiens du moment.
 
-189 songs - 11 hr 33 min
+190 songs - 11 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,7 @@
 | [NABRA](https://open.spotify.com/track/0zIuJnTXFxT5qD39DOguq5) | [EMP1RE](https://open.spotify.com/artist/2aFZFL6yee8SaztShh7AST) | [NABRA](https://open.spotify.com/album/4WZ5m8u3ryE3VQb8ahNgyE) | 4:57 | 2022-11-26 | 2022-11-30 |
 | [Nansa](https://open.spotify.com/track/3evFZBD8uSlXvqBYWuUfri) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Balance](https://open.spotify.com/album/4CqnL9u5Vb1mtRTrk9C02x) | 4:10 | 2022-10-04 |  |
 | [Nawara](https://open.spotify.com/track/0oO79isQFRKI7hZx7Xt2fa) | [Akram Mag](https://open.spotify.com/artist/2RN3sars5oJnOWYJYLFzU1) | [Nawara](https://open.spotify.com/album/7MTBwPr1K0vUsyetOHPXgM) | 3:28 | 2021-12-10 | 2023-04-01 |
-| [Nawara](https://open.spotify.com/track/67l9ewTdvR35pGrRxCWy22) | [Akram Mag](https://open.spotify.com/artist/2RN3sars5oJnOWYJYLFzU1) | [Nawara](https://open.spotify.com/album/55Isun7tmgl5imScVVZb33) | 3:28 | 2023-03-30 |  |
+| [Nawara](https://open.spotify.com/track/67l9ewTdvR35pGrRxCWy22) | [Akram Mag](https://open.spotify.com/artist/2RN3sars5oJnOWYJYLFzU1) | [Nawara](https://open.spotify.com/album/55Isun7tmgl5imScVVZb33) | 3:28 | 2023-03-30 | 2023-12-22 |
 | [Netfakarna Sghar](https://open.spotify.com/track/5SXmbTghHaWfLJCAFBqX0a) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Grow Up](https://open.spotify.com/album/2QEUmVsZvzKaCn9kGah2AR) | 4:00 | 2022-07-11 | 2023-05-24 |
 | [Netfakarna Sghar](https://open.spotify.com/track/70TSRrLk6BQmII9Er1EFTB) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Netfakarna Sghar](https://open.spotify.com/album/0Ts679QMb1TVqilC2gMmAl) | 4:00 | 2021-12-10 | 2022-07-29 |
 | [Netmanelk Kol El Khiir](https://open.spotify.com/track/1gDdQjwwE1oN5MdjQ40lRw) | [Stou](https://open.spotify.com/artist/34S2x997xhDvKSFvhYzFFt) | [Netmanelk Kol El Khiir](https://open.spotify.com/album/0GqpIWbuB1eiOL068TgMxc) | 2:25 | 2023-06-10 |  |
@@ -176,6 +176,7 @@
 | [Ya 3araf](https://open.spotify.com/track/6v9noMonS9GMI3Yx9CsSmF) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Ahmed Zaeem](https://open.spotify.com/artist/36vOw5rJH8SM7GymEeg73T) | [Ya 3araf](https://open.spotify.com/album/39Vo4WKz2TYSBflvVgckfi) | 4:40 | 2023-01-06 | 2023-01-14 |
 | [Ya Denya](https://open.spotify.com/track/2Xq7VC7SXBgmuLRYz6mqWG) | [Akram Mag](https://open.spotify.com/artist/2RN3sars5oJnOWYJYLFzU1) | [Ya Denya](https://open.spotify.com/album/4leYNHAanTHSMQWoK8TRtr) | 3:26 | 2021-12-10 | 2022-07-12 |
 | [Ya Denya](https://open.spotify.com/track/16whsA6oQEJDzjKWa4hept) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Ya Denya](https://open.spotify.com/album/2gS3rvgJD2djvs01xHCVAQ) | 4:12 | 2021-12-10 | 2022-12-06 |
+| [Ya Ghayeb](https://open.spotify.com/track/5RYSSnBAmeYKCCb8bEOG6u) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Ya Ghayeb](https://open.spotify.com/album/2f3kngWBR5wP05M5hdUZXH) | 2:09 | 2023-12-21 |  |
 | [Ya Hasra](https://open.spotify.com/track/46w0RuHSg4LYbMh1JjJU8j) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Ya Hasra](https://open.spotify.com/album/0lHDyY2aMHz4WQrjFSpb20) | 5:40 | 2021-12-10 | 2022-03-01 |
 | [Ya houb achbik](https://open.spotify.com/track/4FW0O8tnwhgyB5opZtXvsn) | [Nour Chiba](https://open.spotify.com/artist/4RKA21fU9i82HeiNACGsgD) | [Rabouh essahriya](https://open.spotify.com/album/3YtnawJjeuZYcwrsvlrB2e) | 4:55 | 2022-09-12 | 2022-09-15 |
 | [Ya laymi](https://open.spotify.com/track/24oXPBDSSzhNF12yXpxUhE) | [Rayen Youssef](https://open.spotify.com/artist/3rN1K1PmBAEbbdg2sOP2Pk) | [Ya laymi](https://open.spotify.com/album/4rh4V5WvntbsRpyDSnH4eB) | 3:20 | 2023-01-10 | 2023-03-15 |

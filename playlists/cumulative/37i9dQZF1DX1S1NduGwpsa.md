@@ -2,7 +2,7 @@
 
 ### [Jazz Club](https://open.spotify.com/playlist/37i9dQZF1DX1S1NduGwpsa)
 
-> The best jazz new releases\. Cover: Dominique Fils\-Aimé
+> The best jazz new releases\. Cover: Rod Stewart & Jools Holland
 
 432 songs - 1 day 7 hr 22 min
 

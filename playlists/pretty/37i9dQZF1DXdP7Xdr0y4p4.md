@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 
 > An essential list of recent hits of SoGo\.  Cover:  <a href="https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA">The Browns</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,183 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,190 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 33 | [Peace in Trusting](https://open.spotify.com/track/0bRCxiCy7DKlaaa0cfZqc4) | [The Isaacs](https://open.spotify.com/artist/7Gr7Uulfyw9J9F74eQfBOp) | [Songs for the Times](https://open.spotify.com/album/37dXrupCMdsgBbOWlOy55U) | 3:44 |
 | 34 | [Ten Thousand Angels / He Looked Beyond My Fault And Saw My Need](https://open.spotify.com/track/3ZMacOVRytVPDW8PtXQv2x) | [The Collingsworth Family](https://open.spotify.com/artist/4B43yyRlfQgDEhDPq35wUc), [Kim Collingsworth](https://open.spotify.com/artist/5Pyrtb7bDbSxoaB5ajdqts), [Phil Collingsworth, Jr.](https://open.spotify.com/artist/7hG3nweoWdpxkntjJSQwEN) | [Just Sing!](https://open.spotify.com/album/3HEPflkMDvnyoTXpnarPQz) | 7:37 |
 | 35 | [Pray Now](https://open.spotify.com/track/6BT4eCTe1MiGwAGgf5ezpJ) | [Karen Peck & New River](https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5) | [Pray Now](https://open.spotify.com/album/12uzTrOLpxr3j6zr0PLbC3) | 4:27 |
-| 36 | [Good in the Good Times](https://open.spotify.com/track/6m6CBaVU3KKztFkmz28m1I) | [Down East Boys](https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln) | [The Stories We Tell](https://open.spotify.com/album/4GJxoLRAleQBeEb6CSR2oI) | 3:01 |
-| 37 | [Reckless Love](https://open.spotify.com/track/6LiW0vJVVrycjGFteSG7qm) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Reckless Love](https://open.spotify.com/album/3jiITw0HxtYaZAOAuEOQ93) | 5:16 |
+| 36 | [Reckless Love](https://open.spotify.com/track/6LiW0vJVVrycjGFteSG7qm) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Reckless Love](https://open.spotify.com/album/3jiITw0HxtYaZAOAuEOQ93) | 5:16 |
+| 37 | [How Great Thou Art](https://open.spotify.com/track/51SwrmMlPDLYWsBD62rXb6) | [John Berry](https://open.spotify.com/artist/0l5OmkXhNcXtfa1W9dTon6) | [How Great Thou Art](https://open.spotify.com/album/6MzRNdhppIWTDn8DvZZLwU) | 3:30 |
 | 38 | [Give Me Jesus](https://open.spotify.com/track/1A0hWOgHJZhfmU0Jz27XsB) | [Lynda Randle](https://open.spotify.com/artist/5WWuo8k0komiDBmtec6gHI), [Kimberly Schlapman](https://open.spotify.com/artist/7ySCRbA1659u0QQUsDekoI) | [Give Me Jesus](https://open.spotify.com/album/2AWZoRFVr5aZTl374dbufg) | 3:17 |
-| 39 | [How Great Thou Art](https://open.spotify.com/track/51SwrmMlPDLYWsBD62rXb6) | [John Berry](https://open.spotify.com/artist/0l5OmkXhNcXtfa1W9dTon6) | [How Great Thou Art](https://open.spotify.com/album/6MzRNdhppIWTDn8DvZZLwU) | 3:30 |
+| 39 | [Good in the Good Times](https://open.spotify.com/track/6m6CBaVU3KKztFkmz28m1I) | [Down East Boys](https://open.spotify.com/artist/0Zg0qh2ZQsBDm68196Ofln) | [The Stories We Tell](https://open.spotify.com/album/4GJxoLRAleQBeEb6CSR2oI) | 3:01 |
 | 40 | [Wake Up](https://open.spotify.com/track/1psN7GabVAeaBo0lTaDNUM) | [Ernie Haase & Signature Sound](https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0) | [Wake Up](https://open.spotify.com/album/2YUHflr83aTEzmqzpAWH57) | 3:38 |
 | 41 | [Everyday](https://open.spotify.com/track/3q0HpebwPnwOXkBJ17n0Fy) | [Triumphant Quartet](https://open.spotify.com/artist/60yKIk5WTQfPrkZPcdohVC) | [Everyday](https://open.spotify.com/album/5rI5TQVg0ZKN3bm2yDx2tA) | 3:45 |
 | 42 | [Great Is His Faithfulness](https://open.spotify.com/track/5DQ1iZR8EKRFezKYiRxYaA) | [The Collingsworth Family](https://open.spotify.com/artist/4B43yyRlfQgDEhDPq35wUc), [Olivia Collingsworth](https://open.spotify.com/artist/0Kp8BEwvYuGMcuKu5aEuCC) | [Great Is His Faithfulness](https://open.spotify.com/album/7HfV6ry5U4qHaQlq6lSfzt) | 4:48 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 79 | [How Good the Good News Feels](https://open.spotify.com/track/0k8agTGVV7FE3Pr8UfZTUY) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG), [Anthem Edition](https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5) | [How Good the Good News Feels](https://open.spotify.com/album/1g7XmVw8AnXQJs8ReQcFNq) | 3:22 |
 | 80 | [Every Story Whispers His Name](https://open.spotify.com/track/2ZvOh0YUXRj2eSt2cyy88m) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG), [Anthem Edition](https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5) | [Every Story Whispers His Name](https://open.spotify.com/album/7sasgGYqy8DeKcIAgWpOsl) | 3:55 |
 
-Snapshot ID: `MCw4YWQzYTYzYmM5ODZhZjNlODI3NTkxNmViNmU5OGZjMjE3YjdjMmM0`
+Snapshot ID: `MCxmNDNjNGY4N2VmMzZjOWY2ZDk5ZWUxZjY4ZTBjYmU2MTA4NjM5MDMx`

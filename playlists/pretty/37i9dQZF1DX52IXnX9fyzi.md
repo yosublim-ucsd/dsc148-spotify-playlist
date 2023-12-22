@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 
 > Piano music to accompany and inspire your writing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,021 likes - 283 songs - 12 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,136 likes - 283 songs - 12 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 74 | [CHANGES](https://open.spotify.com/track/6JdbCoaNkc1Ur5PGK2JsqQ) | [Rangel Silaev](https://open.spotify.com/artist/5CeLTVTT72ZGWHK3q5Bmze) | [CHANGES](https://open.spotify.com/album/1unrTgi2EVB68rZXjXHaHE) | 2:00 |
 | 75 | [Sorgløs](https://open.spotify.com/track/5ehX9txsKfW0npyLGMHkcn) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Sorgløs](https://open.spotify.com/album/1rZTPCZzEuYn9uzChNGdTw) | 2:07 |
 | 76 | [Give and Take](https://open.spotify.com/track/1ZuWu44vG2cTSX2BaTMORM) | [Otto Mitch](https://open.spotify.com/artist/1z83SKsSScydhd9ImLkUCP) | [Give and Take](https://open.spotify.com/album/3jYUbXJT616rFP3Nm3oO68) | 2:14 |
-| 77 | [Vesper](https://open.spotify.com/track/3mKxLeFjVFng9H7fTyR8ho) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Before Bed](https://open.spotify.com/album/2VU935bqWQB3q0xqkAojfc) | 2:12 |
+| 77 | [Vesper](https://open.spotify.com/track/4jpTr7sbHfyNRbvbTD75VO) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Around This Hour](https://open.spotify.com/album/7GUnb9CzE2mHdapoo4ZoWR) | 2:12 |
 | 78 | [Smile in the wind](https://open.spotify.com/track/1qb6AsW7Y4kXTQpExCW2xm) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Smile in the wind](https://open.spotify.com/album/0uQE309NUZTFs9jfLV4KSp) | 2:05 |
 | 79 | [Lo Siento](https://open.spotify.com/track/6HTwYHpvYigjhhvBUsEKcd) | [Algot Brooke](https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC) | [Lo Siento](https://open.spotify.com/album/4dTNDpTsYII6p7fkO8zWqc) | 2:14 |
 | 80 | [Book Of Vespers \- Second Psalm](https://open.spotify.com/track/3niN1UM28w5u0VL3beKCTx) | [Jøsefine](https://open.spotify.com/artist/5LQF5EIs7xORz4fOVfpSpO) | [Book Of Vespers \- Midnight Prayer](https://open.spotify.com/album/0kuM6393FCA8AEDtjG84Xt) | 1:48 |
@@ -292,4 +292,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52IXnX9fyzi.md) - [plain]
 | 282 | [Sea Change](https://open.spotify.com/track/3pJnfyKoVePwVmljB6Wun1) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Sea Change](https://open.spotify.com/album/1jqlahQiSw1r4Leg6IQp3S) | 2:51 |
 | 283 | [Your Heart Will Mend](https://open.spotify.com/track/60bojdGBpwUfilmhILcPsK) | [Donald Kutcher](https://open.spotify.com/artist/5UvqlmBYi8RQyIyNZPiHTh) | [Your Heart Will Mend](https://open.spotify.com/album/35YyAwBX2Ft3ZJArG1Y2DG) | 2:26 |
 
-Snapshot ID: `MCw4ZmMwZDgyYTQ2NDFjMzcxOGEzMzlmZTZhZGM2ODBlZGEwMzQ3NmE2`
+Snapshot ID: `MCxlOTdiNGMzYTgxZjA5YzdlNTE5OWQ2YTI2ZDU2NDBhY2E5M2ExNzAw`

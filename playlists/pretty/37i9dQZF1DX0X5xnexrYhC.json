@@ -1,12 +1,12 @@
 {
   "description": "pop woke up and chose chaos. cover: EMELINE",
-  "num_followers": 85167,
+  "num_followers": 85174,
   "original_name": "POP EDGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWEyNGIyMjBjNzYxMmFiZmViNDNjZWM2ZGM5OTM3YTVkODQxY2Zl",
+  "snapshot_id": "MCxkNTUwZGYxMGM0MzljOTUzYWQ2Y2YxODdjMzI4MGU2ZTIzMDQ1NTAx",
   "tracks": [
     {
       "added_at": "2022-11-15 00:54:21",
@@ -147,22 +147,6 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "cinderella's dead",
-        "url": "https://open.spotify.com/album/7xynMeclusR20e0CXvvSOS"
-      },
-      "artists": [
-        {
-          "name": "EMELINE",
-          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
-        }
-      ],
-      "duration_ms": 120666,
-      "name": "cinderella's dead",
-      "url": "https://open.spotify.com/track/5MWXOo8DJwgODtPGaietNz"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
         "name": "Alive and Unwell",
         "url": "https://open.spotify.com/album/6s1pB9DnJEgdQVEXDzHsgB"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 157138,
       "name": "10 Things I Hate About You",
       "url": "https://open.spotify.com/track/7I4XALvCb2VEmOCtGUe5uY"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
+        "name": "cinderella's dead",
+        "url": "https://open.spotify.com/album/7xynMeclusR20e0CXvvSOS"
+      },
+      "artists": [
+        {
+          "name": "EMELINE",
+          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
+        }
+      ],
+      "duration_ms": 120666,
+      "name": "cinderella's dead",
+      "url": "https://open.spotify.com/track/5MWXOo8DJwgODtPGaietNz"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -295,22 +295,6 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "STRUT",
-        "url": "https://open.spotify.com/album/2lkTWzi2FinjN6JIwP5u0y"
-      },
-      "artists": [
-        {
-          "name": "EMELINE",
-          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
-        }
-      ],
-      "duration_ms": 117727,
-      "name": "STRUT",
-      "url": "https://open.spotify.com/track/749rod7GCmj0OVdumGfzVq"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
         "name": "mainstream sellout",
         "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 159096,
       "name": "emo girl (feat. WILLOW)",
       "url": "https://open.spotify.com/track/3tBZ60j1jQ7NJm8IjelyQe"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
+        "name": "STRUT",
+        "url": "https://open.spotify.com/album/2lkTWzi2FinjN6JIwP5u0y"
+      },
+      "artists": [
+        {
+          "name": "EMELINE",
+          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
+        }
+      ],
+      "duration_ms": 117727,
+      "name": "STRUT",
+      "url": "https://open.spotify.com/track/749rod7GCmj0OVdumGfzVq"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "Panic Attacks in Paradise / Maggots",
-        "url": "https://open.spotify.com/album/5FmtIdXlRz4uyqjp7ECJsH"
-      },
-      "artists": [
-        {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
-        }
-      ],
-      "duration_ms": 184885,
-      "name": "Panic Attacks in Paradise",
-      "url": "https://open.spotify.com/track/13gqe2AjtaPexcBoqA10IX"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
         "name": "Trust Issues",
         "url": "https://open.spotify.com/album/29FWknxiELyLTfZGBDpmRk"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 140880,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/0SSu4wiFjCPcRE5Sx3ni0A"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
+        "name": "Panic Attacks in Paradise / Maggots",
+        "url": "https://open.spotify.com/album/5FmtIdXlRz4uyqjp7ECJsH"
+      },
+      "artists": [
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        }
+      ],
+      "duration_ms": 184885,
+      "name": "Panic Attacks in Paradise",
+      "url": "https://open.spotify.com/track/13gqe2AjtaPexcBoqA10IX"
     },
     {
       "added_at": "2022-11-15 00:54:21",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-11-15 00:54:21",
       "album": {
-        "name": "overkill",
-        "url": "https://open.spotify.com/album/367LA0QRCgt5u8QLx0UgmH"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 165916,
-      "name": "hurt less",
-      "url": "https://open.spotify.com/track/2FhzneTjsV0HR4lXNJTTyI"
-    },
-    {
-      "added_at": "2022-11-15 00:54:21",
-      "album": {
         "name": "Ancient Dreams In A Modern Land (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6NlDNvgAkT6noaBECDxS2d"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 221120,
       "name": "Pink Convertible",
       "url": "https://open.spotify.com/track/20axrgBlxsVZ5m1otNOvC1"
+    },
+    {
+      "added_at": "2022-11-15 00:54:21",
+      "album": {
+        "name": "overkill",
+        "url": "https://open.spotify.com/album/367LA0QRCgt5u8QLx0UgmH"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 165916,
+      "name": "hurt less",
+      "url": "https://open.spotify.com/track/2FhzneTjsV0HR4lXNJTTyI"
     },
     {
       "added_at": "2022-11-15 00:54:21",

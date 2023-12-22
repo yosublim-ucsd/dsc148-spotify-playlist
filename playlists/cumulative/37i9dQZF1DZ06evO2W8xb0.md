@@ -4,7 +4,7 @@
 
 > This is Chief Commander Ebenezer Obey\. The essential tracks, all in one playlist.
 
-75 songs - 11 hr 57 min
+76 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Eni to Ba Mbe Laye Medley \(Part 1\)](https://open.spotify.com/track/1uxhKAKWwVmBDhf9xPNfKu) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Victory](https://open.spotify.com/album/2JWjSBPuysOVwV2Oq7sMYX) | 17:25 | 2022-09-22 |  |
 | [Enia Lasan](https://open.spotify.com/track/3dvKQwFDsbdZ2dQuI07BlI) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 1](https://open.spotify.com/album/5I9eSZlRxLwoNN1SwrxLlS) | 6:10 | 2021-12-28 |  |
 | [Ero Mi Ko Lonso](https://open.spotify.com/track/3SKSIGoNyptVvZlXIt3GIZ) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 1\)](https://open.spotify.com/album/5d7oZqNlwwvJCSExmupLH9) | 2:58 | 2021-12-28 |  |
+| [Eto Igbeyawo Medley \(Part 2\)](https://open.spotify.com/track/0SFGLsLGJPGHWYYkcj1uV9) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [What God Has joined Together](https://open.spotify.com/album/5UjlIAVqMMzxlirjeDU5Wg) | 17:58 | 2023-12-21 |  |
 | [Eye To Ba Fara Wegun](https://open.spotify.com/track/7kZ3SIZ3QgNFfx3HyrIhex) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Origina 20](https://open.spotify.com/album/10eAPX33VJ9M19Uz216an5) | 19:49 | 2021-12-28 |  |
 | [Eyi Yato](https://open.spotify.com/track/4rA4sGmKw1B3jLfF71QUO6) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs 31](https://open.spotify.com/album/1FRuvCuE2w3g62pdK23o56) | 17:36 | 2021-12-28 | 2022-02-04 |
 | [Fimi Lokan Bale](https://open.spotify.com/track/6u0xCm7QgTIgcxlZnG8GAm) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Origina 16](https://open.spotify.com/album/38qjohUvg4QXexd8Xji2F6) | 20:02 | 2022-04-12 |  |
@@ -36,7 +37,7 @@
 | [Iba Lo Ye Ka Se Medley](https://open.spotify.com/track/2jY15gQFGRrPE4kUXoGl0q) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey @ 70](https://open.spotify.com/album/5v8ddiIYTFRVuDHotcK9mw) | 1:03 | 2021-12-28 |  |
 | [Ibadan \(Juju Yoruba\)](https://open.spotify.com/track/0EFqxIoVWjF3Zjz71n86bc) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Ebenezer Obey in London](https://open.spotify.com/album/02N1jGGr6BjwUFO2KlCN9t) | 3:09 | 2021-12-28 |  |
 | [Igba Owuro Lawa Medley \(Part 1\)](https://open.spotify.com/track/5NaWBdhpH5JjXJ69jmidI3) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Igba Owuro Lawa](https://open.spotify.com/album/3yiN0cydUFVEIT5fdnY78U) | 20:11 | 2022-04-12 |  |
-| [Ija Pari, Pt\. 1](https://open.spotify.com/track/7yDmN4ygRPPzhT0vwDDvYU) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Ija Pari](https://open.spotify.com/album/7aNgU80lgtcB12sN9WwMbx) | 4:43 | 2021-12-28 |  |
+| [Ija Pari, Pt\. 1](https://open.spotify.com/track/7yDmN4ygRPPzhT0vwDDvYU) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Ija Pari](https://open.spotify.com/album/7aNgU80lgtcB12sN9WwMbx) | 4:43 | 2021-12-28 | 2023-12-22 |
 | [Ija Pari, Pt\. 2](https://open.spotify.com/track/1Xj9GldWUOA7rA5JNIsynM) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Ija Pari](https://open.spotify.com/album/7aNgU80lgtcB12sN9WwMbx) | 4:31 | 2021-12-28 | 2023-11-11 |
 | [Ijebu \(Juju Yoruba\)](https://open.spotify.com/track/2W0yVDLjp6ZJIQqgIFtjOr) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Ebenezer Obey in London](https://open.spotify.com/album/02N1jGGr6BjwUFO2KlCN9t) | 3:46 | 2022-02-04 | 2022-09-19 |
 | [Ijesha \(Juju Yoruba\)](https://open.spotify.com/track/61L0RfTitMi3HTIGUnIecI) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Ebenezer Obey in London](https://open.spotify.com/album/02N1jGGr6BjwUFO2KlCN9t) | 3:18 | 2021-12-28 |  |

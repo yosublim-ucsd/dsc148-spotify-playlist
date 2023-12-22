@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:bass">bass</a> with Levity
 
-[Spotify](https://open.spotify.com/user/spotify) - 977,096 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 977,094 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 72 | [Lost In Mumbai](https://open.spotify.com/track/3WZDLEcdZXE0TtLYrbJmmH) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Lost In Mumbai](https://open.spotify.com/album/641ITlNYNF5fjZUoWM97yC) | 3:00 |
 | 73 | [Fight or Flight](https://open.spotify.com/track/0biZ6lxXHy4eHweTbOD33W) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u) | [Fight or Flight](https://open.spotify.com/album/21flOOgl2FgBHpxum2PVVH) | 2:31 |
 | 74 | [Criminal](https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Warrior Queen](https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT) | [Criminal](https://open.spotify.com/album/1uyc31Iw3pbYXstxykjzfr) | 4:11 |
-| 75 | [dontstopme!](https://open.spotify.com/track/60tToQgGBi2ZxHLMqkcy5h) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [kidsgonemad!](https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA) | 3:41 |
-| 76 | [HEADSHÖT](https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT) | [8Ö8](https://open.spotify.com/artist/7rzhW5cgtn6da9Ixg8quoU), [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [HEADSHÖT](https://open.spotify.com/album/1c5e7aPE2A16KQDZVImEE2) | 2:37 |
+| 75 | [HEADSHÖT](https://open.spotify.com/track/1I53j1Vvwkla8P2JIecioT) | [8Ö8](https://open.spotify.com/artist/7rzhW5cgtn6da9Ixg8quoU), [Shöckface](https://open.spotify.com/artist/4PNtYvG1kZcGx80M9G9EoM), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [HEADSHÖT](https://open.spotify.com/album/1c5e7aPE2A16KQDZVImEE2) | 2:37 |
+| 76 | [dontstopme!](https://open.spotify.com/track/60tToQgGBi2ZxHLMqkcy5h) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav) | [kidsgonemad!](https://open.spotify.com/album/2O3rWF27iqSzozxnVfPkXA) | 3:41 |
 | 77 | [SAXORiDDiM](https://open.spotify.com/track/6DVZpwOZyjhPkL09b0mqtg) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [SAXORiDDiM](https://open.spotify.com/album/1WsunKMSnqcyc51FuXD5Od) | 3:08 |
 | 78 | [Bass To The Dome](https://open.spotify.com/track/6nVyDjAhify9FGCF8TViJy) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Bass To The Dome](https://open.spotify.com/album/7wm9Wbf0GZ1wxTEyHQeMu0) | 3:23 |
 | 79 | [Stone cold.](https://open.spotify.com/track/27hGDu6VTcXy0sugTIsDvv) | [The Caracal Project](https://open.spotify.com/artist/1m3Z3kHjeDDFzKNWqvTlYN) | [Stone cold.](https://open.spotify.com/album/0XegDwoQDiCJYLu4VODUzx) | 3:12 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 95 | [Uh Uh](https://open.spotify.com/track/59cFhnC1ZxXKvPIF1Y66fj) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS) | [Uh Uh](https://open.spotify.com/album/4jSCuNWv43WQQWngBGrIBC) | 3:13 |
 | 96 | [EAT SLEEP RAGE](https://open.spotify.com/track/2s7F8qjzm1XcMKG7O4GzCY) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [EAT SLEEP RAGE](https://open.spotify.com/album/3ACwIVqUsWkj9An9umbKmF) | 3:36 |
 | 97 | [Straight Into The Ground](https://open.spotify.com/track/01HgVS08pxNO7CZGoeeBXa) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h) | [The Nature of Hope](https://open.spotify.com/album/64ZcjP0jb06XnpDf3VxXwm) | 3:30 |
-| 98 | [SAVE U NOW](https://open.spotify.com/track/4K0pPcYPRIBDavThi6FD0r) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [WRATH OF THE WICKED](https://open.spotify.com/album/0QfcUPY2N5G1uJk0714XCb) | 3:39 |
-| 99 | [Keep You \(Close\)](https://open.spotify.com/track/7h3L3Dsr2bNd2NIwoXcsNu) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP) | [PLAY: GRID](https://open.spotify.com/album/0AhHp5xTgnoJvZgzhFQJuw) | 2:46 |
-| 100 | [Embers](https://open.spotify.com/track/1CXVrNWkpQ4dsSNOH43dJT) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Raven Gray](https://open.spotify.com/artist/3xnaiXk5TG9y2fchyrceAr) | [Embers](https://open.spotify.com/album/4hhmTA5VDMXfEyjDudkMBn) | 3:09 |
+| 98 | [LOYAL](https://open.spotify.com/track/0XTC88XX9rerDucl82skTW) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [LOYAL](https://open.spotify.com/album/4pqpFCjg3Y5vi1SHCEFIMI) | 4:15 |
+| 99 | [Embers](https://open.spotify.com/track/1CXVrNWkpQ4dsSNOH43dJT) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Raven Gray](https://open.spotify.com/artist/3xnaiXk5TG9y2fchyrceAr) | [Embers](https://open.spotify.com/album/4hhmTA5VDMXfEyjDudkMBn) | 3:09 |
+| 100 | [SAVE U NOW](https://open.spotify.com/track/4K0pPcYPRIBDavThi6FD0r) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [WRATH OF THE WICKED](https://open.spotify.com/album/0QfcUPY2N5G1uJk0714XCb) | 3:39 |
 
-Snapshot ID: `MCwxYjllY2QyNjY1Yjc4Y2E0NGMzOTE2ZTliZmIwNTJjMTY0ZmZiNzhi`
+Snapshot ID: `MCxkN2VmNzNkYjZlMWMwZjg1ZmVhZGY3OTM2OTAyZDMzN2MwMTJhYzhl`

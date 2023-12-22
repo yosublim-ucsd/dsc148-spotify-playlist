@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "A Miracle Under The Stars",
+        "url": "https://open.spotify.com/album/3EHWjNYtw8C3AFD5vXVuwL"
+      },
+      "artists": [
+        {
+          "name": "Myl\u00e8ne Longet",
+          "url": "https://open.spotify.com/artist/2jYAYd7zgB1sOqrjewxci8"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125477,
+      "name": "A Miracle Under The Stars",
+      "url": "https://open.spotify.com/track/6ZdTPcYHN0qxQfvKKNMPLG"
+    },
+    {
+      "album": {
         "name": "A Ram Sam Sam",
         "url": "https://open.spotify.com/album/2DzR3IjWQWUFQxC5o6DJla"
       },
@@ -272,6 +290,24 @@
       "duration_ms": 102162,
       "name": "Adventures among the Stars",
       "url": "https://open.spotify.com/track/3bo4TjkbMFwnTdiMCRKPwn"
+    },
+    {
+      "album": {
+        "name": "All Of Your Friends",
+        "url": "https://open.spotify.com/album/1gKNUNR60Vhe7SQnYNC9EU"
+      },
+      "artists": [
+        {
+          "name": "Gil Sunniver",
+          "url": "https://open.spotify.com/artist/0XIQZ8AnQiQ0f5l2mJiCfM"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116624,
+      "name": "All Of Your Friends",
+      "url": "https://open.spotify.com/track/2pmYurg3NrwqdCBm4s33Gu"
     },
     {
       "album": {
@@ -2057,6 +2093,24 @@
     },
     {
       "album": {
+        "name": "Dreamy Blue Skies",
+        "url": "https://open.spotify.com/album/72d9Ox5YwMRlrLAkjosNHA"
+      },
+      "artists": [
+        {
+          "name": "Anton De Ville",
+          "url": "https://open.spotify.com/artist/2TXm3XMc58UbpoeVEopfTt"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99968,
+      "name": "Dreamy Blue Skies",
+      "url": "https://open.spotify.com/track/0d40MSLNaKFXjFuZguT6G6"
+    },
+    {
+      "album": {
         "name": "Drifting Off",
         "url": "https://open.spotify.com/album/0l4j3CpfWQCu4jdZa7NZJz"
       },
@@ -2957,6 +3011,24 @@
     },
     {
       "album": {
+        "name": "Goodnight Mister Bunny",
+        "url": "https://open.spotify.com/album/78ZwqVG3QImiPmk7HN8aH3"
+      },
+      "artists": [
+        {
+          "name": "Snuggly Sam",
+          "url": "https://open.spotify.com/artist/4dHH33lP1VpapQUfpMaZkX"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116254,
+      "name": "Goodnight Mister Bunny",
+      "url": "https://open.spotify.com/track/2pKx9SJpSZ8QsiO1cUyx2x"
+    },
+    {
+      "album": {
         "name": "Goodnight My Dear",
         "url": "https://open.spotify.com/album/7et4B7Qa5Asz0pdS5D86Qe"
       },
@@ -3209,6 +3281,24 @@
     },
     {
       "album": {
+        "name": "Head, shoulder, knees and toes",
+        "url": "https://open.spotify.com/album/6MAsQ3r5fq0rAHjuU6hjMB"
+      },
+      "artists": [
+        {
+          "name": "Stacy Gaffer",
+          "url": "https://open.spotify.com/artist/32pd92japrh3yC0QI2AnQt"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65374,
+      "name": "Head, shoulder, knees and toes",
+      "url": "https://open.spotify.com/track/3lz8ku7qwVsnXQutnJr4FQ"
+    },
+    {
+      "album": {
         "name": "Head, Shoulders, Knees and Toes",
         "url": "https://open.spotify.com/album/5rE4lfeRFcZTHLKAYFOaPn"
       },
@@ -3242,6 +3332,24 @@
       "duration_ms": 151250,
       "name": "Heart and Soul",
       "url": "https://open.spotify.com/track/343AlLHbxxjgwQmEuDVr8X"
+    },
+    {
+      "album": {
+        "name": "Heart Of Gold",
+        "url": "https://open.spotify.com/album/3f0yAEneJ07D1pFz0KEBLe"
+      },
+      "artists": [
+        {
+          "name": "Sandra Forster",
+          "url": "https://open.spotify.com/artist/3TLHL40IaEycdPNoxTqK3a"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119000,
+      "name": "Heart Of Gold",
+      "url": "https://open.spotify.com/track/0MDpvtbdWeLZPw1kpynlry"
     },
     {
       "album": {
@@ -3606,6 +3714,24 @@
       "duration_ms": 116000,
       "name": "Hush Now Little Sweetheart",
       "url": "https://open.spotify.com/track/4RDae6L7ueWtD5DpnLg9g3"
+    },
+    {
+      "album": {
+        "name": "Hush Now, Little Tot",
+        "url": "https://open.spotify.com/album/2I9wQfhJT9bDyvyclgR2ZK"
+      },
+      "artists": [
+        {
+          "name": "Otis Meadow",
+          "url": "https://open.spotify.com/artist/4vnYAza7qzjL5eUwP0yAN8"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79720,
+      "name": "Hush Now, Little Tot",
+      "url": "https://open.spotify.com/track/5ENUaPB0NQpAj5lISIWPRl"
     },
     {
       "album": {
@@ -4074,6 +4200,24 @@
       "duration_ms": 88884,
       "name": "I\u2019m A Little Teapot",
       "url": "https://open.spotify.com/track/1g018zlZlQXBUw6FYvexxU"
+    },
+    {
+      "album": {
+        "name": "Jack and Jill",
+        "url": "https://open.spotify.com/album/2bttGrUetauxvBu9dDlFlU"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9lie Blumenthal",
+          "url": "https://open.spotify.com/artist/5DkA7CcQDIGJjwvA6Amkpo"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99250,
+      "name": "Jack and Jill",
+      "url": "https://open.spotify.com/track/4kdgBw3FKnPwo6W2VzP4zg"
     },
     {
       "album": {

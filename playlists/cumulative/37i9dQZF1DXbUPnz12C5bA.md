@@ -2,7 +2,7 @@
 
 ### [Clásicos del Vallenato](https://open.spotify.com/playlist/37i9dQZF1DXbUPnz12C5bA)
 
-> Para cantar y recordar.
+> Para cantar y recordar\. Conmemorando la vida de Diomedes Díaz este 22 de Diciembre.
 
 118 songs - 8 hr 50 min
 

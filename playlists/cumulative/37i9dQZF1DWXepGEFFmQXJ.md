@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Zach Bryan
 
-516 songs - 1 day 4 hr 19 min
+517 songs - 1 day 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -449,6 +449,7 @@
 | [The Painter](https://open.spotify.com/track/6UoKX6uLJwhsnyTp5k5StP) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [The Painter](https://open.spotify.com/album/5KxDhlSxJGEOcaTnqKwdYu) | 3:31 | 2023-08-10 |  |
 | [The Road](https://open.spotify.com/track/606vch6MbayKFsn28R3BxO) | [Laura Frank](https://open.spotify.com/artist/0hfQItGyy460A1s9G4pzJp) | [The Road](https://open.spotify.com/album/4fFBD4Q6Q2eYmljaF8vFe7) | 3:38 | 2022-08-25 | 2022-12-16 |
 | [The Tree](https://open.spotify.com/track/2ulmNFm5fVsK5mlOQNdhJI) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [The Bridge](https://open.spotify.com/album/2SX47JWeyg4hlKfYwQ3AdA) | 3:25 | 2023-09-14 |  |
+| [Things I Take For Granted \- Remix](https://open.spotify.com/track/7xTz78HHTZwrAuIwRRKQuI) | [Alex Mather](https://open.spotify.com/artist/5MtAaF6q3qHVfXfoUdBokw) | [Things I Take For Granted \(Remix\)](https://open.spotify.com/album/5aA5HrP6oaq8Omn9JW61w2) | 2:48 | 2023-12-19 |  |
 | [Think I'm In Love With You](https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Think I’m In Love With You](https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR) | 3:42 | 2023-11-23 |  |
 | [Thinkin' We're In Love](https://open.spotify.com/track/1dQYswRaULYA9XfPc02FF1) | [Tyler Rich](https://open.spotify.com/artist/78eqps3BavCqe2q7GCU1VK), [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Thinkin' We're In Love](https://open.spotify.com/album/2xgnv0PA9ibnyNbjrksmww) | 3:48 | 2022-07-07 | 2022-10-14 |
 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/7DhvNzyMM8jJWcfykG3psB) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/album/2KwIVKnLZLilwl5mYKTtTH) | 2:50 | 2021-12-30 | 2022-06-03 |

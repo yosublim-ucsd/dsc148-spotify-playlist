@@ -1,12 +1,12 @@
 {
   "description": "Hated is out! Foto: YUNGBLUD",
-  "num_followers": 67544,
+  "num_followers": 67573,
   "original_name": "do rockeeee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODhiM2E3ZGIxYTgzNDI5MzIwNWRlZDJkNGVlMTJlMzQ2MmU4Mzhk",
+  "snapshot_id": "MCw1NTQxOGQ2NzBkZDgzOTc4ZTAwNTEwYzNjNDBiNDZjMjM1NzkyYTY4",
   "tracks": [
     {
       "added_at": "2023-12-15 20:42:37",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-12-15 20:42:37",
       "album": {
+        "name": "isolation demos",
+        "url": "https://open.spotify.com/album/1PJHCDU1CibYqQGeDN8Bvu"
+      },
+      "artists": [
+        {
+          "name": "EZI",
+          "url": "https://open.spotify.com/artist/6JINIoM2HUR5ZNTJwoR9eC"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "cold cold cold",
+      "url": "https://open.spotify.com/track/0Fg6mZHrPM31PXBnHblOjX"
+    },
+    {
+      "added_at": "2023-12-15 20:42:37",
+      "album": {
         "name": "grave inside my head",
         "url": "https://open.spotify.com/album/0MLF0wdEFpJPP4pQACbvMk"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 120943,
       "name": "grave inside my head",
       "url": "https://open.spotify.com/track/1ckva68ysL3kpDRkZII6vK"
-    },
-    {
-      "added_at": "2023-12-15 20:42:37",
-      "album": {
-        "name": "isolation demos",
-        "url": "https://open.spotify.com/album/1PJHCDU1CibYqQGeDN8Bvu"
-      },
-      "artists": [
-        {
-          "name": "EZI",
-          "url": "https://open.spotify.com/artist/6JINIoM2HUR5ZNTJwoR9eC"
-        }
-      ],
-      "duration_ms": 154960,
-      "name": "cold cold cold",
-      "url": "https://open.spotify.com/track/0Fg6mZHrPM31PXBnHblOjX"
     },
     {
       "added_at": "2023-12-15 20:42:37",

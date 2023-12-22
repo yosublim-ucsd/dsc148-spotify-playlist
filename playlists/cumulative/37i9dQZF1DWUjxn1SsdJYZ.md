@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: KILY SAFARI
 
-630 songs - 1 day 5 hr 16 min
+633 songs - 1 day 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [2 MANY MEN \(feat\. Shely210\)](https://open.spotify.com/track/0BNUspVwO9YxkXJBrXhR5L) | [DSP](https://open.spotify.com/artist/17GAXOUu9d8YXnuwVeGphZ), [Shely210](https://open.spotify.com/artist/6utJwWy5PZjCM2qYgKQKAK) | [2 MANY MEN \(feat\. Shely210\)](https://open.spotify.com/album/1bWqSzbMajcWTUR39AHBrE) | 2:35 | 2023-06-22 | 2023-10-27 |
 | [2 STEP](https://open.spotify.com/track/5kjAcTZuwCFQD5Fm6nCp8M) | [Ribby247](https://open.spotify.com/artist/6LZdwXjVBOMwkPgglULJKh), [Shadow](https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X) | [2 STEP](https://open.spotify.com/album/2uJx5YdXjaD81ymmWrNy8H) | 2:03 | 2023-02-23 | 2023-08-18 |
 | [22 Packs](https://open.spotify.com/track/7c59JXGEQZAgNyh4od18xZ) | [Tbi$h](https://open.spotify.com/artist/6j7XK7KYc9Ie6pUqkFoS4U) | [22 Packs](https://open.spotify.com/album/3T9laywDWnN2UtXff4Adjk) | 2:46 | 2022-06-09 | 2022-10-21 |
+| [42](https://open.spotify.com/track/4K9xMdKPxDeRMmxGybVlpy) | [Maya Hirasedo](https://open.spotify.com/artist/79fiC2Vlgb2Q8u30JVcOm8), [Lil Jaye](https://open.spotify.com/artist/2lEJRLLPBCtAUdxVFl3qyl) | [42](https://open.spotify.com/album/7kNZo6GwS4daijRrKFKgbq) | 2:46 | 2023-12-21 |  |
 | [4CERTAIN](https://open.spotify.com/track/7127v7qeXWKa1ACWIJS9fo) | [XREDO](https://open.spotify.com/artist/2mwnvaTg1PpXVLTOV35uat) | [4CERTAIN](https://open.spotify.com/album/6zdsWREkyCF7iK4UKaPKyG) | 2:24 | 2023-05-04 | 2023-08-25 |
 | [5 Star](https://open.spotify.com/track/2aDbC4CAVEMEVVmEjXOmP4) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco) | [5 Star](https://open.spotify.com/album/1nrw868ik7UqmqxtnIJLxR) | 2:18 | 2023-07-21 | 2023-11-17 |
 | [5FT FREESTYLE](https://open.spotify.com/track/6xYlZdAvzzkl5UAoySwc3Y) | [Tasman Keith](https://open.spotify.com/artist/3Pe4IIW9HoZsmBlKa5G6I1) | [5FT FREESTYLE](https://open.spotify.com/album/3lSf2OiUqvh5VQUHo27fxv) | 2:50 | 2022-03-21 | 2022-03-25 |
@@ -192,6 +193,7 @@
 | [Final Resort \(feat\. Wewantwraiths & Ay Huncho\)](https://open.spotify.com/track/02FOaMsuOp5zzg85esljQz) | [Sus](https://open.spotify.com/artist/1tWZDk56cffZfgjmgHWuXD), [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2), [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np) | [Final Resort \(feat\. Wewantwraiths & Ay Huncho\)](https://open.spotify.com/album/6GmB5KetDvtxQHuuv7z7KI) | 3:02 | 2023-07-18 | 2023-11-17 |
 | [FINAL STATEMENT!](https://open.spotify.com/track/1RKVs13pG0kIdNlhKeaUHr) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [FINAL STATEMENT!](https://open.spotify.com/album/5JkVDoJ471lwIrMZFuWavz) | 2:35 | 2023-05-18 | 2023-10-20 |
 | [Finding My Way](https://open.spotify.com/track/33ArwFU5L9M5S1lnTmAjz7) | [PROPH3T](https://open.spotify.com/artist/3CfDgUAqzcrVjX2GSgAroa), [Jaecy](https://open.spotify.com/artist/4hd0k0g3b2MLUiw0gPAsee) | [Finding My Way](https://open.spotify.com/album/2VJLah9SVibt5UYFU9HVM6) | 2:42 | 2023-10-19 |  |
+| [First Day Out](https://open.spotify.com/track/1eOyL0pvYukCQctZsDvPaS) | [Young6ix](https://open.spotify.com/artist/1DVLOOIJIQQX0fIKY22m7Q) | [First Day Out](https://open.spotify.com/album/2Yf9SEc1w0CuSEWq4cOWaJ) | 3:33 | 2023-12-21 |  |
 | [Flashback](https://open.spotify.com/track/3VeAelsMAZSm5q8fAR8cIm) | [Benjamin](https://open.spotify.com/artist/1gXHnuUhhoG0Oia1mJafPE) | [Harder, Faster](https://open.spotify.com/album/3LMgotL0DzrXu4pdlG578P) | 4:27 | 2023-07-27 | 2023-11-17 |
 | [Flex](https://open.spotify.com/track/3Cijp6fEvRThV1D0Xj9ux7) | [Yaar Kahlon](https://open.spotify.com/artist/1r08QeUOiKLWK7vDaKOrnK), [Sznny](https://open.spotify.com/artist/1a67IzqPCit3VxHjXE9dWQ) | [Flex](https://open.spotify.com/album/7ILBIkY6fElee33cslAarz) | 2:17 | 2023-01-05 | 2023-02-03 |
 | [Flows](https://open.spotify.com/track/3diJK6RzqoTaEUPF7X2c5Y) | [Southsidefredo](https://open.spotify.com/artist/7K5G8SF435R5tVM3rApmTb) | [Flows](https://open.spotify.com/album/3938pXJM3DhXENSWet0Oie) | 2:34 | 2022-07-25 | 2022-11-25 |
@@ -616,6 +618,7 @@
 | [Where I'm At](https://open.spotify.com/track/2g6AzEuWeAcYePtoGaq6SV) | [Exl](https://open.spotify.com/artist/6j5lxsz5UsEHXTgkwVC4ie) | [Where I'm At](https://open.spotify.com/album/3uBRvGyCCCSh8gMi5PRFsO) | 1:53 | 2023-01-05 | 2023-04-21 |
 | [Where's the Mop](https://open.spotify.com/track/59FS2KVqnHKRmavGPLajRX) | [Young6ix](https://open.spotify.com/artist/1DVLOOIJIQQX0fIKY22m7Q) | [Where's the Mop](https://open.spotify.com/album/60yPoCJMuIf9y9fLUZtv1Y) | 2:16 | 2023-02-23 | 2023-04-29 |
 | [WHERES THE MOP](https://open.spotify.com/track/5mjXXO1ebDsHXM9Wn9dQSY) | [Young6ix](https://open.spotify.com/artist/1DVLOOIJIQQX0fIKY22m7Q) | [WHERES THE MOP](https://open.spotify.com/album/0rk5N5eWLb4x2MUjRli2ei) | 2:16 | 2023-04-27 | 2023-05-19 |
+| [WHITE WRAITH](https://open.spotify.com/track/0RLzA0nYGzdcK0NU588uw2) | [Ribby247](https://open.spotify.com/artist/6LZdwXjVBOMwkPgglULJKh) | [WHITE WRAITH](https://open.spotify.com/album/3Uwq3lQD8ikZWWU3g5C57G) | 2:58 | 2023-12-21 |  |
 | [WHO](https://open.spotify.com/track/5UpbNdHBHsWWespVWRBicM) | [Swish Music](https://open.spotify.com/artist/7BU3LRtUwP48t4OYNmYZHI), [TMB The Driver](https://open.spotify.com/artist/1kUBxtJ8z3wybn5wGAu0H2), [Dau Dau](https://open.spotify.com/artist/5zE6gcTHIzl8LuAqhcCDu1), [Perry P](https://open.spotify.com/artist/1hGnXrS3sPLcOmjJ8TtkIQ) | [WHO](https://open.spotify.com/album/3arCfti8W6CPLlmn23nrgq) | 2:40 | 2022-05-12 | 2022-09-23 |
 | [Who You Foolin](https://open.spotify.com/track/0pyDwHz8zCjYxMaXRUfY4q) | [RED Honcho](https://open.spotify.com/artist/2pIfm9a2rMaHkdarjTM5o5), [LDP68](https://open.spotify.com/artist/7mumML0dR6NB5uMSzS8lAN) | [Who You Foolin](https://open.spotify.com/album/3zUhWiR8jNBFmCh68KGgLq) | 3:02 | 2022-08-01 | 2022-11-25 |
 | [WHOA!](https://open.spotify.com/track/6HqWqRn0G2ahugirmSXnZx) | [Jay Zayat](https://open.spotify.com/artist/3RNjL4SvUdzRwyJhqfuZrB) | [WHOA!](https://open.spotify.com/album/6szYpF41PdbfmksjV4blji) | 2:20 | 2023-04-20 | 2023-08-25 |

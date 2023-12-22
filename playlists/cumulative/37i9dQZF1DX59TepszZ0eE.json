@@ -1973,6 +1973,24 @@
     },
     {
       "album": {
+        "name": "Ntho ke ena (Live)",
+        "url": "https://open.spotify.com/album/0olffnuTDQXe6cYxOse7f3"
+      },
+      "artists": [
+        {
+          "name": "Tebs David",
+          "url": "https://open.spotify.com/artist/5wuC7dnBTQsphj7CIOm4fv"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360280,
+      "name": "Ntho ke ena (Live)",
+      "url": "https://open.spotify.com/track/2NHFL8FpxYGJ1ovE4uIuWs"
+    },
+    {
+      "album": {
         "name": "Nxa Ngimbona (Live)",
         "url": "https://open.spotify.com/album/7DkQ7RJcsGJls3WyfQEwwU"
       },

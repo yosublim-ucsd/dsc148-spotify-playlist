@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Van Zee.",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: FRANKIEONTHEGUITAR, Diogo Pi\u00e7arra e Van Zee.",
   "name": "Seda",
   "tracks": [
     {
@@ -376,7 +376,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 208291,
       "name": "Agora",
       "url": "https://open.spotify.com/track/20Sjm27NzFAnhrgSQdHDYH"
@@ -3300,7 +3300,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 200863,
       "name": "Faz Acontecer",
       "url": "https://open.spotify.com/track/4R6Lxs2lFGGMR5fBj30ksL"
@@ -3772,7 +3772,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 132244,
       "name": "GALOPE",
       "url": "https://open.spotify.com/track/6uqwa4BM9p2ALmrR3saEyz"
@@ -3856,7 +3856,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 194306,
       "name": "Girassol",
       "url": "https://open.spotify.com/track/3VkpWeLBtt3J3HYv5CyDfT"
@@ -3972,6 +3972,28 @@
       "duration_ms": 221597,
       "name": "HEADS or TAILS",
       "url": "https://open.spotify.com/track/1eS203gD4KhOpO4OopTTFI"
+    },
+    {
+      "album": {
+        "name": "Heartbreak Canvas (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4v9azADpSuZ0h02YBiZGlp"
+      },
+      "artists": [
+        {
+          "name": "Bere",
+          "url": "https://open.spotify.com/artist/0LXPTU5nYRehFKI8RQDsiV"
+        },
+        {
+          "name": "Midnight Commander",
+          "url": "https://open.spotify.com/artist/4iuqwRKK5CQL2JxNKuHVRR"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144488,
+      "name": "Heartbreak Canvas (Acoustic Version)",
+      "url": "https://open.spotify.com/track/61i7ccHsK5TZkHDaRrC0tZ"
     },
     {
       "album": {
@@ -6719,6 +6741,28 @@
     },
     {
       "album": {
+        "name": "PESO DA COROA",
+        "url": "https://open.spotify.com/album/61kK3qogodK2Wlo2Q6i9t7"
+      },
+      "artists": [
+        {
+          "name": "Don Kapa",
+          "url": "https://open.spotify.com/artist/3uM2JZwcZQIb90rC5xhpyR"
+        },
+        {
+          "name": "Dui MC",
+          "url": "https://open.spotify.com/artist/5GAsKu5RzWkxwD4E4HPgQw"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158785,
+      "name": "PESO DA COROA",
+      "url": "https://open.spotify.com/track/4zU63D6YQsKdoUC3QNyUAi"
+    },
+    {
+      "album": {
         "name": "Pick Up The Phone",
         "url": "https://open.spotify.com/album/5imcIGu9iivXdWfpSGvlPr"
       },
@@ -7074,7 +7118,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 171428,
       "name": "Quem Diria",
       "url": "https://open.spotify.com/track/2OGx0fG4WeIplwMarmls42"
@@ -7639,6 +7683,28 @@
     },
     {
       "album": {
+        "name": "do.mar",
+        "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        },
+        {
+          "name": "pikika",
+          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189578,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/3AGb8LvF7dOg6skiNOevV0"
+    },
+    {
+      "album": {
         "name": "Saudades",
         "url": "https://open.spotify.com/album/25aQvTGMXD64EsjTSZDHS7"
       },
@@ -7810,6 +7876,24 @@
       "duration_ms": 212690,
       "name": "Sei Que Te Amo",
       "url": "https://open.spotify.com/track/4wRHER6nXzSDArytUocrV3"
+    },
+    {
+      "album": {
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/0n9luoSJgWYbZus7nU6qXJ"
+      },
+      "artists": [
+        {
+          "name": "Cabaceira",
+          "url": "https://open.spotify.com/artist/28rxpmIYnxElyIqc1bJDBp"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174315,
+      "name": "Selva",
+      "url": "https://open.spotify.com/track/7M7fp3ErAQQuIAfqUAJ2Ot"
     },
     {
       "album": {
@@ -9780,7 +9864,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 211636,
       "name": "\u00c0 Tua Porta",
       "url": "https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll"

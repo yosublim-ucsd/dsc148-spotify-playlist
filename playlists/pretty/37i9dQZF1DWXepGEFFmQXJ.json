@@ -1,12 +1,12 @@
 {
   "description": "The cream of today's Country crop. Cover: Zach Bryan",
-  "num_followers": 373724,
+  "num_followers": 373837,
   "original_name": "Fresh Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNTU4NWFmMWNlY2JjYjBkYmUwZTAzOTE3OTkwNjNjYWZmYjNmM2Q4",
+  "snapshot_id": "MCw1Nzg1YWI5YWU5NTMyZDYyN2NmMmUzMTBlN2E4YWZlYjRjMjJlMDFh",
   "tracks": [
     {
       "added_at": "2023-12-19 08:41:48",
@@ -487,6 +487,22 @@
       "duration_ms": 181680,
       "name": "What Am I Gonna Do",
       "url": "https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl"
+    },
+    {
+      "added_at": "2023-12-19 08:41:48",
+      "album": {
+        "name": "Things I Take For Granted (Remix)",
+        "url": "https://open.spotify.com/album/5aA5HrP6oaq8Omn9JW61w2"
+      },
+      "artists": [
+        {
+          "name": "Alex Mather",
+          "url": "https://open.spotify.com/artist/5MtAaF6q3qHVfXfoUdBokw"
+        }
+      ],
+      "duration_ms": 168598,
+      "name": "Things I Take For Granted - Remix",
+      "url": "https://open.spotify.com/track/7xTz78HHTZwrAuIwRRKQuI"
     },
     {
       "added_at": "2023-12-19 08:41:48",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,037 likes - 1,191 songs - 3 day 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,060 likes - 1,191 songs - 3 day 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -913,7 +913,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 903 | [My Love and Music](https://open.spotify.com/track/62Wv19Em9TzGWBGIDztP0b) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [My Love and Music](https://open.spotify.com/album/2gdtgeYm3JCSFzgxuqN1u0) | 7:50 |
 | 904 | [Hal Hal](https://open.spotify.com/track/0NWNkaRbk13bseJzI6TkYh) | [Nazan Şoray](https://open.spotify.com/artist/0FVsp4rfVEvyJV9iB1a3Er) | [Hal Hal](https://open.spotify.com/album/117LJtXf1nBkcrDVlRWJX5) | 3:12 |
 | 905 | [El Condor Pasa](https://open.spotify.com/track/3xedzwiMNof2jaIkcKQBVw) | [Nico Gomez And His Afro Percussion Inc.](https://open.spotify.com/artist/364fBwwx3s5jbfL90uDXys) | [Ritual](https://open.spotify.com/album/2ayMxfYWzohGfq0ZDtmOGQ) | 3:41 |
-| 906 | [The Panther](https://open.spotify.com/track/0TO438ElpElpdtY9s4aNjv) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 2:29 |
+| 906 | [The Panther](https://open.spotify.com/track/0QDyFT23YOXVPLdiAPYVin) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Africadelic](https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg) | 2:29 |
 | 907 | [Pangua zô pile moin](https://open.spotify.com/track/2tFqiHFTItjvh2Ot71hdVQ) | [Fred Aucagos](https://open.spotify.com/artist/4vP4uEiX0sunTFcokup8ks) | [Beach Diggin', Vol\. 3](https://open.spotify.com/album/7mHNiS5p3EwV4iOzcLj9PU) | 3:41 |
 | 908 | [Cumbia Sobre el Mar \- El Búho Remix](https://open.spotify.com/track/0p8LlXT1FG9vnrCH70dbuo) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Flowering Inferno](https://open.spotify.com/artist/2JLqcc3mwS4Xf7xZuYwK0p), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cumbia Sobre el Mar / Inmortales \(El Búho Remixes\)](https://open.spotify.com/album/1iHJ1yT7T5juouGV7IkeRN) | 5:12 |
 | 909 | [Dia Ja Manche](https://open.spotify.com/track/7zsFoCTsDuKvH7HUiA1yDi) | [Dionisio Maio](https://open.spotify.com/artist/0uQTMkrmJQgd8XPVJPjezw) | [Space Echo: The Mystery Behind the Cosmic Sound of Cabo Verde Finally Revealed! \(Analog Africa No\. 20\)](https://open.spotify.com/album/7yYCur0sIPkHz2PE62YHDP) | 4:36 |
@@ -1200,4 +1200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1190 | [Ponta De Lança Africano](https://open.spotify.com/track/3LcGqv91NIBQaUmnNbsKu8) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Africa Brasil](https://open.spotify.com/album/0esHQqYklDPje00NUNq6py) | 3:52 |
 | 1191 | [La burrita mocha](https://open.spotify.com/track/5ZUDABVqjta6rM9CaWw3w9) | [Esther Forero](https://open.spotify.com/artist/5MzgBKlIxqLzznQoRyfvKq) | [La burrita mocha](https://open.spotify.com/album/1aCtz9EtWc1OXFeG8Io9kv) | 2:44 |
 
-Snapshot ID: `MCw1Nzg5NTY5MmVmZDQzOTI5ZWFiZWNkYWVmYjFlNjUwY2E3MDIxOGM4`
+Snapshot ID: `MCwyZmVmYTVhMWIyYTJlOGUyMzY1NzUyNWFmZTYxNmFjMWQ2OTQ5MDcx`

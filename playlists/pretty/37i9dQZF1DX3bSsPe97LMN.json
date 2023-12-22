@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. 3 Caleb en portada.",
-  "num_followers": 58975,
+  "num_followers": 59006,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmJkYTNiOWMyNzI1NjFmNGM1MDNkOWZlYTBmODQ2Yjc3YzZhZWZh",
+  "snapshot_id": "MCwwNDVkNTQwODI4MmZlMjRiMDFjYWZlOTZlYzJhMzAyZWQ0OTAxYjY0",
   "tracks": [
     {
       "added_at": "2023-12-15 06:00:00",
@@ -63,22 +63,6 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
-        "name": "Buenos Gustos",
-        "url": "https://open.spotify.com/album/2zYVbxPJpVrdEl5dEBcGnP"
-      },
-      "artists": [
-        {
-          "name": "Adrian L Santos",
-          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
-        }
-      ],
-      "duration_ms": 190769,
-      "name": "Buenos Gustos",
-      "url": "https://open.spotify.com/track/0qubl2XDk1yLwTL6lYUq7I"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
         "name": "Ll\u00f3rame M\u00e1s Fuerte",
         "url": "https://open.spotify.com/album/58521yc5XgyIwX0KjWL0z0"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 227142,
       "name": "Ll\u00f3rame M\u00e1s Fuerte",
       "url": "https://open.spotify.com/track/4MTLY1AiRFlQe0cV6Fl7SN"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
+        "name": "Buenos Gustos",
+        "url": "https://open.spotify.com/album/2zYVbxPJpVrdEl5dEBcGnP"
+      },
+      "artists": [
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        }
+      ],
+      "duration_ms": 190769,
+      "name": "Buenos Gustos",
+      "url": "https://open.spotify.com/track/0qubl2XDk1yLwTL6lYUq7I"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
+        "name": "El Corrido Del MC",
+        "url": "https://open.spotify.com/album/2zhxO2yyAg7TPDZJkyvpXo"
+      },
+      "artists": [
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "duration_ms": 157090,
+      "name": "El Corrido Del MC",
+      "url": "https://open.spotify.com/track/4yV80LJGxo6LxrTRglFyLJ"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
         "name": "Sin Rencor Ni Mal De Amores",
         "url": "https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE"
       },
@@ -291,6 +307,22 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
+        "name": "El Emblema",
+        "url": "https://open.spotify.com/album/5gEsiD51OeDdiQcVYVcbqG"
+      },
+      "artists": [
+        {
+          "name": "Jocsan Duran",
+          "url": "https://open.spotify.com/artist/5CiOcJEt3lIJneEcQt7wkv"
+        }
+      ],
+      "duration_ms": 150500,
+      "name": "El Emblema",
+      "url": "https://open.spotify.com/track/2Y6X84p4FFyx9VNRF4OfYE"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
         "name": "MM",
         "url": "https://open.spotify.com/album/3vHvCoOUhQRogW4IlqV3jp"
       },
@@ -307,22 +339,6 @@
       "duration_ms": 168800,
       "name": "MM",
       "url": "https://open.spotify.com/track/1IxTNg2s3WvWUiW271iDFv"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
-        "name": "El Emblema",
-        "url": "https://open.spotify.com/album/5gEsiD51OeDdiQcVYVcbqG"
-      },
-      "artists": [
-        {
-          "name": "Jocsan Duran",
-          "url": "https://open.spotify.com/artist/5CiOcJEt3lIJneEcQt7wkv"
-        }
-      ],
-      "duration_ms": 150500,
-      "name": "El Emblema",
-      "url": "https://open.spotify.com/track/2Y6X84p4FFyx9VNRF4OfYE"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -355,22 +371,6 @@
       "duration_ms": 228893,
       "name": "La Ni\u00f1a Del Instagram",
       "url": "https://open.spotify.com/track/1aYCq7zHZ4tHvDUxEN6nHG"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
-        "name": "El Corrido Del MC",
-        "url": "https://open.spotify.com/album/2zhxO2yyAg7TPDZJkyvpXo"
-      },
-      "artists": [
-        {
-          "name": "El Rabbanito",
-          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
-        }
-      ],
-      "duration_ms": 157090,
-      "name": "El Corrido Del MC",
-      "url": "https://open.spotify.com/track/4yV80LJGxo6LxrTRglFyLJ"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
+        "name": "PROMESAS",
+        "url": "https://open.spotify.com/album/4VIJvhMrJahfprBCFDrSoj"
+      },
+      "artists": [
+        {
+          "name": "Daren",
+          "url": "https://open.spotify.com/artist/6DaJwc5ofkN35XEEKDPNfP"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "PROMESAS",
+      "url": "https://open.spotify.com/track/4jNzTJqswlkgHsSyY7zJi0"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
         "name": "Gallo y Mi Cuerno",
         "url": "https://open.spotify.com/album/76uSaPvd5aVD1TBzrQG39S"
       },
@@ -571,6 +587,30 @@
       "duration_ms": 152950,
       "name": "Gallo y Mi Cuerno",
       "url": "https://open.spotify.com/track/5spGDsdSSflFVnhSzIRAnS"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
+        "name": "Humo Trankilizante",
+        "url": "https://open.spotify.com/album/7aHluAmtObnVhmbEyjYeqs"
+      },
+      "artists": [
+        {
+          "name": "Sangre X Sangre",
+          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
+        },
+        {
+          "name": "Joe Parra",
+          "url": "https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR"
+        },
+        {
+          "name": "Hijos De Leyva",
+          "url": "https://open.spotify.com/artist/2goxk1aXm6T4yopaZe5tHe"
+        }
+      ],
+      "duration_ms": 152380,
+      "name": "Humo Trankilizante",
+      "url": "https://open.spotify.com/track/3JYtGA0di1b9DHvG6j7fcJ"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -627,22 +667,6 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
-        "name": "VETE",
-        "url": "https://open.spotify.com/album/3GIN6jcQHRLIno3O1r14SU"
-      },
-      "artists": [
-        {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
-        }
-      ],
-      "duration_ms": 207402,
-      "name": "VETE",
-      "url": "https://open.spotify.com/track/1nZZVprSn3MjlypZ8QYcPF"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
         "name": "Tiempo",
         "url": "https://open.spotify.com/album/4X4pNm2ByzuQrE6N0eGUEH"
       },
@@ -659,6 +683,22 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
+        "name": "VETE",
+        "url": "https://open.spotify.com/album/3GIN6jcQHRLIno3O1r14SU"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        }
+      ],
+      "duration_ms": 207402,
+      "name": "VETE",
+      "url": "https://open.spotify.com/track/1nZZVprSn3MjlypZ8QYcPF"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
         "name": "+Linda",
         "url": "https://open.spotify.com/album/7nVscG0aRHuE4rcEkwtMes"
       },
@@ -671,74 +711,6 @@
       "duration_ms": 195771,
       "name": "+Linda",
       "url": "https://open.spotify.com/track/72VZQD3XRqAUzi1EoOOTf6"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
-        "name": "PROMESAS",
-        "url": "https://open.spotify.com/album/4VIJvhMrJahfprBCFDrSoj"
-      },
-      "artists": [
-        {
-          "name": "Daren",
-          "url": "https://open.spotify.com/artist/6DaJwc5ofkN35XEEKDPNfP"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "PROMESAS",
-      "url": "https://open.spotify.com/track/4jNzTJqswlkgHsSyY7zJi0"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
-        "name": "LTMA",
-        "url": "https://open.spotify.com/album/1WDMkmmU6wzlcPskWZOGFo"
-      },
-      "artists": [
-        {
-          "name": "Hispana",
-          "url": "https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5"
-        },
-        {
-          "name": "Brandon Reyes y Elvin",
-          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
-        }
-      ],
-      "duration_ms": 209373,
-      "name": "LTMA",
-      "url": "https://open.spotify.com/track/2180OKo5exwyPswlzK5Lrz"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
-        "name": "Una Vida",
-        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 177893,
-      "name": "Una Vida",
-      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
-        "name": "El Cartel",
-        "url": "https://open.spotify.com/album/0HqCmk2VoIZHC93BcseRpE"
-      },
-      "artists": [
-        {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
-        }
-      ],
-      "duration_ms": 215360,
-      "name": "El Cartel",
-      "url": "https://open.spotify.com/track/3QDZ8JRgs2iKp3yejxpSaU"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -763,46 +735,22 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
-        "name": "Morrito (Remix)",
-        "url": "https://open.spotify.com/album/5VZTVTe2FcDkVY72KRpGQv"
+        "name": "LTMA",
+        "url": "https://open.spotify.com/album/1WDMkmmU6wzlcPskWZOGFo"
       },
       "artists": [
         {
-          "name": "VADHIR",
-          "url": "https://open.spotify.com/artist/6JYq1icPMmdJ9jxyXDOieP"
+          "name": "Hispana",
+          "url": "https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5"
         },
         {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+          "name": "Brandon Reyes y Elvin",
+          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Morrito - Remix",
-      "url": "https://open.spotify.com/track/2NrpQHe6eeh65X4dzKiPHB"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
-        "name": "Humo Trankilizante",
-        "url": "https://open.spotify.com/album/7aHluAmtObnVhmbEyjYeqs"
-      },
-      "artists": [
-        {
-          "name": "Sangre X Sangre",
-          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
-        },
-        {
-          "name": "Joe Parra",
-          "url": "https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR"
-        },
-        {
-          "name": "Hijos De Leyva",
-          "url": "https://open.spotify.com/artist/2goxk1aXm6T4yopaZe5tHe"
-        }
-      ],
-      "duration_ms": 152380,
-      "name": "Humo Trankilizante",
-      "url": "https://open.spotify.com/track/3JYtGA0di1b9DHvG6j7fcJ"
+      "duration_ms": 209373,
+      "name": "LTMA",
+      "url": "https://open.spotify.com/track/2180OKo5exwyPswlzK5Lrz"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -823,6 +771,58 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
+        "name": "Una Vida",
+        "url": "https://open.spotify.com/album/6U3MLuqsCCTExV3FDDAbpI"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 177893,
+      "name": "Una Vida",
+      "url": "https://open.spotify.com/track/760FIaj8goTswBMMzezp2n"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
+        "name": "Morrito (Remix)",
+        "url": "https://open.spotify.com/album/5VZTVTe2FcDkVY72KRpGQv"
+      },
+      "artists": [
+        {
+          "name": "VADHIR",
+          "url": "https://open.spotify.com/artist/6JYq1icPMmdJ9jxyXDOieP"
+        },
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Morrito - Remix",
+      "url": "https://open.spotify.com/track/2NrpQHe6eeh65X4dzKiPHB"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
+        "name": "El Cartel",
+        "url": "https://open.spotify.com/album/0HqCmk2VoIZHC93BcseRpE"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "El Cartel",
+      "url": "https://open.spotify.com/track/3QDZ8JRgs2iKp3yejxpSaU"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
         "name": "Rubicon",
         "url": "https://open.spotify.com/album/6zJbfrnTwqZ2LtcnOWlfOw"
       },
@@ -835,6 +835,22 @@
       "duration_ms": 147889,
       "name": "Rubicon",
       "url": "https://open.spotify.com/track/5W3D37twMsileaHHoWBrWF"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
+        "name": "C\u00f3mo Poder Olvidarte",
+        "url": "https://open.spotify.com/album/273EJtAWuOPIOYmEnXyZN9"
+      },
+      "artists": [
+        {
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+        }
+      ],
+      "duration_ms": 194933,
+      "name": "Como Poder Olvidarte",
+      "url": "https://open.spotify.com/track/0XTJeOTpUs02t0786QsUXz"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -895,38 +911,6 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
-        "name": "Yo Ni Te Topo",
-        "url": "https://open.spotify.com/album/6vfNB1Hos5ni9wAIdKAexj"
-      },
-      "artists": [
-        {
-          "name": "Brianda",
-          "url": "https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf"
-        }
-      ],
-      "duration_ms": 158210,
-      "name": "Yo Ni Te Topo",
-      "url": "https://open.spotify.com/track/2hiAOmnmUnk90Cg3uMz6Jr"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
-        "name": "CHIKEN LIRA EN LA BOCINA",
-        "url": "https://open.spotify.com/album/6SPdlZwVqDsC3OBiEiOy2M"
-      },
-      "artists": [
-        {
-          "name": "Chiken Lira",
-          "url": "https://open.spotify.com/artist/3OXtjz5aMVWAQ4DDQuoICn"
-        }
-      ],
-      "duration_ms": 153360,
-      "name": "CHIKEN LIRA EN LA BOCINA",
-      "url": "https://open.spotify.com/track/46F5DxzosXwMWEduhEczQ9"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
         "name": "Feliz Cumplea\u00f1os Ferxxo",
         "url": "https://open.spotify.com/album/7r0ntv8Os7uQksoHTjrczw"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 201746,
       "name": "Feliz Cumplea\u00f1os Ferxxo",
       "url": "https://open.spotify.com/track/38gCWM721Yetzyd4cc3quv"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
+        "name": "Yo Ni Te Topo",
+        "url": "https://open.spotify.com/album/6vfNB1Hos5ni9wAIdKAexj"
+      },
+      "artists": [
+        {
+          "name": "Brianda",
+          "url": "https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf"
+        }
+      ],
+      "duration_ms": 158210,
+      "name": "Yo Ni Te Topo",
+      "url": "https://open.spotify.com/track/2hiAOmnmUnk90Cg3uMz6Jr"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -959,34 +959,18 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
-        "name": "C\u00f3mo Poder Olvidarte",
-        "url": "https://open.spotify.com/album/273EJtAWuOPIOYmEnXyZN9"
+        "name": "CHIKEN LIRA EN LA BOCINA",
+        "url": "https://open.spotify.com/album/6SPdlZwVqDsC3OBiEiOy2M"
       },
       "artists": [
         {
-          "name": "Josi Cuen",
-          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+          "name": "Chiken Lira",
+          "url": "https://open.spotify.com/artist/3OXtjz5aMVWAQ4DDQuoICn"
         }
       ],
-      "duration_ms": 194933,
-      "name": "Como Poder Olvidarte",
-      "url": "https://open.spotify.com/track/0XTJeOTpUs02t0786QsUXz"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
-        "name": "Lo Obvio",
-        "url": "https://open.spotify.com/album/69WQe5IHTQR4Jxo6sCmqRi"
-      },
-      "artists": [
-        {
-          "name": "Reflejo Nuevo",
-          "url": "https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8"
-        }
-      ],
-      "duration_ms": 140453,
-      "name": "Lo Obvio",
-      "url": "https://open.spotify.com/track/4gLsJ73b2gHw5Zc9YZgZjz"
+      "duration_ms": 153360,
+      "name": "CHIKEN LIRA EN LA BOCINA",
+      "url": "https://open.spotify.com/track/46F5DxzosXwMWEduhEczQ9"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -1003,6 +987,22 @@
       "duration_ms": 182706,
       "name": "Normal",
       "url": "https://open.spotify.com/track/50NrQCGKrRSQeTQ2IWneLf"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
+        "name": "Lo Obvio",
+        "url": "https://open.spotify.com/album/69WQe5IHTQR4Jxo6sCmqRi"
+      },
+      "artists": [
+        {
+          "name": "Reflejo Nuevo",
+          "url": "https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8"
+        }
+      ],
+      "duration_ms": 140453,
+      "name": "Lo Obvio",
+      "url": "https://open.spotify.com/track/4gLsJ73b2gHw5Zc9YZgZjz"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
+        "name": "Los Billetes Ponen La Edad \"JRE\"",
+        "url": "https://open.spotify.com/album/6JTgWswtPAaK7XyeqB1vGc"
+      },
+      "artists": [
+        {
+          "name": "Manuel Rodriguez",
+          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+        }
+      ],
+      "duration_ms": 183106,
+      "name": "Billetes Y Armas",
+      "url": "https://open.spotify.com/track/422n4HBnGDQ9Dp1vz77G54"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
         "name": "NO HAY NADA M\u00c1S",
         "url": "https://open.spotify.com/album/06JBns9E0YypUBapj5kuQC"
       },
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
-        "name": "Los Billetes Ponen La Edad \"JRE\"",
-        "url": "https://open.spotify.com/album/6JTgWswtPAaK7XyeqB1vGc"
+        "name": "CJNG Soy Mencho",
+        "url": "https://open.spotify.com/album/6tkgchD4iwoz4EBtfnpOs6"
       },
       "artists": [
         {
-          "name": "Manuel Rodriguez",
-          "url": "https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH"
+          "name": "Grupo Corporacion",
+          "url": "https://open.spotify.com/artist/4cFJzREymbjXas09arEp5o"
         }
       ],
-      "duration_ms": 183106,
-      "name": "Billetes Y Armas",
-      "url": "https://open.spotify.com/track/422n4HBnGDQ9Dp1vz77G54"
+      "duration_ms": 114367,
+      "name": "No Es Tan Facil",
+      "url": "https://open.spotify.com/track/1pJ5gvXJ3itc2AqLm6iBo9"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -1187,22 +1203,6 @@
       "duration_ms": 194766,
       "name": "R\u00e1pido",
       "url": "https://open.spotify.com/track/59wfN7Wrwy48cADOItTXjY"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
-        "name": "CJNG Soy Mencho",
-        "url": "https://open.spotify.com/album/6tkgchD4iwoz4EBtfnpOs6"
-      },
-      "artists": [
-        {
-          "name": "Grupo Corporacion",
-          "url": "https://open.spotify.com/artist/4cFJzREymbjXas09arEp5o"
-        }
-      ],
-      "duration_ms": 114367,
-      "name": "No Es Tan Facil",
-      "url": "https://open.spotify.com/track/1pJ5gvXJ3itc2AqLm6iBo9"
     },
     {
       "added_at": "2023-12-15 06:00:00",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2023-12-15 06:00:00",
       "album": {
+        "name": "Te Volvi a Mirar",
+        "url": "https://open.spotify.com/album/3X76mWqhlM83nYFc30iR8t"
+      },
+      "artists": [
+        {
+          "name": "Pastrana",
+          "url": "https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Te Volvi a Mirar",
+      "url": "https://open.spotify.com/track/4tFpyXYKcBRQgCyAi4Phh9"
+    },
+    {
+      "added_at": "2023-12-15 06:00:00",
+      "album": {
         "name": "Que Bonito Es Tomar",
         "url": "https://open.spotify.com/album/4auVeclloio4ybbEMCSeIP"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 145779,
       "name": "D\u00c9JENME TOMAR",
       "url": "https://open.spotify.com/track/40SkbtGWQyvLpuve5bPfO2"
-    },
-    {
-      "added_at": "2023-12-15 06:00:00",
-      "album": {
-        "name": "Te Volvi a Mirar",
-        "url": "https://open.spotify.com/album/3X76mWqhlM83nYFc30iR8t"
-      },
-      "artists": [
-        {
-          "name": "Pastrana",
-          "url": "https://open.spotify.com/artist/1enRTUJ9Oj9TzWSMPAYuJY"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Te Volvi a Mirar",
-      "url": "https://open.spotify.com/track/4tFpyXYKcBRQgCyAi4Phh9"
     },
     {
       "added_at": "2023-12-15 06:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: Madness",
-  "num_followers": 365967,
+  "num_followers": 366058,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NDJjMmZkZGYwYzQ0ZTE3ZjFhOGI5YjliYzVhNDI0Y2NhNTliOGZk",
+  "snapshot_id": "MCxkZTgzZmU2YjljZGNhNDQ4OTExNWUyNWZlM2RmYmViMjYxYTUzNmZh",
   "tracks": [
     {
       "added_at": "2023-12-12 21:01:00",
@@ -659,18 +659,18 @@
     {
       "added_at": "2023-12-12 21:01:00",
       "album": {
-        "name": "Theatre of the Absurd presents C'est La Vie",
-        "url": "https://open.spotify.com/album/1EO1QMwEOJQk36fMQFTbvN"
+        "name": "Keasbey Nights",
+        "url": "https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a"
       },
       "artists": [
         {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+          "name": "Catch 22",
+          "url": "https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT"
         }
       ],
-      "duration_ms": 190893,
-      "name": "C\u2019est La Vie",
-      "url": "https://open.spotify.com/track/43gcln3SnwBCpKjy2gPOwN"
+      "duration_ms": 116946,
+      "name": "9mm And A Three Piece Suit",
+      "url": "https://open.spotify.com/track/2BYJwdVcgfrGkRtVdZeX14"
     },
     {
       "added_at": "2023-12-12 21:01:00",
@@ -707,18 +707,18 @@
     {
       "added_at": "2023-12-12 21:01:00",
       "album": {
-        "name": "Keasbey Nights",
-        "url": "https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a"
+        "name": "Theatre of the Absurd presents C'est La Vie",
+        "url": "https://open.spotify.com/album/1EO1QMwEOJQk36fMQFTbvN"
       },
       "artists": [
         {
-          "name": "Catch 22",
-          "url": "https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT"
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
         }
       ],
-      "duration_ms": 116946,
-      "name": "9mm And A Three Piece Suit",
-      "url": "https://open.spotify.com/track/2BYJwdVcgfrGkRtVdZeX14"
+      "duration_ms": 190893,
+      "name": "C\u2019est La Vie",
+      "url": "https://open.spotify.com/track/43gcln3SnwBCpKjy2gPOwN"
     },
     {
       "added_at": "2023-12-12 21:01:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-12-12 21:01:00",
       "album": {
-        "name": "The Restoration Of Chaos & Order",
-        "url": "https://open.spotify.com/album/2n5qmlv9RxhetofRF4SWcR"
-      },
-      "artists": [
-        {
-          "name": "Against All Authority",
-          "url": "https://open.spotify.com/artist/4zYmn9QW7Fzd7DzJsK9LyT"
-        }
-      ],
-      "duration_ms": 226333,
-      "name": "Silence Is Golden But Duct Tape Is Silver",
-      "url": "https://open.spotify.com/track/4spRDXyx1QtIR0ZCzsfVs5"
-    },
-    {
-      "added_at": "2023-12-12 21:01:00",
-      "album": {
         "name": "Duck and Cover",
         "url": "https://open.spotify.com/album/1rMKbNGspotPBdyEQYPqA0"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 121666,
       "name": "Road Rash",
       "url": "https://open.spotify.com/track/7v9tpAyVYvIueLtl82bMIz"
+    },
+    {
+      "added_at": "2023-12-12 21:01:00",
+      "album": {
+        "name": "The Restoration Of Chaos & Order",
+        "url": "https://open.spotify.com/album/2n5qmlv9RxhetofRF4SWcR"
+      },
+      "artists": [
+        {
+          "name": "Against All Authority",
+          "url": "https://open.spotify.com/artist/4zYmn9QW7Fzd7DzJsK9LyT"
+        }
+      ],
+      "duration_ms": 226333,
+      "name": "Silence Is Golden But Duct Tape Is Silver",
+      "url": "https://open.spotify.com/track/4spRDXyx1QtIR0ZCzsfVs5"
     },
     {
       "added_at": "2023-12-12 21:01:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-12-12 21:01:00",
       "album": {
-        "name": "Firme",
-        "url": "https://open.spotify.com/album/4x1jK4f9XAu4dhFk3NCqsD"
-      },
-      "artists": [
-        {
-          "name": "Voodoo Glow Skulls",
-          "url": "https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw"
-        }
-      ],
-      "duration_ms": 157306,
-      "name": "El Coo Cooi",
-      "url": "https://open.spotify.com/track/4AMsCO7FOmlvEX4TdNFgxV"
-    },
-    {
-      "added_at": "2023-12-12 21:01:00",
-      "album": {
         "name": "Life Won't Wait",
         "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 228040,
       "name": "Life Won't Wait",
       "url": "https://open.spotify.com/track/3vXBoGZnanFF0NSQ5Of8UT"
+    },
+    {
+      "added_at": "2023-12-12 21:01:00",
+      "album": {
+        "name": "Firme",
+        "url": "https://open.spotify.com/album/4x1jK4f9XAu4dhFk3NCqsD"
+      },
+      "artists": [
+        {
+          "name": "Voodoo Glow Skulls",
+          "url": "https://open.spotify.com/artist/0t1X1ygK807hH0upA9lYJw"
+        }
+      ],
+      "duration_ms": 157306,
+      "name": "El Coo Cooi",
+      "url": "https://open.spotify.com/track/4AMsCO7FOmlvEX4TdNFgxV"
     },
     {
       "added_at": "2023-12-12 21:01:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-12-12 21:01:00",
       "album": {
-        "name": "Madness",
-        "url": "https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw"
-      },
-      "artists": [
-        {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "House Of Fun",
-      "url": "https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC"
-    },
-    {
-      "added_at": "2023-12-12 21:01:00",
-      "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/1kJP7cQaT8xHYSKlknNiuS"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 188573,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/1ikzC1az2vXMR060qvDnvW"
+    },
+    {
+      "added_at": "2023-12-12 21:01:00",
+      "album": {
+        "name": "Madness",
+        "url": "https://open.spotify.com/album/2P1bkVHSonLBBSKvrBbdbw"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "House Of Fun",
+      "url": "https://open.spotify.com/track/4SactOQQV5J66VtQRVOBGC"
     },
     {
       "added_at": "2023-12-12 21:01:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-12-12 21:01:00",
       "album": {
-        "name": "Tutti Frutti",
-        "url": "https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm"
-      },
-      "artists": [
-        {
-          "name": "Prince Buster",
-          "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
-        }
-      ],
-      "duration_ms": 185088,
-      "name": "Enjoy Yourself",
-      "url": "https://open.spotify.com/track/2gXudOFrHDzj7D2JqbcFWm"
-    },
-    {
-      "added_at": "2023-12-12 21:01:00",
-      "album": {
         "name": "Sound the Alarm",
         "url": "https://open.spotify.com/album/3NbdWdzUtgijqhFldEXD61"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 168182,
       "name": "Things Change",
       "url": "https://open.spotify.com/track/6Z2q9VN8XJnaMs2SF6LYIk"
+    },
+    {
+      "added_at": "2023-12-12 21:01:00",
+      "album": {
+        "name": "Tutti Frutti",
+        "url": "https://open.spotify.com/album/0ozlC9XMnxo9ksxV8MsHVm"
+      },
+      "artists": [
+        {
+          "name": "Prince Buster",
+          "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
+        }
+      ],
+      "duration_ms": 185088,
+      "name": "Enjoy Yourself",
+      "url": "https://open.spotify.com/track/2gXudOFrHDzj7D2JqbcFWm"
     },
     {
       "added_at": "2023-12-12 21:01:00",

@@ -7221,6 +7221,28 @@
     },
     {
       "album": {
+        "name": "QUIET SPACE FOR QUIET LIFE, Pt.3&4",
+        "url": "https://open.spotify.com/album/1pwQGSXQWBJUNHMhGaNP9j"
+      },
+      "artists": [
+        {
+          "name": "XTAL",
+          "url": "https://open.spotify.com/artist/2t07wCTjaVSrObNSvgMyLi"
+        },
+        {
+          "name": "\u7573\u91ce\u5f69\u52a0",
+          "url": "https://open.spotify.com/artist/04y7KDVl7fo1YNHCzeRfW4"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 899591,
+      "name": "QUIET SPACE FOR QUIET LIFE, Pt.3",
+      "url": "https://open.spotify.com/track/7LUxmRn3m9Y7Bpiak546Qt"
+    },
+    {
+      "album": {
         "name": "Quiet Waves",
         "url": "https://open.spotify.com/album/6TRArfAl3OtpMg31atfjxT"
       },

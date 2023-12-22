@@ -1,12 +1,12 @@
 {
   "description": "Any songs you forgot existed? Let's go deep into 90s rock! Cover: Pixies.",
-  "num_followers": 181016,
+  "num_followers": 181113,
   "original_name": "Deep Dive: 90s Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTlmZmQ4NmZmZTQyMjBlMGU1YWQ3YTFlZjNiZmQ3MmM0ZjQxZDFh",
+  "snapshot_id": "MCw0MzM2ZGMyYjkzNzI3ZmMwNGE4MDcwODA0Y2EzYjk0ZWI1OGJiODk0",
   "tracks": [
     {
       "added_at": "2023-01-18 21:17:22",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Live Through This",
-        "url": "https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7"
-      },
-      "artists": [
-        {
-          "name": "Hole",
-          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
-        }
-      ],
-      "duration_ms": 204933,
-      "name": "Violet",
-      "url": "https://open.spotify.com/track/6CHENx8iqzMwavTIz8s0gm"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Badmotorfinger (25th Anniversary Remaster)",
         "url": "https://open.spotify.com/album/2W6MaUiInBkna5DfBES4E3"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 266200,
       "name": "Rusty Cage - Remastered",
       "url": "https://open.spotify.com/track/6hqIXyo6GxydAnoI8XeIrV"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Live Through This",
+        "url": "https://open.spotify.com/album/2Rwf2nPYZQ9aIe4QXACTC7"
+      },
+      "artists": [
+        {
+          "name": "Hole",
+          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+        }
+      ],
+      "duration_ms": 204933,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/6CHENx8iqzMwavTIz8s0gm"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Electriclarryland",
-        "url": "https://open.spotify.com/album/7nawZF1eeyTGbrL9OsOCwz"
-      },
-      "artists": [
-        {
-          "name": "Butthole Surfers",
-          "url": "https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs"
-        }
-      ],
-      "duration_ms": 297266,
-      "name": "Pepper",
-      "url": "https://open.spotify.com/track/1ng36571Iyov4HBxUClySn"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Jar Of Flies",
         "url": "https://open.spotify.com/album/4FCoFSNIFhK36holxHWCnc"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 254400,
       "name": "I Stay Away",
       "url": "https://open.spotify.com/track/6HnZsLUDrG3HTSbh8sq2u3"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Electriclarryland",
+        "url": "https://open.spotify.com/album/7nawZF1eeyTGbrL9OsOCwz"
+      },
+      "artists": [
+        {
+          "name": "Butthole Surfers",
+          "url": "https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs"
+        }
+      ],
+      "duration_ms": 297266,
+      "name": "Pepper",
+      "url": "https://open.spotify.com/track/1ng36571Iyov4HBxUClySn"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Foo Fighters",
-        "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 233360,
-      "name": "This Is a Call",
-      "url": "https://open.spotify.com/track/2wO8aOvN1ogLy1N8XT1WJE"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Without You I'm Nothing",
         "url": "https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "One Hot Minute (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi"
+        "name": "Foo Fighters",
+        "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
       },
       "artists": [
         {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 248640,
-      "name": "My Friends",
-      "url": "https://open.spotify.com/track/6HksxcBzMVdT17aq1Q79Xe"
+      "duration_ms": 233360,
+      "name": "This Is a Call",
+      "url": "https://open.spotify.com/track/2wO8aOvN1ogLy1N8XT1WJE"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -859,18 +843,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Nine Lives",
-        "url": "https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI"
+        "name": "One Hot Minute (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi"
       },
       "artists": [
         {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
         }
       ],
-      "duration_ms": 370410,
-      "name": "Hole In My Soul",
-      "url": "https://open.spotify.com/track/7ornLs8NlxZ95IDWTyBIEj"
+      "duration_ms": 248640,
+      "name": "My Friends",
+      "url": "https://open.spotify.com/track/6HksxcBzMVdT17aq1Q79Xe"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -887,6 +871,22 @@
       "duration_ms": 318093,
       "name": "What If",
       "url": "https://open.spotify.com/track/22bX2FwXSvG49G0bPWm5nc"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Nine Lives",
+        "url": "https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 370410,
+      "name": "Hole In My Soul",
+      "url": "https://open.spotify.com/track/7ornLs8NlxZ95IDWTyBIEj"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Days Of The New",
-        "url": "https://open.spotify.com/album/3JtPH618I1PMOrafvH8Xo8"
-      },
-      "artists": [
-        {
-          "name": "Days Of The New",
-          "url": "https://open.spotify.com/artist/07jc1IMGtecDZzOL9cP50t"
-        }
-      ],
-      "duration_ms": 297146,
-      "name": "Touch, Peel And Stand",
-      "url": "https://open.spotify.com/track/2eG7o3BfbzohiETArwsX1K"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Down On The Upside",
         "url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 290106,
       "name": "Burden In My Hand",
       "url": "https://open.spotify.com/track/1iArQTuOzxvrtniGmkyy92"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Days Of The New",
+        "url": "https://open.spotify.com/album/3JtPH618I1PMOrafvH8Xo8"
+      },
+      "artists": [
+        {
+          "name": "Days Of The New",
+          "url": "https://open.spotify.com/artist/07jc1IMGtecDZzOL9cP50t"
+        }
+      ],
+      "duration_ms": 297146,
+      "name": "Touch, Peel And Stand",
+      "url": "https://open.spotify.com/track/2eG7o3BfbzohiETArwsX1K"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Zooropa",
-        "url": "https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 298426,
-      "name": "Stay (Faraway, So Close!)",
-      "url": "https://open.spotify.com/track/1E1ylgIWTW2yE0glywYLb6"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Tiny Music...Songs from the Vatican Gift Shop",
         "url": "https://open.spotify.com/album/2JJEIN6LvQJQTJDfnYdDAe"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 175920,
       "name": "Trippin' on a Hole in a Paper Heart",
       "url": "https://open.spotify.com/track/2gdtLnVGGg80Kj9GiqP0vH"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Zooropa",
+        "url": "https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 298426,
+      "name": "Stay (Faraway, So Close!)",
+      "url": "https://open.spotify.com/track/1E1ylgIWTW2yE0glywYLb6"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "August And Everything After",
-        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
-      },
-      "artists": [
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        }
-      ],
-      "duration_ms": 331400,
-      "name": "Round Here",
-      "url": "https://open.spotify.com/track/35qwJUKVy1OIt0wQ3xEXi0"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "To Bring You My Love",
         "url": "https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8"
       },
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Foo Fighters",
-        "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
+        "name": "August And Everything After",
+        "url": "https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ"
       },
       "artists": [
         {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
         }
       ],
-      "duration_ms": 232533,
-      "name": "I'll Stick Around",
-      "url": "https://open.spotify.com/track/4LGKzrdEeBwR9UHCGlDT0W"
+      "duration_ms": 331400,
+      "name": "Round Here",
+      "url": "https://open.spotify.com/track/35qwJUKVy1OIt0wQ3xEXi0"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1271,6 +1255,22 @@
       "duration_ms": 189360,
       "name": "Dam That River (2022 Remaster)",
       "url": "https://open.spotify.com/track/22Ntyke0ZDZy2Uuf8BEDkU"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Foo Fighters",
+        "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "I'll Stick Around",
+      "url": "https://open.spotify.com/track/4LGKzrdEeBwR9UHCGlDT0W"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 202893,
-      "name": "You Wreck Me",
-      "url": "https://open.spotify.com/track/0YkbYk24ODhuewb79zZZzM"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Dookie",
         "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 127533,
       "name": "Burnout",
       "url": "https://open.spotify.com/track/7dVDWf0wud70V4PgYfKnaG"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 202893,
+      "name": "You Wreck Me",
+      "url": "https://open.spotify.com/track/0YkbYk24ODhuewb79zZZzM"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
+        "name": "Load",
+        "url": "https://open.spotify.com/album/5rI3pfrpvmdYtGAsBwaGec"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 269573,
+      "name": "Until It Sleeps",
+      "url": "https://open.spotify.com/track/63aVbch5VRXtQnCITdeDTZ"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
         "name": "Tragic Kingdom",
         "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 253493,
       "name": "Candy",
       "url": "https://open.spotify.com/track/6sFpmdsk4UDMcDWdy4T1Kc"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
-        "name": "Load",
-        "url": "https://open.spotify.com/album/5rI3pfrpvmdYtGAsBwaGec"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 269573,
-      "name": "Until It Sleeps",
-      "url": "https://open.spotify.com/track/63aVbch5VRXtQnCITdeDTZ"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Angel Dust (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k"
-      },
-      "artists": [
-        {
-          "name": "Faith No More",
-          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
-        }
-      ],
-      "duration_ms": 259866,
-      "name": "Midlife Crisis",
-      "url": "https://open.spotify.com/track/3Ph7fws05DvPwpn5CQHTBy"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
         "url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 306680,
       "name": "Bullet In The Head",
       "url": "https://open.spotify.com/track/1WWgMk8nD79p8VeKFGYrOw"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Angel Dust (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4cg5GrTMewtbntkO84uE2k"
+      },
+      "artists": [
+        {
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+        }
+      ],
+      "duration_ms": 259866,
+      "name": "Midlife Crisis",
+      "url": "https://open.spotify.com/track/3Ph7fws05DvPwpn5CQHTBy"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1803,18 +1803,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "This Is a Long Drive for Someone with Nothing to Think About",
-        "url": "https://open.spotify.com/album/3PTktNuj2FItJr8afuiieo"
+        "name": "His N Hers",
+        "url": "https://open.spotify.com/album/2HyDLO6tHAOx2QiQr9RLCf"
       },
       "artists": [
         {
-          "name": "Modest Mouse",
-          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
         }
       ],
-      "duration_ms": 342000,
-      "name": "Dramamine",
-      "url": "https://open.spotify.com/track/5vtRk4rYxiy4cj95cmJ5Ma"
+      "duration_ms": 262826,
+      "name": "Do You Remember The First Time?",
+      "url": "https://open.spotify.com/track/0txLC5NA64M8siGn3mnET0"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1835,18 +1835,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "His N Hers",
-        "url": "https://open.spotify.com/album/2HyDLO6tHAOx2QiQr9RLCf"
+        "name": "This Is a Long Drive for Someone with Nothing to Think About",
+        "url": "https://open.spotify.com/album/3PTktNuj2FItJr8afuiieo"
       },
       "artists": [
         {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+          "name": "Modest Mouse",
+          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
         }
       ],
-      "duration_ms": 262826,
-      "name": "Do You Remember The First Time?",
-      "url": "https://open.spotify.com/track/0txLC5NA64M8siGn3mnET0"
+      "duration_ms": 342000,
+      "name": "Dramamine",
+      "url": "https://open.spotify.com/track/5vtRk4rYxiy4cj95cmJ5Ma"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Automatic For The People",
-        "url": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 229733,
-      "name": "Find The River",
-      "url": "https://open.spotify.com/track/1e3Q7gE5TRUklXOlZFKIrv"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Antichrist Superstar",
         "url": "https://open.spotify.com/album/7APnZJwayR3lH9aUDPDYQB"
       },
@@ -2011,50 +1995,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
+        "name": "Automatic For The People",
+        "url": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q"
       },
       "artists": [
         {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
         }
       ],
-      "duration_ms": 195333,
-      "name": "Time To Move On",
-      "url": "https://open.spotify.com/track/20dt11ZTAtjsfcNJLP9u30"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
-        "name": "Crooked Rain, Crooked Rain",
-        "url": "https://open.spotify.com/album/1XFNz6KIvLyIsLFOiLRKqP"
-      },
-      "artists": [
-        {
-          "name": "Pavement",
-          "url": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
-        }
-      ],
-      "duration_ms": 186733,
-      "name": "Cut Your Hair",
-      "url": "https://open.spotify.com/track/4tBl1xhBg5PETpBvFnQmGl"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
-        "name": "Hooray For Boobies",
-        "url": "https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh"
-      },
-      "artists": [
-        {
-          "name": "Bloodhound Gang",
-          "url": "https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh"
-        }
-      ],
-      "duration_ms": 201826,
-      "name": "Along Comes Mary",
-      "url": "https://open.spotify.com/track/5YpWUYiyidrtRzYedpXKiU"
+      "duration_ms": 229733,
+      "name": "Find The River",
+      "url": "https://open.spotify.com/track/1e3Q7gE5TRUklXOlZFKIrv"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2075,6 +2027,38 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
+        "name": "Hooray For Boobies",
+        "url": "https://open.spotify.com/album/7BuCGZPiQkZpyn0Wj8rxIh"
+      },
+      "artists": [
+        {
+          "name": "Bloodhound Gang",
+          "url": "https://open.spotify.com/artist/6nDLku5uL3ou60kvCGZorh"
+        }
+      ],
+      "duration_ms": 201826,
+      "name": "Along Comes Mary",
+      "url": "https://open.spotify.com/track/5YpWUYiyidrtRzYedpXKiU"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Crooked Rain, Crooked Rain",
+        "url": "https://open.spotify.com/album/1XFNz6KIvLyIsLFOiLRKqP"
+      },
+      "artists": [
+        {
+          "name": "Pavement",
+          "url": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
+        }
+      ],
+      "duration_ms": 186733,
+      "name": "Cut Your Hair",
+      "url": "https://open.spotify.com/track/4tBl1xhBg5PETpBvFnQmGl"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
         "name": "The Division Bell",
         "url": "https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 330385,
       "name": "Marooned",
       "url": "https://open.spotify.com/track/6bIPHR8AJG5HAcn9oF21Ma"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 195333,
+      "name": "Time To Move On",
+      "url": "https://open.spotify.com/track/20dt11ZTAtjsfcNJLP9u30"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Surfer Rosa",
-        "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
-      },
-      "artists": [
-        {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
-        }
-      ],
-      "duration_ms": 235706,
-      "name": "Gigantic - Remastered",
-      "url": "https://open.spotify.com/track/5G2g1EbEtFSMkMbAnhl7FV"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Balls to Picasso (2001 Remaster)",
         "url": "https://open.spotify.com/album/2AKNnewiklMkna3HbigH5X"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 384013,
       "name": "Tears of the Dragon (2001 Remaster)",
       "url": "https://open.spotify.com/track/3EiQGaaHMHFk5ykD1a7vYt"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Surfer Rosa",
+        "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "duration_ms": 235706,
+      "name": "Gigantic - Remastered",
+      "url": "https://open.spotify.com/track/5G2g1EbEtFSMkMbAnhl7FV"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "The Southern Harmony And Musical Companion",
-        "url": "https://open.spotify.com/album/4hVgzAM4i3dPdhZQki9cKk"
-      },
-      "artists": [
-        {
-          "name": "The Black Crowes",
-          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
-        }
-      ],
-      "duration_ms": 322640,
-      "name": "Remedy",
-      "url": "https://open.spotify.com/track/217a9W3cZ3ur40RFQW2pTo"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "The Fundamental Elements of Southtown",
         "url": "https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq"
       },
@@ -2235,18 +2219,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Adrenalize (Deluxe)",
-        "url": "https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M"
+        "name": "The Southern Harmony And Musical Companion",
+        "url": "https://open.spotify.com/album/4hVgzAM4i3dPdhZQki9cKk"
       },
       "artists": [
         {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
         }
       ],
-      "duration_ms": 295957,
-      "name": "Let's Get Rocked",
-      "url": "https://open.spotify.com/track/0LoH6lFQLNscy3RyljAewK"
+      "duration_ms": 322640,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/217a9W3cZ3ur40RFQW2pTo"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2263,6 +2247,22 @@
       "duration_ms": 246986,
       "name": "When You Love a Woman",
       "url": "https://open.spotify.com/track/4b79AEQyxEVoiGMyBUv0io"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Adrenalize (Deluxe)",
+        "url": "https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 295957,
+      "name": "Let's Get Rocked",
+      "url": "https://open.spotify.com/track/0LoH6lFQLNscy3RyljAewK"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2411,6 +2411,22 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
+        "name": "Definitely Maybe (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 382266,
+      "name": "Whatever - Remastered",
+      "url": "https://open.spotify.com/track/5OWsea313ovaQoXvsgWq79"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
         "name": "Enema Of The State",
         "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
       },
@@ -2439,22 +2455,6 @@
       "duration_ms": 220586,
       "name": "Popular",
       "url": "https://open.spotify.com/track/48sJGpBLqQTs0sZ2ImHJof"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
-        "name": "Definitely Maybe (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 382266,
-      "name": "Whatever - Remastered",
-      "url": "https://open.spotify.com/track/5OWsea313ovaQoXvsgWq79"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2491,22 +2491,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Cracked Rear View",
-        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
-      },
-      "artists": [
-        {
-          "name": "Hootie & The Blowfish",
-          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
-        }
-      ],
-      "duration_ms": 296840,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/1N0UflnZhn7xOkrN2l8zxx"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Pinkerton",
         "url": "https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl"
       },
@@ -2519,6 +2503,22 @@
       "duration_ms": 243466,
       "name": "El Scorcho",
       "url": "https://open.spotify.com/track/3g2gQMeeQAEPztiQKMlGSl"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Cracked Rear View",
+        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
+      },
+      "artists": [
+        {
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+        }
+      ],
+      "duration_ms": 296840,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/1N0UflnZhn7xOkrN2l8zxx"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2635,18 +2635,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+        "name": "Sixteen Stone (Remastered)",
+        "url": "https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y"
       },
       "artists": [
         {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
         }
       ],
-      "duration_ms": 327920,
-      "name": "Some Might Say - Remastered",
-      "url": "https://open.spotify.com/track/1xxPQaR29dAf3yxaafByeD"
+      "duration_ms": 278133,
+      "name": "Everything Zen",
+      "url": "https://open.spotify.com/track/7waRjsA2ehXv619f47lYOT"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2699,18 +2699,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Sixteen Stone (Remastered)",
-        "url": "https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y"
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
       },
       "artists": [
         {
-          "name": "Bush",
-          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 278133,
-      "name": "Everything Zen",
-      "url": "https://open.spotify.com/track/7waRjsA2ehXv619f47lYOT"
+      "duration_ms": 327920,
+      "name": "Some Might Say - Remastered",
+      "url": "https://open.spotify.com/track/1xxPQaR29dAf3yxaafByeD"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2731,22 +2731,6 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Cracked Rear View (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4Oi5WVWO8C8zYKQ5K4GQTI"
-      },
-      "artists": [
-        {
-          "name": "Hootie & The Blowfish",
-          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
-        }
-      ],
-      "duration_ms": 193186,
-      "name": "I Go Blind - 2019 Remaster",
-      "url": "https://open.spotify.com/track/0ye53FFhP3oRFuaz5Ubcop"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
         "name": "Achtung Baby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
       },
@@ -2763,18 +2747,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Under the Table and Dreaming (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0SeRWS3scHWplJhMppd6rJ"
+        "name": "Cracked Rear View (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4Oi5WVWO8C8zYKQ5K4GQTI"
       },
       "artists": [
         {
-          "name": "Dave Matthews Band",
-          "url": "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
         }
       ],
-      "duration_ms": 291640,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/2BjUvisO4UVAtTHs4lYiqu"
+      "duration_ms": 193186,
+      "name": "I Go Blind - 2019 Remaster",
+      "url": "https://open.spotify.com/track/0ye53FFhP3oRFuaz5Ubcop"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -2791,6 +2775,22 @@
       "duration_ms": 247600,
       "name": "Infected",
       "url": "https://open.spotify.com/track/16E7LWSzLLMPWYGNCwu7Sc"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Under the Table and Dreaming (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0SeRWS3scHWplJhMppd6rJ"
+      },
+      "artists": [
+        {
+          "name": "Dave Matthews Band",
+          "url": "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
+        }
+      ],
+      "duration_ms": 291640,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/2BjUvisO4UVAtTHs4lYiqu"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -3011,18 +3011,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Unplugged (Deluxe Edition) (Live)",
-        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+        "name": "Friction Baby",
+        "url": "https://open.spotify.com/album/7aVHqEFKpPIKmrniwwViom"
       },
       "artists": [
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "Better Than Ezra",
+          "url": "https://open.spotify.com/artist/4UuoJfJ9UybJft7a8E6UHX"
         }
       ],
-      "duration_ms": 235426,
-      "name": "Nobody Knows You When You're Down and Out - Acoustic Live",
-      "url": "https://open.spotify.com/track/7sVxm1I8G8tTznXeirDEXm"
+      "duration_ms": 277493,
+      "name": "Desperately Wanting",
+      "url": "https://open.spotify.com/track/7GuLQiPvQbfzP0kqcvgIQQ"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -3043,34 +3043,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Friction Baby",
-        "url": "https://open.spotify.com/album/7aVHqEFKpPIKmrniwwViom"
+        "name": "Unplugged (Deluxe Edition) (Live)",
+        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
       },
       "artists": [
         {
-          "name": "Better Than Ezra",
-          "url": "https://open.spotify.com/artist/4UuoJfJ9UybJft7a8E6UHX"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 277493,
-      "name": "Desperately Wanting",
-      "url": "https://open.spotify.com/track/7GuLQiPvQbfzP0kqcvgIQQ"
-    },
-    {
-      "added_at": "2023-01-18 21:17:22",
-      "album": {
-        "name": "Days Of The New",
-        "url": "https://open.spotify.com/album/3JtPH618I1PMOrafvH8Xo8"
-      },
-      "artists": [
-        {
-          "name": "Days Of The New",
-          "url": "https://open.spotify.com/artist/07jc1IMGtecDZzOL9cP50t"
-        }
-      ],
-      "duration_ms": 283973,
-      "name": "Shelf In The Room",
-      "url": "https://open.spotify.com/track/5UNoPMX7K2W769iQ4PDfOt"
+      "duration_ms": 235426,
+      "name": "Nobody Knows You When You're Down and Out - Acoustic Live",
+      "url": "https://open.spotify.com/track/7sVxm1I8G8tTznXeirDEXm"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -3091,18 +3075,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Yes I Am",
-        "url": "https://open.spotify.com/album/1qzfqlEyzPD0VyCcSSQwZD"
+        "name": "Days Of The New",
+        "url": "https://open.spotify.com/album/3JtPH618I1PMOrafvH8Xo8"
       },
       "artists": [
         {
-          "name": "Melissa Etheridge",
-          "url": "https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA"
+          "name": "Days Of The New",
+          "url": "https://open.spotify.com/artist/07jc1IMGtecDZzOL9cP50t"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Come To My Window",
-      "url": "https://open.spotify.com/track/4LmlGaGTEbTGE5VngAbpA3"
+      "duration_ms": 283973,
+      "name": "Shelf In The Room",
+      "url": "https://open.spotify.com/track/5UNoPMX7K2W769iQ4PDfOt"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -3139,18 +3123,18 @@
     {
       "added_at": "2023-01-18 21:17:22",
       "album": {
-        "name": "Different Class",
-        "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
+        "name": "Yes I Am",
+        "url": "https://open.spotify.com/album/1qzfqlEyzPD0VyCcSSQwZD"
       },
       "artists": [
         {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+          "name": "Melissa Etheridge",
+          "url": "https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA"
         }
       ],
-      "duration_ms": 246186,
-      "name": "Underwear",
-      "url": "https://open.spotify.com/track/5pcDlqgygjWQ75QYLM7mdL"
+      "duration_ms": 236000,
+      "name": "Come To My Window",
+      "url": "https://open.spotify.com/track/4LmlGaGTEbTGE5VngAbpA3"
     },
     {
       "added_at": "2023-01-18 21:17:22",
@@ -3167,6 +3151,22 @@
       "duration_ms": 219826,
       "name": "I Hope You Die",
       "url": "https://open.spotify.com/track/3B0Er8HRu24IbPKCi59N0b"
+    },
+    {
+      "added_at": "2023-01-18 21:17:22",
+      "album": {
+        "name": "Different Class",
+        "url": "https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x"
+      },
+      "artists": [
+        {
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+        }
+      ],
+      "duration_ms": 246186,
+      "name": "Underwear",
+      "url": "https://open.spotify.com/track/5pcDlqgygjWQ75QYLM7mdL"
     },
     {
       "added_at": "2023-01-18 21:17:22",

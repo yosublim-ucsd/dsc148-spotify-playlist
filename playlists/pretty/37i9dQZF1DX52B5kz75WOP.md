@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52B5kz75WOP.md) - [plain]
 
 > Curated by <a href="spotify:artist:6ZLTlhejhndI4Rh53vYhrY>Ozzy Osbourne</a> for his beloved Pomeranian, Rocky.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,106 likes - 17 songs - 1 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,107 likes - 17 songs - 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,4 +26,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52B5kz75WOP.md) - [plain]
 | 16 | [Hound Dog](https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:16 |
 | 17 | [Crazy Train](https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard Of Ozz \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS) | 4:53 |
 
-Snapshot ID: `MCw0Nzg4YTZhYmM3ZmU1OTI1NzU5ZTM4NjZmNjFiNGQ0NjA0ZWFhYjk3`
+Snapshot ID: `MCw2YjM4MWRkZmY3N2ViYjQ2M2MxZjZkZWZmOGYwNTBiMjhkMDAxOTUz`

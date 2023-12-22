@@ -4,11 +4,11 @@
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-99 songs - 6 hr 44 min
+100 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [](https://open.spotify.com/track/5CPzdtBN36g76OBOvpP9f9) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Piano Bazaar](https://open.spotify.com/album/0lx2QNZKKM2eE7YRqnnvBK) | 0:00 | 2023-08-18 |  |
+| [](https://open.spotify.com/track/5CPzdtBN36g76OBOvpP9f9) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Piano Bazaar](https://open.spotify.com/album/0lx2QNZKKM2eE7YRqnnvBK) | 0:00 | 2023-08-18 | 2023-12-22 |
 | [Aayati](https://open.spotify.com/track/3GfaTPUn1gzC1rJhzYQ7Um) | [Firaaq](https://open.spotify.com/artist/3souTM6F1BIoqEaLRDfaGc) | [Aayati](https://open.spotify.com/album/24JdrtJs3tRUuHbQb71CWU) | 5:54 | 2023-08-18 |  |
 | [Aja Sawariya](https://open.spotify.com/track/1YiwARhwbWkDELenG8Toi6) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Gurbax](https://open.spotify.com/artist/52nO5w2jFAlYYsq6h9YjQG), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Aja Sawariya](https://open.spotify.com/album/3DW4dwDoi4pGl5f55YqsKK) | 2:52 | 2023-08-18 |  |
 | [Aja Sawariya \- Remix](https://open.spotify.com/track/2c8olBjlarZbL6nUKn0vGM) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Gurbax](https://open.spotify.com/artist/52nO5w2jFAlYYsq6h9YjQG), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [The Spindoctor](https://open.spotify.com/artist/2bUONMhpskrzUmRkpZUVu3) | [Aja Sawariya \(Remix\)](https://open.spotify.com/album/0EfCp9ysBs6OCmckczM2lf) | 2:56 | 2023-09-08 |  |
@@ -94,6 +94,7 @@
 | [Softly \- Tiësto Remix](https://open.spotify.com/track/58X8RJOiEXA1bkgUMPScXz) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Softly \(Tiësto Remix\)](https://open.spotify.com/album/3SE4pGhmsIgaElY5I1OOMa) | 2:17 | 2023-12-14 |  |
 | [Suit Da Lahori](https://open.spotify.com/track/1DCtn0Ketorb33T15aibQX) | [SIDD](https://open.spotify.com/artist/7ok3oCifQBgzKJtiL0z3DU) | [Suit Da Lahori](https://open.spotify.com/album/2piSMhe8zs7Ng1up3KRPf3) | 3:30 | 2023-08-18 |  |
 | [TAAL](https://open.spotify.com/track/7prf1EivUElMLAQKBIoAcq) | [No Nazar](https://open.spotify.com/artist/2UUScVfE9qx9DAaWaD77DV), [DJ SUDI](https://open.spotify.com/artist/2pWqceB8JtcmbGm1WzWwgO), [Bianca Maieli](https://open.spotify.com/artist/5l5EeVNICQYXxMTe5oRqtG), [MTooray](https://open.spotify.com/artist/04bM00N2mc60qymFNlhElS) | [Piano Bazaar](https://open.spotify.com/album/0lx2QNZKKM2eE7YRqnnvBK) | 4:50 | 2023-08-18 |  |
+| [Talk to Me Nice](https://open.spotify.com/track/5Szg2d8qKYke3PXmiW5jPF) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt), [Hari & Sukhmani](https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj) | [Talk to Me Nice](https://open.spotify.com/album/7pj8cEsl1Na2QmndvovNMe) | 3:18 | 2023-12-21 |  |
 | [Telugu Tech](https://open.spotify.com/track/5XyvNxXQYEWf8654gd4zak) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [Telugu Tech](https://open.spotify.com/album/4ohWdrUFHI4RKGjoXwwnav) | 3:21 | 2023-08-18 |  |
 | [Temple \- Kermesse Remix](https://open.spotify.com/track/3CfWjRakHy5ZoI7oh7wO4B) | [Zuma Dionys](https://open.spotify.com/artist/7qqEqY1pR6Uj2Z41HNuszd), [Kermesse](https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw) | [Temple](https://open.spotify.com/album/7cXNPxFqvsqKw3s71dTFM3) | 6:04 | 2023-08-18 |  |
 | [Tere Baajo](https://open.spotify.com/track/1Giy9XohjL9TZPGfm90jim) | [Turhan James](https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP), [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Tere Baajo](https://open.spotify.com/album/4GKHmod11S1lF33zJH5LIQ) | 3:12 | 2023-10-27 |  |

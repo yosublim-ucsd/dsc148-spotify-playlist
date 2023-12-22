@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: 家主
 
-1,119 songs - 2 day 22 hr 20 min
+1,121 songs - 2 day 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -653,6 +653,7 @@
 | [さよuなら](https://open.spotify.com/track/0bELtgWGunnj4aElCUgHje) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX) | [さよuなら](https://open.spotify.com/album/4Jh1hxtZ0WbjVTnsK1KoGz) | 4:51 | 2023-09-05 | 2023-10-11 |
 | [さよならを言えたかな](https://open.spotify.com/track/4VP5WUKSbviGuoLy6c46Ea) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [さよならを言えたかな](https://open.spotify.com/album/0JcjkBE4V8o679zLmzfJdf) | 3:14 | 2023-02-28 | 2023-05-10 |
 | [さよならサンセット](https://open.spotify.com/track/6SgQDtIyugPUd2sjasKlsM) | [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj) | [イノセント](https://open.spotify.com/album/5RdIpZVqtZq1PgFgzflemY) | 3:26 | 2023-01-31 | 2023-02-02 |
+| [しょうもない夜](https://open.spotify.com/track/1mSDhkET9Qecp1EuPWX7Er) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [しょうもない夜](https://open.spotify.com/album/31zPEVkCWiYlzMKJF2FvGc) | 3:32 | 2023-12-21 |  |
 | [その他大勢](https://open.spotify.com/track/3SQS6pC1NGFBqLKnwVfvGT) | [ヘッドフォンの中の世界](https://open.spotify.com/artist/4qh9h7K9uwSFHCGyDl0Sf9) | [その他大勢](https://open.spotify.com/album/5TgFCGghZFdgWgVB0wymxK) | 4:27 | 2023-05-09 | 2023-06-14 |
 | [そんなbitterな話](https://open.spotify.com/track/4QlSFkbRxZWkHDF1MqBaEY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [そんなbitterな話](https://open.spotify.com/album/0ssYbSrcAHMWk2EijQAKTP) | 4:36 | 2023-03-14 | 2023-06-28 |
 | [たださよなら、命燃え尽きるまで](https://open.spotify.com/track/26u3T0YLgfwwwxSd4yOp62) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [たださよなら、命燃え尽きるまで](https://open.spotify.com/album/0mXMjdZUCYvNdvrRPCcloj) | 3:50 | 2023-10-24 | 2023-10-26 |
@@ -751,7 +752,7 @@
 | [サークルゲーム \- ANOHANA Ver.](https://open.spotify.com/track/2S60nkpKsY5ixPIN7mxJGx) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ), [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [サークルゲーム \(ANOHANA Ver.\)](https://open.spotify.com/album/5lrkRIFuj1eWly7FtcRtJy) | 5:55 | 2023-08-31 | 2023-10-04 |
 | [サーセン](https://open.spotify.com/track/7jorhoSgW90sLDbeO5UnSs) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [サーセン](https://open.spotify.com/album/2s10bWcSTRHSYPvXp84p1x) | 3:44 | 2023-11-07 | 2023-11-09 |
 | [シュガースポット](https://open.spotify.com/track/5KQnoIToRhc46PsWoiv5iq) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [シュガースポット](https://open.spotify.com/album/7CogGI6l5nM7bXFcQfg0Wg) | 3:50 | 2023-10-24 |  |
-| [シュガーソルト](https://open.spotify.com/track/791f4rwkhCje7i8h3pn4yK) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [シュガーソルト](https://open.spotify.com/album/5pxYvuvef8LYB270lBChvq) | 4:17 | 2023-12-19 |  |
+| [シュガーソルト](https://open.spotify.com/track/791f4rwkhCje7i8h3pn4yK) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [シュガーソルト](https://open.spotify.com/album/5pxYvuvef8LYB270lBChvq) | 4:17 | 2023-12-19 | 2023-12-22 |
 | [シロクロ・シック](https://open.spotify.com/track/1oskFobhNrsJXt51bUyXMK) | [Crab 蟹 Club](https://open.spotify.com/artist/2Po8LYeurfstvqMOLCTTs6) | [シロクロ・シック](https://open.spotify.com/album/0VM145YnzLbH7lIqjfiXPq) | 3:37 | 2023-09-20 | 2023-10-11 |
 | [ジグソーパズル](https://open.spotify.com/track/2Heixjkl8vzAOaLlu2KwpF) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [ジグソーパズル](https://open.spotify.com/album/7FTzWfDbbD32UJMtpAkAGz) | 4:06 | 2023-05-02 | 2023-05-31 |
 | [ジャガーノート](https://open.spotify.com/track/5wPW2TG7Pk3paFuG2NaJcn) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [ジャガーノート](https://open.spotify.com/album/2TBNmBacaxlCcGZNAPdwhH) | 3:11 | 2023-11-07 |  |
@@ -825,6 +826,7 @@
 | [ホムンクルス](https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ホムンクルス](https://open.spotify.com/album/6r0PC1UIkeOvYBUWO79ohw) | 3:23 | 2023-10-17 | 2023-11-29 |
 | [ボクらの夏休み戦争](https://open.spotify.com/track/0xbD8MeCmUqSzHPGsOi2gw) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [ボクらの夏休み戦争](https://open.spotify.com/album/6pM7HAMeTlwCgq9AVEwF28) | 3:28 | 2023-07-25 | 2023-09-06 |
 | [ボーイズ ドント クライ](https://open.spotify.com/track/2oZM29QXfk0Oi6d15PjoSp) | [YOAKE](https://open.spotify.com/artist/0psEe4IooMjolOPMrz9A5M) | [ボーイズ ドント クライ](https://open.spotify.com/album/2ukBR6yPc7n60KjGcXxy0V) | 3:01 | 2023-07-20 |  |
+| [マシロ](https://open.spotify.com/track/07px1DXwJ5VXyHA8396ySP) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [マシロ](https://open.spotify.com/album/6pJMwyufoIy2yaGhDfjc9P) | 3:10 | 2023-12-21 |  |
 | [マスカレードパレード](https://open.spotify.com/track/11yqHR8bPt3tiHNX3oYh9F) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [マスカレードパレード](https://open.spotify.com/album/50VAoWVqSXcE2vGpJaSlbW) | 3:54 | 2023-07-11 | 2023-07-13 |
 | [マヨイガ \- PHIL REWORK](https://open.spotify.com/track/16j0i4b87epv1BYA7AU3P7) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [蓮沼執太フィル](https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5), [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [マヨイガ \(PHIL REWORK\)](https://open.spotify.com/album/5vxYwjHklE4OKDpd7D0PwR) | 4:07 | 2023-02-23 | 2023-03-01 |
 | [マールム \-malum\-](https://open.spotify.com/track/0PhR2iDSWWu9jJ5tZmBvy1) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [A disease called love](https://open.spotify.com/album/0YSWyHWIrioEnV5YQddyWB) | 3:11 | 2023-03-14 | 2023-03-16 |
@@ -1036,7 +1038,7 @@
 | [煙](https://open.spotify.com/track/7ePUIMn58JPBBO4GgZ5ws1) | [ペルシカリア](https://open.spotify.com/artist/4FdJpSAmMOX4yoYTAzjLKB) | [煙](https://open.spotify.com/album/4vsVm3kF6hvG6bLISAOEGX) | 4:29 | 2023-02-21 | 2023-03-01 |
 | [煙のジャンクション](https://open.spotify.com/track/1lZU2PKOokAeKaKnM6Bq6o) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [煙のジャンクション](https://open.spotify.com/album/3cP0SOZpq6yfAXskh6itoK) | 3:25 | 2023-10-17 | 2023-11-10 |
 | [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 | 2023-07-06 | 2023-08-10 |
-| [燈](https://open.spotify.com/track/7jtXjZ3JViUo9M3ogYAapO) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [i 触れる SAD UFO](https://open.spotify.com/album/39l5XqHOxUnSvkyToqhtIt) | 3:59 | 2023-08-08 |  |
+| [燈](https://open.spotify.com/track/7jtXjZ3JViUo9M3ogYAapO) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [i 触れる SAD UFO](https://open.spotify.com/album/39l5XqHOxUnSvkyToqhtIt) | 3:59 | 2023-08-08 | 2023-12-22 |
 | [犬人間](https://open.spotify.com/track/27G9fQnOzZJpZ8aOYcCJ2x) | [Wasureranneyo](https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP) | [犬人間](https://open.spotify.com/album/29OD3PEBASTDfq4kSGY3ia) | 2:48 | 2023-11-28 |  |
 | [狂騒パラノーマル](https://open.spotify.com/track/1bpNGLIRmYU5XJtYA3E7HG) | [KEYTALK](https://open.spotify.com/artist/0nES8AwBZpeQ69oZZp47OL) | [狂騒パラノーマル](https://open.spotify.com/album/7I7UGkrltOgwlhibvG0PIx) | 3:24 | 2023-03-14 | 2023-04-19 |
 | [狐独の才望](https://open.spotify.com/track/5mFKFCT5LXuxTLcrcpoCvp) | [Ling tosite sigure](https://open.spotify.com/artist/00DuPiLri3mNomvvM3nZvU) | [狐独の才望](https://open.spotify.com/album/2w7en8SKXZXiZRVXmGZQG5) | 3:32 | 2023-11-07 | 2023-12-13 |

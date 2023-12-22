@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo",
-  "num_followers": 2449683,
+  "num_followers": 2450106,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzZhOTFjYzE5NzExYjc3NTFlM2M5ODBjYTRiNzEyYWQyNWVlYjlj",
+  "snapshot_id": "MCwyYzQzZmYzZDRhMTNjMDZlMWEzZjU4OWNjOGJjY2I1NWFkMTkyODQ5",
   "tracks": [
     {
       "added_at": "2023-09-13 05:36:31",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
-        "name": "Buwan",
-        "url": "https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1"
-      },
-      "artists": [
-        {
-          "name": "juan karlos",
-          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
-        }
-      ],
-      "duration_ms": 343446,
-      "name": "Buwan",
-      "url": "https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2"
-    },
-    {
-      "added_at": "2023-09-13 05:36:31",
-      "album": {
         "name": "Hale",
         "url": "https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 242813,
       "name": "Kung Wala Ka",
       "url": "https://open.spotify.com/track/4he4CYDhvSPTxQc0e0Le1L"
+    },
+    {
+      "added_at": "2023-09-13 05:36:31",
+      "album": {
+        "name": "Buwan",
+        "url": "https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1"
+      },
+      "artists": [
+        {
+          "name": "juan karlos",
+          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
+        }
+      ],
+      "duration_ms": 343446,
+      "name": "Buwan",
+      "url": "https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2"
     },
     {
       "added_at": "2023-09-13 05:36:31",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
-        "name": "Maybe The Night",
-        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 217197,
-      "name": "Maybe The Night",
-      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
-    },
-    {
-      "added_at": "2023-09-13 05:36:31",
-      "album": {
         "name": "Langit Mong Bughaw",
         "url": "https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 285138,
       "name": "Sa Ngalan Ng Pag-Ibig",
       "url": "https://open.spotify.com/track/1FnPkOlWCMwRtfXeAAuhMu"
+    },
+    {
+      "added_at": "2023-09-13 05:36:31",
+      "album": {
+        "name": "Maybe The Night",
+        "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 217197,
+      "name": "Maybe The Night",
+      "url": "https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei"
     },
     {
       "added_at": "2023-09-13 05:36:31",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
-        "name": "KLWKN",
-        "url": "https://open.spotify.com/album/1TmGJJPRkYoxPEAo0xFnQV"
+        "name": "Hale",
+        "url": "https://open.spotify.com/album/3rYydzqOp83YUYh4EXjrbk"
       },
       "artists": [
         {
-          "name": "Music Hero",
-          "url": "https://open.spotify.com/artist/52gTrzyF0DyfkFl1DQz9Oq"
+          "name": "Hale",
+          "url": "https://open.spotify.com/artist/6Ww3OMFzCaO33ulKh1LBFN"
         }
       ],
-      "duration_ms": 256571,
-      "name": "KLWKN",
-      "url": "https://open.spotify.com/track/1pi3VCMlGVaXvrjlVOkBPN"
+      "duration_ms": 235920,
+      "name": "Kahit Pa",
+      "url": "https://open.spotify.com/track/444aHC3uiDijx7jzmMkIUK"
     },
     {
       "added_at": "2023-09-13 05:36:31",

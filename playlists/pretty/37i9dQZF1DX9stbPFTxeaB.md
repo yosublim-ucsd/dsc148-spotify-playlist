@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 
 > Blues, but funky\. Or funk, but bluesy\. Cover: Kenny Wayne Shepherd
 
-[Spotify](https://open.spotify.com/user/spotify) - 849,420 likes - 75 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 849,483 likes - 75 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,14 +19,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 | 9 | [Chicken Heads](https://open.spotify.com/track/0Mc5onRXu2mgLHgb0nfFxe) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708), [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [Chicken Heads 50th Anniversary](https://open.spotify.com/album/6VOnwHoW4Hn2mxZt7HXzaR) | 5:19 |
 | 10 | [Funky Guitar Blues](https://open.spotify.com/track/2dqkDzJPwSIduZlKJh0lvB) | [Bryce Janey](https://open.spotify.com/artist/09ZFZmc7XNCwnDYB3R48qr) | [Blues In My Soul](https://open.spotify.com/album/1ULW18kqQ47Qp3YUATkvFQ) | 4:21 |
 | 11 | [True Lies](https://open.spotify.com/track/1vcUlV02bvKQn6ryzZqDVL) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Trouble Is...](https://open.spotify.com/album/1ODpJWe2bymqj4DyJfuBE9) | 5:48 |
-| 12 | [I Was a Fool](https://open.spotify.com/track/5d8OH4z7BCPCRq5wNIVTyY) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Ways](https://open.spotify.com/album/2ZqdswALyu4SyQI2JHxbly) | 3:23 |
+| 12 | [I Was a Fool](https://open.spotify.com/track/6RdQbhqlNdAaid72ntd6yr) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [WAYS](https://open.spotify.com/album/13Lic5cbhujb4ngZs8BlTm) | 3:23 |
 | 13 | [Cradle Rock](https://open.spotify.com/track/0OVWOIMbfPWn2aVEzTclkN) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Cradle Rock](https://open.spotify.com/album/6Y2mu4qftaYr1ETmK50BJA) | 3:50 |
 | 14 | [Here it Comes](https://open.spotify.com/track/6h8p747HBdGCua6nTVpnYg) | [TrackTribe](https://open.spotify.com/artist/4YKdSLESMOqzq5QSMAjCmv) | [Here it Comes](https://open.spotify.com/album/0BPIg1qCg8BVVQKTwYLOOU) | 3:06 |
 | 15 | [Blues\-a\-fied](https://open.spotify.com/track/0YIRYIx4Z0oJ5PF1DmqEFD) | [Anthony Gomes](https://open.spotify.com/artist/0aBEiafPqEJ3o0yp6gFsHg) | [High Voltage Blues](https://open.spotify.com/album/0ieocMI2zlwYG0JcJUq6Ey) | 3:33 |
 | 16 | [Woman Gonna take The Fear Away](https://open.spotify.com/track/1bk3JiDGZIRlU6iWperLGf) | [Mike Ross](https://open.spotify.com/artist/5czSB0z5jZnHr9zV37RU1h) | [Lay It Bare \(Taller Than 2021 Remix\)](https://open.spotify.com/album/4Kt5fmBWMROZNAEUTTS87P) | 3:26 |
 | 17 | [Burning Out](https://open.spotify.com/track/5abyTR9t1SuyS8YAQZd6xA) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Spirit Rising](https://open.spotify.com/album/3dQKiRCBLOnvRmfcTCJP0H) | 3:28 |
 | 18 | [Diamonds & Gold](https://open.spotify.com/track/6ih0RIVI5ZVOOGpYBzV9rd) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Lay It On Down](https://open.spotify.com/album/4D8k0XAtsNjWmRWqjxaYIR) | 5:17 |
-| 19 | [Any Way the Wind Blows](https://open.spotify.com/track/5ECVygXKHN7Hqbutsa5bzJ) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Ways](https://open.spotify.com/album/2ZqdswALyu4SyQI2JHxbly) | 3:01 |
+| 19 | [Any Way the Wind Blows](https://open.spotify.com/track/6b3AxcFd30h4dx7nPXraRF) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [WAYS](https://open.spotify.com/album/13Lic5cbhujb4ngZs8BlTm) | 3:01 |
 | 20 | [Leave Your Ego](https://open.spotify.com/track/5lCrGrjeBufzZNUWyZuMH2) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Let It Go](https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ) | 5:14 |
 | 21 | [Honey](https://open.spotify.com/track/4gvttoQ87qNDYrtVX5TlHG) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [Does Anybody Wanna Funk?](https://open.spotify.com/album/76rkieGPYIWF101l5gmg4t) | 2:53 |
 | 22 | [Before You Hit The Ground](https://open.spotify.com/track/6X3oobD0XUStLRoCciGEmj) | [Jonny Lang](https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot) | [Wander This World](https://open.spotify.com/album/4ZscZNV7mVZupyotq52wLG) | 3:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9stbPFTxeaB.md) - [plain]
 | 74 | [Plastic Hamburgers](https://open.spotify.com/track/3lWwsRSWeSTXUBTJeuRPPg) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Please Don't Be Dead](https://open.spotify.com/album/4EdNTjVzjIxYqEUGPiyiZS) | 3:37 |
 | 75 | [In Time](https://open.spotify.com/track/4BVmZWmdjlmJTRBPfiGbjB) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Where Do We Go From Here](https://open.spotify.com/album/4fd3Nnb4bn3rERllCnKFxR) | 7:02 |
 
-Snapshot ID: `MCxlOGU3OTFiMmMxZDEwNmUyZTdlMjU0MWI1OThkZDM1OTE2ZmRiM2Y4`
+Snapshot ID: `MCxiNDE4MjRhZDVmMmVkZjI2YzZjMzIzMDFiZDllNjY5YjAxMDU4MDdl`

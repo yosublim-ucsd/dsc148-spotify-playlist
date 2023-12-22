@@ -1319,6 +1319,24 @@
     },
     {
       "album": {
+        "name": "K\u00fa y\u00e2k \u00f1tu\u00e0 \u00e9y\u00e9t",
+        "url": "https://open.spotify.com/album/3j2J214yaLBbnBUQL4W8R6"
+      },
+      "artists": [
+        {
+          "name": "Etuk Ubong",
+          "url": "https://open.spotify.com/artist/1vb5a9BPGYGCGt0zFQ4up7"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351900,
+      "name": "K\u00fa y\u00e2k \u00f1tu\u00e0 \u00e9y\u00e9t",
+      "url": "https://open.spotify.com/track/54kVmozEcghsPjSXk8uHvm"
+    },
+    {
+      "album": {
         "name": "O Yinne!",
         "url": "https://open.spotify.com/album/44sQZjLg99YdsNsPAkBNXj"
       },
@@ -1628,7 +1646,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 136047,
       "name": "Mbog",
       "url": "https://open.spotify.com/track/52UFQ6EwxdzFacdiclDNjG"
@@ -1932,6 +1950,24 @@
       "duration_ms": 174093,
       "name": "Presenting the King",
       "url": "https://open.spotify.com/track/4625NzdUwBF1lSCnBJkZtr"
+    },
+    {
+      "album": {
+        "name": "High Life Sessions",
+        "url": "https://open.spotify.com/album/7juqezi4APsV2nOoqoUtiB"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141923,
+      "name": "pretty ladies love ghana boys",
+      "url": "https://open.spotify.com/track/6quzFxKrZ4CkuvkmjcfhTJ"
     },
     {
       "album": {
@@ -2686,7 +2722,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 149213,
       "name": "Where We Go",
       "url": "https://open.spotify.com/track/0RTeNUGTnAz0jiDVaNfMZ3"

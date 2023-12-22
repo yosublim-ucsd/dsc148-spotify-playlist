@@ -1,12 +1,12 @@
 {
   "description": "The best new sounds of South African Rock. Cover: <a href=\"https://open.spotify.com/artist/5eY8373kOFccKEfw4Nz3fK?si=_iRLv4ZCTlih-QpybwO6Rg\">Toughguy</a>",
-  "num_followers": 15992,
+  "num_followers": 16004,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTdmN2YxMzNjZDE4Nzk4MDkwODJmNDllODE1MGFhMzAxNWE3ZjE4",
+  "snapshot_id": "MCxmZGJjZDgzNGMwMzAyNGQwYzI3NWU5MWUyZTJmZjIxNDllYmU5Zjcw",
   "tracks": [
     {
       "added_at": "2023-12-14 22:00:00",
@@ -23,6 +23,102 @@
       "duration_ms": 238403,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/3Dd9vV4lQ6TmHrlnRY1kau"
+    },
+    {
+      "added_at": "2023-12-14 22:00:00",
+      "album": {
+        "name": "Dans Deur Die Donker",
+        "url": "https://open.spotify.com/album/63sTwGlgIvUrLTz5ZimooE"
+      },
+      "artists": [
+        {
+          "name": "Fokofpolisiekar",
+          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
+        }
+      ],
+      "duration_ms": 182589,
+      "name": "Dans Deur Die Donker",
+      "url": "https://open.spotify.com/track/7qJBfedTGqxSzdqSuBfrW6"
+    },
+    {
+      "added_at": "2023-12-21 22:00:00",
+      "album": {
+        "name": "Blues Chemistry",
+        "url": "https://open.spotify.com/album/1tRK27YKOYapMVidpxJu70"
+      },
+      "artists": [
+        {
+          "name": "Blackwater",
+          "url": "https://open.spotify.com/artist/1Tjf5V96Viwh9So79X0Hik"
+        }
+      ],
+      "duration_ms": 265877,
+      "name": "Empty Horizon",
+      "url": "https://open.spotify.com/track/58vtz88cS0uZ37N8a4s3QY"
+    },
+    {
+      "added_at": "2023-12-14 22:00:00",
+      "album": {
+        "name": "Surfing Sunshine",
+        "url": "https://open.spotify.com/album/45TtfU9h3o2KT4tUjMyeHt"
+      },
+      "artists": [
+        {
+          "name": "Elle E",
+          "url": "https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Surfing Sunshine",
+      "url": "https://open.spotify.com/track/5dEmj0lyKNp7Vx1saMUaAk"
+    },
+    {
+      "added_at": "2023-12-21 22:00:00",
+      "album": {
+        "name": "Bumper Sticker",
+        "url": "https://open.spotify.com/album/0IJag3C2mx1xw7ZqFPixG8"
+      },
+      "artists": [
+        {
+          "name": "Berry",
+          "url": "https://open.spotify.com/artist/13w9tIoAE9FSWhwgjz7XKd"
+        }
+      ],
+      "duration_ms": 174218,
+      "name": "Bumper Sticker",
+      "url": "https://open.spotify.com/track/7ggujZS2laihBf6IWHEtC3"
+    },
+    {
+      "added_at": "2023-12-14 22:00:00",
+      "album": {
+        "name": "Glide Stride",
+        "url": "https://open.spotify.com/album/2Me4bFxziBPEr9omsL9LYV"
+      },
+      "artists": [
+        {
+          "name": "Alibi Friday",
+          "url": "https://open.spotify.com/artist/0sm3avs6uL4bzr7n45MLkg"
+        }
+      ],
+      "duration_ms": 302019,
+      "name": "Glide Stride",
+      "url": "https://open.spotify.com/track/5TKySOZAIyhdpzwN01SDux"
+    },
+    {
+      "added_at": "2023-12-21 22:00:00",
+      "album": {
+        "name": "031",
+        "url": "https://open.spotify.com/album/3gwMGJtvH9DtIoey702Ha5"
+      },
+      "artists": [
+        {
+          "name": "Phillip Taylor",
+          "url": "https://open.spotify.com/artist/1YYmkWArjQ9gVGDq4BLyVw"
+        }
+      ],
+      "duration_ms": 163303,
+      "name": "031",
+      "url": "https://open.spotify.com/track/3wU1yl2Fy9spQUVp8rx8hW"
     },
     {
       "added_at": "2023-12-14 22:00:00",
@@ -55,38 +151,6 @@
       "duration_ms": 168500,
       "name": "Lavender Lane",
       "url": "https://open.spotify.com/track/7FfcwpuGCi1uBszQxNCXf6"
-    },
-    {
-      "added_at": "2023-12-14 22:00:00",
-      "album": {
-        "name": "Dans Deur Die Donker",
-        "url": "https://open.spotify.com/album/63sTwGlgIvUrLTz5ZimooE"
-      },
-      "artists": [
-        {
-          "name": "Fokofpolisiekar",
-          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
-        }
-      ],
-      "duration_ms": 182589,
-      "name": "Dans Deur Die Donker",
-      "url": "https://open.spotify.com/track/7qJBfedTGqxSzdqSuBfrW6"
-    },
-    {
-      "added_at": "2023-12-14 22:00:00",
-      "album": {
-        "name": "Surfing Sunshine",
-        "url": "https://open.spotify.com/album/45TtfU9h3o2KT4tUjMyeHt"
-      },
-      "artists": [
-        {
-          "name": "Elle E",
-          "url": "https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Surfing Sunshine",
-      "url": "https://open.spotify.com/track/5dEmj0lyKNp7Vx1saMUaAk"
     },
     {
       "added_at": "2023-12-14 22:00:00",
@@ -139,22 +203,6 @@
       "duration_ms": 317680,
       "name": "Die Lig",
       "url": "https://open.spotify.com/track/1uC1ABzL9eYbLhASZAiT4r"
-    },
-    {
-      "added_at": "2023-12-14 22:00:00",
-      "album": {
-        "name": "Glide Stride",
-        "url": "https://open.spotify.com/album/2Me4bFxziBPEr9omsL9LYV"
-      },
-      "artists": [
-        {
-          "name": "Alibi Friday",
-          "url": "https://open.spotify.com/artist/0sm3avs6uL4bzr7n45MLkg"
-        }
-      ],
-      "duration_ms": 302019,
-      "name": "Glide Stride",
-      "url": "https://open.spotify.com/track/5TKySOZAIyhdpzwN01SDux"
     },
     {
       "added_at": "2023-12-14 22:00:00",
@@ -791,62 +839,6 @@
       "duration_ms": 180750,
       "name": "Supermark",
       "url": "https://open.spotify.com/track/3d7Lg6QGDLKEgIeWnFcBiT"
-    },
-    {
-      "added_at": "2023-12-14 22:00:00",
-      "album": {
-        "name": "Feeding Time",
-        "url": "https://open.spotify.com/album/6iqaBcWoMbV9ObOJU369r4"
-      },
-      "artists": [
-        {
-          "name": "Swimmer",
-          "url": "https://open.spotify.com/artist/0COkEvdVUFGE2r3TQs67vf"
-        },
-        {
-          "name": "Frank Opperman",
-          "url": "https://open.spotify.com/artist/0pVJOD8PrC5Sp6rr7JZeok"
-        }
-      ],
-      "duration_ms": 240450,
-      "name": "Feeding Time",
-      "url": "https://open.spotify.com/track/7aP7aYj4OWS5MFtQtgtora"
-    },
-    {
-      "added_at": "2023-12-14 22:00:00",
-      "album": {
-        "name": "Ons Is Die Vuur",
-        "url": "https://open.spotify.com/album/3YBiwDnBgMk7d31Y815Ili"
-      },
-      "artists": [
-        {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        },
-        {
-          "name": "Loufi",
-          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
-        }
-      ],
-      "duration_ms": 178730,
-      "name": "Ons Is Die Vuur",
-      "url": "https://open.spotify.com/track/39qWtrJIMKpKVbAIrbXViw"
-    },
-    {
-      "added_at": "2023-12-14 22:00:00",
-      "album": {
-        "name": "Reckless Love",
-        "url": "https://open.spotify.com/album/1KG0Gznjj6ieMsSQ86ZKO1"
-      },
-      "artists": [
-        {
-          "name": "Jackson Colt",
-          "url": "https://open.spotify.com/artist/3gIIWO1zON6oNM0MSWUeJ4"
-        }
-      ],
-      "duration_ms": 137419,
-      "name": "Reckless Love",
-      "url": "https://open.spotify.com/track/6ECuZmmXiLXqDtoBOsId2M"
     }
   ],
   "unique_name": "SA Rock ",

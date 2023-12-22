@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 
 > Ouça grandes MCs do hip hop nacional\. Foto: Edi Rock
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,343 likes - 75 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,403 likes - 75 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaljDe6fISR1.md) - [plain]
 | 72 | [Us Mano e as Mina \- 2018 Remasterizado](https://open.spotify.com/track/78PqlZRBZJcDRcYuUFXRy8) | [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1) | [Seja Como For \(2018 Remasterizado\)](https://open.spotify.com/album/5pUeLvZrpWTvyDHPq7UQJP) | 4:39 |
 | 73 | [O 5° Vigia](https://open.spotify.com/track/3VNIwW4MkSvp0xVEmfrvUL) | [Ndee Naldinho](https://open.spotify.com/artist/0nNM4GoozMXNtRBGOwzFCA) | [Preto do Gueto \(Deluxe\)](https://open.spotify.com/album/45JoFHuQTEcG4CQNO49xUZ) | 6:16 |
 | 74 | [Naquela Sala](https://open.spotify.com/track/0XJ6XyjRCW4XiWL9YmOwi8) | [AO Cubo](https://open.spotify.com/artist/1LTlPGgghut6Z0tPrX59YV) | [Década](https://open.spotify.com/album/1ZLYXUAUvUsolaTdaqfr6s) | 6:01 |
-| 75 | [Antes das 6:00, Pt\. 2 \- Bonus Track](https://open.spotify.com/track/7yXhCLwFbj4L5WEhgX62L4) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Antes das 6:00, Pt\. 2 \(Bonus Track\)](https://open.spotify.com/album/5j7lUcfsGu9T4QHe6WCnkv) | 4:01 |
+| 75 | [Antes das 6:00, Pt\. 2 \- Bonus Track](https://open.spotify.com/track/3Dyhym3tetqLh2Axf0MrYl) | [DBS Gordão Chefe](https://open.spotify.com/artist/5YXT5F24Ljk9YOXg32x93j), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Quantas Vezes Não Me Achei \(Deluxe\)](https://open.spotify.com/album/4osx7Hsw9f45WPHTBzjmVu) | 4:01 |
 
-Snapshot ID: `MCxhZmY4Yzg4NmY3M2I5NTA5MTI0MTlkOTYxN2QwNzE3MzA0NGIyYWU2`
+Snapshot ID: `MCwxY2U4NzA1ZWNhNzkyYjFhNzI4MDY3MTgyODg5MWE5ZTFmZTYzNGJi`

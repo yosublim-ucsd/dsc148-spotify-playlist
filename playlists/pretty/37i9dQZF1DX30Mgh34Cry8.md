@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30Mgh34Cry8.md) - [plain]
 
 > Music for all your adventures on Roblox\. Check out <a href="https://www.roblox.com/spotify">Spotify Island on Roblox</a> today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,754 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,966 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30Mgh34Cry8.md) - [plain]
 | 49 | [Bad Idea](https://open.spotify.com/track/0fw4CFcELg9BlAeZIx4N1N) | [pxzvc](https://open.spotify.com/artist/4zFUPBeN9jhNn8qkgxEpW9), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Bad Idea](https://open.spotify.com/album/5Kpv4cxDlf1L1rrqL8E9OQ) | 1:54 |
 | 50 | [FIGHT!](https://open.spotify.com/track/0dvqyN5x4IxXLPe5ZD744e) | [Aests](https://open.spotify.com/artist/3zYU33YUxJPzsPrYmpMMiu) | [The Classics](https://open.spotify.com/album/0WoK2puseFrKSOP9cpZeyv) | 2:02 |
 
-Snapshot ID: `MCw4OGY5NDJhNTM1NzdlZDgzN2M3ODY4MjYwZjAxOTY0MmNiODZlMTNm`
+Snapshot ID: `MCw4OTBkODk1NGI3MDYxNzc3ZTFlZDdkMjRlNTA4YmFmYTY0MjdkYzM1`

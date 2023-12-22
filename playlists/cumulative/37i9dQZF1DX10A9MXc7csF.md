@@ -4,7 +4,7 @@
 
 > The new school of Música Mexicana\. Cover: ERRE & Dariell Cano
 
-641 songs - 1 day 9 hr 11 min
+643 songs - 1 day 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,10 +20,11 @@
 | [3 Esquinas](https://open.spotify.com/track/0a5OYHthU9UqPSEl6p7ZVC) | [Chris Hermosillo](https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B), [Nathan Torres](https://open.spotify.com/artist/6HVvidzUxBK2991pMtsegB), [Sammy G](https://open.spotify.com/artist/6n4jWB2SCDA59vsUlp8Mc1) | [3 Esquinas](https://open.spotify.com/album/7JvIZjiFovHSAjELYT1lbU) | 3:39 | 2023-05-26 | 2023-07-23 |
 | [30 Tiros](https://open.spotify.com/track/2bRU7HM6NLErB3lfM9BAQI) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [30 Tiros](https://open.spotify.com/album/18dH6cfAZmBloSqAGTdFI2) | 2:53 | 2022-09-09 | 2023-01-21 |
 | [300 Locos \- En Vivo](https://open.spotify.com/track/2v7r3q9rDqNWfrhAU157gV) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [300 Locos \(En Vivo\)](https://open.spotify.com/album/3FJKfGDxTfo47JG6JDJJW5) | 2:29 | 2022-05-14 | 2022-08-27 |
+| [4x4](https://open.spotify.com/track/0V9udR6AieQX1Gn8egcyp0) | [El de Sonora](https://open.spotify.com/artist/7vN4WNH2VNntvb7csB6txo) | [4x4](https://open.spotify.com/album/4sid3ypjcbkiD1Gqqi7sdg) | 2:14 | 2023-12-21 |  |
 | [5 Estrellas \- En Vivo](https://open.spotify.com/track/3JoFfvjusTX1Bh29gJHQi9) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Cumbias Light, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7aDOqwmjK9NlYsut1SN6VT) | 2:42 | 2022-12-23 | 2023-04-22 |
 | [7 Botellas](https://open.spotify.com/track/7ieVd5galRFfFirvbqp0vG) | [Las Marías](https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w) | [7 Botellas](https://open.spotify.com/album/4oWgbiu4Usjz3eXJa5Umnw) | 3:01 | 2022-08-26 | 2022-10-08 |
 | [777](https://open.spotify.com/track/1uF7kKsAOLM72eJaoWpBo7) | [Clave 702](https://open.spotify.com/artist/3dBuaGsQYVTgxHkNxBNyL2) | [777](https://open.spotify.com/album/3XxN4yyH0mHlsYQlCdBZAK) | 3:41 | 2023-09-08 | 2023-11-25 |
-| [A 150](https://open.spotify.com/track/1efOV43D7VeE2YyTZflN6F) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [A 150](https://open.spotify.com/album/51g8xFmtl2Bm6TXRNidRkC) | 2:28 | 2023-07-28 |  |
+| [A 150](https://open.spotify.com/track/1efOV43D7VeE2YyTZflN6F) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [A 150](https://open.spotify.com/album/51g8xFmtl2Bm6TXRNidRkC) | 2:28 | 2023-07-28 | 2023-12-22 |
 | [A 180](https://open.spotify.com/track/4R5boTls8v2TvV88wv0dCz) | [Justin Morales](https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO) | [A 180](https://open.spotify.com/album/5CBwX2peGRvpXpNDo6q7V4) | 3:01 | 2022-05-14 | 2022-07-23 |
 | [A Darle Con Todo \- En Vivo](https://open.spotify.com/track/7kMnOMAVYzFnJXRqU6cvqD) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [A Darle Con Todo \(En Vivo\)](https://open.spotify.com/album/0sE8OAlzBJE2bRd96WTj1H) | 2:42 | 2022-05-14 | 2022-09-09 |
 | [A Los 17](https://open.spotify.com/track/6syLhVYupDrk0QLpGF0q9S) | [Everardo](https://open.spotify.com/artist/4fT0S7A6usiJicipEVamYd) | [A Los 17](https://open.spotify.com/album/1HdXfDy70j4bqlB90JxRHa) | 2:45 | 2023-06-06 | 2023-09-09 |
@@ -226,7 +227,8 @@
 | [Envidiada](https://open.spotify.com/track/70YwTegvGKryJg2NZPFCf1) | [Reflejo Nuevo](https://open.spotify.com/artist/48x8d1G7hZkHfnbIhz9fi8) | [Envidiada](https://open.spotify.com/album/1heIfYvOpnyO6C6n2aOweE) | 2:45 | 2023-03-17 | 2023-05-27 |
 | [Equipo Cannabis](https://open.spotify.com/track/7Kuljk1IHforwjZryE6QC5) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Grupo Viada](https://open.spotify.com/artist/6TBtNrAvB4UVFzWZK293ix) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 2:48 | 2023-12-01 |  |
 | [Era El Único](https://open.spotify.com/track/6VeIZ7uUre0qageyX1dfBX) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Era El Único](https://open.spotify.com/album/55HQrrWP6gAiURliVBYA6I) | 2:10 | 2022-05-14 | 2022-08-27 |
-| [Eres Tu](https://open.spotify.com/track/7oxCrYja42pnUdhbAo68pC) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Cantando y Llorando](https://open.spotify.com/album/3FiTwWqMjrS1Hsrm2odHBR) | 4:54 | 2023-11-10 |  |
+| [Eres Tu](https://open.spotify.com/track/4bXDSQLzLBef7RL56f9dld) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Cantando y Llorando](https://open.spotify.com/album/0WFFUoyIpae99DT1yipGdT) | 4:54 | 2023-12-21 |  |
+| [Eres Tu](https://open.spotify.com/track/7oxCrYja42pnUdhbAo68pC) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Cantando y Llorando](https://open.spotify.com/album/3FiTwWqMjrS1Hsrm2odHBR) | 4:54 | 2023-11-10 | 2023-12-22 |
 | [Es Claro](https://open.spotify.com/track/6rmWdaLQjCFmwgjujWPnY9) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Es Claro](https://open.spotify.com/album/5bZbVxM7cTMdqUkoNcRr5y) | 2:41 | 2023-03-04 | 2023-05-27 |
 | [Es Dificil](https://open.spotify.com/track/5q1WSs2Gh9IeaYEExo6Leb) | [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [Es Dificil](https://open.spotify.com/album/20Js3uScr2dXOZe1j9m1dS) | 3:09 | 2023-07-22 | 2023-09-09 |
 | [Esperame](https://open.spotify.com/track/4JZ6TlJAHOAVhhvUypHbAp) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Esperame](https://open.spotify.com/album/32HFOEzM0W03ARo1WJglEg) | 3:00 | 2022-05-14 | 2022-09-09 |

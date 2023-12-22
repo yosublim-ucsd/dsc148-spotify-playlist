@@ -1,12 +1,12 @@
 {
   "description": "\ubd80\ub4dc\ub7fd\uace0 \uace0\uae09\uc2a4\ub7ec\uc6b4 \uc7ac\uc988\ud5a5\uc774 \uac00\ubbf8\ub41c \ud799\ud569\uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 1898,
+  "num_followers": 1900,
   "original_name": "\uc7ac\uc988\ub9db \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWQyNmNmM2E2ODQxZDI3ZmJkMGFiZGFkODdmZWI0MTkwOTE4OGUx",
+  "snapshot_id": "MCwwOWJiZjMyNTM0MjQxODUxNWJjNjE2YTdiNWZkZTJmNzMwODRmYzdh",
   "tracks": [
     {
       "added_at": "2023-11-08 07:39:22",
@@ -331,26 +331,6 @@
     {
       "added_at": "2023-11-08 07:39:22",
       "album": {
-        "name": "BASS",
-        "url": "https://open.spotify.com/album/1h7jDj6mhlPnArM1blyqy4"
-      },
-      "artists": [
-        {
-          "name": "Khakii",
-          "url": "https://open.spotify.com/artist/08c5z2rVpcPu7QylOxQCFA"
-        },
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 200607,
-      "name": "BASS",
-      "url": "https://open.spotify.com/track/19QvAYMXYN4iQMlzer1JEC"
-    },
-    {
-      "added_at": "2023-11-08 07:39:22",
-      "album": {
         "name": "Primary And The Messengers LP",
         "url": "https://open.spotify.com/album/20MnU7TMGi4OEPkPZjZxYA"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 247092,
       "name": "Too Far (Feat. Beenzino)",
       "url": "https://open.spotify.com/track/7q6ybjHEBBWwOTm7Y2xUCh"
+    },
+    {
+      "added_at": "2023-11-08 07:39:22",
+      "album": {
+        "name": "BASS",
+        "url": "https://open.spotify.com/album/1h7jDj6mhlPnArM1blyqy4"
+      },
+      "artists": [
+        {
+          "name": "Khakii",
+          "url": "https://open.spotify.com/artist/08c5z2rVpcPu7QylOxQCFA"
+        },
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 200607,
+      "name": "BASS",
+      "url": "https://open.spotify.com/track/19QvAYMXYN4iQMlzer1JEC"
     },
     {
       "added_at": "2023-11-08 07:39:22",
@@ -731,6 +731,30 @@
     {
       "added_at": "2023-11-08 07:39:22",
       "album": {
+        "name": "Song For You Project, Vol. 1: Mask Christmas (with LOTTE DEPARTMENT STORE)",
+        "url": "https://open.spotify.com/album/3R2jSKyv1b7dk94GrCVTRO"
+      },
+      "artists": [
+        {
+          "name": "Hanhae",
+          "url": "https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF"
+        },
+        {
+          "name": "YODAYOUNG",
+          "url": "https://open.spotify.com/artist/3TE3mzbf7EouO9qVs7ja6w"
+        },
+        {
+          "name": "LOTTE DEPARTMENT STORE",
+          "url": "https://open.spotify.com/artist/7FbR9D27sMAlG0D2e4By2h"
+        }
+      ],
+      "duration_ms": 209205,
+      "name": "Song For You Project, Vol. 1: Mask Christmas (with LOTTE DEPARTMENT STORE)",
+      "url": "https://open.spotify.com/track/7bLqf6p7h5FA1hq5pNa5hz"
+    },
+    {
+      "added_at": "2023-11-08 07:39:22",
+      "album": {
         "name": "NEVERLAND",
         "url": "https://open.spotify.com/album/6A5LxMYSz3SmP2FffRc2wB"
       },
@@ -799,22 +823,6 @@
     {
       "added_at": "2023-11-08 07:39:22",
       "album": {
-        "name": "WALKIN', Vol. 1",
-        "url": "https://open.spotify.com/album/5Jg3IOAdcdFAnSekbum05E"
-      },
-      "artists": [
-        {
-          "name": "PEEJAY",
-          "url": "https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY"
-        }
-      ],
-      "duration_ms": 257687,
-      "name": "I Get Lifted X Beenzino",
-      "url": "https://open.spotify.com/track/0bf460G9gK1oku2Hsla0SB"
-    },
-    {
-      "added_at": "2023-11-08 07:39:22",
-      "album": {
         "name": "MOON AND BACK",
         "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
       },
@@ -831,26 +839,34 @@
     {
       "added_at": "2023-11-08 07:39:22",
       "album": {
-        "name": "Song For You Project, Vol. 1: Mask Christmas (with LOTTE DEPARTMENT STORE)",
-        "url": "https://open.spotify.com/album/3R2jSKyv1b7dk94GrCVTRO"
+        "name": "WALKIN', Vol. 1",
+        "url": "https://open.spotify.com/album/5Jg3IOAdcdFAnSekbum05E"
       },
       "artists": [
         {
-          "name": "Hanhae",
-          "url": "https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF"
-        },
-        {
-          "name": "YODAYOUNG",
-          "url": "https://open.spotify.com/artist/3TE3mzbf7EouO9qVs7ja6w"
-        },
-        {
-          "name": "LOTTE DEPARTMENT STORE",
-          "url": "https://open.spotify.com/artist/7FbR9D27sMAlG0D2e4By2h"
+          "name": "PEEJAY",
+          "url": "https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY"
         }
       ],
-      "duration_ms": 209205,
-      "name": "Song For You Project, Vol. 1: Mask Christmas (with LOTTE DEPARTMENT STORE)",
-      "url": "https://open.spotify.com/track/7bLqf6p7h5FA1hq5pNa5hz"
+      "duration_ms": 257687,
+      "name": "I Get Lifted X Beenzino",
+      "url": "https://open.spotify.com/track/0bf460G9gK1oku2Hsla0SB"
+    },
+    {
+      "added_at": "2023-11-08 07:39:22",
+      "album": {
+        "name": "ONE",
+        "url": "https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA"
+      },
+      "artists": [
+        {
+          "name": "ONEWE",
+          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
+        }
+      ],
+      "duration_ms": 210720,
+      "name": "0&4",
+      "url": "https://open.spotify.com/track/3cxyod10j12ByJjRoWAAUo"
     },
     {
       "added_at": "2023-11-08 07:39:22",
@@ -875,22 +891,6 @@
       "duration_ms": 193375,
       "name": "Piss On Me",
       "url": "https://open.spotify.com/track/4GJy4M67insCFuAUhluOza"
-    },
-    {
-      "added_at": "2023-11-08 07:39:22",
-      "album": {
-        "name": "ONE",
-        "url": "https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA"
-      },
-      "artists": [
-        {
-          "name": "ONEWE",
-          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
-        }
-      ],
-      "duration_ms": 210720,
-      "name": "0&4",
-      "url": "https://open.spotify.com/track/3cxyod10j12ByJjRoWAAUo"
     },
     {
       "added_at": "2023-11-08 07:39:22",
@@ -931,6 +931,26 @@
     {
       "added_at": "2023-11-08 07:39:22",
       "album": {
+        "name": "TRAVEL: NOAH",
+        "url": "https://open.spotify.com/album/4JgE4ZTDBxLbXt8v1R6UB5"
+      },
+      "artists": [
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        },
+        {
+          "name": "B-Free",
+          "url": "https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T"
+        }
+      ],
+      "duration_ms": 215857,
+      "name": "GOOD NIGHT",
+      "url": "https://open.spotify.com/track/1mVr7cmhQIoLt4u0BR8x57"
+    },
+    {
+      "added_at": "2023-11-08 07:39:22",
+      "album": {
         "name": "PAID IN SEOUL",
         "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
       },
@@ -947,30 +967,6 @@
       "duration_ms": 168216,
       "name": "Good night night (Feat. pH-1)",
       "url": "https://open.spotify.com/track/5u0aDrolL0ZOElpoeizsdE"
-    },
-    {
-      "added_at": "2023-11-08 07:39:22",
-      "album": {
-        "name": "GOOD GIRL Episode 3",
-        "url": "https://open.spotify.com/album/2iY5eEAH23aCB9JGCNZO5k"
-      },
-      "artists": [
-        {
-          "name": "Mommy Son",
-          "url": "https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        },
-        {
-          "name": "Kim Seungmin",
-          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
-        }
-      ],
-      "duration_ms": 220429,
-      "name": "Money Serenade (Feat. Wonstein & Kim Seung Min)",
-      "url": "https://open.spotify.com/track/1rZAKzPkA1VfkakGSszBg7"
     }
   ],
   "unique_name": "\uc7ac\uc988\ub9db \ud799\ud569",

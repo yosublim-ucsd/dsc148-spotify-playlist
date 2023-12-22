@@ -2,9 +2,9 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : So La Lune
+> Le meilleur du rap français version cloud\. Photo : Djadja & Dinaz
 
-321 songs - 15 hr 59 min
+323 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Angelo](https://open.spotify.com/track/5R9g2Gpoyu2XQLBVeGqiKm) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS) | [Angelo](https://open.spotify.com/album/5bsucbfbgWkkJkO01tSGD0) | 2:35 | 2022-10-27 | 2023-01-27 |
 | [Anijay](https://open.spotify.com/track/17rnIvqGq3VfsD1kxBWvCg) | [Soleil Noir](https://open.spotify.com/artist/101eNe2qinDKucqJyvih0y) | [Avant l'aube](https://open.spotify.com/album/4FRAG4CnUDIFfg5pJkykIU) | 3:49 | 2023-05-11 | 2023-06-23 |
 | [ANNABA \- Dysphoria](https://open.spotify.com/track/53QvbD37VhzV9huvVZ6eYL) | [Moha MMZ](https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T) | [ANNABA \(Dysphoria\)](https://open.spotify.com/album/7eiuFe1rIiIzcjvOUIKfzo) | 2:54 | 2022-11-17 | 2023-03-25 |
-| [Aucun effet](https://open.spotify.com/track/0zBClWjxSCelFFMBTOAcrN) | [Klem Schen](https://open.spotify.com/artist/2h5IzYxNFBtXa3PsnV370c), [MKN](https://open.spotify.com/artist/6RGkEhVEJMAyNaw96ekBmX) | [Temps d'avant](https://open.spotify.com/album/17SmK3zouR37VS6JLDZWL3) | 3:30 | 2023-09-28 |  |
+| [Aucun effet](https://open.spotify.com/track/0zBClWjxSCelFFMBTOAcrN) | [Klem Schen](https://open.spotify.com/artist/2h5IzYxNFBtXa3PsnV370c), [MKN](https://open.spotify.com/artist/6RGkEhVEJMAyNaw96ekBmX) | [Temps d'avant](https://open.spotify.com/album/17SmK3zouR37VS6JLDZWL3) | 3:30 | 2023-09-28 | 2023-12-22 |
 | [AUDIOWAVE](https://open.spotify.com/track/7wodZKwS4F2IB1lPjHTMWx) | [GR OMEGA](https://open.spotify.com/artist/2OycTEXMkHcR33DNZ3BpVJ) | [AUDIOWAVE](https://open.spotify.com/album/22UPiEUYQQdOM4kMzi94sC) | 2:28 | 2023-03-23 | 2023-05-05 |
 | [Audrey Tautou](https://open.spotify.com/track/0N4ETYavqM5JEM0h2nBN6t) | [Jwles](https://open.spotify.com/artist/4vbxtxqdkeHt1dICi63qs8) | [Audrey Tautou](https://open.spotify.com/album/49jnXKOUmeHnS4SZBm8IOU) | 2:34 | 2022-11-03 | 2023-01-13 |
 | [Aura](https://open.spotify.com/track/6qOuClqwGnHV9GSlp6zCJa) | [Tensei](https://open.spotify.com/artist/4l8e0PM8xxd2dbm74mGsQn) | [Aura](https://open.spotify.com/album/7khYQ0rYRwrJlkwvFtYggc) | 4:07 | 2023-10-05 | 2023-11-10 |
@@ -40,6 +40,7 @@
 | [AVANT TOI](https://open.spotify.com/track/5x4cFSRsvdCdizLzK8FZXs) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [SUN7](https://open.spotify.com/album/07IfuWJbMzAw6cTie8Wyu0) | 2:51 | 2023-11-23 |  |
 | [AVANT TOI](https://open.spotify.com/track/60ouY0tuiKBPMCP0iZStJS) | [HOUDI](https://open.spotify.com/artist/0E9vzecg75Thz2ekrGIaF6) | [SUN7](https://open.spotify.com/album/77mTEOKxs8H61K4wZiJWFk) | 2:51 | 2023-07-06 | 2023-11-29 |
 | [AVERSE](https://open.spotify.com/track/08S6rWmtM6L4xPpSjhm1g7) | [Gemen](https://open.spotify.com/artist/38Ey7an6lpTlez98WKnAd2), [Tenma](https://open.spotify.com/artist/3MaO9kMKgKD4DjfZvlbbGf), [EDGE](https://open.spotify.com/artist/0ZCX1rGywF2LATUUCq0nOg) | [DRAGA](https://open.spotify.com/album/6L9UgtNjZj8Aukfeuexmqf) | 2:19 | 2023-05-25 | 2023-07-14 |
+| [Aïcha](https://open.spotify.com/track/3Z2lGD8m63wJ93bQ7BJrPT) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Aïcha](https://open.spotify.com/album/0oae25t19eKc6zm5oEvaOL) | 3:26 | 2023-12-21 |  |
 | [Baby Mama](https://open.spotify.com/track/5ClOFvLqn08NldYWLqwbmw) | [Chany Z](https://open.spotify.com/artist/4w8X99AfTxbDYZ2KeTGNSH) | [Baby Mama](https://open.spotify.com/album/3XQQBuq63jACEfOek488cD) | 3:30 | 2023-04-27 | 2023-06-09 |
 | [Bataille \(Affamé \#18\)](https://open.spotify.com/track/61b4BnxFsR4RrhHBv1KZqz) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Bataille \(Affamé \#18\)](https://open.spotify.com/album/5rynmiV67Wf1jp0dUazXFn) | 2:34 | 2023-04-06 | 2023-05-05 |
 | [BB APPRENDS\-MOI À FERMER LES YEUX](https://open.spotify.com/track/2fMsWuZwPOHzQubX1otzO2) | [Sovajon](https://open.spotify.com/artist/41XEyClazvR6Ao77iD8qex), [Isma](https://open.spotify.com/artist/43HCKjfq0p8VwJo3LSs7H7) | [BB APPRENDS\-MOI À FERMER LES YEUX](https://open.spotify.com/album/0DV620FQXLPrwCuCq7S1Oy) | 3:10 | 2023-05-18 | 2023-06-30 |
@@ -155,11 +156,12 @@
 | [JET & SCOOTER](https://open.spotify.com/track/00oe1I3awDM2HjAF9Efz68) | [GEAVN](https://open.spotify.com/artist/1wRjJI80Z1xUT2aFdn7aru) | [JET & SCOOTER](https://open.spotify.com/album/1C4HIM7Szj2NOgyUIGVmOQ) | 3:20 | 2023-02-16 | 2023-04-07 |
 | [Jour de pluie](https://open.spotify.com/track/7Cuca28lbRnHCWlpgEwxCu) | [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG) | [Jour de pluie](https://open.spotify.com/album/55HrsnQR83ZjEiaSYnXdRO) | 3:17 | 2023-11-09 |  |
 | [JOUR DE PLUIE](https://open.spotify.com/track/6nxLFvMeQySR4wKFPRh1tC) | [Golgoth](https://open.spotify.com/artist/6YPGhj88VOEmQ6e9qTotvA) | [JOUR DE PLUIE](https://open.spotify.com/album/2yWX4MlBDNXu3xtscHFi3O) | 2:47 | 2023-09-07 | 2023-10-20 |
+| [kerosene](https://open.spotify.com/track/1DU4iqHjKYdPt4iXo1vAsp) | [Ayvee](https://open.spotify.com/artist/0abpwgWh43SsFPq3uVRAae) | [ICE](https://open.spotify.com/album/7M1WGdWsIKZLjQLW4U9erX) | 1:54 | 2023-12-21 |  |
 | [L'APPEL](https://open.spotify.com/track/32vCnWdVuYCRhwGJglDMae) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [ERRR](https://open.spotify.com/album/33YFTG260lyzS3THXtwyq7) | 2:11 | 2022-07-14 | 2022-12-02 |
 | [L'Audacieuse](https://open.spotify.com/track/0qoimFw2hfFPt7G9X3dpdg) | [Eline](https://open.spotify.com/artist/5bGFc6JdtR529TQfHSmMYF) | [L'Audacieuse](https://open.spotify.com/album/4I5drbQZp5uBSaMkzf6Ma6) | 2:34 | 2023-10-26 | 2023-12-01 |
 | [L'AVANCE](https://open.spotify.com/track/0Cq7juHDwt40uauRCLce5W) | [OSO](https://open.spotify.com/artist/7v8eES96R5p4lUkinWKY1g) | [L'AVANCE](https://open.spotify.com/album/7tQWxEGjCkipqMkNMQRJTd) | 2:05 | 2022-10-13 | 2022-12-09 |
 | [L'incendie](https://open.spotify.com/track/0YofBGEEMMQGidD3sQcqvp) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Gardien du Labyrinthe](https://open.spotify.com/album/0qCijZ9tv7v38CxL4tO7zQ) | 3:12 | 2023-11-16 |  |
-| [L'âme du phoenix](https://open.spotify.com/track/4V1lFBt09vY2Jfx8jiVejx) | [Yuston XIII](https://open.spotify.com/artist/2ac0Lmf5nfZU6sq2t6MJLh) | [Origine](https://open.spotify.com/album/13mJHtPMDhomE59E0FmdWz) | 3:28 | 2023-04-06 |  |
+| [L'âme du phoenix](https://open.spotify.com/track/4V1lFBt09vY2Jfx8jiVejx) | [Yuston XIII](https://open.spotify.com/artist/2ac0Lmf5nfZU6sq2t6MJLh) | [Origine](https://open.spotify.com/album/13mJHtPMDhomE59E0FmdWz) | 3:28 | 2023-04-06 | 2023-12-22 |
 | [L'étoile qui brille le plus](https://open.spotify.com/track/5Urdl8iZ5iAHeIxFjOHjr3) | [Noham](https://open.spotify.com/artist/1Q2NPkF71W70gFJmbdfZsm) | [L'étoile qui brille le plus](https://open.spotify.com/album/5osFSzc0wxRd9woC2OoXzY) | 2:14 | 2023-06-15 | 2023-08-04 |
 | [La Fin](https://open.spotify.com/track/4MNmqL7NYehnAkECQSzpYY) | [Koss](https://open.spotify.com/artist/1cTINVmi2me8JBpCwR2K16) | [La Fin](https://open.spotify.com/album/0X7C8d67qb5By6L1qwXeef) | 3:14 | 2022-10-06 | 2022-10-21 |
 | [La pierre](https://open.spotify.com/track/1KQQPzGRBilAih9MYO8k6e) | [So La Lune](https://open.spotify.com/artist/4ZW7BptOWzjNFLEqRiNCT7) | [Wilma](https://open.spotify.com/album/7BR6OZQh1ZtXgXUQxHgw3X) | 3:00 | 2022-11-24 | 2023-01-20 |

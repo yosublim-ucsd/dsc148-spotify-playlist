@@ -1,12 +1,12 @@
 {
   "description": "Vintage soul gems from the archives.",
-  "num_followers": 192686,
+  "num_followers": 192685,
   "original_name": "Rare Soul Grooves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NDI1ZDY5M2YyODZkZWM0MjI5ZTU5YWJkM2I5ZDM1YzlhM2JiMDA3",
+  "snapshot_id": "MCxkMTYxN2ZmMmI1OTcyMDRiYjg4N2M1NjhhNjg3MDM2MmE0ZWQ1MTYw",
   "tracks": [
     {
       "added_at": "2022-05-11 12:29:38",
@@ -183,22 +183,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Whatcha See Is Whatcha Get [Stax Remasters]",
-        "url": "https://open.spotify.com/album/1kuAkkhsye50w4et6k4vOT"
-      },
-      "artists": [
-        {
-          "name": "The Dramatics",
-          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
-        }
-      ],
-      "duration_ms": 240066,
-      "name": "Whatcha See Is Whatcha Get",
-      "url": "https://open.spotify.com/track/70eine3FCFbBVmX3HZhto4"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "I Choose You (formerly Blind Over You)",
         "url": "https://open.spotify.com/album/5wBWAyctOB7SMSiF9s3Dio"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 167040,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/2iW5oGlF4HbcR94NVlgGrN"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Whatcha See Is Whatcha Get [Stax Remasters]",
+        "url": "https://open.spotify.com/album/1kuAkkhsye50w4et6k4vOT"
+      },
+      "artists": [
+        {
+          "name": "The Dramatics",
+          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
+        }
+      ],
+      "duration_ms": 240066,
+      "name": "Whatcha See Is Whatcha Get",
+      "url": "https://open.spotify.com/track/70eine3FCFbBVmX3HZhto4"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -295,6 +295,22 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
+        "name": "Strategy",
+        "url": "https://open.spotify.com/album/1MP3ltiZak966JcSieq64T"
+      },
+      "artists": [
+        {
+          "name": "Archie Bell & The Drells",
+          "url": "https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH"
+        }
+      ],
+      "duration_ms": 417480,
+      "name": "Strategy",
+      "url": "https://open.spotify.com/track/64TIJiqmJn7ZnIYzYAEpbL"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 139093,
       "name": "Two Can Have A Party",
       "url": "https://open.spotify.com/track/0LIxJkq7caYmgbawjgEqMn"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
-        "name": "Strategy",
-        "url": "https://open.spotify.com/album/1MP3ltiZak966JcSieq64T"
-      },
-      "artists": [
-        {
-          "name": "Archie Bell & The Drells",
-          "url": "https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH"
-        }
-      ],
-      "duration_ms": 417480,
-      "name": "Strategy",
-      "url": "https://open.spotify.com/track/64TIJiqmJn7ZnIYzYAEpbL"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Northern Soul - The Soundtrack to Your Life",
-        "url": "https://open.spotify.com/album/2Hi3JXS5bN6SitN9zeLHWP"
-      },
-      "artists": [
-        {
-          "name": "Ruby Andrews",
-          "url": "https://open.spotify.com/artist/1mg8nnhxHsBOe2lJHQvGdH"
-        }
-      ],
-      "duration_ms": 169131,
-      "name": "Just Loving You",
-      "url": "https://open.spotify.com/track/0Xs78n0LzZVXcrHxk3FrjT"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Try It (You'll Like It) / Master Plan Intro",
         "url": "https://open.spotify.com/album/6mrjVdDJGh3WCyUUER7NSf"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 143612,
       "name": "Try It (You'll Like It)",
       "url": "https://open.spotify.com/track/73IPRs8Pj5NMtvpYGiShZN"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Northern Soul - The Soundtrack to Your Life",
+        "url": "https://open.spotify.com/album/2Hi3JXS5bN6SitN9zeLHWP"
+      },
+      "artists": [
+        {
+          "name": "Ruby Andrews",
+          "url": "https://open.spotify.com/artist/1mg8nnhxHsBOe2lJHQvGdH"
+        }
+      ],
+      "duration_ms": 169131,
+      "name": "Just Loving You",
+      "url": "https://open.spotify.com/track/0Xs78n0LzZVXcrHxk3FrjT"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Jean Carn",
-        "url": "https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj"
-      },
-      "artists": [
-        {
-          "name": "Jean Carn",
-          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
-        }
-      ],
-      "duration_ms": 244973,
-      "name": "Free Love",
-      "url": "https://open.spotify.com/track/0U8jLRW0P9yATYLXiqEJlF"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "The First Family of Soul: The Best of The Five Stairsteps",
         "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 165200,
       "name": "Baby Make Me Feel So Good",
       "url": "https://open.spotify.com/track/0wSvnAFcmkeP9gU5L6RRjQ"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Jean Carn",
+        "url": "https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj"
+      },
+      "artists": [
+        {
+          "name": "Jean Carn",
+          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
+        }
+      ],
+      "duration_ms": 244973,
+      "name": "Free Love",
+      "url": "https://open.spotify.com/track/0U8jLRW0P9yATYLXiqEJlF"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "The Legendary Henry Stone Presents: Jimmy Bo Horne",
-        "url": "https://open.spotify.com/album/4WDYgiypBayAeaGIPAzKiv"
-      },
-      "artists": [
-        {
-          "name": "Jimmy \"Bo\" Horne",
-          "url": "https://open.spotify.com/artist/6jcPHv7qVfqysvBT7Jmn7K"
-        }
-      ],
-      "duration_ms": 191203,
-      "name": "I Can't Speak",
-      "url": "https://open.spotify.com/track/2iPjHMgEegSGNbog4ujzkM"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Chess Soul: A Decade Of Chicago\u2019s Finest",
         "url": "https://open.spotify.com/album/4c9TWEY7mW9Z2CWpc7MIlw"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 167560,
       "name": "A Love Reputation",
       "url": "https://open.spotify.com/track/38ckyTSXIQ0o7sC6efDG2j"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "The Legendary Henry Stone Presents: Jimmy Bo Horne",
+        "url": "https://open.spotify.com/album/4WDYgiypBayAeaGIPAzKiv"
+      },
+      "artists": [
+        {
+          "name": "Jimmy \"Bo\" Horne",
+          "url": "https://open.spotify.com/artist/6jcPHv7qVfqysvBT7Jmn7K"
+        }
+      ],
+      "duration_ms": 191203,
+      "name": "I Can't Speak",
+      "url": "https://open.spotify.com/track/2iPjHMgEegSGNbog4ujzkM"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Philly Groove Records Presents: The Early Years, Vol. 3",
-        "url": "https://open.spotify.com/album/2QBg8HBgmqdJl4nHsbZtQe"
-      },
-      "artists": [
-        {
-          "name": "First Choice",
-          "url": "https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4"
-        }
-      ],
-      "duration_ms": 174666,
-      "name": "Yes, Maybe No",
-      "url": "https://open.spotify.com/track/0A1hpM48Yw1gYWUq5b93pP"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Maybe Tomorrow",
         "url": "https://open.spotify.com/album/30gDRAWUg1hC8TYAtzr0i9"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 190666,
       "name": "It's Great To Be Here",
       "url": "https://open.spotify.com/track/78qHwCaeAn0VIQcFj1AyXk"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Philly Groove Records Presents: The Early Years, Vol. 3",
+        "url": "https://open.spotify.com/album/2QBg8HBgmqdJl4nHsbZtQe"
+      },
+      "artists": [
+        {
+          "name": "First Choice",
+          "url": "https://open.spotify.com/artist/20v3nhzoeaO2WvDSCdY0f4"
+        }
+      ],
+      "duration_ms": 174666,
+      "name": "Yes, Maybe No",
+      "url": "https://open.spotify.com/track/0A1hpM48Yw1gYWUq5b93pP"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
+        "name": "Motown Unreleased: 1966",
+        "url": "https://open.spotify.com/album/1M1lda8aucpMc8HBPTHGjm"
+      },
+      "artists": [
+        {
+          "name": "Brenda Holloway",
+          "url": "https://open.spotify.com/artist/3nXMZsj1H0F7h9SDUeYNjg"
+        }
+      ],
+      "duration_ms": 137077,
+      "name": "Baby I've Got It",
+      "url": "https://open.spotify.com/track/5gzUMDbP6FzKHG9cdsZE4P"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
         "name": "Can't Be Satisfied - The XL and Sounds of Memphis Story Vol. 1",
         "url": "https://open.spotify.com/album/7DiuqEndvhXnLcJYMoMIU8"
       },
@@ -1443,18 +1459,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Motown Unreleased: 1966",
-        "url": "https://open.spotify.com/album/1M1lda8aucpMc8HBPTHGjm"
+        "name": "Soul Survivors",
+        "url": "https://open.spotify.com/album/1WdZEdjTwZnAtbrdjd80Gl"
       },
       "artists": [
         {
-          "name": "Brenda Holloway",
-          "url": "https://open.spotify.com/artist/3nXMZsj1H0F7h9SDUeYNjg"
+          "name": "Soul Survivors",
+          "url": "https://open.spotify.com/artist/6gUnpPjRKhAq45Mmi2hmkx"
         }
       ],
-      "duration_ms": 137077,
-      "name": "Baby I've Got It",
-      "url": "https://open.spotify.com/track/5gzUMDbP6FzKHG9cdsZE4P"
+      "duration_ms": 201533,
+      "name": "City of Brotherly Love",
+      "url": "https://open.spotify.com/track/4xDfL9IyOUsndSPsh1JpYg"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1471,22 +1487,6 @@
       "duration_ms": 183360,
       "name": "Heavenly Thing",
       "url": "https://open.spotify.com/track/3rhCVdKPTJVVuM9XBGI40p"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
-        "name": "Soul Survivors",
-        "url": "https://open.spotify.com/album/1WdZEdjTwZnAtbrdjd80Gl"
-      },
-      "artists": [
-        {
-          "name": "Soul Survivors",
-          "url": "https://open.spotify.com/artist/6gUnpPjRKhAq45Mmi2hmkx"
-        }
-      ],
-      "duration_ms": 201533,
-      "name": "City of Brotherly Love",
-      "url": "https://open.spotify.com/track/4xDfL9IyOUsndSPsh1JpYg"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "My Music",
-        "url": "https://open.spotify.com/album/4hQ22JIIGjvyMbeQJRoDKE"
-      },
-      "artists": [
-        {
-          "name": "Bunny Sigler",
-          "url": "https://open.spotify.com/artist/4wyNEslyuNURfltXmivNeg"
-        }
-      ],
-      "duration_ms": 207666,
-      "name": "My Music",
-      "url": "https://open.spotify.com/track/23TOftlUTOe477OSP4PzZh"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Southside Chicago",
         "url": "https://open.spotify.com/album/19FdxlbSShGA86U6y7noRm"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 163306,
       "name": "I'm Ready for Love",
       "url": "https://open.spotify.com/track/6VQAjEdoa6XL2CaDUFEioS"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "My Music",
+        "url": "https://open.spotify.com/album/4hQ22JIIGjvyMbeQJRoDKE"
+      },
+      "artists": [
+        {
+          "name": "Bunny Sigler",
+          "url": "https://open.spotify.com/artist/4wyNEslyuNURfltXmivNeg"
+        }
+      ],
+      "duration_ms": 207666,
+      "name": "My Music",
+      "url": "https://open.spotify.com/track/23TOftlUTOe477OSP4PzZh"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Motown Unreleased 1963",
-        "url": "https://open.spotify.com/album/4SZuhxneLhFEaKsJW7N4qL"
-      },
-      "artists": [
-        {
-          "name": "Labrenda Ben",
-          "url": "https://open.spotify.com/artist/6jWzI9sYhG5OFUr6SfgeAn"
-        }
-      ],
-      "duration_ms": 144186,
-      "name": "I Don't Want Your Promises",
-      "url": "https://open.spotify.com/track/7Cvq8wzGHZKA3VAEHRCezL"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "The Complete Tamla And Motown Singles...Plus!",
         "url": "https://open.spotify.com/album/2FwTUXppv3Nt8N11zoxbRW"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 153240,
       "name": "Motor City - Single Version",
       "url": "https://open.spotify.com/track/65gVO07fFP7eWFjJQiNX3r"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Motown Unreleased 1963",
+        "url": "https://open.spotify.com/album/4SZuhxneLhFEaKsJW7N4qL"
+      },
+      "artists": [
+        {
+          "name": "Labrenda Ben",
+          "url": "https://open.spotify.com/artist/6jWzI9sYhG5OFUr6SfgeAn"
+        }
+      ],
+      "duration_ms": 144186,
+      "name": "I Don't Want Your Promises",
+      "url": "https://open.spotify.com/track/7Cvq8wzGHZKA3VAEHRCezL"
     },
     {
       "added_at": "2022-05-11 12:29:38",

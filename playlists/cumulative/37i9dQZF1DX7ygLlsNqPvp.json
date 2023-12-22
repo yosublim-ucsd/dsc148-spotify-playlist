@@ -78,7 +78,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 203781,
       "name": "Abasakoom",
       "url": "https://open.spotify.com/track/2puqWsQHO7Ld5gutZNajtA"
@@ -212,6 +212,28 @@
       "duration_ms": 229714,
       "name": "Akata Gang Gang (feat. O'Kenneth, Pappy Kojo, Skyface SDW, Kawabanga & Jay Bahd)",
       "url": "https://open.spotify.com/track/6QJ5y6ootRIS3rUkGCERTB"
+    },
+    {
+      "album": {
+        "name": "Akata Krakye",
+        "url": "https://open.spotify.com/album/4klwwBCFSQC3j3bZfE7eHo"
+      },
+      "artists": [
+        {
+          "name": "Braabenk",
+          "url": "https://open.spotify.com/artist/0TUUFSxsiNUDliSybMOI7I"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171423,
+      "name": "Akata Krakye",
+      "url": "https://open.spotify.com/track/23S5BZg2WkhxBc08XNVb1u"
     },
     {
       "album": {

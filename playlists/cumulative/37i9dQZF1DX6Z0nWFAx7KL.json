@@ -2082,7 +2082,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 154137,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/69R5HIAVF8zNVh4hVBafuO"
@@ -3184,6 +3184,28 @@
       "duration_ms": 162782,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/2MYIfxhvYk7VaEJ0cWiRmK"
+    },
+    {
+      "album": {
+        "name": "STAY",
+        "url": "https://open.spotify.com/album/013a6sw3mwlatsiiMDvoJV"
+      },
+      "artists": [
+        {
+          "name": "Ayko",
+          "url": "https://open.spotify.com/artist/7DoGkyQETbcynITmyOlWJf"
+        },
+        {
+          "name": "George",
+          "url": "https://open.spotify.com/artist/3sedn32ScoPV1uUo54el2E"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162393,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/2t0wgon3zNi2rK5RmBI6PB"
     },
     {
       "album": {

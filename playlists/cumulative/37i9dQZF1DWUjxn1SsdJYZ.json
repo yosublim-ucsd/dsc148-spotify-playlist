@@ -85,6 +85,28 @@
     },
     {
       "album": {
+        "name": "42",
+        "url": "https://open.spotify.com/album/7kNZo6GwS4daijRrKFKgbq"
+      },
+      "artists": [
+        {
+          "name": "Maya Hirasedo",
+          "url": "https://open.spotify.com/artist/79fiC2Vlgb2Q8u30JVcOm8"
+        },
+        {
+          "name": "Lil Jaye",
+          "url": "https://open.spotify.com/artist/2lEJRLLPBCtAUdxVFl3qyl"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "42",
+      "url": "https://open.spotify.com/track/4K9xMdKPxDeRMmxGybVlpy"
+    },
+    {
+      "album": {
         "name": "4CERTAIN",
         "url": "https://open.spotify.com/album/6zdsWREkyCF7iK4UKaPKyG"
       },
@@ -3742,6 +3764,24 @@
       "duration_ms": 162580,
       "name": "Finding My Way",
       "url": "https://open.spotify.com/track/33ArwFU5L9M5S1lnTmAjz7"
+    },
+    {
+      "album": {
+        "name": "First Day Out",
+        "url": "https://open.spotify.com/album/2Yf9SEc1w0CuSEWq4cOWaJ"
+      },
+      "artists": [
+        {
+          "name": "Young6ix",
+          "url": "https://open.spotify.com/artist/1DVLOOIJIQQX0fIKY22m7Q"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213176,
+      "name": "First Day Out",
+      "url": "https://open.spotify.com/track/1eOyL0pvYukCQctZsDvPaS"
     },
     {
       "album": {
@@ -12374,6 +12414,24 @@
       "duration_ms": 136666,
       "name": "WHERES THE MOP",
       "url": "https://open.spotify.com/track/5mjXXO1ebDsHXM9Wn9dQSY"
+    },
+    {
+      "album": {
+        "name": "WHITE WRAITH",
+        "url": "https://open.spotify.com/album/3Uwq3lQD8ikZWWU3g5C57G"
+      },
+      "artists": [
+        {
+          "name": "Ribby247",
+          "url": "https://open.spotify.com/artist/6LZdwXjVBOMwkPgglULJKh"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178959,
+      "name": "WHITE WRAITH",
+      "url": "https://open.spotify.com/track/0RLzA0nYGzdcK0NU588uw2"
     },
     {
       "album": {

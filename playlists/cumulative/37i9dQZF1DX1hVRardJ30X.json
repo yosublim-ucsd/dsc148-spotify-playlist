@@ -56967,6 +56967,24 @@
     },
     {
       "album": {
+        "name": "lagunas",
+        "url": "https://open.spotify.com/album/1pCNxr8UOeAaWuJ67ZFsfx"
+      },
+      "artists": [
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219080,
+      "name": "lagunas",
+      "url": "https://open.spotify.com/track/4lB3bD59ItctK9ii4Thy3y"
+    },
+    {
+      "album": {
         "name": "LALA",
         "url": "https://open.spotify.com/album/7CNQuFMI9yYy8dHkPx9Y13"
       },

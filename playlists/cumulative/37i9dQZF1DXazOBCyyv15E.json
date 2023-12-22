@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-09-29",
-  "description": "The home of the best new alternative music. Cover: Softcult",
+  "description": "The home of the best new alternative music. Cover: ratbag",
   "name": "The Other List",
   "tracks": [
     {
@@ -1950,7 +1950,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 199220,
       "name": "Angel",
       "url": "https://open.spotify.com/track/586hlWbs36IwHNBQHDkT0v"
@@ -2794,7 +2794,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 209482,
       "name": "Back On 74",
       "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
@@ -3718,6 +3718,24 @@
     {
       "album": {
         "name": "Birthday",
+        "url": "https://open.spotify.com/album/2zsn6zX4CxUM06QcL9DCFo"
+      },
+      "artists": [
+        {
+          "name": "OSWRLD",
+          "url": "https://open.spotify.com/artist/6Cq6gf2fnK1Xl9jH99jGUl"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237471,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/7hxehQAcvvmH8lRRL6XCpz"
+    },
+    {
+      "album": {
+        "name": "Birthday",
         "url": "https://open.spotify.com/album/6q0Bzw2eV5lPEqTCRZNljn"
       },
       "artists": [
@@ -3894,7 +3912,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 141390,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/07gbjddL6AZ4PYKaviVMOQ"
@@ -4978,7 +4996,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 245773,
       "name": "California",
       "url": "https://open.spotify.com/track/6X7ij8jz33hp7xPe1Psn7r"
@@ -5782,7 +5800,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 164533,
       "name": "Cherry Cola",
       "url": "https://open.spotify.com/track/3aDVFROpHHBjfp53IqcxJv"
@@ -6262,7 +6280,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 231466,
       "name": "Cold Reactor",
       "url": "https://open.spotify.com/track/4HoOTJ8tM7ikMkEkoJTisX"
@@ -9086,7 +9104,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 230985,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/2c6DUvTVi7UkUXmnGmUxuf"
@@ -13586,7 +13604,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 242515,
       "name": "Haunt You Still",
       "url": "https://open.spotify.com/track/2Kgnj7OQEdaiFIayFmplKC"
@@ -13622,7 +13640,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 254690,
       "name": "Have A Go Heroes",
       "url": "https://open.spotify.com/track/0QDmbu0G8g8w8j8a7jnj6H"
@@ -15166,7 +15184,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 168805,
       "name": "I Might be Fake",
       "url": "https://open.spotify.com/track/7DTpqH64fSXDA3CuFxMAKE"
@@ -19612,7 +19630,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 207439,
       "name": "Make You Proud",
       "url": "https://open.spotify.com/track/2hyaYnjeDSqapulrcPph8z"
@@ -21416,7 +21434,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 229649,
       "name": "Never To Be Real",
       "url": "https://open.spotify.com/track/6cYArVpkURcyDOS5pzbjK9"
@@ -24799,6 +24817,24 @@
     },
     {
       "album": {
+        "name": "put me in a letter",
+        "url": "https://open.spotify.com/album/5GaUSrZHZMYIk7bCacnfIO"
+      },
+      "artists": [
+        {
+          "name": "The Stoned Immaculate",
+          "url": "https://open.spotify.com/artist/489qMO8HPBkYqffqFYwC3u"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197075,
+      "name": "put me in a letter",
+      "url": "https://open.spotify.com/track/0hIpPG3fQP9CZfxf2cx60Q"
+    },
+    {
+      "album": {
         "name": "Nothing Sacred",
         "url": "https://open.spotify.com/album/0DmGruRtuY0lgYGyQ2rloO"
       },
@@ -26058,7 +26094,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 173028,
       "name": "Run Run Run",
       "url": "https://open.spotify.com/track/08SkuBh4lrdQTthEc3J1kN"
@@ -27384,7 +27420,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 155695,
       "name": "Simply Paradise",
       "url": "https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ"
@@ -29724,7 +29760,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 268148,
       "name": "Sunday Afternoon",
       "url": "https://open.spotify.com/track/24s5j6ewZVXK460jEVI1h1"
@@ -30920,6 +30956,24 @@
       "duration_ms": 209932,
       "name": "terra firma (feat. Mount Palomar)",
       "url": "https://open.spotify.com/track/20MXSryByGbUjSw8Wzp1ew"
+    },
+    {
+      "album": {
+        "name": "Texas Girl",
+        "url": "https://open.spotify.com/album/3YBYb8XaJu8JB6MCSb9em5"
+      },
+      "artists": [
+        {
+          "name": "pigbaby",
+          "url": "https://open.spotify.com/artist/6bY6N1PHP9mSt8fZ1V2hHd"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 607000,
+      "name": "Texas Girl",
+      "url": "https://open.spotify.com/track/2ZlPMqXaw2AuGFI9FPmwR4"
     },
     {
       "album": {
@@ -32250,7 +32304,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 294396,
       "name": "Thick Skull (Re: Julien Baker)",
       "url": "https://open.spotify.com/track/7JH2H8oc2LfcEfiiEN0mML"
@@ -34792,7 +34846,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 231428,
       "name": "what happens now?",
       "url": "https://open.spotify.com/track/6ld5DgTtCH1Glbl0pfNxde"
@@ -35924,7 +35978,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 234448,
       "name": "You First (Re: Remi Wolf)",
       "url": "https://open.spotify.com/track/4w34xOG4R20bcijSufbq8l"

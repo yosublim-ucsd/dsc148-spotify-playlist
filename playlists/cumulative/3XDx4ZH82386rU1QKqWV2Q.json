@@ -1981,6 +1981,24 @@
     },
     {
       "album": {
+        "name": "DRXFT",
+        "url": "https://open.spotify.com/album/6kvY3tlx9OcdHEymKFvdBu"
+      },
+      "artists": [
+        {
+          "name": "GXTHMODE",
+          "url": "https://open.spotify.com/artist/1p3418t2jRBA2ttFkBMMhT"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96599,
+      "name": "DRXFT",
+      "url": "https://open.spotify.com/track/6cI4mcLDQHchYhcQpoiDi5"
+    },
+    {
+      "album": {
         "name": "Duro Pa Duro",
         "url": "https://open.spotify.com/album/6od5TBG7oA5mQ0NvEFiGKx"
       },
@@ -5083,6 +5101,24 @@
     },
     {
       "album": {
+        "name": "ONE GOOD SCARE",
+        "url": "https://open.spotify.com/album/2p0aDqg3nxHtYkH8atyTzo"
+      },
+      "artists": [
+        {
+          "name": "BOOGEYMVN",
+          "url": "https://open.spotify.com/artist/6PCexaOMXM5GALQuF1WgLV"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Netflix and Kill",
+      "url": "https://open.spotify.com/track/3MrGoHZzskvzIZ6Lfe8v4v"
+    },
+    {
+      "album": {
         "name": "4!",
         "url": "https://open.spotify.com/album/5Gn2RCN95GAiu656ENCgGb"
       },
@@ -6043,6 +6079,24 @@
     },
     {
       "album": {
+        "name": "Regicide",
+        "url": "https://open.spotify.com/album/0Op2o7M3BEXbfWkOEUZRCc"
+      },
+      "artists": [
+        {
+          "name": "SAVAS",
+          "url": "https://open.spotify.com/artist/5gNZeyVKgWnO0V9i3XUNYs"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129103,
+      "name": "Regicide",
+      "url": "https://open.spotify.com/track/6h05oCNZCBAQqLpmywEki5"
+    },
+    {
+      "album": {
         "name": "REI DO BRASIL",
         "url": "https://open.spotify.com/album/5rDznSixlUXNxJySfWQNb7"
       },
@@ -6744,6 +6798,24 @@
       "duration_ms": 109325,
       "name": "SKULLcrusher",
       "url": "https://open.spotify.com/track/7fDHtRKuVKXU555SsX8hAc"
+    },
+    {
+      "album": {
+        "name": "SKYBRAIN",
+        "url": "https://open.spotify.com/album/6lQIMyQGe68OcwCMZyfFBu"
+      },
+      "artists": [
+        {
+          "name": "NIGHTHAVVK",
+          "url": "https://open.spotify.com/artist/6xLEm2hwUy19nyzwWPoUNt"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "SKYBRAIN",
+      "url": "https://open.spotify.com/track/0hMF9JZmQDneq3U5LAlQ26"
     },
     {
       "album": {

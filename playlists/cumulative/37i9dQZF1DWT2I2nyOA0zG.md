@@ -4,7 +4,7 @@
 
 > Cool vibes from the African continent.
 
-271 songs - 15 hr 23 min
+272 songs - 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,7 +176,7 @@
 | [No No No](https://open.spotify.com/track/1zhw7Isr1B4UdYUrALHXhJ) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [José Louis And The Paradox Of Love](https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf) | 3:00 | 2022-04-28 | 2023-04-28 |
 | [No Pressure](https://open.spotify.com/track/2ZfwMwiJnti8JUZAHzvBnG) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [No Pressure](https://open.spotify.com/album/6DB4harKpwZ2IYfwsV6Qs8) | 2:57 | 2022-03-11 | 2023-07-29 |
 | [No Stress](https://open.spotify.com/track/06i7ObzxiHaT2dmRBTPTsj) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [No Stress / Mawe](https://open.spotify.com/album/62yWidZfJ8W73jEdXhtWEg) | 3:05 | 2023-02-16 | 2023-03-18 |
-| [No Stress](https://open.spotify.com/track/5C3vZiMOn2KHMbNQOhL6oQ) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:22 | 2021-10-11 |  |
+| [No Stress](https://open.spotify.com/track/5C3vZiMOn2KHMbNQOhL6oQ) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:22 | 2021-10-11 | 2023-12-22 |
 | [Obiaa](https://open.spotify.com/track/3MEEjxaV8fg5BUpV66b86G) | [Akwaboah](https://open.spotify.com/artist/6v01kW0IoqZBoLYu8ZS46Y), [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO) | [Lighthouse EP](https://open.spotify.com/album/5x6h4sq7bNekBjnBoeGHaN) | 4:15 | 2021-12-09 | 2022-07-29 |
 | [Obim](https://open.spotify.com/track/4O3AQrBYTZczhClmQK2tlC) | [Timi Dakolo](https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK), [Ebuka](https://open.spotify.com/artist/3bFNq4unsNxIqTbbDsMj9F), [Noble Igwe](https://open.spotify.com/artist/1m4RS5YwWPbj2S4efc9q92) | [Obim](https://open.spotify.com/album/0joGRMNQHyTZaRWARhKKX1) | 3:53 | 2021-12-02 | 2022-01-28 |
 | [Ogogoro \(with Bas & Ayra Starr\)](https://open.spotify.com/track/72Cn4VmfpwAZk3NHVEplYx) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 2:30 | 2023-03-17 | 2023-11-14 |
@@ -247,6 +247,7 @@
 | [Sugar](https://open.spotify.com/track/3FkuwslAokF99ZLHtFRuAv) | [WNDRSZN](https://open.spotify.com/artist/7FaCY1DObpp7QO3S9f0RyQ) | [Sugar](https://open.spotify.com/album/4zZ2eYh53WkCkY0ixzKZEf) | 3:38 | 2021-12-09 | 2022-07-26 |
 | [Summer Breeze](https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Summer Breeze](https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb) | 3:58 | 2023-06-09 |  |
 | [Summer Bunny](https://open.spotify.com/track/725WKeorPfCOA52X6QE4Uw) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Summer Bunny](https://open.spotify.com/album/488FJXx0HPDnNvNlOB1sAA) | 3:00 | 2021-11-25 | 2022-02-25 |
+| [Sunkwa](https://open.spotify.com/track/7MM1ADW5xnIGkxG8N3kkHP) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [Evergreen](https://open.spotify.com/album/1Bl9nHpcgJFp5rwcHCyV4Y) | 2:50 | 2023-12-22 |  |
 | [Sunset In Batumi](https://open.spotify.com/track/1Dm4dJVaraUcG5HaHVAKdU) | [Dawda Jobarteh](https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh), [Admeta String Quartet](https://open.spotify.com/artist/3zGI2zcyF1HEThYWHNHxzy) | [Soaring Wild Lands](https://open.spotify.com/album/71QcV4UVTjh0FBLehkuDKF) | 5:27 | 2022-02-11 | 2022-02-25 |
 | [Superwoman](https://open.spotify.com/track/6YyUMeQUw12vjfgaDoQE8x) | [Blaq Jerzee](https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Superwoman](https://open.spotify.com/album/5mAMflnIgAKMi2IV4VDx06) | 3:12 | 2022-11-25 | 2023-09-15 |
 | [Sweet Adetola](https://open.spotify.com/track/50DVJK20wORh3uG8Y8IDZe) | [Falana](https://open.spotify.com/artist/1OzwSkNJ5OCaMAgdnBFguj) | [Rising](https://open.spotify.com/album/4165s6MN7MgxpMbMjcgMOo) | 3:46 | 2021-10-15 | 2023-02-04 |

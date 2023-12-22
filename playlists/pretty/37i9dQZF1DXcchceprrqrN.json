@@ -1,12 +1,12 @@
 {
   "description": "self-reinvention never sounded so good.",
-  "num_followers": 66767,
+  "num_followers": 66851,
   "original_name": "hair dye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGJjNmIzYjAwZjlkNDM0MzdlY2ZkYTMyOWE3Y2NiMjBjYmQ4MDZi",
+  "snapshot_id": "MCxkYzNjMzZiZTQ4MGE4NzBiZDkwMjgwMzA4ZWRlNGQ2ZTIxMjNiZWQ3",
   "tracks": [
     {
       "added_at": "2023-12-06 16:27:02",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-12-06 16:27:02",
       "album": {
+        "name": "Every Where Is Some Where",
+        "url": "https://open.spotify.com/album/5ddpf5pxYjw9ob4DjPLuiz"
+      },
+      "artists": [
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "duration_ms": 188706,
+      "name": "Blood In The Cut",
+      "url": "https://open.spotify.com/track/4q604hQba5940BbOoaenmz"
+    },
+    {
+      "added_at": "2023-12-06 16:27:02",
+      "album": {
         "name": "Cool It Down",
         "url": "https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 257746,
       "name": "Spitting Off the Edge of the World",
       "url": "https://open.spotify.com/track/0JX23XA8E7aN1Chj32kgVn"
-    },
-    {
-      "added_at": "2023-12-06 16:27:02",
-      "album": {
-        "name": "Every Where Is Some Where",
-        "url": "https://open.spotify.com/album/5ddpf5pxYjw9ob4DjPLuiz"
-      },
-      "artists": [
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
-        }
-      ],
-      "duration_ms": 188706,
-      "name": "Blood In The Cut",
-      "url": "https://open.spotify.com/track/4q604hQba5940BbOoaenmz"
     },
     {
       "added_at": "2023-12-06 16:27:02",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-12-06 16:27:02",
       "album": {
-        "name": "CRAWLER",
-        "url": "https://open.spotify.com/album/27ygqCfb4dXQ3jyXnC58FU"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 260519,
-      "name": "Crawl!",
-      "url": "https://open.spotify.com/track/2zHbgdtai9PfsWnIIN8qzR"
-    },
-    {
-      "added_at": "2023-12-06 16:27:02",
-      "album": {
         "name": "Spiritual Cramp",
         "url": "https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 155280,
       "name": "Talkin' On The Internet",
       "url": "https://open.spotify.com/track/35u6OtruMBLZYAouGUzRSH"
+    },
+    {
+      "added_at": "2023-12-06 16:27:02",
+      "album": {
+        "name": "CRAWLER",
+        "url": "https://open.spotify.com/album/27ygqCfb4dXQ3jyXnC58FU"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 260519,
+      "name": "Crawl!",
+      "url": "https://open.spotify.com/track/2zHbgdtai9PfsWnIIN8qzR"
     },
     {
       "added_at": "2023-12-06 16:27:02",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-12-06 16:27:02",
       "album": {
-        "name": "The Frights",
-        "url": "https://open.spotify.com/album/4gCxVCBV1bThixzOFIkZB0"
-      },
-      "artists": [
-        {
-          "name": "The Frights",
-          "url": "https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX"
-        }
-      ],
-      "duration_ms": 259239,
-      "name": "Crust Bucket",
-      "url": "https://open.spotify.com/track/6YWtvUPKgCYSiPDBuAjj0Q"
-    },
-    {
-      "added_at": "2023-12-06 16:27:02",
-      "album": {
         "name": "Any Shape You Take",
         "url": "https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 260355,
       "name": "Kill Me",
       "url": "https://open.spotify.com/track/66N8I6v00iQFPd56yU7dXf"
+    },
+    {
+      "added_at": "2023-12-06 16:27:02",
+      "album": {
+        "name": "The Frights",
+        "url": "https://open.spotify.com/album/4gCxVCBV1bThixzOFIkZB0"
+      },
+      "artists": [
+        {
+          "name": "The Frights",
+          "url": "https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX"
+        }
+      ],
+      "duration_ms": 259239,
+      "name": "Crust Bucket",
+      "url": "https://open.spotify.com/track/6YWtvUPKgCYSiPDBuAjj0Q"
     },
     {
       "added_at": "2023-12-06 16:27:02",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-12-06 16:27:02",
       "album": {
-        "name": "Jackie",
-        "url": "https://open.spotify.com/album/46NN2xLB1GwUaus8CeUw4d"
-      },
-      "artists": [
-        {
-          "name": "Yves Tumor",
-          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
-        }
-      ],
-      "duration_ms": 176346,
-      "name": "Jackie",
-      "url": "https://open.spotify.com/track/0iY3MXlrYO5HYQ1hJUCckf"
-    },
-    {
-      "added_at": "2023-12-06 16:27:02",
-      "album": {
         "name": "Lucky For You",
         "url": "https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 160266,
       "name": "Days Move Slow",
       "url": "https://open.spotify.com/track/1J3yWZC6J1lEaCrWrRx8Ni"
+    },
+    {
+      "added_at": "2023-12-06 16:27:02",
+      "album": {
+        "name": "Jackie",
+        "url": "https://open.spotify.com/album/46NN2xLB1GwUaus8CeUw4d"
+      },
+      "artists": [
+        {
+          "name": "Yves Tumor",
+          "url": "https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS"
+        }
+      ],
+      "duration_ms": 176346,
+      "name": "Jackie",
+      "url": "https://open.spotify.com/track/0iY3MXlrYO5HYQ1hJUCckf"
     },
     {
       "added_at": "2023-12-06 16:27:02",

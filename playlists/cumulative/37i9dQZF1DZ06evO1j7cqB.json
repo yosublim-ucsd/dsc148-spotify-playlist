@@ -934,7 +934,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 104680,
       "name": "Pull of the Light (feat. Eiv\u00f8r)",
       "url": "https://open.spotify.com/track/6eGTqJ4IpQPqPrMMjCbdt2"
@@ -974,7 +974,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-04",
+      "date_removed": null,
       "duration_ms": 313663,
       "name": "Svartalfheim (feat. Eiv\u00f8r)",
       "url": "https://open.spotify.com/track/7GXY8BJNXf2fK4aATVswz8"
@@ -1173,6 +1173,24 @@
     },
     {
       "album": {
+        "name": "God of War Ragnar\u00f6k: Valhalla (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2j8WG0EzaUgsmSy2iPIwJZ"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 507893,
+      "name": "The Path",
+      "url": "https://open.spotify.com/track/1LIXGhj15OAJh8M1EstmhO"
+    },
+    {
+      "album": {
         "name": "The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2"
       },
@@ -1318,7 +1336,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 135893,
       "name": "To the Begging I Will Go",
       "url": "https://open.spotify.com/track/6fgl77WtVLCveA6IPmLvXX"

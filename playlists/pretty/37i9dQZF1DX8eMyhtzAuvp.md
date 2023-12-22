@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eMyhtzAuvp.md) - [plain]
 
 > Settle into Winter's quiet reverie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,006 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,072 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eMyhtzAuvp.md) - [plain]
 | 49 | [How to Disappear Completely](https://open.spotify.com/track/7hFmiFUYmIjELj5d0UjbVh) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [KID A MNESIA](https://open.spotify.com/album/6ofEQubaL265rIW6WnCU8y) | 5:56 |
 | 50 | [Crosses](https://open.spotify.com/track/0ByKWq0hsuYriK5avSMJ5r) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:42 |
 
-Snapshot ID: `MCxhNTJmMzc0MGI5YzI1OWJhOWFmNGI4MTMyNmI4YjY0ZjNhMDdhNDU0`
+Snapshot ID: `MCxkZmE5ZTBiZTg2MzFlYzcxNzQ2NjY5OTk2NTBkOTEzYjU4ODhmOWVm`

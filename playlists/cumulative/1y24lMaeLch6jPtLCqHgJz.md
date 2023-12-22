@@ -4,7 +4,7 @@
 
 > Festival Music 2024 \- Tomorrowland 2024 \- Festival Songs \- EDM Music \- Electronic Music \- Rave Music \- EDM Songs \- best festival music \- best festival songs
 
-266 songs - 13 hr 41 min
+267 songs - 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Animals](https://open.spotify.com/track/0A9mHc7oYUoCECqByV8cQR) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Animals](https://open.spotify.com/album/4Xs4NI3J2Nf9eSUqvW7GBn) | 5:04 | 2023-09-08 |  |
 | [Antidote](https://open.spotify.com/track/6qIEUT4vS2g2g8EgqOS62o) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy) | [Antidote](https://open.spotify.com/album/2eBWEtVvAtX1Ajoh0VKogz) | 3:08 | 2023-02-24 | 2023-06-03 |
 | [Anybody Out There](https://open.spotify.com/track/1RNVJLDH2ZtLIkUqQd9QxI) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO) | [Anybody Out There](https://open.spotify.com/album/5SRLMR7GftfOdciVf9DjKM) | 3:08 | 2023-06-30 |  |
+| [Anybody Out There \- Keanu Silva Remix](https://open.spotify.com/track/5hxKlTpjhp4SU8R7HGHuev) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO) | [Anybody Out There \(The Remixes\)](https://open.spotify.com/album/61G1ZfB0GEK0809oWXRiCk) | 2:46 | 2023-12-21 |  |
 | [Apart Together](https://open.spotify.com/track/0X7YZdWOn5deNtx5WUJZGV) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq) | [\#aparttogether](https://open.spotify.com/album/69gjrVGn8OAOGfCz5jAuLC) | 3:33 | 2022-07-29 | 2023-04-14 |
 | [Apollo \- SICK INDIVIDUALS Remix](https://open.spotify.com/track/03PgbAWbsMhzaJc8uK3AyU) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Revealed 10 Year Anniversary Remixed](https://open.spotify.com/album/4Pn9DreQQj0WtcNqDeBc7S) | 3:33 | 2022-07-29 | 2023-07-29 |
 | [Ascend](https://open.spotify.com/track/199wv1uOJYZ1XyK8FTzwh2) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD) | [Ascend](https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk) | 3:20 | 2023-11-21 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWVlMDJkMjFjYTcyMzk5ZWUyMjYwYTdkMjhmZDJkYWRiZjNkMDhl",
+  "snapshot_id": "MCw3YWRlMzhlZWFlMmI0MTE2NjZlZTg4NGY4Mzc2MGQ2ZWNmNzNiMWMy",
   "tracks": [
     {
       "added_at": "2021-09-10 04:35:25",
@@ -315,22 +315,18 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
-        "name": "Der Bote",
-        "url": "https://open.spotify.com/album/2FCodoLjwxOlCuK7KbUOMq"
+        "name": "Who Are You",
+        "url": "https://open.spotify.com/album/3IlpmrOKZkuPNopf0WCk1F"
       },
       "artists": [
         {
-          "name": "John Cage",
-          "url": "https://open.spotify.com/artist/1Z3fF5lZdCM0ZHugkGoH8s"
-        },
-        {
-          "name": "Alexei Lubimov",
-          "url": "https://open.spotify.com/artist/0604Eow92EXTCLStZOUNlG"
+          "name": "E Ruscha V",
+          "url": "https://open.spotify.com/artist/0NOdYxMmwVSeIshVxo6eVE"
         }
       ],
-      "duration_ms": 531826,
-      "name": "In a Landscape",
-      "url": "https://open.spotify.com/track/1qbrS9PKOzsack0g7LiBhh"
+      "duration_ms": 124265,
+      "name": "The Hostess",
+      "url": "https://open.spotify.com/track/0ZibOOMZvxb78LLTzkogKL"
     },
     {
       "added_at": "2023-12-20 04:38:46",
@@ -351,6 +347,26 @@
     {
       "added_at": "2021-09-10 04:35:25",
       "album": {
+        "name": "Der Bote",
+        "url": "https://open.spotify.com/album/2FCodoLjwxOlCuK7KbUOMq"
+      },
+      "artists": [
+        {
+          "name": "John Cage",
+          "url": "https://open.spotify.com/artist/1Z3fF5lZdCM0ZHugkGoH8s"
+        },
+        {
+          "name": "Alexei Lubimov",
+          "url": "https://open.spotify.com/artist/0604Eow92EXTCLStZOUNlG"
+        }
+      ],
+      "duration_ms": 531826,
+      "name": "In a Landscape",
+      "url": "https://open.spotify.com/track/1qbrS9PKOzsack0g7LiBhh"
+    },
+    {
+      "added_at": "2021-09-10 04:35:25",
+      "album": {
         "name": "Silver Ladders",
         "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 226876,
       "name": "Sometimes He's In My Dreams",
       "url": "https://open.spotify.com/track/2BQplCyfCnTV5RvDYBz9UB"
-    },
-    {
-      "added_at": "2021-09-10 04:35:25",
-      "album": {
-        "name": "Who Are You",
-        "url": "https://open.spotify.com/album/3IlpmrOKZkuPNopf0WCk1F"
-      },
-      "artists": [
-        {
-          "name": "E Ruscha V",
-          "url": "https://open.spotify.com/artist/0NOdYxMmwVSeIshVxo6eVE"
-        }
-      ],
-      "duration_ms": 124265,
-      "name": "The Hostess",
-      "url": "https://open.spotify.com/track/0ZibOOMZvxb78LLTzkogKL"
     },
     {
       "added_at": "2021-09-10 04:35:25",

@@ -2,9 +2,9 @@
 
 ### [VOLUME FRANCE](https://open.spotify.com/playlist/37i9dQZF1DX8HxJlVUR3HN)
 
-> Les meilleures nouveautés de la scène rock française\. Photo : Delgrès
+> Les meilleures nouveautés de la scène rock française\. Photo : Shaka Ponk
 
-110 songs - 6 hr 35 min
+113 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Nimh](https://open.spotify.com/track/075VP0RTD4nsbMV7EhJD8O) | [SLIFT](https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO) | [Nimh](https://open.spotify.com/album/4ii1wCmU3rG3ypMJlMZlAW) | 9:38 | 2023-12-08 |  |
 | [No Way Back](https://open.spotify.com/track/1LOfgqLOdbYOaIUpMNQWqQ) | [Your New Favorite Tape](https://open.spotify.com/artist/4ENnggxXjjdhEKsUwiH2JP) | [No Way Back](https://open.spotify.com/album/1wA9xFBmCIQ86l91WEQvMi) | 2:12 | 2023-09-28 | 2023-11-10 |
 | [On My Mind](https://open.spotify.com/track/6BrXzU8dYbWBn1uOa3gfM8) | [HEY LIFE](https://open.spotify.com/artist/1MnMtr6vo41XzjwgRvD5wf) | [On My Mind](https://open.spotify.com/album/5Tc3N95b5Zg5u18ujeu1me) | 2:54 | 2023-09-28 | 2023-12-15 |
-| [OWL IN OWL](https://open.spotify.com/track/6YkjlCD3MOYl6YBdBohKdC) | [Duckblockers](https://open.spotify.com/artist/32ddgCA0JOyQIpq42h4tYP) | [OWL IN OWL](https://open.spotify.com/album/1CpujWPVAXNKIrkDFyd4R7) | 3:16 | 2023-11-16 |  |
+| [OWL IN OWL](https://open.spotify.com/track/6YkjlCD3MOYl6YBdBohKdC) | [Duckblockers](https://open.spotify.com/artist/32ddgCA0JOyQIpq42h4tYP) | [OWL IN OWL](https://open.spotify.com/album/1CpujWPVAXNKIrkDFyd4R7) | 3:16 | 2023-11-16 | 2023-12-22 |
 | [Passenger](https://open.spotify.com/track/4p6yyTfYGOGWwNtxVMEHmj) | [HEADKEYZ](https://open.spotify.com/artist/0MDzWEPptdrc3gVDWyL9ea) | [The Cage & The Crown : Chapter I](https://open.spotify.com/album/7lTD1qTndWk7eQ3skC9nkK) | 4:03 | 2023-09-28 | 2023-10-27 |
 | [Perdu !](https://open.spotify.com/track/3PIF5IalvXFUmghnlRqRMY) | [Deportivo](https://open.spotify.com/artist/7k8b9tyD9a0WEoPgidHrGK) | [Perdu !](https://open.spotify.com/album/2P5iy6qfhAlVh1eDCTqky1) | 1:59 | 2023-09-28 | 2023-10-13 |
 | [Powerback](https://open.spotify.com/track/4tXM3eS5yTpZXRRfCN5uby) | [Shady Fat Kats](https://open.spotify.com/artist/2ZgDtiPPJJhephke84L7BD) | [Powerback](https://open.spotify.com/album/05dhsqbUKJoc6pvyfnY3dI) | 3:45 | 2023-10-05 | 2023-10-20 |
@@ -85,13 +85,15 @@
 | [Raindrops](https://open.spotify.com/track/2rYwrGzzu9p1t6TKZI5WF2) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Raindrops](https://open.spotify.com/album/5AlTB1HLuVSpwjVmgmizoo) | 2:30 | 2023-11-23 |  |
 | [Real Countdown](https://open.spotify.com/track/3UDDYFwQpb073iwaO7oDa4) | [Ponta Preta](https://open.spotify.com/artist/4yJHzoFmD1ysQRd3qDR37e) | [Way out West!](https://open.spotify.com/album/3kjpB1Aze30GpLmJtVpdSd) | 4:54 | 2023-09-28 | 2023-10-06 |
 | [Regenerated](https://open.spotify.com/track/1syfjH2Wx6MclvB7YFkUbB) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Regenerated](https://open.spotify.com/album/1j3UI9RfjPrA0lAfNFTdqo) | 3:22 | 2023-09-28 | 2023-11-17 |
-| [Running Out Of Time](https://open.spotify.com/track/5VUCoNhF7GjWKLClT4ZEwa) | [Dirty Fonzy](https://open.spotify.com/artist/2o8W6N7UkMBsAeVmyRYW4Y) | [Full Speed Ahead](https://open.spotify.com/album/18K13PNqBlXauJxLZpN65v) | 3:39 | 2023-12-08 |  |
+| [Running Out Of Time](https://open.spotify.com/track/5VUCoNhF7GjWKLClT4ZEwa) | [Dirty Fonzy](https://open.spotify.com/artist/2o8W6N7UkMBsAeVmyRYW4Y) | [Full Speed Ahead](https://open.spotify.com/album/18K13PNqBlXauJxLZpN65v) | 3:39 | 2023-12-08 | 2023-12-22 |
 | [Sassy Sunday](https://open.spotify.com/track/1R1N8GhNKdBS3FZXatFuXn) | [Villa Scandal](https://open.spotify.com/artist/0L6WTtHcGGRPP8JKQHkAhW) | [Sassy Sunday](https://open.spotify.com/album/7tVtlnZ2lVOter8U8gJmcy) | 3:11 | 2023-09-28 | 2023-11-17 |
 | [Satin Fields](https://open.spotify.com/track/2QGEFaga6yyx981dA0dnYG) | [Holydanger](https://open.spotify.com/artist/0DFV3qOyMWdIbKTbHbEqFh) | [Satin Fields](https://open.spotify.com/album/36jIxj7kbRayVs0hL6fUIS) | 4:09 | 2023-09-28 | 2023-10-20 |
 | [Scatterbrain](https://open.spotify.com/track/6bvf9UBmxgD8CzroXEkPYr) | [DYE CRAP](https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x) | [Life Is Unfair](https://open.spotify.com/album/5QTtQjMlep4CE3893O1Nwo) | 2:15 | 2023-10-19 | 2023-11-17 |
 | [Serotonin](https://open.spotify.com/track/4bG8gUgiCbnGrcjgdBrm3F) | [PURRS](https://open.spotify.com/artist/0pwgKVwaPpV1hRl4ZSeyCx) | [Serotonin](https://open.spotify.com/album/2bNL3r3oBPFVAwk4s92ffj) | 4:23 | 2023-12-14 |  |
 | [Silly Dreams](https://open.spotify.com/track/1tuZGEBipGpUXYcz5u3lIx) | [Gurl](https://open.spotify.com/artist/4Fj5Yd9zJaMILwRxWlHSTB) | [Silly Dreams](https://open.spotify.com/album/1rw3wL6MeQmcyM4rbqTe7z) | 3:59 | 2023-09-28 |  |
+| [Slow Attack](https://open.spotify.com/track/1BwfyBdQnrvuL8bxpQkxBv) | [Mars Red Sky](https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ) | [Dawn of the Dusk](https://open.spotify.com/album/2hxdDwFuruximCModqB9Q7) | 4:50 | 2023-12-21 |  |
 | [SNAKES](https://open.spotify.com/track/4oF4avlVY1oxZKp7DFBOCY) | [YAOUNDÉBOXINGCLUB](https://open.spotify.com/artist/0DhFlKC8BmJcADqBXFEYZP) | [SNAKES](https://open.spotify.com/album/2rJqYCcDxFn1xvHIlfuQAk) | 3:11 | 2023-09-28 | 2023-11-10 |
+| [So Sadly](https://open.spotify.com/track/4WbmIh2FGxiuxut350IT39) | [SEX SHOP MUSHROOMS](https://open.spotify.com/artist/0rqXIZ2g1twsiHjOdxSD1G) | [So Sadly](https://open.spotify.com/album/0vUTFBdTuDSHmX0L61imRo) | 3:48 | 2023-12-21 |  |
 | [SOLO](https://open.spotify.com/track/6Qq8s0eASiHcvgbzsMTTo6) | [Sunborn](https://open.spotify.com/artist/39bLxLnMXWV7LMinf717gS) | [SOLO](https://open.spotify.com/album/0HboLHFNlLE9YKjvaKzDQQ) | 3:41 | 2023-09-28 | 2023-11-25 |
 | [Spin](https://open.spotify.com/track/2bbZeDduBJLuEqZKzGbJvf) | [Trainfantome](https://open.spotify.com/artist/7pG1EQuqeYlTh3J3jkCHfp) | [Spin](https://open.spotify.com/album/3sx15DWfaOrDxTEyzAUHCO) | 3:39 | 2023-10-05 | 2023-11-17 |
 | [Splendore Evolution](https://open.spotify.com/track/6sWIbAepi2KBs2sLttYqeD) | [Astonvilla](https://open.spotify.com/artist/3qNYZS3uNCwEA3Zn9gBsO7) | [Splendore Evolution](https://open.spotify.com/album/1MZeEPvgvGW86AIvg6F46u) | 3:07 | 2023-10-26 | 2023-12-01 |
@@ -99,12 +101,13 @@
 | [Strange Desire II](https://open.spotify.com/track/3SnmkxTuAY2XuRimbloqiG) | [Send Me Love Letters](https://open.spotify.com/artist/5RiWMf3FdQCkeAbwZXNcVk) | [Strange Desire](https://open.spotify.com/album/3juU6WucGVJ0ccA0XQyoDE) | 3:38 | 2023-09-28 | 2023-11-25 |
 | [Strange Feeling](https://open.spotify.com/track/1lQdGdF0LNzhy9v5os0pTS) | [Structures](https://open.spotify.com/artist/4uAJ9vbmemltkuu0D3gBHQ) | [Strange Feeling](https://open.spotify.com/album/2LRUyObrhcVkssuuhw3C3U) | 3:52 | 2023-09-28 | 2023-11-17 |
 | [Strong](https://open.spotify.com/track/578U1WgUClk2l3yCiGqn96) | [Droïd Fantôm](https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz) | [Emptiness Takes Time](https://open.spotify.com/album/7clwukTEsSttK4ZnGjj0lt) | 3:00 | 2023-11-30 |  |
+| [Strong as a Mountain](https://open.spotify.com/track/7HyzM5B70Sp3YnkpgapQjD) | [Movement At Night](https://open.spotify.com/artist/3npdUd8ZD22EJkpwOG47fE) | [Strong as a Mountain](https://open.spotify.com/album/42ADX4R2zkJZteAes3josI) | 3:23 | 2023-12-21 |  |
 | [Sugar Rush](https://open.spotify.com/track/4Q2guVruhbhzux6NApPTkP) | [Tip Stevens](https://open.spotify.com/artist/0dDbdyjsq9HEPNKPyNElgd) | [Sugar Rush](https://open.spotify.com/album/5lft83Fx1Dth0Frg1ptTUE) | 4:05 | 2023-09-28 | 2023-11-10 |
 | [Thank You/Maniac](https://open.spotify.com/track/1uNpK2GKKq7SRDnRLT2A4y) | [Servo](https://open.spotify.com/artist/6y5MFAfEupGez5ZLRYDHlN) | [Thank You/Maniac](https://open.spotify.com/album/56ywlwSmohBIYYAObUSISx) | 4:26 | 2023-11-09 |  |
 | [The Bell Behind The Door \- Radio Edit](https://open.spotify.com/track/23wkntyHN3cKC7rcKZ6OCL) | [Dynamite Shakers](https://open.spotify.com/artist/0T6jBctjBGXqRmXI2pe0aT) | [The Bell Behind The Door \(Radio Edit\)](https://open.spotify.com/album/2726pTdi2qf62oMoZaXLZq) | 2:51 | 2023-10-20 |  |
 | [The Clocks Are Bleeding](https://open.spotify.com/track/2WX9OLhzayGFjKk75r4zII) | [FUZETA](https://open.spotify.com/artist/1qlyhk1POBMOFpQ7LNANSO) | [The Clocks Are Bleeding](https://open.spotify.com/album/0ZgDrBXFnnUS4Hx6diFVWF) | 3:00 | 2023-12-14 |  |
 | [The Everything](https://open.spotify.com/track/5BM00f2FpjolxdSsAbExBQ) | [La Rosa](https://open.spotify.com/artist/3XX6YLm7pQFZZA8qo0MtmB) | [Born to Win](https://open.spotify.com/album/5z50zVDiNGT9Vgo09SHaWH) | 3:41 | 2023-12-08 |  |
-| [The Final Round](https://open.spotify.com/track/0Fp7CgSfxiaRQflg0GJRTo) | [Mars Red Sky](https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ) | [The Final Round](https://open.spotify.com/album/7ED0mR8FhScZEID6YUL6En) | 6:22 | 2023-11-23 |  |
+| [The Final Round](https://open.spotify.com/track/0Fp7CgSfxiaRQflg0GJRTo) | [Mars Red Sky](https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ) | [The Final Round](https://open.spotify.com/album/7ED0mR8FhScZEID6YUL6En) | 6:22 | 2023-11-23 | 2023-12-22 |
 | [The Light In The Dark](https://open.spotify.com/track/0fu8q5GyEqJa2cmOI5ghLC) | [Yvet Garden](https://open.spotify.com/artist/7km2jyK5bwl0DwikA4Ndd7) | [The Light in The Dark](https://open.spotify.com/album/40nX8H16qVDUuQwTHlLFGe) | 4:33 | 2023-09-28 |  |
 | [The One \- The One I'm Looking For](https://open.spotify.com/track/33XGpz2ytL5eClgi5DXDIN) | [The Twin Souls](https://open.spotify.com/artist/1D1y4lFX5eK45bX7nXlfFM), [Datcha Mandala](https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88) | [The One \(The One I'm Looking For\)](https://open.spotify.com/album/2IA3ckn9YMHtWyidjvz58F) | 2:41 | 2023-11-09 |  |
 | [The Plan](https://open.spotify.com/track/6aXsqO4vskXScn6EuLAvCz) | [Droïd Fantôm](https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz) | [The Plan](https://open.spotify.com/album/5Yl97xpCRkjy25qhOtNq9V) | 3:26 | 2023-11-23 |  |

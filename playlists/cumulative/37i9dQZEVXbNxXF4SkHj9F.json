@@ -1117,6 +1117,28 @@
     },
     {
       "album": {
+        "name": "All Or Nothing",
+        "url": "https://open.spotify.com/album/0fX4yqp5m7kwafHbF3e1qr"
+      },
+      "artists": [
+        {
+          "name": "J Money",
+          "url": "https://open.spotify.com/artist/6ma7eBrKihYrXcvdMNpnc5"
+        },
+        {
+          "name": "KingLee",
+          "url": "https://open.spotify.com/artist/2LWLcwnQRro1tCxeHgsYRj"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171481,
+      "name": "All Or Nothing",
+      "url": "https://open.spotify.com/track/264EQ3efdfDChq4PjuywR7"
+    },
+    {
+      "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
       },
@@ -1952,6 +1974,24 @@
       "duration_ms": 180563,
       "name": "Attention",
       "url": "https://open.spotify.com/track/6tTeRmhhuwDl5Y4UiJdHuO"
+    },
+    {
+      "album": {
+        "name": "NJWMX",
+        "url": "https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181400,
+      "name": "Attention (250 Remix)",
+      "url": "https://open.spotify.com/track/2nW48vXnZZ5EYka46v7GOk"
     },
     {
       "album": {
@@ -4446,7 +4486,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 170995,
       "name": "Closer to You (feat. Major Lazer)",
       "url": "https://open.spotify.com/track/06Qo2fYR2KS1F7bL338iVT"
@@ -16932,7 +16972,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 146684,
       "name": "Please Don't Change (feat. DJ Snake)",
       "url": "https://open.spotify.com/track/0k0GtcnyQLMiXrdEDbLXmJ"
@@ -18322,7 +18362,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-18",
+      "date_removed": null,
       "duration_ms": 174403,
       "name": "Rumble",
       "url": "https://open.spotify.com/track/33fUk4sBTnhJQnts8IGGBd"
@@ -20080,7 +20120,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-22",
       "duration_ms": 168599,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/5KfJvZ0PZzRdwFRaTUDAA7"

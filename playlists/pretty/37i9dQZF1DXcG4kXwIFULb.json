@@ -1,12 +1,12 @@
 {
   "description": "A look back at this fruitful era comprising trip-hop heavyweights, electronica's vanguard and everything in between.",
-  "num_followers": 144081,
+  "num_followers": 144140,
   "original_name": "Chillout Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjM0YzMxNGVhMDYwOWYxMjU1YzIwZjg2NWUzZmQxZTExNjhiYTg1",
+  "snapshot_id": "MCw0YjZmN2Q0ZjE5ZTBjOTFjZDNlZWI5NTVhMWMzOTBmZTk3NDkxNzAx",
   "tracks": [
     {
       "added_at": "2020-09-04 01:12:56",
@@ -407,6 +407,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Details",
+        "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
+      },
+      "artists": [
+        {
+          "name": "Frou Frou",
+          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
+        }
+      ],
+      "duration_ms": 253893,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "Radio Retaliation",
         "url": "https://open.spotify.com/album/6uhfP1BIgi9P4pkdX7gApL"
       },
@@ -439,18 +455,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Details",
-        "url": "https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc"
+        "name": "Flying Away",
+        "url": "https://open.spotify.com/album/52g3C6ZdK60MAWsiGxAQz1"
       },
       "artists": [
         {
-          "name": "Frou Frou",
-          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
+          "name": "Smoke City",
+          "url": "https://open.spotify.com/artist/76aD5RR474u5LVtrYxBKkF"
         }
       ],
-      "duration_ms": 253893,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3"
+      "duration_ms": 406000,
+      "name": "Underwater Love",
+      "url": "https://open.spotify.com/track/1vahbgf2hkAjBvYRtIo09F"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -471,22 +487,6 @@
       "duration_ms": 287776,
       "name": "Slip Into Something More Comfortable - Stephen Hague 2016 Mix",
       "url": "https://open.spotify.com/track/3iFrnwcE635aABiCZWULxP"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
-        "name": "Flying Away",
-        "url": "https://open.spotify.com/album/52g3C6ZdK60MAWsiGxAQz1"
-      },
-      "artists": [
-        {
-          "name": "Smoke City",
-          "url": "https://open.spotify.com/artist/76aD5RR474u5LVtrYxBKkF"
-        }
-      ],
-      "duration_ms": 406000,
-      "name": "Underwater Love",
-      "url": "https://open.spotify.com/track/1vahbgf2hkAjBvYRtIo09F"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -607,22 +607,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Endtroducing.....",
-        "url": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN"
-      },
-      "artists": [
-        {
-          "name": "DJ Shadow",
-          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
-        }
-      ],
-      "duration_ms": 399026,
-      "name": "Building Steam With A Grain Of Salt",
-      "url": "https://open.spotify.com/track/4Ms0GKHCtr5Lpg4dKOhO2I"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "In A Space Outta Sound",
         "url": "https://open.spotify.com/album/0SoMbQsPZTM8iA6HB5GSkg"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 324173,
       "name": "Flip Ya Lid",
       "url": "https://open.spotify.com/track/6qb76Rj7bFYI4ZafAYlH96"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Endtroducing.....",
+        "url": "https://open.spotify.com/album/4tUVkNYSFrrEqqrxBQW9PN"
+      },
+      "artists": [
+        {
+          "name": "DJ Shadow",
+          "url": "https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI"
+        }
+      ],
+      "duration_ms": 399026,
+      "name": "Building Steam With A Grain Of Salt",
+      "url": "https://open.spotify.com/track/4Ms0GKHCtr5Lpg4dKOhO2I"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -727,6 +727,22 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
+        "name": "Smokers Delight",
+        "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        }
+      ],
+      "duration_ms": 280266,
+      "name": "Nights Introlude",
+      "url": "https://open.spotify.com/track/5I6jxFTcbN8sHT3MPUeTAH"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
         "name": "The Garden",
         "url": "https://open.spotify.com/album/5eqHucyy09GuijWam8RAja"
       },
@@ -763,22 +779,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Constructions",
-        "url": "https://open.spotify.com/album/4Pe29bnChgivrOBbRsxLk3"
-      },
-      "artists": [
-        {
-          "name": "Sofa Surfers",
-          "url": "https://open.spotify.com/artist/0pNP0TPeyffi8QbE8U5D1X"
-        }
-      ],
-      "duration_ms": 308612,
-      "name": "Sofa Rockers - Richard Dorfmeister Remix",
-      "url": "https://open.spotify.com/track/6dfDcCymuavZngy46rSGMC"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "The 5th Exotic",
         "url": "https://open.spotify.com/album/2gO53EC0HUgRebzwSIWCfY"
       },
@@ -795,18 +795,18 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Smokers Delight",
-        "url": "https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K"
+        "name": "Constructions",
+        "url": "https://open.spotify.com/album/4Pe29bnChgivrOBbRsxLk3"
       },
       "artists": [
         {
-          "name": "Nightmares On Wax",
-          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+          "name": "Sofa Surfers",
+          "url": "https://open.spotify.com/artist/0pNP0TPeyffi8QbE8U5D1X"
         }
       ],
-      "duration_ms": 280266,
-      "name": "Nights Introlude",
-      "url": "https://open.spotify.com/track/5I6jxFTcbN8sHT3MPUeTAH"
+      "duration_ms": 308612,
+      "name": "Sofa Rockers - Richard Dorfmeister Remix",
+      "url": "https://open.spotify.com/track/6dfDcCymuavZngy46rSGMC"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Safe in the Steep Cliffs",
-        "url": "https://open.spotify.com/album/6NkSldA9yAJrDomtPAz1Zs"
-      },
-      "artists": [
-        {
-          "name": "Emancipator",
-          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
-        }
-      ],
-      "duration_ms": 250120,
-      "name": "Rattlesnakes",
-      "url": "https://open.spotify.com/track/1QgYQ3Qk4s3I1fj1sPknv5"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Felt Mountain",
         "url": "https://open.spotify.com/album/1SVCM1f5fGypJbIixT1Eed"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 258026,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/1dToJK56u2pOVA3S66OgPB"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Safe in the Steep Cliffs",
+        "url": "https://open.spotify.com/album/6NkSldA9yAJrDomtPAz1Zs"
+      },
+      "artists": [
+        {
+          "name": "Emancipator",
+          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
+        }
+      ],
+      "duration_ms": 250120,
+      "name": "Rattlesnakes",
+      "url": "https://open.spotify.com/track/1QgYQ3Qk4s3I1fj1sPknv5"
     },
     {
       "added_at": "2020-09-04 01:12:56",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2020-09-04 01:12:56",
       "album": {
-        "name": "Leftism",
-        "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
-      },
-      "artists": [
-        {
-          "name": "Leftfield",
-          "url": "https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L"
-        }
-      ],
-      "duration_ms": 312333,
-      "name": "Melt - Remastered",
-      "url": "https://open.spotify.com/track/5XoUmYzWa8YTaxxV9DWEU3"
-    },
-    {
-      "added_at": "2020-09-04 01:12:56",
-      "album": {
         "name": "Foxbase Alpha",
         "url": "https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 261000,
       "name": "Nothing Can Stop Us",
       "url": "https://open.spotify.com/track/3izKffzHXSwXdhtJ9DasZU"
+    },
+    {
+      "added_at": "2020-09-04 01:12:56",
+      "album": {
+        "name": "Leftism",
+        "url": "https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp"
+      },
+      "artists": [
+        {
+          "name": "Leftfield",
+          "url": "https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L"
+        }
+      ],
+      "duration_ms": 312333,
+      "name": "Melt - Remastered",
+      "url": "https://open.spotify.com/track/5XoUmYzWa8YTaxxV9DWEU3"
     },
     {
       "added_at": "2020-09-04 01:12:56",
