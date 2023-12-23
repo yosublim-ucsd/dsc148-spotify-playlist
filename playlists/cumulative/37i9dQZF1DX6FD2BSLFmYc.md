@@ -4,7 +4,7 @@
 
 > Encuentra la paz interior con esencias y vibraciones místicas.
 
-128 songs - 8 hr 19 min
+129 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [A Map of Arctic Treasures](https://open.spotify.com/track/1d9NKMiAqDevp5SFQl5Krs) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [A Map of Arctic Treasures](https://open.spotify.com/album/2ViOzWLXwfzpXep7NWp08N) | 2:30 | 2022-07-18 | 2022-07-29 |
 | [A Map of Arctic Treasures](https://open.spotify.com/track/4EHBYjvmt8605vrzPLtIPu) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [A Map of Arctic Treasures](https://open.spotify.com/album/0sUmoHdutXf102FCxIxn0D) | 2:30 | 2022-07-18 |  |
 | [A New Life Awaits](https://open.spotify.com/track/1gFkZFfUqtcImJLh932LUc) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [A New Life Awaits](https://open.spotify.com/album/1U7piTwkxpvtNew3eVRWyr) | 3:17 | 2022-07-18 |  |
-| [A Prayer to Dispel Sickness and Harm](https://open.spotify.com/track/3Umg3h2GYJ3vv4LH253wVp) | [Kelsang Chukie Tethong](https://open.spotify.com/artist/4Cmf9jS7jDovDDUDXul2LS) | [Putumayo Presents World Yoga](https://open.spotify.com/album/7tytEAPRW0BZo4cAWMnbLB) | 4:52 | 2022-07-18 |  |
+| [A Prayer to Dispel Sickness and Harm](https://open.spotify.com/track/3Umg3h2GYJ3vv4LH253wVp) | [Kelsang Chukie Tethong](https://open.spotify.com/artist/4Cmf9jS7jDovDDUDXul2LS) | [Putumayo Presents World Yoga](https://open.spotify.com/album/7tytEAPRW0BZo4cAWMnbLB) | 4:52 | 2022-07-18 | 2023-12-23 |
+| [A Prayer to Dispel Sickness and Harm](https://open.spotify.com/track/5EuimjtVGkKmRVnuuVGzd5) | [Kelsang Chukie Tethong](https://open.spotify.com/artist/4Cmf9jS7jDovDDUDXul2LS) | [Putumayo Presents World Yoga](https://open.spotify.com/album/1ZSdMCRDh2dInEgRqFDZOq) | 4:52 | 2023-04-26 |  |
 | [A State of Serenity](https://open.spotify.com/track/176IOSw9ni8nujE5dohokG) | [Magnetic Dreams](https://open.spotify.com/artist/5DsqLNucfAOaAj3yEWefJc) | [A State of Serenity](https://open.spotify.com/album/57igbGHTL6IlAtYAbN15PV) | 2:18 | 2022-07-18 |  |
 | [A State of Serenity](https://open.spotify.com/track/2X5ft2Wr7rKNWOIq95r4jN) | [Magnetic Dreams](https://open.spotify.com/artist/5DsqLNucfAOaAj3yEWefJc) | [A State of Serenity](https://open.spotify.com/album/4cRhOKD4JYSYT3m6rCoadt) | 2:18 | 2022-07-18 | 2022-07-29 |
 | [Aamani](https://open.spotify.com/track/4XnDI3ILPViOW41CExGjtt) | [Mathura Horizon](https://open.spotify.com/artist/6uEOyPNPXNONqZlwhsOMSm) | [Aamani](https://open.spotify.com/album/03AsF5mqDr8QiokyguydHT) | 2:42 | 2023-03-22 |  |

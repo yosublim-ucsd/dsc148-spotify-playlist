@@ -305,6 +305,24 @@
     },
     {
       "album": {
+        "name": "Body Movin",
+        "url": "https://open.spotify.com/album/1RMGo1LvwPz62gkkWOxSWb"
+      },
+      "artists": [
+        {
+          "name": "Tony Dark Eyes",
+          "url": "https://open.spotify.com/artist/3aJBHJUwHkjkGQ4zkG93HP"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Body Movin",
+      "url": "https://open.spotify.com/track/1avxb29PtG3NgJrJEg0ZU3"
+    },
+    {
+      "album": {
         "name": "EL SUR",
         "url": "https://open.spotify.com/album/6l6smfQXJMgSCPpsWkUiLi"
       },
@@ -947,6 +965,28 @@
     },
     {
       "album": {
+        "name": "DIOSA </3",
+        "url": "https://open.spotify.com/album/0VLnBu9H8pdKpHfCEHFQFw"
+      },
+      "artists": [
+        {
+          "name": "Nuvia",
+          "url": "https://open.spotify.com/artist/3HiSZSqHOEC9RkeDbpVMGJ"
+        },
+        {
+          "name": "Rodezel",
+          "url": "https://open.spotify.com/artist/6YPJT86SRYIhlWemoNEJ6x"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164129,
+      "name": "DIOSA </3",
+      "url": "https://open.spotify.com/track/44kPAikTwJ71hKtsy8zSZN"
+    },
+    {
+      "album": {
         "name": "Dirty",
         "url": "https://open.spotify.com/album/4Lll2QEWWI8lFqm7HIwXFx"
       },
@@ -1293,6 +1333,28 @@
     },
     {
       "album": {
+        "name": "Everybody Salsa (Andruss Remix)",
+        "url": "https://open.spotify.com/album/3rB2Q1jUcu5wgnwbjXxemw"
+      },
+      "artists": [
+        {
+          "name": "Dj Drew",
+          "url": "https://open.spotify.com/artist/0UGUHlwgexlzolMHhj9PhD"
+        },
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166620,
+      "name": "Everybody Salsa - Andruss Remix",
+      "url": "https://open.spotify.com/track/4zKDPxEDLiZENHqUzkelJm"
+    },
+    {
+      "album": {
         "name": "Fake It Till You Make It",
         "url": "https://open.spotify.com/album/2gElFrsbVZoinHMjT0JSYy"
       },
@@ -1326,7 +1388,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 180918,
       "name": "Filosof\u00eda",
       "url": "https://open.spotify.com/track/3oD1kN8r6t3UWo4Edxvi6C"
@@ -1432,7 +1494,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 250775,
       "name": "Galactic Feelings",
       "url": "https://open.spotify.com/track/5UdlBVNbiLgSYJs0mVka5R"
@@ -1860,7 +1922,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 174735,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/3kRfmys5Ga7GPDNuSHFF8f"
@@ -2084,7 +2146,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 158200,
       "name": "LA NOTA",
       "url": "https://open.spotify.com/track/26Wn0xpOkIRrFulsjZzuMj"
@@ -2260,7 +2322,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 210731,
       "name": "Like a Dream",
       "url": "https://open.spotify.com/track/6OzGgO8T0XrttBzJoqKFlC"
@@ -2794,6 +2856,28 @@
       "duration_ms": 139152,
       "name": "Never Love Me",
       "url": "https://open.spotify.com/track/6tr9XNosZVIw5yc8T4GFif"
+    },
+    {
+      "album": {
+        "name": "NO ESTABA MAL",
+        "url": "https://open.spotify.com/album/1PTYSTyydAc9e9YYdMGnK1"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        },
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165245,
+      "name": "NO ESTABA MAL",
+      "url": "https://open.spotify.com/track/0ISOanYr1trHwoGr6q8l4E"
     },
     {
       "album": {
@@ -3388,10 +3472,36 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 265153,
       "name": "Push Me",
       "url": "https://open.spotify.com/track/2IDa4VHiakky6xNeSrkYE8"
+    },
+    {
+      "album": {
+        "name": "Push Me",
+        "url": "https://open.spotify.com/album/3P5litolcBSrBCXCOijk0A"
+      },
+      "artists": [
+        {
+          "name": "Minow",
+          "url": "https://open.spotify.com/artist/53WBL9mWs6KRVyrWBB6Fen"
+        },
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        },
+        {
+          "name": "House Music Bro",
+          "url": "https://open.spotify.com/artist/6CK6I6I7fKtcThateyQpVY"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265153,
+      "name": "Push Me",
+      "url": "https://open.spotify.com/track/6aaC97briYYZqVPMSjvJOm"
     },
     {
       "album": {
@@ -3696,7 +3806,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 195692,
       "name": "San Junipero (Usb Gad Remix)",
       "url": "https://open.spotify.com/track/3KoOKxythVoYOR08bs3tGg"
@@ -4238,6 +4348,24 @@
     {
       "album": {
         "name": "Sunrise",
+        "url": "https://open.spotify.com/album/6Tpqc6l5IldSvPwXXe6hXH"
+      },
+      "artists": [
+        {
+          "name": "Chela Rivas",
+          "url": "https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/55OQy8slZ9Y74xWUvysJEq"
+    },
+    {
+      "album": {
+        "name": "Sunrise",
         "url": "https://open.spotify.com/album/30vmI1DiwumAQksOw5OqMm"
       },
       "artists": [
@@ -4706,6 +4834,28 @@
     {
       "album": {
         "name": "Trago a Trago",
+        "url": "https://open.spotify.com/album/4nk2O7Zm0bqMTNYBScPHJ0"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        },
+        {
+          "name": "Callejo",
+          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137740,
+      "name": "Trago a Trago",
+      "url": "https://open.spotify.com/track/48r5CHCLJ23EKEGZnUBqXZ"
+    },
+    {
+      "album": {
+        "name": "Trago a Trago",
         "url": "https://open.spotify.com/album/6wJZCc4a0h220aD4oCkckl"
       },
       "artists": [
@@ -4720,7 +4870,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 137829,
       "name": "Trago a Trago",
       "url": "https://open.spotify.com/track/0z61jZUmMPEGvdSrKBt3GX"
@@ -4983,6 +5133,28 @@
     },
     {
       "album": {
+        "name": "Where Have U Been",
+        "url": "https://open.spotify.com/album/2er4rYBJ0a39zDEj0rElN5"
+      },
+      "artists": [
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        },
+        {
+          "name": "Xime Glo",
+          "url": "https://open.spotify.com/artist/1ZmwgQ3QwXJy3XCdHnLPue"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222957,
+      "name": "Where Have U Been",
+      "url": "https://open.spotify.com/track/4NN9USZjAv2dPRX3t7DWhX"
+    },
+    {
+      "album": {
         "name": "Windows",
         "url": "https://open.spotify.com/album/0EQINUTcp3sgpItQ5RQTFZ"
       },
@@ -5002,7 +5174,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 213133,
       "name": "Windows",
       "url": "https://open.spotify.com/track/1JUOjyWpg8X8nePqmYKSCW"
@@ -5076,6 +5248,24 @@
       "duration_ms": 161280,
       "name": "With You",
       "url": "https://open.spotify.com/track/4xVL2dgp2vKLcenMMxnary"
+    },
+    {
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/1ICVRyQX0wajmvbmnkrcTZ"
+      },
+      "artists": [
+        {
+          "name": "Theus Mago",
+          "url": "https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373066,
+      "name": "X-Control",
+      "url": "https://open.spotify.com/track/4xp6EQh0YmkzWJjEyAKyJj"
     },
     {
       "album": {

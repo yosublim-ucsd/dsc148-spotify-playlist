@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: DOBé
 
-2,912 songs - 10 day 18 hr 16 min
+2,913 songs - 10 day 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1944,7 +1944,8 @@
 | [Physical Change](https://open.spotify.com/track/0xlGYnc6gnO8KwyhPlavjL) | [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Physical Change EP](https://open.spotify.com/album/0QeMDNqrQdFQoBNcem9UqF) | 9:58 | 2023-05-04 | 2023-05-26 |
 | [Piano Dance](https://open.spotify.com/track/2NPtcz0jmR26fTb8pHy6j7) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Piano Dance](https://open.spotify.com/album/2xZXpNWwIFU8KQhHp7f8sk) | 3:34 | 2022-06-09 | 2022-06-24 |
 | [Piano Heaven](https://open.spotify.com/track/3d9kTlmQovWE7sNxuNMxEI) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Musique for Discothèques](https://open.spotify.com/album/0KnoZ3mKyveI7fykzUqqFy) | 6:44 | 2023-06-16 | 2023-06-30 |
-| [Piece of Me](https://open.spotify.com/track/53jg6l9JLPmhxBhxzi1r9w) | [Markus Klee](https://open.spotify.com/artist/15kBh7iMF03XANu9pcSAdN), [Beeast](https://open.spotify.com/artist/4IwGjwqfHFtnfzAX6TDwBq) | [Piece of Me](https://open.spotify.com/album/60L9CNgCvOFHsavlYkex46) | 6:47 | 2023-12-08 |  |
+| [Piece of Me](https://open.spotify.com/track/0kakTfgOZuWEt3Un92kk0A) | [Markus Klee](https://open.spotify.com/artist/15kBh7iMF03XANu9pcSAdN), [Beeast](https://open.spotify.com/artist/4IwGjwqfHFtnfzAX6TDwBq) | [Hymnesia](https://open.spotify.com/album/6m5tfCt1ZsLR3u3UYbHMDE) | 6:47 | 2023-12-21 |  |
+| [Piece of Me](https://open.spotify.com/track/53jg6l9JLPmhxBhxzi1r9w) | [Markus Klee](https://open.spotify.com/artist/15kBh7iMF03XANu9pcSAdN), [Beeast](https://open.spotify.com/artist/4IwGjwqfHFtnfzAX6TDwBq) | [Piece of Me](https://open.spotify.com/album/60L9CNgCvOFHsavlYkex46) | 6:47 | 2023-12-08 | 2023-12-23 |
 | [Pieces](https://open.spotify.com/track/1UAgQYgjjhj3aGl5IcKO2V) | [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [Pieces](https://open.spotify.com/album/3yt8TNvGF5qeJtt4kjLBhn) | 4:19 | 2023-03-30 | 2023-04-21 |
 | [Pieces \- Hidden Empire Remix](https://open.spotify.com/track/0n1vuhXT4N18E0XI4Ti2jA) | [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z), [Hidden Empire](https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC) | [Pieces \(Hidden Empire Remix\)](https://open.spotify.com/album/1rNB0qOC8FQuz8dKYMyTkQ) | 4:13 | 2023-06-16 | 2023-06-30 |
 | [Pillars of Eternity](https://open.spotify.com/track/3eu66kYYZFybIvVjiaik88) | [Mario Ochoa](https://open.spotify.com/artist/2zviRwkdWgt0rjV3cxM7mg) | [Pillars of Eternity](https://open.spotify.com/album/4NADip54gVKmdwHIbLXBt2) | 6:31 | 2023-06-01 | 2023-06-23 |

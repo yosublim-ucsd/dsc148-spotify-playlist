@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,515 likes - 148 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,549 likes - 148 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,7 +141,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 131 | [James Dean](https://open.spotify.com/track/6p1jLmMoKQt8Vg9zlYg3uq) | [David Keenan](https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG) | [Strip Me Bare, Vol\. 2](https://open.spotify.com/album/0LLhVkWLfoUdCqSOEGeya8) | 3:46 |
 | 132 | [Overland](https://open.spotify.com/track/4k5R36pR5HA3SHlabSQX56) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [See You Around](https://open.spotify.com/album/6nIGYJuUbUNPlqLseIbFQh) | 3:25 |
 | 133 | [Lay Me Down Easy](https://open.spotify.com/track/0vmHBdEpNKwVZAkhOPt3bw) | [Carolina Story](https://open.spotify.com/artist/6as0zYiCUTtYdMI3rxg5Vn) | [Dandelion](https://open.spotify.com/album/7zLMzrLuI1KeIRBaEFxD46) | 3:49 |
-| 134 | [Thinkin' On You](https://open.spotify.com/track/2EFbDP27ysoPnNQdQQXqfR) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs) | [Shame](https://open.spotify.com/album/1j0FUqFiWgEkJsDLPMIaGG) | 4:19 |
+| 134 | [Thinkin' On You](https://open.spotify.com/track/7dqhOx0txJrgz0uovJWqlj) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs) | [Shame](https://open.spotify.com/album/3yv8PzbwTZf9HqZyhnA5S7) | 4:19 |
 | 135 | [Rocking Chair Blues](https://open.spotify.com/track/1yMfoWCHtOEH2b5LzzPyJF) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Dark Holler Pop](https://open.spotify.com/album/5f7goe6S1zLnEdSuIisROm) | 4:15 |
 | 136 | [Kathy's Song](https://open.spotify.com/track/6i6hIiqSXwfzU4B2Tbtw4S) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [You Don't Own Me Anymore](https://open.spotify.com/album/48oEbT2demuZV5mRLlbaLC) | 3:43 |
 | 137 | [The Giver](https://open.spotify.com/track/5bamaE0kFXh3Sf8fcVe3rN) | [The Dead Tongues](https://open.spotify.com/artist/5nM5pj6cEIkzCkwBJZibHK) | [Unsung Passage](https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW) | 3:15 |
@@ -154,7 +154,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 144 | [Always Room](https://open.spotify.com/track/3tPMZ7HPzjguzpyy6kraW8) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Living Water](https://open.spotify.com/album/6ErBtQXSqQZfmzVX1ns4zu) | 2:14 |
 | 145 | [Little Rain](https://open.spotify.com/track/1OhoR6q63ZViL4HjTgopYp) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Heart Like a Levee \(Deluxe Version\)](https://open.spotify.com/album/0tMUxLJFnT7IowETbBu8QW) | 3:52 |
 | 146 | [On and On](https://open.spotify.com/track/5HUATXN3sPKF3GfQXN2ATg) | [Dead Horses](https://open.spotify.com/artist/4dcU7cmzO3GECQGSKwl92z) | [My Mother the Moon](https://open.spotify.com/album/4dN53nS6qFV78cpbX24X6P) | 3:37 |
-| 147 | [You're Free Now](https://open.spotify.com/track/0ySdK6vR22cXZMb3AMgsUS) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [da Costa Deluxe](https://open.spotify.com/album/0Q5GdiJwXZ1FvdxUj5X7uY) | 4:19 |
+| 147 | [You're Free Now \(feat\. Sarah Jarosz\)](https://open.spotify.com/track/271g7BFvo00WN1YN78m0JG) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [da Costa \(Deluxe\)](https://open.spotify.com/album/2VH2F0wlJCfm7wuUYYD87E) | 4:19 |
 | 148 | [Mint Condition](https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Mint Condition](https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794) | 4:02 |
 
-Snapshot ID: `MCw2OTBjZTQ5NzI3MDI2NmM2YmI0ZGY1YzMxY2NlYTEyMTRjNzYzN2I2`
+Snapshot ID: `MCxkZTMxMGMwYzVhMDZjNGIwODdiMzUwMzQ5NWI5NmY5OWE3ZDJiYzVj`

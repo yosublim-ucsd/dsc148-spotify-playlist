@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 
 > Sunny beats and the latest heat to soundtrack your summer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,872 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,865 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 | 23 | [La Piña](https://open.spotify.com/track/3fmIXrnXgt6ZzXWHewbvSC) | [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [La Piña](https://open.spotify.com/album/4Ur27mAxzS8CzHr942EuGE) | 3:39 |
 | 24 | [Keep the Spark Alive](https://open.spotify.com/track/4ortOUyHPtxAmM1T0xXEhZ) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv), [Bonus Points](https://open.spotify.com/artist/3GlCVMFRzrZ3FGtt4apejf) | [Keep the Spark Alive](https://open.spotify.com/album/2pJERUgp7pWBqhEnztIedx) | 3:01 |
 | 25 | [Fresh! \(feat\. Flamingosis\)](https://open.spotify.com/track/0xyZGdpkODxuHeitZUpHPO) | [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow), [Flamingosis](https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb) | [Fresh!](https://open.spotify.com/album/6osa0X7YiamMzT7mf1VBGW) | 2:42 |
-| 26 | [Be Your Girl \(Kaytranada Edition\)](https://open.spotify.com/track/38spM0LahLUfQhOMAqA7AI) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Be Your Girl \(Kaytranada Edition\)](https://open.spotify.com/album/72D0SqH6YFJ7kiZUjKt20c) | 4:28 |
+| 26 | [Be Your Girl \(Kaytranada Edition\)](https://open.spotify.com/track/0NdKnpfDtqT4ejsW4H58x4) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Be Your Girl \(Kaytranada Edition\)](https://open.spotify.com/album/77jeUjXkwa8D5WQYIs8eBu) | 4:28 |
 | 27 | [Riri Thick \- Moods Remix](https://open.spotify.com/track/0xT4knFEialXamJIax97Yx) | [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh), [Sun BLVD](https://open.spotify.com/artist/7K9cfCRuleWnt1AmUxsCf9), [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Sundae Sauuce Presents: Strawberry Drizzle](https://open.spotify.com/album/1uGtAEx6E84HjpI77vWDtt) | 3:23 |
 | 28 | [Hyphlive](https://open.spotify.com/track/1snve7a1zOuwT88ABdXnnZ) | [Thoto\_leing](https://open.spotify.com/artist/5a4nrJ6eEVHg5CDeTbPwlm) | [Thoto\_leing](https://open.spotify.com/album/05zydkKDJWX9r0l4yRbCuN) | 1:35 |
 | 29 | [Stay There](https://open.spotify.com/track/29aHLkN2TNG0to6UJbo5Ao) | [Brasstracks](https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [Stay There](https://open.spotify.com/album/5zZ7Bvs4aD5cSl1urhazu1) | 4:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1UA045EoPG.md) - [plain]
 | 49 | [Getaway](https://open.spotify.com/track/0SOg0VldvpnbaPZfS4ZXgJ) | [Shibo](https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy) | [Getaway](https://open.spotify.com/album/1RcahBHAZTy2HroE7F4F1f) | 2:16 |
 | 50 | [Left & Right](https://open.spotify.com/track/0m9ggRI3M7andaAAwhpyQ0) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [Everything Is Always a Process](https://open.spotify.com/album/2l9tj36iPJgoGP2hO3VNCj) | 3:08 |
 
-Snapshot ID: `MCwwMmNjNWQ4NTA1NzM2Y2M1Y2I2NGY3ODkxOTM1MThiYTgyYzdlMGQ0`
+Snapshot ID: `MCwxNWZlMjZiYmY1ZWJjZjY5ODM4MzZlNmExZTI4YmYzNGIwMzc4OGI3`

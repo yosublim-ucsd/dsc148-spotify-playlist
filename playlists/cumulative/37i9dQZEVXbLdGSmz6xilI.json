@@ -10947,6 +10947,24 @@
     },
     {
       "album": {
+        "name": "nh\u1eafn nh\u1ee7",
+        "url": "https://open.spotify.com/album/5KNYrzFkKcSl7wzRYRuFjE"
+      },
+      "artists": [
+        {
+          "name": "Ronboogz",
+          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241190,
+      "name": "nh\u1eafn nh\u1ee7",
+      "url": "https://open.spotify.com/track/2uZmeuNAxSm7XfVIwLkhCx"
+    },
+    {
+      "album": {
         "name": "Nh\u1eefng L\u1eddi H\u1ee9a B\u1ecf Qu\u00ean",
         "url": "https://open.spotify.com/album/0z9p71YszjfOWS1lmQ4W51"
       },
@@ -16554,7 +16572,7 @@
       ],
       "date_added": "2023-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 192186,
       "name": "Van Gogh (feat. Ashley Alisha)",
       "url": "https://open.spotify.com/track/1sEOTXdVl8X7SzuJi0P1cq"

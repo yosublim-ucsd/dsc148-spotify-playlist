@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All <a href=\"spotify:genre:bass\">wobble</a>. Cover: BARELY ALIVE",
+  "description": "All <a href=\"spotify:genre:bass\">wobble</a>. Cover: SVDDEN DEATH & Wooli",
   "name": "Dubstep Don",
   "tracks": [
     {
@@ -359,6 +359,58 @@
     },
     {
       "album": {
+        "name": "ANGELS IN HELL",
+        "url": "https://open.spotify.com/album/6eQp2cvNbakYkWLip21vPF"
+      },
+      "artists": [
+        {
+          "name": "Ryan Nevis",
+          "url": "https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij"
+        },
+        {
+          "name": "Gomey",
+          "url": "https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL"
+        },
+        {
+          "name": "Xuitcasecity",
+          "url": "https://open.spotify.com/artist/6YxrfNCKBcQlbITpmDLErL"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234350,
+      "name": "ANGELS IN HELL",
+      "url": "https://open.spotify.com/track/6g7dSKYqZTuaGSLsf4o0s5"
+    },
+    {
+      "album": {
+        "name": "Another One",
+        "url": "https://open.spotify.com/album/6Z6zEnG4XVYwOebFAVIHUZ"
+      },
+      "artists": [
+        {
+          "name": "Wodd",
+          "url": "https://open.spotify.com/artist/3TFrAhV5T8qgFOhpaQlUHG"
+        },
+        {
+          "name": "VLCN",
+          "url": "https://open.spotify.com/artist/4jTgru4XsqeKA1L9xB9AzW"
+        },
+        {
+          "name": "Donna Tella",
+          "url": "https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251200,
+      "name": "Another One",
+      "url": "https://open.spotify.com/track/5YtIeVlxDt8riaDmOhiDqq"
+    },
+    {
+      "album": {
         "name": "Arabian Knights",
         "url": "https://open.spotify.com/album/1PicnlQtu8oliMzWJcQcZV"
       },
@@ -418,7 +470,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 198400,
       "name": "Arcadia",
       "url": "https://open.spotify.com/track/5ejKUS1gyCQlizpaYYk7uO"
@@ -1825,6 +1877,24 @@
     },
     {
       "album": {
+        "name": "Collision",
+        "url": "https://open.spotify.com/album/5fHFBEoYZ86TVcKbs6lufZ"
+      },
+      "artists": [
+        {
+          "name": "SPADES",
+          "url": "https://open.spotify.com/artist/2Z827Z6NgSoCjrVCKKyjan"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "Collision",
+      "url": "https://open.spotify.com/track/132Zyzrar2CSQERABIcyJj"
+    },
+    {
+      "album": {
         "name": "collusion",
         "url": "https://open.spotify.com/album/2G3OTX6tRPNNOjl7d5oeOY"
       },
@@ -2673,6 +2743,28 @@
     },
     {
       "album": {
+        "name": "Dune Buggy (Wraz. VIP)",
+        "url": "https://open.spotify.com/album/2u5UeSAwGvvBzFe4BuFC4A"
+      },
+      "artists": [
+        {
+          "name": "Wraz.",
+          "url": "https://open.spotify.com/artist/67b5TsLqAzMdmtWZCy2k7D"
+        },
+        {
+          "name": "ENiGMA Dubz",
+          "url": "https://open.spotify.com/artist/7ygSJBM6sZ0vXGJvjnL1V5"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Dune Buggy - Wraz. VIP",
+      "url": "https://open.spotify.com/track/1ILk7CN23zpN4IzsUMezpY"
+    },
+    {
+      "album": {
         "name": "In the Realm of Hungry Ghosts",
         "url": "https://open.spotify.com/album/0FMV2qVrjMoGFMFKSYmU9v"
       },
@@ -2816,7 +2908,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 218482,
       "name": "Emergency - Decimate Remix",
       "url": "https://open.spotify.com/track/2ehpYlVgSg4RBCmYFwwxXp"
@@ -4708,7 +4800,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 188800,
       "name": "It's Our Destiny - Subtronics Remix",
       "url": "https://open.spotify.com/track/0LOxlFQcKkdyWCva7Ron5M"
@@ -5148,7 +5240,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 168000,
       "name": "Legalize Nuclear Bombs",
       "url": "https://open.spotify.com/track/5Tp9Ojtfm0VX7vR3u8oHwv"
@@ -5356,6 +5448,32 @@
       "duration_ms": 214795,
       "name": "LOST IN YOU",
       "url": "https://open.spotify.com/track/4TMtydweRFufJuukwDH48j"
+    },
+    {
+      "album": {
+        "name": "Love You Like That (Hekler Remix)",
+        "url": "https://open.spotify.com/album/29cf8yfnG7yb9Y0z164YgL"
+      },
+      "artists": [
+        {
+          "name": "Taylor Kade",
+          "url": "https://open.spotify.com/artist/5xZctf19fhC6NgttHakfzF"
+        },
+        {
+          "name": "Hekler",
+          "url": "https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh"
+        },
+        {
+          "name": "KATT",
+          "url": "https://open.spotify.com/artist/7LRt8tHoPmvlTc8yjCSmjR"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258775,
+      "name": "Love You Like That - Hekler Remix",
+      "url": "https://open.spotify.com/track/1fcnrUWCAs9hTflVrnJYs4"
     },
     {
       "album": {
@@ -6453,6 +6571,28 @@
     },
     {
       "album": {
+        "name": "Out For Blood",
+        "url": "https://open.spotify.com/album/4dYVktttrR5GVE6JEFA0Xp"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Omar LinX",
+          "url": "https://open.spotify.com/artist/6fSNDuge2fLINdnCCbpZx6"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316734,
+      "name": "Out For Blood",
+      "url": "https://open.spotify.com/track/0UNpHzs0Sm29tiIl6Wq6RN"
+    },
+    {
+      "album": {
         "name": "Out Of My Head",
         "url": "https://open.spotify.com/album/6FGebBndNrEv5hNPPHqHFJ"
       },
@@ -7046,7 +7186,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 230400,
       "name": "PUSH EM",
       "url": "https://open.spotify.com/track/5x4LUgrOxhstYk5557PO3t"
@@ -9836,7 +9976,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 150400,
       "name": "Tomorrow (Day)",
       "url": "https://open.spotify.com/track/4DK5wEYZP7qPZpGNzX5BL9"

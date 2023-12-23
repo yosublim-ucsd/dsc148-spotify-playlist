@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: The Cleverlys
 
-250 songs - 16 hr 0 min
+251 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,8 @@
 | [Tangled up in Blue](https://open.spotify.com/track/1ijN5R7ZoAntTo2TgbKZbV) | [Grain Thief](https://open.spotify.com/artist/1s72KWoPysNDIrYfiysfxv) | [Ain't Hungover Yet](https://open.spotify.com/album/366ssa5QnTPViLln8TFILV) | 6:15 | 2022-12-02 |  |
 | [The Boxer](https://open.spotify.com/track/4vJfFgFj5kZMplZUeJ60aF) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Babel \(Deluxe Version\)](https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y) | 4:05 | 2022-10-07 | 2022-11-13 |
 | [The Boxer feat\. Mumford & Sons and Paul Simon](https://open.spotify.com/track/5sqhKYHmQSGmGWzrgyL2nc) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Traveler](https://open.spotify.com/album/0aa0FrL0JlVE7MMgszjYvP) | 4:05 | 2022-01-21 | 2022-07-29 |
-| [The Boxer feat\. Mumford & Sons and Paul Simon](https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Traveler](https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG) | 4:05 | 2022-05-27 |  |
+| [The Boxer feat\. Mumford & Sons and Paul Simon](https://open.spotify.com/track/1GXMLU8qafDOavxXIQPoag) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Traveler](https://open.spotify.com/album/0Ylhn0L6WD0SEMbF8hYtNT) | 4:05 | 2023-11-24 |  |
+| [The Boxer feat\. Mumford & Sons and Paul Simon](https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Traveler](https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG) | 4:05 | 2022-05-27 | 2023-12-23 |
 | [The Boys of Summer](https://open.spotify.com/track/4HXG1NYhCRUAHN6wFs93mb) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Mixtape](https://open.spotify.com/album/4OzBnoR48bFk7ZGH6FZG0h) | 5:10 | 2023-05-26 |  |
 | [The Boys of Summer](https://open.spotify.com/track/4q7wdKi7TnNdx4zA9MVLP7) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Mixtape](https://open.spotify.com/album/7c56Fm3gKUmD0HYm2PvvRN) | 5:10 | 2021-08-20 | 2023-06-17 |
 | [The City of New Orleans](https://open.spotify.com/track/3Wocpg1YEEnPIJQEfk7dP8) | [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [The City of New Orleans](https://open.spotify.com/album/24HQRvGkASwDNSuCAVWrLo) | 4:11 | 2023-11-17 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Only the biggest Hardstyle tracks!",
-  "num_followers": 1264584,
+  "num_followers": 1264871,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYWJjOTRkM2I2ODg1MTlkMmI0ZTcxOWRkMDcxZDc2Y2FlMTI0MTc2",
+  "snapshot_id": "MCxhNmFiYjBjMDYwN2FkZGE4OTYyNDdkZDQ1NGY2M2Y4ZjI4MzdmODUw",
   "tracks": [
     {
       "added_at": "2023-12-14 18:18:53",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-12-14 18:18:53",
       "album": {
+        "name": "GO STUPID",
+        "url": "https://open.spotify.com/album/2EKRY3rSfqZQmUfkbVzL5q"
+      },
+      "artists": [
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "GO STUPID",
+      "url": "https://open.spotify.com/track/4qfD7xjF4ZhteeAc6B7TjA"
+    },
+    {
+      "added_at": "2023-12-14 18:18:53",
+      "album": {
         "name": "Timmy Trumpet's SINPHONY No. 1",
         "url": "https://open.spotify.com/album/4nRym2kzawfVrO1bHcw5zK"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 168919,
       "name": "WOLFGANG",
       "url": "https://open.spotify.com/track/7fSxXydUV3O7B9v2EBQCS3"
-    },
-    {
-      "added_at": "2023-12-14 18:18:53",
-      "album": {
-        "name": "GO STUPID",
-        "url": "https://open.spotify.com/album/2EKRY3rSfqZQmUfkbVzL5q"
-      },
-      "artists": [
-        {
-          "name": "Sickmode",
-          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "GO STUPID",
-      "url": "https://open.spotify.com/track/4qfD7xjF4ZhteeAc6B7TjA"
     },
     {
       "added_at": "2023-12-14 18:18:53",
@@ -967,26 +967,6 @@
     {
       "added_at": "2023-12-14 18:18:53",
       "album": {
-        "name": "Raw Resurgence (Official Supremacy 2023 Anthem)",
-        "url": "https://open.spotify.com/album/2Q5gYixfKgOf7kokByz6TN"
-      },
-      "artists": [
-        {
-          "name": "Rebelion",
-          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
-        },
-        {
-          "name": "Nolz",
-          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
-        }
-      ],
-      "duration_ms": 320148,
-      "name": "Raw Resurgence - Official Supremacy 2023 Anthem",
-      "url": "https://open.spotify.com/track/54WsAt5kYg8GPi9s85yPuQ"
-    },
-    {
-      "added_at": "2023-12-14 18:18:53",
-      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/4uU3ipmcw8g1xUNrYwVpRY"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 182479,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/34Bw1YNUaB58jL6dgRB3ST"
+    },
+    {
+      "added_at": "2023-12-14 18:18:53",
+      "album": {
+        "name": "Raw Resurgence (Official Supremacy 2023 Anthem)",
+        "url": "https://open.spotify.com/album/2Q5gYixfKgOf7kokByz6TN"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        },
+        {
+          "name": "Nolz",
+          "url": "https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA"
+        }
+      ],
+      "duration_ms": 320148,
+      "name": "Raw Resurgence - Official Supremacy 2023 Anthem",
+      "url": "https://open.spotify.com/track/54WsAt5kYg8GPi9s85yPuQ"
     },
     {
       "added_at": "2023-12-14 18:18:53",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2023-12-14 18:18:53",
       "album": {
+        "name": "Nobody Said It Was Easy (Sefa Remix)",
+        "url": "https://open.spotify.com/album/1SDYpwbOVLlHIkiyt7Hg6k"
+      },
+      "artists": [
+        {
+          "name": "Evil Activities",
+          "url": "https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO"
+        },
+        {
+          "name": "Sefa",
+          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
+        }
+      ],
+      "duration_ms": 269895,
+      "name": "Nobody Said It Was Easy - Sefa Remix",
+      "url": "https://open.spotify.com/track/5qeMz1IZRziSatqOG3ZHz6"
+    },
+    {
+      "added_at": "2023-12-14 18:18:53",
+      "album": {
         "name": "Rave Love",
         "url": "https://open.spotify.com/album/2OHcuJm8NlukM33GBSQUke"
       },
@@ -1111,22 +1131,18 @@
     {
       "added_at": "2023-12-14 18:18:53",
       "album": {
-        "name": "Nobody Said It Was Easy (Sefa Remix)",
-        "url": "https://open.spotify.com/album/1SDYpwbOVLlHIkiyt7Hg6k"
+        "name": "Epic Sax Song",
+        "url": "https://open.spotify.com/album/6NaT8AHDRPSuHT3IZKJjL4"
       },
       "artists": [
         {
-          "name": "Evil Activities",
-          "url": "https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO"
-        },
-        {
-          "name": "Sefa",
-          "url": "https://open.spotify.com/artist/0caJEGgVuXuSHhhrMCmlkI"
+          "name": "Adrenalize",
+          "url": "https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c"
         }
       ],
-      "duration_ms": 269895,
-      "name": "Nobody Said It Was Easy - Sefa Remix",
-      "url": "https://open.spotify.com/track/5qeMz1IZRziSatqOG3ZHz6"
+      "duration_ms": 176212,
+      "name": "Epic Sax Song",
+      "url": "https://open.spotify.com/track/1MBCOLWlw0wXeSlCgLQCK9"
     },
     {
       "added_at": "2023-12-14 18:18:53",
@@ -1151,22 +1167,6 @@
       "duration_ms": 222408,
       "name": "The Kids Aren't Alright",
       "url": "https://open.spotify.com/track/6bRBZE3BXUZ6QNdpKuMGop"
-    },
-    {
-      "added_at": "2023-12-14 18:18:53",
-      "album": {
-        "name": "Epic Sax Song",
-        "url": "https://open.spotify.com/album/6NaT8AHDRPSuHT3IZKJjL4"
-      },
-      "artists": [
-        {
-          "name": "Adrenalize",
-          "url": "https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c"
-        }
-      ],
-      "duration_ms": 176212,
-      "name": "Epic Sax Song",
-      "url": "https://open.spotify.com/track/1MBCOLWlw0wXeSlCgLQCK9"
     },
     {
       "added_at": "2023-12-14 18:18:53",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-12-14 18:18:53",
       "album": {
-        "name": "Through The Night",
-        "url": "https://open.spotify.com/album/7bm8OvhtAETWRfGZn09eQX"
-      },
-      "artists": [
-        {
-          "name": "KELTEK",
-          "url": "https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "Through The Night",
-      "url": "https://open.spotify.com/track/667VsfRZBPcI42mfFvgYpl"
-    },
-    {
-      "added_at": "2023-12-14 18:18:53",
-      "album": {
         "name": "GO CRAZY",
         "url": "https://open.spotify.com/album/7AEJANjaK2swT6fbi1VSVr"
       },
@@ -1387,8 +1371,8 @@
     {
       "added_at": "2023-12-14 18:18:53",
       "album": {
-        "name": "FLYIN' HIGH",
-        "url": "https://open.spotify.com/album/6BOQuHrxkGTWt41OsSgod7"
+        "name": "STAR WALKIN'",
+        "url": "https://open.spotify.com/album/4cqwObHDCAIYonclFtkGLI"
       },
       "artists": [
         {
@@ -1396,13 +1380,29 @@
           "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
         },
         {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+          "name": "NOTYPE",
+          "url": "https://open.spotify.com/artist/2yeWw576LDl0VWmHiz8uwI"
         }
       ],
-      "duration_ms": 230738,
-      "name": "FLYIN' HIGH",
-      "url": "https://open.spotify.com/track/6UjTx1wIv9GuxMwyl1D6Q0"
+      "duration_ms": 184511,
+      "name": "STAR WALKIN'",
+      "url": "https://open.spotify.com/track/4OFGSQdbd3OPgSr4uNO2iy"
+    },
+    {
+      "added_at": "2023-12-14 18:18:53",
+      "album": {
+        "name": "Through The Night",
+        "url": "https://open.spotify.com/album/7bm8OvhtAETWRfGZn09eQX"
+      },
+      "artists": [
+        {
+          "name": "KELTEK",
+          "url": "https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "Through The Night",
+      "url": "https://open.spotify.com/track/667VsfRZBPcI42mfFvgYpl"
     },
     {
       "added_at": "2023-12-14 18:18:53",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-12-14 18:18:53",
       "album": {
-        "name": "Drilla Killa",
-        "url": "https://open.spotify.com/album/2lrISCnRWMbaRWbuHkWSLX"
-      },
-      "artists": [
-        {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Drilla Killa",
-      "url": "https://open.spotify.com/track/5c5q9FQNfTJiuS3EuVG5xu"
-    },
-    {
-      "added_at": "2023-12-14 18:18:53",
-      "album": {
         "name": "Infinity",
         "url": "https://open.spotify.com/album/0ZgC3V8ELGpS2jyC56AjpI"
       },
@@ -1599,8 +1583,8 @@
     {
       "added_at": "2023-12-14 18:18:53",
       "album": {
-        "name": "STAR WALKIN'",
-        "url": "https://open.spotify.com/album/4cqwObHDCAIYonclFtkGLI"
+        "name": "FLYIN' HIGH",
+        "url": "https://open.spotify.com/album/6BOQuHrxkGTWt41OsSgod7"
       },
       "artists": [
         {
@@ -1608,13 +1592,29 @@
           "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
         },
         {
-          "name": "NOTYPE",
-          "url": "https://open.spotify.com/artist/2yeWw576LDl0VWmHiz8uwI"
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
         }
       ],
-      "duration_ms": 184511,
-      "name": "STAR WALKIN'",
-      "url": "https://open.spotify.com/track/4OFGSQdbd3OPgSr4uNO2iy"
+      "duration_ms": 230738,
+      "name": "FLYIN' HIGH",
+      "url": "https://open.spotify.com/track/6UjTx1wIv9GuxMwyl1D6Q0"
+    },
+    {
+      "added_at": "2023-12-14 18:18:53",
+      "album": {
+        "name": "Drilla Killa",
+        "url": "https://open.spotify.com/album/2lrISCnRWMbaRWbuHkWSLX"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Drilla Killa",
+      "url": "https://open.spotify.com/track/5c5q9FQNfTJiuS3EuVG5xu"
     },
     {
       "added_at": "2023-12-14 18:18:53",
@@ -1723,22 +1723,18 @@
     {
       "added_at": "2023-12-14 18:18:53",
       "album": {
-        "name": "TOO HAPPY",
-        "url": "https://open.spotify.com/album/0UtFwIpGyQl2KDRgThrtna"
+        "name": "Illusions",
+        "url": "https://open.spotify.com/album/5DLb0mlE8cGOJcOUqJ0y23"
       },
       "artists": [
         {
-          "name": "Rooler",
-          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
-        },
-        {
-          "name": "Sickmode",
-          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
+          "name": "Sub Zero Project",
+          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
         }
       ],
-      "duration_ms": 274968,
-      "name": "TOO HAPPY",
-      "url": "https://open.spotify.com/track/55UUc12En4gVEdzwNTFAkQ"
+      "duration_ms": 207069,
+      "name": "Illusions",
+      "url": "https://open.spotify.com/track/21kG2uhhjqAh3yJXDFs0M0"
     },
     {
       "added_at": "2023-12-14 18:18:53",
@@ -1763,18 +1759,22 @@
     {
       "added_at": "2023-12-14 18:18:53",
       "album": {
-        "name": "Illusions",
-        "url": "https://open.spotify.com/album/5DLb0mlE8cGOJcOUqJ0y23"
+        "name": "TOO HAPPY",
+        "url": "https://open.spotify.com/album/0UtFwIpGyQl2KDRgThrtna"
       },
       "artists": [
         {
-          "name": "Sub Zero Project",
-          "url": "https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl"
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+        },
+        {
+          "name": "Sickmode",
+          "url": "https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW"
         }
       ],
-      "duration_ms": 207069,
-      "name": "Illusions",
-      "url": "https://open.spotify.com/track/21kG2uhhjqAh3yJXDFs0M0"
+      "duration_ms": 274968,
+      "name": "TOO HAPPY",
+      "url": "https://open.spotify.com/track/55UUc12En4gVEdzwNTFAkQ"
     },
     {
       "added_at": "2023-12-14 18:18:53",
@@ -1795,22 +1795,6 @@
       "duration_ms": 262550,
       "name": "Come Take My Hand - Ran-D Remix",
       "url": "https://open.spotify.com/track/4plFHRIYpyvO46CWG2UMvG"
-    },
-    {
-      "added_at": "2023-12-14 18:18:53",
-      "album": {
-        "name": "Euphoria (Hardstyle Edit)",
-        "url": "https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z"
-      },
-      "artists": [
-        {
-          "name": "Julian Brandts",
-          "url": "https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd"
-        }
-      ],
-      "duration_ms": 214546,
-      "name": "Euphoria - Hardstyle Edit",
-      "url": "https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA"
     },
     {
       "added_at": "2023-12-14 18:18:53",
@@ -1859,6 +1843,22 @@
     {
       "added_at": "2023-12-14 18:18:53",
       "album": {
+        "name": "Euphoria (Hardstyle Edit)",
+        "url": "https://open.spotify.com/album/32FQWGoFHpoAlwtvNF0J3Z"
+      },
+      "artists": [
+        {
+          "name": "Julian Brandts",
+          "url": "https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd"
+        }
+      ],
+      "duration_ms": 214546,
+      "name": "Euphoria - Hardstyle Edit",
+      "url": "https://open.spotify.com/track/6LABLxSNomagmMcVNhrPgA"
+    },
+    {
+      "added_at": "2023-12-14 18:18:53",
+      "album": {
         "name": "Welcome to the Club",
         "url": "https://open.spotify.com/album/20oXdz9ix2ZGYlGvAIo7PZ"
       },
@@ -1883,26 +1883,6 @@
     {
       "added_at": "2023-12-14 18:18:53",
       "album": {
-        "name": "Bitter Sweet Symphony (Hardstyle Mix)",
-        "url": "https://open.spotify.com/album/7D51Z16qsQhOVhfEWubBqF"
-      },
-      "artists": [
-        {
-          "name": "Jay Reeve",
-          "url": "https://open.spotify.com/artist/5AVdeI8lS5HS9VGV8AUyS4"
-        },
-        {
-          "name": "Elyn",
-          "url": "https://open.spotify.com/artist/1Ii4I4a8WGgYqMxEOLoMAl"
-        }
-      ],
-      "duration_ms": 180002,
-      "name": "Bitter Sweet Symphony (Hardstyle Mix)",
-      "url": "https://open.spotify.com/track/675uQstqHDJVNwUpMHMY4S"
-    },
-    {
-      "added_at": "2023-12-14 18:18:53",
-      "album": {
         "name": "Keepers Of Our Legacy",
         "url": "https://open.spotify.com/album/0hF85b1g0YOWqRorVVUlkF"
       },
@@ -1923,6 +1903,26 @@
     {
       "added_at": "2023-12-14 18:18:53",
       "album": {
+        "name": "Bitter Sweet Symphony (Hardstyle Mix)",
+        "url": "https://open.spotify.com/album/7D51Z16qsQhOVhfEWubBqF"
+      },
+      "artists": [
+        {
+          "name": "Jay Reeve",
+          "url": "https://open.spotify.com/artist/5AVdeI8lS5HS9VGV8AUyS4"
+        },
+        {
+          "name": "Elyn",
+          "url": "https://open.spotify.com/artist/1Ii4I4a8WGgYqMxEOLoMAl"
+        }
+      ],
+      "duration_ms": 180002,
+      "name": "Bitter Sweet Symphony (Hardstyle Mix)",
+      "url": "https://open.spotify.com/track/675uQstqHDJVNwUpMHMY4S"
+    },
+    {
+      "added_at": "2023-12-14 18:18:53",
+      "album": {
         "name": "The Soul",
         "url": "https://open.spotify.com/album/0lwumLqC9ZSjOcctsnnsnX"
       },
@@ -1935,22 +1935,6 @@
       "duration_ms": 331798,
       "name": "The Soul",
       "url": "https://open.spotify.com/track/7EOZRhI98MiZQXJI8bNIKQ"
-    },
-    {
-      "added_at": "2023-12-14 18:18:53",
-      "album": {
-        "name": "Hyena",
-        "url": "https://open.spotify.com/album/4b2WABe3g8eaUyO450fp5Z"
-      },
-      "artists": [
-        {
-          "name": "Coone",
-          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
-        }
-      ],
-      "duration_ms": 212838,
-      "name": "Hyena",
-      "url": "https://open.spotify.com/track/7BAjDuGkdlx4U0QkMApNZ1"
     },
     {
       "added_at": "2023-12-14 18:18:53",
@@ -1971,6 +1955,22 @@
     {
       "added_at": "2023-12-14 18:18:53",
       "album": {
+        "name": "Hyena",
+        "url": "https://open.spotify.com/album/4b2WABe3g8eaUyO450fp5Z"
+      },
+      "artists": [
+        {
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        }
+      ],
+      "duration_ms": 212838,
+      "name": "Hyena",
+      "url": "https://open.spotify.com/track/7BAjDuGkdlx4U0QkMApNZ1"
+    },
+    {
+      "added_at": "2023-12-14 18:18:53",
+      "album": {
         "name": "Feel So Good",
         "url": "https://open.spotify.com/album/1JuieeW86pG1yMTvmis54g"
       },
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2023-12-14 18:18:53",
       "album": {
-        "name": "Together As One (feat. Sam LeMay)",
-        "url": "https://open.spotify.com/album/166fClZDJCV4TkLbY1LknN"
-      },
-      "artists": [
-        {
-          "name": "The Pitcher",
-          "url": "https://open.spotify.com/artist/1QsT3VKbdtjMxXoy9myb2X"
-        }
-      ],
-      "duration_ms": 186424,
-      "name": "Together As One",
-      "url": "https://open.spotify.com/track/22bQ4WJUJeRRZIV1y571Vt"
-    },
-    {
-      "added_at": "2023-12-14 18:18:53",
-      "album": {
         "name": "Invincible",
         "url": "https://open.spotify.com/album/5T9ZLjYnXMrfmWx0Bif7Xh"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 177166,
       "name": "Invincible",
       "url": "https://open.spotify.com/track/6GXB5IyqwhZMdyYqpPkW1X"
+    },
+    {
+      "added_at": "2023-12-14 18:18:53",
+      "album": {
+        "name": "Together As One (feat. Sam LeMay)",
+        "url": "https://open.spotify.com/album/166fClZDJCV4TkLbY1LknN"
+      },
+      "artists": [
+        {
+          "name": "The Pitcher",
+          "url": "https://open.spotify.com/artist/1QsT3VKbdtjMxXoy9myb2X"
+        }
+      ],
+      "duration_ms": 186424,
+      "name": "Together As One",
+      "url": "https://open.spotify.com/track/22bQ4WJUJeRRZIV1y571Vt"
     },
     {
       "added_at": "2023-12-14 18:18:53",
@@ -2075,6 +2075,22 @@
     {
       "added_at": "2023-12-14 18:18:53",
       "album": {
+        "name": "Rise Again (Defqon.1 2022 Closing Theme)",
+        "url": "https://open.spotify.com/album/1eO3xCCiCtzPmeuEwJUTbH"
+      },
+      "artists": [
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        }
+      ],
+      "duration_ms": 237057,
+      "name": "Rise Again (Defqon.1 2022 Closing Theme)",
+      "url": "https://open.spotify.com/track/5U8ciuvj0LDMk9h66NhwzR"
+    },
+    {
+      "added_at": "2023-12-14 18:18:53",
+      "album": {
         "name": "Silence (feat. Sarah McLachlan) [Brennan Heart Remix]",
         "url": "https://open.spotify.com/album/3hlMZy5Z5qZnMCzDkIc0Lr"
       },
@@ -2095,22 +2111,6 @@
       "duration_ms": 263453,
       "name": "Silence - Brennan Heart Remix",
       "url": "https://open.spotify.com/track/0cfxGRaCEFKwz66bURIYz5"
-    },
-    {
-      "added_at": "2023-12-14 18:18:53",
-      "album": {
-        "name": "Rise Again (Defqon.1 2022 Closing Theme)",
-        "url": "https://open.spotify.com/album/1eO3xCCiCtzPmeuEwJUTbH"
-      },
-      "artists": [
-        {
-          "name": "Hard Driver",
-          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
-        }
-      ],
-      "duration_ms": 237057,
-      "name": "Rise Again (Defqon.1 2022 Closing Theme)",
-      "url": "https://open.spotify.com/track/5U8ciuvj0LDMk9h66NhwzR"
     },
     {
       "added_at": "2023-12-14 18:18:53",
@@ -2507,26 +2507,6 @@
     {
       "added_at": "2023-12-14 18:18:53",
       "album": {
-        "name": "Wrong or Right (The Riddle) [Revelation Remix]",
-        "url": "https://open.spotify.com/album/1nkvxZnYm7VzhmJGS7OqL9"
-      },
-      "artists": [
-        {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
-        },
-        {
-          "name": "Revelation",
-          "url": "https://open.spotify.com/artist/4xSp6WltH5N47OrAu4pjKw"
-        }
-      ],
-      "duration_ms": 188253,
-      "name": "Wrong or Right (The Riddle) [Revelation Remix]",
-      "url": "https://open.spotify.com/track/4xUjGco1qY0RW3B7DYstgA"
-    },
-    {
-      "added_at": "2023-12-14 18:18:53",
-      "album": {
         "name": "Music Of The Mind",
         "url": "https://open.spotify.com/album/1GbybeTHGXQxIdpUsDco8i"
       },
@@ -2543,22 +2523,22 @@
     {
       "added_at": "2023-12-14 18:18:53",
       "album": {
-        "name": "Tunnel Of Vision",
-        "url": "https://open.spotify.com/album/3fTAYHGpZP7jduLaMy12ie"
+        "name": "Wrong or Right (The Riddle) [Revelation Remix]",
+        "url": "https://open.spotify.com/album/1nkvxZnYm7VzhmJGS7OqL9"
       },
       "artists": [
         {
-          "name": "Zatox",
-          "url": "https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO"
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
         },
         {
-          "name": "The Purge",
-          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
+          "name": "Revelation",
+          "url": "https://open.spotify.com/artist/4xSp6WltH5N47OrAu4pjKw"
         }
       ],
-      "duration_ms": 214500,
-      "name": "Tunnel Of Vision",
-      "url": "https://open.spotify.com/track/6vAr6v7WLW5xP6Z5uyCLXH"
+      "duration_ms": 188253,
+      "name": "Wrong or Right (The Riddle) [Revelation Remix]",
+      "url": "https://open.spotify.com/track/4xUjGco1qY0RW3B7DYstgA"
     },
     {
       "added_at": "2023-12-14 18:18:53",
@@ -2583,22 +2563,22 @@
     {
       "added_at": "2023-12-14 18:18:53",
       "album": {
-        "name": "I'm Sorry",
-        "url": "https://open.spotify.com/album/0T8KGYGLlDmCtAtUjAdIKc"
+        "name": "Tunnel Of Vision",
+        "url": "https://open.spotify.com/album/3fTAYHGpZP7jduLaMy12ie"
       },
       "artists": [
         {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+          "name": "Zatox",
+          "url": "https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO"
         },
         {
-          "name": "The Partysquad",
-          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
+          "name": "The Purge",
+          "url": "https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w"
         }
       ],
-      "duration_ms": 204387,
-      "name": "I'm Sorry",
-      "url": "https://open.spotify.com/track/2zXZRMT3mmi0ALGX6WXKw3"
+      "duration_ms": 214500,
+      "name": "Tunnel Of Vision",
+      "url": "https://open.spotify.com/track/6vAr6v7WLW5xP6Z5uyCLXH"
     },
     {
       "added_at": "2023-12-14 18:18:53",
@@ -2623,6 +2603,26 @@
       "duration_ms": 169593,
       "name": "End Of The World - Dr Phunk Remix",
       "url": "https://open.spotify.com/track/1PvfA3XKU7k7QAecko4Yb5"
+    },
+    {
+      "added_at": "2023-12-14 18:18:53",
+      "album": {
+        "name": "I'm Sorry",
+        "url": "https://open.spotify.com/album/0T8KGYGLlDmCtAtUjAdIKc"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "The Partysquad",
+          "url": "https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY"
+        }
+      ],
+      "duration_ms": 204387,
+      "name": "I'm Sorry",
+      "url": "https://open.spotify.com/track/2zXZRMT3mmi0ALGX6WXKw3"
     },
     {
       "added_at": "2023-12-14 18:18:53",
@@ -2759,6 +2759,22 @@
     {
       "added_at": "2023-12-14 18:18:53",
       "album": {
+        "name": "Absolution",
+        "url": "https://open.spotify.com/album/6Opch7uhVZoJKdUCutnqjp"
+      },
+      "artists": [
+        {
+          "name": "Ecstatic",
+          "url": "https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem"
+        }
+      ],
+      "duration_ms": 224516,
+      "name": "Absolution",
+      "url": "https://open.spotify.com/track/1jurU7dHfTOOZEf6fADV8v"
+    },
+    {
+      "added_at": "2023-12-14 18:18:53",
+      "album": {
         "name": "Spaceman",
         "url": "https://open.spotify.com/album/1R4ANAFrHwOdYG1tmz3gla"
       },
@@ -2783,22 +2799,6 @@
     {
       "added_at": "2023-12-14 18:18:53",
       "album": {
-        "name": "Absolution",
-        "url": "https://open.spotify.com/album/6Opch7uhVZoJKdUCutnqjp"
-      },
-      "artists": [
-        {
-          "name": "Ecstatic",
-          "url": "https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem"
-        }
-      ],
-      "duration_ms": 224516,
-      "name": "Absolution",
-      "url": "https://open.spotify.com/track/1jurU7dHfTOOZEf6fADV8v"
-    },
-    {
-      "added_at": "2023-12-14 18:18:53",
-      "album": {
         "name": "Into Ecstasy",
         "url": "https://open.spotify.com/album/35sHRlNmi8fHRpKSBvHew5"
       },
@@ -2811,6 +2811,22 @@
       "duration_ms": 209032,
       "name": "Into Ecstasy",
       "url": "https://open.spotify.com/track/20vPjvIzwKbrldAAuHcTwc"
+    },
+    {
+      "added_at": "2023-12-14 18:18:53",
+      "album": {
+        "name": "EP I",
+        "url": "https://open.spotify.com/album/2Q8mA39C1vgElfhYSJPAw4"
+      },
+      "artists": [
+        {
+          "name": "Project One",
+          "url": "https://open.spotify.com/artist/7fMJN4fdEwmFWd8uz5pnKx"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Luminosity - Edit",
+      "url": "https://open.spotify.com/track/15OITba1Hh6rn7WYYFmlJH"
     },
     {
       "added_at": "2023-12-14 18:18:53",
@@ -2835,22 +2851,6 @@
       "duration_ms": 208937,
       "name": "Make Some Noise",
       "url": "https://open.spotify.com/track/7kk5uXHvIq9APSfAuoPfvk"
-    },
-    {
-      "added_at": "2023-12-14 18:18:53",
-      "album": {
-        "name": "EP I",
-        "url": "https://open.spotify.com/album/2Q8mA39C1vgElfhYSJPAw4"
-      },
-      "artists": [
-        {
-          "name": "Project One",
-          "url": "https://open.spotify.com/artist/7fMJN4fdEwmFWd8uz5pnKx"
-        }
-      ],
-      "duration_ms": 195600,
-      "name": "Luminosity - Edit",
-      "url": "https://open.spotify.com/track/15OITba1Hh6rn7WYYFmlJH"
     },
     {
       "added_at": "2023-12-14 18:18:53",
@@ -2911,22 +2911,6 @@
     {
       "added_at": "2023-12-14 18:18:53",
       "album": {
-        "name": "Impact",
-        "url": "https://open.spotify.com/album/7pAC6BK4KbA21ffLsT99jY"
-      },
-      "artists": [
-        {
-          "name": "D-Sturb",
-          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
-        }
-      ],
-      "duration_ms": 219870,
-      "name": "Impact",
-      "url": "https://open.spotify.com/track/33yP87JuBfAhwuZplkysHH"
-    },
-    {
-      "added_at": "2023-12-14 18:18:53",
-      "album": {
         "name": "Rave Now",
         "url": "https://open.spotify.com/album/3N0G0lU2lO3t4cX5oekKNA"
       },
@@ -2943,6 +2927,22 @@
       "duration_ms": 194002,
       "name": "Rave Now",
       "url": "https://open.spotify.com/track/2sVrVKIkrKZ8Vn9k0k3IfR"
+    },
+    {
+      "added_at": "2023-12-14 18:18:53",
+      "album": {
+        "name": "Impact",
+        "url": "https://open.spotify.com/album/7pAC6BK4KbA21ffLsT99jY"
+      },
+      "artists": [
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        }
+      ],
+      "duration_ms": 219870,
+      "name": "Impact",
+      "url": "https://open.spotify.com/track/33yP87JuBfAhwuZplkysHH"
     },
     {
       "added_at": "2023-12-14 18:18:53",
@@ -3027,26 +3027,6 @@
     {
       "added_at": "2023-12-14 18:18:53",
       "album": {
-        "name": "Eternal Flame",
-        "url": "https://open.spotify.com/album/42wbAGw7UTNRHpNTPdg9li"
-      },
-      "artists": [
-        {
-          "name": "KELTEK",
-          "url": "https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e"
-        },
-        {
-          "name": "Aversion",
-          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
-        }
-      ],
-      "duration_ms": 177384,
-      "name": "Eternal Flame",
-      "url": "https://open.spotify.com/track/6hJOslrB3jquQksSqUTJ7Y"
-    },
-    {
-      "added_at": "2023-12-14 18:18:53",
-      "album": {
         "name": "Garden Of Magic",
         "url": "https://open.spotify.com/album/5h0gbPjUfmsOdrwKyV6EoI"
       },
@@ -3063,6 +3043,26 @@
       "duration_ms": 177387,
       "name": "Garden Of Magic",
       "url": "https://open.spotify.com/track/4SadIiJGMYMFltjEbqG3Ik"
+    },
+    {
+      "added_at": "2023-12-14 18:18:53",
+      "album": {
+        "name": "Eternal Flame",
+        "url": "https://open.spotify.com/album/42wbAGw7UTNRHpNTPdg9li"
+      },
+      "artists": [
+        {
+          "name": "KELTEK",
+          "url": "https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e"
+        },
+        {
+          "name": "Aversion",
+          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
+        }
+      ],
+      "duration_ms": 177384,
+      "name": "Eternal Flame",
+      "url": "https://open.spotify.com/track/6hJOslrB3jquQksSqUTJ7Y"
     },
     {
       "added_at": "2023-12-14 18:18:53",
@@ -3127,34 +3127,22 @@
     {
       "added_at": "2023-12-14 18:18:53",
       "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/773dIrYYs0MoedYNxuGmzr"
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/6YrVDZf2M8qLSOC4eichYG"
       },
       "artists": [
         {
-          "name": "Rejecta",
-          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
-        }
-      ],
-      "duration_ms": 198193,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/0h1mEjNzfgX3zmrM1FJNtz"
-    },
-    {
-      "added_at": "2023-12-14 18:18:53",
-      "album": {
-        "name": "Awaken",
-        "url": "https://open.spotify.com/album/5FkHkDHeCqICjB1yv1COHA"
-      },
-      "artists": [
+          "name": "Deetox",
+          "url": "https://open.spotify.com/artist/0g6dKn3203m8rAtAyjIdZl"
+        },
         {
-          "name": "KELTEK",
-          "url": "https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e"
+          "name": "Elyn",
+          "url": "https://open.spotify.com/artist/1Ii4I4a8WGgYqMxEOLoMAl"
         }
       ],
-      "duration_ms": 292553,
-      "name": "Awaken",
-      "url": "https://open.spotify.com/track/1BRMT9ruyij1tKK1YqAf4S"
+      "duration_ms": 216004,
+      "name": "Fallen",
+      "url": "https://open.spotify.com/track/39vX6ttgqvy1NOo6DrMMa1"
     },
     {
       "added_at": "2023-12-14 18:18:53",
@@ -3175,22 +3163,18 @@
     {
       "added_at": "2023-12-14 18:18:53",
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/6YrVDZf2M8qLSOC4eichYG"
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/773dIrYYs0MoedYNxuGmzr"
       },
       "artists": [
         {
-          "name": "Deetox",
-          "url": "https://open.spotify.com/artist/0g6dKn3203m8rAtAyjIdZl"
-        },
-        {
-          "name": "Elyn",
-          "url": "https://open.spotify.com/artist/1Ii4I4a8WGgYqMxEOLoMAl"
+          "name": "Rejecta",
+          "url": "https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof"
         }
       ],
-      "duration_ms": 216004,
-      "name": "Fallen",
-      "url": "https://open.spotify.com/track/39vX6ttgqvy1NOo6DrMMa1"
+      "duration_ms": 198193,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/0h1mEjNzfgX3zmrM1FJNtz"
     },
     {
       "added_at": "2023-12-14 18:18:53",
@@ -3219,6 +3203,42 @@
     {
       "added_at": "2023-12-14 18:18:53",
       "album": {
+        "name": "Rest In Pieces",
+        "url": "https://open.spotify.com/album/4TvaNm9rb4wZAwOtE4wF1T"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        },
+        {
+          "name": "Iris Goes",
+          "url": "https://open.spotify.com/artist/5UpRlAIULn04YlwQPwpKj2"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Rest In Pieces",
+      "url": "https://open.spotify.com/track/7iaHUmMUyXUHfVVJrOKyLC"
+    },
+    {
+      "added_at": "2023-12-14 18:18:53",
+      "album": {
+        "name": "Awaken",
+        "url": "https://open.spotify.com/album/5FkHkDHeCqICjB1yv1COHA"
+      },
+      "artists": [
+        {
+          "name": "KELTEK",
+          "url": "https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e"
+        }
+      ],
+      "duration_ms": 292553,
+      "name": "Awaken",
+      "url": "https://open.spotify.com/track/1BRMT9ruyij1tKK1YqAf4S"
+    },
+    {
+      "added_at": "2023-12-14 18:18:53",
+      "album": {
         "name": "Close To You (Audiotricz Remix)",
         "url": "https://open.spotify.com/album/4f6hP9KBR7Sm6ACbWTYQGc"
       },
@@ -3239,22 +3259,6 @@
       "duration_ms": 217600,
       "name": "Close To You (Audiotricz Remix)",
       "url": "https://open.spotify.com/track/6TqKy9halHx61AFUlwiDDZ"
-    },
-    {
-      "added_at": "2023-12-14 18:18:53",
-      "album": {
-        "name": "No Paradise",
-        "url": "https://open.spotify.com/album/6hq96WXyeVwi6UpYMaATa9"
-      },
-      "artists": [
-        {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
-        }
-      ],
-      "duration_ms": 241548,
-      "name": "No Paradise",
-      "url": "https://open.spotify.com/track/0N4QGYBSaeRwmo4pxuEG0x"
     },
     {
       "added_at": "2023-12-14 18:18:53",
@@ -3315,6 +3319,22 @@
       "duration_ms": 197927,
       "name": "Happy Place (feat. Cathrine Lassen) - Refuzion Remix",
       "url": "https://open.spotify.com/track/2PMzTucvbLGxeHxoFS5giO"
+    },
+    {
+      "added_at": "2023-12-14 18:18:53",
+      "album": {
+        "name": "No Paradise",
+        "url": "https://open.spotify.com/album/6hq96WXyeVwi6UpYMaATa9"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "duration_ms": 241548,
+      "name": "No Paradise",
+      "url": "https://open.spotify.com/track/0N4QGYBSaeRwmo4pxuEG0x"
     },
     {
       "added_at": "2023-12-14 18:18:53",
@@ -3435,26 +3455,6 @@
     {
       "added_at": "2023-12-14 18:18:53",
       "album": {
-        "name": "Rest In Pieces",
-        "url": "https://open.spotify.com/album/4TvaNm9rb4wZAwOtE4wF1T"
-      },
-      "artists": [
-        {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
-        },
-        {
-          "name": "Iris Goes",
-          "url": "https://open.spotify.com/artist/5UpRlAIULn04YlwQPwpKj2"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Rest In Pieces",
-      "url": "https://open.spotify.com/track/7iaHUmMUyXUHfVVJrOKyLC"
-    },
-    {
-      "added_at": "2023-12-14 18:18:53",
-      "album": {
         "name": "Children Of Drums (Headhunterz Remix)",
         "url": "https://open.spotify.com/album/2xTalVoSbGKciNMHDwmMG5"
       },
@@ -3491,26 +3491,6 @@
     {
       "added_at": "2023-12-14 18:18:53",
       "album": {
-        "name": "Break The Rules",
-        "url": "https://open.spotify.com/album/2e0jHlBzOby8CWE025x6I2"
-      },
-      "artists": [
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        },
-        {
-          "name": "Partyraiser",
-          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
-        }
-      ],
-      "duration_ms": 231157,
-      "name": "Break The Rules",
-      "url": "https://open.spotify.com/track/1DI9mNWrW3LdQVWPprPRvm"
-    },
-    {
-      "added_at": "2023-12-14 18:18:53",
-      "album": {
         "name": "I'm Alive",
         "url": "https://open.spotify.com/album/4aAyxSa4XSM2Bi3qjr99LU"
       },
@@ -3539,6 +3519,26 @@
       "duration_ms": 173754,
       "name": "Hunters Lullaby 2020",
       "url": "https://open.spotify.com/track/0ZvKkulRYWDCheU3Wb9yFY"
+    },
+    {
+      "added_at": "2023-12-14 18:18:53",
+      "album": {
+        "name": "Break The Rules",
+        "url": "https://open.spotify.com/album/2e0jHlBzOby8CWE025x6I2"
+      },
+      "artists": [
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        },
+        {
+          "name": "Partyraiser",
+          "url": "https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73"
+        }
+      ],
+      "duration_ms": 231157,
+      "name": "Break The Rules",
+      "url": "https://open.spotify.com/track/1DI9mNWrW3LdQVWPprPRvm"
     },
     {
       "added_at": "2023-12-14 18:18:53",
@@ -3707,22 +3707,6 @@
     {
       "added_at": "2023-12-14 18:18:53",
       "album": {
-        "name": "Infinity",
-        "url": "https://open.spotify.com/album/7DjLttCTgkKZklPe6GFwBt"
-      },
-      "artists": [
-        {
-          "name": "Neolux",
-          "url": "https://open.spotify.com/artist/6kNykeJK1CTSW1zJYcAUvQ"
-        }
-      ],
-      "duration_ms": 187341,
-      "name": "Infinity",
-      "url": "https://open.spotify.com/track/5wsET7UzdeLwvTkAkVytut"
-    },
-    {
-      "added_at": "2023-12-14 18:18:53",
-      "album": {
         "name": "The Rave Dome",
         "url": "https://open.spotify.com/album/2NNtdRHLtQSRJSIDySbTnS"
       },
@@ -3735,6 +3719,22 @@
       "duration_ms": 205940,
       "name": "The Rave Dome",
       "url": "https://open.spotify.com/track/4Srdf7olznuLK2qC67Zjbp"
+    },
+    {
+      "added_at": "2023-12-14 18:18:53",
+      "album": {
+        "name": "Infinity",
+        "url": "https://open.spotify.com/album/7DjLttCTgkKZklPe6GFwBt"
+      },
+      "artists": [
+        {
+          "name": "Neolux",
+          "url": "https://open.spotify.com/artist/6kNykeJK1CTSW1zJYcAUvQ"
+        }
+      ],
+      "duration_ms": 187341,
+      "name": "Infinity",
+      "url": "https://open.spotify.com/track/5wsET7UzdeLwvTkAkVytut"
     },
     {
       "added_at": "2023-12-14 18:18:53",
@@ -3915,22 +3915,22 @@
     {
       "added_at": "2023-12-14 18:18:53",
       "album": {
-        "name": "Thriller",
-        "url": "https://open.spotify.com/album/0d7O4cUXaXRjniHSX96mMD"
+        "name": "Shake The Ground (feat. Noubya)",
+        "url": "https://open.spotify.com/album/7u8dP8O8M7D1nRwZRFbTGW"
       },
       "artists": [
         {
-          "name": "Audiotricz",
-          "url": "https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP"
+          "name": "Wildstylez",
+          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
         },
         {
-          "name": "Bass Modulators",
-          "url": "https://open.spotify.com/artist/1Uk4IDpF1OIuTzANugS5JC"
+          "name": "Noubya",
+          "url": "https://open.spotify.com/artist/7mE37XRULrIzHfg9OWmIud"
         }
       ],
-      "duration_ms": 263600,
-      "name": "Thriller",
-      "url": "https://open.spotify.com/track/5Un12b5Mr4fi0dqa3xiLxf"
+      "duration_ms": 213200,
+      "name": "Shake The Ground",
+      "url": "https://open.spotify.com/track/26aTIeF87ZP7IprFP3vqbi"
     },
     {
       "added_at": "2023-12-14 18:18:53",
@@ -3955,22 +3955,22 @@
     {
       "added_at": "2023-12-14 18:18:53",
       "album": {
-        "name": "Shake The Ground (feat. Noubya)",
-        "url": "https://open.spotify.com/album/7u8dP8O8M7D1nRwZRFbTGW"
+        "name": "Thriller",
+        "url": "https://open.spotify.com/album/0d7O4cUXaXRjniHSX96mMD"
       },
       "artists": [
         {
-          "name": "Wildstylez",
-          "url": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV"
+          "name": "Audiotricz",
+          "url": "https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP"
         },
         {
-          "name": "Noubya",
-          "url": "https://open.spotify.com/artist/7mE37XRULrIzHfg9OWmIud"
+          "name": "Bass Modulators",
+          "url": "https://open.spotify.com/artist/1Uk4IDpF1OIuTzANugS5JC"
         }
       ],
-      "duration_ms": 213200,
-      "name": "Shake The Ground",
-      "url": "https://open.spotify.com/track/26aTIeF87ZP7IprFP3vqbi"
+      "duration_ms": 263600,
+      "name": "Thriller",
+      "url": "https://open.spotify.com/track/5Un12b5Mr4fi0dqa3xiLxf"
     }
   ],
   "unique_name": "Hardstyle Bangers",

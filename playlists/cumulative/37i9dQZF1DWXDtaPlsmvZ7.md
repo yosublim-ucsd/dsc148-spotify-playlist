@@ -4,7 +4,7 @@
 
 > A mover el cucu con estas cadenciosas versiones cumbiatizadas.
 
-77 songs - 4 hr 19 min
+78 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Golpes en el Corazón](https://open.spotify.com/track/5fXk93H1gUgNtZrDGiNLR4) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Golpes en el Corazón](https://open.spotify.com/album/1v2sXZ3GCmKSwGOM24VSiZ) | 3:31 | 2022-05-06 |  |
 | [Hotel California](https://open.spotify.com/track/0MbkiHMyocbiG3GsWgY8n0) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Hotel California](https://open.spotify.com/album/0eQVqlUtzzWsvHCVdDKY0V) | 2:49 | 2022-05-06 |  |
 | [Hotline Bling](https://open.spotify.com/track/6q3HqeduJaaZvoGkxcJEOb) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Hotline Bling](https://open.spotify.com/album/3wIfrWCteaifdw84a9ckUi) | 3:23 | 2022-05-06 |  |
+| [I Feel It Coming \- Version Cumbia](https://open.spotify.com/track/76zoc2IdQM1s4bH5juv5zC) | [Alex Dover](https://open.spotify.com/artist/1mZ4z5FjhzO1nEVCsl3wUz), [Rochi Degrossi](https://open.spotify.com/artist/2uqGbV16oT3LW9wDoT1iMh) | [I Feel It Coming \(Version Cumbia\)](https://open.spotify.com/album/6l2TFbfJURhQkuQoZeTZ86) | 2:46 | 2022-05-06 |  |
 | [Insoportablemente Bella](https://open.spotify.com/track/3T70Y5JdAJV5iFh1NGuXhu) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Insoportablemente Bella](https://open.spotify.com/album/1gRdM69SCvqFqtYRbWOQi6) | 4:09 | 2022-05-06 |  |
 | [Ji Ji Ji](https://open.spotify.com/track/4RLSqaHzhfD8XWxL7wyLJR) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [A 30 Años de una Pasión Inexplicable..\. Solo He Nacido para Amarte](https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l) | 3:17 | 2022-05-06 |  |
 | [Juntos a la Par](https://open.spotify.com/track/259PHSfv5ayeRJNvIjoDr5) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T), [Natalia Corbalán](https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q) | [Juntos a la Par](https://open.spotify.com/album/5BGFvYVx8rdJSAREh6jNCs) | 2:26 | 2022-05-06 |  |
@@ -76,7 +77,7 @@
 | [Tonta](https://open.spotify.com/track/4HjIiXDTRKEVXL6Jov3kCY) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Orgánico](https://open.spotify.com/album/5JzUIBngiv4yCq8MfYMH74) | 3:25 | 2022-05-06 |  |
 | [Traicionero](https://open.spotify.com/track/7dAO2xy0K5tUqax8LthAml) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24), [Media Naranja](https://open.spotify.com/artist/1CPCudqABxMYzF2PFEfQme) | [Traicionero](https://open.spotify.com/album/1HspaBXnlgh97QO7eIBqpD) | 3:24 | 2022-05-06 |  |
 | [Tu sin mi](https://open.spotify.com/track/0rbBqsCqIfFhRtiFoNhtcL) | [La Champions Liga](https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3) | [Cumbia villera \- La Champions Liga](https://open.spotify.com/album/6pAKn3tYHVyPVjZzKwVruh) | 3:50 | 2022-05-06 |  |
-| [Tápenme Porque Me Encuero](https://open.spotify.com/track/0vHdWjSdo7FgtbxJtQJmUw) | [El Conjunto Nueva Ola](https://open.spotify.com/artist/5FPtuYKcBuI5ot70T8c8U1) | [Mitotem](https://open.spotify.com/album/4uKx91dx0xrW3JYhxKTb1e) | 3:45 | 2022-05-06 |  |
+| [Tápenme Porque Me Encuero](https://open.spotify.com/track/0vHdWjSdo7FgtbxJtQJmUw) | [El Conjunto Nueva Ola](https://open.spotify.com/artist/5FPtuYKcBuI5ot70T8c8U1) | [Mitotem](https://open.spotify.com/album/4uKx91dx0xrW3JYhxKTb1e) | 3:45 | 2022-05-06 | 2023-12-23 |
 | [Una Lady Como Tú](https://open.spotify.com/track/4cnac0Hd5P4nDPCB18yFUw) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn) | [Lemonchamp](https://open.spotify.com/album/4ZefritY8dZnuOMWbIgt1T) | 2:20 | 2022-05-06 |  |
 | [Y Como Es Él](https://open.spotify.com/track/0KCwPtLRb2aGxAQ4qjTRdK) | [Sonora Skandalo](https://open.spotify.com/artist/60El5gpHTkzTCmrNz0VG7i) | [Éxitos de Oro](https://open.spotify.com/album/6BnHNHGHD9QCcUcpJFZn6A) | 3:16 | 2022-05-06 |  |
 | [Ya Me Enteré](https://open.spotify.com/track/4G79YmEkyEbAzo5NsDRhC4) | [Grupo Los Kiero de Edgar Zacary](https://open.spotify.com/artist/0Dp5uzlISYu38jwPXsGPqF) | [Ya Me Enteré](https://open.spotify.com/album/7klSaA9WznpL3G4xvmLjPk) | 3:06 | 2022-05-06 |  |

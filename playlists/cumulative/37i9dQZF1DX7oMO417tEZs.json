@@ -299,6 +299,28 @@
     },
     {
       "album": {
+        "name": "9AM IN LONDON",
+        "url": "https://open.spotify.com/album/1QWsd2aHXEs6ylyIZtXF8G"
+      },
+      "artists": [
+        {
+          "name": "Deb Fan",
+          "url": "https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m"
+        },
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202289,
+      "name": "9AM IN LONDON",
+      "url": "https://open.spotify.com/track/2K2NYHKFiW7oSKlbtO5Xxj"
+    },
+    {
+      "album": {
         "name": "<maybe> it's my fault",
         "url": "https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM"
       },
@@ -4339,6 +4361,24 @@
     },
     {
       "album": {
+        "name": "separation anxiety (deluxe)",
+        "url": "https://open.spotify.com/album/6Dio9pwqualCDqFLBRkO0Q"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "delusion illusion",
+      "url": "https://open.spotify.com/track/63VQqmfSMONIVnTBG2t3pH"
+    },
+    {
+      "album": {
         "name": "Demon Mode",
         "url": "https://open.spotify.com/album/3th8PyMt8wjiGi0azm135D"
       },
@@ -5484,7 +5524,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 129000,
       "name": "ETA2 (feat. Paris Texas)",
       "url": "https://open.spotify.com/track/6ceM12zLnXEBQ7JrF3rprq"
@@ -18478,7 +18518,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 158786,
       "name": "Trenchezzz (with Nemzzz)",
       "url": "https://open.spotify.com/track/3puypQeebjOFKb9FeKdgAA"

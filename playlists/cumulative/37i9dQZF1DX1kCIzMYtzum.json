@@ -910,7 +910,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 165454,
       "name": "Baby Don't Hurt Me (feat. Anne-Marie & Coi Leray) - Joel Corry Remix",
       "url": "https://open.spotify.com/track/6Z8iL8x45rPksBobTCrD2A"
@@ -2180,7 +2180,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 141290,
       "name": "Dirty Talk (with Sam Feldt)",
       "url": "https://open.spotify.com/track/4Q5A1yfmDXlB4s7JyuDKzw"
@@ -3010,6 +3010,36 @@
       "duration_ms": 199000,
       "name": "Everything",
       "url": "https://open.spotify.com/track/2cGnOx17iac6m7R5YDUZac"
+    },
+    {
+      "album": {
+        "name": "Everytime Next To Me (feat. Robin Bengtsson)",
+        "url": "https://open.spotify.com/album/3dYEuiemAuSbrPbAFb3XMr"
+      },
+      "artists": [
+        {
+          "name": "Lucky Rose",
+          "url": "https://open.spotify.com/artist/5ShkaitLUorYdZgJMqTF5E"
+        },
+        {
+          "name": "Fragma",
+          "url": "https://open.spotify.com/artist/2t9efDsc10DtZpi4LP3BJJ"
+        },
+        {
+          "name": "Lotus",
+          "url": "https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b"
+        },
+        {
+          "name": "Robin Bengtsson",
+          "url": "https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160949,
+      "name": "Everytime Next To Me (feat. Robin Bengtsson)",
+      "url": "https://open.spotify.com/track/2LgMS1uS0TonzbXT8Kaa6p"
     },
     {
       "album": {
@@ -3964,7 +3994,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 175032,
       "name": "Good Morning (feat. YOU)",
       "url": "https://open.spotify.com/track/2ODIVQXwaezpchs1LGE4CV"
@@ -9335,6 +9365,32 @@
     },
     {
       "album": {
+        "name": "Secrets (feat. Jazz Montell)",
+        "url": "https://open.spotify.com/album/0lMVfNvXYGaa5iFS4NU39o"
+      },
+      "artists": [
+        {
+          "name": "Glockenbach",
+          "url": "https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i"
+        },
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Jazz Montell",
+          "url": "https://open.spotify.com/artist/5HVnBG4feWijxr9j531PFs"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171200,
+      "name": "Secrets (feat. Jazz Montell)",
+      "url": "https://open.spotify.com/track/3SdpHyWPOlTBn6ZWB9XwWZ"
+    },
+    {
+      "album": {
         "name": "See You Again EP",
         "url": "https://open.spotify.com/album/4rmeoGTOMbpZ8WBzfWEKzC"
       },
@@ -11184,6 +11240,28 @@
       "duration_ms": 218239,
       "name": "Tie Me Down (with Elley Duh\u00e9)",
       "url": "https://open.spotify.com/track/2zh01m4PiHaZz4BAm0NRxs"
+    },
+    {
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/7cLDStFd8Wx0zFfNSGrjoW"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "Bombs Away",
+          "url": "https://open.spotify.com/artist/1YlyxjwYNSjBD0NAJGEfWB"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181874,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/5dV7j9CsYRqZY60LxcW1SF"
     },
     {
       "album": {

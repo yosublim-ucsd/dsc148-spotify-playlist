@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 194397,
       "name": "Based On True Events, Pt. 2",
       "url": "https://open.spotify.com/track/6VIF7IamWzKuMlEcW6Bmw8"
@@ -4089,6 +4089,32 @@
     },
     {
       "album": {
+        "name": "Palermo",
+        "url": "https://open.spotify.com/album/5byLh9YeAXyIReAD3kvGKv"
+      },
+      "artists": [
+        {
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
+        },
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        },
+        {
+          "name": "Goosebytheway",
+          "url": "https://open.spotify.com/artist/7Lbpx0EuKekUdtfDuNStfh"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "Gaspare",
+      "url": "https://open.spotify.com/track/0LIrORYFSDCbcyxwCWnkd9"
+    },
+    {
+      "album": {
         "name": "genesis.",
         "url": "https://open.spotify.com/album/4Ze9iUMzqI5MEIQzUV7Ny4"
       },
@@ -4514,6 +4540,24 @@
       "duration_ms": 144140,
       "name": "Guapanese",
       "url": "https://open.spotify.com/track/39xyIJlo7lsDZf3j2oh6vP"
+    },
+    {
+      "album": {
+        "name": "The Patience",
+        "url": "https://open.spotify.com/album/1R7oXtXCQEI7GDujxImL87"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144140,
+      "name": "Guapanese",
+      "url": "https://open.spotify.com/track/40pwSWsizZ5xUSVJMqoYOA"
     },
     {
       "album": {
@@ -9370,7 +9414,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 186491,
       "name": "Runway",
       "url": "https://open.spotify.com/track/1OnukNKu7NWY4ouTc7w26u"
@@ -9396,6 +9440,24 @@
       "duration_ms": 172023,
       "name": "Rushmore Pack",
       "url": "https://open.spotify.com/track/0v8HKx7pfToMOp5j1K5Dww"
+    },
+    {
+      "album": {
+        "name": "Said It Freestyle",
+        "url": "https://open.spotify.com/album/4QS4ozuXb01Z1hCEWZBaGQ"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155844,
+      "name": "Said It Freestyle",
+      "url": "https://open.spotify.com/track/7BoCBEhYkyVHIsehWRvyM3"
     },
     {
       "album": {
@@ -12612,7 +12674,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 177814,
       "name": "YES!",
       "url": "https://open.spotify.com/track/577J3qiLUuwmdz6r2GdgJM"

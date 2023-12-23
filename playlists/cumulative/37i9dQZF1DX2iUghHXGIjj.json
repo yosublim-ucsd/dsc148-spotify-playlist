@@ -378,7 +378,7 @@
     {
       "album": {
         "name": "Head Bent",
-        "url": "https://open.spotify.com/album/4VXrAdqkFnz2qNJGO0wmKL"
+        "url": "https://open.spotify.com/album/1vgBs7x0Zyoi6lcXiTjz6q"
       },
       "artists": [
         {
@@ -389,6 +389,24 @@
       "date_added": "2020-08-11",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 265360,
+      "name": "Break My Fall",
+      "url": "https://open.spotify.com/track/0VSZBPnOE1hWGK3bcZMIB2"
+    },
+    {
+      "album": {
+        "name": "Head Bent",
+        "url": "https://open.spotify.com/album/4VXrAdqkFnz2qNJGO0wmKL"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "date_added": "2020-08-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
       "duration_ms": 265360,
       "name": "Break My Fall",
       "url": "https://open.spotify.com/track/6KbHosVLv94wZG6lhZdAp9"

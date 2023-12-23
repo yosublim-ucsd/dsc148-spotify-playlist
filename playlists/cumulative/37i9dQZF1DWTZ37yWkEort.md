@@ -4,7 +4,7 @@
 
 > From joyful jubillance to hushed harmonies\. Cover: Pentatonix
 
-81 songs - 4 hr 0 min
+82 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/6crJeVAyChFwjdI6oo0lwm) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 3:56 | 2022-01-14 | 2023-12-16 |
 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/0uG7N4hCYktGJrWIp9cfYz) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas](https://open.spotify.com/album/3oXvzShPN8iY2P1UYl3WVJ) | 3:57 | 2017-11-08 | 2022-07-29 |
 | [Nativity Medley](https://open.spotify.com/track/2M4c6MUNPK2ZVun9zfQAVm) | [Committed](https://open.spotify.com/artist/0zXJ4RC28rSgZ7tR5XgXdH) | [Home For Christmas](https://open.spotify.com/album/3hFiwCSomMbEvXLuXtEYDC) | 3:25 | 2017-11-08 | 2022-07-29 |
-| [Nativity Medley](https://open.spotify.com/track/6Zb2qnkAXLIDFsOSayqu7h) | [Committed](https://open.spotify.com/artist/0zXJ4RC28rSgZ7tR5XgXdH) | [Home For Christmas](https://open.spotify.com/album/4NP170fPWbNHS2eVQ7TvCS) | 3:25 | 2022-01-14 |  |
+| [Nativity Medley](https://open.spotify.com/track/67kWuuiaVw8qjtnnOS96Tq) | [Committed](https://open.spotify.com/artist/0zXJ4RC28rSgZ7tR5XgXdH) | [Home For Christmas](https://open.spotify.com/album/4FmWz2Vm8z3KXwo4AJe8Fy) | 3:25 | 2022-01-14 |  |
+| [Nativity Medley](https://open.spotify.com/track/6Zb2qnkAXLIDFsOSayqu7h) | [Committed](https://open.spotify.com/artist/0zXJ4RC28rSgZ7tR5XgXdH) | [Home For Christmas](https://open.spotify.com/album/4NP170fPWbNHS2eVQ7TvCS) | 3:25 | 2022-01-14 | 2023-12-23 |
 | [No Other Day](https://open.spotify.com/track/2QVm9Ly4g0vQqiYIv2WIFS) | [Acappella](https://open.spotify.com/artist/6bzyBDhZmJIl6PvJ5qJ9Hh) | [Family Christmas](https://open.spotify.com/album/4hkwQ3aJTv1seZE78OestC) | 2:49 | 2022-11-15 |  |
 | [Nutcracker](https://open.spotify.com/track/2QhveJeE3MHOYSDyrbqRBH) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [Under the Influence: Holiday Edition](https://open.spotify.com/album/0fPXSeM8nko9aSxO6nM1zX) | 3:07 | 2017-11-08 | 2023-10-21 |
 | [O Come, All Ye Faithful](https://open.spotify.com/track/4kZqBZ1cihUH8SoBZ3PBrd) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas Deluxe](https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn) | 3:35 | 2022-01-14 | 2023-10-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79vrB5Ei5Gk7BctdZesJJA.md) - [plain]
 
 > Official Roadrunner Records Playlist \- Our Picks of 2023 is curated by Roadrunner Records and highlights some of our favorite releases this year
 
-[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,732 likes - 39 songs - 2 hr 1 min
+[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,740 likes - 39 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/79vrB5Ei5Gk7BctdZesJJA.md) - [plain]
 | 14 | [Born Again](https://open.spotify.com/track/4GJV9P8omsSSi8qhjx6HyQ) | [Matthew Mast](https://open.spotify.com/artist/2QAFSKAw9khRvwYMpcdUmW) | [Of All The Endings](https://open.spotify.com/album/1p91YROjB86WZ7SoogbdvO) | 5:14 |
 | 15 | [Blowback](https://open.spotify.com/track/3Qs5yry1DbsUkOXPVMVlFt) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Spiritual Cramp](https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN) | 2:47 |
 | 16 | [Jaded](https://open.spotify.com/track/6IdyYbGg1jxiWhfwm2Ykjn) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Jaded](https://open.spotify.com/album/28sBiYcFfkpAldZodapMyU) | 4:22 |
-| 17 | [Silent Wolf](https://open.spotify.com/track/1JDW4OvmoEtSKbcJeZSd5L) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek) | [Common Suffering](https://open.spotify.com/album/6FLys5u92lIaPZbFExnTOF) | 2:45 |
-| 18 | [Parting Gift](https://open.spotify.com/track/6NzxPbgWNQzVoP4Z8sk6fO) | [Miracle](https://open.spotify.com/artist/7bFvLj6RJlKiwIWzwp7KPJ) | [Miracle](https://open.spotify.com/album/7bYqg4uuqUomBmqWTK4cc7) | 2:04 |
+| 17 | [Parting Gift](https://open.spotify.com/track/6NzxPbgWNQzVoP4Z8sk6fO) | [Miracle](https://open.spotify.com/artist/7bFvLj6RJlKiwIWzwp7KPJ) | [Miracle](https://open.spotify.com/album/7bYqg4uuqUomBmqWTK4cc7) | 2:04 |
+| 18 | [Silent Wolf](https://open.spotify.com/track/1JDW4OvmoEtSKbcJeZSd5L) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek) | [Common Suffering](https://open.spotify.com/album/6FLys5u92lIaPZbFExnTOF) | 2:45 |
 | 19 | [Fight Back](https://open.spotify.com/track/6VtRgEbePXkx9tgUZMIWtz) | [Restraining Order](https://open.spotify.com/artist/4HXv1CWVOyIO8ZNvGOSyEy) | [Locked In Time](https://open.spotify.com/album/0ZrL3ZytOIETmGjy3OAwl1) | 1:49 |
 | 20 | [Savior Mode](https://open.spotify.com/track/0G6fFMKdbf7fI3S1gLHSRK) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [Too Quick to Forgive](https://open.spotify.com/album/7ECEe6gQMlJNjykkX7F7RY) | 4:21 |
 | 21 | [Future Memory](https://open.spotify.com/track/7qpX8ksDSaGXWOlRaNNVzZ) | [Rocket](https://open.spotify.com/artist/6TMJgSdBIPPtQJbAB8yPpO) | [Versions of You](https://open.spotify.com/album/7E5gfF6DxElHPWqG872Eld) | 3:27 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/79vrB5Ei5Gk7BctdZesJJA.md) - [plain]
 | 38 | [Bite The Hook](https://open.spotify.com/track/3aOCnkGig7Zz7oXCW2OqpM) | [Incendiary](https://open.spotify.com/artist/3nS4tSuT4VwGiZH6BtlJfC) | [Bite The Hook](https://open.spotify.com/album/4O73RVcXZeXUDtBZSHnd8p) | 2:55 |
 | 39 | [Sweetness](https://open.spotify.com/track/2kWfIfVahndPcowzt13TKu) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Lost In Translation](https://open.spotify.com/album/5wmYGQV4uiJ6GltxGcePNy) | 3:39 |
 
-Snapshot ID: `MzIxMywxOWI2ODU0MDIwNjhlOGFmMDM3ZDZlZTk0YjY4MzdmYzQ5YTQ3MWJh`
+Snapshot ID: `MzIxNCw5NjM3ZjMyZjE4YWM4M2EyMGY0ZDk3YjFkMmVjZWZhMGJjYTgzNDk0`

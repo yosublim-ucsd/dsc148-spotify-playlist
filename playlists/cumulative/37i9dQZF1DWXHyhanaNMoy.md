@@ -4,7 +4,7 @@
 
 > Motion, fissa & good vibes! Cover: Wizkid
 
-827 songs - 1 day 13 hr 22 min
+828 songs - 1 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,6 +440,7 @@
 | [Love Me](https://open.spotify.com/track/1gno4JrQywuxvuMLNmufoP) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Love Me](https://open.spotify.com/album/1vikym192WUofadPIdXtbl) | 3:15 | 2023-07-10 | 2023-10-06 |
 | [Low](https://open.spotify.com/track/67PSXs0ixoOUD03BL6UfVQ) | [Kidda](https://open.spotify.com/artist/4OtcoXGM3abQUnErfCczaj) | [Low](https://open.spotify.com/album/0HpwLRomUn6DGADacaO0id) | 3:14 | 2022-12-20 | 2023-05-12 |
 | [Loyalty \(feat\. Boat\)](https://open.spotify.com/track/5EIEiMOslyLTd0H5Ej6d4i) | [Lucky Jones](https://open.spotify.com/artist/3kRrXk5mL3cBvrMaN18Tet), [Quincy Promes](https://open.spotify.com/artist/6ak4Dte1ZVVz6iGqv7jTrS), [BKO](https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd), [Boat](https://open.spotify.com/artist/3BLpP499tRGck1LfbRicGF) | [Loyalty \(feat\. Boat\)](https://open.spotify.com/album/7oIMg5RBN35uRCxyOcm018) | 3:12 | 2023-06-15 | 2023-07-28 |
+| [Luces Tenues](https://open.spotify.com/track/15GcuHNJMf7LqwpU3N4Puw) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Luces Tenues](https://open.spotify.com/album/59AjAiyN8bCOtcX7In93YM) | 3:10 | 2023-12-21 |  |
 | [Lucky One](https://open.spotify.com/track/2Exlj6mWLS6g4wXw7FsB23) | [Yssine](https://open.spotify.com/artist/70pnzZahqft8hk7I4vlTy1) | [Lucky One](https://open.spotify.com/album/0Uk8PheqHOcCi1qGy68Umy) | 2:31 | 2023-11-09 |  |
 | [Ma Sweetie](https://open.spotify.com/track/21yj46QAJ0LjbmixDo6Ibd) | [Bouzzy](https://open.spotify.com/artist/3rOWue4cNcIcaurmz1iqU9) | [Ma Sweetie](https://open.spotify.com/album/2LSb2pNWAqYM3BhwnHc5W5) | 2:31 | 2023-08-10 | 2023-09-01 |
 | [Madness](https://open.spotify.com/track/2Pu3Ux9Gv1e2UixicsUeLo) | [Rhema & Bethel](https://open.spotify.com/artist/2mhQjvqnRV83cj1G1b8ToN) | [Madness](https://open.spotify.com/album/1B6JEWEFeYzO4iRj0NQex7) | 2:04 | 2023-01-19 | 2023-03-03 |

@@ -4,10 +4,11 @@
 
 > Proudly South African gospel goodness\. Cover: <a href="https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5?si=OjiQz5aVRKCMcGcbLuHUuA">Sneziey</a>
 
-182 songs - 18 hr 21 min
+184 songs - 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Africa For Jesus \(Live at Worship House Church Limpopo, 2023\) \(feat\. Mish Mahendere\)](https://open.spotify.com/track/5YtFXVeXtEvSAKDAoYcNZk) | [Worship House](https://open.spotify.com/artist/3Aa2R54aqT4UiklOkE0qwD), [Mish Mahendere](https://open.spotify.com/artist/3yKe6QM3lmU3oyFkONGp5b) | [Africa For Jesus \(Live at Worship House Church Limpopo, 2023\) \(feat\. Mish Mahendere\)](https://open.spotify.com/album/4h6o8q9jm2Ui1PIOuWNbEl) | 7:35 | 2023-12-22 |  |
 | [Alpha noOmega](https://open.spotify.com/track/5iQ4H7V9qmtuCs0XLZRIp9) | [Karabo M](https://open.spotify.com/artist/2eedswVJzymieGtsQyUN2r) | [Alpha noOmega](https://open.spotify.com/album/14dDTEUml2aMiYgmmbVb01) | 5:00 | 2022-09-15 | 2023-03-18 |
 | [Apha’Kum \(Live at Mosaiek Theatre, 2023\)](https://open.spotify.com/track/5XMRW2JA70QNg11AOftT2V) | [Omega Khunou](https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3) | [Apha’Kum \(Live at Mosaiek Theatre, 2023\)](https://open.spotify.com/album/6GfjzpCcMHWlpL0NUleD15) | 7:19 | 2023-10-20 |  |
 | [Awesome God](https://open.spotify.com/track/1J7m2fe94mcQbKfooP3QOg) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [Bee bar](https://open.spotify.com/artist/0kgsc7QLVxGwl8wd2eS3om), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [Awesome God](https://open.spotify.com/album/6o7rsUKRvC8UZ5PHljEhyo) | 7:18 | 2023-06-09 | 2023-09-15 |
@@ -62,6 +63,7 @@
 | [Joy, Peace and Happiness](https://open.spotify.com/track/7M7f0aEGP5JLB6Se7JBoE7) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Joy, Peace and Happiness](https://open.spotify.com/album/2YGfKSGwmRBVzXLyXzTwpa) | 4:13 | 2023-09-29 | 2023-10-27 |
 | [Judgement Day](https://open.spotify.com/track/3QUgyfxDE3PeRUpF0naBqr) | [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [Hope](https://open.spotify.com/album/0FL96MMnLWqynSbzfKV8to) | 4:21 | 2022-09-22 | 2023-03-18 |
 | [Ka Letsatsi \(Live\)](https://open.spotify.com/track/1DTTtfBgaYraBfSE6PSy5L) | [Omega Khunou](https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3) | [Ka Letsatsi \(Live\)](https://open.spotify.com/album/3c1ewMB80rH1CBHLkL4U7N) | 4:03 | 2023-07-21 | 2023-11-17 |
+| [Ke Jeso Jeso \(Live at Worship House Church Limpopo, 2023\) \(feat\. Marc Sathekge\)](https://open.spotify.com/track/0buwNSVYhWmF5OJB5yGoGG) | [Worship House](https://open.spotify.com/artist/3Aa2R54aqT4UiklOkE0qwD), [Marc Sathekge](https://open.spotify.com/artist/5oeONYxithKJWXZEuEsVMD) | [Ke Jeso Jeso \(Live at Worship House Church Limpopo, 2023\) \(feat\. Marc Sathekge\)](https://open.spotify.com/album/4B2zCui5CF6jIqw7sVX90j) | 5:31 | 2023-12-22 |  |
 | [Ke Mang](https://open.spotify.com/track/6VvauPfH0TWMfu4KMUsKPU) | [Tshepiso](https://open.spotify.com/artist/0eUzQtxmaaNwA1wkyq4b2I) | [Ke Mang](https://open.spotify.com/album/2JBxdERjVMKSQVArIqKTcW) | 5:28 | 2021-03-05 | 2023-09-15 |
 | [Ke Mang \- Live](https://open.spotify.com/track/4PhX4M2Ahh14sqthX6PSt1) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Neyi Zimu](https://open.spotify.com/artist/0N6QkCxUjse1zelEGozglt) | [Spirit of Praise, Vol\. 7 \(Live\)](https://open.spotify.com/album/50TvIUjsR7nVUcvuK9CyrE) | 6:47 | 2018-10-15 |  |
 | [KE SIKILOE KE JESU](https://open.spotify.com/track/2hoNv8VTa2crszNVheSQHG) | [Locustmusiq](https://open.spotify.com/artist/1Nllw307L1bVRcSgSM4Y0j), [Dark shadow\_msotra](https://open.spotify.com/artist/43uRuu03qNAVrm6pd5YwAW), [Dintle](https://open.spotify.com/artist/1MumMLFmVb2vX9hlMmBnEd) | [KE SIKILOE KE JESU](https://open.spotify.com/album/40OFIeAAQBiAilrAG48OgG) | 4:53 | 2023-06-30 | 2023-09-15 |

@@ -1,12 +1,12 @@
 {
   "description": "Aqu\u00ed le ponemos ritmo a las tareas del hogar.",
-  "num_followers": 255463,
+  "num_followers": 255542,
   "original_name": "\u00a1A Limpiar con Ritmo!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDhjNzNiYjFjNjRhOGY2YjEzYmVmZmQyOTgxMzc2NzQ0M2ViY2Yz",
+  "snapshot_id": "MCw2NWZkNGYzNTk5M2QyMDIyMjdkMzg3NTY5YzM0MDNjYmEyMjYwNzJk",
   "tracks": [
     {
       "added_at": "2023-08-29 12:57:27",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-08-29 12:57:27",
       "album": {
-        "name": "Mejor Que Ayer",
-        "url": "https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr"
-      },
-      "artists": [
-        {
-          "name": "David Pabon",
-          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
-        }
-      ],
-      "duration_ms": 326478,
-      "name": "Si Me Ves Llorar",
-      "url": "https://open.spotify.com/track/2CQJlWoNln1bdobttQ4znq"
-    },
-    {
-      "added_at": "2023-08-29 12:57:27",
-      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 217586,
       "name": "Que Te Vaya Bien",
       "url": "https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck"
+    },
+    {
+      "added_at": "2023-08-29 12:57:27",
+      "album": {
+        "name": "Mejor Que Ayer",
+        "url": "https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr"
+      },
+      "artists": [
+        {
+          "name": "David Pabon",
+          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
+        }
+      ],
+      "duration_ms": 326478,
+      "name": "Si Me Ves Llorar",
+      "url": "https://open.spotify.com/track/2CQJlWoNln1bdobttQ4znq"
     },
     {
       "added_at": "2023-08-29 12:57:27",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-08-29 12:57:27",
       "album": {
-        "name": "Amores Dif\u00edciles",
-        "url": "https://open.spotify.com/album/01oAsRFo8FXUuvGt16vI8P"
-      },
-      "artists": [
-        {
-          "name": "Cabas",
-          "url": "https://open.spotify.com/artist/3W4lVkySjtIvd67UUg0F3i"
-        }
-      ],
-      "duration_ms": 237335,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/6HNsJQihjxODgGWQafAJau"
-    },
-    {
-      "added_at": "2023-08-29 12:57:27",
-      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 303306,
       "name": "Tu Con El",
       "url": "https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I"
+    },
+    {
+      "added_at": "2023-08-29 12:57:27",
+      "album": {
+        "name": "Amores Dif\u00edciles",
+        "url": "https://open.spotify.com/album/01oAsRFo8FXUuvGt16vI8P"
+      },
+      "artists": [
+        {
+          "name": "Cabas",
+          "url": "https://open.spotify.com/artist/3W4lVkySjtIvd67UUg0F3i"
+        }
+      ],
+      "duration_ms": 237335,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/6HNsJQihjxODgGWQafAJau"
     },
     {
       "added_at": "2023-08-29 12:57:27",

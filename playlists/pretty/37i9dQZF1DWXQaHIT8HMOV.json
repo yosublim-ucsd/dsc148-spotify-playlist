@@ -1,12 +1,12 @@
 {
   "description": "Homegrown Ugandan hits in one playlist. Cover: Joshua Baraka",
-  "num_followers": 1920,
+  "num_followers": 1922,
   "original_name": "Made In Uganda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWFhMzVkYTAyNWNjZmY5YTE0Nzg0ZGViOWIyYTJlNDY2YmI0MWRj",
+  "snapshot_id": "MCw2M2E2ZDMwZTI1M2FlYjg3MTJhMGQ5MTE1YWNhY2MzOTE2Yzc2ZmNj",
   "tracks": [
     {
       "added_at": "2023-12-08 00:08:00",
@@ -375,22 +375,18 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Biwamiel",
-        "url": "https://open.spotify.com/album/5wiZF2P9MsXJmXfQ5foRaa"
+        "name": "Sembera",
+        "url": "https://open.spotify.com/album/5waV4kXwhpQBV4Ws7d2Ppi"
       },
       "artists": [
         {
-          "name": "Udulele",
-          "url": "https://open.spotify.com/artist/5hFXOpwk5ewy5faVUsgdwY"
-        },
-        {
-          "name": "Umoja",
-          "url": "https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw"
+          "name": "Geosteady",
+          "url": "https://open.spotify.com/artist/7kam501AHBrZZvvuiku9VG"
         }
       ],
-      "duration_ms": 155007,
-      "name": "Biwamiel",
-      "url": "https://open.spotify.com/track/2AyYTQeP2N2Wt0UjTDS1Er"
+      "duration_ms": 208988,
+      "name": "Sembera",
+      "url": "https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -415,18 +411,22 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Sembera",
-        "url": "https://open.spotify.com/album/5waV4kXwhpQBV4Ws7d2Ppi"
+        "name": "Biwamiel",
+        "url": "https://open.spotify.com/album/5wiZF2P9MsXJmXfQ5foRaa"
       },
       "artists": [
         {
-          "name": "Geosteady",
-          "url": "https://open.spotify.com/artist/7kam501AHBrZZvvuiku9VG"
+          "name": "Udulele",
+          "url": "https://open.spotify.com/artist/5hFXOpwk5ewy5faVUsgdwY"
+        },
+        {
+          "name": "Umoja",
+          "url": "https://open.spotify.com/artist/6PuOeFpvcL6TYcRmEJKbdw"
         }
       ],
-      "duration_ms": 208988,
-      "name": "Sembera",
-      "url": "https://open.spotify.com/track/7vgMzmsgtspbBfMVpX9JSk"
+      "duration_ms": 155007,
+      "name": "Biwamiel",
+      "url": "https://open.spotify.com/track/2AyYTQeP2N2Wt0UjTDS1Er"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -627,18 +627,22 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Chai Mata",
-        "url": "https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw"
+        "name": "Lover Man",
+        "url": "https://open.spotify.com/album/1sX3dmAeAYwDXjUlFqutoz"
       },
       "artists": [
         {
-          "name": "John Blaq",
-          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
+          "name": "Pallaso",
+          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
+        },
+        {
+          "name": "Jose Chameleone",
+          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Chai Mata",
-      "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
+      "duration_ms": 172016,
+      "name": "Bega Bega",
+      "url": "https://open.spotify.com/track/10aC0WMpCDLYJi2gz76sJK"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -663,22 +667,18 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Lover Man",
-        "url": "https://open.spotify.com/album/1sX3dmAeAYwDXjUlFqutoz"
+        "name": "Chai Mata",
+        "url": "https://open.spotify.com/album/5ZvpAM99cjGQ4JboHey2Jw"
       },
       "artists": [
         {
-          "name": "Pallaso",
-          "url": "https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5"
-        },
-        {
-          "name": "Jose Chameleone",
-          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
+          "name": "John Blaq",
+          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
         }
       ],
-      "duration_ms": 172016,
-      "name": "Bega Bega",
-      "url": "https://open.spotify.com/track/10aC0WMpCDLYJi2gz76sJK"
+      "duration_ms": 175000,
+      "name": "Chai Mata",
+      "url": "https://open.spotify.com/track/0yB5G5Yd2wJvIZDpNXMWBl"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/4Or0X5Z3c0lxpfcDe9I7M4"
-      },
-      "artists": [
-        {
-          "name": "SHENA SKIES",
-          "url": "https://open.spotify.com/artist/59a5FtFMSsCD2iYYfuQTvO"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/1Z5NPO5apm03OD1UzM30Vq"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "Kitooke Kyagonja",
         "url": "https://open.spotify.com/album/6xb67bqLm01dcf4CrhxEPa"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 190129,
       "name": "Kitooke Kyagonja",
       "url": "https://open.spotify.com/track/2b80GekCEE6WW8DeWZqxi7"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/4Or0X5Z3c0lxpfcDe9I7M4"
+      },
+      "artists": [
+        {
+          "name": "SHENA SKIES",
+          "url": "https://open.spotify.com/artist/59a5FtFMSsCD2iYYfuQTvO"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/1Z5NPO5apm03OD1UzM30Vq"
     },
     {
       "added_at": "2023-12-08 00:08:00",
@@ -879,26 +879,6 @@
     {
       "added_at": "2023-12-08 00:08:00",
       "album": {
-        "name": "Ekyama",
-        "url": "https://open.spotify.com/album/7pP6QgWbnNyzsArFSCklj0"
-      },
-      "artists": [
-        {
-          "name": "Jozzi Firebouy",
-          "url": "https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3"
-        },
-        {
-          "name": "Will84",
-          "url": "https://open.spotify.com/artist/1BeeJoeMWmKFM93rL0fF09"
-        }
-      ],
-      "duration_ms": 217021,
-      "name": "Ekyama",
-      "url": "https://open.spotify.com/track/0309BYyPGtJuZu5BRqcsYf"
-    },
-    {
-      "added_at": "2023-12-08 00:08:00",
-      "album": {
         "name": "Gukuba",
         "url": "https://open.spotify.com/album/2sGJOLxu38C9Fzin1iwB8z"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 172965,
       "name": "Gukuba",
       "url": "https://open.spotify.com/track/17rKr1FfnEDzA1LfyoAZqx"
+    },
+    {
+      "added_at": "2023-12-08 00:08:00",
+      "album": {
+        "name": "Ekyama",
+        "url": "https://open.spotify.com/album/7pP6QgWbnNyzsArFSCklj0"
+      },
+      "artists": [
+        {
+          "name": "Jozzi Firebouy",
+          "url": "https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3"
+        },
+        {
+          "name": "Will84",
+          "url": "https://open.spotify.com/artist/1BeeJoeMWmKFM93rL0fF09"
+        }
+      ],
+      "duration_ms": 217021,
+      "name": "Ekyama",
+      "url": "https://open.spotify.com/track/0309BYyPGtJuZu5BRqcsYf"
     },
     {
       "added_at": "2023-12-08 00:08:00",

@@ -4,7 +4,7 @@
 
 > Nuevos lanzamientos electrónicos de Latinoamérica\. / Novos lançamentos eletrônicos da América Latina\. Foto: Mr\. Pig
 
-88 songs - 5 hr 28 min
+89 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Maranguango \(Black Crystals Remix\)](https://open.spotify.com/track/5E13vCOhMrl2RZ2k0NdDco) | [RELATIN](https://open.spotify.com/artist/0t3hsCFzCFOP4Zev9DOIw8), [Jimmy Salcedo y Su Onda Tres](https://open.spotify.com/artist/6hNYM4PFIYRMecLznt2GAN), [Black Crystals](https://open.spotify.com/artist/311re5d2BlGXaj0MXiftjF) | [Maranguango \(Black Crystals Remix\)](https://open.spotify.com/album/6b7GN0HeCkvlAWM7hImmq9) | 4:27 | 2022-10-14 |  |
 | [Me Flipa](https://open.spotify.com/track/7cqbnpYkWFmt4nfMg1Lkbs) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Me Flipa](https://open.spotify.com/album/09pMAnCIlizKgiADiyctvY) | 3:09 | 2022-10-14 |  |
 | [Mi Necedad](https://open.spotify.com/track/359kqyd2FAX6XbGilJejYh) | [MNKYBSNSS](https://open.spotify.com/artist/7y93Bo1cpaMwqTCIxzVWFa) | [Solar](https://open.spotify.com/album/3sgl0nsYzi67AAFoi23wp4) | 3:55 | 2022-10-14 |  |
-| [Morenito](https://open.spotify.com/track/6etTt33N7wYwtDfuaqgthc) | [Chile](https://open.spotify.com/artist/0BnmjviyW0BAR2kK67AOPQ), [Mystic Natives](https://open.spotify.com/artist/0jltTJpT4TwfWBNDb393BY), [Aynes](https://open.spotify.com/artist/0WByZEwRntV98feeVnccWG) | [Morenito](https://open.spotify.com/album/5DYHkNfYvVuSJxjGSg0ptA) | 3:10 | 2022-10-14 |  |
+| [Morenito](https://open.spotify.com/track/5C4lyumkhkQsNPTfqID2gk) | [Chile](https://open.spotify.com/artist/0BnmjviyW0BAR2kK67AOPQ), [Aynes](https://open.spotify.com/artist/0WByZEwRntV98feeVnccWG), [Mystic Natives](https://open.spotify.com/artist/0jltTJpT4TwfWBNDb393BY) | [Morenito](https://open.spotify.com/album/5medqeaiGFGL8kW9gKMiGO) | 3:10 | 2022-10-14 |  |
+| [Morenito](https://open.spotify.com/track/6etTt33N7wYwtDfuaqgthc) | [Chile](https://open.spotify.com/artist/0BnmjviyW0BAR2kK67AOPQ), [Mystic Natives](https://open.spotify.com/artist/0jltTJpT4TwfWBNDb393BY), [Aynes](https://open.spotify.com/artist/0WByZEwRntV98feeVnccWG) | [Morenito](https://open.spotify.com/album/5DYHkNfYvVuSJxjGSg0ptA) | 3:10 | 2022-10-14 | 2023-12-23 |
 | [Move Yourself](https://open.spotify.com/track/1Va9EZue2K3uxLFjaUk555) | [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX) | [Move Yourself](https://open.spotify.com/album/7vol2fcJo8yopKQFnJX0CB) | 2:45 | 2022-10-14 |  |
 | [Movimiento](https://open.spotify.com/track/1Olb7jW1ACym5WkqFxuIWG) | [RUMPUS](https://open.spotify.com/artist/6UbKjDmDWrGKZdHNYxjveJ), [Broken Future](https://open.spotify.com/artist/4uRey4s58J44Hw796OCZQ1), [Stund](https://open.spotify.com/artist/6nNP7Cm5qEpkL9sHNR5Zgk) | [Movimiento](https://open.spotify.com/album/35gXKFhNaHp4pSSRszDgKD) | 3:51 | 2022-10-14 |  |
 | [Ninguém](https://open.spotify.com/track/3sftN56oIBQV6zCYsMcHQC) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Fran](https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1), [Chico Chico](https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s) | [Ninguém](https://open.spotify.com/album/7sVIxL5nEHpyBQuy0Nhe3c) | 4:21 | 2022-10-14 |  |

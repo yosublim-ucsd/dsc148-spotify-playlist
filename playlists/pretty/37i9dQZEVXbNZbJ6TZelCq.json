@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Romania.",
-  "num_followers": 32370,
+  "num_followers": 32378,
   "original_name": "Top 50 - Romania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzU2NTIzMjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzU2NjA5NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-12-21 09:51:17",
+      "added_at": "2023-12-22 09:24:52",
       "album": {
         "name": "Fana",
         "url": "https://open.spotify.com/album/0HKQiYtP7btvohl2Bby3Xg"
@@ -29,7 +29,23 @@
       "url": "https://open.spotify.com/track/1eln2C07r6xDo06kErYrFn"
     },
     {
-      "added_at": "2023-12-21 09:51:17",
+      "added_at": "2023-12-22 09:24:52",
+      "album": {
+        "name": "Romeo si Julieta",
+        "url": "https://open.spotify.com/album/3eAMl71T5yAeQ6gRQq1d1Q"
+      },
+      "artists": [
+        {
+          "name": "Alex Botea",
+          "url": "https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz"
+        }
+      ],
+      "duration_ms": 204445,
+      "name": "Romeo si Julieta",
+      "url": "https://open.spotify.com/track/7MMsotK7YIHmWfgmKdcivz"
+    },
+    {
+      "added_at": "2023-12-22 09:24:52",
       "album": {
         "name": "Sirup Deep Anthems Rome 2018",
         "url": "https://open.spotify.com/album/5CGJfKmUPpNkXOubQDkUTk"
@@ -49,23 +65,31 @@
       "url": "https://open.spotify.com/track/3xeE7mzyAl9ymAupBdG8wk"
     },
     {
-      "added_at": "2023-12-21 09:51:17",
+      "added_at": "2023-12-22 09:24:52",
       "album": {
-        "name": "Romeo si Julieta",
-        "url": "https://open.spotify.com/album/3eAMl71T5yAeQ6gRQq1d1Q"
+        "name": "HOT (From Miami Bici 2 The Movie)",
+        "url": "https://open.spotify.com/album/0LxezMVWpLVvfGEV79DXIW"
       },
       "artists": [
         {
-          "name": "Alex Botea",
-          "url": "https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz"
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        },
+        {
+          "name": "Andrei G",
+          "url": "https://open.spotify.com/artist/5WXXT0hYK8tf9uGh0UYwDO"
+        },
+        {
+          "name": "Ministerul Manelelor",
+          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
         }
       ],
-      "duration_ms": 204445,
-      "name": "Romeo si Julieta",
-      "url": "https://open.spotify.com/track/7MMsotK7YIHmWfgmKdcivz"
+      "duration_ms": 170526,
+      "name": "HOT - From Miami Bici 2 The Movie",
+      "url": "https://open.spotify.com/track/03Lzl2Twhog0E0JKj4f1zE"
     },
     {
-      "added_at": "2023-12-21 09:51:17",
+      "added_at": "2023-12-22 09:24:52",
       "album": {
         "name": "COLDBOYS",
         "url": "https://open.spotify.com/album/7hfBU07goz3hOXvoHpWiZC"
@@ -97,7 +121,23 @@
       "url": "https://open.spotify.com/track/7pHJpnNnuFZBvGY5mwpkhD"
     },
     {
-      "added_at": "2023-12-21 09:51:17",
+      "added_at": "2023-12-22 09:24:52",
+      "album": {
+        "name": "The Singles: Echoes from the Edge of Heaven",
+        "url": "https://open.spotify.com/album/2wyHNTisH8PtZG8OG58xr6"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 265960,
+      "name": "Last Christmas - Single Version",
+      "url": "https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i"
+    },
+    {
+      "added_at": "2023-12-22 09:24:52",
       "album": {
         "name": "Pe un pat",
         "url": "https://open.spotify.com/album/21zqnnQMRL5GHAMzDOcX81"
@@ -117,31 +157,7 @@
       "url": "https://open.spotify.com/track/5kR18jBm2HQaavnVSVg3a8"
     },
     {
-      "added_at": "2023-12-21 09:51:17",
-      "album": {
-        "name": "HOT (From Miami Bici 2 The Movie)",
-        "url": "https://open.spotify.com/album/0LxezMVWpLVvfGEV79DXIW"
-      },
-      "artists": [
-        {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
-        },
-        {
-          "name": "Andrei G",
-          "url": "https://open.spotify.com/artist/5WXXT0hYK8tf9uGh0UYwDO"
-        },
-        {
-          "name": "Ministerul Manelelor",
-          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
-        }
-      ],
-      "duration_ms": 170526,
-      "name": "HOT - From Miami Bici 2 The Movie",
-      "url": "https://open.spotify.com/track/03Lzl2Twhog0E0JKj4f1zE"
-    },
-    {
-      "added_at": "2023-12-21 09:51:17",
+      "added_at": "2023-12-22 09:24:52",
       "album": {
         "name": "GEME",
         "url": "https://open.spotify.com/album/2PCfHV4wUKSgJ69FbYF6eK"
@@ -157,39 +173,7 @@
       "url": "https://open.spotify.com/track/6fhOjFfcxRKvzdtNw46KGr"
     },
     {
-      "added_at": "2023-12-21 09:51:17",
-      "album": {
-        "name": "The Singles: Echoes from the Edge of Heaven",
-        "url": "https://open.spotify.com/album/2wyHNTisH8PtZG8OG58xr6"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 265960,
-      "name": "Last Christmas - Single Version",
-      "url": "https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i"
-    },
-    {
-      "added_at": "2023-12-21 09:51:17",
-      "album": {
-        "name": "Ciocolata",
-        "url": "https://open.spotify.com/album/70F5lVP5WzSrN3kcqK3jC4"
-      },
-      "artists": [
-        {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
-        }
-      ],
-      "duration_ms": 169697,
-      "name": "Ciocolata",
-      "url": "https://open.spotify.com/track/1CbI1EWcf3KFg4QJsKa3aT"
-    },
-    {
-      "added_at": "2023-12-21 09:51:17",
+      "added_at": "2023-12-22 09:24:52",
       "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
@@ -205,7 +189,7 @@
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
     },
     {
-      "added_at": "2023-12-21 09:51:17",
+      "added_at": "2023-12-22 09:24:52",
       "album": {
         "name": "Merry Christmas From Brenda Lee",
         "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
@@ -221,7 +205,23 @@
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
     },
     {
-      "added_at": "2023-12-21 09:51:17",
+      "added_at": "2023-12-22 09:24:52",
+      "album": {
+        "name": "Ciocolata",
+        "url": "https://open.spotify.com/album/70F5lVP5WzSrN3kcqK3jC4"
+      },
+      "artists": [
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        }
+      ],
+      "duration_ms": 169697,
+      "name": "Ciocolata",
+      "url": "https://open.spotify.com/track/1CbI1EWcf3KFg4QJsKa3aT"
+    },
+    {
+      "added_at": "2023-12-22 09:24:52",
       "album": {
         "name": "Everyday Is Christmas (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
@@ -237,7 +237,7 @@
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
     },
     {
-      "added_at": "2023-12-21 09:51:17",
+      "added_at": "2023-12-22 09:24:52",
       "album": {
         "name": "\u021aiganc\u0103 Balcanic\u0103",
         "url": "https://open.spotify.com/album/7sYnNZqW8UZG54fB9MYtnX"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/3GVCA9D3bm9xIQePPn7YKw"
     },
     {
-      "added_at": "2023-12-21 09:51:17",
+      "added_at": "2023-12-22 09:24:52",
       "album": {
         "name": "CO$ANO$TRA",
         "url": "https://open.spotify.com/album/5IZ2vNWU5TsPzkMYnN2hg8"
@@ -297,39 +297,7 @@
       "url": "https://open.spotify.com/track/4Uj8pdbro2QZmWpAbpdgI0"
     },
     {
-      "added_at": "2023-12-21 09:51:17",
-      "album": {
-        "name": "Sir PartyPackz al III-lea",
-        "url": "https://open.spotify.com/album/5deTNCTdxsEULFf1DaGiR8"
-      },
-      "artists": [
-        {
-          "name": "Aerozen",
-          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
-        }
-      ],
-      "duration_ms": 78500,
-      "name": "ZENUZILE",
-      "url": "https://open.spotify.com/track/1Thvmk8eDQm9ytwNzGUkHk"
-    },
-    {
-      "added_at": "2023-12-21 09:51:17",
-      "album": {
-        "name": "CARTEA JUNGLEI",
-        "url": "https://open.spotify.com/album/0kOUAVz6jKiWYp9qZjqDNh"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
-        }
-      ],
-      "duration_ms": 188388,
-      "name": "CLEOPATRA",
-      "url": "https://open.spotify.com/track/5rAArOCAb4jxO9AMCuGmef"
-    },
-    {
-      "added_at": "2023-12-21 09:51:17",
+      "added_at": "2023-12-22 09:24:52",
       "album": {
         "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
         "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
@@ -345,7 +313,39 @@
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
     },
     {
-      "added_at": "2023-12-21 09:51:17",
+      "added_at": "2023-12-22 09:24:52",
+      "album": {
+        "name": "Sir PartyPackz al III-lea",
+        "url": "https://open.spotify.com/album/5deTNCTdxsEULFf1DaGiR8"
+      },
+      "artists": [
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        }
+      ],
+      "duration_ms": 78500,
+      "name": "ZENUZILE",
+      "url": "https://open.spotify.com/track/1Thvmk8eDQm9ytwNzGUkHk"
+    },
+    {
+      "added_at": "2023-12-22 09:24:52",
+      "album": {
+        "name": "CARTEA JUNGLEI",
+        "url": "https://open.spotify.com/album/0kOUAVz6jKiWYp9qZjqDNh"
+      },
+      "artists": [
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP"
+        }
+      ],
+      "duration_ms": 188388,
+      "name": "CLEOPATRA",
+      "url": "https://open.spotify.com/track/5rAArOCAb4jxO9AMCuGmef"
+    },
+    {
+      "added_at": "2023-12-22 09:24:52",
       "album": {
         "name": "A Winter Romance",
         "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
     },
     {
-      "added_at": "2023-12-21 09:51:17",
+      "added_at": "2023-12-22 09:24:52",
       "album": {
         "name": "Santa Tell Me",
         "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
     },
     {
-      "added_at": "2023-12-21 09:51:17",
+      "added_at": "2023-12-22 09:24:52",
       "album": {
         "name": "Christmas (Deluxe Special Edition)",
         "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
     },
     {
-      "added_at": "2023-12-21 09:51:17",
+      "added_at": "2023-12-22 09:24:52",
       "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
@@ -409,43 +409,23 @@
       "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
     },
     {
-      "added_at": "2023-12-21 09:51:17",
+      "added_at": "2023-12-22 09:24:52",
       "album": {
-        "name": "Gipsy Style",
-        "url": "https://open.spotify.com/album/6RmIV4vD5XVXxjgZnnCpZc"
+        "name": "The Andy Williams Christmas Album",
+        "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
       },
       "artists": [
         {
-          "name": "Costel Biju",
-          "url": "https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY"
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
         }
       ],
-      "duration_ms": 188355,
-      "name": "Gipsy Style",
-      "url": "https://open.spotify.com/track/6jrg6XKjDtvFGp11a0JQZQ"
+      "duration_ms": 151000,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
     },
     {
-      "added_at": "2023-12-21 09:51:17",
-      "album": {
-        "name": "Te vreau",
-        "url": "https://open.spotify.com/album/3cR6uZAfyUUSyvPis576ha"
-      },
-      "artists": [
-        {
-          "name": "Lele",
-          "url": "https://open.spotify.com/artist/1vVemTBdqWTcJ0zCc0Oa6G"
-        },
-        {
-          "name": "Manele VTM",
-          "url": "https://open.spotify.com/artist/5gxPLBxkeuP0I3Ey17rSba"
-        }
-      ],
-      "duration_ms": 159230,
-      "name": "Te vreau",
-      "url": "https://open.spotify.com/track/4QC1HJMSSgTEOolSYyHrwq"
-    },
-    {
-      "added_at": "2023-12-21 09:51:17",
+      "added_at": "2023-12-22 09:24:52",
       "album": {
         "name": "Tati, vreau",
         "url": "https://open.spotify.com/album/7ec0ZSupalm3wKhkRg3f4X"
@@ -465,39 +445,43 @@
       "url": "https://open.spotify.com/track/7hoILhEoePHXh6qTw5H0Fe"
     },
     {
-      "added_at": "2023-12-21 09:51:17",
+      "added_at": "2023-12-22 09:24:52",
       "album": {
-        "name": "The Andy Williams Christmas Album",
-        "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
+        "name": "Gipsy Style",
+        "url": "https://open.spotify.com/album/6RmIV4vD5XVXxjgZnnCpZc"
       },
       "artists": [
         {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+          "name": "Costel Biju",
+          "url": "https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY"
         }
       ],
-      "duration_ms": 151000,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
+      "duration_ms": 188355,
+      "name": "Gipsy Style",
+      "url": "https://open.spotify.com/track/6jrg6XKjDtvFGp11a0JQZQ"
     },
     {
-      "added_at": "2023-12-21 09:51:17",
+      "added_at": "2023-12-22 09:24:52",
       "album": {
-        "name": "MARATON (From \"Haita De Ac\u021biune\" The Movie)",
-        "url": "https://open.spotify.com/album/5lp3Xg2wFExOHdVP05qM6L"
+        "name": "Te vreau",
+        "url": "https://open.spotify.com/album/3cR6uZAfyUUSyvPis576ha"
       },
       "artists": [
         {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+          "name": "Lele",
+          "url": "https://open.spotify.com/artist/1vVemTBdqWTcJ0zCc0Oa6G"
+        },
+        {
+          "name": "Manele VTM",
+          "url": "https://open.spotify.com/artist/5gxPLBxkeuP0I3Ey17rSba"
         }
       ],
-      "duration_ms": 158297,
-      "name": "MARATON - From \"Haita De Ac\u021biune\" The Movie",
-      "url": "https://open.spotify.com/track/3YCtgIn37ssc8PQmw6WLC5"
+      "duration_ms": 159230,
+      "name": "Te vreau",
+      "url": "https://open.spotify.com/track/4QC1HJMSSgTEOolSYyHrwq"
     },
     {
-      "added_at": "2023-12-21 09:51:17",
+      "added_at": "2023-12-22 09:24:52",
       "album": {
         "name": "Ping Pong",
         "url": "https://open.spotify.com/album/6vpnkFh7VxD3GMPhOunnm1"
@@ -517,7 +501,51 @@
       "url": "https://open.spotify.com/track/3qnJsnPfN3IeBg2dzWazVV"
     },
     {
-      "added_at": "2023-12-21 09:51:17",
+      "added_at": "2023-12-22 09:24:52",
+      "album": {
+        "name": "Big Dawg",
+        "url": "https://open.spotify.com/album/30nKOmyrrx4wYgsR1VA8zb"
+      },
+      "artists": [
+        {
+          "name": "Drei",
+          "url": "https://open.spotify.com/artist/3vPlGeR4Muj4qvMEnW5Rq9"
+        },
+        {
+          "name": "Petre Stefan",
+          "url": "https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh"
+        },
+        {
+          "name": "andrei",
+          "url": "https://open.spotify.com/artist/5tXxrzPQRZ7UK2cAQNSQW2"
+        },
+        {
+          "name": "Blueface",
+          "url": "https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Big Dawg",
+      "url": "https://open.spotify.com/track/7MGdLxPvA6BTNOtcayaefW"
+    },
+    {
+      "added_at": "2023-12-22 09:24:52",
+      "album": {
+        "name": "Papusa Barbie",
+        "url": "https://open.spotify.com/album/04cDqu6xsMILU0XekT4GMR"
+      },
+      "artists": [
+        {
+          "name": "Alex Botea",
+          "url": "https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz"
+        }
+      ],
+      "duration_ms": 210811,
+      "name": "Papusa Barbie",
+      "url": "https://open.spotify.com/track/5hlKmxQyK8TXVsuUBY0ZLo"
+    },
+    {
+      "added_at": "2023-12-22 09:24:52",
       "album": {
         "name": "Emirate",
         "url": "https://open.spotify.com/album/6SupsrnE6vLLVLye1QOemc"
@@ -537,23 +565,27 @@
       "url": "https://open.spotify.com/track/65uHYuqIZqueZNG6DbpSJi"
     },
     {
-      "added_at": "2023-12-21 09:51:17",
+      "added_at": "2023-12-22 09:24:52",
       "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+        "name": "Fata cu paharul",
+        "url": "https://open.spotify.com/album/1XZxYwRQQ6TkIsRTvxkdNj"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Iuly Neamtu",
+          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
+        },
+        {
+          "name": "Manele Mentolate",
+          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
         }
       ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+      "duration_ms": 142165,
+      "name": "Fata cu paharul",
+      "url": "https://open.spotify.com/track/26i4jKBlWSrlzpiB9V9gDB"
     },
     {
-      "added_at": "2023-12-21 09:51:17",
+      "added_at": "2023-12-22 09:24:52",
       "album": {
         "name": "Ebal (From \u201cRomina VTM\u201d The Movie)",
         "url": "https://open.spotify.com/album/5ffiwxBv94hpCO7wsWELn1"
@@ -573,7 +605,147 @@
       "url": "https://open.spotify.com/track/4vc40DbwS0XjindGtlZkwq"
     },
     {
-      "added_at": "2023-12-21 09:51:17",
+      "added_at": "2023-12-22 09:24:52",
+      "album": {
+        "name": "Cum O Dai Tu",
+        "url": "https://open.spotify.com/album/7eRYuKasLk4ia5sIDonv8e"
+      },
+      "artists": [
+        {
+          "name": "Iuly Neamtu",
+          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
+        },
+        {
+          "name": "Manele Mentolate",
+          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
+        }
+      ],
+      "duration_ms": 141333,
+      "name": "Cum O Dai Tu",
+      "url": "https://open.spotify.com/track/5TL2ui5tdet8DSvZTaHZbe"
+    },
+    {
+      "added_at": "2023-12-22 09:24:52",
+      "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+    },
+    {
+      "added_at": "2023-12-22 09:24:52",
+      "album": {
+        "name": "MARATON (From \"Haita De Ac\u021biune\" The Movie)",
+        "url": "https://open.spotify.com/album/5lp3Xg2wFExOHdVP05qM6L"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        }
+      ],
+      "duration_ms": 158297,
+      "name": "MARATON - From \"Haita De Ac\u021biune\" The Movie",
+      "url": "https://open.spotify.com/track/3YCtgIn37ssc8PQmw6WLC5"
+    },
+    {
+      "added_at": "2023-12-22 09:24:52",
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 260111,
+      "name": "IDGAF (feat. Yeat)",
+      "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
+    },
+    {
+      "added_at": "2023-12-22 09:24:52",
+      "album": {
+        "name": "Havana",
+        "url": "https://open.spotify.com/album/3gDSfdAoi1fun98LyIHapL"
+      },
+      "artists": [
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        }
+      ],
+      "duration_ms": 165882,
+      "name": "Havana",
+      "url": "https://open.spotify.com/track/4i9Ul89UPf5YPppdOspCH6"
+    },
+    {
+      "added_at": "2023-12-22 09:24:52",
+      "album": {
+        "name": "8 Culcat",
+        "url": "https://open.spotify.com/album/2Zldu0YI5hLE6nNwaQd0Ss"
+      },
+      "artists": [
+        {
+          "name": "Satra B.E.N.Z.",
+          "url": "https://open.spotify.com/artist/3ZxemCGQmRuqoBPhQP5Gut"
+        },
+        {
+          "name": "Alduts Sherdley",
+          "url": "https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF"
+        }
+      ],
+      "duration_ms": 168500,
+      "name": "Prietena ta",
+      "url": "https://open.spotify.com/track/5CVzlpSX7O8InwOvubCBXd"
+    },
+    {
+      "added_at": "2023-12-22 09:24:52",
+      "album": {
+        "name": "Sleigh Ride",
+        "url": "https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s"
+      },
+      "artists": [
+        {
+          "name": "The Ronettes",
+          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
+        }
+      ],
+      "duration_ms": 181266,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
+    },
+    {
+      "added_at": "2023-12-22 09:24:52",
+      "album": {
+        "name": "BULIBA$HA",
+        "url": "https://open.spotify.com/album/67WFNL0Ck6ksp3csCVXue1"
+      },
+      "artists": [
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        }
+      ],
+      "duration_ms": 97391,
+      "name": "BULIBA$HA",
+      "url": "https://open.spotify.com/track/7q7KhsazHZG8EM8Qt08YmO"
+    },
+    {
+      "added_at": "2023-12-22 09:24:52",
       "album": {
         "name": "SUNETE 2",
         "url": "https://open.spotify.com/album/2CSdv5brTnCOhv9HxWlCxl"
@@ -597,155 +769,7 @@
       "url": "https://open.spotify.com/track/2vypqMNbxNn7jVrscNxrFZ"
     },
     {
-      "added_at": "2023-12-21 09:51:17",
-      "album": {
-        "name": "Cum O Dai Tu",
-        "url": "https://open.spotify.com/album/7eRYuKasLk4ia5sIDonv8e"
-      },
-      "artists": [
-        {
-          "name": "Iuly Neamtu",
-          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
-        },
-        {
-          "name": "Manele Mentolate",
-          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
-        }
-      ],
-      "duration_ms": 141333,
-      "name": "Cum O Dai Tu",
-      "url": "https://open.spotify.com/track/5TL2ui5tdet8DSvZTaHZbe"
-    },
-    {
-      "added_at": "2023-12-21 09:51:17",
-      "album": {
-        "name": "Fata cu paharul",
-        "url": "https://open.spotify.com/album/1XZxYwRQQ6TkIsRTvxkdNj"
-      },
-      "artists": [
-        {
-          "name": "Iuly Neamtu",
-          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
-        },
-        {
-          "name": "Manele Mentolate",
-          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
-        }
-      ],
-      "duration_ms": 142165,
-      "name": "Fata cu paharul",
-      "url": "https://open.spotify.com/track/26i4jKBlWSrlzpiB9V9gDB"
-    },
-    {
-      "added_at": "2023-12-21 09:51:17",
-      "album": {
-        "name": "Papusa Barbie",
-        "url": "https://open.spotify.com/album/04cDqu6xsMILU0XekT4GMR"
-      },
-      "artists": [
-        {
-          "name": "Alex Botea",
-          "url": "https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz"
-        }
-      ],
-      "duration_ms": 210811,
-      "name": "Papusa Barbie",
-      "url": "https://open.spotify.com/track/5hlKmxQyK8TXVsuUBY0ZLo"
-    },
-    {
-      "added_at": "2023-12-21 09:51:17",
-      "album": {
-        "name": "8 Culcat",
-        "url": "https://open.spotify.com/album/2Zldu0YI5hLE6nNwaQd0Ss"
-      },
-      "artists": [
-        {
-          "name": "Satra B.E.N.Z.",
-          "url": "https://open.spotify.com/artist/3ZxemCGQmRuqoBPhQP5Gut"
-        },
-        {
-          "name": "Alduts Sherdley",
-          "url": "https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF"
-        }
-      ],
-      "duration_ms": 168500,
-      "name": "Prietena ta",
-      "url": "https://open.spotify.com/track/5CVzlpSX7O8InwOvubCBXd"
-    },
-    {
-      "added_at": "2023-12-21 09:51:17",
-      "album": {
-        "name": "BULIBA$HA",
-        "url": "https://open.spotify.com/album/67WFNL0Ck6ksp3csCVXue1"
-      },
-      "artists": [
-        {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
-        }
-      ],
-      "duration_ms": 97391,
-      "name": "BULIBA$HA",
-      "url": "https://open.spotify.com/track/7q7KhsazHZG8EM8Qt08YmO"
-    },
-    {
-      "added_at": "2023-12-21 09:51:17",
-      "album": {
-        "name": "CONTACT FATAL 2",
-        "url": "https://open.spotify.com/album/4xPeqymbeBMtRyYntgUQ8n"
-      },
-      "artists": [
-        {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
-        }
-      ],
-      "duration_ms": 145846,
-      "name": "CONTACT FATAL 2",
-      "url": "https://open.spotify.com/track/5h1Zucrq9PfrPdMBryoTW5"
-    },
-    {
-      "added_at": "2023-12-21 09:51:17",
-      "album": {
-        "name": "Skinny",
-        "url": "https://open.spotify.com/album/5una74bZSAFh9inUlejrr3"
-      },
-      "artists": [
-        {
-          "name": "Jador",
-          "url": "https://open.spotify.com/artist/6o6jMpcBBv4jMOEE1Z4tlJ"
-        },
-        {
-          "name": "Manele Mentolate",
-          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
-        }
-      ],
-      "duration_ms": 166764,
-      "name": "Skinny",
-      "url": "https://open.spotify.com/track/0PrEHlFBgEsAxwJ3oKgxX3"
-    },
-    {
-      "added_at": "2023-12-21 09:51:17",
-      "album": {
-        "name": "Pentru ca",
-        "url": "https://open.spotify.com/album/6xA5uMZ5SLFnv2K9IVKOUx"
-      },
-      "artists": [
-        {
-          "name": "Andia",
-          "url": "https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn"
-        },
-        {
-          "name": "Deliric",
-          "url": "https://open.spotify.com/artist/357du2352LkLWerYcY49WY"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Pentru ca",
-      "url": "https://open.spotify.com/track/6xAefOqCvDKEcOjPovAMc6"
-    },
-    {
-      "added_at": "2023-12-21 09:51:17",
+      "added_at": "2023-12-22 09:24:52",
       "album": {
         "name": "Bun Venit Acasa",
         "url": "https://open.spotify.com/album/0A0V7bGMeQYh4TRSZdv1QR"
@@ -765,107 +789,47 @@
       "url": "https://open.spotify.com/track/0XwdAvTislcveETFNruf2l"
     },
     {
-      "added_at": "2023-12-21 09:51:17",
+      "added_at": "2023-12-22 09:24:52",
       "album": {
-        "name": "Bonnie & Clyde",
-        "url": "https://open.spotify.com/album/4QAyFKSjgOz5UrotwPgJOq"
+        "name": "Skinny",
+        "url": "https://open.spotify.com/album/5una74bZSAFh9inUlejrr3"
       },
       "artists": [
         {
-          "name": "NOUA UNSPE",
-          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
-        }
-      ],
-      "duration_ms": 145001,
-      "name": "Bonnie & Clyde",
-      "url": "https://open.spotify.com/track/4yXfjXz2RKFFUS610RaRiw"
-    },
-    {
-      "added_at": "2023-12-21 09:51:17",
-      "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Jador",
+          "url": "https://open.spotify.com/artist/6o6jMpcBBv4jMOEE1Z4tlJ"
         },
         {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+          "name": "Manele Mentolate",
+          "url": "https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR"
         }
       ],
-      "duration_ms": 260111,
-      "name": "IDGAF (feat. Yeat)",
-      "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
+      "duration_ms": 166764,
+      "name": "Skinny",
+      "url": "https://open.spotify.com/track/0PrEHlFBgEsAxwJ3oKgxX3"
     },
     {
-      "added_at": "2023-12-21 09:51:17",
+      "added_at": "2023-12-22 09:24:52",
       "album": {
-        "name": "Havana",
-        "url": "https://open.spotify.com/album/3gDSfdAoi1fun98LyIHapL"
+        "name": "La tine \u0219i la bani (From \"Romina VTM\" The Movie)",
+        "url": "https://open.spotify.com/album/2vrlJUckJYEYRdtHR7gLTE"
       },
       "artists": [
         {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
-        }
-      ],
-      "duration_ms": 165882,
-      "name": "Havana",
-      "url": "https://open.spotify.com/track/4i9Ul89UPf5YPppdOspCH6"
-    },
-    {
-      "added_at": "2023-12-21 09:51:17",
-      "album": {
-        "name": "MILIARDE 2",
-        "url": "https://open.spotify.com/album/6eh6Xj3jNDitaBIZs5tW8T"
-      },
-      "artists": [
+          "name": "rares",
+          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
+        },
         {
-          "name": "Aerozen",
-          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
         }
       ],
-      "duration_ms": 235500,
-      "name": "MILIARDE 2",
-      "url": "https://open.spotify.com/track/4CO2kVFMNoFtulxbViGV9k"
+      "duration_ms": 145617,
+      "name": "La tine \u0219i la bani - From \"Romina VTM\" The Movie",
+      "url": "https://open.spotify.com/track/2BsJFgVnk4FYTyzyovwQ5A"
     },
     {
-      "added_at": "2023-12-21 09:51:17",
-      "album": {
-        "name": "\u00cenapoi La Via\u021b\u0103",
-        "url": "https://open.spotify.com/album/3wkTpN9RolhAhQkIYrPhTi"
-      },
-      "artists": [
-        {
-          "name": "Oscar",
-          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
-        }
-      ],
-      "duration_ms": 123448,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/0aRAYNUQt0GI79ZrHsuw0n"
-    },
-    {
-      "added_at": "2023-12-21 09:51:17",
-      "album": {
-        "name": "Regina Nop\u021bii",
-        "url": "https://open.spotify.com/album/0Hkq9ujPenVnFck8dFBgde"
-      },
-      "artists": [
-        {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
-        }
-      ],
-      "duration_ms": 193588,
-      "name": "Regina Nop\u021bii",
-      "url": "https://open.spotify.com/track/17AmTJ2vJJGi5cLU3TnccV"
-    },
-    {
-      "added_at": "2023-12-21 09:51:17",
+      "added_at": "2023-12-22 09:24:52",
       "album": {
         "name": "Miss Dior",
         "url": "https://open.spotify.com/album/1d98QAKQbTW1FgbCmEDXsJ"
@@ -889,10 +853,10 @@
       "url": "https://open.spotify.com/track/5QfTd25qZ0lCIUC4zMWWUq"
     },
     {
-      "added_at": "2023-12-21 09:51:17",
+      "added_at": "2023-12-22 09:24:52",
       "album": {
-        "name": "BUGATTI",
-        "url": "https://open.spotify.com/album/5PBXhBuqnaIayYAuTWvYAb"
+        "name": "MILIARDE 2",
+        "url": "https://open.spotify.com/album/6eh6Xj3jNDitaBIZs5tW8T"
       },
       "artists": [
         {
@@ -900,49 +864,93 @@
           "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
         }
       ],
-      "duration_ms": 160551,
-      "name": "BUGATTI",
-      "url": "https://open.spotify.com/track/4ZIUTq57n9YpRCIl5WLM0i"
+      "duration_ms": 235500,
+      "name": "MILIARDE 2",
+      "url": "https://open.spotify.com/track/4CO2kVFMNoFtulxbViGV9k"
     },
     {
-      "added_at": "2023-12-21 09:51:17",
+      "added_at": "2023-12-22 09:24:52",
       "album": {
-        "name": "Sleigh Ride",
-        "url": "https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s"
+        "name": "Pentru ca",
+        "url": "https://open.spotify.com/album/6xA5uMZ5SLFnv2K9IVKOUx"
       },
       "artists": [
         {
-          "name": "The Ronettes",
-          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
+          "name": "Andia",
+          "url": "https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn"
+        },
+        {
+          "name": "Deliric",
+          "url": "https://open.spotify.com/artist/357du2352LkLWerYcY49WY"
         }
       ],
-      "duration_ms": 181266,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
+      "duration_ms": 192000,
+      "name": "Pentru ca",
+      "url": "https://open.spotify.com/track/6xAefOqCvDKEcOjPovAMc6"
     },
     {
-      "added_at": "2023-12-21 09:51:17",
+      "added_at": "2023-12-22 09:24:52",
       "album": {
-        "name": "Popular (Music from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
+        "name": "\u00cenapoi La Via\u021b\u0103",
+        "url": "https://open.spotify.com/album/3wkTpN9RolhAhQkIYrPhTi"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "Oscar",
+          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
         }
       ],
-      "duration_ms": 215466,
-      "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
-      "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
+      "duration_ms": 123448,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/0aRAYNUQt0GI79ZrHsuw0n"
+    },
+    {
+      "added_at": "2023-12-22 09:24:52",
+      "album": {
+        "name": "Bonnie & Clyde",
+        "url": "https://open.spotify.com/album/4QAyFKSjgOz5UrotwPgJOq"
+      },
+      "artists": [
+        {
+          "name": "NOUA UNSPE",
+          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
+        }
+      ],
+      "duration_ms": 145001,
+      "name": "Bonnie & Clyde",
+      "url": "https://open.spotify.com/track/4yXfjXz2RKFFUS610RaRiw"
+    },
+    {
+      "added_at": "2023-12-22 09:24:52",
+      "album": {
+        "name": "CONTACT FATAL 2",
+        "url": "https://open.spotify.com/album/4xPeqymbeBMtRyYntgUQ8n"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        }
+      ],
+      "duration_ms": 145846,
+      "name": "CONTACT FATAL 2",
+      "url": "https://open.spotify.com/track/5h1Zucrq9PfrPdMBryoTW5"
+    },
+    {
+      "added_at": "2023-12-22 09:24:52",
+      "album": {
+        "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Underneath the Tree",
+      "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
     }
   ],
   "unique_name": "Top 50 - Romania",

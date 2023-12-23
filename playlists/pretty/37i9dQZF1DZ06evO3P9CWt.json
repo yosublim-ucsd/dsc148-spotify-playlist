@@ -1,15 +1,39 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 275439,
+  "num_followers": 275455,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzODYwMTksMDAwMDAwMDBhMzE0OTJiOWI0M2VjODIyZGI2NWFlNzdmYjQ2NjkwYQ==",
+  "snapshot_id": "MjgzODc0NTksMDAwMDAwMDBiNjJjNTY1Nzk1MTdmODcxMTdkMWE0ODBiYWFlNDRiMg==",
   "tracks": [
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
+      "album": {
+        "name": "DOCE 22",
+        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 150259,
+      "name": "MODO TURBO",
+      "url": "https://open.spotify.com/track/2ip4hxYupn3CSsHjn4l2a8"
+    },
+    {
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "BANDIDONA",
         "url": "https://open.spotify.com/album/3le9u1jM09SXaQY0HyeEpK"
@@ -37,31 +61,7 @@
       "url": "https://open.spotify.com/track/70t5xVFE5WJcg80wklPbcX"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
-      "album": {
-        "name": "DOCE 22",
-        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 150259,
-      "name": "MODO TURBO",
-      "url": "https://open.spotify.com/track/2ip4hxYupn3CSsHjn4l2a8"
-    },
-    {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "BRUXARIA 3000",
         "url": "https://open.spotify.com/album/4dSYs3xICrNR4Mob4nn3Sa"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/4WerFN1IRbgy8RGqpe08SH"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "Vai Passar Mal",
         "url": "https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/5zSiXA70xM4kuSt6qim6jl"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "AFTER",
         "url": "https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/7CzUp49fXwsYP4CgQNfDSh"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "Noitada",
         "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/27bgMTAq4qTACnE48M3aTH"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "AmarElo",
         "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/5p3LIyy38s0QQNoSTwbZXX"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "SAL",
         "url": "https://open.spotify.com/album/2QhW0MWqMoUENkeL2CFSXE"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/4b5rbmik2mSrGo8IvjDUUp"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "AFTER",
         "url": "https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/7hPSlGAChIcqAbBXFgbcdq"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "Noitada",
         "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/5jsCH1ydkfz1icE9BabgnZ"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "SEREIA",
         "url": "https://open.spotify.com/album/2klhmIzCu9KrwHJbsuS2lb"
@@ -253,7 +253,7 @@
       "url": "https://open.spotify.com/track/4vgbaXFJ3TjznS4erd48zp"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "Know No Better",
         "url": "https://open.spotify.com/album/4PJtsH62RuojHmS3VCAHXx"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/5gUFvcHTgDNthj7DmZl2L7"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "Batid\u00e3o Tropical",
         "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/0L8nJt3b5LjXvFfDt7x2pP"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "AFTER",
         "url": "https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ"
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/7oIW4mt7JZeqEUyZiKR6s3"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "Pandora",
         "url": "https://open.spotify.com/album/1eHsHKConMfzho7k48pomW"
@@ -341,7 +341,7 @@
       "url": "https://open.spotify.com/track/6nmYC5NZrRjRMhyR4aHLoF"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "111 DELUXE",
         "url": "https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/2VFTgZwiAdrADSLrUNHWt9"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "ADMIR\u00c1VEL CHIP NOVO (RE)ATIVADO",
         "url": "https://open.spotify.com/album/6bIHDpi2YUAO3C2CinsGSZ"
@@ -381,7 +381,7 @@
       "url": "https://open.spotify.com/track/6ejNK6AivWJKC1QOZlzmq0"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "N\u00e3o Para N\u00e3o",
         "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
@@ -397,7 +397,7 @@
       "url": "https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "Batid\u00e3o Tropical",
         "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/7zyZ9yPXIQebb79PrMghpV"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/7vpGKEUPrA4UEsS4o4W1tP"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "N\u00e3o Esque\u00e7o",
         "url": "https://open.spotify.com/album/5ZdxGjDEVczmubvGbzf5Ru"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/3ycgRTqMzjmLMhWfuIKIcm"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "N\u00e3o Para N\u00e3o",
         "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
@@ -465,7 +465,7 @@
       "url": "https://open.spotify.com/track/220QqE38Qrmyrtyd5xqB8i"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "Batid\u00e3o Tropical",
         "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/5yKXn2WXISKovZSzczhBI9"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "AFTER",
         "url": "https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/3TRIwk9p4ACUJwTxs8SqWQ"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "Noitada",
         "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
@@ -529,7 +529,7 @@
       "url": "https://open.spotify.com/track/3l7guSk8yRLenAYRQuWGoH"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "Vai Passar Mal",
         "url": "https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT"
@@ -549,7 +549,7 @@
       "url": "https://open.spotify.com/track/4kkQGhScJDzNIIGavQE9SN"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "Dawn Of Chromatica",
         "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/70FhY7hwautR5xB1qnHzVn"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "Batid\u00e3o Tropical",
         "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
@@ -585,7 +585,7 @@
       "url": "https://open.spotify.com/track/22xeSdbkS1rjlw0J7alewY"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "N\u00e3o Para N\u00e3o",
         "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
@@ -601,7 +601,7 @@
       "url": "https://open.spotify.com/track/7uTv9wHkOPh5P9HFmkOE28"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "Cavalgada",
         "url": "https://open.spotify.com/album/044NoY1Exsn2gjc7N9yNmZ"
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/299c1FN7oTHwldS1risWZ8"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "AFTER",
         "url": "https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ"
@@ -641,7 +641,7 @@
       "url": "https://open.spotify.com/track/0OglCVZmal9RN57WnbbfvE"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "Batid\u00e3o Tropical",
         "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
@@ -657,7 +657,7 @@
       "url": "https://open.spotify.com/track/4gqJgiZDOoLrKNN7bmvYKa"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "Noitada",
         "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
@@ -673,7 +673,7 @@
       "url": "https://open.spotify.com/track/1eWxOQgPVk1u26JycDcm6T"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "N\u00e3o Para N\u00e3o",
         "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
@@ -693,7 +693,7 @@
       "url": "https://open.spotify.com/track/5XZur2QUZ1yY1OclXoKFUt"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "AFTER",
         "url": "https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ"
@@ -721,7 +721,7 @@
       "url": "https://open.spotify.com/track/5l0sTb9daBTdVhDNrWs7FG"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "Batid\u00e3o Tropical",
         "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
@@ -737,7 +737,7 @@
       "url": "https://open.spotify.com/track/3KgZPCgxOKqOeR5VEZXK43"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "111",
         "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
@@ -753,7 +753,7 @@
       "url": "https://open.spotify.com/track/1DmSaQjZkuwFi57KPv20oB"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "Parab\u00e9ns",
         "url": "https://open.spotify.com/album/0rDDD6fyQCUDiwlehEJsnd"
@@ -773,7 +773,7 @@
       "url": "https://open.spotify.com/track/6X0XdIcgwfVa9orJnDMQB0"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "AEIOU",
         "url": "https://open.spotify.com/album/6SeOld4CS4Le8JuxMmkfXP"
@@ -797,7 +797,7 @@
       "url": "https://open.spotify.com/track/49QWN3Hq99FriZqIWEISYQ"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "N\u00e3o Para N\u00e3o",
         "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
@@ -813,27 +813,7 @@
       "url": "https://open.spotify.com/track/7fP2cpq8jUlXz3h2QfEpgs"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
-      "album": {
-        "name": "Brava",
-        "url": "https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 192456,
-      "name": "Caliente (feat. Pabllo Vittar)",
-      "url": "https://open.spotify.com/track/75V0RdaCFKsQZX91mI9AD3"
-    },
-    {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "Para\u00edso",
         "url": "https://open.spotify.com/album/75DV3LLntXpYsaKqRahzlt"
@@ -853,7 +833,27 @@
       "url": "https://open.spotify.com/track/7u9maPG2E4cN9qChpe80qm"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
+      "album": {
+        "name": "Brava",
+        "url": "https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 192456,
+      "name": "Caliente (feat. Pabllo Vittar)",
+      "url": "https://open.spotify.com/track/75V0RdaCFKsQZX91mI9AD3"
+    },
+    {
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "111 DELUXE",
         "url": "https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP"
@@ -869,7 +869,7 @@
       "url": "https://open.spotify.com/track/6tkuCCpBNnAWjbOv2MHIgO"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "N\u00e3o Para N\u00e3o",
         "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
@@ -889,7 +889,7 @@
       "url": "https://open.spotify.com/track/7zvGNZu33bC4jZEkXHdDZ6"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "Lento (feat. Pabllo Vittar) [Brabo Remix]",
         "url": "https://open.spotify.com/album/4TJKo4PqnHVgwXmqgf5RYK"
@@ -913,7 +913,7 @@
       "url": "https://open.spotify.com/track/3BvwBnmbsKs7dBkU6PKBrT"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "Flash Pose",
         "url": "https://open.spotify.com/album/7a8LBp4khqUFgSc4j8tVgN"
@@ -933,7 +933,7 @@
       "url": "https://open.spotify.com/track/5GsJcnO3rgpZFOrzL2EISO"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "Noitada",
         "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
@@ -949,7 +949,7 @@
       "url": "https://open.spotify.com/track/2hXH0lq9mfxS8EVFsWOwmW"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/445vYMgXM6mKFRPJzYeeav"
@@ -969,7 +969,7 @@
       "url": "https://open.spotify.com/track/0BhxEu4q4jg6Ul7XUxv7So"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "Vai Passar Mal",
         "url": "https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT"
@@ -989,7 +989,7 @@
       "url": "https://open.spotify.com/track/5SOxxG6ju1Oq2hpoa6wARV"
     },
     {
-      "added_at": "2023-12-21 12:19:41",
+      "added_at": "2023-12-22 12:19:20",
       "album": {
         "name": "Pop 2",
         "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC"

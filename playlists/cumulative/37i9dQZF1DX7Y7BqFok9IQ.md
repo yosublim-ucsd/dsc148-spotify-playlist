@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Rival Sons
 
-260 songs - 16 hr 26 min
+261 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,8 +222,9 @@
 | [Testify \- Radio Edit](https://open.spotify.com/track/0AMQlLoWnXwD9rwe852cUM) | [These Wicked Rivers](https://open.spotify.com/artist/0GqHJdaaT0S1kjk3zhEVKu) | [Testify \(Radio Edit\)](https://open.spotify.com/album/3gboQHxNh9JFRNk1A1tib4) | 4:13 | 2023-02-03 | 2023-09-16 |
 | [The Call](https://open.spotify.com/track/7jC3g7Zt4hTsuOOMOBc75b) | [The Gulls](https://open.spotify.com/artist/2n0FlGHc3OxI0x2WI39BEc) | [The Call](https://open.spotify.com/album/7JO8hvc7MmKxvM217csaMz) | 3:29 | 2022-04-08 |  |
 | [The Deep And The Dirty](https://open.spotify.com/track/7muqW2jlmexIiyQpVz2eaR) | [Eric Johanson](https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z) | [The Deep And The Dirty](https://open.spotify.com/album/2xXRnrq7Q0eXvdSCvCMimk) | 3:47 | 2023-06-23 |  |
-| [The Drop](https://open.spotify.com/track/34uOD5RJT1kL2L3SCgNuRY) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Black Holes](https://open.spotify.com/album/6ESjsIQSb9iKqCkDo3S2sc) | 3:39 | 2020-10-16 |  |
+| [The Drop](https://open.spotify.com/track/34uOD5RJT1kL2L3SCgNuRY) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Black Holes](https://open.spotify.com/album/6ESjsIQSb9iKqCkDo3S2sc) | 3:39 | 2020-10-16 | 2023-12-23 |
 | [The Drop](https://open.spotify.com/track/4RaIGi86fsQ34SC4r7nGf5) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Black Holes](https://open.spotify.com/album/7uDSOgunaHsoMJchpIU44T) | 3:39 | 2020-10-16 | 2022-07-25 |
+| [The Drop](https://open.spotify.com/track/7v2sAn8Epk75eyuN7V1Xol) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Black Holes](https://open.spotify.com/album/4umFE3UJjwqt7N57m6VyTf) | 3:39 | 2020-10-16 |  |
 | [The Drop](https://open.spotify.com/track/4QDU4Wr9Jp0CRV2SaslhGv) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Ones to Keep Close](https://open.spotify.com/album/7v3pyxWeamgw2yhPj40CB0) | 3:16 | 2020-10-16 | 2023-03-04 |
 | [The Fighter](https://open.spotify.com/track/6P4peUgiAimtvhWWxLlDg3) | [Simon McBride](https://open.spotify.com/artist/4S2kddUZy77NYpLH50f3qC) | [The Fighter](https://open.spotify.com/album/1JMIEYKIxNWLqSKxGLKtxv) | 4:20 | 2021-12-17 | 2023-04-01 |
 | [The Heat](https://open.spotify.com/track/0XEUKN8CnHAKNmWmK1FG0d) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Spirit's Furnace](https://open.spotify.com/album/3cQWEV1dkuOosKa2EJNaxj) | 3:14 | 2020-10-16 |  |

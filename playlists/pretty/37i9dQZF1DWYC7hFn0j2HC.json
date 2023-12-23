@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de los charros cantores! Vicente Fern\u00e1ndez en portada.",
-  "num_followers": 196127,
+  "num_followers": 196275,
   "original_name": "Charros de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTFmNjQ0YTkwZWFlZTA0YzE4OTY2NTJkNzQyMmJmN2VjN2IxMzdi",
+  "snapshot_id": "MCwzM2M3ZDBlMzQzNzk1YWVmOGZlNGE3OWQzMjA4OGE2NWFkZWY2YWFj",
   "tracks": [
     {
       "added_at": "2022-01-25 23:38:31",
@@ -959,22 +959,6 @@
     {
       "added_at": "2022-01-25 23:38:31",
       "album": {
-        "name": "Antonio Aguilar con Mariachi",
-        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 189776,
-      "name": "Y \u00c1ndale",
-      "url": "https://open.spotify.com/track/4wCF8sJr4J3rkLO2fjlswA"
-    },
-    {
-      "added_at": "2022-01-25 23:38:31",
-      "album": {
         "name": "Qu\u00e9 De Raro Tiene",
         "url": "https://open.spotify.com/album/5N1xXRWtsVFU5exJhdYZdd"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 201933,
       "name": "Qu\u00e9 de Raro Tiene",
       "url": "https://open.spotify.com/track/3S1ksI8qYpwxFy8yPcSlte"
+    },
+    {
+      "added_at": "2022-01-25 23:38:31",
+      "album": {
+        "name": "Antonio Aguilar con Mariachi",
+        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 189776,
+      "name": "Y \u00c1ndale",
+      "url": "https://open.spotify.com/track/4wCF8sJr4J3rkLO2fjlswA"
     },
     {
       "added_at": "2022-01-25 23:38:31",

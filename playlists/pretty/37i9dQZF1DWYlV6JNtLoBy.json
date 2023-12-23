@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 4212,
+  "num_followers": 4224,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGIxMmM4NTUzOWEyNzYzMTZkZmU5NTY1MzQ1OTdmNTU5MWJmOWY0",
+  "snapshot_id": "MCw1ZGUzMjEwYWE4M2RhZjdkODdkMmE2MzIxZmQ2ZjJjOWZiYzhlZGZh",
   "tracks": [
     {
       "added_at": "2023-11-17 00:01:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Safari: The Journey",
+        "url": "https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy"
+      },
+      "artists": [
+        {
+          "name": "Adawnage",
+          "url": "https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3"
+        }
+      ],
+      "duration_ms": 282932,
+      "name": "Naomba",
+      "url": "https://open.spotify.com/track/3Js89zRlholrVwfRJpWGEV"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Another Miracle",
         "url": "https://open.spotify.com/album/2DtdcUoZzFKJBFx5qaHRsU"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 212869,
       "name": "Another Miracle",
       "url": "https://open.spotify.com/track/6KzOfBQbzxEZEpUKzJVDtG"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Safari: The Journey",
-        "url": "https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy"
-      },
-      "artists": [
-        {
-          "name": "Adawnage",
-          "url": "https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3"
-        }
-      ],
-      "duration_ms": 282932,
-      "name": "Naomba",
-      "url": "https://open.spotify.com/track/3Js89zRlholrVwfRJpWGEV"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Safari: The Journey",
+        "url": "https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy"
+      },
+      "artists": [
+        {
+          "name": "Adawnage",
+          "url": "https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3"
+        }
+      ],
+      "duration_ms": 281155,
+      "name": "Uwezo",
+      "url": "https://open.spotify.com/track/2CSXfQMjtbCi0bzPN8JqfM"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Tawala",
         "url": "https://open.spotify.com/album/2SvM1aj4W4cHTwdSuTyHQs"
       },
@@ -583,22 +599,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Ndio",
-        "url": "https://open.spotify.com/album/5CzUS1DY6pEqcYUxq9fiLm"
-      },
-      "artists": [
-        {
-          "name": "Rehema Simfukwe",
-          "url": "https://open.spotify.com/artist/6LL0XXSfIWHDxuDf9HmnjL"
-        }
-      ],
-      "duration_ms": 563252,
-      "name": "Ndio",
-      "url": "https://open.spotify.com/track/3CnETTK4rc5A5XnTWpvjWZ"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Nipe Macho",
         "url": "https://open.spotify.com/album/0GB03IydOiczdTv1bTK7DV"
       },
@@ -615,18 +615,18 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Safari: The Journey",
-        "url": "https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy"
+        "name": "Ndio",
+        "url": "https://open.spotify.com/album/5CzUS1DY6pEqcYUxq9fiLm"
       },
       "artists": [
         {
-          "name": "Adawnage",
-          "url": "https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3"
+          "name": "Rehema Simfukwe",
+          "url": "https://open.spotify.com/artist/6LL0XXSfIWHDxuDf9HmnjL"
         }
       ],
-      "duration_ms": 281155,
-      "name": "Uwezo",
-      "url": "https://open.spotify.com/track/2CSXfQMjtbCi0bzPN8JqfM"
+      "duration_ms": 563252,
+      "name": "Ndio",
+      "url": "https://open.spotify.com/track/3CnETTK4rc5A5XnTWpvjWZ"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -803,18 +803,18 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Uniongoze Yesu, Vol.4",
-        "url": "https://open.spotify.com/album/01mAHADPk1dOnHMBb1ILbx"
+        "name": "Nations Will Rise and Sing",
+        "url": "https://open.spotify.com/album/1M6f4SoC0VXNZoo9yMPOhV"
       },
       "artists": [
         {
-          "name": "UPENDO NKONE",
-          "url": "https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n"
+          "name": "Steve Crown",
+          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
         }
       ],
-      "duration_ms": 490919,
-      "name": "Uniongoze Yesu",
-      "url": "https://open.spotify.com/track/2V5Bn7Mazl8A7jNQ4fdyTy"
+      "duration_ms": 304680,
+      "name": "Awesome God",
+      "url": "https://open.spotify.com/track/4oCXUgcCSlJTe2UjMfzbOl"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Nations Will Rise and Sing",
-        "url": "https://open.spotify.com/album/1M6f4SoC0VXNZoo9yMPOhV"
+        "name": "Uniongoze Yesu, Vol.4",
+        "url": "https://open.spotify.com/album/01mAHADPk1dOnHMBb1ILbx"
       },
       "artists": [
         {
-          "name": "Steve Crown",
-          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
+          "name": "UPENDO NKONE",
+          "url": "https://open.spotify.com/artist/3rCqmZaKlxxo6LbbuhsF8n"
         }
       ],
-      "duration_ms": 304680,
-      "name": "Awesome God",
-      "url": "https://open.spotify.com/track/4oCXUgcCSlJTe2UjMfzbOl"
+      "duration_ms": 490919,
+      "name": "Uniongoze Yesu",
+      "url": "https://open.spotify.com/track/2V5Bn7Mazl8A7jNQ4fdyTy"
     },
     {
       "added_at": "2023-11-17 00:01:00",

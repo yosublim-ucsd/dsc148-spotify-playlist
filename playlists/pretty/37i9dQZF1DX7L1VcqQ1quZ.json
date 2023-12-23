@@ -1,12 +1,12 @@
 {
   "description": "All 90s, all ballads. Cover: Mariah Carey",
-  "num_followers": 337181,
+  "num_followers": 337343,
   "original_name": "90s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTg5OTUzMmUyMWM0YzUwMDU0OWIyZTdjNTZhOWJkZmJlNDMzZGUx",
+  "snapshot_id": "MCxmMjlkNzU0MmZlNjM4MThiZjMwMjhmNmQ4N2Q1M2Y5OGQ3ZmU3ZThm",
   "tracks": [
     {
       "added_at": "2023-09-07 22:07:21",
@@ -807,22 +807,18 @@
     {
       "added_at": "2022-11-10 16:45:53",
       "album": {
-        "name": "The Day",
-        "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
+        "name": "Greatest Hits (Remastered 2023)",
+        "url": "https://open.spotify.com/album/7sGhX3TPiZuJRbYJRFBOsI"
       },
       "artists": [
         {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 296266,
-      "name": "Every Time I Close My Eyes (with Kenny G)",
-      "url": "https://open.spotify.com/track/2ezqQeBiC72gwMJoO4w1hA"
+      "duration_ms": 237939,
+      "name": "From This Moment On - Pop On-Tour Version / Remastered 2023",
+      "url": "https://open.spotify.com/track/6rsDkvbgiAkMWWudkR57IP"
     }
   ],
   "unique_name": "90s Ballads",

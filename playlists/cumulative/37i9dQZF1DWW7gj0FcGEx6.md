@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-318 songs - 15 hr 57 min
+319 songs - 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Holding Hands \(From "The Crown: Season Six Soundtrack"\)](https://open.spotify.com/track/0vPpOw4JOAKB9QMivOAnQj) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [Holding Hands \(From "The Crown: Season Six Soundtrack"\)](https://open.spotify.com/album/1C9g1hrvjlKvwRSU9kUWxJ) | 3:32 | 2023-11-17 | 2023-12-22 |
 | [Holding Hands \(From "The Crown: Season Six Soundtrack"\)](https://open.spotify.com/track/3qdBxyNGX7ly8HD4Im0xIg) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [The Crown: Season Six \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4SD5pyJRlNnLCR0yZeWKZN) | 3:32 | 2023-12-15 |  |
 | [Home](https://open.spotify.com/track/52xDg0M5k738bEuyIS2gaA) | [Chris Bacon](https://open.spotify.com/artist/5WWp4g4TgYMfz8XcO3RTHO) | [65 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ZqpbHqafFKFuAF5g9wYB7) | 3:06 | 2023-03-10 |  |
+| [Hotel Arcadia](https://open.spotify.com/track/3PdscIZzEFo61H5iHoe365) | [Segun Akinola](https://open.spotify.com/artist/6AoVAVoJmW1VsrcTQ63Til) | [Girl, You Know It's True \(Original Score Music\)](https://open.spotify.com/album/08qNs7RE88VyrZ5h1vgD8p) | 1:56 | 2023-12-22 |  |
 | [I Importune You \(feat\. Percival Schuttenbach\)](https://open.spotify.com/track/7AjH6bywEZga06Y3bEkyqh) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [Percival Schuttenbach](https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM) | [The Witcher: Season 3 \- Vol\. 1 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax) | 1:12 | 2023-06-30 | 2023-08-04 |
 | [I Importune You \(feat\. Percival Schuttenbach\)](https://open.spotify.com/track/7muq4xFFXRAZ7Kl3ZFPZNf) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [Percival Schuttenbach](https://open.spotify.com/artist/4vATWjWf6AYUj0tyKD6sDM) | [The Witcher: Season 3 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/7tQj5YsybU6O6SshtwO03v) | 1:12 | 2023-07-21 |  |
 | [I Loved You First](https://open.spotify.com/track/3oKK4OBgOs0WSvpaQZ9Fdy) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [The Flash \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2Iwcke5WByZdDlIv0WucmX) | 1:34 | 2023-06-23 |  |

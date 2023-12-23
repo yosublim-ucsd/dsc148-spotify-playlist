@@ -4,7 +4,7 @@
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-241 songs - 22 hr 14 min
+242 songs - 22 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Coming Home](https://open.spotify.com/track/5NA1YR3OCgftzZPKqyHUfv) | [Sketchy Bongo](https://open.spotify.com/artist/6da0IfHaN561OqJxQ3JyKh) | [Coming Home](https://open.spotify.com/album/5RQXMBUL8DirQD8sWKO3xd) | 3:19 | 2023-06-16 | 2023-07-07 |
 | [Could've Been Worse](https://open.spotify.com/track/03BDnOYsdzivNPqIuBQMGh) | [Shae'\\dy](https://open.spotify.com/artist/1WnGHRAEWg1fJyMeH2wVds) | [Could've Been Worse](https://open.spotify.com/album/0C5tLT12nuIGtusVqIuIO0) | 2:40 | 2023-06-23 | 2023-11-03 |
 | [COUNT 'EM](https://open.spotify.com/track/5tgXL0bJKzjwC2hZSYJzgl) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Count 'Em](https://open.spotify.com/album/6lbqpHtIIM0pEC3zDoUYfd) | 3:47 | 2023-08-04 |  |
+| [Covenant keeping God \(Live at Worship House Church Limpopo, 2023\) \(feat\. Mahazel\)](https://open.spotify.com/track/11rRKeoYIb3eloAr5nqHAA) | [Worship House](https://open.spotify.com/artist/3Aa2R54aqT4UiklOkE0qwD), [Mahazel](https://open.spotify.com/artist/15On8moHOaky2qVhWIp1xA) | [Covenant keeping God \(Live at Worship House Church Limpopo, 2023\) \(feat\. Mahazel\)](https://open.spotify.com/album/1xYW4XrZ5EdxQFeWFPl8Fw) | 9:51 | 2023-12-22 |  |
 | [Crazy Love \(feat\. JWLKRS Worship\)](https://open.spotify.com/track/7AboTNWY3jzxA4i5L7FPjf) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [JWLKRS Worship](https://open.spotify.com/artist/0wczmL4iUleqcy10Ek5Eyh) | [Crazy Love \(feat\. JWLKRS Worship\)](https://open.spotify.com/album/5rrTuiCJK1IozX5qW1Fm22) | 5:58 | 2023-11-03 |  |
 | [Dancing in the Rain](https://open.spotify.com/track/4NjKhRbDuH0bpQtumrFy8W) | [His Church Music](https://open.spotify.com/artist/1jMeFoQnHRPmCYctBPZqbp) | [Higher](https://open.spotify.com/album/2hSQPS2MhV1IFwCjeVHvhN) | 3:52 | 2023-10-06 | 2023-11-10 |
 | [Days of Elijah \- Live](https://open.spotify.com/track/0t32E01dieVWKQqHKr0P6W) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 25 \- Still We Rise: Live At The Joburg Theatre](https://open.spotify.com/album/3XpdHJykK5cila2uzcNAxz) | 6:51 | 2021-03-25 | 2023-11-03 |
@@ -136,7 +137,7 @@
 | [Most Holy One](https://open.spotify.com/track/7xtBUMRzhwvVPTx1b7cPLa) | [Mnqobi Nxumalo](https://open.spotify.com/artist/70Y2n0KGh0iCJrpBronVOW) | [Most Holy One](https://open.spotify.com/album/3hIi5s4zrx24zp32aW5geU) | 5:15 | 2023-07-28 | 2023-11-03 |
 | [Mountain](https://open.spotify.com/track/16ZRvSAYlxXqtKBjCqpEb2) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Mountain](https://open.spotify.com/album/18ryHbK7atMLyoC8AqTYlZ) | 3:19 | 2023-04-14 | 2023-05-12 |
 | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/track/710zL5SAbc6dbHEsLiBwME) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Ayanda Ntanzi](https://open.spotify.com/artist/3NXb9zGCEqzY4iDccRB3Hw) | [Moy’ Oyingcwele \(Live\)](https://open.spotify.com/album/2kxH7Iei0VyjWOGydkLUbu) | 8:20 | 2023-08-25 | 2023-12-15 |
-| [My Matter](https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [My Matter](https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF) | 2:53 | 2023-08-18 |  |
+| [My Matter](https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [My Matter](https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF) | 2:53 | 2023-08-18 | 2023-12-23 |
 | [My Shepherd](https://open.spotify.com/track/5UTYCylVomPTnNpzdsaVBA) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [For His Glory](https://open.spotify.com/album/4bIg1qW3SmBMu59i3uQvXn) | 4:11 | 2020-03-13 | 2023-09-15 |
 | [My Testimony](https://open.spotify.com/track/196FnomJI3OvKmLy6PyFWk) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [I Win](https://open.spotify.com/album/0dUwwydEAKBx0aF0tXK2Fu) | 10:25 | 2018-09-23 | 2023-11-03 |
 | [Nang'Mthokozisi \(Live\)](https://open.spotify.com/track/6LMbTgPem4BpEhVQ4nMUNU) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Spirit of Praise, Vol\. 8 \(Live\)](https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt) | 10:46 | 2023-06-23 | 2023-11-10 |

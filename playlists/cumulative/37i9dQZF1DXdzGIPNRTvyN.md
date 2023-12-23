@@ -4,12 +4,12 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-189 songs - 8 hr 45 min
+190 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [40](https://open.spotify.com/track/640cERY2tzEK0UURzWgFJp) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [40](https://open.spotify.com/album/3wk7uPZns7HJ0lNtn0driV) | 2:29 | 2023-01-24 |  |
-| [432 Hz Omgivande](https://open.spotify.com/track/2GJufgGBgz94AxyMgZ9mjg) | [Ahti Aeo](https://open.spotify.com/artist/4cSNC9MaebEEZhCv2xjgaO) | [432 Hz Omgivande](https://open.spotify.com/album/0g7tYAR31jgDZhcQkheRlx) | 2:30 | 2023-12-18 |  |
+| [432 Hz Omgivande](https://open.spotify.com/track/2GJufgGBgz94AxyMgZ9mjg) | [Ahti Aeo](https://open.spotify.com/artist/4cSNC9MaebEEZhCv2xjgaO) | [432 Hz Omgivande](https://open.spotify.com/album/0g7tYAR31jgDZhcQkheRlx) | 2:30 | 2023-12-18 | 2023-12-23 |
 | [528 Hz Whispered Stream](https://open.spotify.com/track/6Gv8jmDrZ41knvfN6n5qOO) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [528 Hz Whispered Stream](https://open.spotify.com/album/1qjyXMiu6uFH6emC5OcD4W) | 2:31 | 2023-11-18 |  |
 | [A Free Spirit \(Nature\)](https://open.spotify.com/track/2qO76Y8tZnBOCRRhOWMjhr) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [A Free Spirit \(Nature\)](https://open.spotify.com/album/12cFEQ1sasH0DJnZjeUJ9Q) | 2:48 | 2023-09-12 |  |
 | [A New Beginning](https://open.spotify.com/track/3STalU0FBxYS9hU3hXazYJ) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [A New Beginning](https://open.spotify.com/album/7HmJNzgf80p5RjNz56qSgC) | 2:40 | 2023-03-13 |  |
@@ -30,6 +30,7 @@
 | [Ballerina](https://open.spotify.com/track/2rvd4QBrSRXmgzvbzBz1k7) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [In The Forest](https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88) | 1:47 | 2023-01-24 |  |
 | [Bel Flusso](https://open.spotify.com/track/5G9elfgCYkKL5fPCfKP6eD) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Bel Flusso](https://open.spotify.com/album/2E43nIu2dU5K0oEkgJJwo2) | 3:38 | 2023-05-19 |  |
 | [Boy](https://open.spotify.com/track/6onnyQliInBgkmiKD01kzX) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [In The Forest](https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88) | 2:42 | 2023-01-24 |  |
+| [By The River](https://open.spotify.com/track/2PMTTEuXOznRQEZubxiPrd) | [I thought about time](https://open.spotify.com/artist/6wzgGTV6WrSvWxzNIpvSd8) | [By The River](https://open.spotify.com/album/4zd6B4p1VWTVpM0i2Pww4V) | 3:07 | 2023-12-18 |  |
 | [Calling](https://open.spotify.com/track/7KooASXXdp3fKGWGbp7CBE) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Calling](https://open.spotify.com/album/7zQFpHbJgeMcJPAK0pnStL) | 3:23 | 2023-05-19 |  |
 | [Calm ripples](https://open.spotify.com/track/11J8sTGpRU5KCKGhJhEN2c) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Calm ripples](https://open.spotify.com/album/6vT4XJuA1Nho9EM1NltcrO) | 2:02 | 2023-08-21 |  |
 | [Calmest lake](https://open.spotify.com/track/191AWPJySNUFVPZtd82eN8) | [Zoran Tudor](https://open.spotify.com/artist/0wuwIPLU0OZWWO97izTsZO) | [Calmest lake](https://open.spotify.com/album/3zhhOZnLZBFNOGIbFC7zSH) | 3:12 | 2023-01-24 |  |

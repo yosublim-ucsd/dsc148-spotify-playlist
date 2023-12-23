@@ -1,12 +1,12 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Arpaviejas.",
-  "num_followers": 101462,
+  "num_followers": 101493,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjY5MzUwOTI1ODUzZTc0YzkyZDZlM2Y0OTNiYzVhZGVjYzg5ZTAw",
+  "snapshot_id": "MCxlZjMyOWM4ZTQ3NmU3OTYwOTc0MTMzNTYzODE2YjViOWE1ODJkZDRl",
   "tracks": [
     {
       "added_at": "2023-12-21 22:59:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-12-21 22:59:00",
       "album": {
-        "name": "Impuesto Revolucionario",
-        "url": "https://open.spotify.com/album/7iA4YreHDh5ozVdpg4kZcm"
-      },
-      "artists": [
-        {
-          "name": "Eskorbuto",
-          "url": "https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Historia triste",
-      "url": "https://open.spotify.com/track/0DJLkaZlg6JbwAg9VZzbYq"
-    },
-    {
-      "added_at": "2023-12-21 22:59:00",
-      "album": {
         "name": "Cuando las Bocas Comen Silencio",
         "url": "https://open.spotify.com/album/501pjNhzQYeXfVJfkdRnL9"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 194093,
       "name": "Por Lo Visto",
       "url": "https://open.spotify.com/track/0UDHol0olHHNPJVOtPs9rT"
+    },
+    {
+      "added_at": "2023-12-21 22:59:00",
+      "album": {
+        "name": "Impuesto Revolucionario",
+        "url": "https://open.spotify.com/album/7iA4YreHDh5ozVdpg4kZcm"
+      },
+      "artists": [
+        {
+          "name": "Eskorbuto",
+          "url": "https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Historia triste",
+      "url": "https://open.spotify.com/track/0DJLkaZlg6JbwAg9VZzbYq"
     },
     {
       "added_at": "2023-12-21 22:59:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-12-21 22:59:00",
       "album": {
-        "name": "Noche Molona",
-        "url": "https://open.spotify.com/album/0koYvQafHxEe9Eu8CcWTxU"
-      },
-      "artists": [
-        {
-          "name": "Tu Madre Es Puta",
-          "url": "https://open.spotify.com/artist/5SGCYqP9PN2R85WfA0yjPu"
-        }
-      ],
-      "duration_ms": 178393,
-      "name": "Noche Molona",
-      "url": "https://open.spotify.com/track/6rjOCHV71E19A3mq6I1ZzI"
-    },
-    {
-      "added_at": "2023-12-21 22:59:00",
-      "album": {
         "name": "La Historia se Repite",
         "url": "https://open.spotify.com/album/3lezYnTMMATl07wClgIcHg"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 130632,
       "name": "La Historia se Repite",
       "url": "https://open.spotify.com/track/4A2mcoje2LKC9ErsTl2vOj"
+    },
+    {
+      "added_at": "2023-12-21 22:59:00",
+      "album": {
+        "name": "Noche Molona",
+        "url": "https://open.spotify.com/album/0koYvQafHxEe9Eu8CcWTxU"
+      },
+      "artists": [
+        {
+          "name": "Tu Madre Es Puta",
+          "url": "https://open.spotify.com/artist/5SGCYqP9PN2R85WfA0yjPu"
+        }
+      ],
+      "duration_ms": 178393,
+      "name": "Noche Molona",
+      "url": "https://open.spotify.com/track/6rjOCHV71E19A3mq6I1ZzI"
     },
     {
       "added_at": "2023-12-21 22:59:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-12-21 22:59:00",
       "album": {
-        "name": "Reino Sin Futuro",
-        "url": "https://open.spotify.com/album/40VVUxVi7onk4QfvdYRoqZ"
-      },
-      "artists": [
-        {
-          "name": "Eskorbuto",
-          "url": "https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Reino Sin Futuro",
-      "url": "https://open.spotify.com/track/3z4RWsGoalHEUkzMJqb1B6"
-    },
-    {
-      "added_at": "2023-12-21 22:59:00",
-      "album": {
         "name": "Camela or Die 2.0",
         "url": "https://open.spotify.com/album/0KQsewvuOlmVHhxisVupVb"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 179197,
       "name": "Camela or Die 2.0",
       "url": "https://open.spotify.com/track/0JM8G9uBHKuXZF33JDK8aH"
+    },
+    {
+      "added_at": "2023-12-21 22:59:00",
+      "album": {
+        "name": "Reino Sin Futuro",
+        "url": "https://open.spotify.com/album/40VVUxVi7onk4QfvdYRoqZ"
+      },
+      "artists": [
+        {
+          "name": "Eskorbuto",
+          "url": "https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Reino Sin Futuro",
+      "url": "https://open.spotify.com/track/3z4RWsGoalHEUkzMJqb1B6"
     },
     {
       "added_at": "2023-12-21 22:59:00",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2023-12-21 22:59:00",
       "album": {
-        "name": "Envenenado",
-        "url": "https://open.spotify.com/album/3DGMfxfw5kQOjkgBx8gqNR"
+        "name": "Cu\u00e9ntame",
+        "url": "https://open.spotify.com/album/2plqoqJhL73yP6XqZlCYML"
       },
       "artists": [
         {
-          "name": "Parabellum",
-          "url": "https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ"
+          "name": "Tu Madre Es Puta",
+          "url": "https://open.spotify.com/artist/5SGCYqP9PN2R85WfA0yjPu"
         }
       ],
-      "duration_ms": 186493,
-      "name": "Nos Enga\u00f1an",
-      "url": "https://open.spotify.com/track/24oc9DIh7ZMUJ1F78YUacH"
+      "duration_ms": 194792,
+      "name": "Cu\u00e9ntame",
+      "url": "https://open.spotify.com/track/6gn3MDFo9UcahvVd2BIUEF"
     },
     {
       "added_at": "2023-12-21 22:59:00",
@@ -1375,22 +1375,6 @@
       "duration_ms": 231593,
       "name": "No Olvidamos, 3 de Marzo",
       "url": "https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX"
-    },
-    {
-      "added_at": "2023-12-21 22:59:00",
-      "album": {
-        "name": "Cu\u00e9ntame",
-        "url": "https://open.spotify.com/album/2plqoqJhL73yP6XqZlCYML"
-      },
-      "artists": [
-        {
-          "name": "Tu Madre Es Puta",
-          "url": "https://open.spotify.com/artist/5SGCYqP9PN2R85WfA0yjPu"
-        }
-      ],
-      "duration_ms": 194792,
-      "name": "Cu\u00e9ntame",
-      "url": "https://open.spotify.com/track/6gn3MDFo9UcahvVd2BIUEF"
     },
     {
       "added_at": "2023-12-21 22:59:00",
@@ -1471,22 +1455,6 @@
     {
       "added_at": "2023-12-21 22:59:00",
       "album": {
-        "name": "Asesinos",
-        "url": "https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc"
-      },
-      "artists": [
-        {
-          "name": "Manifa",
-          "url": "https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc"
-        }
-      ],
-      "duration_ms": 176117,
-      "name": "Asesinos",
-      "url": "https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ"
-    },
-    {
-      "added_at": "2023-12-21 22:59:00",
-      "album": {
         "name": "Figurante",
         "url": "https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt"
       },
@@ -1503,6 +1471,22 @@
     {
       "added_at": "2023-12-21 22:59:00",
       "album": {
+        "name": "Asesinos",
+        "url": "https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc"
+      },
+      "artists": [
+        {
+          "name": "Manifa",
+          "url": "https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc"
+        }
+      ],
+      "duration_ms": 176117,
+      "name": "Asesinos",
+      "url": "https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ"
+    },
+    {
+      "added_at": "2023-12-21 22:59:00",
+      "album": {
         "name": "Gente de Bien",
         "url": "https://open.spotify.com/album/6fxxDhr98JYsoI1Zp86wcT"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 110396,
       "name": "Qu\u00e9 ha sido de ti",
       "url": "https://open.spotify.com/track/14MU1VPIIrciowTRCdZJ4u"
+    },
+    {
+      "added_at": "2023-12-21 22:59:00",
+      "album": {
+        "name": "Perdona Amigo",
+        "url": "https://open.spotify.com/album/7w5YvFaWTRNEUfSbMvhGIu"
+      },
+      "artists": [
+        {
+          "name": "The Birra's Terror",
+          "url": "https://open.spotify.com/artist/2nFiMmCWLvbxZbJqxwtTI8"
+        }
+      ],
+      "duration_ms": 203226,
+      "name": "Perdona Amigo",
+      "url": "https://open.spotify.com/track/62IjCg5q4jdG8ZdleTkhwL"
     }
   ],
   "unique_name": "Punk Espa\u00f1ol",

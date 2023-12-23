@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 
 > Set the perfect brunch mood with instrumental and vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,541 likes - 96 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,556 likes - 96 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 | 22 | [I'm Getting Sentimental Over You](https://open.spotify.com/track/59eRG0NvuYIxe0i7IMAH0z) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Now!](https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG) | 4:15 |
 | 23 | [Solar](https://open.spotify.com/track/6pzpKJYKvHUzOpz9J207j3) | [Phil Woods](https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f) | [Bird Feathers \(Remastered\)](https://open.spotify.com/album/2BvoHpEjeJf6lM0p9720AM) | 5:52 |
 | 24 | [The Surrey with the Fringe on Top](https://open.spotify.com/track/6RG7PpVmsdmqga0SIAgHWr) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Back East](https://open.spotify.com/album/3fNLmm3yOGCQYr2M8Tc5UE) | 5:12 |
-| 25 | [The Man I Love](https://open.spotify.com/track/0fCWTFBws40z2z61wz38H1) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1eJhAsuavF6CLIN9tgCzhx) | 8:34 |
+| 25 | [The Man I Love](https://open.spotify.com/track/7ALB9gGYQPsnyC3wlfYrgA) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1vxRTqxedJxRmg8J11ZCuF) | 8:34 |
 | 26 | [Rosetta](https://open.spotify.com/track/5OtACP7f32kZgVEXCgVsjs) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [The Golden Flute](https://open.spotify.com/album/4BmWdFMdpfZgKpspsAdqZZ) | 3:51 |
 | 27 | [Ralph J\. Gleason Blues](https://open.spotify.com/track/3qfsuszc9cwvUI56OdCbqR) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [Red's Blues](https://open.spotify.com/album/560iFUlNMIk2FHleBEkbNS) | 6:40 |
 | 28 | [\(It Will Have To Do\) Until The Real Thing Comes Along \- Remastered](https://open.spotify.com/track/37MsN9jkHraBoRU0rbl64A) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [A Swingin' Affair](https://open.spotify.com/album/2MDFi0jt8SnjYIFwgtU2Q3) | 6:49 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 | 95 | [On Green Dolphin Street](https://open.spotify.com/track/6sq2n7GBZHX3Z7MtdwYrlI) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 4:44 |
 | 96 | [On a Slow Boat to China](https://open.spotify.com/track/28dkdccRVQ440Knk1qMmUK) | [David Finck](https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn) | [On a Slow Boat to China](https://open.spotify.com/album/1j5TgAZ4Udty6CRgAVYaws) | 3:50 |
 
-Snapshot ID: `MCwwN2UzOGU0M2M2NTA4NGI0ZjExNGI0YTM3ZGNlMDI2YzQ4ZmZmNzQ0`
+Snapshot ID: `MCwwZGI5MmFiYTkwNGYzN2VlMjIzOWY0MWE4MmFkYWU4OTZiYjFlY2I3`

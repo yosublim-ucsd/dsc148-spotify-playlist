@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/chiney/">Chiney Ogwumike</a>.
 
-50 songs - 3 hr 21 min
+51 songs - 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [No Guidance \(feat\. Drake\)](https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 4:20 | 2023-04-28 |  |
 | [Ojuelegba](https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ayo](https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq) | 3:36 | 2023-04-28 |  |
 | [On the Low](https://open.spotify.com/track/1PoJXULCvl03b1fiZmMxmd) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:05 | 2023-04-28 |  |
-| [On Your Body \(feat\. Meetsims\)](https://open.spotify.com/track/0uxuTlxD8c4X9v42A3zOd6) | [Chinx](https://open.spotify.com/artist/2DctCFD8X80VeY7WLC86PS), [MeetSims](https://open.spotify.com/artist/0TdAVW3jEqvj992p0ca4tI) | [Welcome To JFK](https://open.spotify.com/album/2xxh99j8o1nvdJWQq1jFD7) | 3:07 | 2023-04-28 |  |
+| [On Your Body \(feat\. Meetsims\)](https://open.spotify.com/track/0uxuTlxD8c4X9v42A3zOd6) | [Chinx](https://open.spotify.com/artist/2DctCFD8X80VeY7WLC86PS), [MeetSims](https://open.spotify.com/artist/0TdAVW3jEqvj992p0ca4tI) | [Welcome To JFK](https://open.spotify.com/album/2xxh99j8o1nvdJWQq1jFD7) | 3:07 | 2023-04-28 | 2023-12-23 |
+| [On Your Body \(feat\. Meetsims\)](https://open.spotify.com/track/14QbwSJypBU7ZM3yZzqnk9) | [Chinx](https://open.spotify.com/artist/2DctCFD8X80VeY7WLC86PS), [MeetSims](https://open.spotify.com/artist/0TdAVW3jEqvj992p0ca4tI) | [Welcome To JFK](https://open.spotify.com/album/2YvtNWKSwr2EgQhPLXLeOJ) | 3:07 | 2023-04-28 |  |
 | [Only You \(feat\. The Notorious B.I.G., Ma$e\) \- Bad Boy Remix](https://open.spotify.com/track/13r5JSQ9i1ID0ZqMSDbi4s) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Ma$e](https://open.spotify.com/artist/34t9RzI5oDMZJVmcoUZnJE) | [Bad Boy's 10th Anniversary\- The Hits](https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1) | 4:45 | 2023-04-28 |  |
 | [Outstanding \- Original 12" Mix](https://open.spotify.com/track/6korvxtUEyt590jUFOfADm) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The 12" Collection And More \(Funk Essentials\)](https://open.spotify.com/album/2RBgodUUn2EzbMDSq0shGH) | 6:15 | 2023-04-28 |  |
 | [Part II \(On The Run\)](https://open.spotify.com/track/2gSh6B45bWv4gDOhawR8C2) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Magna Carta..\. Holy Grail](https://open.spotify.com/album/0OTjYdGtP7AbwOwbYsGhyi) | 5:33 | 2023-04-28 |  |

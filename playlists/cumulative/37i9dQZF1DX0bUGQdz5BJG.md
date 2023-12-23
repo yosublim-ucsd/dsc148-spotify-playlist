@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: Hayden Coffman
 
-1,799 songs - 4 day 0 hr 34 min
+1,801 songs - 4 day 0 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Anyway](https://open.spotify.com/track/3tzQ7pUOVTQg3AcPbPe0ml) | [Rod + Rose](https://open.spotify.com/artist/6xWrMsqTNDV7Pi10GWUhuZ), [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2), [Rose Falcon](https://open.spotify.com/artist/3M2ei8oRgZ3TwTo6F6votj) | [Rod + Rose](https://open.spotify.com/album/5KfaykNJBPdPKAJ9v4WRq6) | 3:15 | 2022-01-28 | 2022-03-18 |
 | [Are We On Fire](https://open.spotify.com/track/5TWjVCYuNan6k0X6oFZgkM) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County To The Moon](https://open.spotify.com/album/6TT7aVhJ8mUITSc5uMozQM) | 3:37 | 2022-08-26 | 2023-01-06 |
 | [Are You Okay?](https://open.spotify.com/track/7wy3CSZogtwp6wCwSTeTew) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [Are You Okay?](https://open.spotify.com/album/4UzlGKEB3pNb8zSLoAtARW) | 3:12 | 2022-02-11 | 2022-04-23 |
+| [Arkansas Diamond](https://open.spotify.com/track/75SAnNqcLsh5rg17isiPM8) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Arkansas Diamond](https://open.spotify.com/album/4YEBJybTO3VzCAG2nUbzZa) | 3:03 | 2023-12-22 |  |
 | [As Far As You Could](https://open.spotify.com/track/5wje3P7raGawEqf9DKwkbK) | [Charles Kelley](https://open.spotify.com/artist/2Hbxyk7qJ22i8wFEqgM3vC) | [As Far As You Could](https://open.spotify.com/album/5Vv5XvtXAaoosxcIwoXHs6) | 3:46 | 2023-01-13 | 2023-03-11 |
 | [As I Go](https://open.spotify.com/track/1MCwq7D5Rep3JFFp6h9Bux) | [Remy Garrison](https://open.spotify.com/artist/3sgAiri5AHS9UmXrfiUQjV) | [As I Go](https://open.spotify.com/album/6wT8C45rgAma8d0yVoa9Z5) | 3:22 | 2023-06-02 | 2023-09-30 |
 | [As You Leave](https://open.spotify.com/track/218NK60dJvyf7mIsowogA3) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [As You Leave](https://open.spotify.com/album/10mMsHExUCFJEcILYH3wZt) | 2:06 | 2022-01-21 | 2022-02-26 |
@@ -284,6 +285,7 @@
 | [COASTIN'](https://open.spotify.com/track/1zU19VzTdp3yPm2ZiQcdLK) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [COASTIN' \- EP](https://open.spotify.com/album/3XRFDkDNBBEQ5TJutSmfUz) | 2:51 | 2022-06-10 | 2022-09-10 |
 | [Coffee With You](https://open.spotify.com/track/4d7liYeUlqk4wyWasJunZp) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [Coffee With You](https://open.spotify.com/album/48wXki9TPYsiHvM81jZ1VF) | 3:27 | 2023-10-27 |  |
 | [Cold Day In Tucson](https://open.spotify.com/track/77KXn1CiIXMKoGgsbBIZGX) | [Raleigh Keegan](https://open.spotify.com/artist/1mDIaHzalOaN9oX7hHnpXV) | [Cold Day In Tucson](https://open.spotify.com/album/6R3MAxK55wk5PYGW6dEk2Q) | 3:12 | 2022-04-22 | 2022-05-14 |
+| [Cold in Amarillo](https://open.spotify.com/track/0dX3z3unBedzLrNbNpIwZa) | [Luke Levenson](https://open.spotify.com/artist/0pKtFEz6xH7d3HPZVDQsyN) | [Cold in Amarillo](https://open.spotify.com/album/6lttcBewYggLrjfupRTvOq) | 2:58 | 2023-12-22 |  |
 | [Cold Summer In San Antone](https://open.spotify.com/track/0E1K9SXBAehjZ3xrlDhHmM) | [John Morgan](https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g) | [Cold Summer In San Antone](https://open.spotify.com/album/4VjYixuk9mX3Br5RTFDqps) | 3:33 | 2023-08-04 | 2023-08-19 |
 | [Cold Summer In San Antone](https://open.spotify.com/track/1ztIYIsisOqbFaCIVqS7xA) | [John Morgan](https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g) | [Cold Summer In San Antone](https://open.spotify.com/album/23hMC7hug8nFfkKK4aECj4) | 3:33 | 2023-08-18 | 2023-11-04 |
 | [Cold Summer In San Antone](https://open.spotify.com/track/4eUVF76wcNuKHyRkC27D1W) | [John Morgan](https://open.spotify.com/artist/7FetIwKD9uIJFiUwdHfq6g) | [Cold Summer In San Antone](https://open.spotify.com/album/0q1nVnH3SwfySOw02CDDfn) | 3:33 | 2023-11-03 |  |
@@ -444,7 +446,7 @@
 | [Everybody Needs a Song](https://open.spotify.com/track/75vHaYeWPXNSEytZzxIFXw) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Everybody Needs a Song](https://open.spotify.com/album/4CHsfVCrAwEr2FXe9RLweB) | 3:03 | 2022-04-29 | 2022-05-20 |
 | [Everyone's An Outlaw](https://open.spotify.com/track/6EAxBdO83657qVoKoX6Qdb) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Everyone's An Outlaw](https://open.spotify.com/album/1TNo8JWuiWUYyRFA1WTzxR) | 3:20 | 2022-03-25 | 2022-07-02 |
 | [Everything She Ain’t](https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Everything She Ain’t](https://open.spotify.com/album/761yinsOXW3p74dFBge4c7) | 2:31 | 2022-01-14 | 2022-02-19 |
-| [Everything Under The Sun](https://open.spotify.com/track/5g19VWVVMCk9pc5Y0SOSGK) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Everything Under The Sun](https://open.spotify.com/album/5kXzFL6Ug21nCNdZ3M7rPP) | 4:14 | 2023-11-10 |  |
+| [Everything Under The Sun](https://open.spotify.com/track/5g19VWVVMCk9pc5Y0SOSGK) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Everything Under The Sun](https://open.spotify.com/album/5kXzFL6Ug21nCNdZ3M7rPP) | 4:14 | 2023-11-10 | 2023-12-23 |
 | [Evinrudin'](https://open.spotify.com/track/1yVEaf8KF3drHx0OD8FAGd) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Evinrudin'](https://open.spotify.com/album/6lyX5RdJkQJoaLghzjW9w1) | 3:26 | 2022-09-02 | 2022-10-15 |
 | [Ex Appeal](https://open.spotify.com/track/0hXs8Wr4UNEKFQob7yvwrH) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [Ex Appeal](https://open.spotify.com/album/3e24PmFj4AsAJbHHfBdE2k) | 3:02 | 2022-08-12 | 2022-09-17 |
 | [Ex Best Thing](https://open.spotify.com/track/7shgS7PNP2FzD5lq7B0keu) | [Salemtown](https://open.spotify.com/artist/6Lblad81pn8Lhh6OKNiax2) | [Ex Best Thing](https://open.spotify.com/album/5dfUO0agDGOpjdR3aagfZO) | 3:17 | 2022-04-08 | 2022-06-11 |
@@ -940,7 +942,7 @@
 | [Lost and Found](https://open.spotify.com/track/57w5YuBDHNRajm82PkURV8) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [Lost and Found](https://open.spotify.com/album/2jjpyRzU01ZEbHhohE8wrr) | 2:48 | 2023-09-29 |  |
 | [Lost Its Allure](https://open.spotify.com/track/5Z7wx0YgUdRWAgrtoBKk5m) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Lost Its Allure](https://open.spotify.com/album/1v12U11z2xen3FibidPmTJ) | 3:46 | 2023-03-03 | 2023-06-17 |
 | [Lost Right Now](https://open.spotify.com/track/3UjJBsZyUKofzHja2zaGY1) | [Trea Landon](https://open.spotify.com/artist/0uzF7KK6coJpJvOW6Vrv1H) | [Lost Right Now](https://open.spotify.com/album/6od5VbvVdhpvBOHaB5wWjd) | 2:52 | 2022-08-26 | 2022-11-05 |
-| [Lotta Bit of You](https://open.spotify.com/track/7LFj4V7izgF22CUGeDo38n) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP) | [Lotta Bit of You](https://open.spotify.com/album/3MkHOjkp1AsIOm0RlVVWwf) | 2:42 | 2023-12-01 |  |
+| [Lotta Bit of You](https://open.spotify.com/track/7LFj4V7izgF22CUGeDo38n) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP) | [Lotta Bit of You](https://open.spotify.com/album/3MkHOjkp1AsIOm0RlVVWwf) | 2:42 | 2023-12-01 | 2023-12-23 |
 | [Louisiana](https://open.spotify.com/track/6KXdlYA1REDyMeWUlLcVOt) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Louisiana](https://open.spotify.com/album/6bDQtQ9nztaLR5xFw2JiSm) | 2:47 | 2023-09-01 |  |
 | [Love A Little More](https://open.spotify.com/track/3Jn6eXxC85UoXLA4Zcq3do) | [Blaine Holcomb](https://open.spotify.com/artist/7gHo4FqNotInYa92gHODnA) | [Love A Little More](https://open.spotify.com/album/1IzaKpq4lJQWt57R9EezFV) | 3:23 | 2022-08-26 | 2022-10-16 |
 | [Love A Little More](https://open.spotify.com/track/6sDICPeeY46P9hdcNN7BwP) | [Blaine Holcomb](https://open.spotify.com/artist/7gHo4FqNotInYa92gHODnA) | [Lessons](https://open.spotify.com/album/7H0gKMd6hMSiQC4z4YL4V9) | 3:23 | 2022-10-14 | 2022-11-19 |

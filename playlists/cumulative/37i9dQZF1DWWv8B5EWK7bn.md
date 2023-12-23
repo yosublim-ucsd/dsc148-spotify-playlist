@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-354 songs - 1 day 1 hr 19 min
+356 songs - 1 day 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,8 +112,9 @@
 | [Get Sun \(feat\. Arthur Verocai\)](https://open.spotify.com/track/5CBEzaNEuv3OO32kZoXgOX) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 5:37 | 2023-01-20 | 2023-06-06 |
 | [Girl Supreme](https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Girl Supreme](https://open.spotify.com/album/4K7d10ZpPwzWTEnsVxJJ7v) | 2:48 | 2023-08-11 |  |
 | [Glass & Patron](https://open.spotify.com/track/3U6CPINSKmZJ09FtO9PgUa) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [M3LL155X](https://open.spotify.com/album/2RUX2ps4xMNTyI2iAwVyf3) | 4:18 | 2023-01-20 | 2023-03-18 |
+| [Globus](https://open.spotify.com/track/5P0nUjtiq6xWbtOhyjzNEk) | [Renaldo & Clara](https://open.spotify.com/artist/29eGrPvxOuFDGOyOUi3RLq) | [La boca aigua](https://open.spotify.com/album/4O89ZOWZTSBnHErFVYGWPI) | 2:08 | 2023-12-22 |  |
 | [Gloss](https://open.spotify.com/track/1oOBDH2gmnVY1ABieYuYXB) | [Laundromat](https://open.spotify.com/artist/4MyYqCvbqndRDqEqBzuHXm) | [Gloss](https://open.spotify.com/album/1XFeTBRv2lsIL6UBijuI76) | 2:25 | 2022-10-05 | 2023-04-14 |
-| [Go On](https://open.spotify.com/track/7jPVJ7z0Yj7Dwb9TVMogLu) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Sonic Boom](https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI) | [Go On](https://open.spotify.com/album/61rka3NVcP0Gid06ZvfYXS) | 4:46 | 2022-08-13 |  |
+| [Go On](https://open.spotify.com/track/7jPVJ7z0Yj7Dwb9TVMogLu) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Sonic Boom](https://open.spotify.com/artist/4lBmxg4Z1e9NTDD05a2mhI) | [Go On](https://open.spotify.com/album/61rka3NVcP0Gid06ZvfYXS) | 4:46 | 2022-08-13 | 2023-12-23 |
 | [Going Up](https://open.spotify.com/track/5133gwoZONwiUL9LxKAmJt) | [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf), [Lil B](https://open.spotify.com/artist/4bbjivSh1oG4NOc7uYHfw5), [Shabazz Palaces](https://open.spotify.com/artist/6C403AR4y6PjN0xNNGh42m), [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI) | [ANIMALS](https://open.spotify.com/album/6oRVOPA5BEzqm6j8RCQR19) | 6:13 | 2023-06-07 | 2023-10-10 |
 | [Golden Air](https://open.spotify.com/track/0lk1ZMt8nhJzLKHCABWn3U) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Underwater](https://open.spotify.com/album/3A8AAAbDERbRTc3nZurEOg) | 5:42 | 2022-05-24 | 2022-07-29 |
 | [Golden Air](https://open.spotify.com/track/2o8xeyC4vUCchOrsAbhlMr) | [Sun's Signature](https://open.spotify.com/artist/112n8pqLHAybFBHk2nB9yp) | [Golden Air](https://open.spotify.com/album/32jgOrE90Ntl88omcg7C9J) | 5:42 | 2022-05-24 | 2022-09-10 |
@@ -206,6 +207,7 @@
 | [No Limit](https://open.spotify.com/track/1YR94xmVWP4Y4t8jojuFow) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [trip9love...???](https://open.spotify.com/album/0kgD4sTUloCGUbDGyTxqV7) | 3:02 | 2023-10-28 |  |
 | [No tiempo](https://open.spotify.com/track/28rXyBF4c6ziSoiY6QDcZO) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [¡Ay!](https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh) | 3:35 | 2022-08-02 |  |
 | [No tiempo](https://open.spotify.com/track/3x5CHbBZhKJuT0N3LlmOE4) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Atemporal](https://open.spotify.com/album/063ZbT2nAWdHQY1vlu6VFd) | 3:35 | 2022-08-02 | 2022-10-21 |
+| [Nodos](https://open.spotify.com/track/5NxaaeCOluia2b0t6Kmkwf) | [Radiotrónica](https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN) | [Nodos](https://open.spotify.com/album/6Ja5JJOhoIkI7hf0r5pNlf) | 3:40 | 2023-12-22 |  |
 | [NOISE OF YOU](https://open.spotify.com/track/1LYjD6mxYddoAymI2Qq2YY) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [NOISE OF YOU](https://open.spotify.com/album/20pMri0ddvWd39kpDSSjgl) | 5:15 | 2023-01-20 | 2023-04-14 |
 | [Noon](https://open.spotify.com/track/3PtwtRamdsxLxa4tSqtsAq) | [Nothing for Breakfast](https://open.spotify.com/artist/03RS6371Byq0m2stNKNIEl) | [Noon](https://open.spotify.com/album/4rxbvCSYsEafa2JXSZzTKi) | 2:48 | 2022-09-03 | 2023-06-28 |
 | [Nothing's Wrong](https://open.spotify.com/track/3g5v5S6Adv3gqPpKuli6Q5) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Follow the Cyborg](https://open.spotify.com/album/1FzCOEjfRrJvwMWqEUCsNO) | 3:49 | 2023-03-31 |  |
@@ -264,7 +266,7 @@
 | [Shadow in the Frame](https://open.spotify.com/track/1AB51lhrNtecjP7qrfQ4fI) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [You Belong There](https://open.spotify.com/album/1eb8tDRzXuhb3omC50SkHt) | 5:16 | 2022-01-20 | 2023-03-18 |
 | [Shadow in the Frame](https://open.spotify.com/track/4dMsXnqzJgX1eeTu7bG3fN) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [Shadow in the Frame](https://open.spotify.com/album/4SIzipBgkpqyvKpGJJkbJ6) | 5:16 | 2022-01-20 | 2023-01-21 |
 | [She's Lost Control \- 2007 Remaster](https://open.spotify.com/track/0rcLhYRihks3t4lFPtHhQV) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Unknown Pleasures \(Collector's Edition\)](https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy) | 3:57 | 2023-01-20 | 2023-03-18 |
-| [Shelter](https://open.spotify.com/track/0hyTH8NRRQeaFjbfoktfnc) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/2fnADmeEO13U3Lb4PNsFo3) | 3:17 | 2023-04-05 |  |
+| [Shelter](https://open.spotify.com/track/0hyTH8NRRQeaFjbfoktfnc) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/2fnADmeEO13U3Lb4PNsFo3) | 3:17 | 2023-04-05 | 2023-12-23 |
 | [Shining Armor](https://open.spotify.com/track/32x4NRfnM2b5sqBGsuGCfG) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Shining Armor](https://open.spotify.com/album/3le5wcPXJ8BLF948CQDk4n) | 2:39 | 2022-09-29 | 2023-04-30 |
 | [Shining Armor](https://open.spotify.com/track/4yOYFgVepcDq7DFMYXP4bc) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Pocket Fantasy](https://open.spotify.com/album/2N2BoaufVpptqS6LbtuEJ1) | 2:39 | 2022-09-29 | 2023-10-20 |
 | [Silver Ladders](https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Silver Ladders](https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy) | 3:45 | 2021-10-06 |  |

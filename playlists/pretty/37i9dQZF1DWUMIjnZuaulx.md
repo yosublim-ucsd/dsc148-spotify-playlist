@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover: <a href="spotify:artist:4u2tnfiRrpWOEdC14Vg6d8">Bobbi Storm</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,777 likes - 100 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,890 likes - 100 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 36 | [My Worship \- Live](https://open.spotify.com/track/7nwC7KGXARrDEAw3kzP3MK) | [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [My Worship \(Live\)](https://open.spotify.com/album/5TQiS6WdCz1HEKnbSOsUAb) | 10:37 |
 | 37 | [Okaka](https://open.spotify.com/track/3UzPGTfy8facDCSCT2HJs3) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Okaka](https://open.spotify.com/album/2DsC78HhjWpD2YMImCwemz) | 12:20 |
 | 38 | [Sing Hallelujah \(with Natalie Grant\) \- Live](https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Cover The Earth \(Live In New York\)](https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9) | 8:24 |
-| 39 | [All of the Glory \- Radio Edit](https://open.spotify.com/track/3vT51y9jySDGf4xGKx6XHE) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [All of the Glory \(Radio Edit\)](https://open.spotify.com/album/3IgDiA4bnDEceIX5QdFXra) | 3:56 |
+| 39 | [All of the Glory \- Radio Edit](https://open.spotify.com/track/7gzDVXHFZ1IccYjjZFZBNB) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [All of the Glory \(Radio Edit\)](https://open.spotify.com/album/3xzkzfAQ95xxY7N0W81Cel) | 3:56 |
 | 40 | [Cross Medley \- Live](https://open.spotify.com/track/316BxUkm02GuQ3SY5iZGo2) | [Bishop Leonard Scott](https://open.spotify.com/artist/5hBHhFHuxrQ5CjjTBTRChW) | [Cross Medley \(Live\)](https://open.spotify.com/album/4DeAAecNwFkZHTBf9SdO1Q) | 5:01 |
 | 41 | [Battle](https://open.spotify.com/track/3pyxDOeBvwTiue0BOpob1K) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA) | [Chapter X: See The Goodness](https://open.spotify.com/album/2rYt6wbQu2xdts8lKYvRrH) | 4:46 |
 | 42 | [Impossible](https://open.spotify.com/track/7vqC1Vkr5f9a7CylkjUkPW) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS), [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH) | [Impossible](https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai) | 3:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 99 | [One Day](https://open.spotify.com/track/1aWEgCat4z6MwWZHQEdwPT) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [One Day](https://open.spotify.com/album/2X56R8P00VmhcRKhc8CMmF) | 3:41 |
 | 100 | [Waiting \(Reimagined\)](https://open.spotify.com/track/1eX6ayUcyZbvuQLyqZG6zu) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Waiting \(Reimagined\)](https://open.spotify.com/album/1MD6xmLqXiKeuruRTskDur) | 3:45 |
 
-Snapshot ID: `MCxjZmIzZDNmZDdkZWYzYTFlZjI5YjViYjI4NzYyYjNhM2Q5ZWFhNjZi`
+Snapshot ID: `MCxlNWVlY2FjNGY5NzEyMTBmYThkMjI0MzFkMGE4MDA4MjU4Yzg1ZWRm`

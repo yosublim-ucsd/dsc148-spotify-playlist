@@ -4,7 +4,7 @@
 
 > Uma viagem no tempo com grandes hits da história do Emo no Brasil\. Foto: Emoponto
 
-68 songs - 4 hr 0 min
+69 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Bom Dia](https://open.spotify.com/track/0Ez4iMQrMSPTbvsP7G4K9u) | [Doyoulike?](https://open.spotify.com/artist/2tb1DhDyx4g4w6l5Mc9fUy) | [Coleção](https://open.spotify.com/album/3g5Rdt54nmiWnaUglmy34S) | 3:05 | 2023-03-02 |  |
 | [Cada Poça Dessa Rua Tem Um Pouco de Minhas Lágrimas](https://open.spotify.com/track/2Anewlbuh2nnlUc0bxIKgU) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Ciano](https://open.spotify.com/album/3LfBdvxxInsz67JEFGsZnO) | 5:54 | 2023-10-29 |  |
 | [Cada Poça Dessa Rua Tem Um Pouco de Minhas Lágrimas](https://open.spotify.com/track/4WMZXYJ57CZMX5W1bWcNHb) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Ciano](https://open.spotify.com/album/1nCMa3kC0kbnabvqKdH0aR) | 5:54 | 2023-03-02 | 2023-11-04 |
+| [Cedo Ou Tarde \- Mixagem 2023](https://open.spotify.com/track/1QAtLoN3Pz2P5mWqbWMs4L) | [NX Zero](https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH) | [Agora \(Mixagem 2023\)](https://open.spotify.com/album/6DtTX1ZvNBhN15LTYBhuYz) | 3:14 | 2023-12-22 |  |
 | [Credenciais](https://open.spotify.com/track/7uGZL8ch8oTxEEbfile7ON) | [Hurtmold](https://open.spotify.com/artist/65RycP7iE8vX8tbzKy3top) | [Cozido](https://open.spotify.com/album/2L9l1Hshuxg4NufjpaQSF3) | 3:27 | 2023-03-02 |  |
 | [Criança](https://open.spotify.com/track/2GldKzHbVO2zQR3ZeWjfrh) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [Essa Noite Bateu Com Um Sonho](https://open.spotify.com/album/4cFrj5k0r7SFBXXU50L9Ph) | 4:36 | 2023-10-29 |  |
 | [Criança](https://open.spotify.com/track/44Hewpc6MVWcWdQGzPfauT) | [Terno Rei](https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF) | [Essa Noite Bateu Com um Sonho](https://open.spotify.com/album/0Ki5QTAVHWBjxPOh3uR4ux) | 4:36 | 2023-03-02 | 2023-12-22 |
@@ -49,7 +50,7 @@
 | [Jeito Livre](https://open.spotify.com/track/31Wi4Vskn51YPzt7YQvXmp) | [Rancore](https://open.spotify.com/artist/3KR4M3bAqWbADfTTDdfMDM) | [Seiva](https://open.spotify.com/album/0wLxnVN8wo9vAC0w28m4Mz) | 3:45 | 2023-03-02 |  |
 | [Lembrar Me Faz Sofrer](https://open.spotify.com/track/6gibLc856RW7O3bL8gcENe) | [Display](https://open.spotify.com/artist/6wK3QnC206lJhV7QtC352T) | [Um Dia Pra Sonhar](https://open.spotify.com/album/3RCvS7nvwuIm7CszP8P7A7) | 2:48 | 2023-03-02 |  |
 | [Lentamente](https://open.spotify.com/track/71pHOZUBFAXxE7g3iDf04f) | [Square](https://open.spotify.com/artist/7dqP3g4hzcHcjJ0GM6Cn3y) | [Maior Que o Céu](https://open.spotify.com/album/3B3qszHZhsmT3ZLYoMdrTi) | 2:17 | 2023-03-02 |  |
-| [Levo Comigo](https://open.spotify.com/track/6BcqNZ7D3gI0ALivZMAvux) | [Restart](https://open.spotify.com/artist/0fnpJQo4aRTZFz8Sf4id6T) | [Restart](https://open.spotify.com/album/6IqdfOX19OBSSxNTTRA5kg) | 3:26 | 2023-03-02 |  |
+| [Levo Comigo](https://open.spotify.com/track/6BcqNZ7D3gI0ALivZMAvux) | [Restart](https://open.spotify.com/artist/0fnpJQo4aRTZFz8Sf4id6T) | [Restart](https://open.spotify.com/album/6IqdfOX19OBSSxNTTRA5kg) | 3:26 | 2023-03-02 | 2023-12-23 |
 | [Levo Comigo](https://open.spotify.com/track/77Y6GBebTNjzyLVTX3PmAk) | [Restart](https://open.spotify.com/artist/0fnpJQo4aRTZFz8Sf4id6T) | [Greatest Hits \- Tour Edition](https://open.spotify.com/album/4LYsPGQ18Rb9fPnDbebCYC) | 3:28 | 2023-10-29 |  |
 | [Mais Que um Perdão](https://open.spotify.com/track/5Dd5gzk4YVeSk6yfCF2VMy) | [Opallas](https://open.spotify.com/artist/45dNW6B9d2DdqCgJlrLbOh) | [Que Mal Há em Chorar por Nós Dois](https://open.spotify.com/album/0tZh9WyHmwIASV09q57nQh) | 1:25 | 2023-03-02 |  |
 | [Me Leve às Estrelas](https://open.spotify.com/track/7B6z4Ycf1k9o8mZdSkRoyc) | [Dance of Days](https://open.spotify.com/artist/3pICQ7QvYXozuzJjgb6eM5) | [A História Não Tem Fim](https://open.spotify.com/album/43WGY8Tt3dyQOqbYIosPRy) | 4:16 | 2023-03-02 |  |

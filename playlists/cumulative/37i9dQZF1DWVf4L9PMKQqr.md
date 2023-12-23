@@ -4,7 +4,7 @@
 
 > Enamórate con las interpretaciones más románticas de El Flaco de Oro.
 
-84 songs - 4 hr 7 min
+85 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Aventurera \( Remasterizado \)](https://open.spotify.com/track/541BvxPhWSkO7MQzMEMSp0) | [Guty Cárdenas](https://open.spotify.com/artist/1XXNhXjfbtXeW1amhbUKIW) | [Un Siglo..\. De Recuerdos Con El Mas Grande Trovador Mexicano Guty Cardenas](https://open.spotify.com/album/4o0wE1QwrpQmb5ndTQl0nW) | 3:11 | 2021-05-07 |  |
 | [Caballera Blanca](https://open.spotify.com/track/1ZH12n8wnw19KSkKZFuvIP) | [Alejandro Algara](https://open.spotify.com/artist/3u08FMRF8VMAeYmJjOuJzB) | [COLECCION Volumen 5](https://open.spotify.com/album/5V5bvTtqymqaymOEweXxqk) | 3:31 | 2021-05-07 |  |
 | [Cada Noche un Amor](https://open.spotify.com/track/5WiQDTNxxdUQut3jCUZz0e) | [Maria Felix](https://open.spotify.com/artist/16EdP6qprhSzH9S6zJ50n7) | [María Félix Interpreta a Agustín Lara](https://open.spotify.com/album/67ujgRmapP8x3YaCSYb1IG) | 3:31 | 2021-05-07 |  |
+| [Concha Nacar](https://open.spotify.com/track/2NYZ1itaWAy8jOAjeQVNjc) | [David Reynoso](https://open.spotify.com/artist/5djhr5Q01njJFuZFtTqT8s) | [David Reynoso y la Música de Agustín Lara](https://open.spotify.com/album/4VnXBg6RqDKAZhkPB5YjHL) | 2:18 | 2021-05-07 |  |
 | [Concha Nacar / Limosna](https://open.spotify.com/track/6jrUIPj4VyB9ItLhOMrcSs) | [Elvira Rios](https://open.spotify.com/artist/1us5UEUwARpm9xvMh1i52g) | [Agustín Lara y sus Grandes Intérpretes](https://open.spotify.com/album/1UCHaeKP4ZhDqk4s4pDZn0) | 2:59 | 2021-05-07 |  |
 | [Cosas Que Suceden](https://open.spotify.com/track/66TEyiKkT24YtD5md5qvJE) | [Agustin Lara Jr.](https://open.spotify.com/artist/2imA995pqgdOtN780UWweZ) | [...Solamente una Vez](https://open.spotify.com/album/59bTiNwUTyKzIW5B2GXRH2) | 3:20 | 2021-05-07 | 2023-12-21 |
 | [Cuando Vuelvas](https://open.spotify.com/track/1Oyk4HRRxRyqwHvgYv06q8) | [Lucía Méndez](https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN) | [Señora Tentación](https://open.spotify.com/album/5tcUId9lERJM6D2dzroZI0) | 3:31 | 2021-05-07 |  |
@@ -29,7 +30,7 @@
 | [De Riguroso Schottis](https://open.spotify.com/track/0BrpSMP7erd1xjDSJFRIwU) | [Lilian De Celis](https://open.spotify.com/artist/6GJeh0dffUcq1r9axMRSKv) | [Agustin Lara Y Sus Interpretes Vol\. II](https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa) | 2:10 | 2021-05-07 |  |
 | [Dime Si Me Quieres](https://open.spotify.com/track/5tiM3oeYGZyjmXcjF4Iqep) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Música de Agustín Lará Con los Tres Caballeros](https://open.spotify.com/album/1Fr1bDJkcGGgQt7nO83HIq) | 2:18 | 2021-05-07 |  |
 | [El Capulin](https://open.spotify.com/track/4XBq7wuQTC05NrwquJ3HWP) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Suite Mexicana de Agustín Lara](https://open.spotify.com/album/7yVxgddVdrQVgXS3OCgPon) | 2:19 | 2021-05-07 |  |
-| [El Organillero](https://open.spotify.com/track/4vqSjkiJKlgzsREqiTFeZt) | [Hugo Avendaño](https://open.spotify.com/artist/5t2eo8t8t6DwSA7goQgxpq) | [Coleccion Original RCA](https://open.spotify.com/album/6JOl5ODZIgfvgW4pMaEy8v) | 2:26 | 2021-05-07 |  |
+| [El Organillero](https://open.spotify.com/track/4vqSjkiJKlgzsREqiTFeZt) | [Hugo Avendaño](https://open.spotify.com/artist/5t2eo8t8t6DwSA7goQgxpq) | [Coleccion Original RCA](https://open.spotify.com/album/6JOl5ODZIgfvgW4pMaEy8v) | 2:26 | 2021-05-07 | 2023-12-23 |
 | [El Organillero](https://open.spotify.com/track/59roAfQywRvHk6N7nPACSb) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Fantasia Espanola](https://open.spotify.com/album/0cBIMvZ85UwIswbbUSH7na) | 2:21 | 2021-05-07 |  |
 | [Escarcha](https://open.spotify.com/track/2Xdmm2Sm4Iy6CHXEj5qwP7) | [Hermanas Huerta](https://open.spotify.com/artist/1hU5wdiWeIWv4fBklDgta1) | [Interpretan a Agustín Lara / De Puerto en Puerto](https://open.spotify.com/album/5inx7F0E85jiFDX2LPwy9x) | 2:02 | 2021-05-07 |  |
 | [Escarcha](https://open.spotify.com/track/3eRQss3hfgY7Zvge8lK7iq) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [La Sonora Santanera Y La Inspiración de Agustín Lara](https://open.spotify.com/album/0PB2j6MxJasgBw89UXkKA8) | 3:15 | 2021-05-07 |  |

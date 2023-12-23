@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > open the pit\. cover: Scowl
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,520 likes - 100 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,589 likes - 100 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 53 | [No Convenient Apocalypse](https://open.spotify.com/track/20ufZoo7L9g7MAhO577ru0) | [Pissed Jeans](https://open.spotify.com/artist/6FTONkEJQsCSpoDHqaAP1V) | [No Convenient Apocalypse](https://open.spotify.com/album/0oMWNvzmMUcLmPJc1Jh2qv) | 3:13 |
 | 54 | [Cry Your Eyes Out](https://open.spotify.com/track/6RJPfekYTed0sA5NOPAVGk) | [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [Cry Your Eyes Out](https://open.spotify.com/album/41zB31MGUxsc6oZ4A8r0ti) | 2:27 |
 | 55 | [In the Moment](https://open.spotify.com/track/3YlLXwqYYysLEDyDF11xhq) | [Regulate](https://open.spotify.com/artist/64O5oavSEHRyQBGxOU0ewd) | [Regulate](https://open.spotify.com/album/4pXxLjtlUMzHYYw7axn5Ez) | 2:40 |
-| 56 | [In The City](https://open.spotify.com/track/4BI2pWz7VSJGAF9DoyKCFk) | [No Warning](https://open.spotify.com/artist/0TfABr1qhx6v684iWSBdob) | [Torture Culture](https://open.spotify.com/album/3D6f5OLseUy0d0EjMJAr6j) | 3:12 |
+| 56 | [In The City](https://open.spotify.com/track/2i9RPuyGUPhNXbEefdQX3S) | [No Warning](https://open.spotify.com/artist/0TfABr1qhx6v684iWSBdob) | [Torture Culture](https://open.spotify.com/album/0MVWEsdOeomWGb9LDBoltV) | 3:12 |
 | 57 | [Different Strokes](https://open.spotify.com/track/0BKoH0V5oitnRXXdTJaruF) | [Pulses.](https://open.spotify.com/artist/0tko2stnUOqejIto8rKRh7) | [Different Strokes](https://open.spotify.com/album/1rDtz6r9JVwFBStd2vQpy1) | 2:52 |
 | 58 | [Famine](https://open.spotify.com/track/4X8jREuc6luiF7HeCdDHes) | [Paint It Black](https://open.spotify.com/artist/7GtvuoYRvRQbBnvgu9VS11) | [Famine](https://open.spotify.com/album/3d8dwL3KjNSfhduDaVCObn) | 1:52 |
 | 59 | [Vie](https://open.spotify.com/track/54KEWhhs5KnGPTtlJNNg6w) | [Fury](https://open.spotify.com/artist/62zeCnl4XbUvKMrkNAmmm0) | [Vie](https://open.spotify.com/album/67uI83VDTFiMPYJazZgzaO) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 | 99 | [Teeth of Wolves](https://open.spotify.com/track/7LwlqPgjtM72PJVIwIUYeP) | [BITE THE HAND](https://open.spotify.com/artist/1niXxbnUc8pJ3DIBxV8KXg) | [Down Comes the Bay](https://open.spotify.com/album/6z9kejZ3MPWyLzuinXVMvU) | 2:22 |
 | 100 | [Apology Denied](https://open.spotify.com/track/2XwNSG0m9nrLFxi9twvJCQ) | [Bad Blood](https://open.spotify.com/artist/3IBbnAgFWe1zOEuoNS8n53) | [Apology Denied](https://open.spotify.com/album/5tRUQCtgNounNjP9yjapsB) | 2:21 |
 
-Snapshot ID: `MCw5NzJkMjM5MWM4OTM3MGEwNzRlNWY1NjliODU3ZGI2MTNiNDg3MjUy`
+Snapshot ID: `MCw0MTMwNjdmZjA4YmZlMGM4YjQyYmE1MWRhMjQ3Y2JjYTMyM2JjNTA3`

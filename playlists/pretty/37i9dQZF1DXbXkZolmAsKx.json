@@ -1,12 +1,12 @@
 {
   "description": "The best Ambient tracks from 2010 to 2019. ",
-  "num_followers": 7694,
+  "num_followers": 7709,
   "original_name": "Ambient 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2YzYmVhNTQ5M2JlNWQyOWVkNTBmZDQ4MGU0N2RjODE2MzdlNDhl",
+  "snapshot_id": "MCwwNDY3ZWM3ZjVhOTFkZTFhZDQwNGU3NzE0NDFlZjQ3YmE2YWVkYjRh",
   "tracks": [
     {
       "added_at": "2023-06-07 15:21:34",
@@ -627,38 +627,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Parallel",
-        "url": "https://open.spotify.com/album/4l0OF60qnRJ4Q7n35yt7wX"
-      },
-      "artists": [
-        {
-          "name": "Warmth",
-          "url": "https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d"
-        }
-      ],
-      "duration_ms": 426786,
-      "name": "Spherule",
-      "url": "https://open.spotify.com/track/1zc4Z207PHoigtQsnRrdxG"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Ruins",
-        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 98946,
-      "name": "Made of Metal",
-      "url": "https://open.spotify.com/track/4v9gSomhAcOYSU7VBpJkA1"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "From Sleep",
         "url": "https://open.spotify.com/album/7tP7WLxusDpTi1gf1JFsrT"
       },
@@ -691,6 +659,38 @@
       "duration_ms": 315720,
       "name": "Space 11 (Invisible Pages Over)",
       "url": "https://open.spotify.com/track/7uLFKKT99gXzjLhsOoDKwg"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/5ElYoVUqRQIlDekD1v6aKa"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 98946,
+      "name": "Made of Metal",
+      "url": "https://open.spotify.com/track/4v9gSomhAcOYSU7VBpJkA1"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Parallel",
+        "url": "https://open.spotify.com/album/4l0OF60qnRJ4Q7n35yt7wX"
+      },
+      "artists": [
+        {
+          "name": "Warmth",
+          "url": "https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d"
+        }
+      ],
+      "duration_ms": 426786,
+      "name": "Spherule",
+      "url": "https://open.spotify.com/track/1zc4Z207PHoigtQsnRrdxG"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -759,26 +759,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Passive Aggressive",
-        "url": "https://open.spotify.com/album/06CnAHZC6NtWc1f0vuKi9l"
-      },
-      "artists": [
-        {
-          "name": "Jonny Nash",
-          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
-        },
-        {
-          "name": "Suzanne Kraft",
-          "url": "https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m"
-        }
-      ],
-      "duration_ms": 207993,
-      "name": "Hanging Glass Structure",
-      "url": "https://open.spotify.com/track/7M2AMJZISkdKAzHg7n2CUZ"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Narkopop",
         "url": "https://open.spotify.com/album/4JQ2igmQEWUihSRzWgTiCF"
       },
@@ -795,18 +775,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "For Those Of You Who Have Never (And Also Those Who Have)",
-        "url": "https://open.spotify.com/album/57o6rhS5v8qPeRPzrNRWF9"
+        "name": "Passive Aggressive",
+        "url": "https://open.spotify.com/album/06CnAHZC6NtWc1f0vuKi9l"
       },
       "artists": [
         {
-          "name": "Huerco S.",
-          "url": "https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy"
+          "name": "Jonny Nash",
+          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
+        },
+        {
+          "name": "Suzanne Kraft",
+          "url": "https://open.spotify.com/artist/1FTn5osUbCr8n7WgYmbK5m"
         }
       ],
-      "duration_ms": 367013,
-      "name": "Hear Me Out",
-      "url": "https://open.spotify.com/track/6bxilo3FjnLhbk8IzhyVO4"
+      "duration_ms": 207993,
+      "name": "Hanging Glass Structure",
+      "url": "https://open.spotify.com/track/7M2AMJZISkdKAzHg7n2CUZ"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -843,6 +827,22 @@
       "duration_ms": 287786,
       "name": "Space 21 (petrichor)",
       "url": "https://open.spotify.com/track/5bpmEsR82Yg8x82zNQ9MDD"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "For Those Of You Who Have Never (And Also Those Who Have)",
+        "url": "https://open.spotify.com/album/57o6rhS5v8qPeRPzrNRWF9"
+      },
+      "artists": [
+        {
+          "name": "Huerco S.",
+          "url": "https://open.spotify.com/artist/0Wy3xgOTkgtDlT9wJsOQjy"
+        }
+      ],
+      "duration_ms": 367013,
+      "name": "Hear Me Out",
+      "url": "https://open.spotify.com/track/6bxilo3FjnLhbk8IzhyVO4"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -947,38 +947,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Forgotten Hill",
-        "url": "https://open.spotify.com/album/53fSlFeav0ih0YWUU2M1Kf"
-      },
-      "artists": [
-        {
-          "name": "Chihei Hatakeyama",
-          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
-        }
-      ],
-      "duration_ms": 321894,
-      "name": "Cherry Blossom Petals Fall Like Heavy Snow",
-      "url": "https://open.spotify.com/track/5xWpxxbOgiVJnveonlraii"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "A Turn of Breath - Extended",
-        "url": "https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ"
-      },
-      "artists": [
-        {
-          "name": "Ian William Craig",
-          "url": "https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q"
-        }
-      ],
-      "duration_ms": 192559,
-      "name": "Before Meaning Comes",
-      "url": "https://open.spotify.com/track/1T8YONUfkmHPqmUueSYq0V"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "FRKWYS Vol. 15: serenitatem",
         "url": "https://open.spotify.com/album/3c8oJantTYVugv4AyIRhiP"
       },
@@ -999,6 +967,38 @@
       "duration_ms": 407999,
       "name": "Atelier",
       "url": "https://open.spotify.com/track/71mFfICCJkyn4gyYjnoiDL"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "A Turn of Breath - Extended",
+        "url": "https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ"
+      },
+      "artists": [
+        {
+          "name": "Ian William Craig",
+          "url": "https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q"
+        }
+      ],
+      "duration_ms": 192559,
+      "name": "Before Meaning Comes",
+      "url": "https://open.spotify.com/track/1T8YONUfkmHPqmUueSYq0V"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Forgotten Hill",
+        "url": "https://open.spotify.com/album/53fSlFeav0ih0YWUU2M1Kf"
+      },
+      "artists": [
+        {
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        }
+      ],
+      "duration_ms": 321894,
+      "name": "Cherry Blossom Petals Fall Like Heavy Snow",
+      "url": "https://open.spotify.com/track/5xWpxxbOgiVJnveonlraii"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Moiety",
-        "url": "https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO"
-      },
-      "artists": [
-        {
-          "name": "Helios",
-          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
-        }
-      ],
-      "duration_ms": 239351,
-      "name": "Equal Ourselves",
-      "url": "https://open.spotify.com/track/3P8K105H7ecziOaAuVh4RN"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Goodbye To Language",
         "url": "https://open.spotify.com/album/10bvLR2PyyfhP9xzU9feBu"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 199517,
       "name": "Blue Diamond",
       "url": "https://open.spotify.com/track/0uiQHwjtQpvEClMkYjEhBi"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Moiety",
+        "url": "https://open.spotify.com/album/26bsye3Q78IE7Kees8v8iO"
+      },
+      "artists": [
+        {
+          "name": "Helios",
+          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
+        }
+      ],
+      "duration_ms": 239351,
+      "name": "Equal Ourselves",
+      "url": "https://open.spotify.com/track/3P8K105H7ecziOaAuVh4RN"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1231,6 +1231,22 @@
       "duration_ms": 214668,
       "name": "Opening",
       "url": "https://open.spotify.com/track/7H3bUCNluOOnkBx5yQ9NwU"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Nightmare Ending",
+        "url": "https://open.spotify.com/album/1XKm22uQVwp5JLNjRDRC4P"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 429986,
+      "name": "Warm",
+      "url": "https://open.spotify.com/track/0IFWJo11X5L7ZkFeW43H65"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1267,22 +1283,6 @@
       "duration_ms": 244786,
       "name": "Infra 1",
       "url": "https://open.spotify.com/track/3c7ZpMEp2doDCVm1Rw7Vf3"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Nightmare Ending",
-        "url": "https://open.spotify.com/album/1XKm22uQVwp5JLNjRDRC4P"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 429986,
-      "name": "Warm",
-      "url": "https://open.spotify.com/track/0IFWJo11X5L7ZkFeW43H65"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1324,8 +1324,8 @@
       },
       "artists": [
         {
-          "name": "Adam Bryanbaum Wiltzie",
-          "url": "https://open.spotify.com/artist/3pv7Yo0bBHl6jyOXU1NnWf"
+          "name": "Adam Wiltzie",
+          "url": "https://open.spotify.com/artist/2PwdBOFbF3XvIkxVwT719J"
         }
       ],
       "duration_ms": 204826,
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "A Turn of Breath - Extended",
-        "url": "https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ"
-      },
-      "artists": [
-        {
-          "name": "Ian William Craig",
-          "url": "https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q"
-        }
-      ],
-      "duration_ms": 205186,
-      "name": "Second Lens",
-      "url": "https://open.spotify.com/track/6jbq7JCBAnTyYQqFzeneXC"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "The Last of Our Time Together",
         "url": "https://open.spotify.com/album/3AyLgph2cuxoHXY2WndeQc"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 962000,
       "name": "The Last of Our Time Together",
       "url": "https://open.spotify.com/track/5HF71OzFDpRC7hNzZdyIhB"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "A Turn of Breath - Extended",
+        "url": "https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ"
+      },
+      "artists": [
+        {
+          "name": "Ian William Craig",
+          "url": "https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q"
+        }
+      ],
+      "duration_ms": 205186,
+      "name": "Second Lens",
+      "url": "https://open.spotify.com/track/6jbq7JCBAnTyYQqFzeneXC"
     },
     {
       "added_at": "2023-06-07 15:21:34",

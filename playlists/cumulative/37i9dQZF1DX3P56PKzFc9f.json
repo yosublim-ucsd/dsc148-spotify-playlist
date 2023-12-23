@@ -1571,6 +1571,24 @@
     },
     {
       "album": {
+        "name": "Na\u00efve",
+        "url": "https://open.spotify.com/album/4NkgzNCOzuki4FuWUOY28R"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196187,
+      "name": "Don't Give Up On Me",
+      "url": "https://open.spotify.com/track/0fiijtFXDJ9MOVwgSaEQJ5"
+    },
+    {
+      "album": {
         "name": "Naive",
         "url": "https://open.spotify.com/album/20mlgqmD6YJwkNuAfLRcDC"
       },
@@ -2784,7 +2802,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 167106,
       "name": "Hurt Somebody",
       "url": "https://open.spotify.com/track/2Zg0aB5oVQlbQE1vzQmIIY"

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Little More Lost (Acoustic)",
+        "url": "https://open.spotify.com/album/2iczM0WSgNtsVklHPe1ETc"
+      },
+      "artists": [
+        {
+          "name": "Georgia Ku",
+          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "A Little More Lost - Acoustic",
+      "url": "https://open.spotify.com/track/70NbSCzRvtTy3Sxcf3Gx1e"
+    },
+    {
+      "album": {
         "name": "Alien (Acoustic)",
         "url": "https://open.spotify.com/album/12Nm1go9iMaJPcGcBzOHFU"
       },
@@ -962,7 +980,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 216487,
       "name": "Little Bit of Love - Acoustic",
       "url": "https://open.spotify.com/track/6RsVs4RDuXsT1bV9UwWxNJ"
@@ -1577,6 +1595,24 @@
     },
     {
       "album": {
+        "name": "Trying (Live Version)",
+        "url": "https://open.spotify.com/album/2okKFrbb0aI61Id07GRVdZ"
+      },
+      "artists": [
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126980,
+      "name": "Trying - Live Version",
+      "url": "https://open.spotify.com/track/0G7yKhzehjrEwMWYmINXPH"
+    },
+    {
+      "album": {
         "name": "Wasted Love (feat. Lagique) [Acoustic]",
         "url": "https://open.spotify.com/album/2CgvyrhuhDiXBAmXQz52Js"
       },
@@ -1592,7 +1628,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 127873,
       "name": "Wasted Love (feat. Lagique) - Acoustic",
       "url": "https://open.spotify.com/track/5Zn1K7j3DkB1akPiBLwKR9"

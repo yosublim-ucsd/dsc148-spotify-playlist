@@ -1,12 +1,12 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 6611,
+  "num_followers": 6617,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmIxNzllZmFlYjM2NjllN2ExZjY1MDhlODE0Zjc0ZDgzZGY1OTAy",
+  "snapshot_id": "MCwwOWI3YTdjYTQ1YzJhODNlZmRlNDg3MTI2MDRlZGJiZGRiZTJjYjA5",
   "tracks": [
     {
       "added_at": "2023-12-01 08:47:54",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-12-01 08:47:54",
       "album": {
-        "name": "Big Time",
-        "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
-      },
-      "artists": [
-        {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
-        }
-      ],
-      "duration_ms": 276826,
-      "name": "All The Good Times",
-      "url": "https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq"
-    },
-    {
-      "added_at": "2023-12-01 08:47:54",
-      "album": {
         "name": "Bronco",
         "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 210840,
       "name": "C'mon Baby, Cry",
       "url": "https://open.spotify.com/track/67swXHVknS142T5tIcNFkl"
+    },
+    {
+      "added_at": "2023-12-01 08:47:54",
+      "album": {
+        "name": "Big Time",
+        "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "duration_ms": 276826,
+      "name": "All The Good Times",
+      "url": "https://open.spotify.com/track/6Tv21RLLA1Dt6OtPNz8QDq"
     },
     {
       "added_at": "2023-12-01 08:47:54",
@@ -631,22 +631,18 @@
     {
       "added_at": "2023-12-01 08:47:54",
       "album": {
-        "name": "Times",
-        "url": "https://open.spotify.com/album/6RiH1JegZGAMd8lx4Jsw3l"
+        "name": "Use Me",
+        "url": "https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0"
       },
       "artists": [
         {
-          "name": "Marlayne",
-          "url": "https://open.spotify.com/artist/4xjoVIB3eX5vHU3oz4BmBr"
-        },
-        {
-          "name": "Hans Vermeulen",
-          "url": "https://open.spotify.com/artist/7kGe553AEMYjqXiGI8wIYD"
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 244060,
-      "name": "Times",
-      "url": "https://open.spotify.com/track/2SihsYSOGwYDHMfd0riW4Y"
+      "duration_ms": 245066,
+      "name": "Use Me",
+      "url": "https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc"
     },
     {
       "added_at": "2023-12-01 08:47:54",
@@ -671,18 +667,22 @@
     {
       "added_at": "2023-12-01 08:47:54",
       "album": {
-        "name": "Use Me",
-        "url": "https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0"
+        "name": "Times",
+        "url": "https://open.spotify.com/album/6RiH1JegZGAMd8lx4Jsw3l"
       },
       "artists": [
         {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+          "name": "Marlayne",
+          "url": "https://open.spotify.com/artist/4xjoVIB3eX5vHU3oz4BmBr"
+        },
+        {
+          "name": "Hans Vermeulen",
+          "url": "https://open.spotify.com/artist/7kGe553AEMYjqXiGI8wIYD"
         }
       ],
-      "duration_ms": 245066,
-      "name": "Use Me",
-      "url": "https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc"
+      "duration_ms": 244060,
+      "name": "Times",
+      "url": "https://open.spotify.com/track/2SihsYSOGwYDHMfd0riW4Y"
     },
     {
       "added_at": "2023-12-01 08:47:54",

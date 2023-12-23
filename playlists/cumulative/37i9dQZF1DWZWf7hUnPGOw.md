@@ -4,7 +4,7 @@
 
 > Sometimes all you need is a fresh start\. Listen to the music from, and inspired by, Virgin River, now stream on Netflix.
 
-269 songs - 16 hr 17 min
+270 songs - 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [Hallucinate](https://open.spotify.com/track/0qnSjipvB268SHMbNSxZ7y) | [Oliver Riot](https://open.spotify.com/artist/28dDyPkw069ypiqC78dhRb) | [Hallucinate](https://open.spotify.com/album/4QeviFTsujz42JNlb5zQqH) | 3:26 | 2022-07-22 |  |
 | [Have A Little Faith In Me](https://open.spotify.com/track/6CC7m07iUQA2oKr2Ky4gRl) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Have A Little Faith In Me](https://open.spotify.com/album/5tUKs4B9KY6Yd5qSiyvENz) | 3:17 | 2022-07-22 |  |
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1pJmTx6TCoHUFpwekGm9p0) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Snowfall](https://open.spotify.com/album/1NWnNK50HLjM19nqkISue4) | 3:45 | 2023-11-30 |  |
-| [Heart's for Mine](https://open.spotify.com/track/1IN3yi4InzQxvokJ3ks8tr) | [Jack Grelle](https://open.spotify.com/artist/5vSOsUL2Sp1JTsfh0HsRor) | [Got Dressed Up to be Let Down](https://open.spotify.com/album/0L1WEUgkaTxtD4mRFH6RQY) | 3:06 | 2022-07-22 |  |
+| [Heart's for Mine](https://open.spotify.com/track/1IN3yi4InzQxvokJ3ks8tr) | [Jack Grelle](https://open.spotify.com/artist/5vSOsUL2Sp1JTsfh0HsRor) | [Got Dressed Up to be Let Down](https://open.spotify.com/album/0L1WEUgkaTxtD4mRFH6RQY) | 3:06 | 2022-07-22 | 2023-12-23 |
+| [Heart's for Mine](https://open.spotify.com/track/69Rgs5RABQtCV7w3YjogZF) | [Jack Grelle](https://open.spotify.com/artist/5vSOsUL2Sp1JTsfh0HsRor) | [Got Dressed Up to be Let Down](https://open.spotify.com/album/4s41xqAkRsxShzcNUnNhJ4) | 3:06 | 2023-11-30 |  |
 | [Heartshaker](https://open.spotify.com/track/5lHq0Tv3xyBt6wlZ6zT29l) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Collide](https://open.spotify.com/album/6N8ras39TalGIJbgRBkpea) | 3:06 | 2022-07-22 | 2022-07-29 |
 | [Heartshaker](https://open.spotify.com/track/719rz3mpGPKOZkDUiYAfJB) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Heartshaker](https://open.spotify.com/album/12OOM8ZTfJ8z3alGg2SQWU) | 3:06 | 2022-07-22 | 2022-11-14 |
 | [Heartshaker](https://open.spotify.com/track/7awrM47SxC8KHtt2WUMyPZ) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Collide](https://open.spotify.com/album/02CvIAyYDEQGCi4DMfCSS7) | 3:06 | 2022-07-22 |  |

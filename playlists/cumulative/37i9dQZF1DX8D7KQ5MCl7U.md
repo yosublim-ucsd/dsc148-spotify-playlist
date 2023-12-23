@@ -4,7 +4,7 @@
 
 > All Coke Studio Pakistan tracks in one place.
 
-384 songs - 1 day 18 hr 13 min
+385 songs - 1 day 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Kheryaan De Naal](https://open.spotify.com/track/4vb3eXV5MUr5qGMCJ2XdEO) | [Niazi Brothers](https://open.spotify.com/artist/6EZ4uVu8oBRwuqt2K38TWl) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 7:54 | 2022-03-23 |  |
 | [Kinara](https://open.spotify.com/track/2IuMxhVvsQy0emYrupaMgM) | [Atif Aslam & Riaz Ali Khan](https://open.spotify.com/artist/4KNKbRCxiRYi89QAZC0i5g), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 2](https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu) | 7:48 | 2022-03-23 |  |
 | [Kinaray](https://open.spotify.com/track/0SoxxwwefLwKnzK8byFyje) | [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy) | [Coke Studio: Season 8](https://open.spotify.com/album/3peJK6wepWMSteaniFjkbz) | 4:21 | 2022-10-12 | 2023-12-09 |
+| [Kinaray](https://open.spotify.com/track/53M5LewPUQl3XmzRnPynpx) | [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy) | [Coke Studio: Season 8](https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B) | 4:21 | 2022-10-12 |  |
 | [Kinaray](https://open.spotify.com/track/3chvS4B3KaT7wCyoVLO88I) | [Mekaal Hassan Band](https://open.spotify.com/artist/0XSTzPae7xbdt1ZH0fbpZR) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 4:21 | 2022-03-23 | 2023-09-22 |
 | [Kirkir Kirkir](https://open.spotify.com/track/0jFME2O3JCWsVjncExX9xy) | [Sajjad Ali](https://open.spotify.com/artist/5THsb9SGB89ZN6mj7ZYVSD), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions \(Season 4\)](https://open.spotify.com/album/49vBV5Xsw7Za0yPIVJZIEs) | 4:00 | 2022-03-23 | 2022-07-27 |
 | [Ko Ko Korina](https://open.spotify.com/track/2czlMEVauz8zW15bhDAs2H) | [Ahad Raza Mir](https://open.spotify.com/artist/6bbHLk5uYlZSfmhtNQ5431), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Coke Studio Season 11 \(Sound of The Nation\)](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 3:37 | 2022-03-23 | 2023-02-20 |
@@ -306,7 +307,7 @@
 | [Roye Roye](https://open.spotify.com/track/1pcfntKTs56hViQQctOmNq) | [Sahir Ali Bagga](https://open.spotify.com/artist/4cxl9RcyEbY0koslSaEKLY), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV) | [Coke Studio Season 11 \(Sound of The Nation\)](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 6:47 | 2022-03-23 | 2022-07-29 |
 | [Runaway](https://open.spotify.com/track/5gnuOwxhhGPrQeqs5DBE4n) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Riaz Qadri](https://open.spotify.com/artist/7xL0WrnmFNsnjfgCcXvdLS), [Ghulam Ali Qadri](https://open.spotify.com/artist/0xnOwJXmtgiBD61tB1sJzg) | [Coke Studio Season 11 \(Sound of The Nation\)](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 6:24 | 2022-03-23 | 2023-02-13 |
 | [Rung](https://open.spotify.com/track/12QnL5u5wnMNkL9KqiDsNX) | [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 9:00 | 2022-03-23 | 2022-07-27 |
-| [Rung 2](https://open.spotify.com/track/6nw7TxJxt4mngfZX8cuSxt) | [Fareed Ayaz](https://open.spotify.com/artist/3CCUSweQDSNLPXi7ayw3VO), [Abu Muhammad](https://open.spotify.com/artist/0aJXsjLXlFqvT1vvB6xDYf), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 13:45 | 2022-03-23 |  |
+| [Rung 2](https://open.spotify.com/track/6nw7TxJxt4mngfZX8cuSxt) | [Fareed Ayaz](https://open.spotify.com/artist/3CCUSweQDSNLPXi7ayw3VO), [Abu Muhammad](https://open.spotify.com/artist/0aJXsjLXlFqvT1vvB6xDYf), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 13:45 | 2022-03-23 | 2023-12-23 |
 | [Rung Jindri](https://open.spotify.com/track/714jbRo5GFOuQJW7fRBmtb) | [Arif Lohar](https://open.spotify.com/artist/1zs5AOsqD2b0YfmGNfWni4) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 6:00 | 2022-03-23 | 2023-09-13 |
 | [Saari Duniya](https://open.spotify.com/track/7y127TjQwYli2BDFtLMeaL) | [Bohemia](https://open.spotify.com/artist/4tVSsF1D79QsGTLLY5B4rt) | [Saari Duniya](https://open.spotify.com/album/4GzAnKEqzZohDHQjfQJniG) | 5:51 | 2022-03-23 | 2023-12-12 |
 | [Saari Raat](https://open.spotify.com/track/3mYsmSJruBRGkaw0VGRqhJ) | [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 2](https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu) | 7:24 | 2022-03-23 |  |

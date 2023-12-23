@@ -2,9 +2,9 @@
 
 ### [All New Indie](https://open.spotify.com/playlist/37i9dQZF1DXdbXrPNafg9d)
 
-> The best new music every Friday\. Cover: The Marías & Eyedress
+> The best new music every Friday\. Cover: Still Woozy
 
-6,300 songs - 15 day 8 hr 5 min
+6,306 songs - 15 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [Anybody Else](https://open.spotify.com/track/3FyNoNgNO6qkdjCD6eFikX) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Anybody Else](https://open.spotify.com/album/6FDZydExiImBtXWfyUNOOS) | 2:10 | 2021-05-03 | 2021-06-26 |
 | [Anymore](https://open.spotify.com/track/2MRPzUotcGDw5FN8MpTLTM) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Rhymes & Rhythms](https://open.spotify.com/album/5f5QEuCZYoDLIZTL03qk4m) | 4:07 | 2021-08-28 | 2021-11-06 |
 | [Anymore](https://open.spotify.com/track/41k9LvMt9xspB5nueIUsfU) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Anymore](https://open.spotify.com/album/1gN8dVk0oKtQoHdk1oxKrL) | 2:34 | 2022-01-28 | 2022-02-26 |
+| [Anyone But You](https://open.spotify.com/track/4faTuWPQeMo24zvuTDre3c) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Anyone But You](https://open.spotify.com/album/2viPAytIOe7TjMOITmmWav) | 2:56 | 2023-12-22 |  |
 | [anything](https://open.spotify.com/track/4DtEcOoqORcOaiYl4HQGsS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [anything](https://open.spotify.com/album/2e3TrMSoC2IdX6tksQwpls) | 3:22 | 2020-09-04 | 2020-10-16 |
 | [Anything](https://open.spotify.com/track/1aivQYasJmmwGdehh0Ny8L) | [Frankie Rose](https://open.spotify.com/artist/44mVqYPHmFgrDJxv6CWrOo) | [Anything](https://open.spotify.com/album/5kbnVR8c9PjF88P4GtAGqj) | 3:44 | 2023-01-06 | 2023-01-28 |
 | [Anything at All](https://open.spotify.com/track/2t7UMmxmLwJruhMCvsF8tX) | [Bachelor](https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Anything at All](https://open.spotify.com/album/136fDceHP65bG2NCyYBgB2) | 3:20 | 2021-02-26 | 2021-04-10 |
@@ -1449,6 +1450,7 @@
 | [Don't Know How to Girlfriend](https://open.spotify.com/track/0Xujn00SgmNKBo4y7czhnl) | [GRAE](https://open.spotify.com/artist/0H307pF74X7H7kXOmDyYGU) | [Whiplash](https://open.spotify.com/album/0FsaP4LD9X3oRAJR9Vs4sI) | 3:01 | 2022-04-15 | 2022-05-07 |
 | [Don't Know Why I Love](https://open.spotify.com/track/4FupR6ny313swFdNuQnAJi) | [Gregory Ackerman](https://open.spotify.com/artist/3ZKxRpn8zCtfawDZtAMlYX) | [Don't Know Why I Love](https://open.spotify.com/album/37yNbAqINO17kJjXlkGLIp) | 2:36 | 2023-03-31 | 2023-05-06 |
 | [Don't Let Me Down](https://open.spotify.com/track/181PmaC6c39r59gfhDGKdh) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Don't Let Me Down](https://open.spotify.com/album/1PdRtUkny2sF2Hf1BbHsDU) | 3:55 | 2023-04-21 | 2023-06-03 |
+| [don't let me take my time](https://open.spotify.com/track/0d0BCIa1gWViE3jZLNaMmq) | [Indie Anthony](https://open.spotify.com/artist/5cvfQMSHL457qGDf8hpSjM) | [don't let me take my time](https://open.spotify.com/album/6p013AhVt4sEjwz98LA6in) | 2:40 | 2023-12-22 |  |
 | [Don't Like U](https://open.spotify.com/track/15GwtGQXPJYqGzpiSGygsz) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [Don't Like U](https://open.spotify.com/album/50n8xyx0eXZskyFyv9syTa) | 2:32 | 2022-03-11 | 2022-04-16 |
 | [Don't Look](https://open.spotify.com/track/5MEFpPKKGhMNlFuMyjCTyc) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Beat Tape II](https://open.spotify.com/album/5xQ1R1NUMoANjEoWMvis7F) | 1:19 | 2021-12-10 | 2022-01-15 |
 | [Don't Mind](https://open.spotify.com/track/2kSlrSnErfPwviKC9eTw6P) | [Tommy Newport](https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv) | [Don't Mind](https://open.spotify.com/album/2MJJxvYWMhzirNvLIv6c4y) | 3:22 | 2023-09-29 | 2023-10-06 |
@@ -2209,6 +2211,7 @@
 | [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 | 2020-10-24 | 2020-12-04 |
 | [Green Heart](https://open.spotify.com/track/7IPHYq1tGyQsE9QGo4UvTN) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [Stains](https://open.spotify.com/album/4KRzJ79gfLvy5D2imw0y7q) | 4:38 | 2021-06-26 | 2021-08-07 |
 | [green house](https://open.spotify.com/track/6BEfZGkhBNjnK9idfUv7hw) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [green house](https://open.spotify.com/album/4g5QlgGaYTmHmfoc6mLF0z) | 1:57 | 2023-06-16 | 2023-07-29 |
+| [Greenbow Jenny](https://open.spotify.com/track/5gRScFypH5zMciid4EAQfM) | [Mei Jun](https://open.spotify.com/artist/3cx46GdmHvTI5CvJCPRKZc) | [Greenbow Jenny](https://open.spotify.com/album/5NO0zrXTKKFYwO4k2bS2Jy) | 5:07 | 2023-12-22 |  |
 | [Gretel](https://open.spotify.com/track/3wo2vH5125yYbkxSRxyI6O) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Gretel](https://open.spotify.com/album/4AKDBw2VYWLPaaZnxlcYuy) | 3:10 | 2019-06-07 | 2019-08-13 |
 | [Grey Eyeliner](https://open.spotify.com/track/0mmU1OJkGxAzPO7LTPM0Xa) | [Black Marble](https://open.spotify.com/artist/6Nii4K84ZzBZS8X2MP8c9t) | [Bigger Than Life](https://open.spotify.com/album/1azw2HBS09fU4S9sqEreUq) | 3:32 | 2019-10-25 | 2019-12-06 |
 | [Grey Skies](https://open.spotify.com/track/4905P0tRcD8TkzrP8NZEzj) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Grey Skies](https://open.spotify.com/album/0nqR2rk6uqe3YZH6RhDPS6) | 2:44 | 2020-07-10 | 2020-08-21 |
@@ -2665,6 +2668,7 @@
 | [I Really Want U To B Here](https://open.spotify.com/track/4OOCHC6IvwftKghx8VC45J) | [Wacomo](https://open.spotify.com/artist/3QCB7sHyeE8BM8G5JqA1Z4) | [I Really Want U To B Here](https://open.spotify.com/album/642iuE6O4Lvxto9ekPVdDT) | 2:18 | 2021-03-19 | 2021-05-03 |
 | [I Saw](https://open.spotify.com/track/2KyawAGl39jfqeZOrVJanN) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [I Saw](https://open.spotify.com/album/5dYFkoGHXg0xjjtXEqZkwV) | 3:27 | 2022-10-21 | 2022-12-03 |
 | [i saw a flying saucer](https://open.spotify.com/track/52KK3h1WDHJyTtpxWonWuY) | [Bluey](https://open.spotify.com/artist/37cCRAGhoSGepKjv5j7MmI), [ctrl + me](https://open.spotify.com/artist/0nPOjNFDJoXX9PHf3Iar6X) | [i saw a flying saucer](https://open.spotify.com/album/2TwPIqLxI5twxyswNNjTxp) | 2:49 | 2023-12-15 |  |
+| [I Saw You](https://open.spotify.com/track/1q0xqMfpiJlMgnvM0o95tz) | [Sonya](https://open.spotify.com/artist/1sxq3PHS2sb0jQhAQRv3TA) | [I Saw You](https://open.spotify.com/album/48rgxq8beswwmYtJIM2Zh8) | 2:21 | 2023-12-22 |  |
 | [I SEE IT COMING](https://open.spotify.com/track/4qDVck33icBULgnvP6WmPh) | [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [I SEE IT COMING](https://open.spotify.com/album/71O6TEo8R5qHRNuoMXfeDo) | 3:04 | 2021-07-24 | 2021-09-04 |
 | [I See It Now](https://open.spotify.com/track/6v3NSHCeFxhz6cE6yKiUio) | [Bachelor](https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [I See It Now](https://open.spotify.com/album/5g2lYbfSbAmCHu3pAoDast) | 2:53 | 2021-09-04 | 2021-10-16 |
 | [I See Love](https://open.spotify.com/track/0OUKgnOS2Xj64K8x4Unutp) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Push Life](https://open.spotify.com/album/5QCQE9y6dsC9TSEW4qJkU4) | 2:45 | 2022-04-01 | 2022-04-29 |
@@ -4234,6 +4238,7 @@
 | [Pinch](https://open.spotify.com/track/6wK7VH9tPHMztCRHx33E8u) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Boys by Girls](https://open.spotify.com/album/4KnjTXIO4Znm41fTeNEOPd) | 3:30 | 2019-06-07 | 2019-08-13 |
 | [Pine](https://open.spotify.com/track/1xTrwHzhHuNb5URVfuBp0f) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Pine](https://open.spotify.com/album/0zIwjAV2L0o6pGpgMD7XWt) | 3:30 | 2021-02-06 | 2021-03-26 |
 | [Pineapple Sunrise](https://open.spotify.com/track/5L5n7lyXiTR2soMhCQel6n) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Pineapple Sunrise](https://open.spotify.com/album/7gA8QSNSZvHUYC9feFpeLj) | 2:56 | 2023-03-03 | 2023-04-09 |
+| [pink](https://open.spotify.com/track/6S0A78zOemkp3CSQChy00m) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [pink](https://open.spotify.com/album/4GdAcF4Vyw7Cmy7hKfE6XF) | 3:28 | 2023-12-22 |  |
 | [Pink & Blue](https://open.spotify.com/track/6yIF3vUglhELZ4AHZpBoH7) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y) | [Pink & Blue](https://open.spotify.com/album/3FWq7iKDpo2ppTbtg5kZLi) | 4:19 | 2019-05-26\* | 2019-06-15 |
 | [Pink Elephant](https://open.spotify.com/track/1LTN8lthZDQ3ArVXUlkwPQ) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Pink Elephant](https://open.spotify.com/album/73Y0cQYAtc71uPgMOzk1sg) | 3:12 | 2020-04-03 | 2020-05-01 |
 | [PIRATE RADIO\*](https://open.spotify.com/track/04sZfyhVJs0feZjVDq53Y8) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [PIRATE RADIO\*](https://open.spotify.com/album/039CFhV3mgb8ujdSz0Kpp3) | 3:09 | 2022-09-16 | 2022-11-05 |
@@ -5685,6 +5690,7 @@
 | [Trying Not To Cry \(feat\. Cavetown\)](https://open.spotify.com/track/1dO8sjJOtUpz0CWelezE4f) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Trying Not To Cry \(feat\. Cavetown\)](https://open.spotify.com/album/0eYVO4mb4QcZNV9d3dgTiv) | 2:22 | 2021-09-18 | 2021-10-23 |
 | [Tu sais ce qu'il me faut](https://open.spotify.com/track/4vYFzqzaBpdYKL1AuDJNhQ) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Redcar les adorables étoiles \(prologue\)](https://open.spotify.com/album/5Zq3w5bDJpN8Kl7zCMFpRw) | 4:45 | 2022-11-11 | 2023-01-14 |
 | [Tu Tonto](https://open.spotify.com/track/3lY2MEIfSKXyp64MOF8V7E) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Tu Tonto](https://open.spotify.com/album/1wvfi1erDSjOedxqBTIV9o) | 2:42 | 2022-06-24 | 2022-07-16 |
+| [TU TONTO perriado](https://open.spotify.com/track/4lgnxK8v92lKdjorkAINlU) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6), [J3](https://open.spotify.com/artist/7JoA3MbUNrdH9Sbq2R59Av) | [TU TONTO perriado](https://open.spotify.com/album/6sfJEZP65Z3D5AtOvpdQmu) | 3:28 | 2023-12-22 |  |
 | [Tuesday](https://open.spotify.com/track/19Ta3GtCyDQHhFXMS0vUZj) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Tuesday](https://open.spotify.com/album/3uzaEWHPjutN7RP2WjLiXf) | 4:59 | 2023-10-06 | 2023-11-11 |
 | [Tuesday](https://open.spotify.com/track/6bWCYpcxs8nEV9Veixv1RU) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Tuesday](https://open.spotify.com/album/2zxImbTSvIPzi3lqEX2TQb) | 3:11 | 2020-08-30 | 2020-09-25 |
 | [tuesdayS](https://open.spotify.com/track/12b4E9x3zLs6oGLhXJOoFx) | [COLETON RUBIN](https://open.spotify.com/artist/7Krl9mcONPsEv1stFtsWL7) | [greN](https://open.spotify.com/album/69gA3xHisFUBvTfoOIjRZm) | 3:01 | 2020-11-13 | 2021-01-08 |

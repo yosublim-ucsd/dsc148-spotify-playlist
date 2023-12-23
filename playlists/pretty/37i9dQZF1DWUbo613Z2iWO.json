@@ -1,13 +1,93 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Rhyan Douglas",
-  "num_followers": 46602,
+  "description": "R&B of the moment by the artists of the future. Cover: RAAHiiM",
+  "num_followers": 46617,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2UzMzc0NDM5YmRhY2U1ZTM1ZDgxMzEzOWY1MGU0MjcyOGFhOTE5",
+  "snapshot_id": "MCwxYmE0ZjEyNGUzNzg4ZGUxOGYwY2M2MzMzYTYzMjEwMGM1YjRiZjI5",
   "tracks": [
+    {
+      "added_at": "2023-11-24 05:42:20",
+      "album": {
+        "name": "BUT IF iiM HONEST (Deluxe)",
+        "url": "https://open.spotify.com/album/60IL3MSpGD0i92uo4K0fdI"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        }
+      ],
+      "duration_ms": 122999,
+      "name": "Bodies",
+      "url": "https://open.spotify.com/track/79DROhb8BggADXpPCNzMZa"
+    },
+    {
+      "added_at": "2023-12-08 05:21:53",
+      "album": {
+        "name": "NOIRE",
+        "url": "https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "duration_ms": 125346,
+      "name": "LINK UP",
+      "url": "https://open.spotify.com/track/04GLL6JKODDRtfmK4uEVlk"
+    },
+    {
+      "added_at": "2023-12-01 15:49:18",
+      "album": {
+        "name": "serial recluse",
+        "url": "https://open.spotify.com/album/30RN16wzgu4a8N9LvgUWQt"
+      },
+      "artists": [
+        {
+          "name": "Samaria",
+          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
+        }
+      ],
+      "duration_ms": 167165,
+      "name": "serial recluse",
+      "url": "https://open.spotify.com/track/7rR8q7eE0UKUaJt3xsOMSJ"
+    },
+    {
+      "added_at": "2023-12-22 07:14:54",
+      "album": {
+        "name": "ttuctmd",
+        "url": "https://open.spotify.com/album/1ErqwoGil01Xr66CiUxU3u"
+      },
+      "artists": [
+        {
+          "name": "SAFE",
+          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
+        }
+      ],
+      "duration_ms": 120461,
+      "name": "ttuctmd",
+      "url": "https://open.spotify.com/track/7bsqStKmTP9TgMESunVxLX"
+    },
+    {
+      "added_at": "2023-12-22 07:14:54",
+      "album": {
+        "name": "Baby Blue",
+        "url": "https://open.spotify.com/album/3cHzK2dR1QpVHkwuOaERnW"
+      },
+      "artists": [
+        {
+          "name": "MiLES.",
+          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
+        }
+      ],
+      "duration_ms": 183428,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/4NZcudZGLMwhRMgdqGdRBm"
+    },
     {
       "added_at": "2023-12-08 05:21:53",
       "album": {
@@ -65,22 +145,6 @@
       "url": "https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3"
     },
     {
-      "added_at": "2023-12-01 15:49:18",
-      "album": {
-        "name": "serial recluse",
-        "url": "https://open.spotify.com/album/30RN16wzgu4a8N9LvgUWQt"
-      },
-      "artists": [
-        {
-          "name": "Samaria",
-          "url": "https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku"
-        }
-      ],
-      "duration_ms": 167165,
-      "name": "serial recluse",
-      "url": "https://open.spotify.com/track/7rR8q7eE0UKUaJt3xsOMSJ"
-    },
-    {
       "added_at": "2023-12-08 05:21:53",
       "album": {
         "name": "Cinderella Story",
@@ -97,36 +161,36 @@
       "url": "https://open.spotify.com/track/6pfv4VZPsQk5NoGm0SDdCh"
     },
     {
-      "added_at": "2023-11-24 05:42:20",
+      "added_at": "2023-12-22 07:14:54",
       "album": {
-        "name": "BUT IF iiM HONEST (Deluxe)",
-        "url": "https://open.spotify.com/album/60IL3MSpGD0i92uo4K0fdI"
+        "name": "Damaged",
+        "url": "https://open.spotify.com/album/5qYpTAiam2ad9DkIbBqxVg"
       },
       "artists": [
         {
-          "name": "RAAHiiM",
-          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
         }
       ],
-      "duration_ms": 122999,
-      "name": "Bodies",
-      "url": "https://open.spotify.com/track/79DROhb8BggADXpPCNzMZa"
+      "duration_ms": 146301,
+      "name": "Damaged",
+      "url": "https://open.spotify.com/track/2bykKLIOGkqpeEVny89YZm"
     },
     {
-      "added_at": "2023-12-08 05:21:53",
+      "added_at": "2023-12-22 07:14:54",
       "album": {
-        "name": "NOIRE",
-        "url": "https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5"
+        "name": "Take It Personal",
+        "url": "https://open.spotify.com/album/4n4InJrgimhQkVcyEvo85K"
       },
       "artists": [
         {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+          "name": "Byron Juane",
+          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
         }
       ],
-      "duration_ms": 125346,
-      "name": "LINK UP",
-      "url": "https://open.spotify.com/track/04GLL6JKODDRtfmK4uEVlk"
+      "duration_ms": 165432,
+      "name": "Take It Personal",
+      "url": "https://open.spotify.com/track/51pmSmEShGFFKKZ4wszESe"
     },
     {
       "added_at": "2023-11-24 05:42:20",

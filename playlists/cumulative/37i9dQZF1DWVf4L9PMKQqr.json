@@ -251,6 +251,24 @@
     },
     {
       "album": {
+        "name": "David Reynoso y la M\u00fasica de Agust\u00edn Lara",
+        "url": "https://open.spotify.com/album/4VnXBg6RqDKAZhkPB5YjHL"
+      },
+      "artists": [
+        {
+          "name": "David Reynoso",
+          "url": "https://open.spotify.com/artist/5djhr5Q01njJFuZFtTqT8s"
+        }
+      ],
+      "date_added": "2021-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138293,
+      "name": "Concha Nacar",
+      "url": "https://open.spotify.com/track/2NYZ1itaWAy8jOAjeQVNjc"
+    },
+    {
+      "album": {
         "name": "Agust\u00edn Lara y sus Grandes Int\u00e9rpretes",
         "url": "https://open.spotify.com/album/1UCHaeKP4ZhDqk4s4pDZn0"
       },
@@ -406,7 +424,7 @@
       ],
       "date_added": "2021-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 146733,
       "name": "El Organillero",
       "url": "https://open.spotify.com/track/4vqSjkiJKlgzsREqiTFeZt"

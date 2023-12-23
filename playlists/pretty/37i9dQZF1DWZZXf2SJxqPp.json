@@ -1,12 +1,12 @@
 {
   "description": "Musiquita riqui para chillear y echarla junto a la piscina.",
-  "num_followers": 130988,
+  "num_followers": 130998,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjU1OTE3Y2UyZjRjZjc4MzhkZWM0MThmNmY4OTcwOTFiYmI4ZWI1",
+  "snapshot_id": "MCw2MmFmNGI3MGNiY2RlN2RlMDFkODkxOTQwZTdiMzE3MzRjZjY5ZTI2",
   "tracks": [
     {
       "added_at": "2023-08-14 14:58:41",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "LALI",
-        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 170869,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/5VuJ8ujlsdNV8ZOle0TYfK"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Tutto va bene quando facciamo l'amore (Remixes)",
         "url": "https://open.spotify.com/album/4jnSxvi6GEjXFPGXUly9vj"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 205592,
       "name": "Tutto va bene quando facciamo l'amore",
       "url": "https://open.spotify.com/track/2XtLmRzZSkNOXGRPgae8MA"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "LALI",
+        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 170869,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/5VuJ8ujlsdNV8ZOle0TYfK"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -975,26 +975,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "First Landing",
-        "url": "https://open.spotify.com/album/1SNyeh5uoNmmhpruGwHg51"
-      },
-      "artists": [
-        {
-          "name": "Moon Boots",
-          "url": "https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy"
-        },
-        {
-          "name": "Fiora",
-          "url": "https://open.spotify.com/artist/2r7POU2f5jV6x3k4vsNwrM"
-        }
-      ],
-      "duration_ms": 286726,
-      "name": "I Want Your Attention",
-      "url": "https://open.spotify.com/track/2RU67aiaESQ7t9D1xUJqBu"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Satingarona, Pt. 2",
         "url": "https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 294499,
       "name": "Agua fr\u00eda",
       "url": "https://open.spotify.com/track/7CSebbAAlgMqngWpEkhBl5"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "First Landing",
+        "url": "https://open.spotify.com/album/1SNyeh5uoNmmhpruGwHg51"
+      },
+      "artists": [
+        {
+          "name": "Moon Boots",
+          "url": "https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy"
+        },
+        {
+          "name": "Fiora",
+          "url": "https://open.spotify.com/artist/2r7POU2f5jV6x3k4vsNwrM"
+        }
+      ],
+      "duration_ms": 286726,
+      "name": "I Want Your Attention",
+      "url": "https://open.spotify.com/track/2RU67aiaESQ7t9D1xUJqBu"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1115,18 +1115,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD"
+        "name": "Topical Dancer",
+        "url": "https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz"
       },
       "artists": [
         {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+          "name": "Charlotte Adig\u00e9ry",
+          "url": "https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy"
+        },
+        {
+          "name": "Bolis Pupul",
+          "url": "https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl"
         }
       ],
-      "duration_ms": 306720,
-      "name": "Elixir",
-      "url": "https://open.spotify.com/track/00bz5bGRGFMfACJWfhMSxx"
+      "duration_ms": 226253,
+      "name": "Ceci n'est pas un clich\u00e9",
+      "url": "https://open.spotify.com/track/1usZqtTrEPNm8gvn1vN4T8"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1147,22 +1151,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Topical Dancer",
-        "url": "https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz"
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/2oegpcBiGzsD1JBXKZ9nWD"
       },
       "artists": [
         {
-          "name": "Charlotte Adig\u00e9ry",
-          "url": "https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy"
-        },
-        {
-          "name": "Bolis Pupul",
-          "url": "https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl"
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
         }
       ],
-      "duration_ms": 226253,
-      "name": "Ceci n'est pas un clich\u00e9",
-      "url": "https://open.spotify.com/track/1usZqtTrEPNm8gvn1vN4T8"
+      "duration_ms": 306720,
+      "name": "Elixir",
+      "url": "https://open.spotify.com/track/00bz5bGRGFMfACJWfhMSxx"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1591,26 +1591,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Lindstrom & Prins Thomas",
-        "url": "https://open.spotify.com/album/0wjx77A92ow66hxXmwapcM"
-      },
-      "artists": [
-        {
-          "name": "Lindstr\u00f8m",
-          "url": "https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB"
-        },
-        {
-          "name": "Prins Thomas",
-          "url": "https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6"
-        }
-      ],
-      "duration_ms": 229386,
-      "name": "Boney M Down",
-      "url": "https://open.spotify.com/track/4o4lNCu3RYVl7B9BB3YEzF"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Horizons",
         "url": "https://open.spotify.com/album/0cvFQyuT54tOUaVJVSTB5y"
       },
@@ -1631,6 +1611,26 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Lindstrom & Prins Thomas",
+        "url": "https://open.spotify.com/album/0wjx77A92ow66hxXmwapcM"
+      },
+      "artists": [
+        {
+          "name": "Lindstr\u00f8m",
+          "url": "https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB"
+        },
+        {
+          "name": "Prins Thomas",
+          "url": "https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6"
+        }
+      ],
+      "duration_ms": 229386,
+      "name": "Boney M Down",
+      "url": "https://open.spotify.com/track/4o4lNCu3RYVl7B9BB3YEzF"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Mopedbart",
         "url": "https://open.spotify.com/album/1fFDgy6E12ZwqgIa8tgtQh"
       },
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Kitsun\u00e9 Parisien 4",
-        "url": "https://open.spotify.com/album/7nISG7pGcQAY46v9GiEfjT"
-      },
-      "artists": [
-        {
-          "name": "MonteRosso",
-          "url": "https://open.spotify.com/artist/2jmgwssZmQ2Eq2ibRXkSA1"
-        }
-      ],
-      "duration_ms": 213864,
-      "name": "Huacachina",
-      "url": "https://open.spotify.com/track/4ZZ592cEhEAwwcqlix5fQO"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Luminous",
         "url": "https://open.spotify.com/album/2nTexLdtmJEpfFSftYb7C0"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 240000,
       "name": "Through The Night",
       "url": "https://open.spotify.com/track/6cC17xWrGqAFqJ3DNBOrqp"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Kitsun\u00e9 Parisien 4",
+        "url": "https://open.spotify.com/album/7nISG7pGcQAY46v9GiEfjT"
+      },
+      "artists": [
+        {
+          "name": "MonteRosso",
+          "url": "https://open.spotify.com/artist/2jmgwssZmQ2Eq2ibRXkSA1"
+        }
+      ],
+      "duration_ms": 213864,
+      "name": "Huacachina",
+      "url": "https://open.spotify.com/track/4ZZ592cEhEAwwcqlix5fQO"
     },
     {
       "added_at": "2023-08-14 14:58:41",

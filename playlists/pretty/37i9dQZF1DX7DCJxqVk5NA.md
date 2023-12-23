@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DCJxqVk5NA.md) - [plain]
 
 > HBCU Anthems! Curated by Texas Southern University's own Megan Thee Stallion
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,089 likes - 62 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,090 likes - 62 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DCJxqVk5NA.md) - [plain]
 | 35 | [Make It Rain](https://open.spotify.com/track/50p9gmJMwsz3zyAwoF0FEv) | [Travis Porter](https://open.spotify.com/artist/6z1cicLMt9XArxN10q7m8a) | [From Day 1](https://open.spotify.com/album/7co2UrRxl2TBgj3BCXIvnC) | 3:59 |
 | 36 | [Donk](https://open.spotify.com/track/7n2Dqgp4iXd8Zorfj9XSYo) | [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS) | [souljaboytellem.com](https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s) | 3:12 |
 | 37 | [Halle Berry \(She's Fine\) \(feat\. Superstarr\)](https://open.spotify.com/track/63XXvHR6FfiRDk5lKNNCMI) | [Hurricane Chris](https://open.spotify.com/artist/1fQ46lgoUCz8FVXdTVNk0a), [Superstarr](https://open.spotify.com/artist/4VwTk6OnuwshfqQlxOv7Xy) | [Unleashed](https://open.spotify.com/album/4tX8assGk2HIZB1Hh2a5la) | 4:41 |
-| 38 | [She Twerkin](https://open.spotify.com/track/4foyyTPR2jUcATliukBkd9) | [Ca$h Out](https://open.spotify.com/artist/7Kp7SzuRuNiPFCy7JIwnLx) | [Let's Get It](https://open.spotify.com/album/3fzJGkfNGFFQb5Fx42ABPm) | 2:52 |
+| 38 | [She Twerkin](https://open.spotify.com/track/4ngnFeJ58ivjFl0gFD1Osh) | [Ca$h Out](https://open.spotify.com/artist/7Kp7SzuRuNiPFCy7JIwnLx) | [Let's Get It](https://open.spotify.com/album/7w4MsLOT6FdH3ICSfscJ5w) | 2:52 |
 | 39 | [too easy](https://open.spotify.com/track/4eL3XeuGaEoVT8ttDh3hwY) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [too easy](https://open.spotify.com/album/1hbRXvB0m34uUqNU8EbZzc) | 2:18 |
 | 40 | [I Don't Wanna](https://open.spotify.com/track/5J1LBuPcII426fjeXy8Bv1) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Ultimate Aaliyah](https://open.spotify.com/album/6WIR99PZ2ch3SdM4zs3WO5) | 4:16 |
 | 41 | [You Don't Know My Name](https://open.spotify.com/track/6LGwYMXXgURfaequXipzHx) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 6:06 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DCJxqVk5NA.md) - [plain]
 | 61 | [Okay \(feat\. Lil Jon & YoungBloodZ\)](https://open.spotify.com/track/1e5ayf28RKanXy0NNJVANp) | [Nivea](https://open.spotify.com/artist/15Dh5PvHQj909E0RgAe0aN), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Youngbloodz](https://open.spotify.com/artist/2OqENqJFXPORP4BUGnu2Qq) | [Complicated](https://open.spotify.com/album/3KNzGIMzjSY0x2HV3Lm53c) | 4:43 |
 | 62 | [Southside Forever Freestyle](https://open.spotify.com/track/5hmQVsjZGozYCBOCHDYoYl) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 2:57 |
 
-Snapshot ID: `MCw4ZDhkNzZhODVmOTJkYjgyY2RmNmQ1YWMzNTkxNDQyZmFmYTVjZWM0`
+Snapshot ID: `MCxiZjdkYmVlOTVmYjk5NDFlNzNjOWQ3NjFjZmFiZTU5YTRiNmQ5MzJi`

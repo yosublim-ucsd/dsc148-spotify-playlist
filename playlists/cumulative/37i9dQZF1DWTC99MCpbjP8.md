@@ -2,7 +2,7 @@
 
 ### [Calm](https://open.spotify.com/playlist/37i9dQZF1DWTC99MCpbjP8)
 
-> Slow down and soothe anxiety with soft, relaxing piano music.
+> Slow down and relax with a mix of calming piano music.
 
 531 songs - 23 hr 2 min
 

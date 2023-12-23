@@ -1055,6 +1055,24 @@
     },
     {
       "album": {
+        "name": "Kpm 1000 Series: Happy Rainbows",
+        "url": "https://open.spotify.com/album/5m8RDoxitluGPZH7Y3D0XH"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152493,
+      "name": "Happy Rainbow",
+      "url": "https://open.spotify.com/track/1tYbWJz9YEpJM7ExleZHAA"
+    },
+    {
+      "album": {
         "name": "Kpm 1000 Series: Friendly Faces",
         "url": "https://open.spotify.com/album/224JifnNZ8kVboTgLkh1JW"
       },
@@ -1264,7 +1282,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 117228,
       "name": "Lounging at Dave's",
       "url": "https://open.spotify.com/track/5byTzKp9kbMCG5miJ7NJZe"
@@ -1964,7 +1982,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 179863,
       "name": "Soft Throttle",
       "url": "https://open.spotify.com/track/5US39IzkxO8nRi4wK9NHOV"
@@ -2262,7 +2280,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 212666,
       "name": "The Executive",
       "url": "https://open.spotify.com/track/776mbKjVAft84zLUPqoluf"

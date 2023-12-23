@@ -1,12 +1,12 @@
 {
   "description": "A heavy collision of punk, hardcore and everything in between. Cover: Knocked Loose",
-  "num_followers": 474901,
+  "num_followers": 475051,
   "original_name": "Crash Course",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMGU2YTlmNjIwYWQ1ZDJjYzMyNTNmMmQ4M2FjYjMyNGI3OTBhNzRk",
+  "snapshot_id": "MCxhNWIzMmRhNjgwZmI1MzAzODhiZTBmOGI5YTcwYzIxYTI2Yjk5ZTdi",
   "tracks": [
     {
       "added_at": "2023-06-20 21:21:38",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Misery",
-        "url": "https://open.spotify.com/album/5AtTKLErRJPLZAOfPabe7m"
-      },
-      "artists": [
-        {
-          "name": "The Amity Affliction",
-          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
-        }
-      ],
-      "duration_ms": 214493,
-      "name": "Ivy (Doomsday)",
-      "url": "https://open.spotify.com/track/2Ll0eOXFmIeBlcybOSaQJm"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "MONOMANIA",
         "url": "https://open.spotify.com/album/2FxbVATTBMwI7ytSsYMp6f"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 215053,
       "name": "NO WAY OUT",
       "url": "https://open.spotify.com/track/7oib44NmCMvGNWnDDJjv5C"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Misery",
+        "url": "https://open.spotify.com/album/5AtTKLErRJPLZAOfPabe7m"
+      },
+      "artists": [
+        {
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+        }
+      ],
+      "duration_ms": 214493,
+      "name": "Ivy (Doomsday)",
+      "url": "https://open.spotify.com/track/2Ll0eOXFmIeBlcybOSaQJm"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Ghost Like You",
-        "url": "https://open.spotify.com/album/5IHiJ6cpup8qShT8s3rUJG"
-      },
-      "artists": [
-        {
-          "name": "Caskets",
-          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
-        }
-      ],
-      "duration_ms": 268727,
-      "name": "Signs",
-      "url": "https://open.spotify.com/track/7v6YqvhuUAJXn08bOT9JBs"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Barely Alive",
         "url": "https://open.spotify.com/album/5v20HSKutO3pCMlPwFMI8W"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 213934,
       "name": "Red",
       "url": "https://open.spotify.com/track/7g34QqbvMeyDuzf5IRd1PS"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Ghost Like You",
+        "url": "https://open.spotify.com/album/5IHiJ6cpup8qShT8s3rUJG"
+      },
+      "artists": [
+        {
+          "name": "Caskets",
+          "url": "https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK"
+        }
+      ],
+      "duration_ms": 268727,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/7v6YqvhuUAJXn08bOT9JBs"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "D\u00e9j\u00e0 Vu",
-        "url": "https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW"
-      },
-      "artists": [
-        {
-          "name": "NOVELISTS",
-          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
-        }
-      ],
-      "duration_ms": 214057,
-      "name": "Smoke Signals",
-      "url": "https://open.spotify.com/track/49sl0qA6id6Tz84Yrr3BsW"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Opening Night",
         "url": "https://open.spotify.com/album/3dOLUxrcRZ1UuxcxeyNEgh"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 127383,
       "name": "Opening Night",
       "url": "https://open.spotify.com/track/39C4XHkmDebCPGK50NBZGe"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "D\u00e9j\u00e0 Vu",
+        "url": "https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW"
+      },
+      "artists": [
+        {
+          "name": "NOVELISTS",
+          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
+        }
+      ],
+      "duration_ms": 214057,
+      "name": "Smoke Signals",
+      "url": "https://open.spotify.com/track/49sl0qA6id6Tz84Yrr3BsW"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Euthanasia",
-        "url": "https://open.spotify.com/album/10wXXQ3XiLyiCj6W0YMBXy"
-      },
-      "artists": [
-        {
-          "name": "Stray From The Path",
-          "url": "https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm"
-        }
-      ],
-      "duration_ms": 216693,
-      "name": "Guillotine",
-      "url": "https://open.spotify.com/track/0Qv6SQFLzg3KGBlOgOEBJK"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "medicine",
         "url": "https://open.spotify.com/album/1KGKzyp51fVDw8VsM73tGu"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 227265,
       "name": "medicine",
       "url": "https://open.spotify.com/track/03CbQgFxnBFoaaVJTfEqMD"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Euthanasia",
+        "url": "https://open.spotify.com/album/10wXXQ3XiLyiCj6W0YMBXy"
+      },
+      "artists": [
+        {
+          "name": "Stray From The Path",
+          "url": "https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm"
+        }
+      ],
+      "duration_ms": 216693,
+      "name": "Guillotine",
+      "url": "https://open.spotify.com/track/0Qv6SQFLzg3KGBlOgOEBJK"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Degenerates",
-        "url": "https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "Degenerates",
-      "url": "https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Afterburner",
         "url": "https://open.spotify.com/album/0K8VeEO164P3ctndsCzs6U"
       },
@@ -975,18 +959,18 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Anon.",
-        "url": "https://open.spotify.com/album/2qtLF5Z8OxMV919Knbi3oo"
+        "name": "Degenerates",
+        "url": "https://open.spotify.com/album/3G3EHIjrfZAcy6w5zIOggZ"
       },
       "artists": [
         {
-          "name": "Hands Like Houses",
-          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
         }
       ],
-      "duration_ms": 173000,
-      "name": "Overthinking",
-      "url": "https://open.spotify.com/track/5D8BIY1mY2L1N0M66KiMfv"
+      "duration_ms": 184893,
+      "name": "Degenerates",
+      "url": "https://open.spotify.com/track/77Ht6FFAeyHgKl6X87mnTk"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1003,6 +987,22 @@
       "duration_ms": 198358,
       "name": "A Death In The Family",
       "url": "https://open.spotify.com/track/27zeUYNVuXG5kXlPvS2Wod"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Anon.",
+        "url": "https://open.spotify.com/album/2qtLF5Z8OxMV919Knbi3oo"
+      },
+      "artists": [
+        {
+          "name": "Hands Like Houses",
+          "url": "https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Overthinking",
+      "url": "https://open.spotify.com/track/5D8BIY1mY2L1N0M66KiMfv"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "The Truth in Your Eyes",
-        "url": "https://open.spotify.com/album/5oybwxacDqLiTEkSyILpNm"
-      },
-      "artists": [
-        {
-          "name": "Savage Hands",
-          "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
-        }
-      ],
-      "duration_ms": 227622,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/2BJ0Mc3zhb4tmcERvbXKTw"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "Restless Heart, Keep Running",
         "url": "https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 207106,
       "name": "Stars Before The Sun",
       "url": "https://open.spotify.com/track/3tTtwKs8ZlE9fbSdMla9EM"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "The Truth in Your Eyes",
+        "url": "https://open.spotify.com/album/5oybwxacDqLiTEkSyILpNm"
+      },
+      "artists": [
+        {
+          "name": "Savage Hands",
+          "url": "https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx"
+        }
+      ],
+      "duration_ms": 227622,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/2BJ0Mc3zhb4tmcERvbXKTw"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "wet milk",
-        "url": "https://open.spotify.com/album/63Tn8e7etpMuOX8h8ZChGI"
-      },
-      "artists": [
-        {
-          "name": "Bilmuri",
-          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
-        }
-      ],
-      "duration_ms": 136666,
-      "name": "myfeelingshavefeelings",
-      "url": "https://open.spotify.com/track/5gBQmRUJa29eBwgLMF4wTP"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "DEATH (Ever Colder)",
         "url": "https://open.spotify.com/album/312yRj61uGSmld6RIl9zl4"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 287692,
       "name": "DEATH (Ever Colder)",
       "url": "https://open.spotify.com/track/7tAUrb26TuIeZlVVvn9XdJ"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "wet milk",
+        "url": "https://open.spotify.com/album/63Tn8e7etpMuOX8h8ZChGI"
+      },
+      "artists": [
+        {
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+        }
+      ],
+      "duration_ms": 136666,
+      "name": "myfeelingshavefeelings",
+      "url": "https://open.spotify.com/track/5gBQmRUJa29eBwgLMF4wTP"
     },
     {
       "added_at": "2023-06-20 21:21:38",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-06-20 21:21:38",
       "album": {
-        "name": "Bob Vylan Presents The Price Of Life",
-        "url": "https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m"
-      },
-      "artists": [
-        {
-          "name": "Bob Vylan",
-          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
-        }
-      ],
-      "duration_ms": 150143,
-      "name": "Wicked & Bad",
-      "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
-    },
-    {
-      "added_at": "2023-06-20 21:21:38",
-      "album": {
         "name": "It's Over",
         "url": "https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 203800,
       "name": "It's Over",
       "url": "https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL"
+    },
+    {
+      "added_at": "2023-06-20 21:21:38",
+      "album": {
+        "name": "Bob Vylan Presents The Price Of Life",
+        "url": "https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m"
+      },
+      "artists": [
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        }
+      ],
+      "duration_ms": 150143,
+      "name": "Wicked & Bad",
+      "url": "https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee"
     },
     {
       "added_at": "2023-06-20 21:21:38",

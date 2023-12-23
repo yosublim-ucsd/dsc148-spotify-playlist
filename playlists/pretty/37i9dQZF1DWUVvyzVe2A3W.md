@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVvyzVe2A3W.md) - [plain]
 
 > Chantez ces comptines à vos enfants..\. et n'oubliez pas les gestes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,729 likes - 50 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,732 likes - 50 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVvyzVe2A3W.md) - [plain]
 | 17 | [Vole, vole, vole papillon](https://open.spotify.com/track/7GaJX6Rzid7yJp6bPRyLUZ) | [Le Chœur des enfants](https://open.spotify.com/artist/58qpouPnLYMIzR5CgBSool) | [69 comptines et jeux chantés des tout\-petits](https://open.spotify.com/album/5485Wpk0c5HlWpfM6oV1Et) | 1:08 |
 | 18 | [Je cache mes yeux](https://open.spotify.com/track/59VpBIyqaoXMnVq2o7Hzt9) | [Jémy](https://open.spotify.com/artist/6sl5aNXd2SMbJxyiOIg3xI) | [Comptines à gestes](https://open.spotify.com/album/3csaG6T5ovjOHgqOmxboJo) | 1:39 |
 | 19 | [Les bras en haut, les bras en bas](https://open.spotify.com/track/4GMjBJN54qELidKZrXlrh9) | [Laurent Lahaye](https://open.spotify.com/artist/5lRn9apGTlxwumPrDN6m2B) | [Chante, danse et mime les émotions avec Cali et ses amis](https://open.spotify.com/album/56Nm90dDLjPeK5sTwadH9K) | 1:52 |
-| 20 | [Le facteur n'est pas passé](https://open.spotify.com/track/4q6FTsYXCsZUBWJVbh74wG) | [Gallimard Jeunesse](https://open.spotify.com/artist/08aTF1PSpukHGxuQPoOUD3), [Les P'tites Voix](https://open.spotify.com/artist/3moUfmF718JYOMbyUgKuGI) | [Mon imagier des récrés](https://open.spotify.com/album/7CYBBg6QQNpSmBay6MLL2D) | 1:12 |
+| 20 | [Le facteur n'est pas passé \- Comptine](https://open.spotify.com/track/4q6FTsYXCsZUBWJVbh74wG) | [Gallimard Jeunesse](https://open.spotify.com/artist/08aTF1PSpukHGxuQPoOUD3), [Les P'tites Voix](https://open.spotify.com/artist/3moUfmF718JYOMbyUgKuGI) | [Mon imagier des récrés \(Comptine\)](https://open.spotify.com/album/7CYBBg6QQNpSmBay6MLL2D) | 1:12 |
 | 21 | [Jean Petit qui danse](https://open.spotify.com/track/31hqhNMdqOTI894c6mR3LR) | [Isabelle Gaboriau](https://open.spotify.com/artist/1bDtXGzHBisKKSCAEX8unH), [Michel Barouille](https://open.spotify.com/artist/0eLozZih4AkQ9laivfUYIl) | [20 chansons et comptines pour les petits, Vol\. 2](https://open.spotify.com/album/0XPDlGgNbusJVVFAuFZyDy) | 3:29 |
 | 22 | [Les petits poissons dans l'eau](https://open.spotify.com/track/6tvrDc3v0O9gBfIGKaGNHV) | [Jémy](https://open.spotify.com/artist/6sl5aNXd2SMbJxyiOIg3xI) | [Comptines à gestes](https://open.spotify.com/album/3csaG6T5ovjOHgqOmxboJo) | 1:31 |
 | 23 | [Bonjour ma cousine](https://open.spotify.com/track/2BGjRJoBLcy9cNeQVWdEQO) | [Francine Chantereau](https://open.spotify.com/artist/5t22QkCGHMIptzquDUL3ql) | [50 Comptines à gestes](https://open.spotify.com/album/6vcnC7r88aIaEU99SmJnl1) | 1:13 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVvyzVe2A3W.md) - [plain]
 | 26 | [Tourne, tourne petit moulin](https://open.spotify.com/track/4hAlYODF9lmtx4tdHynyGo) | [Titia&Gg](https://open.spotify.com/artist/7MaiuvopZTT5lwfkc65HFv) | [50 Comptines à gestes](https://open.spotify.com/album/6vcnC7r88aIaEU99SmJnl1) | 4:00 |
 | 27 | [Sur le pont d'Avignon](https://open.spotify.com/track/3Wyb7Z6qhumaRrAC1shAT7) | [Isabelle Gaboriau](https://open.spotify.com/artist/1bDtXGzHBisKKSCAEX8unH), [Michel Barouille](https://open.spotify.com/artist/0eLozZih4AkQ9laivfUYIl), [Les amis de tous les enfants du monde](https://open.spotify.com/artist/1GyAfL3ee6VLvRipRPELwR), [Éric Bessot](https://open.spotify.com/artist/1JbfIDFRPJnJW1OaN2S0Hp) | [20 chansons et comptines pour les petits, Vol\. 1](https://open.spotify.com/album/2NouuH51OY98HOh8rlficN) | 2:00 |
 | 28 | [La fourmi m'a piqué la main](https://open.spotify.com/track/01DILTuzLap9yrWikMbqyt) | [Comptines TV](https://open.spotify.com/artist/4JkJK4qLTiechJHxxIP2nb), [Stéphane Gilet](https://open.spotify.com/artist/0P3qheVkfg3vNp4Esri8Mf), [Aurélia Izarn\-Berger](https://open.spotify.com/artist/5KosdkswvXY1dH6bSn8eyV) | [Comptines TV, vol\. 4](https://open.spotify.com/album/2qTsX02I0H9kXU3VKfCD6t) | 1:41 |
-| 29 | [Trois p'tits chats](https://open.spotify.com/track/5Dw2CffaEfOrkqHstuP5X4) | [Gallimard Jeunesse](https://open.spotify.com/artist/08aTF1PSpukHGxuQPoOUD3), [Les P'tites Voix](https://open.spotify.com/artist/3moUfmF718JYOMbyUgKuGI) | [Mon imagier des récrés](https://open.spotify.com/album/7CYBBg6QQNpSmBay6MLL2D) | 1:27 |
+| 29 | [Trois p'tits chats \- Comptine](https://open.spotify.com/track/5Dw2CffaEfOrkqHstuP5X4) | [Gallimard Jeunesse](https://open.spotify.com/artist/08aTF1PSpukHGxuQPoOUD3), [Les P'tites Voix](https://open.spotify.com/artist/3moUfmF718JYOMbyUgKuGI) | [Mon imagier des récrés \(Comptine\)](https://open.spotify.com/album/7CYBBg6QQNpSmBay6MLL2D) | 1:27 |
 | 30 | [Brrr...\. il fait froid](https://open.spotify.com/track/1xZ5IuDUNtolxSHQKlAd3G) | [Jany](https://open.spotify.com/artist/5A6k6twCRuUAEsCyGQLHhI) | [50 Comptines à gestes](https://open.spotify.com/album/6vcnC7r88aIaEU99SmJnl1) | 1:15 |
 | 31 | [Dans sa maison un grand cerf \- Les plus belles comptines d'Okoo](https://open.spotify.com/track/5VlNJRsRhXGGxVqdMYGILd) | [Kad Merad](https://open.spotify.com/artist/7HSntKvALIoZ48jXpBXWT8), [Nolwenn Leroy](https://open.spotify.com/artist/6suRVbMTiFWlTpB6fdLdF2) | [Dans sa maison un grand cerf \(Les plus belles comptines d'Okoo\)](https://open.spotify.com/album/7sVKIIkUq1ANcWZBMHaTZB) | 3:01 |
 | 32 | [Passe passera](https://open.spotify.com/track/5rhpwj5bb0vtqL5nPZp7UZ) | [Francine Chantereau](https://open.spotify.com/artist/5t22QkCGHMIptzquDUL3ql) | [50 Comptines à gestes](https://open.spotify.com/album/6vcnC7r88aIaEU99SmJnl1) | 1:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVvyzVe2A3W.md) - [plain]
 | 49 | [Coccinelle demoiselle](https://open.spotify.com/track/5JUPYmI0xaqVX1XRLC5m4c) | [Jémy](https://open.spotify.com/artist/6sl5aNXd2SMbJxyiOIg3xI) | [Comptines à gestes](https://open.spotify.com/album/3csaG6T5ovjOHgqOmxboJo) | 1:07 |
 | 50 | [Je fais le tour de ma maison](https://open.spotify.com/track/4IgLZpeWcbgdmG795amxCL) | [Titia&Gg](https://open.spotify.com/artist/7MaiuvopZTT5lwfkc65HFv) | [50 Comptines à gestes](https://open.spotify.com/album/6vcnC7r88aIaEU99SmJnl1) | 2:35 |
 
-Snapshot ID: `MCxlMWZkMjRjZTdjMmUwZGU3ZWM1N2E4NjUxODdhMDEwOTE4MTk5ODhl`
+Snapshot ID: `MCxhZGY1MjAwOTljYTgzMjM2Y2ExYTZmN2IyNDQ4MDM3OGJjZTdiMmVh`

@@ -1,12 +1,12 @@
 {
   "description": "Big bands and tuxedos. The playlist for the wedding or just an elegant evening.",
-  "num_followers": 1045365,
+  "num_followers": 1045557,
   "original_name": "An Elegant Affair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjNiZWU3Mzk1Njk0MjdiYzQ3ZTc5Y2I5YWQ0OTYyZTY4MGM5Mjcz",
+  "snapshot_id": "MCxmZmNiZGE1NTU0NjA4YzBjYTJmMjQ2NTJjZDliZjQzMGFkMTljNDRj",
   "tracks": [
     {
       "added_at": "2023-12-19 13:57:54",
@@ -195,8 +195,8 @@
     {
       "added_at": "2023-12-19 13:57:54",
       "album": {
-        "name": "Nat King Cole Sings George Shearing Plays",
-        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
       "artists": [
         {
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 165973,
-      "name": "Let There Be Love",
-      "url": "https://open.spotify.com/track/7AL1pxI9IwHoXs98G0T8cC"
+      "duration_ms": 173266,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
     },
     {
       "added_at": "2023-12-19 13:57:54",
@@ -323,8 +323,8 @@
     {
       "added_at": "2023-12-19 13:57:54",
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+        "name": "Nat King Cole Sings George Shearing Plays",
+        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 173266,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
+      "duration_ms": 165973,
+      "name": "Let There Be Love",
+      "url": "https://open.spotify.com/track/7AL1pxI9IwHoXs98G0T8cC"
     },
     {
       "added_at": "2023-12-19 13:57:54",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-12-19 13:57:54",
       "album": {
+        "name": "The Essential Glenn Miller",
+        "url": "https://open.spotify.com/album/6dVUKIxSRafCpEGZ5prYlG"
+      },
+      "artists": [
+        {
+          "name": "Glenn Miller",
+          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
+        }
+      ],
+      "duration_ms": 190160,
+      "name": "Don't Sit Under The Apple Tree (With Anyone Else But Me)",
+      "url": "https://open.spotify.com/track/2yH6SQ70OdjDKrtxcunVZp"
+    },
+    {
+      "added_at": "2023-12-19 13:57:54",
+      "album": {
         "name": "Boy Meets Girl: Sammy Davis Jr. And Carmen McRae On Decca",
         "url": "https://open.spotify.com/album/4UIxdcJmqo5Qnqs1tLC2Ge"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 170506,
       "name": "Two Sleepy People",
       "url": "https://open.spotify.com/track/6Q1VnirK7zQeJs37siT92V"
-    },
-    {
-      "added_at": "2023-12-19 13:57:54",
-      "album": {
-        "name": "The Essential Glenn Miller",
-        "url": "https://open.spotify.com/album/6dVUKIxSRafCpEGZ5prYlG"
-      },
-      "artists": [
-        {
-          "name": "Glenn Miller",
-          "url": "https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc"
-        }
-      ],
-      "duration_ms": 190160,
-      "name": "Don't Sit Under The Apple Tree (With Anyone Else But Me)",
-      "url": "https://open.spotify.com/track/2yH6SQ70OdjDKrtxcunVZp"
     },
     {
       "added_at": "2023-12-19 13:57:54",

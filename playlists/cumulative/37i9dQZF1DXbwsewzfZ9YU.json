@@ -1216,6 +1216,24 @@
     {
       "album": {
         "name": "Torture Culture",
+        "url": "https://open.spotify.com/album/0MVWEsdOeomWGb9LDBoltV"
+      },
+      "artists": [
+        {
+          "name": "No Warning",
+          "url": "https://open.spotify.com/artist/0TfABr1qhx6v684iWSBdob"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192444,
+      "name": "In The City",
+      "url": "https://open.spotify.com/track/2i9RPuyGUPhNXbEefdQX3S"
+    },
+    {
+      "album": {
+        "name": "Torture Culture",
         "url": "https://open.spotify.com/album/3D6f5OLseUy0d0EjMJAr6j"
       },
       "artists": [
@@ -1226,7 +1244,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 192444,
       "name": "In The City",
       "url": "https://open.spotify.com/track/4BI2pWz7VSJGAF9DoyKCFk"

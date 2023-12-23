@@ -578,6 +578,24 @@
     {
       "album": {
         "name": "Miss Sloane (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/09zIgmRsrLm0bpTzxQCBO7"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127733,
+      "name": "Miss Sloane Solo",
+      "url": "https://open.spotify.com/track/08w5Hy6Lv5d6y3iZZyaM3K"
+    },
+    {
+      "album": {
+        "name": "Miss Sloane (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5yZ9kWiGkJ3i6fxWw9cxV9"
       },
       "artists": [
@@ -588,7 +606,7 @@
       ],
       "date_added": "2022-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 127733,
       "name": "Miss Sloane Solo",
       "url": "https://open.spotify.com/track/45SUuwxzQQzvnAaMjuM5XZ"

@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent on the scene writing their own songs\. Cover: Julius Black
+> Discover the next wave of talent on the scene writing their own songs\. Cover: Lili\-Ann De Francesco
 
-595 songs - 1 day 7 hr 33 min
+596 songs - 1 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Hear Me Now](https://open.spotify.com/track/5cXcykFgbrLw1nwpSYjVJF) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Lucky](https://open.spotify.com/album/7BXf5VfNpYVYHMc4bz0tzo) | 3:44 | 2023-09-01 | 2023-12-14 |
 | [hell yeah](https://open.spotify.com/track/254mJnXam0VoBPKY4toiM3) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [hell yeah](https://open.spotify.com/album/4qXrPD4TRtgX0CKdRpBRMN) | 2:39 | 2022-09-09 | 2022-11-12 |
 | [Hello Florence, How Are You?](https://open.spotify.com/track/0WII8HWOY0oYYpVNscWPDo) | [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Hello Florence, How Are You?](https://open.spotify.com/album/3GVON6N4X0E395w9Ai1cbc) | 4:15 | 2023-01-20 | 2023-05-13 |
+| [her](https://open.spotify.com/track/3gBF1gc9Fo6SatKWAOoGjY) | [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA) | [inhale \- the complete story](https://open.spotify.com/album/4NyjSQ5VF9sSd39Jg2g3vz) | 3:45 | 2023-12-22 |  |
 | [Hey Brother](https://open.spotify.com/track/7dNWl8ygkv1REyRuUPs42w) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [Hey Brother](https://open.spotify.com/album/6CxOmEhnxKMaeOXRCfJ6IG) | 2:33 | 2022-01-14 | 2022-04-09 |
 | [Him, Hymn](https://open.spotify.com/track/0AY5m5iHpv1kTipKWy1e2Z) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [Him, Hymn](https://open.spotify.com/album/2sJ2RM2sLmX8dljByalVSg) | 4:04 | 2022-10-14 | 2022-12-24 |
 | [Him, Hymn](https://open.spotify.com/track/71ooa3dfqRXgrAUm5urSZa) | [Blair Davie](https://open.spotify.com/artist/3sDemA5FWaxfqPJFP2SK8x) | [Him, Hymn](https://open.spotify.com/album/3mDWrmdvSYp2UU4Qv2A1Fk) | 4:04 | 2022-10-14 | 2022-10-16 |
@@ -413,7 +414,7 @@
 | [Phoebe Told Me](https://open.spotify.com/track/6ZkrNW7ER27c4TtFckZ7xg) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Phoebe Told Me](https://open.spotify.com/album/3uGP2UKICbNUs08mUe55yo) | 3:56 | 2022-03-04 | 2022-06-04 |
 | [Play Dumb](https://open.spotify.com/track/7oko8U6MOLDuMNEGyJ5sht) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Play Dumb](https://open.spotify.com/album/7IPvJl6u4V0LbDVmq5eBVo) | 2:53 | 2023-01-27 | 2023-04-15 |
 | [poison](https://open.spotify.com/track/6ot4Zf5bWG6NL6NfEAIicP) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [poison](https://open.spotify.com/album/7H2fiL5ulsAjU5BDC5Th4F) | 2:48 | 2023-07-14 | 2023-11-11 |
-| [Pools and Palm Trees](https://open.spotify.com/track/5D5sk1frNM4Ypsgvxa8SaB) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Pools and Palm Trees](https://open.spotify.com/album/357UpZKMD6Ar47ULSVhYpi) | 3:06 | 2023-08-11 |  |
+| [Pools and Palm Trees](https://open.spotify.com/track/5D5sk1frNM4Ypsgvxa8SaB) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Pools and Palm Trees](https://open.spotify.com/album/357UpZKMD6Ar47ULSVhYpi) | 3:06 | 2023-08-11 | 2023-12-23 |
 | [Potential](https://open.spotify.com/track/2OaQb7rx7kkbeDU48ImPyy) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Potential](https://open.spotify.com/album/6E7of8enDnsOuZVFD0oYmK) | 3:26 | 2023-05-26 | 2023-06-24 |
 | [Praying for July \- Spotify Singles](https://open.spotify.com/track/7wXPl3wCGlHDXXaDyr9rPq) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Praying for July \- Spotify Singles](https://open.spotify.com/album/7mqvcMAHZK0LrrrRqY7S4C) | 3:06 | 2022-05-27 | 2022-06-23 |
 | [Pretty \- Acoustic](https://open.spotify.com/track/0B2BvSv3O4tQJnwv7YYJMb) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Pretty \(Acoustic\)](https://open.spotify.com/album/1hseSqtG2xlzQ1DWwx2Xl3) | 2:41 | 2022-01-14 | 2022-02-19 |
@@ -516,7 +517,7 @@
 | [Terrified](https://open.spotify.com/track/101u4M8kj2rvhhUaSTprHv) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Terrified](https://open.spotify.com/album/4ldMBjS223cjhaCYxwtgO2) | 2:25 | 2022-02-04 | 2022-04-29 |
 | [Terrified](https://open.spotify.com/track/7nEGHve0DEiuJj53vEtPNz) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 3:57 | 2023-07-21 | 2023-09-16 |
 | [that was quick!](https://open.spotify.com/track/36tVh8MZ2bxliGj0eJyKsX) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [that was quick!](https://open.spotify.com/album/5pUdobn8VDjZku5tmsiCXa) | 2:46 | 2022-03-18 | 2022-07-02 |
-| [The Best](https://open.spotify.com/track/2HxQGJKOcPi87pffJ5UWt6) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [The Best](https://open.spotify.com/album/6aaGEL4bFFCKe6CXFE8YMf) | 2:14 | 2023-10-06 |  |
+| [The Best](https://open.spotify.com/track/2HxQGJKOcPi87pffJ5UWt6) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [The Best](https://open.spotify.com/album/6aaGEL4bFFCKe6CXFE8YMf) | 2:14 | 2023-10-06 | 2023-12-23 |
 | [The Cut](https://open.spotify.com/track/6AO3YHxtUwTjoKfhZYtvLT) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [The Cut](https://open.spotify.com/album/7oC1Kz7WWSj8I8Mkjzwukt) | 3:19 | 2023-03-31 | 2023-07-29 |
 | [The Day That I Met You](https://open.spotify.com/track/2G31WfcBUlMGZ8lpJ0bfA1) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [The Day That I Met You](https://open.spotify.com/album/2w5BVD5WObeg5FkJxBgmES) | 2:45 | 2023-02-24 | 2023-05-06 |
 | [The End of the World](https://open.spotify.com/track/0sPiprJhzkw97wt1bXxlMm) | [Natasha Hunt Lee](https://open.spotify.com/artist/6Yi69bUzuXBHyE4aWaJyRQ) | [The End of the World!](https://open.spotify.com/album/2sOAJgVkXTyNVMiz6JfwVO) | 2:55 | 2022-09-16 | 2022-10-15 |
@@ -581,7 +582,7 @@
 | [When You Look At Me](https://open.spotify.com/track/0KGeOj6DJXfCMGkLYiz4fB) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [When You Look At Me](https://open.spotify.com/album/1UMiyaleD0o4UQnWTrNDMk) | 2:50 | 2022-02-18 | 2022-08-20 |
 | [Where Do All The Good Kids Go?](https://open.spotify.com/track/3QmlsVA1wJJv5w8GqVxVdw) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Where Do All The Good Kids Go?](https://open.spotify.com/album/0joBCSKi5bl55YSbvMSVd3) | 3:16 | 2023-07-14 | 2023-08-19 |
 | [Where do we go now?](https://open.spotify.com/track/4bYwK4mvWubnAkCextxH2d) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Where do we go now?](https://open.spotify.com/album/4ygkwRaKsCul6Hi0YBck0T) | 4:03 | 2023-01-13 | 2023-02-11 |
-| [White Limo Stuck in The Snow](https://open.spotify.com/track/59HszsyMeo4qNtLnoPObH0) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [White Limo Stuck In The Snow](https://open.spotify.com/album/73gnvlOHq9e2IbEQC3H8fu) | 4:03 | 2023-09-29 |  |
+| [White Limo Stuck in The Snow](https://open.spotify.com/track/59HszsyMeo4qNtLnoPObH0) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [White Limo Stuck In The Snow](https://open.spotify.com/album/73gnvlOHq9e2IbEQC3H8fu) | 4:03 | 2023-09-29 | 2023-12-23 |
 | [why didn't you call???](https://open.spotify.com/track/07c4PaAD3aPavDfZxeHZoY) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [why didn't you call???](https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK) | 3:16 | 2022-11-04 | 2023-03-04 |
 | [winter](https://open.spotify.com/track/6aMS0HK7fnPpT21KhV7MC7) | [sammy rash](https://open.spotify.com/artist/0yXuo2N8r6dzzGgnLNLGZm) | [winter](https://open.spotify.com/album/2RWtkN2zZCPl9VuMVBye6x) | 2:06 | 2022-01-21 | 2022-02-19 |
 | [Wish I Was A Single Girl Again](https://open.spotify.com/track/5cJ5JT9FOcioU3JRAF4hog) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Worst Thoughts In The World](https://open.spotify.com/album/7JRVHMM3hNt1NCVUhFy57y) | 2:33 | 2023-08-18 | 2023-11-11 |

@@ -1,12 +1,12 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Ulises Bueno  & Migrantes.",
-  "num_followers": 665633,
+  "num_followers": 665944,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWQ1MjBiMTg3MjIyMWFlMGYxYTc5OWFlNmRhNzcwOWEyMWU1OTJj",
+  "snapshot_id": "MCw3YzU3NmU4YzM4MWVmNjMyYzg5N2RiNDhiOGFjMThjZThjZTA1YTUw",
   "tracks": [
     {
       "added_at": "2023-12-15 03:00:00",
@@ -327,8 +327,8 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "No me pidan que baje el volumen",
-        "url": "https://open.spotify.com/album/4lfnuVjqXFDUCswpAqs2SC"
+        "name": "No me pueden parar",
+        "url": "https://open.spotify.com/album/7jwj5GOWFKWl0HNQErZi3N"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
         }
       ],
-      "duration_ms": 274259,
-      "name": "Ahora m\u00edrame",
-      "url": "https://open.spotify.com/track/1TKwvpH6WFOaHWsBnYTSaK"
+      "duration_ms": 208750,
+      "name": "Me levante",
+      "url": "https://open.spotify.com/track/0DGJyRo4L8p3AAz1WmUoZ3"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -447,8 +447,8 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "No me pueden parar",
-        "url": "https://open.spotify.com/album/7jwj5GOWFKWl0HNQErZi3N"
+        "name": "No me pidan que baje el volumen",
+        "url": "https://open.spotify.com/album/4lfnuVjqXFDUCswpAqs2SC"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
         }
       ],
-      "duration_ms": 208750,
-      "name": "Me levante",
-      "url": "https://open.spotify.com/track/0DGJyRo4L8p3AAz1WmUoZ3"
+      "duration_ms": 274259,
+      "name": "Ahora m\u00edrame",
+      "url": "https://open.spotify.com/track/1TKwvpH6WFOaHWsBnYTSaK"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "A Lo Largo Y A Lo Ancho",
+        "url": "https://open.spotify.com/album/2gt2L1ZqiYaTQpwVfD5f55"
+      },
+      "artists": [
+        {
+          "name": "Jean Carlos",
+          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
+        }
+      ],
+      "duration_ms": 230586,
+      "name": "Tu Vas a Volar",
+      "url": "https://open.spotify.com/track/5aarNSF6jcTWgC8L25kpYi"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "A Toda Fiesta",
         "url": "https://open.spotify.com/album/2RMkByPLZATDTDZchmAAov"
       },
@@ -1123,38 +1139,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "A Lo Largo Y A Lo Ancho",
-        "url": "https://open.spotify.com/album/2gt2L1ZqiYaTQpwVfD5f55"
-      },
-      "artists": [
-        {
-          "name": "Jean Carlos",
-          "url": "https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9"
-        }
-      ],
-      "duration_ms": 230586,
-      "name": "Tu Vas a Volar",
-      "url": "https://open.spotify.com/track/5aarNSF6jcTWgC8L25kpYi"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "El Dolor De Tu Presencia / Hasta El Fin Del Mundo (En Vivo)",
-        "url": "https://open.spotify.com/album/3K4HK9Js6g2O4Hm4PD2m3s"
-      },
-      "artists": [
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
-        }
-      ],
-      "duration_ms": 274858,
-      "name": "El Dolor De Tu Presencia / Hasta El Fin Del Mundo - En Vivo",
-      "url": "https://open.spotify.com/track/78ZxX0DfydlHw5XiwTNcQ2"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Bien Ah\u00ed !",
         "url": "https://open.spotify.com/album/5Cx6T8n7Hk6m0hrdojXp6B"
       },
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "De Adentro Pa Afuera",
-        "url": "https://open.spotify.com/album/5ZSdSnkmwF4frpdfZ0CZ1f"
+        "name": "El Dolor De Tu Presencia / Hasta El Fin Del Mundo (En Vivo)",
+        "url": "https://open.spotify.com/album/3K4HK9Js6g2O4Hm4PD2m3s"
       },
       "artists": [
         {
-          "name": "Dale Q' Va",
-          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
         }
       ],
-      "duration_ms": 212578,
-      "name": "De Adentro Pa Afuera",
-      "url": "https://open.spotify.com/track/4a5xNJrtHEkulgAlzgv0Ox"
+      "duration_ms": 274858,
+      "name": "El Dolor De Tu Presencia / Hasta El Fin Del Mundo - En Vivo",
+      "url": "https://open.spotify.com/track/78ZxX0DfydlHw5XiwTNcQ2"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1207,6 +1191,22 @@
       "duration_ms": 236543,
       "name": "La Mejor Version de M\u00ed (En Vivo)",
       "url": "https://open.spotify.com/track/6o3xMKoAm76DWLtoNuPhAu"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "De Adentro Pa Afuera",
+        "url": "https://open.spotify.com/album/5ZSdSnkmwF4frpdfZ0CZ1f"
+      },
+      "artists": [
+        {
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+        }
+      ],
+      "duration_ms": 212578,
+      "name": "De Adentro Pa Afuera",
+      "url": "https://open.spotify.com/track/4a5xNJrtHEkulgAlzgv0Ox"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1263,30 +1263,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Beso a Beso (con La Mona)",
-        "url": "https://open.spotify.com/album/4fvkyGJYsQKr4jzWg3xhok"
-      },
-      "artists": [
-        {
-          "name": "La Mona Jimenez",
-          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
-        },
-        {
-          "name": "Hugh Padgham",
-          "url": "https://open.spotify.com/artist/2tFojFgpu9xoQ04HsTZMDl"
-        },
-        {
-          "name": "Sergio Oliva",
-          "url": "https://open.spotify.com/artist/7sgBCRIyPmIsvElpnK4QMM"
-        }
-      ],
-      "duration_ms": 303253,
-      "name": "Beso a beso",
-      "url": "https://open.spotify.com/track/0vV3UvotpuHNC3mmKbUpSS"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Muero (feat. Eugenia Quevedo)",
         "url": "https://open.spotify.com/album/1sw7RzeT2J98lbW73sjxcS"
       },
@@ -1319,6 +1295,30 @@
       "duration_ms": 148797,
       "name": "La Pupera",
       "url": "https://open.spotify.com/track/3HQBrVgetHZaR3Avz2Z0a5"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Beso a Beso (con La Mona)",
+        "url": "https://open.spotify.com/album/4fvkyGJYsQKr4jzWg3xhok"
+      },
+      "artists": [
+        {
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+        },
+        {
+          "name": "Hugh Padgham",
+          "url": "https://open.spotify.com/artist/2tFojFgpu9xoQ04HsTZMDl"
+        },
+        {
+          "name": "Sergio Oliva",
+          "url": "https://open.spotify.com/artist/7sgBCRIyPmIsvElpnK4QMM"
+        }
+      ],
+      "duration_ms": 303253,
+      "name": "Beso a beso",
+      "url": "https://open.spotify.com/track/0vV3UvotpuHNC3mmKbUpSS"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1395,34 +1395,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Escondidos",
-        "url": "https://open.spotify.com/album/6OidQw7FBKbvZtjNTK8sZr"
+        "name": "Loca de Amor - Vestido Azul",
+        "url": "https://open.spotify.com/album/38iP1WBkUkBCLK1pwedSlk"
       },
       "artists": [
         {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR"
         }
       ],
-      "duration_ms": 148481,
-      "name": "Si Tu Supieras",
-      "url": "https://open.spotify.com/track/4QvuV3TTM3HZwkrXuLdqd0"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Antologia Carlitos La Mona Jimenez",
-        "url": "https://open.spotify.com/album/2B7vtykttjBxIaowIMIhUg"
-      },
-      "artists": [
-        {
-          "name": "La Mona Jimenez",
-          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
-        }
-      ],
-      "duration_ms": 245053,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/0Ejn4nJYdI2hfDOPbIpPmH"
+      "duration_ms": 366368,
+      "name": "Loca de Amor - Vestido Azul",
+      "url": "https://open.spotify.com/track/3GdmO5bwrMkfitfcOS3MZv"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1443,18 +1427,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Loca de Amor - Vestido Azul",
-        "url": "https://open.spotify.com/album/38iP1WBkUkBCLK1pwedSlk"
+        "name": "Antologia Carlitos La Mona Jimenez",
+        "url": "https://open.spotify.com/album/2B7vtykttjBxIaowIMIhUg"
       },
       "artists": [
         {
-          "name": "Valentina",
-          "url": "https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR"
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
         }
       ],
-      "duration_ms": 366368,
-      "name": "Loca de Amor - Vestido Azul",
-      "url": "https://open.spotify.com/track/3GdmO5bwrMkfitfcOS3MZv"
+      "duration_ms": 245053,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/0Ejn4nJYdI2hfDOPbIpPmH"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1499,6 +1483,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Escondidos",
+        "url": "https://open.spotify.com/album/6OidQw7FBKbvZtjNTK8sZr"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "duration_ms": 148481,
+      "name": "Si Tu Supieras",
+      "url": "https://open.spotify.com/track/4QvuV3TTM3HZwkrXuLdqd0"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "La Vagancia Cuartetera",
         "url": "https://open.spotify.com/album/3SP1JmVsoWHsHVOpxhMRTB"
       },
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Sigan Bailando",
-        "url": "https://open.spotify.com/album/2MeHG6oVZ76wfqSxWaikwe"
-      },
-      "artists": [
-        {
-          "name": "El Loco Amato",
-          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
-        }
-      ],
-      "duration_ms": 387552,
-      "name": "De Quien Es la Culpa / Como Lo Hacias Con El",
-      "url": "https://open.spotify.com/track/0GWrX4qSvHTnpWLhHRRrZi"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Aguardiente",
         "url": "https://open.spotify.com/album/615hZrvutlic1TjcVwUqXT"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 152432,
       "name": "Aguardiente",
       "url": "https://open.spotify.com/track/20doU1VeeKdRPQhtw1eExa"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Sigan Bailando",
+        "url": "https://open.spotify.com/album/2MeHG6oVZ76wfqSxWaikwe"
+      },
+      "artists": [
+        {
+          "name": "El Loco Amato",
+          "url": "https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p"
+        }
+      ],
+      "duration_ms": 387552,
+      "name": "De Quien Es la Culpa / Como Lo Hacias Con El",
+      "url": "https://open.spotify.com/track/0GWrX4qSvHTnpWLhHRRrZi"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Como La Primera Vez",
+        "url": "https://open.spotify.com/album/25bmi5QxyxzTbweYEeTtUd"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "duration_ms": 233720,
+      "name": "Como La Primera Vez",
+      "url": "https://open.spotify.com/track/04yNy2x0uJKE3iWHlmNTX0"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Aguardiente",
         "url": "https://open.spotify.com/album/6yVuaS43iSMINaK3LTPBbR"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 199445,
       "name": "Aguardiente",
       "url": "https://open.spotify.com/track/4VmeOrqo71YrPEjPgdKOBy"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Como La Primera Vez",
-        "url": "https://open.spotify.com/album/25bmi5QxyxzTbweYEeTtUd"
-      },
-      "artists": [
-        {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        }
-      ],
-      "duration_ms": 233720,
-      "name": "Como La Primera Vez",
-      "url": "https://open.spotify.com/track/04yNy2x0uJKE3iWHlmNTX0"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Ferxxo 100",
+        "url": "https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "duration_ms": 169589,
+      "name": "Ferxxo 100",
+      "url": "https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Con Piel de Cuarteto",
         "url": "https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh"
       },
@@ -1843,22 +1859,6 @@
       "duration_ms": 236890,
       "name": "Por Amarte",
       "url": "https://open.spotify.com/track/6F5aVSame3xjIbO4bhzTsM"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Ferxxo 100",
-        "url": "https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F"
-      },
-      "artists": [
-        {
-          "name": "Simon Aguirre",
-          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
-        }
-      ],
-      "duration_ms": 169589,
-      "name": "Ferxxo 100",
-      "url": "https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A"
     }
   ],
   "unique_name": "100% Cuarteto",

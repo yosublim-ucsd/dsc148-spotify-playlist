@@ -1,12 +1,12 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Ric Hassani",
-  "num_followers": 219634,
+  "num_followers": 219708,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODMwNDFhMjcyNzQyOWNlNzViYzExYTg4MGRjZDdiZjE5MWJkZmI5",
+  "snapshot_id": "MCwyNmJmYjg5MWUzNmI2ZTZhZTFlZDY0YmMzNGRlMDkxYjc3MmY4MmNj",
   "tracks": [
     {
       "added_at": "2023-12-15 00:01:00",
@@ -175,18 +175,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Oh My",
-        "url": "https://open.spotify.com/album/5udTHcnbnYDVv6ltR4mfP1"
+        "name": "Carry Me Go",
+        "url": "https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        },
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
         }
       ],
-      "duration_ms": 182307,
-      "name": "Oh My",
-      "url": "https://open.spotify.com/track/5ms1yX1DJXb0TT2Z5cbgSq"
+      "duration_ms": 136464,
+      "name": "Carry Me Go",
+      "url": "https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -211,22 +215,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Carry Me Go",
-        "url": "https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do"
+        "name": "Oh My",
+        "url": "https://open.spotify.com/album/5udTHcnbnYDVv6ltR4mfP1"
       },
       "artists": [
         {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        },
-        {
-          "name": "Boy Spyce",
-          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 136464,
-      "name": "Carry Me Go",
-      "url": "https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi"
+      "duration_ms": 182307,
+      "name": "Oh My",
+      "url": "https://open.spotify.com/track/5ms1yX1DJXb0TT2Z5cbgSq"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -271,26 +271,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Feeling Good",
-        "url": "https://open.spotify.com/album/5QNmhuFtLpsbwrJRechPZp"
-      },
-      "artists": [
-        {
-          "name": "Guchi",
-          "url": "https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9"
-        },
-        {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        }
-      ],
-      "duration_ms": 137386,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/5G6szsbEgDRHH975jPtMCf"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL"
       },
@@ -311,66 +291,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "The Evil Genius",
-        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
+        "name": "Feeling Good",
+        "url": "https://open.spotify.com/album/5QNmhuFtLpsbwrJRechPZp"
       },
       "artists": [
         {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 149387,
-      "name": "Panadol",
-      "url": "https://open.spotify.com/track/2VkxvwW5Vb3hWrB9so0cQ4"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Rent Free",
-        "url": "https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA"
-      },
-      "artists": [
+          "name": "Guchi",
+          "url": "https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9"
+        },
         {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
         }
       ],
-      "duration_ms": 136842,
-      "name": "Rent Free",
-      "url": "https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Ma Cherie",
-        "url": "https://open.spotify.com/album/3ByyPk478xVoajmKEHUFcr"
-      },
-      "artists": [
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        }
-      ],
-      "duration_ms": 172941,
-      "name": "Ma Cherie",
-      "url": "https://open.spotify.com/track/3PemVHtCIb5abITSvos4Bq"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Colors (My Baby) / Loyal",
-        "url": "https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 164240,
-      "name": "Colors (My Baby)",
-      "url": "https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq"
+      "duration_ms": 137386,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/5G6szsbEgDRHH975jPtMCf"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -391,6 +327,54 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Rent Free",
+        "url": "https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 136842,
+      "name": "Rent Free",
+      "url": "https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "The Evil Genius",
+        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 149387,
+      "name": "Panadol",
+      "url": "https://open.spotify.com/track/2VkxvwW5Vb3hWrB9so0cQ4"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Ma Cherie",
+        "url": "https://open.spotify.com/album/3ByyPk478xVoajmKEHUFcr"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "Ma Cherie",
+      "url": "https://open.spotify.com/track/3PemVHtCIb5abITSvos4Bq"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Qing Madi",
         "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 170322,
       "name": "Ole (feat. BNXN)",
       "url": "https://open.spotify.com/track/6GkFuU6FVfx866bhM1T1Iz"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Colors (My Baby) / Loyal",
+        "url": "https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 164240,
+      "name": "Colors (My Baby)",
+      "url": "https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Qing Madi",
+        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Vision",
+      "url": "https://open.spotify.com/track/5jLBhr4USswMtmsItEAFqf"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Only God Can Save Me",
         "url": "https://open.spotify.com/album/46BxNQYEL1ez8HQ8w6Fpql"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 168610,
       "name": "Ogaranya",
       "url": "https://open.spotify.com/track/0tC86sTgoU5BXkV7iucdcS"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Qing Madi",
-        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
-      },
-      "artists": [
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Vision",
-      "url": "https://open.spotify.com/track/5jLBhr4USswMtmsItEAFqf"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -835,18 +835,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Don't Let Me Down",
-        "url": "https://open.spotify.com/album/45ZnWV7qkh537T4XsAjGOh"
+        "name": "We Only Talk About Real Shit When We're Fucked Up",
+        "url": "https://open.spotify.com/album/3kXP7albhNo2neJAivDwxk"
       },
       "artists": [
         {
-          "name": "Marvel",
-          "url": "https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL"
+          "name": "Bas",
+          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         }
       ],
-      "duration_ms": 184421,
-      "name": "Don't Let Me Down",
-      "url": "https://open.spotify.com/track/2mEnZ17oGA7nPcBTRG2jLG"
+      "duration_ms": 142719,
+      "name": "Khartoum (with Adekunle Gold)",
+      "url": "https://open.spotify.com/track/5RizFQe3Uvf12S2WE83IBr"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -875,22 +879,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "We Only Talk About Real Shit When We're Fucked Up",
-        "url": "https://open.spotify.com/album/3kXP7albhNo2neJAivDwxk"
+        "name": "Don't Let Me Down",
+        "url": "https://open.spotify.com/album/45ZnWV7qkh537T4XsAjGOh"
       },
       "artists": [
         {
-          "name": "Bas",
-          "url": "https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Marvel",
+          "url": "https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL"
         }
       ],
-      "duration_ms": 142719,
-      "name": "Khartoum (with Adekunle Gold)",
-      "url": "https://open.spotify.com/track/5RizFQe3Uvf12S2WE83IBr"
+      "duration_ms": 184421,
+      "name": "Don't Let Me Down",
+      "url": "https://open.spotify.com/track/2mEnZ17oGA7nPcBTRG2jLG"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Body & Soul",
+        "url": "https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 120500,
+      "name": "Lose Ya",
+      "url": "https://open.spotify.com/track/0a2V2dT53tbO9SpyQMDvGo"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Eyes on You",
         "url": "https://open.spotify.com/album/5YzJpnr4nVbCBwCvcY4Flr"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 182442,
       "name": "Eyes on You",
       "url": "https://open.spotify.com/track/2NnqSG568w506fvH0pSTzI"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Body & Soul",
-        "url": "https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 120500,
-      "name": "Lose Ya",
-      "url": "https://open.spotify.com/track/0a2V2dT53tbO9SpyQMDvGo"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Body, Soul & Spirit",
+        "url": "https://open.spotify.com/album/1v9uFb7YRRXyex0XnASQOJ"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 158264,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/2BpPchBu0QUEWESGox0EXq"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Point Of View",
         "url": "https://open.spotify.com/album/1z4Q2kTsQxiGMlJjKSPBfc"
       },
@@ -1103,18 +1119,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Body, Soul & Spirit",
-        "url": "https://open.spotify.com/album/1v9uFb7YRRXyex0XnASQOJ"
+        "name": "Life Is Better Now",
+        "url": "https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo"
       },
       "artists": [
         {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
         }
       ],
-      "duration_ms": 158264,
-      "name": "Enemy",
-      "url": "https://open.spotify.com/track/2BpPchBu0QUEWESGox0EXq"
+      "duration_ms": 151724,
+      "name": "Troubling",
+      "url": "https://open.spotify.com/track/2ES55pOmP7U7DnFueBuLwO"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1131,22 +1147,6 @@
       "duration_ms": 157570,
       "name": "Alone",
       "url": "https://open.spotify.com/track/4qqXRH8qhmNA31oy1ADAN7"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Life Is Better Now",
-        "url": "https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo"
-      },
-      "artists": [
-        {
-          "name": "Nana Fofie",
-          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
-        }
-      ],
-      "duration_ms": 151724,
-      "name": "Troubling",
-      "url": "https://open.spotify.com/track/2ES55pOmP7U7DnFueBuLwO"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Jegede Remix",
+        "url": "https://open.spotify.com/album/6rIyCrt5aKkZvsJUrsyJHp"
+      },
+      "artists": [
+        {
+          "name": "Hitboy Kellz",
+          "url": "https://open.spotify.com/artist/38Fq4nvPL9X8BHv4YadDrf"
+        },
+        {
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+        }
+      ],
+      "duration_ms": 160104,
+      "name": "Jegede Remix",
+      "url": "https://open.spotify.com/track/0tCDL7WyvA3gjFZZzgA3BH"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Game Over",
         "url": "https://open.spotify.com/album/5O0jQrdJ5K8wo1feyiZy88"
       },
@@ -1315,6 +1335,22 @@
       "duration_ms": 142040,
       "name": "Game Over",
       "url": "https://open.spotify.com/track/7ERJJ8c4gxANECZgSBAdBm"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "ALL MY LIFE",
+        "url": "https://open.spotify.com/album/2bf2Ru2MkVeF8sFFBvrIvS"
+      },
+      "artists": [
+        {
+          "name": "Tomi Ow\u00f3",
+          "url": "https://open.spotify.com/artist/21EqvfrgEecTOZtKffQ82k"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "ALL MY LIFE",
+      "url": "https://open.spotify.com/track/4WoPXUWnmeNlxLLbvfxhx9"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1375,42 +1411,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Jegede Remix",
-        "url": "https://open.spotify.com/album/6rIyCrt5aKkZvsJUrsyJHp"
-      },
-      "artists": [
-        {
-          "name": "Hitboy Kellz",
-          "url": "https://open.spotify.com/artist/38Fq4nvPL9X8BHv4YadDrf"
-        },
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        }
-      ],
-      "duration_ms": 160104,
-      "name": "Jegede Remix",
-      "url": "https://open.spotify.com/track/0tCDL7WyvA3gjFZZzgA3BH"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "ALL MY LIFE",
-        "url": "https://open.spotify.com/album/2bf2Ru2MkVeF8sFFBvrIvS"
-      },
-      "artists": [
-        {
-          "name": "Tomi Ow\u00f3",
-          "url": "https://open.spotify.com/artist/21EqvfrgEecTOZtKffQ82k"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "ALL MY LIFE",
-      "url": "https://open.spotify.com/track/4WoPXUWnmeNlxLLbvfxhx9"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "IN CASE I NEVER LOVE AGAIN ( ICINLA)",
         "url": "https://open.spotify.com/album/0xJWHpLQZOiOKoDzqquHfY"
       },
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Healing",
+        "url": "https://open.spotify.com/album/3M5dZ8GosZndWwOdrRuhlG"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 179828,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/1RMMMuAV8WdmbQVIf5Eivv"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Cheers To Life.",
         "url": "https://open.spotify.com/album/2fZCPTAas21v7AF9pVytgj"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 177669,
       "name": "Slip & Slide (feat. Rotimi)",
       "url": "https://open.spotify.com/track/097kkEBc5vfQ4kSadaZNwW"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Healing",
-        "url": "https://open.spotify.com/album/3M5dZ8GosZndWwOdrRuhlG"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 179828,
-      "name": "Healing",
-      "url": "https://open.spotify.com/track/1RMMMuAV8WdmbQVIf5Eivv"
     },
     {
       "added_at": "2023-12-15 00:01:00",

@@ -4,7 +4,7 @@
 
 > 
 
-571 songs - 1 day 2 hr 43 min
+572 songs - 1 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [6 Foot 7 Foot](https://open.spotify.com/track/5Qy6a5KzM4XlRxsNcGYhgH) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Cory Gunz](https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z) | [Tha Carter IV \(Complete Edition\)](https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp) | 4:08 | 2023-03-30 | 2023-12-14 |
 | [6 Poles](https://open.spotify.com/track/27EkOKxFdYbD664woilRqn) | [Desire](https://open.spotify.com/artist/3KPcAghCkTbiBpuAsZnWv3), [KanKan](https://open.spotify.com/artist/5jrVFIwqg3H8O1vDZqeQOB) | [6 Poles](https://open.spotify.com/album/0w4A820N239RNlHWI5f3fP) | 2:07 | 2022-12-21 | 2023-03-21 |
 | [89 Earthquake](https://open.spotify.com/track/0GSbjG7c0gm7qX0Ru7vuon) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [The Great Escape](https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr) | 3:12 | 2023-04-04 | 2023-05-09 |
+| [A Fan's Mail \(Tron Song Suite II\)](https://open.spotify.com/track/6qXNCWY49AaZ5nfp9AJIc5) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 2:38 | 2023-12-22 |  |
 | [A Goat Speaking](https://open.spotify.com/track/2e2T1HIpVG8XIu3tcLaKJf) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [City On My Back](https://open.spotify.com/album/4dmycXSxh1F9LGAVgB1plB) | 2:23 | 2023-03-20 | 2023-12-14 |
 | [A Minute\(lone\)](https://open.spotify.com/track/7t9cWdvscrbqrsSigEV0Dv) | [vjac0b](https://open.spotify.com/artist/2dSAZN7PmMiI5UCTJUALer) | [A Minute\(lone\)](https://open.spotify.com/album/4FAeomp0gCXLl0hAR5FsFn) | 2:38 | 2022-07-28 | 2023-05-09 |
 | [Accidental Shit Talking 2](https://open.spotify.com/track/3YhnPlbJSF44AOLAR0wKtq) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Accidental Shit Talkin](https://open.spotify.com/album/78afHDRK6o8rRLNDpQlCk4) | 1:56 | 2023-01-16 | 2023-05-09 |

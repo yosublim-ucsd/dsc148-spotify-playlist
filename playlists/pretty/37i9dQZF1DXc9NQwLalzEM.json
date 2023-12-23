@@ -1,12 +1,12 @@
 {
   "description": "Vintage soul gems from the archives.",
-  "num_followers": 192685,
+  "num_followers": 192690,
   "original_name": "Rare Soul Grooves",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTYxN2ZmMmI1OTcyMDRiYjg4N2M1NjhhNjg3MDM2MmE0ZWQ1MTYw",
+  "snapshot_id": "MCw1NDI1ZDY5M2YyODZkZWM0MjI5ZTU5YWJkM2I5ZDM1YzlhM2JiMDA3",
   "tracks": [
     {
       "added_at": "2022-05-11 12:29:38",
@@ -131,18 +131,22 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Hitsville USA - The Motown Singles Collection 1959-1971",
-        "url": "https://open.spotify.com/album/3tTqBkR89I0oODc5enVLnj"
+        "name": "Tell Her b/w The Dance Got Old",
+        "url": "https://open.spotify.com/album/4EOK4w9FYlrqWQvK3rpIww"
       },
       "artists": [
         {
-          "name": "The Elgins",
-          "url": "https://open.spotify.com/artist/0CMVsLgjlp9Tk02TikMAQK"
+          "name": "Fred Williams",
+          "url": "https://open.spotify.com/artist/4bR7LiGTblv5N6Od7yu7yJ"
+        },
+        {
+          "name": "The Jewel Band",
+          "url": "https://open.spotify.com/artist/7thYdpZLbyFk4ceydyaSrv"
         }
       ],
-      "duration_ms": 152933,
-      "name": "Heaven Must Have Sent You - Mono Single",
-      "url": "https://open.spotify.com/track/4iWytemcQqCczcPPpT0L0P"
+      "duration_ms": 145240,
+      "name": "Tell Her",
+      "url": "https://open.spotify.com/track/6EFxFbF6ZNCuE01gAd0xsN"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -163,22 +167,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Tell Her b/w The Dance Got Old",
-        "url": "https://open.spotify.com/album/4EOK4w9FYlrqWQvK3rpIww"
+        "name": "Hitsville USA - The Motown Singles Collection 1959-1971",
+        "url": "https://open.spotify.com/album/3tTqBkR89I0oODc5enVLnj"
       },
       "artists": [
         {
-          "name": "Fred Williams",
-          "url": "https://open.spotify.com/artist/4bR7LiGTblv5N6Od7yu7yJ"
-        },
-        {
-          "name": "The Jewel Band",
-          "url": "https://open.spotify.com/artist/7thYdpZLbyFk4ceydyaSrv"
+          "name": "The Elgins",
+          "url": "https://open.spotify.com/artist/0CMVsLgjlp9Tk02TikMAQK"
         }
       ],
-      "duration_ms": 145240,
-      "name": "Tell Her",
-      "url": "https://open.spotify.com/track/6EFxFbF6ZNCuE01gAd0xsN"
+      "duration_ms": 152933,
+      "name": "Heaven Must Have Sent You - Mono Single",
+      "url": "https://open.spotify.com/track/4iWytemcQqCczcPPpT0L0P"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
+        "name": "Jean Carn",
+        "url": "https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj"
+      },
+      "artists": [
+        {
+          "name": "Jean Carn",
+          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
+        }
+      ],
+      "duration_ms": 244973,
+      "name": "Free Love",
+      "url": "https://open.spotify.com/track/0U8jLRW0P9yATYLXiqEJlF"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
         "name": "The First Family of Soul: The Best of The Five Stairsteps",
         "url": "https://open.spotify.com/album/5RDrnVcOfimhUGIx84Uoid"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 165200,
       "name": "Baby Make Me Feel So Good",
       "url": "https://open.spotify.com/track/0wSvnAFcmkeP9gU5L6RRjQ"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
-        "name": "Jean Carn",
-        "url": "https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj"
-      },
-      "artists": [
-        {
-          "name": "Jean Carn",
-          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
-        }
-      ],
-      "duration_ms": 244973,
-      "name": "Free Love",
-      "url": "https://open.spotify.com/track/0U8jLRW0P9yATYLXiqEJlF"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Best Of The Fantastic Four",
-        "url": "https://open.spotify.com/album/7jtpyXmOIHz381IiRYVv6X"
-      },
-      "artists": [
-        {
-          "name": "The Fantastic Four",
-          "url": "https://open.spotify.com/artist/17kU4eEW33U7UfY8JIOsBi"
-        }
-      ],
-      "duration_ms": 175920,
-      "name": "The Whole World Is A Stage",
-      "url": "https://open.spotify.com/track/3nTQYbmBGXgeZfgDVAcjAm"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Goin' Places",
         "url": "https://open.spotify.com/album/1hd0mhe1mVyNRGtTbnqhT3"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 274346,
       "name": "Find Me a Girl",
       "url": "https://open.spotify.com/track/51CkYfiL0waVyqjLrGSX8l"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Best Of The Fantastic Four",
+        "url": "https://open.spotify.com/album/7jtpyXmOIHz381IiRYVv6X"
+      },
+      "artists": [
+        {
+          "name": "The Fantastic Four",
+          "url": "https://open.spotify.com/artist/17kU4eEW33U7UfY8JIOsBi"
+        }
+      ],
+      "duration_ms": 175920,
+      "name": "The Whole World Is A Stage",
+      "url": "https://open.spotify.com/track/3nTQYbmBGXgeZfgDVAcjAm"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Goin' Places",
-        "url": "https://open.spotify.com/album/1hd0mhe1mVyNRGtTbnqhT3"
-      },
-      "artists": [
-        {
-          "name": "The Jacksons",
-          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
-        }
-      ],
-      "duration_ms": 273613,
-      "name": "Even Though You're Gone",
-      "url": "https://open.spotify.com/track/3xpa77sO4lKGadIRCwXK5I"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "A Cellarful Of Motown!",
         "url": "https://open.spotify.com/album/5eXLUiWLgv6QuKZ2CLCoks"
       },
@@ -1151,18 +1135,18 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "The Complete Motown Singles, Vol. 3: 1963",
-        "url": "https://open.spotify.com/album/3YCASsl45660L3pVU0sdZx"
+        "name": "Goin' Places",
+        "url": "https://open.spotify.com/album/1hd0mhe1mVyNRGtTbnqhT3"
       },
       "artists": [
         {
-          "name": "Linda Griner",
-          "url": "https://open.spotify.com/artist/2rhBavz3cdFPmNN5M9GX6Y"
+          "name": "The Jacksons",
+          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
         }
       ],
-      "duration_ms": 143733,
-      "name": "Goodbye Cruel Love",
-      "url": "https://open.spotify.com/track/0ogS3CBf15IZsjc1yFd8iS"
+      "duration_ms": 273613,
+      "name": "Even Though You're Gone",
+      "url": "https://open.spotify.com/track/3xpa77sO4lKGadIRCwXK5I"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1179,6 +1163,22 @@
       "duration_ms": 150480,
       "name": "Do I Love You (Indeed I Do) - Alternate Mix",
       "url": "https://open.spotify.com/track/16alVF2EqOAlAW9vxx3PNf"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "The Complete Motown Singles, Vol. 3: 1963",
+        "url": "https://open.spotify.com/album/3YCASsl45660L3pVU0sdZx"
+      },
+      "artists": [
+        {
+          "name": "Linda Griner",
+          "url": "https://open.spotify.com/artist/2rhBavz3cdFPmNN5M9GX6Y"
+        }
+      ],
+      "duration_ms": 143733,
+      "name": "Goodbye Cruel Love",
+      "url": "https://open.spotify.com/track/0ogS3CBf15IZsjc1yFd8iS"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Chess Soul: A Decade Of Chicago\u2019s Finest",
-        "url": "https://open.spotify.com/album/4c9TWEY7mW9Z2CWpc7MIlw"
-      },
-      "artists": [
-        {
-          "name": "Denise LaSalle",
-          "url": "https://open.spotify.com/artist/0GVO1kqJHVxOarPgex9K15"
-        }
-      ],
-      "duration_ms": 167560,
-      "name": "A Love Reputation",
-      "url": "https://open.spotify.com/track/38ckyTSXIQ0o7sC6efDG2j"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "The Legendary Henry Stone Presents: Jimmy Bo Horne",
         "url": "https://open.spotify.com/album/4WDYgiypBayAeaGIPAzKiv"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 191203,
       "name": "I Can't Speak",
       "url": "https://open.spotify.com/track/2iPjHMgEegSGNbog4ujzkM"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Chess Soul: A Decade Of Chicago\u2019s Finest",
+        "url": "https://open.spotify.com/album/4c9TWEY7mW9Z2CWpc7MIlw"
+      },
+      "artists": [
+        {
+          "name": "Denise LaSalle",
+          "url": "https://open.spotify.com/artist/0GVO1kqJHVxOarPgex9K15"
+        }
+      ],
+      "duration_ms": 167560,
+      "name": "A Love Reputation",
+      "url": "https://open.spotify.com/track/38ckyTSXIQ0o7sC6efDG2j"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Eccentric Soul: Twinight's Lunar Rotation",
-        "url": "https://open.spotify.com/album/5FM27Sd9COvzQpJbRE55M2"
-      },
-      "artists": [
-        {
-          "name": "Kaldirons",
-          "url": "https://open.spotify.com/artist/3tXt8EHzwpr8xrUXpsK9N3"
-        }
-      ],
-      "duration_ms": 201786,
-      "name": "To Love Someone (That Don't Love You)",
-      "url": "https://open.spotify.com/track/5rrXRBLNgcVwEyKSel6idy"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "A Cellarful Of Motown! (Vol. 2)",
         "url": "https://open.spotify.com/album/4DvJfXChxxWBseHVBfVPfI"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 176533,
       "name": "Every Time I See You, I Go Wild!",
       "url": "https://open.spotify.com/track/0DElF1k1KEGkRcMtQcHOYH"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Eccentric Soul: Twinight's Lunar Rotation",
+        "url": "https://open.spotify.com/album/5FM27Sd9COvzQpJbRE55M2"
+      },
+      "artists": [
+        {
+          "name": "Kaldirons",
+          "url": "https://open.spotify.com/artist/3tXt8EHzwpr8xrUXpsK9N3"
+        }
+      ],
+      "duration_ms": 201786,
+      "name": "To Love Someone (That Don't Love You)",
+      "url": "https://open.spotify.com/track/5rrXRBLNgcVwEyKSel6idy"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/5inHUsQcyuKptOn7HTvVTY"
-      },
-      "artists": [
-        {
-          "name": "Jean Carn",
-          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
-        }
-      ],
-      "duration_ms": 276976,
-      "name": "My Love Don't Come Easy",
-      "url": "https://open.spotify.com/track/1xP1DVB80liHmmL2P55NfJ"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Southside Chicago",
         "url": "https://open.spotify.com/album/19FdxlbSShGA86U6y7noRm"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 163306,
       "name": "I'm Ready for Love",
       "url": "https://open.spotify.com/track/6VQAjEdoa6XL2CaDUFEioS"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/5inHUsQcyuKptOn7HTvVTY"
+      },
+      "artists": [
+        {
+          "name": "Jean Carn",
+          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
+        }
+      ],
+      "duration_ms": 276976,
+      "name": "My Love Don't Come Easy",
+      "url": "https://open.spotify.com/track/1xP1DVB80liHmmL2P55NfJ"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "A Cellarful Of Motown!",
-        "url": "https://open.spotify.com/album/5eXLUiWLgv6QuKZ2CLCoks"
-      },
-      "artists": [
-        {
-          "name": "The Contours",
-          "url": "https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1"
-        }
-      ],
-      "duration_ms": 182493,
-      "name": "Baby Hit And Run - Alternate Vocal",
-      "url": "https://open.spotify.com/track/1kr3IIOavK40nLgoylfj4T"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "My Wife Can't Cook b/w Something Old Something New",
         "url": "https://open.spotify.com/album/0FUtfjgpMYHElf6Y8nYkj9"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 147778,
       "name": "Something Old Something New",
       "url": "https://open.spotify.com/track/3J1ANxU5sLJM2CGg9A6U6S"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "A Cellarful Of Motown!",
+        "url": "https://open.spotify.com/album/5eXLUiWLgv6QuKZ2CLCoks"
+      },
+      "artists": [
+        {
+          "name": "The Contours",
+          "url": "https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1"
+        }
+      ],
+      "duration_ms": 182493,
+      "name": "Baby Hit And Run - Alternate Vocal",
+      "url": "https://open.spotify.com/track/1kr3IIOavK40nLgoylfj4T"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "The Complete Motown Singles, Vol. 2: 1962",
-        "url": "https://open.spotify.com/album/4PoyMn8WOciLwpMGFDYfXo"
-      },
-      "artists": [
-        {
-          "name": "Gino Parks",
-          "url": "https://open.spotify.com/artist/3Gxx2SzTn8pHaju9LTXpnz"
-        }
-      ],
-      "duration_ms": 166133,
-      "name": "Fire - Mono Single",
-      "url": "https://open.spotify.com/track/4U682v3KXCkAer9bKHHPgr"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "The Complete Motown Singles, Vol. 6: 1966",
         "url": "https://open.spotify.com/album/3mQO3RmWVxI7U4y0HxUeh1"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 134626,
       "name": "This Is True",
       "url": "https://open.spotify.com/track/7cOUt1Q4HaYVpg9WB7B2Gn"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "The Complete Motown Singles, Vol. 2: 1962",
+        "url": "https://open.spotify.com/album/4PoyMn8WOciLwpMGFDYfXo"
+      },
+      "artists": [
+        {
+          "name": "Gino Parks",
+          "url": "https://open.spotify.com/artist/3Gxx2SzTn8pHaju9LTXpnz"
+        }
+      ],
+      "duration_ms": 166133,
+      "name": "Fire - Mono Single",
+      "url": "https://open.spotify.com/track/4U682v3KXCkAer9bKHHPgr"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
+        "name": "Best of Ace: Soul Harmony",
+        "url": "https://open.spotify.com/album/6aOmn5BSEmTyLbcJcoOc6a"
+      },
+      "artists": [
+        {
+          "name": "The Performers",
+          "url": "https://open.spotify.com/artist/33OknnhKvWiDNmCy9aGVfI"
+        }
+      ],
+      "duration_ms": 161373,
+      "name": "That Day When She Needed Me",
+      "url": "https://open.spotify.com/track/44qsTuT39YB95fvHdQsbyS"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
         "name": "The Detroit Funk Vaults",
         "url": "https://open.spotify.com/album/5TyaKsCaFybG3jMoc84iwE"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 142628,
       "name": "With My Love and What You've Got (We Could Turn This World Around)",
       "url": "https://open.spotify.com/track/0Kumf47kWgjaHmfXhyGRz8"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
-        "name": "Best of Ace: Soul Harmony",
-        "url": "https://open.spotify.com/album/6aOmn5BSEmTyLbcJcoOc6a"
-      },
-      "artists": [
-        {
-          "name": "The Performers",
-          "url": "https://open.spotify.com/artist/33OknnhKvWiDNmCy9aGVfI"
-        }
-      ],
-      "duration_ms": 161373,
-      "name": "That Day When She Needed Me",
-      "url": "https://open.spotify.com/track/44qsTuT39YB95fvHdQsbyS"
     },
     {
       "added_at": "2022-05-11 12:29:38",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2022-05-11 12:29:38",
       "album": {
-        "name": "Michael Pedicin, Jr.",
-        "url": "https://open.spotify.com/album/527Wtf9FeCw8r2E2W8Teai"
-      },
-      "artists": [
-        {
-          "name": "Michael Pedicin Jr.",
-          "url": "https://open.spotify.com/artist/64a4OzvMmFgs0ilkA21Q2w"
-        }
-      ],
-      "duration_ms": 324746,
-      "name": "That's a Good One",
-      "url": "https://open.spotify.com/track/53p7FlkTpXQ3yu47QrlkLX"
-    },
-    {
-      "added_at": "2022-05-11 12:29:38",
-      "album": {
         "name": "Travelin' In Heavy Traffic",
         "url": "https://open.spotify.com/album/4XZbP8SrKj0dyxt4Lbxrde"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 361626,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/02dMF381tQaidG17In1Tt2"
+    },
+    {
+      "added_at": "2022-05-11 12:29:38",
+      "album": {
+        "name": "Michael Pedicin, Jr.",
+        "url": "https://open.spotify.com/album/527Wtf9FeCw8r2E2W8Teai"
+      },
+      "artists": [
+        {
+          "name": "Michael Pedicin Jr.",
+          "url": "https://open.spotify.com/artist/64a4OzvMmFgs0ilkA21Q2w"
+        }
+      ],
+      "duration_ms": 324746,
+      "name": "That's a Good One",
+      "url": "https://open.spotify.com/track/53p7FlkTpXQ3yu47QrlkLX"
     },
     {
       "added_at": "2022-05-11 12:29:38",

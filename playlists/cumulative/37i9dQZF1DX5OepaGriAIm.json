@@ -1556,10 +1556,28 @@
       ],
       "date_added": "2022-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 257000,
       "name": "I Try",
       "url": "https://open.spotify.com/track/1TQZRpTbH3aWDqmr5mBo2z"
+    },
+    {
+      "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/4qOu8iLW8LyrX1MVm393P6"
+      },
+      "artists": [
+        {
+          "name": "Macy Gray",
+          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "I Try",
+      "url": "https://open.spotify.com/track/4LwUtuvie7JhcBFhUKnVv1"
     },
     {
       "album": {

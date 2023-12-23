@@ -4,7 +4,7 @@
 
 > 忙しかった1日の終わりは、半身浴と心に沁みる音楽でゆったりリラックス。
 
-277 songs - 17 hr 14 min
+278 songs - 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,8 +125,9 @@
 | [In Love](https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [PLEASURES](https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM) | 2:47 | 2023-08-31 | 2023-11-16 |
 | [Incredible](https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 4:06 | 2022-10-16 | 2023-01-11 |
 | [June](https://open.spotify.com/track/038GKUaUj8NzPOy29kwPCq) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [June](https://open.spotify.com/album/6z9vD1SjXdYOsteoGQhC6S) | 3:38 | 2023-01-10 | 2023-02-01 |
+| [Just A Game feat\. Benny Sings](https://open.spotify.com/track/0Lfq6JYj8prokiK2UsDAv4) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [The Roller Skating Tour](https://open.spotify.com/album/4iyqMZ78D9rMdbSJl6jhtO) | 4:18 | 2023-12-21 |  |
 | [Just A Game feat\. Benny Sings](https://open.spotify.com/track/3Hjrizdjm4Knd5KiVgKW1l) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Just A Game feat\. Benny Sings](https://open.spotify.com/album/1z4MVjlHPchvfc8BAZaXqr) | 4:19 | 2023-11-21 | 2023-11-23 |
-| [Just A Game feat\. Benny Sings](https://open.spotify.com/track/788y834RoRJUQAH2O8jq7u) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Just A Game feat\. Benny Sings](https://open.spotify.com/album/5vrhmmQ8OL0SnNtEpNb5G0) | 4:19 | 2023-11-21 |  |
+| [Just A Game feat\. Benny Sings](https://open.spotify.com/track/788y834RoRJUQAH2O8jq7u) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Just A Game feat\. Benny Sings](https://open.spotify.com/album/5vrhmmQ8OL0SnNtEpNb5G0) | 4:19 | 2023-11-21 | 2023-12-23 |
 | [just like you](https://open.spotify.com/track/41Rk18JqD8CbBcWM8VH0kk) | [黃小楨](https://open.spotify.com/artist/36nWYFJVxfbpEenzbQRPZr) | [just like you](https://open.spotify.com/album/6KSYGpRBRafRV0jQh4oayC) | 2:50 | 2023-03-16 | 2023-06-24 |
 | [Just You and I](https://open.spotify.com/track/2n48BjaFSczfeIG3HaIaPv) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Just You and I](https://open.spotify.com/album/5nISEcZY5ZruC6qx48BoVA) | 2:54 | 2022-10-16 | 2023-01-11 |
 | [Justify](https://open.spotify.com/track/3r9lmRwmoa5Pibf2iNzY3I) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Justify](https://open.spotify.com/album/4rll2JS6G515VQjdLqAinJ) | 3:04 | 2023-07-04 | 2023-07-10 |

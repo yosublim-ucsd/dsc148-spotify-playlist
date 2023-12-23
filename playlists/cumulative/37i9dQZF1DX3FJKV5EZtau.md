@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-410 songs - 23 hr 29 min
+411 songs - 23 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Good Enough](https://open.spotify.com/track/7bT32pu1rHEiS6OGvbZwNV) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Good Enough / For Me \(BCee Remix\)](https://open.spotify.com/album/1HdBgugWBSkwqTfuJ4gn5I) | 4:20 | 2022-01-07 |  |
 | [GRANEW](https://open.spotify.com/track/2c0pZXVTxTHJVagqDQdFoG) | [Kabanagu](https://open.spotify.com/artist/5za1QX51X1jaDRmPL7Um7P) | [OYOGUMANE](https://open.spotify.com/album/4pNyP4fAlZihVZ3uAY1UOB) | 2:02 | 2022-07-14 | 2022-08-06 |
 | [grayscale](https://open.spotify.com/track/7bDVv5WI1ZPJOVNtJvqmYb) | [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT), [phritz](https://open.spotify.com/artist/4pVTHC0fGP57HJ7Wy6cbtt), [やぎぬまかな](https://open.spotify.com/artist/0hvNcP9hMHLy8Mz7cX6AsI) | [grayscale](https://open.spotify.com/album/6cdgPkXMC2CcgkNjEQ1VfN) | 5:26 | 2022-01-07 | 2023-05-16 |
-| [Green Hill Zone](https://open.spotify.com/track/0XjZFdCbGKM2OHecJa1185) | [Sprightly](https://open.spotify.com/artist/4kMqA4BxUx49x0FB8Ujtgc), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp), [Dj Cutman](https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8) | [Green Hill Zone](https://open.spotify.com/album/5IhsVRMo999J5TNdgrYPDP) | 2:55 | 2022-01-07 |  |
+| [Green Hill Zone](https://open.spotify.com/track/0XjZFdCbGKM2OHecJa1185) | [Sprightly](https://open.spotify.com/artist/4kMqA4BxUx49x0FB8Ujtgc), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp), [Dj Cutman](https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8) | [Green Hill Zone](https://open.spotify.com/album/5IhsVRMo999J5TNdgrYPDP) | 2:55 | 2022-01-07 | 2023-12-23 |
 | [Gum Gum Girl](https://open.spotify.com/track/4xrz4aF606oQ8xqlaoS3ZK) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [Gum Gum Girl](https://open.spotify.com/album/67O2yBZLKwAThCY5K3frvS) | 3:39 | 2022-03-11 | 2022-04-21 |
 | [Gurenge](https://open.spotify.com/track/5CPb3hIAHW1YAJsy5n2DQj) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Gurenge](https://open.spotify.com/album/4f6elU39RiUgIztaePyNff) | 3:24 | 2022-01-07 | 2023-02-17 |
 | [Gurenge](https://open.spotify.com/track/6kBaORe8Y7pJh00892d94Q) | [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Gurenge](https://open.spotify.com/album/0EH5DTITXNnjcVxlgUfQCX) | 3:24 | 2023-02-17 |  |
@@ -308,6 +308,7 @@
 | [Remember](https://open.spotify.com/track/60NupHAR0J54haO984RG5t) | [Herobust](https://open.spotify.com/artist/43tAs3kRWvyu1B7eZOv2pp) | [Remember](https://open.spotify.com/album/1LIS9D8Or6SmqFK8RPLiMH) | 3:58 | 2022-01-07 | 2023-01-27 |
 | [Ribbon Bone \[Silk Chaser\]](https://open.spotify.com/track/41OPsXjfAqEpu3LZkxvkXb) | [Oli XL](https://open.spotify.com/artist/3L3ejltt5dmjXkES4YSGKX), [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Ribbon Bone \[Silk Chaser\]](https://open.spotify.com/album/1WVXUTLIyRZiYnptpDoYky) | 3:37 | 2022-07-14 | 2022-08-06 |
 | [Rivers \(with Kyle Reynolds\)](https://open.spotify.com/track/4SP9TuXHcNuEG5xIzdd7Jq) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [Duality](https://open.spotify.com/album/4qQVdqYI0FMB8A9UoXSorx) | 2:57 | 2023-11-10 | 2023-12-16 |
+| [roll it down](https://open.spotify.com/track/60YXipkRAfg54PRGVPyBmp) | [dear cupid.](https://open.spotify.com/artist/31nUrCOQRMlh4cg7aUpD43) | [roll it down](https://open.spotify.com/album/1GvPMBHnPFLOFPldATe7wQ) | 2:57 | 2023-12-15 |  |
 | [Runaway](https://open.spotify.com/track/1ojGSqkSVnxU5tlu5JWlel) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Runaway](https://open.spotify.com/album/1R0DbDkDysbJ6sb67stjMU) | 3:55 | 2023-03-10 |  |
 | [Runaway](https://open.spotify.com/track/6KGdBk6B5wqMdzjBsxsk33) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Runaway](https://open.spotify.com/album/7uWgf6BGGUW6E2y9Pljzxa) | 3:55 | 2022-01-07 | 2023-02-16 |
 | [Rush](https://open.spotify.com/track/09SNUbxd7e1cn6MTYhdz6P) | [Kilamanzego](https://open.spotify.com/artist/14tWfD2wOEhMgqZ3A4PfKT) | [Rush](https://open.spotify.com/album/6TzwR0RkTOWE4Z1UO8dXZD) | 2:52 | 2022-12-16 | 2023-03-02 |

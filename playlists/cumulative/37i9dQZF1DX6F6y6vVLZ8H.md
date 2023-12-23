@@ -4,7 +4,7 @@
 
 > A collection of songs from Tony Hawk's Pro Skater 1 + 2.
 
-74 songs - 3 hr 42 min
+75 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Evil Eye](https://open.spotify.com/track/5UaB0lA47nZRJRrUk3AlEI) | [Fu Manchu](https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k) | [The Action Is Go](https://open.spotify.com/album/7xYJinzZ19pVPVmEAakYv9) | 3:30 | 2020-05-15 |  |
 | [Firecracker](https://open.spotify.com/track/7cJvf5ZrfXDTcYHq1iXuRW) | [Strung Out](https://open.spotify.com/artist/07ATE522e8aDsEb0JVLYqg) | [Suburban Teenage Wasteland Blues \(Reissue\)](https://open.spotify.com/album/76f9KTJVuMIpYRv2hsW8R0) | 2:54 | 2020-07-28 |  |
 | [Five Lessons Learned](https://open.spotify.com/track/23RuCuUzVU8KMJOjJqH424) | [Swingin' Utters](https://open.spotify.com/artist/6zXHaJc2ZqAmSyxT606ccM) | [Five Lessons Learned](https://open.spotify.com/album/0fpJZ5vCKAfd2caUuFEit6) | 1:55 | 2020-05-15 |  |
-| [Flamingo](https://open.spotify.com/track/34csddijqvOGw4HlgNMStZ) | [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq) | [Flamingo](https://open.spotify.com/album/2xVOSarKUyOipe4puVxoNU) | 3:51 | 2020-07-28 |  |
+| [Flamingo](https://open.spotify.com/track/34csddijqvOGw4HlgNMStZ) | [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq) | [Flamingo](https://open.spotify.com/album/2xVOSarKUyOipe4puVxoNU) | 3:51 | 2020-07-28 | 2023-12-23 |
+| [Flamingo](https://open.spotify.com/track/3P0VV8RBhb1M1ThEkFseh9) | [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq) | [Between Somewhere](https://open.spotify.com/album/14ZCDTbf3dNQR5wF5AYKfk) | 3:51 | 2020-07-28 |  |
 | [Guerrilla Radio](https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [The Battle Of Los Angeles](https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX) | 3:26 | 2020-05-15 |  |
 | [Heavy Metal Winner](https://open.spotify.com/track/7tt28wbdKmFqZZXsCh4tTk) | [Consumed](https://open.spotify.com/artist/7bXsAsoUGJlM4VVB9xOmn2) | [Breakfast at Pappa's](https://open.spotify.com/album/33nqyAuvFDFNON9ljSqF6r) | 2:29 | 2020-05-15 |  |
 | [Here and Now](https://open.spotify.com/track/5lsMyHFs19kw0jYNP0MNKK) | [The Ernies](https://open.spotify.com/artist/1kNq8yT2S4lD5jetHxcyug) | [Meson Ray](https://open.spotify.com/album/2JHRbAV8L0f6P6cbZItoI2) | 3:30 | 2020-05-15 |  |

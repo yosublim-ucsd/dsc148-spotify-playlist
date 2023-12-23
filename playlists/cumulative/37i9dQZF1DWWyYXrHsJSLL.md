@@ -4,7 +4,7 @@
 
 > "This playlist is giving vibes and should be played to pump yourself up b/c you are THAT girl!!!" Cover: Brandon Edelman
 
-38 songs - 2 hr 14 min
+39 songs - 2 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Toxic](https://open.spotify.com/track/3NGc1KHRSvNPjQBx93AZRd) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Summer Songs: Tik Tok Hits](https://open.spotify.com/album/7yMyVt6UBicleRklmgfyTF) | 3:18 | 2022-10-04 | 2022-11-13 |
 | [Wannabe](https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 2:53 | 2022-10-04 |  |
 | [Way 2 Sexy \(with Future & Young Thug\)](https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:17 | 2022-10-04 |  |
-| [We Takin' Over](https://open.spotify.com/track/6HkfO3HyRSUjcGocgtg6bl) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [We The Best](https://open.spotify.com/album/0io330i8NP1Y1itTrFhSJX) | 4:23 | 2022-10-04 |  |
+| [We Takin' Over](https://open.spotify.com/track/4cZHdXh4bvtDripgwzwO81) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [We The Best](https://open.spotify.com/album/3fuoUsluBXjdFjpt7sBKwf) | 4:23 | 2022-10-04 |  |
+| [We Takin' Over](https://open.spotify.com/track/6HkfO3HyRSUjcGocgtg6bl) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [We The Best](https://open.spotify.com/album/0io330i8NP1Y1itTrFhSJX) | 4:23 | 2022-10-04 | 2023-12-23 |
 
 \*This playlist was first scraped on 2022-10-06. Prior content cannot be recovered.

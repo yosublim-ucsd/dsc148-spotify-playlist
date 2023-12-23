@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Bad Boys",
+        "url": "https://open.spotify.com/album/7KC6ODLTHNAlrJnObUIqaw"
+      },
+      "artists": [
+        {
+          "name": "DG IMMORTALS",
+          "url": "https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Bad Boys",
+      "url": "https://open.spotify.com/track/5WkaECgnFSCeSHKBoRGoNs"
+    },
+    {
+      "album": {
         "name": "Badmash",
         "url": "https://open.spotify.com/album/1UdeL0ma0I1LT1PAO4ut2B"
       },
@@ -654,7 +672,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 240024,
       "name": "Fitness",
       "url": "https://open.spotify.com/track/1HzObZPrlMd5qZuTVm2VND"
@@ -1016,7 +1034,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 187552,
       "name": "Jigra",
       "url": "https://open.spotify.com/track/6h3ILDHEDee8YlsZhfMIjB"
@@ -1042,6 +1060,32 @@
       "duration_ms": 159529,
       "name": "Kah Diye",
       "url": "https://open.spotify.com/track/1DX4Pj3IGtk7LvcVPC6Eoo"
+    },
+    {
+      "album": {
+        "name": "Koi Na",
+        "url": "https://open.spotify.com/album/7106si82R8FQw7KApQKk2n"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Uchana Amit",
+          "url": "https://open.spotify.com/artist/5bUGkhve6dkRRnwUH12IHW"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Koi Na",
+      "url": "https://open.spotify.com/track/64qn5oeo6Dcrur3dsu0gsJ"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "\"I am never drinking again\".",
-  "num_followers": 798,
+  "num_followers": 908,
   "original_name": "hAngOvEr fRiEnDLy rOcK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmFmNGE1MmIxZjVmODU3ZTdhMmM3M2UxZGM4ZGIxMzg5MDQzMjI3",
+  "snapshot_id": "MCxlNWFiNGM5ZjViNWNmNWZkNDAzZWU1ZTFiZjI2ZTIzMDU1ZjEzZTg2",
   "tracks": [
     {
       "added_at": "2023-10-25 14:26:42",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-10-25 14:26:42",
       "album": {
-        "name": "Ultraviolet Disguise (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3FpGaltgrkpihz2wL76YRm"
-      },
-      "artists": [
-        {
-          "name": "The Technicolors",
-          "url": "https://open.spotify.com/artist/6hQS54VPpxunuwR0W7usuo"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Tonight You Are Mine",
-      "url": "https://open.spotify.com/track/0Sjz8pTu8vcVvGP5rtyh3Q"
-    },
-    {
-      "added_at": "2023-10-25 14:26:42",
-      "album": {
         "name": "Surface Sounds",
         "url": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 284798,
       "name": "Hey Gringo",
       "url": "https://open.spotify.com/track/4aPeeN8IYOCMNBGI0p7169"
+    },
+    {
+      "added_at": "2023-10-25 14:26:42",
+      "album": {
+        "name": "Ultraviolet Disguise (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3FpGaltgrkpihz2wL76YRm"
+      },
+      "artists": [
+        {
+          "name": "The Technicolors",
+          "url": "https://open.spotify.com/artist/6hQS54VPpxunuwR0W7usuo"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Tonight You Are Mine",
+      "url": "https://open.spotify.com/track/0Sjz8pTu8vcVvGP5rtyh3Q"
     },
     {
       "added_at": "2023-10-25 14:26:42",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-10-25 14:26:42",
       "album": {
+        "name": "Break the Cycle",
+        "url": "https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "Epiphany",
+      "url": "https://open.spotify.com/track/43TQVltxEHaqCKpSsttaT5"
+    },
+    {
+      "added_at": "2023-10-25 14:26:42",
+      "album": {
         "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
         "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 192825,
       "name": "Don't Come Down",
       "url": "https://open.spotify.com/track/47ojH5LeQhl1ZltSAHBEFF"
-    },
-    {
-      "added_at": "2023-10-25 14:26:42",
-      "album": {
-        "name": "Break the Cycle",
-        "url": "https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt"
-      },
-      "artists": [
-        {
-          "name": "Staind",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
-        }
-      ],
-      "duration_ms": 256133,
-      "name": "Epiphany",
-      "url": "https://open.spotify.com/track/43TQVltxEHaqCKpSsttaT5"
     },
     {
       "added_at": "2023-10-25 14:26:42",

@@ -4,12 +4,13 @@
 
 > <a href="https://www.hardlystrictlybluegrass.com/">Tune in</a> Oct\. 1\-3rd starting @ 1pm PT/4pm ET as HSB brings the music we all enjoy in the park to your living rooms and backyards.
 
-71 songs - 5 hr 11 min
+72 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Hard Rain's Gonna Fall \(feat\. John Craigie & Ben Morrison\)](https://open.spotify.com/track/4IQXCbuBrM6FwO8jSEJx4M) | [Rainbow Girls](https://open.spotify.com/artist/5qV8qZrppecEsKTWwCCtA7), [Ben Morrison](https://open.spotify.com/artist/1OIHhGpotlUsZWE0HOIep5), [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK) | [Give the People What They Want](https://open.spotify.com/album/1wAjWPzXGAgwzDK9Nkb9vh) | 6:21 | 2021-09-29 |  |
-| [Alabama Bound](https://open.spotify.com/track/08TIEb8UlMX7e0QyPYPgjf) | [Peter Rowan](https://open.spotify.com/artist/52FOkBVb83F2QduWKRqmhm) | [Carter Stanley's Eyes](https://open.spotify.com/album/2xUrlmu5IIK2oy2PEA8I4h) | 2:16 | 2021-09-29 |  |
+| [Alabama Bound](https://open.spotify.com/track/08TIEb8UlMX7e0QyPYPgjf) | [Peter Rowan](https://open.spotify.com/artist/52FOkBVb83F2QduWKRqmhm) | [Carter Stanley's Eyes](https://open.spotify.com/album/2xUrlmu5IIK2oy2PEA8I4h) | 2:16 | 2021-09-29 | 2023-12-23 |
+| [Alabama Bound](https://open.spotify.com/track/1qbvuoI8EK1MoY2b5uqTr2) | [Peter Rowan](https://open.spotify.com/artist/52FOkBVb83F2QduWKRqmhm) | [Carter Stanley's Eyes](https://open.spotify.com/album/2UlZjIxlwzymbbDA4Msycy) | 2:16 | 2021-09-29 |  |
 | [Astral Plane](https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:38 | 2021-09-29 |  |
 | [B\-Flat Ontology](https://open.spotify.com/track/37vZ7N7cE9eIq3P1mKaBgi) | [Ceramic Dog](https://open.spotify.com/artist/2EKKgp12AZDmsFbMU59X0C), [Marc Ribot](https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn) | [Hope](https://open.spotify.com/album/2YNMXnSCNMOfv2bdYtthZu) | 5:40 | 2021-09-29 |  |
 | [B\-Flat Ontology](https://open.spotify.com/track/69pkS9mwKm0oVk9yyVLxaj) | [Ceramic Dog](https://open.spotify.com/artist/2EKKgp12AZDmsFbMU59X0C), [Marc Ribot](https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn) | [Hope](https://open.spotify.com/album/6lGi8cCtoERQXSpWnb0Hmr) | 5:40 | 2021-09-29 | 2023-04-30 |

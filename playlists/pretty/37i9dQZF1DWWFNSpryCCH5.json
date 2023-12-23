@@ -1,12 +1,12 @@
 {
   "description": "Revive aquellas grandes canciones desenchufadas.",
-  "num_followers": 1079627,
+  "num_followers": 1079701,
   "original_name": "Grandes Unplugged",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGQ1OGUyNmM2YWNjZTQ4YjQ3ZjQ4NWU1N2IxNjFiNTExNmEyM2Nm",
+  "snapshot_id": "MCw1MTI5MDcxYjQ1YTgyMWRmZGU4YmIxZDdlOWJiY2Q3Y2I4YzcwOWNh",
   "tracks": [
     {
       "added_at": "2021-02-10 21:16:07",
@@ -643,6 +643,34 @@
     {
       "added_at": "2021-02-10 21:16:07",
       "album": {
+        "name": "MTV Unplugged (En Vivo)",
+        "url": "https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "Melissa",
+          "url": "https://open.spotify.com/artist/5OWPM4ybplRvlK9RJgAtSm"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        }
+      ],
+      "duration_ms": 305120,
+      "name": "Prometiste (En Vivo)",
+      "url": "https://open.spotify.com/track/1VHkHdFww8aXRTqj4VVSwC"
+    },
+    {
+      "added_at": "2021-02-10 21:16:07",
+      "album": {
         "name": "El regreso",
         "url": "https://open.spotify.com/album/3hIwt5XJuGCaTgSO6DqL7N"
       },
@@ -859,22 +887,6 @@
       "duration_ms": 238841,
       "name": "Los Malaventurados No Lloran - MTV Unplugged",
       "url": "https://open.spotify.com/track/1Qm69nuJeRLCmu4c5MnplS"
-    },
-    {
-      "added_at": "2021-02-10 21:16:07",
-      "album": {
-        "name": "Desde Adentro - Impuesto de Fe (En Vivo)",
-        "url": "https://open.spotify.com/album/6eWrCdzfRUvNMDYWGHIExi"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 221906,
-      "name": "Putita - En Vivo",
-      "url": "https://open.spotify.com/track/5uUxYqx7h1KF5LR7rVQpN5"
     }
   ],
   "unique_name": "Grandes Unplugged",

@@ -11996,10 +11996,28 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 205214,
       "name": "Think O",
       "url": "https://open.spotify.com/track/2sJRbtfngu3ATkXmamiSXe"
+    },
+    {
+      "album": {
+        "name": "Think O",
+        "url": "https://open.spotify.com/album/31MnDoAsVktkeE2sF4TwX2"
+      },
+      "artists": [
+        {
+          "name": "Marvel",
+          "url": "https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205214,
+      "name": "Think O",
+      "url": "https://open.spotify.com/track/5rKrdRnTc2lYasExecRwE3"
     },
     {
       "album": {

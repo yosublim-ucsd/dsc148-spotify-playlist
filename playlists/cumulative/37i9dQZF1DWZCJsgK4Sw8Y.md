@@ -4,7 +4,7 @@
 
 > Leave no rock undiscovered and explore the essential foundations of Christian rock.
 
-108 songs - 6 hr 44 min
+109 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [Thicker](https://open.spotify.com/track/5xYOwMkV5NGUYz2lfhR4se) | [Chasing Furies](https://open.spotify.com/artist/4YQBXdwBcvt5mvjfzhts7t) | [With Abandon](https://open.spotify.com/album/08AZTRKahrB3VLMQSNlaEl) | 3:57 | 2021-07-30 |  |
 | [This Goes Out To You](https://open.spotify.com/track/0wBNVJm6ivrFUlSucNVCkf) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Awakening](https://open.spotify.com/album/3ileNPLE1vlimaNhDXtEzs) | 3:50 | 2021-07-30 |  |
 | [This Is A Call](https://open.spotify.com/track/4vhubdDhCQbqCxeGyiCtbu) | [Thousand Foot Krutch](https://open.spotify.com/artist/6GfiCQDFYANz5wUkSmb3Dr) | [The Ultimate Collection](https://open.spotify.com/album/5njAxKASvYBhOEByLb3hw0) | 3:50 | 2021-07-30 |  |
-| [Through It All](https://open.spotify.com/track/3nB5TJEl7taRMwlaoHiOry) | [Spoken](https://open.spotify.com/artist/0Jn8rIJ5ebXnyZh9s5bI4l) | [Illusion](https://open.spotify.com/album/2PDQgUQiITwFIdNz5QiL5w) | 3:36 | 2021-07-30 |  |
+| [Through It All](https://open.spotify.com/track/1XBWuNsvYOoXH0MBC0TrJs) | [Spoken](https://open.spotify.com/artist/0Jn8rIJ5ebXnyZh9s5bI4l) | [Illusion](https://open.spotify.com/album/4ygdbM01KtuANNhM3yLtmV) | 3:36 | 2021-07-30 |  |
+| [Through It All](https://open.spotify.com/track/3nB5TJEl7taRMwlaoHiOry) | [Spoken](https://open.spotify.com/artist/0Jn8rIJ5ebXnyZh9s5bI4l) | [Illusion](https://open.spotify.com/album/2PDQgUQiITwFIdNz5QiL5w) | 3:36 | 2021-07-30 | 2023-12-23 |
 | [Through It All](https://open.spotify.com/track/76G0nDbOfQClIxisJD2IIB) | [Spoken](https://open.spotify.com/artist/0Jn8rIJ5ebXnyZh9s5bI4l) | [Illusion](https://open.spotify.com/album/3jFjVsZPwUwfrkSvNnfxA0) | 3:36 | 2021-07-30 | 2022-07-29 |
 | [Unbreakable](https://open.spotify.com/track/6M9vEm3Cy3PHr3QkXRX6x3) | [Fireflight](https://open.spotify.com/artist/5v6wlK6GCKVovWMbPqSHNy) | [Unbreakable](https://open.spotify.com/album/4vmnwiWRiSgbcU1idqfuGS) | 3:21 | 2021-07-30 |  |
 | [We Are the Brave](https://open.spotify.com/track/5YbZ8nnxK31y150KTiwUQX) | [VERIDIA](https://open.spotify.com/artist/5U1ivAMtZn5wFOvoua7M2A) | [Inseparable](https://open.spotify.com/album/7rTebVca2DpZquSuc6pApS) | 3:35 | 2021-07-30 |  |

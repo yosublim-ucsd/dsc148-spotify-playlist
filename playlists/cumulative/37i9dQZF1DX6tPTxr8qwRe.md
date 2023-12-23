@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: Ellise
+> Dark, hard hitting pop\. Cover: Nico & Chelsea
 
-557 songs - 1 day 1 hr 34 min
+558 songs - 1 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Addicted](https://open.spotify.com/track/5ZfkwMYwNKZFlMwxhD9Oyv) | [Chloe Jane](https://open.spotify.com/artist/37YnbbW3oQAg9L3qYho0rv) | [Addicted](https://open.spotify.com/album/4WmlhCNjjitpHUycV4NWec) | 2:17 | 2022-12-23 | 2023-02-04 |
 | [Aimed to Kill](https://open.spotify.com/track/3EZekHDwiGXJo7tH1Jolhv) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Aimed to Kill](https://open.spotify.com/album/7dwwAbCnp5xxAD1Hz0P3Tf) | 3:22 | 2022-04-15 | 2022-08-13 |
 | [Aimed to Kill](https://open.spotify.com/track/5Xx1X1rBk5fpxuhvvtt4th) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Aimed to Kill](https://open.spotify.com/album/1EYaxqjZ8sMfYprcW3XVij) | 3:22 | 2022-04-15 | 2022-07-29 |
+| [Alien](https://open.spotify.com/track/2YdDd0WUsWLWZq0Puz0Ypo) | [Nico & Chelsea](https://open.spotify.com/artist/2D3SlrKnJAnNyxf2ty2a97), [Nico Collins](https://open.spotify.com/artist/1iGwHlKgQKtdrtzmlwZ71U), [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG) | [Alien](https://open.spotify.com/album/23Id7uPv0luo4pJpzKYBAO) | 3:13 | 2023-12-22 |  |
 | [Alive and Unwell](https://open.spotify.com/track/7ffThXwGKRO4KRM1rVyXGJ) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/3LiuUi849agq0ZVwLBIup8) | 2:01 | 2022-10-28 | 2023-04-01 |
 | [ALL ABOUT ME](https://open.spotify.com/track/3EtksbbfZ5mNPwMVkLhWhL) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [ALL ABOUT ME](https://open.spotify.com/album/2VK0WXTW6jGf4BsryzurVP) | 1:37 | 2022-04-01 | 2022-07-09 |
 | [Allergic](https://open.spotify.com/track/28CBk22DxTyK3uJt80fZTj) | [HAVEN](https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd) | [Allergic](https://open.spotify.com/album/2ci6xkWQQXTaCEk5FMYV0g) | 2:24 | 2022-02-04 | 2022-07-02 |
@@ -464,7 +465,7 @@
 | [SUBSTANCE](https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [SUBSTANCE](https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX) | 2:40 | 2022-07-15 | 2022-08-20 |
 | [Sucker](https://open.spotify.com/track/38RJVU2LTPjW7xiXqCUlDn) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Sucker](https://open.spotify.com/album/27eDRScCURk8HRqIY0mPqM) | 2:55 | 2022-04-15 | 2022-08-27 |
 | [SUCKER4PAIN](https://open.spotify.com/track/5pZdqQTXSH5A1tLYg3JiPw) | [Paycheck](https://open.spotify.com/artist/1xd5p7u9w8mQc2nU8GwBib), [Jxve](https://open.spotify.com/artist/2WupjRbsK0tgRY3pFyF37o) | [SUCKER4PAIN](https://open.spotify.com/album/7wMQoZWDeXJBeldAlKWMs2) | 2:32 | 2022-01-28 | 2022-04-23 |
-| [Sugar Baby](https://open.spotify.com/track/1eH3H5BjzfeicRnl5dJl1O) | [Rachel Lorin](https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2), [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [Sugar Baby](https://open.spotify.com/album/5w5LtU5vSUNEEsjWzmdYTW) | 2:56 | 2023-07-28 |  |
+| [Sugar Baby](https://open.spotify.com/track/1eH3H5BjzfeicRnl5dJl1O) | [Rachel Lorin](https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2), [Call Me Karizma](https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt) | [Sugar Baby](https://open.spotify.com/album/5w5LtU5vSUNEEsjWzmdYTW) | 2:56 | 2023-07-28 | 2023-12-23 |
 | [Sugared Up](https://open.spotify.com/track/7rrW0HPdHSOlXQtzTvDxpb) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Sugared Up](https://open.spotify.com/album/7918WlTCOxkQ1kV12Ey7my) | 2:33 | 2021-11-12 | 2022-02-19 |
 | [Super Over](https://open.spotify.com/track/2z3Kpfc7nwzK0pcBMFRMxr) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Super Over](https://open.spotify.com/album/3J03smHGuMPGEReWWUEQnq) | 2:44 | 2023-06-30 | 2023-12-09 |
 | [Superhuman \(with K.Flay\)](https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Superhuman \(with K.Flay\)](https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs) | 4:00 | 2022-01-28 | 2022-03-18 |

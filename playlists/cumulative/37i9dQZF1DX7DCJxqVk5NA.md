@@ -4,7 +4,7 @@
 
 > HBCU Anthems! Curated by Texas Southern University's own Megan Thee Stallion
 
-63 songs - 3 hr 56 min
+64 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Rock Wit U \(Awww Baby\)](https://open.spotify.com/track/6pWzCKTrKrwbUPzY8RLCoP) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Chapter II](https://open.spotify.com/album/4vjeaWsf9UH2ecdKXAZaq2) | 3:29 | 2021-11-12 |  |
 | [Rock Yo Hips](https://open.spotify.com/track/76dZuMVXjIyLPRLv00skGd) | [Crime Mob](https://open.spotify.com/artist/5A7d4sfe5ZY1RRf90zlUeo) | [Hated on Mostly](https://open.spotify.com/album/0UkPbHf0xnTbNTLn6YUajE) | 3:46 | 2021-11-12 |  |
 | [Shake That Monkey \(feat\. Lil' Jon & The EastSide Boyz\)](https://open.spotify.com/track/3XabgBQYC7H80agKcAq83Y) | [Too $hort](https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Eastside Boyz](https://open.spotify.com/artist/79Pqjevn76nsm1KiEgWuyS) | [Married To The Game](https://open.spotify.com/album/2hDaKG2DTGRCBoCS08GBsW) | 4:38 | 2021-11-12 |  |
-| [She Twerkin](https://open.spotify.com/track/4foyyTPR2jUcATliukBkd9) | [Ca$h Out](https://open.spotify.com/artist/7Kp7SzuRuNiPFCy7JIwnLx) | [Let's Get It](https://open.spotify.com/album/3fzJGkfNGFFQb5Fx42ABPm) | 2:52 | 2021-11-12 |  |
+| [She Twerkin](https://open.spotify.com/track/4foyyTPR2jUcATliukBkd9) | [Ca$h Out](https://open.spotify.com/artist/7Kp7SzuRuNiPFCy7JIwnLx) | [Let's Get It](https://open.spotify.com/album/3fzJGkfNGFFQb5Fx42ABPm) | 2:52 | 2021-11-12 | 2023-12-23 |
+| [She Twerkin](https://open.spotify.com/track/4ngnFeJ58ivjFl0gFD1Osh) | [Ca$h Out](https://open.spotify.com/artist/7Kp7SzuRuNiPFCy7JIwnLx) | [Let's Get It](https://open.spotify.com/album/7w4MsLOT6FdH3ICSfscJ5w) | 2:52 | 2021-11-12 |  |
 | [Simon Says \(feat\. Juicy J\)](https://open.spotify.com/track/4l2maonUDTMvGGT4bmkB3h) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Fever](https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci) | 3:20 | 2021-11-12 |  |
 | [So What](https://open.spotify.com/track/0Uc706myy6Th7I6KQ9xA1x) | [Field Mob](https://open.spotify.com/artist/0Uo6kyjrbQoZBlcXsMb8Vm), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Light Poles And Pine Trees](https://open.spotify.com/album/4ZIvx3lm0ytWm06bH8DAwR) | 3:36 | 2021-11-12 |  |
 | [Southside Forever Freestyle](https://open.spotify.com/track/5hmQVsjZGozYCBOCHDYoYl) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 2:57 | 2021-11-12 |  |

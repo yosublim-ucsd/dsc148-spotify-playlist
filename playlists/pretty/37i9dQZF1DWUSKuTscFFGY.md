@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 
 > Découvrez les meilleures nouveautés pop\. Photo : Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,895 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,941 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 | 8 | [Sleepwalking](https://open.spotify.com/track/4axflVhTuU55y1ZYyLJ22X) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Sleepwalking](https://open.spotify.com/album/1WkPJ7h3W8VNTOaRWWsATU) | 3:48 |
 | 9 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 |
 | 10 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj) | 2:50 |
-| 11 | [Stuck In Paradise](https://open.spotify.com/track/5nECu2DSgwrKvWMMTuX5fV) | [MCN2](https://open.spotify.com/artist/343xgiGnBTnEyNmf0N6aeh), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp), [Aexcit](https://open.spotify.com/artist/2HpYCHV3bvQ71jmohAnBL8) | [Stuck In Paradise](https://open.spotify.com/album/4VLxVPUNIduswny0vvnpzo) | 2:04 |
+| 11 | [Stuck In Paradise](https://open.spotify.com/track/0bKY5wu5Ciq5s86comjeeG) | [MCN2](https://open.spotify.com/artist/343xgiGnBTnEyNmf0N6aeh), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp), [Aexcit](https://open.spotify.com/artist/2HpYCHV3bvQ71jmohAnBL8) | [Stuck In Paradise](https://open.spotify.com/album/5bKc3tsagrs0CDdjOHaV5U) | 2:04 |
 | 12 | [Hard to Love](https://open.spotify.com/track/6QV6miSjUtqppivpjwDZgI) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Hard To Love](https://open.spotify.com/album/0jXxDV0TkGE6f5MezsGFrU) | 2:47 |
 | 13 | [Dance Alone](https://open.spotify.com/track/5BnL7i0syYE3KK8RgbK6hn) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Dance Alone](https://open.spotify.com/album/1CJFY6yBSHhos1JkjSVBK8) | 3:04 |
 | 14 | [we're all eating each other](https://open.spotify.com/track/6BrfgV35h3NfTtIdMqhmFQ) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [playpen](https://open.spotify.com/album/7faCvxgZwemTlxkh8EORQD) | 2:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSKuTscFFGY.md) - [plain]
 | 49 | [BITTERSWEET](https://open.spotify.com/track/4Ap4XPfDknSxcqBTVbyEqp) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [BITTERSWEET](https://open.spotify.com/album/5aVRKxppPPFxvPYGXNerNX) | 2:38 |
 | 50 | [Lava Lamp](https://open.spotify.com/track/1MQvmrKpUj7mARu12pkbSV) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Crying in the Carwash](https://open.spotify.com/album/3NLGtBlKz64dChSLbLQqzV) | 3:00 |
 
-Snapshot ID: `MCxkMGNmYzY3MjhmMjkxYmJlYzk0NGIwYTJhMWVjZmUwZDJjN2MzYjFi`
+Snapshot ID: `MCw0YjUwNDIwNDY3NDZmZjdkNGFlMzZiNWM0NTkwZTU1NDNjODFmYmM0`

@@ -2295,6 +2295,24 @@
     },
     {
       "album": {
+        "name": "Oceaan",
+        "url": "https://open.spotify.com/album/60F6MFfL8sCz9R21HCZ6Ac"
+      },
+      "artists": [
+        {
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162604,
+      "name": "Oceaan",
+      "url": "https://open.spotify.com/track/14rrJ4fhTTcFPgmCCtBoku"
+    },
+    {
+      "album": {
         "name": "The Singles Collection",
         "url": "https://open.spotify.com/album/1CpitDOBAGiMnc1tmxlsGY"
       },
@@ -2306,7 +2324,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 164757,
       "name": "Oceaan",
       "url": "https://open.spotify.com/track/7GWU6dQFjYF5YpsAUwZfGq"

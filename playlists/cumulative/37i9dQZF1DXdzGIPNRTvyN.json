@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 150884,
       "name": "432 Hz Omgivande",
       "url": "https://open.spotify.com/track/2GJufgGBgz94AxyMgZ9mjg"
@@ -398,6 +398,24 @@
       "duration_ms": 162000,
       "name": "Boy",
       "url": "https://open.spotify.com/track/6onnyQliInBgkmiKD01kzX"
+    },
+    {
+      "album": {
+        "name": "By The River",
+        "url": "https://open.spotify.com/album/4zd6B4p1VWTVpM0i2Pww4V"
+      },
+      "artists": [
+        {
+          "name": "I thought about time",
+          "url": "https://open.spotify.com/artist/6wzgGTV6WrSvWxzNIpvSd8"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187107,
+      "name": "By The River",
+      "url": "https://open.spotify.com/track/2PMTTEuXOznRQEZubxiPrd"
     },
     {
       "album": {

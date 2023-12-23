@@ -870,7 +870,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 189799,
       "name": "Never Have I Ever - Yo Nunca He... / Spanish Version",
       "url": "https://open.spotify.com/track/73hSwzanDMxHtmzmXiPpzK"
@@ -1099,6 +1099,28 @@
     },
     {
       "album": {
+        "name": "unas ac\u00fasticas",
+        "url": "https://open.spotify.com/album/3oHwatvS7nbzOzbMwiAv1l"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174560,
+      "name": "Salto de Fe",
+      "url": "https://open.spotify.com/track/48EdXAASoIWLZviugfzfkw"
+    },
+    {
+      "album": {
         "name": "En Medio De Este Ruido",
         "url": "https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj"
       },
@@ -1176,6 +1198,28 @@
       "duration_ms": 196040,
       "name": "Sobreviviendo",
       "url": "https://open.spotify.com/track/3dOQwWB2ootaunCEIFxLZ3"
+    },
+    {
+      "album": {
+        "name": "unas ac\u00fasticas",
+        "url": "https://open.spotify.com/album/3oHwatvS7nbzOzbMwiAv1l"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202573,
+      "name": "Somos Instantes - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4Pxfoyu1l2rFPCYzdYqdrV"
     },
     {
       "album": {

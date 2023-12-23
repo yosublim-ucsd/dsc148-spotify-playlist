@@ -1,12 +1,12 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 96993,
+  "num_followers": 97050,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTM3YTkwNDhkNDRmYmE4MjgzZGNkZWI5ZTA4YzBlNDVlZGQ2YzE0",
+  "snapshot_id": "MCw5OWMwZTZhNjk0YjkyYzM4ZDNkNzIyOGM0NTk4NjlhNzQzZWExMDA0",
   "tracks": [
     {
       "added_at": "2023-07-14 16:56:11",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
+        "name": "Florescer",
+        "url": "https://open.spotify.com/album/4mnmZ8vTDecixJuGcUbhUI"
+      },
+      "artists": [
+        {
+          "name": "Pamela",
+          "url": "https://open.spotify.com/artist/2utzgF5vzJfGqZPHBGFtrG"
+        }
+      ],
+      "duration_ms": 296286,
+      "name": "Florescer",
+      "url": "https://open.spotify.com/track/63dnEh5jxM49lNHRRgvxOG"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
         "name": "Amar pra Sempre",
         "url": "https://open.spotify.com/album/3xmpGzhNKqpZcyjRNruEDR"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 285544,
       "name": "Amar pra Sempre",
       "url": "https://open.spotify.com/track/5QzEmPJCu2MSyaR5OpjVqr"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
-        "name": "Florescer",
-        "url": "https://open.spotify.com/album/4mnmZ8vTDecixJuGcUbhUI"
-      },
-      "artists": [
-        {
-          "name": "Pamela",
-          "url": "https://open.spotify.com/artist/2utzgF5vzJfGqZPHBGFtrG"
-        }
-      ],
-      "duration_ms": 296286,
-      "name": "Florescer",
-      "url": "https://open.spotify.com/track/63dnEh5jxM49lNHRRgvxOG"
     },
     {
       "added_at": "2023-07-14 16:56:11",

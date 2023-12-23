@@ -4,7 +4,7 @@
 
 > Yo soy tu sangre, mi viejo, soy tu silencio y tu tiempo...
 
-248 songs - 12 hr 49 min
+249 songs - 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Bandido De Amores](https://open.spotify.com/track/2GWuXm5FRTGdYai9L5X5zV) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [12 Éxitos Con Banda](https://open.spotify.com/album/1HIs24863oYGbQWrdfCUCX) | 2:58 | 2022-06-07 | 2022-11-12 |
 | [Besando La Cruz \- Versión Mariachi](https://open.spotify.com/track/4WYshCZOAaCGFRcXfJiOEZ) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Con Mariachi](https://open.spotify.com/album/6ZmAvrZsc7atoSDqqODDVF) | 3:31 | 2022-06-07 |  |
 | [Besos Y Copas](https://open.spotify.com/track/1ts5XhyIwISu9UJkzdDQfn) | [Chayito Valdez](https://open.spotify.com/artist/6gIehxc3KkKZYb4ktiuQ04) | [15 Éxitos: Chayito Valdez](https://open.spotify.com/album/36a05M8c3EUno9kl5gePDs) | 3:02 | 2021-12-29 |  |
-| [Bohemio de Afición](https://open.spotify.com/track/0s5Do4KNuYlcF0L9ZzDk6n) | [Gerardo Reyes](https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e) | [Mexicanísimo 24 Exitos](https://open.spotify.com/album/35AlIhXgxqgkG4Zj8NiM7S) | 3:14 | 2022-06-07 |  |
+| [Bohemio de Afición](https://open.spotify.com/track/0s5Do4KNuYlcF0L9ZzDk6n) | [Gerardo Reyes](https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e) | [Mexicanísimo 24 Exitos](https://open.spotify.com/album/35AlIhXgxqgkG4Zj8NiM7S) | 3:14 | 2022-06-07 | 2023-12-23 |
 | [Bohemio de Afición](https://open.spotify.com/track/64CGijDJon1P1LVZPQhN2l) | [Gerardo Reyes](https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e) | [Bohémio De Afición](https://open.spotify.com/album/46eHKj2sjHO6Gxmq1ywzI6) | 3:16 | 2021-12-29 | 2022-07-29 |
 | [Busca Otro Amor \(1968\)](https://open.spotify.com/track/2nnw5l4JCsIFvwl63Z6hFO) | [Las Jilguerillas](https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV) | [45 Anos De Exitos](https://open.spotify.com/album/3OwlCqdi85JnzFeaPnyHZE) | 3:15 | 2021-12-29 |  |
 | [Cabrón y Vago \- En Vivo](https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Puerta Abierta, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg) | 2:22 | 2022-06-17 |  |
@@ -226,6 +226,7 @@
 | [Tu Delirio](https://open.spotify.com/track/550m6FRrrMgS2BvrZY2j5l) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [Exitos De Oro](https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP) | 3:04 | 2022-06-07 |  |
 | [Tu Sigues Siendo El Mismo](https://open.spotify.com/track/3EAoVI4vLl3FanZ6ivOkWa) | [Las Hermanas Padilla](https://open.spotify.com/artist/2PvsDSuPlWMsCnMcdnQzAZ) | [Boleros Rancheros \- Feria Mexicana](https://open.spotify.com/album/1uUbHmJrPsN8nSXwNkjzMa) | 3:50 | 2021-12-29 | 2023-04-16 |
 | [Tus Desprecios](https://open.spotify.com/track/6gyPojQkJawXsMryAeu5Se) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Tus Desprecios](https://open.spotify.com/album/3si2q6g6Mw94o5wsftqXH6) | 2:22 | 2021-12-29 | 2023-12-20 |
+| [Tus Desprecios](https://open.spotify.com/track/3w5R3lzfQbj5UuB1WxboSp) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [A la Medida](https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1) | 2:23 | 2023-06-16 |  |
 | [Tú a Mí No Me Hundes](https://open.spotify.com/track/6aNDj2s5dWkVaQzL8Lelhy) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Interpreta A Juan Gabriel](https://open.spotify.com/album/3CaLGUG2hGBGom57xsxA1O) | 3:03 | 2022-06-07 |  |
 | [Tú a Mí No Me Hundes](https://open.spotify.com/track/15uu7J5uhauYJ9hGtJ077N) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Lucha Villa Y Aida](https://open.spotify.com/album/3kF64rtPcA7kwv38JKyica) | 3:04 | 2021-12-29 | 2022-07-29 |
 | [Tú Lo Decidiste](https://open.spotify.com/track/1uDXGhm8Wgwpmzgm8k1F7r) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ayer Y Hoy](https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm) | 3:49 | 2021-12-29 |  |

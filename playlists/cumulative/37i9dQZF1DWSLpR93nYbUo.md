@@ -4,7 +4,7 @@
 
 > Ouça as novidades da cena eletrônica\. Foto: CEVITH
 
-150 songs - 8 hr 35 min
+152 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Feel Good](https://open.spotify.com/track/5mvXTMweaYmTbHy4ccC9wQ) | [Liquid Dance](https://open.spotify.com/artist/0kNe32IrwnQ1fU2tA9VlUw) | [Feel Good](https://open.spotify.com/album/1SAuEG6VjC1KkZgafyMmDQ) | 3:00 | 2023-07-21 | 2023-10-28 |
 | [Flexin](https://open.spotify.com/track/5iYGvYHWSudzMiK5FTPCFA) | [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj), [Screechy](https://open.spotify.com/artist/4Ts1L827tQWBpc9I2GekWG) | [Flexin](https://open.spotify.com/album/1gvmDauEydTvcxloQa0SZ8) | 3:20 | 2023-10-27 |  |
 | [FMF \- Bruno Furlan Remix](https://open.spotify.com/track/6aLslHH3pTK8CGTv9Rv9N2) | [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M), [Vitor Vinter](https://open.spotify.com/artist/69Mveq4NwlSGijFnPnAlvD), [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [FMF](https://open.spotify.com/album/2tzDCp2WcLMX5tvhFGYNPU) | 3:31 | 2023-08-25 |  |
+| [FREYA](https://open.spotify.com/track/3JopKQYAxpQTRL7n4wZ6vx) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg) | [FREYA](https://open.spotify.com/album/5fCzM6loYBHzSRGdtq0J13) | 4:13 | 2023-12-22 |  |
 | [Frkk](https://open.spotify.com/track/6hNnByj5SjNA6MGE4h1TbW) | [Visage Music](https://open.spotify.com/artist/05WcfGPdzCMKpdGc17cUko) | [Frkk](https://open.spotify.com/album/7uZ0yllK67ki5bgZ7OVa4Q) | 5:01 | 2023-08-25 |  |
 | [Games](https://open.spotify.com/track/6tV7bSrAgUGzstmScPns5d) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [EdLez](https://open.spotify.com/artist/0baFK0NlVekOClJqsKROus), [Enjoy](https://open.spotify.com/artist/0ZSTWEe3Oclgybgf1J1ftW), [Hektor](https://open.spotify.com/artist/4tBrbHzJCJ8MsXrupW3E7N) | [Games](https://open.spotify.com/album/1p5dF2casdIMILRmxpvPPy) | 3:13 | 2023-07-21 | 2023-08-19 |
 | [Get The F\*\*\* Down](https://open.spotify.com/track/14zDs39mus5oEs4DKZpcz4) | [EME](https://open.spotify.com/artist/004h2uqVUpmOuz4oY6aTqw) | [Get The F\*\*\* Down](https://open.spotify.com/album/2GAkMksQoYhAAm22ZVVQV0) | 2:32 | 2023-07-21 | 2023-10-07 |
@@ -134,8 +135,9 @@
 | [Tasty](https://open.spotify.com/track/1T0qmEAMLiRkei11Xouph3) | [Gustavo Mota](https://open.spotify.com/artist/045FVvBNAc7VnPYvzAJpO1), [INGEK](https://open.spotify.com/artist/2gk1ww8aKvkheN0f6WJ0G2) | [Tasty](https://open.spotify.com/album/3GfSnsAJoEar9vU5DcKbxa) | 2:20 | 2023-09-29 |  |
 | [Tears](https://open.spotify.com/track/4J8euWtEZJmDRuFAjzAMI5) | [Lonelysoul.](https://open.spotify.com/artist/0SiRcOpdzIT5ea5SwdEQ37), [Levis Della](https://open.spotify.com/artist/0mz0ZT7rpJuWFxJ8lnxdB5), [Sanduú](https://open.spotify.com/artist/7DsAqd25L6sEx0NICIYF3f) | [Tears](https://open.spotify.com/album/3bjsXm28P3JAb3rvqYa684) | 2:24 | 2023-07-21 | 2023-08-26 |
 | [The Rhythm](https://open.spotify.com/track/4XkzbINV9TTT4aVKRl3BI8) | [JOMAQ](https://open.spotify.com/artist/6jcjRT0Ake2QswM8OFTWNO), [Milton Shadow](https://open.spotify.com/artist/6nHOzkptRNRmloGB6juwsd) | [The Rhythm](https://open.spotify.com/album/6osKmZY07zNN5kUORyEI7y) | 3:20 | 2023-08-18 |  |
-| [The Vibe On My Body](https://open.spotify.com/track/0NYBlJUxRnCp6rlwG4E5F0) | [Ferki](https://open.spotify.com/artist/53m5SAZ3Zy6C0hwwB3lRMW) | [The Vibe On My Body](https://open.spotify.com/album/2yKnkHBnvbe94sGDNh9Jmv) | 2:19 | 2023-07-28 |  |
+| [The Vibe On My Body](https://open.spotify.com/track/0NYBlJUxRnCp6rlwG4E5F0) | [Ferki](https://open.spotify.com/artist/53m5SAZ3Zy6C0hwwB3lRMW) | [The Vibe On My Body](https://open.spotify.com/album/2yKnkHBnvbe94sGDNh9Jmv) | 2:19 | 2023-07-28 | 2023-12-23 |
 | [The Vibe On My Body](https://open.spotify.com/track/44entUtJxwthnsERSn3G8n) | [Ferki](https://open.spotify.com/artist/53m5SAZ3Zy6C0hwwB3lRMW) | [The Vibe On My Body](https://open.spotify.com/album/0mc1EHZENay9IbvkBBrbKY) | 2:19 | 2023-07-21 | 2023-07-29 |
+| [The Vibe On My Body](https://open.spotify.com/track/6EvdXJtHRARySgpVB9a7on) | [Ferki](https://open.spotify.com/artist/53m5SAZ3Zy6C0hwwB3lRMW) | [The Vibe On My Body](https://open.spotify.com/album/7xYvrWiiVqWqGI6DIOEmsd) | 2:19 | 2023-12-22 |  |
 | [There For You \- Radio Edit](https://open.spotify.com/track/7e9mhQqRu9dPjTIfffgJaV) | [LIGHTZ](https://open.spotify.com/artist/0IqAThyLT2MteUe21m7r2U) | [There For You](https://open.spotify.com/album/2qpK0mH0n319wqvTkyIBUh) | 3:05 | 2023-07-21 |  |
 | [Till the World Knows Me](https://open.spotify.com/track/1NFPtZARcv2bpQ9Z4Bycfy) | [Sillaz](https://open.spotify.com/artist/7EroDVPELCYcB8zyB2XN9F) | [Till the World Knows Me](https://open.spotify.com/album/0jkxbj3vxFSbOMvU0NFGMl) | 4:12 | 2023-07-21 |  |
 | [Tira A Camisa](https://open.spotify.com/track/74wXmElNAq0vNBS47FiZSz) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [Tira A Camisa](https://open.spotify.com/album/2uNjixcI6TJrlOcJfbJyuF) | 3:00 | 2023-09-22 |  |

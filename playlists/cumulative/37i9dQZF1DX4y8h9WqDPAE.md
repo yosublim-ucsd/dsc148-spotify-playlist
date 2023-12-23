@@ -2,7 +2,7 @@
 
 ### [Channel\-X](https://open.spotify.com/playlist/37i9dQZF1DX4y8h9WqDPAE)
 
-> Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: Tyla
+> Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: Chris Brown
 
 602 songs - 1 day 7 hr 54 min
 

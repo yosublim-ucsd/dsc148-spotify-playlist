@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGFlZDA4NGY4YjY0ZDAwMWVjNGMxOWVkYjRkNzE5MGMxY2ZkODQz",
+  "snapshot_id": "MCxiYWYwNWZmMmFiMzNlMjVjYTkxMjdjZDk4YTdkNzJiNjE2NTk5N2Ji",
   "tracks": [
     {
       "added_at": "2020-03-13 13:21:28",
@@ -307,6 +307,22 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
+        "name": "Dale Aborigen",
+        "url": "https://open.spotify.com/album/5iApfIWDo1t5wRiePb2paS"
+      },
+      "artists": [
+        {
+          "name": "Todos Tus Muertos",
+          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
+        }
+      ],
+      "duration_ms": 141000,
+      "name": "TRECE",
+      "url": "https://open.spotify.com/track/6KlyjmAKmTzXdxhzA6DAh3"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
         "name": "Los 7 Delfines",
         "url": "https://open.spotify.com/album/1c8bV0QDLCW2XQJquWEw9t"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 228466,
       "name": "Post Crucifixion",
       "url": "https://open.spotify.com/track/1ewTI8EOJeLFxPM4v2i9Hh"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
-        "name": "Emporio Bizarro",
-        "url": "https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC"
-      },
-      "artists": [
-        {
-          "name": "Santos Inocentes",
-          "url": "https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I"
-        }
-      ],
-      "duration_ms": 234613,
-      "name": "Microman",
-      "url": "https://open.spotify.com/track/4YPzD1BIdoPdblMUth4yzj"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -355,18 +355,18 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Dale Aborigen",
-        "url": "https://open.spotify.com/album/5iApfIWDo1t5wRiePb2paS"
+        "name": "Emporio Bizarro",
+        "url": "https://open.spotify.com/album/4zDPNXUEKor41wMycCTzpC"
       },
       "artists": [
         {
-          "name": "Todos Tus Muertos",
-          "url": "https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy"
+          "name": "Santos Inocentes",
+          "url": "https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I"
         }
       ],
-      "duration_ms": 141000,
-      "name": "TRECE",
-      "url": "https://open.spotify.com/track/6KlyjmAKmTzXdxhzA6DAh3"
+      "duration_ms": 234613,
+      "name": "Microman",
+      "url": "https://open.spotify.com/track/4YPzD1BIdoPdblMUth4yzj"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -435,6 +435,22 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
+        "name": "Megaton",
+        "url": "https://open.spotify.com/album/6uunmDcnq6AuMnJuqA4Wgn"
+      },
+      "artists": [
+        {
+          "name": "Santos Inocentes",
+          "url": "https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I"
+        }
+      ],
+      "duration_ms": 269240,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/3wcqKfSbekpAc0j3zUDb2c"
+    },
+    {
+      "added_at": "2020-03-13 13:21:28",
+      "album": {
         "name": "Dale Aborigen",
         "url": "https://open.spotify.com/album/5iApfIWDo1t5wRiePb2paS"
       },
@@ -467,18 +483,18 @@
     {
       "added_at": "2020-03-13 13:21:28",
       "album": {
-        "name": "Megaton",
-        "url": "https://open.spotify.com/album/6uunmDcnq6AuMnJuqA4Wgn"
+        "name": "Cabeza",
+        "url": "https://open.spotify.com/album/6nvkqhyt32VZWrouHtbF6F"
       },
       "artists": [
         {
-          "name": "Santos Inocentes",
-          "url": "https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I"
+          "name": "Pez",
+          "url": "https://open.spotify.com/artist/00demsNI1p5KmzWGlrnrdh"
         }
       ],
-      "duration_ms": 269240,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/3wcqKfSbekpAc0j3zUDb2c"
+      "duration_ms": 240333,
+      "name": "Lo Que Se Ve No Es Lo Real",
+      "url": "https://open.spotify.com/track/2zop3NXKZxAoW5Z724yQzt"
     },
     {
       "added_at": "2020-03-13 13:21:28",
@@ -495,22 +511,6 @@
       "duration_ms": 143866,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/36HSUDViFEJfQoPvuJqBn4"
-    },
-    {
-      "added_at": "2020-03-13 13:21:28",
-      "album": {
-        "name": "Cabeza",
-        "url": "https://open.spotify.com/album/6nvkqhyt32VZWrouHtbF6F"
-      },
-      "artists": [
-        {
-          "name": "Pez",
-          "url": "https://open.spotify.com/artist/00demsNI1p5KmzWGlrnrdh"
-        }
-      ],
-      "duration_ms": 240333,
-      "name": "Lo Que Se Ve No Es Lo Real",
-      "url": "https://open.spotify.com/track/2zop3NXKZxAoW5Z724yQzt"
     },
     {
       "added_at": "2020-03-13 13:21:28",

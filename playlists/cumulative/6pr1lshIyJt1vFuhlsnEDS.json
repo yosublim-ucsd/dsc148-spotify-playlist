@@ -74,10 +74,28 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 298235,
       "name": "Afraid of the Time - Reprise",
       "url": "https://open.spotify.com/track/33oY9P0s7mZO73OJVun7jK"
+    },
+    {
+      "album": {
+        "name": "The Unknown",
+        "url": "https://open.spotify.com/album/2ZrdUOOU4vr66riT9aJ4Kc"
+      },
+      "artists": [
+        {
+          "name": "Metodi Hristov",
+          "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227076,
+      "name": "Afraid of the Time - Vocal Mix 2024",
+      "url": "https://open.spotify.com/track/4KaPsqrGROPtVMxj4In3vj"
     },
     {
       "album": {
@@ -2346,7 +2364,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 257006,
       "name": "Runaway - Marc Romboy Edit",
       "url": "https://open.spotify.com/track/02MWrXtwqRyPLPkQQu9R8H"
@@ -2698,6 +2716,24 @@
       "duration_ms": 498461,
       "name": "The Sound Of Space",
       "url": "https://open.spotify.com/track/7CYS0ibZaJm201ZKonnqih"
+    },
+    {
+      "album": {
+        "name": "The Unknown",
+        "url": "https://open.spotify.com/album/2ZrdUOOU4vr66riT9aJ4Kc"
+      },
+      "artists": [
+        {
+          "name": "Metodi Hristov",
+          "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229888,
+      "name": "The Unknown",
+      "url": "https://open.spotify.com/track/3u4hsUC3U4G1I6rOWY4Pqw"
     },
     {
       "album": {

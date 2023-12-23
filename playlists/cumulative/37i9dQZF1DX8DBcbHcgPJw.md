@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Marama, MYA & Robleis.
 
-454 songs - 22 hr 36 min
+455 songs - 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Confidencial](https://open.spotify.com/track/0w7otFzMEOT3y6sd96Wqkf) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn), [Bryan Alvez](https://open.spotify.com/artist/6FZjAN4tUrVUtL1YcJvUsQ) | [Confidencial](https://open.spotify.com/album/1n1Pa59BRC5tch0VqXVCWn) | 2:38 | 2022-03-11 | 2022-04-19 |
 | [Contigo](https://open.spotify.com/track/6JO3vK6hwoStvTWD9dQuGT) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA), [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Yo Quiero Estar Contigo](https://open.spotify.com/album/1x96cs56bnMscZkhXR27iI) | 3:03 | 2022-01-03 | 2022-07-29 |
 | [Copacabana \- Remix](https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Copacabana \(Remix\)](https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy) | 2:33 | 2023-01-20 |  |
-| [Corazón de Cartón](https://open.spotify.com/track/4HN5GxtdVFUcTZDnatS6gQ) | [La China](https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO) | [Corazón de Cartón](https://open.spotify.com/album/0OLguIez727yBx8oLrDtus) | 2:29 | 2023-12-03 |  |
+| [Corazón de Cartón](https://open.spotify.com/track/4HN5GxtdVFUcTZDnatS6gQ) | [La China](https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO) | [Corazón de Cartón](https://open.spotify.com/album/0OLguIez727yBx8oLrDtus) | 2:29 | 2023-12-03 | 2023-12-23 |
 | [Corazón de Cemento](https://open.spotify.com/track/2XgdzrXCQpbwoovoAK7HTS) | [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj), [Chili Fernandez](https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID) | [Corazón de Cemento](https://open.spotify.com/album/4BT1TzdLFzI9sx2YBTyORY) | 4:00 | 2021-12-23 | 2023-02-25 |
 | [Corta](https://open.spotify.com/track/69Ua9g4FzsY7kdGctRFnAj) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [Corta](https://open.spotify.com/album/6AdJGeHWYKlj9PnFcl3PGr) | 2:45 | 2023-11-24 |  |
 | [Cosas Malas / Sobrio / Vete](https://open.spotify.com/track/2UJ8WESK3owrP9AmwlON1R) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred), [La Banda De Los Brothers](https://open.spotify.com/artist/7nDWjttbjw7J6So3Iuz1xO) | [Cosas Malas / Sobrio / Vete](https://open.spotify.com/album/7rMLTtJdnUDg5aSrgsADmK) | 4:54 | 2022-04-08 | 2022-07-01 |
@@ -390,6 +390,7 @@
 | [Telefono \- Remix](https://open.spotify.com/track/0eSZT3DP39tN2zGi0MaGYY) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ), [Jackita](https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8), [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Telefono](https://open.spotify.com/album/1AGLDN8zCwPROtIvEb6QHu) | 2:46 | 2022-01-03 | 2022-07-27 |
 | [Tengo Fe \- Version Cumbia](https://open.spotify.com/track/7rIBr1BZlHbJbgGYSWLDXh) | [El Mala](https://open.spotify.com/artist/1LSYfRidvKN3sUXOg8HDWC), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Tengo Fe \- Version Cumbia](https://open.spotify.com/album/6N9wOtL2bNywx08grhOK2f) | 2:05 | 2022-01-07 | 2022-07-29 |
 | [Tengo Ganas](https://open.spotify.com/track/3zBuUZje9YCZcOgvBLuH2J) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Tengo Ganas](https://open.spotify.com/album/7iTW31m0S1ErIYD8lSUQPD) | 2:40 | 2023-09-29 |  |
+| [Tereré](https://open.spotify.com/track/2oO5vunT8dcjevXXLTlWcW) | [frankotirador](https://open.spotify.com/artist/3mkgLtC3wZ9xFKM7C6bA4w), [Las Culisueltas](https://open.spotify.com/artist/6GfDEGpIgzDdxCBpNCF4Np), [LaKittyCs](https://open.spotify.com/artist/2TVl7XNWbgsLWqJP5eQUFp) | [Tereré](https://open.spotify.com/album/0rym8NaYG0cPQiiZUSa6kY) | 2:39 | 2023-12-22 |  |
 | [Tiri Tiri](https://open.spotify.com/track/7edRqfki0110PfmJQ0xYTC) | [Agustín Casanova](https://open.spotify.com/artist/2WhGojaMjv4VVn2HQSqrLM) | [Tiri Tiri](https://open.spotify.com/album/24wc3hcAzpTicFjWuQGDQS) | 2:32 | 2022-02-18 | 2022-07-27 |
 | [Tiroteo](https://open.spotify.com/track/08ScB5DPkvsZRn0hhykj9S) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn), [El Gordo Record](https://open.spotify.com/artist/3FRotmIGShw8layiLtqtQG) | [Tiroteo](https://open.spotify.com/album/2gjEPMDdPnRwxDe95RRxQ6) | 3:22 | 2022-01-28 | 2022-06-07 |
 | [TITÁN RMX](https://open.spotify.com/track/7uFaga9WKgJ9Mrkhyybbut) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [TITÁN RMX](https://open.spotify.com/album/2j4F4W3z0k2E0kx1gsQ1Fr) | 4:29 | 2023-12-15 |  |

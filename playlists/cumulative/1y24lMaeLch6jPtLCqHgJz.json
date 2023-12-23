@@ -372,7 +372,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 188689,
       "name": "Anybody Out There",
       "url": "https://open.spotify.com/track/1RNVJLDH2ZtLIkUqQd9QxI"
@@ -2826,7 +2826,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 175238,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/5KzCynjLHERTYYPFholHLr"
@@ -3530,7 +3530,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 205645,
       "name": "Need You Now",
       "url": "https://open.spotify.com/track/5xFmdyGJaxOaK9zIMCFYl2"
@@ -3656,7 +3656,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 163034,
       "name": "Not Fair",
       "url": "https://open.spotify.com/track/5rL9LobdwAwFch2J8CiosG"
@@ -4994,6 +4994,24 @@
       "duration_ms": 230142,
       "name": "Techno Acid 303",
       "url": "https://open.spotify.com/track/3I6rEbfsXuLUPeYehl0q1g"
+    },
+    {
+      "album": {
+        "name": "Techno Music",
+        "url": "https://open.spotify.com/album/28BurPQ6ef9puaN8AoHbOG"
+      },
+      "artists": [
+        {
+          "name": "Bonka",
+          "url": "https://open.spotify.com/artist/3HIgSx8t7957kFVbwGrSRF"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127610,
+      "name": "Techno Music",
+      "url": "https://open.spotify.com/track/0acYxnsfGsSbFMT3BSkeDX"
     },
     {
       "album": {

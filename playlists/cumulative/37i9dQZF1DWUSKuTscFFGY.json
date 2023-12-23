@@ -3388,7 +3388,7 @@
     {
       "album": {
         "name": "Stuck In Paradise",
-        "url": "https://open.spotify.com/album/4VLxVPUNIduswny0vvnpzo"
+        "url": "https://open.spotify.com/album/5bKc3tsagrs0CDdjOHaV5U"
       },
       "artists": [
         {
@@ -3407,6 +3407,32 @@
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 124800,
+      "name": "Stuck In Paradise",
+      "url": "https://open.spotify.com/track/0bKY5wu5Ciq5s86comjeeG"
+    },
+    {
+      "album": {
+        "name": "Stuck In Paradise",
+        "url": "https://open.spotify.com/album/4VLxVPUNIduswny0vvnpzo"
+      },
+      "artists": [
+        {
+          "name": "MCN2",
+          "url": "https://open.spotify.com/artist/343xgiGnBTnEyNmf0N6aeh"
+        },
+        {
+          "name": "Treetalk",
+          "url": "https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp"
+        },
+        {
+          "name": "Aexcit",
+          "url": "https://open.spotify.com/artist/2HpYCHV3bvQ71jmohAnBL8"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
       "duration_ms": 124800,
       "name": "Stuck In Paradise",
       "url": "https://open.spotify.com/track/5nECu2DSgwrKvWMMTuX5fV"

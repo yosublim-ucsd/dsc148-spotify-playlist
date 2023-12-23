@@ -4,7 +4,7 @@
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-301 songs - 22 hr 28 min
+302 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Carismático \(En Vivo Luna Park 2006\)](https://open.spotify.com/track/53UkQ1uvwBXgF3f0Ttd0J7) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Luces \(En Vivo Luna Park 2006\)](https://open.spotify.com/album/2vHwdJI0FKurPPmHjXj24Z) | 2:43 | 2022-04-01 |  |
 | [Carol \(En Vivo en el Hipódromo\)](https://open.spotify.com/track/5MUErlwfsEmFAVVKRVDzvF) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Caballos de Noche Vivos en el Hipódromo](https://open.spotify.com/album/5PZyL6tp27t1ZXy86aO10w) | 3:15 | 2022-04-01 | 2022-07-28 |
 | [Carol \- Vivo](https://open.spotify.com/track/4V7EMmfiohP17t5ulxDCQF) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [Vivo Paranoico](https://open.spotify.com/album/5CHgzhgDsOlwS1jPjRxe07) | 3:25 | 2022-04-01 |  |
-| [Carretera Perdida \- En Vivo](https://open.spotify.com/track/6XcMzT3kroyNvOJ9vaOsHT) | [Buitres](https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl) | [Carretera Perdida \(En Vivo\)](https://open.spotify.com/album/2OD36U3WFqeLqD4rf8KuA3) | 4:50 | 2023-08-03 |  |
+| [Carretera Perdida \- En Vivo](https://open.spotify.com/track/6XcMzT3kroyNvOJ9vaOsHT) | [Buitres](https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl) | [Carretera Perdida \(En Vivo\)](https://open.spotify.com/album/2OD36U3WFqeLqD4rf8KuA3) | 4:50 | 2023-08-03 | 2023-12-23 |
 | [Casi Nunca Lo Ves \(En Vivo\) \(feat\. Ciro y Los Persas\)](https://open.spotify.com/track/4EbfeFf88tna6YcInp1ugJ) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [3000 Vivos \(En Vivo\)](https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1) | 4:56 | 2022-04-01 |  |
 | [Cerca De La Revolución \- Live](https://open.spotify.com/track/2qV86KONAvMWtYrQs0FLPf) | [Charly García & The Prostitution](https://open.spotify.com/artist/4Y2lfQWx1xZIiA8ckQjyta) | [La Vanguardia Es Así \(Live\)](https://open.spotify.com/album/6squHvecpkgdtu5ugJ36dZ) | 4:48 | 2022-04-01 | 2022-07-29 |
 | [Chau](https://open.spotify.com/track/3uP1USIwwDpOA8uw0LjY2P) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 5:19 | 2022-04-01 | 2023-10-07 |
@@ -205,6 +205,7 @@
 | [Oportunidad Oportuna \- En Vivo](https://open.spotify.com/track/4Rjs2IZkMR7owpO1yoVer9) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Autódromo de Buenos Aires, 19 de Junio de 2021 \(En Vivo\)](https://open.spotify.com/album/6Bs4kJWFkLO58YmGxVGOUJ) | 3:45 | 2023-04-07 | 2023-08-02 |
 | [Oportunidad Oportuna \- En Vivo](https://open.spotify.com/track/6OgghyP8vbOsC2CBvKYArD) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Autódromo de Buenos Aires, 19 de Junio de 2021 \(En Vivo\)](https://open.spotify.com/album/1Sxb0hpU35iLA3WeqEcMr8) | 3:45 | 2023-10-06 |  |
 | [Oro de Abeja \(Vivo en Obras\)](https://open.spotify.com/track/6WYtFrLzFsoQmeipeBmmXz) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Trascenlace \(Vivo en Obras\)](https://open.spotify.com/album/3b9dOyIcbeR3847hEt9hVy) | 4:43 | 2022-04-01 | 2022-07-02 |
+| [Paisano de Hurlingham](https://open.spotify.com/track/2UOJsDtVLCdSbwbhd2qSl3) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Divididos en Vélez \- Agradecer y Seguir](https://open.spotify.com/album/2TrRaAq10CSLmQV03lmQQy) | 6:08 | 2023-12-22 |  |
 | [Panic Show \- En Directo Desde Estadio De Huracán Buenos Aires / 2001](https://open.spotify.com/track/3uyCoLdG9s4fZGPoj8B2tn) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Insoportablemente Vivo \(En Directo Desde Estadio De Huracán Buenos Aires / 2001\)](https://open.spotify.com/album/5cgGmPTXGyysE1ShAqPh0x) | 3:38 | 2022-06-24 |  |
 | [Panic Show \- Live](https://open.spotify.com/track/5imJJUpdG3p7VpLNqIb75l) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Insoportablemente Vivo](https://open.spotify.com/album/7N0ZseL9dDJRCUfLSMDTrK) | 3:38 | 2022-04-01 | 2022-07-29 |
 | [Panorama \- En Vivo en el Teatro Ópera](https://open.spotify.com/track/0GT0Cd39K5Rvbar6QNHRu1) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [En Vivo en el Teatro Ópera](https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6) | 4:03 | 2022-04-01 | 2022-07-28 |

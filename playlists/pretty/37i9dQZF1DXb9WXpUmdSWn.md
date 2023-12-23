@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9WXpUmdSWn.md) - [plain]
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the songwriter's owner covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,762 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,764 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9WXpUmdSWn.md) - [plain]
 | 46 | [Cecilia](https://open.spotify.com/track/0KelVyupuOOwka66PcAmNZ) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bridge Over Troubled Water](https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E) | 2:11 |
 | 47 | [I Am a Rock \- Bonus Track](https://open.spotify.com/track/4XjRpLu18H8aEISzsBzedg) | [Shelter](https://open.spotify.com/artist/4vTTRvwORrfvMOUb3OOUTy) | [When 20 Summers Pass \(20th Anniversary Edition\)](https://open.spotify.com/album/4ABa0D8WnB44fEKCG6BAQM) | 2:22 |
 | 48 | [Graceland](https://open.spotify.com/track/6XXkDYoN7dgRUtZQ5Gtk5n) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Graceland](https://open.spotify.com/album/6al4yJx2ojRnlqz2BD9q6e) | 2:55 |
-| 49 | [The Boxer feat\. Mumford & Sons and Paul Simon](https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Traveler](https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG) | 4:05 |
+| 49 | [The Boxer feat\. Mumford & Sons and Paul Simon](https://open.spotify.com/track/1GXMLU8qafDOavxXIQPoag) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Traveler](https://open.spotify.com/album/0Ylhn0L6WD0SEMbF8hYtNT) | 4:05 |
 | 50 | [Diamonds On The Soles Of Her Shoes \- The Voice Performance](https://open.spotify.com/track/0vlV9EHERw2dRYiuhQNPJB) | [Joshua Davis](https://open.spotify.com/artist/6Z3gpcNJMzjr9Lv7UbxQhZ), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [The Complete Season 8 Collection \(The Voice Performance\)](https://open.spotify.com/album/6MppBBhapzHLawPrAnVVxx) | 3:04 |
 
-Snapshot ID: `MCw4MWM3YTRiYTRjMmZlNWFlZTVkNjNhMDMzYzIyNWYzNGNiMWJhNjI5`
+Snapshot ID: `MCxjOGM1MDQxMGMzOWZjNGJmOGNkYzc5NWQxNjZkN2Q2MDdkMWI3NTQ0`

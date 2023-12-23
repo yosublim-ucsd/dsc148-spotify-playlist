@@ -2595,6 +2595,24 @@
     },
     {
       "album": {
+        "name": "Oru Paarvai",
+        "url": "https://open.spotify.com/album/5XJcvKbj9WzygWDEENDqyW"
+      },
+      "artists": [
+        {
+          "name": "Srini Vasan",
+          "url": "https://open.spotify.com/artist/3lOepsCr1cfJYBm14d77Bw"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271333,
+      "name": "Oru Paarvai",
+      "url": "https://open.spotify.com/track/3CRuPRCfetM8q1L9xPloyw"
+    },
+    {
+      "album": {
         "name": "Oru Parvaiyaal",
         "url": "https://open.spotify.com/album/3WEYvBWiMwhxmyG9MrJufN"
       },

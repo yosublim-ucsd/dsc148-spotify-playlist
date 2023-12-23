@@ -1216,10 +1216,28 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 112084,
       "name": "Bubble",
       "url": "https://open.spotify.com/track/4VJfwQ3BvngVwBMyZybFdd"
+    },
+    {
+      "album": {
+        "name": "Pink Crocodile",
+        "url": "https://open.spotify.com/album/1dxdRkMljoxEr29devaQhr"
+      },
+      "artists": [
+        {
+          "name": "Elle Teresa",
+          "url": "https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112084,
+      "name": "Bubble",
+      "url": "https://open.spotify.com/track/6jBvMxjiuMvAs3l6cf8gzF"
     },
     {
       "album": {
@@ -1268,6 +1286,32 @@
       "duration_ms": 185124,
       "name": "Canvas",
       "url": "https://open.spotify.com/track/1HasPp7AYTmRj9lHHfO3AT"
+    },
+    {
+      "album": {
+        "name": "Care free",
+        "url": "https://open.spotify.com/album/0DsApSEvCkKXGQom5mqKJ0"
+      },
+      "artists": [
+        {
+          "name": "SugLawd Familiar",
+          "url": "https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4"
+        },
+        {
+          "name": "Oichi",
+          "url": "https://open.spotify.com/artist/6b9pWhWVeTIH0p0px5KnXn"
+        },
+        {
+          "name": "XF MENEW",
+          "url": "https://open.spotify.com/artist/3YF6gmNp1tjvTJp4MkLoWH"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164998,
+      "name": "Care free",
+      "url": "https://open.spotify.com/track/7fAg5vKDq5jBOBpAoYExV6"
     },
     {
       "album": {
@@ -5270,6 +5314,32 @@
     {
       "album": {
         "name": "Zee PACK vol.2",
+        "url": "https://open.spotify.com/album/0CXdVXLHiJGG5LhsfSqhBg"
+      },
+      "artists": [
+        {
+          "name": "Young zetton",
+          "url": "https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS"
+        },
+        {
+          "name": "Chaochao",
+          "url": "https://open.spotify.com/artist/2wTbreIopS4qmQMvWZxtlJ"
+        },
+        {
+          "name": "D-KARAT",
+          "url": "https://open.spotify.com/artist/2RiJGoRLhaoP2CG6AM1ViK"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203269,
+      "name": "Oretatigakininaru",
+      "url": "https://open.spotify.com/track/1RzEhKm9w4yUd0djV9Q7vJ"
+    },
+    {
+      "album": {
+        "name": "Zee PACK vol.2",
         "url": "https://open.spotify.com/album/4FkJ83L7raq9TQ9KO9hJEG"
       },
       "artists": [
@@ -7346,6 +7416,32 @@
     {
       "album": {
         "name": "Deech Got Yukichi 2",
+        "url": "https://open.spotify.com/album/0EiGGW2OaqBb2NeM8qJ1xJ"
+      },
+      "artists": [
+        {
+          "name": "Deech",
+          "url": "https://open.spotify.com/artist/1eQUclEDhda3ZCUzi8NQME"
+        },
+        {
+          "name": "Lil\u2019Yukichi",
+          "url": "https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA"
+        },
+        {
+          "name": "Elle Teresa",
+          "url": "https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147333,
+      "name": "Yap Yap",
+      "url": "https://open.spotify.com/track/5XbunWE0rvjeiMmtc2v5Pa"
+    },
+    {
+      "album": {
+        "name": "Deech Got Yukichi 2",
         "url": "https://open.spotify.com/album/2jZvGY1awUIDjyfv7ByDiQ"
       },
       "artists": [
@@ -7364,7 +7460,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 147333,
       "name": "Yap Yap",
       "url": "https://open.spotify.com/track/7usqIQpFAuz2KFqI3x4CRl"
@@ -7666,7 +7762,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 203269,
       "name": "\u30aa\u30ec\u305f\u3061\u304c\u6c17\u306b\u306a\u308b",
       "url": "https://open.spotify.com/track/5uk6OoObDUbDbvsbfVKlnu"

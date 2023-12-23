@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: アイドルマスター × ラブライブ！<br/>THE IDOLM@STER™& ©BNEI<br/>©2017 PL!S ©2022 PL!N ©2022 PL!SP ©PL!HS
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,652 likes - 55 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,655 likes - 55 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 23 | [Sequel](https://open.spotify.com/track/2fodS2u01KCFoPknzkJGcN) | [Daiki Yamashita](https://open.spotify.com/artist/2DkVexkT4h6ScFo5sp96py) | [Sequel](https://open.spotify.com/album/3cgQcgyVE0xXR1wZUNjafw) | 4:15 |
 | 24 | [Prism](https://open.spotify.com/track/2n7NzI9OC4Pguo510E3VMY) | [Rikako Aida](https://open.spotify.com/artist/3L9yXpqIVCz8yyR3ZfavG3) | [Act 2](https://open.spotify.com/album/3EKlyqIFT3uFzIobG7lIEq) | 3:40 |
 | 25 | [霞の向こうへ](https://open.spotify.com/track/5W4Jz81qUijp9EoC6vJYPJ) | [中島由貴](https://open.spotify.com/artist/4VVL5VuNtNn5BhbqASUhj7) | [霞の向こうへ\(TVアニメ｢ゴブリンスレイヤーⅡ｣エンディングテーマ\)](https://open.spotify.com/album/60Is723U0djCaYTjIJdTnr) | 4:08 |
-| 26 | [Tawagoto](https://open.spotify.com/track/1qFtgtem9RyXomqc7eRfj0) | [Kento Ito](https://open.spotify.com/artist/07VroOJ1SGvFrdu69YwEdd) | [Tawagoto](https://open.spotify.com/album/40Gj5UM6eqSlyjNIVJ1cFL) | 4:12 |
+| 26 | [Tawagoto](https://open.spotify.com/track/1qFtgtem9RyXomqc7eRfj0) | [Kent Ito](https://open.spotify.com/artist/3UQapJyENH6KwfJbjA0krM) | [Tawagoto](https://open.spotify.com/album/40Gj5UM6eqSlyjNIVJ1cFL) | 4:12 |
 | 27 | [スクラップアート](https://open.spotify.com/track/4aH955P1E3svLs4NPNAewA) | [Inori Minase](https://open.spotify.com/artist/6Aal2uLlwnLAQwSI7apV11) | [スクラップアート](https://open.spotify.com/album/42jpClLjVy7znnAmzNUJfI) | 3:33 |
 | 28 | [Idol \- From CrosSing](https://open.spotify.com/track/47SH9AhPRfXut0zz7FFSge) | [Hieda nene](https://open.spotify.com/artist/1DrjXiDjn5lAuZJl2Ps7XN), [Moriya kyoka](https://open.spotify.com/artist/65FpAJlB759YnVNjiIHOUR) | [Idol \- From CrosSing](https://open.spotify.com/album/06jodqy5myoAZg3qozTyIS) | 3:34 |
 | 29 | [Kabaneri of the Iron Fortress \- From CrosSing](https://open.spotify.com/track/5lpuUXJrebI7zTMCJvkw2c) | [Isobe Karin](https://open.spotify.com/artist/12H5I8U8pbnUVkfjW5yGLE) | [Kabaneri of the Iron Fortress \- From CrosSing](https://open.spotify.com/album/7dNZvllHiZ4x3z89gM9JoJ) | 4:49 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 54 | [ユエニ](https://open.spotify.com/track/5AxlHHMzmLOA2NGwHVn6UO) | [Shiina Natsukawa](https://open.spotify.com/artist/1fkqRIgZFVQAsJT6D8L3JZ) | [ユエニ](https://open.spotify.com/album/0Gw7u3wZq0OW4cENnMw1fs) | 3:23 |
 | 55 | [ENDLESS LABYRINTH](https://open.spotify.com/track/2jtA0PU9bCmIuUCDxVoNFC) | [EverdreaM](https://open.spotify.com/artist/41NSrch5W6mvr9t0I8oeG5) | [ENDLESS LABYRINTH](https://open.spotify.com/album/2ZD2G7ou2ascCvgLX2DM6H) | 3:20 |
 
-Snapshot ID: `MCxmZjgxMzllYTNkZTA4NzYzMDhjMmFlZDQ3ZmUxOGM0ZTQ5MmNkOTYz`
+Snapshot ID: `MCxiZjBjMGRkNjFkMDkxZDRkMTFjMmY5NTRlMjcwMjlhODA3Njk5ZDg5`

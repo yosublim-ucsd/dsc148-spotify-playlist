@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 195319,
+  "num_followers": 195407,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTk1MmU4NDg4ZjcxN2Y3MDYyN2ZhYTkyY2NiZjkxNjk5YzI3N2Ex",
+  "snapshot_id": "MCxlMTFmYjI2MzU5ZTYwOGM1ODNjNjg4NGE0YTVlYjhmNjhmMjc3Nzg1",
   "tracks": [
     {
       "added_at": "2023-12-21 23:00:00",
@@ -383,18 +383,18 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
+        "name": "Goodbye to the Valley Low",
+        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
       },
       "artists": [
         {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 304226,
-      "name": "Emmylou - Spotify Sessions",
-      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
+      "duration_ms": 172304,
+      "name": "Cemetery",
+      "url": "https://open.spotify.com/track/0y4zq960wgBj2gTdpshCZ1"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -415,18 +415,18 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Goodbye to the Valley Low",
-        "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
       },
       "artists": [
         {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
         }
       ],
-      "duration_ms": 172304,
-      "name": "Cemetery",
-      "url": "https://open.spotify.com/track/0y4zq960wgBj2gTdpshCZ1"
+      "duration_ms": 304226,
+      "name": "Emmylou - Spotify Sessions",
+      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "Through The Eyes Of A Woman",
+        "url": "https://open.spotify.com/album/5Fp6OQtwSjjNumqtryDIxO"
+      },
+      "artists": [
+        {
+          "name": "Lucky Lo",
+          "url": "https://open.spotify.com/artist/5RJfw4mV4qlNjmve8u1Unz"
+        }
+      ],
+      "duration_ms": 278133,
+      "name": "Through The Eyes Of A Woman",
+      "url": "https://open.spotify.com/track/2f5TJq8mnPoG03pHkIJamG"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "Norwegian Black Metal",
         "url": "https://open.spotify.com/album/0hA4KCp77KhfgtQImMp9Rb"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 185545,
       "name": "Norwegian Black Metal",
       "url": "https://open.spotify.com/track/4i7iWfR241IqLTpoHPDtLE"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Through The Eyes Of A Woman",
-        "url": "https://open.spotify.com/album/5Fp6OQtwSjjNumqtryDIxO"
-      },
-      "artists": [
-        {
-          "name": "Lucky Lo",
-          "url": "https://open.spotify.com/artist/5RJfw4mV4qlNjmve8u1Unz"
-        }
-      ],
-      "duration_ms": 278133,
-      "name": "Through The Eyes Of A Woman",
-      "url": "https://open.spotify.com/track/2f5TJq8mnPoG03pHkIJamG"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -963,6 +963,38 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "Late December",
+        "url": "https://open.spotify.com/album/5x1qkqIS9YjSizU3LAWyG8"
+      },
+      "artists": [
+        {
+          "name": "Mathias Gundhus",
+          "url": "https://open.spotify.com/artist/6PURFnZQmtTtjlraMNaHW7"
+        }
+      ],
+      "duration_ms": 179545,
+      "name": "Late December",
+      "url": "https://open.spotify.com/track/2heuTbfTRKY1q9B6DgFxt9"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "Fredsvenn",
+        "url": "https://open.spotify.com/album/6zm3WOslNglQXQNuJT0Tt5"
+      },
+      "artists": [
+        {
+          "name": "Simen Mitlid",
+          "url": "https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A"
+        }
+      ],
+      "duration_ms": 241274,
+      "name": "Border",
+      "url": "https://open.spotify.com/track/31KepypEknlgoYnBwxR36s"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "In The Silence",
         "url": "https://open.spotify.com/album/2EnpffXCERRVc6ZkJgddmL"
       },
@@ -995,38 +1027,6 @@
       "duration_ms": 194081,
       "name": "By the time you hear this",
       "url": "https://open.spotify.com/track/0aGBL8l3yHYXkRt1rd7mB6"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Late December",
-        "url": "https://open.spotify.com/album/5x1qkqIS9YjSizU3LAWyG8"
-      },
-      "artists": [
-        {
-          "name": "Mathias Gundhus",
-          "url": "https://open.spotify.com/artist/6PURFnZQmtTtjlraMNaHW7"
-        }
-      ],
-      "duration_ms": 179545,
-      "name": "Late December",
-      "url": "https://open.spotify.com/track/2heuTbfTRKY1q9B6DgFxt9"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Out in the Backyard",
-        "url": "https://open.spotify.com/album/5agiqfFKIiceHwD2E44Zdr"
-      },
-      "artists": [
-        {
-          "name": "Konradsen",
-          "url": "https://open.spotify.com/artist/59CWeBMEzwj6U2HhTVLJ3O"
-        }
-      ],
-      "duration_ms": 220653,
-      "name": "Out in the Backyard",
-      "url": "https://open.spotify.com/track/5SEdPtbU8mBVtLYbTFjbJ3"
     }
   ],
   "unique_name": "Nordic Folk",

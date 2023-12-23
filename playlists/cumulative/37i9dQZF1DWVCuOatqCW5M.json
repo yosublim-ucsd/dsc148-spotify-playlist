@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "New music from popular Hindi artists. Cover- Indian Ocean",
+  "description": "New music from popular Hindi artists. Cover- Vasuda Sharma, Akanksha Sethi",
   "name": "New Music Friday Hindi ",
   "tracks": [
     {
@@ -1176,6 +1176,28 @@
       "duration_ms": 195182,
       "name": "Arambol",
       "url": "https://open.spotify.com/track/1Ew6mq1hRg410eE3uO9op7"
+    },
+    {
+      "album": {
+        "name": "Arz e Dil",
+        "url": "https://open.spotify.com/album/3CSAcvKVgNVR3rneunfvt9"
+      },
+      "artists": [
+        {
+          "name": "Nikhil Iyer",
+          "url": "https://open.spotify.com/artist/0CqiR40fzUCsCK5Llk6Bek"
+        },
+        {
+          "name": "Nirmal Roy",
+          "url": "https://open.spotify.com/artist/29Nyne5MB3F1sTTPq0TQEs"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215357,
+      "name": "Arz e Dil",
+      "url": "https://open.spotify.com/track/5xm5sFLCrI7uNgk7nHYLpo"
     },
     {
       "album": {
@@ -2968,6 +2990,24 @@
       "duration_ms": 157335,
       "name": "Chandni",
       "url": "https://open.spotify.com/track/78c8OfjPabqsnu3b1NVkrD"
+    },
+    {
+      "album": {
+        "name": "Chann Chadheya",
+        "url": "https://open.spotify.com/album/6DGAnwqilrzHjOYMBAmeV6"
+      },
+      "artists": [
+        {
+          "name": "Bharat Chauhan",
+          "url": "https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248028,
+      "name": "Chann Chadheya",
+      "url": "https://open.spotify.com/track/17iwEqwg2o88YGjstKpEsZ"
     },
     {
       "album": {
@@ -8059,6 +8099,24 @@
     },
     {
       "album": {
+        "name": "Kamli",
+        "url": "https://open.spotify.com/album/0lZl7uZfcSPkN3qRD7Q7TC"
+      },
+      "artists": [
+        {
+          "name": "Abhimanyu-Pragya",
+          "url": "https://open.spotify.com/artist/1seJPM2gF3Bqhnr3T8yqPr"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198600,
+      "name": "Kamli",
+      "url": "https://open.spotify.com/track/2tNCi314h7cKgqxyn7NlAJ"
+    },
+    {
+      "album": {
         "name": "Karen Kya",
         "url": "https://open.spotify.com/album/6HFLQ3jFCkbqPkM2XanILd"
       },
@@ -8978,6 +9036,32 @@
       "duration_ms": 234893,
       "name": "Khwahish - Pehli Baarish",
       "url": "https://open.spotify.com/track/0PdvXdwNuxpFkLMKN2DbMN"
+    },
+    {
+      "album": {
+        "name": "Khwahishein",
+        "url": "https://open.spotify.com/album/0JZfxj8tTad2kTIZBXJNCo"
+      },
+      "artists": [
+        {
+          "name": "Apurva Krishna",
+          "url": "https://open.spotify.com/artist/4Mv4apQaWzG4FtYA5XsJch"
+        },
+        {
+          "name": "Abhay Jodhpurkar",
+          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
+        },
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235468,
+      "name": "Khwahishein",
+      "url": "https://open.spotify.com/track/3WLhFiD3ZsAyDc4RA5umM4"
     },
     {
       "album": {
@@ -13609,6 +13693,24 @@
     },
     {
       "album": {
+        "name": "Saajan Ve",
+        "url": "https://open.spotify.com/album/2ZkGpdiIY4jnHrmoEQrGGW"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171473,
+      "name": "Saajan Ve",
+      "url": "https://open.spotify.com/track/3iFYJMrRS0fLrwDNVbqNF0"
+    },
+    {
+      "album": {
         "name": "Saajanwa",
         "url": "https://open.spotify.com/album/66XAPpqu9pt3V1OZhRZBLZ"
       },
@@ -14751,6 +14853,28 @@
     },
     {
       "album": {
+        "name": "Suljhi Si Zindagi",
+        "url": "https://open.spotify.com/album/5ITehEOWyRmfU2HhmluwAF"
+      },
+      "artists": [
+        {
+          "name": "Vasuda Sharma",
+          "url": "https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL"
+        },
+        {
+          "name": "Akanksha Sethi",
+          "url": "https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Suljhi Si Zindagi",
+      "url": "https://open.spotify.com/track/19z1RfL6uKQwrieVnKWJcM"
+    },
+    {
+      "album": {
         "name": "Sun Bhi Le (From \"Ittu Si Baat\")",
         "url": "https://open.spotify.com/album/3KdGkT6ZiG1tDuRf7uWj70"
       },
@@ -15802,6 +15926,24 @@
       "duration_ms": 236181,
       "name": "Teri Mohabbat",
       "url": "https://open.spotify.com/track/73S4ddexakfYxzzFuWY3rB"
+    },
+    {
+      "album": {
+        "name": "Teri Muskurahat",
+        "url": "https://open.spotify.com/album/25HA2Nxxg1dQboK7mEZsLY"
+      },
+      "artists": [
+        {
+          "name": "Raj Barman",
+          "url": "https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183694,
+      "name": "Teri Muskurahat",
+      "url": "https://open.spotify.com/track/332rh0FbvIn4hOqtyUcwGe"
     },
     {
       "album": {

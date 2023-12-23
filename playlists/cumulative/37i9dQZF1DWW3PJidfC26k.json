@@ -42,10 +42,28 @@
       ],
       "date_added": "2021-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 136933,
       "name": "Alabama Bound",
       "url": "https://open.spotify.com/track/08TIEb8UlMX7e0QyPYPgjf"
+    },
+    {
+      "album": {
+        "name": "Carter Stanley's Eyes",
+        "url": "https://open.spotify.com/album/2UlZjIxlwzymbbDA4Msycy"
+      },
+      "artists": [
+        {
+          "name": "Peter Rowan",
+          "url": "https://open.spotify.com/artist/52FOkBVb83F2QduWKRqmhm"
+        }
+      ],
+      "date_added": "2021-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136933,
+      "name": "Alabama Bound",
+      "url": "https://open.spotify.com/track/1qbvuoI8EK1MoY2b5uqTr2"
     },
     {
       "album": {

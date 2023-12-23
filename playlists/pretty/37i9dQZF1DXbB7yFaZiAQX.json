@@ -1,12 +1,12 @@
 {
   "description": "'80s New Wave, New Romantic and Post-punk.",
-  "num_followers": 1005689,
+  "num_followers": 1005985,
   "original_name": "'80s All Lined Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZGI1OTlhODg0YmY3NWUxYmIxNTk2YTIwYjdmMGE3MGRhODcwZjk5",
+  "snapshot_id": "MCxhYzlkZjZjODA1OTU2ZmRjMDNiZGJjZmQwNGNkYzNjZjMwNDdkMzg1",
   "tracks": [
     {
       "added_at": "2023-05-03 07:47:14",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Violent Femmes",
-        "url": "https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG"
-      },
-      "artists": [
-        {
-          "name": "Violent Femmes",
-          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
-        }
-      ],
-      "duration_ms": 145706,
-      "name": "Blister In The Sun",
-      "url": "https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/2hallpchkYldMa5lGGf1Ko"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 252533,
       "name": "She Sells Sanctuary",
       "url": "https://open.spotify.com/track/3qLZ866ZfaK0B0R5FIqXLG"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Violent Femmes",
+        "url": "https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG"
+      },
+      "artists": [
+        {
+          "name": "Violent Femmes",
+          "url": "https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy"
+        }
+      ],
+      "duration_ms": 145706,
+      "name": "Blister In The Sun",
+      "url": "https://open.spotify.com/track/7jIAttgQTpLDoNtykIQXjH"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Love Bites",
-        "url": "https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg"
-      },
-      "artists": [
-        {
-          "name": "Buzzcocks",
-          "url": "https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y"
-        }
-      ],
-      "duration_ms": 163693,
-      "name": "Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version",
-      "url": "https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Scary Monsters (And Super Creeps) [2017 Remaster]",
         "url": "https://open.spotify.com/album/5fxvWHvIDPIALfTfRiwyB0"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 266160,
       "name": "Ashes to Ashes - 2017 Remaster",
       "url": "https://open.spotify.com/track/37CRPk0L5ZpfPeePEPwE0t"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Love Bites",
+        "url": "https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg"
+      },
+      "artists": [
+        {
+          "name": "Buzzcocks",
+          "url": "https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y"
+        }
+      ],
+      "duration_ms": 163693,
+      "name": "Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version",
+      "url": "https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "The Bela Session",
-        "url": "https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1"
-      },
-      "artists": [
-        {
-          "name": "Bauhaus",
-          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
-        }
-      ],
-      "duration_ms": 576703,
-      "name": "Bela Lugosi's Dead (Official Version)",
-      "url": "https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Orchestral Manoeuvres In The Dark (Remastered 2003)",
         "url": "https://open.spotify.com/album/5AN8aqTrcuMZO7rpD9U2yF"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 219066,
       "name": "Electricity - Remastered 2003",
       "url": "https://open.spotify.com/track/60TmG8cFPMBo7kTTFOLiAB"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "The Bela Session",
+        "url": "https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1"
+      },
+      "artists": [
+        {
+          "name": "Bauhaus",
+          "url": "https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi"
+        }
+      ],
+      "duration_ms": 576703,
+      "name": "Bela Lugosi's Dead (Official Version)",
+      "url": "https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Porcupine (Expanded; 2004 Remaster)",
-        "url": "https://open.spotify.com/album/4brJ6hWYqPj1sccgk390dC"
-      },
-      "artists": [
-        {
-          "name": "Echo & the Bunnymen",
-          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
-        }
-      ],
-      "duration_ms": 232746,
-      "name": "The Cutter",
-      "url": "https://open.spotify.com/track/617ahruubznvqzv7Nas3QX"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Non-Stop Erotic Cabaret",
         "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 323866,
       "name": "Say Hello, Wave Goodbye - 7\" Single Version",
       "url": "https://open.spotify.com/track/0Lx6O1tC3CPF1giLJIt5Jv"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Porcupine (Expanded; 2004 Remaster)",
+        "url": "https://open.spotify.com/album/4brJ6hWYqPj1sccgk390dC"
+      },
+      "artists": [
+        {
+          "name": "Echo & the Bunnymen",
+          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+        }
+      ],
+      "duration_ms": 232746,
+      "name": "The Cutter",
+      "url": "https://open.spotify.com/track/617ahruubznvqzv7Nas3QX"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "English Settlement",
-        "url": "https://open.spotify.com/album/2fDm6GpssR8S6uQnDE4MKM"
-      },
-      "artists": [
-        {
-          "name": "XTC",
-          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
-        }
-      ],
-      "duration_ms": 290667,
-      "name": "Senses Working Overtime - Remastered 2001",
-      "url": "https://open.spotify.com/track/0XDv7SLyMkGcAnb12fMHa1"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/0JVCzhWigJomwGmQhsBAtx"
       },
@@ -1975,6 +1959,22 @@
       "duration_ms": 171506,
       "name": "Our Lips Are Sealed",
       "url": "https://open.spotify.com/track/6su4BGoEQIhclaNzUosUye"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "English Settlement",
+        "url": "https://open.spotify.com/album/2fDm6GpssR8S6uQnDE4MKM"
+      },
+      "artists": [
+        {
+          "name": "XTC",
+          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+        }
+      ],
+      "duration_ms": 290667,
+      "name": "Senses Working Overtime - Remastered 2001",
+      "url": "https://open.spotify.com/track/0XDv7SLyMkGcAnb12fMHa1"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Sparkle In The Rain",
-        "url": "https://open.spotify.com/album/2fuGLrZ4Ju22UpWqGg5cDW"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 289920,
-      "name": "Waterfront - Remastered 2002",
-      "url": "https://open.spotify.com/track/3Mw3lZoplwJrVE5Qz7XRUx"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Eisb\u00e4r",
         "url": "https://open.spotify.com/album/6T7XaTroien9MaoWJZiUdE"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 288305,
       "name": "Eisb\u00e4r",
       "url": "https://open.spotify.com/track/6dO3t1e3pb7sxyDQbDyVNX"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Sparkle In The Rain",
+        "url": "https://open.spotify.com/album/2fuGLrZ4Ju22UpWqGg5cDW"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 289920,
+      "name": "Waterfront - Remastered 2002",
+      "url": "https://open.spotify.com/track/3Mw3lZoplwJrVE5Qz7XRUx"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Joined Up Writing/The Sitting Room",
-        "url": "https://open.spotify.com/album/15eoAwjHark9zAPE5z2GKJ"
-      },
-      "artists": [
-        {
-          "name": "Anne Clark",
-          "url": "https://open.spotify.com/artist/0RSRLPv7ZmcrlyboVGR0hL"
-        }
-      ],
-      "duration_ms": 324600,
-      "name": "Our Darkness",
-      "url": "https://open.spotify.com/track/09QcX1GC5LylW50EaLBAT5"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "We Are The '80s",
         "url": "https://open.spotify.com/album/48ajNqhmdKrGVwJo0UGMiV"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 249106,
       "name": "The More You Live, The More You Love",
       "url": "https://open.spotify.com/track/1lNn0udm3EHKFRCGpNKZxn"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Joined Up Writing/The Sitting Room",
+        "url": "https://open.spotify.com/album/15eoAwjHark9zAPE5z2GKJ"
+      },
+      "artists": [
+        {
+          "name": "Anne Clark",
+          "url": "https://open.spotify.com/artist/0RSRLPv7ZmcrlyboVGR0hL"
+        }
+      ],
+      "duration_ms": 324600,
+      "name": "Our Darkness",
+      "url": "https://open.spotify.com/track/09QcX1GC5LylW50EaLBAT5"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Black Celebration",
-        "url": "https://open.spotify.com/album/0JSOfVzxVTpyvxzXggc8rG"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "A Question of Lust",
-      "url": "https://open.spotify.com/track/4bYJ2lYZKYriZDWFeAnyj8"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Stoned and Dethroned",
         "url": "https://open.spotify.com/album/24tOMYmmWLNGiLSBaarqyb"
       },
@@ -2331,18 +2315,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Murmur",
-        "url": "https://open.spotify.com/album/4Mw9Gcu1LT7JaipXdwrq1Q"
+        "name": "Black Celebration",
+        "url": "https://open.spotify.com/album/0JSOfVzxVTpyvxzXggc8rG"
       },
       "artists": [
         {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
         }
       ],
-      "duration_ms": 245200,
-      "name": "Radio Free Europe",
-      "url": "https://open.spotify.com/track/46dGFTD918NMz1IP1rPJXO"
+      "duration_ms": 269000,
+      "name": "A Question of Lust",
+      "url": "https://open.spotify.com/track/4bYJ2lYZKYriZDWFeAnyj8"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2359,6 +2343,22 @@
       "duration_ms": 186626,
       "name": "You'll Always Find Me In The Kitchen At Parties",
       "url": "https://open.spotify.com/track/4ZHPfdvTgCDGIeP8fAUVpG"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Murmur",
+        "url": "https://open.spotify.com/album/4Mw9Gcu1LT7JaipXdwrq1Q"
+      },
+      "artists": [
+        {
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "Radio Free Europe",
+      "url": "https://open.spotify.com/track/46dGFTD918NMz1IP1rPJXO"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Some Great Reward (2006 Remaster)",
-        "url": "https://open.spotify.com/album/7DbpWj9i5uZ1UggeGRo1LZ"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 381560,
-      "name": "Blasphemous Rumours - 2006 Remaster",
-      "url": "https://open.spotify.com/track/5KjueTOwREhwpEcYrzD0Fz"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Dig That Groove Baby",
         "url": "https://open.spotify.com/album/2OwyqJHrZxmSoH05gG2X7Z"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 207480,
       "name": "Nellie the Elephant",
       "url": "https://open.spotify.com/track/38XNqOJLqiJXcummwwJx4u"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Quiet Life",
+        "url": "https://open.spotify.com/album/5KUNMuwPrKcWkiELM80qKT"
+      },
+      "artists": [
+        {
+          "name": "Japan",
+          "url": "https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR"
+        }
+      ],
+      "duration_ms": 289080,
+      "name": "Quiet Life",
+      "url": "https://open.spotify.com/track/7GTcfdzY73zsDINXbBzV7B"
     }
   ],
   "unique_name": "'80s All Lined Up",

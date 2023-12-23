@@ -431,6 +431,24 @@
     },
     {
       "album": {
+        "name": "ARRUME-SE COMIGO",
+        "url": "https://open.spotify.com/album/2LXHRtoW5kSOWsW2eXmlsa"
+      },
+      "artists": [
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226427,
+      "name": "ARRUME-SE COMIGO",
+      "url": "https://open.spotify.com/track/5uEC8WWulHOHNjEOgLAliZ"
+    },
+    {
+      "album": {
         "name": "Assault (Carro Forte)",
         "url": "https://open.spotify.com/album/4K5XemHceyhOJtQVVVtQqO"
       },
@@ -791,6 +809,32 @@
     },
     {
       "album": {
+        "name": "Blockkstar x TTF Freestyle!",
+        "url": "https://open.spotify.com/album/3TjoAvlwgZcGBG8gnmJ4h2"
+      },
+      "artists": [
+        {
+          "name": "LH CHUCRO",
+          "url": "https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH"
+        },
+        {
+          "name": "Phl Notunrboy",
+          "url": "https://open.spotify.com/artist/6OR5QDOXtB0dAKK3VEmXHr"
+        },
+        {
+          "name": "M\u2019DEP",
+          "url": "https://open.spotify.com/artist/1vde6oYF1r1Wu0tk1MTkZP"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167826,
+      "name": "Blockkstar x TTF Freestyle!",
+      "url": "https://open.spotify.com/track/3CqhjRnc5nRWlWiunZVZuo"
+    },
+    {
+      "album": {
         "name": "BLOCKO",
         "url": "https://open.spotify.com/album/2AUYOZad5ek65kNUprn5EM"
       },
@@ -806,7 +850,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 151489,
       "name": "BLOCKO",
       "url": "https://open.spotify.com/track/34Tg2hUpJ0KfHktOEOmv8G"
@@ -2444,7 +2488,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 211859,
       "name": "Espero Que Entendam - Freestyle",
       "url": "https://open.spotify.com/track/3MEMW13ORJh94KnERm44JM"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ciKEeRL2zU.md) - [plain]
 
 > Remember how love used to be, feel how it is and imagine how it can be with the best South African love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,916 likes - 75 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,918 likes - 75 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ciKEeRL2zU.md) - [plain]
 | 74 | [Sour Milk](https://open.spotify.com/track/3AYK6HKlBhIibr1vp2Wqwy) | [Joda Kgosi](https://open.spotify.com/artist/4JKR7xRiiHNUXEiHHwg1E8) | [Sour Milk](https://open.spotify.com/album/67CS03j1fTXxcdDSzHfqqd) | 3:03 |
 | 75 | [Truth Is](https://open.spotify.com/track/5oXYsq4dCGNrKq84Se3erf) | [Joda Kgosi](https://open.spotify.com/artist/4JKR7xRiiHNUXEiHHwg1E8) | [Truth Is](https://open.spotify.com/album/60iWM9LDKsLqDKKEThsI5g) | 3:22 |
 
-Snapshot ID: `MCw0M2ZjNmQ2NjEwODkyODNlNDIwMTczZGU1ZTA5ZGUyYmU0Njc3Mjc2`
+Snapshot ID: `MCw0YzJkMTE4YmZkNjNiMjMyMDhiYmQzNTFkOWU1ZWE2MjZmOTQyMDNi`

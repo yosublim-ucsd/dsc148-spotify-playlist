@@ -1,12 +1,12 @@
 {
   "description": "De r\u00e9u a ref - o filho deles quer viver essa vida. Foto: Grone, Orochi, SD9, Big Bllakk",
-  "num_followers": 35268,
+  "num_followers": 35280,
   "original_name": "Malandro Posturado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzJkODRiMGUyNDVhYWNhNzU5NjExYjUxYWRiZTZiNDFiMTdhZTA0",
+  "snapshot_id": "MCxmNDE0Y2RhMmY4NDdkMTkxOTdlOTNlZWE3ZmU1YTFjOTIyMzJmOWI2",
   "tracks": [
     {
       "added_at": "2023-12-19 13:52:45",
@@ -459,18 +459,22 @@
     {
       "added_at": "2023-12-19 13:52:45",
       "album": {
-        "name": "The King Of Drill \"TKOD\"",
-        "url": "https://open.spotify.com/album/21sJbIsra7VRrVy9bdSS8z"
+        "name": "COSTA QUENTE",
+        "url": "https://open.spotify.com/album/262D8mrqEGl3kNjV4n0RH8"
       },
       "artists": [
         {
-          "name": "Nebrugg",
-          "url": "https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC"
+          "name": "Flacko",
+          "url": "https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
         }
       ],
-      "duration_ms": 147003,
-      "name": "Zona Leste",
-      "url": "https://open.spotify.com/track/6tnn3cneF7iQ1byrQ9kixp"
+      "duration_ms": 166285,
+      "name": "COSTA QUENTE",
+      "url": "https://open.spotify.com/track/0Lv1yqE8zkffbocnMcY8vN"
     },
     {
       "added_at": "2023-12-19 13:52:45",
@@ -563,22 +567,18 @@
     {
       "added_at": "2023-12-19 13:52:45",
       "album": {
-        "name": "COSTA QUENTE",
-        "url": "https://open.spotify.com/album/262D8mrqEGl3kNjV4n0RH8"
+        "name": "The King Of Drill \"TKOD\"",
+        "url": "https://open.spotify.com/album/21sJbIsra7VRrVy9bdSS8z"
       },
       "artists": [
         {
-          "name": "Flacko",
-          "url": "https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+          "name": "Nebrugg",
+          "url": "https://open.spotify.com/artist/2UD8upUvL1eqllSlMpDIeC"
         }
       ],
-      "duration_ms": 166285,
-      "name": "COSTA QUENTE",
-      "url": "https://open.spotify.com/track/0Lv1yqE8zkffbocnMcY8vN"
+      "duration_ms": 147003,
+      "name": "Zona Leste",
+      "url": "https://open.spotify.com/track/6tnn3cneF7iQ1byrQ9kixp"
     },
     {
       "added_at": "2023-12-19 13:52:45",

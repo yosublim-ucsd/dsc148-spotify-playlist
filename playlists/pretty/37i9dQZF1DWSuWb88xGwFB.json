@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 31970,
+  "num_followers": 31989,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MWQ0YmUxNjZiMGM4OTU2MWU3YWQ0YTYxMGU1MDM0YWM3MTdkZTg1",
+  "snapshot_id": "MCxjNWJmYzNmMjA3MTcxYjcwZjVlZDZjZmNkNmEwZWFiNGM5Y2FkMzFh",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/3BLGNLZATTflFNr861JgiQ"
-      },
-      "artists": [
-        {
-          "name": "James Roach",
-          "url": "https://open.spotify.com/artist/6rop3rDr8Dtl7uNwsONcyP"
-        }
-      ],
-      "duration_ms": 369461,
-      "name": "Special (Club Mix)",
-      "url": "https://open.spotify.com/track/7oOS89jZA2PS7YyvCf2A6m"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "You Don't Know (MuthaFunkaz Mixes)",
         "url": "https://open.spotify.com/album/4PqEJS2uVhkonuNw128HWO"
       },
@@ -679,34 +663,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Sweet Ambience (Mixes)",
-        "url": "https://open.spotify.com/album/2NG6h81Fi7BUv1Vjbc0y4D"
+        "name": "Special",
+        "url": "https://open.spotify.com/album/3BLGNLZATTflFNr861JgiQ"
       },
       "artists": [
         {
-          "name": "Lovechild",
-          "url": "https://open.spotify.com/artist/2walEOww1vnqb5vfpBDZJQ"
+          "name": "James Roach",
+          "url": "https://open.spotify.com/artist/6rop3rDr8Dtl7uNwsONcyP"
         }
       ],
-      "duration_ms": 300943,
-      "name": "Sweet Ambience (Club Mix)",
-      "url": "https://open.spotify.com/track/0gB9g69Sq29fbkbTix26lj"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Rise from Your Grave",
-        "url": "https://open.spotify.com/album/6AEiF5xNaPSp1PzYbHZwAe"
-      },
-      "artists": [
-        {
-          "name": "Phuture",
-          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
-        }
-      ],
-      "duration_ms": 396586,
-      "name": "Rise from Your Grave (Wild pitch mix)",
-      "url": "https://open.spotify.com/track/5TzX50pYcHt96ZlZzFAa67"
+      "duration_ms": 369461,
+      "name": "Special (Club Mix)",
+      "url": "https://open.spotify.com/track/7oOS89jZA2PS7YyvCf2A6m"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -731,6 +699,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Rise from Your Grave",
+        "url": "https://open.spotify.com/album/6AEiF5xNaPSp1PzYbHZwAe"
+      },
+      "artists": [
+        {
+          "name": "Phuture",
+          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
+        }
+      ],
+      "duration_ms": 396586,
+      "name": "Rise from Your Grave (Wild pitch mix)",
+      "url": "https://open.spotify.com/track/5TzX50pYcHt96ZlZzFAa67"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Wanna Be Your Girl / Don't You Want Me (Mixes)",
         "url": "https://open.spotify.com/album/4YCvJWj2bP2270NsPYb4B2"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 297037,
       "name": "Wanna Be Your Girl (A 'G' Thang Mix)",
       "url": "https://open.spotify.com/track/7EewnEBTJx3JDYoy7oFwc0"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Sweet Ambience (Mixes)",
+        "url": "https://open.spotify.com/album/2NG6h81Fi7BUv1Vjbc0y4D"
+      },
+      "artists": [
+        {
+          "name": "Lovechild",
+          "url": "https://open.spotify.com/artist/2walEOww1vnqb5vfpBDZJQ"
+        }
+      ],
+      "duration_ms": 300943,
+      "name": "Sweet Ambience (Club Mix)",
+      "url": "https://open.spotify.com/track/0gB9g69Sq29fbkbTix26lj"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -863,18 +863,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Spark da Meth",
-        "url": "https://open.spotify.com/album/0CK0eq8QWkn1xRp4LXYx8j"
+        "name": "Alright (feat. Earl Bennett)",
+        "url": "https://open.spotify.com/album/6Vvh6fiEizIRiigggApDXR"
       },
       "artists": [
         {
-          "name": "Da Mongoloids",
-          "url": "https://open.spotify.com/artist/4kFSMAFsG778Q66t3zHXaG"
+          "name": "BOP",
+          "url": "https://open.spotify.com/artist/4z0VQ5H4ENxPT0983Rsf8Z"
+        },
+        {
+          "name": "Earl Bennett",
+          "url": "https://open.spotify.com/artist/23RcTVzVbJsEOQYsp4CQKe"
         }
       ],
-      "duration_ms": 398566,
-      "name": "Spark da Meth (Bangin Like a Benzi Mix)",
-      "url": "https://open.spotify.com/track/1IOM3ZT5FbNk9PgGieEdRg"
+      "duration_ms": 605294,
+      "name": "Alright (feat. Earl Bennett) (BOP Journey Remix)",
+      "url": "https://open.spotify.com/track/6W93D6tMKu7lyE4jjgxhcv"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -895,22 +899,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Alright (feat. Earl Bennett)",
-        "url": "https://open.spotify.com/album/6Vvh6fiEizIRiigggApDXR"
+        "name": "Spark da Meth",
+        "url": "https://open.spotify.com/album/0CK0eq8QWkn1xRp4LXYx8j"
       },
       "artists": [
         {
-          "name": "BOP",
-          "url": "https://open.spotify.com/artist/4z0VQ5H4ENxPT0983Rsf8Z"
-        },
-        {
-          "name": "Earl Bennett",
-          "url": "https://open.spotify.com/artist/23RcTVzVbJsEOQYsp4CQKe"
+          "name": "Da Mongoloids",
+          "url": "https://open.spotify.com/artist/4kFSMAFsG778Q66t3zHXaG"
         }
       ],
-      "duration_ms": 605294,
-      "name": "Alright (feat. Earl Bennett) (BOP Journey Remix)",
-      "url": "https://open.spotify.com/track/6W93D6tMKu7lyE4jjgxhcv"
+      "duration_ms": 398566,
+      "name": "Spark da Meth (Bangin Like a Benzi Mix)",
+      "url": "https://open.spotify.com/track/1IOM3ZT5FbNk9PgGieEdRg"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Muevete Mama",
-        "url": "https://open.spotify.com/album/3zmd8wHIeDNeAGHZS5TTwx"
-      },
-      "artists": [
-        {
-          "name": "Afro-Cube",
-          "url": "https://open.spotify.com/artist/404yHHpunUI8aDneAYbY1u"
-        }
-      ],
-      "duration_ms": 414378,
-      "name": "Muevete Mama (Broder Mix)",
-      "url": "https://open.spotify.com/track/3INDjdGtsfQPzfp1MMjcWK"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Justify",
         "url": "https://open.spotify.com/album/6PhheNrljrGFJyhGe6RQSH"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 545040,
       "name": "Justify (Vocal Mix)",
       "url": "https://open.spotify.com/track/4Eo3NoZQN7K4q8DJd3a2v9"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Muevete Mama",
+        "url": "https://open.spotify.com/album/3zmd8wHIeDNeAGHZS5TTwx"
+      },
+      "artists": [
+        {
+          "name": "Afro-Cube",
+          "url": "https://open.spotify.com/artist/404yHHpunUI8aDneAYbY1u"
+        }
+      ],
+      "duration_ms": 414378,
+      "name": "Muevete Mama (Broder Mix)",
+      "url": "https://open.spotify.com/track/3INDjdGtsfQPzfp1MMjcWK"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1072,22 +1072,6 @@
       },
       "artists": [
         {
-          "name": "Barbara Douglas",
-          "url": "https://open.spotify.com/artist/6lCEiSHsqoAZ61AiHbTw6w"
-        }
-      ],
-      "duration_ms": 260065,
-      "name": "Shine (Sundown Dub)",
-      "url": "https://open.spotify.com/track/20PGCMaMNwACzTtZGdiCBm"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
-        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
-      },
-      "artists": [
-        {
           "name": "Club Ultimate",
           "url": "https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK"
         }
@@ -1115,54 +1099,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Beat That Makes U Move",
-        "url": "https://open.spotify.com/album/5GyM1JW6iNfthvDAAuQZnX"
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
+        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
       },
       "artists": [
         {
-          "name": "Bass Hitt",
-          "url": "https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR"
-        },
-        {
-          "name": "Dreamgirl Vee",
-          "url": "https://open.spotify.com/artist/4D7oLTG2VmYSHZkWfYkduN"
+          "name": "Barbara Douglas",
+          "url": "https://open.spotify.com/artist/6lCEiSHsqoAZ61AiHbTw6w"
         }
       ],
-      "duration_ms": 458306,
-      "name": "The Beat That Makes U Move (The Rhythm Hype Mix)",
-      "url": "https://open.spotify.com/track/2un4L4HUr8Q17tHtehjM81"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "DJ Sneak EP-Dancin'",
-        "url": "https://open.spotify.com/album/69jwLtxrbsyD2TFAjZANky"
-      },
-      "artists": [
-        {
-          "name": "DJ Sneak",
-          "url": "https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr"
-        }
-      ],
-      "duration_ms": 731735,
-      "name": "Dancin",
-      "url": "https://open.spotify.com/track/1eoiVmdM3ja0wRN4Zfh9HD"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Strictly Rhythms, Vol. 1",
-        "url": "https://open.spotify.com/album/6VfiD0SC34baxLDlDxtPI2"
-      },
-      "artists": [
-        {
-          "name": "Kenny Dope",
-          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
-        }
-      ],
-      "duration_ms": 766733,
-      "name": "Tribal Seagulls",
-      "url": "https://open.spotify.com/track/0QsxEwYwa7FeF3u5lE6lc6"
+      "duration_ms": 260065,
+      "name": "Shine (Sundown Dub)",
+      "url": "https://open.spotify.com/track/20PGCMaMNwACzTtZGdiCBm"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1183,6 +1131,58 @@
       "duration_ms": 233466,
       "name": "The Warning (2 Copy Mix)",
       "url": "https://open.spotify.com/track/6zUi8w1eVSwqBl1YbmxDKS"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Beat That Makes U Move",
+        "url": "https://open.spotify.com/album/5GyM1JW6iNfthvDAAuQZnX"
+      },
+      "artists": [
+        {
+          "name": "Bass Hitt",
+          "url": "https://open.spotify.com/artist/1AzJbkaxkRGTXx25UoVPbR"
+        },
+        {
+          "name": "Dreamgirl Vee",
+          "url": "https://open.spotify.com/artist/4D7oLTG2VmYSHZkWfYkduN"
+        }
+      ],
+      "duration_ms": 458306,
+      "name": "The Beat That Makes U Move (The Rhythm Hype Mix)",
+      "url": "https://open.spotify.com/track/2un4L4HUr8Q17tHtehjM81"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Strictly Rhythms, Vol. 1",
+        "url": "https://open.spotify.com/album/6VfiD0SC34baxLDlDxtPI2"
+      },
+      "artists": [
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+        }
+      ],
+      "duration_ms": 766733,
+      "name": "Tribal Seagulls",
+      "url": "https://open.spotify.com/track/0QsxEwYwa7FeF3u5lE6lc6"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "DJ Sneak EP-Dancin'",
+        "url": "https://open.spotify.com/album/69jwLtxrbsyD2TFAjZANky"
+      },
+      "artists": [
+        {
+          "name": "DJ Sneak",
+          "url": "https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr"
+        }
+      ],
+      "duration_ms": 731735,
+      "name": "Dancin",
+      "url": "https://open.spotify.com/track/1eoiVmdM3ja0wRN4Zfh9HD"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Tribal - EP (Remixes)",
-        "url": "https://open.spotify.com/album/0zJyxO4jsvtADO6fyt4wdo"
-      },
-      "artists": [
-        {
-          "name": "River Ocean",
-          "url": "https://open.spotify.com/artist/07cAb715kzeqA6rVa0hh58"
-        }
-      ],
-      "duration_ms": 243920,
-      "name": "Love & Happiness (Yemaya Y Och\u00f9n) - Radio Edit",
-      "url": "https://open.spotify.com/track/5J51JZixTx08GKXwufn5Cw"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Straight from the Bario EP",
         "url": "https://open.spotify.com/album/6h4R4lF6pLr6ZxtyKcaG9J"
       },
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
-        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
+        "name": "The Tribal - EP (Remixes)",
+        "url": "https://open.spotify.com/album/0zJyxO4jsvtADO6fyt4wdo"
       },
       "artists": [
         {
-          "name": "Mon\u00e9",
-          "url": "https://open.spotify.com/artist/4KXZDoqdMxd9S8nw7T6THK"
+          "name": "River Ocean",
+          "url": "https://open.spotify.com/artist/07cAb715kzeqA6rVa0hh58"
         }
       ],
-      "duration_ms": 334220,
-      "name": "We Can Make It (The \u2018I Believe' Dub)",
-      "url": "https://open.spotify.com/track/5Os1U3nFLRBZ7eB4QTTMmZ"
+      "duration_ms": 243920,
+      "name": "Love & Happiness (Yemaya Y Och\u00f9n) - Radio Edit",
+      "url": "https://open.spotify.com/track/5J51JZixTx08GKXwufn5Cw"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1279,6 +1263,22 @@
       "duration_ms": 554971,
       "name": "The Sound (The Studio 54 Mix)",
       "url": "https://open.spotify.com/track/6186cF9Qxme1RSySI6v3PR"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
+        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
+      },
+      "artists": [
+        {
+          "name": "Mon\u00e9",
+          "url": "https://open.spotify.com/artist/4KXZDoqdMxd9S8nw7T6THK"
+        }
+      ],
+      "duration_ms": 334220,
+      "name": "We Can Make It (The \u2018I Believe' Dub)",
+      "url": "https://open.spotify.com/track/5Os1U3nFLRBZ7eB4QTTMmZ"
     },
     {
       "added_at": "2022-03-03 13:59:16",

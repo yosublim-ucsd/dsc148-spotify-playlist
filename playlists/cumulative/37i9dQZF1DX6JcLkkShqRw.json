@@ -1056,7 +1056,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 292752,
       "name": "ADICTO (feat. Best, Bayriton)",
       "url": "https://open.spotify.com/track/0pVFw0LHdpjAWI2xwoUXQZ"
@@ -1492,7 +1492,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 228756,
       "name": "Amor Artificial",
       "url": "https://open.spotify.com/track/0wYZOKxDy86eThYuoo66IB"
@@ -1772,7 +1772,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 189216,
       "name": "Anti Rana",
       "url": "https://open.spotify.com/track/1Zjdt705TM2Hr26YDKgnyc"
@@ -1934,7 +1934,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 214800,
       "name": "Arza y Toma",
       "url": "https://open.spotify.com/track/7Jwb6OyKlFaNwCcLKbhzKz"
@@ -2162,7 +2162,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 265527,
       "name": "Ay\u00fadame a Imaginar",
       "url": "https://open.spotify.com/track/0wzC02iW7IaqAASCgDR2Qs"
@@ -2400,7 +2400,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 134400,
       "name": "Bailoteo",
       "url": "https://open.spotify.com/track/2aUF5qvp63HEYbvLALZn09"
@@ -2608,7 +2608,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 135596,
       "name": "Bellakeo",
       "url": "https://open.spotify.com/track/04KSsK5xZxbLeVErJscMBX"
@@ -4490,7 +4490,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 155843,
       "name": "CONTENT EXPLICIT",
       "url": "https://open.spotify.com/track/0slrMPh8Cyu2oMU30OZL34"
@@ -5354,7 +5354,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 179258,
       "name": "De Nada - Remix",
       "url": "https://open.spotify.com/track/3jqFGtyQtgxRgtFaoEAoac"
@@ -5790,7 +5790,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-10",
+      "date_removed": null,
       "duration_ms": 175265,
       "name": "Diamante en Bruto",
       "url": "https://open.spotify.com/track/74Qx3wwFjYvEYvfSsOnLWy"
@@ -8658,7 +8658,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 140459,
       "name": "GUSTOSA",
       "url": "https://open.spotify.com/track/7H3kGnOJWMlPqBLQ0OEYBb"
@@ -9320,7 +9320,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 157200,
       "name": "Hundi\u00e9ndome",
       "url": "https://open.spotify.com/track/5fw4kQKeuCeNMWA047XMoC"
@@ -10376,7 +10376,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 177245,
       "name": "La Muerte Me Esta Buscando",
       "url": "https://open.spotify.com/track/55KQmWVe2McOJeUxBGGlkr"
@@ -11678,7 +11678,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 116033,
       "name": "MAGNATA",
       "url": "https://open.spotify.com/track/6FBcaOaJPmz1n64Y26WeI1"
@@ -11892,6 +11892,28 @@
       "duration_ms": 190928,
       "name": "Mala M\u00eda",
       "url": "https://open.spotify.com/track/7FfQ2E4LqvwKKOyKXyC2L2"
+    },
+    {
+      "album": {
+        "name": "Otro Diciembre Ac\u00e1",
+        "url": "https://open.spotify.com/album/2P9F4UcnapUxXqIbGadrsF"
+      },
+      "artists": [
+        {
+          "name": "Canals",
+          "url": "https://open.spotify.com/artist/5RxLAt9nYq8Ww3Bg5kmXOn"
+        },
+        {
+          "name": "n.a.n.o",
+          "url": "https://open.spotify.com/artist/7aVrFkKzVbDCQsKclkEYpm"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139500,
+      "name": "MALBA",
+      "url": "https://open.spotify.com/track/5T0bUwInCuAQAsjJhr9hYX"
     },
     {
       "album": {
@@ -12796,6 +12818,28 @@
       "duration_ms": 157793,
       "name": "Mi Bruja",
       "url": "https://open.spotify.com/track/0IsCKyajDh4QkLWqmRJdOJ"
+    },
+    {
+      "album": {
+        "name": "\u00c9NFASIS",
+        "url": "https://open.spotify.com/album/3Yg6mB7aDyVFTZBMcJPG5B"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Drakomafia",
+          "url": "https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157793,
+      "name": "MI BRUJA",
+      "url": "https://open.spotify.com/track/39ioahXgovoR6DlDsoEqbk"
     },
     {
       "album": {
@@ -14243,6 +14287,24 @@
     },
     {
       "album": {
+        "name": "Negro Cursi",
+        "url": "https://open.spotify.com/album/7LqHd1AY8zjuwbyHKprJz4"
+      },
+      "artists": [
+        {
+          "name": "El Doctor",
+          "url": "https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Negro Cursi",
+      "url": "https://open.spotify.com/track/04OuLVuV5uxOz3mWKGNINS"
+    },
+    {
+      "album": {
         "name": "Nena",
         "url": "https://open.spotify.com/album/5Ymw3x5pQric87TAWRTnva"
       },
@@ -15261,6 +15323,24 @@
     },
     {
       "album": {
+        "name": "nunca es lo mismo y.y",
+        "url": "https://open.spotify.com/album/1VXkungPamxIJ0A8rcQMFV"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "nunca es lo mismo y.y",
+      "url": "https://open.spotify.com/track/1rA4phidcfjdWIN73fG75X"
+    },
+    {
+      "album": {
         "name": "O.V.N.I.",
         "url": "https://open.spotify.com/album/2Nr2a6XmRZ6ueRhA8OhT4r"
       },
@@ -15952,7 +16032,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 205714,
       "name": "Pa Que Me Llamas",
       "url": "https://open.spotify.com/track/19oJroFFr7EGiIquLk102f"
@@ -18040,7 +18120,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 204894,
       "name": "REBULEO",
       "url": "https://open.spotify.com/track/6qepYRhvU44L9kYkB8TLMC"
@@ -18234,7 +18314,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-18",
+      "date_removed": null,
       "duration_ms": 134000,
       "name": "Revenge",
       "url": "https://open.spotify.com/track/7JEXEuuEQ7qDTW1DAOpFCz"
@@ -19004,7 +19084,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-17",
+      "date_removed": null,
       "duration_ms": 159157,
       "name": "SE ENDIABLA",
       "url": "https://open.spotify.com/track/2B9tPbnFANp0TTyX1C8tgz"
@@ -21558,7 +21638,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 178425,
       "name": "Tu Flaite",
       "url": "https://open.spotify.com/track/03jyAhC78tqfRqXPo73qBt"
@@ -23294,7 +23374,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 195555,
       "name": "X5",
       "url": "https://open.spotify.com/track/5Ocr2jOr3Qs5ncv4Fduvzk"

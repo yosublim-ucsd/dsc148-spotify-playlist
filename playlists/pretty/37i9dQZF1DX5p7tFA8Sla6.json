@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 54448,
+  "num_followers": 54470,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDlkOWFlNjY5OWZhMDQzNDY0ODMwMTIwMzFlMGNhYzNmNGI5MjJj",
+  "snapshot_id": "MCxhMWNiODdiMTQ5NjJiMThhNGZmYjMzNzY5YmUxNzJiMjRkYzM3MzJl",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -795,22 +795,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Back In The Day: The Best Of Bootsy",
-        "url": "https://open.spotify.com/album/5drHXExICEAsiNehDQvYwV"
-      },
-      "artists": [
-        {
-          "name": "Bootsy Collins",
-          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
-        }
-      ],
-      "duration_ms": 339373,
-      "name": "Bootzilla",
-      "url": "https://open.spotify.com/track/5js0eS99CZbJpbZW6A9T95"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Mount Pleasant",
         "url": "https://open.spotify.com/album/080iszZgRFPqymcbo1qlOK"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 222957,
       "name": "You're Gone",
       "url": "https://open.spotify.com/track/2auIQ3gf99I7wFz2DbZKWk"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Back In The Day: The Best Of Bootsy",
+        "url": "https://open.spotify.com/album/5drHXExICEAsiNehDQvYwV"
+      },
+      "artists": [
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        }
+      ],
+      "duration_ms": 339373,
+      "name": "Bootzilla",
+      "url": "https://open.spotify.com/track/5js0eS99CZbJpbZW6A9T95"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -877,22 +877,6 @@
       "url": "https://open.spotify.com/track/3dFVdhSdZ88dmGNlTHWC5P"
     },
     {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Livin' It Up",
-        "url": "https://open.spotify.com/album/2ArLz9gq7VhXgnB5s6IFdH"
-      },
-      "artists": [
-        {
-          "name": "Mandrill",
-          "url": "https://open.spotify.com/artist/6RWnslEkqboHbDg0OUabe5"
-        }
-      ],
-      "duration_ms": 261945,
-      "name": "Livin' It Up",
-      "url": "https://open.spotify.com/track/62W5VouctXG9jggZdHaEi1"
-    },
-    {
       "added_at": "2019-09-20 18:33:34",
       "album": {
         "name": "Stay Good",
@@ -915,6 +899,22 @@
       "duration_ms": 231963,
       "name": "Funk Ain't Ova",
       "url": "https://open.spotify.com/track/5nBgM7vUM7w9bNKW2MFZhH"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Livin' It Up",
+        "url": "https://open.spotify.com/album/2ArLz9gq7VhXgnB5s6IFdH"
+      },
+      "artists": [
+        {
+          "name": "Mandrill",
+          "url": "https://open.spotify.com/artist/6RWnslEkqboHbDg0OUabe5"
+        }
+      ],
+      "duration_ms": 261945,
+      "name": "Livin' It Up",
+      "url": "https://open.spotify.com/track/62W5VouctXG9jggZdHaEi1"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Breaks from the Border",
-        "url": "https://open.spotify.com/album/1ZwpOB2GRebtyEZgUjsjhH"
-      },
-      "artists": [
-        {
-          "name": "The New Mastersounds",
-          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
-        }
-      ],
-      "duration_ms": 191160,
-      "name": "Take What You Need",
-      "url": "https://open.spotify.com/track/6M9pnJ05Bdwv4jqfQS67YE"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "The Deep End",
         "url": "https://open.spotify.com/album/1BRjZuuUCqYjCDAOhMnJ29"
       },
@@ -1163,6 +1147,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Breaks from the Border",
+        "url": "https://open.spotify.com/album/1ZwpOB2GRebtyEZgUjsjhH"
+      },
+      "artists": [
+        {
+          "name": "The New Mastersounds",
+          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "Take What You Need",
+      "url": "https://open.spotify.com/track/6M9pnJ05Bdwv4jqfQS67YE"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Third Wall Chronicles",
         "url": "https://open.spotify.com/album/34YrKUuESihhNFM1HzXInQ"
       },
@@ -1175,22 +1175,6 @@
       "duration_ms": 220093,
       "name": "This Funk (Give Me a Hand)",
       "url": "https://open.spotify.com/track/3GkxeoalBCGvapPTX1nA0U"
-    },
-    {
-      "added_at": "2019-09-06 07:01:00",
-      "album": {
-        "name": "Drum Machine",
-        "url": "https://open.spotify.com/album/2SjcwLgHaKsIiBNToQZEwk"
-      },
-      "artists": [
-        {
-          "name": "Pure Colors",
-          "url": "https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql"
-        }
-      ],
-      "duration_ms": 183223,
-      "name": "Drum Machine",
-      "url": "https://open.spotify.com/track/1W0YW5VijazNdZDHEs6HQ1"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1211,6 +1195,22 @@
       "duration_ms": 274580,
       "name": "All This Love That I'm Giving",
       "url": "https://open.spotify.com/track/5hj0KzWvcfEZ4M1JjIwbU3"
+    },
+    {
+      "added_at": "2019-09-06 07:01:00",
+      "album": {
+        "name": "Drum Machine",
+        "url": "https://open.spotify.com/album/2SjcwLgHaKsIiBNToQZEwk"
+      },
+      "artists": [
+        {
+          "name": "Pure Colors",
+          "url": "https://open.spotify.com/artist/6pa33j3GieYhexuZGFA0ql"
+        }
+      ],
+      "duration_ms": 183223,
+      "name": "Drum Machine",
+      "url": "https://open.spotify.com/track/1W0YW5VijazNdZDHEs6HQ1"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Death or Devotion",
-        "url": "https://open.spotify.com/album/6n1UQ3O3RHsnxBd1FNGgVl"
-      },
-      "artists": [
-        {
-          "name": "The Motet",
-          "url": "https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN"
-        }
-      ],
-      "duration_ms": 265800,
-      "name": "Death Or Devotion",
-      "url": "https://open.spotify.com/track/55tmpW6AkuMcIZKTbaAWCm"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Soul Side of Town",
         "url": "https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 328479,
       "name": "Hangin' with My Baby",
       "url": "https://open.spotify.com/track/3ZoLqDFPHCyq4jeIMHBODq"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Death or Devotion",
+        "url": "https://open.spotify.com/album/6n1UQ3O3RHsnxBd1FNGgVl"
+      },
+      "artists": [
+        {
+          "name": "The Motet",
+          "url": "https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN"
+        }
+      ],
+      "duration_ms": 265800,
+      "name": "Death Or Devotion",
+      "url": "https://open.spotify.com/track/55tmpW6AkuMcIZKTbaAWCm"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1329,6 +1329,26 @@
       "url": "https://open.spotify.com/track/3lMcxADyU7bEM8y0ktXHJB"
     },
     {
+      "added_at": "2019-09-20 18:17:51",
+      "album": {
+        "name": "Shake It",
+        "url": "https://open.spotify.com/album/2lDlIdzf14yMxmPxF4Orvx"
+      },
+      "artists": [
+        {
+          "name": "The New Mastersounds",
+          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
+        },
+        {
+          "name": "Lamar Williams Jr.",
+          "url": "https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4"
+        }
+      ],
+      "duration_ms": 177080,
+      "name": "Shake It",
+      "url": "https://open.spotify.com/track/34gV8KREMiciMm8annmIOo"
+    },
+    {
       "added_at": "2019-08-22 14:26:16",
       "album": {
         "name": "Dirty Word",
@@ -1359,26 +1379,6 @@
       "duration_ms": 273880,
       "name": "Water",
       "url": "https://open.spotify.com/track/5zo7avEFmAXh1Xh0lorTw0"
-    },
-    {
-      "added_at": "2019-09-20 18:17:51",
-      "album": {
-        "name": "Shake It",
-        "url": "https://open.spotify.com/album/2lDlIdzf14yMxmPxF4Orvx"
-      },
-      "artists": [
-        {
-          "name": "The New Mastersounds",
-          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
-        },
-        {
-          "name": "Lamar Williams Jr.",
-          "url": "https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4"
-        }
-      ],
-      "duration_ms": 177080,
-      "name": "Shake It",
-      "url": "https://open.spotify.com/track/34gV8KREMiciMm8annmIOo"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Gnomes and Badgers",
+        "url": "https://open.spotify.com/album/2PtbRSz0TpdN7lQm6vntNr"
+      },
+      "artists": [
+        {
+          "name": "Karl Denson",
+          "url": "https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "I'm Your Biggest Fan",
+      "url": "https://open.spotify.com/track/6UpcqV2QSaMJENWjVkMgAT"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Vs.",
         "url": "https://open.spotify.com/album/7fROjXzlwT8v6VTSWhIKBY"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 224832,
       "name": "Losin' Streak (feat. Daniel Merriweather)",
       "url": "https://open.spotify.com/track/2cyTtLjjuO9j9M3gyWJ8Du"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Gnomes and Badgers",
-        "url": "https://open.spotify.com/album/2PtbRSz0TpdN7lQm6vntNr"
-      },
-      "artists": [
-        {
-          "name": "Karl Denson",
-          "url": "https://open.spotify.com/artist/00ZLAUFA0jWOsSZKzIrM6v"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "I'm Your Biggest Fan",
-      "url": "https://open.spotify.com/track/6UpcqV2QSaMJENWjVkMgAT"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Lab Experiments, Vol. 2",
-        "url": "https://open.spotify.com/album/6j0BOlgrf1L0rBfI6fqxmA"
-      },
-      "artists": [
-        {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
-        },
-        {
-          "name": "Kaiit",
-          "url": "https://open.spotify.com/artist/05GTlMes7SkTlE9JcIvYB2"
-        }
-      ],
-      "duration_ms": 211615,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/3EQOwmp82jHkPtSUnG3aPn"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Amplified Experiment",
         "url": "https://open.spotify.com/album/4cS75aWftbOa1nTMdkg27E"
       },
@@ -1615,6 +1595,42 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Chasing Gold",
+        "url": "https://open.spotify.com/album/43agPW88PbT44L6SrZr9dJ"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Wilson",
+          "url": "https://open.spotify.com/artist/7jZXfSHSrqtbEgJsnpPPIk"
+        }
+      ],
+      "duration_ms": 274237,
+      "name": "Word Is Out",
+      "url": "https://open.spotify.com/track/3irXL694Levp0Uzrnq5yva"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Lab Experiments, Vol. 2",
+        "url": "https://open.spotify.com/album/6j0BOlgrf1L0rBfI6fqxmA"
+      },
+      "artists": [
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        },
+        {
+          "name": "Kaiit",
+          "url": "https://open.spotify.com/artist/05GTlMes7SkTlE9JcIvYB2"
+        }
+      ],
+      "duration_ms": 211615,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/3EQOwmp82jHkPtSUnG3aPn"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "In Search Of Better Days",
         "url": "https://open.spotify.com/album/2f83h1GYlE4SrVseNnSvQ4"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 281133,
       "name": "Just Say Nothing",
       "url": "https://open.spotify.com/track/6oBOx9S6xhHbAkznP2wiNC"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Chasing Gold",
-        "url": "https://open.spotify.com/album/43agPW88PbT44L6SrZr9dJ"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Wilson",
-          "url": "https://open.spotify.com/artist/7jZXfSHSrqtbEgJsnpPPIk"
-        }
-      ],
-      "duration_ms": 274237,
-      "name": "Word Is Out",
-      "url": "https://open.spotify.com/track/3irXL694Levp0Uzrnq5yva"
     },
     {
       "added_at": "2019-08-22 14:26:16",

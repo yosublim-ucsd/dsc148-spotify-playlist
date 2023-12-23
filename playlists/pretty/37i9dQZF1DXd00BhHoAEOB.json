@@ -1,12 +1,12 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 64529,
+  "num_followers": 64557,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNDY2MDUyNmExNzQzN2FlYzkwOWQ5YWI4YWEwZGVlZmQyN2Q4NGFk",
+  "snapshot_id": "MCw1NDI0ODQwNTAyYTI1MDM3ZTgwYmZlOTQwZTdkZmNmY2FmMzQ3MGJj",
   "tracks": [
     {
       "added_at": "2023-06-15 16:40:57",
@@ -1175,22 +1175,18 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "Tu Amor No Vale un Bolero",
-        "url": "https://open.spotify.com/album/66x0bo3TSXpCZLKMF4NjzQ"
+        "name": "Hombre Invisible",
+        "url": "https://open.spotify.com/album/6di4m3nzYyO0PIQP4QLCPU"
       },
       "artists": [
         {
-          "name": "Pilar Cabrera",
-          "url": "https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva"
-        },
-        {
-          "name": "Lorena Jimenez",
-          "url": "https://open.spotify.com/artist/4DdnLfUESB3baPYYdT0sNu"
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
         }
       ],
-      "duration_ms": 206710,
-      "name": "Tu Amor No Vale un Bolero",
-      "url": "https://open.spotify.com/track/0hKJCsS3XUVEECfslnauKv"
+      "duration_ms": 294373,
+      "name": "Colmena",
+      "url": "https://open.spotify.com/track/1LDFu2wQ1eiaUNBuCYjXod"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -1211,18 +1207,22 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "Hombre Invisible",
-        "url": "https://open.spotify.com/album/6di4m3nzYyO0PIQP4QLCPU"
+        "name": "Tu Amor No Vale un Bolero",
+        "url": "https://open.spotify.com/album/66x0bo3TSXpCZLKMF4NjzQ"
       },
       "artists": [
         {
-          "name": "Ely Guerra",
-          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
+          "name": "Pilar Cabrera",
+          "url": "https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva"
+        },
+        {
+          "name": "Lorena Jimenez",
+          "url": "https://open.spotify.com/artist/4DdnLfUESB3baPYYdT0sNu"
         }
       ],
-      "duration_ms": 294373,
-      "name": "Colmena",
-      "url": "https://open.spotify.com/track/1LDFu2wQ1eiaUNBuCYjXod"
+      "duration_ms": 206710,
+      "name": "Tu Amor No Vale un Bolero",
+      "url": "https://open.spotify.com/track/0hKJCsS3XUVEECfslnauKv"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
+        "name": "Susana Baca",
+        "url": "https://open.spotify.com/album/5rvmqZXWJaqmZC2FVzz4WS"
+      },
+      "artists": [
+        {
+          "name": "Susana Baca",
+          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
+        }
+      ],
+      "duration_ms": 298573,
+      "name": "Caras Lindas",
+      "url": "https://open.spotify.com/track/2sh3LZ6VPJSIUUuhbx3P9I"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
         "name": "Eso",
         "url": "https://open.spotify.com/album/4WV2QblWzbuZhaoI1qeH7W"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 242944,
       "name": "Eso",
       "url": "https://open.spotify.com/track/5FBiauPqHLjdm4pZLIEOg2"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
-        "name": "Susana Baca",
-        "url": "https://open.spotify.com/album/5rvmqZXWJaqmZC2FVzz4WS"
-      },
-      "artists": [
-        {
-          "name": "Susana Baca",
-          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
-        }
-      ],
-      "duration_ms": 298573,
-      "name": "Caras Lindas",
-      "url": "https://open.spotify.com/track/2sh3LZ6VPJSIUUuhbx3P9I"
     },
     {
       "added_at": "2023-06-15 16:40:57",

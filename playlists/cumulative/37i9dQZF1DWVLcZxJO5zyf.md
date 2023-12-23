@@ -4,7 +4,7 @@
 
 > Ouça todos as novidades e hits do pop br aqui e agora! Foto: Carol Biazin, Marina Sena, Vulgo FK
 
-257 songs - 11 hr 54 min
+258 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Down, Down, Down](https://open.spotify.com/track/0rJZEBFFrIsNLpJ5ZKjfZt) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Back to Be](https://open.spotify.com/album/345Rzs9N9hE2h7caTpMdmr) | 3:03 | 2022-03-25 | 2022-09-24 |
 | [ELEMENTO X](https://open.spotify.com/track/68byKiGzLvQo7VWbXIYTBx) | [PRISCILLA](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [ELEMENTO X](https://open.spotify.com/album/5QAJoeeHiDDHRO2Nwz2wMN) | 2:26 | 2023-12-15 |  |
 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 | 2022-01-14 |  |
-| [Equalize](https://open.spotify.com/track/6ejNK6AivWJKC1QOZlzmq0) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [ADMIRÁVEL CHIP NOVO \(RE\)ATIVADO](https://open.spotify.com/album/6bIHDpi2YUAO3C2CinsGSZ) | 3:38 | 2023-10-06 |  |
+| [Equalize](https://open.spotify.com/track/6ejNK6AivWJKC1QOZlzmq0) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [ADMIRÁVEL CHIP NOVO \(RE\)ATIVADO](https://open.spotify.com/album/6bIHDpi2YUAO3C2CinsGSZ) | 3:38 | 2023-10-06 | 2023-12-23 |
 | [Errada Ela Não Tá](https://open.spotify.com/track/5LOgoGZQf26eY74DGdYy0u) | [MC JottaPê](https://open.spotify.com/artist/5GqnSMX8p2hxqsM6LqDty3), [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [ARON](https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J) | [Errada Ela Não Tá](https://open.spotify.com/album/4GLifNiKf4dDkkencR04Bn) | 2:58 | 2022-01-14 | 2022-04-13 |
 | [Eu Dou Tchau](https://open.spotify.com/track/1e6R5m4tE8aCMbRRMrMPjN) | [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Eu Dou Tchau](https://open.spotify.com/album/0nKw8RWcZwSThKUwIJCdXI) | 2:30 | 2022-01-14 | 2022-01-30 |
 | [Eu Vou \- Ao Vivo](https://open.spotify.com/track/48kqsCqLziLiMdV3ilhiCn) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [O \(IM\)POSSÍVEL \- PARTE 1 \[Ao Vivo\]](https://open.spotify.com/album/6b87opgcfElb3XS3aFO677) | 2:52 | 2022-03-11 | 2022-06-13 |
@@ -218,6 +218,7 @@
 | [sentaDONA \(Remix\) s2](https://open.spotify.com/track/3sd2p4kE7xQmFH3lPnFl6h) | [Davi Kneip](https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP), [Mc Frog](https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm), [Dj Gabriel do Borel](https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [sentaDONA \(Remix\) s2](https://open.spotify.com/album/1KpRGCxuMGo9hqsy4GTkb0) | 2:05 | 2022-03-18 |  |
 | [Sentimental](https://open.spotify.com/track/5wajkwpmyFoxArALmhFeDa) | [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz), [MC Mirella](https://open.spotify.com/artist/57FU7zh1oXdQMT4XhjSsHL), [DJ 2F](https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Sentimental](https://open.spotify.com/album/43raMsCFPKLAvYiBesIYLm) | 2:04 | 2022-06-03 | 2022-06-25 |
 | [SEREIA](https://open.spotify.com/track/4vgbaXFJ3TjznS4erd48zp) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [SEREIA](https://open.spotify.com/album/2klhmIzCu9KrwHJbsuS2lb) | 2:35 | 2023-07-07 | 2023-11-04 |
+| [Sexo, poder e arte](https://open.spotify.com/track/7tgRx0uRO64z0Zppg9BsCy) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8) | [Sexo, poder e arte](https://open.spotify.com/album/0YrSJbs6AO5Qj8vKCqsqrt) | 4:32 | 2023-12-22 |  |
 | [SexToU](https://open.spotify.com/track/0RMpa3qNoB6rlVyhRmwwVO) | [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [SexToU](https://open.spotify.com/album/1YTcOXOhHmMCjV2MFnKA2M) | 2:55 | 2022-01-14 | 2022-12-24 |
 | [show](https://open.spotify.com/track/5G1JizLB3z1hHZ4rbJQHJ5) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [show](https://open.spotify.com/album/10n3HLhK3UHwFcGhqk0Fzc) | 3:23 | 2022-01-14 | 2022-03-26 |
 | [Sintomas de Prazer](https://open.spotify.com/track/2D1rmVTeaZrr5Ipow29t4b) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 2:28 | 2023-09-04 |  |

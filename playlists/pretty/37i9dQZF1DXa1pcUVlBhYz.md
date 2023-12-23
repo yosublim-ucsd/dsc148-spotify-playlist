@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: Kah\-Lo and Jamie Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,249 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,258 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 65 | [Wait For It](https://open.spotify.com/track/6YjVrP2g7gJYh3aXkgnspC) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Wait For It](https://open.spotify.com/album/5OeFKQvrsk29Fpt0mYwgRh) | 3:59 |
 | 66 | [You Are In My System \- Faster Horses Sport Mix](https://open.spotify.com/track/4cxpgHXbVh4sGwb1C7TAG2) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W), [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul), [Troy Denari](https://open.spotify.com/artist/2cNKz5QJgfclP9Ay7Okghv), [Faster Horses](https://open.spotify.com/artist/3LpHT7su9Y4DLfV6NCfZKZ) | [You Are In My System \(Faster Horses Sport Mix\)](https://open.spotify.com/album/4x5rQlOXx23lz5aImLGMOt) | 3:17 |
 | 67 | [Yahyuppiyah \(feat\. Pcee, EeQue & Chley\)](https://open.spotify.com/track/2qp7rTcFVz67fz88JSnbkU) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Justin99](https://open.spotify.com/artist/2sMoqBE60rnLVDF6zhFKBI), [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [ASYLUM](https://open.spotify.com/album/27W7QteTVMhSPzBDnjODP2) | 4:56 |
-| 68 | [Death Proof \- Amapiano Remix](https://open.spotify.com/track/3tfmAOJf7iR7VZt5Y63UCO) | [AQ](https://open.spotify.com/artist/2MKTsKp8Zp38s0VFRY8Uv9), [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Death Proof \(Amapiano Remix\)](https://open.spotify.com/album/1HUkVCdAC6k5ZgtLcD0UWz) | 5:34 |
+| 68 | [Death Proof \- Amapiano Remix](https://open.spotify.com/track/3tfmAOJf7iR7VZt5Y63UCO) | [AQUTIE](https://open.spotify.com/artist/5cLrXNIHIhgtTFgrsYXTXF), [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Death Proof \(Amapiano Remix\)](https://open.spotify.com/album/1HUkVCdAC6k5ZgtLcD0UWz) | 5:34 |
 | 69 | [Evening Time \(feat\. KAM\-BU & BXKS\)](https://open.spotify.com/track/25D1IY6rHJhm8PZHN9DNev) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF), [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [Evening Time \(feat\. KAM\-BU & BXKS\)](https://open.spotify.com/album/5V9hEnW2hEWOK7SR8p8PgF) | 3:16 |
 | 70 | [Players \- DJ Smallz 732 \- Jersey Club Remix](https://open.spotify.com/track/731vxZpBMap84vDSqyJjf0) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Players](https://open.spotify.com/album/5mXzQrjx91TEYRWPQelBDH) | 1:57 |
 | 71 | [This Is The Sound](https://open.spotify.com/track/5JsIQ66sNFViii1ECZvtUp) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [This Is the Sound](https://open.spotify.com/album/4O30VW31P6zUNxdrTKog4H) | 3:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 | 74 | [Party All Night Long](https://open.spotify.com/track/5qnwoviJNQzB7VepePEGdI) | [Paul Johnson](https://open.spotify.com/artist/4BqZuFqHJ8CLn3ig0f1m0G) | [P.J\. Classics ep](https://open.spotify.com/album/7J9OztpoSi0hYJAH6qzPeV) | 6:15 |
 | 75 | [Work That Body](https://open.spotify.com/track/1h3LHD3iDbP4MGYNeQG4N5) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [Sounds](https://open.spotify.com/album/6639iZ8oPeMPXZqgh8Vd0V) | 6:42 |
 
-Snapshot ID: `MCw0NDdmMWZiZTZlZTZmYWE3MGY3ODZhNjM3NTFhYmI3NzQ3ZWNlMjA2`
+Snapshot ID: `MCxiYjgxZDQ2YmZkZGVjZWEwYjNhZGJhNzcxNzkzZDRmN2IyYmE4NGZh`

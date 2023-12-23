@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-849 songs - 1 day 8 hr 59 min
+850 songs - 1 day 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Ewreka](https://open.spotify.com/track/6OplxekMb8dbnH3ZbLVJvo) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [Ewreka](https://open.spotify.com/album/34BU4llTcSkoRilnkdDBBl) | 2:08 | 2022-04-15 |  |
 | [Exomoon](https://open.spotify.com/track/4FLT1TsEUpJeme07ITfMkn) | [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82) | [Exomoon](https://open.spotify.com/album/2OzIqe33YRwCqjuS3rmjK3) | 2:14 | 2022-08-12 | 2023-07-20 |
 | [Extra Dip](https://open.spotify.com/track/5Cq4kRHvTc718cDAL2pYnC) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Neon Clouds](https://open.spotify.com/album/4jyODUlcuHPFMewe3HpJmz) | 2:26 | 2022-05-13 | 2023-11-17 |
+| [Faces](https://open.spotify.com/track/4h3r8c7TlNLZGFMytXoqa6) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [Faces](https://open.spotify.com/album/2nYufpokQ8JM2sOLucVs8K) | 1:53 | 2023-12-22 |  |
 | [Fade](https://open.spotify.com/track/5AOVlBVKca5uYJ18Q29U6D) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Fade](https://open.spotify.com/album/6IFb5yjI69X7igE69Gm2dY) | 3:05 | 2022-10-14 |  |
 | [Fairy Tale](https://open.spotify.com/track/6ND6qzbcyyCLdypdQFX2ie) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Superpad](https://open.spotify.com/album/71f8yJ3jyE0366wpVCFfl4) | 1:32 | 2022-04-15 |  |
 | [Falling For You](https://open.spotify.com/track/6roRnWYaBE8UCaE8UhIYPI) | [møndberg](https://open.spotify.com/artist/7i9PhtRTxJnGvgoOXgTox2) | [Falling For You](https://open.spotify.com/album/5opW1X1RotF6X3q7UHUdaG) | 2:50 | 2022-08-05 | 2022-08-12 |
@@ -479,7 +480,7 @@
 | [nightdrive](https://open.spotify.com/track/0fOOBR8JW4u6D8jF6GNhFF) | [mr\_slace](https://open.spotify.com/artist/2XQmmMkdTIZ7diR6B3tduO) | [nightdrive](https://open.spotify.com/album/5WgyOVLv9DShm6xXKwJ3LZ) | 2:02 | 2022-04-15 | 2022-05-27 |
 | [Nightfall](https://open.spotify.com/track/1U4SM2KN49g01Q4G42wBU3) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U) | [Nightfall](https://open.spotify.com/album/5GnUgFtiNggX7qZf7fBkoC) | 2:18 | 2022-07-29 | 2022-08-12 |
 | [No Problem Too Small](https://open.spotify.com/track/0Td7VHO3ojTr3VO8GJTqQh) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj), [Fractite](https://open.spotify.com/artist/6ex1nFRXHTVXl7qcbR2nZc) | [No Problem Too Small](https://open.spotify.com/album/3qKy5Uvc5ru23HZ4XYW40d) | 2:02 | 2022-04-15 | 2022-07-01 |
-| [Noon](https://open.spotify.com/track/692BbmPcX0H4AuiCSsVGxk) | [Wax A Dizk](https://open.spotify.com/artist/0oFTGAftcAfchCbIObOGjh) | [Noon](https://open.spotify.com/album/6LQNlc436wtwnuK8xr8WNz) | 1:37 | 2022-12-09 | 2023-10-20 |
+| [Noon](https://open.spotify.com/track/692BbmPcX0H4AuiCSsVGxk) | [Wax A Dizk](https://open.spotify.com/artist/0oFTGAftcAfchCbIObOGjh) | [Noon](https://open.spotify.com/album/6LQNlc436wtwnuK8xr8WNz) | 1:37 | 2022-12-09 |  |
 | [Nostalgia](https://open.spotify.com/track/6j6ZILBUn4Db0eC8dwSpxg) | [Betty Michaels](https://open.spotify.com/artist/1BhnNe00irqmdbyijyTZMk), [CRFT](https://open.spotify.com/artist/4rwCk3DZwQa8uY7Cvfu4aM) | [Nostalgia](https://open.spotify.com/album/25lzc5egcw786yCAD1n5W2) | 2:41 | 2022-10-28 | 2023-10-06 |
 | [Nostalgia Midnight Blue](https://open.spotify.com/track/2mc1gRCwxC8LP4qtX90qgv) | [C\. H\. Alice](https://open.spotify.com/artist/2vUY9u1zhTNfrfOgnbGP8a) | [Nostalgia Midnight Blue](https://open.spotify.com/album/0C47SewkHps0G91nwTcASm) | 3:07 | 2022-06-10 |  |
 | [Nothing But View](https://open.spotify.com/track/1ush7QFN5CdZNMFriIo1bI) | [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76), [Ferge](https://open.spotify.com/artist/0U1ooChssjTDk8BMTYEfHy) | [Nothing But View](https://open.spotify.com/album/3l54TOF2k79XaMPz2Dgvbp) | 2:00 | 2023-07-19 | 2023-09-22 |
@@ -612,14 +613,14 @@
 | [Say So](https://open.spotify.com/track/4cXMR7W8SZEL0Nw180Ue0Y) | [Lazarus best for us](https://open.spotify.com/artist/7Jo5bYYstYsWilLkB9zFGH) | [Don't Start Now](https://open.spotify.com/album/4cZQzq6eQwg2xnh2oWuQEp) | 3:34 | 2022-11-11 | 2023-10-27 |
 | [Sea of Thoughts](https://open.spotify.com/track/22z4OBkJ2VmGA7dSssWsy7) | [Soft Vessels](https://open.spotify.com/artist/6O4ZIYrg1s0J5HP8Z1oitv) | [Sea of Thoughts](https://open.spotify.com/album/795sBvT2shhNGKZJoEcb6B) | 3:02 | 2023-09-22 |  |
 | [Seals](https://open.spotify.com/track/6hhDdAhtUbPkvPsLbp1KPP) | [kust](https://open.spotify.com/artist/2HTMpw5UmlJ2sUap8z5ZbU) | [Seals](https://open.spotify.com/album/7eDjDYsBjvvaatdJyxmzhY) | 2:14 | 2022-11-11 |  |
-| [searching](https://open.spotify.com/track/5dxj79aIERpUFnd13G1GfY) | [TAX VRKT](https://open.spotify.com/artist/5LfSaYsGTL3HkaV5a2qHBD) | [searching](https://open.spotify.com/album/1RmmxwrRiiGuIpFjhkVuL5) | 2:23 | 2023-04-03 |  |
+| [searching](https://open.spotify.com/track/5dxj79aIERpUFnd13G1GfY) | [TAX VRKT](https://open.spotify.com/artist/5LfSaYsGTL3HkaV5a2qHBD) | [searching](https://open.spotify.com/album/1RmmxwrRiiGuIpFjhkVuL5) | 2:23 | 2023-04-03 | 2023-12-23 |
 | [Seasonal Love](https://open.spotify.com/track/4Z9Zuq40Vq6exAXxgcvqTv) | [Snazzy](https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy) | [Seasonal Love](https://open.spotify.com/album/3FJTcw8nFi6279pIUipMA7) | 2:00 | 2022-10-14 | 2023-10-06 |
 | [Seasons](https://open.spotify.com/track/6RUXqsK0MlNGXFWBfZs400) | [M.I Hakone](https://open.spotify.com/artist/1Gi5R2l9oX8zs5iiy2vP7v) | [Seasons](https://open.spotify.com/album/1Gi40W4rRup1t8B0p5Y5Yf) | 2:04 | 2023-10-20 |  |
 | [Second Flat](https://open.spotify.com/track/7EXuUIbqpxoeEnH0D2cvBw) | [Green Balloon](https://open.spotify.com/artist/2GGLsAPwyfEvtUyKYvELDy) | [Epic Love](https://open.spotify.com/album/5C1vgrBe5b4SeyS2Beap3c) | 1:27 | 2022-04-15 | 2022-05-14 |
 | [See The Flowers](https://open.spotify.com/track/77MvpbDU4b23vr2rkEYOsq) | [Zumak](https://open.spotify.com/artist/6be30BeZ9kqClak0AY5Gi7) | [JAX](https://open.spotify.com/album/3pn1d4UvE6lWQxocZG3hnj) | 2:12 | 2022-04-15 |  |
 | [Selected](https://open.spotify.com/track/7G4scWFcZcwVE1jRLuXLsf) | [Bullseye Release](https://open.spotify.com/artist/4GoC6ks1pVomJYIA3JyRCm) | [Selected](https://open.spotify.com/album/6q0y2RlQ7wRpvz0B2LJXDW) | 3:10 | 2022-04-15 | 2022-05-20 |
 | [Sentimental Mood](https://open.spotify.com/track/3Xl7gON72joBquu8YJG8z9) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Mixtape](https://open.spotify.com/album/2bOYfvwq6ZYGzPtkDjbD95) | 1:49 | 2022-04-15 | 2022-05-14 |
-| [Serene](https://open.spotify.com/track/2y095NA9mFeb4qaSyXe4Uz) | [Damzouka](https://open.spotify.com/artist/74F699PZqX9RIHr4mpALcq) | [Serene](https://open.spotify.com/album/4Vf9zmnJt6SppVluU3diU5) | 2:24 | 2022-11-25 |  |
+| [Serene](https://open.spotify.com/track/2y095NA9mFeb4qaSyXe4Uz) | [Damzouka](https://open.spotify.com/artist/74F699PZqX9RIHr4mpALcq) | [Serene](https://open.spotify.com/album/4Vf9zmnJt6SppVluU3diU5) | 2:24 | 2022-11-25 | 2023-12-23 |
 | [Serenity](https://open.spotify.com/track/5bEZ6aLBteghtOzynCO4WT) | [Lemeria](https://open.spotify.com/artist/6djoTVe8DDQ9I7tFOL673y), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Come Back \| Serenity](https://open.spotify.com/album/6ClJ6EUajiUuSxLAjbaCXH) | 2:08 | 2022-10-14 |  |
 | [Seven](https://open.spotify.com/track/3UdSY1SgSF60lpYdMbmeXm) | [Von Von Bon](https://open.spotify.com/artist/46ex27gVTAa49Ikzk0M6jU) | [Seven](https://open.spotify.com/album/2Oiaj5rQK2zBL5xBtGUhlV) | 2:29 | 2022-04-15 |  |
 | [Seven lifes](https://open.spotify.com/track/0ODqF4q7w8uZ80auAlUww8) | [Lunatic Sad](https://open.spotify.com/artist/2zdUTbS2EdmbSrzK96XvEp) | [Seven lifes](https://open.spotify.com/album/1nTnXy5pPuajYkihPVFWTj) | 2:16 | 2022-09-09 | 2023-07-20 |

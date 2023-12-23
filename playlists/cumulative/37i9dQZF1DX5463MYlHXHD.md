@@ -4,7 +4,7 @@
 
 > Cumbia pa' volar la chapa con Papichamp, The la Planta, El negro tecla, Lolo OG & Locura Mix.
 
-180 songs - 9 hr 45 min
+181 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Culito Pa' Tras](https://open.spotify.com/track/5B14jERiIjU6iPW7wP1x1i) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Parulo](https://open.spotify.com/album/27c6V4uv7IxUHR9tGB5jeY) | 2:05 | 2023-11-01 |  |
 | [Culo Pa 2 Tangas](https://open.spotify.com/track/7G8ui29Y8betGzDM2d2Xvk) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i), [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [Culo Pa 2 Tangas](https://open.spotify.com/album/6vA3jeLGv8Zixm640gPZVL) | 3:02 | 2023-05-26 | 2023-09-15 |
 | [Cumbia del Recuerdo](https://open.spotify.com/track/3c0laaLc9hCQy8TB79noyh) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [Cumbia del Recuerdo](https://open.spotify.com/album/3obQ95iJxweMVROAlm7ETA) | 2:57 | 2023-05-26 |  |
+| [Cumbia Trap](https://open.spotify.com/track/7sOvzK3WMBNPcGkX7j2uTz) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [Fili Wey](https://open.spotify.com/artist/77pCqwW8HaKBjkTHe395eo) | [Cumbia Trap](https://open.spotify.com/album/2x8Tvk9YUoB3kwJFTHhgOQ) | 3:32 | 2023-12-22 |  |
 | [DALE DALE](https://open.spotify.com/track/5RYg5SW0iqIGAmHDmoU2vb) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [DALE DALE](https://open.spotify.com/album/55GZVprq5iYoWZOBu4Xwj9) | 3:03 | 2023-05-26 |  |
 | [Dale Zorrita](https://open.spotify.com/track/4fobsgzB6v77kwv57KsjNe) | [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [No Lo Compren](https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR) | 3:21 | 2023-05-26 |  |
 | [De Regreso Al Penal](https://open.spotify.com/track/2PpnjTOCtpBjAmEDu10Vr8) | [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Cumbia Callejera](https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy) | 4:03 | 2023-05-26 |  |
@@ -89,7 +90,7 @@
 | [La Bomba](https://open.spotify.com/track/0VK2WShGGSlD8wCD9DSxup) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ) | [Puro Movimiento](https://open.spotify.com/album/6D53J2Fx7FANdtNngTsWCi) | 4:53 | 2023-05-26 | 2023-10-21 |
 | [La colorada](https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:13 | 2023-05-26 |  |
 | [La Cumbia De Los Trapos](https://open.spotify.com/track/79yOF3p0RbIAnrxxF8wiPS) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Cumbia Villera](https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd) | 4:11 | 2023-05-26 |  |
-| [La Gata](https://open.spotify.com/track/1YIJl3bkyybWVf1PWgfv3M) | [La Rama](https://open.spotify.com/artist/36Wa6C4jLLtnY4fqS8qqEm) | [La Gata](https://open.spotify.com/album/0tuQi5VdcLsAVjhAsg7uxa) | 3:10 | 2023-05-26 |  |
+| [La Gata](https://open.spotify.com/track/1YIJl3bkyybWVf1PWgfv3M) | [La Rama](https://open.spotify.com/artist/36Wa6C4jLLtnY4fqS8qqEm) | [La Gata](https://open.spotify.com/album/0tuQi5VdcLsAVjhAsg7uxa) | 3:10 | 2023-05-26 | 2023-12-23 |
 | [La Gilera \- Remix](https://open.spotify.com/track/75ShCUU5RS4NE8allIpJPa) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5) | [La Gilera \(Remix\)](https://open.spotify.com/album/6PGwcy5RlZKN3PRIRsAwm3) | 2:27 | 2023-06-23 |  |
 | [La Jarra](https://open.spotify.com/track/5NvbkwL6r96Auhaa621dXW) | [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [La Jarra](https://open.spotify.com/album/0B8TLAqcDkiV1LsIXpmJhT) | 2:17 | 2023-12-15 |  |
 | [La Jarra Loca](https://open.spotify.com/track/5pv0g4YajPj4RN98CT0T24) | [Flor De Piedra](https://open.spotify.com/artist/1y54m0q1LQZ4kGhf7ZZFKd) | [Más Duros que Nunca](https://open.spotify.com/album/04iZ6FHnHyuJIOdWUwB8yS) | 3:58 | 2023-05-26 |  |

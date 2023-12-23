@@ -268,7 +268,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 183767,
       "name": "Banger",
       "url": "https://open.spotify.com/track/7tAzsQ45k7r9PaWkxN6EeI"
@@ -428,6 +428,32 @@
       "duration_ms": 150419,
       "name": "bubblegum",
       "url": "https://open.spotify.com/track/16L4VlIYzLOY34P9zCHcOe"
+    },
+    {
+      "album": {
+        "name": "Care free",
+        "url": "https://open.spotify.com/album/0DsApSEvCkKXGQom5mqKJ0"
+      },
+      "artists": [
+        {
+          "name": "SugLawd Familiar",
+          "url": "https://open.spotify.com/artist/6xiT2jISLeWrj8udndxqW4"
+        },
+        {
+          "name": "Oichi",
+          "url": "https://open.spotify.com/artist/6b9pWhWVeTIH0p0px5KnXn"
+        },
+        {
+          "name": "XF MENEW",
+          "url": "https://open.spotify.com/artist/3YF6gmNp1tjvTJp4MkLoWH"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164998,
+      "name": "Care free",
+      "url": "https://open.spotify.com/track/7fAg5vKDq5jBOBpAoYExV6"
     },
     {
       "album": {
@@ -674,7 +700,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 176905,
       "name": "dorobo",
       "url": "https://open.spotify.com/track/6E5m6IFNNFYwIe1sBKgk4y"
@@ -732,7 +758,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 133124,
       "name": "Drugs",
       "url": "https://open.spotify.com/track/01g974Te4DzVGimxFmv0B0"
@@ -1085,6 +1111,24 @@
     },
     {
       "album": {
+        "name": "GREED",
+        "url": "https://open.spotify.com/album/3MFQNska7GNOZtuIWJJAFY"
+      },
+      "artists": [
+        {
+          "name": "P-free",
+          "url": "https://open.spotify.com/artist/35RnWgsErQjC9JlajX82Pl"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108382,
+      "name": "GREED",
+      "url": "https://open.spotify.com/track/3dE7eI6ZuzhXeJb3SJ6JBS"
+    },
+    {
+      "album": {
         "name": "ha?",
         "url": "https://open.spotify.com/album/3vhn0dgPQFECXynziQmkUa"
       },
@@ -1316,7 +1360,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 110921,
       "name": "hue0",
       "url": "https://open.spotify.com/track/2q6ZRtCmXCkLXUESVXIOWW"
@@ -1352,7 +1396,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 103344,
       "name": "Idk Xdys",
       "url": "https://open.spotify.com/track/4pVXWm3oDbp9NvJlCBkE3n"
@@ -1554,7 +1598,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 177087,
       "name": "LIT",
       "url": "https://open.spotify.com/track/7DBU8TXKL8mGWbwj8JcKxd"
@@ -1759,6 +1803,24 @@
     },
     {
       "album": {
+        "name": "n0is3",
+        "url": "https://open.spotify.com/album/7nnzLrPxqTHMLlMcaczQ8Z"
+      },
+      "artists": [
+        {
+          "name": "RY0N4",
+          "url": "https://open.spotify.com/artist/3krxQ7NwEXM0Ba8Dzsln2g"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Nakanai",
+      "url": "https://open.spotify.com/track/4YWBb75tx4KvxjyUcT624l"
+    },
+    {
+      "album": {
         "name": "Namae",
         "url": "https://open.spotify.com/album/4SOCuBCkRAX8T19XCJEtub"
       },
@@ -1902,6 +1964,32 @@
       "duration_ms": 187000,
       "name": "Orange",
       "url": "https://open.spotify.com/track/3musRzfTUQwhZGOJFqQcZy"
+    },
+    {
+      "album": {
+        "name": "Zee PACK vol.2",
+        "url": "https://open.spotify.com/album/0CXdVXLHiJGG5LhsfSqhBg"
+      },
+      "artists": [
+        {
+          "name": "Young zetton",
+          "url": "https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS"
+        },
+        {
+          "name": "Chaochao",
+          "url": "https://open.spotify.com/artist/2wTbreIopS4qmQMvWZxtlJ"
+        },
+        {
+          "name": "D-KARAT",
+          "url": "https://open.spotify.com/artist/2RiJGoRLhaoP2CG6AM1ViK"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203269,
+      "name": "Oretatigakininaru",
+      "url": "https://open.spotify.com/track/1RzEhKm9w4yUd0djV9Q7vJ"
     },
     {
       "album": {
@@ -2112,6 +2200,24 @@
       "duration_ms": 70429,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/6EXuxQV8wJVvIohejXwbPD"
+    },
+    {
+      "album": {
+        "name": "ONAKAMATAPE:\u4e0a",
+        "url": "https://open.spotify.com/album/2WUuI7KEDyolb5ZqzeX2NO"
+      },
+      "artists": [
+        {
+          "name": "YUNGSTA\u304a\u4ef2\u9593",
+          "url": "https://open.spotify.com/artist/64csVS3CtwSZMjIbhCaMqU"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161176,
+      "name": "Sh!t Talker",
+      "url": "https://open.spotify.com/track/6OKWLgCbG4dV23hcnh3fyX"
     },
     {
       "album": {
@@ -2404,7 +2510,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 157013,
       "name": "UV",
       "url": "https://open.spotify.com/track/0ZN89ciaiag2wxPoDPSray"
@@ -2552,6 +2658,58 @@
       "duration_ms": 223410,
       "name": "Yaminouchi",
       "url": "https://open.spotify.com/track/5lJocOmXtCH53DYMzNG8NH"
+    },
+    {
+      "album": {
+        "name": "Deech Got Yukichi 2",
+        "url": "https://open.spotify.com/album/0EiGGW2OaqBb2NeM8qJ1xJ"
+      },
+      "artists": [
+        {
+          "name": "Deech",
+          "url": "https://open.spotify.com/artist/1eQUclEDhda3ZCUzi8NQME"
+        },
+        {
+          "name": "Lil\u2019Yukichi",
+          "url": "https://open.spotify.com/artist/2ZTljlYtLNOOPlNzBptZmA"
+        },
+        {
+          "name": "Elle Teresa",
+          "url": "https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147333,
+      "name": "Yap Yap",
+      "url": "https://open.spotify.com/track/5XbunWE0rvjeiMmtc2v5Pa"
+    },
+    {
+      "album": {
+        "name": "Slime House",
+        "url": "https://open.spotify.com/album/3t32iEV34sRTNpKb8WQTkO"
+      },
+      "artists": [
+        {
+          "name": "Huncho Fox",
+          "url": "https://open.spotify.com/artist/0cXdYpBuX1DGUP3v2y4sZb"
+        },
+        {
+          "name": "Loner Baby",
+          "url": "https://open.spotify.com/artist/5pnuEtMg2yI2ZaUfk3tx5a"
+        },
+        {
+          "name": "OHAYO",
+          "url": "https://open.spotify.com/artist/6UZw9wULGiIBh6jCOn2Er9"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146883,
+      "name": "YARUDAKE - BONUS",
+      "url": "https://open.spotify.com/track/2I7K5iDQa1CRGk4UCn45ev"
     },
     {
       "album": {

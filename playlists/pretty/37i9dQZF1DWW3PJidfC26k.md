@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3PJidfC26k.md) - [plain]
 
 > <a href="https://www.hardlystrictlybluegrass.com/">Tune in</a> Oct\. 1\-3rd starting @ 1pm PT/4pm ET as HSB brings the music we all enjoy in the park to your living rooms and backyards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,731 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,744 likes - 60 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3PJidfC26k.md) - [plain]
 | 51 | [A Hard Rain's Gonna Fall \(feat\. John Craigie & Ben Morrison\)](https://open.spotify.com/track/4IQXCbuBrM6FwO8jSEJx4M) | [Rainbow Girls](https://open.spotify.com/artist/5qV8qZrppecEsKTWwCCtA7), [Ben Morrison](https://open.spotify.com/artist/1OIHhGpotlUsZWE0HOIep5), [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK) | [Give the People What They Want](https://open.spotify.com/album/1wAjWPzXGAgwzDK9Nkb9vh) | 6:21 |
 | 52 | [La Bamba Rebelde](https://open.spotify.com/track/3cyREPYKAMQNfki246eknU) | [Las Cafeteras](https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz) | [It's Time](https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx) | 5:23 |
 | 53 | [Astral Plane](https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:38 |
-| 54 | [Alabama Bound](https://open.spotify.com/track/08TIEb8UlMX7e0QyPYPgjf) | [Peter Rowan](https://open.spotify.com/artist/52FOkBVb83F2QduWKRqmhm) | [Carter Stanley's Eyes](https://open.spotify.com/album/2xUrlmu5IIK2oy2PEA8I4h) | 2:16 |
+| 54 | [Alabama Bound](https://open.spotify.com/track/1qbvuoI8EK1MoY2b5uqTr2) | [Peter Rowan](https://open.spotify.com/artist/52FOkBVb83F2QduWKRqmhm) | [Carter Stanley's Eyes](https://open.spotify.com/album/2UlZjIxlwzymbbDA4Msycy) | 2:16 |
 | 55 | [Marie Christie](https://open.spotify.com/track/44Vilsiw175y2IpL2nx66o) | [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF) | [The Imagined Savior Is Far Easier To Paint](https://open.spotify.com/album/35MKlkn2g1Qe3HMDrrIxP0) | 3:15 |
 | 56 | [Dark Horse](https://open.spotify.com/track/4h3QT5WiheICD8PZaA4IfT) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv), [The E\-Collective](https://open.spotify.com/artist/3mLYbLsEXzIgdvikrVRK46) | [Absence](https://open.spotify.com/album/1fzoq1zIpM4L6KOpjpfLdp) | 7:17 |
 | 57 | [Guitar Town](https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Guitar Town](https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy) | 2:35 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3PJidfC26k.md) - [plain]
 | 59 | [I See It Now](https://open.spotify.com/track/4NhO8oJUelTgNmj3G6JZKr) | [Bachelor](https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [I See It Now](https://open.spotify.com/album/5Gc1jfwEfaGaOq3QllW9rb) | 2:53 |
 | 60 | [The Long Goodbye](https://open.spotify.com/track/6gDnRavQGA28VqNb4ESX4c) | [Ceramic Dog](https://open.spotify.com/artist/2EKKgp12AZDmsFbMU59X0C), [Marc Ribot](https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn) | [Hope](https://open.spotify.com/album/2YNMXnSCNMOfv2bdYtthZu) | 10:02 |
 
-Snapshot ID: `MCwwMzc1NWViNWE2ZjRiMjNjNDI1ZGQwZDA1MjhjNjM5N2MyZTJjMTFk`
+Snapshot ID: `MCw0N2Y1NjI5MDAzM2M3OWE4MzEzODBiNWJhMzgwMThkMDA5NWEyZTBj`

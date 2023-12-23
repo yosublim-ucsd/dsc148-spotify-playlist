@@ -4,7 +4,7 @@
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-216 songs - 15 hr 32 min
+219 songs - 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [Personal Touch](https://open.spotify.com/track/5xwCm9tEVl3FAXqnWZfmp3) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [Personal Touch](https://open.spotify.com/album/216P40TI4bEO6qLkDmnni3) | 3:44 | 2021-07-12 |  |
 | [Play](https://open.spotify.com/track/2iYXWh7NuRye7OS5BsV3Aq) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [Play](https://open.spotify.com/album/3AXyBPdf2uUHzQw2fec9vl) | 3:56 | 2022-06-24 |  |
 | [Prime Time](https://open.spotify.com/track/0Sj54pXxygKjTg6eEYSJlj) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Prime Time](https://open.spotify.com/album/1bdElAX11hV0fGE7kDYilG) | 3:59 | 2021-07-12 | 2022-04-29 |
-| [Prime Time](https://open.spotify.com/track/73y1mF0koz768FqU0BkgK5) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Prime Time](https://open.spotify.com/album/3eoSNLul2FSqaoQfsN7Gs1) | 3:59 | 2021-07-12 |  |
+| [Prime Time](https://open.spotify.com/track/2LnuO7qcH8o1tgxqc0WqsF) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Prime Time](https://open.spotify.com/album/3TsoGdEOff4OMkIEqhNAi5) | 3:59 | 2021-07-12 |  |
+| [Prime Time](https://open.spotify.com/track/73y1mF0koz768FqU0BkgK5) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Prime Time](https://open.spotify.com/album/3eoSNLul2FSqaoQfsN7Gs1) | 3:59 | 2021-07-12 | 2023-12-23 |
 | [Quintastic](https://open.spotify.com/track/7CBCAj6NaFYKjFhIEMYtBf) | [Deon Yates](https://open.spotify.com/artist/7rRyjSFGUWRFh7UgN70MZO) | [Quintastic](https://open.spotify.com/album/4LzFSL2q6GErS6Kq1PnOxS) | 4:03 | 2021-07-12 |  |
 | [Ready to Go](https://open.spotify.com/track/6aFbcAvsjTgQyfEw4M1hyz) | [Threestyle](https://open.spotify.com/artist/6Dj8bjGUnCYJddzoiTdJjX), [Magdalena Chovancova](https://open.spotify.com/artist/7sk96eq3pJ78GAZnf02FEP) | [Ready to Go](https://open.spotify.com/album/3lMmhPqyO3M5ECUj0enyJr) | 4:00 | 2021-07-12 |  |
 | [Rendezvous](https://open.spotify.com/track/02IFnwB9sOwXYNm3z4NBRN) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [The Morning After](https://open.spotify.com/album/2amAassXEbafoWBjFqR4qP) | 5:01 | 2021-07-12 | 2022-07-28 |
@@ -167,7 +168,8 @@
 | [Sharon's Groove](https://open.spotify.com/track/4IvKno7jOwzjgYPECL4KdQ) | [Tom Braxton](https://open.spotify.com/artist/2ZRRsjA8UZ7S5x5JvWHhRK) | [Lookin' Up](https://open.spotify.com/album/4RbIzwLIasB2M2l5cmPmdk) | 4:11 | 2021-08-06 |  |
 | [She's Ready](https://open.spotify.com/track/1cWxLpfvBGCG0JvomYK6i3) | [Rocco Ventrella](https://open.spotify.com/artist/6X06HdPkKhybx6Q0FKESFJ) | [Another Time](https://open.spotify.com/album/5htfJv2trzXFqmKIeEJyuM) | 4:33 | 2021-07-12 |  |
 | [Side by Side](https://open.spotify.com/track/25Rnl8atJveD19RlPMnTCP) | [Jeff Kashiwa](https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW) | [Fly Away](https://open.spotify.com/album/0jXTubOCsJUH7GuUIfMHTv) | 5:04 | 2021-07-12 |  |
-| [Skinny Dippin'](https://open.spotify.com/track/50yr9Nbxn8J75hCAihCyJH) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [La Dolce Vita](https://open.spotify.com/album/6R13k9llyr3fWRDwKzmjDo) | 4:33 | 2021-07-12 |  |
+| [Skinny Dippin'](https://open.spotify.com/track/3raGJvjuEe9fQxB7F0OeDt) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [La Dolce Vita](https://open.spotify.com/album/11fmFfNbLB7Y6OPZEmBWWq) | 4:33 | 2021-07-12 |  |
+| [Skinny Dippin'](https://open.spotify.com/track/50yr9Nbxn8J75hCAihCyJH) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [La Dolce Vita](https://open.spotify.com/album/6R13k9llyr3fWRDwKzmjDo) | 4:33 | 2021-07-12 | 2023-12-23 |
 | [Skinny Dippin'](https://open.spotify.com/track/5pzOW4Bw5BKWx3I5yYiY0I) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [La Dolce Vita](https://open.spotify.com/album/5e7v05kF0hFrTtLnZ57WxJ) | 4:33 | 2021-07-12 | 2022-07-25 |
 | [Slam Dunk](https://open.spotify.com/track/7mSAW4ke915ZwPQQUL0mtF) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Slam Dunk](https://open.spotify.com/album/4abjBabp4Ce9MIShgUqsBy) | 4:40 | 2021-07-12 |  |
 | [Sleekness \(feat\. Marcus Anderson\)](https://open.spotify.com/track/4a1hR376exZ81yDV5ur2fa) | [Player A](https://open.spotify.com/artist/5S29QBEiZBpT5GNjeilq9P) | [Our Own Devices](https://open.spotify.com/album/4E3gw8wXJHOoWmhBS38uLO) | 3:58 | 2021-07-12 |  |
@@ -217,8 +219,9 @@
 | [When Will I Know For Sure](https://open.spotify.com/track/1MTT89DX8ZoN92fXJHxRqF) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Hello Tomorrow](https://open.spotify.com/album/755FhIw58on45zjf2hSpz7) | 4:51 | 2021-07-12 |  |
 | [When You Smile](https://open.spotify.com/track/013ax5zW6vprMR4n5C8soU) | [Jackiem Joyner](https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg) | [Main Street Beat](https://open.spotify.com/album/0lLrGjwlJgeXhy3W1Z4v1N) | 4:01 | 2021-07-12 | 2023-05-01 |
 | [When You Smile](https://open.spotify.com/track/76Tvpe4niV7n7ZpCKkfnAG) | [Jackiem Joyner](https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg) | [When You Smile \- Single](https://open.spotify.com/album/0lbnN0g6Blu5mg6PoRkv0H) | 4:01 | 2021-07-12 | 2022-07-28 |
-| [Wild Tales \(feat\. Russ Freeman\)](https://open.spotify.com/track/0JpSVTcs8PBLD5ZmOj26cF) | [The Rippingtons](https://open.spotify.com/artist/6hjqP9annof75B2TNBE0rO), [Russ Freeman](https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO) | [True Stories](https://open.spotify.com/album/1oDCFpi7Kynh6YM30R39Ev) | 4:30 | 2021-07-12 |  |
+| [Wild Tales \(feat\. Russ Freeman\)](https://open.spotify.com/track/0JpSVTcs8PBLD5ZmOj26cF) | [The Rippingtons](https://open.spotify.com/artist/6hjqP9annof75B2TNBE0rO), [Russ Freeman](https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO) | [True Stories](https://open.spotify.com/album/1oDCFpi7Kynh6YM30R39Ev) | 4:30 | 2021-07-12 | 2023-12-23 |
 | [Wild Tales \(feat\. Russ Freeman\)](https://open.spotify.com/track/463sMWdEGB9NTvu988dd2R) | [The Rippingtons](https://open.spotify.com/artist/6hjqP9annof75B2TNBE0rO), [Russ Freeman](https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO) | [Wild Tales \(feat\. Russ Freeman\)](https://open.spotify.com/album/4HnMfWaezKF2DB0grk0GtU) | 4:30 | 2021-07-12 | 2022-07-29 |
+| [Wild Tales \(feat\. Russ Freeman\)](https://open.spotify.com/track/5FlrzpNa2qBOqdL2amaY41) | [The Rippingtons](https://open.spotify.com/artist/6hjqP9annof75B2TNBE0rO), [Russ Freeman](https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO) | [True Stories](https://open.spotify.com/album/1QDziA87WDMcMGM4YpqF6c) | 4:30 | 2021-07-12 |  |
 | [Windfall](https://open.spotify.com/track/2JeI65ZzFWhma9NjHN7ZGm) | [Jazz Funk Soul](https://open.spotify.com/artist/3avdUekEuUcWJDjYZimuED) | [Windfall](https://open.spotify.com/album/5GCIdDoi0JTpnZtDgb2Zh4) | 4:30 | 2021-07-12 | 2022-07-29 |
 | [Windfall](https://open.spotify.com/track/35lSHKu6MIaXuB2aUacX7C) | [Jazz Funk Soul](https://open.spotify.com/artist/3avdUekEuUcWJDjYZimuED) | [Life And Times](https://open.spotify.com/album/7oZHj62kMhRxOuyWgUOCM1) | 4:30 | 2021-07-12 |  |
 | [Work Wit' It](https://open.spotify.com/track/4ZdYGB7R1exGvLbhmyhMO9) | [Jazmin Ghent](https://open.spotify.com/artist/1ObapCOA0O7mr2wXFKEDNY) | [The Story of Jaz](https://open.spotify.com/album/6YWAbLwA22QPzqldQhpeh3) | 4:15 | 2021-07-12 |  |

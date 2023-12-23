@@ -4,7 +4,7 @@
 
 > The world series of Ska\. Cover: Out Of Control Army
 
-581 songs - 1 day 9 hr 48 min
+582 songs - 1 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Devil With a Microphone](https://open.spotify.com/track/4oZEIKV1jFpaanyl9DneOF) | [Random Hand](https://open.spotify.com/artist/0qyNkAVhhlJ4DvfYypl1Bb) | [Random Hand](https://open.spotify.com/album/5IUr8JaIyJvTN4nU293VHC) | 3:12 | 2023-09-29 | 2023-10-07 |
 | [Dia Seguinte](https://open.spotify.com/track/5UOQw5b2rvKBmDfkFSIauk) | [Guantas](https://open.spotify.com/artist/3p50dE2v8qcMvPXjzAKUXf) | [Guantas](https://open.spotify.com/album/1zSGiGOccDEpWDjpC2bzsb) | 3:49 | 2021-12-06 | 2022-07-25 |
 | [Doin' What We Do](https://open.spotify.com/track/1wMxbY2NiEcMtpgExxsyKY) | [Mustard Plug](https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu) | [Doin' What We Do](https://open.spotify.com/album/2bsry5FfdfgiABYGw77YHf) | 3:04 | 2023-09-01 | 2023-10-12 |
-| [Dolce far niente](https://open.spotify.com/track/6lC9Ylt9CMMlFt0qOJYhV4) | [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Dolce far niente](https://open.spotify.com/album/3eijO45zq05msPm09WUErh) | 2:55 | 2023-09-08 |  |
+| [Dolce far niente](https://open.spotify.com/track/6lC9Ylt9CMMlFt0qOJYhV4) | [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Dolce far niente](https://open.spotify.com/album/3eijO45zq05msPm09WUErh) | 2:55 | 2023-09-08 | 2023-12-23 |
 | [Don't Let the Bastards Grind You Down](https://open.spotify.com/track/0XlPgrltmThUXK0hoClUfM) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [The Toasters: 30th Anniversary](https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo) | 2:50 | 2021-12-06 | 2023-04-22 |
 | [Don't Speak](https://open.spotify.com/track/7D823Ok1jHreqNkVwic81R) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [The Skints](https://open.spotify.com/artist/39k4UDTgsWe6NCi6hgnfc1) | [Don't Speak](https://open.spotify.com/album/7b7AM8NvWaj5A8iyEAvjTw) | 4:40 | 2023-10-27 |  |
 | [Don't Worry, Be Happy](https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb) | [The Busters](https://open.spotify.com/artist/2wCh75gIAQ5Ed9UGiqLBMB) | [Ruder Than Rude](https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU) | 2:57 | 2021-12-06 | 2023-09-09 |
@@ -535,6 +535,7 @@
 | [Tremarella](https://open.spotify.com/track/3qVMtCTsmeSUiXuhrTPweZ) | [Persiana Jones](https://open.spotify.com/artist/6zHAXTwmXvfEtYQoewnfSJ) | [Puerto hurraco](https://open.spotify.com/album/7wXHGLSCYy566j7revG6R0) | 2:41 | 2021-12-06 | 2023-04-22 |
 | [Trigger Happy \- Demo](https://open.spotify.com/track/6X7d1JhWXi0CevhNAGt6mv) | [H\-Block 101](https://open.spotify.com/artist/6BXYPRrytuDu8uyDpmCS2h) | [The H\-Block 101 Tapes \(1996 \- 1999\)](https://open.spotify.com/album/0vvD9IdC9SKRW69GvKZ80X) | 2:11 | 2021-12-06 | 2022-07-17 |
 | [Trinity](https://open.spotify.com/track/7hFqfUllIwqobuXuuc3sZf) | [The Bluebeaters](https://open.spotify.com/artist/6rShHlY1EXsf7DxlIHa5uU) | [Trinity](https://open.spotify.com/album/2U5Yo23BlzQW8ZawiPXLzy) | 3:14 | 2023-07-14 | 2023-09-02 |
+| [TU ALMA MIA/ADELITA](https://open.spotify.com/track/24w6juIgwVkJQ3XmPH9C3Q) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Dale Aborigen](https://open.spotify.com/album/5iApfIWDo1t5wRiePb2paS) | 3:49 | 2023-12-12 |  |
 | [Tu Alma Mía & Adelita](https://open.spotify.com/track/1sxw4UT4h3qpd1ABFEPBe8) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Dale Aborigen](https://open.spotify.com/album/212ondLs1xEcRuSM0iu70X) | 3:49 | 2021-12-06 | 2022-12-03 |
 | [Tu Alma Mía & Adelita](https://open.spotify.com/track/3JuJ8K9qJshYxQGR1ijoaa) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Dale Aborigen](https://open.spotify.com/album/6TAMJC8XUIxWIKaWBIgn8h) | 3:49 | 2021-12-06 | 2022-07-29 |
 | [Tu Alma Mía / Adelita](https://open.spotify.com/track/0aDTaI6pxKLiy0vcmHebZR) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Greatest Hits](https://open.spotify.com/album/0a03syBke2aEXcFJfkIuPl) | 3:53 | 2021-12-06 | 2023-12-18 |

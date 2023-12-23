@@ -1840,7 +1840,7 @@
     {
       "album": {
         "name": "Illusion",
-        "url": "https://open.spotify.com/album/2PDQgUQiITwFIdNz5QiL5w"
+        "url": "https://open.spotify.com/album/4ygdbM01KtuANNhM3yLtmV"
       },
       "artists": [
         {
@@ -1851,6 +1851,24 @@
       "date_added": "2021-07-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 216600,
+      "name": "Through It All",
+      "url": "https://open.spotify.com/track/1XBWuNsvYOoXH0MBC0TrJs"
+    },
+    {
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/2PDQgUQiITwFIdNz5QiL5w"
+      },
+      "artists": [
+        {
+          "name": "Spoken",
+          "url": "https://open.spotify.com/artist/0Jn8rIJ5ebXnyZh9s5bI4l"
+        }
+      ],
+      "date_added": "2021-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
       "duration_ms": 216600,
       "name": "Through It All",
       "url": "https://open.spotify.com/track/3nB5TJEl7taRMwlaoHiOry"

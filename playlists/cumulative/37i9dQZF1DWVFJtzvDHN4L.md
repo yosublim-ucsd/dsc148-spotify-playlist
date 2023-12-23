@@ -4,7 +4,7 @@
 
 > Relaxing soundtracks to help you escape and unwind.
 
-81 songs - 3 hr 49 min
+82 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Les bijoux](https://open.spotify.com/track/2ouBCzavu59F6ZcJlb1kZ6) | [Alexandre Azaria](https://open.spotify.com/artist/6wFoIuf6haS7FtdH3RHQZE) | [Par instinct \(Bande originale du film\)](https://open.spotify.com/album/6fFbr0S4b7NTXnMQwspzmi) | 3:07 | 2021-11-19 |  |
 | [London 1998](https://open.spotify.com/track/4LlS0nNtGd8SuFkyVRpXY3) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [Denial \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29TiQwxSFV2hyxaA6tSlmN) | 1:41 | 2021-11-19 |  |
 | [Maps](https://open.spotify.com/track/5arnqM3mLtyOpdqDrbavQb) | [Nick Lloyd Webber](https://open.spotify.com/artist/3r0kvjF0xGitqk9azZVB35) | [The Last Bus \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/231VrH3cg7DOmHpLB2AlGx) | 1:48 | 2022-05-27 |  |
-| [Miss Sloane Solo](https://open.spotify.com/track/45SUuwxzQQzvnAaMjuM5XZ) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Miss Sloane \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yZ9kWiGkJ3i6fxWw9cxV9) | 2:07 | 2022-01-19 |  |
+| [Miss Sloane Solo](https://open.spotify.com/track/08w5Hy6Lv5d6y3iZZyaM3K) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Miss Sloane \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/09zIgmRsrLm0bpTzxQCBO7) | 2:07 | 2023-07-14 |  |
+| [Miss Sloane Solo](https://open.spotify.com/track/45SUuwxzQQzvnAaMjuM5XZ) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Miss Sloane \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yZ9kWiGkJ3i6fxWw9cxV9) | 2:07 | 2022-01-19 | 2023-12-23 |
 | [Mother](https://open.spotify.com/track/37IexGi3KksWaXoS7pnd5P) | [Rhian Sheehan](https://open.spotify.com/artist/0H1edn1doFZiHiu2INB2CT) | [Belief: The Possession of Janet Moses \(Original Score\)](https://open.spotify.com/album/6zaq4nwu7LF2T1hUjbv2F5) | 1:18 | 2021-11-19 |  |
 | [My Dear Anne](https://open.spotify.com/track/1eHYVUE0AAjGzTySOPMHQc) | [Carter Burwell](https://open.spotify.com/artist/0SbSDzM4X41hnlURed0fcV) | [Three Billboards Outside Ebbing, Missouri \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ji7Dxq73HCW0UdoXWfOxP) | 2:37 | 2021-11-19 | 2022-07-29 |
 | [My Dear Anne](https://open.spotify.com/track/3MC1tMZPpGOjHyVkI1kXq9) | [Carter Burwell](https://open.spotify.com/artist/0SbSDzM4X41hnlURed0fcV) | [Three Billboards Outside Ebbing, Missouri \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/54be1eA06eNnJeGtwOAlF8) | 2:37 | 2022-07-22 |  |

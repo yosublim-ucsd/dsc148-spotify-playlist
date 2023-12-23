@@ -4,7 +4,7 @@
 
 > Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!
 
-435 songs - 18 hr 49 min
+439 songs - 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [DARK STEP](https://open.spotify.com/track/620A7hleDI0h2jDscp5P7s) | [ICHIRO](https://open.spotify.com/artist/5MUljcWL3VylwkBxs9xw0p) | [DARK STEP](https://open.spotify.com/album/5QLNlO42lfwFSuwEZcREeK) | 1:31 | 2023-06-12 | 2023-06-19 |
 | [Dawson's Creek](https://open.spotify.com/track/4J8kPd5rTr6KpcWhPcj3Ij) | [Jimmy Bolt](https://open.spotify.com/artist/3ASqnfNwIr7VOKJuwR1uJP), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [Dawson's Creek](https://open.spotify.com/album/3l4TOWHbFJJ5gyTU3vaP8Z) | 3:15 | 2023-06-12 | 2023-07-21 |
 | [Dear Best Friend](https://open.spotify.com/track/1zJmO7JxS8d1TTDnkm0neu) | [Supa ChuLi](https://open.spotify.com/artist/49xmsXfch0blsabBR9hzqW) | [Dear Best Friend](https://open.spotify.com/album/57KEVv6qQvsTKVi5QKOAC3) | 2:12 | 2023-06-12 |  |
+| [DEATH WALK](https://open.spotify.com/track/0eGNy5lmSUF6dlvZ8RRO46) | [MONOWIRE](https://open.spotify.com/artist/0ssyYSlMlTH7CWxonEhr12) | [DEATH WALK](https://open.spotify.com/album/25Q4HckePC3R0EA4XFhkZM) | 1:48 | 2023-12-22 |  |
 | [deathrow honeymoon](https://open.spotify.com/track/2bHgTRULzOqXltq764vJQ6) | [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk) | [deathrow honeymoon](https://open.spotify.com/album/1sz0ia2sQs3X71J8dou1Uv) | 2:44 | 2023-06-12 | 2023-06-26 |
 | [DEAUX](https://open.spotify.com/track/18ywzpvs8aofcvOrI37Hwq) | [B Deaux](https://open.spotify.com/artist/3PmmfwIMD4ZcePSLHGUUk8) | [DEAUX](https://open.spotify.com/album/1220ZtP3RA3iKUd6FtuSaR) | 2:30 | 2023-08-19 | 2023-09-26 |
 | [DECAPITATE](https://open.spotify.com/track/2z0E71Kisoe6ZrUwkMvxfY) | [MONOWIRE](https://open.spotify.com/artist/0ssyYSlMlTH7CWxonEhr12) | [DECAPITATE](https://open.spotify.com/album/3gDXDolBfqh29nDeOgwoIJ) | 2:12 | 2023-06-12 | 2023-08-20 |
@@ -104,6 +105,7 @@
 | [Disturbia \(Hardstyle\)](https://open.spotify.com/track/3PKergQGYqsqWKDCxIDgwy) | [Way 2 Hard](https://open.spotify.com/artist/2RVSrGAAmol8DMoIwEV4NQ), [Way 2 Fast](https://open.spotify.com/artist/57Hj2cFlZMIv0KAxHZX4hT) | [Disturbia \(Hardstyle\)](https://open.spotify.com/album/5FyCVU0aqky1Enl1xllt5z) | 2:57 | 2023-06-18 |  |
 | [DO MY DANCE](https://open.spotify.com/track/1j9wfEnJlZtcv5Lb9n1ZWF) | [Mac NL](https://open.spotify.com/artist/2RD8WghGrjxnCeAWRXY4wu) | [LONG TIME COMING](https://open.spotify.com/album/7ARBabgm4CrlBdI5kW3Oxy) | 3:19 | 2023-06-20 | 2023-07-21 |
 | [DO NOT RESUSCITATE](https://open.spotify.com/track/6J0pQxIy3vFORwI8MTqByk) | [hix](https://open.spotify.com/artist/4Eqq0H4QPYpM3U8SKFTJDq), [ething](https://open.spotify.com/artist/4c6MrhMBcutKWe7Blqqnct) | [THE OUTSIDER](https://open.spotify.com/album/5hjlO9o1y5uf4GdaaTpBdn) | 1:47 | 2023-07-03 | 2023-07-19 |
+| [DON'T KNOW ME](https://open.spotify.com/track/5VXBT5kzlGQMDUyNxbUWGz) | [curxlxss](https://open.spotify.com/artist/0kFC3U8ClpCMpRttE8vDcp), [Alex Pristupa](https://open.spotify.com/artist/3VCUWGwcgl2CU554ec70Mb) | [DON'T KNOW ME](https://open.spotify.com/album/02BiuMVMRZ93Rmcra4M240) | 2:11 | 2023-12-22 |  |
 | [DOOMSDAY](https://open.spotify.com/track/0j8mk7LcS5tmUrLDeOnihT) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [DOOMSDAY](https://open.spotify.com/album/6hyyVJHfFBFjh4zF9XF7Re) | 2:06 | 2023-08-21 | 2023-09-26 |
 | [Drive Forever](https://open.spotify.com/track/6Ede2Ta7dVhcV7QYQ3OH6N) | [T3NZU](https://open.spotify.com/artist/5bgu60VOkifx3xadonzsgi) | [Drive Forever](https://open.spotify.com/album/3nw958OcSLIbilnETAD7KO) | 2:25 | 2023-06-12 |  |
 | [DRXFT](https://open.spotify.com/track/6cI4mcLDQHchYhcQpoiDi5) | [GXTHMODE](https://open.spotify.com/artist/1p3418t2jRBA2ttFkBMMhT) | [DRXFT](https://open.spotify.com/album/6kvY3tlx9OcdHEymKFvdBu) | 1:36 | 2023-12-21 |  |
@@ -388,6 +390,7 @@
 | [Tesla](https://open.spotify.com/track/4y2MBx0WKentE8pHFa52RU) | [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM) | [Lil Pump 2](https://open.spotify.com/album/1ly2H0S0Ru5gJ2yvZZ18Uv) | 2:13 | 2023-06-25 | 2023-08-06 |
 | [That's My Slime](https://open.spotify.com/track/3gFbStY4BsLT8XK9CEDjTw) | [Master Yeti](https://open.spotify.com/artist/1xR2S5GSN26FYw6KuytiGU) | [That's My Slime](https://open.spotify.com/album/1IdYVCY0S5BQRRsHjbnX2C) | 1:29 | 2023-06-12 | 2023-09-26 |
 | [THATSWHATSHESAID](https://open.spotify.com/track/6oBXsOCWhdHGC3A7D0oFqL) | [Killhollow](https://open.spotify.com/artist/3mZDbuKlvYt5z4forbtZX9), [Skill Syrup](https://open.spotify.com/artist/7FvspmKAf0OXZbxx2A15hW) | [THATSWHATSHESAID](https://open.spotify.com/album/5nHcoIuTKqUD4vthqcyC7h) | 1:42 | 2023-08-19 | 2023-09-26 |
+| [The Nomad of Shadows](https://open.spotify.com/track/3xGn995eSWAyIABz5EI4mN) | [Ezediel](https://open.spotify.com/artist/0tBnlyWLId05SAbBCkE1EY) | [The Nomad of Shadows](https://open.spotify.com/album/5hTP8DaoJP73zi2TLOfCKA) | 2:44 | 2023-12-22 |  |
 | [The Old East End Tonight \- Jason Bye Remix Radio Edit](https://open.spotify.com/track/4Qaz7k8wA9iYuQ8p9BNp0j) | [Gary Driscoll](https://open.spotify.com/artist/2uW07oq2oBadeC9LgxkyOt) | [The Old East End Tonight \(The Remixes\)](https://open.spotify.com/album/4bL0vmMXTlA7g0E31kMrYl) | 3:44 | 2023-06-12 | 2023-06-19 |
 | [The Passenger](https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 4:43 | 2023-06-12 | 2023-09-26 |
 | [The Perfect Girl](https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [The Perfect Girl](https://open.spotify.com/album/2JnZQM70jbT0J1Xq0qgl24) | 3:14 | 2023-06-12 |  |
@@ -427,6 +430,7 @@
 | [Way Too Lit](https://open.spotify.com/track/7h6TIAagxDA1F1ava16ly0) | [MIKE MAYJOR](https://open.spotify.com/artist/1FvSkPJlg3iCOfLPTct0MP) | [Hot Boy](https://open.spotify.com/album/3oHj5tVRfXewOiobMUSa1s) | 2:55 | 2023-06-28 | 2023-08-10 |
 | [WEIRD PHONK SONG \- PR FUNK](https://open.spotify.com/track/0wWvBoBISgrhgYfsh42TZt) | [MONOWIRE](https://open.spotify.com/artist/0ssyYSlMlTH7CWxonEhr12) | [WEIRD PHONK SONG \- PR FUNK](https://open.spotify.com/album/0pAn9OaAuVpvPJhDbv6A7a) | 1:02 | 2023-09-25 | 2023-12-14 |
 | [What's Happenin](https://open.spotify.com/track/5BErg78nw8lqlCqTQsXzBh) | [TRA$HCVNDY](https://open.spotify.com/artist/7okGkh1it0SWLUNOUGacbG), [fkbambam](https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6) | [Whats Happenin](https://open.spotify.com/album/2SxqzGlzOKOtOsiNFRTWNH) | 1:24 | 2023-12-08 |  |
+| [When I Come](https://open.spotify.com/track/1M8FrCZumkPEnWBAATjd91) | [QR707](https://open.spotify.com/artist/6vYmUrLrJ0Rg5ymaK6q4Vd) | [When I Come](https://open.spotify.com/album/7jkLi0yVf9A2UpMtzsQMVW) | 2:08 | 2023-12-22 |  |
 | [Where Is My Mind?](https://open.spotify.com/track/0KzAbK6nItSqNh8q70tb0K) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Death to the Pixies](https://open.spotify.com/album/2A4zIVdm7JjHaNo9cop985) | 3:49 | 2023-06-12 |  |
 | [Why Not](https://open.spotify.com/track/4oMyggIzClkOcCTvotFLkP) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [Why Not](https://open.spotify.com/album/0Qj2wwdBRq690kG8hShuaR) | 2:45 | 2023-06-12 |  |
 | [Why Not II](https://open.spotify.com/track/0zh8sFFJWW3NIOerhSIi3z) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [Why Not II](https://open.spotify.com/album/0cUR4LZr5yKpuiCGCiQdgQ) | 1:46 | 2023-08-05 | 2023-09-26 |

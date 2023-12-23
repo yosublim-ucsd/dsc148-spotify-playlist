@@ -4,7 +4,7 @@
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-127 songs - 6 hr 20 min
+128 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,8 +121,9 @@
 | [Take Over](https://open.spotify.com/track/1jAsB4PSdWW7IQ6tvI3xwN) | [Da Beatfreakz](https://open.spotify.com/artist/3Q8Ow3li2nXzZhRPHMwR7h), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Shakka](https://open.spotify.com/artist/7fqDRFkiuwzFDde1K0taVs), [Seyi Shay](https://open.spotify.com/artist/0WgwOS7j1CB5tIRa4QM50K) | [Take Over](https://open.spotify.com/album/3wtPfBDQtYFAZfoV99s8uV) | 3:36 | 2021-12-28 | 2022-10-13 |
 | [Tall Shade](https://open.spotify.com/track/4pACPCpLl5vqvrToSE161d) | [Patrice](https://open.spotify.com/artist/1fBcQOi8yEfWN7fknMoqIE), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Tall Shade](https://open.spotify.com/album/1ot4OOnFQfD7FtoQAU3qKS) | 2:59 | 2021-12-28 |  |
 | [Tear Chain](https://open.spotify.com/track/6y33WYt0thPEVtD3rO335t) | [ChopLife SoundSystem](https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Chop Life, Vol\. 1: Mzansi Chronicles](https://open.spotify.com/album/2TvhWKLTi6Gv3LCndQDeM0) | 2:35 | 2023-06-03 | 2023-09-10 |
+| [Tellin Me Something](https://open.spotify.com/track/1t7c0mGQEW3UlF1L50B7ez) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Dpos D' Quarentena](https://open.spotify.com/album/2pJvQDF4JlJoh2lmIB17FZ) | 2:47 | 2023-12-22 |  |
 | [Tellin Me Something](https://open.spotify.com/track/25NM2Mrlz8NTm82HIOzeck) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Tellin Me Something](https://open.spotify.com/album/4pqUdkYZOgXe1WfETwoIVI) | 2:47 | 2021-12-28 | 2022-02-25 |
-| [Tellin Me Something](https://open.spotify.com/track/5Qv5axvRRA9UfGUAfQPmCn) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Dpos D' Quarentena](https://open.spotify.com/album/1U0cUGkzOq6ESgOs1S8yLF) | 2:47 | 2022-02-24 |  |
+| [Tellin Me Something](https://open.spotify.com/track/5Qv5axvRRA9UfGUAfQPmCn) | [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Dpos D' Quarentena](https://open.spotify.com/album/1U0cUGkzOq6ESgOs1S8yLF) | 2:47 | 2022-02-24 | 2023-12-23 |
 | [Thank You \(Freestyle\)](https://open.spotify.com/track/69UHM2u5TC00vjJKTLhk9M) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Thank You \(Freestyle\)](https://open.spotify.com/album/1wInOL1grYlRN0zKkHbWxn) | 2:30 | 2022-01-30 | 2022-07-11 |
 | [The Don](https://open.spotify.com/track/6reboUDZMXeMCuSyycYfYD) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Don](https://open.spotify.com/album/1iQzhHhS41r4gg2uT1Wq4Z) | 2:48 | 2021-12-28 | 2023-05-28 |
 | [Tied Up \(feat\. Mr\. Eazi, RAYE & Jake Gosling\)](https://open.spotify.com/track/6x2rOU6kWCb4hapELxe5N9) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Jake Gosling](https://open.spotify.com/artist/20twLKFb2Nhd8duUH0k2DJ) | [Tied Up \(feat\. Mr Eazi, RAYE and Jake Gosling\)](https://open.spotify.com/album/4tbPtaxjHDV52LOctsiG5r) | 3:07 | 2022-07-20 | 2022-07-22 |

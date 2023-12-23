@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 
 > Raw, emotional, and acoustic\. Cover: Charlie Musselwhite
 
-[Spotify](https://open.spotify.com/user/spotify) - 728,214 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 728,220 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 | 55 | [Ships in the Night](https://open.spotify.com/track/08pCnq3MdYsbEjubAWBdCt) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc) | [Ships in the Night](https://open.spotify.com/album/6m1eIQQFgZx0n5PkM3dKdx) | 3:41 |
 | 56 | [Walking Blues](https://open.spotify.com/track/49OfM5fTeH57u2NN9mIpAW) | [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3), [Stefan Grossman](https://open.spotify.com/artist/0me2CHAdEKm5MTWHemzRk5) | [Country Blues Guitar](https://open.spotify.com/album/13TN7isubmqCzQxa3iLPVO) | 3:45 |
 | 57 | [Walking the dog](https://open.spotify.com/track/6TZa0ySHmDrjet5uk1gFSM) | [Hans Theessink](https://open.spotify.com/artist/2e02wACgnPCZ1lPeQEUCom) | [Journey On](https://open.spotify.com/album/3AMhMqVJLR0Gyoz4iDdbnz) | 4:11 |
-| 58 | [Break My Fall](https://open.spotify.com/track/6KbHosVLv94wZG6lhZdAp9) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Head Bent](https://open.spotify.com/album/4VXrAdqkFnz2qNJGO0wmKL) | 4:25 |
+| 58 | [Break My Fall](https://open.spotify.com/track/0VSZBPnOE1hWGK3bcZMIB2) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Head Bent](https://open.spotify.com/album/1vgBs7x0Zyoi6lcXiTjz6q) | 4:25 |
 | 59 | [Lead Me On](https://open.spotify.com/track/6i7pokV2JiF1et71olScGO) | [Kelly Joe Phelps](https://open.spotify.com/artist/7MGPOWrHHrTJcviOWNbKEF) | [Lead Me On \(15 Year Anniversary Edition\)](https://open.spotify.com/album/4YQ7qU3Se2TBdFg7FpROPs) | 4:47 |
 | 60 | [You Don't Care for Me Enough to Cry](https://open.spotify.com/track/1tQGRq2WOBXjL3JWdWMONg) | [John Moreland](https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH) | [High on Tulsa Heat](https://open.spotify.com/album/1NvW80mVflSphrro6oWLuP) | 4:14 |
 | 61 | [Going To Canada](https://open.spotify.com/track/0GkM9T6C7nzkgWUbK7E2cd) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD) | [J.L.W.](https://open.spotify.com/album/3Hkw4ANYf5R9b5OHXifD1A) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 | 99 | [Keep Your Lamp Trimmed And Burning](https://open.spotify.com/track/5LTMzb6lrWkdgNl4CNwfwx) | [Corey Harris](https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH) | [Between Midnight And Day](https://open.spotify.com/album/6fuRNpnOE7QgyT1IcdvpED) | 2:54 |
 | 100 | [What They Say](https://open.spotify.com/track/1Ksvwp4L3vKsWOJP9j1QoA) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [Hundred Dollar Valentine](https://open.spotify.com/album/2SbPOPZJhWcY5bf81e4PIV) | 2:46 |
 
-Snapshot ID: `MCwyOTVjOTE5OWQ5MDYxYzg3YjdiZjAyNjY1NGQ2ZGNmMjc3MGY3YWQ1`
+Snapshot ID: `MCwwNzczYjY1ZjNjYjc0MTIzN2EzZTJkNmNlOWRkODE0ZmMxYjljYzA0`

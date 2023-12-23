@@ -2,9 +2,9 @@
 
 ### [Reggaetón Colombia](https://open.spotify.com/playlist/37i9dQZF1DWXwplEUR0E2h)
 
-> ¡Los mejores sonidos urbanos desde la tierra del ritmo! En portada: KAROL G
+> ¡Los mejores sonidos urbanos desde la tierra del ritmo! En portada: Pirlo
 
-87 songs - 4 hr 26 min
+88 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [CAIRO](https://open.spotify.com/track/6WbAhuwE6fCOriBu5786X1) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [CAIRO](https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA) | 3:21 | 2023-09-30 |  |
 | [Call Me](https://open.spotify.com/track/1P1o4gle2rdaQfxCyf3NXu) | [COQE](https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E), [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC) | [Call Me](https://open.spotify.com/album/4ZlXjyyZcXFBezg5xGOiGK) | 2:24 | 2023-09-30 | 2023-10-06 |
 | [Chimba](https://open.spotify.com/track/3pDBhvXeU7zd9622HCRwdQ) | [West Blanco](https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL) | [Chimba](https://open.spotify.com/album/6M3s7M979P8JJMYiUuSFGv) | 2:08 | 2023-10-20 | 2023-11-11 |
-| [Chimbiando](https://open.spotify.com/track/2JuzL1lCVol7VJaKn8WnCn) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC) | [Chimbiando](https://open.spotify.com/album/7crWoBYWALhKVmqFF3Bx22) | 2:37 | 2023-10-20 |  |
+| [Chimbiando](https://open.spotify.com/track/2JuzL1lCVol7VJaKn8WnCn) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC) | [Chimbiando](https://open.spotify.com/album/7crWoBYWALhKVmqFF3Bx22) | 2:37 | 2023-10-20 | 2023-12-23 |
 | [CHORRITO PA LAS ANIMAS](https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:48 | 2023-09-30 | 2023-12-16 |
 | [CLASSY 101](https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [CLASSY 101](https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv) | 3:15 | 2023-09-30 |  |
 | [Como Ñengo \(feat\. Jota Rosa\)](https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS) | [Club16](https://open.spotify.com/artist/2MXDat5eYxVcnHht0N2uSF), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Jota Rosa](https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80) | [Como Ñengo \(feat\. Jota Rosa\)](https://open.spotify.com/album/1D0xvI1Mz6Wv0TpTa6UAhC) | 3:24 | 2023-09-30 | 2023-10-21 |
@@ -48,6 +48,7 @@
 | [Kimi](https://open.spotify.com/track/5z0X4A8ATSsxgZrSREcny5) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [Qué Momento Pa' Estar Vivo](https://open.spotify.com/album/7q7oXa6wkdqTIuM9cpHxNF) | 2:53 | 2023-11-10 | 2023-11-18 |
 | [KLKNTOKI](https://open.spotify.com/track/6KaezqeYEakCN6jq5a7T1w) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Cheztom](https://open.spotify.com/artist/5DJQ2mf4W5JFyjLt4KdEQn) | [KLKNTOKI](https://open.spotify.com/album/7gESv8nqIStiWMjTT4C4Wc) | 3:21 | 2023-09-30 |  |
 | [La Nota](https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [La Nota](https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly) | 3:36 | 2023-09-30 |  |
+| [LA ROMPE CORAZONES \(feat\. Hozwal\)](https://open.spotify.com/track/5aQQSaaFutM2LnbePJq5mh) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2) | [365 días de aguante](https://open.spotify.com/album/0XvHJU5yu7UYMq9zejttcC) | 3:30 | 2023-12-22 |  |
 | [La Ruta](https://open.spotify.com/track/1rLEJvxnJyI8uqaQKxnbN8) | [Elniko Arias](https://open.spotify.com/artist/4K4vr85RRWEyiAajgpeMrR), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU) | [La Ruta](https://open.spotify.com/album/7lFoAsoidKTQw5W56SozzI) | 2:40 | 2023-12-15 |  |
 | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Labios Mordidos \(with KAROL G\)](https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT) | 3:15 | 2023-11-24 |  |
 | [Los Cachos](https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Los Cachos](https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh) | 3:32 | 2023-09-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : Ala Vaikunthapurramuloo
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,656 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,796 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 64 | [Laahe Laahe](https://open.spotify.com/track/6rcTPn1CwOyuskilY12IqL) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Harika Narayan](https://open.spotify.com/artist/6BWLgCuwDlaTKrZvgMmghn), [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM) | [Acharya](https://open.spotify.com/album/66WP95DcFzhmAyVXhG8UvG) | 4:07 |
 | 65 | [Inthandham \(From "Sita Ramam \(Telugu\)"\)](https://open.spotify.com/track/3BVjPpVvki8Jpm1Ew21UjH) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja) | [Inthandham \[From "Sita Ramam \(Telugu\)"\]](https://open.spotify.com/album/6J9Jhm6rr5RboOPtvzkNrX) | 3:38 |
 | 66 | [Emitemitemo](https://open.spotify.com/track/3ZasHIQ1l7tCYqxnebFOsK) | [Alphonse](https://open.spotify.com/artist/1GRV7IB2LNWKCdG46tsKgT) | [Arjun Reddy](https://open.spotify.com/album/1tqm6TOZEJfsjJagQPFbyd) | 3:23 |
-| 67 | [Jatha Kalise](https://open.spotify.com/track/7IsCmld8aCYXj1NbSn9t2K) | [Sagar](https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5), [Suchitra](https://open.spotify.com/artist/3R0YzDT1gl2mMDLMrgdNjR) | [Srimanthudu](https://open.spotify.com/album/6n7uqqX5fHZEoBXF74KJQS) | 3:44 |
-| 68 | [Chali Gaali Chuudduu](https://open.spotify.com/track/3QsM6YG0DqtqQ3jPxTIFlW) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Padmalatha](https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk), [Malavika \(U.S\)](https://open.spotify.com/artist/3sGIKvw53mzsyXuhjxkKTC) | [Gentleman](https://open.spotify.com/album/5pDP183RRSwga8C5XNtRCL) | 4:27 |
+| 67 | [Chali Gaali Chuudduu](https://open.spotify.com/track/3QsM6YG0DqtqQ3jPxTIFlW) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Padmalatha](https://open.spotify.com/artist/7xgN0GCVgPxHiU8p8PIYfk), [Malavika \(U.S\)](https://open.spotify.com/artist/3sGIKvw53mzsyXuhjxkKTC) | [Gentleman](https://open.spotify.com/album/5pDP183RRSwga8C5XNtRCL) | 4:27 |
+| 68 | [Jatha Kalise](https://open.spotify.com/track/7IsCmld8aCYXj1NbSn9t2K) | [Sagar](https://open.spotify.com/artist/6CWBs7ul78QwnBrcOCwhf5), [Suchitra](https://open.spotify.com/artist/3R0YzDT1gl2mMDLMrgdNjR) | [Srimanthudu](https://open.spotify.com/album/6n7uqqX5fHZEoBXF74KJQS) | 3:44 |
 | 69 | [Bheemla Nayak Title Song](https://open.spotify.com/track/6BiLK0zV9MULmHcM7G7L2W) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C), [Prithvi Chandhra](https://open.spotify.com/artist/2sXOEThmg7BmZ5qQVI01x7), [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Bheemla Nayak](https://open.spotify.com/album/3LDf8zucVQthBeANPECHkk) | 5:10 |
 | 70 | [Bhale Bhale Banjara](https://open.spotify.com/track/1GP0KRgqPjkzG9SGuYZKZA) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Acharya](https://open.spotify.com/album/1WqUN4uqBNeoMBgeyCblTv) | 4:19 |
-| 71 | [Gusa Gusa Lade](https://open.spotify.com/track/3Z8mfS2fQweEvT9QW9FFGx) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Pranavi](https://open.spotify.com/artist/41QXGKV5JORVGLgJmpR5XR) | [Gentleman](https://open.spotify.com/album/5pDP183RRSwga8C5XNtRCL) | 3:57 |
-| 72 | [Nee Kannu Neeli Samudram](https://open.spotify.com/track/4kEWOqFxFAihLq2dtQPwCI) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Uppena](https://open.spotify.com/album/4ug7KdJJ2CVG5fANdZbzHM) | 5:12 |
+| 71 | [Nee Kannu Neeli Samudram](https://open.spotify.com/track/4kEWOqFxFAihLq2dtQPwCI) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Uppena](https://open.spotify.com/album/4ug7KdJJ2CVG5fANdZbzHM) | 5:12 |
+| 72 | [Gusa Gusa Lade](https://open.spotify.com/track/3Z8mfS2fQweEvT9QW9FFGx) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Pranavi](https://open.spotify.com/artist/41QXGKV5JORVGLgJmpR5XR) | [Gentleman](https://open.spotify.com/album/5pDP183RRSwga8C5XNtRCL) | 3:57 |
 | 73 | [Bullet Song](https://open.spotify.com/track/7Mi0pugIa9VPQm7ykGWIfa) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Silambarasan TR](https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS), [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [The Warriorr](https://open.spotify.com/album/424KdwSKagxxopiqLlbasW) | 3:57 |
 | 74 | [Andamaina Lokam](https://open.spotify.com/track/2333RV2lqw4JGTd2TSgIQ5) | [Sagar, Haripriya](https://open.spotify.com/artist/0HIYtXGgCe7j2yWwnCvILY) | [Shivam](https://open.spotify.com/album/3CQ3r8XcSelGurOV4lNWc7) | 3:59 |
 | 75 | [Kanulanu Thaake](https://open.spotify.com/track/4IoL5eSdPTk44UjQf0fk4m) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Manam](https://open.spotify.com/album/2FqMc3pSul2960B7WyO4hl) | 4:54 |
 
-Snapshot ID: `MCw5MjcwMGNmN2ZkOTNiZDhiOGRkMTU5NDZlYWYxOGRhNDFlZWYxZjY1`
+Snapshot ID: `MCxjYzdmNGQzYmY5OTA0YTIyNTBmOTNmZjhmMDEzNTQ5MWZlOTlkZDcz`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,329 likes - 65 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,331 likes - 65 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [DISCO PRANK feat\. Leo Uchida](https://open.spotify.com/track/0AYM2tgwtiB3QovS3FUlbu) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [Leo Uchida](https://open.spotify.com/artist/4Bu3saVITUucWAvsIW8zrL) | [DISCO PRANK feat\. Leo Uchida](https://open.spotify.com/album/2zjAF1GnsLQnUo1OOXclF6) | 3:51 |
+| 1 | [DISCO PRANK feat\. Leo Uchida](https://open.spotify.com/track/1NsYaNxkwwKC18anLoxVZk) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD), [Leo Uchida](https://open.spotify.com/artist/4Bu3saVITUucWAvsIW8zrL) | [The Roller Skating Tour](https://open.spotify.com/album/4iyqMZ78D9rMdbSJl6jhtO) | 3:52 |
 | 2 | [NO ID!](https://open.spotify.com/track/3k44zsQJSUD84aDcwZBUwk) | [Kohei Shimizu](https://open.spotify.com/artist/3zX8cCqgrhnASsckLs4ZI9), [Mashinomi](https://open.spotify.com/artist/38ekEKl28kPuKUoQqSFlKi) | [NO ID!](https://open.spotify.com/album/4K2nRN7uvjfZaNaDVM67e0) | 2:19 |
 | 3 | [Asobi](https://open.spotify.com/track/78X8POmR850XblDjlKR8uD) | [kim taehoon](https://open.spotify.com/artist/6qQHzLu9pasNUZGt1cdD1N), [mashoe'](https://open.spotify.com/artist/5MPZJyDVTTKSdkli4U4k6Z) | [Asobi](https://open.spotify.com/album/32zQmkCuk1oaX0vACGxIUK) | 3:41 |
 | 4 | [You make me happy!!!](https://open.spotify.com/track/11zpMoUzrJv4o7LCvgR29Z) | [jean](https://open.spotify.com/artist/0hc2fRch1am34f5Jax1O0S) | [You make me happy!!!](https://open.spotify.com/album/2z6wQ5y4LwQNEXguZR92tP) | 2:18 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 48 | [sign](https://open.spotify.com/track/4gRnAvQGWCxllSgm1VQpP6) | [rowbai](https://open.spotify.com/artist/04KOkP9uy9w56JxWuTMf0r) | [sign](https://open.spotify.com/album/07fC3vBJnKJCHpHQMAvL9O) | 2:34 |
 | 49 | [Wayside \- Wave Racer Remix](https://open.spotify.com/track/0gqObamjYGPDrDashLtGzn) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Wave Racer](https://open.spotify.com/artist/147jymD5t0TCXW0DbaXry0) | [Wayside \(Wave Racer Remix\)](https://open.spotify.com/album/1M4fMi3BJpPclA8wwdPZeo) | 2:32 |
 | 50 | [winter again](https://open.spotify.com/track/6UUkpz0afWxT3G4jJQU6cZ) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [winter again](https://open.spotify.com/album/7d6LwgYqvTs2r4kNdk1KSa) | 4:34 |
-| 51 | [Bubble](https://open.spotify.com/track/4VJfwQ3BvngVwBMyZybFdd) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Bubble](https://open.spotify.com/album/1Sb6NuHkm6Pf6POnZKaE7Z) | 1:52 |
+| 51 | [Bubble](https://open.spotify.com/track/6jBvMxjiuMvAs3l6cf8gzF) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Pink Crocodile](https://open.spotify.com/album/1dxdRkMljoxEr29devaQhr) | 1:52 |
 | 52 | [TEST ME NOW](https://open.spotify.com/track/7vJUhOfIODYij4BAFoGwf3) | [plan i](https://open.spotify.com/artist/5w4PkCj88ZFwCZDi21y4Su), [S2](https://open.spotify.com/artist/0IzMiHAuFdr9HUYxgzaCS3), [MEZZ](https://open.spotify.com/artist/7LsZhGdSZFloGjMmcn5Wzu) | [mirror](https://open.spotify.com/album/7qlIJbnBDddMhtlXP0omwy) | 2:51 |
 | 53 | [Buzzer Beats](https://open.spotify.com/track/0tS12c8KnSz68D5rPAegs1) | [Fuma no KTR](https://open.spotify.com/artist/6thFYr8FXQ3irTtczyv9YO), [WAZGOGG](https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5), [bunTes](https://open.spotify.com/artist/4un5fNWeCZyuQvtzXxFBXt) | [Assassin House](https://open.spotify.com/album/32sagaiorOUsgt3qdBtuXZ) | 2:38 |
 | 54 | [ECCENTRIC](https://open.spotify.com/track/447GKyBb0udHU3w0nBBMw5) | [Salvador Mani](https://open.spotify.com/artist/2F4kmRRS6qgX6LqKL9DS3V), [PUZZY!](https://open.spotify.com/artist/794nzuaLn3iKxpnHvoFsff), [Noconoco](https://open.spotify.com/artist/7mqeh0ppveN8XEZLXo8PkS) | [ECCENTRIC](https://open.spotify.com/album/2ukoHjqkA4yJXaWkN1Vn17) | 2:00 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 64 | [MORE & MORE \(LEE HAE SOL Sped Up Remix\)](https://open.spotify.com/track/3PeqOlET4ZX6CKGwrlAX7u) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [LEE HAE SOL](https://open.spotify.com/artist/5xZzq9Bk8IociNfF0TfHdf) | [THE REMIXES](https://open.spotify.com/album/37WsLE5Eny9CTmF9CPzWIq) | 2:25 |
 | 65 | [分かってないよ \- Sped Up](https://open.spotify.com/track/13sBcr9Fqc1JD1bh3f9vq0) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [分かってないよ \(Sped Up\)](https://open.spotify.com/album/3brLVw6XC0saMaeL0ZHFYS) | 2:54 |
 
-Snapshot ID: `MCw5ODc0YjQ5YWZkMjQzZWI2M2M3ODA3MmRjNTA1YTRhZTFiNWYyMzQ5`
+Snapshot ID: `MCxjZTUwM2VmYmI3OTM1NTA2NGRhMzg0NGU2YzY0ZWRiZjc5NmU4NGI2`

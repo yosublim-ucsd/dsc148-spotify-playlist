@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 118419,
+  "num_followers": 118474,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDllODFkMmRmYTUyYTljN2JiNmNlMDZjOTZmNTMxMmI1YTZmMjEw",
+  "snapshot_id": "MCxkMzc5NDJkOTA5MDI5MWJiMDJhNjY0ZTRmYjJhM2Y1MmQ5YTk2N2Rj",
   "tracks": [
     {
       "added_at": "2023-11-24 07:22:59",
@@ -251,26 +251,22 @@
     {
       "added_at": "2023-11-24 07:22:59",
       "album": {
-        "name": "Eu Confio Em Ti (Remix)",
-        "url": "https://open.spotify.com/album/21VyZUFN7Epq1Xo1j8FChN"
+        "name": "Controle (Remix)",
+        "url": "https://open.spotify.com/album/5SKNgPWB0axicM6fUOWSSs"
       },
       "artists": [
         {
-          "name": "Duda Santos Oficial",
-          "url": "https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG"
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
         },
         {
-          "name": "Leandro Alencar",
-          "url": "https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x"
-        },
-        {
-          "name": "MAYK",
-          "url": "https://open.spotify.com/artist/0gKlPBIE3CyZgz8m7C5RBa"
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
         }
       ],
-      "duration_ms": 235468,
-      "name": "Eu Confio Em Ti - Remix",
-      "url": "https://open.spotify.com/track/6hEX6wvD3uMUHxAOifSKn1"
+      "duration_ms": 159640,
+      "name": "Controle (Remix)",
+      "url": "https://open.spotify.com/track/0UNEQA9OCMcZ8QwUJsbOgS"
     },
     {
       "added_at": "2023-11-24 07:22:59",
@@ -319,22 +315,26 @@
     {
       "added_at": "2023-11-24 07:22:59",
       "album": {
-        "name": "Controle (Remix)",
-        "url": "https://open.spotify.com/album/5SKNgPWB0axicM6fUOWSSs"
+        "name": "Eu Confio Em Ti (Remix)",
+        "url": "https://open.spotify.com/album/21VyZUFN7Epq1Xo1j8FChN"
       },
       "artists": [
         {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+          "name": "Duda Santos Oficial",
+          "url": "https://open.spotify.com/artist/3MrbkRnJZ7bsXnzv33yvuG"
         },
         {
-          "name": "Brunno Ramos",
-          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
+          "name": "Leandro Alencar",
+          "url": "https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x"
+        },
+        {
+          "name": "MAYK",
+          "url": "https://open.spotify.com/artist/0gKlPBIE3CyZgz8m7C5RBa"
         }
       ],
-      "duration_ms": 159640,
-      "name": "Controle (Remix)",
-      "url": "https://open.spotify.com/track/0UNEQA9OCMcZ8QwUJsbOgS"
+      "duration_ms": 235468,
+      "name": "Eu Confio Em Ti - Remix",
+      "url": "https://open.spotify.com/track/6hEX6wvD3uMUHxAOifSKn1"
     },
     {
       "added_at": "2023-11-24 07:22:59",
@@ -943,6 +943,26 @@
     {
       "added_at": "2023-11-24 07:22:59",
       "album": {
+        "name": "Ele Voltar\u00e1",
+        "url": "https://open.spotify.com/album/1SBo8s8MA1PocxxEDFd7yZ"
+      },
+      "artists": [
+        {
+          "name": "Irm\u00e3 Ana Paula, CMES",
+          "url": "https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv"
+        },
+        {
+          "name": "Mission\u00e1rio Shalom",
+          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
+        }
+      ],
+      "duration_ms": 269958,
+      "name": "Ele Voltar\u00e1",
+      "url": "https://open.spotify.com/track/4cqi3syiCRmBwMlKB41mJl"
+    },
+    {
+      "added_at": "2023-11-24 07:22:59",
+      "album": {
         "name": "Contram\u00e3o",
         "url": "https://open.spotify.com/album/3mdYNZkau7N1HaWFntrpzp"
       },
@@ -959,6 +979,22 @@
       "duration_ms": 133548,
       "name": "Contram\u00e3o",
       "url": "https://open.spotify.com/track/7hunNVtJ5L547paDaYiSt6"
+    },
+    {
+      "added_at": "2023-11-24 07:22:59",
+      "album": {
+        "name": "Tomado",
+        "url": "https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j"
+      },
+      "artists": [
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        }
+      ],
+      "duration_ms": 236792,
+      "name": "Tomado",
+      "url": "https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS"
     },
     {
       "added_at": "2023-11-24 07:22:59",
@@ -983,42 +1019,6 @@
       "duration_ms": 217968,
       "name": "Alvo Mais Que a Neve",
       "url": "https://open.spotify.com/track/3vQkRTXwLjgpHE83LN8Eaf"
-    },
-    {
-      "added_at": "2023-11-24 07:22:59",
-      "album": {
-        "name": "Tomado",
-        "url": "https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j"
-      },
-      "artists": [
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        }
-      ],
-      "duration_ms": 236792,
-      "name": "Tomado",
-      "url": "https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS"
-    },
-    {
-      "added_at": "2023-11-24 07:22:59",
-      "album": {
-        "name": "Ele Voltar\u00e1",
-        "url": "https://open.spotify.com/album/1SBo8s8MA1PocxxEDFd7yZ"
-      },
-      "artists": [
-        {
-          "name": "Irm\u00e3 Ana Paula, CMES",
-          "url": "https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv"
-        },
-        {
-          "name": "Mission\u00e1rio Shalom",
-          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
-        }
-      ],
-      "duration_ms": 269958,
-      "name": "Ele Voltar\u00e1",
-      "url": "https://open.spotify.com/track/4cqi3syiCRmBwMlKB41mJl"
     },
     {
       "added_at": "2023-11-24 07:22:59",
@@ -1079,30 +1079,6 @@
       "duration_ms": 217147,
       "name": "Tempo Novo",
       "url": "https://open.spotify.com/track/0IvQFmJgLHW9beiu5mTMvy"
-    },
-    {
-      "added_at": "2023-11-24 07:22:59",
-      "album": {
-        "name": "Vem Com Josu\u00e9 Lutar em Jeric\u00f3",
-        "url": "https://open.spotify.com/album/5FcbFy9wrhcBcSfWdg3xWN"
-      },
-      "artists": [
-        {
-          "name": "Dois Irm\u00e3os",
-          "url": "https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll"
-        },
-        {
-          "name": "Lufra",
-          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
-        },
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        }
-      ],
-      "duration_ms": 158789,
-      "name": "Vem Com Josu\u00e9 Lutar em Jeric\u00f3",
-      "url": "https://open.spotify.com/track/4906T93wcLNpENXsVAbfHb"
     },
     {
       "added_at": "2023-11-24 07:22:59",
@@ -1211,6 +1187,30 @@
     {
       "added_at": "2023-11-24 07:22:59",
       "album": {
+        "name": "Vem Com Josu\u00e9 Lutar em Jeric\u00f3",
+        "url": "https://open.spotify.com/album/5FcbFy9wrhcBcSfWdg3xWN"
+      },
+      "artists": [
+        {
+          "name": "Dois Irm\u00e3os",
+          "url": "https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll"
+        },
+        {
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+        },
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        }
+      ],
+      "duration_ms": 158789,
+      "name": "Vem Com Josu\u00e9 Lutar em Jeric\u00f3",
+      "url": "https://open.spotify.com/track/4906T93wcLNpENXsVAbfHb"
+    },
+    {
+      "added_at": "2023-11-24 07:22:59",
+      "album": {
         "name": "Marcas (Remix)",
         "url": "https://open.spotify.com/album/44sgO3D4YBpiRHwu2305fo"
       },
@@ -1247,6 +1247,22 @@
       "duration_ms": 155142,
       "name": "Sorrindo \u00e0 Toa - Remix",
       "url": "https://open.spotify.com/track/1F6Ficmbmpk4TnfZ1gKOFU"
+    },
+    {
+      "added_at": "2023-11-24 07:22:59",
+      "album": {
+        "name": "Encontrar",
+        "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
+      },
+      "artists": [
+        {
+          "name": "Tomatti",
+          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
+        }
+      ],
+      "duration_ms": 164750,
+      "name": "Encontrar",
+      "url": "https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX"
     },
     {
       "added_at": "2023-11-24 07:22:59",
@@ -1331,22 +1347,6 @@
     {
       "added_at": "2023-11-24 07:22:59",
       "album": {
-        "name": "Encontrar",
-        "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
-      },
-      "artists": [
-        {
-          "name": "Tomatti",
-          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
-        }
-      ],
-      "duration_ms": 164750,
-      "name": "Encontrar",
-      "url": "https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX"
-    },
-    {
-      "added_at": "2023-11-24 07:22:59",
-      "album": {
         "name": "Dono da Minha Vida (Remix)",
         "url": "https://open.spotify.com/album/48ZsZjU6GUlRuhv3n7u6cJ"
       },
@@ -1419,26 +1419,6 @@
     {
       "added_at": "2023-11-24 07:22:59",
       "album": {
-        "name": "Renascido das Cinzas",
-        "url": "https://open.spotify.com/album/0v6aMoDSt4IvoFYHoBqmH8"
-      },
-      "artists": [
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        },
-        {
-          "name": "Viviane Franco",
-          "url": "https://open.spotify.com/artist/43SIQjWNF1qUsoCnJsT0n0"
-        }
-      ],
-      "duration_ms": 204375,
-      "name": "Das Trevas para Luz - VIP Version",
-      "url": "https://open.spotify.com/track/1n2UbPR7xxkUrALmYchBp2"
-    },
-    {
-      "added_at": "2023-11-24 07:22:59",
-      "album": {
         "name": "Para o Alto (Remix)",
         "url": "https://open.spotify.com/album/3KPQGc4SBlvFEunu9rilc4"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 186280,
       "name": "Vem Com Josu\u00e9 - Ao Vivo",
       "url": "https://open.spotify.com/track/2JV5mbWknaQejsso4UGAGo"
+    },
+    {
+      "added_at": "2023-11-24 07:22:59",
+      "album": {
+        "name": "Renascido das Cinzas",
+        "url": "https://open.spotify.com/album/0v6aMoDSt4IvoFYHoBqmH8"
+      },
+      "artists": [
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        },
+        {
+          "name": "Viviane Franco",
+          "url": "https://open.spotify.com/artist/43SIQjWNF1qUsoCnJsT0n0"
+        }
+      ],
+      "duration_ms": 204375,
+      "name": "Das Trevas para Luz - VIP Version",
+      "url": "https://open.spotify.com/track/1n2UbPR7xxkUrALmYchBp2"
     },
     {
       "added_at": "2023-11-24 07:22:59",

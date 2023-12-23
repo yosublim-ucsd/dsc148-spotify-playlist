@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : Kalipsxau
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,292 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,347 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [Poko](https://open.spotify.com/track/3qkpKchbHLmzSufzbC0hJF) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E), [Richard Cavé](https://open.spotify.com/artist/0FaUMI5rw8I5C7T77ZCNvm) | [Boss](https://open.spotify.com/album/4Jpxj0EZTxnagZyALYPXov) | 3:35 |
 | 40 | [LOUD](https://open.spotify.com/track/4jJBZuAd8KHFS9ALEZsAM3) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p), [Magdala](https://open.spotify.com/artist/3uadfXnnMTKpzaGo96mRFz) | [LOUD](https://open.spotify.com/album/1YrHvEby37Qg6RkeB0Kdyg) | 3:00 |
 
-Snapshot ID: `MCxiYmFhY2FjNzViMWZjMDM1MDYwNzMzMjZmMDg3NmJjZjg4NWNjNTM4`
+Snapshot ID: `MCxjMWQzNDZjZmVjNDIwNDUyNzVhMTQxNDVkOTIyOGVmZGQ2N2ViZTky`

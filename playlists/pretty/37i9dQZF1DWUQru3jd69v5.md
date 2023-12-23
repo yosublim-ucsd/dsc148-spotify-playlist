@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: emanuelino
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,633 likes - 55 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,635 likes - 55 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 36 | [Offline](https://open.spotify.com/track/5AldKuBeBygcSqPcFdZPMp) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [OFFLINE](https://open.spotify.com/album/4QjJhfVACjKRN34TYYSDAE) | 2:49 |
 | 37 | [Madame](https://open.spotify.com/track/0JPyVgLem5a4HcXEADJXg5) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [Madame](https://open.spotify.com/album/5di5PgxR4cs1PveHPkgKtr) | 2:13 |
 | 38 | [TACHANKA](https://open.spotify.com/track/62UkfLanwJ3jBfQa7QZScR) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr), [Ed Mars](https://open.spotify.com/artist/26LV5lhRjmkGpyqoi2hVB3) | [TACHANKA](https://open.spotify.com/album/0Eb4CSKVneypXslPypCrJY) | 1:55 |
-| 39 | [Mogio](https://open.spotify.com/track/2UCw0rBbkmZJIn3oQomFTT) | [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [4997](https://open.spotify.com/artist/0wBVwV8gukXKLSrVjQVJTE) | [GROTTO INFERNO](https://open.spotify.com/album/1zyXtWcVBCqJJW7jQTICEb) | 3:10 |
+| 39 | [Mogio](https://open.spotify.com/track/2UCw0rBbkmZJIn3oQomFTT) | [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB), [4997](https://open.spotify.com/artist/0wBVwV8gukXKLSrVjQVJTE), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [GROTTO INFERNO](https://open.spotify.com/album/1zyXtWcVBCqJJW7jQTICEb) | 3:10 |
 | 40 | [Sipario](https://open.spotify.com/track/2TN5owJ3vR80Erm7KfgGmO) | [Dot Valentino](https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA) | [Sipario](https://open.spotify.com/album/4FtMQQQPlsmDsXHbJMbBpD) | 1:41 |
 | 41 | [La Fortuna](https://open.spotify.com/track/72clshXBMKutidadzudGmc) | [LocoArmy](https://open.spotify.com/artist/5QxZpEkReGa0HfPC5ls6ZE) | [La Fortuna](https://open.spotify.com/album/3C6YvBjWp867BdAC52O19m) | 2:22 |
 | 42 | [Pesos \(feat\. 8blevrai\)](https://open.spotify.com/track/1RY1d6oUioU8PG7GMIEcVB) | [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41), [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [4ever Young](https://open.spotify.com/album/7JGo8geTlXXnc182JQZwU5) | 2:36 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 54 | [Driftando \(feat\. Tony 2Milli\)](https://open.spotify.com/track/3KVW8uK3CatQ599k3ahRGn) | [CanovA](https://open.spotify.com/artist/6Htt1E5lJ37HjcEPsTdYPA), [Tony 2Milli](https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf) | [Driftando \(feat\. Tony 2Milli\)](https://open.spotify.com/album/4R1P9WFBnwmIuI0Cb88tjW) | 2:40 |
 | 55 | [DAMN ¡!](https://open.spotify.com/track/5ef8Gx0sUwDv1FLBKy8xwZ) | [Waze RRX](https://open.spotify.com/artist/12wWvc6Z0111IfGRncCtwD) | [BLOOD MOON](https://open.spotify.com/album/6rqBpQ8HaT1z8RpdEa96KO) | 1:56 |
 
-Snapshot ID: `MCwzM2Q3Y2U5OTI2MTNiMTRkN2EzMDlkYjBjZGRhZmFlOGVkNDQ4MjY4`
+Snapshot ID: `MCw4NjQ0OGRlOTY0NjM1MjM0ZmFlYTdjMDZlNDk0NTVhN2U0YzY3YWE5`

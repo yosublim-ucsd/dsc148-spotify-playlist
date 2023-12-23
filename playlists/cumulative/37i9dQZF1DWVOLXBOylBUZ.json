@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de KAROL G.",
+  "description": "Latinoam\u00e9rica baila al ritmo de Saiko.",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -1432,6 +1432,32 @@
       "duration_ms": 197866,
       "name": "Ave Maria",
       "url": "https://open.spotify.com/track/2WVKShjiGIS6dzHK2hUn2P"
+    },
+    {
+      "album": {
+        "name": "B de Bellako",
+        "url": "https://open.spotify.com/album/0ANa1gS3FD0Kmz85rAsJMB"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        },
+        {
+          "name": "Dj Rockwel Mx",
+          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188573,
+      "name": "B de Bellako",
+      "url": "https://open.spotify.com/track/2SqUfIOD0VDJirHTVIdn4F"
     },
     {
       "album": {
@@ -4342,7 +4368,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 196800,
       "name": "De la Calle - Remix",
       "url": "https://open.spotify.com/track/6GYR87yZfXlWWllkPJTQty"
@@ -8482,6 +8508,28 @@
       "duration_ms": 141890,
       "name": "La Reina",
       "url": "https://open.spotify.com/track/5KrBFRj0Vfq0QQjlyKs5Hr"
+    },
+    {
+      "album": {
+        "name": "365 d\u00edas de aguante",
+        "url": "https://open.spotify.com/album/0XvHJU5yu7UYMq9zejttcC"
+      },
+      "artists": [
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        },
+        {
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210322,
+      "name": "LA ROMPE CORAZONES (feat. Hozwal)",
+      "url": "https://open.spotify.com/track/5aQQSaaFutM2LnbePJq5mh"
     },
     {
       "album": {
@@ -14208,7 +14256,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 164880,
       "name": "Santorini - Remix",
       "url": "https://open.spotify.com/track/7Kzn6nzJQiUEj79IgxeD7F"
@@ -16538,7 +16586,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 171760,
       "name": "T\u00e1 OK (Remix)",
       "url": "https://open.spotify.com/track/35FW5OEe4p38LdjK1KqT2X"
@@ -17518,6 +17566,24 @@
       "duration_ms": 148262,
       "name": "Xamakito",
       "url": "https://open.spotify.com/track/4c3Ra5V7foXUcSO54fZSBM"
+    },
+    {
+      "album": {
+        "name": "Saliendo del Planeta",
+        "url": "https://open.spotify.com/album/4c9baK6KJXLlly01POapWY"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188936,
+      "name": "Xxx_Rosario_xxX",
+      "url": "https://open.spotify.com/track/2lkD7dLodhAM4ctR2g12Qx"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > For those with a taste for both the new and the classic\. Cover: Dermot Kennedy
 
-960 songs - 2 day 5 hr 7 min
+963 songs - 2 day 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Another Love](https://open.spotify.com/track/5E4jBLx4P0UBji68bBThSw) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Expanded Edition\)](https://open.spotify.com/album/3t0Quq8X7W90hRP5OQ5S4b) | 4:04 | 2022-03-14 | 2022-04-16 |
 | [Another Love Song](https://open.spotify.com/track/2PKEWeRvcGxPzr3FaGes5e) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Another Love Song](https://open.spotify.com/album/0BLaVp7Mzl2LOSQNvURmsM) | 2:57 | 2022-09-09 | 2023-04-15 |
 | [Another Man's Jeans](https://open.spotify.com/track/2Tv3bPKLESHfl8jgAlY2Pv) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Another Man's Jeans](https://open.spotify.com/album/54xLeetI8f6mslHLEJ5K2X) | 2:45 | 2022-03-04 | 2022-04-02 |
-| [Answer Phone](https://open.spotify.com/track/0vYNMCubrGX6XHpX0KrGOe) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Answer Phone](https://open.spotify.com/album/64J78r5rx9qs9ZJZ4xSkBt) | 2:40 | 2023-11-17 |  |
+| [Answer Phone](https://open.spotify.com/track/0vYNMCubrGX6XHpX0KrGOe) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Answer Phone](https://open.spotify.com/album/64J78r5rx9qs9ZJZ4xSkBt) | 2:40 | 2023-11-17 | 2023-12-23 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-21 | 2023-01-14 |
 | [Anybody Else](https://open.spotify.com/track/5SR9WnrC9pGFfDld6xoil5) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [CITIZENS](https://open.spotify.com/album/3nh4uK04eRkHyrxIDWEfkp) | 3:20 | 2022-05-20 | 2022-10-22 |
 | [Anyone For You](https://open.spotify.com/track/5iFQfP3AqVnHHS89LKQisL) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Anyone For You](https://open.spotify.com/album/7H1EYBP5XYudqRhjL5vG5j) | 3:07 | 2022-01-28 | 2022-02-26 |
@@ -164,7 +164,7 @@
 | [Chasing Every Sunrise](https://open.spotify.com/track/0Ygba8PsSx8nb6LmgXaTje) | [Begonia](https://open.spotify.com/artist/4imuw38jkxPpTDqeMZDZD6) | [Powder Blue](https://open.spotify.com/album/0kr5NBd2qdQNeZhzke5tHz) | 3:36 | 2023-02-24 | 2023-03-25 |
 | [Chasing Shadows](https://open.spotify.com/track/5zcoYCmeIL392as1bwIYce) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Chasing Shadows](https://open.spotify.com/album/5laO2TJ5lwhscYwdFB0sIX) | 2:44 | 2023-03-10 | 2023-06-03 |
 | [Cheers To New Beginnings](https://open.spotify.com/track/6Y2Rj0pnuo9rS9iz1cOKjr) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Cheers To New Beginnings](https://open.spotify.com/album/7uRM9iuJfa6PhQfkTF1MyP) | 2:54 | 2023-03-31 | 2023-05-27 |
-| [Children of the Sky \(a Starfield song\)](https://open.spotify.com/track/1W7ughJhjRaANaAUcxTfnC) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Children of the Sky \(a Starfield song\)](https://open.spotify.com/album/52cGkRluhnid41ZmzvVKm6) | 3:27 | 2023-09-01 |  |
+| [Children of the Sky \(a Starfield song\)](https://open.spotify.com/track/1W7ughJhjRaANaAUcxTfnC) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Children of the Sky \(a Starfield song\)](https://open.spotify.com/album/52cGkRluhnid41ZmzvVKm6) | 3:27 | 2023-09-01 | 2023-12-23 |
 | [Cinema](https://open.spotify.com/track/35TyJIMR3xRouUuo2sjS6v) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:03 | 2022-08-19 | 2022-09-10 |
 | [Circles](https://open.spotify.com/track/6NzE4VCzkOJqhvu50petzp) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Circles](https://open.spotify.com/album/759nAWr8uZcHeW5klHVE7T) | 3:04 | 2022-04-01 | 2022-05-28 |
 | [Circles Around This Town](https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Circles Around This Town](https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ) | 3:15 | 2022-01-09 | 2022-02-12 |
@@ -370,6 +370,7 @@
 | [Heavy](https://open.spotify.com/track/7q0MPwF6ORiKJWXLYGAhsH) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Nuela Charles](https://open.spotify.com/album/2dOsYwZCIRAk7DVGrsjceZ) | 3:07 | 2022-10-14 | 2023-03-11 |
 | [Heavy Stone](https://open.spotify.com/track/6di7vKnA0XkftU6YrXwhCM) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Heavy Stone](https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb) | 3:08 | 2022-02-11 | 2022-03-26 |
 | [Hello – Spotify Singles](https://open.spotify.com/track/2yN5ip7YyR19rmFSygnrOD) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Spotify Singles](https://open.spotify.com/album/79OPMp6YweXMi4whs0eJIV) | 4:06 | 2022-06-24 | 2022-09-17 |
+| [her](https://open.spotify.com/track/3gBF1gc9Fo6SatKWAOoGjY) | [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA) | [inhale \- the complete story](https://open.spotify.com/album/4NyjSQ5VF9sSd39Jg2g3vz) | 3:45 | 2023-12-22 |  |
 | [Here and Now](https://open.spotify.com/track/5mx8Ka1gIGwIS4VIaCYRtR) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Here and Now](https://open.spotify.com/album/4M0F46mBr3ZNvE660SCBiC) | 3:31 | 2023-10-27 |  |
 | [Here You Come Again](https://open.spotify.com/track/2G4d3c2UzPOMdV2MZsrNFc) | [Sophia Fracassi](https://open.spotify.com/artist/7MPa3OSyGyLNq9CedDr2LT) | [Here You Come Again](https://open.spotify.com/album/6fZISlxdQZs9Kd4bc8ZdAY) | 2:51 | 2022-11-11 | 2023-04-01 |
 | [Here's To Moving On](https://open.spotify.com/track/5CR0GYilasGkYkXUqCQNEr) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Here's To Moving On](https://open.spotify.com/album/10JjmdD5wrOGh3Apj0osje) | 4:17 | 2021-12-17 | 2022-02-12 |
@@ -584,6 +585,7 @@
 | [maybe i'm the problem now](https://open.spotify.com/track/7lLkBTZRJrfGkZ6AMmjVD9) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [maybe i'm the problem now](https://open.spotify.com/album/1nwXyhEXX10bzlqlryz9ZC) | 3:12 | 2023-09-01 | 2023-10-07 |
 | [Maybe Next Time](https://open.spotify.com/track/3NZDpFKjCApF6WkI5g6iFg) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Maybe Next Time](https://open.spotify.com/album/6oGzvyilFapjThmlJPJKiW) | 3:08 | 2023-05-12 | 2023-10-07 |
 | [ME MYSELF AND YOU](https://open.spotify.com/track/0DHBocC3mQFnoiqWWD92TB) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [ME MYSELF AND YOU](https://open.spotify.com/album/26bq2zFIGStfUYHqzuQXFx) | 2:14 | 2023-11-17 |  |
+| [Medicine](https://open.spotify.com/track/23k8mKYhjxN5iSw6nxOVkL) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [Medicine](https://open.spotify.com/album/3JqcgkR1T0inYGixFDTmdO) | 4:15 | 2023-12-22 |  |
 | [Medicine](https://open.spotify.com/track/28xPS2Els3jTO6pdgp2znH) | [Sebastian Gaskin](https://open.spotify.com/artist/1wDv2K6zsBFPYoFregJ4Za) | [Medicine](https://open.spotify.com/album/39D1A6YzvcAGdELvfnh9YG) | 2:42 | 2023-11-17 |  |
 | [Meet The Moonlight](https://open.spotify.com/track/6M70kLblnAfCQ9uj8BdcUR) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Meet The Moonlight](https://open.spotify.com/album/6A5YfsWJbtLqFenuOQCsDG) | 5:05 | 2022-05-13 | 2022-08-20 |
 | [Memories](https://open.spotify.com/track/5UXJzLFdBn6u9FJTCnoHrH) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 4:08 | 2022-07-22 | 2022-10-29 |
@@ -835,6 +837,7 @@
 | [The Crowned](https://open.spotify.com/track/5jXuSVV6ZHnKR6tj1WqiDY) | [Ché Aimee Dorval](https://open.spotify.com/artist/0tmHRvtQDDUUdbNN1KcRYS) | [The Crowned](https://open.spotify.com/album/3xgYLxy3sCbY03rAFvKUNI) | 3:33 | 2023-01-20 | 2023-04-22 |
 | [The Drudge](https://open.spotify.com/track/1FDZsIBVAYiNe56EwH8IWC) | [Hanorah](https://open.spotify.com/artist/3RxOQic8AVfAfIb17hVKUo) | [The Drudge](https://open.spotify.com/album/5gLnMoG5rH3f83ZtnillpH) | 3:05 | 2022-10-14 | 2022-11-12 |
 | [The End](https://open.spotify.com/track/5GLkDPQvFqsFgtiVkfbhx2) | [CARYS](https://open.spotify.com/artist/7sNr4UxauWqLRElKZufDRU) | [The End](https://open.spotify.com/album/0lKrUfcWPN31tzv9Fi7IAs) | 2:54 | 2023-09-22 |  |
+| [The End](https://open.spotify.com/track/3e4QnOQmNqJaBjpmjGYZK0) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [The End](https://open.spotify.com/album/5yQSR4I6kIx4a7Siq2Q6vZ) | 3:25 | 2023-12-22 |  |
 | [The Fool](https://open.spotify.com/track/40GNYv0ldvcenD3hxFp1Kn) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [The Fool](https://open.spotify.com/album/1WWlFJw4AvILgammiKMdA0) | 3:26 | 2023-02-24 | 2023-04-22 |
 | [The Future](https://open.spotify.com/track/4mNmzr1SRJ4HoeeGXvDOfV) | [NEW CITY](https://open.spotify.com/artist/4X5U7EjHMofqX4mUAkJm23) | [The Future](https://open.spotify.com/album/3WTqXT0OPmhUDlAsPKljg7) | 4:12 | 2023-04-28 | 2023-09-02 |
 | [The Good Parts](https://open.spotify.com/track/02zkVbK2r3BaGMQGm4XPM5) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [The Good Parts](https://open.spotify.com/album/6wnooCp85VRvQfb9oQL1Bj) | 3:18 | 2022-11-18 | 2023-02-04 |
@@ -876,7 +879,7 @@
 | [Top of the World](https://open.spotify.com/track/4h8IM6C1V5qpwGH06HoCLx) | [Nuela Charles](https://open.spotify.com/artist/54l7IHesYhtkP9Dm4jN4Zl) | [Top of the World](https://open.spotify.com/album/7zhvHFalV8RxLw6MWYvyLB) | 2:37 | 2022-07-29 | 2022-09-17 |
 | [Touchy Feely Fool](https://open.spotify.com/track/3PY47EpOouHdbDI4z5jw3v) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The Maybe Man](https://open.spotify.com/album/1bU12iHHt5ujHbuKcIGlpm) | 3:35 | 2023-11-10 |  |
 | [Trash Can](https://open.spotify.com/track/2wBFARKyNwkL7f1Fjsl1Zh) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Trash Can](https://open.spotify.com/album/17iGRF0zmObmYu2BseX8Oy) | 3:53 | 2023-10-27 |  |
-| [Trouble](https://open.spotify.com/track/7cRggVoZ18mmvIN2EcSQ3J) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Trouble](https://open.spotify.com/album/3svJ9Mv1JKL7R4CBZLtCfp) | 3:34 | 2023-07-21 |  |
+| [Trouble](https://open.spotify.com/track/7cRggVoZ18mmvIN2EcSQ3J) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Trouble](https://open.spotify.com/album/3svJ9Mv1JKL7R4CBZLtCfp) | 3:34 | 2023-07-21 | 2023-12-23 |
 | [Trust Me Mate](https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Trust Me Mate](https://open.spotify.com/album/3EL23ULlG8ejjORjNZ4KXp) | 2:58 | 2023-09-29 |  |
 | [Turn the Radio Up \(feat\. Jewel\)](https://open.spotify.com/track/1nNfkK3cfckAyTmNRk1b60) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A), [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Turn the Radio Up](https://open.spotify.com/album/4Ok4zpUyKd6vCaqa5D5vTJ) | 3:19 | 2022-05-06 | 2022-05-20 |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-22 | 2022-08-06 |

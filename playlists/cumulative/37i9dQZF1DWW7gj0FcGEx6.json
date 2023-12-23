@@ -1829,6 +1829,24 @@
     },
     {
       "album": {
+        "name": "Girl, You Know It's True (Original Score Music)",
+        "url": "https://open.spotify.com/album/08qNs7RE88VyrZ5h1vgD8p"
+      },
+      "artists": [
+        {
+          "name": "Segun Akinola",
+          "url": "https://open.spotify.com/artist/6AoVAVoJmW1VsrcTQ63Til"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116635,
+      "name": "Hotel Arcadia",
+      "url": "https://open.spotify.com/track/3PdscIZzEFo61H5iHoe365"
+    },
+    {
+      "album": {
         "name": "The Witcher: Season 3 - Vol. 1 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/6AsjxgLvTrvESeaw9g8Wax"
       },

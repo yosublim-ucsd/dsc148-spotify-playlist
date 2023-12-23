@@ -2,7 +2,7 @@
 
 ### [Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DWUa8ZRTfalHk)
 
-> Who's now and next in pop\. Cover: Reneé Rapp and Megan Thee Stallion
+> Who's now and next in pop\. Cover: FLETCHER
 
 1,935 songs - 4 day 4 hr 6 min
 

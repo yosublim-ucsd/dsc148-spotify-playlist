@@ -1,12 +1,12 @@
 {
   "description": "The best in modern punk rock music. Cover: Problem Patterns",
-  "num_followers": 53014,
+  "num_followers": 53017,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNmZkZDFjMmU5N2FiMGM4Njc1OTEyZjRiNzMwOGNiMDUwNjgyODRk",
+  "snapshot_id": "MCw5Y2FjMjdjOTc3MGFkMDM4OTY5OTY3NDgwNDcxMGRmMzYyNjg4M2Uy",
   "tracks": [
     {
       "added_at": "2023-11-13 20:01:49",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-11-13 20:01:49",
       "album": {
-        "name": "UK GRIM",
-        "url": "https://open.spotify.com/album/5CsLGo6H7h3de8VoSCiaD0"
-      },
-      "artists": [
-        {
-          "name": "Sleaford Mods",
-          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
-        }
-      ],
-      "duration_ms": 198542,
-      "name": "UK GRIM",
-      "url": "https://open.spotify.com/track/60wO5lvhLRTJnPfV3r3rMR"
-    },
-    {
-      "added_at": "2023-11-13 20:01:49",
-      "album": {
         "name": "Punk's Dead",
         "url": "https://open.spotify.com/album/7rhKQg4KTvDZZguZEX3YA9"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 192500,
       "name": "Punk's Dead",
       "url": "https://open.spotify.com/track/0aiJF3M2Tj5iHfQSmvR943"
+    },
+    {
+      "added_at": "2023-11-13 20:01:49",
+      "album": {
+        "name": "UK GRIM",
+        "url": "https://open.spotify.com/album/5CsLGo6H7h3de8VoSCiaD0"
+      },
+      "artists": [
+        {
+          "name": "Sleaford Mods",
+          "url": "https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh"
+        }
+      ],
+      "duration_ms": 198542,
+      "name": "UK GRIM",
+      "url": "https://open.spotify.com/track/60wO5lvhLRTJnPfV3r3rMR"
     },
     {
       "added_at": "2023-11-13 20:01:49",
@@ -479,22 +479,6 @@
     {
       "added_at": "2023-11-13 20:01:49",
       "album": {
-        "name": "my little tony",
-        "url": "https://open.spotify.com/album/0KFnuSRyar4w08X7ZJYOGX"
-      },
-      "artists": [
-        {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
-        }
-      ],
-      "duration_ms": 179562,
-      "name": "my little tony",
-      "url": "https://open.spotify.com/track/6YCCcnypkr23mpPrGiztPo"
-    },
-    {
-      "added_at": "2023-11-13 20:01:49",
-      "album": {
         "name": "Food for Worms",
         "url": "https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 231968,
       "name": "Six-Pack",
       "url": "https://open.spotify.com/track/1bSJ7EeizSSw8oa6g2qVSi"
+    },
+    {
+      "added_at": "2023-11-13 20:01:49",
+      "album": {
+        "name": "my little tony",
+        "url": "https://open.spotify.com/album/0KFnuSRyar4w08X7ZJYOGX"
+      },
+      "artists": [
+        {
+          "name": "bar italia",
+          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
+        }
+      ],
+      "duration_ms": 179562,
+      "name": "my little tony",
+      "url": "https://open.spotify.com/track/6YCCcnypkr23mpPrGiztPo"
     },
     {
       "added_at": "2023-11-13 20:01:49",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-11-13 20:01:49",
       "album": {
+        "name": "Shadow of a Doubt",
+        "url": "https://open.spotify.com/album/724kt4OSnlasKT95uIfzfk"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "duration_ms": 226385,
+      "name": "Up and Comer",
+      "url": "https://open.spotify.com/track/2yiJ9gzRISi4P04GRBDtos"
+    },
+    {
+      "added_at": "2023-11-13 20:01:49",
+      "album": {
         "name": "Pah!",
         "url": "https://open.spotify.com/album/0euY5M3b7Uc4WkG7yGbjNz"
       },
@@ -687,22 +703,6 @@
     {
       "added_at": "2023-11-13 20:01:49",
       "album": {
-        "name": "DBSAC",
-        "url": "https://open.spotify.com/album/6JVhdb3XjSmppHRDNagN1y"
-      },
-      "artists": [
-        {
-          "name": "The Oozes",
-          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
-        }
-      ],
-      "duration_ms": 147764,
-      "name": "DBSAC",
-      "url": "https://open.spotify.com/track/7GqLhyaR3Cn4w61QOP2kRX"
-    },
-    {
-      "added_at": "2023-11-13 20:01:49",
-      "album": {
         "name": "Drop",
         "url": "https://open.spotify.com/album/6sMn0pz6YR7V09IL0icryl"
       },
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-11-13 20:01:49",
       "album": {
+        "name": "DBSAC",
+        "url": "https://open.spotify.com/album/6JVhdb3XjSmppHRDNagN1y"
+      },
+      "artists": [
+        {
+          "name": "The Oozes",
+          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
+        }
+      ],
+      "duration_ms": 147764,
+      "name": "DBSAC",
+      "url": "https://open.spotify.com/track/7GqLhyaR3Cn4w61QOP2kRX"
+    },
+    {
+      "added_at": "2023-11-13 20:01:49",
+      "album": {
         "name": "Hiccup",
         "url": "https://open.spotify.com/album/3M52jxyf7VbA9jWQ9K5cSR"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 105874,
       "name": "Hiccup",
       "url": "https://open.spotify.com/track/50FLwADrMNPuw0ZPMcD08z"
-    },
-    {
-      "added_at": "2023-11-13 20:01:49",
-      "album": {
-        "name": "Shadow of a Doubt",
-        "url": "https://open.spotify.com/album/724kt4OSnlasKT95uIfzfk"
-      },
-      "artists": [
-        {
-          "name": "SPRINTS",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
-        }
-      ],
-      "duration_ms": 226385,
-      "name": "Up and Comer",
-      "url": "https://open.spotify.com/track/2yiJ9gzRISi4P04GRBDtos"
     },
     {
       "added_at": "2023-11-13 20:01:49",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-11-13 20:01:49",
       "album": {
-        "name": "Left Right Forward",
-        "url": "https://open.spotify.com/album/6dtoYJEmC42TD7s322YBrE"
-      },
-      "artists": [
-        {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
-        }
-      ],
-      "duration_ms": 175116,
-      "name": "Left Right Forward",
-      "url": "https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5"
-    },
-    {
-      "added_at": "2023-11-13 20:01:49",
-      "album": {
         "name": "Tom in 03",
         "url": "https://open.spotify.com/album/57m0xQP3c6f0lQn1sDkD3w"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 141671,
       "name": "Tom in 03",
       "url": "https://open.spotify.com/track/46opDwzGtHFKuUCM17UmRs"
+    },
+    {
+      "added_at": "2023-11-13 20:01:49",
+      "album": {
+        "name": "Left Right Forward",
+        "url": "https://open.spotify.com/album/6dtoYJEmC42TD7s322YBrE"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "duration_ms": 175116,
+      "name": "Left Right Forward",
+      "url": "https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5"
     },
     {
       "added_at": "2023-11-13 20:01:49",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-11-13 20:01:49",
       "album": {
+        "name": "Shadow of a Doubt",
+        "url": "https://open.spotify.com/album/724kt4OSnlasKT95uIfzfk"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "duration_ms": 157766,
+      "name": "Adore Adore Adore",
+      "url": "https://open.spotify.com/track/44V3ZtDSkemI5Vgpr1bQdv"
+    },
+    {
+      "added_at": "2023-11-13 20:01:49",
+      "album": {
         "name": "Carousel",
         "url": "https://open.spotify.com/album/5elvn4fS1S65dAaMSR3V9o"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 189600,
       "name": "BIG HIT SINGLE",
       "url": "https://open.spotify.com/track/3reN0NjIAde5yu4xhCo6fD"
-    },
-    {
-      "added_at": "2023-11-13 20:01:49",
-      "album": {
-        "name": "Shadow of a Doubt",
-        "url": "https://open.spotify.com/album/724kt4OSnlasKT95uIfzfk"
-      },
-      "artists": [
-        {
-          "name": "SPRINTS",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
-        }
-      ],
-      "duration_ms": 157766,
-      "name": "Adore Adore Adore",
-      "url": "https://open.spotify.com/track/44V3ZtDSkemI5Vgpr1bQdv"
     },
     {
       "added_at": "2023-11-13 20:01:49",

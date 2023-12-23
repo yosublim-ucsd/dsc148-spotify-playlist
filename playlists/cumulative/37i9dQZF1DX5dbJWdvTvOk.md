@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-632 songs - 1 day 2 hr 46 min
+634 songs - 1 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Amai Hi](https://open.spotify.com/track/39kKNitwwvn7Y0oH0NGN82) | [Kenji Takahashi](https://open.spotify.com/artist/7smqi5Xb8sKqalw1MNMa7D) | [Amai Hi](https://open.spotify.com/album/62Y6MiU9MICnsbetYyKizY) | 2:02 | 2023-04-21 | 2023-10-02 |
 | [Amfora](https://open.spotify.com/track/783rIPMloYUfHcBnNwdj9Q) | [Elke Meyer](https://open.spotify.com/artist/1oFnmVpqNOMomWvL8moz2j) | [Amfora](https://open.spotify.com/album/55dDmoU9A2nl7jjJsRydY2) | 2:04 | 2022-12-16 |  |
 | [Amor Perfeito](https://open.spotify.com/track/5Ayj1cdbFJ6d9MwFeFEREe) | [Hanni Licht](https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma) | [Amor Perfeito](https://open.spotify.com/album/5tbZcyDOEmo4dbpes7LAlO) | 2:20 | 2023-08-31 |  |
-| [Anavilhanas](https://open.spotify.com/track/0OIW12J6IfqyQLZBe2eJ3u) | [Diego de Frigiliana](https://open.spotify.com/artist/0ZA7bWb2UEatiixLiriYE7) | [Anavilhanas](https://open.spotify.com/album/7FDvqlWnyupmAGykA4IoGc) | 2:09 | 2023-04-21 |  |
+| [Anavilhanas](https://open.spotify.com/track/0OIW12J6IfqyQLZBe2eJ3u) | [Diego de Frigiliana](https://open.spotify.com/artist/0ZA7bWb2UEatiixLiriYE7) | [Anavilhanas](https://open.spotify.com/album/7FDvqlWnyupmAGykA4IoGc) | 2:09 | 2023-04-21 | 2023-12-23 |
 | [Andromeda Shimmer](https://open.spotify.com/track/6dDWBvom0X1VsTaH6k6Uml) | [Under The Zodiac](https://open.spotify.com/artist/7rDI2DTZpZryRfJoZiI4WG) | [Andromeda Shimmer](https://open.spotify.com/album/4lUIFJ7YZuwxqEYoMwWMQB) | 2:46 | 2022-07-15 | 2023-03-11 |
 | [Angel Falls](https://open.spotify.com/track/7e29VRvlas6fkZrstGcPry) | [Beau Hayes](https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I) | [Angel Falls](https://open.spotify.com/album/5Tlrch0TT9BZ9texXaqc3E) | 2:24 | 2023-05-12 |  |
 | [Antofagasta](https://open.spotify.com/track/5CuV4yJTY9gaMGBlq14afa) | [Graciela Flores](https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ) | [Antofagasta](https://open.spotify.com/album/1Vght0beo7Xp1utA81XL2a) | 2:07 | 2022-07-15 | 2022-10-29 |
@@ -191,7 +191,7 @@
 | [Ewigkeit](https://open.spotify.com/track/5fIrdZt2rk3TSmvogAo8vj) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Ewigkeit](https://open.spotify.com/album/5G2pAHBGgJMnoasJSrxCmW) | 2:40 | 2023-04-21 |  |
 | [Eyrie](https://open.spotify.com/track/7xsrSjvPQdbAjnjLbE123V) | [Liv Ronge](https://open.spotify.com/artist/5roRCK9f3yFABEfNEAon5G) | [Eyrie](https://open.spotify.com/album/0SijLea2cdL6yNX9d7R2i2) | 1:56 | 2023-04-21 | 2023-06-23 |
 | [Fading Daylight](https://open.spotify.com/track/2wgl16cBADyWzzRVpwd919) | [Carl Eksmo](https://open.spotify.com/artist/4JlBaKUUlUUChHUlgDahZB) | [Fading Daylight](https://open.spotify.com/album/1PF8aTQ7u5DiOywsUFUJSB) | 2:55 | 2023-03-31 | 2023-04-22 |
-| [Fairfield in my Heart](https://open.spotify.com/track/3HSSHkPfbgA6F7t5zVlYk3) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [Fairfield in my Heart](https://open.spotify.com/album/2rxYviWjxKjrosSq8ezUBV) | 2:12 | 2023-04-21 |  |
+| [Fairfield in my Heart](https://open.spotify.com/track/3HSSHkPfbgA6F7t5zVlYk3) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [Fairfield in my Heart](https://open.spotify.com/album/2rxYviWjxKjrosSq8ezUBV) | 2:12 | 2023-04-21 | 2023-12-23 |
 | [Fairplex](https://open.spotify.com/track/704snAC50lfAo4qJLfCzDo) | [Papió](https://open.spotify.com/artist/14ivAwcaq4oDPoupWn8cQU) | [Fairplex](https://open.spotify.com/album/0sTcJVzGYTd2yH2UVL36Uu) | 2:07 | 2023-08-10 |  |
 | [Fairytale](https://open.spotify.com/track/1nG96s85Zw3DVnG24onptC) | [Leonardo Agusti](https://open.spotify.com/artist/7pxsTVW2UD2bzGfq8WzaMj) | [Fairytale](https://open.spotify.com/album/4f3CoCIOgJGOPgdZLu8ycA) | 2:28 | 2023-10-27 |  |
 | [Faith Struggle](https://open.spotify.com/track/3rI9bQ7ilP4EKFsr7K9Xib) | [Chico Getz](https://open.spotify.com/artist/2PDfdIdjY7tHMa20yxpBhW) | [Faith Struggle](https://open.spotify.com/album/1nuRmtxWItculC0bP9doH8) | 2:56 | 2022-07-15 | 2023-04-22 |
@@ -250,6 +250,7 @@
 | [Homebound](https://open.spotify.com/track/3fZolWbWofhjyFDQXWL0T3) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Homebound](https://open.spotify.com/album/36VPh59fnClN38LLdlgHnU) | 2:24 | 2022-07-15 | 2023-04-22 |
 | [Horizonte Tranquilo](https://open.spotify.com/track/1kPz0CM7h5yaQh7ctGV9r6) | [Emanuel Costa](https://open.spotify.com/artist/6iQweq1LCgRS4IEuTzRHQJ) | [Horizonte Tranquilo](https://open.spotify.com/album/3F8rQfhgRWroSrid5gar5M) | 1:41 | 2023-04-21 | 2023-08-26 |
 | [Hou Van Me](https://open.spotify.com/track/5uqwPOIOyFuvtx5e9JfEF0) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Hou Van Me](https://open.spotify.com/album/4amTpNx67WVG3tGQ6DrBPr) | 2:10 | 2023-04-21 |  |
+| [Hours](https://open.spotify.com/track/3Eg3XbufTuk9LWhkSobKlX) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [Hours](https://open.spotify.com/album/35N058QZy4FlJheUK0QLEh) | 2:07 | 2023-12-15 |  |
 | [How Far Have We Come](https://open.spotify.com/track/4LUusnBFGm3yI3Su7s8kg6) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Lake Varna](https://open.spotify.com/album/3uHH0omf5CaBUkuElcX4Bk) | 1:52 | 2023-03-10 | 2023-08-26 |
 | [Hugsanir](https://open.spotify.com/track/7cD1uV5Bzk1TEaPr9mqVt1) | [Aiday Ainur](https://open.spotify.com/artist/5BuB7CRnNJKxzSsu6Mznbj) | [Hugsanir](https://open.spotify.com/album/4SaiGm2h3DkUXZUj0hqQrx) | 3:12 | 2023-04-21 |  |
 | [Hymne](https://open.spotify.com/track/2QhRwV0zmaKmOYUZlMqKPa) | [Fleur Onora](https://open.spotify.com/artist/1tjgN34CqFam0q9yCl2uP7) | [Hymne](https://open.spotify.com/album/4PFGZmjWndtIukc9wFVC2W) | 2:53 | 2023-04-21 |  |
@@ -554,6 +555,7 @@
 | [The Airport](https://open.spotify.com/track/6clNGc6Zu3OZFdgWLOIxZG) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [The Airport](https://open.spotify.com/album/6LW69sYxSScS6gt5Kkqw9c) | 2:30 | 2023-03-10 | 2023-04-22 |
 | [The Apple](https://open.spotify.com/track/1jWtn89sIC21MvZjMAXcJr) | [Duo Acoustica](https://open.spotify.com/artist/2kMgalFxtY6wl6nnaKB3W0) | [The Apple](https://open.spotify.com/album/78HoC1Nipn2jKskrl4bxSt) | 2:56 | 2023-04-21 | 2023-12-18 |
 | [The Bells Of Rhymney](https://open.spotify.com/track/4uL4pjAWKhOaS9uetXHyp7) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [The Bells Of Rhymney](https://open.spotify.com/album/5tyKJQSus9jKR43yGAiasJ) | 1:58 | 2023-04-21 | 2023-08-26 |
+| [The Bloomer Stars](https://open.spotify.com/track/4d4w8iA84Zvsf0TtyrDqpZ) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [The Bloomer Stars](https://open.spotify.com/album/6zdqiQXuoGXKt5FlJDowmq) | 2:39 | 2023-12-15 |  |
 | [The Distant Echo](https://open.spotify.com/track/7dRtgpbpGUqOOQir25wm02) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [The Distant Echo](https://open.spotify.com/album/5xdr7fV5vsaLMgi8PArvGP) | 1:42 | 2023-04-21 | 2023-06-03 |
 | [The Hidden Valley](https://open.spotify.com/track/4R7b5uuUvxvER6JksVLDWi) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [The Hidden Valley](https://open.spotify.com/album/3I5xEp9VFZkL52a0DbRKUs) | 2:37 | 2022-12-09 | 2023-04-22 |
 | [The Hourglass](https://open.spotify.com/track/4ZKXTmQ9vGQG4QJEZjhm8u) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [The Hourglass](https://open.spotify.com/album/2JgivIpjbESxpFGEBZrhtK) | 2:14 | 2023-04-21 |  |

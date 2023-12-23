@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Rival Sons
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,819 likes - 150 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,919 likes - 150 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 48 | [Hippies On Acid](https://open.spotify.com/track/4IdcUbuVe9VN6lnFJqCeIk) | [7Horse](https://open.spotify.com/artist/3P5NW1wQjcWpR0VsT1m0xr) | [The Last Resort](https://open.spotify.com/album/0ihKlGpDF5aXScqrJu7zUZ) | 3:45 |
 | 49 | [Corner Store](https://open.spotify.com/track/5IwNIDv4zcC3jCbVIOFYvU) | [Ries Brothers](https://open.spotify.com/artist/3n5TbZCCU3rnDcDy5n49nG) | [Corner Store](https://open.spotify.com/album/1CvLJhUtVluGc4ujgPbEQb) | 2:43 |
 | 50 | [The Heat](https://open.spotify.com/track/0XEUKN8CnHAKNmWmK1FG0d) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Spirit's Furnace](https://open.spotify.com/album/3cQWEV1dkuOosKa2EJNaxj) | 3:14 |
-| 51 | [The Drop](https://open.spotify.com/track/34uOD5RJT1kL2L3SCgNuRY) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Black Holes](https://open.spotify.com/album/6ESjsIQSb9iKqCkDo3S2sc) | 3:39 |
+| 51 | [The Drop](https://open.spotify.com/track/7v2sAn8Epk75eyuN7V1Xol) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Black Holes](https://open.spotify.com/album/4umFE3UJjwqt7N57m6VyTf) | 3:39 |
 | 52 | [I'm Comin' Home](https://open.spotify.com/track/5CJMgqgSVEtnKGIyWsbpPt) | [Royal Southern Brotherhood](https://open.spotify.com/artist/6vcUagbhY6zVVU71BnnURP) | [The Royal Gospel](https://open.spotify.com/album/4GSi5GCPkxsshu27jVQZLn) | 4:25 |
 | 53 | [We Cry](https://open.spotify.com/track/35HnL14kTLJ0KdPoqcON3T) | [Xander and the Peace Pirates](https://open.spotify.com/artist/1fhcphVzvwgQduKI7OUDjy) | [We Cry](https://open.spotify.com/album/4ZgDYzqKszgekC7eS1Vlnh) | 4:51 |
 | 54 | [Painted Horse](https://open.spotify.com/track/312chAE7wHDSz5tbxmKljM) | [Anthony Gomes](https://open.spotify.com/artist/0aBEiafPqEJ3o0yp6gFsHg) | [High Voltage Blues](https://open.spotify.com/album/0ieocMI2zlwYG0JcJUq6Ey) | 3:45 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 149 | [Little Thing Gone Wild](https://open.spotify.com/track/3XGCZQTIl2AXccefEuJfeh) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Wrong Creatures](https://open.spotify.com/album/0rqC0UZ8kTGxIEI654LWhj) | 3:19 |
 | 150 | [Lie Lie Lie](https://open.spotify.com/track/6hY92vu9OTD8B7uTJgYsN4) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Lie Lie Lie](https://open.spotify.com/album/5jhdcPvuZkIa24erCZbGUk) | 3:35 |
 
-Snapshot ID: `MCw3OTYxMTdlZGUxNjU2N2U1NGQ5YzYyYzgxMzBmOTM0YzhiYzVjMWM5`
+Snapshot ID: `MCxjNjg2MTgyMTcyNThhNjMyNGUxZTEwMDkzYWNmN2I0MjYyOGFiMTA3`

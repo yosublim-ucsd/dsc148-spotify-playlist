@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Our editor’s picks for best indie songs of the year\. Cover: Bayaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,956 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,983 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 49 | [Peanut Butter](https://open.spotify.com/track/6DULqMlVA3TBjhl5gxnTp1) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Nautanki](https://open.spotify.com/album/4cWRqa8lbidF3vyUdX4H9D) | 3:49 |
 | 50 | [Take Me Home](https://open.spotify.com/track/5AUv6RJO2JBJ2BFcu4ErCO) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ) | [Take Me Home](https://open.spotify.com/album/4TqDP0UAdkvYEcy9OwWl6P) | 3:06 |
 
-Snapshot ID: `MCxhZDA5Yzc3ZjdlNjkxYzc0NWVmMGY2NjJjZGEyNzJhZWM4NDEwY2Uw`
+Snapshot ID: `MCwwZGE2NTAzMWMyNmQyZDFiNzYxYmJkMDEzNzI0MTFhNGE4Y2JiYzE1`

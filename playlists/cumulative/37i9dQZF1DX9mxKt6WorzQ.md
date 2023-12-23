@@ -4,7 +4,7 @@
 
 > Relax and sleep to the soft, melodic, and rhythmic rumbling of the night train
 
-117 songs - 5 hr 51 min
+120 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Locomotive Train Sounds](https://open.spotify.com/track/76YxoIhtrVZf5N99zbJAOI) | [ASMR Anonymous](https://open.spotify.com/artist/1CBbKj7iORJ5c6Kzhx6fAC) | [Train Sounds](https://open.spotify.com/album/3ecy3moSyFlmMJ0FtdCYis) | 2:46 | 2022-07-29 | 2023-05-18 |
 | [Long Journey Panned](https://open.spotify.com/track/5i7ija1oU1V0sJVbJtYTfz) | [Sleep Genius](https://open.spotify.com/artist/12feGAYnkGkOpubXHFo6rw) | [Sleep Sounds \- Train Edition](https://open.spotify.com/album/0hBj5gkqnrqbel84uaISGN) | 3:33 | 2022-07-29 |  |
 | [Long Journey To Sleep](https://open.spotify.com/track/2d1UtyidGzQSv7ojjdqfOA) | [Lunacy](https://open.spotify.com/artist/1YrzJskaD4814wEI0N3mof) | [Rumbling Sleep](https://open.spotify.com/album/0lQgSkapGUsZPzCnI3MqAt) | 1:54 | 2022-07-29 | 2023-06-17 |
+| [Long Sleepy Train Ride \(Sound for Sleep\)](https://open.spotify.com/track/2tlyS0TQBShSTxToRTgz7d) | [Train Ambiance](https://open.spotify.com/artist/1antSXZEzcTjBKzJd256DP) | [Train Noise, Cabin Sounds for Sleep and Relax](https://open.spotify.com/album/5sPANahCyWBuuP4W05K4C2) | 4:18 | 2023-12-22 |  |
 | [Mindful Train Sounds to Help You De\-Stress](https://open.spotify.com/track/69TU2Zcmszq3WCbNHD53GN) | [Healings Sound](https://open.spotify.com/artist/2zAtkIHXxkWzifCOBejrXs) | [Relaxing Train White Noise for Ultimate Serenity](https://open.spotify.com/album/0SDpUjtRQEVUymSbqhJAob) | 2:57 | 2023-06-16 |  |
 | [Modern Train](https://open.spotify.com/track/0gzmVDa2Ph4ASZlrS9tlsN) | [Live Locomotive](https://open.spotify.com/artist/4CFDsfQ5yeDw8J2l6hUr4m) | [On Track \- Train Sounds](https://open.spotify.com/album/4KPbPPnnYMa4AIvHVEGmcu) | 2:51 | 2022-07-29 |  |
 | [Moving Train Sound](https://open.spotify.com/track/2Q64Y5vG4PuS9qFCR8n84H) | [FX Factory](https://open.spotify.com/artist/409gC0geMBaOqqq230slNU) | [Train Sound Effects](https://open.spotify.com/album/1bGI7fSb2szvXYOsr5xx3H) | 3:34 | 2022-07-29 | 2023-08-16 |
@@ -78,6 +79,7 @@
 | [Sleep Better with Relaxing Train Tones](https://open.spotify.com/track/51gLd5g6dWgHfw1WjPGb4h) | [Live Locomotive](https://open.spotify.com/artist/4CFDsfQ5yeDw8J2l6hUr4m) | [Tranquil Train Noises for a Serene Night](https://open.spotify.com/album/3ozZCmIYuSKvMo2sLmkTvv) | 4:40 | 2023-08-15 |  |
 | [Sleep In The Compartment Coach](https://open.spotify.com/track/4GdXYIWxr87L3jyOpQ2GCG) | [Brooke St.](https://open.spotify.com/artist/1YCAJzn4RldXoowAlME5uB) | [Rail Away](https://open.spotify.com/album/2TyTEgQJnzhMP8mrS6sQxT) | 1:58 | 2022-07-29 | 2023-06-17 |
 | [Sleep Like a Baby with Train White Noise](https://open.spotify.com/track/6tZfzxLruuJ7cDviV2SzUF) | [The Railwayers](https://open.spotify.com/artist/2YdRFg3oHeTDQi1OMLg95m) | [Serene Train Clickety\-Clack for Soothing Sleep](https://open.spotify.com/album/0weubxdMAOvyo213ZJv03c) | 3:48 | 2023-08-15 |  |
+| [Sleep Sounds \- Rest in Train](https://open.spotify.com/track/1u6yTGUKQzwXpiPfY8FZjl) | [Pro Sound Effects Library](https://open.spotify.com/artist/5DE7ftfW6Nt36ckDA8VzKj), [Train Sounds Channel](https://open.spotify.com/artist/2ZTwnFT53IY3vlYWl4ArZU) | [Railway Journey: Relaxing Train Cabin Sound](https://open.spotify.com/album/6X7YTPe9qSEkBhSelyaYnL) | 4:49 | 2023-12-22 |  |
 | [Sleep Station](https://open.spotify.com/track/0JRR1J2l4NUWBvqshHmlXh) | [Bruce White](https://open.spotify.com/artist/4mzeWWSIsYV5WMOWtNkZ0x) | [Sleep Station](https://open.spotify.com/album/6euGL8NW5DCmFiZrdlYxy5) | 1:46 | 2022-08-26 | 2023-06-17 |
 | [Sleep\-Inducing Train Ambience for a Better Night's Rest](https://open.spotify.com/track/2ZUjc8sFg1NTpE5nesp5ml) | [States & Benefits](https://open.spotify.com/artist/0e8IJjcZGnuPIaRbmzCVAg) | [Serene Train Noises to Calm Your Mind](https://open.spotify.com/album/21lTJEQCQ2HWghcppXQLKM) | 3:11 | 2023-06-05 |  |
 | [Sleepy Train](https://open.spotify.com/track/2ramaiWalLOjWQLO46GJpn) | [Treyn](https://open.spotify.com/artist/6k55b19QHSIaukTKfIeQ7X) | [Steel of Wheels](https://open.spotify.com/album/0EDPgMo24oomhLxwlNfthe) | 2:14 | 2022-07-29 |  |
@@ -108,6 +110,7 @@
 | [Train In The Storm](https://open.spotify.com/track/77tXYTyluogxvdeUQDU3UW) | [Transportation Geek](https://open.spotify.com/artist/1WyV3XMcKRnrFsZt8KEWWI) | [Pure Train Sounds](https://open.spotify.com/album/50aCr83mi5PzJWDz6OFfti) | 4:21 | 2022-07-29 |  |
 | [Train Lullaby: Soothing Sounds for Sleep](https://open.spotify.com/track/2lupNMLfCvVlgqmYEPEKlF) | [From A To B](https://open.spotify.com/artist/3DCP3x9FHOsIQk1TlKE040) | [Lulling Train Clicks and Clacks for a Restful Night](https://open.spotify.com/album/6NZPuONYd5cbzftWLPPqm9) | 3:51 | 2023-06-30 |  |
 | [Train Noise Mono Tone](https://open.spotify.com/track/0wsbFG28anOXC7JT2QENkq) | [Track Circuit](https://open.spotify.com/artist/7i2c7GB766bUWAiBN6yHuZ) | [The Sound Of Trains](https://open.spotify.com/album/33poigFw5SFmd6JjPh3kkA) | 4:22 | 2022-07-29 | 2023-10-20 |
+| [Train Noises](https://open.spotify.com/track/4EthhbHNdSMVq97RuCyHam) | [Sleep Sounds Ambient Noises](https://open.spotify.com/artist/1zL2evr0Tl2KJcHaLUbwc5), [Rain Sounds](https://open.spotify.com/artist/5nSGBmlgUdqWNExnOX8VtV), [Train Sounds](https://open.spotify.com/artist/4QBuxhAJkW9GFFJVwxwwjv) | [Train Sounds in Rain](https://open.spotify.com/album/0d6u98fzw1efe2A2DqpTZK) | 2:37 | 2023-12-22 |  |
 | [Train Of Thought](https://open.spotify.com/track/4hObu4TBHzQEUaMtH0XtNf) | [Flying Scotsman](https://open.spotify.com/artist/5qkluBrPqnaUHdhcrdvLUL) | [Train Of Thought](https://open.spotify.com/album/6FkxZG7QSMaH5cOOVcb5Zm) | 3:08 | 2023-09-11 |  |
 | [Train Ride](https://open.spotify.com/track/4c9nl4faS0nborbnJBLtLu) | [Imobile](https://open.spotify.com/artist/53CcMkmTx0CBO3MET943da) | [Train Sound Collection](https://open.spotify.com/album/14yJi5EC1ZZc2aItBSE1OP) | 2:54 | 2022-07-29 |  |
 | [Train Ride Slumber](https://open.spotify.com/track/1r7zTsbbQdc5mvSsOnSQ6O) | [Noise Recorder](https://open.spotify.com/artist/4dP7FaHEym6UneIfaZhlSf) | [Train Ride Slumber](https://open.spotify.com/album/4essie8ILy0BK15wIqwhcn) | 2:12 | 2023-09-11 |  |

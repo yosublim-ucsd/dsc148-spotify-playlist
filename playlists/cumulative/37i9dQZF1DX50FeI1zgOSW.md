@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sanathan Shree Krishnan
 
-182 songs - 10 hr 26 min
+183 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Office Anthem](https://open.spotify.com/track/5630irusLB5Zn3GY0QHReL) | [Dev Prakash](https://open.spotify.com/artist/45Ejr1KMTb7ofrNht7HWXZ) | [Office Anthem](https://open.spotify.com/album/7GcIIQ77lcWenxnuxYsOiz) | 4:13 | 2023-05-26 | 2023-07-25 |
 | [Oh Penne](https://open.spotify.com/track/2ONbOG4fGuX6fS4HhIy3ia) | [SKN Sona](https://open.spotify.com/artist/2Pa0z0e54IOaDO4RbKffmf), [Snehaa Sesh](https://open.spotify.com/artist/1moWcGMsA7nQ4jcpuMs3HO) | [Oh Penne](https://open.spotify.com/album/3LsdoeaD3w9t12wWjQ8Hkr) | 4:15 | 2023-10-23 |  |
 | [Ooru Sanam](https://open.spotify.com/track/00gwJJMsxFJ4Dm5MfJcr2Z) | [A T Ram](https://open.spotify.com/artist/4ORr051zUJKNxE2cS57UpO), [Muthu Sirpi](https://open.spotify.com/artist/26rblDtQQ9U26NMYSraPYm), [FANOHA](https://open.spotify.com/artist/5WFn5wt1M57jYMfmKoUSUx) | [Ooru Sanam](https://open.spotify.com/album/3QnlQ9p9YcUM3drcQxH0iM) | 4:11 | 2023-07-31 | 2023-12-12 |
+| [Oru Paarvai](https://open.spotify.com/track/3CRuPRCfetM8q1L9xPloyw) | [Srini Vasan](https://open.spotify.com/artist/3lOepsCr1cfJYBm14d77Bw) | [Oru Paarvai](https://open.spotify.com/album/5XJcvKbj9WzygWDEENDqyW) | 4:31 | 2023-12-22 |  |
 | [Oru Parvaiyaal](https://open.spotify.com/track/5kBR3mysdwcjR1fo792GER) | [Mysterix Infinity](https://open.spotify.com/artist/6JsH7HKaRCfSsRSHrLCAK3) | [Oru Parvaiyaal](https://open.spotify.com/album/3WEYvBWiMwhxmyG9MrJufN) | 5:43 | 2023-03-21 | 2023-06-24 |
 | [Oru Theniyin Kadhal](https://open.spotify.com/track/25pEd2JmX87sckTCxRFwDU) | [RK Vilasini](https://open.spotify.com/artist/01kF7XZb8f8B2aywaXOPXy) | [Oru Theniyin Kadhal](https://open.spotify.com/album/4RPjQ9C8VwrCvjzGNawgwX) | 4:11 | 2023-03-21 | 2023-07-25 |
 | [Oru Uvamai](https://open.spotify.com/track/5UMeOW8eAD5XRI9JnqG1Ta) | [Rishi K](https://open.spotify.com/artist/43IKH64gsHdNOnpTcUbIQj) | [Oru Uvamai](https://open.spotify.com/album/1OJk6AwLsV8dqT4xLmDgAD) | 3:02 | 2023-03-21 | 2023-08-03 |

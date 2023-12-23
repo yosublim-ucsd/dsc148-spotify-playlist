@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Abeliano
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,776 likes - 71 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,775 likes - 71 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 70 | [Bukan Pertama Kali](https://open.spotify.com/track/0VH9MomavDJHHcvvjAMyO9) | [One Am](https://open.spotify.com/artist/2qhb37wgFDfSLrlLOMmRT1) | [Bukan Pertama Kali](https://open.spotify.com/album/5opFmN67RcuQzQkWXu1JTr) | 3:17 |
 | 71 | [Menyaksikan Dunia Terbakar](https://open.spotify.com/track/0ionvj5oXsGm2jPekIvt5h) | [Klub Omong Kosong](https://open.spotify.com/artist/1yMkyIstClkSh8rSLffcMP) | [Menyaksikan Dunia Terbakar](https://open.spotify.com/album/5p9ms1NK8Z9fV9AdtKWjq7) | 3:22 |
 
-Snapshot ID: `MCwxOGViYmZhZTNlOWJhZDY1YTMxM2RkZGI5OTcwMzkxODcxZDFjMDI1`
+Snapshot ID: `MCw4ZjAxOWI3MzAxZGE3N2NiMjZhZmQ0MDUyMjgwYTJiNDBhMGJmZjg1`

@@ -2104,7 +2104,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 127228,
       "name": "Faz Completo, Chefe",
       "url": "https://open.spotify.com/track/3uxc6B7LaEeOdLe4WWzME8"
@@ -2990,6 +2990,36 @@
       "duration_ms": 184845,
       "name": "MANO DO AK",
       "url": "https://open.spotify.com/track/7EetU2Z1Dz8NDwzuktF427"
+    },
+    {
+      "album": {
+        "name": "Maria Mariah",
+        "url": "https://open.spotify.com/album/4F1j6L2ncVLyIiAaG8jgo1"
+      },
+      "artists": [
+        {
+          "name": "JC NO BEAT",
+          "url": "https://open.spotify.com/artist/1xglv0oUbyJaycWFhyec8U"
+        },
+        {
+          "name": "DJ F7",
+          "url": "https://open.spotify.com/artist/1L5QOwu01wcDbozwIL1XXd"
+        },
+        {
+          "name": "MC Meno Dani",
+          "url": "https://open.spotify.com/artist/3LqcLDGw41dRZKsM51H9GI"
+        },
+        {
+          "name": "Silva Mc",
+          "url": "https://open.spotify.com/artist/7v4hw85pzG0M9kJHlBGsi3"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118153,
+      "name": "Maria Mariah",
+      "url": "https://open.spotify.com/track/00rxTS5TKv3oXpDA6nWfBi"
     },
     {
       "album": {
@@ -5352,7 +5382,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 186427,
       "name": "Terror da Cidade",
       "url": "https://open.spotify.com/track/6YYCK0t9NAz1p7cXLe4xqL"
@@ -5842,6 +5872,28 @@
       "duration_ms": 298666,
       "name": "Zero Amor (feat. MC Tuto, DJ Glenner)",
       "url": "https://open.spotify.com/track/1lDyYAzt18bbDVbhAmd7US"
+    },
+    {
+      "album": {
+        "name": "\u00c9 OS D",
+        "url": "https://open.spotify.com/album/7duVEHhFXXNS4GF0OFYBIN"
+      },
+      "artists": [
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "\u00c9 OS D",
+      "url": "https://open.spotify.com/track/0FqqR9vFwoJoBKhTUfJl6q"
     },
     {
       "album": {

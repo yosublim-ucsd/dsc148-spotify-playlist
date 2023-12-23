@@ -4,7 +4,7 @@
 
 > Desde México hasta Argentina, el hogar de los beats latinoamericanos\. Foto: MIEL
 
-65 songs - 3 hr 40 min
+66 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Love Is Coming Back](https://open.spotify.com/track/65AafJRMh7LGHKTjoINJ0L) | [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB), [Husa & Zeyada](https://open.spotify.com/artist/3s47xvcoBSwPTgPizjEwfu) | [Love Is Coming Back](https://open.spotify.com/album/2A2s937laepTt5CYvrZQ1d) | 4:27 | 2023-08-18 |  |
 | [Luces](https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Luces](https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ) | 2:52 | 2023-08-18 |  |
 | [Me Medicaron \- Remix](https://open.spotify.com/track/64uTg0DPxkjGKwiLAdWTBz) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc), [8CHO](https://open.spotify.com/artist/51yzNnpk6vFEDz5qt8rmrM) | [Me Medicaron \(Remix\)](https://open.spotify.com/album/5nbQlyRsvBmnaombqh7o4n) | 3:22 | 2023-08-18 |  |
-| [Morenito](https://open.spotify.com/track/6etTt33N7wYwtDfuaqgthc) | [Chile](https://open.spotify.com/artist/0BnmjviyW0BAR2kK67AOPQ), [Mystic Natives](https://open.spotify.com/artist/0jltTJpT4TwfWBNDb393BY), [Aynes](https://open.spotify.com/artist/0WByZEwRntV98feeVnccWG) | [Morenito](https://open.spotify.com/album/5DYHkNfYvVuSJxjGSg0ptA) | 3:10 | 2023-08-18 |  |
+| [Morenito](https://open.spotify.com/track/5C4lyumkhkQsNPTfqID2gk) | [Chile](https://open.spotify.com/artist/0BnmjviyW0BAR2kK67AOPQ), [Aynes](https://open.spotify.com/artist/0WByZEwRntV98feeVnccWG), [Mystic Natives](https://open.spotify.com/artist/0jltTJpT4TwfWBNDb393BY) | [Morenito](https://open.spotify.com/album/5medqeaiGFGL8kW9gKMiGO) | 3:10 | 2023-08-18 |  |
+| [Morenito](https://open.spotify.com/track/6etTt33N7wYwtDfuaqgthc) | [Chile](https://open.spotify.com/artist/0BnmjviyW0BAR2kK67AOPQ), [Mystic Natives](https://open.spotify.com/artist/0jltTJpT4TwfWBNDb393BY), [Aynes](https://open.spotify.com/artist/0WByZEwRntV98feeVnccWG) | [Morenito](https://open.spotify.com/album/5DYHkNfYvVuSJxjGSg0ptA) | 3:10 | 2023-08-18 | 2023-12-23 |
 | [neon lover](https://open.spotify.com/track/6YaQ2f40fCn5xBySaXHDQg) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [neon lover](https://open.spotify.com/album/2HICIGI5RJRALblqaBIhHV) | 3:58 | 2023-08-18 |  |
 | [Neverita](https://open.spotify.com/track/2xms7bVgVIszeNtYCV9LVm) | [Cornetto](https://open.spotify.com/artist/5VUUCzj7ZOGku7STS2vUQc) | [Neverita](https://open.spotify.com/album/7efd1iBzVfBeVvtwh1C7hL) | 3:34 | 2023-08-18 |  |
 | [Neón](https://open.spotify.com/track/5n3BkGuvl4tBLtU0vRnk2p) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Neón](https://open.spotify.com/album/3vaTUE6iGfukYBuR5vzOa9) | 3:16 | 2023-08-18 |  |

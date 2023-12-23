@@ -4,7 +4,7 @@
 
 > a state of mind.
 
-105 songs - 6 hr 12 min
+107 songs - 6 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Irma Jackson](https://open.spotify.com/track/5DsptWsLHllrarosNhVdQV) | [Merle Haggard & The Strangers](https://open.spotify.com/artist/3mSAqBoXQgdlpwzWsIgBzL) | [Down Every Road 1962\-1994](https://open.spotify.com/album/40Wi0Ej08sw9B4URIOabOI) | 2:27 | 2023-04-14 |  |
 | [John Beyers \(Camaro Song\)](https://open.spotify.com/track/66Ca5hnT9mxshajDCzLcfQ) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Songs of the Plains](https://open.spotify.com/album/6DzYh2Z00xNWG8wtfB6kIY) | 2:01 | 2023-06-02 |  |
 | [John Beyers \(Camaro Song\)](https://open.spotify.com/track/4z5kF7eIQhc6cvdb2MxEDD) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Songs of the Plains](https://open.spotify.com/album/5YFcEg0KaTy1Q20EYfsCR2) | 2:01 | 2023-04-14 | 2023-08-31 |
-| [Keep The Wolves Away](https://open.spotify.com/track/1u7J5sEfgOVRt5bkfU2oGV) | [Uncle Lucius](https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW) | [And You Are Me](https://open.spotify.com/album/2nNgwgaNPoxJGT2nchbPrj) | 4:35 | 2023-04-14 |  |
+| [Keep The Wolves Away](https://open.spotify.com/track/1YzIpqwnj5M8qylwn1Tr9Z) | [Uncle Lucius](https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW) | [And You Are Me](https://open.spotify.com/album/2Zotdxc4VKc2yv0TuFjJRo) | 4:35 | 2023-12-22 |  |
+| [Keep The Wolves Away](https://open.spotify.com/track/1u7J5sEfgOVRt5bkfU2oGV) | [Uncle Lucius](https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW) | [And You Are Me](https://open.spotify.com/album/2nNgwgaNPoxJGT2nchbPrj) | 4:35 | 2023-04-14 | 2023-12-23 |
 | [Life Ain't Fair and the World Is Mean](https://open.spotify.com/track/3M97fwKZfzvQ8xppMoQ7a0) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [High Top Mountain](https://open.spotify.com/album/59ElPFKCqmH5nLRdWjyopf) | 2:06 | 2023-04-14 |  |
 | [Living on the Run](https://open.spotify.com/track/27Xzsz1vWsBn1Nq9PZy9hO) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Longhaired Redneck](https://open.spotify.com/album/79MXHXBV9uYoJgdrJESMKb) | 2:32 | 2023-04-14 |  |
 | [Long Haired Country Boy](https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8) | [The Charlie Daniels Band](https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca) | [A Decade Of Hits](https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc) | 4:00 | 2023-04-14 |  |
@@ -107,6 +108,7 @@
 | [Today I Started Loving You Again](https://open.spotify.com/track/6vGlkVwnCLh7Q5JRueDQ2y) | [Sammi Smith](https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS) | [The Best Of Sammi Smith](https://open.spotify.com/album/5E3rKn4oBda4nqbxBlBvQg) | 3:28 | 2023-04-14 |  |
 | [Travelin' Kind](https://open.spotify.com/track/23Q7PvHDBsfGPcCrWBT6cx) | [Ashland Craft](https://open.spotify.com/artist/5C5yczYHPeBi5PrwxfksLP) | [Travelin' Kind](https://open.spotify.com/album/4p3L8B0Y6E2L8ZDWXFcHqI) | 2:57 | 2023-04-14 |  |
 | [Under Your Spell Again \(with Jessi Colter\)](https://open.spotify.com/track/6PyQp5EO05bC0XOcjLzvX5) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Jessi Colter](https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v) | [Wanted! The Outlaws \(Expanded Edition\)](https://open.spotify.com/album/2QqTYCt0RbRC624nT607fV) | 2:52 | 2023-04-14 |  |
+| [We Ride](https://open.spotify.com/track/72kGuWpRiuA149Bn5lDkIO) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Poets & Old Souls](https://open.spotify.com/album/19X9Ts9AYIRrqthSTf3qss) | 3:08 | 2023-12-22 |  |
 | [What Else is New \- Unplugged](https://open.spotify.com/track/05XPF6ljtjxsfTb4SArrSq) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Adobe Sessions \(Unplugged\)](https://open.spotify.com/album/1uUMv9ejI04bDiTqPpRZRn) | 2:50 | 2023-04-14 |  |
 | [When The Rodeo Is Over \(Where Does The Cowboy Go?\)](https://open.spotify.com/track/2hZ2CDziK90laOB2inWp8X) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [When The Rodeo Is Over \(Where Does The Cowboy Go?\)](https://open.spotify.com/album/55JUFgPqNq7KIoomgcaw2v) | 4:02 | 2023-06-02 |  |
 | [Whiskey River](https://open.spotify.com/track/6gS6XQ4OqMddkgzHNz40E5) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 4:07 | 2023-04-14 |  |

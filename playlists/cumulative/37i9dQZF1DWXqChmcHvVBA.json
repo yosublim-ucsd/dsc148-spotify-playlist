@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-22",
-  "description": "No es cumbia, tampoco reggaet\u00f3n. Foto: Lolo OG.",
+  "description": "No es cumbia, tampoco reggaet\u00f3n. Foto: Omar Varela & El Negro Tecla.",
   "name": "RKT  & Turreo",
   "tracks": [
     {
@@ -68,7 +68,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 160171,
       "name": "ALEJO ISAKK | DJ TAO Turreo Sessions #14",
       "url": "https://open.spotify.com/track/5OZ4ske7GzEE6fOy9qjWdh"
@@ -168,6 +168,32 @@
       "duration_ms": 147135,
       "name": "Bailemos En El Club",
       "url": "https://open.spotify.com/track/5Z4vQrfSzTKBSdtYvmj71h"
+    },
+    {
+      "album": {
+        "name": "BANDIDA",
+        "url": "https://open.spotify.com/album/1lkFfIhXjrOrhleRHAuqyM"
+      },
+      "artists": [
+        {
+          "name": "Alejo Isakk",
+          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
+        },
+        {
+          "name": "Iamnazag",
+          "url": "https://open.spotify.com/artist/7LxxNXsdBfBrCLbvL2FA3T"
+        },
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166618,
+      "name": "BANDIDA",
+      "url": "https://open.spotify.com/track/3y8Hj0ss52tpry5lHyMtkA"
     },
     {
       "album": {
@@ -655,6 +681,28 @@
     },
     {
       "album": {
+        "name": "EL NEGRO TECLA | Omar Algo Anda Mal #9",
+        "url": "https://open.spotify.com/album/5yRir5FLWf70z0eRCokOQY"
+      },
+      "artists": [
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        },
+        {
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "EL NEGRO TECLA | Omar Algo Anda Mal #9",
+      "url": "https://open.spotify.com/track/08809bzGs69SfjOFdeyssu"
+    },
+    {
+      "album": {
         "name": "El Super Junte Rkt",
         "url": "https://open.spotify.com/album/4kRkwZhpcxCFWP7NfWAGtY"
       },
@@ -738,7 +786,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 192668,
       "name": "FERNET",
       "url": "https://open.spotify.com/track/2GVahxIzxivfRZc8lR39Ms"
@@ -1006,7 +1054,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 166018,
       "name": "L-GANTE | DJ TAO Turreo Sessions #10",
       "url": "https://open.spotify.com/track/5eIltO3A5tNzePrLn6EqT3"
@@ -1424,7 +1472,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 138656,
       "name": "ME VOY | E9",
       "url": "https://open.spotify.com/track/1PsHzI1j2YdALtsX9N6fP0"
@@ -1606,6 +1654,36 @@
       "duration_ms": 198913,
       "name": "P rreo",
       "url": "https://open.spotify.com/track/1ZI1nMfnnfFhdIyIKv5Igv"
+    },
+    {
+      "album": {
+        "name": "Pa Ke Te Enamores",
+        "url": "https://open.spotify.com/album/6Pg1JJaHh3pTbezg6Pp6rB"
+      },
+      "artists": [
+        {
+          "name": "elaggume",
+          "url": "https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb"
+        },
+        {
+          "name": "Iamnazag",
+          "url": "https://open.spotify.com/artist/7LxxNXsdBfBrCLbvL2FA3T"
+        },
+        {
+          "name": "Tuti DJ",
+          "url": "https://open.spotify.com/artist/5Zk54wioCsUtq5ggUWXqlK"
+        },
+        {
+          "name": "Fauna Music",
+          "url": "https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148302,
+      "name": "Pa Ke Te Enamores",
+      "url": "https://open.spotify.com/track/3xzl4zZAXvUIkexPOzmC2o"
     },
     {
       "album": {
@@ -2053,6 +2131,32 @@
     },
     {
       "album": {
+        "name": "Si quiero o si tengo?",
+        "url": "https://open.spotify.com/album/7ADkHeKSq9NzZKj85Zsz24"
+      },
+      "artists": [
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "El Jincho",
+          "url": "https://open.spotify.com/artist/2w1wJcGdJQ4Lw08oKBnDsw"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215613,
+      "name": "Si quiero o si tengo?",
+      "url": "https://open.spotify.com/track/1J5RSVH0ZdSMCal7UTF2Kg"
+    },
+    {
+      "album": {
         "name": "TAKI TAKI TA RKT (Remix)",
         "url": "https://open.spotify.com/album/2EDa15V0c0qzjwjpEhFC8w"
       },
@@ -2098,7 +2202,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 240835,
       "name": "TE AMO RMX (feat. Salastkbron)",
       "url": "https://open.spotify.com/track/335JDXiJij27LNVm4xfhdk"
@@ -2142,7 +2246,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 173023,
       "name": "Te Parto RKT",
       "url": "https://open.spotify.com/track/0dsNaKnogOeaoKuObS6c9H"
@@ -2256,7 +2360,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 153665,
       "name": "TU AMOR | E7",
       "url": "https://open.spotify.com/track/3N6rAKpPraBOZqn9RhSrz0"
@@ -2378,7 +2482,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 131000,
       "name": "TURROMANTIKO",
       "url": "https://open.spotify.com/track/1PmKfNsHxPdMaHP496myD3"
@@ -2582,7 +2686,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 205000,
       "name": "YO SOY TU MAESTRO - Remix",
       "url": "https://open.spotify.com/track/1AH4jXw5DHJklLAe54kw6S"
@@ -2608,7 +2712,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 122238,
       "name": "Zona de Rkt",
       "url": "https://open.spotify.com/track/35X6CPF2Qwn0SCfVO7xDaw"

@@ -4,7 +4,7 @@
 
 > The official playlist for <a href="spotify:user:0ouhj3nctpqgo8bgamzte2o6o">Paramount Network</a>'s Yellowstone.
 
-228 songs - 14 hr 14 min
+229 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [Intertwine](https://open.spotify.com/track/11dqE6ebU0FtXDoTuDQqLD) | [Senora May](https://open.spotify.com/artist/5zHAQHBRNMEqG5Of2CM0cD), [Chloe Edmonstone](https://open.spotify.com/artist/6kgVWfXC4jGyad7xT5EKp3), [Seth Avett](https://open.spotify.com/artist/6XCZ1uSV9jKMOlqck0ubQW) | [All of My Love](https://open.spotify.com/album/09GlWNlMfUNVedsw9So3JR) | 4:00 | 2022-12-06 |  |
 | [Johnny Cash \(Man in Black\)](https://open.spotify.com/track/1S6e1wopG0zxudJsLBbKH0) | [Badd Wolf](https://open.spotify.com/artist/6i7HCVIOlT4orzAAzZ97Th) | [Johnny Cash \(Man in Black\)](https://open.spotify.com/album/53mfSk3431jYfvIq20NBnB) | 3:49 | 2019-07-18 |  |
 | [Judith](https://open.spotify.com/track/5KDNFlHAdDJ84fhK27c35X) | [A Perfect Circle](https://open.spotify.com/artist/4DFhHyjvGYa9wxdHUjtDkc) | [Mer De Noms](https://open.spotify.com/album/0GeWd0yUKXHbCXVag1mJvO) | 4:07 | 2019-06-27 |  |
-| [Keep The Wolves Away](https://open.spotify.com/track/1u7J5sEfgOVRt5bkfU2oGV) | [Uncle Lucius](https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW) | [And You Are Me](https://open.spotify.com/album/2nNgwgaNPoxJGT2nchbPrj) | 4:35 | 2019-06-27 |  |
+| [Keep The Wolves Away](https://open.spotify.com/track/1YzIpqwnj5M8qylwn1Tr9Z) | [Uncle Lucius](https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW) | [And You Are Me](https://open.spotify.com/album/2Zotdxc4VKc2yv0TuFjJRo) | 4:35 | 2019-06-27 |  |
+| [Keep The Wolves Away](https://open.spotify.com/track/1u7J5sEfgOVRt5bkfU2oGV) | [Uncle Lucius](https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW) | [And You Are Me](https://open.spotify.com/album/2nNgwgaNPoxJGT2nchbPrj) | 4:35 | 2019-06-27 | 2023-12-23 |
 | [KMAG YOYO](https://open.spotify.com/track/54BYHlZdV2QsnoPPSnAK8t) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [KMAG YOYO \(& Other American Stories\)](https://open.spotify.com/album/1DZTkteQGTi9Ko7CwZKnWc) | 4:19 | 2020-07-29 |  |
 | [Lady May](https://open.spotify.com/track/3t5OV1asJHmOlf23T08CLv) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:03 | 2020-06-29 |  |
 | [Last Call](https://open.spotify.com/track/0SKmU6qOXKUdHuZsiSqpcn) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw) | 3:28 | 2022-11-21 |  |

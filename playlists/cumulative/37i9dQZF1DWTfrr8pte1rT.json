@@ -1564,7 +1564,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-30",
+      "date_removed": null,
       "duration_ms": 202105,
       "name": "Cute Without The E (Ziri)",
       "url": "https://open.spotify.com/track/4c840ZcqSo23gsv6tBdbar"
@@ -1821,6 +1821,32 @@
     },
     {
       "album": {
+        "name": "Done Better",
+        "url": "https://open.spotify.com/album/2IM4meQQN3QrdA3Mfv63kh"
+      },
+      "artists": [
+        {
+          "name": "Shiah Maisel",
+          "url": "https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t"
+        },
+        {
+          "name": "Clarx",
+          "url": "https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr"
+        },
+        {
+          "name": "AViVA",
+          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170583,
+      "name": "Done Better",
+      "url": "https://open.spotify.com/track/3wl77mkSw6UVa0ciUKB6xS"
+    },
+    {
+      "album": {
         "name": "Don't Miss (The Bloody Beetroots Remix)",
         "url": "https://open.spotify.com/album/3yLlpoqKPuRHhUPdvxHJCD"
       },
@@ -1854,7 +1880,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 147310,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/6cojcB8ZmJ2U9ihAXzRqrA"
@@ -2560,7 +2586,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-25",
+      "date_removed": null,
       "duration_ms": 185250,
       "name": "Favour",
       "url": "https://open.spotify.com/track/3VmmsSRAhOr3MIWdMUdKjE"
@@ -3454,7 +3480,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 196285,
       "name": "I Wish I Could Forget You",
       "url": "https://open.spotify.com/track/37ezXYMDox6zjvU5HNhdF6"
@@ -3854,7 +3880,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 202714,
       "name": "Last Forever",
       "url": "https://open.spotify.com/track/3AsCaUpOdqmQYtNsEonbvx"
@@ -4310,7 +4336,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 177931,
       "name": "LOWLIFE (feat. Sebotage)",
       "url": "https://open.spotify.com/track/0q5ZPJJ2cm6Her2jhg9MUW"
@@ -4574,7 +4600,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 167343,
       "name": "My Name Is Thunder",
       "url": "https://open.spotify.com/track/3XXkwHcdDSx25VmH7Rq3rx"

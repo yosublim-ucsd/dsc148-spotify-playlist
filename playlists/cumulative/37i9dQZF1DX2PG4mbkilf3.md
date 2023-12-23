@@ -2,9 +2,9 @@
 
 ### [Mood Ring ](https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3)
 
-> This is R&B in Canada\. Elevate your aura with LOONY.
+> This is R&B in Canada\. Elevate your aura with FrancisGotHeat, SAFE and PVRX.
 
-884 songs - 1 day 22 hr 42 min
+887 songs - 1 day 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Acrophilia'](https://open.spotify.com/track/2lPmw51UjeCO5y9GG0m2nS) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav), [Divine Lightbody](https://open.spotify.com/artist/4b9YacVLF5QegzWwfz0vIJ) | [Acrophilia'](https://open.spotify.com/album/5OfQexvpjAiZeMrOVEZuos) | 2:06 | 2022-06-24 | 2022-08-06 |
 | [Actin'](https://open.spotify.com/track/4MH4vhC8PnVJ1OZ7XU1N4n) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav) | [Actin'](https://open.spotify.com/album/2hWtcQwTmjF57dTH8PpTdp) | 3:15 | 2022-02-18 | 2022-06-25 |
 | [ADDICTED](https://open.spotify.com/track/786LJeO60TfmUY4zRwjbBb) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT) | [ADDICTED](https://open.spotify.com/album/0XKQkEJ7SuYfkfHJGSt2h1) | 2:40 | 2023-09-15 | 2023-12-09 |
+| [Affinity](https://open.spotify.com/track/4Y34P7ZotrjriguKE72lGy) | [Haley Smalls](https://open.spotify.com/artist/5uTsMjH1CdE81ncmOnE4WY) | [Affinity](https://open.spotify.com/album/2fBVGKUGraX7O3ieTk0BoV) | 2:46 | 2023-12-22 |  |
 | [Africvillean Funk](https://open.spotify.com/track/1rbN7wvQtAYoGV5DZliziB) | [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus), [Trobiz](https://open.spotify.com/artist/1SOChUFxbvRq02w2HC1XvX) | [Africvillean Funk](https://open.spotify.com/album/4dA1mxVyeTqlbOurVp76TN) | 3:12 | 2022-07-01 | 2022-07-23 |
 | [Afrobeats & Affirmations](https://open.spotify.com/track/56UEaQ3glFdwv2KKyw1LMg) | [Kayo](https://open.spotify.com/artist/6OOvjtNBVM1FYpNAaOzm9s), [aRENYE](https://open.spotify.com/artist/5d48XfG2GI2nt47HRRwVh1), [Million Vibes](https://open.spotify.com/artist/4ksuJuYo6ChsroMiEqfOvI) | [Afrobeats & Affirmations](https://open.spotify.com/album/6RolbA89sdtcMljCCxgim8) | 3:15 | 2023-04-28 | 2023-07-22 |
 | [AFTER HOURS](https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [AFTER HOURS](https://open.spotify.com/album/0C4vpjaKHhAAcd0fo9hWaT) | 2:53 | 2023-10-27 | 2023-12-09 |
@@ -79,6 +80,7 @@
 | [Back to You](https://open.spotify.com/track/1M1pCtHsfELKBeFCNd20im) | [Speng Squire](https://open.spotify.com/artist/1xtxdFPGw2IVa9BMxWtiUa) | [Exes & O's](https://open.spotify.com/album/0J5rmovLwIyGzUgiGAOIoR) | 2:28 | 2022-02-18 | 2022-07-02 |
 | [Backinluv](https://open.spotify.com/track/0k3WtyxIG1Hvv5nn6BwhfX) | [Clairmont The Second](https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7) | [Full Circle](https://open.spotify.com/album/61T2bvjnhjUEmucspVNvtE) | 4:30 | 2022-08-05 | 2022-11-12 |
 | [Bad Bad](https://open.spotify.com/track/1md6otYHFdOp8itdRp4r2h) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Bad Bad](https://open.spotify.com/album/1bQvvahTarm2ZJN7iFHr5A) | 3:39 | 2022-07-15 | 2022-11-12 |
+| [Bad Intentions](https://open.spotify.com/track/0sSQFWw30ZjRLNnvoAclJT) | [Anees](https://open.spotify.com/artist/5GgPDBska9yM6X2fZ6MHXA), [Alice Aera](https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7) | [Bad Intentions](https://open.spotify.com/album/4iCW5UWJyFtC4YuTUTFNHs) | 4:19 | 2023-12-22 |  |
 | [Bahamas Promises](https://open.spotify.com/track/3JZjcKImHcmOI9ylL4zrSc) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 3:04 | 2023-10-06 | 2023-11-25 |
 | [Be Mine](https://open.spotify.com/track/3OpiUWJv4LPW4hyyP93EMR) | [LOTi](https://open.spotify.com/artist/0urGBe1Pism9xlVVwOmExn) | [Be Mine](https://open.spotify.com/album/2CQMDgRaDf38E9gcKXw2zD) | 2:57 | 2023-04-21 | 2023-06-03 |
 | [Be Mine](https://open.spotify.com/track/2DfxFAQn4Xftq1nW1f9795) | [Myles Tulloch](https://open.spotify.com/artist/5NxWadR8NGGgfAWsqd2UsV) | [I Need a Girl](https://open.spotify.com/album/284Iitp36h5c448HIk61pL) | 3:15 | 2022-12-16 | 2023-04-01 |
@@ -198,7 +200,7 @@
 | [DOLLA BILL](https://open.spotify.com/track/60KAfeoYKcZxescGw4ZjkD) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI), [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [DOLLA BILL](https://open.spotify.com/album/15dVyqRAoOdrS1ADqD7zB6) | 3:43 | 2022-11-11 | 2023-02-18 |
 | [Don't](https://open.spotify.com/track/2Jt1N8rd5eYFVr9AHbTnuV) | [Dfresh Sande](https://open.spotify.com/artist/3gUO8KqXBI5E43eY32Cvkn) | [My way](https://open.spotify.com/album/22viOAbq3ia5Vgm5i2l61k) | 3:28 | 2022-05-13 | 2022-05-20 |
 | [don't call me](https://open.spotify.com/track/3gKY1wkjy7wRbgiK4Um8dz) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [don't call me](https://open.spotify.com/album/5aoD6fu1YipqnOVVCNLGss) | 3:01 | 2022-03-25 | 2022-04-16 |
-| [Don't Call Me Selfish](https://open.spotify.com/track/1u9OkMaHqaqt4cyRqJEH0v) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Don't Call Me Selfish](https://open.spotify.com/album/6HDUZeiiXZvcN5IpDsNjOH) | 2:33 | 2023-12-08 |  |
+| [Don't Call Me Selfish](https://open.spotify.com/track/1u9OkMaHqaqt4cyRqJEH0v) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Don't Call Me Selfish](https://open.spotify.com/album/6HDUZeiiXZvcN5IpDsNjOH) | 2:33 | 2023-12-08 | 2023-12-23 |
 | [Don't Explain](https://open.spotify.com/track/4aMJWOxbgdreFo0CAzuVyC) | [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [Celebrating Nina: A Reggae Tribute to Nina Simone](https://open.spotify.com/album/0QjYnaPCjDUqpBYx3ijRhF) | 5:08 | 2022-03-18 | 2022-06-11 |
 | [Don't go](https://open.spotify.com/track/1KRSiMMebZLfWSd5TTW6i4) | [Persis](https://open.spotify.com/artist/74rFJaOCffY3YqFzwNe7yX) | [Don't go](https://open.spotify.com/album/0qLH3BtvnQBP4LWiiRFo87) | 3:31 | 2022-10-28 | 2022-12-10 |
 | [Don't Love Me](https://open.spotify.com/track/2TrFQYku0STJn94gRMhlNZ) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Don't Love Me](https://open.spotify.com/album/2SNGZ52dDl74z2sxhAzUSM) | 3:23 | 2023-02-10 | 2023-04-22 |
@@ -584,7 +586,7 @@
 | [Pain, no Percocet](https://open.spotify.com/track/67qc0MK4wCWJPaEQ9eCd4X) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Pain, no Percocet](https://open.spotify.com/album/21NMZv3MRj4nw6O75v5hha) | 2:58 | 2023-05-05 | 2023-07-01 |
 | [PAINKILLERS](https://open.spotify.com/track/1wEad4445vJifOlOFONgt2) | [J\-Soul](https://open.spotify.com/artist/04QcyYLTjG43lmp2ETdMB8) | [PAINKILLERS](https://open.spotify.com/album/5FrHN3chpDhEdhZYOXduzu) | 2:41 | 2022-07-08 | 2022-08-06 |
 | [Papa Wemba](https://open.spotify.com/track/66uRvVAtgUan70hYcORwbc) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [Papa Wemba](https://open.spotify.com/album/1W3ISOlEvRbSp5Wer7yn9V) | 3:50 | 2022-02-18 | 2022-02-26 |
-| [Parade on Cleveland \(feat\. Drake\)](https://open.spotify.com/track/05CTjmZKjZoCKQvM1Ldq9M) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:48 | 2023-06-23 |  |
+| [Parade on Cleveland \(feat\. Drake\)](https://open.spotify.com/track/05CTjmZKjZoCKQvM1Ldq9M) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:48 | 2023-06-23 | 2023-12-23 |
 | [Paradise](https://open.spotify.com/track/4R3WUzM7xXAIzT5HhH1DDw) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Get Home SAFE \(Part 1\)](https://open.spotify.com/album/2vbt2pexKBrcNcEOZ2ObA2) | 3:22 | 2022-05-06 | 2023-05-06 |
 | [Passion](https://open.spotify.com/track/7L7lEcylKN2Rqz5fQ5yq4t) | [DJ Rosegold](https://open.spotify.com/artist/25AzYlOR12VRVYdFWcNYfH), [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s), [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Passion](https://open.spotify.com/album/4lsaeSEDS4HKkJNiR62uyb) | 3:07 | 2023-11-17 |  |
 | [PATT](https://open.spotify.com/track/0AcNh6pvhqGCm9EKpCAKEG) | [DION IV](https://open.spotify.com/artist/2MNprX16TszQOuCL8s5F38) | [PATT](https://open.spotify.com/album/0wTbVFoRaSEqgIm9iCFOO5) | 3:16 | 2022-02-18 | 2022-02-26 |
@@ -813,6 +815,7 @@
 | [Trenches To Money](https://open.spotify.com/track/5kMxrz5JfOmEAZSXrbM2t7) | [LOTi](https://open.spotify.com/artist/0urGBe1Pism9xlVVwOmExn) | [Trenches To Money](https://open.spotify.com/album/4RGUGijHgEup3iNwwlLxQs) | 3:33 | 2023-08-25 | 2023-11-18 |
 | [Trust](https://open.spotify.com/track/6YecmNnABghHDPTNlG3md5) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Trust](https://open.spotify.com/album/4R536rrBEQjh7g1MrhasoS) | 2:45 | 2022-10-07 | 2022-10-15 |
 | [Trust You Now](https://open.spotify.com/track/1oVNPc9Cw5eFfjQLt8ezTt) | [Divine Lightbody](https://open.spotify.com/artist/4b9YacVLF5QegzWwfz0vIJ) | [Trust You Now](https://open.spotify.com/album/6NZ26QeaZQsUeUwRoGOzNq) | 3:02 | 2022-08-12 | 2022-10-08 |
+| [ttuctmd](https://open.spotify.com/track/7bsqStKmTP9TgMESunVxLX) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [ttuctmd](https://open.spotify.com/album/1ErqwoGil01Xr66CiUxU3u) | 2:00 | 2023-12-22 |  |
 | [Tu T'en Souviens \- A COLORS SHOW](https://open.spotify.com/track/0Q5rXLOF7NxSfiNE9xEtuc) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Tu T'en Souviens \- A COLORS SHOW](https://open.spotify.com/album/76RFXXmVwMd7VpAwb2dpIR) | 2:52 | 2023-10-13 |  |
 | [Two Seater](https://open.spotify.com/track/7lmRIUh9wpC8Orglf8nkY2) | [DJ Agile](https://open.spotify.com/artist/3ypWgymPzuSt8QT4Tg09Ed), [August Rigo](https://open.spotify.com/artist/0j4KkLX4P2OPMJfXcatbQ3) | [Two Seater](https://open.spotify.com/album/6WjixDtKcOv7IMp1E9YfH6) | 3:07 | 2023-09-29 | 2023-12-09 |
 | [TWYN](https://open.spotify.com/track/242XDNH51jlYKGcudDDv2C) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [TWYN / Crescent](https://open.spotify.com/album/05uTcwSJ4qXEFhNn3ZP1gB) | 2:37 | 2023-11-10 |  |

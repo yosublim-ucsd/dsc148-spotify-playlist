@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 622523,
+  "num_followers": 622603,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzIyY2Q5ZWRjMjJhZmEyYzEyMzI1ZmJmOGM1ZTY2NWU5MThhZjU3",
+  "snapshot_id": "MCwyYTljY2QxYmFmOTY1ZGY5ZjdhMTQxMzA4YWI4YmZiMjE5ZjA2MjAx",
   "tracks": [
     {
       "added_at": "2023-12-07 13:48:37",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
-        "name": "0,9 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6tXpsYFPFHpbKXWpovbtFs"
-      },
-      "artists": [
-        {
-          "name": "SSIO",
-          "url": "https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2"
-        }
-      ],
-      "duration_ms": 232434,
-      "name": "Nullkommaneun",
-      "url": "https://open.spotify.com/track/3cLXgIlvugVKpWBmO5v9oy"
-    },
-    {
-      "added_at": "2023-12-07 13:48:37",
-      "album": {
         "name": "Casia Deluxe",
         "url": "https://open.spotify.com/album/03kquvjDEXJugsDtZ2pPA8"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 201979,
       "name": "Kokaina",
       "url": "https://open.spotify.com/track/0bAgUuRXs3q359aMIMrKdu"
+    },
+    {
+      "added_at": "2023-12-07 13:48:37",
+      "album": {
+        "name": "0,9 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6tXpsYFPFHpbKXWpovbtFs"
+      },
+      "artists": [
+        {
+          "name": "SSIO",
+          "url": "https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2"
+        }
+      ],
+      "duration_ms": 232434,
+      "name": "Nullkommaneun",
+      "url": "https://open.spotify.com/track/3cLXgIlvugVKpWBmO5v9oy"
     },
     {
       "added_at": "2023-12-07 13:48:37",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
-        "name": "MT3",
-        "url": "https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g"
-      },
-      "artists": [
-        {
-          "name": "Massive T\u00f6ne",
-          "url": "https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ"
-        }
-      ],
-      "duration_ms": 235266,
-      "name": "Cruisen",
-      "url": "https://open.spotify.com/track/6e5kuZssmkwWL3Yt4jwTRy"
-    },
-    {
-      "added_at": "2023-12-07 13:48:37",
-      "album": {
         "name": "Bitte Ziehen Sie Durch",
         "url": "https://open.spotify.com/album/2AZNRmYwTikPWYSz766esn"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 207413,
       "name": "Bon voyage (feat. Nina)",
       "url": "https://open.spotify.com/track/0ys1g8PTTs6ADeDp2h1xpd"
+    },
+    {
+      "added_at": "2023-12-07 13:48:37",
+      "album": {
+        "name": "MT3",
+        "url": "https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g"
+      },
+      "artists": [
+        {
+          "name": "Massive T\u00f6ne",
+          "url": "https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ"
+        }
+      ],
+      "duration_ms": 235266,
+      "name": "Cruisen",
+      "url": "https://open.spotify.com/track/6e5kuZssmkwWL3Yt4jwTRy"
     },
     {
       "added_at": "2023-12-07 13:48:37",

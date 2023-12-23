@@ -1095,6 +1095,32 @@
     },
     {
       "album": {
+        "name": "ELAS PINTAM",
+        "url": "https://open.spotify.com/album/7ehwNnbvptTziab8QZkXV7"
+      },
+      "artists": [
+        {
+          "name": "SHURY",
+          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "biggie diehl",
+          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194020,
+      "name": "ELAS PINTAM",
+      "url": "https://open.spotify.com/track/3HzDmhzi7LNVSb0VjTi0il"
+    },
+    {
+      "album": {
         "name": "Ele Me Falou",
         "url": "https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh"
       },
@@ -1110,7 +1136,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 209268,
       "name": "Ele Me Falou",
       "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
@@ -2402,7 +2428,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 146399,
       "name": "MADDY",
       "url": "https://open.spotify.com/track/0sTU2re42O2KQGpyqK7ngN"
@@ -4180,6 +4206,36 @@
       "duration_ms": 139241,
       "name": "T SHIRT (feat. J\u00e9 Santiago)",
       "url": "https://open.spotify.com/track/4yx4UxUQwBkRtSWkM854aS"
+    },
+    {
+      "album": {
+        "name": "Piquezin do WC",
+        "url": "https://open.spotify.com/album/0NNho9WRvEmkK3GvtzM3QV"
+      },
+      "artists": [
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        },
+        {
+          "name": "Mc Morena",
+          "url": "https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX"
+        },
+        {
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+        },
+        {
+          "name": "Laura Sette",
+          "url": "https://open.spotify.com/artist/0MAXbFqd77wekpgo1nNUYc"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134117,
+      "name": "Taradona (feat. Laura Sette)",
+      "url": "https://open.spotify.com/track/7oncvH2IpI6eFPQ11MVl4c"
     },
     {
       "album": {

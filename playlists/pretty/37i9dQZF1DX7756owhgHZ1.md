@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7756owhgHZ1.md) - [plain]
 
 > Ya sea en la rampa o en la consola, así sonaba montar en patineta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,330 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,339 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7756owhgHZ1.md) - [plain]
 | 72 | [Whenimondamic](https://open.spotify.com/track/1zAFB2woHMnip3O0WJJA41) | [Lootpack](https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP) | [Soundpieces: Da Antidote](https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC) | 2:45 |
 | 73 | [Body Rock](https://open.spotify.com/track/7qxMoa63PAfPZSYafDeHij) | [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO), [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Tash](https://open.spotify.com/artist/22qf8cJRzBjIWb2Jc4JeOr) | [Lyricist Lounge Vol\. 1](https://open.spotify.com/album/21tkKiB2eq0Q3Nl49OxKbr) | 5:11 |
 | 74 | [Non Compos Mentis](https://open.spotify.com/track/1GS9WWgNkqhR45YcdGPnBW) | [Haiku D'Etat](https://open.spotify.com/artist/5yLqc0R4cy4fVot8LuEkj4) | [Haiku D'Etat](https://open.spotify.com/album/45zWOfhF7pA5aIfkWypsnz) | 4:11 |
-| 75 | [Hush](https://open.spotify.com/track/7q0xO3uiDpfqyyWXNMWspM) | [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla) | [Sneak Attack](https://open.spotify.com/album/5xuI6nfWnsMKQMZgQFJMBN) | 3:55 |
+| 75 | [Hush](https://open.spotify.com/track/75PrH413lre392eFKHl3tw) | [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla) | [Sneak Attack](https://open.spotify.com/album/4T1jD9iMVHc8fAW3IcvEPo) | 3:55 |
 
-Snapshot ID: `MCwwMGE1NWUzZmFmYmUzMmI0MWJhYzQ1ODQxMTVlOTFkMmI1ZjllMjU4`
+Snapshot ID: `MCxjMzYzMTY0ZmZiYzQ2ZDJjZGZhZDdkNThkMWI1OGY3NDhlODZjYWMz`

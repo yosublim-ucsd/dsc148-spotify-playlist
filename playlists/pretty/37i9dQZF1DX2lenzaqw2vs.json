@@ -1,12 +1,12 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Adrian Bello",
-  "num_followers": 134245,
+  "num_followers": 134252,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDQyOWUxMWIxYTc5MDhlYTg3MjE1NTAyNGY1ZDY5ZDE3MDJjY2Nm",
+  "snapshot_id": "MCwzMDEyNjU2ZWQ2Y2FiZTMzNjkxZGNjOGRkOGU2MDdkNjMzN2ZmMWM0",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -383,26 +383,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "To Anywhere",
-        "url": "https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V"
-      },
-      "artists": [
-        {
-          "name": "Snow Tha Product",
-          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
-        },
-        {
-          "name": "Lauren Jauregui",
-          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
-        }
-      ],
-      "duration_ms": 144691,
-      "name": "Pi\u00f1a",
-      "url": "https://open.spotify.com/track/6Fdho6pm3GhNyA4TZajC2X"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Noitada",
         "url": "https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY"
       },
@@ -419,6 +399,26 @@
       "duration_ms": 166013,
       "name": "AMEIANOITE",
       "url": "https://open.spotify.com/track/0zQhdzUijGmorUhopvtoue"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "To Anywhere",
+        "url": "https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V"
+      },
+      "artists": [
+        {
+          "name": "Snow Tha Product",
+          "url": "https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj"
+        },
+        {
+          "name": "Lauren Jauregui",
+          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
+        }
+      ],
+      "duration_ms": 144691,
+      "name": "Pi\u00f1a",
+      "url": "https://open.spotify.com/track/6Fdho6pm3GhNyA4TZajC2X"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Crimen",
-        "url": "https://open.spotify.com/album/0yproFmJufIWXkyXypQvAo"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 187234,
-      "name": "Crimen",
-      "url": "https://open.spotify.com/track/2OM21ugwD24GvvNcLFnbfj"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "DAMALEONA",
         "url": "https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 154361,
       "name": "REPROGRAMAR",
       "url": "https://open.spotify.com/track/1NVyxYaawP4iGSGEUlwJ4r"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Crimen",
+        "url": "https://open.spotify.com/album/0yproFmJufIWXkyXypQvAo"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 187234,
+      "name": "Crimen",
+      "url": "https://open.spotify.com/track/2OM21ugwD24GvvNcLFnbfj"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/3SYPjBFJeTW2sb4kMPQk6O"
-      },
-      "artists": [
-        {
-          "name": "Valentina Moretti",
-          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/4W8k1VqecfTy4nOaHPc4cY"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Kick",
         "url": "https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 232362,
       "name": "Soy Asi",
       "url": "https://open.spotify.com/track/7qYCZTW9lkTYqvmat6S3RJ"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/3SYPjBFJeTW2sb4kMPQk6O"
+      },
+      "artists": [
+        {
+          "name": "Valentina Moretti",
+          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/4W8k1VqecfTy4nOaHPc4cY"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "kiss my friends",
-        "url": "https://open.spotify.com/album/1PZDOwMAKdWHSpo9oIiRYA"
-      },
-      "artists": [
-        {
-          "name": "Bentley Robles",
-          "url": "https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT"
-        }
-      ],
-      "duration_ms": 162143,
-      "name": "kiss my friends",
-      "url": "https://open.spotify.com/track/6mQUS3biDHooR3h4r4QLRR"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Charreando En La Disco",
         "url": "https://open.spotify.com/album/2PfLqGjgSyRRYFR0xxb47S"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 173000,
       "name": "Charreando En La Disco",
       "url": "https://open.spotify.com/track/7Cyvb8cXv9uTY3r8479F3p"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "kiss my friends",
+        "url": "https://open.spotify.com/album/1PZDOwMAKdWHSpo9oIiRYA"
+      },
+      "artists": [
+        {
+          "name": "Bentley Robles",
+          "url": "https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT"
+        }
+      ],
+      "duration_ms": 162143,
+      "name": "kiss my friends",
+      "url": "https://open.spotify.com/track/6mQUS3biDHooR3h4r4QLRR"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1647,6 +1647,26 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "El Gran Var\u00f3n",
+        "url": "https://open.spotify.com/album/0MQR3TIJWypZjcadiyFcbV"
+      },
+      "artists": [
+        {
+          "name": "Ana Macho",
+          "url": "https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu"
+        },
+        {
+          "name": "La Brega",
+          "url": "https://open.spotify.com/artist/7n3zQKm0K6MOVshW2qjBsp"
+        }
+      ],
+      "duration_ms": 290068,
+      "name": "El Gran Var\u00f3n",
+      "url": "https://open.spotify.com/track/0vxgL9ele9vzJbWrVDrL6Y"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "\u00cdndigo",
         "url": "https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz"
       },
@@ -1679,26 +1699,6 @@
       "duration_ms": 165491,
       "name": "Pollo Frito",
       "url": "https://open.spotify.com/track/4cIDGn1x13O1Zva3TUu4TM"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "El Gran Var\u00f3n",
-        "url": "https://open.spotify.com/album/0MQR3TIJWypZjcadiyFcbV"
-      },
-      "artists": [
-        {
-          "name": "Ana Macho",
-          "url": "https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu"
-        },
-        {
-          "name": "La Brega",
-          "url": "https://open.spotify.com/artist/7n3zQKm0K6MOVshW2qjBsp"
-        }
-      ],
-      "duration_ms": 290068,
-      "name": "El Gran Var\u00f3n",
-      "url": "https://open.spotify.com/track/0vxgL9ele9vzJbWrVDrL6Y"
     },
     {
       "added_at": "2023-12-15 05:00:00",

@@ -2,9 +2,9 @@
 
 ### [Ready to Rock](https://open.spotify.com/playlist/37i9dQZF1DX34lqLRYWFxq)
 
-> What's new in rock\. Cover: Charlotte Sands
+> What's new in rock\. Cover: ThxSoMch
 
-724 songs - 1 day 16 hr 13 min
+726 songs - 1 day 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Dear Illusion](https://open.spotify.com/track/1TzVTyDssoHjSrXKfLZVtF) | [Steve Hill](https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4) | [Dear Illusion](https://open.spotify.com/album/0zxAtn3zFoZy51Uf6HAAGA) | 4:14 | 2023-02-10 | 2023-02-18 |
 | [deathrow honeymoon](https://open.spotify.com/track/2bHgTRULzOqXltq764vJQ6) | [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk) | [deathrow honeymoon](https://open.spotify.com/album/1sz0ia2sQs3X71J8dou1Uv) | 2:44 | 2023-04-28 | 2023-07-22 |
 | [Debilitate \(feat\. Pussy Riot\)](https://open.spotify.com/track/4lLSGmYY0E8ZGu2SzpmkAB) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI), [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [Debilitate \(feat\. Pussy Riot\)](https://open.spotify.com/album/5g20tuP4LcpzftTWYsJaZY) | 2:23 | 2023-06-23 | 2023-09-02 |
+| [Deep End \(from "Aquaman and the Lost Kingdom"\)](https://open.spotify.com/track/20xiB92NDhWtM4sqXUreQU) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Deep End \(from "Aquaman and the Lost Kingdom"\)](https://open.spotify.com/album/7fRFPeXlcoWCOuFpAKHnIv) | 3:01 | 2023-12-22 |  |
 | [DEMONS](https://open.spotify.com/track/0enIHM3aHbz3gfZ2vQe2tP) | [INNR CIRCLE](https://open.spotify.com/artist/1k39NA9nBk3NZac0fPLw6F) | [DEMONS](https://open.spotify.com/album/1pTSsJtXbBeDBvFmPvhAl0) | 3:46 | 2023-03-24 | 2023-04-29 |
 | [Detox](https://open.spotify.com/track/4hlZuSzSc1amD2v3FbZG1K) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Detox](https://open.spotify.com/album/3OOmT2BtFmAYRpQkkjeYnM) | 3:00 | 2023-12-15 |  |
 | [Devil Teasin' Me](https://open.spotify.com/track/2m7eRoX184m8k270T2GTHM) | [The Commoners](https://open.spotify.com/artist/6GevXItFTFNqPQQvEW8W9C) | [Devil Teasin' Me](https://open.spotify.com/album/7n8RiE0EUmLJPWa3NbnvZo) | 4:23 | 2023-09-22 | 2023-10-28 |
@@ -447,7 +448,7 @@
 | [Nothing For A While](https://open.spotify.com/track/4xObBwrIq6zo8QqUOne4UJ) | [Shred Kelly](https://open.spotify.com/artist/0TLkxB9Td2RXnmDEupHPQx) | [Nothing For A While](https://open.spotify.com/album/65o9495iq0A76kKS5xAk4k) | 6:41 | 2023-07-07 | 2023-07-14 |
 | [Nothing Is Perfect](https://open.spotify.com/track/1dxbQnO42DK5ApHpOMC8n2) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Nothing Is Perfect](https://open.spotify.com/album/79Y7o27OUTAiHwTnlxf4WW) | 3:30 | 2023-08-11 | 2023-09-09 |
 | [NOTHINGNESS](https://open.spotify.com/track/0QRK0E7CwPfw1ON6kIGfNX) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [NOTHINGNESS](https://open.spotify.com/album/26VIcq9CQqqGixCH7y56Pb) | 3:14 | 2023-10-06 | 2023-11-11 |
-| [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 | 2023-11-03 |  |
+| [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 | 2023-11-03 | 2023-12-23 |
 | [O\-zone](https://open.spotify.com/track/1ynjBf2AZaHlTvmzTMnJ93) | [Single Mothers](https://open.spotify.com/artist/2FW1jqwbJgwWT8hTWHgBrq) | [Everything You Need](https://open.spotify.com/album/4c00zGr7m0f7TgWUPiCfzS) | 2:54 | 2023-02-10 | 2023-02-25 |
 | [Obvious](https://open.spotify.com/track/3JJISRK7cduEHIeKimb3Re) | [Wide Mouth Mason](https://open.spotify.com/artist/6CcCAJi97tqh5OFAwy1THH) | [Obvious](https://open.spotify.com/album/6xNM0ATE15VQIihLH6Zwiy) | 3:08 | 2023-09-08 | 2023-10-14 |
 | [OFF BAT](https://open.spotify.com/track/6QA42ZcBRWeLGH1DMwWILs) | [Atwood](https://open.spotify.com/artist/1dtZllLT0EINXgSftEnOjv), [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [OFF BAT](https://open.spotify.com/album/53q6YzR84HesqPLahd1qRI) | 2:08 | 2023-06-16 | 2023-08-26 |
@@ -485,7 +486,7 @@
 | [Pink Push\-Up Bra](https://open.spotify.com/track/6QbpIejpFu4dpnyHdGJ0fX) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Pink Push\-Up Bra](https://open.spotify.com/album/5vormAy9yNKoLQ6yHsEldX) | 2:12 | 2023-09-22 | 2023-10-28 |
 | [pity](https://open.spotify.com/track/63PjD6QWNa5wqft8UIbQHV) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [pity](https://open.spotify.com/album/1MxwPm5Vv9aWl7J3wNI7Sk) | 2:59 | 2023-11-17 |  |
 | [Plague Dogs](https://open.spotify.com/track/6VPkaVBAQsgJHSiZypAgmk) | [The Rural Alberta Advantage](https://open.spotify.com/artist/0v6gOfGBclTSGu6agfXb23) | [Plague Dogs](https://open.spotify.com/album/0cXG2AYKEnl44K1vVFLU8W) | 4:11 | 2023-02-10 | 2023-04-09 |
-| [Plaster Girl](https://open.spotify.com/track/4WJJ5Klv5EgxXpw7Kl7Vdt) | [Thermal](https://open.spotify.com/artist/0rXfVyHv2j4AaWRvhM44KS) | [Plaster Girl](https://open.spotify.com/album/7pbvS6lwjSmn48GlPUim2H) | 4:40 | 2023-10-27 |  |
+| [Plaster Girl](https://open.spotify.com/track/4WJJ5Klv5EgxXpw7Kl7Vdt) | [Thermal](https://open.spotify.com/artist/0rXfVyHv2j4AaWRvhM44KS) | [Plaster Girl](https://open.spotify.com/album/7pbvS6lwjSmn48GlPUim2H) | 4:40 | 2023-10-27 | 2023-12-23 |
 | [Poison Pill](https://open.spotify.com/track/7u0uisz8AVu8vTeEYyq4XM) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Poison Pill](https://open.spotify.com/album/3BGvaxQ6xxWxTM9sJYTvca) | 3:17 | 2023-03-24 | 2023-04-09 |
 | [Postcards](https://open.spotify.com/track/3c7NWOqdIkk0stoYxYl1uG) | [Wayley](https://open.spotify.com/artist/4veqtAYLEOwcd5osGcwmE3), [Kadeema](https://open.spotify.com/artist/4uPj13l69hBlVVAs5OjQXw) | [Postcards](https://open.spotify.com/album/07M4xcrAyCfYxAwVdQUxHO) | 3:23 | 2023-02-10 | 2023-02-25 |
 | [Powers of Darkness](https://open.spotify.com/track/5XCvz2S2dJMq9srLw2Wy8r) | [Blood Ceremony](https://open.spotify.com/artist/2GCHfAuitdlOYPjRrgPhI6) | [The Old Ways Remain](https://open.spotify.com/album/6vEFCw8dNZdCCbHVQKLqzX) | 3:15 | 2023-05-05 | 2023-08-05 |
@@ -596,6 +597,7 @@
 | [SUNDAY](https://open.spotify.com/track/4StWXtY1kRDuzpl5FZQTae) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [SUNDAY](https://open.spotify.com/album/5Bv3n1noEkwI5QbRItwuTf) | 2:04 | 2023-07-07 | 2023-09-09 |
 | [Sunday Morning](https://open.spotify.com/track/5yQzJdnsXyNWth0aYmPx09) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Searching for Strawberries: The Story of Jongo Bongo](https://open.spotify.com/album/5aXiqI4OTXKOIsjji5aVxF) | 2:37 | 2023-07-07 | 2023-09-09 |
 | [Sunset Silhouette](https://open.spotify.com/track/2a9Fg4HlQY1MPUclskrwWW) | [L.O.E](https://open.spotify.com/artist/1ZiVFdUAwVyLbSdESEL1Zb) | [Sunset Silhouette](https://open.spotify.com/album/22kW8gKVlgMgihws4Rhj6Y) | 3:48 | 2023-03-03 | 2023-05-06 |
+| [Supermodel Avalanches](https://open.spotify.com/track/3daLDEbCt1fvkS7POmwu2U) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below \(Bonus Edition\)](https://open.spotify.com/album/1bPTd5Ic6yHUGq5QZj2j2N) | 3:10 | 2023-12-22 |  |
 | [Superstitious](https://open.spotify.com/track/7AzYq6DgwxvCZ5geJV26mZ) | [Dallas](https://open.spotify.com/artist/4G7Ft324bPwyWC2v35sns8) | [Superstitious](https://open.spotify.com/album/7BUYbTf7xd7YeMcRVrHEGc) | 2:54 | 2023-02-24 | 2023-04-29 |
 | [Sure Enough](https://open.spotify.com/track/2RI2HBUx4Algf7PVTklzUM) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Sure Enough](https://open.spotify.com/album/1PjK7jnPD2B6EdhwQecC1u) | 2:51 | 2023-09-29 | 2023-11-04 |
 | [Swap Places](https://open.spotify.com/track/58AT3seTr9rPaHReoAeiaL) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Sleez](https://open.spotify.com/album/0itTV0hnENfrtJW6h5thET) | 2:37 | 2023-05-19 | 2023-08-26 |

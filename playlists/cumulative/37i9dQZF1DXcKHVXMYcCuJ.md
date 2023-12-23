@@ -4,7 +4,7 @@
 
 > Gotta catch 'em all.
 
-377 songs - 23 hr 35 min
+378 songs - 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Loser](https://open.spotify.com/track/5jJtTHIf1NMtYNhVVqXnjR) | [LOSER](https://open.spotify.com/artist/28erIPSPyu1d4BtolxQ624) | [Loser](https://open.spotify.com/album/0BrOQwhdwCktoB5NYlYFDu) | 2:31 | 2021-12-15 | 2022-07-25 |
 | [Losing My Touch](https://open.spotify.com/track/7t7yW5L2caQYdPWAAFPs4Q) | [October Drift](https://open.spotify.com/artist/3uP1cpcy1q0stG3utL7tZS) | [Forever Whatever](https://open.spotify.com/album/6THxCKuJ3IA3BC3Ib9XgxS) | 3:58 | 2021-12-15 | 2023-06-01 |
 | [Low](https://open.spotify.com/track/2Ydsp7oUtm3jPyx2U99uaJ) | [Gates](https://open.spotify.com/artist/1R9C48jnKgFN93otwSYnd6) | [Bloom and Breathe](https://open.spotify.com/album/0tDVIJZ1JbJpRSHf8IrW6f) | 4:07 | 2021-12-15 | 2022-11-18 |
+| [Make Tonight](https://open.spotify.com/track/63iO8MvYbHlGJXi6bAtTcs) | [Emanuel](https://open.spotify.com/artist/4uv4EEYdWrejczjqB8GGUO) | [Soundtrack to a Headrush](https://open.spotify.com/album/6LXxBtliDYRPAT81BoIP7J) | 3:44 | 2023-12-06 |  |
 | [Make Tonight](https://open.spotify.com/track/7afP5szYNk5vMxYv81bUMu) | [Emanuel](https://open.spotify.com/artist/4uv4EEYdWrejczjqB8GGUO) | [Soundtrack to a Headrush](https://open.spotify.com/album/0KQXjbh2Yh3pfoGpHrXyml) | 3:44 | 2022-12-16 | 2023-10-24 |
 | [Make Yourself](https://open.spotify.com/track/7GkgOD5KQtoOFXYyY9mySX) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:03 | 2022-11-02 | 2023-01-26 |
 | [McFearless](https://open.spotify.com/track/0obzF8a4DaF3XrlOB16xlx) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Because Of The Times](https://open.spotify.com/album/5CiZOqd3iF6p2PsqBjljat) | 3:09 | 2021-12-15 | 2022-01-04 |
@@ -338,7 +339,7 @@
 | [Tough Girl](https://open.spotify.com/track/12JsAoOHdBqGZgVES0OOoL) | [Open Hand](https://open.spotify.com/artist/5WFtLbVyCyRkHkwxePRrF9) | [You and Me](https://open.spotify.com/album/6FJ9moP5iouB28Z2JKtmbI) | 2:54 | 2021-12-15 | 2022-09-12 |
 | [Tough Girl](https://open.spotify.com/track/2XBOugZ298NJ92hNwNOMES) | [Open Hand](https://open.spotify.com/artist/5WFtLbVyCyRkHkwxePRrF9) | [You And Me](https://open.spotify.com/album/6xepPkXwLDvgP52GmsPaKu) | 2:54 | 2022-10-11 | 2023-05-18 |
 | [Trans Am Sunday](https://open.spotify.com/track/72pKKGbVrb8tk0jpf1OCsF) | [Hobosexual](https://open.spotify.com/artist/2iR3PsmigYfqj8EdkIwsJK) | [Monolith](https://open.spotify.com/album/4HQRSjBvCGeyKlxfVl5XyS) | 5:53 | 2021-12-15 | 2023-09-13 |
-| [Transatlantic Foe](https://open.spotify.com/track/6dryGcKWMxgy3cFtzsoZkC) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 3:37 | 2021-12-15 |  |
+| [Transatlantic Foe](https://open.spotify.com/track/6dryGcKWMxgy3cFtzsoZkC) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 3:37 | 2021-12-15 | 2023-12-23 |
 | [Travel By Telephone](https://open.spotify.com/track/0FgSTUS1Dbw3D1JUsWUh7E) | [Rival Schools](https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz) | [United By Fate](https://open.spotify.com/album/37TcohvwaAgxmhgqtf7rxC) | 2:47 | 2022-09-21 | 2022-12-12 |
 | [Treats](https://open.spotify.com/track/0DRtZSDTSfhWVp7dMqzPSw) | [INHEAVEN](https://open.spotify.com/artist/2SgWbTR6U3CI3BBecWaUcy) | [Inheaven](https://open.spotify.com/album/2GpKuAulsb6KIMHZ24YkYP) | 3:34 | 2021-12-15 | 2022-07-27 |
 | [Trick of the Light](https://open.spotify.com/track/5XT1xMhjkezsYacZ6nwhGm) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [The Day's War \(Victory Edition\)](https://open.spotify.com/album/4Wj1eRz1I5uHtDpTOmuDCh) | 3:38 | 2021-12-15 | 2023-01-26 |

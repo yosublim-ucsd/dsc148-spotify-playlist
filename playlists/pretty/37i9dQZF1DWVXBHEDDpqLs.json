@@ -1,12 +1,12 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 30578,
+  "num_followers": 30580,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTRkZTRlNDQxNDc4NjRiODc4MDJmZTE0YzdiNDViMWI5NTc3OTEy",
+  "snapshot_id": "MCxiNTc3Yjc3NTVmOGM1YTNhMTNiY2E5YzYyMDAxMWJhODYyYjgyZWNi",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Second Line",
+        "url": "https://open.spotify.com/album/4ZZPaImVERqe30KPt1EOHv"
+      },
+      "artists": [
+        {
+          "name": "Dawn Richard",
+          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
+        }
+      ],
+      "duration_ms": 273386,
+      "name": "Bussifame",
+      "url": "https://open.spotify.com/track/3bQWyx3JDz53yP2uij16Jj"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Betty Bussit (feat. Soaky Siren & Tank and The Bangas)",
         "url": "https://open.spotify.com/album/6ewbAPvSTZ7a9LGa9yQw6K"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 176346,
       "name": "Betty Bussit (feat. Soaky Siren & Tank and The Bangas)",
       "url": "https://open.spotify.com/track/0x754YEyX1foz1WkbRF4uY"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Second Line",
-        "url": "https://open.spotify.com/album/4ZZPaImVERqe30KPt1EOHv"
-      },
-      "artists": [
-        {
-          "name": "Dawn Richard",
-          "url": "https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9"
-        }
-      ],
-      "duration_ms": 273386,
-      "name": "Bussifame",
-      "url": "https://open.spotify.com/track/3bQWyx3JDz53yP2uij16Jj"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -911,26 +911,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "U Nasty",
-        "url": "https://open.spotify.com/album/4u4e0Wr2F95vEQElrmpw8a"
-      },
-      "artists": [
-        {
-          "name": "Black Caviar",
-          "url": "https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6"
-        },
-        {
-          "name": "UNIIQU3",
-          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
-        }
-      ],
-      "duration_ms": 191150,
-      "name": "U Nasty",
-      "url": "https://open.spotify.com/track/7bsxDwNl5lYXOWU5U3jvQw"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Banter",
         "url": "https://open.spotify.com/album/2CrWMemgMF8qnp8r2dg814"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 150000,
       "name": "Banter - Sak Noel, Franklin Dam Remix",
       "url": "https://open.spotify.com/track/6BcgLpYUrgWdupgoq3pNIQ"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "U Nasty",
+        "url": "https://open.spotify.com/album/4u4e0Wr2F95vEQElrmpw8a"
+      },
+      "artists": [
+        {
+          "name": "Black Caviar",
+          "url": "https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6"
+        },
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        }
+      ],
+      "duration_ms": 191150,
+      "name": "U Nasty",
+      "url": "https://open.spotify.com/track/7bsxDwNl5lYXOWU5U3jvQw"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Nzinga",
-        "url": "https://open.spotify.com/album/4dhFtoUePedlReYxPgrMFY"
-      },
-      "artists": [
-        {
-          "name": "Karen Nyame KG",
-          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
-        },
-        {
-          "name": "Toya Delazy",
-          "url": "https://open.spotify.com/artist/4I0iGnuW9JgdWr6WsFIHj5"
-        }
-      ],
-      "duration_ms": 157870,
-      "name": "Nzinga",
-      "url": "https://open.spotify.com/track/1RzyaDFK6Rz9iufIZISW5n"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "I Miss The Club",
         "url": "https://open.spotify.com/album/4xOt8HyBopCBsYZAda8u83"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 176640,
       "name": "I Miss The Club",
       "url": "https://open.spotify.com/track/1kGXL1YKRNgmTM1niMUsyO"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Nzinga",
+        "url": "https://open.spotify.com/album/4dhFtoUePedlReYxPgrMFY"
+      },
+      "artists": [
+        {
+          "name": "Karen Nyame KG",
+          "url": "https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz"
+        },
+        {
+          "name": "Toya Delazy",
+          "url": "https://open.spotify.com/artist/4I0iGnuW9JgdWr6WsFIHj5"
+        }
+      ],
+      "duration_ms": 157870,
+      "name": "Nzinga",
+      "url": "https://open.spotify.com/track/1RzyaDFK6Rz9iufIZISW5n"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1715,26 +1715,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "BADBOI",
-        "url": "https://open.spotify.com/album/1vpixBHNGprGXBkLsQofuN"
-      },
-      "artists": [
-        {
-          "name": "BRUX",
-          "url": "https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY"
-        },
-        {
-          "name": "Pat Lok",
-          "url": "https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh"
-        }
-      ],
-      "duration_ms": 196535,
-      "name": "BADBOI",
-      "url": "https://open.spotify.com/track/1pKk7nVh4fGjI8k6t20PmX"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Wait",
         "url": "https://open.spotify.com/album/7giCBxYXyImrT0kjO9AI9u"
       },
@@ -1751,6 +1731,26 @@
       "duration_ms": 203636,
       "name": "Wait",
       "url": "https://open.spotify.com/track/7Ccqeybj3TfDrc99XSmGk6"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "BADBOI",
+        "url": "https://open.spotify.com/album/1vpixBHNGprGXBkLsQofuN"
+      },
+      "artists": [
+        {
+          "name": "BRUX",
+          "url": "https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY"
+        },
+        {
+          "name": "Pat Lok",
+          "url": "https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh"
+        }
+      ],
+      "duration_ms": 196535,
+      "name": "BADBOI",
+      "url": "https://open.spotify.com/track/1pKk7nVh4fGjI8k6t20PmX"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Alone Again",
-        "url": "https://open.spotify.com/album/14RQ2XILeCYCowPJgwdvfh"
-      },
-      "artists": [
-        {
-          "name": "Funky Craig",
-          "url": "https://open.spotify.com/artist/2yKm5l8fjv7wjP4xFbVbjE"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "Alone Again",
-      "url": "https://open.spotify.com/track/6dyYYx3awmMWPYvscFZkEU"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "HARIK\u0112N",
         "url": "https://open.spotify.com/album/2esoQJyT3OTzWDw6yUXYO3"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 160140,
       "name": "HARIK\u0112N",
       "url": "https://open.spotify.com/track/3yglfaWdEzm0KMS7K7MMTH"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Alone Again",
+        "url": "https://open.spotify.com/album/14RQ2XILeCYCowPJgwdvfh"
+      },
+      "artists": [
+        {
+          "name": "Funky Craig",
+          "url": "https://open.spotify.com/artist/2yKm5l8fjv7wjP4xFbVbjE"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Alone Again",
+      "url": "https://open.spotify.com/track/6dyYYx3awmMWPYvscFZkEU"
     },
     {
       "added_at": "2023-10-06 04:00:00",

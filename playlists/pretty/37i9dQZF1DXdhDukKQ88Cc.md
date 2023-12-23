@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > dk rap der holder det 100 / Omar / Baloosh 🚨
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,383 likes - 63 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,390 likes - 63 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 62 | [Draco](https://open.spotify.com/track/5G02IArmAsqcU3yTdLxZRN) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [Draco](https://open.spotify.com/album/10FjouEsDArE1pce1q6j7v) | 2:13 |
 | 63 | [Internazionale \(feat\. Magzim\)](https://open.spotify.com/track/4ymwixcQXSHyAY5Af4bvr8) | [Emil Stabil](https://open.spotify.com/artist/2toxhc2iSbFHWgy3VMnqR7), [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [Internazionale \(feat\. Magzim\)](https://open.spotify.com/album/3YON54IWdqFWos7oNwoiiG) | 2:34 |
 
-Snapshot ID: `MCw2ZGU1N2ZlNmExNzQzZGY1ZTE1N2YxMmE3ZmQ4NTY0ZGE4OGYwY2Zh`
+Snapshot ID: `MCwxZTYzNzkwYmY1MDUwYzU2NDY2YTNjYWMwYmQwM2QwMzMxZmRlNjhk`

@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Kirnbauer, Joaquina Mertz, María Centeno & Noa Sainz.
 
-566 songs - 1 day 8 hr 14 min
+567 songs - 1 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,13 +149,14 @@
 | [Desciende el Norte](https://open.spotify.com/track/6BRU6Lgo7D6FEXwYT5RJWv) | [Amanda Pujó](https://open.spotify.com/artist/54vFZr8ppOc3Gq2LrcboZC), [Nanocristal](https://open.spotify.com/artist/63Wff8jItaKpHdl5Obbi2K) | [Nuevos Silencios](https://open.spotify.com/album/0HsZpQ6L8DJgSUFNSazZoG) | 3:45 | 2022-01-21 | 2022-05-19 |
 | [Destreza](https://open.spotify.com/track/1zlmsJWuCd335XoZASXQLs) | [Agua Florida](https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq) | [Destreza](https://open.spotify.com/album/0q1QjCaEGQJA3zUFIEpoKN) | 3:38 | 2022-06-03 | 2022-06-18 |
 | [Desvelo](https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Desvelo](https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI) | 4:34 | 2022-03-09 | 2022-07-28 |
-| [Detonación \- Remix](https://open.spotify.com/track/0rZwPrDw6xcWdGTSvsbLYA) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Detonación \(Remix\)](https://open.spotify.com/album/5cFYndbz33WMXaEeE3JFGx) | 3:52 | 2022-08-26 |  |
+| [Detonación \- Remix](https://open.spotify.com/track/0rZwPrDw6xcWdGTSvsbLYA) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Detonación \(Remix\)](https://open.spotify.com/album/5cFYndbz33WMXaEeE3JFGx) | 3:52 | 2022-08-26 | 2023-12-23 |
 | [Diabla](https://open.spotify.com/track/2uqXBgxoOsYMkNcJzLtJUw) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Diabla](https://open.spotify.com/album/4Dc5yBqil6itL5cVBQsFQE) | 2:51 | 2022-01-21 | 2022-07-27 |
 | [DIAS DE PAJA](https://open.spotify.com/track/78GT2hT82AWRJq2kwXJAI5) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [DIAS DE PAJA](https://open.spotify.com/album/1j1tnRVfGpSzgjiOLE1dtX) | 3:53 | 2022-01-14 | 2022-07-29 |
 | [Dicen](https://open.spotify.com/track/5Xe5N5HvbXvFYe4I87aQa3) | [Rocío Gal](https://open.spotify.com/artist/4AfambG94sVb235ZxRKGWL) | [Inventario de Ecos](https://open.spotify.com/album/6qnpV0UwXRnGcUOGeRToCw) | 3:09 | 2022-05-06 | 2022-07-26 |
 | [Diferente](https://open.spotify.com/track/3yD8ieuHLGv0MGKTYa1OJo) | [Renata Di Croce](https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr) | [Diferente](https://open.spotify.com/album/3K3zNoJFeTu1Sca0U8whGF) | 3:54 | 2022-04-20 | 2022-07-02 |
 | [Diré tu nombre](https://open.spotify.com/track/6cf6NHFQPDDhkxQX5j96J8) | [Agua Florida](https://open.spotify.com/artist/6OhBvIgI7E71kveV1vItnq) | [Diré tu nombre](https://open.spotify.com/album/04ABlbA8bASVGdjfq1aNwr) | 2:59 | 2022-06-03 | 2022-07-28 |
 | [DISFRAZ](https://open.spotify.com/track/2d1Ywb69sE0UhOIyekrN9f) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s), [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [DISFRAZ](https://open.spotify.com/album/0aNHmrgKLB5pGoj1bZ16RQ) | 2:52 | 2022-10-28 | 2023-08-19 |
+| [DNI](https://open.spotify.com/track/6XbgaRsf6hnl4dQJOtktrU) | [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [UN NÚMERO](https://open.spotify.com/album/2zh0d8IFJfVvUTWnGlW1up) | 1:43 | 2023-12-15 |  |
 | [DNI](https://open.spotify.com/track/7pm3ArAgPXyT5kgk0RYLpW) | [LUPE](https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j) | [UN NÚMERO](https://open.spotify.com/album/5q6ysT1TcmswkV4c86d2bI) | 1:43 | 2022-01-21 | 2023-10-24 |
 | [Do Not Disturb](https://open.spotify.com/track/57NTX2X49uwDouWhoxXXhl) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv) | [Do Not Disturb](https://open.spotify.com/album/0tHAFovt5oYlIaykidO1BV) | 1:26 | 2023-07-14 | 2023-08-19 |
 | [Dormir Contigo](https://open.spotify.com/track/4lckjigNyvJ3IY54d6Qi0I) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Dormir Contigo](https://open.spotify.com/album/59bouilTnKOb4R2VctA4D8) | 3:24 | 2022-01-14 | 2023-06-10 |

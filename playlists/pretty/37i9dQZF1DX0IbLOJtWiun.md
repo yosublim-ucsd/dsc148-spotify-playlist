@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IbLOJtWiun.md) - [plain]
 | 6 | [Start From The Dark](https://open.spotify.com/track/0MXqBHKxoZj3yD2ebJN7tn) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [Start From The Dark](https://open.spotify.com/album/0A6mpWlW6Io0qf2tB5y8qE) | 4:12 |
 | 7 | [Without A Fight](https://open.spotify.com/track/7hH17WLxQlXuWgtmbLBURa) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [Every Man For Himself \(Expanded Edition\)](https://open.spotify.com/album/6Z4FW5yorog5BtKsptAd47) | 3:20 |
 | 8 | [Believe](https://open.spotify.com/track/3lMiBDoKSRJfSrP6mLqGut) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [We Are Not Alone](https://open.spotify.com/album/39FF5RewRO5F3OoNlWSQik) | 3:18 |
-| 9 | [Unstoppable](https://open.spotify.com/track/6YsqtuCZ2lvfrWXpCXMUAn) | [Charm City Devils](https://open.spotify.com/artist/6oGScNAdDsfnfY0N4y0Zls) | [Sins](https://open.spotify.com/album/4LbfY5lYoGoXKRwIWIZrY3) | 3:20 |
+| 9 | [Unstoppable](https://open.spotify.com/track/628JBaLVW73RWhGCLw6cH3) | [Charm City Devils](https://open.spotify.com/artist/6oGScNAdDsfnfY0N4y0Zls) | [Sins](https://open.spotify.com/album/0WUNi8zh16ZzE4eGYmHtCo) | 3:20 |
 | 10 | [Best I Can](https://open.spotify.com/track/03h0HCkZ4LLwDJtnBuRBOk) | [Art Of Dying](https://open.spotify.com/artist/28DlNBW2UlEVVgTuCcYtTe) | [Vices And Virtues](https://open.spotify.com/album/1Mjuv5UjTnJrDA9bR0nfMN) | 5:03 |
 | 11 | [Adrenaline](https://open.spotify.com/track/5oJrV0mGkw9dilk96X3W0c) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Amaryllis](https://open.spotify.com/album/2WvIDc4wdKshyFh2EzLAs0) | 3:26 |
 | 12 | [I'll Fight](https://open.spotify.com/track/5SYb42keVyr5S9smozZRWl) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [Baptized \(Deluxe Version\)](https://open.spotify.com/album/6UTadUeCxnizkSKAS1VHs4) | 3:00 |
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IbLOJtWiun.md) - [plain]
 | 19 | [In My Blood](https://open.spotify.com/track/2iIDpuiFj86WKpK6eKyzTP) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Between the Devil & the Deep Blue Sea \(Special Edition\)](https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H) | 3:47 |
 | 20 | [Here's to Us](https://open.spotify.com/track/0a5UnIvDUBzqwUduJsouRy) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [The Strange Case of..\. \(Deluxe\)](https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2) | 2:57 |
 
-Snapshot ID: `MCxiNzk3OGU5MjI4YzIwNTU4NzQxN2QzNGMzZWQzNzdjNDI1YjQxM2Zl`
+Snapshot ID: `MCxjYzY1YmE2ZjAxZWQ0ZjExNmM1NWFiNGJhZmZiMWM4MTc3YTExZWRk`

@@ -4,7 +4,7 @@
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover: <a href="spotify:artist:4u2tnfiRrpWOEdC14Vg6d8">Bobbi Storm</a>
 
-400 songs - 1 day 10 hr 43 min
+401 songs - 1 day 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [All I Need \- Live](https://open.spotify.com/track/4v1kWCbf642osv9iuo3Rt6) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Anthems & Glory \(Live\)](https://open.spotify.com/album/51bpcxMhkM5JGtJdVlQUV0) | 8:06 | 2022-02-18 | 2022-06-11 |
 | [All in Your Hands](https://open.spotify.com/track/4u841f1ewKUqDUWdjIoeSf) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [All in Your Hands](https://open.spotify.com/album/5jntu2u3T6W0fvlB7SMto2) | 4:35 | 2022-03-04 | 2022-05-07 |
 | [All Of My Help \- Live](https://open.spotify.com/track/5v15knLpGP0gV5vHUemx1R) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM) | [Breakthrough: The Exodus \(Live\)](https://open.spotify.com/album/5l8UFWanHTPYfWXXJhIYdZ) | 8:38 | 2022-07-01 | 2023-06-24 |
-| [All of the Glory \- Radio Edit](https://open.spotify.com/track/3vT51y9jySDGf4xGKx6XHE) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [All of the Glory \(Radio Edit\)](https://open.spotify.com/album/3IgDiA4bnDEceIX5QdFXra) | 3:56 | 2023-05-12 |  |
+| [All of the Glory \- Radio Edit](https://open.spotify.com/track/3vT51y9jySDGf4xGKx6XHE) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [All of the Glory \(Radio Edit\)](https://open.spotify.com/album/3IgDiA4bnDEceIX5QdFXra) | 3:56 | 2023-05-12 | 2023-12-23 |
+| [All of the Glory \- Radio Edit](https://open.spotify.com/track/7gzDVXHFZ1IccYjjZFZBNB) | [Shirley Caesar](https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R) | [All of the Glory \(Radio Edit\)](https://open.spotify.com/album/3xzkzfAQ95xxY7N0W81Cel) | 3:56 | 2023-12-15 |  |
 | [All the Time \(Thinking Bout Me\)](https://open.spotify.com/track/4ebtGL3djv4q0hZUDY3ETh) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9), [Marcus Hodge](https://open.spotify.com/artist/4zp9HZh3LJ2K6qN5y4tkqi), [B SLADE](https://open.spotify.com/artist/1vXFOrqCxtBKdLaJqjLqOy), [1kphew](https://open.spotify.com/artist/3MQ4t2qrxZwxZbcp76jXAt) | [The Fallen Movie Soundtrack](https://open.spotify.com/album/11tQtmqsmUWPi2OkIXcVGO) | 2:58 | 2022-07-01 | 2023-07-01 |
 | [All Things](https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [All Things](https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9) | 3:09 | 2023-05-05 | 2023-08-26 |
 | [All Things Working](https://open.spotify.com/track/3Lr6aWrd9Hrdv4u4ruifL4) | [Josh Copeland](https://open.spotify.com/artist/03g32kjZ1CsP35h9HYPesz) | [All Things Working](https://open.spotify.com/album/0Rm1QskYW7oKKCZNKS0qLm) | 6:30 | 2022-02-18 | 2022-06-25 |

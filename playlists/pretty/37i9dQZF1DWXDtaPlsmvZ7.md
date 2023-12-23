@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 
 > A mover el cucu con estas cadenciosas versiones cumbiatizadas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,387 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,419 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 65 | [Reggaeton Lento](https://open.spotify.com/track/5pT4ZI8pghpB294iQOds0E) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn) | [Lemonchamp](https://open.spotify.com/album/4Ie3Z2Ss3MPXX0OVjAnT9y) | 2:36 |
 | 66 | [Despacito](https://open.spotify.com/track/4MJFHjrzeFsia49jrsh2lu) | [Nuevo Klan](https://open.spotify.com/artist/6wwRGPHUmHBGYbyHnBa50u) | [2017 \(\#Veintediecisiete\)](https://open.spotify.com/album/6cOefEIxlLxmiK3oz0OypE) | 4:38 |
 | 67 | [Puntos Suspensivos](https://open.spotify.com/track/2ySUUTXVJkPqOfN2jmPeAW) | [Latam Sonora](https://open.spotify.com/artist/4AxOu00BxKnsEKsDf4lfpa) | [Puntos Suspensivos](https://open.spotify.com/album/0QyB4CmC5FdWCtdJiZ9h3K) | 2:50 |
-| 68 | [¿Por Qué Te Vas?](https://open.spotify.com/track/5MyvrPjiTEq8KgJWFfzT9y) | [Elidian](https://open.spotify.com/artist/1cmdGf7H8WvP2EImi02Vz4) | [¿Por qué Te Vas?](https://open.spotify.com/album/7IjO1vAxpTqnlKmzDcb01o) | 3:35 |
-| 69 | [Ya No Tiene Novio \- Version Cumbia](https://open.spotify.com/track/2akbizyZrFqGzUZzSUQiVq) | [Otto Bunge](https://open.spotify.com/artist/52B23cu0u8HfuhNLQIhtZn), [Cande Grau](https://open.spotify.com/artist/6HxOHuLKJXWfA1txQu0A1o), [Agu Cartier](https://open.spotify.com/artist/4fqtP4zl3FiAwzrmPUInbW) | [Ya No Tiene Novio \(Version Cumbia\)](https://open.spotify.com/album/6Ke6vYnNX8xsOHiLKl9m77) | 3:00 |
+| 68 | [Felices Los 4 \- Version Cumbia](https://open.spotify.com/track/70VKTITzq3LkUUMmWFrZ8l) | [Alex Dover](https://open.spotify.com/artist/1mZ4z5FjhzO1nEVCsl3wUz), [Chule](https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe) | [Felices Los 4 \(Version Cumbia\)](https://open.spotify.com/album/735ID4Ax2DldOpClH686PW) | 2:48 |
+| 69 | [¿Por Qué Te Vas?](https://open.spotify.com/track/5MyvrPjiTEq8KgJWFfzT9y) | [Elidian](https://open.spotify.com/artist/1cmdGf7H8WvP2EImi02Vz4) | [¿Por qué Te Vas?](https://open.spotify.com/album/7IjO1vAxpTqnlKmzDcb01o) | 3:35 |
 | 70 | [No Pares Hasta Tener lo Suficiente \(Don't Stop 'til You Get Enough\)](https://open.spotify.com/track/57xHD2Q6xWgwr60WzB72Uw) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Los Miticos del Ritmo](https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6) | 2:54 |
-| 71 | [Felices Los 4 \- Version Cumbia](https://open.spotify.com/track/70VKTITzq3LkUUMmWFrZ8l) | [Alex Dover](https://open.spotify.com/artist/1mZ4z5FjhzO1nEVCsl3wUz), [Chule](https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe) | [Felices Los 4 \(Version Cumbia\)](https://open.spotify.com/album/735ID4Ax2DldOpClH686PW) | 2:48 |
+| 71 | [Ya No Tiene Novio \- Version Cumbia](https://open.spotify.com/track/2akbizyZrFqGzUZzSUQiVq) | [Otto Bunge](https://open.spotify.com/artist/52B23cu0u8HfuhNLQIhtZn), [Cande Grau](https://open.spotify.com/artist/6HxOHuLKJXWfA1txQu0A1o), [Agu Cartier](https://open.spotify.com/artist/4fqtP4zl3FiAwzrmPUInbW) | [Ya No Tiene Novio \(Version Cumbia\)](https://open.spotify.com/album/6Ke6vYnNX8xsOHiLKl9m77) | 3:00 |
 | 72 | [Procura](https://open.spotify.com/track/4EhJSTlHXyP5dbz1CaZZmU) | [Cristian Jacobo](https://open.spotify.com/artist/02HnByHOPN5e2RXNHZ9HhW) | [Procura](https://open.spotify.com/album/0M0rRbZMiMlwEyXn06zJPy) | 4:32 |
 | 73 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/5rb3whySuw8zcp0HtUVeEO) | [Musicalísimo Fuego Indio](https://open.spotify.com/artist/0rH58cEKLQvObKk2mR7rZN) | [Retro Con](https://open.spotify.com/album/3lbfNpHzH7PMTgmwYJpwHt) | 3:25 |
-| 74 | [Clavado en un Bar](https://open.spotify.com/track/41OhLBVZ1vhQSbw7WDfcAq) | [El Combo Loco](https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn) | [El Combo Loco](https://open.spotify.com/album/37AK87c1LWBvaSNoBI0jNO) | 3:21 |
-| 75 | [Tápenme Porque Me Encuero](https://open.spotify.com/track/0vHdWjSdo7FgtbxJtQJmUw) | [El Conjunto Nueva Ola](https://open.spotify.com/artist/5FPtuYKcBuI5ot70T8c8U1) | [Mitotem](https://open.spotify.com/album/4uKx91dx0xrW3JYhxKTb1e) | 3:45 |
+| 74 | [I Feel It Coming \- Version Cumbia](https://open.spotify.com/track/76zoc2IdQM1s4bH5juv5zC) | [Alex Dover](https://open.spotify.com/artist/1mZ4z5FjhzO1nEVCsl3wUz), [Rochi Degrossi](https://open.spotify.com/artist/2uqGbV16oT3LW9wDoT1iMh) | [I Feel It Coming \(Version Cumbia\)](https://open.spotify.com/album/6l2TFbfJURhQkuQoZeTZ86) | 2:46 |
+| 75 | [Clavado en un Bar](https://open.spotify.com/track/41OhLBVZ1vhQSbw7WDfcAq) | [El Combo Loco](https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn) | [El Combo Loco](https://open.spotify.com/album/37AK87c1LWBvaSNoBI0jNO) | 3:21 |
 
-Snapshot ID: `MCxlMTI2Yjg4OTg0ODgwN2QyN2IyYzVhYTZjODUwOWZiMzIzYzQ3MmNi`
+Snapshot ID: `MCxhZmMzYzAwMWVhYWEzNGE5MmYzYTEyMWE3YTQ3ZjlkOWFkMDk4MjUy`

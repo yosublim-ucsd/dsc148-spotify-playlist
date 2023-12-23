@@ -6,30 +6,106 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzNzY5NDAsMDAwMDAwMDBiYWRjZDEzNjU2MzI1YzBmODViYTc1MmY1MGUzNTdiNQ==",
+  "snapshot_id": "MjgzODcwMjAsMDAwMDAwMDAzY2EyYzAyNGYxYmJiZTI0MzdmZTZiNmUwNTliZWNlNA==",
   "tracks": [
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/3YOMkR4iUo3bmEIApbWmsa"
+        "name": "Ol Dirty Kudda (Shoalin Lives)",
+        "url": "https://open.spotify.com/album/0jkbWrF2PJVIMg6IhASgpu"
       },
       "artists": [
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "King Kudda",
+          "url": "https://open.spotify.com/artist/6Bw6qzdgvMeOOwVdWbOOo1"
         },
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
         }
       ],
-      "duration_ms": 180869,
-      "name": "Everybody (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/0mAf9TNr3a2jIHsq2PIagH"
+      "duration_ms": 206239,
+      "name": "Lived It And Done It",
+      "url": "https://open.spotify.com/track/3KIoxkuO1k4HDOSoTzHdcH"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Ol Dirty Kudda (Shoalin Lives)",
+        "url": "https://open.spotify.com/album/0jkbWrF2PJVIMg6IhASgpu"
+      },
+      "artists": [
+        {
+          "name": "King Kudda",
+          "url": "https://open.spotify.com/artist/6Bw6qzdgvMeOOwVdWbOOo1"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "BadIdea",
+          "url": "https://open.spotify.com/artist/3uWUg2Vzq5geOgji7dUyjY"
+        }
+      ],
+      "duration_ms": 207052,
+      "name": "Kings Of The League",
+      "url": "https://open.spotify.com/track/50ld6ErqnAjy89SfVta0xu"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Very Important Remixes",
+        "url": "https://open.spotify.com/album/0OhK6qDpun9YzV56dv2e1x"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Neon Trees",
+          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
+        },
+        {
+          "name": "Misha K",
+          "url": "https://open.spotify.com/artist/3py4xCfrW0MbgZEQXHp65q"
+        }
+      ],
+      "duration_ms": 178834,
+      "name": "Dreamteam (Galantis & Misha K VIP Mix)",
+      "url": "https://open.spotify.com/track/3nyYBC6mZt85am4pnWwl4x"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Shade of Blue",
+        "url": "https://open.spotify.com/album/7jPYGQ3pZ1Qq1qazTqOzP9"
+      },
+      "artists": [
+        {
+          "name": "T\u00f3mas R. Einarsson",
+          "url": "https://open.spotify.com/artist/1biHrpUQMF2IIsnvipp9Cv"
+        },
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        },
+        {
+          "name": "Kristj\u00e1n Magn\u00fasson",
+          "url": "https://open.spotify.com/artist/5xhra5T3Yva7Q0Y4d1L6d9"
+        },
+        {
+          "name": "Sveinn \u00d3li J\u00f3nsson",
+          "url": "https://open.spotify.com/artist/6fQMnY3UqEJTWsGzSpV2OB"
+        }
+      ],
+      "duration_ms": 416174,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/3JVt92ZMXrDlscUbVneHu2"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "MiNt cHoCoLaTe (feat. Conway The Machine)",
         "url": "https://open.spotify.com/album/0xz6nwwvcqjXlzXZunvMUA"
@@ -57,7 +133,7 @@
       "url": "https://open.spotify.com/track/6Xa3ZCamaDFWBmxOFoR2n8"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "Mr. McAdams",
         "url": "https://open.spotify.com/album/3tH2swD8wrxdLNNdCZXPuV"
@@ -73,7 +149,7 @@
       "url": "https://open.spotify.com/track/5FiQzAsVrrzuPGdGZmFLtO"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "Bompton King",
         "url": "https://open.spotify.com/album/5JcuCQYe7nKmotYeUVcYDd"
@@ -93,27 +169,7 @@
       "url": "https://open.spotify.com/track/0D3Myb8AY4siH5migv1lDg"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Power of the Saber Blade",
-        "url": "https://open.spotify.com/album/6NDF3L8GU0Am1cM9kQFN2E"
-      },
-      "artists": [
-        {
-          "name": "DragonForce",
-          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
-        },
-        {
-          "name": "Beat Saber",
-          "url": "https://open.spotify.com/artist/0omOtYsniDOsmu11EWcnyp"
-        }
-      ],
-      "duration_ms": 241066,
-      "name": "Power of the Saber Blade",
-      "url": "https://open.spotify.com/track/1rzLqwGDGEIaeLUCfTcYdi"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "RUN (Damian \"Jr. Gong\" Marley Version)",
         "url": "https://open.spotify.com/album/06kl5Xeo05QdbODQFWX4ZD"
@@ -133,7 +189,43 @@
       "url": "https://open.spotify.com/track/6OmaDOVCWQfy69DSayk9dZ"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Power of the Saber Blade",
+        "url": "https://open.spotify.com/album/6NDF3L8GU0Am1cM9kQFN2E"
+      },
+      "artists": [
+        {
+          "name": "DragonForce",
+          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
+        },
+        {
+          "name": "Beat Saber",
+          "url": "https://open.spotify.com/artist/0omOtYsniDOsmu11EWcnyp"
+        }
+      ],
+      "duration_ms": 241066,
+      "name": "Power of the Saber Blade",
+      "url": "https://open.spotify.com/track/1rzLqwGDGEIaeLUCfTcYdi"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Hackney Diamonds (Live Edition)",
+        "url": "https://open.spotify.com/album/5rFsKSgldStbYgO4CNygLn"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 334204,
+      "name": "Jumpin' Jack Flash - Live at Racket, NYC",
+      "url": "https://open.spotify.com/track/6WL4mM5lIeRryzX9wf8hgZ"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "What We're Up Against",
         "url": "https://open.spotify.com/album/3LxpLZIrctTM8oLFrSD3VG"
@@ -157,43 +249,7 @@
       "url": "https://open.spotify.com/track/7BfZXCDOxgbzeQnXJfzjDr"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Hackney Diamonds (Live Edition)",
-        "url": "https://open.spotify.com/album/5rFsKSgldStbYgO4CNygLn"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 334204,
-      "name": "Jumpin' Jack Flash - Live at Racket, NYC",
-      "url": "https://open.spotify.com/track/6WL4mM5lIeRryzX9wf8hgZ"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Cold Blues",
-        "url": "https://open.spotify.com/album/5tF0USGac3Q1uzKxRlRaCB"
-      },
-      "artists": [
-        {
-          "name": "Con-Crete",
-          "url": "https://open.spotify.com/artist/653FzE8oWvxI1EvIYX8dUz"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        }
-      ],
-      "duration_ms": 133439,
-      "name": "Cold Blues",
-      "url": "https://open.spotify.com/track/7GZuQd0akFReO6PnauEKIf"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "Sans valeurs",
         "url": "https://open.spotify.com/album/6nHSLuslrzpFh1jjQw3Rxt"
@@ -209,7 +265,7 @@
       "url": "https://open.spotify.com/track/0Gmd5KVTh5ZDkFswbvgajB"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "What're We Doing Here",
         "url": "https://open.spotify.com/album/0di1rlD8Afel1VLF06lRxK"
@@ -225,7 +281,7 @@
       "url": "https://open.spotify.com/track/23r4WNoHCVaLypbxeHMu8p"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "Rebel Diamonds",
         "url": "https://open.spotify.com/album/6B4kdT96eBQnigkNj8eqeN"
@@ -241,7 +297,7 @@
       "url": "https://open.spotify.com/track/29ZJZnAXJ28Bewit5RLRKx"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "I'm Sorry (ft. Lous and The Yakuza)",
         "url": "https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9"
@@ -261,7 +317,7 @@
       "url": "https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/0JpMBQwlcVjDNPigw2bM7E"
@@ -281,35 +337,7 @@
       "url": "https://open.spotify.com/track/28PMt9uzO7BGNp5bIaV3tq"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "MIXTAPE",
-        "url": "https://open.spotify.com/album/5ZVJeaPPCvFA7M1JWTSJC6"
-      },
-      "artists": [
-        {
-          "name": "Shortop",
-          "url": "https://open.spotify.com/artist/6eGTfjbspn52wvzNPC6Qz0"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Masta Killa",
-          "url": "https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh"
-        }
-      ],
-      "duration_ms": 353988,
-      "name": "Move Back",
-      "url": "https://open.spotify.com/track/6uetdGxAM7pLGfe3e8J5JP"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "Flying Objects (Extended Version)",
         "url": "https://open.spotify.com/album/5dZKoTH8rRl5DDqU5lmn3a"
@@ -341,23 +369,7 @@
       "url": "https://open.spotify.com/track/2Fy4jOsRb58vn9bgJw1TxA"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "CHRYSALIS",
-        "url": "https://open.spotify.com/album/4j6yMI3a0GsrrkkwgJpSIO"
-      },
-      "artists": [
-        {
-          "name": "Unusual Demont",
-          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
-        }
-      ],
-      "duration_ms": 173560,
-      "name": "COMPANY",
-      "url": "https://open.spotify.com/track/2ZAZvQc16b4vDiwJ9L5wfs"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "Life's a Sugar Pill",
         "url": "https://open.spotify.com/album/4RmqwBMr1KetAesVgG6w5s"
@@ -373,7 +385,23 @@
       "url": "https://open.spotify.com/track/4W83KRyGMfl9HeT4Hj9GkZ"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "CHRYSALIS",
+        "url": "https://open.spotify.com/album/4j6yMI3a0GsrrkkwgJpSIO"
+      },
+      "artists": [
+        {
+          "name": "Unusual Demont",
+          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
+        }
+      ],
+      "duration_ms": 173560,
+      "name": "COMPANY",
+      "url": "https://open.spotify.com/track/2ZAZvQc16b4vDiwJ9L5wfs"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "Schoenberg: Suite for Piano, Op. 25: VI. Gigue (Musical Moments)",
         "url": "https://open.spotify.com/album/76tMrjiiyTkRO0GyzEDVED"
@@ -393,7 +421,7 @@
       "url": "https://open.spotify.com/track/0wwReHfskijZp6CXo9PwAp"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "Feliz Navidad (Metal Version)",
         "url": "https://open.spotify.com/album/0oJsglUpQOb3imRXh3iMSa"
@@ -409,7 +437,7 @@
       "url": "https://open.spotify.com/track/6oZD9wB0TopUfxE4G8J0Nb"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "Carthage",
         "url": "https://open.spotify.com/album/5HVWGN85bLF31yI7YWe4xq"
@@ -433,7 +461,7 @@
       "url": "https://open.spotify.com/track/1t76vFG3TW5f4w1s8iWDz4"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "The Lunatics",
         "url": "https://open.spotify.com/album/3q0obPDiAQRptGg2UfutyR"
@@ -461,7 +489,7 @@
       "url": "https://open.spotify.com/track/1t6c6YcQeq9RQG8YlU4tXa"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "Out The Door",
         "url": "https://open.spotify.com/album/3QECMke3JUHn8JKuWTWVeV"
@@ -493,7 +521,7 @@
       "url": "https://open.spotify.com/track/0YODkdtR9nLeKV9DiTceKr"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "Facing The Sideways Rain",
         "url": "https://open.spotify.com/album/5HBMgTLkTcuqtbcdO9Oszx"
@@ -517,7 +545,7 @@
       "url": "https://open.spotify.com/track/6ERGlzfgM0WRpvgraiXbdU"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "One Word",
         "url": "https://open.spotify.com/album/3h0c2vU0ONQMFakvzGyqfe"
@@ -533,7 +561,7 @@
       "url": "https://open.spotify.com/track/6VQrJNCav7EZFWK5DwfGqc"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "Hybrides",
         "url": "https://open.spotify.com/album/34Nw8g1MJHkhjD5HMAACQL"
@@ -549,27 +577,7 @@
       "url": "https://open.spotify.com/track/6i7koINSdJql5VI3VJOG34"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Labios Mordidos (with KAROL G)",
-        "url": "https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Labios Mordidos (with KAROL G)",
-      "url": "https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "Tree House",
         "url": "https://open.spotify.com/album/191OQbivDSqVZV55R6adU5"
@@ -585,7 +593,7 @@
       "url": "https://open.spotify.com/track/2huPt3DZ81E48FRDOtFp9j"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "A Blu Christmas",
         "url": "https://open.spotify.com/album/6AJDlqB5YrSIzIAohGvPEH"
@@ -605,7 +613,7 @@
       "url": "https://open.spotify.com/track/5lfsM4DovGXNktCYi1e5pM"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "DIAMONDS & FREAKS (Instrumentals)",
         "url": "https://open.spotify.com/album/3UMOiCQYUwXsjmHwTjbgP2"

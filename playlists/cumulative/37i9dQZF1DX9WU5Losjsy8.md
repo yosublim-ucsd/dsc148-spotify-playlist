@@ -4,7 +4,7 @@
 
 > Skifoan und Hüttenabriss.
 
-101 songs - 5 hr 6 min
+102 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Auf dem Besen an den Tresen](https://open.spotify.com/track/4z57csWGtiNCLzxBMsnIDU) | [Milla Pink](https://open.spotify.com/artist/3SPz8uSbGWbwUF6zWGUpJ5) | [Auf dem Besen an den Tresen](https://open.spotify.com/album/47ih6wlWo3moVGDo6EiwuH) | 3:02 | 2023-08-28 |  |
 | [Auf geht’s nach Malle \(Sarà perché ti amo\)](https://open.spotify.com/track/2T8t116RDkrvAA6WwzdMJm) | [Frenzy](https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd), [Banjee](https://open.spotify.com/artist/09Cd4t2LRKHr2sPbAXw4rm) | [Auf geht’s nach Malle \(Sarà perché ti amo\)](https://open.spotify.com/album/5HQxiHwV6aa81zg3zJg1Nc) | 2:31 | 2023-07-14 | 2023-11-16 |
 | [BIER](https://open.spotify.com/track/44Elooy8S8twBdOoVVHPDA) | [Drunken Masters](https://open.spotify.com/artist/0cUMeX7DFLIvLy0q8uqp6q), [Maxim K.I.Z](https://open.spotify.com/artist/4ol4AQkp02j1FQuQ4uGH1k), [K.I.Z](https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05) | [BIER](https://open.spotify.com/album/2SDMGLfkqgDiysROV2CfhC) | 2:09 | 2023-07-14 |  |
-| [Bierkapitän](https://open.spotify.com/track/2Z4KnwY4Br79ApyyKjbOHv) | [Bierkapitän](https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD) | [Bierkapitän](https://open.spotify.com/album/03XXTzsrfTq1Ia0MpNUZUC) | 3:30 | 2023-08-28 |  |
+| [Bierkapitän](https://open.spotify.com/track/2Z4KnwY4Br79ApyyKjbOHv) | [Bierkapitän](https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD) | [Bierkapitän](https://open.spotify.com/album/03XXTzsrfTq1Ia0MpNUZUC) | 3:30 | 2023-08-28 | 2023-12-23 |
 | [Bleib in der Schule](https://open.spotify.com/track/14ZdGRgEojosST783o66CX) | [Trailerpark](https://open.spotify.com/artist/1eeWVOCazGzGQXOGhnDHTB) | [Crackstreet Boys 3 \(Bonus Tracks Version\)](https://open.spotify.com/album/5vQR3Ch9WNXvv2PS4hRpbK) | 4:25 | 2023-07-14 |  |
 | [Blockflötenunterricht](https://open.spotify.com/track/6wWF5ahS0ebMhgOk6JbrcB) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4), [Pottsau](https://open.spotify.com/artist/0XRGK8re2VVOL05DsNnsu6) | [Blockflötenunterricht](https://open.spotify.com/album/1SmbclDf51xHvmCnWocak8) | 2:35 | 2023-08-10 | 2023-10-22 |
 | [Bring mich nach Hause](https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Bring mich nach Hause](https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4) | 2:29 | 2023-07-14 |  |
@@ -97,6 +97,7 @@
 | [Sauftourist](https://open.spotify.com/track/61eiAAYLa2sygwdg7nt1qL) | [Ikke Hüftgold](https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf) | [Sauftourist](https://open.spotify.com/album/66sLyPMmwDoRqYo0XU3YLX) | 2:50 | 2023-07-14 | 2023-09-24 |
 | [Scheiss auf Schickimicki \- Video Edit](https://open.spotify.com/track/2Vz4iMRlwS95zChQbZo4HL) | [Stefan Stürmer](https://open.spotify.com/artist/6jvJeMzlBK7kW5LQUePR6q), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Scheiss auf Schickimicki \(Video Edit\)](https://open.spotify.com/album/28NwJjbkVrQ1J7NfS8ed5I) | 3:18 | 2023-09-18 |  |
 | [Scheißegal, ich feier \- Radio Edit](https://open.spotify.com/track/59OdgXmYQOW5oGmOQlyPEg) | [Mütze Katze](https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF) | [Scheißegal, ich feier \(Radio Edit\)](https://open.spotify.com/album/5b9J518c3kaHN5FIZ4EOhY) | 2:44 | 2023-07-14 |  |
+| [Schnelle Brille](https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z) | [Nancy Franck](https://open.spotify.com/artist/1TgdpH31IOzayp4PFpSUqD) | [Schnelle Brille](https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5) | 2:17 | 2023-12-19 |  |
 | [Senorita](https://open.spotify.com/track/5OHOykHs3Ct2pgbqod8uMD) | [Kay One](https://open.spotify.com/artist/6VjbeCqoayiHYnefrisskv), [Pietro Lombardi](https://open.spotify.com/artist/387fj6TuPJ3y2H8ViAm6r0) | [Senorita](https://open.spotify.com/album/7sC0Co4ka745oGeBfB3Bhk) | 3:58 | 2023-08-28 | 2023-10-15 |
 | [So viel gemeinsam](https://open.spotify.com/track/3iyH9HYxpRskunFjMF8F7O) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [So viel gemeinsam](https://open.spotify.com/album/6YiV531P44nWmCr2E6PvPl) | 2:16 | 2023-07-14 | 2023-08-04 |
 | [Sorry](https://open.spotify.com/track/7A9VbC1Bs8Tz7gNrBwDOUX) | [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc) | [Sorry](https://open.spotify.com/album/5KQ8edF4yq8BPBMxM8al9u) | 2:24 | 2023-07-14 |  |

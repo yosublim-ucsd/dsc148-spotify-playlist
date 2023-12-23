@@ -4,7 +4,7 @@
 
 > Experience the powerful messages and sounds of the current hits and classic Gospel songs\.  Guest curated by: <a href="spotify:artist:4akybxRTGHJZ1DXjLhJ1qu">Kirk Franklin</a>
 
-140 songs - 12 hr 2 min
+142 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [I Am \(Radio Edit\)](https://open.spotify.com/track/5gvwQLe4Z86vBVtTESworf) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH), [Deborah Carolina](https://open.spotify.com/artist/1b89ZzY5HMXI8pQlTfFe4m) | [I Am](https://open.spotify.com/album/5YhYF97P4OAVJCWr3Id5fz) | 4:42 | 2021-06-25 |  |
 | [I Am \- Radio Edit](https://open.spotify.com/track/1X2DFg7sUV1ajTbsJFJKqx) | [Jason Nelson](https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef) | [I Am \(Radio Edit\)](https://open.spotify.com/album/5xnXnNzG7FUUrIZdiTxYot) | 4:47 | 2021-06-25 |  |
 | [I Forgive Me](https://open.spotify.com/track/17MqdngAFPDWcaSt9wkPQi) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH) | [Dear Future Me](https://open.spotify.com/album/24gwZpFPcNhXmz4p9h4HcH) | 4:35 | 2021-06-25 | 2022-07-29 |
-| [I Forgive Me](https://open.spotify.com/track/3nY9M5V1T62fOwRJieUkJd) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH) | [Dear Future Me](https://open.spotify.com/album/3di3Ns3BssEWFGZ8QeLZSt) | 4:36 | 2023-07-13 |  |
+| [I Forgive Me](https://open.spotify.com/track/3nY9M5V1T62fOwRJieUkJd) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH) | [Dear Future Me](https://open.spotify.com/album/3di3Ns3BssEWFGZ8QeLZSt) | 4:36 | 2023-07-13 | 2023-12-23 |
+| [I Forgive Me](https://open.spotify.com/track/53xAx35okUZ3BaCX6SWh6m) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH) | [Dear Future Me](https://open.spotify.com/album/2ymgRafXd8WfciDiKIeacv) | 4:36 | 2023-10-06 |  |
 | [I Got Out](https://open.spotify.com/track/29mZrqJI0XyyUvVMo2edpk) | [Bryan Popin](https://open.spotify.com/artist/6jfghB5jl6RMXoiXqldVhz) | [I Got Out](https://open.spotify.com/album/07nqs2VsHDslrmhlMsCjke) | 4:57 | 2023-07-13 |  |
 | [I Need A Word](https://open.spotify.com/track/08fVVLmIVyjN23nSuUVQc1) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [WOW Gospel 2016](https://open.spotify.com/album/6MA7ireN4cN0GxrfL2IHVV) | 4:03 | 2021-06-25 | 2022-07-28 |
 | [I Need A Word](https://open.spotify.com/track/4RLL0qL4Tvoq4l5e8hV2FS) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [Forever Yours](https://open.spotify.com/album/3Cgcc6Op5ciiCTubUMjI88) | 4:04 | 2021-06-25 |  |
@@ -92,7 +93,8 @@
 | [Never Have to Be Alone](https://open.spotify.com/track/43w5n3xRMBOQll8xQBuO41) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Never Have to Be Alone](https://open.spotify.com/album/34VkbeKpr1wXJZe1xW0Aif) | 3:47 | 2021-06-25 |  |
 | [Never Let Me Go](https://open.spotify.com/track/1z69IavRF0D3MXsdbvsPBE) | [Jason McGee & The Choir](https://open.spotify.com/artist/2a1U4XLduUgLzFErHznt9d), [Warryn Campbell](https://open.spotify.com/artist/3qSkdqhJ4upraMXTX2PdXu) | [Never Let Me Go](https://open.spotify.com/album/5vGpKoJ12FjCFJUaaZeBtP) | 4:11 | 2021-06-25 | 2023-10-07 |
 | [New](https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [New](https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE) | 3:15 | 2023-07-13 |  |
-| [No Reason To Fear \(Radio Edit\)](https://open.spotify.com/track/2IMipb7dosMwZbeGbom49K) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [No Reason To Fear \- Single](https://open.spotify.com/album/4fQ7qwZJQ3hYKsvhpIEh6F) | 4:33 | 2023-07-13 |  |
+| [No Reason To Fear \(Radio Edit\)](https://open.spotify.com/track/2IMipb7dosMwZbeGbom49K) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [No Reason To Fear \- Single](https://open.spotify.com/album/4fQ7qwZJQ3hYKsvhpIEh6F) | 4:33 | 2023-07-13 | 2023-12-23 |
+| [No Reason To Fear \(Radio Edit\)](https://open.spotify.com/track/5hRjPgj8c7kjtIGThYBzUv) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [No Reason To Fear \- Single](https://open.spotify.com/album/07FpmHl5aNml4JFRDGIDZ8) | 4:33 | 2023-10-06 |  |
 | [Not Holding Back](https://open.spotify.com/track/3648FGKvPaB9jJ6SszwiXD) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Melissa Bethea](https://open.spotify.com/artist/5ZNL1Clv5oR6hDVEVGSSrg) | [Not Holding Back](https://open.spotify.com/album/4xYwMKxTffmhIZwJKLsMlR) | 12:27 | 2021-06-25 |  |
 | [Not Lucky, I'm Loved](https://open.spotify.com/track/4KuFyYtKIizLOjfofjxZT8) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Make Room](https://open.spotify.com/album/6D8do4E6Ye8NaYVCEUQ1uI) | 6:48 | 2021-06-25 | 2022-07-29 |
 | [Not Lucky, I'm Loved](https://open.spotify.com/track/4jc7FTXFUhTaMRpmU42yfI) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Make Room](https://open.spotify.com/album/2Gn6iOiQIWzAgeE1TYCJGS) | 6:48 | 2021-06-25 |  |

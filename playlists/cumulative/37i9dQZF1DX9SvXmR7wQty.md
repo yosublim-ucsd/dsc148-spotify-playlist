@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Lost
 
-2,239 songs - 4 day 23 hr 34 min
+2,241 songs - 4 day 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -436,6 +436,7 @@
 | [Create 'n' Collaborate](https://open.spotify.com/track/6SLqm8b5oMS6IqQCQtqS0m) | [Doug & Jeff](https://open.spotify.com/artist/4emZH10SLlSZFIzVnot3q7) | [Create 'n' Collaborate](https://open.spotify.com/album/12HsTGaczjkG3lS1AYLkn7) | 2:50 | 2023-02-03 | 2023-02-18 |
 | [Crier tout bas](https://open.spotify.com/track/26MCjGXJFyvttQjzZXtfhD) | [Malko](https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI) | [Crier tout bas](https://open.spotify.com/album/0xS6r4eeUY8iU6Bl9hHRdt) | 2:20 | 2022-10-21 | 2022-11-05 |
 | [Croc Madam](https://open.spotify.com/track/6LguOntZUU9HtGKPq78cDB) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Rêvalité Augmentée](https://open.spotify.com/album/4aJH0gVRGYiS8NOqyccRXv) | 2:08 | 2022-11-25 | 2022-12-10 |
+| [Croise les doigts](https://open.spotify.com/track/73YvE9CbBiaagW1480dG1T) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Salgrimo](https://open.spotify.com/artist/4UV5H3SeSPhlAgXL6JJBsE), [Peeda](https://open.spotify.com/artist/7qz5rVVo7GjgNMUzJRfUy4) | [Croise les doigts](https://open.spotify.com/album/22Fy2sn2vAdr7U2NUsk36t) | 3:30 | 2023-12-22 |  |
 | [Crop Top](https://open.spotify.com/track/4Taj3786owTb8Z8JEZBVE2) | [Aloïse Sauvage](https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ) | [Crop Top](https://open.spotify.com/album/4xGxwhPDfO8WDJ8SrmxXOA) | 2:32 | 2022-06-10 | 2022-06-18 |
 | [Cruel](https://open.spotify.com/track/0ZnW5FPjwOOEtWlTSpvazP) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [Cruel](https://open.spotify.com/album/77vFwNefYwvUme8LGGqiYF) | 2:48 | 2022-12-09 | 2023-01-06 |
 | [Crush \(feat\. Anaïs Demoustier\)](https://open.spotify.com/track/3dDwRbHzCvT2ToXjv8jkfQ) | [Requin Chagrin](https://open.spotify.com/artist/7hstPLRSo0ipNnICMpTN5g), [Anaïs Demoustier](https://open.spotify.com/artist/0nWAZSp0jv8b7RDmrbW4Eh) | [Crush \(feat\. Anaïs Demoustier\)](https://open.spotify.com/album/01XHesceKpZaMt3cmXVKHv) | 3:18 | 2022-08-26 | 2022-09-10 |
@@ -824,7 +825,7 @@
 | [Hymne](https://open.spotify.com/track/32vjH6rbUEwqkeeXAjVSYA) | [Amay Laoni](https://open.spotify.com/artist/2d4upAuUXXLneWMHHloXSp) | [Hymne](https://open.spotify.com/album/2zU9m7nid26T3sHNAzzr0K) | 2:48 | 2021-12-31 | 2022-01-15 |
 | [Hypersensible](https://open.spotify.com/track/77bQ9Z0ro0KudhjGvEI8ze) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [Hypersensible](https://open.spotify.com/album/1kp2TU0ZdiJOEGyh1ivXpQ) | 3:03 | 2023-10-27 | 2023-11-11 |
 | [Héritage](https://open.spotify.com/track/60JKKoraJuLxjA0eKKPffp) | [Neimo](https://open.spotify.com/artist/7kVt9OkrP0ow91rfCznrTm) | [Héritage](https://open.spotify.com/album/5PZa10Sd89gIJq7eDQPqQP) | 2:46 | 2022-03-11 | 2022-03-18 |
-| [Héréditaire](https://open.spotify.com/track/7z7NGgxgskYYCCBUpLE9Gz) | [Zagata](https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ), [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB) | [Héréditaire](https://open.spotify.com/album/6GCDqMGLmIVudsDTFsR1t5) | 3:03 | 2023-12-15 |  |
+| [Héréditaire](https://open.spotify.com/track/7z7NGgxgskYYCCBUpLE9Gz) | [Zagata](https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ), [Farfadet](https://open.spotify.com/artist/3n6sDQ5wLfb9GpJaKcEaPB) | [Héréditaire](https://open.spotify.com/album/6GCDqMGLmIVudsDTFsR1t5) | 3:03 | 2023-12-15 | 2023-12-23 |
 | [Hérésie \(Chanson inedite\)](https://open.spotify.com/track/0D0M01DPzexk8LeM8YJIUE) | [Stefie Shock](https://open.spotify.com/artist/1gymZXDnThXSo91g6uT5h8) | [Le décor \(Édition Limitée 20e Anniversaire\)](https://open.spotify.com/album/1bsip4q3j32HhjgLblNppT) | 4:15 | 2023-02-17 | 2023-03-04 |
 | [Hôtel 5 étoiles](https://open.spotify.com/track/54h2v2JyOUk2sfEgrToKWw) | [Georgio](https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO) | [Hôtel 5 étoiles](https://open.spotify.com/album/4OoSNQ8nW54o8fJZ0oCToM) | 2:48 | 2022-12-02 | 2023-01-06 |
 | [I Don't Know Pas Savoir](https://open.spotify.com/track/6aelTinISLGEiUjdPwYbHe) | [Roxane Bruneau](https://open.spotify.com/artist/1joqsAPOg4vW2yn2BrEtzQ) | [I Don't Know Pas Savoir](https://open.spotify.com/album/4gF4gBpjJl2d2MHzJiHKIt) | 2:42 | 2022-05-20 | 2022-06-04 |
@@ -914,7 +915,7 @@
 | [J'étais pas là](https://open.spotify.com/track/1BkSFGFEPy48s9CpZOwibL) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [J'étais pas là](https://open.spotify.com/album/5QtyGSykTXzd8tHnicAUp0) | 3:52 | 2022-05-20 | 2022-06-04 |
 | [Jacuzzi](https://open.spotify.com/track/7w1RLxc7gA8EBcRsWgSOUu) | [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [Jacuzzi](https://open.spotify.com/album/4VR3RBzYwMY1WnpiUsfaWt) | 2:43 | 2022-09-09 | 2022-09-24 |
 | [James Dean](https://open.spotify.com/track/4uVv3CQLp68fL2J3CJNDEl) | [LARCHE](https://open.spotify.com/artist/1EIPhCiePboY8AlbZr4HMv) | [James Dean](https://open.spotify.com/album/3rdV9CDNImR96dzxyarYfZ) | 2:50 | 2022-08-05 | 2022-08-27 |
-| [Jane Birkin](https://open.spotify.com/track/4xsVpeTSTh64G82qf2HHaF) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Jane Birkin](https://open.spotify.com/album/2oN1NPHrJDWBFeUiG0phb2) | 3:16 | 2023-11-24 |  |
+| [Jane Birkin](https://open.spotify.com/track/4xsVpeTSTh64G82qf2HHaF) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [Jane Birkin](https://open.spotify.com/album/2oN1NPHrJDWBFeUiG0phb2) | 3:16 | 2023-11-24 | 2023-12-23 |
 | [jardin](https://open.spotify.com/track/1QEcr57b4oSQuRk4ztmKkL) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [consolation](https://open.spotify.com/album/3fDL1MKPGRyXRHUkHK1fR1) | 4:52 | 2022-08-26 | 2022-09-10 |
 | [jardin \- Thx4Crying Halloween Remix](https://open.spotify.com/track/6jYimKdTY5WzTEn54HemmZ) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Thx4Crying](https://open.spotify.com/artist/0J0Cjv3dejTUnksQtxpZP9) | [jardin secret](https://open.spotify.com/album/2VzzSGQefLPMLqSIJaNeXZ) | 3:23 | 2022-10-07 | 2022-10-15 |
 | [Jardin d'orages](https://open.spotify.com/track/390izvGBLKyKv3IC3tup84) | [Olivier Faubert](https://open.spotify.com/artist/7MtaiRiCaon9iTg2dfHC45) | [Mes ombres](https://open.spotify.com/album/3pd4ayFDk7ZMY8XjRG31LP) | 3:40 | 2022-02-18 | 2022-02-26 |
@@ -1975,6 +1976,7 @@
 | [Tesla](https://open.spotify.com/track/5bqzsDmsMuu3zNMHdq2Kie) | [Valmont](https://open.spotify.com/artist/5X9jWrjU2FVZG26e6LjJTn), [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn) | [Tesla](https://open.spotify.com/album/5R9FCr5wLHP9nKushVGfOY) | 2:48 | 2021-12-31 | 2022-01-22 |
 | [TESLA \(feat\. DaChoyce\)](https://open.spotify.com/track/4E6tv93xB55kTFRtNKxMo1) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [DaChoyce](https://open.spotify.com/artist/6nStjcAtMWhraEtrTrePkl) | [TESLA \(feat\. DaChoyce\)](https://open.spotify.com/album/1Dch6Gn8vANXc18qHo2uB9) | 2:11 | 2023-08-11 | 2023-10-14 |
 | [thank u no welcome](https://open.spotify.com/track/0JsDe196oE4rKFWxOxVzeN) | [Blaiso](https://open.spotify.com/artist/0fXNEQVmLbQsocasjVJKO9) | [S E N T I M E N T A L](https://open.spotify.com/album/1up0l3gddQwDtqGmmWAukl) | 2:17 | 2022-03-04 | 2022-03-12 |
+| [Thank You](https://open.spotify.com/track/3uznH3H5AMYT9HzziGXcUy) | [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ) | [Thank You](https://open.spotify.com/album/2nlFmpKBjFIlRbaJh5SLX8) | 3:31 | 2023-12-22 |  |
 | [The hills](https://open.spotify.com/track/2wbG3Ma6mHGHI1cJv7r67u) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [The hills](https://open.spotify.com/album/1Hcu386OoNkU3xHgoTwmid) | 2:52 | 2022-11-18 | 2022-12-10 |
 | [The Top](https://open.spotify.com/track/0CGDrIdIsKucUtnkUFSK7b) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [TPL](https://open.spotify.com/album/3xASLbzCdazOv4wGh3oHmZ) | 3:02 | 2023-09-22 | 2023-09-30 |
 | [Therapie Du Binks](https://open.spotify.com/track/338K3TO2gH7UMy26utR9L3) | [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj) | [Therapie Du Binks](https://open.spotify.com/album/5CBVRsESIMa0Ln4wgLebvQ) | 3:01 | 2022-10-14 | 2022-10-22 |

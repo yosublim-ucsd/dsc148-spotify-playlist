@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf4L9PMKQqr.md) - [plain]
 
 > Enamórate con las interpretaciones más románticas de El Flaco de Oro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,662 likes - 80 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,672 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,11 +59,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf4L9PMKQqr.md) - [plain]
 | 49 | [Escarcha](https://open.spotify.com/track/2Xdmm2Sm4Iy6CHXEj5qwP7) | [Hermanas Huerta](https://open.spotify.com/artist/1hU5wdiWeIWv4fBklDgta1) | [Interpretan a Agustín Lara / De Puerto en Puerto](https://open.spotify.com/album/5inx7F0E85jiFDX2LPwy9x) | 2:02 |
 | 50 | [Te Quiero](https://open.spotify.com/track/1W8QNQJaMvHg6emiHGXBzu) | [Maria Felix](https://open.spotify.com/artist/16EdP6qprhSzH9S6zJ50n7) | [María Félix Interpreta a Agustín Lara](https://open.spotify.com/album/67ujgRmapP8x3YaCSYb1IG) | 3:15 |
 | 51 | [Imposible](https://open.spotify.com/track/0iIQwFO3qLjav5vTrDI8ka) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Rocio Durcal Canta Con Mariachi Vol\. 4](https://open.spotify.com/album/7KZNk3B8QKNufiD59PNuJq) | 2:42 |
-| 52 | [Santa](https://open.spotify.com/track/0StzzVaAEnzwXpZp0ZaUFx) | [David Reynoso](https://open.spotify.com/artist/5djhr5Q01njJFuZFtTqT8s) | [David Reynoso y la Música de Agustín Lara](https://open.spotify.com/album/4VnXBg6RqDKAZhkPB5YjHL) | 3:17 |
-| 53 | [Vuela Paloma Torcaza](https://open.spotify.com/track/3ushRPFQq28gBaWmQvXRKQ) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Suite Mexicana de Agustín Lara](https://open.spotify.com/album/7yVxgddVdrQVgXS3OCgPon) | 2:52 |
+| 52 | [Vuela Paloma Torcaza](https://open.spotify.com/track/3ushRPFQq28gBaWmQvXRKQ) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Suite Mexicana de Agustín Lara](https://open.spotify.com/album/7yVxgddVdrQVgXS3OCgPon) | 2:52 |
+| 53 | [Santa](https://open.spotify.com/track/0StzzVaAEnzwXpZp0ZaUFx) | [David Reynoso](https://open.spotify.com/artist/5djhr5Q01njJFuZFtTqT8s) | [David Reynoso y la Música de Agustín Lara](https://open.spotify.com/album/4VnXBg6RqDKAZhkPB5YjHL) | 3:17 |
 | 54 | [Mirame](https://open.spotify.com/track/3C2gEY4X6APNQ9IbZnJrCK) | [Marco Antonio Muñiz](https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc) | [Interpreta a Agustin Lara](https://open.spotify.com/album/63EUaSjZ1WBetcV6vVYd5A) | 3:26 |
-| 55 | [Caballera Blanca](https://open.spotify.com/track/1ZH12n8wnw19KSkKZFuvIP) | [Alejandro Algara](https://open.spotify.com/artist/3u08FMRF8VMAeYmJjOuJzB) | [COLECCION Volumen 5](https://open.spotify.com/album/5V5bvTtqymqaymOEweXxqk) | 3:31 |
-| 56 | [Mi Novia](https://open.spotify.com/track/0e8yCaC9beB6fnbA1fUjhx) | [Jorge Fernández](https://open.spotify.com/artist/7CJw3n4usKT36MaNDhmyWE) | [COLECCION Volumen 5](https://open.spotify.com/album/5V5bvTtqymqaymOEweXxqk) | 2:32 |
+| 55 | [Mi Novia](https://open.spotify.com/track/0e8yCaC9beB6fnbA1fUjhx) | [Jorge Fernández](https://open.spotify.com/artist/7CJw3n4usKT36MaNDhmyWE) | [COLECCION Volumen 5](https://open.spotify.com/album/5V5bvTtqymqaymOEweXxqk) | 2:32 |
+| 56 | [Caballera Blanca](https://open.spotify.com/track/1ZH12n8wnw19KSkKZFuvIP) | [Alejandro Algara](https://open.spotify.com/artist/3u08FMRF8VMAeYmJjOuJzB) | [COLECCION Volumen 5](https://open.spotify.com/album/5V5bvTtqymqaymOEweXxqk) | 3:31 |
 | 57 | [Ultimo Beso](https://open.spotify.com/track/5ZT8iOABS33ALHJlCqKQrA) | [Juan Arvizu](https://open.spotify.com/artist/1jZMKZr3NhGJYonvUXbCPh) | [Agustin Lara Y Sus Interpretes Vol\. II](https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa) | 2:20 |
 | 58 | [Nadie](https://open.spotify.com/track/62roN8U8Lum4zpo2t8HYgH) | [Amparo Montes](https://open.spotify.com/artist/5eNHFHwqZOEZuxE6yMeybH) | [Coleccion Original RCA](https://open.spotify.com/album/2m2FaE4G9ZmdyokmG9fELn) | 4:12 |
 | 59 | [Mía Nomas](https://open.spotify.com/track/0V3DjnQpumvPGsg6U5hNuF) | [Hermanas Huerta](https://open.spotify.com/artist/1hU5wdiWeIWv4fBklDgta1) | [Interpretan a Agustín Lara / De Puerto en Puerto](https://open.spotify.com/album/5inx7F0E85jiFDX2LPwy9x) | 2:49 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf4L9PMKQqr.md) - [plain]
 | 74 | [Gotas de Amor](https://open.spotify.com/track/1duLUtgLDjkzHtbCuXCFNl) | [Maria Felix](https://open.spotify.com/artist/16EdP6qprhSzH9S6zJ50n7) | [María Félix Interpreta a Agustín Lara](https://open.spotify.com/album/67ujgRmapP8x3YaCSYb1IG) | 2:33 |
 | 75 | [Santa](https://open.spotify.com/track/2Z0iHCLYjFdiEpn1I4aPE9) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [Cuco Sánchez Interpreta a Agustín Lara](https://open.spotify.com/album/3w6SQ81PgTgHmvSoz7WUaN) | 3:04 |
 | 76 | [Aventurera \( Remasterizado \)](https://open.spotify.com/track/541BvxPhWSkO7MQzMEMSp0) | [Guty Cárdenas](https://open.spotify.com/artist/1XXNhXjfbtXeW1amhbUKIW) | [Un Siglo..\. De Recuerdos Con El Mas Grande Trovador Mexicano Guty Cardenas](https://open.spotify.com/album/4o0wE1QwrpQmb5ndTQl0nW) | 3:11 |
-| 77 | [Cuerdas de Mi Guitarra](https://open.spotify.com/track/4lWUMFgf3gIrS2A05trqI9) | [Genaro Salinas](https://open.spotify.com/artist/306IiRW9xKTqahOyzCI2jD) | [La Coleccion Del Siglo](https://open.spotify.com/album/0K44c2pTRwvLo24xyknbpb) | 3:06 |
-| 78 | [El Capulin](https://open.spotify.com/track/4XBq7wuQTC05NrwquJ3HWP) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Suite Mexicana de Agustín Lara](https://open.spotify.com/album/7yVxgddVdrQVgXS3OCgPon) | 2:19 |
+| 77 | [El Capulin](https://open.spotify.com/track/4XBq7wuQTC05NrwquJ3HWP) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Suite Mexicana de Agustín Lara](https://open.spotify.com/album/7yVxgddVdrQVgXS3OCgPon) | 2:19 |
+| 78 | [Cuerdas de Mi Guitarra](https://open.spotify.com/track/4lWUMFgf3gIrS2A05trqI9) | [Genaro Salinas](https://open.spotify.com/artist/306IiRW9xKTqahOyzCI2jD) | [La Coleccion Del Siglo](https://open.spotify.com/album/0K44c2pTRwvLo24xyknbpb) | 3:06 |
 | 79 | [Cuando Vuelvas](https://open.spotify.com/track/1Oyk4HRRxRyqwHvgYv06q8) | [Lucía Méndez](https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN) | [Señora Tentación](https://open.spotify.com/album/5tcUId9lERJM6D2dzroZI0) | 3:31 |
-| 80 | [El Organillero](https://open.spotify.com/track/4vqSjkiJKlgzsREqiTFeZt) | [Hugo Avendaño](https://open.spotify.com/artist/5t2eo8t8t6DwSA7goQgxpq) | [Coleccion Original RCA](https://open.spotify.com/album/6JOl5ODZIgfvgW4pMaEy8v) | 2:26 |
+| 80 | [Concha Nacar](https://open.spotify.com/track/2NYZ1itaWAy8jOAjeQVNjc) | [David Reynoso](https://open.spotify.com/artist/5djhr5Q01njJFuZFtTqT8s) | [David Reynoso y la Música de Agustín Lara](https://open.spotify.com/album/4VnXBg6RqDKAZhkPB5YjHL) | 2:18 |
 
-Snapshot ID: `MCwxMzY4ZDZkZGM2MmFiYTliZGM2YzdiMTA0MjAxZWZlZWIzNWQ1Y2Q2`
+Snapshot ID: `MCxkOGVlOGQ0ZjUzNTNiNGViOWY2ZDY3NGIzNjAxZDEzNjAxMzNhNmQz`

@@ -1,12 +1,12 @@
 {
   "description": "\u6d0b\u697d\u3092\u4e2d\u5fc3\u306b\u4eca\u9031\u306e\u65b0\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Central Cee, Juice WRLD, Tom Odell, \u5d0e\u5c71\u84bc\u5fd7 and more! Cover: Central Cee\n",
-  "num_followers": 100355,
+  "num_followers": 100393,
   "original_name": "New Music Friday Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzhkZDhjM2Q1NzEyOGVjM2FkOTE5YmU0OTBlNzFiZWUwNTlkZjc3",
+  "snapshot_id": "MCxiZjdlYzdiZTk3ODc5M2Q1MzllODMzMTU0ZmM1NDBkOTNmYzllMjc0",
   "tracks": [
     {
       "added_at": "2023-12-21 20:00:00",
@@ -63,6 +63,22 @@
       "duration_ms": 210400,
       "name": "OMG (FRNK Remix)",
       "url": "https://open.spotify.com/track/4yjDMKCAeLovlo9ih0AgXW"
+    },
+    {
+      "added_at": "2023-12-21 20:00:00",
+      "album": {
+        "name": "Closer Than This",
+        "url": "https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 223302,
+      "name": "Closer Than This",
+      "url": "https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20"
     },
     {
       "added_at": "2023-12-21 20:00:00",
@@ -475,6 +491,22 @@
     {
       "added_at": "2023-12-21 20:00:00",
       "album": {
+        "name": "Be There For Me - Winter Special Single",
+        "url": "https://open.spotify.com/album/0uJxcHEh5lpFMd971KU7Wd"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "duration_ms": 217933,
+      "name": "Be There For Me",
+      "url": "https://open.spotify.com/track/1Lkd4pjGFQilS5zPoMnLL7"
+    },
+    {
+      "added_at": "2023-12-21 20:00:00",
+      "album": {
         "name": "S2",
         "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
       },
@@ -547,8 +579,8 @@
     {
       "added_at": "2023-12-21 20:00:00",
       "album": {
-        "name": "\u82b1\u675f (Prod. GeG)",
-        "url": "https://open.spotify.com/album/1SfsipchsPouhaPsHaamha"
+        "name": "Bouquet (Prod. GeG)",
+        "url": "https://open.spotify.com/album/7kXxeoKSVQFeYCt6v8WnnC"
       },
       "artists": [
         {
@@ -556,19 +588,19 @@
           "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
         },
         {
-          "name": "Rin\u97f3",
-          "url": "https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4"
+          "name": "Rinne",
+          "url": "https://open.spotify.com/artist/4ETsbj1XzA5v886JMNDgdA"
         }
       ],
       "duration_ms": 200553,
-      "name": "\u82b1\u675f (Prod. GeG)",
-      "url": "https://open.spotify.com/track/7vFCRureXEHFZQdWpeCA4D"
+      "name": "Bouquet (Prod. GeG)",
+      "url": "https://open.spotify.com/track/7eRyundmTGwr8QvrCkmzYo"
     },
     {
       "added_at": "2023-12-21 20:00:00",
       "album": {
         "name": "Deech Got Yukichi 2",
-        "url": "https://open.spotify.com/album/2jZvGY1awUIDjyfv7ByDiQ"
+        "url": "https://open.spotify.com/album/0EiGGW2OaqBb2NeM8qJ1xJ"
       },
       "artists": [
         {
@@ -586,7 +618,7 @@
       ],
       "duration_ms": 147333,
       "name": "Yap Yap",
-      "url": "https://open.spotify.com/track/7usqIQpFAuz2KFqI3x4CRl"
+      "url": "https://open.spotify.com/track/5XbunWE0rvjeiMmtc2v5Pa"
     },
     {
       "added_at": "2023-12-21 20:00:00",
@@ -848,7 +880,7 @@
       "added_at": "2023-12-21 20:00:00",
       "album": {
         "name": "Better Off (Alone, Pt. III) [Timmy Trumpet Remix]",
-        "url": "https://open.spotify.com/album/5w8WGf74Vj5LcYkqp9vuoO"
+        "url": "https://open.spotify.com/album/47Dq0RKZvmwoHGYB1NCIkC"
       },
       "artists": [
         {
@@ -870,7 +902,7 @@
       ],
       "duration_ms": 162979,
       "name": "Better Off (Alone, Pt. III) - Timmy Trumpet Remix",
-      "url": "https://open.spotify.com/track/77B8mI3PW8x2ke5UIyevDl"
+      "url": "https://open.spotify.com/track/20KO5hZH2P39mrOJy6wXit"
     }
   ],
   "unique_name": "New Music Friday Japan",

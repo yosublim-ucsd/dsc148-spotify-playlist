@@ -4,7 +4,7 @@
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 
-212 songs - 13 hr 15 min
+214 songs - 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,8 +187,9 @@
 | [The Time for Flowers](https://open.spotify.com/track/2dzZaRN9Uqp1JEic2lQ4k5) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM) | [The Time for Flowers](https://open.spotify.com/album/3xhTmtzpGjC8IjT84xhaRg) | 3:59 | 2021-11-19 |  |
 | [The Trouble with Wanting](https://open.spotify.com/track/0a1Jael2mnrkLTyPetixjh) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Canary / The Trouble with Wanting](https://open.spotify.com/album/20bxQ8Jv6hHhc53KFApRuL) | 3:55 | 2021-11-19 | 2022-07-29 |
 | [The Trouble with Wanting](https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:55 | 2022-05-16 |  |
-| [Thinkin' On You](https://open.spotify.com/track/2EFbDP27ysoPnNQdQQXqfR) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs) | [Shame](https://open.spotify.com/album/1j0FUqFiWgEkJsDLPMIaGG) | 4:19 | 2022-05-16 |  |
+| [Thinkin' On You](https://open.spotify.com/track/2EFbDP27ysoPnNQdQQXqfR) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs) | [Shame](https://open.spotify.com/album/1j0FUqFiWgEkJsDLPMIaGG) | 4:19 | 2022-05-16 | 2023-12-23 |
 | [Thinkin' On You](https://open.spotify.com/track/6WmA3Z9wEsCmvlxvyFIFs0) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs) | [Shame](https://open.spotify.com/album/7Ms7gALrFXxia5Y6qagsYJ) | 4:19 | 2021-11-19 | 2022-07-29 |
+| [Thinkin' On You](https://open.spotify.com/track/7dqhOx0txJrgz0uovJWqlj) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs) | [Shame](https://open.spotify.com/album/3yv8PzbwTZf9HqZyhnA5S7) | 4:19 | 2023-12-08 |  |
 | [Time We Made Time](https://open.spotify.com/track/18tdZq3CmktV6HIAGSiJ0B) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/09NM7gTdr3ij71aksxr4Qs) | 4:55 | 2022-05-16 | 2023-04-29 |
 | [Time We Made Time](https://open.spotify.com/track/24HWipFuiz7vilAlQuoCaE) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Tides of a Teardrop](https://open.spotify.com/album/2SWy4Nbpw77DzLkwXba7Hk) | 4:55 | 2023-04-28 |  |
 | [Time We Made Time](https://open.spotify.com/track/5SlDLaAPEs7tm5TiHtbU72) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Time We Made Time](https://open.spotify.com/album/6tioLHErPLmjw9t3B24PKf) | 4:55 | 2022-05-16 | 2022-11-13 |
@@ -215,7 +216,8 @@
 | [Wishing I Was Wrong](https://open.spotify.com/track/2ovmeD1VIEPJu9Z8qibUks) | [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [Wishing I Was Wrong](https://open.spotify.com/album/3Pz8RqCxcBLkjKLHVgFIvY) | 3:08 | 2022-01-07 |  |
 | [With You](https://open.spotify.com/track/2xuNO2twEAziI59xyKYxzZ) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [With You](https://open.spotify.com/album/4FmaIvv5uBPgwrm8v7tbjJ) | 3:31 | 2021-11-19 |  |
 | [Wool \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/4hoqP9dIAu2Nk6u5LvxOR4) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 3:49 | 2023-11-20 |  |
-| [You're Free Now](https://open.spotify.com/track/0ySdK6vR22cXZMb3AMgsUS) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [da Costa Deluxe](https://open.spotify.com/album/0Q5GdiJwXZ1FvdxUj5X7uY) | 4:19 | 2022-05-16 |  |
+| [You're Free Now](https://open.spotify.com/track/0ySdK6vR22cXZMb3AMgsUS) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [da Costa Deluxe](https://open.spotify.com/album/0Q5GdiJwXZ1FvdxUj5X7uY) | 4:19 | 2022-05-16 | 2023-12-23 |
+| [You're Free Now \(feat\. Sarah Jarosz\)](https://open.spotify.com/track/271g7BFvo00WN1YN78m0JG) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [da Costa \(Deluxe\)](https://open.spotify.com/album/2VH2F0wlJCfm7wuUYYD87E) | 4:19 | 2023-12-08 |  |
 | [You're the One](https://open.spotify.com/track/2YEN8LRUuTViNyCGeUQukS) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/6RBTZpN4KkTLDbPdSUYRPJ) | 3:25 | 2023-05-12 | 2023-09-02 |
 | [You're the One](https://open.spotify.com/track/3TPQJ4fzrDgG8SChcHhtO8) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [You're the One](https://open.spotify.com/album/3k6GZZ7QUpFQlNjuPizVEZ) | 3:25 | 2023-08-11 |  |
 | [You, Me and The Mountains \- Live Off The Floor](https://open.spotify.com/track/3VyzVPoGB0ikZcAjWnCRdf) | [Ryan Lindsay](https://open.spotify.com/artist/1KWojkmgW6AiDS9yIx9VVu), [Lizzie No](https://open.spotify.com/artist/68MHAPLIwh1JcUqfhb2MWn) | [You, Me and The Mountains \(Live Off The Floor\)](https://open.spotify.com/album/1f2GXONeh0Rbu1ETjLw9uk) | 3:48 | 2022-01-07 |  |

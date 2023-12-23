@@ -4,7 +4,7 @@
 
 > Vem com a gente no melhor dos beats inspirados pelo seu anime favorito.
 
-87 songs - 5 hr 56 min
+88 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Rap do Meliodas: Consumido Pela Ira](https://open.spotify.com/track/64ULjIj27Iu3iYXZmCwV5v) | [TK RAPS](https://open.spotify.com/artist/7dlay5tI6UDYGbGrtW1oHx) | [Rap do Meliodas: Consumido Pela Ira](https://open.spotify.com/album/5leNTgSaFHW5PqK5Mmbr7P) | 3:23 | 2023-11-10 |  |
 | [Rap do Naruto: O Sétimo Hokage \(Nerd Hits\)](https://open.spotify.com/track/3ksOOop62ZdT0MJuXttpxq) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap do Naruto: O Sétimo Hokage \(Nerd Hits\)](https://open.spotify.com/album/0JLQS1y6f2uTvyKP4izPAy) | 3:56 | 2022-02-22 | 2023-01-27 |
 | [Rap do Naruto: O Sétimo Hokage \(Nerd Hits\)](https://open.spotify.com/track/7DWialEIm1eklBVKQwxgFl) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap do Naruto: O Sétimo Hokage \(Nerd Hits\)](https://open.spotify.com/album/6YNpUmtjrGTzAhEh56QA6F) | 3:56 | 2022-05-27 |  |
+| [Rap do Usopp: Um Bravo Guerreiro do Mar \(Nerd Hits\)](https://open.spotify.com/track/5NutfzyvLi2dqJLYxHdIgv) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap do Usopp: Um Bravo Guerreiro do Mar \(Nerd Hits\)](https://open.spotify.com/album/1ji8ZZfUOYyqKDcCTfJfWO) | 4:13 | 2023-12-22 |  |
 | [Rap do Zoro: O Maior Espadachim do Mundo \(Nerd Hits\)](https://open.spotify.com/track/4QZbAIUPX2qUIrs7oXEXnK) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap do Zoro: O Maior Espadachim do Mundo \(Nerd Hits\)](https://open.spotify.com/album/4bZJ9l9F1gnc4fFjJaWAv3) | 3:29 | 2022-02-22 | 2022-07-29 |
 | [Rap do Zoro: O Maior Espadachim do Mundo \(Nerd Hits\)](https://open.spotify.com/track/4suKHiKiIP8uBmYWRBm3l9) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap do Zoro: O Maior Espadachim do Mundo \(Nerd Hits\)](https://open.spotify.com/album/4M15kEp2oeRXUV3UsApUms) | 3:29 | 2022-05-27 |  |
 | [Rap Dos Coringas: Circo Dos Horrores \(Nerd Hits\)](https://open.spotify.com/track/0AH0eFTZaQ6V7Qzj3ap7QY) | [7 Minutoz](https://open.spotify.com/artist/2563ILWHSx52eOxOoi5rJW) | [Rap Dos Coringas: Circo Dos Horrores \(Nerd Hits\)](https://open.spotify.com/album/5p1E1MImo4ZitXfCRDv7p0) | 2:31 | 2022-05-27 |  |

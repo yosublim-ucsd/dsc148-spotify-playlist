@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz?si=mFEFEmTZQn2rablpoRREUQ\">Mellow & Sleazy</a>",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi?si=17R-DXikTKmMRdckBlAi-A\">DJ Maphorisa</a>",
   "name": "AMAPIANO grooves",
   "tracks": [
     {
@@ -5155,6 +5155,32 @@
     },
     {
       "album": {
+        "name": "Christmas Present",
+        "url": "https://open.spotify.com/album/56jRcbyRLxJCqssYoqK8CN"
+      },
+      "artists": [
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "Gipa Entertainment",
+          "url": "https://open.spotify.com/artist/2QQQHhkY8qUfsvGqpnZxs7"
+        },
+        {
+          "name": "Dadaman",
+          "url": "https://open.spotify.com/artist/3zzbYWZl1B3iYKXWR4BjFQ"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413582,
+      "name": "Christmas Present",
+      "url": "https://open.spotify.com/track/03rdHTIFjxhsWXBsfj2c9h"
+    },
+    {
+      "album": {
         "name": "Chururuka",
         "url": "https://open.spotify.com/album/3FEDACZzSNcptCqHld00Mx"
       },
@@ -8165,6 +8191,36 @@
     },
     {
       "album": {
+        "name": "Funa Ban",
+        "url": "https://open.spotify.com/album/10bUBXdr9XIHpiwFkqXRGV"
+      },
+      "artists": [
+        {
+          "name": "Sir Trill",
+          "url": "https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY"
+        },
+        {
+          "name": "TBO",
+          "url": "https://open.spotify.com/artist/64xQmd6s2PbIZkjqOXx0hp"
+        },
+        {
+          "name": "Tycoon",
+          "url": "https://open.spotify.com/artist/2J9OgoroujUr9FiiT40sqc"
+        },
+        {
+          "name": "Russell Zuma",
+          "url": "https://open.spotify.com/artist/0juy2RagFC1qDPlMhEkepe"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417965,
+      "name": "Funa Ban",
+      "url": "https://open.spotify.com/track/4Gp4N9We0FWOwjxy8YiWOC"
+    },
+    {
+      "album": {
         "name": "Funk 55",
         "url": "https://open.spotify.com/album/76EZEYn9nhqGh4mkc14KQb"
       },
@@ -10864,7 +10920,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 467382,
       "name": "Impumelelo (feat. Young Stunna)",
       "url": "https://open.spotify.com/track/6fAQNPY3jkRAKs75NqvdLS"
@@ -17067,7 +17123,7 @@
     },
     {
       "album": {
-        "name": "Monday Boys Holiday (feat. Madumane)",
+        "name": "Monday Boys Holiday (feat. DJ Maphorisa)",
         "url": "https://open.spotify.com/album/2DW4HP2jboMDsjzJwbppke"
       },
       "artists": [
@@ -17084,15 +17140,15 @@
           "url": "https://open.spotify.com/artist/5gAHEecJcLAR9qtLcaiVfj"
         },
         {
-          "name": "Madumane",
-          "url": "https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd"
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
         }
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 390796,
-      "name": "Monday Boys Holiday (feat. Madumane)",
+      "name": "Monday Boys Holiday (feat. DJ Maphorisa)",
       "url": "https://open.spotify.com/track/4pEAeKopzeGr3YCMaVVWwS"
     },
     {
@@ -21546,7 +21602,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 418445,
       "name": "SAdesFakSHen",
       "url": "https://open.spotify.com/track/4KVx0ec8CzTHFKYYgmrQbo"
@@ -26871,6 +26927,32 @@
     },
     {
       "album": {
+        "name": "Twerka",
+        "url": "https://open.spotify.com/album/506jPS8tNKYl5REb2gVVcS"
+      },
+      "artists": [
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Shebeshxt",
+          "url": "https://open.spotify.com/artist/4bDFUYafgZILBp9Yv71mCS"
+        },
+        {
+          "name": "Xduppy",
+          "url": "https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229380,
+      "name": "Twerka",
+      "url": "https://open.spotify.com/track/2ZN6OQlu5FR5fBEv5lf6gH"
+    },
+    {
+      "album": {
         "name": "MY NAME IS JOHN",
         "url": "https://open.spotify.com/album/2sUWvxDvo51PcojM2tqxZZ"
       },
@@ -30170,7 +30252,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 343883,
       "name": "Xikuteka",
       "url": "https://open.spotify.com/track/22rE9AskNp7Q3qUD7hkJrd"

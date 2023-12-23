@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4hrw8K7Pxm.md) - [plain]
 
 > Let it go and belt it out to these classic ballads – covered\. Cover: <a href="spotify:artist:3DIk8KcmVKTr4uGw3AuCtJ">Rose Cousins</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,465 likes - 54 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,481 likes - 54 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4hrw8K7Pxm.md) - [plain]
 | 20 | [Let Her Go](https://open.spotify.com/track/6ItaEfhM0oPK1iesamQMGp) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Bundle of Tantrums](https://open.spotify.com/album/4yJzEyjDPwhSzZsn5ShGZI) | 2:52 |
 | 21 | [Always On My Mind](https://open.spotify.com/track/036pGlJwc9ZVFJNLmniSbF) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sweetheart 2014](https://open.spotify.com/album/0qjDs1pSBA36pw3qL57LAx) | 4:15 |
 | 22 | [Wild Horses](https://open.spotify.com/track/1P3JfNdQLDlQUFmo0r5QyK) | [Charlotte Martin](https://open.spotify.com/artist/5Cmht6FxXbw5GtPOCrzjNM) | [On Your Shore](https://open.spotify.com/album/4azwQskqRbcF2yUske9S7q) | 5:31 |
-| 23 | [To Love Somebody](https://open.spotify.com/track/1CaJWmk3LlOvdCBQfipQlg) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf) | 3:26 |
+| 23 | [To Love Somebody](https://open.spotify.com/track/6p3REGqWrzfBvCPJ0AwNMl) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/4UCb8uaJW44vhGZgiknqkb) | 3:26 |
 | 24 | [Viva La Vida](https://open.spotify.com/track/7cNNiZYPFtWyojppe2MK8J) | [Katie Herzig](https://open.spotify.com/artist/5jbP6txZCMe5l7QLZ1pmJ3) | [Viva La Vida](https://open.spotify.com/album/24a1xuBGgOqj62qlBR1eZR) | 3:13 |
 | 25 | [Turn Your Lights Down Low](https://open.spotify.com/track/4q0LoVlpbnEKjciXc9Ho39) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Sweetheart 2014](https://open.spotify.com/album/0qjDs1pSBA36pw3qL57LAx) | 5:00 |
 | 26 | [Crazy in Love](https://open.spotify.com/track/6m0qBDIhzICOwWMPZdgyVK) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Crazy in Love](https://open.spotify.com/album/3WtUVBD7BEAfA9NjG6LnBk) | 3:47 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd4hrw8K7Pxm.md) - [plain]
 | 53 | [Let It Go](https://open.spotify.com/track/2bYvSAL6llWo0Sdunh2syC) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I), [Tanner Townsend](https://open.spotify.com/artist/1vgJ0JDHRTjDKpUpm3dQaE) | [Let It Go](https://open.spotify.com/album/5QnjKvKE0Ztxd7rnmcqI18) | 4:04 |
 | 54 | [True Colors](https://open.spotify.com/track/4AvvHmGzjW8Y7JZlq51NAQ) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Changing Of The Seasons](https://open.spotify.com/album/3lDLnElZehSq7Vbs9T2hSR) | 2:20 |
 
-Snapshot ID: `MCw2YjQ3ZDI1MGQyYjVkYzYzYTU3YmNjYjQwMGFkOTc2ZTIwZjdjOWZi`
+Snapshot ID: `MCwwNDg2NGNkOWNmNmNiZGY1NmNmMTJmMDNjMWMwOTIwNGNiZTlkOWVh`

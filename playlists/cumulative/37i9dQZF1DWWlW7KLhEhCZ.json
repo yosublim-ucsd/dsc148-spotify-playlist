@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: TOKIODK, Raff\u00e9, tchelo rodrigues, Lipinho",
+  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Feek",
   "name": "Dose Trap",
   "tracks": [
     {
@@ -182,6 +182,36 @@
       "duration_ms": 146249,
       "name": "1800",
       "url": "https://open.spotify.com/track/5n6soGe0pNRzUNyicJbklF"
+    },
+    {
+      "album": {
+        "name": "2016",
+        "url": "https://open.spotify.com/album/5W7BTP5VOH1EYjNypEdQst"
+      },
+      "artists": [
+        {
+          "name": "Kawe",
+          "url": "https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb"
+        },
+        {
+          "name": "JD On Tha Track",
+          "url": "https://open.spotify.com/artist/399fRDjZglRcNLNEDobdt4"
+        },
+        {
+          "name": "22Cartel",
+          "url": "https://open.spotify.com/artist/5VUaQ1P9V5oOwpZBJGh284"
+        },
+        {
+          "name": "Anton Gololobov",
+          "url": "https://open.spotify.com/artist/4zwIlIukGR1I51oLM6Mf6C"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "2016",
+      "url": "https://open.spotify.com/track/4VhIltesJK3LWhex0cRgMX"
     },
     {
       "album": {
@@ -518,7 +548,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 112941,
       "name": "762",
       "url": "https://open.spotify.com/track/2njJ8fi8RBL8vQbyEr9gQe"
@@ -2456,7 +2486,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 156000,
       "name": "Balmain",
       "url": "https://open.spotify.com/track/2BnwbAIhDmCsaRB41x1VBw"
@@ -6527,6 +6557,24 @@
     },
     {
       "album": {
+        "name": "Dia de Maldade",
+        "url": "https://open.spotify.com/album/1QrVB7GiEAeraRwxrb3b1Y"
+      },
+      "artists": [
+        {
+          "name": "Arthurzim",
+          "url": "https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195232,
+      "name": "Dia de Maldade",
+      "url": "https://open.spotify.com/track/7tvyjTSPu87bkFssV2yKKe"
+    },
+    {
+      "album": {
         "name": "Dia de Opera\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/2GxlLLZxTzOysLvE73FbcQ"
       },
@@ -8302,6 +8350,10 @@
         {
           "name": "EHXIS",
           "url": "https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
         }
       ],
       "date_added": "2023-12-15",
@@ -15525,6 +15577,28 @@
     },
     {
       "album": {
+        "name": "Paparazzi",
+        "url": "https://open.spotify.com/album/6J4Svp79B7Zl3W26JqNh4E"
+      },
+      "artists": [
+        {
+          "name": "Feek",
+          "url": "https://open.spotify.com/artist/7rVT3dNwCamCtw5rC7salV"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114782,
+      "name": "Paparazzi",
+      "url": "https://open.spotify.com/track/2yYhGpWhYOL1uZ7o7Rsbbt"
+    },
+    {
+      "album": {
         "name": "Papo de Ronca",
         "url": "https://open.spotify.com/album/1Wz9RFMODBC7SH0hC4p1zx"
       },
@@ -18903,6 +18977,28 @@
     },
     {
       "album": {
+        "name": "Saindo da Lama",
+        "url": "https://open.spotify.com/album/7HojTMsY4sdXsvZG91ylJd"
+      },
+      "artists": [
+        {
+          "name": "Canalha",
+          "url": "https://open.spotify.com/artist/6egerencVd9waJcHzuQA77"
+        },
+        {
+          "name": "Young World",
+          "url": "https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Saindo da Lama",
+      "url": "https://open.spotify.com/track/3Ua3bFWvOk1iharZipH4NM"
+    },
+    {
+      "album": {
         "name": "Saiyajin",
         "url": "https://open.spotify.com/album/3nJLup3kcyLa8N5AVMQ4fq"
       },
@@ -20821,6 +20917,32 @@
     },
     {
       "album": {
+        "name": "Tic Tac",
+        "url": "https://open.spotify.com/album/0RzJlPj22xSVHh7kILUSaN"
+      },
+      "artists": [
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        },
+        {
+          "name": "Dj Aladin GDB",
+          "url": "https://open.spotify.com/artist/1IVneWn4g15GupVFKwNdGJ"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110769,
+      "name": "Tic Tac",
+      "url": "https://open.spotify.com/track/3rlHmQ0Esl4d1utdUrBM8z"
+    },
+    {
+      "album": {
         "name": "Tipo Breckboys",
         "url": "https://open.spotify.com/album/6eoqekxTbTrmKyfmNtndow"
       },
@@ -21524,7 +21646,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 180497,
       "name": "Tudo Ilus\u00f3rio",
       "url": "https://open.spotify.com/track/1yyun2iA78OiazwL8v4Ahm"
@@ -21832,7 +21954,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 152335,
       "name": "Vai Al\u00e9m",
       "url": "https://open.spotify.com/track/6Qjx3rnwP0RZprv4DN659I"
@@ -22244,7 +22366,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 162544,
       "name": "Vicioso",
       "url": "https://open.spotify.com/track/7z7lgmegBbNoxCu8hdgcNL"

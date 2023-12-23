@@ -4,7 +4,7 @@
 
 > Spotify music editors' choice for the best Christian & Gospel songs of the past decade\. Cover: Lauren Daigle
 
-128 songs - 10 hr 2 min
+129 songs - 10 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Love Broke Thru](https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [This Is Not A Test](https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG) | 3:57 | 2019-12-09 |  |
 | [Love Theory](https://open.spotify.com/track/08XnGAqrSwqr08vJ0t4py8) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Love Theory](https://open.spotify.com/album/1iARIUsTUoK0KCsU4vA3h5) | 4:11 | 2019-12-09 |  |
 | [Make Room](https://open.spotify.com/track/3psx3u5uPAG6BH3k6l8gre) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Make Room](https://open.spotify.com/album/6D8do4E6Ye8NaYVCEUQ1uI) | 5:40 | 2019-12-09 | 2022-07-29 |
-| [Make Room](https://open.spotify.com/track/5IhsQZLczOpo7YBZUnJUud) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Make Room](https://open.spotify.com/album/2Gn6iOiQIWzAgeE1TYCJGS) | 5:40 | 2019-12-09 |  |
+| [Make Room](https://open.spotify.com/track/5IhsQZLczOpo7YBZUnJUud) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Make Room](https://open.spotify.com/album/2Gn6iOiQIWzAgeE1TYCJGS) | 5:40 | 2019-12-09 | 2023-12-23 |
+| [Make Room](https://open.spotify.com/track/7Lon0NmVkcUHAxmiPnVwda) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [Make Room](https://open.spotify.com/album/4BcOKZqejPxCGuQb2ArtXa) | 5:40 | 2019-12-09 |  |
 | [Manolo](https://open.spotify.com/track/5HAPGeUzENIzlsIIo6VdiC) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Rise](https://open.spotify.com/album/2QPKh4LqUxtwXGwbriYzqZ) | 4:08 | 2019-12-09 |  |
 | [Manolo](https://open.spotify.com/track/5QKG74VmetNQybSi4Hli9B) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Rise](https://open.spotify.com/album/7uJRbzmSGkzrDW7sT5SSWA) | 4:08 | 2019-12-09 | 2022-07-29 |
 | [Move](https://open.spotify.com/track/42lb5Ne9DymiyPqX9KGOoq) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [The Generous Mr\. Lovewell](https://open.spotify.com/album/4GQ0RziCjR4kkvdGjb7GFy) | 2:58 | 2019-12-09 |  |

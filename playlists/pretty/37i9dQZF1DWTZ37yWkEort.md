@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ37yWkEort.md) - [plain]
 
 > From joyful jubillance to hushed harmonies\. Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,979 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,187 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ37yWkEort.md) - [plain]
 | 47 | [I'll Be Home For Christmas](https://open.spotify.com/track/7K3i0GUuw4tdIy2BtXVqtW) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Unwrapped \- EP](https://open.spotify.com/album/5UxCYp9ugSxlZtp7TIaJoV) | 3:27 |
 | 48 | [I Heard the Bells on Christmas Day](https://open.spotify.com/track/2xsQpFWuAxu5XhhOLQlB7J) | [Street Corner Symphony](https://open.spotify.com/artist/1PvW2XdqUf53cllgpYv6Ge) | [Sorted Noise Records: A Holiday Album, Vol\. 2](https://open.spotify.com/album/5Mj8SnxH6mYUdEIV7w6sbT) | 2:26 |
 | 49 | [Winter Wonderland / Don't Worry Be Happy \(feat\. Tori Kelly\)](https://open.spotify.com/track/2kPpxNSgXRvu5yqkRLKJIu) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [That's Christmas To Me \(Deluxe Edition\)](https://open.spotify.com/album/082VlX7cBth0o8xqDGclNn) | 3:27 |
-| 50 | [Nativity Medley](https://open.spotify.com/track/6Zb2qnkAXLIDFsOSayqu7h) | [Committed](https://open.spotify.com/artist/0zXJ4RC28rSgZ7tR5XgXdH) | [Home For Christmas](https://open.spotify.com/album/4NP170fPWbNHS2eVQ7TvCS) | 3:25 |
+| 50 | [Nativity Medley](https://open.spotify.com/track/67kWuuiaVw8qjtnnOS96Tq) | [Committed](https://open.spotify.com/artist/0zXJ4RC28rSgZ7tR5XgXdH) | [Home For Christmas](https://open.spotify.com/album/4FmWz2Vm8z3KXwo4AJe8Fy) | 3:25 |
 
-Snapshot ID: `MCw5ZGYzZjk2MTkyYWVmMTcyYjBkNDhjMWFmMDdjMzNiZWU5MTIwMDJh`
+Snapshot ID: `MCw1N2IzMTYxYmZhMWYyYzAwMTNkOTY3MjU0N2IwYjkxZjRiMTc2NTA5`

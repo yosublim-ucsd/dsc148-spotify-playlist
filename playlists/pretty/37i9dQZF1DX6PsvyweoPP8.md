@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,448 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,466 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 2 | [Moderada](https://open.spotify.com/track/6ZIjjfDP7ztfZAT8s1cvXF) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Toda Noite](https://open.spotify.com/album/1ybO5RFlM3hhjgssvNfKNe) | 1:32 |
 | 3 | [Não Tenho Tempo](https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [Não Tenho Tempo](https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP) | 2:05 |
 | 4 | [Batom Vermelho](https://open.spotify.com/track/7psoK9b5ngvzLF9ksZPleP) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN), [Thiago Sub](https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG) | [Batom Vermelho](https://open.spotify.com/album/6zBrZYsPxBWeZddGSlazzt) | 3:05 |
-| 5 | [SUANDO O VIDRO](https://open.spotify.com/track/4td6SxFnMIRnfGlryoZYjn) | [Igão](https://open.spotify.com/artist/5SholNdfQZrHBSrOJ6C34X), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [EHXIS](https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4) | [Fotos de Ontem](https://open.spotify.com/album/1m29A0rgwF3EQktfu9rv7s) | 3:20 |
+| 5 | [SUANDO O VIDRO](https://open.spotify.com/track/4td6SxFnMIRnfGlryoZYjn) | [Igão](https://open.spotify.com/artist/5SholNdfQZrHBSrOJ6C34X), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [EHXIS](https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka) | [Fotos de Ontem](https://open.spotify.com/album/1m29A0rgwF3EQktfu9rv7s) | 3:20 |
 | 6 | [+18](https://open.spotify.com/track/3Yzm8lrmibXZyzg2vUYLe8) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Fração 3/4](https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh) | 2:38 |
 | 7 | [Proibidão Freestyle](https://open.spotify.com/track/5aXLowFBawbk0OqOfrvvmr) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [NGC Daddy](https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i) | [Amor e Ódio](https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt) | 2:46 |
 | 8 | [CACHOEIRA](https://open.spotify.com/track/34twBt5xY7Rw1C1SFIgkAq) | [Sos](https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Shoy](https://open.spotify.com/artist/3qGnDZ8BHEsA9Go8ui3RUJ) | [BLACKJUSTINBIEBER](https://open.spotify.com/album/6NY4bto5iCsH2F7VGesC7X) | 3:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PsvyweoPP8.md) - [plain]
 | 74 | [Segundo Andar](https://open.spotify.com/track/1yCRKdKQzfT0Yc8bQU35OF) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Segundo Andar](https://open.spotify.com/album/4nm7SKKXzMr6p098vzJOKh) | 3:54 |
 | 75 | [Na Sua Rota](https://open.spotify.com/track/2ru53XgZV761mqXaBwSk5Y) | [Diego Thug](https://open.spotify.com/artist/4XJyjyOJnsvtZEi5isgKSw), [VK](https://open.spotify.com/artist/00fzfkVD3y9sfUfdaYDAGf) | [Smooth](https://open.spotify.com/album/4Tp411Bh9vDjXlJRHsSpLD) | 3:32 |
 
-Snapshot ID: `MCxkYWRmNWQxMDMzMDgxYjM1ZDYwNjU5ZGZiMjRjYmNjOGU4NDk0MjBh`
+Snapshot ID: `MCw0ZmNjYzRkMzI3NzU0MzFmMzE3YWNmMWMxODE0NjU5ZjMyNmQyYTE5`

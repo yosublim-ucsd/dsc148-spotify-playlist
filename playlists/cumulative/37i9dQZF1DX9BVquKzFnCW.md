@@ -4,7 +4,7 @@
 
 > Set the perfect brunch mood with instrumental and vocal Jazz.
 
-191 songs - 17 hr 23 min
+192 songs - 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,8 @@
 | [Tenderly](https://open.spotify.com/track/4Y9WU4Za9QVX7IIk7bjJCS) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 3:34 | 2022-04-08 |  |
 | [Tenderly](https://open.spotify.com/track/2zcovmEg4YesrC3F88cpfa) | [Vincent Herring](https://open.spotify.com/artist/4vDfWi1S8RneRAgCPOIThL) | [The Uptown Shuffle](https://open.spotify.com/album/4vC9hAFFswlA2MeIq7DF7A) | 10:18 | 2022-02-23 | 2022-10-07 |
 | [That Old Feeling](https://open.spotify.com/track/2d64G7VaZdHQuAquz5HQNu) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 3:03 | 2022-08-17 | 2022-10-12 |
-| [The Man I Love](https://open.spotify.com/track/0fCWTFBws40z2z61wz38H1) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1eJhAsuavF6CLIN9tgCzhx) | 8:34 | 2023-02-09 |  |
+| [The Man I Love](https://open.spotify.com/track/7ALB9gGYQPsnyC3wlfYrgA) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1vxRTqxedJxRmg8J11ZCuF) | 8:34 | 2023-12-21 |  |
+| [The Man I Love](https://open.spotify.com/track/0fCWTFBws40z2z61wz38H1) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1eJhAsuavF6CLIN9tgCzhx) | 8:34 | 2023-02-09 | 2023-12-23 |
 | [The More I See You \- Rudy Van Gelder Edition](https://open.spotify.com/track/42iATJYN5S908wQMReeDkV) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Roll Call](https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7) | 6:47 | 2022-09-15 |  |
 | [The Surrey with the Fringe on Top](https://open.spotify.com/track/6RG7PpVmsdmqga0SIAgHWr) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [Back East](https://open.spotify.com/album/3fNLmm3yOGCQYr2M8Tc5UE) | 5:12 | 2022-02-23 |  |
 | [The Touch Of Your Lips \- Remastered](https://open.spotify.com/track/3ZTityDuOCHIM7ow7twjmX) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [Modern Art](https://open.spotify.com/album/35GC6fz2v6ZoXcVlKf6BA6) | 4:54 | 2022-12-08 |  |

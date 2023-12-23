@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: FRVRFRIDAY",
-  "num_followers": 9460,
+  "num_followers": 9468,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2RhNDE5NDk1MTIzOTkwYjBjZDVlZjA3YzUwOTVjNTgzZTcwZTJh",
+  "snapshot_id": "MCw4M2ViNGE2ZTI0NGE4MjM4OTkyZmVlYTM3MTIxMDk2YTk4Yzg1MWVh",
   "tracks": [
     {
       "added_at": "2023-12-15 05:01:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
+        "name": "The Extravagant Collection",
+        "url": "https://open.spotify.com/album/2gd9dLTFgRz8rhUGSuu3Sq"
+      },
+      "artists": [
+        {
+          "name": "NorthSideBenji",
+          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
+        }
+      ],
+      "duration_ms": 141333,
+      "name": "Money Showers",
+      "url": "https://open.spotify.com/track/776uQXP7W3PhaLF7OoieS3"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
         "name": "Time & It's Order",
         "url": "https://open.spotify.com/album/5k0XSTYg5WgESO7PolSjkV"
       },
@@ -923,18 +939,18 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
-        "name": "The Extravagant Collection",
-        "url": "https://open.spotify.com/album/2gd9dLTFgRz8rhUGSuu3Sq"
+        "name": "Pizzazz",
+        "url": "https://open.spotify.com/album/2R5AREpPKUMqQyIVQG61FI"
       },
       "artists": [
         {
-          "name": "NorthSideBenji",
-          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
+          "name": "Akintoye",
+          "url": "https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq"
         }
       ],
-      "duration_ms": 141333,
-      "name": "Money Showers",
-      "url": "https://open.spotify.com/track/776uQXP7W3PhaLF7OoieS3"
+      "duration_ms": 191489,
+      "name": "Pizzazz",
+      "url": "https://open.spotify.com/track/3QGXdTGnH3EnbSw6KtBSDu"
     },
     {
       "added_at": "2023-12-15 05:01:00",
@@ -983,22 +999,6 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
-        "name": "Pizzazz",
-        "url": "https://open.spotify.com/album/2R5AREpPKUMqQyIVQG61FI"
-      },
-      "artists": [
-        {
-          "name": "Akintoye",
-          "url": "https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq"
-        }
-      ],
-      "duration_ms": 191489,
-      "name": "Pizzazz",
-      "url": "https://open.spotify.com/track/3QGXdTGnH3EnbSw6KtBSDu"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
         "name": "The Jungle",
         "url": "https://open.spotify.com/album/2Ao1lDSZ1N9JmkTaR9PuQF"
       },
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
-        "name": "30,000 ft",
-        "url": "https://open.spotify.com/album/4pe6ylc2vjCU7zQ6EI8ayn"
-      },
-      "artists": [
-        {
-          "name": "NorthSideBenji",
-          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
-        },
-        {
-          "name": "Dj Charlie B",
-          "url": "https://open.spotify.com/artist/0mSZAfNTdQcxi9IIBF6TS5"
-        }
-      ],
-      "duration_ms": 157873,
-      "name": "30,000 ft",
-      "url": "https://open.spotify.com/track/2zR8U7MLwxlLf7xkAew9BR"
-    },
-    {
-      "added_at": "2023-12-15 05:01:00",
-      "album": {
         "name": "All Time High",
         "url": "https://open.spotify.com/album/5ptOOTLiiSnYMUCnAgUE3N"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 272052,
       "name": "Priceless",
       "url": "https://open.spotify.com/track/2Ai10rvOZla3w0GZXuuFSp"
+    },
+    {
+      "added_at": "2023-12-15 05:01:00",
+      "album": {
+        "name": "30,000 ft",
+        "url": "https://open.spotify.com/album/4pe6ylc2vjCU7zQ6EI8ayn"
+      },
+      "artists": [
+        {
+          "name": "NorthSideBenji",
+          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
+        },
+        {
+          "name": "Dj Charlie B",
+          "url": "https://open.spotify.com/artist/0mSZAfNTdQcxi9IIBF6TS5"
+        }
+      ],
+      "duration_ms": 157873,
+      "name": "30,000 ft",
+      "url": "https://open.spotify.com/track/2zR8U7MLwxlLf7xkAew9BR"
     },
     {
       "added_at": "2023-12-15 05:01:00",

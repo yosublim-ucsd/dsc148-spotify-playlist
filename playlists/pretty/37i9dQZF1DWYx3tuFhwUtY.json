@@ -1,12 +1,12 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 143313,
+  "num_followers": 143318,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NzMxNjg4Y2VjODk2MWM2YTBmNjExZmY4ZjJjOGI2N2RjYjlhMjA1",
+  "snapshot_id": "MCwxYTU4YzkzZGM0MmU3OGMyNmEzOGE2NDY3MDY4M2RlMTFjZTMwN2Q0",
   "tracks": [
     {
       "added_at": "2023-10-23 19:19:23",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-10-23 19:19:23",
       "album": {
-        "name": "Comfort To Me",
-        "url": "https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c"
-      },
-      "artists": [
-        {
-          "name": "Amyl and The Sniffers",
-          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
-        }
-      ],
-      "duration_ms": 179560,
-      "name": "Guided By Angels",
-      "url": "https://open.spotify.com/track/4M7o0cOEvDFiJ7I8PXJ3bA"
-    },
-    {
-      "added_at": "2023-10-23 19:19:23",
-      "album": {
         "name": "oh boi",
         "url": "https://open.spotify.com/album/6PJNpyvjXzbPyYAYvSPJlM"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 160333,
       "name": "oh boi",
       "url": "https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf"
+    },
+    {
+      "added_at": "2023-10-23 19:19:23",
+      "album": {
+        "name": "Comfort To Me",
+        "url": "https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c"
+      },
+      "artists": [
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "duration_ms": 179560,
+      "name": "Guided By Angels",
+      "url": "https://open.spotify.com/track/4M7o0cOEvDFiJ7I8PXJ3bA"
     },
     {
       "added_at": "2023-10-23 19:19:23",

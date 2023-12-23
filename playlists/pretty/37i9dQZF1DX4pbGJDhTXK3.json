@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 132833,
+  "num_followers": 132845,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzZlN2FhODVmMjYyYTQ3OTQ5Yjg5NGY1ZTBhOThhZGIzZmZhNzJj",
+  "snapshot_id": "MCw5NjViMjdlNDFkODYwM2E5ZjAyNjBmZGU4NDUyNjM2YTFkZDc2MTg4",
   "tracks": [
     {
       "added_at": "2023-08-02 08:46:27",
@@ -859,18 +859,18 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Moonie",
-        "url": "https://open.spotify.com/album/5AGH3AW6WZ5faWkogVv4Sk"
+        "name": "Perseverance",
+        "url": "https://open.spotify.com/album/3mppadjAyaa5NGmMRDSQIS"
       },
       "artists": [
         {
-          "name": "Melkeveien",
-          "url": "https://open.spotify.com/artist/0I22LfGyl3Ro59xmhLQPx8"
+          "name": "Niilas",
+          "url": "https://open.spotify.com/artist/1qAHgylFxv2gU6bXAQEM2P"
         }
       ],
-      "duration_ms": 368000,
-      "name": "Moonie",
-      "url": "https://open.spotify.com/track/1sd3ZoOJUUmgnGM6FRnzeh"
+      "duration_ms": 166730,
+      "name": "Perseverance",
+      "url": "https://open.spotify.com/track/1S2N8e03dQC5Hs8OC141PE"
     }
   ],
   "unique_name": "Space Disco",

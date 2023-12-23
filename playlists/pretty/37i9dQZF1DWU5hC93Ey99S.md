@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,122 likes - 332 songs - 17 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,287 likes - 332 songs - 17 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 20 | [Never Giving Up \(Moss Remix\)](https://open.spotify.com/track/5yzqYrzYJncpweGfxNYZSV) | [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673), [Moss](https://open.spotify.com/artist/2Jc8cCPK5iNSXVUgf79gD6) | [Never Giving Up](https://open.spotify.com/album/2O9Vnp4n6Ltg4rV8euCKiJ) | 4:20 |
 | 21 | [BLINDED](https://open.spotify.com/track/3oQddpdMx2WTAVqxvNfmL8) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz) | [PUSHER](https://open.spotify.com/album/5spXU9wghS0EO78qdssXzs) | 4:00 |
 | 22 | [Believe In Myself](https://open.spotify.com/track/047hYmw8Viqwx4cavskXVy) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Believe In Myself](https://open.spotify.com/album/5ngmMrPiCbLRleKZXj3zqV) | 3:41 |
-| 23 | [Forever](https://open.spotify.com/track/1l2WYB3pwvyuwCnjXG65LI) | [Iaco](https://open.spotify.com/artist/3D3ELPXX1yx64WfmZLB8Bg), [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [Patrick Aretz](https://open.spotify.com/artist/44bMkU8chE8FJimdH4XyD6) | [Forever](https://open.spotify.com/album/0ksz8SkO5pzob4qLByrWTW) | 2:42 |
+| 23 | [Forever](https://open.spotify.com/track/6lTYC6muvnPrzFgRkfXDBJ) | [Iaco](https://open.spotify.com/artist/3D3ELPXX1yx64WfmZLB8Bg), [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [Patrick Aretz](https://open.spotify.com/artist/44bMkU8chE8FJimdH4XyD6) | [Forever](https://open.spotify.com/album/2czelk7bLALiTeeczrgNdO) | 2:42 |
 | 24 | [Sign Of The Times](https://open.spotify.com/track/2ARN7wBXxusGxT1plo4X6O) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf), [Fylo](https://open.spotify.com/artist/5pXpBRwYE8x1Gy8PnBqyG7), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Sign Of The Times](https://open.spotify.com/album/5mbMwlniFCiNRDDV43dKok) | 3:22 |
 | 25 | [ALIVE](https://open.spotify.com/track/1eiD9V8Ypb1ASaEQrtwWNw) | [Mattilo](https://open.spotify.com/artist/7gAYkHRXnXtaZk4QMJ5kJC) | [ALIVE](https://open.spotify.com/album/1ZP90zyxvU4zTy6qSYLq2m) | 2:50 |
 | 26 | [Feels Like \(La La La\)](https://open.spotify.com/track/66xH0ZJHR3GzjXdTWfpuCP) | [Repiet](https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY), [Julia Kleijn](https://open.spotify.com/artist/6iOYJDZYumYVmzxPbyfg5W) | [Feels Like \(La La La\)](https://open.spotify.com/album/5Fshe1YTYoyg6xJULVRxjn) | 2:48 |
@@ -341,4 +341,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 331 | [Here \- Cyril Hahn Remix](https://open.spotify.com/track/3GerYw4IzfAmx7qbHYwN6X) | [DJ Planet Express](https://open.spotify.com/artist/0nx9ai3o3Ba6bE3WHkEoQg), [Gab Ferreira](https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU), [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2) | [Here \(Cyril Hahn Remix\)](https://open.spotify.com/album/0Br9OqErGn1qZHrOh05Ntf) | 4:01 |
 | 332 | [Tell Me](https://open.spotify.com/track/5o5tFFa10RqTWPsGXnL6uj) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Tell Me](https://open.spotify.com/album/1jPgrvTG7bG5VLWTxIaUDd) | 3:01 |
 
-Snapshot ID: `MCxjZDVmNmNmZTZjY2Y3NjI5NTYwOGUzYmYwOTUxNjYzMWM0ZThhODcx`
+Snapshot ID: `MCwzZTgxYjUwNzYwMGVmMTkwMWVjMjZjY2M5ODdlMThjODg3YTBjNjVm`

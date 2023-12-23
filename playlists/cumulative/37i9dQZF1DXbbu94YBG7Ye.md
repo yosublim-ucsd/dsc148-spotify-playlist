@@ -2,7 +2,7 @@
 
 ### [Éxitos Argentina](https://open.spotify.com/playlist/37i9dQZF1DXbbu94YBG7Ye)
 
-> Si la rompe está acá.
+> Si la rompe está acá\. Foto: Luck Ra.
 
 345 songs - 18 hr 0 min
 

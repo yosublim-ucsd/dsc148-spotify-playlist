@@ -952,10 +952,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 172466,
       "name": "She Twerkin",
       "url": "https://open.spotify.com/track/4foyyTPR2jUcATliukBkd9"
+    },
+    {
+      "album": {
+        "name": "Let's Get It",
+        "url": "https://open.spotify.com/album/7w4MsLOT6FdH3ICSfscJ5w"
+      },
+      "artists": [
+        {
+          "name": "Ca$h Out",
+          "url": "https://open.spotify.com/artist/7Kp7SzuRuNiPFCy7JIwnLx"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172466,
+      "name": "She Twerkin",
+      "url": "https://open.spotify.com/track/4ngnFeJ58ivjFl0gFD1Osh"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: Tom Odell
 
-1,609 songs - 3 day 14 hr 40 min
+1,610 songs - 3 day 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [Click Of My Fingers](https://open.spotify.com/track/1Ohz23hcw8s35yExjFv3Rc) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Click Of My Fingers](https://open.spotify.com/album/6wfMwjhTgS27jazms5vOoi) | 3:13 | 2023-08-04 | 2023-08-18 |
 | [Clockwork \(feat\. Spice\)](https://open.spotify.com/track/4GgvXbDt6qKWCSI8Fw2cVs) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Clockwork \(feat\. Spice\)](https://open.spotify.com/album/3FyXlLA79Yv7cNJgMQDGM8) | 2:32 | 2022-08-18 | 2022-09-09 |
 | [Closer](https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Closer](https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA) | 2:15 | 2023-05-04 | 2023-06-16 |
+| [Closer Than This](https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Closer Than This](https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4) | 3:43 | 2023-12-22 |  |
 | [Co\-Star](https://open.spotify.com/track/2rYu4zr0jXGWAHmNdpQYsl) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Co\-Star](https://open.spotify.com/album/0FLajXxca41VLTunahQo9s) | 2:46 | 2023-05-04 | 2023-06-09 |
 | [Coffee](https://open.spotify.com/track/6Nar1OSCQBUqXQ7G6lUIq1) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Coffee](https://open.spotify.com/album/6fUx09147ONG7cKZyHK1cC) | 2:43 | 2023-12-01 |  |
 | [Cold As Ice](https://open.spotify.com/track/6sKJJShsRJpt7e3u4BmrkL) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Cold As Ice](https://open.spotify.com/album/6vS9lBQXdGIDIeQ67ibnzJ) | 2:23 | 2023-01-24 | 2023-03-10 |

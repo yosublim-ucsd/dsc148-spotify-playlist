@@ -1,12 +1,12 @@
 {
   "description": "Fanfarrias y ritmos clown para gozar las tragicomedias de la vida.",
-  "num_followers": 99087,
+  "num_followers": 99102,
   "original_name": "Balkanista Circus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODI0MjBjZTUyMmM3NWE2MTllYzRhNWRhNzBmMWU5M2I2YmViMTAw",
+  "snapshot_id": "MCxlNGQ1YTRhNWE1NDVjMGVjODVjNGQ5MjJhMzhiNjlkOGIxOTBjZTE4",
   "tracks": [
     {
       "added_at": "2023-07-07 06:00:00",
@@ -612,13 +612,17 @@
           "url": "https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY"
         },
         {
-          "name": "Victoria Hanna",
-          "url": "https://open.spotify.com/artist/5nVeL2VpRWBOmH5oN8nuqv"
+          "name": "Vlada Tomova",
+          "url": "https://open.spotify.com/artist/74f7fNXxNm4fYu7ajpXykd"
+        },
+        {
+          "name": "Kristin Espeland",
+          "url": "https://open.spotify.com/artist/1z15SEPLxHchqfFI7SBCTJ"
         }
       ],
-      "duration_ms": 319866,
-      "name": "Adir Adirim (feat. Victoria Hanna)",
-      "url": "https://open.spotify.com/track/6VxSZtJSur7288x4F6Ky2S"
+      "duration_ms": 352560,
+      "name": "Bulgarian Chicks (feat. Vlada Tomova & Kristin Espeland)",
+      "url": "https://open.spotify.com/track/6Z0xtMYSC5RSSPFcFTzNZY"
     },
     {
       "added_at": "2023-07-07 06:00:00",
@@ -720,17 +724,13 @@
           "url": "https://open.spotify.com/artist/2rmMyZC0sUD1a3jkDxp7iY"
         },
         {
-          "name": "Vlada Tomova",
-          "url": "https://open.spotify.com/artist/74f7fNXxNm4fYu7ajpXykd"
-        },
-        {
-          "name": "Kristin Espeland",
-          "url": "https://open.spotify.com/artist/1z15SEPLxHchqfFI7SBCTJ"
+          "name": "Victoria Hanna",
+          "url": "https://open.spotify.com/artist/5nVeL2VpRWBOmH5oN8nuqv"
         }
       ],
-      "duration_ms": 352560,
-      "name": "Bulgarian Chicks (feat. Vlada Tomova & Kristin Espeland)",
-      "url": "https://open.spotify.com/track/6Z0xtMYSC5RSSPFcFTzNZY"
+      "duration_ms": 319866,
+      "name": "Adir Adirim (feat. Victoria Hanna)",
+      "url": "https://open.spotify.com/track/6VxSZtJSur7288x4F6Ky2S"
     },
     {
       "added_at": "2023-07-07 06:00:00",

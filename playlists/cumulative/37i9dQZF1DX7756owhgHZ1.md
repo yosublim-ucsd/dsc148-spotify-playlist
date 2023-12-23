@@ -4,7 +4,7 @@
 
 > Ya sea en la rampa o en la consola, así sonaba montar en patineta.
 
-82 songs - 4 hr 29 min
+83 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Guerrilla Radio](https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [The Battle Of Los Angeles](https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX) | 3:26 | 2022-06-07 |  |
 | [Heavy Metal Winner](https://open.spotify.com/track/7tt28wbdKmFqZZXsCh4tTk) | [Consumed](https://open.spotify.com/artist/7bXsAsoUGJlM4VVB9xOmn2) | [Breakfast at Pappa's](https://open.spotify.com/album/33nqyAuvFDFNON9ljSqF6r) | 2:29 | 2022-06-07 |  |
 | [Here and Now](https://open.spotify.com/track/5lsMyHFs19kw0jYNP0MNKK) | [The Ernies](https://open.spotify.com/artist/1kNq8yT2S4lD5jetHxcyug) | [Meson Ray](https://open.spotify.com/album/2JHRbAV8L0f6P6cbZItoI2) | 3:30 | 2022-06-07 |  |
-| [Hush](https://open.spotify.com/track/7q0xO3uiDpfqyyWXNMWspM) | [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla) | [Sneak Attack](https://open.spotify.com/album/5xuI6nfWnsMKQMZgQFJMBN) | 3:55 | 2022-06-07 |  |
+| [Hush](https://open.spotify.com/track/75PrH413lre392eFKHl3tw) | [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla) | [Sneak Attack](https://open.spotify.com/album/4T1jD9iMVHc8fAW3IcvEPo) | 3:55 | 2022-06-07 |  |
+| [Hush](https://open.spotify.com/track/7q0xO3uiDpfqyyWXNMWspM) | [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla) | [Sneak Attack](https://open.spotify.com/album/5xuI6nfWnsMKQMZgQFJMBN) | 3:55 | 2022-06-07 | 2023-12-23 |
 | [I Can't Surf](https://open.spotify.com/track/1qayBQRQNeZ2aqGoDLlPaw) | [The Reverend Horton Heat](https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw) | [Liquor In The Front](https://open.spotify.com/album/6GqYzAmsKiXdSV4C55iBT3) | 2:41 | 2022-06-07 |  |
 | [I'm A Swing It](https://open.spotify.com/track/1qB61CUkHHalhxapCrvMsE) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [Same As It Ever Was](https://open.spotify.com/album/5fuj5MjKypNxYNqjS6QlFK) | 3:43 | 2022-06-07 |  |
 | [If You Must](https://open.spotify.com/track/5eV0XIpuWFS8H7OYDDxA4E) | [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl) | [Both Sides Of The Brain](https://open.spotify.com/album/6DHCRrWGl9f57G4JBu4AVv) | 3:45 | 2022-06-07 |  |

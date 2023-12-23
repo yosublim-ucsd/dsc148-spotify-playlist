@@ -1,12 +1,12 @@
 {
   "description": "A mixtape for the perfect anime fight scene.",
-  "num_followers": 879495,
+  "num_followers": 881376,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmQyZWJkZDk4MGUyZTdhYmEzZTdlNzZkNjVkYTNlNzg4NzliYTAy",
+  "snapshot_id": "MCw2ODY5Njg3Y2VhYmE2ODJmNDAyN2ExNWUyZTg4NzkyM2ZlZjczMzMz",
   "tracks": [
     {
       "added_at": "2023-11-30 21:49:16",
@@ -109,22 +109,6 @@
       "url": "https://open.spotify.com/track/0xbReDSQvm20f1PKsos4bh"
     },
     {
-      "added_at": "2023-09-26 20:58:57",
-      "album": {
-        "name": "Freddie's Inferno",
-        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 169946,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
-    },
-    {
       "added_at": "2023-09-29 04:00:00",
       "album": {
         "name": "Fluxxwave",
@@ -139,6 +123,22 @@
       "duration_ms": 150441,
       "name": "Fluxxwave",
       "url": "https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr"
+    },
+    {
+      "added_at": "2023-09-26 20:58:57",
+      "album": {
+        "name": "Freddie's Inferno",
+        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "duration_ms": 169946,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp"
     },
     {
       "added_at": "2023-09-26 20:58:57",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-09-26 20:58:57",
       "album": {
+        "name": "Young Kid",
+        "url": "https://open.spotify.com/album/4v61ZFQT5pnNrmvpO9DFLz"
+      },
+      "artists": [
+        {
+          "name": "IVOXYGEN",
+          "url": "https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm"
+        }
+      ],
+      "duration_ms": 209057,
+      "name": "Young Kid",
+      "url": "https://open.spotify.com/track/6EZE2Pr5Wc2UVkna4XRIBf"
+    },
+    {
+      "added_at": "2023-09-26 20:58:57",
+      "album": {
         "name": "C'est La Vie",
         "url": "https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 160161,
       "name": "C'est La Vie (with bbno$ & Rich Brian)",
       "url": "https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB"
-    },
-    {
-      "added_at": "2023-09-26 20:58:57",
-      "album": {
-        "name": "Young Kid",
-        "url": "https://open.spotify.com/album/4v61ZFQT5pnNrmvpO9DFLz"
-      },
-      "artists": [
-        {
-          "name": "IVOXYGEN",
-          "url": "https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm"
-        }
-      ],
-      "duration_ms": 209057,
-      "name": "Young Kid",
-      "url": "https://open.spotify.com/track/6EZE2Pr5Wc2UVkna4XRIBf"
     },
     {
       "added_at": "2023-09-26 20:58:57",
@@ -989,22 +989,6 @@
       "url": "https://open.spotify.com/track/1VvwxqIfKRazmvE7zdDFRg"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Cult Classic",
-        "url": "https://open.spotify.com/album/2NZN7qaSZeikj7HTXdnkfT"
-      },
-      "artists": [
-        {
-          "name": "ta2cute",
-          "url": "https://open.spotify.com/artist/4ffPkIlhB0oEmGr30n8tJj"
-        }
-      ],
-      "duration_ms": 107520,
-      "name": "Cult Classic",
-      "url": "https://open.spotify.com/track/4Gyevf6hfKBzh69K79twjP"
-    },
-    {
       "added_at": "2023-11-28 14:56:54",
       "album": {
         "name": "XO EViL LiF3 (.DEMON.)",
@@ -1019,6 +1003,22 @@
       "duration_ms": 123591,
       "name": "XO EViL LiF3 (.DEMON.)",
       "url": "https://open.spotify.com/track/0oUmiDcH2jBUEgiSnob5JW"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Cult Classic",
+        "url": "https://open.spotify.com/album/2NZN7qaSZeikj7HTXdnkfT"
+      },
+      "artists": [
+        {
+          "name": "ta2cute",
+          "url": "https://open.spotify.com/artist/4ffPkIlhB0oEmGr30n8tJj"
+        }
+      ],
+      "duration_ms": 107520,
+      "name": "Cult Classic",
+      "url": "https://open.spotify.com/track/4Gyevf6hfKBzh69K79twjP"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1293,20 +1293,20 @@
       "url": "https://open.spotify.com/track/1671uMsakQAiHKNAKeV3YI"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-09-26 20:58:57",
       "album": {
-        "name": "3 Stars",
-        "url": "https://open.spotify.com/album/6FNO4AGIDjRu7gMLNpm3x1"
+        "name": "Speak Up",
+        "url": "https://open.spotify.com/album/1ClM2j1wfA7qNIAtIGtpqJ"
       },
       "artists": [
         {
-          "name": "Jair Archive",
-          "url": "https://open.spotify.com/artist/0ZrZh19MF2a8US5n8mfXKY"
+          "name": "Is0kenny",
+          "url": "https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb"
         }
       ],
-      "duration_ms": 158222,
-      "name": "3 Stars",
-      "url": "https://open.spotify.com/track/3z2TthJcrKYXF9EwVgGTmo"
+      "duration_ms": 104960,
+      "name": "Speak Up",
+      "url": "https://open.spotify.com/track/5uZB4RTZcrI6l7j3n7SjqN"
     }
   ],
   "unique_name": "sh\u014dnen",

@@ -1,12 +1,12 @@
 {
   "description": "Escucha lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 23850,
+  "num_followers": 23855,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YWIwMTMyMTc0YWEwYmViN2NmMmMwYThkMDZkZjIyYTA0Y2VjNTdk",
+  "snapshot_id": "MCw0ODE5ZTE5ZWU1YjU1ZTg1NmY1YzkzYmE1YjE5Yzc5YTg1NzFmMWI1",
   "tracks": [
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Mango Negro",
-        "url": "https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF"
-      },
-      "artists": [
-        {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
-        }
-      ],
-      "duration_ms": 208095,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/1t59IuGyLPy0ge1nKeQNXL"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "El Im\u00e1n (Remix)",
         "url": "https://open.spotify.com/album/57eGpWYvr1Oknqn2wExxZe"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 228000,
       "name": "El Im\u00e1n - Remix",
       "url": "https://open.spotify.com/track/2eIGZkPBrCJ4VhqdgaXXV3"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Mango Negro",
+        "url": "https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 208095,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/1t59IuGyLPy0ge1nKeQNXL"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "El Mundo Ser\u00e1 Nuestro",
+        "url": "https://open.spotify.com/album/4HU8TUSho4zUe3eG9I2xnX"
+      },
+      "artists": [
+        {
+          "name": "GLAS",
+          "url": "https://open.spotify.com/artist/4Z1zjj6iQYhxLY9zE9sJch"
+        }
+      ],
+      "duration_ms": 278120,
+      "name": "El Mundo Ser\u00e1 Nuestro",
+      "url": "https://open.spotify.com/track/44ISmW3lNQUqyqRRKrTw2K"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Bajo la piel",
         "url": "https://open.spotify.com/album/06KYlFtTKi0XoT444EMjDM"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 240113,
       "name": "Bajo la piel",
       "url": "https://open.spotify.com/track/30vd3jTxbr6UYuuTvayxPX"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "El Mundo Ser\u00e1 Nuestro",
-        "url": "https://open.spotify.com/album/4HU8TUSho4zUe3eG9I2xnX"
-      },
-      "artists": [
-        {
-          "name": "GLAS",
-          "url": "https://open.spotify.com/artist/4Z1zjj6iQYhxLY9zE9sJch"
-        }
-      ],
-      "duration_ms": 278120,
-      "name": "El Mundo Ser\u00e1 Nuestro",
-      "url": "https://open.spotify.com/track/44ISmW3lNQUqyqRRKrTw2K"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Guazatumba",
-        "url": "https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC"
-      },
-      "artists": [
-        {
-          "name": "Dani Umpi",
-          "url": "https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI"
-        }
-      ],
-      "duration_ms": 229726,
-      "name": "Circular",
-      "url": "https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "7 canciones antes de que nos corten la luz",
         "url": "https://open.spotify.com/album/58Kzrvix7aM7yh0N4CpRVm"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 246144,
       "name": "En la Torre - AV Remix",
       "url": "https://open.spotify.com/track/5zW85xW2bXJWP5b2xES8Fc"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Guazatumba",
+        "url": "https://open.spotify.com/album/63nVyKVXvnLNnVR6x3mlxC"
+      },
+      "artists": [
+        {
+          "name": "Dani Umpi",
+          "url": "https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI"
+        }
+      ],
+      "duration_ms": 229726,
+      "name": "Circular",
+      "url": "https://open.spotify.com/track/21Rw3bEHD9hdwDIpD3BaWk"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "MELONI",
+        "url": "https://open.spotify.com/album/1r1GGAlVXkvKowtbnwy0XO"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+        }
+      ],
+      "duration_ms": 178050,
+      "name": "MELONI",
+      "url": "https://open.spotify.com/track/0ErlJwEdhMnZTDveD7GYUX"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Alta Magia (Reversi\u00f3n 10 a\u00f1os)",
         "url": "https://open.spotify.com/album/1a8CMgCRNBYvJCLogVuMVl"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 357200,
       "name": "Alta Magia - Reversi\u00f3n 10 a\u00f1os",
       "url": "https://open.spotify.com/track/5i7zmthWP0dImjaFZvzHDj"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "MELONI",
-        "url": "https://open.spotify.com/album/1r1GGAlVXkvKowtbnwy0XO"
-      },
-      "artists": [
-        {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
-        }
-      ],
-      "duration_ms": 178050,
-      "name": "MELONI",
-      "url": "https://open.spotify.com/track/0ErlJwEdhMnZTDveD7GYUX"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1679,30 +1679,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Pervertida",
-        "url": "https://open.spotify.com/album/07oXThRDn2gQ4hvcNMWFRK"
-      },
-      "artists": [
-        {
-          "name": "Vera Frod",
-          "url": "https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX"
-        },
-        {
-          "name": "Punga",
-          "url": "https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk"
-        },
-        {
-          "name": "MAG",
-          "url": "https://open.spotify.com/artist/4btSpSQaEy7tSM9zfJk8Iz"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "Pervertida",
-      "url": "https://open.spotify.com/track/3NdVUpnmEzQgJXREHnOZAk"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Voces",
         "url": "https://open.spotify.com/album/6Qm4Tz23VhWx1rY2ZGZKr5"
       },
@@ -1735,6 +1711,30 @@
       "duration_ms": 310890,
       "name": "Sombras en la Pared - Vivo Buenos Aires",
       "url": "https://open.spotify.com/track/22y9nKZDxQu7tgPwkeHPqW"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Pervertida",
+        "url": "https://open.spotify.com/album/07oXThRDn2gQ4hvcNMWFRK"
+      },
+      "artists": [
+        {
+          "name": "Vera Frod",
+          "url": "https://open.spotify.com/artist/2ffhBFNgQMHzaJt0v4A8fX"
+        },
+        {
+          "name": "Punga",
+          "url": "https://open.spotify.com/artist/0wpeDItjD9NshrMSwk6plk"
+        },
+        {
+          "name": "MAG",
+          "url": "https://open.spotify.com/artist/4btSpSQaEy7tSM9zfJk8Iz"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "Pervertida",
+      "url": "https://open.spotify.com/track/3NdVUpnmEzQgJXREHnOZAk"
     }
   ],
   "unique_name": "ElectroPop",

@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Jessica Mauboy
 
-2,511 songs - 5 day 15 hr 30 min
+2,514 songs - 5 day 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,6 +435,7 @@
 | [Close One](https://open.spotify.com/track/1fjy0KUEjw9yMWHk4Gto8F) | [FIZZ](https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U) | [Close One](https://open.spotify.com/album/0vmGHMVens3mb4VoPiVcyn) | 3:55 | 2023-07-20 | 2023-07-28 |
 | [Close Quarters](https://open.spotify.com/track/7eCpxZdpP7kz9j2OUJLbpd) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Close Quarters](https://open.spotify.com/album/4JEizeJf7M3cbLEzbtmxif) | 3:40 | 2023-10-19 | 2023-10-27 |
 | [Closed Doors \(feat\. Roddy Ricch\)](https://open.spotify.com/track/2d7skuHfmB45wv4KyC2v13) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [A Love Letter To You 5](https://open.spotify.com/album/4zkMdAqSIOLL2BOFZeQ3tg) | 2:48 | 2023-08-10 | 2023-08-18 |
+| [Closer Than This](https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Closer Than This](https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4) | 3:43 | 2023-12-21 |  |
 | [Closer To You](https://open.spotify.com/track/64UCdNSBP51U28Uduj1KiI) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Closer To You / Make Yourself At Home](https://open.spotify.com/album/6g2yAFcr82CEv9ONmcfntZ) | 2:34 | 2023-09-14 | 2023-09-22 |
 | [Cloud](https://open.spotify.com/track/4H3S0dQ6g8QwacSCp9W156) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Cloud](https://open.spotify.com/album/00m3LiJyqbMziKcN5eO67G) | 2:36 | 2023-09-07 | 2023-09-15 |
 | [Cloud Dancing](https://open.spotify.com/track/1osa9IosuISMYwkfOGguY5) | [Paige Valentine](https://open.spotify.com/artist/03CUg2BV0QxiYIq0IfAsBS) | [Cloud Dancing](https://open.spotify.com/album/7fkki65cI89IRPRiCaobTB) | 3:26 | 2023-07-07 | 2023-07-14 |
@@ -1759,7 +1760,8 @@
 | [Quality High](https://open.spotify.com/track/4yPiuOo5BO4i9X3D8iMF85) | [DJ PGZ](https://open.spotify.com/artist/4cM6iICvyU8aHE7vawUiuX) | [DJ\-Kicks: HAAi](https://open.spotify.com/album/5f7wLlgF33y9CUibAk3a5z) | 3:38 | 2023-11-09 | 2023-11-17 |
 | [QUE CHIMBA DE VIDA](https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [QUE CHIMBA DE VIDA](https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW) | 2:03 | 2023-12-14 | 2023-12-22 |
 | [Queenstown](https://open.spotify.com/track/6L0MbYJhGk4XoEaZwWGVVw) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [Queenstown](https://open.spotify.com/album/2oLD4argcWCIATfbaTBb3n) | 2:16 | 2023-10-26 | 2023-11-03 |
-| [QUI ?](https://open.spotify.com/track/7jqzUrQlx59stbR6fNebwW) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [24](https://open.spotify.com/album/2vdJtLZGq4ljPBo3gFTwJC) | 3:12 | 2023-12-21 |  |
+| [QUI ?](https://open.spotify.com/track/1esBqSSIPYQfmyO7CSl9XP) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [QUI ?](https://open.spotify.com/album/21shtpfyWLPviW9L5huGQ9) | 3:12 | 2023-12-21 |  |
+| [QUI ?](https://open.spotify.com/track/7jqzUrQlx59stbR6fNebwW) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [24](https://open.spotify.com/album/2vdJtLZGq4ljPBo3gFTwJC) | 3:12 | 2023-12-21 | 2023-12-23 |
 | [Quilt of Steam](https://open.spotify.com/track/0ZVUxuPLkIswDAxiACZPxM) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Quilt of Steam](https://open.spotify.com/album/7JBq28iBb2RIh8TgULDo3N) | 3:31 | 2023-09-07 | 2023-09-15 |
 | [R e s e n t m e n t](https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e s e n t m e n t](https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi) | 3:44 | 2023-07-07 | 2023-07-14 |
 | [Rachel's Song \- Spotify Singles](https://open.spotify.com/track/0khFZaCEnXkBmBRA8M4g0d) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Rachel's Song \- Spotify Singles](https://open.spotify.com/album/5IgVZoSuJ9WShRKoqYIKgw) | 3:21 | 2023-09-21 | 2023-09-29 |
@@ -2485,7 +2487,8 @@
 | [YOU](https://open.spotify.com/track/20Nlzo9dfkAHmLvziPoFpS) | [TALI](https://open.spotify.com/artist/518ZodQRWmIB3NXK21p1fY) | [YOU](https://open.spotify.com/album/6fBiNaTSWVcl4RsOuAMC4j) | 4:10 | 2023-12-21 |  |
 | [You & I](https://open.spotify.com/track/1EuWkVH5tfxmvVNGVnNu1Y) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You & I](https://open.spotify.com/album/5sXGarr3y9MdqxnO8MFlGz) | 3:00 | 2023-07-13 | 2023-07-21 |
 | [YOU & I \(feat\. Khalid\)](https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 3:25 | 2023-07-27 | 2023-08-04 |
-| [You & Me](https://open.spotify.com/track/0yjswHWcqTEtpoe4IzJRI5) | [Merlin](https://open.spotify.com/artist/2MaEWDHjb1owUg3SGhS1vp), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [You & Me](https://open.spotify.com/album/6R5u0Z5107RbTtAIk9aQ0k) | 2:34 | 2023-12-21 |  |
+| [You & Me](https://open.spotify.com/track/0yjswHWcqTEtpoe4IzJRI5) | [Merlin](https://open.spotify.com/artist/2MaEWDHjb1owUg3SGhS1vp), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [You & Me](https://open.spotify.com/album/6R5u0Z5107RbTtAIk9aQ0k) | 2:34 | 2023-12-21 | 2023-12-23 |
+| [You & Me](https://open.spotify.com/track/7ouJOwsTo9wpmV4bDdOH8M) | [Merlin](https://open.spotify.com/artist/2MaEWDHjb1owUg3SGhS1vp), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [You & Me](https://open.spotify.com/album/2cTcV37tJ1qVXTH1iRf2Mz) | 2:34 | 2023-12-21 |  |
 | [You & Me \(Coachella ver.\)](https://open.spotify.com/track/0Vz146N2GxkVJw4kSGXrNi) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 | 2023-10-06 | 2023-10-13 |
 | [You \(feat\. Bryson Tiller\)](https://open.spotify.com/track/6TkH5GHcf1U8kfqTkMFsau) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [You \(feat\. Bryson Tiller\)](https://open.spotify.com/album/7DMxs55TJunN8qsvbGDBXl) | 2:41 | 2023-09-21 | 2023-09-29 |
 | [You Ain't No Celebrity](https://open.spotify.com/track/32PKkiwexuMNEDqfH1p3IH) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Roots Manuva](https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:33 | 2023-08-10 | 2023-08-18 |

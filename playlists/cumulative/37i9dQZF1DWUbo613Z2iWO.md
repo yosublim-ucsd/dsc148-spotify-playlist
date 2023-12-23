@@ -2,9 +2,9 @@
 
 ### [R&B Rising](https://open.spotify.com/playlist/37i9dQZF1DWUbo613Z2iWO)
 
-> R&B of the moment by the artists of the future\. Cover: Rhyan Douglas
+> R&B of the moment by the artists of the future\. Cover: RAAHiiM
 
-736 songs - 1 day 13 hr 53 min
+740 songs - 1 day 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Astrology Joint](https://open.spotify.com/track/1jcGbrSCZ32Q2vyvOpOZzg) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc) | [Astrology Joint](https://open.spotify.com/album/22JbTK2Ol0UpTjPnW8rlds) | 2:32 | 2022-10-28 | 2022-11-28 |
 | [Ave Maria](https://open.spotify.com/track/5UzLPjUzrIStZCocniiH1y) | [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Ave Maria](https://open.spotify.com/album/1YtC5fvdj2z7XosDbmZYAS) | 2:57 | 2023-10-20 |  |
 | [B.E.D](https://open.spotify.com/track/2oJYToyHxZ7mehhlvEhArB) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [B.E.D](https://open.spotify.com/album/4XzsqZssA5YNJ6lq8SRjXK) | 2:53 | 2022-11-25 | 2023-01-27 |
+| [Baby Blue](https://open.spotify.com/track/4NZcudZGLMwhRMgdqGdRBm) | [MiLES.](https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I) | [Baby Blue](https://open.spotify.com/album/3cHzK2dR1QpVHkwuOaERnW) | 3:03 | 2023-12-22 |  |
 | [Back](https://open.spotify.com/track/0GEX3Viy33NfvCax4GUREd) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Back](https://open.spotify.com/album/26PeJZE5BuDDc95AM07vX5) | 2:18 | 2023-10-06 |  |
 | [Back to Back \(feat\. Jordan Hawkins\)](https://open.spotify.com/track/0gvG9jO8DdIctLEatJAYq1) | [Zyah Belle](https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx), [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY) | [Yam Grier](https://open.spotify.com/album/2KvfsMy0IQ2XRd5Rh7Ur2Q) | 2:23 | 2022-09-09 | 2023-01-21 |
 | [BAD bad](https://open.spotify.com/track/6jn1TPD9mS9HGPXRIad6ck) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg) | 2:49 | 2022-07-15 |  |
@@ -146,6 +147,7 @@
 | [CYCLOPS](https://open.spotify.com/track/08wrYXprFh9EkOQEpYOg4p) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [CYCLOPS](https://open.spotify.com/album/0p2Ar5mzLge5fgL0bc0pDm) | 2:09 | 2022-09-09 | 2022-09-29 |
 | [CYCLOPS](https://open.spotify.com/track/78ndblGlkOiMHUrrWPgBoL) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [C BOTH SIDES](https://open.spotify.com/album/4L0umpEJcMerCrqZmzbhHc) | 2:09 | 2022-09-09 | 2022-11-19 |
 | [Damaged](https://open.spotify.com/track/2zKsGLytwZOY5WKEZ1ARAk) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [All For You](https://open.spotify.com/album/6VpIFMps1Uha73gk1c50sJ) | 3:16 | 2023-04-28 |  |
+| [Damaged](https://open.spotify.com/track/2bykKLIOGkqpeEVny89YZm) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [Damaged](https://open.spotify.com/album/5qYpTAiam2ad9DkIbBqxVg) | 2:26 | 2023-12-22 |  |
 | [Damages](https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 2:49 | 2022-11-27 | 2022-12-03 |
 | [Day by Day \- A COLORS SHOW](https://open.spotify.com/track/0Da3eqAgSgLp4UiVdCjJJ1) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [Day by Day \- A COLORS SHOW](https://open.spotify.com/album/7vggzM9Ag5clwyHjXuZU8F) | 3:50 | 2023-09-29 | 2023-10-07 |
 | [DAY PARTY](https://open.spotify.com/track/11MSMTqJHzwI67SXaaCKpi) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [DAY PARTY](https://open.spotify.com/album/5EsYiXCWkKzcUfSsDvIBNG) | 3:06 | 2022-07-29 | 2023-01-21 |
@@ -633,6 +635,7 @@
 | [SWITCH](https://open.spotify.com/track/2vQ1is9lsYZ94S3jpK1cpK) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SWITCH](https://open.spotify.com/album/25PmquWhVVEAHM4b0BDxnW) | 1:44 | 2023-03-24 | 2023-08-19 |
 | [Switching Sides \(feat\. Dee Gatti\)](https://open.spotify.com/track/4lUEgk2Da44ikFhF5TS863) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG), [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Switching Sides \(feat\. Dee Gatti\)](https://open.spotify.com/album/0t0KTaeuABJBI0XiNM9vyr) | 2:19 | 2023-09-29 |  |
 | [Taj Mahal](https://open.spotify.com/track/5VAxNirVOEJXjY6cWhAcOy) | [Kent Jamz](https://open.spotify.com/artist/4JgGhWEWcKIyT84mknHP2w) | [Fanclub](https://open.spotify.com/album/2aUAe6i5say6qqCczPvoXd) | 3:36 | 2022-07-15 | 2023-01-21 |
+| [Take It Personal](https://open.spotify.com/track/51pmSmEShGFFKKZ4wszESe) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb) | [Take It Personal](https://open.spotify.com/album/4n4InJrgimhQkVcyEvo85K) | 2:45 | 2023-12-22 |  |
 | [Take Me Where Your Heart Is](https://open.spotify.com/track/4EcoXZhvbU3qS7ORWUEcVI) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment](https://open.spotify.com/album/0oHFSP4uqDes9sOZQu43Jz) | 3:12 | 2022-11-27 | 2022-12-03 |
 | [Talk](https://open.spotify.com/track/2aSXyr2Oe8wsLAmu9vXRp6) | [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [Talk](https://open.spotify.com/album/30iqgFepgpkIF9uV1lgvCD) | 2:01 | 2022-08-12 | 2022-08-27 |
 | [TALK TO ME \- TOO LATE](https://open.spotify.com/track/5dBbcUqd5nh5kPKzMotgjr) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [PHASE](https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH) | 2:52 | 2022-07-15 | 2023-01-21 |
@@ -677,6 +680,7 @@
 | [Try](https://open.spotify.com/track/4Zm8CIL9MxVyBQWSpLp5Ia) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Try](https://open.spotify.com/album/3txzhFYWBkCMkJR8dQcfe8) | 3:44 | 2022-03-25 | 2022-04-09 |
 | [Try Peace...](https://open.spotify.com/track/26H5U6YRMbzunMgCe89r0s) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [Try Peace...](https://open.spotify.com/album/3qThDnd30yCBWBmpu4nE8Y) | 3:40 | 2022-03-05 | 2022-04-09 |
 | [tryin'](https://open.spotify.com/track/6duHdmejOzmN50yAyov3me) | [Hydra](https://open.spotify.com/artist/04IZ5jHUHqhsKtfpOsbztY) | [karma/tryin'](https://open.spotify.com/album/7MIw0DITwU9Hdw1d8EMFGn) | 2:59 | 2022-04-15 | 2022-05-21 |
+| [ttuctmd](https://open.spotify.com/track/7bsqStKmTP9TgMESunVxLX) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [ttuctmd](https://open.spotify.com/album/1ErqwoGil01Xr66CiUxU3u) | 2:00 | 2023-12-22 |  |
 | [U & I](https://open.spotify.com/track/7DaHNeYZ9kUJntu5R6rVnS) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [U & I](https://open.spotify.com/album/3ypZDA00UD5VEhPqwxTL2F) | 3:42 | 2023-11-24 |  |
 | [U Betta](https://open.spotify.com/track/2OF9aQTc1njv5oAbb70hyp) | [Ayanis](https://open.spotify.com/artist/0ce3UlXwNzZPkj78XYLE7V), [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [U Betta](https://open.spotify.com/album/7yZPf3CYymoGrMpREMFyaD) | 2:20 | 2022-05-20 | 2022-07-02 |
 | [Uncomplicated](https://open.spotify.com/track/0X9mvqR44xcw6oLo89kn92) | [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [Uncomplicated](https://open.spotify.com/album/4TjOZMU3Npr6rAiqAy5UW0) | 3:36 | 2022-06-17 | 2022-07-16 |

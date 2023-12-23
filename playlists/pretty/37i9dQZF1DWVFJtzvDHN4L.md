@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFJtzvDHN4L.md) - [plain]
 
 > Relaxing soundtracks to help you escape and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 711,842 likes - 59 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 711,932 likes - 59 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,6 +66,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFJtzvDHN4L.md) - [plain]
 | 56 | [London 1998](https://open.spotify.com/track/4LlS0nNtGd8SuFkyVRpXY3) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [Denial \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/29TiQwxSFV2hyxaA6tSlmN) | 1:41 |
 | 57 | [The Chair](https://open.spotify.com/track/1EcJYWBoOiF8TlcUyYPVY3) | [Angelo Badalamenti](https://open.spotify.com/artist/3Eeb1U0VJTDaFpBHV4DmHl) | [The Chair](https://open.spotify.com/album/22Y2C5UQbkvxQOzEUdjDG9) | 4:31 |
 | 58 | [Truths](https://open.spotify.com/track/4lGzvVyw3ETJPiBD5YR1w4) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Everything, Everything \(Original Motion Picture Score\)](https://open.spotify.com/album/4iH6tmjBXE7mHONZn9KylD) | 1:54 |
-| 59 | [Miss Sloane Solo](https://open.spotify.com/track/45SUuwxzQQzvnAaMjuM5XZ) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Miss Sloane \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yZ9kWiGkJ3i6fxWw9cxV9) | 2:07 |
+| 59 | [Miss Sloane Solo](https://open.spotify.com/track/08w5Hy6Lv5d6y3iZZyaM3K) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Miss Sloane \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/09zIgmRsrLm0bpTzxQCBO7) | 2:07 |
 
-Snapshot ID: `MCwxYjdmMDIwYzY4NmQwNzgwNDc4NzM1MGY2ZTA2ZTJkMDIwMjEwMzMx`
+Snapshot ID: `MCxkZjFkZTBmZGFjNzA1N2VhNmI5MWI3YTUxMWU3ZGMwMDFkNWMzM2Ey`

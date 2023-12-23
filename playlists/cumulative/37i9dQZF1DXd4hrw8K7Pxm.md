@@ -4,7 +4,7 @@
 
 > Let it go and belt it out to these classic ballads – covered\. Cover: <a href="spotify:artist:3DIk8KcmVKTr4uGw3AuCtJ">Rose Cousins</a>
 
-90 songs - 5 hr 25 min
+91 songs - 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Stand By You](https://open.spotify.com/track/4Ejcw0qIiDjuaMtB5WDiBD) | [Alex Goot](https://open.spotify.com/artist/66Fb5gJ9SX2WGlqDLUpjux), [Kurt Hugo Schneider](https://open.spotify.com/artist/2BHswvFd8tMBizVWGcAMLm), [Megan Nicole](https://open.spotify.com/artist/3OiVNeHkjQfnikmcBXbplT) | [Stand By You](https://open.spotify.com/album/7iOk9OEVUPZszbWtP7OTn1) | 2:26 | 2020-10-16 | 2022-07-29 |
 | [Stay / Animal Mashup](https://open.spotify.com/track/6uKLfHHDYjHAcnV3T4RW4v) | [Jessica Rotter](https://open.spotify.com/artist/6jQAFXkB1ciNf4PLUfIvdF), [Emily Colombier](https://open.spotify.com/artist/300ulIFHhN4g5WXS056phX) | [Stay / Animal Mashup](https://open.spotify.com/album/3j3qcNrYG0Qsoys4NXZGSs) | 4:24 | 2020-10-16 |  |
 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU) | 2:54 | 2020-10-16 |  |
-| [To Love Somebody](https://open.spotify.com/track/1CaJWmk3LlOvdCBQfipQlg) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf) | 3:26 | 2020-10-16 |  |
+| [To Love Somebody](https://open.spotify.com/track/1CaJWmk3LlOvdCBQfipQlg) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/2wnC0fWey2uAnCBsrdTeqf) | 3:26 | 2020-10-16 | 2023-12-23 |
+| [To Love Somebody](https://open.spotify.com/track/6p3REGqWrzfBvCPJ0AwNMl) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/4UCb8uaJW44vhGZgiknqkb) | 3:26 | 2020-10-16 |  |
 | [To Love Somebody](https://open.spotify.com/track/7mjBKozKUvm61MhNTyuFnZ) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Faded Gloryville](https://open.spotify.com/album/5AmFYqUT1cu6JErSTHw5k6) | 3:26 | 2020-10-16 | 2022-07-29 |
 | [True Colors](https://open.spotify.com/track/4AvvHmGzjW8Y7JZlq51NAQ) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [Changing Of The Seasons](https://open.spotify.com/album/3lDLnElZehSq7Vbs9T2hSR) | 2:20 | 2020-10-16 |  |
 | [True Colors](https://open.spotify.com/track/54EtQECBgqzbTWJmn3vFhJ) | [Ane Brun](https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm) | [True Colors](https://open.spotify.com/album/3dnHJUSShwDUd0GLnn2zQO) | 2:20 | 2020-10-16 | 2022-07-29 |

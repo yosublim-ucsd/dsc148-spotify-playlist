@@ -1,12 +1,12 @@
 {
   "description": "make it pop! cover: Felly",
-  "num_followers": 211891,
+  "num_followers": 211906,
   "original_name": "soda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjFlMjVlODE4YmQ1YzExY2E5NTdmNTRkOWUyYTNkODBjZmU4NWMz",
+  "snapshot_id": "MCxjMTdiMmY2MDI5NTlkYTM1MzVmMzdkZDI0YTE5NjQxNmIyOWJkZDJh",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -59,6 +59,26 @@
       "duration_ms": 197250,
       "name": "Different Lives",
       "url": "https://open.spotify.com/track/7e7JVMegy4WBMnzuZE9Srq"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Let It Rain",
+        "url": "https://open.spotify.com/album/4IZbTGF4UTaEFRHDrA8rIC"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        },
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "duration_ms": 210322,
+      "name": "Let It Rain",
+      "url": "https://open.spotify.com/track/6uOSgCjfRFc4hrqK2PEq12"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1291,22 +1311,6 @@
       "duration_ms": 132793,
       "name": "VICIOUS",
       "url": "https://open.spotify.com/track/4zO08ix7nulvQHfKm1bwC7"
-    },
-    {
-      "added_at": "2023-11-10 05:41:14",
-      "album": {
-        "name": "Mrs. Hollywood",
-        "url": "https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59"
-      },
-      "artists": [
-        {
-          "name": "Go-Jo",
-          "url": "https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv"
-        }
-      ],
-      "duration_ms": 143840,
-      "name": "Mrs. Hollywood",
-      "url": "https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1"
     },
     {
       "added_at": "2023-11-10 05:41:14",

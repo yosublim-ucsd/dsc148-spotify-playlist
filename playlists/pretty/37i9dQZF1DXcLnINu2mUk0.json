@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: FRANKIEONTHEGUITAR, Diogo Pi\u00e7arra e Van Zee.",
-  "num_followers": 42134,
+  "num_followers": 42151,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGE4YjUxMjkyNmQzYTk1OTViYzAwNjE3NTE0MWE2YzljOTRlMjk5",
+  "snapshot_id": "MCw3YWI0ZjdiZjMzODk1MTA2YzkxMjkwMWIzOWY3NTZiZDNiYWVjNTFl",
   "tracks": [
     {
       "added_at": "2023-12-22 00:00:01",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Para Casa",
-        "url": "https://open.spotify.com/album/0lWNCrwclxbyAuXw8bSpx7"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        }
-      ],
-      "duration_ms": 248421,
-      "name": "Para Casa",
-      "url": "https://open.spotify.com/track/0mntIfcQjuA3Zc4xx7Pm8a"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "Mais Antigo",
         "url": "https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 206466,
       "name": "Lembrei-me",
       "url": "https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Para Casa",
+        "url": "https://open.spotify.com/album/0lWNCrwclxbyAuXw8bSpx7"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "duration_ms": 248421,
+      "name": "Para Casa",
+      "url": "https://open.spotify.com/track/0mntIfcQjuA3Zc4xx7Pm8a"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "La\u00e7os",
-        "url": "https://open.spotify.com/album/15EHzECsyNBB7yM64mmCOw"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        }
-      ],
-      "duration_ms": 206315,
-      "name": "La\u00e7os",
-      "url": "https://open.spotify.com/track/5bL7lLuBr3is5XQkkq0aDJ"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "Nada a Esconder",
         "url": "https://open.spotify.com/album/2mkZBhS9I5hcZfCw8ShfM3"
       },
@@ -595,6 +579,22 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
+        "name": "La\u00e7os",
+        "url": "https://open.spotify.com/album/15EHzECsyNBB7yM64mmCOw"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        }
+      ],
+      "duration_ms": 206315,
+      "name": "La\u00e7os",
+      "url": "https://open.spotify.com/track/5bL7lLuBr3is5XQkkq0aDJ"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
         "name": "Sabi na Sabura",
         "url": "https://open.spotify.com/album/3Pce78X39Cqw3TCdaUEEfj"
       },
@@ -611,42 +611,6 @@
       "duration_ms": 185684,
       "name": "Don't Lie",
       "url": "https://open.spotify.com/track/3wvEiKmoYB2JUkgSN1xlJI"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/150SzhajOXePuIre6fdyMQ"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 208068,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/677ebW5G4BLaqX5Ue3itGv"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "do.mar",
-        "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        },
-        {
-          "name": "Yuri NR5",
-          "url": "https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew"
-        }
-      ],
-      "duration_ms": 195685,
-      "name": "So Flawless",
-      "url": "https://open.spotify.com/track/1plyo1KCOcXS92FItfyXMx"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -675,6 +639,22 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/150SzhajOXePuIre6fdyMQ"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 208068,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/677ebW5G4BLaqX5Ue3itGv"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
         "name": "Brutos Diamantes",
         "url": "https://open.spotify.com/album/0bAS2LP1ELHvX2BWJHDqan"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 176320,
       "name": "Brutos Diamantes",
       "url": "https://open.spotify.com/track/2Dn1EJ0AQAWSgl3cyeJK3V"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "do.mar",
+        "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        },
+        {
+          "name": "Yuri NR5",
+          "url": "https://open.spotify.com/artist/0Dx6HmR7Rhi8G1osUOxAew"
+        }
+      ],
+      "duration_ms": 195685,
+      "name": "So Flawless",
+      "url": "https://open.spotify.com/track/1plyo1KCOcXS92FItfyXMx"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Strong",
-        "url": "https://open.spotify.com/album/5B12LN9K4OVikdcEtCvfIg"
-      },
-      "artists": [
-        {
-          "name": "Mestre",
-          "url": "https://open.spotify.com/artist/3hNGSam0MYXklimc6rnr2V"
-        }
-      ],
-      "duration_ms": 188808,
-      "name": "Strong",
-      "url": "https://open.spotify.com/track/2dARaDpOpZxdbVl8a04HeQ"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "Pausa",
         "url": "https://open.spotify.com/album/4lAOkzdF6ugwfgaU2CjWTJ"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 191250,
       "name": "Pausa",
       "url": "https://open.spotify.com/track/1eSJkqC47qMbJjvgIyGQw8"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Strong",
+        "url": "https://open.spotify.com/album/5B12LN9K4OVikdcEtCvfIg"
+      },
+      "artists": [
+        {
+          "name": "Mestre",
+          "url": "https://open.spotify.com/artist/3hNGSam0MYXklimc6rnr2V"
+        }
+      ],
+      "duration_ms": 188808,
+      "name": "Strong",
+      "url": "https://open.spotify.com/track/2dARaDpOpZxdbVl8a04HeQ"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/0n9luoSJgWYbZus7nU6qXJ"
+      },
+      "artists": [
+        {
+          "name": "Cabaceira",
+          "url": "https://open.spotify.com/artist/28rxpmIYnxElyIqc1bJDBp"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "Selva",
+      "url": "https://open.spotify.com/track/7M7fp3ErAQQuIAfqUAJ2Ot"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
         "name": "Heartbreak Canvas (Acoustic Version)",
         "url": "https://open.spotify.com/album/4v9azADpSuZ0h02YBiZGlp"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 144488,
       "name": "Heartbreak Canvas (Acoustic Version)",
       "url": "https://open.spotify.com/track/61i7ccHsK5TZkHDaRrC0tZ"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/0n9luoSJgWYbZus7nU6qXJ"
-      },
-      "artists": [
-        {
-          "name": "Cabaceira",
-          "url": "https://open.spotify.com/artist/28rxpmIYnxElyIqc1bJDBp"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "Selva",
-      "url": "https://open.spotify.com/track/7M7fp3ErAQQuIAfqUAJ2Ot"
     },
     {
       "added_at": "2023-12-22 00:00:01",

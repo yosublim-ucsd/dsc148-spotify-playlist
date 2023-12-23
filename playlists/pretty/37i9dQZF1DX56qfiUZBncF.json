@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 380625,
+  "num_followers": 380638,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2Q2MDBjYTY4YjQ5ZTczZTllMTgwYmY4YjcxZDFlMWRjMTAzYmRj",
+  "snapshot_id": "MCw0MDhmYmU1N2U0MWU4Y2IzZGJiNjM1ODkwODJjZjEwMGYxZTIxYzRm",
   "tracks": [
     {
       "added_at": "2023-01-11 21:01:15",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Tailwhip",
+        "url": "https://open.spotify.com/album/5zV9Kwq0WDSPshNbvG418a"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 225263,
+      "name": "Tailwhip",
+      "url": "https://open.spotify.com/track/7fax7NlxOq2X9kMZw8QLE2"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "A Light for Attracting Attention",
         "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 160505,
       "name": "My Love",
       "url": "https://open.spotify.com/track/398CKeawsPHfonnxsimsPe"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Tailwhip",
-        "url": "https://open.spotify.com/album/5zV9Kwq0WDSPshNbvG418a"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 225263,
-      "name": "Tailwhip",
-      "url": "https://open.spotify.com/track/7fax7NlxOq2X9kMZw8QLE2"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "ACT ONE (The Complete Collection)",
+        "url": "https://open.spotify.com/album/2QTg7XF8hHMHexJLCKsqdA"
+      },
+      "artists": [
+        {
+          "name": "Marian Hill",
+          "url": "https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5"
+        }
+      ],
+      "duration_ms": 212773,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/5m77d1ztVTdZN9FevK9TE1"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "Hoops",
         "url": "https://open.spotify.com/album/7c65adcDfrYFbhYn1WzZ5p"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 268000,
       "name": "I Can't Believe I Had You",
       "url": "https://open.spotify.com/track/7n4UFFZEY1HfF87DfG2LZ4"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "ACT ONE (The Complete Collection)",
-        "url": "https://open.spotify.com/album/2QTg7XF8hHMHexJLCKsqdA"
-      },
-      "artists": [
-        {
-          "name": "Marian Hill",
-          "url": "https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5"
-        }
-      ],
-      "duration_ms": 212773,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/5m77d1ztVTdZN9FevK9TE1"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
-        "name": "LP (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5ySTNJgYTaUQJwGBLYWpKv"
-      },
-      "artists": [
-        {
-          "name": "Discovery",
-          "url": "https://open.spotify.com/artist/1fg65Qx6tRt0aXBfz5I4w5"
-        }
-      ],
-      "duration_ms": 158133,
-      "name": "Swing Tree",
-      "url": "https://open.spotify.com/track/3Gec0eWZ22o0rNKKUSSzLI"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
         "name": "Naive",
         "url": "https://open.spotify.com/album/5e4XZZ2tTPPtBAKMTZnILI"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 213250,
       "name": "Naive",
       "url": "https://open.spotify.com/track/2jPQpbzZd90opXN0cBOspe"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
+        "name": "LP (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5ySTNJgYTaUQJwGBLYWpKv"
+      },
+      "artists": [
+        {
+          "name": "Discovery",
+          "url": "https://open.spotify.com/artist/1fg65Qx6tRt0aXBfz5I4w5"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "Swing Tree",
+      "url": "https://open.spotify.com/track/3Gec0eWZ22o0rNKKUSSzLI"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Hunger",
+        "url": "https://open.spotify.com/album/4cEDFFpsG4kQYXy81OguGA"
+      },
+      "artists": [
+        {
+          "name": "Sam Sure",
+          "url": "https://open.spotify.com/artist/2Axfmy8RlEqUHpK81UUOOd"
+        }
+      ],
+      "duration_ms": 192792,
+      "name": "Hunger",
+      "url": "https://open.spotify.com/track/4AXc3B0zpchnvWJ17htzeU"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "For The Very Last Time",
         "url": "https://open.spotify.com/album/6kJB5oD7RKL6eJFtMWmNTn"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 340729,
       "name": "What Kinda Music - Jordan Rakei Remix",
       "url": "https://open.spotify.com/track/0FMgzGbCh8yNMibGY5L2cM"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Hunger",
-        "url": "https://open.spotify.com/album/4cEDFFpsG4kQYXy81OguGA"
-      },
-      "artists": [
-        {
-          "name": "Sam Sure",
-          "url": "https://open.spotify.com/artist/2Axfmy8RlEqUHpK81UUOOd"
-        }
-      ],
-      "duration_ms": 192792,
-      "name": "Hunger",
-      "url": "https://open.spotify.com/track/4AXc3B0zpchnvWJ17htzeU"
     },
     {
       "added_at": "2023-01-11 21:01:15",

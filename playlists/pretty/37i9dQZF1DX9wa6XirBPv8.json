@@ -1,12 +1,12 @@
 {
   "description": "feel it all. Cover: Something Corporate",
-  "num_followers": 1643463,
+  "num_followers": 1643887,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOWEwOTZiNzdmMWFhMDRkNTI0OWFmZTJhYTk2MjE3NDcyMDQ1ZWQx",
+  "snapshot_id": "MCxlYjMzZDRlY2JlM2M1YjNmMWQzMGI1ZjgzM2Y2NjUxYWQ5NmQyZDRl",
   "tracks": [
     {
       "added_at": "2023-10-22 18:43:11",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "Decadence",
-        "url": "https://open.spotify.com/album/4PQJiFSYykABCgha6bU4O6"
-      },
-      "artists": [
-        {
-          "name": "Head Automatica",
-          "url": "https://open.spotify.com/artist/2cyaobEho8uxhqLxwG7j6i"
-        }
-      ],
-      "duration_ms": 203733,
-      "name": "Beating Heart Baby",
-      "url": "https://open.spotify.com/track/24efdUt3KGbZ6wnBLp6j2n"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
         "name": "Let It Enfold You",
         "url": "https://open.spotify.com/album/1dnNjLBeisuc0bUp3wwPR1"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 179986,
       "name": "Buried a Lie",
       "url": "https://open.spotify.com/track/5sDwxoaXxrffN65UfWPfRR"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
+        "name": "Decadence",
+        "url": "https://open.spotify.com/album/4PQJiFSYykABCgha6bU4O6"
+      },
+      "artists": [
+        {
+          "name": "Head Automatica",
+          "url": "https://open.spotify.com/artist/2cyaobEho8uxhqLxwG7j6i"
+        }
+      ],
+      "duration_ms": 203733,
+      "name": "Beating Heart Baby",
+      "url": "https://open.spotify.com/track/24efdUt3KGbZ6wnBLp6j2n"
     },
     {
       "added_at": "2023-10-22 18:43:11",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "The Lonesome Crowded West",
-        "url": "https://open.spotify.com/album/5mvHTVy1iUIkAflIufoOpj"
-      },
-      "artists": [
-        {
-          "name": "Modest Mouse",
-          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
-        }
-      ],
-      "duration_ms": 209960,
-      "name": "Polar Opposites",
-      "url": "https://open.spotify.com/track/5EsM3rVaMDRsOXJq7oe3tY"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
         "name": "Everything In Transit",
         "url": "https://open.spotify.com/album/7gfFEfHxjkmy6sP1fhLaJM"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 194440,
       "name": "The Mixed Tape - 2015 Remastered",
       "url": "https://open.spotify.com/track/4NaPX1b3NsQqJrrAwkkvVc"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
+        "name": "The Lonesome Crowded West",
+        "url": "https://open.spotify.com/album/5mvHTVy1iUIkAflIufoOpj"
+      },
+      "artists": [
+        {
+          "name": "Modest Mouse",
+          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "duration_ms": 209960,
+      "name": "Polar Opposites",
+      "url": "https://open.spotify.com/track/5EsM3rVaMDRsOXJq7oe3tY"
     },
     {
       "added_at": "2023-10-22 18:43:11",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "Best I Never Had",
-        "url": "https://open.spotify.com/album/5fXNchpJ8jblaAsFQgVjLH"
-      },
-      "artists": [
-        {
-          "name": "The Downtown Fiction",
-          "url": "https://open.spotify.com/artist/7MRDkEKtdsGcYn11A4qgUL"
-        }
-      ],
-      "duration_ms": 199959,
-      "name": "I Just Wanna Run",
-      "url": "https://open.spotify.com/track/2S4CfxZG29GZWwDeMtBq2R"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
         "name": "Juturna",
         "url": "https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 200800,
       "name": "Act Appalled",
       "url": "https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
+        "name": "Best I Never Had",
+        "url": "https://open.spotify.com/album/5fXNchpJ8jblaAsFQgVjLH"
+      },
+      "artists": [
+        {
+          "name": "The Downtown Fiction",
+          "url": "https://open.spotify.com/artist/7MRDkEKtdsGcYn11A4qgUL"
+        }
+      ],
+      "duration_ms": 199959,
+      "name": "I Just Wanna Run",
+      "url": "https://open.spotify.com/track/2S4CfxZG29GZWwDeMtBq2R"
     },
     {
       "added_at": "2023-10-22 18:43:11",

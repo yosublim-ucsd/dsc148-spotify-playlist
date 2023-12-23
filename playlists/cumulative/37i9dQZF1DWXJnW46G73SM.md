@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7?si=3qmWiryeQw2ebI\-jOFrEVA"> بهاء سلطان </a>
 
-711 songs - 1 day 16 hr 22 min
+712 songs - 1 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -648,6 +648,7 @@
 | [فرق في الأحساس](https://open.spotify.com/track/3eH1uXt3nQ59RSCBtCEzif) | [Hany Shaker](https://open.spotify.com/artist/1UwfdbFgehcybbaCoeYJ9o) | [Fark Fel Ehsas](https://open.spotify.com/album/3NcOjzZ81rEm4JNT6N1MMH) | 3:25 | 2022-12-23 | 2023-02-15 |
 | [فقت فوق](https://open.spotify.com/track/0g56eM1URRrtNegnqrZQ9S) | [Maged Mekkawy](https://open.spotify.com/artist/5JErVYs7ZUOTw5bvKgSAl3) | [فقت فوق](https://open.spotify.com/album/1ZWgzIu3Loamci5sdmwmFp) | 3:23 | 2023-05-18 | 2023-07-12 |
 | [فكك \- احلام سعيدة](https://open.spotify.com/track/2mfFZJkSMONc1oDuUth0GN) | [El Madfaagya](https://open.spotify.com/artist/7Dw6fBcDUSorbHGdg1gsub) | [فكك \- احلام سعيدة](https://open.spotify.com/album/6G2LTeAHAziLh3CBbBzRqO) | 3:34 | 2022-04-07 | 2022-07-21 |
+| [قبل ما امشي](https://open.spotify.com/track/5yrNNDJlB5kQw47NXAhTNA) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [قبل ما امشي](https://open.spotify.com/album/0fbjKKgKsYCtJhdhwaZ7YR) | 3:09 | 2023-12-21 |  |
 | [قرشين \- من مسلسل الصفارة](https://open.spotify.com/track/1QuYAH5uQbKbgwIIoNAyeY) | [Ahmed Amin](https://open.spotify.com/artist/3ZH8mm61aosyZjnCbkT2r4) | [قرشين \(من مسلسل الصفارة\)](https://open.spotify.com/album/2xQ9rA1RUl12vpUZ6I8IKn) | 2:30 | 2023-04-05 | 2023-05-19 |
 | [قلب إتدفن](https://open.spotify.com/track/6xTx0hhLkZQYIjM1uRnDJf) | [El Megheny](https://open.spotify.com/artist/3mfzJJIc6jzl9FNOaNrGsV) | [قلب إتدفن](https://open.spotify.com/album/7N12eSAx3UgGRPJKon4Kvs) | 3:11 | 2022-02-16 | 2022-05-19 |
 | [قلبك](https://open.spotify.com/track/1XgQfLsakDjS5xJyp2dOJW) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [قلبك](https://open.spotify.com/album/0oFivDs4AJxQ78OQi0HTlv) | 3:26 | 2023-06-22 | 2023-07-21 |

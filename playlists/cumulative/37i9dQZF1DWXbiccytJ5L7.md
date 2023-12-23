@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow.
 
-119 songs - 6 hr 34 min
+120 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Holler Boys](https://open.spotify.com/track/3z0dzcrMa0e9TpP6xxKwaU) | [Upchurch](https://open.spotify.com/artist/2pSObt5Fk8izuX8ZfI3jRn) | [Parachute](https://open.spotify.com/album/0x1pqWmdjByJt0lVEUr99c) | 3:31 | 2023-03-17 |  |
 | [Hot Sauce](https://open.spotify.com/track/3STVAAAa4TasjdcYPMtbJN) | [HoodBillies](https://open.spotify.com/artist/3uaiFUf9Mgy2Bf5gVsH4P2), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Krizz Kaliko](https://open.spotify.com/artist/3SEJQy90Vgg1aSnZ9b4AU9) | [Hoodbillies](https://open.spotify.com/album/5GvnX7ydKmQLN5IqzbOxsf) | 1:49 | 2023-10-06 |  |
 | [Hunger in My Stomach](https://open.spotify.com/track/4JcoMt9O0jUumJG2PoJGss) | [Overtime](https://open.spotify.com/artist/3CTYZXZSVMF5WkZLg43YLV) | [The Foundation](https://open.spotify.com/album/6CnajEdJG9GdOe7UgSit7T) | 4:43 | 2023-03-17 |  |
+| [I Ain't Bullshit'n](https://open.spotify.com/track/1w6DVjzGZkneW30aXGTe5M) | [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk) | [The Lone Ranger](https://open.spotify.com/album/7DnuF02akJmIUTf8QOnDUa) | 3:03 | 2023-12-22 |  |
 | [I Break Down](https://open.spotify.com/track/3HrgCysmgDJpAGRrigxEq6) | [FJ Outlaw](https://open.spotify.com/artist/7LOfwXilquLSyzg493dPwJ), [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz) | [Broken](https://open.spotify.com/album/0vFFeehyxP9DIMR4gGpXap) | 3:00 | 2023-03-17 |  |
 | [I Mow, I Till](https://open.spotify.com/track/7xOSlsorO1COjKfIdVk5t7) | [Redneck Souljers](https://open.spotify.com/artist/5FY8IkeSIChD7WcmPPH5NW) | [Tiller Gang](https://open.spotify.com/album/0NJcvtv173uUae6NFosCIl) | 4:20 | 2023-03-17 |  |
 | [Ice Cold Beer](https://open.spotify.com/track/75v3gVrFHQtF4NGEZ2c1mk) | [Bezz Believe](https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq) | [Ice Cold Beer](https://open.spotify.com/album/25yf9bONSui3K2g4XdBwAx) | 2:40 | 2023-08-18 |  |

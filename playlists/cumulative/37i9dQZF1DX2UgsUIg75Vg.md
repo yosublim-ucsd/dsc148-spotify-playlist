@@ -2,7 +2,7 @@
 
 ### [Chilled R&B](https://open.spotify.com/playlist/37i9dQZF1DX2UgsUIg75Vg)
 
-> Chilled R&B jams for your most relaxed moods\. Cover: Usher & H.E.R.
+> Chilled R&B jams for your most relaxed moods\. Cover: Arin Ray
 
 846 songs - 1 day 23 hr 28 min
 

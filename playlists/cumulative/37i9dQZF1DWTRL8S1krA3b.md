@@ -4,7 +4,7 @@
 
 > This year's new country holiday songs! Cover: Maddie & Tae
 
-95 songs - 5 hr 7 min
+97 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [All I Want For Christmas Is You](https://open.spotify.com/track/1ONdZCRH07xQUgkTxA9kKQ) | [Joshua Ray Walker](https://open.spotify.com/artist/5SlqleEyFgUYZEZCJ5juDr) | [All I Want For Christmas Is You](https://open.spotify.com/album/2Ke8YIg9jYWhaqhUNAWbhT) | 4:11 | 2023-11-24 |  |
 | [ALL I WANT FOR CHRISTMAS IS YOU](https://open.spotify.com/track/7rPinTAHul6UER4cNmyHY9) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU), [Anna Moon](https://open.spotify.com/artist/0DGI7yVTDYCnkY06mBLBje) | [ALL I WANT FOR CHRISTMAS IS YOU \(feat\. Anna Moon\)](https://open.spotify.com/album/6ArfVumRHgUfcs9QafIkv9) | 4:06 | 2023-11-24 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/5doDIuDiarczhIkbudNuUC) | [Tim & The Glory Boys](https://open.spotify.com/artist/2TWquaofWA67mGmfN72csX) | [All I Want for Christmas Is You](https://open.spotify.com/album/7itCtZEW4ZIPgFGIGQ0Doo) | 3:35 | 2023-11-24 |  |
+| [Baby, Let Me Be Your Santa Claus Tonight](https://open.spotify.com/track/03VmD9Lfq39jHz6IJg1xuZ) | [BOOMTOWN SAINTS](https://open.spotify.com/artist/53s00dAQvGIkjY33v4d4xZ) | [Baby, Let Me Be Your Santa Claus Tonight](https://open.spotify.com/album/0poAtGuujcoFi7k7lOqQxa) | 3:45 | 2023-12-22 |  |
 | [Beautiful Star of Bethlehem](https://open.spotify.com/track/7FFXfYeF3H1IsSUbwyk3kC) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [Beautiful Star of Bethlehem](https://open.spotify.com/album/64TNhQ20gsVJBPaoZatLmx) | 3:26 | 2023-11-24 |  |
 | [Beer For Santa](https://open.spotify.com/track/4ICAhUbEfwUKY5MU6E06Wm) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Merry Christmas From Jon Pardi](https://open.spotify.com/album/0rntkIqjxA3mqdfkvB6O8C) | 2:52 | 2023-11-24 |  |
 | [Bloody Mary Christmas](https://open.spotify.com/track/5UyZESGfL3aX9CGhRlfWs7) | [Hannah Dasher](https://open.spotify.com/artist/60JD0JML3KiTHFkKNGv16e) | [Bloody Mary Christmas](https://open.spotify.com/album/5LDAMafiQOMcvNoHU0HoNI) | 2:09 | 2023-12-01 |  |
@@ -84,6 +85,7 @@
 | [Santa Baby](https://open.spotify.com/track/7BmZWTkg0vYa45mthCYSra) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN), [The Campbell Family](https://open.spotify.com/artist/3nUHK8ArdMTduxETdVwvRK) | [Santa Baby](https://open.spotify.com/album/7mPPqR668zKXJrUEJZXq2D) | 2:56 | 2023-12-01 |  |
 | [Santa Baby](https://open.spotify.com/track/5ajQCyeRSRwqxByzJDsQg0) | [Harper Grace](https://open.spotify.com/artist/0iFBiDNiS0JpYjIrj2lsA5) | [Santa Baby](https://open.spotify.com/album/4iQUCVTTNj7oBflckNBBq3) | 3:22 | 2023-11-24 |  |
 | [Santa Baby](https://open.spotify.com/track/3LfPVi8JOZw7YNh42fJVxq) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Santa Baby](https://open.spotify.com/album/1skf19zqxEck9HzJfei6TW) | 2:53 | 2023-11-24 |  |
+| [Santa Claus Baby](https://open.spotify.com/track/6ObxEgUlJfq4kt0Sr8E3aU) | [Jill Johnson](https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw) | [Santa Claus Baby](https://open.spotify.com/album/5omeVFQaBfPCzVet2Brg5u) | 2:31 | 2023-12-22 |  |
 | [Santa Tell Me](https://open.spotify.com/track/07Zk7BhwZjJQDemcWymMzF) | [Jordyn Shellhart](https://open.spotify.com/artist/4KKlcB7shlFTD98I5JNSuE) | [Cross\-Legged By The Fireplace](https://open.spotify.com/album/1y666doEpQiMtIYBo8Tzgi) | 2:52 | 2023-12-01 |  |
 | [Silent Night](https://open.spotify.com/track/2VvMbnOHd3bpnwdB9uWOfH) | [Kelsey Lamb](https://open.spotify.com/artist/2eoYr2pnDgyoDe9GLhuBoo) | [Silent Night](https://open.spotify.com/album/6bgc3aIqtm7PbQEMszojfT) | 2:49 | 2023-11-24 |  |
 | [Silent Night](https://open.spotify.com/track/3UVqDV4i2209OOZ6zZ9LaN) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Silent Night](https://open.spotify.com/album/1YqW5qzk2H3Ofm6T4JLou6) | 2:27 | 2023-11-24 |  |

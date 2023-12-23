@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: ASH ISLAND\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,458 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,578 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 54 | [I like it more](https://open.spotify.com/track/2thf2xYF3vHetvIFQiNmzc) | [seoha](https://open.spotify.com/artist/3jMneHo3Tyz70dE8SqVQOl) | [I like it more](https://open.spotify.com/album/08W574K4ETKf0dM1N03tvP) | 3:08 |
 | 55 | [삼청동](https://open.spotify.com/track/2bGQxnZvSmGMJ6QqsRvEQ2) | [Jason Jeong](https://open.spotify.com/artist/7GLr9EQZKNRDFJpe4XrpPH) | [삼청동](https://open.spotify.com/album/3cnHeagKVP7nEdGl21ST3y) | 2:42 |
 | 56 | [Merry Nippy Christmas](https://open.spotify.com/track/5R2mME8QuqL6z6YdTeW7yh) | [ella&yeonha](https://open.spotify.com/artist/4h7CZOKs79QViPbsAzZaZn) | [Merry Nippy Christmas](https://open.spotify.com/album/0q48BLIHoWmUxLiwBlcJ19) | 2:59 |
-| 57 | [Flow](https://open.spotify.com/track/0E8sOJGcMtUVxAJ4PYul2U) | [D\-LITE](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [DAESUNG Special Single](https://open.spotify.com/album/7Ct13dmiE5fMReh3v3FTxe) | 3:18 |
+| 57 | [Flow](https://open.spotify.com/track/0E8sOJGcMtUVxAJ4PYul2U) | [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [DAESUNG Special Single](https://open.spotify.com/album/7Ct13dmiE5fMReh3v3FTxe) | 3:18 |
 | 58 | [Christmas Love](https://open.spotify.com/track/07RqTH1eogXDP6lvfkpTgr) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [Christmas Love](https://open.spotify.com/album/7iTnFSQCuTl8j5XenUsOu3) | 3:12 |
 | 59 | [Deserve](https://open.spotify.com/track/1wuwBheZJPtlu0AZO3BRPT) | [HOYA](https://open.spotify.com/artist/3bGzcepRQ7Zu1J6JDDAq1T) | [Deserve](https://open.spotify.com/album/5b3dvk2qpGvCltCdlcDvLs) | 3:12 |
 | 60 | [Christmas Dance](https://open.spotify.com/track/5Fr2nTvU0OdhMUohTNXlA4) | [ROCKY](https://open.spotify.com/artist/3bQABAi10Xqg1WsMAhYdBZ) | [Christmas Dance](https://open.spotify.com/album/4D7wSlC3TgPptQwEb9t5XP) | 4:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 99 | [AF!!](https://open.spotify.com/track/5nIRburQxBeif2bb0IemOW) | [P\. Cassady](https://open.spotify.com/artist/64zL0O0ioJm6wvF3vdHyLu) | [AF!!](https://open.spotify.com/album/06SgEJLnXrd3tQQWH54vs6) | 2:20 |
 | 100 | [헤브어굿데이!](https://open.spotify.com/track/3e0z86O1YO0c3e5IaVgg7q) | [JUTO](https://open.spotify.com/artist/7HJsFAB2CpPpMxBNntMT5c) | [헤브어굿데이!](https://open.spotify.com/album/7hQaoNNdo8foX0NavGrlnv) | 2:59 |
 
-Snapshot ID: `MCw3YmNiY2JiN2I0Mzk1MDQ5YzVhNThkOGRmNWQyMWEyMDJjYmIxYjk4`
+Snapshot ID: `MCwyNzc0M2Y1ZjBlZWI1MDMwMDFlODk2ZGY0YzQ0MGViYThhNTBiM2Rh`

@@ -988,7 +988,7 @@
     {
       "album": {
         "name": "Home For Christmas",
-        "url": "https://open.spotify.com/album/4NP170fPWbNHS2eVQ7TvCS"
+        "url": "https://open.spotify.com/album/4FmWz2Vm8z3KXwo4AJe8Fy"
       },
       "artists": [
         {
@@ -999,6 +999,24 @@
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 205733,
+      "name": "Nativity Medley",
+      "url": "https://open.spotify.com/track/67kWuuiaVw8qjtnnOS96Tq"
+    },
+    {
+      "album": {
+        "name": "Home For Christmas",
+        "url": "https://open.spotify.com/album/4NP170fPWbNHS2eVQ7TvCS"
+      },
+      "artists": [
+        {
+          "name": "Committed",
+          "url": "https://open.spotify.com/artist/0zXJ4RC28rSgZ7tR5XgXdH"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
       "duration_ms": 205733,
       "name": "Nativity Medley",
       "url": "https://open.spotify.com/track/6Zb2qnkAXLIDFsOSayqu7h"

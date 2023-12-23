@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 66554,
+  "num_followers": 66617,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTAxMGE5NzVjMWE4ZmY2ODYxNzAzMGQ2Zjc2OTE5ZDU3NzU2NjI1",
+  "snapshot_id": "MCxlYzQ2MWNhZTI2YjRmNzI0ODVkNTk4YTdjMWUzODFhNWQ5MDc5Yzlk",
   "tracks": [
     {
       "added_at": "2023-12-20 10:48:06",
@@ -335,22 +335,18 @@
     {
       "added_at": "2023-12-20 10:48:06",
       "album": {
-        "name": "Lester Young With The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/4LT6FAMWGSf3qpPn3Wdyh1"
+        "name": "Django (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp"
       },
       "artists": [
         {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        },
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+          "name": "The Modern Jazz Quartet",
+          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
         }
       ],
-      "duration_ms": 208468,
-      "name": "There Will Never Be Another You",
-      "url": "https://open.spotify.com/track/5uQkJU8FDt9srkxKfKRiBN"
+      "duration_ms": 179240,
+      "name": "One Bass Hit",
+      "url": "https://open.spotify.com/track/2LkCr3r5s8uyGaZunVB00y"
     },
     {
       "added_at": "2023-12-20 10:48:06",
@@ -383,18 +379,22 @@
     {
       "added_at": "2023-12-20 10:48:06",
       "album": {
-        "name": "Django (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp"
+        "name": "Lester Young With The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4LT6FAMWGSf3qpPn3Wdyh1"
       },
       "artists": [
         {
-          "name": "The Modern Jazz Quartet",
-          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
         }
       ],
-      "duration_ms": 179240,
-      "name": "One Bass Hit",
-      "url": "https://open.spotify.com/track/2LkCr3r5s8uyGaZunVB00y"
+      "duration_ms": 208468,
+      "name": "There Will Never Be Another You",
+      "url": "https://open.spotify.com/track/5uQkJU8FDt9srkxKfKRiBN"
     },
     {
       "added_at": "2023-12-20 10:48:06",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-12-20 10:48:06",
       "album": {
-        "name": "Sweet Rain",
-        "url": "https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 429026,
-      "name": "Sweet Rain",
-      "url": "https://open.spotify.com/track/41eYXWD5m7gFfDBD1hKLyn"
-    },
-    {
-      "added_at": "2023-12-20 10:48:06",
-      "album": {
         "name": "New Faces - New Sounds",
         "url": "https://open.spotify.com/album/1QSjIFszDmlznqk7Zs28Tw"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 181674,
       "name": "Under Capricorn",
       "url": "https://open.spotify.com/track/5Sv0wvyx7b2u7O4oj0iNJx"
+    },
+    {
+      "added_at": "2023-12-20 10:48:06",
+      "album": {
+        "name": "Sweet Rain",
+        "url": "https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 429026,
+      "name": "Sweet Rain",
+      "url": "https://open.spotify.com/track/41eYXWD5m7gFfDBD1hKLyn"
     },
     {
       "added_at": "2023-12-20 10:48:06",
@@ -807,18 +807,18 @@
     {
       "added_at": "2023-12-20 10:48:06",
       "album": {
-        "name": "Stan Kenton",
-        "url": "https://open.spotify.com/album/4QLm0I7BPdpM15KRuuznS8"
+        "name": "The Jimmy Giuffre 3",
+        "url": "https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK"
       },
       "artists": [
         {
-          "name": "Stan Kenton",
-          "url": "https://open.spotify.com/artist/27hSR8e34ZM5vj5fUFixyb"
+          "name": "Jimmy Giuffre",
+          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
         }
       ],
-      "duration_ms": 553320,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/5WXfkqqLNfjzUHFxQhlOpR"
+      "duration_ms": 231466,
+      "name": "That's the Way It Is",
+      "url": "https://open.spotify.com/track/0NshH0K6HstTk06zPgATkT"
     },
     {
       "added_at": "2023-12-20 10:48:06",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-12-20 10:48:06",
       "album": {
-        "name": "The Jimmy Giuffre 3",
-        "url": "https://open.spotify.com/album/7L9RwXgST9R54GVTQnVSWK"
+        "name": "Stan Kenton",
+        "url": "https://open.spotify.com/album/4QLm0I7BPdpM15KRuuznS8"
       },
       "artists": [
         {
-          "name": "Jimmy Giuffre",
-          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
+          "name": "Stan Kenton",
+          "url": "https://open.spotify.com/artist/27hSR8e34ZM5vj5fUFixyb"
         }
       ],
-      "duration_ms": 231466,
-      "name": "That's the Way It Is",
-      "url": "https://open.spotify.com/track/0NshH0K6HstTk06zPgATkT"
+      "duration_ms": 553320,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/5WXfkqqLNfjzUHFxQhlOpR"
     },
     {
       "added_at": "2023-12-20 10:48:06",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-12-20 10:48:06",
       "album": {
-        "name": "Jazz Masters Deluxe Collection: Gerry Mulligan",
-        "url": "https://open.spotify.com/album/2hK2NVvfVEflYkNNC33dDd"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 250472,
-      "name": "Laura",
-      "url": "https://open.spotify.com/track/0pdajpmRwVX10gYQgZUYbO"
-    },
-    {
-      "added_at": "2023-12-20 10:48:06",
-      "album": {
         "name": "Django (Rudy Van Gelder Remaster)",
         "url": "https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 192800,
       "name": "The Queen's Fancy",
       "url": "https://open.spotify.com/track/0jKWfUHO1Zy4wPPiRZLT9F"
+    },
+    {
+      "added_at": "2023-12-20 10:48:06",
+      "album": {
+        "name": "Jazz Masters Deluxe Collection: Gerry Mulligan",
+        "url": "https://open.spotify.com/album/2hK2NVvfVEflYkNNC33dDd"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 250472,
+      "name": "Laura",
+      "url": "https://open.spotify.com/track/0pdajpmRwVX10gYQgZUYbO"
     },
     {
       "added_at": "2023-12-20 10:48:06",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2023-12-20 10:48:06",
       "album": {
-        "name": "A Pell Of A Time",
-        "url": "https://open.spotify.com/album/3mHfj7IYxLfpAOULy0nM11"
+        "name": "The Teddy Charles Tentet",
+        "url": "https://open.spotify.com/album/4SIPInfo9sWkrdOQJaLEhh"
       },
       "artists": [
         {
-          "name": "Dave Pell's Jazz Octet",
-          "url": "https://open.spotify.com/artist/7uKEUlOk1OB6GcGp0rxnaM"
+          "name": "Teddy Charles",
+          "url": "https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn"
         }
       ],
-      "duration_ms": 338000,
-      "name": "Angel Eyes",
-      "url": "https://open.spotify.com/track/0DD6R7aDMmqPrt6qRXZHP3"
+      "duration_ms": 265360,
+      "name": "You Go to My Head",
+      "url": "https://open.spotify.com/track/7DcQmtVhcB55QoxXN4Q8VM"
     },
     {
       "added_at": "2023-12-20 10:48:06",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2023-12-20 10:48:06",
       "album": {
-        "name": "The Teddy Charles Tentet",
-        "url": "https://open.spotify.com/album/4SIPInfo9sWkrdOQJaLEhh"
+        "name": "A Pell Of A Time",
+        "url": "https://open.spotify.com/album/3mHfj7IYxLfpAOULy0nM11"
       },
       "artists": [
         {
-          "name": "Teddy Charles",
-          "url": "https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn"
+          "name": "Dave Pell's Jazz Octet",
+          "url": "https://open.spotify.com/artist/7uKEUlOk1OB6GcGp0rxnaM"
         }
       ],
-      "duration_ms": 265360,
-      "name": "You Go to My Head",
-      "url": "https://open.spotify.com/track/7DcQmtVhcB55QoxXN4Q8VM"
+      "duration_ms": 338000,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/0DD6R7aDMmqPrt6qRXZHP3"
     },
     {
       "added_at": "2023-12-20 10:48:06",

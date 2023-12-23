@@ -1,12 +1,12 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: Jambino(\uc7a0\ube44\ub178)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 208269,
+  "num_followers": 208302,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTMxYmQ4NjQzZGMzZDM4YTc5MjdjMDk5N2VkN2JiMDhjNTM0YThj",
+  "snapshot_id": "MCxjYzFiY2JlNGUyMjcxZjc3OTJkNzRiOTljNWNmZTg3ZTc4NTJkOTEw",
   "tracks": [
     {
       "added_at": "2023-12-15 07:27:05",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-12-15 07:27:05",
       "album": {
-        "name": "SEOUL DRIFT",
-        "url": "https://open.spotify.com/album/1nG8Wxn3f3buiaDg5rGzpC"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 199626,
-      "name": "SEOUL DRIFT",
-      "url": "https://open.spotify.com/track/26ZVy8n9X8K59DXFyZtkT0"
-    },
-    {
-      "added_at": "2023-12-15 07:27:05",
-      "album": {
         "name": "BM 3rd Digital Single 'LOWKEY'",
         "url": "https://open.spotify.com/album/72WefbbOeBJl4rsDAh2ZAe"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 136600,
       "name": "Lowkey",
       "url": "https://open.spotify.com/track/28sZmJreUGVfx5oMLN9BuM"
+    },
+    {
+      "added_at": "2023-12-15 07:27:05",
+      "album": {
+        "name": "SEOUL DRIFT",
+        "url": "https://open.spotify.com/album/1nG8Wxn3f3buiaDg5rGzpC"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "duration_ms": 199626,
+      "name": "SEOUL DRIFT",
+      "url": "https://open.spotify.com/track/26ZVy8n9X8K59DXFyZtkT0"
     },
     {
       "added_at": "2023-12-15 07:27:05",
@@ -1027,18 +1027,26 @@
     {
       "added_at": "2023-12-15 07:27:05",
       "album": {
-        "name": "Over You",
-        "url": "https://open.spotify.com/album/5rr6ZH6LQckgwvHaIgPsPI"
+        "name": "EVERYWHERE",
+        "url": "https://open.spotify.com/album/3046u4AKfbzmAxslPFkiP7"
       },
       "artists": [
         {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+        },
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 207053,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/3Qi024yD0YtE3nUqv1mCAp"
+      "duration_ms": 182300,
+      "name": "Sunday (feat. HEIZE, Jay Park)",
+      "url": "https://open.spotify.com/track/0JJeoiCAa1hwcBsPxBN2w4"
     },
     {
       "added_at": "2023-12-15 07:27:05",
@@ -1083,26 +1091,18 @@
     {
       "added_at": "2023-12-15 07:27:05",
       "album": {
-        "name": "EVERYWHERE",
-        "url": "https://open.spotify.com/album/3046u4AKfbzmAxslPFkiP7"
+        "name": "Over You",
+        "url": "https://open.spotify.com/album/5rr6ZH6LQckgwvHaIgPsPI"
       },
       "artists": [
         {
-          "name": "GroovyRoom",
-          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
-        },
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
         }
       ],
-      "duration_ms": 182300,
-      "name": "Sunday (feat. HEIZE, Jay Park)",
-      "url": "https://open.spotify.com/track/0JJeoiCAa1hwcBsPxBN2w4"
+      "duration_ms": 207053,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/3Qi024yD0YtE3nUqv1mCAp"
     },
     {
       "added_at": "2023-12-15 07:27:05",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2023-12-15 07:27:05",
       "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/7BvY4JIJfB7sSxps8WCetv"
-      },
-      "artists": [
-        {
-          "name": "Rad Museum",
-          "url": "https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo"
-        },
-        {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
-        }
-      ],
-      "duration_ms": 227353,
-      "name": "CALL ME BACK",
-      "url": "https://open.spotify.com/track/2VRk8RyGvQWLX9yuFN6ivq"
-    },
-    {
-      "added_at": "2023-12-15 07:27:05",
-      "album": {
         "name": "ISLAND",
         "url": "https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO"
       },
@@ -1175,26 +1155,6 @@
       "duration_ms": 196153,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/5QcIKO1FjIQOWHlDATLV4g"
-    },
-    {
-      "added_at": "2023-12-15 07:27:05",
-      "album": {
-        "name": "California Love",
-        "url": "https://open.spotify.com/album/1p8UR9GqDhao1x8msg29gL"
-      },
-      "artists": [
-        {
-          "name": "DONGHAE",
-          "url": "https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY"
-        },
-        {
-          "name": "JENO",
-          "url": "https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V"
-        }
-      ],
-      "duration_ms": 228066,
-      "name": "California Love (feat. JENO of NCT)",
-      "url": "https://open.spotify.com/track/4nXCajkpZro4iPbfD7Oj4F"
     },
     {
       "added_at": "2023-12-15 07:27:05",
@@ -1227,6 +1187,46 @@
       "duration_ms": 181800,
       "name": "My pleasure Is That You Ride The Bentley",
       "url": "https://open.spotify.com/track/41HriGdYdajxCJIOMiIBWs"
+    },
+    {
+      "added_at": "2023-12-15 07:27:05",
+      "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/7BvY4JIJfB7sSxps8WCetv"
+      },
+      "artists": [
+        {
+          "name": "Rad Museum",
+          "url": "https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo"
+        },
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "duration_ms": 227353,
+      "name": "CALL ME BACK",
+      "url": "https://open.spotify.com/track/2VRk8RyGvQWLX9yuFN6ivq"
+    },
+    {
+      "added_at": "2023-12-15 07:27:05",
+      "album": {
+        "name": "California Love",
+        "url": "https://open.spotify.com/album/1p8UR9GqDhao1x8msg29gL"
+      },
+      "artists": [
+        {
+          "name": "DONGHAE",
+          "url": "https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY"
+        },
+        {
+          "name": "JENO",
+          "url": "https://open.spotify.com/artist/3DZrLuJOQFKqV2sjMsKb1V"
+        }
+      ],
+      "duration_ms": 228066,
+      "name": "California Love (feat. JENO of NCT)",
+      "url": "https://open.spotify.com/track/4nXCajkpZro4iPbfD7Oj4F"
     },
     {
       "added_at": "2023-12-15 07:27:05",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2023-12-15 07:27:05",
       "album": {
-        "name": "Epik High Is Here \u4e0b (Part 2)",
-        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
-        }
-      ],
-      "duration_ms": 252986,
-      "name": "Gray So Gray (Feat. Younha)",
-      "url": "https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY"
-    },
-    {
-      "added_at": "2023-12-15 07:27:05",
-      "album": {
         "name": "Ring Ring",
         "url": "https://open.spotify.com/album/4N9thFENBkyWKwhdzpJQfH"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 206613,
       "name": "RING RING",
       "url": "https://open.spotify.com/track/62AE0Zae7OrkJ1NzA3BW0V"
+    },
+    {
+      "added_at": "2023-12-15 07:27:05",
+      "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "duration_ms": 252986,
+      "name": "Gray So Gray (Feat. Younha)",
+      "url": "https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY"
     },
     {
       "added_at": "2023-12-15 07:27:05",
@@ -1459,22 +1459,26 @@
     {
       "added_at": "2023-12-15 07:27:05",
       "album": {
-        "name": "Metronome",
-        "url": "https://open.spotify.com/album/0UFVC9LxBrt7ZJg5SMfm7d"
+        "name": "SHOW ME THE MONEY 11 Episode 3",
+        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
       },
       "artists": [
         {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
         },
         {
-          "name": "KEITA",
-          "url": "https://open.spotify.com/artist/3Kkl01m0g7rFMCPavpOmh6"
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
         }
       ],
-      "duration_ms": 163373,
-      "name": "Metronome",
-      "url": "https://open.spotify.com/track/3XVdGx14tidW0AZKc6PStn"
+      "duration_ms": 234839,
+      "name": "EYE (Feat. BIG Naughty, JUSTHIS) (Prod. R.Tee)",
+      "url": "https://open.spotify.com/track/20JkEhlKCrKtzORT5qDdWE"
     },
     {
       "added_at": "2023-12-15 07:27:05",
@@ -1515,26 +1519,22 @@
     {
       "added_at": "2023-12-15 07:27:05",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Episode 3",
-        "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
+        "name": "Metronome",
+        "url": "https://open.spotify.com/album/0UFVC9LxBrt7ZJg5SMfm7d"
       },
       "artists": [
         {
-          "name": "Don Malik",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
         },
         {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        },
-        {
-          "name": "JUSTHIS",
-          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+          "name": "KEITA",
+          "url": "https://open.spotify.com/artist/3Kkl01m0g7rFMCPavpOmh6"
         }
       ],
-      "duration_ms": 234839,
-      "name": "EYE (Feat. BIG Naughty, JUSTHIS) (Prod. R.Tee)",
-      "url": "https://open.spotify.com/track/20JkEhlKCrKtzORT5qDdWE"
+      "duration_ms": 163373,
+      "name": "Metronome",
+      "url": "https://open.spotify.com/track/3XVdGx14tidW0AZKc6PStn"
     },
     {
       "added_at": "2023-12-15 07:27:05",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2023-12-15 07:27:05",
       "album": {
+        "name": "Empty Head",
+        "url": "https://open.spotify.com/album/7MonuyQ2VRF1qGQXnzKwUF"
+      },
+      "artists": [
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        }
+      ],
+      "duration_ms": 185642,
+      "name": "Empty Head",
+      "url": "https://open.spotify.com/track/2mPR6yNoDn0IN8vqtz1Yrx"
+    },
+    {
+      "added_at": "2023-12-15 07:27:05",
+      "album": {
         "name": "UNSTEADY",
         "url": "https://open.spotify.com/album/70NDJqzjQTEWAvk0cdPWKz"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 184840,
       "name": "I BE LIKE (Feat. SOLE)",
       "url": "https://open.spotify.com/track/284kuuW8ZHD7SmfAlpurZQ"
-    },
-    {
-      "added_at": "2023-12-15 07:27:05",
-      "album": {
-        "name": "Empty Head",
-        "url": "https://open.spotify.com/album/7MonuyQ2VRF1qGQXnzKwUF"
-      },
-      "artists": [
-        {
-          "name": "ASH ISLAND",
-          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
-        }
-      ],
-      "duration_ms": 185642,
-      "name": "Empty Head",
-      "url": "https://open.spotify.com/track/2mPR6yNoDn0IN8vqtz1Yrx"
     },
     {
       "added_at": "2023-12-15 07:27:05",

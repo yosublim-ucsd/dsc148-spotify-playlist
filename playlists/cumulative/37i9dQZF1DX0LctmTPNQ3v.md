@@ -4,7 +4,7 @@
 
 > Time to headbang around the Christmas tree! Cover: August Burns Red
 
-129 songs - 8 hr 10 min
+130 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Jingle Bells](https://open.spotify.com/track/3nigc80wmSKOm3VpBl8R2T) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Jingle Bells](https://open.spotify.com/album/5DBiGgXmH0sgiQE6juD6Yo) | 4:20 | 2022-12-23 |  |
 | [Jingle Bells](https://open.spotify.com/track/1zftFFa10Lt1afCWUbL0XN) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Monster Ballads X\-Mas](https://open.spotify.com/album/0wA8kXmYc5DRmcJXYQ49G8) | 3:02 | 2021-11-26 |  |
 | [Jingle Bells \(Hail Santa\)](https://open.spotify.com/track/1TP5rarSRVsexxhe2quPwx) | [ssSHhh](https://open.spotify.com/artist/6nqlK6RhS69jFzctPiOWxi) | [Jingle Bells \(Hail Santa\)](https://open.spotify.com/album/2MZGxFDawW7NSgLVC3ADn8) | 4:06 | 2021-11-26 | 2023-10-28 |
+| [Jingle Bells Rock](https://open.spotify.com/track/1cJGOoZCG3LgsRazsu4TXF) | [GRAYSTONE](https://open.spotify.com/artist/0tAmJdfbmh0MTKNYrfiB7c), [Nik Nocturnal](https://open.spotify.com/artist/1Gc5ZiJhqjQQcfvMTSCa3q), [Paula Carregosa](https://open.spotify.com/artist/1M4peeoWw6mGPEqnsg1mKl), [Hungry Lights](https://open.spotify.com/artist/5G4p600Y5GYetGH0GkBRka), [Austin Dickey](https://open.spotify.com/artist/7yuxjHyGsjSATU2KYK7bSU), [Damien Ward](https://open.spotify.com/artist/5hmIzu2XJtMJrj6tFprRyp) | [Jingle Bells Rock](https://open.spotify.com/album/7ffQpcVFHDQeg4b0M6XsHD) | 2:08 | 2023-12-22 |  |
 | [Jingle Hell](https://open.spotify.com/track/1fcGgiCOV9lTUMUic1Mv52) | [Christopher Lee](https://open.spotify.com/artist/7ziAy2bJOgjFO50ThstObl) | [A Heavy Metal Christmas Too](https://open.spotify.com/album/4ysttGZvebt1PBAo7bXzKL) | 3:42 | 2021-11-26 | 2022-07-29 |
 | [Jingle Hell](https://open.spotify.com/track/7wKOOVdySGGYeCB5MHhhqY) | [Christopher Lee](https://open.spotify.com/artist/2anYzFDecFa10y1rfZH44b) | [A Heavy Metal Christmas Too](https://open.spotify.com/album/3LkzHEuobNQNHZ9kDjjhhi) | 3:42 | 2021-11-26 |  |
 | [Kidnap the Sandy Claws](https://open.spotify.com/track/53mXlfuRwgddSjap2T9Pp2) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Nightmare Revisited](https://open.spotify.com/album/2IFwASo4B3CYuMwzAAhfjp) | 3:37 | 2021-11-26 | 2022-07-29 |

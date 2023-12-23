@@ -9636,7 +9636,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 262512,
-      "name": "Jahapanah",
+      "name": "Jahapanah (from \"Sugar Factory\")",
       "url": "https://open.spotify.com/track/1hIToKt93BWgWbrR8dzfHi"
     },
     {
@@ -10632,7 +10632,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 104851,
       "name": "Kadalanu (From \"Sapta Sagaradaache Ello - Side A\")",
       "url": "https://open.spotify.com/track/1SRXTf3yNjZh1x0DTQv6MH"
@@ -18507,6 +18507,28 @@
     },
     {
       "album": {
+        "name": "Prathikatheya (From \"Salaar Cease Fire - Kannada\")",
+        "url": "https://open.spotify.com/album/3TAsU0sWj2HJvVzrv6IzBK"
+      },
+      "artists": [
+        {
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+        },
+        {
+          "name": "Ravi Basrur and Team",
+          "url": "https://open.spotify.com/artist/7Izuio7qwe8nqf5T2ReoC4"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187058,
+      "name": "Prathikatheya (From \"Salaar Cease Fire - Kannada\")",
+      "url": "https://open.spotify.com/track/3IM1xDonQRaK2dlxD2D5lN"
+    },
+    {
+      "album": {
         "name": "9 Sullu Kathegalu (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1t5FsnyyDLJOJZHKq6BCV2"
       },
@@ -19700,7 +19722,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 273157,
       "name": "Sakhi (From \"Blink\")",
       "url": "https://open.spotify.com/track/1JrDXA4JX0tPZjsqsvyddK"

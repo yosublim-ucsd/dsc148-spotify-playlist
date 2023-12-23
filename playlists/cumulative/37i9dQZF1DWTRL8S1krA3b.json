@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "Baby, Let Me Be Your Santa Claus Tonight",
+        "url": "https://open.spotify.com/album/0poAtGuujcoFi7k7lOqQxa"
+      },
+      "artists": [
+        {
+          "name": "BOOMTOWN SAINTS",
+          "url": "https://open.spotify.com/artist/53s00dAQvGIkjY33v4d4xZ"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225728,
+      "name": "Baby, Let Me Be Your Santa Claus Tonight",
+      "url": "https://open.spotify.com/track/03VmD9Lfq39jHz6IJg1xuZ"
+    },
+    {
+      "album": {
         "name": "Beautiful Star of Bethlehem",
         "url": "https://open.spotify.com/album/64TNhQ20gsVJBPaoZatLmx"
       },
@@ -1418,6 +1436,24 @@
       "duration_ms": 173076,
       "name": "Santa Baby",
       "url": "https://open.spotify.com/track/3LfPVi8JOZw7YNh42fJVxq"
+    },
+    {
+      "album": {
+        "name": "Santa Claus Baby",
+        "url": "https://open.spotify.com/album/5omeVFQaBfPCzVet2Brg5u"
+      },
+      "artists": [
+        {
+          "name": "Jill Johnson",
+          "url": "https://open.spotify.com/artist/2aaGbpl5Y2ykZsNFZM6ofw"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151146,
+      "name": "Santa Claus Baby",
+      "url": "https://open.spotify.com/track/6ObxEgUlJfq4kt0Sr8E3aU"
     },
     {
       "album": {

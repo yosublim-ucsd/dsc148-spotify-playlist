@@ -158,7 +158,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 217253,
       "name": "A volar (feat. Lido Pimienta)",
       "url": "https://open.spotify.com/track/5KnFKXycHFZhchoOjFASU1"
@@ -2151,6 +2151,28 @@
     },
     {
       "album": {
+        "name": "Cumbia de la Paciencia",
+        "url": "https://open.spotify.com/album/2g8tt7LoZqKnV2lTI8YM6y"
+      },
+      "artists": [
+        {
+          "name": "La Otra",
+          "url": "https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7"
+        },
+        {
+          "name": "An\u00eds Guateque",
+          "url": "https://open.spotify.com/artist/1BazXNoz0dwFMfZZhXylzp"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207142,
+      "name": "Cumbia de la Paciencia",
+      "url": "https://open.spotify.com/track/5CP251cMHjNtpXCgjFkl58"
+    },
+    {
+      "album": {
         "name": "El Talante de la Noche",
         "url": "https://open.spotify.com/album/7rX3h3nG1B4fvR0XVnwSCs"
       },
@@ -3652,7 +3674,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 233000,
       "name": "Gigante",
       "url": "https://open.spotify.com/track/6gofHPVdi4rGKuxHEbFPNR"
@@ -5964,7 +5986,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 312413,
       "name": "Nin\u0303a de mis ojos",
       "url": "https://open.spotify.com/track/6VhLNiAEbawLpsUgBIZt5P"
@@ -6178,7 +6200,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 167967,
       "name": "No Son Un Juguete",
       "url": "https://open.spotify.com/track/7bKHTUYOOQWMx7z0d7FtxJ"
@@ -6384,7 +6406,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 134956,
       "name": "Paciencia",
       "url": "https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0"
@@ -7303,6 +7325,24 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 Problema",
+        "url": "https://open.spotify.com/album/1u8GnaKIBV0PiUY67c3WOp"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204735,
+      "name": "Qu\u00e9 Problema",
+      "url": "https://open.spotify.com/track/5fiOIyutgV4TszPKySLCkK"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 va a ser de m\u00ed?",
         "url": "https://open.spotify.com/album/0LmOKjUiFwWzBz7YFCsjSP"
       },
@@ -7822,7 +7862,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 228875,
       "name": "Seguir Vivo No Es Vivir",
       "url": "https://open.spotify.com/track/24jRdELbkS9YkBiaOZs60Q"
@@ -8765,6 +8805,24 @@
     },
     {
       "album": {
+        "name": "tu recuerdo (verde oto\u00f1o)",
+        "url": "https://open.spotify.com/album/1Xd6GKEZU54VsBjlM6VrSx"
+      },
+      "artists": [
+        {
+          "name": "Luis Ferc\u00e1n",
+          "url": "https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155213,
+      "name": "tu recuerdo (verde oto\u00f1o)",
+      "url": "https://open.spotify.com/track/7lm2Q0zldRU3caAqdeCpz4"
+    },
+    {
+      "album": {
         "name": "T\u00edtere o Esclava",
         "url": "https://open.spotify.com/album/7h8BFDs5JISDXYMECFwzCD"
       },
@@ -9492,6 +9550,24 @@
       "duration_ms": 196762,
       "name": "Y Arder\u00e1n",
       "url": "https://open.spotify.com/track/1OlodnuRTxve00lxntQVqC"
+    },
+    {
+      "album": {
+        "name": "Ya no sigo esperando por ti",
+        "url": "https://open.spotify.com/album/08bCpzyhrda2rK5T9LeIyN"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182296,
+      "name": "Ya no sigo esperando por ti",
+      "url": "https://open.spotify.com/track/1MGtxp2QVsI2DDAeGaAqpg"
     },
     {
       "album": {

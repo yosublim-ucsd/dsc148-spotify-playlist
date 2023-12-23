@@ -1,12 +1,12 @@
 {
   "description": "\u4eba\u6c17\u30dc\u30ab\u30ed\u66f2\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u547d\u3092\u6301\u305f\u306a\u3044VOCALOID\u306e\u9b45\u529b\u3092\u7279\u96c6\u3002Biggest hits & fresh tracks of VOCALOID. cover:\u3086\u3053\u3074",
-  "num_followers": 80981,
+  "num_followers": 81006,
   "original_name": "\u541b\u304c\u751f\u304d\u3066\u306a\u304f\u3066\u3088\u304b\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwN2Q0OGYwZjZkZWIzNmQ1MDEwNzZmZjQyMjcyMWQ5MTAzZDIxZmNl",
+  "snapshot_id": "MCw2ZjNlNDU3M2NkMTBkMTZmNGIwZjQ1YTk4Mzk3M2QyYzJkODdjMDdj",
   "tracks": [
     {
       "added_at": "2023-12-19 16:22:23",
@@ -443,22 +443,18 @@
     {
       "added_at": "2023-12-19 16:22:23",
       "album": {
-        "name": "\u30c7\u30d3\u30eb\u3058\u3083\u306a\u3044\u3082\u3093",
-        "url": "https://open.spotify.com/album/7cjQMQzxrWDpa1htz8tLPw"
+        "name": "\u30a2\u30f3\u30c9\u30ed\u30a4\u30c9\u30ac\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q"
       },
       "artists": [
         {
           "name": "DECO*27",
           "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
-        },
-        {
-          "name": "PinocchioP",
-          "url": "https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC"
         }
       ],
-      "duration_ms": 163682,
-      "name": "\u30c7\u30d3\u30eb\u3058\u3083\u306a\u3044\u3082\u3093",
-      "url": "https://open.spotify.com/track/294o7PTrqj9VySUIHaJmXw"
+      "duration_ms": 206440,
+      "name": "\u30d2\u30d0\u30ca -Reloaded-",
+      "url": "https://open.spotify.com/track/3g2jMbl3XTP0k0cYb5rN6p"
     },
     {
       "added_at": "2023-12-19 16:22:23",
@@ -547,18 +543,22 @@
     {
       "added_at": "2023-12-19 16:22:23",
       "album": {
-        "name": "\u30a2\u30f3\u30c9\u30ed\u30a4\u30c9\u30ac\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q"
+        "name": "\u30c7\u30d3\u30eb\u3058\u3083\u306a\u3044\u3082\u3093",
+        "url": "https://open.spotify.com/album/7cjQMQzxrWDpa1htz8tLPw"
       },
       "artists": [
         {
           "name": "DECO*27",
           "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        },
+        {
+          "name": "PinocchioP",
+          "url": "https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC"
         }
       ],
-      "duration_ms": 206440,
-      "name": "\u30d2\u30d0\u30ca -Reloaded-",
-      "url": "https://open.spotify.com/track/3g2jMbl3XTP0k0cYb5rN6p"
+      "duration_ms": 163682,
+      "name": "\u30c7\u30d3\u30eb\u3058\u3083\u306a\u3044\u3082\u3093",
+      "url": "https://open.spotify.com/track/294o7PTrqj9VySUIHaJmXw"
     },
     {
       "added_at": "2023-12-19 16:22:23",

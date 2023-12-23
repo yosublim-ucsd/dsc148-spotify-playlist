@@ -1,15 +1,15 @@
 {
   "description": "Les meilleurs titres du moment en version acoustique.",
-  "num_followers": 237707,
+  "num_followers": 237765,
   "original_name": "Hit Acoustique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjMzMGU3ZGQxM2E2OGE5NDQzZmEzZTc1M2VkNDUyN2NjMDQ3Mzky",
+  "snapshot_id": "MCw3NjNiMDU1NTA4NzZmYjgzZjRmMTcyYzdmMWYzYjEyYTU4MmRiNjhl",
   "tracks": [
     {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "Gimme Love (Sofiane Pamart Remix)",
         "url": "https://open.spotify.com/album/1pD0juD4fXUUIDsgGt9xrI"
@@ -29,7 +29,23 @@
       "url": "https://open.spotify.com/track/6QLU9PDrb6DwJauVvExLSu"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
+      "album": {
+        "name": "Tattoo (Acoustic)",
+        "url": "https://open.spotify.com/album/6EtQsunaDhISsreHCSplVY"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 214864,
+      "name": "Tattoo - Acoustic",
+      "url": "https://open.spotify.com/track/5V2wCtKTQEQlWr0igELU4x"
+    },
+    {
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
@@ -45,7 +61,23 @@
       "url": "https://open.spotify.com/track/1ZJwhLQLt2quexYKP2Q3gk"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
+      "album": {
+        "name": "Secret (sad orchestra)",
+        "url": "https://open.spotify.com/album/1nzeYc8gvWMvGvmJeXLRx0"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "duration_ms": 188693,
+      "name": "Secret - sad orchestra",
+      "url": "https://open.spotify.com/track/5PbI70YyDqhCYCN2QArxG5"
+    },
+    {
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "Acoustic",
         "url": "https://open.spotify.com/album/28rVoKui34rygR8weIfjVl"
@@ -61,7 +93,7 @@
       "url": "https://open.spotify.com/track/7w4YExaFOqzTGQ1Y5fCoNv"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "I'm Good (Blue) [Acoustic]",
         "url": "https://open.spotify.com/album/4WekVlSrFGks8g7BW9xvfY"
@@ -81,23 +113,7 @@
       "url": "https://open.spotify.com/track/2MV9MRVSXNTIS3ny31cx9c"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
-      "album": {
-        "name": "Tattoo (Acoustic)",
-        "url": "https://open.spotify.com/album/6EtQsunaDhISsreHCSplVY"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 214864,
-      "name": "Tattoo - Acoustic",
-      "url": "https://open.spotify.com/track/5V2wCtKTQEQlWr0igELU4x"
-    },
-    {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "Control (Acoustic Versions)",
         "url": "https://open.spotify.com/album/0GfYuFknkNUEPIbmV9rCef"
@@ -113,7 +129,23 @@
       "url": "https://open.spotify.com/track/7LsJd6JUzWy3SUvy33g6yQ"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
+      "album": {
+        "name": "Emiliana",
+        "url": "https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 199517,
+      "name": "Emiliana - Acoustic",
+      "url": "https://open.spotify.com/track/5o2eHgbRzQbeZKMFfgy1nn"
+    },
+    {
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "Gold (Acoustic Version)",
         "url": "https://open.spotify.com/album/1sSiCaSrHOKFRUhrBOjsFi"
@@ -129,23 +161,7 @@
       "url": "https://open.spotify.com/track/4kv0HqEYUX4lvTEzO6KGzw"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
-      "album": {
-        "name": "Secret (sad orchestra)",
-        "url": "https://open.spotify.com/album/1nzeYc8gvWMvGvmJeXLRx0"
-      },
-      "artists": [
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        }
-      ],
-      "duration_ms": 188693,
-      "name": "Secret - sad orchestra",
-      "url": "https://open.spotify.com/track/5PbI70YyDqhCYCN2QArxG5"
-    },
-    {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "Cold Heart (Acoustic)",
         "url": "https://open.spotify.com/album/78pahaG6oQu93YqFLVYGEv"
@@ -165,103 +181,7 @@
       "url": "https://open.spotify.com/track/0k6LV1ohcK2hlNPwu1nVw9"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
-      "album": {
-        "name": "SNAP PACK",
-        "url": "https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7"
-      },
-      "artists": [
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 208066,
-      "name": "SNAP - Acoustic",
-      "url": "https://open.spotify.com/track/6OQ84LoCVGxLkH95LOjIC1"
-    },
-    {
-      "added_at": "2023-12-08 14:27:34",
-      "album": {
-        "name": "Wish You The Best EP",
-        "url": "https://open.spotify.com/album/46ksJlfXcOQTlSUo7EWIYE"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 209352,
-      "name": "Wish You The Best - Guitar Version",
-      "url": "https://open.spotify.com/track/3rOGAAipcIGs9p75v9wDPq"
-    },
-    {
-      "added_at": "2023-12-08 14:27:34",
-      "album": {
-        "name": "The Ballet Girl",
-        "url": "https://open.spotify.com/album/26YF4ze9QFyuOWcTETDlX0"
-      },
-      "artists": [
-        {
-          "name": "Aden Foyer",
-          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
-        }
-      ],
-      "duration_ms": 176338,
-      "name": "The Ballet Girl (Adagio)",
-      "url": "https://open.spotify.com/track/6D3t3tNZNcyxAdbH38IEfd"
-    },
-    {
-      "added_at": "2023-12-08 14:27:34",
-      "album": {
-        "name": "Daylight (Reimagined)",
-        "url": "https://open.spotify.com/album/3HGXJ3VnxgW0KEEzQy5GCZ"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 205263,
-      "name": "Daylight - Acoustic",
-      "url": "https://open.spotify.com/track/38rp6FLYxF43GhnLcb99wu"
-    },
-    {
-      "added_at": "2023-12-08 14:27:34",
-      "album": {
-        "name": "Emiliana",
-        "url": "https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 199517,
-      "name": "Emiliana - Acoustic",
-      "url": "https://open.spotify.com/track/5o2eHgbRzQbeZKMFfgy1nn"
-    },
-    {
-      "added_at": "2023-12-08 14:27:34",
-      "album": {
-        "name": "Happier (Piano Version)",
-        "url": "https://open.spotify.com/album/1zdzQkGXsNjwSUoUcOw16S"
-      },
-      "artists": [
-        {
-          "name": "Berre",
-          "url": "https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW"
-        }
-      ],
-      "duration_ms": 192823,
-      "name": "Happier - Piano Version",
-      "url": "https://open.spotify.com/track/2oX4P8Oh5u0JCinsyNOWOY"
-    },
-    {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "THIS YEAR (Blessings) [Acoustic Version]",
         "url": "https://open.spotify.com/album/3Zqrx0J4rWBHXpv4HZIlea"
@@ -281,39 +201,87 @@
       "url": "https://open.spotify.com/track/3TawMDALb9pwBKoBWkZWLE"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
       "album": {
-        "name": "Eyes Closed (Piano Version)",
-        "url": "https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW"
+        "name": "SNAP PACK",
+        "url": "https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
         }
       ],
-      "duration_ms": 194195,
-      "name": "Eyes Closed - Piano Version",
-      "url": "https://open.spotify.com/track/1C0Uqh9cRMLPw9WpZzL4Z1"
+      "duration_ms": 208066,
+      "name": "SNAP - Acoustic",
+      "url": "https://open.spotify.com/track/6OQ84LoCVGxLkH95LOjIC1"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
       "album": {
-        "name": "Strangers (sad acoustic version)",
-        "url": "https://open.spotify.com/album/5r46y111iubU3MZRsC5ZPK"
+        "name": "Wish You The Best EP",
+        "url": "https://open.spotify.com/album/46ksJlfXcOQTlSUo7EWIYE"
       },
       "artists": [
         {
-          "name": "Kenya Grace",
-          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
         }
       ],
-      "duration_ms": 184513,
-      "name": "Strangers - sad acoustic version",
-      "url": "https://open.spotify.com/track/2BRgLIB3KV9EYdUkOgDgWs"
+      "duration_ms": 209352,
+      "name": "Wish You The Best - Guitar Version",
+      "url": "https://open.spotify.com/track/3rOGAAipcIGs9p75v9wDPq"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
+      "album": {
+        "name": "The Ballet Girl",
+        "url": "https://open.spotify.com/album/26YF4ze9QFyuOWcTETDlX0"
+      },
+      "artists": [
+        {
+          "name": "Aden Foyer",
+          "url": "https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu"
+        }
+      ],
+      "duration_ms": 176338,
+      "name": "The Ballet Girl (Adagio)",
+      "url": "https://open.spotify.com/track/6D3t3tNZNcyxAdbH38IEfd"
+    },
+    {
+      "added_at": "2023-12-22 13:16:53",
+      "album": {
+        "name": "Daylight (Reimagined)",
+        "url": "https://open.spotify.com/album/3HGXJ3VnxgW0KEEzQy5GCZ"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 205263,
+      "name": "Daylight - Acoustic",
+      "url": "https://open.spotify.com/track/38rp6FLYxF43GhnLcb99wu"
+    },
+    {
+      "added_at": "2023-12-22 13:16:53",
+      "album": {
+        "name": "Trying (Live Version)",
+        "url": "https://open.spotify.com/album/2okKFrbb0aI61Id07GRVdZ"
+      },
+      "artists": [
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "duration_ms": 126980,
+      "name": "Trying - Live Version",
+      "url": "https://open.spotify.com/track/0G7yKhzehjrEwMWYmINXPH"
+    },
+    {
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "Trip Tape",
         "url": "https://open.spotify.com/album/707cK3j40hIquI15sOcYXP"
@@ -329,7 +297,55 @@
       "url": "https://open.spotify.com/track/1X6Kmaa2Yq70vF0cIQ6V0f"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
+      "album": {
+        "name": "Eyes Closed (Piano Version)",
+        "url": "https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 194195,
+      "name": "Eyes Closed - Piano Version",
+      "url": "https://open.spotify.com/track/1C0Uqh9cRMLPw9WpZzL4Z1"
+    },
+    {
+      "added_at": "2023-12-22 13:16:53",
+      "album": {
+        "name": "Strangers (sad acoustic version)",
+        "url": "https://open.spotify.com/album/5r46y111iubU3MZRsC5ZPK"
+      },
+      "artists": [
+        {
+          "name": "Kenya Grace",
+          "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
+        }
+      ],
+      "duration_ms": 184513,
+      "name": "Strangers - sad acoustic version",
+      "url": "https://open.spotify.com/track/2BRgLIB3KV9EYdUkOgDgWs"
+    },
+    {
+      "added_at": "2023-12-22 13:16:53",
+      "album": {
+        "name": "A Little More Lost (Acoustic)",
+        "url": "https://open.spotify.com/album/2iczM0WSgNtsVklHPe1ETc"
+      },
+      "artists": [
+        {
+          "name": "Georgia Ku",
+          "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "A Little More Lost - Acoustic",
+      "url": "https://open.spotify.com/track/70NbSCzRvtTy3Sxcf3Gx1e"
+    },
+    {
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "Therapy (Acoustic Versions)",
         "url": "https://open.spotify.com/album/2nrnsrqfLugfpWe1trssSu"
@@ -345,7 +361,7 @@
       "url": "https://open.spotify.com/track/1Uf2Jb951trOKmxJZS7HOl"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "Where Are You Now (Acoustic)",
         "url": "https://open.spotify.com/album/4Am155SZjwvCP6zPnnVZqH"
@@ -365,7 +381,7 @@
       "url": "https://open.spotify.com/track/4jU6qkh8stB9uqXEPMqnJL"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "I Ain\u2019t Worried - Acoustic (Music From The Motion Picture \"Top Gun: Maverick\")",
         "url": "https://open.spotify.com/album/7lR2Xqpmvr2r05DQENflBG"
@@ -381,7 +397,23 @@
       "url": "https://open.spotify.com/track/29kUiQdEvB9q7joHiYZNJ3"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
+      "album": {
+        "name": "Happier (Piano Version)",
+        "url": "https://open.spotify.com/album/1zdzQkGXsNjwSUoUcOw16S"
+      },
+      "artists": [
+        {
+          "name": "Berre",
+          "url": "https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW"
+        }
+      ],
+      "duration_ms": 192823,
+      "name": "Happier - Piano Version",
+      "url": "https://open.spotify.com/track/2oX4P8Oh5u0JCinsyNOWOY"
+    },
+    {
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "In the Stars [(French Version) [Acoustique]]",
         "url": "https://open.spotify.com/album/3LNJA1b8J3s59MELa8u5BV"
@@ -397,7 +429,7 @@
       "url": "https://open.spotify.com/track/3ZHKBOIFBtFM0HFpAwQRbe"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "On My Love (Live Acoustic)",
         "url": "https://open.spotify.com/album/4dBBsaKdTO58KorP8Z9qc3"
@@ -417,7 +449,7 @@
       "url": "https://open.spotify.com/track/0CZ0NcS4jXLR4I2zM3FKGq"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "Hold Me Closer (Acoustic)",
         "url": "https://open.spotify.com/album/1vN546nWNaesS0pAAL017l"
@@ -437,7 +469,7 @@
       "url": "https://open.spotify.com/track/5kXZv2JwuZ0qgqNalgwvJt"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "Desire (with Sam Smith) [Acoustic]",
         "url": "https://open.spotify.com/album/15fFDWyVcxknsTGmJ2q354"
@@ -457,23 +489,7 @@
       "url": "https://open.spotify.com/track/5EUZq2pJJi1X2yRHzAeDWJ"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
-      "album": {
-        "name": "RUNAWAY (Acoustic)",
-        "url": "https://open.spotify.com/album/6O4FUArVCjvgfvWMIwwPf3"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 142766,
-      "name": "RUNAWAY - Acoustic",
-      "url": "https://open.spotify.com/track/4Z3jnL8wjTptUo0OgxKa47"
-    },
-    {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "miss me (when you're gone) remixes",
         "url": "https://open.spotify.com/album/1pEipsUVstkQ8cbB1hSr8I"
@@ -489,7 +505,7 @@
       "url": "https://open.spotify.com/track/52vl4KA0ATWJ6Mf7QChsd3"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "Hypnotized (Acoustic)",
         "url": "https://open.spotify.com/album/31sIFQ5fOYUQZ62LpNmQzY"
@@ -509,7 +525,7 @@
       "url": "https://open.spotify.com/track/47iizIcROe1dhW3ii9cvTf"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "How Do I Say Goodbye",
         "url": "https://open.spotify.com/album/1F0usgSkjLQNKW7wRsNvRY"
@@ -525,7 +541,7 @@
       "url": "https://open.spotify.com/track/7fAoDr6naastKUtqo75SNm"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/41E4ZK25y5hUaGB6NBzn5w"
@@ -541,7 +557,7 @@
       "url": "https://open.spotify.com/track/7JBWagcdXEX1dDZTCKUo7R"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "Following the Sun",
         "url": "https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG"
@@ -561,7 +577,7 @@
       "url": "https://open.spotify.com/track/3v5ZzxwENtgyJkrwR5JW4N"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "Light Switch (Acoustic)",
         "url": "https://open.spotify.com/album/0H6pdORxZ735HztupqklPx"
@@ -577,7 +593,7 @@
       "url": "https://open.spotify.com/track/42nDnUAPjhZFlj5wt2BjJm"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4xhcTm06KVa15xIpVk1hQt"
@@ -593,7 +609,7 @@
       "url": "https://open.spotify.com/track/4SBahN5KfX1RLG9XLNIlJA"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "Living In A Haze (Acoustic Version)",
         "url": "https://open.spotify.com/album/4Csna5Mo6vzOZlwCGCc2we"
@@ -609,7 +625,7 @@
       "url": "https://open.spotify.com/track/7xJWAuyry7xJnmySKUnMiu"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "Love Me Now (feat. FAST BOY) [Acoustic]",
         "url": "https://open.spotify.com/album/6PQlOCoekOPHXh7fLuMs8f"
@@ -629,7 +645,7 @@
       "url": "https://open.spotify.com/track/7Eu1ryblKF85zn7xpnst3P"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "Love Nwantiti (Acoustic Version)",
         "url": "https://open.spotify.com/album/246C6Xn7fypfU7vQ8m1YP6"
@@ -645,7 +661,7 @@
       "url": "https://open.spotify.com/track/450u5gGMGwQXmtLSR7AN2s"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "If We Ever Broke Up (Acoustic)",
         "url": "https://open.spotify.com/album/6TiPoqyrGIzXke5FLATpAj"
@@ -661,7 +677,7 @@
       "url": "https://open.spotify.com/track/4EmQjaL9qkniq3YO1EKmCR"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "Kill Bill (Acoustic)",
         "url": "https://open.spotify.com/album/1P1hvg624kDZJ841ZAZzWy"
@@ -677,7 +693,7 @@
       "url": "https://open.spotify.com/track/5ReIs3aH4wfBjp93QOtWAl"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "Lavender Haze (Acoustic Version)",
         "url": "https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU"
@@ -693,7 +709,23 @@
       "url": "https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
+      "album": {
+        "name": "RUNAWAY (Acoustic)",
+        "url": "https://open.spotify.com/album/6O4FUArVCjvgfvWMIwwPf3"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 142766,
+      "name": "RUNAWAY - Acoustic",
+      "url": "https://open.spotify.com/track/4Z3jnL8wjTptUo0OgxKa47"
+    },
+    {
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "Heat Waves (Acoustic)",
         "url": "https://open.spotify.com/album/4UFCNxjO9gA2SvQ6YV2mro"
@@ -709,7 +741,7 @@
       "url": "https://open.spotify.com/track/0QzY6rP7C8IWMnpEyuQmC6"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "Can't Tame Her (Acoustic)",
         "url": "https://open.spotify.com/album/7kSvTMG6BOS7O7yHyKeGpg"
@@ -725,7 +757,7 @@
       "url": "https://open.spotify.com/track/1fuD35YHKBFQTIy61hbwo4"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "Forget Me (Piano Acoustic)",
         "url": "https://open.spotify.com/album/69REZAzvlxLHqPYGrH7wr4"
@@ -741,23 +773,7 @@
       "url": "https://open.spotify.com/track/3fHvOiVB4KfakM0Iaw3u2D"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
-      "album": {
-        "name": "Little Bit of Love (Remixes)",
-        "url": "https://open.spotify.com/album/2Kb2nUdrSVtqmXXH3qeftu"
-      },
-      "artists": [
-        {
-          "name": "Tom Grennan",
-          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
-        }
-      ],
-      "duration_ms": 216487,
-      "name": "Little Bit of Love - Acoustic",
-      "url": "https://open.spotify.com/track/6RsVs4RDuXsT1bV9UwWxNJ"
-    },
-    {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "Selfish Love (with Selena Gomez) EP",
         "url": "https://open.spotify.com/album/5gaTlwqxtq9ciRVqgOfusR"
@@ -781,27 +797,7 @@
       "url": "https://open.spotify.com/track/4Am0QoksGA70r4ZdsgV2Y9"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
-      "album": {
-        "name": "Wasted Love (feat. Lagique) [Acoustic]",
-        "url": "https://open.spotify.com/album/2CgvyrhuhDiXBAmXQz52Js"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "Lagique",
-          "url": "https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2"
-        }
-      ],
-      "duration_ms": 127873,
-      "name": "Wasted Love (feat. Lagique) - Acoustic",
-      "url": "https://open.spotify.com/track/5Zn1K7j3DkB1akPiBLwKR9"
-    },
-    {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c"
@@ -817,7 +813,7 @@
       "url": "https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "Sweet but Psycho (Acoustic)",
         "url": "https://open.spotify.com/album/2oKx85K5SRVksSS9aN1Lon"
@@ -833,7 +829,7 @@
       "url": "https://open.spotify.com/track/10WVEHOf1FZf5XgK6dUWvN"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "Breaking Me (Remixes)",
         "url": "https://open.spotify.com/album/48PG4pmiNVsiWrn87l7XbT"
@@ -853,7 +849,7 @@
       "url": "https://open.spotify.com/track/0mFWr2JK53ff1rIjle2PWm"
     },
     {
-      "added_at": "2023-12-08 14:27:34",
+      "added_at": "2023-12-22 13:16:53",
       "album": {
         "name": "Lonely (with benny blanco) [Main + Acoustic]",
         "url": "https://open.spotify.com/album/7HWrpFGNHEaylb0DK0xrkH"

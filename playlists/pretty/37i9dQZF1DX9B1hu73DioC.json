@@ -1,12 +1,12 @@
 {
   "description": "Vibey indie tracks for just hanging out.",
-  "num_followers": 809027,
+  "num_followers": 809100,
   "original_name": "Indie Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2RkOWY4Y2EzN2ZkZmZhZDAxYTBkYTJmMDczNjIzMjBkOTViMzgy",
+  "snapshot_id": "MCxjZTVjZTY2YTI1OWUwYTQ5OTk2NDA2Y2U5MDkwOWJjMWEyNTU3MjVi",
   "tracks": [
     {
       "added_at": "2023-12-12 21:37:08",
@@ -443,26 +443,6 @@
     {
       "added_at": "2023-12-12 21:37:08",
       "album": {
-        "name": "Average Guy (Blame)",
-        "url": "https://open.spotify.com/album/3IDnvOtwynPayvIxyY7Zdo"
-      },
-      "artists": [
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        },
-        {
-          "name": "Monster Rally",
-          "url": "https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43"
-        }
-      ],
-      "duration_ms": 180994,
-      "name": "Average Guy (Blame)",
-      "url": "https://open.spotify.com/track/1ZJaZDD8D9SqmBNAXehB6H"
-    },
-    {
-      "added_at": "2023-12-12 21:37:08",
-      "album": {
         "name": "Summer's Over",
         "url": "https://open.spotify.com/album/60EzsIzS77S9MWHT0Tm37s"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 173000,
       "name": "Summer's Over",
       "url": "https://open.spotify.com/track/4E5N0mYyYFf0QZs3XDeSIj"
+    },
+    {
+      "added_at": "2023-12-12 21:37:08",
+      "album": {
+        "name": "Average Guy (Blame)",
+        "url": "https://open.spotify.com/album/3IDnvOtwynPayvIxyY7Zdo"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        },
+        {
+          "name": "Monster Rally",
+          "url": "https://open.spotify.com/artist/3DtnSKmpjFGUzZcccWfG43"
+        }
+      ],
+      "duration_ms": 180994,
+      "name": "Average Guy (Blame)",
+      "url": "https://open.spotify.com/track/1ZJaZDD8D9SqmBNAXehB6H"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -611,6 +611,22 @@
     {
       "added_at": "2023-12-12 21:37:08",
       "album": {
+        "name": "EP III",
+        "url": "https://open.spotify.com/album/4nrWWmcF5QbROgZ7YitJ2q"
+      },
+      "artists": [
+        {
+          "name": "Yumi Zouma",
+          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
+        }
+      ],
+      "duration_ms": 204386,
+      "name": "In Camera",
+      "url": "https://open.spotify.com/track/34PIoWUkKuAUbGTozZsxvB"
+    },
+    {
+      "added_at": "2023-12-12 21:37:08",
+      "album": {
         "name": "El Bueno Y El Malo",
         "url": "https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 201413,
       "name": "Tres Hermanos",
       "url": "https://open.spotify.com/track/4TesXLELrAp8TPGHckP6Ap"
-    },
-    {
-      "added_at": "2023-12-12 21:37:08",
-      "album": {
-        "name": "EP III",
-        "url": "https://open.spotify.com/album/4nrWWmcF5QbROgZ7YitJ2q"
-      },
-      "artists": [
-        {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
-        }
-      ],
-      "duration_ms": 204386,
-      "name": "In Camera",
-      "url": "https://open.spotify.com/track/34PIoWUkKuAUbGTozZsxvB"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-12-12 21:37:08",
       "album": {
+        "name": "Untourable Album",
+        "url": "https://open.spotify.com/album/1vYB8mYSGiKxE5C2RGjfDP"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 176315,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/6ZdAsADC9LIICvsVRuGWbZ"
+    },
+    {
+      "added_at": "2023-12-12 21:37:08",
+      "album": {
         "name": "Javelin",
         "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 214073,
       "name": "Born For Loving You",
       "url": "https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc"
-    },
-    {
-      "added_at": "2023-12-12 21:37:08",
-      "album": {
-        "name": "Untourable Album",
-        "url": "https://open.spotify.com/album/1vYB8mYSGiKxE5C2RGjfDP"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 176315,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/6ZdAsADC9LIICvsVRuGWbZ"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-12-12 21:37:08",
       "album": {
-        "name": "5K",
-        "url": "https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8"
-      },
-      "artists": [
-        {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
-        }
-      ],
-      "duration_ms": 133493,
-      "name": "Races",
-      "url": "https://open.spotify.com/track/7rH1YBai3Kq8glq8ya8Uo5"
-    },
-    {
-      "added_at": "2023-12-12 21:37:08",
-      "album": {
         "name": "Powders",
         "url": "https://open.spotify.com/album/3zjvJv9tqkQ5kdX9pOpT6U"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 271733,
       "name": "Crushing",
       "url": "https://open.spotify.com/track/6BPwBHxjmavFAyMrLQgQYd"
+    },
+    {
+      "added_at": "2023-12-12 21:37:08",
+      "album": {
+        "name": "5K",
+        "url": "https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8"
+      },
+      "artists": [
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "duration_ms": 133493,
+      "name": "Races",
+      "url": "https://open.spotify.com/track/7rH1YBai3Kq8glq8ya8Uo5"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-12-12 21:37:08",
       "album": {
-        "name": "Back In Love",
-        "url": "https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 281253,
-      "name": "Back In Love",
-      "url": "https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl"
-    },
-    {
-      "added_at": "2023-12-12 21:37:08",
-      "album": {
         "name": "Collapsed In Sunbeams",
         "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 223413,
       "name": "Eugene",
       "url": "https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y"
+    },
+    {
+      "added_at": "2023-12-12 21:37:08",
+      "album": {
+        "name": "Back In Love",
+        "url": "https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 281253,
+      "name": "Back In Love",
+      "url": "https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-12-12 21:37:08",
       "album": {
+        "name": "Tailwhip",
+        "url": "https://open.spotify.com/album/5zV9Kwq0WDSPshNbvG418a"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 225263,
+      "name": "Tailwhip",
+      "url": "https://open.spotify.com/track/7fax7NlxOq2X9kMZw8QLE2"
+    },
+    {
+      "added_at": "2023-12-12 21:37:08",
+      "album": {
         "name": "LOVE + POP",
         "url": "https://open.spotify.com/album/5God4dounbNrQtR8otCSHD"
       },
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2023-12-12 21:37:08",
       "album": {
-        "name": "Fool",
-        "url": "https://open.spotify.com/album/47GRGVpoDs4prZR1dGTOa4"
-      },
-      "artists": [
-        {
-          "name": "Kidsnot$aints.",
-          "url": "https://open.spotify.com/artist/3vcmFdngDnToTjWO61hMTK"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/4RA2kuqYCdqk1CeZjc3jlL"
-    },
-    {
-      "added_at": "2023-12-12 21:37:08",
-      "album": {
         "name": "coogie",
         "url": "https://open.spotify.com/album/6O9lTWRoILaLhlq7gSVTyf"
       },
@@ -1351,6 +1351,22 @@
       "duration_ms": 189514,
       "name": "coogie",
       "url": "https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ"
+    },
+    {
+      "added_at": "2023-12-12 21:37:08",
+      "album": {
+        "name": "Fool",
+        "url": "https://open.spotify.com/album/47GRGVpoDs4prZR1dGTOa4"
+      },
+      "artists": [
+        {
+          "name": "Kidsnot$aints.",
+          "url": "https://open.spotify.com/artist/3vcmFdngDnToTjWO61hMTK"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/4RA2kuqYCdqk1CeZjc3jlL"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -1391,22 +1407,6 @@
       "duration_ms": 210948,
       "name": "Alright, OK",
       "url": "https://open.spotify.com/track/7hj2XcjFRk7CG1aL0GqTQP"
-    },
-    {
-      "added_at": "2023-12-12 21:37:08",
-      "album": {
-        "name": "Tailwhip",
-        "url": "https://open.spotify.com/album/5zV9Kwq0WDSPshNbvG418a"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 225263,
-      "name": "Tailwhip",
-      "url": "https://open.spotify.com/track/7fax7NlxOq2X9kMZw8QLE2"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2023-12-12 21:37:08",
       "album": {
-        "name": "Pyjamas (feat. Remi Wolf)",
-        "url": "https://open.spotify.com/album/0AmJGPvtL6Kj0MBp7gh8BK"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        },
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 168240,
-      "name": "Pyjamas (feat. Remi Wolf)",
-      "url": "https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN"
-    },
-    {
-      "added_at": "2023-12-12 21:37:08",
-      "album": {
         "name": "99 Nights",
         "url": "https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P"
       },
@@ -1591,6 +1571,26 @@
       "duration_ms": 256888,
       "name": "Sole Obsession",
       "url": "https://open.spotify.com/track/5eHB7iz8fKG1IkaGddI7LA"
+    },
+    {
+      "added_at": "2023-12-12 21:37:08",
+      "album": {
+        "name": "Pyjamas (feat. Remi Wolf)",
+        "url": "https://open.spotify.com/album/0AmJGPvtL6Kj0MBp7gh8BK"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        },
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 168240,
+      "name": "Pyjamas (feat. Remi Wolf)",
+      "url": "https://open.spotify.com/track/0LuB69EEijTVyNHOXHiqhN"
     },
     {
       "added_at": "2023-12-12 21:37:08",
@@ -1657,22 +1657,6 @@
       "url": "https://open.spotify.com/track/03tXFHO65orOSnHlEDf0JK"
     },
     {
-      "added_at": "2023-12-12 21:37:08",
-      "album": {
-        "name": "Greg Mendez",
-        "url": "https://open.spotify.com/album/2jbgzfwZf1821YjhhSPrik"
-      },
-      "artists": [
-        {
-          "name": "Greg Mendez",
-          "url": "https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h"
-        }
-      ],
-      "duration_ms": 118329,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/0c8yjevkeywoScoAcURgU7"
-    },
-    {
       "added_at": "2023-12-14 22:08:25",
       "album": {
         "name": "Silver",
@@ -1687,6 +1671,22 @@
       "duration_ms": 281333,
       "name": "Astral Plane",
       "url": "https://open.spotify.com/track/6srWhJKBiuuPXpjUjQeAHc"
+    },
+    {
+      "added_at": "2023-12-12 21:37:08",
+      "album": {
+        "name": "Greg Mendez",
+        "url": "https://open.spotify.com/album/2jbgzfwZf1821YjhhSPrik"
+      },
+      "artists": [
+        {
+          "name": "Greg Mendez",
+          "url": "https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h"
+        }
+      ],
+      "duration_ms": 118329,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/0c8yjevkeywoScoAcURgU7"
     }
   ],
   "unique_name": "Indie Chillout",

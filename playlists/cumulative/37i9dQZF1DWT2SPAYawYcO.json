@@ -8303,6 +8303,24 @@
     },
     {
       "album": {
+        "name": "Closer Than This",
+        "url": "https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223302,
+      "name": "Closer Than This",
+      "url": "https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20"
+    },
+    {
+      "album": {
         "name": "Closer To You / Make Yourself At Home",
         "url": "https://open.spotify.com/album/6g2yAFcr82CEv9ONmcfntZ"
       },
@@ -33999,6 +34017,28 @@
     },
     {
       "album": {
+        "name": "QUI ?",
+        "url": "https://open.spotify.com/album/21shtpfyWLPviW9L5huGQ9"
+      },
+      "artists": [
+        {
+          "name": "La F\u00e8ve",
+          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
+        },
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192023,
+      "name": "QUI ?",
+      "url": "https://open.spotify.com/track/1esBqSSIPYQfmyO7CSl9XP"
+    },
+    {
+      "album": {
         "name": "24",
         "url": "https://open.spotify.com/album/2vdJtLZGq4ljPBo3gFTwJC"
       },
@@ -34014,7 +34054,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 192023,
       "name": "QUI ?",
       "url": "https://open.spotify.com/track/7jqzUrQlx59stbR6fNebwW"
@@ -48098,10 +48138,32 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 154583,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/0yjswHWcqTEtpoe4IzJRI5"
+    },
+    {
+      "album": {
+        "name": "You & Me",
+        "url": "https://open.spotify.com/album/2cTcV37tJ1qVXTH1iRf2Mz"
+      },
+      "artists": [
+        {
+          "name": "Merlin",
+          "url": "https://open.spotify.com/artist/2MaEWDHjb1owUg3SGhS1vp"
+        },
+        {
+          "name": "Emie",
+          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154583,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/7ouJOwsTo9wpmV4bDdOH8M"
     },
     {
       "album": {

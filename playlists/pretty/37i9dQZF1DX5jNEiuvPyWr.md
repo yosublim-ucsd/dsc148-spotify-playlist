@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 
 > Le meilleur du rap français version cloud\. Photo : Djadja & Dinaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,381 likes - 40 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,980 likes - 40 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jNEiuvPyWr.md) - [plain]
 | 39 | [Dr\. Surprise](https://open.spotify.com/track/0lL5qRP6yOTkaCl9Hy48ZB) | [Surprise](https://open.spotify.com/artist/0qvSqrreqXO98OunCDZN9r) | [Dr\. Surprise](https://open.spotify.com/album/1EZFmNCKU4wn8tNk6sRsJg) | 1:54 |
 | 40 | [mayday](https://open.spotify.com/track/6Ax8LuViU7B5YrJBX8V8oe) | [LVZ](https://open.spotify.com/artist/7B8kPWR00p96IXVH6u4zrf) | [SOUS L'AVERSE](https://open.spotify.com/album/2kQVXn6S6Dk7KOs5UCbjGZ) | 2:19 |
 
-Snapshot ID: `MCwxMTg4OTMxZTM0YTc5OWFkMDEwOGFiYjAwOGRiY2I3ZDRkMTNkYzky`
+Snapshot ID: `MCw2YjMzZGQ4ODVjZTdhZjY2MzVkMGIwNTdlNGZjMTJkYTE3YTdmNDM1`

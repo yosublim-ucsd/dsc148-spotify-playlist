@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vuU6c.md) - [plain]
 
 > This is Sia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,371,733 likes - 67 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,372,055 likes - 67 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3vuU6c.md) - [plain]
 | 66 | [Waterfall](https://open.spotify.com/track/7pYFPMeK0TnaTGdS6qOtEr) | [Stargate](https://open.spotify.com/artist/7KUri7klyLaIFXLcuuOMCd), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Waterfall](https://open.spotify.com/album/4j8Wr17zfsvxEpeTXHbrmL) | 3:20 |
 | 67 | [Somersault](https://open.spotify.com/track/6CgIaRVXNmpUgeVuHmA4a2) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [When It Falls](https://open.spotify.com/album/2pTVmzJ3y3H2TI9dDQMvl7) | 6:56 |
 
-Snapshot ID: `MjgzODYwMTksMDAwMDAwMDBhZjQ2NmFlOTY4ZTdiOGNhYTMyMDk4YjY5ZGFhNzllYw==`
+Snapshot ID: `MjgzODc0NTksMDAwMDAwMDBiMmYwNTc3OTZmMTM0NTYxOGE5NTNjOGY4MjdiNWUxZA==`

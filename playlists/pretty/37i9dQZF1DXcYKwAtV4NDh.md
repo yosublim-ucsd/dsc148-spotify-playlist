@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYKwAtV4NDh.md) - [plain]
 
 > A deep and concise look at the music that made Country Music what is is today\. Covers eras <br/>1930's \- 1990.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,737 likes - 107 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,832 likes - 107 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYKwAtV4NDh.md) - [plain]
 | 19 | [Back In The Saddle Again](https://open.spotify.com/track/4eePcTiLO6o5W4ejSQ7uSn) | [Gene Autry](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs) | [The Essential Gene Autry](https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8) | 2:35 |
 | 20 | [Wabash Cannonball](https://open.spotify.com/track/5RKPe1oN9lGayUCKn00fYi) | [Roy Acuff](https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M) | [The Essential Roy Acuff](https://open.spotify.com/album/37wOjBhzeA4FAHWk6z7FsM) | 2:36 |
 | 21 | [New Mule Skinner Blues](https://open.spotify.com/track/3CIoKguwyGbZlcvc4KtlC6) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [Anthology](https://open.spotify.com/album/3jOrYZPtUL54bBR71yGixE) | 2:29 |
-| 22 | [Molly And Tenbrook](https://open.spotify.com/track/26AAYh1PwC4sPF7COMgRmr) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD) | [Earliest Recordings \- The Complete Rich\-r\-tone 78's](https://open.spotify.com/album/0j0yXKdHLfOzI6qpyn4ByN) | 2:23 |
+| 22 | [Molly And Tenbrook](https://open.spotify.com/track/6lwzzzzHB3hPIm2ucv7BcU) | [Stanley Brothers](https://open.spotify.com/artist/7sYX11zkibP85rPz5ms1MI) | [Earliest Recordings \- The Complete Rich\-r\-tone 78's](https://open.spotify.com/album/24EaakQd1ynRaa9bxGwi0h) | 2:23 |
 | 23 | [San Antonio Rose](https://open.spotify.com/track/0cZGEJpAvUkPaCRTd4g4Ew) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [San Antonio Rose](https://open.spotify.com/album/07mLD26DBfZKSHxr3deO2g) | 3:25 |
 | 24 | [Lovesick Blues \- Single Version](https://open.spotify.com/track/4RZFpgo4VzBjH5g7XCHo2l) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW) | [40 Greatest Hits](https://open.spotify.com/album/6zIYEv6soMoaZiypsHB5dd) | 2:45 |
 | 25 | [Hey, Good Lookin'](https://open.spotify.com/track/7tNJo8NJ7fhprfjyDgdH2A) | [Hank Williams](https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW) | [40 Greatest Hits](https://open.spotify.com/album/6zIYEv6soMoaZiypsHB5dd) | 2:55 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcYKwAtV4NDh.md) - [plain]
 | 106 | [Eighteen Wheels And A Dozen Roses](https://open.spotify.com/track/6EGRx5TVuHAsmy3JKb8SRC) | [Kathy Mattea](https://open.spotify.com/artist/7ndzHjxbErIwvwnEUewMWe) | [Untasted Honey](https://open.spotify.com/album/1K1PfB1GQe1lQcgxjEz8T5) | 3:23 |
 | 107 | [Fancy](https://open.spotify.com/track/1ecIqo8pOc8S6y3l80iGxd) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Best Of/20th Century](https://open.spotify.com/album/0Rb3coYXuUlgRLoi3UhADa) | 4:56 |
 
-Snapshot ID: `MCxhNTQxYjhjMDVjYTJjYjhlZTgzNWYxMmU3NWZlODQ2N2E2ZDM1YjIz`
+Snapshot ID: `MCw0MGFmYjFlYmE3YjdmY2IwYTBmN2QxMTkyNDExYjdmNzJmZDQ3YTM4`

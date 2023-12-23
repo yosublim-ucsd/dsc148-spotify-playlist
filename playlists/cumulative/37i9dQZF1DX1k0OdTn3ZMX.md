@@ -2,9 +2,9 @@
 
 ### [new nü](https://open.spotify.com/playlist/37i9dQZF1DX1k0OdTn3ZMX)
 
-> nü\-metal revival is happening here and now with Sleep Theory.
+> nü\-metal revival is happening here and now with Papa Roach.
 
-86 songs - 5 hr 1 min
+87 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [system\_failure](https://open.spotify.com/track/41J8NzN0nWOCv2Ht94e78n) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Slow Burn](https://open.spotify.com/album/3tbDu2wslQEmwMalgSgSB9) | 4:18 | 2023-09-13 |  |
 | [Telescope](https://open.spotify.com/track/3Tn9ea6IIwfH0LuRF71vfg) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [The Generation Of Danger](https://open.spotify.com/album/3o2oLb3RZjWhdIU6d98rnr) | 4:09 | 2023-09-13 | 2023-09-23 |
 | [The Heresy](https://open.spotify.com/track/2zl4OeEKQTUhswMeAVkwbo) | [Mushroomhead](https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M) | [A Wonderful Life](https://open.spotify.com/album/6r09VreaN9XExE5fS6NoTv) | 3:59 | 2023-09-13 |  |
+| [thieves of virtue](https://open.spotify.com/track/3zDdUiSL0k7szyWtUMEoJ6) | [Daedra](https://open.spotify.com/artist/4Bl3FXav6VIDmSpaHLwpon) | [thieves of virtue](https://open.spotify.com/album/0iY4q3066UsWq2uUds42OG) | 2:49 | 2023-12-22 |  |
 | [This Is Over](https://open.spotify.com/track/5aX9v4Y1q1iibwYmsPVchf) | [Ill Niño](https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF) | [This Is Over](https://open.spotify.com/album/1WTW5zVbx104vQyQolqOHf) | 3:06 | 2023-09-13 |  |
 | [Too Late](https://open.spotify.com/track/1n110MY4nS0rX59wbpNoPS) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [Too Late](https://open.spotify.com/album/5xTfpkXcdVjW5RjiWl4PkF) | 4:09 | 2023-10-13 | 2023-12-16 |
 | [Two\-Way Mirror](https://open.spotify.com/track/0b4TKuvZ4eJ8eHgJgXaCnN) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [I Let It in and It Took Everything](https://open.spotify.com/album/6nUUV3haj8ug8okTmOyIU2) | 5:00 | 2023-09-13 | 2023-12-16 |
@@ -84,7 +85,7 @@
 | [V\\P \(V\\CT\\M \\ PL\\Y\)](https://open.spotify.com/track/3q7aZ7dslj9e1uUmSMzu85) | [Taproot](https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA) | [SC\\SSRS](https://open.spotify.com/album/3KtkgdjSTdTzkHdYQ0cglt) | 4:24 | 2023-11-17 | 2023-12-16 |
 | [Venom](https://open.spotify.com/track/49eBYKKPFUpD8xXAxl29SE) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Venom](https://open.spotify.com/album/14hhOTLyfegr6dKjfWY7XP) | 3:35 | 2023-10-27 |  |
 | [VIOLENT PRINCIPLES](https://open.spotify.com/track/1DIeftYBThGuFnSE0uUv6J) | [Adema](https://open.spotify.com/artist/3n4ersmDo55xV4fPSCKpXb) | [VIOLENT PRINCIPLES](https://open.spotify.com/album/7kv5aRv6tltcgjHOmCmUIT) | 3:47 | 2023-09-13 |  |
-| [Waiting](https://open.spotify.com/track/2hoNfgPtu1VlcCLwyMJ5yH) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [Waiting](https://open.spotify.com/album/4COHGQrXU0drwFzAe108RV) | 3:37 | 2023-11-10 |  |
+| [Waiting](https://open.spotify.com/track/2hoNfgPtu1VlcCLwyMJ5yH) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [Waiting](https://open.spotify.com/album/4COHGQrXU0drwFzAe108RV) | 3:37 | 2023-11-10 | 2023-12-23 |
 | [Watch The World Burn](https://open.spotify.com/track/4CiVz4bw7X1zjCaJ5ZwxUS) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Watch The World Burn](https://open.spotify.com/album/5SjHojBg6zfZHMqWYjFzFE) | 3:23 | 2023-09-22 |  |
 | [Wavery](https://open.spotify.com/track/2THCSs7C9BxHuD9yBfJvnU) | [Vein.fm](https://open.spotify.com/artist/5NU7mpGqMvlZpq63RajHOH) | [This World is Going to Ruin You](https://open.spotify.com/album/2AZ6B4mTJHQYee6U64rsXa) | 4:40 | 2023-09-13 | 2023-11-11 |
 | [Werewolf \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/3ySqZ8yGoh4Emi9HiPCCdP) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:59 | 2023-09-13 |  |

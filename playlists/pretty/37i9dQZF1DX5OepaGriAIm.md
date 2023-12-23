@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 
 > Trace the history of Jazz from timeless classics to boundary\-breaking contemporary favorites from the women of Jazz\. Cover: Diana Krall
 
-[Spotify](https://open.spotify.com/user/spotify) - 855,530 likes - 129 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 855,597 likes - 129 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 | 38 | [Theme for Ernie](https://open.spotify.com/track/5tLfkmsmlvkS022cEqCNLu) | [Bévort 3](https://open.spotify.com/artist/34U2e4Kt2mtD1yT2HkRZ7W), [Pernille Bévort](https://open.spotify.com/artist/1Y1qQvf0rRxHFB1H0VSNCV), [Espen Laub von Lillienskjold](https://open.spotify.com/artist/2HD6XSwIbTymHXSshxSlnF), [Morten Ankarfeldt](https://open.spotify.com/artist/71zyq1fTht9Jg6Vc3GMMUU) | [Theme for Ernie](https://open.spotify.com/album/5nIGkpHjEIoZwoZkWbOOAh) | 5:16 |
 | 39 | [For All We Know](https://open.spotify.com/track/37HQHRDtFQ3H80fEgxiW9I) | [Ellas Kapell](https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb) | [For All We Know](https://open.spotify.com/album/3V0kkAM0XktsMtD88qXHZO) | 5:05 |
 | 40 | [How Deep Is The Ocean](https://open.spotify.com/track/6DcnA13j0itZwmg4BpqWZk) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [How Deep Is The Ocean](https://open.spotify.com/album/6aSqIS4egZCz5jEYrQopJj) | 5:18 |
-| 41 | [I Try](https://open.spotify.com/track/1TQZRpTbH3aWDqmr5mBo2z) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stripped](https://open.spotify.com/album/0e4r5RngHsRWXwUdifziDt) | 4:17 |
+| 41 | [I Try](https://open.spotify.com/track/4LwUtuvie7JhcBFhUKnVv1) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stripped](https://open.spotify.com/album/4qOu8iLW8LyrX1MVm393P6) | 4:17 |
 | 42 | [Mad About The Boy](https://open.spotify.com/track/1c7ELD4W6VyoKTglc4zzUH) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [The Complete Dinah Washington On Mercury Vol\. 2 \(1950\-1952\)](https://open.spotify.com/album/2ijZDafBX3xtZSGUkxccZ6) | 3:02 |
 | 43 | [Bella Ci Dormi](https://open.spotify.com/track/4PCvloqv0ebXW0BVOLkS7l) | [Elina Duni](https://open.spotify.com/artist/2uuSFOLMgwxUEuzMFCNehL), [Rob Luft](https://open.spotify.com/artist/4LgaDOxBtDK4KvEarwuiQL), [Fred Thomas](https://open.spotify.com/artist/3lK5x1jZZM2Y8HzdZl4aCB), [Matthieu Michel](https://open.spotify.com/artist/41FrZElPoQw0plv2d3UL2r) | [Lost Ships](https://open.spotify.com/album/6g0LxTi0WdqCDfcte6TvJg) | 6:55 |
 | 44 | [Moody's Mood For Love / Teo Licks](https://open.spotify.com/track/2cwceznjAMWRRFc89F4KMe) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Frank](https://open.spotify.com/album/664z6KAZKVhAY36vBCLmiN) | 3:28 |
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OepaGriAIm.md) - [plain]
 | 128 | [Lullaby Of Birdland](https://open.spotify.com/track/5z161QQZMgQxSILnv3QoJk) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan](https://open.spotify.com/album/7wX89EWCK8cNZeGnBS5bMG) | 4:00 |
 | 129 | [My Favourite Things](https://open.spotify.com/track/5RzDUxNC7hKjr8eTEX8n6b) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [Inside Betty Carter](https://open.spotify.com/album/3rFnwsVrrSYZQsCGTkOT7W) | 1:38 |
 
-Snapshot ID: `MCwzZDI4MDQxZGM1NTdmMzAxZGJlYjFlYzMxNjZlNzMwZTcyZjNiODcz`
+Snapshot ID: `MCxjYjA0MjA3MTI0Mzg0ZmQyYTY3Nzc4MGEzM2MyOTMzMjI4NzM0OTY2`

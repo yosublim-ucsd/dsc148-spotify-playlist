@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 
 > Always come in 1st place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,469 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,574 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 49 | [Believer](https://open.spotify.com/track/0KuvjeKpXNK6fMPsnpJ0cm) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [Believer](https://open.spotify.com/album/09539Dh2pzs6OmoWsXFtFH) | 3:38 |
 | 50 | [Make Up My Mind](https://open.spotify.com/track/2FXwX8wv2nmDy1U8NRiHo2) | [Snackbox](https://open.spotify.com/artist/03NvCV8Gy0VLvUcIA8T0cJ), [Husky](https://open.spotify.com/artist/74AV853eXs56Dqe8TSahzk) | [Make Up My Mind](https://open.spotify.com/album/4i55bHABEF6I4AKC47xHAw) | 2:25 |
 
-Snapshot ID: `MCxhMDk0MGNmYzgxZDA0ZjQxYTk4NTczY2FlZTlhMWZmNTZhOTIxNmY5`
+Snapshot ID: `MCxkNWY2MTNmYzM4NjJiNzIxOTllYzQ4Y2ExZmYzODU1ODJiZjVmZjQw`

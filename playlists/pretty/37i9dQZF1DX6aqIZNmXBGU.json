@@ -1,12 +1,12 @@
 {
   "description": "Get pumped, feel the vibe and get ready for the swell coming in.",
-  "num_followers": 17470,
+  "num_followers": 17467,
   "original_name": "Sun & Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWZiYjdhZjBhZGMzMThlYWJhZTY2YTE2MmM3MzQ4Y2NlZWIwYjJh",
+  "snapshot_id": "MCxmM2Y1YWFiMmM3YjU4YjMyNjUyOTVkZWQ1ZTU2ZGYwOTMwYmMwNmEz",
   "tracks": [
     {
       "added_at": "2021-04-09 06:19:31",
@@ -879,22 +879,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Gb City",
-        "url": "https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5"
-      },
-      "artists": [
-        {
-          "name": "Bass Drum of Death",
-          "url": "https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY"
-        }
-      ],
-      "duration_ms": 156773,
-      "name": "Nerve Jamming",
-      "url": "https://open.spotify.com/track/3YdC9oQEHaLT6FEdnRdbtq"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Death Song",
         "url": "https://open.spotify.com/album/60Ly6kzhlFatwt5VxiiOom"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 316533,
       "name": "Currency",
       "url": "https://open.spotify.com/track/1rm3aoImJKt5gW1pet7Vat"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Gb City",
+        "url": "https://open.spotify.com/album/4VFt6gflVhBmesukoQ3Lt5"
+      },
+      "artists": [
+        {
+          "name": "Bass Drum of Death",
+          "url": "https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY"
+        }
+      ],
+      "duration_ms": 156773,
+      "name": "Nerve Jamming",
+      "url": "https://open.spotify.com/track/3YdC9oQEHaLT6FEdnRdbtq"
     },
     {
       "added_at": "2021-04-09 06:19:31",

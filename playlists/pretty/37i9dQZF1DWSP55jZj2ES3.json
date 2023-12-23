@@ -1,12 +1,12 @@
 {
   "description": "Indie jams that sound like lounging under the sun with friends. ",
-  "num_followers": 528048,
+  "num_followers": 528061,
   "original_name": "Park Hangs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2M5MDBjZjQ4MWQxMDdmZGQ5MjYxMjU1ZDhlODQ0Yzk1YmRkZTAz",
+  "snapshot_id": "MCw4MjA3YjFkMDA1M2NmMTZlYmE1YjQ3NGYzODk1MTQ1MDFjMTEzNmNj",
   "tracks": [
     {
       "added_at": "2023-09-16 00:49:46",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-09-16 00:49:46",
       "album": {
-        "name": "Thrill of the Arts",
-        "url": "https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7"
-      },
-      "artists": [
-        {
-          "name": "Vulfpeck",
-          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
-        }
-      ],
-      "duration_ms": 181259,
-      "name": "Back Pocket",
-      "url": "https://open.spotify.com/track/1DrlLvlYd1FIjNavRm6NdX"
-    },
-    {
-      "added_at": "2023-09-16 00:49:46",
-      "album": {
         "name": "HIT EM WHERE IT HURTS",
         "url": "https://open.spotify.com/album/2w4bxNOt8ZLIBaKH2oi6ij"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 165499,
       "name": "HIT EM WHERE IT HURTS",
       "url": "https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T"
+    },
+    {
+      "added_at": "2023-09-16 00:49:46",
+      "album": {
+        "name": "Thrill of the Arts",
+        "url": "https://open.spotify.com/album/0LyGgFrZFXpRKpgj664Xu7"
+      },
+      "artists": [
+        {
+          "name": "Vulfpeck",
+          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+        }
+      ],
+      "duration_ms": 181259,
+      "name": "Back Pocket",
+      "url": "https://open.spotify.com/track/1DrlLvlYd1FIjNavRm6NdX"
     },
     {
       "added_at": "2023-09-16 00:49:46",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-09-16 00:49:46",
       "album": {
-        "name": "Warm",
-        "url": "https://open.spotify.com/album/6VCVsHg0OzSEKRnFLtOQcg"
-      },
-      "artists": [
-        {
-          "name": "Dre'es",
-          "url": "https://open.spotify.com/artist/4pc5r183mYvIzGyFv2S0hO"
-        }
-      ],
-      "duration_ms": 255465,
-      "name": "Warm",
-      "url": "https://open.spotify.com/track/4rxD9Ar3OlsgGOnblWUKqr"
-    },
-    {
-      "added_at": "2023-09-16 00:49:46",
-      "album": {
         "name": "Sunburn",
         "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 124504,
       "name": "Bodies",
       "url": "https://open.spotify.com/track/59JXLBosh2OFLMCARkINnB"
+    },
+    {
+      "added_at": "2023-09-16 00:49:46",
+      "album": {
+        "name": "Warm",
+        "url": "https://open.spotify.com/album/6VCVsHg0OzSEKRnFLtOQcg"
+      },
+      "artists": [
+        {
+          "name": "Dre'es",
+          "url": "https://open.spotify.com/artist/4pc5r183mYvIzGyFv2S0hO"
+        }
+      ],
+      "duration_ms": 255465,
+      "name": "Warm",
+      "url": "https://open.spotify.com/track/4rxD9Ar3OlsgGOnblWUKqr"
     },
     {
       "added_at": "2023-09-16 00:49:46",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-09-16 00:49:46",
       "album": {
-        "name": "Thinking of You (Spotify Singles)",
-        "url": "https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 272125,
-      "name": "Thinking of You (Spotify Singles)",
-      "url": "https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5"
-    },
-    {
-      "added_at": "2023-09-16 00:49:46",
-      "album": {
         "name": "Sea Sick",
         "url": "https://open.spotify.com/album/1XQYd61d9bQA3ba5xUrhKB"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 130714,
       "name": "Sea Sick",
       "url": "https://open.spotify.com/track/3qiX7QXv6w6y4wsr5KP6U1"
+    },
+    {
+      "added_at": "2023-09-16 00:49:46",
+      "album": {
+        "name": "Thinking of You (Spotify Singles)",
+        "url": "https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r"
+      },
+      "artists": [
+        {
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
+        }
+      ],
+      "duration_ms": 272125,
+      "name": "Thinking of You (Spotify Singles)",
+      "url": "https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5"
     },
     {
       "added_at": "2023-09-16 00:49:46",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-09-16 00:49:46",
       "album": {
+        "name": "Prism",
+        "url": "https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n"
+      },
+      "artists": [
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "duration_ms": 232477,
+      "name": "Prism",
+      "url": "https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk"
+    },
+    {
+      "added_at": "2023-09-16 00:49:46",
+      "album": {
         "name": "Early",
         "url": "https://open.spotify.com/album/5Q7XISk90DAYHFghAvKYI9"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 193934,
       "name": "Early",
       "url": "https://open.spotify.com/track/6AcFiVsHvDtat3rmHNK2Nf"
-    },
-    {
-      "added_at": "2023-09-16 00:49:46",
-      "album": {
-        "name": "Prism",
-        "url": "https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n"
-      },
-      "artists": [
-        {
-          "name": "Say She She",
-          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
-        }
-      ],
-      "duration_ms": 232477,
-      "name": "Prism",
-      "url": "https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk"
     },
     {
       "added_at": "2023-09-16 00:49:46",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-09-16 00:49:46",
       "album": {
-        "name": "Napkins",
-        "url": "https://open.spotify.com/album/1JyG3QDEsxszuDQYsqrivA"
-      },
-      "artists": [
-        {
-          "name": "RIZ LA VIE",
-          "url": "https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k"
-        }
-      ],
-      "duration_ms": 215625,
-      "name": "Napkins",
-      "url": "https://open.spotify.com/track/0YvzawIC5nFFYj5YAvv5HP"
-    },
-    {
-      "added_at": "2023-09-16 00:49:46",
-      "album": {
         "name": "Cleaner Air",
         "url": "https://open.spotify.com/album/2JAbq9m4RsGqPFRIB7s7q5"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 128129,
       "name": "Cleaner Air",
       "url": "https://open.spotify.com/track/3Sgn4aKqN08OvNlE421SqP"
+    },
+    {
+      "added_at": "2023-09-16 00:49:46",
+      "album": {
+        "name": "Napkins",
+        "url": "https://open.spotify.com/album/1JyG3QDEsxszuDQYsqrivA"
+      },
+      "artists": [
+        {
+          "name": "RIZ LA VIE",
+          "url": "https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k"
+        }
+      ],
+      "duration_ms": 215625,
+      "name": "Napkins",
+      "url": "https://open.spotify.com/track/0YvzawIC5nFFYj5YAvv5HP"
     },
     {
       "added_at": "2023-09-16 00:49:46",

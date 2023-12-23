@@ -1,12 +1,12 @@
 {
   "description": "Honramos la memoria de las leyendas de nuestra M\u00fasica Mexicana. Valent\u00edn Elizalde en portada. ",
-  "num_followers": 265212,
+  "num_followers": 265476,
   "original_name": "Inmortales de la M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMGQyNThhZTU2YzdlYjVlNzRmMGI4ZjY0MjhjYzUxNTM1ZjJhNjBh",
+  "snapshot_id": "MCw3ZmI2Y2E4N2VjNWJkMTI3OTA5ODllZGUwYmNlODlhOWJlNWE4OTBi",
   "tracks": [
     {
       "added_at": "2023-11-28 00:20:32",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-11-28 00:20:32",
       "album": {
+        "name": "Amor Y L\u00e1grimas",
+        "url": "https://open.spotify.com/album/5AINE3154WldReklifyueS"
+      },
+      "artists": [
+        {
+          "name": "Adan Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy"
+        }
+      ],
+      "duration_ms": 196487,
+      "name": "Nadie Es Eterno",
+      "url": "https://open.spotify.com/track/4nmYEaw0oVz3QKxUlrmFkh"
+    },
+    {
+      "added_at": "2023-11-28 00:20:32",
+      "album": {
         "name": "Borracho de Primera",
         "url": "https://open.spotify.com/album/1cjt1zBdNmoD4qi3s2meCy"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 231862,
       "name": "Que Me Entierren Cantando",
       "url": "https://open.spotify.com/track/5GaIwab0GIWICCSVzldmUY"
-    },
-    {
-      "added_at": "2023-11-28 00:20:32",
-      "album": {
-        "name": "Amor Y L\u00e1grimas",
-        "url": "https://open.spotify.com/album/5AINE3154WldReklifyueS"
-      },
-      "artists": [
-        {
-          "name": "Adan Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy"
-        }
-      ],
-      "duration_ms": 196487,
-      "name": "Nadie Es Eterno",
-      "url": "https://open.spotify.com/track/4nmYEaw0oVz3QKxUlrmFkh"
     },
     {
       "added_at": "2023-11-28 00:20:32",
@@ -1207,18 +1207,22 @@
     {
       "added_at": "2023-11-28 00:20:32",
       "album": {
-        "name": "Conquistando Corazones",
-        "url": "https://open.spotify.com/album/2sVo3Q8BIKVwRtgplt6YYP"
+        "name": "M\u00e1s Capaces Que Nunca",
+        "url": "https://open.spotify.com/album/3nfwzm26fjNgYKHHUBcdAM"
       },
       "artists": [
         {
           "name": "K-Paz De La Sierra",
           "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
+        },
+        {
+          "name": "Jos\u00e9 Manuel Zamacona",
+          "url": "https://open.spotify.com/artist/7w0DKxrmoa3RVWuvRWm35N"
         }
       ],
-      "duration_ms": 301800,
-      "name": "Procuro Olvidarte",
-      "url": "https://open.spotify.com/track/2QV0hRYgDHvjPPMxIZQvTN"
+      "duration_ms": 191360,
+      "name": "Pero Te Vas A Arrepentir",
+      "url": "https://open.spotify.com/track/3xLurRYVT2h298sWgCQSGZ"
     },
     {
       "added_at": "2023-11-28 00:20:32",
@@ -1239,18 +1243,18 @@
     {
       "added_at": "2023-11-28 00:20:32",
       "album": {
-        "name": "Volar\u00e9",
-        "url": "https://open.spotify.com/album/0yP1BBqUrfPnRBai5d63Yf"
+        "name": "Te Vengo A Ver... Con Banda Sinaloense",
+        "url": "https://open.spotify.com/album/1Q509CJBSRfYQeJ9lqZ0P4"
       },
       "artists": [
         {
-          "name": "Julian Figueroa",
-          "url": "https://open.spotify.com/artist/7mZRUyicGFKAUjCxc1i51m"
+          "name": "Adan Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy"
         }
       ],
-      "duration_ms": 182276,
-      "name": "Un idiota",
-      "url": "https://open.spotify.com/track/35euE6BwKwWF3DeEoINvE9"
+      "duration_ms": 151324,
+      "name": "B\u00e9same Morenita",
+      "url": "https://open.spotify.com/track/5sUsur7KIwd3KQJzI1XqMi"
     }
   ],
   "unique_name": "Inmortales de la M\u00fasica Mexicana",

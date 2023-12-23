@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 
 > Leave no rock undiscovered and explore the essential foundations of Christian rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,886 likes - 87 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,952 likes - 87 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 | 43 | [I'm So Sick](https://open.spotify.com/track/3FP8A246XpuafFofRhDlWG) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Flyleaf](https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt) | 2:55 |
 | 44 | [Smash Hit](https://open.spotify.com/track/1BG7rc6jbEwVlcRTHF6xLZ) | [All Star United](https://open.spotify.com/artist/220W5pIj3LHNWFHqYE5Wxl) | [All Star United](https://open.spotify.com/album/7dcNgHh8gh9Y09BbpqpCvL) | 3:25 |
 | 45 | [I Am a Stone](https://open.spotify.com/track/4nhVsU2AMH8nXG1NXIkzO2) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [True Defiance \(Deluxe Edition\)](https://open.spotify.com/album/1c2cRD8ASzsUH81E3epXYQ) | 5:46 |
-| 46 | [Through It All](https://open.spotify.com/track/3nB5TJEl7taRMwlaoHiOry) | [Spoken](https://open.spotify.com/artist/0Jn8rIJ5ebXnyZh9s5bI4l) | [Illusion](https://open.spotify.com/album/2PDQgUQiITwFIdNz5QiL5w) | 3:36 |
+| 46 | [Through It All](https://open.spotify.com/track/1XBWuNsvYOoXH0MBC0TrJs) | [Spoken](https://open.spotify.com/artist/0Jn8rIJ5ebXnyZh9s5bI4l) | [Illusion](https://open.spotify.com/album/4ygdbM01KtuANNhM3yLtmV) | 3:36 |
 | 47 | [Southern Weather](https://open.spotify.com/track/1TmQeJsndr5Yk5H2670T8k) | [The Almost](https://open.spotify.com/artist/5X09SRt3qx77eh0XRreLjr) | [Southern Weather](https://open.spotify.com/album/5NtcxePyijMGPbFfmv5LgA) | 3:28 |
 | 48 | [Evil \(A Chorus Of Resistance\)](https://open.spotify.com/track/75Ub3ckaoTdzgH9Azeu8cY) | [Project 86](https://open.spotify.com/artist/7toVzxZQU21OjB5PqXNvTF) | [Rival Factions](https://open.spotify.com/album/1kerU19WZ2hDAWMXaOa3hT) | 3:03 |
 | 49 | [I Still Miss You](https://open.spotify.com/track/7HwU7vjrIpHxjtEBni82il) | [Hawk Nelson](https://open.spotify.com/artist/4hj6ZZxaiKvG5GU3PYf7Gh) | [Hawk Nelson Is My Friend](https://open.spotify.com/album/4mkeewYfiSf9Enc5w9J6g2) | 3:51 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCJsgK4Sw8Y.md) - [plain]
 | 86 | [Preacher's Kid](https://open.spotify.com/track/1MYeiUMvuupmhDqMqwM2tN) | [Johnny Q\. Public](https://open.spotify.com/artist/0TLrBAUaGIFgurLKPIPaCi) | [Extra Ordinary](https://open.spotify.com/album/3Ou72BgMUjJImE7s53V8iZ) | 3:59 |
 | 87 | [Rise](https://open.spotify.com/track/1W0YS64vF9qgMVLuN76aqg) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Rise \(Deluxe Edition\)](https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA) | 4:20 |
 
-Snapshot ID: `MCw1NzQ0MGVkNWNiMzg5MDc5ZDVjMGE1NWU3M2I0ZDllMzlmNGYxNWNh`
+Snapshot ID: `MCwzM2ZkMDI4YThlYThlZjU5NmFlZDNhZTBjM2JkMjg4ZWY4MjRhYjBl`

@@ -4,7 +4,7 @@
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
-179 songs - 10 hr 39 min
+180 songs - 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,8 @@
 | [The Quiet at Night](https://open.spotify.com/track/7vXNtGqGhGh1w8zdcxLZMG) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [At the Dam](https://open.spotify.com/album/2PLJneMiP3ADrN6hD9hfjL) | 4:12 | 2020-07-13 |  |
 | [They Fixed The Broken Windmill Today](https://open.spotify.com/track/6kVGpBhaHX3PQWaQ7tEpe4) | [Six Organs Of Admittance](https://open.spotify.com/artist/5jX8L7D6vWHYlNj9k361vI) | [For Octavio Paz](https://open.spotify.com/album/1KsF9degqPu3DEJTQLalNI) | 7:18 | 2020-07-13 |  |
 | [Those Days Are Now](https://open.spotify.com/track/1xsTx7R8SQS97hXIWNbbGa) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [Those Days Are Now](https://open.spotify.com/album/04GFpI8sIRhiYSggoAsnEe) | 5:43 | 2020-07-13 | 2022-11-13 |
-| [Those Days Are Now](https://open.spotify.com/track/4wTb3hb5WrqseQ35KxwIvp) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [To The Sun And All The Cities In Between](https://open.spotify.com/album/578SzhqxPoHnbSLkKvuWaG) | 5:43 | 2020-07-13 |  |
+| [Those Days Are Now](https://open.spotify.com/track/4wTb3hb5WrqseQ35KxwIvp) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [To The Sun And All The Cities In Between](https://open.spotify.com/album/578SzhqxPoHnbSLkKvuWaG) | 5:43 | 2020-07-13 | 2023-12-23 |
+| [Those Days Are Now](https://open.spotify.com/track/5lKVdpvXYLi6RGc9onZHPs) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [To The Sun And All The Cities In Between](https://open.spotify.com/album/46G7s9NfgOpyMUdiz8iZel) | 5:43 | 2023-01-20 |  |
 | [Those Days Are Now](https://open.spotify.com/track/7yByBhB0tiRnumK1dtFkmQ) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [Those Days Are Now](https://open.spotify.com/album/7eifhRr04rVdhTik5W6h1o) | 5:43 | 2020-07-13 | 2022-07-29 |
 | [To Hugo](https://open.spotify.com/track/2LG3bDoyaddX9WSDPzPu3V) | [Clogs](https://open.spotify.com/artist/12BDNYhvDp2RIeF9pabPzv) | [The Creatures In The Garden Of Lady Walton](https://open.spotify.com/album/5d6I8mYarX7AeOoN1RFumn) | 4:26 | 2020-07-13 |  |
 | [Toomsuba](https://open.spotify.com/track/5eMiGAYw53R3Eyyk8p4Bun) | [Matt Marble](https://open.spotify.com/artist/4EP2PjCQ2lE32tMKxzF1d0) | [Twilights](https://open.spotify.com/album/3GhBH26IHuJWx1cGr1jttS) | 4:39 | 2020-07-13 |  |

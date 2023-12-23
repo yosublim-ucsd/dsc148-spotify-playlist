@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 
 > Les meilleurs morceaux alternatifs du moment\. Photo : Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,644 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,657 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 | 49 | [Don't You Want To Sleep With Someone Normal?](https://open.spotify.com/track/0UwDwiamblRdcYyzfDJS4k) | [Love Fame Tragedy](https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q) | [Don't You Want To Sleep With Someone Normal?](https://open.spotify.com/album/3pZbBTlwXWw77Tj5Euwe3s) | 3:48 |
 | 50 | [$20](https://open.spotify.com/track/38xXr3MkiKNzNDv4JDJagF) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:20 |
 
-Snapshot ID: `MCwxNWRhNDAwYmI2OTU5ZmNkZWM5OTI1NDYyNzQwNzc0NDE3ZDk2Yjg2`
+Snapshot ID: `MCw1NzdlMmM0YzIyNWIwZTRiZmM0OGY3ZjkzNzU4ZjAxZjc5MmM1ZjVj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 
 > Un café, un croissant et c‘est parti pour une bonne journée.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,841 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,848 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X277P8nU0l.md) - [plain]
 | 49 | [Aged Eyes](https://open.spotify.com/track/0gQbyxRhcMI8SM4eMZpSZF) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Kaya Thomas\-Dyke](https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE) | [Variables](https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6) | 4:06 |
 | 50 | [Sun in June](https://open.spotify.com/track/5X33CqotQWpIYvC5XTTpGS) | [Hugo Santini](https://open.spotify.com/artist/7nDJpnTQgtM87yaive1aos) | [Sun in June](https://open.spotify.com/album/5a0Rd79ItpxfDC3eHTMtmO) | 3:56 |
 
-Snapshot ID: `MCw5OTk2ZGU0ZGVlZTFmZjc2MGEzNDg3NjkyYWEwNTM3NDBhYjIyYWJh`
+Snapshot ID: `MCxjNGRlZTE4MDNiZmViNWI0MDA4YmQyYzdlN2RiYWE3Y2Y0MmE4NjE0`

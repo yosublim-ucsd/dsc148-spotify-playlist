@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/taylorrooks/\">Taylor Rooks</a> ",
-  "num_followers": 267,
+  "num_followers": 270,
   "original_name": "Taylor Rook's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNmM3MTMxOWI3OWM1NzZhNmEzMmY5MTRmMDQ2MTRlMWQ4YTc2OTIw",
+  "snapshot_id": "MCxjZTNhNDc3ZTMxNDcxYzhkZmRlOGM0ZGJmZDIxZGZiY2ViNWQ1NmUw",
   "tracks": [
     {
       "added_at": "2023-08-01 18:49:51",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-08-01 18:49:51",
       "album": {
-        "name": "Speakerboxxx/The Love Below",
-        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 326240,
-      "name": "Prototype",
-      "url": "https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH"
-    },
-    {
-      "added_at": "2023-08-01 18:49:51",
-      "album": {
         "name": "I'm Your Baby Tonight",
         "url": "https://open.spotify.com/album/5LaUUDnUTySWnJLj1xiBnw"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 299426,
       "name": "I'm Your Baby Tonight",
       "url": "https://open.spotify.com/track/3SmPl0CGxvvkQCrTv7edEE"
+    },
+    {
+      "added_at": "2023-08-01 18:49:51",
+      "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 326240,
+      "name": "Prototype",
+      "url": "https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH"
     },
     {
       "added_at": "2023-08-01 18:49:51",

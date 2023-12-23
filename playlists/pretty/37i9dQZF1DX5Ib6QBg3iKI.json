@@ -1,12 +1,12 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 132229,
+  "num_followers": 132469,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWE3ZjFjMDc0YzJjNmQwOTFkZTBjNTYxMzA2YzBkMjg3YTMxYmRm",
+  "snapshot_id": "MCxiNDZkNjFhOTdhN2RmN2Q0YzJhMWIxMTcxNjlmMzlhNDI1ODUxZmZi",
   "tracks": [
     {
       "added_at": "2023-11-28 17:00:03",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/2EmP2o5bOPTUAGCEacdDxB"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 172266,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/3eNRpOVS82tR5p9KWxzoHF"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
         "name": "Spotify Singles - Christmas",
         "url": "https://open.spotify.com/album/7M98dHpMyIBx7jwE8MO2tM"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 227887,
       "name": "Oh Holy Night - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/0yS8P7DFNEBYQ5yHadM5z0"
+    },
+    {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/2EmP2o5bOPTUAGCEacdDxB"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 172266,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3eNRpOVS82tR5p9KWxzoHF"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "The Magic Of Boney M. (Special Remix Edition)",
-        "url": "https://open.spotify.com/album/6pk0hdvIssxawpMRznE4Zf"
-      },
-      "artists": [
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 242186,
-      "name": "Mary's Boy Child / Oh My Lord",
-      "url": "https://open.spotify.com/track/2YYcLUtmPR44ERAQA7DfwZ"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
         "name": "The Whisper",
         "url": "https://open.spotify.com/album/6XCCWmkQ2pSOnZucLKTN1L"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 251310,
       "name": "A Winter's Tale",
       "url": "https://open.spotify.com/track/2MZg8AD2iw6XR2BsIZqOvf"
+    },
+    {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
+        "name": "The Magic Of Boney M. (Special Remix Edition)",
+        "url": "https://open.spotify.com/album/6pk0hdvIssxawpMRznE4Zf"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 242186,
+      "name": "Mary's Boy Child / Oh My Lord",
+      "url": "https://open.spotify.com/track/2YYcLUtmPR44ERAQA7DfwZ"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "Make It Home",
-        "url": "https://open.spotify.com/album/3tUsy9oBx3XXxtNlv1p92g"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 179309,
-      "name": "Make It Home",
-      "url": "https://open.spotify.com/track/3xLDkntD4YvBcVwX6EK7SU"
-    },
-    {
-      "added_at": "2023-11-28 17:00:03",
-      "album": {
         "name": "Barry White - The Collection",
         "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
       },
@@ -1243,18 +1227,18 @@
     {
       "added_at": "2023-11-28 17:00:03",
       "album": {
-        "name": "At Christmas",
-        "url": "https://open.spotify.com/album/5bGzbLRYva85dIc4BLgYp1"
+        "name": "Make It Home",
+        "url": "https://open.spotify.com/album/3tUsy9oBx3XXxtNlv1p92g"
       },
       "artists": [
         {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
         }
       ],
-      "duration_ms": 142000,
-      "name": "At Christmas",
-      "url": "https://open.spotify.com/track/5GkvoGc6QBbPWc6VJEiJby"
+      "duration_ms": 179309,
+      "name": "Make It Home",
+      "url": "https://open.spotify.com/track/3xLDkntD4YvBcVwX6EK7SU"
     },
     {
       "added_at": "2023-11-28 17:00:03",
@@ -1291,6 +1275,22 @@
       "duration_ms": 176583,
       "name": "The Little Drummer Boy",
       "url": "https://open.spotify.com/track/3PS3si74boOaOC6zxf858B"
+    },
+    {
+      "added_at": "2023-11-28 17:00:03",
+      "album": {
+        "name": "At Christmas",
+        "url": "https://open.spotify.com/album/5bGzbLRYva85dIc4BLgYp1"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "At Christmas",
+      "url": "https://open.spotify.com/track/5GkvoGc6QBbPWc6VJEiJby"
     },
     {
       "added_at": "2023-11-28 17:00:03",

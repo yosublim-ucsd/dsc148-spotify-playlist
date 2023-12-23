@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana! Cover- Ramil Ganjoo",
+  "description": "Naye Indie gaano ka khazana! Cover- Bharat Chauhan",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -585,6 +585,28 @@
     },
     {
       "album": {
+        "name": "Antisocial",
+        "url": "https://open.spotify.com/album/3DPKOSsuC7NfKZ77GM9ojJ"
+      },
+      "artists": [
+        {
+          "name": "Raika Sethi",
+          "url": "https://open.spotify.com/artist/5HfvorkTs3620Rj3vHgYzm"
+        },
+        {
+          "name": "Ysoblue",
+          "url": "https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228518,
+      "name": "Antisocial",
+      "url": "https://open.spotify.com/track/0xOHm7wsHEUKHlTRoVqrxh"
+    },
+    {
+      "album": {
         "name": "Apni Jagah Sahi",
         "url": "https://open.spotify.com/album/3vNwWeHm8XVRwJAsk0n8Qp"
       },
@@ -608,6 +630,28 @@
       "duration_ms": 296129,
       "name": "Apni Jagah Sahi",
       "url": "https://open.spotify.com/track/4945eRkcCkeshCLvM6w2SF"
+    },
+    {
+      "album": {
+        "name": "Arz e Dil",
+        "url": "https://open.spotify.com/album/3CSAcvKVgNVR3rneunfvt9"
+      },
+      "artists": [
+        {
+          "name": "Nikhil Iyer",
+          "url": "https://open.spotify.com/artist/0CqiR40fzUCsCK5Llk6Bek"
+        },
+        {
+          "name": "Nirmal Roy",
+          "url": "https://open.spotify.com/artist/29Nyne5MB3F1sTTPq0TQEs"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215357,
+      "name": "Arz e Dil",
+      "url": "https://open.spotify.com/track/5xm5sFLCrI7uNgk7nHYLpo"
     },
     {
       "album": {
@@ -1431,6 +1475,24 @@
     },
     {
       "album": {
+        "name": "Chann Chadheya",
+        "url": "https://open.spotify.com/album/6DGAnwqilrzHjOYMBAmeV6"
+      },
+      "artists": [
+        {
+          "name": "Bharat Chauhan",
+          "url": "https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248028,
+      "name": "Chann Chadheya",
+      "url": "https://open.spotify.com/track/17iwEqwg2o88YGjstKpEsZ"
+    },
+    {
+      "album": {
         "name": "Chhan Chhan",
         "url": "https://open.spotify.com/album/1lqPQEGuycEMyR6JAiJj9j"
       },
@@ -1789,6 +1851,50 @@
     },
     {
       "album": {
+        "name": "Din Shagna Da",
+        "url": "https://open.spotify.com/album/59PSKFuNcHWO0eM9FsaAiR"
+      },
+      "artists": [
+        {
+          "name": "Aanchal Shrivastava",
+          "url": "https://open.spotify.com/artist/5jQ7dwP6Bg20NgOKozwTI4"
+        },
+        {
+          "name": "Ishaan Mehta",
+          "url": "https://open.spotify.com/artist/1ky6jKPIdOBuomhycGQlll"
+        },
+        {
+          "name": "Mikey McCleary",
+          "url": "https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143513,
+      "name": "Din Shagna Da",
+      "url": "https://open.spotify.com/track/3LkE4V0lTJuE4MyrXyBEGd"
+    },
+    {
+      "album": {
+        "name": "Do Naino Ko",
+        "url": "https://open.spotify.com/album/3HCyAGNkoYlkkwWaKhL5lQ"
+      },
+      "artists": [
+        {
+          "name": "Rishabh Srivastava",
+          "url": "https://open.spotify.com/artist/4heuryKQnH5KRfVWO6Rmjl"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194357,
+      "name": "Do Naino Ko",
+      "url": "https://open.spotify.com/track/17nrtM4DlBB7W6On2CqfmG"
+    },
+    {
+      "album": {
         "name": "Dokhi Na",
         "url": "https://open.spotify.com/album/3H3uwQikqS1WpHLCK93Nfh"
       },
@@ -1946,7 +2052,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 186666,
       "name": "filhaal",
       "url": "https://open.spotify.com/track/6SO0WhGWE7L37gKJ8QjGlu"
@@ -2516,7 +2622,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 97812,
       "name": "I'm Lost",
       "url": "https://open.spotify.com/track/5WfRAy9N9zpqNABjETWsan"
@@ -3496,7 +3602,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 201600,
       "name": "Khoye Khoye",
       "url": "https://open.spotify.com/track/5nis215pErwY2YRorT35GP"
@@ -3618,6 +3724,32 @@
       "duration_ms": 216461,
       "name": "Khwabon Ke Rang",
       "url": "https://open.spotify.com/track/56QZnxULNrDzV7ueQLqlXo"
+    },
+    {
+      "album": {
+        "name": "Khwahishein",
+        "url": "https://open.spotify.com/album/0JZfxj8tTad2kTIZBXJNCo"
+      },
+      "artists": [
+        {
+          "name": "Apurva Krishna",
+          "url": "https://open.spotify.com/artist/4Mv4apQaWzG4FtYA5XsJch"
+        },
+        {
+          "name": "Abhay Jodhpurkar",
+          "url": "https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5"
+        },
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235468,
+      "name": "Khwahishein",
+      "url": "https://open.spotify.com/track/3WLhFiD3ZsAyDc4RA5umM4"
     },
     {
       "album": {
@@ -3785,6 +3917,24 @@
     },
     {
       "album": {
+        "name": "Kumaon",
+        "url": "https://open.spotify.com/album/1VyI7DKfHWSY4bCB90uQKT"
+      },
+      "artists": [
+        {
+          "name": "Donn Bhat",
+          "url": "https://open.spotify.com/artist/2ckYmy0ueLXjmwWcPs1spQ"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269277,
+      "name": "Kumaon",
+      "url": "https://open.spotify.com/track/6wFmKYJlziyhyucXGDaSLZ"
+    },
+    {
+      "album": {
         "name": "KUTTA",
         "url": "https://open.spotify.com/album/35U0ru5c9beukhiwl1A60u"
       },
@@ -3796,7 +3946,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 139691,
       "name": "KUTTA",
       "url": "https://open.spotify.com/track/1cbbhTuXBFE9ijwiePyyOY"
@@ -5336,7 +5486,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 231785,
       "name": "Roshni",
       "url": "https://open.spotify.com/track/3qudEWwDUMCZ9HKXrnSFEm"
@@ -5478,7 +5628,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 169062,
       "name": "Saawariye",
       "url": "https://open.spotify.com/track/1JwqmEex2rrgDjw7UZH7Ak"
@@ -5886,7 +6036,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 194500,
       "name": "Seal It",
       "url": "https://open.spotify.com/track/4Q14llDwwElya0E6KLrN78"
@@ -6050,6 +6200,28 @@
       "duration_ms": 176000,
       "name": "stop calling me",
       "url": "https://open.spotify.com/track/60JNWtnKoOLB2V2ceyXf5e"
+    },
+    {
+      "album": {
+        "name": "Suljhi Si Zindagi",
+        "url": "https://open.spotify.com/album/5ITehEOWyRmfU2HhmluwAF"
+      },
+      "artists": [
+        {
+          "name": "Vasuda Sharma",
+          "url": "https://open.spotify.com/artist/2ED6kjY3EyIRkxM2HAbrCL"
+        },
+        {
+          "name": "Akanksha Sethi",
+          "url": "https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Suljhi Si Zindagi",
+      "url": "https://open.spotify.com/track/19z1RfL6uKQwrieVnKWJcM"
     },
     {
       "album": {
@@ -6370,6 +6542,10 @@
         {
           "name": "Kaushal Hastwala",
           "url": "https://open.spotify.com/artist/1ATh9xw9uzlNkjgLVNMXKW"
+        },
+        {
+          "name": "Niharika",
+          "url": "https://open.spotify.com/artist/3cjLqukS0xbyt43QiaFbop"
         }
       ],
       "date_added": "2023-12-15",
@@ -6842,7 +7018,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 136470,
       "name": "Tu Kahe Toh (feat. Nolan Santo)",
       "url": "https://open.spotify.com/track/0eCVQoYH5nTFgmmjQqsJmG"

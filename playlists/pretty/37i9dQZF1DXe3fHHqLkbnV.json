@@ -1,12 +1,12 @@
 {
   "description": "The best easy rock from the 1990s. Cover: Bryan Adams.",
-  "num_followers": 328995,
+  "num_followers": 329239,
   "original_name": "90s Easy Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTFhOTI1MmU0ZmZjMDMwOWJkOGJkOTJkMGVjOGFjNTI2ODk3YWQ2",
+  "snapshot_id": "MCxmYzAyZDEyNjBjMzYxMDM5Yzk4NzkwMDg0Y2RlNzFmMTYyYjc4MWRk",
   "tracks": [
     {
       "added_at": "2023-01-18 22:23:18",
@@ -863,18 +863,18 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "Stay (I Missed You)",
-        "url": "https://open.spotify.com/album/0candONErDvN9wWFhOWXrS"
+        "name": "The Man Who",
+        "url": "https://open.spotify.com/album/1cUp1HbKtGF7CiSl962vH5"
       },
       "artists": [
         {
-          "name": "Lisa Loeb",
-          "url": "https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2"
+          "name": "Travis",
+          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
         }
       ],
-      "duration_ms": 184333,
-      "name": "Stay (I Missed You)",
-      "url": "https://open.spotify.com/track/00U1MDChdOTxWwtKoOoBXE"
+      "duration_ms": 265000,
+      "name": "Why Does It Always Rain On Me?",
+      "url": "https://open.spotify.com/track/5MmWgG5KgiqSxkOZdVXRQA"
     },
     {
       "added_at": "2023-01-18 22:23:18",
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "The Man Who",
-        "url": "https://open.spotify.com/album/1cUp1HbKtGF7CiSl962vH5"
+        "name": "Stay (I Missed You)",
+        "url": "https://open.spotify.com/album/0candONErDvN9wWFhOWXrS"
       },
       "artists": [
         {
-          "name": "Travis",
-          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+          "name": "Lisa Loeb",
+          "url": "https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2"
         }
       ],
-      "duration_ms": 265000,
-      "name": "Why Does It Always Rain On Me?",
-      "url": "https://open.spotify.com/track/5MmWgG5KgiqSxkOZdVXRQA"
+      "duration_ms": 184333,
+      "name": "Stay (I Missed You)",
+      "url": "https://open.spotify.com/track/00U1MDChdOTxWwtKoOoBXE"
     },
     {
       "added_at": "2023-01-18 22:23:18",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 196106,
-      "name": "I Still Do",
-      "url": "https://open.spotify.com/track/7EJvwHjf9NKCmYBBGOuwQS"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
         "name": "Blaze Of Glory",
         "url": "https://open.spotify.com/album/5QsPmoN7UK8tL5NRtSuC2Y"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 319426,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/6FJ9Xp3fCxSTAdcRVaDQdl"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 196106,
+      "name": "I Still Do",
+      "url": "https://open.spotify.com/track/7EJvwHjf9NKCmYBBGOuwQS"
     },
     {
       "added_at": "2023-01-18 22:23:18",

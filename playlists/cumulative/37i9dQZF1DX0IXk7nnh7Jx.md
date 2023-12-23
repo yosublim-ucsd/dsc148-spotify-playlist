@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:2PCl4hx9Qds8sjcnoWUdqp">Sondae</a>
 
-476 songs - 1 day 4 hr 19 min
+477 songs - 1 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,7 +356,7 @@
 | [Seabird](https://open.spotify.com/track/3R11mM7L0MDY7xVHUp5TUX) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Seabird](https://open.spotify.com/album/7oG2VgFoXxqkrelrDhKlOU) | 3:02 | 2023-02-24 | 2023-04-22 |
 | [Self Righteous](https://open.spotify.com/track/2Ajaiy5blpMAe3jjMhBfYB) | [Darla Baltazar](https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1) | [Self Righteous](https://open.spotify.com/album/0scnkRQmi8ACXacs8nNJvj) | 3:28 | 2023-02-24 | 2023-03-11 |
 | [Serenity](https://open.spotify.com/track/2Ly7OiDe6Xc6ET3Mw987mx) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A), [Jacques Miché](https://open.spotify.com/artist/523pL6R2wieVWZMBIrgY7Y) | [Serenity](https://open.spotify.com/album/5aQbjjlXcxmMDB4NAaQLms) | 3:14 | 2023-11-03 |  |
-| [Shadow of Your Wings](https://open.spotify.com/track/7y8LVSztDWNpT8TPImzy3A) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Alex Taylor](https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi) | [Shadow of Your Wings](https://open.spotify.com/album/2Vf1XlTguvYdL63PgLSo5y) | 2:37 | 2023-04-21 |  |
+| [Shadow of Your Wings](https://open.spotify.com/track/7y8LVSztDWNpT8TPImzy3A) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Alex Taylor](https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi) | [Shadow of Your Wings](https://open.spotify.com/album/2Vf1XlTguvYdL63PgLSo5y) | 2:37 | 2023-04-21 | 2023-12-23 |
 | [shine now](https://open.spotify.com/track/48DIlVS9amxr16u95y2CZd) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [shine now](https://open.spotify.com/album/4t5cWxseHAKq9Cf5sPEZ6x) | 2:50 | 2023-02-19 | 2023-04-14 |
 | [Sink or Swim \(SOS\)](https://open.spotify.com/track/1f4K10FqCKoFSHGgwIgpSm) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Sink or Swim \(SOS\)](https://open.spotify.com/album/7ssWTs1tMSf6izEN5aMibb) | 4:00 | 2023-11-03 |  |
 | [SLEEPIN!](https://open.spotify.com/track/7IeEeLdTBfXfRE6Er9ZZhz) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [SLEEPIN!](https://open.spotify.com/album/3FUhQgqZui42V0Sek6nb2P) | 2:40 | 2023-02-19 | 2023-08-05 |
@@ -436,6 +436,7 @@
 | [Twenty\-Four \(Tyler Joseph from Twenty One Pilots Version\)](https://open.spotify.com/track/3KhUUinfojt0DbzvXwfxW8) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Beautiful Letdown \(Our Version\) \[Deluxe Edition\]](https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT) | 4:42 | 2023-11-03 |  |
 | [Ultimate Self](https://open.spotify.com/track/2DhdPfwL8RBRFekTrXM1Rj) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Ultimate Self](https://open.spotify.com/album/7GNJ7E8VAFTktjPHM5xFbd) | 3:45 | 2023-02-19 | 2023-08-05 |
 | [Un Dia](https://open.spotify.com/track/3B9d4ZOgxxDIqKgjY7UbAg) | [Claudia Isaki](https://open.spotify.com/artist/5Q8asiEUYLobc6DvKIsqOP) | [More Flowers](https://open.spotify.com/album/7ssjsADiKQFYwDU8QgqTuL) | 3:15 | 2023-12-01 |  |
+| [Unsaid](https://open.spotify.com/track/42T3HLtIgg4sFPRLJ3VRpc) | [Daniel Lindahl](https://open.spotify.com/artist/4VM4DhagriSqYtQdq0UITV) | [Unsaid](https://open.spotify.com/album/1x274hlnSCOzObieP38cnA) | 3:41 | 2023-12-15 |  |
 | [Valuable](https://open.spotify.com/track/1u5XKMWtmxG297TuKOAARj) | [OnBeatMusic](https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj), [Zach Paradis](https://open.spotify.com/artist/1W2W85bJ8lG3g409Lm6goy) | [Valuable](https://open.spotify.com/album/7cbZJmbtvmYM6xaphUhsq9) | 2:59 | 2023-12-01 |  |
 | [Vices](https://open.spotify.com/track/4BO3yKlrLoGJP7O6dDAxPC) | [ISLY](https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW) | [Vices](https://open.spotify.com/album/0PrUUOQuS8P3Nk7d9MUlFL) | 3:03 | 2023-04-21 |  |
 | [WAIT ON HIM](https://open.spotify.com/track/5UZoXgEHViOuSu4tBIbuyf) | [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi), [JKO](https://open.spotify.com/artist/3XOHfOgFSMuvOxOfzNOuIQ) | [WAIT ON HIM](https://open.spotify.com/album/0Ppl2UlOrRYlbC1Q0eaDzY) | 1:48 | 2023-04-07 | 2023-08-05 |

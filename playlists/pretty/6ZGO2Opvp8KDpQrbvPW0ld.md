@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 72,988 likes - 300 songs - 10 hr 45 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 72,992 likes - 300 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 28 | [Sidewalk Rhythm](https://open.spotify.com/track/4G1ztP3aArsCqLTahrCQqW) | [Second Harbor](https://open.spotify.com/artist/4MjEXq0X0k1Sn1JZNaz3yM), [Beyond Moments](https://open.spotify.com/artist/2Kdx7FakZqck2kep2MyTW4), [yani](https://open.spotify.com/artist/6TdK92VfuJbFh7aNmGv6li) | [Sidewalk Rhythm](https://open.spotify.com/album/2i4RbMpF0LuJyjGoPkO87Q) | 2:13 |
 | 29 | [Pet Shop](https://open.spotify.com/track/6uzqaDOAqo1EwbXiOUEY27) | [Leave](https://open.spotify.com/artist/4bzPVOTRYr7xSjWfcXI7oU), [Bezzix](https://open.spotify.com/artist/7wHZfDkun9PmNEJuh9wh69) | [Pet Shop](https://open.spotify.com/album/0yuRyNo7UR4E7G81n9W5A9) | 2:51 |
 | 30 | [Leofi](https://open.spotify.com/track/6w2pejsyoF1drSQvakCtLv) | [wielandwieland](https://open.spotify.com/artist/5Lz8NfVK4TCVMmRTfaak6n) | [New Beginnings EP](https://open.spotify.com/album/0No7HujtkfaGk1Ps7mAxFv) | 1:26 |
-| 31 | [Charm Shades](https://open.spotify.com/track/5WISdIkbxEtCjVvxfIVIYp) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Charm Shades](https://open.spotify.com/album/46PY6dYntpc5wRHdSZXJAu) | 1:55 |
+| 31 | [Charm Shades](https://open.spotify.com/track/5WISdIkbxEtCjVvxfIVIYp) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [Charm Shades](https://open.spotify.com/album/46PY6dYntpc5wRHdSZXJAu) | 1:55 |
 | 32 | [Descending to Dusk](https://open.spotify.com/track/1AjYQUsRJdDKDlhDQlawPx) | [InternalEye](https://open.spotify.com/artist/2i1Sm6KCGynVL4RRFo1fr7), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S) | [Descending to Dusk](https://open.spotify.com/album/4Exn7hXcX4q7sTJWi7Qlo5) | 1:48 |
 | 33 | [glasshouse](https://open.spotify.com/track/5eWL6UGwZiCCM7YIOK6tr8) | [Jooha.](https://open.spotify.com/artist/5IPuOAyV2XFgkaAKQZ2aIi) | [glasshouse](https://open.spotify.com/album/7bjDHkWhDLbnFRdELp6EAl) | 1:49 |
 | 34 | [Buenos Aires´s LoFi](https://open.spotify.com/track/4Et8FR2nvjZoJbwlpK9V3n) | [m.sorlii](https://open.spotify.com/artist/5yZq1pWTwP9YNCbuCBfROH), [oTTonello](https://open.spotify.com/artist/0epiOPckA3cvEJEN0zHAjT) | [Buenos Aires´s LoFi](https://open.spotify.com/album/6afHIKGHj1xQ7cE1YMaj3S) | 2:29 |

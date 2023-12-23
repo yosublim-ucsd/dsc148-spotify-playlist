@@ -1,12 +1,12 @@
 {
   "description": "Las voces que inmortalizaron las canciones del Divo de Ju\u00e1rez.",
-  "num_followers": 322505,
+  "num_followers": 322555,
   "original_name": "Cancionero Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjdhZGM2MWUyNzA3YjI0Mzk2NTI2ZTMxZjY4OWJjNzcxZDRiYTUy",
+  "snapshot_id": "MCwzZGY0YjMwMGY4OTI5YmZhYzVmNWJjZWMwMDNjNjg3OWQwMGM0MTA2",
   "tracks": [
     {
       "added_at": "2023-05-05 18:26:22",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/76qUJi62hTd5bRFzBWLoXb"
-      },
-      "artists": [
-        {
-          "name": "Isabel Pantoja",
-          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
-        }
-      ],
-      "duration_ms": 324573,
-      "name": "Asi Fue",
-      "url": "https://open.spotify.com/track/2BZVPfPIA8y3ffJX5zSrpX"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "Cristian Castro En Primera Fila - D\u00eda 1",
         "url": "https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 239733,
       "name": "Ma\u00f1ana, Ma\u00f1ana - Primera Fila - Live Version",
       "url": "https://open.spotify.com/track/72SShJccmTCXDqPf6J8h38"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/76qUJi62hTd5bRFzBWLoXb"
+      },
+      "artists": [
+        {
+          "name": "Isabel Pantoja",
+          "url": "https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo"
+        }
+      ],
+      "duration_ms": 324573,
+      "name": "Asi Fue",
+      "url": "https://open.spotify.com/track/2BZVPfPIA8y3ffJX5zSrpX"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -551,18 +551,18 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "M\u00e9xico de Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
+        "name": "La Voz de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
       },
       "artists": [
         {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 273453,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/4SWye3OAVUSJysWgPF89e6"
+      "duration_ms": 205346,
+      "name": "La Muerte del Palomo",
+      "url": "https://open.spotify.com/track/2DS9ddKznwPNgG5Dt4w2ph"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -599,18 +599,18 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "La Voz de un \u00c1ngel",
-        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
+        "name": "M\u00e9xico de Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
         }
       ],
-      "duration_ms": 205346,
-      "name": "La Muerte del Palomo",
-      "url": "https://open.spotify.com/track/2DS9ddKznwPNgG5Dt4w2ph"
+      "duration_ms": 273453,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/4SWye3OAVUSJysWgPF89e6"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -839,6 +839,42 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
+        "name": "PRIMERO SOY MEXICANA",
+        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 170820,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/7c6L2XlUPwcmMlijRNu9Sd"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
+        "url": "https://open.spotify.com/album/6HyjP6pRKQtfkeqHkuZD3T"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 210042,
+      "name": "Fue un Placer Conocerte",
+      "url": "https://open.spotify.com/track/1tR9gMkQ507oO0XTcMweQj"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
         "name": "Lucia Mendez Canta Un Homenaje A Juan Gabriel",
         "url": "https://open.spotify.com/album/0kumbFfu0fr0061adl4kFR"
       },
@@ -867,6 +903,22 @@
       "duration_ms": 280080,
       "name": "Noa Noa",
       "url": "https://open.spotify.com/track/74b6K0AZr4tNKeA3gab9UU"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Amar y Querer (Homenaje a Las Grandes Canciones)",
+        "url": "https://open.spotify.com/album/2hlIOXhymk3805KqMr9XRU"
+      },
+      "artists": [
+        {
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+        }
+      ],
+      "duration_ms": 261773,
+      "name": "Querida",
+      "url": "https://open.spotify.com/track/5hNCyCiSHwL00SRxTJp2dB"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -903,18 +955,18 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Amar y Querer (Homenaje a Las Grandes Canciones)",
-        "url": "https://open.spotify.com/album/2hlIOXhymk3805KqMr9XRU"
+        "name": "Mi Tributo a Juan Gabriel",
+        "url": "https://open.spotify.com/album/1ZM8dXmYIl3fQ97HDzf9C1"
       },
       "artists": [
         {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
         }
       ],
-      "duration_ms": 261773,
-      "name": "Querida",
-      "url": "https://open.spotify.com/track/5hNCyCiSHwL00SRxTJp2dB"
+      "duration_ms": 431533,
+      "name": "Medley: Caray / Esta Noche Voy a Verla / Juntos",
+      "url": "https://open.spotify.com/track/0lyyfkIsFODWphGaSs2DFQ"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -931,22 +983,6 @@
       "duration_ms": 303001,
       "name": "As\u00ed fue",
       "url": "https://open.spotify.com/track/4wnx2R7rH4xNDcgiYfl0Qe"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "Mi Tributo a Juan Gabriel",
-        "url": "https://open.spotify.com/album/1ZM8dXmYIl3fQ97HDzf9C1"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 431533,
-      "name": "Medley: Caray / Esta Noche Voy a Verla / Juntos",
-      "url": "https://open.spotify.com/track/0lyyfkIsFODWphGaSs2DFQ"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1015,6 +1051,22 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
+        "name": "Mi Tributo a Juan Gabriel",
+        "url": "https://open.spotify.com/album/1ZM8dXmYIl3fQ97HDzf9C1"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 284306,
+      "name": "Con Tu Amor",
+      "url": "https://open.spotify.com/track/0t1JM3dU361khOLMA0URZB"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
         "name": "Amor Eterno",
         "url": "https://open.spotify.com/album/7Gbb0qmwkbJ58QDL08KVG3"
       },
@@ -1047,18 +1099,18 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Mi Tributo a Juan Gabriel",
-        "url": "https://open.spotify.com/album/1ZM8dXmYIl3fQ97HDzf9C1"
+        "name": "La Vargas Ritual Chavela",
+        "url": "https://open.spotify.com/album/3AY4O7UYTMFKDwKc1WiQqw"
       },
       "artists": [
         {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
         }
       ],
-      "duration_ms": 284306,
-      "name": "Con Tu Amor",
-      "url": "https://open.spotify.com/track/0t1JM3dU361khOLMA0URZB"
+      "duration_ms": 188567,
+      "name": "Se Me Olvid\u00f3 Otra Vez",
+      "url": "https://open.spotify.com/track/7KSfpTSRVBkoCZDJ0Rwtym"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1079,22 +1131,6 @@
       "duration_ms": 360823,
       "name": "Amor eterno",
       "url": "https://open.spotify.com/track/2IWOOtvbLProMGmNfqujX4"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "La Vargas Ritual Chavela",
-        "url": "https://open.spotify.com/album/3AY4O7UYTMFKDwKc1WiQqw"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 188567,
-      "name": "Se Me Olvid\u00f3 Otra Vez",
-      "url": "https://open.spotify.com/track/7KSfpTSRVBkoCZDJ0Rwtym"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1131,22 +1167,6 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "PRIMERO SOY MEXICANA",
-        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 170820,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/7c6L2XlUPwcmMlijRNu9Sd"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
         "name": "Me Gustas Mucho",
         "url": "https://open.spotify.com/album/6xaWBpwLosRZ89dL5JXJeM"
       },
@@ -1179,6 +1199,22 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
+        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
+        "url": "https://open.spotify.com/album/6HyjP6pRKQtfkeqHkuZD3T"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 284665,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/4DApBy8qaceW065vWHkh2k"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/5WunOHdzIYAbG6uu6sFlWL"
       },
@@ -1207,26 +1243,6 @@
       "duration_ms": 179000,
       "name": "Se Me Olvid\u00f3 Otra Vez",
       "url": "https://open.spotify.com/track/3OlThkWM0wZzhnQYIh56p6"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
-        "url": "https://open.spotify.com/album/6HyjP6pRKQtfkeqHkuZD3T"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 210042,
-      "name": "Fue un Placer Conocerte",
-      "url": "https://open.spotify.com/track/1tR9gMkQ507oO0XTcMweQj"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1279,6 +1295,22 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
+        "name": "Juan Gabriel - 40 Aniversario",
+        "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
+      },
+      "artists": [
+        {
+          "name": "Kalimba",
+          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+        }
+      ],
+      "duration_ms": 300853,
+      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/5t3iFz8WwEKxTxcmzE2ac2"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
         "name": "De\u0301jame Vivir",
         "url": "https://open.spotify.com/album/7lhfkD3X3txQQdrLPAs5lh"
       },
@@ -1299,18 +1331,38 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "Juan Gabriel - 40 Aniversario",
-        "url": "https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah"
+        "name": "MTV Unplugged (En Vivo)",
+        "url": "https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON"
       },
       "artists": [
         {
-          "name": "Kalimba",
-          "url": "https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv"
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
         }
       ],
-      "duration_ms": 300853,
-      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
-      "url": "https://open.spotify.com/track/5t3iFz8WwEKxTxcmzE2ac2"
+      "duration_ms": 294760,
+      "name": "Siempre en Mi Mente (En Vivo)",
+      "url": "https://open.spotify.com/track/1nu8Er6v4gGAqtGRYguxnk"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "PRIMERO SOY MEXICANA",
+        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 144343,
+      "name": "Ya No Me Interesas",
+      "url": "https://open.spotify.com/track/4XlercokC5c2nq3O7fR2Kk"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1423,54 +1475,18 @@
     {
       "added_at": "2023-05-05 18:26:22",
       "album": {
-        "name": "PRIMERO SOY MEXICANA",
-        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 144343,
-      "name": "Ya No Me Interesas",
-      "url": "https://open.spotify.com/track/4XlercokC5c2nq3O7fR2Kk"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "Canciones Que Recuerdo",
-        "url": "https://open.spotify.com/album/5HJmUCkhjfXNDVyvaZigSj"
-      },
-      "artists": [
-        {
-          "name": "Frankie J",
-          "url": "https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf"
-        }
-      ],
-      "duration_ms": 311216,
-      "name": "Amor Eterno",
-      "url": "https://open.spotify.com/track/0URvtXxnBiJKzgl0pOauhy"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "MTV Unplugged (En Vivo)",
-        "url": "https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON"
+        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
+        "url": "https://open.spotify.com/album/6HyjP6pRKQtfkeqHkuZD3T"
       },
       "artists": [
         {
           "name": "Pepe Aguilar",
           "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
         }
       ],
-      "duration_ms": 294760,
-      "name": "Siempre en Mi Mente (En Vivo)",
-      "url": "https://open.spotify.com/track/1nu8Er6v4gGAqtGRYguxnk"
+      "duration_ms": 154739,
+      "name": "No Vale la Pena",
+      "url": "https://open.spotify.com/track/7agHrgJy572LT9Dxv7V6VT"
     },
     {
       "added_at": "2023-05-05 18:26:22",
@@ -1530,6 +1546,22 @@
         {
           "name": "Frankie J",
           "url": "https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf"
+        }
+      ],
+      "duration_ms": 311216,
+      "name": "Amor Eterno",
+      "url": "https://open.spotify.com/track/0URvtXxnBiJKzgl0pOauhy"
+    },
+    {
+      "added_at": "2023-05-05 18:26:22",
+      "album": {
+        "name": "Canciones Que Recuerdo",
+        "url": "https://open.spotify.com/album/5HJmUCkhjfXNDVyvaZigSj"
+      },
+      "artists": [
+        {
+          "name": "Frankie J",
+          "url": "https://open.spotify.com/artist/3sMYEBy0CZFxedcnm9i9hf"
         },
         {
           "name": "Emily Bautista",
@@ -1539,38 +1571,6 @@
       "duration_ms": 179013,
       "name": "Fue un Placer Conocerte",
       "url": "https://open.spotify.com/track/5kKGFC0lpNscOOapSwM8DB"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
-        "url": "https://open.spotify.com/album/6HyjP6pRKQtfkeqHkuZD3T"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 284665,
-      "name": "Costumbres",
-      "url": "https://open.spotify.com/track/4DApBy8qaceW065vWHkh2k"
-    },
-    {
-      "added_at": "2023-05-05 18:26:22",
-      "album": {
-        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
-        "url": "https://open.spotify.com/album/6HyjP6pRKQtfkeqHkuZD3T"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 154739,
-      "name": "No Vale la Pena",
-      "url": "https://open.spotify.com/track/7agHrgJy572LT9Dxv7V6VT"
     },
     {
       "added_at": "2023-05-05 18:26:22",

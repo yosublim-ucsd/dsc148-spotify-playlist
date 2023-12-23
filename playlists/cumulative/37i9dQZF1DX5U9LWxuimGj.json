@@ -2430,10 +2430,28 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 214304,
       "name": "Tennessee Whiskey - Spanglish",
       "url": "https://open.spotify.com/track/4U33IIV3vNMxPQqiDt375f"
+    },
+    {
+      "album": {
+        "name": "Seven Roses Vol. 1",
+        "url": "https://open.spotify.com/album/2vWWEIgN5eRHdIvBceUm0Q"
+      },
+      "artists": [
+        {
+          "name": "Sammy Arriaga",
+          "url": "https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214304,
+      "name": "Tennessee Whiskey - Spanish",
+      "url": "https://open.spotify.com/track/0VLylIKKjRZLM1fJ3BkhD6"
     },
     {
       "album": {

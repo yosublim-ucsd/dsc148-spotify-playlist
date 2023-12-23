@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs in Latin America in 2004. Cover: Juanes",
-  "num_followers": 33707,
+  "num_followers": 33731,
   "original_name": "Latin Hits 2004",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGMzODAyM2Q3MjRmMjBhNmNjMmEwNTZkNmQ2Y2RlZWU1MDkwN2Zi",
+  "snapshot_id": "MCxhYTZkYWQ5NmMyZDk5Y2UyOGJiMjYwNTlkYzA3Y2EyMWIzYzQwNGE0",
   "tracks": [
     {
       "added_at": "2021-12-22 23:41:59",
@@ -839,18 +839,22 @@
     {
       "added_at": "2021-12-22 23:41:59",
       "album": {
-        "name": "Agarre De Fieras",
-        "url": "https://open.spotify.com/album/5AzHdlw7PCUkiN7mlZ1661"
+        "name": "Los Bacatranes",
+        "url": "https://open.spotify.com/album/3Jk5Cjra0Q7wO2OtS27Hfg"
       },
       "artists": [
         {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+          "name": "Trebol Clan",
+          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
+        },
+        {
+          "name": "Joan",
+          "url": "https://open.spotify.com/artist/3qwPsUOXt2No13DRpS31L8"
         }
       ],
-      "duration_ms": 275893,
-      "name": "Lo Busqu\u00e9",
-      "url": "https://open.spotify.com/track/5gEqsAFXdbOyyT1tCbtR65"
+      "duration_ms": 208106,
+      "name": "Gata Fiera (feat. Joan)",
+      "url": "https://open.spotify.com/track/0xejnOURTSwXE4wuYshsxY"
     }
   ],
   "unique_name": "Latin Hits 2004",

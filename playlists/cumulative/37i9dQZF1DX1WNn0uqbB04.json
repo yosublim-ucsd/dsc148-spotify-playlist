@@ -1022,10 +1022,28 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 274339,
       "name": "Purgamorio",
       "url": "https://open.spotify.com/track/137izbynWsYW4PNJGuyYNQ"
+    },
+    {
+      "album": {
+        "name": "Ran Tan Plan",
+        "url": "https://open.spotify.com/album/1rQOAGydqxEDtF8JSXzzF4"
+      },
+      "artists": [
+        {
+          "name": "Tango Tripping Project",
+          "url": "https://open.spotify.com/artist/0HnX8l7RHBu2wGUn3k1Oi1"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252750,
+      "name": "Ran Tan Plan",
+      "url": "https://open.spotify.com/track/6eqLo7qLqWFVGHsglx50ng"
     },
     {
       "album": {

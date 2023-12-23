@@ -761,6 +761,24 @@
     },
     {
       "album": {
+        "name": "In A Dream",
+        "url": "https://open.spotify.com/album/2GiheTjdh8zSxAWkt28qcT"
+      },
+      "artists": [
+        {
+          "name": "Suntitle",
+          "url": "https://open.spotify.com/artist/7zx6ErpT1biAkFwPqGJJXS"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178404,
+      "name": "Burning Down a Denny's",
+      "url": "https://open.spotify.com/track/6ekiSQMJqi8bEyZmMvpC2R"
+    },
+    {
+      "album": {
         "name": "Bury Me",
         "url": "https://open.spotify.com/album/7FoQtty0uxiFSqH0DqYFxT"
       },
@@ -2134,7 +2152,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 262453,
       "name": "Godsend",
       "url": "https://open.spotify.com/track/6a9yNu5Nlc1xezZjHAzj0C"

@@ -4,7 +4,7 @@
 
 > The best new Christmas tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:4akybxRTGHJZ1DXjLhJ1qu">Kirk Franklin</a>
 
-5,066 songs - 14 day 2 hr 35 min
+5,067 songs - 14 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3185,6 +3185,7 @@
 | [O Holy Night \(feat\. The McLendon Family\)](https://open.spotify.com/track/6vhEfu9CT6t8eH2hJNf48l) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq), [The McLendon Family](https://open.spotify.com/artist/5P8EFlWzOUDzJHmR6QyF1A) | [O Holy Night](https://open.spotify.com/album/5vfXOSlFK6iXixw7PXHIpe) | 5:06 | 2022-12-16 | 2022-12-31 |
 | [O Holy Night \- Chill Mix](https://open.spotify.com/track/2Mtiy5J5YmW4YxDqmojgeY) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Christmas Chill, Vol\. 1](https://open.spotify.com/album/6RWglpoU92MW2EzqZ3EEGM) | 3:28 | 2023-12-15 |  |
 | [O Holy Night \- Live](https://open.spotify.com/track/4UjW7OrZxrm4W6vO4eLq2X) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Samuel Lane](https://open.spotify.com/artist/7gjXbYoKHoNcdxVCBWpEKo) | [O Holy Night \(Live\)](https://open.spotify.com/album/30agWxXIeDAYLDGHF4nIz7) | 6:15 | 2022-12-16 | 2022-12-31 |
+| [O Holy Night \- Live Studio Session](https://open.spotify.com/track/1d87rT86yYlcdO8UEWjKzn) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3) | [O Holy Night \(Live Studio Session\)](https://open.spotify.com/album/1ARSEqWWRk7XaeLR5BbeQO) | 4:49 | 2023-12-22 |  |
 | [O Little Town Of Bethlehem](https://open.spotify.com/track/4shQSnSGk0PnbzAOsp16BJ) | [David Brymer](https://open.spotify.com/artist/7GTnr8474MiGyAxQBXTdap), [Chris Beland](https://open.spotify.com/artist/589onAR28YIA48jFpfyEMT) | [O Little Town Of Bethlehem](https://open.spotify.com/album/0cSQ0JTIPidDhcsIUgowRJ) | 5:25 | 2022-12-16 | 2022-12-31 |
 | [O Lord, You’re Beautiful \(with Steffany Gretzinger\)](https://open.spotify.com/track/37Ms9rdo26omDpCINsHhui) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [O Lord, You're Beautiful](https://open.spotify.com/album/6gIib347YLlHGDMqpOHBL8) | 3:55 | 2022-08-12 | 2022-08-27 |
 | [O Praise The Lord](https://open.spotify.com/track/34PBnyj9JeJQMTtDYOj8uL) | [SONS THE BAND](https://open.spotify.com/artist/0HRtriOgRf9dPnJJf9mNqL), [Maryanne J\. George](https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3) | [O Praise The Lord](https://open.spotify.com/album/5FYn0qBWEONuGmjBtYKnAR) | 12:54 | 2022-02-25 | 2022-03-05 |

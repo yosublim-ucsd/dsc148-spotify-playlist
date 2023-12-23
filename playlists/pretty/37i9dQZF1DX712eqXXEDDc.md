@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX712eqXXEDDc.md) - [plain]
 
 > <a href="spotify:artist:3MM3uKNdJbvefUael12dl3">Rochelle Jordan</a>'s track IDs\. Updated regularly\. Curated by Rochelle Jordan\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,537 likes - 70 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,563 likes - 70 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX712eqXXEDDc.md) - [plain]
 | 24 | [Praise to the Vibes \- Mr\. Fingers Alternate Version](https://open.spotify.com/track/51MvFPygVSJQHeleNBmo8o) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Praise to the Vibes / Crying Over You \(Remixes\)](https://open.spotify.com/album/2NMjyghBZ7YtDkifpw3mY7) | 5:01 |
 | 25 | [Fantasy](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:03 |
 | 26 | [Finally](https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv) | [CeCe Peniston](https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD) | [Finally](https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip) | 4:05 |
-| 27 | [Anna Wintour](https://open.spotify.com/track/5Pm7KrSKkDj37SZoMYyXDX) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Anna Wintour](https://open.spotify.com/album/6CdoZyh1IJzKRs7tw5WM8e) | 4:33 |
+| 27 | [Anna Wintour](https://open.spotify.com/track/59fZ1smcmciapt7NB00t96) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Anna Wintour](https://open.spotify.com/album/4zpqDVmFMGkDpyrhtP5GKR) | 4:33 |
 | 28 | [Already](https://open.spotify.com/track/0Bef4OMTKyY908qrX0O0cs) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 3:57 |
 | 29 | [MIRO](https://open.spotify.com/track/0WcKvDUhDDT4wnsx10U2qT) | [Hoody](https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL) | [Departure](https://open.spotify.com/album/5sr4L6QMoNr4BDWfTDuUOa) | 2:42 |
 | 30 | [Back To Life \(However Do You Want Me\)](https://open.spotify.com/track/7ELuWpsuVCRBnOR9ZAZKDp) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf), [Caron Wheeler](https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY) | [Club Classics Vol\. One](https://open.spotify.com/album/5VxTLm2IZsDQn3r9eX1qfa) | 3:52 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX712eqXXEDDc.md) - [plain]
 | 69 | [SHY GUY](https://open.spotify.com/track/71PRtWCg3aW88Do0VLmjSy) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [333](https://open.spotify.com/album/0LHqiYYOsVM9lh9c9w0G1j) | 1:06 |
 | 70 | [Someday \- salute Remix](https://open.spotify.com/track/7AVHYVUUTusrL4zPSekFfT) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Someday \(salute Remix\)](https://open.spotify.com/album/5nJwm4Z2yrxJUIwXdbsr3R) | 4:49 |
 
-Snapshot ID: `MCw1ZjFkZTdkZDFhNGM2ZGU4ZTA2MmEwOGE1ZjFmNWYwZjViMDgxZGIw`
+Snapshot ID: `MCxiYjljMTUwNDVlYmI5MTk1NzgyZGIxOTZlZGI1NjFhYTk3N2ZjOWVj`

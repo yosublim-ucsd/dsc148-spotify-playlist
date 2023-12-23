@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
-  "num_followers": 141604,
+  "num_followers": 141895,
   "original_name": "Vivo de Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGU4MzgwY2U0NWZjNDdjMDY3ZTc0ODJlYjMzNjRiNGE5ZmI3Yjc1",
+  "snapshot_id": "MCw4Y2JiYmZkYjU2MTQyMWM4NzFhNWU2OGU4MGY1ZTk0NTQzOTE4NjM4",
   "tracks": [
     {
       "added_at": "2023-08-11 13:33:49",
@@ -623,22 +623,18 @@
     {
       "added_at": "2023-08-11 13:33:49",
       "album": {
-        "name": "+ Es + (El Concierto / En Directo En El Estadio Vicente Calder\u00f3n / 2017)",
-        "url": "https://open.spotify.com/album/6NmuOSiXv5WoA5lYjemVTt"
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/1GP8zhAu7gbAQTzfl6xOKo"
       },
       "artists": [
         {
           "name": "Alejandro Sanz",
           "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        },
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
         }
       ],
-      "duration_ms": 316080,
-      "name": "La Fuerza Del Coraz\u00f3n - En Directo En El Estadio Vicente Calder\u00f3n / 2017",
-      "url": "https://open.spotify.com/track/7AtuQiAsRESlLdR3V0FXBJ"
+      "duration_ms": 300106,
+      "name": "Coraz\u00f3n part\u00edo",
+      "url": "https://open.spotify.com/track/2EdAzvb3Qc6E8h8glHD9jF"
     },
     {
       "added_at": "2023-08-11 13:33:49",
@@ -679,6 +675,34 @@
     {
       "added_at": "2023-08-11 13:33:49",
       "album": {
+        "name": "MTV Unplugged (En Vivo)",
+        "url": "https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "Melissa",
+          "url": "https://open.spotify.com/artist/5OWPM4ybplRvlK9RJgAtSm"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        }
+      ],
+      "duration_ms": 305120,
+      "name": "Prometiste (En Vivo)",
+      "url": "https://open.spotify.com/track/1VHkHdFww8aXRTqj4VVSwC"
+    },
+    {
+      "added_at": "2023-08-11 13:33:49",
+      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO"
       },
@@ -695,6 +719,26 @@
     {
       "added_at": "2023-08-11 13:33:49",
       "album": {
+        "name": "+ Es + (El Concierto / En Directo En El Estadio Vicente Calder\u00f3n / 2017)",
+        "url": "https://open.spotify.com/album/6NmuOSiXv5WoA5lYjemVTt"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 316080,
+      "name": "La Fuerza Del Coraz\u00f3n - En Directo En El Estadio Vicente Calder\u00f3n / 2017",
+      "url": "https://open.spotify.com/track/7AtuQiAsRESlLdR3V0FXBJ"
+    },
+    {
+      "added_at": "2023-08-11 13:33:49",
+      "album": {
         "name": "OV7 Primera Fila",
         "url": "https://open.spotify.com/album/2xFC6CVueT0H9MqW8RkySa"
       },
@@ -707,22 +751,6 @@
       "duration_ms": 268573,
       "name": "Te Quiero Tanto, Tanto - En Vivo",
       "url": "https://open.spotify.com/track/5rxSLxLdN4D0YFQd2QQlle"
-    },
-    {
-      "added_at": "2023-08-11 13:33:49",
-      "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/1GP8zhAu7gbAQTzfl6xOKo"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 300106,
-      "name": "Coraz\u00f3n part\u00edo",
-      "url": "https://open.spotify.com/track/2EdAzvb3Qc6E8h8glHD9jF"
     },
     {
       "added_at": "2023-08-11 13:33:49",
@@ -783,22 +811,6 @@
       "duration_ms": 246546,
       "name": "Te Equivocaste (Primera Fila) (feat. Mal\u00fa) - En Vivo",
       "url": "https://open.spotify.com/track/7wadwcnZoJEU2b3pgApUDv"
-    },
-    {
-      "added_at": "2023-08-11 13:33:49",
-      "album": {
-        "name": "OV7 Primera Fila",
-        "url": "https://open.spotify.com/album/2xFC6CVueT0H9MqW8RkySa"
-      },
-      "artists": [
-        {
-          "name": "OV7",
-          "url": "https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2"
-        }
-      ],
-      "duration_ms": 223266,
-      "name": "Confieso - En Vivo",
-      "url": "https://open.spotify.com/track/7LdnlQjKYxFJ1Ar7sM3sN4"
     },
     {
       "added_at": "2023-08-11 13:33:49",
@@ -871,6 +883,22 @@
     {
       "added_at": "2023-08-11 13:33:49",
       "album": {
+        "name": "Primera Fila Flans",
+        "url": "https://open.spotify.com/album/3Q2ojWYIEh9ASuJevLr64C"
+      },
+      "artists": [
+        {
+          "name": "Ilse, Ivonne y Mimi",
+          "url": "https://open.spotify.com/artist/3d79GDviyp0nkS5hPDlBKX"
+        }
+      ],
+      "duration_ms": 194266,
+      "name": "Ay Amor - Primera Fila Flans [En Vivo]",
+      "url": "https://open.spotify.com/track/46KUdszLcvk1IvQaoo9EFq"
+    },
+    {
+      "added_at": "2023-08-11 13:33:49",
+      "album": {
         "name": "Julieta Venegas - MTV Unplugged",
         "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
       },
@@ -900,25 +928,9 @@
           "url": "https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2"
         }
       ],
-      "duration_ms": 236906,
-      "name": "Prohibido Quererme - En Vivo",
-      "url": "https://open.spotify.com/track/2iW2Ixjzx0N4yuMB55uIrH"
-    },
-    {
-      "added_at": "2023-08-11 13:33:49",
-      "album": {
-        "name": "Primera Fila Flans",
-        "url": "https://open.spotify.com/album/3Q2ojWYIEh9ASuJevLr64C"
-      },
-      "artists": [
-        {
-          "name": "Ilse, Ivonne y Mimi",
-          "url": "https://open.spotify.com/artist/3d79GDviyp0nkS5hPDlBKX"
-        }
-      ],
-      "duration_ms": 194266,
-      "name": "Ay Amor - Primera Fila Flans [En Vivo]",
-      "url": "https://open.spotify.com/track/46KUdszLcvk1IvQaoo9EFq"
+      "duration_ms": 223266,
+      "name": "Confieso - En Vivo",
+      "url": "https://open.spotify.com/track/7LdnlQjKYxFJ1Ar7sM3sN4"
     }
   ],
   "unique_name": "Vivo de Pop",

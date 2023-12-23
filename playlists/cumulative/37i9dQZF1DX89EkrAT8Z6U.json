@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 158222,
       "name": "3 Stars",
       "url": "https://open.spotify.com/track/3z2TthJcrKYXF9EwVgGTmo"
@@ -4558,6 +4558,24 @@
       "duration_ms": 104960,
       "name": "Speak Up",
       "url": "https://open.spotify.com/track/2rqB2I2stqNPaVBaObZnDx"
+    },
+    {
+      "album": {
+        "name": "Speak Up",
+        "url": "https://open.spotify.com/album/1ClM2j1wfA7qNIAtIGtpqJ"
+      },
+      "artists": [
+        {
+          "name": "Is0kenny",
+          "url": "https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104960,
+      "name": "Speak Up",
+      "url": "https://open.spotify.com/track/5uZB4RTZcrI6l7j3n7SjqN"
     },
     {
       "album": {

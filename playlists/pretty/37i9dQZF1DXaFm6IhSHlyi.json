@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 142929,
+  "num_followers": 142944,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2JiZDBlYzQ2ZGI2NDE1ZTRmMDExMzQ0YzRlYTQyMzFmOGZmNGE5",
+  "snapshot_id": "MCxiZmViZjdjNWU1NGE0MmNmMDI5MDJiOWRmZWI4OTdkNjY1ODQ4YmM1",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr"
+      },
+      "artists": [
+        {
+          "name": "Haley Reinhart",
+          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
+        }
+      ],
+      "duration_ms": 173174,
+      "name": "Can't Help Falling in Love",
+      "url": "https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Can We Kiss Forever?",
         "url": "https://open.spotify.com/album/0MGcjBIFcL2qaCrgGjIGFb"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 187931,
       "name": "Can We Kiss Forever?",
       "url": "https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr"
-      },
-      "artists": [
-        {
-          "name": "Haley Reinhart",
-          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
-        }
-      ],
-      "duration_ms": 173174,
-      "name": "Can't Help Falling in Love",
-      "url": "https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -951,22 +951,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "\u6469\u5929\u52d5\u7269\u5712",
-        "url": "https://open.spotify.com/album/5BQmFN38iOhEhMVIdtvFhS"
+        "name": "Malay Mo, Tayo",
+        "url": "https://open.spotify.com/album/0zBCehKCAFoYUPW0X2g9wj"
       },
       "artists": [
         {
-          "name": "G.E.M.",
-          "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
-        },
-        {
-          "name": "Eric Chou",
-          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+          "name": "TJ Monterde",
+          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
         }
       ],
-      "duration_ms": 262597,
-      "name": "\u5225\u52c9\u5f37",
-      "url": "https://open.spotify.com/track/6tzOEJ2tqSiAxHw9CAT9Ru"
+      "duration_ms": 274291,
+      "name": "Malay Mo",
+      "url": "https://open.spotify.com/track/0B2GJuD8XZoovLyAvcYBsF"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -987,18 +983,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Malay Mo, Tayo",
-        "url": "https://open.spotify.com/album/0zBCehKCAFoYUPW0X2g9wj"
+        "name": "\u6469\u5929\u52d5\u7269\u5712",
+        "url": "https://open.spotify.com/album/5BQmFN38iOhEhMVIdtvFhS"
       },
       "artists": [
         {
-          "name": "TJ Monterde",
-          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
+          "name": "G.E.M.",
+          "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
+        },
+        {
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
         }
       ],
-      "duration_ms": 274291,
-      "name": "Malay Mo",
-      "url": "https://open.spotify.com/track/0B2GJuD8XZoovLyAvcYBsF"
+      "duration_ms": 262597,
+      "name": "\u5225\u52c9\u5f37",
+      "url": "https://open.spotify.com/track/6tzOEJ2tqSiAxHw9CAT9Ru"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "criminal",
-        "url": "https://open.spotify.com/album/0zAzLgKV4ir3BjGE2YHKv5"
-      },
-      "artists": [
-        {
-          "name": "Nemahsis",
-          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
-        }
-      ],
-      "duration_ms": 157186,
-      "name": "criminal",
-      "url": "https://open.spotify.com/track/54eh7OUaAuHzuiQ7w4Neej"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Elyanna",
         "url": "https://open.spotify.com/album/2J4Yz9I4s0FvFw00Cn0trp"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 62969,
       "name": "Majnony Ana",
       "url": "https://open.spotify.com/track/67wgF0zAjq7gdXILvTzloC"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "criminal",
+        "url": "https://open.spotify.com/album/0zAzLgKV4ir3BjGE2YHKv5"
+      },
+      "artists": [
+        {
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+        }
+      ],
+      "duration_ms": 157186,
+      "name": "criminal",
+      "url": "https://open.spotify.com/track/54eh7OUaAuHzuiQ7w4Neej"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Al Kawn Janni Maak",
+        "url": "https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "duration_ms": 135060,
+      "name": "Al Kawn Janni Maak",
+      "url": "https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Ohebbou Yadayka",
         "url": "https://open.spotify.com/album/1qKNEcRz2cd2bpnoYh8Bly"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 298000,
       "name": "Sajni",
       "url": "https://open.spotify.com/track/1PvMhEinxD26qgSbyzdsh9"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Al Kawn Janni Maak",
-        "url": "https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        }
-      ],
-      "duration_ms": 135060,
-      "name": "Al Kawn Janni Maak",
-      "url": "https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2135,6 +2135,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "yours, sincerely",
+        "url": "https://open.spotify.com/album/43b8UZkmMf0dVTktnr7qTO"
+      },
+      "artists": [
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "duration_ms": 271191,
+      "name": "Black",
+      "url": "https://open.spotify.com/track/52KkasHx39h4QJ5yiEcw1n"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/3yEQXRLQ8SGkgwhGm9r7m5"
       },
@@ -2163,22 +2179,6 @@
       "duration_ms": 249545,
       "name": "Trapped",
       "url": "https://open.spotify.com/track/59hmZNrpXJZEwK8q9oizFm"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "yours, sincerely",
-        "url": "https://open.spotify.com/album/43b8UZkmMf0dVTktnr7qTO"
-      },
-      "artists": [
-        {
-          "name": "Kim Feel",
-          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
-        }
-      ],
-      "duration_ms": 271191,
-      "name": "Black",
-      "url": "https://open.spotify.com/track/52KkasHx39h4QJ5yiEcw1n"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2215,8 +2215,8 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/3DlFiBv8uC3GjtaY0l9bhU"
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/2bnab6jju2LE7NyFGjykqI"
       },
       "artists": [
         {
@@ -2224,17 +2224,13 @@
           "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
         },
         {
-          "name": "Red Farrow",
-          "url": "https://open.spotify.com/artist/38jIIsC2d3Waiv8LovBEQ8"
-        },
-        {
-          "name": "Lead Major",
-          "url": "https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO"
+          "name": "Belfa",
+          "url": "https://open.spotify.com/artist/6sBNAhdkb34YfSofjjZf9L"
         }
       ],
-      "duration_ms": 230000,
-      "name": "111",
-      "url": "https://open.spotify.com/track/6nbl8mfvdmnhtlbexXu6J9"
+      "duration_ms": 178906,
+      "name": "Stories",
+      "url": "https://open.spotify.com/track/5bwb4M1BhqVfjLmR3N1n6B"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2367,8 +2363,8 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/2bnab6jju2LE7NyFGjykqI"
+        "name": "111",
+        "url": "https://open.spotify.com/album/3DlFiBv8uC3GjtaY0l9bhU"
       },
       "artists": [
         {
@@ -2376,13 +2372,17 @@
           "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
         },
         {
-          "name": "Belfa",
-          "url": "https://open.spotify.com/artist/6sBNAhdkb34YfSofjjZf9L"
+          "name": "Red Farrow",
+          "url": "https://open.spotify.com/artist/38jIIsC2d3Waiv8LovBEQ8"
+        },
+        {
+          "name": "Lead Major",
+          "url": "https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO"
         }
       ],
-      "duration_ms": 178906,
-      "name": "Stories",
-      "url": "https://open.spotify.com/track/5bwb4M1BhqVfjLmR3N1n6B"
+      "duration_ms": 230000,
+      "name": "111",
+      "url": "https://open.spotify.com/track/6nbl8mfvdmnhtlbexXu6J9"
     },
     {
       "added_at": "2022-10-17 15:00:00",

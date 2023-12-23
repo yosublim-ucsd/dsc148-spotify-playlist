@@ -1763,6 +1763,28 @@
     },
     {
       "album": {
+        "name": "Bad Intentions",
+        "url": "https://open.spotify.com/album/4iCW5UWJyFtC4YuTUTFNHs"
+      },
+      "artists": [
+        {
+          "name": "Anees",
+          "url": "https://open.spotify.com/artist/5GgPDBska9yM6X2fZ6MHXA"
+        },
+        {
+          "name": "Alice Aera",
+          "url": "https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259793,
+      "name": "Bad Intentions",
+      "url": "https://open.spotify.com/track/0sSQFWw30ZjRLNnvoAclJT"
+    },
+    {
+      "album": {
         "name": "Sundial",
         "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
       },
@@ -6904,7 +6926,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 201960,
       "name": "Fly By",
       "url": "https://open.spotify.com/track/2UdpL4QOvjOmsp0JNgRzTq"
@@ -11082,7 +11104,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 167339,
       "name": "Lil Mama",
       "url": "https://open.spotify.com/track/2f2NcftBV0VkqvZF3oZRNQ"
@@ -18362,6 +18384,24 @@
       "duration_ms": 176666,
       "name": "SUNRISE (feat. Arlo Parks)",
       "url": "https://open.spotify.com/track/5tPwGBDC49980o9FRGhHaQ"
+    },
+    {
+      "album": {
+        "name": "High Life Sessions",
+        "url": "https://open.spotify.com/album/7juqezi4APsV2nOoqoUtiB"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139534,
+      "name": "sunsets in sao paolo",
+      "url": "https://open.spotify.com/track/0UdBYMjHLlaHfGQZWKnWZk"
     },
     {
       "album": {

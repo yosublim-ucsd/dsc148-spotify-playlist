@@ -3402,7 +3402,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 133439,
       "name": "Cold Blues",
       "url": "https://open.spotify.com/track/7GZuQd0akFReO6PnauEKIf"
@@ -5033,6 +5033,32 @@
     },
     {
       "album": {
+        "name": "Very Important Remixes",
+        "url": "https://open.spotify.com/album/0OhK6qDpun9YzV56dv2e1x"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Neon Trees",
+          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
+        },
+        {
+          "name": "Misha K",
+          "url": "https://open.spotify.com/artist/3py4xCfrW0MbgZEQXHp65q"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178834,
+      "name": "Dreamteam (Galantis & Misha K VIP Mix)",
+      "url": "https://open.spotify.com/track/3nyYBC6mZt85am4pnWwl4x"
+    },
+    {
+      "album": {
         "name": "Drifting",
         "url": "https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG"
       },
@@ -5582,7 +5608,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 180869,
       "name": "Everybody (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/0mAf9TNr3a2jIHsq2PIagH"
@@ -9643,6 +9669,32 @@
     },
     {
       "album": {
+        "name": "Ol Dirty Kudda (Shoalin Lives)",
+        "url": "https://open.spotify.com/album/0jkbWrF2PJVIMg6IhASgpu"
+      },
+      "artists": [
+        {
+          "name": "King Kudda",
+          "url": "https://open.spotify.com/artist/6Bw6qzdgvMeOOwVdWbOOo1"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "BadIdea",
+          "url": "https://open.spotify.com/artist/3uWUg2Vzq5geOgji7dUyjY"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207052,
+      "name": "Kings Of The League",
+      "url": "https://open.spotify.com/track/50ld6ErqnAjy89SfVta0xu"
+    },
+    {
+      "album": {
         "name": "Person Of Interest",
         "url": "https://open.spotify.com/album/5VjHgpiqqeaCKr7OiZiI2P"
       },
@@ -9828,7 +9880,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 195373,
       "name": "Labios Mordidos (with KAROL G)",
       "url": "https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW"
@@ -10370,6 +10422,28 @@
       "duration_ms": 196092,
       "name": "Little Bit Yours",
       "url": "https://open.spotify.com/track/0LOjVJaTDqXyu37cjUYpT2"
+    },
+    {
+      "album": {
+        "name": "Ol Dirty Kudda (Shoalin Lives)",
+        "url": "https://open.spotify.com/album/0jkbWrF2PJVIMg6IhASgpu"
+      },
+      "artists": [
+        {
+          "name": "King Kudda",
+          "url": "https://open.spotify.com/artist/6Bw6qzdgvMeOOwVdWbOOo1"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206239,
+      "name": "Lived It And Done It",
+      "url": "https://open.spotify.com/track/3KIoxkuO1k4HDOSoTzHdcH"
     },
     {
       "album": {
@@ -11964,7 +12038,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 353988,
       "name": "Move Back",
       "url": "https://open.spotify.com/track/6uetdGxAM7pLGfe3e8J5JP"
@@ -12172,6 +12246,36 @@
       "duration_ms": 953726,
       "name": "My Favorite Things (feat. Eric Dolphy) - Live",
       "url": "https://open.spotify.com/track/661SJJCK5tUq3kPNzYxfoa"
+    },
+    {
+      "album": {
+        "name": "Shade of Blue",
+        "url": "https://open.spotify.com/album/7jPYGQ3pZ1Qq1qazTqOzP9"
+      },
+      "artists": [
+        {
+          "name": "T\u00f3mas R. Einarsson",
+          "url": "https://open.spotify.com/artist/1biHrpUQMF2IIsnvipp9Cv"
+        },
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        },
+        {
+          "name": "Kristj\u00e1n Magn\u00fasson",
+          "url": "https://open.spotify.com/artist/5xhra5T3Yva7Q0Y4d1L6d9"
+        },
+        {
+          "name": "Sveinn \u00d3li J\u00f3nsson",
+          "url": "https://open.spotify.com/artist/6fQMnY3UqEJTWsGzSpV2OB"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416174,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/3JVt92ZMXrDlscUbVneHu2"
     },
     {
       "album": {

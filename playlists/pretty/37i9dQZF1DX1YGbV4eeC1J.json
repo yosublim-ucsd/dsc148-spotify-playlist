@@ -1,15 +1,31 @@
 {
   "description": "Exceptionally vivid Swahili love stories for you and yours. Cover: Alikiba",
-  "num_followers": 19095,
+  "num_followers": 19127,
   "original_name": "Swahili Love ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmRhNzE1Y2Q2NGU4MTYxYTFiNTFhOWFkNDk4ODgxOWJjMmIxOTkz",
+  "snapshot_id": "MCxhYzE0NGM0YjAyYzQxYzM2OGM0ZDRmZWNjMTJhNDUyOTZmYzIxZDEw",
   "tracks": [
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
+      "album": {
+        "name": "Al\u00f3",
+        "url": "https://open.spotify.com/album/0556miRSxmC7vGyTZuZ5Ex"
+      },
+      "artists": [
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        }
+      ],
+      "duration_ms": 176387,
+      "name": "Al\u00f3",
+      "url": "https://open.spotify.com/track/1PCqgmYwQQfZtDXSYvcAXy"
+    },
+    {
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "Nakupenda",
         "url": "https://open.spotify.com/album/0rupjiEp0TDMmvIx5nmTzN"
@@ -25,23 +41,23 @@
       "url": "https://open.spotify.com/track/3TlutO6C5h7LgLcH0X8GMc"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
-        "name": "Mahaba",
-        "url": "https://open.spotify.com/album/2CChdeShxi3qGFwGY9Xo2x"
+        "name": "This Love",
+        "url": "https://open.spotify.com/album/5QBvP8LsJEAVTp4dohusx2"
       },
       "artists": [
         {
-          "name": "Alikiba",
-          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+          "name": "Kusah",
+          "url": "https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK"
         }
       ],
-      "duration_ms": 196838,
-      "name": "Mahaba",
-      "url": "https://open.spotify.com/track/2Q5V16Cnv5yXoXoQKeJ9GT"
+      "duration_ms": 189548,
+      "name": "This Love",
+      "url": "https://open.spotify.com/track/2qMwrsE1QFVCHlKGgs49Y0"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "Ananipenda",
         "url": "https://open.spotify.com/album/4ubtaCtnqlodlNKIXhjijl"
@@ -61,7 +77,7 @@
       "url": "https://open.spotify.com/track/4R6vTxggpyMGuSjfwOkPEB"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "No Body (feat. Bien)",
         "url": "https://open.spotify.com/album/1Ak0wGHeJQaTQJKoVrid6d"
@@ -81,7 +97,7 @@
       "url": "https://open.spotify.com/track/3h8WG1R3M5bWYiRkCB1xYQ"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "My Baby",
         "url": "https://open.spotify.com/album/3hMzqCdDnvkt4yPpqzZ4NW"
@@ -97,7 +113,7 @@
       "url": "https://open.spotify.com/track/3m9WNPWRYShDu975I5dYtH"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "Utaniua",
         "url": "https://open.spotify.com/album/5TyVLtfv0jEnQ1Y7D0lcSb"
@@ -113,7 +129,43 @@
       "url": "https://open.spotify.com/track/7DuHELJeETVPQsRfjHHJoh"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
+      "album": {
+        "name": "Mahaba",
+        "url": "https://open.spotify.com/album/2CChdeShxi3qGFwGY9Xo2x"
+      },
+      "artists": [
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        }
+      ],
+      "duration_ms": 196838,
+      "name": "Mahaba",
+      "url": "https://open.spotify.com/track/2Q5V16Cnv5yXoXoQKeJ9GT"
+    },
+    {
+      "added_at": "2023-12-22 05:09:03",
+      "album": {
+        "name": "Mawenge",
+        "url": "https://open.spotify.com/album/4P4Y78uV52GBdtOYhuv1un"
+      },
+      "artists": [
+        {
+          "name": "Barnaba",
+          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
+        },
+        {
+          "name": "Mullaobo",
+          "url": "https://open.spotify.com/artist/3dIcJY4xlDBBnRe8bMDZ6o"
+        }
+      ],
+      "duration_ms": 242605,
+      "name": "Mawenge",
+      "url": "https://open.spotify.com/track/4NF3tGNQ7Gi9A0sHnFxPCE"
+    },
+    {
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "Nitaubeba",
         "url": "https://open.spotify.com/album/4hEN4eOrVdc2TbBR85zePI"
@@ -129,7 +181,7 @@
       "url": "https://open.spotify.com/track/4GU6tIn7Ic1kGiHYLP2r18"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/3AJ5ucxVHyDDjYRf7fAeHE"
@@ -149,7 +201,7 @@
       "url": "https://open.spotify.com/track/57dxObrS7BrzycOrKK9Z3k"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "Kama",
         "url": "https://open.spotify.com/album/4vqoy2PNlAqmQpcTKjCKui"
@@ -165,7 +217,7 @@
       "url": "https://open.spotify.com/track/4ulwSWSNoXFhuZZ9bWqGPD"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "Abee",
         "url": "https://open.spotify.com/album/18OAT8jNZdz7nSru10QwSn"
@@ -181,7 +233,7 @@
       "url": "https://open.spotify.com/track/3Io6cTgNdEkXF4PFo8VqxP"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "I Belong To You",
         "url": "https://open.spotify.com/album/6zaNQD4IJL48zCkGTEF2b1"
@@ -197,7 +249,7 @@
       "url": "https://open.spotify.com/track/2PJhzxSrHqNTfhNuFtybCQ"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "Lazizi - Spotify Singles (Cover)",
         "url": "https://open.spotify.com/album/3sKcmVnqk37Sgsdg9GBfce"
@@ -213,7 +265,7 @@
       "url": "https://open.spotify.com/track/4rutxh0KdzzxPNR75CCgJR"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "Dear Dingi",
         "url": "https://open.spotify.com/album/5cnOSewDZ7XLUtNpqSOSQr"
@@ -229,7 +281,7 @@
       "url": "https://open.spotify.com/track/0DkW4lgpl26aY0ScNy5vX2"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "Jeraha",
         "url": "https://open.spotify.com/album/27ylTtbQEnXWmslV0pP70O"
@@ -249,7 +301,7 @@
       "url": "https://open.spotify.com/track/69NbI959pNXGGh5T7WYQHN"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "Inauma",
         "url": "https://open.spotify.com/album/2XucwpZyoKaEjM8lJyZCX5"
@@ -265,7 +317,7 @@
       "url": "https://open.spotify.com/track/3HlLqEWLhoKV9GVVOFerQb"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "Khan",
         "url": "https://open.spotify.com/album/3U9b6VslZuWzVmpxMLcPYO"
@@ -281,7 +333,7 @@
       "url": "https://open.spotify.com/track/20eKkFZ3C7N7saVxn7BfDR"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "Katerina",
         "url": "https://open.spotify.com/album/205OcJThFPWLVFc19sGU3U"
@@ -297,7 +349,7 @@
       "url": "https://open.spotify.com/track/0TPkhwb04r1IwigUlmnN8K"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "Calm Down",
         "url": "https://open.spotify.com/album/6LrYNVo234UYbCjg99juWU"
@@ -317,7 +369,7 @@
       "url": "https://open.spotify.com/track/0y1v9W7ngxhLqQBcsWL7pN"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/0FkKqxcA1miGb9IkW2Vbgp"
@@ -333,7 +385,7 @@
       "url": "https://open.spotify.com/track/7wsTFtax8COrbO5BYRD3Dh"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "Ma Cherie",
         "url": "https://open.spotify.com/album/3ByyPk478xVoajmKEHUFcr"
@@ -349,7 +401,7 @@
       "url": "https://open.spotify.com/track/3PemVHtCIb5abITSvos4Bq"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "Mi Nawe",
         "url": "https://open.spotify.com/album/0jvLmR2XD7mM8zXNfuvPJ2"
@@ -365,7 +417,7 @@
       "url": "https://open.spotify.com/track/6pWRJyR4x0undU6dIR2mpP"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "Waambie",
         "url": "https://open.spotify.com/album/0DycumTtXTohHbRkLhFmI3"
@@ -381,7 +433,7 @@
       "url": "https://open.spotify.com/track/2akpNLeJS1LfrlK9KKCAek"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "Amelowa",
         "url": "https://open.spotify.com/album/0cb7S8oT18YIVZDoiqlytV"
@@ -397,7 +449,7 @@
       "url": "https://open.spotify.com/track/2EiGkSOY6o01g9gDm1lrzk"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "Hapa",
         "url": "https://open.spotify.com/album/1Q88BNMCpqlFBh46WRR7pn"
@@ -413,7 +465,7 @@
       "url": "https://open.spotify.com/track/3o2XGqeVS2V6zQWjCtSBPd"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "My Vow",
         "url": "https://open.spotify.com/album/77d7j2x9rppA6mBZIgPALC"
@@ -429,7 +481,7 @@
       "url": "https://open.spotify.com/track/35AJw5elg1VkzJ5DlPN37T"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "Wa Sasa",
         "url": "https://open.spotify.com/album/3oxmKTtd1oBP7WACgKrh4m"
@@ -445,7 +497,7 @@
       "url": "https://open.spotify.com/track/1FVz0hH9kEafMYlQjIkBTf"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "Show Off",
         "url": "https://open.spotify.com/album/6wOvhJKWIxM7jDFmCbWaDZ"
@@ -465,7 +517,7 @@
       "url": "https://open.spotify.com/track/4U65tGpFAoyaXecy00yACB"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "Respect",
         "url": "https://open.spotify.com/album/1FQ5GJT6pJ1nMW7sO6nE4I"
@@ -485,7 +537,7 @@
       "url": "https://open.spotify.com/track/7jYwtiYbcSBaEeS72pSVGI"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "Why",
         "url": "https://open.spotify.com/album/4qdyzWegDBzlnPfl0FmBaB"
@@ -505,7 +557,7 @@
       "url": "https://open.spotify.com/track/6TlZkvGTKWJXtYUx4XGCyv"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "Napendwa",
         "url": "https://open.spotify.com/album/7uSvaZCFzAnZTxSuLcUu4O"
@@ -521,7 +573,7 @@
       "url": "https://open.spotify.com/track/6ThP7PzsOKFqMdJze74nxh"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "The Love Album",
         "url": "https://open.spotify.com/album/6oGApINTocokzfDCkgVfkT"
@@ -541,7 +593,7 @@
       "url": "https://open.spotify.com/track/6gGmfPBMuAYZsm78uaW9Cg"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "Hawataweza",
         "url": "https://open.spotify.com/album/5DS0VEV7sltoi329nDx1I0"
@@ -557,7 +609,7 @@
       "url": "https://open.spotify.com/track/4P94MmzUvIwY3Jc6X4mzN0"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "Just In Love",
         "url": "https://open.spotify.com/album/61iIaWu85Ga1TtnIqIM4M1"
@@ -577,7 +629,7 @@
       "url": "https://open.spotify.com/track/35riG35oLwfgvv8j5tSY9V"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "Nakufa",
         "url": "https://open.spotify.com/album/2CWz097A1H3bExt8pHnaiH"
@@ -601,7 +653,7 @@
       "url": "https://open.spotify.com/track/2RzH7ZbIwhGWLy8H07HAB3"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "Mi Amor",
         "url": "https://open.spotify.com/album/5XWqrMOMNhND3bpeSHxjYm"
@@ -621,7 +673,7 @@
       "url": "https://open.spotify.com/track/0bk32GtgvGAgaShB0Hj5oV"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "Umeme",
         "url": "https://open.spotify.com/album/6Jo1JePWZCM5YsSLFH9ppI"
@@ -637,7 +689,7 @@
       "url": "https://open.spotify.com/track/3CxpOg8kGPAJRFG3S0j1kr"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "Midnight Train",
         "url": "https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK"
@@ -653,27 +705,7 @@
       "url": "https://open.spotify.com/track/66UNdqwxnjpfQdu3cD0lk5"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
-      "album": {
-        "name": "NEVER LET GO",
-        "url": "https://open.spotify.com/album/6bx36cCR1kDtorGigHyASc"
-      },
-      "artists": [
-        {
-          "name": "Wyre",
-          "url": "https://open.spotify.com/artist/4wnZwHdj9Axyr8ND1Vu8EH"
-        },
-        {
-          "name": "Kaa La Moto",
-          "url": "https://open.spotify.com/artist/7jvdp7S94qyfvChivF4ua9"
-        }
-      ],
-      "duration_ms": 174863,
-      "name": "Never Let Go",
-      "url": "https://open.spotify.com/track/0oo32fZjl0rwWqNTtwSFak"
-    },
-    {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "My Sugar (feat. Nadia Mukami)",
         "url": "https://open.spotify.com/album/6WTpWQNFlycDkeO2mk7UJY"
@@ -693,7 +725,7 @@
       "url": "https://open.spotify.com/track/5R26Xm8yAEf8mcHlaq8CYL"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "Inauma",
         "url": "https://open.spotify.com/album/6q5kvkKogPAOrzjYy3Y8mD"
@@ -709,7 +741,7 @@
       "url": "https://open.spotify.com/track/5o9Lrsb1ONwnFUoXs6yOav"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "King of Hearts",
         "url": "https://open.spotify.com/album/6uCDnh85xq0MH32euV8lrQ"
@@ -729,7 +761,7 @@
       "url": "https://open.spotify.com/track/0acJFNdO38OUTHQP2x1XCN"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "Wimbo Wetu",
         "url": "https://open.spotify.com/album/3XbVKuy8YmoHYwqXoVRvBr"
@@ -745,7 +777,7 @@
       "url": "https://open.spotify.com/track/0zOV2YLP3cSpknApGiIo4H"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "Morning Call",
         "url": "https://open.spotify.com/album/0wwoKITOHIs013FQaMmwro"
@@ -761,7 +793,7 @@
       "url": "https://open.spotify.com/track/6EGQ8LxufhYEkN4btEJ1Vu"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "Flowers III",
         "url": "https://open.spotify.com/album/4d2U5waYnl1NwFs0aQ5fhL"
@@ -777,7 +809,7 @@
       "url": "https://open.spotify.com/track/29qNcVV0QERBR5c6TSBEvv"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "I Wish",
         "url": "https://open.spotify.com/album/0SuFal0Q6lCaiN2StecdhB"
@@ -793,39 +825,7 @@
       "url": "https://open.spotify.com/track/5SRVeuiI9GkdtDmpi43APu"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
-      "album": {
-        "name": "Nana",
-        "url": "https://open.spotify.com/album/6SpeTOCv5BzrJis3dUxmBU"
-      },
-      "artists": [
-        {
-          "name": "Dayoo",
-          "url": "https://open.spotify.com/artist/5cao6tIwCnI01KifhRwHnc"
-        }
-      ],
-      "duration_ms": 158798,
-      "name": "Nana",
-      "url": "https://open.spotify.com/track/0gwDoWMGqKUDZKFVnIGSJB"
-    },
-    {
-      "added_at": "2023-12-15 06:03:56",
-      "album": {
-        "name": "Doli Doli",
-        "url": "https://open.spotify.com/album/0RIHyHLfX9QqyAhOmbk81T"
-      },
-      "artists": [
-        {
-          "name": "Beka Flavour",
-          "url": "https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU"
-        }
-      ],
-      "duration_ms": 176718,
-      "name": "Doli Doli",
-      "url": "https://open.spotify.com/track/0n1T4qBjCeVjeNYFS7jjHy"
-    },
-    {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "I Miss You (feat. Zuchu)",
         "url": "https://open.spotify.com/album/1aqHzgNXXU3fuvrc2MRDBD"
@@ -845,7 +845,7 @@
       "url": "https://open.spotify.com/track/48jlHKY7uwSlqsTf1dnhsw"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "I Need You",
         "url": "https://open.spotify.com/album/6z2pR0pueBjjjpJiTm1hGm"
@@ -865,7 +865,7 @@
       "url": "https://open.spotify.com/track/7stnz82FT1oFa0GMh7RYrD"
     },
     {
-      "added_at": "2023-12-15 06:03:56",
+      "added_at": "2023-12-22 05:09:03",
       "album": {
         "name": "Nampenda",
         "url": "https://open.spotify.com/album/0xhgXtc2IbEFcG7K12Olkb"

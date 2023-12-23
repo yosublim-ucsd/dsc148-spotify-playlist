@@ -453,6 +453,24 @@
     },
     {
       "album": {
+        "name": "Ciutat de sorra",
+        "url": "https://open.spotify.com/album/13kC4ZFHI7cl31iBomSpEA"
+      },
+      "artists": [
+        {
+          "name": "Hidrogenesse",
+          "url": "https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 704651,
+      "name": "Ciutat de sorra - Instrumental",
+      "url": "https://open.spotify.com/track/43mIM61mitnuRzxRgttpek"
+    },
+    {
+      "album": {
         "name": "Comfort Chain",
         "url": "https://open.spotify.com/album/01qVg4PWWaeremZOHDVRS1"
       },
@@ -2386,7 +2404,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 312800,
       "name": "Sui Shop",
       "url": "https://open.spotify.com/track/5LWSgShNUgKx8qSafzP7Hz"

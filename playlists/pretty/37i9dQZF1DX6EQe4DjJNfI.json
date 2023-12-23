@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Hanifah, Doug O.",
-  "num_followers": 166019,
+  "num_followers": 166035,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZWFlMGUyMTM1MGZlMjQ3ODU5YzQ0MzIxYTM3N2E5M2U2NWJiMjVm",
+  "snapshot_id": "MCwwZjQyZjMwYjI0YzQ3ZTg5NTA4MjNhYmU0ZDQxZjQ3MTlmNDhjZmJi",
   "tracks": [
     {
       "added_at": "2023-12-15 03:01:00",
@@ -631,30 +631,6 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "A S\u00f3s",
-        "url": "https://open.spotify.com/album/66vwSPGMqAoKx9yaB1ThoJ"
-      },
-      "artists": [
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "FRESH",
-          "url": "https://open.spotify.com/artist/2BGHRFhBAgK5Dyp2g7PCGh"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "A S\u00f3s",
-      "url": "https://open.spotify.com/track/321ZO0hduSgQ0VR8uljst3"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
         "name": "Teu Sinal",
         "url": "https://open.spotify.com/album/4qOMdPxlwo1d1asnXjTnlW"
       },
@@ -675,6 +651,30 @@
       "duration_ms": 189230,
       "name": "Teu Sinal",
       "url": "https://open.spotify.com/track/1Jdsw1yunMP4tRTLibsY0J"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "A S\u00f3s",
+        "url": "https://open.spotify.com/album/66vwSPGMqAoKx9yaB1ThoJ"
+      },
+      "artists": [
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "FRESH",
+          "url": "https://open.spotify.com/artist/2BGHRFhBAgK5Dyp2g7PCGh"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "A S\u00f3s",
+      "url": "https://open.spotify.com/track/321ZO0hduSgQ0VR8uljst3"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -767,6 +767,30 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
+        "name": "Rec\u00edproco",
+        "url": "https://open.spotify.com/album/2ci8q15b2oS4tn7uYImo3E"
+      },
+      "artists": [
+        {
+          "name": "Victor JR",
+          "url": "https://open.spotify.com/artist/3p0GexHIGvyoEQUpb2Nnlo"
+        },
+        {
+          "name": "Ingrid Milanez",
+          "url": "https://open.spotify.com/artist/3ucZWCjRRupT8LDfqaoRZJ"
+        },
+        {
+          "name": "DJ Alle Mark",
+          "url": "https://open.spotify.com/artist/7wik2rNV6wtZP98hHaspHQ"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Rec\u00edproco",
+      "url": "https://open.spotify.com/track/2Na1FNsaKX5WmLjEVVPVNt"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
         "name": "N\u00e3o Vou Negar",
         "url": "https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb"
       },
@@ -803,30 +827,6 @@
       "duration_ms": 140832,
       "name": "Faz Arrepiar",
       "url": "https://open.spotify.com/track/7JGHeEIqdqrQJUXONANuKz"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
-        "name": "Rec\u00edproco",
-        "url": "https://open.spotify.com/album/2ci8q15b2oS4tn7uYImo3E"
-      },
-      "artists": [
-        {
-          "name": "Victor JR",
-          "url": "https://open.spotify.com/artist/3p0GexHIGvyoEQUpb2Nnlo"
-        },
-        {
-          "name": "Ingrid Milanez",
-          "url": "https://open.spotify.com/artist/3ucZWCjRRupT8LDfqaoRZJ"
-        },
-        {
-          "name": "DJ Alle Mark",
-          "url": "https://open.spotify.com/artist/7wik2rNV6wtZP98hHaspHQ"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Rec\u00edproco",
-      "url": "https://open.spotify.com/track/2Na1FNsaKX5WmLjEVVPVNt"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "Novela",
-        "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
-      },
-      "artists": [
-        {
-          "name": "Fabriccio",
-          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
-        }
-      ],
-      "duration_ms": 144578,
-      "name": "Novela",
-      "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
         "name": "That's Why I Love You",
         "url": "https://open.spotify.com/album/0ClBTyGt24uEfusn603KEV"
       },
@@ -1299,6 +1283,42 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
+        "name": "Novela",
+        "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
+      },
+      "artists": [
+        {
+          "name": "Fabriccio",
+          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+        }
+      ],
+      "duration_ms": 144578,
+      "name": "Novela",
+      "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "Redial",
+        "url": "https://open.spotify.com/album/251bKunrjJVU3Ndmh8AxHt"
+      },
+      "artists": [
+        {
+          "name": "Cristal",
+          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
+        },
+        {
+          "name": "Duda Raupp",
+          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
+        }
+      ],
+      "duration_ms": 244705,
+      "name": "Redial",
+      "url": "https://open.spotify.com/track/5n4Htpe8iRavkKE0ntKIyC"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
         "name": "Caixa Postal",
         "url": "https://open.spotify.com/album/1U5wE2R3c7dsOq8YIaOdJR"
       },
@@ -1315,22 +1335,6 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/1wWN4O2u1uKhLPfevhtEsT"
-      },
-      "artists": [
-        {
-          "name": "Salah",
-          "url": "https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef"
-        }
-      ],
-      "duration_ms": 178181,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/1bsY0ACuPKQiZoUL4Hjhms"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
         "name": "DE REPENTE",
         "url": "https://open.spotify.com/album/5zBNR0bMPSZZsaQHxtgBXh"
       },
@@ -1343,6 +1347,22 @@
       "duration_ms": 145714,
       "name": "DE REPENTE",
       "url": "https://open.spotify.com/track/2cupDkLxPFyG7jWgzEDQ9Y"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/1wWN4O2u1uKhLPfevhtEsT"
+      },
+      "artists": [
+        {
+          "name": "Salah",
+          "url": "https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/1bsY0ACuPKQiZoUL4Hjhms"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -1371,26 +1391,6 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "Redial",
-        "url": "https://open.spotify.com/album/251bKunrjJVU3Ndmh8AxHt"
-      },
-      "artists": [
-        {
-          "name": "Cristal",
-          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
-        },
-        {
-          "name": "Duda Raupp",
-          "url": "https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp"
-        }
-      ],
-      "duration_ms": 244705,
-      "name": "Redial",
-      "url": "https://open.spotify.com/track/5n4Htpe8iRavkKE0ntKIyC"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
         "name": "Abstin\u00eancia",
         "url": "https://open.spotify.com/album/0tGnNmRjiCEXAX6toKmFVO"
       },
@@ -1411,22 +1411,6 @@
       "duration_ms": 168247,
       "name": "Abstin\u00eancia",
       "url": "https://open.spotify.com/track/04Zcj7MnHdpx5LVNa6qFQs"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
-        "name": "Imaturos",
-        "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Imaturos",
-      "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -1523,6 +1507,22 @@
       "duration_ms": 171792,
       "name": "Proposta",
       "url": "https://open.spotify.com/track/6GDEzb8YsJRBFGRt8Uu1ua"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "Imaturos",
+        "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Imaturos",
+      "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
     }
   ],
   "unique_name": "R&B Brasil",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cJrHxouIuL.md) - [plain]
 
 > Kindie tunes for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,658 likes - 161 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,675 likes - 161 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cJrHxouIuL.md) - [plain]
 | 65 | [You Are My Sunshine](https://open.spotify.com/track/1wNas5NsNP10oQfCMzwRTK) | [Lindsay Munroe](https://open.spotify.com/artist/1FVbng9WjrAw3kLWaLLFhM), [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Frogs And Birds](https://open.spotify.com/album/1YUT7gYPCXKS5RWsII7X4o) | 1:27 |
 | 66 | [Tomorrow](https://open.spotify.com/track/0kUtqYfVrzdQ8eTobqaphW) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [El Deafo \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/7yxh1BtNK7PeU9AboDogq7) | 2:43 |
 | 67 | [Don't Grow up Too Soon](https://open.spotify.com/track/29Df1XJyKy7pYw3G79Fx36) | [Little Ripples](https://open.spotify.com/artist/4GucBSEcHamouGFsjPnAbZ) | [Rise and Fall](https://open.spotify.com/album/40LAPAJ4LC0dj1MTkrIjVi) | 2:29 |
-| 68 | [Breakfast Club](https://open.spotify.com/track/47TzTejrEjIGj30p9iAaDw) | [Tim Kubart](https://open.spotify.com/artist/1mmtvYjQNZ4rNL20mT1wDp), [Carly Ciarrocchi](https://open.spotify.com/artist/0L6dlPvmSXJ7pKkp7j03VC) | [Home](https://open.spotify.com/album/2H0XQvwCPn5Lsw105oQUUK) | 3:25 |
+| 68 | [Breakfast Club](https://open.spotify.com/track/5wMFdOpYoUboF8glDSSlZc) | [Tim Kubart](https://open.spotify.com/artist/1mmtvYjQNZ4rNL20mT1wDp), [Carly Ciarrocchi](https://open.spotify.com/artist/0L6dlPvmSXJ7pKkp7j03VC) | [Home](https://open.spotify.com/album/0jZJyRsNYak1JkUjHWj5ou) | 3:25 |
 | 69 | [Long as I Got You](https://open.spotify.com/track/5mk8u1etFH79BfcNVuCPOx) | [Justin Roberts](https://open.spotify.com/artist/0gPiY8YtQXCp3arXBVFUk5) | [Lemonade](https://open.spotify.com/album/6JrSmqY6OEERxikQHUQ2vf) | 2:23 |
 | 70 | [For the Long Night](https://open.spotify.com/track/17F95g980LpKuKWjo3r43y) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Claudia Zanes](https://open.spotify.com/artist/1mEDDCiHoa4Win8FuJmAfh), [Dan + Claudia Zanes](https://open.spotify.com/artist/5qcWTB20UyUKLIKYyjcjyn), [Amadou Kouyate](https://open.spotify.com/artist/1WLB9ei0uFv9aDdnE2LXpg) | [Let Love Be Your Guide](https://open.spotify.com/album/29YQcKWonRl02h3pypRui6) | 4:17 |
 | 71 | [You Can Write a Song](https://open.spotify.com/track/0gnqh4xBdNtnvWBBwYcVy1) | [The Verve Pipe](https://open.spotify.com/artist/242iqFnwNhlidVBMI9GYKp) | [Are We There Yet?](https://open.spotify.com/album/5IfwqiPWmqktT5aNvDkZMZ) | 3:05 |
@@ -141,7 +141,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cJrHxouIuL.md) - [plain]
 | 131 | [Do You Hear the Birds Singing?](https://open.spotify.com/track/4gSpTGrxnh8xGSTs9t0Lga) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Mind of My Own](https://open.spotify.com/album/1vVu1xyubkJrslVtb1UHnk) | 2:37 |
 | 132 | [Pure Imagination](https://open.spotify.com/track/5oZ1P41Y1G4aKNNfKzrwpN) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Pure Imagination](https://open.spotify.com/album/20jFHindSeIz3oN7Siih7N) | 3:08 |
 | 133 | [Upside Down](https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Jack Johnson And Friends: Sing\-A\-Longs And Lullabies For The Film Curious George](https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy) | 3:28 |
-| 134 | [Better](https://open.spotify.com/track/4lMSGgltArBFVHrDr8ukDu) | [Tim Kubart](https://open.spotify.com/artist/1mmtvYjQNZ4rNL20mT1wDp), [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Home](https://open.spotify.com/album/2H0XQvwCPn5Lsw105oQUUK) | 2:40 |
+| 134 | [Better](https://open.spotify.com/track/4numkOpppqV6z3FHA6bZrm) | [Tim Kubart](https://open.spotify.com/artist/1mmtvYjQNZ4rNL20mT1wDp), [Laurie Berkner](https://open.spotify.com/artist/09tp8mo8yb7UVbmmgWbsbi) | [Home](https://open.spotify.com/album/0jZJyRsNYak1JkUjHWj5ou) | 2:40 |
 | 135 | [I Lost My Jacket \(Again\)](https://open.spotify.com/track/1bOXnl6xPCZdMN2hiQyvBK) | [The Tallest Kid in the Room](https://open.spotify.com/artist/6Axqi2CIu4eRt4zFQpdNc5) | [I Lost My Jacket \(Again\)](https://open.spotify.com/album/6iNDECVqU6PtwUPB3oHVl2) | 2:54 |
 | 136 | [It's Okay, Try Again](https://open.spotify.com/track/4iC7P3XW9ocjN3Qifi0hsr) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Fantastic Voyages](https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7) | 1:56 |
 | 137 | [Put a Little Love in Your Heart](https://open.spotify.com/track/45P9yorJowDsc6CotFAAKG) | [Renee & Jeremy](https://open.spotify.com/artist/7IBisryIBGbvj4wBDuRvy5) | [A Little Love](https://open.spotify.com/album/5oA9dRQo0Yto6RlTMj8Mx6) | 2:46 |
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cJrHxouIuL.md) - [plain]
 | 160 | [Little Bird, Little Bird](https://open.spotify.com/track/5mdDzJBkQ7Gz7ePDCB397w) | [Elizabeth Mitchell](https://open.spotify.com/artist/3gBQ1U5dXpRXS6tlbyNTDM) | [You Are My Little Bird](https://open.spotify.com/album/4GYfEguWQPqdBpFO1XC1eB) | 2:28 |
 | 161 | [Wheels On The Bus](https://open.spotify.com/track/3c2UQUnufLzun0uggzYjzE) | [Kyle Andrews](https://open.spotify.com/artist/67tNmCzk9teeC1h8FgmqJA) | [For The Kids Three](https://open.spotify.com/album/1Dr9Qai7RQUBTtqLrJDo2A) | 2:51 |
 
-Snapshot ID: `MCw1ZDBiZjYzYWJiODNiOWM3MTE2YzMxN2Y1NDY4NTRhM2VlNjEzMzIy`
+Snapshot ID: `MCw1NGFmMDk5MjFjMmVmMTczZWJiMGRmNzk5MjJmMjI2OGRhZWU1YTA4`

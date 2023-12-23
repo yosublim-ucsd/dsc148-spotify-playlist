@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Nadhif Basamalah
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,150 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,189 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Tetap Tak Ku Rasa](https://open.spotify.com/track/6iSZgYZaYX1hF9KMR3LWwY) | [Andi Bernadee](https://open.spotify.com/artist/3NNC2X9tLFyL0nHfJuWKJ9) | [Tetap Tak Ku Rasa](https://open.spotify.com/album/2iKNsqZ7qIqgQE5e3aJmeM) | 3:11 |
 | 50 | [OR7](https://open.spotify.com/track/1jBArINXOIRzHaK2WuPhtU) | [K\-Clique](https://open.spotify.com/artist/06RrXcTszCm5il0HKCD3Dh) | [OR7](https://open.spotify.com/album/2wNGcMa8TAJO7D5kPiryox) | 4:58 |
 
-Snapshot ID: `MCw1YjM2N2U3NmJmYWFmMWMzMDM0ZTZhZWIxZmYwNTIyZGYzMWY5MDY3`
+Snapshot ID: `MCxjZDVlMTQxOWM2Y2JkZTJiMzZkNzY5YWQ2YjE4YWQ3NmQ4MzEwYjY0`

@@ -4,7 +4,7 @@
 
 > Long distance is hard, but true love knows no boundaries.
 
-143 songs - 9 hr 4 min
+144 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [All of the Stars](https://open.spotify.com/track/3SZLtkoHoECHHuOnNkNCuS) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [The Fault In Our Stars: Music From The Motion Picture](https://open.spotify.com/album/7bXOViTvx6EHXuYFuI2yfj) | 3:54 | 2021-01-25 |  |
 | [Already Home](https://open.spotify.com/track/2UqABRs8RMrgjkYZZ6VawW) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF) | [Is There Anybody Out There?](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) | 3:50 | 2021-01-25 |  |
 | [And Counting...](https://open.spotify.com/track/4j5HhMARs2HUN8IXpRv8Xw) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Siberia](https://open.spotify.com/album/7wdhg6FEJOfDCkFaBwXQJK) | 4:42 | 2021-01-25 | 2022-07-29 |
-| [And Counting…](https://open.spotify.com/track/2BzzOaMznrmLxrfAfXjgBJ) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Siberia](https://open.spotify.com/album/0JsiuNPYQLyK6luX5jLuRE) | 4:42 | 2021-01-25 |  |
+| [And Counting…](https://open.spotify.com/track/2BzzOaMznrmLxrfAfXjgBJ) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Siberia](https://open.spotify.com/album/0JsiuNPYQLyK6luX5jLuRE) | 4:42 | 2021-01-25 | 2023-12-23 |
+| [And Counting…](https://open.spotify.com/track/3N1LywtcwVOmjq8EbMWpCn) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Siberia](https://open.spotify.com/album/5RHveP7DbDtUkaf090lW5n) | 4:42 | 2022-12-29 |  |
 | [arms](https://open.spotify.com/track/5u0YB9bpmgEPS2bPhwfRFV) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [lovestrong.](https://open.spotify.com/album/3XNK8vPk3O1rjhDZyOMJ6n) | 4:21 | 2021-01-25 |  |
 | [As Much as I Ever Could](https://open.spotify.com/track/2FKbisOVZcinq7VtYUFD4H) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Bring Me Your Love \(Special Edition\)](https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr) | 5:24 | 2021-01-25 | 2022-10-09 |
 | [As Much As I Ever Could](https://open.spotify.com/track/2WGUeqGSMddbJydjhFkLIt) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Bring Me Your Love \(Special Edition\)](https://open.spotify.com/album/0zS5ngmIaTbvNL1PnM0D9f) | 5:25 | 2021-01-25 | 2022-07-29 |

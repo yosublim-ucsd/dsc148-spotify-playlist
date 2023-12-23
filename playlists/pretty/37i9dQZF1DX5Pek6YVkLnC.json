@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: paopao",
-  "num_followers": 230551,
+  "num_followers": 230575,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMmEyZGE4ZTg5MmRjMmUwZmE2ODUxNTI3N2RjODJlM2NkMDI3ZGY3",
+  "snapshot_id": "MCwzMjkyMmFkNDBlYzFhNWRiNTA1MzE0OTRkZWJlYzU3MGRhYTZlNGNl",
   "tracks": [
     {
       "added_at": "2023-12-08 18:45:03",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-12-08 18:45:03",
       "album": {
-        "name": "Busy",
-        "url": "https://open.spotify.com/album/0wlVnLbR6sM6le32GHW6mH"
-      },
-      "artists": [
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        }
-      ],
-      "duration_ms": 186966,
-      "name": "Busy",
-      "url": "https://open.spotify.com/track/2fuUZFrXc39Vd7zbIZxCzZ"
-    },
-    {
-      "added_at": "2023-12-08 18:45:03",
-      "album": {
         "name": "Madrid",
         "url": "https://open.spotify.com/album/6fp9VIOrvejpy2WKofJmL3"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 177613,
       "name": "Madrid",
       "url": "https://open.spotify.com/track/49Br4XqYMOBlwM2YRGPQYy"
+    },
+    {
+      "added_at": "2023-12-08 18:45:03",
+      "album": {
+        "name": "Busy",
+        "url": "https://open.spotify.com/album/0wlVnLbR6sM6le32GHW6mH"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        }
+      ],
+      "duration_ms": 186966,
+      "name": "Busy",
+      "url": "https://open.spotify.com/track/2fuUZFrXc39Vd7zbIZxCzZ"
     },
     {
       "added_at": "2023-12-08 18:45:03",

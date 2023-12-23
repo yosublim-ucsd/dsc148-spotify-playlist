@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h">Praiz Singz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,721 likes - 102 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,755 likes - 102 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 101 | [Trust in You](https://open.spotify.com/track/24QZ8sZVtangqkebKPq4Lq) | [JayMikee](https://open.spotify.com/artist/1If5luzGOiRqMAlwPchSS2) | [Trust in You](https://open.spotify.com/album/3aKIB6yncFyXoE0t4ITRDl) | 3:30 |
 | 102 | [Provider](https://open.spotify.com/track/2l0MtMrRIvBIwRHfFTJ388) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Provider](https://open.spotify.com/album/08ypCfpeQ2fC2Ej3KL1yLX) | 2:23 |
 
-Snapshot ID: `MCwwNDA0MWEwMjYxYmVhNjViYzE2MjY4ZGM2OTQxMGI0MmZkYzI4NzU4`
+Snapshot ID: `MCw3MGJhNjBkMDFmZTVmMTRlMzhkMzc5ZTIyMDIzMWEyNmY3YTYyNjRh`

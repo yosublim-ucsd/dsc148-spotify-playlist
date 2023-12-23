@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2MVOmcETWNEZHSxdhG5e9k.md) - [plain]
 
 > Melodic Progressive, Progressive House and Vocal Trance\. Selections from Chris Lyons DJ&\#x27;s &quot;Riding The Soundwave&quot; webradio show.
 
-[Chris Lyons DJ](https://open.spotify.com/user/dr1qyhdgceut17a2728ig8g1a) - 7 likes - 68 songs - 7 hr 54 min
+[Chris Lyons DJ](https://open.spotify.com/user/dr1qyhdgceut17a2728ig8g1a) - 7 likes - 70 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,5 +76,7 @@ pretty - [cumulative](/playlists/cumulative/2MVOmcETWNEZHSxdhG5e9k.md) - [plain]
 | 66 | [Without You \- Talamanca Remix](https://open.spotify.com/track/36HizZHJizzPNislyyeqYc) | [Blood Groove & Kikis](https://open.spotify.com/artist/7KIJwcYLtYSSNmP8KzmA9V), [Talamanca](https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk) | [Without You Remixes](https://open.spotify.com/album/5TP036iONyqioBP1azdaCQ) | 7:03 |
 | 67 | [Return to Paradise \- Nipika Remix](https://open.spotify.com/track/0lh6F43g0ZiLSCNIiPtuJo) | [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA), [Nipika](https://open.spotify.com/artist/00xLgjFkwM6G1ufrFJGd7g) | [Return to Paradise \[The Remixes\]](https://open.spotify.com/album/1iPmSRRJEZyzA0J0OxS1mv) | 7:12 |
 | 68 | [Stormwatch \- Chris Reece & Dinka Old Fashion Mix](https://open.spotify.com/track/77ijcYrPkK8OYaVuK0gDRu) | [Helvetic Nerds](https://open.spotify.com/artist/5vKOPKIOlbrbysX7KrsCXS) | [Stormwatch](https://open.spotify.com/album/6tQyMZ4E1tO0cTROcWUtRC) | 8:22 |
+| 69 | [Lonely Shore](https://open.spotify.com/track/033TGcyIjbXIMF6ZgHrYq3) | [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0), [Arielle Maren](https://open.spotify.com/artist/7MbnTNfDyXb2vTM1GYXsLV), [RNX](https://open.spotify.com/artist/6MvuP20356EIRrCDMI92jc) | [Lonely Shore \(Incl\. Blood Groove & Kikis Remix\)](https://open.spotify.com/album/2NAMJBTzrWINdSVj8oibsr) | 4:00 |
+| 70 | [Malaga \- Original Mix](https://open.spotify.com/track/0o3xdNut7NLMwHibznJQdF) | [Talamanca](https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk), [Vitodito](https://open.spotify.com/artist/16mF4YXC1sZZWNjZoJoxd2) | [Encanta's Winter Picks \- 2015](https://open.spotify.com/album/5bOV5hnnvNNKDugKf0wHOS) | 7:20 |
 
-Snapshot ID: `NzksZDc2OWQyYzM1ZjcyMGM4MTQ4NjQ3MzQ2NjUxNWU2ZDBiMDc0OTk3Yg==`
+Snapshot ID: `ODEsYmI0NWE5ODIyMGE2Mjk4NDkwNTEwNjdiNTE2YjAwZmVlMWY4Mjg0NQ==`

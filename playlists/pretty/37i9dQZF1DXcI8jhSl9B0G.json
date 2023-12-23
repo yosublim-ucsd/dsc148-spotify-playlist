@@ -1,12 +1,12 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 73879,
+  "num_followers": 73900,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzMzMzllNzAwMmQ0ZDY4OTQyOTgyMDNhMmZjZGYyODBmMTdjZmI1",
+  "snapshot_id": "MCwzMDAzNWQ1NTY1NGMyYWExNjExMWQ4MTg4ZTQxNWRiZWFjYzFlYTA1",
   "tracks": [
     {
       "added_at": "2023-11-30 13:00:00",
@@ -179,18 +179,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Running With The Wolves",
-        "url": "https://open.spotify.com/album/1bIiBK6CIaCkkzNREai3je"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/5QMbfVH8QFE6JhLNELYfEz"
       },
       "artists": [
         {
-          "name": "Azure Ryder",
-          "url": "https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8"
+          "name": "Paper Planes",
+          "url": "https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h"
         }
       ],
-      "duration_ms": 163821,
-      "name": "Wolves",
-      "url": "https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn"
+      "duration_ms": 105913,
+      "name": "Girl Like You",
+      "url": "https://open.spotify.com/track/6j4mDM1LbxbTpiLC7FBCDd"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -211,18 +211,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/5QMbfVH8QFE6JhLNELYfEz"
+        "name": "Running With The Wolves",
+        "url": "https://open.spotify.com/album/1bIiBK6CIaCkkzNREai3je"
       },
       "artists": [
         {
-          "name": "Paper Planes",
-          "url": "https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h"
+          "name": "Azure Ryder",
+          "url": "https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8"
         }
       ],
-      "duration_ms": 105913,
-      "name": "Girl Like You",
-      "url": "https://open.spotify.com/track/6j4mDM1LbxbTpiLC7FBCDd"
+      "duration_ms": 163821,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -707,8 +707,8 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Bloodline",
-        "url": "https://open.spotify.com/album/06QkdzdXGYuSxLYl9jhGMd"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/2sX4r8NdgrNtHGT25Q82OZ"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6"
         }
       ],
-      "duration_ms": 300915,
-      "name": "Book Full Of Answers",
-      "url": "https://open.spotify.com/track/0OhhOKtQ7wb3YmcWlIEi1h"
+      "duration_ms": 252000,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3jLSMjgrvUXqohD1lPHELt"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -819,8 +819,8 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/2sX4r8NdgrNtHGT25Q82OZ"
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/06QkdzdXGYuSxLYl9jhGMd"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6"
         }
       ],
-      "duration_ms": 252000,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/3jLSMjgrvUXqohD1lPHELt"
+      "duration_ms": 300915,
+      "name": "Book Full Of Answers",
+      "url": "https://open.spotify.com/track/0OhhOKtQ7wb3YmcWlIEi1h"
     },
     {
       "added_at": "2023-11-30 13:00:00",

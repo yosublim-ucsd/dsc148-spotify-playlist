@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5tYqFEuFELxnJZgGmmsfSh">Catz 'n Dogz</a>' favorite tracks\. Updated regularly\. Curated by Catz 'n Dogz\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-144 songs - 13 hr 43 min
+145 songs - 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Emulation](https://open.spotify.com/track/7k75tBXtZtWV24ilPMQxte) | [P.Lopez](https://open.spotify.com/artist/11ucuGrA6GDszPi17MMcSk), [Vera Brothers](https://open.spotify.com/artist/3hdMsvrjxD3ALza3EqdTiQ) | [Emulation \(feat\. Vera Brothers\)](https://open.spotify.com/album/5O9XsQKZp8YJ6X21fm4Dm8) | 6:07 | 2022-07-23 |  |
 | [Enjoy](https://open.spotify.com/track/4G3NyIKyIY9A98QAGY3gM3) | [Iron Curtis](https://open.spotify.com/artist/3SxSMKGboN9d8DxDRIB7pH), [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt) | [Moon III](https://open.spotify.com/album/27iqJdbf0OjVwFyDdw4nq4) | 3:17 | 2022-07-23 |  |
 | [Every Single Night](https://open.spotify.com/track/3FwKgFYuPzXLw0nnepnUp7) | [The Deepshakerz](https://open.spotify.com/artist/22xFYRBuSniRzAYugJFjvY) | [Don't Call It Love EP](https://open.spotify.com/album/4YSLcB6LDE2oy58wXzCoUs) | 3:26 | 2022-07-23 |  |
-| [Everybody](https://open.spotify.com/track/7qzzFtgZIhp66q3ZhMX7LC) | [You Man](https://open.spotify.com/artist/7J7wDWLxbvVQdozTVeNWdp), [Jerge](https://open.spotify.com/artist/4irc3y7F0tnbvqhcxbolLT) | [Everybody](https://open.spotify.com/album/1Sp4gV9zgBnxDdZoYJpiPl) | 4:37 | 2023-09-25 |  |
+| [Everybody](https://open.spotify.com/track/61LkSDHo4ii0w3NuitLcCZ) | [You Man](https://open.spotify.com/artist/7J7wDWLxbvVQdozTVeNWdp), [Jerge](https://open.spotify.com/artist/4irc3y7F0tnbvqhcxbolLT) | [Everybody](https://open.spotify.com/album/0GEElRHZF8jaRlD5WC1jLX) | 4:37 | 2023-09-25 |  |
+| [Everybody](https://open.spotify.com/track/7qzzFtgZIhp66q3ZhMX7LC) | [You Man](https://open.spotify.com/artist/7J7wDWLxbvVQdozTVeNWdp), [Jerge](https://open.spotify.com/artist/4irc3y7F0tnbvqhcxbolLT) | [Everybody](https://open.spotify.com/album/1Sp4gV9zgBnxDdZoYJpiPl) | 4:37 | 2023-09-25 | 2023-12-23 |
 | [Fantasms](https://open.spotify.com/track/2ZQxK2Ja2KpvAaam8eVttS) | [Monty Luke](https://open.spotify.com/artist/6OTl4OdD4K4Lc13b7vR3mT) | [Vibe The Feel](https://open.spotify.com/album/14ibEesmRhc1etQIMnOIpx) | 5:47 | 2022-07-23 |  |
 | [Feed My Hunger \(No Shade\)](https://open.spotify.com/track/0hsjCTNkruMDApePUJZMKv) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [myst milano.](https://open.spotify.com/artist/0J1rVE3RunTC4Pm8ohPM7z) | [Feed My Hunger \(No Shade\)](https://open.spotify.com/album/6IpuoQShDOYowPqkxzG8Ku) | 2:24 | 2022-11-21 |  |
 | [Find Your Way Home](https://open.spotify.com/track/0WoxURnxMhMHVEZpK04KzU) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [She's Calling EP](https://open.spotify.com/album/4QIzvwiurfYaLWAATLXU0N) | 8:17 | 2022-07-23 | 2023-11-05 |

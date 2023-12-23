@@ -4,7 +4,7 @@
 
 > <a href="https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3?si=vZTYiE8JQ\-qPyy0ERszIyg"> Marwan Pablo </a> : اسمعوا الميلوديز على ملوك السين\. غلاف
 
-255 songs - 12 hr 59 min
+256 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [AFROTO TYPE BEAT](https://open.spotify.com/track/2wkzNBwQFb6jQPnX8LFaU8) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [3](https://open.spotify.com/album/7LNlUUOzPMmdVLFq3wi353) | 2:37 | 2023-05-25 | 2023-07-27 |
 | [Ahmed Santa](https://open.spotify.com/track/6GJQiSob1lScp9tnlTvMfp) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Santa El Gded](https://open.spotify.com/album/00hLqAlvE3EiF1bsPoE43a) | 2:31 | 2022-08-23 |  |
 | [AHWAGY](https://open.spotify.com/track/37EWbHlj1GLBqC2pFT0XXh) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/3CgLfVX8nK0jEZZMY3PHM1) | 3:21 | 2022-08-08 | 2022-11-08 |
-| [Algham](https://open.spotify.com/track/2omOoA2OZT6WknldqlJIJj) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [Algham](https://open.spotify.com/album/4Rt5knrXLMrv82PkbRawDb) | 2:47 | 2023-10-05 |  |
+| [Algham](https://open.spotify.com/track/2omOoA2OZT6WknldqlJIJj) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [Algham](https://open.spotify.com/album/4Rt5knrXLMrv82PkbRawDb) | 2:47 | 2023-10-05 | 2023-12-23 |
 | [Aloomek](https://open.spotify.com/track/4U7uW9KlqalDKu8ff9OyDm) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Beeny we Beenek](https://open.spotify.com/album/198vpQGBG1ZBoLCpxR1Qvn) | 5:06 | 2022-05-10 | 2023-05-26 |
 | [Amar](https://open.spotify.com/track/19QZmE8ctW3y569h1TkL5W) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Bye](https://open.spotify.com/album/3SmWFNWaftpdq1hwvQjQuI) | 3:12 | 2023-07-10 | 2023-08-18 |
 | [AMTAR](https://open.spotify.com/track/5AGeNYpstVBpFn8IW2KqS7) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [El Sahaba Bonus](https://open.spotify.com/album/1J3NZMlu9mW7W1Pjvo0jrC) | 2:48 | 2022-10-10 | 2023-03-23 |
@@ -202,6 +202,7 @@
 | [TEENA](https://open.spotify.com/track/4SkC4URje6uTXQfYyVNXzm) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [TEENA](https://open.spotify.com/album/7I91H8tRd87f94rpb8cdcr) | 2:50 | 2022-05-10 | 2022-06-15 |
 | [Tege Goal](https://open.spotify.com/track/5ptN0LBbIyZrxP9RLAwq5N) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Tege Goal](https://open.spotify.com/album/4b8EdoD1qXfDm5yOcuED90) | 3:16 | 2022-05-10 | 2023-05-26 |
 | [TOTLOB AMA TOTLOB](https://open.spotify.com/track/48Tb5rkF6XzPuHFtVem5lS) | [El Joker](https://open.spotify.com/artist/0CXSHigx5x1U6jMhrNJkm0) | [TOTLOB AMA TOTLOB](https://open.spotify.com/album/3VbJrDvIbE8Is5Hio348xk) | 5:12 | 2022-05-10 | 2022-07-07 |
+| [Tripod](https://open.spotify.com/track/2zdeJ6HoDILFngbzHuWq8W) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Placebo Ch.1](https://open.spotify.com/album/1W1DA6VBq40gfW93VZQWIy) | 3:48 | 2023-12-22 |  |
 | [Tuta Ankh Amoon](https://open.spotify.com/track/4e1btGGrZAkjOobdKywSgJ) | [Batistuta](https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo), [MiniM](https://open.spotify.com/artist/1dj1W9b1aM6GcE2FcVU34E) | [Tuta Ankh Amoon](https://open.spotify.com/album/0pDygh7XVUENUB9jhsA3p1) | 3:57 | 2022-09-13 | 2022-10-21 |
 | [Ultra Attack](https://open.spotify.com/track/1sMQ7tHNtu0TbE8L15EC2h) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Belad](https://open.spotify.com/album/4dma2sup0ZuktV7iX08wdV) | 2:39 | 2023-05-16 | 2023-08-09 |
 | [VALENTINO](https://open.spotify.com/track/1Mtf8OuYCofl0H4p9HI6o7) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP) | [SAN STEFANO](https://open.spotify.com/album/0AkGcmpMk9Ctaa8LgigTT1) | 2:37 | 2022-07-30 | 2022-08-24 |

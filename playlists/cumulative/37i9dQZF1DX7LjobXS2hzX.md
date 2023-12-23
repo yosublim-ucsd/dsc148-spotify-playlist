@@ -2,7 +2,7 @@
 
 ### [La Hit Liste](https://open.spotify.com/playlist/37i9dQZF1DX7LjobXS2hzX)
 
-> Voici les hits du moment\. Photo: Yamê
+> Voici les hits du moment\. Photo: Bad Bunny
 
 341 songs - 18 hr 1 min
 

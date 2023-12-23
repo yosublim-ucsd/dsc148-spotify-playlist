@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRMdeGCgprt.md) - [plain]
 
 > Get into the rhythm of SXSW '17 with this collection of tracks from artists set to perform this year\. Cover: <a href="spotify:artist:4TsHKU8l8Wq7n7OPVikirn">Jidenna</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,294 likes - 23 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,295 likes - 23 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRMdeGCgprt.md) - [plain]
 | 7 | [Frustrated](https://open.spotify.com/track/1NXZqhIPiiB8oJtleFhCpu) | [R.LUM.R](https://open.spotify.com/artist/7JBZN2pehWRUu3fX11lP2y) | [Frustrated](https://open.spotify.com/album/6bIe2wMggGlPkrv8jMVWA1) | 3:21 |
 | 8 | [Free Your Dreams](https://open.spotify.com/track/5PnU3hbaqWlZDRib6iXcH2) | [Chantae Cann](https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR), [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Journey to Golden](https://open.spotify.com/album/6rW9csriPeZWsegHMOhpAh) | 4:59 |
 | 9 | [Suite Poetry](https://open.spotify.com/track/713k05dVPAnEyh6LsCoejl) | [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Jessica Care Moore](https://open.spotify.com/artist/4kjUXLlk49BHRmOMJmGKdj) | [Headnod Suite](https://open.spotify.com/album/7FuXUobpTFPSCldrdU1jaL) | 3:18 |
-| 10 | [I Really Don't Care](https://open.spotify.com/track/0oF0fJdtqJE9g1MJwnE6dU) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [In Another Life](https://open.spotify.com/album/1vqLH6G459w4pRGElplhkV) | 2:59 |
+| 10 | [I Really Don't Care](https://open.spotify.com/track/1mF1j3g3FxJNtlXijLR5Km) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [In Another Life](https://open.spotify.com/album/4zGlqgmEpt5lVuueJmmYaP) | 2:59 |
 | 11 | [I'm Leaving You \(feat\. Ledisi & John Scofield\)](https://open.spotify.com/track/4m6UKPkoGeSAuA2jRvo9hk) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Everything's Beautiful](https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh) | 3:13 |
 | 12 | [Got Me Loose](https://open.spotify.com/track/4xsjRZgz4eKl4MdAZ8afjJ) | [Reesa Renee](https://open.spotify.com/artist/1sP9nzoMXxaI0LiU1uWoLL) | [Got Me Loose](https://open.spotify.com/album/0u5pSvtfkTrcAwf11TxxFW) | 3:57 |
 | 13 | [Three Story Home](https://open.spotify.com/track/6iW5PhSMJrGrZJWHqsydmo) | [Earl St\. Clair](https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5) | [My Name Is Earl](https://open.spotify.com/album/4ZFj9ZGycCJdFCeZrFyOlz) | 4:15 |
@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRMdeGCgprt.md) - [plain]
 | 22 | [Smile](https://open.spotify.com/track/6mUUv0qz4deyMO7jB5drzU) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/3idaZ1PVAh5zF50jEipyEq) | 3:49 |
 | 23 | [You & I](https://open.spotify.com/track/02o0U7KH4t9oPUObu3e38c) | [Raul Midón](https://open.spotify.com/artist/2z3984YB48d3CFltzVlFYE) | [Bad Ass and Blind](https://open.spotify.com/album/0NtTUwDr61O8PFNUFSrmKz) | 3:42 |
 
-Snapshot ID: `MCwyZTNjODExNDk2NGZkZTY2YTUxYzlkYjNhMTUyZTg3YTE3ZTIyZmFi`
+Snapshot ID: `MCw0NTM2NjlmZmYzNDQxYWFmNTVhOWJhZDc2Yjc5MjI1MzljZGFiNDc4`

@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-335 songs - 19 hr 17 min
+336 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,7 @@
 | [No Sé Decirte No](https://open.spotify.com/track/7ukRl9q1yVYO2j5SXwvjaB) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Estas Canciones Me Recuerdan a Ti](https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM) | 3:54 | 2021-12-09 |  |
 | [No Te Culpo](https://open.spotify.com/track/4VRTsI1hON7hSTSzDN3lAO) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [No Te Culpo](https://open.spotify.com/album/4aqRo9Hj7bKZWHcUBELK3C) | 4:16 | 2021-12-09 | 2022-12-31 |
 | [No Te Voy a Ver](https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z) | [Claire Delić](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [No Te Voy a Ver](https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL) | 3:37 | 2021-12-09 |  |
-| [no vuelvas a mirar atrás](https://open.spotify.com/track/0fDRELbqeJ8nlkZJT3UvwQ) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [no vuelvas a mirar atrás](https://open.spotify.com/album/0aJ6gjjfwHDPEDHeltfuu7) | 4:05 | 2022-09-21 |  |
+| [no vuelvas a mirar atrás](https://open.spotify.com/track/0fDRELbqeJ8nlkZJT3UvwQ) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [no vuelvas a mirar atrás](https://open.spotify.com/album/0aJ6gjjfwHDPEDHeltfuu7) | 4:05 | 2022-09-21 | 2023-12-23 |
 | [no vuelvas a mirar atrás](https://open.spotify.com/track/5TmUCweI7JXVWxn1zHJzyN) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [no vuelvas a mirar atrás](https://open.spotify.com/album/05bj3fX7Wrs45EBPp35bBQ) | 4:05 | 2021-12-09 | 2022-10-13 |
 | [November Rain \- B&H Version](https://open.spotify.com/track/2sO2B8YGt8Bi9p3tgmSdlC) | [Ghetto Blaster Ltd.](https://open.spotify.com/artist/0g6rXs7y0Xalc9NSqM3jER) | [Bossa N' Roses](https://open.spotify.com/album/2tQASTYJPc7QQ9GCVbtXfo) | 4:51 | 2022-04-07 | 2022-10-28 |
 | [Nuestro Amanecer](https://open.spotify.com/track/36KOwkfm9glzKJ62jo7hNr) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Cuando Los Acéfalos Predominan](https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW) | 3:56 | 2022-12-30 |  |
@@ -296,6 +296,7 @@
 | [Te Quiero Con Bugalú](https://open.spotify.com/track/0uRr2EBqlCu2CLa8LmQc2c) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [iLevitable](https://open.spotify.com/album/0gHFIMoIvLqYw13PtRd2ky) | 4:09 | 2022-08-05 |  |
 | [Te quiero muchísimo](https://open.spotify.com/track/1F0Zw6lOUTeBnNG39yt7Mi) | [Alex Granero](https://open.spotify.com/artist/1g3OTLUr6xaFaiB01k9gw2) | [Te quiero muchísimo](https://open.spotify.com/album/1ObRBAN0pcjy7XVrX6TldV) | 4:00 | 2022-05-14 |  |
 | [Te quiero muchísimo](https://open.spotify.com/track/2cImsnqZsLYhTVDKfWWINr) | [Alex Granero](https://open.spotify.com/artist/1g3OTLUr6xaFaiB01k9gw2) | [Te quiero muchísimo](https://open.spotify.com/album/475RvHwQ9OvQWtl3gEl280) | 4:00 | 2021-12-09 | 2022-07-29 |
+| [Te Quiero Olvidar](https://open.spotify.com/track/2u1UkcNp5l0NgTGjfl7fmZ) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/360aJ4E4087KXU6ESyvjL3) | 3:22 | 2023-12-01 |  |
 | [Te Quiero Olvidar](https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Te Quiero Olvidar](https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY) | 3:22 | 2021-12-09 | 2023-12-09 |
 | [Te Quiero y Nada Más](https://open.spotify.com/track/231pfMiC6M3uoGL6O040wx) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Te Quiero y Nada Más](https://open.spotify.com/album/1kVJ7GB3MUhabGNAip8URA) | 3:12 | 2021-12-09 | 2022-10-28 |
 | [Te Tengo Que Meter En Mi Vida \(Versión Acústica\)](https://open.spotify.com/track/4SIo06ibYgeT2BYcgld91I) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Canapecito](https://open.spotify.com/album/75TluJ3aGAelm57vQ3Hdo6) | 3:40 | 2022-05-14 | 2022-10-28 |

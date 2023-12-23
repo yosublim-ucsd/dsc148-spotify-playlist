@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-926 songs - 2 day 5 hr 44 min
+927 songs - 2 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -559,6 +559,7 @@
 | [ngủ một mình](https://open.spotify.com/track/7opF2QJ8gzlxbV0eBIqszE) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [Negav](https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v), [Kewtiie](https://open.spotify.com/artist/0wATZebE9ZNj7fTjTdwiJB) | [ngủ một mình](https://open.spotify.com/album/5NJXb5RyhAIY2ooqumkSyA) | 3:01 | 2022-12-20 | 2023-02-20 |
 | [ngủ một mình \(tình rất tình\)](https://open.spotify.com/track/76dD9BdSOzsRJSGGBjOcUf) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [Negav](https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v), [Kewtiie](https://open.spotify.com/artist/0wATZebE9ZNj7fTjTdwiJB) | [ngủ một mình \(tình rất tình\)](https://open.spotify.com/album/24GVnl6IHS4453WEGwp65Y) | 3:12 | 2022-12-27 | 2023-12-14 |
 | [Như Anh Đã Thấy Em](https://open.spotify.com/track/7h2zqUH4bYyknNUxsYnS5V) | [PhucXP](https://open.spotify.com/artist/6fCJf6pkYTHfW1XPc1d4vO), [Freak D](https://open.spotify.com/artist/1yNjtowTJs05S2Xp2g7stg) | [Như Anh Đã Thấy Em](https://open.spotify.com/album/2FwiyoWhDcZlR7Cr6PMHLF) | 5:02 | 2023-01-25 | 2023-03-05 |
+| [nhắn nhủ](https://open.spotify.com/track/2uZmeuNAxSm7XfVIwLkhCx) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [nhắn nhủ](https://open.spotify.com/album/5KNYrzFkKcSl7wzRYRuFjE) | 4:01 | 2023-12-22 |  |
 | [Những Lời Hứa Bỏ Quên](https://open.spotify.com/track/1bG6Q8sR8jda7ryI365y8o) | [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs), [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [Những Lời Hứa Bỏ Quên](https://open.spotify.com/album/0z9p71YszjfOWS1lmQ4W51) | 3:56 | 2023-12-16 |  |
 | [những đốm sáng](https://open.spotify.com/track/1TJtZKZFq2rdh9Wfpm15Nw) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [ái](https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6) | 4:02 | 2023-08-18 | 2023-08-24 |
 | [No More Dream](https://open.spotify.com/track/6GoFIkTKX9CIGgM9APx5UB) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Best Of BTS \(Korea Edition\)](https://open.spotify.com/album/6IzIrnssfyQVtYZ9RDJfkh) | 3:43 | 2022-06-11 | 2022-06-14 |
@@ -843,7 +844,7 @@
 | [Va Vào Giai Điệu Này](https://open.spotify.com/track/4HHtyJdZVuefcyRmBUcyth) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 3:10 | 2023-03-04 | 2023-03-07 |
 | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/track/25h0TqC9H3BcMA7KjK5nHK) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [vaicaunoicokhiennguoithaydoi](https://open.spotify.com/album/5Gu0Ldddj2f6a0q5gitIok) | 3:45 | 2022-06-21 |  |
 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-01 | 2023-07-23 |
-| [Van Gogh \(feat\. Ashley Alisha\)](https://open.spotify.com/track/1sEOTXdVl8X7SzuJi0P1cq) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk) | [Goodbye 2022](https://open.spotify.com/album/5kTSDjeJ7RErbxbA3rLfn8) | 3:12 | 2023-12-10 |  |
+| [Van Gogh \(feat\. Ashley Alisha\)](https://open.spotify.com/track/1sEOTXdVl8X7SzuJi0P1cq) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk) | [Goodbye 2022](https://open.spotify.com/album/5kTSDjeJ7RErbxbA3rLfn8) | 3:12 | 2023-12-10 | 2023-12-23 |
 | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [VIBE \(feat\. Jimin of BTS\)](https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ) | 2:55 | 2023-01-15 | 2023-03-21 |
 | [Victorious](https://open.spotify.com/track/2pm1GTb24KWgbBHGKlYr0i) | [K\-ICM](https://open.spotify.com/artist/6mD6SQbvl9pILx7SAHBzbq) | [Victorious](https://open.spotify.com/album/38DL0Sxx17dD0Oz0HWL98k) | 3:56 | 2021-11-27 | 2021-12-25 |
 | [Vigilante Shit](https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:44 | 2022-10-22 | 2022-10-29 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "All of the newest country music releases in one playlist! Featuring Midland, Troy Cartwright, Taylor Edwards and more.",
+  "description": "All of the newest country music releases in one playlist! Featuring Midland, Waylon Wyatt, Taylor Edwards and more.",
   "name": "New Music Friday Country",
   "tracks": [
     {
@@ -3980,7 +3980,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 219229,
       "name": "Always on My Mind - Live at The Hollywood Bowl, Los Angeles, CA - April 30, 2023",
       "url": "https://open.spotify.com/track/4aObShc8vjide6u2ogvrD4"
@@ -5126,6 +5126,24 @@
       "duration_ms": 192733,
       "name": "Are You Okay?",
       "url": "https://open.spotify.com/track/7wy3CSZogtwp6wCwSTeTew"
+    },
+    {
+      "album": {
+        "name": "Arkansas Diamond",
+        "url": "https://open.spotify.com/album/4YEBJybTO3VzCAG2nUbzZa"
+      },
+      "artists": [
+        {
+          "name": "Waylon Wyatt",
+          "url": "https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183477,
+      "name": "Arkansas Diamond",
+      "url": "https://open.spotify.com/track/75SAnNqcLsh5rg17isiPM8"
     },
     {
       "album": {
@@ -16420,6 +16438,24 @@
       "duration_ms": 222603,
       "name": "Cold Hearted",
       "url": "https://open.spotify.com/track/4CqCfVF7Zvr3HIt8nr1P98"
+    },
+    {
+      "album": {
+        "name": "Cold in Amarillo",
+        "url": "https://open.spotify.com/album/6lttcBewYggLrjfupRTvOq"
+      },
+      "artists": [
+        {
+          "name": "Luke Levenson",
+          "url": "https://open.spotify.com/artist/0pKtFEz6xH7d3HPZVDQsyN"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178858,
+      "name": "Cold in Amarillo",
+      "url": "https://open.spotify.com/track/0dX3z3unBedzLrNbNpIwZa"
     },
     {
       "album": {
@@ -32962,7 +32998,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 144761,
       "name": "Good Times Go By Too Fast (VAVO Remix)",
       "url": "https://open.spotify.com/track/7e5i1t1bzZxUQckJrDbFi5"
@@ -36792,6 +36828,24 @@
       "duration_ms": 195401,
       "name": "Hell of a Life",
       "url": "https://open.spotify.com/track/38TMYBDb24qk23BWV3PJNz"
+    },
+    {
+      "album": {
+        "name": "Hell Of A Life",
+        "url": "https://open.spotify.com/album/0AfQW7SM7GUBZIUjNdWYst"
+      },
+      "artists": [
+        {
+          "name": "Kylie Frey",
+          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195195,
+      "name": "Hell Of A Life - Stripped",
+      "url": "https://open.spotify.com/track/0pISoM5qU663K6BDncua7O"
     },
     {
       "album": {
@@ -40626,6 +40680,24 @@
       "duration_ms": 189833,
       "name": "Hungover High",
       "url": "https://open.spotify.com/track/02Itey2R8caJSR2e7aFgJb"
+    },
+    {
+      "album": {
+        "name": "Live in Calgary",
+        "url": "https://open.spotify.com/album/4NyYmRTAVLfLXPcCrskEv9"
+      },
+      "artists": [
+        {
+          "name": "Skrizzly Adams",
+          "url": "https://open.spotify.com/artist/6cHNKcqDykgDCRgnvKdSfK"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Hungover High",
+      "url": "https://open.spotify.com/track/1PZcDf2JZvBS9H6cNpcnYq"
     },
     {
       "album": {
@@ -46481,6 +46553,24 @@
     },
     {
       "album": {
+        "name": "Jack",
+        "url": "https://open.spotify.com/album/2Ezis6OCFUie1No89kGuRA"
+      },
+      "artists": [
+        {
+          "name": "Elliott Adkins",
+          "url": "https://open.spotify.com/artist/4hs8ulc0xzazY44rO51oei"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177967,
+      "name": "Jack",
+      "url": "https://open.spotify.com/track/27TRbvBYhaTbuuqGiwKW5j"
+    },
+    {
+      "album": {
         "name": "JACK",
         "url": "https://open.spotify.com/album/46dR56iHGOs4sN5CAOfZnc"
       },
@@ -48234,6 +48324,24 @@
       "duration_ms": 175493,
       "name": "Keys To The Country",
       "url": "https://open.spotify.com/track/12ZicG8o3Ehwk7NoClvtbp"
+    },
+    {
+      "album": {
+        "name": "Kick Rocks",
+        "url": "https://open.spotify.com/album/6ABiF2HxeGxr3zTfHE87DQ"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Preschel",
+          "url": "https://open.spotify.com/artist/3CC195URpYwajMy2YYOIIP"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192016,
+      "name": "Kick Rocks",
+      "url": "https://open.spotify.com/track/4jOmS8OWmssEOkkl23Kvia"
     },
     {
       "album": {
@@ -59346,7 +59454,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 214466,
       "name": "My Inheritance (feat. Corey Kent)",
       "url": "https://open.spotify.com/track/7HhAzrseYW1JI1Mqj5CWYq"
@@ -76568,6 +76676,24 @@
       "duration_ms": 185972,
       "name": "SOMEONE",
       "url": "https://open.spotify.com/track/3ufFl7iuosRsjdbGApNd23"
+    },
+    {
+      "album": {
+        "name": "someone (acoustic)",
+        "url": "https://open.spotify.com/album/41EFUZQZJwhv4GgDkc8chT"
+      },
+      "artists": [
+        {
+          "name": "Jake Ryan",
+          "url": "https://open.spotify.com/artist/6MLqusyj444MZE7fKdWUnd"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214800,
+      "name": "someone - acoustic",
+      "url": "https://open.spotify.com/track/7g9nGXsLKiYqCK2vOK1bml"
     },
     {
       "album": {

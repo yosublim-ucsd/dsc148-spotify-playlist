@@ -970,7 +970,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 210218,
       "name": "All the Way",
       "url": "https://open.spotify.com/track/5Z6ZEZlVbXQyUaKicZZtFG"
@@ -1775,6 +1775,24 @@
     },
     {
       "album": {
+        "name": "Bad Happens",
+        "url": "https://open.spotify.com/album/19hUmdVyZPYY9Wwg0JoqUB"
+      },
+      "artists": [
+        {
+          "name": "Jon Bryant",
+          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189440,
+      "name": "Bad Happens",
+      "url": "https://open.spotify.com/track/2ucwNixGWXhuzxVT2sW6BM"
+    },
+    {
+      "album": {
         "name": "Sad People Dancing",
         "url": "https://open.spotify.com/album/4hFKfGGgolUCMoS1kWpdUb"
       },
@@ -1988,7 +2006,7 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 191576,
       "name": "Beggars",
       "url": "https://open.spotify.com/track/5INKVy5tC1hqEW3f3zfVWC"
@@ -2302,7 +2320,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 230000,
       "name": "Big City",
       "url": "https://open.spotify.com/track/3uf7jjUpzDhNT6XEdNHUQt"
@@ -4171,6 +4189,24 @@
     },
     {
       "album": {
+        "name": "Craving",
+        "url": "https://open.spotify.com/album/2QuTqltRhdGF4jjNc4r6iT"
+      },
+      "artists": [
+        {
+          "name": "VICTORS",
+          "url": "https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221624,
+      "name": "Craving",
+      "url": "https://open.spotify.com/track/7CHdjR9MASwI8Fz6cLtGWd"
+    },
+    {
+      "album": {
         "name": "Craving (Stripped)",
         "url": "https://open.spotify.com/album/7uG3SBqzM4mZlStF8jCKWI"
       },
@@ -4618,7 +4654,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 155224,
       "name": "Dissonance",
       "url": "https://open.spotify.com/track/5T6HL1eFT1CG27YQpiNWsQ"
@@ -5526,7 +5562,7 @@
       ],
       "date_added": "2022-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 251000,
       "name": "Escape",
       "url": "https://open.spotify.com/track/5vcXZBMm0gbMMLPnzfQA4A"
@@ -7136,7 +7172,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 206400,
       "name": "Get Better",
       "url": "https://open.spotify.com/track/63a8sFZAZ6HgskOUatU7Ye"
@@ -7370,7 +7406,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 212200,
       "name": "Give Me Your Fire, Give Me Your Rain",
       "url": "https://open.spotify.com/track/7obe8UuHv5wSDaNZh93Kvk"
@@ -7496,7 +7532,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 215823,
       "name": "Gold",
       "url": "https://open.spotify.com/track/6roiPaka61jSTdVIH5B35F"
@@ -10266,7 +10302,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 174864,
       "name": "Just Like Heaven",
       "url": "https://open.spotify.com/track/5zVHwBeY73uCLcHVmgeQt8"
@@ -10288,6 +10324,24 @@
       "duration_ms": 255818,
       "name": "Just Like That",
       "url": "https://open.spotify.com/track/3S1WVAi9LFCksqK3PWeBUt"
+    },
+    {
+      "album": {
+        "name": "Love / Hate",
+        "url": "https://open.spotify.com/album/0HMXQYaPCe2qPYu0qwZ45F"
+      },
+      "artists": [
+        {
+          "name": "Drive!Drive!",
+          "url": "https://open.spotify.com/artist/2MMiWw6zFACcD3LhbZktKb"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206760,
+      "name": "Just Say",
+      "url": "https://open.spotify.com/track/1kf7XtULPbHJGGAb27srHC"
     },
     {
       "album": {
@@ -11236,7 +11290,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 298628,
       "name": "Looking for Love",
       "url": "https://open.spotify.com/track/5UvcNAtYa3davlDx7FoHXG"
@@ -12004,7 +12058,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 202280,
       "name": "Make Believe",
       "url": "https://open.spotify.com/track/5qE1naYtLuNkoS5G35GfAQ"
@@ -12022,7 +12076,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 191213,
       "name": "Make It Me",
       "url": "https://open.spotify.com/track/6yBuSvfT1HVFdo2p5BUejp"
@@ -14240,7 +14294,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 276480,
       "name": "On the Corner Where You Live",
       "url": "https://open.spotify.com/track/3R09tujAEHItiHfiPgC4Lc"
@@ -14754,7 +14808,7 @@
       ],
       "date_added": "2022-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 206600,
       "name": "Pale Ash",
       "url": "https://open.spotify.com/track/5udeA3sg1rTBxSBMmc9o5y"
@@ -15726,7 +15780,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 240532,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/7zO6KQDrxDwhJqE6goQ5s7"
@@ -18388,7 +18442,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 176557,
       "name": "Talk to You",
       "url": "https://open.spotify.com/track/6v6cUseBFbR5J7UNl6VVHP"
@@ -20304,7 +20358,7 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 267440,
       "name": "Watching You",
       "url": "https://open.spotify.com/track/2eqmaS8xZHhXKntSa3b6YT"

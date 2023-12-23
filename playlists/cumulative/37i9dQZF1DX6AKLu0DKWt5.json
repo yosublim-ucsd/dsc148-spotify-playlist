@@ -392,7 +392,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 254386,
       "name": "Fought & Lost - Full Length TV Version",
       "url": "https://open.spotify.com/track/2VegZvwc34NF0RVqxjkwfY"
@@ -730,6 +730,32 @@
       "duration_ms": 267504,
       "name": "Nothing Is Lost (You Give Me Strength)",
       "url": "https://open.spotify.com/track/1DzJbVkBELu6jDu6q0T0tk"
+    },
+    {
+      "album": {
+        "name": "Maestro: Music by Leonard Bernstein (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3Eu9QPnzZEXpo0BzjWOLC4"
+      },
+      "artists": [
+        {
+          "name": "Leonard Bernstein",
+          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Yannick N\u00e9zet-S\u00e9guin",
+          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143925,
+      "name": "On the Town: Lonely Town. Pas de deux",
+      "url": "https://open.spotify.com/track/3EjSbCtOjkPci8yTvoRBqX"
     },
     {
       "album": {

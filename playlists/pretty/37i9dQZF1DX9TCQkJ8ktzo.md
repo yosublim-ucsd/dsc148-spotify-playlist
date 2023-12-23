@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 
 > This is the Latin soundtrack of the 60s! Cover: Rocío Dúrcal
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,260 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,290 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 | 49 | [Hay Ojitos](https://open.spotify.com/track/3f0ca0sbJefE05GrT69i1X) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Doble 2 En 1](https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy) | 2:42 |
 | 50 | [La Montaña](https://open.spotify.com/track/6ZKTF8RYIZuoANeYoBH752) | [Lucho Gatica](https://open.spotify.com/artist/4LCEJ7K3OmivUPkYYH9iZK) | [Grandes Éxitos de Lucho Gatica](https://open.spotify.com/album/56zOTEFBTqMxQQ1LHUAWpc) | 3:35 |
 
-Snapshot ID: `MCxjNTY2MmY1MDBiZDYyM2Q3YzYxNWFmOTczMjQwMTYwZTIzYzNjMWNh`
+Snapshot ID: `MCxhM2VlMmM4ZDk0ZjQ4NTE3Yzg4OWZjYWZhYzgwNTUzYmI4NWU0OTdm`

@@ -1684,7 +1684,7 @@
     {
       "album": {
         "name": "And You Are Me",
-        "url": "https://open.spotify.com/album/2nNgwgaNPoxJGT2nchbPrj"
+        "url": "https://open.spotify.com/album/2Zotdxc4VKc2yv0TuFjJRo"
       },
       "artists": [
         {
@@ -1695,6 +1695,24 @@
       "date_added": "2019-06-27",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 275520,
+      "name": "Keep The Wolves Away",
+      "url": "https://open.spotify.com/track/1YzIpqwnj5M8qylwn1Tr9Z"
+    },
+    {
+      "album": {
+        "name": "And You Are Me",
+        "url": "https://open.spotify.com/album/2nNgwgaNPoxJGT2nchbPrj"
+      },
+      "artists": [
+        {
+          "name": "Uncle Lucius",
+          "url": "https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW"
+        }
+      ],
+      "date_added": "2019-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
       "duration_ms": 275520,
       "name": "Keep The Wolves Away",
       "url": "https://open.spotify.com/track/1u7J5sEfgOVRt5bkfU2oGV"

@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX87WMoVNV42z.md) - [plain]
 | 4 | [Contortion](https://open.spotify.com/track/65RpJDjcRULTx5Cv7QZfm5) | [Exploited Body](https://open.spotify.com/artist/20gv4DyaxuAAx7eKzCs6mT) | [Contortion](https://open.spotify.com/album/5As6GPd25QG7LnCq72iuWd) | 2:48 |
 | 5 | [Kaks toisillemme hellää](https://open.spotify.com/track/2XIzjBL0Y2vVrtwjRdlccg) | [Figaro](https://open.spotify.com/artist/0WCZJZH5PtfXKwUQxjtNqn), [Vesala](https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP) | [Kaks toisillemme hellää](https://open.spotify.com/album/0ZX0wXTcPIzWxmD0bNpTlJ) | 3:20 |
 | 6 | [Toleka](https://open.spotify.com/track/52u6nZVqQ7zn8hJyFYrbd8) | [Gracias](https://open.spotify.com/artist/2GRNS6DnefxBzYSZXDc6ij) | [Toleka](https://open.spotify.com/album/0ShEiQRAmRm3gaip2odsmC) | 3:17 |
-| 7 | [Dirty Flag](https://open.spotify.com/track/1pyeRhqO8vIpUc0Ftd8cP3) | [Huoratron](https://open.spotify.com/artist/2SRSJhAtFtJRhizJMdf0Gt) | [XXVI Crimes of Love](https://open.spotify.com/album/29cO6UR0Vpmbf3sTPBnc2M) | 4:19 |
+| 7 | [Dirty Flag](https://open.spotify.com/track/74GPlKNxuByey0pXZgblgl) | [Huoratron](https://open.spotify.com/artist/2SRSJhAtFtJRhizJMdf0Gt) | [XXVI Crimes of Love](https://open.spotify.com/album/03j7isQ0Hj0HScT9h4y3RW) | 4:19 |
 | 8 | [Maternal Immortality](https://open.spotify.com/track/7cTEPqV9pmCJ7S1gvxYPCJ) | [J Sliwa](https://open.spotify.com/artist/1ouIlCuQAcCSjLtUnBqY0q) | [Eternal Now](https://open.spotify.com/album/7k9BvX3XRQm5KOKP7PFPxy) | 5:36 |
 | 9 | [Space Precious Time](https://open.spotify.com/track/5NTG7NR2WnZ2hp9BUHB1wR) | [K\-X\-P](https://open.spotify.com/artist/0X1s8yezRK3sQGRPsiTuLw) | [III Part 1](https://open.spotify.com/album/5bqgxE55draTeQfrYTwTyP) | 5:11 |
 | 10 | [Gasoo Ei Breikkei](https://open.spotify.com/track/2rOJQl0dCaR5sk9hBn4NE8) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4), [Mäkki](https://open.spotify.com/artist/2510ceejHZpIpxbGpiovch) | [Gasoo Ei Breikkei](https://open.spotify.com/album/5m7R7Uqm136FSlOOpEsJxF) | 2:05 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX87WMoVNV42z.md) - [plain]
 | 35 | [Bounce Forever](https://open.spotify.com/track/2VCW0ejFjCLhRzDvTdHva3) | [Universal Production Music](https://open.spotify.com/artist/04mwHdsbf5QYDOpktMFpSa) | [90s Dance Revival](https://open.spotify.com/album/4bTQiQsyWNCtqz9igE7KBx) | 1:53 |
 | 36 | [Pump Your Fist](https://open.spotify.com/track/1iDJC4X2GQBjVICZJQ0foc) | [Ruben Ayala](https://open.spotify.com/artist/1sXZK0Q1I1e0WeOjCv1i4s), [Jeffrey W Wade](https://open.spotify.com/artist/3gDlNsAF1Dwk02bke3nl0l), [Lester Raynel Ruffin](https://open.spotify.com/artist/7Guq3kAIknS5bSzXnOVG4p) | [Hip Hop R 'N' B Old Skool](https://open.spotify.com/album/3gf7Zq1CSTdJVfZdK8sOBs) | 2:35 |
 
-Snapshot ID: `MCxkNGM4MjY2NjE3MjllNDI5NmNlYzE0YTExYTAxY2ZlMjU4NzI1ODFh`
+Snapshot ID: `MCxjNTBjOWM3YjViYjkxODFkYzI1NTk4MmMxNTJlMTY3N2Q0OWFjM2U2`

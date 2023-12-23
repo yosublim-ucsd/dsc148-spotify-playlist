@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Hermanos Gutiérrez
 
-1,692 songs - 4 day 7 hr 26 min
+1,698 songs - 4 day 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,8 +110,10 @@
 | [Are You Dreaming](https://open.spotify.com/track/7FPXbA4rFwBGhvmdehwZW2) | [Sumbuck](https://open.spotify.com/artist/6T4OrfxxOTkAUKAe2gg9fZ), [Kama Vardi](https://open.spotify.com/artist/5Hkc7jwowpk34bekT1ptFU) | [Are You Dreaming](https://open.spotify.com/album/39dwFOgWi18oj1rwbLekwQ) | 2:51 | 2022-11-25 | 2023-04-01 |
 | [Are You Here For The Festival](https://open.spotify.com/track/0C91J60J0Z3kT2UmsZJges) | [Michael Hurley](https://open.spotify.com/artist/3XHvzfKFZkSXEUiZE4WrIz) | [The Time of the Foxgloves](https://open.spotify.com/album/0YKXY8IMJv2czFmhxKIiEy) | 3:56 | 2021-12-10 | 2022-02-19 |
 | [Are You Washed in the Blood?](https://open.spotify.com/track/0QB8S1OlJhA8fIWkiiBXsM) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [And Now, Let's Turn to Page…](https://open.spotify.com/album/6F4P5ZIpxK35FkaGe1d1sA) | 3:03 | 2022-01-28 | 2022-02-05 |
+| [Arkansas Diamond](https://open.spotify.com/track/75SAnNqcLsh5rg17isiPM8) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Arkansas Diamond](https://open.spotify.com/album/4YEBJybTO3VzCAG2nUbzZa) | 3:03 | 2023-12-22 |  |
 | [Arms of a Lover](https://open.spotify.com/track/1Higk6KB3ETVZw6dip0PyY) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Arms of a Lover](https://open.spotify.com/album/2KELaV63XzaF0MJ2FeIjVK) | 4:14 | 2022-06-17 | 2022-08-13 |
 | [As Sure As I’m Speaking](https://open.spotify.com/track/33BAnSQF1eYV3uP2sB47sm) | [Odie Leigh](https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU) | [The Only Thing Worse Than A Woman Who Lies Is A Girl Who’ll Tell Truths](https://open.spotify.com/album/26sB0HxlHsy0oM4LJ6jjNv) | 2:42 | 2023-07-14 | 2023-09-16 |
+| [Asymmetry](https://open.spotify.com/track/42PkrZXRieevKfmgxOfDFv) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Asymmetry](https://open.spotify.com/album/7hUysjVpItw73HUo8VS5Tq) | 4:04 | 2023-12-22 |  |
 | [Atlantis](https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [A Pillar of Salt](https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ) | 5:19 | 2021-11-12 | 2022-01-29 |
 | [Atomized](https://open.spotify.com/track/0vSOiAgMIduuVfloqlaf2t) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Atomized](https://open.spotify.com/album/057lK6W2g5aC8x8gtvtkII) | 4:45 | 2022-03-18 | 2022-04-29 |
 | [Aw Jeez](https://open.spotify.com/track/0iBCiqgiu2afgvBhPBBuQv) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [Aw Jeez](https://open.spotify.com/album/1C5HxdwvGIMuEgOFDccqYb) | 4:20 | 2022-04-15 | 2022-06-25 |
@@ -551,6 +553,7 @@
 | [Gratitude](https://open.spotify.com/track/2URlvXHgKzdk6xFPedeuKI) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Gratitude](https://open.spotify.com/album/4ZYK6hRqISjMnrZafKUuBO) | 4:35 | 2022-11-18 | 2023-03-25 |
 | [Green Book](https://open.spotify.com/track/2NcKWbWXShSy60ruFNqu3K) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Green Book](https://open.spotify.com/album/0mQrvULsNc3shwhYuv2Uej) | 3:03 | 2021-12-31 | 2022-02-19 |
 | [Green Light](https://open.spotify.com/track/2pUYasTeazoDMo5poPHvXn) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Everything Is Alive](https://open.spotify.com/album/2ieF5iBJ4AbNyhZJiSKwo0) | 3:04 | 2023-07-28 | 2023-09-30 |
+| [Greenbow Jenny](https://open.spotify.com/track/5gRScFypH5zMciid4EAQfM) | [Mei Jun](https://open.spotify.com/artist/3cx46GdmHvTI5CvJCPRKZc) | [Greenbow Jenny](https://open.spotify.com/album/5NO0zrXTKKFYwO4k2bS2Jy) | 5:07 | 2023-12-22 |  |
 | [Greenville](https://open.spotify.com/track/0LlY50JLFSpeidjJLwEfLN) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Greenville](https://open.spotify.com/album/5ZW7ajRGYgqCtMLoFzruY4) | 2:45 | 2023-09-08 | 2023-11-11 |
 | [Growing at the Edges](https://open.spotify.com/track/7LLeuuh9o3z0VPISrNzWHc) | [Mutual Benefit](https://open.spotify.com/artist/0AUwa5xmiy57qdGlOksvea) | [Growing at the Edges](https://open.spotify.com/album/13UDLJpd7aW6wnbmra2Khd) | 5:11 | 2023-10-06 |  |
 | [Growing Sideways](https://open.spotify.com/track/1JcIXOir94YUYBt2cXTzn2) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:15 | 2022-10-14 | 2023-03-11 |
@@ -715,6 +718,7 @@
 | [I'm over being cool](https://open.spotify.com/track/2ZC4pgEdVCpvTOWWllvGaH) | [Janelle Kroll](https://open.spotify.com/artist/50bLYJ4e3ZR2chodK8oMW9) | [I'm over being cool](https://open.spotify.com/album/6XiX9yAnsrBxdEaw6O7RQS) | 3:30 | 2023-03-24 | 2023-05-06 |
 | [I'm Ready](https://open.spotify.com/track/3Oz0YfVhVUHm2P3n1zQoHe) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [I'm Ready](https://open.spotify.com/album/2dMFioZFie2DdXBNFkLfol) | 3:14 | 2022-09-09 | 2022-11-12 |
 | [I'M SORRY](https://open.spotify.com/track/5MLeUoys7TpdINFjFX6PwE) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [DANCING IN THE DARK](https://open.spotify.com/album/3xUg2rKVbUx4UioZ91GOOG) | 3:57 | 2022-11-04 | 2023-03-25 |
+| [i'm sorry about last night](https://open.spotify.com/track/5IFznIdLTfp6PyvjdU6YH3) | [Ezra Bell](https://open.spotify.com/artist/1nGqKVGfPPiVgxMdx8hYOI) | [i'm sorry about last night](https://open.spotify.com/album/10pwA5vWvu6DD0fobAgcWr) | 3:22 | 2023-12-22 |  |
 | [I've Got Me](https://open.spotify.com/track/3OEkjjCpSSDJKtgCKA7lXx) | [Joanna Sternberg](https://open.spotify.com/artist/2qDa6aEDJtMIQMb6IddWaI) | [I've Got Me](https://open.spotify.com/album/7554UBrWWgTDrFloVXvVCc) | 2:16 | 2023-06-30 | 2023-09-09 |
 | [idkwntht](https://open.spotify.com/track/2HrKYkfaYehPkzBy31XBbG) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [idkwntht](https://open.spotify.com/album/6wfWED4qkP48hB4sPBUX5g) | 4:45 | 2022-01-28 | 2022-02-19 |
 | [Idol; RE\-run](https://open.spotify.com/track/2TmWxMQ6EkfhgUjBdVGlL5) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Idol; RE\-run](https://open.spotify.com/album/2scsrTSiena7kFNUBLQutG) | 3:31 | 2023-05-05 | 2023-07-15 |
@@ -1035,6 +1039,7 @@
 | [On Its Way](https://open.spotify.com/track/0INfPpnTk4tAu64juzAffA) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [On Its Way](https://open.spotify.com/album/3XXSqaILjKBDQLc8vVOR6M) | 3:15 | 2022-06-17 | 2022-08-06 |
 | [On The Edge](https://open.spotify.com/track/1i6nmLAlOL2DUYEHS0Udch) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [The Sky Is Painted Gray Today](https://open.spotify.com/album/0VNAaIDRRZd6ZEtcD72r1r) | 4:07 | 2021-11-12 | 2022-01-08 |
 | [On the Highway](https://open.spotify.com/track/2BMVIOP0O37s5K7OW9uW3b) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [On the Highway](https://open.spotify.com/album/6boMPNouaBFYwXU3dspEuh) | 3:32 | 2022-08-26 | 2023-01-21 |
+| [On The Way](https://open.spotify.com/track/0TvxrH69oDuV4k9NZAvs3l) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [On The Way](https://open.spotify.com/album/3H2v38YigQUXP24Yhq49YA) | 3:12 | 2023-12-22 |  |
 | [On Your Way \(Felix Song\)](https://open.spotify.com/track/30hY3WEcrl1ScoND2yBy9T) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [On Your Way \(Felix Song\)](https://open.spotify.com/album/33EcOUw1Efeo8R3VvoQFhq) | 2:53 | 2022-01-14 | 2022-02-05 |
 | [On Your Way \- Acoustic](https://open.spotify.com/track/6WsDkYODeOVH7iOBDuXWVZ) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect \(Deluxe\)](https://open.spotify.com/album/15utleqV2llYGHYuD72rs8) | 3:08 | 2022-09-09 | 2023-02-18 |
 | [Once In A Lifetime](https://open.spotify.com/track/5jUpiTnR45SgB8TX42JT1F) | [Deer Tick](https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO) | [Once In A Lifetime](https://open.spotify.com/album/1HqE866ZDPtcVTHMCdUZhb) | 4:42 | 2023-05-19 | 2023-06-17 |
@@ -1397,6 +1402,7 @@
 | [The Drive](https://open.spotify.com/track/0pUp3X87abCUaFUpgmt5Ee) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [The Jacket](https://open.spotify.com/album/4hQuSru2tXIiematsn2Q4a) | 4:21 | 2022-03-11 | 2022-05-14 |
 | [The End](https://open.spotify.com/track/0HfT6rSWC48pyZc4fhwl1b) | [Elliot Greer](https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD) | [The End](https://open.spotify.com/album/5yTgFfMZGmvB5yeHK0Y7Ox) | 3:10 | 2023-03-10 | 2023-04-22 |
 | [The End](https://open.spotify.com/track/7qkX2mHStdrHVC2NFWqwpo) | [Elliot Greer](https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD) | [The End](https://open.spotify.com/album/12FtJ1DgVIT12XlvPRxtMb) | 3:10 | 2022-12-30 | 2023-03-11 |
+| [The End](https://open.spotify.com/track/3e4QnOQmNqJaBjpmjGYZK0) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [The End](https://open.spotify.com/album/5yQSR4I6kIx4a7Siq2Q6vZ) | 3:25 | 2023-12-22 |  |
 | [The Exception](https://open.spotify.com/track/2JSEqnS5EhLBV0uJXls29I) | [Dustbowl Revival](https://open.spotify.com/artist/3cB0nIIeIGSuMlw6rnu1dm), [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [The Exception](https://open.spotify.com/album/5K0ymB1V7VUBydptTtplUX) | 4:07 | 2021-11-12 | 2022-01-29 |
 | [The Fall](https://open.spotify.com/track/67ZPraK8Fpf4aDskXXs2XK) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [The Fall](https://open.spotify.com/album/2S8EkNv3ZmaXYA9AYnjAVc) | 3:27 | 2023-05-19 | 2023-07-15 |
 | [The Flood](https://open.spotify.com/track/7dSOLdrLScQJgp1AeZYEAG) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [The Flood](https://open.spotify.com/album/0pKDiPT0zJnbIIEFQz1g77) | 4:25 | 2023-07-21 | 2023-09-23 |

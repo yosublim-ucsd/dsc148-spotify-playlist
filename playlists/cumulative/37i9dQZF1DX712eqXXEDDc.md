@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3MM3uKNdJbvefUael12dl3">Rochelle Jordan</a>'s track IDs\. Updated regularly\. Curated by Rochelle Jordan\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-76 songs - 4 hr 52 min
+77 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [After Party](https://open.spotify.com/track/5cvMzT7kEvcxcdtcJz1vQY) | [Koffee Brown](https://open.spotify.com/artist/6HEyD6mSqQQKMVilyU31ZY) | [Mars/Venus](https://open.spotify.com/album/5I8dujSQv3pxhJo6n2ifWv) | 3:34 | 2022-03-25 |  |
 | [All of This \- SANDAME Remix Pt\. 1](https://open.spotify.com/track/1xnU6aQ18PX2PSAiAjdass) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [SANDAME](https://open.spotify.com/artist/2qBc1EFq0QdxvTi2KHwwxY) | [All of This Remixes, Vol\. 2](https://open.spotify.com/album/4kMV75bbEkiTRDne9xbqa8) | 2:33 | 2022-03-25 |  |
 | [Already](https://open.spotify.com/track/0Bef4OMTKyY908qrX0O0cs) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 3:57 | 2022-03-25 |  |
-| [Anna Wintour](https://open.spotify.com/track/5Pm7KrSKkDj37SZoMYyXDX) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Anna Wintour](https://open.spotify.com/album/6CdoZyh1IJzKRs7tw5WM8e) | 4:33 | 2022-03-25 |  |
+| [Anna Wintour](https://open.spotify.com/track/59fZ1smcmciapt7NB00t96) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Anna Wintour](https://open.spotify.com/album/4zpqDVmFMGkDpyrhtP5GKR) | 4:33 | 2023-07-31 |  |
+| [Anna Wintour](https://open.spotify.com/track/5Pm7KrSKkDj37SZoMYyXDX) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Anna Wintour](https://open.spotify.com/album/6CdoZyh1IJzKRs7tw5WM8e) | 4:33 | 2022-03-25 | 2023-12-23 |
 | [Another Lover](https://open.spotify.com/track/2KwW2VyIp48UXatX8S2TuL) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Silk Canvas](https://open.spotify.com/album/2EbhWs13R3DTnsGXHVZSPy) | 3:48 | 2022-03-25 |  |
 | [B O D Y](https://open.spotify.com/track/0Uwq5TKfVfanVZzoVCz620) | [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Bucklyn Bridge EP](https://open.spotify.com/album/6L25aUr2Ntt2pfYfXMcpDp) | 5:05 | 2022-07-15 |  |
 | [Babylon \- Bree Runway & Jimmy Edgar Remix](https://open.spotify.com/track/2xw4gYnfIZkH4GO9zPMNVR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w), [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 2:48 | 2022-03-25 |  |

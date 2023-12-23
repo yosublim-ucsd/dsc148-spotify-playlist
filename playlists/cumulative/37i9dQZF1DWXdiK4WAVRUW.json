@@ -1416,7 +1416,7 @@
       ],
       "date_added": "2021-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 219213,
       "name": "Drunk Last Night",
       "url": "https://open.spotify.com/track/4hnK8P3v7kE7T4PMBYwRhu"
@@ -3002,6 +3002,24 @@
       "duration_ms": 206893,
       "name": "Merry Go 'Round",
       "url": "https://open.spotify.com/track/5UDqWOgDdixYMAgAyNbpgh"
+    },
+    {
+      "album": {
+        "name": "Where It's At",
+        "url": "https://open.spotify.com/album/07XUTuKWtYd8LCWOPirKE5"
+      },
+      "artists": [
+        {
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+        }
+      ],
+      "date_added": "2023-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185413,
+      "name": "Mind Reader",
+      "url": "https://open.spotify.com/track/1XTypeEtDA92vtLGmlgbfQ"
     },
     {
       "album": {

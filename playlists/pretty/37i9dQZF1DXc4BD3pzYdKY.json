@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:0GdzQJqgRL5SHp7kXOKba0\">Wande</a>",
-  "num_followers": 144734,
+  "num_followers": 144791,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDAwYzI5OGMzZmUyMzZlMGY0MDk4OTBhYzIyNzkxNWI3NzcxNTNm",
+  "snapshot_id": "MCxiZGViZjcxNjM2MDVmMDM4Zjc3MWRiMjM5NGQ1NTY0ZjI5Njc0NGMx",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -399,26 +399,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Daily Bread",
-        "url": "https://open.spotify.com/album/0eazU1DxDuxZYpJKllml9C"
-      },
-      "artists": [
-        {
-          "name": "EmanuelDaProphet",
-          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 99137,
-      "name": "Daily Bread",
-      "url": "https://open.spotify.com/track/2sCaeamb3MHqMHL7YS5bMm"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Tap In",
         "url": "https://open.spotify.com/album/6W1hT7lFHBzi2GxGQ6nBBV"
       },
@@ -435,6 +415,26 @@
       "duration_ms": 153235,
       "name": "Tap In",
       "url": "https://open.spotify.com/track/1m6DoxPK75pRVThUXNaUr6"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Daily Bread",
+        "url": "https://open.spotify.com/album/0eazU1DxDuxZYpJKllml9C"
+      },
+      "artists": [
+        {
+          "name": "EmanuelDaProphet",
+          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 99137,
+      "name": "Daily Bread",
+      "url": "https://open.spotify.com/track/2sCaeamb3MHqMHL7YS5bMm"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Heaven Bound",
+        "url": "https://open.spotify.com/album/3tGembZgInQMBhCEROWTuj"
+      },
+      "artists": [
+        {
+          "name": "Alex Jean",
+          "url": "https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi"
+        }
+      ],
+      "duration_ms": 130173,
+      "name": "Heaven Bound",
+      "url": "https://open.spotify.com/track/3GTeDNluIT844Wy0nP3UR2"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Standby",
         "url": "https://open.spotify.com/album/3eoaxGOwv1rdebEJeFocqQ"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 220704,
       "name": "Standby",
       "url": "https://open.spotify.com/track/1LidB9TgQhzwiBVJQuKVwo"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Heaven Bound",
-        "url": "https://open.spotify.com/album/3tGembZgInQMBhCEROWTuj"
-      },
-      "artists": [
-        {
-          "name": "Alex Jean",
-          "url": "https://open.spotify.com/artist/5qSM9F3Ei58tG08tXrJjSi"
-        }
-      ],
-      "duration_ms": 130173,
-      "name": "Heaven Bound",
-      "url": "https://open.spotify.com/track/3GTeDNluIT844Wy0nP3UR2"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Legendary",
+        "url": "https://open.spotify.com/album/3k3jLvON0A6tUcrwFYq7X8"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 129843,
+      "name": "Legendary",
+      "url": "https://open.spotify.com/track/7jBZrY5Em6uhlNIrS8tazh"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Ghetto Gospel",
         "url": "https://open.spotify.com/album/7dzrf8O5uvPdslYGeVIvpd"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 158297,
       "name": "Ghetto Gospel",
       "url": "https://open.spotify.com/track/1SUIkGtUfDb6LXs94j9XIb"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Legendary",
-        "url": "https://open.spotify.com/album/3k3jLvON0A6tUcrwFYq7X8"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 129843,
-      "name": "Legendary",
-      "url": "https://open.spotify.com/track/7jBZrY5Em6uhlNIrS8tazh"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "IF I RAN AWAY",
-        "url": "https://open.spotify.com/album/7JfQ578ppKerR2a1pJMlpV"
-      },
-      "artists": [
-        {
-          "name": "Christopher Syncere",
-          "url": "https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u"
-        }
-      ],
-      "duration_ms": 153418,
-      "name": "IF I RAN AWAY",
-      "url": "https://open.spotify.com/track/6R4SU3BpbQMcyg3ZB6GTCd"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Highs & Lows",
         "url": "https://open.spotify.com/album/79B83HeSJzAsL8QbmglfxY"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 162000,
       "name": "Highs & Lows",
       "url": "https://open.spotify.com/track/5Hd5YudVgjRcIEcIrAaCPn"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "IF I RAN AWAY",
+        "url": "https://open.spotify.com/album/7JfQ578ppKerR2a1pJMlpV"
+      },
+      "artists": [
+        {
+          "name": "Christopher Syncere",
+          "url": "https://open.spotify.com/artist/6oTjD6G08PuR7EjE0AjL5u"
+        }
+      ],
+      "duration_ms": 153418,
+      "name": "IF I RAN AWAY",
+      "url": "https://open.spotify.com/track/6R4SU3BpbQMcyg3ZB6GTCd"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "September Season Pack, Vol. 3",
+        "url": "https://open.spotify.com/album/7FZ6J6owdc3lk8SbXZxuRB"
+      },
+      "artists": [
+        {
+          "name": "Aha Gazelle",
+          "url": "https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14"
+        }
+      ],
+      "duration_ms": 147714,
+      "name": "Real Me",
+      "url": "https://open.spotify.com/track/0GxuDEA7wCRI9H6GQqSmsQ"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Potential",
         "url": "https://open.spotify.com/album/1WnJo2qTW2AI9V4Dps4sS2"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 196578,
       "name": "Potential",
       "url": "https://open.spotify.com/track/1sVLkx9hkLcKNeg5GDrtuw"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "September Season Pack, Vol. 3",
-        "url": "https://open.spotify.com/album/7FZ6J6owdc3lk8SbXZxuRB"
-      },
-      "artists": [
-        {
-          "name": "Aha Gazelle",
-          "url": "https://open.spotify.com/artist/7suLW93RkuQKWb4WTI5F14"
-        }
-      ],
-      "duration_ms": 147714,
-      "name": "Real Me",
-      "url": "https://open.spotify.com/track/0GxuDEA7wCRI9H6GQqSmsQ"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1455,30 +1455,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "In My Bible, In My Bag (Remix)",
-        "url": "https://open.spotify.com/album/095osNyixbm1VPLWAx6qIc"
-      },
-      "artists": [
-        {
-          "name": "Dee-1",
-          "url": "https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox"
-        },
-        {
-          "name": "Childlike CiCi",
-          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
-        },
-        {
-          "name": "Kieran the Light",
-          "url": "https://open.spotify.com/artist/7pDD4BBx6S42ZX513NQdp1"
-        }
-      ],
-      "duration_ms": 235404,
-      "name": "In My Bible, In My Bag - Remix",
-      "url": "https://open.spotify.com/track/0fvZdUuYklNcnCb6LI0CGk"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Second Wind",
         "url": "https://open.spotify.com/album/6PW0HnPuoe3xRde483kbAr"
       },
@@ -1499,6 +1475,30 @@
       "duration_ms": 180501,
       "name": "Testimony",
       "url": "https://open.spotify.com/track/5aYxzXhFNBdznGlzdEGg8z"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "In My Bible, In My Bag (Remix)",
+        "url": "https://open.spotify.com/album/095osNyixbm1VPLWAx6qIc"
+      },
+      "artists": [
+        {
+          "name": "Dee-1",
+          "url": "https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox"
+        },
+        {
+          "name": "Childlike CiCi",
+          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
+        },
+        {
+          "name": "Kieran the Light",
+          "url": "https://open.spotify.com/artist/7pDD4BBx6S42ZX513NQdp1"
+        }
+      ],
+      "duration_ms": 235404,
+      "name": "In My Bible, In My Bag - Remix",
+      "url": "https://open.spotify.com/track/0fvZdUuYklNcnCb6LI0CGk"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "TIL ITS DONE",
+        "url": "https://open.spotify.com/album/1EEEPWRPz54SSH63Ne8HB9"
+      },
+      "artists": [
+        {
+          "name": "Tylynn",
+          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
+        }
+      ],
+      "duration_ms": 172205,
+      "name": "TIL ITS DONE",
+      "url": "https://open.spotify.com/track/3uy9kZWx2YLve3bYHXZ6NF"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Revival Kit",
         "url": "https://open.spotify.com/album/3C40cKOTnmts3tkttmFtY2"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 172644,
       "name": "Revival Kit",
       "url": "https://open.spotify.com/track/26xlwzknPED0ayPpT4jsRv"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "TIL ITS DONE",
-        "url": "https://open.spotify.com/album/1EEEPWRPz54SSH63Ne8HB9"
-      },
-      "artists": [
-        {
-          "name": "Tylynn",
-          "url": "https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg"
-        }
-      ],
-      "duration_ms": 172205,
-      "name": "TIL ITS DONE",
-      "url": "https://open.spotify.com/track/3uy9kZWx2YLve3bYHXZ6NF"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Bend The Whip",
-        "url": "https://open.spotify.com/album/5rwFEKB8GgdsEAbEaWvnWB"
-      },
-      "artists": [
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "Bend The Whip",
-      "url": "https://open.spotify.com/track/3ABLULiimnqZkQFTb6QsZh"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Kingdom Business",
         "url": "https://open.spotify.com/album/7slHnMjanj0tMxf0jVcQbr"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 210631,
       "name": "Kingdom Business",
       "url": "https://open.spotify.com/track/0eRXjkHgPK8nfgSz1W6On8"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Bend The Whip",
+        "url": "https://open.spotify.com/album/5rwFEKB8GgdsEAbEaWvnWB"
+      },
+      "artists": [
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "Bend The Whip",
+      "url": "https://open.spotify.com/track/3ABLULiimnqZkQFTb6QsZh"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1855,18 +1855,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "UNO",
-        "url": "https://open.spotify.com/album/0uknmdyK8A3w9oxHgw2itB"
+        "name": "Girls Don't Cry (Gibberish)",
+        "url": "https://open.spotify.com/album/6ZHLFeiaJgY4lRLWGdE1pj"
       },
       "artists": [
         {
-          "name": "Dee-1",
-          "url": "https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox"
+          "name": "Uninvtd",
+          "url": "https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ"
+        },
+        {
+          "name": "S A I N T",
+          "url": "https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN"
         }
       ],
-      "duration_ms": 182222,
-      "name": "My Joy is My Weapon",
-      "url": "https://open.spotify.com/track/5rNv3RUXH4CAznfIrWVB2D"
+      "duration_ms": 175773,
+      "name": "Girls Don't Cry (Gibberish)",
+      "url": "https://open.spotify.com/track/4slzYQ2rU6lcPqBETDLY9y"
     }
   ],
   "unique_name": "The Flow",

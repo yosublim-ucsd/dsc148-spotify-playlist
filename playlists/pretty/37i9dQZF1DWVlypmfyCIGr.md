@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: レトロリロン
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,006 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,010 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 21 | [Snow White](https://open.spotify.com/track/6WytRwLSMdF6W4exCxR3qu) | [もさを。](https://open.spotify.com/artist/71KI7v1YqVU8cIFzBl47dh) | [Snow White](https://open.spotify.com/album/5NgUEYWKs6lhgAvgMg0moE) | 3:23 |
 | 22 | [衝動買い](https://open.spotify.com/track/4hZeZB3b3CtZdfOciixAYV) | [好芻](https://open.spotify.com/artist/2qeDcLCQcUBQWkit80w0aK) | [衝動買い](https://open.spotify.com/album/00LW9zCxcDYs8d9XHBQYTF) | 4:01 |
 | 23 | [冬と遠雷](https://open.spotify.com/track/0oLeOJHCrcX7EAd0dBn1m3) | [浦小雪](https://open.spotify.com/artist/5PHZ4PVOsKViz2yF868wUP) | [冬と遠雷](https://open.spotify.com/album/1J2fzWz5TDZawMgnYv975G) | 3:23 |
-| 24 | [hot lemon \- Remix](https://open.spotify.com/track/0KjOGXAd5j5rbjGSnBiolt) | [noa](https://open.spotify.com/artist/7nhWQxOMcfIv29SBPZEcgp), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM) | [hot lemon \(Remix\)](https://open.spotify.com/album/6MNsyAUtnCzLnuo1dJQBMB) | 2:33 |
+| 24 | [hot lemon \- Remix](https://open.spotify.com/track/0KjOGXAd5j5rbjGSnBiolt) | [noa](https://open.spotify.com/artist/3YFWyQgtNl7SbZVu26hCRY), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM) | [hot lemon \(Remix\)](https://open.spotify.com/album/6MNsyAUtnCzLnuo1dJQBMB) | 2:33 |
 | 25 | [winter again](https://open.spotify.com/track/6UUkpz0afWxT3G4jJQU6cZ) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND) | [winter again](https://open.spotify.com/album/7d6LwgYqvTs2r4kNdk1KSa) | 4:34 |
 | 26 | [At The End Of The Day, We Found.](https://open.spotify.com/track/6cQBMbi4mAvpacppcOqvW9) | [NEST](https://open.spotify.com/artist/7cZUI7Ws3XStbuUFNEzpfm) | [The Market on One Intense Sunny Day\(Completed\)](https://open.spotify.com/album/0Zpl78oWS6OziBslIJkOvU) | 3:40 |
 | 27 | [Weekend Dance](https://open.spotify.com/track/5K9QxPw3c3lv6Khn2KoDnx) | [RAKURA](https://open.spotify.com/artist/3voKaAQ6dZPw9gMA7KOTcP) | [Weekend Dance](https://open.spotify.com/album/3uYJjVQ3xijH2JSKJPJrk3) | 3:33 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [killi'n me](https://open.spotify.com/track/3UMeXNh73EyZdLzcrOL8jc) | [vividboooy](https://open.spotify.com/artist/2HdFwTHtgBqm7EdJsViK6F), [DALU](https://open.spotify.com/artist/0hdHoi970cAuqTINgtnLrm) | [killi'n me](https://open.spotify.com/album/3Mm6LCzDZzFarHQeltVvTO) | 3:03 |
 | 80 | [new man](https://open.spotify.com/track/1ymbl9x2nZaIeJkBjAYvA0) | [EXPCTR](https://open.spotify.com/artist/3ipgUyTWKYk6KAm91kTdrk) | [DISPLAY THREE](https://open.spotify.com/album/7aH7KuxrIZAslLap3lhVu5) | 2:40 |
 
-Snapshot ID: `MCwxNzY0ZTJhMTE3OWM3OTRhNGY1OWM0MWUwZTZjZGU1MzUxMjk1Nzcw`
+Snapshot ID: `MCw5NTk2NjBkMTQ2ZWYxMGMyNjE3ZTU5NTA4ODdkZGY3ZjliNzk3ZTI4`

@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Cover: Madness",
-  "num_followers": 366058,
+  "num_followers": 366147,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTgzZmU2YjljZGNhNDQ4OTExNWUyNWZlM2RmYmViMjYxYTUzNmZh",
+  "snapshot_id": "MCw2NDJjMmZkZGYwYzQ0ZTE3ZjFhOGI5YjliYzVhNDI0Y2NhNTliOGZk",
   "tracks": [
     {
       "added_at": "2023-12-12 21:01:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-12-12 21:01:00",
       "album": {
-        "name": "Theatre of the Absurd presents C'est La Vie",
-        "url": "https://open.spotify.com/album/1EO1QMwEOJQk36fMQFTbvN"
-      },
-      "artists": [
-        {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
-        }
-      ],
-      "duration_ms": 258105,
-      "name": "Round We Go",
-      "url": "https://open.spotify.com/track/6fTchomRuRO8Rtzlgfp6jA"
-    },
-    {
-      "added_at": "2023-12-12 21:01:00",
-      "album": {
         "name": "Trouble Maker (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 143546,
       "name": "Where I'm Going",
       "url": "https://open.spotify.com/track/3MXxV2BQjMEhZmTtLkIOPz"
+    },
+    {
+      "added_at": "2023-12-12 21:01:00",
+      "album": {
+        "name": "Theatre of the Absurd presents C'est La Vie",
+        "url": "https://open.spotify.com/album/1EO1QMwEOJQk36fMQFTbvN"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "duration_ms": 258105,
+      "name": "Round We Go",
+      "url": "https://open.spotify.com/track/6fTchomRuRO8Rtzlgfp6jA"
     },
     {
       "added_at": "2023-12-12 21:01:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-12-12 21:01:00",
       "album": {
-        "name": "One Step Beyond...",
-        "url": "https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA"
-      },
-      "artists": [
-        {
-          "name": "Madness",
-          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
-        }
-      ],
-      "duration_ms": 138360,
-      "name": "One Step Beyond",
-      "url": "https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD"
-    },
-    {
-      "added_at": "2023-12-12 21:01:00",
-      "album": {
         "name": "Willis",
         "url": "https://open.spotify.com/album/2p6CFGaXrhWuV7RbpL7xXY"
       },
@@ -995,22 +979,6 @@
       "duration_ms": 131533,
       "name": "The World Is New",
       "url": "https://open.spotify.com/track/75NQydSjbz14rmt6j2UaMz"
-    },
-    {
-      "added_at": "2023-12-12 21:01:00",
-      "album": {
-        "name": "Middle Finger",
-        "url": "https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH"
-      },
-      "artists": [
-        {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
-        }
-      ],
-      "duration_ms": 206032,
-      "name": "Middle Finger",
-      "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
     },
     {
       "added_at": "2023-12-12 21:01:00",
@@ -1059,6 +1027,38 @@
       "duration_ms": 214266,
       "name": "My Town",
       "url": "https://open.spotify.com/track/2Bf8CoBhV8kDpQju55Tuha"
+    },
+    {
+      "added_at": "2023-12-12 21:01:00",
+      "album": {
+        "name": "One Step Beyond...",
+        "url": "https://open.spotify.com/album/5Jst9QoWbNmjQFUyGIkMnA"
+      },
+      "artists": [
+        {
+          "name": "Madness",
+          "url": "https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd"
+        }
+      ],
+      "duration_ms": 138360,
+      "name": "One Step Beyond",
+      "url": "https://open.spotify.com/track/1G6eFFDRaLr9EbThnhzMBD"
+    },
+    {
+      "added_at": "2023-12-12 21:01:00",
+      "album": {
+        "name": "Middle Finger",
+        "url": "https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH"
+      },
+      "artists": [
+        {
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+        }
+      ],
+      "duration_ms": 206032,
+      "name": "Middle Finger",
+      "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
     },
     {
       "added_at": "2023-12-12 21:01:00",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2023-12-12 21:01:00",
       "album": {
-        "name": "Message to the World",
-        "url": "https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3"
+        "name": "Keasbey Nights",
+        "url": "https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a"
       },
       "artists": [
         {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+          "name": "Catch 22",
+          "url": "https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT"
         }
       ],
-      "duration_ms": 183506,
-      "name": "Social Drinker",
-      "url": "https://open.spotify.com/track/5sxcHFhYvo54vXt7fl900y"
+      "duration_ms": 194146,
+      "name": "On & On & On",
+      "url": "https://open.spotify.com/track/66UiVrGhYHHyfJlE1g8y61"
     },
     {
       "added_at": "2023-12-12 21:01:00",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2023-12-12 21:01:00",
       "album": {
-        "name": "Keasbey Nights",
-        "url": "https://open.spotify.com/album/2sFPd4EWqI4x6RsaeMqA8a"
+        "name": "Message to the World",
+        "url": "https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3"
       },
       "artists": [
         {
-          "name": "Catch 22",
-          "url": "https://open.spotify.com/artist/1xgA0hENxpykh3AxlMBjlT"
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
         }
       ],
-      "duration_ms": 194146,
-      "name": "On & On & On",
-      "url": "https://open.spotify.com/track/66UiVrGhYHHyfJlE1g8y61"
+      "duration_ms": 183506,
+      "name": "Social Drinker",
+      "url": "https://open.spotify.com/track/5sxcHFhYvo54vXt7fl900y"
     },
     {
       "added_at": "2023-12-12 21:01:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-12-12 21:01:00",
       "album": {
-        "name": "The Essential Fishbone",
-        "url": "https://open.spotify.com/album/5A34elKkckMgG5Y4tMAi2H"
-      },
-      "artists": [
-        {
-          "name": "Fishbone",
-          "url": "https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi"
-        }
-      ],
-      "duration_ms": 199626,
-      "name": "Ma and Pa",
-      "url": "https://open.spotify.com/track/7wotdNGMm6PrQ9xUXYQtVp"
-    },
-    {
-      "added_at": "2023-12-12 21:01:00",
-      "album": {
         "name": "In Black And White",
         "url": "https://open.spotify.com/album/423bYBpPMVSCvSfLr8DSdn"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 137960,
       "name": "On and On",
       "url": "https://open.spotify.com/track/7M86b1WHyyGFkKO3XO1uwb"
+    },
+    {
+      "added_at": "2023-12-12 21:01:00",
+      "album": {
+        "name": "The Essential Fishbone",
+        "url": "https://open.spotify.com/album/5A34elKkckMgG5Y4tMAi2H"
+      },
+      "artists": [
+        {
+          "name": "Fishbone",
+          "url": "https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi"
+        }
+      ],
+      "duration_ms": 199626,
+      "name": "Ma and Pa",
+      "url": "https://open.spotify.com/track/7wotdNGMm6PrQ9xUXYQtVp"
     },
     {
       "added_at": "2023-12-12 21:01:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-12-12 21:01:00",
       "album": {
-        "name": "Get Warmer",
-        "url": "https://open.spotify.com/album/2kGge9kVEDKWLMb4YsrmIs"
-      },
-      "artists": [
-        {
-          "name": "Bomb the Music Industry!",
-          "url": "https://open.spotify.com/artist/7mmU5GuOoyxoBAgOZkSVj7"
-        }
-      ],
-      "duration_ms": 282093,
-      "name": "I Don't Love You Anymore",
-      "url": "https://open.spotify.com/track/4IhBMMgZkrQybTajYXtmVE"
-    },
-    {
-      "added_at": "2023-12-12 21:01:00",
-      "album": {
         "name": "Unstoppable",
         "url": "https://open.spotify.com/album/1kJP7cQaT8xHYSKlknNiuS"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 188573,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/1ikzC1az2vXMR060qvDnvW"
+    },
+    {
+      "added_at": "2023-12-12 21:01:00",
+      "album": {
+        "name": "Get Warmer",
+        "url": "https://open.spotify.com/album/2kGge9kVEDKWLMb4YsrmIs"
+      },
+      "artists": [
+        {
+          "name": "Bomb the Music Industry!",
+          "url": "https://open.spotify.com/artist/7mmU5GuOoyxoBAgOZkSVj7"
+        }
+      ],
+      "duration_ms": 282093,
+      "name": "I Don't Love You Anymore",
+      "url": "https://open.spotify.com/track/4IhBMMgZkrQybTajYXtmVE"
     },
     {
       "added_at": "2023-12-12 21:01:00",

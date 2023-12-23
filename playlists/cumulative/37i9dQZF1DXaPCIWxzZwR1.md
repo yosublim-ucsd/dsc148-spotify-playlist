@@ -4,7 +4,7 @@
 
 > next gen pop Cover: Tate McRae
 
-1,825 songs - 3 day 16 hr 43 min
+1,826 songs - 3 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,6 +357,7 @@
 | [Confident](https://open.spotify.com/track/3HtbhF5FeneR2GUgED6WIQ) | [Kat Cunning](https://open.spotify.com/artist/0THdxk7bYWo6wciF1gInBK) | [Confident](https://open.spotify.com/album/7mHI4T9BuC7UPYN9gUprKU) | 3:22 | 2021-03-06 | 2021-04-10 |
 | [congrats i hate u](https://open.spotify.com/track/3mx4goJbjAIzxbpF67ho4q) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [congrats i hate u](https://open.spotify.com/album/4kvU4xxBfbbrmK3HKmPiGU) | 2:36 | 2023-03-24 | 2023-05-06 |
 | [Constellations](https://open.spotify.com/track/0htyzgIWrBoj9tdxwifIQ6) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations](https://open.spotify.com/album/6zbpi0Hz0Sl8Mc7neSLGoL) | 3:20 | 2021-09-01 | 2021-10-16 |
+| [Constellations \- Piano Version](https://open.spotify.com/track/4uTeAvKMQMqgIneew9Ic7X) | [Jade LeMac](https://open.spotify.com/artist/4JnJjqxsTp8E5rZsyITf63) | [Constellations \(Piano Version\)](https://open.spotify.com/album/4hv9qLSPvzL09HaIlL8JnP) | 3:50 | 2023-12-22 |  |
 | [Cool Kids](https://open.spotify.com/track/4PLuCa10ULsd3t9bGV7MH5) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Cool Kids](https://open.spotify.com/album/5L0YcnTzbGjQQ0AKX7GjtG) | 2:12 | 2021-11-13 | 2022-01-29 |
 | [Cool Kids](https://open.spotify.com/track/48w0n6R4pVu0gamM91ZQcE) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Cool Kids](https://open.spotify.com/album/5VctleKkq3DNVXv6zjcVzt) | 2:31 | 2022-03-11 | 2022-03-26 |
 | [Cool With You](https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:27 | 2023-07-21 | 2023-08-19 |

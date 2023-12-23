@@ -64451,6 +64451,24 @@
     },
     {
       "album": {
+        "name": "O Holy Night (Live Studio Session)",
+        "url": "https://open.spotify.com/album/1ARSEqWWRk7XaeLR5BbeQO"
+      },
+      "artists": [
+        {
+          "name": "Stephen McWhirter",
+          "url": "https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289364,
+      "name": "O Holy Night - Live Studio Session",
+      "url": "https://open.spotify.com/track/1d87rT86yYlcdO8UEWjKzn"
+    },
+    {
+      "album": {
         "name": "O Little Town Of Bethlehem",
         "url": "https://open.spotify.com/album/0cSQ0JTIPidDhcsIUgowRJ"
       },

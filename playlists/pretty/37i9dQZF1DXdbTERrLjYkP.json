@@ -1,13 +1,29 @@
 {
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Julius Black",
-  "num_followers": 92239,
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Lili-Ann De Francesco",
+  "num_followers": 92275,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDA2ODZmZGMyY2FiY2IxOGVlYmU2ODFmNTAxMmZhZjQ0OTRkZjQw",
+  "snapshot_id": "MCxhNDY5MTBjZjhkN2Q0ZWJmODk4ZTRlMWFkMWE1NzMzZWVjNTQ1YmQ3",
   "tracks": [
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "inhale - the complete story",
+        "url": "https://open.spotify.com/album/4NyjSQ5VF9sSd39Jg2g3vz"
+      },
+      "artists": [
+        {
+          "name": "Lili-Ann De Francesco",
+          "url": "https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA"
+        }
+      ],
+      "duration_ms": 225413,
+      "name": "her",
+      "url": "https://open.spotify.com/track/3gBF1gc9Fo6SatKWAOoGjY"
+    },
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
@@ -795,38 +811,6 @@
     {
       "added_at": "2023-11-10 04:00:00",
       "album": {
-        "name": "White Limo Stuck In The Snow",
-        "url": "https://open.spotify.com/album/73gnvlOHq9e2IbEQC3H8fu"
-      },
-      "artists": [
-        {
-          "name": "Goldie Boutilier",
-          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
-        }
-      ],
-      "duration_ms": 243831,
-      "name": "White Limo Stuck in The Snow",
-      "url": "https://open.spotify.com/track/59HszsyMeo4qNtLnoPObH0"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/6aaGEL4bFFCKe6CXFE8YMf"
-      },
-      "artists": [
-        {
-          "name": "Scout",
-          "url": "https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR"
-        }
-      ],
-      "duration_ms": 134550,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/2HxQGJKOcPi87pffJ5UWt6"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
         "name": "Wait Up",
         "url": "https://open.spotify.com/album/4owm0U3LAo5y1sCun9lyXV"
       },
@@ -919,22 +903,6 @@
       "duration_ms": 169721,
       "name": "as good a reason",
       "url": "https://open.spotify.com/track/3wPm5GutqeJtOgsjwbtvnh"
-    },
-    {
-      "added_at": "2023-11-10 04:00:00",
-      "album": {
-        "name": "Pools and Palm Trees",
-        "url": "https://open.spotify.com/album/357UpZKMD6Ar47ULSVhYpi"
-      },
-      "artists": [
-        {
-          "name": "Claire Rosinkranz",
-          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
-        }
-      ],
-      "duration_ms": 186962,
-      "name": "Pools and Palm Trees",
-      "url": "https://open.spotify.com/track/5D5sk1frNM4Ypsgvxa8SaB"
     },
     {
       "added_at": "2023-11-10 04:00:00",

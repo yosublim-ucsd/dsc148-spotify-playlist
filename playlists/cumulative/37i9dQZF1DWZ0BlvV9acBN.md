@@ -2,7 +2,7 @@
 
 ### [Templo do Rock](https://open.spotify.com/playlist/37i9dQZF1DWZ0BlvV9acBN)
 
-> Grandes sucessos e novidades do rock Cristão\. Foto: Catarina Von Bora
+> Grandes sucessos e novidades do rock Cristão\. Foto: Thalles Roberto
 
 131 songs - 10 hr 12 min
 
@@ -18,7 +18,7 @@
 | [A Rosa e o Espinho: In Concert \- Ao Vivo](https://open.spotify.com/track/5xjyvPqZN4i2cim98DvNx5) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX) | [A Rosa e o Espinho: In Concert \(Ao Vivo\)](https://open.spotify.com/album/2Pm6LMv22egl44eo75SBgx) | 4:48 | 2023-09-08 | 2023-10-14 |
 | [A Vitória Da Cruz / Mais Que Vencedor \- Ao Vivo](https://open.spotify.com/track/7ynkuAtSuCtFWFZITYp6Nr) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Salazar \(Ao Vivo\)](https://open.spotify.com/album/3rmdXtY0TwGeQvjOdljqqN) | 6:20 | 2022-09-02 |  |
 | [Agora Eu Vivo Teu Amor](https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0) | [Stone Worship](https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf) | [Agora Eu Vivo Teu Amor](https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO) | 3:10 | 2022-09-02 |  |
-| [Aonde Está Deus](https://open.spotify.com/track/5uFP9ZbZG1aqJx1jbaFNqF) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Basic Session, Vol\. 1](https://open.spotify.com/album/2a0ofu5yp0e9WPLpYjUZN4) | 4:24 | 2022-09-02 | 2023-12-19 |
+| [Aonde Está Deus](https://open.spotify.com/track/5uFP9ZbZG1aqJx1jbaFNqF) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Basic Session, Vol\. 1](https://open.spotify.com/album/2a0ofu5yp0e9WPLpYjUZN4) | 4:24 | 2022-09-02 |  |
 | [Artifício](https://open.spotify.com/track/5UPGfXS8YBzGYlo6qjajAc) | [Marcelo Sissá](https://open.spotify.com/artist/5bcgyumeouaAtB9NlPL5X3) | [Artifício](https://open.spotify.com/album/1D0PrOO9NiviiCtDWCoLpC) | 3:12 | 2022-09-02 | 2023-04-16 |
 | [As Sepulturas Se Abrirão \- Ao Vivo](https://open.spotify.com/track/2RE0vtoTP7U55ore8UUeTy) | [Palankin](https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ), [Ana Rock](https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U) | [Na Terra Parte 2/3 \(Ao Vivo\)](https://open.spotify.com/album/2REZbS8CQZnhrBdEhmTZ1d) | 4:48 | 2023-03-03 |  |
 | [Assume a Responsa](https://open.spotify.com/track/1QsGZr3d0O0vqJhJr1QZQg) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Assume a Responsa](https://open.spotify.com/album/2Z8TDPzD9x6rDB1VSRtFm8) | 4:19 | 2022-09-02 | 2023-02-04 |
@@ -134,7 +134,7 @@
 | [Uma Carta de Amanhã](https://open.spotify.com/track/5aySEnML7exs5wqd1eV58D) | [Felipe Ramos](https://open.spotify.com/artist/6VXwjEt6oBU4cb59TUJJkX) | [Uma Carta de Amanhã](https://open.spotify.com/album/692vSdGYRKAYnqAoXQaEOJ) | 3:51 | 2022-09-02 |  |
 | [Vem Cantar \- Salmo 95](https://open.spotify.com/track/1isclXANLY4ny3quvpST7p) | [Tanlan](https://open.spotify.com/artist/1tVNmuJHlGbAP5y5Wl2Vdj) | [Vem Cantar \- Salmo 95](https://open.spotify.com/album/4xZH5F4dsOX652q4btTdAx) | 3:40 | 2023-10-06 | 2023-11-04 |
 | [Vestido Azul](https://open.spotify.com/track/5hLjEIr4NmAsGarqTwm0mA) | [Catarina Von Bora](https://open.spotify.com/artist/3DxQewmz2PoRvVVpWEv5iH), [Coletivo Candiero](https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV), [Daniel Alves](https://open.spotify.com/artist/3eW6cEr5fLxtSXZDBTJNSK) | [Columbário](https://open.spotify.com/album/4o6BATvOsC4vbHJySc5avV) | 3:35 | 2023-11-03 |  |
-| [Viver](https://open.spotify.com/track/0aAQv9SZAJ3KgJuQ0lqNRn) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT), [Flávio Morilha](https://open.spotify.com/artist/7lZ1saVYmbFFjaY0Vcxuy7) | [Viver](https://open.spotify.com/album/1vS6G52uJfUgt8ZIInVMgK) | 3:48 | 2023-11-24 |  |
+| [Viver](https://open.spotify.com/track/0aAQv9SZAJ3KgJuQ0lqNRn) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT), [Flávio Morilha](https://open.spotify.com/artist/7lZ1saVYmbFFjaY0Vcxuy7) | [Viver](https://open.spotify.com/album/1vS6G52uJfUgt8ZIInVMgK) | 3:48 | 2023-11-24 | 2023-12-23 |
 | [Yeshua](https://open.spotify.com/track/7D3qbQOrea1ME7B7cUrYau) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm) | [Yeshua](https://open.spotify.com/album/2ubpSKz1ULV8ECWpKcBj20) | 5:46 | 2022-09-02 |  |
 | [É Tempo de Abrir o Coração \- Ao Vivo](https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [É Tempo de Abrir o Coração / Santo \(Ao Vivo\)](https://open.spotify.com/album/42NjnTNuaIEGBsX3XACxGX) | 4:34 | 2022-09-02 |  |
 | [Êxodo \- ao vivo em São Paulo](https://open.spotify.com/track/7AKkT7q6Kxdrh2n2qvLAHk) | [Projeto Sola](https://open.spotify.com/artist/7frHe3lyyKF5Uo1rDZ058K) | [Homem Litúrgico, Ao Vivo](https://open.spotify.com/album/3pBtEZlLUVr9ljXjY0zeH5) | 3:54 | 2023-09-25 |  |

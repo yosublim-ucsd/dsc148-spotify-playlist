@@ -1,12 +1,12 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Blue Lab Beats",
-  "num_followers": 303145,
+  "num_followers": 303217,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGE0YTg2YmQyMzIyZGZhNDQyNTM0MzUyN2VmZTk2YTg3YzE2NmM1",
+  "snapshot_id": "MCw4NDQ2ODM4YTUxZDU5YzhlYTA1OWQ5MWU0ZGNmZjgxOTdlMmQ3YTc5",
   "tracks": [
     {
       "added_at": "2023-12-22 00:00:01",
@@ -119,26 +119,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Marching Band (feat. Masego)",
-        "url": "https://open.spotify.com/album/7MTqfU7Opx2Z85w4HrFESt"
-      },
-      "artists": [
-        {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 284386,
-      "name": "Marching Band - feat. Masego",
-      "url": "https://open.spotify.com/track/1wWGkPC7eBVvDZoEhROvGv"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "Where I'm Meant To Be",
         "url": "https://open.spotify.com/album/0nhfG8lPabvjTN0ACcwBux"
       },
@@ -155,6 +135,26 @@
       "duration_ms": 194440,
       "name": "No Confusion (feat. Kojey Radical)",
       "url": "https://open.spotify.com/track/1DkHcsvPvbfmEtKwDvmYmY"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Marching Band (feat. Masego)",
+        "url": "https://open.spotify.com/album/7MTqfU7Opx2Z85w4HrFESt"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 284386,
+      "name": "Marching Band - feat. Masego",
+      "url": "https://open.spotify.com/track/1wWGkPC7eBVvDZoEhROvGv"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -227,22 +227,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "So Mi Stay",
-        "url": "https://open.spotify.com/album/2TGuOjs6ree8F2eB1A4S1n"
-      },
-      "artists": [
-        {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
-        }
-      ],
-      "duration_ms": 260226,
-      "name": "So Mi Stay",
-      "url": "https://open.spotify.com/track/11u619J5WmRcm5ByntmjWQ"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "Black Classical Music",
         "url": "https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 238786,
       "name": "Rust (feat. Tom Misch)",
       "url": "https://open.spotify.com/track/1nsaIli1TgKxLjHmWqDRmE"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "So Mi Stay",
+        "url": "https://open.spotify.com/album/2TGuOjs6ree8F2eB1A4S1n"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        }
+      ],
+      "duration_ms": 260226,
+      "name": "So Mi Stay",
+      "url": "https://open.spotify.com/track/11u619J5WmRcm5ByntmjWQ"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -343,6 +343,46 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
+        "name": "Fukswityu",
+        "url": "https://open.spotify.com/album/1ERr7OlfiNNJWtKUQqyhdg"
+      },
+      "artists": [
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Fukswityu",
+      "url": "https://open.spotify.com/track/7DqF3OvXVr9zMqG72a6hdX"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Black Classical Music",
+        "url": "https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Charlie Stacey",
+          "url": "https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g"
+        }
+      ],
+      "duration_ms": 319040,
+      "name": "Black Classical Music (feat. Venna & Charlie Stacey)",
+      "url": "https://open.spotify.com/track/3hmCHZFkgE4tkJKSqpOUhz"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
         "name": "Green Grass",
         "url": "https://open.spotify.com/album/75CB1iYaNf6pwIS366jB2o"
       },
@@ -363,18 +403,18 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Fukswityu",
-        "url": "https://open.spotify.com/album/1ERr7OlfiNNJWtKUQqyhdg"
+        "name": "Everything Is Going to Be OK",
+        "url": "https://open.spotify.com/album/0LIjSRLoTlpMB2vHJHX86M"
       },
       "artists": [
         {
-          "name": "Jitwam",
-          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Fukswityu",
-      "url": "https://open.spotify.com/track/7DqF3OvXVr9zMqG72a6hdX"
+      "duration_ms": 287992,
+      "name": "Everything Is Going to Be OK",
+      "url": "https://open.spotify.com/track/4JPj5HzPn5sRfwzqH9HMgX"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -395,18 +435,50 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Everything Is Going to Be OK",
-        "url": "https://open.spotify.com/album/0LIjSRLoTlpMB2vHJHX86M"
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/6kUnzF4bqYq6Whq5c91NbI"
       },
       "artists": [
         {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
         }
       ],
-      "duration_ms": 287992,
-      "name": "Everything Is Going to Be OK",
-      "url": "https://open.spotify.com/track/4JPj5HzPn5sRfwzqH9HMgX"
+      "duration_ms": 175635,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/4fcGgxx1moBvJZDgRU0hTk"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "HIZUKI // PERFECT DIVIDE",
+        "url": "https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 250480,
+      "name": "Hizuki",
+      "url": "https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Where I'm Meant To Be",
+        "url": "https://open.spotify.com/album/0nhfG8lPabvjTN0ACcwBux"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        }
+      ],
+      "duration_ms": 434346,
+      "name": "Welcome To My World",
+      "url": "https://open.spotify.com/track/0caY5TK4dj5OrTWgqeRT8y"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -440,65 +512,13 @@
           "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
         },
         {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Charlie Stacey",
-          "url": "https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g"
+          "name": "Shabaka",
+          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
         }
       ],
-      "duration_ms": 319040,
-      "name": "Black Classical Music (feat. Venna & Charlie Stacey)",
-      "url": "https://open.spotify.com/track/3hmCHZFkgE4tkJKSqpOUhz"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/6kUnzF4bqYq6Whq5c91NbI"
-      },
-      "artists": [
-        {
-          "name": "Sophie Faith",
-          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
-        }
-      ],
-      "duration_ms": 175635,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/4fcGgxx1moBvJZDgRU0hTk"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Where I'm Meant To Be",
-        "url": "https://open.spotify.com/album/0nhfG8lPabvjTN0ACcwBux"
-      },
-      "artists": [
-        {
-          "name": "Ezra Collective",
-          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
-        }
-      ],
-      "duration_ms": 434346,
-      "name": "Welcome To My World",
-      "url": "https://open.spotify.com/track/0caY5TK4dj5OrTWgqeRT8y"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "HIZUKI // PERFECT DIVIDE",
-        "url": "https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 250480,
-      "name": "Hizuki",
-      "url": "https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj"
+      "duration_ms": 271826,
+      "name": "Raisins Under the Sun (feat. Shabaka Hutchings)",
+      "url": "https://open.spotify.com/track/24ZA5a59iToToWe7pPT0A7"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -515,26 +535,6 @@
       "duration_ms": 218680,
       "name": "Bad Company",
       "url": "https://open.spotify.com/track/7yPDR2EULpVBEiKq8Aqs7G"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Black Classical Music",
-        "url": "https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET"
-      },
-      "artists": [
-        {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
-        },
-        {
-          "name": "Shabaka",
-          "url": "https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js"
-        }
-      ],
-      "duration_ms": 271826,
-      "name": "Raisins Under the Sun (feat. Shabaka Hutchings)",
-      "url": "https://open.spotify.com/track/24ZA5a59iToToWe7pPT0A7"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
+        "name": "Could We Be More",
+        "url": "https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "duration_ms": 338506,
+      "name": "War Dance",
+      "url": "https://open.spotify.com/track/56CKIlaRH80QcLHEuU1tUE"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
         "name": "It's All Good",
         "url": "https://open.spotify.com/album/1nQjbiLg6hwnvqfVmgjY1r"
       },
@@ -627,18 +643,18 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Could We Be More",
-        "url": "https://open.spotify.com/album/48e8LFqiVUxumlXDIVyNYl"
+        "name": "Gift from the Trees",
+        "url": "https://open.spotify.com/album/0ENdkZVVDwCrMhdl29Ccdl"
       },
       "artists": [
         {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+          "name": "Mammal Hands",
+          "url": "https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1"
         }
       ],
-      "duration_ms": 338506,
-      "name": "War Dance",
-      "url": "https://open.spotify.com/track/56CKIlaRH80QcLHEuU1tUE"
+      "duration_ms": 312438,
+      "name": "Nightingale",
+      "url": "https://open.spotify.com/track/2WY3akDTRwojfbqQWNfSAP"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -663,22 +679,6 @@
       "duration_ms": 172732,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/74lXEOR1jwNlqIRGXdcIn7"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Gift from the Trees",
-        "url": "https://open.spotify.com/album/0ENdkZVVDwCrMhdl29Ccdl"
-      },
-      "artists": [
-        {
-          "name": "Mammal Hands",
-          "url": "https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1"
-        }
-      ],
-      "duration_ms": 312438,
-      "name": "Nightingale",
-      "url": "https://open.spotify.com/track/2WY3akDTRwojfbqQWNfSAP"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "FIELDNOTES PT III",
-        "url": "https://open.spotify.com/album/1mN1K7R6kn8FqBP2OY613q"
-      },
-      "artists": [
-        {
-          "name": "Ego Ella May",
-          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
-        }
-      ],
-      "duration_ms": 191707,
-      "name": "Take It Easy (Miles' Song)",
-      "url": "https://open.spotify.com/track/2wL4LR49SRUAaKvZMiUvob"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "Woe Is Me",
         "url": "https://open.spotify.com/album/5CQPeYHDgr8d2ikkZwIERX"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 298533,
       "name": "Age Of Ascent",
       "url": "https://open.spotify.com/track/4xFOvGNluJ08G3JM73rwbU"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "FIELDNOTES PT III",
+        "url": "https://open.spotify.com/album/1mN1K7R6kn8FqBP2OY613q"
+      },
+      "artists": [
+        {
+          "name": "Ego Ella May",
+          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
+        }
+      ],
+      "duration_ms": 191707,
+      "name": "Take It Easy (Miles' Song)",
+      "url": "https://open.spotify.com/track/2wL4LR49SRUAaKvZMiUvob"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Friday Film Special",
-        "url": "https://open.spotify.com/album/1y2j8nfXPs2J440mCouYIv"
-      },
-      "artists": [
-        {
-          "name": "GoGo Penguin",
-          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
-        }
-      ],
-      "duration_ms": 249675,
-      "name": "Friday Film Special",
-      "url": "https://open.spotify.com/track/0lqR8aeTHqvcZwVDBH3kaJ"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/5RwQwvRgpHl2Ej7Q0wo4ik"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 176611,
       "name": "High",
       "url": "https://open.spotify.com/track/1x5hj8iVP3vGOcO1at3hEV"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Friday Film Special",
+        "url": "https://open.spotify.com/album/1y2j8nfXPs2J440mCouYIv"
+      },
+      "artists": [
+        {
+          "name": "GoGo Penguin",
+          "url": "https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L"
+        }
+      ],
+      "duration_ms": 249675,
+      "name": "Friday Film Special",
+      "url": "https://open.spotify.com/track/0lqR8aeTHqvcZwVDBH3kaJ"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Late Night People",
-        "url": "https://open.spotify.com/album/5pN3T9hCW6y9OKAgJnEYYo"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 334000,
-      "name": "Late Night People",
-      "url": "https://open.spotify.com/track/69y3XAgRaXrtO5h9YvpPHJ"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "Astronaut",
         "url": "https://open.spotify.com/album/7q8Z5fhvYBhVLFGvv9kif5"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 161283,
       "name": "Jupiter",
       "url": "https://open.spotify.com/track/1cDgeJEQvI5PDmWU16R1n5"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Late Night People",
+        "url": "https://open.spotify.com/album/5pN3T9hCW6y9OKAgJnEYYo"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 334000,
+      "name": "Late Night People",
+      "url": "https://open.spotify.com/track/69y3XAgRaXrtO5h9YvpPHJ"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 352633,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "Calling",
         "url": "https://open.spotify.com/album/2Duy6YtXSEmkUCW9mLby8V"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 258608,
       "name": "Closer (feat. Andreya Triana)",
       "url": "https://open.spotify.com/track/6Qi2kyUmKxlzlYLnOaDnHZ"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 352633,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP"
     },
     {
       "added_at": "2023-12-22 00:00:01",

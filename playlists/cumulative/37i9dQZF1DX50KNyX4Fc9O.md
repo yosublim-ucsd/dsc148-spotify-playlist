@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Karol G
 
-559 songs - 1 day 5 hr 2 min
+560 songs - 1 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -557,7 +557,8 @@
 | [Yes I'm A Mess](https://open.spotify.com/track/4Yrt54xR4T8PPOZ7yf9kyT) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Yes I'm A Mess](https://open.spotify.com/album/0mbu9tcivddH45l4FuazT4) | 2:44 | 2023-09-28 | 2023-11-24 |
 | [You & I](https://open.spotify.com/track/1EuWkVH5tfxmvVNGVnNu1Y) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You & I](https://open.spotify.com/album/5sXGarr3y9MdqxnO8MFlGz) | 3:00 | 2023-07-13 | 2023-09-15 |
 | [YOU & I \(feat\. Khalid\)](https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 3:25 | 2023-07-27 | 2023-10-06 |
-| [You & Me](https://open.spotify.com/track/0yjswHWcqTEtpoe4IzJRI5) | [Merlin](https://open.spotify.com/artist/2MaEWDHjb1owUg3SGhS1vp), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [You & Me](https://open.spotify.com/album/6R5u0Z5107RbTtAIk9aQ0k) | 2:34 | 2023-12-21 |  |
+| [You & Me](https://open.spotify.com/track/0yjswHWcqTEtpoe4IzJRI5) | [Merlin](https://open.spotify.com/artist/2MaEWDHjb1owUg3SGhS1vp), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [You & Me](https://open.spotify.com/album/6R5u0Z5107RbTtAIk9aQ0k) | 2:34 | 2023-12-21 | 2023-12-23 |
+| [You & Me](https://open.spotify.com/track/7ouJOwsTo9wpmV4bDdOH8M) | [Merlin](https://open.spotify.com/artist/2MaEWDHjb1owUg3SGhS1vp), [Emie](https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ) | [You & Me](https://open.spotify.com/album/2cTcV37tJ1qVXTH1iRf2Mz) | 2:34 | 2023-12-21 |  |
 | [You Could Love Me Back](https://open.spotify.com/track/5FMD1NKiZJ64coXJU6YcDe) | [Hattie Oates](https://open.spotify.com/artist/21XMngjCd7tTpvn2ruHB6R) | [You Could Love Me Back](https://open.spotify.com/album/4Dmf5lYKZI0xf9LGfsoA82) | 3:06 | 2023-09-07 | 2023-10-13 |
 | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk) | 3:14 | 2023-10-26 | 2023-11-17 |
 | [You Don't Even](https://open.spotify.com/track/22ugIn69GgAXsaKox9lXI3) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [You Don't Even](https://open.spotify.com/album/57DIram00k8ChKYxsWJB5l) | 2:18 | 2023-09-07 | 2023-10-13 |

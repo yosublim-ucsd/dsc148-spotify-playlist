@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWB0NjvuKCFr.md) - [plain]
 
 > Santi, from Netflix's series 'Neon', takes over Fuego! Featuring Rauw Alejandro, Daddy Yankee, J Balvin & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282 likes - 25 songs - 1 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 287 likes - 25 songs - 1 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Exagerao](https://open.spotify.com/track/6MvOt6KWi2ptUAl8j3GBew) | [Tyler Dean Flores](https://open.spotify.com/artist/0aIzB3Nc3rrZUDLi8Q1Vtk) | [Exagerao \(from the Netflix Series "Neon"\)](https://open.spotify.com/album/5mJBOJTF6DGIMGmV0Cl59h) | 1:19 |
+| 1 | [Exagerao](https://open.spotify.com/track/6MvOt6KWi2ptUAl8j3GBew) | [Santiago Quinones](https://open.spotify.com/artist/3MzGy58YBArTs8nukPxfkB) | [Exagerao \(from the Netflix Series "Neon"\)](https://open.spotify.com/album/5mJBOJTF6DGIMGmV0Cl59h) | 1:19 |
 | 2 | [Hombres y Mujeres](https://open.spotify.com/track/71L9EZo8OEaZINg75dBUSW) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Hombres y Mujeres](https://open.spotify.com/album/0xlWEENUvq7Tseg7mxMJuI) | 2:28 |
 | 3 | [Llorarás](https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK) | [Dimension Latina](https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk) | [Una Dimensión De Éxitos](https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV) | 3:48 |
 | 4 | [Xplicit Content](https://open.spotify.com/track/36ohb6o1C589APsOXrxYek) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [Xplicit Content](https://open.spotify.com/album/2iV5pcGbjFdQnHLzcYWyuW) | 2:24 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWB0NjvuKCFr.md) - [plain]
 | 24 | [Rauw Alejandro: Bzrp Music Sessions, Vol\. 56](https://open.spotify.com/track/2NFadq6pUeiVEihLvUlOSr) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Rauw Alejandro: Bzrp Music Sessions, Vol\. 56](https://open.spotify.com/album/6N4eyhCAqaGoT3lcEpzBmf) | 3:11 |
 | 25 | [Tormenta \(feat\. Bad Bunny\)](https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:13 |
 
-Snapshot ID: `MCw2NzRiMzhkODU4MWU1ZTIzOTNmNGM5NjM1YjIwMDVhM2E2Yzc4OWMw`
+Snapshot ID: `MCwxZGY1MmVmMjBjNWZkMWM3MjU1ODMyMWE4YzkyOTU2MzFkYmZjNzRh`

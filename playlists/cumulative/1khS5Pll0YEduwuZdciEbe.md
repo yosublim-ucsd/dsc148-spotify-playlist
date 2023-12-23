@@ -4,7 +4,7 @@
 
 > A playlist showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Hovvdy
 
-94 songs - 5 hr 50 min
+95 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [American Daughter](https://open.spotify.com/track/7CL67glGCz5kZNBJLmkhfu) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Become](https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga) | 4:15 | 2023-11-03 |  |
 | [Amoeba](https://open.spotify.com/track/0HAqq2GcQKyi3s87GuN7jU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 3:48 | 2023-11-03 |  |
 | [Another good year for the roses](https://open.spotify.com/track/1YoOb9usnbDLSAACSSCwzP) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Another good year for the roses](https://open.spotify.com/album/56qRporNZTzZiqwfJaEsV0) | 5:34 | 2023-11-03 |  |
+| [Anyone But You](https://open.spotify.com/track/4faTuWPQeMo24zvuTDre3c) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Anyone But You](https://open.spotify.com/album/2viPAytIOe7TjMOITmmWav) | 2:56 | 2023-12-22 |  |
 | [Anything You Want](https://open.spotify.com/track/09A1guWAPWXG2vxYjywNpl) | [Eliza McLamb](https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa) | [Anything You Want](https://open.spotify.com/album/1Bq3spRdvVh5SQCMOfRqNS) | 3:33 | 2023-11-03 |  |
 | [Awful Lightning](https://open.spotify.com/track/0IEFpjJF5MuURYFL4CAJd0) | [Kevin Drew](https://open.spotify.com/artist/64RGS9OBGsUWkopEtO5Cz7) | [Aging](https://open.spotify.com/album/21ytlmXJV1mWsF0dRiV7Ar) | 5:42 | 2023-11-03 |  |
 | [Baby Teeth](https://open.spotify.com/track/5DZQx7Dty5uqJQV9L05rOg) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Baby Teeth](https://open.spotify.com/album/79qhXBZUFvDZ90kj5svopV) | 3:34 | 2023-11-03 |  |

@@ -599,6 +599,24 @@
     },
     {
       "album": {
+        "name": "Drunk",
+        "url": "https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158938,
+      "name": "A Fan's Mail (Tron Song Suite II)",
+      "url": "https://open.spotify.com/track/6qXNCWY49AaZ5nfp9AJIc5"
+    },
+    {
+      "album": {
         "name": "City On My Back",
         "url": "https://open.spotify.com/album/4dmycXSxh1F9LGAVgB1plB"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Proudly South African gospel goodness. Cover: <a href=\"https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5?si=OjiQz5aVRKCMcGcbLuHUuA\">Sneziey</a>\n",
-  "num_followers": 47167,
+  "num_followers": 47277,
   "original_name": "Sunday Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmVkNzBjODQzYzk3OTQ2YjgwMTBkZTc3YTlmODk0NGIwNWE3YTM0",
+  "snapshot_id": "MCwzMWEyMzRhOWQzZmMwNGM4MTRkMTRlNDYxYmMzMmZlMzRjZmQyMmRk",
   "tracks": [
     {
       "added_at": "2023-05-05 07:24:36",
@@ -63,6 +63,26 @@
       "duration_ms": 500087,
       "name": "Moy\u2019 Oyingcwele (Live)",
       "url": "https://open.spotify.com/track/710zL5SAbc6dbHEsLiBwME"
+    },
+    {
+      "added_at": "2023-12-22 09:02:55",
+      "album": {
+        "name": "Africa For Jesus (Live at Worship House Church Limpopo, 2023) (feat. Mish Mahendere)",
+        "url": "https://open.spotify.com/album/4h6o8q9jm2Ui1PIOuWNbEl"
+      },
+      "artists": [
+        {
+          "name": "Worship House",
+          "url": "https://open.spotify.com/artist/3Aa2R54aqT4UiklOkE0qwD"
+        },
+        {
+          "name": "Mish Mahendere",
+          "url": "https://open.spotify.com/artist/3yKe6QM3lmU3oyFkONGp5b"
+        }
+      ],
+      "duration_ms": 455300,
+      "name": "Africa For Jesus (Live at Worship House Church Limpopo, 2023) (feat. Mish Mahendere)",
+      "url": "https://open.spotify.com/track/5YtFXVeXtEvSAKDAoYcNZk"
     },
     {
       "added_at": "2023-05-05 07:24:36",
@@ -291,6 +311,26 @@
       "duration_ms": 307510,
       "name": "Yibanathi",
       "url": "https://open.spotify.com/track/4rPSpeKJekm5pJNabHi0MK"
+    },
+    {
+      "added_at": "2023-12-22 09:04:39",
+      "album": {
+        "name": "Ke Jeso Jeso (Live at Worship House Church Limpopo, 2023) (feat. Marc Sathekge)",
+        "url": "https://open.spotify.com/album/4B2zCui5CF6jIqw7sVX90j"
+      },
+      "artists": [
+        {
+          "name": "Worship House",
+          "url": "https://open.spotify.com/artist/3Aa2R54aqT4UiklOkE0qwD"
+        },
+        {
+          "name": "Marc Sathekge",
+          "url": "https://open.spotify.com/artist/5oeONYxithKJWXZEuEsVMD"
+        }
+      ],
+      "duration_ms": 331289,
+      "name": "Ke Jeso Jeso (Live at Worship House Church Limpopo, 2023) (feat. Marc Sathekge)",
+      "url": "https://open.spotify.com/track/0buwNSVYhWmF5OJB5yGoGG"
     },
     {
       "added_at": "2023-05-05 07:24:36",

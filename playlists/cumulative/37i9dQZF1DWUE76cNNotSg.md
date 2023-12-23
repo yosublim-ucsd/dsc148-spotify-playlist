@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-402 songs - 1 day 2 hr 2 min
+403 songs - 1 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,7 @@
 | [Don't You Like It?](https://open.spotify.com/track/6u0TL1wqLwuPDAjZeB95R4) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Don't You Like It?](https://open.spotify.com/album/77EPq9lvOSVw7zKgqwv2QV) | 3:46 | 2022-05-13 | 2022-06-04 |
 | [Done It All Wrongh](https://open.spotify.com/track/2y3rFDdYs6AKLrUJYtiCrX) | [Andrew Applepie](https://open.spotify.com/artist/5BYcwjrQth7em7maAt0yKE) | [Regress](https://open.spotify.com/album/3jNs26bwkz3e4yIcoSFoYO) | 3:27 | 2020-12-22 | 2022-04-24 |
 | [Downtown](https://open.spotify.com/track/3MAkPH0PUgcz8QSCnlq7ts) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Downtown](https://open.spotify.com/album/26O1KQ5LTFvMI2XH2POMXd) | 4:45 | 2020-12-22 | 2022-07-29 |
-| [Downtown](https://open.spotify.com/track/6CS2VZem8trycECb9mEGK0) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Downtown](https://open.spotify.com/album/7BUIXtXeK8lyCZ0ZbjCaol) | 4:45 | 2023-08-18 |  |
+| [Downtown](https://open.spotify.com/track/6CS2VZem8trycECb9mEGK0) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Downtown](https://open.spotify.com/album/7BUIXtXeK8lyCZ0ZbjCaol) | 4:45 | 2023-08-18 | 2023-12-23 |
 | [Dream with You \- Bosq Remix](https://open.spotify.com/track/5Kw5LPKOu0HqRMLbFCk8OQ) | [Jeffrey Paradise](https://open.spotify.com/artist/3ZiAPWZArTIpiFG6L06Fwy) | [Dream with You](https://open.spotify.com/album/4HmnbASaQNUkcQTRx7pw5Q) | 4:30 | 2020-12-22 | 2022-07-20 |
 | [Dreams \- Lil Texas Remix](https://open.spotify.com/track/2lfUpF2DryDUrNmQMe4Qr4) | [Kid Froopy](https://open.spotify.com/artist/4yXRQkCMWWkfZSSTA2oKjU), [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Drive Slow](https://open.spotify.com/album/4HaHzvVVqxq4q1DWppTWjH) | 4:00 | 2020-12-22 | 2022-07-26 |
 | [Drift](https://open.spotify.com/track/1LdV2QpLGtA3E6WNMwAPGE) | [Benji Lewis](https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5) | [Drift](https://open.spotify.com/album/39dR49LCVjZ5j8WvNC4JB4) | 3:42 | 2020-12-22 | 2022-04-19 |
@@ -339,6 +339,7 @@
 | [Swirl \- Roosevelt Remix](https://open.spotify.com/track/7sH9vN5ziCJ3snQ2nxJtMG) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI), [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Swirl \(Roosevelt Remix\)](https://open.spotify.com/album/0JcAcT7K4l5dp5grqmiIaN) | 5:03 | 2023-12-01 |  |
 | [Séquences \- Parcels Remix](https://open.spotify.com/track/46Yk35nGRNyvoAhBOIF8n6) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Séquences \(Remixes\)](https://open.spotify.com/album/1ksIJOPQRsfDYYED8NkaCd) | 4:25 | 2020-12-22 | 2023-11-18 |
 | [Tailwhip](https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Tailwhip](https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy) | 3:45 | 2020-12-22 | 2023-12-17 |
+| [Tailwhip](https://open.spotify.com/track/7fax7NlxOq2X9kMZw8QLE2) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Tailwhip](https://open.spotify.com/album/5zV9Kwq0WDSPshNbvG418a) | 3:45 | 2023-12-15 |  |
 | [Taking Over](https://open.spotify.com/track/1nvBoPz0o0Y5WYT5aaoSKZ) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Taking Over](https://open.spotify.com/album/5jEBgUyhPLu3QUoZvbRdCa) | 5:36 | 2020-12-22 |  |
 | [Taking Over](https://open.spotify.com/track/3uXle1XlLjIXh2LCPQ0hPa) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Taking Over](https://open.spotify.com/album/2SltvftvL174qfJ9COX0ko) | 5:36 | 2020-12-22 | 2022-04-12 |
 | [Tell Me](https://open.spotify.com/track/2jrAN4OhqpaeWrE8Krt2to) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [Collage 1](https://open.spotify.com/album/6OdqJNtnslCLIeUZt5jogs) | 3:20 | 2020-12-22 |  |

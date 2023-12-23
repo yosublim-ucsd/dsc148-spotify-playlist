@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 
 > <a href="spotify:artist:00CMSJdbf36zOzKB3z8JrR">Victor Cardenas</a>'s favorite tracks\. Updated regularly\. Curated by Victor Cardenas\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,350 likes - 77 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,373 likes - 77 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 | 65 | [Silhouettes \- Original Radio Edit](https://open.spotify.com/track/06h3McKzmxS8Bx58USHiMq) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Silhouettes](https://open.spotify.com/album/56Wdv50B0BK8z3PhOIz7WE) | 3:31 |
 | 66 | [Latinos a Bailar](https://open.spotify.com/track/1tEsmmnnJEjkRYWgUq8lAe) | [DJ Freshly](https://open.spotify.com/artist/0C2bzaeNvJ4p4WYN3hj9L0) | [Latinos a Bailar](https://open.spotify.com/album/5fUaXV227Ah7oUQPPfHBDh) | 3:09 |
 | 67 | [Muevelo Sacudelo](https://open.spotify.com/track/20MOxAOkxdf8jP7x2rJXNu) | [DJ Freshly](https://open.spotify.com/artist/0C2bzaeNvJ4p4WYN3hj9L0), [Freddy Moore](https://open.spotify.com/artist/5xlN7ijuxiGalnAD5BgqYN) | [Freshly Guaracha Hits](https://open.spotify.com/album/11d51CGp2mUsUJAVq05IE5) | 4:19 |
-| 68 | [Blue Dreams](https://open.spotify.com/track/0LMpXvC8a7rYNaxNCxXl3p) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9), [Sapir Amar](https://open.spotify.com/artist/1Pjebxkm2UjQrQ5tg4kXYC) | [Yinyang](https://open.spotify.com/album/1PVpa4IQzF73649GJDuQgO) | 4:08 |
+| 68 | [Blue Dreams](https://open.spotify.com/track/40kMwlgBSTjg7sqK694ze3) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9), [Sapir Amar](https://open.spotify.com/artist/1Pjebxkm2UjQrQ5tg4kXYC) | [Blue Dreams](https://open.spotify.com/album/3R2U7mwzBgEAEPyb75ieqe) | 4:08 |
 | 69 | [Sax To Me](https://open.spotify.com/track/01HkaXEkNgxty2lewZ0jqk) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Joseph Qas](https://open.spotify.com/artist/1vs2vlQyZqBSVeD4ezeICI) | [Sax To Me](https://open.spotify.com/album/3hDSkYuQHsIUc5sQYY7Laq) | 6:04 |
 | 70 | [Baila Conmigo \(feat\. Kelly Ruiz\)](https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Kelly Ruíz](https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw) | [Baila Conmigo \(feat\. Kelly Ruiz\)](https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7) | 3:09 |
 | 71 | [Ven A Mi](https://open.spotify.com/track/7tSMeZ48hGkBk2GU9jUgPq) | [Daniel Parranda](https://open.spotify.com/artist/1RXBVkK7YynHOQ3nvuSi5O), [JC Arcila](https://open.spotify.com/artist/1qW7P4wsDj1nz8SSS99weV) | [Ven A Mi](https://open.spotify.com/album/2dG0OUg0ugMFeIxVW0yAdK) | 3:20 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 | 76 | [Melody](https://open.spotify.com/track/5Qxw0150DBPE5HErLTrxgs) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Melody](https://open.spotify.com/album/3Oalgg5eo0p3U1vyR1ynYS) | 4:50 |
 | 77 | [Que Tu Me Beses](https://open.spotify.com/track/6Ovu5z78GJ4TE47vAaP7MU) | [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [JUAN JHAIL](https://open.spotify.com/artist/4xBrxEMkW8Jbh9XPpELUpU) | [Que Tu Me Beses](https://open.spotify.com/album/2gMHWHrMIbphy7VP2YN8w8) | 3:06 |
 
-Snapshot ID: `MCwzYjFiM2IzZGU3MGU4NTgzZjUzZWI3ZmNhZmY1OTM1ZTBlM2UwYmY2`
+Snapshot ID: `MCxiYWMxNjc0ZWE2YTEzMDgxNjBmODVjYzAzMzBiZjk4ODA5MDY1MGYx`

@@ -1,13 +1,149 @@
 {
-  "description": "Essential new pop tracks. Cover: FLETCHER",
-  "num_followers": 71188,
+  "description": "Essential new pop tracks. Cover: Jimin",
+  "num_followers": 71212,
   "original_name": "New Pop Picks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZmYxNTU3YjI1M2VhMzVlOThlZDU3NTQ3ZjhlNzdlNDdjMmZmZTdi",
+  "snapshot_id": "MCw1MjQ3NjE0YTYwZGMzMzc4NWM1MzIxZDk4OTJhNzQ3NjJmNDM5MDY0",
   "tracks": [
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Alien",
+        "url": "https://open.spotify.com/album/23Id7uPv0luo4pJpzKYBAO"
+      },
+      "artists": [
+        {
+          "name": "Nico & Chelsea",
+          "url": "https://open.spotify.com/artist/2D3SlrKnJAnNyxf2ty2a97"
+        },
+        {
+          "name": "Nico Collins",
+          "url": "https://open.spotify.com/artist/1iGwHlKgQKtdrtzmlwZ71U"
+        },
+        {
+          "name": "Chelsea Collins",
+          "url": "https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG"
+        }
+      ],
+      "duration_ms": 193275,
+      "name": "Alien",
+      "url": "https://open.spotify.com/track/2YdDd0WUsWLWZq0Puz0Ypo"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Same Mistakes",
+        "url": "https://open.spotify.com/album/1sqbRRN7BoWbaYtkTipAx8"
+      },
+      "artists": [
+        {
+          "name": "Jez Dior",
+          "url": "https://open.spotify.com/artist/2tmWjaROlvLpahIZcvPLwi"
+        }
+      ],
+      "duration_ms": 167233,
+      "name": "Same Mistakes",
+      "url": "https://open.spotify.com/track/4n5liaY9DETPZQsscI3pbQ"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "american fantasy",
+        "url": "https://open.spotify.com/album/3PQcianQk4Nf2ksnFVrLxC"
+      },
+      "artists": [
+        {
+          "name": "Daniel Leggs",
+          "url": "https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5"
+        }
+      ],
+      "duration_ms": 142732,
+      "name": "american fantasy",
+      "url": "https://open.spotify.com/track/1Et21JkyGRd5rBTbPNUCmm"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/2CJuzrodIz0kB8eCazd5XN"
+      },
+      "artists": [
+        {
+          "name": "Dolly Style",
+          "url": "https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs"
+        }
+      ],
+      "duration_ms": 161214,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/6X0zDJ2k6sdnR6if2DsnLW"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "All I Do Is Try",
+        "url": "https://open.spotify.com/album/4MiUTSgXKAGFVNjV4Om29U"
+      },
+      "artists": [
+        {
+          "name": "Anthonia Edwards",
+          "url": "https://open.spotify.com/artist/1RaPkxbAuGOQxWnXh43O7C"
+        }
+      ],
+      "duration_ms": 203256,
+      "name": "All I Do Is Try",
+      "url": "https://open.spotify.com/track/69p5jinvmXYi9XZX8dURIQ"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Put the Record On",
+        "url": "https://open.spotify.com/album/7IaNaiSFD28JkmjFk7DiQn"
+      },
+      "artists": [
+        {
+          "name": "Kylie Cantrall",
+          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+        }
+      ],
+      "duration_ms": 144867,
+      "name": "Put the Record On",
+      "url": "https://open.spotify.com/track/1UmjMTBr8F8n5jAD9EZTp6"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "inhale - the complete story",
+        "url": "https://open.spotify.com/album/4NyjSQ5VF9sSd39Jg2g3vz"
+      },
+      "artists": [
+        {
+          "name": "Lili-Ann De Francesco",
+          "url": "https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA"
+        }
+      ],
+      "duration_ms": 225413,
+      "name": "her",
+      "url": "https://open.spotify.com/track/3gBF1gc9Fo6SatKWAOoGjY"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "To Be Human",
+        "url": "https://open.spotify.com/album/15TsnJ9mjSNG7Ohq5WFTEZ"
+      },
+      "artists": [
+        {
+          "name": "morgxn",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
+        }
+      ],
+      "duration_ms": 214003,
+      "name": "To Be Human",
+      "url": "https://open.spotify.com/track/4GJD41lLiF3Me8JxxveDuL"
+    },
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
@@ -967,22 +1103,6 @@
     {
       "added_at": "2023-12-02 17:13:09",
       "album": {
-        "name": "Memory Lane & Winter Song",
-        "url": "https://open.spotify.com/album/5IvpvVd9LKgHACcUSHL5Y8"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Memory Lane",
-      "url": "https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT"
-    },
-    {
-      "added_at": "2023-12-02 17:13:09",
-      "album": {
         "name": "Stars",
         "url": "https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ"
       },
@@ -1015,22 +1135,6 @@
       "duration_ms": 257668,
       "name": "Everywhere, Everything (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe"
-    },
-    {
-      "added_at": "2023-12-02 17:13:09",
-      "album": {
-        "name": "BABYMONSTER Debut Digital Single [BATTER UP]",
-        "url": "https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7"
-      },
-      "artists": [
-        {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-        }
-      ],
-      "duration_ms": 188179,
-      "name": "BATTER UP",
-      "url": "https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG"
     },
     {
       "added_at": "2023-12-02 17:13:09",
@@ -1131,22 +1235,6 @@
     {
       "added_at": "2023-12-02 17:13:09",
       "album": {
-        "name": "Bad Woman",
-        "url": "https://open.spotify.com/album/2AjNw7myEdHO8f2ZOm9A9W"
-      },
-      "artists": [
-        {
-          "name": "Paloma Faith",
-          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
-        }
-      ],
-      "duration_ms": 164963,
-      "name": "Bad Woman",
-      "url": "https://open.spotify.com/track/0NmWLEvSOhiV4HsMbADwOj"
-    },
-    {
-      "added_at": "2023-12-02 17:13:09",
-      "album": {
         "name": "The Roads",
         "url": "https://open.spotify.com/album/74Kn48bZ6koe1cWM3x29lU"
       },
@@ -1207,22 +1295,6 @@
       "duration_ms": 227224,
       "name": "Lifeline - From the Original Motion Picture \u201cThe Color Purple\u201d",
       "url": "https://open.spotify.com/track/66Z7xWbRpjO7mZJ8U8scrw"
-    },
-    {
-      "added_at": "2023-12-02 17:13:09",
-      "album": {
-        "name": "orbit",
-        "url": "https://open.spotify.com/album/5xLRIrNswkxjD0U0z47Rw2"
-      },
-      "artists": [
-        {
-          "name": "Henry Moodie",
-          "url": "https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5"
-        }
-      ],
-      "duration_ms": 189994,
-      "name": "orbit",
-      "url": "https://open.spotify.com/track/1xMtUb8b1DxW89FJfxOwPN"
     },
     {
       "added_at": "2023-12-02 17:13:09",
@@ -1291,22 +1363,6 @@
     {
       "added_at": "2023-12-02 17:13:09",
       "album": {
-        "name": "Hard To Love",
-        "url": "https://open.spotify.com/album/0jXxDV0TkGE6f5MezsGFrU"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 167099,
-      "name": "Hard to Love",
-      "url": "https://open.spotify.com/track/6QV6miSjUtqppivpjwDZgI"
-    },
-    {
-      "added_at": "2023-12-02 17:13:09",
-      "album": {
         "name": "EDIE CELINE",
         "url": "https://open.spotify.com/album/1ZQHz49qJwDG9W7jh9V9dy"
       },
@@ -1355,34 +1411,6 @@
     {
       "added_at": "2023-12-02 17:13:09",
       "album": {
-        "name": "Witness Me (feat. Shawn Mendes, Stormzy & Kirk Franklin)",
-        "url": "https://open.spotify.com/album/0FNmNqZYPEXQbLajHmR9En"
-      },
-      "artists": [
-        {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        },
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 225893,
-      "name": "Witness Me (feat. Shawn Mendes, Stormzy & Kirk Franklin)",
-      "url": "https://open.spotify.com/track/4lIA2yIyg1nPmJ1rBwNFUG"
-    },
-    {
-      "added_at": "2023-12-02 17:13:09",
-      "album": {
         "name": "Feels",
         "url": "https://open.spotify.com/album/7KkdRBQs12lylKXSrWHbx8"
       },
@@ -1399,22 +1427,6 @@
       "duration_ms": 208235,
       "name": "Feels",
       "url": "https://open.spotify.com/track/6jdkNQpwclqrrgcxbz6GA5"
-    },
-    {
-      "added_at": "2023-12-02 17:13:09",
-      "album": {
-        "name": "Missing Me",
-        "url": "https://open.spotify.com/album/19LNcpEeo0mIpgQSBSd3xj"
-      },
-      "artists": [
-        {
-          "name": "Sody",
-          "url": "https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt"
-        }
-      ],
-      "duration_ms": 224253,
-      "name": "Missing Me",
-      "url": "https://open.spotify.com/track/2Ivwnhg88i6kVohrymi155"
     },
     {
       "added_at": "2023-12-02 17:13:09",
@@ -1483,22 +1495,6 @@
     {
       "added_at": "2023-12-02 17:13:09",
       "album": {
-        "name": "Never Over",
-        "url": "https://open.spotify.com/album/4PHPjFHbMLzcORop7TYgvR"
-      },
-      "artists": [
-        {
-          "name": "Alt Bloom",
-          "url": "https://open.spotify.com/artist/6JxQbC46LapcvanSk4J3OP"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Never Over",
-      "url": "https://open.spotify.com/track/1km1gDC6U2xt8x8P1YARTi"
-    },
-    {
-      "added_at": "2023-12-02 17:13:09",
-      "album": {
         "name": "Like A Record",
         "url": "https://open.spotify.com/album/0hXqrUtkjY8pMlWdlR744M"
       },
@@ -1531,22 +1527,6 @@
     {
       "added_at": "2023-12-02 17:13:09",
       "album": {
-        "name": "Homecoming",
-        "url": "https://open.spotify.com/album/3WHRzQYzTFmIVnYiqGWBra"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 172059,
-      "name": "Homecoming",
-      "url": "https://open.spotify.com/track/6Q1VMEsgtuOXZxdduuj4lG"
-    },
-    {
-      "added_at": "2023-12-02 17:13:09",
-      "album": {
         "name": "parachute",
         "url": "https://open.spotify.com/album/07KH3Fjsp0soupFKOhd025"
       },
@@ -1559,22 +1539,6 @@
       "duration_ms": 175420,
       "name": "parachute",
       "url": "https://open.spotify.com/track/0mgAY5KtzQbG8BOIo8Kag4"
-    },
-    {
-      "added_at": "2023-12-02 17:13:09",
-      "album": {
-        "name": "HATE 2 LUV U",
-        "url": "https://open.spotify.com/album/5exZjAvyfhdDdssxOcWfRj"
-      },
-      "artists": [
-        {
-          "name": "AViVA",
-          "url": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
-        }
-      ],
-      "duration_ms": 177479,
-      "name": "HATE 2 LUV U",
-      "url": "https://open.spotify.com/track/0cg2EwJcOFj4S7ZDoDhBMc"
     },
     {
       "added_at": "2023-12-02 17:13:09",
@@ -1595,38 +1559,6 @@
     {
       "added_at": "2023-12-02 17:13:09",
       "album": {
-        "name": "Fire Escapes",
-        "url": "https://open.spotify.com/album/7kkPQtRxES08kc1r24BpjK"
-      },
-      "artists": [
-        {
-          "name": "Winona Oak",
-          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
-        }
-      ],
-      "duration_ms": 170356,
-      "name": "Fire Escapes",
-      "url": "https://open.spotify.com/track/7f8lDyHliy2grjseiVV7JS"
-    },
-    {
-      "added_at": "2023-12-02 17:13:09",
-      "album": {
-        "name": "therapy",
-        "url": "https://open.spotify.com/album/2kbQIS1RXna9AWSxd7XnJF"
-      },
-      "artists": [
-        {
-          "name": "Gloria Kim",
-          "url": "https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx"
-        }
-      ],
-      "duration_ms": 136804,
-      "name": "therapy",
-      "url": "https://open.spotify.com/track/4ndTXhzw5vx2KXZXOHOe8S"
-    },
-    {
-      "added_at": "2023-12-02 17:13:09",
-      "album": {
         "name": "Blue Boy",
         "url": "https://open.spotify.com/album/2bMNDxWazWChajaSXnrpdg"
       },
@@ -1639,118 +1571,6 @@
       "duration_ms": 180653,
       "name": "Blue Boy",
       "url": "https://open.spotify.com/track/0DTdFyK7RkDQEAppGRSKyo"
-    },
-    {
-      "added_at": "2023-12-02 17:13:09",
-      "album": {
-        "name": "Books",
-        "url": "https://open.spotify.com/album/5makcexyZJmKWVzA7QLpyj"
-      },
-      "artists": [
-        {
-          "name": "Kid Sistr",
-          "url": "https://open.spotify.com/artist/7ysZTe2PbCTqmC2tE1dpCk"
-        }
-      ],
-      "duration_ms": 174789,
-      "name": "Books",
-      "url": "https://open.spotify.com/track/5s5XSIecq1xvvOyujFFjrI"
-    },
-    {
-      "added_at": "2023-12-02 17:13:09",
-      "album": {
-        "name": "A2B",
-        "url": "https://open.spotify.com/album/6gvw0F8qkG8VA03z1U8eCN"
-      },
-      "artists": [
-        {
-          "name": "ELIO",
-          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
-        }
-      ],
-      "duration_ms": 130909,
-      "name": "A2B",
-      "url": "https://open.spotify.com/track/26RIaYLm31QkMg4vkigStp"
-    },
-    {
-      "added_at": "2023-12-02 17:13:09",
-      "album": {
-        "name": "STUCK",
-        "url": "https://open.spotify.com/album/0ggyrO4fmfmZPXTND1NhwI"
-      },
-      "artists": [
-        {
-          "name": "Mia Nicolai",
-          "url": "https://open.spotify.com/artist/5oSkgLWQpt5bk4B7JeAzKJ"
-        }
-      ],
-      "duration_ms": 156279,
-      "name": "STUCK",
-      "url": "https://open.spotify.com/track/5GOdow3olKCstvsqCfXFZg"
-    },
-    {
-      "added_at": "2023-12-02 17:13:09",
-      "album": {
-        "name": "Cheating on Her",
-        "url": "https://open.spotify.com/album/5HekAwxZr77hxeiwJKMcCy"
-      },
-      "artists": [
-        {
-          "name": "Emily Burns",
-          "url": "https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ"
-        }
-      ],
-      "duration_ms": 218533,
-      "name": "Cheating on Her",
-      "url": "https://open.spotify.com/track/0Es5vYxImbwX3V5xYQo3nq"
-    },
-    {
-      "added_at": "2023-12-02 17:13:09",
-      "album": {
-        "name": "inhale - E.P.",
-        "url": "https://open.spotify.com/album/6g4KDMX0EEAUiH6bSltjlL"
-      },
-      "artists": [
-        {
-          "name": "Lili-Ann De Francesco",
-          "url": "https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA"
-        }
-      ],
-      "duration_ms": 167533,
-      "name": "the girl (that you can't get over)",
-      "url": "https://open.spotify.com/track/5rvkNjOc5Q6rV26iqdTWwB"
-    },
-    {
-      "added_at": "2023-12-02 17:13:09",
-      "album": {
-        "name": "Tia Tia",
-        "url": "https://open.spotify.com/album/2olewYGi4Q7EqYdgkL2qrb"
-      },
-      "artists": [
-        {
-          "name": "Tia Tia",
-          "url": "https://open.spotify.com/artist/6fbIkBK4DW2IPnlKk9MLWS"
-        }
-      ],
-      "duration_ms": 174828,
-      "name": "Liquor Over U",
-      "url": "https://open.spotify.com/track/2zWBxcWYX32fXgmzaksA6j"
-    },
-    {
-      "added_at": "2023-12-02 17:13:09",
-      "album": {
-        "name": "Cheerleaders and Jocks",
-        "url": "https://open.spotify.com/album/0x1qVcEYZiyq36Ps01Til8"
-      },
-      "artists": [
-        {
-          "name": "Jude York",
-          "url": "https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED"
-        }
-      ],
-      "duration_ms": 227393,
-      "name": "Cheerleaders and Jocks",
-      "url": "https://open.spotify.com/track/6AJbBmXX4GCr5ANj9goh0j"
     }
   ],
   "unique_name": "New Pop Picks",

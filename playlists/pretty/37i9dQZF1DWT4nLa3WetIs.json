@@ -1,12 +1,12 @@
 {
   "description": "Taking you back to your favourite hall party classics from the Afrobeat scene.",
-  "num_followers": 136420,
+  "num_followers": 136630,
   "original_name": "Timeless Afro ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTlhMzE5ZGEwMjVhZWI5OWY0MzdlNjk5YmIyZGY4MzAwOGFlOTdj",
+  "snapshot_id": "MCw1ZjkzN2FmOTZkNTYzZDE5Yjk1N2NlNTUzYTUzN2RhNWMwYmQ5ZmU4",
   "tracks": [
     {
       "added_at": "2020-11-06 13:21:21",
@@ -191,18 +191,22 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Gameover (Deluxe)",
-        "url": "https://open.spotify.com/album/6D9DjuzGIPpFrRSMlXxbD2"
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/13yKq0XTkdxftNDr4vsi7e"
       },
       "artists": [
         {
           "name": "P-Square",
           "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
+        },
+        {
+          "name": "J. Martins",
+          "url": "https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm"
         }
       ],
-      "duration_ms": 281359,
-      "name": "Do Me - Deluxe",
-      "url": "https://open.spotify.com/track/0amjxUztXizZbRwGer8o34"
+      "duration_ms": 264092,
+      "name": "E No Easy",
+      "url": "https://open.spotify.com/track/2eBFbJrTEIWVnqsVRWOgVN"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -275,22 +279,18 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Danger",
-        "url": "https://open.spotify.com/album/13yKq0XTkdxftNDr4vsi7e"
+        "name": "Gameover (Deluxe)",
+        "url": "https://open.spotify.com/album/6D9DjuzGIPpFrRSMlXxbD2"
       },
       "artists": [
         {
           "name": "P-Square",
           "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
-        },
-        {
-          "name": "J. Martins",
-          "url": "https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm"
         }
       ],
-      "duration_ms": 264092,
-      "name": "E No Easy",
-      "url": "https://open.spotify.com/track/2eBFbJrTEIWVnqsVRWOgVN"
+      "duration_ms": 281359,
+      "name": "Do Me - Deluxe",
+      "url": "https://open.spotify.com/track/0amjxUztXizZbRwGer8o34"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -335,6 +335,22 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
+        "name": "D'kings Men",
+        "url": "https://open.spotify.com/album/0em9q0dIvlSje53jYnL054"
+      },
+      "artists": [
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        }
+      ],
+      "duration_ms": 237266,
+      "name": "Oliver Twist",
+      "url": "https://open.spotify.com/track/6EOowyeP4iO02gXv7Em9j5"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
         "name": "Romantic (feat. Tiwa Savage)",
         "url": "https://open.spotify.com/album/6lKawQDT6e3OXoLAYKNJqr"
       },
@@ -355,22 +371,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "D'kings Men",
-        "url": "https://open.spotify.com/album/0em9q0dIvlSje53jYnL054"
-      },
-      "artists": [
-        {
-          "name": "D'banj",
-          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
-        }
-      ],
-      "duration_ms": 237266,
-      "name": "Oliver Twist",
-      "url": "https://open.spotify.com/track/6EOowyeP4iO02gXv7Em9j5"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "Gameover (Deluxe)",
         "url": "https://open.spotify.com/album/6D9DjuzGIPpFrRSMlXxbD2"
       },
@@ -383,6 +383,22 @@
       "duration_ms": 268318,
       "name": "No One Like You - Deluxe",
       "url": "https://open.spotify.com/track/5l2sIiSjXzn6cOLZW1k3r4"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "Best Of Davido",
+        "url": "https://open.spotify.com/album/1cG2CR1M2KMv2dupmm3rFI"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 190295,
+      "name": "Skelewu",
+      "url": "https://open.spotify.com/track/0C63WNrSJOlu62O6lrxRMU"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -403,22 +419,6 @@
       "duration_ms": 230253,
       "name": "Eminado (feat. Don Jazzy)",
       "url": "https://open.spotify.com/track/3Gxold2xHisD55irEJ7du7"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
-        "name": "Best Of Davido",
-        "url": "https://open.spotify.com/album/1cG2CR1M2KMv2dupmm3rFI"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 190295,
-      "name": "Skelewu",
-      "url": "https://open.spotify.com/track/0C63WNrSJOlu62O6lrxRMU"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -547,6 +547,22 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
+        "name": "Gobe",
+        "url": "https://open.spotify.com/album/0mqFpJozdwM7r0Bqb4N2iB"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 229668,
+      "name": "Gobe",
+      "url": "https://open.spotify.com/track/0gu5Cc9YgsGVa4h7H6RyTW"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
         "name": "Gongo Aso",
         "url": "https://open.spotify.com/album/4Lkl7erFMkTHWmkdSmEpj3"
       },
@@ -595,38 +611,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Mondongo",
-        "url": "https://open.spotify.com/album/4xnSuFuoJNfg0c2n6tZuMc"
-      },
-      "artists": [
-        {
-          "name": "Awilo Longomba",
-          "url": "https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT"
-        }
-      ],
-      "duration_ms": 272213,
-      "name": "Karolina",
-      "url": "https://open.spotify.com/track/0tjRxRv1JonYbxX0RD1Smw"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
-        "name": "Gobe",
-        "url": "https://open.spotify.com/album/0mqFpJozdwM7r0Bqb4N2iB"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 229668,
-      "name": "Gobe",
-      "url": "https://open.spotify.com/track/0gu5Cc9YgsGVa4h7H6RyTW"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "Final (Baba Nla) - Single",
         "url": "https://open.spotify.com/album/3PhMIu5CI6S79XdmXzou4t"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 160000,
       "name": "Final (Baba Nla)",
       "url": "https://open.spotify.com/track/5bPpNuK3qgt1UbI18QEUYx"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "Mondongo",
+        "url": "https://open.spotify.com/album/4xnSuFuoJNfg0c2n6tZuMc"
+      },
+      "artists": [
+        {
+          "name": "Awilo Longomba",
+          "url": "https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT"
+        }
+      ],
+      "duration_ms": 272213,
+      "name": "Karolina",
+      "url": "https://open.spotify.com/track/0tjRxRv1JonYbxX0RD1Smw"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -659,6 +659,22 @@
       "duration_ms": 262986,
       "name": "African Queen",
       "url": "https://open.spotify.com/track/4hM9jLSD1lgswviJTkHsPP"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "Dami Duro",
+        "url": "https://open.spotify.com/album/0TKPVgGCjAipq8TnFD7BZ2"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 250257,
+      "name": "Dami Duro",
+      "url": "https://open.spotify.com/track/1qIshP7qHh8qXWtUHECzsI"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -719,22 +735,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "D'banj Essentials",
-        "url": "https://open.spotify.com/album/6W7HwjGhnQoo68CeL0Bz1L"
-      },
-      "artists": [
-        {
-          "name": "D'banj",
-          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
-        }
-      ],
-      "duration_ms": 256840,
-      "name": "Fall in Love",
-      "url": "https://open.spotify.com/track/6TARhI06IcFdWyVuuizLy1"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
       },
@@ -751,18 +751,18 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Dami Duro",
-        "url": "https://open.spotify.com/album/0TKPVgGCjAipq8TnFD7BZ2"
+        "name": "D'banj Essentials",
+        "url": "https://open.spotify.com/album/6W7HwjGhnQoo68CeL0Bz1L"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
         }
       ],
-      "duration_ms": 250257,
-      "name": "Dami Duro",
-      "url": "https://open.spotify.com/track/1qIshP7qHh8qXWtUHECzsI"
+      "duration_ms": 256840,
+      "name": "Fall in Love",
+      "url": "https://open.spotify.com/track/6TARhI06IcFdWyVuuizLy1"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -847,18 +847,22 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Aben Wo Aha",
-        "url": "https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2"
+        "name": "Rapperholic",
+        "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
       },
       "artists": [
         {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "EL",
+          "url": "https://open.spotify.com/artist/4pU8XJNeU0LJhfZQOQcYoh"
         }
       ],
-      "duration_ms": 310666,
-      "name": "Aben Wo Aha",
-      "url": "https://open.spotify.com/track/1sw1Ahq16MtmeFIwEgXxKm"
+      "duration_ms": 225625,
+      "name": "U Go Kill Me (feat. El)",
+      "url": "https://open.spotify.com/track/2iTzNWT7x2NXpMngGZQzPd"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -895,22 +899,18 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Rapperholic",
-        "url": "https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK"
+        "name": "Aben Wo Aha",
+        "url": "https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2"
       },
       "artists": [
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "EL",
-          "url": "https://open.spotify.com/artist/4pU8XJNeU0LJhfZQOQcYoh"
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 225625,
-      "name": "U Go Kill Me (feat. El)",
-      "url": "https://open.spotify.com/track/2iTzNWT7x2NXpMngGZQzPd"
+      "duration_ms": 310666,
+      "name": "Aben Wo Aha",
+      "url": "https://open.spotify.com/track/1sw1Ahq16MtmeFIwEgXxKm"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -967,6 +967,22 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
+        "name": "D'banj Essentials",
+        "url": "https://open.spotify.com/album/6W7HwjGhnQoo68CeL0Bz1L"
+      },
+      "artists": [
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        }
+      ],
+      "duration_ms": 258013,
+      "name": "Mo Gbono Feli Feli",
+      "url": "https://open.spotify.com/track/07RfIWKzLssvCChvLQEW8y"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
         "name": "Dance for Me",
         "url": "https://open.spotify.com/album/2H9HAxeTHIQ66FHVoBjWME"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 204173,
       "name": "Dance for Me",
       "url": "https://open.spotify.com/track/1XgfWBcj0E8cKSo8Hj2F4P"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
-        "name": "D'banj Essentials",
-        "url": "https://open.spotify.com/album/6W7HwjGhnQoo68CeL0Bz1L"
-      },
-      "artists": [
-        {
-          "name": "D'banj",
-          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
-        }
-      ],
-      "duration_ms": 258013,
-      "name": "Mo Gbono Feli Feli",
-      "url": "https://open.spotify.com/track/07RfIWKzLssvCChvLQEW8y"
     },
     {
       "added_at": "2020-11-06 13:21:21",

@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 10276,
+  "num_followers": 10277,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYTZmYzQwZWMwNmVjMDg4MjIxYTVhNTUwMzY4Y2ZiODBlZDZiZjJk",
+  "snapshot_id": "MCxjZGMyMjU1ZGE5YjdmZTQ2Y2FmZjYxNTBiZjE1MTU5MGEzZmQ4MTll",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -423,6 +423,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Baila Riddim",
+        "url": "https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "Boss Lady (Sign Me Up)",
+      "url": "https://open.spotify.com/track/6PR1VSJ3fAnZpRrgIAYgXJ"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "The Art of Flex",
         "url": "https://open.spotify.com/album/7zecbPVfKMGdOj8wfvXNEL"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 183875,
       "name": "Issa Snack",
       "url": "https://open.spotify.com/track/6eIdwZaZNpqvh61NudvQre"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Baila Riddim",
-        "url": "https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 133746,
-      "name": "Boss Lady (Sign Me Up)",
-      "url": "https://open.spotify.com/track/6PR1VSJ3fAnZpRrgIAYgXJ"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "The Wedding Album",
+        "url": "https://open.spotify.com/album/2K8mWL2Bph4tETpm54zOUQ"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 219846,
+      "name": "Play Harder",
+      "url": "https://open.spotify.com/track/6Cn3zyojCFk7QsVoQrU0xe"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Stage Gone Bad",
         "url": "https://open.spotify.com/album/7u4TbngsJ9JaETb6M6wKEe"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 193893,
       "name": "Stage Gone Bad",
       "url": "https://open.spotify.com/track/0W8TTEoiyHqvp0ENoTjfRy"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "The Wedding Album",
-        "url": "https://open.spotify.com/album/2K8mWL2Bph4tETpm54zOUQ"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 219846,
-      "name": "Play Harder",
-      "url": "https://open.spotify.com/track/6Cn3zyojCFk7QsVoQrU0xe"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Lifestyle Riddim",
+        "url": "https://open.spotify.com/album/2rTFiEXUTx4FCEJ3fmUxHb"
+      },
+      "artists": [
+        {
+          "name": "Intence",
+          "url": "https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR"
+        }
+      ],
+      "duration_ms": 164106,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/194rzwsjtlXDLACROj3qKK"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Arch & Bend Riddim Reloaded",
         "url": "https://open.spotify.com/album/7h79kRBzlhskqbE84TTOzy"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 136663,
       "name": "Like Dat",
       "url": "https://open.spotify.com/track/4jawyoaIAYoHq2gKnWQv5o"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Lifestyle Riddim",
-        "url": "https://open.spotify.com/album/2rTFiEXUTx4FCEJ3fmUxHb"
-      },
-      "artists": [
-        {
-          "name": "Intence",
-          "url": "https://open.spotify.com/artist/3gwIlS9NOwBgwV3RfQIYiR"
-        }
-      ],
-      "duration_ms": 164106,
-      "name": "Go Hard",
-      "url": "https://open.spotify.com/track/194rzwsjtlXDLACROj3qKK"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Honda",
+        "url": "https://open.spotify.com/album/73GCIsIqvyDYBEieDAN0P1"
+      },
+      "artists": [
+        {
+          "name": "Twani",
+          "url": "https://open.spotify.com/artist/2Pq8Zpk0RrS8tBFF4xTqAh"
+        }
+      ],
+      "duration_ms": 213864,
+      "name": "Honda",
+      "url": "https://open.spotify.com/track/0MpfX3Q5omIiuREWGeLLwF"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Soca Virgin",
         "url": "https://open.spotify.com/album/6dVd6U3r4uwDSXBjUNyK05"
       },
@@ -1023,18 +1039,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Honda",
-        "url": "https://open.spotify.com/album/73GCIsIqvyDYBEieDAN0P1"
+        "name": "We Muzik: Soca 2018 Trinidad and Tobago Carnival, Vol. 9",
+        "url": "https://open.spotify.com/album/5ae3pB9huSD5ZRXWBK2zih"
       },
       "artists": [
         {
-          "name": "Twani",
-          "url": "https://open.spotify.com/artist/2Pq8Zpk0RrS8tBFF4xTqAh"
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Precision Productions",
+          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
         }
       ],
-      "duration_ms": 213864,
-      "name": "Honda",
-      "url": "https://open.spotify.com/track/0MpfX3Q5omIiuREWGeLLwF"
+      "duration_ms": 203600,
+      "name": "Rough Wine",
+      "url": "https://open.spotify.com/track/2bdltgpX7AB5E6oISNcGKt"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1063,26 +1083,6 @@
       "duration_ms": 227356,
       "name": "Who Pay!? (Big Bumpa) [feat. Salty & Sekon Sta]",
       "url": "https://open.spotify.com/track/1NXihWA24LSLJGWbkmK4D8"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "We Muzik: Soca 2018 Trinidad and Tobago Carnival, Vol. 9",
-        "url": "https://open.spotify.com/album/5ae3pB9huSD5ZRXWBK2zih"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Precision Productions",
-          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
-        }
-      ],
-      "duration_ms": 203600,
-      "name": "Rough Wine",
-      "url": "https://open.spotify.com/track/2bdltgpX7AB5E6oISNcGKt"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Smoke Mask Riddim",
-        "url": "https://open.spotify.com/album/3NLzUwBAZqGkgzf0qnlic1"
-      },
-      "artists": [
-        {
-          "name": "Lednek",
-          "url": "https://open.spotify.com/artist/4Ft1CU17NiK3HFEDMGxLCK"
-        }
-      ],
-      "duration_ms": 202023,
-      "name": "Down in de Meat",
-      "url": "https://open.spotify.com/track/32j9nOIzJrWPtgtzqrzVNp"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Toatin Riddim",
         "url": "https://open.spotify.com/album/4LL4JVrNQbmu7pQixAEPyv"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 116375,
       "name": "Toat No Feelings",
       "url": "https://open.spotify.com/track/3EqVzZ3G6mf20qPIvZiiau"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Smoke Mask Riddim",
+        "url": "https://open.spotify.com/album/3NLzUwBAZqGkgzf0qnlic1"
+      },
+      "artists": [
+        {
+          "name": "Lednek",
+          "url": "https://open.spotify.com/artist/4Ft1CU17NiK3HFEDMGxLCK"
+        }
+      ],
+      "duration_ms": 202023,
+      "name": "Down in de Meat",
+      "url": "https://open.spotify.com/track/32j9nOIzJrWPtgtzqrzVNp"
     },
     {
       "added_at": "2022-02-24 18:00:00",

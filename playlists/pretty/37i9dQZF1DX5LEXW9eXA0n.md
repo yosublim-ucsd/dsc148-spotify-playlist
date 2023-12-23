@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover:LEEWOO\(이우\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,960 likes - 102 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,027 likes - 102 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 101 | [Be forgotten](https://open.spotify.com/track/3mXe1JuZVTmmJ7mZQrwvvc) | [Navi](https://open.spotify.com/artist/1snFqLpoCORfbKnafugg3v) | [Be forgotten](https://open.spotify.com/album/6DpqBvM1vhIT0Ttqrqbl0k) | 3:40 |
 | 102 | [Feeling of love](https://open.spotify.com/track/45S9VsBpy4zZ5BHcwklih2) | [Yeji \(GyeongseoYeji\)](https://open.spotify.com/artist/6jWusfRYDNKV2iwUtMO7kp) | [My Universe](https://open.spotify.com/album/1t7A3JHDRTdFb1VM9DDAxV) | 3:53 |
 
-Snapshot ID: `MCw1YjdiNGNkZjY0MGM3ODBmNmE0OWQ2YTc5N2U2ZjI5OTFmMTAzNjIy`
+Snapshot ID: `MCwwZjYyMDkwZTVlNWJjYmYwMmNhN2MwZDY3OTQwMGYwNWJhNWM1YmQy`

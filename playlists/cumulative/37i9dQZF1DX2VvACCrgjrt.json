@@ -318,7 +318,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 236129,
       "name": "All Eyez On Me",
       "url": "https://open.spotify.com/track/7dHK4l02w2KojtTJJeqnUP"
@@ -700,7 +700,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 141290,
       "name": "Bad Bitch",
       "url": "https://open.spotify.com/track/6hEwE7Wuv1XsSqRFIhDf3z"
@@ -3629,6 +3629,28 @@
     },
     {
       "album": {
+        "name": "Eternity",
+        "url": "https://open.spotify.com/album/4CUPFwbH6LkM6jo2aEVAcg"
+      },
+      "artists": [
+        {
+          "name": "RetroVision",
+          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
+        },
+        {
+          "name": "jeonghyeon",
+          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134769,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/21aWaqbf26P6EFLXRL8NlV"
+    },
+    {
+      "album": {
         "name": "Everybody",
         "url": "https://open.spotify.com/album/5ixZhbQUboD32hcXt4RP1a"
       },
@@ -5105,6 +5127,24 @@
     },
     {
       "album": {
+        "name": "HABANERO",
+        "url": "https://open.spotify.com/album/3RhjyhgMng1xNRiSTi2iCd"
+      },
+      "artists": [
+        {
+          "name": "Matt Hawk",
+          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "HABANERO",
+      "url": "https://open.spotify.com/track/5Owdw7WjhY4NxHAecSSwF3"
+    },
+    {
+      "album": {
         "name": "Hands Up",
         "url": "https://open.spotify.com/album/3fW1Znvs9GaXALS89WE1lh"
       },
@@ -5684,7 +5724,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 179523,
       "name": "I Got That",
       "url": "https://open.spotify.com/track/13JWDV6JAorOJ89kpDqW74"
@@ -8040,6 +8080,24 @@
       "duration_ms": 183869,
       "name": "NTFA",
       "url": "https://open.spotify.com/track/5XHPAcYYDP5OZd6MvH7EWm"
+    },
+    {
+      "album": {
+        "name": "Nudes",
+        "url": "https://open.spotify.com/album/0HRKzg0Qbw31S6CrKmxdvu"
+      },
+      "artists": [
+        {
+          "name": "NALYRO",
+          "url": "https://open.spotify.com/artist/3XC1TzybOz2MUgUybEoUUf"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178560,
+      "name": "Nudes",
+      "url": "https://open.spotify.com/track/7zwQVhWP5akSbE9QnhCs9M"
     },
     {
       "album": {

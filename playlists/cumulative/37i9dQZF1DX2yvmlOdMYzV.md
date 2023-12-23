@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-582 songs - 1 day 7 hr 57 min
+583 songs - 1 day 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Hello](https://open.spotify.com/track/1Sr7G1nLlnAFZ8AKT7PuGo) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Hello](https://open.spotify.com/album/3eBHvRyUhfarjwJH0YK7HK) | 3:15 | 2023-03-31 | 2023-08-26 |
 | [Higher Self](https://open.spotify.com/track/2KcaOSZlR03H41Nhmg2QyH) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Higher Self](https://open.spotify.com/album/1MQEYp0fugw64pyAodgnxe) | 4:01 | 2023-10-20 |  |
 | [Hip Dips](https://open.spotify.com/track/2DRBmze6Xcwi5VZt8XBNZh) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [& what else?](https://open.spotify.com/album/4p5YlAC56HCZOSDBNzqm8A) | 1:26 | 2023-05-19 |  |
+| [Hold My Hand](https://open.spotify.com/track/1E7ssTY1Eeb69pr6aVe6xM) | [Kenneth Whalum](https://open.spotify.com/artist/2lnrl1gyJvhaFtNIIRnB16) | [Hold My Hand](https://open.spotify.com/album/3517UY5CoDP3OQBa5QmsyP) | 3:32 | 2023-06-09 |  |
 | [Hold On](https://open.spotify.com/track/0yE2VIVUryAQDUmhkFc7oB) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Hold On](https://open.spotify.com/album/6VTfE25P75bAiJWUUKWd3J) | 3:20 | 2021-12-15 | 2022-06-28 |
 | [Hold On](https://open.spotify.com/track/2zrAQ3iczs6gMTR50WbV54) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS), [Lauren Faith](https://open.spotify.com/artist/5Y4KzJ4mRooyCG3qmIqOtd) | [Wu Hen](https://open.spotify.com/album/3wLs9mqCIwNGp6GT2cderb) | 3:20 | 2022-09-16 | 2023-07-15 |
 | [Honeydew \(02\)](https://open.spotify.com/track/1q8Ie915rJrzLTOPT71vUA) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [LIBBIE 02](https://open.spotify.com/album/4WLuz6h7LOGyRJybO2DiFD) | 2:33 | 2023-02-16 |  |
@@ -547,7 +548,7 @@
 | [Undone](https://open.spotify.com/track/4eRQ0iaCuuojLwKDZJQdc9) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Undone](https://open.spotify.com/album/4BodxSF9ZOF3mvkvn319In) | 3:20 | 2023-09-22 |  |
 | [Unravel](https://open.spotify.com/track/4iaGEMYt33g7XRW0XysG5B) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Unravel](https://open.spotify.com/album/2Ag4zs6ShtSHPVcgIZoSeq) | 2:40 | 2023-06-09 | 2023-09-02 |
 | [Until The End Of Time \- Spotify Singles](https://open.spotify.com/track/0XdwIG7p28SeTam3DVdMX6) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Spotify Singles](https://open.spotify.com/album/6SL03KQzLNrxyO6AfIBe7y) | 4:43 | 2023-02-14 | 2023-07-15 |
-| [Until The Morning](https://open.spotify.com/track/2mI4R8Mafb3y6I1gytvkDe) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Until The Morning](https://open.spotify.com/album/5QGpibxEBGfcPjY4zS4uwf) | 2:58 | 2023-04-21 |  |
+| [Until The Morning](https://open.spotify.com/track/2mI4R8Mafb3y6I1gytvkDe) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Until The Morning](https://open.spotify.com/album/5QGpibxEBGfcPjY4zS4uwf) | 2:58 | 2023-04-21 | 2023-12-23 |
 | [UR TURN](https://open.spotify.com/track/0dKWEbU5VxTcSOVvtReTGz) | [Lido](https://open.spotify.com/artist/1aSwrSGBNGMLn9ymttfRkk), [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [ULTRAVIOLET](https://open.spotify.com/album/1Q4BFGy2pejAKq29Z13ZRT) | 2:12 | 2023-09-01 |  |
 | [Used To \(feat\. Jordan Ward\)](https://open.spotify.com/track/3fDDXsDuxBLinRP4Rw8pMc) | [Frex](https://open.spotify.com/artist/2sjktXSuCqEU42XUox2oXr), [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [Used To](https://open.spotify.com/album/7HA8HlFD5DRDXn7LMcoOch) | 3:05 | 2023-12-08 |  |
 | [Valentine](https://open.spotify.com/track/4JoDBcODOajOx3ZRQlSa7o) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Starry Ache](https://open.spotify.com/album/1yRRZvO7YIPHzSkvX94YOR) | 3:01 | 2021-12-15 | 2022-04-08 |

@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 86514,
+  "num_followers": 86586,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YTNjNzJiNzkyODFmNGY1NmZjMzFjYzNiYjZjMzVkMDVlZDMyZWRj",
+  "snapshot_id": "MCwzNjI5MTFkMDhkYWU0MDQ0YjY0MjkxNzRmZWRkYmI5OWQyZmExN2Ni",
   "tracks": [
     {
       "added_at": "2022-02-04 22:01:34",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "The Reminder",
-        "url": "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 183666,
-      "name": "1234",
-      "url": "https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Furr",
         "url": "https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 247515,
       "name": "Furr",
       "url": "https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "The Reminder",
+        "url": "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 183666,
+      "name": "1234",
+      "url": "https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Alas I Cannot Swim",
-        "url": "https://open.spotify.com/album/1P3B7c85W4mTXHk0fafGw2"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 179960,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/3LHg768dEKqJKht2uPTlVR"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "War Elephant",
         "url": "https://open.spotify.com/album/2jMilAyC3RBmAoWr1JZ7MR"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 181186,
       "name": "Baltimore Blues No. 1",
       "url": "https://open.spotify.com/track/14irPxTJLePlTfUd9U5hWL"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Alas I Cannot Swim",
+        "url": "https://open.spotify.com/album/1P3B7c85W4mTXHk0fafGw2"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 179960,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/3LHg768dEKqJKht2uPTlVR"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "The Felice Brothers",
-        "url": "https://open.spotify.com/album/7K9ScAfmIzxH46U9M7IiOT"
-      },
-      "artists": [
-        {
-          "name": "The Felice Brothers",
-          "url": "https://open.spotify.com/artist/4Ajgo7nAsTzjSFymIfBjZ1"
-        }
-      ],
-      "duration_ms": 246146,
-      "name": "Frankie's Gun!",
-      "url": "https://open.spotify.com/track/78i6AUQv9Hp1BAQY6VCaCP"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "All Hail West Texas (Remastered)",
         "url": "https://open.spotify.com/album/3yreM49ULtR2xW4fSENo3K"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 156960,
       "name": "The Best Ever Death Metal Band in Denton",
       "url": "https://open.spotify.com/track/4AtUqjDgRO2S3jBzAjRvh7"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "The Felice Brothers",
+        "url": "https://open.spotify.com/album/7K9ScAfmIzxH46U9M7IiOT"
+      },
+      "artists": [
+        {
+          "name": "The Felice Brothers",
+          "url": "https://open.spotify.com/artist/4Ajgo7nAsTzjSFymIfBjZ1"
+        }
+      ],
+      "duration_ms": 246146,
+      "name": "Frankie's Gun!",
+      "url": "https://open.spotify.com/track/78i6AUQv9Hp1BAQY6VCaCP"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1439,8 +1439,8 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Hello Starling",
-        "url": "https://open.spotify.com/album/7LQ7nZid1nFl5RcmZq4Qtg"
+        "name": "The Animal Years",
+        "url": "https://open.spotify.com/album/123dbllYoWDsMqESeUqAbw"
       },
       "artists": [
         {
@@ -1448,9 +1448,9 @@
           "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
         }
       ],
-      "duration_ms": 248453,
-      "name": "Kathleen",
-      "url": "https://open.spotify.com/track/2nrVWS45ufhqJuKK95J3nv"
+      "duration_ms": 263862,
+      "name": "Girl in the War",
+      "url": "https://open.spotify.com/track/2XQ6xhvd1q5JQyY21F198g"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1539,8 +1539,8 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "The Animal Years",
-        "url": "https://open.spotify.com/album/123dbllYoWDsMqESeUqAbw"
+        "name": "Hello Starling",
+        "url": "https://open.spotify.com/album/7LQ7nZid1nFl5RcmZq4Qtg"
       },
       "artists": [
         {
@@ -1548,9 +1548,9 @@
           "url": "https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo"
         }
       ],
-      "duration_ms": 263862,
-      "name": "Girl in the War",
-      "url": "https://open.spotify.com/track/2XQ6xhvd1q5JQyY21F198g"
+      "duration_ms": 248453,
+      "name": "Kathleen",
+      "url": "https://open.spotify.com/track/2nrVWS45ufhqJuKK95J3nv"
     },
     {
       "added_at": "2022-02-04 22:01:34",

@@ -1,12 +1,12 @@
 {
   "description": "Na m\u00fasica eletr\u00f4nica underground brasileira, nos vemos no front.",
-  "num_followers": 10664,
+  "num_followers": 10668,
   "original_name": "Front BR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzViODdjOGQ3M2IzMzk0MjRlYjQzM2Q3NGVjYzJjMDJiNGZlYjc5",
+  "snapshot_id": "MCw1Njk1NDRmODdlNzBkYmVmOTA0MWM1ZTQ0MGJlMjg0MDU0MjViNmYw",
   "tracks": [
     {
       "added_at": "2023-11-10 03:03:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Benzine EP",
-        "url": "https://open.spotify.com/album/2DibufkG06qMeScycqEsXE"
-      },
-      "artists": [
-        {
-          "name": "Renato Cohen",
-          "url": "https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD"
-        }
-      ],
-      "duration_ms": 406138,
-      "name": "Benzine",
-      "url": "https://open.spotify.com/track/5Df2OdR13Gvj8hH05VkBG0"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Movimento Paralelo, Vol.1",
         "url": "https://open.spotify.com/album/5nf34ekw3ixtR4eZueJF76"
       },
@@ -463,18 +447,18 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "VA IFN 001 - Techno Concept",
-        "url": "https://open.spotify.com/album/4lwp9JmCU7CxpDPp1HF0L6"
+        "name": "Benzine EP",
+        "url": "https://open.spotify.com/album/2DibufkG06qMeScycqEsXE"
       },
       "artists": [
         {
-          "name": "Mau Maioli",
-          "url": "https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS"
+          "name": "Renato Cohen",
+          "url": "https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD"
         }
       ],
-      "duration_ms": 311129,
-      "name": "Fixity - Original Mix",
-      "url": "https://open.spotify.com/track/6qLbhDQaerJfb8q9AdoP70"
+      "duration_ms": 406138,
+      "name": "Benzine",
+      "url": "https://open.spotify.com/track/5Df2OdR13Gvj8hH05VkBG0"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -495,6 +479,22 @@
       "duration_ms": 382204,
       "name": "Rock The Box - Original",
       "url": "https://open.spotify.com/track/5XeYuUSlDpBLXh1zGexb6a"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "VA IFN 001 - Techno Concept",
+        "url": "https://open.spotify.com/album/4lwp9JmCU7CxpDPp1HF0L6"
+      },
+      "artists": [
+        {
+          "name": "Mau Maioli",
+          "url": "https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS"
+        }
+      ],
+      "duration_ms": 311129,
+      "name": "Fixity - Original Mix",
+      "url": "https://open.spotify.com/track/6qLbhDQaerJfb8q9AdoP70"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Kengaral Eletrohits, Vol. 2",
+        "url": "https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC"
+      },
+      "artists": [
+        {
+          "name": "Diaz",
+          "url": "https://open.spotify.com/artist/0iT0OQnrYcfJ5nCee7jbGX"
+        }
+      ],
+      "duration_ms": 247083,
+      "name": "Passa a Lata de L\u00f3lo",
+      "url": "https://open.spotify.com/track/3j3Qy9Xc8Lpy5xxZ0nwgRq"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "Corpo",
         "url": "https://open.spotify.com/album/3sRnGBAdriBmqGZH52snaz"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 303161,
       "name": "Corpo Fechado",
       "url": "https://open.spotify.com/track/3JtseE56PXDVUvZUqwbx5K"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Kengaral Eletrohits, Vol. 2",
-        "url": "https://open.spotify.com/album/3mZE3yhkIMY9dwZdJBWAPC"
-      },
-      "artists": [
-        {
-          "name": "Diaz",
-          "url": "https://open.spotify.com/artist/0iT0OQnrYcfJ5nCee7jbGX"
-        }
-      ],
-      "duration_ms": 247083,
-      "name": "Passa a Lata de L\u00f3lo",
-      "url": "https://open.spotify.com/track/3j3Qy9Xc8Lpy5xxZ0nwgRq"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -835,6 +835,26 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "Conexao Riocife",
+        "url": "https://open.spotify.com/album/6tTaBjchGgTfDQBn5Bw3bp"
+      },
+      "artists": [
+        {
+          "name": "Jaca Beats",
+          "url": "https://open.spotify.com/artist/0JjiErN6IoSLDRsoSCAUBD"
+        },
+        {
+          "name": "holand\u00eas",
+          "url": "https://open.spotify.com/artist/34ITSPuNhuQlfKKAPAocpL"
+        }
+      ],
+      "duration_ms": 304098,
+      "name": "Baile do Tai Tai",
+      "url": "https://open.spotify.com/track/2NdwBjodJX5zHUdSQWfPyh"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "V.Acina, Vol.1",
         "url": "https://open.spotify.com/album/7HQdcJ7vVn4peTFqTrLe54"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 369924,
       "name": "Keyboard Cats",
       "url": "https://open.spotify.com/track/1J0ohTS2naEah8SF6wE9bO"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Conexao Riocife",
-        "url": "https://open.spotify.com/album/6tTaBjchGgTfDQBn5Bw3bp"
-      },
-      "artists": [
-        {
-          "name": "Jaca Beats",
-          "url": "https://open.spotify.com/artist/0JjiErN6IoSLDRsoSCAUBD"
-        },
-        {
-          "name": "holand\u00eas",
-          "url": "https://open.spotify.com/artist/34ITSPuNhuQlfKKAPAocpL"
-        }
-      ],
-      "duration_ms": 304098,
-      "name": "Baile do Tai Tai",
-      "url": "https://open.spotify.com/track/2NdwBjodJX5zHUdSQWfPyh"
     },
     {
       "added_at": "2023-11-10 03:03:00",

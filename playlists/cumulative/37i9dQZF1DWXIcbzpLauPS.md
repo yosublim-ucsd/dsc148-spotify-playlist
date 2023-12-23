@@ -4,7 +4,7 @@
 
 > Metalcore at its finest\. Cover: NOVELISTS
 
-792 songs - 2 day 1 hr 35 min
+793 songs - 2 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Death](https://open.spotify.com/track/2kfSeL9vDusN2hHnMJXbgs) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6), [DR€W ¥ORK](https://open.spotify.com/artist/4E7k7fQ89SmXCLHHvpMNHu) | [Death](https://open.spotify.com/album/7lwudJOqfQ3cmBWBsbOjt1) | 3:43 | 2022-01-14 | 2022-07-23 |
 | [DEATH \(By Modern Error\)](https://open.spotify.com/track/2Komicfi85vw7aPJI0xxZA) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt), [Modern Error](https://open.spotify.com/artist/1QvyglfXAHITHVc45nSc1T) | [DEATH \(By Modern Error\)](https://open.spotify.com/album/0KvJUEcjyV6KB2ECXbkqvq) | 3:32 | 2022-04-29 | 2022-07-08 |
 | [DEATH \(Ever Colder\)](https://open.spotify.com/track/7tAUrb26TuIeZlVVvn9XdJ) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [DEATH \(Ever Colder\)](https://open.spotify.com/album/312yRj61uGSmld6RIl9zl4) | 4:47 | 2022-03-25 | 2022-05-21 |
+| [Death by a Thousand Cuts](https://open.spotify.com/track/2QxuWBmDx8EJmSyyj1BzXv) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Death by a Thousand Cuts](https://open.spotify.com/album/03F1A1jnDHlmDDZJL73Gpj) | 5:26 | 2023-12-22 |  |
 | [Death Is All Around](https://open.spotify.com/track/3Pxi2hXIbiDtyGKJ2bRP3j) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Somewhere Beyond The Blue](https://open.spotify.com/album/6YVWeGZwZPznfTjWUi6HvP) | 4:29 | 2021-12-17 | 2022-04-02 |
 | [Death March](https://open.spotify.com/track/4v9IrQXFYYbeHGR9EOnnqR) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO) | [Death March](https://open.spotify.com/album/5XxLSif8ZxqAcAZIgLfRGm) | 3:11 | 2022-07-13 | 2022-07-18 |
 | [Death Whistle](https://open.spotify.com/track/6t5wPcC3CtQjzn5O7i4yVg) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [Death Whistle](https://open.spotify.com/album/71IhKehJidjr8Phqa4R3U8) | 5:53 | 2022-07-13 | 2022-07-23 |
@@ -342,7 +343,7 @@
 | [Healing Pool](https://open.spotify.com/track/415fFFCPSrbcpsH2EaVHVu) | [The Safest Ledge](https://open.spotify.com/artist/3QOtz9ZICZ4wRhq14Qh8KH), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Healing Pool](https://open.spotify.com/album/6lWCb2y4oyVbnZeSIhIp0B) | 2:53 | 2022-04-22 | 2022-07-08 |
 | [Hear You Scream](https://open.spotify.com/track/5fegfkA0EiK5yL8gSJi8o4) | [Kill The Lights](https://open.spotify.com/artist/2b2c6xP76y8HCLiovv7kIZ) | [Hear You Scream](https://open.spotify.com/album/0uUoMHRLw4sC5BWRjQlK3O) | 3:28 | 2023-08-18 |  |
 | [Heathens](https://open.spotify.com/track/42PD5CnANDCJkcLPPuH4Zd) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Heathens](https://open.spotify.com/album/3tjvaW6nGu53X7iwbIUNqk) | 3:30 | 2022-05-20 | 2022-07-23 |
-| [Heaven Shall Burn](https://open.spotify.com/track/0C8mZZLRaf2X8MKCVkbMbC) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Heaven Shall Burn](https://open.spotify.com/album/7nJzHteWK38ha0G1J8i57V) | 4:07 | 2023-11-27 |  |
+| [Heaven Shall Burn](https://open.spotify.com/track/0C8mZZLRaf2X8MKCVkbMbC) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Heaven Shall Burn](https://open.spotify.com/album/7nJzHteWK38ha0G1J8i57V) | 4:07 | 2023-11-27 | 2023-12-23 |
 | [HEAVY RAIN](https://open.spotify.com/track/13XqsUBoeSvcC5iZOMZaqS) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK) | [HEAVY RAIN](https://open.spotify.com/album/5ugnVcdOzU6R94g0vJ00ih) | 3:54 | 2023-09-29 |  |
 | [Heir to the Serpent](https://open.spotify.com/track/2kBVTplPtDRx0sqXWtTYOh) | [The Guild](https://open.spotify.com/artist/5BVgUzoX3ui5r5bBWMNGLX) | [Heir to the Serpent](https://open.spotify.com/album/1KkGP91FL5N5zxc9Jb8Fpd) | 4:23 | 2022-07-13 | 2022-07-23 |
 | [Hell is Other People](https://open.spotify.com/track/7q7ZgeTsfhCDewBSb5tIim) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [Hell is Other People](https://open.spotify.com/album/4RWvDCNII3onIm2bZvjzdy) | 3:39 | 2022-07-13 | 2022-07-19 |

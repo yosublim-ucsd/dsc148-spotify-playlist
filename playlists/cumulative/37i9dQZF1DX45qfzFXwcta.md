@@ -4,7 +4,7 @@
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-122 songs - 6 hr 12 min
+123 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Full Level](https://open.spotify.com/track/1CN7QqI6Cd9qsCjS1qXlRo) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym), [illuZion](https://open.spotify.com/artist/0qJvuARFT6tPz8bkQTQpzj), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Full Level](https://open.spotify.com/album/3waKYqHMvt2N6ipFRBsuTk) | 1:33 | 2022-07-22 |  |
 | [Funkorama](https://open.spotify.com/track/3T358Pl7NSInxnCehNgMse) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW) | [Anthology Beats \(2005\-2015\)](https://open.spotify.com/album/0tsEgLd5PxI99MIsWLhJ5I) | 2:39 | 2023-06-16 |  |
 | [Geek Out](https://open.spotify.com/track/5pktTyYT3PBDL3sdwCBvjW) | [Gotharoo](https://open.spotify.com/artist/2HAhra1YtinE3FIIuYEDHQ) | [Geek Out](https://open.spotify.com/album/6Zue8diKIW3jX9jfP5f631) | 1:47 | 2023-02-24 |  |
-| [Ghostwriter](https://open.spotify.com/track/5Nn2Dj7OQsGL6pgQ9iIzPp) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Deadringer: Deluxe](https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj) | 5:17 | 2022-07-22 |  |
+| [Ghostwriter](https://open.spotify.com/track/5Nn2Dj7OQsGL6pgQ9iIzPp) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Deadringer: Deluxe](https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj) | 5:17 | 2022-07-22 | 2023-12-23 |
 | [Gold Plated](https://open.spotify.com/track/1p0vYiUriWNU5mKQnOFJWI) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [Gold Plated](https://open.spotify.com/album/1rOtwbR2qwBhi8k5OSXLVd) | 2:13 | 2022-07-22 |  |
 | [Got to Go](https://open.spotify.com/track/5hIRHOXg8dv1fVMZ7NyRml) | [George Fields](https://open.spotify.com/artist/2YJ9heXWEDypzrXDW19hDr) | [Beyond Realm](https://open.spotify.com/album/6K3eHQQo1vbmNJLSRd7GIM) | 1:21 | 2023-08-31 |  |
 | [Grateful](https://open.spotify.com/track/6ZVfA9zMVdCSjhVWVFO140) | [Mecca:83](https://open.spotify.com/artist/6vnaQxMvQcQiCUijgMqldY) | [Grateful](https://open.spotify.com/album/4OuX7CRHP3yoXY18gzffCC) | 2:18 | 2022-07-22 |  |
@@ -81,6 +81,7 @@
 | [Naturally \(Instrumental\)](https://open.spotify.com/track/2BGjr2M2pUdJ8GCAeS1A4A) | [Moka Only](https://open.spotify.com/artist/7G9ZUoEjbi5Z2bR5w60S0h) | [In and of Itself \(Instrumental\)](https://open.spotify.com/album/7de7qsKpYyWNVqYXXyPqkn) | 2:42 | 2023-09-15 |  |
 | [No Bad Thoughts](https://open.spotify.com/track/2RQmw3XOLPVO425zmdIgOA) | [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z), [Zod](https://open.spotify.com/artist/35gOMrYr6tnnuUrnU5fosv) | [No Bad Thoughts](https://open.spotify.com/album/3SNihfZvCdZvAG37ETYi76) | 2:13 | 2023-11-15 |  |
 | [Passin' Me By \- Instrumental](https://open.spotify.com/track/2cbLkWOlNWvkkv4FnIKEbq) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Bizarre Ride II The Pharcyde \(25th Anniversary Edition\)](https://open.spotify.com/album/2lcYWSZtcnNRXI7L1kNUke) | 5:02 | 2022-07-22 |  |
+| [Pharu \(Tha Bushdoctor\) \- Instrumental](https://open.spotify.com/track/2j0Tb0Lyj7bLc6IWX44WV7) | [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Booth Brothers & Sisters Instrumentals 21\-30](https://open.spotify.com/album/0cgbwjTmQiYXJacRZJyH0E) | 2:31 | 2023-12-22 |  |
 | [Players \- Instrumental](https://open.spotify.com/track/1fCslkNebF3uAAKKDcyty9) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fantastic, Vol.2: Vinyl Instrumentals](https://open.spotify.com/album/06Ee6dveq170ls1t52Cj6s) | 3:07 | 2023-05-02 |  |
 | [Quotas](https://open.spotify.com/track/0qOicDKD4pHBvdcbxnW5A7) | [Snares](https://open.spotify.com/artist/7h46uhEJEFdbvHJj4Kmz1D) | [Short Stories \#2](https://open.spotify.com/album/1KZTSCU5psinmwZr7ziKGF) | 2:15 | 2023-06-15 |  |
 | [Relax](https://open.spotify.com/track/5e8wwhtHBs0WXmZTgRl4ub) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Port Authority: Instrumentals](https://open.spotify.com/album/1lcRcpO52ZmsfWhtn6USOx) | 4:01 | 2022-11-25 |  |

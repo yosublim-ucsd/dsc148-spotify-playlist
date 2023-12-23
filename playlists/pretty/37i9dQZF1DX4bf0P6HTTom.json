@@ -1,12 +1,12 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 152024,
+  "num_followers": 152077,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGUwMGExZGM0NzVjZjI3MDlhMTUzZWU1NmY1ZTEyZWI1YzhjNjIy",
+  "snapshot_id": "MCw4ZGRlMzQwOThjNWI4OGEzYTdjNTg1NTMyMWZiYzgwMjg1MmNiMmU3",
   "tracks": [
     {
       "added_at": "2020-08-05 15:52:11",
@@ -771,18 +771,18 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Safe at Home",
-        "url": "https://open.spotify.com/album/1ijz3Aok4jyARLKu6Eaph9"
+        "name": "Black & White",
+        "url": "https://open.spotify.com/album/71upkCAZBdlRRxoSbG8wvQ"
       },
       "artists": [
         {
-          "name": "The International Submarine Band",
-          "url": "https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF"
+          "name": "Tony Joe White",
+          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
         }
       ],
-      "duration_ms": 168386,
-      "name": "Miller's Cave",
-      "url": "https://open.spotify.com/track/3tS8Gv5lYu5gIzHUPnwipm"
+      "duration_ms": 144720,
+      "name": "Ten More Miles to Louisiana",
+      "url": "https://open.spotify.com/track/1E252QgKGNYBXfwaiXZtZy"
     },
     {
       "added_at": "2020-08-05 15:52:11",
@@ -803,18 +803,18 @@
     {
       "added_at": "2020-08-05 15:52:11",
       "album": {
-        "name": "Black & White",
-        "url": "https://open.spotify.com/album/71upkCAZBdlRRxoSbG8wvQ"
+        "name": "Safe at Home",
+        "url": "https://open.spotify.com/album/1ijz3Aok4jyARLKu6Eaph9"
       },
       "artists": [
         {
-          "name": "Tony Joe White",
-          "url": "https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P"
+          "name": "The International Submarine Band",
+          "url": "https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF"
         }
       ],
-      "duration_ms": 144720,
-      "name": "Ten More Miles to Louisiana",
-      "url": "https://open.spotify.com/track/1E252QgKGNYBXfwaiXZtZy"
+      "duration_ms": 168386,
+      "name": "Miller's Cave",
+      "url": "https://open.spotify.com/track/3tS8Gv5lYu5gIzHUPnwipm"
     },
     {
       "added_at": "2020-08-05 15:52:11",

@@ -2,9 +2,9 @@
 
 ### [Gigantes do Rap Nacional](https://open.spotify.com/playlist/37i9dQZF1DXaljDe6fISR1)
 
-> Ouça grandes MCs do hip hop nacional\. Foto: Edi Rock
+> Ouça grandes MCs do hip hop nacional\. Foto: Racionais MC's
 
-113 songs - 8 hr 43 min
+114 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Minha Cota](https://open.spotify.com/track/34ttcDOpcaiEfj4PRn3LfB) | [Atitude Consciente](https://open.spotify.com/artist/34ILrH8OV6fXpG611vxEMr) | [Anunak](https://open.spotify.com/album/21YMupsMicZtl262PUTIE0) | 1:18 | 2023-01-27 |  |
 | [Mulher Elétrica](https://open.spotify.com/track/7FuwhCYus3htyXClROmiFZ) | [Mano Brown](https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ), [William Magalhães](https://open.spotify.com/artist/4MJN4aIU640fw6oayplA0n) | [Boogie Naipe](https://open.spotify.com/album/6HsKHQGO3oineHD04cm17X) | 3:33 | 2022-03-11 |  |
 | [Naquela Sala](https://open.spotify.com/track/0XJ6XyjRCW4XiWL9YmOwi8) | [AO Cubo](https://open.spotify.com/artist/1LTlPGgghut6Z0tPrX59YV) | [Década](https://open.spotify.com/album/1ZLYXUAUvUsolaTdaqfr6s) | 6:01 | 2022-03-11 |  |
+| [Negro Drama \- Ao Vivo](https://open.spotify.com/track/4hPY8Hyit0AqHTZZp4a861) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 5:54 | 2023-12-22 |  |
 | [Not Bad Boy](https://open.spotify.com/track/30g6Q7eLE2yHgcmOiHmkDq) | [Adônis Maia](https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN), [Fernandinho Beat Box](https://open.spotify.com/artist/05LPSp743MO2geOYjoA17i) | [Not Bad Boy](https://open.spotify.com/album/5WWFo7oGUUoO6VGWa8yZRq) | 4:31 | 2023-08-11 |  |
 | [Nunca Foi Fácil](https://open.spotify.com/track/5XGM1g11ltC9TTiR7uDLUm) | [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe) | [Nunca Foi Fácil](https://open.spotify.com/album/5Q3s6Jkihallz8BmVh30TP) | 3:49 | 2022-03-11 | 2022-04-23 |
 | [O 5° Vigia](https://open.spotify.com/track/3VNIwW4MkSvp0xVEmfrvUL) | [Ndee Naldinho](https://open.spotify.com/artist/0nNM4GoozMXNtRBGOwzFCA) | [Preto do Gueto \(Deluxe\)](https://open.spotify.com/album/45JoFHuQTEcG4CQNO49xUZ) | 6:16 | 2022-04-22 |  |

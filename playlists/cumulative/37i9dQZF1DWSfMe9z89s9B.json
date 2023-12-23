@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Leaders of the new school...Alternative R&B. Cover: Frex & Jordan Ward",
+  "description": "Leaders of the new school...Alternative R&B. Cover: MiLES.",
   "name": "Vanguard",
   "tracks": [
     {
@@ -1702,6 +1702,24 @@
       "duration_ms": 274391,
       "name": "B-Side",
       "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
+    },
+    {
+      "album": {
+        "name": "Baby Blue",
+        "url": "https://open.spotify.com/album/3cHzK2dR1QpVHkwuOaERnW"
+      },
+      "artists": [
+        {
+          "name": "MiLES.",
+          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183428,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/4NZcudZGLMwhRMgdqGdRBm"
     },
     {
       "album": {
@@ -4188,7 +4206,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 141611,
       "name": "crying through my teeth - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2zbzndFcAtAUH4x5J2pcF7"
@@ -7000,7 +7018,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 241305,
       "name": "GMFU",
       "url": "https://open.spotify.com/track/7rYhWL5o1LOerNu3F52EFg"
@@ -8040,7 +8058,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 149387,
       "name": "Hey, Love!",
       "url": "https://open.spotify.com/track/5HR4E0PlY8bIyF1aVukVCj"
@@ -8998,6 +9016,28 @@
       "duration_ms": 102013,
       "name": "IN THE AIR (SPED UP)",
       "url": "https://open.spotify.com/track/5NmLXvwNgcvE6DhJMxyIV6"
+    },
+    {
+      "album": {
+        "name": "Diary Entry",
+        "url": "https://open.spotify.com/album/0BXbBx3KrFJHWxBEGJqUBf"
+      },
+      "artists": [
+        {
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+        },
+        {
+          "name": "Moflo",
+          "url": "https://open.spotify.com/artist/3l4DNYCciNLDKnkKO2u8wP"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180871,
+      "name": "in the cool of the day",
+      "url": "https://open.spotify.com/track/4D34sCvcCCugcknWUsOXJk"
     },
     {
       "album": {
@@ -10627,6 +10667,24 @@
     },
     {
       "album": {
+        "name": "Lover, You Should\u2019ve Come Over",
+        "url": "https://open.spotify.com/album/3vOfCeKyiRZBkpoSoHmcbm"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361175,
+      "name": "Lover, You Should\u2019ve Come Over",
+      "url": "https://open.spotify.com/track/3pmZMUdxIKSu4YBVqGlyLe"
+    },
+    {
+      "album": {
         "name": "Another PawPaw Rod EP",
         "url": "https://open.spotify.com/album/4gzZJeOmBXWsc0hVUSvBvF"
       },
@@ -10860,6 +10918,24 @@
       "duration_ms": 116129,
       "name": "Mad Riches",
       "url": "https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9"
+    },
+    {
+      "album": {
+        "name": "MADE 4 U",
+        "url": "https://open.spotify.com/album/0WlcKSVRN8XsTDN4yXsMWZ"
+      },
+      "artists": [
+        {
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249039,
+      "name": "MADE 4 U",
+      "url": "https://open.spotify.com/track/5yetn3rXSPBP8fl5d5zExV"
     },
     {
       "album": {
@@ -17748,7 +17824,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 153000,
       "name": "Through The Dark",
       "url": "https://open.spotify.com/track/4GlMuZ2gHZfAPxEji04pdA"

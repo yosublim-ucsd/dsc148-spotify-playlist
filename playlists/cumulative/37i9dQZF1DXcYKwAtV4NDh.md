@@ -4,7 +4,7 @@
 
 > A deep and concise look at the music that made Country Music what is is today\. Covers eras <br/>1930's \- 1990.
 
-127 songs - 6 hr 26 min
+128 songs - 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,8 @@
 | [Man in Black](https://open.spotify.com/track/7wL9EVloIobMw22rT7Ve8x) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Man In Black](https://open.spotify.com/album/3fH6txVtapyIaCdoJkUNTd) | 2:52 | 2020-10-14 |  |
 | [Me and Bobby McGee](https://open.spotify.com/track/0VNZYdfyOM8FGmYSwEGUa1) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [16 Biggest Hits](https://open.spotify.com/album/4V0B2o4rSXh7CwzqbDX6xo) | 4:20 | 2020-10-14 |  |
 | [Miles And Miles Of Texas \- Remastered](https://open.spotify.com/track/39LLs4SpRhYBiNnjZUBVmv) | [Asleep At The Wheel](https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm) | [20 Greatest Hits \(Remastered\)](https://open.spotify.com/album/67mCnY7ERrNjkjodzuk6m8) | 3:07 | 2020-10-14 |  |
-| [Molly And Tenbrook](https://open.spotify.com/track/26AAYh1PwC4sPF7COMgRmr) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD) | [Earliest Recordings \- The Complete Rich\-r\-tone 78's](https://open.spotify.com/album/0j0yXKdHLfOzI6qpyn4ByN) | 2:23 | 2020-10-14 |  |
+| [Molly And Tenbrook](https://open.spotify.com/track/6lwzzzzHB3hPIm2ucv7BcU) | [Stanley Brothers](https://open.spotify.com/artist/7sYX11zkibP85rPz5ms1MI) | [Earliest Recordings \- The Complete Rich\-r\-tone 78's](https://open.spotify.com/album/24EaakQd1ynRaa9bxGwi0h) | 2:23 | 2023-01-13 |  |
+| [Molly And Tenbrook](https://open.spotify.com/track/26AAYh1PwC4sPF7COMgRmr) | [The Stanley Brothers](https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD) | [Earliest Recordings \- The Complete Rich\-r\-tone 78's](https://open.spotify.com/album/0j0yXKdHLfOzI6qpyn4ByN) | 2:23 | 2020-10-14 | 2023-12-23 |
 | [Mountain Dew](https://open.spotify.com/track/5d6ghHY3rguKu4NR68rvtH) | [Grandpa Jones](https://open.spotify.com/artist/2UtCcZQl7xzvEao4vWBSOD) | [Mountain Dew](https://open.spotify.com/album/4jFlvRqA5hb6KnQxH3Wap3) | 2:45 | 2020-10-14 | 2022-07-29 |
 | [Mountain Dew \- Original King Recordings](https://open.spotify.com/track/4Ygk7VMmn6izMPf0TSBayF) | [Grandpa Jones](https://open.spotify.com/artist/2UtCcZQl7xzvEao4vWBSOD) | [Complete King Recordings 1943\-1956 \- Volume 2 Of Four \(Original King Recordings\)](https://open.spotify.com/album/1TXPDEHNJspu6tL4xL0osA) | 2:45 | 2022-05-06 |  |
 | [Mule Skinner Blues \(Blue Yodel No\. 8\)](https://open.spotify.com/track/1XChvxIUbR911TOb0HhNJi) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Dolly Parton](https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS) | 3:08 | 2020-10-14 |  |

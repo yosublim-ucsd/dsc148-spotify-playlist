@@ -4,7 +4,7 @@
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM?si=YWI3GWJkSYy2VxygARVybQ"> Y'akoto </a>
 
-685 songs - 1 day 9 hr 31 min
+686 songs - 1 day 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -612,7 +612,8 @@
 | [Theysaid.](https://open.spotify.com/track/1jU9gOcHzL2FncEgneJQYD) | [Brum3h](https://open.spotify.com/artist/5kseDibp36pgGjEoOFsRFk), [Array.](https://open.spotify.com/artist/35Hb6TrgbjftU0vO14t7qF) | [Typewrit3R Vol\. 1](https://open.spotify.com/album/1s8TtslAPUXrruNLtH9Sv4) | 3:02 | 2023-09-08 | 2023-09-15 |
 | [Things Fall in Place](https://open.spotify.com/track/4RT366Y6r8XCbPUfAz0MpA) | [MiDi KwaKwa](https://open.spotify.com/artist/2JHku4gYXdo24MfdETrc3D), [This is Lema](https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv) | [Things Fall in Place](https://open.spotify.com/album/2IyQg1ciZnyD6LMoYOea8Q) | 3:49 | 2022-08-12 | 2022-12-02 |
 | [Things I Know](https://open.spotify.com/track/2AvzqDvMMRXyJhfXrBEDUb) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb) | [Things I Know](https://open.spotify.com/album/14sM4pRzpj49fEn5PJEGUP) | 2:50 | 2022-11-04 | 2023-03-25 |
-| [Think O](https://open.spotify.com/track/2sJRbtfngu3ATkXmamiSXe) | [Marvel](https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL) | [Think O](https://open.spotify.com/album/20RPHmL5EbMAeBVOH5OdZz) | 3:25 | 2023-10-27 |  |
+| [Think O](https://open.spotify.com/track/2sJRbtfngu3ATkXmamiSXe) | [Marvel](https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL) | [Think O](https://open.spotify.com/album/20RPHmL5EbMAeBVOH5OdZz) | 3:25 | 2023-10-27 | 2023-12-23 |
+| [Think O](https://open.spotify.com/track/5rKrdRnTc2lYasExecRwE3) | [Marvel](https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL) | [Think O](https://open.spotify.com/album/31MnDoAsVktkeE2sF4TwX2) | 3:25 | 2023-12-22 |  |
 | [Thinking](https://open.spotify.com/track/7gZbdvxpQGif4mXWIAuTBf) | [Nizzy](https://open.spotify.com/artist/49MZ2LfoETArTTAJPnQd4R) | [Thinking](https://open.spotify.com/album/6aH3uRpCdeaxozmknDC6oh) | 2:21 | 2023-03-10 | 2023-05-12 |
 | [This Side](https://open.spotify.com/track/6ef9xVJZ0iExKd67ybLAyF) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE) | [This Side](https://open.spotify.com/album/0GRQb7OLGaDUKKFc1ttCXF) | 2:37 | 2022-11-25 | 2023-03-18 |
 | [Three Little Birds \(Feat\. Teni and Oxlade\)](https://open.spotify.com/track/3Jm1XardcGOdw3A65RcwSv) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Three Little Birds \(Feat\. Teni and Oxlade\)](https://open.spotify.com/album/59NqVqclYsIboTQp0qCppU) | 4:18 | 2023-06-30 | 2023-08-04 |

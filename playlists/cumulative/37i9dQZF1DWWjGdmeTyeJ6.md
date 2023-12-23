@@ -4,7 +4,7 @@
 
 > Our editors' picks of the best tracks from independent, developing artists around the world this year\. Cover: Searows
 
-5,420 songs - 12 day 7 hr 13 min
+5,421 songs - 12 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1984,7 +1984,7 @@
 | [Guard Dog](https://open.spotify.com/track/4apPaqmh0pYhxeg9tHVFPf) | [Hannah Cole](https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY) | [Guard Dog](https://open.spotify.com/album/2psIoJqn8ShhMOVkILFVa5) | 5:25 | 2022-05-04 | 2022-05-12 |
 | [Guessing](https://open.spotify.com/track/1ieo5r9DNnIaE4i9622gNq) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Guessing](https://open.spotify.com/album/7FmDzKV4LDsoR7ThWkAMMS) | 5:03 | 2023-05-10 | 2023-05-18 |
 | [Guitar + Peaches](https://open.spotify.com/track/7Gf34sNXEfFxdkg4mgI8Fm) | [kelz](https://open.spotify.com/artist/5hb3nmzCwPz0GRlLQuAJJw) | [Guitar + Peaches](https://open.spotify.com/album/4xX4Jzgy8pn5nMvmRhtrb0) | 4:42 | 2022-02-23 | 2022-03-03 |
-| [Gulabi](https://open.spotify.com/track/4NrYY6WUYdfSC8fZ2WVwAx) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off) | [Gulabi](https://open.spotify.com/album/64dobvOmbgwnGqsMidDYJ4) | 2:45 | 2023-11-29 |  |
+| [Gulabi](https://open.spotify.com/track/4NrYY6WUYdfSC8fZ2WVwAx) | [Aanchal Tyagi](https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off) | [Gulabi](https://open.spotify.com/album/64dobvOmbgwnGqsMidDYJ4) | 2:45 | 2023-11-29 | 2023-12-23 |
 | [GULLIBLE](https://open.spotify.com/track/6I7irVYBFdlSaiouU0KZiM) | [Hokage Simon](https://open.spotify.com/artist/6khHZgajTqW6zMpXBH4O6R) | [GULLIBLE](https://open.spotify.com/album/5rhgri1NFjnssCKcb7qzmZ) | 3:46 | 2022-06-15 | 2022-06-30 |
 | [Gun Class](https://open.spotify.com/track/2DEKpoE5Sy1Pf0bIktnB0k) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7) | [Gun Class](https://open.spotify.com/album/0Lgo61nhUfuWO9f8dkKJRp) | 2:53 | 2022-11-09 | 2022-12-01 |
 | [GUNSHY](https://open.spotify.com/track/5OCVZihJVu2qk1r1ck2Prs) | [Allie Kelly](https://open.spotify.com/artist/0gKECB5Bx3IyzmQmoaPkac) | [GUNSHY](https://open.spotify.com/album/6wX62dyMRRxU8ZTHWfQEbS) | 3:30 | 2023-03-15 | 2023-03-23 |
@@ -4582,6 +4582,7 @@
 | [Sunlight](https://open.spotify.com/track/0npo7FdViZE07ApsEOxWGw) | [Harriet Brown](https://open.spotify.com/artist/0HSqzRnAQMXxNQczzjopsG) | [Sunlight](https://open.spotify.com/album/3JMyW6hLQN1n3VshyrZ8UO) | 3:28 | 2023-07-26 | 2023-08-03 |
 | [Sunlight](https://open.spotify.com/track/5dUw33Ixf3sX87VqrPi2dK) | [McCall](https://open.spotify.com/artist/229NvsczXKwdH0DkPg4uwT) | [Sunlight](https://open.spotify.com/album/3xLqAl2ZClpvrszEepB4dI) | 2:24 | 2023-04-19 | 2023-05-04 |
 | [Sunny Sunday](https://open.spotify.com/track/1LGtVROTx5H6SlXnnwEdR5) | [Road Hog](https://open.spotify.com/artist/7yeyu0l6WYKegth8A2UG4b) | [Home For The Holidays](https://open.spotify.com/album/2OJP59RUbFM6t3CaEseMj2) | 2:48 | 2022-01-26 | 2022-02-03 |
+| [sunset blvd](https://open.spotify.com/track/2XQFj0w1UIJpsUs0OO4013) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [tainted in our memories](https://open.spotify.com/album/3jfCvTkeYzUOxfuuUIcu7T) | 1:46 | 2023-11-29 |  |
 | [sunset blvd](https://open.spotify.com/track/6GwnFEbZstFLKZq7HCVH8T) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [sunset blvd](https://open.spotify.com/album/3zpFpt8YfngeKLcsmdScrL) | 1:46 | 2023-01-11 | 2023-01-19 |
 | [sunset breeze](https://open.spotify.com/track/3h0QvYMHeWQghWJvrBDSOK) | [COULOU](https://open.spotify.com/artist/218vhB0brgQIVn4ldcXXUl) | [sunset breeze](https://open.spotify.com/album/4WCudRsHOVKuHH5eAeNvIG) | 3:01 | 2023-06-21 | 2023-06-29 |
 | [Sunset Sensory](https://open.spotify.com/track/0ECsJAG3NChMyj84hKupSq) | [Mai Davika](https://open.spotify.com/artist/7LWOi14A1E3fgoQuJajQ4G) | [Sunset Sensory](https://open.spotify.com/album/7zIX5owJgjY8yHOWewF0jG) | 2:51 | 2023-08-30 | 2023-09-14 |

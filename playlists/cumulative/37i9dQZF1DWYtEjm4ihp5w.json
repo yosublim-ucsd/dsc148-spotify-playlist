@@ -1423,6 +1423,24 @@
     },
     {
       "album": {
+        "name": "Iori 6",
+        "url": "https://open.spotify.com/album/1MIlCKmMbtiCyZzIpCwRnU"
+      },
+      "artists": [
+        {
+          "name": "Mons",
+          "url": "https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309152,
+      "name": "Iori 6",
+      "url": "https://open.spotify.com/track/4ahs2aBbxGxVCDJcwXCWXb"
+    },
+    {
+      "album": {
         "name": "Alam",
         "url": "https://open.spotify.com/album/0pioP7AB4b3Eb2SKZu90lX"
       },

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-853 songs - 2 day 0 hr 5 min
+854 songs - 2 day 0 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -480,7 +480,7 @@
 | [אני אוהב, אני מכור, אני שרוף](https://open.spotify.com/track/0SmY5bTuls1ccput6QhHSA) | [Adir Getz](https://open.spotify.com/artist/2MOEM2cDGyOzUf7LrBFuIG) | [אני אוהב, אני מכור, אני שרוף](https://open.spotify.com/album/6V3xJpO7DvJmgCzdSX1vzB) | 3:00 | 2022-07-18 | 2023-04-26 |
 | [אני כבר לא בך](https://open.spotify.com/track/6J8hw9Lcrp3zxk9J7s5RmH) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg) | [אני כבר לא בך](https://open.spotify.com/album/36lM0F38dXFsNgGKwQ3Cde) | 2:57 | 2021-12-24 | 2022-01-23 |
 | [אני פה](https://open.spotify.com/track/60BOR51eeN8A3wYIrElggH) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN), [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [אושר](https://open.spotify.com/album/0mqMqD84CEJAQIaHYLggLr) | 2:07 | 2023-02-10 |  |
-| [אף פעם לא לבד](https://open.spotify.com/track/4ZGe1hugAeejCOd7TWGiz0) | [Inbal Bibi](https://open.spotify.com/artist/3ycYrLmJipiOEbtNdpfvhc) | [אף פעם לא לבד](https://open.spotify.com/album/7vnTXeAqPJARapvbC3tSCW) | 2:48 | 2023-09-11 |  |
+| [אף פעם לא לבד](https://open.spotify.com/track/4ZGe1hugAeejCOd7TWGiz0) | [Inbal Bibi](https://open.spotify.com/artist/3ycYrLmJipiOEbtNdpfvhc) | [אף פעם לא לבד](https://open.spotify.com/album/7vnTXeAqPJARapvbC3tSCW) | 2:48 | 2023-09-11 | 2023-12-23 |
 | [אפטרפארק](https://open.spotify.com/track/3b4QaOcYEHfNcAeDmDi8en) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [מזרח פרוע](https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y) | 4:34 | 2021-12-18 | 2021-12-23 |
 | [אפס מאמץ](https://open.spotify.com/track/2liUMhNvpAxRNVAGnz8jNJ) | [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g), [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [שבעה ירחים](https://open.spotify.com/album/0dT7h6FQ94qYgUqgaC2eQY) | 3:20 | 2021-07-08 | 2023-04-29 |
 | [אפס מאמץ](https://open.spotify.com/track/3scEZ2JrbtrqfUvgHrPnSt) | [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g), [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [אפס מאמץ](https://open.spotify.com/album/6isaVgYKgKOhbRSNppMkGx) | 3:20 | 2021-07-04 | 2021-07-08 |
@@ -526,6 +526,7 @@
 | [גולם](https://open.spotify.com/track/3p8VuChjDae8lY7fx91Esy) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [תוך כדי תנועה](https://open.spotify.com/album/1Q6zthp8EbA68Low9tgD1G) | 4:35 | 2021-09-26 | 2021-10-10 |
 | [גוף](https://open.spotify.com/track/4o58kocggjTMh0HxRq0mlO) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Adi Ulmansky](https://open.spotify.com/artist/3USGrdyXkg1eLoWJ7KhrhJ) | [גוף](https://open.spotify.com/album/0ctkqPBtwL776H7wXGsTui) | 3:55 | 2023-03-18 | 2023-04-06 |
 | [גושפנקא](https://open.spotify.com/track/5I0WaR0LpN4Kn1zwbvd145) | [E\-Z](https://open.spotify.com/artist/2YHuWGXNWLmpBTKo1rQ3me), [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [אייקון](https://open.spotify.com/album/7kwkVHZ9B4hrTGJ9KARnHe) | 2:33 | 2023-01-20 | 2023-09-26 |
+| [גן עדן של משוגעים](https://open.spotify.com/track/16HcSqHWoJn7Be4T2MOCZ4) | [ששון איפרם שאולוב](https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc) | [גן עדן של משוגעים](https://open.spotify.com/album/0zrqcKGEm0xrlDAegqgXUG) | 2:42 | 2023-12-22 |  |
 | [גנזב](https://open.spotify.com/track/0TNpCF1hyufMCwuJUyfyzd) | [Balishag](https://open.spotify.com/artist/1zZ8q7ULCRLJDqRN2kMxC2) | [גנזב](https://open.spotify.com/album/2eCDM7Y3XlIxxHF2HErwam) | 3:18 | 2023-05-01 | 2023-05-05 |
 | [גנזב](https://open.spotify.com/track/6JaYJTrZMTlITIKWaGGY6h) | [Balishag](https://open.spotify.com/artist/1zZ8q7ULCRLJDqRN2kMxC2) | [גנזב](https://open.spotify.com/album/6Hk5tOX8lYZ74aIP56iUbq) | 3:18 | 2023-03-21 | 2023-05-02 |
 | [דובשנייה](https://open.spotify.com/track/67PF7VLcYEKKF82ziNf9Ur) | [שחר סאול](https://open.spotify.com/artist/46KxKVpK7XNqlkdi5oiMxE), [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i), [NOROZ](https://open.spotify.com/artist/0rj0bYZWazgyJ3hZTDKQHD) | [דובשנייה](https://open.spotify.com/album/55CGlMoTowH0a5vPjlS17I) | 2:32 | 2022-01-22 | 2023-06-13 |

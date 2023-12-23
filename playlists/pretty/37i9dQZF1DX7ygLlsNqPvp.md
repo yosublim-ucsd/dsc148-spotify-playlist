@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 
 > The most intense local drill music firing up the continent\. Cover:  <a href="https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn?si=C7E\_eE0SQaa4tMoedx4tBQ"> Beeztrap KOTM</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,407 likes - 58 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,440 likes - 58 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 | 57 | [Benzo](https://open.spotify.com/track/3hPcNThRzQXeAKEAENbigw) | [Dj Adwoa](https://open.spotify.com/artist/3JfFJpaSpXYHQKivBzJhZ1), [Malcolm Nuna](https://open.spotify.com/artist/5MMirduKxjz3OQSLiQfBcT) | [Benzo](https://open.spotify.com/album/0Aci22BAMAs616RwXIVSk1) | 2:47 |
 | 58 | [ANADWO](https://open.spotify.com/track/0yJwoXiQgvWGRI0zC4fBkc) | [Kwame Yesu](https://open.spotify.com/artist/2Wj6QDzfwiv0Px83nDFTRf), [Black Sheriff](https://open.spotify.com/artist/1zNmTgU8HEjyvdD1UDpOi9), [Kimilist](https://open.spotify.com/artist/2o0JWJBhIb9uopM3YEecpP) | [ANADWO](https://open.spotify.com/album/1zBWBi9V1zJ1wU6yKCMC8b) | 2:43 |
 
-Snapshot ID: `MCwyZjBmYjhkMWQ5ZTFmNzk0ZjczNDQzYmE0NjEwYWI3Y2EwOTI3MWU2`
+Snapshot ID: `MCxhYzM3OTEzNTcxMjM1ZTExMWYyZjliNGZlYWM1ZGUxOTFmZjhiYjc1`

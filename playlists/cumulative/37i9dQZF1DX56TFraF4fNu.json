@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-03",
-  "description": "Dosis musical para disfrutar el momento. Foto: Micro TDH",
+  "description": "Dosis musical para disfrutar el momento. Foto: Doble Porci\u00f3n, Ma\u00f1as Ru-Fino & M\u00e9tricas Fr\u00edas",
   "name": "Parchadito",
   "tracks": [
     {
@@ -415,6 +415,28 @@
     },
     {
       "album": {
+        "name": "Boom Boom",
+        "url": "https://open.spotify.com/album/0BD63nMFERjVJQKN0xGwci"
+      },
+      "artists": [
+        {
+          "name": "Afaz Natural",
+          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
+        },
+        {
+          "name": "Anthony B",
+          "url": "https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172871,
+      "name": "Boom Boom",
+      "url": "https://open.spotify.com/track/4z14cs5oSkQdwsVMcF5kMo"
+    },
+    {
+      "album": {
         "name": "BUBALU",
         "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
       },
@@ -500,10 +522,44 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 243433,
       "name": "Bulevar",
       "url": "https://open.spotify.com/track/7hQi6VmEgGLG462YpieKDG"
+    },
+    {
+      "album": {
+        "name": "Bulevar (feat. Nanpa B\u00e1sico & Brray) [Remix]",
+        "url": "https://open.spotify.com/album/2Zs2mVbPL5ZJyDYD4oshLD"
+      },
+      "artists": [
+        {
+          "name": "Esteban Rojas",
+          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360910,
+      "name": "Bulevar (feat. Nanpa B\u00e1sico & Brray) - Remix",
+      "url": "https://open.spotify.com/track/0YFtiekZdGa81WeWgzbRAG"
     },
     {
       "album": {
@@ -610,7 +666,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 199026,
       "name": "Carita Linda",
       "url": "https://open.spotify.com/track/3nEpf7LfISOfV1lxtAD6ks"
@@ -654,6 +710,28 @@
       "duration_ms": 184790,
       "name": "CHOLAO",
       "url": "https://open.spotify.com/track/6xKlwlSZg8QLcB2Rqt7GJe"
+    },
+    {
+      "album": {
+        "name": "CH\u00c9VERE",
+        "url": "https://open.spotify.com/album/1UHDzDHdvndCypdFrudyGY"
+      },
+      "artists": [
+        {
+          "name": "Ruzto",
+          "url": "https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo"
+        },
+        {
+          "name": "Soul AM",
+          "url": "https://open.spotify.com/artist/6ppLSXJZysRO3LBrlJIVuA"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146147,
+      "name": "CH\u00c9VERE",
+      "url": "https://open.spotify.com/track/6aKTId77qaIrzo82M51eqm"
     },
     {
       "album": {
@@ -702,6 +780,32 @@
       "duration_ms": 248470,
       "name": "De 0 a Siempre",
       "url": "https://open.spotify.com/track/1qxwayGaQN4roLdX5L9pM6"
+    },
+    {
+      "album": {
+        "name": "DE POR VIDA",
+        "url": "https://open.spotify.com/album/0wSQj9XhYYFhaVIVi1UewS"
+      },
+      "artists": [
+        {
+          "name": "Doble Porcion",
+          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
+        },
+        {
+          "name": "Ma\u00f1as Ru-Fino",
+          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
+        },
+        {
+          "name": "M\u00e9tricas Fr\u00edas",
+          "url": "https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184665,
+      "name": "De Por Vida",
+      "url": "https://open.spotify.com/track/0cwKWN0s1HWpDCKT9GQN77"
     },
     {
       "album": {
@@ -829,6 +933,24 @@
     },
     {
       "album": {
+        "name": "En Las Buenas y En Las Malas",
+        "url": "https://open.spotify.com/album/0Ekx1GipeSlqP0T4Gn1Q1h"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157413,
+      "name": "En Las Buenas y En Las Malas",
+      "url": "https://open.spotify.com/track/5gWkxqIv20eagfDWUeok2N"
+    },
+    {
+      "album": {
         "name": "ESO",
         "url": "https://open.spotify.com/album/2Tug6Kh0os9ZcHWfQX23ne"
       },
@@ -866,7 +988,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 166736,
       "name": "ESO VA",
       "url": "https://open.spotify.com/track/3OJHqWUIF06coILsONNcJ4"
@@ -1269,6 +1391,28 @@
     },
     {
       "album": {
+        "name": "365 d\u00edas de aguante",
+        "url": "https://open.spotify.com/album/0XvHJU5yu7UYMq9zejttcC"
+      },
+      "artists": [
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        },
+        {
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210322,
+      "name": "LA ROMPE CORAZONES (feat. Hozwal)",
+      "url": "https://open.spotify.com/track/5aQQSaaFutM2LnbePJq5mh"
+    },
+    {
+      "album": {
         "name": "La Tormenta",
         "url": "https://open.spotify.com/album/0UZCLEQ1PqcpUKg2n2hh8w"
       },
@@ -1422,7 +1566,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 181894,
       "name": "Mala Costumbre ft. Ovy On The Drums - Spotify Singles",
       "url": "https://open.spotify.com/track/30K54dQDikHIulypekVSZp"
@@ -1514,7 +1658,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 183322,
       "name": "Mente Da\u00f1a",
       "url": "https://open.spotify.com/track/2JrzG3ZKfeZX7TJGuMaWd8"
@@ -1790,7 +1934,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 191561,
       "name": "No Te Creas Tanto",
       "url": "https://open.spotify.com/track/3lTqxHwO6NqyGZhOxhWFvV"
@@ -1852,7 +1996,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 153242,
       "name": "Nunca Quise Escribirte una Balada",
       "url": "https://open.spotify.com/track/6NABVmTFslZbB8JEPx2DBl"
@@ -2363,6 +2507,24 @@
     },
     {
       "album": {
+        "name": "Soulmate",
+        "url": "https://open.spotify.com/album/34qyqrDSwLu4Z1xtPu7vtU"
+      },
+      "artists": [
+        {
+          "name": "The Negro Tapes",
+          "url": "https://open.spotify.com/artist/40xzVnQCJdpsXjcNZRoAi4"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199719,
+      "name": "Soulmate",
+      "url": "https://open.spotify.com/track/2Q6wN4JGESquKaJn3lnAix"
+    },
+    {
+      "album": {
         "name": "Suave y Pegao",
         "url": "https://open.spotify.com/album/1HIbD7tva2Sp1wjkKEJZhJ"
       },
@@ -2404,6 +2566,24 @@
       "duration_ms": 215284,
       "name": "T'as peur",
       "url": "https://open.spotify.com/track/35XF6veSvhoPdWy89zaeaj"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Momento Pa' Estar Vivo",
+        "url": "https://open.spotify.com/album/7q7oXa6wkdqTIuM9cpHxNF"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151034,
+      "name": "Tarea",
+      "url": "https://open.spotify.com/track/2dcsG9tJO9KrC4HOyl8Msu"
     },
     {
       "album": {
@@ -2670,7 +2850,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 158120,
       "name": "Yo, que muero de soledad",
       "url": "https://open.spotify.com/track/5TFYCJBnFdRE1gRPmB6TkA"

@@ -1,12 +1,12 @@
 {
   "description": "The freshest tech house &amp; techno music \ud83d\udd25\ud83d\udd0a | tech house - house - techno - rave - party - bangers - tiktok techno - dance | Submit via Instagram: @subshiftmusic",
-  "num_followers": 7124,
+  "num_followers": 7136,
   "original_name": "Tech House Shifters",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "ODE1OCw1MDAyNGUxNDk3MWQyM2MzZjYyODY2ZmZmZmU4ZjY2MjA2OTliOGRj",
+  "snapshot_id": "ODE3MywwMzlmNzc3N2VjODk3MzkzODM1ZjJlZDFmYzhlNGIzMDBhZTdiNDg2",
   "tracks": [
     {
       "added_at": "2023-12-16 10:01:38",
@@ -63,6 +63,30 @@
       "duration_ms": 200343,
       "name": "What I'm Sayin",
       "url": "https://open.spotify.com/track/7tzH9WFMUGfsvvI0UXXj4A"
+    },
+    {
+      "added_at": "2023-12-22 19:31:41",
+      "album": {
+        "name": "What I Do",
+        "url": "https://open.spotify.com/album/22m4OKMTuFzHdZG4e4DUrQ"
+      },
+      "artists": [
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        },
+        {
+          "name": "Millean.",
+          "url": "https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz"
+        },
+        {
+          "name": "Haylee Wood",
+          "url": "https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "What I Do",
+      "url": "https://open.spotify.com/track/5Xi4xwLls4A7J0NqOfkWID"
     },
     {
       "added_at": "2023-12-01 00:04:12",
@@ -137,6 +161,26 @@
       "url": "https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ"
     },
     {
+      "added_at": "2023-12-22 19:31:31",
+      "album": {
+        "name": "Let Me",
+        "url": "https://open.spotify.com/album/1TE7SUPhke4DC9NhnBf9ya"
+      },
+      "artists": [
+        {
+          "name": "Teko",
+          "url": "https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS"
+        },
+        {
+          "name": "ALVES",
+          "url": "https://open.spotify.com/artist/5IuRJkF6BqSdfGykaHfslU"
+        }
+      ],
+      "duration_ms": 170625,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/7fRLbVYH6eV2qMGkEFlxYh"
+    },
+    {
       "added_at": "2023-12-16 10:02:17",
       "album": {
         "name": "Master",
@@ -187,6 +231,42 @@
       "duration_ms": 165000,
       "name": "Levitate",
       "url": "https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa"
+    },
+    {
+      "added_at": "2023-11-10 00:01:41",
+      "album": {
+        "name": "Soundboy (feat. LexBlaze)",
+        "url": "https://open.spotify.com/album/0XNOTUhvEvt6VWNzvoHHdI"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "LexBlaze",
+          "url": "https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri"
+        }
+      ],
+      "duration_ms": 169700,
+      "name": "Soundboy (feat. LexBlaze)",
+      "url": "https://open.spotify.com/track/5hj1JdeMFcm7bAoX1Pmb6B"
+    },
+    {
+      "added_at": "2023-12-22 19:31:28",
+      "album": {
+        "name": "Blingin'",
+        "url": "https://open.spotify.com/album/0FZfOlRaVV3KU1WmzUc4Ya"
+      },
+      "artists": [
+        {
+          "name": "Dujak",
+          "url": "https://open.spotify.com/artist/5vNeqphZZDB8susU5xA8mP"
+        }
+      ],
+      "duration_ms": 214153,
+      "name": "Blingin' - Radio Edit",
+      "url": "https://open.spotify.com/track/7MkNyti9mnOv9BJ2Z2u1r3"
     },
     {
       "added_at": "2023-12-14 18:54:03",
@@ -357,26 +437,6 @@
       "url": "https://open.spotify.com/track/7ffgc891MkZ8ZN6vLzYX8J"
     },
     {
-      "added_at": "2023-11-10 00:01:41",
-      "album": {
-        "name": "Soundboy (feat. LexBlaze)",
-        "url": "https://open.spotify.com/album/0XNOTUhvEvt6VWNzvoHHdI"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        },
-        {
-          "name": "LexBlaze",
-          "url": "https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri"
-        }
-      ],
-      "duration_ms": 169700,
-      "name": "Soundboy (feat. LexBlaze)",
-      "url": "https://open.spotify.com/track/5hj1JdeMFcm7bAoX1Pmb6B"
-    },
-    {
       "added_at": "2023-12-08 13:20:40",
       "album": {
         "name": "Mami",
@@ -495,22 +555,6 @@
       "duration_ms": 180451,
       "name": "Black Rovah",
       "url": "https://open.spotify.com/track/624oyMYYWykkRgxTAcdefG"
-    },
-    {
-      "added_at": "2023-12-01 00:44:00",
-      "album": {
-        "name": "Lotta Care EP",
-        "url": "https://open.spotify.com/album/28mhsbSCfeQPkVtcPawSwt"
-      },
-      "artists": [
-        {
-          "name": "Teko",
-          "url": "https://open.spotify.com/artist/6LYBTipBAHSpduixnHmWuS"
-        }
-      ],
-      "duration_ms": 172734,
-      "name": "Lotta Dough",
-      "url": "https://open.spotify.com/track/4ylibekKTNdu4VeIChYUfL"
     },
     {
       "added_at": "2023-12-08 13:20:32",
@@ -693,6 +737,22 @@
       "url": "https://open.spotify.com/track/6FBdnBnsJlwbDwQIW4oC1G"
     },
     {
+      "added_at": "2023-12-22 19:31:48",
+      "album": {
+        "name": "Area Codes",
+        "url": "https://open.spotify.com/album/4HVmo2wBRxZczZ5D6IxR9n"
+      },
+      "artists": [
+        {
+          "name": "Jeff Sorkowitz",
+          "url": "https://open.spotify.com/artist/2398j57F5pxJjxadRLVZCC"
+        }
+      ],
+      "duration_ms": 283969,
+      "name": "Area Codes",
+      "url": "https://open.spotify.com/track/0lrh4fzyKEzoDHP76yR85b"
+    },
+    {
       "added_at": "2023-03-10 08:29:37",
       "album": {
         "name": "Back To You (Deluxe Pack)",
@@ -861,132 +921,80 @@
       "url": "https://open.spotify.com/track/0pw4F8x7cAZ7MYyK35sfmf"
     },
     {
-      "added_at": "2023-12-16 10:08:06",
+      "added_at": "2023-12-22 19:41:41",
       "album": {
-        "name": "En Tre (Extended Mix)",
-        "url": "https://open.spotify.com/album/7t4jSHb0gPDP0giFrX8lMV"
+        "name": "Papi",
+        "url": "https://open.spotify.com/album/5TcTZUJXpy9BnrmzDzEiBG"
       },
       "artists": [
         {
-          "name": "Davide Marsala",
-          "url": "https://open.spotify.com/artist/1SNXTiPxArdBh9psV06qEZ"
-        }
-      ],
-      "duration_ms": 212769,
-      "name": "En Tre - Radio Edit",
-      "url": "https://open.spotify.com/track/4EDiOOuAWLGhHDPTHOAQtt"
-    },
-    {
-      "added_at": "2023-12-16 10:09:22",
-      "album": {
-        "name": "Wyld In Amsterdam 2022",
-        "url": "https://open.spotify.com/album/1RGzgWEkcPElPb7s2PUMMe"
-      },
-      "artists": [
-        {
-          "name": "Damo Cox",
-          "url": "https://open.spotify.com/artist/26cH5NsLdYO4n0iIQ9q1M7"
-        }
-      ],
-      "duration_ms": 302362,
-      "name": "Light Years",
-      "url": "https://open.spotify.com/track/24epMjl1dMm7MZ8AbE8Gyx"
-    },
-    {
-      "added_at": "2023-12-16 10:11:35",
-      "album": {
-        "name": "Girls",
-        "url": "https://open.spotify.com/album/6rZTT2mtsRGChqnSnp6KZf"
-      },
-      "artists": [
-        {
-          "name": "Danbox",
-          "url": "https://open.spotify.com/artist/5bSJlUHWko1F0bHPd2Oqym"
+          "name": "Trizzoh",
+          "url": "https://open.spotify.com/artist/58siSEjE7cMSB0RT9CcW5X"
         },
         {
-          "name": "LeBoops",
-          "url": "https://open.spotify.com/artist/2OyPqEgEKnFAaUMzlDApAd"
+          "name": "Mike Haley",
+          "url": "https://open.spotify.com/artist/68AD84yTkrB1bcHC2ZViA8"
         }
       ],
-      "duration_ms": 207874,
-      "name": "Girls",
-      "url": "https://open.spotify.com/track/2yBqbY8RfyKMVRXQUpOHQI"
+      "duration_ms": 332598,
+      "name": "Papi",
+      "url": "https://open.spotify.com/track/7Ks58UfTGrWzvZ6wJ88yqH"
     },
     {
-      "added_at": "2023-12-16 10:11:50",
+      "added_at": "2023-12-22 19:41:50",
       "album": {
-        "name": "Habibi",
-        "url": "https://open.spotify.com/album/7KoMMvi93kaPiBie6PuG5S"
+        "name": "Play It Cool",
+        "url": "https://open.spotify.com/album/4v7WCGOjx96P2QwLDeCn74"
       },
       "artists": [
         {
-          "name": "Maution",
-          "url": "https://open.spotify.com/artist/27kMgg4aA7BgvyfwdU2niZ"
-        }
-      ],
-      "duration_ms": 142080,
-      "name": "Habibi",
-      "url": "https://open.spotify.com/track/3mYHhdxV6PU752O5ZPMA3Z"
-    },
-    {
-      "added_at": "2023-12-16 10:12:14",
-      "album": {
-        "name": "Dance Tonight",
-        "url": "https://open.spotify.com/album/6HJVtfxGUMvRLv1u7rB4F0"
-      },
-      "artists": [
-        {
-          "name": "Smith & Sorren",
-          "url": "https://open.spotify.com/artist/0jr9KCoFLBpa8KJL0jRn3A"
+          "name": "Markus Martinez",
+          "url": "https://open.spotify.com/artist/4X7TDt68pJhQxropTlyfc0"
         },
         {
-          "name": "Jaymalina",
-          "url": "https://open.spotify.com/artist/4UkH5E9SoHWdIIpmlBAcvb"
+          "name": "D\u00d8SHI",
+          "url": "https://open.spotify.com/artist/6Qq7ljz7f3hMO8uWDIDcuS"
         }
       ],
-      "duration_ms": 200625,
-      "name": "Dance Tonight",
-      "url": "https://open.spotify.com/track/5V0nDLCWc9j2Sl38eg87SZ"
+      "duration_ms": 159375,
+      "name": "Play It Cool",
+      "url": "https://open.spotify.com/track/3AUbzUkd6WtADkQhPkv6Y5"
     },
     {
-      "added_at": "2023-12-16 10:25:06",
+      "added_at": "2023-12-22 19:45:46",
       "album": {
-        "name": "Watermelon",
-        "url": "https://open.spotify.com/album/3M06yA4VjCmclh6NjnYPcl"
+        "name": "THE GROOVY BUNNY",
+        "url": "https://open.spotify.com/album/5FdbXAHOTV3h1LDvYsqDgy"
       },
       "artists": [
         {
-          "name": "Joaco",
-          "url": "https://open.spotify.com/artist/1PkCwQPqbi70MIIDSRUhfB"
-        },
-        {
-          "name": "Mr. Cookie",
-          "url": "https://open.spotify.com/artist/2hu3E0yzrDIbf0i4l4NIvn"
-        },
-        {
-          "name": "Arloz",
-          "url": "https://open.spotify.com/artist/0rBy7ckD65vZF3I6RIF4M0"
+          "name": "Tidis",
+          "url": "https://open.spotify.com/artist/382RN83tXiZzt5v4hbvFN7"
         }
       ],
-      "duration_ms": 296824,
-      "name": "Watermelon - Arloz Remix",
-      "url": "https://open.spotify.com/track/0ABpeyZvvzNbTGVtNLBdEB"
+      "duration_ms": 301875,
+      "name": "THE GROOVY BUNNY",
+      "url": "https://open.spotify.com/track/4BeQxgJbRl6aki4jYj0kvx"
     },
     {
-      "added_at": "2023-12-16 10:25:08",
+      "added_at": "2023-12-22 19:47:29",
       "album": {
-        "name": "Roots",
-        "url": "https://open.spotify.com/album/4S2UTjJUlp33VBn7ButR82"
+        "name": "No Cap",
+        "url": "https://open.spotify.com/album/4WOoTq5JnSnqOLGAqpMrFX"
       },
       "artists": [
         {
-          "name": "Bruno Fernz",
-          "url": "https://open.spotify.com/artist/6iM1c656vyqxLVaxaVLhLI"
+          "name": "Flo.Von",
+          "url": "https://open.spotify.com/artist/6QSpwoXNHKuyxV43biHlYV"
+        },
+        {
+          "name": "GiddiBangBang",
+          "url": "https://open.spotify.com/artist/4r159dgfxQvmRkg6XvfbjF"
         }
       ],
-      "duration_ms": 339692,
-      "name": "Roots",
-      "url": "https://open.spotify.com/track/19WnFg2fHSpNOzM8z7b9u3"
+      "duration_ms": 210937,
+      "name": "No Cap - Streaming Edit",
+      "url": "https://open.spotify.com/track/5qQbAlcb6X3GDfY6NUHSkm"
     }
   ],
   "unique_name": "Tech House Shifters",

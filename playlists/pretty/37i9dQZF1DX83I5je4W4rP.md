@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 
 > Soak up these laid\-back jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,064,498 likes - 125 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,064,522 likes - 125 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 60 | [I Got You](https://open.spotify.com/track/2yOJBslB31F2WMHM3s1FRN) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Work Hard and Be Nice](https://open.spotify.com/album/7hvm1xQnsTkIrcHYHGA5mR) | 3:36 |
 | 61 | [Lift Me Up](https://open.spotify.com/track/3UwL3cYpdTYNpYK512LkFj) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Super Moon](https://open.spotify.com/album/1a8kasT2fbeOcjvFsuGnch) | 2:33 |
 | 62 | [Bring Me Along](https://open.spotify.com/track/12hIOqdMjKmYatc3fwywL7) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [No Shame](https://open.spotify.com/album/1r1dc5yTdwHQk77JZibmCF) | 3:32 |
-| 63 | [Take Me To The Ocean](https://open.spotify.com/track/6IjB7d4ciJaMt4TX9p8MhS) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr) | [Ways Of The World](https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q) | 4:30 |
-| 64 | [Bang Bang](https://open.spotify.com/track/2yGoiZes2YcueNA4nGDmdS) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [Bang Bang](https://open.spotify.com/album/0tN2TkilPoLmqN21UJBC77) | 4:27 |
+| 63 | [Bang Bang](https://open.spotify.com/track/2yGoiZes2YcueNA4nGDmdS) | [DISPATCH](https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9) | [Bang Bang](https://open.spotify.com/album/0tN2TkilPoLmqN21UJBC77) | 4:27 |
+| 64 | [Take Me To The Ocean](https://open.spotify.com/track/6IjB7d4ciJaMt4TX9p8MhS) | [The Movement](https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr) | [Ways Of The World](https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q) | 4:30 |
 | 65 | [Something to Believe In](https://open.spotify.com/track/0z1hoxTVVdZn1OxciNsRuw) | [Citizen Cope](https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F) | [One Lovely Day](https://open.spotify.com/album/08H1gq5VICAZyVXf9XDJax) | 3:41 |
 | 66 | [Press Rewind](https://open.spotify.com/track/1Js26hznhkLlFeRoxCtyNq) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Beauty In The Silence](https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8) | 4:34 |
 | 67 | [Daydreaming](https://open.spotify.com/track/0sgwQ68fvcBjsQXzogGC1O) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Mind The Moon](https://open.spotify.com/album/39EHgpDs6VgKlx0RY0E37J) | 3:19 |
@@ -127,11 +127,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 117 | [Greed](https://open.spotify.com/track/1c9NFMnYVnU8J56Ccj9BFo) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 3:42 |
 | 118 | [Love Her Anyways](https://open.spotify.com/track/3B8TBGV0upObaUd9z4O9W8) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Prologue](https://open.spotify.com/album/1mgDzGlXtOLeilxgyaltHo) | 3:06 |
 | 119 | [Heavy as Lead](https://open.spotify.com/track/59HQVKZfaKycUzRTtp1zDO) | [Rebelution](https://open.spotify.com/artist/2WjvvwAX0mdWwq3aFuUdtc) | [Heavy as Lead](https://open.spotify.com/album/1uqKKrSpCBx15YzUY3f55m) | 2:56 |
-| 120 | [Batshit Crazy](https://open.spotify.com/track/1kht76yGOThdMDpp0UKFKW) | [Artikal Sound System](https://open.spotify.com/artist/5wbZwShmxCGRjgjTQQr7Sr), [Little Stranger](https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq) | [Batshit Crazy](https://open.spotify.com/album/1CrDdAUE0rljeRWxPKXV7G) | 3:25 |
-| 121 | [Round n Round \(feat\. Pepper & Kaleo Wassman\)](https://open.spotify.com/track/3KksVkdOTp4Gb7At5uXLeX) | [Vana Liya](https://open.spotify.com/artist/12GfQaPLWcOztNYsVL5wIV), [Kaleo Wassman](https://open.spotify.com/artist/2v9vuieSJyhpLpXNafGYqc), [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Round n Round](https://open.spotify.com/album/4A8MJ9St5BebDStA4brBXZ) | 4:56 |
+| 120 | [Round n Round \(feat\. Pepper & Kaleo Wassman\)](https://open.spotify.com/track/3KksVkdOTp4Gb7At5uXLeX) | [Vana Liya](https://open.spotify.com/artist/12GfQaPLWcOztNYsVL5wIV), [Kaleo Wassman](https://open.spotify.com/artist/2v9vuieSJyhpLpXNafGYqc), [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Round n Round](https://open.spotify.com/album/4A8MJ9St5BebDStA4brBXZ) | 4:56 |
+| 121 | [Batshit Crazy](https://open.spotify.com/track/1kht76yGOThdMDpp0UKFKW) | [Artikal Sound System](https://open.spotify.com/artist/5wbZwShmxCGRjgjTQQr7Sr), [Little Stranger](https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq) | [Batshit Crazy](https://open.spotify.com/album/1CrDdAUE0rljeRWxPKXV7G) | 3:25 |
 | 122 | [Rollin' \(with Eli Mac\)](https://open.spotify.com/track/7KgeB13kf4VXVEOT4AVtBX) | [Through The Roots](https://open.spotify.com/artist/3kXFPAfFzG0LrudmtGM6Yc), [Eli\-Mac](https://open.spotify.com/artist/0Uze78PydtvTNQWhU7TVJK) | [Departure](https://open.spotify.com/album/1hVbu9jTKeMS477FLE8tX5) | 3:15 |
 | 123 | [All for You](https://open.spotify.com/track/4Yy6k6BnisqPKcMEJ1YmJI) | [Stick Figure](https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R) | [All for You](https://open.spotify.com/album/1HNGz1Ltvn2pM559lKcDyW) | 4:26 |
 | 124 | [Board Meeting](https://open.spotify.com/track/2xsH55uRuzapn3AtYqnEja) | [Wheeland Brothers](https://open.spotify.com/artist/5mabMBNdrC8AIPmjpiqvEq) | [Pacific Vibration](https://open.spotify.com/album/3kc0N4gkYRwUCcuuCbmDa4) | 3:19 |
 | 125 | [Message to the World](https://open.spotify.com/track/3ks1SPDe8U2c6Yh5zLxXHt) | [Ballyhoo!](https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ) | [Message to the World](https://open.spotify.com/album/7z2lGMV0XR1ssaaO3Eb3P3) | 3:44 |
 
-Snapshot ID: `MCxhODI0YTIwMjM0MmVhMDdiNjMyNzEyZmUzNjBiODU2NjkwOTUxMDRk`
+Snapshot ID: `MCxkMDhlNjAwNGIzZjVjOWY2MmZjOWIzMWFlYzg0MTE2MWUxZGUyYWU4`

@@ -4,7 +4,7 @@
 
 > Trace the history of Jazz from timeless classics to boundary\-breaking contemporary favorites from the women of Jazz\. Cover: Diana Krall
 
-193 songs - 13 hr 54 min
+194 songs - 13 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [I Miss You So](https://open.spotify.com/track/5kCUgjpQKLmA7a2jR0odul) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [I Miss You So](https://open.spotify.com/album/15cL28NaqFZ5ySBqsa64mF) | 3:43 | 2023-04-27 |  |
 | [I Put A Spell On You](https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:35 | 2021-12-02 |  |
 | [I Try](https://open.spotify.com/track/0vYClPTcVCy3odjHpogsPC) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [I Try](https://open.spotify.com/album/12GHrKv1h0MU1f2JGVI36D) | 4:17 | 2021-12-02 | 2022-07-29 |
-| [I Try](https://open.spotify.com/track/1TQZRpTbH3aWDqmr5mBo2z) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stripped](https://open.spotify.com/album/0e4r5RngHsRWXwUdifziDt) | 4:17 | 2022-03-08 |  |
+| [I Try](https://open.spotify.com/track/1TQZRpTbH3aWDqmr5mBo2z) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stripped](https://open.spotify.com/album/0e4r5RngHsRWXwUdifziDt) | 4:17 | 2022-03-08 | 2023-12-23 |
+| [I Try](https://open.spotify.com/track/4LwUtuvie7JhcBFhUKnVv1) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stripped](https://open.spotify.com/album/4qOu8iLW8LyrX1MVm393P6) | 4:17 | 2023-12-20 |  |
 | [I'm Afraid the Masquerade Is Over](https://open.spotify.com/track/6mXID0DbyA7qBZVLPZ1yXg) | [Jennifer Leitham](https://open.spotify.com/artist/0mmZkzRQaoA1sn7iB8XvbB) | [Mood\(S\)wings](https://open.spotify.com/album/4XiJAy1fNIsCdbwpvVofBK) | 7:25 | 2021-12-02 |  |
 | [I'm In The Mood For Love](https://open.spotify.com/track/6crfO56bDm0RjpctUuGs5X) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 2:29 | 2021-12-02 |  |
 | [I'm Old Fashioned](https://open.spotify.com/track/1vsZD1hVHW7BU4FOIYkO5R) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [Paris In The Rain](https://open.spotify.com/album/3GXZ7rWUodW0smcTrVqlAp) | 4:44 | 2021-12-02 |  |

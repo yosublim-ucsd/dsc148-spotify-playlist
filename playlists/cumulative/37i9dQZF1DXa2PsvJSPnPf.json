@@ -3354,7 +3354,7 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 259186,
       "name": "Thinkin' On You",
       "url": "https://open.spotify.com/track/2EFbDP27ysoPnNQdQQXqfR"
@@ -3376,6 +3376,24 @@
       "duration_ms": 259186,
       "name": "Thinkin' On You",
       "url": "https://open.spotify.com/track/6WmA3Z9wEsCmvlxvyFIFs0"
+    },
+    {
+      "album": {
+        "name": "Shame",
+        "url": "https://open.spotify.com/album/3yv8PzbwTZf9HqZyhnA5S7"
+      },
+      "artists": [
+        {
+          "name": "Rachel Baiman",
+          "url": "https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259186,
+      "name": "Thinkin' On You",
+      "url": "https://open.spotify.com/track/7dqhOx0txJrgz0uovJWqlj"
     },
     {
       "album": {
@@ -3906,10 +3924,32 @@
       ],
       "date_added": "2022-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 259798,
       "name": "You're Free Now",
       "url": "https://open.spotify.com/track/0ySdK6vR22cXZMb3AMgsUS"
+    },
+    {
+      "album": {
+        "name": "da Costa (Deluxe)",
+        "url": "https://open.spotify.com/album/2VH2F0wlJCfm7wuUYYD87E"
+      },
+      "artists": [
+        {
+          "name": "Anthony da Costa",
+          "url": "https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj"
+        },
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259798,
+      "name": "You're Free Now (feat. Sarah Jarosz)",
+      "url": "https://open.spotify.com/track/271g7BFvo00WN1YN78m0JG"
     },
     {
       "album": {

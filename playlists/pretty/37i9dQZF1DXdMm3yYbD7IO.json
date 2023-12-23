@@ -1,12 +1,12 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 289799,
+  "num_followers": 290094,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZWU3MjMxYjIyOGM5NWFhZDc1OWE3MTQwNzY5NjczOTdlNmVlYmM1",
+  "snapshot_id": "MCwyZjg2ODBjMGZiNmQ1NWQ5NDQ3OTYyZDE1NDg3MjczMzkzZDYwZjRi",
   "tracks": [
     {
       "added_at": "2023-03-10 23:34:06",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-03-10 23:34:06",
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
-      },
-      "artists": [
-        {
-          "name": "Black Box",
-          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
-        }
-      ],
-      "duration_ms": 298691,
-      "name": "Strike It Up",
-      "url": "https://open.spotify.com/track/742hY2twqAjwNYnKkQdilj"
-    },
-    {
-      "added_at": "2023-03-10 23:34:06",
-      "album": {
         "name": "Poison (Expanded Edition)",
         "url": "https://open.spotify.com/album/3Fa7c5eB1TiAhoyhS4ReNi"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 261866,
       "name": "Poison",
       "url": "https://open.spotify.com/track/50DAHcCqneoupFyh96P2GP"
+    },
+    {
+      "added_at": "2023-03-10 23:34:06",
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
+      },
+      "artists": [
+        {
+          "name": "Black Box",
+          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
+        }
+      ],
+      "duration_ms": 298691,
+      "name": "Strike It Up",
+      "url": "https://open.spotify.com/track/742hY2twqAjwNYnKkQdilj"
     },
     {
       "added_at": "2023-03-10 23:34:06",

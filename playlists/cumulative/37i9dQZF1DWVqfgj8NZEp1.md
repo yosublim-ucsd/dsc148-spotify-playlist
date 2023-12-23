@@ -4,7 +4,7 @@
 
 > Relax to the sound of gentle instrumental Jazz.
 
-304 songs - 1 day 4 hr 2 min
+305 songs - 1 day 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,8 @@
 | [In Memory](https://open.spotify.com/track/4M7Hi6wUOQ7ECOup83DYov) | [Tingvall Trio](https://open.spotify.com/artist/65mwyp96M7Yx78x8XVz39M) | [Dance](https://open.spotify.com/album/1KDGAEkezlMWQ46iXhVuok) | 5:18 | 2020-10-09 | 2022-09-07 |
 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/1lvug6DVmu4Wkbqayo3w2O) | [Erik von Spreckelsen](https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA), [Marek Konarski](https://open.spotify.com/artist/0ZnimzyDZNsRbfHQqKnJw6) | [Friendship](https://open.spotify.com/album/76J9y1fOCLHKZ0lmwsP0vx) | 4:41 | 2023-11-24 |  |
 | [Infant Eyes](https://open.spotify.com/track/6J8Z1UJG7uTS1mhZsgmJCp) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1xf8Ny57YgeCJxNKm2oVDd) | 7:37 | 2020-10-09 | 2022-07-29 |
-| [Infant Eyes](https://open.spotify.com/track/6hz2ZQNQd98q5iQ4dvjSpX) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1eJhAsuavF6CLIN9tgCzhx) | 7:37 | 2022-06-30 |  |
+| [Infant Eyes](https://open.spotify.com/track/6hz2ZQNQd98q5iQ4dvjSpX) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1eJhAsuavF6CLIN9tgCzhx) | 7:37 | 2022-06-30 | 2023-12-23 |
+| [Infant Eyes](https://open.spotify.com/track/7v6mocwA0qrPLoyLYpxq1G) | [Fred Hersch Trio](https://open.spotify.com/artist/6iBvBotxtLvyFZoUPytqgP) | [Heartsongs](https://open.spotify.com/album/1vxRTqxedJxRmg8J11ZCuF) | 7:37 | 2023-12-19 |  |
 | [Isadora](https://open.spotify.com/track/7G9VsVr1m6YzaJgHyRgz4y) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Yesterday You Said Tomorrow](https://open.spotify.com/album/1yEatbNaAycy7doYijdili) | 6:13 | 2022-06-30 | 2023-01-18 |
 | [Isadora](https://open.spotify.com/track/03KmUnGK5okNrMU2hmUwF2) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Smooth Summer Jazz](https://open.spotify.com/album/2V1jWBewwIKXWAQJAm37qd) | 6:14 | 2022-11-10 | 2022-11-13 |
 | [Isadora](https://open.spotify.com/track/5bF6crgJa5Q58IWgbdUbuO) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Introducing Christian Scott](https://open.spotify.com/album/5dFfrmCWp4rYbggmhYhakl) | 6:16 | 2020-10-09 | 2022-07-29 |

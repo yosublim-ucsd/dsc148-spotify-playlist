@@ -4,7 +4,7 @@
 
 > 
 
-1,829 songs - 4 day 3 hr 2 min
+1,831 songs - 4 day 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Athoth a Go!! Go!!](https://open.spotify.com/track/3pyQ4ijJjLPW0wW1mPExdc) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | […Because I’m Young Arrogant and Hate Everything You Stand For](https://open.spotify.com/album/2e5IzvDrIc8656bHTx3fE5) | 1:35 | 2022-05-23 |  |
 | [Attack The Flow](https://open.spotify.com/track/52OMp97LMUaGJ8bf2wpyQY) | [SRB](https://open.spotify.com/artist/1Rrgj81U1W0kRhxvzeCXVQ), [RTC](https://open.spotify.com/artist/6XKzxZJ5BIe7e1hyI4NSAs) | [Rocket Science](https://open.spotify.com/album/5HjYEkQtNcHoiOvzzO5g9R) | 4:00 | 2023-05-22 |  |
 | [Attracted to You](https://open.spotify.com/track/4fPjI40ElIwJQ4DJJxSCOe) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Attracted To You](https://open.spotify.com/album/3tY6ZOPhcl9B5HVVhs7GkC) | 1:07 | 2021-08-05 |  |
+| [Automotivo Bibi Fogosa](https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN) | [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [Dj Brunin XM](https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3), [KZA Produções](https://open.spotify.com/artist/1rRhJIu1ufxCjbmMWon6ax) | [Automotivo Bibi Fogosa](https://open.spotify.com/album/0Hj2X0CQBjpWapFzNQGbk2) | 2:09 | 2023-12-22 |  |
 | [Axel F](https://open.spotify.com/track/0Bo5fjMtTfCD8vHGebivqc) | [Crazy Frog](https://open.spotify.com/artist/4J3wzDMI97AlGimdiVcaLb) | [Crazy Frog presents Crazy Hits](https://open.spotify.com/album/6dhqlbbOqTKD5xbN3iRqlY) | 2:51 | 2021-08-05 |  |
 | [B.F.F.](https://open.spotify.com/track/5IJ7f4RUpTB7pyDtcJwpN7) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Make Room](https://open.spotify.com/album/7aTumdbpn2n1AG6CjCqvnR) | 2:35 | 2021-08-24 |  |
 | [B.O.M.D.](https://open.spotify.com/track/45GLZ5tAhzkkb9NznATAN7) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [diary 001](https://open.spotify.com/album/3NEDQmYF1roygFssVEwkwv) | 2:39 | 2021-08-05 |  |
@@ -1291,6 +1292,7 @@
 | [Putrid Pride](https://open.spotify.com/track/4CwA4CdTQqNv18QSAW3Srk) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [STOP STARING AT THE SHADOWS](https://open.spotify.com/album/6lH2MWwv4aBA2OK7uuYy0n) | 1:46 | 2022-12-25 |  |
 | [Pynk \(feat\. Grimes\)](https://open.spotify.com/track/5OpiyfqaQLdtwHd3SfembH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 4:00 | 2022-02-18 |  |
 | [QUEEN OF THE FREAKS](https://open.spotify.com/track/1B3jrw2Wis7EgeGfixMfXX) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [QUEEN OF THE FREAKS](https://open.spotify.com/album/4tMZzGfRtcoBYz6kVU2ZX6) | 3:34 | 2021-11-14 |  |
+| [Quer Fuder Com os Sem Amor Vs Beat Risada](https://open.spotify.com/track/256rhfOQpQvN24CFJEWxQ8) | [Lgzin e cabelinho](https://open.spotify.com/artist/1UbZJGwemZf22EigTv1hH5), [Mc Grigo 22](https://open.spotify.com/artist/3FPXlDlvOoKaDRrqQcFH8l) | [Quer Fuder Com os Sem Amor Vs Beat Risada](https://open.spotify.com/album/6TYSu96eVsKo1RrVXf8deB) | 2:16 | 2023-12-22 |  |
 | [Rabbit Hole](https://open.spotify.com/track/55gz8MakFlHbhOAne0Aeai) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Rabbit Hole](https://open.spotify.com/album/4dXr0FZ6F92JKXwAzxLQps) | 3:48 | 2021-08-05 |  |
 | [RACECAR \(feat\. Clairo, Coco & Clair Clair\)](https://open.spotify.com/track/0E4oz7ZPWoALwDHeI0eLXZ) | [Deaton Chris Anthony](https://open.spotify.com/artist/1n8hLoV90OhFCYXLtCD659), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag), [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [RACECAR \(feat\. Clairo, Coco & Clair Clair\)](https://open.spotify.com/album/5IdqV4LVc0zKqgR8s6PHG9) | 2:50 | 2022-02-04 |  |
 | [Rakata](https://open.spotify.com/track/0hp5IJ83YpnglsrvGfIhIN) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KICK ii](https://open.spotify.com/album/1Vg5v9M0afj5sIl1ndRXzy) | 2:31 | 2021-12-30 |  |

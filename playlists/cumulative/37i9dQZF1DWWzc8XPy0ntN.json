@@ -1465,6 +1465,28 @@
     },
     {
       "album": {
+        "name": "La Alarma",
+        "url": "https://open.spotify.com/album/0h1YHsNifxwrNA0dDf4S2E"
+      },
+      "artists": [
+        {
+          "name": "Mijo",
+          "url": "https://open.spotify.com/artist/4cLXwxOqso1lUoR0SIk0jl"
+        },
+        {
+          "name": "Eddie Mercury",
+          "url": "https://open.spotify.com/artist/75nmSQJHSIOsonIIISykO8"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391750,
+      "name": "La Alarma - Radio Club Edit",
+      "url": "https://open.spotify.com/track/7MxnluHCTdx5SjJpTcSRZj"
+    },
+    {
+      "album": {
         "name": "La Nueva Mortalidad (Remaster 2021)",
         "url": "https://open.spotify.com/album/7a2G1S8B3foJ9Ai6U6hOkO"
       },
@@ -1628,7 +1650,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 506612,
       "name": "Love is Dancing",
       "url": "https://open.spotify.com/track/1XNXuM7R6Lmk5RdWnfe2S0"

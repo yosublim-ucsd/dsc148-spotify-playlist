@@ -1,12 +1,12 @@
 {
   "description": "Si tocan a una respondemos todas.",
-  "num_followers": 54680,
+  "num_followers": 54685,
   "original_name": "Himnos de Sororidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZWRiNjNiY2EwZWM0MzZlM2U1Nzc5MWQ0OTBjM2JhNjI3OTY0OTk5",
+  "snapshot_id": "MCw0YWJkZjkyYWE0ZjAxMGRmYjAxNGI5NGIyOTE2YmMxMmMwMmZkMWI4",
   "tracks": [
     {
       "added_at": "2023-12-15 03:00:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Rompe (Vencer el Miedo)",
-        "url": "https://open.spotify.com/album/7z2IbqRX10fz29da0hN2bm"
-      },
-      "artists": [
-        {
-          "name": "Paulina Goto",
-          "url": "https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Rompe (Vencer el Miedo)",
-      "url": "https://open.spotify.com/track/6mQGZKKZR8EdUvfxqs4fko"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "La hija del loco",
         "url": "https://open.spotify.com/album/0Jyzj8fLiBzZc5i0jbtCfU"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 266613,
       "name": "Historika",
       "url": "https://open.spotify.com/track/11LBXStTNnMsUjMLRpurqe"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Rompe (Vencer el Miedo)",
+        "url": "https://open.spotify.com/album/7z2IbqRX10fz29da0hN2bm"
+      },
+      "artists": [
+        {
+          "name": "Paulina Goto",
+          "url": "https://open.spotify.com/artist/3gkRQ3dXFUtmi9kFdjXB2y"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Rompe (Vencer el Miedo)",
+      "url": "https://open.spotify.com/track/6mQGZKKZR8EdUvfxqs4fko"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "SE BUSCA",
-        "url": "https://open.spotify.com/album/3tITprG2WPraA2ejbTaZVD"
-      },
-      "artists": [
-        {
-          "name": "Mare Advertencia Lirika",
-          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
-        }
-      ],
-      "duration_ms": 154450,
-      "name": "Se Busca",
-      "url": "https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Guerrera",
         "url": "https://open.spotify.com/album/37tmDnR0p0ABwvtHfECzdD"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 251739,
       "name": "Guerrera",
       "url": "https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "SE BUSCA",
+        "url": "https://open.spotify.com/album/3tITprG2WPraA2ejbTaZVD"
+      },
+      "artists": [
+        {
+          "name": "Mare Advertencia Lirika",
+          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
+        }
+      ],
+      "duration_ms": 154450,
+      "name": "Se Busca",
+      "url": "https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -939,38 +939,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Amiga",
-        "url": "https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x"
-      },
-      "artists": [
-        {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
-        }
-      ],
-      "duration_ms": 157389,
-      "name": "Amiga",
-      "url": "https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Nos Queremos Vivas",
-        "url": "https://open.spotify.com/album/5Dqwsm0uvmt6TvPHScZ35W"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Lane",
-          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
-        }
-      ],
-      "duration_ms": 220576,
-      "name": "Nos Queremos Vivas",
-      "url": "https://open.spotify.com/track/4UYBH2rHhTDa655jgcfZUt"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Mujeres Ya!",
         "url": "https://open.spotify.com/album/2TpVuHGhZIFcCDFaYUFo5z"
       },
@@ -1023,6 +991,38 @@
       "duration_ms": 187800,
       "name": "Mujeres Ya!",
       "url": "https://open.spotify.com/track/3Z7yT1rLxDZmGRy0k6WJT7"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Nos Queremos Vivas",
+        "url": "https://open.spotify.com/album/5Dqwsm0uvmt6TvPHScZ35W"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Lane",
+          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
+        }
+      ],
+      "duration_ms": 220576,
+      "name": "Nos Queremos Vivas",
+      "url": "https://open.spotify.com/track/4UYBH2rHhTDa655jgcfZUt"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Amiga",
+        "url": "https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x"
+      },
+      "artists": [
+        {
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+        }
+      ],
+      "duration_ms": 157389,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Ni Una Mas",
+        "url": "https://open.spotify.com/album/12pHDcyqzSNsZgQJDRiZ3W"
+      },
+      "artists": [
+        {
+          "name": "Ivonne Galaz",
+          "url": "https://open.spotify.com/artist/3YXGxdYldEXVVlCdCkFD5G"
+        }
+      ],
+      "duration_ms": 161500,
+      "name": "Ni Una Mas",
+      "url": "https://open.spotify.com/track/6kY8v7VDzPWIy1alEDQGM8"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "La Manada",
         "url": "https://open.spotify.com/album/39eY6IRUOQufdaCqAzOejK"
       },
@@ -1239,26 +1255,6 @@
       "duration_ms": 164507,
       "name": "La Manada",
       "url": "https://open.spotify.com/track/42xqEQYMvIfW4DBHFWGGve"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "SUELTA",
-        "url": "https://open.spotify.com/album/4gya2mygWkDnmtzHDaWKlP"
-      },
-      "artists": [
-        {
-          "name": "La Yegros",
-          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
-        },
-        {
-          "name": "Soom T",
-          "url": "https://open.spotify.com/artist/0Rb6PZXrcxvzixAwZwFmMu"
-        }
-      ],
-      "duration_ms": 223176,
-      "name": "Tenemos Voz",
-      "url": "https://open.spotify.com/track/6f8kxxFWgxesyVsrbHn0Sh"
     }
   ],
   "unique_name": "Himnos de Sororidad",

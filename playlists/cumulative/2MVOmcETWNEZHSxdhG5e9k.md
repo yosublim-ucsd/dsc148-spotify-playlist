@@ -4,7 +4,7 @@
 
 > Melodic Progressive, Progressive House and Vocal Trance\. Selections from Chris Lyons DJ&\#x27;s &quot;Riding The Soundwave&quot; webradio show.
 
-69 songs - 8 hr 1 min
+71 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,8 @@
 | [Lazy Sundays \- Original Mix](https://open.spotify.com/track/50iORwr4EAxDZvq7syHVYI) | [Jorn](https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2), [VITO \(ES\)](https://open.spotify.com/artist/7E1pBq3xzrjj2fd8VAFpPj), [Jorn Van Deynhoven](https://open.spotify.com/artist/6NuXlqTU1RF0aIoyD46z5v), [Vitodito](https://open.spotify.com/artist/16mF4YXC1sZZWNjZoJoxd2) | [Lazy Sundays](https://open.spotify.com/album/3I1gEYq9EqZzMOQ4ApVofD) | 6:43 | 2021-03-23 |  |
 | [Let There Be Dark: Chase \- Radio Edit](https://open.spotify.com/track/2isvgH0UTSgt05KDEYznJn) | [Numatra](https://open.spotify.com/artist/0BxefgliewSrvWmU3mPygK) | [Let There Be Dark: Chase \(Radio Edit\)](https://open.spotify.com/album/0q5gePrhK7dQdGtD9hQPrG) | 3:31 | 2022-09-01 |  |
 | [Lift \- Original Mix](https://open.spotify.com/track/5FbKOoXe30eYvPGDsdNeMD) | [Blood Groove & Kikis](https://open.spotify.com/artist/7KIJwcYLtYSSNmP8KzmA9V) | [Lift](https://open.spotify.com/album/2mNqECUaD239IK4TglrDwn) | 6:48 | 2021-03-23 |  |
+| [Lonely Shore](https://open.spotify.com/track/033TGcyIjbXIMF6ZgHrYq3) | [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0), [Arielle Maren](https://open.spotify.com/artist/7MbnTNfDyXb2vTM1GYXsLV), [RNX](https://open.spotify.com/artist/6MvuP20356EIRrCDMI92jc) | [Lonely Shore \(Incl\. Blood Groove & Kikis Remix\)](https://open.spotify.com/album/2NAMJBTzrWINdSVj8oibsr) | 4:00 | 2023-12-22 |  |
+| [Malaga \- Original Mix](https://open.spotify.com/track/0o3xdNut7NLMwHibznJQdF) | [Talamanca](https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk), [Vitodito](https://open.spotify.com/artist/16mF4YXC1sZZWNjZoJoxd2) | [Encanta's Winter Picks \- 2015](https://open.spotify.com/album/5bOV5hnnvNNKDugKf0wHOS) | 7:20 | 2023-12-22 |  |
 | [Medusa](https://open.spotify.com/track/4VsjU6X1ktjYK8YbsVVDQ5) | [Talamanca](https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk) | [The Return / Medusa](https://open.spotify.com/album/6y2bLVV4zYGe71QKCDwfEb) | 7:33 | 2021-03-23 |  |
 | [Miss You](https://open.spotify.com/track/4VKPCBlM2Rhdh5LKf40BSi) | [LTN](https://open.spotify.com/artist/2IK99qf3aYxFWkgCkc7kQ3), [Ad Brown](https://open.spotify.com/artist/3hVgQJzPG2c6oaKHC7lg4L), [Cat Martin](https://open.spotify.com/artist/0F9B7n7fvl6Ko2a44pj2wp) | [Progressive House United, Vol\. 01](https://open.spotify.com/album/4nn3oS5ktYuFxY1qmaTg21) | 6:21 | 2021-03-23 |  |
 | [Moonshiner](https://open.spotify.com/track/1o6XrbNz7vLsKSsyHZchWQ) | [Ron with Leeds](https://open.spotify.com/artist/79sK3EbSBZHo7lAtlD2xJO) | [Elliptical Sun Music 02](https://open.spotify.com/album/7JpxDYwezDOys1Y9dQdG48) | 5:50 | 2021-03-23 |  |

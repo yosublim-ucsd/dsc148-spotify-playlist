@@ -4,7 +4,7 @@
 
 > The perfect soundtrack for when you're having fun in the sun.
 
-71 songs - 3 hr 24 min
+72 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Riding the Waves](https://open.spotify.com/track/5hXDPy8wqd1O9ypkCTjtqa) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Imagination Movers: In a Big Warehouse](https://open.spotify.com/album/2MmbI5cNJ2twmLFWBTUcNq) | 2:14 | 2021-05-25 |  |
 | [Rock Lobster \(Single Version\)](https://open.spotify.com/track/3kSGrLqC4rHroqYaYt1wjH) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Rock Lobster: 1979 Rock](https://open.spotify.com/album/2go7n6CHACI1b8WW6zHUpG) | 4:56 | 2021-05-25 |  |
 | [Rockaway Beach \- 2017 Remaster](https://open.spotify.com/track/2HZGsnMByx3V8KmNW6LqWF) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rocket to Russia \(40th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7Jb0VtDTacuQdXM3pYyrbv) | 2:06 | 2021-05-25 |  |
-| [Sand + Imagination](https://open.spotify.com/track/7yfsc3m2EL2ZUPENKX1EE0) | [Tim Kubart](https://open.spotify.com/artist/1mmtvYjQNZ4rNL20mT1wDp) | [Building Blocks](https://open.spotify.com/album/7dQLT9UwXHYXUCAycMzNxz) | 2:53 | 2021-05-25 |  |
+| [Sand + Imagination](https://open.spotify.com/track/4PYGLTb9OJOfWUmini8cw2) | [Tim Kubart](https://open.spotify.com/artist/1mmtvYjQNZ4rNL20mT1wDp) | [Building Blocks](https://open.spotify.com/album/33jHk8rzSY28IkVSXBTeou) | 2:53 | 2021-05-25 |  |
+| [Sand + Imagination](https://open.spotify.com/track/7yfsc3m2EL2ZUPENKX1EE0) | [Tim Kubart](https://open.spotify.com/artist/1mmtvYjQNZ4rNL20mT1wDp) | [Building Blocks](https://open.spotify.com/album/7dQLT9UwXHYXUCAycMzNxz) | 2:53 | 2021-05-25 | 2023-12-23 |
 | [Seagull](https://open.spotify.com/track/33tOziCAipYKTpARr3imte) | [Recess Monkey](https://open.spotify.com/artist/0oXrvAp6NnKeWz1qnKrNLb) | [Deep Sea Diver](https://open.spotify.com/album/36XrVhfFQBakUcrnWOsuo8) | 2:23 | 2021-05-25 |  |
 | [Shiny Happy People](https://open.spotify.com/track/4er8NyQ8cFnZ2b643Tjc44) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(U.S\. Version\)](https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD) | 3:44 | 2021-05-25 | 2022-07-29 |
 | [Shiny Happy People](https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 3:45 | 2021-05-25 |  |

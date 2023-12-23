@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM?si=YWI3GWJkSYy2VxygARVybQ"> Y'akoto </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,513 likes - 90 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,522 likes - 90 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 53 | [On My Mind](https://open.spotify.com/track/4IUEfYHNWs23hAXNyuKrbn) | [Senth](https://open.spotify.com/artist/0ZMEdbOY3ADh3qbia7kH2b) | [On My Mind](https://open.spotify.com/album/2yiVtp886meP23jEsQlIxn) | 2:17 |
 | 54 | [OVER U](https://open.spotify.com/track/3NuOLmaGz1MPCFFmX6zdef) | [OOSHA](https://open.spotify.com/artist/6OhHuHGJe5YfFNsaoIAWZm) | [OVER U](https://open.spotify.com/album/0MiAhc6LyVv2S85AMHlYPm) | 2:36 |
 | 55 | [Do \(The Kids Are Watching\)](https://open.spotify.com/track/72HKJ3tTJWao1YZIHUgjSg) | [Ahki](https://open.spotify.com/artist/5875m9R9PmEl5MLJv8Bm56) | [Do \(The Kids Are Watching\)](https://open.spotify.com/album/1YkjuD2cuICcJvMb9EMRVS) | 2:28 |
-| 56 | [Think O](https://open.spotify.com/track/2sJRbtfngu3ATkXmamiSXe) | [Marvel](https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL) | [Think O](https://open.spotify.com/album/20RPHmL5EbMAeBVOH5OdZz) | 3:25 |
+| 56 | [Think O](https://open.spotify.com/track/5rKrdRnTc2lYasExecRwE3) | [Marvel](https://open.spotify.com/artist/4XFX57d2XQp1omSDgl6biL) | [Think O](https://open.spotify.com/album/31MnDoAsVktkeE2sF4TwX2) | 3:25 |
 | 57 | [Osondi Owendi](https://open.spotify.com/track/0vG1ADDsKH633S42iVG6MW) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [Osondi Owendi](https://open.spotify.com/album/72Ej57wkEwKeVt8oIBVW81) | 3:37 |
 | 58 | [Fujipiano](https://open.spotify.com/track/6NF4cMRW9alAr2K7TXB7yY) | [Dajon AF](https://open.spotify.com/artist/4yN3RB5NqyHi9cSyllXgeS), [Slimpee Beatz](https://open.spotify.com/artist/5d5gcjlWRQyhVXNqGw2JOF) | [Fujipiano](https://open.spotify.com/album/61WYeMLodYapBUO6DuOISL) | 3:43 |
 | 59 | [NEW SEASON](https://open.spotify.com/track/01eJkNdcQfxmWBeeTXaLXJ) | [psiv](https://open.spotify.com/artist/2BP1UlQl2ket7YSsA8ocls), [K0NYE](https://open.spotify.com/artist/0hyEwDiCc3bp1NVMGi8PMZ), [C3VN](https://open.spotify.com/artist/5M78DPxvvpqMbkMZ3WAPhh) | [NEW SEASON](https://open.spotify.com/album/0DhwBUGi5SnQ0Mldt9BYAk) | 1:41 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 89 | [Unforgettable](https://open.spotify.com/track/62pnmQnkWCNVQusRO0sIPM) | [J.E.N.N.Y](https://open.spotify.com/artist/4CXFDVOCfxAsJJwvxUR4Vc) | [Unforgettable](https://open.spotify.com/album/5D0Uo5APiROUL9ukcALFXC) | 2:43 |
 | 90 | [Sweet Life](https://open.spotify.com/track/1x4VCK4tmq3PfXiyZgCmoq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD) | [Sweet Life](https://open.spotify.com/album/47YPQVCAy9zbeRtLasf9EO) | 3:06 |
 
-Snapshot ID: `MCw4NzEzN2MyYmFiODI1MGFmOTIyOGUwZDcyYTJlMzllZGFlMzg0MTRj`
+Snapshot ID: `MCwwZDc5YzY3MDI5YTBhMmI1NThiOTY0MGE3MzRmODIxMWEyOWNlNWM2`

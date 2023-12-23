@@ -732,6 +732,24 @@
     {
       "album": {
         "name": "We The Best",
+        "url": "https://open.spotify.com/album/3fuoUsluBXjdFjpt7sBKwf"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263280,
+      "name": "We Takin' Over",
+      "url": "https://open.spotify.com/track/4cZHdXh4bvtDripgwzwO81"
+    },
+    {
+      "album": {
+        "name": "We The Best",
         "url": "https://open.spotify.com/album/0io330i8NP1Y1itTrFhSJX"
       },
       "artists": [
@@ -766,7 +784,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 263253,
       "name": "We Takin' Over",
       "url": "https://open.spotify.com/track/6HkfO3HyRSUjcGocgtg6bl"

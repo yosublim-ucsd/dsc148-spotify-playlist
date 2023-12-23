@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 301226,
       "name": "A Heart That Forgives",
       "url": "https://open.spotify.com/track/7D0M9iVc5ayttzlJ4CODDj"
@@ -2058,7 +2058,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 226026,
       "name": "Changes",
       "url": "https://open.spotify.com/track/74jixRCwPG719JC2UdN0LP"
@@ -2814,7 +2814,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 273426,
       "name": "Early",
       "url": "https://open.spotify.com/track/23zb3xPx7tgqFKdBBD0zRK"
@@ -4760,7 +4760,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 310892,
       "name": "Great Big God",
       "url": "https://open.spotify.com/track/3alO2TJ8IFoLbc79G3wpMV"
@@ -4894,7 +4894,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 364066,
       "name": "Hallelujah, Salvation and Glory",
       "url": "https://open.spotify.com/track/3wtEG3QWtLk7nO8WjSrokl"
@@ -5054,7 +5054,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 250226,
       "name": "He Keeps On Doing Great Things For Me",
       "url": "https://open.spotify.com/track/3BF7d8yZvSujStXZUB0upM"
@@ -5112,7 +5112,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 190106,
       "name": "He Wants It All - Acoustic Version",
       "url": "https://open.spotify.com/track/5bX3vgQue9xORVIJI8eEM7"
@@ -5410,6 +5410,24 @@
       "duration_ms": 245695,
       "name": "Here Am I",
       "url": "https://open.spotify.com/track/7ysnsKayKy1tuWpSk3hJ22"
+    },
+    {
+      "album": {
+        "name": "Let's Come Together (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3UQCOKIT56ZtC6psjOkM4C"
+      },
+      "artists": [
+        {
+          "name": "Kevin LeVar & One Sound",
+          "url": "https://open.spotify.com/artist/3HOKc357yCWVEJddlHLGbI"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291346,
+      "name": "Here I Am",
+      "url": "https://open.spotify.com/track/3mhZUguOEyOsQBYWx0JDt0"
     },
     {
       "album": {
@@ -9006,7 +9024,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 124140,
       "name": "Keep Trying",
       "url": "https://open.spotify.com/track/2dMVqyzk3Zk5TUN3F9KZC8"
@@ -10263,6 +10281,24 @@
     },
     {
       "album": {
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/022DGCu0RrAC1d32wNzU5S"
+      },
+      "artists": [
+        {
+          "name": "Candi Staton",
+          "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188107,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/7CnSGIG31JaaEHpPhSIFfr"
+    },
+    {
+      "album": {
         "name": "Once on This Island (New Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/6gSo70KxG1aQRLRYvptsEi"
       },
@@ -10296,7 +10332,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-16",
+      "date_removed": null,
       "duration_ms": 456600,
       "name": "Marvelous",
       "url": "https://open.spotify.com/track/7fXBwwL8kzFfyIxSt05DAl"
@@ -10510,7 +10546,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 156026,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1vqzSOlthX17HAs2A8kSEP"
@@ -11564,7 +11600,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 164518,
       "name": "Not the End of Your Story - Sunday Best Performance",
       "url": "https://open.spotify.com/track/5TsmXExCCgFL1QBp2z6r89"
@@ -12090,7 +12126,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 323200,
       "name": "Only God Can Do It",
       "url": "https://open.spotify.com/track/4DgYXg6xO0yekLn6BzWHpA"
@@ -12640,7 +12676,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 180146,
       "name": "Praise Break (Gimme Some Room So I Can Thank Him)",
       "url": "https://open.spotify.com/track/3AW1C3KLXGOtPc1o8ShCuZ"
@@ -14508,7 +14544,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-04",
+      "date_removed": null,
       "duration_ms": 253625,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/35A5y8tHvRrLOleQDsNu76"
@@ -14772,7 +14808,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 331466,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/3N7ly2lprSgO2zncMx3IYP"
@@ -14808,7 +14844,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 288613,
       "name": "Thank You For Loving Me",
       "url": "https://open.spotify.com/track/16uyzduSR9vYd1kpn3bXoX"
@@ -14884,7 +14920,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 225266,
       "name": "That's What You Are To Me",
       "url": "https://open.spotify.com/track/2XtWP8HfsfcbcmfbNHqAqU"
@@ -15026,6 +15062,28 @@
     {
       "album": {
         "name": "Take the Message Everywhere",
+        "url": "https://open.spotify.com/album/08bmrZxBrl5WCfREUKBSHk"
+      },
+      "artists": [
+        {
+          "name": "Andrae Crouch",
+          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
+        },
+        {
+          "name": "Disciples",
+          "url": "https://open.spotify.com/artist/4ZCnOYklELEjDUrbP4e5dv"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157613,
+      "name": "The Blood Will Never Lose It's Power",
+      "url": "https://open.spotify.com/track/0UT4CasW7c7QxpA1yaBslz"
+    },
+    {
+      "album": {
+        "name": "Take the Message Everywhere",
         "url": "https://open.spotify.com/album/5kuJkXmKplLM660RQceKMy"
       },
       "artists": [
@@ -15040,7 +15098,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 157613,
       "name": "The Blood Will Never Lose It's Power",
       "url": "https://open.spotify.com/track/4b4ya6X5GAxebrGkrLvQEu"
@@ -15116,7 +15174,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 324846,
       "name": "The Corinthian Song",
       "url": "https://open.spotify.com/track/7AUJstddkR4IDwfqmOAbrW"
@@ -15160,7 +15218,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-16",
+      "date_removed": null,
       "duration_ms": 374092,
       "name": "THE GLORY ft. New Breed",
       "url": "https://open.spotify.com/track/32PAhZGQ3BkfkaR2mJczFm"
@@ -16740,7 +16798,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 342726,
       "name": "What He's Done for Me",
       "url": "https://open.spotify.com/track/1sVYY8VLcmJp3zUznMPaDl"
@@ -17448,7 +17506,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 320026,
       "name": "You Are Holy",
       "url": "https://open.spotify.com/track/3dVS03uoBbVafNniAXD3uq"
@@ -17510,6 +17568,24 @@
       "duration_ms": 170247,
       "name": "You Don't Own Me - The Voice Performance",
       "url": "https://open.spotify.com/track/1k6lcUlAeKAf9ehrMp8Uj6"
+    },
+    {
+      "album": {
+        "name": "Look at Me Now",
+        "url": "https://open.spotify.com/album/4Q1NACBxswZTLij2bslFUt"
+      },
+      "artists": [
+        {
+          "name": "Wess Morgan",
+          "url": "https://open.spotify.com/artist/2tOh1sq0XXPvnLVrapKp1N"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204960,
+      "name": "You Gave Me Hope",
+      "url": "https://open.spotify.com/track/4EqNAhbSJoanTrdX2GJE2C"
     },
     {
       "album": {

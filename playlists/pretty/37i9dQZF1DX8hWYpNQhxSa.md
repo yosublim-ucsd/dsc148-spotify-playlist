@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hWYpNQhxSa.md) - [plain]
 
 > Enjoy music & episodes of "SPY×FAMILY"! /「SPY×FAMILY」の楽曲とエピソードを１つのプレイリストに。©2023「劇場版 SPY×FAMILY」製作委員会　©遠藤達哉／集英社
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,687 likes - 66 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,346 likes - 66 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hWYpNQhxSa.md) - [plain]
 | 9 | [Mixed Nuts](https://open.spotify.com/track/3RFL9hE5cBocBsjD5XLJLQ) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Mixed Nuts](https://open.spotify.com/album/2PN9UPqCKmZgXNtZPJtsc4) | 3:33 |
 | 10 | [CODE: White](https://open.spotify.com/track/00GJmYsKFm2DL8UpEuRqCA) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY CODE: White \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6sApHKoZZ6mQfA9Nef2xfg) | 3:38 |
 | 11 | [STRIX](https://open.spotify.com/track/4G0wGof3uWHhX0s6kcqRiz) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY Soundtrack Vol\. 1 \(Music from the Original TV Series\)](https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r) | 2:24 |
-| 12 | [Until the End \(Animation『SPY×FAMILY』Season 2 Insert Song\)](https://open.spotify.com/track/71kA6J6oOgpv4cGswDPqGu) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A), [\(K\)NoW\_NAME:Ayaka Tachibana](https://open.spotify.com/artist/5vuVwUJtfN6bELEOhpb0a9) | [Until the End \(Animation『SPY×FAMILY』Season 2 Insert Song\)](https://open.spotify.com/album/5Fn3ukbNzl5b7ntiMKnRp3) | 2:53 |
+| 12 | [Until the End](https://open.spotify.com/track/2zgOXu13AuQKKfZl3mBTRo) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A), [\(K\)NoW\_NAME:Ayaka Tachibana](https://open.spotify.com/artist/5vuVwUJtfN6bELEOhpb0a9) | [Animation『SPY×FAMILY』Season 2 Original Soundtrack](https://open.spotify.com/album/1kVExq9AHM8ucLbd2woEdp) | 2:53 |
 | 13 | [Little steps \(Animation 『SPY×FAMILY』 Season 2 Insert Song\)](https://open.spotify.com/track/0A80wKj5AHoEWl478awt4B) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [Little steps \(Animation 『SPY×FAMILY』 Season 2 Insert Song\)](https://open.spotify.com/album/1Xs0trImpgjtvJDgtIi5sL) | 4:27 |
 | 14 | [Garden \(Animation『SPY×FAMILY』Season 2 Insert Song\)](https://open.spotify.com/track/4V6fcozb4qSZBsQto6nQ7g) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A), [\(K\)NoW\_NAME:NIKIIE](https://open.spotify.com/artist/3EP7ddYLORL4iAKy1gaTk8) | [Garden \(Animation『SPY×FAMILY』Season 2 Insert Song\)](https://open.spotify.com/album/0qUqGs6PP9wiM0ImrMoYV4) | 1:59 |
 | 15 | [uneven fruit](https://open.spotify.com/track/5ZpSrTuhtfkMWTcA5wYSqn) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A), [\(K\)NoW\_NAME:NIKIIE](https://open.spotify.com/artist/3EP7ddYLORL4iAKy1gaTk8) | [Animation『SPY×FAMILY』Season 2 Original Soundtrack](https://open.spotify.com/album/1kVExq9AHM8ucLbd2woEdp) | 4:05 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hWYpNQhxSa.md) - [plain]
 | 65 | [Find the ingredients!](https://open.spotify.com/track/6E8fLOminxclTsJ3LYPCfm) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY CODE: White \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6sApHKoZZ6mQfA9Nef2xfg) | 2:11 |
 | 66 | [Snow Smoke](https://open.spotify.com/track/1vO7qAzy2xMAqDXYa7KcgT) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY CODE: White \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6sApHKoZZ6mQfA9Nef2xfg) | 2:03 |
 
-Snapshot ID: `MCxkZGU3YjdhZmRhZGNkZDc0NDgzMTRhZmU0YTkzY2FjOWJlM2U3ZGFk`
+Snapshot ID: `MCwxNDUxYTU4YWFjOTQ3NzU1ZDYwZDlmNDVlYWM3MWVmMmRkNjhlYTkz`

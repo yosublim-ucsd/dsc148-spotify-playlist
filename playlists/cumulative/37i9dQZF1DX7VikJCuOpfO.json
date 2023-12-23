@@ -3901,6 +3901,24 @@
     },
     {
       "album": {
+        "name": "Y Lo Volv\u00ed a Hacer",
+        "url": "https://open.spotify.com/album/1mTNZKeVd4sbVAh6VhV2YB"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179108,
+      "name": "No Lo Pod\u00eda Hacer Mejor",
+      "url": "https://open.spotify.com/track/2aJTy5XK52GzfOMQVTddni"
+    },
+    {
+      "album": {
         "name": "No Me Conoces A\u00fan",
         "url": "https://open.spotify.com/album/0KlhHk0rSaA0ncTJA1DqwO"
       },
@@ -6908,7 +6926,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 174033,
       "name": "Ya No Vuelvas",
       "url": "https://open.spotify.com/track/5lqrDIEQy8YORSY8MoW37I"

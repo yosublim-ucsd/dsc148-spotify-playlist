@@ -4,7 +4,7 @@
 
 > The best metal songs of the 2010s\. Cover: Avenged Sevenfold
 
-377 songs - 1 day 3 hr 40 min
+378 songs - 1 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,8 +119,9 @@
 | [Flatline](https://open.spotify.com/track/3tZ35Ok0JhSVCeYvpAYzNm) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Periphery III: Select Difficulty](https://open.spotify.com/album/1NBUh16Mfz7kNjIJKVO9sC) | 5:50 | 2022-07-13 | 2022-07-28 |
 | [Fleur de lis](https://open.spotify.com/track/4uTEG0XN5AF7aZdSAuVkLX) | [The Raven Age](https://open.spotify.com/artist/1Ia5iTYHMBsMQfi7Fbcbuw) | [Conspiracy](https://open.spotify.com/album/6HhxlpaqZix2VU3G3UscTH) | 4:13 | 2022-01-03 |  |
 | [Follow Me](https://open.spotify.com/track/2eNUL3p4kzslYr1408h6tB) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [I, the Mask](https://open.spotify.com/album/3nE97EZ0zIx760XlDczMo7) | 4:55 | 2022-07-13 | 2022-07-28 |
-| [For The Swarm](https://open.spotify.com/track/0fHRW92VQHzEcvNqqx1tFQ) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Feathers & Flesh](https://open.spotify.com/album/6Phs3MTLtVe5GLwgfaNzYJ) | 1:54 | 2023-03-09 |  |
+| [For The Swarm](https://open.spotify.com/track/0fHRW92VQHzEcvNqqx1tFQ) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Feathers & Flesh](https://open.spotify.com/album/6Phs3MTLtVe5GLwgfaNzYJ) | 1:54 | 2023-03-09 | 2023-12-23 |
 | [For the Swarm](https://open.spotify.com/track/5DYuLpA6SOexZAhpVfqyhy) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Feathers & Flesh \(Bonus Track version\)](https://open.spotify.com/album/3crsSMCzFAPCWoJBtxpxiX) | 1:54 | 2022-07-13 | 2022-07-26 |
+| [For The Swarm](https://open.spotify.com/track/66wMN7fgibuH52driZUhMt) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Feathers & Flesh](https://open.spotify.com/album/63xHWMDwvVPWS3mp8UaBzd) | 1:54 | 2023-03-09 |  |
 | [Forever](https://open.spotify.com/track/1G6czdqgskwJ4cBgx9CDAJ) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Forever](https://open.spotify.com/album/2V7axnEU5HQoN9Tu5JVl4S) | 3:07 | 2023-03-09 |  |
 | [Forgiveness is Weakness](https://open.spotify.com/track/0wgAotx2BRq097ibZcjlji) | [Whitechapel](https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml) | [The Valley](https://open.spotify.com/album/3CuUGJ6cFro2LQIiWlXOue) | 2:55 | 2022-07-13 | 2022-07-29 |
 | [Forward Momentum](https://open.spotify.com/track/6W138hHyE3DpxiZ7120zfS) | [Dark Tranquillity](https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O) | [Atoma](https://open.spotify.com/album/3N5vYy8vIFgpvtrIbFtvvG) | 3:40 | 2022-07-13 | 2022-07-27 |

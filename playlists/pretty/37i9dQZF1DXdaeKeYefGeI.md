@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: André van Duin
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,422 likes - 70 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,431 likes - 70 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 | 31 | [Jouw Ogen](https://open.spotify.com/track/54MtBoHYiT2c3NyJswx2xw) | [Sjors Van Der Panne](https://open.spotify.com/artist/73VtXHJjAxyr9p5NsHxTLO) | [Jouw Ogen](https://open.spotify.com/album/4dkc4FlkKVgUHtnPEc8RMe) | 3:30 |
 | 32 | [Mooier](https://open.spotify.com/track/5N3qByUPLIakUgFiDu7xvV) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [De Getuigen](https://open.spotify.com/artist/6mirF7xKDhc3pyVDxMrerP) | [Uit Het Hoofd](https://open.spotify.com/album/4jAarrA8z2SPxE7D6fX3Py) | 3:28 |
 | 33 | [Papa](https://open.spotify.com/track/6NP6BCW2M2I4vdcnXMAvjl) | [Stef Bos](https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW) | [Is Dit Nu Later](https://open.spotify.com/album/40pPse6bXBsVtjk8JJmovD) | 3:13 |
-| 34 | [Oceaan](https://open.spotify.com/track/4AUASx1KCTQFmpHu7qq6Kr) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [The Singles Collection](https://open.spotify.com/album/2BPly0LvQzfKNfn9v4ShE8) | 2:44 |
+| 34 | [Oceaan](https://open.spotify.com/track/14rrJ4fhTTcFPgmCCtBoku) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Oceaan](https://open.spotify.com/album/60F6MFfL8sCz9R21HCZ6Ac) | 2:42 |
 | 35 | [Verder Zonder Jou](https://open.spotify.com/track/2Qq0UJWcKa90A4Hq112htV) | [De Kast](https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy) | [Verder Zonder Jou](https://open.spotify.com/album/5XguRj0UnO5UfoXNssNxHY) | 3:26 |
 | 36 | [Ik Hou Van Mij](https://open.spotify.com/track/7sXPkx4uP9nGazTEe4VpIe) | [Harrie Jekkers](https://open.spotify.com/artist/4QAsKGyhi6ngDLGntc54ql) | [Mijn Ikken](https://open.spotify.com/album/2QwzUQVn18RHdDDCeqd5jd) | 2:35 |
 | 37 | [Er Wordt Op Je Gewacht](https://open.spotify.com/track/59L9doBK0VFybuPglXAqzo) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Er Wordt Op Je Gewacht](https://open.spotify.com/album/4b9Jjg3fjdBiZ2EMQzJQWp) | 3:35 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaeKeYefGeI.md) - [plain]
 | 69 | [Kronenburg Park](https://open.spotify.com/track/5l0mUA4hwewx7cj8KzBGGE) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Foto Van Een Mooie Dag](https://open.spotify.com/album/69JWMizDVll3nRlU7YIEEF) | 4:03 |
 | 70 | [Mooie Dag](https://open.spotify.com/track/0tWU6puNvcL3xTgWQxZ0DP) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Blauwe Ruis](https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK) | 4:38 |
 
-Snapshot ID: `MCwyYTZkMWU4MjY5YTk2YWNmYzg3ZDRhYTBkNjgxM2UxYWM4ZGQ5MjJm`
+Snapshot ID: `MCw2MGE2MDgyM2I0ZmIwYTk2MzA1NDMwMDgxYmE5ZTczYzk2MDFjNzlh`

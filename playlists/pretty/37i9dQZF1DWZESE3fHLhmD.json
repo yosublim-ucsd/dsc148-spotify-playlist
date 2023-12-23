@@ -1,12 +1,12 @@
 {
   "description": "Bringt auch nach 16 Uhr noch ein bisschen Licht ins Dunkel.",
-  "num_followers": 1288790,
+  "num_followers": 1288915,
   "original_name": "Wintergef\u00fchle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2RkNTA4NDYxNmZkOGUyOWEwMmU2YmIxNTE1Nzg5MDlhZTY2OGI0",
+  "snapshot_id": "MCxlN2E2MWQxYmEyYzI2YjAwYWRmYjA2MTYyZDk1NjY4NDk4ODI4OGI5",
   "tracks": [
     {
       "added_at": "2023-12-19 17:38:44",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-12-19 17:38:44",
       "album": {
+        "name": "Winterherz",
+        "url": "https://open.spotify.com/album/2drpDTlCM3pSjH2PEhXWVD"
+      },
+      "artists": [
+        {
+          "name": "JAS",
+          "url": "https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Winterherz",
+      "url": "https://open.spotify.com/track/2NY6OwXheFjzMvdVmw69mQ"
+    },
+    {
+      "added_at": "2023-12-19 17:38:44",
+      "album": {
         "name": "Gr\u00fcne Augen l\u00fcgen nicht",
         "url": "https://open.spotify.com/album/3abp46f8f2mmo86iem7Hkf"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 169500,
       "name": "Ein Traum",
       "url": "https://open.spotify.com/track/6Rbw34MeB02zIlnEk3ZtIZ"
-    },
-    {
-      "added_at": "2023-12-19 17:38:44",
-      "album": {
-        "name": "Winterherz",
-        "url": "https://open.spotify.com/album/2drpDTlCM3pSjH2PEhXWVD"
-      },
-      "artists": [
-        {
-          "name": "JAS",
-          "url": "https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Winterherz",
-      "url": "https://open.spotify.com/track/2NY6OwXheFjzMvdVmw69mQ"
     },
     {
       "added_at": "2023-12-19 17:38:44",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-12-19 17:38:44",
       "album": {
-        "name": "20s",
-        "url": "https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc"
-      },
-      "artists": [
-        {
-          "name": "Bow Anderson",
-          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
-        }
-      ],
-      "duration_ms": 184457,
-      "name": "20s",
-      "url": "https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7"
-    },
-    {
-      "added_at": "2023-12-19 17:38:44",
-      "album": {
         "name": "Dive",
         "url": "https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 200759,
       "name": "Dive",
       "url": "https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc"
+    },
+    {
+      "added_at": "2023-12-19 17:38:44",
+      "album": {
+        "name": "20s",
+        "url": "https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc"
+      },
+      "artists": [
+        {
+          "name": "Bow Anderson",
+          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
+        }
+      ],
+      "duration_ms": 184457,
+      "name": "20s",
+      "url": "https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7"
     },
     {
       "added_at": "2023-12-19 17:38:44",
@@ -1355,6 +1355,26 @@
     {
       "added_at": "2023-12-19 17:38:44",
       "album": {
+        "name": "More To This Life",
+        "url": "https://open.spotify.com/album/2U7Mio1nITmwgif6Kxrb1I"
+      },
+      "artists": [
+        {
+          "name": "Max Giesinger",
+          "url": "https://open.spotify.com/artist/224CDJhbm230iSo9ZomTWe"
+        },
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        }
+      ],
+      "duration_ms": 200840,
+      "name": "More To This Life",
+      "url": "https://open.spotify.com/track/1Ls1DtT93E9oyEMS3JaDSq"
+    },
+    {
+      "added_at": "2023-12-19 17:38:44",
+      "album": {
         "name": "The Night We Met (feat. Phoebe Bridgers)",
         "url": "https://open.spotify.com/album/3HHHK8lGDgB9wwGXd0za9o"
       },
@@ -1423,26 +1443,6 @@
       "duration_ms": 203247,
       "name": "Falling Asleep At The Wheel",
       "url": "https://open.spotify.com/track/5rqQv5jUcg58xsi1nuZDl9"
-    },
-    {
-      "added_at": "2023-12-19 17:38:44",
-      "album": {
-        "name": "More To This Life",
-        "url": "https://open.spotify.com/album/2U7Mio1nITmwgif6Kxrb1I"
-      },
-      "artists": [
-        {
-          "name": "Max Giesinger",
-          "url": "https://open.spotify.com/artist/224CDJhbm230iSo9ZomTWe"
-        },
-        {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
-        }
-      ],
-      "duration_ms": 200840,
-      "name": "More To This Life",
-      "url": "https://open.spotify.com/track/1Ls1DtT93E9oyEMS3JaDSq"
     },
     {
       "added_at": "2023-12-19 17:38:44",

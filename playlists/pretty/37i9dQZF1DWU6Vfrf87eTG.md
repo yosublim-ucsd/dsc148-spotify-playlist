@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 673,745 likes - 116 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 673,753 likes - 116 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 53 | [Neanderthal](https://open.spotify.com/track/6dLkbgtwhk5vzSLhbRlW8A) | [Kaki King](https://open.spotify.com/artist/1s2pki7lATUaBOL76E3vCV) | [Legs to Make us Longer](https://open.spotify.com/album/2gAagCBpgV4wa8KBMUBYWL) | 4:28 |
 | 54 | [Barragán](https://open.spotify.com/track/2EbnbSeiXnyXfGdf17OoGa) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Barragán](https://open.spotify.com/album/4UhYqrNKcEiRHdVIxI7vso) | 2:13 |
 | 55 | [The Ballad of Barbara Allen](https://open.spotify.com/track/1vMUVPqOZDb0rAy1e9JMnS) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [All Will Prosper](https://open.spotify.com/album/7huOk44bNnAx5VRlNzthz6) | 1:43 |
-| 56 | [Those Days Are Now](https://open.spotify.com/track/4wTb3hb5WrqseQ35KxwIvp) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [To The Sun And All The Cities In Between](https://open.spotify.com/album/578SzhqxPoHnbSLkKvuWaG) | 5:43 |
+| 56 | [Those Days Are Now](https://open.spotify.com/track/5lKVdpvXYLi6RGc9onZHPs) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [To The Sun And All The Cities In Between](https://open.spotify.com/album/46G7s9NfgOpyMUdiz8iZel) | 5:43 |
 | 57 | [Everything](https://open.spotify.com/track/25I5OlzgEUCqg0MWLWCZpv) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [To The Sun And All The Cities In Between](https://open.spotify.com/album/578SzhqxPoHnbSLkKvuWaG) | 5:37 |
 | 58 | [Eventual Surrender](https://open.spotify.com/track/5Zlaa2clhbuXhaZhlUtng9) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Goes West](https://open.spotify.com/album/7vPbJA9o9NKBqjoI7StDmq) | 3:03 |
 | 59 | [Bewley In Grey](https://open.spotify.com/track/6pegizBkef5HtY5EMNn23k) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Fi](https://open.spotify.com/album/6Je7ukOVu596v6B8UyGfF7) | 1:41 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 115 | [\(Interlude\)](https://open.spotify.com/track/6KzRwSrGHZVYn7rfSIAC0g) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [Into The Wide](https://open.spotify.com/album/4hWx4cKcQKjq6uNGRJAnfL) | 1:21 |
 | 116 | [Silence Is Sincerity](https://open.spotify.com/track/73hk94lqe5AE2B4heXzivd) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Heigh Ho](https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6) | 1:12 |
 
-Snapshot ID: `MCw0MmI0MTRmYzcyZmQyN2IwZTQzMGUxM2QxYTJkOTUwZmZmOTIyMjk1`
+Snapshot ID: `MCw4MTk2Y2JkMTg2ZmJlZDZhNzBkZTMzNjg4ZDkzNzQ4ODY1ZDhkNzIw`

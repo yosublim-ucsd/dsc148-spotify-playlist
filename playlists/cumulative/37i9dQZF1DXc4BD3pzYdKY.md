@@ -4,7 +4,7 @@
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="spotify:artist:0GdzQJqgRL5SHp7kXOKba0">Wande</a>
 
-876 songs - 1 day 19 hr 37 min
+877 songs - 1 day 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Ghost](https://open.spotify.com/track/2rFrZFNFg76l1TCHCU0WqQ) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Ghost](https://open.spotify.com/album/244PN0XvpKImjCg50MkQbq) | 2:25 | 2022-10-29 | 2022-12-04 |
 | [Giants](https://open.spotify.com/track/0N8R08onW7h8ghBhns9TqV) | [Roy Tosh](https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye), [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8) | [Giants](https://open.spotify.com/album/0spOTYRQFWRbNwapBauYmg) | 2:43 | 2023-08-25 |  |
 | [GIRLGANG Freestyle](https://open.spotify.com/track/2MV1HLZpmWM6GNGIvX38Ki) | [Relena\-Rochelle](https://open.spotify.com/artist/0YKaXNU9tnAbUcxUyjhHFA), [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Mykiiie](https://open.spotify.com/artist/4JSnrso8KwkOdVhYh7iFTE) | [GIRLGANG Freestyle](https://open.spotify.com/album/47ak5YwAJltPiEntEH2CNt) | 2:46 | 2022-06-25 | 2022-08-09 |
+| [Girls Don't Cry \(Gibberish\)](https://open.spotify.com/track/4slzYQ2rU6lcPqBETDLY9y) | [Uninvtd](https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ), [S A I N T](https://open.spotify.com/artist/2D6H3aOR8udBwn4oaC4LtN) | [Girls Don't Cry \(Gibberish\)](https://open.spotify.com/album/6ZHLFeiaJgY4lRLWGdE1pj) | 2:55 | 2023-12-15 |  |
 | [Give You My Last](https://open.spotify.com/track/7BaTq18k26aXmT0FJMCudt) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Give You My Last](https://open.spotify.com/album/5JrgdyLCtCwoNmVCFkiOZC) | 2:52 | 2022-06-25 | 2022-07-18 |
 | [Glory](https://open.spotify.com/track/3DjPqQPooCrDf7b2TaAfdP) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Glory](https://open.spotify.com/album/0vgyfVzdBJNG67jjjqVENC) | 2:30 | 2022-05-28 | 2023-12-16 |
 | [Glory](https://open.spotify.com/track/1wj7byFCa1wtrOyLJagRoM) | [Konata Small](https://open.spotify.com/artist/46ZKkiF5p7EUjBL0JknTxQ), [Disciple Theory](https://open.spotify.com/artist/7963a7BIGR9VOUXhGQrC2p) | [Built Different](https://open.spotify.com/album/1LgsK7B03yMxBfSfPfXtOy) | 3:42 | 2023-03-25 | 2023-04-11 |
@@ -499,7 +500,7 @@
 | [My Favorite Part](https://open.spotify.com/track/1BEZllp0OjYhTiZvY9NTRY) | [PEABOD](https://open.spotify.com/artist/07pdmGwYuT4ZOVDAxR6njL) | [My Favorite Part](https://open.spotify.com/album/09kaxWDpX4VlpfYSTLsKHc) | 2:27 | 2021-12-11 | 2022-05-29 |
 | [MY GOD](https://open.spotify.com/track/3krb5j9ZsU8DDNKu3FvfKR) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [MY GOD](https://open.spotify.com/album/3MeHz4YLJCt5aNhbAQxK86) | 3:01 | 2021-12-11 | 2022-04-29 |
 | [MY HAPPY](https://open.spotify.com/track/2AUrcjKg71AaqyYwuAbOEd) | [Dee\-1](https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox), [DJ Mal\-Ski](https://open.spotify.com/artist/0k4zCHqnp7ICf5IUBvhViS) | [MY HAPPY](https://open.spotify.com/album/1nlHCQbk0LNmnkg2KLME1A) | 2:56 | 2023-01-27 | 2023-08-26 |
-| [My Joy is My Weapon](https://open.spotify.com/track/5rNv3RUXH4CAznfIrWVB2D) | [Dee\-1](https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox) | [UNO](https://open.spotify.com/album/0uknmdyK8A3w9oxHgw2itB) | 3:02 | 2023-12-15 |  |
+| [My Joy is My Weapon](https://open.spotify.com/track/5rNv3RUXH4CAznfIrWVB2D) | [Dee\-1](https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox) | [UNO](https://open.spotify.com/album/0uknmdyK8A3w9oxHgw2itB) | 3:02 | 2023-12-15 | 2023-12-23 |
 | [My Rocket](https://open.spotify.com/track/3fO5jMxUWWCgMuVUKsN46f) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [My Rocket](https://open.spotify.com/album/7kDXljAKu7DP2VWOltgB5i) | 2:05 | 2023-03-25 |  |
 | [my year](https://open.spotify.com/track/29xxP6mLTIadUao1NHMj9x) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [AOTY](https://open.spotify.com/album/2uooBtdxDqd5dU7QaBTPcm) | 4:00 | 2022-05-28 | 2023-01-28 |
 | [NAH](https://open.spotify.com/track/1ZD1B2PFcK5reDvjQ0Dffu) | [Tre'Gadd](https://open.spotify.com/artist/6NCcfV9K0gZqFBfFLQqWRH), [NXTMIKE](https://open.spotify.com/artist/2yMOYu5UEVMeoZmBczRR5g) | [NAH](https://open.spotify.com/album/7dR0lHi4CFJv1QCDwwv3Lx) | 2:02 | 2022-09-16 | 2022-10-30 |

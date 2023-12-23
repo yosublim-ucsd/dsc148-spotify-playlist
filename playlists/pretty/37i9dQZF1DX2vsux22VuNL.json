@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Thiaguinho, L7NNON",
-  "num_followers": 292216,
+  "num_followers": 292232,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTg1ZWQ4NjI3ZmU3Zjk0NjcyNjI3YmZjZjViNDNiNmIwMDM0ZmNm",
+  "snapshot_id": "MCwyOTU5MGUyNDgxOWYxNTNlOWJjNTc0YmMwZTJiZmFkNWVmOGE5ZDVh",
   "tracks": [
     {
       "added_at": "2023-12-15 11:18:05",
@@ -387,6 +387,30 @@
     {
       "added_at": "2023-12-15 11:18:05",
       "album": {
+        "name": "Minha Arte",
+        "url": "https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Marcelo Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+        }
+      ],
+      "duration_ms": 223912,
+      "name": "Minha Arte",
+      "url": "https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ"
+    },
+    {
+      "added_at": "2023-12-15 11:18:05",
+      "album": {
         "name": "N\u00e3o Demora",
         "url": "https://open.spotify.com/album/6X5oNfMpYC3JEcFprGt0yH"
       },
@@ -411,26 +435,22 @@
     {
       "added_at": "2023-12-15 11:18:05",
       "album": {
-        "name": "Minha Arte",
-        "url": "https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt"
+        "name": "Novo Mil\u00eanio",
+        "url": "https://open.spotify.com/album/41BCGuGIMZZQcA2shyDSSh"
       },
       "artists": [
         {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
         },
         {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Marcelo Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr"
+          "name": "Elan R\u00fabio",
+          "url": "https://open.spotify.com/artist/2tJcPeSQc6AJIdaMf7saZc"
         }
       ],
-      "duration_ms": 223912,
-      "name": "Minha Arte",
-      "url": "https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ"
+      "duration_ms": 176190,
+      "name": "Novo Mil\u00eanio",
+      "url": "https://open.spotify.com/track/6Cym5xlyHMCunqKL3zAyVK"
     },
     {
       "added_at": "2023-12-15 11:18:05",
@@ -515,26 +535,6 @@
       "duration_ms": 185328,
       "name": "Tudo \u00c9 Pra Sempre Agora",
       "url": "https://open.spotify.com/track/3E1D41LubUTY33kldnIKbB"
-    },
-    {
-      "added_at": "2023-12-15 11:18:05",
-      "album": {
-        "name": "Novo Mil\u00eanio",
-        "url": "https://open.spotify.com/album/41BCGuGIMZZQcA2shyDSSh"
-      },
-      "artists": [
-        {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        },
-        {
-          "name": "Elan R\u00fabio",
-          "url": "https://open.spotify.com/artist/2tJcPeSQc6AJIdaMf7saZc"
-        }
-      ],
-      "duration_ms": 176190,
-      "name": "Novo Mil\u00eanio",
-      "url": "https://open.spotify.com/track/6Cym5xlyHMCunqKL3zAyVK"
     },
     {
       "added_at": "2023-12-15 11:18:05",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-12-15 11:18:05",
       "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/1J4tkcMXQloJN4oWGH96JY"
+      },
+      "artists": [
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/3gs7uYFl24VspXdi39Yy6l"
+    },
+    {
+      "added_at": "2023-12-15 11:18:05",
+      "album": {
         "name": "V\u00eanus",
         "url": "https://open.spotify.com/album/0V0K2bL6y67Pil8VIY7sNE"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 197083,
       "name": "Efeito Brasa",
       "url": "https://open.spotify.com/track/0NMLNyUSHexdZXeVOBnry0"
-    },
-    {
-      "added_at": "2023-12-15 11:18:05",
-      "album": {
-        "name": "Bandida",
-        "url": "https://open.spotify.com/album/1J4tkcMXQloJN4oWGH96JY"
-      },
-      "artists": [
-        {
-          "name": "Melly",
-          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/3gs7uYFl24VspXdi39Yy6l"
     },
     {
       "added_at": "2023-12-15 11:18:05",
@@ -1127,26 +1127,26 @@
     {
       "added_at": "2023-12-15 11:18:05",
       "album": {
-        "name": "O Agora",
-        "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
+        "name": "Pensando Em N\u00f3s",
+        "url": "https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd"
       },
       "artists": [
         {
-          "name": "Morcego",
-          "url": "https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81"
+          "name": "Nanno",
+          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
         },
         {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+          "name": "CALIFFA",
+          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
         },
         {
-          "name": "Dj Codi",
-          "url": "https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv"
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
         }
       ],
-      "duration_ms": 194730,
-      "name": "O Agora",
-      "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
+      "duration_ms": 192786,
+      "name": "Pensando Em N\u00f3s",
+      "url": "https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR"
     },
     {
       "added_at": "2023-12-15 11:18:05",
@@ -1195,26 +1195,26 @@
     {
       "added_at": "2023-12-15 11:18:05",
       "album": {
-        "name": "Pensando Em N\u00f3s",
-        "url": "https://open.spotify.com/album/4rSPgWnwW140FHy2qR9RSd"
+        "name": "O Agora",
+        "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
       },
       "artists": [
         {
-          "name": "Nanno",
-          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
+          "name": "Morcego",
+          "url": "https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81"
         },
         {
-          "name": "CALIFFA",
-          "url": "https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD"
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         },
         {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+          "name": "Dj Codi",
+          "url": "https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv"
         }
       ],
-      "duration_ms": 192786,
-      "name": "Pensando Em N\u00f3s",
-      "url": "https://open.spotify.com/track/1AjW8I8Em6yW7RHtZPygIR"
+      "duration_ms": 194730,
+      "name": "O Agora",
+      "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
     },
     {
       "added_at": "2023-12-15 11:18:05",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-12-15 11:18:05",
       "album": {
-        "name": "T\u00e1 Fod*",
-        "url": "https://open.spotify.com/album/6lProWEld2RgXzXN30KI1N"
-      },
-      "artists": [
-        {
-          "name": "Afrocidade",
-          "url": "https://open.spotify.com/artist/1kbDI5eg73ftGzwOf4OKZL"
-        }
-      ],
-      "duration_ms": 181647,
-      "name": "T\u00e1 Fod*",
-      "url": "https://open.spotify.com/track/3soB2fp5V9KVxQM6BZ6JIg"
-    },
-    {
-      "added_at": "2023-12-15 11:18:05",
-      "album": {
         "name": "CULPADO",
         "url": "https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 182933,
       "name": "CULPADO",
       "url": "https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN"
+    },
+    {
+      "added_at": "2023-12-15 11:18:05",
+      "album": {
+        "name": "T\u00e1 Fod*",
+        "url": "https://open.spotify.com/album/6lProWEld2RgXzXN30KI1N"
+      },
+      "artists": [
+        {
+          "name": "Afrocidade",
+          "url": "https://open.spotify.com/artist/1kbDI5eg73ftGzwOf4OKZL"
+        }
+      ],
+      "duration_ms": 181647,
+      "name": "T\u00e1 Fod*",
+      "url": "https://open.spotify.com/track/3soB2fp5V9KVxQM6BZ6JIg"
     },
     {
       "added_at": "2023-12-15 11:18:05",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2023-12-15 11:18:05",
       "album": {
-        "name": "N\u00f3s Dois",
-        "url": "https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY"
-      },
-      "artists": [
-        {
-          "name": "NALAH",
-          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
-        }
-      ],
-      "duration_ms": 147040,
-      "name": "N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
-    },
-    {
-      "added_at": "2023-12-15 11:18:05",
-      "album": {
         "name": "Sentir Saudade",
         "url": "https://open.spotify.com/album/3YVXCU8NEDI9GQtk2Eg6NO"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 206451,
       "name": "Sentir Saudade",
       "url": "https://open.spotify.com/track/4LuSl1ajXHPZB1gGWQ069n"
+    },
+    {
+      "added_at": "2023-12-15 11:18:05",
+      "album": {
+        "name": "N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY"
+      },
+      "artists": [
+        {
+          "name": "NALAH",
+          "url": "https://open.spotify.com/artist/6ETEPWJAjX1ZwlvkcRX5t8"
+        }
+      ],
+      "duration_ms": 147040,
+      "name": "N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
     },
     {
       "added_at": "2023-12-15 11:18:05",
@@ -1747,26 +1747,6 @@
     {
       "added_at": "2023-12-15 11:18:05",
       "album": {
-        "name": "O Que Voc\u00ea Quiser",
-        "url": "https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk"
-      },
-      "artists": [
-        {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        },
-        {
-          "name": "Liu Beatz",
-          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "O Que Voc\u00ea Quiser",
-      "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
-    },
-    {
-      "added_at": "2023-12-15 11:18:05",
-      "album": {
         "name": "Essa Daqui Voc\u00ea Sabe Que \u00c9 pra Voc\u00ea",
         "url": "https://open.spotify.com/album/5HbjLnESfjN6sui1F6E7rO"
       },
@@ -1787,6 +1767,26 @@
       "duration_ms": 193728,
       "name": "Essa Daqui Voc\u00ea Sabe Que \u00c9 pra Voc\u00ea",
       "url": "https://open.spotify.com/track/0mORJWR6L3RSefYVBke8Zs"
+    },
+    {
+      "added_at": "2023-12-15 11:18:05",
+      "album": {
+        "name": "O Que Voc\u00ea Quiser",
+        "url": "https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk"
+      },
+      "artists": [
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "O Que Voc\u00ea Quiser",
+      "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
     },
     {
       "added_at": "2023-12-15 11:18:05",

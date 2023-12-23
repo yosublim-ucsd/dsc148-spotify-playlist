@@ -6987,6 +6987,24 @@
     },
     {
       "album": {
+        "name": "Sweet Coast",
+        "url": "https://open.spotify.com/album/6X9fEBlxhE5PWZfrTx4jX6"
+      },
+      "artists": [
+        {
+          "name": "Ann Annie",
+          "url": "https://open.spotify.com/artist/48BPwCMBASOwyaLkrgkBSG"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153041,
+      "name": "Sweet Coast",
+      "url": "https://open.spotify.com/track/1ptDyLtS6vdBzy3yLhqGzI"
+    },
+    {
+      "album": {
         "name": "S\u00f8ndag",
         "url": "https://open.spotify.com/album/4hCn9xh31Xa4uNYtKpU1zP"
       },
@@ -7788,7 +7806,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 173373,
       "name": "Tranquillant",
       "url": "https://open.spotify.com/track/7lvEhtMzOBgfVBu4oF7cse"

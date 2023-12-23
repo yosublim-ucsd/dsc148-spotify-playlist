@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Today's Hip-Hop with Bas, Nicki Minaj and J. Cole!",
+  "description": "Today's Hip-Hop with Central Cee, Nicki Minaj and Drake!",
   "name": "Hip-Hop Central",
   "tracks": [
     {
@@ -1640,7 +1640,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 141466,
       "name": "Beama (feat. Lola Brooke)",
       "url": "https://open.spotify.com/track/3Q3zd5UhDRBCPW7pPF9QMw"
@@ -5073,6 +5073,24 @@
     },
     {
       "album": {
+        "name": "Entrapreneur",
+        "url": "https://open.spotify.com/album/6VrYcDdRM3W0eqHbaTKcWh"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144253,
+      "name": "Entrapreneur",
+      "url": "https://open.spotify.com/track/72v1J97VEDEoAq66SQW0yh"
+    },
+    {
+      "album": {
         "name": "ESCAPE PLAN / MAFIA",
         "url": "https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve"
       },
@@ -6740,6 +6758,28 @@
       "duration_ms": 211306,
       "name": "Getcho Mans",
       "url": "https://open.spotify.com/track/10b0n4KwuRyNteJ9WNjrdj"
+    },
+    {
+      "album": {
+        "name": "Ghetto & Ratchet (Remy Ma Remix)",
+        "url": "https://open.spotify.com/album/2NsgClxFL7DP93rhyZkgp3"
+      },
+      "artists": [
+        {
+          "name": "Connie Diiamond",
+          "url": "https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK"
+        },
+        {
+          "name": "Remy Ma",
+          "url": "https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Ghetto & Ratchet - Remy Ma Remix",
+      "url": "https://open.spotify.com/track/2Dw5BoAmPzp23Yy8mLmuYh"
     },
     {
       "album": {
@@ -10636,7 +10676,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 170800,
       "name": "Max Julien",
       "url": "https://open.spotify.com/track/6qYCswyML9pHuvYDBdZJYd"
@@ -13868,6 +13908,28 @@
       "duration_ms": 116906,
       "name": "Put The Minks Down (feat. 42 Dugg)",
       "url": "https://open.spotify.com/track/6hFAavE0EiilAXtubEpEW0"
+    },
+    {
+      "album": {
+        "name": "QUI ?",
+        "url": "https://open.spotify.com/album/21shtpfyWLPviW9L5huGQ9"
+      },
+      "artists": [
+        {
+          "name": "La F\u00e8ve",
+          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
+        },
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192023,
+      "name": "QUI ?",
+      "url": "https://open.spotify.com/track/1esBqSSIPYQfmyO7CSl9XP"
     },
     {
       "album": {

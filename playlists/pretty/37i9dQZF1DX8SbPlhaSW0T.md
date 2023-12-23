@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SbPlhaSW0T.md) - [plain]
 
 > Los mejores del Trap de todos los tiempos! 🐐 Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,012 likes - 34 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,027 likes - 34 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SbPlhaSW0T.md) - [plain]
 | 33 | [Tu Me Enamoraste \- Remix](https://open.spotify.com/track/7b6QP0Pz2sqyW7yyXodpm6) | [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78), [Anuel](https://open.spotify.com/artist/6CIUdwl1brQZzk33fgmE1g), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Tu Me Enamoraste \(Remix\)](https://open.spotify.com/album/4uA0PdlRCnd0zpodu1K5qM) | 5:41 |
 | 34 | [Soldado Y Profeta \(feat\. Ozuna, Almighty, Kendo & Ñengo Flow\)](https://open.spotify.com/track/6OIePp3zOPV4OubtVTyJJ8) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Soldado Y Profeta \(Remix\) \[feat\. Ozuna, Almighty, Kendo & Ñengo Flow\]](https://open.spotify.com/album/1vvOGbKeidxIS74bWGE0gz) | 8:32 |
 
-Snapshot ID: `MCxjODEwY2IyOWMyNzRjZWY4MDEwYzIzNTNmMjY5YTZmZDMzOTc1MmUw`
+Snapshot ID: `MCxjMWZhMWY5ZTlhNmE5NzliYzQ2YzExZGI4YTYxZGNkYzc5ZmYzZjk3`

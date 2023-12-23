@@ -4,7 +4,7 @@
 
 > Lovely, acoustic pop\. Cover: Alex Warren
 
-226 songs - 12 hr 32 min
+227 songs - 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Giants \- Guitar](https://open.spotify.com/track/73bMIXlioc1cKjgMdEiKps) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Giants \(Guitar\)](https://open.spotify.com/album/0MSjhom26Fks1kedwf6ZaW) | 2:56 | 2022-01-28 | 2022-10-09 |
 | [Girls](https://open.spotify.com/track/7EjL6DoRMa601VXjoyyBSE) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [Girls](https://open.spotify.com/album/7y0Rp3VEX8Ix9g9uZp2LAG) | 2:51 | 2023-06-09 |  |
 | [Glad You Exist \- Acoustic](https://open.spotify.com/track/52RNWUgJBF3LOqt3iw1s77) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Glad You Exist \(Acoustic\)](https://open.spotify.com/album/1FXEP0SJSiEtCFeU1zS56V) | 2:41 | 2022-01-28 |  |
+| [Good To Be \(Acoustic\)](https://open.spotify.com/track/1y7Ymq9FEjAE3IgwdLYpP4) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Good To Be \(Acoustic\)](https://open.spotify.com/album/7dqyCFN7ka6Apau2Wir3RN) | 2:22 | 2023-12-22 |  |
 | [Goodbye \- Acoustic](https://open.spotify.com/track/3Rsm29m9f0zygvNM2JMgn9) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Goodbye \(Acoustic\)](https://open.spotify.com/album/6Y0kqeOoMTTuHZEeCwmDrQ) | 3:37 | 2022-01-28 | 2022-03-18 |
 | [Graveyard \- Acoustic](https://open.spotify.com/track/6iwMgc34qGH8vDBcyQ8nP9) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc) | 3:56 | 2022-01-28 | 2023-09-04 |
 | [Guitar](https://open.spotify.com/track/6XRquB9kB5WK4FHEF26FhY) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Guitar](https://open.spotify.com/album/11ZzI1n9cMMPkb3jA2gMBc) | 3:02 | 2023-07-14 |  |
@@ -117,7 +118,7 @@
 | [Intentions \- Acoustic](https://open.spotify.com/track/6VkmdRz8YgHFQV3ZNTJAWU) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Intentions \(Acoustic\)](https://open.spotify.com/album/5CkGOdgj9Ajwt2yeoAVRhc) | 2:40 | 2022-01-28 |  |
 | [Is It Just Me? \(feat\. JP Cooper\) \(Acoustic\)](https://open.spotify.com/track/2KJdJ2GPBhWBr0vugLCrOz) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Is It Just Me?](https://open.spotify.com/album/58yuPddTFKKIIzn1ZEhMHz) | 3:33 | 2022-01-28 | 2023-05-10 |
 | [IT'S YOU \(feat\. keshi\) \- Stripped Version](https://open.spotify.com/track/5XhyWkCp2jcYo3bJJoYASW) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [IT'S YOU \(feat\. keshi\) \[Stripped Version\]](https://open.spotify.com/album/5jHyTMPIvcjpjqkdqmSEmP) | 2:38 | 2022-10-08 |  |
-| [It’s My Birthday](https://open.spotify.com/track/1qMDY64lQJyic7OtjYDTUs) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [It’s My Birthday](https://open.spotify.com/album/1glQYqG0CJxmYONoz04LVU) | 2:38 | 2023-09-08 |  |
+| [It’s My Birthday](https://open.spotify.com/track/1qMDY64lQJyic7OtjYDTUs) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [It’s My Birthday](https://open.spotify.com/album/1glQYqG0CJxmYONoz04LVU) | 2:38 | 2023-09-08 | 2023-12-23 |
 | [I’m Just Ken \- In My Feelings Acoustic](https://open.spotify.com/track/1LA9VHAT6r0EkMM5lrUgQp) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Ken The EP](https://open.spotify.com/album/7Dw87eUPMkF6tyjH1IYHsn) | 3:59 | 2023-12-20 |  |
 | [Joke's On You \- Acoustic](https://open.spotify.com/track/7sDO194LVW5x4vic4ZAjgy) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Joke's On You \(Acoustic\)](https://open.spotify.com/album/3q6Z33KE8wBWCDvvm2FrYQ) | 3:09 | 2022-01-28 | 2023-04-15 |
 | [July \- Spotify Singles](https://open.spotify.com/track/36uC47GQL8VXghXY6d6afM) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Spotify Singles](https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf) | 2:37 | 2022-01-28 |  |

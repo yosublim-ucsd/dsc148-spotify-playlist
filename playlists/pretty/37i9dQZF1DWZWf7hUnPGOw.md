@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 
 > Sometimes all you need is a fresh start\. Listen to the music from, and inspired by, Virgin River, now stream on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,511 likes - 226 songs - 13 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,550 likes - 226 songs - 13 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,7 +140,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 130 | [Dance Like Ya Wanna](https://open.spotify.com/track/67uLKdHyQjEwkWEb0nwDbO) | [Josh Eagle and The Harvest City](https://open.spotify.com/artist/6dN2IgjlE0uwYPVK078qLX) | [Josh Eagle and the Harvest City](https://open.spotify.com/album/1P4F9VzGCaeWBf4Fkrjrbx) | 3:41 |
 | 131 | [Another Road](https://open.spotify.com/track/3LvheDzR1jqsrsKJQIFQra) | [Map Of Wyoming](https://open.spotify.com/artist/5GoiuXCKsDQhntLTYooflm) | [Round Trip](https://open.spotify.com/album/0GgZs5GiYxxlCy0NlkkGyy) | 3:45 |
 | 132 | [Just Can't Say I Can't](https://open.spotify.com/track/74p2JLLMC6DWOrItWhM8XL) | [The Dahls](https://open.spotify.com/artist/5e6QJGOFBAFPoOPIFDKaWt) | [The Dahls](https://open.spotify.com/album/44ppJ1cBnahnaoXCtzSnjb) | 2:31 |
-| 133 | [Heart's for Mine](https://open.spotify.com/track/1IN3yi4InzQxvokJ3ks8tr) | [Jack Grelle](https://open.spotify.com/artist/5vSOsUL2Sp1JTsfh0HsRor) | [Got Dressed Up to be Let Down](https://open.spotify.com/album/0L1WEUgkaTxtD4mRFH6RQY) | 3:06 |
+| 133 | [Heart's for Mine](https://open.spotify.com/track/69Rgs5RABQtCV7w3YjogZF) | [Jack Grelle](https://open.spotify.com/artist/5vSOsUL2Sp1JTsfh0HsRor) | [Got Dressed Up to be Let Down](https://open.spotify.com/album/4s41xqAkRsxShzcNUnNhJ4) | 3:06 |
 | 134 | [Horses and Hearts \(feat\. Abbey Cone\)](https://open.spotify.com/track/44vI5BreUHR4FQxROk6g9V) | [Ray Johnston Band](https://open.spotify.com/artist/06TYiYKq7bzEi1H1vznlzo), [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [\#GoesGoodWith](https://open.spotify.com/album/6SPK9nNIuLxoHaPgqj49oY) | 2:56 |
 | 135 | [Too Much Talking](https://open.spotify.com/track/31YQmk5YBQFa7GTIzZ0iAP) | [Grain Thief](https://open.spotify.com/artist/1s72KWoPysNDIrYfiysfxv) | [Animal](https://open.spotify.com/album/2RwrWQFIc7Ql7IeaqvIc8n) | 2:45 |
 | 136 | [Fighting Fire with Gasoline](https://open.spotify.com/track/4LBJ8a1AkUOKg1CO0ysz58) | [The Kokomo Kings](https://open.spotify.com/artist/3RCAA6TfnIj5VwxJB5HhFQ) | [Fighting Fire with Gasoline](https://open.spotify.com/album/46GuNa5LZNMd2cJZJ44MrC) | 2:15 |
@@ -235,4 +235,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWf7hUnPGOw.md) - [plain]
 | 225 | [Our Own Cloud](https://open.spotify.com/track/6cvzYgrLWhXyw8q4OfUUJ6) | [Daniel Milewski](https://open.spotify.com/artist/6C8PW0ngsQWToD7bE4nnU5) | [Quarry](https://open.spotify.com/album/37HodiQLdGP1iOnliGWSot) | 6:13 |
 | 226 | [Carry You](https://open.spotify.com/track/3qeTDINIdJjblabgluS5rK) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx), [Fleurie](https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4) | [Carry You](https://open.spotify.com/album/3cDlbiwvay9zjWMqKZqsGa) | 4:28 |
 
-Snapshot ID: `MCw3ODkwNDVlYzZmNDVmZWFmNDJlNzhiZjA5ZjVjMzlkZWVkYjdiZjk1`
+Snapshot ID: `MCw4Njc1NGY3Nzc5Yzk5ZjMwM2M4ZTAwOGYyMDBjNjNmZTViZjk4MTgw`

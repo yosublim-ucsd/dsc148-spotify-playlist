@@ -4,7 +4,7 @@
 
 > Los grandes éxitos de Daddy Yankee y Nicky Jam en un mismo lugar.
 
-90 songs - 5 hr 9 min
+91 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Sígueme Y Te Sigo](https://open.spotify.com/track/1ClQpnPU9M6mQpXGvhGPvQ) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Sígueme Y Te Sigo](https://open.spotify.com/album/0VrKUe36H6KPKSe9Y1FL2w) | 3:29 | 2021-12-09 | 2022-07-29 |
 | [Sígueme Y Te Sigo](https://open.spotify.com/track/4n5a3ANTvmFnwHMcUTTQ25) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Retro Urbano](https://open.spotify.com/album/0ftuinQ55uMVMfBcILaumH) | 3:29 | 2022-08-17 | 2022-11-13 |
 | [Sígueme Y Te Sigo](https://open.spotify.com/track/7F7kL3i6SDEIbDcoJZGiig) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Sígueme Y Te Sigo](https://open.spotify.com/album/0hi7qqQbGUV5Vm6OtUlE1J) | 3:29 | 2022-07-27 |  |
-| [Tanta Falta Remix](https://open.spotify.com/track/2AbPshGfRDKLlkM0lrDNTR) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Tanta Falta Remix](https://open.spotify.com/album/1H5ki3YSO29zF5kEmN3Fd4) | 3:01 | 2022-07-27 |  |
+| [Tanta Falta Remix](https://open.spotify.com/track/2AbPshGfRDKLlkM0lrDNTR) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Tanta Falta Remix](https://open.spotify.com/album/1H5ki3YSO29zF5kEmN3Fd4) | 3:01 | 2022-07-27 | 2023-12-23 |
+| [Tanta Falta Remix](https://open.spotify.com/track/5iFKtk78vFrZHpxC53kyfe) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Tanta Falta Remix](https://open.spotify.com/album/7E9rraDzsfh89jnUTLR1ff) | 3:01 | 2023-01-26 |  |
 | [Tanta Falta Remix](https://open.spotify.com/track/6GxEpbOvB4dXgRF2SLJliK) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Tanta Falta Remix](https://open.spotify.com/album/296ygxpV1TLiYxQqiMLrvu) | 3:01 | 2021-12-09 | 2022-07-29 |
 | [Te Busco](https://open.spotify.com/track/2M2WWJE863upPYUrzCRjN6) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Te Busco](https://open.spotify.com/album/1rvF6y0pavyw1cJHeibSnE) | 3:53 | 2021-12-09 | 2022-07-29 |
 | [Te Busco](https://open.spotify.com/track/2hi1aFllOFRNH8gIHxQvD9) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Te Busco](https://open.spotify.com/album/5mTPkLSMfQdLrb4DOXDQDh) | 3:53 | 2022-07-27 |  |

@@ -4,7 +4,7 @@
 
 > Best VOCALOID Songs in 2023! 2023年の<a href="https://open.spotify.com/playlist/37i9dQZF1DX4OQqDGyEiDU?si=eeff84f267c74f49">君が生きてなくてよかった</a>総まとめ！今年君が生きてなくてよかったで再生された楽曲別ベスト100 ! <a href="https://twitter.com/hashtag/Spotify%E3%81%BE%E3%81%A8%E3%82%81?src=hashtag\_click">\#Spotifyまとめ</a> cover: Kanaria
 
-126 songs - 6 hr 48 min
+127 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [good\-bye declaration](https://open.spotify.com/track/6SYj9vjjVTwKn08iKZR11m) | [Chinozo](https://open.spotify.com/artist/205dGSmCjnFA0Mjptshdsx) | [The Deluge](https://open.spotify.com/album/0XVzhmnx7nQ1TYxUGKBmXx) | 2:52 | 2022-11-30 |  |
 | [GURU](https://open.spotify.com/track/44bhs2HUL9FLVB3hdYCF2x) | [Jin](https://open.spotify.com/artist/7to1UlTpu40h7CpjRPkGqA) | [GURU](https://open.spotify.com/album/7yd2EeJwKUL5mdU3B3DLVe) | 3:10 | 2023-11-29 |  |
 | [Hana Wo Utau](https://open.spotify.com/track/2nMv7p0ewXCOElhIzUrnDr) | [Shino](https://open.spotify.com/artist/59Bj4ZrSOLrNlMH15wY2VB) | [Hana Wo Utau](https://open.spotify.com/album/6rSa7jGPmKRTrY86k3Af3z) | 3:26 | 2023-11-29 |  |
-| [Hanataba](https://open.spotify.com/track/6H42G7PmewVxTBQv7ruF3P) | [MIMI](https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [Hanataba](https://open.spotify.com/album/4OW2aF9K7CREPKQscfW6m3) | 2:30 | 2023-11-29 |  |
+| [Hanataba](https://open.spotify.com/track/6H42G7PmewVxTBQv7ruF3P) | [MIMI](https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [Hanataba](https://open.spotify.com/album/4OW2aF9K7CREPKQscfW6m3) | 2:30 | 2023-11-29 | 2023-12-23 |
 | [Henceforth](https://open.spotify.com/track/0IrFbhdGbgz9NemUAzaNi1) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS) | [And So Henceforth,](https://open.spotify.com/album/2vVnTKk2FkGP6oGiE8HpT7) | 3:54 | 2023-11-29 |  |
 | [Henceforth](https://open.spotify.com/track/57ogQzcfCwQW1YoBdfz4Wa) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS), [IA](https://open.spotify.com/artist/1oz1HYOyJhjshPi5Nvs3MX) | [Henceforth](https://open.spotify.com/album/2RqPD5PUvE0buIQ74wpmFV) | 3:55 | 2022-11-30 | 2023-11-30 |
 | [HERO \(feat\. 初音ミク\)](https://open.spotify.com/track/4oJVybTP5RihSfOn5sxf3W) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [初音ミク「マジカルミライ 2023」OFFICIAL ALBUM](https://open.spotify.com/album/3LnVCNSjdedP7hEmrrF7WR) | 3:24 | 2023-11-29 |  |
@@ -94,6 +94,7 @@
 | [デビルじゃないもん](https://open.spotify.com/track/294o7PTrqj9VySUIHaJmXw) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [デビルじゃないもん](https://open.spotify.com/album/7cjQMQzxrWDpa1htz8tLPw) | 2:43 | 2023-11-29 |  |
 | [ドーナツホール](https://open.spotify.com/track/6kwLcF9pDovUbmGOtHo4Ml) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [ドーナツホール](https://open.spotify.com/album/4jNxD5LWmUuwF72qG8Ekfx) | 3:25 | 2023-11-29 |  |
 | [ハッピーシンセサイザ](https://open.spotify.com/track/5rphHpZnxY9EGg8CdWSXPp) | [EasyPop](https://open.spotify.com/artist/36VXnOjLVJQUy8xH9dk6Po) | [ベリーイージー](https://open.spotify.com/album/0Ay6UUtPjGT18r9RSzHY0d) | 3:56 | 2022-11-30 | 2023-11-30 |
+| [ハナタバ](https://open.spotify.com/track/3R3JSXXyr2smZGP2xamRjy) | [MIMI](https://open.spotify.com/artist/3wjHre7Ny1iXkW5XNgzX8s) | [よるつむぎ](https://open.spotify.com/album/4dZw65evulj7MRAL7RArdd) | 2:28 | 2023-11-29 |  |
 | [ハローマリーナ](https://open.spotify.com/track/5REu4FEznMisJRiuBmplyh) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [ウェザーステーション](https://open.spotify.com/album/6jg2tl87TSzWMU6SXYUwsd) | 3:22 | 2022-11-30 | 2023-11-30 |
 | [パメラ](https://open.spotify.com/track/0kdCJN0s1FB37IJoHWaZEk) | [balloon](https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva) | [パメラ](https://open.spotify.com/album/5ZJTnfc4A7HFzZx0DEKanl) | 3:16 | 2022-11-30 | 2023-11-30 |
 | [ヒアソビ \(feat\. 初音ミク\)](https://open.spotify.com/track/6TaOHCEjas8b3Mm4tNZ31g) | [Camellia](https://open.spotify.com/artist/4bwIf0yXJf0F9AmOl2J78M) | [ヒアソビ](https://open.spotify.com/album/7MaDGgu25WmGSSh4JZn22X) | 4:05 | 2023-11-29 |  |

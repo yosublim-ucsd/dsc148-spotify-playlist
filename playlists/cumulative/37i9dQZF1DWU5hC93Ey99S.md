@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels.
 
-374 songs - 20 hr 22 min
+375 songs - 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [Flow](https://open.spotify.com/track/77aNSMeyRt76CySXOgddOJ) | [Distant Matter](https://open.spotify.com/artist/7jOCrpnW33mqmrR6r6ORvn), [Katrina Anastasia](https://open.spotify.com/artist/6SCKIIvdm9MXWZXv5KJZs7) | [Flow](https://open.spotify.com/album/4LyFbrAm7AJvBIWh9PG4Yw) | 3:08 | 2023-08-31 |  |
 | [follow you](https://open.spotify.com/track/7rv0FWEEb34mHYaHFcBfkw) | [informal.](https://open.spotify.com/artist/7rhckctF71vE4BtpFzz7Ie) | [follow you](https://open.spotify.com/album/7HTwyVqnDDTRma0swJgDJL) | 3:04 | 2023-04-27 |  |
 | [Food for the Soul](https://open.spotify.com/track/7u0fz3V6cYeYTX91DMmIvQ) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC) | [Food for the Soul](https://open.spotify.com/album/3U20hCbqPM745vgo0PVcmw) | 3:30 | 2023-04-13 |  |
-| [Forever](https://open.spotify.com/track/1l2WYB3pwvyuwCnjXG65LI) | [Iaco](https://open.spotify.com/artist/3D3ELPXX1yx64WfmZLB8Bg), [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [Patrick Aretz](https://open.spotify.com/artist/44bMkU8chE8FJimdH4XyD6) | [Forever](https://open.spotify.com/album/0ksz8SkO5pzob4qLByrWTW) | 2:42 | 2023-12-21 |  |
+| [Forever](https://open.spotify.com/track/1l2WYB3pwvyuwCnjXG65LI) | [Iaco](https://open.spotify.com/artist/3D3ELPXX1yx64WfmZLB8Bg), [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [Patrick Aretz](https://open.spotify.com/artist/44bMkU8chE8FJimdH4XyD6) | [Forever](https://open.spotify.com/album/0ksz8SkO5pzob4qLByrWTW) | 2:42 | 2023-12-21 | 2023-12-23 |
+| [Forever](https://open.spotify.com/track/6lTYC6muvnPrzFgRkfXDBJ) | [Iaco](https://open.spotify.com/artist/3D3ELPXX1yx64WfmZLB8Bg), [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [Patrick Aretz](https://open.spotify.com/artist/44bMkU8chE8FJimdH4XyD6) | [Forever](https://open.spotify.com/album/2czelk7bLALiTeeczrgNdO) | 2:42 | 2023-12-21 |  |
 | [Forever](https://open.spotify.com/track/3XPCIPycCKEjQVG087GkLk) | [Jordan Burns](https://open.spotify.com/artist/5Aapt5sVTPkERQAz6TtuZS) | [Forever](https://open.spotify.com/album/342hxZWpKqeP2gHMrZ4zMM) | 3:45 | 2023-06-08 |  |
 | [Friday Night](https://open.spotify.com/track/6wgmzw64fvWGVNfDRbOHFh) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Summer Someday](https://open.spotify.com/album/3T5GjO0RHixIYMXeUsq099) | 3:49 | 2023-04-13 | 2023-05-03 |
 | [Gemini](https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Miracles](https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy) | 4:29 | 2023-09-21 |  |

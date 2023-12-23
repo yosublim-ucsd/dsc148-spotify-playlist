@@ -1,12 +1,12 @@
 {
   "description": "Grind day motivation ",
-  "num_followers": 34669,
+  "num_followers": 34764,
   "original_name": "Daily Hustle ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjEyZDAwMDg2MmQ2MzFlYmEwOGYwYTVlZmE4YzAxYTkwYmUwZGFk",
+  "snapshot_id": "MCw1YjQ0NzFjMTU4MmZkNWJhMjMxZWI3ZWI2NTUyYjI5MmU3ZGU3MjEx",
   "tracks": [
     {
       "added_at": "2023-12-22 00:01:00",
@@ -23,6 +23,26 @@
       "duration_ms": 245920,
       "name": "23",
       "url": "https://open.spotify.com/track/7EqoATlXAKNwzv45LAlqRt"
+    },
+    {
+      "added_at": "2023-12-22 04:24:51",
+      "album": {
+        "name": "S2",
+        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 180638,
+      "name": "IDK (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/5KV5UXd1uNZZafWTudrVft"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -551,22 +571,6 @@
       "duration_ms": 181557,
       "name": "Soja",
       "url": "https://open.spotify.com/track/5F7imvl6nIRWoMCejdR4Sk"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Ololade Asake",
-        "url": "https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "Trabaye",
-      "url": "https://open.spotify.com/track/3q1cSJlfVFGfE7sMWPYJGm"
     },
     {
       "added_at": "2023-12-22 00:01:00",

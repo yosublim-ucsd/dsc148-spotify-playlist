@@ -1,12 +1,12 @@
 {
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
-  "num_followers": 125119,
+  "num_followers": 125158,
   "original_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkODE2YzZkYmU5MzkzNTRjMjg0NmEwODA1Y2ExZmFkNzc4NjU1YmU2",
+  "snapshot_id": "MCw2NjEwYjNjY2Y0NDExYTdhNzhmZDRiYWY0YmE0NzQ2YmFjZGMwZDM4",
   "tracks": [
     {
       "added_at": "2023-12-19 15:00:00",
@@ -603,8 +603,8 @@
     {
       "added_at": "2023-12-19 15:00:00",
       "album": {
-        "name": "DISCO PRANK feat. Leo Uchida",
-        "url": "https://open.spotify.com/album/2zjAF1GnsLQnUo1OOXclF6"
+        "name": "The Roller Skating Tour",
+        "url": "https://open.spotify.com/album/4iyqMZ78D9rMdbSJl6jhtO"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/4Bu3saVITUucWAvsIW8zrL"
         }
       ],
-      "duration_ms": 231351,
+      "duration_ms": 232733,
       "name": "DISCO PRANK feat. Leo Uchida",
-      "url": "https://open.spotify.com/track/0AYM2tgwtiB3QovS3FUlbu"
+      "url": "https://open.spotify.com/track/1NsYaNxkwwKC18anLoxVZk"
     },
     {
       "added_at": "2023-12-19 15:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-12-19 15:00:00",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 177520,
-      "name": "Dominoes",
-      "url": "https://open.spotify.com/track/59rkTkputMqoxunf9IRzOc"
-    },
-    {
-      "added_at": "2023-12-19 15:00:00",
-      "album": {
         "name": "Comedy",
         "url": "https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 230666,
       "name": "Comedy",
       "url": "https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV"
+    },
+    {
+      "added_at": "2023-12-19 15:00:00",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 177520,
+      "name": "Dominoes",
+      "url": "https://open.spotify.com/track/59rkTkputMqoxunf9IRzOc"
     },
     {
       "added_at": "2023-12-19 15:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-12-19 15:00:00",
       "album": {
-        "name": "\u98df\u5353",
-        "url": "https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE"
-      },
-      "artists": [
-        {
-          "name": "natori",
-          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
-        }
-      ],
-      "duration_ms": 206107,
-      "name": "\u98df\u5353",
-      "url": "https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI"
-    },
-    {
-      "added_at": "2023-12-19 15:00:00",
-      "album": {
         "name": "The Sun Is Up Forever",
         "url": "https://open.spotify.com/album/47axSNTeQ43lYBoW3simcR"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 224739,
       "name": "The Sun Is Up Forever",
       "url": "https://open.spotify.com/track/4i17ViZoevssgUvRifo0V5"
+    },
+    {
+      "added_at": "2023-12-19 15:00:00",
+      "album": {
+        "name": "\u98df\u5353",
+        "url": "https://open.spotify.com/album/6oRq5ENvDdVVcn2BwNGamE"
+      },
+      "artists": [
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+        }
+      ],
+      "duration_ms": 206107,
+      "name": "\u98df\u5353",
+      "url": "https://open.spotify.com/track/1ZgpUVfKTjbr5DjEMu3eQI"
     },
     {
       "added_at": "2023-12-19 15:00:00",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2023-12-19 15:00:00",
       "album": {
-        "name": "Live It Up (High Tide)",
-        "url": "https://open.spotify.com/album/4WSj8yr6mN3vxGSku9pyv3"
+        "name": "replica",
+        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
       },
       "artists": [
         {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
         }
       ],
-      "duration_ms": 154368,
-      "name": "Live It Up (High Tide)",
-      "url": "https://open.spotify.com/track/1NQerA4L5VGpEtL9j7P7Xb"
+      "duration_ms": 259200,
+      "name": "\u77b3\u60da\u308c",
+      "url": "https://open.spotify.com/track/5ZqO8UI3rELw35xCb8oF7c"
     },
     {
       "added_at": "2023-12-19 15:00:00",
@@ -1711,18 +1711,18 @@
     {
       "added_at": "2023-12-19 15:00:00",
       "album": {
-        "name": "replica",
-        "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
+        "name": "Live It Up (High Tide)",
+        "url": "https://open.spotify.com/album/4WSj8yr6mN3vxGSku9pyv3"
       },
       "artists": [
         {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
         }
       ],
-      "duration_ms": 259200,
-      "name": "\u77b3\u60da\u308c",
-      "url": "https://open.spotify.com/track/5ZqO8UI3rELw35xCb8oF7c"
+      "duration_ms": 154368,
+      "name": "Live It Up (High Tide)",
+      "url": "https://open.spotify.com/track/1NQerA4L5VGpEtL9j7P7Xb"
     },
     {
       "added_at": "2023-12-19 15:00:00",
@@ -1875,30 +1875,22 @@
     {
       "added_at": "2023-12-19 15:00:00",
       "album": {
-        "name": "Girlfriend",
-        "url": "https://open.spotify.com/album/0q4Y4pXndd7NxFIwG5yInO"
+        "name": "Marking My Time (BADBADNOTGOOD Edit)",
+        "url": "https://open.spotify.com/album/0g9kK2Bttr5JjicLzIQdYz"
       },
       "artists": [
         {
-          "name": "Party Pupils",
-          "url": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         },
         {
-          "name": "bbno$",
-          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
-        },
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        },
-        {
-          "name": "MILLI",
-          "url": "https://open.spotify.com/artist/1eVPKI2R4NlX6P5FIuMXis"
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
         }
       ],
-      "duration_ms": 143581,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/7vfRSHJyOY8qUZ0XXSEbBr"
+      "duration_ms": 252503,
+      "name": "Marking My Time - BADBADNOTGOOD Edit",
+      "url": "https://open.spotify.com/track/37d6wINGgXhG8r95A13M4i"
     }
   ],
   "unique_name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",

@@ -250,7 +250,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 138000,
       "name": "Asmr: Relaxing City Ambience",
       "url": "https://open.spotify.com/track/4fFX1b2s8jcJYtkfTxJoLP"
@@ -1282,6 +1282,32 @@
     {
       "album": {
         "name": "City Sounds",
+        "url": "https://open.spotify.com/album/4cmKWIQGkxZGyI8qlgHZqx"
+      },
+      "artists": [
+        {
+          "name": "Sleep Sounds Ambient Noises",
+          "url": "https://open.spotify.com/artist/1zL2evr0Tl2KJcHaLUbwc5"
+        },
+        {
+          "name": "City Sounds for Sleeping",
+          "url": "https://open.spotify.com/artist/77CCIcHndGI4XjqVuS6JSg"
+        },
+        {
+          "name": "City Traffic White Noise",
+          "url": "https://open.spotify.com/artist/6jO7NZyUKHcAldcPsG2otT"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128016,
+      "name": "City Traffic White Noise",
+      "url": "https://open.spotify.com/track/2pQbDo93D2TOIpjgECAr8Z"
+    },
+    {
+      "album": {
+        "name": "City Sounds",
         "url": "https://open.spotify.com/album/6GVHYaRJmXq1nhzFZGNOi6"
       },
       "artists": [
@@ -1800,6 +1826,24 @@
       "duration_ms": 180000,
       "name": "Hanzomon Backstreet Vibe - Seamless",
       "url": "https://open.spotify.com/track/2MNVDTRhy4NCvLRe1bDfLh"
+    },
+    {
+      "album": {
+        "name": "Fast-Paced Contemporary City Soundscape",
+        "url": "https://open.spotify.com/album/18Dcyeir5axU73Nq6jrT31"
+      },
+      "artists": [
+        {
+          "name": "City Sounds",
+          "url": "https://open.spotify.com/artist/2Ysr1LCfBEkar72Dj2nvi8"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Hasten Urban Area",
+      "url": "https://open.spotify.com/track/1qEcZ4U2mz7lbzyqIR5XEJ"
     },
     {
       "album": {
@@ -3168,6 +3212,52 @@
       "duration_ms": 167854,
       "name": "Soothing Street Sound",
       "url": "https://open.spotify.com/track/57pX8BeOpZrHPGGqwNkbW3"
+    },
+    {
+      "album": {
+        "name": "Washington DC City Sounds 3D",
+        "url": "https://open.spotify.com/album/3mQtY9hrE98kNfaxzhTiZd"
+      },
+      "artists": [
+        {
+          "name": "City Sounds 3D",
+          "url": "https://open.spotify.com/artist/0hBOjHzccFj5qB5BjGdAv1"
+        },
+        {
+          "name": "3D White Noise",
+          "url": "https://open.spotify.com/artist/5kSsiBGtJ1hZj3gkZX6uF5"
+        },
+        {
+          "name": "Nature Sounds Discovery",
+          "url": "https://open.spotify.com/artist/3Pcl7kiPp5YC2b8Hyr2LfY"
+        },
+        {
+          "name": "Awakening Nature Sounds",
+          "url": "https://open.spotify.com/artist/52zcA4TWtlgvjqrWipy8Ir"
+        },
+        {
+          "name": "3D Nature Sounds",
+          "url": "https://open.spotify.com/artist/2ZMwDIcvadqTHvm8WFCd5u"
+        },
+        {
+          "name": "Feel Good Sounds 3D",
+          "url": "https://open.spotify.com/artist/5OxeB2FvijH8nBuKP6rGjA"
+        },
+        {
+          "name": "Nature Sounds Awakening",
+          "url": "https://open.spotify.com/artist/0KMQGwYlqxbJkC1U8BPwPi"
+        },
+        {
+          "name": "Nature Sounds Therapy",
+          "url": "https://open.spotify.com/artist/2SeDyrxDOw9ckvc9ppUKRP"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135140,
+      "name": "Soothing Washington DC City Noise 3D",
+      "url": "https://open.spotify.com/track/2HWVABLez301PkXZRhnddt"
     },
     {
       "album": {

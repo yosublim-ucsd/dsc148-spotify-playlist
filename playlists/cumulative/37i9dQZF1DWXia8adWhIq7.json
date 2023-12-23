@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Ele e N\u00f3iz",
+        "url": "https://open.spotify.com/album/65iNHR49BjxlK6nuOrKqrv"
+      },
+      "artists": [
+        {
+          "name": "Leif Bessa",
+          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
+        },
+        {
+          "name": "Lito Atalaia",
+          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172427,
+      "name": "A Casa Caiu",
+      "url": "https://open.spotify.com/track/5TSHa3hQd3YOvBHNKSuc5C"
+    },
+    {
+      "album": {
         "name": "Epifania",
         "url": "https://open.spotify.com/album/55tRKqircj6qHHB3tzMrGr"
       },
@@ -1190,10 +1212,44 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 143417,
       "name": "Hoje Eu Vivo",
       "url": "https://open.spotify.com/track/6Iv1HNunu1jNHvwjoSTBhz"
+    },
+    {
+      "album": {
+        "name": "Hosana",
+        "url": "https://open.spotify.com/album/1I0VpGgH26ul84YeFjoH2r"
+      },
+      "artists": [
+        {
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
+        },
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        },
+        {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245056,
+      "name": "Hosana",
+      "url": "https://open.spotify.com/track/1Q6Zk8VtV071NWfIyzzdHY"
     },
     {
       "album": {
@@ -1398,7 +1454,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 331653,
       "name": "Me Alcan\u00e7ou (Remix)",
       "url": "https://open.spotify.com/track/1nB2rtGVCTZl1XazO4eTvV"
@@ -1438,6 +1494,24 @@
       "duration_ms": 310312,
       "name": "Me Ensina a Viver",
       "url": "https://open.spotify.com/track/0S5t0T4YV3pHs4LH0mtasp"
+    },
+    {
+      "album": {
+        "name": "Me Esvaziar (Releitura)",
+        "url": "https://open.spotify.com/album/0jzLyiWUcBCqzevujFH3qZ"
+      },
+      "artists": [
+        {
+          "name": "Bea Rodrigues",
+          "url": "https://open.spotify.com/artist/6QdkjyPcxIa4L8JYoIh16i"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183055,
+      "name": "Me Esvaziar (Releitura)",
+      "url": "https://open.spotify.com/track/0iYvEJ73ZzbYmYoJRnzK1T"
     },
     {
       "album": {
@@ -1682,7 +1756,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 226000,
       "name": "Nunca Te Deixei",
       "url": "https://open.spotify.com/track/6p1NbvGtfNKgsRsVU9eLDG"
@@ -2742,10 +2816,36 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 222103,
       "name": "Teu Reino Venha",
       "url": "https://open.spotify.com/track/2xYtgaVWlSpUBDq8BoAynx"
+    },
+    {
+      "album": {
+        "name": "Teu V\u00f4o",
+        "url": "https://open.spotify.com/album/6rS0qf26llSApDssZvCyX1"
+      },
+      "artists": [
+        {
+          "name": "Felipe Vinii",
+          "url": "https://open.spotify.com/artist/0ebx928glrq2QKhGJblaTP"
+        },
+        {
+          "name": "diaszin",
+          "url": "https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Teu V\u00f4o",
+      "url": "https://open.spotify.com/track/3s1puxrckxaAKtsqGcHuPD"
     },
     {
       "album": {

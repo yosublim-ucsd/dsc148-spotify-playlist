@@ -1,12 +1,12 @@
 {
   "description": "Tomorrow's <a href=\"spotify:genre:edm_dance\">dance</a> hits, with VNSSA.",
-  "num_followers": 2021129,
+  "num_followers": 2021231,
   "original_name": "Dance Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGI2Nzc3MjY3NDkxYzNmMmY3YzVlOTk4YmNmNWJjZjc5NDhiMjUx",
+  "snapshot_id": "MCw0ZmQ2MDg3OTkxMjgwNjcwNWI4ZmRmMWI5MGVjZmIzMDc3ZDBmZTI3",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -175,6 +175,26 @@
       "duration_ms": 173377,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/4HrLjuPDoxwofY6azxdzb0"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Make Me (Franky Rizardo Remix)",
+        "url": "https://open.spotify.com/album/42c7JYNk4kOlZhBnZZoPI0"
+      },
+      "artists": [
+        {
+          "name": "Borai & Denham Audio",
+          "url": "https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1"
+        },
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Make Me - Franky Rizardo Remix",
+      "url": "https://open.spotify.com/track/57508shL0obX0KUOUL8CJk"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -355,6 +375,22 @@
       "duration_ms": 168480,
       "name": "So Close",
       "url": "https://open.spotify.com/track/3wNt4DRane7yasbJEfR0hX"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Give You",
+        "url": "https://open.spotify.com/album/65Rww1fKgqIbp0QvuFX9gy"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Give You",
+      "url": "https://open.spotify.com/track/3VrFR7A8qVKHmECL5tNIlf"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -967,30 +1003,6 @@
     {
       "added_at": "2023-11-17 05:01:00",
       "album": {
-        "name": "Come Come",
-        "url": "https://open.spotify.com/album/2A4mUTOsIWWxsde9WDcj0v"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Tube & Berger",
-          "url": "https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h"
-        },
-        {
-          "name": "Kyle Pearce",
-          "url": "https://open.spotify.com/artist/1e5T955wZa6GSsBXgm4hlR"
-        }
-      ],
-      "duration_ms": 184596,
-      "name": "Come Come",
-      "url": "https://open.spotify.com/track/2vGpCrWU9nAvs2CFhw5TsA"
-    },
-    {
-      "added_at": "2023-11-17 05:01:00",
-      "album": {
         "name": "Nostalgia (feat. Little Green)",
         "url": "https://open.spotify.com/album/2XvL2rUofsY9xaXN2D4VwW"
       },
@@ -1403,34 +1415,6 @@
       "duration_ms": 253051,
       "name": "Tigh Pop",
       "url": "https://open.spotify.com/track/54oQyfr7as59L7u4yvHS3H"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "You Are In My System (Faster Horses Sport Mix)",
-        "url": "https://open.spotify.com/album/4x5rQlOXx23lz5aImLGMOt"
-      },
-      "artists": [
-        {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
-        },
-        {
-          "name": "Dennis Quin",
-          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
-        },
-        {
-          "name": "Troy Denari",
-          "url": "https://open.spotify.com/artist/2cNKz5QJgfclP9Ay7Okghv"
-        },
-        {
-          "name": "Faster Horses",
-          "url": "https://open.spotify.com/artist/3LpHT7su9Y4DLfV6NCfZKZ"
-        }
-      ],
-      "duration_ms": 197197,
-      "name": "You Are In My System - Faster Horses Sport Mix",
-      "url": "https://open.spotify.com/track/4cxpgHXbVh4sGwb1C7TAG2"
     },
     {
       "added_at": "2023-10-27 04:00:00",

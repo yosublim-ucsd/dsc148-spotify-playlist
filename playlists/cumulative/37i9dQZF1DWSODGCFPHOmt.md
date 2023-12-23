@@ -4,7 +4,7 @@
 
 > Música navideña para las fiestas decembrinas\. Cover: Panter Belico
 
-117 songs - 6 hr 17 min
+118 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,9 +66,10 @@
 | [Llegó la Navidad](https://open.spotify.com/track/4NJS1xksQ2p0nJ5yNWx8Ak) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Llegó la Navidad](https://open.spotify.com/album/7Hzii1J4Rqkleye5rg57KJ) | 2:09 | 2022-11-25 | 2022-12-29 |
 | [Llegó Navidad](https://open.spotify.com/track/57uFE2xndHxWXXp1KkmTZO) | [El Poder Del Norte De Arturo Buenrostro](https://open.spotify.com/artist/369DgLEdifFiRIfXMYaFFI), [Joe Lopez Y Grupo Mazz](https://open.spotify.com/artist/1xcx85w0ByWnWlf5GKf8iQ), [Sangre Felina](https://open.spotify.com/artist/2PrBdIj2KxOVejt2oZiIVm), [Fievre Looka](https://open.spotify.com/artist/0CDFocAKVNgMrgKnQXW7Fd), [El Pega Pega de Emilio Reyna](https://open.spotify.com/artist/0x52e0YL0cI2UXC6w3C630), [Impacto De Montemorelos](https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm), [KUMBIAMBEROS RS](https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak), [Los Chikos RK Ritmo Kumbiero](https://open.spotify.com/artist/0n7BQ1iMKUbfBP6QCxTqBt), [FABIAN Murillo](https://open.spotify.com/artist/4i73eoFGJR41wLSYeu9s9E), [Grupo Lega2](https://open.spotify.com/artist/7bcqkDEfp87vVefVVutfLJ), [La Decision Vallenata](https://open.spotify.com/artist/66wbpZEgeQEqvaUw3FkXFM) | [Llegó Navidad](https://open.spotify.com/album/1xF1Z0gC69q1fSYXPBO3gR) | 2:54 | 2022-12-22 | 2023-11-28 |
 | [Los Peces En El Río](https://open.spotify.com/track/1fg5yTwVBmUFWIVRTvZDT5) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Eterna Navidad Celebremos](https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu) | 2:46 | 2022-11-25 |  |
+| [Los Peces En El Río](https://open.spotify.com/track/0oSi4VcWHLozSWgRVJY2ac) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Navidad con Ángela Aguilar](https://open.spotify.com/album/08gmZBkIqe0wxtGzoDrDla) | 2:56 | 2023-11-30 |  |
 | [Los Peces en el Río \- Edición Especial](https://open.spotify.com/track/1dWFzTAoqgvCxFQoE4bhom) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Navidad Con Angela \(Edición Especial\)](https://open.spotify.com/album/602qxwQA6vuw9d8ukke3XX) | 2:56 | 2022-11-25 | 2023-12-21 |
 | [Los Plebes En El Río](https://open.spotify.com/track/6rysHSjF5GptPktyORkVfQ) | [El Ezequiel](https://open.spotify.com/artist/5fEXlQQjFkAH2xuBUGxOTw) | [Los Plebes En El Río](https://open.spotify.com/album/1ElvdlX6KOY80peRUO78xN) | 2:38 | 2023-11-30 |  |
-| [Manantial en la Arena](https://open.spotify.com/track/2MMSi1VHFZJPiAvLdjFLtE) | [Los Aguas Aguas](https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG) | [Manantial en la Arena](https://open.spotify.com/album/27hp3mqAlbKkVyV7T4f02U) | 3:59 | 2022-11-25 |  |
+| [Manantial en la Arena](https://open.spotify.com/track/2MMSi1VHFZJPiAvLdjFLtE) | [Los Aguas Aguas](https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG) | [Manantial en la Arena](https://open.spotify.com/album/27hp3mqAlbKkVyV7T4f02U) | 3:59 | 2022-11-25 | 2023-12-23 |
 | [Me llamo Raquel](https://open.spotify.com/track/6sr4ax5EHAsAxC4jjEaZJ0) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [La Reunión](https://open.spotify.com/album/62bBdP4of4gbqzArrfCw4J) | 2:47 | 2022-11-25 |  |
 | [Mi Burrito Sabanero](https://open.spotify.com/track/0iGJYuwI3jOn6lo0JeUvAB) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Mi Burrito Sabanero](https://open.spotify.com/album/3Jjt4XVl9u8bNHxii9jrk2) | 2:58 | 2022-11-25 |  |
 | [Mi Burrito Sabanero](https://open.spotify.com/track/6I5I4L2kRifxJ2RyAAaeca) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY) | [Mi Burrito Sabanero](https://open.spotify.com/album/69Ez1GJ0OaOsMlNwj0nbPp) | 3:10 | 2022-11-25 | 2023-02-10 |

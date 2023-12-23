@@ -4,7 +4,7 @@
 
 > These are the songs that have shaped <a href="spotify:artist:5ObBtv5VunwwhQaXXnUrsM">KennyHoopla's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here.
 
-32 songs - 2 hr 4 min
+33 songs - 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Kino](https://open.spotify.com/track/3e64dOlSwoZOn508E7SGTk) | [I Heart Sharks](https://open.spotify.com/artist/4HHftqPaBwXIk5C7GOLI7y) | [Summer](https://open.spotify.com/album/5hDNv2POITR2CQ29TzOiF0) | 3:26 | 2023-08-04 |  |
 | [MARRY KILL F\*CK//](https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [BLINK AND YOU'LL MISS IT//](https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp) | 2:48 | 2023-08-04 |  |
 | [Paper Planes](https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:25 | 2023-08-04 |  |
-| [Parks 'n' Recreation](https://open.spotify.com/track/3OsKTBizjyA0WG72nJtsFH) | [Saint Wellesley](https://open.spotify.com/artist/5sMNbIyT8Uzg51gx65UvH6) | [You Don't Know Shit 'Bout](https://open.spotify.com/album/1ySu6uBo7PMgKvGmeuNvVO) | 1:18 | 2023-08-04 |  |
+| [Parks 'n' Recreation](https://open.spotify.com/track/35sEC7kxGoF8niAzzHhSUf) | [Saint Wellesley](https://open.spotify.com/artist/5sMNbIyT8Uzg51gx65UvH6) | [You Don't Know Shit 'Bout](https://open.spotify.com/album/6MFr2oU387kpal46UAfIVz) | 1:18 | 2023-08-04 |  |
+| [Parks 'n' Recreation](https://open.spotify.com/track/3OsKTBizjyA0WG72nJtsFH) | [Saint Wellesley](https://open.spotify.com/artist/5sMNbIyT8Uzg51gx65UvH6) | [You Don't Know Shit 'Bout](https://open.spotify.com/album/1ySu6uBo7PMgKvGmeuNvVO) | 1:18 | 2023-08-04 | 2023-12-23 |
 | [Rimbaud, Come and Sit For A While](https://open.spotify.com/track/1ShRWt18k9J787eow3aLbZ) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [Crying In The Prettiest Places](https://open.spotify.com/album/5ON9itdFujYUliUAlGezJB) | 3:54 | 2023-08-04 |  |
 | [Sorry](https://open.spotify.com/track/4XcXatNtRIItJ08jPiI5XQ) | [Crooks & Nannies](https://open.spotify.com/artist/2v081HF22KJUbNXmXPKTdk) | [Sorry](https://open.spotify.com/album/2egP41bBu2qTOBjNmVDETZ) | 2:44 | 2023-08-04 |  |
 | [Starring](https://open.spotify.com/track/2aeDbtWEBWJ3bjk4wZw1zZ) | [Freelance Whales](https://open.spotify.com/artist/7ucqItQmz1PCNHBFSbr0ki) | [Weathervanes](https://open.spotify.com/album/0isPJRkQrauUgQok8AKKwj) | 3:34 | 2023-08-04 |  |

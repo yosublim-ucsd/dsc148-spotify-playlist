@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xhM3wDbSS5.md) - [plain]
 
 > Artists that have challenged norms and pushed culture forward.
 
-[Spotify](https://open.spotify.com/user/spotify) - 784 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 785 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xhM3wDbSS5.md) - [plain]
 | 49 | [I Put A Spell On You](https://open.spotify.com/track/3sesq9P6ndjuqaq5om7sxT) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Nostalgia](https://open.spotify.com/album/1REqQsUK0WRYQVzsmdsj04) | 3:32 |
 | 50 | [Like a Rolling Stone](https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 6:09 |
 
-Snapshot ID: `MCwwZDRlMmQyNjI2MmQyODM1ZDE4OWYyYTBlZDU4ZWU2NWFlOGU0MTNm`
+Snapshot ID: `MCxkZWEzOTc4NGZkMjY3YTQyNTgxMzJkNzkxZjkwOTZkOWI2OWYzNjY3`

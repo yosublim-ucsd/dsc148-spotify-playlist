@@ -532,7 +532,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 264827,
       "name": "Akuma",
       "url": "https://open.spotify.com/track/1khq5gFJaY6ztqQ92tbD3l"
@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 422004,
       "name": "Be a Human",
       "url": "https://open.spotify.com/track/6kJ9Bl0rey8TfxzuuTFhlM"
@@ -2145,6 +2145,24 @@
     },
     {
       "album": {
+        "name": "Cycle",
+        "url": "https://open.spotify.com/album/5OsTuX36nTr4U5QcCG6dB2"
+      },
+      "artists": [
+        {
+          "name": "Veerus",
+          "url": "https://open.spotify.com/artist/7GZGpDZcYVX1wrbaOoDWOH"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241818,
+      "name": "Cycle",
+      "url": "https://open.spotify.com/track/0GHv9YdoQs36TxkpmVyYIj"
+    },
+    {
+      "album": {
         "name": "Dads Backyard",
         "url": "https://open.spotify.com/album/6wLrpkVDd1oz51wRYU9QmH"
       },
@@ -2244,6 +2262,24 @@
       "duration_ms": 378000,
       "name": "Dark Places",
       "url": "https://open.spotify.com/track/3DP5jn2plhKVa6Xgwpux1S"
+    },
+    {
+      "album": {
+        "name": "Dark Room",
+        "url": "https://open.spotify.com/album/6fDBWo1qT0GlL9myaWu9fi"
+      },
+      "artists": [
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243639,
+      "name": "Dark Room",
+      "url": "https://open.spotify.com/track/3JcUf6mSuB4FMUvjyhCMRP"
     },
     {
       "album": {
@@ -2650,7 +2686,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 262394,
       "name": "Disconnect",
       "url": "https://open.spotify.com/track/4yzaeprujqqP0lUFrdYHel"
@@ -3006,6 +3042,28 @@
       "duration_ms": 386363,
       "name": "Dust2",
       "url": "https://open.spotify.com/track/73TeOQxZq4VMxooPmZ4KEr"
+    },
+    {
+      "album": {
+        "name": "Dystopia",
+        "url": "https://open.spotify.com/album/23KbjqK1LNV1bTj13oQj94"
+      },
+      "artists": [
+        {
+          "name": "Klanglos",
+          "url": "https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp"
+        },
+        {
+          "name": "Dominik Saltevski",
+          "url": "https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402301,
+      "name": "Dystopia",
+      "url": "https://open.spotify.com/track/0TQKpaHuextgMdznPlxiQ1"
     },
     {
       "album": {
@@ -3448,6 +3506,28 @@
       "duration_ms": 226286,
       "name": "Eyes Hidden",
       "url": "https://open.spotify.com/track/0p6xBnrIJtWjD4QeYE4cue"
+    },
+    {
+      "album": {
+        "name": "Fading to Black (Bart Skils Remix)",
+        "url": "https://open.spotify.com/album/2DBOuNQBqtm2GTbxINsooC"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        },
+        {
+          "name": "Bart Skils",
+          "url": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285801,
+      "name": "Fading to Black - Bart Skils Remix",
+      "url": "https://open.spotify.com/track/4iJf345WG3JpkJH7LsfTDW"
     },
     {
       "album": {
@@ -4805,6 +4885,24 @@
     },
     {
       "album": {
+        "name": "Hydra",
+        "url": "https://open.spotify.com/album/1MvcVnDrefnFTV3swzFAvs"
+      },
+      "artists": [
+        {
+          "name": "Alex Stein",
+          "url": "https://open.spotify.com/artist/0SCFEgshN89tlgOPM7lbSB"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270447,
+      "name": "Hydra",
+      "url": "https://open.spotify.com/track/24TLhKH7Sa89pSPchSjd7a"
+    },
+    {
+      "album": {
         "name": "Hydro",
         "url": "https://open.spotify.com/album/2CYt7WOUAFdAOBYwPuJGLL"
       },
@@ -5350,7 +5448,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 280226,
       "name": "JE N'EXISTE PAS",
       "url": "https://open.spotify.com/track/25xqUhCDGyJejMANoigvrI"
@@ -5682,6 +5780,24 @@
       "duration_ms": 317083,
       "name": "Liberty",
       "url": "https://open.spotify.com/track/7ACHeIO3dmqiR2NrD3oTzF"
+    },
+    {
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/3oFWAEjZo0ibl98n12NH2d"
+      },
+      "artists": [
+        {
+          "name": "Torsten Kanzler",
+          "url": "https://open.spotify.com/artist/6ivd3NhMvn9EIN64Q3lqik"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361055,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/1GYp3kFHxoFrtcLw3xP5Kb"
     },
     {
       "album": {
@@ -6792,7 +6908,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 330685,
       "name": "Night Ride",
       "url": "https://open.spotify.com/track/1DcGChFmYbGkTjSjFeJQ8d"
@@ -7256,7 +7372,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 254836,
       "name": "Overdrive - Edit",
       "url": "https://open.spotify.com/track/6XmGXRgcSdCGG2u5gSmAJ9"

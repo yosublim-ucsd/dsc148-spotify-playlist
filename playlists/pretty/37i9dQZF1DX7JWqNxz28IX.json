@@ -1,12 +1,12 @@
 {
   "description": "canzoni tristi, rap e indie, per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, tenth sky)",
-  "num_followers": 43312,
+  "num_followers": 43337,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDQzMjczMDY3MmMzZThlYjQ2YTE0Njc1NzUxZWFlMWQ4NzE4NDFj",
+  "snapshot_id": "MCw4YzY3YTAyMzZjZWNjODg3YTA4MDI4NmZiYWVlZmE4NjJmMDBlM2E0",
   "tracks": [
     {
       "added_at": "2023-12-06 17:08:54",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
-        "name": "cattive abitudini",
-        "url": "https://open.spotify.com/album/7CVTvlGG8yvKuMu8kU1LTr"
-      },
-      "artists": [
-        {
-          "name": "Biondo",
-          "url": "https://open.spotify.com/artist/7vlwS8BMw7yyothJwoY74p"
-        }
-      ],
-      "duration_ms": 125000,
-      "name": "ti sei scordata del mio compleanno",
-      "url": "https://open.spotify.com/track/2qlC6uXZjQOkfkEdOHRxVN"
-    },
-    {
-      "added_at": "2023-12-06 17:08:54",
-      "album": {
         "name": "La mia stanza",
         "url": "https://open.spotify.com/album/2PyTVVc89tYsUmS5INdW4b"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 203360,
       "name": "Male",
       "url": "https://open.spotify.com/track/07nCfjUbtcJsIxfHdXxlUs"
+    },
+    {
+      "added_at": "2023-12-06 17:08:54",
+      "album": {
+        "name": "cattive abitudini",
+        "url": "https://open.spotify.com/album/7CVTvlGG8yvKuMu8kU1LTr"
+      },
+      "artists": [
+        {
+          "name": "Biondo",
+          "url": "https://open.spotify.com/artist/7vlwS8BMw7yyothJwoY74p"
+        }
+      ],
+      "duration_ms": 125000,
+      "name": "ti sei scordata del mio compleanno",
+      "url": "https://open.spotify.com/track/2qlC6uXZjQOkfkEdOHRxVN"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
-        "name": "La mia stanza (Deluxe)",
-        "url": "https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q"
-      },
-      "artists": [
-        {
-          "name": "NASKA",
-          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
-        }
-      ],
-      "duration_ms": 162038,
-      "name": "Mai come gli altri - Acoustic",
-      "url": "https://open.spotify.com/track/3veCrNj8NA2tCfnPLXSOOr"
-    },
-    {
-      "added_at": "2023-12-06 17:08:54",
-      "album": {
         "name": "Per starci in due",
         "url": "https://open.spotify.com/album/1sM799krpscdwLGFpuLw7T"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 216000,
       "name": "Per starci in due",
       "url": "https://open.spotify.com/track/0rQkHChEcnGAT5C0yMz5Iz"
+    },
+    {
+      "added_at": "2023-12-06 17:08:54",
+      "album": {
+        "name": "La mia stanza (Deluxe)",
+        "url": "https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q"
+      },
+      "artists": [
+        {
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+        }
+      ],
+      "duration_ms": 162038,
+      "name": "Mai come gli altri - Acoustic",
+      "url": "https://open.spotify.com/track/3veCrNj8NA2tCfnPLXSOOr"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -403,38 +403,6 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
-        "name": "REBEL (Deluxe)",
-        "url": "https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW"
-      },
-      "artists": [
-        {
-          "name": "NASKA",
-          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
-        }
-      ],
-      "duration_ms": 220485,
-      "name": "Horror - Acoustic",
-      "url": "https://open.spotify.com/track/1SoB0Ex6kDPwyY5D9nXucY"
-    },
-    {
-      "added_at": "2023-12-06 17:08:54",
-      "album": {
-        "name": "Tu mi fai bene",
-        "url": "https://open.spotify.com/album/55VCDai04r0JFf3mySHac6"
-      },
-      "artists": [
-        {
-          "name": "Fraespo",
-          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
-        }
-      ],
-      "duration_ms": 117190,
-      "name": "Tu mi fai bene",
-      "url": "https://open.spotify.com/track/4x1fbc6RW6vTc7gLCBIDXj"
-    },
-    {
-      "added_at": "2023-12-06 17:08:54",
-      "album": {
         "name": "DIE",
         "url": "https://open.spotify.com/album/2IZzc3V9rB6zYZm0uwra6D"
       },
@@ -455,6 +423,22 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
+        "name": "Tu mi fai bene",
+        "url": "https://open.spotify.com/album/55VCDai04r0JFf3mySHac6"
+      },
+      "artists": [
+        {
+          "name": "Fraespo",
+          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
+        }
+      ],
+      "duration_ms": 117190,
+      "name": "Tu mi fai bene",
+      "url": "https://open.spotify.com/track/4x1fbc6RW6vTc7gLCBIDXj"
+    },
+    {
+      "added_at": "2023-12-06 17:08:54",
+      "album": {
         "name": "Incancellabili",
         "url": "https://open.spotify.com/album/4d9czstc4DH4gLOR40QCAt"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 92398,
       "name": "Incancellabili",
       "url": "https://open.spotify.com/track/4AeDoNfWfHsfXEu0j9J4Fs"
+    },
+    {
+      "added_at": "2023-12-06 17:08:54",
+      "album": {
+        "name": "REBEL (Deluxe)",
+        "url": "https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW"
+      },
+      "artists": [
+        {
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+        }
+      ],
+      "duration_ms": 220485,
+      "name": "Horror - Acoustic",
+      "url": "https://open.spotify.com/track/1SoB0Ex6kDPwyY5D9nXucY"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
-        "name": "AUTORITRATTO",
-        "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
-      },
-      "artists": [
-        {
-          "name": "Zoda",
-          "url": "https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB"
-        }
-      ],
-      "duration_ms": 133658,
-      "name": "SOGNI",
-      "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
-    },
-    {
-      "added_at": "2023-12-06 17:08:54",
-      "album": {
         "name": "Devil May Cry",
         "url": "https://open.spotify.com/album/0JTK46NHCkNfBe6kthVWxA"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 148818,
       "name": "Devil May Cry",
       "url": "https://open.spotify.com/track/2DTFoQqQrjEcFIfMkAPmKs"
+    },
+    {
+      "added_at": "2023-12-06 17:08:54",
+      "album": {
+        "name": "AUTORITRATTO",
+        "url": "https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712"
+      },
+      "artists": [
+        {
+          "name": "Zoda",
+          "url": "https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB"
+        }
+      ],
+      "duration_ms": 133658,
+      "name": "SOGNI",
+      "url": "https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
+        "name": "Attacco di Panico",
+        "url": "https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli"
+      },
+      "artists": [
+        {
+          "name": "Lost Kids",
+          "url": "https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6"
+        }
+      ],
+      "duration_ms": 145750,
+      "name": "Attacco di Panico",
+      "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
+    },
+    {
+      "added_at": "2023-12-06 17:08:54",
+      "album": {
         "name": "MOVIMENTO + THE DAY AFTER",
         "url": "https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 139773,
       "name": "I CAN FLY",
       "url": "https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b"
-    },
-    {
-      "added_at": "2023-12-06 17:08:54",
-      "album": {
-        "name": "Attacco di Panico",
-        "url": "https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli"
-      },
-      "artists": [
-        {
-          "name": "Lost Kids",
-          "url": "https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6"
-        }
-      ],
-      "duration_ms": 145750,
-      "name": "Attacco di Panico",
-      "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
     },
     {
       "added_at": "2023-12-06 17:08:54",

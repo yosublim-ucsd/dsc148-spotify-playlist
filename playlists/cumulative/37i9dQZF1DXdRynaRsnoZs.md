@@ -4,7 +4,7 @@
 
 > Gentle instrumental versions of holiday classics to help your little one relax when Christmas excitement is in full swing.
 
-101 songs - 3 hr 55 min
+102 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [A Dream Is A Wish Your Heart Makes](https://open.spotify.com/track/12m082qt1zlO0KybXIVgnu) | [Lola Fiennes](https://open.spotify.com/artist/2AxgpeDAr8BILZvsEO445F) | [Christmas Time Is Here](https://open.spotify.com/album/6atF2Hn5oYHVxTQe0toTTf) | 1:19 | 2022-09-22 |  |
 | [Amazing Grace](https://open.spotify.com/track/1vvJlfnj5pfqpI5S8Yrq3e) | [Edwin Othello Excell](https://open.spotify.com/artist/5mOhoiRh7zP0udscnBUyGz), [Bae Bee](https://open.spotify.com/artist/1OYYgvoQMVHpU1HgW0ZduV) | [Little Star](https://open.spotify.com/album/46hkWWf7jd6FyDZwCwRPXm) | 2:47 | 2022-12-16 |  |
 | [Angels From The Realms Of Glory](https://open.spotify.com/track/3PTDBKq7S99lqgvFPDlnJZ) | [Eric Nordhoff](https://open.spotify.com/artist/6egf9BaYi17rYFHpsrELXd) | [Quietime In The Garden](https://open.spotify.com/album/2NdrbO9WGOrDfY9boMUt6N) | 3:46 | 2021-12-22 | 2022-07-29 |
-| [Angels From The Realms Of Glory](https://open.spotify.com/track/4xKthebrMWpRlfCdqGjfZk) | [Eric Nordhoff](https://open.spotify.com/artist/6egf9BaYi17rYFHpsrELXd) | [Quietime \- Peace On Earth](https://open.spotify.com/album/5cVsi9sRldx6HLChLxTZcz) | 3:47 | 2021-12-22 |  |
+| [Angels From The Realms Of Glory](https://open.spotify.com/track/3J7ntRLan3qorcv5kw8dYy) | [Eric Nordhoff](https://open.spotify.com/artist/6egf9BaYi17rYFHpsrELXd) | [Quietime \- Peace On Earth](https://open.spotify.com/album/2KgQVNIrY94KosYdVPhZF8) | 3:47 | 2023-12-19 |  |
+| [Angels From The Realms Of Glory](https://open.spotify.com/track/4xKthebrMWpRlfCdqGjfZk) | [Eric Nordhoff](https://open.spotify.com/artist/6egf9BaYi17rYFHpsrELXd) | [Quietime \- Peace On Earth](https://open.spotify.com/album/5cVsi9sRldx6HLChLxTZcz) | 3:47 | 2021-12-22 | 2023-12-23 |
 | [Auld Lang Syne](https://open.spotify.com/track/05JzXrAMXWpNmvQgsxxYwB) | [Elsa Ekelöf](https://open.spotify.com/artist/4inKxBzHNdu9I7yp2iY8e8) | [Twinkle, Twinkle, Little Star](https://open.spotify.com/album/4kn6vjaZBrC25WwrizfxrH) | 1:17 | 2022-12-23 |  |
 | [Auld Lang Syne \- Piano](https://open.spotify.com/track/32Y4DwN03IaodKSleTKXHR) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [we're home for Christmas \(Piano\)](https://open.spotify.com/album/0ne2v4nlcqGxX9BdEONxcY) | 2:26 | 2022-10-14 | 2023-09-15 |
 | [Ave Maria](https://open.spotify.com/track/1igkY9A1HcPCcvq3PIMReq) | [Jonta Lei](https://open.spotify.com/artist/5bRtL6wZclxJEQiqsR9lNC) | [Religous Harp](https://open.spotify.com/album/4ThFe1arVGMNwLQTNONbWn) | 3:01 | 2021-12-22 |  |

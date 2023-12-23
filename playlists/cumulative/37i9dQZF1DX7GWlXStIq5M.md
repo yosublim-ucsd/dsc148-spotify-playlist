@@ -4,7 +4,7 @@
 
 > Os hits já consagrados e os novos nomes da mistura pop dividindo o mesmo palco!  / Foto: Ana Castela, Ludmilla
 
-660 songs - 1 day 9 hr 22 min
+663 songs - 1 day 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Carnificina](https://open.spotify.com/track/6V6fcreiDPSsxTlVKveaiI) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 2:20 | 2023-09-08 |  |
 | [Carta Aberta](https://open.spotify.com/track/69Q81hch5PAcKbqAXuFfej) | [WD](https://open.spotify.com/artist/0h1aO8j7tyQ45Ws8xnjcq5) | [Carta Aberta](https://open.spotify.com/album/19xqgrFltFQOFvEJi8yHVo) | 3:23 | 2023-10-13 | 2023-11-18 |
 | [Carta Branca](https://open.spotify.com/track/1ZpU1yLyBqrc45HOSFK9C1) | [Feyjão](https://open.spotify.com/artist/2tRjUL3itR7rBI8XrvJrCt), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z) | [Carta Branca](https://open.spotify.com/album/0Zu9p2cVWWhqbGspECnalU) | 3:41 | 2023-11-10 |  |
+| [Casa Vazia](https://open.spotify.com/track/1kk6OvG4d6ExWv1hEzoNVl) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [Casa Vazia](https://open.spotify.com/album/3aSlWYSZ0fynAkCI2rrEg5) | 2:48 | 2023-12-22 |  |
 | [CASALZÃO DA PORRA](https://open.spotify.com/track/0TwYstDiRvaqGEQA7jNhUj) | [Lary](https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX) | [CASALZÃO DA PORRA](https://open.spotify.com/album/2q6EXTOaMRoozRJAE19e76) | 2:10 | 2023-10-13 | 2023-12-02 |
 | [Casi Casi](https://open.spotify.com/track/7n15qubhDdwZjrySpHO1ma) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation: A Favela Love Story](https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL) | 2:13 | 2023-08-22 |  |
 | [Caso Perdido](https://open.spotify.com/track/11syf5T1UaTLXwyc9qtbbo) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [Caso Perdido](https://open.spotify.com/album/1Bh1BwozSOtx66aBUYSykv) | 3:19 | 2023-05-05 | 2023-07-15 |
@@ -510,6 +511,7 @@
 | [Remédio](https://open.spotify.com/track/4Y1SaY635z0kijjE26jD4Y) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [JOVEM](https://open.spotify.com/album/3DMgCHjSZYnwbPQfdK0Ybk) | 2:40 | 2023-06-16 | 2023-07-08 |
 | [Repara](https://open.spotify.com/track/3KSBVHgj03KdPFQ4SMIizC) | [Maielle](https://open.spotify.com/artist/2vGvYgHGWdoDDdtplJlMjX) | [Repara](https://open.spotify.com/album/60lO1rsH63Nx57oB1uwfnk) | 2:34 | 2023-02-14 | 2023-04-01 |
 | [Reunião Dos Cria](https://open.spotify.com/track/3Kk5YDf8pTK4TwQyWkBex5) | [A Banca Records](https://open.spotify.com/artist/0Do6bAo2kcVLp7ekzypskJ), [Miatã](https://open.spotify.com/artist/40OkyQ4ZTOm2VzUBgsRfRG), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX) | [Reunião Dos Cria](https://open.spotify.com/album/1isnAVgrx4jWF2O66HzDl5) | 3:48 | 2020-10-20 | 2022-07-27 |
+| [Revoada](https://open.spotify.com/track/50CnsLVWEypahw6Wze00qL) | [POLLO](https://open.spotify.com/artist/6TgVQhHx0BWvzdEQxRnr23), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Revoada](https://open.spotify.com/album/7jXwwkRfr3INN7q4IPWEDK) | 3:27 | 2023-12-22 |  |
 | [REVOLTA](https://open.spotify.com/track/0NmYnUM5xHZ9HbHU94sxca) | [Jenni Mosello](https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [REVOLTA](https://open.spotify.com/album/6mRGVZwI1KEc5QdGpu0VQd) | 2:41 | 2023-05-26 | 2023-06-17 |
 | [Righteous](https://open.spotify.com/track/5dOxHHMOFAbG3VH23t0xNm) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 4:02 | 2020-10-20 | 2023-02-15 |
 | [Rockstar](https://open.spotify.com/track/2pkiYFWrja3oTlTwDaTypd) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl), [Neves](https://open.spotify.com/artist/3mRXxBNJb2YDNuSAGEl3Mw), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Rockstar](https://open.spotify.com/album/14gbq2k3r9KpmOGsuRLFmc) | 4:14 | 2020-10-20 | 2022-07-29 |
@@ -543,6 +545,7 @@
 | [Seu Fim](https://open.spotify.com/track/4UVSNgaHHZzV756hOpIcXP) | [Cleo](https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx), [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs) | [DARK POP](https://open.spotify.com/album/3gAv7X3dUDv2k1wqDf68qQ) | 2:30 | 2023-10-13 | 2023-11-11 |
 | [Seu Fim](https://open.spotify.com/track/61GqCDHvztHQKJzPdmHIml) | [Cleo](https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx), [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs) | [DARK POP](https://open.spotify.com/album/444h5b7o8GPlRWvO7gMjTV) | 2:30 | 2023-10-13 | 2023-10-15 |
 | [seu lugar](https://open.spotify.com/track/1jxrqBqYCtnutz4Ug0i8kf) | [Milla](https://open.spotify.com/artist/1IATW2PPpsnKIEIaDY5CvT) | [seu lugar](https://open.spotify.com/album/4BCqyrF00Xo2VJc7R50qiw) | 3:21 | 2023-02-14 | 2023-03-25 |
+| [Sexo, poder e arte](https://open.spotify.com/track/7tgRx0uRO64z0Zppg9BsCy) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8) | [Sexo, poder e arte](https://open.spotify.com/album/0YrSJbs6AO5Qj8vKCqsqrt) | 4:32 | 2023-12-22 |  |
 | [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 | 2020-10-20 | 2023-02-15 |
 | [Sikatrizes](https://open.spotify.com/track/637kGZJZhh7MQ37lXkgJgi) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Sikatrizes](https://open.spotify.com/album/4Aul6VilD9IqNuM93mc8ZR) | 3:15 | 2020-10-20 | 2022-07-29 |
 | [sinto muito](https://open.spotify.com/track/1ZNk7XzTYha1MgKl4K3kJw) | [BENJAMÍN](https://open.spotify.com/artist/3QvQ9sZG5xZHu4foUWiK5P) | [sinto muito](https://open.spotify.com/album/5zTaa6tUbzf19VztvJerVq) | 2:53 | 2023-11-03 | 2023-12-09 |

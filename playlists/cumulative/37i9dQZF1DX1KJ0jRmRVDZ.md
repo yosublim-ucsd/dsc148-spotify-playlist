@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-940 songs - 2 day 5 hr 32 min
+941 songs - 2 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Bottoms call](https://open.spotify.com/track/2rqlkkVdR9j1HkSKafirod) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [FIZZY POP SYNDROME](https://open.spotify.com/album/60JxpX2186DBSffWf0HDpk) | 3:30 | 2022-06-16 | 2022-06-22 |
 | [Boukenroku](https://open.spotify.com/track/2RUeYsbLz7BUVyO6Q3Ijx5) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Boukenroku](https://open.spotify.com/album/1CAQgaomrrnWrQ7FvnjeqL) | 3:47 | 2023-08-15 | 2023-09-20 |
 | [Bubble \(feat\. Uta\)](https://open.spotify.com/track/13EtMetztrji5zrka6Uzd3) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf), [Uta](https://open.spotify.com/artist/4pkAI4ZpW8IhBWEEbjHq81) | [Bubble \(feat\. Uta\)](https://open.spotify.com/album/2GvuX2gJEmPYiWpn2eAzfB) | 3:46 | 2022-06-16 | 2023-02-07 |
-| [Buriki No Dance](https://open.spotify.com/track/5m3EBf4cWHWxzjBTCG1gHx) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Utattemita Album](https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf) | 3:18 | 2023-12-12 |  |
+| [Buriki No Dance](https://open.spotify.com/track/5m3EBf4cWHWxzjBTCG1gHx) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Utattemita Album](https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf) | 3:18 | 2023-12-12 | 2023-12-23 |
 | [Buriki No Dance](https://open.spotify.com/track/1tf23ctEJtmWpCoMwVwFLF) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Buriki No Dance](https://open.spotify.com/album/434XGVb26I50AvHTKdwAYk) | 3:19 | 2023-11-29 | 2023-12-16 |
 | [BURU](https://open.spotify.com/track/1pJPzYGmUJF92NRelGfyIn) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [Buru](https://open.spotify.com/album/0hXRW6dvSRdOt2OHcQOjh6) | 4:07 | 2022-06-09 | 2022-06-12 |
 | [Butterfly](https://open.spotify.com/track/1kJGuGXY4YUKD2I5UpnzZ6) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32) | [Butterfly](https://open.spotify.com/album/4JZgEloxGusyotoEfxPgaO) | 3:21 | 2022-10-25 | 2022-11-16 |
@@ -323,6 +323,7 @@
 | [Under Heroine](https://open.spotify.com/track/2zBVf4UksFsBShmvdFyPRM) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [Under Heroine](https://open.spotify.com/album/2KXssCdlyzlErLV5SPANHs) | 2:48 | 2023-04-25 | 2023-05-17 |
 | [Under Kids](https://open.spotify.com/track/4i5Dof4iQMmb9pM2EjPXfr) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [Under Kids](https://open.spotify.com/album/6JWQwDPRMxFEfb1oXvUrSh) | 3:26 | 2022-08-04 | 2022-09-09 |
 | [Unique](https://open.spotify.com/track/3DyaoTV9RUix1P7jKomn2d) | [WON](https://open.spotify.com/artist/1w5kguKKWpMp9eoEVUQrbf) | [Unique](https://open.spotify.com/album/38p2AoETPhydnxMHd7wkMl) | 4:20 | 2022-06-16 | 2022-06-18 |
+| [unravel](https://open.spotify.com/track/0Cez33GqDU7Pw5rqOVUPpU) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Utattemita Album](https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf) | 3:58 | 2023-12-22 |  |
 | [Untouchable](https://open.spotify.com/track/060Xp31LRG4Ob8yy700GMG) | [超学生](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Untouchable](https://open.spotify.com/album/1UDryR2OAvsKnKmD15Nfcv) | 3:15 | 2022-06-28 | 2022-07-08 |
 | [Villain](https://open.spotify.com/track/1fQMilh0Zj2cPUjvBpVmWm) | [Empty old City](https://open.spotify.com/artist/3RvUqTyR1WwQzNaGuBKnCY) | [Villain](https://open.spotify.com/album/6DpOA8kkxXT7a2HgXPrzHH) | 4:03 | 2022-07-12 | 2022-07-27 |
 | [Virtual Castle](https://open.spotify.com/track/2iz30S6Pm83GnazDzniSYR) | [Dios](https://open.spotify.com/artist/6dPVBimWWkHAzbOcfOmOYu) | [Virtual Castle](https://open.spotify.com/album/6hs0jB18KMTOQ3P7OcNb3T) | 3:36 | 2022-06-21 | 2022-07-27 |

@@ -2,9 +2,9 @@
 
 ### [Chill Tracks](https://open.spotify.com/playlist/37i9dQZF1DX6VdMW310YC7)
 
-> Música <a href="spotify:genre:edm\_dance">dance</a> suave.
+> Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,548 songs - 4 day 10 hr 36 min
+1,549 songs - 4 day 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [Brainsugar](https://open.spotify.com/track/4ptzkAIjg1PxArxTGo9mBG) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Brainsugar](https://open.spotify.com/album/2kywoxchFPj8Xa5odjG4GV) | 4:24 | 2020-05-18 | 2020-07-03 |
 | [Brand](https://open.spotify.com/track/6cLlBaaZIZZ7XvnsLYar8c) | [Ghasper](https://open.spotify.com/artist/0FyLoJJdvkCwTpgHt0un3K) | [Brand](https://open.spotify.com/album/4I2gchc5rMJlmWYqzLsZbC) | 4:06 | 2020-05-18 | 2020-07-03 |
 | [Brand New Day](https://open.spotify.com/track/0aBKKHRHtNFfTsF02qcqGM) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Aviino](https://open.spotify.com/artist/6poGVkPdF42Kfchhw1cu0J), [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Brand New Day](https://open.spotify.com/album/20a92TYYR6TOdkTqpF4HEK) | 3:09 | 2020-05-22 | 2020-10-09 |
-| [Brave](https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Brave](https://open.spotify.com/album/4KRRm0aGMm3lTCtMhoDPmk) | 3:50 | 2023-07-07 |  |
+| [Brave](https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Brave](https://open.spotify.com/album/4KRRm0aGMm3lTCtMhoDPmk) | 3:50 | 2023-07-07 | 2023-12-23 |
 | [Brazilian Soul \(feat\. Sofi Tukker\) \- Gilligan Moss Remix](https://open.spotify.com/track/2R3GqU7JBAscpMIjFL3uzC) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [Brazilian Soul \(feat\. Sofi Tukker\) \[Remixes\]](https://open.spotify.com/album/2OTIyP1zBOinX4qEj6x3Qa) | 5:00 | 2020-03-20 | 2022-12-29 |
 | [Break Open Colour](https://open.spotify.com/track/0IoVnQAJTWNSD1qddEgrJH) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh) | [Don't Look Back](https://open.spotify.com/album/6e295vU5RvRKECmI5p8ZNm) | 4:36 | 2022-03-11 | 2022-07-29 |
 | [Breaking Apart](https://open.spotify.com/track/6QSgJaGAs7EhyCXTYehkZd) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Breaking Apart](https://open.spotify.com/album/7cRUi8PAJDgwxbe0TKZlLp) | 4:35 | 2023-05-05 |  |
@@ -434,6 +434,7 @@
 | [Faxing Berlin](https://open.spotify.com/track/2xFnqwhg3eY69bM6M7kVbv) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Random Album Title](https://open.spotify.com/album/26OQwhLRLkFpFp3OJ873w7) | 8:41 | 2020-05-22 | 2020-07-03 |
 | [Feel](https://open.spotify.com/track/5o5N0Mdh10WHKeQyUD93tU) | [Sizzle Bird](https://open.spotify.com/artist/6HL3uLHjsLddvoSXVGDfbQ) | [Feel](https://open.spotify.com/album/3T6Ap9r2qjJFSf5ODg1RB0) | 3:01 | 2020-05-18 | 2020-07-18 |
 | [Feel](https://open.spotify.com/track/4MBi2Nry64OPYJQXFL5Vqa) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Feel EP](https://open.spotify.com/album/64Uoup86wYHFgyjE5Nxoxx) | 9:12 | 2021-08-06 | 2022-04-21 |
+| [Feel Again \- anamē Remix](https://open.spotify.com/track/5PNBQvJZ8psgufkJMnthTN) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi) | [Feel Again \(Remixes\)](https://open.spotify.com/album/4JDUbnbF8WAebdHNWTdDID) | 4:44 | 2023-12-22 |  |
 | [Feel Good](https://open.spotify.com/track/3NMFWhIDAdDGX3xmXOxHyo) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Feel Good](https://open.spotify.com/album/7bV4wxsjlnAq7hJ4y4MTQm) | 3:58 | 2020-07-18 | 2020-10-09 |
 | [Feel It Still \- Medasin Remix](https://open.spotify.com/track/4m6ObZmZ7wnyrKtmLvlyVE) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Feel It Still \(Medasin Remix\)](https://open.spotify.com/album/4zeRHgIHK8iRQ7vs3t1BJF) | 3:14 | 2020-05-18 | 2020-07-03 |
 | [Feel It Too](https://open.spotify.com/track/2orNXSkyIRgWWAVHRjjchs) | [RONA.](https://open.spotify.com/artist/5RCdebItgr1WsBoXoGgPb6) | [Closure](https://open.spotify.com/album/2tQMlxXnIuH9bdnytpKZCz) | 4:53 | 2022-07-01 | 2022-12-29 |

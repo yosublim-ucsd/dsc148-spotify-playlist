@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > Quand R&B francophone rime avec douceur 🍯\. Photo : Yamê
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,350 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,395 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 49 | [Trop parfait](https://open.spotify.com/track/2c45x4aZmQRPUmRgB0UD6I) | [Margane](https://open.spotify.com/artist/13X7g0W88sLebzmzGWaSfb) | [Trop parfait](https://open.spotify.com/album/2urrKhxLyCvLgCcw2n8qta) | 3:06 |
 | 50 | [Bijoux](https://open.spotify.com/track/1yCn9NNBPCJRud3aE5su7d) | [Jaïa Rose](https://open.spotify.com/artist/3uwTDwvi4L9Zo18M5oiZ3Y) | [Bijoux](https://open.spotify.com/album/5u6lSDCLRY04TFacwR6fkI) | 3:05 |
 
-Snapshot ID: `MCxhYWQ2Y2VjMjA4ZTE5NTEwMjM1OTM5YmM2YzU4NzMxZTk0YmU4ZmYy`
+Snapshot ID: `MCxiNmVmNWQ5YjVmNGMxZjhhYTUzNWY3MDM3ZDVkOGFmMTczZmI3MWY5`

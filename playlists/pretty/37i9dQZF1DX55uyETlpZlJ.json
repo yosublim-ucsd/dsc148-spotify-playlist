@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : All OK",
-  "num_followers": 23152,
+  "num_followers": 23154,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjhlNjY1YWEzNTgwYzk1ODQzNWVjMTkzYjg4ODE0Yjc5MzAwZWY2",
+  "snapshot_id": "MCxmNzliOGQwMjY2YjgyZWE3MDg4NTg4N2RjMzA2OTM4MWE1ZDkyODgx",
   "tracks": [
     {
       "added_at": "2023-10-25 08:03:09",
@@ -89,6 +89,26 @@
       "url": "https://open.spotify.com/track/4pzOZiFpauKynFuOfjs94g"
     },
     {
+      "added_at": "2023-12-22 10:26:20",
+      "album": {
+        "name": "Marethiruve",
+        "url": "https://open.spotify.com/album/1IhNHGpsPbzBwd6kYv2XwN"
+      },
+      "artists": [
+        {
+          "name": "Ahamm",
+          "url": "https://open.spotify.com/artist/3FIOkx3f9C6UuJJunHucpC"
+        },
+        {
+          "name": "Bassmnt",
+          "url": "https://open.spotify.com/artist/1ve81U9YJgA5fdxKKjo2o1"
+        }
+      ],
+      "duration_ms": 257142,
+      "name": "Marethiruve",
+      "url": "https://open.spotify.com/track/5fIu0KByVpki8ueCk0Nig5"
+    },
+    {
       "added_at": "2023-11-20 12:24:27",
       "album": {
         "name": "Pataki Cypher",
@@ -127,6 +147,30 @@
       "duration_ms": 129476,
       "name": "Karedaaga Ninna",
       "url": "https://open.spotify.com/track/0pXdz1EvBsUGXSfF2KfZyj"
+    },
+    {
+      "added_at": "2023-12-22 10:27:35",
+      "album": {
+        "name": "Enagide Nanna Hrudaya",
+        "url": "https://open.spotify.com/album/4L6aaV98588xc3nFT3IUaK"
+      },
+      "artists": [
+        {
+          "name": "Achal Ubaradka",
+          "url": "https://open.spotify.com/artist/1XWwYrtVLePDjckQP7lzgS"
+        },
+        {
+          "name": "Sharath KN",
+          "url": "https://open.spotify.com/artist/6SCsU98zCY9emzu4d8bkgb"
+        },
+        {
+          "name": "Shwetha Guru",
+          "url": "https://open.spotify.com/artist/6BindSVkyS6WqY85pGrqb1"
+        }
+      ],
+      "duration_ms": 354860,
+      "name": "Enagide Nanna Hrudaya",
+      "url": "https://open.spotify.com/track/4KEF69Otx6MOJOy6QYKQDz"
     },
     {
       "added_at": "2023-12-07 05:37:00",
@@ -1919,46 +1963,6 @@
       "duration_ms": 223105,
       "name": "Don't Worry 2",
       "url": "https://open.spotify.com/track/6RN5sglfTOy9rPZUvH2tnR"
-    },
-    {
-      "added_at": "2023-04-19 13:14:03",
-      "album": {
-        "name": "Stacks",
-        "url": "https://open.spotify.com/album/5x7UNnk2TK0ngePIEkXcE5"
-      },
-      "artists": [
-        {
-          "name": "Dheemusix",
-          "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
-        },
-        {
-          "name": "Swastik",
-          "url": "https://open.spotify.com/artist/4zrLFeeE507k2iJJMs7koZ"
-        }
-      ],
-      "duration_ms": 166744,
-      "name": "Stacks",
-      "url": "https://open.spotify.com/track/3j8Okv8qvgtNgTGQ7MGplv"
-    },
-    {
-      "added_at": "2023-04-06 13:21:33",
-      "album": {
-        "name": "Ninna Maatu",
-        "url": "https://open.spotify.com/album/3wx0ENl8ddRFBiHdmLDOIX"
-      },
-      "artists": [
-        {
-          "name": "Dheemusix",
-          "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
-        },
-        {
-          "name": "Genius 7.0",
-          "url": "https://open.spotify.com/artist/2nUMj3rQJbYwn47xH0UYnV"
-        }
-      ],
-      "duration_ms": 226997,
-      "name": "Ninna Maatu",
-      "url": "https://open.spotify.com/track/3ZYUDXKEHiZt165iWMHoiT"
     },
     {
       "added_at": "2023-03-28 05:06:49",

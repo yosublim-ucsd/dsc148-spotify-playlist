@@ -4,7 +4,7 @@
 
 > Grind day motivation
 
-405 songs - 19 hr 41 min
+406 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [I Pray](https://open.spotify.com/track/1Xlna9IA6XldZqXOjSpAcv) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [I Pray](https://open.spotify.com/album/2gfJWeRGqTnAxIft7WB8Ow) | 2:45 | 2023-11-08 |  |
 | [Icon](https://open.spotify.com/track/7F1PAapg2rEEHl5SOkOxVZ) | [Salle](https://open.spotify.com/artist/3grHvNkL8268yY1aAIxiLf) | [Icon](https://open.spotify.com/album/4FK2UosgBV0LytX5ZPNbEp) | 2:20 | 2023-07-20 | 2023-09-22 |
 | [Id.ME](https://open.spotify.com/track/0fwED7GZpOtH5wiYh9kIqU) | [Rybeena](https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X) | [Id.ME](https://open.spotify.com/album/0yNzKdXPcLLAZxYMHPcIOC) | 2:49 | 2023-12-22 |  |
+| [IDK \(feat\. Zlatan\)](https://open.spotify.com/track/5KV5UXd1uNZZafWTudrVft) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [S2](https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM) | 3:00 | 2023-12-22 |  |
 | [IDme \(owo to po leti\)](https://open.spotify.com/track/6tJxcQmhOM9jY744gFKWdY) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [IDme \(owo to po leti\)](https://open.spotify.com/album/3oohgPgt3Cj2hhsRUZRpvi) | 2:25 | 2023-09-14 | 2023-09-22 |
 | [IF AT ALL](https://open.spotify.com/track/1tgt9Xud4ShwiJP4UExdRM) | [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB) | [IF AT ALL](https://open.spotify.com/album/2z46rTAuklQeMKgH1x7QiD) | 2:49 | 2023-08-10 | 2023-08-18 |
 | [If Money No Dey \(Imnd\)](https://open.spotify.com/track/0gdEkhZgM1w6OKTAJ6PO0m) | [Dj Flowskillz](https://open.spotify.com/artist/5M7nyj4KeFJbiKinzAfqF9), [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [If Money No Dey \(Imnd\)](https://open.spotify.com/album/62u4Fe8LEjEqcROkzzL4mY) | 3:02 | 2022-01-20 | 2022-11-05 |
@@ -370,7 +371,7 @@
 | [Time No Dey](https://open.spotify.com/track/49I4qCmzTtk4Wp0DH5pEDC) | [May D](https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5), [Rudeboy](https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT) | [Time No Dey](https://open.spotify.com/album/2IaU9spZ5AhbFCnyQXQxKo) | 3:10 | 2023-12-15 |  |
 | [Timoti](https://open.spotify.com/track/1HG9yS1bhOSsrUoHdUEnbW) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 2:19 | 2022-08-05 | 2023-04-28 |
 | [Tomorrow](https://open.spotify.com/track/0UvMp8sLgiaeI1q5dAWM2x) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx) | [Tomorrow](https://open.spotify.com/album/2sydbZbc7bIHVVk022HevT) | 2:55 | 2023-02-10 | 2023-03-11 |
-| [Trabaye](https://open.spotify.com/track/3q1cSJlfVFGfE7sMWPYJGm) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Ololade Asake](https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4) | 2:51 | 2022-02-17 |  |
+| [Trabaye](https://open.spotify.com/track/3q1cSJlfVFGfE7sMWPYJGm) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Ololade Asake](https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4) | 2:51 | 2022-02-17 | 2023-12-23 |
 | [Traboski](https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Traboski](https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN) | 2:35 | 2022-11-28 |  |
 | [Trouble](https://open.spotify.com/track/7LqLiIkXAi9PtrGvIxQDhz) | [Vanilla](https://open.spotify.com/artist/5QmtlsyUEqCSTuqrOl6L11), [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Trouble](https://open.spotify.com/album/56WP5QmZSLRcvidBV6SsjD) | 2:55 | 2023-07-28 | 2023-08-04 |
 | [Try](https://open.spotify.com/track/5p8e2CxX9frZepKoc8E9Z4) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Try](https://open.spotify.com/album/5dfCER3jaE7kbvSZNUOnCS) | 2:13 | 2022-02-17 |  |

@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:6qxpnaukVayrQn6ViNvu9I">BigXthaPlug</a>
 
-1,474 songs - 2 day 18 hr 30 min
+1,475 songs - 2 day 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Blood, Sweat & Tears \(feat\. G Herbo\)](https://open.spotify.com/track/3ha7OXa3RZ4OFwltnd3QGK) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [FACE](https://open.spotify.com/album/4cy5H3elTd4senApZFBA1g) | 2:59 | 2022-01-28 | 2022-02-26 |
 | [BLOW DIS STRAIN](https://open.spotify.com/track/316EmqluW1Osj2QIYY2I5c) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [BLOW DIS STRAIN](https://open.spotify.com/album/23ZjFYiiDizpxwmirTTbW9) | 2:03 | 2023-08-04 | 2023-08-19 |
 | [Blow It \(feat\. Kali\)](https://open.spotify.com/track/6dGrg1FaSIuplGe01CkL2I) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Blow It \(feat\. Kali\)](https://open.spotify.com/album/5EmxmoOuOzwi2sMH6kLiP9) | 2:43 | 2022-12-16 | 2023-02-11 |
+| [Blue Devils](https://open.spotify.com/track/0RdezItMSxU1nA9lk8E1lG) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c) | [Blue Devils](https://open.spotify.com/album/0g4VdNNkD4sweCZEPcmAXy) | 2:09 | 2023-12-22 |  |
 | [BMF \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/121wZiInkf2n3mjvh2b6TQ) | [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [BMF \(feat\. Icewear Vezzo\)](https://open.spotify.com/album/3epYdUTW4wgCIxRDAYKItt) | 3:01 | 2022-05-06 | 2022-07-23 |
 | [Body](https://open.spotify.com/track/5t8FBhJKbpBCskmOaMRxQW) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Body](https://open.spotify.com/album/3wTOyUsrPYyyByd6kMkZRn) | 2:47 | 2023-09-22 | 2023-11-04 |
 | [Body & A Face](https://open.spotify.com/track/1P4mE8Lw6qTm85UGhlbwgh) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [Body & A Face](https://open.spotify.com/album/0CXroMh9bBWpGVFyqstJP7) | 2:39 | 2022-09-09 | 2022-11-05 |
@@ -212,7 +213,7 @@
 | [BRRR B](https://open.spotify.com/track/0h4RTOJWacHhYBXBzPbL2q) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Brezden](https://open.spotify.com/artist/7gQ6DUFY8aLh47bUSia5Nt) | [BRRR B](https://open.spotify.com/album/1pSmiBc3J2Ty2HKvn3QGPq) | 3:24 | 2023-09-15 | 2023-10-21 |
 | [BSU \(Shut Up\)](https://open.spotify.com/track/1Copp20ewBPoetwaP3XVDr) | [YungManny](https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg) | [BSU \(Shut Up\)](https://open.spotify.com/album/5JJb31BBbCqMk1NScx7bw3) | 2:41 | 2022-03-25 | 2022-05-07 |
 | [Bubba Man](https://open.spotify.com/track/03Z1yhSewsReSk6a5GBZOh) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Welcome To Bubba Land](https://open.spotify.com/album/2gxWI53PddwWddJQyrII3h) | 2:28 | 2023-09-08 | 2023-12-02 |
-| [Bulletproof \(feat\. NLE Choppa\)](https://open.spotify.com/track/7gVo4I0bZPEGwgdF3SNkK3) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Frozone](https://open.spotify.com/album/2HZ1eEAW85k2vfpqvDoquR) | 2:49 | 2023-12-01 |  |
+| [Bulletproof \(feat\. NLE Choppa\)](https://open.spotify.com/track/7gVo4I0bZPEGwgdF3SNkK3) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Frozone](https://open.spotify.com/album/2HZ1eEAW85k2vfpqvDoquR) | 3:04 | 2023-12-01 |  |
 | [Bullseye 2 \(with Future\)](https://open.spotify.com/track/1glNxnW018oGrJoYRHQV9Q) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Public Housing](https://open.spotify.com/album/3H7rkiYB6yjsuMZbxApOCn) | 2:37 | 2022-08-26 | 2022-11-19 |
 | [Burning Up \(feat\. The Kid LAROI\)](https://open.spotify.com/track/5sB27YGIsK9zBi0uVfjOek) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Who is Nardo Wick?? \(Deluxe\)](https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi) | 2:08 | 2022-07-22 | 2022-10-15 |
 | [Bussin](https://open.spotify.com/track/6RBzypSp0OMn2X85uUyb2P) | [Hd4president](https://open.spotify.com/artist/1IRUBjX6bQWnwupD48ZRgc) | [Find My Way](https://open.spotify.com/album/6Q3RWVPWVd2m1ljjyQO4Mc) | 2:04 | 2022-04-22 | 2022-06-18 |

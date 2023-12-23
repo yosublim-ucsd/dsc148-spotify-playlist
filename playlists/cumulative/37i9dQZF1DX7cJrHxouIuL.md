@@ -4,7 +4,7 @@
 
 > Kindie tunes for the whole family.
 
-201 songs - 9 hr 39 min
+203 songs - 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Best Friend](https://open.spotify.com/track/5OJKJMK5kz4mvBTYlncnLo) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Camp Lisa](https://open.spotify.com/album/4ifCn1MLPTtbVYbbEGWOeS) | 2:44 | 2022-04-15 | 2023-04-29 |
 | [Best Friends](https://open.spotify.com/track/3TAVGNdxMAA9k0Sc3i3mXD) | [Blake Wonders](https://open.spotify.com/artist/1EeQbJWCTnmZ5Np6QBEWxu) | [THE REALLY FUN ALBUM!](https://open.spotify.com/album/4nHXMTt1wbxafkzK2DOyxE) | 1:12 | 2022-04-15 |  |
 | [Best Friends](https://open.spotify.com/track/5IxsgalTbvteMzig2nMLP2) | [Blake Wonders](https://open.spotify.com/artist/1EeQbJWCTnmZ5Np6QBEWxu) | [THE REALLY FUN ALBUM!](https://open.spotify.com/album/2y6AcbtwLDtC9EIBZyqZyD) | 1:12 | 2022-04-15 | 2022-07-29 |
-| [Better](https://open.spotify.com/track/4lMSGgltArBFVHrDr8ukDu) | [Tim Kubart](https://open.spotify.com/artist/1mmtvYjQNZ4rNL20mT1wDp), [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Home](https://open.spotify.com/album/2H0XQvwCPn5Lsw105oQUUK) | 2:40 | 2022-04-15 |  |
+| [Better](https://open.spotify.com/track/4numkOpppqV6z3FHA6bZrm) | [Tim Kubart](https://open.spotify.com/artist/1mmtvYjQNZ4rNL20mT1wDp), [Laurie Berkner](https://open.spotify.com/artist/09tp8mo8yb7UVbmmgWbsbi) | [Home](https://open.spotify.com/album/0jZJyRsNYak1JkUjHWj5ou) | 2:40 | 2023-09-08 |  |
+| [Better](https://open.spotify.com/track/4lMSGgltArBFVHrDr8ukDu) | [Tim Kubart](https://open.spotify.com/artist/1mmtvYjQNZ4rNL20mT1wDp), [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Home](https://open.spotify.com/album/2H0XQvwCPn5Lsw105oQUUK) | 2:40 | 2022-04-15 | 2023-12-23 |
 | [Bicycle](https://open.spotify.com/track/4gHHytUVWdfPumbJA9AizA) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Mind of My Own](https://open.spotify.com/album/1vVu1xyubkJrslVtb1UHnk) | 2:03 | 2022-04-15 |  |
 | [Big Shiny Spoons](https://open.spotify.com/track/6s751N0bM6CWicDNvKOE6V) | [Will's Jams](https://open.spotify.com/artist/0bLuwS5s9quZsZYfBt3xdm) | [Big Shiny Spoons](https://open.spotify.com/album/5TiIZpMPmIfKO0YczBTg16) | 3:27 | 2022-04-15 |  |
 | [Bird Song](https://open.spotify.com/track/5LOGVDV4Vixiq9d9penmpe) | [Pete Moss](https://open.spotify.com/artist/6YvISV7SjqD7n57pJTEfqX) | [Birds Rock](https://open.spotify.com/album/4WS4TO1KO4rqljGMeNM7EG) | 2:10 | 2022-04-15 |  |
@@ -31,7 +32,8 @@
 | [Box of Crayons](https://open.spotify.com/track/2NmMUfN5gISa6XH7phfshB) | [The Pop Ups](https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw) | [Radio Jungle](https://open.spotify.com/album/4acbURob7h5tgqZOgj1NCT) | 4:40 | 2022-04-15 | 2022-07-29 |
 | [Brand New Day](https://open.spotify.com/track/4cBPErdOZb1skrZDRX2HIS) | [Erica Rabner](https://open.spotify.com/artist/3u7iISrtnnqsAGE8gIovMg) | [We Got This](https://open.spotify.com/album/3muDxQozNwlTlj4lMbPiSq) | 2:42 | 2022-04-15 |  |
 | [Brave Like a Lion](https://open.spotify.com/track/0sBepHNDp8pjGWHlb12gCM) | [Claudia Robin Gunn](https://open.spotify.com/artist/1Dnn2mwwu3QwyQjXJFqyZN) | [Sing for the Earth \- Little Wild Animals](https://open.spotify.com/album/6L8hxqN9Qs3vfnUgB7q2Dp) | 2:46 | 2022-12-09 |  |
-| [Breakfast Club](https://open.spotify.com/track/47TzTejrEjIGj30p9iAaDw) | [Tim Kubart](https://open.spotify.com/artist/1mmtvYjQNZ4rNL20mT1wDp), [Carly Ciarrocchi](https://open.spotify.com/artist/0L6dlPvmSXJ7pKkp7j03VC) | [Home](https://open.spotify.com/album/2H0XQvwCPn5Lsw105oQUUK) | 3:25 | 2022-04-15 |  |
+| [Breakfast Club](https://open.spotify.com/track/47TzTejrEjIGj30p9iAaDw) | [Tim Kubart](https://open.spotify.com/artist/1mmtvYjQNZ4rNL20mT1wDp), [Carly Ciarrocchi](https://open.spotify.com/artist/0L6dlPvmSXJ7pKkp7j03VC) | [Home](https://open.spotify.com/album/2H0XQvwCPn5Lsw105oQUUK) | 3:25 | 2022-04-15 | 2023-12-23 |
+| [Breakfast Club](https://open.spotify.com/track/5wMFdOpYoUboF8glDSSlZc) | [Tim Kubart](https://open.spotify.com/artist/1mmtvYjQNZ4rNL20mT1wDp), [Carly Ciarrocchi](https://open.spotify.com/artist/0L6dlPvmSXJ7pKkp7j03VC) | [Home](https://open.spotify.com/album/0jZJyRsNYak1JkUjHWj5ou) | 3:25 | 2023-09-08 |  |
 | [Breakfast Club \(feat\. Carly Ciarrocchi\)](https://open.spotify.com/track/0USrh6qGiJVR3gzSk0d4H5) | [Tim Kubart](https://open.spotify.com/artist/1mmtvYjQNZ4rNL20mT1wDp), [Carly Ciarrocchi](https://open.spotify.com/artist/0L6dlPvmSXJ7pKkp7j03VC) | [Home](https://open.spotify.com/album/7slt3qTeXAus3QW1tAqcqW) | 3:25 | 2022-04-15 | 2022-07-29 |
 | [Bumblebee \(Buzz Buzz\)](https://open.spotify.com/track/4F3ddWC6h5vgJKNih9v340) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Animal Songs](https://open.spotify.com/album/3dxdHE7M8flFgqlamTinsL) | 2:55 | 2022-10-11 | 2022-11-13 |
 | [Bumblebee \(Buzz Buzz\)](https://open.spotify.com/track/2PvU8jWUVbGiIQ9QsiHPQL) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Buzz Buzz](https://open.spotify.com/album/2qaGwjEcIgtQ2XgA3jOsaN) | 2:57 | 2022-04-15 |  |

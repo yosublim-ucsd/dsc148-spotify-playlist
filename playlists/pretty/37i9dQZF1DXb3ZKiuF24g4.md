@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZKiuF24g4.md) - [plain]
 
 > The perfect soundtrack for when you're having fun in the sun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,850 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,849 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZKiuF24g4.md) - [plain]
 | 31 | [The Tide Is High](https://open.spotify.com/track/1jLRap9S6KxWpzlxBqYh17) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Best Of Blondie](https://open.spotify.com/album/7mEjsBlRmfP63cH1gdPT6A) | 4:42 |
 | 32 | [Surfer Girl \(Stereo\)](https://open.spotify.com/track/0yQLW0FSYo8fye3FsMgAQU) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Surfer Girl \(Mono & Stereo\)](https://open.spotify.com/album/11HAwlOWpKxJVbGIxnZ3qI) | 2:28 |
 | 33 | [Walking On A Dream](https://open.spotify.com/track/0mBkoM8r7KAQzZij5swTUL) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream](https://open.spotify.com/album/04gYcIojJt78nYnN5oOrKt) | 3:18 |
-| 34 | [Sand + Imagination](https://open.spotify.com/track/7yfsc3m2EL2ZUPENKX1EE0) | [Tim Kubart](https://open.spotify.com/artist/1mmtvYjQNZ4rNL20mT1wDp) | [Building Blocks](https://open.spotify.com/album/7dQLT9UwXHYXUCAycMzNxz) | 2:53 |
+| 34 | [Sand + Imagination](https://open.spotify.com/track/4PYGLTb9OJOfWUmini8cw2) | [Tim Kubart](https://open.spotify.com/artist/1mmtvYjQNZ4rNL20mT1wDp) | [Building Blocks](https://open.spotify.com/album/33jHk8rzSY28IkVSXBTeou) | 2:53 |
 | 35 | [In the Summertime](https://open.spotify.com/track/2uzlv8PjqsVvF1DhEahyhy) | [Mungo Jerry](https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb) | [In the Summertime](https://open.spotify.com/album/17JTrT5dXyWYs0xmsnunp7) | 3:31 |
 | 36 | [Ridin' the Big Waves](https://open.spotify.com/track/4oGkikhxhR2gdrM3J7MQCW) | [Charity and the Jamband](https://open.spotify.com/artist/5YTYt0ir3CPgXGWTlfWdHT) | [Peanut Butter and JAM](https://open.spotify.com/album/0NjKamX0KpwHIwp27z0WJw) | 2:23 |
 | 37 | [Someday \- Remastered](https://open.spotify.com/track/6NcHJ23mLQKnVxQcOmT7JW) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [The Best Of Sugar Ray](https://open.spotify.com/album/2hjQQj7x2YipViOCw6UX1N) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3ZKiuF24g4.md) - [plain]
 | 49 | [Jamming](https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:31 |
 | 50 | [Coastal](https://open.spotify.com/track/22ejspKqayOvA7eCzUjFlk) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Hemingway's Whiskey](https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7) | 2:39 |
 
-Snapshot ID: `MCw4MTBmOWVlMTdkMzE4N2NlMDI1NTU1YmYxMTQ3YzdlMTRkZjYxMTZm`
+Snapshot ID: `MCxmN2VkNWQ4OGRkYjdiZmM5YWUwODU4ZWM3YjdmOTkwNTk2ZGQwNzA0`

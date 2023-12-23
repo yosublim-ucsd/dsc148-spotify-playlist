@@ -1,12 +1,12 @@
 {
   "description": "Afro, Caribbean & Latin sounds for that summer vibe",
-  "num_followers": 289160,
+  "num_followers": 289191,
   "original_name": "Summer Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWRhZDQ4Y2Q1YmRiNDU1YzdhYmVmYjFmZDE4MzViZjZjNDNjM2Zm",
+  "snapshot_id": "MCxiYjg3ODM0NWFlZDYzZDY2YzdmOWRjYTgxNjI1ZTBhYmQ1MTNjZmQ4",
   "tracks": [
     {
       "added_at": "2023-12-01 08:46:07",
@@ -367,22 +367,6 @@
     {
       "added_at": "2023-12-01 08:46:07",
       "album": {
-        "name": "Bayanni",
-        "url": "https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL"
-      },
-      "artists": [
-        {
-          "name": "Bayanni",
-          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
-        }
-      ],
-      "duration_ms": 159425,
-      "name": "Ta Ta Ta",
-      "url": "https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R"
-    },
-    {
-      "added_at": "2023-12-01 08:46:07",
-      "album": {
         "name": "UN DIA (ONE DAY) (Feat. Tainy)",
         "url": "https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 232253,
       "name": "UN DIA (ONE DAY) (Feat. Tainy)",
       "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
+    },
+    {
+      "added_at": "2023-12-01 08:46:07",
+      "album": {
+        "name": "Bayanni",
+        "url": "https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL"
+      },
+      "artists": [
+        {
+          "name": "Bayanni",
+          "url": "https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG"
+        }
+      ],
+      "duration_ms": 159425,
+      "name": "Ta Ta Ta",
+      "url": "https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R"
     },
     {
       "added_at": "2023-12-01 08:46:07",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-12-01 08:46:07",
       "album": {
+        "name": "Fleur froide (Donum Novae)",
+        "url": "https://open.spotify.com/album/1wfBteislDojq5pAYJufME"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 197240,
+      "name": "Le temps",
+      "url": "https://open.spotify.com/track/6yIh43XrY4Mc5xOxeagVhp"
+    },
+    {
+      "added_at": "2023-12-01 08:46:07",
+      "album": {
         "name": "Business (feat. Naza)",
         "url": "https://open.spotify.com/album/7xfhDDNz65EkMyzDOKfVOF"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 170435,
       "name": "Business (feat. Naza)",
       "url": "https://open.spotify.com/track/7ckhEsg0yYCINgl1HqjCUk"
-    },
-    {
-      "added_at": "2023-12-01 08:46:07",
-      "album": {
-        "name": "Fleur froide (Donum Novae)",
-        "url": "https://open.spotify.com/album/1wfBteislDojq5pAYJufME"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 197240,
-      "name": "Le temps",
-      "url": "https://open.spotify.com/track/6yIh43XrY4Mc5xOxeagVhp"
     },
     {
       "added_at": "2023-12-01 08:46:07",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2023-12-01 08:46:07",
       "album": {
-        "name": "Great Is He",
-        "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
-      },
-      "artists": [
-        {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 166801,
-      "name": "Aboboyaa (feat. Burna Boy)",
-      "url": "https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk"
-    },
-    {
-      "added_at": "2023-12-01 08:46:07",
-      "album": {
         "name": "SoundMan Vol. 1",
         "url": "https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY"
       },
@@ -1699,6 +1679,26 @@
     {
       "added_at": "2023-12-01 08:46:07",
       "album": {
+        "name": "Great Is He",
+        "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 166801,
+      "name": "Aboboyaa (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk"
+    },
+    {
+      "added_at": "2023-12-01 08:46:07",
+      "album": {
         "name": "Catch Me If You Can",
         "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
       },
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-12-01 08:46:07",
       "album": {
-        "name": "understand",
-        "url": "https://open.spotify.com/album/3gPckvEZDTVrXGXYMIh9VK"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "understand",
-      "url": "https://open.spotify.com/track/6teW0qt23aGnWhC0rSvtoz"
-    },
-    {
-      "added_at": "2023-12-01 08:46:07",
-      "album": {
         "name": "Touch It (Remix)",
         "url": "https://open.spotify.com/album/05SVPz2eBi0EPhYJMNjbRu"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 181973,
       "name": "Touch It - Remix",
       "url": "https://open.spotify.com/track/3DvzYWNYYrixsXTXV2t8pA"
+    },
+    {
+      "added_at": "2023-12-01 08:46:07",
+      "album": {
+        "name": "understand",
+        "url": "https://open.spotify.com/album/3gPckvEZDTVrXGXYMIh9VK"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "understand",
+      "url": "https://open.spotify.com/track/6teW0qt23aGnWhC0rSvtoz"
     },
     {
       "added_at": "2023-12-01 08:46:07",
@@ -1847,26 +1847,6 @@
     {
       "added_at": "2023-12-01 08:46:07",
       "album": {
-        "name": "Boy Alone (Deluxe)",
-        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 202012,
-      "name": "soso (with Ozuna)",
-      "url": "https://open.spotify.com/track/4xy8o1WzpHwEEg0IOiU7rJ"
-    },
-    {
-      "added_at": "2023-12-01 08:46:07",
-      "album": {
         "name": "Ijo (Laba Laba)",
         "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
       },
@@ -1899,6 +1879,42 @@
     {
       "added_at": "2023-12-01 08:46:07",
       "album": {
+        "name": "Boy Alone (Deluxe)",
+        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 202012,
+      "name": "soso (with Ozuna)",
+      "url": "https://open.spotify.com/track/4xy8o1WzpHwEEg0IOiU7rJ"
+    },
+    {
+      "added_at": "2023-12-01 08:46:07",
+      "album": {
+        "name": "GO",
+        "url": "https://open.spotify.com/album/517OJfoCoydqA83CeuEPpT"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 242442,
+      "name": "GO",
+      "url": "https://open.spotify.com/track/6xhxjkhzbf4kfDSCOEYgqZ"
+    },
+    {
+      "added_at": "2023-12-01 08:46:07",
+      "album": {
         "name": "Creed III: The Soundtrack",
         "url": "https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S"
       },
@@ -1919,22 +1935,6 @@
       "duration_ms": 150534,
       "name": "Ogogoro (with Bas & Ayra Starr)",
       "url": "https://open.spotify.com/track/72Cn4VmfpwAZk3NHVEplYx"
-    },
-    {
-      "added_at": "2023-12-01 08:46:07",
-      "album": {
-        "name": "GO",
-        "url": "https://open.spotify.com/album/517OJfoCoydqA83CeuEPpT"
-      },
-      "artists": [
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 242442,
-      "name": "GO",
-      "url": "https://open.spotify.com/track/6xhxjkhzbf4kfDSCOEYgqZ"
     },
     {
       "added_at": "2023-12-01 08:46:07",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2023-12-01 08:46:07",
       "album": {
-        "name": "Life Is Better Now",
-        "url": "https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo"
-      },
-      "artists": [
-        {
-          "name": "Nana Fofie",
-          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
-        }
-      ],
-      "duration_ms": 151899,
-      "name": "Life Is Better Now",
-      "url": "https://open.spotify.com/track/4MCEG0Krc0TjTFvNseZnen"
-    },
-    {
-      "added_at": "2023-12-01 08:46:07",
-      "album": {
         "name": "Cool Me Down (feat. Wizkid)",
         "url": "https://open.spotify.com/album/1fJOTO0iW1rGmQDb9wcrkM"
       },
@@ -2163,6 +2147,22 @@
       "duration_ms": 208758,
       "name": "Cool Me Down (feat. Wizkid)",
       "url": "https://open.spotify.com/track/5EVEYkrTzqm3Q4ZVXXL02n"
+    },
+    {
+      "added_at": "2023-12-01 08:46:07",
+      "album": {
+        "name": "Life Is Better Now",
+        "url": "https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo"
+      },
+      "artists": [
+        {
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+        }
+      ],
+      "duration_ms": 151899,
+      "name": "Life Is Better Now",
+      "url": "https://open.spotify.com/track/4MCEG0Krc0TjTFvNseZnen"
     },
     {
       "added_at": "2023-12-01 08:46:07",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2023-12-01 08:46:07",
       "album": {
-        "name": "Selling Dreams",
-        "url": "https://open.spotify.com/album/40jDnDL4AczO7ZgIIauyOL"
-      },
-      "artists": [
-        {
-          "name": "Nana Fofie",
-          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
-        }
-      ],
-      "duration_ms": 148283,
-      "name": "Selling Dreams",
-      "url": "https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR"
-    },
-    {
-      "added_at": "2023-12-01 08:46:07",
-      "album": {
         "name": "Truth Be Told",
         "url": "https://open.spotify.com/album/5YZ4AHdhfiAtn3bhoF6Igs"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 237480,
       "name": "Nice (feat. Blxst)",
       "url": "https://open.spotify.com/track/13ikSMNMyLUSqkzbqEHzdu"
+    },
+    {
+      "added_at": "2023-12-01 08:46:07",
+      "album": {
+        "name": "Selling Dreams",
+        "url": "https://open.spotify.com/album/40jDnDL4AczO7ZgIIauyOL"
+      },
+      "artists": [
+        {
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+        }
+      ],
+      "duration_ms": 148283,
+      "name": "Selling Dreams",
+      "url": "https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR"
     },
     {
       "added_at": "2023-12-01 08:46:07",
@@ -2803,26 +2803,6 @@
     {
       "added_at": "2023-12-01 08:46:07",
       "album": {
-        "name": "Irrational (feat. Adekunle Gold) [Remix]",
-        "url": "https://open.spotify.com/album/5NoFagwdwUNqVESnkP8c1m"
-      },
-      "artists": [
-        {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 230180,
-      "name": "Irrational (feat. Adekunle Gold) - Remix",
-      "url": "https://open.spotify.com/track/3QF4i1kw1Cs4KsIJvevZ3v"
-    },
-    {
-      "added_at": "2023-12-01 08:46:07",
-      "album": {
         "name": "Bluffin",
         "url": "https://open.spotify.com/album/1Sx36U16xq2fCmzUNrO47F"
       },
@@ -2839,6 +2819,26 @@
       "duration_ms": 221059,
       "name": "Bluffin",
       "url": "https://open.spotify.com/track/1nEaAtXcpSCc2iZdXm37vH"
+    },
+    {
+      "added_at": "2023-12-01 08:46:07",
+      "album": {
+        "name": "Irrational (feat. Adekunle Gold) [Remix]",
+        "url": "https://open.spotify.com/album/5NoFagwdwUNqVESnkP8c1m"
+      },
+      "artists": [
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 230180,
+      "name": "Irrational (feat. Adekunle Gold) - Remix",
+      "url": "https://open.spotify.com/track/3QF4i1kw1Cs4KsIJvevZ3v"
     },
     {
       "added_at": "2023-12-01 08:46:07",

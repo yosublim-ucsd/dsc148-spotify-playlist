@@ -993,6 +993,32 @@
     },
     {
       "album": {
+        "name": "Enagide Nanna Hrudaya",
+        "url": "https://open.spotify.com/album/4L6aaV98588xc3nFT3IUaK"
+      },
+      "artists": [
+        {
+          "name": "Achal Ubaradka",
+          "url": "https://open.spotify.com/artist/1XWwYrtVLePDjckQP7lzgS"
+        },
+        {
+          "name": "Sharath KN",
+          "url": "https://open.spotify.com/artist/6SCsU98zCY9emzu4d8bkgb"
+        },
+        {
+          "name": "Shwetha Guru",
+          "url": "https://open.spotify.com/artist/6BindSVkyS6WqY85pGrqb1"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354860,
+      "name": "Enagide Nanna Hrudaya",
+      "url": "https://open.spotify.com/track/4KEF69Otx6MOJOy6QYKQDz"
+    },
+    {
+      "album": {
         "name": "Ex Girlfriend",
         "url": "https://open.spotify.com/album/5rFwvht6Lm25x9M7Q93hMt"
       },
@@ -2341,6 +2367,28 @@
     },
     {
       "album": {
+        "name": "Marethiruve",
+        "url": "https://open.spotify.com/album/1IhNHGpsPbzBwd6kYv2XwN"
+      },
+      "artists": [
+        {
+          "name": "Ahamm",
+          "url": "https://open.spotify.com/artist/3FIOkx3f9C6UuJJunHucpC"
+        },
+        {
+          "name": "Bassmnt",
+          "url": "https://open.spotify.com/artist/1ve81U9YJgA5fdxKKjo2o1"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257142,
+      "name": "Marethiruve",
+      "url": "https://open.spotify.com/track/5fIu0KByVpki8ueCk0Nig5"
+    },
+    {
+      "album": {
         "name": "Masada Itti Mosada Maccha",
         "url": "https://open.spotify.com/album/3uPYwCGaIzR559lUCGt9bZ"
       },
@@ -3472,7 +3520,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 226997,
       "name": "Ninna Maatu",
       "url": "https://open.spotify.com/track/3ZYUDXKEHiZt165iWMHoiT"
@@ -4296,7 +4344,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 166744,
       "name": "Stacks",
       "url": "https://open.spotify.com/track/3j8Okv8qvgtNgTGQ7MGplv"

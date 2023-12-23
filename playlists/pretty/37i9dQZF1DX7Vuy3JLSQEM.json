@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjc4MzliOTFlZjQ3YTE0ODAxMTU5YzI3ZmFjNjE1MzQwNmIwODEx",
+  "snapshot_id": "MCw4MmE3ZjE3NmViZWE4OWU1YmYwM2U1NzgxNzgyNDI4NDY2MGUzMTBj",
   "tracks": [
     {
       "added_at": "2022-10-14 05:00:00",
@@ -564,7 +564,7 @@
       "added_at": "2022-10-14 05:00:00",
       "album": {
         "name": "Morenito",
-        "url": "https://open.spotify.com/album/5DYHkNfYvVuSJxjGSg0ptA"
+        "url": "https://open.spotify.com/album/5medqeaiGFGL8kW9gKMiGO"
       },
       "artists": [
         {
@@ -572,17 +572,17 @@
           "url": "https://open.spotify.com/artist/0BnmjviyW0BAR2kK67AOPQ"
         },
         {
-          "name": "Mystic Natives",
-          "url": "https://open.spotify.com/artist/0jltTJpT4TwfWBNDb393BY"
-        },
-        {
           "name": "Aynes",
           "url": "https://open.spotify.com/artist/0WByZEwRntV98feeVnccWG"
+        },
+        {
+          "name": "Mystic Natives",
+          "url": "https://open.spotify.com/artist/0jltTJpT4TwfWBNDb393BY"
         }
       ],
       "duration_ms": 190819,
       "name": "Morenito",
-      "url": "https://open.spotify.com/track/6etTt33N7wYwtDfuaqgthc"
+      "url": "https://open.spotify.com/track/5C4lyumkhkQsNPTfqID2gk"
     },
     {
       "added_at": "2022-10-14 05:00:00",

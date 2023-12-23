@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 143120,
+  "num_followers": 143197,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmY3YzFlZDM2Mzg1Yzk1ZjBkOTAwYjM3YWY3Y2ViMmZhZWFjNDQ1",
+  "snapshot_id": "MCw1YTlhOGFmMDUxMzJlZjYyNDliNTM1NzU1NTg2MTA5ZDg2OTMzNTcw",
   "tracks": [
     {
       "added_at": "2023-11-16 16:29:20",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Cure",
-        "url": "https://open.spotify.com/album/0B7trrXpu1IShSqzJfB2Tw"
-      },
-      "artists": [
-        {
-          "name": "Eddy de Pretto",
-          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "Kid",
-      "url": "https://open.spotify.com/track/1EIhcoMZ3See5L28kNvuFe"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
         "name": "Le chemin",
         "url": "https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i"
       },
@@ -299,18 +283,18 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Nonante-Cinq",
-        "url": "https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA"
+        "name": "Cure",
+        "url": "https://open.spotify.com/album/0B7trrXpu1IShSqzJfB2Tw"
       },
       "artists": [
         {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+          "name": "Eddy de Pretto",
+          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
         }
       ],
-      "duration_ms": 164956,
-      "name": "Libre",
-      "url": "https://open.spotify.com/track/5h9OvsTeNydBaZp7swQubV"
+      "duration_ms": 184840,
+      "name": "Kid",
+      "url": "https://open.spotify.com/track/1EIhcoMZ3See5L28kNvuFe"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -327,6 +311,22 @@
       "duration_ms": 173266,
       "name": "D\u00e9pass\u00e9",
       "url": "https://open.spotify.com/track/3kkLa7nOjDH3bYTAt54oYh"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
+        "name": "Nonante-Cinq",
+        "url": "https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "duration_ms": 164956,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/5h9OvsTeNydBaZp7swQubV"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Montagnes Russes",
-        "url": "https://open.spotify.com/album/01FvUhPKSiGylm8coBbWZN"
-      },
-      "artists": [
-        {
-          "name": "Lujipeka",
-          "url": "https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt"
-        }
-      ],
-      "duration_ms": 159173,
-      "name": "Poup\u00e9e Russe",
-      "url": "https://open.spotify.com/track/08Wp4lUKmtyAgX6w9KhTeM"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
         "name": "Encore un soir (Deluxe Edition)",
         "url": "https://open.spotify.com/album/34ojCO0ZiLZwJlUFXuGx9R"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 263440,
       "name": "Encore un soir",
       "url": "https://open.spotify.com/track/51yjUe42smRbgWvg9i9pFa"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
+        "name": "Montagnes Russes",
+        "url": "https://open.spotify.com/album/01FvUhPKSiGylm8coBbWZN"
+      },
+      "artists": [
+        {
+          "name": "Lujipeka",
+          "url": "https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt"
+        }
+      ],
+      "duration_ms": 159173,
+      "name": "Poup\u00e9e Russe",
+      "url": "https://open.spotify.com/track/08Wp4lUKmtyAgX6w9KhTeM"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
+        "name": "D'Eux",
+        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 249733,
+      "name": "Pri\u00e8re pa\u00efenne",
+      "url": "https://open.spotify.com/track/5qrVEJLwzDbASSVcfpMJO4"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
         "name": "Mon paradis",
         "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 250413,
       "name": "Le Premier jour (Du reste de ta vie)",
       "url": "https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
-        "name": "D'Eux",
-        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 249733,
-      "name": "Pri\u00e8re pa\u00efenne",
-      "url": "https://open.spotify.com/track/5qrVEJLwzDbASSVcfpMJO4"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Regagner Les Plaines",
-        "url": "https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN"
-      },
-      "artists": [
-        {
-          "name": "Pow Wow",
-          "url": "https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ"
-        }
-      ],
-      "duration_ms": 178133,
-      "name": "Le lion est mort ce soir",
-      "url": "https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
         "name": "Repenti",
         "url": "https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 215813,
       "name": "Les voisines",
       "url": "https://open.spotify.com/track/3moelwvWkm8rliDyjywgA1"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
+        "name": "Regagner Les Plaines",
+        "url": "https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN"
+      },
+      "artists": [
+        {
+          "name": "Pow Wow",
+          "url": "https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ"
+        }
+      ],
+      "duration_ms": 178133,
+      "name": "Le lion est mort ce soir",
+      "url": "https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM"
     },
     {
       "added_at": "2023-11-16 16:29:20",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-11-16 16:29:20",
       "album": {
-        "name": "Tout savoir",
-        "url": "https://open.spotify.com/album/3KqSaDCCk1NIj4s4adfFTa"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e9",
-          "url": "https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s"
-        }
-      ],
-      "duration_ms": 196506,
-      "name": "Tout savoir",
-      "url": "https://open.spotify.com/track/5hquKiRUsOh0079PvO7EJN"
-    },
-    {
-      "added_at": "2023-11-16 16:29:20",
-      "album": {
         "name": "Dave",
         "url": "https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 192133,
       "name": "Vanina (Runaway)",
       "url": "https://open.spotify.com/track/3HkJ0MJ8FZh8YNF4yf2kJc"
+    },
+    {
+      "added_at": "2023-11-16 16:29:20",
+      "album": {
+        "name": "Tout savoir",
+        "url": "https://open.spotify.com/album/3KqSaDCCk1NIj4s4adfFTa"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e9",
+          "url": "https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s"
+        }
+      ],
+      "duration_ms": 196506,
+      "name": "Tout savoir",
+      "url": "https://open.spotify.com/track/5hquKiRUsOh0079PvO7EJN"
     },
     {
       "added_at": "2023-11-16 16:29:20",

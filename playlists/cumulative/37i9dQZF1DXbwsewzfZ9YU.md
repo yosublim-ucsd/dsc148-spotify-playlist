@@ -4,7 +4,7 @@
 
 > open the pit\. cover: Scowl
 
-172 songs - 7 hr 10 min
+173 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Idealized](https://open.spotify.com/track/2MkkjpplmZcb2XqCdwsTUG) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Idealized](https://open.spotify.com/album/1I00QM6BWuhWaFKVGuFWjq) | 3:41 | 2023-05-19 |  |
 | [If I Speak \(Shut The Fuck Up\)](https://open.spotify.com/track/2YB9zdlis5KT7v9CA4Iha2) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [If I Speak \(Shut The Fuck Up\)](https://open.spotify.com/album/3CfmxDJ95NdqqHdDumeYt1) | 2:37 | 2023-09-08 |  |
 | [Imperalist Reign](https://open.spotify.com/track/3wTLbr8a8xUuaBbmFSJ24U) | [Move BHC](https://open.spotify.com/artist/0k0hZC312UEzXUseFlboyZ) | [Imperialist Reign / Summer Trend](https://open.spotify.com/album/0ZcAEVm9B7eLqB3LWRX5lL) | 2:19 | 2023-08-11 |  |
-| [In The City](https://open.spotify.com/track/4BI2pWz7VSJGAF9DoyKCFk) | [No Warning](https://open.spotify.com/artist/0TfABr1qhx6v684iWSBdob) | [Torture Culture](https://open.spotify.com/album/3D6f5OLseUy0d0EjMJAr6j) | 3:12 | 2023-02-24 |  |
+| [In The City](https://open.spotify.com/track/2i9RPuyGUPhNXbEefdQX3S) | [No Warning](https://open.spotify.com/artist/0TfABr1qhx6v684iWSBdob) | [Torture Culture](https://open.spotify.com/album/0MVWEsdOeomWGb9LDBoltV) | 3:12 | 2023-12-12 |  |
+| [In The City](https://open.spotify.com/track/4BI2pWz7VSJGAF9DoyKCFk) | [No Warning](https://open.spotify.com/artist/0TfABr1qhx6v684iWSBdob) | [Torture Culture](https://open.spotify.com/album/3D6f5OLseUy0d0EjMJAr6j) | 3:12 | 2023-02-24 | 2023-12-23 |
 | [In the Moment](https://open.spotify.com/track/3YlLXwqYYysLEDyDF11xhq) | [Regulate](https://open.spotify.com/artist/64O5oavSEHRyQBGxOU0ewd) | [Regulate](https://open.spotify.com/album/4pXxLjtlUMzHYYw7axn5Ez) | 2:40 | 2023-02-24 |  |
 | [Inflict My Will](https://open.spotify.com/track/2GnJe9IOeYO5D2hNmn46Il) | [Contention](https://open.spotify.com/artist/5uM6mGgoFoetH7VkSY5wIU) | [Summer Offensive](https://open.spotify.com/album/2ZRuXZuYuxpwgdKKysPcQY) | 2:36 | 2023-02-24 |  |
 | [Jump!! \(Or Get Jumped!!!\)\(\(by the future\)\)](https://open.spotify.com/track/0SIF3BX8DeyijHhQiF7g40) | [Soul Glo](https://open.spotify.com/artist/0mWrp0C4ShdOjs7P29Gzan) | [Diaspora Problems](https://open.spotify.com/album/2ZYhM0LXHZ38te98EizcQW) | 3:26 | 2023-08-11 | 2023-09-09 |

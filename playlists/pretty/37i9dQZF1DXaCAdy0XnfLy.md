@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCAdy0XnfLy.md) - [plain]
 
 > Opposites attract...families don't\. Listen to music from and inspired by You People, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,325 likes - 39 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,357 likes - 39 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCAdy0XnfLy.md) - [plain]
 | 20 | [Mo & EZ \- Mo's Theory](https://open.spotify.com/track/1PUca3XssinmhHRDZbag3Z) | [Sam Jay](https://open.spotify.com/artist/2Ysmf5JLNDRdhjOvoKnnNh), [Jonah Hill](https://open.spotify.com/artist/2pQ8voPNuiMTqIvAdk99sn) | [You People \(Original Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5p6zOqdeXFWq4EPH8sPMlc) | 0:36 |
 | 21 | [Ni\*\*as In Paris](https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Watch The Throne](https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS) | 3:39 |
 | 22 | [Rise Up](https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz) | [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe) | [Cheers to the Fall](https://open.spotify.com/album/6Blubl1glavmervPJa3QVs) | 4:13 |
-| 23 | [All I Do Is Win \(feat\. T\-Pain, Ludacris, Snoop Dogg & Rick Ross\)](https://open.spotify.com/track/28jyTDJQyz5IeDTkB1lOuu) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [All I Do Is Win \(feat\. T\-Pain, Ludacris, Snoop Dogg & Rick Ross\)](https://open.spotify.com/album/2pRhflXkaP5ODCpmd2qeD7) | 3:50 |
+| 23 | [All I Do Is Win \(feat\. T\-Pain, Ludacris, Snoop Dogg & Rick Ross\)](https://open.spotify.com/track/5NEKjqTQPKiqOiOG8YxLdS) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Victory](https://open.spotify.com/album/4iAAzGGkdywnwP5O4Vpuun) | 3:52 |
 | 24 | [Let's Get Married \(feat\. Run\) \- ReMarqable Remix](https://open.spotify.com/track/18CODOzJ5DWzWh6kAeKiSC) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp), [RUN](https://open.spotify.com/artist/2qFXvV0t7QXlF7Tdc9YTie), [Lamarquis Jefferson](https://open.spotify.com/artist/6eZD2i7kAelKt5z1ytH0Me) | [The Hits](https://open.spotify.com/album/72phYQZz7SLAT9xwK6LMO6) | 4:09 |
 | 25 | [Drop It Like It's Hot](https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [R&G \(Rhythm & Gangsta\): The Masterpiece](https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp) | 4:26 |
 | 26 | [Honest](https://open.spotify.com/track/7xvJMqaeAvvcw1CI6e5NBw) | [Rocco](https://open.spotify.com/artist/7IjqLxpglRdDUYta4R82B0) | [Honest](https://open.spotify.com/album/05iQzWMOX07YInrsWN1CeI) | 2:43 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaCAdy0XnfLy.md) - [plain]
 | 38 | [Famous Or Dying](https://open.spotify.com/track/5zD3p4ajDSNlAHgzVJ6oWv) | [Bekon](https://open.spotify.com/artist/4VWnuR2hpj6DZNfcpe4e3M) | [You People \(Original Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5p6zOqdeXFWq4EPH8sPMlc) | 0:48 |
 | 39 | [Insane](https://open.spotify.com/track/46O8iNdlQHZf7L5JsAKgvi) | [Bekon](https://open.spotify.com/artist/4VWnuR2hpj6DZNfcpe4e3M) | [You People \(Original Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5p6zOqdeXFWq4EPH8sPMlc) | 1:23 |
 
-Snapshot ID: `MCwwMDZlMDJlZWQ2ODUzM2EwNmU1ZGNiODczYjA5YTVjN2M5OTg4YjI2`
+Snapshot ID: `MCw2ZmE0ZGEzNmQ3YTNkOWUzNjNjN2FlMTQ4MjgyODcyMjFiYjhhMWFk`

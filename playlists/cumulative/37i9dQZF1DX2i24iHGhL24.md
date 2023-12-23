@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Ed Sheeran
 
-416 songs - 23 hr 50 min
+418 songs - 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Circles](https://open.spotify.com/track/4DYdrgkSWVYzo9e5RMnUMV) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Circles](https://open.spotify.com/album/58AZ4JOTZ8D0q1qmx4C4qE) | 3:43 | 2021-12-17 | 2022-05-02 |
 | [Circles \- Recorded at Electric Lady Studios NYC, 2020](https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Spotify Singles](https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS) | 3:52 | 2022-09-23 | 2023-10-17 |
 | [Circles \- Recorded at Electric Lady Studios NYC, 2020](https://open.spotify.com/track/31SdhreEaxPfyMJvWiw9R6) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Spotify Singles](https://open.spotify.com/album/31XFdluptfjbWjlvqGbegP) | 3:52 | 2021-12-17 | 2022-10-14 |
+| [clean \(emlyn's version\)](https://open.spotify.com/track/0xtk0IWzrUY00txl4GlQbK) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [clean \(emlyn's version\)](https://open.spotify.com/album/4JxsnIVMNu9WZcdUjZRvEd) | 4:51 | 2023-12-22 |  |
 | [Come As You Are](https://open.spotify.com/track/02iQfxXKbeR8L0AuGWrt9c) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Come As You Are](https://open.spotify.com/album/18yErQMF59Oup4SvhmCoEm) | 2:36 | 2022-03-11 | 2023-10-17 |
 | [Complicated \- Spotify Singles](https://open.spotify.com/track/3NfykbNWo0nDR4aLdenRaO) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Spotify Singles](https://open.spotify.com/album/4cou0KtLPkdd5NbFFDyiio) | 3:58 | 2022-03-25 | 2023-10-17 |
 | [Congratulations \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/69yDe1giM1sJutQkhFfNZL) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [Spotify Singles](https://open.spotify.com/album/0GfdUmTzDZX5TB1HH9cb7Z) | 3:13 | 2022-03-25 | 2022-04-16 |
@@ -155,7 +156,7 @@
 | [Forever Young](https://open.spotify.com/track/7IcdktV2A60dCm8nQpm6JN) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Forever Young \(From The McDonald's Christmas Advert 2020\)](https://open.spotify.com/album/1sqgouoD6Dip9KCPMECQuw) | 2:58 | 2021-12-17 |  |
 | [Girl Crush \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Spotify Singles](https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj) | 4:03 | 2021-12-17 |  |
 | [gives you hell](https://open.spotify.com/track/6ur0EUPKCb3YcwqCo04EGF) | [Eva Snyder](https://open.spotify.com/artist/6qwzV9a2lGZLfTmXXhkP4l) | [gives you hell](https://open.spotify.com/album/3vcwsAuQDHilvVdPS8HRwS) | 3:28 | 2022-09-19 | 2022-12-30 |
-| [glimpse of us](https://open.spotify.com/track/2ssJdfI0u93JYpIrxDmxE6) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [glimpse of us](https://open.spotify.com/album/3O5iR8V0ZK340xpIIcUCVQ) | 3:42 | 2022-08-12 |  |
+| [glimpse of us](https://open.spotify.com/track/2ssJdfI0u93JYpIrxDmxE6) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [glimpse of us](https://open.spotify.com/album/3O5iR8V0ZK340xpIIcUCVQ) | 3:42 | 2022-08-12 | 2023-12-23 |
 | [Go Your Own Way](https://open.spotify.com/track/0DLVUfWdF4MptlOeYQsRkk) | [Cimo Fränkel](https://open.spotify.com/artist/76ftqv1cm1EkrgWiC1pUUV) | [Go Your Own Way](https://open.spotify.com/album/23adg4MHzuH1gjIp6COp5h) | 2:21 | 2022-03-25 | 2022-04-15 |
 | [God Is A Woman \- Yours Truly: 2018](https://open.spotify.com/track/4LnBzQTbIJ3rCdXxs44R9S) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [God Is A Woman \(Yours Truly: 2018\)](https://open.spotify.com/album/3hrJkq3kDZhsUhFq5eMxbJ) | 3:37 | 2021-12-17 |  |
 | [God Only Knows](https://open.spotify.com/track/7L4UdecBBFRlL0preuJtXW) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [God Only Knows](https://open.spotify.com/album/1ZasjPdbUUzZ9rMwl5Lywi) | 3:04 | 2021-12-17 | 2023-10-17 |
@@ -207,7 +208,7 @@
 | [If I Ain't Got You](https://open.spotify.com/track/60Upg4NK79iFTP77w9O6E7) | [caravan](https://open.spotify.com/artist/7I9GI1IG7pfLC4ENoLVJ5e), [Valentin](https://open.spotify.com/artist/7Fy5VsWKRZYoXc3M18O85p) | [If I Ain't Got You](https://open.spotify.com/album/05xqadEYFt4VvusqQACQ4E) | 3:10 | 2021-12-17 | 2022-12-30 |
 | [If I Were A Boy](https://open.spotify.com/track/13dtX3TNkdeo126Ccib6CA) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [If I Were A Boy](https://open.spotify.com/album/7C7uRn4p2HhauHrzjb486u) | 4:04 | 2021-12-17 | 2023-10-17 |
 | [If You Had My Love](https://open.spotify.com/track/5glOr0WOoNw6bBFHcTg7AR) | [fulses](https://open.spotify.com/artist/3n8m3kNEwkqw9ucWDJhClE) | [If You Had My Love](https://open.spotify.com/album/27bLO4hjI1t1gEVfGVVDi1) | 3:35 | 2022-12-29 | 2023-10-17 |
-| [If Your Man Only Knew](https://open.spotify.com/track/7H8kBmya327d7KTXsbln2v) | [Erik Hassle](https://open.spotify.com/artist/6MKNzi38fPQCFRdWOtHqTJ) | [If Your Man Only Knew](https://open.spotify.com/album/0D7hzGTfLWhIi20HeWzfZn) | 2:58 | 2022-12-29 |  |
+| [If Your Man Only Knew](https://open.spotify.com/track/7H8kBmya327d7KTXsbln2v) | [Erik Hassle](https://open.spotify.com/artist/6MKNzi38fPQCFRdWOtHqTJ) | [If Your Man Only Knew](https://open.spotify.com/album/0D7hzGTfLWhIi20HeWzfZn) | 2:58 | 2022-12-29 | 2023-12-23 |
 | [In Da Club](https://open.spotify.com/track/1kDSSQ0xBiZgogNN2a7ofQ) | [Skylar Stecker](https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0) | [In Da Club](https://open.spotify.com/album/0tY0cLxwPSwvjyFfOol58C) | 3:24 | 2022-09-23 | 2023-10-17 |
 | [In Da Club](https://open.spotify.com/track/4NDvqNg11hSuNpiGUtnlRU) | [Skylar Stecker](https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0) | [In Da Club](https://open.spotify.com/album/7JAUDSWptc3QlTIuqGT3lN) | 3:24 | 2021-12-17 | 2022-10-13 |
 | [In My Life](https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [In My Life](https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM) | 2:56 | 2022-12-29 |  |
@@ -378,6 +379,7 @@
 | [Time After Time \- Spotify Singles](https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Time After Time \(Spotify Singles\)](https://open.spotify.com/album/5lxUTVBhoeeAeleepOsBop) | 3:39 | 2023-10-16 |  |
 | [Titanium](https://open.spotify.com/track/0knwYd0kPonZMwaNWLLudK) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 3](https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4) | 3:47 | 2022-07-08 | 2022-10-29 |
 | [Titanium](https://open.spotify.com/track/7vEX2DuGfeyH2RRV3XZdHJ) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [New Acoustic Sessions, Vol\. 4](https://open.spotify.com/album/6olVyDyIS9W67adbR23ypX) | 3:47 | 2022-03-25 | 2022-07-29 |
+| [Torn](https://open.spotify.com/track/5bE0T0e4BrW8zhlwGR9vWD) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [Torn](https://open.spotify.com/album/2Q2SAVlPW1l56d2jRJsoRi) | 3:25 | 2023-12-22 |  |
 | [Torn](https://open.spotify.com/track/4INNiMO9R9UnwpLOtzizn6) | [Eloise Freud](https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh) | [Torn](https://open.spotify.com/album/0og0ExNcAjYK1nCWKyklL6) | 3:43 | 2021-12-17 | 2022-05-02 |
 | [Torn](https://open.spotify.com/track/3j9q9MpY5FNofZqlS8XyZZ) | [Jennel Garcia](https://open.spotify.com/artist/1Ff1cuzx8IrADaKnclXscN) | [Torn](https://open.spotify.com/album/24BosB3DMNzQlOTsThPuhk) | 3:37 | 2021-12-17 | 2022-12-30 |
 | [Toxic](https://open.spotify.com/track/72PMRGgYB1mkY3TsUJZtyc) | [Yael Naim](https://open.spotify.com/artist/32aFdXARUiqP81SXqIPD4w) | [Yael Naïm](https://open.spotify.com/album/6YuE6wbqwzvSHungRfuvk7) | 4:27 | 2022-12-29 |  |

@@ -4,7 +4,7 @@
 
 > This is Biosphere\. The essential tracks, all in one playlist.
 
-151 songs - 12 hr 22 min
+152 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Dissolving Clouds](https://open.spotify.com/track/2IB1P4oT2EHRFJA5O7eRnC) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 4:28 | 2022-05-29 |  |
 | [Dover Ferryport](https://open.spotify.com/track/6AHAQBVo1ibwYptoLoo5LC) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 2:38 | 2022-06-03 | 2022-06-28 |
 | [Drifter](https://open.spotify.com/track/5xgAiOzfGQIDB4H12rnFbL) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [The Petrified Forest](https://open.spotify.com/album/2eTsX0BF5V0seyKkBgG8vc) | 4:19 | 2022-05-29 | 2022-10-13 |
+| [Déviation](https://open.spotify.com/track/16zg1TWLqoQArBumCzTawe) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Autour De La Lune \[Reissue\]](https://open.spotify.com/album/5fxcvWzqTtN1e4dgYrWyXf) | 10:26 | 2023-12-22 |  |
 | [Faith and Reverence](https://open.spotify.com/track/5iPqoLslN6d14t7ZEeYHqu) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Angel's Flight](https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR) | 3:18 | 2022-08-06 | 2022-10-07 |
 | [Fall In Fall Out](https://open.spotify.com/track/6R785CWKXgNE9e2hO5KaSg) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/20oIWphcRX2FDfRHa2e580) | 7:10 | 2022-08-13 | 2022-09-22 |
 | [Fast Atoms Escape](https://open.spotify.com/track/2OK97NvMcKPhSqs1JvDNgO) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shenzhou \[Reissue\]](https://open.spotify.com/album/2HTr1MqQNLWz5LDPNY1YFH) | 3:26 | 2022-06-05 | 2022-10-06 |
@@ -75,7 +76,7 @@
 | [Infinium](https://open.spotify.com/track/21UIeael82ah6ep6ED7Nd7) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shortwave Memories](https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy) | 8:33 | 2022-05-29 | 2023-02-05 |
 | [Insolate](https://open.spotify.com/track/0JSQjr1eqj9NWNi5g6Ioxk) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Dropsonde](https://open.spotify.com/album/6sXtoNq1nreNHyqq1szxj5) | 5:34 | 2023-03-06 | 2023-03-08 |
 | [Interval Signal](https://open.spotify.com/track/1WZcAa7lyALMxQHnq4mcCB) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shortwave Memories](https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy) | 6:23 | 2022-05-29 | 2022-12-25 |
-| [Invariable Cowhandler](https://open.spotify.com/track/1rIf02nuNJVVcVumB0b7fu) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Departed Glories](https://open.spotify.com/album/78KLYq0YJ5vgbPy9BYlpz9) | 3:45 | 2023-03-21 |  |
+| [Invariable Cowhandler](https://open.spotify.com/track/1rIf02nuNJVVcVumB0b7fu) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Departed Glories](https://open.spotify.com/album/78KLYq0YJ5vgbPy9BYlpz9) | 3:45 | 2023-03-21 | 2023-12-23 |
 | [Journey To The Centre Of The First, Pt\. 1](https://open.spotify.com/track/280pz3FHXp82OZzls1lyvH) | [Arne Nordheim](https://open.spotify.com/artist/4QsuzR3mlNOZqmhvyPKFME), [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr), [Deathprod](https://open.spotify.com/artist/7o8rvnbMRm0zygvVauFqaO) | [Nordheim Transformed](https://open.spotify.com/album/30O89DMxubRNxxncKnFXdX) | 6:53 | 2022-10-06 | 2022-10-12 |
 | [Joyo](https://open.spotify.com/track/75AKiSgU8tTI2z8J1Qf1IT) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/3pLDeqeie523ruDyHahav3) | 5:31 | 2022-07-21 | 2022-09-19 |
 | [Joyo](https://open.spotify.com/track/4qdGddcDOmCpSU6QiQlBxh) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [N\-Plants](https://open.spotify.com/album/6O0NOaFQ56eChOtw47l9VI) | 5:35 | 2023-01-31 | 2023-05-30 |

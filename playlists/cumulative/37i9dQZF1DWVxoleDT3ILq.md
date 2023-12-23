@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Yorka
 
-443 songs - 1 day 2 hr 40 min
+444 songs - 1 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [El Demonio del Mediodía](https://open.spotify.com/track/02ZJgSEEmi7rmJ42gw2j1i) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [El Demonio del Mediodía](https://open.spotify.com/album/59DDXjGG4zx2MGNIJUsDXz) | 2:58 | 2022-04-15 | 2022-12-10 |
 | [El Deportista \- Remix](https://open.spotify.com/track/5rglXd6m61Yw0kAnujwBPo) | [La Playa](https://open.spotify.com/artist/3mRz1jPyfOO3MD4BnkQPiO), [Sweet Pomelo](https://open.spotify.com/artist/1kRzlG27oPe0i3Ll09llgM) | [Remezclas Salvajes](https://open.spotify.com/album/7h8ip62LdSASky4mRSYu5e) | 2:49 | 2023-09-29 | 2023-10-13 |
 | [El dragón asciende](https://open.spotify.com/track/6lzg89OnOzG0ak5BteM6G0) | [Los Valentina](https://open.spotify.com/artist/7cIyh6k1zccDIbM7Qyn5AY) | [Independencia](https://open.spotify.com/album/78gMQLycOOZR9p8VpG7Z0p) | 4:20 | 2022-05-13 | 2023-06-24 |
+| [El Efecto](https://open.spotify.com/track/2arFzyifrmAqgxnmQQ0SyD) | [Prehistöricos](https://open.spotify.com/artist/1DmSwSzxDlSDJMPWobjzcB) | [Abrazo Fantasma](https://open.spotify.com/album/4c6ZcnNFBHrsTtv3oXKwyn) | 2:04 | 2023-12-22 |  |
 | [El Frío](https://open.spotify.com/track/2uK3du011Ob2Nc6z0rmXpM) | [Christiane](https://open.spotify.com/artist/0gPv17HJgCgwcKNvvtR0na) | [El Frío](https://open.spotify.com/album/6TvYVBlBD6kTv7rre2qBd0) | 3:26 | 2022-04-15 | 2022-07-24 |
 | [el humo](https://open.spotify.com/track/4jk6AWr2Xly8i9GJBaM6BR) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [el humo](https://open.spotify.com/album/3wxJafS7k8IdofVpP4yXFN) | 4:06 | 2022-04-15 | 2022-12-10 |
 | [El Inmenso Cielo](https://open.spotify.com/track/2OnUqt9pUUGerbyStwrCeL) | [Camilo Abarca](https://open.spotify.com/artist/644EV9yGwVHpKhCI6ZV7NZ), [Félix Volta](https://open.spotify.com/artist/2rjuFxcX4USQYslRzybqpE), [Reina Minerva](https://open.spotify.com/artist/4mbD7hBd7mTozWAOeXyDpk) | [El Inmenso Cielo](https://open.spotify.com/album/2Rn3HqrYkmQBmSG4MoQ90T) | 3:05 | 2022-04-15 | 2022-07-09 |
@@ -346,7 +347,7 @@
 | [Río](https://open.spotify.com/track/3fOK6EErTZPEPYfcUP88H9) | [Los Mil Jinetes](https://open.spotify.com/artist/5H8rz8dQLNWvaHojkHyQMn) | [Río](https://open.spotify.com/album/35y2ja42BcPxY5P98sARzo) | 3:25 | 2022-04-15 | 2022-07-25 |
 | [Sabes](https://open.spotify.com/track/1zvFHmZkxyxUOpAaMRi2qm) | [Ciudad Nómade](https://open.spotify.com/artist/5bTN0MgAA8rwwi16VuwXwA) | [Espiral, Pt\. 1](https://open.spotify.com/album/77BAbdA4KSnWqkdBGFxFft) | 2:54 | 2023-11-17 | 2023-12-21 |
 | [Sabes](https://open.spotify.com/track/7ldFXJQVQkyE4sYc3YJf4i) | [Los Tristes](https://open.spotify.com/artist/5QFSZNKhWVCHkA0ZlSYrbK) | [Sabes](https://open.spotify.com/album/52antku4m9Xw7CZceClUIg) | 3:35 | 2022-04-15 | 2022-07-27 |
-| [Sal \- Reversión](https://open.spotify.com/track/3ftpY64u6Vgv6KzerJJs8U) | [Pancho Gana](https://open.spotify.com/artist/4I9qrx9Lb6RDDKkMgXd1yM), [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3) | [Sal \(Reversión\)](https://open.spotify.com/album/5ROTJPrKaWvaKNkIRn1ZgL) | 2:32 | 2023-02-24 |  |
+| [Sal \- Reversión](https://open.spotify.com/track/3ftpY64u6Vgv6KzerJJs8U) | [Pancho Gana](https://open.spotify.com/artist/4I9qrx9Lb6RDDKkMgXd1yM), [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3) | [Sal \(Reversión\)](https://open.spotify.com/album/5ROTJPrKaWvaKNkIRn1ZgL) | 2:32 | 2023-02-24 | 2023-12-23 |
 | [Salvaje y tierno](https://open.spotify.com/track/25B3oP8DxmLo5HLrmi4uEi) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Al calor de un sol que acaba de morir](https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9) | 3:07 | 2023-09-29 |  |
 | [SAMURAI](https://open.spotify.com/track/1PGkMpc1k6DWSZ3uBlNIG7) | [K\-efe](https://open.spotify.com/artist/5OPzvMUdNgeRfnbJyUi0Yq) | [SAMURAI](https://open.spotify.com/album/2wWoRB9jkyhtX3TkN5vB2f) | 3:20 | 2022-04-15 | 2022-12-10 |
 | [Santiago](https://open.spotify.com/track/1hVYdvPaE54bVdAXP5wqev) | [Maria Perlita](https://open.spotify.com/artist/6CggKxKQ8oV0vt93nmYMRj) | [Santiago](https://open.spotify.com/album/43rnbuJiVS8gUnInXlPJox) | 3:19 | 2022-04-15 | 2022-07-27 |

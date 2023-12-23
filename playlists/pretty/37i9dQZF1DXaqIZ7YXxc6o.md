@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,080 likes - 102 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,086 likes - 102 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 25 | [Temperature of Love](https://open.spotify.com/track/7uQELO7mEcO0u5i8lirWbT) | [Andras](https://open.spotify.com/artist/6C3Q1d8QOpgYuRdsTmSoVm), [Oscar Key Sung](https://open.spotify.com/artist/2D7YyEYEeZY7W6rpuN6WoB) | [Temperature of Love](https://open.spotify.com/album/5vZ6aGQuUeqU1pB5fdCJ1Z) | 4:44 |
 | 26 | [Walked In The Room](https://open.spotify.com/track/4tPHsS7lFxBCe6zRAOWMSR) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Walked In The Room](https://open.spotify.com/album/3E3MIDOQnIcy9wUdIXQAsM) | 3:18 |
 | 27 | [Nostalgia \- VIP Edit](https://open.spotify.com/track/7qlrQwkEOanYnQ2uJJ0YFt) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS), [Little Green](https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy) | [Nostalgia \(VIP Edit\)](https://open.spotify.com/album/3e1bocfc9SMGu4JpUPfhu6) | 3:07 |
-| 28 | [Forever Young \- Krunk! Remix](https://open.spotify.com/track/1h8l4ji32G2N1IcNL7Lw2h) | [Havana Brown](https://open.spotify.com/artist/1EVWYRr2obCRDoSoD6KSuM), [Krunk!](https://open.spotify.com/artist/5mUIGLs77O6M6cYFU5IMYa) | [Forever Young \(Krunk! Remix\)](https://open.spotify.com/album/3CEE6lNtmAliedHtZxDhYq) | 2:48 |
+| 28 | [Forever Young \- Krunk! Remix](https://open.spotify.com/track/4jtPnvRE3E4LuGXUtm9J9S) | [Havana Brown](https://open.spotify.com/artist/1EVWYRr2obCRDoSoD6KSuM), [Krunk!](https://open.spotify.com/artist/5mUIGLs77O6M6cYFU5IMYa) | [Forever Young](https://open.spotify.com/album/5AOaUDwj98w5O6DRi20aLG) | 2:48 |
 | 29 | [we don't sleep](https://open.spotify.com/track/6Pzlc9Q6YkZtEtG8b1pPeF) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [we don't sleep](https://open.spotify.com/album/6BIsx4gZaEx07kVZKW2uAT) | 3:25 |
 | 30 | [Brunt](https://open.spotify.com/track/1fA1cnKRdkKGgFuJCLRYRJ) | [PhaseOne](https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk), [Nosphere](https://open.spotify.com/artist/12QTVK7jpRYgbe4iDYu9Td) | [Brunt](https://open.spotify.com/album/6pWc7yOiEZrX70oggD4pmb) | 3:25 |
 | 31 | [Start Again \- GAUCI Remix](https://open.spotify.com/track/44egGgtkchzt3rtxCSdbS6) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm), [GAUCI](https://open.spotify.com/artist/4cZCJhHp1jIH1NZ02799nY) | [Start Again \(GAUCI Remix\)](https://open.spotify.com/album/409XopDAUORKmouS5Gl7eh) | 3:41 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 101 | [White Glove](https://open.spotify.com/track/6NIlYycjhvtKGKtiABymF3) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Alchemical: Volume 1](https://open.spotify.com/album/4kC5hseZbGaAjiJvr9Hk55) | 2:30 |
 | 102 | [Bringing Me Home](https://open.spotify.com/track/6Uuh5KUTe7ujO2vhpruqW7) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Bringing Me Home](https://open.spotify.com/album/1WdDBOFiSMGuAuLUKJbvXL) | 3:29 |
 
-Snapshot ID: `MCw5OWM1MzI3MzJmNjUyMmZmNTcxZTM4NmNlMjYzOWY0MzIyMTBiNzJm`
+Snapshot ID: `MCxhNTA1MDg4ZjA5NGYzMDk3ZDhlZmJiMGU1ZjNmM2ZiNjJjY2E2ZTIz`

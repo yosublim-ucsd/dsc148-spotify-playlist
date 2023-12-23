@@ -4,7 +4,7 @@
 
 > The best Dance and EDM tracks right now! Cover: Dillon Francis
 
-119 songs - 6 hr 7 min
+120 songs - 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Feelings](https://open.spotify.com/track/1bmZvvwtKSdLp8q71VJQiI) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Feelings](https://open.spotify.com/album/1UM8dddro8kQa6Y6bjZxAx) | 3:18 | 2023-10-27 | 2023-11-25 |
 | [Fighting For You](https://open.spotify.com/track/7L71jX5uDYFXBCVCvZzb9D) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [WILHELM](https://open.spotify.com/artist/7g4gQKWTNj0X8BqpKpZFC0) | [Come True](https://open.spotify.com/album/3d8NRzwbtsrbyfYE3JRSZQ) | 2:53 | 2023-11-10 | 2023-11-25 |
 | [Finally](https://open.spotify.com/track/0PZpE9CYvOLt0wRZeOY5fV) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Finally](https://open.spotify.com/album/0mjru6iErl5h2amcxpMpg9) | 3:08 | 2023-10-27 |  |
+| [Forever](https://open.spotify.com/track/52Y1NDCiTeWECwQSeUdAaA) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [RobbieG](https://open.spotify.com/artist/2NWRfNAjBd2cUOKbE9Isda) | [Forever](https://open.spotify.com/album/6B5LA5m4bNlH1lTI91biWb) | 3:01 | 2023-12-22 |  |
 | [Forget You](https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Forget You](https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6) | 2:27 | 2023-10-27 |  |
 | [Free](https://open.spotify.com/track/5Y4L2jaSYxvPlhz6T8HRAl) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Free](https://open.spotify.com/album/3iwNd4M1ghGUUb86BUq6qo) | 3:18 | 2023-10-27 | 2023-11-25 |
 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-10-27 |  |

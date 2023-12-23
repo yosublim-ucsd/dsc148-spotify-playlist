@@ -4,7 +4,7 @@
 
 > That's that big energy\. Cover: Nicki Minaj
 
-184 songs - 9 hr 6 min
+185 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Gatando la Funda](https://open.spotify.com/track/3eadQDgUDkKCPy2TgfPvuc) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI), [Sam Diem](https://open.spotify.com/artist/30mf4QuWQgYhbwf4bj8pGn), [Beatz Akademy](https://open.spotify.com/artist/0UjwmWs0TpcR8ntCOjlxkI) | [Gatando la Funda](https://open.spotify.com/album/2hsgCqphv4KLN3P2BlkUs4) | 2:50 | 2023-09-02 | 2023-09-16 |
 | [Gently \(feat\. Bad Bunny\)](https://open.spotify.com/track/6ZprqcYFC6D9eIZaCoqrSn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:13 | 2023-10-06 |  |
 | [Get It](https://open.spotify.com/track/379Bq2UYx6X6NagvNjZLSX) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [RESILIENCE](https://open.spotify.com/album/6oq03SmM5eN38iNZOFpjmx) | 2:53 | 2023-08-18 | 2023-09-30 |
-| [Ghetto & Ratchet](https://open.spotify.com/track/6ncy0vKrwLOqKI50vwjC64) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK) | [Ghetto & Ratchet](https://open.spotify.com/album/7ECwZpB5z3OPS0HNAtNhDC) | 2:06 | 2023-09-02 |  |
+| [Ghetto & Ratchet](https://open.spotify.com/track/6ncy0vKrwLOqKI50vwjC64) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK) | [Ghetto & Ratchet](https://open.spotify.com/album/7ECwZpB5z3OPS0HNAtNhDC) | 2:06 | 2023-09-02 | 2023-12-23 |
+| [Ghetto & Ratchet \- Remy Ma Remix](https://open.spotify.com/track/2Dw5BoAmPzp23Yy8mLmuYh) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK), [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [Ghetto & Ratchet \(Remy Ma Remix\)](https://open.spotify.com/album/2NsgClxFL7DP93rhyZkgp3) | 2:44 | 2023-12-22 |  |
 | [Girls Just Wanna](https://open.spotify.com/track/3jlxGtWO91pqDHD3Nb00ku) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Girls Just Wanna](https://open.spotify.com/album/5nxQak3UtJ8UARd6u3v0SX) | 2:10 | 2023-12-15 |  |
 | [GO WITH GUT](https://open.spotify.com/track/7mRFGJZ5TUuNbOALh3tDwV) | [KABEAUSHÉ](https://open.spotify.com/artist/0NNG4hBbXRp6HQ2EMEkYlj) | [GO WITH GUT](https://open.spotify.com/album/01Xj382BlVU0Jlcd46b4ra) | 3:20 | 2023-09-22 | 2023-11-11 |
 | [Gotta](https://open.spotify.com/track/0jSECADSXPJ1YnBlN5AqX2) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Oryane](https://open.spotify.com/artist/6ealaBsCtCp93xGB1sL1Mz), [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Gotta](https://open.spotify.com/album/0HuKERuRN16uvegUjmBsfH) | 3:32 | 2023-09-22 | 2023-10-14 |

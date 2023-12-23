@@ -4,7 +4,7 @@
 
 > longe dos perigos noturnos
 
-263 songs - 15 hr 45 min
+264 songs - 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,8 @@
 | [Wake Up Baby](https://open.spotify.com/track/30c0CcK6RVr8tX8B19M3AW) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Hidden Beach Presents: The Original Jill Scott \- from the vault, Vol\. 1 \(Deluxe\)](https://open.spotify.com/album/1lITHni4gjJUFgpH1J9rng) | 3:55 | 2022-02-25 | 2022-07-29 |
 | [Wake Up Baby](https://open.spotify.com/track/4dYeHoqnh0sBhgmByab3ME) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Hidden Beach presents: The Original Jill Scott: from the vault vol\. 1](https://open.spotify.com/album/2gxhBK34gxGZHMCWBztdGq) | 3:55 | 2022-07-01 |  |
 | [Waterfall](https://open.spotify.com/track/3MUb3mziKpbLN8NB0VPplV) | [Laura Padaratz](https://open.spotify.com/artist/1CX0AnKbxgsOWp2bqVydqk), [PLANTTTA Lab](https://open.spotify.com/artist/25DO6Yyq4TbNo7ICQIwLSU) | [Waterfall](https://open.spotify.com/album/4P35qUvgULbZRNpohOdoeI) | 3:20 | 2022-05-06 | 2022-05-20 |
-| [Wet Dreamz](https://open.spotify.com/track/1lf6VaHYg3I1blTNrPOSDB) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Drunken Wordz Sober Thoughtz](https://open.spotify.com/album/6sWl7sC34PChdFVegNJRuv) | 3:05 | 2022-02-25 |  |
+| [Wet Dreamz](https://open.spotify.com/track/1lf6VaHYg3I1blTNrPOSDB) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Drunken Wordz Sober Thoughtz](https://open.spotify.com/album/6sWl7sC34PChdFVegNJRuv) | 3:05 | 2022-02-25 | 2023-12-23 |
+| [Wet Dreamz](https://open.spotify.com/track/2OhVsFUxkFIp8LuBTjH2Rs) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Drunken Wordz Sober Thoughtz](https://open.spotify.com/album/4tRvTQdQzkBDlyBm7OhNXt) | 3:05 | 2023-11-10 |  |
 | [What A Lie](https://open.spotify.com/track/1VI7GQmBBgdslV3tQRvsRD) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [What A Lie](https://open.spotify.com/album/3YYUucEXwtTJC0FWcpqrB4) | 3:48 | 2022-04-22 | 2022-06-18 |
 | [What About Us \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/2rXEvLUrJergtH0iQnyr29) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [What About Us \(feat\. Sevyn Streeter\)](https://open.spotify.com/album/5soGYnfqSGI3S1vOHDG9xe) | 3:08 | 2022-02-25 | 2022-05-22 |
 | [What Would You Do? \(R&B Remix\)](https://open.spotify.com/track/5caYUeSUoPB6nEcuOjVyXm) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [What Would You Do? \(R&B Remix\)](https://open.spotify.com/album/4wDXA7ivD2je1xRuP4hKgp) | 2:35 | 2022-05-06 | 2022-05-14 |

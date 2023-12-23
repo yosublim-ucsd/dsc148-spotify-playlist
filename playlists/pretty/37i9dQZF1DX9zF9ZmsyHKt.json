@@ -1,12 +1,12 @@
 {
   "description": "Grandes vozes da m\u00fasica brasileira de hoje e de ontem reunidas em uma \u00fanica playlist. Foto: Gal Costa",
-  "num_followers": 331122,
+  "num_followers": 331170,
   "original_name": "Escuta as Minas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDRjZjAzMjdlYWIyODI1Njg4OGZhZDYyZmQwZGZjN2NmMzFkOGEz",
+  "snapshot_id": "MCw3NzZiMTJhYTBmYTE4NDliZmUyMzgyM2VmYjliZmE1MDQ0Mzc1YzA5",
   "tracks": [
     {
       "added_at": "2022-10-07 03:01:33",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "C\u00e9u Azul",
+        "url": "https://open.spotify.com/album/4d8qHcNLN7LUC6dogWwKvD"
+      },
+      "artists": [
+        {
+          "name": "Paula Toller",
+          "url": "https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs"
+        }
+      ],
+      "duration_ms": 204221,
+      "name": "C\u00e9u Azul",
+      "url": "https://open.spotify.com/track/4VRGyVtzKZWEIw87TSoinl"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Asa Morena",
         "url": "https://open.spotify.com/album/0jP4j74A5rX2B9Ump7jH4e"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 226243,
       "name": "X",
       "url": "https://open.spotify.com/track/0yxu73Lfmnu96II1VxvpfQ"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "C\u00e9u Azul",
-        "url": "https://open.spotify.com/album/4d8qHcNLN7LUC6dogWwKvD"
-      },
-      "artists": [
-        {
-          "name": "Paula Toller",
-          "url": "https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs"
-        }
-      ],
-      "duration_ms": 204221,
-      "name": "C\u00e9u Azul",
-      "url": "https://open.spotify.com/track/4VRGyVtzKZWEIw87TSoinl"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
+        "name": "\u00c9 o Que Temos",
+        "url": "https://open.spotify.com/album/03utxHaTJdMsn4yYpb26bQ"
+      },
+      "artists": [
+        {
+          "name": "B\u00e1rbara Eug\u00eania",
+          "url": "https://open.spotify.com/artist/0FJA2ViptVdnv30E7cg51l"
+        }
+      ],
+      "duration_ms": 248946,
+      "name": "Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4l9yenHEy1NXpRl4xEYnhu"
+    },
+    {
+      "added_at": "2022-10-07 03:01:33",
+      "album": {
         "name": "Jaguatirica Print",
         "url": "https://open.spotify.com/album/0JkLQKEz5jnRohRSLIEewl"
       },
@@ -1447,18 +1463,18 @@
     {
       "added_at": "2022-10-07 03:01:33",
       "album": {
-        "name": "\u00c9 o Que Temos",
-        "url": "https://open.spotify.com/album/03utxHaTJdMsn4yYpb26bQ"
+        "name": "Little Electric Chicken Heart",
+        "url": "https://open.spotify.com/album/4q7tlhOQTwlJAUkoFBa2dv"
       },
       "artists": [
         {
-          "name": "B\u00e1rbara Eug\u00eania",
-          "url": "https://open.spotify.com/artist/0FJA2ViptVdnv30E7cg51l"
+          "name": "Ana Frango El\u00e9trico",
+          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
         }
       ],
-      "duration_ms": 248946,
-      "name": "Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4l9yenHEy1NXpRl4xEYnhu"
+      "duration_ms": 220451,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/1913rwKfOrsp8R6CY37b7H"
     },
     {
       "added_at": "2022-10-07 03:01:33",
@@ -1503,22 +1519,6 @@
       "duration_ms": 239669,
       "name": "Ora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2OuCkfX39Geg49wLwjsQ9z"
-    },
-    {
-      "added_at": "2022-10-07 03:01:33",
-      "album": {
-        "name": "Little Electric Chicken Heart",
-        "url": "https://open.spotify.com/album/4q7tlhOQTwlJAUkoFBa2dv"
-      },
-      "artists": [
-        {
-          "name": "Ana Frango El\u00e9trico",
-          "url": "https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1"
-        }
-      ],
-      "duration_ms": 220451,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/1913rwKfOrsp8R6CY37b7H"
     },
     {
       "added_at": "2022-10-07 03:01:33",

@@ -4,7 +4,7 @@
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: yama
 
-125 songs - 7 hr 33 min
+126 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [doll](https://open.spotify.com/track/4LbegEhpVETr2aAOoo6kP5) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Welcome to My Castle](https://open.spotify.com/album/6DSelDneeVFEluC97trMur) | 3:33 | 2023-11-23 | 2023-12-13 |
 | [DOMINO \(JO1 ver.\)](https://open.spotify.com/track/2rz0rsOMAqjJUUnRNwZET3) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [DOMINO \(JO1 ver.\)](https://open.spotify.com/album/6An9Xdk3z7317nbg66wVAs) | 3:27 | 2023-12-12 | 2023-12-20 |
 | [Dreamer Drivers](https://open.spotify.com/track/5G4Pikk7rn4kGvgjZ9njNk) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [Dreamer Drivers](https://open.spotify.com/album/5iSbbsT99xlq3TAlY2wXSi) | 3:42 | 2023-11-30 | 2023-12-13 |
-| [Dried Flowers](https://open.spotify.com/track/4ybB34O2vsjSQRBIuWw3Cp) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Utattemita Album](https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf) | 4:48 | 2023-12-12 |  |
+| [Dried Flowers](https://open.spotify.com/track/4ybB34O2vsjSQRBIuWw3Cp) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Utattemita Album](https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf) | 4:48 | 2023-12-12 | 2023-12-23 |
 | [fake face dance music](https://open.spotify.com/track/4ayU74yaWEgHHpaf1WJ313) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [fake face dance music](https://open.spotify.com/album/1oSTnI41dwQQbO2GaYEL4I) | 2:31 | 2023-11-23 | 2023-11-29 |
 | [FEEL OR BEEF BADPOP IS DEAD](https://open.spotify.com/track/46FKKQrKaQJVz1kZNr3Aid) | [NAMEDARUMAAZ](https://open.spotify.com/artist/6y1Kuh89ySfhDL6lXPshpi) | [FEEL OR BEEF BADPOP IS DEAD](https://open.spotify.com/album/64jZuo9pd3g1aisDw4vcDa) | 6:49 | 2023-12-15 |  |
 | [FRIENDLY･NIGHTMARE](https://open.spotify.com/track/75AtakQOaa5aiIijRBuHic) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp) | [野菜室](https://open.spotify.com/album/4gLOZcHug1wtpLWsQ31WE1) | 3:58 | 2023-11-23 | 2023-11-29 |
@@ -74,6 +74,7 @@
 | [TURN IT UP \- feat\. Candee & ZOT on the WAVE](https://open.spotify.com/track/3BjCtb7zq4Nn1riQhneMwo) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [ZOT on the WAVE](https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH) | [TURN IT UP \(feat\. Candee & ZOT on the WAVE\)](https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z) | 3:13 | 2023-11-23 |  |
 | [U Are My Paradise](https://open.spotify.com/track/3sdo6IqAbWbu8rDsZE2ilQ) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4) | [U Are My Paradise](https://open.spotify.com/album/4hifUmkTUBbd654FpY0QS8) | 3:15 | 2023-12-19 |  |
 | [U Are My Paradise](https://open.spotify.com/track/5m2siTGj9XaBSReCVZuELz) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4) | [U Are My Paradise](https://open.spotify.com/album/6AyjfZADiVfxb9JWcM3lfD) | 3:15 | 2023-12-19 | 2023-12-21 |
+| [unravel](https://open.spotify.com/track/0Cez33GqDU7Pw5rqOVUPpU) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado's Utattemita Album](https://open.spotify.com/album/2tGokYNjX87AAodtbLBYuf) | 3:58 | 2023-12-22 |  |
 | [Unstable](https://open.spotify.com/track/0kzF81ArFP6NwGUn6E4EXu) | [空音](https://open.spotify.com/artist/3rTxb36W3M1BCxx00iiwMU) | [Life Teller](https://open.spotify.com/album/0CtGAU2zSJQdzX3POIRtN5) | 3:26 | 2023-11-23 | 2023-11-29 |
 | [Welcome](https://open.spotify.com/track/2eret7tEFawBg7ivErrSdx) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [Welcome to My Castle](https://open.spotify.com/album/7gkjbmsbhiXCDPmKYGPk2l) | 3:17 | 2023-12-12 | 2023-12-20 |
 | [Winter Candle](https://open.spotify.com/track/4msb9K8jtCWI8MJgnyt3ro) | [A夏目](https://open.spotify.com/artist/2HUc3XMRhQi0UBcSGGa0mH) | [Winter Candle](https://open.spotify.com/album/3Ll0Gxx43IIuBwhJuAH5Du) | 4:04 | 2023-11-23 | 2023-11-29 |

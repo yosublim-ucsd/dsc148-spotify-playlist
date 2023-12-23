@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 25403,
+  "num_followers": 25419,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWJkOTk0ZmE4YTFmNzk0OTdlZGU3YTY3NTgwZmEzOGI1MjRlZjhj",
+  "snapshot_id": "MCw5NzJkYzc4MmE1YmU0MzdjNDUwMmQwNDQ5ZTI0MGJlMWUxYjBhODRi",
   "tracks": [
     {
       "added_at": "2023-12-08 03:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Jurassik Funk",
-        "url": "https://open.spotify.com/album/0EKOrxgDltNB2OjrPPAQy8"
-      },
-      "artists": [
-        {
-          "name": "Jurassik Funk",
-          "url": "https://open.spotify.com/artist/3btloSh9XNNgniuk85Z6x0"
-        }
-      ],
-      "duration_ms": 286440,
-      "name": "Pick Up On Your Line",
-      "url": "https://open.spotify.com/track/2dM7ASP6qqUlDvAKnQSEgr"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Croupier Funk",
         "url": "https://open.spotify.com/album/2mZ9BW4pubExqAcyCEQtP1"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 342857,
       "name": "Fornicazzione",
       "url": "https://open.spotify.com/track/3TsyBes13Sv5NSHT731ERU"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Jurassik Funk",
+        "url": "https://open.spotify.com/album/0EKOrxgDltNB2OjrPPAQy8"
+      },
+      "artists": [
+        {
+          "name": "Jurassik Funk",
+          "url": "https://open.spotify.com/artist/3btloSh9XNNgniuk85Z6x0"
+        }
+      ],
+      "duration_ms": 286440,
+      "name": "Pick Up On Your Line",
+      "url": "https://open.spotify.com/track/2dM7ASP6qqUlDvAKnQSEgr"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Metamorfosis",
-        "url": "https://open.spotify.com/album/6fsrEl3P1Fj8ehM4XYkyiC"
-      },
-      "artists": [
-        {
-          "name": "Tapones de Punta",
-          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
-        }
-      ],
-      "duration_ms": 296120,
-      "name": "El Cocinero",
-      "url": "https://open.spotify.com/track/6herLkW2vgVBvtGXlGcAEG"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Family Game",
         "url": "https://open.spotify.com/album/5ERVTaDTdK8gCSMGH0K0s3"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 218045,
       "name": "B\u00e9sala",
       "url": "https://open.spotify.com/track/3IPmxzelbMUy6kdhfhSueF"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Metamorfosis",
+        "url": "https://open.spotify.com/album/6fsrEl3P1Fj8ehM4XYkyiC"
+      },
+      "artists": [
+        {
+          "name": "Tapones de Punta",
+          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
+        }
+      ],
+      "duration_ms": 296120,
+      "name": "El Cocinero",
+      "url": "https://open.spotify.com/track/6herLkW2vgVBvtGXlGcAEG"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -891,26 +891,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Flecha Verde",
-        "url": "https://open.spotify.com/album/3c1p52P7u2HB76AMZSVgE2"
-      },
-      "artists": [
-        {
-          "name": "Tapones de Punta",
-          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
-        },
-        {
-          "name": "Ruben Rada",
-          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
-        }
-      ],
-      "duration_ms": 183215,
-      "name": "Flecha Verde",
-      "url": "https://open.spotify.com/track/2qOap48YXxJbXkUBBTtg2p"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Peluche Peligroso",
         "url": "https://open.spotify.com/album/32szAPsRimQbYpPl4Bvkfn"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 266203,
       "name": "Mi Propio Para\u00edso",
       "url": "https://open.spotify.com/track/3JYUCQOHCkbvnZLZjpRQxc"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Flecha Verde",
+        "url": "https://open.spotify.com/album/3c1p52P7u2HB76AMZSVgE2"
+      },
+      "artists": [
+        {
+          "name": "Tapones de Punta",
+          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
+        },
+        {
+          "name": "Ruben Rada",
+          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+        }
+      ],
+      "duration_ms": 183215,
+      "name": "Flecha Verde",
+      "url": "https://open.spotify.com/track/2qOap48YXxJbXkUBBTtg2p"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Sr. A",
-        "url": "https://open.spotify.com/album/4BmsB5lLUuAGWhFJbTKiok"
-      },
-      "artists": [
-        {
-          "name": "Tapones de Punta",
-          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
-        }
-      ],
-      "duration_ms": 213267,
-      "name": "Sr. A",
-      "url": "https://open.spotify.com/track/5oUv3g3LeyyADj4jQMsMRr"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Peluche Peligroso",
         "url": "https://open.spotify.com/album/32szAPsRimQbYpPl4Bvkfn"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 227221,
       "name": "La Buena Vida",
       "url": "https://open.spotify.com/track/3KnVVquGyEkY3ECjuBMZMK"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Sr. A",
+        "url": "https://open.spotify.com/album/4BmsB5lLUuAGWhFJbTKiok"
+      },
+      "artists": [
+        {
+          "name": "Tapones de Punta",
+          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
+        }
+      ],
+      "duration_ms": 213267,
+      "name": "Sr. A",
+      "url": "https://open.spotify.com/track/5oUv3g3LeyyADj4jQMsMRr"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Crisis",
-        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
-      },
-      "artists": [
-        {
-          "name": "Jvlian",
-          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
-        }
-      ],
-      "duration_ms": 131315,
-      "name": "Droga",
-      "url": "https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Tangible",
         "url": "https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 224864,
       "name": "Back up in Flames",
       "url": "https://open.spotify.com/track/7c4BwXfR0CeJFWZ5NTW0er"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
+      },
+      "artists": [
+        {
+          "name": "Jvlian",
+          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
+        }
+      ],
+      "duration_ms": 131315,
+      "name": "Droga",
+      "url": "https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
+        "name": "Tangible",
+        "url": "https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG"
+      },
+      "artists": [
+        {
+          "name": "Jasper",
+          "url": "https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG"
+        }
+      ],
+      "duration_ms": 315922,
+      "name": "Beast in You",
+      "url": "https://open.spotify.com/track/6hZ8kRu0uxj2s6ujZH2Mn9"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
         "name": "Best Of Us",
         "url": "https://open.spotify.com/album/3yfSd47G0hdBqXUeKCiVSH"
       },
@@ -1503,6 +1519,22 @@
       "duration_ms": 185024,
       "name": "Best Of Us",
       "url": "https://open.spotify.com/track/4wrdly1XwZaZP8b2I4Iv5t"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Melod\u00edas",
+        "url": "https://open.spotify.com/album/4KtxaUtnvHgtieeMvlA1Kj"
+      },
+      "artists": [
+        {
+          "name": "Monoson",
+          "url": "https://open.spotify.com/artist/3d56fwrxkhDUwyTeV6g56A"
+        }
+      ],
+      "duration_ms": 185312,
+      "name": "Melod\u00edas",
+      "url": "https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1535,38 +1567,6 @@
       "duration_ms": 270706,
       "name": "Traffic (Groovin' de bondi)",
       "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
-        "name": "Melod\u00edas",
-        "url": "https://open.spotify.com/album/4KtxaUtnvHgtieeMvlA1Kj"
-      },
-      "artists": [
-        {
-          "name": "Monoson",
-          "url": "https://open.spotify.com/artist/3d56fwrxkhDUwyTeV6g56A"
-        }
-      ],
-      "duration_ms": 185312,
-      "name": "Melod\u00edas",
-      "url": "https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
-        "name": "Tangible",
-        "url": "https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG"
-      },
-      "artists": [
-        {
-          "name": "Jasper",
-          "url": "https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG"
-        }
-      ],
-      "duration_ms": 315922,
-      "name": "Beast in You",
-      "url": "https://open.spotify.com/track/6hZ8kRu0uxj2s6ujZH2Mn9"
     },
     {
       "added_at": "2023-12-08 03:00:00",

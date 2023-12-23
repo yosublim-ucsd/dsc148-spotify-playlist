@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: The Cleverlys
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,459 likes - 139 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,520 likes - 139 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 26 | [Drivin' Nails In My Coffin \- Live](https://open.spotify.com/track/17Q2QAFPkogLUFC6SMcdIA) | [Country's Family Reunion](https://open.spotify.com/artist/3w2g8LE0HrfXMMs3dgnfPt), [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [Simply Bluegrass \(Live / Vol\. 1\)](https://open.spotify.com/album/5jK9gV35FK2BL18iTGEn2B) | 3:10 |
 | 27 | [Take Me Home, Country Roads](https://open.spotify.com/track/6b5vrTPZKmnDgvf3URdOOe) | [Southern Raised](https://open.spotify.com/artist/4R6Hnjk4k3QzifbwQ05NQH) | [Take Me Home, Country Roads](https://open.spotify.com/album/1mYzbWj0oTiGfhslwKprO4) | 3:39 |
 | 28 | [Stop Draggin' My Heart Around](https://open.spotify.com/track/4dVdOYwqfTceuuiUdUWhsx) | [Dale Ann Bradley](https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm), [Dave Adkins](https://open.spotify.com/artist/3RyXAPEFlMjXqy8dFADBaz) | [Kentucky for Me](https://open.spotify.com/album/1LGzbxuKK6FgvnAGDbSnjv) | 3:08 |
-| 29 | [The Boxer feat\. Mumford & Sons and Paul Simon](https://open.spotify.com/track/73C8vVm2BRLLBQ8FH6N6Qm) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Traveler](https://open.spotify.com/album/6YNQ1O9C5AVtOGEPIIwkAG) | 4:05 |
+| 29 | [The Boxer feat\. Mumford & Sons and Paul Simon](https://open.spotify.com/track/1GXMLU8qafDOavxXIQPoag) | [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Traveler](https://open.spotify.com/album/0Ylhn0L6WD0SEMbF8hYtNT) | 4:05 |
 | 30 | [Simple Twist Of Fate](https://open.spotify.com/track/6Y5In9hWevpuyuGNqb6tXn) | [Leftover Salmon](https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz) | [Simple Twist Of Fate](https://open.spotify.com/album/7rQP96czGfr6EIzmkBomzm) | 4:58 |
 | 31 | [Ohio](https://open.spotify.com/track/4tLtJETF7b6BDjDoAxgBD7) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Ohio](https://open.spotify.com/album/4gxVhz09xgQ2b7QjnmV3Vl) | 2:53 |
 | 32 | [Guess I'm Doing Fine](https://open.spotify.com/track/1nYepgS69x8u58SHOpfkSq) | [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb), [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [Guess I'm Doing Fine](https://open.spotify.com/album/7CvyXC5glE5wSTiaTW7Q21) | 4:40 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 138 | [No Diggity](https://open.spotify.com/track/2X2mue7uhDOCEgA3ewrB2l) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/0tDKZRvMt5Ek8ejQrnd4OU) | 5:51 |
 | 139 | [On The Road Again](https://open.spotify.com/track/3xkY21Y37cXIHrWTQBAKNZ) | [Craig Duncan](https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t) | [Country Mountain Tributes: The Songs of Willie Nelson](https://open.spotify.com/album/5hVPIFkN55JJWu2iM6CW5D) | 3:22 |
 
-Snapshot ID: `MCw3YTE0ODk0Njc4ZmJmNmFlN2E4ZTZiOGZhZDFhNzNiYTllNTQwNWQ0`
+Snapshot ID: `MCwwMWEzMGI1YjBkZThhMzYwMmQzMjA5NDI0YjhjOTY2OGY2YTFlMGU3`

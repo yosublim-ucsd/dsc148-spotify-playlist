@@ -4,11 +4,12 @@
 
 > Sunny beats and the latest heat to soundtrack your summer.
 
-70 songs - 3 hr 52 min
+71 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Be Your Girl \(Kaytranada Edition\)](https://open.spotify.com/track/38spM0LahLUfQhOMAqA7AI) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Be Your Girl \(Kaytranada Edition\)](https://open.spotify.com/album/72D0SqH6YFJ7kiZUjKt20c) | 4:28 | 2018-09-14 |  |
+| [Be Your Girl \(Kaytranada Edition\)](https://open.spotify.com/track/0NdKnpfDtqT4ejsW4H58x4) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Be Your Girl \(Kaytranada Edition\)](https://open.spotify.com/album/77jeUjXkwa8D5WQYIs8eBu) | 4:28 | 2022-09-27 |  |
+| [Be Your Girl \(Kaytranada Edition\)](https://open.spotify.com/track/38spM0LahLUfQhOMAqA7AI) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Be Your Girl \(Kaytranada Edition\)](https://open.spotify.com/album/72D0SqH6YFJ7kiZUjKt20c) | 4:28 | 2018-09-14 | 2023-12-23 |
 | [Be Your Girl \(Kaytranada Edition\)](https://open.spotify.com/track/7xAE36UUNgyDJDIM4yiucY) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Be Your Girl \(Kaytranada Edition\)](https://open.spotify.com/album/4HUulHBL22YUjwG5WTje5N) | 4:28 | 2018-09-14 | 2022-07-29 |
 | [Before You Get a Boyfriend.](https://open.spotify.com/track/4KVTbc2x0EahbAaLHv8TkH) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Before You Get a Boyfriend.](https://open.spotify.com/album/09vk699RVpDUZ0fPXbTfZS) | 4:13 | 2018-09-14 |  |
 | [Change](https://open.spotify.com/track/5pNwF0rBqhPkMxNXxXZkI3) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Future Disco: Beach Life 2.0](https://open.spotify.com/album/6UUxuEIJ6ygesbtQZ2D8zm) | 4:35 | 2022-09-27 | 2022-11-13 |

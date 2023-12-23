@@ -1476,10 +1476,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 186213,
       "name": "Heart's for Mine",
       "url": "https://open.spotify.com/track/1IN3yi4InzQxvokJ3ks8tr"
+    },
+    {
+      "album": {
+        "name": "Got Dressed Up to be Let Down",
+        "url": "https://open.spotify.com/album/4s41xqAkRsxShzcNUnNhJ4"
+      },
+      "artists": [
+        {
+          "name": "Jack Grelle",
+          "url": "https://open.spotify.com/artist/5vSOsUL2Sp1JTsfh0HsRor"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186213,
+      "name": "Heart's for Mine",
+      "url": "https://open.spotify.com/track/69Rgs5RABQtCV7w3YjogZF"
     },
     {
       "album": {

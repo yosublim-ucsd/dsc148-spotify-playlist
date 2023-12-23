@@ -729,6 +729,24 @@
     },
     {
       "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/4oYsIUSuJY9ZPTE1WfVdnY"
+      },
+      "artists": [
+        {
+          "name": "breakk.away",
+          "url": "https://open.spotify.com/artist/5z5HaEaQY18oRwCuIXf826"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205002,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/5w4XPMyvehdEJdtU4ZU67B"
+    },
+    {
+      "album": {
         "name": "Make Yourself",
         "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
       },

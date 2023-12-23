@@ -208,6 +208,28 @@
     {
       "album": {
         "name": "Home",
+        "url": "https://open.spotify.com/album/0jZJyRsNYak1JkUjHWj5ou"
+      },
+      "artists": [
+        {
+          "name": "Tim Kubart",
+          "url": "https://open.spotify.com/artist/1mmtvYjQNZ4rNL20mT1wDp"
+        },
+        {
+          "name": "Laurie Berkner",
+          "url": "https://open.spotify.com/artist/09tp8mo8yb7UVbmmgWbsbi"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160109,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/4numkOpppqV6z3FHA6bZrm"
+    },
+    {
+      "album": {
+        "name": "Home",
         "url": "https://open.spotify.com/album/2H0XQvwCPn5Lsw105oQUUK"
       },
       "artists": [
@@ -222,7 +244,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 160109,
       "name": "Better",
       "url": "https://open.spotify.com/track/4lMSGgltArBFVHrDr8ukDu"
@@ -446,10 +468,32 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 205216,
       "name": "Breakfast Club",
       "url": "https://open.spotify.com/track/47TzTejrEjIGj30p9iAaDw"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/0jZJyRsNYak1JkUjHWj5ou"
+      },
+      "artists": [
+        {
+          "name": "Tim Kubart",
+          "url": "https://open.spotify.com/artist/1mmtvYjQNZ4rNL20mT1wDp"
+        },
+        {
+          "name": "Carly Ciarrocchi",
+          "url": "https://open.spotify.com/artist/0L6dlPvmSXJ7pKkp7j03VC"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205216,
+      "name": "Breakfast Club",
+      "url": "https://open.spotify.com/track/5wMFdOpYoUboF8glDSSlZc"
     },
     {
       "album": {

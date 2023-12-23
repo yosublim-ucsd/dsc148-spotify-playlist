@@ -1313,6 +1313,24 @@
     },
     {
       "album": {
+        "name": "The Lone Ranger",
+        "url": "https://open.spotify.com/album/7DnuF02akJmIUTf8QOnDUa"
+      },
+      "artists": [
+        {
+          "name": "Charlie Farley",
+          "url": "https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "I Ain't Bullshit'n",
+      "url": "https://open.spotify.com/track/1w6DVjzGZkneW30aXGTe5M"
+    },
+    {
+      "album": {
         "name": "Broken",
         "url": "https://open.spotify.com/album/0vFFeehyxP9DIMR4gGpXap"
       },

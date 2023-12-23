@@ -4,7 +4,7 @@
 
 > Soft and cozy acoustic covers of famous songs.
 
-439 songs - 23 hr 47 min
+440 songs - 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Break My Heart \- Piano Acoustic](https://open.spotify.com/track/7e5HVLu9xSydLebKSqBebM) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Break My Heart \(Piano Acoustic\)](https://open.spotify.com/album/22QRfaVmqwWc1HqzQW69XB) | 3:38 | 2022-11-11 | 2023-10-28 |
 | [breakeven](https://open.spotify.com/track/1LvA1xObKcFK4eMsEKsEzP) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [breakeven](https://open.spotify.com/album/31NdbzRpE5w6lfvLdMsDeO) | 3:30 | 2023-01-04 | 2023-10-28 |
 | [Breaking Me \- Acoustic Version](https://open.spotify.com/track/0mFWr2JK53ff1rIjle2PWm) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me \(Remixes\)](https://open.spotify.com/album/48PG4pmiNVsiWrn87l7XbT) | 2:47 | 2022-11-11 | 2023-10-28 |
+| [Breathless](https://open.spotify.com/track/2p5TVHyvFkVFBcJNKHwjh4) | [WestSouth](https://open.spotify.com/artist/3WOmfcfJJjfAuUAHeiNxY0) | [Breathless](https://open.spotify.com/album/4kJIsjIBDje8BRZb6xoVMn) | 2:46 | 2023-12-15 |  |
 | [Bruises \- Guitar Acoustic](https://open.spotify.com/track/77IwQu0ItQ9ph6F9gDhMLk) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Bruises EP](https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR) | 3:46 | 2021-03-11 | 2022-11-26 |
 | [Bullet \- Stripped](https://open.spotify.com/track/44II9PuFOHXHRbORLDr6Kt) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Bullet \- Stripped](https://open.spotify.com/album/3WXIxadM9t6tHIbDdeUjUU) | 3:09 | 2023-01-20 | 2023-02-15 |
 | [Bullet \- Stripped](https://open.spotify.com/track/5qiROfHRf9zfZqiUtP0Vqs) | [Laura Zocca](https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7) | [Bullet \- Stripped](https://open.spotify.com/album/3XXF972ndwpoopGkCF6749) | 3:09 | 2023-01-20 | 2023-10-28 |
@@ -120,7 +121,7 @@
 | [Dancing with Tears in My Eyes \- Acoustic Version](https://open.spotify.com/track/3ISO5uPwAdDcfyVDxJovDt) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f), [Natalie Major](https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL) | [Dancing with Tears in My Eyes \(Acoustic Version\)](https://open.spotify.com/album/0N9AXQpUkXEBY2o2Ekes5C) | 3:30 | 2021-03-11 | 2023-04-14 |
 | [Demons \- Acoustic](https://open.spotify.com/track/3TAr9I2A2kwQt9iCi1iRFN) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [Demons \- Acoustic Cover](https://open.spotify.com/album/6mcNDNhARQFWyHzRG9Yz8K) | 3:04 | 2022-12-02 | 2023-03-10 |
 | [Desperado](https://open.spotify.com/track/0ReprZkqLJKjuBH0nowV44) | [Sarah Kristine](https://open.spotify.com/artist/6WfvaZWV6UXdkzG9oQCxw9) | [Desperado](https://open.spotify.com/album/6bhSX2BYFGgJ3iw4wnpkWZ) | 3:11 | 2023-10-27 |  |
-| [Diamonds](https://open.spotify.com/track/0uXKksgFQS0qgjpEKv82wA) | [Beatrice](https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8) | [Diamonds](https://open.spotify.com/album/5LFXHU0Ed4S71AN5baidDF) | 3:26 | 2023-12-15 |  |
+| [Diamonds](https://open.spotify.com/track/0uXKksgFQS0qgjpEKv82wA) | [Beatrice](https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8) | [Diamonds](https://open.spotify.com/album/5LFXHU0Ed4S71AN5baidDF) | 3:26 | 2023-12-15 | 2023-12-23 |
 | [Diamonds \- Acoustic](https://open.spotify.com/track/4y8OZW2dyWRobsi2w0C64W) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Diamonds \(Acoustic\)](https://open.spotify.com/album/6xMjjKuAngFJw7oh0lsfG8) | 3:14 | 2021-03-11 | 2022-12-02 |
 | [Die For You](https://open.spotify.com/track/6IrCjGPCRIyALjoR8UuUIy) | [Hanster](https://open.spotify.com/artist/1dGQPw9YakyRaUuDGF0AKt) | [Die For You](https://open.spotify.com/album/6ZaquWVb3EXIUAR7Fey5Gq) | 3:47 | 2023-04-14 | 2023-10-28 |
 | [Dilemma](https://open.spotify.com/track/5MZYOtR8fcaZoWzweBNdMm) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK), [Taylor Manns](https://open.spotify.com/artist/008yUYD9avjHlXXmT47dz9) | [Dilemma](https://open.spotify.com/album/5Jj8Jcob18UYy4GhRNrSMq) | 4:07 | 2022-08-31 | 2023-04-14 |

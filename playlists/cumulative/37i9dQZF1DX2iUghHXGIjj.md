@@ -4,7 +4,7 @@
 
 > Raw, emotional, and acoustic\. Cover: Charlie Musselwhite
 
-168 songs - 10 hr 30 min
+169 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Blessings and Blues](https://open.spotify.com/track/3OCKRAHhEjcKIvJLdMKfPK) | [Bob Margolin](https://open.spotify.com/artist/65SzANOjjJbCdHGbjDkPMU), [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH) | [Blessings and Blues](https://open.spotify.com/album/3jwBxGIKQ3tIuENpVWSvoL) | 2:34 | 2022-05-13 | 2022-06-18 |
 | [Brazos River Blues](https://open.spotify.com/track/0mhROANTkoXNVe3fF5DDPi) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Global Griot](https://open.spotify.com/album/2GraWMDrJYtWr4VbOGKwT3) | 2:31 | 2020-08-11 |  |
 | [Brazos River Blues](https://open.spotify.com/track/6lWbufKOd1mQYdhSYEL3vE) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Global Griot](https://open.spotify.com/album/0b8jmTwNddvlh7RBTKTvPn) | 2:31 | 2020-08-11 | 2022-07-29 |
-| [Break My Fall](https://open.spotify.com/track/6KbHosVLv94wZG6lhZdAp9) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Head Bent](https://open.spotify.com/album/4VXrAdqkFnz2qNJGO0wmKL) | 4:25 | 2020-08-11 |  |
+| [Break My Fall](https://open.spotify.com/track/0VSZBPnOE1hWGK3bcZMIB2) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Head Bent](https://open.spotify.com/album/1vgBs7x0Zyoi6lcXiTjz6q) | 4:25 | 2020-08-11 |  |
+| [Break My Fall](https://open.spotify.com/track/6KbHosVLv94wZG6lhZdAp9) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Head Bent](https://open.spotify.com/album/4VXrAdqkFnz2qNJGO0wmKL) | 4:25 | 2020-08-11 | 2023-12-23 |
 | [Break My Fall](https://open.spotify.com/track/7FSeN06d370hAEdv7hCqcU) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Head Bent](https://open.spotify.com/album/2rSZBqwYTxFHA9yXxxdXxs) | 4:25 | 2020-08-11 | 2022-07-29 |
 | [Bumble Bee](https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R) | [Peter Case](https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3) | [The Midnight Broadcast](https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6) | 3:34 | 2021-03-12 |  |
 | [Bumble Bee \(Live\)](https://open.spotify.com/track/3qbUXMhOaadA7pSyrjbI4p) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Live at Brighton Road](https://open.spotify.com/album/70hokf3NOWBHAq6tzJV0Do) | 3:40 | 2020-08-11 | 2023-07-01 |

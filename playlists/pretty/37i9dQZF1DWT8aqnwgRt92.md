@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,389,476 likes - 85 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,389,874 likes - 85 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 27 | [Anytime Anywhere](https://open.spotify.com/track/7FeEiAWqWScpMFnlLSUvX2) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Anytime Anywhere](https://open.spotify.com/album/66OrMbPN4equuw2hHbjA1X) | 3:50 |
 | 28 | [好きにしなよ](https://open.spotify.com/track/3Yyc0Ccj7lZ3VOgBFMlEQo) | [Anly](https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz) | [好きにしなよ](https://open.spotify.com/album/0himSAZSz3XxBPhX5JWs6p) | 4:26 |
 | 29 | [トドメの一撃](https://open.spotify.com/track/7sd09c4dFK5dLHRsySex9L) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 5:10 |
-| 30 | [Sad Man's Land](https://open.spotify.com/track/4xyUAs7SidlrpWhIPM7HDI) | [Kento Ito](https://open.spotify.com/artist/07VroOJ1SGvFrdu69YwEdd) | [Sad Man's Land](https://open.spotify.com/album/0AIgo5bU09D3dqvChlq1HZ) | 3:30 |
+| 30 | [Sad Man's Land](https://open.spotify.com/track/4xyUAs7SidlrpWhIPM7HDI) | [Kent Ito](https://open.spotify.com/artist/3UQapJyENH6KwfJbjA0krM) | [Sad Man's Land](https://open.spotify.com/album/0AIgo5bU09D3dqvChlq1HZ) | 3:30 |
 | 31 | [月光浴](https://open.spotify.com/track/6HyPxNFn7WcIIGVIPejiB1) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [月光浴](https://open.spotify.com/album/1I4xPMfCn7EWu1OBuQdZ6Q) | 4:08 |
 | 32 | [Towards the Light \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/5mGYUEVZ9UR7JYKCbgWnkV) | [XAI](https://open.spotify.com/artist/2r3DAIz6afSzxVnM1Rzj3N), [神前 暁](https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk) | [Towards the Light \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/album/3SOGVZE05ZKcJSLIm3BLR6) | 2:28 |
 | 33 | [BROKEN GAMES](https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb) | [BROKEN GAMES](https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd) | 3:56 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [Yumagadoki](https://open.spotify.com/track/5ZQfzVe2AZ2YGeW04QNWmn) | [Soraru & Rib](https://open.spotify.com/artist/2xagT4uswba0ebsK4tlNr2), [Soraru](https://open.spotify.com/artist/2hRrM4EVq5bjYRHQvX7goz), [Rib](https://open.spotify.com/artist/4eO7EIigOqHaFTZD1oqK5f) | [Collaboration Single "Yumagadoki" \-TV Anime "Migi & Dali" OpeningTheme\-](https://open.spotify.com/album/5HjBHw6gFDGDkrR0e694mn) | 3:36 |
 | 85 | [Perfect World](https://open.spotify.com/track/0wbjzPFuDHLWQs3Aw0vRIH) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [Perfect World EP](https://open.spotify.com/album/2pEkFJTFkRgN9CkpJ8mRwJ) | 3:42 |
 
-Snapshot ID: `MCw5N2Y5MjQ2ODI4NzZiMjQ3ZjFhZDBlMTNlZmUxNTYxZWEyYzM3Yjc3`
+Snapshot ID: `MCxjNmNiOTVkYzdhYmU3YTUyNmEzYTVhZjhiZDliZDY1OTE4Mzk1NGUy`

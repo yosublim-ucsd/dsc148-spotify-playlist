@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-812 songs - 1 day 16 hr 44 min
+813 songs - 1 day 16 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Ali Cabbar](https://open.spotify.com/track/1u9oZzM8CTeCMXsdTXaOtY) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Parti İptal](https://open.spotify.com/album/1rx7Cdhc8lZwEbPkd2zLlF) | 3:09 | 2023-06-26 | 2023-09-06 |
 | [Allah’ından Bul](https://open.spotify.com/track/350aUOZhGtTOK1dQbQFKNc) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Allah’ından Bul](https://open.spotify.com/album/7kvSA869nORwy8uzrHxUko) | 3:01 | 2021-03-27\* | 2021-09-05 |
 | [Altüst Olmuşum](https://open.spotify.com/track/2VnefbnGEWUiCLXHKOtE6x) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [Altüst Olmuşum](https://open.spotify.com/album/5Zthwi7wMKTFPRUyJpJXqF) | 3:19 | 2021-10-12 | 2022-03-18 |
-| [Altüst Olmuşum](https://open.spotify.com/track/13THdxqHT11aSk3G8nUDzZ) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [Altüst Olmuşum](https://open.spotify.com/album/2ZvaHFZIZqdXz4S1CTa1LX) | 3:22 | 2022-03-18 |  |
+| [Altüst Olmuşum](https://open.spotify.com/track/13THdxqHT11aSk3G8nUDzZ) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme) | [Altüst Olmuşum](https://open.spotify.com/album/2ZvaHFZIZqdXz4S1CTa1LX) | 3:22 | 2022-03-18 | 2023-12-23 |
 | [Altıpatlar](https://open.spotify.com/track/4MDgfXmCtrUUT7PWv1thgG) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Keişan](https://open.spotify.com/artist/5Pd3tsRa9fj2Q3JPQ0tYEv) | [Altıpatlar](https://open.spotify.com/album/4uSKGQxzWavuOJMRY5HBLc) | 2:47 | 2022-03-05 | 2022-03-18 |
 | [Aman Güzel Yavaş Yürü](https://open.spotify.com/track/2uZ7RwAWJiLQUkupslGAVZ) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r), [Azer Bülbül](https://open.spotify.com/artist/2E7qpjo4NUBhV8tEUdPVkJ) | [Aman Güzel Yavaş Yürü](https://open.spotify.com/album/7pwq5tZSWASKlMg6DJlEcP) | 2:29 | 2023-06-25 |  |
 | [AMCAS RMX](https://open.spotify.com/track/6w55Qrt9626sXuYs01trjl) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO) | [AMCAS RMX](https://open.spotify.com/album/5z0IefAAQPkTshW861JWCu) | 2:29 | 2021-05-16 | 2021-11-22 |
@@ -114,7 +114,8 @@
 | [Barbar](https://open.spotify.com/track/0UN0qSJUnWWvIOgv3nYY2A) | [Kaan Boşnak](https://open.spotify.com/artist/03cvjFEHz8eGwYHq1L0Pp2) | [Barbar](https://open.spotify.com/album/6fBLCCARvyL2WNTR1QFJQB) | 3:00 | 2021-04-08 | 2021-10-23 |
 | [Basit Numaralar](https://open.spotify.com/track/30DEgnb76AxLZgrrvqNErB) | [Zerrin Özer](https://open.spotify.com/artist/2CleFSxMoxkm2RduyMwcrm) | [Basit Numaralar](https://open.spotify.com/album/2LvXYoKhhnYvGJsyBKIjWA) | 2:56 | 2023-09-10 |  |
 | [BASKIN \(feat\. Ceza & Gazapizm\)](https://open.spotify.com/track/6Cccs46H9lvssHSKypNe3D) | [DJ Sivo](https://open.spotify.com/artist/6hBbagFZrwC44AclzbxWvU), [Ceza](https://open.spotify.com/artist/28Qbi9jTj2eej21P2mImZI), [Gazapizm](https://open.spotify.com/artist/2boacFGRX1WIo7NFS8B0F2) | [Griot](https://open.spotify.com/album/0gFN1g60cmnD4HPFgujZVe) | 3:29 | 2021-07-11 | 2021-08-20 |
-| [Batık Gemi](https://open.spotify.com/track/00GZFsd16gSMedK2jHATQ4) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Karışık Kaset](https://open.spotify.com/album/4ugxmdGNXaqVHPuID09bs8) | 4:20 | 2023-12-16 |  |
+| [Batık Gemi](https://open.spotify.com/track/00GZFsd16gSMedK2jHATQ4) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Karışık Kaset](https://open.spotify.com/album/4ugxmdGNXaqVHPuID09bs8) | 4:20 | 2023-12-16 | 2023-12-23 |
+| [Batık Gemi](https://open.spotify.com/track/3Gpffv3gaD1UxQPeElIjCp) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Karışık Kaset](https://open.spotify.com/album/5SHv3oXpZdmsqHt57lY0Yg) | 4:20 | 2023-12-22 |  |
 | [BAYBAY](https://open.spotify.com/track/232LbugfZaCUwq82xiELtd) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [BAYBAY](https://open.spotify.com/album/2bEUcrPUf6xmKR55F5bh2o) | 3:11 | 2023-03-18 |  |
 | [BAYBAY](https://open.spotify.com/track/2QYc9Z0vdqsDgcRKHvg9qR) | [revient](https://open.spotify.com/artist/518ZNbTEeb6RifRfWNQ224), [JSON](https://open.spotify.com/artist/5AQ95bS3im8uXwX56pGVC2) | [BAYBAY](https://open.spotify.com/album/39ijDsCEuVWnVSi8Rnb8U3) | 3:11 | 2023-03-19 | 2023-03-21 |
 | [Başa Sar](https://open.spotify.com/track/0oTjuMN99JNRIj2CUdT3g7) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [Başa Sar](https://open.spotify.com/album/7reVX131NVuP74udQg1LPs) | 2:41 | 2021-04-13 | 2021-05-08 |
@@ -806,7 +807,7 @@
 | [Çift Gökkuşağı \(Ada Masalı Orijinal Dizi Müziği\)](https://open.spotify.com/track/23mm9aftN5GODdix3IY64M) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Çift Gökkuşağı \(Ada Masalı Orijinal Dizi Müziği\)](https://open.spotify.com/album/11QO5v6BppeVyIfe0TxRM9) | 2:22 | 2021-07-08 | 2021-07-18 |
 | [Çiftetelli](https://open.spotify.com/track/34MM2UIWX7JOdI7NmnVNyD) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Çiftetelli](https://open.spotify.com/album/40KYcI9yGdQhAWIOYyaE1L) | 2:11 | 2021-07-04 | 2021-07-16 |
 | [Çok Kolay](https://open.spotify.com/track/4BBee59kamxuAF3J0pS6GT) | [Ben Fero](https://open.spotify.com/artist/2kS0jWMkkFBL0mrl0VotD0) | [Çok Kolay](https://open.spotify.com/album/7hz72trerdO3cg4JP9TGx1) | 3:30 | 2022-08-13 | 2022-08-15 |
-| [Çok Yazık](https://open.spotify.com/track/6NbXYfMZULpf1sGxp8Qx0P) | [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [YANGIN](https://open.spotify.com/album/6El74tmpitoS7Z7NoO6xaO) | 3:38 | 2023-06-15 | 2023-12-17 |
+| [Çok Yazık](https://open.spotify.com/track/6NbXYfMZULpf1sGxp8Qx0P) | [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [YANGIN](https://open.spotify.com/album/6El74tmpitoS7Z7NoO6xaO) | 3:38 | 2023-06-15 |  |
 | [Ölebilirim](https://open.spotify.com/track/5jtqm1ZWbtyaUfhX9zc0ls) | [Bedo](https://open.spotify.com/artist/7xD3PtnXEsJeqsPtJ3N3si), [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [Ölebilirim](https://open.spotify.com/album/0P3wjoDhm36wToI7e2riWK) | 3:49 | 2021-05-17 | 2021-12-12 |
 | [Ölümle Yaşam Arasında](https://open.spotify.com/track/3ABGx9FyeEdMCjDR5TyfdV) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme), [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Ölümle Yaşam Arasında](https://open.spotify.com/album/61FFY1aI5DXTbAV5SJn95C) | 2:56 | 2022-10-06 | 2023-07-15 |
 | [Ömrüm](https://open.spotify.com/track/0GwSSml9L21vNI7VGLz1ae) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Murda](https://open.spotify.com/artist/09WqkYnqWKUQAYSlEvaf6s) | [Ömrüm](https://open.spotify.com/album/0Hnmp3HmLAReVVeCc4Bd9Y) | 4:00 | 2021-09-05 | 2022-01-30 |

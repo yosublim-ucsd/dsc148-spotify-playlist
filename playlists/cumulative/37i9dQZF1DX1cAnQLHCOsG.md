@@ -4,7 +4,7 @@
 
 > Pa' las posadas y las fiestas, canciones navideñas con sazón mexa\. Banda MS en portada.
 
-139 songs - 7 hr 33 min
+140 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,7 @@
 | [Ritmo Navideño](https://open.spotify.com/track/1N0gf2WAk4DGC4zdl2rQ1E) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Amante De Lo Bueno](https://open.spotify.com/album/2nCYuZBs86B7wJJjzRScAo) | 3:04 | 2022-11-07 |  |
 | [Rodolfo El Reno](https://open.spotify.com/track/37Q1Wd3pwUf5XyhDNqO70W) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Rodolfo El Reno](https://open.spotify.com/album/3TlEv9eHOPhTJqoh3Xn9aQ) | 3:27 | 2022-11-07 |  |
 | [Rodolfo El Reno](https://open.spotify.com/track/2b0z6YJpVcRBkrjQec1tJt) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Eterna Navidad Celebremos](https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu) | 2:23 | 2022-11-07 |  |
-| [Santa Claus llegó a la ciudad](https://open.spotify.com/track/7jDYqKfQQezQS6O5qsqATM) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Santa Claus llegó a la Ciudad](https://open.spotify.com/album/1PujNrSVIfwOcl0mIBpDFZ) | 2:23 | 2023-12-08 |  |
+| [Santa Claus llegó a la ciudad](https://open.spotify.com/track/7jDYqKfQQezQS6O5qsqATM) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Santa Claus llegó a la Ciudad](https://open.spotify.com/album/1PujNrSVIfwOcl0mIBpDFZ) | 2:23 | 2023-12-08 | 2023-12-23 |
 | [Santa Claus Llegó a la Ciudad](https://open.spotify.com/track/0do4Mg3bOyd1SV17C37vBT) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Sonidos de la Navidad](https://open.spotify.com/album/3v2pmfoTM6qZSmMYTBZdps) | 2:15 | 2022-11-07 |  |
 | [Santa Claus Llegó A La Ciudad](https://open.spotify.com/track/0mhMFUijO3lw9WdDqrfKyF) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Kenia Ríos](https://open.spotify.com/artist/7ib9pXPbXbKpokIVlUQwwr), [Anahi Ríos](https://open.spotify.com/artist/1wAbvXy6o5nu8b9TvzKt7l) | [Santa Claus Llegó A La Ciudad](https://open.spotify.com/album/6o2RTlfB7fblC9rUBihTSa) | 2:00 | 2022-11-07 |  |
 | [Santa Claus Llegó A La Ciudad](https://open.spotify.com/track/5kEHTKyHAq67kLHA7K8Ueh) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Navidad Fiesta Universal](https://open.spotify.com/album/5lqwgchnH79RupSj0uRznb) | 3:14 | 2022-11-07 |  |
@@ -137,6 +137,7 @@
 | [Una Nueva Estrella](https://open.spotify.com/track/3ENLfWZIafaH7a6a5anPGV) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [De Corazon a Corazon en Esta Navidad](https://open.spotify.com/album/1PQk4pKxClYXgUKbSSGJs2) | 2:46 | 2022-11-07 |  |
 | [Unidos En Navidad](https://open.spotify.com/track/120fyL4fR64MjBNqGvj5hv) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Unidos En Navidad](https://open.spotify.com/album/1ThpEAdltcrkn3V68mb1iU) | 3:45 | 2023-11-07 |  |
 | [Ven A Cantar](https://open.spotify.com/track/7hq4SaGBw2QVe5jo9XHYa7) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [Navidad Para Ti](https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3) | 3:51 | 2022-11-07 |  |
+| [Ven a Cantar](https://open.spotify.com/track/3q54FIs9VmTl2nIxeiMkaz) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Navidad con la MS](https://open.spotify.com/album/4YiKzUhjLgWEMEyPeR5u7k) | 2:58 | 2023-12-20 |  |
 | [Ven a cantar](https://open.spotify.com/track/1ySA6Hy5TERAS313rBkLqZ) | [Tropical Caribe](https://open.spotify.com/artist/2dEjLtjgTsWfw5itGqF97f) | [Navidad Latina](https://open.spotify.com/album/0rYKXExQZsVdBlJxfRUTMC) | 3:10 | 2023-12-20 | 2023-12-22 |
 | [Ven A Mi Casa Esta Navidad](https://open.spotify.com/track/2x9qQjHD4sFNhvN16ggapy) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [Ven A Mi Casa Esta Navidad](https://open.spotify.com/album/36PFsIbyV773hvHPrl0syM) | 3:49 | 2022-11-07 |  |
 | [Ven a Mi Casa Esta Navidad](https://open.spotify.com/track/7zrd2YC8vcMEhCHtotD3nB) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Navidad Desde El Meritito Norte](https://open.spotify.com/album/1qNZCd4PLDIEEMxWzFF7ia) | 3:23 | 2022-11-07 |  |

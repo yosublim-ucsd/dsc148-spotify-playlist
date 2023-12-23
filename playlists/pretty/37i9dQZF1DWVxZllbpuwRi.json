@@ -1,12 +1,12 @@
 {
   "description": "Aqui o ver\u00e3o dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!",
-  "num_followers": 620575,
+  "num_followers": 620550,
   "original_name": "Ver\u00e3o Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDM1MDA5MThmODJmZWQ4MTlkMDU4MDRmMWJhYWFlMGIzMDRiOTZi",
+  "snapshot_id": "MCxmMDIxYjJmMDY0Njg4OGUyZTJlNDk1YjEzN2JiN2VjYThiMjIyMjBl",
   "tracks": [
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1051,18 +1051,26 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "K.O.",
-        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
+        "name": "Don Don",
+        "url": "https://open.spotify.com/album/5xBO97P4jYEn69VzV06503"
       },
       "artists": [
         {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Kendo Kaponi",
+          "url": "https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS"
         }
       ],
-      "duration_ms": 161813,
-      "name": "Calla T\u00fa",
-      "url": "https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte"
+      "duration_ms": 275893,
+      "name": "Don Don",
+      "url": "https://open.spotify.com/track/3kml9ZdpT7UYk1ugkjqOzt"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1103,26 +1111,18 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "Don Don",
-        "url": "https://open.spotify.com/album/5xBO97P4jYEn69VzV06503"
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Kendo Kaponi",
-          "url": "https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS"
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 275893,
-      "name": "Don Don",
-      "url": "https://open.spotify.com/track/3kml9ZdpT7UYk1ugkjqOzt"
+      "duration_ms": 161813,
+      "name": "Calla T\u00fa",
+      "url": "https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -2035,26 +2035,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "Light Years Away",
-        "url": "https://open.spotify.com/album/0fdGfbskip7l2MA5jWB3LF"
-      },
-      "artists": [
-        {
-          "name": "Pontifexx",
-          "url": "https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s"
-        },
-        {
-          "name": "Gustavo Bertoni",
-          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
-        }
-      ],
-      "duration_ms": 223333,
-      "name": "Light Years Away",
-      "url": "https://open.spotify.com/track/4Kq4Mn0NElRTqcrLxpKzH3"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "Roses (Imanbek Remix / Latino Gang Version)",
         "url": "https://open.spotify.com/album/3fzRzT5lbkYMUTZcC964qT"
       },
@@ -2075,6 +2055,26 @@
       "duration_ms": 208449,
       "name": "Roses - Imanbek Remix / Latino Gang Version",
       "url": "https://open.spotify.com/track/0IiO3BMMnQC14SGKfB3pZQ"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "Light Years Away",
+        "url": "https://open.spotify.com/album/0fdGfbskip7l2MA5jWB3LF"
+      },
+      "artists": [
+        {
+          "name": "Pontifexx",
+          "url": "https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s"
+        },
+        {
+          "name": "Gustavo Bertoni",
+          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
+        }
+      ],
+      "duration_ms": 223333,
+      "name": "Light Years Away",
+      "url": "https://open.spotify.com/track/4Kq4Mn0NElRTqcrLxpKzH3"
     }
   ],
   "unique_name": "Ver\u00e3o Forever",

@@ -1316,7 +1316,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 194000,
       "name": "El Tonto",
       "url": "https://open.spotify.com/track/1QbjXGsTITFUIxPauH3wJR"
@@ -1546,6 +1546,24 @@
       "duration_ms": 168798,
       "name": "Girl Supreme",
       "url": "https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB"
+    },
+    {
+      "album": {
+        "name": "La boca aigua",
+        "url": "https://open.spotify.com/album/4O89ZOWZTSBnHErFVYGWPI"
+      },
+      "artists": [
+        {
+          "name": "Renaldo & Clara",
+          "url": "https://open.spotify.com/artist/29eGrPvxOuFDGOyOUi3RLq"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128728,
+      "name": "Globus",
+      "url": "https://open.spotify.com/track/5P0nUjtiq6xWbtOhyjzNEk"
     },
     {
       "album": {
@@ -1938,6 +1956,24 @@
       "duration_ms": 153162,
       "name": "jazmin",
       "url": "https://open.spotify.com/track/3vLbYgfzxz2PewnOtVbayK"
+    },
+    {
+      "album": {
+        "name": "Ciutat de sorra",
+        "url": "https://open.spotify.com/album/13kC4ZFHI7cl31iBomSpEA"
+      },
+      "artists": [
+        {
+          "name": "Hidrogenesse",
+          "url": "https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92708,
+      "name": "Jos\u00e9 Miguel el libertario",
+      "url": "https://open.spotify.com/track/1E06EkjEoe0krFd99LCKdq"
     },
     {
       "album": {
@@ -2420,7 +2456,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 227212,
       "name": "Mata Hari",
       "url": "https://open.spotify.com/track/7wdoS8Tczz8wjhVjVsttIs"
@@ -2780,6 +2816,24 @@
       "duration_ms": 237917,
       "name": "Noche",
       "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
+    },
+    {
+      "album": {
+        "name": "Nodos",
+        "url": "https://open.spotify.com/album/6Ja5JJOhoIkI7hf0r5pNlf"
+      },
+      "artists": [
+        {
+          "name": "Radiotr\u00f3nica",
+          "url": "https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220093,
+      "name": "Nodos",
+      "url": "https://open.spotify.com/track/5NxaaeCOluia2b0t6Kmkwf"
     },
     {
       "album": {
@@ -4264,7 +4318,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 236370,
       "name": "UNDER THE ILLUSION",
       "url": "https://open.spotify.com/track/6c0dPWNb18BL7RLwwlZ717"

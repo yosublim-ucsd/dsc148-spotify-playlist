@@ -1,12 +1,12 @@
 {
   "description": "Music from \"Love Live! Nijigasaki High School Idol Club\" \u300c\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\n\u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
-  "num_followers": 13704,
+  "num_followers": 13716,
   "original_name": "Love Live! Nijigasaki High School Idol Club \u30e9\u30d6\u30e9\u30a4\u30d6!\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODQ5YWUwYWFmMmYwMmNjY2Q1YTJjN2E5ZDE1OWU3Njk4OTU5M2Jj",
+  "snapshot_id": "MCwzNzk2ZTEyODQyOTFiZWFmMWIwZmNiNTc0ZDEyZjQzYThhYjA2OWQy",
   "tracks": [
     {
       "added_at": "2023-11-07 18:16:32",
@@ -355,18 +355,18 @@
     {
       "added_at": "2023-11-07 18:16:32",
       "album": {
-        "name": "Dream with You / Poppin' Up! / DIVE! (\u512a\u6728\u305b\u3064\u83dc\u76e4)",
-        "url": "https://open.spotify.com/album/2B6zWwAKJXh0RMSne3pQvZ"
+        "name": "Butterfly / Solitude Rain / VIVID WORLD (\u671d\u9999\u679c\u6797\u76e4)",
+        "url": "https://open.spotify.com/album/1BnZQYgRgHc7FbMArnUCAm"
       },
       "artists": [
         {
-          "name": "\u512a\u6728\u305b\u3064\u83dc (CV.\u6960\u6728\u3068\u3082\u308a)",
-          "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
+          "name": "\u671d\u9999\u679c\u6797 (CV.\u4e45\u4fdd\u7530\u672a\u5922)",
+          "url": "https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku"
         }
       ],
-      "duration_ms": 243480,
-      "name": "DIVE!",
-      "url": "https://open.spotify.com/track/1U1MCOvXcpTguCzyXyBE90"
+      "duration_ms": 275706,
+      "name": "VIVID WORLD",
+      "url": "https://open.spotify.com/track/2nsE6Ebr959B30OaevvMJI"
     },
     {
       "added_at": "2023-11-07 18:16:32",
@@ -387,18 +387,18 @@
     {
       "added_at": "2023-11-07 18:16:32",
       "album": {
-        "name": "Butterfly / Solitude Rain / VIVID WORLD (\u671d\u9999\u679c\u6797\u76e4)",
-        "url": "https://open.spotify.com/album/1BnZQYgRgHc7FbMArnUCAm"
+        "name": "Dream with You / Poppin' Up! / DIVE! (\u512a\u6728\u305b\u3064\u83dc\u76e4)",
+        "url": "https://open.spotify.com/album/2B6zWwAKJXh0RMSne3pQvZ"
       },
       "artists": [
         {
-          "name": "\u671d\u9999\u679c\u6797 (CV.\u4e45\u4fdd\u7530\u672a\u5922)",
-          "url": "https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku"
+          "name": "\u512a\u6728\u305b\u3064\u83dc (CV.\u6960\u6728\u3068\u3082\u308a)",
+          "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
         }
       ],
-      "duration_ms": 275706,
-      "name": "VIVID WORLD",
-      "url": "https://open.spotify.com/track/2nsE6Ebr959B30OaevvMJI"
+      "duration_ms": 243480,
+      "name": "DIVE!",
+      "url": "https://open.spotify.com/track/1U1MCOvXcpTguCzyXyBE90"
     },
     {
       "added_at": "2023-11-07 18:16:32",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-11-07 18:16:32",
       "album": {
-        "name": "Love U my friends",
-        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
-      },
-      "artists": [
-        {
-          "name": "\u512a\u6728\u305b\u3064\u83dc (CV.\u6960\u6728\u3068\u3082\u308a)",
-          "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
-        }
-      ],
-      "duration_ms": 269453,
-      "name": "MELODY",
-      "url": "https://open.spotify.com/track/6DmIItjA98dekA0MvIeiHC"
-    },
-    {
-      "added_at": "2023-11-07 18:16:32",
-      "album": {
         "name": "Infinity! Our wings!!",
         "url": "https://open.spotify.com/album/2QVpsejvYq0As5FLW3BFoo"
       },
@@ -515,38 +499,6 @@
     {
       "added_at": "2023-11-07 18:16:32",
       "album": {
-        "name": "Love U my friends",
-        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
-      },
-      "artists": [
-        {
-          "name": "\u685c\u5742\u3057\u305a\u304f (CV.\u524d\u7530\u4f73\u7e54\u91cc)",
-          "url": "https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq"
-        }
-      ],
-      "duration_ms": 234880,
-      "name": "\u30aa\u30fc\u30c9\u30ea\u30fc",
-      "url": "https://open.spotify.com/track/68yOpLc4Y0FxzZoxkTqioh"
-    },
-    {
-      "added_at": "2023-11-07 18:16:32",
-      "album": {
-        "name": "Just Believe!!!",
-        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
-      },
-      "artists": [
-        {
-          "name": "\u512a\u6728\u305b\u3064\u83dc (CV.\u6960\u6728\u3068\u3082\u308a)",
-          "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
-        }
-      ],
-      "duration_ms": 261013,
-      "name": "LIKE IT!LOVE IT!",
-      "url": "https://open.spotify.com/track/4PeeXkEdUeIucB7kbcp2u9"
-    },
-    {
-      "added_at": "2023-11-07 18:16:32",
-      "album": {
         "name": "MONSTER GIRLS",
         "url": "https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar"
       },
@@ -563,6 +515,38 @@
     {
       "added_at": "2023-11-07 18:16:32",
       "album": {
+        "name": "Love U my friends",
+        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
+      },
+      "artists": [
+        {
+          "name": "\u512a\u6728\u305b\u3064\u83dc (CV.\u6960\u6728\u3068\u3082\u308a)",
+          "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
+        }
+      ],
+      "duration_ms": 269453,
+      "name": "MELODY",
+      "url": "https://open.spotify.com/track/6DmIItjA98dekA0MvIeiHC"
+    },
+    {
+      "added_at": "2023-11-07 18:16:32",
+      "album": {
+        "name": "Love U my friends",
+        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
+      },
+      "artists": [
+        {
+          "name": "\u685c\u5742\u3057\u305a\u304f (CV.\u524d\u7530\u4f73\u7e54\u91cc)",
+          "url": "https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq"
+        }
+      ],
+      "duration_ms": 234880,
+      "name": "\u30aa\u30fc\u30c9\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/68yOpLc4Y0FxzZoxkTqioh"
+    },
+    {
+      "added_at": "2023-11-07 18:16:32",
+      "album": {
         "name": "Fly with You!!",
         "url": "https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX"
       },
@@ -575,22 +559,6 @@
       "duration_ms": 237813,
       "name": "5201314",
       "url": "https://open.spotify.com/track/58N59QptRCYvEee9KKTURD"
-    },
-    {
-      "added_at": "2023-11-07 18:16:32",
-      "album": {
-        "name": "SUPER NOVA",
-        "url": "https://open.spotify.com/album/58rcP5kDJA3ygA3K1B6gMH"
-      },
-      "artists": [
-        {
-          "name": "DiverDiva",
-          "url": "https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd"
-        }
-      ],
-      "duration_ms": 254013,
-      "name": "SUPER NOVA",
-      "url": "https://open.spotify.com/track/4AN5xcopsmXq2JSF1SNHEz"
     },
     {
       "added_at": "2023-11-07 18:16:32",
@@ -627,6 +595,22 @@
     {
       "added_at": "2023-11-07 18:16:32",
       "album": {
+        "name": "SUPER NOVA",
+        "url": "https://open.spotify.com/album/58rcP5kDJA3ygA3K1B6gMH"
+      },
+      "artists": [
+        {
+          "name": "DiverDiva",
+          "url": "https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd"
+        }
+      ],
+      "duration_ms": 254013,
+      "name": "SUPER NOVA",
+      "url": "https://open.spotify.com/track/4AN5xcopsmXq2JSF1SNHEz"
+    },
+    {
+      "added_at": "2023-11-07 18:16:32",
+      "album": {
         "name": "Sing & Smile!!",
         "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
       },
@@ -636,9 +620,9 @@
           "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
         }
       ],
-      "duration_ms": 238560,
-      "name": "Beautiful Moonlight",
-      "url": "https://open.spotify.com/track/7Ld5pHKOgTWFAwmAx525Lv"
+      "duration_ms": 281920,
+      "name": "Sing & Smile!!",
+      "url": "https://open.spotify.com/track/305C9BYvdU0bLNfMI3bhPw"
     },
     {
       "added_at": "2023-11-07 18:16:32",
@@ -655,6 +639,38 @@
       "duration_ms": 238986,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/7sppMR5Ag87PFaGFdzgq1m"
+    },
+    {
+      "added_at": "2023-11-07 18:16:32",
+      "album": {
+        "name": "Just Believe!!!",
+        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
+      },
+      "artists": [
+        {
+          "name": "\u512a\u6728\u305b\u3064\u83dc (CV.\u6960\u6728\u3068\u3082\u308a)",
+          "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
+        }
+      ],
+      "duration_ms": 261013,
+      "name": "LIKE IT!LOVE IT!",
+      "url": "https://open.spotify.com/track/4PeeXkEdUeIucB7kbcp2u9"
+    },
+    {
+      "added_at": "2023-11-07 18:16:32",
+      "album": {
+        "name": "Vroom Vroom",
+        "url": "https://open.spotify.com/album/4luDm6B6w59F3oJzTbAzfX"
+      },
+      "artists": [
+        {
+          "name": "R3BIRTH",
+          "url": "https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "\u30d0\u30d6\u30eb\u30aa\u30fc\u30d0\u30fc\uff01",
+      "url": "https://open.spotify.com/track/6OUbiO6I3jYhfFzoBr27hd"
     },
     {
       "added_at": "2023-11-07 18:16:32",
@@ -707,38 +723,6 @@
     {
       "added_at": "2023-11-07 18:16:32",
       "album": {
-        "name": "Vroom Vroom",
-        "url": "https://open.spotify.com/album/4luDm6B6w59F3oJzTbAzfX"
-      },
-      "artists": [
-        {
-          "name": "R3BIRTH",
-          "url": "https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "\u30d0\u30d6\u30eb\u30aa\u30fc\u30d0\u30fc\uff01",
-      "url": "https://open.spotify.com/track/6OUbiO6I3jYhfFzoBr27hd"
-    },
-    {
-      "added_at": "2023-11-07 18:16:32",
-      "album": {
-        "name": "Sing & Smile!!",
-        "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
-      },
-      "artists": [
-        {
-          "name": "QU4RTZ",
-          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
-        }
-      ],
-      "duration_ms": 281920,
-      "name": "Sing & Smile!!",
-      "url": "https://open.spotify.com/track/305C9BYvdU0bLNfMI3bhPw"
-    },
-    {
-      "added_at": "2023-11-07 18:16:32",
-      "album": {
         "name": "Fly with You!!",
         "url": "https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 260252,
       "name": "Kofukuron",
       "url": "https://open.spotify.com/track/05DZPBOfAqqdywyCX33yh1"
+    },
+    {
+      "added_at": "2023-11-07 18:16:32",
+      "album": {
+        "name": "Dream with You / Poppin' Up! / DIVE! (\u4e2d\u9808\u304b\u3059\u307f\u76e4)",
+        "url": "https://open.spotify.com/album/3lChyBrPhbKYt1uEL0o0ar"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
+          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
+        }
+      ],
+      "duration_ms": 258146,
+      "name": "Poppin' Up!",
+      "url": "https://open.spotify.com/track/0paCkEf09T6bhSrr5ZkIEe"
     },
     {
       "added_at": "2023-11-07 18:16:32",
@@ -771,18 +771,18 @@
     {
       "added_at": "2023-11-07 18:16:32",
       "album": {
-        "name": "Dream with You / Poppin' Up! / DIVE! (\u4e2d\u9808\u304b\u3059\u307f\u76e4)",
-        "url": "https://open.spotify.com/album/3lChyBrPhbKYt1uEL0o0ar"
+        "name": "Sing & Smile!!",
+        "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
       },
       "artists": [
         {
-          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
-          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
+          "name": "QU4RTZ",
+          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
         }
       ],
-      "duration_ms": 258146,
-      "name": "Poppin' Up!",
-      "url": "https://open.spotify.com/track/0paCkEf09T6bhSrr5ZkIEe"
+      "duration_ms": 238560,
+      "name": "Beautiful Moonlight",
+      "url": "https://open.spotify.com/track/7Ld5pHKOgTWFAwmAx525Lv"
     },
     {
       "added_at": "2023-11-07 18:16:32",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Filipe Ret",
+  "description": "O Trap brasileiro puro ouro, entre lan\u00e7amentos e hits. Foto: Tasha & Tracie",
   "name": "Trap Ouro",
   "tracks": [
     {
@@ -1712,6 +1712,24 @@
       "duration_ms": 144000,
       "name": "Armadilha",
       "url": "https://open.spotify.com/track/6cJ26qPmqZGRrladBJ6CuN"
+    },
+    {
+      "album": {
+        "name": "ARRUME-SE COMIGO",
+        "url": "https://open.spotify.com/album/2LXHRtoW5kSOWsW2eXmlsa"
+      },
+      "artists": [
+        {
+          "name": "Tasha & Tracie",
+          "url": "https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226427,
+      "name": "ARRUME-SE COMIGO",
+      "url": "https://open.spotify.com/track/5uEC8WWulHOHNjEOgLAliZ"
     },
     {
       "album": {
@@ -8016,7 +8034,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 211859,
       "name": "Espero Que Entendam - Freestyle",
       "url": "https://open.spotify.com/track/3MEMW13ORJh94KnERm44JM"
@@ -8346,6 +8364,10 @@
         {
           "name": "EHXIS",
           "url": "https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4"
+        },
+        {
+          "name": "Toledo",
+          "url": "https://open.spotify.com/artist/7I4OIWw3Zm4lUmt2QHnz30"
         }
       ],
       "date_added": "2023-12-15",
@@ -10608,7 +10630,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 180004,
       "name": "Goddam!",
       "url": "https://open.spotify.com/track/0iHPoeN5LtLopd000INsVF"

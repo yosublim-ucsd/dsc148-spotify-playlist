@@ -1,12 +1,12 @@
 {
   "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Reik y Ha*Ash en portada.",
-  "num_followers": 63544,
+  "num_followers": 63577,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjQ3NGVmYTcwMjVmNTFhMmNhMGQ5MTJiN2FiY2ZjZjQ0YTk4Zjdj",
+  "snapshot_id": "MCw1MGY3YmYzNzE2MzljNTBkN2JjNTIxN2RjNGYzODdiMTA1ZTZkNzJl",
   "tracks": [
     {
       "added_at": "2023-09-26 16:29:26",
@@ -943,6 +943,26 @@
     {
       "added_at": "2023-09-26 16:29:26",
       "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 228989,
+      "name": "Ella Qu\u00e9 Te Dio",
+      "url": "https://open.spotify.com/track/24wYpTB7F9gqHfmAJxj6Mb"
+    },
+    {
+      "added_at": "2023-09-26 16:29:26",
+      "album": {
         "name": "Hab\u00eda Olvidado (feat. Jos\u00e9 Maria Napole\u00f3n)",
         "url": "https://open.spotify.com/album/0xTx8go2fsysiJnH79Fqu6"
       },
@@ -999,26 +1019,6 @@
     {
       "added_at": "2023-09-26 16:29:26",
       "album": {
-        "name": "Ya Casi Te Olvido",
-        "url": "https://open.spotify.com/album/2dxhIwE8OuBoS1D0VFb7SB"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        },
-        {
-          "name": "Sebasti\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
-        }
-      ],
-      "duration_ms": 134470,
-      "name": "Ya Casi Te Olvido",
-      "url": "https://open.spotify.com/track/5zX9R0lTBodrNRzfccZhca"
-    },
-    {
-      "added_at": "2023-09-26 16:29:26",
-      "album": {
         "name": "Polvo De Gigantes",
         "url": "https://open.spotify.com/album/1yMkHhULCUvkUJ8bEPG4QL"
       },
@@ -1047,6 +1047,26 @@
       "duration_ms": 259122,
       "name": "Contigo Quiero",
       "url": "https://open.spotify.com/track/6wSyB4yMjlQcMc1xa7F92O"
+    },
+    {
+      "added_at": "2023-09-26 16:29:26",
+      "album": {
+        "name": "Ya Casi Te Olvido",
+        "url": "https://open.spotify.com/album/2dxhIwE8OuBoS1D0VFb7SB"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        },
+        {
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
+        }
+      ],
+      "duration_ms": 134470,
+      "name": "Ya Casi Te Olvido",
+      "url": "https://open.spotify.com/track/5zX9R0lTBodrNRzfccZhca"
     },
     {
       "added_at": "2023-09-26 16:29:26",
@@ -1087,26 +1107,6 @@
       "duration_ms": 228731,
       "name": "Luna y Marea (feat. KURT)",
       "url": "https://open.spotify.com/track/5Z2gkSJIibMCdbE7TWceE6"
-    },
-    {
-      "added_at": "2023-09-26 16:29:26",
-      "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 228989,
-      "name": "Ella Qu\u00e9 Te Dio",
-      "url": "https://open.spotify.com/track/24wYpTB7F9gqHfmAJxj6Mb"
     },
     {
       "added_at": "2023-09-26 16:29:26",

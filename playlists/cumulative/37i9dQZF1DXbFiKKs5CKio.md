@@ -4,7 +4,7 @@
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-71 songs - 3 hr 59 min
+72 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,9 +34,10 @@
 | [Entre Memórias Tristes](https://open.spotify.com/track/7CD5cl7ctI7x6SYBLHN1mL) | [C.I.D](https://open.spotify.com/artist/6z9GhT6hHDjgsc516Txhsl) | [Entre Memórias Tristes](https://open.spotify.com/album/3DXLWxQqSBqWNRCgLQP0Tf) | 5:17 | 2023-09-15 |  |
 | [Eu Tava Em Casa](https://open.spotify.com/track/6XoSJgy9m0TeYNZuCen1xW) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Faminta](https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj) | 4:09 | 2023-09-15 |  |
 | [Falando Dela 2](https://open.spotify.com/track/1ebphlBWJHENEs1StX3FYP) | [Zero](https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR), [Mc Maha](https://open.spotify.com/artist/2tz0dkPlnWB4NcHNIqWPgh), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU) | [Falando Dela 2](https://open.spotify.com/album/68pf9T0gTuRSDWO9rdCjaF) | 2:02 | 2023-09-15 | 2023-12-16 |
+| [Final \- Ao Vivo](https://open.spotify.com/track/55WX9xWKtq43Ee22IE7KPA) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG), [Macaco Gordo](https://open.spotify.com/artist/2MeRUZA62b85P4U5DcdzZ9) | [Joyce Alane Ao Vivo na Macaco Gordo](https://open.spotify.com/album/31u9EIWTs32kTxnw4eg6NG) | 3:12 | 2023-12-22 |  |
 | [Leve](https://open.spotify.com/track/5FPEUByLcA5J6bXqAW25ja) | [Wesley Camilo](https://open.spotify.com/artist/7zMhTkT27OwM0G9qkZPbZT), [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho) | [Leve](https://open.spotify.com/album/1PkBieopr9ZNx0LCVCFH4h) | 2:53 | 2023-09-15 |  |
 | [Licor](https://open.spotify.com/track/62LSep7P2d7uPyDdMMuemr) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Hip Hop Machine \#13](https://open.spotify.com/album/6NHVEU2tX4VYNs6t9aFBkP) | 5:30 | 2023-09-15 |  |
-| [Me Chama de Novo](https://open.spotify.com/track/7plqJ0mkyadrFLGHPmmJab) | [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Corpo Possível \(Deluxe\)](https://open.spotify.com/album/5DPQYWvyndISm87e1Clu6e) | 2:57 | 2023-09-15 |  |
+| [Me Chama de Novo](https://open.spotify.com/track/7plqJ0mkyadrFLGHPmmJab) | [Bruna Mendez](https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc), [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Corpo Possível \(Deluxe\)](https://open.spotify.com/album/5DPQYWvyndISm87e1Clu6e) | 2:57 | 2023-09-15 | 2023-12-23 |
 | [Me Curar](https://open.spotify.com/track/0cS24SOojuYiP5OIP3ikxO) | [Kynnie](https://open.spotify.com/artist/20JcWtWgwyxcfUg8SyKwjy) | [93](https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ) | 3:46 | 2023-09-15 |  |
 | [Me Esqueça Devagar](https://open.spotify.com/track/74yArCzYnQuxpMeo68JYgd) | [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV) | [Coisas De Amor](https://open.spotify.com/album/5iOi8dqj4Pg7yz4IcH385v) | 3:31 | 2023-09-15 |  |
 | [Me Faz Sentir](https://open.spotify.com/track/1wBQy5qESa8KhMMAWmJAOh) | [Aya](https://open.spotify.com/artist/1TkGUsWOcpAEpnhoOZ4kDm), [Dj Will](https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX), [Diego Amani](https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu) | [Me Faz Sentir](https://open.spotify.com/album/2Bpby9CAKbp5H9aSndSTs2) | 3:51 | 2023-09-15 |  |

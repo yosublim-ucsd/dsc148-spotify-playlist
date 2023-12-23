@@ -4,7 +4,7 @@
 
 > Get into the rhythm of SXSW '17 with this collection of tracks from artists set to perform this year\. Cover: <a href="spotify:artist:4TsHKU8l8Wq7n7OPVikirn">Jidenna</a>.
 
-37 songs - 2 hr 11 min
+38 songs - 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,8 +30,9 @@
 | [Got Me Loose](https://open.spotify.com/track/4xsjRZgz4eKl4MdAZ8afjJ) | [Reesa Renee](https://open.spotify.com/artist/1sP9nzoMXxaI0LiU1uWoLL) | [Got Me Loose](https://open.spotify.com/album/0u5pSvtfkTrcAwf11TxxFW) | 3:57 | 2017-02-27 |  |
 | [Hello](https://open.spotify.com/track/44s8AnWjkj68J5N9JKX8Zw) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [But You Caint Use My Phone \(Mixtape\)](https://open.spotify.com/album/4f2Gxvy2gb2VXTIWemUEqL) | 5:19 | 2017-02-27 |  |
 | [I Don't Wanna Leave](https://open.spotify.com/track/6f02BtyPQvYflisHQPlCTz) | [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw), [Tdot illdude](https://open.spotify.com/artist/4gcBXAL1iwHPIrf1LdVsKg) | [Morning Comes Too Fast](https://open.spotify.com/album/5SMNVBBlhEKuzwe78byNnl) | 3:13 | 2017-02-27 |  |
-| [I Really Don't Care](https://open.spotify.com/track/0oF0fJdtqJE9g1MJwnE6dU) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [In Another Life](https://open.spotify.com/album/1vqLH6G459w4pRGElplhkV) | 2:59 | 2022-07-29 |  |
+| [I Really Don't Care](https://open.spotify.com/track/0oF0fJdtqJE9g1MJwnE6dU) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [In Another Life](https://open.spotify.com/album/1vqLH6G459w4pRGElplhkV) | 2:59 | 2022-07-29 | 2023-12-23 |
 | [I Really Don't Care](https://open.spotify.com/track/1KHdXgBdPvihVRLO1EM25z) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [In Another Life](https://open.spotify.com/album/6InQseLVCMxyyoC7a6Y1mq) | 2:59 | 2017-02-27 | 2022-07-29 |
+| [I Really Don't Care](https://open.spotify.com/track/1mF1j3g3FxJNtlXijLR5Km) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [In Another Life](https://open.spotify.com/album/4zGlqgmEpt5lVuueJmmYaP) | 2:59 | 2023-12-23 |  |
 | [I'm Leaving You \(feat\. Ledisi & John Scofield\)](https://open.spotify.com/track/4m6UKPkoGeSAuA2jRvo9hk) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK) | [Everything's Beautiful](https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh) | 3:13 | 2017-02-27 |  |
 | [Moved to LA](https://open.spotify.com/track/2kwL86tUFvBVHnJdETL760) | [Chris Scholar](https://open.spotify.com/artist/1mNkxKTW6JzD4tUsjLq4bl) | [Moved to LA](https://open.spotify.com/album/0V0tKL2GAD8MCsXBSENY1P) | 3:17 | 2017-02-27 |  |
 | [Recess](https://open.spotify.com/track/1e4CsgIIzrGpEVcjY95gZw) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Moon Shoes EP](https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE) | 3:08 | 2017-02-27 |  |

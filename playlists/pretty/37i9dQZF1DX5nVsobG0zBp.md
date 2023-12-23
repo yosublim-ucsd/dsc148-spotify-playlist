@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Wet Bed Gang.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,753 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,772 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 79 | [Pra Sempre \(feat\. Jimmy P & Dino d'Santiago\)](https://open.spotify.com/track/6y7gYOHjUbj0HdTx5iGDuI) | [Prodigio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU), [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr) | [Pra Sempre \(feat\. Jimmy P & Dino d'Santiago\)](https://open.spotify.com/album/7kyvtUprGFS8S2poWsYtEt) | 3:15 |
 | 80 | [ES7ÁDIO](https://open.spotify.com/track/3tDch5qsTummG1elCD2hjn) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [ALK](https://open.spotify.com/album/2a5yMPRNFWcu0o2kwBgXcv) | 3:37 |
 
-Snapshot ID: `MCw4MzVmODAzZDFhMGQ2Nzc3MTBmYThhN2IxZTZlNDk0YTY0OWQ0ZjMx`
+Snapshot ID: `MCw3N2UxYjFlZTRhZmYwNDYxYzNhNmUzYWU0Y2M0MzIxMzBkMGE0NTIx`

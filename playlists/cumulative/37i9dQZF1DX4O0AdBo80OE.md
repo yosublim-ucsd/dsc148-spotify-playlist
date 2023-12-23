@@ -4,7 +4,7 @@
 
 > Rimas cremosas, tan necesarias como tu café\. Santa Fe Klan en portada.
 
-136 songs - 7 hr 37 min
+137 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Aquí Estoy Yo](https://open.spotify.com/track/6sAysiKvW3slpYkPH90uCg) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Samg](https://open.spotify.com/artist/7DLE6s7l0ZGhUbfBFvUDLJ) | [Aquí Estoy Yo](https://open.spotify.com/album/4eT36YW7vOtAORnS7Wz0nW) | 4:07 | 2023-05-26 |  |
 | [Aquí seguimos](https://open.spotify.com/track/1k3rnpEUeuCoiOK5xXINhL) | [Chocolate Remix](https://open.spotify.com/artist/4kkuyWmpashrooyOFvHX2m), [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0), [El Licenciado](https://open.spotify.com/artist/6OJ2DXPdpVl88gYuQkqzxY) | [Vente Cariña](https://open.spotify.com/album/3n4el3WQZsBA9mlzIdwWp3) | 2:38 | 2023-05-26 | 2023-07-22 |
 | [Archivo Mudo](https://open.spotify.com/track/6xeCfbpfr1ZlAkNEVUf03b) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [Tino El Pingüino](https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF) | [Archivo Mudo](https://open.spotify.com/album/6xAf2bmlcP5Wm885HiTEP9) | 3:48 | 2023-10-27 |  |
+| [Atrapado en un Sueño](https://open.spotify.com/track/4c7nGM9irzliRPB9wiNq9l) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Atrapado en un Sueño](https://open.spotify.com/album/1WEYD957nsBAfdYYcCZAaQ) | 3:25 | 2023-12-22 |  |
 | [B\-Day](https://open.spotify.com/track/2fLC7a1iIloVs8M95GNCPz) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [No Me Busques Donde Mismo](https://open.spotify.com/album/41NSpGcHqZPzrGqOOnxyHk) | 4:08 | 2023-05-26 | 2023-07-01 |
 | [Bagels y Café](https://open.spotify.com/track/1bkMM9f67Taz4VhE0eswro) | [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Bagels y Café](https://open.spotify.com/album/0LxNYYgAewdpU7HQiPYtg4) | 2:46 | 2023-05-26 |  |
 | [Barbie Ven](https://open.spotify.com/track/4QJN9tUM1gPGrS4LM9424u) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Nando Produce](https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI) | [Barbie Ven](https://open.spotify.com/album/2jWWAbKtp7ACnQcUT1a7eV) | 2:41 | 2023-05-26 | 2023-07-01 |
@@ -93,7 +94,7 @@
 | [No Puedo Llorar](https://open.spotify.com/track/1P8kE0tjLKkaTgdmNrh1QW) | [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1), [Gayo Valdez](https://open.spotify.com/artist/0uCVN0ZSViQ4xVwJsDqfVo) | [No Puedo Llorar](https://open.spotify.com/album/6hegVpgIGTg5dRNgPKKO10) | 3:37 | 2023-05-26 | 2023-07-01 |
 | [No quise dañarte](https://open.spotify.com/track/57EhNdIYjhowMMKiR8frkG) | [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [No quise dañarte](https://open.spotify.com/album/0NAjyZrDAPqiqYXhu9gSTV) | 3:15 | 2023-05-26 | 2023-07-22 |
 | [No Te Apures](https://open.spotify.com/track/3txD9phequal7R6apqVm57) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Gohan Corral](https://open.spotify.com/artist/6t4UOnQem0jI76hdrBQTYn) | [No Te Apures](https://open.spotify.com/album/57rT4wFM0DEr4ElB66wTX7) | 3:22 | 2023-05-26 |  |
-| [No Voy A Salir De Casa](https://open.spotify.com/track/7Jwn4y2EKMzUdtcznloWaD) | [Lng Sht](https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2) | [IV.\- Buenos Adultos](https://open.spotify.com/album/1qkCpcYwTdl4OWpdZLc1ZN) | 3:07 | 2023-05-26 |  |
+| [No Voy A Salir De Casa](https://open.spotify.com/track/7Jwn4y2EKMzUdtcznloWaD) | [Lng Sht](https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2) | [IV.\- Buenos Adultos](https://open.spotify.com/album/1qkCpcYwTdl4OWpdZLc1ZN) | 3:07 | 2023-05-26 | 2023-12-23 |
 | [Nube](https://open.spotify.com/track/7h6VrJgt5JNcA082pEucfe) | [Gohan Corral](https://open.spotify.com/artist/6t4UOnQem0jI76hdrBQTYn) | [Nube](https://open.spotify.com/album/6btxGm4iHzO8hDYR2CLL4w) | 3:21 | 2023-05-26 |  |
 | [Nuestros Tiempos](https://open.spotify.com/track/51k4iO1owyC47eouXkG8FK) | [Lng Sht](https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2), [Andrés Canalla](https://open.spotify.com/artist/1X0yOvDnVkVi33vLB5tBwB) | [Malos Jóvenes](https://open.spotify.com/album/2IFnfOFke1gsKaHR9QmQ26) | 4:23 | 2023-05-26 |  |
 | [Nunca Imaginé](https://open.spotify.com/track/6ecb4V91cxHT9aJquEMLun) | [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Nunca Imaginé](https://open.spotify.com/album/55Nln3fDBB6t8qRphZuikc) | 3:25 | 2023-05-26 |  |

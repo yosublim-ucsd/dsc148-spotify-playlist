@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-538 songs - 1 day 7 hr 57 min
+539 songs - 1 day 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -470,6 +470,7 @@
 | [Su Forma de Mirar](https://open.spotify.com/track/3OfvmpqvdGV9fKIdsMlsJT) | [Tomates En Verano](https://open.spotify.com/artist/0L3FfPKmBS9yLVNVzulbUt) | [Su Forma de Mirar](https://open.spotify.com/album/2RLaIhFb4i1sEkcsFPEJJb) | 4:50 | 2023-09-01 | 2023-09-16 |
 | [Suavemente Entusiasmado](https://open.spotify.com/track/1sFJ4OmvhDydbdDBX3kkNx) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Suavemente Entusiasmado](https://open.spotify.com/album/0pScdvoykEIAnmQLyQkLIZ) | 3:56 | 2022-12-09 | 2023-06-10 |
 | [Suavemente Entusiasmado](https://open.spotify.com/track/4imx5CrSaZv0xvhpmsJdCV) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Suavemente entusiasmado](https://open.spotify.com/album/0AOQ9H0w7MEcAnX6J3u8g2) | 3:56 | 2022-06-03 | 2022-12-11 |
+| [SUELO](https://open.spotify.com/track/2AsG5SNToRkg80eFb5Z5Hb) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [SUELO](https://open.spotify.com/album/7J6hemedekIrdBl2KlqmwM) | 2:49 | 2023-12-22 |  |
 | [Sueño Tsunami](https://open.spotify.com/track/6bXaxXuBHxzy98PWxPvVLl) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Crucero Cristal](https://open.spotify.com/album/0LmoZ3QsZ5UDNoit01E12E) | 2:57 | 2022-06-03 | 2022-11-27 |
 | [Sueño Tsunami](https://open.spotify.com/track/7sPvkpfMRl16G1AyYfNdtI) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Crucero Cristal](https://open.spotify.com/album/2SM5RiFWCFJw0EoV6deVFv) | 2:57 | 2022-11-11 | 2023-06-10 |
 | [surfing caracol](https://open.spotify.com/track/2B5vdXagsT3RN8uGzBdeTk) | [Confío en tus amigos](https://open.spotify.com/artist/6eeMg2f1msRTEqwKKC1KZ4) | [Rapida comida](https://open.spotify.com/album/1huDYq4RA3dB74HmvtTqg5) | 2:04 | 2022-07-01 | 2022-07-20 |

@@ -1,12 +1,12 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 38529,
+  "num_followers": 38655,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYzYyN2VhYzdmMDNjNDBmYjg2MmRiNmNmZmU1NTZlNGI3YTkyMzE2",
+  "snapshot_id": "MCwzNmZmOTRkZmVjNzU3MGM1ZDRkOTk1MGQ2OTY4MTEzYjA4OTZmYmRl",
   "tracks": [
     {
       "added_at": "2023-12-08 03:55:14",
@@ -383,6 +383,42 @@
     {
       "added_at": "2023-12-08 03:55:14",
       "album": {
+        "name": "Taru",
+        "url": "https://open.spotify.com/album/4klKbCQgeGUdp5ct3pwuFL"
+      },
+      "artists": [
+        {
+          "name": "Pierre Johnson",
+          "url": "https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz"
+        },
+        {
+          "name": "Simeon",
+          "url": "https://open.spotify.com/artist/7nFPoOzmOGvKEiurWwNG6x"
+        }
+      ],
+      "duration_ms": 399661,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/74jHixTwsXLdIKDKA7PK6V"
+    },
+    {
+      "added_at": "2023-12-08 03:55:14",
+      "album": {
+        "name": "Skies Showers EP",
+        "url": "https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0"
+      },
+      "artists": [
+        {
+          "name": "DJ Couza",
+          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
+        }
+      ],
+      "duration_ms": 530086,
+      "name": "Stay For The Night",
+      "url": "https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt"
+    },
+    {
+      "added_at": "2023-12-08 03:55:14",
+      "album": {
         "name": "Never Thought",
         "url": "https://open.spotify.com/album/0q4QBX9InqxRyTaen8e4oj"
       },
@@ -411,22 +447,6 @@
     {
       "added_at": "2023-12-08 03:55:14",
       "album": {
-        "name": "Skies Showers EP",
-        "url": "https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0"
-      },
-      "artists": [
-        {
-          "name": "DJ Couza",
-          "url": "https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS"
-        }
-      ],
-      "duration_ms": 530086,
-      "name": "Stay For The Night",
-      "url": "https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt"
-    },
-    {
-      "added_at": "2023-12-08 03:55:14",
-      "album": {
         "name": "Necessary",
         "url": "https://open.spotify.com/album/7DJMEOEgdMeostjUhaTpBj"
       },
@@ -443,26 +463,6 @@
       "duration_ms": 395709,
       "name": "Love I Know",
       "url": "https://open.spotify.com/track/0SqmE1h7wjpq8BN6YvMk6P"
-    },
-    {
-      "added_at": "2023-12-08 03:55:14",
-      "album": {
-        "name": "Taru",
-        "url": "https://open.spotify.com/album/4klKbCQgeGUdp5ct3pwuFL"
-      },
-      "artists": [
-        {
-          "name": "Pierre Johnson",
-          "url": "https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz"
-        },
-        {
-          "name": "Simeon",
-          "url": "https://open.spotify.com/artist/7nFPoOzmOGvKEiurWwNG6x"
-        }
-      ],
-      "duration_ms": 399661,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/74jHixTwsXLdIKDKA7PK6V"
     },
     {
       "added_at": "2023-12-08 03:55:14",
@@ -587,30 +587,6 @@
     {
       "added_at": "2023-12-08 03:55:14",
       "album": {
-        "name": "Mend It / Your Eyes Remixes",
-        "url": "https://open.spotify.com/album/12AR6R2HH1hFw6sMtCL1aL"
-      },
-      "artists": [
-        {
-          "name": "Lazarusman",
-          "url": "https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc"
-        },
-        {
-          "name": "Fka Mash",
-          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
-        },
-        {
-          "name": "Stimming",
-          "url": "https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ"
-        }
-      ],
-      "duration_ms": 518599,
-      "name": "Mend It - Stimming Remix",
-      "url": "https://open.spotify.com/track/3Auy3Rv9bSYzj3sSMwNFAq"
-    },
-    {
-      "added_at": "2023-12-08 03:55:14",
-      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/3uMa6fwSZyAlRZ6y9mffiE"
       },
@@ -647,6 +623,30 @@
       "duration_ms": 453453,
       "name": "Four Lessons",
       "url": "https://open.spotify.com/track/3RGbg9ENcRIYFGXpzLr8Xe"
+    },
+    {
+      "added_at": "2023-12-08 03:55:14",
+      "album": {
+        "name": "Mend It / Your Eyes Remixes",
+        "url": "https://open.spotify.com/album/12AR6R2HH1hFw6sMtCL1aL"
+      },
+      "artists": [
+        {
+          "name": "Lazarusman",
+          "url": "https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc"
+        },
+        {
+          "name": "Fka Mash",
+          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
+        },
+        {
+          "name": "Stimming",
+          "url": "https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ"
+        }
+      ],
+      "duration_ms": 518599,
+      "name": "Mend It - Stimming Remix",
+      "url": "https://open.spotify.com/track/3Auy3Rv9bSYzj3sSMwNFAq"
     },
     {
       "added_at": "2023-12-08 03:55:14",
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-12-08 03:55:14",
       "album": {
-        "name": "Emulate",
-        "url": "https://open.spotify.com/album/3liHkkMMd2YHC8dstMQ8js"
+        "name": "Those Times",
+        "url": "https://open.spotify.com/album/5YblhSjbYeSAkY1JoWmkVY"
       },
       "artists": [
         {
-          "name": "Jason Scoble",
-          "url": "https://open.spotify.com/artist/4Z0yLFzmYX8tOVel9skUdg"
+          "name": "C-Moody",
+          "url": "https://open.spotify.com/artist/54OOXOPVCHZ2wkppPBXaal"
         }
       ],
-      "duration_ms": 469614,
-      "name": "Emulate - Original Mix",
-      "url": "https://open.spotify.com/track/3cwnPmaqR2HPxnAbOiZQdk"
+      "duration_ms": 465288,
+      "name": "Those Times",
+      "url": "https://open.spotify.com/track/6CcZOTY6BcU0lrJu6Whhqn"
     },
     {
       "added_at": "2023-12-08 03:55:14",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-12-08 03:55:14",
       "album": {
-        "name": "Those Times",
-        "url": "https://open.spotify.com/album/5YblhSjbYeSAkY1JoWmkVY"
+        "name": "Emulate",
+        "url": "https://open.spotify.com/album/3liHkkMMd2YHC8dstMQ8js"
       },
       "artists": [
         {
-          "name": "C-Moody",
-          "url": "https://open.spotify.com/artist/54OOXOPVCHZ2wkppPBXaal"
+          "name": "Jason Scoble",
+          "url": "https://open.spotify.com/artist/4Z0yLFzmYX8tOVel9skUdg"
         }
       ],
-      "duration_ms": 465288,
-      "name": "Those Times",
-      "url": "https://open.spotify.com/track/6CcZOTY6BcU0lrJu6Whhqn"
+      "duration_ms": 469614,
+      "name": "Emulate - Original Mix",
+      "url": "https://open.spotify.com/track/3cwnPmaqR2HPxnAbOiZQdk"
     },
     {
       "added_at": "2023-12-08 03:55:14",

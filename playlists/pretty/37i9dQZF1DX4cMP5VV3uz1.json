@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 145637,
+  "num_followers": 145691,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTI1ZDg3NzVlMTg2MWQ5OWJlNWFiNTczMTlkNGJkNzhmYTk3Mzc2",
+  "snapshot_id": "MCxhYzIxZTk3MWIxOTljOTk1ZTUzYzc1N2Q2Y2YwYjMxZGYzNTI0MWM2",
   "tracks": [
     {
       "added_at": "2023-12-04 19:43:02",
@@ -995,6 +995,34 @@
     {
       "added_at": "2023-12-04 19:43:02",
       "album": {
+        "name": "Infinity (feat. ILIRA, iiola & Tom Cane)",
+        "url": "https://open.spotify.com/album/4X2i68rMNDVwGMTeXW5bek"
+      },
+      "artists": [
+        {
+          "name": "Wilkinson",
+          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
+        },
+        {
+          "name": "ILIRA",
+          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
+        },
+        {
+          "name": "iiola",
+          "url": "https://open.spotify.com/artist/3YSLjtLPCULe41kgElVrWj"
+        },
+        {
+          "name": "Tom Cane",
+          "url": "https://open.spotify.com/artist/5iFDzfBI6aebgrb9ljJhme"
+        }
+      ],
+      "duration_ms": 213793,
+      "name": "Infinity (feat. ILIRA, iiola & Tom Cane)",
+      "url": "https://open.spotify.com/track/0CkmD2L3xMeZTXOwlOCsVm"
+    },
+    {
+      "added_at": "2023-12-04 19:43:02",
+      "album": {
         "name": "Mesmerised",
         "url": "https://open.spotify.com/album/130KpuQV0nYnvmqcJupUIu"
       },
@@ -1031,34 +1059,6 @@
     {
       "added_at": "2023-12-04 19:43:02",
       "album": {
-        "name": "Infinity (feat. ILIRA, iiola & Tom Cane)",
-        "url": "https://open.spotify.com/album/4X2i68rMNDVwGMTeXW5bek"
-      },
-      "artists": [
-        {
-          "name": "Wilkinson",
-          "url": "https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r"
-        },
-        {
-          "name": "ILIRA",
-          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
-        },
-        {
-          "name": "iiola",
-          "url": "https://open.spotify.com/artist/3YSLjtLPCULe41kgElVrWj"
-        },
-        {
-          "name": "Tom Cane",
-          "url": "https://open.spotify.com/artist/5iFDzfBI6aebgrb9ljJhme"
-        }
-      ],
-      "duration_ms": 213793,
-      "name": "Infinity (feat. ILIRA, iiola & Tom Cane)",
-      "url": "https://open.spotify.com/track/0CkmD2L3xMeZTXOwlOCsVm"
-    },
-    {
-      "added_at": "2023-12-04 19:43:02",
-      "album": {
         "name": "Off The Ground",
         "url": "https://open.spotify.com/album/0JkmyjnTBATqM9Di9OsF5h"
       },
@@ -1071,26 +1071,6 @@
       "duration_ms": 242750,
       "name": "Off The Ground",
       "url": "https://open.spotify.com/track/5UvLQncwvEGiRLn0xEZw45"
-    },
-    {
-      "added_at": "2023-12-04 19:43:02",
-      "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/42Yeib3dBZYZ8tWXqTOYAZ"
-      },
-      "artists": [
-        {
-          "name": "Kings Of The Rollers",
-          "url": "https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP"
-        },
-        {
-          "name": "Katy B",
-          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/6EsnKHa5lVI409LXu3PkR6"
     },
     {
       "added_at": "2023-12-04 19:43:02",
@@ -1115,6 +1095,26 @@
       "duration_ms": 206931,
       "name": "Freedom 2",
       "url": "https://open.spotify.com/track/3sn7UM54xyAUjfR9rNxZwp"
+    },
+    {
+      "added_at": "2023-12-04 19:43:02",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/42Yeib3dBZYZ8tWXqTOYAZ"
+      },
+      "artists": [
+        {
+          "name": "Kings Of The Rollers",
+          "url": "https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP"
+        },
+        {
+          "name": "Katy B",
+          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/6EsnKHa5lVI409LXu3PkR6"
     },
     {
       "added_at": "2023-12-04 19:43:02",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-12-04 19:43:02",
       "album": {
-        "name": "Baddest",
-        "url": "https://open.spotify.com/album/3FCkjCs6WETYazRGWU8F9c"
-      },
-      "artists": [
-        {
-          "name": "Vibe Chemistry",
-          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
-        }
-      ],
-      "duration_ms": 223008,
-      "name": "Baddest",
-      "url": "https://open.spotify.com/track/2W2vodjw341bqlgTNPx8mb"
-    },
-    {
-      "added_at": "2023-12-04 19:43:02",
-      "album": {
         "name": "All For You",
         "url": "https://open.spotify.com/album/254Y0CD07dB40q84db89EB"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 202691,
       "name": "All For You",
       "url": "https://open.spotify.com/track/3y1fEFFHFv79OYeCbzc774"
+    },
+    {
+      "added_at": "2023-12-04 19:43:02",
+      "album": {
+        "name": "Baddest",
+        "url": "https://open.spotify.com/album/3FCkjCs6WETYazRGWU8F9c"
+      },
+      "artists": [
+        {
+          "name": "Vibe Chemistry",
+          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
+        }
+      ],
+      "duration_ms": 223008,
+      "name": "Baddest",
+      "url": "https://open.spotify.com/track/2W2vodjw341bqlgTNPx8mb"
     },
     {
       "added_at": "2023-12-04 19:43:02",

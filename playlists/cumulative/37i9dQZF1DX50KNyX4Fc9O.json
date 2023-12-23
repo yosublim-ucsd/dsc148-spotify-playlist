@@ -10322,10 +10322,32 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 154583,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/0yjswHWcqTEtpoe4IzJRI5"
+    },
+    {
+      "album": {
+        "name": "You & Me",
+        "url": "https://open.spotify.com/album/2cTcV37tJ1qVXTH1iRf2Mz"
+      },
+      "artists": [
+        {
+          "name": "Merlin",
+          "url": "https://open.spotify.com/artist/2MaEWDHjb1owUg3SGhS1vp"
+        },
+        {
+          "name": "Emie",
+          "url": "https://open.spotify.com/artist/7vMDKdgSZ2Scn4uzFdTDyZ"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154583,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/7ouJOwsTo9wpmV4bDdOH8M"
     },
     {
       "album": {

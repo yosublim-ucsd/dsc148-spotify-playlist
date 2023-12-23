@@ -1,12 +1,12 @@
 {
   "description": "A sonic wonderland of mesmerizing tunes...",
-  "num_followers": 72580,
+  "num_followers": 72633,
   "original_name": "Kaleidoscope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzAyNzU2YzM5YzhiNTkxZmI0NDI3YmFhNDFhNzcyMGUyOGQzZmZk",
+  "snapshot_id": "MCxmZjcxZjZlYmVkOTE5YmZiZWQ4YThjMWM4MWM2Njc3YTc3NTI2M2Q3",
   "tracks": [
     {
       "added_at": "2023-11-10 06:00:00",
@@ -155,6 +155,22 @@
       "duration_ms": 191862,
       "name": "Like Coconut Water",
       "url": "https://open.spotify.com/track/28pnWcdTLT64CupOvo26Ed"
+    },
+    {
+      "added_at": "2023-12-22 16:07:41",
+      "album": {
+        "name": "La boca aigua",
+        "url": "https://open.spotify.com/album/4O89ZOWZTSBnHErFVYGWPI"
+      },
+      "artists": [
+        {
+          "name": "Renaldo & Clara",
+          "url": "https://open.spotify.com/artist/29eGrPvxOuFDGOyOUi3RLq"
+        }
+      ],
+      "duration_ms": 128728,
+      "name": "Globus",
+      "url": "https://open.spotify.com/track/5P0nUjtiq6xWbtOhyjzNEk"
     },
     {
       "added_at": "2023-08-11 15:50:33",
@@ -541,6 +557,38 @@
       "url": "https://open.spotify.com/track/3DdKYu9en4HzWUdg98bB9Z"
     },
     {
+      "added_at": "2023-12-22 16:00:51",
+      "album": {
+        "name": "Nodos",
+        "url": "https://open.spotify.com/album/6Ja5JJOhoIkI7hf0r5pNlf"
+      },
+      "artists": [
+        {
+          "name": "Radiotr\u00f3nica",
+          "url": "https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN"
+        }
+      ],
+      "duration_ms": 220093,
+      "name": "Nodos",
+      "url": "https://open.spotify.com/track/5NxaaeCOluia2b0t6Kmkwf"
+    },
+    {
+      "added_at": "2023-12-22 16:00:51",
+      "album": {
+        "name": "Ciutat de sorra",
+        "url": "https://open.spotify.com/album/13kC4ZFHI7cl31iBomSpEA"
+      },
+      "artists": [
+        {
+          "name": "Hidrogenesse",
+          "url": "https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY"
+        }
+      ],
+      "duration_ms": 92708,
+      "name": "Jos\u00e9 Miguel el libertario",
+      "url": "https://open.spotify.com/track/1E06EkjEoe0krFd99LCKdq"
+    },
+    {
       "added_at": "2023-10-27 23:55:37",
       "album": {
         "name": "There is only love and fear",
@@ -795,54 +843,6 @@
       "duration_ms": 166406,
       "name": "coma",
       "url": "https://open.spotify.com/track/5gpEgBBVfRQRJCC7qfC0bu"
-    },
-    {
-      "added_at": "2023-10-02 18:55:49",
-      "album": {
-        "name": "UNDER THE ILLUSION",
-        "url": "https://open.spotify.com/album/3EcPBAQaJzFJdmML478ZiP"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 236370,
-      "name": "UNDER THE ILLUSION",
-      "url": "https://open.spotify.com/track/6c0dPWNb18BL7RLwwlZ717"
-    },
-    {
-      "added_at": "2023-12-07 00:30:28",
-      "album": {
-        "name": "El Tonto",
-        "url": "https://open.spotify.com/album/7zPK13GhWDQlCIebA48xxE"
-      },
-      "artists": [
-        {
-          "name": "Radiotr\u00f3nica",
-          "url": "https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "El Tonto",
-      "url": "https://open.spotify.com/track/1QbjXGsTITFUIxPauH3wJR"
-    },
-    {
-      "added_at": "2023-10-25 14:20:32",
-      "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
-      },
-      "artists": [
-        {
-          "name": "Marta Del Grandi",
-          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
-        }
-      ],
-      "duration_ms": 227212,
-      "name": "Mata Hari",
-      "url": "https://open.spotify.com/track/7wdoS8Tczz8wjhVjVsttIs"
     }
   ],
   "unique_name": "Kaleidoscope",

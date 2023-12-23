@@ -4,7 +4,7 @@
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Lệ Quyên
 
-228 songs - 19 hr 22 min
+229 songs - 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Mua Nua Dem](https://open.spotify.com/track/4yA7tlu0YKYqFPp17hNmX1) | [Luu Anh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Mua Buon Nho Anh](https://open.spotify.com/album/52stq8h34xtnE8NhLhXVVV) | 4:09 | 2022-03-11 | 2022-07-27 |
 | [Mùa xuân trông thư em](https://open.spotify.com/track/3zyzXofWUfEN5pT6u00nV0) | [Truong Vu](https://open.spotify.com/artist/78P4eADp0NwlcU4tsRCBdo) | [Tình bạn tình lính](https://open.spotify.com/album/1lnlA5sXZmqDr41U44qpA2) | 4:31 | 2023-01-19 | 2023-05-24 |
 | [Mãi Là Niềm Đau](https://open.spotify.com/track/0HwirubE0A00VYVLGOM5wp) | [Ngoc Han](https://open.spotify.com/artist/3Wdyn05ATQMon3kvCQiyER) | [Mãi Là Niềm Đau](https://open.spotify.com/album/5OOBWwpjpjoZg9UuT8LyD3) | 4:53 | 2022-03-11 | 2023-05-24 |
-| [Mùa xuân lá khô](https://open.spotify.com/track/32G06oNgf0zYkE0AkqG2U2) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Trăm năm bến cũ \(The best of Tuấn Vũ\)](https://open.spotify.com/album/2BYEw8GNViruaXISdMFk5k) | 5:39 | 2023-10-12 |  |
+| [Mùa xuân lá khô](https://open.spotify.com/track/32G06oNgf0zYkE0AkqG2U2) | [Tuấn Vũ](https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP) | [Trăm năm bến cũ \(The best of Tuấn Vũ\)](https://open.spotify.com/album/2BYEw8GNViruaXISdMFk5k) | 5:39 | 2023-10-12 | 2023-12-23 |
 | [Mùa Xuân Đó Có Em](https://open.spotify.com/track/61WAhBqLVRTESiLSNka4mO) | [Che Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi) | [Xuân](https://open.spotify.com/album/71yY4SX6OLZTyPXL6AkDUg) | 4:13 | 2023-01-18 | 2023-04-14 |
 | [Mùa Xuân Đó Có Em](https://open.spotify.com/track/5upOJADeXfN0FDRQcIbYfm) | [Chế Linh](https://open.spotify.com/artist/4H5amMkzRSO9xZpeAv4xlT) | [Xuân Tha Hương Xuân Lạc Xứ](https://open.spotify.com/album/3E7RCcMsmi8kTbTj9n1RS4) | 4:12 | 2023-01-19 | 2023-05-28 |
 | [Mùa xuân đó có em](https://open.spotify.com/track/6Nv1ftXQQxQrgwTgUioXg8) | [Dan Nguyen](https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn) | [Mùa Xuân Đó Có Em](https://open.spotify.com/album/11Zy14Xv73QRBRFMykcFz5) | 4:35 | 2022-03-11 |  |
@@ -206,6 +206,7 @@
 | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/track/0HJ3DgU82FaR4XuihYeTAb) | [Hoài Lâm](https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW) | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/album/2HFaqIATiNQLae9NBySEoS) | 4:23 | 2022-03-11 | 2023-08-07 |
 | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/track/1WCix14XoBrfdopN3BRYMJ) | [Hoài Lâm](https://open.spotify.com/artist/2dlC6p7Q75wnfhudwTEpxW) | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/album/5iARlHWbiqMDnGbF9CAVv1) | 4:23 | 2022-03-11 | 2022-07-29 |
 | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/track/3mpQ1AviqQ8iC9H5AaVVWu) | [Hoàng Oanh](https://open.spotify.com/artist/2ztKQFCq6NdVbjWLq33H7o), [Phương Dung](https://open.spotify.com/artist/2P7WrPkRtQLLJY5KPOmDt3) | [Sao Chưa Thấy Hồi Âm](https://open.spotify.com/album/5vaRnl2QeL8hONSGhi1EE8) | 5:42 | 2023-10-06 | 2023-10-13 |
+| [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/track/6IxoEMunEZqKB9tjBdRkcS) | [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [Không Phải Tại Chúng Mình](https://open.spotify.com/album/1xUkorDdvD9EQ4qQqp0XRh) | 4:17 | 2023-12-14 |  |
 | [Về đâu mái tóc người thương](https://open.spotify.com/track/7k6LqKjAXIZCB25smEGjpK) | [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [LiveShow Duyên phận](https://open.spotify.com/album/0pASS53YcZ5uYXIDhtdrgX) | 4:43 | 2022-03-11 |  |
 | [Về đâu mái tóc người thương](https://open.spotify.com/track/27fatF8hvPt6l2qQcY3I58) | [Quang Lập](https://open.spotify.com/artist/6PORUlK3pnUDFJi2tyYVsZ) | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/album/5r9F0ckw8JHmCq90VgBzx0) | 5:17 | 2022-03-11 | 2023-07-16 |
 | [Xin Goi Nhau La Co Nhan](https://open.spotify.com/track/2aSz0b9gg8M52dko2mHLMd) | [Tâm Đoan](https://open.spotify.com/artist/009DchB833vqAeN8v5zE4O) | [Sau Le Bong](https://open.spotify.com/album/6UgPVriOZBCkmu511zjNeH) | 4:07 | 2022-03-11 | 2022-07-22 |

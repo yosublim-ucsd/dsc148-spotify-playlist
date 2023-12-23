@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,826 songs - 4 day 2 hr 51 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,828 songs - 4 day 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1834,5 +1834,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1824 | [Talk To Me Nice](https://open.spotify.com/track/0k4C2siRScZQAb7eIEQDI5) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Talk To Me Nice](https://open.spotify.com/album/47SFbNznLU50PNraq3mIdn) | 3:49 |
 | 1825 | [I LOVE YOU HOE \(w/ 9lives\)](https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [3x3](https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t) | 2:06 |
 | 1826 | [1000 Blunts](https://open.spotify.com/track/09riz9pAPJyYYDVynE5xxY) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 2:55 |
+| 1827 | [Quer Fuder Com os Sem Amor Vs Beat Risada](https://open.spotify.com/track/256rhfOQpQvN24CFJEWxQ8) | [Lgzin e cabelinho](https://open.spotify.com/artist/1UbZJGwemZf22EigTv1hH5), [Mc Grigo 22](https://open.spotify.com/artist/3FPXlDlvOoKaDRrqQcFH8l) | [Quer Fuder Com os Sem Amor Vs Beat Risada](https://open.spotify.com/album/6TYSu96eVsKo1RrVXf8deB) | 2:16 |
+| 1828 | [Automotivo Bibi Fogosa](https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN) | [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [Dj Brunin XM](https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3), [KZA Produções](https://open.spotify.com/artist/1rRhJIu1ufxCjbmMWon6ax) | [Automotivo Bibi Fogosa](https://open.spotify.com/album/0Hj2X0CQBjpWapFzNQGbk2) | 2:09 |
 
-Snapshot ID: `Njc3LDUyYjAwNGYwZmFiNDJjOTEwYmFiZWNkOWVjMDRjZWNlODA2ZGNjMzA=`
+Snapshot ID: `Njc5LDE5OTFhMTQ5ZTE2MjU4ZmU4YzExOTliYTIzMWZhMjQyY2I0NzU0NmE=`

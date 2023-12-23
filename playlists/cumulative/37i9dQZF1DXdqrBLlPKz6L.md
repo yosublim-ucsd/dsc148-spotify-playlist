@@ -2,9 +2,9 @@
 
 ### [Trapperz Andinos](https://open.spotify.com/playlist/37i9dQZF1DXdqrBLlPKz6L)
 
-> Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Cobuz & Bustta, Esteban Rojas
+> Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: El Clooy
 
-98 songs - 5 hr 18 min
+99 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Dimelo](https://open.spotify.com/track/1RVWM0wmuQRUsAwbot9mos) | [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I), [Daske Gaitán](https://open.spotify.com/artist/6X4iDmQtuCcuyILe3D00E6) | [Flama](https://open.spotify.com/album/0oCoqgiJLn73yyR61MF2Z5) | 1:57 | 2021-10-15 |  |
 | [Double Cup \(feat\. Trainer & Big Soto\)](https://open.spotify.com/track/0wwOTjKyrGTp1bJCUy7mPj) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Double Cup \(feat\. Trainer & Big Soto\)](https://open.spotify.com/album/4x4ubWTKOJQ1k0daiz0Kfd) | 3:41 | 2021-10-15 |  |
 | [EL INCA](https://open.spotify.com/track/3dbSd2j3p9XWqI1VqfOyh7) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [EL INCA](https://open.spotify.com/album/0NVqJU1egg3BuAtRyxUvz0) | 3:32 | 2021-10-15 |  |
-| [Entre Billetes](https://open.spotify.com/track/28C79DaAXJPF2uN3PRIXrW) | [Malucci](https://open.spotify.com/artist/6QHHahauE7Sf3fgA7JTdYO), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS) | [Entre Billetes](https://open.spotify.com/album/36VzE1tBaf4azzGSDvOaIj) | 3:49 | 2021-10-15 |  |
+| [Entre Billetes](https://open.spotify.com/track/28C79DaAXJPF2uN3PRIXrW) | [Malucci](https://open.spotify.com/artist/6QHHahauE7Sf3fgA7JTdYO), [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS) | [Entre Billetes](https://open.spotify.com/album/36VzE1tBaf4azzGSDvOaIj) | 3:49 | 2021-10-15 | 2023-12-23 |
 | [Esperando Q Me Des Un Call](https://open.spotify.com/track/5f3AmXghyLboXUrnjNMFtq) | [YUNGLiAN MEDiOCRE BROKE BOi](https://open.spotify.com/artist/0c3pqws6HYDBgZmZnhKzcc), [La Santa María](https://open.spotify.com/artist/39ez5l9yGO86b4gZbT7j8B), [Joe$](https://open.spotify.com/artist/0IwFQ4iylBRmGPsnm6gFOf), [L'Miranda](https://open.spotify.com/artist/2v8V8xnimi2FUOxXWINNUr) | [Esperando Q Me Des Un Call](https://open.spotify.com/album/7KLuD2DBFmxz5jcibIS9KO) | 2:39 | 2022-04-08 | 2022-11-04 |
 | [Esteban Rojas Hotline: Cobuz & Bustta](https://open.spotify.com/track/1ekyUJAtwt1VvoUQNcgWrf) | [Cobuz & Bustta](https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU) | [Esteban Rojas Hotline: Cobuz & Bustta](https://open.spotify.com/album/294JtJhmt9pSQARdmgEQBb) | 3:32 | 2023-10-27 |  |
 | [Estoy Bien](https://open.spotify.com/track/42e8NZUQvgxiirRcVEjbOz) | [Miguel Guerrero](https://open.spotify.com/artist/0oLKZhIMEbx19AiEz2hTA6) | [A Veces Es Bueno Estar Triste](https://open.spotify.com/album/2AGlNJbOjLzn0o7wSEWegz) | 3:14 | 2022-04-08 | 2023-03-03 |
@@ -60,6 +60,7 @@
 | [La Maluquera](https://open.spotify.com/track/5A7U0FjslKz2wq3Duh3A7i) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Goldo Funky](https://open.spotify.com/album/28TBy3fqYNUSp4CTzQSJJQ) | 3:50 | 2021-10-15 |  |
 | [La Movie](https://open.spotify.com/track/5vXtCT27kRaDJASx4HNlGO) | [Dani Torres](https://open.spotify.com/artist/3FCbl6b1JHLfVADjqG7iP5), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR) | [La Movie](https://open.spotify.com/album/3uSH8eA5bgrPCHLCBTRGss) | 4:24 | 2022-09-02 |  |
 | [La pasé cabrón](https://open.spotify.com/track/4rKM9EE3torp4wXfqEzzgZ) | [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW) | [La pasé cabrón](https://open.spotify.com/album/6ElfLUNrxLvu0kGEBkCjHh) | 3:05 | 2021-10-15 | 2022-04-09 |
+| [La Salsa](https://open.spotify.com/track/696HCNMv6YK7K5Gtl3504C) | [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC), [COQE](https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E) | [La Salsa](https://open.spotify.com/album/082ck1VrEmNTwo8vf0cDkQ) | 2:16 | 2023-12-22 |  |
 | [Lastima](https://open.spotify.com/track/7LK6f8PSEBdVHxFky21fYv) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Selected Music](https://open.spotify.com/artist/4JfavcBZEpY1vMW8Xqcc6y) | [Lastima](https://open.spotify.com/album/2M3EmYAlbA52gefdceSa05) | 3:43 | 2021-10-15 |  |
 | [Llanogrande](https://open.spotify.com/track/19j1aiX1XtvV1rjQiB0xnI) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [HIT$ MUSIC](https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT) | [Llanogrande](https://open.spotify.com/album/4erHmgwHrYipv67oz7EEhz) | 3:16 | 2022-08-19 | 2023-03-25 |
 | [Los Negritos II](https://open.spotify.com/track/26NyY7vQeWoP4wtVoEB9u1) | [RK wavy](https://open.spotify.com/artist/1ZIBlhnSXQJU5Xmn1rh07r), [Yung Iverson](https://open.spotify.com/artist/32FZMa8a5INqhHHssRtkux), [Oliver Outc](https://open.spotify.com/artist/4ZK8wO3w5bwhtX0XtUjgWw) | [Los Negritos II](https://open.spotify.com/album/1B1jKCRab5fXBJlZPwgWGQ) | 2:09 | 2023-02-10 | 2023-03-25 |

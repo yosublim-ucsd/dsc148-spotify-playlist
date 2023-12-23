@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaB9aWy6BzCT.md) - [plain]
 
 > Los grandes éxitos de Daddy Yankee y Nicky Jam en un mismo lugar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,869 likes - 56 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,024 likes - 56 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaB9aWy6BzCT.md) - [plain]
 | 25 | [Si Supieras](https://open.spotify.com/track/7MRU4vOkywuhZ9kbFiPuiu) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Si Supieras](https://open.spotify.com/album/4lmKt00bHLEeqJRTlNOxXS) | 4:01 |
 | 26 | [Si Tú No Estás](https://open.spotify.com/track/2pDODfTQlKUvlq2lc83Whl) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Si Tú No Estás](https://open.spotify.com/album/0amNwDcNVIINDp6zXfjxSg) | 3:38 |
 | 27 | [Piensas en Mí](https://open.spotify.com/track/2uhkqlbBlLRYItG0eDzFTR) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Piensas en Mí](https://open.spotify.com/album/5ZaSzyQcoisKR0DHwKbKHx) | 4:15 |
-| 28 | [Tanta Falta Remix](https://open.spotify.com/track/2AbPshGfRDKLlkM0lrDNTR) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Tanta Falta Remix](https://open.spotify.com/album/1H5ki3YSO29zF5kEmN3Fd4) | 3:01 |
+| 28 | [Tanta Falta Remix](https://open.spotify.com/track/5iFKtk78vFrZHpxC53kyfe) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Tanta Falta Remix](https://open.spotify.com/album/7E9rraDzsfh89jnUTLR1ff) | 3:01 |
 | 29 | [Con Calma](https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [Con Calma](https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh) | 3:13 |
 | 30 | [Juegos Prohibidos](https://open.spotify.com/track/0cpxR4XkBg6Gm4VIUCiwYN) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Juegos Prohibidos](https://open.spotify.com/album/13A1xwgLxWDMarimSzgGtT) | 3:11 |
 | 31 | [Mayor Que Yo 3](https://open.spotify.com/track/0bMRpUsk1IWi5O2NIkWsqR) | [Luny Tunes](https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Dance Latin \# 1 Hits](https://open.spotify.com/album/4GMgJaHCYCH8YVqEYZ0NxA) | 5:09 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaB9aWy6BzCT.md) - [plain]
 | 55 | [X ÚLTIMA VEZ](https://open.spotify.com/track/48AJSd42lXpicsGqcgopof) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:12 |
 | 56 | [Miami](https://open.spotify.com/track/5vUIh7sODY1sD6EIo49Dka) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Miami](https://open.spotify.com/album/0ffCDiEj0kSf1Z4cLLAyHl) | 3:12 |
 
-Snapshot ID: `MCxjYmE0ODkxZDM0N2U4YzYzNjQ1OTE4OTZjNTI1M2QzOTYzZDg5YjE0`
+Snapshot ID: `MCxhOWUzYzc1ODVjM2EzMGVhZmZjMWFlMGUxYzNmNmUyMDNkNWJiMjc4`

@@ -1,13 +1,73 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Ummet Ozcan",
-  "num_followers": 121535,
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Bhaskar and Alok",
+  "num_followers": 121537,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "NzI1MyxlMzcxZTVhZWFmOGFkMThkMWI4ZWMyN2UzMjc2YThhMGFjYWU1YTYz",
+  "snapshot_id": "NzI5NyxkNjk5YjkwN2I5ZmI4YmUwNDRjYmM4MzU1MTI0YjA5MTJlZGMxOGU5",
   "tracks": [
+    {
+      "added_at": "2023-12-22 10:18:28",
+      "album": {
+        "name": "CONTROVERSIA by Bhaskar Vol. 012",
+        "url": "https://open.spotify.com/album/6Hb7MWG19j1LIHdYfkmcwe"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 191750,
+      "name": "The Warehouse",
+      "url": "https://open.spotify.com/track/3aGl9EKwX38Uob6MVtBDWw"
+    },
+    {
+      "added_at": "2023-12-22 10:18:39",
+      "album": {
+        "name": "Need Ya (I Don't Wanna) [VIP Mix]",
+        "url": "https://open.spotify.com/album/4RZDyIv6Yh3gUmMdmPss5r"
+      },
+      "artists": [
+        {
+          "name": "Mollie Collins",
+          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
+        },
+        {
+          "name": "Leah Guest",
+          "url": "https://open.spotify.com/artist/3xcuwG04J5hXTs7eOS1vbe"
+        }
+      ],
+      "duration_ms": 203469,
+      "name": "Need Ya (I Don't Wanna) [VIP Mix]",
+      "url": "https://open.spotify.com/track/2TMTLZociLAMf3PleDGccB"
+    },
+    {
+      "added_at": "2023-12-22 10:18:41",
+      "album": {
+        "name": "Headphones (feat. Aron Blom)",
+        "url": "https://open.spotify.com/album/3EZbuRCkXAcdxGbyzBpokQ"
+      },
+      "artists": [
+        {
+          "name": "MARF",
+          "url": "https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7"
+        },
+        {
+          "name": "Aron Blom",
+          "url": "https://open.spotify.com/artist/6srxAZuUenELGYEGNhsKpH"
+        }
+      ],
+      "duration_ms": 159375,
+      "name": "Headphones (feat. Aron Blom)",
+      "url": "https://open.spotify.com/track/5lSvT7dzt2iFriCShrRlKv"
+    },
     {
       "added_at": "2023-12-15 10:19:33",
       "album": {
@@ -53,46 +113,106 @@
       "url": "https://open.spotify.com/track/12vw8PuxYG0jd6YW2gBcAK"
     },
     {
-      "added_at": "2023-12-08 08:05:12",
+      "added_at": "2023-12-22 10:18:45",
       "album": {
-        "name": "Oxygen",
-        "url": "https://open.spotify.com/album/3eZNKRsur7kKjYWUcCsG2x"
+        "name": "Rindfleischetikettierungs\u00fcberwachungsaufgaben\u00fcbertragungsgesetz (Hyper Techno Mix)",
+        "url": "https://open.spotify.com/album/1gTdJfxsDeH1ipPmvvKXV5"
       },
       "artists": [
         {
-          "name": "Will Taylor (UK)",
-          "url": "https://open.spotify.com/artist/53PVBEKRk4Fvq8w8cLydLX"
+          "name": "Vessbroz",
+          "url": "https://open.spotify.com/artist/7cfwpLTCScF6nchUyuwWUt"
         }
       ],
-      "duration_ms": 187529,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/4DQ5w8QsWZLECiNMV3k61j"
+      "duration_ms": 126500,
+      "name": "Rindfleischetikettierungs\u00fcberwachungsaufgaben\u00fcbertragungsgesetz (Hyper Techno Mix)",
+      "url": "https://open.spotify.com/track/3hqAbVDWMR62ylTI5LNQ98"
     },
     {
-      "added_at": "2023-12-08 08:05:12",
+      "added_at": "2023-12-22 10:18:47",
       "album": {
-        "name": "Rave Train",
-        "url": "https://open.spotify.com/album/5he5OdNDgHj1NY1ZUzqEXM"
+        "name": "Blessed (Lost & Found)",
+        "url": "https://open.spotify.com/album/5fhv3zHmYuIPO7S8zFarFq"
       },
       "artists": [
         {
-          "name": "Joel Fletcher",
-          "url": "https://open.spotify.com/artist/2Z4QqhmV5Xw5vX2ZI70HOR"
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
         },
         {
-          "name": "MorganJ",
-          "url": "https://open.spotify.com/artist/5irwemCIBdwWYTZrcxX2UW"
+          "name": "Robbie Mendez",
+          "url": "https://open.spotify.com/artist/1CEqpjEq6n8O8zte6YvOTM"
         }
       ],
-      "duration_ms": 161250,
-      "name": "Rave Train",
-      "url": "https://open.spotify.com/track/5q5yF4cekhSFdsGFvKpIqA"
+      "duration_ms": 208124,
+      "name": "Blessed (Lost & Found)",
+      "url": "https://open.spotify.com/track/61YKjWGAo6dGy43mHmQ8un"
     },
     {
-      "added_at": "2023-12-08 08:05:12",
+      "added_at": "2023-12-22 10:18:50",
       "album": {
-        "name": "Need To Feel Loved (Ginchy Mix)",
-        "url": "https://open.spotify.com/album/7IrJDOHSnQQ3CSKhU58HLH"
+        "name": "HABANERO",
+        "url": "https://open.spotify.com/album/3RhjyhgMng1xNRiSTi2iCd"
+      },
+      "artists": [
+        {
+          "name": "Matt Hawk",
+          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "HABANERO",
+      "url": "https://open.spotify.com/track/5Owdw7WjhY4NxHAecSSwF3"
+    },
+    {
+      "added_at": "2023-12-22 10:18:55",
+      "album": {
+        "name": "Lose Control (feat. David Allen)",
+        "url": "https://open.spotify.com/album/1UvWKurP8K1QZPcmMkuY44"
+      },
+      "artists": [
+        {
+          "name": "Blackcode",
+          "url": "https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL"
+        },
+        {
+          "name": "KDH",
+          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
+        },
+        {
+          "name": "David Allen",
+          "url": "https://open.spotify.com/artist/1KlBo98Vn0xHQZuLUhyrwe"
+        }
+      ],
+      "duration_ms": 140314,
+      "name": "Lose Control (feat. David Allen)",
+      "url": "https://open.spotify.com/track/1SmJqreQjRhIxKuEbO3W0Z"
+    },
+    {
+      "added_at": "2023-12-22 10:18:58",
+      "album": {
+        "name": "Pira\u00f1a (1,2,3)",
+        "url": "https://open.spotify.com/album/4YL2RfrcBTwhhl5AnAeDTV"
+      },
+      "artists": [
+        {
+          "name": "SIR NOTCH",
+          "url": "https://open.spotify.com/artist/4SLZm8YYu6KrPjowQigjCQ"
+        },
+        {
+          "name": "Mei d\u00e9 Lyn",
+          "url": "https://open.spotify.com/artist/6tEbiAADr1Ka9F7i2T6rAY"
+        }
+      ],
+      "duration_ms": 129600,
+      "name": "Pira\u00f1a (1,2,3)",
+      "url": "https://open.spotify.com/track/04OwNrnAfuavWProetNBs7"
+    },
+    {
+      "added_at": "2023-12-22 10:19:01",
+      "album": {
+        "name": "Rapture (BLR Remix)",
+        "url": "https://open.spotify.com/album/0iaLdEq3LJZIFhuyp9VEwR"
       },
       "artists": [
         {
@@ -100,13 +220,89 @@
           "url": "https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz"
         },
         {
-          "name": "Ginchy",
-          "url": "https://open.spotify.com/artist/0HOE39NQ7ewDCXEZm796MP"
+          "name": "Robert Falcon",
+          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
+        },
+        {
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
         }
       ],
-      "duration_ms": 159354,
-      "name": "Need To Feel Loved (Ginchy Mix)",
-      "url": "https://open.spotify.com/track/3qzs5jAC7uFbZvutvVwcwE"
+      "duration_ms": 230624,
+      "name": "Rapture (BLR Remix)",
+      "url": "https://open.spotify.com/track/2rFGvptgcdcYoYHZ89GNL3"
+    },
+    {
+      "added_at": "2023-12-22 10:19:05",
+      "album": {
+        "name": "Elude",
+        "url": "https://open.spotify.com/album/00I5sgUA5hgNKRpLbfBmgh"
+      },
+      "artists": [
+        {
+          "name": "Salutte",
+          "url": "https://open.spotify.com/artist/4xn9dh9dk1ZdymjtHbiBG9"
+        }
+      ],
+      "duration_ms": 234285,
+      "name": "Elude",
+      "url": "https://open.spotify.com/track/5g70bz611yoPg8ay5Y2znZ"
+    },
+    {
+      "added_at": "2023-12-22 10:19:09",
+      "album": {
+        "name": "All The Time",
+        "url": "https://open.spotify.com/album/3oqLLeOYq4kFex7druUySd"
+      },
+      "artists": [
+        {
+          "name": "The \u00d8livers",
+          "url": "https://open.spotify.com/artist/0jhOXk8aZrCtQAMaFtIbrP"
+        }
+      ],
+      "duration_ms": 189565,
+      "name": "All The Time",
+      "url": "https://open.spotify.com/track/4p9O7uT8RD1Ji7GidOX4sx"
+    },
+    {
+      "added_at": "2023-12-22 10:19:14",
+      "album": {
+        "name": "Intercept",
+        "url": "https://open.spotify.com/album/7GeuUfYbGxse63cTE0DqlL"
+      },
+      "artists": [
+        {
+          "name": "Hisashi",
+          "url": "https://open.spotify.com/artist/1XjLiWJCvJVfoK5js7VNL8"
+        }
+      ],
+      "duration_ms": 245806,
+      "name": "Intercept",
+      "url": "https://open.spotify.com/track/3ZfUuucwsGA1GExZcpDKKn"
+    },
+    {
+      "added_at": "2023-12-22 10:19:18",
+      "album": {
+        "name": "Ameno (Techno Mix)",
+        "url": "https://open.spotify.com/album/462dtvXo4JbizSYgI6wUPX"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+        },
+        {
+          "name": "Roberto Molinaro",
+          "url": "https://open.spotify.com/artist/0mAQ0glGOQwK489YCodem9"
+        }
+      ],
+      "duration_ms": 150400,
+      "name": "Ameno (Techno Mix)",
+      "url": "https://open.spotify.com/track/4gTFHQpidAuSjo5voOV5cG"
     },
     {
       "added_at": "2023-12-15 10:19:38",
@@ -319,214 +515,6 @@
       "duration_ms": 167111,
       "name": "Drift Away",
       "url": "https://open.spotify.com/track/7eNnsJH1wW6vf7rkqss0dM"
-    },
-    {
-      "added_at": "2023-12-08 08:05:12",
-      "album": {
-        "name": "Life",
-        "url": "https://open.spotify.com/album/03IJW60HLbz03O4tZ8DIiQ"
-      },
-      "artists": [
-        {
-          "name": "Ta'oma",
-          "url": "https://open.spotify.com/artist/5719kvWHLr5BQpuD5EUlLx"
-        }
-      ],
-      "duration_ms": 191663,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/75rHNdfKclNx4f2cPrKbwq"
-    },
-    {
-      "added_at": "2023-12-08 08:05:12",
-      "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/323YP3PzcOS7UW6iLVmrZE"
-      },
-      "artists": [
-        {
-          "name": "Agus Zack",
-          "url": "https://open.spotify.com/artist/5lgGTdDt54gaRQqbbOsnwK"
-        },
-        {
-          "name": "Basslovd",
-          "url": "https://open.spotify.com/artist/6foY5jmgmpmSibhlKc6fIp"
-        }
-      ],
-      "duration_ms": 150476,
-      "name": "Escape",
-      "url": "https://open.spotify.com/track/1S2u1Fwgys197VsYp4JuIr"
-    },
-    {
-      "added_at": "2023-12-08 08:05:12",
-      "album": {
-        "name": "With Me",
-        "url": "https://open.spotify.com/album/22SVjhefYMqDZmBI6yB3PT"
-      },
-      "artists": [
-        {
-          "name": "AANSE",
-          "url": "https://open.spotify.com/artist/6qlH3EfcFpLwAGiQQlAra6"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "With Me",
-      "url": "https://open.spotify.com/track/660sAB0jFqI2zdO5XkoI3q"
-    },
-    {
-      "added_at": "2023-12-08 08:05:12",
-      "album": {
-        "name": "Good Time",
-        "url": "https://open.spotify.com/album/4G1FKnmkqX85FV7t6KeSz4"
-      },
-      "artists": [
-        {
-          "name": "Andrea Crocicchia",
-          "url": "https://open.spotify.com/artist/0OS5Vg2ldEU2GYVmQymawR"
-        }
-      ],
-      "duration_ms": 121987,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/4RJIYhvAPpR1s1uC2mb78r"
-    },
-    {
-      "added_at": "2023-12-08 08:05:12",
-      "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/5umybiMI6zk6Twnluw4Ewf"
-      },
-      "artists": [
-        {
-          "name": "Sesco",
-          "url": "https://open.spotify.com/artist/0pP0ClsQK7FgtbwuUcVrQV"
-        }
-      ],
-      "duration_ms": 163142,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/0f55shlytyTjhwNHxWOFPv"
-    },
-    {
-      "added_at": "2023-12-08 08:05:12",
-      "album": {
-        "name": "Ouaa",
-        "url": "https://open.spotify.com/album/6e5ycTxgYYF5DC9S3o2uGN"
-      },
-      "artists": [
-        {
-          "name": "Mairee",
-          "url": "https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6"
-        }
-      ],
-      "duration_ms": 176856,
-      "name": "Ouaa",
-      "url": "https://open.spotify.com/track/45SqfpvLh3waQiHES1ybhh"
-    },
-    {
-      "added_at": "2023-12-08 08:05:12",
-      "album": {
-        "name": "Like This",
-        "url": "https://open.spotify.com/album/0IKWmzxUti342Ux02h3VlF"
-      },
-      "artists": [
-        {
-          "name": "FONTI",
-          "url": "https://open.spotify.com/artist/1wYQzfNKzHpbeE3M1aRXS4"
-        },
-        {
-          "name": "Brawo",
-          "url": "https://open.spotify.com/artist/09EMhMzmNUfOzS6Z7zKHej"
-        }
-      ],
-      "duration_ms": 175100,
-      "name": "Like This",
-      "url": "https://open.spotify.com/track/6xzmZbfB8WsrWyxJxfMOXo"
-    },
-    {
-      "added_at": "2023-12-08 08:05:12",
-      "album": {
-        "name": "Bug A Boo",
-        "url": "https://open.spotify.com/album/0SLJzJugw02hCd5UDfDsV3"
-      },
-      "artists": [
-        {
-          "name": "Hi_Tack",
-          "url": "https://open.spotify.com/artist/6N1W9mAlncCKbqBHgBR2bN"
-        }
-      ],
-      "duration_ms": 149771,
-      "name": "Bug A Boo",
-      "url": "https://open.spotify.com/track/02GHFyivTJBiJ3qpHBBIzM"
-    },
-    {
-      "added_at": "2023-12-08 08:05:12",
-      "album": {
-        "name": "Overdrive (Wave Wave VIP Mix)",
-        "url": "https://open.spotify.com/album/1fvjeN99HxmXVkEaARXF0Y"
-      },
-      "artists": [
-        {
-          "name": "Wave Wave",
-          "url": "https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "Overdrive - Wave Wave VIP Mix",
-      "url": "https://open.spotify.com/track/38zyXjO1GzRmtahMkzUMZQ"
-    },
-    {
-      "added_at": "2023-12-08 08:05:12",
-      "album": {
-        "name": "Carol Of The Bells (2023 Edit)",
-        "url": "https://open.spotify.com/album/6CUZIS4yAwhCFAvKM9J0GV"
-      },
-      "artists": [
-        {
-          "name": "Mosimann",
-          "url": "https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK"
-        }
-      ],
-      "duration_ms": 175326,
-      "name": "Carol Of The Bells (2023 Edit)",
-      "url": "https://open.spotify.com/track/6VqAnU78bwLTvl1pafbRQf"
-    },
-    {
-      "added_at": "2023-12-01 08:04:07",
-      "album": {
-        "name": "Womp",
-        "url": "https://open.spotify.com/album/3YZCt02V0cAwEdu13QRbQb"
-      },
-      "artists": [
-        {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
-        },
-        {
-          "name": "Firebeatz",
-          "url": "https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo"
-        }
-      ],
-      "duration_ms": 182812,
-      "name": "Womp",
-      "url": "https://open.spotify.com/track/2AK9QW44BEnCzvfCSlD7uW"
-    },
-    {
-      "added_at": "2023-12-01 08:04:07",
-      "album": {
-        "name": "Tears On The Dancefloor (feat. Hannah Boleyn) [Night Mode]",
-        "url": "https://open.spotify.com/album/3ZTNZLchGn3DaAFUsFiv6q"
-      },
-      "artists": [
-        {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
-        },
-        {
-          "name": "Hannah Boleyn",
-          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
-        }
-      ],
-      "duration_ms": 173554,
-      "name": "Tears On The Dancefloor (feat. Hannah Boleyn) [Night Mode]",
-      "url": "https://open.spotify.com/track/3Ysfj7yYSGHB9c2RTs4RWG"
     }
   ],
   "unique_name": "Spinnin' Records Brand New",

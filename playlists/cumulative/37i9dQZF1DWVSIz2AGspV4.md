@@ -4,7 +4,7 @@
 
 > أحدث الاغاني العراقية\. غلاف :ياسر عبدالوهاب
 
-259 songs - 15 hr 7 min
+260 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Ma Khaleek Tetshamat](https://open.spotify.com/track/7MBUSkkQlELJVysEKeAvbI) | [Ali Saber](https://open.spotify.com/artist/6kNbn4f4j3Uhd79CGCmcFK) | [Ma Khaleek Tetshamat](https://open.spotify.com/album/2ftYkVKUmulxBXxWoCcENz) | 3:23 | 2022-06-16 | 2023-03-01 |
 | [Ma Qasart](https://open.spotify.com/track/0Qpbsu4fszRrtc1g6NnSnm) | [Hamza Al Mahmdawi](https://open.spotify.com/artist/4fClSImakiSPnfxOa4NOiW) | [Ma Qasart](https://open.spotify.com/album/0wQ3ft7291KtIoQzPQEkqt) | 3:19 | 2023-06-13 |  |
 | [Ma Yrham](https://open.spotify.com/track/08tZf9bbR9WDa6G7S04ttp) | [Jafar Al Ghazal](https://open.spotify.com/artist/33FJbhlNRNQIBQdlSF91sr) | [Ma Yrham](https://open.spotify.com/album/2rOpwc0DnJMWPJjz8mZnlK) | 3:29 | 2021-12-23 | 2022-02-10 |
+| [Maali Habibi](https://open.spotify.com/track/69f4WjQ8eXRM2ESxlqeIWu) | [Dumooa Tahseen](https://open.spotify.com/artist/0453pwQTyMdU2a66fCFaUQ) | [Maali Habibi](https://open.spotify.com/album/0qzmx29rHHEGictWe1qHuD) | 2:48 | 2023-12-22 |  |
 | [Madim Aleak](https://open.spotify.com/track/7x3OeqioqJIZD5y0yFEeir) | [Mahmoud Al Gayath](https://open.spotify.com/artist/0vlrGHoVOpmG8ufhbgcJe9) | [Madim Aleak](https://open.spotify.com/album/7tGZPVKKgrV3aJ1fRQUjIj) | 3:25 | 2022-01-20 | 2022-06-07 |
 | [Mashit Wayak](https://open.spotify.com/track/0Wq13UFsTy0ZGmwmPd7iaw) | [Osama Naji](https://open.spotify.com/artist/0Wsn2xJsy1aeAPfNviVDm4) | [Mashit Wayak](https://open.spotify.com/album/6ZoXSyv6O4ZMYQt8XVCPIg) | 3:02 | 2022-05-13 | 2022-10-14 |
 | [Mawal Alila](https://open.spotify.com/track/0VS8KoZU9eJlEbrAdmd93a) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [Mawal Alila](https://open.spotify.com/album/4KwlxCgjLklIgoWVZY0zoz) | 2:31 | 2022-07-04 | 2023-04-23 |

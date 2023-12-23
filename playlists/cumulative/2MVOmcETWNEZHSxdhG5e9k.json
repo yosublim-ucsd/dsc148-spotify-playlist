@@ -585,6 +585,54 @@
     },
     {
       "album": {
+        "name": "Lonely Shore (Incl. Blood Groove & Kikis Remix)",
+        "url": "https://open.spotify.com/album/2NAMJBTzrWINdSVj8oibsr"
+      },
+      "artists": [
+        {
+          "name": "Vintage & Morelli",
+          "url": "https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0"
+        },
+        {
+          "name": "Arielle Maren",
+          "url": "https://open.spotify.com/artist/7MbnTNfDyXb2vTM1GYXsLV"
+        },
+        {
+          "name": "RNX",
+          "url": "https://open.spotify.com/artist/6MvuP20356EIRrCDMI92jc"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240148,
+      "name": "Lonely Shore",
+      "url": "https://open.spotify.com/track/033TGcyIjbXIMF6ZgHrYq3"
+    },
+    {
+      "album": {
+        "name": "Encanta's Winter Picks - 2015",
+        "url": "https://open.spotify.com/album/5bOV5hnnvNNKDugKf0wHOS"
+      },
+      "artists": [
+        {
+          "name": "Talamanca",
+          "url": "https://open.spotify.com/artist/6T10DjLBN7wT5gtnPnhmEk"
+        },
+        {
+          "name": "Vitodito",
+          "url": "https://open.spotify.com/artist/16mF4YXC1sZZWNjZoJoxd2"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440390,
+      "name": "Malaga - Original Mix",
+      "url": "https://open.spotify.com/track/0o3xdNut7NLMwHibznJQdF"
+    },
+    {
+      "album": {
         "name": "The Return / Medusa",
         "url": "https://open.spotify.com/album/6y2bLVV4zYGe71QKCDwfEb"
       },

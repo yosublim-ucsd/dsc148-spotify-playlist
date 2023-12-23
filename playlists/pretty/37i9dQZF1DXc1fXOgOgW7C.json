@@ -1,12 +1,12 @@
 {
   "description": "Las canciones que marcaron una \u00e9poca.",
-  "num_followers": 37324,
+  "num_followers": 37355,
   "original_name": "Los 2010 Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODVjNDYxZTkxOGI3YTRhMjdjMDNlNTNmMGI4OWRiZjRjNWE1ZDFl",
+  "snapshot_id": "MCw0NjU0MDcxN2FhYjJlOTIxYjkzOWQwNGEzYTdlNTJhNzU1YzE2ZjQ2",
   "tracks": [
     {
       "added_at": "2022-07-06 20:00:46",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2022-07-06 20:00:46",
       "album": {
-        "name": "Atesorando los cielos",
-        "url": "https://open.spotify.com/album/5TkkA7O5NFZJes2HaEtja3"
+        "name": "Si Me Voy",
+        "url": "https://open.spotify.com/album/1IucviBb2OOIZsrb49NJEq"
       },
       "artists": [
         {
-          "name": "Ricardo Iorio",
-          "url": "https://open.spotify.com/artist/0HNFg6mSgz7WLcN74CI3oT"
+          "name": "Salvapantallas",
+          "url": "https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK"
         }
       ],
-      "duration_ms": 287226,
-      "name": "Justo Que Te Vas",
-      "url": "https://open.spotify.com/track/3Oylj0SZiK5tpFn5BXYEpZ"
+      "duration_ms": 186000,
+      "name": "Si Me Voy",
+      "url": "https://open.spotify.com/track/39PaCcsOLhJx3U9To1Qxak"
     }
   ],
   "unique_name": "Los 2010 Argentina",

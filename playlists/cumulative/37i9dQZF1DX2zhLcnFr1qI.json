@@ -255,6 +255,24 @@
     },
     {
       "album": {
+        "name": "Are You With Me / Reality (Christmas Remixes)",
+        "url": "https://open.spotify.com/album/4U4TGgkDz7FguxhVF15ICf"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138853,
+      "name": "Are You With Me - Christmas Mix",
+      "url": "https://open.spotify.com/track/1jpHQ0q1plPQme7lm0Blil"
+    },
+    {
+      "album": {
         "name": "Battle (Cause & Affect Jingle Bells Remix)",
         "url": "https://open.spotify.com/album/4OQwvPvXZFW1G2RINQFkZ1"
       },
@@ -347,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Carol Of The Bells (2023 Edit)",
+        "url": "https://open.spotify.com/album/6CUZIS4yAwhCFAvKM9J0GV"
+      },
+      "artists": [
+        {
+          "name": "Mosimann",
+          "url": "https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175326,
+      "name": "Carol Of The Bells (2023 Edit)",
+      "url": "https://open.spotify.com/track/6VqAnU78bwLTvl1pafbRQf"
+    },
+    {
+      "album": {
         "name": "Carol Of The Bells (Spotify Singles Holiday)",
         "url": "https://open.spotify.com/album/4cvOEpiN4d4YMwM4eB9NvY"
       },
@@ -362,6 +398,28 @@
       "duration_ms": 102906,
       "name": "Carol of the Bells - Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/1jFBoVvIFAVglcAJTZpoG8"
+    },
+    {
+      "album": {
+        "name": "Carol Von Holz (feat. HOLZBLASER)",
+        "url": "https://open.spotify.com/album/2sTPxKdaBkqvSD0bf7n0Gd"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "HOLZBLASER",
+          "url": "https://open.spotify.com/artist/1GQzMu7vJ0EVIgYEuvURj2"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254971,
+      "name": "Carol Von Holz (feat. HOLZBLASER)",
+      "url": "https://open.spotify.com/track/765lMyYeThFir2ezlCMoqB"
     },
     {
       "album": {
@@ -784,6 +842,24 @@
       "duration_ms": 233060,
       "name": "Do You Hear What I Hear?",
       "url": "https://open.spotify.com/track/5McQ19B5AjkZose1EQURIW"
+    },
+    {
+      "album": {
+        "name": "Christmas Dance Party Vol. 1",
+        "url": "https://open.spotify.com/album/0DP0qSBmLp13LH5gbBXNTX"
+      },
+      "artists": [
+        {
+          "name": "Santa is a DJ",
+          "url": "https://open.spotify.com/artist/2O9QzlyJoRwJZnz7vggoYy"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/5c5o9fcCh3SbeK3VX7X8TL"
     },
     {
       "album": {
@@ -1256,7 +1332,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 163312,
       "name": "It's Christmas Time",
       "url": "https://open.spotify.com/track/6pFXCkYAwiSHTP2Z9E4U74"
@@ -1282,6 +1358,24 @@
       "duration_ms": 203103,
       "name": "It's Christmas Time (with Michael Bolton)",
       "url": "https://open.spotify.com/track/0NLV6yzZjNYIGkWcEH7qhN"
+    },
+    {
+      "album": {
+        "name": "Christmas Dance Party Vol. 2",
+        "url": "https://open.spotify.com/album/0xWMPWLiF1VAU72qr96ew2"
+      },
+      "artists": [
+        {
+          "name": "Holidayz",
+          "url": "https://open.spotify.com/artist/482s2jUGaqL2r9upJVcgKk"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150234,
+      "name": "It's The Most Wonderful Time Of The Year",
+      "url": "https://open.spotify.com/track/3PgK2cfCDkKPDjTJIAKb0B"
     },
     {
       "album": {
@@ -1460,7 +1554,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-26",
+      "date_removed": null,
       "duration_ms": 167796,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2XmfGaH8F0OuElPwnovfDe"
@@ -1756,10 +1850,28 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 195000,
       "name": "Rock Them Bells",
       "url": "https://open.spotify.com/track/5BfSrnlJdpRpSrCRoiAIja"
+    },
+    {
+      "album": {
+        "name": "Christmas Dance Party Vol. 2",
+        "url": "https://open.spotify.com/album/0xWMPWLiF1VAU72qr96ew2"
+      },
+      "artists": [
+        {
+          "name": "Miss L Toe",
+          "url": "https://open.spotify.com/artist/4m6LQyUKnCpr9byjgP2Ir5"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146012,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/4ns11BgIvqAw4N6dFCy0e0"
     },
     {
       "album": {
@@ -2159,6 +2271,28 @@
     },
     {
       "album": {
+        "name": "The Snowman (Walking In The Air) [feat. Mingue]",
+        "url": "https://open.spotify.com/album/3qeaSUEHDtlUOfRxo9HDcJ"
+      },
+      "artists": [
+        {
+          "name": "FAULHABER",
+          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
+        },
+        {
+          "name": "Mingue",
+          "url": "https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149032,
+      "name": "The Snowman (Walking In The Air) [feat. Mingue]",
+      "url": "https://open.spotify.com/track/0zCwYJPSR5tHyqlB70q5Mb"
+    },
+    {
+      "album": {
         "name": "Kaskade Christmas",
         "url": "https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY"
       },
@@ -2338,6 +2472,24 @@
     {
       "album": {
         "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/3ldwzSF4n5lGOphBYoVZL9"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183902,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/6RU4NdFcF1BsXR7PvHIdb0"
+    },
+    {
+      "album": {
+        "name": "Winter Wonderland",
         "url": "https://open.spotify.com/album/1gOfnXRPhogf3nAiM8EGfr"
       },
       "artists": [
@@ -2392,6 +2544,24 @@
       "duration_ms": 131666,
       "name": "wish \u272e\u22c6\u02d9",
       "url": "https://open.spotify.com/track/1Gq7NELRtSk34NBnSobxqB"
+    },
+    {
+      "album": {
+        "name": "Wonderful Dream",
+        "url": "https://open.spotify.com/album/7G8OrtEr32WYzvP5AZS4Yz"
+      },
+      "artists": [
+        {
+          "name": "BIG TIM",
+          "url": "https://open.spotify.com/artist/7M8VQpddsuHZ3rlbsNnLKF"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Wonderful Dream",
+      "url": "https://open.spotify.com/track/1Vu7ESFr1xEIY533Ociud2"
     },
     {
       "album": {
@@ -2458,6 +2628,42 @@
       "duration_ms": 161157,
       "name": "Wonderful Time",
       "url": "https://open.spotify.com/track/1wdnIgVKUpEIpNSvhLta3N"
+    },
+    {
+      "album": {
+        "name": "www.christkind.com",
+        "url": "https://open.spotify.com/album/4wvtYdMIJrT4KJlndVNGOD"
+      },
+      "artists": [
+        {
+          "name": "Das Modul",
+          "url": "https://open.spotify.com/artist/0lIjPTbSowOsJM6CKQvs5c"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219801,
+      "name": "www.christkind.com",
+      "url": "https://open.spotify.com/track/5gjPjRfwaF8L6DqKx5LFZu"
+    },
+    {
+      "album": {
+        "name": "Xmas is here",
+        "url": "https://open.spotify.com/album/14Vd8BVVJn7fM3NgJfM4gS"
+      },
+      "artists": [
+        {
+          "name": "Milan Gavris",
+          "url": "https://open.spotify.com/artist/5Ukdziss6tmNzMRrJ60UKJ"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127285,
+      "name": "Xmas is here",
+      "url": "https://open.spotify.com/track/03lgw8qUJyAi8bsHb6e4zG"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2zhLcnFr1qI"

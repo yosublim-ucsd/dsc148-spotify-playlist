@@ -5450,7 +5450,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 240656,
       "name": "Forever",
       "url": "https://open.spotify.com/track/79RYcYdQO7Ue7yZJ9tZp6x"
@@ -8126,7 +8126,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 228937,
       "name": "Lately - Airborn Remix",
       "url": "https://open.spotify.com/track/0LkB0EwmOpNeVe2OKgOVOc"
@@ -11956,7 +11956,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 200597,
       "name": "Reflected",
       "url": "https://open.spotify.com/track/5apmD6ssqm55PJoLlersMZ"
@@ -14190,6 +14190,28 @@
       "duration_ms": 207306,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/4u3qSnUgcvwLngzJjKJCCo"
+    },
+    {
+      "album": {
+        "name": "Summer Sound",
+        "url": "https://open.spotify.com/album/3Tt2GvdFe8CDF0FRep8zSJ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Wanrooy",
+          "url": "https://open.spotify.com/artist/2eWC3Ckg8BA2MDV2NoHBWd"
+        },
+        {
+          "name": "AK",
+          "url": "https://open.spotify.com/artist/3h8Rryl61DV4vQhAn1cLVH"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164545,
+      "name": "Summer Sound",
+      "url": "https://open.spotify.com/track/63YYujTmmNYl0QCJqvtw06"
     },
     {
       "album": {

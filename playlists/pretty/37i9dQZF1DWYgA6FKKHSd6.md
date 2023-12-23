@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,519 likes - 150 songs - 10 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,523 likes - 150 songs - 10 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,13 +40,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 | 30 | [Warm](https://open.spotify.com/track/3ydavTOAxyj2obU40fmwEN) | [Brad Rambur](https://open.spotify.com/artist/5qc0Q7HXExyq5FHLe3Hbo7) | [Can't Put It Down](https://open.spotify.com/album/4s8WtPZ0so06WM0cWkzYBV) | 4:35 |
 | 31 | [Hard Work \(feat\. Michael O'Hara\)](https://open.spotify.com/track/7mDJQJu8HAyeALcGNNWZ9x) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP), [Michael O'Hara](https://open.spotify.com/artist/7snMO6N0CoAKYdO3wJQzHQ) | [I'm Back](https://open.spotify.com/album/35LyXPSnkCbeQ6aYIHpIFi) | 4:12 |
 | 32 | [Slam Dunk](https://open.spotify.com/track/7mSAW4ke915ZwPQQUL0mtF) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [Slam Dunk](https://open.spotify.com/album/4abjBabp4Ce9MIShgUqsBy) | 4:40 |
-| 33 | [Skinny Dippin'](https://open.spotify.com/track/50yr9Nbxn8J75hCAihCyJH) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [La Dolce Vita](https://open.spotify.com/album/6R13k9llyr3fWRDwKzmjDo) | 4:33 |
+| 33 | [Skinny Dippin'](https://open.spotify.com/track/3raGJvjuEe9fQxB7F0OeDt) | [Warren Hill](https://open.spotify.com/artist/3zayLOSNLcQFtRrufIbMdS) | [La Dolce Vita](https://open.spotify.com/album/11fmFfNbLB7Y6OPZEmBWWq) | 4:33 |
 | 34 | [Stone Groove](https://open.spotify.com/track/5WyIyCuElhkrqxka1AEIAQ) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS), [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE) | [Pure](https://open.spotify.com/album/2xbF9okrdq3tct4UuEKqzh) | 4:45 |
 | 35 | [Retro Forward](https://open.spotify.com/track/561y8NIZTzoROlCftXVd7k) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Retro Forward](https://open.spotify.com/album/6cF2eSwNvRcS8K1nYzI0tT) | 3:22 |
 | 36 | [Rikke](https://open.spotify.com/track/1wvb7JFKm9QeLJ7VNRmncw) | [David Sanborn](https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE) | [Songs From The Night Before](https://open.spotify.com/album/1qABZigBQzuvHXnvjfcLCe) | 5:03 |
 | 37 | [She's Ready](https://open.spotify.com/track/1cWxLpfvBGCG0JvomYK6i3) | [Rocco Ventrella](https://open.spotify.com/artist/6X06HdPkKhybx6Q0FKESFJ) | [Another Time](https://open.spotify.com/album/5htfJv2trzXFqmKIeEJyuM) | 4:33 |
 | 38 | [Lasting Impression](https://open.spotify.com/track/4eJIsCmuhgkuxnB2qmoHx4) | [James Vargas](https://open.spotify.com/artist/75zhICFfHLHabeEW0ZTlnC) | [James Vargas](https://open.spotify.com/album/3RoZERiO1xREfMW5ZId0jh) | 5:12 |
-| 39 | [Prime Time](https://open.spotify.com/track/73y1mF0koz768FqU0BkgK5) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Prime Time](https://open.spotify.com/album/3eoSNLul2FSqaoQfsN7Gs1) | 3:59 |
+| 39 | [Prime Time](https://open.spotify.com/track/2LnuO7qcH8o1tgxqc0WqsF) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Prime Time](https://open.spotify.com/album/3TsoGdEOff4OMkIEqhNAi5) | 3:59 |
 | 40 | [City Vibe](https://open.spotify.com/track/79x2Lkq33VN2rQdrs9i6h6) | [André Ward](https://open.spotify.com/artist/3yroTvZKrVMjmu5yufiWJG) | [Steppin' Up](https://open.spotify.com/album/0DITfrhUVScJdnsT4OmgMT) | 4:44 |
 | 41 | [Always There](https://open.spotify.com/track/3piYbySL0X1f4ZYfwuIWm2) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp), [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4), [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Dave Koz And Friends Summer Horns](https://open.spotify.com/album/3yh9UkYQLK0ZlFBdeEcPmF) | 4:03 |
 | 42 | [Outside the Box](https://open.spotify.com/track/7I6trC7CHvu2CEPThIm8Fo) | [Shilts](https://open.spotify.com/artist/73DE5ZAnmntrgyvzv2r2Y2) | [Jigsaw Life](https://open.spotify.com/album/6Xk6qwl6tkKJoucDiwNq0q) | 4:45 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 | 46 | [You're My Joy](https://open.spotify.com/track/6hNhAlE0IEf7HYfX2JcOrL) | [Randy Scott](https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw) | [Serenity](https://open.spotify.com/album/0OwxqIH4qbMowuIaNOLubV) | 3:37 |
 | 47 | [Feeling You](https://open.spotify.com/track/0FPvJklZbYd6Es7ndp0zOW) | [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [Now](https://open.spotify.com/album/1h4QJTUxI20S16EwK0FXX1) | 4:22 |
 | 48 | [Got To Be Real](https://open.spotify.com/track/7KHGWMvaCKv0kIZ5RmM0ts) | [Uko](https://open.spotify.com/artist/3GF9F9bP8oiMaReworAOSp) | [Smooth Jazz SAX Showcase1 vol.2](https://open.spotify.com/album/457oSFJJWye9WFlKlhHGUn) | 4:56 |
-| 49 | [Wild Tales \(feat\. Russ Freeman\)](https://open.spotify.com/track/0JpSVTcs8PBLD5ZmOj26cF) | [The Rippingtons](https://open.spotify.com/artist/6hjqP9annof75B2TNBE0rO), [Russ Freeman](https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO) | [True Stories](https://open.spotify.com/album/1oDCFpi7Kynh6YM30R39Ev) | 4:30 |
+| 49 | [Wild Tales \(feat\. Russ Freeman\)](https://open.spotify.com/track/5FlrzpNa2qBOqdL2amaY41) | [The Rippingtons](https://open.spotify.com/artist/6hjqP9annof75B2TNBE0rO), [Russ Freeman](https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO) | [True Stories](https://open.spotify.com/album/1QDziA87WDMcMGM4YpqF6c) | 4:30 |
 | 50 | [Lil' too Late](https://open.spotify.com/track/2MzX6L4aa5YenFesxJDeMA) | [Elan Trotman's Tropicality](https://open.spotify.com/artist/5xv01tqskXWSxbUtR7iC5a) | [Double Take](https://open.spotify.com/album/1fak8Hq61PC9WJ3kXobIis) | 6:27 |
 | 51 | [Can't Let Go](https://open.spotify.com/track/09MR2oVNj1mnc6VMEo6ZgH) | [Rock Hendricks](https://open.spotify.com/artist/4bOB5AZPIctPJscn1cMU3I) | [Can't Let Go](https://open.spotify.com/album/1G94VFIPkUW03EbrqgPp08) | 4:54 |
 | 52 | [Limitless \- Radio Edit](https://open.spotify.com/track/6EKw5whgxDjZzjBGV7i74H) | [Patrick Lamb](https://open.spotify.com/artist/3qR6sqXnnwZm3tLed2CO35) | [Limitless](https://open.spotify.com/album/2a558EhzWmryaB6ewwikZQ) | 3:53 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 | 149 | [Nightfall](https://open.spotify.com/track/6bGPsVqyQyTs1QPus8AFAP) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Sami Turunen](https://open.spotify.com/artist/2xLnJ9osiiSOHRiJT28qiO), [Strat Carter](https://open.spotify.com/artist/4xBUsH1MTjkIJ70brUkFSx) | [Nightfall](https://open.spotify.com/album/0iQgv8ZvUhQlNylLYRfFJ7) | 3:07 |
 | 150 | [Another Day In Paradise](https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Another Day In Paradise](https://open.spotify.com/album/20nnoaK341xKWNK6cNlNBn) | 4:35 |
 
-Snapshot ID: `MCw5Y2U1ODBhNjhlYjg5ODY4YWExZGFlOTU5ODExYTljMTYxZGU4MTVk`
+Snapshot ID: `MCw3NGRlNDhmMDJiMmYyYTgyMzkwZmIyMWM0MGUyYmQ0NGNlMjc4NjIw`

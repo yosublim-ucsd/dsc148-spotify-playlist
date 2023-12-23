@@ -1,12 +1,12 @@
 {
   "description": "Celebrando a los m\u00fasicos Afro-Latinos. Cover: Tego Calderon",
-  "num_followers": 50797,
+  "num_followers": 50809,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmYxZGM1OThlYjdmNzFlYmE3YTQyOWRjNjRkNjM3ZmI5Yjk1NTg2",
+  "snapshot_id": "MCw4MzQ5M2QwYjBlZmMwNWFkMzU3NGVmZDgxYzI4N2Y5MTQ2NzJlYjBm",
   "tracks": [
     {
       "added_at": "2023-06-20 14:37:46",
@@ -575,6 +575,22 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
+        "name": "Modelo",
+        "url": "https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD"
+      },
+      "artists": [
+        {
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+        }
+      ],
+      "duration_ms": 160243,
+      "name": "Modelo",
+      "url": "https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
         "name": "Bonito que Canta",
         "url": "https://open.spotify.com/album/0cFDDmABXYhxZygOjOFwSr"
       },
@@ -587,26 +603,6 @@
       "duration_ms": 259000,
       "name": "La Vida Vale la Pena",
       "url": "https://open.spotify.com/track/6JOzfwVljrGuLdN7umkXQF"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
-        "name": "Se Acab\u00f3 (feat. Mozart La Para)",
-        "url": "https://open.spotify.com/album/6PIadmxdguUf7r0EZtxlMr"
-      },
-      "artists": [
-        {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
-        },
-        {
-          "name": "Mozart La Para",
-          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
-        }
-      ],
-      "duration_ms": 186216,
-      "name": "Se Acab\u00f3 (feat. Mozart La Para)",
-      "url": "https://open.spotify.com/track/13N9dHnUuR0W5MvzFYko5a"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -627,18 +623,22 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Modelo",
-        "url": "https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD"
+        "name": "Se Acab\u00f3 (feat. Mozart La Para)",
+        "url": "https://open.spotify.com/album/6PIadmxdguUf7r0EZtxlMr"
       },
       "artists": [
         {
-          "name": "Chicocurlyhead",
-          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+        },
+        {
+          "name": "Mozart La Para",
+          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
         }
       ],
-      "duration_ms": 160243,
-      "name": "Modelo",
-      "url": "https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS"
+      "duration_ms": 186216,
+      "name": "Se Acab\u00f3 (feat. Mozart La Para)",
+      "url": "https://open.spotify.com/track/13N9dHnUuR0W5MvzFYko5a"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "A Quien Pueda Interesar",
-        "url": "https://open.spotify.com/album/01ASF6lHKnCDcYOnVqxGTm"
-      },
-      "artists": [
-        {
-          "name": "Joyce Santana",
-          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "Dormir Sola",
-      "url": "https://open.spotify.com/track/5IJL0TAmAojNvWnNW5HRUd"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "Sigue y Sigue",
         "url": "https://open.spotify.com/album/2UyuskfWq1BFbUKutvE3jS"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 146269,
       "name": "Sigue y Sigue",
       "url": "https://open.spotify.com/track/35orhhCkn3yT4Ijbb9gdxA"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "A Quien Pueda Interesar",
+        "url": "https://open.spotify.com/album/01ASF6lHKnCDcYOnVqxGTm"
+      },
+      "artists": [
+        {
+          "name": "Joyce Santana",
+          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "Dormir Sola",
+      "url": "https://open.spotify.com/track/5IJL0TAmAojNvWnNW5HRUd"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Nueva Era",
-        "url": "https://open.spotify.com/album/23HEGSjUL7dakX0quTzUdC"
-      },
-      "artists": [
-        {
-          "name": "Daym\u00e9 Arocena",
-          "url": "https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0"
-        }
-      ],
-      "duration_ms": 298195,
-      "name": "Don't Unplug My Body",
-      "url": "https://open.spotify.com/track/1Y46ZYLzMBPwjfGWnIVm3B"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "Creature!",
         "url": "https://open.spotify.com/album/4DcsUwb7h7ZxuGffs9q3Gd"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 155522,
       "name": "Negrita",
       "url": "https://open.spotify.com/track/41p7vS76inehRNOSwYMrNx"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "Nueva Era",
+        "url": "https://open.spotify.com/album/23HEGSjUL7dakX0quTzUdC"
+      },
+      "artists": [
+        {
+          "name": "Daym\u00e9 Arocena",
+          "url": "https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0"
+        }
+      ],
+      "duration_ms": 298195,
+      "name": "Don't Unplug My Body",
+      "url": "https://open.spotify.com/track/1Y46ZYLzMBPwjfGWnIVm3B"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Estyland EP",
-        "url": "https://open.spotify.com/album/5ippOikp37VeZaOJBhsUCN"
-      },
-      "artists": [
-        {
-          "name": "Esty",
-          "url": "https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq"
-        }
-      ],
-      "duration_ms": 173904,
-      "name": "7heaven",
-      "url": "https://open.spotify.com/track/7DCnJTsmnN25Xzu8gR8sAa"
-    },
-    {
-      "added_at": "2023-06-20 14:37:46",
-      "album": {
         "name": "Duelo",
         "url": "https://open.spotify.com/album/6TztCAG3KjvaQXkpi7Wx2L"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "CHEAP WINE",
-        "url": "https://open.spotify.com/album/2XmXLZErwVUVTJPGJtMluI"
+        "name": "Estyland EP",
+        "url": "https://open.spotify.com/album/5ippOikp37VeZaOJBhsUCN"
       },
       "artists": [
         {
-          "name": "Chicocurlyhead",
-          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+          "name": "Esty",
+          "url": "https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq"
         }
       ],
-      "duration_ms": 136562,
-      "name": "CHEAP WINE",
-      "url": "https://open.spotify.com/track/3Vr93h1O6gt3eacdDvNld5"
+      "duration_ms": 173904,
+      "name": "7heaven",
+      "url": "https://open.spotify.com/track/7DCnJTsmnN25Xzu8gR8sAa"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -1311,22 +1295,18 @@
     {
       "added_at": "2023-06-20 14:37:46",
       "album": {
-        "name": "Los Rakas",
-        "url": "https://open.spotify.com/album/2XhwBrlb6fNfro8uAoRu9M"
+        "name": "CHEAP WINE",
+        "url": "https://open.spotify.com/album/2XmXLZErwVUVTJPGJtMluI"
       },
       "artists": [
         {
-          "name": "Los Rakas",
-          "url": "https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0"
-        },
-        {
-          "name": "Kafu Banton",
-          "url": "https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij"
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
         }
       ],
-      "duration_ms": 176333,
-      "name": "Raka Party",
-      "url": "https://open.spotify.com/track/1zowgdEGsip4CUpyZI6nuN"
+      "duration_ms": 136562,
+      "name": "CHEAP WINE",
+      "url": "https://open.spotify.com/track/3Vr93h1O6gt3eacdDvNld5"
     },
     {
       "added_at": "2023-06-20 14:37:46",
@@ -1343,6 +1323,26 @@
       "duration_ms": 196000,
       "name": "Soy",
       "url": "https://open.spotify.com/track/6sBBmnwoII25pWOpy6TmLK"
+    },
+    {
+      "added_at": "2023-06-20 14:37:46",
+      "album": {
+        "name": "Los Rakas",
+        "url": "https://open.spotify.com/album/2XhwBrlb6fNfro8uAoRu9M"
+      },
+      "artists": [
+        {
+          "name": "Los Rakas",
+          "url": "https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0"
+        },
+        {
+          "name": "Kafu Banton",
+          "url": "https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "Raka Party",
+      "url": "https://open.spotify.com/track/1zowgdEGsip4CUpyZI6nuN"
     },
     {
       "added_at": "2023-06-20 14:37:46",

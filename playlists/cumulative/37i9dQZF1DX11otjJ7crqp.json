@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "Essential new pop tracks. Cover: FLETCHER",
+  "description": "Essential new pop tracks. Cover: Jimin",
   "name": "New Pop Picks",
   "tracks": [
     {
@@ -2096,7 +2096,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 130909,
       "name": "A2B",
       "url": "https://open.spotify.com/track/26RIaYLm31QkMg4vkigStp"
@@ -2761,6 +2761,32 @@
     },
     {
       "album": {
+        "name": "Alien",
+        "url": "https://open.spotify.com/album/23Id7uPv0luo4pJpzKYBAO"
+      },
+      "artists": [
+        {
+          "name": "Nico & Chelsea",
+          "url": "https://open.spotify.com/artist/2D3SlrKnJAnNyxf2ty2a97"
+        },
+        {
+          "name": "Nico Collins",
+          "url": "https://open.spotify.com/artist/1iGwHlKgQKtdrtzmlwZ71U"
+        },
+        {
+          "name": "Chelsea Collins",
+          "url": "https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193275,
+      "name": "Alien",
+      "url": "https://open.spotify.com/track/2YdDd0WUsWLWZq0Puz0Ypo"
+    },
+    {
+      "album": {
         "name": "IF ALIENS EXIST (maybe good guys do too)",
         "url": "https://open.spotify.com/album/4mAXaavqpTXUq9Q0FD7iMs"
       },
@@ -2946,6 +2972,24 @@
       "duration_ms": 225159,
       "name": "All For You",
       "url": "https://open.spotify.com/track/4eE6KCWXbXyEgLK6NtyzPX"
+    },
+    {
+      "album": {
+        "name": "All I Do Is Try",
+        "url": "https://open.spotify.com/album/4MiUTSgXKAGFVNjV4Om29U"
+      },
+      "artists": [
+        {
+          "name": "Anthonia Edwards",
+          "url": "https://open.spotify.com/artist/1RaPkxbAuGOQxWnXh43O7C"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203256,
+      "name": "All I Do Is Try",
+      "url": "https://open.spotify.com/track/69p5jinvmXYi9XZX8dURIQ"
     },
     {
       "album": {
@@ -3848,6 +3892,24 @@
       "duration_ms": 183227,
       "name": "American Dream",
       "url": "https://open.spotify.com/track/4rjx6v5WkdRFe2QwxFAoS8"
+    },
+    {
+      "album": {
+        "name": "american fantasy",
+        "url": "https://open.spotify.com/album/3PQcianQk4Nf2ksnFVrLxC"
+      },
+      "artists": [
+        {
+          "name": "Daniel Leggs",
+          "url": "https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142732,
+      "name": "american fantasy",
+      "url": "https://open.spotify.com/track/1Et21JkyGRd5rBTbPNUCmm"
     },
     {
       "album": {
@@ -6272,7 +6334,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 164963,
       "name": "Bad Woman",
       "url": "https://open.spotify.com/track/0NmWLEvSOhiV4HsMbADwOj"
@@ -6652,7 +6714,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 188179,
       "name": "BATTER UP",
       "url": "https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG"
@@ -9602,7 +9664,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 174789,
       "name": "Books",
       "url": "https://open.spotify.com/track/5s5XSIecq1xvvOyujFFjrI"
@@ -13584,7 +13646,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 218533,
       "name": "Cheating on Her",
       "url": "https://open.spotify.com/track/0Es5vYxImbwX3V5xYQo3nq"
@@ -13664,7 +13726,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 227393,
       "name": "Cheerleaders and Jocks",
       "url": "https://open.spotify.com/track/6AJbBmXX4GCr5ANj9goh0j"
@@ -24620,7 +24682,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 170356,
       "name": "Fire Escapes",
       "url": "https://open.spotify.com/track/7f8lDyHliy2grjseiVV7JS"
@@ -30916,7 +30978,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 167099,
       "name": "Hard to Love",
       "url": "https://open.spotify.com/track/6QV6miSjUtqppivpjwDZgI"
@@ -31036,7 +31098,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 177479,
       "name": "HATE 2 LUV U",
       "url": "https://open.spotify.com/track/0cg2EwJcOFj4S7ZDoDhBMc"
@@ -32499,6 +32561,24 @@
     },
     {
       "album": {
+        "name": "inhale - the complete story",
+        "url": "https://open.spotify.com/album/4NyjSQ5VF9sSd39Jg2g3vz"
+      },
+      "artists": [
+        {
+          "name": "Lili-Ann De Francesco",
+          "url": "https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225413,
+      "name": "her",
+      "url": "https://open.spotify.com/track/3gBF1gc9Fo6SatKWAOoGjY"
+    },
+    {
+      "album": {
         "name": "Her Body Is Bible",
         "url": "https://open.spotify.com/album/3JwM5vjiKuLf2HLmcR5o6D"
       },
@@ -33484,7 +33564,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 172059,
       "name": "Homecoming",
       "url": "https://open.spotify.com/track/6Q1VMEsgtuOXZxdduuj4lG"
@@ -44644,7 +44724,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 174828,
       "name": "Liquor Over U",
       "url": "https://open.spotify.com/track/2zWBxcWYX32fXgmzaksA6j"
@@ -48738,7 +48818,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 192133,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/7hHrs2q5c5rtzHLJ2DKHTT"
@@ -49002,6 +49082,24 @@
       "duration_ms": 163854,
       "name": "mg",
       "url": "https://open.spotify.com/track/60oj1CWCRuE5CLAcw2unCg"
+    },
+    {
+      "album": {
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/2CJuzrodIz0kB8eCazd5XN"
+      },
+      "artists": [
+        {
+          "name": "Dolly Style",
+          "url": "https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161214,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/6X0zDJ2k6sdnR6if2DsnLW"
     },
     {
       "album": {
@@ -49650,7 +49748,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 224253,
       "name": "Missing Me",
       "url": "https://open.spotify.com/track/2Ivwnhg88i6kVohrymi155"
@@ -52094,7 +52192,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 142000,
       "name": "Never Over",
       "url": "https://open.spotify.com/track/1km1gDC6U2xt8x8P1YARTi"
@@ -56068,7 +56166,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 189994,
       "name": "orbit",
       "url": "https://open.spotify.com/track/1xMtUb8b1DxW89FJfxOwPN"
@@ -59703,6 +59801,24 @@
     },
     {
       "album": {
+        "name": "Put the Record On",
+        "url": "https://open.spotify.com/album/7IaNaiSFD28JkmjFk7DiQn"
+      },
+      "artists": [
+        {
+          "name": "Kylie Cantrall",
+          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144867,
+      "name": "Put the Record On",
+      "url": "https://open.spotify.com/track/1UmjMTBr8F8n5jAD9EZTp6"
+    },
+    {
+      "album": {
         "name": "Quarter Life Crisis",
         "url": "https://open.spotify.com/album/5bTGBed0FKungdHiISflgl"
       },
@@ -62350,6 +62466,24 @@
       "duration_ms": 194823,
       "name": "Same Location",
       "url": "https://open.spotify.com/track/3D4osgGygmUI5uS5PEdFvG"
+    },
+    {
+      "album": {
+        "name": "Same Mistakes",
+        "url": "https://open.spotify.com/album/1sqbRRN7BoWbaYtkTipAx8"
+      },
+      "artists": [
+        {
+          "name": "Jez Dior",
+          "url": "https://open.spotify.com/artist/2tmWjaROlvLpahIZcvPLwi"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167233,
+      "name": "Same Mistakes",
+      "url": "https://open.spotify.com/track/4n5liaY9DETPZQsscI3pbQ"
     },
     {
       "album": {
@@ -68926,7 +69060,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 156279,
       "name": "STUCK",
       "url": "https://open.spotify.com/track/5GOdow3olKCstvsqCfXFZg"
@@ -72192,7 +72326,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 167533,
       "name": "the girl (that you can't get over)",
       "url": "https://open.spotify.com/track/5rvkNjOc5Q6rV26iqdTWwB"
@@ -73236,7 +73370,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 136804,
       "name": "therapy",
       "url": "https://open.spotify.com/track/4ndTXhzw5vx2KXZXOHOe8S"
@@ -74196,6 +74330,24 @@
       "duration_ms": 221823,
       "name": "To be honest",
       "url": "https://open.spotify.com/track/3G1rPeSTMK5MNno47y1Ll0"
+    },
+    {
+      "album": {
+        "name": "To Be Human",
+        "url": "https://open.spotify.com/album/15TsnJ9mjSNG7Ohq5WFTEZ"
+      },
+      "artists": [
+        {
+          "name": "morgxn",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214003,
+      "name": "To Be Human",
+      "url": "https://open.spotify.com/track/4GJD41lLiF3Me8JxxveDuL"
     },
     {
       "album": {
@@ -80878,7 +81030,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 225893,
       "name": "Witness Me (feat. Shawn Mendes, Stormzy & Kirk Franklin)",
       "url": "https://open.spotify.com/track/4lIA2yIyg1nPmJ1rBwNFUG"

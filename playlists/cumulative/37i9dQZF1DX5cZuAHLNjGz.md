@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi Hits with Karan Aujla
 
-283 songs - 14 hr 41 min
+284 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,8 @@
 | [Vanilla](https://open.spotify.com/track/2z7k8UytNaiMIJQNc1XZcZ) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Drive Thru](https://open.spotify.com/album/6KgPhunJItRDOhJFh6Sy78) | 2:51 | 2022-07-15 | 2022-07-22 |
 | [Vibe](https://open.spotify.com/track/44gJjTJwY4eba0jpNnrlld) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 2:35 | 2022-05-29 | 2023-05-20 |
 | [VIP](https://open.spotify.com/track/0QFNQvIkLYghHHRXfHEPbk) | [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [VIP](https://open.spotify.com/album/5XPqTCH8VrxIGfvajsjadT) | 2:47 | 2022-05-29 | 2022-06-24 |
-| [Waalian](https://open.spotify.com/track/4hOsYVSWKWP71u3yQbcqZB) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Waalian](https://open.spotify.com/album/3TMR3K620scT4kBTSTMrnb) | 3:26 | 2022-05-29 |  |
+| [Waalian](https://open.spotify.com/track/4hOsYVSWKWP71u3yQbcqZB) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [Waalian](https://open.spotify.com/album/3TMR3K620scT4kBTSTMrnb) | 3:26 | 2022-05-29 | 2023-12-23 |
+| [Waalian](https://open.spotify.com/track/68AyTcvyK46hpzwohHUkJI) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS), [Gifty](https://open.spotify.com/artist/5EI0jTvbMGykhnuTBXGQUQ) | [Waalian](https://open.spotify.com/album/3UlQdsscMNX2rCZ50WYuR7) | 3:38 | 2023-12-21 |  |
 | [Wait & Watch](https://open.spotify.com/track/5wVrIJK7M324F7iaNGFVrI) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [End and Other Hits](https://open.spotify.com/album/16UX1fEBG5TKRCoZ8i4azk) | 2:32 | 2022-11-08 | 2022-11-13 |
 | [Wait & Watch \(From "Babbar"\)](https://open.spotify.com/track/6ryOGfMaBty1cmkiJt9Qzz) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Wait & Watch \(From "Babbar"\)](https://open.spotify.com/album/0NMM1rVmULQqE38GOz6e1t) | 2:32 | 2022-07-28 | 2022-12-18 |
 | [Wait & Watch \(From "Babbar"\)](https://open.spotify.com/track/6zl5Tp2B2JAcEfucv4D5p1) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Wait & Watch \(From "Babbar"\)](https://open.spotify.com/album/5KcP4ZbOmBEJk12Ihy0x3L) | 2:32 | 2022-05-29 | 2022-07-29 |

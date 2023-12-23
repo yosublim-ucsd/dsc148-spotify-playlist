@@ -4,7 +4,7 @@
 
 > The hottest out the south\. Cover: BabyDrill
 
-1,009 songs - 2 day 0 hr 5 min
+1,010 songs - 2 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -763,6 +763,7 @@
 | [Running Late](https://open.spotify.com/track/1CwnEKPRLebumbHmZ3yZly) | [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [Running Late](https://open.spotify.com/album/1zNusgtKW9KGyCBsd2NMpq) | 2:07 | 2023-11-24 |  |
 | [Sad Song \(with Spinabenz\)](https://open.spotify.com/track/4aPRR0I9gIDJGJxlez3WE0) | [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8), [Spinabenz](https://open.spotify.com/artist/6JK16RgnitAl8O9yFgmWPe) | [Rae Rae's Son](https://open.spotify.com/album/5GptyXvoJ2Zg260GOvmsJy) | 3:15 | 2022-05-20 | 2022-06-04 |
 | [Safehouse \(Remix\)](https://open.spotify.com/track/1skdWyEVQXHMVGagZIahpi) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [Safehouse \(Remix\)](https://open.spotify.com/album/5wuq0OD9nAY88wyniP5XxE) | 3:02 | 2022-09-23 | 2022-10-29 |
+| [Said It Freestyle](https://open.spotify.com/track/7BoCBEhYkyVHIsehWRvyM3) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Said It Freestyle](https://open.spotify.com/album/4QS4ozuXb01Z1hCEWZBaGQ) | 2:35 | 2023-12-22 |  |
 | [Save Me \(feat\. Lil Durk\)](https://open.spotify.com/track/5HN3ikspb1MOyJ0MMjn55I) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Save Me \(feat\. Lil Durk\)](https://open.spotify.com/album/75AMuGJ8j2cM7smZ0HhJzn) | 2:53 | 2022-07-22 | 2022-09-10 |
 | [Save Yours](https://open.spotify.com/track/20ONgMrt1QKEo1xRvyv8Jx) | [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [Save Yours](https://open.spotify.com/album/3aNFCwqjk0FUqTC9ycTxZv) | 3:09 | 2023-09-08 | 2023-09-30 |
 | [SAY MY GRACE \(feat\. Travis Scott\)](https://open.spotify.com/track/2Gk6fi0dqt91NKvlzGsmm7) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 2:53 | 2023-10-13 |  |

@@ -1,12 +1,12 @@
 {
   "description": "the golden era of the \ud835\ude92\ud835\ude97\ud835\ude9d\ud835\ude8e\ud835\ude9b\ud835\ude97\ud835\ude8e\ud835\ude9d",
-  "num_followers": 24502,
+  "num_followers": 24536,
   "original_name": "the blog era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTIwY2Q3ZDM3YjI2NGJhNWE3OGU4NmRiOWY4ZWUxMDU2YjA5NmQx",
+  "snapshot_id": "MCxmM2U4MWJmN2MzYTc2YWFmMTNjMDNiNzhlOGU4OWFmZmI0YzA2NWY3",
   "tracks": [
     {
       "added_at": "2023-10-22 00:51:07",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-10-22 00:51:07",
       "album": {
-        "name": "Crystal Castles",
-        "url": "https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH"
-      },
-      "artists": [
-        {
-          "name": "Crystal Castles",
-          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-        }
-      ],
-      "duration_ms": 258453,
-      "name": "Crimewave",
-      "url": "https://open.spotify.com/track/3TjliM0xQ3fkza0RpINRrq"
-    },
-    {
-      "added_at": "2023-10-22 00:51:07",
-      "album": {
         "name": "Plans",
         "url": "https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq"
       },
@@ -711,6 +695,22 @@
     {
       "added_at": "2023-10-22 00:51:07",
       "album": {
+        "name": "Whatever People Say I Am, That's What I'm Not",
+        "url": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 141133,
+      "name": "Dancing Shoes",
+      "url": "https://open.spotify.com/track/0hAMkY2kwdXPPDfQ1e3BmJ"
+    },
+    {
+      "added_at": "2023-10-22 00:51:07",
+      "album": {
         "name": "Torches",
         "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
       },
@@ -739,22 +739,6 @@
       "duration_ms": 290173,
       "name": "The Bay",
       "url": "https://open.spotify.com/track/2akjLHnHjDGsgqxuf48VYs"
-    },
-    {
-      "added_at": "2023-10-22 00:51:07",
-      "album": {
-        "name": "Whatever People Say I Am, That's What I'm Not",
-        "url": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 141133,
-      "name": "Dancing Shoes",
-      "url": "https://open.spotify.com/track/0hAMkY2kwdXPPDfQ1e3BmJ"
     },
     {
       "added_at": "2023-10-22 00:51:07",
@@ -1031,22 +1015,6 @@
     {
       "added_at": "2023-10-22 00:51:07",
       "album": {
-        "name": "Sound of Silver",
-        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 462266,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl"
-    },
-    {
-      "added_at": "2023-10-22 00:51:07",
-      "album": {
         "name": "InnerSpeaker",
         "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
       },
@@ -1107,6 +1075,22 @@
       "duration_ms": 196040,
       "name": "Corinne",
       "url": "https://open.spotify.com/track/6guXQ9rHmOofkqp8uHYO8r"
+    },
+    {
+      "added_at": "2023-10-22 00:51:07",
+      "album": {
+        "name": "Sound of Silver",
+        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 462266,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl"
     },
     {
       "added_at": "2023-10-22 00:51:07",
@@ -1179,22 +1163,6 @@
     {
       "added_at": "2023-10-22 00:51:07",
       "album": {
-        "name": "Made In The Dark",
-        "url": "https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "Ready For The Floor",
-      "url": "https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc"
-    },
-    {
-      "added_at": "2023-10-22 00:51:07",
-      "album": {
         "name": "D.A.N.C.E",
         "url": "https://open.spotify.com/album/6cg0y0EJpRzfVbKGCgVMf7"
       },
@@ -1223,6 +1191,22 @@
       "duration_ms": 226466,
       "name": "Pogo",
       "url": "https://open.spotify.com/track/67y8hDBlt0p74eeRwKz1KJ"
+    },
+    {
+      "added_at": "2023-10-22 00:51:07",
+      "album": {
+        "name": "Made In The Dark",
+        "url": "https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "Ready For The Floor",
+      "url": "https://open.spotify.com/track/6q6PeTloTbL2vb1Gt9sQQc"
     },
     {
       "added_at": "2023-10-22 00:51:07",
@@ -1383,22 +1367,6 @@
       "duration_ms": 168492,
       "name": "Nighttiming",
       "url": "https://open.spotify.com/track/1jbrKpiTZ5jSblBypybUmV"
-    },
-    {
-      "added_at": "2023-10-22 00:51:07",
-      "album": {
-        "name": "Crystal Castles",
-        "url": "https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH"
-      },
-      "artists": [
-        {
-          "name": "Crystal Castles",
-          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-        }
-      ],
-      "duration_ms": 366866,
-      "name": "Magic Spells",
-      "url": "https://open.spotify.com/track/2gWpaocbOINdn62b58Eze6"
     },
     {
       "added_at": "2023-10-22 00:51:07",
@@ -1683,6 +1651,46 @@
       "duration_ms": 255746,
       "name": "My Delirium",
       "url": "https://open.spotify.com/track/3vqSWOEMO4OOxa2QJHuitI"
+    },
+    {
+      "added_at": "2023-10-22 00:51:07",
+      "album": {
+        "name": "Free The Universe (Extended Version)",
+        "url": "https://open.spotify.com/album/5QhUiW8r836IZ7avv9A5L8"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Amber Coffman",
+          "url": "https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn"
+        }
+      ],
+      "duration_ms": 289973,
+      "name": "Get Free",
+      "url": "https://open.spotify.com/track/56hYeuutlZO5Pkm99FzLCW"
+    },
+    {
+      "added_at": "2023-10-22 00:51:07",
+      "album": {
+        "name": "La Roux (Gold Edition)",
+        "url": "https://open.spotify.com/album/6WGLFg9lQO6ytwJfIflCQA"
+      },
+      "artists": [
+        {
+          "name": "La Roux",
+          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
+        },
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        }
+      ],
+      "duration_ms": 301600,
+      "name": "In For The Kill - Skream's Let's Get Ravey Remix",
+      "url": "https://open.spotify.com/track/46SNlNPyoPOF19hGF4dbBD"
     }
   ],
   "unique_name": "the blog era",

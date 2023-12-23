@@ -1,12 +1,12 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1750423,
+  "num_followers": 1750524,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjc3NjQzMjM5ZDZiMDcxZTI3YzUyZTkxOThjNjFhMGQwMDk1MTc3",
+  "snapshot_id": "MCw1NWJiYjRmNTJkYzYyNDBmMmJlZjZjNjQ1OGIwNDU2NzJlNTUxMDBh",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Nadie Me Vuelve A Joder",
-        "url": "https://open.spotify.com/album/5K1qmDGAxNiXSHFYK1DWHr"
-      },
-      "artists": [
-        {
-          "name": "Pitizion",
-          "url": "https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq"
-        }
-      ],
-      "duration_ms": 161160,
-      "name": "Nadie Me Vuelve A Joder",
-      "url": "https://open.spotify.com/track/4ysIQ2AalFEvYMBN7XgtDv"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Estemos Donde Estemos",
         "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 191863,
       "name": "Apur\u00e9 Mi Caf\u00e9",
       "url": "https://open.spotify.com/track/3lXFDK6qTIaP8cHKvDHd7O"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Nadie Me Vuelve A Joder",
+        "url": "https://open.spotify.com/album/5K1qmDGAxNiXSHFYK1DWHr"
+      },
+      "artists": [
+        {
+          "name": "Pitizion",
+          "url": "https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq"
+        }
+      ],
+      "duration_ms": 161160,
+      "name": "Nadie Me Vuelve A Joder",
+      "url": "https://open.spotify.com/track/4ysIQ2AalFEvYMBN7XgtDv"
     }
   ],
   "unique_name": "Sin Ti",

@@ -1,13 +1,45 @@
 {
-  "description": "New jazz for open minds. Cover: Jahari Massamba Unit",
-  "num_followers": 913166,
+  "description": "New jazz for open minds. Cover: Yussef Dayes",
+  "num_followers": 913340,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmZlNWU0MGM3ZGE5MDY0ZDUwN2ZjYmNhYmJlOGQ4N2Y0ZWE4MDg5",
+  "snapshot_id": "MCw0NDgzOTNjMjIxOTNkZWJkN2Q1MTI0ZjkxMTEzOGJmNmVjZTgwZjNm",
   "tracks": [
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Chasing the Drum - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1skZcEagq9Q9DHgeuHYb9F"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        }
+      ],
+      "duration_ms": 221986,
+      "name": "Chasing the Drum - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/0kJ4GK8E5eDy7WYUQ5fUT5"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "A STORY ABOUT YOU",
+        "url": "https://open.spotify.com/album/6YB2R3p6K2X6Slkiq1w4t2"
+      },
+      "artists": [
+        {
+          "name": "Nautilus",
+          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
+        }
+      ],
+      "duration_ms": 292210,
+      "name": "Beyond the Redemption",
+      "url": "https://open.spotify.com/track/0NzOmzRINNMlZsIs2a7zni"
+    },
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
@@ -935,26 +967,6 @@
       "duration_ms": 135189,
       "name": "Glad I Found You",
       "url": "https://open.spotify.com/track/6kEEYnUIh6qPrlkITL7feM"
-    },
-    {
-      "added_at": "2023-08-18 04:01:00",
-      "album": {
-        "name": "Black Classical Music",
-        "url": "https://open.spotify.com/album/5uw3ZBsmxonVJGmocj8EET"
-      },
-      "artists": [
-        {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
-        },
-        {
-          "name": "Bahia Dayes",
-          "url": "https://open.spotify.com/artist/0zPd2gWJkTBKV1kdPoplqK"
-        }
-      ],
-      "duration_ms": 340840,
-      "name": "The Light (feat. Bahia Dayes)",
-      "url": "https://open.spotify.com/track/1mkzHA0suincRybCyk5fis"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1895,26 +1907,6 @@
       "duration_ms": 422226,
       "name": "Old Man",
       "url": "https://open.spotify.com/track/3YKQziKG4G6hAqkm9yvj1L"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Keep on Moving",
-        "url": "https://open.spotify.com/album/6vq0MMZbQj9clpD5LzPDW5"
-      },
-      "artists": [
-        {
-          "name": "FKAjazz",
-          "url": "https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr"
-        },
-        {
-          "name": "Brooke Leialoha",
-          "url": "https://open.spotify.com/artist/5NjHCbcV0NDH1qNMIb0KLt"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "Keep on Moving",
-      "url": "https://open.spotify.com/track/0wC3dtsSFOvRhVHLhPp7sl"
     },
     {
       "added_at": "2023-05-26 04:00:00",

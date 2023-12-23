@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés pop\. Photo : Zara Larsson
 
-228 songs - 11 hr 44 min
+229 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,8 @@
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-07 | 2023-10-06 |
 | [STRINGS \(feat\. JVKE & Bazzi\)](https://open.spotify.com/track/7roB6h5rQPhFRK307eIQk6) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [STRINGS \(feat\. JVKE & Bazzi\)](https://open.spotify.com/album/7fjIIM9b9rJ7bu28VtLVxA) | 2:33 | 2023-08-03 | 2023-09-30 |
 | [Strong Enough \(feat\. Bailey Zimmerman\)](https://open.spotify.com/track/66VuIGcM7fd8NLMoORCqVJ) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Strong Enough](https://open.spotify.com/album/7DTTXmNJFIXdf5QyA0Y9JX) | 2:29 | 2023-11-09 |  |
-| [Stuck In Paradise](https://open.spotify.com/track/5nECu2DSgwrKvWMMTuX5fV) | [MCN2](https://open.spotify.com/artist/343xgiGnBTnEyNmf0N6aeh), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp), [Aexcit](https://open.spotify.com/artist/2HpYCHV3bvQ71jmohAnBL8) | [Stuck In Paradise](https://open.spotify.com/album/4VLxVPUNIduswny0vvnpzo) | 2:04 | 2023-12-21 |  |
+| [Stuck In Paradise](https://open.spotify.com/track/0bKY5wu5Ciq5s86comjeeG) | [MCN2](https://open.spotify.com/artist/343xgiGnBTnEyNmf0N6aeh), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp), [Aexcit](https://open.spotify.com/artist/2HpYCHV3bvQ71jmohAnBL8) | [Stuck In Paradise](https://open.spotify.com/album/5bKc3tsagrs0CDdjOHaV5U) | 2:04 | 2023-12-21 |  |
+| [Stuck In Paradise](https://open.spotify.com/track/5nECu2DSgwrKvWMMTuX5fV) | [MCN2](https://open.spotify.com/artist/343xgiGnBTnEyNmf0N6aeh), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp), [Aexcit](https://open.spotify.com/artist/2HpYCHV3bvQ71jmohAnBL8) | [Stuck In Paradise](https://open.spotify.com/album/4VLxVPUNIduswny0vvnpzo) | 2:04 | 2023-12-21 | 2023-12-23 |
 | [Summertime Friends](https://open.spotify.com/track/7JLzv38qr5GxXYqQfuQJP9) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Summertime Friends](https://open.spotify.com/album/4Fskvi7B1rmq52xIx9zTsV) | 2:16 | 2023-09-07 | 2023-11-24 |
 | [Sunday](https://open.spotify.com/track/7xxmW8ieHp9YnACGc0PfNz) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sunday](https://open.spotify.com/album/34Pax5tBAPlhxGXfmfypNO) | 2:58 | 2023-10-19 | 2023-11-24 |
 | [Super Shy](https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 2:34 | 2023-07-28 | 2023-08-04 |

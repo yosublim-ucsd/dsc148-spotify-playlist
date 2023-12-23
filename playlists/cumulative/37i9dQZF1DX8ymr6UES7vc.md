@@ -4,7 +4,7 @@
 
 > Simply rain
 
-330 songs - 15 hr 1 min
+330 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Monsoon](https://open.spotify.com/track/0bEOey9OHVNI8MfEc2328F) | [Sofia Rain](https://open.spotify.com/artist/4VfldWr0PMJDucnvdPESqm) | [Monsoon](https://open.spotify.com/album/4p6C0X0yyxCfwWXi5tGXkO) | 3:00 | 2021-11-08 |  |
 | [Morgonregn](https://open.spotify.com/track/5Jg2TWaUW9RaoUCFuKEBLx) | [Regnskur](https://open.spotify.com/artist/5iayvtoaKjHxf43TODIq4V) | [Morgonregn](https://open.spotify.com/album/0Kq1zjeX2PuQqnhqrR3UKh) | 2:00 | 2021-11-08 |  |
 | [Morning Rain](https://open.spotify.com/track/70LJyAuEGlgXrsEuaWmCkP) | [JBE Nature Sounds](https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o) | [Rain Sounds Vol\. 3](https://open.spotify.com/album/2abBIAGnbK4LEppbtAB3KL) | 3:03 | 2021-11-08 | 2022-07-09 |
-| [Muffled Magic](https://open.spotify.com/track/3hTeWxRnULxK2IGJvDoEIB) | [Morgonkvist](https://open.spotify.com/artist/65IKDKBIpATr65zcLhiUvw) | [Droppar](https://open.spotify.com/album/7wr1YeA4KKJaH4aD7tzGTh) | 2:00 | 2022-11-16 |  |
+| [Muffled Magic](https://open.spotify.com/track/3hTeWxRnULxK2IGJvDoEIB) | [Morgonkvist](https://open.spotify.com/artist/65IKDKBIpATr65zcLhiUvw) | [Droppar](https://open.spotify.com/album/7wr1YeA4KKJaH4aD7tzGTh) | 2:48 | 2022-11-16 |  |
 | [Must've Been Rain](https://open.spotify.com/track/41bTkvV9Qcc8RuDRqJKjxn) | [rainstantly](https://open.spotify.com/artist/3NXDhMusg4ceknkaxvLxAQ) | [The Sky Makes](https://open.spotify.com/album/0LgA5aHfIe43tAmJ3Fl0Eh) | 2:33 | 2021-11-08 |  |
 | [My Cat is Sleeping](https://open.spotify.com/track/2OJXITcLwJB76rsF58EXkm) | [ASMRainy](https://open.spotify.com/artist/2TmnpZ4hcIW5wNMsl70ZhN) | [Summer Nap](https://open.spotify.com/album/1jbHyvifnMfdEka86g83Kt) | 2:23 | 2022-11-16 |  |
 | [Mystery Sky](https://open.spotify.com/track/0U9ixnjG3qdi35doySolAj) | [Drop To Drop](https://open.spotify.com/artist/5EWTPC3fheVTv9t74wfwPV) | [Seasonal Forests](https://open.spotify.com/album/5rREZjyaZ07DvdorgEeOWb) | 2:36 | 2021-11-08 |  |

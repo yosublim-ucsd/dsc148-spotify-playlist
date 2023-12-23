@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! Cover: WOODZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 795,756 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 796,003 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 49 | [HEARTRIS](https://open.spotify.com/track/4TBpE4HSPeB6OTqbqqwSon) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Press Play](https://open.spotify.com/album/3KXI6SPSLOch1o5biv5uy6) | 3:00 |
 | 50 | [Do It](https://open.spotify.com/track/7wqqCArjMYTtXRhw0uYLmc) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Do It](https://open.spotify.com/album/18YFtCJFxZpaI768o4TVnB) | 3:09 |
 
-Snapshot ID: `MCw3MmUxYmM3OTM1NzhjMjZmZWEyNWY0YmIwZGNlNmNjNDg4YjgzZDUz`
+Snapshot ID: `MCw3YzUzNGVmMjkyZGY1M2E3NjIwZjUxYjI5Y2I1OWExNDNkMGVlYWJh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2SymtxlfwF.md) - [plain]
 
 > Your essential Max Richter, all in one collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,328 likes - 93 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,369 likes - 93 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2SymtxlfwF.md) - [plain]
 | 63 | [The Haunted Ocean 4](https://open.spotify.com/track/5J7AFB5FCod6sk6YOlsVj7) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Waltz With Bashir \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5GVsNr4TRweoIjUR2Dfi4G) | 3:39 |
 | 64 | [Iconography](https://open.spotify.com/track/6h3detvfBsYvepS77rckEv) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Blue Notebooks \(15 Years\)](https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo) | 3:38 |
 | 65 | [Dona Nobis Pacem 1](https://open.spotify.com/track/0tKTrU0F9lPkZIzwnBJPKn) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Leftovers: Season 1 \(Music from the HBO Series\)](https://open.spotify.com/album/5GwkoBYQ4trQO34CZ6RQkg) | 3:48 |
-| 66 | [Miss Sloane Solo](https://open.spotify.com/track/45SUuwxzQQzvnAaMjuM5XZ) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Miss Sloane \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5yZ9kWiGkJ3i6fxWw9cxV9) | 2:07 |
+| 66 | [Miss Sloane Solo](https://open.spotify.com/track/08w5Hy6Lv5d6y3iZZyaM3K) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Miss Sloane \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/09zIgmRsrLm0bpTzxQCBO7) | 2:07 |
 | 67 | [Beginning and Ending](https://open.spotify.com/track/7J7towQJuyt1Rf2tVBC0R7) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Congress](https://open.spotify.com/album/5tO5lnQWQ73Xq6aMKDmIY6) | 4:54 |
 | 68 | [H In New England](https://open.spotify.com/track/1rlp0Err7DDPV4mu3iWCwX) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [24 Postcards In Full Colour](https://open.spotify.com/album/3YNEiMT8bzX1Qjid0jWX7e) | 1:50 |
 | 69 | [Sunlight](https://open.spotify.com/track/5DXpeFcPHZY3RMChjnB2b5) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Louisa Fuller](https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ), [Natalia Bonner](https://open.spotify.com/artist/4d6eKLLJbe2ZeiL07Du7vB), [Rico Costa](https://open.spotify.com/artist/32yNIfEWrf88F4913yqbNL), [John Metcalfe](https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd), [Ian Burdge](https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL), [Chris Worsey](https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE) | [Songs From Before](https://open.spotify.com/album/1v1fuOZBcYqCRPp1y0p9eZ) | 5:35 |
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe2SymtxlfwF.md) - [plain]
 | 92 | [These I Send to You](https://open.spotify.com/track/2RCV9GcstxHGLZ3aTLEjWL) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Testament Of Youth \(Original Soundtrack Album\)](https://open.spotify.com/album/2dEs5t9eHCmWYI1rkoMQSN) | 2:33 |
 | 93 | [Three Worlds: Music from Woolf Works / The Waves: Tuesday](https://open.spotify.com/track/7ISIqewgqoRByGPWOsWUF1) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Deutsches Filmorchester Babelsberg](https://open.spotify.com/artist/3gGJa6qH96mfOdii1Wzuir), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx), [Mari Samuelsen](https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx), [Hila Karni](https://open.spotify.com/artist/1wOBL5ZQMz6SF4Rf7uabxS), [Grace Davidson](https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5), [Gillian Anderson](https://open.spotify.com/artist/1MANROYUAqKF9H6kRezrHi) | [Three Worlds: Music From Woolf Works](https://open.spotify.com/album/4fo551Vy3KXbbRxRlVTD9D) | 21:37 |
 
-Snapshot ID: `MCxmMGE2Nzg1ZDA0NzY0MGQ5ZWM2OTZiODE3MTYyZmU5NTQwNjQ5YWYy`
+Snapshot ID: `MCxlNzg3MzhkMDAwYzU1YmM2ZjM4MTEyZDFkOTc2NjgxMjU3MTBlMmIy`

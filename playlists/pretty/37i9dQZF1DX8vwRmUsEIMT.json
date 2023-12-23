@@ -1,12 +1,12 @@
 {
   "description": "All the new music you need to hear right now. Cover: Tom Odell",
-  "num_followers": 545669,
+  "num_followers": 545840,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MTdmZWIwYWM4ODMxOTJmNDEwZjk0OWM1OGIxNjgzM2Q5Y2ZjOWE4",
+  "snapshot_id": "MCxlMDBmMzNjZjU0ODk1MDYxZDJiYmI5ZjY2YTNmYjUzNWUwYmIxOTI4",
   "tracks": [
     {
       "added_at": "2023-12-22 00:00:01",
@@ -295,6 +295,22 @@
       "duration_ms": 228376,
       "name": "Sleepwalking",
       "url": "https://open.spotify.com/track/4axflVhTuU55y1ZYyLJ22X"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Closer Than This",
+        "url": "https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 223302,
+      "name": "Closer Than This",
+      "url": "https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20"
     },
     {
       "added_at": "2023-12-22 00:00:01",

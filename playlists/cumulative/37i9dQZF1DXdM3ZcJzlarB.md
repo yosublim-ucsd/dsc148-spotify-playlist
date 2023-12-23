@@ -4,7 +4,7 @@
 
 > Lo nuevo y lo más destacado de la electrónica nacional\. Portada: Pyura
 
-107 songs - 12 hr 22 min
+108 songs - 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Timeless](https://open.spotify.com/track/3tdRR98vlJ1Vr6apFjPQoJ) | [Emi Galvan](https://open.spotify.com/artist/5A4rzeZ3KXx7VYvcna6awj) | [Crabo](https://open.spotify.com/album/5mhP51VoWxehN7sgn1Ko8n) | 9:18 | 2020-09-04 | 2023-11-18 |
 | [Timeless](https://open.spotify.com/track/4j0qHgFJYumy5NDvaDbdl3) | [Emi Galvan](https://open.spotify.com/artist/5A4rzeZ3KXx7VYvcna6awj) | [Crabo](https://open.spotify.com/album/1UVqmzod2ZtvMO83PQQAEC) | 9:18 | 2020-09-04 | 2022-07-29 |
 | [Undertones 2](https://open.spotify.com/track/4p6A0iRwk566yuZysJdv7z) | [Lujo Asiático](https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI) | [Undertones 2](https://open.spotify.com/album/3OPQ2Kjn717hUsHhmBMx64) | 5:46 | 2023-12-07 |  |
+| [Undertones 2 \- Remix](https://open.spotify.com/track/3NCaewb7OXm9eXmW3ECd0b) | [Lujo Asiático](https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI), [Rumanians](https://open.spotify.com/artist/5Hu2cTdWpxnck5aaCeirWv) | [Undertones 2 \(Remix\)](https://open.spotify.com/album/4uLKTeYiEOsqZDLg9m2hCl) | 7:12 | 2023-12-22 |  |
 | [Vectoria \- Original Mix](https://open.spotify.com/track/0Ww28y8TkdNMhijhYgNbe7) | [John Cosani](https://open.spotify.com/artist/2LRGIZMAT8HDCNQvMqgcFg) | [Vectoria](https://open.spotify.com/album/4Vs7EUAgcGDxfZ7SFpauhH) | 8:00 | 2020-09-04 | 2023-11-18 |
 | [Voltaire](https://open.spotify.com/track/2qNyupNqF0BTrEXAu8DWwy) | [Analog Jungs](https://open.spotify.com/artist/7xsRDdsB4gzJqlbMiuowa1) | [Voltaire EP](https://open.spotify.com/album/1XPSLd8egeo4SE72lE2yjn) | 10:41 | 2020-09-04 | 2023-11-18 |
 | [Voltaire](https://open.spotify.com/track/6RhZ3wEOHmJpZGuXhfl2HJ) | [Analog Jungs](https://open.spotify.com/artist/7xsRDdsB4gzJqlbMiuowa1) | [Voltaire](https://open.spotify.com/album/1fLFRG742JTDx3eilXsbnM) | 10:41 | 2020-09-04 | 2022-07-29 |

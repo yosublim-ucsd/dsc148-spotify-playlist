@@ -4,7 +4,7 @@
 
 > Así suena la música urbana de Panamá hoy\. Foto: BARBEL
 
-221 songs - 12 hr 51 min
+222 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [L.A.](https://open.spotify.com/track/7xHd8aFOX4O3VATKbaT12o) | [PM Beatz](https://open.spotify.com/artist/6wcfcQKvD00ZO41wa5FxDp), [T.O.T](https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw), [Nanizzie](https://open.spotify.com/artist/0sw69zXt3PgxRXvo1Czg3j) | [L.A.](https://open.spotify.com/album/4k04HbXurfTGzo2jhSqbdd) | 2:40 | 2023-11-17 | 2023-12-16 |
 | [La del Tik Tok](https://open.spotify.com/track/2nl5JkOfrjVSYQY9rVZl4N) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [La del Tik Tok](https://open.spotify.com/album/3pHKe6M2I50xRVRKePbsZC) | 4:17 | 2023-03-13 |  |
 | [LA DUEÑA](https://open.spotify.com/track/2FgTQUokrDl1OsHorgfPyc) | [BK](https://open.spotify.com/artist/43tXe0vO00OOt1EDDbF4Ux), [PM Beatz](https://open.spotify.com/artist/6wcfcQKvD00ZO41wa5FxDp), [BCA](https://open.spotify.com/artist/4KXIxHcPgLB1xiPXZHlqxf) | [BAD GYAL RIDDIM](https://open.spotify.com/album/0Sl66un5vjC2a2KerGwlJ7) | 1:20 | 2023-02-10 | 2023-03-14 |
+| [La Fans](https://open.spotify.com/track/1JnQHinniXhtI1CaVLd5B6) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Fulo El Yeyo](https://open.spotify.com/artist/0YUrJpMVgqTxD8UnfPRKEh), [Mole](https://open.spotify.com/artist/63IHQNSZV6VYMqeRZjMAxq), [Aldair Productions](https://open.spotify.com/artist/6WFulj4XIc6vkUDXGaDvbN) | [La Fans](https://open.spotify.com/album/6dDaNHrgZbvxzul6tOjhEE) | 3:34 | 2023-12-22 |  |
 | [La Gasolina](https://open.spotify.com/track/2sF7SP88KqQr1CqDkMHKiX) | [LOUJAY](https://open.spotify.com/artist/3LSQt5vgYueIbyiCst6Cwp) | [La Gasolina](https://open.spotify.com/album/2HmYkPmWbjrpcqQ8vHg8nz) | 3:08 | 2022-09-09 | 2022-09-24 |
 | [La Jhayco](https://open.spotify.com/track/011ox5s7df1BY6kcqxKZVE) | [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [T.O.T](https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw) | [La Jhayco](https://open.spotify.com/album/2vBmjKsJ6mMmDhcTJmGaby) | 2:31 | 2023-04-21 | 2023-05-06 |
 | [La Junta](https://open.spotify.com/track/28fv6mJMnoJvsJRZd8RlRK) | [Sara Castro](https://open.spotify.com/artist/3VeLYBhffrMkGWzNfNa4os), [I Nesta](https://open.spotify.com/artist/2LraTaRLVho6BWao5J0pS0), [RD Maravilla](https://open.spotify.com/artist/0nQKjof7jr673bYRKIHqe4) | [La Junta](https://open.spotify.com/album/4Auwl9DuqJmn4lAZ2CveiI) | 3:06 | 2022-03-11 | 2022-05-20 |
@@ -157,7 +158,7 @@
 | [Parchecito](https://open.spotify.com/track/1vtQmGJc9k7kszA9VvKzsS) | [Makano](https://open.spotify.com/artist/5F73ZVq8ivLhsYF2pGg4Fc) | [Parchecito](https://open.spotify.com/album/5CkFvGoskQEE5acbIFLGhv) | 2:50 | 2023-07-21 | 2023-08-05 |
 | [Party En Mi Casa](https://open.spotify.com/track/5PEzhJIvmjFCFZcFZRze9S) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Sonrisas Tristes](https://open.spotify.com/album/4zzCQHjlhEEAidzfNRONJL) | 2:37 | 2022-03-11 |  |
 | [Pase Lo Que Pase](https://open.spotify.com/track/3oVkYxmpw1VZcLumrMNywZ) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Pase Lo Que Pase](https://open.spotify.com/album/0xZEnws967dqNnWQ7YjqqY) | 3:05 | 2022-03-11 | 2022-04-22 |
-| [Picnik](https://open.spotify.com/track/7gsKpye1ivBYZvt8cMa2ZR) | [Eiby](https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn), [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr) | [Picnik](https://open.spotify.com/album/7tINscsOFCZGEpuconbvIP) | 2:49 | 2023-09-08 |  |
+| [Picnik](https://open.spotify.com/track/7gsKpye1ivBYZvt8cMa2ZR) | [Eiby](https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn), [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr) | [Picnik](https://open.spotify.com/album/7tINscsOFCZGEpuconbvIP) | 2:49 | 2023-09-08 | 2023-12-23 |
 | [Piedritas En Los Dientes](https://open.spotify.com/track/3NhaJFxrH2EBWKhbpkAZnL) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Piedritas En Los Dientes](https://open.spotify.com/album/29cl0DP1rooFviGZS8ME4A) | 2:36 | 2023-08-04 | 2023-10-14 |
 | [PIJAMAS](https://open.spotify.com/track/79uyDFly7FsepC0hJPPvZR) | [T.O.T](https://open.spotify.com/artist/0KEa1ChgXvRCPL9Jju7cbw), [TGO](https://open.spotify.com/artist/60Qd4MNKoo1o3LwysjFVPV) | [PIJAMAS](https://open.spotify.com/album/75z60ScguDyIuNDoxvyciJ) | 2:55 | 2022-11-25 | 2023-03-18 |
 | [Pikachu](https://open.spotify.com/track/0TBmV2OHslJmjVw6XlDkQH) | [El Caly](https://open.spotify.com/artist/6lOsaYnSovGhYlI695t82Y), [Chamaco](https://open.spotify.com/artist/1xCbQhtV5c1Vc1I1n2jyv0), [EL BOY C](https://open.spotify.com/artist/5QMn8GQyPTKyS6TQi7ye1A) | [Pikachu](https://open.spotify.com/album/6jxo5a7cE99GV1BspXZq4z) | 3:49 | 2023-07-14 | 2023-08-05 |

@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-550 songs - 2 day 4 hr 57 min
+551 songs - 2 day 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [FANTASIZE](https://open.spotify.com/track/155OwUtXixaS773beh6FBD) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [FANTASIZE](https://open.spotify.com/album/0V9G9Hpr3BehgRxg7yuCsv) | 6:32 | 2023-06-30 | 2023-07-03 |
 | [Farsi](https://open.spotify.com/track/4D993tkt3yeeEzxWxi2dbi) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Farsi](https://open.spotify.com/album/4Jd4Zg8HdEqhYIeLUkflAU) | 8:41 | 2022-05-27 | 2023-11-22 |
 | [Fata Morgana](https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ) | [Lassjo](https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth) | [Fata Morgana](https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz) | 5:09 | 2023-04-21 | 2023-06-03 |
+| [Find U](https://open.spotify.com/track/6ZszWxc2N3E1W200tDEAQs) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Find U](https://open.spotify.com/album/5clE9ya21baTT6qhtNEVF9) | 3:34 | 2023-12-15 |  |
 | [Firedance \- Burningman Original](https://open.spotify.com/track/5Cic0iN6YlMzHtQxbGz0Gr) | [Lost Desert](https://open.spotify.com/artist/6N2bCZFo999TqhtdPTnLyq), [Simon Vuarambon](https://open.spotify.com/artist/2W3M7XIkEKENCT1LXJ6mdj), [Sidartha Siliceo](https://open.spotify.com/artist/3eeLa5OM4VTkCi6XK84yDE) | [Firedance EP](https://open.spotify.com/album/3PxySRX2mtpektDFcDXsQw) | 8:26 | 2021-04-21 | 2022-07-29 |
 | [Fixed Nostalgia](https://open.spotify.com/track/1NrxsJ8tPjxG24VWXA4k8P) | [Ditian](https://open.spotify.com/artist/6JIvK1wvwFlrjpAWjETPLx) | [Dixon & Âme Present Limbo](https://open.spotify.com/album/4mG0wdymDEjVc8S8LcShI5) | 7:46 | 2021-05-26 | 2022-04-21 |
 | [Fizzy Pop](https://open.spotify.com/track/7LmGa79StJLeRa7MANCorW) | [Layla Benitez](https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE), [Max Milner](https://open.spotify.com/artist/0WFFfBGhY0aC6MQiQ1UQi8) | [Fizzy Pop](https://open.spotify.com/album/18udJDR6IOSryeSoikVva6) | 4:08 | 2022-08-05 | 2023-07-07 |
@@ -351,7 +352,7 @@
 | [Niteroi](https://open.spotify.com/track/5yl3ECbP9613MOehOjOJLi) | [Michael Canitrot](https://open.spotify.com/artist/6cHlz9dCAlPQakpsEnuIMv) | [Niteroi](https://open.spotify.com/album/6SV0HxgcGoNvl1w0LTrRkM) | 5:17 | 2022-07-01 | 2023-01-09 |
 | [Nothing On Me](https://open.spotify.com/track/1Rh8OSTma2g6BdfBYXiTrq) | [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [APACHE \(FR\)](https://open.spotify.com/artist/1g0xOdroOocyFkNCMAq5TU), [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm), [Tabia](https://open.spotify.com/artist/3fvAIzLvQim7Bas6O8FCK8) | [Nothing On Me](https://open.spotify.com/album/1c79b4P58cpDUHZXUqvqxS) | 4:02 | 2023-07-14 |  |
 | [Nothingness](https://open.spotify.com/track/3qVkFZ5WdPZpqyV9fVKt68) | [Mustafa Ismaeel](https://open.spotify.com/artist/4FnXFfnV6miSesny17PNpP), [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO) | [Groove You EP](https://open.spotify.com/album/00dMUIYEjfWzbK19QK301E) | 6:36 | 2023-08-04 |  |
-| [Não Sei Parar](https://open.spotify.com/track/620eMyji7XM9zf0kHwDsys) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Afterclapp](https://open.spotify.com/artist/6SOIDTPmPScMiJYBm75gRC) | [Não Sei Parar](https://open.spotify.com/album/3DH0NYxAi5Mw8YpmHXgAMb) | 3:25 | 2023-06-09 |  |
+| [Não Sei Parar](https://open.spotify.com/track/620eMyji7XM9zf0kHwDsys) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Afterclapp](https://open.spotify.com/artist/6SOIDTPmPScMiJYBm75gRC) | [Não Sei Parar](https://open.spotify.com/album/3DH0NYxAi5Mw8YpmHXgAMb) | 3:25 | 2023-06-09 | 2023-12-23 |
 | [Ocean \(feat\. Jamie Foxx\) \- DJ Koze Remix](https://open.spotify.com/track/6aXZxlv7H26dTul1IetR3p) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Nobody Is Not Loved, Remixes, Pt\. 2](https://open.spotify.com/album/5xq4m6AJBvYZn9HYeGFmuc) | 5:12 | 2022-05-13 | 2022-07-29 |
 | [Ode Ireti \- Nitefreak Remix](https://open.spotify.com/track/7IKCYYmFabJPaFPXn4atBX) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ), [El\-Jay](https://open.spotify.com/artist/6I4x3myd2zhgAIrqkp4D85), [Oluwadamvic](https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly) | [Ode Ireti \(Nitefreak Remix\)](https://open.spotify.com/album/7jhLF5n1EakaneJXTojNHE) | 3:59 | 2022-10-28 | 2023-08-12 |
 | [Ode to Life](https://open.spotify.com/track/1E3aNzg2MTlTYhWPRQip5K) | [Ella Wild](https://open.spotify.com/artist/5YRXoNseSn9ml0cI3htXVP) | [Ode to Life](https://open.spotify.com/album/6K0VhVmbpWRsflDciGS09K) | 7:14 | 2021-05-07 | 2022-04-22 |

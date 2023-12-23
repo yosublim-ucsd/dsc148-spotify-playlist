@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "1.6",
+        "url": "https://open.spotify.com/album/1YvqD05jJcZoDQ2VheswS9"
+      },
+      "artists": [
+        {
+          "name": "VulgoParazin091",
+          "url": "https://open.spotify.com/artist/1a5DP77FEoAmcO0Z9gagyD"
+        },
+        {
+          "name": "GN \u00daNICO",
+          "url": "https://open.spotify.com/artist/0y674Su8iHGVvDMMnsCd3q"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152995,
+      "name": "1.6",
+      "url": "https://open.spotify.com/track/3KofVQ4WJrjO87Jh2kn7T0"
+    },
+    {
+      "album": {
         "name": "10:12",
         "url": "https://open.spotify.com/album/3tIGSaFu6jITSArjGN6qUo"
       },
@@ -116,7 +138,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 196000,
       "name": "40\u00b0.40, Pt. I",
       "url": "https://open.spotify.com/track/2WmSlxpP3pauTMuWyQVd6C"
@@ -366,6 +388,24 @@
       "duration_ms": 101461,
       "name": "Alegria",
       "url": "https://open.spotify.com/track/5cIhfx7tNDuHCtJg0QCWTM"
+    },
+    {
+      "album": {
+        "name": "DIMALOKA, Vol.1: Denso",
+        "url": "https://open.spotify.com/album/5f9LfhmljlqYlEVLEYImuC"
+      },
+      "artists": [
+        {
+          "name": "Marabu",
+          "url": "https://open.spotify.com/artist/0zx6DsOmLeuqXd9Ea9NIZc"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "algo me diz",
+      "url": "https://open.spotify.com/track/7wxw2QHHLozLBrJlX01FBK"
     },
     {
       "album": {
@@ -2207,6 +2247,28 @@
     },
     {
       "album": {
+        "name": "Era uma Vez um Vencedor",
+        "url": "https://open.spotify.com/album/2kcl29JAt5vzjGwnZd9Bhn"
+      },
+      "artists": [
+        {
+          "name": "MC Murilo ZS",
+          "url": "https://open.spotify.com/artist/4cZt4IBdd98Z4D0HcRGppp"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88937,
+      "name": "Era uma Vez um Vencedor",
+      "url": "https://open.spotify.com/track/4mhelbt5EP9ur4o9LAbnws"
+    },
+    {
+      "album": {
         "name": "Espartano",
         "url": "https://open.spotify.com/album/0kqyWkboIrfcbXIwBAcYSQ"
       },
@@ -3514,7 +3576,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 201666,
       "name": "Marra De Bandido",
       "url": "https://open.spotify.com/track/5Jrl9gHAQqZ1NczxHn2IA2"
@@ -4224,7 +4286,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 207976,
       "name": "Os Pitbull do Ano, Pt. 2",
       "url": "https://open.spotify.com/track/2WLjFfNF7aIdTk6SVVo6NR"

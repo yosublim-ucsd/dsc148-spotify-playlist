@@ -1,12 +1,12 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 508033,
+  "num_followers": 508469,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTVlZDRiNGM4NTEyNzFhOTliY2E5MGQzYzBlZTNkMTYxMjlmMDlk",
+  "snapshot_id": "MCxkZGU5MzE4ZjFmYjgwYTJkNjliZWRmM2Y3MjM2NjJkOTNhMTZiODU2",
   "tracks": [
     {
       "added_at": "2023-08-11 10:02:57",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "Clubbin'spirit 2",
-        "url": "https://open.spotify.com/album/1YJ8Bo9MWNOHh1BImavPht"
-      },
-      "artists": [
-        {
-          "name": "Y-Traxx",
-          "url": "https://open.spotify.com/artist/5s2mMsZZjqenfPaKVW4bpT"
-        }
-      ],
-      "duration_ms": 241346,
-      "name": "Mystery Land",
-      "url": "https://open.spotify.com/track/1fwmpaKObFM51Nw1g5uJyt"
-    },
-    {
-      "added_at": "2023-08-11 10:02:57",
-      "album": {
         "name": "Time To Burn 2010",
         "url": "https://open.spotify.com/album/3sWQLBfrq0mYSddH3ChTku"
       },
@@ -871,18 +855,34 @@
     {
       "added_at": "2023-08-11 10:02:57",
       "album": {
-        "name": "Diving Faces",
-        "url": "https://open.spotify.com/album/5Axm2YhkSXmlxqiZcBSpyZ"
+        "name": "Clubbin'spirit 2",
+        "url": "https://open.spotify.com/album/1YJ8Bo9MWNOHh1BImavPht"
       },
       "artists": [
         {
-          "name": "Liquid Child",
-          "url": "https://open.spotify.com/artist/0cljqRBWiEmXSI4vXvMFl7"
+          "name": "Y-Traxx",
+          "url": "https://open.spotify.com/artist/5s2mMsZZjqenfPaKVW4bpT"
         }
       ],
-      "duration_ms": 220173,
-      "name": "Diving Faces - Radio Cut",
-      "url": "https://open.spotify.com/track/1TUUq8BSzn0zMc8OqXa7oU"
+      "duration_ms": 241346,
+      "name": "Mystery Land",
+      "url": "https://open.spotify.com/track/1fwmpaKObFM51Nw1g5uJyt"
+    },
+    {
+      "added_at": "2023-08-11 10:02:57",
+      "album": {
+        "name": "Offshore",
+        "url": "https://open.spotify.com/album/201vsPXufpD68a7bulnr5O"
+      },
+      "artists": [
+        {
+          "name": "Chicane",
+          "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+        }
+      ],
+      "duration_ms": 268600,
+      "name": "Offshore",
+      "url": "https://open.spotify.com/track/1rToUrnowFb88N2Z4Kjyau"
     }
   ],
   "unique_name": "Trance Classics",

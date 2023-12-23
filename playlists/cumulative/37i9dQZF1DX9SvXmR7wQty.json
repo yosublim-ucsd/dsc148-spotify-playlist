@@ -8453,6 +8453,40 @@
     },
     {
       "album": {
+        "name": "Croise les doigts",
+        "url": "https://open.spotify.com/album/22Fy2sn2vAdr7U2NUsk36t"
+      },
+      "artists": [
+        {
+          "name": "Shreez",
+          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
+        },
+        {
+          "name": "Tizzo",
+          "url": "https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C"
+        },
+        {
+          "name": "Le Ice",
+          "url": "https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI"
+        },
+        {
+          "name": "Salgrimo",
+          "url": "https://open.spotify.com/artist/4UV5H3SeSPhlAgXL6JJBsE"
+        },
+        {
+          "name": "Peeda",
+          "url": "https://open.spotify.com/artist/7qz5rVVo7GjgNMUzJRfUy4"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210791,
+      "name": "Croise les doigts",
+      "url": "https://open.spotify.com/track/73YvE9CbBiaagW1480dG1T"
+    },
+    {
+      "album": {
         "name": "Crop Top",
         "url": "https://open.spotify.com/album/4xGxwhPDfO8WDJ8SrmxXOA"
       },
@@ -16016,7 +16050,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 183813,
       "name": "H\u00e9r\u00e9ditaire",
       "url": "https://open.spotify.com/track/7z7NGgxgskYYCCBUpLE9Gz"
@@ -17784,7 +17818,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 196546,
       "name": "Jane Birkin",
       "url": "https://open.spotify.com/track/4xsVpeTSTh64G82qf2HHaF"
@@ -38316,6 +38350,24 @@
       "duration_ms": 137142,
       "name": "thank u no welcome",
       "url": "https://open.spotify.com/track/0JsDe196oE4rKFWxOxVzeN"
+    },
+    {
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/2nlFmpKBjFIlRbaJh5SLX8"
+      },
+      "artists": [
+        {
+          "name": "20Some",
+          "url": "https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211486,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/3uznH3H5AMYT9HzziGXcUy"
     },
     {
       "album": {

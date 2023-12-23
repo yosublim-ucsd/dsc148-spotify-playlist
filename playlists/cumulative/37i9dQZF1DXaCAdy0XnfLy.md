@@ -4,12 +4,13 @@
 
 > Opposites attract...families don't\. Listen to music from and inspired by You People, now streaming on Netflix.
 
-41 songs - 2 hr 5 min
+42 songs - 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [6 'N the Mornin'](https://open.spotify.com/track/2cBOh97kgDenDOdtKhwU9O) | [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Rhyme Pays](https://open.spotify.com/album/267xiIVnif2CUxhbRQk115) | 3:44 | 2023-01-27 |  |
-| [All I Do Is Win \(feat\. T\-Pain, Ludacris, Snoop Dogg & Rick Ross\)](https://open.spotify.com/track/28jyTDJQyz5IeDTkB1lOuu) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [All I Do Is Win \(feat\. T\-Pain, Ludacris, Snoop Dogg & Rick Ross\)](https://open.spotify.com/album/2pRhflXkaP5ODCpmd2qeD7) | 3:50 | 2023-01-27 |  |
+| [All I Do Is Win \(feat\. T\-Pain, Ludacris, Snoop Dogg & Rick Ross\)](https://open.spotify.com/track/28jyTDJQyz5IeDTkB1lOuu) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [All I Do Is Win \(feat\. T\-Pain, Ludacris, Snoop Dogg & Rick Ross\)](https://open.spotify.com/album/2pRhflXkaP5ODCpmd2qeD7) | 3:50 | 2023-01-27 | 2023-12-23 |
+| [All I Do Is Win \(feat\. T\-Pain, Ludacris, Snoop Dogg & Rick Ross\)](https://open.spotify.com/track/5NEKjqTQPKiqOiOG8YxLdS) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Victory](https://open.spotify.com/album/4iAAzGGkdywnwP5O4Vpuun) | 3:52 | 2023-01-27 |  |
 | [Best Part \(feat\. H.E.R.\)](https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 3:29 | 2023-01-27 |  |
 | [Better Apart](https://open.spotify.com/track/6fOKU0tquifCX7pLlAClXP) | [Bekon](https://open.spotify.com/artist/4VWnuR2hpj6DZNfcpe4e3M) | [You People \(Original Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5p6zOqdeXFWq4EPH8sPMlc) | 1:10 | 2023-01-27 |  |
 | [BOSS](https://open.spotify.com/track/4F8V44j8cbjHnXjfW2HruU) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 4:04 | 2023-01-27 |  |

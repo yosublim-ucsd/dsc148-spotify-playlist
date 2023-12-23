@@ -1,12 +1,12 @@
 {
   "description": "El junte entre las estrellas del dance global y del urbano latino. Foto: Ghetto Kids, Major Lazer, Guaynaa, Tavo Rayo",
-  "num_followers": 7512,
+  "num_followers": 7513,
   "original_name": "Global Dance Crossover",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZjY0NWI1OTA1NmY2ZGY2NjQ2MTM1NDVmYTMzOTIxZTU5MmE1YWMw",
+  "snapshot_id": "MCxlY2E0NDdkZGJlOGM4ZGYwYmMyMTFkZjNmODhjNDY0ZTk2ODZjYTYy",
   "tracks": [
     {
       "added_at": "2021-12-31 04:31:13",
@@ -171,6 +171,30 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
+        "name": "Major Lazer Essentials",
+        "url": "https://open.spotify.com/album/2TVyGtVP8przbQk6f2oSXl"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 169997,
+      "name": "Que Calor",
+      "url": "https://open.spotify.com/track/5dSWNkk66Gez4AM1kpZPiu"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
         "name": "Azukita (Steve Aoki, Daddy Yankee, Play-N-Skillz & Elvis Crespo) (feat. Elvis Crespo)",
         "url": "https://open.spotify.com/album/5LSqEb2yiUoWM91rUnvDjS"
       },
@@ -195,30 +219,6 @@
       "duration_ms": 226161,
       "name": "Azukita (Steve Aoki, Daddy Yankee, Play-N-Skillz & Elvis Crespo) (feat. Elvis Crespo)",
       "url": "https://open.spotify.com/track/5e45GhSF18JYoLpaq2F48h"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
-        "name": "Major Lazer Essentials",
-        "url": "https://open.spotify.com/album/2TVyGtVP8przbQk6f2oSXl"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 169997,
-      "name": "Que Calor",
-      "url": "https://open.spotify.com/track/5dSWNkk66Gez4AM1kpZPiu"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -531,50 +531,6 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Sexo (feat. iLe)",
-        "url": "https://open.spotify.com/album/4QgsMP3I7ytwMoW06v4hLA"
-      },
-      "artists": [
-        {
-          "name": "Residente",
-          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 209820,
-      "name": "Sexo (feat. iLe)",
-      "url": "https://open.spotify.com/track/0j00zu3FKBWSu1Hyt2Ivcj"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
-        "name": "Selfish Love (with Selena Gomez)",
-        "url": "https://open.spotify.com/album/0WvtxtkwXaFDLrmOl9mXDQ"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 168648,
-      "name": "Selfish Love (with Selena Gomez)",
-      "url": "https://open.spotify.com/track/3XoflnowYPFRPOh3uFvHcm"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
         "name": "Free The Universe (Extended Version)",
         "url": "https://open.spotify.com/album/5QhUiW8r836IZ7avv9A5L8"
       },
@@ -599,6 +555,50 @@
       "duration_ms": 269146,
       "name": "Watch Out For This (Bumaye)",
       "url": "https://open.spotify.com/track/1lhpyjqKywDlNjw4nii2ZO"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "Selfish Love (with Selena Gomez)",
+        "url": "https://open.spotify.com/album/0WvtxtkwXaFDLrmOl9mXDQ"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 168648,
+      "name": "Selfish Love (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/3XoflnowYPFRPOh3uFvHcm"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "Sexo (feat. iLe)",
+        "url": "https://open.spotify.com/album/4QgsMP3I7ytwMoW06v4hLA"
+      },
+      "artists": [
+        {
+          "name": "Residente",
+          "url": "https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        }
+      ],
+      "duration_ms": 209820,
+      "name": "Sexo (feat. iLe)",
+      "url": "https://open.spotify.com/track/0j00zu3FKBWSu1Hyt2Ivcj"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -1031,6 +1031,30 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
+        "name": "Roses (Imanbek Remix / Latino Gang Version)",
+        "url": "https://open.spotify.com/album/3fzRzT5lbkYMUTZcC964qT"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 208449,
+      "name": "Roses - Imanbek Remix / Latino Gang Version",
+      "url": "https://open.spotify.com/track/0IiO3BMMnQC14SGKfB3pZQ"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
         "name": "No Te Enamores (Alan Walker Remix)",
         "url": "https://open.spotify.com/album/6e1L4cAZHKtG7AcbnkE6g4"
       },
@@ -1063,30 +1087,6 @@
       "duration_ms": 283187,
       "name": "No Te Enamores - Alan Walker Remix",
       "url": "https://open.spotify.com/track/2tfvxvWE1EwdHR6rAUTzGa"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
-        "name": "Roses (Imanbek Remix / Latino Gang Version)",
-        "url": "https://open.spotify.com/album/3fzRzT5lbkYMUTZcC964qT"
-      },
-      "artists": [
-        {
-          "name": "SAINt JHN",
-          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 208449,
-      "name": "Roses - Imanbek Remix / Latino Gang Version",
-      "url": "https://open.spotify.com/track/0IiO3BMMnQC14SGKfB3pZQ"
     },
     {
       "added_at": "2021-12-31 04:31:13",

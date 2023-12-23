@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 0,
       "name": "",
       "url": "https://open.spotify.com/track/3MjnG4Xw81GU5JX50srgvz"
@@ -2143,6 +2143,24 @@
     },
     {
       "album": {
+        "name": "The Aku Aku Mai Tai Song",
+        "url": "https://open.spotify.com/album/4E7miVBCnqNcA1da8S3etv"
+      },
+      "artists": [
+        {
+          "name": "Robert Kerrigan",
+          "url": "https://open.spotify.com/artist/6MWRjq1wq2dQUWYGGW3C2P"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219666,
+      "name": "Baila Para Mi",
+      "url": "https://open.spotify.com/track/2SCLSRumJwloU0QiZFBHj9"
+    },
+    {
+      "album": {
         "name": "balance",
         "url": "https://open.spotify.com/album/1WR15cfrqYfmqHBERzzZp4"
       },
@@ -4078,7 +4096,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 189919,
       "name": "Catch 22",
       "url": "https://open.spotify.com/track/34qncnr8hix1rUxalArbkm"
@@ -4869,6 +4887,24 @@
     },
     {
       "album": {
+        "name": "Color of Love",
+        "url": "https://open.spotify.com/album/74uHiZsCTcoKcIJ3iLOp1z"
+      },
+      "artists": [
+        {
+          "name": "and shane walts",
+          "url": "https://open.spotify.com/artist/5canJV2tY1VfpIaUuoR77u"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286381,
+      "name": "Color of Love",
+      "url": "https://open.spotify.com/track/0rHQDszJvo3XGEeOgXa0R7"
+    },
+    {
+      "album": {
         "name": "Colorado",
         "url": "https://open.spotify.com/album/4qhX9GoQN9Eg4udDJyN9eg"
       },
@@ -4938,6 +4974,24 @@
       "duration_ms": 212972,
       "name": "come home",
       "url": "https://open.spotify.com/track/2Rnvntz41C3QKYtzIvP0pp"
+    },
+    {
+      "album": {
+        "name": "Come Home For Christmas",
+        "url": "https://open.spotify.com/album/1wzBD69J9NqjTzy4Mg2aGc"
+      },
+      "artists": [
+        {
+          "name": "Not Safe For Work",
+          "url": "https://open.spotify.com/artist/0cWtZqKnH0hnGdgdjWMviP"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285156,
+      "name": "Come Home For Christmas",
+      "url": "https://open.spotify.com/track/1Iypc2xdfXcYWfQZyGZKeM"
     },
     {
       "album": {
@@ -5470,7 +5524,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 273380,
       "name": "dark & grey",
       "url": "https://open.spotify.com/track/7eWFwQ0oY2mAWZYqkVOWkk"
@@ -5762,6 +5816,24 @@
       "duration_ms": 223504,
       "name": "Dekadens",
       "url": "https://open.spotify.com/track/3zFpMvP239kRJWgP19QR5p"
+    },
+    {
+      "album": {
+        "name": "DEMOCRACY",
+        "url": "https://open.spotify.com/album/13ZDxxqB4YQEd5rOxUFMY5"
+      },
+      "artists": [
+        {
+          "name": "happytree",
+          "url": "https://open.spotify.com/artist/5UBfVxzuki4jF6yfZ8Omo2"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128987,
+      "name": "DEMOCRACY",
+      "url": "https://open.spotify.com/track/2qmGX2XC4zSPCMGSKpSEWY"
     },
     {
       "album": {
@@ -6570,7 +6642,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 178000,
       "name": "Dovhjorten",
       "url": "https://open.spotify.com/track/2HKjh6AzhVC94GCkl3YiSY"
@@ -6678,7 +6750,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 224133,
       "name": "Drau\u00dfen",
       "url": "https://open.spotify.com/track/54XlOGWzVokp17uK1H6DJr"
@@ -7480,6 +7552,28 @@
       "duration_ms": 185795,
       "name": "Ei nyt puhuttais jooko",
       "url": "https://open.spotify.com/track/0GUwo9dxdbh5xixi4YCv7X"
+    },
+    {
+      "album": {
+        "name": "El Amor Me Anda Buscando",
+        "url": "https://open.spotify.com/album/14zGUjFHGsNotr1sQeqxxY"
+      },
+      "artists": [
+        {
+          "name": "Nano Salda\u00f1a",
+          "url": "https://open.spotify.com/artist/4TY9ULEcsdVsvrba5bJ2E0"
+        },
+        {
+          "name": "Esteban Ermita\u00f1o",
+          "url": "https://open.spotify.com/artist/6N4hbFxIKFhCZhIz1bPkOY"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181133,
+      "name": "El Amor Me Anda Buscando",
+      "url": "https://open.spotify.com/track/0904lVRJ3cxGu3QZhGTPBP"
     },
     {
       "album": {
@@ -8407,6 +8501,24 @@
     },
     {
       "album": {
+        "name": "Aether",
+        "url": "https://open.spotify.com/album/2XsNXwTZSjCfxfrJ8jMnmU"
+      },
+      "artists": [
+        {
+          "name": "Headplate",
+          "url": "https://open.spotify.com/artist/1stV6oo9asbFSMafjLzL9m"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Fake Life",
+      "url": "https://open.spotify.com/track/0lewNuT9R5GCstFJTrW2pg"
+    },
+    {
+      "album": {
         "name": "FALDER IIGEN",
         "url": "https://open.spotify.com/album/6nHLzo7gThsAFN2BNDhj1f"
       },
@@ -8772,7 +8884,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 188000,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/61oc4Bq8muehwWmhQJxm4w"
@@ -8860,6 +8972,24 @@
       "duration_ms": 155654,
       "name": "Finding Kayla",
       "url": "https://open.spotify.com/track/4J1nh18KAl8sOtvV79xsWG"
+    },
+    {
+      "album": {
+        "name": "Fine (Live)",
+        "url": "https://open.spotify.com/album/4VbLh8i9wwUT9jJT1530Yw"
+      },
+      "artists": [
+        {
+          "name": "Zini",
+          "url": "https://open.spotify.com/artist/0jy5KbYexv9k3zx2KWxXYQ"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319340,
+      "name": "Fine - Live",
+      "url": "https://open.spotify.com/track/1M1UUmu6KF1p4bnna99emk"
     },
     {
       "album": {
@@ -9000,7 +9130,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 203613,
       "name": "FLINGOR AV TID",
       "url": "https://open.spotify.com/track/69mNKfuAvWF1DrQHMtq7Oi"
@@ -9328,7 +9458,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 206086,
       "name": "For All",
       "url": "https://open.spotify.com/track/0j1ZphZ65wUv7dHhhtxKDB"
@@ -10467,6 +10597,24 @@
     },
     {
       "album": {
+        "name": "Giving you all",
+        "url": "https://open.spotify.com/album/2OH6cfgfUS8QQpwJp168nv"
+      },
+      "artists": [
+        {
+          "name": "Louime",
+          "url": "https://open.spotify.com/artist/4FpkOdggY6kcICPoOH2x1R"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235200,
+      "name": "Giving you all",
+      "url": "https://open.spotify.com/track/4Q4RbLaDvA1rDef0T08out"
+    },
+    {
+      "album": {
         "name": "GL\u00d6MMA",
         "url": "https://open.spotify.com/album/5uEkTCxuO0J0ScAnozSm7l"
       },
@@ -10612,7 +10760,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 206470,
       "name": "God, Love & First Heartbreak",
       "url": "https://open.spotify.com/track/2fqcsA3VQQ4h04o84Do3cr"
@@ -10796,6 +10944,24 @@
       "duration_ms": 206524,
       "name": "Goth Babe",
       "url": "https://open.spotify.com/track/3megIIvMyXldTbYU9p0g9H"
+    },
+    {
+      "album": {
+        "name": "GOTT NYTT \u00c5R!",
+        "url": "https://open.spotify.com/album/3PefMJxaG5Zx5NaLs1UyVa"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Kara",
+          "url": "https://open.spotify.com/artist/6KzFpoFDDvmlin4ij5zgMj"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146829,
+      "name": "GOTT NYTT \u00c5R!",
+      "url": "https://open.spotify.com/track/7G8gtHw3zBtGz1ng8hS3eX"
     },
     {
       "album": {
@@ -10983,6 +11149,24 @@
     },
     {
       "album": {
+        "name": "Guiding Light",
+        "url": "https://open.spotify.com/album/2MNvCrIUQD7xiq8zshN9AN"
+      },
+      "artists": [
+        {
+          "name": "Only Once",
+          "url": "https://open.spotify.com/artist/4kyWlDJ4ihbDlRkJYpK68r"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164416,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/0O448xnOD5pSbKkaDDsY6Z"
+    },
+    {
+      "album": {
         "name": "GUTEN TAG",
         "url": "https://open.spotify.com/album/6NvPU6duQcFqgUu4E5Pid3"
       },
@@ -11146,6 +11330,24 @@
       "duration_ms": 403998,
       "name": "Hana Voodoo",
       "url": "https://open.spotify.com/track/7ssAyoOdmNosEuDgx4LMQw"
+    },
+    {
+      "album": {
+        "name": "Hand i hand",
+        "url": "https://open.spotify.com/album/2ZzlyeBsbviegqM6ehPXXv"
+      },
+      "artists": [
+        {
+          "name": "John Melin",
+          "url": "https://open.spotify.com/artist/0pMU8l2WjHW1abwuLFdF25"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184250,
+      "name": "Hand i hand",
+      "url": "https://open.spotify.com/track/1N7saDZhfnvrAF5kRiYhkt"
     },
     {
       "album": {
@@ -12517,6 +12719,24 @@
     },
     {
       "album": {
+        "name": "Sinnessjukeri",
+        "url": "https://open.spotify.com/album/6xP1qmghJu2niUVFApa1l9"
+      },
+      "artists": [
+        {
+          "name": "Jazzparken",
+          "url": "https://open.spotify.com/artist/4YPsmjPRxmabi1Iqm6RIkk"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180500,
+      "name": "I dimmans ljus",
+      "url": "https://open.spotify.com/track/1CS13Gr0mU7K8fc0nZakrY"
+    },
+    {
+      "album": {
         "name": "I Don't Care",
         "url": "https://open.spotify.com/album/4hpJL94HvPWiKNGv1Arr2g"
       },
@@ -13329,6 +13549,24 @@
     },
     {
       "album": {
+        "name": "In the Dark",
+        "url": "https://open.spotify.com/album/31Pf7SmFWhIcYsGTcxFMUM"
+      },
+      "artists": [
+        {
+          "name": "Superposer Wannabe",
+          "url": "https://open.spotify.com/artist/1bE2Ni9aikoYiijlCjKKxi"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264930,
+      "name": "In the Dark",
+      "url": "https://open.spotify.com/track/7F7XSNLZCgbu0HMSEyrKd0"
+    },
+    {
+      "album": {
         "name": "Immortal Romance (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/3F0VJnqfwoWHnHXYvnH99H"
       },
@@ -13568,6 +13806,24 @@
       "duration_ms": 207111,
       "name": "Insomniac",
       "url": "https://open.spotify.com/track/5UaCEMQRJv3jskxdnC7VF0"
+    },
+    {
+      "album": {
+        "name": "Into The Water",
+        "url": "https://open.spotify.com/album/5cyiBwRjrRnRsNVyX0u4tT"
+      },
+      "artists": [
+        {
+          "name": "Djefvul",
+          "url": "https://open.spotify.com/artist/0NlCTsI4LvS3ubQlQ38F6U"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242998,
+      "name": "Into The Water",
+      "url": "https://open.spotify.com/track/6pYz9wqWb7EKXzBjrPQ8zp"
     },
     {
       "album": {
@@ -15018,7 +15274,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 200500,
       "name": "La Musica",
       "url": "https://open.spotify.com/track/5KrGLyjIvSfTPQqnn9oiad"
@@ -15299,6 +15555,28 @@
     },
     {
       "album": {
+        "name": "Le Combat",
+        "url": "https://open.spotify.com/album/3Mx0tik3TYtaExQpbCwIZk"
+      },
+      "artists": [
+        {
+          "name": "R4JC",
+          "url": "https://open.spotify.com/artist/3B9SxjmfPEQ1LNsGtPWyHR"
+        },
+        {
+          "name": "Angelo Powers",
+          "url": "https://open.spotify.com/artist/3kHAioUvOqIkDZb9rgC8lH"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204545,
+      "name": "Le Combat",
+      "url": "https://open.spotify.com/track/6Kxxwdjz5cPvC2Iz5UeHeN"
+    },
+    {
+      "album": {
         "name": "Confidence",
         "url": "https://open.spotify.com/album/1spl7bTs8vOZh148JpNEk9"
       },
@@ -15390,6 +15668,24 @@
       "duration_ms": 175688,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/2cVi192OahuvPbrenlkC8v"
+    },
+    {
+      "album": {
+        "name": "Lempe\u00e4mp\u00e4\u00e4 Ilmaa",
+        "url": "https://open.spotify.com/album/3Pia16gCtb1gpjEz2YfqTd"
+      },
+      "artists": [
+        {
+          "name": "1Tipe",
+          "url": "https://open.spotify.com/artist/623ws52gHtlWvfNHkuUzb7"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225266,
+      "name": "Lempe\u00e4mp\u00e4\u00e4 Ilmaa",
+      "url": "https://open.spotify.com/track/6NhwfHOsNZpa2J8JaTuzlf"
     },
     {
       "album": {
@@ -17654,7 +17950,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 195894,
       "name": "Mira's Christmas",
       "url": "https://open.spotify.com/track/3YJiv4rEfVYjZ7St6XUTdK"
@@ -18744,7 +19040,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 166506,
       "name": "No 12. Polonais",
       "url": "https://open.spotify.com/track/3KO3FXYege9Ou4VTAlzkhG"
@@ -18910,7 +19206,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 272000,
       "name": "No Rest To Heal",
       "url": "https://open.spotify.com/track/76Px009n6VhCUWsG0nV3dE"
@@ -19238,7 +19534,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 513573,
       "name": "Nothing has changed but everything is different",
       "url": "https://open.spotify.com/track/4u3Pz5TNTnS1iees3KJ91w"
@@ -19336,7 +19632,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 336000,
       "name": "Nubuwwah",
       "url": "https://open.spotify.com/track/3BIQ6QWoh7SjivmSun0q8d"
@@ -19473,6 +19769,24 @@
     },
     {
       "album": {
+        "name": "O Holy Night",
+        "url": "https://open.spotify.com/album/7hRhZfUSasUzDdNJXnrzhg"
+      },
+      "artists": [
+        {
+          "name": "Florian Voss",
+          "url": "https://open.spotify.com/artist/5jK3Fm8xL2H1d7WnhbT2sW"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297000,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/1IgXCqX13nYNxrpvmn7piS"
+    },
+    {
+      "album": {
         "name": "Ihana joulu",
         "url": "https://open.spotify.com/album/6fhzFls9bL9NowycD6z438"
       },
@@ -19578,7 +19892,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 299798,
       "name": "Offal Tray",
       "url": "https://open.spotify.com/track/7gBm1r6rqo5iYOjrsqzh4p"
@@ -23895,6 +24209,24 @@
     },
     {
       "album": {
+        "name": "Siwezi",
+        "url": "https://open.spotify.com/album/7vtnqFp1TfKwLvAYatXHZo"
+      },
+      "artists": [
+        {
+          "name": "ICKY 254",
+          "url": "https://open.spotify.com/artist/46XEvAQUb2YXhupyRywsca"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Siwezi",
+      "url": "https://open.spotify.com/track/0HFTE1UUwLnCh6KtGRniO3"
+    },
+    {
+      "album": {
         "name": "Skapa en hit",
         "url": "https://open.spotify.com/album/25a7UbcOKDrcKBPiceXSth"
       },
@@ -24564,7 +24896,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 318149,
       "name": "Solovey",
       "url": "https://open.spotify.com/track/363wrTUaGF6wqxV8kQfSBD"
@@ -24676,7 +25008,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 226421,
       "name": "Someone Save Me",
       "url": "https://open.spotify.com/track/781GYlSpPTJBujDFB9OvXg"
@@ -25058,6 +25390,24 @@
       "duration_ms": 519068,
       "name": "Spirit of Melati",
       "url": "https://open.spotify.com/track/0xPILKKyDJjgvlFemtcTHn"
+    },
+    {
+      "album": {
+        "name": "Maelstrom",
+        "url": "https://open.spotify.com/album/7glHIR3NAfT1TYGi6ql4da"
+      },
+      "artists": [
+        {
+          "name": "WORLD BELOW",
+          "url": "https://open.spotify.com/artist/0PwbyELG8fxKk4DxcboYDi"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352053,
+      "name": "Spiritual Disaster",
+      "url": "https://open.spotify.com/track/0GBueFoUkK2m3xSPggtP1L"
     },
     {
       "album": {
@@ -26945,6 +27295,24 @@
     },
     {
       "album": {
+        "name": "The Odds",
+        "url": "https://open.spotify.com/album/34yIpQwRUWfMFTfer4ZLZd"
+      },
+      "artists": [
+        {
+          "name": "Deano",
+          "url": "https://open.spotify.com/artist/1GNpcygP6AkjtgoyEIwMtl"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206552,
+      "name": "The Odds",
+      "url": "https://open.spotify.com/track/1ajHxJSHmD6HQruR4eC7SO"
+    },
+    {
+      "album": {
         "name": "The Old Wind",
         "url": "https://open.spotify.com/album/3yAOmubJiS1ynygc2Ua7qH"
       },
@@ -27258,7 +27626,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 234965,
       "name": "The Siege of Jadotville (The Ballad of Col Pat Quinlan)",
       "url": "https://open.spotify.com/track/5aXWw0i3nXQxSU2Zmq29NK"
@@ -28103,6 +28471,24 @@
     },
     {
       "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/780oPBgaOJyPh7nKwARs8G"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stuckert",
+          "url": "https://open.spotify.com/artist/2MD5ulLu8ExI3lk0DZesV7"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/49Tx6TFSwU7EQHguWdCjLk"
+    },
+    {
+      "album": {
         "name": "Tr\u00e5kigt liv",
         "url": "https://open.spotify.com/album/05hxKikzBnwxOzPI5XbwLF"
       },
@@ -28288,7 +28674,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 183913,
       "name": "T\u00c4HTENI",
       "url": "https://open.spotify.com/track/3ZqmKcbo1WxauGCnV79Syk"
@@ -28836,6 +29222,28 @@
       "duration_ms": 277565,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/6lcVxagLI6NPYoUK670Lpy"
+    },
+    {
+      "album": {
+        "name": "Uuvee",
+        "url": "https://open.spotify.com/album/17TYwuTY4Tf3oPOluc2Z5e"
+      },
+      "artists": [
+        {
+          "name": "Jumal X10 Lavis",
+          "url": "https://open.spotify.com/artist/6lHf0qmlpXJdpRxaB9tuPG"
+        },
+        {
+          "name": "Nen\u00e4 Inc.",
+          "url": "https://open.spotify.com/artist/6Lhk2MZE8niAICw9SGiG9I"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Uuvee",
+      "url": "https://open.spotify.com/track/5eiAhuQ7NiozazpWpuWYEq"
     },
     {
       "album": {
@@ -30304,7 +30712,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 336568,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/3nhm01DTenmVLQW9zFdy4C"
@@ -30816,7 +31224,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-23",
       "duration_ms": 188130,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/50Kg7kSWMPQw9O0eN3jugH"

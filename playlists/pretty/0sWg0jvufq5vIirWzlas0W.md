@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0sWg0jvufq5vIirWzlas0W.md) - [plain]
 
 > Over 8 hours of music for hanging out at the cottage\. Includes favorites from The Tragically Hip, The Rolling Stones, Morgan Wallen and more!
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 64,903 likes - 126 songs - 8 hr 41 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 64,905 likes - 126 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

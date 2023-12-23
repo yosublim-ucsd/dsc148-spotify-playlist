@@ -1,13 +1,125 @@
 {
-  "description": "The newest r&b drops, every week. Cover: Omarion",
-  "num_followers": 1034759,
+  "description": "The newest r&b drops, every week. Cover: Wizkid",
+  "num_followers": 1034890,
   "original_name": "R&B Weekly",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYzI3ZDE2YTc2YzhmMWRhMzVlZDMxNTY5OWZmODUwODM3MTFhYjgy",
+  "snapshot_id": "MCw5YWY3MmZlNTYzY2QxZWI0OWY3ZjdiYzZiZDVhY2QyNGFiMmZlODZm",
   "tracks": [
+    {
+      "added_at": "2023-12-22 05:16:39",
+      "album": {
+        "name": "S2",
+        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 181013,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/6GxsePQAbaPlzWefozE62n"
+    },
+    {
+      "added_at": "2023-12-22 05:27:11",
+      "album": {
+        "name": "Gravity - Live from Spotify Green Screen",
+        "url": "https://open.spotify.com/album/2lRF5yXvrn9obPYMbsH2ho"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 184642,
+      "name": "Gravity - Live from Spotify Green Screen",
+      "url": "https://open.spotify.com/track/4XflKK88OP3lWpwrQxg3ll"
+    },
+    {
+      "added_at": "2023-12-22 05:16:39",
+      "album": {
+        "name": "ttuctmd",
+        "url": "https://open.spotify.com/album/1ErqwoGil01Xr66CiUxU3u"
+      },
+      "artists": [
+        {
+          "name": "SAFE",
+          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
+        }
+      ],
+      "duration_ms": 120461,
+      "name": "ttuctmd",
+      "url": "https://open.spotify.com/track/7bsqStKmTP9TgMESunVxLX"
+    },
+    {
+      "added_at": "2023-12-22 05:16:39",
+      "album": {
+        "name": "Please Don't Go",
+        "url": "https://open.spotify.com/album/4KLJv2TWvzze4r3hJR7wJA"
+      },
+      "artists": [
+        {
+          "name": "WanMor",
+          "url": "https://open.spotify.com/artist/5XmuuM2C6t4HSPa3FSuU3h"
+        }
+      ],
+      "duration_ms": 276960,
+      "name": "Please Don't Go",
+      "url": "https://open.spotify.com/track/1DTHu62VoMDeV76RI3kgeL"
+    },
+    {
+      "added_at": "2023-12-22 05:16:39",
+      "album": {
+        "name": "Right Back In It (Souldrip Mix)",
+        "url": "https://open.spotify.com/album/7wpzNt5KCsDyDrUAQdgKLT"
+      },
+      "artists": [
+        {
+          "name": "Leela James",
+          "url": "https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2"
+        }
+      ],
+      "duration_ms": 188458,
+      "name": "Right Back In It (Souldrip Mix)",
+      "url": "https://open.spotify.com/track/0qRpRqzRRe7J1rOFPbzR3Q"
+    },
+    {
+      "added_at": "2023-12-22 05:16:39",
+      "album": {
+        "name": "Blue Days",
+        "url": "https://open.spotify.com/album/3E2RSGxBOGzh9bAqWMmqJG"
+      },
+      "artists": [
+        {
+          "name": "KWAYE",
+          "url": "https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ"
+        }
+      ],
+      "duration_ms": 161834,
+      "name": "Blue Days",
+      "url": "https://open.spotify.com/track/3qKI07m2ve50BhRux11Z82"
+    },
+    {
+      "added_at": "2023-12-22 05:16:39",
+      "album": {
+        "name": "Feel Your Love",
+        "url": "https://open.spotify.com/album/76JEnC2avKDF8JkdkRvjqu"
+      },
+      "artists": [
+        {
+          "name": "The Code",
+          "url": "https://open.spotify.com/artist/21eeOqX01yzH3M9nSyYJ1S"
+        }
+      ],
+      "duration_ms": 358928,
+      "name": "Feel Your Love",
+      "url": "https://open.spotify.com/track/4JUkJLpwMpqv6ZXdQf0O4H"
+    },
     {
       "added_at": "2023-12-15 05:36:35",
       "album": {
@@ -3103,30 +3215,6 @@
       "duration_ms": 123319,
       "name": "You, The World Vs Me",
       "url": "https://open.spotify.com/track/6dG5YbZK6atPesjFH2zgaI"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "The Interludes",
-        "url": "https://open.spotify.com/album/3o2o7mFiio6QAAvgYPgrx7"
-      },
-      "artists": [
-        {
-          "name": "Ojerime",
-          "url": "https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0"
-        },
-        {
-          "name": "Sango",
-          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
-        },
-        {
-          "name": "ESTA.",
-          "url": "https://open.spotify.com/artist/4KZmpaIhanIo46eaQimtgO"
-        }
-      ],
-      "duration_ms": 174878,
-      "name": "TIDE (Interlude)",
-      "url": "https://open.spotify.com/track/7mVg5kSbpGkHQ9MPmWu1eG"
     }
   ],
   "unique_name": "R&B Weekly",
