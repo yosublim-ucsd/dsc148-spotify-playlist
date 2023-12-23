@@ -59,7 +59,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists <a name="playlists"></a> \(7255\)
+## Playlists <a name="playlists"></a> \(7256\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -3173,6 +3173,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Lemon & Herb's DJ Mix](/playlists/pretty/37i9dQZF1DX3vkuTDAwIoG.md)
 - [Lento.](/playlists/pretty/37i9dQZF1DX64myInc1vfu.md)
 - [Leonard Cohen: Covered](/playlists/pretty/37i9dQZF1DWX8N4beMj76D.md)
+- [Les 100 de 2023](/playlists/pretty/5v05Lp36zECefBP7ZcxguL.md)
 - [Les Dieux du Stade](/playlists/pretty/37i9dQZF1DXbJR1DWfHjWw.md)
 - [Les Princes de la ville](/playlists/pretty/37i9dQZF1DWU8IJf8oADfU.md)
 - [Les beaux jours](/playlists/pretty/37i9dQZF1DWWAwsEEGEeag.md)
