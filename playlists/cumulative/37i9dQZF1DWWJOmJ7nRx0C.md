@@ -4,7 +4,7 @@
 
 > Instructions: volume up\. Cover: Bad Omens
 
-1,054 songs - 2 day 15 hr 6 min
+1,056 songs - 2 day 15 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [\(i\)](https://open.spotify.com/track/3Ve1TJKgbzNBBk3cTZN0Hv) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [\(i\)](https://open.spotify.com/album/3raVH1dBBNAguI8WqQE0vn) | 3:03 | 2023-10-06 | 2023-11-11 |
 | [\(pls\) set me on fire](https://open.spotify.com/track/0Z1Xxix96HUYYL6RScOQqG) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [\(pls\) set me on fire](https://open.spotify.com/album/5Y1o9GddlN87GHzM3NkPdk) | 3:04 | 2023-01-13 | 2023-02-18 |
 | [.intoodeep.](https://open.spotify.com/track/0BWv3O0ouhfmc2aAPezRGu) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [.CoDA.](https://open.spotify.com/album/3olq31Rex7clxCqI1L897b) | 3:39 | 2022-02-11 | 2022-10-22 |
-| [10,000 Volts](https://open.spotify.com/track/36LNprdUkpqTHWGw0P3OoQ) | [Ace Frehley](https://open.spotify.com/artist/62olK5zZHSgFUXGDykgBL8) | [10,000 Volts](https://open.spotify.com/album/0b6pU7qCqJLKc9vDo02QTf) | 3:24 | 2023-12-01 |  |
+| [10,000 Volts](https://open.spotify.com/track/36LNprdUkpqTHWGw0P3OoQ) | [Ace Frehley](https://open.spotify.com/artist/62olK5zZHSgFUXGDykgBL8) | [10,000 Volts](https://open.spotify.com/album/0b6pU7qCqJLKc9vDo02QTf) | 3:24 | 2023-12-01 | 2023-12-24 |
+| [10,000 Volts](https://open.spotify.com/track/4eJdMXViYA7SYKD499AvNF) | [Ace Frehley](https://open.spotify.com/artist/62olK5zZHSgFUXGDykgBL8) | [10,000 Volts](https://open.spotify.com/album/56EuOSiYmNoJH22peRBwdf) | 3:24 | 2023-12-15 |  |
 | [100 Little Deaths](https://open.spotify.com/track/1iK6objrHYqNj6TjFhbEKJ) | [Lilith Czar](https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq) | [Created From Filth And Dust](https://open.spotify.com/album/3wrOixk8SLnjk4siR58e8q) | 3:33 | 2022-11-04 | 2023-04-15 |
 | [100 Little Deaths](https://open.spotify.com/track/3MgIvPwRJQ3H02Pg2R361m) | [Lilith Czar](https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq) | [Created From Filth And Dust](https://open.spotify.com/album/5a0aj6PFt8bFu2Pg3KWPzW) | 3:33 | 2022-06-10 | 2022-11-05 |
 | [100 Little Deaths](https://open.spotify.com/track/65B9xDVwOLjOi2Sm4bRVdm) | [Lilith Czar](https://open.spotify.com/artist/2tMZ37dVy1DzZjXXCjhgFq) | [100 Little Deaths \(Radio Edit\)](https://open.spotify.com/album/2bmYfuRVtzB5vAbr56K72G) | 3:33 | 2022-11-04 | 2022-11-13 |
@@ -803,7 +804,8 @@
 | [Silver Tongue](https://open.spotify.com/track/5uNazTJV7Rpd8zAtWDiSiG) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Pawns & Kings](https://open.spotify.com/album/6GfoBh7p2LS5fMbYYMjj5b) | 4:18 | 2022-10-14 | 2023-06-24 |
 | [Sin So Sweet](https://open.spotify.com/track/4N3mpuGDYO39LYh4XepwbO) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Sin So Sweet](https://open.spotify.com/album/45GYmPkrKlJKNoEumS726f) | 3:21 | 2023-11-17 |  |
 | [Six Feet Under](https://open.spotify.com/track/5DYCuzBPf13q0QZwQvjYzi) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Six Feet Under](https://open.spotify.com/album/1VujeZarJaiO5ZUCI5ed6G) | 2:58 | 2023-03-03 | 2023-08-19 |
-| [Skeletons](https://open.spotify.com/track/7klR0a6pWaMiRanIkwg1vy) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Skeletons](https://open.spotify.com/album/42wOkbQaZa1jnpBpUmk5Zv) | 3:29 | 2023-03-17 |  |
+| [Skeletons](https://open.spotify.com/track/3xxM2OEHAAYnpr2KiPdW4B) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Skeletons](https://open.spotify.com/album/53Qn747V1G16yJvN363RZA) | 3:29 | 2023-12-15 |  |
+| [Skeletons](https://open.spotify.com/track/7klR0a6pWaMiRanIkwg1vy) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Skeletons](https://open.spotify.com/album/42wOkbQaZa1jnpBpUmk5Zv) | 3:29 | 2023-03-17 | 2023-12-24 |
 | [Skin](https://open.spotify.com/track/75KnjXtPMCZf60zlEp5m1D) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Below](https://open.spotify.com/album/5AQKqldLehNX6p4rxFFwAz) | 3:18 | 2021-06-25 | 2022-07-16 |
 | [Skinny Little Missy](https://open.spotify.com/track/4DU1Z5PrEzZXerxoD6vJs0) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Get Rollin' \(Deluxe\)](https://open.spotify.com/album/2bthLq6ydKBXwZlaYxTBAf) | 3:37 | 2023-11-10 |  |
 | [Slaughter Beach](https://open.spotify.com/track/234GDlel7bc4Cl7e5jiwNa) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Slaughter Beach](https://open.spotify.com/album/1ktlp4ovJQGkGCep35GaQq) | 3:41 | 2022-08-19 | 2023-01-14 |

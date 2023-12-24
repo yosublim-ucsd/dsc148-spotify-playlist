@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Idina Menzel
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,321 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,405 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 90 | [Can't Get Enough](https://open.spotify.com/track/4iKhQ8ww70bM5rqFGmqcxq) | [Daniele Baldi](https://open.spotify.com/artist/6XCnlAqoGasmWxoLIghnVS) | [Can't Get Enough](https://open.spotify.com/album/1EDOh4foBxuhT5PaInDmlM) | 6:22 |
 | 91 | [Pretty Please \(Supertaste Disco Mix\)](https://open.spotify.com/track/7eiElj5joARyuFX5We14Gr) | [Delia Dane](https://open.spotify.com/artist/1415hXnajD3tifd1UF1N4x), [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6) | [Pretty Please \(Supertaste Disco Mix\)](https://open.spotify.com/album/2eXBDhdo7LsJL7PH5tDUiK) | 3:41 |
 | 92 | [Cool](https://open.spotify.com/track/6GHbjeof74MIvFTPsgeglv) | [Foreignlocal.](https://open.spotify.com/artist/4aS4qAMRZ3IzRnV8AA4lEs), [Sunsets](https://open.spotify.com/artist/3YiHDe6lmmKjRaN6jzJoRA) | [Cool](https://open.spotify.com/album/2WZr3RJUsuWLYC27t05Qj9) | 3:01 |
-| 93 | [Real Love](https://open.spotify.com/track/0DYZUV1290HJrt0MM9yKa0) | [Sleepy Tom](https://open.spotify.com/artist/1D9XQXqh4YQfJwX7hyLWwr), [Ngaiire](https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY) | [Real Love](https://open.spotify.com/album/5QW6KOV70T8IuJGzRwP7GA) | 3:02 |
+| 93 | [Real Love](https://open.spotify.com/track/7EXaXpZWbySCGLGzQu00CD) | [Sleepy Tom](https://open.spotify.com/artist/1D9XQXqh4YQfJwX7hyLWwr), [Ngaiire](https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY) | [Real Love](https://open.spotify.com/album/5SBHEdBAFd66bDrMMCne6s) | 3:02 |
 | 94 | [Passion \(feat\. Nile Rodgers\) \- Fred Falke Remix](https://open.spotify.com/track/01NJ2sDafTTW8UADIxHMUQ) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Passion \(feat\. Nile Rodgers\) \[Fred Falke Remix\]](https://open.spotify.com/album/26iBlyf3iKR7siw6HxJSJQ) | 3:53 |
 | 95 | [Flirt](https://open.spotify.com/track/6Sg48ILcSWhiRBw3ToBzsF) | [Camille Trust](https://open.spotify.com/artist/5ZuKNJpsYPbL7vWMKQ1PCf), [jayo](https://open.spotify.com/artist/1kBx4RzRD8An5pUEDBGZQ9) | [Flirt](https://open.spotify.com/album/0uKryq3qttBTyvUVakRPRO) | 3:02 |
 | 96 | [Under the Light](https://open.spotify.com/track/26nQDOgXY2mZ6xAlHIdymY) | [LeMarquis](https://open.spotify.com/artist/6w9iqkoyGAs9PRssKIvq9G) | [Origin](https://open.spotify.com/album/6sCftII6Jd2YAU3Yxs9Cw8) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 99 | [NIKKI](https://open.spotify.com/track/2bDTVAXtb9TnavgAdZmeaO) | [Joseph of Mercury](https://open.spotify.com/artist/7vahFRSKRiVDOejIMEBWvO) | [NIKKI](https://open.spotify.com/album/0oJ4yy7ZeZAT4aAfsd4kFU) | 3:18 |
 | 100 | [why don't you come on over?](https://open.spotify.com/track/6t5uDwqa7AalPzQY1fDivT) | [Sita](https://open.spotify.com/artist/3xaMeif5BSoyYAqHneI2T2) | [why don't you come on over?](https://open.spotify.com/album/2slwiCDPuD1wFhsqmA5hKX) | 2:36 |
 
-Snapshot ID: `MCw4Zjk5NGU2NjhkNGM1OTEwNGY0NTcyODUwOTRiNjUwOTMwNzJlNjM3`
+Snapshot ID: `MCxlM2EyZmYzODA0NzBiNGU3YTNiNjBkMDdmMWU1ZmUzZjE1NGQzY2U0`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjEwMTRjZGI2YWU1NjNlNTA3MjA1MjRiNjdmM2Q0N2Y0ZDA2MzZj",
+  "snapshot_id": "MCw0MjI5ODg5MmY5MGRmMzNiNDgxYTk0OWZhNTg5OGQ0YTc1ZmQ2ZWJj",
   "tracks": [
     {
       "added_at": "2023-12-22 05:00:00",
@@ -531,18 +531,22 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "But I Got A Beer In My Hand",
-        "url": "https://open.spotify.com/album/2g95B2AWT2gDusBqYO7it3"
+        "name": "I Will (When You Do)",
+        "url": "https://open.spotify.com/album/3k21cPHIBHoevXbpvLrgoH"
       },
       "artists": [
         {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        },
+        {
+          "name": "Dylan Marlowe",
+          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
         }
       ],
-      "duration_ms": 176426,
-      "name": "But I Got A Beer In My Hand",
-      "url": "https://open.spotify.com/track/3jhV8I9sIPXsjPs2ZOnSaf"
+      "duration_ms": 207533,
+      "name": "I Will (When You Do)",
+      "url": "https://open.spotify.com/track/7BH39iq4k2366YgJgbf8b4"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -579,22 +583,18 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "I Will (When You Do)",
-        "url": "https://open.spotify.com/album/3k21cPHIBHoevXbpvLrgoH"
+        "name": "But I Got A Beer In My Hand",
+        "url": "https://open.spotify.com/album/2g95B2AWT2gDusBqYO7it3"
       },
       "artists": [
         {
-          "name": "Avery Anna",
-          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
-        },
-        {
-          "name": "Dylan Marlowe",
-          "url": "https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax"
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 207533,
-      "name": "I Will (When You Do)",
-      "url": "https://open.spotify.com/track/7BH39iq4k2366YgJgbf8b4"
+      "duration_ms": 176426,
+      "name": "But I Got A Beer In My Hand",
+      "url": "https://open.spotify.com/track/3jhV8I9sIPXsjPs2ZOnSaf"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
+        "name": "If We Were A Love Song",
+        "url": "https://open.spotify.com/album/0CfhI8IZCRv09xp38MJVwx"
+      },
+      "artists": [
+        {
+          "name": "Kidd G",
+          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
+        }
+      ],
+      "duration_ms": 167333,
+      "name": "Daylight Savings",
+      "url": "https://open.spotify.com/track/1xDzlTNeEzmrIgqII4XSit"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
         "name": "Right On Time",
         "url": "https://open.spotify.com/album/2C8RegZMCc1WLc3tQgjRUW"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 243453,
       "name": "Take Me Out",
       "url": "https://open.spotify.com/track/1pe10JzqDI5y5RHT0tILDL"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "If We Were A Love Song",
-        "url": "https://open.spotify.com/album/0CfhI8IZCRv09xp38MJVwx"
-      },
-      "artists": [
-        {
-          "name": "Kidd G",
-          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
-        }
-      ],
-      "duration_ms": 167333,
-      "name": "Daylight Savings",
-      "url": "https://open.spotify.com/track/1xDzlTNeEzmrIgqII4XSit"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
+        "name": "Dallas Smith",
+        "url": "https://open.spotify.com/album/3dI7Y28fYBPve8KLJ2A8ig"
+      },
+      "artists": [
+        {
+          "name": "Dallas Smith",
+          "url": "https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC"
+        }
+      ],
+      "duration_ms": 172910,
+      "name": "Singing In A Beer",
+      "url": "https://open.spotify.com/track/6fAQULgYx8RZt6CHb9CJVw"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
         "name": "You Got The Wrong Guy",
         "url": "https://open.spotify.com/album/67TFoSRLeIglLfpPAza68B"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 173346,
       "name": "Product Of (Feat. Lee Brice)",
       "url": "https://open.spotify.com/track/3Bb1txAwFxLW1PbKRlBV2x"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Dallas Smith",
-        "url": "https://open.spotify.com/album/3dI7Y28fYBPve8KLJ2A8ig"
-      },
-      "artists": [
-        {
-          "name": "Dallas Smith",
-          "url": "https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC"
-        }
-      ],
-      "duration_ms": 172910,
-      "name": "Singing In A Beer",
-      "url": "https://open.spotify.com/track/6fAQULgYx8RZt6CHb9CJVw"
     },
     {
       "added_at": "2023-12-22 05:00:00",

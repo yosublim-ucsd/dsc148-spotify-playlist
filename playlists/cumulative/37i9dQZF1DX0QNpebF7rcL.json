@@ -2664,10 +2664,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 159886,
       "name": "I'm Just Getting Started!",
       "url": "https://open.spotify.com/track/17v5PPcGy8FSN4n9xnKpUd"
+    },
+    {
+      "album": {
+        "name": "I'm Just Getting Started!",
+        "url": "https://open.spotify.com/album/0QgQ8Ln8AIxc3Svhc8cbi3"
+      },
+      "artists": [
+        {
+          "name": "Mick Kolassa",
+          "url": "https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159886,
+      "name": "I'm Just Getting Started!",
+      "url": "https://open.spotify.com/track/5FpQfVO2jHbTtZGGR8lkN8"
     },
     {
       "album": {
@@ -3046,7 +3064,7 @@
     {
       "album": {
         "name": "TEN",
-        "url": "https://open.spotify.com/album/7BOpTMhSI7AJl81BbePXcO"
+        "url": "https://open.spotify.com/album/7HHvLqB4yD1CIP3OgS8NIN"
       },
       "artists": [
         {
@@ -3057,6 +3075,24 @@
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 193851,
+      "name": "Last Call",
+      "url": "https://open.spotify.com/track/3VYsTcWT8Fpvk7buYRIOyK"
+    },
+    {
+      "album": {
+        "name": "TEN",
+        "url": "https://open.spotify.com/album/7BOpTMhSI7AJl81BbePXcO"
+      },
+      "artists": [
+        {
+          "name": "Albert Cummings",
+          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
       "duration_ms": 193851,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/50JkDzyvtn6xf75rklAVvc"

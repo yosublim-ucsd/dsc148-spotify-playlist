@@ -29272,6 +29272,24 @@
     {
       "album": {
         "name": "Hope",
+        "url": "https://open.spotify.com/album/2N5gf9IqhA8Wq7LpgsbShl"
+      },
+      "artists": [
+        {
+          "name": "Josa",
+          "url": "https://open.spotify.com/artist/2BUX6bhQxzfkO4CH8dmwQp"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141803,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/798xA6Nh36kCeElGeuTHtq"
+    },
+    {
+      "album": {
+        "name": "Hope",
         "url": "https://open.spotify.com/album/79ev9Q1ACQmC7c1nlcR6TI"
       },
       "artists": [
@@ -33363,6 +33381,24 @@
     },
     {
       "album": {
+        "name": "jeep",
+        "url": "https://open.spotify.com/album/3SZNhX6P0hkZY48D0nfEVL"
+      },
+      "artists": [
+        {
+          "name": "Zonyo",
+          "url": "https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109458,
+      "name": "jeep",
+      "url": "https://open.spotify.com/track/74QVwX6fjyS88E3WywI9NA"
+    },
+    {
+      "album": {
         "name": "Jehzz",
         "url": "https://open.spotify.com/album/3W3iaK253n1jdghHkeOLLn"
       },
@@ -33934,7 +33970,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 151520,
       "name": "Jumping Saxx",
       "url": "https://open.spotify.com/track/6gutPw9mIyl2U9YlNk0DgK"
@@ -49322,7 +49358,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 155294,
       "name": "Only",
       "url": "https://open.spotify.com/track/5qy2fUx0Qy6Cz3gEYWPX0I"

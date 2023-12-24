@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y2xcY13mN1.md) - [plain]
 
 > New and familiar folk in the Irish tradition\. Cover: Ye Vagabonds
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,700 likes - 52 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,792 likes - 52 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y2xcY13mN1.md) - [plain]
 | 39 | [Come My Little Son](https://open.spotify.com/track/4ENxksrHox2FMpaVzvvk1F) | [The Fiddle Case](https://open.spotify.com/artist/4sk1ZccF7bAlhBzdg5lgta) | [Write Me a Letter](https://open.spotify.com/album/1fa4LBlNsValNBZCwGmTPf) | 4:07 |
 | 40 | [Óró Sé Do Bheatha 'Bhaile](https://open.spotify.com/track/0AsIdSOFy2Rf6B209mwUwv) | [Screaming Orphans](https://open.spotify.com/artist/41fubq9QRf4B3bjtQmLxy6) | [Belle's Isle](https://open.spotify.com/album/7kvG8SSqWGDlgKhT79E68B) | 2:10 |
 | 41 | [A Woman's Heart](https://open.spotify.com/track/6CJYvbt1i1JOTRH5gSyyl4) | [Eleanor McEvoy](https://open.spotify.com/artist/50SDcJ4wO9jS355IoJc7O9), [Mary Black](https://open.spotify.com/artist/25W55yzID8F5bRKG8Zg2IA) | [A Woman's Heart](https://open.spotify.com/album/4H2Hfi1cJZjs46H51HLVNi) | 3:50 |
-| 42 | [Whiskey In The Jar](https://open.spotify.com/track/5rGF96eFDF8u5cAZgG8fUD) | [Jerry Garcia](https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN), [David Grisman](https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O) | [Shady Grove](https://open.spotify.com/album/0CygLXo95xtf8B0yfL4P5y) | 4:15 |
+| 42 | [Whiskey In The Jar](https://open.spotify.com/track/7C8LYd0gWShnWlVtJkfyu4) | [Jerry Garcia](https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN), [David Grisman](https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O) | [Shady Grove](https://open.spotify.com/album/4TzjXblEhAFlROlaSD5UN0) | 4:15 |
 | 43 | [Song for Ireland](https://open.spotify.com/track/0wswRAqRTpcParjZXrZrYh) | [Mary Black](https://open.spotify.com/artist/25W55yzID8F5bRKG8Zg2IA) | [Song for Ireland](https://open.spotify.com/album/6z6aLF0UGTqnWYeDMggP2W) | 4:55 |
 | 44 | [Portlaoise Jail](https://open.spotify.com/track/1Bp0JcbfQqCSNDz0CjXwkF) | [Jordan O'Leary](https://open.spotify.com/artist/6MNNdtDu02t5Ql8vab4DlK) | [The Burren Tapes](https://open.spotify.com/album/1PcIvSCbM8ParYqHZeEd2i) | 2:07 |
 | 45 | [The Green Fields Of France](https://open.spotify.com/track/6VQMWNYjOxkMgjUF7gXYuv) | [The Clancy Brothers](https://open.spotify.com/artist/4qWTqOdDnH56Qak9UjmpKz) | [Live! With Robbie O'Connell](https://open.spotify.com/album/1HoOhtavRMJLh55InkUoFp) | 6:25 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y2xcY13mN1.md) - [plain]
 | 51 | [The Town I Loved So Well](https://open.spotify.com/track/6HJ5tXU3bPGx0ONBeh9EYs) | [Phil Coulter](https://open.spotify.com/artist/3Hm9DJ7Xa8YgiCAa7MoSiP) | [Words & Music](https://open.spotify.com/album/5ZZJHQbMplpRvMgFF5HatY) | 6:25 |
 | 52 | [The Lass of Aughrim](https://open.spotify.com/track/2s1enAmUiPrslpVQcJpnLq) | [Lisa O'Neill](https://open.spotify.com/artist/3fZ2IQpHixtBtUtDo7MWpV) | [Heard A Long Gone Song](https://open.spotify.com/album/6hGCF6U1vanh8KJZgAq66m) | 2:11 |
 
-Snapshot ID: `MCxlYTIwZTc0ODFmOGY0NTQ2N2EyMjg3MzU5Mzk2NzExZTYxM2JmNDE3`
+Snapshot ID: `MCwzMjk0Y2U2NmI3NGI1ZWU4NTMyMmQ1NjNiZWY1NDFjNGRmNjJjMjJi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 
 > Encuentra la paz interior con esencias y vibraciones místicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,940 likes - 97 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,944 likes - 97 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 | 23 | [Fata Morgana](https://open.spotify.com/track/6zRvf3jurHHzJ1n0le2Sv9) | [Sherry Finzer](https://open.spotify.com/artist/5udY4J3ruydRyg98yxTRHw), [Elise](https://open.spotify.com/artist/1s2FeB2te4ulS2txcWxWiT) | [Fata Morgana](https://open.spotify.com/album/505m8WKfTZiorTjwGvxZHX) | 8:29 |
 | 24 | [Flow](https://open.spotify.com/track/24S8iaidseXQRjB95t3P4E) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Flow](https://open.spotify.com/album/7zh4s3MKpQp4Rv878PH9J5) | 4:17 |
 | 25 | [Wander](https://open.spotify.com/track/5S2QBHpK9SrxeuOHHTpHqd) | [Nima Noi](https://open.spotify.com/artist/16FXG6RNdKhKWL12WRvBZy) | [Wander](https://open.spotify.com/album/4NjEMm80IvOoNIqJYk4CrY) | 3:20 |
-| 26 | [A Careful Distance](https://open.spotify.com/track/24b8lmDtpjBsM6IDinj82G) | [Theo Travis](https://open.spotify.com/artist/4wnrnvlmW7Mn2H7vRW1Xli), [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl) | [Discretion](https://open.spotify.com/album/3cZqOheFXCDYXY9zBDLU8V) | 8:01 |
+| 26 | [A Careful Distance](https://open.spotify.com/track/1aK9OifDpy3VWWxrKrSQ7l) | [Theo Travis](https://open.spotify.com/artist/4wnrnvlmW7Mn2H7vRW1Xli), [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl) | [Discretion](https://open.spotify.com/album/5umJSwOxDAU0wHLS51rr5O) | 8:01 |
 | 27 | [Influunt](https://open.spotify.com/track/5EqLPY2wxABvnCh9gW2sUQ) | [Zibra Inguzu](https://open.spotify.com/artist/1LNciO7hxkWoSQ3V8OWNQF) | [Yoga Gong Karma](https://open.spotify.com/album/1T9xagnSXjguJIoXiidlly) | 2:56 |
 | 28 | [Healing Spirit](https://open.spotify.com/track/54a75Z1C4UZgC2D0Wd2lMb) | [Astral Rhythms](https://open.spotify.com/artist/3tA7xzQw6J6EQOEG9Si5ii) | [Calming Rhythms For Meditation](https://open.spotify.com/album/1pZSnXLdAFJTrKXTJgNDQc) | 2:20 |
 | 29 | [Ethereal Harmony](https://open.spotify.com/track/2NAqFzi7h1xdcIV4XPNY5r) | [Ewa Delvina](https://open.spotify.com/artist/3WTCerCMGjap4tNkKlGjsD) | [Ethereal Harmony](https://open.spotify.com/album/7oTpJCJjf6q9QRPeT6Mow0) | 2:05 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 | 96 | [Hot Stone Massage](https://open.spotify.com/track/6ECjbXSjaUHBkAig0SipLD) | [Healing Oriental Spa Collection](https://open.spotify.com/artist/0LohrwJvGCI9TAxhXIDf2v) | [Asian Meditation and Relax \(Oriental Soothing Music, Yoga, Massage & Zen Spa\)](https://open.spotify.com/album/1j3G1QVFmF1twCSAA0zgL9) | 3:59 |
 | 97 | [Dream Birds](https://open.spotify.com/track/10XcNcTJsPmsnqjiI0aUeE) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Dream Birds](https://open.spotify.com/album/16PvXp8E8Sw3IxQRrokYq3) | 2:20 |
 
-Snapshot ID: `MCwxNDRhZmVlMjI5YmViNTQxODk3NzQ0OTNhYzZjYTI1ZmYyMzAzYmIw`
+Snapshot ID: `MCw4MDEyYTZmZjAyNzAxYzIzMTk5MTljM2RjOTlhNmE4ZTI5MDU1MmFh`

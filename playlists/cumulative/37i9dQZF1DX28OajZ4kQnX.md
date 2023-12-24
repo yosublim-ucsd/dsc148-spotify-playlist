@@ -4,13 +4,14 @@
 
 > Kick it with some of the hottest bars from Uganda +256
 
-142 songs - 8 hr 9 min
+143 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4](https://open.spotify.com/track/6mIVsZSRdArkSIyRBZsckR) | [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [RZR](https://open.spotify.com/album/6rGinERBnSYfnZqXiH8VB4) | 1:46 | 2022-09-08 |  |
 | [Abaana Beeka](https://open.spotify.com/track/3i4bT4zBerpuDvIA6S26Aj) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ), [Joh Makini](https://open.spotify.com/artist/7w3tP6LjdsurriXhgJ3Pt0), [Flex D' Paper](https://open.spotify.com/artist/5RiWp32joZeKBuQjWsRAos) | [Strength In Numbers](https://open.spotify.com/album/28volG5cNQEUI0U8CdD6DF) | 3:04 | 2023-09-01 | 2023-09-12 |
-| [Are We Still Good?](https://open.spotify.com/track/41VojbdDH5qfSQB16MAqsb) | [GEOXwill](https://open.spotify.com/artist/5id5TWkdZmwJKutyO9u0dX) | [Are We Still Good?](https://open.spotify.com/album/7hCujP4LNU9dKP89u5S6hE) | 3:32 | 2023-04-14 |  |
+| [Are We Still Good?](https://open.spotify.com/track/4q6xJtT4ZWR00sryFu570w) | [GEOXwill](https://open.spotify.com/artist/5id5TWkdZmwJKutyO9u0dX) | [Not From This Planet](https://open.spotify.com/album/0g3lhvegS6iXoxX41qn5Q0) | 3:32 | 2023-09-11 |  |
+| [Are We Still Good?](https://open.spotify.com/track/41VojbdDH5qfSQB16MAqsb) | [GEOXwill](https://open.spotify.com/artist/5id5TWkdZmwJKutyO9u0dX) | [Are We Still Good?](https://open.spotify.com/album/7hCujP4LNU9dKP89u5S6hE) | 3:32 | 2023-04-14 | 2023-12-24 |
 | [Atiibwa](https://open.spotify.com/track/0OyULIXkDqy4QMcVN74EQi) | [Mun G](https://open.spotify.com/artist/4YRE1c6l4kkNRfT1sXCjEU) | [Omungi Atiibwa](https://open.spotify.com/album/4fR3oI5K1Y8FssSqZh3XYE) | 3:53 | 2022-09-08 |  |
 | [Badman from Kamwokya](https://open.spotify.com/track/5Lqo1CgKAavrQPyTRS96fJ) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ) | [Half the Legend](https://open.spotify.com/album/1y7Dp6HR28O95cg7ZwnvIW) | 3:24 | 2023-09-01 | 2023-09-12 |
 | [Ballin Boo](https://open.spotify.com/track/74KNdt4nx0wqoFt3kAtsXd) | [GEOXwill](https://open.spotify.com/artist/5id5TWkdZmwJKutyO9u0dX) | [TRAPSTAR](https://open.spotify.com/album/553eFEgww5vl9dGWsdPCaZ) | 3:27 | 2023-09-11 |  |

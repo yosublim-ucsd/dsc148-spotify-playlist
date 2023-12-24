@@ -60,7 +60,7 @@
     {
       "album": {
         "name": "All True Man",
-        "url": "https://open.spotify.com/album/1fJYp4Hby3qVjElqhemDpc"
+        "url": "https://open.spotify.com/album/67GlTIuBHpF1BIHuZvqAjl"
       },
       "artists": [
         {
@@ -75,6 +75,28 @@
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 244501,
+      "name": "All True Man",
+      "url": "https://open.spotify.com/track/2razQWxhIPRTNHpUl59uuX"
+    },
+    {
+      "album": {
+        "name": "All True Man",
+        "url": "https://open.spotify.com/album/1fJYp4Hby3qVjElqhemDpc"
+      },
+      "artists": [
+        {
+          "name": "Big Head Todd and The Monsters",
+          "url": "https://open.spotify.com/artist/1lOQRP0UJWmpoDWBa8PB0B"
+        },
+        {
+          "name": "Ronnie Baker Brooks",
+          "url": "https://open.spotify.com/artist/1R61o55489TKal84OYdcnI"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
       "duration_ms": 244501,
       "name": "All True Man",
       "url": "https://open.spotify.com/track/7BSI3B5WACBr9Q4QFSo9hu"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ohzEbixOOm4WIHIK3m2RM">Bijan Amir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61 likes - 91 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 62 likes - 91 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 2 | [Xion](https://open.spotify.com/track/5BXGLYOc7VY1YZsrLYDOxZ) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [IMMIGRANT](https://open.spotify.com/album/01OhPa84ZZEYBZl2Lvo4iZ) | 2:14 |
 | 3 | [I'm Ready For You](https://open.spotify.com/track/1zmv0tPVWdbCuvBw90MYwO) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [A N N I V E R S A R Y](https://open.spotify.com/album/5KpXxX7OUDXRs25qLyN8NA) | 2:54 |
 | 4 | [Numeri](https://open.spotify.com/track/7mVV2Rb9IpbsklRP9Mfz11) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [MM Vol\. 3](https://open.spotify.com/album/0XjprOLOCfbY7TWnviw4ft) | 2:12 |
-| 5 | [Flashback](https://open.spotify.com/track/5HOkVAzmr3iDjBaIJH3CTb) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [DNA](https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l) | 3:37 |
+| 5 | [Flashback](https://open.spotify.com/track/3M6uWThUeXWV1HCYnBz4wI) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [Flashback](https://open.spotify.com/album/5l6Vbwho1oOexmkQ5GnBKu) | 4:03 |
 | 6 | [NEO](https://open.spotify.com/track/7onHzHeOVE3M9p0tNKQbXc) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [TWOPOINTFIVE](https://open.spotify.com/album/0KkHzH0uia9zwPbrCbS6NY) | 2:03 |
-| 7 | [He Say She Say](https://open.spotify.com/track/2DOwIiI5L9lWsoUnZQlUqr) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Queen of Da Souf](https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF) | 2:24 |
+| 7 | [He Say She Say](https://open.spotify.com/track/7uJHdZPYExYDB6c23qjSrL) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [He Say She Say \(Official Video\)](https://open.spotify.com/album/7o8mAtcvmvKJwEpZVXJRrB) | 2:26 |
 | 8 | [DWAY!](https://open.spotify.com/track/0IbaAAp2pL2QMCshGQlvTe) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [MIRRORS](https://open.spotify.com/album/38Haveja8WznqiccCDJKHz) | 2:25 |
 | 9 | [Manta](https://open.spotify.com/track/2ckGH6FtxWeAv0SskcREd1) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [无限意识 Meta Ego](https://open.spotify.com/album/1ON6zUsWnFa7nlo5YbDkoD) | 3:22 |
 | 10 | [Bing James \(ft\. Jay Rock\)](https://open.spotify.com/track/3wGkYZLDYtULqg635DyKw8) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [Funeral](https://open.spotify.com/album/2x657XotA7LCsPElXmXX4W) | 3:23 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 55 | [Washing Machine](https://open.spotify.com/track/2W6zBqZSsoeGgBHmXNvLER) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Washing Machine](https://open.spotify.com/album/0QyvrkxKHVpxDckhyAjNMP) | 2:52 |
 | 56 | [DIBBY DIBBY](https://open.spotify.com/track/4AU668eWG5FicichFuxyuJ) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef) | [BECAUSE WE'RE ALIVE](https://open.spotify.com/album/6wZMRN2p4tG53w6ixx16wS) | 3:36 |
 | 57 | [VENDETTAS](https://open.spotify.com/track/6cdcUEiQE1rfqKeJS5S2FA) | [SuziWithAnUzi](https://open.spotify.com/artist/4iIcCz80dZo1cBHxdMbe9D) | [VENDETTAS](https://open.spotify.com/album/5Sl8vLxKHGY2WMtAHdr1ED) | 2:06 |
-| 58 | [Change](https://open.spotify.com/track/2Xxbnw5x0yCRSGR2tJca7l) | [Hudson East](https://open.spotify.com/artist/0DwPrw4Zd15m2cdnpbwGKq) | [Eastway](https://open.spotify.com/album/1l54zzRXrwYV9e2WowPu0D) | 3:49 |
-| 59 | [PAIN](https://open.spotify.com/track/7noiirqWf873QPe1jHDNDG) | [Mamazi](https://open.spotify.com/artist/4L42EENVSu2ZE8cwhVVeh8) | [OMA](https://open.spotify.com/album/2z63Hv1guNfteDwzK26QIs) | 2:09 |
+| 58 | [PAIN](https://open.spotify.com/track/7noiirqWf873QPe1jHDNDG) | [Mamazi](https://open.spotify.com/artist/4L42EENVSu2ZE8cwhVVeh8) | [OMA](https://open.spotify.com/album/2z63Hv1guNfteDwzK26QIs) | 2:09 |
+| 59 | [Change](https://open.spotify.com/track/2Xxbnw5x0yCRSGR2tJca7l) | [Hudson East](https://open.spotify.com/artist/0DwPrw4Zd15m2cdnpbwGKq) | [Eastway](https://open.spotify.com/album/1l54zzRXrwYV9e2WowPu0D) | 3:49 |
 | 60 | [Big Things](https://open.spotify.com/track/2K08mIndQivtEZEbPAYXqf) | [CalVin](https://open.spotify.com/artist/7rJxklCqe6KJGSK3duDt4Q) | [Talk My Shit Starr \(Deluxe\)](https://open.spotify.com/album/7dmXvkChLHyjuwKWmnHrmj) | 2:28 |
 | 61 | [25 & Whyln](https://open.spotify.com/track/5odinvHa3W2Vb2iBX1f6am) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [C.C.W.M.T.T.](https://open.spotify.com/album/72ngHxTrw6AJuDBPlZhnX2) | 11:18 |
 | 62 | [LowBatt](https://open.spotify.com/track/0mJlScE5wSE1LW2IrVmbMD) | [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [Gravity](https://open.spotify.com/album/27QdjDHdl4pbV4vNF0S4T2) | 2:41 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSjzqQFCSWMM.md) - [plain]
 | 90 | [Voices](https://open.spotify.com/track/25ZeuWx1B76UrJyAw1QkFl) | [Vince Scxtt](https://open.spotify.com/artist/4P4gnvY04k1Y1oPYP9l3Wj), [Bijan Amir](https://open.spotify.com/artist/7G6pqpOOxg1fcLZwhP2QLM) | [Voices](https://open.spotify.com/album/1JShKB2CB7LY4woAzIznr6) | 1:48 |
 | 91 | [Elegance](https://open.spotify.com/track/4cQihinpyYCh5inmJdMgZB) | [Wilson Raps](https://open.spotify.com/artist/3FLQlrK3Mbj5eTvTmVp5nn) | [Worldwide Waves](https://open.spotify.com/album/0DURT30u8OxZRNbehztSae) | 3:19 |
 
-Snapshot ID: `MjgzODgyODAsMDAwMDAwMDA1YjA0NzBiNDZmYzNjYzRhMTllYTY3MDE1OGRmNjdmZg==`
+Snapshot ID: `MjgzODk3MjAsMDAwMDAwMDBiZDQ0M2I5NDRjMTQ3N2ZmMmY4MjY3NzJkZDAwYzI1Nw==`

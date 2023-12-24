@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Idina Menzel
 
-235 songs - 14 hr 45 min
+236 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,8 @@
 | [Pretty Please \(Supertaste Disco Mix\)](https://open.spotify.com/track/7eiElj5joARyuFX5We14Gr) | [Delia Dane](https://open.spotify.com/artist/1415hXnajD3tifd1UF1N4x), [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6) | [Pretty Please \(Supertaste Disco Mix\)](https://open.spotify.com/album/2eXBDhdo7LsJL7PH5tDUiK) | 3:41 | 2022-01-28 |  |
 | [Pretty Please \- Supertaste Disco Mix](https://open.spotify.com/track/2EgXnTdWnh4Z4GCwjkwbCI) | [Delia Dane](https://open.spotify.com/artist/1415hXnajD3tifd1UF1N4x), [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6) | [Pretty Please \(Supertaste Disco Mix\)](https://open.spotify.com/album/4lcOO4b226jeXKOZ1VTIcm) | 3:41 | 2022-01-28 | 2022-10-31 |
 | [Queen \- Cool Company Remix](https://open.spotify.com/track/0AgZmFOM3Yq0Zok6OlvHve) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb), [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn) | [Queen \(Cool Company Remix\)](https://open.spotify.com/album/1UOeukefSXVZIOA4s8qt3O) | 2:36 | 2022-06-24 | 2023-03-18 |
-| [Real Love](https://open.spotify.com/track/0DYZUV1290HJrt0MM9yKa0) | [Sleepy Tom](https://open.spotify.com/artist/1D9XQXqh4YQfJwX7hyLWwr), [Ngaiire](https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY) | [Real Love](https://open.spotify.com/album/5QW6KOV70T8IuJGzRwP7GA) | 3:02 | 2023-01-20 |  |
+| [Real Love](https://open.spotify.com/track/0DYZUV1290HJrt0MM9yKa0) | [Sleepy Tom](https://open.spotify.com/artist/1D9XQXqh4YQfJwX7hyLWwr), [Ngaiire](https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY) | [Real Love](https://open.spotify.com/album/5QW6KOV70T8IuJGzRwP7GA) | 3:02 | 2023-01-20 | 2023-12-24 |
+| [Real Love](https://open.spotify.com/track/7EXaXpZWbySCGLGzQu00CD) | [Sleepy Tom](https://open.spotify.com/artist/1D9XQXqh4YQfJwX7hyLWwr), [Ngaiire](https://open.spotify.com/artist/0EMVeXueWGhcbbOvevDZPY) | [Real Love](https://open.spotify.com/album/5SBHEdBAFd66bDrMMCne6s) | 3:02 | 2023-01-20 |  |
 | [Remedy](https://open.spotify.com/track/1SwdyY367WF7OwvOZl2yml) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX) | [Remedy](https://open.spotify.com/album/3FxEc6csJOvdBtEEOrmJ6I) | 4:28 | 2022-01-28 | 2022-12-17 |
 | [Retro Magic](https://open.spotify.com/track/6WcSloWfbligJNDfwW46uF) | [Donhowe](https://open.spotify.com/artist/2URXP6KVyz1y7IymENllRT), [Koa](https://open.spotify.com/artist/4bTth1ur0qKM60o2f5kEXU) | [Retro Magic](https://open.spotify.com/album/0vb9Cd173VFK7FKhoYd7r5) | 2:44 | 2022-04-15 | 2023-10-07 |
 | [Riviera](https://open.spotify.com/track/6XCKim7nYMo1JeSn6RrE8j) | [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj), [Saint Rock](https://open.spotify.com/artist/6C6t0KhFTcGHV7nUlPdjrK) | [Riviera](https://open.spotify.com/album/2oOkCQpBeEPRwdsbU7ILa7) | 2:49 | 2023-03-10 | 2023-07-01 |

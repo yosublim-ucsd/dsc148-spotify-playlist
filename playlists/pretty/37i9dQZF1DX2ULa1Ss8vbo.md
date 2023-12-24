@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ULa1Ss8vbo.md) - [plain]
 
 > Songs from the old country: the essential traditional Irish ballads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,574 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,604 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ULa1Ss8vbo.md) - [plain]
 | 46 | [Danny Boy](https://open.spotify.com/track/5f2ml25PS6hLYtADGsiTVk) | [Frank Patterson](https://open.spotify.com/artist/3UZc24DOYrUhFnDPNw1L8A) | [Memories of Ireland](https://open.spotify.com/album/570ebwhbkrU1bGIpG1zpGN) | 4:35 |
 | 47 | [The Banks of My Own Lovely Lee](https://open.spotify.com/track/7akq65cZi4VVRunPO2oocJ) | [Joe Lynch](https://open.spotify.com/artist/3BWwtO1ioC4fSSsgjGhrAF) | [Joe Lynch](https://open.spotify.com/album/3yg2BbVmg026qkxtJm6gKh) | 2:47 |
 | 48 | [Báidín Fheilimí](https://open.spotify.com/track/5fGkh5uh6XDRptv3WEF9A4) | [Caera](https://open.spotify.com/artist/2OzigumcbZNfTxnT1aacDw) | [Traditional Irish Gaelic Children's Songs](https://open.spotify.com/album/0pss1phhhe7ykfusGB0ck1) | 1:52 |
-| 49 | [The Rose Of Tralee](https://open.spotify.com/track/5iPqNP3HIuyyOQmUkO1vYs) | [The Irish Tenors](https://open.spotify.com/artist/2QehFI9eDvwgtDxEharMPu) | [Live From Ellis Island](https://open.spotify.com/album/67UDn5SBqvaofJRqzJaIcJ) | 4:48 |
+| 49 | [The Rose Of Tralee](https://open.spotify.com/track/4VwvxjCGSe36k8LjBmB5or) | [The Irish Tenors](https://open.spotify.com/artist/2QehFI9eDvwgtDxEharMPu) | [Live From Ellis Island](https://open.spotify.com/album/0O1J3RzGqLJkbalVzmYh1c) | 4:48 |
 | 50 | [James Connolly](https://open.spotify.com/track/1hoXIRlsnmnW6DP64mJmBM) | [Damien Dempsey](https://open.spotify.com/artist/0bmF1w9eyJrY4CHyjpTQOW) | [No Force On Earth](https://open.spotify.com/album/5NTLr7uctFVYnAIiPqVkfN) | 5:06 |
 
-Snapshot ID: `MCwzMzAwY2MzYWExMjgxYTUzZDkwNmEyYmUwZGM2MzA2ZDNiNTZkNDcz`
+Snapshot ID: `MCw3ZDRkNzNlOTJhMDA5NTZmMDhkNDRhMWFkZTNmZGI4YTU0MmQwMjI4`

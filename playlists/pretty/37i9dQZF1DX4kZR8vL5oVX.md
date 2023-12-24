@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 > Les femmes montent le son\. Photo : Hoshi
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,623 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,638 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 7 | [Ma muse](https://open.spotify.com/track/15289bif39XeHySV6FndDb) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [ATHENA](https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP) | 2:58 |
 | 8 | [Alabama](https://open.spotify.com/track/0vJxo7x6jnFKbtFgtihMvJ) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Plaisir Risque Dépendance](https://open.spotify.com/album/6Xadqm9viEhsKgp0zRp8Gc) | 3:34 |
 | 9 | [Doudou](https://open.spotify.com/track/6xwpSBoQSGktrBuSg19rYU) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW) | [Evidence](https://open.spotify.com/album/2h6EgCJTdQ57YGsmp4pCII) | 3:24 |
-| 10 | [Move Up](https://open.spotify.com/track/5CHLrR3jUJhHl2PIuZNBKf) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Move Up](https://open.spotify.com/album/695Ypfc1tMeSbGX2l8aEbJ) | 6:21 |
+| 10 | [Move Up](https://open.spotify.com/track/4mxoDuIrL1O0BveAXpX2lD) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a) | [Move Up](https://open.spotify.com/album/1mTSoVUWOXdRJdvPE6Jxfn) | 6:21 |
 | 11 | [L'angle mort](https://open.spotify.com/track/31nIHzMgas22eRMulfndqF) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Pause](https://open.spotify.com/album/4LydZSdKsiddSZKUSAII46) | 2:24 |
 | 12 | [One Big Mess](https://open.spotify.com/track/75o3FmX9UgTjT3H05EOuzg) | [Laura Cox](https://open.spotify.com/artist/1Olw3LDdz2RWOLV491bG75) | [Head Above Water](https://open.spotify.com/album/43wOARGtAmtXQV41znk4Lj) | 3:56 |
 | 13 | [Tristesse](https://open.spotify.com/track/5FjLuHP3oJYLxqPZ3APut1) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 49 | [Billie](https://open.spotify.com/track/6f2wFw4FkmQBNNdQtVOG9U) | [NAYRA](https://open.spotify.com/artist/1hNiaDCXQvVRhVSJHsaDmZ) | [Riah](https://open.spotify.com/album/6XwXe4EupREg0ie6JbsKgb) | 2:51 |
 | 50 | [Buzzing Bee](https://open.spotify.com/track/4qSGkTqUiH5Kd7LYsCRVUJ) | [Gabi Hartmann](https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn) | [Gabi Hartmann](https://open.spotify.com/album/1blq9cHNkbEFBPNUyUNRLv) | 3:21 |
 
-Snapshot ID: `MCxjOTQxNDA1MjY0NTc3NzgzODk4ZGNhMDgxZThiMjE2NzNiZTNjNDRj`
+Snapshot ID: `MCxiMTVmNjNlODNkOWE5MTIwMGVlM2EyZDI1NjM2NzVmZjcxNzI5NDI5`

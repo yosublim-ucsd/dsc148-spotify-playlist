@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 
 > Country rap songs, made to be cranked up\. Cover: Brantley Gilbert and Jelly Roll
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,380 likes - 74 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,383 likes - 74 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 30 | [Crank It Up](https://open.spotify.com/track/3mqrfe5u8PY39YNwlYME25) | [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx) | [Thanks for Listening](https://open.spotify.com/album/3WtqSu0KlVlyDURmFqBjdY) | 3:20 |
 | 31 | [We All Country \(feat\. Colt Ford, Sarah Ross & Charlie Farley\)](https://open.spotify.com/track/2SGjJdLuSIvyVB5eXAJXm7) | [Moonshine Bandits](https://open.spotify.com/artist/7DBsiQxsZAKC5lHoRCdOFG), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Sarah Ross](https://open.spotify.com/artist/6BHFfCwwWCOGRNSZAxNvrk), [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk) | [Calicountry](https://open.spotify.com/album/5LeysSgG4R2gezyQYFWKsv) | 4:22 |
 | 32 | [Confetti](https://open.spotify.com/track/1xnC3VLI8sHm3nh60q4Hzo) | [Shelbykay](https://open.spotify.com/artist/6VlMPSbIYyHng6Xx1JmnXD) | [Confetti](https://open.spotify.com/album/3CZ9ox5C5n3dWT4OIX9aTg) | 2:03 |
-| 33 | [Willie Nelson \(feat\. Nate Kenyon\)](https://open.spotify.com/track/4vcHeAH1Zcg7bF74PfaFlO) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Nate Kenyon](https://open.spotify.com/artist/18uDt2CmzLwhbVUORHE6x4) | [Dirt Rock](https://open.spotify.com/album/5fVHkVelQbRQs1QfFDCHk7) | 3:49 |
-| 34 | [MAGIC CITY COWBOY](https://open.spotify.com/track/4578UyGpgGCGZHfSlHOwFc) | [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2) | [MAGIC CITY COWBOY](https://open.spotify.com/album/0FHMiGXQjSFEDD5vurEkGU) | 2:04 |
+| 33 | [MAGIC CITY COWBOY](https://open.spotify.com/track/4578UyGpgGCGZHfSlHOwFc) | [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2) | [MAGIC CITY COWBOY](https://open.spotify.com/album/0FHMiGXQjSFEDD5vurEkGU) | 2:04 |
+| 34 | [Willie Nelson \(feat\. Nate Kenyon\)](https://open.spotify.com/track/4vcHeAH1Zcg7bF74PfaFlO) | [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Nate Kenyon](https://open.spotify.com/artist/18uDt2CmzLwhbVUORHE6x4) | [Dirt Rock](https://open.spotify.com/album/5fVHkVelQbRQs1QfFDCHk7) | 3:49 |
 | 35 | [Good Vibes Only](https://open.spotify.com/track/0tAdSd0ZUVmkFZng2FiLt5) | [Dusty Leigh](https://open.spotify.com/artist/78n0vEA36pwCD6Vzzg7Ynr), [Justin Champagne](https://open.spotify.com/artist/7Db8AKNMsmpj2CN9H8lVxH) | [The Colonel](https://open.spotify.com/album/5SalPE1kM0kQstTj137IwD) | 2:37 |
 | 36 | [Kings of the Mud](https://open.spotify.com/track/54jDc12TvfTZ2fteYPhaWM) | [Bezz Believe](https://open.spotify.com/artist/0J7ABQoXv0zSACmQXz8nqq), [Bubba Sparxxx](https://open.spotify.com/artist/3RPYHNSwe3w0mtfJwKIN9P) | [Kings of the Mud](https://open.spotify.com/album/0ynwiSbuK9fn4JqLbdq0M8) | 2:50 |
 | 37 | [Country Made](https://open.spotify.com/track/0kvkHlDvoALmZU8pzkXTur) | [Lenny Cooper](https://open.spotify.com/artist/4GhUchfx0YFPsDaXZRJp8v), [Young Gunner](https://open.spotify.com/artist/5U4zQH57FFSIBvYigOk7G1), [J Rosevelt](https://open.spotify.com/artist/49o8zl9XztPTeGDc5D0xaj) | [Still The King](https://open.spotify.com/album/203wsuneFV8jM0aYimR0TR) | 3:29 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0fQ4sGOnVJ.md) - [plain]
 | 73 | [Buckle Bunny](https://open.spotify.com/track/17KfodDyg0yKQYmjGGGnlA) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY](https://open.spotify.com/album/0s3PLrYRp1PojvP8W9g1qS) | 3:12 |
 | 74 | [Cowboy Way](https://open.spotify.com/track/70R1opiyUhg85fPBxDNXnC) | [The Maverick Mikel Knight](https://open.spotify.com/artist/2f61PbhZSlFWpeivtUnjUg) | [Urban Cowboy \(Where the City Meets the Country\)](https://open.spotify.com/album/5DdiauojX80Z5jFYM7gGkf) | 4:38 |
 
-Snapshot ID: `MCw1OGU3ZDFhMzM2MmNiM2ExNWFkYWQ5OTRiMWYzMjZmOGFkZWQ3ODVk`
+Snapshot ID: `MCxlMTZjODY4OGJkZTNmM2U3NTEzNGYwYmRhMzUwNGYwOWZhNjNlZGNh`

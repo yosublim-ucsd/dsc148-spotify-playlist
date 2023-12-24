@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawR86Jfwxln.md) - [plain]
 
 > Our editors' picks for the best Folk & Americana songs this year\. Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,238 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,266 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXawR86Jfwxln.md) - [plain]
 | 94 | [Mean Old Sun](https://open.spotify.com/track/1DFAVRFF65zqaOUQtLoEtx) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [A Cat in the Rain](https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8) | 4:08 |
 | 95 | [hazelton](https://open.spotify.com/track/7AU4mE70UDz5cWby5fFYeg) | [Justin Vernon](https://open.spotify.com/artist/13rHmjtJmlIJ2aDyJc7CLV) | [hazeltons](https://open.spotify.com/album/7eeYs74FyKAvOrAxVvO617) | 3:01 |
 | 96 | [Ribbons](https://open.spotify.com/track/0LgXKAaGOJBUgB1eiVQVzo) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Ribbons](https://open.spotify.com/album/0oWHWfpWH7554ZohZEJla4) | 3:17 |
-| 97 | [Two Heads, Grey Mare](https://open.spotify.com/track/7hbxC92Qr34lDZQWLiBuKh) | [Cinder Well](https://open.spotify.com/artist/6BJ7iUkCa68mX6UnFBwzsV) | [Cadence](https://open.spotify.com/album/3JbWIzI320YwRDOY3EoRSG) | 4:41 |
+| 97 | [Two Heads, Grey Mare](https://open.spotify.com/track/4Rxt20xtEiEJWB5CTRRNbb) | [Cinder Well](https://open.spotify.com/artist/6BJ7iUkCa68mX6UnFBwzsV) | [Cadence](https://open.spotify.com/album/5FkjAV7AiEFbdtRbsq2hrT) | 4:41 |
 | 98 | [68](https://open.spotify.com/track/1qlyWMMDGkXAjFehdUKGJ7) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [68](https://open.spotify.com/album/51JORfnib4vdjiXHAouErb) | 3:27 |
 | 99 | [Go Down, Appalachia](https://open.spotify.com/track/5o4FPf6PxgN6HriyRdsY9h) | [Pony Bradshaw](https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi) | [North Georgia Rounder](https://open.spotify.com/album/5WD3kJqvqnnEGl3B2pVh2U) | 3:10 |
 | 100 | [Elsewhere](https://open.spotify.com/track/4YAtKBCcxo3GRoph3gg8rQ) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [The Happiest Times I Ever Ignored](https://open.spotify.com/album/11XMyarEmUmkEW1FabtEi9) | 5:28 |
 
-Snapshot ID: `MCwwYmUzZjYzOWFmZWRkOWZkNGIwZWQ5YmZlYjZkOTNjMDIzYTcyODk0`
+Snapshot ID: `MCwyMTUzZGUwODgzNTM2MDJlYjI3NTE5ZTQ4YjVhMTgzYzQ2MjgyYThl`

@@ -3790,7 +3790,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [OPM Favorites](/playlists/pretty/37i9dQZF1DX4olOMiqFeqU.md)
 - [OPM Says Chillax](/playlists/pretty/37i9dQZF1DX7Jerj8LqApV.md)
 - [OTW](/playlists/pretty/37i9dQZF1DX5ENxuuyTX48.md)
-- [Obama’s Summer Playlist 2023 \| Favorite Songs of 23](/playlists/pretty/3xN6J0LCyVj8k1gVCguWRH.md)
+- [Obama’s Summer Playlist 2023 \| Favorite Songs of 2023](/playlists/pretty/3xN6J0LCyVj8k1gVCguWRH.md)
 - [Oblique](/playlists/pretty/37i9dQZF1DWWv8B5EWK7bn.md)
 - [Ocean Waves](/playlists/pretty/37i9dQZF1DX9if5QDLdzCa.md)
 - [Oceanvs Orientalis' track IDs](/playlists/pretty/37i9dQZF1DX6NYc6NOT7sQ.md)

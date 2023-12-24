@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Turn on the movement with the latest and greatest in K-Pop! Cover: BABYMONSTER",
+  "description": "Turn on the movement with the latest and greatest in K-Pop! Cover: NCT 127",
   "name": "K-Pop ON! (\uc628)",
   "tracks": [
     {
@@ -522,6 +522,24 @@
       "duration_ms": 188179,
       "name": "BATTER UP",
       "url": "https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG"
+    },
+    {
+      "album": {
+        "name": "Be There For Me - Winter Special Single",
+        "url": "https://open.spotify.com/album/0uJxcHEh5lpFMd971KU7Wd"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217933,
+      "name": "Be There For Me",
+      "url": "https://open.spotify.com/track/1Lkd4pjGFQilS5zPoMnLL7"
     },
     {
       "album": {
@@ -1514,7 +1532,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 169040,
       "name": "CRUSH",
       "url": "https://open.spotify.com/track/2qiWQf7ka0C4XoA7JAZ1q5"
@@ -4785,6 +4803,24 @@
     },
     {
       "album": {
+        "name": "NewJeans X MY DEMON",
+        "url": "https://open.spotify.com/album/31chdu7JhVd0sC9X7sURNb"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192411,
+      "name": "Our Night is more beautiful than your Day",
+      "url": "https://open.spotify.com/track/11YovYUVkZdLyOFncbecWL"
+    },
+    {
+      "album": {
         "name": "OVERDRIVE",
         "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
       },
@@ -5450,7 +5486,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 195688,
       "name": "S-Class",
       "url": "https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd"
@@ -5848,6 +5884,24 @@
       "duration_ms": 179453,
       "name": "SNEAKERS",
       "url": "https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm"
+    },
+    {
+      "album": {
+        "name": "Merry Go Round",
+        "url": "https://open.spotify.com/album/02QQbP6IQkaGymlMKEulGz"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212773,
+      "name": "Snowball",
+      "url": "https://open.spotify.com/track/1leUcadFG0xkJXoA6KDLlJ"
     },
     {
       "album": {
@@ -6342,7 +6396,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 190941,
       "name": "Talk Saxy",
       "url": "https://open.spotify.com/track/2cEwQnP4284g37N6D7ETND"

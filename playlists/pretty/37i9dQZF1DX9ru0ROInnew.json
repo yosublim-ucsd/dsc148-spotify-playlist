@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 111810,
+  "num_followers": 111845,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzk3MWNkZWVmMTQyOTIxOGM5Mjk3Y2YzMmE1N2ZjNTEyZWFiODEx",
+  "snapshot_id": "MCwzMDQ5MDUxNWYxNmUwYTU4M2JiNjU1NThjNDM4NjBhYmI3YjRjMjUx",
   "tracks": [
     {
       "added_at": "2023-05-25 17:50:01",
@@ -359,6 +359,38 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Me Ama Me Odia",
+        "url": "https://open.spotify.com/album/3FAdUgqDYeqcvlpBTbGczq"
+      },
+      "artists": [
+        {
+          "name": "Revol",
+          "url": "https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "duration_ms": 326936,
+      "name": "Me Ama Me Odia",
+      "url": "https://open.spotify.com/track/6TZXBJLTIOX6DM6hwCsKw2"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "0 Sentimientos (Remix) [feat. Noriel, Darkiel, Lyan, Messiah & Baby Rasta]",
         "url": "https://open.spotify.com/album/4dd7tLtioKjtq7v9byyPV6"
       },
@@ -391,38 +423,6 @@
       "duration_ms": 335736,
       "name": "0 Sentimientos (Remix) [feat. Noriel, Darkiel, Lyan, Messiah & Baby Rasta]",
       "url": "https://open.spotify.com/track/4COGASZEbAxmH6k5gYMo6G"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Me Ama Me Odia",
-        "url": "https://open.spotify.com/album/3FAdUgqDYeqcvlpBTbGczq"
-      },
-      "artists": [
-        {
-          "name": "Revol",
-          "url": "https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        }
-      ],
-      "duration_ms": 326936,
-      "name": "Me Ama Me Odia",
-      "url": "https://open.spotify.com/track/6TZXBJLTIOX6DM6hwCsKw2"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -879,22 +879,18 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Gan-Ga (Remix)",
-        "url": "https://open.spotify.com/album/5P7PAnKAqVcczk8v9m23HK"
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
       },
       "artists": [
         {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 193363,
-      "name": "Gan-Ga - Remix",
-      "url": "https://open.spotify.com/track/27qRmG3zOWPvMYUkpPdQ1g"
+      "duration_ms": 222376,
+      "name": "Condenado Para El Mill\u00f3n",
+      "url": "https://open.spotify.com/track/5VIlWNT4PbYNoZLwVNz4lk"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -931,22 +927,6 @@
       "duration_ms": 216857,
       "name": "Brindemos",
       "url": "https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 222376,
-      "name": "Condenado Para El Mill\u00f3n",
-      "url": "https://open.spotify.com/track/5VIlWNT4PbYNoZLwVNz4lk"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1019,6 +999,26 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "OASIS",
+        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "YO LE LLEGO",
+      "url": "https://open.spotify.com/track/0uIfrUwwg0Z7KTitul7E3T"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Soldado Y Profeta (Remix) [feat. Ozuna, Almighty, Kendo & \u00d1engo Flow]",
         "url": "https://open.spotify.com/album/1vvOGbKeidxIS74bWGE0gz"
       },
@@ -1051,22 +1051,18 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "OASIS",
-        "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
+        "name": "Easy Money Baby",
+        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 249600,
-      "name": "YO LE LLEGO",
-      "url": "https://open.spotify.com/track/0uIfrUwwg0Z7KTitul7E3T"
+      "duration_ms": 149733,
+      "name": "Ronca",
+      "url": "https://open.spotify.com/track/0WxhO7pvOWqFJRMBQ3q3B2"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1087,22 +1083,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Easy Money Baby",
-        "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 149733,
-      "name": "Ronca",
-      "url": "https://open.spotify.com/track/0WxhO7pvOWqFJRMBQ3q3B2"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "LHNA",
         "url": "https://open.spotify.com/album/3LRLlnwyvfUL074sdXQW45"
       },
@@ -1119,46 +1099,6 @@
       "duration_ms": 200145,
       "name": "LHNA",
       "url": "https://open.spotify.com/track/0pLZ7PPAId3OLfVIPTVAz5"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Ahora Dice (Real Hasta La Muerte Remix)",
-        "url": "https://open.spotify.com/album/69kbK6RzAI23eD2TImJ687"
-      },
-      "artists": [
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Anuel",
-          "url": "https://open.spotify.com/artist/00VnRQuhdfjkeaXeDu5dlW"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 276013,
-      "name": "Ahora Dice - Real Hasta La Muerte Remix",
-      "url": "https://open.spotify.com/track/2TQTZ2TSAO5eGgkCtjxjrt"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1207,6 +1147,66 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Ahora Dice (Real Hasta La Muerte Remix)",
+        "url": "https://open.spotify.com/album/69kbK6RzAI23eD2TImJ687"
+      },
+      "artists": [
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Anuel",
+          "url": "https://open.spotify.com/artist/00VnRQuhdfjkeaXeDu5dlW"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 276013,
+      "name": "Ahora Dice - Real Hasta La Muerte Remix",
+      "url": "https://open.spotify.com/track/2TQTZ2TSAO5eGgkCtjxjrt"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Original",
+        "url": "https://open.spotify.com/album/1uZkljHrJwzshskgKsvkF3"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 246360,
+      "name": "Original",
+      "url": "https://open.spotify.com/track/7MjaU5iFujwT1gOyvJnqNp"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Emmanuel",
         "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
       },
@@ -1243,42 +1243,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Michael Myers",
-        "url": "https://open.spotify.com/album/1evEtehMxDibQZDoP2hgzJ"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 251533,
-      "name": "Michael Myers",
-      "url": "https://open.spotify.com/track/4R2fJxDWJ0HHjSgTmebdIt"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Original",
-        "url": "https://open.spotify.com/album/1uZkljHrJwzshskgKsvkF3"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 246360,
-      "name": "Original",
-      "url": "https://open.spotify.com/track/7MjaU5iFujwT1gOyvJnqNp"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "Balenciaga",
         "url": "https://open.spotify.com/album/7duWJNT7in1gss7nVc35Mj"
       },
@@ -1295,6 +1259,74 @@
       "duration_ms": 223500,
       "name": "Balenciaga",
       "url": "https://open.spotify.com/track/3iIZvct75tkk1CwbqVjsry"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Michael Myers",
+        "url": "https://open.spotify.com/album/1evEtehMxDibQZDoP2hgzJ"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 251533,
+      "name": "Michael Myers",
+      "url": "https://open.spotify.com/track/4R2fJxDWJ0HHjSgTmebdIt"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Me Llamas",
+        "url": "https://open.spotify.com/album/3acSJqw0A0SdZX6j1nfXxI"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Mark B.",
+          "url": "https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+        }
+      ],
+      "duration_ms": 327999,
+      "name": "Me Llamas",
+      "url": "https://open.spotify.com/track/3LgtCt7CVhMvNSMGoQD9i1"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Cambio de Clima",
+        "url": "https://open.spotify.com/album/3f8ilKUbFtOSPM2aVq0zCl"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "duration_ms": 241520,
+      "name": "No Ando Solo",
+      "url": "https://open.spotify.com/track/6ZEb5M7dycMbooECbG2He4"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1367,26 +1399,6 @@
       "duration_ms": 221252,
       "name": "Antes de Morirme",
       "url": "https://open.spotify.com/track/0zhkLYpmMZyjtv03haC77Y"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Cambio de Clima",
-        "url": "https://open.spotify.com/album/3f8ilKUbFtOSPM2aVq0zCl"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        }
-      ],
-      "duration_ms": 241520,
-      "name": "No Ando Solo",
-      "url": "https://open.spotify.com/track/6ZEb5M7dycMbooECbG2He4"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1491,38 +1503,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Me Llamas",
-        "url": "https://open.spotify.com/album/3acSJqw0A0SdZX6j1nfXxI"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Mark B.",
-          "url": "https://open.spotify.com/artist/0zZJhc1T0zBurhnBwQ2fcu"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Amenazzy",
-          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
-        }
-      ],
-      "duration_ms": 327999,
-      "name": "Me Llamas",
-      "url": "https://open.spotify.com/track/3LgtCt7CVhMvNSMGoQD9i1"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "Sauce Boy Freestyle II",
         "url": "https://open.spotify.com/album/2pcCqi8WObUR9hm6M60DuZ"
       },
@@ -1603,22 +1583,22 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Estamos Clear",
-        "url": "https://open.spotify.com/album/33Cnv5yRfRGyJSTG3Oq28x"
+        "name": "La Oscuridad",
+        "url": "https://open.spotify.com/album/0F7m8664oTaF5SbaqoDINb"
       },
       "artists": [
         {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
         },
         {
           "name": "Bad Bunny",
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 275186,
-      "name": "Estamos Clear",
-      "url": "https://open.spotify.com/track/1sNl87MiEoEVXffVgzh44o"
+      "duration_ms": 264905,
+      "name": "Triste",
+      "url": "https://open.spotify.com/track/6pnzUCBMwMT5rvx6PyhusZ"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1643,22 +1623,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "LowKey",
-        "url": "https://open.spotify.com/album/750shYsIKtXr6QxdSdrKgH"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 193027,
-      "name": "LowKey",
-      "url": "https://open.spotify.com/track/3aSZoM8ZylbB0xCBkGpNTg"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "A Mi Manera",
         "url": "https://open.spotify.com/album/38KUTPLiMJCq0hCxSg9iTL"
       },
@@ -1671,6 +1635,26 @@
       "duration_ms": 158786,
       "name": "A Mi Manera",
       "url": "https://open.spotify.com/track/0g9BEw3stYObQaDvgwV8It"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Estamos Clear",
+        "url": "https://open.spotify.com/album/33Cnv5yRfRGyJSTG3Oq28x"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 275186,
+      "name": "Estamos Clear",
+      "url": "https://open.spotify.com/track/1sNl87MiEoEVXffVgzh44o"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1703,18 +1687,30 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "EL OG WEEK",
-        "url": "https://open.spotify.com/album/1Q94qFhL5BcJvMDdUX52hY"
+        "name": "Mi Cubana Remix",
+        "url": "https://open.spotify.com/album/0fY6jKnL5sbBK0Euqg2dv4"
       },
       "artists": [
         {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
         }
       ],
-      "duration_ms": 233520,
-      "name": "Superaci\u00f3n",
-      "url": "https://open.spotify.com/track/0llj4eHhK6l5cEKMZjrrVD"
+      "duration_ms": 342558,
+      "name": "Mi Cubana - Remix",
+      "url": "https://open.spotify.com/track/6bbn8ctBmKsNzXCJe2CngS"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1751,30 +1747,22 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Mi Cubana Remix",
-        "url": "https://open.spotify.com/album/0fY6jKnL5sbBK0Euqg2dv4"
+        "name": "Flow Cabron",
+        "url": "https://open.spotify.com/album/3hFs9MY8X87KEb8eMhmrUd"
       },
       "artists": [
         {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+          "name": "Tali Goya",
+          "url": "https://open.spotify.com/artist/0LvzywQsf3X6Gt6aGAdlDq"
         },
         {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "ECKO",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/7viqvBP4uYljgKcqYfLkvu"
         }
       ],
-      "duration_ms": 342558,
-      "name": "Mi Cubana - Remix",
-      "url": "https://open.spotify.com/track/6bbn8ctBmKsNzXCJe2CngS"
+      "duration_ms": 226324,
+      "name": "Flow Cabron",
+      "url": "https://open.spotify.com/track/4RgTZMGajLdnDwyq2WmvB8"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1819,42 +1807,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "WOW",
-        "url": "https://open.spotify.com/album/1058NK2KNeZKPLS7k4riGS"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 217130,
-      "name": "WOW",
-      "url": "https://open.spotify.com/track/56aKqvLJGEsJgCXvczNv0i"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Flow Cabron",
-        "url": "https://open.spotify.com/album/3hFs9MY8X87KEb8eMhmrUd"
-      },
-      "artists": [
-        {
-          "name": "Tali Goya",
-          "url": "https://open.spotify.com/artist/0LvzywQsf3X6Gt6aGAdlDq"
-        },
-        {
-          "name": "Arcangel",
-          "url": "https://open.spotify.com/artist/7viqvBP4uYljgKcqYfLkvu"
-        }
-      ],
-      "duration_ms": 226324,
-      "name": "Flow Cabron",
-      "url": "https://open.spotify.com/track/4RgTZMGajLdnDwyq2WmvB8"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "Contamos & Guerreamos",
         "url": "https://open.spotify.com/album/00K5OEAAHlovfQRF3DUYPe"
       },
@@ -1883,28 +1835,8 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Bodak Yellow (feat. Messiah) [Latin Trap Remix]",
-        "url": "https://open.spotify.com/album/54rsFhEOGmqDxm6dbUl0uU"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Messiah",
-          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
-        }
-      ],
-      "duration_ms": 222720,
-      "name": "Bodak Yellow (feat. Messiah) - Latin Trap Remix",
-      "url": "https://open.spotify.com/track/1A8wl0pXbRvt3EAiOHROnt"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Los 90 Piketes",
-        "url": "https://open.spotify.com/album/4hgF36twMz8C0XVvtMUuCx"
+        "name": "EL OG WEEK",
+        "url": "https://open.spotify.com/album/1Q94qFhL5BcJvMDdUX52hY"
       },
       "artists": [
         {
@@ -1912,9 +1844,9 @@
           "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
         }
       ],
-      "duration_ms": 225933,
-      "name": "No Le Baj\u00e9",
-      "url": "https://open.spotify.com/track/2tBbqjDbpcoGUFG2ScdYha"
+      "duration_ms": 233520,
+      "name": "Superaci\u00f3n",
+      "url": "https://open.spotify.com/track/0llj4eHhK6l5cEKMZjrrVD"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1939,6 +1871,26 @@
       "duration_ms": 312232,
       "name": "Como Soy",
       "url": "https://open.spotify.com/track/7jIfxFhZSmH3LGud6D5m2w"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Bodak Yellow (feat. Messiah) [Latin Trap Remix]",
+        "url": "https://open.spotify.com/album/54rsFhEOGmqDxm6dbUl0uU"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Messiah",
+          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
+        }
+      ],
+      "duration_ms": 222720,
+      "name": "Bodak Yellow (feat. Messiah) - Latin Trap Remix",
+      "url": "https://open.spotify.com/track/1A8wl0pXbRvt3EAiOHROnt"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -1995,6 +1947,22 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Los 90 Piketes",
+        "url": "https://open.spotify.com/album/4hgF36twMz8C0XVvtMUuCx"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "duration_ms": 225933,
+      "name": "No Le Baj\u00e9",
+      "url": "https://open.spotify.com/track/2tBbqjDbpcoGUFG2ScdYha"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "Huracheee",
         "url": "https://open.spotify.com/album/1vlgEBezFraFDhkFPcUSbo"
       },
@@ -2043,6 +2011,22 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
+        "name": "Yo Siempre Ando Con Los Oidos Fresh",
+        "url": "https://open.spotify.com/album/1L05mwHVtfmhv3jEtOZlgZ"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        }
+      ],
+      "duration_ms": 196400,
+      "name": "Donde Estabas Tu",
+      "url": "https://open.spotify.com/track/30QSKagzGltOrfiUTyxgge"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
         "name": "All Star",
         "url": "https://open.spotify.com/album/19tH8qoYrpC5cvnxfJZAxh"
       },
@@ -2063,18 +2047,18 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Los 90 Piketes",
-        "url": "https://open.spotify.com/album/4hgF36twMz8C0XVvtMUuCx"
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/7uCxpXETxPlW2rErmzycRN"
       },
       "artists": [
         {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
         }
       ],
-      "duration_ms": 209333,
-      "name": "Apret\u00e9 el Bot\u00f3n",
-      "url": "https://open.spotify.com/track/2uVEFmt1nLZyUSJXLdLGX2"
+      "duration_ms": 221055,
+      "name": "Activa",
+      "url": "https://open.spotify.com/track/3VebY4KbxKq1bqWDvY5lnW"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -2099,38 +2083,6 @@
       "duration_ms": 241493,
       "name": "La Calle",
       "url": "https://open.spotify.com/track/3ee5kkhVt22MCCOOkgvdx3"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Yo Siempre Ando Con Los Oidos Fresh",
-        "url": "https://open.spotify.com/album/1L05mwHVtfmhv3jEtOZlgZ"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        }
-      ],
-      "duration_ms": 196400,
-      "name": "Donde Estabas Tu",
-      "url": "https://open.spotify.com/track/30QSKagzGltOrfiUTyxgge"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
-        "name": "Hot Nigga",
-        "url": "https://open.spotify.com/album/5ZhJHI0WF5YMB17klO9EAx"
-      },
-      "artists": [
-        {
-          "name": "Messiah",
-          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
-        }
-      ],
-      "duration_ms": 150003,
-      "name": "Hot Nigga",
-      "url": "https://open.spotify.com/track/0sWJYzJtNgoR2zUShqT8Gy"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -2167,6 +2119,54 @@
       "duration_ms": 374142,
       "name": "Blanco o Negro - Remix",
       "url": "https://open.spotify.com/track/6Bt7uEWabZzgdN0g6UQurK"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Los 90 Piketes",
+        "url": "https://open.spotify.com/album/4hgF36twMz8C0XVvtMUuCx"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "duration_ms": 209333,
+      "name": "Apret\u00e9 el Bot\u00f3n",
+      "url": "https://open.spotify.com/track/2uVEFmt1nLZyUSJXLdLGX2"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Hot Nigga",
+        "url": "https://open.spotify.com/album/5ZhJHI0WF5YMB17klO9EAx"
+      },
+      "artists": [
+        {
+          "name": "Messiah",
+          "url": "https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7"
+        }
+      ],
+      "duration_ms": 150003,
+      "name": "Hot Nigga",
+      "url": "https://open.spotify.com/track/0sWJYzJtNgoR2zUShqT8Gy"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "Bendecido",
+        "url": "https://open.spotify.com/album/7uCxpXETxPlW2rErmzycRN"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 206714,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/5Atc9qqO8EXX3EPe7T7JqD"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -2623,26 +2623,6 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "La Oscuridad",
-        "url": "https://open.spotify.com/album/0F7m8664oTaF5SbaqoDINb"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 264905,
-      "name": "Triste",
-      "url": "https://open.spotify.com/track/6pnzUCBMwMT5rvx6PyhusZ"
-    },
-    {
-      "added_at": "2023-05-25 17:50:01",
-      "album": {
         "name": "Shut Up",
         "url": "https://open.spotify.com/album/3ENh3kOmOSXhz43bLPXNMC"
       },
@@ -2659,24 +2639,28 @@
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Relax",
-        "url": "https://open.spotify.com/album/52BxF5cqsBvNKWXW8NWyf3"
+        "name": "Gan-Ga (Remix)",
+        "url": "https://open.spotify.com/album/18gdcJyZklZ0iuvVTc5QRj"
       },
       "artists": [
         {
           "name": "Bryant Myers",
           "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 206714,
-      "name": "Relax",
-      "url": "https://open.spotify.com/track/5dgyCduZdNCVJG8jU3uJvS"
+      "duration_ms": 193363,
+      "name": "Gan-Ga - Remix",
+      "url": "https://open.spotify.com/track/6MpJR5hR1pS8xi3clcx9uv"
     },
     {
       "added_at": "2023-05-25 17:50:01",
       "album": {
-        "name": "Bendecido",
-        "url": "https://open.spotify.com/album/7uCxpXETxPlW2rErmzycRN"
+        "name": "LowKey",
+        "url": "https://open.spotify.com/album/06t09Ttmv2fsDEkNOgiYSy"
       },
       "artists": [
         {
@@ -2684,9 +2668,9 @@
           "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
         }
       ],
-      "duration_ms": 221055,
-      "name": "Activa",
-      "url": "https://open.spotify.com/track/3VebY4KbxKq1bqWDvY5lnW"
+      "duration_ms": 193027,
+      "name": "LowKey",
+      "url": "https://open.spotify.com/track/2B9v1f4t371drWNPYWCBJa"
     },
     {
       "added_at": "2023-05-25 17:50:01",
@@ -2715,6 +2699,22 @@
       "duration_ms": 281568,
       "name": "Esclava (Remix) [feat. Bryant Myers, Anonimus & Almighty]",
       "url": "https://open.spotify.com/track/4is8Zde1EvRRTkhXQKdk0K"
+    },
+    {
+      "added_at": "2023-05-25 17:50:01",
+      "album": {
+        "name": "WOW",
+        "url": "https://open.spotify.com/album/1zMywfOyuIoKbX4EvBcK4S"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 217130,
+      "name": "WOW",
+      "url": "https://open.spotify.com/track/6ACqSGveBeaP18uquq5lNC"
     },
     {
       "added_at": "2023-05-25 17:50:01",

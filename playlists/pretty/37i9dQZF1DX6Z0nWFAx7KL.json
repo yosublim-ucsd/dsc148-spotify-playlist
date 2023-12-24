@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 47166,
+  "num_followers": 47175,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjQ0NzVkMDc3ZWJlMjQ4NmJlYTU4ODU2ODYzNGY2NTQ4MDAwMWM0",
+  "snapshot_id": "MCw0M2ZlZmVhZjNhY2UxZWYxMjJkZjRkODBmMWZhYTFkYjMzOWZmNDEy",
   "tracks": [
     {
       "added_at": "2023-12-21 23:00:00",
@@ -891,6 +891,26 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "LIFTED",
+        "url": "https://open.spotify.com/album/6jR7uovSlToKvLXjTrPZSV"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        }
+      ],
+      "duration_ms": 183460,
+      "name": "Lights Go Down",
+      "url": "https://open.spotify.com/track/6Q7fxyIXgrbk1bIySqbaij"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "In The Sun",
         "url": "https://open.spotify.com/album/6mY2Yfw2UaryA7F8KherNy"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 141371,
       "name": "Kids",
       "url": "https://open.spotify.com/track/6xhDH3jLEKg6rpcImMLTXo"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "LIFTED",
-        "url": "https://open.spotify.com/album/6jR7uovSlToKvLXjTrPZSV"
-      },
-      "artists": [
-        {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
-        },
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 183460,
-      "name": "Lights Go Down",
-      "url": "https://open.spotify.com/track/6Q7fxyIXgrbk1bIySqbaij"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Wicked Game",
-        "url": "https://open.spotify.com/album/46elmJx4DuIh8R58jynEGH"
-      },
-      "artists": [
-        {
-          "name": "Fredrik Ferrier",
-          "url": "https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ"
-        },
-        {
-          "name": "Electric Pineapple",
-          "url": "https://open.spotify.com/artist/5pIyAteuHOZWNYuCL6ThXK"
-        }
-      ],
-      "duration_ms": 174893,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/6nYORhkFnyxAYcQZpoInxE"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "Hold on Tight",
         "url": "https://open.spotify.com/album/6UtbCHjl70Y4lfeBzpHCOS"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 206384,
       "name": "Hold on Tight",
       "url": "https://open.spotify.com/track/3hAzn2u1OZEZ2zpu9jW5vO"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "Wicked Game",
+        "url": "https://open.spotify.com/album/46elmJx4DuIh8R58jynEGH"
+      },
+      "artists": [
+        {
+          "name": "Fredrik Ferrier",
+          "url": "https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ"
+        },
+        {
+          "name": "Electric Pineapple",
+          "url": "https://open.spotify.com/artist/5pIyAteuHOZWNYuCL6ThXK"
+        }
+      ],
+      "duration_ms": 174893,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/6nYORhkFnyxAYcQZpoInxE"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Oasis de Gafsa",
-        "url": "https://open.spotify.com/album/6E8HautP6oIoR2BxW3njnf"
-      },
-      "artists": [
-        {
-          "name": "Thom Merlin",
-          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
-        }
-      ],
-      "duration_ms": 142363,
-      "name": "Oasis de Gafsa",
-      "url": "https://open.spotify.com/track/13OOw7rpZWtR9AlGB15aSF"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/1WLXMRMpzyAdzYOzYf98B3"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 171904,
       "name": "Alone",
       "url": "https://open.spotify.com/track/67BdlNZItL3SYjn0prj2Co"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "Oasis de Gafsa",
+        "url": "https://open.spotify.com/album/6E8HautP6oIoR2BxW3njnf"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        }
+      ],
+      "duration_ms": 142363,
+      "name": "Oasis de Gafsa",
+      "url": "https://open.spotify.com/track/13OOw7rpZWtR9AlGB15aSF"
     },
     {
       "added_at": "2023-12-21 23:00:00",

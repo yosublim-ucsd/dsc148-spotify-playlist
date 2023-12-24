@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 673,753 likes - 116 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 673,768 likes - 116 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Old Friend \- Instrumental](https://open.spotify.com/track/1OlYcAdEPMmjgBhOqpF0se) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Instrumentals Vol\. 1](https://open.spotify.com/album/5cXl5mOcjw8CO4vgCn3chi) | 2:25 |
 | 2 | [Hat of Rain](https://open.spotify.com/track/4eq6UdTSvAV3h3RGpRbnIU) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Haw \(Remastered\)](https://open.spotify.com/album/3bdHncrI2og5FGqoZqp6My) | 2:16 |
-| 3 | [Goodbye, Honey, You Call That Gone](https://open.spotify.com/track/74KdVnlCyEqUod4bti2GBc) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [Spider Tales](https://open.spotify.com/album/3S2GACXwN1hHxSKHxkGvKb) | 2:10 |
+| 3 | [Goodbye, Honey, You Call That Gone](https://open.spotify.com/track/6CakoiNDzQsznt4aGA6B6f) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [Spider Tales](https://open.spotify.com/album/6blRXbzPaZQLL3YYFhmVCw) | 2:10 |
 | 4 | [Georgia Drumbeat \- Instrumental](https://open.spotify.com/track/1B7KXeQOP0QBPHzJLowkKK) | [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb) | [Prospect Hill: The American Songster Omnibus](https://open.spotify.com/album/4Pp8Sv28eS0e694u9dKTfo) | 2:48 |
 | 5 | [Neglect](https://open.spotify.com/track/2kS5GRckIXibGB95JjEmE3) | [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Ready Reckoner](https://open.spotify.com/album/6AIIp8Sg3vWyxpyoPc4Cfl) | 3:12 |
 | 6 | [Alpine Star](https://open.spotify.com/track/1SM7koUWwATTH13pTyGS7l) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Goes West](https://open.spotify.com/album/7vPbJA9o9NKBqjoI7StDmq) | 5:26 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 54 | [Barragán](https://open.spotify.com/track/2EbnbSeiXnyXfGdf17OoGa) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Barragán](https://open.spotify.com/album/4UhYqrNKcEiRHdVIxI7vso) | 2:13 |
 | 55 | [The Ballad of Barbara Allen](https://open.spotify.com/track/1vMUVPqOZDb0rAy1e9JMnS) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [All Will Prosper](https://open.spotify.com/album/7huOk44bNnAx5VRlNzthz6) | 1:43 |
 | 56 | [Those Days Are Now](https://open.spotify.com/track/5lKVdpvXYLi6RGc9onZHPs) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [To The Sun And All The Cities In Between](https://open.spotify.com/album/46G7s9NfgOpyMUdiz8iZel) | 5:43 |
-| 57 | [Everything](https://open.spotify.com/track/25I5OlzgEUCqg0MWLWCZpv) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [To The Sun And All The Cities In Between](https://open.spotify.com/album/578SzhqxPoHnbSLkKvuWaG) | 5:37 |
+| 57 | [Everything](https://open.spotify.com/track/2tCTAcIFJG2GJuGl2u822F) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [To The Sun And All The Cities In Between](https://open.spotify.com/album/46G7s9NfgOpyMUdiz8iZel) | 5:37 |
 | 58 | [Eventual Surrender](https://open.spotify.com/track/5Zlaa2clhbuXhaZhlUtng9) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Goes West](https://open.spotify.com/album/7vPbJA9o9NKBqjoI7StDmq) | 3:03 |
 | 59 | [Bewley In Grey](https://open.spotify.com/track/6pegizBkef5HtY5EMNn23k) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Fi](https://open.spotify.com/album/6Je7ukOVu596v6B8UyGfF7) | 1:41 |
 | 60 | [Lakeside](https://open.spotify.com/track/3ixOxnhDlzFguyEl2oXVm5) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Fi](https://open.spotify.com/album/6Je7ukOVu596v6B8UyGfF7) | 3:40 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6Vfrf87eTG.md) - [plain]
 | 115 | [\(Interlude\)](https://open.spotify.com/track/6KzRwSrGHZVYn7rfSIAC0g) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [Into The Wide](https://open.spotify.com/album/4hWx4cKcQKjq6uNGRJAnfL) | 1:21 |
 | 116 | [Silence Is Sincerity](https://open.spotify.com/track/73hk94lqe5AE2B4heXzivd) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Heigh Ho](https://open.spotify.com/album/05oav7mCaoTnTpuIFSv7T6) | 1:12 |
 
-Snapshot ID: `MCw4MTk2Y2JkMTg2ZmJlZDZhNzBkZTMzNjg4ZDkzNzQ4ODY1ZDhkNzIw`
+Snapshot ID: `MCw0MmI0MTRmYzcyZmQyN2IwZTQzMGUxM2QxYTJkOTUwZmZmOTIyMjk1`

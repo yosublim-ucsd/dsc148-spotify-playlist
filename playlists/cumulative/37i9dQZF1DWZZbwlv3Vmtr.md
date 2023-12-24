@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-850 songs - 1 day 9 hr 1 min
+852 songs - 1 day 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [glossy window](https://open.spotify.com/track/2AG1nSGB6J9xEQOIm1Dyc8) | [7th Indigo](https://open.spotify.com/artist/75RGXEBlI9OL7jBSMlf12W) | [glossy window](https://open.spotify.com/album/0AoH1D4zGLEW72v3xI91QR) | 2:10 | 2022-07-01 |  |
 | [Glowing Willow](https://open.spotify.com/track/4oEnDh6kO0qc92pFabcgEV) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [YAN NAY](https://open.spotify.com/artist/77w9ggPWPDCAZvZjddI7C5) | [Eunoia](https://open.spotify.com/album/27WKnL7WEeSwdP9K1emPAA) | 2:27 | 2022-11-11 | 2023-10-06 |
 | [Glowing Willow](https://open.spotify.com/track/6ixfQO0RwJFPJl2OsFeaGO) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [YAN NAY](https://open.spotify.com/artist/77w9ggPWPDCAZvZjddI7C5) | [Eunoia](https://open.spotify.com/album/284PXQtDie95El3dbLDJya) | 2:27 | 2022-07-01 | 2022-11-21 |
-| [Glutenfree](https://open.spotify.com/track/2Xr7cfU7wSYFK0GNDGRtEU) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Glutenfree](https://open.spotify.com/album/1EGGxOpttUe27Dg7JZEhn9) | 2:28 | 2022-11-25 |  |
+| [Glutenfree](https://open.spotify.com/track/2Xr7cfU7wSYFK0GNDGRtEU) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Glutenfree](https://open.spotify.com/album/1EGGxOpttUe27Dg7JZEhn9) | 2:28 | 2022-11-25 | 2023-12-24 |
 | [Going Solo](https://open.spotify.com/track/7arhlCNc1gTBWGk0crhOq5) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Going Solo](https://open.spotify.com/album/07EdIYhnhe2ZAZb2ugJIR0) | 1:24 | 2022-11-11 | 2023-10-20 |
 | [golden beans](https://open.spotify.com/track/6QGYAg7tD4abOn885Mc6Sa) | [lokeyz](https://open.spotify.com/artist/5ssZUfuLKV5hyvux8k0VvJ) | [espresso time](https://open.spotify.com/album/3YD6NdMejXUhdTbGTtEbli) | 1:34 | 2022-04-15 | 2022-05-20 |
 | [Golden Cat](https://open.spotify.com/track/1zvls0maQeLYZyIJwynbD1) | [Above the Mex](https://open.spotify.com/artist/2hH7uEbdBk31CRmcHj8Emh) | [Golden Cat](https://open.spotify.com/album/7MT7vYU81W8E2Gff9muvfR) | 3:46 | 2022-04-15 | 2022-07-01 |
@@ -333,6 +333,7 @@
 | [jazzy gyal](https://open.spotify.com/track/0uban5XYHLYwQQIOPLpwEZ) | [beosound](https://open.spotify.com/artist/5PxwgwToqzdaFKSQhYVDre) | [straight no chaser](https://open.spotify.com/album/56xRWuR1WApF2n8IItVVQX) | 1:33 | 2022-04-15 | 2022-05-20 |
 | [Jazzy Love](https://open.spotify.com/track/0K3MHQsHETxpCBJYAUzaIq) | [Ly Morales](https://open.spotify.com/artist/5m3wWm7LVYul1KOV9sXuA6) | [Follow My Sky](https://open.spotify.com/album/1efGgUHD6q8lU1e4baGgfQ) | 1:57 | 2022-06-17 |  |
 | [Jazzy Vibes](https://open.spotify.com/track/1hsGmd0FaHgH5nQYZzWrX2) | [Hanagoori](https://open.spotify.com/artist/2vRSKTF2P233iIMuhkoO2l) | [Jazzy Vibes](https://open.spotify.com/album/1SVTiqLbbKzXGbY99HKnqB) | 1:58 | 2022-12-09 | 2023-10-20 |
+| [jeep](https://open.spotify.com/track/74QVwX6fjyS88E3WywI9NA) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [jeep](https://open.spotify.com/album/3SZNhX6P0hkZY48D0nfEVL) | 1:49 | 2023-12-22 |  |
 | [JEXX](https://open.spotify.com/track/6YpDv0MdrR39AQBy8qwn9g) | [Joi Casette](https://open.spotify.com/artist/00HEKt0f42LmgnoabKX3Ok) | [JEXX](https://open.spotify.com/album/4DW0MR2Cas3wyZ7gXfzb5Y) | 2:12 | 2022-04-15 | 2022-05-14 |
 | [Joy of the harp](https://open.spotify.com/track/0LG0YbowzKhQpJ8o3cKwus) | [Alek Faith](https://open.spotify.com/artist/3TPr8KDYLfhwXdYOuUoFdi) | [Joy of the harp](https://open.spotify.com/album/33OZiiXN5TCAl3pyGexD6P) | 2:10 | 2022-12-09 | 2023-10-20 |
 | [Juicy](https://open.spotify.com/track/5XotBMNRTExEMs4MalMTu0) | [Kings Chair](https://open.spotify.com/artist/0P9hXeh3wwCn1B0Etj03ac) | [Hot Rain](https://open.spotify.com/album/4RUeIpvBctPsm87nIsftwp) | 3:13 | 2022-04-15 | 2022-09-09 |
@@ -511,6 +512,7 @@
 | [oyoyoy](https://open.spotify.com/track/3olHLiTm1rO8x0MzyP1ad7) | [bito bitox](https://open.spotify.com/artist/4biX5gqFgXs4cSzHcdVFms) | [oyoyoy](https://open.spotify.com/album/6pC5QrbAOUJcl4Tu62lRmR) | 2:24 | 2022-04-15 |  |
 | [P.S\. I Love You](https://open.spotify.com/track/0Po3LlQVxAG4F7P4xceR7b) | [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR) | [P.S\. I Love You](https://open.spotify.com/album/3lyhm1eO4SAd3Kqg3OE1YM) | 2:07 | 2022-09-09 | 2023-11-17 |
 | [Pacifica](https://open.spotify.com/track/1Rapts1uOPuU1vqwmbWIKR) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Pacifica](https://open.spotify.com/album/5s7hqTgpaYuNqiG4klTBYw) | 2:38 | 2022-04-15 | 2022-06-17 |
+| [palm](https://open.spotify.com/track/2Hwwu9plR7Y0lBxByDiaYS) | [Lunar Lullaby & yorukaze](https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD) | [palm](https://open.spotify.com/album/4bFFUeBi8kPYsZl5g0XdqR) | 2:05 | 2023-12-22 |  |
 | [Palme](https://open.spotify.com/track/1yJR8z4s4lASBJ4wfMG8zc) | [Bird Svensøn](https://open.spotify.com/artist/6y2CjnelXUD9BqAMzLkgvC) | [Palme](https://open.spotify.com/album/4bSIoqXG6MbAxWCCvpVcGW) | 1:50 | 2023-04-03 | 2023-10-06 |
 | [Paper Bag](https://open.spotify.com/track/0feI2qZLlaapheeJeznYwZ) | [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs), [O F F](https://open.spotify.com/artist/5IjGvQKE2nsaL2RkqnqYfG) | [Paper Bag](https://open.spotify.com/album/05czxzdMeLHHvWUfar0Fbz) | 2:34 | 2022-12-16 | 2023-09-08 |
 | [Paris](https://open.spotify.com/track/6lAh5CErP733AMCPR83AUB) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [Paris](https://open.spotify.com/album/1QRLiEOoQICtjiYEchWQ41) | 2:04 | 2023-10-13 |  |
@@ -830,7 +832,7 @@
 | [Who's Driving?](https://open.spotify.com/track/6ilctnbVwEWTURCfY6kCWH) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [Who's Driving?](https://open.spotify.com/album/1ftpbsY9HCoSpUOq7RVUEs) | 2:19 | 2023-10-06 |  |
 | [Who's World Is This?](https://open.spotify.com/track/6dL7z10QINju4SHT3O3cxC) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Who's World Is This](https://open.spotify.com/album/19Hp7di22vmwP4DrX1y6ex) | 2:36 | 2022-05-13 | 2023-09-29 |
 | [whoops i'm napping](https://open.spotify.com/track/5Wxany1ffEA1DxkRBvnLJ0) | [Pistachio](https://open.spotify.com/artist/1zj6sjoit7AFmmBfozJX1H) | [whoops i'm napping](https://open.spotify.com/album/7rqTIV0hWHwjxCchxWWlg6) | 2:54 | 2023-07-19 | 2023-09-29 |
-| [Wild poetry](https://open.spotify.com/track/1x0ohLWX95zrSrngK2Fa7R) | [Dr\. Hall](https://open.spotify.com/artist/2ktxauEdDVuua28a0xmfOu) | [Wild poetry](https://open.spotify.com/album/4TEKZ8XR8LUO3oXsbShFgx) | 3:48 | 2023-01-06 |  |
+| [Wild poetry](https://open.spotify.com/track/1x0ohLWX95zrSrngK2Fa7R) | [Dr\. Hall](https://open.spotify.com/artist/2ktxauEdDVuua28a0xmfOu) | [Wild poetry](https://open.spotify.com/album/4TEKZ8XR8LUO3oXsbShFgx) | 3:48 | 2023-01-06 | 2023-12-24 |
 | [Willow](https://open.spotify.com/track/0ungxzIT4zXR4YofdK04Xh) | [Frances The Mute](https://open.spotify.com/artist/2wCcRWGIQVa5m5oJuBplAs) | [Willow](https://open.spotify.com/album/6v7cDjYKyljCw8HWwZzhuF) | 2:29 | 2022-10-14 | 2023-10-20 |
 | [Willow Whip](https://open.spotify.com/track/11NjsqNM0Kwnqop5rCYlpq) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Willow Whip](https://open.spotify.com/album/5G7mHOpSZbzMi857KYssc5) | 3:07 | 2022-04-15 | 2022-09-24 |
 | [Wine To The Plants](https://open.spotify.com/track/6XqLGVVMtx8ZUK8jsZhAWR) | [Green Bicycle](https://open.spotify.com/artist/6pusENjxOSBxgEdWFNCA3j) | [Wine To The Plants](https://open.spotify.com/album/3V0GXWAPQnhMiYuWnr8jzi) | 2:27 | 2022-04-15 | 2022-07-08 |

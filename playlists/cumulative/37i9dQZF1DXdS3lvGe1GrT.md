@@ -4,7 +4,7 @@
 
 > The top 75 tracks from Fresh Finds Folk in 2023\. Cover: Kara Jackson
 
-951 songs - 2 day 8 hr 57 min
+952 songs - 2 day 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -884,7 +884,8 @@
 | [Turning 24](https://open.spotify.com/track/49XlmWANTT7MbbE2HTXiMn) | [Bella Porter](https://open.spotify.com/artist/4jby3degVGgbEuzneg4iU3) | [Turning 24](https://open.spotify.com/album/6VpJJdOSofUiQfNLzF2tAF) | 3:16 | 2023-06-14 | 2023-08-17 |
 | [turning blue](https://open.spotify.com/track/61mVqkXlFqQe7xocjBaiTT) | [Alexa Cirri](https://open.spotify.com/artist/0jitaHotzcSiJNkm4amOOr) | [turning blue](https://open.spotify.com/album/2qvGjMIQdMLyQ1McV34u7m) | 2:25 | 2022-05-25 | 2022-07-21 |
 | [Twilight Of Youth](https://open.spotify.com/track/1L3Qo7G6xGeVbdAQFLS3FN) | [Ezra Glatt](https://open.spotify.com/artist/1q5vdeaANN9uxk1na1WXek) | [Twilight Of Youth](https://open.spotify.com/album/32vLDudGS95nySNZnuVgRS) | 2:30 | 2023-01-11 | 2023-03-02 |
-| [Two Heads, Grey Mare](https://open.spotify.com/track/7hbxC92Qr34lDZQWLiBuKh) | [Cinder Well](https://open.spotify.com/artist/6BJ7iUkCa68mX6UnFBwzsV) | [Cadence](https://open.spotify.com/album/3JbWIzI320YwRDOY3EoRSG) | 4:41 | 2023-07-12 |  |
+| [Two Heads, Grey Mare](https://open.spotify.com/track/7hbxC92Qr34lDZQWLiBuKh) | [Cinder Well](https://open.spotify.com/artist/6BJ7iUkCa68mX6UnFBwzsV) | [Cadence](https://open.spotify.com/album/3JbWIzI320YwRDOY3EoRSG) | 4:41 | 2023-07-12 | 2023-12-24 |
+| [Two Heads, Grey Mare](https://open.spotify.com/track/4Rxt20xtEiEJWB5CTRRNbb) | [Cinder Well](https://open.spotify.com/artist/6BJ7iUkCa68mX6UnFBwzsV) | [Cadence](https://open.spotify.com/album/5FkjAV7AiEFbdtRbsq2hrT) | 4:41 | 2023-11-29 |  |
 | [Two Wrongs](https://open.spotify.com/track/0I25Cp8goVHm01ssG1sxNf) | [Samana](https://open.spotify.com/artist/0gf5phmsYQSLhOvHfgazMz) | [Two Wrongs](https://open.spotify.com/album/795PRQwcC7IVD2arFdKsq2) | 6:09 | 2022-11-09 | 2023-01-12 |
 | [Uncovered](https://open.spotify.com/track/0u3Ck6jifvedbQL0ZjBP1l) | [Max Helgemo](https://open.spotify.com/artist/25tISYfzQFqAvNdmWPspGS) | [Uncovered](https://open.spotify.com/album/7A8zAcXTRDKJdt7HpRmwAT) | 3:44 | 2022-09-14 | 2022-12-01 |
 | [Under Your Spell](https://open.spotify.com/track/1YlSppIyigYTpiPAZXmLuc) | [Jack Kane](https://open.spotify.com/artist/5c6qUocQoL2xgqwBpolpMi) | [Under Your Spell EP](https://open.spotify.com/album/4XCOcSPRPsTO8QuU31MQZv) | 1:52 | 2022-05-25 | 2022-08-11 |

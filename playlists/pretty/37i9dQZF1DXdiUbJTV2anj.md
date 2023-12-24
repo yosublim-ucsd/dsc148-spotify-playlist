@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 > Heavy new bands you need to have an eye on\. Cover: Static Dress
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,166 likes - 55 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,218 likes - 55 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 47 | [Self\-Hatred](https://open.spotify.com/track/1RpoVQ6JCRSOnMD92wzwVS) | [Going Off](https://open.spotify.com/artist/2xCCFcGLx1oUlS1AMtfBo9) | [Self\-Hatred](https://open.spotify.com/album/11AkDom3SSzweUq98OkWj1) | 2:26 |
 | 48 | [The Debt](https://open.spotify.com/track/30y0r3xRBzngsUXJ2FeTgn) | [Lift The Curse](https://open.spotify.com/artist/5mVUxlgnywxeahNtMpoCiv) | [The Debt](https://open.spotify.com/album/1tYh4lKvftUG55PLQPQ4WE) | 3:45 |
 | 49 | [SWOLLENTEETH](https://open.spotify.com/track/2dehX9M8cr21ggWNwkJgD7) | [Swollen Teeth](https://open.spotify.com/artist/2Q4WmCXIG2ogJ0ZYC3K4LQ) | [SWOLLENTEETH](https://open.spotify.com/album/53lOgAt8FCTfTYkOZzFnz7) | 2:59 |
-| 50 | [Cliffhanger](https://open.spotify.com/track/6s7W6LpXeL6MXNSwbXr772) | [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG) | [Memory Theater](https://open.spotify.com/album/6Lj1gahDRuya3EGF23KVSr) | 2:36 |
+| 50 | [Cliffhanger](https://open.spotify.com/track/3Ulrp2jJIlDkShwJxgOU4G) | [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG) | [Memory Theater](https://open.spotify.com/album/5KQsHKT1HWEWKND1eEmDj1) | 2:36 |
 | 51 | [Abandon Meant](https://open.spotify.com/track/6yYRYER1dqMZsSyTmqfxrC) | [Graysea](https://open.spotify.com/artist/2ARLxGqlg0rKKxe6bPHXtV) | [Weight In The Water](https://open.spotify.com/album/6HvSSvuAPdwDhBdHUvTY3h) | 4:52 |
 | 52 | [Why](https://open.spotify.com/track/4Dgro3nLadAhwTIgNsNt57) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [God's Country](https://open.spotify.com/album/38hr6lK2Up3QabqUEUEhKx) | 3:31 |
 | 53 | [Why Do We Fall?](https://open.spotify.com/track/4lTypHFJlOykJPbrHaMLSC) | [Ways.](https://open.spotify.com/artist/1CMHBL8Fwery02fixGOUTf) | [Why Do We Fall?](https://open.spotify.com/album/0bOPfOC2jAWJnnyJmRKsCZ) | 4:04 |
 | 54 | [Brick](https://open.spotify.com/track/0CLHbBycBGgFUQuRfISbg1) | [Oceanhoarse](https://open.spotify.com/artist/6NNanF6LZJW0RWlyyUC1Ys) | [Brick](https://open.spotify.com/album/0ycvVIQlpnp5tmi2SI4QrK) | 2:45 |
 | 55 | [you'll never be alone again](https://open.spotify.com/track/5cMB5jGfNCm6b65YXhSIEJ) | [newshapes](https://open.spotify.com/artist/6UuFVFmfZLUQy5blahNWDZ) | [alone again](https://open.spotify.com/album/1xEDDtwENUcM84zAbIwOdu) | 2:47 |
 
-Snapshot ID: `MCwyZjM2Yzc3YjgxYWRiNjk5MzRlZjU3NmM2MTIwYTIzNjU3ZDliNGFm`
+Snapshot ID: `MCxhZWI1OWEyNTQ0OTExZjgxMjk1MGUxNDNhMzA3MjE2N2IyYWFiYTA2`

@@ -4,7 +4,7 @@
 
 > Soul meets blues\. Cover: Joe Louis Walker
 
-91 songs - 6 hr 41 min
+92 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Standing In The Wings](https://open.spotify.com/track/3K1LUsCrsHv7mzILeYODOW) | [Mighty Sam McClain](https://open.spotify.com/artist/71sDMpcZzbN4kDKnYoGT1W) | [Sweet Dreams](https://open.spotify.com/album/7gL0VR971C64e3yFb2YC5C) | 4:50 | 2020-12-01 | 2022-07-28 |
 | [Starting All Over](https://open.spotify.com/track/3T1iXyK8LzxE4QYbU30z2N) | [Tutu Jones](https://open.spotify.com/artist/2YJ9frh2VN2BXKVtEjiV2L) | [Inside Out](https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb) | 4:06 | 2020-12-01 |  |
 | [Starting To See](https://open.spotify.com/track/4ZCmcMZxQJYcRhTaklYqVU) | [Robert Finley](https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv) | [Sharecropper's Son](https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf) | 2:54 | 2021-05-21 |  |
-| [Stomp](https://open.spotify.com/track/5sraRdhps6BIkOFFVaBpGS) | [Stan Mosley](https://open.spotify.com/artist/7kZrWqdHSrKq5Qg3UgtAQM), [The Texas Horns](https://open.spotify.com/artist/6swhrKqY4WiZoJanmBNqsX), [The Moeller Brothers](https://open.spotify.com/artist/6KrcvREWPq1WnbUQe8TUZi), [Crystal Thomas](https://open.spotify.com/artist/61jsEIddFcj3iYVkLC88bn) | [NO SOUL, NO BLUES](https://open.spotify.com/album/6e9WzYKaq2qAsjJvC4zScE) | 4:22 | 2023-05-19 |  |
+| [Stomp](https://open.spotify.com/track/0bIk5zx7YCMgwXa7G31fpp) | [Stan Mosley](https://open.spotify.com/artist/7kZrWqdHSrKq5Qg3UgtAQM), [The Texas Horns](https://open.spotify.com/artist/6swhrKqY4WiZoJanmBNqsX), [The Moeller Brothers](https://open.spotify.com/artist/6KrcvREWPq1WnbUQe8TUZi), [Crystal Thomas](https://open.spotify.com/artist/61jsEIddFcj3iYVkLC88bn) | [NO SOUL, NO BLUES](https://open.spotify.com/album/71PCJxEq3nQcRDkyCEbRel) | 4:22 | 2023-05-19 |  |
+| [Stomp](https://open.spotify.com/track/5sraRdhps6BIkOFFVaBpGS) | [Stan Mosley](https://open.spotify.com/artist/7kZrWqdHSrKq5Qg3UgtAQM), [The Texas Horns](https://open.spotify.com/artist/6swhrKqY4WiZoJanmBNqsX), [The Moeller Brothers](https://open.spotify.com/artist/6KrcvREWPq1WnbUQe8TUZi), [Crystal Thomas](https://open.spotify.com/artist/61jsEIddFcj3iYVkLC88bn) | [NO SOUL, NO BLUES](https://open.spotify.com/album/6e9WzYKaq2qAsjJvC4zScE) | 4:22 | 2023-05-19 | 2023-12-24 |
 | [Stop Doggin Me Around](https://open.spotify.com/track/4CI56rOk5ClZPhxgnvRcP7) | [Joyce Lawson](https://open.spotify.com/artist/0Hw5PTRTJMSYkLGnIqQeqW) | [Today I Sing The Blues](https://open.spotify.com/album/2FETHI04M6eFdnKaDBaiqF) | 4:35 | 2020-12-01 |  |
 | [Stronger Than You Need To Be](https://open.spotify.com/track/111lEceXGPf5AX8yntrQaK) | [W.C\. Clark](https://open.spotify.com/artist/2eJojpx2Dv1QL3WBjJQXWi) | [Deep In The Heart](https://open.spotify.com/album/5uQXDTWnEd0roTdrSUN1ba) | 4:05 | 2020-12-01 |  |
 | [Sweet Dynamite!](https://open.spotify.com/track/2UsMjBWTZftDuCmF5QGN0g) | [Syl Johnson](https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL) | [Talkin' About Chicago](https://open.spotify.com/album/2COElwuZipCYIYNPvxpdCj) | 4:31 | 2020-12-01 |  |

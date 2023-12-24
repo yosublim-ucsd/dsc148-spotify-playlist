@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PiP84oEbKp.md) - [plain]
 
 > A pride playlist for the whole family\. Cover: JoJo Siwa
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,043 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,041 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PiP84oEbKp.md) - [plain]
 | 29 | [Love Me for Who I Am](https://open.spotify.com/track/6qaFqV4xpkAT7PuKq1yqqB) | [Brady Rymer and the Little Band That Could](https://open.spotify.com/artist/2q0R0ObitsBJIp1sMtfHz6) | [Love Me for Who I Am](https://open.spotify.com/album/5Xo9zh9RWeBkQFqLFSaL9r) | 2:59 |
 | 30 | [\#100kmasks](https://open.spotify.com/track/1TTTr0h2sj2HlV6eHCap2F) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04), [Tommy Soulati Shepherd](https://open.spotify.com/artist/014sxnbcP5ilDvC2oIQAeZ), [Yaw](https://open.spotify.com/artist/7LRoJKV4UNpWsTiU3HsF2r), [Zion I](https://open.spotify.com/artist/3LLs28LJVlXAjWc8UDkcQZ) | [The Love](https://open.spotify.com/album/1KXBAJuLCtlby4JpDcvcTt) | 3:25 |
 | 31 | [Dress Up and Dance](https://open.spotify.com/track/5hQsvs1r8HB3KddDDQaxxK) | [Chana Rothman](https://open.spotify.com/artist/5rhw2nhZysMtE7HUdoa0aR), [Ali Wadsworth](https://open.spotify.com/artist/4rynw6dg0dqNjziumo2xID), [Mighty Flipside ESQ.](https://open.spotify.com/artist/22aS2NiRp3lfel7ZSs0H9s) | [Rainbow Train](https://open.spotify.com/album/7zUf2MFerkp7fLElIbI9nk) | 2:48 |
-| 32 | [Play It Loud](https://open.spotify.com/track/4HHvuJOM3WCIjbL7OUoC6k) | [Loudhouse](https://open.spotify.com/artist/4opU6MEEnDF28zEMpqsFRc) | [Really Loud Music](https://open.spotify.com/album/1b3ATMxviDaiYfqJnosJn4) | 0:53 |
+| 32 | [Play It Loud](https://open.spotify.com/track/4HHvuJOM3WCIjbL7OUoC6k) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [Really Loud Music](https://open.spotify.com/album/1b3ATMxviDaiYfqJnosJn4) | 0:53 |
 | 33 | [Snowpeople](https://open.spotify.com/track/0vuDGOYwfuqM3SQaVFs7D1) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Winterland](https://open.spotify.com/album/1Lkr1V9CvhYsebLSiPT3fw) | 2:37 |
 | 34 | [Boy or Girl Colour](https://open.spotify.com/track/4t0917UONxsUhyiQvjIeEE) | [Teeny Tiny Stevies](https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov) | [Helpful Songs for Little People](https://open.spotify.com/album/7jOW68jFVaqKI68MI0esza) | 3:03 |
 | 35 | [Something Entirely New \(feat\. Erica Luttrell & Charlyne Yi\)](https://open.spotify.com/track/0Mg0iwFNJX5GLkArZfIX9s) | [Steven Universe](https://open.spotify.com/artist/4rF7c8zpCKzuSXohs2HIpA), [Charlyne Yi](https://open.spotify.com/artist/4g7sAbyq2q5Eou0inGABvw), [Erica Luttrell](https://open.spotify.com/artist/1HRq8YjrdR6yJfQu5DEGjD) | [Steven Universe, Vol\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5MAx9iJP58ErRpSUdrV1Uk) | 1:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PiP84oEbKp.md) - [plain]
 | 49 | [And Mom and Kid](https://open.spotify.com/track/4WImM9b0Fk1SMhwyeRtKh7) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Why?](https://open.spotify.com/album/0aVBughGBxf0tHkUXg0cwK) | 1:22 |
 | 50 | [Go Shine \(Song for Elm\)](https://open.spotify.com/track/4gZcqkqfdKDA6UBn93B7bk) | [Alastair Moock](https://open.spotify.com/artist/5NwLASbIjDj6FUgaEa1NMz), [Heather Mae](https://open.spotify.com/artist/3wdm6k2HSsI6uWkYPuKj7V) | [Be a Pain \- An Album for Young \(and Old\) Leaders](https://open.spotify.com/album/5nDOikFiHs1P1jJUv5YgTk) | 2:58 |
 
-Snapshot ID: `MCxjMWE4MzQxYWQ5NzliODBlZDI3ODg2ZWMxYjBhNDJkYTExN2E1MzA1`
+Snapshot ID: `MCw5ZmFkZDA0YThiMjZkZGQzZGIyOTA1MDAwMWEyODhkYzliN2I3NmUw`

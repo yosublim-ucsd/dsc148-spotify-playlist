@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-170 songs - 12 hr 49 min
+171 songs - 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Metronome All Out](https://open.spotify.com/track/6es9cgKzxIgzzZl1MkAm0C) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Treasury Shows, Vol\. 22](https://open.spotify.com/album/7suIqutbZgxZRAKf3y5hn8) | 4:58 | 2022-09-08 | 2023-12-14 |
 | [Midriff](https://open.spotify.com/track/0Wt9PB5t4QsIlkuyK2Yl5u) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke \(Remastered 2014\)](https://open.spotify.com/album/4iYz6htNriFtdpgqZNDWSW) | 3:51 | 2022-09-08 |  |
 | [Multi Colored Blue \- Live](https://open.spotify.com/track/0j3dyr0lRqbzNLOSyJdDQG) | [Lincoln Center Jazz Orchestra](https://open.spotify.com/artist/57tcqQ5NpKmaGE9zHMTiez), [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Live In Swing City\- Swingin' With Duke](https://open.spotify.com/album/0KNlMgyXjMj1FbilKgoSw9) | 6:12 | 2022-09-08 |  |
-| [Multi\-Colored Blue](https://open.spotify.com/track/2wrrQmt53rimB1ZEdmLrJd) | [Roberta Gambarini](https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS) | [Easy to Love](https://open.spotify.com/album/12aQHZD9fMjRqv9ny97mNk) | 6:29 | 2023-07-26 |  |
+| [Multi\-Colored Blue](https://open.spotify.com/track/2wrrQmt53rimB1ZEdmLrJd) | [Roberta Gambarini](https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS) | [Easy to Love](https://open.spotify.com/album/12aQHZD9fMjRqv9ny97mNk) | 6:29 | 2023-07-26 | 2023-12-24 |
+| [Multi\-Colored Blue](https://open.spotify.com/track/5yOfOxh7w2NgMIvS9rMtqb) | [Roberta Gambarini](https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS) | [Easy to Love](https://open.spotify.com/album/6jLzz5vXJ760qXUA6fO5Ve) | 6:29 | 2023-12-23 |  |
 | [Multi\-Colored Blue](https://open.spotify.com/track/3TvP5l10j5Rq01glGi4lRp) | [Roberta Gambarini](https://open.spotify.com/artist/5tW1LNzRtpzKpzTK7HAWTS) | [Easy to Love](https://open.spotify.com/album/6xfAdEYFj8SY5is9L7gj2t) | 6:30 | 2022-09-08 | 2023-07-27 |
 | [My Little Brown Book](https://open.spotify.com/track/4rmCI9VWrwrJTJ8XQ80BMN) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Duke Ellington & John Coltrane](https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5) | 5:19 | 2022-09-08 |  |
 | [My Resistance Is Low \- Alternate Take](https://open.spotify.com/track/6QaYNOZJt61S5NpmXk5t4N) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [The Complete United Artist Sessions](https://open.spotify.com/album/1av3ItSe0NMhJiAmqqPpRm) | 2:17 | 2022-09-08 |  |

@@ -4,7 +4,7 @@
 
 > Les indispensables de l'été.
 
-75 songs - 3 hr 54 min
+76 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Crazy What Love Can Do](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Crazy What Love Can Do](https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707) | 2:49 | 2022-12-16 | 2023-05-23 |
 | [Crying On The Dancefloor](https://open.spotify.com/track/09rAJ1Q1NNJSaUKEW3X9P6) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA), [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Crying On The Dancefloor](https://open.spotify.com/album/4IUv9dcdWGXkug84xuIwX7) | 2:53 | 2023-05-22 |  |
 | [Dancing In The Moonlight \(feat\. NEIMY\)](https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Dancing In The Moonlight \(feat\. NEIMY\)](https://open.spotify.com/album/577x4v0DO2oQcymLzdAyQ8) | 2:44 | 2022-12-16 |  |
-| [Danza Kuduro](https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 3:18 | 2023-05-22 |  |
+| [Danza Kuduro](https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Meet The Orphans](https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm) | 3:18 | 2023-05-22 | 2023-12-24 |
+| [Danza Kuduro \- Cover](https://open.spotify.com/track/62Bw8RYggGHyQCdxsdecU7) | [DJ MIX NON\-STOP CHANNEL](https://open.spotify.com/artist/36pLdBwk3RGvnumT8q9Z92) | [DON'T STOP WORKOUT \-DJMIX\-](https://open.spotify.com/album/4ETAFxKsmD9URKvaw0Brj3) | 3:16 | 2023-09-25 |  |
 | [Danza Kuduro \- Cover](https://open.spotify.com/track/1GBfNdK0Yw9Hy0OWCoKhYT) | [MUSIC LAB JPN](https://open.spotify.com/artist/61ifFEOS4km183fkC64e8I) | [A collection of Western music that will get you excited](https://open.spotify.com/album/2GYfY0yKepUSBSv40OaKXt) | 3:18 | 2023-09-25 | 2023-11-21 |
 | [Danza Kuduro \- Cover](https://open.spotify.com/track/4NthuXXMbzAgJjhcV62SEq) | [WORK OUT GYM \- DJ MIX](https://open.spotify.com/artist/1C2SvMRlj6pLbmeUGqsUGS) | [WORK OUT MUSIC MIX](https://open.spotify.com/album/4uEeKKmhutQrGULNtg3V3i) | 3:18 | 2023-09-25 | 2023-10-26 |
 | [Danza Kuduro \- Cover](https://open.spotify.com/track/6igJeXPm1imhj1oEXjOxwN) | [WORK OUT GYM \- DJ MIX](https://open.spotify.com/artist/1C2SvMRlj6pLbmeUGqsUGS) | [Let's Workout \- Best Pop Hits \-](https://open.spotify.com/album/24MeYO60K87MWsx9e3NMGW) | 3:18 | 2023-09-25 | 2023-10-11 |

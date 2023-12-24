@@ -590,7 +590,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -616,6 +616,24 @@
       "duration_ms": 198786,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/6DXLO8LndZMVOHM0wNbpzg"
+    },
+    {
+      "album": {
+        "name": "DON'T STOP WORKOUT -DJMIX-",
+        "url": "https://open.spotify.com/album/4ETAFxKsmD9URKvaw0Brj3"
+      },
+      "artists": [
+        {
+          "name": "DJ MIX NON-STOP CHANNEL",
+          "url": "https://open.spotify.com/artist/36pLdBwk3RGvnumT8q9Z92"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196708,
+      "name": "Danza Kuduro - Cover",
+      "url": "https://open.spotify.com/track/62Bw8RYggGHyQCdxsdecU7"
     },
     {
       "album": {

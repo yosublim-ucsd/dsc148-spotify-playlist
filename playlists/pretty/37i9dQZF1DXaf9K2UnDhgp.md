@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 
 > Riffing around the Christmas tree\. Cover: My Chemical Romance
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,197 likes - 111 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,832 likes - 111 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 | 50 | [Alone This Holiday](https://open.spotify.com/track/1Xg0NHQwMufxevkhxjgYWz) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Gift Wrapped: 20 Songs That Keep On Giving](https://open.spotify.com/album/6VkWzNwwvmUfEBAzrBEIzY) | 2:55 |
 | 51 | [We All Need Christmas](https://open.spotify.com/track/0cGgN5pGXfECL8OLZEeIf2) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [We All Need Christmas](https://open.spotify.com/album/7nXguxttjtF1IkupVfms5q) | 3:57 |
 | 52 | [Christmas Will Really Be Christmas](https://open.spotify.com/track/1XnK3vy0uLNYAW60O5Xn88) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Spotify Singles \- Holiday](https://open.spotify.com/album/7EM6VUKspXVgEu8uref4au) | 2:40 |
-| 53 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/0jLZ1tlE3wcXljZdePwHJz) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Rockin' Around The Christmas Tree](https://open.spotify.com/album/3lNJSpgqxurPSSt6hWTNgv) | 2:18 |
+| 53 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/3tE3MR4G5xwWIS9VGSzwVC) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Rockin' Around The Christmas Tree](https://open.spotify.com/album/12VOY0iAF85kCIfD5bDGyj) | 2:18 |
 | 54 | [Merry Christmas, Kiss My Ass](https://open.spotify.com/track/1Y2GZOHagYKkKRzNVbpbT5) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Dirty Work](https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8) | 3:19 |
 | 55 | [12 Days of Christmas](https://open.spotify.com/track/02SAP5qoj5GWubcKJDgXX9) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Let It Snow Baby...Let It Reindeer](https://open.spotify.com/album/6RwCnJnuTKo9yjxXwAQEo6) | 3:33 |
 | 56 | [Wizards in Winter \- Instrumental](https://open.spotify.com/track/3dvhNq0P4rNaFqmj21jKF5) | [Trans\-Siberian Orchestra](https://open.spotify.com/artist/5OSQDUNmll299ldFIF1Dau) | [The Lost Christmas Eve](https://open.spotify.com/album/2yJuneDUHgCOl6anHPstQG) | 3:05 |
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf9K2UnDhgp.md) - [plain]
 | 110 | [Sleigh Ride](https://open.spotify.com/track/7G89dEgWAsFw4rODlvygqB) | [This Wild Life](https://open.spotify.com/artist/3eoazmwspxeKFenMP1PQva) | [Punk Goes Christmas \(Deluxe\)](https://open.spotify.com/album/6pj3sxkEUpAOlix05HpxmF) | 2:55 |
 | 111 | [Winter Wonderland](https://open.spotify.com/track/1p95JMdRImM00RePtDOqMS) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Winter Wonderland](https://open.spotify.com/album/6PLIjkHMclkP8Bfr209blv) | 2:01 |
 
-Snapshot ID: `MCw1Y2EyZDU0NThmY2EwZjI0YThlMjYxZGNiZGZlNDE0ODNlNWY3NzIy`
+Snapshot ID: `MCwzYTZlM2EyMmUyMTI3NzJlMDBjMjBjNzBhMGQ1ZjNiOGY2ZDAxNjY3`

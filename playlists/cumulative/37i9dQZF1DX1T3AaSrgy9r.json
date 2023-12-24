@@ -892,7 +892,7 @@
     {
       "album": {
         "name": "Abc Music - The Radio 1 Sessions",
-        "url": "https://open.spotify.com/album/6OCHcY6z1QzM5zNCkwAvnl"
+        "url": "https://open.spotify.com/album/2HQ7mb0QI0PCgj4ci7LEeZ"
       },
       "artists": [
         {
@@ -903,6 +903,24 @@
       "date_added": "2021-07-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 260640,
+      "name": "Gabriel",
+      "url": "https://open.spotify.com/track/28BOzceMLCsn1AwusNQ55z"
+    },
+    {
+      "album": {
+        "name": "Abc Music - The Radio 1 Sessions",
+        "url": "https://open.spotify.com/album/6OCHcY6z1QzM5zNCkwAvnl"
+      },
+      "artists": [
+        {
+          "name": "Lamb",
+          "url": "https://open.spotify.com/artist/08YvZ2qzFrDSITfHLbPKMP"
+        }
+      ],
+      "date_added": "2021-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
       "duration_ms": 260640,
       "name": "Gabriel",
       "url": "https://open.spotify.com/track/3hjWMckLi4P4KGlXQP4IqO"

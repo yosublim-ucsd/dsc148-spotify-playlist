@@ -2944,7 +2944,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 163000,
       "name": "Big Dawg",
       "url": "https://open.spotify.com/track/7MGdLxPvA6BTNOtcayaefW"
@@ -3320,7 +3320,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 145001,
       "name": "Bonnie & Clyde",
       "url": "https://open.spotify.com/track/4yXfjXz2RKFFUS610RaRiw"
@@ -5652,6 +5652,28 @@
       "duration_ms": 255278,
       "name": "Cry Your Heart Out",
       "url": "https://open.spotify.com/track/09u787BYeYIGd2mFIJ505t"
+    },
+    {
+      "album": {
+        "name": "CTT",
+        "url": "https://open.spotify.com/album/4J2he9dmvq6QeymHoWWR4B"
+      },
+      "artists": [
+        {
+          "name": "LilCagula",
+          "url": "https://open.spotify.com/artist/3uR0BLXGAv5YciM8meWqmO"
+        },
+        {
+          "name": "Mgk666",
+          "url": "https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177428,
+      "name": "CTT",
+      "url": "https://open.spotify.com/track/449TMXEYrsYEa3ERiDVcVJ"
     },
     {
       "album": {
@@ -8538,7 +8560,7 @@
       ],
       "date_added": "2023-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 182066,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
@@ -15090,7 +15112,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 194918,
       "name": "Marut, Margaritar",
       "url": "https://open.spotify.com/track/4NsHMmSMkNo01lOcttVTxZ"
@@ -15550,7 +15572,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 235500,
       "name": "MILIARDE 2",
       "url": "https://open.spotify.com/track/4CO2kVFMNoFtulxbViGV9k"
@@ -19022,7 +19044,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
@@ -23042,7 +23064,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 163516,
       "name": "Stai nu fugi",
       "url": "https://open.spotify.com/track/0XwdAvTislcveETFNruf2l"

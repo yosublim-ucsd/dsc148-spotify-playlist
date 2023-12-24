@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 
 > Fresh takes—from new revisions and iconic covers to unexpected versions and the songwriter's own covers\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,543 likes - 104 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,544 likes - 104 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 | 92 | [Man In The Long Black Coat](https://open.spotify.com/track/7IGUD6b2HQ0wovy9EtFU0M) | [Joan Osborne](https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o) | [Relish \(20th Anniversary Edition\)](https://open.spotify.com/album/41stlvVIHnm6prMIEdDOFD) | 4:50 |
 | 93 | [Pledging My Time \(Live\)](https://open.spotify.com/track/0y7s4aAkcQTLu6sViCYaP5) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [50 Years of Blonde on Blonde \(Live\)](https://open.spotify.com/album/0uyUriz7zOAn1G9sB8zH8e) | 1:57 |
 | 94 | [When I Paint My Masterpiece \- With the Levon Helm Band and Joan Osborne](https://open.spotify.com/track/71bpQZ2KsOnSOEel5xdmKe) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Garth Hudson](https://open.spotify.com/artist/4Krw5EvLS5prCEDNmmospt) | [Love For Levon](https://open.spotify.com/album/7gxqBEgqD6dF5JSiidGPhK) | 4:05 |
-| 95 | [Lay Lady Lay](https://open.spotify.com/track/50sHkvvG8AtnaCmq0wT0lY) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Tangled Up In Blues: Songs Of Bob Dylan](https://open.spotify.com/album/3wf0nwy96szSZmkZaa9NYa) | 5:36 |
+| 95 | [Lay Lady Lay](https://open.spotify.com/track/1RDh0l7AeYTDvlnUgmYSpr) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Tangled Up In Blues: Songs Of Bob Dylan](https://open.spotify.com/album/0Vh63ttTwAGKidFyKaloFX) | 5:36 |
 | 96 | [Love Is Just A Four\-Letter Word](https://open.spotify.com/track/3qq5qOc70lovPvgBqI0vBI) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Baez Sings Dylan](https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG) | 4:28 |
 | 97 | [It's All Over Now, Baby Blue \(feat\. Van Morrison\)](https://open.spotify.com/track/6p0PlK8KoSERN4LX0bIq9u) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Complete Them \(1964\-1967\) \(feat\. Van Morrison\)](https://open.spotify.com/album/0I5bDXICWz4idoFkxv0W4Z) | 3:47 |
 | 98 | [Percy's Song](https://open.spotify.com/track/42AculhBjoTlwLF4xz8Sit) | [Fairport Convention](https://open.spotify.com/artist/2LIdnZDzySb04oH40be1fR) | [Meet On The Ledge: The Classic Years \(1967\-1975\)](https://open.spotify.com/album/6lHi6BAQFyyoEviq9ii9ii) | 6:47 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q1RHoDiZBg.md) - [plain]
 | 103 | [I'll Be Your Baby Tonight](https://open.spotify.com/track/3XtzbjnUGMHUbHpw3yS46L) | [the ORIGINAL SEEKERS](https://open.spotify.com/artist/37uWXC5EdtnuuBUxDvWSoB) | [Back To Our Roots](https://open.spotify.com/album/0Aye9uEvEC6S6ngXg4w7p2) | 3:14 |
 | 104 | [The Times They Are A\-Changin'](https://open.spotify.com/track/4OjNq26zx5GvoBwgljFZ1d) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [Back in the High Life Again / The Times They Are A\-Changin'](https://open.spotify.com/album/344tOUpZdZhbZ8K3N7acKg) | 3:49 |
 
-Snapshot ID: `MCw1NzBkZTJmMjRkMDk1NjhhZGM2ZDRiNWM2MDNmOTU1MDY0ZTNmODli`
+Snapshot ID: `MCxmOGQ1ZDNhMzI2NDhiZTE1YzVjMjg1YzRhNjEyNDZhM2RlNDhhZTI5`

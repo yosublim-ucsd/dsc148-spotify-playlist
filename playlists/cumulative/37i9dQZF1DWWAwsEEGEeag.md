@@ -4,7 +4,7 @@
 
 > chansons pour journées ensoleillées 🌞
 
-136 songs - 8 hr 0 min
+137 songs - 8 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [Nouvelle vague](https://open.spotify.com/track/0tsBY4lZ594GnM8wv8zt5q) | [Wake Island](https://open.spotify.com/artist/0FXZWBe4MYnB5ArTU9RnXE) | [Born to Leave](https://open.spotify.com/album/5H0jOvMZLKGiqI0jYc4WDn) | 4:10 | 2022-06-24 |  |
 | [Nouvelle\-Orléans](https://open.spotify.com/track/1CCKf8yGsKuVz5cgRwgShM) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Paradigmes](https://open.spotify.com/album/1u2Q5MFWptOdPpldjC0xO9) | 3:53 | 2022-06-24 |  |
 | [Nuit américaine](https://open.spotify.com/track/1cOIijnd1qHpJSLA2jBQMe) | [Jérôme Minière](https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT), [NGABO](https://open.spotify.com/artist/73wyT5lSevGrU1bQhuDYdZ) | [Nuit américaine](https://open.spotify.com/album/00NbIUbjav9Sy89vKhPtLo) | 4:01 | 2022-06-24 |  |
-| [Obomi Nga](https://open.spotify.com/track/1YthsroKCm3ebScYHHjoEo) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [MC RedBul](https://open.spotify.com/artist/64QR3VB1Lc0fkVR9FSc6q7), [Uproot Andy](https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc), [Mc Azas](https://open.spotify.com/artist/17N0ZLk7LwYBXT2DsG73KN) | [Obomi Nga](https://open.spotify.com/album/52dGCyEMkAX9f2QVTUPdx0) | 6:14 | 2022-06-24 |  |
+| [Obomi Nga](https://open.spotify.com/track/1YthsroKCm3ebScYHHjoEo) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [MC RedBul](https://open.spotify.com/artist/64QR3VB1Lc0fkVR9FSc6q7), [Uproot Andy](https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc), [Mc Azas](https://open.spotify.com/artist/17N0ZLk7LwYBXT2DsG73KN) | [Obomi Nga](https://open.spotify.com/album/52dGCyEMkAX9f2QVTUPdx0) | 6:14 | 2022-06-24 | 2023-12-24 |
+| [Obomi Nga](https://open.spotify.com/track/7HMD4yuyLVrFivOkick9Tu) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [MC RedBul](https://open.spotify.com/artist/64QR3VB1Lc0fkVR9FSc6q7), [Uproot Andy](https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc), [Mc Azas](https://open.spotify.com/artist/17N0ZLk7LwYBXT2DsG73KN) | [SMS for Location, Vol\. 5](https://open.spotify.com/album/53K9oFiiCmvY5bUOIHIhwf) | 6:14 | 2023-04-10 |  |
 | [Od'e](https://open.spotify.com/track/1ScE6K1EyNArkFvXBVx9D5) | [Amarula Café Club](https://open.spotify.com/artist/5ESiClFEihXPGrgq9t36Gd) | [Od'e](https://open.spotify.com/album/28aBqDyHlDAJ74Ph4DSG3o) | 2:48 | 2023-04-10 |  |
 | [Od'e](https://open.spotify.com/track/6BWGXZi3hVmSOpAeDIexfi) | [Amarula Café Club](https://open.spotify.com/artist/5ESiClFEihXPGrgq9t36Gd) | [Od'e](https://open.spotify.com/album/1CDTfbRnxNry1wFOrpDxhT) | 2:48 | 2022-06-24 | 2023-06-07 |
 | [One More](https://open.spotify.com/track/0MnqZrciuiv0WxaRTEAOCQ) | [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY) | [Speed of Life](https://open.spotify.com/album/0hgiiRQ8g4UVdwmDHMHDHX) | 3:18 | 2022-09-23 | 2022-11-14 |

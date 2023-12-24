@@ -4,14 +4,15 @@
 
 > A collection of insane progressive rock creations, from classic acts to recent gems\. Cover: Rush
 
-211 songs - 1 day 5 hr 51 min
+213 songs - 1 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2112: Overture / The Temples Of Syrinx / Discovery / Presentation / Oracle / Soliloquy / Grand Finale \- Medley](https://open.spotify.com/track/2DMDV9kUEO2WjUHg5acHBY) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [2112 \(Remastered\)](https://open.spotify.com/album/3eBrvZnagmIDbdgse7cjI6) | 20:33 | 2021-05-05 | 2023-03-23 |
 | [21st Century Schizoid Man](https://open.spotify.com/track/5yClziwiwTdqRmdPQl3NDz) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [In The Court Of The Crimson King \(Expanded & Remastered Original Album Mix\)](https://open.spotify.com/album/5wec5BciMpDMzlEFpYeHse) | 7:22 | 2019-07-01 | 2022-07-29 |
 | [21st Century Schizoid Man](https://open.spotify.com/track/0vd4EJwjK6rJxMjtSQ5mU5) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [The Condensed 21st Century Guide To King Crimson \(1969 \- 2003\)](https://open.spotify.com/album/4jfFma9AGLuMb8rrBzD54z) | 7:23 | 2021-05-05 | 2023-03-23 |
-| [21st Century Schizoid Man \- Including "Mirrors"](https://open.spotify.com/track/5L7VBYoosmkmiiDlzumdCe) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [In The Court Of The Crimson King \(Expanded & Remastered Original Album Mix\)](https://open.spotify.com/album/6tVg2Wl9hVKMpHYcAl2V2M) | 7:22 | 2019-07-01 |  |
+| [21st Century Schizoid Man \- Including "Mirrors"](https://open.spotify.com/track/2MfrET7Nc3StKQcGoZKqr9) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [In The Court Of The Crimson King \(Expanded & Remastered Original Album Mix\)](https://open.spotify.com/album/75ol9OP8bJaRqzGimpFHDm) | 7:22 | 2023-03-22 |  |
+| [21st Century Schizoid Man \- Including "Mirrors"](https://open.spotify.com/track/5L7VBYoosmkmiiDlzumdCe) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [In The Court Of The Crimson King \(Expanded & Remastered Original Album Mix\)](https://open.spotify.com/album/6tVg2Wl9hVKMpHYcAl2V2M) | 7:22 | 2019-07-01 | 2023-12-24 |
 | [A Favor House Atlantic](https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [In Keeping Secrets Of Silent Earth: 3](https://open.spotify.com/album/2oWXmi9uLRKn60yRmY22MB) | 3:54 | 2018-09-28 | 2023-03-23 |
 | [A Fortune In Lies](https://open.spotify.com/track/5g2M9oRpdhg32GepfEmUQy) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [When Dream And Day Unite](https://open.spotify.com/album/1AznpOdGM8OcHYmqOUBXy3) | 5:11 | 2023-03-22 |  |
 | [A Life Within a Day](https://open.spotify.com/track/4579wCnUpMhfut4it9tcy5) | [Squackett](https://open.spotify.com/artist/1j2rZAs0HP4mbyZYhlwI32) | [A Life Within a Day](https://open.spotify.com/album/4hw4TpWwp29EBFctKq2fkh) | 6:35 | 2018-09-28 | 2022-07-29 |
@@ -147,7 +148,8 @@
 | [Poseidon's Creation](https://open.spotify.com/track/11NuCMUMDCw5OXRxUdPBp0) | [Eloy](https://open.spotify.com/artist/00ZLLJ51l9Ir5gyaGSUYxL) | [Ocean](https://open.spotify.com/album/2dn0CYoFrWYBgaXc3YGiCk) | 11:42 | 2018-09-28 | 2022-07-29 |
 | [Publiphobie](https://open.spotify.com/track/5bdxnqGx8kYHk7UksDmLXb) | [Carpe Diem](https://open.spotify.com/artist/3wgKD5T8ogOZBqCMrYiZTH) | [En Regardant Passer Le Temps](https://open.spotify.com/album/3gzvDKC8YeNYguIMHkSqCl) | 9:54 | 2018-09-28 | 2023-03-23 |
 | [Red](https://open.spotify.com/track/7glAa12S2il6Khex6ArFJy) | [Brand X](https://open.spotify.com/artist/4DngluvBNHm2Q0rLW1yEqy) | [Asia & Progressive Rock Friends](https://open.spotify.com/album/01BUivwkOUj1mdhkc9jN1y) | 6:02 | 2018-09-28 | 2023-03-23 |
-| [Red](https://open.spotify.com/track/6uhJMvfmH0IiK6dp0Wg2nQ) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [The Condensed 21st Century Guide To King Crimson \(1969 \- 2003\)](https://open.spotify.com/album/4jfFma9AGLuMb8rrBzD54z) | 6:15 | 2019-07-01 |  |
+| [Red](https://open.spotify.com/track/6uhJMvfmH0IiK6dp0Wg2nQ) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [The Condensed 21st Century Guide To King Crimson \(1969 \- 2003\)](https://open.spotify.com/album/4jfFma9AGLuMb8rrBzD54z) | 6:15 | 2019-07-01 | 2023-12-24 |
+| [Red](https://open.spotify.com/track/7Ml2BCAVVdBKylU254iGgk) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [The Condensed 21st Century Guide To King Crimson \(1969 \- 2003\)](https://open.spotify.com/album/1dbVSQR5jcw5rdngMyA3d8) | 6:15 | 2023-03-22 |  |
 | [Red](https://open.spotify.com/track/0x8EnZlhgyaUOyzWelgbzW) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [Red \(Expanded & Remastered Original Album Mix\)](https://open.spotify.com/album/0G4xbbwtdfZGV0cLN4y8SP) | 6:15 | 2019-07-01 | 2022-07-29 |
 | [Red](https://open.spotify.com/track/2ROj14ZhKchHWBMtzwzo0i) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [Red \(Expanded & Remastered Original Album Mix\)](https://open.spotify.com/album/13dGZzRzFoejmyVXAbTPAH) | 6:15 | 2019-07-01 | 2023-12-23 |
 | [Reflection](https://open.spotify.com/track/0R7HFX1LW3E0ZR5BnAJLHz) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Lateralus](https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T) | 11:07 | 2023-03-22 |  |

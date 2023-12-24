@@ -4,7 +4,7 @@
 
 > Get lifted by the waves of faith\-infused music\.  Cover: <a href="spotify:artist:5YxebzzreNswbtYC1td4cx">Tasha Cobbs Leonard</a>
 
-299 songs - 18 hr 19 min
+300 songs - 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [I Get](https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [I Get](https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm) | 3:30 | 2022-06-01 | 2023-07-14 |
 | [I Heard A Voice](https://open.spotify.com/track/0cWoF0i1AUtHL98Qj9NZh8) | [Thi'sl](https://open.spotify.com/artist/1Q45nhioxaxZTDjR0iaMWp) | [I Heard A Voice](https://open.spotify.com/album/2PrK3fThYOobj3kHtoT4kv) | 1:28 | 2022-12-16 | 2023-07-14 |
 | [I Rely](https://open.spotify.com/track/0OeSsrfNKaGyay7I1XOmD1) | [SEMAJE](https://open.spotify.com/artist/4M93StsBRGsfkjgSBH6sRW) | [I Rely](https://open.spotify.com/album/38l2hDLPfz2xHLxeoVqJGB) | 3:49 | 2022-12-16 | 2023-12-16 |
-| [I Still Have You](https://open.spotify.com/track/21ksdeytHBlKH3coDrDud9) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [I Still Have You](https://open.spotify.com/album/2de2aejtRsBb5cbnZB5Orc) | 4:14 | 2023-07-13 |  |
+| [I Still Have You](https://open.spotify.com/track/21ksdeytHBlKH3coDrDud9) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [I Still Have You](https://open.spotify.com/album/2de2aejtRsBb5cbnZB5Orc) | 4:14 | 2023-07-13 | 2023-12-24 |
 | [I Was Loved](https://open.spotify.com/track/1bVIWSmlFhGU5pAjY7weXM) | [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [I Was Loved](https://open.spotify.com/album/6vky6IC6laXzH5ZViLAJ68) | 4:41 | 2022-06-01 | 2023-08-08 |
 | [I Will Rejoice \- Live](https://open.spotify.com/track/1Q6yfDa3t9TsdZ3Dv6zFH9) | [Isabel Davis](https://open.spotify.com/artist/0zLMumXvsZqoNGYU5KWHX0) | [The Invitation](https://open.spotify.com/album/5t18qziD5srq5ZR31HLxjg) | 4:34 | 2023-07-13 |  |
 | [I Will See \(And Live\)](https://open.spotify.com/track/1QmFNu6g02GfeFnyvEejr3) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [I Will See \(And Live\)](https://open.spotify.com/album/4vc87QuyU6CINvYdRRRM9q) | 8:04 | 2022-09-30 | 2022-12-17 |
@@ -167,6 +167,7 @@
 | [Legendary](https://open.spotify.com/track/7jBZrY5Em6uhlNIrS8tazh) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Legendary](https://open.spotify.com/album/3k3jLvON0A6tUcrwFYq7X8) | 2:09 | 2023-11-02 |  |
 | [less is more](https://open.spotify.com/track/6LtfBO4j0drKRguNyuIR5r) | [Gaetan Judd](https://open.spotify.com/artist/7F5l2LuXQMfl3NAooWWdkc) | [upperroom](https://open.spotify.com/album/3znNeJteM16vHwOsgnIbK3) | 2:32 | 2023-12-15 |  |
 | [Let It Be Your Will](https://open.spotify.com/track/4c6cmc4E57dKujV20KAa4I) | [Dwan Hill](https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ) | [Let It Be Your Will](https://open.spotify.com/album/0MK1wRUYjX4kp0MwDOnFJs) | 4:10 | 2023-02-02 | 2023-06-09 |
+| [Lift Me](https://open.spotify.com/track/0p0OlAwwoRoL9HkwfLGhO5) | [Tobi Adey](https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE) | [Veil](https://open.spotify.com/album/3OSOyi6kUgfrZKUrOklrol) | 3:56 | 2023-12-15 |  |
 | [Lift Me Again \- Acoustic](https://open.spotify.com/track/0Zbq6RYkNYNjjWMpGeXLXv) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Lift Me Again \(Acoustic\)](https://open.spotify.com/album/6TzaybZjKwUT66xT15yhWR) | 3:36 | 2022-06-01 | 2023-07-14 |
 | [Look At You](https://open.spotify.com/track/6siVkh1jUbnZCseo7D3K0s) | [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Look At You](https://open.spotify.com/album/6ByjGbv5DRxWzMqdnQoo17) | 6:24 | 2022-02-18 | 2023-11-03 |
 | [Look Up to the Sky](https://open.spotify.com/track/2jBEHf6yn7E05OBGo2jWNc) | [Lathan Warlick](https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Look Up to the Sky](https://open.spotify.com/album/5g0rPgvuJJB0HRxY2nufjn) | 2:53 | 2022-09-03 | 2023-12-16 |

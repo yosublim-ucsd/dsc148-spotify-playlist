@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-375 songs - 1 day 4 hr 52 min
+376 songs - 1 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,8 @@
 | [Love Age](https://open.spotify.com/track/4rI9SISHRL2STgTlLH1DtN) | [The Sure Fire Soul Ensemble](https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ) | [Step Down](https://open.spotify.com/album/3Gy33o1AUvu4eNKT8jHAIV) | 3:29 | 2022-04-01 |  |
 | [Mac \(feat\. Jared Gold & McClenty Hunter Jr.\)](https://open.spotify.com/track/5vAXscu4cOsbjL3VWu7Bc7) | [Dave Stryker](https://open.spotify.com/artist/41erh9nyEL8GCFcnZ1msZ6), [Jared Gold](https://open.spotify.com/artist/5jrT4GPD1AtHhvHR3hTsvW), [McClenty Hunter Jr.](https://open.spotify.com/artist/1d6NjSLLkNWEu6PZ04WfSs) | [Prime](https://open.spotify.com/album/4UkZ8MAwpMb0eGt82Q2QvI) | 5:16 | 2023-02-10 |  |
 | [Magnetar \(feat\. Adam Deitch & Shaun Martin\)](https://open.spotify.com/track/3L3JqFvXR2Y2W9LhG1ZjE9) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Adam Deitch](https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw), [Shaun Martin](https://open.spotify.com/artist/14Im3li8h1ehG6eM3lersk) | [Magnetar \(feat\. Adam Deitch & Shaun Martin\)](https://open.spotify.com/album/7lE7qB2f0S6IL4aUJjKzA4) | 4:36 | 2021-04-09 | 2023-04-15 |
-| [Make It Happen](https://open.spotify.com/track/71GSsZ6FLorCVQHtrG9HVJ) | [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4), [Booker T\. Jones](https://open.spotify.com/artist/6J3pUmw6KX1LqyLQkP0k9U) | [The Best Of Mindi Abair](https://open.spotify.com/album/1LqaZigMosz4mBJ3pQkbdk) | 5:05 | 2021-04-02 |  |
+| [Make It Happen](https://open.spotify.com/track/6gp02Vk9oRBs345RPmY0KB) | [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4), [Booker T\. Jones](https://open.spotify.com/artist/6J3pUmw6KX1LqyLQkP0k9U) | [The Best Of Mindi Abair](https://open.spotify.com/album/5iUHXuDia01XfhEvckqvXy) | 5:05 | 2021-04-09 |  |
+| [Make It Happen](https://open.spotify.com/track/71GSsZ6FLorCVQHtrG9HVJ) | [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4), [Booker T\. Jones](https://open.spotify.com/artist/6J3pUmw6KX1LqyLQkP0k9U) | [The Best Of Mindi Abair](https://open.spotify.com/album/1LqaZigMosz4mBJ3pQkbdk) | 5:05 | 2021-04-02 | 2023-12-24 |
 | [Mars Blues](https://open.spotify.com/track/6KDen8FE1Cw8Rr0VAuiRwj) | [Telemakus](https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6), [Chino Corvalán](https://open.spotify.com/artist/6kfOGQtwF9oS6rYSdVG4Ol), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX), [Corydrums](https://open.spotify.com/artist/3LU0lAD1W7SbzLnzeYudtJ) | [Mars Blues](https://open.spotify.com/album/1AbmpVcRmp1qeEiMNLqMqo) | 3:50 | 2021-07-23 | 2023-11-25 |
 | [May The Funk Be With You](https://open.spotify.com/track/0nLPiYtwLN82ohURgzmY0j) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [May The Funk Be With You](https://open.spotify.com/album/5WoBBQEGsj7URsnboRwGVQ) | 4:27 | 2022-03-04 | 2023-09-04 |
 | [May The Funk Be With You](https://open.spotify.com/track/6GkeuiAXhBvPp4WsBgDvmV) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W) | [May The Funk Be With You](https://open.spotify.com/album/5faIHrMfkgStcx4P1MmiKT) | 4:27 | 2022-03-04 |  |

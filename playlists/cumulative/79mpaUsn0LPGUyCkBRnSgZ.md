@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-379 songs - 1 day 0 hr 37 min
+383 songs - 1 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Absolutely Cuckoo](https://open.spotify.com/track/6In0XQ2hzhfHbW5L6mkc4j) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [69 Love Songs](https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7) | 1:34 | 2023-04-24 |  |
 | [Act Won \(Things Fall Apart\)](https://open.spotify.com/track/4x7uHC8or1AwVeRCh1mULV) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Things Fall Apart](https://open.spotify.com/album/0qbl8aNaCUOvX8HGsZYLfh) | 0:53 | 2022-01-03 |  |
 | [Adam, Check Please](https://open.spotify.com/track/6klpTuQQtcAUCXMKzz4IdZ) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Coco Moon](https://open.spotify.com/album/6ZKh1FlIKBeDJYVSuvF2LM) | 5:38 | 2023-03-24 |  |
+| [Ain't Nice \- Live](https://open.spotify.com/track/3gdKrnlB0WmJtlxSur73Rm) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Shrimp Sessions 2 \(Live\)](https://open.spotify.com/album/5eSg2ejmod1kGMjCR7giv7) | 3:32 | 2023-12-23 |  |
 | [Ain't That Easy](https://open.spotify.com/track/2yx7XX9v7M6yhm2fBG7K3E) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Black Messiah](https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6) | 4:49 | 2022-01-06 |  |
 | [Airbag](https://open.spotify.com/track/7c378mlmubSu7NGkLFa4sN) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:47 | 2022-01-11 |  |
 | [Alagbon Close](https://open.spotify.com/track/4GSQCm1u2rjFAY5fa3jzqM) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Alagbon Close](https://open.spotify.com/album/7ITClWSnPtE9Nvqy6F8vsy) | 17:01 | 2023-06-14 | 2023-07-09 |
@@ -47,6 +48,7 @@
 | [Astral Weeks \- 1999 Remaster](https://open.spotify.com/track/0vz4iTEfsp2lunsRJeMzjj) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Astral Weeks](https://open.spotify.com/album/4pG3bKkbmReDt5QTDn3JDz) | 7:06 | 2022-07-31 | 2023-04-10 |
 | [Auctioneers](https://open.spotify.com/track/38OamTicvJLe8yYnO9E8uy) | [Mickey Hart](https://open.spotify.com/artist/4eh3NWjKDBI81nFl9uhWtU) | [RAMU](https://open.spotify.com/album/7IR0Hl68yWwXDJzTIQnwbn) | 2:41 | 2023-03-23 | 2023-07-09 |
 | [Awake on foreign shores](https://open.spotify.com/track/04jsvZ48NlfZPVGXks5kiV) | [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [New History Warfare Vol\. 2: Judges](https://open.spotify.com/album/56rcjS8EZIWTXCbk1V2NBI) | 1:30 | 2023-12-16 |  |
+| [Baby Teeth](https://open.spotify.com/track/0rMUVKJNVdtvfv7X8fmyJQ) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Call Of The Wild](https://open.spotify.com/album/04lnbWH0D5eo1RaC2s4uXj) | 8:02 | 2023-12-23 |  |
 | [Bad Touch Example](https://open.spotify.com/track/1NHnvlyOUgADYNmdJxaBIQ) | [Company Flow](https://open.spotify.com/artist/0y0VESpVYa8xyNAxu77kcS) | [Funcrusher Plus](https://open.spotify.com/album/3010pCoYlw3arCbTroajyB) | 3:26 | 2023-03-24 |  |
 | [Bambi](https://open.spotify.com/track/6wQXjA6KWbwPT3ydQCsJ4P) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 4:37 | 2023-11-03 |  |
 | [Band On The Run \- 2010 Remaster](https://open.spotify.com/track/1H4idkmruFoJBg1DvUv2tY) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run \(Standard\)](https://open.spotify.com/album/257oomaawruFknt5wYCPDh) | 5:13 | 2023-08-17 |  |
@@ -85,6 +87,7 @@
 | [Cold Chillin' Cold Chillin'](https://open.spotify.com/track/1m3wtu9X4ReNFAE2fxH48j) | [Bomb the Music Industry!](https://open.spotify.com/artist/7mmU5GuOoyxoBAgOZkSVj7) | [SCRAMBLES](https://open.spotify.com/album/1SlZCvQYF5aKtFiFd65dVY) | 1:45 | 2022-04-19 |  |
 | [Come On Over Here](https://open.spotify.com/track/1GsC3kC4vBEPt8ETD5W4CB) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Secrets](https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o) | 3:37 | 2023-05-21 |  |
 | [Come Together \- Remastered 2009](https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN) | 4:19 | 2022-08-07 | 2023-12-14 |
+| [Common Sense](https://open.spotify.com/track/1k50Wd4FpBpp0v1Rkuv62W) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Common Sense](https://open.spotify.com/album/1kiiHeNfR8OZWcCeOPpRW3) | 4:01 | 2023-12-23 |  |
 | [Conditions Of A Punk](https://open.spotify.com/track/2viUGuVwPAWIZXlOJHLHoO) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Conditions Of A Punk](https://open.spotify.com/album/4mdZ4AxMYHZk3qE5jBmlzM) | 3:36 | 2023-03-19 |  |
 | [Conservation of Two](https://open.spotify.com/track/1EfjX1u3coTBbmkFofxLoj) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [You Will Never Know Why](https://open.spotify.com/album/78lIjVFQSSRqO47Pvw1b9M) | 2:41 | 2023-01-07 |  |
 | [Cooking Up Something Good](https://open.spotify.com/track/2Dgfey8RouHR9ziGmThLli) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO) | 2:41 | 2023-12-17 | 2023-12-21 |
@@ -277,6 +280,7 @@
 | [Ready Lets Go](https://open.spotify.com/track/27M2m1NzEmCkzb9kzTLqzT) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Geogaddi](https://open.spotify.com/album/7Lou3RDk6NswmbzBMhro24) | 0:59 | 2022-05-28 |  |
 | [recognized](https://open.spotify.com/track/4sriGuSuKyc8mmcoWaNO2b) | [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl) | [Why Does the Earth Give Us People to Love?](https://open.spotify.com/album/2itoipNg0XOD1uwThhkVtO) | 1:02 | 2023-04-19 |  |
 | [Rehab](https://open.spotify.com/track/1L5tZi0izXsi5Kk5OJf4W0) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 3:33 | 2023-11-19 |  |
+| [Research Chemicals](https://open.spotify.com/track/37C2eshetthNcnTu59a5yy) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Consistency of Energy](https://open.spotify.com/album/5uWaN4A4OlmGGmdEx90pGX) | 6:19 | 2023-12-23 |  |
 | [Revelator](https://open.spotify.com/track/4Ui86NRu1aoBGRUJyPusp6) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Time \(The Revelator\)](https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp) | 6:22 | 2023-09-24 |  |
 | [Rid Of Me](https://open.spotify.com/track/3m2Zd230K68bC4Qe961d9p) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 4:28 | 2023-01-12 |  |
 | [Rise](https://open.spotify.com/track/688iitLNSV6Iik1QESqvth) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 1:41 | 2022-06-24 |  |

@@ -5172,6 +5172,28 @@
     {
       "album": {
         "name": "Movie",
+        "url": "https://open.spotify.com/album/64HMsj1Zu2EHC7IfCURb9Y"
+      },
+      "artists": [
+        {
+          "name": "BDK",
+          "url": "https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj"
+        },
+        {
+          "name": "SDK",
+          "url": "https://open.spotify.com/artist/6AxRl5OaLwIFsol7iVJeaW"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123350,
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/22G3mC1W48tMkkqFimC9c3"
+    },
+    {
+      "album": {
+        "name": "Movie",
         "url": "https://open.spotify.com/album/2CRsdNdX8XJmpHEaz9A3IK"
       },
       "artists": [
@@ -5186,7 +5208,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 123350,
       "name": "Movie",
       "url": "https://open.spotify.com/track/49Qou0fp5AIyYxiIXbB1I8"

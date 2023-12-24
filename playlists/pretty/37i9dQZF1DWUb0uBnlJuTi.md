@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,232 likes - 200 songs - 15 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,397 likes - 200 songs - 15 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,7 +133,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 123 | [Swing Praxis \- Kaidi Tatham Remix](https://open.spotify.com/track/37jXiMfAujPxIpblIl3EuO) | [Anthony Joseph](https://open.spotify.com/artist/622cbugSJevUkEanSBCab9), [Kaidi Tatham](https://open.spotify.com/artist/1x2aM48UiN5WoQL6ISEPvz) | [Swing Praxis \(Kaidi Tatham Remix\)](https://open.spotify.com/album/1yrVoalR2Bk3DSYKJb5gwl) | 5:26 |
 | 124 | [HOT SPOT](https://open.spotify.com/track/7ySxS4T7m30PmljNgTl1M9) | [Sam Hankins](https://open.spotify.com/artist/247stQu5JNHdlL5QguVthj) | [HOT SPOT](https://open.spotify.com/album/5CDTFPJ9aOAGjbKVhJ0WrR) | 4:33 |
 | 125 | [Presente Grego](https://open.spotify.com/track/644e0JBJRZbDOMjLLl0g9Z) | [High Pulp](https://open.spotify.com/artist/7mcmohD0Iz3xqKHaMXt5Cf) | [Mutual Attraction Vol\. 2](https://open.spotify.com/album/18hpk0Vz7PAcbKEPNsNfsq) | 3:13 |
-| 126 | [Make It Happen](https://open.spotify.com/track/71GSsZ6FLorCVQHtrG9HVJ) | [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4), [Booker T\. Jones](https://open.spotify.com/artist/6J3pUmw6KX1LqyLQkP0k9U) | [The Best Of Mindi Abair](https://open.spotify.com/album/1LqaZigMosz4mBJ3pQkbdk) | 5:05 |
+| 126 | [Make It Happen](https://open.spotify.com/track/6gp02Vk9oRBs345RPmY0KB) | [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4), [Booker T\. Jones](https://open.spotify.com/artist/6J3pUmw6KX1LqyLQkP0k9U) | [The Best Of Mindi Abair](https://open.spotify.com/album/5iUHXuDia01XfhEvckqvXy) | 5:05 |
 | 127 | [Under The Radar](https://open.spotify.com/track/6Q21dXNtqc0rbBzW49S6eH) | [Ricky Peterson](https://open.spotify.com/artist/1SB2erkfFBYuaaQLuFmNLk), [The Peterson Brothers](https://open.spotify.com/artist/4FRlJ8CPdj301G5XaVhxSX) | [Under the Radar](https://open.spotify.com/album/1ZL5SoYCOIhqtaNtb1MGUK) | 5:04 |
 | 128 | [Alchemy](https://open.spotify.com/track/3wVUiPGvtz01ThUNS97wMj) | [Lincoln Adler](https://open.spotify.com/artist/6QLoQBVmeZqyQKZthtH7Bp), [Erik Jekabson](https://open.spotify.com/artist/0ExhNDqQ9umcnyqNrVrVuU), [Mike Blankenship](https://open.spotify.com/artist/1vlnaSOePqL3jZ6EwPx1ea), [Scott Thompson](https://open.spotify.com/artist/0ixKryxEKyAEnJn2BMb2BF), [Aaron Green](https://open.spotify.com/artist/2WfH7tTvXBGotkGBBoW1Fm) | [Tabula Rasa](https://open.spotify.com/album/7nQdFhv9nB5zZX33K8Xz9R) | 4:04 |
 | 129 | [Blues 3+1](https://open.spotify.com/track/36GrhjwWLnKgkPdPt2ARhB) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [Bluesmith](https://open.spotify.com/album/2SOx7jfiPndedYKj8HSZx5) | 4:52 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [The Hornet's Nest](https://open.spotify.com/track/6wtLyIUHbG3XfVGNDL7U7y) | [Eleven 76](https://open.spotify.com/artist/3mHGVYRvwf2YC27xqftGTz), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [The Hornet's Nest](https://open.spotify.com/album/1ksnYmM1fPxOzbNEyyQTE8) | 2:16 |
 | 200 | [So Cold](https://open.spotify.com/track/3ftTujZJKBzxtDR5qId3Ge) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr) | [So Cold](https://open.spotify.com/album/6apEouE0HLqkoTSh1AFFtT) | 4:12 |
 
-Snapshot ID: `MCwwNmQ4YWNkMjRmYTM1NTlhZDcyNzBmMjMzNGI3ZjYxZDA5ZTMxMDky`
+Snapshot ID: `MCwyMTY5YjI4OWM0YWIwNjZlZGEzNDczYTIxOGYzMDgwMjdlMTIwMGJj`

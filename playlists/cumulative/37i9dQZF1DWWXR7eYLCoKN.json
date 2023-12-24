@@ -2102,6 +2102,24 @@
     {
       "album": {
         "name": "Oasis",
+        "url": "https://open.spotify.com/album/3fyFwIi7A4hCq08q2JvMgS"
+      },
+      "artists": [
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306906,
+      "name": "Vive",
+      "url": "https://open.spotify.com/track/27Q2MMzV3wnE3ha02N4Fg4"
+    },
+    {
+      "album": {
+        "name": "Oasis",
         "url": "https://open.spotify.com/album/4vWO9mZWPOLip3fnRqDtCl"
       },
       "artists": [
@@ -2112,7 +2130,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 306906,
       "name": "Vive",
       "url": "https://open.spotify.com/track/7L8CsrDISh97u1oArY2HAs"

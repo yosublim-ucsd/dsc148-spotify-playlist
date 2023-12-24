@@ -1228,10 +1228,28 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 254208,
       "name": "I Still Have You",
       "url": "https://open.spotify.com/track/21ksdeytHBlKH3coDrDud9"
+    },
+    {
+      "album": {
+        "name": "I Still Have You",
+        "url": "https://open.spotify.com/album/22Dhwmk1vEUU8G5keHdfBo"
+      },
+      "artists": [
+        {
+          "name": "Smokie Norful",
+          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254208,
+      "name": "I Still Have You",
+      "url": "https://open.spotify.com/track/6ungnRr8B5ZetjVy3KnlVs"
     },
     {
       "album": {
@@ -2676,10 +2694,28 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 219649,
       "name": "You've Been Good To Me",
       "url": "https://open.spotify.com/track/47LXr7hfD8RH5XRfv4H0Xn"
+    },
+    {
+      "album": {
+        "name": "You've Been Good To Me (Live)",
+        "url": "https://open.spotify.com/album/7Her8W2wFMHeYoJVaKKxUb"
+      },
+      "artists": [
+        {
+          "name": "Zacardi Cortez",
+          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219649,
+      "name": "You've Been Good To Me",
+      "url": "https://open.spotify.com/track/6HzdxD1EN5h3PNZKlSS17B"
     },
     {
       "album": {
@@ -2694,10 +2730,28 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 196571,
       "name": "Your World",
       "url": "https://open.spotify.com/track/20jjnFUWd4yMOgJP8QpEwu"
+    },
+    {
+      "album": {
+        "name": "My Truth",
+        "url": "https://open.spotify.com/album/07zEDWrPhqROuygaSwVTHm"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196571,
+      "name": "Your World",
+      "url": "https://open.spotify.com/track/7yOQN3WpoLdVpUt1tDZ9mb"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbuw9ZO9Mfq5"

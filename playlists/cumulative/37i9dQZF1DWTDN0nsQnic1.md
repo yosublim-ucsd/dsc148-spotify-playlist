@@ -4,7 +4,7 @@
 
 > Lush, shimmery guitars\. Cover: Ichika Nito
 
-91 songs - 4 hr 45 min
+92 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Suspended](https://open.spotify.com/track/38K8mmhKeQ5A15xFZOeYzA) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Florent Garcia](https://open.spotify.com/artist/7EQWExaNGfO6BJ8F6kRJCh) | [Suspended](https://open.spotify.com/album/4e1u1Z1IvPsdH15Qd0gY6L) | 2:10 | 2021-10-29 |  |
 | [syrupy](https://open.spotify.com/track/0jL4kBFDLR9tCJuDP9B7iH) | [av4ln](https://open.spotify.com/artist/3E6IjOeXDYo2swzAUYZ5ln) | [syrupy](https://open.spotify.com/album/7j9dYye1M5ANMKkBhK0pnV) | 2:49 | 2021-09-08 |  |
 | [Tadow](https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 5:01 | 2021-09-08 |  |
-| [Talk In The Morning](https://open.spotify.com/track/4yxaiawEicI6fJHlGp5wAQ) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Breathe](https://open.spotify.com/album/6q39FZTCwg8y91KKQUTBq5) | 3:37 | 2021-09-08 |  |
+| [Talk In The Morning](https://open.spotify.com/track/4yxaiawEicI6fJHlGp5wAQ) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Breathe](https://open.spotify.com/album/6q39FZTCwg8y91KKQUTBq5) | 3:37 | 2021-09-08 | 2023-12-24 |
+| [Talk In The Morning](https://open.spotify.com/track/7zXOEWUCKiUcdbtZr6ZEdW) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Breathe](https://open.spotify.com/album/1QSDqlZT7YrFe38IEaR67A) | 3:37 | 2021-09-08 |  |
 | [Tell Me When](https://open.spotify.com/track/4IrukTHhqJsr8SEpqz2Zx4) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Borderline](https://open.spotify.com/album/5qoVwu8l7VyXOiMjjmyeAD) | 4:26 | 2021-09-08 |  |
 | [Tell Me When](https://open.spotify.com/track/2BlscWwajIvT29g6EiQaM9) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Tell Me When](https://open.spotify.com/album/32UaNF5vL1cC0341SHFfzO) | 4:27 | 2021-09-08 | 2022-07-29 |
 | [The Brook](https://open.spotify.com/track/0sK6jRVjGwUTEXVNCFe9t7) | [Kurt Stewart](https://open.spotify.com/artist/1SzLvjYm0lQLPi3AneCpDO), [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6), [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ) | [Pegan Hill](https://open.spotify.com/album/1qT0jx1jNSzgWzvOt50qfI) | 1:55 | 2021-09-08 | 2023-09-16 |

@@ -4,14 +4,15 @@
 
 > Raw, emotional, and acoustic\. Cover: Charlie Musselwhite
 
-169 songs - 10 hr 34 min
+170 songs - 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [75\-71](https://open.spotify.com/track/5LqU6Ve7S71ZLD6m4Blhuq) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [75\-71](https://open.spotify.com/album/7uCEA2hPC30z4FFmbaYPjj) | 3:44 | 2023-03-31 | 2023-06-24 |
 | [Alabama Blues](https://open.spotify.com/track/21EwgINgOx9iiYo7Sj1HCM) | [J.B\. Lenoir](https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1) | [Alabama Blues!](https://open.spotify.com/album/04PVRugR8vyIXmXMWE0ZKa) | 3:14 | 2020-08-11 |  |
 | [Alabama Blues](https://open.spotify.com/track/4ghvDvK0tWXLfvG4znwpAe) | [J.B\. Lenoir](https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1) | [Passionate Blues](https://open.spotify.com/album/7gmDAUOzdSNJf0x8HEhRFh) | 3:14 | 2020-08-11 | 2022-07-29 |
-| [All True Man](https://open.spotify.com/track/7BSI3B5WACBr9Q4QFSo9hu) | [Big Head Todd and The Monsters](https://open.spotify.com/artist/1lOQRP0UJWmpoDWBa8PB0B), [Ronnie Baker Brooks](https://open.spotify.com/artist/1R61o55489TKal84OYdcnI) | [All True Man](https://open.spotify.com/album/1fJYp4Hby3qVjElqhemDpc) | 4:04 | 2021-02-05 |  |
+| [All True Man](https://open.spotify.com/track/2razQWxhIPRTNHpUl59uuX) | [Big Head Todd and The Monsters](https://open.spotify.com/artist/1lOQRP0UJWmpoDWBa8PB0B), [Ronnie Baker Brooks](https://open.spotify.com/artist/1R61o55489TKal84OYdcnI) | [All True Man](https://open.spotify.com/album/67GlTIuBHpF1BIHuZvqAjl) | 4:04 | 2021-02-05 |  |
+| [All True Man](https://open.spotify.com/track/7BSI3B5WACBr9Q4QFSo9hu) | [Big Head Todd and The Monsters](https://open.spotify.com/artist/1lOQRP0UJWmpoDWBa8PB0B), [Ronnie Baker Brooks](https://open.spotify.com/artist/1R61o55489TKal84OYdcnI) | [All True Man](https://open.spotify.com/album/1fJYp4Hby3qVjElqhemDpc) | 4:04 | 2021-02-05 | 2023-12-24 |
 | [Am I Wrong](https://open.spotify.com/track/3tvyQCSm1QcWURgGvygvke) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Keb' Mo'](https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t) | 2:18 | 2020-08-11 |  |
 | [America the Beautiful](https://open.spotify.com/track/3ohWkpSBpimp9jXbvDETR1) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [America the Beautiful](https://open.spotify.com/album/2Bi2Z6pBfKhBDRDdVMNZhv) | 3:36 | 2020-08-11 |  |
 | [Another Man](https://open.spotify.com/track/3aYzsSfm5H5597mewo0r3N) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:14 | 2021-10-15 |  |

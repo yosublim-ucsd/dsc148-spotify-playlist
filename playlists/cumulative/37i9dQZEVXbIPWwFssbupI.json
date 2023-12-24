@@ -525,6 +525,24 @@
     },
     {
       "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/2vdJtLZGq4ljPBo3gFTwJC"
+      },
+      "artists": [
+        {
+          "name": "La F\u00e8ve",
+          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203081,
+      "name": "24",
+      "url": "https://open.spotify.com/track/5ySIvhOx0P6bxhHAu3pDjT"
+    },
+    {
+      "album": {
         "name": "LA MELO EST GANGX",
         "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
       },
@@ -685,6 +703,28 @@
     },
     {
       "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/2vdJtLZGq4ljPBo3gFTwJC"
+      },
+      "artists": [
+        {
+          "name": "La F\u00e8ve",
+          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169017,
+      "name": "500",
+      "url": "https://open.spotify.com/track/1dyyYwgfDLt7v0JzQ1JmJu"
+    },
+    {
+      "album": {
         "name": "J.000.$",
         "url": "https://open.spotify.com/album/7CWl72c1sWausPdwa2C29w"
       },
@@ -776,6 +816,24 @@
       "duration_ms": 239635,
       "name": "7am On Bridle Path",
       "url": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
+    },
+    {
+      "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/2vdJtLZGq4ljPBo3gFTwJC"
+      },
+      "artists": [
+        {
+          "name": "La F\u00e8ve",
+          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129308,
+      "name": "7W",
+      "url": "https://open.spotify.com/track/7ax16NvlA4tGBCE4YJGC1o"
     },
     {
       "album": {
@@ -1492,7 +1550,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 176146,
       "name": "Aller sans retour",
       "url": "https://open.spotify.com/track/4RTtj1vGu82hjp3cDtiqOj"
@@ -2774,7 +2832,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 206684,
       "name": "A\u00efcha",
       "url": "https://open.spotify.com/track/3Z2lGD8m63wJ93bQ7BJrPT"
@@ -5528,7 +5586,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 229093,
       "name": "CARTIER",
       "url": "https://open.spotify.com/track/7AUMxm5ArZPHojwDbdi8Vi"
@@ -5742,7 +5800,7 @@
       ],
       "date_added": "2023-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 156413,
       "name": "Celui qui part",
       "url": "https://open.spotify.com/track/4ZeveNuwkv5cUrkDsx2eGQ"
@@ -7630,7 +7688,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 176579,
       "name": "Dance The Night - From Barbie The Album",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
@@ -7944,7 +8002,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -11534,7 +11592,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 273278,
       "name": "Gaza",
       "url": "https://open.spotify.com/track/2e6LkWTmEDqlUmODfIpZsb"
@@ -15700,7 +15758,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 173427,
       "name": "La League",
       "url": "https://open.spotify.com/track/38KQ5zKDeF3kUH18ZjzBbZ"
@@ -17953,6 +18011,24 @@
     },
     {
       "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/2vdJtLZGq4ljPBo3gFTwJC"
+      },
+      "artists": [
+        {
+          "name": "La F\u00e8ve",
+          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228192,
+      "name": "LOYAL",
+      "url": "https://open.spotify.com/track/7GzrdM0tPqKZ564YeLM1Vc"
+    },
+    {
+      "album": {
         "name": "La route est longue",
         "url": "https://open.spotify.com/album/1g2C4B3Adi9L27BLlVJdEs"
       },
@@ -18268,6 +18344,24 @@
       "duration_ms": 205531,
       "name": "Ma Casio",
       "url": "https://open.spotify.com/track/3wbXE7fO8DQkKCGjRcV6az"
+    },
+    {
+      "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/2vdJtLZGq4ljPBo3gFTwJC"
+      },
+      "artists": [
+        {
+          "name": "La F\u00e8ve",
+          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247747,
+      "name": "MA CHIENNE DE TRAPLIFE",
+      "url": "https://open.spotify.com/track/77UO6aKVkrwzD2rEDnl6im"
     },
     {
       "album": {
@@ -19542,7 +19636,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 255160,
       "name": "Meridian",
       "url": "https://open.spotify.com/track/09FcXaLu1BdrRNgxyBi6p5"
@@ -20941,6 +21035,24 @@
     },
     {
       "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/2vdJtLZGq4ljPBo3gFTwJC"
+      },
+      "artists": [
+        {
+          "name": "La F\u00e8ve",
+          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128848,
+      "name": "NAVR\u00c9",
+      "url": "https://open.spotify.com/track/4eoTEQqjlA9bkGqVghOxWD"
+    },
+    {
+      "album": {
         "name": "Nazareno",
         "url": "https://open.spotify.com/album/5PlrY1dbLY41xSjGykiGcU"
       },
@@ -21202,7 +21314,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 202186,
       "name": "No love",
       "url": "https://open.spotify.com/track/1JvMPB1mkcrQsnasBGMBYd"
@@ -21297,6 +21409,24 @@
     },
     {
       "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/2vdJtLZGq4ljPBo3gFTwJC"
+      },
+      "artists": [
+        {
+          "name": "La F\u00e8ve",
+          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141047,
+      "name": "NOSTALGIE INTERLUDE",
+      "url": "https://open.spotify.com/track/0A7VBXiDSz2CMtskO7iK3v"
+    },
+    {
+      "album": {
         "name": "LA MELO EST GANGX",
         "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
       },
@@ -21366,7 +21496,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 179653,
       "name": "Nouvelles",
       "url": "https://open.spotify.com/track/7d391WfC0HtftRcetDFQUy"
@@ -21688,7 +21818,7 @@
       ],
       "date_added": "2023-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 222911,
       "name": "On My Love",
       "url": "https://open.spotify.com/track/0K6iKgHPPhAb4Acmg9aD77"
@@ -24087,6 +24217,28 @@
     },
     {
       "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/2vdJtLZGq4ljPBo3gFTwJC"
+      },
+      "artists": [
+        {
+          "name": "La F\u00e8ve",
+          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
+        },
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192023,
+      "name": "QUI ?",
+      "url": "https://open.spotify.com/track/7jqzUrQlx59stbR6fNebwW"
+    },
+    {
+      "album": {
         "name": "Taulier",
         "url": "https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ"
       },
@@ -24986,6 +25138,24 @@
       "duration_ms": 161346,
       "name": "Rihanna",
       "url": "https://open.spotify.com/track/73RQVlMExXaeOi6mnlz3Bb"
+    },
+    {
+      "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/2vdJtLZGq4ljPBo3gFTwJC"
+      },
+      "artists": [
+        {
+          "name": "La F\u00e8ve",
+          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139294,
+      "name": "RIP KEED",
+      "url": "https://open.spotify.com/track/1o4a8ksaquTS6cY9JW44a9"
     },
     {
       "album": {
@@ -27741,6 +27911,24 @@
     },
     {
       "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/2vdJtLZGq4ljPBo3gFTwJC"
+      },
+      "artists": [
+        {
+          "name": "La F\u00e8ve",
+          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172372,
+      "name": "SUITE",
+      "url": "https://open.spotify.com/track/5UkwGNjJx8ydBFj0vlCu5N"
+    },
+    {
+      "album": {
         "name": "Supalife 4",
         "url": "https://open.spotify.com/album/38NpVaA76Vz222tZEJobgU"
       },
@@ -30017,6 +30205,28 @@
     },
     {
       "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/2vdJtLZGq4ljPBo3gFTwJC"
+      },
+      "artists": [
+        {
+          "name": "La F\u00e8ve",
+          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
+        },
+        {
+          "name": "Yung L.A.",
+          "url": "https://open.spotify.com/artist/5xUMw9vaS567MBBjsoLslo"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176609,
+      "name": "TYPE SHIT",
+      "url": "https://open.spotify.com/track/18wAiPgv86J3Yb9zoFJPYW"
+    },
+    {
+      "album": {
         "name": "T\u00e9l\u00e9phone (Extrait de CRCLR MVT SAISON II)",
         "url": "https://open.spotify.com/album/6RaA2bknaESIlh1iv5FFcP"
       },
@@ -30868,7 +31078,7 @@
       ],
       "date_added": "2023-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
@@ -31413,6 +31623,24 @@
     },
     {
       "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/2vdJtLZGq4ljPBo3gFTwJC"
+      },
+      "artists": [
+        {
+          "name": "La F\u00e8ve",
+          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104313,
+      "name": "ZAY INTRO",
+      "url": "https://open.spotify.com/track/5WdblAl3tJu9r7S4HzeqpZ"
+    },
+    {
+      "album": {
         "name": "DIAMANT DU BLED",
         "url": "https://open.spotify.com/album/24xKUsNCdkbXC2q473nRNO"
       },
@@ -31428,6 +31656,24 @@
       "duration_ms": 188466,
       "name": "ZAZA",
       "url": "https://open.spotify.com/track/3qA5qgPKXsElkU8TRjNx7u"
+    },
+    {
+      "album": {
+        "name": "24",
+        "url": "https://open.spotify.com/album/2vdJtLZGq4ljPBo3gFTwJC"
+      },
+      "artists": [
+        {
+          "name": "La F\u00e8ve",
+          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153468,
+      "name": "ZAZA PART. 2",
+      "url": "https://open.spotify.com/track/5wrrwpdXSeZg2XfxzfsBrO"
     },
     {
       "album": {

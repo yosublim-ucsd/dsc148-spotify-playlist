@@ -1,12 +1,12 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 307566,
+  "num_followers": 307583,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTcwOWE1MzdmYzQ0NzMyMjlmZTVlYWQzZjY2MjA5MTY1OTI4MGRk",
+  "snapshot_id": "MCwzM2Y2NWM1N2I1NzExOTUwMzY5ZTJiMWMyMDM0MjkwZDJjNjUwYzI4",
   "tracks": [
     {
       "added_at": "2023-11-24 17:02:27",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-11-24 17:02:27",
       "album": {
-        "name": "C\u00ea T\u00e1 Bem",
-        "url": "https://open.spotify.com/album/6I7wRp9Ic9oVpYNvRIS4A8"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "C\u00ea T\u00e1 Bem",
-      "url": "https://open.spotify.com/track/0LdNETSAKTnzZ64JoOSMiv"
-    },
-    {
-      "added_at": "2023-11-24 17:02:27",
-      "album": {
         "name": "Lingerie",
         "url": "https://open.spotify.com/album/6Tf4qOLoCG1lxO5TM8ENnx"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 209654,
       "name": "Lingerie",
       "url": "https://open.spotify.com/track/6DlCCmuD04huNMef3ptkn5"
+    },
+    {
+      "added_at": "2023-11-24 17:02:27",
+      "album": {
+        "name": "C\u00ea T\u00e1 Bem",
+        "url": "https://open.spotify.com/album/6I7wRp9Ic9oVpYNvRIS4A8"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "C\u00ea T\u00e1 Bem",
+      "url": "https://open.spotify.com/track/0LdNETSAKTnzZ64JoOSMiv"
     },
     {
       "added_at": "2023-11-24 17:02:27",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-11-24 17:02:27",
       "album": {
-        "name": "Peito Aberto",
-        "url": "https://open.spotify.com/album/5N9N3J9bVEOCgXw6Oa1T3u"
-      },
-      "artists": [
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 156363,
-      "name": "Peito Aberto",
-      "url": "https://open.spotify.com/track/6dptMKifBnKoekCrSzbN4v"
-    },
-    {
-      "added_at": "2023-11-24 17:02:27",
-      "album": {
         "name": "Voc\u00ea Tem",
         "url": "https://open.spotify.com/album/1HlIJFkzruHJ0LsgVth2tX"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 229199,
       "name": "Braille",
       "url": "https://open.spotify.com/track/2hAcX39Tm3XRuxioc86hNq"
+    },
+    {
+      "added_at": "2023-11-24 17:02:27",
+      "album": {
+        "name": "Peito Aberto",
+        "url": "https://open.spotify.com/album/5N9N3J9bVEOCgXw6Oa1T3u"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 156363,
+      "name": "Peito Aberto",
+      "url": "https://open.spotify.com/track/6dptMKifBnKoekCrSzbN4v"
     },
     {
       "added_at": "2023-11-24 17:02:27",

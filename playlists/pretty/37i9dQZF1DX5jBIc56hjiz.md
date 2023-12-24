@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jBIc56hjiz.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/stephenasmith/">Stephen A\. Smith</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 700 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 701 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5jBIc56hjiz.md) - [plain]
 | 46 | [Fire And Desire](https://open.spotify.com/track/6XJdmdiLRvvQXRLMenQmjx) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL), [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Street Songs \(Deluxe Edition\)](https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5) | 7:17 |
 | 47 | [Turn off the Lights](https://open.spotify.com/track/47nJdvSobIGBYdN7y2caLM) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy \(Expanded Edition\)](https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM) | 5:54 |
 | 48 | [You're My Latest, My Greatest Inspiration](https://open.spotify.com/track/3KvnF95wCJkQlCxUumLEDe) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [It's Time For Love](https://open.spotify.com/album/7KPObGCC5DigQINHNKwvTV) | 5:21 |
-| 49 | [Lady](https://open.spotify.com/track/7sPLPOIORz3sLE2oNbpndr) | [The Whispers](https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg) | [The Whispers: Greatest Hits](https://open.spotify.com/album/5tBvVqK2M7wiBwOQEcnRkp) | 5:07 |
+| 49 | [Lady](https://open.spotify.com/track/7wuip3WxHQ2S6vOE82MGqm) | [The Whispers](https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg) | [Greatest Slow Jams, Vol\. 1](https://open.spotify.com/album/6nbqs1sF61gQ4EgcnCyi9x) | 5:01 |
 | 50 | [All I Do Is Think of You](https://open.spotify.com/track/4XhrowM5IKGCRrY2HzYBH3) | [Troop](https://open.spotify.com/artist/5r7mGejWrGSxheAYEIfSwI) | [Attitude](https://open.spotify.com/album/7JejBAyNL3oKVt1tNHLosr) | 3:49 |
 
-Snapshot ID: `MCxiZWU3NzQyZTFkMWY3YzQ3ZGVlZGYxM2FmNTQ2NzQ1N2NiMDM5MmQz`
+Snapshot ID: `MCw3MjZlNmQ4ZTcxZTRmN2U3OWQ2MTViNDAzODcwMzI3MjJlYmVlYWEy`

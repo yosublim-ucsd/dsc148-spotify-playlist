@@ -1154,10 +1154,28 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 238173,
       "name": "One Word",
       "url": "https://open.spotify.com/track/6DyeOvSpsUIb8jhOKV7Vij"
+    },
+    {
+      "album": {
+        "name": "Baby Animals",
+        "url": "https://open.spotify.com/album/5BKkcbtVzKefd2wtXaFwPd"
+      },
+      "artists": [
+        {
+          "name": "Baby Animals",
+          "url": "https://open.spotify.com/artist/2DaDoR6WXStRctDQDWWQpI"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238173,
+      "name": "One Word",
+      "url": "https://open.spotify.com/track/6VH6dcQankHKPhXrcRmuNC"
     },
     {
       "album": {

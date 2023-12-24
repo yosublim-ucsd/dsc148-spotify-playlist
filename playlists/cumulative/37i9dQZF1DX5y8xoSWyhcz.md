@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,147 songs - 2 day 10 hr 52 min
+1,148 songs - 2 day 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,7 +394,8 @@
 | [Gonna Be Okay](https://open.spotify.com/track/1FfQScGXFnfPu309jwGgwg) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [Gonna Be Okay](https://open.spotify.com/album/31BsDGUGcmuIXG7W76JV4v) | 2:51 | 2020-10-29\* | 2021-02-13 |
 | [Good, but not together](https://open.spotify.com/track/4XfgpMiAz9XG58pvq4ly9Q) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Good, but not together](https://open.spotify.com/album/7IJq7iIJ0JztktxLcoa0Sn) | 3:03 | 2023-03-03 | 2023-06-03 |
 | [Goosebumps](https://open.spotify.com/track/6rQETb8NqBgY6Fqxpz1Qbr) | [Angus Maude](https://open.spotify.com/artist/2gY6B2dPmOXJaqXjSV4GIo) | [Goosebumps](https://open.spotify.com/album/1Hfpxs1Vgk0ynXBivdSFkg) | 4:21 | 2020-10-29\* | 2020-11-11 |
-| [Grace](https://open.spotify.com/track/0PkULtfgErOmg562Jkoj7q) | [Cody Lawless](https://open.spotify.com/artist/6YCVlQAsIlKAwVNf7ggAwf) | [Sunshine State of a Happy Camper](https://open.spotify.com/album/0CDDoR9TpkCc2rGVhGB71B) | 3:29 | 2023-06-23 |  |
+| [Grace](https://open.spotify.com/track/0HUizC6vRNIYcVj7o1YaNP) | [Cody Lawless](https://open.spotify.com/artist/6YCVlQAsIlKAwVNf7ggAwf) | [Sunshine State of a Happy Camper](https://open.spotify.com/album/3SG8xXhl9MWRWrspCW7adq) | 3:29 | 2023-12-16 |  |
+| [Grace](https://open.spotify.com/track/0PkULtfgErOmg562Jkoj7q) | [Cody Lawless](https://open.spotify.com/artist/6YCVlQAsIlKAwVNf7ggAwf) | [Sunshine State of a Happy Camper](https://open.spotify.com/album/0CDDoR9TpkCc2rGVhGB71B) | 3:29 | 2023-06-23 | 2023-12-24 |
 | [Grade A \(feat\. JAWNY\)](https://open.spotify.com/track/6ek40cFUiRjxA2KrOHNfi3) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r), [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [Grade A \(feat\. JAWNY\)](https://open.spotify.com/album/55yLoYwGsnb7tCg10LmKIJ) | 1:46 | 2021-10-02 | 2022-02-12 |
 | [Graffiti](https://open.spotify.com/track/1nbf58hrmgDkfathd8NwTD) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Violet](https://open.spotify.com/album/4tW1prOUVuxwZqBJ9kQEaB) | 3:08 | 2022-12-09 |  |
 | [Grateful](https://open.spotify.com/track/0GW5VyjYKZUXRHdlEjQagl) | [Jenny Palacios](https://open.spotify.com/artist/1TpnyAngai2yGUjI7OKFp8) | [Grateful](https://open.spotify.com/album/3kPciuGVmlx6wkOKU23oXn) | 3:22 | 2022-03-04 | 2022-03-26 |

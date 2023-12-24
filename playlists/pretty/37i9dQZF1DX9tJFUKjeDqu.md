@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tJFUKjeDqu.md) - [plain]
 
 > Soft, instrumental blues to help you concentrate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,729 likes - 74 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,757 likes - 74 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tJFUKjeDqu.md) - [plain]
 | 39 | [Blues For Ruthie Foster](https://open.spotify.com/track/6DVDYuQPe6XIC21qDUKhzR) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [Mercy Me](https://open.spotify.com/album/1wSy1a6XpkddFp8R8yHeyj) | 5:23 |
 | 40 | [It's a Rough Ride We're On](https://open.spotify.com/track/4b3axSuUQYp1I0Yfg5HKEV) | [Berdon Kirksaether & the Twang Bar Kings](https://open.spotify.com/artist/7kKITC8LNIVa12gLPgEMqR) | [Blues \(Remastered\)](https://open.spotify.com/album/05w7jAECBOIsITCBBAxeeX) | 3:30 |
 | 41 | [Common People](https://open.spotify.com/track/1ds06xJsMIlhVDrjyiuJUT) | [Hayden Phoenix](https://open.spotify.com/artist/50RQSrhyCEESbROELBFA3r) | [After the fact](https://open.spotify.com/album/75b9wiTqEG2FdndZM0xyhs) | 2:37 |
-| 42 | [On My Way To See Nancy](https://open.spotify.com/track/0Bm5XTEyBth8b04J6oEms6) | [Laurel Premo](https://open.spotify.com/artist/1xb97sU2gSPLt2TBtKQeVT) | [Golden Loam](https://open.spotify.com/album/0dPH6VQgPhfc0lLueu9m7V) | 3:32 |
+| 42 | [On My Way To See Nancy](https://open.spotify.com/track/7l2SXepXmjEyU1IBXlrxMr) | [Laurel Premo](https://open.spotify.com/artist/1xb97sU2gSPLt2TBtKQeVT) | [Golden Loam](https://open.spotify.com/album/4Rfc4nMxJ4R5US3aq0f5D0) | 3:32 |
 | 43 | [Begin Again](https://open.spotify.com/track/317zGzgpLAjKABVBPaikaD) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Mile End](https://open.spotify.com/album/3dwV0EOUKOhwKWz4KZCgvx) | 3:50 |
 | 44 | [Gospel Groove](https://open.spotify.com/track/55mwnnVCq90cdzFro3UFGZ) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Here Comes Shuggie Otis](https://open.spotify.com/album/6mzeogguJ6lMUHWgBJzhcd) | 4:15 |
 | 45 | [Rainbow Bird Blues](https://open.spotify.com/track/2pQzKjn9C68S4bnnXJMOl6) | [Wolf Mail](https://open.spotify.com/artist/2bN1TY9rrW2axotPjQzFV6) | [Blue Fix](https://open.spotify.com/album/2P6Fu4EqitlskRVpyosR16) | 5:28 |
@@ -69,10 +69,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tJFUKjeDqu.md) - [plain]
 | 59 | [Elegy for a Bluesman](https://open.spotify.com/track/51eO3uxag2ZhvnqWePYeVv) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [Maxwell Street](https://open.spotify.com/album/6QJ6h4nSqQgnCNVVVYPwly) | 5:40 |
 | 60 | [Jaded](https://open.spotify.com/track/706i4fPr3ghF467v5SLnjH) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [Jaded](https://open.spotify.com/album/2Zd2IWybMwUcv1uTKNapPc) | 2:33 |
 | 61 | [Blue Clouds](https://open.spotify.com/track/44mG1PFJja5s8WUKHxVcQr) | [Gregor Hilden](https://open.spotify.com/artist/5z5KKPdDUQENyOcBuULpKC) | [Blue in Red](https://open.spotify.com/album/0AS15S5F73DD7Tc991CdXL) | 4:30 |
-| 62 | [The Blink Of An Eye](https://open.spotify.com/track/656b8WVsC5JMmDDN43hPoQ) | [Jeff Golub](https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB) | [Blues For You](https://open.spotify.com/album/5EAr5Rzknr0B1DFaBPcC8v) | 6:02 |
+| 62 | [The Blink Of An Eye](https://open.spotify.com/track/0hJMvkxq0vS5oDq7y46HWX) | [Jeff Golub](https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB) | [Blues For You](https://open.spotify.com/album/2jj12VH9zkoSwJHpsJDZDk) | 6:02 |
 | 63 | [Ghost of the Mountain](https://open.spotify.com/track/4cwQ5XhN8p6UkUUYj8hPp2) | [Justin Johnson](https://open.spotify.com/artist/151RUyDTIDJM8gXwGJbv7z) | [The Bootleg Series, Vol\. 3: Son of a Witch](https://open.spotify.com/album/6RT8HJmp4VKpA7WfTdJT67) | 5:38 |
 | 64 | [Blues 'Fore Dawn \- Instrumental](https://open.spotify.com/track/3zVx7964ROy15h1lC7fhzD) | [Jimmy Thackery](https://open.spotify.com/artist/22I2nRL3Avazb5FfXhmyDQ) | [Guitar](https://open.spotify.com/album/1k1BDnn6ynbeFG5ts58NRI) | 4:54 |
-| 65 | [Jericho](https://open.spotify.com/track/5oNvZprFIEffLJv5jVa9h9) | [Laurel Premo](https://open.spotify.com/artist/1xb97sU2gSPLt2TBtKQeVT) | [Jericho](https://open.spotify.com/album/0Vq9bdUGdZUCW2i1rmnjfk) | 4:52 |
+| 65 | [Jericho](https://open.spotify.com/track/2p3wZWi5ibHbmJ636e9ImG) | [Laurel Premo](https://open.spotify.com/artist/1xb97sU2gSPLt2TBtKQeVT) | [Golden Loam](https://open.spotify.com/album/4Rfc4nMxJ4R5US3aq0f5D0) | 4:52 |
 | 66 | [Answer To Ronnie](https://open.spotify.com/track/6K8PyYtDxpEvr7WvfpQ4Bc) | [Nuno Mindelis](https://open.spotify.com/artist/1bfB77eKjbV64L5M0gqWaP), [The Cream Crackers](https://open.spotify.com/artist/18GocfSfx9JWYMxv4Qh5py) | [Nuno Mindelis & The Cream Crackers : Blues](https://open.spotify.com/album/6Gv7FGEI7Ot7tgfthNLIiy) | 4:53 |
 | 67 | [Slow Blues](https://open.spotify.com/track/451DmtsIrqVod8SD5tpXcU) | [Mick Taylor](https://open.spotify.com/artist/4tkgLX1wdWoOu2lyeQNYAi) | [Mick Taylor](https://open.spotify.com/album/23c6z3f6XvBXKR4UqSnqne) | 3:23 |
 | 68 | [Dana's Song](https://open.spotify.com/track/7izyXZtIw69OhbeDb2jkTu) | [Nuno Mindelis](https://open.spotify.com/artist/1bfB77eKjbV64L5M0gqWaP) | [Twelve Hours](https://open.spotify.com/album/5VWXunq9g3JCd2wo3ecpYL) | 6:20 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tJFUKjeDqu.md) - [plain]
 | 73 | [Soulful Blues \- Instrumental](https://open.spotify.com/track/2d4HpgCWXuI6sCYhVfoZC1) | [Tom Nicholls](https://open.spotify.com/artist/2YEluKwvonHGvzeLrCqtyi) | [Soulful Blues \(Instrumental\)](https://open.spotify.com/album/1WyuB1JDD0bOR6Kyef9IKA) | 2:17 |
 | 74 | [All Blues](https://open.spotify.com/track/6W5PADiws4J4jNZwr2loyH) | [Zachary Breaux](https://open.spotify.com/artist/2jYHSJBXjusgmYdrNeaRmg) | [Uptown Groove](https://open.spotify.com/album/1b49v9x3oQNtGv3NBI3Rjq) | 6:33 |
 
-Snapshot ID: `MCxkMjgxZDRmMzI1ZDUwYTgwNmQ0OTcxNWU1MWViYWRlZmFiZTRiZWQ1`
+Snapshot ID: `MCxmODE1OWQwNjI0ODNiMmViODcwNjY0YTJiNmYzMGRlNGU1YzRmMzlk`

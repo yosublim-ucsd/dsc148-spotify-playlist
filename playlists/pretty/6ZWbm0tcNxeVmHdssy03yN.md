@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 38,709 likes - 100 songs - 5 hr 9 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 38,746 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 3 | [Get Down](https://open.spotify.com/track/4Qj7Ea8DAjAqN2pZSAEXfq) | [CLAVVS](https://open.spotify.com/artist/2JcWOIfDeHESCg42COyDy1), [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Get Down](https://open.spotify.com/album/0oIYwHNr7DETj9JsySkur6) | 2:08 |
 | 4 | [Failed At Math\(s\) \- Gruff Rhys Remix](https://open.spotify.com/track/4Gu4UYFM3UHkeoDLUbclp9) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O), [Gruff Rhys](https://open.spotify.com/artist/0dLSQG3IV62UNVhWUe6mx6) | [Failed At Math\(s\) \(Gruff Rhys Remix\)](https://open.spotify.com/album/5WVxuW6cZb5Nk2jfNp9BLA) | 2:59 |
 | 5 | [Affinity](https://open.spotify.com/track/4Y34P7ZotrjriguKE72lGy) | [Haley Smalls](https://open.spotify.com/artist/5uTsMjH1CdE81ncmOnE4WY) | [Affinity](https://open.spotify.com/album/2fBVGKUGraX7O3ieTk0BoV) | 2:46 |
-| 6 | [High and Low](https://open.spotify.com/track/0UAB4g9ZOrcMzHcZi2y3qo) | [KWAYE](https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ) | [Learning To Swim](https://open.spotify.com/album/1w9BDtBkQeHkxz8ayzhYOZ) | 3:05 |
+| 6 | [High and Low](https://open.spotify.com/track/0UAB4g9ZOrcMzHcZi2y3qo) | [KWAYE](https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ) | [Learning To Swim](https://open.spotify.com/album/1w9BDtBkQeHkxz8ayzhYOZ) | 3:06 |
 | 7 | [Birthday](https://open.spotify.com/track/7hxehQAcvvmH8lRRL6XCpz) | [OSWRLD](https://open.spotify.com/artist/6Cq6gf2fnK1Xl9jH99jGUl) | [Birthday](https://open.spotify.com/album/2zsn6zX4CxUM06QcL9DCFo) | 3:57 |
 | 8 | [Ballad For South](https://open.spotify.com/track/45gzPFOcYiWGduJ0Yg6FQf) | [Stacy N.K.R](https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U) | [Ballad For South](https://open.spotify.com/album/1EY3GlhH27TZ0UHdOvkMKi) | 1:55 |
 | 9 | [And Friends](https://open.spotify.com/track/5LPG5UdkKC0Cy5xYtnSimZ) | [thii](https://open.spotify.com/artist/4A33fq7ZPQPZhEDsW3Fke4) | [And Friends](https://open.spotify.com/album/6Q6owmaskwONPxKSecvF7A) | 4:24 |

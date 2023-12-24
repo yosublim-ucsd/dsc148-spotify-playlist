@@ -8669,6 +8669,28 @@
     },
     {
       "album": {
+        "name": "TEACH ME HOW TO DRILL",
+        "url": "https://open.spotify.com/album/2o8kQCbnv8Rytmk4Fb8rwZ"
+      },
+      "artists": [
+        {
+          "name": "Lil Mabu",
+          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196227,
+      "name": "TEACH ME HOW TO DRILL",
+      "url": "https://open.spotify.com/track/5swaNc5Ezn8WKacGObLCKF"
+    },
+    {
+      "album": {
         "name": "TEACH ME HOW TO DRILL (FEAT. FIVIO FOREIGN)",
         "url": "https://open.spotify.com/album/1IwT4O2dDNGtTamYJe7uuv"
       },
@@ -8688,28 +8710,6 @@
       "duration_ms": 196216,
       "name": "TEACH ME HOW TO DRILL (FEAT. FIVIO FOREIGN)",
       "url": "https://open.spotify.com/track/3sc0gnX1tOCoaMbiVujFmM"
-    },
-    {
-      "album": {
-        "name": "TEACH ME HOW TO DRILL (feat. Fivio Foreign)",
-        "url": "https://open.spotify.com/album/2o8kQCbnv8Rytmk4Fb8rwZ"
-      },
-      "artists": [
-        {
-          "name": "Lil Mabu",
-          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
-        },
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        }
-      ],
-      "date_added": "2023-12-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 196227,
-      "name": "TEACH ME HOW TO DRILL (feat. Fivio Foreign)",
-      "url": "https://open.spotify.com/track/5swaNc5Ezn8WKacGObLCKF"
     },
     {
       "album": {

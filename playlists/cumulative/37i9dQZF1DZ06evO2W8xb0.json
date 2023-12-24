@@ -719,6 +719,24 @@
     },
     {
       "album": {
+        "name": "Late Oke Aminu",
+        "url": "https://open.spotify.com/album/795ex3oCr24uJMjiUFUkA1"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1195653,
+      "name": "Late Oke Aminu Medley (Part 1)",
+      "url": "https://open.spotify.com/track/0Q2qr34BuIWPCNFkFNSc8O"
+    },
+    {
+      "album": {
         "name": "Obey In the 60's (Vol 2)",
         "url": "https://open.spotify.com/album/3YAXXz0OUxJQqFlYAOOu7a"
       },
@@ -1328,7 +1346,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 268586,
       "name": "Tajudeen Onigbanjo",
       "url": "https://open.spotify.com/track/1JOyGXpmFTu9FGhKhOO1Wp"

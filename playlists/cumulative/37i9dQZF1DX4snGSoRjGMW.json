@@ -1316,7 +1316,7 @@
     {
       "album": {
         "name": "NO SOUL, NO BLUES",
-        "url": "https://open.spotify.com/album/6e9WzYKaq2qAsjJvC4zScE"
+        "url": "https://open.spotify.com/album/71PCJxEq3nQcRDkyCEbRel"
       },
       "artists": [
         {
@@ -1339,6 +1339,36 @@
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 262764,
+      "name": "Stomp",
+      "url": "https://open.spotify.com/track/0bIk5zx7YCMgwXa7G31fpp"
+    },
+    {
+      "album": {
+        "name": "NO SOUL, NO BLUES",
+        "url": "https://open.spotify.com/album/6e9WzYKaq2qAsjJvC4zScE"
+      },
+      "artists": [
+        {
+          "name": "Stan Mosley",
+          "url": "https://open.spotify.com/artist/7kZrWqdHSrKq5Qg3UgtAQM"
+        },
+        {
+          "name": "The Texas Horns",
+          "url": "https://open.spotify.com/artist/6swhrKqY4WiZoJanmBNqsX"
+        },
+        {
+          "name": "The Moeller Brothers",
+          "url": "https://open.spotify.com/artist/6KrcvREWPq1WnbUQe8TUZi"
+        },
+        {
+          "name": "Crystal Thomas",
+          "url": "https://open.spotify.com/artist/61jsEIddFcj3iYVkLC88bn"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
       "duration_ms": 262764,
       "name": "Stomp",
       "url": "https://open.spotify.com/track/5sraRdhps6BIkOFFVaBpGS"

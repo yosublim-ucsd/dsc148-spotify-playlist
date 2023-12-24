@@ -1,12 +1,12 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 349481,
+  "num_followers": 349515,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNTA4ZjJjNzAwZTg2MDdlNDRhYjI5MmRlY2VjN2Q2MTdjMzFiMzJj",
+  "snapshot_id": "MCw2ZTlkNTUyMjJlZWMzYmY4Zjk3NGU0ZTk0MjMzMjUzMTI5MTAxN2Q5",
   "tracks": [
     {
       "added_at": "2023-11-17 17:02:42",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-11-17 17:02:42",
       "album": {
-        "name": "All I Know So Far",
-        "url": "https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 277413,
-      "name": "All I Know So Far",
-      "url": "https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk"
-    },
-    {
-      "added_at": "2023-11-17 17:02:42",
-      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/2VQy0vBC1uPz4HRncOjUV2"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 169949,
       "name": "Over",
       "url": "https://open.spotify.com/track/0OtftDTXLb5Ziq4Goq0nJS"
+    },
+    {
+      "added_at": "2023-11-17 17:02:42",
+      "album": {
+        "name": "All I Know So Far",
+        "url": "https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 277413,
+      "name": "All I Know So Far",
+      "url": "https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk"
     },
     {
       "added_at": "2023-11-17 17:02:42",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-11-17 17:02:42",
       "album": {
-        "name": "Leap Of Faith",
-        "url": "https://open.spotify.com/album/4tHS6lrzRFmakGJwnUbfWX"
-      },
-      "artists": [
-        {
-          "name": "Christopher",
-          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
-        }
-      ],
-      "duration_ms": 217713,
-      "name": "Leap Of Faith",
-      "url": "https://open.spotify.com/track/571B8LxRZwmG1S1YNfGq4Q"
-    },
-    {
-      "added_at": "2023-11-17 17:02:42",
-      "album": {
         "name": "Small Steps",
         "url": "https://open.spotify.com/album/437Z6zQZRubtLwGxczf3ce"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 166991,
       "name": "Small Steps",
       "url": "https://open.spotify.com/track/306e44d25ZdX7nIlu6wy4D"
+    },
+    {
+      "added_at": "2023-11-17 17:02:42",
+      "album": {
+        "name": "Leap Of Faith",
+        "url": "https://open.spotify.com/album/4tHS6lrzRFmakGJwnUbfWX"
+      },
+      "artists": [
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        }
+      ],
+      "duration_ms": 217713,
+      "name": "Leap Of Faith",
+      "url": "https://open.spotify.com/track/571B8LxRZwmG1S1YNfGq4Q"
     },
     {
       "added_at": "2023-11-17 17:02:42",

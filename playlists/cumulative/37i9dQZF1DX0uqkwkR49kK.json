@@ -60,6 +60,24 @@
     {
       "album": {
         "name": "In The Court Of The Crimson King (Expanded & Remastered Original Album Mix)",
+        "url": "https://open.spotify.com/album/75ol9OP8bJaRqzGimpFHDm"
+      },
+      "artists": [
+        {
+          "name": "King Crimson",
+          "url": "https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442580,
+      "name": "21st Century Schizoid Man - Including \"Mirrors\"",
+      "url": "https://open.spotify.com/track/2MfrET7Nc3StKQcGoZKqr9"
+    },
+    {
+      "album": {
+        "name": "In The Court Of The Crimson King (Expanded & Remastered Original Album Mix)",
         "url": "https://open.spotify.com/album/6tVg2Wl9hVKMpHYcAl2V2M"
       },
       "artists": [
@@ -70,7 +88,7 @@
       ],
       "date_added": "2019-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 442580,
       "name": "21st Century Schizoid Man - Including \"Mirrors\"",
       "url": "https://open.spotify.com/track/5L7VBYoosmkmiiDlzumdCe"
@@ -2550,10 +2568,28 @@
       ],
       "date_added": "2019-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 375603,
       "name": "Red",
       "url": "https://open.spotify.com/track/6uhJMvfmH0IiK6dp0Wg2nQ"
+    },
+    {
+      "album": {
+        "name": "The Condensed 21st Century Guide To King Crimson (1969 - 2003)",
+        "url": "https://open.spotify.com/album/1dbVSQR5jcw5rdngMyA3d8"
+      },
+      "artists": [
+        {
+          "name": "King Crimson",
+          "url": "https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375603,
+      "name": "Red",
+      "url": "https://open.spotify.com/track/7Ml2BCAVVdBKylU254iGgk"
     },
     {
       "album": {

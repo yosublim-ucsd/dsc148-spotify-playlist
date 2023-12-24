@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7o2Y6TQr9B0ynZGhUDAkyj">Lotic</a>'s favorite tracks\. Updated regularly\. Curated by Lotic\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-142 songs - 7 hr 46 min
+143 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Don 't Get All Upset \- Lotic Remix](https://open.spotify.com/track/3oE6Ffs2zgab57O3AlTSmO) | [Prix](https://open.spotify.com/artist/6AUIu4h67YKKZG9siJU1Au), [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [Prix](https://open.spotify.com/album/0KNtVl8ILpjzaZnavYL4BW) | 2:52 | 2021-11-16 |  |
 | [Emergency](https://open.spotify.com/track/5TxwSZehxrjoWLWeqvKpO3) | [Lotic](https://open.spotify.com/artist/7o2Y6TQr9B0ynZGhUDAkyj) | [Emergency](https://open.spotify.com/album/4tKLixwon07V12KehsBcFZ) | 3:15 | 2021-11-16 | 2022-01-22 |
 | [EXTRATERRESTRIAL](https://open.spotify.com/track/2L1RBqljF9hdQ9UMPMZ96l) | [Lvrd Daphne](https://open.spotify.com/artist/24pRSs9K1WT3nI0lkUOFTb) | [ROGUE](https://open.spotify.com/album/5j0fMtApnp6vFyyu0yaLyF) | 3:23 | 2021-11-16 |  |
-| [Fall Back](https://open.spotify.com/track/1W4yNgrr2awqFAxye5I7s6) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [Dominic Scott](https://open.spotify.com/artist/3y5rpxyWWVPtPp6M5gEYfS) | [Drunken Wordz Sober Thoughtz](https://open.spotify.com/album/6sWl7sC34PChdFVegNJRuv) | 3:03 | 2022-01-28 |  |
+| [Fall Back](https://open.spotify.com/track/1W4yNgrr2awqFAxye5I7s6) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [Dominic Scott](https://open.spotify.com/artist/3y5rpxyWWVPtPp6M5gEYfS) | [Drunken Wordz Sober Thoughtz](https://open.spotify.com/album/6sWl7sC34PChdFVegNJRuv) | 3:03 | 2022-01-28 | 2023-12-24 |
+| [Fall Back](https://open.spotify.com/track/79mbZQoScAlHLWAlrxBLj4) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [Dominic Scott](https://open.spotify.com/artist/3y5rpxyWWVPtPp6M5gEYfS) | [Drunken Wordz Sober Thoughtz](https://open.spotify.com/album/4tRvTQdQzkBDlyBm7OhNXt) | 3:03 | 2022-06-09 |  |
 | [Fellowship](https://open.spotify.com/track/5BFe78RJ9sUnv2Zwklb6SH) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Fellowship](https://open.spotify.com/album/643pg0Lw8S3i21fAJSNl8R) | 3:39 | 2021-11-16 | 2022-01-22 |
 | [Fem Queen](https://open.spotify.com/track/2ThiiAe7cXCwIi6NDJRXzK) | [Ms\. Boogie](https://open.spotify.com/artist/7HVlaChQbM9guWdiKMGxBq), [Bella Bags](https://open.spotify.com/artist/1RlgDkkwuaCkT2n0LQakKW), [Miss Blanks](https://open.spotify.com/artist/0bebrsJyrPVeF3tg5fWey5), [Trannilish](https://open.spotify.com/artist/17hhqUJi8D7n7g2hr9nTPR) | [Fem Queen](https://open.spotify.com/album/42GWkXJ8tHcAhRvgTwy8Pj) | 3:54 | 2021-11-16 | 2022-04-23 |
 | [Flexer](https://open.spotify.com/track/0ks4uYRJkY5jHRas2caXEu) | [London Hilll](https://open.spotify.com/artist/7cqLnc6zTajTX61F6SGA2A) | [Flexer](https://open.spotify.com/album/77fd8l7jAZ391CwLxiVOHR) | 2:21 | 2022-03-22 |  |

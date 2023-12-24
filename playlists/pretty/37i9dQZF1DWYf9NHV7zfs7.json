@@ -1,12 +1,12 @@
 {
   "description": "y nada m\u00e1s que pop \u2728\u2728\u2728\n\ud83d\udcf7 Miranda!",
-  "num_followers": 23854,
+  "num_followers": 23932,
   "original_name": "Esto es Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4M2Y5ZDBmZGFlNDA5MzY4N2FhMDhmMmE2Nzc1OGRmOTRlMzRjOTg3",
+  "snapshot_id": "MCwzYzQ0ZjZiYzY0ZDIyZDliZTgwZTcxYjk1MmJjNzg0NDBiZGY5NzI3",
   "tracks": [
     {
       "added_at": "2023-12-22 23:50:38",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-12-22 23:50:38",
       "album": {
-        "name": "Animal Pt. 1",
-        "url": "https://open.spotify.com/album/4nUKyiRK7yKKrR9JslEWzR"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 185257,
-      "name": "Acaramelao",
-      "url": "https://open.spotify.com/track/4fipVdNyG6zx7nxuqHScsy"
-    },
-    {
-      "added_at": "2023-12-22 23:50:38",
-      "album": {
         "name": "LALI DELUXE",
         "url": "https://open.spotify.com/album/4OpNEfxBSiv9bqjQRxpD2A"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 154548,
       "name": "Baum Baum",
       "url": "https://open.spotify.com/track/6WkfdgfHTdpmVHcB3Jn4ks"
+    },
+    {
+      "added_at": "2023-12-22 23:50:38",
+      "album": {
+        "name": "Animal Pt. 1",
+        "url": "https://open.spotify.com/album/4nUKyiRK7yKKrR9JslEWzR"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 185257,
+      "name": "Acaramelao",
+      "url": "https://open.spotify.com/track/4fipVdNyG6zx7nxuqHScsy"
     },
     {
       "added_at": "2023-12-22 23:50:38",
@@ -391,6 +391,30 @@
     {
       "added_at": "2023-12-22 23:50:38",
       "album": {
+        "name": "Las Leyes de La Vida",
+        "url": "https://open.spotify.com/album/6aKt8vA2aAvFLURhWfsNMz"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        },
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        },
+        {
+          "name": "Benja Torres",
+          "url": "https://open.spotify.com/artist/2oYfJFUmjFi67Fn6sBIUY4"
+        }
+      ],
+      "duration_ms": 199340,
+      "name": "Las Leyes de La Vida",
+      "url": "https://open.spotify.com/track/4H2YCpaqZGsKz6Dg809eMS"
+    },
+    {
+      "added_at": "2023-12-22 23:50:38",
+      "album": {
         "name": "Carta para no llorar",
         "url": "https://open.spotify.com/album/46FyZtW1e0JwoR0yERzbNw"
       },
@@ -407,26 +431,6 @@
       "duration_ms": 178577,
       "name": "Carta para no llorar",
       "url": "https://open.spotify.com/track/3PdR3n0YudDEp44YmS9xs2"
-    },
-    {
-      "added_at": "2023-12-22 23:50:38",
-      "album": {
-        "name": "ENCHASTRE",
-        "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
-      },
-      "artists": [
-        {
-          "name": "LOUTA",
-          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
-        },
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "AYER TE VI (feat. Zoe Gotusso)",
-      "url": "https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf"
     },
     {
       "added_at": "2023-12-22 23:50:38",
@@ -483,26 +487,22 @@
     {
       "added_at": "2023-12-22 23:50:38",
       "album": {
-        "name": "Las Leyes de La Vida",
-        "url": "https://open.spotify.com/album/6aKt8vA2aAvFLURhWfsNMz"
+        "name": "ENCHASTRE",
+        "url": "https://open.spotify.com/album/4tLVVo1gXMizHYINYC3FB7"
       },
       "artists": [
         {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+          "name": "LOUTA",
+          "url": "https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3"
         },
         {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        },
-        {
-          "name": "Benja Torres",
-          "url": "https://open.spotify.com/artist/2oYfJFUmjFi67Fn6sBIUY4"
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
         }
       ],
-      "duration_ms": 199340,
-      "name": "Las Leyes de La Vida",
-      "url": "https://open.spotify.com/track/4H2YCpaqZGsKz6Dg809eMS"
+      "duration_ms": 209133,
+      "name": "AYER TE VI (feat. Zoe Gotusso)",
+      "url": "https://open.spotify.com/track/7gfyrnHMieXMjIW4n2p5wf"
     },
     {
       "added_at": "2023-12-22 23:50:38",
@@ -823,22 +823,18 @@
     {
       "added_at": "2023-12-22 23:50:38",
       "album": {
-        "name": "PITADA",
-        "url": "https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH"
+        "name": "La Cobra",
+        "url": "https://open.spotify.com/album/6pO1MphOTB3YjetIXCu2qP"
       },
       "artists": [
         {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
-        },
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+          "name": "j mena",
+          "url": "https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj"
         }
       ],
-      "duration_ms": 208790,
-      "name": "Llamame",
-      "url": "https://open.spotify.com/track/3oqI8s2Aj0MUOop1j2vqoN"
+      "duration_ms": 188227,
+      "name": "La Cobra",
+      "url": "https://open.spotify.com/track/598iUd0iLrNtDMzdyMXnUO"
     },
     {
       "added_at": "2023-12-22 23:50:38",
@@ -863,18 +859,22 @@
     {
       "added_at": "2023-12-22 23:50:38",
       "album": {
-        "name": "La Cobra",
-        "url": "https://open.spotify.com/album/6pO1MphOTB3YjetIXCu2qP"
+        "name": "PITADA",
+        "url": "https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH"
       },
       "artists": [
         {
-          "name": "j mena",
-          "url": "https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj"
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+        },
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
         }
       ],
-      "duration_ms": 188227,
-      "name": "La Cobra",
-      "url": "https://open.spotify.com/track/598iUd0iLrNtDMzdyMXnUO"
+      "duration_ms": 208790,
+      "name": "Llamame",
+      "url": "https://open.spotify.com/track/3oqI8s2Aj0MUOop1j2vqoN"
     },
     {
       "added_at": "2023-12-22 23:50:38",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-12-22 23:50:38",
       "album": {
-        "name": "Intemperie",
-        "url": "https://open.spotify.com/album/0vW5os63sQZKBtIxsqFx9f"
-      },
-      "artists": [
-        {
-          "name": "Ivan Noble",
-          "url": "https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p"
-        }
-      ],
-      "duration_ms": 222706,
-      "name": "Olivia",
-      "url": "https://open.spotify.com/track/7aMBK1r16NAACeiJHsb9cf"
-    },
-    {
-      "added_at": "2023-12-22 23:50:38",
-      "album": {
         "name": "Mala Sangre",
         "url": "https://open.spotify.com/album/2wrjRXAX0alWHtCiwYGYG7"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 149610,
       "name": "La Ara\u00f1a",
       "url": "https://open.spotify.com/track/0V8rl5jHgjdhglRjpG7cbj"
+    },
+    {
+      "added_at": "2023-12-22 23:50:38",
+      "album": {
+        "name": "Intemperie",
+        "url": "https://open.spotify.com/album/0vW5os63sQZKBtIxsqFx9f"
+      },
+      "artists": [
+        {
+          "name": "Ivan Noble",
+          "url": "https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p"
+        }
+      ],
+      "duration_ms": 222706,
+      "name": "Olivia",
+      "url": "https://open.spotify.com/track/7aMBK1r16NAACeiJHsb9cf"
     },
     {
       "added_at": "2023-12-22 23:50:38",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-12-22 23:50:38",
       "album": {
-        "name": "Mujer & Ego",
-        "url": "https://open.spotify.com/album/255HbyPo532v2tNoSpGnHQ"
-      },
-      "artists": [
-        {
-          "name": "Ivan Noble",
-          "url": "https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p"
-        }
-      ],
-      "duration_ms": 214006,
-      "name": "Moscas en la Casa",
-      "url": "https://open.spotify.com/track/3UrlI9WfUyN257ll1w9gtI"
-    },
-    {
-      "added_at": "2023-12-22 23:50:38",
-      "album": {
         "name": "Borracha en un Ba\u00f1o Ajeno",
         "url": "https://open.spotify.com/album/4OTw7mFzyL9pKgNXOMd4EG"
       },
@@ -1179,22 +1163,6 @@
       "duration_ms": 240531,
       "name": "Borracha en un Ba\u00f1o Ajeno",
       "url": "https://open.spotify.com/track/7Mvra8PCttugZU8ZqoMkZS"
-    },
-    {
-      "added_at": "2023-12-22 23:50:38",
-      "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/5qKhpOCkPRF0rLhzxtpUaS"
-      },
-      "artists": [
-        {
-          "name": "Marcela Morelo",
-          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
-        }
-      ],
-      "duration_ms": 225586,
-      "name": "Tormento de Amor",
-      "url": "https://open.spotify.com/track/0B9Tp3mEGR1mDDkAm1m21o"
     },
     {
       "added_at": "2023-12-22 23:50:38",
@@ -1215,6 +1183,38 @@
       "duration_ms": 234985,
       "name": "No Me Importa el Dinero (feat. Julieta Venegas) [Vivo]",
       "url": "https://open.spotify.com/track/5R0lYQFdOTYaX3K2QUkaOI"
+    },
+    {
+      "added_at": "2023-12-22 23:50:38",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/5qKhpOCkPRF0rLhzxtpUaS"
+      },
+      "artists": [
+        {
+          "name": "Marcela Morelo",
+          "url": "https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9"
+        }
+      ],
+      "duration_ms": 225586,
+      "name": "Tormento de Amor",
+      "url": "https://open.spotify.com/track/0B9Tp3mEGR1mDDkAm1m21o"
+    },
+    {
+      "added_at": "2023-12-22 23:50:38",
+      "album": {
+        "name": "Mujer & Ego",
+        "url": "https://open.spotify.com/album/255HbyPo532v2tNoSpGnHQ"
+      },
+      "artists": [
+        {
+          "name": "Ivan Noble",
+          "url": "https://open.spotify.com/artist/2MfTaq5E3ClttaUjoBdI6p"
+        }
+      ],
+      "duration_ms": 214006,
+      "name": "Moscas en la Casa",
+      "url": "https://open.spotify.com/track/3UrlI9WfUyN257ll1w9gtI"
     },
     {
       "added_at": "2023-12-22 23:50:38",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2023-12-22 23:50:38",
       "album": {
+        "name": "Te Vas",
+        "url": "https://open.spotify.com/album/3tr4SE2fnqTKJbMu6sqv4d"
+      },
+      "artists": [
+        {
+          "name": "Rayos L\u00e1ser",
+          "url": "https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs"
+        }
+      ],
+      "duration_ms": 158532,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/4PWsb8BokVShAlA3C2o77e"
+    },
+    {
+      "added_at": "2023-12-22 23:50:38",
+      "album": {
         "name": "Tarde (feat. Malena Villa)",
         "url": "https://open.spotify.com/album/2Q7SYjBnXAqOvfXNrTLv28"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 153058,
       "name": "Tarde (feat. Malena Villa)",
       "url": "https://open.spotify.com/track/6WqX4T9GsccD5j64OOGPnI"
-    },
-    {
-      "added_at": "2023-12-22 23:50:38",
-      "album": {
-        "name": "Te Vas",
-        "url": "https://open.spotify.com/album/3tr4SE2fnqTKJbMu6sqv4d"
-      },
-      "artists": [
-        {
-          "name": "Rayos L\u00e1ser",
-          "url": "https://open.spotify.com/artist/3WGilHlQrv83h1CbF18BEs"
-        }
-      ],
-      "duration_ms": 158532,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/4PWsb8BokVShAlA3C2o77e"
     },
     {
       "added_at": "2023-12-22 23:50:38",
@@ -1463,22 +1463,22 @@
     {
       "added_at": "2023-12-22 23:50:38",
       "album": {
-        "name": "GUIAME",
-        "url": "https://open.spotify.com/album/057ObaWRT9nY13cHAEggco"
+        "name": "TODO SOBRE LA NADA",
+        "url": "https://open.spotify.com/album/5VwZKJ5zjsUHZEVkq12At9"
       },
       "artists": [
         {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+          "name": "FERMIN",
+          "url": "https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz"
         },
         {
-          "name": "Evlay",
-          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
+          "name": "Dillom",
+          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
         }
       ],
-      "duration_ms": 198676,
-      "name": "GUIAME",
-      "url": "https://open.spotify.com/track/0b37vDgD47kRYes63nKX5v"
+      "duration_ms": 212867,
+      "name": "PARAISO",
+      "url": "https://open.spotify.com/track/2An5jscGeFNAvpjRhfiL9A"
     }
   ],
   "unique_name": "Esto es Pop",

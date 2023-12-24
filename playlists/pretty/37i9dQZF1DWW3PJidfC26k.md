@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3PJidfC26k.md) - [plain]
 
 > <a href="https://www.hardlystrictlybluegrass.com/">Tune in</a> Oct\. 1\-3rd starting @ 1pm PT/4pm ET as HSB brings the music we all enjoy in the park to your living rooms and backyards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,744 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,762 likes - 60 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3PJidfC26k.md) - [plain]
 | 18 | [Down Home Girl](https://open.spotify.com/track/58XvqMFmShtnc34GNWZsHk) | [Rainbow Girls](https://open.spotify.com/artist/5qV8qZrppecEsKTWwCCtA7) | [Give the People What They Want](https://open.spotify.com/album/1wAjWPzXGAgwzDK9Nkb9vh) | 3:36 |
 | 19 | [Jeremiah](https://open.spotify.com/track/23ZnVd3Qa0kwsTJcfHVjJ0) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Long Time Coming](https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB) | 3:03 |
 | 20 | [Red Dirt Girl](https://open.spotify.com/track/41QWKQjT6riBhHAGYHU9Xu) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Hickory Wind](https://open.spotify.com/album/5rAT05WHdhzdiJMw9fsKSX) | 4:05 |
-| 21 | [In the Kitchen](https://open.spotify.com/track/3FPaQUAvN3xmdZQqQmCvUM) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Unless](https://open.spotify.com/album/7ypdPobffspADW87626GOy) | 4:11 |
+| 21 | [In the Kitchen](https://open.spotify.com/track/4Tph814aNVXbhanWoJiwit) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Unless](https://open.spotify.com/album/2DAoJjVCPS64NjFDpvN3Ud) | 4:11 |
 | 22 | [C'est La Vie](https://open.spotify.com/track/0PrzUbi3U7AZ9QILug8ni1) | [Cedric Watson](https://open.spotify.com/artist/2a8PsBPX3LvG671uuQGDpq) | [Le Troubadour Creole](https://open.spotify.com/album/42xqacOUmkXU3V9qchjMXH) | 3:46 |
 | 23 | [Supernova](https://open.spotify.com/track/1nHbi9dAQKg6WtmN5xMmed) | [Meklit](https://open.spotify.com/artist/4I5bRwfigd1Fj1ciXo7jQH) | [When the People Move, the Music Moves Too](https://open.spotify.com/album/43xW2nwuh5aSnKjtv6tERG) | 5:42 |
-| 24 | [Last One on the Line](https://open.spotify.com/track/3EJCPHptFTb66er6xgaP6o) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Formations](https://open.spotify.com/album/51G5vn744vAm0qJtuKElX5) | 4:59 |
+| 24 | [Last One on the Line](https://open.spotify.com/track/2wbYGo4S3DYL1ddDRn6fHd) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Formations](https://open.spotify.com/album/0lRJJhFQnT5eEm8gk9ahLk) | 4:59 |
 | 25 | [Tomorrow](https://open.spotify.com/track/47KDDZgFiX1w6RFOuLXsSn) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Tomorrow](https://open.spotify.com/album/6gtu2oXhmDQN8TAsWimZbj) | 4:00 |
 | 26 | [Round Rock \(feat\. Michael Cleveland & Jerry Douglas\)](https://open.spotify.com/track/0gKFQJjGgI6QQiihXyLoRN) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Michael Cleveland](https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk), [Jerry Douglas](https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9) | [My Bluegrass Heart](https://open.spotify.com/album/1vO0hRLuOKXKHrMbDBlJjc) | 6:09 |
 | 27 | [Campfire](https://open.spotify.com/track/3kkTF2ffofmjrKA3pf5kDF) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Sundowner](https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk) | 5:19 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3PJidfC26k.md) - [plain]
 | 59 | [I See It Now](https://open.spotify.com/track/4NhO8oJUelTgNmj3G6JZKr) | [Bachelor](https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [I See It Now](https://open.spotify.com/album/5Gc1jfwEfaGaOq3QllW9rb) | 2:53 |
 | 60 | [The Long Goodbye](https://open.spotify.com/track/6gDnRavQGA28VqNb4ESX4c) | [Ceramic Dog](https://open.spotify.com/artist/2EKKgp12AZDmsFbMU59X0C), [Marc Ribot](https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn) | [Hope](https://open.spotify.com/album/2YNMXnSCNMOfv2bdYtthZu) | 10:02 |
 
-Snapshot ID: `MCw0N2Y1NjI5MDAzM2M3OWE4MzEzODBiNWJhMzgwMThkMDA5NWEyZTBj`
+Snapshot ID: `MCwwMzc1NWViNWE2ZjRiMjNjNDI1ZGQwZDA1MjhjNjM5N2MyZTJjMTFk`

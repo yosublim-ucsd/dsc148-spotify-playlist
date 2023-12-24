@@ -4,7 +4,7 @@
 
 > New and familiar folk in the Irish tradition\. Cover: Ye Vagabonds
 
-78 songs - 5 hr 44 min
+79 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,8 +82,9 @@
 | [The Wind That Shakes the Barley](https://open.spotify.com/track/6LJguzrbZMzXMGN7eoXJ1k) | [Solas](https://open.spotify.com/artist/2CGGUtRYybRjQmuUwXugeP) | [Sunny Spells and Scattered Showers](https://open.spotify.com/album/2QmFrQ39asUCrfrRAXXBtl) | 2:55 | 2021-10-12 | 2022-03-08 |
 | [The Wind That Shakes The Barley/The Reel With The Beryle](https://open.spotify.com/track/76Ux8146OjfnI05femAH4e) | [The Chieftains](https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL) | [The Essential Chieftains](https://open.spotify.com/album/11lmhdLYmkVFr5oefCEmJL) | 2:49 | 2021-10-12 |  |
 | [The Women Of Ireland \(The Love Theme From Barry Lyndon\)/The Morning Dew](https://open.spotify.com/track/56Tf3VTy45dknVuFIpjjt9) | [The Chieftains](https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL) | [The Essential Chieftains](https://open.spotify.com/album/5Wmh21wtNNPzv7ZxB9Vi8G) | 5:14 | 2021-10-12 |  |
-| [Whiskey In The Jar](https://open.spotify.com/track/5rGF96eFDF8u5cAZgG8fUD) | [Jerry Garcia](https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN), [David Grisman](https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O) | [Shady Grove](https://open.spotify.com/album/0CygLXo95xtf8B0yfL4P5y) | 4:15 | 2022-03-11 |  |
+| [Whiskey In The Jar](https://open.spotify.com/track/5rGF96eFDF8u5cAZgG8fUD) | [Jerry Garcia](https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN), [David Grisman](https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O) | [Shady Grove](https://open.spotify.com/album/0CygLXo95xtf8B0yfL4P5y) | 4:15 | 2022-03-11 | 2023-12-24 |
 | [Whiskey In The Jar](https://open.spotify.com/track/69BhgVzGUe3V4QMFekmttL) | [Jerry Garcia](https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN), [David Grisman](https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O) | [Shady Grove](https://open.spotify.com/album/2BGRgCUXutehfvbcsW9zD8) | 4:15 | 2021-10-12 | 2022-07-29 |
+| [Whiskey In The Jar](https://open.spotify.com/track/7C8LYd0gWShnWlVtJkfyu4) | [Jerry Garcia](https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN), [David Grisman](https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O) | [Shady Grove](https://open.spotify.com/album/4TzjXblEhAFlROlaSD5UN0) | 4:15 | 2023-11-14 |  |
 | [Wild Mountain Thyme](https://open.spotify.com/track/0Xr52TQhe9VwG6cWNMDETf) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP), [Rufus Wainwright](https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8), [Dick Gaughan](https://open.spotify.com/artist/04eXQN6Mb6qFCCjqQmFvHb), [Kate](https://open.spotify.com/artist/1aMbs342LgrSeo5fsHCEXu), [Anna McGarrigle](https://open.spotify.com/artist/0iSv9ZRAjpDv5ma3JCPM2q) | [Transatlantic Sessions \- Series 1: Volume Three](https://open.spotify.com/album/2zkjDS6298iTDYi2JJUKjg) | 5:02 | 2021-10-12 | 2022-03-08 |
 | [Óró Sé Do Bheatha 'Bhaile](https://open.spotify.com/track/0AsIdSOFy2Rf6B209mwUwv) | [Screaming Orphans](https://open.spotify.com/artist/41fubq9QRf4B3bjtQmLxy6) | [Belle's Isle](https://open.spotify.com/album/7kvG8SSqWGDlgKhT79E68B) | 2:10 | 2021-10-12 |  |
 

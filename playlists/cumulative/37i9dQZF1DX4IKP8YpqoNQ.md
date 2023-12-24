@@ -4,7 +4,7 @@
 
 > Experience the best live performances\. Check out live soul albums <a href="spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY">here</a>.
 
-200 songs - 16 hr 43 min
+201 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Let's Stay Together \- Live](https://open.spotify.com/track/474iAHLvDbXAQnEI82i4RW) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Tokyo..\. Live](https://open.spotify.com/album/5ON1SpKi7LFb8axFjAmpEJ) | 3:52 | 2022-02-10 |  |
 | [Like a Ship \- Live from Strange Manor](https://open.spotify.com/track/6J6InHh9eVYIxva60QTB5e) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Like a Ship \(Live from Strange Manor\)](https://open.spotify.com/album/3i25lVb7GBHyj4YO7L7ki7) | 5:09 | 2023-04-06 |  |
 | [Little Ghetto Boy \(Live\)](https://open.spotify.com/track/4BsSAMZ8Lsmqgha5CSi39h) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Lalah Hathaway Live!](https://open.spotify.com/album/4XPHspoSgvDO0ongX1PVKv) | 3:56 | 2022-02-10 | 2022-07-28 |
-| [Little Ghetto Boy \(Radio Edit\)](https://open.spotify.com/track/6vtr9TyGFmEtooMPRamYWb) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Lalah Hathaway Live!](https://open.spotify.com/album/2g2JY5M0fG0TJeE3Q6iL71) | 3:56 | 2022-02-10 |  |
+| [Little Ghetto Boy \(Radio Edit\)](https://open.spotify.com/track/6vtr9TyGFmEtooMPRamYWb) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Lalah Hathaway Live!](https://open.spotify.com/album/2g2JY5M0fG0TJeE3Q6iL71) | 3:56 | 2022-02-10 | 2023-12-24 |
 | [Look Up To The Sky \- Live](https://open.spotify.com/track/7AToEkxMNtu2DGerv9lTFv) | [Nicole Bus](https://open.spotify.com/artist/0IeB4swNmNetlaZUgdHqBX) | [Live In NYC](https://open.spotify.com/album/2ek7e3WgzpZVmxgDdWkSkU) | 4:03 | 2022-02-10 | 2022-07-29 |
 | [Lost \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/5wjdouk5wQxXkmTeyOC12M) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Spotify Singles](https://open.spotify.com/album/2kQ1EcVFOp70CML1HYjRzn) | 3:54 | 2022-02-10 |  |
 | [Love & Hate \- Live From Spotify London](https://open.spotify.com/track/2TWG1zX5vzOD2aJxfJ5W5U) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Spotify Sessions](https://open.spotify.com/album/1izqfeako1qgYLviORVoDT) | 8:33 | 2022-02-10 |  |
@@ -187,6 +187,7 @@
 | [Valerie \- Live At BBC Radio 1 Live Lounge, London / 2007](https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:53 | 2022-02-10 |  |
 | [Valerie \- Live Jo Whiley, BBC Live Lounge Session / 2007](https://open.spotify.com/track/4ml8AFICctVaeDXoZyhp42) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [At The BBC](https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ) | 3:51 | 2022-02-10 | 2022-11-14 |
 | [VooDoo \- Live From Wolfgang's Vault](https://open.spotify.com/track/0NdmKzjtCxH3pdDPcCBlOX) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Authorized Bootleg/Warfield Theatre, San Francisco, CA, February 27, 1989](https://open.spotify.com/album/6EieVX7Wx9Bugz2AFBBZc3) | 4:12 | 2022-02-10 | 2022-07-29 |
+| [Walk With Me \(Live from Blackbird Studio\)](https://open.spotify.com/track/18P7aUOSdvpiciQTq4AuRd) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Walk With Me \(Live from Blackbird Studio\)](https://open.spotify.com/album/7pzyZnDFd3tacQSa7drYhV) | 3:42 | 2023-12-11 |  |
 | [Walk With Me \- Live from Blackbird Studio](https://open.spotify.com/track/0TL3xsQ95neiYaeDcZAW3L) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Walk With Me \(Live from Blackbird Studio\)](https://open.spotify.com/album/2W5NGe87vCMrPS1YHLaARB) | 3:42 | 2022-02-10 | 2023-11-04 |
 | [Washington D.C.](https://open.spotify.com/track/013mWYpNJUCQMM2gNP8TxF) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [Live!](https://open.spotify.com/album/63jfjHjykzWaVEMPzBHwxA) | 5:22 | 2022-02-10 | 2022-07-29 |
 | [What Is Hip? \- Live Version](https://open.spotify.com/track/60bm1fhy4Fs8MKr8bM8MJt) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Live And In Living Color](https://open.spotify.com/album/5wfEOE7PDNoYN8SSviRPRK) | 6:34 | 2022-02-10 | 2023-04-06 |

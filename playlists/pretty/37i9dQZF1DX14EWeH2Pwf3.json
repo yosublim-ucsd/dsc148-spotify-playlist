@@ -1,12 +1,12 @@
 {
   "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Medy.  <a href=\"spotify:playlist:37i9dQZF1DWYQKKZPHGppf\">Scopri il Best Of del 2023 qui!</a>",
-  "num_followers": 913600,
+  "num_followers": 913821,
   "original_name": "Plus Ultra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmZiNzI2NTRjYTNlOGU1N2ZkZWRlZjU4MWJjYTY1ZDM0NDI3OTVh",
+  "snapshot_id": "MCw0NTE0NjAzNjgzNWIxYzUwZmZmNWRjODdmNzU1ZDMxZjEzOWZjNDc0",
   "tracks": [
     {
       "added_at": "2023-12-21 23:01:00",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-12-21 23:01:00",
       "album": {
-        "name": "Un\u2019Altra Volta",
-        "url": "https://open.spotify.com/album/3Iew1h5VtOr8eiSe3omNjj"
-      },
-      "artists": [
-        {
-          "name": "Vale Pain",
-          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
-        }
-      ],
-      "duration_ms": 132571,
-      "name": "Un\u2019Altra Volta",
-      "url": "https://open.spotify.com/track/0LibhadIbaCxWStsermQhg"
-    },
-    {
-      "added_at": "2023-12-21 23:01:00",
-      "album": {
         "name": "Le cose cambiano",
         "url": "https://open.spotify.com/album/50SWJ7Aq7XuSKl8SJYFnn9"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 133480,
       "name": "GURU DEL BUSINESS",
       "url": "https://open.spotify.com/track/0IqoqvFdmvnHaOtKUJZ2Rw"
+    },
+    {
+      "added_at": "2023-12-21 23:01:00",
+      "album": {
+        "name": "Un\u2019Altra Volta",
+        "url": "https://open.spotify.com/album/3Iew1h5VtOr8eiSe3omNjj"
+      },
+      "artists": [
+        {
+          "name": "Vale Pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+        }
+      ],
+      "duration_ms": 132571,
+      "name": "Un\u2019Altra Volta",
+      "url": "https://open.spotify.com/track/0LibhadIbaCxWStsermQhg"
     },
     {
       "added_at": "2023-12-21 23:01:00",

@@ -474,10 +474,28 @@
       ],
       "date_added": "2021-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 112886,
       "name": "Deck The Halls",
       "url": "https://open.spotify.com/track/27vCWK2IVbhahTwnw5nhrW"
+    },
+    {
+      "album": {
+        "name": "A Guitar Holiday",
+        "url": "https://open.spotify.com/album/4kLp6CqCmDy7CeengHFpJK"
+      },
+      "artists": [
+        {
+          "name": "Aaron Larget-Caplan",
+          "url": "https://open.spotify.com/artist/3SQ8wM04jpHcSbPM6Rl2BL"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112886,
+      "name": "Deck The Halls",
+      "url": "https://open.spotify.com/track/6BtuV4fSCgieGeNWPMqRMf"
     },
     {
       "album": {

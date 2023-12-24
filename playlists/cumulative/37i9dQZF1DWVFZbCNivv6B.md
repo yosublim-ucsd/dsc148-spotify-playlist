@@ -4,7 +4,7 @@
 
 > Aquí vive el hip\-hop mexicano\. Dan Sanchez, Tornillo y Natanael Cano en la casa.
 
-464 songs - 1 day 3 hr 48 min
+464 songs - 1 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 | [Hoy Lo Decreto](https://open.spotify.com/track/1Ka9K4AXz0llC3Hn3fP3Ev) | [Noble Esquivel](https://open.spotify.com/artist/7D5IffmyeJQpQ2532utYIQ), [Cyclope](https://open.spotify.com/artist/4uFlihojFS0z4h4zUpVdlF) | [Hoy Lo Decreto](https://open.spotify.com/album/5Xu14YaT0QqDnHXB89NWxt) | 2:25 | 2023-03-03 | 2023-05-20 |
 | [Huracán](https://open.spotify.com/track/5sbj4M33WaHilEaJAhRPp8) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Huracán](https://open.spotify.com/album/2u4KwCMykbRMaqSb3nM7Wq) | 4:15 | 2023-07-14 |  |
 | [Husein](https://open.spotify.com/track/4U7cmDHz5utZCRW1s1LoF7) | [Nuco](https://open.spotify.com/artist/2FCR4hKgXtEmNCRH8pyENS), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Husein](https://open.spotify.com/album/1DFMXfMfH7zQj1b7lhLJrP) | 3:41 | 2023-04-28 | 2023-05-06 |
-| [Igual Que Ayer](https://open.spotify.com/track/6SokBtt443HT7pwaqbT0cC) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Igual Que Ayer](https://open.spotify.com/album/5b2rRtGErcIWSnKt9pd9Tq) | 4:10 | 2023-12-22 |  |
+| [Igual Que Ayer](https://open.spotify.com/track/6SokBtt443HT7pwaqbT0cC) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Igual Que Ayer](https://open.spotify.com/album/5b2rRtGErcIWSnKt9pd9Tq) | 2:41 | 2023-12-22 |  |
 | [Ilegal](https://open.spotify.com/track/7noUi6BJ2QBfBHxzAWXk6n) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [99,9](https://open.spotify.com/album/2t4hCVRC3NpT8UjdDEC9x0) | 2:10 | 2023-04-14 | 2023-11-04 |
 | [Ilegal](https://open.spotify.com/track/0cTwOl6O8Vp9bcCqiXryum) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Denilson](https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj), [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [Opium G](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl), [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK), [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ), [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ) | [Ilegal](https://open.spotify.com/album/5ZW5SdUAU4ICF6Ch0IBwpG) | 4:45 | 2022-01-28 | 2022-09-10 |
 | [Imaginando Voy](https://open.spotify.com/track/2woVDlN4GzCB2LUQSd4QAA) | [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Imaginando Voy](https://open.spotify.com/album/2LrxtY5hsCCZFKIq5VmNbh) | 2:42 | 2023-10-27 | 2023-11-25 |

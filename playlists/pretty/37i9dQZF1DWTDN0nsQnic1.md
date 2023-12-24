@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 
 > Lush, shimmery guitars\. Cover: Ichika Nito
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,488 likes - 71 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,499 likes - 71 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 | 55 | [Super Sad Always](https://open.spotify.com/track/5U8WC9leLpyqiPR8A4pugS) | [Melanie Faye](https://open.spotify.com/artist/4pcfFC9isxezJyTwbV1nIp) | [Super Sad Always](https://open.spotify.com/album/5q9YkODlRIetIXyOvSpOUg) | 3:13 |
 | 56 | [Something More](https://open.spotify.com/track/1WUenMBQLpOkvu1lc9AbFg) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL), [Butcher Brown](https://open.spotify.com/artist/1EjwcoJN7uzJPuv1vbf2qk) | [Juicebox](https://open.spotify.com/album/7LkpnXXvh8x6EU4mRHgFQW) | 5:03 |
 | 57 | [Flutter](https://open.spotify.com/track/0Y8R6nwouR14KIyHnumRSN) | [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [Raelee Nikole](https://open.spotify.com/artist/4ktrs83Hjyo4evbF4adTrb) | [Flutter](https://open.spotify.com/album/1iXnreOHsfrUOF81pv2Alk) | 3:12 |
-| 58 | [Talk In The Morning](https://open.spotify.com/track/4yxaiawEicI6fJHlGp5wAQ) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Breathe](https://open.spotify.com/album/6q39FZTCwg8y91KKQUTBq5) | 3:37 |
+| 58 | [Talk In The Morning](https://open.spotify.com/track/7zXOEWUCKiUcdbtZr6ZEdW) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Breathe](https://open.spotify.com/album/1QSDqlZT7YrFe38IEaR67A) | 3:37 |
 | 59 | [Lovespell](https://open.spotify.com/track/37w7whht8ii8yxGfqkSf1d) | [Ben Rosett](https://open.spotify.com/artist/1dtiGEl2aljrMiP2QqqoZZ) | [Lovespell](https://open.spotify.com/album/0StAahiWVzY6SqoAKl26CR) | 3:18 |
 | 60 | [Yufuin](https://open.spotify.com/track/1WXrXjZVbnM34rCfw5NXd9) | [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5) | [Yufuin](https://open.spotify.com/album/6CvExCbjIZfxOtUXkMQvBC) | 2:35 |
 | 61 | [Tadow](https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 5:01 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDN0nsQnic1.md) - [plain]
 | 70 | [Holiday](https://open.spotify.com/track/3yEinCTSzCdXNxbJ1ax7o6) | [jalowo](https://open.spotify.com/artist/2D78J8PPLKuEZqmArTFlQS), [Metic](https://open.spotify.com/artist/6w72979Ja5ip1mFNzTa2iY), [Alber](https://open.spotify.com/artist/5nJQi88KO8UbkSHDUb57ZS) | [Holiday](https://open.spotify.com/album/1IdapISfbxpMTBCsPTLsvg) | 2:48 |
 | 71 | [This World](https://open.spotify.com/track/5UrRSpJaU8sCp1C8OeurgV) | [Justus West](https://open.spotify.com/artist/1Rr0QwTQSGjUCpYFfXqnWO), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [This World](https://open.spotify.com/album/0VuUpLsPLvDF51IvRGk4jV) | 4:27 |
 
-Snapshot ID: `MCwzMTJlMDUxZTQzNTI2ZDZkOWE3NzE5NzlkOWNjMDg4Mjc5NTEzMTU4`
+Snapshot ID: `MCxmMTQ2YzEyZWVjMzI2MmRlOWFkZmI2NWNmYTQxMzIyYzEwNTcwOTM4`

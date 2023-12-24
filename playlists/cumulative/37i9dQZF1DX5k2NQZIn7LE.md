@@ -4,7 +4,7 @@
 
 > Fusion hits of Coke Studio Pakistan\. Cover: Justin Bibis
 
-107 songs - 11 hr 49 min
+108 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Bibi Sanam Janem](https://open.spotify.com/track/6zKJUZJDyf2pbiYjStBvKh) | [Zeb & Haniya](https://open.spotify.com/artist/7yRWAVvdjzgjU2wrpaKXLA), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 6:13 | 2022-03-15 |  |
 | [Channa](https://open.spotify.com/track/2z7iGPW9VjWRMfxnozYpZe) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 4:57 | 2022-03-15 |  |
 | [Charkha Nolakha](https://open.spotify.com/track/0GKo5LtZM9SvqxZvnxz8hk) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Qayaas](https://open.spotify.com/artist/070AvN8e3WycppehEutQao), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 6:42 | 2022-03-15 |  |
-| [Chiryan da Chamba](https://open.spotify.com/track/4hrFaKJ13XCVAp2w9LuqSf) | [Suraiya Khanum](https://open.spotify.com/artist/49yBIp5OY8bpgKUrxEhnM0), [Anwar Maqsood](https://open.spotify.com/artist/5EUd6JP2GsBheJtbuXQ5c1) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 8:50 | 2022-03-15 |  |
+| [Chiryan da Chamba](https://open.spotify.com/track/4hrFaKJ13XCVAp2w9LuqSf) | [Suraiya Khanum](https://open.spotify.com/artist/49yBIp5OY8bpgKUrxEhnM0), [Anwar Maqsood](https://open.spotify.com/artist/5EUd6JP2GsBheJtbuXQ5c1) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 8:50 | 2022-03-15 | 2023-12-24 |
+| [Chiryan Da Chamba \- Coke Studio Season 8](https://open.spotify.com/track/1TfeIvCSLIVPpxCqCI5Etq) | [Suraiya Khanum](https://open.spotify.com/artist/49yBIp5OY8bpgKUrxEhnM0), [Anwar Maqsood](https://open.spotify.com/artist/5EUd6JP2GsBheJtbuXQ5c1) | [Chiryan Da Chamba \(Coke Studio Season 8\)](https://open.spotify.com/album/5QkwDolPCG71ph5xcLNVEr) | 8:50 | 2022-10-12 |  |
 | [Daachi Waaliya](https://open.spotify.com/track/1uBcSRrHdMrTwLIoBYoUMi) | [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP) | [Daachi Waaliya](https://open.spotify.com/album/73YNgJro1GEHAzecBWrPs2) | 8:02 | 2022-03-15 |  |
 | [Dil Tarpe](https://open.spotify.com/track/63zwG1gDxuUbd8DRcVv8lO) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Zara Madani](https://open.spotify.com/artist/7whBc4k8oVdg9akSlUoyo9) | [Dil Tarpe](https://open.spotify.com/album/0frqXSFP8gEXX5SF91Vnzd) | 6:33 | 2022-03-15 |  |
 | [Gaddiye](https://open.spotify.com/track/4JhWn8awBnebXXdsMHOHJM) | [Attaullah Khan](https://open.spotify.com/artist/7LlDD5q2kx8YkRItgqDiI0), [Asrar](https://open.spotify.com/artist/2pLpp8LjPF5qJAj8T3zzPn) | [Coke Studio Season 11 \(Sound of The Nation\)](https://open.spotify.com/album/0NKhQH2b1GwucaMqnzfZri) | 6:02 | 2022-03-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 
 > Escape with these melodic liquid drum & bass beats\. \(photo from Hubble Space Project\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,924 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,979 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jlzMTQ2PY5.md) - [plain]
 | 44 | [endcliffe blues](https://open.spotify.com/track/5tCVAAxy3tbGux1ivbtjfg) | [Silver Ocean](https://open.spotify.com/artist/0rcIgJt9sEX5Q7o6nsOEN9) | [endcliffe blues](https://open.spotify.com/album/2ngIoicrxrasJua9VekXbJ) | 2:45 |
 | 45 | [The Drift](https://open.spotify.com/track/1JsJnmUKULIbbNy7ePgYD3) | [Javano](https://open.spotify.com/artist/61b5v13hJBQhKlQ5sXMub2) | [The Drift](https://open.spotify.com/album/59Yj6MwubdBXwpNUZLft6W) | 4:51 |
 | 46 | [She Moves](https://open.spotify.com/track/1QeliItLbS0fvWbJA2dxMX) | [Zero T](https://open.spotify.com/artist/5PKeA9LeUfSjUhy1ja1lsg), [KILLSWSH](https://open.spotify.com/artist/015vF6YuCsnX2b89hU3qNG) | [Off Broadway](https://open.spotify.com/album/6Lu0XmmqRDocjeFR5GlOTh) | 5:40 |
-| 47 | [Summer's End](https://open.spotify.com/track/1xSfjrSPQUHyD1xFIJ44vX) | [Artsea](https://open.spotify.com/artist/1byJENnR4rfRDs6AyFvSU9) | [Summer's End](https://open.spotify.com/album/7obp0SlhUqCCHwbnIkAzmN) | 5:18 |
-| 48 | [CRISIS QUEEN](https://open.spotify.com/track/1UnUdOXlw6WeRDconlDYEm) | [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [TROUBLESHOOTER](https://open.spotify.com/album/1JVmdf4G8REy2wKs8M6n6t) | 2:20 |
+| 47 | [CRISIS QUEEN](https://open.spotify.com/track/1UnUdOXlw6WeRDconlDYEm) | [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [TROUBLESHOOTER](https://open.spotify.com/album/1JVmdf4G8REy2wKs8M6n6t) | 2:20 |
+| 48 | [Summer's End](https://open.spotify.com/track/1xSfjrSPQUHyD1xFIJ44vX) | [Artsea](https://open.spotify.com/artist/1byJENnR4rfRDs6AyFvSU9) | [Summer's End](https://open.spotify.com/album/7obp0SlhUqCCHwbnIkAzmN) | 5:18 |
 | 49 | [Gifted Lover](https://open.spotify.com/track/2xsK1pXFX2Dlx7xH33Tc1N) | [Villem](https://open.spotify.com/artist/3mupfXo95OeusJKhAJVCUf), [Mcleod](https://open.spotify.com/artist/0mEsOKLNGOPE2Zhb6OCYuf), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Better Place EP](https://open.spotify.com/album/0HtD2johjX3h3AgONmmiU0) | 6:01 |
 | 50 | [Never Made It](https://open.spotify.com/track/348lckHV37myDPmuxztghP) | [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Mindstate](https://open.spotify.com/artist/7wJB2NvOGLDFafWVIsziRZ) | [Light Language](https://open.spotify.com/album/179IcSz26HvgzajtOzw3kC) | 4:29 |
 
-Snapshot ID: `MCw0MTA0ZWM0OGUxODljNjlhM2M3ODlkMTE5YzVlOTk4ZTc3OGZiODMw`
+Snapshot ID: `MCw2Y2UwM2IzY2M5NTQzNzdhMjA3MDhmMjAyNjIzY2JjMjNlNzNkZTVi`

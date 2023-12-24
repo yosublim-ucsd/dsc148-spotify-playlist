@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "Get Ready",
+        "url": "https://open.spotify.com/album/6NkYBmhWU3LERnRJg4sgu6"
+      },
+      "artists": [
+        {
+          "name": "Forever Jones",
+          "url": "https://open.spotify.com/artist/4s9LVgzhn2WH4gFlN3am1Q"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303746,
+      "name": "Adoration (So Amazing)",
+      "url": "https://open.spotify.com/track/4a4JpMiIt0xFyWqfs8LsQk"
+    },
+    {
+      "album": {
         "name": "Saints In Praise",
         "url": "https://open.spotify.com/album/5CuCkOSWpR1shF8tV8TzH6"
       },
@@ -1730,7 +1748,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 175317,
       "name": "Brighter",
       "url": "https://open.spotify.com/track/6pTazkzkmvBietfy4IwCi8"
@@ -2524,7 +2542,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 237558,
       "name": "Dear God",
       "url": "https://open.spotify.com/track/5OdF9NAO3BZw2DuYwnPjEu"
@@ -4336,7 +4354,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 122933,
       "name": "God Is On Our Side",
       "url": "https://open.spotify.com/track/42s5Vig7QG0nZ8DCsRQ8pd"
@@ -4557,6 +4575,24 @@
     },
     {
       "album": {
+        "name": "Return",
+        "url": "https://open.spotify.com/album/2KEV9zMALxChVoSlwJ251y"
+      },
+      "artists": [
+        {
+          "name": "The Winans",
+          "url": "https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279266,
+      "name": "Gonna Be Alright",
+      "url": "https://open.spotify.com/track/4LsK4u0gVUbSAsxTptNgWr"
+    },
+    {
+      "album": {
         "name": "Good & Loved (feat. DOE) [Stellars 2020]",
         "url": "https://open.spotify.com/album/7B5wHZpsUCI2Y7uQ3fWQVz"
       },
@@ -4572,7 +4608,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 232232,
       "name": "Good & Loved (feat. DOE) - Stellars 2020",
       "url": "https://open.spotify.com/track/2wxUXlPQSloOq0SGetICXD"
@@ -4760,7 +4796,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 310892,
       "name": "Great Big God",
       "url": "https://open.spotify.com/track/3alO2TJ8IFoLbc79G3wpMV"
@@ -5054,7 +5090,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 250226,
       "name": "He Keeps On Doing Great Things For Me",
       "url": "https://open.spotify.com/track/3BF7d8yZvSujStXZUB0upM"
@@ -5080,6 +5116,24 @@
       "duration_ms": 240000,
       "name": "He Paid It All",
       "url": "https://open.spotify.com/track/227FXOjHLK5K7lpnUvjmZI"
+    },
+    {
+      "album": {
+        "name": "ACM Gospel Choir",
+        "url": "https://open.spotify.com/album/6JR2N4MIu4gk7MDUUBkc0U"
+      },
+      "artists": [
+        {
+          "name": "ACM Gospel Choir",
+          "url": "https://open.spotify.com/artist/4XUjYkrgrCyiWnjD9h0SuD"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225266,
+      "name": "He Reigns",
+      "url": "https://open.spotify.com/track/56EtKmyMIu5gltU5hE80m0"
     },
     {
       "album": {
@@ -5424,7 +5478,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 291346,
       "name": "Here I Am",
       "url": "https://open.spotify.com/track/3mhZUguOEyOsQBYWx0JDt0"
@@ -5528,7 +5582,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 182426,
       "name": "Hey Now",
       "url": "https://open.spotify.com/track/21m3Pp9usZX1FlrFEZPJIv"
@@ -6025,6 +6079,24 @@
     },
     {
       "album": {
+        "name": "Darlene McCoy",
+        "url": "https://open.spotify.com/album/5gnKxMzM1vw9eCDeCrEMdT"
+      },
+      "artists": [
+        {
+          "name": "Darlene McCoy",
+          "url": "https://open.spotify.com/artist/6IFoxYp4s7WuFlCAqfYaMn"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288253,
+      "name": "I Adore You",
+      "url": "https://open.spotify.com/track/6QPvpe1V68qwu90iCjGFkS"
+    },
+    {
+      "album": {
         "name": "All I Need Is You",
         "url": "https://open.spotify.com/album/30ei3YhleAhqWfOxJIbixB"
       },
@@ -6488,10 +6560,28 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 287650,
       "name": "I Hear Rain - Live",
       "url": "https://open.spotify.com/track/4ZxdW7gcTK50hZiC6wA3Qa"
+    },
+    {
+      "album": {
+        "name": "The Revival (Live)",
+        "url": "https://open.spotify.com/album/7LngGv1okwYJ5iw80udSCQ"
+      },
+      "artists": [
+        {
+          "name": "Edwrin Sutton",
+          "url": "https://open.spotify.com/artist/6PokI0M4HqNDFdVcD3Ss1F"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287650,
+      "name": "I Hear Rain - Live",
+      "url": "https://open.spotify.com/track/7eoglSxP1WNdzGUUpUrvSx"
     },
     {
       "album": {
@@ -6774,6 +6864,24 @@
       "duration_ms": 260431,
       "name": "I See Miracles",
       "url": "https://open.spotify.com/track/4c11HmomjkYU2wf9maxf17"
+    },
+    {
+      "album": {
+        "name": "Alone But Not Alone",
+        "url": "https://open.spotify.com/album/7MRDIQVnFbhULpA3Blil6t"
+      },
+      "artists": [
+        {
+          "name": "Marvin Winans",
+          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329893,
+      "name": "I Shall Never",
+      "url": "https://open.spotify.com/track/71CGV8wvpd19KLWaVIUQEM"
     },
     {
       "album": {
@@ -7205,6 +7313,24 @@
     },
     {
       "album": {
+        "name": "I Won\u2019t Complain",
+        "url": "https://open.spotify.com/album/5rxkuBLC0JKcdJhdQsV0Ed"
+      },
+      "artists": [
+        {
+          "name": "Rev. Paul Jones",
+          "url": "https://open.spotify.com/artist/0Wu5bgr1RccU9UMgoLbXaT"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292800,
+      "name": "I Won\u2019t Complain",
+      "url": "https://open.spotify.com/track/3rGlvhGguVckWnkFiaslsB"
+    },
+    {
+      "album": {
         "name": "I'll Always Be Thankful (feat. The Pace Family)",
         "url": "https://open.spotify.com/album/0wY7G2lA6Drc3X0qp53tos"
       },
@@ -7220,7 +7346,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 225473,
       "name": "I'll Always Be Thankful (feat. the Pace Family)",
       "url": "https://open.spotify.com/track/3QKhnaRMGjvmLsQLeadTQG"
@@ -8082,7 +8208,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 181800,
       "name": "It Is To You",
       "url": "https://open.spotify.com/track/15006aXd803lbtvhXYdGBk"
@@ -8574,7 +8700,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 262680,
       "name": "Jesus Will Work It Out",
       "url": "https://open.spotify.com/track/6UVPVY3eJL5eNYdUpXsC1t"
@@ -8904,7 +9030,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 206026,
       "name": "Just The Way",
       "url": "https://open.spotify.com/track/4bPQhVMnuBKunkFXcw4SK0"
@@ -9626,7 +9752,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 236387,
       "name": "Livin' my Dream",
       "url": "https://open.spotify.com/track/1DgJRBndlOgalOMy2M02DW"
@@ -9687,6 +9813,24 @@
     },
     {
       "album": {
+        "name": "Platinum Gospel- Rev. James Cleveland",
+        "url": "https://open.spotify.com/album/7pKpi8aK475uSC2yNCq8tM"
+      },
+      "artists": [
+        {
+          "name": "James Cleveland",
+          "url": "https://open.spotify.com/artist/5g1lWbZIQ0LCWbKmRJDSSn"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325826,
+      "name": "Lord Do It",
+      "url": "https://open.spotify.com/track/5HeEJbaS7V9Ft7gfq8uRGi"
+    },
+    {
+      "album": {
         "name": "Lord I'm Ready",
         "url": "https://open.spotify.com/album/04JHkWUN4Q6lBObWnfToWr"
       },
@@ -9716,7 +9860,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-31",
+      "date_removed": null,
       "duration_ms": 336586,
       "name": "Lord Prepare Me To Be A Sanctuary",
       "url": "https://open.spotify.com/track/3LDSvaUzc679GPLE1Uwz5c"
@@ -10292,7 +10436,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 188107,
       "name": "Mama",
       "url": "https://open.spotify.com/track/7CnSGIG31JaaEHpPhSIFfr"
@@ -10332,7 +10476,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 456600,
       "name": "Marvelous",
       "url": "https://open.spotify.com/track/7fXBwwL8kzFfyIxSt05DAl"
@@ -10546,7 +10690,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 156026,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1vqzSOlthX17HAs2A8kSEP"
@@ -11022,7 +11166,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 169469,
       "name": "My Hands Are Lifted Up",
       "url": "https://open.spotify.com/track/37frT11TdGdjJH2d25lmGf"
@@ -13060,7 +13204,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 223396,
       "name": "Reach",
       "url": "https://open.spotify.com/track/5YpUWchb0Zs9Rkp3lvgEAY"
@@ -14461,6 +14605,24 @@
     },
     {
       "album": {
+        "name": "MAJOR.HOPE Motivations",
+        "url": "https://open.spotify.com/album/17QCcAuzoBWEcqAgXMBA0T"
+      },
+      "artists": [
+        {
+          "name": "MAJOR.",
+          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116591,
+      "name": "Stillness (Motivation)",
+      "url": "https://open.spotify.com/track/0nF43bYmLw1S52Y2jmYmns"
+    },
+    {
+      "album": {
         "name": "Mood Valiant",
         "url": "https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG"
       },
@@ -14570,6 +14732,24 @@
       "duration_ms": 204016,
       "name": "Surrounded",
       "url": "https://open.spotify.com/track/2QQvAa8MdheXtGdjfTUZMt"
+    },
+    {
+      "album": {
+        "name": "Surrounded",
+        "url": "https://open.spotify.com/album/49iPrIne1mOKvCSMQ3FYSk"
+      },
+      "artists": [
+        {
+          "name": "Men Of Standard",
+          "url": "https://open.spotify.com/artist/1DXIt1yDO207SmcSFAVEeS"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196013,
+      "name": "Surrounded",
+      "url": "https://open.spotify.com/track/6MCyuGAeXrmsb9O6jnIhkA"
     },
     {
       "album": {
@@ -14920,7 +15100,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 225266,
       "name": "That's What You Are To Me",
       "url": "https://open.spotify.com/track/2XtWP8HfsfcbcmfbNHqAqU"
@@ -14974,7 +15154,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 270367,
       "name": "The Best Day of My Life",
       "url": "https://open.spotify.com/track/2tCeJtxgpzRZ0IGJS2jP6k"
@@ -15076,7 +15256,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 157613,
       "name": "The Blood Will Never Lose It's Power",
       "url": "https://open.spotify.com/track/0UT4CasW7c7QxpA1yaBslz"
@@ -15174,7 +15354,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 324846,
       "name": "The Corinthian Song",
       "url": "https://open.spotify.com/track/7AUJstddkR4IDwfqmOAbrW"
@@ -15218,7 +15398,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 374092,
       "name": "THE GLORY ft. New Breed",
       "url": "https://open.spotify.com/track/32PAhZGQ3BkfkaR2mJczFm"
@@ -16054,6 +16234,24 @@
       "duration_ms": 129639,
       "name": "Til We Meet",
       "url": "https://open.spotify.com/track/4DrWlzGquUlQtxWCrXvobu"
+    },
+    {
+      "album": {
+        "name": "Get Ready",
+        "url": "https://open.spotify.com/album/6NkYBmhWU3LERnRJg4sgu6"
+      },
+      "artists": [
+        {
+          "name": "Forever Jones",
+          "url": "https://open.spotify.com/artist/4s9LVgzhn2WH4gFlN3am1Q"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250933,
+      "name": "Time To Believe",
+      "url": "https://open.spotify.com/track/2TDzYMTb7zAJR4QgvmtCN6"
     },
     {
       "album": {
@@ -17434,7 +17632,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 214600,
       "name": "You Amaze Me - I Just Want You Album Version",
       "url": "https://open.spotify.com/track/3LhV1K7c2PtAdmEdANSLxd"
@@ -17582,7 +17780,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 204960,
       "name": "You Gave Me Hope",
       "url": "https://open.spotify.com/track/4EqNAhbSJoanTrdX2GJE2C"

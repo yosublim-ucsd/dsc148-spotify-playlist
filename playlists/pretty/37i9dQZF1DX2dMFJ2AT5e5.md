@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dMFJ2AT5e5.md) - [plain]
 
 > Un vibe tranqui para que disfrutes de tu espacio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,081 likes - 85 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,074 likes - 85 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dMFJ2AT5e5.md) - [plain]
 | 19 | [Final Pages](https://open.spotify.com/track/5GU5ziuNYyse6EpyvTJ8XK) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Intergalactic Sneakers](https://open.spotify.com/album/4wwSUrChmw5YNsVqVEFfCS) | 2:33 |
 | 20 | [beat relajado para estudiar](https://open.spotify.com/track/5jA4Rtkye6Oel04XL1B0YP) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [beat relajado para estudiar](https://open.spotify.com/album/0oGR5f3UEt0T1J050dRtMx) | 4:10 |
 | 21 | [One Day at a Time](https://open.spotify.com/track/3YzOBxLQQVvqKH8xR0XgNh) | [Ensidya](https://open.spotify.com/artist/2lenoWzSFNMSFJU05uqIrj) | [One Day at a Time](https://open.spotify.com/album/7wqOTHoyjGvqRJ7ThxxdNk) | 2:01 |
-| 22 | [Thunder](https://open.spotify.com/track/0cGiNZa8d20rYlfPWDon6y) | [Boltri](https://open.spotify.com/artist/6LI9eW5AQmtBIxJklvPvBa), [Boltron](https://open.spotify.com/artist/0HOmnaKrkwTfGXXXy4D2rT), [Holy Pig](https://open.spotify.com/artist/5noU5w3Au49jwWgCXih5IE) | [Thunder](https://open.spotify.com/album/66RptozVJ3MfW05VONQ8NE) | 2:57 |
+| 22 | [Thunder](https://open.spotify.com/track/7erUqAP6IGMSJa9XgSGwss) | [Holy Pig](https://open.spotify.com/artist/5noU5w3Au49jwWgCXih5IE), [Boltri](https://open.spotify.com/artist/6LI9eW5AQmtBIxJklvPvBa), [Boltron](https://open.spotify.com/artist/0HOmnaKrkwTfGXXXy4D2rT) | [Thunder](https://open.spotify.com/album/3aRvgC66IVGadXG0KkLa2z) | 2:57 |
 | 23 | [Delora](https://open.spotify.com/track/4d67vy1BeulzswKerqUWYY) | [KESMAR](https://open.spotify.com/artist/3KHK5h7PZYBEfcTsGfkfJW) | [Delora](https://open.spotify.com/album/1SuodfdTXoL80PB9PKOZSo) | 3:32 |
 | 24 | [Rolled Up](https://open.spotify.com/track/4DWyAq9ExNPogDaduac3Ym) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Music](https://open.spotify.com/album/3Yt6hyKUIgAeg6BIr7aPmK) | 3:03 |
 | 25 | [laze](https://open.spotify.com/track/3toAiZvuekDbhfaiTSJe8j) | [fresh from the oven](https://open.spotify.com/artist/6glzNO8EqQsWlQfmxnwK36) | [laze](https://open.spotify.com/album/3ARTuVfkQ1vhcmoQSgXBMa) | 2:43 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dMFJ2AT5e5.md) - [plain]
 | 84 | [Shoes Off](https://open.spotify.com/track/4sRhJO2jitRW4bKiwxQHrH) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Vinkel](https://open.spotify.com/album/57zyze2b8SjHt20Th7mXHO) | 2:01 |
 | 85 | [Souvenir](https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:32 |
 
-Snapshot ID: `MCxiNjkzODc3YWI0ZGVjMmYwNWRjYTE0ZmY4ZDg1ZDdjNjk3MDY4NjU2`
+Snapshot ID: `MCw2MjQzOTk1MTA4ODczOWM3ZDFkNTk5ODZhOWIzNGFiMzEyODc4NzAx`

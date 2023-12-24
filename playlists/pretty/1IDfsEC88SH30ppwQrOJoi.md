@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 
 > High energy, club songs from around the world! Follow <a href="http://open.spotify.com/user/ultramusicofficial">our profile</a> for more playlists.
 
-[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,690 likes - 208 songs - 11 hr 3 min
+[Ultra Records](https://open.spotify.com/user/ultramusicofficial) - 14,697 likes - 208 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -175,7 +175,7 @@ pretty - [cumulative](/playlists/cumulative/1IDfsEC88SH30ppwQrOJoi.md) - [plain]
 | 165 | [Part Of Me](https://open.spotify.com/track/0dVWCpNNjFhf0OuRh4Liiz) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Ansun](https://open.spotify.com/artist/5UZG6OoWsLEtOIIRJ2IfDm), [CLOSED](https://open.spotify.com/artist/2nrLwfZu1P1op5aFqaisG7), [Sonam](https://open.spotify.com/artist/4N9hZHUQvTGg3cqrlugMVw) | [Part Of Me](https://open.spotify.com/album/75RSM7hgDRRkAwmDnyex58) | 2:42 |
 | 166 | [Always Down](https://open.spotify.com/track/6smAnlExLVJl0q47l1CETN) | [Alexx Fall](https://open.spotify.com/artist/12osK1nBgewd62jOVTHNzz), [Sergi BH](https://open.spotify.com/artist/3Ls61iQNhavEsFoYtGk6QD) | [Always](https://open.spotify.com/album/1KHn6w8S8MXhraUrAxH60u) | 2:56 |
 | 167 | [Good Time](https://open.spotify.com/track/4KkmehJdaMD0710ugkCic8) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Good Time](https://open.spotify.com/album/4JMtcrhUmWQ3dqfVrC8jqg) | 2:49 |
-| 168 | [This Flow](https://open.spotify.com/track/5ASH6zvgMwWFg9RocKU35z) | [Nano Cuellar](https://open.spotify.com/artist/6QPT1yDjaJQyNBfBdXovlN) | [VA SONAR 2022 \(Curated by Javi Colina & Quoxx\)](https://open.spotify.com/album/5UIpqthiV14cbhbN6AwiMI) | 4:39 |
+| 168 | [This Flow](https://open.spotify.com/track/5ASH6zvgMwWFg9RocKU35z) | [Nano Cuellar](https://open.spotify.com/artist/1JC5JkFwicPxrRAjJukOol) | [VA SONAR 2022 \(Curated by Javi Colina & Quoxx\)](https://open.spotify.com/album/5UIpqthiV14cbhbN6AwiMI) | 4:39 |
 | 169 | [The Protagonist](https://open.spotify.com/track/7yIACAEfvGndMvElDOJ8NO) | [Gromo](https://open.spotify.com/artist/0fZTPSPLC75QesDYUfSPdx), [Chevy Woods](https://open.spotify.com/artist/6hSbppor1AmH9RGzyxOcGT) | [The Protagonist](https://open.spotify.com/album/6Btq01Rbd0ORVq0VFM8uWh) | 3:19 |
 | 170 | [Essa Mi](https://open.spotify.com/track/1SsLW9VTYn13tVCfBlZVnW) | [Shapov](https://open.spotify.com/artist/36VSvhsPFTdsj1CtmatPiQ), [Aspyer](https://open.spotify.com/artist/3LaBw0YCv8D35w9AvePFtF) | [Essa Mi](https://open.spotify.com/album/1yyxYyJQxrCVGR5nnUpYEF) | 2:43 |
 | 171 | [Payme](https://open.spotify.com/track/3cAOqVPiRV96vNrxdjq3ay) | [Samuele Guzzetti](https://open.spotify.com/artist/6uAPIvefVy6A04Br27SdgM), [Keivan Ghironi](https://open.spotify.com/artist/0t0B8AHU1PIouHXvavSxkj) | [Payme](https://open.spotify.com/album/5J0ZcgJXx94UpK5vn3jaOY) | 2:41 |

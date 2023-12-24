@@ -4,7 +4,7 @@
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-134 songs - 8 hr 0 min
+135 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [Sambete](https://open.spotify.com/track/5FLvvnxzuhVPZIgDroYY6I) | [Zé Paulo Becker](https://open.spotify.com/artist/0dsqfNACo3h5n5Ed6rgKG2) | [Semente Chorojazz](https://open.spotify.com/album/06sIxnlL5TlCXfehFM33m9) | 4:27 | 2021-11-26 |  |
 | [Saudade da Saudade](https://open.spotify.com/track/70ig40aEN4esNMLSOAQWlR) | [Zé Miguel Wisnik](https://open.spotify.com/artist/4yazl771ZuBfsAKt6wyCbV), [José Miguel Wisnik](https://open.spotify.com/artist/5FVYrkTlyUHUXegj892Zni), [Alaíde Costa](https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs), [Sérgio Reze](https://open.spotify.com/artist/2n7NzG02khB453J56v7q2m), [Zeca Assumpção](https://open.spotify.com/artist/7gKUlLG0rXbo1vFLzl59AF) | [O Anel \- Alaíde Costa Canta José Miguel Wisnik](https://open.spotify.com/album/0pOnNIts6BIQjTLM7w41Hy) | 4:14 | 2021-11-26 |  |
 | [Saudade Fez um Samba](https://open.spotify.com/track/6DqwMVBqftG7yoPb2Uu0Rq) | [Carlos Lyra](https://open.spotify.com/artist/3LokxmaXXZpL7sLZASDzCS), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr), [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi) | [Saudade Fez um Samba](https://open.spotify.com/album/7nUUtvmgriNDiRYrgJmiG7) | 2:50 | 2023-11-24 |  |
-| [Se Acontecer](https://open.spotify.com/track/1PuqbHqhn1uGiT6xTyt4hw) | [Luciana Souza](https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM) | [Storytellers](https://open.spotify.com/album/79Nec7JBai5QMAC0PX81ic) | 5:10 | 2021-11-26 |  |
+| [Se Acontecer](https://open.spotify.com/track/1PuqbHqhn1uGiT6xTyt4hw) | [Luciana Souza](https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM) | [Storytellers](https://open.spotify.com/album/79Nec7JBai5QMAC0PX81ic) | 5:10 | 2021-11-26 | 2023-12-24 |
+| [Se Acontecer](https://open.spotify.com/track/7komzDHdZsnmHDuPiTVddq) | [Luciana Souza](https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM) | [Storytellers](https://open.spotify.com/album/1mY5MaseCDkFKEW8jmEiZk) | 5:10 | 2023-11-24 |  |
 | [Seres Incriveis](https://open.spotify.com/track/6k1V8fUxya4uGTu5gRZ1OW) | [Jair Oliveira](https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV) | [Selfie](https://open.spotify.com/album/7Al9VuPMLbkh6hjL90GFgz) | 3:07 | 2021-11-26 |  |
 | [Sorte!](https://open.spotify.com/track/7IMxp7JxSPZxnodd8qpaeA) | [John Finbury](https://open.spotify.com/artist/5ZJCJGLaqOHfaspjjNQism), [Thalma De Freitas](https://open.spotify.com/artist/7dRgH9TbkPlyf3auU5jZKY), [Vitor Gonçalves](https://open.spotify.com/artist/5dEIDzhH5MWFhRrM8Cb7mh) | [Sorte!](https://open.spotify.com/album/3A5DErmYfP8WBBPcUa08sw) | 4:51 | 2021-11-26 |  |
 | [Só Agora](https://open.spotify.com/track/0JAR5NO542VuQ0gE16gSAk) | [Santaella](https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p) | [Só Agora](https://open.spotify.com/album/1n0Y919WafjPZjJcxZcmFZ) | 2:32 | 2021-11-26 |  |

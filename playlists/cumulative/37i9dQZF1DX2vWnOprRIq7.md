@@ -4,7 +4,7 @@
 
 > El lado fluorescente del indie latino featuring Delfina Campos.
 
-224 songs - 13 hr 28 min
+225 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [El After](https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Lo Que Siento](https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM) | 3:19 | 2023-03-17 |  |
 | [El Estado de las Cosas Como Son](https://open.spotify.com/track/3p8GZ3T1dmgJWk294B6Vli) | [Inés Mauri](https://open.spotify.com/artist/2HCy7IPI79aGrEYSWfjwaF), [Desaria](https://open.spotify.com/artist/7foAh38jbvCS0d9AiOW1V8) | [El Estado de las Cosas Como Son](https://open.spotify.com/album/5LBsNRXKNO8498xYBB0ANE) | 3:02 | 2023-06-09 | 2023-12-09 |
 | [El Imán \- Remix](https://open.spotify.com/track/2eIGZkPBrCJ4VhqdgaXXV3) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G), [Santiago Martínez](https://open.spotify.com/artist/29AdYwEQmOfNyjhYJQWcHu) | [El Imán \(Remix\)](https://open.spotify.com/album/57eGpWYvr1Oknqn2wExxZe) | 3:48 | 2023-12-15 |  |
+| [El Último Romance](https://open.spotify.com/track/3lHNEKAlUf8Jh3UTkMQCr6) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy) | [El Último Romance](https://open.spotify.com/album/0amUkicRgz6q05yEzqDB4S) | 5:02 | 2023-12-22 |  |
 | [ELLA \(CAE LA NOCHE\)](https://open.spotify.com/track/47BEXkblFksAYVHd0xPNEI) | [Bocho](https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el), [Sergio Escribano](https://open.spotify.com/artist/116npLgwaQ7gM9Foz4Lg7W), [Escaparate de Poesía](https://open.spotify.com/artist/7tH4CflLKZ7jEJwsUzZL9I) | [DIAMANTE](https://open.spotify.com/album/0KVpNPH2JueCEJll6TbmgD) | 3:41 | 2023-06-02 | 2023-10-07 |
 | [En efecto](https://open.spotify.com/track/3IG6Bokq0oyZjqNZhv13xl) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [En efecto](https://open.spotify.com/album/5sSjbUxp9k8a8KiS8Tdbww) | 3:58 | 2023-05-19 | 2023-10-07 |
 | [En la Torre \- AV Remix](https://open.spotify.com/track/5zW85xW2bXJWP5b2xES8Fc) | [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [En el Palacio \(REMIX\)](https://open.spotify.com/album/1BQ7z4gQEX3bTLnHBy4sXS) | 4:06 | 2023-04-07 | 2023-10-07 |
@@ -144,7 +145,7 @@
 | [Modernos](https://open.spotify.com/track/0fXdGk5hDi1uvtFFq3QjFp) | [La Femme D´Argent](https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ) | [Modernos](https://open.spotify.com/album/3fWV46dBC3QBaVNa241fO0) | 4:13 | 2023-05-26 |  |
 | [monokel](https://open.spotify.com/track/2pvXJAGql9fbgoqY80AjUn) | [Carolo](https://open.spotify.com/artist/4O2nbTAh2HvnV1CWoD8Uvh), [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR), [Sofía Naara](https://open.spotify.com/artist/1YfbK6k6rXJVRPlqELvtyE) | [Carolo](https://open.spotify.com/album/1z5297VDJ94aS5RZYDQSVN) | 2:50 | 2023-10-06 |  |
 | [Morbo](https://open.spotify.com/track/3ERdjZpINiyIusmGukbXyP) | [Carolo](https://open.spotify.com/artist/4O2nbTAh2HvnV1CWoD8Uvh) | [Morbo](https://open.spotify.com/album/7rbqT0H7tF0OxHZsRMasoD) | 3:43 | 2023-08-25 | 2023-11-16 |
-| [Moto](https://open.spotify.com/track/1AeMG2TNofR1A8xoJ7Nl5O) | [Las Preguntas](https://open.spotify.com/artist/7sFSNryNgWCJTI1Vao95LP), [Dani Umpi](https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI) | [Estrellas, Piernas y Serpientes](https://open.spotify.com/album/4ji5kipvo6MkhrjVAdboZl) | 3:27 | 2023-07-07 |  |
+| [Moto](https://open.spotify.com/track/1AeMG2TNofR1A8xoJ7Nl5O) | [Las Preguntas](https://open.spotify.com/artist/7sFSNryNgWCJTI1Vao95LP), [Dani Umpi](https://open.spotify.com/artist/1KYLoFQ7Cwm4eOHruB5OMI) | [Estrellas, Piernas y Serpientes](https://open.spotify.com/album/4ji5kipvo6MkhrjVAdboZl) | 3:27 | 2023-07-07 | 2023-12-24 |
 | [Mucho Peor \- Spotify Singles](https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Mucho Peor \- Spotify Singles](https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf) | 3:31 | 2023-08-04 |  |
 | [My Way](https://open.spotify.com/track/3UayvXfu3vC36Kzea4uxhT) | [Vera Nois](https://open.spotify.com/artist/2PfumsJv10WNf48i5L6ncG) | [Musicaland](https://open.spotify.com/album/4qD8Iomhwn77qqlhpXlBwD) | 3:35 | 2023-03-17 | 2023-04-22 |
 | [MÍO](https://open.spotify.com/track/7uPHgWAcx4Knbu6Qp0ULNe) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [MÍO](https://open.spotify.com/album/2GdI0IR3dlKQVgNtuwksJP) | 3:37 | 2023-03-17 | 2023-10-07 |

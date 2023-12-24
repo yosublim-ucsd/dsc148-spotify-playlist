@@ -1,12 +1,12 @@
 {
   "description": "The ultimate Lo-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps. \u65e5\u672c\u306e\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc\u306b\u3088\u308b\u30a4\u30f3\u30b9\u30c8\u697d\u66f2\u3092\u7279\u96c6\u3002",
-  "num_followers": 430976,
+  "num_followers": 430958,
   "original_name": "Road Trip To Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTU2Yzk4MGE4ZGZkMTE2YzlmM2JhOTM4ZTIwYmUzNTVhZmUxMWFi",
+  "snapshot_id": "MCxkMTgxNWUwZTI4YjI2YmQ2YTI5OGNlNDg5NmNiZTMyNmE0NTBkZjU0",
   "tracks": [
     {
       "added_at": "2023-12-21 15:00:00",
@@ -515,18 +515,22 @@
     {
       "added_at": "2023-12-21 15:00:00",
       "album": {
-        "name": "Waterfall Dreams",
-        "url": "https://open.spotify.com/album/2swHxeQeuQjjBpS7i0ANsA"
+        "name": "meraki / cosmogyral",
+        "url": "https://open.spotify.com/album/7jqrFYgVV6klFgnCNNUXb6"
       },
       "artists": [
         {
-          "name": "Refeeld",
-          "url": "https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP"
+          "name": "Kicktracks",
+          "url": "https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG"
+        },
+        {
+          "name": "coldbrew",
+          "url": "https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK"
         }
       ],
-      "duration_ms": 114000,
-      "name": "Ryukyu",
-      "url": "https://open.spotify.com/track/71V8pJTnwxmHFUW2U1VK16"
+      "duration_ms": 148125,
+      "name": "meraki",
+      "url": "https://open.spotify.com/track/0fStKlyz0WuHcS5Vep3wqZ"
     },
     {
       "added_at": "2023-12-21 15:00:00",
@@ -587,22 +591,18 @@
     {
       "added_at": "2023-12-21 15:00:00",
       "album": {
-        "name": "meraki / cosmogyral",
-        "url": "https://open.spotify.com/album/7jqrFYgVV6klFgnCNNUXb6"
+        "name": "Waterfall Dreams",
+        "url": "https://open.spotify.com/album/2swHxeQeuQjjBpS7i0ANsA"
       },
       "artists": [
         {
-          "name": "Kicktracks",
-          "url": "https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG"
-        },
-        {
-          "name": "coldbrew",
-          "url": "https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK"
+          "name": "Refeeld",
+          "url": "https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP"
         }
       ],
-      "duration_ms": 148125,
-      "name": "meraki",
-      "url": "https://open.spotify.com/track/0fStKlyz0WuHcS5Vep3wqZ"
+      "duration_ms": 114000,
+      "name": "Ryukyu",
+      "url": "https://open.spotify.com/track/71V8pJTnwxmHFUW2U1VK16"
     },
     {
       "added_at": "2023-12-21 15:00:00",
@@ -655,18 +655,18 @@
     {
       "added_at": "2023-12-21 15:00:00",
       "album": {
-        "name": "Lazy Days",
-        "url": "https://open.spotify.com/album/0xVnErhgvvQcM49B27Gccc"
+        "name": "Hey",
+        "url": "https://open.spotify.com/album/4oe6eDcPo0sLyEpnyXEeRx"
       },
       "artists": [
         {
-          "name": "KH",
-          "url": "https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr"
+          "name": "Noji",
+          "url": "https://open.spotify.com/artist/7M6fek7jt9ASxUjeHa9hQg"
         }
       ],
-      "duration_ms": 132743,
-      "name": "Lazy Days",
-      "url": "https://open.spotify.com/track/4YHYqslCkAXAe0a8AfEBUc"
+      "duration_ms": 129229,
+      "name": "Hey",
+      "url": "https://open.spotify.com/track/3DP1ar30GyW0PzMs5ZNzVl"
     },
     {
       "added_at": "2023-12-21 15:00:00",
@@ -687,38 +687,6 @@
       "duration_ms": 171428,
       "name": "Memory Lane",
       "url": "https://open.spotify.com/track/6xE6rNGc0PdfmgPt5Du6bE"
-    },
-    {
-      "added_at": "2023-12-21 15:00:00",
-      "album": {
-        "name": "Hey",
-        "url": "https://open.spotify.com/album/4oe6eDcPo0sLyEpnyXEeRx"
-      },
-      "artists": [
-        {
-          "name": "Noji",
-          "url": "https://open.spotify.com/artist/7M6fek7jt9ASxUjeHa9hQg"
-        }
-      ],
-      "duration_ms": 129229,
-      "name": "Hey",
-      "url": "https://open.spotify.com/track/3DP1ar30GyW0PzMs5ZNzVl"
-    },
-    {
-      "added_at": "2023-12-21 15:00:00",
-      "album": {
-        "name": "MIDNIGHTINDICA",
-        "url": "https://open.spotify.com/album/5Pi2OXnK98IqCrNbFhL7Yd"
-      },
-      "artists": [
-        {
-          "name": "Leo Iwamura",
-          "url": "https://open.spotify.com/artist/1MCO0Lwky0o4pxlgvlMWqY"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "SUNSHOWER",
-      "url": "https://open.spotify.com/track/1UBW6L4Kg42c0FNL8nTIGp"
     },
     {
       "added_at": "2023-12-21 15:00:00",
@@ -747,6 +715,22 @@
     {
       "added_at": "2023-12-21 15:00:00",
       "album": {
+        "name": "MIDNIGHTINDICA",
+        "url": "https://open.spotify.com/album/5Pi2OXnK98IqCrNbFhL7Yd"
+      },
+      "artists": [
+        {
+          "name": "Leo Iwamura",
+          "url": "https://open.spotify.com/artist/1MCO0Lwky0o4pxlgvlMWqY"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "SUNSHOWER",
+      "url": "https://open.spotify.com/track/1UBW6L4Kg42c0FNL8nTIGp"
+    },
+    {
+      "added_at": "2023-12-21 15:00:00",
+      "album": {
         "name": "Busy Bird",
         "url": "https://open.spotify.com/album/6n7TVRjWygp9XeObn39GfN"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 130964,
       "name": "Busy Bird",
       "url": "https://open.spotify.com/track/3twA3eiEhu9SLS8ygr1Oh8"
+    },
+    {
+      "added_at": "2023-12-21 15:00:00",
+      "album": {
+        "name": "Lazy Days",
+        "url": "https://open.spotify.com/album/0xVnErhgvvQcM49B27Gccc"
+      },
+      "artists": [
+        {
+          "name": "KH",
+          "url": "https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr"
+        }
+      ],
+      "duration_ms": 132743,
+      "name": "Lazy Days",
+      "url": "https://open.spotify.com/track/4YHYqslCkAXAe0a8AfEBUc"
     },
     {
       "added_at": "2023-12-21 15:00:00",
@@ -803,26 +803,6 @@
     {
       "added_at": "2023-12-21 15:00:00",
       "album": {
-        "name": "Streets of Kyoto",
-        "url": "https://open.spotify.com/album/5cj8lMDcvX5kOOxFrDP5SY"
-      },
-      "artists": [
-        {
-          "name": "Satsuto",
-          "url": "https://open.spotify.com/artist/5xkGH3C3ZNnvQeyB4bKD0l"
-        },
-        {
-          "name": "Lazy Noodles",
-          "url": "https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "Streets of Kyoto",
-      "url": "https://open.spotify.com/track/5bMdumc7P25niyDzxb5GeJ"
-    },
-    {
-      "added_at": "2023-12-21 15:00:00",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/66ncBKTGIriA52zkGJ3P7R"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 128000,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/67srAaUUWCfeCz4TFzmmC2"
+    },
+    {
+      "added_at": "2023-12-21 15:00:00",
+      "album": {
+        "name": "Streets of Kyoto",
+        "url": "https://open.spotify.com/album/5cj8lMDcvX5kOOxFrDP5SY"
+      },
+      "artists": [
+        {
+          "name": "Satsuto",
+          "url": "https://open.spotify.com/artist/5xkGH3C3ZNnvQeyB4bKD0l"
+        },
+        {
+          "name": "Lazy Noodles",
+          "url": "https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "Streets of Kyoto",
+      "url": "https://open.spotify.com/track/5bMdumc7P25niyDzxb5GeJ"
     },
     {
       "added_at": "2023-12-21 15:00:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-12-21 15:00:00",
       "album": {
+        "name": "Legend (Instrumental)",
+        "url": "https://open.spotify.com/album/3hm1cBdoB5GIHNH8zOf7dh"
+      },
+      "artists": [
+        {
+          "name": "A.O.",
+          "url": "https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI"
+        }
+      ],
+      "duration_ms": 218526,
+      "name": "Legend - Instrumental",
+      "url": "https://open.spotify.com/track/6h7oDV8mZDTtml9IV5demY"
+    },
+    {
+      "added_at": "2023-12-21 15:00:00",
+      "album": {
         "name": "City Dreams",
         "url": "https://open.spotify.com/album/5RJFdRx8YkGGYlJ4bvI7lz"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 164817,
       "name": "City Dreams",
       "url": "https://open.spotify.com/track/2tvPXvthQHFMHclfIGThnl"
-    },
-    {
-      "added_at": "2023-12-21 15:00:00",
-      "album": {
-        "name": "Legend (Instrumental)",
-        "url": "https://open.spotify.com/album/3hm1cBdoB5GIHNH8zOf7dh"
-      },
-      "artists": [
-        {
-          "name": "A.O.",
-          "url": "https://open.spotify.com/artist/2jfEozrJPe4aHfA86ClOAI"
-        }
-      ],
-      "duration_ms": 218526,
-      "name": "Legend - Instrumental",
-      "url": "https://open.spotify.com/track/6h7oDV8mZDTtml9IV5demY"
     },
     {
       "added_at": "2023-12-21 15:00:00",
@@ -1103,8 +1103,8 @@
     {
       "added_at": "2023-12-21 15:00:00",
       "album": {
-        "name": "chill oil",
-        "url": "https://open.spotify.com/album/1EBszIXQGrExYYVJl0UaYV"
+        "name": "Lonely Girl",
+        "url": "https://open.spotify.com/album/4ni82roXtsWZccH6LDOAVO"
       },
       "artists": [
         {
@@ -1112,13 +1112,13 @@
           "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
         },
         {
-          "name": "Jr.TEA",
-          "url": "https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e"
+          "name": "Rui Fujishiro",
+          "url": "https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE"
         }
       ],
-      "duration_ms": 155454,
-      "name": "chill oil",
-      "url": "https://open.spotify.com/track/3zitR68UQPvSJXhj0VhVKB"
+      "duration_ms": 123282,
+      "name": "re: Belief",
+      "url": "https://open.spotify.com/track/0ajeqWnQFIVRiNZ2BZUV3N"
     },
     {
       "added_at": "2023-12-21 15:00:00",
@@ -1175,28 +1175,28 @@
     {
       "added_at": "2023-12-21 15:00:00",
       "album": {
-        "name": "A Dream About Ice Skating",
-        "url": "https://open.spotify.com/album/5eFVCmSUoTaoWFpjSOWa40"
+        "name": "EVOKE",
+        "url": "https://open.spotify.com/album/75loSbBYSXtaRofHhpBL6d"
       },
       "artists": [
         {
-          "name": "Kid on Ice",
-          "url": "https://open.spotify.com/artist/2a1rlqxOOc5SzrxsSYxd1N"
+          "name": "Jazztronik",
+          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
         },
         {
-          "name": "Lazy Noodles",
-          "url": "https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571"
+          "name": "Excursions",
+          "url": "https://open.spotify.com/artist/4RlSrid1rrUpTjjAByI99o"
         }
       ],
-      "duration_ms": 96000,
-      "name": "A Dream About Ice Skating",
-      "url": "https://open.spotify.com/track/2y5sDyzoEDreMgZ9bZcXGS"
+      "duration_ms": 234226,
+      "name": "EVOKE",
+      "url": "https://open.spotify.com/track/0TwK1i7La2lfEOUCcH1g9t"
     },
     {
       "added_at": "2023-12-21 15:00:00",
       "album": {
-        "name": "Lonely Girl",
-        "url": "https://open.spotify.com/album/4ni82roXtsWZccH6LDOAVO"
+        "name": "chill oil",
+        "url": "https://open.spotify.com/album/1EBszIXQGrExYYVJl0UaYV"
       },
       "artists": [
         {
@@ -1204,13 +1204,13 @@
           "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
         },
         {
-          "name": "Rui Fujishiro",
-          "url": "https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE"
+          "name": "Jr.TEA",
+          "url": "https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e"
         }
       ],
-      "duration_ms": 123282,
-      "name": "re: Belief",
-      "url": "https://open.spotify.com/track/0ajeqWnQFIVRiNZ2BZUV3N"
+      "duration_ms": 155454,
+      "name": "chill oil",
+      "url": "https://open.spotify.com/track/3zitR68UQPvSJXhj0VhVKB"
     },
     {
       "added_at": "2023-12-21 15:00:00",
@@ -1235,22 +1235,22 @@
     {
       "added_at": "2023-12-21 15:00:00",
       "album": {
-        "name": "EVOKE",
-        "url": "https://open.spotify.com/album/75loSbBYSXtaRofHhpBL6d"
+        "name": "A Dream About Ice Skating",
+        "url": "https://open.spotify.com/album/5eFVCmSUoTaoWFpjSOWa40"
       },
       "artists": [
         {
-          "name": "Jazztronik",
-          "url": "https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM"
+          "name": "Kid on Ice",
+          "url": "https://open.spotify.com/artist/2a1rlqxOOc5SzrxsSYxd1N"
         },
         {
-          "name": "Excursions",
-          "url": "https://open.spotify.com/artist/4RlSrid1rrUpTjjAByI99o"
+          "name": "Lazy Noodles",
+          "url": "https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571"
         }
       ],
-      "duration_ms": 234226,
-      "name": "EVOKE",
-      "url": "https://open.spotify.com/track/0TwK1i7La2lfEOUCcH1g9t"
+      "duration_ms": 96000,
+      "name": "A Dream About Ice Skating",
+      "url": "https://open.spotify.com/track/2y5sDyzoEDreMgZ9bZcXGS"
     },
     {
       "added_at": "2023-12-21 15:00:00",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2023-12-21 15:00:00",
       "album": {
+        "name": "Don't Matter to Me",
+        "url": "https://open.spotify.com/album/6CrRNHhF0Cl2GMGWmLCshp"
+      },
+      "artists": [
+        {
+          "name": "SSIR",
+          "url": "https://open.spotify.com/artist/68aVwfoV4wmRwYhRhaze7t"
+        }
+      ],
+      "duration_ms": 100858,
+      "name": "Don't Matter to Me",
+      "url": "https://open.spotify.com/track/1GWtdf0nCjhEmJTTK5ck8f"
+    },
+    {
+      "added_at": "2023-12-21 15:00:00",
+      "album": {
         "name": "Libration",
         "url": "https://open.spotify.com/album/4Eb3vT3dEiwXO1FGvfAJmm"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 193411,
       "name": "JUST KEEP IT",
       "url": "https://open.spotify.com/track/4LDgSBflODzHvRZOlSHHUv"
-    },
-    {
-      "added_at": "2023-12-21 15:00:00",
-      "album": {
-        "name": "Don't Matter to Me",
-        "url": "https://open.spotify.com/album/6CrRNHhF0Cl2GMGWmLCshp"
-      },
-      "artists": [
-        {
-          "name": "SSIR",
-          "url": "https://open.spotify.com/artist/68aVwfoV4wmRwYhRhaze7t"
-        }
-      ],
-      "duration_ms": 100858,
-      "name": "Don't Matter to Me",
-      "url": "https://open.spotify.com/track/1GWtdf0nCjhEmJTTK5ck8f"
     },
     {
       "added_at": "2023-12-21 15:00:00",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2023-12-21 15:00:00",
       "album": {
-        "name": "Lost in Thought",
-        "url": "https://open.spotify.com/album/6AluH8s9TOlpl78dzO2CRz"
-      },
-      "artists": [
-        {
-          "name": "Lofi Milk",
-          "url": "https://open.spotify.com/artist/19hKMqNrak7eZjlcgnjgtT"
-        },
-        {
-          "name": "Maho Fukami",
-          "url": "https://open.spotify.com/artist/08DCItdr8cA7JdJbjWeCGP"
-        }
-      ],
-      "duration_ms": 182638,
-      "name": "Lost in Thought",
-      "url": "https://open.spotify.com/track/3vfSOpKk9Hu3bRPuFScjI6"
-    },
-    {
-      "added_at": "2023-12-21 15:00:00",
-      "album": {
         "name": "Late Summer",
         "url": "https://open.spotify.com/album/26Zz5dohLyPMVX7xVCEMkF"
       },
@@ -1575,6 +1555,26 @@
       "duration_ms": 154520,
       "name": "Late Summer",
       "url": "https://open.spotify.com/track/3FYBkzhbNcdU6IpZ1sMhfK"
+    },
+    {
+      "added_at": "2023-12-21 15:00:00",
+      "album": {
+        "name": "Lost in Thought",
+        "url": "https://open.spotify.com/album/6AluH8s9TOlpl78dzO2CRz"
+      },
+      "artists": [
+        {
+          "name": "Lofi Milk",
+          "url": "https://open.spotify.com/artist/19hKMqNrak7eZjlcgnjgtT"
+        },
+        {
+          "name": "Maho Fukami",
+          "url": "https://open.spotify.com/artist/08DCItdr8cA7JdJbjWeCGP"
+        }
+      ],
+      "duration_ms": 182638,
+      "name": "Lost in Thought",
+      "url": "https://open.spotify.com/track/3vfSOpKk9Hu3bRPuFScjI6"
     },
     {
       "added_at": "2023-12-21 15:00:00",
@@ -1599,6 +1599,22 @@
       "duration_ms": 162857,
       "name": "Lucid Dream",
       "url": "https://open.spotify.com/track/1qOO7ny0TDbJDl8Rh9rkRV"
+    },
+    {
+      "added_at": "2023-12-21 15:00:00",
+      "album": {
+        "name": "Carol",
+        "url": "https://open.spotify.com/album/0NDKlTrri7SPRt6BXxZfuP"
+      },
+      "artists": [
+        {
+          "name": "ord minami",
+          "url": "https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Carol",
+      "url": "https://open.spotify.com/track/2xj95O03WOqX9oWnT6jGXO"
     },
     {
       "added_at": "2023-12-21 15:00:00",
@@ -1635,30 +1651,6 @@
     {
       "added_at": "2023-12-21 15:00:00",
       "album": {
-        "name": "Sudachi",
-        "url": "https://open.spotify.com/album/3loyhogYQD9GMco9mhlKEn"
-      },
-      "artists": [
-        {
-          "name": "yuhei miura",
-          "url": "https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5"
-        },
-        {
-          "name": "Koza",
-          "url": "https://open.spotify.com/artist/4YH2JxUSsaFYrJXPva13gd"
-        },
-        {
-          "name": "Etymology Records",
-          "url": "https://open.spotify.com/artist/6sHwGhhYxjbUEiT06hnt20"
-        }
-      ],
-      "duration_ms": 138880,
-      "name": "Sudachi",
-      "url": "https://open.spotify.com/track/4Ba5yNZnLdgZTpcMe1af9H"
-    },
-    {
-      "added_at": "2023-12-21 15:00:00",
-      "album": {
         "name": "Ukiyo",
         "url": "https://open.spotify.com/album/1ISCeVkUHvYiZrkVtAEVSk"
       },
@@ -1683,18 +1675,26 @@
     {
       "added_at": "2023-12-21 15:00:00",
       "album": {
-        "name": "Carol",
-        "url": "https://open.spotify.com/album/0NDKlTrri7SPRt6BXxZfuP"
+        "name": "Sudachi",
+        "url": "https://open.spotify.com/album/3loyhogYQD9GMco9mhlKEn"
       },
       "artists": [
         {
-          "name": "ord minami",
-          "url": "https://open.spotify.com/artist/7DkSVWqbEDgCB0EHWUe7FV"
+          "name": "yuhei miura",
+          "url": "https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5"
+        },
+        {
+          "name": "Koza",
+          "url": "https://open.spotify.com/artist/4YH2JxUSsaFYrJXPva13gd"
+        },
+        {
+          "name": "Etymology Records",
+          "url": "https://open.spotify.com/artist/6sHwGhhYxjbUEiT06hnt20"
         }
       ],
-      "duration_ms": 158769,
-      "name": "Carol",
-      "url": "https://open.spotify.com/track/2xj95O03WOqX9oWnT6jGXO"
+      "duration_ms": 138880,
+      "name": "Sudachi",
+      "url": "https://open.spotify.com/track/4Ba5yNZnLdgZTpcMe1af9H"
     },
     {
       "added_at": "2023-12-21 15:00:00",
@@ -1711,6 +1711,26 @@
       "duration_ms": 147878,
       "name": "Afternoon coffee",
       "url": "https://open.spotify.com/track/3KXDFfFbo3U3DW4pTmiKNp"
+    },
+    {
+      "added_at": "2023-12-21 15:00:00",
+      "album": {
+        "name": "Yanagi Ni Kaze (rework)",
+        "url": "https://open.spotify.com/album/6iE2nDaKH19GhJKugJsqcs"
+      },
+      "artists": [
+        {
+          "name": "re:plus",
+          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
+        },
+        {
+          "name": "m.s.t.",
+          "url": "https://open.spotify.com/artist/4tJncS5iiaOS9brNCL589G"
+        }
+      ],
+      "duration_ms": 274572,
+      "name": "Yanagi Ni Kaze - rework",
+      "url": "https://open.spotify.com/track/4klOGFqYxDPRj7Q0mShllc"
     },
     {
       "added_at": "2023-12-21 15:00:00",
@@ -1743,22 +1763,6 @@
       "duration_ms": 191860,
       "name": "Cold Concrete",
       "url": "https://open.spotify.com/track/4BoN3OsPTcoSYxM0WHVJks"
-    },
-    {
-      "added_at": "2023-12-21 15:00:00",
-      "album": {
-        "name": "Downtown Vibes",
-        "url": "https://open.spotify.com/album/0aHpRiEB26fd1TBvKXWrZZ"
-      },
-      "artists": [
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
-        }
-      ],
-      "duration_ms": 108501,
-      "name": "Downtown Vibes",
-      "url": "https://open.spotify.com/track/4YTZrZX3gc2fEhdjruFbOk"
     },
     {
       "added_at": "2023-12-21 15:00:00",

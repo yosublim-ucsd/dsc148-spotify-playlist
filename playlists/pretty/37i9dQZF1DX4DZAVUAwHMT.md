@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 
 > The UK's biggest rock playlist\. Cover: Royal Blood
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,605 likes - 55 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 584,636 likes - 55 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4DZAVUAwHMT.md) - [plain]
 | 54 | [NOTHING WILL EVER BE THE SAME](https://open.spotify.com/track/5e5mWtx00orL2FTbRv4kr9) | [CRIM](https://open.spotify.com/artist/095h4p1W4McMH96nJ5KWIu) | [NOTHING WILL EVER BE THE SAME](https://open.spotify.com/album/721N179Yxv1G8kqefWUc0A) | 2:50 |
 | 55 | [Waves](https://open.spotify.com/track/06JGsU2snVzhic3RegsYXx) | [DAYTIME TV](https://open.spotify.com/artist/35ls7qnn5iKLPMT8PnOBy8) | [Waves](https://open.spotify.com/album/3bVrHlVSUVUss3doxEXu6j) | 3:14 |
 
-Snapshot ID: `MCwzMjIyMzIwOTlhYjBkY2I3YjkwNzRkZDFjYjU0MjBmMGMyODQ5NjRh`
+Snapshot ID: `MCwxM2RlMmNiZTc4OTNhM2Q0M2ViYmE1MTBjZmE4ODlkMmQzZGU5OTVk`

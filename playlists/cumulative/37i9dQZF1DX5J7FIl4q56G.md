@@ -4,7 +4,7 @@
 
 > This week's best new metal & hard rock tracks\. Cover: Brand of Sacrifice
 
-5,343 songs - 15 day 1 hr 59 min
+5,344 songs - 15 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -790,7 +790,8 @@
 | [Carved](https://open.spotify.com/track/091mDipKXTsrd5j3zlgMgW) | [Bloodbath](https://open.spotify.com/artist/7eYmDBinb760MUIfoRdlGQ), [Luc Lemay](https://open.spotify.com/artist/6Y9ZFge0XcwsaEFBwu2MJ1) | [Carved](https://open.spotify.com/album/7dyFujX4rQFB48xfx19rnw) | 3:28 | 2022-08-12 | 2022-08-20 |
 | [Carved in Stone](https://open.spotify.com/track/2um9aq46XCcekqiMCm0fsT) | [Oceanhoarse](https://open.spotify.com/artist/6NNanF6LZJW0RWlyyUC1Ys) | [Carved in Stone](https://open.spotify.com/album/0faR5cigdKZAbLUVmheD8M) | 5:48 | 2022-12-16 | 2022-12-24 |
 | [Casket](https://open.spotify.com/track/70sPsaQWdRZGbSyaOkkDIo) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [Casket](https://open.spotify.com/album/2LxTOI2LPiX0wvhwbbVNyS) | 1:53 | 2023-11-17 | 2023-11-25 |
-| [Casket of Rust](https://open.spotify.com/track/79uDCcS7UnIVSpGKDJcmh1) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Casket of Rust](https://open.spotify.com/album/2V1soNndfJC7B8i1vOT3yy) | 7:04 | 2023-12-15 |  |
+| [Casket of Rust](https://open.spotify.com/track/3p63Cu4a1ViOqDU7T8feBD) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Casket of Rust](https://open.spotify.com/album/5SfiHBsWzaeSCPNKepKKAw) | 7:04 | 2023-12-15 |  |
+| [Casket of Rust](https://open.spotify.com/track/79uDCcS7UnIVSpGKDJcmh1) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Casket of Rust](https://open.spotify.com/album/2V1soNndfJC7B8i1vOT3yy) | 7:04 | 2023-12-15 | 2023-12-24 |
 | [Castaway](https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Castaway](https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2) | 3:31 | 2023-08-25 | 2023-09-02 |
 | [Catch Your Death](https://open.spotify.com/track/5Z4uvUgFz3ahm4C8SlIcUj) | [Stellar Circuits](https://open.spotify.com/artist/1TBEqj7m690miuGi6HmkfV) | [Catch Your Death](https://open.spotify.com/album/1ErC8tKl7ojBcAFZ2Nk7hJ) | 4:03 | 2023-04-28 | 2023-05-06 |
 | [Cathedral](https://open.spotify.com/track/4Y5xe7x4gQkhgOwLvlGNY8) | [Ten Thousand Crows](https://open.spotify.com/artist/1wqp1GMAXOgBBnj7Ub2Wqd) | [Cathedral](https://open.spotify.com/album/7lms8BTHcXigzIUEkTNUmK) | 2:55 | 2022-04-15 | 2022-04-22 |

@@ -2291,6 +2291,24 @@
     },
     {
       "album": {
+        "name": "A Faithful Christmas",
+        "url": "https://open.spotify.com/album/4OlCa1kTyE2DBcU4ZfBQhX"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186409,
+      "name": "Soulful Christmas",
+      "url": "https://open.spotify.com/track/4P1mX7gOR7T98OQj4Ff84n"
+    },
+    {
+      "album": {
         "name": "Spend Christmas With You",
         "url": "https://open.spotify.com/album/4NQ3aX9bk400eH3eqeGnJZ"
       },
@@ -3054,7 +3072,7 @@
       ],
       "date_added": "2023-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 178998,
       "name": "You Bring The Love",
       "url": "https://open.spotify.com/track/149fBDwVVHfw2MlOMSJgiF"

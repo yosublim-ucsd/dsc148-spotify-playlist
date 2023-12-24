@@ -4,7 +4,7 @@
 
 > Música para acompañar esas rondas interminables de mate.
 
-980 songs - 2 day 11 hr 41 min
+981 songs - 2 day 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,7 +297,7 @@
 | [El equilibrio](https://open.spotify.com/track/3pdcsjem6SaMqgDH882AjJ) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [El Equilibrio](https://open.spotify.com/album/7inRauoXtuLT8fj9ErnOnD) | 3:05 | 2022-04-13 | 2022-04-20 |
 | [El Fantasma](https://open.spotify.com/track/0N361WhEqVunVl5ZBkfd70) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [GUAU!](https://open.spotify.com/album/1b0s5a9iIWIH5nEpzWSjHG) | 3:57 | 2021-12-24 |  |
 | [El Fantasma de Canterville \- En Vivo](https://open.spotify.com/track/4pQyfSqV06NEAoEmJ2gksV) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [El Fantasma de Canterville \(En Vivo\)](https://open.spotify.com/album/4Yley1w2yI1VH0Hh3gK6Kh) | 2:54 | 2022-04-08 | 2022-04-17 |
-| [El Farolito](https://open.spotify.com/track/5QpdTr2fHXLF0Oj8TcGHmV) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q) | 4:13 | 2023-09-01 |  |
+| [El Farolito](https://open.spotify.com/track/5QpdTr2fHXLF0Oj8TcGHmV) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/2tqxwMkehDRiz4gErUNZ0Q) | 4:13 | 2023-09-01 | 2023-12-24 |
 | [El Farolito](https://open.spotify.com/track/7ip2lBrKUjkb69I8isyqPm) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/1ZUWRmH8qVKhcps3MjlLo5) | 4:13 | 2022-04-08 | 2022-04-14 |
 | [El Farolito \(Acústico\)](https://open.spotify.com/track/1IC9QfsEQx2aVhsscCsbTE) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [El Farolito \(Acústico\)](https://open.spotify.com/album/2ZtLtqU9H4IXLQn4EMDFjU) | 5:02 | 2021-12-24 | 2022-07-29 |
 | [El Fin](https://open.spotify.com/track/6clGxqEjjGHQcdeYE3JKmZ) | [Barbarita Palacios](https://open.spotify.com/artist/1gq0ImfjG4vhi885kD3gB8), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [El Fin / Te Fuiste](https://open.spotify.com/album/3WeS09959Mk4QHrikhZrRv) | 4:30 | 2022-03-28 | 2022-04-20 |
@@ -872,6 +872,7 @@
 | [Tira la Soga](https://open.spotify.com/track/52VMlz3ekPgoy1lo8vqfeO) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Tira la Soga](https://open.spotify.com/album/54girI8VG9nwzMJ9YHEY60) | 3:57 | 2022-04-01 | 2022-04-18 |
 | [Titanium](https://open.spotify.com/track/6oAoXEBdKrAWTkdWbOVaRc) | [Sonya](https://open.spotify.com/artist/4c9gY5cZpArATWNkbG1lT3) | [AM Versions](https://open.spotify.com/album/5CCdVEgMxHdXrufmR2cHHN) | 4:21 | 2022-04-01 | 2022-04-16 |
 | [Toca](https://open.spotify.com/track/4v2wu5C4tppjiNOhV6R9A4) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Toca](https://open.spotify.com/album/1GOEHy8QMoN1SaZa6yl7Zs) | 3:30 | 2022-03-24 | 2022-03-30 |
+| [TOCO Y ME VOY](https://open.spotify.com/track/7jiZV8G6LpEGdiPY2zs6BV) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [TOCO Y ME VOY](https://open.spotify.com/album/0bvRbFXgJO6qOGTCSP53qj) | 3:46 | 2023-12-21 |  |
 | [Todas las Flores de Enero](https://open.spotify.com/track/1hewNRg4E4KU8r7LV2eu9x) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Todas las Flores de Enero](https://open.spotify.com/album/1PuUdFenRJ41IMROlqP41a) | 2:14 | 2022-04-13 | 2022-04-20 |
 | [Todo Se Olvida](https://open.spotify.com/track/5V5NpMyMfeqYjMUpIWCnR0) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [La Conquista del Espacio](https://open.spotify.com/album/0hUTkPlrlHbLkrKB8JLTXQ) | 4:21 | 2022-04-01 | 2022-04-19 |
 | [Todo se transforma](https://open.spotify.com/track/4YEU9N2XAE0DfUwxWI5ijA) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Eco](https://open.spotify.com/album/5iy3qKctiZAsvb2ORx8vR7) | 3:37 | 2022-01-07 |  |

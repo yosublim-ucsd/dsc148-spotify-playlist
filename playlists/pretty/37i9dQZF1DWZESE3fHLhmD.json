@@ -1,12 +1,12 @@
 {
   "description": "Bringt auch nach 16 Uhr noch ein bisschen Licht ins Dunkel.",
-  "num_followers": 1288915,
+  "num_followers": 1288996,
   "original_name": "Wintergef\u00fchle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2E2MWQxYmEyYzI2YjAwYWRmYjA2MTYyZDk1NjY4NDk4ODI4OGI5",
+  "snapshot_id": "MCwzM2RkNTA4NDYxNmZkOGUyOWEwMmU2YmIxNTE1Nzg5MDlhZTY2OGI0",
   "tracks": [
     {
       "added_at": "2023-12-19 17:38:44",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-12-19 17:38:44",
       "album": {
+        "name": "Winterherz",
+        "url": "https://open.spotify.com/album/2drpDTlCM3pSjH2PEhXWVD"
+      },
+      "artists": [
+        {
+          "name": "JAS",
+          "url": "https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Winterherz",
+      "url": "https://open.spotify.com/track/2NY6OwXheFjzMvdVmw69mQ"
+    },
+    {
+      "added_at": "2023-12-19 17:38:44",
+      "album": {
         "name": "Good Riddance (Deluxe)",
         "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
       },
@@ -695,22 +711,6 @@
     {
       "added_at": "2023-12-19 17:38:44",
       "album": {
-        "name": "The Roads",
-        "url": "https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 250597,
-      "name": "The Roads",
-      "url": "https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW"
-    },
-    {
-      "added_at": "2023-12-19 17:38:44",
-      "album": {
         "name": "people pleaser / sleep at night",
         "url": "https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C"
       },
@@ -727,18 +727,18 @@
     {
       "added_at": "2023-12-19 17:38:44",
       "album": {
-        "name": "Winterherz",
-        "url": "https://open.spotify.com/album/2drpDTlCM3pSjH2PEhXWVD"
+        "name": "The Roads",
+        "url": "https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k"
       },
       "artists": [
         {
-          "name": "JAS",
-          "url": "https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9"
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Winterherz",
-      "url": "https://open.spotify.com/track/2NY6OwXheFjzMvdVmw69mQ"
+      "duration_ms": 250597,
+      "name": "The Roads",
+      "url": "https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW"
     },
     {
       "added_at": "2023-12-19 17:38:44",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-12-19 17:38:44",
       "album": {
-        "name": "All 4 Nothing (I'm So In Love)",
-        "url": "https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 183014,
-      "name": "All 4 Nothing (I'm So In Love)",
-      "url": "https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5"
-    },
-    {
-      "added_at": "2023-12-19 17:38:44",
-      "album": {
         "name": "Drachenfrucht",
         "url": "https://open.spotify.com/album/38x0C388O3eX76t2kmfZeD"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 186249,
       "name": "Drachenfrucht",
       "url": "https://open.spotify.com/track/5mDZnH5AtLhmmz45i4Ru8X"
+    },
+    {
+      "added_at": "2023-12-19 17:38:44",
+      "album": {
+        "name": "All 4 Nothing (I'm So In Love)",
+        "url": "https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 183014,
+      "name": "All 4 Nothing (I'm So In Love)",
+      "url": "https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5"
     },
     {
       "added_at": "2023-12-19 17:38:44",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-12-19 17:38:44",
       "album": {
-        "name": "vert1go vol. 1",
-        "url": "https://open.spotify.com/album/1RcfzHK44GEHSBwAH1NQeY"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 188604,
-      "name": "Into The Walls",
-      "url": "https://open.spotify.com/track/5Gdbm8oHbicLgj79HcOxtL"
-    },
-    {
-      "added_at": "2023-12-19 17:38:44",
-      "album": {
         "name": "Spiegelbild",
         "url": "https://open.spotify.com/album/70TzQMM2AWBS1amTd4h57G"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 194946,
       "name": "Spiegelbild",
       "url": "https://open.spotify.com/track/0rt8k3nUqVpM4lc5KRdkOf"
+    },
+    {
+      "added_at": "2023-12-19 17:38:44",
+      "album": {
+        "name": "vert1go vol. 1",
+        "url": "https://open.spotify.com/album/1RcfzHK44GEHSBwAH1NQeY"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 188604,
+      "name": "Into The Walls",
+      "url": "https://open.spotify.com/track/5Gdbm8oHbicLgj79HcOxtL"
     },
     {
       "added_at": "2023-12-19 17:38:44",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-12-19 17:38:44",
       "album": {
+        "name": "Ribbons",
+        "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Curls",
+      "url": "https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz"
+    },
+    {
+      "added_at": "2023-12-19 17:38:44",
+      "album": {
         "name": "Head on Fire",
         "url": "https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 188645,
       "name": "Head on Fire",
       "url": "https://open.spotify.com/track/6QLNcOI6YCqdLAS6GLWXMj"
-    },
-    {
-      "added_at": "2023-12-19 17:38:44",
-      "album": {
-        "name": "Ribbons",
-        "url": "https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Curls",
-      "url": "https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz"
     },
     {
       "added_at": "2023-12-19 17:38:44",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-12-19 17:38:44",
       "album": {
-        "name": "Permanent Damage",
-        "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
-      },
-      "artists": [
-        {
-          "name": "Joesef",
-          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
-        }
-      ],
-      "duration_ms": 221873,
-      "name": "It's Been a Little Heavy Lately",
-      "url": "https://open.spotify.com/track/6z8ovqE9jd2IatNvOfFq7S"
-    },
-    {
-      "added_at": "2023-12-19 17:38:44",
-      "album": {
         "name": "More To This Life",
         "url": "https://open.spotify.com/album/2U7Mio1nITmwgif6Kxrb1I"
       },
@@ -1375,22 +1359,18 @@
     {
       "added_at": "2023-12-19 17:38:44",
       "album": {
-        "name": "The Night We Met (feat. Phoebe Bridgers)",
-        "url": "https://open.spotify.com/album/3HHHK8lGDgB9wwGXd0za9o"
+        "name": "Permanent Damage",
+        "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Joesef",
+          "url": "https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ"
         }
       ],
-      "duration_ms": 209081,
-      "name": "The Night We Met (feat. Phoebe Bridgers)",
-      "url": "https://open.spotify.com/track/5JVlz4JCy3cv8pZB12sKJL"
+      "duration_ms": 221873,
+      "name": "It's Been a Little Heavy Lately",
+      "url": "https://open.spotify.com/track/6z8ovqE9jd2IatNvOfFq7S"
     },
     {
       "added_at": "2023-12-19 17:38:44",
@@ -1407,6 +1387,26 @@
       "duration_ms": 263349,
       "name": "Ordinary Love",
       "url": "https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp"
+    },
+    {
+      "added_at": "2023-12-19 17:38:44",
+      "album": {
+        "name": "The Night We Met (feat. Phoebe Bridgers)",
+        "url": "https://open.spotify.com/album/3HHHK8lGDgB9wwGXd0za9o"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 209081,
+      "name": "The Night We Met (feat. Phoebe Bridgers)",
+      "url": "https://open.spotify.com/track/5JVlz4JCy3cv8pZB12sKJL"
     },
     {
       "added_at": "2023-12-19 17:38:44",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2023-12-19 17:38:44",
       "album": {
-        "name": "Von Wind und Anonymit\u00e4t",
-        "url": "https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK"
-      },
-      "artists": [
-        {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
-        }
-      ],
-      "duration_ms": 213851,
-      "name": "Wir haben den Winter \u00fcberlebt",
-      "url": "https://open.spotify.com/track/0pNWfgjldlMtuyp28kspFY"
-    },
-    {
-      "added_at": "2023-12-19 17:38:44",
-      "album": {
         "name": "sandmann",
         "url": "https://open.spotify.com/album/02bdwgTWtG1zIFdhx95L11"
       },
@@ -1483,22 +1467,34 @@
     {
       "added_at": "2023-12-19 17:38:44",
       "album": {
-        "name": "At Your Worst (feat. Zoe Wees)",
-        "url": "https://open.spotify.com/album/6BI0yzMCxkaqTmrUVm8bSh"
+        "name": "Von Wind und Anonymit\u00e4t",
+        "url": "https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK"
       },
       "artists": [
         {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        },
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
         }
       ],
-      "duration_ms": 167201,
-      "name": "At Your Worst (feat. Zoe Wees)",
-      "url": "https://open.spotify.com/track/2nvrp6laQsP9kkZuc48BTR"
+      "duration_ms": 213851,
+      "name": "Wir haben den Winter \u00fcberlebt",
+      "url": "https://open.spotify.com/track/0pNWfgjldlMtuyp28kspFY"
+    },
+    {
+      "added_at": "2023-12-19 17:38:44",
+      "album": {
+        "name": "Nicht allein",
+        "url": "https://open.spotify.com/album/70GyiV8LToJYGYE6pxh8IL"
+      },
+      "artists": [
+        {
+          "name": "Ivo Martin",
+          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
+        }
+      ],
+      "duration_ms": 127947,
+      "name": "Nicht allein",
+      "url": "https://open.spotify.com/track/24ejkPQlpnaOtRGnA8w2bF"
     }
   ],
   "unique_name": "Wintergef\u00fchle",

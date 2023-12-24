@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > Introducing Alma — a soul born from Latin and house music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,720 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,721 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 41 | [El Beso \(feat\. Mathieu Ruz\)](https://open.spotify.com/track/0Rgi5EktdB5EFgMjU4YTnx) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [El Beso \(feat\. Mathieu Ruz\)](https://open.spotify.com/album/5rCFh5wOLyHTfPicJom5eA) | 3:31 |
 | 42 | [Se Va \(feat\. Cumbiafrica\)](https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Se Va](https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT) | 3:16 |
 | 43 | [Maracuya](https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu) | [Maracuya](https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp) | 2:50 |
-| 44 | [Viagem Ao Centro Do Eu \(Coragem\)](https://open.spotify.com/track/6olpmATWho4waNlcAKJQKo) | [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Paulo Novaes](https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6), [Nina Oliveira](https://open.spotify.com/artist/5VCRm5ymb1B8lybUhaDIN1) | [Viagem Ao Centro Do Eu \(Coragem\)](https://open.spotify.com/album/5hxVW27RJP6u3O7XlaUjwx) | 4:13 |
-| 45 | [Bim Boom Bam](https://open.spotify.com/track/0hRRxfLwMUlO6Bvoz8iNbf) | [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7) | [Bim Boom Bam](https://open.spotify.com/album/5jIkBRxJrtk14bkHIGmf1k) | 2:24 |
+| 44 | [Bim Boom Bam](https://open.spotify.com/track/0hRRxfLwMUlO6Bvoz8iNbf) | [Merk & Kremont](https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7) | [Bim Boom Bam](https://open.spotify.com/album/5jIkBRxJrtk14bkHIGmf1k) | 2:24 |
+| 45 | [Viagem Ao Centro Do Eu \(Coragem\)](https://open.spotify.com/track/6olpmATWho4waNlcAKJQKo) | [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Paulo Novaes](https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6), [Nina Oliveira](https://open.spotify.com/artist/5VCRm5ymb1B8lybUhaDIN1) | [Viagem Ao Centro Do Eu \(Coragem\)](https://open.spotify.com/album/5hxVW27RJP6u3O7XlaUjwx) | 4:13 |
 | 46 | [Catuca](https://open.spotify.com/track/5wo6GTB8QfMfCsCDAeFcZW) | [Classmatic](https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly) | [Catuca](https://open.spotify.com/album/2erxOE5ZUFhe00qlGVEacP) | 6:38 |
 | 47 | [La Fiesta](https://open.spotify.com/track/3SrNF6KtlYy8xVOHi8F9xC) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF) | [La Fiesta](https://open.spotify.com/album/5cb83Ji1ELlkefe567WoSx) | 3:45 |
 | 48 | [Tranquilao](https://open.spotify.com/track/55JldO2wWzdj87gNz351ZH) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Tranquilao](https://open.spotify.com/album/20SFmEkOhcF3IwYYTOO0mS) | 3:00 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 69 | [Morena](https://open.spotify.com/track/3pyYe4wjMV0ehhmBgZo9tE) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH) | [Morena](https://open.spotify.com/album/2uV1mmtYPm4cGFnXWZa1kc) | 2:50 |
 | 70 | [Trágatelo](https://open.spotify.com/track/7isW5u9xH4iDUJfqn36UMl) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [Philip Z](https://open.spotify.com/artist/15F2LcEjhyssahY1ZsGg7C), [Fatboi](https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE) | [Trágatelo](https://open.spotify.com/album/77pIaKUlGjnL7tXbVL7FTI) | 2:47 |
 | 71 | [Desconocidos](https://open.spotify.com/track/1Hd36cEZ37e9dNyxJy9ys6) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb), [Argia](https://open.spotify.com/artist/3K2j2d5WP7SfP06QTV8iz4) | [Desconocidos](https://open.spotify.com/album/0Kpg2Flv9TK2V8s7bJrade) | 5:22 |
-| 72 | [Caliente](https://open.spotify.com/track/7GA5kAtcfu6ffdjrsDNCe3) | [Saffron Stone](https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz) | [Caliente](https://open.spotify.com/album/0k9fJtZqLDVJi56EbJ6hYE) | 2:33 |
-| 73 | [Mueve Los Dos Pies](https://open.spotify.com/track/4ZSAH3KeoaQ17VpplxkdVQ) | [Teddy Wong](https://open.spotify.com/artist/0GdhK4DxpuQ1C7SXpdon31) | [Mueve Los Dos Pies](https://open.spotify.com/album/62RADUg9aYhCC2k7fxg2jU) | 3:32 |
-| 74 | [Gitrox](https://open.spotify.com/track/7jQZtYrb5nyWXEiNlu0VMQ) | [Los Padres](https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU) | [Gitrox](https://open.spotify.com/album/02LTijbsb6BLbfZMKOEip1) | 3:17 |
+| 72 | [Gitrox](https://open.spotify.com/track/7jQZtYrb5nyWXEiNlu0VMQ) | [Los Padres](https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU) | [Gitrox](https://open.spotify.com/album/02LTijbsb6BLbfZMKOEip1) | 3:17 |
+| 73 | [Caliente](https://open.spotify.com/track/7GA5kAtcfu6ffdjrsDNCe3) | [Saffron Stone](https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz) | [Caliente](https://open.spotify.com/album/0k9fJtZqLDVJi56EbJ6hYE) | 2:33 |
+| 74 | [Mueve Los Dos Pies](https://open.spotify.com/track/4ZSAH3KeoaQ17VpplxkdVQ) | [Teddy Wong](https://open.spotify.com/artist/0GdhK4DxpuQ1C7SXpdon31) | [Mueve Los Dos Pies](https://open.spotify.com/album/62RADUg9aYhCC2k7fxg2jU) | 3:32 |
 | 75 | [Baila Mi Gente](https://open.spotify.com/track/6TJvvAp8YA41ZAsZDonWUS) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Baila Mi Gente](https://open.spotify.com/album/0WwClPZncNg0Oqb25jB2q4) | 2:40 |
 
-Snapshot ID: `MCxhYmMwYTY2OTMwMjQ4NDU4Mjg3NDlhMmZmZGM5YTg0NWFjZWYwY2U5`
+Snapshot ID: `MCxhMzI4NjU1M2NiYWI5ZGNhNjBjZTg3MTc1YzY4Zjc3ZWMxY2IwNzEw`

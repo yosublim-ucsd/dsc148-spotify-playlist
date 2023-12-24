@@ -70,10 +70,28 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 681120,
       "name": "A Circular Ceremony",
       "url": "https://open.spotify.com/track/06MXIcMiMevqLGcCO4nUTE"
+    },
+    {
+      "album": {
+        "name": "Dreamtime Return - 30th Anniversary Remastered Edition",
+        "url": "https://open.spotify.com/album/3VsGE6qWLkHCaJCRhD2Yu9"
+      },
+      "artists": [
+        {
+          "name": "Steve Roach",
+          "url": "https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 681120,
+      "name": "A Circular Ceremony",
+      "url": "https://open.spotify.com/track/0CUBrlXfzbZG5unrHPDHfe"
     },
     {
       "album": {
@@ -710,6 +728,24 @@
     {
       "album": {
         "name": "Dreamtime Return - 30th Anniversary Remastered Edition",
+        "url": "https://open.spotify.com/album/3VsGE6qWLkHCaJCRhD2Yu9"
+      },
+      "artists": [
+        {
+          "name": "Steve Roach",
+          "url": "https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372426,
+      "name": "Magnificent Gallery",
+      "url": "https://open.spotify.com/track/0j5S8m0r1ebNRstcHvg8p9"
+    },
+    {
+      "album": {
+        "name": "Dreamtime Return - 30th Anniversary Remastered Edition",
         "url": "https://open.spotify.com/album/6lnjs641LTK3qswbVFFBJw"
       },
       "artists": [
@@ -720,7 +756,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 372426,
       "name": "Magnificent Gallery",
       "url": "https://open.spotify.com/track/7ipFhjDTGDzSji2x9D23F2"
@@ -1044,6 +1080,24 @@
     {
       "album": {
         "name": "Structures From Silence",
+        "url": "https://open.spotify.com/album/194ZxFpjv5ttxZan4caXRq"
+      },
+      "artists": [
+        {
+          "name": "Steve Roach",
+          "url": "https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 803000,
+      "name": "Quiet Friend",
+      "url": "https://open.spotify.com/track/3m1ngci5oStKN96zAt9Y9M"
+    },
+    {
+      "album": {
+        "name": "Structures From Silence",
         "url": "https://open.spotify.com/album/46AY6JPcDEFWYF8YcYOQWh"
       },
       "artists": [
@@ -1054,7 +1108,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 803000,
       "name": "Quiet Friend",
       "url": "https://open.spotify.com/track/7eyrOUEsP04DjbMAIUKXEV"

@@ -4,7 +4,7 @@
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Lệ Quyên
 
-229 songs - 19 hr 26 min
+230 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [Trang Nhật Ký](https://open.spotify.com/track/6IgdnDf4f0gVAOM5GKZVv3) | [Duong Hong Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI), [Dong Nguyen](https://open.spotify.com/artist/5euEtaUIXOl9B8MKotc5Vb) | [Trang Nhật Ký](https://open.spotify.com/album/5vVqZvQkbrhucGpzN3oSbY) | 4:24 | 2022-03-11 | 2023-04-19 |
 | [Trom Nhin Nhau](https://open.spotify.com/track/2YnaiSCpOhyn77VAwTY7SA) | [Quang Le](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [Doi Mat Nguoi Xua](https://open.spotify.com/album/1cr15CHmotR28DFJa0kgze) | 5:28 | 2022-03-11 | 2022-07-29 |
 | [Trách Ai Bây Giờ](https://open.spotify.com/track/2qlyYKZWlVavGedljgEaeW) | [Mạnh Quỳnh](https://open.spotify.com/artist/3KTUDQL8OV9Sv6mvLJpS5W) | [Trách Ai Bây Giờ](https://open.spotify.com/album/6fP9rfjkCA7PotRxqk4RBB) | 5:43 | 2022-03-11 | 2022-07-14 |
-| [Trăng tàn trên hè phố](https://open.spotify.com/track/2M4sGZZOSakycaEI5YZdEt) | [Giang Tử](https://open.spotify.com/artist/2tvLovBlbaYyzUFeBgXRFW) | [Giang Tử Tuyệt Phẩm](https://open.spotify.com/album/01Z3lEP1pIv1DGkqrzUBff) | 5:21 | 2023-10-12 |  |
+| [Trăng tàn trên hè phố](https://open.spotify.com/track/2M4sGZZOSakycaEI5YZdEt) | [Giang Tử](https://open.spotify.com/artist/2tvLovBlbaYyzUFeBgXRFW) | [Giang Tử Tuyệt Phẩm](https://open.spotify.com/album/01Z3lEP1pIv1DGkqrzUBff) | 5:21 | 2023-10-12 | 2023-12-24 |
 | [Trường Cũ Tình Xưa](https://open.spotify.com/track/6G4CiuoWSwK5LeytZFkL1d) | [Phương Anh](https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk) | [Trường Cũ Tình Xưa](https://open.spotify.com/album/6p7PcIgCsqsF9i3atpJxzB) | 4:31 | 2022-03-11 | 2022-07-29 |
 | [Trả Lại Thời Gian](https://open.spotify.com/track/5FBZTuXD8VEc3TUdkcW02G) | [Lưu Ánh Loan](https://open.spotify.com/artist/4doYTYrpvNr6P7JjgTqN0V) | [Trả Lại Thời Gian](https://open.spotify.com/album/3anrtl0M6qcB22rTHH9JNy) | 5:47 | 2023-10-12 |  |
 | [Trộm nhìn nhau](https://open.spotify.com/track/75ZCiIFJ0LBlhCKuJDhUP4) | [Hoang Oanh](https://open.spotify.com/artist/2ztKQFCq6NdVbjWLq33H7o) | [Chuyến Đò Vĩ Tuyến](https://open.spotify.com/album/77wZqbAtSJNK6Com3oBswt) | 5:11 | 2022-03-11 | 2022-07-25 |
@@ -212,6 +212,7 @@
 | [Xin Goi Nhau La Co Nhan](https://open.spotify.com/track/2aSz0b9gg8M52dko2mHLMd) | [Tâm Đoan](https://open.spotify.com/artist/009DchB833vqAeN8v5zE4O) | [Sau Le Bong](https://open.spotify.com/album/6UgPVriOZBCkmu511zjNeH) | 4:07 | 2022-03-11 | 2022-07-22 |
 | [Xin Gọi Nhau Là Cố Nhân](https://open.spotify.com/track/7wcquJ59FWYUYX0xa8ujHJ) | [Bằng Kiều](https://open.spotify.com/artist/0KWdVd7ZYhtlm0CLHIFBya), [Quang Lê](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8), [Dan Nguyen](https://open.spotify.com/artist/3AYPFIPDQ5aUUZzQ9OsqEn) | [Lại Nhớ Người Yêu](https://open.spotify.com/album/2UaWWKsvIQ1lqZTZSmNqs6) | 5:07 | 2022-03-11 | 2023-12-14 |
 | [Xin Gọi Nhau Là Cố Nhân](https://open.spotify.com/track/3B8HhgtNJfhomdlASRAcTe) | [Huu Khuong](https://open.spotify.com/artist/1d56VqB4AyC2yy0YyeKd5Z) | [Xin Gọi Nhau Là Cố Nhân](https://open.spotify.com/album/0D8l8HfTcF5RkQ26TAhy80) | 5:02 | 2022-03-11 | 2022-07-27 |
+| [Xin gọi nhau là cố nhân](https://open.spotify.com/track/1PZ8lS5NZC3e6J1grnzfJG) | [Tâm Đoan](https://open.spotify.com/artist/009DchB833vqAeN8v5zE4O) | [Sầu Lẻ Bóng \(Asia 023\)](https://open.spotify.com/album/6hey39MLiZZbXYk8e9HbeO) | 4:07 | 2023-12-14 |  |
 | [Xin thời gian qua mau](https://open.spotify.com/track/2kSk3ZONtbkf76oq6xyM7G) | [Le Minh Trung](https://open.spotify.com/artist/0crvrM34uGoPas0sO0uhJu) | [Sao không thấy anh về](https://open.spotify.com/album/7BbT3rt2ZIuZ1CTLK2SEz5) | 5:00 | 2022-03-11 | 2022-07-26 |
 | [Xin Thời Gian Qua Mau](https://open.spotify.com/track/3nimTYr39MANUqa01DjlKE) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Bolero Edition](https://open.spotify.com/album/7veulXKjGs1XbnMECXrtzL) | 5:36 | 2022-03-11 | 2023-08-08 |
 | [Xin Thời Gian Qua Mau](https://open.spotify.com/track/5RveO8xVKdXERVcJ4CG1d7) | [Phương Anh](https://open.spotify.com/artist/7cJyqnwFpBTzP1eO1cgPhk) | [Xin Thời Gian Qua Mau](https://open.spotify.com/album/177Qm5XYwylnDg34pfJta8) | 5:35 | 2022-04-27 | 2022-06-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 
 > For those with a taste for both the new and the classic\. Cover: Dermot Kennedy
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,373 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,394 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 11 | [All Out Of Fight](https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL \(Tour Deluxe Edition\)](https://open.spotify.com/album/4hgincUyDza4A228fFQRiK) | 3:32 |
 | 12 | [Next To You](https://open.spotify.com/track/69NxIgtkxX3gk9YO5N1p9e) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:25 |
 | 13 | [i am not who i was](https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [i am not who i was](https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId) | 2:25 |
-| 14 | [Medicine](https://open.spotify.com/track/23k8mKYhjxN5iSw6nxOVkL) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [Medicine](https://open.spotify.com/album/3JqcgkR1T0inYGixFDTmdO) | 4:15 |
+| 14 | [Medicine](https://open.spotify.com/track/1QWyq6ewUIWZgsyVmzpo0Y) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [Medicine](https://open.spotify.com/album/03bvJDhMjnOOXwqqw3NZ9B) | 4:15 |
 | 15 | [28 \- with Dean Lewis](https://open.spotify.com/track/3fajzhEHSdlSmY31dORz9M) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [28 \(with Dean Lewis\)](https://open.spotify.com/album/04iQ8HwkumvYXot2TG3F0K) | 3:28 |
 | 16 | [One Before The One](https://open.spotify.com/track/4zOZN1h568zZf7UoRaZNJr) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [One Before The One](https://open.spotify.com/album/6EFWJfLNlrdJ73nhULMcg7) | 2:48 |
 | 17 | [Close To You](https://open.spotify.com/track/5meNtnGsQohHlvh8d3Kh2j) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [The Ride: Part 3](https://open.spotify.com/album/4O3pdzoXLGU61BYZzVNCHJ) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViBxWcYEI1b.md) - [plain]
 | 99 | [Afterglow](https://open.spotify.com/track/2Jh44UZ8vuwjxtQlbxJJki) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Afterglow](https://open.spotify.com/album/1TwYZEHm1MRXmtGAgmCyHc) | 3:12 |
 | 100 | [Driving To Nowhere](https://open.spotify.com/track/7bI0nfpRuGN5BUW23Auw26) | [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Driving To Nowhere](https://open.spotify.com/album/3ElAgzbgtbzweDHr2snige) | 3:05 |
 
-Snapshot ID: `MCxhYjgxMjM5ZDc5YTMyNzAzYjNhZTRjZGU1ZGVkZjg0MTVjMmVhOWY4`
+Snapshot ID: `MCw1MTdlNTljM2I1YzNmNmQ5NmZiYTNjMGRhZjI5NWEwZDg4ZDAwOGEx`

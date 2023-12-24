@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-583 songs - 1 day 8 hr 0 min
+584 songs - 1 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [dirty dancer](https://open.spotify.com/track/1ciQU7ZQGHq129m3njp9en) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [dirty dancer](https://open.spotify.com/album/6aO0vMIga31GSawF5f0pMZ) | 2:49 | 2022-04-07 | 2023-08-12 |
 | [Do 2 Me](https://open.spotify.com/track/7mRYc7MBzPiQpW1wlVdz4w) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh), [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ) | [Do 2 Me](https://open.spotify.com/album/5baVIwEwXhFCg1B6kmOetf) | 3:20 | 2021-12-15 | 2023-04-25 |
 | [DO 4 LOVE](https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 3:09 | 2022-06-30 | 2023-05-13 |
-| [Don't Doubt It](https://open.spotify.com/track/28yYqgatnEJFxN8JOmvxUk) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Don't Doubt It](https://open.spotify.com/album/7misvvbAa72HkMvqBPNfRN) | 3:02 | 2023-04-28 |  |
+| [Don't Doubt It](https://open.spotify.com/track/28yYqgatnEJFxN8JOmvxUk) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo) | [Don't Doubt It](https://open.spotify.com/album/7misvvbAa72HkMvqBPNfRN) | 3:02 | 2023-04-28 | 2023-12-24 |
 | [Don't Pretend \- Acoustic](https://open.spotify.com/track/2sWL4tq39W5EMdC0ItdPTy) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Don't Pretend \(Acoustic\)](https://open.spotify.com/album/1EVSU42vLvFmSjHt3TGmx1) | 2:21 | 2023-06-16 |  |
 | [Don't Say It](https://open.spotify.com/track/6ltghPpgP522rAJvYuplke) | [Benny Atlas](https://open.spotify.com/artist/6IXnkjY4xozfLmaA0DxuoS) | [Don't Say It](https://open.spotify.com/album/6qvPhhzet4eeMYzrOwY4HR) | 2:43 | 2023-07-21 | 2023-11-24 |
 | [Don't Stare Too Long](https://open.spotify.com/track/5MZ46M8kBTyY6BMYFKDVpo) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u) | [Don't Stare Too Long](https://open.spotify.com/album/1rZ9hqFJSznZlQNMOyPZpP) | 3:08 | 2023-08-04 |  |
@@ -527,6 +527,7 @@
 | [Tidal Wave](https://open.spotify.com/track/0COURFiJSO9R4Bz3gAP1VW) | [August Rosenbaum](https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4), [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [songs people together \(extended\)](https://open.spotify.com/album/5fOtDWDnJqB2fZ4xJwdUMG) | 1:51 | 2023-06-09 | 2023-11-20 |
 | [Tightrope](https://open.spotify.com/track/0qEeRTvWCUZ9PaCaS1ehwK) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Tightrope](https://open.spotify.com/album/30ksqmYH8xPqSQzOEII0mp) | 2:49 | 2022-11-09 | 2022-12-04 |
 | [Time Will Tell](https://open.spotify.com/track/7t15QHGSW2IyHkVEjsD6XH) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [Champagne Kisses](https://open.spotify.com/album/1BkhAWj2DJmsapEOd0OUUU) | 3:08 | 2023-06-23 |  |
+| [Times It By Two](https://open.spotify.com/track/2PG64K0mmStEaVEARRurQm) | [Annie Tracy](https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF) | [Times It By Two](https://open.spotify.com/album/296rlA2qhO9UrAxy7u9MNk) | 3:25 | 2023-04-03 |  |
 | [Times It By Two](https://open.spotify.com/track/5K1jIe2SWTGrm37SN0Crdo) | [Annie Tracy](https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF) | [Times It By Two](https://open.spotify.com/album/1YY7YJ6m8z7SYv9UU9YQwp) | 3:25 | 2023-04-03 | 2023-12-17 |
 | [Tiny Garden](https://open.spotify.com/track/40ke1BOmv6yyUrfbchPr3P) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B), [duendita](https://open.spotify.com/artist/4vZBqD3QXrKiE3mZ6zHr22) | [Tiny Garden](https://open.spotify.com/album/6auEC4yc0x3xoYv580Dbke) | 4:11 | 2023-07-14 |  |
 | [To This Day](https://open.spotify.com/track/7JM71c4NDJh0gllX45eWRi) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [To This Day](https://open.spotify.com/album/3Mub17z8Rz5f6xTQjbukjI) | 3:30 | 2023-06-23 |  |

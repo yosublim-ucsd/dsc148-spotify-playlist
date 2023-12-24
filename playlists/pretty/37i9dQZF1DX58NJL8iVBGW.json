@@ -1,12 +1,12 @@
 {
   "description": "Deep, dark, dramatic. Roots rock, folk, and Americana\u2014with a gothic soul.",
-  "num_followers": 590935,
+  "num_followers": 591061,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGU2NTA3OWI1NmI3NjVhOTE1MzNhNWYyODczYjAxYWRiNDYwZmU1",
+  "snapshot_id": "MCwxNDhmOTkzNjgxYWU2MjM1YzY4MDk0MTU4NTVmYjRkZGIwNzQyMTYx",
   "tracks": [
     {
       "added_at": "2023-12-12 21:56:13",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-12-12 21:56:13",
       "album": {
+        "name": "False Lankum",
+        "url": "https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H"
+      },
+      "artists": [
+        {
+          "name": "Lankum",
+          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+        }
+      ],
+      "duration_ms": 518745,
+      "name": "Go Dig My Grave",
+      "url": "https://open.spotify.com/track/21gCYJP9C9GUNI4jCZhheZ"
+    },
+    {
+      "added_at": "2023-12-12 21:56:13",
+      "album": {
         "name": "John Came Home",
         "url": "https://open.spotify.com/album/3YIvOJ3c5hOLjzwQ3b9m1p"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 191000,
       "name": "Fingers To The Bone",
       "url": "https://open.spotify.com/track/5g3vDbjW1S08XRb2AZ1rkV"
-    },
-    {
-      "added_at": "2023-12-12 21:56:13",
-      "album": {
-        "name": "False Lankum",
-        "url": "https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H"
-      },
-      "artists": [
-        {
-          "name": "Lankum",
-          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
-        }
-      ],
-      "duration_ms": 518745,
-      "name": "Go Dig My Grave",
-      "url": "https://open.spotify.com/track/21gCYJP9C9GUNI4jCZhheZ"
     },
     {
       "added_at": "2023-12-12 21:56:13",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-12-12 21:56:13",
       "album": {
-        "name": "Outside Child",
-        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 335586,
-      "name": "Hy-Brasil",
-      "url": "https://open.spotify.com/track/2OeMJJ4QlZKW0mjpbIckiq"
-    },
-    {
-      "added_at": "2023-12-12 21:56:13",
-      "album": {
         "name": "Unsung Passage",
         "url": "https://open.spotify.com/album/6M0S7WdKAWPcXU3lrEpEJW"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 197560,
       "name": "Ebb and Flow",
       "url": "https://open.spotify.com/track/699xuBhcbpIoXHzMRQbI8j"
+    },
+    {
+      "added_at": "2023-12-12 21:56:13",
+      "album": {
+        "name": "Outside Child",
+        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 335586,
+      "name": "Hy-Brasil",
+      "url": "https://open.spotify.com/track/2OeMJJ4QlZKW0mjpbIckiq"
     },
     {
       "added_at": "2023-12-12 21:56:13",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-12-12 21:56:13",
       "album": {
-        "name": "Sharecropper's Son",
-        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
-      },
-      "artists": [
-        {
-          "name": "Robert Finley",
-          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
-        }
-      ],
-      "duration_ms": 186960,
-      "name": "Sharecropper\u2019s Son",
-      "url": "https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU"
-    },
-    {
-      "added_at": "2023-12-12 21:56:13",
-      "album": {
         "name": "Avalon",
         "url": "https://open.spotify.com/album/2wMd9lN22jtiv8NsqJ4gIg"
       },
@@ -1155,6 +1139,22 @@
     {
       "added_at": "2023-12-12 21:56:13",
       "album": {
+        "name": "Sharecropper's Son",
+        "url": "https://open.spotify.com/album/0GrKDFuaqGOhs54O8Zerqf"
+      },
+      "artists": [
+        {
+          "name": "Robert Finley",
+          "url": "https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv"
+        }
+      ],
+      "duration_ms": 186960,
+      "name": "Sharecropper\u2019s Son",
+      "url": "https://open.spotify.com/track/5TTctmQn2AlFAgdCB5sGoU"
+    },
+    {
+      "added_at": "2023-12-12 21:56:13",
+      "album": {
         "name": "Front Porch",
         "url": "https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu"
       },
@@ -1167,22 +1167,6 @@
       "duration_ms": 209173,
       "name": "Canary",
       "url": "https://open.spotify.com/track/0CTwMHxWBYOcuA2K02qcOf"
-    },
-    {
-      "added_at": "2023-12-12 21:56:13",
-      "album": {
-        "name": "Elizabeth",
-        "url": "https://open.spotify.com/album/3SiCJvdGlxuWbmTsbOVqCU"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Dakota Rogers",
-          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
-        }
-      ],
-      "duration_ms": 241225,
-      "name": "Elizabeth",
-      "url": "https://open.spotify.com/track/2j8wfpQL2zw7oTSVU9kQT9"
     },
     {
       "added_at": "2023-12-12 21:56:13",
@@ -1215,6 +1199,22 @@
       "duration_ms": 188677,
       "name": "Another Man\u02bcs Grave",
       "url": "https://open.spotify.com/track/0kO82Vu0CXMrkLo5p9EvyI"
+    },
+    {
+      "added_at": "2023-12-12 21:56:13",
+      "album": {
+        "name": "Elizabeth",
+        "url": "https://open.spotify.com/album/3SiCJvdGlxuWbmTsbOVqCU"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Dakota Rogers",
+          "url": "https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL"
+        }
+      ],
+      "duration_ms": 241225,
+      "name": "Elizabeth",
+      "url": "https://open.spotify.com/track/2j8wfpQL2zw7oTSVU9kQT9"
     },
     {
       "added_at": "2023-12-12 21:56:13",

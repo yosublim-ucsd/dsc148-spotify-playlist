@@ -1,12 +1,12 @@
 {
   "description": "Kick back  and soak up the warm and soothing tones of jazz and electronic.",
-  "num_followers": 33060,
+  "num_followers": 33073,
   "original_name": "lush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzJkNGJlYjRmNjk3ZDdhOWExMTA2MTc1Y2FjNjdmZTkxNzBiNmM3",
+  "snapshot_id": "MCwyNjlhYmEzNDBkODc2MWY4NTU2M2YzNDU1MzYzZTRmZjk0NjFlY2Yy",
   "tracks": [
     {
       "added_at": "2021-10-08 17:36:35",
@@ -223,22 +223,18 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
-        "name": "Two Steps",
-        "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
+        "name": "Black Focus",
+        "url": "https://open.spotify.com/album/6pDAh84nyNU7x3xje9G03I"
       },
       "artists": [
         {
-          "name": "Maths Time Joy",
-          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
-        },
-        {
-          "name": "Kevin Garrett",
-          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
+          "name": "Yussef Kamaal",
+          "url": "https://open.spotify.com/artist/710FHFQeXKC6dZGCxt7kQh"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Two Steps",
-      "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
+      "duration_ms": 508773,
+      "name": "Strings of Light",
+      "url": "https://open.spotify.com/track/3hEOsfDNsdpV78Ty01vaxi"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -263,22 +259,6 @@
       "duration_ms": 298997,
       "name": "Soweto Blues",
       "url": "https://open.spotify.com/track/6l5WDlZzjAXWEA47969TXI"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Black Focus",
-        "url": "https://open.spotify.com/album/6pDAh84nyNU7x3xje9G03I"
-      },
-      "artists": [
-        {
-          "name": "Yussef Kamaal",
-          "url": "https://open.spotify.com/artist/710FHFQeXKC6dZGCxt7kQh"
-        }
-      ],
-      "duration_ms": 508773,
-      "name": "Strings of Light",
-      "url": "https://open.spotify.com/track/3hEOsfDNsdpV78Ty01vaxi"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -723,6 +703,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Moodymann",
+        "url": "https://open.spotify.com/album/61sGO58ljdDgD4Mn6Bcj3P"
+      },
+      "artists": [
+        {
+          "name": "Moodymann",
+          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
+        }
+      ],
+      "duration_ms": 708706,
+      "name": "Sloppy Cosmic",
+      "url": "https://open.spotify.com/track/2E8EbnfOycV8BaUzbCsGqa"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Sankofa Season",
         "url": "https://open.spotify.com/album/4GsqSUelegSf0jTJyloIqz"
       },
@@ -739,22 +735,6 @@
       "duration_ms": 342591,
       "name": "Eye Mo K",
       "url": "https://open.spotify.com/track/6o5bke7Cp481elgM8eTenO"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Moodymann",
-        "url": "https://open.spotify.com/album/61sGO58ljdDgD4Mn6Bcj3P"
-      },
-      "artists": [
-        {
-          "name": "Moodymann",
-          "url": "https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX"
-        }
-      ],
-      "duration_ms": 708706,
-      "name": "Sloppy Cosmic",
-      "url": "https://open.spotify.com/track/2E8EbnfOycV8BaUzbCsGqa"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -847,6 +827,22 @@
     {
       "added_at": "2021-10-08 17:36:35",
       "album": {
+        "name": "Music is King 2019 Appreciation Mix (DJ Mix)",
+        "url": "https://open.spotify.com/album/6ZNoVc15w0AyCOkwNhxHjW"
+      },
+      "artists": [
+        {
+          "name": "Caiiro",
+          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
+        }
+      ],
+      "duration_ms": 409173,
+      "name": "The Sapiens (Original Mix) [Mixed]",
+      "url": "https://open.spotify.com/track/0g7DrfLCjrhogkP8cIAHm3"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
         "name": "Straight Line (Remixed)",
         "url": "https://open.spotify.com/album/18KriOV8L1wKfthvb2m2LE"
       },
@@ -863,22 +859,6 @@
       "duration_ms": 376489,
       "name": "Straight Line - Neil Cowley Remix",
       "url": "https://open.spotify.com/track/2aZCiyNWSZp18PSokglthU"
-    },
-    {
-      "added_at": "2021-10-08 17:36:35",
-      "album": {
-        "name": "Music is King 2019 Appreciation Mix (DJ Mix)",
-        "url": "https://open.spotify.com/album/6ZNoVc15w0AyCOkwNhxHjW"
-      },
-      "artists": [
-        {
-          "name": "Caiiro",
-          "url": "https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY"
-        }
-      ],
-      "duration_ms": 409173,
-      "name": "The Sapiens (Original Mix) [Mixed]",
-      "url": "https://open.spotify.com/track/0g7DrfLCjrhogkP8cIAHm3"
     },
     {
       "added_at": "2021-10-08 17:36:35",
@@ -915,6 +895,22 @@
       "duration_ms": 267520,
       "name": "Mind",
       "url": "https://open.spotify.com/track/5sfTya6OQoW2rDLKSVT2Qk"
+    },
+    {
+      "added_at": "2021-10-08 17:36:35",
+      "album": {
+        "name": "Small Moments",
+        "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
+      },
+      "artists": [
+        {
+          "name": "Dan Kye",
+          "url": "https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf"
+        }
+      ],
+      "duration_ms": 371861,
+      "name": "Mogeri",
+      "url": "https://open.spotify.com/track/6Iq7a7HZ6eFpsAVW6Qfohp"
     }
   ],
   "unique_name": "lush",

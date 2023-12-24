@@ -1886,10 +1886,28 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 165826,
       "name": "My Shit's Fucked Up",
       "url": "https://open.spotify.com/track/35UT9ZB7UROy8W8JvMmzMD"
+    },
+    {
+      "album": {
+        "name": "Life'll Kill Ya",
+        "url": "https://open.spotify.com/album/6tHaTnsWMhVLVOJzQG7sHq"
+      },
+      "artists": [
+        {
+          "name": "Warren Zevon",
+          "url": "https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165826,
+      "name": "My Shit's Fucked Up",
+      "url": "https://open.spotify.com/track/6RNp2KtAPVQWRHS6FdjNWG"
     },
     {
       "album": {

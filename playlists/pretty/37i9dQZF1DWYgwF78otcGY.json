@@ -1,12 +1,12 @@
 {
   "description": "Fj\u00e4derboa, dansgolv, alls\u00e5ng och tonartsh\u00f6jningar - nu \u00e4r det mellofest! \ud83e\udea9\u2728\ud83d\udc9c",
-  "num_followers": 26878,
+  "num_followers": 26876,
   "original_name": "Mellofest! ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmI0Y2ZhMWM4MzlhNzc1MDc1ZGZhYzFiOTdkYTdmMTZhMDM0Mzc5",
+  "snapshot_id": "MCwyOGY0MDY2MTY0M2YyNDBiMTZiMzc2MzZjYzY4MzA0YTJmMGNkYzE3",
   "tracks": [
     {
       "added_at": "2023-12-01 11:30:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-12-01 11:30:00",
       "album": {
-        "name": "Take Me To Your Heaven",
-        "url": "https://open.spotify.com/album/6fgypOA8G33QMu1Fuufn7Y"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Perrelli",
-          "url": "https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "Tusen och en natt",
-      "url": "https://open.spotify.com/track/6JIwvW8ioos5KFp0Q0mS3Y"
-    },
-    {
-      "added_at": "2023-12-01 11:30:00",
-      "album": {
         "name": "Sean den f\u00f6rste Banan",
         "url": "https://open.spotify.com/album/0rFpCQes32x4acvY6dmVOh"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 183373,
       "name": "Sean den f\u00f6rste Banan",
       "url": "https://open.spotify.com/track/5J2UfqBylH8jDQZJnxby81"
+    },
+    {
+      "added_at": "2023-12-01 11:30:00",
+      "album": {
+        "name": "Take Me To Your Heaven",
+        "url": "https://open.spotify.com/album/6fgypOA8G33QMu1Fuufn7Y"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Perrelli",
+          "url": "https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "Tusen och en natt",
+      "url": "https://open.spotify.com/track/6JIwvW8ioos5KFp0Q0mS3Y"
     },
     {
       "added_at": "2023-12-01 11:30:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-12-01 11:30:00",
       "album": {
-        "name": "Never Give Up",
-        "url": "https://open.spotify.com/album/13g0On9hQnYAQsVslilDhP"
-      },
-      "artists": [
-        {
-          "name": "Maria Sur",
-          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
-        }
-      ],
-      "duration_ms": 179893,
-      "name": "Never Give Up",
-      "url": "https://open.spotify.com/track/3Xov23KN1ztHZrLBnhFSc4"
-    },
-    {
-      "added_at": "2023-12-01 11:30:00",
-      "album": {
         "name": "Dolly Styles b\u00e4sta",
         "url": "https://open.spotify.com/album/4UeSWAPwCYG0PUYXfTRMfE"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 171340,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/0PcnMWhIgWga5G7pck1Fhb"
+    },
+    {
+      "added_at": "2023-12-01 11:30:00",
+      "album": {
+        "name": "Never Give Up",
+        "url": "https://open.spotify.com/album/13g0On9hQnYAQsVslilDhP"
+      },
+      "artists": [
+        {
+          "name": "Maria Sur",
+          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
+        }
+      ],
+      "duration_ms": 179893,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/3Xov23KN1ztHZrLBnhFSc4"
     },
     {
       "added_at": "2023-12-01 11:30:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-12-01 11:30:00",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/7g8VSftiiJllTZkOZUoSFe"
-      },
-      "artists": [
-        {
-          "name": "Janne Lucas",
-          "url": "https://open.spotify.com/artist/0Z8KU7sIq35JPkymHAuBwx"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "V\u00e4xeln hall\u00e5",
-      "url": "https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy"
-    },
-    {
-      "added_at": "2023-12-01 11:30:00",
-      "album": {
         "name": "Bail\u00e1 Bail\u00e1",
         "url": "https://open.spotify.com/album/3bcMrj2XzJl776OdDXmrnF"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 173124,
       "name": "Bail\u00e1 Bail\u00e1",
       "url": "https://open.spotify.com/track/3MMJuk00QLVAjS6vwBZ67V"
+    },
+    {
+      "added_at": "2023-12-01 11:30:00",
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/7g8VSftiiJllTZkOZUoSFe"
+      },
+      "artists": [
+        {
+          "name": "Janne Lucas",
+          "url": "https://open.spotify.com/artist/0Z8KU7sIq35JPkymHAuBwx"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "V\u00e4xeln hall\u00e5",
+      "url": "https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy"
     },
     {
       "added_at": "2023-12-01 11:30:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-12-01 11:30:00",
       "album": {
-        "name": "Now I Know",
-        "url": "https://open.spotify.com/album/1uap95G6btqs1OZLmkN1Gc"
-      },
-      "artists": [
-        {
-          "name": "Tennessee Tears",
-          "url": "https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp"
-        }
-      ],
-      "duration_ms": 181633,
-      "name": "Now I Know",
-      "url": "https://open.spotify.com/track/591qy56kcfBuNgj1kregOM"
-    },
-    {
-      "added_at": "2023-12-01 11:30:00",
-      "album": {
         "name": "I Can't Go On",
         "url": "https://open.spotify.com/album/22O77Vq7bj0khJd5Blhjp3"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 183990,
       "name": "I Can\u00b4t Go On",
       "url": "https://open.spotify.com/track/715cD5vOTffsOR3MnNYveJ"
+    },
+    {
+      "added_at": "2023-12-01 11:30:00",
+      "album": {
+        "name": "Now I Know",
+        "url": "https://open.spotify.com/album/1uap95G6btqs1OZLmkN1Gc"
+      },
+      "artists": [
+        {
+          "name": "Tennessee Tears",
+          "url": "https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp"
+        }
+      ],
+      "duration_ms": 181633,
+      "name": "Now I Know",
+      "url": "https://open.spotify.com/track/591qy56kcfBuNgj1kregOM"
     },
     {
       "added_at": "2023-12-01 11:30:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-12-01 11:30:00",
       "album": {
-        "name": "Fr\u00e5n nu till evighet",
-        "url": "https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH"
-      },
-      "artists": [
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
-        }
-      ],
-      "duration_ms": 181493,
-      "name": "Evighet",
-      "url": "https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp"
-    },
-    {
-      "added_at": "2023-12-01 11:30:00",
-      "album": {
         "name": "Om om och om igen",
         "url": "https://open.spotify.com/album/34VOvxhqnb5cGsO67IO3Rd"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 167346,
       "name": "Om om och om igen",
       "url": "https://open.spotify.com/track/1Lg5Qf47RERQQmfYbGZB43"
+    },
+    {
+      "added_at": "2023-12-01 11:30:00",
+      "album": {
+        "name": "Fr\u00e5n nu till evighet",
+        "url": "https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        }
+      ],
+      "duration_ms": 181493,
+      "name": "Evighet",
+      "url": "https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp"
     },
     {
       "added_at": "2023-12-01 11:30:00",

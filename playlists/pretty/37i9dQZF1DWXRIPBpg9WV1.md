@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 
 > Relax and unwind with gentle guitar covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,086 likes - 143 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,151 likes - 143 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -141,7 +141,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 | 131 | [Bridge Over Troubled Water](https://open.spotify.com/track/1ScQ3gRVXuNV9yyxsX0CGc) | [Tom Caufield](https://open.spotify.com/artist/6z47hZKeeckIexm3fHyzXB) | [Bridge Over Troubled Water](https://open.spotify.com/album/4T3TVomJZN6kXlxpgkPqe8) | 5:43 |
 | 132 | [Here Comes The Sun](https://open.spotify.com/track/0ioKfrLt4M6pkTmODSORO1) | [Caden Fox](https://open.spotify.com/artist/0OR3tNEJyrFIjuImwG5FI3) | [Here Comes The Sun](https://open.spotify.com/album/2Ji1nVM3CvZKj5mA2bfM7S) | 2:38 |
 | 133 | [Man In The Mirror](https://open.spotify.com/track/5ACFr3JkSBYEBu3H4XLW1S) | [Beau Hayes](https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I) | [Man In The Mirror](https://open.spotify.com/album/35lS2kcidLGiYuXx9L0s4D) | 2:24 |
-| 134 | [The Joker and The Queen \- Instrumental](https://open.spotify.com/track/48HuyDX4mzi3VjkAYzgYLJ) | [Guitar Tribute Players](https://open.spotify.com/artist/3AoiBjr0pSGswX96XxEgH7) | [Acoustic Tribute to Ed Sheeran, Vol\. 4 \(Instrumental\)](https://open.spotify.com/album/3e4v4x4AXeb7sTkGgx9l92) | 3:04 |
+| 134 | [The Joker and The Queen \- Instrumental](https://open.spotify.com/track/7K9nvERCVcBG9buFuzWR68) | [Guitar Tribute Players](https://open.spotify.com/artist/3AoiBjr0pSGswX96XxEgH7) | [Acoustic Tribute to Ed Sheeran, Vol\. 4 \(Instrumental\)](https://open.spotify.com/album/2K53e0uTW4eCICZwUd8r4k) | 3:04 |
 | 135 | [Life on Mars](https://open.spotify.com/track/2VxuqHEeXHxGMWZN6CqFcT) | [Paolo Velera](https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH) | [Paolo Velera](https://open.spotify.com/album/3vHWDnKJ7yBYDy5W3D85pC) | 3:26 |
 | 136 | [The Final Countdown](https://open.spotify.com/track/5CsSyDSAi9aTszs4fv6O8U) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [The Final Countdown](https://open.spotify.com/album/6CZsSWxPeaBdG2TeBxEXot) | 3:03 |
 | 137 | [How Far Will I Go](https://open.spotify.com/track/5DbaHzbL6yNvDweTMwDsjE) | [Tim Raymond](https://open.spotify.com/artist/4kYHqjNdzbIyg2EsqY0nWe) | [How Far Will I Go](https://open.spotify.com/album/01dPukYevifXCAoCg1iLP3) | 4:10 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 | 142 | [Tears in Heaven](https://open.spotify.com/track/4CRNGEGOrfp43WzgHbBpm6) | [Abel Davies](https://open.spotify.com/artist/3Hd9jQTGq8jm9lMDSnWkvn) | [Tears in Heaven](https://open.spotify.com/album/6JOFI6MEbHB7M759AhH66P) | 2:37 |
 | 143 | [True colors](https://open.spotify.com/track/3bVwh1aRQAnMyrNDI9sjW0) | [Tim Raymond](https://open.spotify.com/artist/4kYHqjNdzbIyg2EsqY0nWe) | [True colors](https://open.spotify.com/album/13QfkW5FCtLmYBUq9Izmwr) | 3:38 |
 
-Snapshot ID: `MCxkMDYxNjJiYjc1YzM5MjRiN2UzNDIyNmE4NjQ1Njk3MmRjMmQ0YmEz`
+Snapshot ID: `MCxhNzZkYjUzMDIwMWNlMGZkYzU0NDVhYTZjYTQ4MzAzNjU4M2Q3NjI2`

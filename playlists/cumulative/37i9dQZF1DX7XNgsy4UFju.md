@@ -4,7 +4,7 @@
 
 > The best indie songs of the moment\. Cover: Björk, ROSALÍA
 
-1,433 songs - 3 day 13 hr 2 min
+1,434 songs - 3 day 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -793,7 +793,8 @@
 | [Me & Me](https://open.spotify.com/track/3VJqv26NK9cCRXsjDKJOGY) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Me & Me](https://open.spotify.com/album/6zmMU4QN9I1a05rqCLuQpi) | 2:27 | 2023-07-21 | 2023-08-26 |
 | [Me And You, Anywhere](https://open.spotify.com/track/2YyvOCmxDpyTkovTmA86XY) | [Deadharrie](https://open.spotify.com/artist/2AQksJj3wc0pTSVLZtjUJX) | [Me And You, Anywhere](https://open.spotify.com/album/6Ae3GMu40g4zisALlypWZz) | 3:22 | 2023-08-04 | 2023-08-19 |
 | [Measure of a Man \(feat\. Central Cee\)](https://open.spotify.com/track/3gjKJ0RjjEddIJW0NDDZ1r) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Measure of a Man \(feat\. Central Cee\)](https://open.spotify.com/album/7ycr1XsV8SLkUBlvGIAhoG) | 3:15 | 2021-12-31 | 2022-01-29 |
-| [Medicine](https://open.spotify.com/track/23k8mKYhjxN5iSw6nxOVkL) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [Medicine](https://open.spotify.com/album/3JqcgkR1T0inYGixFDTmdO) | 4:15 | 2023-12-01 |  |
+| [Medicine](https://open.spotify.com/track/1QWyq6ewUIWZgsyVmzpo0Y) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [Medicine](https://open.spotify.com/album/03bvJDhMjnOOXwqqw3NZ9B) | 4:15 | 2023-12-22 |  |
+| [Medicine](https://open.spotify.com/track/23k8mKYhjxN5iSw6nxOVkL) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [Medicine](https://open.spotify.com/album/3JqcgkR1T0inYGixFDTmdO) | 4:15 | 2023-12-01 | 2023-12-24 |
 | [Melanin](https://open.spotify.com/track/4Okac0NBnN75gtBGTEh6Bv) | [Beach Season](https://open.spotify.com/artist/44hIVkpzLPUGJGUa04H3jw) | [Melanin](https://open.spotify.com/album/4GJayZNnz62Ui8PEWIOLY6) | 3:16 | 2023-08-04 | 2023-08-19 |
 | [Melting In A Shallow Body of Water](https://open.spotify.com/track/0FOkP7iXSyhm0wcbEwxVun) | [Leisure Club](https://open.spotify.com/artist/2oBhyKsUYj7AIweJAeqF33) | [Melting In A Shallow Body of Water](https://open.spotify.com/album/3FshZgZmmqX9mEkU65YPVT) | 4:10 | 2022-04-22 | 2022-06-18 |
 | [MEMORY](https://open.spotify.com/track/1SAJZUMIg3tDCMpCVYd9Gm) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [MEMORY b/w COUNTY LINES](https://open.spotify.com/album/3vdGdBTdwToZ7u3KAYgMyw) | 3:53 | 2022-08-27 | 2022-09-03 |

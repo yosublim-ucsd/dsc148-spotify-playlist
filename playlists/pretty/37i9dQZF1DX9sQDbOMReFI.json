@@ -1,12 +1,12 @@
 {
   "description": "The best side! Cover: Ice Cube",
-  "num_followers": 796386,
+  "num_followers": 796981,
   "original_name": "I Love My West Coast Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTRmMDYzMDUwZjI4NGY0YTJiOGNkNTliZjMxOWZmMjc2Mzc5YmY2",
+  "snapshot_id": "MCxmYzdhMjYxODJmOTU0YTNlMzZlZWE1ZjU0ZTJjNDAxMzZkMGE4NzRh",
   "tracks": [
     {
       "added_at": "2023-12-06 23:09:34",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-12-06 23:09:34",
       "album": {
-        "name": "Short Dog's In The House",
-        "url": "https://open.spotify.com/album/3zelBkWHW8aaKkSSX1fdSt"
-      },
-      "artists": [
-        {
-          "name": "Too $hort",
-          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
-        }
-      ],
-      "duration_ms": 302133,
-      "name": "The Ghetto",
-      "url": "https://open.spotify.com/track/3B6WDceNe6lUQnczntRIuf"
-    },
-    {
-      "added_at": "2023-12-06 23:09:34",
-      "album": {
         "name": "Don't Fight The Feelin'",
         "url": "https://open.spotify.com/album/1VUlxoPvDA8PfUDHTic793"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 266333,
       "name": "Playaz Club",
       "url": "https://open.spotify.com/track/4ZYM6R5nOZywxACY90Bsla"
+    },
+    {
+      "added_at": "2023-12-06 23:09:34",
+      "album": {
+        "name": "Short Dog's In The House",
+        "url": "https://open.spotify.com/album/3zelBkWHW8aaKkSSX1fdSt"
+      },
+      "artists": [
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        }
+      ],
+      "duration_ms": 302133,
+      "name": "The Ghetto",
+      "url": "https://open.spotify.com/track/3B6WDceNe6lUQnczntRIuf"
     },
     {
       "added_at": "2023-12-06 23:09:34",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-12-06 23:09:34",
       "album": {
-        "name": "Get In Where You Fit In",
-        "url": "https://open.spotify.com/album/21dTXIKc4O3tNNHMiOsOQ1"
-      },
-      "artists": [
-        {
-          "name": "Too $hort",
-          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
-        }
-      ],
-      "duration_ms": 361266,
-      "name": "I'm a Player - Street Version",
-      "url": "https://open.spotify.com/track/4XiZFtOlgXYtrp88tGNnk8"
-    },
-    {
-      "added_at": "2023-12-06 23:09:34",
-      "album": {
         "name": "Mack 10",
         "url": "https://open.spotify.com/album/0SIJmYjQu1tjhRpZpdPyAO"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 253800,
       "name": "Foe Life",
       "url": "https://open.spotify.com/track/28SF0lKRqso9SSTDpbv991"
+    },
+    {
+      "added_at": "2023-12-06 23:09:34",
+      "album": {
+        "name": "Quik Is The Name",
+        "url": "https://open.spotify.com/album/6qzvk2A6wQpy1f69hrWj3B"
+      },
+      "artists": [
+        {
+          "name": "DJ Quik",
+          "url": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
+        }
+      ],
+      "duration_ms": 323266,
+      "name": "Tonite",
+      "url": "https://open.spotify.com/track/2hluGQtmPypU3tsQudCQ3U"
     }
   ],
   "unique_name": "I Love My West Coast Classics",

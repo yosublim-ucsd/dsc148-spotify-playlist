@@ -124,10 +124,28 @@
       ],
       "date_added": "2019-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 323026,
       "name": "Everything You Touch Is A Song",
       "url": "https://open.spotify.com/track/0nFEeSOwXfkYKSShg2RR1V"
+    },
+    {
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/4l40xbbwT18kZlanwGxCM2"
+      },
+      "artists": [
+        {
+          "name": "The Winans",
+          "url": "https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323026,
+      "name": "Everything You Touch Is A Song",
+      "url": "https://open.spotify.com/track/3qp1gaoVXBy6HOiyHPGVa0"
     },
     {
       "album": {
@@ -186,6 +204,24 @@
     {
       "album": {
         "name": "The Light Years",
+        "url": "https://open.spotify.com/album/2tVqOk4m5YAIKGPzIsesyA"
+      },
+      "artists": [
+        {
+          "name": "Walter Hawkins",
+          "url": "https://open.spotify.com/artist/12pzJohM40StvAPzI1t3Tb"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310600,
+      "name": "Goin' Up Yonder",
+      "url": "https://open.spotify.com/track/0CddhzZQHcXL71o94gy4WX"
+    },
+    {
+      "album": {
+        "name": "The Light Years",
         "url": "https://open.spotify.com/album/5CFrLSHTPFhnHCkxZdlH29"
       },
       "artists": [
@@ -232,7 +268,7 @@
       ],
       "date_added": "2019-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 310600,
       "name": "Going Up Yonder",
       "url": "https://open.spotify.com/track/477kgQbTTs9CSEJAZL9e9j"
@@ -504,7 +540,7 @@
     {
       "album": {
         "name": "More Of The Best",
-        "url": "https://open.spotify.com/album/3Jgzx5IVMczCsxa0LfEH6U"
+        "url": "https://open.spotify.com/album/0bN1BUgEmjeqHcP5IwBLKT"
       },
       "artists": [
         {
@@ -515,6 +551,24 @@
       "date_added": "2019-02-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 285560,
+      "name": "Soon and Very Soon",
+      "url": "https://open.spotify.com/track/1aVd1n3zBkk3jq5sHKg0OJ"
+    },
+    {
+      "album": {
+        "name": "More Of The Best",
+        "url": "https://open.spotify.com/album/3Jgzx5IVMczCsxa0LfEH6U"
+      },
+      "artists": [
+        {
+          "name": "Andrae Crouch",
+          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
+        }
+      ],
+      "date_added": "2019-02-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
       "duration_ms": 285560,
       "name": "Soon and Very Soon",
       "url": "https://open.spotify.com/track/1jgB4xgmPJhG6qTfAsZH6O"

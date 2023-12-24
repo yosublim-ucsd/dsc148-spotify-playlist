@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > A collection of music from voice actors/ actresses in Japan./ 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。Cover: アイドルマスター × ラブライブ！<br/>THE IDOLM@STER™& ©BNEI<br/>©2017 PL!S ©2022 PL!N ©2022 PL!SP ©PL!HS
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,655 likes - 55 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,660 likes - 55 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 54 | [ユエニ](https://open.spotify.com/track/5AxlHHMzmLOA2NGwHVn6UO) | [Shiina Natsukawa](https://open.spotify.com/artist/1fkqRIgZFVQAsJT6D8L3JZ) | [ユエニ](https://open.spotify.com/album/0Gw7u3wZq0OW4cENnMw1fs) | 3:23 |
 | 55 | [ENDLESS LABYRINTH](https://open.spotify.com/track/2jtA0PU9bCmIuUCDxVoNFC) | [EverdreaM](https://open.spotify.com/artist/41NSrch5W6mvr9t0I8oeG5) | [ENDLESS LABYRINTH](https://open.spotify.com/album/2ZD2G7ou2ascCvgLX2DM6H) | 3:20 |
 
-Snapshot ID: `MCxiZjBjMGRkNjFkMDkxZDRkMTFjMmY5NTRlMjcwMjlhODA3Njk5ZDg5`
+Snapshot ID: `MCxmZjgxMzllYTNkZTA4NzYzMDhjMmFlZDQ3ZmUxOGM0ZTQ5MmNkOTYz`

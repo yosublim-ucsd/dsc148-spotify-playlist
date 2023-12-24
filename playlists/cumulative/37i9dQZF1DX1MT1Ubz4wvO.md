@@ -4,7 +4,7 @@
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Chabelos en portada.
 
-2,090 songs - 5 day 3 hr 11 min
+2,091 songs - 5 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1415,6 +1415,7 @@
 | [Nuevo Plano \- Edit](https://open.spotify.com/track/0UYjgrserr0woE9YOQeBiL) | [Supersilverhaze](https://open.spotify.com/artist/4cPXaZbAOwMwldGjjP8hgw) | [Nuevo Plano \(Edit\)](https://open.spotify.com/album/3JbIbnNfxrR1hkTgpLDumk) | 5:02 | 2022-08-19 | 2022-09-03 |
 | [Nuevo Sol](https://open.spotify.com/track/4P93RGykKT4jtC6iLWe93d) | [Mint Field](https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz) | [Nuevo Sol](https://open.spotify.com/album/6a9YMpO0LboO1TmUrrxoVc) | 3:55 | 2023-10-06 | 2023-10-21 |
 | [Nuevos miedos](https://open.spotify.com/track/3bHZ80BbfY9cpXgOnZrlnX) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Nuevos miedos \- Nadie va a decidir por vos](https://open.spotify.com/album/0PxQldH41ENWpTMyX3buKN) | 2:20 | 2023-08-04 | 2023-08-26 |
+| [Nunca Llegará](https://open.spotify.com/track/4no3QkaiQRPr1PbgO59tR6) | [Hvmvn](https://open.spotify.com/artist/5N7su4LJtkVQVRBFq9wrIp) | [Nunca Llegará](https://open.spotify.com/album/4rBbgslFLo0K34U9HXeg2w) | 3:03 | 2023-12-22 |  |
 | [Nunca Me Olvides](https://open.spotify.com/track/6qgeegOWKV7QJB1cDmw3Rs) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj) | [Melodramática](https://open.spotify.com/album/2r5PTXzkdDw9H6vkxRd8Ef) | 4:08 | 2023-04-28 | 2023-05-13 |
 | [Nunca Me Voy a Ir](https://open.spotify.com/track/5IKIuPYuH1tnRFXrQ003VG) | [MIKI](https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss), [Niza Buenrostro](https://open.spotify.com/artist/5UgD3jrxzwsJywYScFRIS9) | [Nunca Me Voy a Ir](https://open.spotify.com/album/67YPCFbxBiQQNujPVpVOUS) | 2:31 | 2022-08-12 | 2022-08-20 |
 | [Nunca Máis](https://open.spotify.com/track/1cW1iqc3IOGbuJOy7EBTPX) | [Sinestesia](https://open.spotify.com/artist/5p4TrwDQQcCgNpTXYLlzr9) | [Nunca Máis](https://open.spotify.com/album/7JudLQI22Yvlj1Utn625Qy) | 3:26 | 2022-11-18 | 2022-12-03 |

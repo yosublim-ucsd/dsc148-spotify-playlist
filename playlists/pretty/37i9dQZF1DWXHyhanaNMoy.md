@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion, fissa & good vibes! Cover: Wizkid
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,434 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,451 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 5 | [Rashel](https://open.spotify.com/track/4OXR2xcqJiLIjAtzEdbauW) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Rashel](https://open.spotify.com/album/6R3uElG5fC3jt31MsyLeT2) | 2:56 |
 | 6 | [Seya](https://open.spotify.com/track/5EVY9jwZDhgyLDyNGCGWYh) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Seya](https://open.spotify.com/album/2VJcmi0iisyLekBIgoKKvw) | 3:08 |
 | 7 | [AH TXE TXE](https://open.spotify.com/track/79wWpQPAcfqEeYCDjqGOVY) | [GIANT](https://open.spotify.com/artist/2YPBmmwBWiFzpoae8JQXIR), [TYSON](https://open.spotify.com/artist/4AMWsRQg1bTvWflaYNq713), [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN) | [AH TXE TXE](https://open.spotify.com/album/295XHZuwcQXO0iKMEdeiio) | 2:16 |
-| 8 | [Basshall Session \#3](https://open.spotify.com/track/1A9C5UhP7LocWVO5ycWsLb) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x) | [Basshall Session \#3](https://open.spotify.com/album/5VUd2RpxoXyxGehYhO7AVn) | 2:34 |
+| 8 | [Basshall Session \#3](https://open.spotify.com/track/1A9C5UhP7LocWVO5ycWsLb) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8) | [Basshall Session \#3](https://open.spotify.com/album/5VUd2RpxoXyxGehYhO7AVn) | 2:34 |
 | 9 | [Via Via](https://open.spotify.com/track/71cXfWMNxBwSMYGSrPDfzx) | [Zefanio](https://open.spotify.com/artist/7KcUsF4LyLu0SIhmwvNSmM) | [Via Via](https://open.spotify.com/album/21QkfqGDiAq5hNv2shTL7w) | 2:11 |
 | 10 | [Pushen Iets \(feat\. Bizzey & Ashafar\)](https://open.spotify.com/track/2ax89z0KqWv4IslM6dszGt) | [Kosso](https://open.spotify.com/artist/6j2HGKxQpvoTFC5UCDq5mb), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU) | [Fase 2](https://open.spotify.com/album/2NKtOOuvJ7kxvogIMhUE60) | 2:18 |
 | 11 | [Sugah](https://open.spotify.com/track/08oGGbJdw1U7R7sChmNvnh) | [Rhema & Bethel](https://open.spotify.com/artist/2mhQjvqnRV83cj1G1b8ToN) | [Sugah](https://open.spotify.com/album/7kvig7acSHFEeSMN6KMUGR) | 2:38 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 59 | [Betta Guy](https://open.spotify.com/track/0GoMbFiHdaeI5iHiu2DjaD) | [2mochh](https://open.spotify.com/artist/0Rco3YiEW2pB9JGHeVhLJk) | [Betta Guy](https://open.spotify.com/album/1Q5PCsixXRAAof0kGQQemA) | 2:18 |
 | 60 | [Wine](https://open.spotify.com/track/7fkcuw6dSm4qj3qpQDcZBk) | [ValsBezig](https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4) | [Wine](https://open.spotify.com/album/086H49iD9n9AmVmH0S3Gns) | 3:17 |
 
-Snapshot ID: `MCwyZTU4Nzg5ZTIyZDVmZTIyOTg2ZWU0MGUyYzExY2FjY2YwYjk4OTNl`
+Snapshot ID: `MCxiZTQ4ODE3ZTA5ODdhYTk5NjI4ZjQwMTU3ODYyMjg0OGQ0ZGU0ODU5`

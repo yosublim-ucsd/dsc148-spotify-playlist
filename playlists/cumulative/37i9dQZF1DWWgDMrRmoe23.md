@@ -4,7 +4,7 @@
 
 > "because it's funny" \- Thundercat\. Welcome to mixtape, a curator's playground.
 
-28 songs - 1 hr 37 min
+29 songs - 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Omae Wa Mou](https://open.spotify.com/track/2BgzdxU4uN5Ns8yM2rlLHa) | [deadman 死人](https://open.spotify.com/artist/1IAIRAvJCUc01U0doDVKN9) | [Omae Wa Mou](https://open.spotify.com/album/0I7eyplxZyuNEg2haitWIf) | 1:53 | 2023-07-20 | 2023-08-13 |
 | [Omae Wa Mou](https://open.spotify.com/track/79G2ITmSiJLeNe9NbDeJMk) | [deadman 死人](https://open.spotify.com/artist/1IAIRAvJCUc01U0doDVKN9) | [Omae Wa Mou](https://open.spotify.com/album/6KTdztObe5nfnzQ6xLtDNb) | 1:53 | 2023-07-20 |  |
 | [Omae Wa Mou](https://open.spotify.com/track/0NckjJeevRkkomP38oh5Zw) | [Svaroda](https://open.spotify.com/artist/1YUK10AQJ4lPfRd9LOnEpz), [Hasan Ceddi](https://open.spotify.com/artist/7zbjgtGBKbRKNyr8EzWCbH) | [Omae Wa Mou](https://open.spotify.com/album/2tlxiEF7Q9nGc7EIX64Syu) | 1:53 | 2023-07-20 | 2023-08-11 |
-| [Pokémon Theme](https://open.spotify.com/track/3OIHgTyQdiAGMmpjQaNxp3) | [Pokémon](https://open.spotify.com/artist/6goK4KMSdP4A8lw8jk4ADk) | [Pokemon \- 2.b.a\. Master \- Music From The Hit Tv Series](https://open.spotify.com/album/4R0boGQyiCUt3i7pAKCitR) | 3:18 | 2023-07-20 |  |
+| [Pokémon Theme](https://open.spotify.com/track/3OIHgTyQdiAGMmpjQaNxp3) | [Pokémon](https://open.spotify.com/artist/6goK4KMSdP4A8lw8jk4ADk) | [Pokemon \- 2.b.a\. Master \- Music From The Hit Tv Series](https://open.spotify.com/album/4R0boGQyiCUt3i7pAKCitR) | 3:18 | 2023-07-20 | 2023-12-24 |
+| [Pokémon Theme](https://open.spotify.com/track/5m5uvPjQT3Md5GKK3qyaXy) | [Pokémon](https://open.spotify.com/artist/6goK4KMSdP4A8lw8jk4ADk) | [Pokemon \- 2.b.a\. Master \- Music From The Hit Tv Series](https://open.spotify.com/album/3n86RctzbnrGY599Vo0fhg) | 3:18 | 2023-07-20 |  |
 | [River Man](https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:18 | 2023-07-20 |  |
 | [Rock N Roll McDonalds](https://open.spotify.com/track/190l7oYBQe6JBsWPJM2uNN) | [Wesley Willis](https://open.spotify.com/artist/50yovZJnAHoy0pBruvFaCR) | [Greatest Hits Volume 1](https://open.spotify.com/album/4Zt5GnqGEzomd4rKBr3cWR) | 2:26 | 2023-07-20 |  |
 | [Shells \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/2VAy62WE92X27A7QKvZ1Gd) | [Shabazz PBG](https://open.spotify.com/artist/4P5Fg5v3z8uDl7NyzDWGVp), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Shells \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/6NwhzlSjjHY6shbY3Hw27x) | 3:37 | 2023-07-20 |  |

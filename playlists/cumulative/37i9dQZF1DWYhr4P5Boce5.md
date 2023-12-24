@@ -4,7 +4,7 @@
 
 > Songs of faith, hope, and the greatest of these, love.
 
-147 songs - 8 hr 47 min
+148 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Amor De Telenovela](https://open.spotify.com/track/0LzGLoA82RIcGUEfbGQe47) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Townix](https://open.spotify.com/artist/4iSbdQ17ULxAugOFOC5Bx2) | [Dosis](https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR) | 4:10 | 2023-01-31 |  |
 | [Angel](https://open.spotify.com/track/7qO1aodqqumMLHFybn0AvP) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Come To The Well](https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze) | 3:44 | 2020-04-17 |  |
 | [Another Song About Love](https://open.spotify.com/track/5EMZ2HoaszF9GZBMy2arss) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Enough Already](https://open.spotify.com/album/66BLSGfKnG5NnDZGiBstco) | 3:11 | 2023-01-31 |  |
-| [Baby Will You Love Me](https://open.spotify.com/track/6QmzY6tIE1CH1OvATYveSr) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [Baby Will You Love Me](https://open.spotify.com/album/2w38sOFtpwryYpMROouND9) | 3:33 | 2023-01-31 |  |
+| [Baby Will You Love Me](https://open.spotify.com/track/6QmzY6tIE1CH1OvATYveSr) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [Baby Will You Love Me](https://open.spotify.com/album/2w38sOFtpwryYpMROouND9) | 3:33 | 2023-01-31 | 2023-12-24 |
 | [Band of Gold // Summer Sessions](https://open.spotify.com/track/3LOJIVOfwVfbeflndxQx3j) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Band of Gold // Summer Sessions](https://open.spotify.com/album/5has36k6H1PClwTsdEhSKU) | 3:28 | 2023-01-31 |  |
 | [Beautiful](https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [A Little Crazy](https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0) | 3:18 | 2023-01-31 |  |
 | [Beautiful \(feat\. India.Arie\)](https://open.spotify.com/track/1P5jyUv4YzTUWTorHAQjgf) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Beautiful](https://open.spotify.com/album/4cb9hipQR0owfDfjieuOsb) | 3:46 | 2023-01-31 |  |
@@ -21,7 +21,7 @@
 | [Beautiful Soul](https://open.spotify.com/track/4gxT7DX1NVig7cnQBhSmiM) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 2](https://open.spotify.com/album/4TLmOaKZJL0Hk6KBd2c8Jj) | 3:36 | 2020-04-17 | 2022-07-29 |
 | [Better](https://open.spotify.com/track/1WvgGT8Q4uIdrY7KQgVNnz) | [Royce Lovett](https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N), [Canon](https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq) | [Better](https://open.spotify.com/album/4MU9KSElQSxRfRcNAL83An) | 2:53 | 2023-01-31 | 2023-02-08 |
 | [Big Ole Love](https://open.spotify.com/track/1CX3zLl6r7KJpzzO1Ckulv) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Who Knew \(Vol\. 1\)](https://open.spotify.com/album/5yStb9FTFvAkY2TJ8NKkWN) | 3:50 | 2020-04-17 | 2022-07-29 |
-| [Big Ole Love](https://open.spotify.com/track/2i2ifLGv9NBaMLhCSRF6eM) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Who Knew It Would Be So Hard to Be Myself](https://open.spotify.com/album/6eBJuL3GwpgThGG4PIyqnh) | 3:50 | 2020-04-17 | 2023-12-10 |
+| [Big Ole Love](https://open.spotify.com/track/2i2ifLGv9NBaMLhCSRF6eM) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Who Knew It Would Be So Hard to Be Myself](https://open.spotify.com/album/6eBJuL3GwpgThGG4PIyqnh) | 3:50 | 2020-04-17 |  |
 | [Bless The Broken Road](https://open.spotify.com/track/07M8OzJz2u11i4PeXs0iKu) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [Bless The Broken Road \(The Duets Album\)](https://open.spotify.com/album/4hzXCIFqlFGPbgeNoiD05G) | 4:10 | 2020-04-17 | 2022-07-29 |
 | [Bless The Broken Road](https://open.spotify.com/track/1lPGxDeTa2v3DKeWL1f1Ov) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE), [Melodie Crittenden](https://open.spotify.com/artist/6s3tqNqbkLcivxsw9Bjvfh) | [Bless The Broken Road \(The Duets Album\)](https://open.spotify.com/album/4t6Q5lmd8qMlAodBDrHXvZ) | 4:10 | 2020-04-17 |  |
 | [Bless The Broken Road](https://open.spotify.com/track/5Fy6J74jVV1skR9rsOzoqE) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE), [Melodie Crittenden](https://open.spotify.com/artist/6s3tqNqbkLcivxsw9Bjvfh) | [Timeless: The Selah Music Collection](https://open.spotify.com/album/2k6RX4wf7ugNg7wsZ6CZw7) | 4:10 | 2020-04-17 | 2022-11-13 |
@@ -105,7 +105,8 @@
 | [Midwest Magic](https://open.spotify.com/track/3NDDJKePW2oFn9mP2JWyo6) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Heartland](https://open.spotify.com/album/10INpN8kO8dltcAhRMDO0d) | 3:43 | 2020-04-17 |  |
 | [More Than Me](https://open.spotify.com/track/3rwKMppuXXBCgiUX5oXVI6) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [More Than Me](https://open.spotify.com/album/69MD2GpLPj3eDGaLu2cagD) | 3:31 | 2023-01-31 | 2023-06-01 |
 | [More Than Me](https://open.spotify.com/track/6TJJNHvXSlYzGFSHC5MVha) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [White Buffalo](https://open.spotify.com/album/3fZ3XCeb1byqYJSJrgOAMI) | 3:31 | 2023-01-31 |  |
-| [Oh How I Love You \- R&B Version](https://open.spotify.com/track/2VWk3KtFYWNskD0s7DZe6c) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Oh How I Love You](https://open.spotify.com/album/4t6Gjzb1wkmhslC7mGbqUr) | 3:53 | 2023-01-31 |  |
+| [Oh How I Love You \- Bonus Track](https://open.spotify.com/track/6ptxOhVrMIMLVXfzEJOWrn) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Imprint \(Live in Memphis\)](https://open.spotify.com/album/2J5NM9D4nvG4qyqVxRyuGk) | 3:52 | 2023-01-31 |  |
+| [Oh How I Love You \- R&B Version](https://open.spotify.com/track/2VWk3KtFYWNskD0s7DZe6c) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Oh How I Love You](https://open.spotify.com/album/4t6Gjzb1wkmhslC7mGbqUr) | 3:53 | 2023-01-31 | 2023-12-24 |
 | [Only One](https://open.spotify.com/track/1iAqQMUVtp5E1EYJkqZw2g) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [NF](https://open.spotify.com/album/2cMXPk9NsWWnawWxa3SSUf) | 3:34 | 2020-04-17 |  |
 | [Perfect Love](https://open.spotify.com/track/3GnOOXcTykwVEoxTz2rF8u) | [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Perfect Love](https://open.spotify.com/album/28WgOahB2gvQUOZAOW6NVd) | 3:21 | 2023-01-31 |  |
 | [Perfectly Loved](https://open.spotify.com/track/6YNdJX3lhmo0u8j293HaAM) | [Rachael Lampa](https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Perfectly Loved](https://open.spotify.com/album/3hSPfcqoL3BUTEKZjonyZh) | 3:23 | 2023-01-31 |  |

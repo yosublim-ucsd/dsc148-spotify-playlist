@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PhKVl4Zniv.md) - [plain]
 
 > So you think you got pocket? Cover: Nate Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,900 likes - 67 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,930 likes - 67 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PhKVl4Zniv.md) - [plain]
 | 9 | [Bad Kids To The Back](https://open.spotify.com/track/3nvREfeASA91U3atMsVO3H) | [Snarky Puppy](https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1) | [Immigrance](https://open.spotify.com/album/6a1HtLhd3zNccXRNUZ23ge) | 5:45 |
 | 10 | [NOT TiGHT](https://open.spotify.com/track/0qZcBeIKskV61K1ekFJcar) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [NOT TiGHT](https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j) | 4:08 |
 | 11 | [Snake Soda](https://open.spotify.com/track/3CzE9dKwc3twdA6jFnytCY) | [Steve Smith](https://open.spotify.com/artist/7pnpCbCBCIHvkCqrXSib0z), [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn), [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [Vital Techtones](https://open.spotify.com/album/6d7fOKSVvPBoTVIWPJB2Ed) | 5:35 |
-| 12 | [Wait A Minute](https://open.spotify.com/track/6TqbMfB2VZZV7lYVvZ9Svz) | [Sputacular Musik](https://open.spotify.com/artist/5X6pw8kNCiEnYrbOsEtL3V), [Ghost\-Note](https://open.spotify.com/artist/55BOGnEb0pUuAgbxAwwbKV), [Nathan Myers](https://open.spotify.com/artist/3SUDpDWciyH7J2YDDrQ56L), [Ash Soan](https://open.spotify.com/artist/1h6ejHdCo3lZxdfBnmYQgD) | [Wait A Minute](https://open.spotify.com/album/0bafe91fdkJPbIG8netbca) | 5:23 |
+| 12 | [Wait A Minute](https://open.spotify.com/track/5mAOX1T6kmjbDKMumDAyvD) | [Sputacular Musik](https://open.spotify.com/artist/5X6pw8kNCiEnYrbOsEtL3V), [Ghost\-Note](https://open.spotify.com/artist/55BOGnEb0pUuAgbxAwwbKV), [Nathan Myers](https://open.spotify.com/artist/3SUDpDWciyH7J2YDDrQ56L), [Ash Soan](https://open.spotify.com/artist/1h6ejHdCo3lZxdfBnmYQgD) | [Wait A Minute](https://open.spotify.com/album/1GbXsYnBMGrRvRcvvSGZ48) | 5:23 |
 | 13 | [One Day](https://open.spotify.com/track/1QJuEcbNibz1gw7YL96xwn) | [Yellowjackets](https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [Jackets XL](https://open.spotify.com/album/3OeeKfK9hNDe57rF9FVI7u) | 6:32 |
 | 14 | [Cosmic Joke](https://open.spotify.com/track/0BYFyT7cyrW02iepYptA2L) | [Tal Wilkenfeld](https://open.spotify.com/artist/3XzPQsdtlMMHxKERG8a1Bu) | [Transformation](https://open.spotify.com/album/07f02dGYUGK8zYZx9m1qcS) | 6:25 |
 | 15 | [Hard\-Wired](https://open.spotify.com/track/55ItYh50tubp0w8jSbr6sj) | [Dave Weckl](https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw) | [Hard\-Wired](https://open.spotify.com/album/7zJPWOGX9SdA0HSkZD5qmS) | 4:03 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PhKVl4Zniv.md) - [plain]
 | 66 | [Schizophrenic](https://open.spotify.com/track/1LJGpXcyLRgdaq2x5WpqCc) | [Oz Noy](https://open.spotify.com/artist/0AM6acfaheGmY5egsH0shd), [Will Lee](https://open.spotify.com/artist/4yfYzng7htuuRXosAJYtun), [Anton Fig](https://open.spotify.com/artist/5xeqgtq9Fkg7XBHuPEm9pf), [Keith Carlock](https://open.spotify.com/artist/1YWzPk73P8Qa1sHvlBEadR), [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM), [Ricky Peterson](https://open.spotify.com/artist/1SB2erkfFBYuaaQLuFmNLk) | [Schizophrenic](https://open.spotify.com/album/2HWoSy3RtGX0KzDWGtMY6e) | 7:12 |
 | 67 | [When the Cat's Away](https://open.spotify.com/track/4MbNQBtfQlIwVrU48IelTS) | [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy), [Ernest Tibbs](https://open.spotify.com/artist/2IZegJTs1JKp5ymiufjYeD), [Otmaro Ruiz](https://open.spotify.com/artist/1FWrmABS5NEpmqdsHfXj2N), [Jacob Scesney](https://open.spotify.com/artist/4mjIZ1lfDoQsRv2wJT6Ojr), [Alex Sill](https://open.spotify.com/artist/77ggULPl8qUaf8MubyoFLs) | [Protocol V](https://open.spotify.com/album/6K7GPOwmyHmGgu6J4g0ASl) | 6:12 |
 
-Snapshot ID: `MCxjNjcyOGE3NjViYmFlYmU4NTlhNGY4NTk5MDQ1NzY4OWUyZjU2ZjFl`
+Snapshot ID: `MCw4N2ViYmUzZjVlN2ZmNzRjODc0NzNjMjU4MDFiMGM5Y2Q0NjBlZjMx`

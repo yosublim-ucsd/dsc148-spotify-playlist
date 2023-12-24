@@ -4,7 +4,7 @@
 
 > Uplifting and upbeat Jazz to get you in a good mood.
 
-159 songs - 13 hr 24 min
+160 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,8 +117,9 @@
 | [On The Sunny Side Of The Street](https://open.spotify.com/track/4BDJyHyvzdFDh7udlg8lDq) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Decca Singles 1949\-1958](https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1) | 4:30 | 2022-01-19 | 2022-08-31 |
 | [Opus De Funk](https://open.spotify.com/track/3tj4JjIIW5gaQ6yi6Qmr9j) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Art Pepper + Eleven: Modern Jazz Classics](https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ) | 3:12 | 2022-03-04 |  |
 | [Perdido](https://open.spotify.com/track/098hhwrTcsdOKOC9Gj78Ny) | [Jacob Simon Band](https://open.spotify.com/artist/7yL2fjTgT0Cdfefm5GH0ov) | [Relaxin' At Camarillo](https://open.spotify.com/album/1IshZ9kI4vuCyCUCXsltwE) | 3:22 | 2021-12-17 | 2022-03-05 |
-| [Perhaps](https://open.spotify.com/track/6mBbcbDpY47Yp6PGTBwKBE) | [Aaron Goldberg](https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma) | [The Now](https://open.spotify.com/album/0qoyZFWXV1mXquUUvYOrjQ) | 5:17 | 2022-06-29 |  |
+| [Perhaps](https://open.spotify.com/track/6mBbcbDpY47Yp6PGTBwKBE) | [Aaron Goldberg](https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma) | [The Now](https://open.spotify.com/album/0qoyZFWXV1mXquUUvYOrjQ) | 5:17 | 2022-06-29 | 2023-12-24 |
 | [Perhaps](https://open.spotify.com/track/1L4JlMb7e6bV20nHjxuVg9) | [Aaron Goldberg](https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma) | [The Now](https://open.spotify.com/album/6EcJ7bR7B5JWBxbl70eOo4) | 5:17 | 2021-12-17 | 2022-07-29 |
+| [Perhaps](https://open.spotify.com/track/34EOHzJsPe7P2r3QqsaBrE) | [Aaron Goldberg](https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma) | [The Now](https://open.spotify.com/album/69Gu5J2EtrqXQKCdpYqvjK) | 5:17 | 2023-12-20 |  |
 | [Play Ray](https://open.spotify.com/track/0CaMKN4Fu6WKHBW38JazrY) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Blues Walk](https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk) | 5:31 | 2021-12-17 |  |
 | [Pour Qui Pourquoi](https://open.spotify.com/track/08QqsW8X9jG2EfZX5rA5FY) | [La La Lars](https://open.spotify.com/artist/4OIW2CNYqaBZ50PrqcNpyg) | [La La Lars III](https://open.spotify.com/album/67KjDm9srNlbNjEzXysMc9) | 4:48 | 2021-12-17 | 2022-06-01 |
 | [Relaxin' with Nick](https://open.spotify.com/track/72WMLhzElYiDPqCf3LbCCx) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Relaxin' with Nick](https://open.spotify.com/album/5KfHqTrCiKqyDiigUkiDST) | 7:39 | 2021-12-17 | 2022-05-25 |

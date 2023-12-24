@@ -4,7 +4,7 @@
 
 > Nominated songs & artists for the 54th Annual GMA <a href="https://doveawards.com/">Dove Awards.</a> Tune in to the awards on Friday, 10/20/23 at 8 pm and 10 pm ET exclusively on TBN & the TBN app! Cover: Host <a href="spotify:artist:3SKza3YPBri1k43LB1Tqy4">Tauren Wells<a>
 
-134 songs - 10 hr 10 min
+137 songs - 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [I Made It](https://open.spotify.com/track/7bey89Yx1lmLzsyMODzXLR) | [Maranda Curtis](https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502) | [The Maranda Experience Volume 2](https://open.spotify.com/album/0H1Yp30x5t0Kw7oYuwYdK8) | 5:29 | 2021-08-24 | 2023-09-27 |
 | [I Need A Ghost](https://open.spotify.com/track/0qQZ7uixVxEkXUsfyg5Ipg) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles](https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW) | 3:39 | 2021-08-24 | 2023-09-27 |
 | [I Need You](https://open.spotify.com/track/6tEwJ2T1qmrJquueWIss4H) | [The Walls Group](https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV) | [Four Walls](https://open.spotify.com/album/2vzCyDyMFuc7p46Tuv2E69) | 4:12 | 2023-09-26 |  |
-| [I Still Have You](https://open.spotify.com/track/21ksdeytHBlKH3coDrDud9) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [I Still Have You](https://open.spotify.com/album/2de2aejtRsBb5cbnZB5Orc) | 4:14 | 2023-09-26 |  |
+| [I Still Have You](https://open.spotify.com/track/21ksdeytHBlKH3coDrDud9) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [I Still Have You](https://open.spotify.com/album/2de2aejtRsBb5cbnZB5Orc) | 4:14 | 2023-09-26 | 2023-12-24 |
+| [I Still Have You](https://open.spotify.com/track/6ungnRr8B5ZetjVy3KnlVs) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [I Still Have You](https://open.spotify.com/album/22Dhwmk1vEUU8G5keHdfBo) | 4:14 | 2023-09-26 |  |
 | [I'm So Blessed \- Best Day Remix](https://open.spotify.com/track/5XGniDG0zvebIt0KEBAvsO) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [I'm So Blessed \(Best Day Remix\)](https://open.spotify.com/album/2nEqaszg9INfykzHCSVY4P) | 2:55 | 2023-09-26 |  |
 | [If God Pulled Back The Curtain](https://open.spotify.com/track/2Rk4cVGZ4MM2y7ClZFtaOM) | [The Nelons](https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn) | [Peace At Last](https://open.spotify.com/album/1PATvPSNkCt3CP5J31PjWx) | 3:26 | 2021-08-24 | 2023-09-27 |
 | [Impossible](https://open.spotify.com/track/7vqC1Vkr5f9a7CylkjUkPW) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS), [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH) | [Impossible](https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai) | 3:53 | 2023-09-26 |  |
@@ -140,7 +141,9 @@
 | [Who Am I](https://open.spotify.com/track/1KKTKUFmFLZmEhbUyj47jN) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Out of Body](https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf) | 3:27 | 2021-08-24 | 2023-09-27 |
 | [Wonderful Is Your Name](https://open.spotify.com/track/6IH3XfSDOaVknLHhsIvyuX) | [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK) | [I've Got a Testimony](https://open.spotify.com/album/16lH0UDiWWT9aXaM7ZJKDJ) | 3:12 | 2021-08-24 | 2023-09-27 |
 | [You Get The Glory](https://open.spotify.com/track/0BhYHmteTasqTgZa3V5G0h) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [The Unknown](https://open.spotify.com/album/4GWFRVkdDScIAH8tLQOGd6) | 3:52 | 2021-08-24 | 2023-09-27 |
-| [You've Been Good To Me](https://open.spotify.com/track/47LXr7hfD8RH5XRfv4H0Xn) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [You've Been Good To Me \(Live\)](https://open.spotify.com/album/764vdwQtEh3vgEIjjFkoWS) | 3:39 | 2023-09-26 |  |
-| [Your World](https://open.spotify.com/track/20jjnFUWd4yMOgJP8QpEwu) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [My Truth](https://open.spotify.com/album/0JjHp7nS2lKkwalcUyrWFn) | 3:16 | 2023-09-26 |  |
+| [You've Been Good To Me](https://open.spotify.com/track/47LXr7hfD8RH5XRfv4H0Xn) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [You've Been Good To Me \(Live\)](https://open.spotify.com/album/764vdwQtEh3vgEIjjFkoWS) | 3:39 | 2023-09-26 | 2023-12-24 |
+| [You've Been Good To Me](https://open.spotify.com/track/6HzdxD1EN5h3PNZKlSS17B) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [You've Been Good To Me \(Live\)](https://open.spotify.com/album/7Her8W2wFMHeYoJVaKKxUb) | 3:39 | 2023-09-26 |  |
+| [Your World](https://open.spotify.com/track/20jjnFUWd4yMOgJP8QpEwu) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [My Truth](https://open.spotify.com/album/0JjHp7nS2lKkwalcUyrWFn) | 3:16 | 2023-09-26 | 2023-12-24 |
+| [Your World](https://open.spotify.com/track/7yOQN3WpoLdVpUt1tDZ9mb) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [My Truth](https://open.spotify.com/album/07zEDWrPhqROuygaSwVTHm) | 3:16 | 2023-09-26 |  |
 
 \*This playlist was first scraped on 2022-09-15. Prior content cannot be recovered.

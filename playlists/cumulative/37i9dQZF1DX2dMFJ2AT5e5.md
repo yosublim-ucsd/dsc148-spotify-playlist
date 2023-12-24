@@ -4,7 +4,7 @@
 
 > Un vibe tranqui para que disfrutes de tu espacio.
 
-86 songs - 4 hr 32 min
+87 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [The Only Thing](https://open.spotify.com/track/17UVxL0MYEmKzXppfUL5in) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 4:44 | 2021-07-16 |  |
 | [Thinking Of](https://open.spotify.com/track/4HSy0FUJ0HbwkPiT4PKQnj) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Marta](https://open.spotify.com/artist/0yz9lVc98Tji7yjwkUe7l7) | [Fall to Pieces](https://open.spotify.com/album/6In2HeTX6Web6mNHcamTOO) | 2:11 | 2021-07-16 |  |
 | [This Side](https://open.spotify.com/track/6AWiNYnZr2ManxWXXCQU8D) | [Marrón](https://open.spotify.com/artist/1uC16BtFc6ihhylNzDo4x5) | [This Side](https://open.spotify.com/album/3gi2t260tI4hlNSycSUNcG) | 5:05 | 2021-07-16 |  |
-| [Thunder](https://open.spotify.com/track/0cGiNZa8d20rYlfPWDon6y) | [Boltri](https://open.spotify.com/artist/6LI9eW5AQmtBIxJklvPvBa), [Boltron](https://open.spotify.com/artist/0HOmnaKrkwTfGXXXy4D2rT), [Holy Pig](https://open.spotify.com/artist/5noU5w3Au49jwWgCXih5IE) | [Thunder](https://open.spotify.com/album/66RptozVJ3MfW05VONQ8NE) | 2:57 | 2021-07-16 |  |
+| [Thunder](https://open.spotify.com/track/0cGiNZa8d20rYlfPWDon6y) | [Boltri](https://open.spotify.com/artist/6LI9eW5AQmtBIxJklvPvBa), [Boltron](https://open.spotify.com/artist/0HOmnaKrkwTfGXXXy4D2rT), [Holy Pig](https://open.spotify.com/artist/5noU5w3Au49jwWgCXih5IE) | [Thunder](https://open.spotify.com/album/66RptozVJ3MfW05VONQ8NE) | 2:57 | 2021-07-16 | 2023-12-24 |
+| [Thunder](https://open.spotify.com/track/7erUqAP6IGMSJa9XgSGwss) | [Holy Pig](https://open.spotify.com/artist/5noU5w3Au49jwWgCXih5IE), [Boltri](https://open.spotify.com/artist/6LI9eW5AQmtBIxJklvPvBa), [Boltron](https://open.spotify.com/artist/0HOmnaKrkwTfGXXXy4D2rT) | [Thunder](https://open.spotify.com/album/3aRvgC66IVGadXG0KkLa2z) | 2:57 | 2021-07-16 |  |
 | [Today](https://open.spotify.com/track/2M605uHCPSyTuiWhplewX1) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Siamese Dream](https://open.spotify.com/album/0ru8LiiyWfkrHIqh0nSUTA) | 4:15 | 2021-07-16 |  |
 | [Top Floor](https://open.spotify.com/track/0kkPb1GxoOzsP2sNJ84284) | [Rudy Boy](https://open.spotify.com/artist/3oAXW0WYR5lFZdx62Vr8OM) | [Top Floor](https://open.spotify.com/album/1CUXhnhbVw2S6Y94HCv5Gu) | 1:46 | 2021-07-16 |  |
 | [Torch Song](https://open.spotify.com/track/28l122zrGEGeQtpB6v8Ev2) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [Torch Song](https://open.spotify.com/album/0AgXsf94oHMjniz8qk4vqq) | 2:30 | 2021-07-16 |  |

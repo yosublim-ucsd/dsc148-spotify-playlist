@@ -4462,10 +4462,32 @@
       ],
       "date_added": "2022-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 200393,
       "name": "Wheels Up",
       "url": "https://open.spotify.com/track/46By0NR1h14uaYIQ21U9rn"
+    },
+    {
+      "album": {
+        "name": "Wheels Up",
+        "url": "https://open.spotify.com/album/2Y7QaFILwkGntXl2kMpz0v"
+      },
+      "artists": [
+        {
+          "name": "BamBam",
+          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
+        },
+        {
+          "name": "Mayzin",
+          "url": "https://open.spotify.com/artist/52bD0lfgcUwxbQMrCrYMRd"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200393,
+      "name": "Wheels Up",
+      "url": "https://open.spotify.com/track/6EIPwNizGzlytC9Mon0L12"
     },
     {
       "album": {

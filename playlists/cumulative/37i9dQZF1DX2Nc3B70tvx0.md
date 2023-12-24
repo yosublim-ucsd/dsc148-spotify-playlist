@@ -4,7 +4,7 @@
 
 > New music from Adrianne Lenker, Sjowgren, Real Estate and more...
 
-1,931 songs - 4 day 20 hr 9 min
+1,933 songs - 4 day 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [anotherlife](https://open.spotify.com/track/4ydCaKmqhbTPCMl7tb8TnR) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [anotherlife](https://open.spotify.com/album/1S1ni6UGY99ajlkItmtTqs) | 3:23 | 2022-02-25 | 2022-04-09 |
 | [Ant Pile](https://open.spotify.com/track/6OrCWnvAja4n5IYdzchJlH) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 2:06 | 2023-07-13 | 2023-07-21 |
 | [Anti\-glory](https://open.spotify.com/track/7fDPgekQGJKkyyqjuhtNSG) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Anti\-glory](https://open.spotify.com/album/64rQzBshwp5tyR7ExhJaAk) | 3:30 | 2022-03-18 | 2022-04-21 |
+| [Anyone But You](https://open.spotify.com/track/4faTuWPQeMo24zvuTDre3c) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Anyone But You](https://open.spotify.com/album/2viPAytIOe7TjMOITmmWav) | 2:56 | 2023-12-23 |  |
 | [Anything](https://open.spotify.com/track/1aivQYasJmmwGdehh0Ny8L) | [Frankie Rose](https://open.spotify.com/artist/44mVqYPHmFgrDJxv6CWrOo) | [Anything](https://open.spotify.com/album/5kbnVR8c9PjF88P4GtAGqj) | 3:44 | 2023-01-20 | 2023-01-28 |
 | [Anything But Me](https://open.spotify.com/track/32JZt8EmiioCGTU6UIXJ4E) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Anything But Me](https://open.spotify.com/album/3qeTo7DFj1P9dcBa92GrpX) | 3:33 | 2022-03-24 | 2022-07-16 |
 | [Anywhere With You](https://open.spotify.com/track/4Hxcb6wDlelhZpk5fc5jmD) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 4:57 | 2022-08-05 | 2022-09-17 |
@@ -1067,7 +1068,8 @@
 | [Medicine](https://open.spotify.com/track/6pcJGuExZqLqi5SY5CSULh) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Sus Dog](https://open.spotify.com/album/0URaEmyTyvybd3lnbKnA3f) | 5:11 | 2023-06-02 | 2023-06-30 |
 | [Medicine](https://open.spotify.com/track/0CWvHfEwbeBVN0RViTybvL) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle) | 3:49 | 2021-05-28 | 2022-04-30 |
 | [Medicine](https://open.spotify.com/track/7lLtAjBc4Fkaw0FkBQWlSX) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/1D8cnABQfjvfQC2Cdk889m) | 4:00 | 2021-02-07 | 2022-04-30 |
-| [Medicine](https://open.spotify.com/track/23k8mKYhjxN5iSw6nxOVkL) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [Medicine](https://open.spotify.com/album/3JqcgkR1T0inYGixFDTmdO) | 4:15 | 2023-12-08 |  |
+| [Medicine](https://open.spotify.com/track/1QWyq6ewUIWZgsyVmzpo0Y) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [Medicine](https://open.spotify.com/album/03bvJDhMjnOOXwqqw3NZ9B) | 4:15 | 2023-12-08 |  |
+| [Medicine](https://open.spotify.com/track/23k8mKYhjxN5iSw6nxOVkL) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [Medicine](https://open.spotify.com/album/3JqcgkR1T0inYGixFDTmdO) | 4:15 | 2023-12-08 | 2023-12-24 |
 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 | 2021-08-25 | 2022-01-22 |
 | [Megaton Mile](https://open.spotify.com/track/6BwR8E925bOoGHFPS5tEOE) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:26 | 2019-05-26\* | 2019-09-27 |
 | [Melody Experiment](https://open.spotify.com/track/04SwfL1yAlGgn0EftxX3Jy) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 5:10 | 2023-10-06 | 2023-10-27 |

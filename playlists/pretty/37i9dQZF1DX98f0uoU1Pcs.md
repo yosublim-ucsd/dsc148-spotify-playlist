@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Mannequin Pussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,724 likes - 125 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,813 likes - 125 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 124 | [Rosita](https://open.spotify.com/track/7tCrArweMQhmc2s8ad0d53) | [The Manikins](https://open.spotify.com/artist/7GW07MfbJzyhaXH4q8rJsu) | [Rosita](https://open.spotify.com/album/4ub7wQzeA0WWwstboakvmg) | 3:10 |
 | 125 | [Over & Out](https://open.spotify.com/track/76M5por1Z1EIqZQ3K0fA1X) | [Pile of Love](https://open.spotify.com/artist/60iCPCyahHaVV4TvJBD6mL) | [Over & Out](https://open.spotify.com/album/1sikjvOUTHaQYcoPUjC3me) | 2:44 |
 
-Snapshot ID: `MCxhMzk0MzZiNjY2MWQ0NDA1MmZmMTQyYjcyZmE0NzIxOWY0ZGNkNWU0`
+Snapshot ID: `MCxkZTFjYzQ3OGMzOWM3MjFkNWFhZDI1ZGZlNTU3NDc1YTA3ODJhZGFi`

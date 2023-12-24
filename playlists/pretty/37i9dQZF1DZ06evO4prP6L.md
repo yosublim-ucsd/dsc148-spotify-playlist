@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4prP6L.md) - [plain]
 
 > This is Lee Kernaghan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,267 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,274 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4prP6L.md) - [plain]
 | 49 | [We'll Take Beersheba](https://open.spotify.com/track/3Dzycf2B2lD3sNoPGWs3to) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Spirit of the Anzacs](https://open.spotify.com/album/3MUXZ1eqsf6q0gKJG7w5bT) | 3:23 |
 | 50 | [Country Fan](https://open.spotify.com/track/6fnli47Ghohf4zCgqKrLDN) | [Catherine Britt](https://open.spotify.com/artist/2U7nIOFSqqsKaBdSIdL0iZ), [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Home Truths](https://open.spotify.com/album/1pOL91067XJL27UpqiBPZ3) | 3:11 |
 
-Snapshot ID: `MjgzODc0NTgsMDAwMDAwMDA5YmYyMmYzMDM0OGFmODYzMzRjOGQyYmI5N2Y0MWVlNg==`
+Snapshot ID: `MjgzODg5NDMsMDAwMDAwMDA5MDkwYTJhNzVlMTgxMzA4N2FkYmJkNjJhNDJmZjNjZA==`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMmFkNDc3ODUyY2Q5YWRkMTNhYTcxODg3Yjg4YmFkYjVlMGZiMTlh",
+  "snapshot_id": "MCxiOTNkZWFiNDY2OGFmNGJhZGRjNWZhZmIxNjk5MmEwZTZjMjdmNzE2",
   "tracks": [
     {
       "added_at": "2021-12-14 16:04:58",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2021-12-14 16:04:58",
       "album": {
-        "name": "Fan de Tus Fotos",
-        "url": "https://open.spotify.com/album/2AWg2kHOfuRPjJKYyttF9T"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "Fan de Tus Fotos",
-      "url": "https://open.spotify.com/track/1mauYRwbpoGQX6itP2FAJC"
-    },
-    {
-      "added_at": "2021-12-14 16:04:58",
-      "album": {
         "name": "While The World Was Burning",
         "url": "https://open.spotify.com/album/7w3dPme8pmDgsKWGkcOk5f"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 176218,
       "name": "Roses - Imanbek Remix",
       "url": "https://open.spotify.com/track/72GVdRHK49beKrC1NqRCqj"
+    },
+    {
+      "added_at": "2021-12-14 16:04:58",
+      "album": {
+        "name": "Fan de Tus Fotos",
+        "url": "https://open.spotify.com/album/2AWg2kHOfuRPjJKYyttF9T"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "Fan de Tus Fotos",
+      "url": "https://open.spotify.com/track/1mauYRwbpoGQX6itP2FAJC"
     },
     {
       "added_at": "2021-12-14 16:04:58",
@@ -1827,26 +1827,6 @@
     {
       "added_at": "2021-12-14 16:04:58",
       "album": {
-        "name": "Tequila",
-        "url": "https://open.spotify.com/album/7rIzHJuN0QshlUAz4sLvMZ"
-      },
-      "artists": [
-        {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 224553,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/3lVN6SBsQxYwB5crcnfynK"
-    },
-    {
-      "added_at": "2021-12-14 16:04:58",
-      "album": {
         "name": "Major Lazer Essentials",
         "url": "https://open.spotify.com/album/2TVyGtVP8przbQk6f2oSXl"
       },
@@ -1867,6 +1847,26 @@
       "duration_ms": 199168,
       "name": "Titans",
       "url": "https://open.spotify.com/track/7r47ocAa1LzFiu5O9tCaU3"
+    },
+    {
+      "added_at": "2021-12-14 16:04:58",
+      "album": {
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/7rIzHJuN0QshlUAz4sLvMZ"
+      },
+      "artists": [
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 224553,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/3lVN6SBsQxYwB5crcnfynK"
     },
     {
       "added_at": "2021-12-14 16:04:58",

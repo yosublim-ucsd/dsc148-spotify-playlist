@@ -4,7 +4,7 @@
 
 > Solo piano recordings of classic rags
 
-50 songs - 2 hr 44 min
+51 songs - 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Elite Syncopations](https://open.spotify.com/track/3NqrNRSNIAPZ7Q9xv7FAPA) | [Scott Joplin](https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq) | [Elite Syncopations](https://open.spotify.com/album/1QHrpvRzwEupSHU38lppez) | 3:24 | 2020-08-19 |  |
 | [Ethiopia](https://open.spotify.com/track/6vKrEa3NCMxkGstSrBI71I) | [Guido Nielsen](https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU) | [Joseph F\. Lamb: The Complete Stark Rags \(1908\-1919\)](https://open.spotify.com/album/0b5ts7qqK1ovw09OJFOUiv) | 4:11 | 2020-08-19 |  |
 | [Evergreen Rag \(1915 \- James Scott\)](https://open.spotify.com/track/2giECH6eYMtKOEgbPpkttm) | [Scott Kirby](https://open.spotify.com/artist/3bc3Wj307i1SzUmFopUMLM) | [Grace And Beauty \- Ragtime Classics](https://open.spotify.com/album/6oqyXzEQqsfzxBS9vW3ngz) | 3:00 | 2020-08-19 |  |
-| [Felicity Rag](https://open.spotify.com/track/3qyqMVspq0B4f3MGZwVG2G) | [John Arpin](https://open.spotify.com/artist/6OMykuv92hzqoSZAzcSdg1) | [The Complete Piano Music Of Scott Joplin](https://open.spotify.com/album/1Ylmy8lsNu3LIlGqYCdUhZ) | 3:26 | 2020-08-19 |  |
+| [Felicity Rag](https://open.spotify.com/track/3T6xW4I5ph72PwI2PfGMAk) | [John Arpin](https://open.spotify.com/artist/6OMykuv92hzqoSZAzcSdg1) | [Ragtime Rarities](https://open.spotify.com/album/7usFK6PtITIrklPDFG03cZ) | 3:26 | 2020-08-19 |  |
+| [Felicity Rag](https://open.spotify.com/track/3qyqMVspq0B4f3MGZwVG2G) | [John Arpin](https://open.spotify.com/artist/6OMykuv92hzqoSZAzcSdg1) | [The Complete Piano Music Of Scott Joplin](https://open.spotify.com/album/1Ylmy8lsNu3LIlGqYCdUhZ) | 3:26 | 2020-08-19 | 2023-12-24 |
 | [Fig Leaf Rag](https://open.spotify.com/track/1yMqt5habP5GQsll993r1D) | [Knocky Parker](https://open.spotify.com/artist/5GxGw0V1OnTsb5V4DtnxUY) | [The Complete Piano Works of Scott Joplin](https://open.spotify.com/album/5FG1LBNhmZgxLwYiEKilXe) | 1:54 | 2020-08-19 |  |
 | [Frog Legs Rag](https://open.spotify.com/track/0IoqpZ55F042xPuYCbP7NG) | [Guido Nielsen](https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU) | [James Scott: The Complete Works \(Rags, Waltzes & Songs\)](https://open.spotify.com/album/0j118C9e7zYtG2bV8JdiI4) | 2:56 | 2020-08-19 |  |
 | [Gladiolus Rag](https://open.spotify.com/track/1k2cULxRVikKYA97BCcg7F) | [Claude Bolling](https://open.spotify.com/artist/17YFYixTwkosluOZZJWhjb) | [Ragtime Bolling & Boogie \(Enregistrements de 1977 & 2003\)](https://open.spotify.com/album/5Qmz1rdGfyQgpJ16Fvy4rz) | 3:17 | 2020-08-19 |  |

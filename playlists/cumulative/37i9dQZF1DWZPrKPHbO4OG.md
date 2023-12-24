@@ -4,7 +4,7 @@
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-42 songs - 2 hr 52 min
+43 songs - 2 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Gau Nako Kisna](https://open.spotify.com/track/5frla1hLU3JgNbj3O3xb6M) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Jayesh Khare](https://open.spotify.com/artist/6vndO4bnE3pXSPZ3xKkZ2U), [Mayur Sukale](https://open.spotify.com/artist/0ET8FP6HX14K2uZWHjDq2s), [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Maharashtra Shaheer](https://open.spotify.com/album/4XK80Uj04Z0zrTT5qTyjBk) | 5:04 | 2023-07-04 |  |
 | [Govyachya Kinaryav](https://open.spotify.com/track/188jpJestqxy1d8FOQcKJh) | [Shubhangii Kedar](https://open.spotify.com/artist/5egpRukgysKxUuzH5Iu1ae), [Pravin Koli](https://open.spotify.com/artist/71ZOF43Lf5580E60QVpKhU), [Rajneesh Patel](https://open.spotify.com/artist/7gHsj2gGmvax84ZrO66PBF) | [Govyachya Kinaryav](https://open.spotify.com/album/0U5aoS77dw5YsgwZR6avZv) | 3:34 | 2023-07-04 |  |
 | [Hey Pavlaay](https://open.spotify.com/track/35LJQhz82wUfSztjpHV4ss) | [Preet Bandre](https://open.spotify.com/artist/53vx7sCjX8Ll1I0H59ZDr2), [Dhruvan Moorthy](https://open.spotify.com/artist/3psleO4ViEBEsBsLHNF1Iu) | [Hey Pavlaay](https://open.spotify.com/album/3sgeiiKEmNqOW2A5uphB4P) | 1:53 | 2023-07-04 |  |
-| [Ishkkachi Nauka](https://open.spotify.com/track/1u73O8iFVCg57FxwGbfwic) | [Shubhangii Kedar](https://open.spotify.com/artist/5egpRukgysKxUuzH5Iu1ae), [Keval Walanj](https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4) | [Ishkkachi Nauka](https://open.spotify.com/album/2OV0JqiBDcMTp5DQ1G7S3F) | 4:04 | 2023-07-04 |  |
+| [Ishkkachi Nauka](https://open.spotify.com/track/1TEwYTZpzOolIP4jaNQfs4) | [Shubhangi Kedar](https://open.spotify.com/artist/5d3m8OlPS7ZtfIRf3Ofsgc), [Keval Walanj](https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4) | [Ishkkachi Nauka](https://open.spotify.com/album/5og3wPJ2Kh22iEuZUE4TfU) | 4:04 | 2023-12-20 |  |
+| [Ishkkachi Nauka](https://open.spotify.com/track/1u73O8iFVCg57FxwGbfwic) | [Shubhangii Kedar](https://open.spotify.com/artist/5egpRukgysKxUuzH5Iu1ae), [Keval Walanj](https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4) | [Ishkkachi Nauka](https://open.spotify.com/album/2OV0JqiBDcMTp5DQ1G7S3F) | 4:04 | 2023-07-04 | 2023-12-24 |
 | [Jaal Jaal \- From "Chowk"](https://open.spotify.com/track/1F2XnfvJ7e9xG7Jl8VqEqZ) | [Nagesh Morwekar](https://open.spotify.com/artist/6wrZz5XkWU3Qd0LJ2qCenz), [Dr\. Vinayak Pawar](https://open.spotify.com/artist/3mA8ozQLpzPIA1mQCdSmFt), [Onkarswaroop](https://open.spotify.com/artist/63F0uy4ejGCWvh4CIWORzs) | [Jaal Jaal \(From "Chowk"\)](https://open.spotify.com/album/3aRXoT8sSEzx9nNU8PV6hf) | 4:49 | 2023-07-04 |  |
 | [Kajwa](https://open.spotify.com/track/7yW1U21NXBawQB8fdlE0vx) | [Vijay Bhate](https://open.spotify.com/artist/4e7fpizWnn5UzKBzZ4zl4f), [Harshavardhan Wavare](https://open.spotify.com/artist/0ltsd6EZrWlkPEnbSVhb9V), [Sonali Sonawane](https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3), [Nick Shinde](https://open.spotify.com/artist/2CttsFXKKCVqQsbABphTKu), [Srushti Ambavale](https://open.spotify.com/artist/26m6cc6kaMYHsoOtTOBnOW) | [Kajwa](https://open.spotify.com/album/0agxxXxuHkbRoic1f6uYC0) | 4:09 | 2023-07-04 |  |
 | [Kombdi Palali \- From "Jatra"](https://open.spotify.com/track/5MWLOVaXix2p4UtD3UpRen) | [Anand Shinde](https://open.spotify.com/artist/7vJyQMmionozMmzgDkyqUd), [Vaishali Samant](https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8) | [Ajay \- Atul Hits](https://open.spotify.com/album/2H1tdNT9foDOGoNq8BGROl) | 5:06 | 2023-07-04 |  |

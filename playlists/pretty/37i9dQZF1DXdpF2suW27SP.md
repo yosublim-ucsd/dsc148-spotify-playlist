@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Slow J entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,485 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,517 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 64 | [FICAR RICO E FICAR CONTIGO](https://open.spotify.com/track/7ieKYTIZabcFxyAnlfVqAQ) | [Wine TKK](https://open.spotify.com/artist/4z82basJVVCSjAoZVkb7Rx) | [FICAR RICO E FICAR CONTIGO](https://open.spotify.com/album/7t37wd5YM5uaSFAE3Ba285) | 2:28 |
 | 65 | [Cima Favela](https://open.spotify.com/track/4jywdVdJvrKrAdN9OyaAWW) | [Nicholas](https://open.spotify.com/artist/2Y5CUrIyRo9uaUTasckcHB) | [Cima Favela](https://open.spotify.com/album/1MuVGDebeM6n2s0FuVUvcK) | 4:27 |
 | 66 | [Não Volto](https://open.spotify.com/track/3IcPYN25mmE28nA1qXphgi) | [Kota Manda](https://open.spotify.com/artist/6j7FwyhrTqJ89tzLixAMxw), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ), [TOCS](https://open.spotify.com/artist/5b7vII1orAZUTN9qR9NCtx) | [100 Segredos](https://open.spotify.com/album/66GmwuRmnCeJAKGkZC2gMf) | 2:51 |
-| 67 | [Movie](https://open.spotify.com/track/49Qou0fp5AIyYxiIXbB1I8) | [BDK](https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj), [SDK](https://open.spotify.com/artist/6hQpZrmcUI9Yb9PITngE67) | [Movie](https://open.spotify.com/album/2CRsdNdX8XJmpHEaz9A3IK) | 2:03 |
+| 67 | [Movie](https://open.spotify.com/track/22G3mC1W48tMkkqFimC9c3) | [BDK](https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj), [SDK](https://open.spotify.com/artist/6AxRl5OaLwIFsol7iVJeaW) | [Movie](https://open.spotify.com/album/64HMsj1Zu2EHC7IfCURb9Y) | 2:03 |
 | 68 | [Senti Tanto](https://open.spotify.com/track/45xlwCyuZGswXaqm9sUGnQ) | [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Senti Tanto](https://open.spotify.com/album/0SexRbV9z4iuJJeoDmTJp3) | 2:42 |
 | 69 | [HOLLA](https://open.spotify.com/track/7gwqLu2RCqHdXEVtGYAwbA) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu), [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI) | [HOLLA](https://open.spotify.com/album/0DnjcWh4Vlo6TWwOZczEdT) | 2:16 |
 | 70 | [RGTN](https://open.spotify.com/track/4XFv4UoCEUwCTSCVCNEIbZ) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [RGTN](https://open.spotify.com/album/6Mwv6cb12FzgvKWAzk2jSm) | 3:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [Gelo no Copo](https://open.spotify.com/track/51oQ1UUf7mTzlvZtGHfQnu) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [Fran2785](https://open.spotify.com/artist/6eQ7iZBPv29tBjdfSRgjw8), [Young2835](https://open.spotify.com/artist/5hWELoESeAtem9pQBRFWs9), [Kuptz](https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd) | [Gelo no Copo](https://open.spotify.com/album/3boisqjMi9fKRCZsymugVI) | 4:07 |
 | 75 | [Barraca ta abana](https://open.spotify.com/track/5x4Nsek38LUOo2M0dCgMvv) | [PKA](https://open.spotify.com/artist/6Q8UQ9OVsJUg4AVlcFQICK), [BDK](https://open.spotify.com/artist/5Tc8YPgQE8QSBFEFioXGJj), [Freesesh](https://open.spotify.com/artist/3VVV1LXTiAx0kDszn9rOlH) | [Barraca ta abana](https://open.spotify.com/album/2SBxTGfrrU8MGPLyGmLRMm) | 3:31 |
 
-Snapshot ID: `MCxmM2Y3YTQxZWExMTdjOWQ0NDdhMGJiZThjODk0ODUwYzc5MmM5MDk0`
+Snapshot ID: `MCw0YzJmMGY5M2RhMjU0MWNlYTNkMDY3NjUyZGY0NzA4NmZiN2Y1NmZj`

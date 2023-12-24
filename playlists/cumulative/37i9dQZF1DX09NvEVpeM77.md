@@ -4,7 +4,7 @@
 
 > Classic rock favorites\. Cover: Bruce Springsteen
 
-166 songs - 11 hr 38 min
+167 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [My Life](https://open.spotify.com/track/4ZoBC5MhSEzuknIgAkBaoT) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [52nd Street](https://open.spotify.com/album/1HmCO8VK98AU6EXPOjGYyI) | 4:44 | 2022-03-04 |  |
 | [My Old School](https://open.spotify.com/track/3FpKXPOG2FqB3QzmfafG1H) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Countdown To Ecstasy](https://open.spotify.com/album/1oOpgDzHt6wl7kHbFFPzEc) | 5:39 | 2022-03-04 |  |
 | [My Old School](https://open.spotify.com/track/2TNJMzB30nuEpww7EOx75L) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Countdown To Ecstasy](https://open.spotify.com/album/3VwMlhrc3Z0YON3UNV0VSC) | 5:44 | 2022-03-04 | 2022-07-29 |
-| [My Shit's Fucked Up](https://open.spotify.com/track/35UT9ZB7UROy8W8JvMmzMD) | [Warren Zevon](https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx) | [Life'll Kill Ya](https://open.spotify.com/album/1DrxOGQtygz3wEH802wdo4) | 2:45 | 2022-03-04 |  |
+| [My Shit's Fucked Up](https://open.spotify.com/track/35UT9ZB7UROy8W8JvMmzMD) | [Warren Zevon](https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx) | [Life'll Kill Ya](https://open.spotify.com/album/1DrxOGQtygz3wEH802wdo4) | 2:45 | 2022-03-04 | 2023-12-24 |
+| [My Shit's Fucked Up](https://open.spotify.com/track/6RNp2KtAPVQWRHS6FdjNWG) | [Warren Zevon](https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx) | [Life'll Kill Ya](https://open.spotify.com/album/6tHaTnsWMhVLVOJzQG7sHq) | 2:45 | 2022-03-04 |  |
 | [Nineteen Hundred And Eighty Five \- Remastered 2010](https://open.spotify.com/track/6g8055gyz49kK7VBDAFOf6) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Wings](https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m) | [Band On The Run \(Archive Collection\)](https://open.spotify.com/album/6tjhlC2cAY4VtP92VKyqnD) | 5:32 | 2022-06-15 |  |
 | [Paradise By the Dashboard Light](https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell](https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9) | 8:28 | 2022-03-14 |  |
 | [Power And The Passion \- Remastered Version](https://open.spotify.com/track/75SH7qKifZ0Mzl4UFmps31) | [Midnight Oil](https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk) | [10,9,8,7,6,5,4,3,2,1](https://open.spotify.com/album/1iWFOvjt1FQfkMJrZxtwiF) | 5:39 | 2022-03-14 |  |

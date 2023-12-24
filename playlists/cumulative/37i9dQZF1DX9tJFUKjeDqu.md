@@ -4,7 +4,7 @@
 
 > Soft, instrumental blues to help you concentrate.
 
-142 songs - 8 hr 45 min
+145 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [It's a Rough Ride We're On](https://open.spotify.com/track/2RiU43I9nzxG1by7Q8Y5Zi) | [Berdon Kirksaether](https://open.spotify.com/artist/0wp3pipE3auQxIeHfFvH6o), [The Twang Bar Kings](https://open.spotify.com/artist/2gOxxvd4sVhmsEmu3GQVLo) | [Blues](https://open.spotify.com/album/16Tjd5ycFqkHDU6f78rKYk) | 3:30 | 2022-04-15 | 2022-07-29 |
 | [It's a Rough Ride We're On](https://open.spotify.com/track/4b3axSuUQYp1I0Yfg5HKEV) | [Berdon Kirksaether & the Twang Bar Kings](https://open.spotify.com/artist/7kKITC8LNIVa12gLPgEMqR) | [Blues \(Remastered\)](https://open.spotify.com/album/05w7jAECBOIsITCBBAxeeX) | 3:30 | 2022-04-15 |  |
 | [Jaded](https://open.spotify.com/track/706i4fPr3ghF467v5SLnjH) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [Jaded](https://open.spotify.com/album/2Zd2IWybMwUcv1uTKNapPc) | 2:33 | 2023-05-05 |  |
-| [Jericho](https://open.spotify.com/track/5oNvZprFIEffLJv5jVa9h9) | [Laurel Premo](https://open.spotify.com/artist/1xb97sU2gSPLt2TBtKQeVT) | [Jericho](https://open.spotify.com/album/0Vq9bdUGdZUCW2i1rmnjfk) | 4:52 | 2022-04-15 |  |
+| [Jericho](https://open.spotify.com/track/2p3wZWi5ibHbmJ636e9ImG) | [Laurel Premo](https://open.spotify.com/artist/1xb97sU2gSPLt2TBtKQeVT) | [Golden Loam](https://open.spotify.com/album/4Rfc4nMxJ4R5US3aq0f5D0) | 4:52 | 2023-11-24 |  |
+| [Jericho](https://open.spotify.com/track/5oNvZprFIEffLJv5jVa9h9) | [Laurel Premo](https://open.spotify.com/artist/1xb97sU2gSPLt2TBtKQeVT) | [Jericho](https://open.spotify.com/album/0Vq9bdUGdZUCW2i1rmnjfk) | 4:52 | 2022-04-15 | 2023-12-24 |
 | [Labour](https://open.spotify.com/track/0zmxQRILLqz9M2KKsNyvP8) | [Lior Holzman](https://open.spotify.com/artist/4FKgykI3l7fUUayQm9He3O) | [Labour](https://open.spotify.com/album/19tMyS4bf5WVptEqdO6HQf) | 2:23 | 2023-01-06 |  |
 | [Las Grutas Blues](https://open.spotify.com/track/0gsUQ6Zzo4HBNe2uSPVmIG) | [Atacustico](https://open.spotify.com/artist/0rvubIwf5v5p5KqyCuVZmk) | [Las Grutas Blues](https://open.spotify.com/album/2QYPdPjdn30hoFSSGRTQSr) | 2:31 | 2023-03-17 |  |
 | [Lazy Morning](https://open.spotify.com/track/6o45k8RC2nsW0VaoN9laPh) | [Benjamin Wallace](https://open.spotify.com/artist/4HMISu0fTx7P2ScxS4v9bz) | [Lazy Morning](https://open.spotify.com/album/7DZvKKwzAQ1Hrip0KXq4Kx) | 2:12 | 2022-12-21 |  |
@@ -93,7 +94,8 @@
 | [Mud Island Morning](https://open.spotify.com/track/7dugh1bNpR9FLOQd341YNX) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [A Soul to Claim](https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj) | 3:20 | 2022-07-29 |  |
 | [Not Just Anybody](https://open.spotify.com/track/0qn4Rod7IKAJpJB6Rc5Tuz) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [Not Just Anybody](https://open.spotify.com/album/6bBIwIo3VuIkd0L1v6v4QE) | 2:28 | 2023-11-24 |  |
 | [Nowhere But Here](https://open.spotify.com/track/1uPUxTTro7aqDlURkwJoUr) | [Andie Wiess](https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX) | [Nowhere But Here](https://open.spotify.com/album/4jt8PTQTPQapkQJvKGrd4p) | 2:14 | 2023-03-03 | 2023-10-03 |
-| [On My Way To See Nancy](https://open.spotify.com/track/0Bm5XTEyBth8b04J6oEms6) | [Laurel Premo](https://open.spotify.com/artist/1xb97sU2gSPLt2TBtKQeVT) | [Golden Loam](https://open.spotify.com/album/0dPH6VQgPhfc0lLueu9m7V) | 3:32 | 2022-04-15 |  |
+| [On My Way To See Nancy](https://open.spotify.com/track/0Bm5XTEyBth8b04J6oEms6) | [Laurel Premo](https://open.spotify.com/artist/1xb97sU2gSPLt2TBtKQeVT) | [Golden Loam](https://open.spotify.com/album/0dPH6VQgPhfc0lLueu9m7V) | 3:32 | 2022-04-15 | 2023-12-24 |
+| [On My Way To See Nancy](https://open.spotify.com/track/7l2SXepXmjEyU1IBXlrxMr) | [Laurel Premo](https://open.spotify.com/artist/1xb97sU2gSPLt2TBtKQeVT) | [Golden Loam](https://open.spotify.com/album/4Rfc4nMxJ4R5US3aq0f5D0) | 3:32 | 2023-11-24 |  |
 | [Past and Present](https://open.spotify.com/track/6WavI8LQ7DdAuuYN4IuDOV) | [Andie Wiess](https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX) | [Past and Present](https://open.spotify.com/album/2Ro7ot6kaTFHKToSombkLV) | 2:15 | 2023-09-08 |  |
 | [Pete's Blue](https://open.spotify.com/track/6u4NXJuuZDVQ8QXE8UJ45R) | [Roy Buchanan](https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C) | [Roy Buchanan](https://open.spotify.com/album/6rwY78ocBwZYi3OhapYyfw) | 7:18 | 2022-04-15 | 2023-08-05 |
 | [Pirates \- Live In Belgium / Dubbed in Denmark](https://open.spotify.com/track/2AQJqe6b3mNyAp81ETFi1k) | [Gustaf Ljunggren](https://open.spotify.com/artist/448xgQqrgiEalhGErK14bs), [Emil de Waal](https://open.spotify.com/artist/7qlFXCufyt5bgI52L6v6xb) | [Pirates \(Live in Belgium / Dubbed in Denmark\)](https://open.spotify.com/album/6gzqbVNqUK54CzgOqymluE) | 5:09 | 2022-04-15 |  |
@@ -133,8 +135,9 @@
 | [Take Five \(Solo Guitar\)](https://open.spotify.com/track/1MRivhXSuW5lICmMxVuIES) | [Elson Complex](https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX), [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Take Five](https://open.spotify.com/album/00M7DsogdksAlx0Q745kV9) | 2:21 | 2022-04-15 |  |
 | [Take Me Home](https://open.spotify.com/track/39OSYzIRcxZvZing8zyyGl) | [Vincent Tall](https://open.spotify.com/artist/5JCxFd09YsngG3RfNRvClM) | [Take Me Home](https://open.spotify.com/album/4Oz7SLYIfCwWP8z4M3MwuK) | 1:58 | 2023-10-02 | 2023-10-06 |
 | [Take Root](https://open.spotify.com/track/2Q6jRwPtPBLeeDZgZBl0b6) | [James Saunder](https://open.spotify.com/artist/7lJYI82LVMMO0MrbXo1SPB) | [Take Root](https://open.spotify.com/album/4PjXnjdZzHoJwShZVmsJTM) | 1:42 | 2023-01-27 | 2023-08-24 |
+| [The Blink Of An Eye](https://open.spotify.com/track/0hJMvkxq0vS5oDq7y46HWX) | [Jeff Golub](https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB) | [Blues For You](https://open.spotify.com/album/2jj12VH9zkoSwJHpsJDZDk) | 6:02 | 2023-11-24 |  |
 | [The Blink Of An Eye](https://open.spotify.com/track/2vJLBn78JRXewtqcUVvtm3) | [Jeff Golub](https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB) | [Blues For You](https://open.spotify.com/album/6XIK9crFq9HgXowGwTK91I) | 6:02 | 2022-04-15 | 2022-07-29 |
-| [The Blink Of An Eye](https://open.spotify.com/track/656b8WVsC5JMmDDN43hPoQ) | [Jeff Golub](https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB) | [Blues For You](https://open.spotify.com/album/5EAr5Rzknr0B1DFaBPcC8v) | 6:02 | 2022-07-08 |  |
+| [The Blink Of An Eye](https://open.spotify.com/track/656b8WVsC5JMmDDN43hPoQ) | [Jeff Golub](https://open.spotify.com/artist/12455ZzxS49FbAGWKeB9eB) | [Blues For You](https://open.spotify.com/album/5EAr5Rzknr0B1DFaBPcC8v) | 6:02 | 2022-07-08 | 2023-12-24 |
 | [The Route Home](https://open.spotify.com/track/1DdyCpQHozMxfuQnV0Nkvc) | [Joey Michels](https://open.spotify.com/artist/3qUyntPn9GxNrskcMrDaaQ) | [The Route Home](https://open.spotify.com/album/1YUBztLYPkoYS0RuIJpPfn) | 2:56 | 2022-11-18 |  |
 | [The Slow Dance Blues](https://open.spotify.com/track/2xkAvAWjiu9xtdQumLiyVB) | [Benjamin Wallace](https://open.spotify.com/artist/4HMISu0fTx7P2ScxS4v9bz) | [The Slow Dance Blues](https://open.spotify.com/album/5TBj3w3QClRxG98GgfQCuv) | 1:48 | 2023-03-17 | 2023-08-24 |
 | [The Wanderer](https://open.spotify.com/track/1IgbPXZ3PG57sOoCxDbfYF) | [Andie Wiess](https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX) | [The Wanderer](https://open.spotify.com/album/0VKnrYcrai0fJ41eVbBu4r) | 2:57 | 2023-01-06 | 2023-10-03 |

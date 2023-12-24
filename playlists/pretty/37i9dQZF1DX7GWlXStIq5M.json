@@ -1,12 +1,12 @@
 {
   "description": "Os hits j\u00e1 consagrados e os novos nomes da mistura pop dividindo o mesmo palco!  / Foto: Ana Castela, Ludmilla",
-  "num_followers": 367620,
+  "num_followers": 367637,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjhiYTNiYzAyNDg1YmJjOTU0NjgyODQ0YmNjNjg2NTZiN2Y1YWMy",
+  "snapshot_id": "MCwzM2RmMmE5MjFlYWQ3NDFhMjFhZTllOGVjMjE2MTM3ZDk5MWFiOGE1",
   "tracks": [
     {
       "added_at": "2023-12-22 03:15:21",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-12-22 03:15:21",
       "album": {
-        "name": "ADMIR\u00c1VEL CHIP NOVO (RE)ATIVADO",
-        "url": "https://open.spotify.com/album/6bIHDpi2YUAO3C2CinsGSZ"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 218709,
-      "name": "Equalize",
-      "url": "https://open.spotify.com/track/6ejNK6AivWJKC1QOZlzmq0"
-    },
-    {
-      "added_at": "2023-12-22 03:15:21",
-      "album": {
         "name": "Deixa Acender",
         "url": "https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 155600,
       "name": "Deixa Acender",
       "url": "https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn"
+    },
+    {
+      "added_at": "2023-12-22 03:15:21",
+      "album": {
+        "name": "ADMIR\u00c1VEL CHIP NOVO (RE)ATIVADO",
+        "url": "https://open.spotify.com/album/6bIHDpi2YUAO3C2CinsGSZ"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 218709,
+      "name": "Equalize",
+      "url": "https://open.spotify.com/track/6ejNK6AivWJKC1QOZlzmq0"
     },
     {
       "added_at": "2023-12-22 03:15:21",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-12-22 03:15:21",
       "album": {
+        "name": "Casa Vazia",
+        "url": "https://open.spotify.com/album/3aSlWYSZ0fynAkCI2rrEg5"
+      },
+      "artists": [
+        {
+          "name": "UM44K",
+          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
+        }
+      ],
+      "duration_ms": 168260,
+      "name": "Casa Vazia",
+      "url": "https://open.spotify.com/track/1kk6OvG4d6ExWv1hEzoNVl"
+    },
+    {
+      "added_at": "2023-12-22 03:15:21",
+      "album": {
         "name": "LADY LESTE (AO VIVO)",
         "url": "https://open.spotify.com/album/3M76dR9f8pjvLVL31Xw28d"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 142136,
       "name": "Segredos da Vida",
       "url": "https://open.spotify.com/track/3Z3H3L0BMPjnq8Ktsws8tm"
-    },
-    {
-      "added_at": "2023-12-22 03:15:21",
-      "album": {
-        "name": "Casa Vazia",
-        "url": "https://open.spotify.com/album/3aSlWYSZ0fynAkCI2rrEg5"
-      },
-      "artists": [
-        {
-          "name": "UM44K",
-          "url": "https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2"
-        }
-      ],
-      "duration_ms": 168260,
-      "name": "Casa Vazia",
-      "url": "https://open.spotify.com/track/1kk6OvG4d6ExWv1hEzoNVl"
     },
     {
       "added_at": "2023-12-22 03:15:21",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-12-22 03:15:21",
       "album": {
+        "name": "Sexo, poder e arte",
+        "url": "https://open.spotify.com/album/0YrSJbs6AO5Qj8vKCqsqrt"
+      },
+      "artists": [
+        {
+          "name": "Manu Gavassi",
+          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
+        }
+      ],
+      "duration_ms": 272458,
+      "name": "Sexo, poder e arte",
+      "url": "https://open.spotify.com/track/7tgRx0uRO64z0Zppg9BsCy"
+    },
+    {
+      "added_at": "2023-12-22 03:15:21",
+      "album": {
         "name": "Bomba",
         "url": "https://open.spotify.com/album/50fMxICIH05gOr9npaZiPo"
       },
@@ -1075,6 +1091,26 @@
       "duration_ms": 186188,
       "name": "Desculpa por Eu N\u00e3o Te Amar",
       "url": "https://open.spotify.com/track/3sOpdZk6nc2As9ZaeGYkUG"
+    },
+    {
+      "added_at": "2023-12-22 03:15:21",
+      "album": {
+        "name": "Tapa",
+        "url": "https://open.spotify.com/album/2Jw3IHfgSzvibRiBW8zkJy"
+      },
+      "artists": [
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        },
+        {
+          "name": "Grag Queen",
+          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
+        }
+      ],
+      "duration_ms": 109446,
+      "name": "Tapa",
+      "url": "https://open.spotify.com/track/0W2uU7LtdvoLCT6VpzYfSE"
     },
     {
       "added_at": "2023-12-22 03:15:21",
@@ -1119,22 +1155,18 @@
     {
       "added_at": "2023-12-22 03:15:21",
       "album": {
-        "name": "Tapa",
-        "url": "https://open.spotify.com/album/2Jw3IHfgSzvibRiBW8zkJy"
+        "name": "N\u00e3o consigo ir embora",
+        "url": "https://open.spotify.com/album/206GxB67tKFcuG70Sg9tr8"
       },
       "artists": [
         {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
-        },
-        {
-          "name": "Grag Queen",
-          "url": "https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR"
+          "name": "Elana Dara",
+          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
         }
       ],
-      "duration_ms": 109446,
-      "name": "Tapa",
-      "url": "https://open.spotify.com/track/0W2uU7LtdvoLCT6VpzYfSE"
+      "duration_ms": 116571,
+      "name": "N\u00e3o consigo ir embora",
+      "url": "https://open.spotify.com/track/5OLUTfWPXyMGL696s54mnW"
     },
     {
       "added_at": "2023-12-22 03:15:21",
@@ -1151,22 +1183,6 @@
       "duration_ms": 138064,
       "name": "Oops!\u2026I Did It Again",
       "url": "https://open.spotify.com/track/2kepUX44klRnnfcaYGqF0C"
-    },
-    {
-      "added_at": "2023-12-22 03:15:21",
-      "album": {
-        "name": "N\u00e3o consigo ir embora",
-        "url": "https://open.spotify.com/album/206GxB67tKFcuG70Sg9tr8"
-      },
-      "artists": [
-        {
-          "name": "Elana Dara",
-          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
-        }
-      ],
-      "duration_ms": 116571,
-      "name": "N\u00e3o consigo ir embora",
-      "url": "https://open.spotify.com/track/5OLUTfWPXyMGL696s54mnW"
     },
     {
       "added_at": "2023-12-22 03:15:21",
@@ -1227,6 +1243,22 @@
     {
       "added_at": "2023-12-22 03:15:21",
       "album": {
+        "name": "Essa Fada",
+        "url": "https://open.spotify.com/album/7anc7aknKfImn1awQ1rQP6"
+      },
+      "artists": [
+        {
+          "name": "Lexa",
+          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+        }
+      ],
+      "duration_ms": 147272,
+      "name": "Troco",
+      "url": "https://open.spotify.com/track/0tf2VNO7BR4zqQxkfdzlj7"
+    },
+    {
+      "added_at": "2023-12-22 03:15:21",
+      "album": {
         "name": "MELODRAM\u00c1TICO",
         "url": "https://open.spotify.com/album/2k78WzHmrbWkRfTtACqLP0"
       },
@@ -1271,34 +1303,22 @@
     {
       "added_at": "2023-12-22 03:15:21",
       "album": {
-        "name": "Sexo, poder e arte",
-        "url": "https://open.spotify.com/album/0YrSJbs6AO5Qj8vKCqsqrt"
+        "name": "Revoada",
+        "url": "https://open.spotify.com/album/7jXwwkRfr3INN7q4IPWEDK"
       },
       "artists": [
         {
-          "name": "Manu Gavassi",
-          "url": "https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8"
-        }
-      ],
-      "duration_ms": 272458,
-      "name": "Sexo, poder e arte",
-      "url": "https://open.spotify.com/track/7tgRx0uRO64z0Zppg9BsCy"
-    },
-    {
-      "added_at": "2023-12-22 03:15:21",
-      "album": {
-        "name": "Essa Fada",
-        "url": "https://open.spotify.com/album/7anc7aknKfImn1awQ1rQP6"
-      },
-      "artists": [
+          "name": "POLLO",
+          "url": "https://open.spotify.com/artist/6TgVQhHx0BWvzdEQxRnr23"
+        },
         {
-          "name": "Lexa",
-          "url": "https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv"
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
         }
       ],
-      "duration_ms": 147272,
-      "name": "Troco",
-      "url": "https://open.spotify.com/track/0tf2VNO7BR4zqQxkfdzlj7"
+      "duration_ms": 207640,
+      "name": "Revoada",
+      "url": "https://open.spotify.com/track/50CnsLVWEypahw6Wze00qL"
     },
     {
       "added_at": "2023-12-22 03:15:21",
@@ -1395,6 +1415,26 @@
     {
       "added_at": "2023-12-22 03:15:21",
       "album": {
+        "name": "flores de outono",
+        "url": "https://open.spotify.com/album/7nJAnAjYEtAnygSbPLrK2o"
+      },
+      "artists": [
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        },
+        {
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        }
+      ],
+      "duration_ms": 123664,
+      "name": "Flores de Outono",
+      "url": "https://open.spotify.com/track/0hJBTlBTold7SfouHAEhs9"
+    },
+    {
+      "added_at": "2023-12-22 03:15:21",
+      "album": {
         "name": "Caliente",
         "url": "https://open.spotify.com/album/7fzqKhbzHBuOnbo2yeTWr2"
       },
@@ -1415,26 +1455,6 @@
       "duration_ms": 133636,
       "name": "Caliente",
       "url": "https://open.spotify.com/track/2TrAxb7dg65ZFHoMzrGhcN"
-    },
-    {
-      "added_at": "2023-12-22 03:15:21",
-      "album": {
-        "name": "flores de outono",
-        "url": "https://open.spotify.com/album/7nJAnAjYEtAnygSbPLrK2o"
-      },
-      "artists": [
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        },
-        {
-          "name": "Joyce Alane",
-          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
-        }
-      ],
-      "duration_ms": 123664,
-      "name": "Flores de Outono",
-      "url": "https://open.spotify.com/track/0hJBTlBTold7SfouHAEhs9"
     },
     {
       "added_at": "2023-12-22 03:15:21",
@@ -1495,6 +1515,22 @@
     {
       "added_at": "2023-12-22 03:15:21",
       "album": {
+        "name": "cinco anos em cinco minutos",
+        "url": "https://open.spotify.com/album/10iYPXAHfK0rwB5gNQFr31"
+      },
+      "artists": [
+        {
+          "name": "Clara x Sofia",
+          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
+        }
+      ],
+      "duration_ms": 143664,
+      "name": "cinco anos em cinco minutos",
+      "url": "https://open.spotify.com/track/1wIP79xCQuRtIOPXsWOyoI"
+    },
+    {
+      "added_at": "2023-12-22 03:15:21",
+      "album": {
         "name": "93",
         "url": "https://open.spotify.com/album/2sbYShIsSsFnm62JKjTqUJ"
       },
@@ -1511,22 +1547,6 @@
       "duration_ms": 158829,
       "name": "Pegada de Vil\u00e3",
       "url": "https://open.spotify.com/track/0QNyFrnE4O6E4ZJDRvBuWm"
-    },
-    {
-      "added_at": "2023-12-22 03:15:21",
-      "album": {
-        "name": "cinco anos em cinco minutos",
-        "url": "https://open.spotify.com/album/10iYPXAHfK0rwB5gNQFr31"
-      },
-      "artists": [
-        {
-          "name": "Clara x Sofia",
-          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
-        }
-      ],
-      "duration_ms": 143664,
-      "name": "cinco anos em cinco minutos",
-      "url": "https://open.spotify.com/track/1wIP79xCQuRtIOPXsWOyoI"
     },
     {
       "added_at": "2023-12-22 03:15:21",
@@ -1583,6 +1603,22 @@
     {
       "added_at": "2023-12-22 03:15:21",
       "album": {
+        "name": "Frenesi",
+        "url": "https://open.spotify.com/album/6g7RGI1raRYXd2mYdqC3tK"
+      },
+      "artists": [
+        {
+          "name": "Giana Mello",
+          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
+        }
+      ],
+      "duration_ms": 147200,
+      "name": "Baile",
+      "url": "https://open.spotify.com/track/2b2pOFQ3bpSzse6haFIUHY"
+    },
+    {
+      "added_at": "2023-12-22 03:15:21",
+      "album": {
         "name": "Que saudade de voc\u00ea",
         "url": "https://open.spotify.com/album/24UppRUshYhEjY05qdUxh5"
       },
@@ -1603,22 +1639,6 @@
       "duration_ms": 265068,
       "name": "Que saudade de voc\u00ea",
       "url": "https://open.spotify.com/track/6P6B7hMCL4irsQQ1jQu7qY"
-    },
-    {
-      "added_at": "2023-12-22 03:15:21",
-      "album": {
-        "name": "Frenesi",
-        "url": "https://open.spotify.com/album/6g7RGI1raRYXd2mYdqC3tK"
-      },
-      "artists": [
-        {
-          "name": "Giana Mello",
-          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
-        }
-      ],
-      "duration_ms": 147200,
-      "name": "Baile",
-      "url": "https://open.spotify.com/track/2b2pOFQ3bpSzse6haFIUHY"
     },
     {
       "added_at": "2023-12-22 03:15:21",
@@ -1719,26 +1739,6 @@
       "duration_ms": 140000,
       "name": "Patipapa",
       "url": "https://open.spotify.com/track/0ERFK8AQaBl0R0ql8I2KpT"
-    },
-    {
-      "added_at": "2023-12-22 03:15:21",
-      "album": {
-        "name": "Revoada",
-        "url": "https://open.spotify.com/album/7jXwwkRfr3INN7q4IPWEDK"
-      },
-      "artists": [
-        {
-          "name": "POLLO",
-          "url": "https://open.spotify.com/artist/6TgVQhHx0BWvzdEQxRnr23"
-        },
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        }
-      ],
-      "duration_ms": 207640,
-      "name": "Revoada",
-      "url": "https://open.spotify.com/track/50CnsLVWEypahw6Wze00qL"
     }
   ],
   "unique_name": "Palco POP",

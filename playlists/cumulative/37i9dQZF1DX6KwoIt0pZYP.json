@@ -216,10 +216,32 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 162500,
       "name": "A Nothing Day",
       "url": "https://open.spotify.com/track/3XuBSGfyPaVxfpt97F5IVJ"
+    },
+    {
+      "album": {
+        "name": "GLOOMY BOOGIE",
+        "url": "https://open.spotify.com/album/3iDH8JeYPyeuQ7OcTWnzjq"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Kheng",
+          "url": "https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO"
+        },
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "A Nothing Day",
+      "url": "https://open.spotify.com/track/5gIktKmECYQP5HY0dYfbst"
     },
     {
       "album": {

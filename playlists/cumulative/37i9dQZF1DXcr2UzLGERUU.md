@@ -4,7 +4,7 @@
 
 > Wind down in moments of stress with these chilled songs for the whole family.
 
-150 songs - 8 hr 12 min
+152 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,9 +20,11 @@
 | [Blackbird](https://open.spotify.com/track/0FgkcJWhDUyqpHDcj0jzp2) | [The Beat Bugs](https://open.spotify.com/artist/2zaXzyRTG9N2adhmmnV31p), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Beat Bugs: Complete Season 1 \(Music From The Netflix Original Series\)](https://open.spotify.com/album/27avWEEaNMlHSAAe6KQzdm) | 2:32 | 2022-04-01 |  |
 | [Blackbird](https://open.spotify.com/track/4ziOoNL9eXHiOWIXfun45t) | [The Beat Bugs](https://open.spotify.com/artist/2zaXzyRTG9N2adhmmnV31p), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Kids Songs: Quiet Time](https://open.spotify.com/album/7rYbYqzHSvmsHkN8x0MDDr) | 2:32 | 2022-04-01 | 2022-11-13 |
 | [Blue Skies over the Rainbow](https://open.spotify.com/track/7uWglBQH4LKfqeeDvBcyfw) | [Elliott Park](https://open.spotify.com/artist/6iz85IUQbVWxKzemxy4u16), [Anna Park](https://open.spotify.com/artist/6S3LnxojdbXGkHUgBtY3wu) | [Songs with My Daughters](https://open.spotify.com/album/4MyybH1mOTmaADrhjWXDgb) | 1:47 | 2022-04-01 |  |
-| [Butterfly](https://open.spotify.com/track/18CZAWrqDV0PkePtkqfZMr) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Catch the Moon](https://open.spotify.com/album/1o79r8Ky7KJ0fRnyx6MOR9) | 2:29 | 2022-04-01 |  |
+| [Butterfly](https://open.spotify.com/track/18CZAWrqDV0PkePtkqfZMr) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Catch the Moon](https://open.spotify.com/album/1o79r8Ky7KJ0fRnyx6MOR9) | 2:29 | 2022-04-01 | 2023-12-24 |
+| [Butterfly](https://open.spotify.com/track/5VR3cIQE5iyJ2rfkgUZgG7) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Catch the Moon](https://open.spotify.com/album/0qITXseHwyX8TiC0MdaLbq) | 2:29 | 2023-07-12 |  |
 | [Calvin and Hobbes](https://open.spotify.com/track/1kRotlWaCLJSrYtdINoMp8) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Calvin and Hobbes](https://open.spotify.com/album/7q0GkrxtK6jOqLNRZ5G4i1) | 3:41 | 2022-04-01 | 2023-04-09 |
-| [Catch the Moon](https://open.spotify.com/track/4VwFWEJKkpOOWkhOwy3STM) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Catch the Moon](https://open.spotify.com/album/1o79r8Ky7KJ0fRnyx6MOR9) | 3:06 | 2022-04-01 |  |
+| [Catch the Moon](https://open.spotify.com/track/4VwFWEJKkpOOWkhOwy3STM) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Catch the Moon](https://open.spotify.com/album/1o79r8Ky7KJ0fRnyx6MOR9) | 3:06 | 2022-04-01 | 2023-12-24 |
+| [Catch the Moon](https://open.spotify.com/track/5wfIDxNK5oaoxxIfLHJAAA) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Catch the Moon](https://open.spotify.com/album/0qITXseHwyX8TiC0MdaLbq) | 3:06 | 2023-07-12 |  |
 | [Colors](https://open.spotify.com/track/72SPsHheqN6J3sI520jT9E) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Amos Lee](https://open.spotify.com/album/0hPXaSKyujqCej452raazD) | 2:40 | 2022-04-01 |  |
 | [Dance for the Sun](https://open.spotify.com/track/5OoDqQXT5jqWoIKhNn9HIB) | [Kira Willey](https://open.spotify.com/artist/6GSLe8wDhKFqIPqsB1Ricg) | [Dance for the Sun: Yoga Songs for Kids](https://open.spotify.com/album/4JPicsqmJZFZ1zJE05nSuo) | 2:48 | 2022-04-01 |  |
 | [Dancing On My Own](https://open.spotify.com/track/2BOqDYLOJBiMOXShCV1neZ) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Deluxe\)](https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf) | 4:20 | 2022-04-01 |  |

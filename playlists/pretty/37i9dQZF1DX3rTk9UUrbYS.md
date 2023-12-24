@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 
 > Avant\-garde, experimental and free jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,534 likes - 98 songs - 12 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,577 likes - 98 songs - 12 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 | 55 | [Composite](https://open.spotify.com/track/404qVUICZCr7Jii18Iks0D) | [Trio 3](https://open.spotify.com/artist/53psjKXqjEs7i8Xgw1xxNq), [Oliver Lake](https://open.spotify.com/artist/3y58dknRdBENZ8oVErWu9B), [Reggie Workman](https://open.spotify.com/artist/3mBoT9nTZ12JQPfrOrwD3p), [Andrew Cyrille](https://open.spotify.com/artist/47hexMV8ZbDWZ9MSwSWD50) | [Visiting Texture](https://open.spotify.com/album/6USgVVId5uPaLt8bBvQf62) | 6:39 |
 | 56 | [Cinema: entr'acte symphonique de Relache \(arr\. for chamber ensemble\)](https://open.spotify.com/track/0dixluAn0piS3iY1JsoQI0) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Fumio Yasuda](https://open.spotify.com/artist/119ZjIwmcMJo9hEFWaczPX), [Joachim Badenhorst](https://open.spotify.com/artist/4WdhTZmQC14NRbEUSPb2qA), [Julie Läderach](https://open.spotify.com/artist/3W1oujj8zBBHdNKHj4pV2e) | [Erik Satie: Musique d'entracte](https://open.spotify.com/album/32FZhvtuj2SQ4jZsKKGdGc) | 6:15 |
 | 57 | [Hog's Grease](https://open.spotify.com/track/2l5vthaApfEQRVvbKgUjWw) | [George Cartwright](https://open.spotify.com/artist/65JAEBPEdhkLKYpYcr9o7m), [Dave King](https://open.spotify.com/artist/5ahI6jVpVbq5BKh7hs3yqg), [Josh Granowski](https://open.spotify.com/artist/1COXwmX2OBkRMdBFOSCnEU) | [Stick Insect](https://open.spotify.com/album/1CjWilmahw0FyD9L3kKDIx) | 6:23 |
-| 58 | [Suite 3320, Pt\. I \- Live](https://open.spotify.com/track/3yt7rjEyVLYWGZ2307OSNI) | [Ben Monder](https://open.spotify.com/artist/2CH9bD5RtnDcm9O23JByN7), [Tony Malaby](https://open.spotify.com/artist/6woeo15v4gYqiegGAknRm0), [Tom Rainey](https://open.spotify.com/artist/3GLpFMa3feEODjzWx0XSIO) | [Live at the 55 Bar](https://open.spotify.com/album/1ee4YOkRpLaauwDd7Ai8VH) | 16:53 |
+| 58 | [Suite 3320, Pt\. I \- Live](https://open.spotify.com/track/6H6SEmBJLzCPR3TZx4zuMy) | [Ben Monder](https://open.spotify.com/artist/2CH9bD5RtnDcm9O23JByN7), [Tony Malaby](https://open.spotify.com/artist/6woeo15v4gYqiegGAknRm0), [Tom Rainey](https://open.spotify.com/artist/3GLpFMa3feEODjzWx0XSIO) | [Live at the 55 Bar](https://open.spotify.com/album/3KgqVJrzaYxA5HbBx0gBl0) | 16:53 |
 | 59 | [Way Beyond Cave](https://open.spotify.com/track/5uKsWL6LKETa5xKizE04TZ) | [Albert Mangelsdorff](https://open.spotify.com/artist/6smduqXQTpYLxA6MKAJ7pw) | [Albert Mangelsdorff and His Friends](https://open.spotify.com/album/4RJhjS7m0WZqlXBss7dz8k) | 5:47 |
 | 60 | [Love](https://open.spotify.com/track/0YJ6ZU7cl9hehdbCsYZrLB) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Thembi](https://open.spotify.com/album/4Dz5vD2zfKr8OVtIgpcWOy) | 5:12 |
 | 61 | [And Then There Was Peace](https://open.spotify.com/track/65pbkrOOLNGacAfdEd1f9h) | [Roscoe Mitchell](https://open.spotify.com/artist/6DR6ugRdVaVi7lyqooqJov), [Brus Trio](https://open.spotify.com/artist/0brD6EfLudasLGmL0JVIJY) | [After Fallen Leaves](https://open.spotify.com/album/7Ch1GSEeikqpUTXvOHwnW2) | 4:51 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 | 97 | [Breaking Point](https://open.spotify.com/track/08didpMJM0vsICBS3uu2Xd) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [The Essential Blue Note Collection](https://open.spotify.com/album/7dDZGuJMNFpIHa2J2jSdJT) | 10:19 |
 | 98 | [Conduction No.186 \- Live](https://open.spotify.com/track/10oUh9vQB9J36UmsGuWxRl) | [Nublu Orchestra](https://open.spotify.com/artist/3kir4KuUljdyYGWpQ3tPX9), [Butch Morris](https://open.spotify.com/artist/180iBifQGB9dLM5dSelaAK) | [Live in Lisbon](https://open.spotify.com/album/5WnPY79tkeyhrRcInkUjMp) | 43:14 |
 
-Snapshot ID: `MCw4MjhiNWRmNzcyZjFkNDhhZWI4NTU3MTMwYzVjZTdkNjY2ZGM0NDk1`
+Snapshot ID: `MCw5M2ZjY2Q0OWE0ZjkzMmRhM2JjMTk0OWI4ZjQ3ZGNlOGRjMGQ3YmZm`

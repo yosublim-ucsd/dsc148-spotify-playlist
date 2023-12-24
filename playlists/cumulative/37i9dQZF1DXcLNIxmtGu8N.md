@@ -4,11 +4,12 @@
 
 > Go\-Go Music from the heart of Washington, DC\. Cover, New Impressionz by Jay Kyri
 
-79 songs - 6 hr 12 min
+80 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [09 Slowbounce Time](https://open.spotify.com/track/18iNm9mtfdNZKvKMd5W0io) | [ABM Band](https://open.spotify.com/artist/2eJJQI2s8ZwcVQhGw9NTwH) | [The Gift & the Curse](https://open.spotify.com/album/31Bmtq02mfTu1WkpmYkE5G) | 2:29 | 2022-01-29 |  |
+| [09 Slowbounce Time](https://open.spotify.com/track/18iNm9mtfdNZKvKMd5W0io) | [ABM Band](https://open.spotify.com/artist/2eJJQI2s8ZwcVQhGw9NTwH) | [The Gift & the Curse](https://open.spotify.com/album/31Bmtq02mfTu1WkpmYkE5G) | 2:29 | 2022-01-29 | 2023-12-24 |
+| [09 Slowbounce Time](https://open.spotify.com/track/1sAXFMCjEmDZ5J6XqgMVWU) | [ABM Slow Bounce Kingz](https://open.spotify.com/artist/2fH6GKds8DEN0LerIAfvQm) | [The Gift & The Curse: The People's Game and The Games Curse](https://open.spotify.com/album/7G3Ek7KMYZ3x6iQovxVHQH) | 2:29 | 2022-01-29 |  |
 | [9\-5 \- Live](https://open.spotify.com/track/6nGtQpAg5wAXdRLk6qI23R) | [The Full Bump](https://open.spotify.com/artist/65jSGg8uFsWlplXmWgaBpp), [Big Action](https://open.spotify.com/artist/0hLqtceiHhwQ6TkUpUx7P4) | [The Xperience \(Live\)](https://open.spotify.com/album/2IUtSVYnypmEFugkvsWHQ4) | 3:14 | 2022-02-25 |  |
 | [96 Dope Jam](https://open.spotify.com/track/3UzNKOAkbXimKt9hzGKwfc) | [Backyard Band](https://open.spotify.com/artist/4lFJtFKGcitXZZZBfWyw03) | [Street Antidote](https://open.spotify.com/album/7vOoHtMP9YTN9jIO7cwbf3) | 6:31 | 2022-01-29 |  |
 | [97 Dope Jam](https://open.spotify.com/track/4FtownzRpVQK8RCEv9VWPy) | [Backyard Band](https://open.spotify.com/artist/4lFJtFKGcitXZZZBfWyw03) | [Street Antidote](https://open.spotify.com/album/7vOoHtMP9YTN9jIO7cwbf3) | 4:03 | 2022-01-29 |  |

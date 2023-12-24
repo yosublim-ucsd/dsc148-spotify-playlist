@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: The Cleverlys
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,520 likes - 139 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,555 likes - 139 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 32 | [Guess I'm Doing Fine](https://open.spotify.com/track/1nYepgS69x8u58SHOpfkSq) | [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb), [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [Guess I'm Doing Fine](https://open.spotify.com/album/7CvyXC5glE5wSTiaTW7Q21) | 4:40 |
 | 33 | [Friend of the Devil](https://open.spotify.com/track/3dATBi29oygrDF033WG1pH) | [Chicken Wire Empire](https://open.spotify.com/artist/05RSgyFo6Z3uiYA6fnj0sm) | [Verry Garcia](https://open.spotify.com/album/26ZgwENZ2fNkmIPGu4swPt) | 5:02 |
 | 34 | [Can't Let Go](https://open.spotify.com/track/0cX8s93aHEK74Yq6aHOLPv) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Can't Let Go](https://open.spotify.com/album/1Iowxh8dz1yZAmhsIBj3Wr) | 3:05 |
-| 35 | [Such Great Heights](https://open.spotify.com/track/79cKvTv8eVXPolBTPfx8ns) | [Joy Kills Sorrow](https://open.spotify.com/artist/6ZRMYLLAQlmSluihxBYw0C) | [Wide Awake](https://open.spotify.com/album/5nEwS94VbhdXy4IgH9YMli) | 4:13 |
+| 35 | [Such Great Heights](https://open.spotify.com/track/4HUENSfoQAJiome9fSSjOK) | [Joy Kills Sorrow](https://open.spotify.com/artist/6ZRMYLLAQlmSluihxBYw0C) | [Wide Awake](https://open.spotify.com/album/7H7mBG6mk62oWCGL7L1uNI) | 4:13 |
 | 36 | [You've Got Time](https://open.spotify.com/track/7kPJfmUSy71QrHRbsOZtkZ) | [Marija Droze](https://open.spotify.com/artist/0BbnQu7WSJhCsdvBxMq0um) | [Maria with a "J"](https://open.spotify.com/album/0Ly2w49tSOoIUOtdAzGsFk) | 3:01 |
 | 37 | [Gentle On My Mind](https://open.spotify.com/track/74WL1tJtovyeOS6Zo4qIX9) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Windy City \(Deluxe\)](https://open.spotify.com/album/0ZV0ADSGaNPIt9Avv3H0GG) | 3:34 |
 | 38 | [Fire and Rain](https://open.spotify.com/track/4vqiHn2vIgs7HjJbc0pvYF) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [Fire and Rain](https://open.spotify.com/album/7gQEW5gWpzPgrObCHeZRob) | 3:33 |
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 82 | [Superstition](https://open.spotify.com/track/2KojzDNCOj7EQfasSNtXAn) | [Old School Freight Train](https://open.spotify.com/artist/2BNbKeVVXrlJcwyh9Se4ov) | [Run](https://open.spotify.com/album/441lN6kH5dgprlB88b6cbF) | 3:23 |
 | 83 | [Jolene](https://open.spotify.com/track/2NAxj5QpHT7YqpxQdil0jF) | [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [Back Home Again](https://open.spotify.com/album/4ilyNd7mmBL3EdkHl6vAc3) | 3:16 |
 | 84 | [Aerials](https://open.spotify.com/track/7nBxmiDUcqEyIXx9BrvD1P) | [The Barefoot Movement](https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt) | [Aerials](https://open.spotify.com/album/1XlXriACAISeyv0S8YZEn4) | 3:48 |
-| 85 | [Wild Horses](https://open.spotify.com/track/64gFlVpyORaPTWizf9nAdZ) | [Old & In The Way](https://open.spotify.com/artist/45vs9Drn5QbWAQ4Kff6ofh) | [Breakdown](https://open.spotify.com/album/1Loo5VCZwcTyNmnHfMuTf8) | 4:38 |
+| 85 | [Wild Horses](https://open.spotify.com/track/0oLZz6CXQ698XSO3J9DddL) | [Old & In The Way](https://open.spotify.com/artist/45vs9Drn5QbWAQ4Kff6ofh) | [Breakdown](https://open.spotify.com/album/3OWpFF6JfLHr728JT5PDAn) | 4:38 |
 | 86 | [The City of New Orleans](https://open.spotify.com/track/3Wocpg1YEEnPIJQEfk7dP8) | [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [The City of New Orleans](https://open.spotify.com/album/24HQRvGkASwDNSuCAVWrLo) | 4:11 |
 | 87 | [She Thinks I Still Care](https://open.spotify.com/track/6dLMYvXk5oBhxACr0PNvB0) | [Larry Sparks](https://open.spotify.com/artist/05c6W2NfXx6jxO28OGfPRA) | [It's Just Me](https://open.spotify.com/album/2n3PcUTqeReZYL980QVYOF) | 2:35 |
 | 88 | [Hey Ya \- live](https://open.spotify.com/track/4ztR83ZgTdg8H9xypnsQfS) | [Obadiah Parker](https://open.spotify.com/artist/3Kji8hBU9Tqea6pAWRwagQ) | [Hey Ya \(live\)](https://open.spotify.com/album/4BIE57kfW8ndo2CZn0QFfi) | 4:27 |
@@ -137,7 +137,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 127 | [Rocket Man](https://open.spotify.com/track/72dagJWCsNeAmHYBdQdksq) | [Mile Twelve](https://open.spotify.com/artist/7myKB37RtOM7sp6zU9qdJf) | [Rocket Man](https://open.spotify.com/album/2OmgpU3fI3fmUvbl69QqB8) | 3:23 |
 | 128 | [Fake Empire](https://open.spotify.com/track/0YZWUkELGlFigAxGLMnfj8) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:25 |
 | 129 | [Beat It](https://open.spotify.com/track/6lppKNQ2cJmxITiSRs2952) | [Honeywagon](https://open.spotify.com/artist/1wky7WkIkB0dvbzUShNpqx) | [Songs From Neverland](https://open.spotify.com/album/5bnpTjo2c8LCWIxGL15E61) | 3:34 |
-| 130 | [Wildwood Flower](https://open.spotify.com/track/3xckzvp58eFYnM7HEHSjMi) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW), [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks) | [True Bluegrass Instrumentals](https://open.spotify.com/album/6cwdLgLSa2CgKtRwvKZzDd) | 3:04 |
+| 130 | [Wildwood Flower](https://open.spotify.com/track/1Wzp8u0k19FJEFk8Al6ntI) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW), [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks) | [Second Generation](https://open.spotify.com/album/0cWKR22WUG8SH7CL2FP8hf) | 3:04 |
 | 131 | [Slow Dancing in a Burning Room](https://open.spotify.com/track/5YafubHfFZDXSZUtCLGRVX) | [Shadowgrass](https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE) | [Shadowgrass](https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1) | 4:15 |
 | 132 | [Gin and Juice](https://open.spotify.com/track/44eriZvPXHtb065mbCAfeg) | [Hayseed Dixie](https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi) | [Grasswhoopin' Party Pack, Vol\. 2](https://open.spotify.com/album/0CcwYASwggPkViUxIWFCUA) | 6:26 |
 | 133 | [Old Man](https://open.spotify.com/track/2yNGARwYc253fKGIy0CoyO) | [The Wailin' Jennys](https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj) | [40 Days](https://open.spotify.com/album/5x3Nva9X9Mjr15GI3YKaBr) | 3:11 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 138 | [No Diggity](https://open.spotify.com/track/2X2mue7uhDOCEgA3ewrB2l) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/0tDKZRvMt5Ek8ejQrnd4OU) | 5:51 |
 | 139 | [On The Road Again](https://open.spotify.com/track/3xkY21Y37cXIHrWTQBAKNZ) | [Craig Duncan](https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t) | [Country Mountain Tributes: The Songs of Willie Nelson](https://open.spotify.com/album/5hVPIFkN55JJWu2iM6CW5D) | 3:22 |
 
-Snapshot ID: `MCwwMWEzMGI1YjBkZThhMzYwMmQzMjA5NDI0YjhjOTY2OGY2YTFlMGU3`
+Snapshot ID: `MCw3YTE0ODk0Njc4ZmJmNmFlN2E4ZTZiOGZhZDFhNzNiYTllNTQwNWQ0`

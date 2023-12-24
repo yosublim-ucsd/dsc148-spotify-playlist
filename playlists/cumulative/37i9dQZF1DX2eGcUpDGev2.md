@@ -4,7 +4,7 @@
 
 > Drift off to sleep with instrumental lullaby versions of your favorite Christian music tracks.
 
-71 songs - 4 hr 31 min
+73 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Kumbayah \- Instrumental](https://open.spotify.com/track/5LjO90j8tutHzJQpGNUgbs) | [Christian Baby Lullabies](https://open.spotify.com/artist/5iFSxwrTVbDUEmWMwshpDr) | [Christian Baby Lullabies](https://open.spotify.com/album/3NP7dMEqedaEJxuYklL0A1) | 2:56 | 2021-03-23 |  |
 | [Lead Me To The Cross](https://open.spotify.com/track/4LR1Kd70oYyWMuFyQQSXTr) | [Hillsong Kids Jr.](https://open.spotify.com/artist/00NuUBL2vFbfQiCAqXSjcZ) | [Piano Lullabies \(Vol\. 1\)](https://open.spotify.com/album/0Zn4aPB1qQcg2dkCUGnxAG) | 4:45 | 2021-03-23 |  |
 | [Lord I Need You](https://open.spotify.com/track/4H64933XNWxxK1ApCfDYl9) | [Worship Lullaby](https://open.spotify.com/artist/4s39KkIp4ZerdqkOgRaX1e) | [Worship Lullaby, Vol\. I & II](https://open.spotify.com/album/2lU15LfyTEvjo7gd337hLO) | 4:00 | 2021-03-23 |  |
-| [Love Song For A Savior \(jars Of Clay Lullaby Tribute\)](https://open.spotify.com/track/50WEQ7sN1QT8xOEBSkLCgV) | [Lullaby Players](https://open.spotify.com/artist/1IVUK6wK1PvFI6adwUcoc4) | [Jars Of Clay Lullaby Renditions](https://open.spotify.com/album/2G7J1NGAQGZYTcdJQm6oDM) | 4:53 | 2021-03-23 |  |
+| [Love Song For A Savior \(jars Of Clay Lullaby Tribute\)](https://open.spotify.com/track/21vTQiIrV6pgPAnWQUevkc) | [Lullaby Players](https://open.spotify.com/artist/1IVUK6wK1PvFI6adwUcoc4) | [Jars Of Clay Lullaby Renditions](https://open.spotify.com/album/0V97zEzVCVJgJ9SepJFbZb) | 4:53 | 2021-03-23 |  |
+| [Love Song For A Savior \(jars Of Clay Lullaby Tribute\)](https://open.spotify.com/track/50WEQ7sN1QT8xOEBSkLCgV) | [Lullaby Players](https://open.spotify.com/artist/1IVUK6wK1PvFI6adwUcoc4) | [Jars Of Clay Lullaby Renditions](https://open.spotify.com/album/2G7J1NGAQGZYTcdJQm6oDM) | 4:53 | 2021-03-23 | 2023-12-24 |
 | [Meant to Live \(Lullaby Rendition\)](https://open.spotify.com/track/29JFzx7V6i2NEh6C1xcOo7) | [Jammy Jams](https://open.spotify.com/artist/6dnGWqFchmCpwCE47YtG7d) | [Once Upon This Rock: Christian Rock Goes Lullaby](https://open.spotify.com/album/4urPDg0c4vcisQKK5evThj) | 3:42 | 2021-03-23 |  |
 | [Michael, Row the Boat Ashore \- Instrumental](https://open.spotify.com/track/7rfMegEFbia0lWCYmbPUvu) | [Christian Baby Lullabies](https://open.spotify.com/artist/5iFSxwrTVbDUEmWMwshpDr) | [Christian Baby Lullabies](https://open.spotify.com/album/3NP7dMEqedaEJxuYklL0A1) | 3:28 | 2021-03-23 |  |
 | [More Than Life](https://open.spotify.com/track/2Rmhb463cT18dQyfekoP0E) | [Sweet Little Band](https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy) | [Hillsong for Babies](https://open.spotify.com/album/4vDrI4teuQp631wjCP5iC3) | 4:08 | 2021-03-23 |  |
@@ -57,7 +58,8 @@
 | [Now Behold the Lamb \- Lullaby Version](https://open.spotify.com/track/1bi4tbDdO18JYkOBRj0FPn) | [Christian Music For Babies From I’m In Records](https://open.spotify.com/artist/6oGDuzaxim1teeU1yjhokP) | [Praise and Worship Lullabies](https://open.spotify.com/album/0vwpyEFaefxgnSTRCuEdxF) | 3:23 | 2021-03-23 |  |
 | [Ocean \- Where Feet May Fail](https://open.spotify.com/track/1tOLH5ZweMAuZNL9c2qwnc) | [Christian Music For Babies From I’m In Records](https://open.spotify.com/artist/6oGDuzaxim1teeU1yjhokP) | [Baby Worship \(Piano Lullabies\)](https://open.spotify.com/album/0rChVqYfd7L4MDE5gJ49oL) | 4:21 | 2021-03-23 |  |
 | [Oh How I Love Jesus \- Music Box Lullaby and Nature Sounds](https://open.spotify.com/track/1zWdC68dKP3hYivbygGWPw) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Baby Christian Sleep Music \- Relaxing Worship Lullabies](https://open.spotify.com/album/5XW5tAFp0ujOQ12lVWBHvs) | 1:51 | 2021-03-23 |  |
-| [Open The Eyes Of My Heart](https://open.spotify.com/track/4PXMxjmY3hOyFUhMryjZSw) | [Sleepytime Worship](https://open.spotify.com/artist/2xChgoo2M9cy6PJWnxb1Ja) | [Michael W\. Smith Lullaby Renditions](https://open.spotify.com/album/4WJPTnXSDwMRoWHyL57Uki) | 3:13 | 2021-03-23 |  |
+| [Open The Eyes Of My Heart](https://open.spotify.com/track/4PXMxjmY3hOyFUhMryjZSw) | [Sleepytime Worship](https://open.spotify.com/artist/2xChgoo2M9cy6PJWnxb1Ja) | [Michael W\. Smith Lullaby Renditions](https://open.spotify.com/album/4WJPTnXSDwMRoWHyL57Uki) | 3:13 | 2021-03-23 | 2023-12-24 |
+| [Open The Eyes Of My Heart](https://open.spotify.com/track/6dvM3kUCPV9Wamz8aT4pyu) | [Sleepytime Worship](https://open.spotify.com/artist/2xChgoo2M9cy6PJWnxb1Ja) | [Michael W\. Smith Lullaby Renditions](https://open.spotify.com/album/7xB8qQdFXpajyqaP2juPBw) | 3:13 | 2021-03-23 |  |
 | [Our Mountain Home So Dear](https://open.spotify.com/track/57QK0sFb5TMD4b5b8bI9Y9) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Christian lullabies, Vol\. 1](https://open.spotify.com/album/71rA2y1clYcq9YrjUtrfAm) | 2:36 | 2021-03-23 |  |
 | [Praise Him, Praise Him \- Music Box Lullaby and Nature Sounds](https://open.spotify.com/track/14VZZ9wUVAL8rgzFyj7eNx) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Baby Christian Sleep Music \- Relaxing Worship Lullabies](https://open.spotify.com/album/5XW5tAFp0ujOQ12lVWBHvs) | 3:02 | 2021-03-23 |  |
 | [Praise You In This Storm \(casting Crowns Lullaby Tribute\)](https://open.spotify.com/track/4dfNmOttOfCuntjFPdgp6f) | [Lullaby Players](https://open.spotify.com/artist/1IVUK6wK1PvFI6adwUcoc4) | [Casting Crowns Lullaby Renditions](https://open.spotify.com/album/6cELP2muq0AgVIxg1jqfZa) | 4:35 | 2021-03-23 |  |

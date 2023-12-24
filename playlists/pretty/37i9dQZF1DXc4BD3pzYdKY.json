@@ -1,12 +1,12 @@
 {
   "description": "The best of Christian Hip Hop today.  Cover:  <a href=\"spotify:artist:0GdzQJqgRL5SHp7kXOKba0\">Wande</a>",
-  "num_followers": 144791,
+  "num_followers": 144853,
   "original_name": "The Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZGViZjcxNjM2MDVmMDM4Zjc3MWRiMjM5NGQ1NTY0ZjI5Njc0NGMx",
+  "snapshot_id": "MCxjMDAwYzI5OGMzZmUyMzZlMGY0MDk4OTBhYzIyNzkxNWI3NzcxNTNm",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -907,26 +907,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Giants",
-        "url": "https://open.spotify.com/album/0spOTYRQFWRbNwapBauYmg"
-      },
-      "artists": [
-        {
-          "name": "Roy Tosh",
-          "url": "https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye"
-        },
-        {
-          "name": "Kurtis Hoppie",
-          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
-        }
-      ],
-      "duration_ms": 163500,
-      "name": "Giants",
-      "url": "https://open.spotify.com/track/0N8R08onW7h8ghBhns9TqV"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "RIGHT NOW",
         "url": "https://open.spotify.com/album/2A0L5NLUV0X56PZqDQtrIE"
       },
@@ -947,18 +927,38 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Durag Tech",
-        "url": "https://open.spotify.com/album/3t8yOw7akcDVXMa5LCRQaY"
+        "name": "Giants",
+        "url": "https://open.spotify.com/album/0spOTYRQFWRbNwapBauYmg"
       },
       "artists": [
         {
-          "name": "MvkeyyJ",
-          "url": "https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB"
+          "name": "Roy Tosh",
+          "url": "https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye"
+        },
+        {
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
         }
       ],
-      "duration_ms": 140122,
-      "name": "Tough Love",
-      "url": "https://open.spotify.com/track/63N6oeVUu4RehqpPutwwcC"
+      "duration_ms": 163500,
+      "name": "Giants",
+      "url": "https://open.spotify.com/track/0N8R08onW7h8ghBhns9TqV"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Marvelous",
+        "url": "https://open.spotify.com/album/6oN7cV6Q5o1FyvUBVeLKdt"
+      },
+      "artists": [
+        {
+          "name": "Mission",
+          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
+        }
+      ],
+      "duration_ms": 142826,
+      "name": "Marvelous",
+      "url": "https://open.spotify.com/track/59F2Wpzbsv3PZEb1ngr4TZ"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Marvelous",
-        "url": "https://open.spotify.com/album/6oN7cV6Q5o1FyvUBVeLKdt"
-      },
-      "artists": [
-        {
-          "name": "Mission",
-          "url": "https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba"
-        }
-      ],
-      "duration_ms": 142826,
-      "name": "Marvelous",
-      "url": "https://open.spotify.com/track/59F2Wpzbsv3PZEb1ngr4TZ"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Help!",
         "url": "https://open.spotify.com/album/5G8lpUlWQbQ8s9P4ey3ZDW"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 157954,
       "name": "Help!",
       "url": "https://open.spotify.com/track/7lxxnK2IspUkgdgNwvi43W"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Durag Tech",
+        "url": "https://open.spotify.com/album/3t8yOw7akcDVXMa5LCRQaY"
+      },
+      "artists": [
+        {
+          "name": "MvkeyyJ",
+          "url": "https://open.spotify.com/artist/1cb6wnb7TWYMH7FdMhTQhB"
+        }
+      ],
+      "duration_ms": 140122,
+      "name": "Tough Love",
+      "url": "https://open.spotify.com/track/63N6oeVUu4RehqpPutwwcC"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Cardio",
+        "url": "https://open.spotify.com/album/5jDsJJZqCnGBoYC5lCv0yU"
+      },
+      "artists": [
+        {
+          "name": "Steven Malcolm",
+          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Cardio",
+      "url": "https://open.spotify.com/track/3TFqmSj8f86nCBTTF0GjB6"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "God Got My Back",
         "url": "https://open.spotify.com/album/4ti9NUt7pGnHx0dpRv5CWX"
       },
@@ -1091,42 +1107,6 @@
       "duration_ms": 179916,
       "name": "God Got My Back",
       "url": "https://open.spotify.com/track/6p5X1ACrVlUNM2MMD8f97i"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Cardio",
-        "url": "https://open.spotify.com/album/5jDsJJZqCnGBoYC5lCv0yU"
-      },
-      "artists": [
-        {
-          "name": "Steven Malcolm",
-          "url": "https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Cardio",
-      "url": "https://open.spotify.com/track/3TFqmSj8f86nCBTTF0GjB6"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Church Clothes 4: Dry Clean Only",
-        "url": "https://open.spotify.com/album/45xopJH4y7YpIHmogMMLD7"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        },
-        {
-          "name": "D Smoke",
-          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
-        }
-      ],
-      "duration_ms": 180221,
-      "name": "Can You Hear Me Now?",
-      "url": "https://open.spotify.com/track/7Lg6d8ii0EXRqPLsgVjAaa"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1159,6 +1139,26 @@
       "duration_ms": 145777,
       "name": "Rich Friends",
       "url": "https://open.spotify.com/track/7e6ToLxecnfajWwIttmASN"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Church Clothes 4: Dry Clean Only",
+        "url": "https://open.spotify.com/album/45xopJH4y7YpIHmogMMLD7"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        },
+        {
+          "name": "D Smoke",
+          "url": "https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo"
+        }
+      ],
+      "duration_ms": 180221,
+      "name": "Can You Hear Me Now?",
+      "url": "https://open.spotify.com/track/7Lg6d8ii0EXRqPLsgVjAaa"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Potential",
-        "url": "https://open.spotify.com/album/1WnJo2qTW2AI9V4Dps4sS2"
-      },
-      "artists": [
-        {
-          "name": "Drika Will",
-          "url": "https://open.spotify.com/artist/5VdviwU19Vq41743Wk12FB"
-        },
-        {
-          "name": "Jekasole",
-          "url": "https://open.spotify.com/artist/6n0IUD1yLutKG8sWtKkjly"
-        }
-      ],
-      "duration_ms": 196578,
-      "name": "Potential",
-      "url": "https://open.spotify.com/track/1sVLkx9hkLcKNeg5GDrtuw"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Back Home",
         "url": "https://open.spotify.com/album/1VhItGSjs8QApj21BtFVJC"
       },
@@ -1283,6 +1263,26 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Potential",
+        "url": "https://open.spotify.com/album/1WnJo2qTW2AI9V4Dps4sS2"
+      },
+      "artists": [
+        {
+          "name": "Drika Will",
+          "url": "https://open.spotify.com/artist/5VdviwU19Vq41743Wk12FB"
+        },
+        {
+          "name": "Jekasole",
+          "url": "https://open.spotify.com/artist/6n0IUD1yLutKG8sWtKkjly"
+        }
+      ],
+      "duration_ms": 196578,
+      "name": "Potential",
+      "url": "https://open.spotify.com/track/1sVLkx9hkLcKNeg5GDrtuw"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "L",
         "url": "https://open.spotify.com/album/7pJtu1Hs5IaC7cIncpN3C6"
       },
@@ -1295,22 +1295,6 @@
       "duration_ms": 170250,
       "name": "L",
       "url": "https://open.spotify.com/track/13GUmWrOYPpjTS1Mf9LQih"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "MMA FREESTYLE",
-        "url": "https://open.spotify.com/album/3Wi53WQYcNOEMNyARbedUv"
-      },
-      "artists": [
-        {
-          "name": "Tedashii",
-          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
-        }
-      ],
-      "duration_ms": 151200,
-      "name": "MMA FREESTYLE",
-      "url": "https://open.spotify.com/track/2urYySklcQOCEMBW5JjWE8"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1331,18 +1315,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/0qAatrpLz8e3mTDfgehXCH"
+        "name": "MMA FREESTYLE",
+        "url": "https://open.spotify.com/album/3Wi53WQYcNOEMNyARbedUv"
       },
       "artists": [
         {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+          "name": "Tedashii",
+          "url": "https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1"
         }
       ],
-      "duration_ms": 154970,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/4srODfoVNeEl1Djn2ZAvKc"
+      "duration_ms": 151200,
+      "name": "MMA FREESTYLE",
+      "url": "https://open.spotify.com/track/2urYySklcQOCEMBW5JjWE8"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1363,18 +1347,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "OH YHWH",
-        "url": "https://open.spotify.com/album/4biIpv7wVXmhf06UAxyrA7"
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/0qAatrpLz8e3mTDfgehXCH"
       },
       "artists": [
         {
-          "name": "Angie Rose",
-          "url": "https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX"
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
         }
       ],
-      "duration_ms": 183244,
-      "name": "OH YHWH",
-      "url": "https://open.spotify.com/track/5PIvQYomJsN556rV4IIZal"
+      "duration_ms": 154970,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/4srODfoVNeEl1Djn2ZAvKc"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1391,6 +1375,22 @@
       "duration_ms": 112250,
       "name": "CLOSURE",
       "url": "https://open.spotify.com/track/4Uxe13LHaaqzRLglIccaSW"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "OH YHWH",
+        "url": "https://open.spotify.com/album/4biIpv7wVXmhf06UAxyrA7"
+      },
+      "artists": [
+        {
+          "name": "Angie Rose",
+          "url": "https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX"
+        }
+      ],
+      "duration_ms": 183244,
+      "name": "OH YHWH",
+      "url": "https://open.spotify.com/track/5PIvQYomJsN556rV4IIZal"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1455,6 +1455,38 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "GROOVY FREESTYLE (REMIX)",
+        "url": "https://open.spotify.com/album/4qWe3ltHgJkRGWxX8VReWo"
+      },
+      "artists": [
+        {
+          "name": "Brenno",
+          "url": "https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV"
+        },
+        {
+          "name": "Childlike CiCi",
+          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
+        },
+        {
+          "name": "Taylor Wells",
+          "url": "https://open.spotify.com/artist/5N8yHPMJtGvA5dxeIEqu6O"
+        },
+        {
+          "name": "Kieran the Light",
+          "url": "https://open.spotify.com/artist/7pDD4BBx6S42ZX513NQdp1"
+        },
+        {
+          "name": "Tre'Gadd",
+          "url": "https://open.spotify.com/artist/6NCcfV9K0gZqFBfFLQqWRH"
+        }
+      ],
+      "duration_ms": 211788,
+      "name": "GROOVY FREESTYLE (REMIX)",
+      "url": "https://open.spotify.com/track/75I3cFxZ68lLh9y61DhASM"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Second Wind",
         "url": "https://open.spotify.com/album/6PW0HnPuoe3xRde483kbAr"
       },
@@ -1503,34 +1535,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "GROOVY FREESTYLE (REMIX)",
-        "url": "https://open.spotify.com/album/4qWe3ltHgJkRGWxX8VReWo"
+        "name": "What?",
+        "url": "https://open.spotify.com/album/4hpOq5jJwDOm3ziv3XTzzw"
       },
       "artists": [
         {
-          "name": "Brenno",
-          "url": "https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV"
-        },
-        {
-          "name": "Childlike CiCi",
-          "url": "https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1"
-        },
-        {
-          "name": "Taylor Wells",
-          "url": "https://open.spotify.com/artist/5N8yHPMJtGvA5dxeIEqu6O"
-        },
-        {
-          "name": "Kieran the Light",
-          "url": "https://open.spotify.com/artist/7pDD4BBx6S42ZX513NQdp1"
-        },
-        {
-          "name": "Tre'Gadd",
-          "url": "https://open.spotify.com/artist/6NCcfV9K0gZqFBfFLQqWRH"
+          "name": "Reece Lache",
+          "url": "https://open.spotify.com/artist/4JM7nxReyQzeaaafLkhQYe"
         }
       ],
-      "duration_ms": 211788,
-      "name": "GROOVY FREESTYLE (REMIX)",
-      "url": "https://open.spotify.com/track/75I3cFxZ68lLh9y61DhASM"
+      "duration_ms": 132472,
+      "name": "What?",
+      "url": "https://open.spotify.com/track/6QF4hXZyp6QCrwakTtVO1v"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1547,22 +1563,6 @@
       "duration_ms": 104004,
       "name": "Milk & Honey",
       "url": "https://open.spotify.com/track/3choLLOasD08nJeF3cWkDV"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "What?",
-        "url": "https://open.spotify.com/album/4hpOq5jJwDOm3ziv3XTzzw"
-      },
-      "artists": [
-        {
-          "name": "Reece Lache",
-          "url": "https://open.spotify.com/artist/4JM7nxReyQzeaaafLkhQYe"
-        }
-      ],
-      "duration_ms": 132472,
-      "name": "What?",
-      "url": "https://open.spotify.com/track/6QF4hXZyp6QCrwakTtVO1v"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Bend The Whip",
-        "url": "https://open.spotify.com/album/5rwFEKB8GgdsEAbEaWvnWB"
-      },
-      "artists": [
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "Bend The Whip",
-      "url": "https://open.spotify.com/track/3ABLULiimnqZkQFTb6QsZh"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "LIGHTHOUSE",
         "url": "https://open.spotify.com/album/28K5FbI0YB10Ur7Yu5IXlR"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 118848,
       "name": "LIGHTHOUSE",
       "url": "https://open.spotify.com/track/298kUZPvMcmBS9piV4fGOe"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Bend The Whip",
+        "url": "https://open.spotify.com/album/5rwFEKB8GgdsEAbEaWvnWB"
+      },
+      "artists": [
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "Bend The Whip",
+      "url": "https://open.spotify.com/track/3ABLULiimnqZkQFTb6QsZh"
     },
     {
       "added_at": "2023-12-15 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,977 likes - 110 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,974 likes - 110 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 109 | [會後悔的決定 \- 電影《不能流淚的悲傷》插曲](https://open.spotify.com/track/3e4a1G5xmsuW703qAxvYOb) | [Where Chou](https://open.spotify.com/artist/0T1grpeZ4qvXm7ALeRPKno) | [會後悔的決定](https://open.spotify.com/album/6b3OWXuVUK3vrKMxeyd7fJ) | 3:56 |
 | 110 | [無目的地找目的地](https://open.spotify.com/track/1zUUzYDdGrPzY4k6bKDd0j) | [Jam Hsiao](https://open.spotify.com/artist/4AJcTAMOLkRl3vf4syay8Q) | [無目的地找目的地](https://open.spotify.com/album/1QrXkMOEaKeRPGjlbut8ym) | 3:40 |
 
-Snapshot ID: `MCwwNmVhMDM2YTMzMzg3NmE2NDkyMWIyZDcxYjk2NjIyNjE3YTZjMjc4`
+Snapshot ID: `MCw5OWY1ODM1NmU2ZTQ1YjIwN2UxYjI1NDYyOTM3NmZjY2MwYjEwZmVi`

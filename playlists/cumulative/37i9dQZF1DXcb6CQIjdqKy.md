@@ -4,7 +4,7 @@
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover:  <a href="spotify:artist:4GKPfwrzMoTyu7bYd4aqU1">JPCC Worship</a>
 
-674 songs - 1 day 23 hr 10 min
+676 songs - 1 day 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [A Thousand Hallelujahs \- Radio Version](https://open.spotify.com/track/7Epq07uvSDsLNul46niwb2) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [A Thousand Hallelujahs](https://open.spotify.com/album/3u2dlepgO3ee53VzrrhT5C) | 3:42 | 2023-02-10 | 2023-08-26 |
 | [A Thousand Shores](https://open.spotify.com/track/34D9sGQt8RpdUNEyuoV9Nq) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [A Thousand Shores](https://open.spotify.com/album/170bHnUXXFundFpqC0eRPT) | 4:15 | 2022-07-01 | 2022-11-19 |
 | [Abba](https://open.spotify.com/track/7giTK6DqwQcqIFWFLPfx75) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Forever](https://open.spotify.com/album/0BhDTtUjBtRHpovk2MbIK7) | 3:08 | 2022-11-11 | 2023-04-15 |
-| [Able](https://open.spotify.com/track/736A53Kw337Z5zrJhH24jP) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Marvin Winans](https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79) | [My Truth](https://open.spotify.com/album/0JjHp7nS2lKkwalcUyrWFn) | 5:02 | 2023-02-17 |  |
+| [Able](https://open.spotify.com/track/0ICGreKEIidNiyIGMVwS1E) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Marvin Winans](https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79) | [My Truth](https://open.spotify.com/album/07zEDWrPhqROuygaSwVTHm) | 5:02 | 2023-12-15 |  |
+| [Able](https://open.spotify.com/track/736A53Kw337Z5zrJhH24jP) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Marvin Winans](https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79) | [My Truth](https://open.spotify.com/album/0JjHp7nS2lKkwalcUyrWFn) | 5:02 | 2023-02-17 | 2023-12-24 |
 | [Acts 2](https://open.spotify.com/track/2SMCSikXj3CYsghcaUVscv) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Acts 2](https://open.spotify.com/album/1dMORalDL5wqJ4xEIN61U1) | 6:15 | 2023-09-22 |  |
 | [Again](https://open.spotify.com/track/5R3susWR1HXEfUQzNNhFo5) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Father's Day](https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu) | 6:14 | 2023-10-06 |  |
 | [Ain't Nobody \- Radio Version](https://open.spotify.com/track/2iNzuYDmmD8dgEMLEaEpTx) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Ain't Nobody](https://open.spotify.com/album/7fhnMJOjUfoIpU10Vrknv2) | 3:33 | 2022-09-02 | 2023-07-08 |
@@ -357,7 +358,8 @@
 | [Look At God](https://open.spotify.com/track/1Vpoqhhrf1zO1leCfJkKCz) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Look At God](https://open.spotify.com/album/3M28YujBKpNrnyIt4ssMRK) | 3:39 | 2023-09-15 |  |
 | [Look What You've Done](https://open.spotify.com/track/4jwOLoEPJaOvluUYBNpxCy) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Look What You've Done](https://open.spotify.com/album/4aMweKaQNh6Yc8cg4WoMu5) | 3:25 | 2021-12-17 | 2022-03-12 |
 | [Lookin' For You \- Live](https://open.spotify.com/track/1jh5km6hF7X6XzpiWXIx2s) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Austin City Limits Live at the Moody Theater](https://open.spotify.com/album/5RxeM2ESYr0Nuv7MTCy309) | 3:54 | 2023-06-23 | 2023-08-12 |
-| [Lord I Love You \- Live](https://open.spotify.com/track/6DO834OLITajOfoPJ27ckA) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [The Journey \(Live\)](https://open.spotify.com/album/55qkczyxlKcvYDDX5vpgFj) | 8:36 | 2023-11-10 |  |
+| [Lord I Love You \- Live](https://open.spotify.com/track/4IyHTTasZEExnoGJ1eUtnA) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [The Journey \(Live\)](https://open.spotify.com/album/0UlY4iqR0diqdIoGBVKNFP) | 8:36 | 2023-12-15 |  |
+| [Lord I Love You \- Live](https://open.spotify.com/track/6DO834OLITajOfoPJ27ckA) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [The Journey \(Live\)](https://open.spotify.com/album/55qkczyxlKcvYDDX5vpgFj) | 8:36 | 2023-11-10 | 2023-12-24 |
 | [lost ‘cause](https://open.spotify.com/track/6RjhyqZZgQz65hOUFdBIEm) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [interrobang](https://open.spotify.com/album/4i7jYYRg860Ni7nxqoimzj) | 3:44 | 2021-12-17 | 2022-04-09 |
 | [Love Is Everything We Need](https://open.spotify.com/track/4U4MhlKh1s5DW1PH4W3PbG) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Love Is Everything We Need](https://open.spotify.com/album/6QonKeISFBF4m0uucPdv1M) | 2:37 | 2022-06-17 | 2022-12-03 |
 | [Love Is The Reason \- Live](https://open.spotify.com/track/7qTXrYDJFQ525k3prdXCEN) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [New Creation \(Live\)](https://open.spotify.com/album/1MVNR0lVZKN4p5wy5LRbdo) | 3:31 | 2022-04-08 | 2022-06-11 |

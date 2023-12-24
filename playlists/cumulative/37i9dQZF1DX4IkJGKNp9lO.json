@@ -1654,7 +1654,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 186396,
       "name": "Hj\u00e4rtat",
       "url": "https://open.spotify.com/track/2TRQQ03nz28tjQcq4bHbBO"
@@ -4270,6 +4270,24 @@
       "duration_ms": 130360,
       "name": "Troll Och H\u00e4xor",
       "url": "https://open.spotify.com/track/6ly3rSnZYQqHP6qCVbMuuZ"
+    },
+    {
+      "album": {
+        "name": "Bara skiten avtar",
+        "url": "https://open.spotify.com/album/3iBrrZEan24fG7L8gEp6mv"
+      },
+      "artists": [
+        {
+          "name": "Norra Hospitalet",
+          "url": "https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128345,
+      "name": "Tuffa tjejer",
+      "url": "https://open.spotify.com/track/54t6OXb9ULThYhHoluZd1s"
     },
     {
       "album": {

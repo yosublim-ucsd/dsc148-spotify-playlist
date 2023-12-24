@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Wizkid
 
-1,892 songs - 4 day 4 hr 46 min
+1,894 songs - 4 day 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -951,7 +951,8 @@
 | [Liquor \(with Ari Lennox\)](https://open.spotify.com/track/5ykuFZXYbA8frwBmutsoFx) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:18 | 2022-10-21 | 2022-10-26 |
 | [Liquor Locker](https://open.spotify.com/track/7iWR62SgwwDh17soqCALi0) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [JENA](https://open.spotify.com/album/2FpBj92pSFehoa23LolojW) | 4:32 | 2023-10-20 | 2023-12-02 |
 | [Liquor Store In The Sky \(feat\. Freddie Gibbs\)](https://open.spotify.com/track/0y3DGDbZOewDRrNIhchtDj) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Liquor Store In The Sky \(feat\. Freddie Gibbs\)](https://open.spotify.com/album/1ynqhxlDR4UiGEJB1obGdu) | 3:20 | 2023-06-09 | 2023-07-29 |
-| [Little Blue Moon](https://open.spotify.com/track/0Lmx2qlN2FbeGWgqTBzQ2k) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Little Blue Moon](https://open.spotify.com/album/4BRgkGx8jvMncKLgugeVYp) | 2:48 | 2023-11-17 |  |
+| [Little Blue Moon](https://open.spotify.com/track/0Lmx2qlN2FbeGWgqTBzQ2k) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Little Blue Moon](https://open.spotify.com/album/4BRgkGx8jvMncKLgugeVYp) | 2:48 | 2023-11-17 | 2023-12-24 |
+| [Little Blue Moon](https://open.spotify.com/track/3buMYqs28GrIx9T5rcl2we) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Little Blue Moon](https://open.spotify.com/album/3vWO9Cph9rejneWpuF79lq) | 2:48 | 2023-11-17 |  |
 | [little story](https://open.spotify.com/track/4ZfwRdhHblKGWcrMYeZMex) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [little story](https://open.spotify.com/album/38vZ3y2bFWOfq3VywVdKam) | 3:18 | 2022-02-25 | 2022-04-02 |
 | [Little Things](https://open.spotify.com/track/1javLzBHyEKJJrG3s6FHaM) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things](https://open.spotify.com/album/4YBGGd7KYurLSbc6XKDnSO) | 3:24 | 2023-05-12 | 2023-06-03 |
 | [Live Some Life \(feat\. DING DONG\)](https://open.spotify.com/track/35MNHqBGewFxlJZtjHOxvj) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [DING DONG](https://open.spotify.com/artist/351x2S7CduShTNvtzgkMl7) | [Live Some Life \(feat\. DING DONG\)](https://open.spotify.com/album/3SwPKWhYOkIGL3AF0CC6sY) | 3:05 | 2022-10-07 | 2023-01-06 |
@@ -1883,7 +1884,8 @@
 | [you](https://open.spotify.com/track/1U2fUzMkgprQoocKlYu3Oj) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [you](https://open.spotify.com/album/3R0Vj38qjC04rYeHLDPC2p) | 2:55 | 2022-08-26 | 2022-10-01 |
 | [YOU](https://open.spotify.com/track/5OuASjeBIKFKBxslQCTbXJ) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [YOU](https://open.spotify.com/album/2BAYApB6DoC15IToR95xSk) | 4:00 | 2023-03-17 | 2023-04-15 |
 | [you already know \[demo\_2021\].wav](https://open.spotify.com/track/6xZuNFT2XCM4TesLeKh9C6) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [you already know \[demo\_2021\].wav](https://open.spotify.com/album/4iXRAGPayHGQyBCfGvG210) | 3:02 | 2023-08-11 | 2023-09-30 |
-| [You Bring The Love](https://open.spotify.com/track/149fBDwVVHfw2MlOMSJgiF) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS), [Louis York](https://open.spotify.com/artist/0owrNlxvcLL8KI0U5sYBUb), [We Sound Crazy](https://open.spotify.com/artist/5PWUiJtn4mRYya62TSdZ04) | [You Bring The Love](https://open.spotify.com/album/58VcFrioXE1f8hhqwqA6y6) | 2:58 | 2023-11-17 |  |
+| [You Bring The Love](https://open.spotify.com/track/149fBDwVVHfw2MlOMSJgiF) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS), [Louis York](https://open.spotify.com/artist/0owrNlxvcLL8KI0U5sYBUb), [We Sound Crazy](https://open.spotify.com/artist/5PWUiJtn4mRYya62TSdZ04) | [You Bring The Love](https://open.spotify.com/album/58VcFrioXE1f8hhqwqA6y6) | 2:58 | 2023-11-17 | 2023-12-24 |
+| [You Bring The Love](https://open.spotify.com/track/1lJ00UnZ2bFQvG4UmQieKO) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS), [Louis York](https://open.spotify.com/artist/0owrNlxvcLL8KI0U5sYBUb), [We Sound Crazy](https://open.spotify.com/artist/5PWUiJtn4mRYya62TSdZ04) | [You Bring The Love](https://open.spotify.com/album/62axGb6p8Fq7HRf8loNGrk) | 2:58 | 2023-11-17 |  |
 | [You Don't Care](https://open.spotify.com/track/6ZjFypZ0iYpF5JFfzFt5KR) | [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ) | [Ms\. Jackson / You Don't Care](https://open.spotify.com/album/6YtdlrAYogVDrgGN97yCAi) | 3:06 | 2023-07-14 | 2023-08-19 |
 | [You Don't Know Nothin'](https://open.spotify.com/track/5lX927qU58yRuSSOYfyITD) | [H3rizon](https://open.spotify.com/artist/3ZaZApU5I9vSUHzOoUlp0D) | [You Don't Know Nothin'](https://open.spotify.com/album/7MiRknQQ1NCBI2M3XhQ4SK) | 2:31 | 2023-10-27 | 2023-12-02 |
 | [You Got This](https://open.spotify.com/track/6uI4xbZ7ASvRO9oEVZfZPF) | [Peter Collins](https://open.spotify.com/artist/7DpuhYociyFsr9lp4Ifmy8) | [enLIGHTened](https://open.spotify.com/album/4klK7oTdo6DCUIuttcEJrh) | 3:44 | 2022-11-04 | 2022-12-10 |

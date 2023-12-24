@@ -4,7 +4,7 @@
 
 > Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.
 
-73 songs - 7 hr 5 min
+74 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [The Man I Love](https://open.spotify.com/track/2nr3BJgSKhoDA3M9D06BqV) | [Peter Breiner](https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su), [Juray Bartos](https://open.spotify.com/artist/1ZSl3P99J9PoSGw5ufKQ7n), [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [Gershwin For Trumpet \(arr\. J\. Bartos and P\. Breiner\)](https://open.spotify.com/album/5JpS68qm2fJzPOalGCjGxw) | 4:38 | 2022-08-05 |  |
 | [Three Preludes: II\. Andante con moto e poco rubato \- Live](https://open.spotify.com/track/6P0rOiYri6N6hoTehFCvhq) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Evgeny Kissin](https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ) | [Gershwin: Three Preludes: II\. Andante con moto e poco rubato \(Live\)](https://open.spotify.com/album/3fPIgWLlF96SEKMV55Nd4i) | 3:19 | 2022-08-05 |  |
 | [Three\-Quarter Blues](https://open.spotify.com/track/0YOj32JKSgt2MQXz7yvpVS) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Simon Tedeschi](https://open.spotify.com/artist/7oB8O1OribJYpFWTfRrbl6) | [Gershwin Take Two](https://open.spotify.com/album/1eUkvcNIuj8xjJb38Cp5vY) | 2:11 | 2022-08-05 |  |
-| [Walking the Dog](https://open.spotify.com/track/0phdb9laifEUNBfe5fO1jp) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Iain Sutherland Concert Orchestra](https://open.spotify.com/artist/0T8RuYrFepdPuz5Zkpyo1a), [Iain Sutherland](https://open.spotify.com/artist/5IMrAzailmE4a1Xh84e2ss) | [Manhattan Playboys \- American Light Classics](https://open.spotify.com/album/503iQX6wnNcm6vvUB7A4Rx) | 3:06 | 2022-08-05 |  |
+| [Walking the Dog](https://open.spotify.com/track/0phdb9laifEUNBfe5fO1jp) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Iain Sutherland Concert Orchestra](https://open.spotify.com/artist/0T8RuYrFepdPuz5Zkpyo1a), [Iain Sutherland](https://open.spotify.com/artist/5IMrAzailmE4a1Xh84e2ss) | [Manhattan Playboys \- American Light Classics](https://open.spotify.com/album/503iQX6wnNcm6vvUB7A4Rx) | 3:06 | 2022-08-05 | 2023-12-24 |
+| [Walking the Dog](https://open.spotify.com/track/44BqSNIY939oSXXYWYfoQJ) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Iain Sutherland Concert Orchestra](https://open.spotify.com/artist/0T8RuYrFepdPuz5Zkpyo1a), [Iain Sutherland](https://open.spotify.com/artist/5IMrAzailmE4a1Xh84e2ss) | [Manhattan Playboys \- American Light Classics](https://open.spotify.com/album/4to8RtQ37KGn9KPliy7E2m) | 3:06 | 2022-08-05 |  |
 | [Who Cares?](https://open.spotify.com/track/7h8Y5ozXb7D7COLHahSq4b) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Steppin' Out](https://open.spotify.com/album/0DItsczVSy5rOaJOOIZ49F) | 3:17 | 2022-08-05 |  |
 
 \*This playlist was first scraped on 2022-08-25. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Blues, but funky\. Or funk, but bluesy\. Cover: Kenny Wayne Shepherd
 
-114 songs - 7 hr 31 min
+115 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,8 +83,9 @@
 | [Mindcontrol](https://open.spotify.com/track/2PLg25HdGsV0gcSMVfSFTX) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [Mindcontrol](https://open.spotify.com/album/55YrVbIQaV9W9tP8gnIYpT) | 3:28 | 2020-08-21 | 2022-07-29 |
 | [Morning Star](https://open.spotify.com/track/68vlQoNTUDvujcUVwdMkT1) | [Philip Sayce Group](https://open.spotify.com/artist/2aV2zINHEpRvHLmXl8AaRO), [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Philip Sayce Group](https://open.spotify.com/album/1RadxbsRJvE1XI0e3AH8t6) | 5:09 | 2020-08-21 | 2022-07-29 |
 | [Morning Star](https://open.spotify.com/track/7fZDPth2IuCiUhvkN8OIWS) | [Philip Sayce Group](https://open.spotify.com/artist/2aV2zINHEpRvHLmXl8AaRO), [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Philip Sayce Group](https://open.spotify.com/album/3O4ePFcSYhzM4RMHkG5d1j) | 5:09 | 2020-08-21 | 2023-11-11 |
+| [Motivational Speaker](https://open.spotify.com/track/1xqLHiTiCjryxjIobgBxZx) | [Alvin Youngblood Hart](https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG) | [Motivational Speaker](https://open.spotify.com/album/2wX2Al1PYn88BRDFchSIff) | 3:55 | 2020-08-21 |  |
 | [Motivational Speaker](https://open.spotify.com/track/5ZhnaKTGhvnXjSqIQVuCow) | [Alvin Youngblood Hart](https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG) | [Motivational Speaker](https://open.spotify.com/album/5xEupHqhptd500VR6JHaJE) | 3:55 | 2020-08-21 | 2022-07-29 |
-| [Motivational Speaker](https://open.spotify.com/track/6PJE3j017zKto7sv2wUrNy) | [Alvin Youngblood Hart](https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG) | [Motivational Speaker](https://open.spotify.com/album/7AJJXxJIYOUkMZzYY0xXOO) | 3:55 | 2020-08-21 |  |
+| [Motivational Speaker](https://open.spotify.com/track/6PJE3j017zKto7sv2wUrNy) | [Alvin Youngblood Hart](https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG) | [Motivational Speaker](https://open.spotify.com/album/7AJJXxJIYOUkMZzYY0xXOO) | 3:55 | 2020-08-21 | 2023-12-24 |
 | [Open Road](https://open.spotify.com/track/4kAOHwPEBawS1znACiyuqA) | [Oli Brown](https://open.spotify.com/artist/2b5hTGWhfcA88PyeZAJ3Ma) | [Open Road](https://open.spotify.com/album/1L2NhLHg4muWzR7cHpriPb) | 3:47 | 2020-08-21 |  |
 | [Openness](https://open.spotify.com/track/6H4ur69PVIZJlX60jTntAM) | [Henrik Freischlader](https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu) | [Openness](https://open.spotify.com/album/0Px0ciCMhvJY1gMhjL7Cgp) | 4:26 | 2020-08-21 |  |
 | [Plastic Hamburgers](https://open.spotify.com/track/2bmBc4ovS9p18e1IUYHSE9) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Plastic Hamburgers](https://open.spotify.com/album/5oYfjMuqOR07P45xNSjlab) | 3:37 | 2020-08-21 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 
 > Ahgases! 7 or nothing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 417,007 likes - 132 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 417,029 likes - 132 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 | 9 | [Two](https://open.spotify.com/track/3aAgLPtl0SMPmrY6go45pe) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [GOT7](https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM) | 3:15 |
 | 10 | [Don't Care About Me](https://open.spotify.com/track/1Sy1ZJBwL22SG1QGwkmwqC) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [GOT7](https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM) | 3:11 |
 | 11 | [Don't Leave Me Alone](https://open.spotify.com/track/4fMQoUbHEDQuunJiYbLXpL) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [GOT7](https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM) | 4:06 |
-| 12 | [Wheels Up](https://open.spotify.com/track/46By0NR1h14uaYIQ21U9rn) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr), [Mayzin](https://open.spotify.com/artist/52bD0lfgcUwxbQMrCrYMRd) | [Wheels Up](https://open.spotify.com/album/7EX8mGWkjAW6Ik4AqhxsIP) | 3:20 |
+| 12 | [Wheels Up](https://open.spotify.com/track/6EIPwNizGzlytC9Mon0L12) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr), [Mayzin](https://open.spotify.com/artist/52bD0lfgcUwxbQMrCrYMRd) | [Wheels Up](https://open.spotify.com/album/2Y7QaFILwkGntXl2kMpz0v) | 3:20 |
 | 13 | [Blow](https://open.spotify.com/track/0QPPJN3d42PINVAyBPZTC3) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Blow](https://open.spotify.com/album/2y6aTfBouCa2nRJadWq0WX) | 2:43 |
 | 14 | [Take You Down \(Feat\. Coogie\)](https://open.spotify.com/track/4BJoCk9oiInkkAMqgjiRek) | [YUGYEOM](https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [Take You Down](https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ) | 3:27 |
 | 15 | [lonely](https://open.spotify.com/track/6tHHDLX1jZNzlT4vZmqm5n) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [lonely](https://open.spotify.com/album/2Ay01bZKWRqWUrRWydeSsC) | 3:33 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4AYptQIdI2R.md) - [plain]
 | 131 | [From Now](https://open.spotify.com/track/06aBqmxwpJU0mRuwvXHPpZ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [&ME Edition](https://open.spotify.com/album/3fU27GNCldKKSE40oLZPlD) | 3:19 |
 | 132 | [No One Else](https://open.spotify.com/track/5QBZXB121DgCLxT5PGsW6v) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Present : YOU](https://open.spotify.com/album/2Kkte1APGRFuPLmjRUgu4i) | 3:22 |
 
-Snapshot ID: `MCxlZTE4YTQ0MjExM2EyNjc4OWNkZWRlZmM2OTEzZTU3OTUyN2JhNzUz`
+Snapshot ID: `MCw2MzhjZGVjODM3NmVmY2U0ODEzOTQ5OWRkOTA0Y2ZhNDdlNWNlZjNl`

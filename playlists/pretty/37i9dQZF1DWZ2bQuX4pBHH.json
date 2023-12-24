@@ -1,12 +1,12 @@
 {
   "description": "Essential tracks of Shah Rukh Khan, all in one playlist",
-  "num_followers": 236827,
+  "num_followers": 236896,
   "original_name": "Starring Shah Rukh Khan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MjY1NzQ3ZTBiY2ZiNGQ1NGViYjk3ZTU1MmNkYzk4ZWY1YjY5ZTZi",
+  "snapshot_id": "MCw5NjViZWNiYjhiMmY4YjkyMDhhODIxMzY5MmIzMGJmNTQ0MTc5MGJk",
   "tracks": [
     {
       "added_at": "2023-12-21 04:47:58",
@@ -595,34 +595,6 @@
     {
       "added_at": "2023-12-21 04:47:58",
       "album": {
-        "name": "Not Ramaiya Vastavaiya (From \"Jawan\")",
-        "url": "https://open.spotify.com/album/7r7X6pKpUy8RAQsInpoCzN"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Vishal Dadlani",
-          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
-        },
-        {
-          "name": "Shilpa Rao",
-          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
-        },
-        {
-          "name": "Kumaar",
-          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
-        }
-      ],
-      "duration_ms": 202556,
-      "name": "Not Ramaiya Vastavaiya (From \"Jawan\")",
-      "url": "https://open.spotify.com/track/0bq1DsWLC4glKh9etnmalg"
-    },
-    {
-      "added_at": "2023-12-21 04:47:58",
-      "album": {
         "name": "Dil To Pagal Hai",
         "url": "https://open.spotify.com/album/6Pik6dQDEWGTdoEjn8psG8"
       },
@@ -647,6 +619,34 @@
       "duration_ms": 336117,
       "name": "Dil To Pagal Hai",
       "url": "https://open.spotify.com/track/5itw0WzsobhLXyxUuAj8OQ"
+    },
+    {
+      "added_at": "2023-12-21 04:47:58",
+      "album": {
+        "name": "Not Ramaiya Vastavaiya (From \"Jawan\")",
+        "url": "https://open.spotify.com/album/7r7X6pKpUy8RAQsInpoCzN"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "duration_ms": 202556,
+      "name": "Not Ramaiya Vastavaiya (From \"Jawan\")",
+      "url": "https://open.spotify.com/track/0bq1DsWLC4glKh9etnmalg"
     },
     {
       "added_at": "2023-12-21 04:47:58",

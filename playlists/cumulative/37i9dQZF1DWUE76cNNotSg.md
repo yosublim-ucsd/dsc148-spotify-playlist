@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-403 songs - 1 day 2 hr 5 min
+404 songs - 1 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Day Of The Dead \(feat\. Fahrland\)](https://open.spotify.com/track/5u6Z8ZYbOHoAoZHnPf2wMb) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ), [Fahrland](https://open.spotify.com/artist/7kypWQkogiLsQg2387Uydj) | [The Truth is Coming Out EP](https://open.spotify.com/album/49JSJn2v7Q2rDd1M1zjzsL) | 2:43 | 2023-11-17 | 2023-12-16 |
 | [Daydreaming](https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Daydreaming](https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz) | 3:03 | 2023-11-14 |  |
 | [Diamond Veins \(feat\. Sarah Rebecca\)](https://open.spotify.com/track/5G0oVoL309pqsvGDzhMOwx) | [French 79](https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e), [Sarah Rebecca](https://open.spotify.com/artist/58obmxGKVKCenZAkACSMgJ) | [Olympic](https://open.spotify.com/album/6rkKOTP3oBns0nR6mfHOsH) | 4:00 | 2023-04-12 |  |
-| [Disco Dangerous](https://open.spotify.com/track/4WI0iKq8iHKZMQw0ZxH652) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Slugs of Love](https://open.spotify.com/album/0HwZfZGf6SB9AwwEKi7bDY) | 2:46 | 2023-07-07 |  |
+| [Disco Dangerous](https://open.spotify.com/track/4WI0iKq8iHKZMQw0ZxH652) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Slugs of Love](https://open.spotify.com/album/0HwZfZGf6SB9AwwEKi7bDY) | 2:46 | 2023-07-07 | 2023-12-24 |
 | [Do U Want Me](https://open.spotify.com/track/2eTLxOZY8owibk7b2iETad) | [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6) | [Too Real](https://open.spotify.com/album/2i0WQgxSckOe7XEF1XtiCz) | 3:44 | 2020-12-22 | 2022-07-27 |
 | [Don't Shy Away \- Never Dull Remix](https://open.spotify.com/track/2cXXzozNWjZsmqZz66Kw2e) | [j\. pastel](https://open.spotify.com/artist/4e0F3Bqyp0BpE3VmNh4qKS), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Don't Shy Away](https://open.spotify.com/album/5uwObzYPsS1BBG44T3fg6G) | 3:16 | 2023-12-15 |  |
 | [Don't Turn Around](https://open.spotify.com/track/1eYKJWV1eK85T5AZwvwOuH) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Don't Turn Around](https://open.spotify.com/album/1nJ6X5PejqyhbHpG9Ycf5N) | 2:51 | 2020-12-22 | 2023-12-09 |
@@ -252,6 +252,7 @@
 | [No More \- Durante Remix](https://open.spotify.com/track/1BaK2qtH59Sxo23HFJvugG) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6), [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh) | [No More \- Extended Flavour Pack](https://open.spotify.com/album/1GwxbLhIo0cLVk53pOR7x6) | 5:12 | 2021-04-02 | 2022-07-28 |
 | [Nobody Knows We Are Fun](https://open.spotify.com/track/2lDXbsmTnnMNLYNs8mfRI2) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [Nobody Knows We Are Fun](https://open.spotify.com/album/2OCnfYbcMDebH1TPworZVG) | 3:01 | 2021-04-02 | 2022-04-19 |
 | [Northern Lights](https://open.spotify.com/track/3VT2WolplCglmbxCdiFy5A) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [David Harks](https://open.spotify.com/artist/6j8GXOmXESx4CKWRdIYtCB) | [Northern Lights](https://open.spotify.com/album/0RvAK6H7VXlTrgoUJ6HlSI) | 4:15 | 2020-12-22 | 2022-11-13 |
+| [NUMB](https://open.spotify.com/track/0LOuhyBqfn1diyqKIsCbOJ) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Between Us](https://open.spotify.com/album/387xCAELz6eeONugqwsY3x) | 3:37 | 2023-12-15 |  |
 | [NUMB](https://open.spotify.com/track/0feV26ESzVptPP83N82VAO) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Between Us](https://open.spotify.com/album/6mjVNuxWS73gi2nPvvtJFB) | 3:37 | 2020-12-22 | 2023-12-11 |
 | [NUMB](https://open.spotify.com/track/4JEwMJFPyAl6nNw0UQTwIu) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [NUMB](https://open.spotify.com/album/7pzVWvxakWV1zjYce30yhH) | 3:37 | 2020-12-22 | 2022-04-15 |
 | [o shit!](https://open.spotify.com/track/0RQpg3Q0QOxp6gqDpE8uWH) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [o shit!](https://open.spotify.com/album/14V0wL2inmCogS2KVsWNm2) | 2:16 | 2021-09-10 | 2022-07-07 |

@@ -4,12 +4,13 @@
 
 > Encuentra la paz interior con esencias y vibraciones místicas.
 
-129 songs - 8 hr 23 min
+130 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1/2 Singing Bowl \(Ascension\) \- Excerpt](https://open.spotify.com/track/4C4Cni4yKvGFthrJ3VRjfM) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Meditations](https://open.spotify.com/album/79EfVLabvmR4nUhpr2rF8s) | 4:30 | 2022-07-18 |  |
-| [A Careful Distance](https://open.spotify.com/track/24b8lmDtpjBsM6IDinj82G) | [Theo Travis](https://open.spotify.com/artist/4wnrnvlmW7Mn2H7vRW1Xli), [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl) | [Discretion](https://open.spotify.com/album/3cZqOheFXCDYXY9zBDLU8V) | 8:01 | 2023-04-26 |  |
+| [A Careful Distance](https://open.spotify.com/track/1aK9OifDpy3VWWxrKrSQ7l) | [Theo Travis](https://open.spotify.com/artist/4wnrnvlmW7Mn2H7vRW1Xli), [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl) | [Discretion](https://open.spotify.com/album/5umJSwOxDAU0wHLS51rr5O) | 8:01 | 2023-04-26 |  |
+| [A Careful Distance](https://open.spotify.com/track/24b8lmDtpjBsM6IDinj82G) | [Theo Travis](https://open.spotify.com/artist/4wnrnvlmW7Mn2H7vRW1Xli), [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl) | [Discretion](https://open.spotify.com/album/3cZqOheFXCDYXY9zBDLU8V) | 8:01 | 2023-04-26 | 2023-12-24 |
 | [A Map of Arctic Treasures](https://open.spotify.com/track/1d9NKMiAqDevp5SFQl5Krs) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [A Map of Arctic Treasures](https://open.spotify.com/album/2ViOzWLXwfzpXep7NWp08N) | 2:30 | 2022-07-18 | 2022-07-29 |
 | [A Map of Arctic Treasures](https://open.spotify.com/track/4EHBYjvmt8605vrzPLtIPu) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [A Map of Arctic Treasures](https://open.spotify.com/album/0sUmoHdutXf102FCxIxn0D) | 2:30 | 2022-07-18 |  |
 | [A New Life Awaits](https://open.spotify.com/track/1gFkZFfUqtcImJLh932LUc) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [A New Life Awaits](https://open.spotify.com/album/1U7piTwkxpvtNew3eVRWyr) | 3:17 | 2022-07-18 |  |

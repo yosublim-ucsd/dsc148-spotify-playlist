@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjNhYzJkMTkyZWNmYzc5MTk2MzY1MTc1ZDYwZWEyYmU1Mjg1ZTA4",
+  "snapshot_id": "MCw4ODIwZGY3MDc5ZTllYzNiYWEyMWExZjVjMzEzMzZmMzNhZDZhYzky",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Motivational Speaking",
-        "url": "https://open.spotify.com/album/0XMWbprQxPKfQKU3i8AyAl"
-      },
-      "artists": [
-        {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
-        }
-      ],
-      "duration_ms": 231773,
-      "name": "Nothing Clever",
-      "url": "https://open.spotify.com/track/2sFIDchqcVhlNnpSH1mAGN"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Little Oblivions",
         "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 209986,
       "name": "Crying Wolf",
       "url": "https://open.spotify.com/track/2Fp9c5VhgUHFDhW4v9jQA0"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Motivational Speaking",
+        "url": "https://open.spotify.com/album/0XMWbprQxPKfQKU3i8AyAl"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "duration_ms": 231773,
+      "name": "Nothing Clever",
+      "url": "https://open.spotify.com/track/2sFIDchqcVhlNnpSH1mAGN"
     },
     {
       "added_at": "2023-09-08 04:00:00",

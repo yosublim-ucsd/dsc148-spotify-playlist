@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tUneJ0n3hvok5ORIuipoH">Alex Eskeerdo Izquierdo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-121 songs - 6 hr 54 min
+122 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,8 +45,8 @@
 | [Fly](https://open.spotify.com/track/0PvbgBKA1ZMsTNrd8QVlCi) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Spies in Disguise](https://open.spotify.com/artist/6KvlPV9ixIAotRrbKHWZPl) | [Fly](https://open.spotify.com/album/3Shvkj36f9cbFZOQe9Dc0K) | 2:43 | 2022-06-04 |  |
 | [Forget Forever](https://open.spotify.com/track/7D39d96OheT62fgxoGaElz) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Stars Dance \(Bonus Track Version\)](https://open.spotify.com/album/3cGKAHAUhAaTTezK4GbBhQ) | 4:11 | 2023-01-06 |  |
 | [Forget Forever \- ST£FAN Remix](https://open.spotify.com/track/7EO3dPoidji4aCBvfcftYF) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [For You EP](https://open.spotify.com/album/1Um6gMP04VQ0rGegUyXthT) | 3:46 | 2022-06-04 | 2023-01-07 |
-| [Fun](https://open.spotify.com/track/4ERC5viMhrZHV9ErLcKzBL) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Fun \(Official Video\)](https://open.spotify.com/album/4HWnzLWVAnza2J13aUMFrO) | 3:59 | 2023-12-15 |  |
-| [Fun \(feat\. Chris Brown\)](https://open.spotify.com/track/6Zo3wgDE076K2AuiGZF3CS) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:22 | 2022-06-04 | 2023-12-23 |
+| [Fun](https://open.spotify.com/track/4ERC5viMhrZHV9ErLcKzBL) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Fun \(Official Video\)](https://open.spotify.com/album/4HWnzLWVAnza2J13aUMFrO) | 3:59 | 2023-12-15 | 2023-12-24 |
+| [Fun \(feat\. Chris Brown\)](https://open.spotify.com/track/6Zo3wgDE076K2AuiGZF3CS) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Globalization](https://open.spotify.com/album/4EUf4YyNjuXypWY6W5wEDm) | 3:22 | 2022-06-04 |  |
 | [Gang Up \(with Young Thug, 2 Chainz & Wiz Khalifa feat\. PnB Rock\)](https://open.spotify.com/track/5PfTI3zrQbZEWcQdycMqJM) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Gang Up \(with Young Thug, 2 Chainz & Wiz Khalifa feat\. PnB Rock\)](https://open.spotify.com/album/4RTL2dk2qeQL5Udhatt73n) | 3:51 | 2022-06-04 |  |
 | [Ghost](https://open.spotify.com/track/3w9uPtA4j0t4dkylvd2Fea) | [KingJet](https://open.spotify.com/artist/66UIbw9tYvJsqKEWsLqZUe) | [Travel](https://open.spotify.com/album/2UAXbkVAmerFPsznkDKnmG) | 2:56 | 2022-06-04 |  |
 | [Gotta Luv It](https://open.spotify.com/track/5BwvaW05K2lLDUcli2uzUU) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Gotta Luv It](https://open.spotify.com/album/2OdkWu9PJKbmjUSMIyye1z) | 3:13 | 2022-06-04 |  |
@@ -85,7 +85,8 @@
 | [No Judgement](https://open.spotify.com/track/2sGF7DBXvL2GjkbG606m1G) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 2:56 | 2022-06-04 | 2023-12-22 |
 | [No Judgement](https://open.spotify.com/track/5fQkJEFHAUKzDG7QrDJKQP) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [No Judgement](https://open.spotify.com/album/48XX4ck7OJDXA8lTF7sbyB) | 3:07 | 2023-12-17 |  |
 | [No Love Allowed](https://open.spotify.com/track/2fv47VVvysXZPpT7xsdg7b) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 4:09 | 2022-06-04 |  |
-| [No Part of You](https://open.spotify.com/track/1pbQKVrX2JrKhSpFaPbybg) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [2.0](https://open.spotify.com/album/79KbYTbpyMU9QYJvc7dr7A) | 3:45 | 2022-06-04 |  |
+| [No Part of You](https://open.spotify.com/track/1pbQKVrX2JrKhSpFaPbybg) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [2.0](https://open.spotify.com/album/79KbYTbpyMU9QYJvc7dr7A) | 3:45 | 2022-06-04 | 2023-12-24 |
+| [No Part of You](https://open.spotify.com/track/5jGkSsAYEDo5gkew6qvUai) | [98º](https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV) | [2.0](https://open.spotify.com/album/17CswT0NOi5y8ReJx589aE) | 3:45 | 2023-12-23 |  |
 | [Not for Long \(feat\. Trey Songz\)](https://open.spotify.com/track/6H75Ki32BRrJFQeDNR05s1) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Not for Long \(feat\. Trey Songz\)](https://open.spotify.com/album/7cSNv0vamfGt9BN0ISHmOn) | 3:35 | 2022-06-04 |  |
 | [Nothing In Common](https://open.spotify.com/track/4FPt0UqiphP1eiDCX9pxGO) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:48 | 2022-06-04 |  |
 | [Nothing Is Stopping You](https://open.spotify.com/track/2YhBJbeXBz2VsthtV5O4bY) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Hall Of Fame \(Deluxe\)](https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54) | 5:03 | 2022-06-04 |  |

@@ -122,7 +122,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 213338,
       "name": "Baby Will You Love Me",
       "url": "https://open.spotify.com/track/6QmzY6tIE1CH1OvATYveSr"
@@ -278,7 +278,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-10",
+      "date_removed": null,
       "duration_ms": 230808,
       "name": "Big Ole Love",
       "url": "https://open.spotify.com/track/2i2ifLGv9NBaMLhCSRF6eM"
@@ -1823,6 +1823,24 @@
     },
     {
       "album": {
+        "name": "Imprint (Live in Memphis)",
+        "url": "https://open.spotify.com/album/2J5NM9D4nvG4qyqVxRyuGk"
+      },
+      "artists": [
+        {
+          "name": "Zacardi Cortez",
+          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232752,
+      "name": "Oh How I Love You - Bonus Track",
+      "url": "https://open.spotify.com/track/6ptxOhVrMIMLVXfzEJOWrn"
+    },
+    {
+      "album": {
         "name": "Oh How I Love You",
         "url": "https://open.spotify.com/album/4t6Gjzb1wkmhslC7mGbqUr"
       },
@@ -1834,7 +1852,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 233050,
       "name": "Oh How I Love You - R&B Version",
       "url": "https://open.spotify.com/track/2VWk3KtFYWNskD0s7DZe6c"

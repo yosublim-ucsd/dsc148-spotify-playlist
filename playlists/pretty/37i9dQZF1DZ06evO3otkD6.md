@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 
 > This is Belinda\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,354 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,371 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 30 | [Amigas Cheetahs](https://open.spotify.com/track/2vC1qUcTJlWO9JQfcaOk9b) | [The Cheetah Girls](https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [The Cheetah Girls 2](https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG) | 4:06 |
 | 31 | [Te Sigo Amando](https://open.spotify.com/track/5QmjF6TMAAym2u3hb8o1ym) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Los Dúo 2](https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19) | 3:58 |
 | 32 | [Sal De Mi Piel](https://open.spotify.com/track/1COpsT2iGXmVp9TiI8poft) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Carpe Diem](https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ) | 3:26 |
-| 33 | [Sueño De Ti](https://open.spotify.com/track/6j487eI9fxqAgrHtA3gTdM) | [Motel](https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Milk](https://open.spotify.com/artist/1EcbYybg1EXygHUcJtHzCD) | [Prisma](https://open.spotify.com/album/7nL7mZ29l5bsykcXAvt0H4) | 4:18 |
+| 33 | [Eden](https://open.spotify.com/track/17ndjs5jsTO1X15raRZV0u) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Eden](https://open.spotify.com/album/33nYUqCHeO8jyrvctV5Fr0) | 2:40 |
 | 34 | [Dance With Me](https://open.spotify.com/track/2sggS6A5pA0KWaleWsHzmL) | [Drew Seeley](https://open.spotify.com/artist/1ryIDQiTzFFxHmmjijqghs), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [The Cheetah Girls 2](https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG) | 3:12 |
-| 35 | [Eden](https://open.spotify.com/track/17ndjs5jsTO1X15raRZV0u) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Eden](https://open.spotify.com/album/33nYUqCHeO8jyrvctV5Fr0) | 2:40 |
+| 35 | [Sueño De Ti](https://open.spotify.com/track/6j487eI9fxqAgrHtA3gTdM) | [Motel](https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Milk](https://open.spotify.com/artist/1EcbYybg1EXygHUcJtHzCD) | [Prisma](https://open.spotify.com/album/7nL7mZ29l5bsykcXAvt0H4) | 4:18 |
 | 36 | [Nada](https://open.spotify.com/track/2OSv7LKgAUS013drWBwEAW) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Catarsis](https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg) | 3:15 |
 | 37 | [Colorblind](https://open.spotify.com/track/2oekKvTdvWAk3x09g7HVlJ) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Colorblind](https://open.spotify.com/album/10pmOIJFrZ1Miyl1qP6Xfw) | 3:25 |
 | 38 | [Meu Menino \(Minha Menina\) \- Ao Vivo](https://open.spotify.com/track/2NLJfVCpdjTXVvs1fUXn0W) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Ao Vivo No Rio](https://open.spotify.com/album/6ed1a9UMAj76mV1NIj1gJ6) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 49 | [Paso, Paso](https://open.spotify.com/track/0rUm6IbXJzwwenvxE72ntm) | [Martin](https://open.spotify.com/artist/2y0r48kt0NajnkfFELASlI), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Lo Esencial de Belinda](https://open.spotify.com/album/5NjGthIX2h39NsmaiecLc4) | 3:08 |
 | 50 | [Contigo Siempre](https://open.spotify.com/track/4hrKrgSeEil3uXvgouZLhd) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Laura Flores](https://open.spotify.com/artist/7HcfNDsEN1QvF3zUvf03OF) | [Silvana \- Cómplices Al Rescate](https://open.spotify.com/album/7Mn2dBHL97jRe7zyuAXcgc) | 2:54 |
 
-Snapshot ID: `MjgzODc0NTksMDAwMDAwMDAxNzE1ZjBkOWMxNzc2M2UzOWQyZjJjMmE1MGE0ZDIxYg==`
+Snapshot ID: `MjgzODg5NDMsMDAwMDAwMDA2ODgzMmNiYWVhYWU5M2VlNTc1MTAwZDNiMzFkNDZkMA==`

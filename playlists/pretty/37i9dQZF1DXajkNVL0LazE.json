@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 86586,
+  "num_followers": 86649,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjI5MTFkMDhkYWU0MDQ0YjY0MjkxNzRmZWRkYmI5OWQyZmExN2Ni",
+  "snapshot_id": "MCw4YTNjNzJiNzkyODFmNGY1NmZjMzFjYzNiYjZjMzVkMDVlZDMyZWRj",
   "tracks": [
     {
       "added_at": "2022-02-04 22:01:34",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Alas I Cannot Swim",
-        "url": "https://open.spotify.com/album/1P3B7c85W4mTXHk0fafGw2"
-      },
-      "artists": [
-        {
-          "name": "Laura Marling",
-          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
-        }
-      ],
-      "duration_ms": 179960,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/3LHg768dEKqJKht2uPTlVR"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Boxer",
         "url": "https://open.spotify.com/album/2pwNkShhY1uip80rLMHUgX"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 205040,
       "name": "Fake Empire",
       "url": "https://open.spotify.com/track/7hanhZrUArC9qUerln4jh1"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Alas I Cannot Swim",
+        "url": "https://open.spotify.com/album/1P3B7c85W4mTXHk0fafGw2"
+      },
+      "artists": [
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "duration_ms": 179960,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/3LHg768dEKqJKht2uPTlVR"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -895,18 +895,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Hospice",
-        "url": "https://open.spotify.com/album/6fFp2F91noBeodV88bRwTD"
+        "name": "Magnolia Electric Co. (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5MqGZZtQ36zsETrTK2uy04"
       },
       "artists": [
         {
-          "name": "The Antlers",
-          "url": "https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s"
+          "name": "Songs: Ohia",
+          "url": "https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z"
         }
       ],
-      "duration_ms": 311240,
-      "name": "Kettering",
-      "url": "https://open.spotify.com/track/453spNn4mGdYErYt3rGhSX"
+      "duration_ms": 442106,
+      "name": "Farewell Transmission",
+      "url": "https://open.spotify.com/track/5Plx6OhvSukqCRdZ52wUXz"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -927,18 +927,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Magnolia Electric Co. (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5MqGZZtQ36zsETrTK2uy04"
+        "name": "Hospice",
+        "url": "https://open.spotify.com/album/6fFp2F91noBeodV88bRwTD"
       },
       "artists": [
         {
-          "name": "Songs: Ohia",
-          "url": "https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z"
+          "name": "The Antlers",
+          "url": "https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s"
         }
       ],
-      "duration_ms": 442106,
-      "name": "Farewell Transmission",
-      "url": "https://open.spotify.com/track/5Plx6OhvSukqCRdZ52wUXz"
+      "duration_ms": 311240,
+      "name": "Kettering",
+      "url": "https://open.spotify.com/track/453spNn4mGdYErYt3rGhSX"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Fox Confessor Brings The Flood (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ"
-      },
-      "artists": [
-        {
-          "name": "Neko Case",
-          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
-        }
-      ],
-      "duration_ms": 316506,
-      "name": "Star Witness",
-      "url": "https://open.spotify.com/track/17fWdcSAhLc6559youmLap"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "All Hail West Texas (Remastered)",
         "url": "https://open.spotify.com/album/3yreM49ULtR2xW4fSENo3K"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 156960,
       "name": "The Best Ever Death Metal Band in Denton",
       "url": "https://open.spotify.com/track/4AtUqjDgRO2S3jBzAjRvh7"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Fox Confessor Brings The Flood (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ"
+      },
+      "artists": [
+        {
+          "name": "Neko Case",
+          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+        }
+      ],
+      "duration_ms": 316506,
+      "name": "Star Witness",
+      "url": "https://open.spotify.com/track/17fWdcSAhLc6559youmLap"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Middle Cyclone",
-        "url": "https://open.spotify.com/album/3gMzehYCxYMrW6pYlcThWJ"
-      },
-      "artists": [
-        {
-          "name": "Neko Case",
-          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
-        }
-      ],
-      "duration_ms": 199226,
-      "name": "This Tornado Loves You",
-      "url": "https://open.spotify.com/track/5FRmsiVS8ybJHQCV0fjuI1"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "In Our Nature",
         "url": "https://open.spotify.com/album/4zhb7QX3fvyamvbcYGnKMv"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 320520,
       "name": "The Ballad of Love and Hate",
       "url": "https://open.spotify.com/track/49YQ9Mq8CKelQsmjdNiICu"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Cassadaga",
+        "url": "https://open.spotify.com/album/12g6dnsHEdhzS3BGB4CefB"
+      },
+      "artists": [
+        {
+          "name": "Bright Eyes",
+          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+        }
+      ],
+      "duration_ms": 256262,
+      "name": "Four Winds",
+      "url": "https://open.spotify.com/track/7iV2w73aB3oL7UWgEAWuiN"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Cassadaga",
-        "url": "https://open.spotify.com/album/12g6dnsHEdhzS3BGB4CefB"
+        "name": "Middle Cyclone",
+        "url": "https://open.spotify.com/album/3gMzehYCxYMrW6pYlcThWJ"
       },
       "artists": [
         {
-          "name": "Bright Eyes",
-          "url": "https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU"
+          "name": "Neko Case",
+          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
         }
       ],
-      "duration_ms": 256262,
-      "name": "Four Winds",
-      "url": "https://open.spotify.com/track/7iV2w73aB3oL7UWgEAWuiN"
+      "duration_ms": 199226,
+      "name": "This Tornado Loves You",
+      "url": "https://open.spotify.com/track/5FRmsiVS8ybJHQCV0fjuI1"
     },
     {
       "added_at": "2022-02-04 22:01:34",

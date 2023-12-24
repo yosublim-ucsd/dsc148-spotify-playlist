@@ -4,7 +4,7 @@
 
 > Give thanks to the Lord, in all circumstances, with these songs about being grateful.
 
-167 songs - 11 hr 26 min
+168 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [My Friends](https://open.spotify.com/track/09lu7Oem0AQ4MjZg41b8OP) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [A Creature I Don't Know](https://open.spotify.com/album/6l9AdRG0yVneRu5PNbAvRZ) | 3:58 | 2021-11-10 | 2022-11-24 |
 | [My Friends](https://open.spotify.com/track/0TQhxnj4PKjHs57ip2Th4z) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [A Creature I Don't Know \(Deluxe Version\)](https://open.spotify.com/album/1yvrtiby7Zo7MiBrW1IDXD) | 3:58 | 2021-11-10 | 2022-11-14 |
 | [My Friends](https://open.spotify.com/track/7foGTA6I8jkYTwQzwljQLA) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [A Creature I Don't Know](https://open.spotify.com/album/4m5V9tVSVClEXDeBT1dk2F) | 3:58 | 2021-11-10 | 2022-07-29 |
-| [My Tribute](https://open.spotify.com/track/4Qv1UAv0Mqay8gkTa93W86) | [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7) | [Classic Gold: Best of Andrae: Andrae Crouch and the Disciples](https://open.spotify.com/album/2oYFg5Bln5jsc6YBbXKkBf) | 3:37 | 2022-11-23 |  |
+| [My Tribute](https://open.spotify.com/track/4Qv1UAv0Mqay8gkTa93W86) | [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7) | [Classic Gold: Best of Andrae: Andrae Crouch and the Disciples](https://open.spotify.com/album/2oYFg5Bln5jsc6YBbXKkBf) | 3:37 | 2022-11-23 | 2023-12-24 |
+| [My Tribute](https://open.spotify.com/track/7xKCmMhfkACwAvcOvSEutX) | [Andrae Crouch](https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7) | [Platinum Praise Collection: Andrae Crouch](https://open.spotify.com/album/4YGo7Wj4lIGydKu6ElehTF) | 3:37 | 2022-11-23 |  |
 | [Not Gonna Let You Walk Away](https://open.spotify.com/track/0UyCF0hctdZJomjdzDibPB) | [LOLO](https://open.spotify.com/artist/0H0OkFxp022WOyKlt3HmlA) | [In Loving Memory of When I Gave a Shit](https://open.spotify.com/album/5o32Ftd7SS0EKIQlFwubH4) | 2:44 | 2021-11-10 | 2022-11-24 |
 | [Not Gonna Let You Walk Away](https://open.spotify.com/track/5X7tsMPIJH2KidJTDVpPUC) | [LOLO](https://open.spotify.com/artist/0H0OkFxp022WOyKlt3HmlA) | [Not Gonna Let You Walk Away](https://open.spotify.com/album/6WVI2YJKVejlAg5mSwKWH0) | 2:44 | 2021-11-10 | 2022-07-29 |
 | [Nothing Short of Thankful](https://open.spotify.com/track/7CHgiPKBF9DLYDpjJvrnVI) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Mignonette](https://open.spotify.com/album/3Qre72w4Yc9Ib2UeCgTaOK) | 3:26 | 2021-11-10 | 2022-11-24 |

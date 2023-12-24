@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Marama, MYA & Robleis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,219,059 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,219,281 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 68 | [No Se Va](https://open.spotify.com/track/0kS31L4yk4ZpSCvvwyZ6T3) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb), [Kekelandia](https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy) | [No Se Va](https://open.spotify.com/album/1qYntEy4y4mTAisca3zseT) | 3:21 |
 | 69 | [Tengo Ganas](https://open.spotify.com/track/3zBuUZje9YCZcOgvBLuH2J) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Tengo Ganas](https://open.spotify.com/album/7iTW31m0S1ErIYD8lSUQPD) | 2:40 |
 | 70 | [Verano 2024](https://open.spotify.com/track/3ivubUfc3U4Qu0u2GYA6T6) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [DJ Pirata](https://open.spotify.com/artist/4MlPk7Q5wc1b5KRKSCDNnh) | [Verano 2024](https://open.spotify.com/album/1rEHJwwb30B6DfAotpO4Lq) | 2:36 |
-| 71 | [Si No Estás](https://open.spotify.com/track/1h6schi75f6LmCp7OzwfeF) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Si No Estás](https://open.spotify.com/album/5aAGGc9lOlSEIrP4rw3N2Q) | 2:24 |
-| 72 | [LOKITA](https://open.spotify.com/track/4bDKRo2qGLPQlbcEWCluKT) | [RYH](https://open.spotify.com/artist/51zgwqGYELQ4W7SobIyv8R), [El Villano](https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100) | [LOKITA](https://open.spotify.com/album/4HcuTZU8zMdNHKfwWp9NMR) | 2:31 |
-| 73 | [Vikingos](https://open.spotify.com/track/6t82eltBDEw70ePnk5GGe4) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Vikingos](https://open.spotify.com/album/50fDCiIhdGoiJLSYXdLbt9) | 2:46 |
-| 74 | [Hipnotizados](https://open.spotify.com/track/2t88IEEgCkZr9OQHOrOr3j) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [La China](https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO) | [Hipnotizados](https://open.spotify.com/album/0vucmhfLxNOc87TDZydaI7) | 2:22 |
+| 71 | [LOKITA](https://open.spotify.com/track/4bDKRo2qGLPQlbcEWCluKT) | [RYH](https://open.spotify.com/artist/51zgwqGYELQ4W7SobIyv8R), [El Villano](https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100) | [LOKITA](https://open.spotify.com/album/4HcuTZU8zMdNHKfwWp9NMR) | 2:31 |
+| 72 | [Si No Estás](https://open.spotify.com/track/1h6schi75f6LmCp7OzwfeF) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Si No Estás](https://open.spotify.com/album/5aAGGc9lOlSEIrP4rw3N2Q) | 2:24 |
+| 73 | [Hipnotizados](https://open.spotify.com/track/2t88IEEgCkZr9OQHOrOr3j) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [La China](https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO) | [Hipnotizados](https://open.spotify.com/album/0vucmhfLxNOc87TDZydaI7) | 2:22 |
+| 74 | [Vikingos](https://open.spotify.com/track/6t82eltBDEw70ePnk5GGe4) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Vikingos](https://open.spotify.com/album/50fDCiIhdGoiJLSYXdLbt9) | 2:46 |
 | 75 | [Messirve Mix 3](https://open.spotify.com/track/09sFkBXLsu4D3emZhHEs6O) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Messirve Mix 3](https://open.spotify.com/album/2cPSe0xf6FkcG05j06RZdH) | 7:27 |
 | 76 | [Universo Paralelo](https://open.spotify.com/track/7wx4KZQ9SRMTldt5ayD1ul) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Universo Paralelo](https://open.spotify.com/album/7yzR06l7GbsbtIoRKqqCwP) | 2:36 |
 | 77 | [Tranquila](https://open.spotify.com/track/5NMPnWUDvXr8Vnauv7I7YZ) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Tranquila](https://open.spotify.com/album/4VoOmCYmdOgQEK4TidgNtj) | 3:03 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 96 | [No hay más nada](https://open.spotify.com/track/2nruW43pcr20cNm3DBCDbz) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [Cuestión de tiempo](https://open.spotify.com/album/1yAbPp9HY4AmCERN9JGYuw) | 3:54 |
 | 97 | [Chica Brasileña](https://open.spotify.com/track/3cjnOR9smeeqVfj13XSpqS) | [El Super Hobby](https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V) | [Fuego en la Noche](https://open.spotify.com/album/3kuFkR32n0p4DEQ9LOXnmU) | 2:27 |
 | 98 | [Te Escapas De Mis Brazos](https://open.spotify.com/track/2sSWZSjYU38Hmy32P6ECt8) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM) | [Y Si Estás Perseguido...!](https://open.spotify.com/album/4UeRqgzWD9WsGWpbpsiAeq) | 2:41 |
-| 99 | [NO ES LO QUE PARECE](https://open.spotify.com/track/1WrTj4KU7QNgm6qS3lSocA) | [DJ Cronox](https://open.spotify.com/artist/3xEW53mjWRObQjw1yu6fvi), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [DJ Cuba](https://open.spotify.com/artist/185gdgGAP7g2lZX9dVFDaE), [Alexis Exequiel](https://open.spotify.com/artist/71jc5HAeS4ge2rhqwWdjtY) | [NO ES LO QUE PARECE](https://open.spotify.com/album/1pMv2WnLf6GSiSL3pVki7O) | 2:04 |
+| 99 | [Que Vuelvas](https://open.spotify.com/track/0uMsuZYdEC8yJI1mrx0vog) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Que Vuelvas](https://open.spotify.com/album/3jgBD0phLA3LBdsaPS3wrs) | 2:42 |
 | 100 | [La Bachata](https://open.spotify.com/track/3AMr0QkBGjrAoTbst5uWCG) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Valeria Gau](https://open.spotify.com/artist/1BfR4gQyjlhLAssULX0wDr), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [La Bachata](https://open.spotify.com/album/7IZJfSkOvMGvfc4OvYUttY) | 3:14 |
 
-Snapshot ID: `MCw0NjdiMDMyYjlmMWViMTM0ZDBmZjUxODdhZmY2YjQ0YjkwN2IzMzNi`
+Snapshot ID: `MCw0YmY3ZWRjNzA4ZjFmYmIyMzk5MzgzMTJhMmEwMGFhMDg0YzhiNzM1`

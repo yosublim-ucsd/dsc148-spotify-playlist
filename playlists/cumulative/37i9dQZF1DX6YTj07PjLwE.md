@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 90s rock! Cover: Pixies.
 
-646 songs - 1 day 23 hr 23 min
+647 songs - 1 day 23 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [6th Avenue Heartache \- Radio Edit](https://open.spotify.com/track/5zJbd4m9rRJxmCTClWMadL) | [The Wallflowers](https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB) | [6th Avenue Heartache](https://open.spotify.com/album/6inGN7xb6EAodDj0TDKDF5) | 4:26 | 2022-04-28 | 2022-07-28 |
 | [A Change Would Do You Good](https://open.spotify.com/track/7e76lQ3YBwyO4LgaUabYrG) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Sheryl Crow](https://open.spotify.com/album/3FiplT4vIgWCRwLZSn0EDd) | 3:50 | 2022-04-28 | 2022-07-26 |
 | [A Cloak Of Elvenkind](https://open.spotify.com/track/6f65alTsp8H5BBd7MKh2Ya) | [Marcy Playground](https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r) | [Marcy Playground](https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB) | 2:59 | 2022-04-28 | 2022-07-22 |
-| [A Little Respect](https://open.spotify.com/track/5tN541sO7fKaxdQx1BWfRh) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus](https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd) | 3:19 | 2022-04-28 |  |
+| [A Little Respect](https://open.spotify.com/track/5tN541sO7fKaxdQx1BWfRh) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Wheatus](https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd) | 3:19 | 2022-04-28 | 2023-12-24 |
 | [A Long December](https://open.spotify.com/track/1tjKIXd7DYNklhVSgBxREi) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [Recovering The Satellites](https://open.spotify.com/album/4YArB2Q848BDmmwUUumEFP) | 4:55 | 2022-04-28 |  |
 | [A Murder Of One](https://open.spotify.com/track/7ye3N9FfQLnLNH6VxBlZA0) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [August And Everything After](https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ) | 5:43 | 2022-04-28 | 2022-07-29 |
 | [Acrobat](https://open.spotify.com/track/7AGGClp7SmBnepuiua7DPG) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:30 | 2022-04-28 | 2022-07-29 |
@@ -229,6 +229,7 @@
 | [Here In Your Bedroom](https://open.spotify.com/track/7MH63filSWHfjwMlQrlQQG) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Goldfinger](https://open.spotify.com/album/6iOlLW2s5qwquOiiOThBvS) | 3:10 | 2022-04-28 | 2022-07-28 |
 | [Here Is No Why \- Remastered 2012](https://open.spotify.com/track/5INe9EN6cNF6axQ4A4BQfy) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 3:45 | 2022-04-28 | 2022-07-28 |
 | [Heresy](https://open.spotify.com/track/4tjcBY787A2ZkRJpPIsGIS) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/7a7arAXDE0BiaMgHLhdjGF) | 3:54 | 2022-04-28 | 2022-07-14 |
+| [Hero Of The Day](https://open.spotify.com/track/5ktyEZbrgBEePsu6MW5Cvw) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load](https://open.spotify.com/album/5rI3pfrpvmdYtGAsBwaGec) | 4:21 | 2023-01-18 |  |
 | [Hero Of The Day](https://open.spotify.com/track/0rDPQzWWmLTv9deHn4ulG7) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Load](https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV) | 4:21 | 2022-04-28 | 2022-07-29 |
 | [Hey God](https://open.spotify.com/track/76CAFQ6ovZzX30DMylhBmz) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [These Days](https://open.spotify.com/album/1b6ChQEPZbOHVNi5vjqYr6) | 6:10 | 2022-04-28 | 2022-07-29 |
 | [Hey Stoopid](https://open.spotify.com/track/7gvFV0ndhy4s79EZSGIFXe) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Hey Stoopid](https://open.spotify.com/album/0lhICEAy0rRGbhvWzlP0Ke) | 4:33 | 2022-04-28 | 2022-07-27 |

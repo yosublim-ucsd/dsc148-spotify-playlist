@@ -4,7 +4,7 @@
 
 > The official playlist for the 64th GRAMMY Awards.
 
-616 songs - 1 day 18 hr 23 min
+617 songs - 1 day 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,8 @@
 | [Good Will](https://open.spotify.com/track/0GjWTAiTcElxEGTAdk4zDn) | [The Erwins](https://open.spotify.com/artist/6fP0zhB7y3p0SKO513H9DD) | [What Christmas Really Means](https://open.spotify.com/album/39OqClQeIBAMrQqZxbVgiH) | 3:15 | 2021-03-10 | 2022-03-30 |
 | [Got To Be Tough](https://open.spotify.com/track/0OYqYcHEByOxwiZuOdp6ZA) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Got To Be Tough](https://open.spotify.com/album/2h7J7aqfQMm8bpnOrZbYgP) | 4:06 | 2021-03-10 | 2022-03-30 |
 | [Gotta Have You \(feat\. Kirk Franklin, Jermaine Dolly & Lena Byrd Miles\)](https://open.spotify.com/track/7sua3EElbSneVDxEVDzgX4) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Jermaine Dolly](https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Lena Byrd\-Miles](https://open.spotify.com/artist/02dokIaBFwqSfAFyU8xWWZ) | [Gospel According To PJ](https://open.spotify.com/album/03sl2epNRPGXu64WL36RsO) | 3:52 | 2021-03-10 | 2022-03-30 |
-| [Grey Hair](https://open.spotify.com/track/2DV4aaQyV6QNQx8Iylvrsq) | [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Emanuel](https://open.spotify.com/album/2DuS6uvoK6uVj2mriZiY3G) | 4:13 | 2023-11-10 |  |
+| [Grey Hair](https://open.spotify.com/track/2DV4aaQyV6QNQx8Iylvrsq) | [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Emanuel](https://open.spotify.com/album/2DuS6uvoK6uVj2mriZiY3G) | 4:13 | 2023-11-10 | 2023-12-24 |
+| [Grey Hair](https://open.spotify.com/track/780cTIllynxIpZsU8LpAJu) | [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Emanuel](https://open.spotify.com/album/2kLyZqFFxBq2wjR8IPUwcE) | 4:13 | 2023-11-10 |  |
 | [Guinnevere](https://open.spotify.com/track/5AIWxJgzPpYukbUDXVY7qT) | [Christian Scott aTunde Adjuah](https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn) | [Axiom](https://open.spotify.com/album/7wpNfF5Qh0ZT3EE6cy0yxQ) | 10:53 | 2021-03-10 | 2022-03-30 |
 | [Handel: Agrippina, HWV 6: Sinfonia](https://open.spotify.com/track/3bhvFxavNxwoo7mG1xdj2l) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Joyce DiDonato](https://open.spotify.com/artist/6uFDUz42zInHQ1T2JFqNrE), [Maxim Emelyanychev](https://open.spotify.com/artist/36CgM42AtIA5SEne7Wou7q), [Il Pomo D'oro](https://open.spotify.com/artist/5a3D9f58cCv9klOc1cAG9z) | [Handel: Agrippina](https://open.spotify.com/album/5LFC0Mw8mAidV9m5iLPyYE) | 3:37 | 2021-03-10 | 2022-03-30 |
 | [Happens to the Heart](https://open.spotify.com/track/2DkpoHJ1h88e9dyc6SFIm2) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Thanks for the Dance](https://open.spotify.com/album/603qWApi8Q89JnkVAbixrb) | 4:33 | 2021-03-10 | 2022-03-30 |

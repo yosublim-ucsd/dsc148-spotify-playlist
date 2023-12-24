@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 
 > a state of mind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,300 likes - 101 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,485 likes - 101 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 | 79 | [Methadone Blues](https://open.spotify.com/track/1WMhjJguTtmFlvZjqLHzsI) | [Elizabeth Cook](https://open.spotify.com/artist/0dyEUZv8ftA0dzL5vb2Y9s) | [Exodus of Venus](https://open.spotify.com/album/10LuaXEMNLVADDm2dxIlXD) | 3:43 |
 | 80 | [Big Iron](https://open.spotify.com/track/0AQquaENerGps8BQmbPw14) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Gunfighter Ballads And Trail Songs](https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl) | 3:55 |
 | 81 | [Under Your Spell Again \(with Jessi Colter\)](https://open.spotify.com/track/6PyQp5EO05bC0XOcjLzvX5) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Jessi Colter](https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v) | [Wanted! The Outlaws \(Expanded Edition\)](https://open.spotify.com/album/2QqTYCt0RbRC624nT607fV) | 2:52 |
-| 82 | [I'm on Fire](https://open.spotify.com/track/3q0wgJXeUkhq2jeZ9JS7KN) | [Whitey Morgan and the 78's](https://open.spotify.com/artist/2bGK38Qvf603fcckzUYYui) | [Honky Tonks and Cheap Motels](https://open.spotify.com/album/1o1N0DtLWIl481bkYhs6Y0) | 3:16 |
+| 82 | [I'm on Fire](https://open.spotify.com/track/7MB9xkZ79XHYx8c6JYjFz6) | [Whitey Morgan and the 78's](https://open.spotify.com/artist/2bGK38Qvf603fcckzUYYui) | [Honky Tonks and Cheap Motels](https://open.spotify.com/album/2yYhCb5PJJkEM8eaCu4bFS) | 3:16 |
 | 83 | [Rode Hard and Put up Wet](https://open.spotify.com/track/2YwuLjgUJYlS9AQFLW1MxX) | [Marshall Chapman](https://open.spotify.com/artist/10NyEvFwxog3iXO1IBYla9) | [Me, I'm Feelin' Free](https://open.spotify.com/album/6bdiWNrvbYmojW1IYQ2bXc) | 3:26 |
 | 84 | [Guitar Town](https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Guitar Town](https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy) | 2:35 |
 | 85 | [Must Be The Whiskey](https://open.spotify.com/track/6VChAU4QENeLwf3OaHBJxC) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Lifers](https://open.spotify.com/album/7ATjaMdT66SKP2AjrDvQ1J) | 3:25 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 | 100 | [John Beyers \(Camaro Song\)](https://open.spotify.com/track/66Ca5hnT9mxshajDCzLcfQ) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Songs of the Plains](https://open.spotify.com/album/6DzYh2Z00xNWG8wtfB6kIY) | 2:01 |
 | 101 | [God's Gonna Cut You Down](https://open.spotify.com/track/6RFkVsPmrM4pzlDkFswwJl) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American V: A Hundred Highways](https://open.spotify.com/album/40ObOkEaQKVmcJ6k1W2xMg) | 2:38 |
 
-Snapshot ID: `MCxjZTgzNzA1NmJjMzhiMzc4YjdiM2Y3ZDdjYjUzOTdjN2JjN2Y0YzJi`
+Snapshot ID: `MCw5NTQzYjZmN2YxMDdjYWI4ZTQ3OGExYjExOGI3YjA5NTkwMzI5MWZj`

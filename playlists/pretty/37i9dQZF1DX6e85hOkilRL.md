@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e85hOkilRL.md) - [plain]
 
 > A playlist featuring instrumental lullaby versions of your favorite country tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,015 likes - 73 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,019 likes - 73 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e85hOkilRL.md) - [plain]
 | 23 | [God’s Country](https://open.spotify.com/track/6pD07VyA3OBit9l8wMI4cp) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Lullaby Renditions of Blake Shelton](https://open.spotify.com/album/4EmetLmY8gysX1cUpJ30Th) | 3:08 |
 | 24 | [Broken Halos \(Lullaby Rendition\)](https://open.spotify.com/track/4vrWQmvIa0T6vOjl4PTDXM) | [Jammy Jams](https://open.spotify.com/artist/6dnGWqFchmCpwCE47YtG7d) | [Country Goes Lullaby 1: Lullaby Renditions of Country Hits](https://open.spotify.com/album/5RgIjBAJsHgGX53bC3bi3a) | 3:20 |
 | 25 | [Play It Again](https://open.spotify.com/track/4PYcXm3SLAXkn33DKyZsZ3) | [Twinkle Twinkle Little Rock Star](https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d) | [Lullaby Versions of Luke Bryan](https://open.spotify.com/album/0A1aovV6jxDpvvRJeFyQyM) | 4:01 |
-| 26 | [God's Country \- Instrumental](https://open.spotify.com/track/3RxkfZQQmUGYEZ3T3oh903) | [Lullaby Players](https://open.spotify.com/artist/1IVUK6wK1PvFI6adwUcoc4) | [Lullaby Pop Hits 2019 \(Instrumental\)](https://open.spotify.com/album/1hLfVcVC8KhpQgMJLZf8nL) | 3:49 |
+| 26 | [God's Country \- Instrumental](https://open.spotify.com/track/0OL2cAiD2fIBnyQ4ZSzdGn) | [Lullaby Players](https://open.spotify.com/artist/1IVUK6wK1PvFI6adwUcoc4) | [Lullaby Pop Hits 2019 \(Instrumental\)](https://open.spotify.com/album/1DIDEhslScZfEet6zUTZaD) | 3:49 |
 | 27 | [Like a Wrecking Ball](https://open.spotify.com/track/054XlXxF6LXuxBt7Hxu3Le) | [Twinkle Twinkle Little Rock Star](https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d) | [Lullaby Versions of Eric Church](https://open.spotify.com/album/0nTBWFPZIfXv6Hue4dGXfM) | 3:56 |
 | 28 | [Amazed \(Lullaby Version\)](https://open.spotify.com/track/7orgwFpPS4l4gUMYbw0tjv) | [Infinite Hit Band](https://open.spotify.com/artist/6yNita4fnzh0pQAzbAwmdJ) | [Lullabies \- Country Lullaby Music](https://open.spotify.com/album/2yAOS4HuDgQ6tHTJG2DjQc) | 3:46 |
 | 29 | [Coal Miner's Daughter](https://open.spotify.com/track/5aVQXgcahx6bQFY7aU6yOp) | [Hushabye Baby](https://open.spotify.com/artist/2Q07VeywZl1U7Zbywcq30i) | [Lullaby Renditions of Country Music Favorites Vol\. 4](https://open.spotify.com/album/7fmlGP4K6cPP3v3kuyvzRr) | 3:00 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e85hOkilRL.md) - [plain]
 | 72 | [All Summer Long](https://open.spotify.com/track/4X0Ym9rv0Y12F04O5UGpSG) | [Twinkle Twinkle Little Rock Star](https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d) | [Lullaby Versions of Kid Rock](https://open.spotify.com/album/6y84YXp2Tpm6dhuVHWihiZ) | 4:18 |
 | 73 | [I Hope You Dance \(Lullaby Version\)](https://open.spotify.com/track/3CD1qck2RKMrZs0eB0tPEq) | [Infinite Hit Band](https://open.spotify.com/artist/6yNita4fnzh0pQAzbAwmdJ) | [Lullabies \- Country Lullaby Music](https://open.spotify.com/album/2yAOS4HuDgQ6tHTJG2DjQc) | 2:57 |
 
-Snapshot ID: `MCxmN2MwYmRmODY0OGQ4MTE1NWExZmYzODA2NDkzZWYzMjcwODVkYTYz`
+Snapshot ID: `MCxjNTk1ZGQ4ZGM3NzZmY2U3YjA0NTM2NjI5YjE4ZjdhN2VmNTQxMmQ1`

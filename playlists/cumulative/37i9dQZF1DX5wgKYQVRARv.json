@@ -1625,6 +1625,24 @@
     },
     {
       "album": {
+        "name": "Clairvoyant",
+        "url": "https://open.spotify.com/album/2QRy5asGvh6yqTDKnKRG96"
+      },
+      "artists": [
+        {
+          "name": "The Contortionist",
+          "url": "https://open.spotify.com/artist/7nCgNmfYJcsVy3vOOzExYS"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457226,
+      "name": "Clairvoyant",
+      "url": "https://open.spotify.com/track/3W0lqO9oUngTKzjkY1tCNu"
+    },
+    {
+      "album": {
         "name": "Cloaked",
         "url": "https://open.spotify.com/album/5y8d5e1d4Gs2fCD6ZBRIId"
       },
@@ -2212,7 +2230,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 213125,
       "name": "Devil In Me",
       "url": "https://open.spotify.com/track/7m7SLo5HUI0DyDXzMh8wNv"
@@ -2822,7 +2840,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 231220,
       "name": "Early Grave",
       "url": "https://open.spotify.com/track/6GouRVZ275NAcveDfHW8Z1"
@@ -5816,7 +5834,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-07",
+      "date_removed": null,
       "duration_ms": 268973,
       "name": "Lost in My Mind",
       "url": "https://open.spotify.com/track/0pvwcb7Uu6lVVW6Mq2jfnk"
@@ -7366,7 +7384,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-07",
+      "date_removed": null,
       "duration_ms": 232594,
       "name": "Pendulum",
       "url": "https://open.spotify.com/track/4HMh3kHGNPE9pSZwR0Jr1M"
@@ -8066,7 +8084,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 270273,
       "name": "Reimagined - Set 1 - Live From Atlanta",
       "url": "https://open.spotify.com/track/46m4ysq3XUa8qf9nZO2kmS"

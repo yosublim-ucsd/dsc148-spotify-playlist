@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Vuy3JLSQEM.md) - [plain]
 
 > Nuevos lanzamientos electrónicos de Latinoamérica\. / Novos lançamentos eletrônicos da América Latina\. Foto: Mr\. Pig
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,160 likes - 84 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,165 likes - 84 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Viaje](https://open.spotify.com/track/5b1je14Oz92lpIlIMLieWw) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Viaje](https://open.spotify.com/album/2Bm9LtZ5cQoxNmrHhqQtjO) | 5:03 |
-| 2 | [Potente](https://open.spotify.com/track/4MvCdK15VGFvmAYqG4PcQ8) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Andrew Mathers](https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0) | [Potente](https://open.spotify.com/album/3mMGZiXwqikBAkY3VXVy0Y) | 2:40 |
+| 2 | [Potente](https://open.spotify.com/track/4g8o6aIUIZhe4JVCYNw93H) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Andrew Mathers](https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0) | [Potente](https://open.spotify.com/album/623lzPaYX1Yym9KdYS0Dn3) | 2:40 |
 | 3 | [The Age of Love 2022](https://open.spotify.com/track/6KvYwiJbPUzmBw7Wif2aMX) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Age Of Love](https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy) | [The Age of Love 2022](https://open.spotify.com/album/2SFKqoZuBpOzhu4zcG9ATE) | 3:09 |
 | 4 | [Your Love \(Sofia Kourtesis Remix\)](https://open.spotify.com/track/4AYjxKVZaR3iyQ7YAUFWiu) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6), [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Your Love \(Sofia Kourtesis Remix\)](https://open.spotify.com/album/76xi8yJFqCFBa7O9mixYbm) | 5:15 |
 | 5 | [Se Va \(feat\. Cumbiafrica\)](https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Se Va](https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT) | 3:16 |
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Vuy3JLSQEM.md) - [plain]
 | 47 | [Movimiento](https://open.spotify.com/track/1Olb7jW1ACym5WkqFxuIWG) | [RUMPUS](https://open.spotify.com/artist/6UbKjDmDWrGKZdHNYxjveJ), [Broken Future](https://open.spotify.com/artist/4uRey4s58J44Hw796OCZQ1), [Stund](https://open.spotify.com/artist/6nNP7Cm5qEpkL9sHNR5Zgk) | [Movimiento](https://open.spotify.com/album/35gXKFhNaHp4pSSRszDgKD) | 3:51 |
 | 48 | [Guisao](https://open.spotify.com/track/0FPDGbsYjSZUJljhz6FewQ) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Rod Contreras](https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Guisao](https://open.spotify.com/album/2llE874y2h7CZWyMeTfbAo) | 2:19 |
 | 49 | [Safari](https://open.spotify.com/track/4LpqYwFE1jo6I6uNuQmd4L) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [Safari](https://open.spotify.com/album/0iix5q7qURQKlFPnnXmgvX) | 1:55 |
-| 50 | [Bam Bae](https://open.spotify.com/track/0Sq6xXpQgHbTStVmhJYADV) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Bam Bae](https://open.spotify.com/album/6Q9yaSKHTC2gtZtvIC3Ch9) | 2:34 |
+| 50 | [Bam Bae](https://open.spotify.com/track/7EQU6YcttUGHNq64OJD0r5) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Bam Bae](https://open.spotify.com/album/6k2tBwYVgoheJrUjsT0RIE) | 2:33 |
 | 51 | [La Colegiala](https://open.spotify.com/track/7FW4xdDydKkMHpUsYbWqKj) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [La Colegiala](https://open.spotify.com/album/7eC4EE0xnxlVJvFRZLCL35) | 3:23 |
 | 52 | [Rivera \- Santos Remix](https://open.spotify.com/track/4tAHyqsqIJ38usghJvWnuP) | [Nadar de Noche](https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get), [Santos](https://open.spotify.com/artist/58P6FfJNf7wddQLSKYKcM3) | [Quietud \(Remixes\)](https://open.spotify.com/album/0jk34MCUosUlunedEVoT3X) | 6:40 |
 | 53 | [Lollipop](https://open.spotify.com/track/2VgX8bg2xbg17XbNoJ23TY) | [Lafrench Toast](https://open.spotify.com/artist/0K66oCgOAzBD4wMZ52S2Pm), [Julian Sanza](https://open.spotify.com/artist/6gMypO0MIeQU2x67phEDh8) | [Lollipop](https://open.spotify.com/album/44djhPC2fvDrhXLbtEG6mS) | 6:30 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Vuy3JLSQEM.md) - [plain]
 | 83 | [Enviada](https://open.spotify.com/track/7a6Wi2bVkphjCOfLfQeaTr) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [¡Ay!](https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh) | 4:03 |
 | 84 | [Despertar](https://open.spotify.com/track/5zVRJaJBPPtOuc6ku1tln2) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Sketches, Vol\. 1 \(2004\-2007\)](https://open.spotify.com/album/2hCHId2M6SQ48hFEfIOtfh) | 3:37 |
 
-Snapshot ID: `MCw4MmE3ZjE3NmViZWE4OWU1YmYwM2U1NzgxNzgyNDI4NDY2MGUzMTBj`
+Snapshot ID: `MCxmYjc4MzliOTFlZjQ3YTE0ODAxMTU5YzI3ZmFjNjE1MzQwNmIwODEx`

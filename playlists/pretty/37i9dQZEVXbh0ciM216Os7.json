@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzODcwMjAsMDAwMDAwMDAzY2EyYzAyNGYxYmJiZTI0MzdmZTZiNmUwNTliZWNlNA==",
+  "snapshot_id": "MjgzODcwMjAsMDAwMDAwMDBmZWZiOWE4OTQ0YTBkOWEyMjA3ODk2ZTE1ZTdkYjU3OQ==",
   "tracks": [
     {
       "added_at": "2023-12-22 05:00:00",
@@ -31,50 +31,22 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Ol Dirty Kudda (Shoalin Lives)",
-        "url": "https://open.spotify.com/album/0jkbWrF2PJVIMg6IhASgpu"
+        "name": "Lyrical Pistol",
+        "url": "https://open.spotify.com/album/3XAJ4XAlDUEN19nOLDgQbS"
       },
       "artists": [
         {
-          "name": "King Kudda",
-          "url": "https://open.spotify.com/artist/6Bw6qzdgvMeOOwVdWbOOo1"
+          "name": "Juke Drastik",
+          "url": "https://open.spotify.com/artist/7JmjvOZmzDlB6o4jczM2cE"
         },
         {
           "name": "Ghostface Killah",
           "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "BadIdea",
-          "url": "https://open.spotify.com/artist/3uWUg2Vzq5geOgji7dUyjY"
         }
       ],
-      "duration_ms": 207052,
-      "name": "Kings Of The League",
-      "url": "https://open.spotify.com/track/50ld6ErqnAjy89SfVta0xu"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Very Important Remixes",
-        "url": "https://open.spotify.com/album/0OhK6qDpun9YzV56dv2e1x"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "Neon Trees",
-          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
-        },
-        {
-          "name": "Misha K",
-          "url": "https://open.spotify.com/artist/3py4xCfrW0MbgZEQXHp65q"
-        }
-      ],
-      "duration_ms": 178834,
-      "name": "Dreamteam (Galantis & Misha K VIP Mix)",
-      "url": "https://open.spotify.com/track/3nyYBC6mZt85am4pnWwl4x"
+      "duration_ms": 178121,
+      "name": "Lyrical Pistol",
+      "url": "https://open.spotify.com/track/1kOQjOPcSg6UbER8CsdKmS"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -100,9 +72,53 @@
           "url": "https://open.spotify.com/artist/6fQMnY3UqEJTWsGzSpV2OB"
         }
       ],
-      "duration_ms": 416174,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/3JVt92ZMXrDlscUbVneHu2"
+      "duration_ms": 417606,
+      "name": "Don\u2018t Blame Me",
+      "url": "https://open.spotify.com/track/5EK2DWMUXgbGdYclO6Z1yh"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Lean Wit Me",
+        "url": "https://open.spotify.com/album/5Atb2nslVAPtuYQsHFTvxK"
+      },
+      "artists": [
+        {
+          "name": "Bandz Danero",
+          "url": "https://open.spotify.com/artist/6Ds1niarMgpaQKqZVnCdU5"
+        },
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        }
+      ],
+      "duration_ms": 209377,
+      "name": "Vices (feat. Wax)",
+      "url": "https://open.spotify.com/track/1vyyN86TAPy26pgX4Iv5yZ"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Very Important Remixes",
+        "url": "https://open.spotify.com/album/0OhK6qDpun9YzV56dv2e1x"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "Neon Trees",
+          "url": "https://open.spotify.com/artist/0RpddSzUHfncUWNJXKOsjy"
+        },
+        {
+          "name": "Misha K",
+          "url": "https://open.spotify.com/artist/3py4xCfrW0MbgZEQXHp65q"
+        }
+      ],
+      "duration_ms": 178834,
+      "name": "Dreamteam (Galantis & Misha K VIP Mix)",
+      "url": "https://open.spotify.com/track/3nyYBC6mZt85am4pnWwl4x"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -151,6 +167,26 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
+        "name": "Power of the Saber Blade",
+        "url": "https://open.spotify.com/album/6NDF3L8GU0Am1cM9kQFN2E"
+      },
+      "artists": [
+        {
+          "name": "DragonForce",
+          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
+        },
+        {
+          "name": "Beat Saber",
+          "url": "https://open.spotify.com/artist/0omOtYsniDOsmu11EWcnyp"
+        }
+      ],
+      "duration_ms": 241066,
+      "name": "Power of the Saber Blade",
+      "url": "https://open.spotify.com/track/1rzLqwGDGEIaeLUCfTcYdi"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
         "name": "Bompton King",
         "url": "https://open.spotify.com/album/5JcuCQYe7nKmotYeUVcYDd"
       },
@@ -187,26 +223,6 @@
       "duration_ms": 268936,
       "name": "RUN - Damian \"Jr. Gong\" Marley Version",
       "url": "https://open.spotify.com/track/6OmaDOVCWQfy69DSayk9dZ"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Power of the Saber Blade",
-        "url": "https://open.spotify.com/album/6NDF3L8GU0Am1cM9kQFN2E"
-      },
-      "artists": [
-        {
-          "name": "DragonForce",
-          "url": "https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR"
-        },
-        {
-          "name": "Beat Saber",
-          "url": "https://open.spotify.com/artist/0omOtYsniDOsmu11EWcnyp"
-        }
-      ],
-      "duration_ms": 241066,
-      "name": "Power of the Saber Blade",
-      "url": "https://open.spotify.com/track/1rzLqwGDGEIaeLUCfTcYdi"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -263,6 +279,114 @@
       "duration_ms": 232613,
       "name": "Sans valeurs",
       "url": "https://open.spotify.com/track/0Gmd5KVTh5ZDkFswbvgajB"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "East Coast",
+        "url": "https://open.spotify.com/album/3RapAVSl4bppMqTYwZMfwi"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        },
+        {
+          "name": "GRAHAM",
+          "url": "https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G"
+        }
+      ],
+      "duration_ms": 162536,
+      "name": "East Coast",
+      "url": "https://open.spotify.com/track/4Yfp2BQfz2rDx0SuUXcrkY"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Long Story Short: Willie Nelson 90 (Live At The Hollywood Bowl)",
+        "url": "https://open.spotify.com/album/3FSyqiY2cUZTeCoQaJDHBM"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        },
+        {
+          "name": "The Food Stamps",
+          "url": "https://open.spotify.com/artist/5pfG3M75POLAstIYjYQA6O"
+        }
+      ],
+      "duration_ms": 181585,
+      "name": "Time of the Preacher - Live at The Hollywood Bowl, Los Angeles, CA - April 30, 2023",
+      "url": "https://open.spotify.com/track/4p0Hh9ZRtyFbRROF5ssEoI"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Softly (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/3SE4pGhmsIgaElY5I1OOMa"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Softly - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/58X8RJOiEXA1bkgUMPScXz"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "QUE CHIMBA DE VIDA",
+        "url": "https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 123351,
+      "name": "QUE CHIMBA DE VIDA",
+      "url": "https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/3YOMkR4iUo3bmEIApbWmsa"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Tate Kobang",
+          "url": "https://open.spotify.com/artist/05ZOzt8hlefGYXWJIL37PI"
+        }
+      ],
+      "duration_ms": 184058,
+      "name": "RNB (Lil Wayne & Tate Kobang)",
+      "url": "https://open.spotify.com/track/2FnDwGL42mw1mzTE9ZhKwO"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -371,22 +495,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Life's a Sugar Pill",
-        "url": "https://open.spotify.com/album/4RmqwBMr1KetAesVgG6w5s"
-      },
-      "artists": [
-        {
-          "name": "Attica Riots",
-          "url": "https://open.spotify.com/artist/5Sn2NCUwSsrdyQRViGvsV4"
-        }
-      ],
-      "duration_ms": 185295,
-      "name": "Baptism",
-      "url": "https://open.spotify.com/track/4W83KRyGMfl9HeT4Hj9GkZ"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "CHRYSALIS",
         "url": "https://open.spotify.com/album/4j6yMI3a0GsrrkkwgJpSIO"
       },
@@ -399,6 +507,22 @@
       "duration_ms": 173560,
       "name": "COMPANY",
       "url": "https://open.spotify.com/track/2ZAZvQc16b4vDiwJ9L5wfs"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Life's a Sugar Pill",
+        "url": "https://open.spotify.com/album/4RmqwBMr1KetAesVgG6w5s"
+      },
+      "artists": [
+        {
+          "name": "Attica Riots",
+          "url": "https://open.spotify.com/artist/5Sn2NCUwSsrdyQRViGvsV4"
+        }
+      ],
+      "duration_ms": 185295,
+      "name": "Baptism",
+      "url": "https://open.spotify.com/track/4W83KRyGMfl9HeT4Hj9GkZ"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -423,18 +547,26 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Feliz Navidad (Metal Version)",
-        "url": "https://open.spotify.com/album/0oJsglUpQOb3imRXh3iMSa"
+        "name": "One of the Girls",
+        "url": "https://open.spotify.com/album/4T8wBxIvoSRVfoFZzuwOXR"
       },
       "artists": [
         {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Lily-Rose Depp",
+          "url": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
         }
       ],
-      "duration_ms": 219263,
-      "name": "Feliz Navidad (Metal Version)",
-      "url": "https://open.spotify.com/track/6oZD9wB0TopUfxE4G8J0Nb"
+      "duration_ms": 305855,
+      "name": "One Of The Girls - Slowed",
+      "url": "https://open.spotify.com/track/3bWm8ejTzkMhPSdBnpxLvl"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -459,34 +591,6 @@
       "duration_ms": 165403,
       "name": "Highway to Heaven",
       "url": "https://open.spotify.com/track/1t76vFG3TW5f4w1s8iWDz4"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "The Lunatics",
-        "url": "https://open.spotify.com/album/3q0obPDiAQRptGg2UfutyR"
-      },
-      "artists": [
-        {
-          "name": "Megative",
-          "url": "https://open.spotify.com/artist/5FxyH7PdyALcTvOaTpbkK3"
-        },
-        {
-          "name": "Fishbone",
-          "url": "https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi"
-        },
-        {
-          "name": "Angelo Moore",
-          "url": "https://open.spotify.com/artist/3MJYGxXDQhcHl0Fh5Zuyf9"
-        },
-        {
-          "name": "Pharoahe Monch",
-          "url": "https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7"
-        }
-      ],
-      "duration_ms": 218952,
-      "name": "Suicide Pimp",
-      "url": "https://open.spotify.com/track/1t6c6YcQeq9RQG8YlU4tXa"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -543,94 +647,6 @@
       "duration_ms": 342597,
       "name": "Facing The Sideways Rain",
       "url": "https://open.spotify.com/track/6ERGlzfgM0WRpvgraiXbdU"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "One Word",
-        "url": "https://open.spotify.com/album/3h0c2vU0ONQMFakvzGyqfe"
-      },
-      "artists": [
-        {
-          "name": "Persefone",
-          "url": "https://open.spotify.com/artist/4wxyib7wQwVxwKNFBmOhAw"
-        }
-      ],
-      "duration_ms": 357924,
-      "name": "One Word",
-      "url": "https://open.spotify.com/track/6VQrJNCav7EZFWK5DwfGqc"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Hybrides",
-        "url": "https://open.spotify.com/album/34Nw8g1MJHkhjD5HMAACQL"
-      },
-      "artists": [
-        {
-          "name": "Scylla",
-          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
-        }
-      ],
-      "duration_ms": 200888,
-      "name": "Hybrides",
-      "url": "https://open.spotify.com/track/6i7koINSdJql5VI3VJOG34"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Tree House",
-        "url": "https://open.spotify.com/album/191OQbivDSqVZV55R6adU5"
-      },
-      "artists": [
-        {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
-        }
-      ],
-      "duration_ms": 163265,
-      "name": "Tree House",
-      "url": "https://open.spotify.com/track/2huPt3DZ81E48FRDOtFp9j"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "A Blu Christmas",
-        "url": "https://open.spotify.com/album/6AJDlqB5YrSIzIAohGvPEH"
-      },
-      "artists": [
-        {
-          "name": "BLU2TH",
-          "url": "https://open.spotify.com/artist/2ZifOC5tdNI0A8sXhxBiUM"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 243923,
-      "name": "God Rest",
-      "url": "https://open.spotify.com/track/5lfsM4DovGXNktCYi1e5pM"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "DIAMONDS & FREAKS (Instrumentals)",
-        "url": "https://open.spotify.com/album/3UMOiCQYUwXsjmHwTjbgP2"
-      },
-      "artists": [
-        {
-          "name": "BLK ODYSSY",
-          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
-        },
-        {
-          "name": "Rapsody",
-          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
-        }
-      ],
-      "duration_ms": 206932,
-      "name": "BROKE FOLK FUNK - Instrumental",
-      "url": "https://open.spotify.com/track/2tdkT1kyU4ONnH2YP5gVcU"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

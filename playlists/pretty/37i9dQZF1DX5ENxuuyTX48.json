@@ -1,12 +1,12 @@
 {
   "description": "wru? OTW! Cover: Charlie Lim",
-  "num_followers": 18223,
+  "num_followers": 18241,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDBiYjA4M2U1YmMxMGJkZjA4ZDg1OGY1OTU5NjczZDNmZmRjZTNk",
+  "snapshot_id": "MCwyOGM2MmVlMWJmNDRmN2FjMTgyN2ZmYjlhZWIzNTRhZjVlNzJiZTAz",
   "tracks": [
     {
       "added_at": "2023-12-21 17:00:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-12-21 17:00:00",
       "album": {
+        "name": "terima kasih",
+        "url": "https://open.spotify.com/album/0RIVNgA95YzOPDHD4aYbqZ"
+      },
+      "artists": [
+        {
+          "name": "Hal",
+          "url": "https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu"
+        }
+      ],
+      "duration_ms": 204126,
+      "name": "terima kasih",
+      "url": "https://open.spotify.com/track/2m1ozXAKFam3YQXRPDnEfE"
+    },
+    {
+      "added_at": "2023-12-21 17:00:00",
+      "album": {
         "name": "when it all ends HERE",
         "url": "https://open.spotify.com/album/1GqVTlNRWsjQo9b4HcuEpL"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 285810,
       "name": "perayaan mati rasa",
       "url": "https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f"
-    },
-    {
-      "added_at": "2023-12-21 17:00:00",
-      "album": {
-        "name": "terima kasih",
-        "url": "https://open.spotify.com/album/0RIVNgA95YzOPDHD4aYbqZ"
-      },
-      "artists": [
-        {
-          "name": "Hal",
-          "url": "https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu"
-        }
-      ],
-      "duration_ms": 204126,
-      "name": "terima kasih",
-      "url": "https://open.spotify.com/track/2m1ozXAKFam3YQXRPDnEfE"
     },
     {
       "added_at": "2023-12-21 17:00:00",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-12-21 17:00:00",
       "album": {
+        "name": "Confession No.1",
+        "url": "https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "duration_ms": 251454,
+      "name": "Terima Kasih Cinta",
+      "url": "https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi"
+    },
+    {
+      "added_at": "2023-12-21 17:00:00",
+      "album": {
         "name": "Kala Sang Surya Tenggelam (from the Netflix Series \"Gadis Kretek\")",
         "url": "https://open.spotify.com/album/6KBxUSNGEAMLGxo9GwpGOt"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 201000,
       "name": "Kala Sang Surya Tenggelam (from the Netflix Series \"Gadis Kretek\")",
       "url": "https://open.spotify.com/track/4Ssmc2huU8shKR9aO9PMQH"
-    },
-    {
-      "added_at": "2023-12-21 17:00:00",
-      "album": {
-        "name": "Confession No.1",
-        "url": "https://open.spotify.com/album/1ahdxVWtqETWgYIuO4Uv8v"
-      },
-      "artists": [
-        {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
-        }
-      ],
-      "duration_ms": 251454,
-      "name": "Terima Kasih Cinta",
-      "url": "https://open.spotify.com/track/3YNMHA6FqeqWzZyw0JVyIi"
     },
     {
       "added_at": "2023-12-21 17:00:00",

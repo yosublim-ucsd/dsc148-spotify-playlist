@@ -4,7 +4,7 @@
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-100 songs - 6 hr 47 min
+101 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Nacho \- Extended Mix](https://open.spotify.com/track/6pRR2YZd7YxHi2FtHU8M6w) | [Anyasa](https://open.spotify.com/artist/63zQTMtwPjkb5cFFMkL4xd), [Bawari Basanti](https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8) | [Gaya EP](https://open.spotify.com/album/5iRIzCy1oVuia0O7binb0O) | 6:29 | 2023-10-27 |  |
 | [Nadiyan \- Extended Mix](https://open.spotify.com/track/0eEx4uqVBsYvhywfko53Nd) | [Anyasa](https://open.spotify.com/artist/63zQTMtwPjkb5cFFMkL4xd), [Amira Gill](https://open.spotify.com/artist/3ZW8Uj45dj58KkgqkFBLIS) | [Gaya EP](https://open.spotify.com/album/5iRIzCy1oVuia0O7binb0O) | 6:45 | 2023-10-27 |  |
 | [NAINA](https://open.spotify.com/track/4QTAQ7Vegrv0tBePvuDeqG) | [AKU](https://open.spotify.com/artist/5GTMVApm4eVMVUOgC8RcqU) | [NAINA](https://open.spotify.com/album/5fnVszPPyVaUAA3bZIBC7c) | 2:41 | 2023-08-18 | 2023-12-09 |
-| [Naina \(Jay Pei Remix\)](https://open.spotify.com/track/7zjeLjktkiYtfNUir9doos) | [Anhad + Tanner](https://open.spotify.com/artist/5V4PIa2khOUA4o5HUd5fhZ), [Isheeta Chakrvarty](https://open.spotify.com/artist/44hBrSWimAgWD5iqB16XId), [Jay Pei](https://open.spotify.com/artist/0BLJb1n9C25fGISMnSzHIj) | [In Other Words \(Remixes\)](https://open.spotify.com/album/2hlJOVajeNENWIZbLPOIbv) | 6:19 | 2023-08-18 |  |
+| [Naina \(Jay Pei Remix\)](https://open.spotify.com/track/6eH4l2DyxkTHZXxscPRvNs) | [Anhad + Tanner](https://open.spotify.com/artist/5V4PIa2khOUA4o5HUd5fhZ), [Isheeta Chakrvarty](https://open.spotify.com/artist/44hBrSWimAgWD5iqB16XId), [Jay Pei](https://open.spotify.com/artist/0BLJb1n9C25fGISMnSzHIj) | [In Other Words \(Remixes\)](https://open.spotify.com/album/7t3y1lcPiSP1Ie1j2xxskm) | 6:19 | 2023-12-21 |  |
+| [Naina \(Jay Pei Remix\)](https://open.spotify.com/track/7zjeLjktkiYtfNUir9doos) | [Anhad + Tanner](https://open.spotify.com/artist/5V4PIa2khOUA4o5HUd5fhZ), [Isheeta Chakrvarty](https://open.spotify.com/artist/44hBrSWimAgWD5iqB16XId), [Jay Pei](https://open.spotify.com/artist/0BLJb1n9C25fGISMnSzHIj) | [In Other Words \(Remixes\)](https://open.spotify.com/album/2hlJOVajeNENWIZbLPOIbv) | 6:19 | 2023-08-18 | 2023-12-24 |
 | [Nans](https://open.spotify.com/track/7jak5hGfzSqODeK0GXK6gt) | [Baalti](https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN) | [Nans](https://open.spotify.com/album/0tbncHBh3Nb53ZMSOm6DpC) | 5:08 | 2023-08-18 |  |
 | [Naroon](https://open.spotify.com/track/5SrYnmXkptbGz1pHhG08ui) | [SIDD](https://open.spotify.com/artist/7ok3oCifQBgzKJtiL0z3DU) | [Naroon](https://open.spotify.com/album/1tJY7OtHtoOjWVBhdJw6qu) | 3:08 | 2023-09-08 | 2023-12-09 |
 | [New York Giddha](https://open.spotify.com/track/2kXgHvTF9tmfNeVs0pFC41) | [Kahani](https://open.spotify.com/artist/1fu7plwfaglPCQU6y1RFfb), [HARJI](https://open.spotify.com/artist/18R0lz0DARyexnEAaWaYds) | [New York Giddha](https://open.spotify.com/album/5m8VcRuGcQ8wBZob7bu1Iw) | 5:13 | 2023-08-18 |  |

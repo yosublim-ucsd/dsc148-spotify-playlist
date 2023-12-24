@@ -1,12 +1,12 @@
 {
   "description": "Aqui o ver\u00e3o dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!",
-  "num_followers": 620550,
+  "num_followers": 620517,
   "original_name": "Ver\u00e3o Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDIxYjJmMDY0Njg4OGUyZTJlNDk1YjEzN2JiN2VjYThiMjIyMjBl",
+  "snapshot_id": "MCwyZDM1MDA5MThmODJmZWQ4MTlkMDU4MDRmMWJhYWFlMGIzMDRiOTZi",
   "tracks": [
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "Live in the Moment",
+        "url": "https://open.spotify.com/album/2Zx5mrlkb70Qjh1RYEI4Pn"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 193507,
+      "name": "Live in the Moment",
+      "url": "https://open.spotify.com/track/0gQCDyX45XutyPdt5EWafa"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "Rueda (Remix)",
         "url": "https://open.spotify.com/album/30hCIU4mQfd14LVCLCOdmA"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 212307,
       "name": "Rueda - Remix",
       "url": "https://open.spotify.com/track/3EWxpqOSP0KWgUmRiklqGy"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "Live in the Moment",
-        "url": "https://open.spotify.com/album/2Zx5mrlkb70Qjh1RYEI4Pn"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 193507,
-      "name": "Live in the Moment",
-      "url": "https://open.spotify.com/track/0gQCDyX45XutyPdt5EWafa"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1871,26 +1871,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "Para",
-        "url": "https://open.spotify.com/album/3EaB8p7k7eVnFrbfqWOFyN"
-      },
-      "artists": [
-        {
-          "name": "Gianluca Vacchi",
-          "url": "https://open.spotify.com/artist/26XxGE8hLV1t9IYa8872lQ"
-        },
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Para",
-      "url": "https://open.spotify.com/track/2VsMPBlyoaMMPyeT90DNBL"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "Blue Sky",
         "url": "https://open.spotify.com/album/4LRZwEWDj6xdgFk8OBydmt"
       },
@@ -1907,6 +1887,26 @@
       "duration_ms": 201707,
       "name": "Blue Sky",
       "url": "https://open.spotify.com/track/4uK2F0ZB7ac1C296tWxwu8"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "Para",
+        "url": "https://open.spotify.com/album/3EaB8p7k7eVnFrbfqWOFyN"
+      },
+      "artists": [
+        {
+          "name": "Gianluca Vacchi",
+          "url": "https://open.spotify.com/artist/26XxGE8hLV1t9IYa8872lQ"
+        },
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Para",
+      "url": "https://open.spotify.com/track/2VsMPBlyoaMMPyeT90DNBL"
     },
     {
       "added_at": "2023-02-17 03:00:00",

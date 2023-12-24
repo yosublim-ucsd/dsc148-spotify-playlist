@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLNIxmtGu8N.md) - [plain]
 
 > Go\-Go Music from the heart of Washington, DC\. Cover, New Impressionz by Jay Kyri
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,905 likes - 70 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,911 likes - 70 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLNIxmtGu8N.md) - [plain]
 | 42 | [Blinding Lights](https://open.spotify.com/track/29RuTRCfXXNmhot7OLq4EQ) | [Black Alley](https://open.spotify.com/artist/4O7xE3mpAOnolHQovF4C2R) | [Blinding Lights](https://open.spotify.com/album/0Es8vWXuh7KaDhO56PzMmy) | 3:31 |
 | 43 | [Don't Say You Will \- Live](https://open.spotify.com/track/42yIi2KXKd5fL2ITdcV3Pr) | [New Impressionz](https://open.spotify.com/artist/0VbVSby1bzG3872MRr27HX) | [The Gift](https://open.spotify.com/album/4T4rCKTPPXGSjPmvX2xBok) | 2:42 |
 | 44 | [Takes My Breath Away \- Live](https://open.spotify.com/track/1g8soFqOrBfamriJLVSjig) | [New Impressionz](https://open.spotify.com/artist/0VbVSby1bzG3872MRr27HX) | [The Gift](https://open.spotify.com/album/4T4rCKTPPXGSjPmvX2xBok) | 3:34 |
-| 45 | [09 Slowbounce Time](https://open.spotify.com/track/18iNm9mtfdNZKvKMd5W0io) | [ABM Band](https://open.spotify.com/artist/2eJJQI2s8ZwcVQhGw9NTwH) | [The Gift & the Curse](https://open.spotify.com/album/31Bmtq02mfTu1WkpmYkE5G) | 2:29 |
+| 45 | [09 Slowbounce Time](https://open.spotify.com/track/1sAXFMCjEmDZ5J6XqgMVWU) | [ABM Slow Bounce Kingz](https://open.spotify.com/artist/2fH6GKds8DEN0LerIAfvQm) | [The Gift & The Curse: The People's Game and The Games Curse](https://open.spotify.com/album/7G3Ek7KMYZ3x6iQovxVHQH) | 2:29 |
 | 46 | [Roxanne](https://open.spotify.com/track/5NBEj5D44lgnNJyKHzAA6K) | [XIB](https://open.spotify.com/artist/5RQK7ewJwKXBZgwBPZvivb) | [New Year, Same Crank V.2](https://open.spotify.com/album/06GWEj5cHBC0TMqpXu0lyI) | 4:34 |
 | 47 | [Bay Bay](https://open.spotify.com/track/20U5607alwSWGjXsVLItfd) | [ABM Band](https://open.spotify.com/artist/2eJJQI2s8ZwcVQhGw9NTwH) | [The Gift & the Curse](https://open.spotify.com/album/31Bmtq02mfTu1WkpmYkE5G) | 3:37 |
 | 48 | [Tambourina Go Go Bounce](https://open.spotify.com/track/0ahcKcp9NEfIPfkoa966Ce) | [Marcy Mane](https://open.spotify.com/artist/7u9z6yLFvWVEJcnDJnd7sw) | [FLEXICO](https://open.spotify.com/album/2JBBtkjaL8peNpXrkk6rcI) | 2:15 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLNIxmtGu8N.md) - [plain]
 | 69 | [Da Butt](https://open.spotify.com/track/29O9cSdpmLZKFcTRMlnqo2) | [E.U.](https://open.spotify.com/artist/7fIfKG7oJGO4p8wvyi6adh) | [Lost R&B Hits Of The 80S](https://open.spotify.com/album/5831UaKj0HhYwfftwVQdHk) | 5:14 |
 | 70 | [96 Dope Jam](https://open.spotify.com/track/3UzNKOAkbXimKt9hzGKwfc) | [Backyard Band](https://open.spotify.com/artist/4lFJtFKGcitXZZZBfWyw03) | [Street Antidote](https://open.spotify.com/album/7vOoHtMP9YTN9jIO7cwbf3) | 6:31 |
 
-Snapshot ID: `MCxmMDA3YjUxZGJkYzUwMzU4ZGEzMDYzNWFkNzU0YWNiMjE0MjYzYWQ1`
+Snapshot ID: `MCxkM2I5NmY0MTc2NGJmOWY4NTYwYmM4Yjg4OGFlOWRlYmU3OTZkNDhm`

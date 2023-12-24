@@ -4,7 +4,7 @@
 
 > Pa' las posadas y las fiestas, canciones navideñas con sazón mexa\. Banda MS en portada.
 
-140 songs - 7 hr 36 min
+141 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Arre Borriquito](https://open.spotify.com/track/5z52ZcU8C8Bl0sm6zx0bJJ) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY) | [Navidad Para Ti](https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3) | 3:21 | 2022-11-07 |  |
 | [Año Con Año](https://open.spotify.com/track/21myc3PUNMz1v4pq56VgIn) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [Año Con Año](https://open.spotify.com/album/4HBt50u7DA3fA3sBxa9Cul) | 3:53 | 2022-11-07 |  |
 | [Bailando en Navidad](https://open.spotify.com/track/5bIKB4T2RQ223XdO4SadPA) | [Chicos de Barrio](https://open.spotify.com/artist/0pTxCwjrb9mfMx8fVgOT8X) | [Feliz Navidad](https://open.spotify.com/album/3hzPDWoSlDEoDHp4r9RG33) | 2:39 | 2023-12-20 |  |
-| [Blanca Navidad](https://open.spotify.com/track/0bNGZAEG7ClmH54fRaoRgS) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Duelo Cumbiambero En Navidad](https://open.spotify.com/album/1RlMpDTvsBxwqaTIzKc8iy) | 3:24 | 2023-12-20 |  |
+| [Blanca Navidad](https://open.spotify.com/track/0bNGZAEG7ClmH54fRaoRgS) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Duelo Cumbiambero En Navidad](https://open.spotify.com/album/1RlMpDTvsBxwqaTIzKc8iy) | 3:24 | 2023-12-20 | 2023-12-24 |
 | [Blanca Navidad](https://open.spotify.com/track/5KmhmTcN8eHMLlFz8dQdet) | [Los Horóscopos De Durango](https://open.spotify.com/artist/46uJrEeqP88sYlHFqaGPid) | [Contigo En Navidad](https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ) | 3:37 | 2022-11-07 |  |
 | [Blanca Navidad \(Spotify Sad Sierreño Holiday Singles\)](https://open.spotify.com/track/5hNHkrt2vJaABjgAHOdyQG) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Blanca Navidad \(Spotify Sad Sierreño Holiday Singles\)](https://open.spotify.com/album/02ymAzYTxrM3CpxFRN3hSE) | 3:16 | 2022-11-16 |  |
 | [Cada Diciembre](https://open.spotify.com/track/2jUDLQVevkcvu8H4BpRcmZ) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Navidad Con DEL](https://open.spotify.com/album/4QeCY4pjvtMEUpi0YmTrdd) | 2:41 | 2022-11-07 |  |
@@ -70,6 +70,7 @@
 | [Llegó Diciembre](https://open.spotify.com/track/25Wv1JfGMOAYbAO8nT5ZcF) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [Camaleón](https://open.spotify.com/album/6w20flSfh4CyLpQALjOape) | 3:07 | 2023-12-20 |  |
 | [Llegó Navidad](https://open.spotify.com/track/2jLTyiQc2feKpFu3Ts325e) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Llegó Navidad](https://open.spotify.com/album/1U9KMlWgZVAghi8rk64qMd) | 4:00 | 2023-12-20 |  |
 | [Los Peces En El Río](https://open.spotify.com/track/1fg5yTwVBmUFWIVRTvZDT5) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Eterna Navidad Celebremos](https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu) | 2:46 | 2022-11-07 |  |
+| [Los peces en el río](https://open.spotify.com/track/1nDeI6myemOSEphsk7uFo8) | [Tropical Caribe](https://open.spotify.com/artist/2dEjLtjgTsWfw5itGqF97f) | [Navidad Mexicana](https://open.spotify.com/album/17mYskTzdarr96a39gEyE8) | 3:29 | 2023-12-20 |  |
 | [Los Peces En El Río](https://open.spotify.com/track/0oSi4VcWHLozSWgRVJY2ac) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Navidad con Ángela Aguilar](https://open.spotify.com/album/08gmZBkIqe0wxtGzoDrDla) | 2:56 | 2023-12-20 |  |
 | [Los Peces en el Río \- Edición Especial](https://open.spotify.com/track/1dWFzTAoqgvCxFQoE4bhom) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Navidad Con Angela \(Edición Especial\)](https://open.spotify.com/album/602qxwQA6vuw9d8ukke3XX) | 2:56 | 2022-11-07 | 2023-12-21 |
 | [Mamacita Donde Esta Santa Claus](https://open.spotify.com/track/5jUfVMfcP2SckhUaZ3lcy8) | [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM) | [Mamacita Donde Esta Santa Claus](https://open.spotify.com/album/3sPPBL00EDtV8w3L4N6UDF) | 2:36 | 2023-12-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 > A collection of the best recent Prog Rock tracks\. Cover: Steve Vai
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,104 likes - 76 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,159 likes - 76 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 19 | [The Heart's Whisper](https://open.spotify.com/track/2zoufCsixCSZ7G9uA0V03Y) | [Our Oceans](https://open.spotify.com/artist/4AEpHs6Dphr48rEfYytk07) | [While Time Disappears](https://open.spotify.com/album/0n3CI3qSwoRyKcKM2ADRwu) | 5:29 |
 | 20 | [Hazard](https://open.spotify.com/track/3kBTxzdPJzP399hYP9BoaW) | [Long Distance Calling](https://open.spotify.com/artist/3SiCxhceGZgzusCLHd4Zz6) | [How Do We Want to Live?](https://open.spotify.com/album/248Nx17GVrcWKjDH8JKqGm) | 6:08 |
 | 21 | [Immunity](https://open.spotify.com/track/5RJGQbnDxqIf5FINlfK1Vq) | [Long Distance Calling](https://open.spotify.com/artist/3SiCxhceGZgzusCLHd4Zz6) | [How Do We Want to Live?](https://open.spotify.com/album/248Nx17GVrcWKjDH8JKqGm) | 5:40 |
-| 22 | [Closer](https://open.spotify.com/track/5TUn5aeSBFYKiQFLO3fE5N) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Closer](https://open.spotify.com/album/1at11cxee5blIgarVbwuY0) | 5:15 |
+| 22 | [Closer](https://open.spotify.com/track/0mrN9ouorjK8uwlPXfNLnp) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Where Myth Becomes Memory](https://open.spotify.com/album/6feZT48cizyeg8cFVjX8pO) | 5:15 |
 | 23 | [Worlds Beyond \- English version](https://open.spotify.com/track/5MIpqy1hikpfckODOn1E9y) | [Premiata Forneria Marconi](https://open.spotify.com/artist/1MD5pgVzlusqGyuSTcTxvu) | [Worlds Beyond \(English version\)](https://open.spotify.com/album/4zdr9AN102ytgCRNv9umnb) | 3:17 |
 | 24 | [Broken](https://open.spotify.com/track/0ptQlbSYNp8yKAtHWKRB3f) | [The Flower Kings](https://open.spotify.com/artist/0BI5vXwUl4lZMtARfXQ0No) | [Islands](https://open.spotify.com/album/0cdFTrG6rPXUjcOhBpS6qH) | 6:47 |
 | 25 | [Keeping People as Pets](https://open.spotify.com/track/2Bs1pRSZh0imh8my3EczOC) | [Lonely Robot](https://open.spotify.com/artist/6QsBFBEWHLod7IqInyBOjJ) | [Keeping People as Pets](https://open.spotify.com/album/54tLhnUTtB5qX8w57Qmh8n) | 5:20 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 75 | [Rise, Naianasha \(Cut The Cord\)](https://open.spotify.com/track/4N5o8PH1oxWVMbCDZqABqe) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Vaxis II: A Window of the Waking Mind](https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON) | 5:19 |
 | 76 | [Sand Castles](https://open.spotify.com/track/1veybHpjhAehZ9tM2ftDVD) | [Head First](https://open.spotify.com/artist/0afcetY24N4RXaaw7KgNaG) | [Head First](https://open.spotify.com/album/7EEhufz4k2e5Vvhe94QSl8) | 5:15 |
 
-Snapshot ID: `MCxkMmM2Y2FmNzczMGEyYTdjNzRkZGFiNTEyMjA4MzJlZjNkODZiYTM2`
+Snapshot ID: `MCw4YmMyMGE0MzcwMmEzYzFjOThhZTU1NDg5ZTlkYjllYzRiNGZhZDEw`

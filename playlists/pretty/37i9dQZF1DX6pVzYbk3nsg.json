@@ -1,18 +1,18 @@
 {
   "description": "Los sonidos tradicionales de la Isla del Encanto.",
-  "num_followers": 4389,
+  "num_followers": 4426,
   "original_name": "Bomba y Plena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTVkNzQyOTFmZDczMmJkMDhmNDM3NThiZGRjZjRkYmYzZjE0NGQ0",
+  "snapshot_id": "MCxlNDRiMWU5OWY3ZjgxYTBhODg4ZmEzYmY3YjI4MjFhMTAxZmI1NmFi",
   "tracks": [
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Estamos Gozando",
-        "url": "https://open.spotify.com/album/3U8wcmgDMXJeLGiu6ikRsZ"
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3biwM3ygTmnyyi98Fw2oH5"
       },
       "artists": [
         {
@@ -20,9 +20,25 @@
           "url": "https://open.spotify.com/artist/7jZRvnCRPh2cJZ4DW5WrD9"
         }
       ],
-      "duration_ms": 381720,
-      "name": "Medley De La Calle San Sebastian",
-      "url": "https://open.spotify.com/track/2TuyfsOZ7hwxI2Hfv84MPz"
+      "duration_ms": 290213,
+      "name": "Que Bonita Bandera",
+      "url": "https://open.spotify.com/track/3fJNRrNLljNuejgcDFDNGD"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Regalo de Navidad",
+        "url": "https://open.spotify.com/album/4z2PmxDQaFrCfVyNIsdpBo"
+      },
+      "artists": [
+        {
+          "name": "Gary Nu\u00f1ez & Plena Libre",
+          "url": "https://open.spotify.com/artist/0NLCkTfPqA0wthAwSrYlOF"
+        }
+      ],
+      "duration_ms": 411213,
+      "name": "Medley: Ma\u00f1ana por la Ma\u00f1ana/Voy Subiendo",
+      "url": "https://open.spotify.com/track/3rC9Tw4X3PZjQJMhPACK0l"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -43,22 +59,6 @@
       "duration_ms": 278786,
       "name": "Plena y Bomba (feat. Calle 13)",
       "url": "https://open.spotify.com/track/5hd2KQbzlMF1hmAlBTNCgi"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
-        "name": "Regalo de Navidad",
-        "url": "https://open.spotify.com/album/4z2PmxDQaFrCfVyNIsdpBo"
-      },
-      "artists": [
-        {
-          "name": "Gary Nu\u00f1ez & Plena Libre",
-          "url": "https://open.spotify.com/artist/0NLCkTfPqA0wthAwSrYlOF"
-        }
-      ],
-      "duration_ms": 411213,
-      "name": "Medley: Ma\u00f1ana por la Ma\u00f1ana/Voy Subiendo",
-      "url": "https://open.spotify.com/track/3rC9Tw4X3PZjQJMhPACK0l"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -127,8 +127,8 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/3biwM3ygTmnyyi98Fw2oH5"
+        "name": "Estamos Gozando",
+        "url": "https://open.spotify.com/album/3U8wcmgDMXJeLGiu6ikRsZ"
       },
       "artists": [
         {
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/7jZRvnCRPh2cJZ4DW5WrD9"
         }
       ],
-      "duration_ms": 290213,
-      "name": "Que Bonita Bandera",
-      "url": "https://open.spotify.com/track/3fJNRrNLljNuejgcDFDNGD"
+      "duration_ms": 381720,
+      "name": "Medley De La Calle San Sebastian",
+      "url": "https://open.spotify.com/track/2TuyfsOZ7hwxI2Hfv84MPz"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -375,18 +375,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Pal' Mundo",
-        "url": "https://open.spotify.com/album/1BUgjs8utRguMAQ0vTu0QH"
+        "name": "Puerto Rico, Puerto Rico Mi Tierra Natal",
+        "url": "https://open.spotify.com/album/28nERzqmaa2n4hve9UxlnQ"
       },
       "artists": [
         {
-          "name": "Bomba & Plena",
-          "url": "https://open.spotify.com/artist/6wr6uWojsqUvSPKRe3uzsB"
+          "name": "Los Pleneros de la 21",
+          "url": "https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy"
+        },
+        {
+          "name": "Cojunto Melodia",
+          "url": "https://open.spotify.com/artist/0Pc2l1icFRWh3iI9uPoudM"
         }
       ],
-      "duration_ms": 229103,
-      "name": "Bombale",
-      "url": "https://open.spotify.com/track/78TdC5GSZqIHhOy7AU8iI5"
+      "duration_ms": 298226,
+      "name": "Campo",
+      "url": "https://open.spotify.com/track/15HmdlLczXj5jlqUlmUNS8"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -487,22 +491,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Puerto Rico, Puerto Rico Mi Tierra Natal",
-        "url": "https://open.spotify.com/album/28nERzqmaa2n4hve9UxlnQ"
+        "name": "Pal' Mundo",
+        "url": "https://open.spotify.com/album/1BUgjs8utRguMAQ0vTu0QH"
       },
       "artists": [
         {
-          "name": "Los Pleneros de la 21",
-          "url": "https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy"
-        },
-        {
-          "name": "Cojunto Melodia",
-          "url": "https://open.spotify.com/artist/0Pc2l1icFRWh3iI9uPoudM"
+          "name": "Bomba & Plena",
+          "url": "https://open.spotify.com/artist/6wr6uWojsqUvSPKRe3uzsB"
         }
       ],
-      "duration_ms": 298226,
-      "name": "Campo",
-      "url": "https://open.spotify.com/track/15HmdlLczXj5jlqUlmUNS8"
+      "duration_ms": 229103,
+      "name": "Bombale",
+      "url": "https://open.spotify.com/track/78TdC5GSZqIHhOy7AU8iI5"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -555,18 +555,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "A La Buena S\u00ed",
-        "url": "https://open.spotify.com/album/3ZT00YYCEhmE1eTi5LVwqT"
+        "name": "Para Todos Ustedes",
+        "url": "https://open.spotify.com/album/304SxpX0NsaNayS1gAAhn5"
       },
       "artists": [
         {
-          "name": "Chamir Bonano",
-          "url": "https://open.spotify.com/artist/0n7fusANHiFjz3vTvMaBe0"
+          "name": "Los Pleneros de la 21",
+          "url": "https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy"
         }
       ],
-      "duration_ms": 174345,
-      "name": "A La Buena S\u00ed",
-      "url": "https://open.spotify.com/track/1wbjlLVtfqlX6jyCpRbwdH"
+      "duration_ms": 454466,
+      "name": "Campo (Land) / Yo cantar\u00e9 esta bomba (I Will Sing this Bomba)",
+      "url": "https://open.spotify.com/track/3re4zafR80jdjih18UJYvF"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
+        "name": "A La Buena S\u00ed",
+        "url": "https://open.spotify.com/album/3ZT00YYCEhmE1eTi5LVwqT"
+      },
+      "artists": [
+        {
+          "name": "Chamir Bonano",
+          "url": "https://open.spotify.com/artist/0n7fusANHiFjz3vTvMaBe0"
+        }
+      ],
+      "duration_ms": 174345,
+      "name": "A La Buena S\u00ed",
+      "url": "https://open.spotify.com/track/1wbjlLVtfqlX6jyCpRbwdH"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
         "name": "Org\u00e1nico y Medicinal",
         "url": "https://open.spotify.com/album/76iolqxBkeTjzGlC7gw1lE"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 300674,
       "name": "La Revoluci\u00f3n (A la Calle Plenero)",
       "url": "https://open.spotify.com/track/2cgM9f7eupk28w9skPjEKA"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
-        "name": "Para Todos Ustedes",
-        "url": "https://open.spotify.com/album/304SxpX0NsaNayS1gAAhn5"
-      },
-      "artists": [
-        {
-          "name": "Los Pleneros de la 21",
-          "url": "https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy"
-        }
-      ],
-      "duration_ms": 454466,
-      "name": "Campo (Land) / Yo cantar\u00e9 esta bomba (I Will Sing this Bomba)",
-      "url": "https://open.spotify.com/track/3re4zafR80jdjih18UJYvF"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
+        "name": "Somos Boricuas: Bomba Y Plena En Nueva York",
+        "url": "https://open.spotify.com/album/3RTj6IuypsPsWoGUsiUTwB"
+      },
+      "artists": [
+        {
+          "name": "Los Pleneros de la 21",
+          "url": "https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy"
+        }
+      ],
+      "duration_ms": 223293,
+      "name": "Plena De San Anton",
+      "url": "https://open.spotify.com/track/6bSNlhadeU2eW6MWQN1Kq0"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
         "name": "Bomba De Loiza",
         "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
       },
@@ -767,22 +783,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Somos Boricuas: Bomba Y Plena En Nueva York",
-        "url": "https://open.spotify.com/album/3RTj6IuypsPsWoGUsiUTwB"
-      },
-      "artists": [
-        {
-          "name": "Los Pleneros de la 21",
-          "url": "https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy"
-        }
-      ],
-      "duration_ms": 223293,
-      "name": "Plena De San Anton",
-      "url": "https://open.spotify.com/track/6bSNlhadeU2eW6MWQN1Kq0"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Tamb\u00f3",
         "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
       },
@@ -819,18 +819,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Buya (Live)",
-        "url": "https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq"
+        "name": "Para Todos Ustedes",
+        "url": "https://open.spotify.com/album/304SxpX0NsaNayS1gAAhn5"
       },
       "artists": [
         {
-          "name": "Buya",
-          "url": "https://open.spotify.com/artist/29u8U8MD9gvMcxkkJxikna"
+          "name": "Los Pleneros de la 21",
+          "url": "https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy"
         }
       ],
-      "duration_ms": 192786,
-      "name": "Candela (Seis Corrido) [Live]",
-      "url": "https://open.spotify.com/track/1WQayDc6Nia3dIBRJ4qINW"
+      "duration_ms": 223853,
+      "name": "Madame Calal\u00fa",
+      "url": "https://open.spotify.com/track/7rgzOhmb0GFWDgAOqhk8ah"
     }
   ],
   "unique_name": "Bomba y Plena",

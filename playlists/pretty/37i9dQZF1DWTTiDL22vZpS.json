@@ -1,12 +1,12 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 20399,
+  "num_followers": 20424,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzQyNzQzN2UyMGNlNmViZDdkZTU3Y2I0YmRmM2E2MGNkMjhkN2Ew",
+  "snapshot_id": "MCxjZmVmMTYyNDIyYjQ0Mjk3ODhhYmZhM2Y4ZjAxNTE1NjM2MjdjNTE0",
   "tracks": [
     {
       "added_at": "2023-12-12 21:09:53",
@@ -675,30 +675,6 @@
     {
       "added_at": "2023-12-12 21:09:53",
       "album": {
-        "name": "In My Bones",
-        "url": "https://open.spotify.com/album/6dxeJJi4Sbj1k89jS0gRyp"
-      },
-      "artists": [
-        {
-          "name": "DJ Who",
-          "url": "https://open.spotify.com/artist/2MI03I2UxwCen2VjYktQA7"
-        },
-        {
-          "name": "Willy Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
-        },
-        {
-          "name": "Mr. Talkbox",
-          "url": "https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH"
-        }
-      ],
-      "duration_ms": 217082,
-      "name": "In My Bones",
-      "url": "https://open.spotify.com/track/79nl5WirZHBsWvTCy3s4iv"
-    },
-    {
-      "added_at": "2023-12-12 21:09:53",
-      "album": {
         "name": "M\u00fasica Moderna",
         "url": "https://open.spotify.com/album/1zE6fgn3iqkOwJGS18B0sm"
       },
@@ -735,6 +711,30 @@
       "duration_ms": 192973,
       "name": "Holy Hell",
       "url": "https://open.spotify.com/track/6PIuuyPtky0MGlv3kHEC3T"
+    },
+    {
+      "added_at": "2023-12-12 21:09:53",
+      "album": {
+        "name": "In My Bones",
+        "url": "https://open.spotify.com/album/6dxeJJi4Sbj1k89jS0gRyp"
+      },
+      "artists": [
+        {
+          "name": "DJ Who",
+          "url": "https://open.spotify.com/artist/2MI03I2UxwCen2VjYktQA7"
+        },
+        {
+          "name": "Willy Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
+        },
+        {
+          "name": "Mr. Talkbox",
+          "url": "https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH"
+        }
+      ],
+      "duration_ms": 217082,
+      "name": "In My Bones",
+      "url": "https://open.spotify.com/track/79nl5WirZHBsWvTCy3s4iv"
     },
     {
       "added_at": "2023-12-12 21:09:53",
@@ -947,8 +947,8 @@
     {
       "added_at": "2023-12-12 21:09:53",
       "album": {
-        "name": "Debut",
-        "url": "https://open.spotify.com/album/5pSvRHQJbnH4keSrZ3PuZe"
+        "name": "Si Fui Yo",
+        "url": "https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs"
       },
       "artists": [
         {
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
         }
       ],
-      "duration_ms": 149657,
-      "name": "Debut",
-      "url": "https://open.spotify.com/track/34xR0p88Tn0osfkWtLC6zi"
+      "duration_ms": 146840,
+      "name": "Si Fui Yo",
+      "url": "https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J"
     },
     {
       "added_at": "2023-12-12 21:09:53",

@@ -82,7 +82,7 @@
     {
       "album": {
         "name": "My Truth",
-        "url": "https://open.spotify.com/album/0JjHp7nS2lKkwalcUyrWFn"
+        "url": "https://open.spotify.com/album/07zEDWrPhqROuygaSwVTHm"
       },
       "artists": [
         {
@@ -97,6 +97,28 @@
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 302102,
+      "name": "Able",
+      "url": "https://open.spotify.com/track/0ICGreKEIidNiyIGMVwS1E"
+    },
+    {
+      "album": {
+        "name": "My Truth",
+        "url": "https://open.spotify.com/album/0JjHp7nS2lKkwalcUyrWFn"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        },
+        {
+          "name": "Marvin Winans",
+          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
       "duration_ms": 302102,
       "name": "Able",
       "url": "https://open.spotify.com/track/736A53Kw337Z5zrJhH24jP"
@@ -3666,10 +3688,28 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 145750,
       "name": "Nights In Atlanta",
       "url": "https://open.spotify.com/track/3IX5wVQbXOLLlUcItVnb2i"
+    },
+    {
+      "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/2kLyZqFFxBq2wjR8IPUwcE"
+      },
+      "artists": [
+        {
+          "name": "Da' T.R.U.T.H.",
+          "url": "https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145750,
+      "name": "Nights In Atlanta",
+      "url": "https://open.spotify.com/track/7EAvUiKv3vjNPonp5gwm5l"
     },
     {
       "album": {

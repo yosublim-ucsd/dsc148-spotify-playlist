@@ -4,7 +4,7 @@
 
 > So you think you got pocket? Cover: Nate Smith
 
-74 songs - 6 hr 13 min
+75 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [True Praise](https://open.spotify.com/track/7Ct3wjPwP6vIXyeRufcZJz) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [The Origin Band](https://open.spotify.com/artist/3SraEi0YIuNzqMRMEngmoG) | [Legacy](https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm) | 3:27 | 2022-09-23 |  |
 | [Virtual Life](https://open.spotify.com/track/1Pax97BZgQU2uC5BQSAZBl) | [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn), [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn) | [Groove and More](https://open.spotify.com/album/3Trvid1UyXXXrrec9w7kl9) | 7:19 | 2022-06-01 |  |
 | [Voyager One \(feat\. Nate Smith & Bobby Sparks II\)](https://open.spotify.com/track/29p9C7pmhax5CCrfR1SD5m) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP), [Bobby Sparks II](https://open.spotify.com/artist/230coKMlIqckCdCumrrCkG), [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy) | [Deep: The Baritone Sessions, Vol\. 2](https://open.spotify.com/album/695G3vOrMvFhQw2DXkPnOu) | 5:53 | 2022-06-01 |  |
-| [Wait A Minute](https://open.spotify.com/track/6TqbMfB2VZZV7lYVvZ9Svz) | [Sputacular Musik](https://open.spotify.com/artist/5X6pw8kNCiEnYrbOsEtL3V), [Ghost\-Note](https://open.spotify.com/artist/55BOGnEb0pUuAgbxAwwbKV), [Nathan Myers](https://open.spotify.com/artist/3SUDpDWciyH7J2YDDrQ56L), [Ash Soan](https://open.spotify.com/artist/1h6ejHdCo3lZxdfBnmYQgD) | [Wait A Minute](https://open.spotify.com/album/0bafe91fdkJPbIG8netbca) | 5:23 | 2022-09-09 |  |
+| [Wait A Minute](https://open.spotify.com/track/5mAOX1T6kmjbDKMumDAyvD) | [Sputacular Musik](https://open.spotify.com/artist/5X6pw8kNCiEnYrbOsEtL3V), [Ghost\-Note](https://open.spotify.com/artist/55BOGnEb0pUuAgbxAwwbKV), [Nathan Myers](https://open.spotify.com/artist/3SUDpDWciyH7J2YDDrQ56L), [Ash Soan](https://open.spotify.com/artist/1h6ejHdCo3lZxdfBnmYQgD) | [Wait A Minute](https://open.spotify.com/album/1GbXsYnBMGrRvRcvvSGZ48) | 5:23 | 2022-09-09 |  |
+| [Wait A Minute](https://open.spotify.com/track/6TqbMfB2VZZV7lYVvZ9Svz) | [Sputacular Musik](https://open.spotify.com/artist/5X6pw8kNCiEnYrbOsEtL3V), [Ghost\-Note](https://open.spotify.com/artist/55BOGnEb0pUuAgbxAwwbKV), [Nathan Myers](https://open.spotify.com/artist/3SUDpDWciyH7J2YDDrQ56L), [Ash Soan](https://open.spotify.com/artist/1h6ejHdCo3lZxdfBnmYQgD) | [Wait A Minute](https://open.spotify.com/album/0bafe91fdkJPbIG8netbca) | 5:23 | 2022-09-09 | 2023-12-24 |
 | [Watch Your Step](https://open.spotify.com/track/0DbfH3U4JrA8oyoCOyy0jI) | [Dave Weckl Band](https://open.spotify.com/artist/6P05VbVOUyn8swXrrFCLI9) | [Multiplicity](https://open.spotify.com/album/1ociuLesR6fsSFdoZFSrvG) | 5:29 | 2022-06-01 |  |
 | [Welcome 2 Minneapolis \- The Paisley Park Session](https://open.spotify.com/track/4pFeY1QTJUGpqRJO3jqFQp) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [The Paisley Park Session](https://open.spotify.com/album/5sieNimqkuXKxrIGmeKg4W) | 4:36 | 2022-06-01 |  |
 | [When the Cat's Away](https://open.spotify.com/track/4MbNQBtfQlIwVrU48IelTS) | [Simon Phillips](https://open.spotify.com/artist/6pPx8jYe1vzHuQea1st8Iy), [Ernest Tibbs](https://open.spotify.com/artist/2IZegJTs1JKp5ymiufjYeD), [Otmaro Ruiz](https://open.spotify.com/artist/1FWrmABS5NEpmqdsHfXj2N), [Jacob Scesney](https://open.spotify.com/artist/4mjIZ1lfDoQsRv2wJT6Ojr), [Alex Sill](https://open.spotify.com/artist/77ggULPl8qUaf8MubyoFLs) | [Protocol V](https://open.spotify.com/album/6K7GPOwmyHmGgu6J4g0ASl) | 6:12 | 2022-06-01 |  |

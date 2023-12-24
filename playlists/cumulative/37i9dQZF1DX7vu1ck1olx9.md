@@ -4,7 +4,7 @@
 
 > Cool down with these chill beats
 
-257 songs - 10 hr 21 min
+260 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [arcade](https://open.spotify.com/track/4ZymE7jNv6VRPHdhL1OYIf) | [DupsU](https://open.spotify.com/artist/3exFwW4ib4gy068VQZYAgg) | [arcade](https://open.spotify.com/album/6ATjRptrFPrGkGsCn7CoT9) | 1:48 | 2023-10-27 |  |
 | [Are We Safe?](https://open.spotify.com/track/4li9SK4Cke0vSiJYBKgR3c) | [Intalekt](https://open.spotify.com/artist/0DyatUnzbcULupeMCfqumy) | [The Adventures Of Masta Splinta](https://open.spotify.com/album/6C9MolvNVm2DdfJ2or8qQQ) | 4:58 | 2020-11-12 | 2023-06-28 |
 | [Are We There Yet](https://open.spotify.com/track/48xZK2scMaeRz89MSQfrIV) | [Velvet Haven](https://open.spotify.com/artist/4jTDHfmofsM4W1Bc0m5L4F) | [Are We There Yet](https://open.spotify.com/album/4fFqmS7Kk1R2qcZmLVxSJQ) | 2:34 | 2023-10-27 |  |
-| [Atrial](https://open.spotify.com/track/2E2MwUbN2TG9sfMYMVygHs) | [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Atrial](https://open.spotify.com/album/0ocGMEBjbt7k646wJ7vYxt) | 2:17 | 2022-06-03 |  |
+| [Atrial](https://open.spotify.com/track/2E2MwUbN2TG9sfMYMVygHs) | [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Atrial](https://open.spotify.com/album/0ocGMEBjbt7k646wJ7vYxt) | 2:17 | 2022-06-03 | 2023-12-24 |
 | [Aurora](https://open.spotify.com/track/7k2H4PYQ1N2mh8W20gsk3K) | [Kudasaibeats](https://open.spotify.com/artist/3VcaBezSFVJHqylrhaYun2) | [Aurora](https://open.spotify.com/album/56A7kmD6LKvf6BXwCSYcDn) | 2:52 | 2020-11-12 |  |
 | [Away with the Fairies](https://open.spotify.com/track/54ekIgWTXDlmFjlhP8GkqO) | [Sleepy Fish](https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw), [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs) | [Away with the Fairies](https://open.spotify.com/album/019piy3yyLujIF1IMtaCo2) | 2:46 | 2020-11-12 | 2023-10-29 |
 | [Ayways](https://open.spotify.com/track/1divZI9KtgP416oHCwBJE1) | [A & C](https://open.spotify.com/artist/5XIPbKxnUddeoJ2HIlsM6A) | [Ayways](https://open.spotify.com/album/1JrIdcauTrqt2sJKvYwXnQ) | 1:54 | 2023-10-27 |  |
@@ -85,6 +85,7 @@
 | [Eternal Sunshine](https://open.spotify.com/track/3IjcC1K1Iu3Vv4KMQYL2tM) | [cryptic daylight](https://open.spotify.com/artist/0DMANJOl4cL9Q2uzGbk850), [Someone Else](https://open.spotify.com/artist/35Ir0ossYsmU5VHS1oVr8m), [Outertone Chill](https://open.spotify.com/artist/5r6vb5zhpo84wnn6rT5zLw) | [Eternal Sunshine](https://open.spotify.com/album/1Cj58FWzBJlgJS6HcEjKVo) | 2:08 | 2022-09-23 |  |
 | [Evenfall](https://open.spotify.com/track/00OJTs80tu6DWWkcYJSkFg) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Evenfall](https://open.spotify.com/album/6gWZNNi5YDnUKclfDRY4H0) | 2:32 | 2021-10-29 | 2023-03-30 |
 | [Evenfall](https://open.spotify.com/track/0H3zNfQULkdYvTweZH1u8Q) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Evenfall](https://open.spotify.com/album/013FKvYGz1rBKu27p1EffR) | 2:32 | 2023-10-27 |  |
+| [exhale](https://open.spotify.com/track/57lhljt2lQn9x5hitpDjJ5) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [exhale](https://open.spotify.com/album/6zZLGaivwAi4f5i5DdZe3I) | 2:47 | 2023-12-22 |  |
 | [exhale](https://open.spotify.com/track/5fuN7iE4fymbpYdegHyM6Y) | [Parelo](https://open.spotify.com/artist/5x2rKBeovdxVizxphumkD0) | [exhale](https://open.spotify.com/album/1vgT5wE3eAIUspBTq4RgK6) | 2:19 | 2023-10-27 |  |
 | [feeling kind of sad](https://open.spotify.com/track/1kfqBNHMtJQnbGUUaDzdLB) | [clay house](https://open.spotify.com/artist/12im7CjaLsHG55sOqVEHCB) | [feeling kind of sad](https://open.spotify.com/album/5L2RdMBVqFvAV8eJMBTkup) | 2:12 | 2022-03-18 | 2022-07-29 |
 | [fingerlock](https://open.spotify.com/track/3oRubNxLgB33gbB7OqfhNg) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [fingerlock](https://open.spotify.com/album/30gzL3AApuVLB10SZXooW2) | 2:06 | 2023-10-27 |  |
@@ -145,7 +146,7 @@
 | [makeuseofthetime](https://open.spotify.com/track/4YblvnMhr0V2lbn8IPVb35) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [1988](https://open.spotify.com/album/0YePXgGfk39Rd1OWgqFKRS) | 1:18 | 2020-11-12 | 2023-10-14 |
 | [melatones](https://open.spotify.com/track/4uwvtcINcCtyQTDvBIUDzk) | [Meliona](https://open.spotify.com/artist/7GvCcfowrxriTXXoNaiHle) | [melatones](https://open.spotify.com/album/0QsPZmEl9Gcrupo5kwMjKp) | 2:24 | 2023-10-27 |  |
 | [Memories](https://open.spotify.com/track/4yAeHq13tReDL6rM6dbTc3) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k), [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Memories](https://open.spotify.com/album/5ai7eCCSVhagmLwUAWCObs) | 2:33 | 2022-08-05 | 2022-11-20 |
-| [Memories](https://open.spotify.com/track/5DQ0QCjMsFzIfdhGHtlamp) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k), [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [The Art of Chilling, Vol\. 2](https://open.spotify.com/album/5fQUFkVsUUBoLPTc2j9mlp) | 2:33 | 2022-08-05 |  |
+| [Memories](https://open.spotify.com/track/5DQ0QCjMsFzIfdhGHtlamp) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k), [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [The Art of Chilling, Vol\. 2](https://open.spotify.com/album/5fQUFkVsUUBoLPTc2j9mlp) | 2:33 | 2022-08-05 | 2023-12-24 |
 | [memory](https://open.spotify.com/track/3kp7TJruKzJUlr3entkFZ2) | [Tatami Construct](https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC) | [soul](https://open.spotify.com/album/4uQ6ul2x84hfo75G4hl7EW) | 3:35 | 2023-10-27 |  |
 | [Mental Acupuncture](https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Mental Acupuncture](https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn) | 2:32 | 2020-11-12 | 2023-11-24 |
 | [Mirage](https://open.spotify.com/track/59RLG6R4RlbGsRMrLBSuIw) | [Kaspa.](https://open.spotify.com/artist/06O3Epykgsr2PuMgTwZCWF), [chief.](https://open.spotify.com/artist/0HCAzT0cSCpiNje7AcAQaD) | [Mirage](https://open.spotify.com/album/11lBSg0fUCPWIBlM05FAJx) | 2:24 | 2020-11-12 |  |
@@ -196,7 +197,8 @@
 | [Serenity](https://open.spotify.com/track/44Enofs0bXrGNbKuqtdx0k) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Kingdom in Blue](https://open.spotify.com/album/7boAU92M1FypSBlYz0aeSg) | 3:12 | 2020-11-12 | 2023-09-16 |
 | [Serenity](https://open.spotify.com/track/4x1mZMYf8E239Ug0VeYvzQ) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Kingdom in Blue](https://open.spotify.com/album/4n4VJqnZTaPg41iDIakpmE) | 3:12 | 2020-11-12 | 2022-07-29 |
 | [Sesame](https://open.spotify.com/track/2bS8fi0PnaVWjtPWmGqj5j) | [EMERLD](https://open.spotify.com/artist/4u3lbIhbrOqejxRJhK6Wjp), [Buuda](https://open.spotify.com/artist/23wfDzAGsBklQCozMdlnCy) | [Coffee Beats](https://open.spotify.com/album/3YzLE1tSMOuHt1XfAir75z) | 2:33 | 2020-11-12 | 2022-07-29 |
-| [Sesame](https://open.spotify.com/track/2ZDZ4XT0yFmC5kEACI2pwV) | [EMERLD](https://open.spotify.com/artist/4u3lbIhbrOqejxRJhK6Wjp), [Buuda](https://open.spotify.com/artist/23wfDzAGsBklQCozMdlnCy) | [Coffee Beats](https://open.spotify.com/album/3goNpzRpK4nIJr9vIMF3Ks) | 2:33 | 2023-11-24 |  |
+| [Sesame](https://open.spotify.com/track/2ZDZ4XT0yFmC5kEACI2pwV) | [EMERLD](https://open.spotify.com/artist/4u3lbIhbrOqejxRJhK6Wjp), [Buuda](https://open.spotify.com/artist/23wfDzAGsBklQCozMdlnCy) | [Coffee Beats](https://open.spotify.com/album/3goNpzRpK4nIJr9vIMF3Ks) | 2:33 | 2023-11-24 | 2023-12-24 |
+| [Seven Hundred Fourteen 七百十四](https://open.spotify.com/track/12V1thgB2Hos7uSU4rOqro) | [d.w.h](https://open.spotify.com/artist/2Mv14rolxu9z56WEkPIhZd) | [Seven Hundred Fourteen 七百十四](https://open.spotify.com/album/1NUA3c1HKGNj9Bl5uWh7x7) | 2:24 | 2023-12-22 |  |
 | [shelter](https://open.spotify.com/track/2RyZjcwgW7X3eMm38hZ0zo) | [Kolorama](https://open.spotify.com/artist/7KYVAGDhdO4DJ4qyeTWpcC) | [shelter](https://open.spotify.com/album/2luq40AQDoOiR5hkbogFIc) | 2:05 | 2023-10-27 |  |
 | [Shelter](https://open.spotify.com/track/6k1foZCmEKnMrLAd3nKlkT) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Shelter](https://open.spotify.com/album/0kLQU10QiF47j6ttLaBKcu) | 1:57 | 2020-11-12 | 2023-07-07 |
 | [Shelter](https://open.spotify.com/track/6ls8MehGgZkb3ERkAacm6q) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Shelter](https://open.spotify.com/album/7fSnzb7V35K2jhUf5ZHtX0) | 1:57 | 2020-11-12 |  |
@@ -259,6 +261,7 @@
 | [Vietnamese Coffee](https://open.spotify.com/track/4l5u4V4zMqJD18qO4CLnkR) | [HLY WUD](https://open.spotify.com/artist/51htK4Ln3sMNbTBcs7Ft8S) | [Vietnamese Coffee](https://open.spotify.com/album/3j6TYh3hRpxgHP0l9kKwL6) | 2:26 | 2023-10-27 |  |
 | [walk in the park](https://open.spotify.com/track/0jA1qk1AX3vbNBcYhwbozw) | [DRWN.](https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy) | [walk in the park](https://open.spotify.com/album/2j5OCXoMRAomxm7idD0LzJ) | 3:00 | 2021-02-05 |  |
 | [Warm Weather](https://open.spotify.com/track/5WyejtsDpXpq2CGz2hzMju) | [ATONED](https://open.spotify.com/artist/0OjQN1YWUMKO2Kf3ALv1TM) | [Warm Weather](https://open.spotify.com/album/47PV2WKeOwohlF0OzZ9lrt) | 2:29 | 2023-10-27 |  |
+| [wayitis](https://open.spotify.com/track/4YlAlxDG0YuYbTF2YteMl0) | [Twiggy Fiz](https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8) | [wayitis](https://open.spotify.com/album/65F6S0mhOFnwLcmXTscLOC) | 3:11 | 2023-12-22 |  |
 | [weak](https://open.spotify.com/track/2j2mQXcYfg3JUJ8aqBKk30) | [Milkz](https://open.spotify.com/artist/5z1ToudFpZeaJhHVhRekvi) | [weak](https://open.spotify.com/album/2MBN7qRm9y1nFtgQN99tHA) | 1:11 | 2020-11-12 |  |
 | [Will\-O\-Wisp](https://open.spotify.com/track/5lxlQXt8CadUQR4ARnSLep) | [Kuma](https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB) | [Will\-O\-Wisp](https://open.spotify.com/album/55AtXtIgnt45wGa2122dbA) | 2:34 | 2023-10-27 |  |
 | [Wish You Were Mine](https://open.spotify.com/track/1BvSkVrXtnjTuyTR4Qa8be) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [1 Am\. Study Session](https://open.spotify.com/album/5YHjaK7w0G690vmyEiob1C) | 2:01 | 2020-11-12 | 2023-09-16 |

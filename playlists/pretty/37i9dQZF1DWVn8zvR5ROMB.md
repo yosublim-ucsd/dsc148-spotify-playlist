@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Midland, Waylon Wyatt, Taylor Edwards and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,516 likes - 61 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,657 likes - 61 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 60 | [Fireplace](https://open.spotify.com/track/2och4AMengfll17sMZD148) | [Ryan Waters Band](https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi) | [Fireplace](https://open.spotify.com/album/7qxLqohVNOrnQ99Ave0jYs) | 3:28 |
 | 61 | [Like It's Your Last](https://open.spotify.com/track/7acQ4alyNqegxDdclnncX4) | [Adam Sanders](https://open.spotify.com/artist/17ewtqMhsRUPRdhpYLzMxg) | [Like It's Your Last](https://open.spotify.com/album/3BMgZpyxYTGrYkV6VnqnaS) | 3:15 |
 
-Snapshot ID: `MCw5YjlkYjUyOTI0MGYwMDU2ZjM5MTA1OTcxMTFkNWUzMjJhNGIyMzk2`
+Snapshot ID: `MCw3NjRjOWI4NWUzMzFhODdjNGQxNTEzZDgyOWI4Nzg1ZjM0OGY2NTU3`

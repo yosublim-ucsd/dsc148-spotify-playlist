@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 
 > Wind down in moments of stress with these chilled songs for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,354 likes - 91 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,413 likes - 91 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Over the Rainbow](https://open.spotify.com/track/3oQomOPRNQ5NVFUmLJHbAV) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Alone In Iz World](https://open.spotify.com/album/4aM85igbrBcoRZVt7L11Zn) | 3:31 |
-| 2 | [Catch the Moon](https://open.spotify.com/track/4VwFWEJKkpOOWkhOwy3STM) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Catch the Moon](https://open.spotify.com/album/1o79r8Ky7KJ0fRnyx6MOR9) | 3:06 |
+| 2 | [Catch the Moon](https://open.spotify.com/track/5wfIDxNK5oaoxxIfLHJAAA) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Catch the Moon](https://open.spotify.com/album/0qITXseHwyX8TiC0MdaLbq) | 3:06 |
 | 3 | [No One \- Acoustic](https://open.spotify.com/track/73E08jF1urQQSO0oTzCPpP) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Vault Volume 1](https://open.spotify.com/album/0dICqPiSgbmRRRqWAT0XKk) | 4:19 |
 | 4 | [Upside Down](https://open.spotify.com/track/0aJrYfARfCKzv6gXjhs4SZ) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Upside Down](https://open.spotify.com/album/4nvgSs9EQXS5AIwprqq8OU) | 3:29 |
 | 5 | [Beauty and the Beast](https://open.spotify.com/track/7wMPhUSe6CZga1vOMpLTJP) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Beauty and the Beast \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/3AhP76AusdcJ9sZ4XgUcEc) | 3:47 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 | 48 | [Hush Little Baby](https://open.spotify.com/track/0OZuw0D2ioJOJJTEcm8XCy) | [David Gibb](https://open.spotify.com/artist/52FYO0le6ZR0UpzqFtxSot), [Nancy Kerr](https://open.spotify.com/artist/3Wa7g8dHTrbPgTlyIII6tH) | [Letters Through Your Door](https://open.spotify.com/album/6keg9I1QNUPXbygVwG27jx) | 3:14 |
 | 49 | [Dance for the Sun](https://open.spotify.com/track/5OoDqQXT5jqWoIKhNn9HIB) | [Kira Willey](https://open.spotify.com/artist/6GSLe8wDhKFqIPqsB1Ricg) | [Dance for the Sun: Yoga Songs for Kids](https://open.spotify.com/album/4JPicsqmJZFZ1zJE05nSuo) | 2:48 |
 | 50 | [Shine](https://open.spotify.com/track/1z7ipCbtUKz3Nepd2r39bc) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Last Smoke Before The Snowstorm](https://open.spotify.com/album/6X4lsAafU2WXiThVoO9kF4) | 3:02 |
-| 51 | [Butterfly](https://open.spotify.com/track/18CZAWrqDV0PkePtkqfZMr) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Catch the Moon](https://open.spotify.com/album/1o79r8Ky7KJ0fRnyx6MOR9) | 2:29 |
+| 51 | [Butterfly](https://open.spotify.com/track/5VR3cIQE5iyJ2rfkgUZgG7) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Catch the Moon](https://open.spotify.com/album/0qITXseHwyX8TiC0MdaLbq) | 2:29 |
 | 52 | [Home / Dirty Paws](https://open.spotify.com/track/0Fqee2fFR57uDmrHQ5389d) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Covers, Vol\. 1](https://open.spotify.com/album/3fGMt0VMIZqH08nfarMzjE) | 2:53 |
 | 53 | [Perfect Duet \(Ed Sheeran & Beyoncé\)](https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Perfect Duet \(Ed Sheeran & Beyoncé\)](https://open.spotify.com/album/52kvZcbEDm0v2kWZQXjuuA) | 4:19 |
 | 54 | [Light Beams](https://open.spotify.com/track/1EJatOpG8yeTfMekpwOEDz) | [The Lucky Band](https://open.spotify.com/artist/4cYmyYabyJSvdIOsTweQMz), [Emily Herndon](https://open.spotify.com/artist/4sOej3nhE2WpwztNrD8zKT) | [Paseo Lunar](https://open.spotify.com/album/5PX2YJFNfAEBrgj8GfzaIs) | 3:40 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcr2UzLGERUU.md) - [plain]
 | 90 | [Rest Your Head On My Shoulder](https://open.spotify.com/track/07jFL6Z173J4zH2R2SGGRM) | [Seeker Lover Keeper](https://open.spotify.com/artist/18E9agcfYi1KIQlJivdEcX) | [Seeker Lover Keeper](https://open.spotify.com/album/1uEWX9bX1dnHFY4WUN5r9F) | 3:31 |
 | 91 | [If You Can't Sleep](https://open.spotify.com/track/7o2T5dYOjQf7qpmavRerQE) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume Two](https://open.spotify.com/album/47A8zr0CzKLILnYcrXh2Rc) | 2:48 |
 
-Snapshot ID: `MCwyMTNjYThlZDNhMDUwMDFiMjAwNDEyZTRiOWRmYjM3M2QwMjQ5ZWJi`
+Snapshot ID: `MCxkZjc1ZTAwZTk4ZjhkOGVlZWEwNzc1YzBlNDFlZmZmMTZjNThiYThj`

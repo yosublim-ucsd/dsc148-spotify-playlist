@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: Eyedress.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,715 likes - 99 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,732 likes - 99 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 | 98 | [détours](https://open.spotify.com/track/6i3q4BXaN42wQ4JdcUUxr6) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [détours](https://open.spotify.com/album/2gdBJRe6IHRlwWLeBY6XYY) | 2:40 |
 | 99 | [Halloween Costume](https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Halloween Costume](https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw) | 2:29 |
 
-Snapshot ID: `MCw0NjNlNTg2ODQ1OGJlNmI5MTI5ZTQwNTRiM2E1ZWNmNzZmYTFkNTY4`
+Snapshot ID: `MCw4ZTkzMjQxMTM2ODJhZGMxNzA4YTZiNTlmNDcxNDA2ZjY3N2I0YmM1`

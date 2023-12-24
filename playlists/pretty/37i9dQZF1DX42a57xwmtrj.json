@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Botellita de Jerez en portada.",
-  "num_followers": 156026,
+  "num_followers": 156107,
   "original_name": "Rock Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOWU3ZDFlNmRhZjFlZmE0NTlhYmUxOTBjYzZmMjkzY2JlYzg1OTk4",
+  "snapshot_id": "MCw0Y2YxNTU5NGUzZDEyNjMzZjNhMzhkZTAxNjIwMWFmZGNlZjg1MWEx",
   "tracks": [
     {
       "added_at": "2023-10-23 20:26:24",
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-10-23 20:26:24",
       "album": {
-        "name": "La Ciudad",
-        "url": "https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa"
+        "name": "Rock Sin Visa, Vol. 2",
+        "url": "https://open.spotify.com/album/6i7PrFosUXchqHxPez1IpL"
       },
       "artists": [
         {
-          "name": "Blues Boys",
-          "url": "https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z"
+          "name": "Interpuesto",
+          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
         }
       ],
-      "duration_ms": 214366,
-      "name": "El Perdedor",
-      "url": "https://open.spotify.com/track/4mjRBGJ2HKf9cvL8ymKnlg"
+      "duration_ms": 187640,
+      "name": "Historia de un Minuto",
+      "url": "https://open.spotify.com/track/1dJQRFpIkASsM7Xmf8MhAP"
     },
     {
       "added_at": "2023-10-23 20:26:24",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-10-23 20:26:24",
       "album": {
-        "name": "Rock Sin Visa, Vol. 2",
-        "url": "https://open.spotify.com/album/6i7PrFosUXchqHxPez1IpL"
+        "name": "La Ciudad",
+        "url": "https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa"
       },
       "artists": [
         {
-          "name": "Interpuesto",
-          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
+          "name": "Blues Boys",
+          "url": "https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z"
         }
       ],
-      "duration_ms": 187640,
-      "name": "Historia de un Minuto",
-      "url": "https://open.spotify.com/track/1dJQRFpIkASsM7Xmf8MhAP"
+      "duration_ms": 214366,
+      "name": "El Perdedor",
+      "url": "https://open.spotify.com/track/4mjRBGJ2HKf9cvL8ymKnlg"
     },
     {
       "added_at": "2023-10-23 20:26:24",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-10-23 20:26:24",
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/5MPP3YL3rZgYG5Bl6iJxha"
-      },
-      "artists": [
-        {
-          "name": "California Blues",
-          "url": "https://open.spotify.com/artist/6T2x1Mz4MTYr3R8evdSDxn"
-        }
-      ],
-      "duration_ms": 186493,
-      "name": "Y Como Es \u00c9l",
-      "url": "https://open.spotify.com/track/6ZRnVnjp57UMZPQqVLMZgS"
-    },
-    {
-      "added_at": "2023-10-23 20:26:24",
-      "album": {
         "name": "En Guerra de Amor",
         "url": "https://open.spotify.com/album/7ypKLsIHFHBVnAEdlotmxe"
       },
@@ -655,18 +639,18 @@
     {
       "added_at": "2023-10-23 20:26:24",
       "album": {
-        "name": "Cristo Viejo",
-        "url": "https://open.spotify.com/album/71AJr8ywoxzLvKKssrPKBy"
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/5MPP3YL3rZgYG5Bl6iJxha"
       },
       "artists": [
         {
-          "name": "Fantasma De Canterville",
-          "url": "https://open.spotify.com/artist/040rbCr9V95JeswXJeStGx"
+          "name": "California Blues",
+          "url": "https://open.spotify.com/artist/6T2x1Mz4MTYr3R8evdSDxn"
         }
       ],
-      "duration_ms": 323626,
-      "name": "Cristo Viejo",
-      "url": "https://open.spotify.com/track/43IpgycykkiMC7Tm6Q6SS2"
+      "duration_ms": 186493,
+      "name": "Y Como Es \u00c9l",
+      "url": "https://open.spotify.com/track/6ZRnVnjp57UMZPQqVLMZgS"
     },
     {
       "added_at": "2023-10-23 20:26:24",
@@ -683,6 +667,22 @@
       "duration_ms": 254466,
       "name": "Viajero",
       "url": "https://open.spotify.com/track/4BcyzKRntkAaECtW1iZlcO"
+    },
+    {
+      "added_at": "2023-10-23 20:26:24",
+      "album": {
+        "name": "Cristo Viejo",
+        "url": "https://open.spotify.com/album/71AJr8ywoxzLvKKssrPKBy"
+      },
+      "artists": [
+        {
+          "name": "Fantasma De Canterville",
+          "url": "https://open.spotify.com/artist/040rbCr9V95JeswXJeStGx"
+        }
+      ],
+      "duration_ms": 323626,
+      "name": "Cristo Viejo",
+      "url": "https://open.spotify.com/track/43IpgycykkiMC7Tm6Q6SS2"
     },
     {
       "added_at": "2023-10-23 20:26:24",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-10-23 20:26:24",
       "album": {
-        "name": "Caf\u00e9 Tacvba",
-        "url": "https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 228693,
-      "name": "La chica banda",
-      "url": "https://open.spotify.com/track/5fckoQosqCX9xJvHlwITY8"
-    },
-    {
-      "added_at": "2023-10-23 20:26:24",
-      "album": {
         "name": "15 Rolitas de Amor",
         "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 200053,
       "name": "Quien Te Cantara",
       "url": "https://open.spotify.com/track/6h4YWETL6DAEKpeSr0CaGu"
+    },
+    {
+      "added_at": "2023-10-23 20:26:24",
+      "album": {
+        "name": "Caf\u00e9 Tacvba",
+        "url": "https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 228693,
+      "name": "La chica banda",
+      "url": "https://open.spotify.com/track/5fckoQosqCX9xJvHlwITY8"
     },
     {
       "added_at": "2023-10-23 20:26:24",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-10-23 20:26:24",
       "album": {
+        "name": "Grandes \u00c9xitos a Nuestro Estilo, Vol. 1",
+        "url": "https://open.spotify.com/album/5N3V31gLMUfOt999zrpKpV"
+      },
+      "artists": [
+        {
+          "name": "Interpuesto",
+          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
+        }
+      ],
+      "duration_ms": 215746,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/1Cgos3Sy03bCQMKxqnswGU"
+    },
+    {
+      "added_at": "2023-10-23 20:26:24",
+      "album": {
         "name": "Anda Borracho Pancho",
         "url": "https://open.spotify.com/album/6h5XBXviV0nnD4ZgyAbuXw"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 179350,
       "name": "El Chamuco",
       "url": "https://open.spotify.com/track/5RGPch9I7US0JeQK8KAnSg"
-    },
-    {
-      "added_at": "2023-10-23 20:26:24",
-      "album": {
-        "name": "Grandes \u00c9xitos a Nuestro Estilo, Vol. 1",
-        "url": "https://open.spotify.com/album/5N3V31gLMUfOt999zrpKpV"
-      },
-      "artists": [
-        {
-          "name": "Interpuesto",
-          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
-        }
-      ],
-      "duration_ms": 215746,
-      "name": "Volver\u00e9",
-      "url": "https://open.spotify.com/track/1Cgos3Sy03bCQMKxqnswGU"
     },
     {
       "added_at": "2023-10-23 20:26:24",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2023-10-23 20:26:24",
       "album": {
-        "name": "15 Rolitas de Amor",
-        "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
+        "name": "En Sentido Contrario",
+        "url": "https://open.spotify.com/album/1eW1g24GLcMwUKFyQBX5vx"
       },
       "artists": [
         {
-          "name": "Sam Sam",
-          "url": "https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb"
+          "name": "Troleb\u00fas",
+          "url": "https://open.spotify.com/artist/4vQGniIPKVpBklxzuUX1M3"
         }
       ],
-      "duration_ms": 336200,
-      "name": "Silvia",
-      "url": "https://open.spotify.com/track/130MYoc4M7pSTEdelFPq6F"
+      "duration_ms": 308407,
+      "name": "Plegaria",
+      "url": "https://open.spotify.com/track/2kiPiP9u7px9iYmdYxn24t"
     },
     {
       "added_at": "2023-10-23 20:26:24",

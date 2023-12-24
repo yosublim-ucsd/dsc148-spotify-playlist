@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: Hayden Coffman
 
-1,801 songs - 4 day 0 hr 40 min
+1,802 songs - 4 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1488,7 +1488,8 @@
 | [Tell Me Twice](https://open.spotify.com/track/68fFVpUfXAoREXKumXM4jp) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Tell Me Twice](https://open.spotify.com/album/0sC1yKrihueJ1Uh4XoDVGa) | 2:34 | 2022-07-29 | 2022-10-15 |
 | [Tellin' On You](https://open.spotify.com/track/1J0APEDa6gfjPnGmFqwZzK) | [Brian Fuller](https://open.spotify.com/artist/6ZjMXOSg14nfZFUDJ6mQRo) | [Tellin' On You](https://open.spotify.com/album/2OqHnuLLii5wrbzuOeefkT) | 3:00 | 2023-11-24 |  |
 | [tendencies.](https://open.spotify.com/track/6AIAtvZ7dBr06SmhrPRTSQ) | [Nicolle Galyon](https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn) | [firstborn](https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe) | 3:12 | 2022-07-22 | 2022-09-17 |
-| [Tennessee \- Bonus Track](https://open.spotify.com/track/1QeMa8hBjIIarFqOalHc99) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [Tennessee](https://open.spotify.com/album/6xNoGdNiorsLLPxF1SAhND) | 3:17 | 2023-09-22 |  |
+| [Tennessee \- Bonus Track](https://open.spotify.com/track/1QeMa8hBjIIarFqOalHc99) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [Tennessee](https://open.spotify.com/album/6xNoGdNiorsLLPxF1SAhND) | 3:17 | 2023-09-22 | 2023-12-24 |
+| [Tennessee \- Bonus Track](https://open.spotify.com/track/3oXTAdDTqd69ndRONC8kCd) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [I'M THE PROBLEM](https://open.spotify.com/album/66rXlzSwEMZzBBQKoa4Oyr) | 3:17 | 2023-12-22 |  |
 | [Tennessee Blue](https://open.spotify.com/track/4VuEcBjboWHYAJm1Ar4I7d) | [Hayden Coffman](https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF) | [Tennessee Blue](https://open.spotify.com/album/3hjXWyUICs4aaSH6GptHQV) | 3:13 | 2023-09-29 | 2023-12-09 |
 | [Tennessee Lights](https://open.spotify.com/track/6CYUOLTP1N0NWVQU0bWCyf) | [Austin Tolliver](https://open.spotify.com/artist/3mJzTRR6NlyNWYkZ946WgC) | [Tennessee Lights](https://open.spotify.com/album/1etimDLEOWgCZDMEgEecZk) | 2:11 | 2023-12-01 |  |
 | [Tennessee Orange](https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1) | 3:43 | 2022-09-02 | 2022-09-17 |

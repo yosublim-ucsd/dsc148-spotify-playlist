@@ -4,7 +4,7 @@
 
 > Revive lo mejor del trap latino del año.<br/>Foto: Jhay Cortez, Anuel AA & J Balvin.
 
-74 songs - 4 hr 33 min
+75 songs - 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Ferrari](https://open.spotify.com/track/4mbb7hmfDR6M9cQaLdYSFd) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 3:08 | 2020-12-01 |  |
 | [Flexin'](https://open.spotify.com/track/0hwEhPxCBLKiqeBMZavGAv) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Flexin'](https://open.spotify.com/album/7GHdU4lGW377dQYUfpWR7u) | 2:59 | 2020-12-01 |  |
 | [FULL ICE \(prod\. ORODEMBOW\)](https://open.spotify.com/track/2wK7D7i9bfVt3uLjFsZSEU) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [HECHO A MANO](https://open.spotify.com/album/7vpRavovNYZYzEOieN5pvU) | 2:40 | 2020-12-01 |  |
-| [Gan\-Ga \- Remix](https://open.spotify.com/track/27qRmG3zOWPvMYUkpPdQ1g) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Gan\-Ga \(Remix\)](https://open.spotify.com/album/5P7PAnKAqVcczk8v9m23HK) | 3:13 | 2020-12-01 |  |
+| [Gan\-Ga \- Remix](https://open.spotify.com/track/27qRmG3zOWPvMYUkpPdQ1g) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Gan\-Ga \(Remix\)](https://open.spotify.com/album/5P7PAnKAqVcczk8v9m23HK) | 3:13 | 2020-12-01 | 2023-12-24 |
+| [Gan\-Ga \- Remix](https://open.spotify.com/track/6MpJR5hR1pS8xi3clcx9uv) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Gan\-Ga \(Remix\)](https://open.spotify.com/album/18gdcJyZklZ0iuvVTc5QRj) | 3:13 | 2020-12-01 |  |
 | [Goteo \- Remix](https://open.spotify.com/track/5widvMUA2hiilH1RpOl5aM) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [RONNY J](https://open.spotify.com/artist/3TKCdsX8yNNoiC1gesn6or), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN) | [Goteo \(Remix\)](https://open.spotify.com/album/6Y9HfAynEgb3uYY24mmLdT) | 4:38 | 2020-12-01 |  |
 | [H.I.E.L.O.](https://open.spotify.com/track/6itjKRbqPMmx9fo4PDlLhm) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV) | [H.I.E.L.O.](https://open.spotify.com/album/2V5eHcsWILzjRzf9Z47tiX) | 3:16 | 2020-12-01 |  |
 | [Hablamos Mañana](https://open.spotify.com/track/1V8XneTrX6kKeoxYbk4x6h) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:00 | 2020-12-01 |  |

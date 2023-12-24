@@ -17406,10 +17406,28 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 194234,
       "name": "The Big Boom",
       "url": "https://open.spotify.com/track/52rDZ9pPuVKAQoycR0wqme"
+    },
+    {
+      "album": {
+        "name": "Fluent Stutter",
+        "url": "https://open.spotify.com/album/0AsVb7S4UL2760pQlRVpAe"
+      },
+      "artists": [
+        {
+          "name": "Deki Alem",
+          "url": "https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194234,
+      "name": "The Big Boom - Bonus Track",
+      "url": "https://open.spotify.com/track/587lEdNGAThT52JpvjnJKd"
     },
     {
       "album": {

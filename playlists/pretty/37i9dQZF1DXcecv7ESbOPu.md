@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Här finns veckans bästa och mest intressanta nya låtar\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,065 likes - 73 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,062 likes - 73 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 53 | [Luces Tenues](https://open.spotify.com/track/15GcuHNJMf7LqwpU3N4Puw) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Luces Tenues](https://open.spotify.com/album/59AjAiyN8bCOtcX7In93YM) | 3:10 |
 | 54 | [Supermodel Avalanches](https://open.spotify.com/track/3daLDEbCt1fvkS7POmwu2U) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below \(Bonus Edition\)](https://open.spotify.com/album/1bPTd5Ic6yHUGq5QZj2j2N) | 3:10 |
 | 55 | [Birthday](https://open.spotify.com/track/7hxehQAcvvmH8lRRL6XCpz) | [OSWRLD](https://open.spotify.com/artist/6Cq6gf2fnK1Xl9jH99jGUl) | [Birthday](https://open.spotify.com/album/2zsn6zX4CxUM06QcL9DCFo) | 3:57 |
-| 56 | [High and Low](https://open.spotify.com/track/0UAB4g9ZOrcMzHcZi2y3qo) | [KWAYE](https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ) | [Learning To Swim](https://open.spotify.com/album/1w9BDtBkQeHkxz8ayzhYOZ) | 3:05 |
+| 56 | [High and Low](https://open.spotify.com/track/0UAB4g9ZOrcMzHcZi2y3qo) | [KWAYE](https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ) | [Learning To Swim](https://open.spotify.com/album/1w9BDtBkQeHkxz8ayzhYOZ) | 3:06 |
 | 57 | [unfamiliar ceilings](https://open.spotify.com/track/4NxWXTpEbdMMB5lolkdD4i) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [unfamiliar ceilings](https://open.spotify.com/album/3to9SMJQnuhb85TYqfx5LR) | 3:31 |
 | 58 | [Outside](https://open.spotify.com/track/5YZmic2LtwKY1S0RwtgGdx) | [Elijah Yo](https://open.spotify.com/artist/4QdSwI8nLBjrN7344lBCbL), [MRVZ](https://open.spotify.com/artist/2dsVQfTfxS9vGeKk1guzgK), [BIGGs 685](https://open.spotify.com/artist/1iIdYSoOB5dhc90R9ENrjM) | [Outside](https://open.spotify.com/album/3BfePvYx0jeKHcN5Iqhssq) | 3:38 |
 | 59 | [9AM IN LONDON](https://open.spotify.com/track/2K2NYHKFiW7oSKlbtO5Xxj) | [Deb Fan](https://open.spotify.com/artist/7s1vLo9XJCtiFWWzidpl9m), [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [9AM IN LONDON](https://open.spotify.com/album/1QWsd2aHXEs6ylyIZtXF8G) | 3:22 |
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 72 | [Unconditional](https://open.spotify.com/track/3s2MpAsYP7td9alGNB6Fk1) | [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA), [Aaradhna](https://open.spotify.com/artist/4CeW2xghttvllIwy4AqNSg) | [Unconditional](https://open.spotify.com/album/4utMvi2ApprCzAJoj317um) | 3:28 |
 | 73 | [GOTT NYTT ÅR!](https://open.spotify.com/track/7G8gtHw3zBtGz1ng8hS3eX) | [Jasmine Kara](https://open.spotify.com/artist/6KzFpoFDDvmlin4ij5zgMj) | [GOTT NYTT ÅR!](https://open.spotify.com/album/3PefMJxaG5Zx5NaLs1UyVa) | 2:26 |
 
-Snapshot ID: `MCxkMTY3M2Y4ZWE5ZjVkNmQzZDUyOTUxMzliODI1ZmI5N2U1ZDkzOWQ5`
+Snapshot ID: `MCw4MWFiZGM5YjRjNzk4MzhhYjI4MmNmN2I3NDdlNDZiYzY4NTZmN2Rm`

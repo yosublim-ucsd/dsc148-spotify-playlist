@@ -4,7 +4,7 @@
 
 > The Midwest is always on time\. Cover: 42 Dugg
 
-640 songs - 1 day 5 hr 45 min
+641 songs - 1 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,8 @@
 | [Harley Quinn](https://open.spotify.com/track/3TWnb13OgnxJH7h9lynmv2) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Harley Quinn](https://open.spotify.com/album/6uW5KPszYl0JVmM0XXlWe4) | 2:52 | 2021-09-03 | 2022-03-05 |
 | [Hate Being Lonely](https://open.spotify.com/track/3SpXBJKCjImLwlr2jwA6t5) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [Hate Being Lonely](https://open.spotify.com/album/1kyWMBlePFumCnYQ0yazen) | 2:06 | 2023-04-07 | 2023-04-15 |
 | [Hawks vs\. Bulls](https://open.spotify.com/track/4AIdvuQ1DqqjOJHRjf10nx) | [3xbravo](https://open.spotify.com/artist/0lPZJTNurUF05u2JHm48cH), [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b) | [Hawks vs\. Bulls](https://open.spotify.com/album/2h4rUPmYXOosVnCVX9hUEU) | 2:19 | 2022-01-28 | 2022-04-02 |
-| [Head Melodies](https://open.spotify.com/track/0AyY8MxDo1xasovQD79Man) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Head Melodies](https://open.spotify.com/album/6re1rqVtyS8MqSe5iKbz9P) | 3:51 | 2023-11-10 |  |
+| [Head Melodies](https://open.spotify.com/track/0AyY8MxDo1xasovQD79Man) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Head Melodies](https://open.spotify.com/album/6re1rqVtyS8MqSe5iKbz9P) | 3:51 | 2023-11-10 | 2023-12-24 |
+| [Head Melodies](https://open.spotify.com/track/4gAJm7FWFn57TodthhA4MK) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Head Melodies](https://open.spotify.com/album/0KtppoaIZmN1DPOt5Z5fEj) | 3:51 | 2023-12-16 |  |
 | [heartache blues](https://open.spotify.com/track/1wRyDZUQJEMy4qOL3VKWpu) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [E3](https://open.spotify.com/album/1Usfs455Dpte0Rz4ouzaja) | 3:46 | 2023-09-01 | 2023-09-23 |
 | [Heartless](https://open.spotify.com/track/6aEy7UtgKz6T2oqAxezvur) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Heartless](https://open.spotify.com/album/5ekQl9UODgElvyAqdALxLJ) | 2:46 | 2023-07-07 | 2023-10-30 |
 | [HEAVEN'S GALAXY](https://open.spotify.com/track/1iUlclkUb1sXcmrDqfQkIH) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [HEAVEN'S GALAXY](https://open.spotify.com/album/68xRB3gmaXR0ja7HaBSi1B) | 6:17 | 2023-10-13 | 2023-11-11 |

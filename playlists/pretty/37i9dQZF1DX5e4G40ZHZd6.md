@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e4G40ZHZd6.md) - [plain]
 
 > The very best Blues out of the heart of Northern Mississippi\. Cover: R.L\. Burnside
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,375 likes - 49 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,383 likes - 49 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e4G40ZHZd6.md) - [plain]
 | 34 | [Before You Accuse Me](https://open.spotify.com/track/669jAiOOlVEcgd40e0C38J) | [Odell Harris](https://open.spotify.com/artist/2MoiG04KmkSy5bxlHccS0F) | [Searching for Odell Harris](https://open.spotify.com/album/3MZWvdJEpIUHFLfJJN8OGk) | 3:51 |
 | 35 | [Someday Baby](https://open.spotify.com/track/5ZBUC1YafitJgLt8dgZYTW) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [A Bothered Mind](https://open.spotify.com/album/19ox7nB02O5mCJtjqzoqGm) | 3:16 |
 | 36 | [Louise](https://open.spotify.com/track/6tuTSXsYierm7sJbF65QMD) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [You Gotta Move](https://open.spotify.com/album/5nJz88Bfi3okSgLuLLDfX1) | 3:58 |
-| 37 | [Big Momma's Door \(Might Return\)](https://open.spotify.com/track/7G2CbHjdnkR9woozKKGceD) | [Alvin Youngblood Hart](https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG) | [Motivational Speaker](https://open.spotify.com/album/7AJJXxJIYOUkMZzYY0xXOO) | 5:46 |
+| 37 | [Big Momma's Door \(Might Return\)](https://open.spotify.com/track/1iMgaPr85LcUZmfdeyBBga) | [Alvin Youngblood Hart](https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG) | [Motivational Speaker](https://open.spotify.com/album/2wX2Al1PYn88BRDFchSIff) | 5:46 |
 | 38 | [Poor Boy](https://open.spotify.com/track/1nzveWJmAph2OKfG26rW3j) | [R.L\. Burnside](https://open.spotify.com/artist/2drMeidRg4jc07neGOL0Ip) | [A Ass Pocket of Whiskey](https://open.spotify.com/album/6bBWWTnN4B4wwGJpWlZFkW) | 3:38 |
 | 39 | [She\-Wolf](https://open.spotify.com/track/5hY2dAzOUZYyOncGFtHove) | [Jessie Mae Hemphill](https://open.spotify.com/artist/75bUlG7zJQWJkRqESmNWsW) | [She\-Wolf](https://open.spotify.com/album/7rDuDANyPXjzFRw87JMZex) | 4:41 |
 | 40 | [Levee Camp Blues](https://open.spotify.com/track/2w2qoVTeh5uDOKy1pLMmTp) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [This Ain't No Rock n' Roll](https://open.spotify.com/album/3Y9ZhOXORSmzayPHuyLAFl) | 5:34 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e4G40ZHZd6.md) - [plain]
 | 48 | [Step In](https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY) | 2:35 |
 | 49 | [Crawlin' King Snake](https://open.spotify.com/track/10f8sVNPeHvrtTeWm0lGGv) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [King Of The Boogie](https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F) | 3:01 |
 
-Snapshot ID: `MCwyNWNlOTAyNGVhOWE0NDlmNDI2YzBkY2ZmMmVjYTUzN2Q0N2VkMmVi`
+Snapshot ID: `MCw4MzA5NjFkOTBiNzVkNzYwMmJkZjQ1MTU1ODQ4MmNlYTBlZDE3MTlh`

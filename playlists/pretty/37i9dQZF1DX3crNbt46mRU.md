@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Tom Odell
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,007 likes - 63 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,012 likes - 63 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 51 | [wer wir waren](https://open.spotify.com/track/52uMovKo0Oo8bponOopTbH) | [Nisa](https://open.spotify.com/artist/6wYROOAfZ97gNh5TzasS50) | [wer wir waren](https://open.spotify.com/album/3pXtZtMd2Wt0KDjXmJGLqq) | 2:30 |
 | 52 | [All I Do Is Try](https://open.spotify.com/track/69p5jinvmXYi9XZX8dURIQ) | [Anthonia Edwards](https://open.spotify.com/artist/1RaPkxbAuGOQxWnXh43O7C) | [All I Do Is Try](https://open.spotify.com/album/4MiUTSgXKAGFVNjV4Om29U) | 3:23 |
 | 53 | [BODY PARTS \(Full Frontal\)](https://open.spotify.com/track/6yu1AooniIHEnBUncF3NE5) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [BODY PARTS \(Full Frontal\)](https://open.spotify.com/album/0awshGdEPaIVGQeOUjPN8a) | 2:58 |
-| 54 | [Patek Phillipe](https://open.spotify.com/track/6hIqt2lbzyCko80MT4ffrg) | [Koushino](https://open.spotify.com/artist/6TR6dUNDpqyitYzDvY7DI0), [Safraoui](https://open.spotify.com/artist/1xlPEhjbFqhrDjaAvyvueX), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [Patek Phillipe](https://open.spotify.com/album/1Xnw5cDFchAYY80whtHmkb) | 2:36 |
+| 54 | [Patek Philippe](https://open.spotify.com/track/6hIqt2lbzyCko80MT4ffrg) | [Koushino](https://open.spotify.com/artist/6TR6dUNDpqyitYzDvY7DI0), [Safraoui](https://open.spotify.com/artist/1xlPEhjbFqhrDjaAvyvueX), [HoodBlaq](https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm) | [Patek Philippe](https://open.spotify.com/album/1Xnw5cDFchAYY80whtHmkb) | 2:36 |
 | 55 | [Watch Me Break Free](https://open.spotify.com/track/7AfY7tbTfL5l74UOafmyZD) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV), [Lawstylez](https://open.spotify.com/artist/6VBSwCRUCT6b3igxW6VfJZ) | [Watch Me Break Free](https://open.spotify.com/album/33ZxKF1zK5V3lsrvRaIiwW) | 2:41 |
 | 56 | [DODO](https://open.spotify.com/track/5MfZJCiiagtJoulHBUe0fv) | [METRICKZ](https://open.spotify.com/artist/2P7AfQW941UU324qq2ggZf) | [DODO](https://open.spotify.com/album/5VzPUCWBQKySgL2aE4qDfl) | 2:35 |
 | 57 | [Aurora](https://open.spotify.com/track/0DKuolID1O6iUKt9AnZicH) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Aurora](https://open.spotify.com/album/4JzwxYFSHYpGR7Pq0rytji) | 5:21 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 62 | [american fantasy](https://open.spotify.com/track/1Et21JkyGRd5rBTbPNUCmm) | [Daniel Leggs](https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5) | [american fantasy](https://open.spotify.com/album/3PQcianQk4Nf2ksnFVrLxC) | 2:22 |
 | 63 | [Weitblick](https://open.spotify.com/track/2IcJGxJU5W1yGWQXDnOEd9) | [conan.luis](https://open.spotify.com/artist/1H9Smm4OzNFwBB0BELY2PD) | [Weitblick](https://open.spotify.com/album/6q3qxVEDRlM2i5wDWuLGje) | 2:46 |
 
-Snapshot ID: `MCxiOTdkMWNiMmQ1NTFlNjNlMThmMDc2NmE3YWUzYmIyNGVhNjNlOWM0`
+Snapshot ID: `MCwyYzFjYTI0ZGExMjY5MTEwZmUzZDJjMDdmYjdlZWMxZTcyZjlmOTUy`

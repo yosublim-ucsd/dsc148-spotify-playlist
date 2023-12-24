@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星！Cover: 持修 \(Chih Siou\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,109 likes - 72 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,119 likes - 72 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 71 | [跟我來](https://open.spotify.com/track/3hSnIxdAhRl1NpGTVJgqdO) | [Jinbo](https://open.spotify.com/artist/2QlEDg87oaNdcAA1O7dIIC) | [跟我來](https://open.spotify.com/album/3wHDD0QCHSJRrZzw2urDq3) | 3:16 |
 | 72 | [現在的事我說不出口](https://open.spotify.com/track/75WtSq52wyMDHjG8lwoSgO) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [現在的事我說不出口](https://open.spotify.com/album/29pXrrKNLjdBp2HjIvKyvZ) | 3:58 |
 
-Snapshot ID: `MCxiZGYwMWMyMGU5YWEwNDk0YzlkNWYyMTNjN2ZlZjg4ZmYwZjg0MDE2`
+Snapshot ID: `MCxiODM2ZTJlMTg5YTlmYjU4MWQ2YjEyOTgzMzllZDMxNGM1MTkxZTVk`

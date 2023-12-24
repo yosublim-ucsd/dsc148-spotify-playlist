@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,523 likes - 150 songs - 10 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,530 likes - 150 songs - 10 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,7 +139,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 | 129 | [Journey To Love](https://open.spotify.com/track/4otCZuySsanGwbB996Vigx) | [Nathan Mitchell](https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX), [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [It's My Time](https://open.spotify.com/album/6CW5a7H8lMxSvGh4WpBiuj) | 4:40 |
 | 130 | [Leave It to the Gods](https://open.spotify.com/track/3DvdHFeQ3AeZNzxHy61Gcu) | [D.S\. Wilson](https://open.spotify.com/artist/7n8T90C12QlPZnMCOOegmO) | [Leave It to the Gods](https://open.spotify.com/album/6VEDP9KD6ndDnNnBene1aX) | 4:26 |
 | 131 | [Desert Rose](https://open.spotify.com/track/182kcgkOYaoxsecNPFcjpI) | [Ed Calle](https://open.spotify.com/artist/6r8MZZRBkAXqyzaFLk5YRe) | [Soulful Nights](https://open.spotify.com/album/6fAI61H4e6kY0nNYxXYazo) | 3:58 |
-| 132 | [Nothing Ever Hurt Like You \- Smooth Summer Soul Mix](https://open.spotify.com/track/0H98E4Y8MnrfrrcBgk5yIZ) | [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4) | [Nothing Ever Hurt Like You \(Smooth Summer Soul Mix\)](https://open.spotify.com/album/1SqfQP57uSElTr0IhCAZLe) | 4:10 |
+| 132 | [Nothing Ever Hurt Like You \- Smooth Summer Soul Mix](https://open.spotify.com/track/6TAATqAHyPTdxzTtM96aRP) | [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4) | [Nothing Ever Hurt Like You \(Smooth Summer Soul Mix\)](https://open.spotify.com/album/0LULb4JiMIQQjlkGMVivjF) | 4:10 |
 | 133 | [Lover](https://open.spotify.com/track/64UufGODq0sAKOrjGLPRbn) | [Adrian Crutchfield](https://open.spotify.com/artist/4Ji3SC3eZTPuDsR1MMJeiS) | [Lover](https://open.spotify.com/album/4is0VNDimMxcv6bzdOVeLq) | 4:20 |
 | 134 | [Juicy](https://open.spotify.com/track/0li2WQSds4CUrTouznvIEv) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov) | [Juicy](https://open.spotify.com/album/6WQeyUJsoPwFgZMRRmenOp) | 3:26 |
 | 135 | [Detour](https://open.spotify.com/track/0oWyGFYrxLSsgZkgeIZvsu) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Detour](https://open.spotify.com/album/7bdEN9nnzV8n41s6mYLJKb) | 4:08 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 | 149 | [Nightfall](https://open.spotify.com/track/6bGPsVqyQyTs1QPus8AFAP) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Sami Turunen](https://open.spotify.com/artist/2xLnJ9osiiSOHRiJT28qiO), [Strat Carter](https://open.spotify.com/artist/4xBUsH1MTjkIJ70brUkFSx) | [Nightfall](https://open.spotify.com/album/0iQgv8ZvUhQlNylLYRfFJ7) | 3:07 |
 | 150 | [Another Day In Paradise](https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Another Day In Paradise](https://open.spotify.com/album/20nnoaK341xKWNK6cNlNBn) | 4:35 |
 
-Snapshot ID: `MCw3NGRlNDhmMDJiMmYyYTgyMzkwZmIyMWM0MGUyYmQ0NGNlMjc4NjIw`
+Snapshot ID: `MCw5Y2U1ODBhNjhlYjg5ODY4YWExZGFlOTU5ODExYTljMTYxZGU4MTVk`

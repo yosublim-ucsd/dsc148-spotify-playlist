@@ -4,7 +4,7 @@
 
 > The best and finest 10s Funk\. Cover: Pharrell Williams.
 
-84 songs - 5 hr 52 min
+85 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Come on with the Good Thing](https://open.spotify.com/track/7z4eAMrP1KnLXdulAjER41) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Come on with the Good Thing](https://open.spotify.com/album/0bL75fPbxNsM0gBQpYxM2F) | 5:19 | 2021-05-05 | 2023-02-27 |
 | [Cory Wong](https://open.spotify.com/track/1L9qsoNnyT3r8fgr2Pr7Ty) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [The Beautiful Game](https://open.spotify.com/album/7sRNEe2FCkTYhrEimChdkC) | 4:06 | 2021-05-05 |  |
 | [Crave](https://open.spotify.com/track/1Eu00VxwsLMjHI6nQZ9RtW) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Hidden Figures: The Album](https://open.spotify.com/album/5ydGsF9Qy1IZsFmLRpJ4oc) | 2:53 | 2021-05-05 |  |
-| [Dancin' To The Truth](https://open.spotify.com/track/0Y5QEWwXP3awk97M830OBo) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Dirty Word](https://open.spotify.com/album/79Wa68FKzsDAJp4GJdbreF) | 4:09 | 2021-05-05 |  |
+| [Dancin' To The Truth](https://open.spotify.com/track/0Y5QEWwXP3awk97M830OBo) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Dirty Word](https://open.spotify.com/album/79Wa68FKzsDAJp4GJdbreF) | 4:09 | 2021-05-05 | 2023-12-24 |
+| [Dancin' To The Truth](https://open.spotify.com/track/0tJwh3Ka9t5d4IwW2390a7) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Dirty Word](https://open.spotify.com/album/3hLGxazNwkFKTsaGAm3Jcj) | 4:09 | 2021-05-05 |  |
 | [Do U Want It?](https://open.spotify.com/track/09bDHWxnX2BjMPbj30PRQ4) | [Papa Grows Funk](https://open.spotify.com/artist/3HZGp40qZu7sjn5KswiU3Q) | [Needle in the Groove](https://open.spotify.com/album/1zEF32fMPWEdwefmX2Mzw4) | 4:50 | 2021-05-05 |  |
 | [Down Frenchmen St](https://open.spotify.com/track/7ofSPPgO1q41e6qTdL29U8) | [The Filthy Six](https://open.spotify.com/artist/1AiQK5vJEjhf6pFcWs5nWp) | [The Fox](https://open.spotify.com/album/6jNDtYJlpZtqjEqc0a3I9J) | 5:57 | 2021-05-05 |  |
 | [Du\-Vibrations](https://open.spotify.com/track/0uv5Ypi8uZeQAljcUkUhhn) | [The Du\-Rites](https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw) | [Du\-Vibrations](https://open.spotify.com/album/6tg0wj5eMhCIAP67kQZ7Q2) | 2:55 | 2021-05-05 |  |

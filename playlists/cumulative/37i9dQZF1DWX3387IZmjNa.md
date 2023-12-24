@@ -4,7 +4,7 @@
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Hunxho
 
-430 songs - 22 hr 0 min
+431 songs - 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,8 @@
 | [Hard To Trust \(feat\. Dreezy\)](https://open.spotify.com/track/0VfopEzDeW2ANyBulAFh90) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [What It Means To Be King](https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B) | 3:26 | 2022-03-04 | 2022-07-09 |
 | [Hate Our Love \(with Big Sean\)](https://open.spotify.com/track/3pEINn37iH5fx8TpXYNGIO) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Hate Our Love \(with Big Sean\)](https://open.spotify.com/album/5m7KrrURY0STYZGqmsupn7) | 3:46 | 2022-02-04 | 2022-07-23 |
 | [Head Doctor \(with Lil Tecca\)](https://open.spotify.com/track/2DcmnusqpMEEVTXQRNhuHc) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Head Doctor \(with Lil Tecca\)](https://open.spotify.com/album/2CjIwPjYtTO8KV3iT0i5DY) | 4:09 | 2023-11-10 |  |
-| [Head Melodies](https://open.spotify.com/track/0AyY8MxDo1xasovQD79Man) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Head Melodies](https://open.spotify.com/album/6re1rqVtyS8MqSe5iKbz9P) | 3:51 | 2023-11-10 |  |
+| [Head Melodies](https://open.spotify.com/track/0AyY8MxDo1xasovQD79Man) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Head Melodies](https://open.spotify.com/album/6re1rqVtyS8MqSe5iKbz9P) | 3:51 | 2023-11-10 | 2023-12-24 |
+| [Head Melodies](https://open.spotify.com/track/4gAJm7FWFn57TodthhA4MK) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Head Melodies](https://open.spotify.com/album/0KtppoaIZmN1DPOt5Z5fEj) | 3:51 | 2023-12-15 |  |
 | [Heartaches](https://open.spotify.com/track/6RHEIXw8U4SWBda3fxXAXT) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Heartaches](https://open.spotify.com/album/16PP7symx7pyBKDsLFkCDj) | 3:18 | 2022-09-23 | 2023-01-28 |
 | [Hello \(feat\. Chlöe & KayCyy\)](https://open.spotify.com/track/0GrygSHJw7Hkc7Ih5X1wkX) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [B.I.B.L.E.](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP) | 4:24 | 2022-04-08 | 2022-07-23 |
 | [Her Peace \(feat\. YK Osiris & Loui\)](https://open.spotify.com/track/4sOO8Njp0KzZAreAg7e136) | [YungManny](https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg), [Loui](https://open.spotify.com/artist/053fl1QPQFGqSPPxSPcacT), [YK Osiris](https://open.spotify.com/artist/7meyrw7Or5DwteYxDJrkCM) | [Her Peace \(feat\. YK Osiris & Loui\)](https://open.spotify.com/album/5NhtA3dljOQxgXtW6XtfUW) | 4:00 | 2021-10-07\* | 2021-12-04 |

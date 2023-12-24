@@ -5858,7 +5858,7 @@
     {
       "album": {
         "name": "Just Like Me",
-        "url": "https://open.spotify.com/album/2Xxg1dEOlzY4DY1W9hqZ9n"
+        "url": "https://open.spotify.com/album/4GwFV6yUGdX5sJBJILATNZ"
       },
       "artists": [
         {
@@ -5873,6 +5873,28 @@
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 150361,
+      "name": "Just Like Me",
+      "url": "https://open.spotify.com/track/43dG0O6NZ3NAcAupkxpQn3"
+    },
+    {
+      "album": {
+        "name": "Just Like Me",
+        "url": "https://open.spotify.com/album/2Xxg1dEOlzY4DY1W9hqZ9n"
+      },
+      "artists": [
+        {
+          "name": "Ivory Scott",
+          "url": "https://open.spotify.com/artist/3fpp6yYqQevscivKbtpgPF"
+        },
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
       "duration_ms": 150361,
       "name": "Just Like Me",
       "url": "https://open.spotify.com/track/4zEy7q415WjIawOFLhsMBN"

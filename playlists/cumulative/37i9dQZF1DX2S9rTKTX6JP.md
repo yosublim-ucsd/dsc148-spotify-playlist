@@ -4,7 +4,7 @@
 
 > The very best rock covers\. Cover: Dolly Parton
 
-324 songs - 20 hr 53 min
+325 songs - 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [3 Libras \(Acoustic\)](https://open.spotify.com/track/2XPC54f7WT0UtG6396E3Bj) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [3 Libras \(Acoustic\)](https://open.spotify.com/album/3jiDTlTm9mFUFCIJfbvDbS) | 3:36 | 2022-03-25 | 2022-04-21 |
 | [99 Red Balloons](https://open.spotify.com/track/4iHITBaV9sOIukW5ABdHhI) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [Music From The Motion Picture Not Another Teen Movie](https://open.spotify.com/album/3e89oGaupFgYKUIuE92Eb4) | 4:02 | 2020-12-16 | 2023-07-25 |
 | [Across The Universe](https://open.spotify.com/track/1oM1aPwxsXeDlstW1r6SOM) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Across The Universe](https://open.spotify.com/album/2WNelmpjFLNWWRhrgefbsi) | 3:42 | 2021-12-17 | 2022-07-25 |
+| [Across The Universe](https://open.spotify.com/track/75Ov0ZIMoV0HuRwaPQsicp) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Across The Universe](https://open.spotify.com/album/3EsATrrGKDb76NIdrOMk2F) | 3:42 | 2023-11-17 |  |
 | [Addicted to Love](https://open.spotify.com/track/7EVqaT1bzmFdUfnynRQDPc) | [Black Heart Saints](https://open.spotify.com/artist/2CTB1wGYcMnQP7PhbR6BkE) | [Addicted to Love](https://open.spotify.com/album/4XjiLfkxDeGgOamI6hccCl) | 3:47 | 2020-12-16 | 2022-07-06 |
 | [Addicted To Love](https://open.spotify.com/track/24ZpgHPAL3N8036KDgjfBx) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Indie Covers](https://open.spotify.com/album/5eHZZDVSgFtZdjXkwW8sdQ) | 3:19 | 2022-10-26 | 2022-11-13 |
 | [Addicted To Love](https://open.spotify.com/track/3fNuoybebaufvtFBo5TDWO) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 3:19 | 2022-06-17 |  |
@@ -214,7 +215,7 @@
 | [Only Happy When It Rains](https://open.spotify.com/track/6PQsEmqXl81ULIZcuk8VoO) | [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp), [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [The Influence EP](https://open.spotify.com/album/79IXJNggITVEGL4W4LEXw1) | 2:44 | 2022-03-25 | 2022-04-19 |
 | [Our House](https://open.spotify.com/track/1rkGytnje8oF8Ek13ZodT5) | [American Hi\-Fi](https://open.spotify.com/artist/4XlcLj6bxCnpBIOHmBpIWP) | [Our House](https://open.spotify.com/album/1o0W44e3TLSSkyFI55Wi2Z) | 3:32 | 2020-12-16 | 2022-07-29 |
 | [Patience](https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Patience](https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo) | 4:13 | 2020-12-16 |  |
-| [People Are Strange](https://open.spotify.com/track/3PX33J7MsHibdN9kmubVTk) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [The Violent](https://open.spotify.com/album/0mQNxURcyah31JJNXMA86S) | 2:27 | 2022-10-26 |  |
+| [People Are Strange](https://open.spotify.com/track/3PX33J7MsHibdN9kmubVTk) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [The Violent](https://open.spotify.com/album/0mQNxURcyah31JJNXMA86S) | 2:27 | 2022-10-26 | 2023-12-24 |
 | [People Are Strange](https://open.spotify.com/track/7GoOq1xY12PehqOfUryNWU) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [The Violent](https://open.spotify.com/album/5hrWPFVNiTbMqrv6rdvVap) | 2:27 | 2022-03-22 | 2022-10-14 |
 | [Personal Jesus](https://open.spotify.com/track/5dcwiQFqn0mTcWewYIv7MV) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:19 | 2020-12-16 |  |
 | [Personal Jesus \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0KXYrQAqpAREiCi4pB5fO9) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Spotify Singles](https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6) | 3:56 | 2020-12-16 |  |

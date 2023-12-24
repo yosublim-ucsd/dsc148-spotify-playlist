@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Lost",
-  "num_followers": 39455,
+  "num_followers": 39463,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWE2ZWQzNjc0NmU3ZjBiNWIyYjJkNDU1MDE0NGQwYmJlNGU0ZWMx",
+  "snapshot_id": "MCw0NTVkZjc5YzkwMDhkODVjOGM5Njg4NjhiYWNhNGZkMTE3MDdhNjYz",
   "tracks": [
     {
       "added_at": "2023-12-22 05:00:00",
@@ -223,22 +223,18 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "DELLALI (feat. Hamza)",
-        "url": "https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7"
+        "name": "27",
+        "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
       },
       "artists": [
         {
           "name": "ElGrandeToto",
           "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        },
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
         }
       ],
-      "duration_ms": 182037,
-      "name": "DELLALI (feat. Hamza)",
-      "url": "https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w"
+      "duration_ms": 254800,
+      "name": "MAGHRIBI",
+      "url": "https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -359,18 +355,22 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
+        "name": "DELLALI (feat. Hamza)",
+        "url": "https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7"
       },
       "artists": [
         {
           "name": "ElGrandeToto",
           "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
         }
       ],
-      "duration_ms": 254800,
-      "name": "MAGHRIBI",
-      "url": "https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1"
+      "duration_ms": 182037,
+      "name": "DELLALI (feat. Hamza)",
+      "url": "https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -391,22 +391,6 @@
       "duration_ms": 218392,
       "name": "Bonsoir Paris (Mama No Cry)",
       "url": "https://open.spotify.com/track/6RZ5IuPlCVcXSrnzQ5jsE7"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Lova",
-        "url": "https://open.spotify.com/album/6kFn3QbTXiRr6ZTkVdIoGa"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 173810,
-      "name": "Lova",
-      "url": "https://open.spotify.com/track/37wnGbe2R8r7BMKoSzDydC"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -435,6 +419,22 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
+        "name": "Lova",
+        "url": "https://open.spotify.com/album/6kFn3QbTXiRr6ZTkVdIoGa"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 173810,
+      "name": "Lova",
+      "url": "https://open.spotify.com/track/37wnGbe2R8r7BMKoSzDydC"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
         "name": "Au suivant",
         "url": "https://open.spotify.com/album/6ckMeHqNLxSIHSWVpXQyA7"
       },
@@ -447,6 +447,26 @@
       "duration_ms": 199123,
       "name": "Au suivant",
       "url": "https://open.spotify.com/track/6O6071g2kIG6A78TMiF3Fz"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Rashel",
+        "url": "https://open.spotify.com/album/6R3uElG5fC3jt31MsyLeT2"
+      },
+      "artists": [
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        },
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "duration_ms": 176160,
+      "name": "Rashel",
+      "url": "https://open.spotify.com/track/4OXR2xcqJiLIjAtzEdbauW"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -503,26 +523,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Rashel",
-        "url": "https://open.spotify.com/album/6R3uElG5fC3jt31MsyLeT2"
-      },
-      "artists": [
-        {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
-        },
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        }
-      ],
-      "duration_ms": 176160,
-      "name": "Rashel",
-      "url": "https://open.spotify.com/track/4OXR2xcqJiLIjAtzEdbauW"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "I'm Sorry (ft. Lous and The Yakuza)",
         "url": "https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9"
       },
@@ -543,26 +543,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Terminus",
-        "url": "https://open.spotify.com/album/0E35WUjsmg1t3SSSZqstHT"
-      },
-      "artists": [
-        {
-          "name": "Sidiki Diabat\u00e9",
-          "url": "https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 158449,
-      "name": "Terminus",
-      "url": "https://open.spotify.com/track/5RDeToFz2JnPSvJyhcoz4J"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "Le chemin - 20 ans",
         "url": "https://open.spotify.com/album/1YK3ZdEdUsSgRTwEG9yZVz"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 170026,
       "name": "Je cours (feat. Nuit Incolore)",
       "url": "https://open.spotify.com/track/3SIwPysPwGNDZmNyyf1dwG"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Terminus",
+        "url": "https://open.spotify.com/album/0E35WUjsmg1t3SSSZqstHT"
+      },
+      "artists": [
+        {
+          "name": "Sidiki Diabat\u00e9",
+          "url": "https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 158449,
+      "name": "Terminus",
+      "url": "https://open.spotify.com/track/5RDeToFz2JnPSvJyhcoz4J"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -635,26 +635,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Plaisir Risque D\u00e9pendance",
-        "url": "https://open.spotify.com/album/6Xadqm9viEhsKgp0zRp8Gc"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00e8le Castillon",
-          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
-        },
-        {
-          "name": "Videoclub",
-          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
-        }
-      ],
-      "duration_ms": 162920,
-      "name": "Sensations",
-      "url": "https://open.spotify.com/track/1UfM6gnwpBhkzMw07kK6TP"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "Yoski 2",
         "url": "https://open.spotify.com/album/5KdkD8T6GXikv2YgM2ssqd"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 176906,
       "name": "Bectance",
       "url": "https://open.spotify.com/track/6ZELMmjtFzkqNHdY8VIQBc"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Plaisir Risque D\u00e9pendance",
+        "url": "https://open.spotify.com/album/6Xadqm9viEhsKgp0zRp8Gc"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00e8le Castillon",
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+        },
+        {
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+        }
+      ],
+      "duration_ms": 162920,
+      "name": "Sensations",
+      "url": "https://open.spotify.com/track/1UfM6gnwpBhkzMw07kK6TP"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -707,18 +707,18 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Encore plus",
-        "url": "https://open.spotify.com/album/2p1iQufm1aLmR3oIo6ENOr"
+        "name": "Yemma",
+        "url": "https://open.spotify.com/album/1kPducajpmz3HQOF9e8BoA"
       },
       "artists": [
         {
-          "name": "Landy",
-          "url": "https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK"
+          "name": "Niro",
+          "url": "https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q"
         }
       ],
-      "duration_ms": 189230,
-      "name": "Encore plus",
-      "url": "https://open.spotify.com/track/39lgf886U50NvJ8DRntHIL"
+      "duration_ms": 157625,
+      "name": "Yemma",
+      "url": "https://open.spotify.com/track/3i9rNpToR25Cx5XdkStxn2"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -739,18 +739,18 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Yemma",
-        "url": "https://open.spotify.com/album/1kPducajpmz3HQOF9e8BoA"
+        "name": "Encore plus",
+        "url": "https://open.spotify.com/album/2p1iQufm1aLmR3oIo6ENOr"
       },
       "artists": [
         {
-          "name": "Niro",
-          "url": "https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q"
+          "name": "Landy",
+          "url": "https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK"
         }
       ],
-      "duration_ms": 157625,
-      "name": "Yemma",
-      "url": "https://open.spotify.com/track/3i9rNpToR25Cx5XdkStxn2"
+      "duration_ms": 189230,
+      "name": "Encore plus",
+      "url": "https://open.spotify.com/track/39lgf886U50NvJ8DRntHIL"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Comme \u00e7a",
-        "url": "https://open.spotify.com/album/0wXuAfHyW6b04NTj1CjUYt"
-      },
-      "artists": [
-        {
-          "name": "Rsko",
-          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
-        }
-      ],
-      "duration_ms": 151346,
-      "name": "Comme \u00e7a",
-      "url": "https://open.spotify.com/track/5FLLf89AfmWazFDM6ojiGk"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "Life Is Life (C'est la vie)",
         "url": "https://open.spotify.com/album/0wGjk4xe1uiNbW3DxehqNy"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 145525,
       "name": "Life Is Life (C'est la vie)",
       "url": "https://open.spotify.com/track/1ds4c5ehLBwn8PEghUMbTl"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Comme \u00e7a",
+        "url": "https://open.spotify.com/album/0wXuAfHyW6b04NTj1CjUYt"
+      },
+      "artists": [
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        }
+      ],
+      "duration_ms": 151346,
+      "name": "Comme \u00e7a",
+      "url": "https://open.spotify.com/track/5FLLf89AfmWazFDM6ojiGk"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Avec elle",
-        "url": "https://open.spotify.com/album/3zVzY7IdtotQVKGCPOUiBg"
-      },
-      "artists": [
-        {
-          "name": "GLK",
-          "url": "https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez"
-        }
-      ],
-      "duration_ms": 166299,
-      "name": "Avec elle",
-      "url": "https://open.spotify.com/track/2cjMxpKD3fAmM0iZPWHJri"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "Ma Vie",
         "url": "https://open.spotify.com/album/3XkQtHK3tnk2FSN74TEA8E"
       },
@@ -895,6 +879,38 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
+        "name": "Avec elle",
+        "url": "https://open.spotify.com/album/3zVzY7IdtotQVKGCPOUiBg"
+      },
+      "artists": [
+        {
+          "name": "GLK",
+          "url": "https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez"
+        }
+      ],
+      "duration_ms": 166299,
+      "name": "Avec elle",
+      "url": "https://open.spotify.com/track/2cjMxpKD3fAmM0iZPWHJri"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Traficante",
+        "url": "https://open.spotify.com/album/5OXVwHfLjaMqr7cFwwUQBV"
+      },
+      "artists": [
+        {
+          "name": "Gambino",
+          "url": "https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW"
+        }
+      ],
+      "duration_ms": 176129,
+      "name": "Traficante",
+      "url": "https://open.spotify.com/track/3FVL6UdXArRuGsqGNd3VZj"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
         "name": "Weekend \u00e0 Marseille",
         "url": "https://open.spotify.com/album/4a5CiieMuwTxkKcLqu0GdA"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 163373,
       "name": "Zaza",
       "url": "https://open.spotify.com/track/3OrivvMTlCxjFMCA4pTHWC"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Cabeza",
-        "url": "https://open.spotify.com/album/0OtbUuSwEoGO7vyz8vbN9n"
-      },
-      "artists": [
-        {
-          "name": "RIDSA",
-          "url": "https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es"
-        }
-      ],
-      "duration_ms": 174819,
-      "name": "Cabeza",
-      "url": "https://open.spotify.com/track/0KsAixZGfxIHIt4evkBkit"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

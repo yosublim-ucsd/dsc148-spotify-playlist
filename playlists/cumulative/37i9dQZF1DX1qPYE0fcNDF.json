@@ -376,7 +376,7 @@
       ],
       "date_added": "2019-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 215986,
       "name": "Ballin' On Xmas",
       "url": "https://open.spotify.com/track/1atC80Kwb6gHOn27dG1qX1"
@@ -398,6 +398,24 @@
       "duration_ms": 215986,
       "name": "Ballin' On Xmas",
       "url": "https://open.spotify.com/track/4fr1ceHZvZl2kY1GYm6GlJ"
+    },
+    {
+      "album": {
+        "name": "A Dipset Christmas",
+        "url": "https://open.spotify.com/album/1AehXvggF5i5OITVscyDPO"
+      },
+      "artists": [
+        {
+          "name": "Jim Jones",
+          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215986,
+      "name": "Ballin' On Xmas",
+      "url": "https://open.spotify.com/track/5ISPg9yj9cDnj5kOvNgmrz"
     },
     {
       "album": {
@@ -796,7 +814,7 @@
       ],
       "date_added": "2019-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 241880,
       "name": "Dipset X-mas Time",
       "url": "https://open.spotify.com/track/5Ka1tMdg4EMf0EnjraSbV3"
@@ -818,6 +836,24 @@
       "duration_ms": 241880,
       "name": "Dipset X-mas Time",
       "url": "https://open.spotify.com/track/5TiZO9v3hLqILmfatAJMV0"
+    },
+    {
+      "album": {
+        "name": "A Dipset Christmas",
+        "url": "https://open.spotify.com/album/1AehXvggF5i5OITVscyDPO"
+      },
+      "artists": [
+        {
+          "name": "Jim Jones",
+          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241880,
+      "name": "Dipset X-mas Time",
+      "url": "https://open.spotify.com/track/5zc0SK5YxNWsIHWr7YxJaR"
     },
     {
       "album": {

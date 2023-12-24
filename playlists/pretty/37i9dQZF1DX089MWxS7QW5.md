@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: KIMYOONCHAE\(김윤채\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,290 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,338 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [I Want to Be Closer to You](https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [A Love Supreme](https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi) | 3:30 |
 | 50 | [Destiny \(feat\. YUJU\)](https://open.spotify.com/track/53qSxySfNQad7q5NcNg2AQ) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx) | [Colors](https://open.spotify.com/album/5QhjP24qx1NmIz4xpkIt1U) | 2:54 |
 
-Snapshot ID: `MCwyYjdhZjU1OTM2ZmNmN2ExMzA1MjJjNmNlNmI0YWUyZDUxMTViMmRj`
+Snapshot ID: `MCwxMmVlNDAzMDY1MmQyODFjMDZjZTg3ZDJkYjQxYjM5NTFmMzYzZmJk`

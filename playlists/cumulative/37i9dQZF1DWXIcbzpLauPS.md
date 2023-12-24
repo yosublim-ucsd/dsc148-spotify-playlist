@@ -4,7 +4,7 @@
 
 > Metalcore at its finest\. Cover: NOVELISTS
 
-793 songs - 2 day 1 hr 40 min
+795 songs - 2 day 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -544,7 +544,8 @@
 | [Passenger](https://open.spotify.com/track/2SXk2Adq9A8hMvrbglHmRs) | [Heart Of A Coward](https://open.spotify.com/artist/6GIZRqEJJNx3MFaC1YoFMZ) | [This place only brings death](https://open.spotify.com/album/5bds0LlgCaYsvAscrK1HQ0) | 3:59 | 2023-09-29 |  |
 | [Peace That Starts the War](https://open.spotify.com/track/3GDGBicHo5vRMYOEvqSURs) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Peace That Starts the War](https://open.spotify.com/album/0OATjVGmqFTN2tNFzqxsSk) | 2:48 | 2022-02-11 | 2022-07-23 |
 | [Pernicious](https://open.spotify.com/track/7uDhTPFdGnIXGUWIlCoQl8) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [Pernicious](https://open.spotify.com/album/41B7Vg1Vsc0W4bIFswKKOk) | 5:15 | 2022-07-13 | 2022-07-23 |
-| [Perpetual Terminal](https://open.spotify.com/track/4TDy9DvlFtLp3XE3jhMfj5) | [Darkest Hour](https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq) | [Perpetual Terminal](https://open.spotify.com/album/4SYGnQBzkOTHXvCaPL8CiB) | 5:47 | 2023-11-27 |  |
+| [Perpetual Terminal](https://open.spotify.com/track/0fcEV5CPc7QFD50pY4JhAs) | [Darkest Hour](https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq) | [Perpetual Terminal](https://open.spotify.com/album/4CPpslrtV51rQzvjGG98fd) | 5:47 | 2023-12-22 |  |
+| [Perpetual Terminal](https://open.spotify.com/track/4TDy9DvlFtLp3XE3jhMfj5) | [Darkest Hour](https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq) | [Perpetual Terminal](https://open.spotify.com/album/4SYGnQBzkOTHXvCaPL8CiB) | 5:47 | 2023-11-27 | 2023-12-24 |
 | [PIGS EAR](https://open.spotify.com/track/4ZJduIHjMVQ3RIxFOR7sHz) | [Emmure](https://open.spotify.com/artist/1C62FV9Cltn9L4c9jAwCyk) | [PIGS EAR](https://open.spotify.com/album/58CBeC9b0zQuOiFb0JniJT) | 2:11 | 2022-07-13 | 2022-07-17 |
 | [Pizza Homicide](https://open.spotify.com/track/7vqgYX29LWz74BlsaW9bub) | [Samurai Pizza Cats](https://open.spotify.com/artist/6f0FWL5v2c3a5shWKRuiwq), [Nico Sallach](https://open.spotify.com/artist/02UmgKnxslxUbrVpHhF9bb), [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Pizza Homicide](https://open.spotify.com/album/4NTGoJrPUvdgihClkErxoM) | 3:00 | 2023-03-10 | 2023-05-06 |
 | [Plagued](https://open.spotify.com/track/6xC8tcFBMMjJIyfPw66lDF) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Darkbloom](https://open.spotify.com/album/15q7078X1sRf9ivhEnv1tm) | 3:29 | 2022-10-14 | 2023-05-27 |
@@ -559,7 +560,8 @@
 | [Pull From The Ghost](https://open.spotify.com/track/5X0o92ihmXE7KP5fcmNSFv) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Pull From The Ghost](https://open.spotify.com/album/2KElNfghT2G7tHLaOCMqFe) | 4:11 | 2022-07-08 | 2023-07-15 |
 | [Pump It](https://open.spotify.com/track/3iXNlPQNYPrtimAEM49PsG) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Pump It](https://open.spotify.com/album/2sHDtHAX8luZbP4Uugvtds) | 2:52 | 2021-12-17 | 2022-07-23 |
 | [Purple Static](https://open.spotify.com/track/3AddKBr7vkhZrmqNZ2l80z) | [Mirrors](https://open.spotify.com/artist/1bVZhrnnRNPi98wcJQT8YD) | [Purple Static](https://open.spotify.com/album/3SeMw7HoiSTnsc4sDr9tF9) | 3:49 | 2021-12-17 | 2022-02-18 |
-| [Pushing The Pink Envelope](https://open.spotify.com/track/4hvDdBwERAE7KbDRqia8WS) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [Pushing The Pink Envelope](https://open.spotify.com/album/1aQ0u8V9EOwE8ohlaFeHhm) | 4:11 | 2023-09-29 |  |
+| [Pushing The Pink Envelope](https://open.spotify.com/track/0ktqowpZZ3losVs1xUf9lg) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [Pushing The Pink Envelope](https://open.spotify.com/album/5o0XYoeBMFq6zeyADEfBqU) | 4:11 | 2023-12-22 |  |
+| [Pushing The Pink Envelope](https://open.spotify.com/track/4hvDdBwERAE7KbDRqia8WS) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [Pushing The Pink Envelope](https://open.spotify.com/album/1aQ0u8V9EOwE8ohlaFeHhm) | 4:11 | 2023-09-29 | 2023-12-24 |
 | [Quicksand \(feat\. Michael Swank\)](https://open.spotify.com/track/3B2lC0tHokLJuPOhKaLycU) | [Outline In Color](https://open.spotify.com/artist/6drAKOLWO1vzBrdmJmg5SE), [Foxera](https://open.spotify.com/artist/3YMpkFfYLXaD8eZlQalBHC), [Michael Swank](https://open.spotify.com/artist/1p4l2x4EUENGm1VCQfBkuu) | [Quicksand](https://open.spotify.com/album/3vo077XHNBeAEVlnWGQUCG) | 2:32 | 2022-07-01 | 2023-05-23 |
 | [Rage](https://open.spotify.com/track/013gFBH6Qqs79Zbj7WOdsu) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [Rage](https://open.spotify.com/album/1ywnN4cbTEzEidQxfKAFTN) | 3:36 | 2022-07-13 | 2022-07-23 |
 | [Rage](https://open.spotify.com/track/5fKQoFnP46hSNH2xD6hlDL) | [Bleeding Through](https://open.spotify.com/artist/41btkKEfOGIHsd7WNahMCi) | [Rage](https://open.spotify.com/album/2UaM4rE9GCvkjbdrDyqxwu) | 3:54 | 2022-07-13 | 2022-07-23 |

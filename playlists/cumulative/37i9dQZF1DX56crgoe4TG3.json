@@ -3732,6 +3732,24 @@
     {
       "album": {
         "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/7H7mBG6mk62oWCGL7L1uNI"
+      },
+      "artists": [
+        {
+          "name": "Joy Kills Sorrow",
+          "url": "https://open.spotify.com/artist/6ZRMYLLAQlmSluihxBYw0C"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253346,
+      "name": "Such Great Heights",
+      "url": "https://open.spotify.com/track/4HUENSfoQAJiome9fSSjOK"
+    },
+    {
+      "album": {
+        "name": "Wide Awake",
         "url": "https://open.spotify.com/album/2vIgHcmDHz5Vx2hBezjumT"
       },
       "artists": [
@@ -3760,7 +3778,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 253346,
       "name": "Such Great Heights",
       "url": "https://open.spotify.com/track/79cKvTv8eVXPolBTPfx8ns"
@@ -4484,6 +4502,24 @@
     {
       "album": {
         "name": "Breakdown",
+        "url": "https://open.spotify.com/album/3OWpFF6JfLHr728JT5PDAn"
+      },
+      "artists": [
+        {
+          "name": "Old & In The Way",
+          "url": "https://open.spotify.com/artist/45vs9Drn5QbWAQ4Kff6ofh"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278533,
+      "name": "Wild Horses",
+      "url": "https://open.spotify.com/track/0oLZz6CXQ698XSO3J9DddL"
+    },
+    {
+      "album": {
+        "name": "Breakdown",
         "url": "https://open.spotify.com/album/1gWmSLQFKaP2CkxxZZXMg7"
       },
       "artists": [
@@ -4512,7 +4548,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 278533,
       "name": "Wild Horses",
       "url": "https://open.spotify.com/track/64gFlVpyORaPTWizf9nAdZ"
@@ -4537,6 +4573,28 @@
     },
     {
       "album": {
+        "name": "Second Generation",
+        "url": "https://open.spotify.com/album/0cWKR22WUG8SH7CL2FP8hf"
+      },
+      "artists": [
+        {
+          "name": "Keith Whitley",
+          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
+        },
+        {
+          "name": "Ricky Skaggs",
+          "url": "https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184253,
+      "name": "Wildwood Flower",
+      "url": "https://open.spotify.com/track/1Wzp8u0k19FJEFk8Al6ntI"
+    },
+    {
+      "album": {
         "name": "True Bluegrass Instrumentals",
         "url": "https://open.spotify.com/album/6cwdLgLSa2CgKtRwvKZzDd"
       },
@@ -4552,7 +4610,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 184253,
       "name": "Wildwood Flower",
       "url": "https://open.spotify.com/track/3xckzvp58eFYnM7HEHSjMi"

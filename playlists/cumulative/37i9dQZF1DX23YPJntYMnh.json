@@ -2282,6 +2282,28 @@
     {
       "album": {
         "name": "Forever",
+        "url": "https://open.spotify.com/album/7z6tP5cjp3VjwKPzzD06ON"
+      },
+      "artists": [
+        {
+          "name": "Mindi Abair",
+          "url": "https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4"
+        },
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238493,
+      "name": "What About Love?",
+      "url": "https://open.spotify.com/track/3qK5XXtWGtxYOA8tXy777R"
+    },
+    {
+      "album": {
+        "name": "Forever",
         "url": "https://open.spotify.com/album/3plQfKgqc059mGxRaQIFqw"
       },
       "artists": [
@@ -2296,7 +2318,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 238493,
       "name": "What About Love?",
       "url": "https://open.spotify.com/track/5RYLym87yzbP1RW23ywf5j"

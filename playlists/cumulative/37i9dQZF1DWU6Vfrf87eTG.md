@@ -4,7 +4,7 @@
 
 > Zone in \(or out\) with ethereal, meditative instrumental indie folk and acoustic tracks.
 
-180 songs - 10 hr 44 min
+182 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,8 @@
 | [Eventual Surrender](https://open.spotify.com/track/0GNSXFE8a9MkDR4ZTiF4Lj) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Goes West](https://open.spotify.com/album/0JbGIBNY8NDj1rpV6BAOCD) | 3:03 | 2020-07-13 | 2022-07-29 |
 | [Eventual Surrender](https://open.spotify.com/track/5Zlaa2clhbuXhaZhlUtng9) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Goes West](https://open.spotify.com/album/7vPbJA9o9NKBqjoI7StDmq) | 3:03 | 2020-07-13 |  |
 | [Everything](https://open.spotify.com/track/17Vyuiin8uY1eOR1imRtqS) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [To The Sun And All The Cities In Between](https://open.spotify.com/album/7CyISiIyKSbgIQZr8JaqoS) | 5:37 | 2020-07-13 | 2022-07-29 |
-| [Everything](https://open.spotify.com/track/25I5OlzgEUCqg0MWLWCZpv) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [To The Sun And All The Cities In Between](https://open.spotify.com/album/578SzhqxPoHnbSLkKvuWaG) | 5:37 | 2020-07-13 |  |
+| [Everything](https://open.spotify.com/track/25I5OlzgEUCqg0MWLWCZpv) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [To The Sun And All The Cities In Between](https://open.spotify.com/album/578SzhqxPoHnbSLkKvuWaG) | 5:37 | 2020-07-13 | 2023-12-24 |
+| [Everything](https://open.spotify.com/track/2tCTAcIFJG2GJuGl2u822F) | [City of the Sun](https://open.spotify.com/artist/4DkYxtaASIKQnk4Gj0TB7k) | [To The Sun And All The Cities In Between](https://open.spotify.com/album/46G7s9NfgOpyMUdiz8iZel) | 5:37 | 2023-01-20 |  |
 | [Everything That Can Be Invented](https://open.spotify.com/track/1sNHnNghTXeVqhWfklniyl) | [Tvärvägen](https://open.spotify.com/artist/5Ms2wJn8fZ2TbJGkaLgNCF) | [Staring Directly Into the Sun](https://open.spotify.com/album/5jmGz6ggQWnhCNjkEfYCcL) | 4:47 | 2020-07-13 |  |
 | [Exploding](https://open.spotify.com/track/0IybhqldtypI4LJBXsD41w) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Regions of Light and Sound of God](https://open.spotify.com/album/3S9HLKJlIahphBAjzsHDzi) | 2:00 | 2020-07-13 | 2022-08-01 |
 | [Exploding](https://open.spotify.com/track/0yod6tHyQ4i5P2ArTRDLhz) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Regions Of Light And Sound Of God](https://open.spotify.com/album/11WWvzU6lGpcjRUMlahNKs) | 2:00 | 2020-07-13 | 2022-07-29 |
@@ -84,7 +85,8 @@
 | [Georgia Drumbeat \- Instrumental](https://open.spotify.com/track/5kygKlHsSVwQPfgJUGjzBW) | [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb) | [Prospect Hill: The American Songster Omnibus](https://open.spotify.com/album/5616zmHV1bAxmnpM9v2bsU) | 2:48 | 2020-07-13 | 2023-10-03 |
 | [Gone Clear](https://open.spotify.com/track/0U00mgaUXkkDDBwYN1JE3q) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Gone Clear](https://open.spotify.com/album/00sBY7got64jgS2UQrNf8u) | 6:07 | 2020-07-13 | 2022-07-29 |
 | [Gone Clear](https://open.spotify.com/track/7LlduV4mdMfYtzSpbal1yg) | [William Tyler](https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py) | [Modern Country](https://open.spotify.com/album/64esKG7wBOEr573Zp77cUT) | 6:07 | 2020-07-13 |  |
-| [Goodbye, Honey, You Call That Gone](https://open.spotify.com/track/74KdVnlCyEqUod4bti2GBc) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [Spider Tales](https://open.spotify.com/album/3S2GACXwN1hHxSKHxkGvKb) | 2:10 | 2020-07-13 |  |
+| [Goodbye, Honey, You Call That Gone](https://open.spotify.com/track/6CakoiNDzQsznt4aGA6B6f) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [Spider Tales](https://open.spotify.com/album/6blRXbzPaZQLL3YYFhmVCw) | 2:10 | 2023-01-20 |  |
+| [Goodbye, Honey, You Call That Gone](https://open.spotify.com/track/74KdVnlCyEqUod4bti2GBc) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [Spider Tales](https://open.spotify.com/album/3S2GACXwN1hHxSKHxkGvKb) | 2:10 | 2020-07-13 | 2023-12-24 |
 | [Granny Diner](https://open.spotify.com/track/1zbBPMzpTqsXVbs7OHE0rI) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Blue Valentine \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47trTvq8D3X8PH4CzrcpDW) | 4:43 | 2023-01-20 |  |
 | [Granny Diner](https://open.spotify.com/track/0cad378gGsvZfnmE7Sxe9w) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Friend EP](https://open.spotify.com/album/0nlBZxaJ8RI2LDPfJQ2nyJ) | 4:48 | 2020-07-13 | 2023-02-03 |
 | [Great Big God of Hands](https://open.spotify.com/track/1knn3wzmWUQWC4SFYhaqrX) | [James Elkington](https://open.spotify.com/artist/7COf7QkYuPrzl1lVrR1sIE), [Nathan Salsburg](https://open.spotify.com/artist/2d4DsLfaKstHsimzDw0LyM) | [Ambsace](https://open.spotify.com/album/0LMs0t9oWggaYR0bnwzcbd) | 3:14 | 2020-07-13 |  |

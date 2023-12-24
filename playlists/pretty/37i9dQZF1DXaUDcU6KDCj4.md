@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Hermanos Gutiérrez
 
-[Spotify](https://open.spotify.com/user/spotify) - 798,139 likes - 156 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 798,210 likes - 156 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 34 | [The Weeping](https://open.spotify.com/track/2PwSwr3KmNRdI4RLnMBxyB) | [Bess Atwell](https://open.spotify.com/artist/6Pim5E5Lm03COsjHj2aEiK) | [The Weeping](https://open.spotify.com/album/6EMlBxT1YwUbDS06D4LUvV) | 5:08 |
 | 35 | [Milk & Honey](https://open.spotify.com/track/0LbRbiN6RTRzxTvmmjfeCg) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Milk & Honey](https://open.spotify.com/album/00qsnkOHVr38BOpUOTmmCN) | 3:51 |
 | 36 | [Insane](https://open.spotify.com/track/4I5Z2HABk8xVgdBIMrxw6G) | [Jonathan Peyton](https://open.spotify.com/artist/1rKBNFP4jc1iLEH8ziP7O0) | [Insane](https://open.spotify.com/album/2wz4zgZvF4AXOloDTn5X0I) | 4:13 |
-| 37 | [Medicine](https://open.spotify.com/track/23k8mKYhjxN5iSw6nxOVkL) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [Medicine](https://open.spotify.com/album/3JqcgkR1T0inYGixFDTmdO) | 4:15 |
+| 37 | [Medicine](https://open.spotify.com/track/1QWyq6ewUIWZgsyVmzpo0Y) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [Medicine](https://open.spotify.com/album/03bvJDhMjnOOXwqqw3NZ9B) | 4:15 |
 | 38 | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno) | 4:17 |
 | 39 | [Party of the Century](https://open.spotify.com/track/1JEyp69tRjo7mjW6mPSvtb) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Party of the Century](https://open.spotify.com/album/2pC55Z6LUmN76r3HSzE9Av) | 2:40 |
 | 40 | [Belly Of The Beast](https://open.spotify.com/track/7Adyii0aPBfbjsnXpLWv2g) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Belly Of The Beast](https://open.spotify.com/album/4X7TVHpvoGfSK5qO1ghJP6) | 3:48 |
@@ -147,7 +147,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 137 | [Hollywood and Fear \- Bonus Track](https://open.spotify.com/track/3VeZKqmfYKIpj69KFIfWeH) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Big Picture \(Expanded Edition\)](https://open.spotify.com/album/6327l4EuoWm8xFs8AwuCbv) | 3:29 |
 | 138 | [All The Way Back](https://open.spotify.com/track/74Om3rXwl9V1JMzjf1nToZ) | [Mitch Rowland](https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ) | [Come June](https://open.spotify.com/album/6ymIp6VYMvGrIjtzlj0gzi) | 3:01 |
 | 139 | [Someone Else](https://open.spotify.com/track/0vbqjI3TKufY0I33RtdXFD) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 3:32 |
-| 140 | [Highway 72](https://open.spotify.com/track/3zAwspoamICRiHrPVIaUQ6) | [Jolie Holland](https://open.spotify.com/artist/2I75E6zjDObK1RcXUzpmSQ), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Haunted Mountain](https://open.spotify.com/album/63RLm9WcwiedTBaP8WVeCl) | 4:52 |
+| 140 | [Highway 72](https://open.spotify.com/track/5lv53oDMKUhEttj7WKu5gL) | [Jolie Holland](https://open.spotify.com/artist/2I75E6zjDObK1RcXUzpmSQ), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Haunted Mountain](https://open.spotify.com/album/2CVC0KMuJ73P8AMLToOkuQ) | 4:52 |
 | 141 | [Stranger](https://open.spotify.com/track/6zQjpTXDwTr0otUzBFqdPo) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Stranger](https://open.spotify.com/album/4I3hBaNXrp7V0Fzx9KE8iA) | 3:54 |
 | 142 | [not a king](https://open.spotify.com/track/4FVzimiTl5SZXWMVgJ4nEe) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Gathered By The Lantern](https://open.spotify.com/album/5zkd8WmnZPaQUdFe360xfM) | 2:29 |
 | 143 | [We Don't Run \- We Don't Run](https://open.spotify.com/track/0GrjCTn1mcBP8as4atYzAH) | [Ethan Hawke](https://open.spotify.com/artist/3ZvNOfWpxcMrlB9DLq7jjN), [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [We Don't Run](https://open.spotify.com/album/024vPLEBzP1UqC1mucnkt2) | 3:39 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 155 | [Hold My Hand](https://open.spotify.com/track/1X5Skx2pTRXmaPblH3sKwW) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Hold My Hand](https://open.spotify.com/album/1tMTEwX99b27pqjQj5XwDN) | 3:59 |
 | 156 | [American Town](https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ) | 3:17 |
 
-Snapshot ID: `MCw3NDUyMWYyNDJlZWVkNDBhN2MzZjc0ZmUyYjA2YjUwMTEzMWE2ZTk5`
+Snapshot ID: `MCw4MThjM2M0YjE1YTY2NDg4NjBjYzY0Njk0ZDA2NjNkMDU5NDFkMWVm`

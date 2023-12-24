@@ -1,12 +1,12 @@
 {
   "description": "The Official EA Sports FIFA 23 Soundtrack.",
-  "num_followers": 188468,
+  "num_followers": 188502,
   "original_name": "FIFA 23 Official Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzQ1ZjMxOWZkYTg4NzM5ZDQxY2NkZGU3Y2FlOWVlMWZiMWYzM2M5",
+  "snapshot_id": "MCw1YTFlMDdiNTJiZDU1MzJlNWM4NTdlODgwOGMxNTMzM2E4MDUzMDA1",
   "tracks": [
     {
       "added_at": "2023-01-25 16:56:24",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-01-25 16:56:24",
       "album": {
-        "name": "ALL THE HIGHS",
-        "url": "https://open.spotify.com/album/4Z9aZaIeSiKBVOf7v7oHCI"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        }
-      ],
-      "duration_ms": 206793,
-      "name": "ALL THE HIGHS",
-      "url": "https://open.spotify.com/track/6Dg3ArDiJcseYoeeTZZXK6"
-    },
-    {
-      "added_at": "2023-01-25 16:56:24",
-      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/1tiCHRx9AI11hfcLmkGEXT"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 175038,
       "name": "40-16 Building",
       "url": "https://open.spotify.com/track/7LbIccTR3F9yYaWmMGMKtn"
+    },
+    {
+      "added_at": "2023-01-25 16:56:24",
+      "album": {
+        "name": "ALL THE HIGHS",
+        "url": "https://open.spotify.com/album/4Z9aZaIeSiKBVOf7v7oHCI"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "duration_ms": 206793,
+      "name": "ALL THE HIGHS",
+      "url": "https://open.spotify.com/track/6Dg3ArDiJcseYoeeTZZXK6"
     },
     {
       "added_at": "2023-01-25 16:56:24",
@@ -923,6 +923,30 @@
     {
       "added_at": "2023-01-25 16:56:24",
       "album": {
+        "name": "LIFTED",
+        "url": "https://open.spotify.com/album/6jR7uovSlToKvLXjTrPZSV"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 223991,
+      "name": "On Your Own",
+      "url": "https://open.spotify.com/track/5chP2SaqqY0QkENMp1yg5x"
+    },
+    {
+      "added_at": "2023-01-25 16:56:24",
+      "album": {
         "name": "Daydreaming",
         "url": "https://open.spotify.com/album/4RBAFTTsu4cWZYkc3HXvvJ"
       },
@@ -951,30 +975,6 @@
       "duration_ms": 186081,
       "name": "Run Run",
       "url": "https://open.spotify.com/track/2SJm5XYmsKvzPaHI3mW1GB"
-    },
-    {
-      "added_at": "2023-01-25 16:56:24",
-      "album": {
-        "name": "LIFTED",
-        "url": "https://open.spotify.com/album/6jR7uovSlToKvLXjTrPZSV"
-      },
-      "artists": [
-        {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
-        },
-        {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 223991,
-      "name": "On Your Own",
-      "url": "https://open.spotify.com/track/5chP2SaqqY0QkENMp1yg5x"
     },
     {
       "added_at": "2023-01-25 16:56:24",
@@ -1067,6 +1067,46 @@
     {
       "added_at": "2023-01-25 16:56:24",
       "album": {
+        "name": "Must Be Love",
+        "url": "https://open.spotify.com/album/3KZrksMVrTZVqKu2qIJ0G4"
+      },
+      "artists": [
+        {
+          "name": "Tseba",
+          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
+        },
+        {
+          "name": "Electric Fields",
+          "url": "https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5"
+        }
+      ],
+      "duration_ms": 270145,
+      "name": "Must Be Love",
+      "url": "https://open.spotify.com/track/5bIcHT2jjWqm9UVpIJwIId"
+    },
+    {
+      "added_at": "2023-01-25 16:56:24",
+      "album": {
+        "name": "Palaces",
+        "url": "https://open.spotify.com/album/6SZtno2XqSmfr5MKsNeXmC"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 238019,
+      "name": "Sirens (feat. Caroline Polachek)",
+      "url": "https://open.spotify.com/track/0Zkca5LCqbU9iXOlwDTOTB"
+    },
+    {
+      "added_at": "2023-01-25 16:56:24",
+      "album": {
         "name": "So Sick Of Me",
         "url": "https://open.spotify.com/album/0MXemyihG9VPWoxe8IYgFO"
       },
@@ -1095,46 +1135,6 @@
       "duration_ms": 202093,
       "name": "Prettier Than You",
       "url": "https://open.spotify.com/track/61aanGqaF4FFuoNMS9nyHJ"
-    },
-    {
-      "added_at": "2023-01-25 16:56:24",
-      "album": {
-        "name": "Palaces",
-        "url": "https://open.spotify.com/album/6SZtno2XqSmfr5MKsNeXmC"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 238019,
-      "name": "Sirens (feat. Caroline Polachek)",
-      "url": "https://open.spotify.com/track/0Zkca5LCqbU9iXOlwDTOTB"
-    },
-    {
-      "added_at": "2023-01-25 16:56:24",
-      "album": {
-        "name": "Must Be Love",
-        "url": "https://open.spotify.com/album/3KZrksMVrTZVqKu2qIJ0G4"
-      },
-      "artists": [
-        {
-          "name": "Tseba",
-          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
-        },
-        {
-          "name": "Electric Fields",
-          "url": "https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5"
-        }
-      ],
-      "duration_ms": 270145,
-      "name": "Must Be Love",
-      "url": "https://open.spotify.com/track/5bIcHT2jjWqm9UVpIJwIId"
     },
     {
       "added_at": "2023-01-25 16:56:24",
@@ -1679,26 +1679,6 @@
     {
       "added_at": "2023-01-25 16:56:24",
       "album": {
-        "name": "Maybe Not",
-        "url": "https://open.spotify.com/album/4GWmet52cXBiTHcCaLwu4L"
-      },
-      "artists": [
-        {
-          "name": "Manga Saint Hilare",
-          "url": "https://open.spotify.com/artist/0jU1Tdr7ONlgk0Ey9JgXra"
-        },
-        {
-          "name": "Jelani Blackman",
-          "url": "https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo"
-        }
-      ],
-      "duration_ms": 137739,
-      "name": "Maybe Not",
-      "url": "https://open.spotify.com/track/1vwCloetc88FvjuzEyixZm"
-    },
-    {
-      "added_at": "2023-01-25 16:56:24",
-      "album": {
         "name": "Mama Used to Say",
         "url": "https://open.spotify.com/album/1gYQbg0itVL6DyE4zA7oox"
       },
@@ -1931,6 +1911,22 @@
       "duration_ms": 219512,
       "name": "Leader Of The Pack",
       "url": "https://open.spotify.com/track/1e33JEiunjKdNTVxISYpb6"
+    },
+    {
+      "added_at": "2023-01-25 16:56:24",
+      "album": {
+        "name": "Not Yours",
+        "url": "https://open.spotify.com/album/6MIn9ifpixHNbd7NnaclYa"
+      },
+      "artists": [
+        {
+          "name": "Effy",
+          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
+        }
+      ],
+      "duration_ms": 291500,
+      "name": "Not Yours",
+      "url": "https://open.spotify.com/track/0MiQUuAoPSSjipYHsl4lS1"
     }
   ],
   "unique_name": "FIFA 23 Official Soundtrack",

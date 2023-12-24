@@ -4,7 +4,7 @@
 
 > Country music making waves\. Cover: The Kentucky Gentlemen
 
-187 songs - 9 hr 40 min
+188 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,8 @@
 | [Take Me Home, Country Roads](https://open.spotify.com/track/2h5LAoOPMnDhQQkUuOFUGf) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Take Me Home, Country Roads](https://open.spotify.com/album/4PJxSZQAoTaPW8Rcnp9gN5) | 3:03 | 2023-11-03 |  |
 | [Tall Boy](https://open.spotify.com/track/74g98VNWX3HclMI3JfazVn) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Tall Boy](https://open.spotify.com/album/3xiSzk0ObgjDyMpr7SUY4w) | 2:20 | 2021-12-03 |  |
 | [Tell Me Twice](https://open.spotify.com/track/68fFVpUfXAoREXKumXM4jp) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Tell Me Twice](https://open.spotify.com/album/0sC1yKrihueJ1Uh4XoDVGa) | 2:34 | 2022-07-29 |  |
-| [Tennessee \- Bonus Track](https://open.spotify.com/track/1QeMa8hBjIIarFqOalHc99) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [Tennessee](https://open.spotify.com/album/6xNoGdNiorsLLPxF1SAhND) | 3:17 | 2023-09-15 |  |
+| [Tennessee \- Bonus Track](https://open.spotify.com/track/1QeMa8hBjIIarFqOalHc99) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [Tennessee](https://open.spotify.com/album/6xNoGdNiorsLLPxF1SAhND) | 3:17 | 2023-09-15 | 2023-12-24 |
+| [Tennessee \- Bonus Track](https://open.spotify.com/track/3oXTAdDTqd69ndRONC8kCd) | [K\. Michelle](https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx) | [I'M THE PROBLEM](https://open.spotify.com/album/66rXlzSwEMZzBBQKoa4Oyr) | 3:17 | 2023-12-08 |  |
 | [Tequila Money](https://open.spotify.com/track/1wZkPgmHtAiSAeo6dymYC6) | [Zinn](https://open.spotify.com/artist/5mGMpDd5gyYAXp9Goofy6D) | [Tequila Money](https://open.spotify.com/album/6IE2KcXgRn1q1QNMWXLdoK) | 2:19 | 2022-09-16 |  |
 | [The Flame](https://open.spotify.com/track/7l1qHh19nKzU49MRCyG3Yp) | [Camille Parker](https://open.spotify.com/artist/3u1V5YbyG4zthBujlpdFE5) | [The Flame](https://open.spotify.com/album/6Sw8xNbH0mApwadnpyyCFA) | 2:45 | 2021-12-03 |  |
 | [The Road](https://open.spotify.com/track/6IsIpPApmefLa6dfop4xYX) | [Madeline Edwards](https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa) | [The Road](https://open.spotify.com/album/4wXPYoDHriG75HyGDPtXiq) | 4:28 | 2021-12-03 |  |

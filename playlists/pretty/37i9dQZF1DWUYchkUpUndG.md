@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4>Chioma Jesus</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,834 likes - 96 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,883 likes - 96 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 95 | [We Follow Jesus](https://open.spotify.com/track/6Z9Gqsrw5eTC3mkstkzc45) | [ASHOKE JNR](https://open.spotify.com/artist/7HIYRRf1WZ8SjPUL12bHyt) | [We Follow Jesus](https://open.spotify.com/album/1flg1xx1krmfTgfVR5bSxz) | 2:46 |
 | 96 | [Favour Anniversary](https://open.spotify.com/track/6I2ozqJrPNnCNup6gQ8nZh) | [Dbilovd](https://open.spotify.com/artist/5xvyAXQfTzG95lXHos2ZDn) | [Favour Anniversary](https://open.spotify.com/album/0z2IZoP0KZVGrQpZhEyXwQ) | 5:35 |
 
-Snapshot ID: `MCxjODA2YmRhMmUxMjg1ZjRiYWNhMTE3NWJmMjEyYjQ3ODdkMDAxZjlm`
+Snapshot ID: `MCwyMDI1NmI0YjI4ZjQ1ZGRhMDQ3OTgzZjMyZjczZTRkY2Q3YmE4NzMy`

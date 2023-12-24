@@ -4,7 +4,7 @@
 
 > Największe rapowe kawałki w tej chwili\. Cover: Asster, Kabe
 
-148 songs - 7 hr 4 min
+149 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Cherry Lady](https://open.spotify.com/track/4ZmWYEsdiGRPN9oMJgi96r) | [Louis Villain](https://open.spotify.com/artist/5k96hVqrpJoo0zmlVggVzv) | [Cherry Lady](https://open.spotify.com/album/73AskkkPaeQsljbltdSTur) | 3:04 | 2023-11-06 | 2023-12-22 |
 | [Ciapakwybujany](https://open.spotify.com/track/2PF5O4wQHtD9KpxNALuoBD) | [GM2L](https://open.spotify.com/artist/5a6bf006Dgf5kk2OxvpVYY), [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E), [Kazior](https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8), [Alberto](https://open.spotify.com/artist/79b4a4Bg30Y0RlO5de5jni), [OLEK](https://open.spotify.com/artist/4nRJJWVfbPAULHZl7VYVE8) | [GM2L Mixtape](https://open.spotify.com/album/6yL5hla6R4evgV5kiT9BJe) | 1:40 | 2023-11-27 |  |
 | [Cichosza](https://open.spotify.com/track/3kjMeY6ZgOZYAFRiPHMqmS) | [Taco Hemingway](https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ), [Otsochodzi](https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB), [Zeppy Zep](https://open.spotify.com/artist/2hnyMG1DuXarlHFJDITc3n) | [1\-800\-OŚWIECENIE](https://open.spotify.com/album/2ItrzcwLrygr4I6wlZ3HGU) | 3:14 | 2023-09-25 | 2023-11-24 |
+| [co by się nie działo](https://open.spotify.com/track/0WTvAeSKmSE7SE73u40OLG) | [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a), [Phunk'ill](https://open.spotify.com/artist/6jSShb0II1n6RNMCmqBSSM) | [co by się nie działo](https://open.spotify.com/album/1KyewsVbz0uYBY4SMEu5Tt) | 3:19 | 2023-12-22 |  |
 | [COLOSSEUM](https://open.spotify.com/track/31xzEogE9mXNUGF92kJqv1) | [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Kabe](https://open.spotify.com/artist/4Q3xLVaD2uBZGVxmCYuSkt), [ReTo](https://open.spotify.com/artist/6QfFTZJHFSe9Xyes6DkAli), [Gruby Mielzky](https://open.spotify.com/artist/6f3oixxZSgRKOW2CSqOFqM), [Borixon](https://open.spotify.com/artist/5Q5WdRs96HgbxdVIfhHqt2), [BeMelo](https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx) | [COLOSSEUM](https://open.spotify.com/album/0wq5kKpVAGKAgvERJbGlXG) | 3:05 | 2023-09-21 | 2023-10-06 |
 | [CRAZY FROG](https://open.spotify.com/track/2WebYamytCv4EHXDoUWBPF) | [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht), [Waima](https://open.spotify.com/artist/1gfxO9EsNea8tyDzrHexdp) | [CRAZY FROG](https://open.spotify.com/album/0bCQd3xcOyLh122uEsvwC8) | 3:57 | 2023-09-21 | 2023-10-27 |
 | [Cringowy Lovesong](https://open.spotify.com/track/4RglJQMuFuC06tiqN5rRU0) | [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [Cringowy Lovesong](https://open.spotify.com/album/1fkoUozkkQHFSp3lvvpYvh) | 3:09 | 2023-11-09 |  |

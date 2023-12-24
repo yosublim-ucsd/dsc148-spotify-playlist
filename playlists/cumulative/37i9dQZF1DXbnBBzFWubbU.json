@@ -1270,6 +1270,32 @@
     {
       "album": {
         "name": "In Other Words (Remixes)",
+        "url": "https://open.spotify.com/album/7t3y1lcPiSP1Ie1j2xxskm"
+      },
+      "artists": [
+        {
+          "name": "Anhad + Tanner",
+          "url": "https://open.spotify.com/artist/5V4PIa2khOUA4o5HUd5fhZ"
+        },
+        {
+          "name": "Isheeta Chakrvarty",
+          "url": "https://open.spotify.com/artist/44hBrSWimAgWD5iqB16XId"
+        },
+        {
+          "name": "Jay Pei",
+          "url": "https://open.spotify.com/artist/0BLJb1n9C25fGISMnSzHIj"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379590,
+      "name": "Naina (Jay Pei Remix)",
+      "url": "https://open.spotify.com/track/6eH4l2DyxkTHZXxscPRvNs"
+    },
+    {
+      "album": {
+        "name": "In Other Words (Remixes)",
         "url": "https://open.spotify.com/album/2hlJOVajeNENWIZbLPOIbv"
       },
       "artists": [
@@ -1288,7 +1314,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 379590,
       "name": "Naina (Jay Pei Remix)",
       "url": "https://open.spotify.com/track/7zjeLjktkiYtfNUir9doos"

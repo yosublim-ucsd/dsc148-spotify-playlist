@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Greece.",
-  "num_followers": 99964,
+  "num_followers": 100015,
   "original_name": "Top 50 - Greece",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzU2NjA5NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzU2Njk2NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-12-22 09:24:51",
+      "added_at": "2023-12-23 10:22:20",
       "album": {
         "name": "1111",
         "url": "https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/4Fke1kIQz7pzIZYKqyzeNm"
     },
     {
-      "added_at": "2023-12-22 09:24:51",
+      "added_at": "2023-12-23 10:22:20",
       "album": {
         "name": "OAED",
         "url": "https://open.spotify.com/album/7svRvwnZElMgZmurQv8ROb"
@@ -57,23 +57,7 @@
       "url": "https://open.spotify.com/track/465fe0UfQPTxl1xK3judQQ"
     },
     {
-      "added_at": "2023-12-22 09:24:51",
-      "album": {
-        "name": "Allegra (N1)",
-        "url": "https://open.spotify.com/album/2R1Hjal9D3sWfmSt2Tsi4L"
-      },
-      "artists": [
-        {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Allegra (N1)",
-      "url": "https://open.spotify.com/track/7B528NXMGf4cqBJSK036yl"
-    },
-    {
-      "added_at": "2023-12-22 09:24:51",
+      "added_at": "2023-12-23 10:22:20",
       "album": {
         "name": "1111",
         "url": "https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf"
@@ -89,7 +73,23 @@
       "url": "https://open.spotify.com/track/5d2ETO2YDunJTXd5yuCCRA"
     },
     {
-      "added_at": "2023-12-22 09:24:51",
+      "added_at": "2023-12-23 10:22:20",
+      "album": {
+        "name": "Allegra (N1)",
+        "url": "https://open.spotify.com/album/2R1Hjal9D3sWfmSt2Tsi4L"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Allegra (N1)",
+      "url": "https://open.spotify.com/track/7B528NXMGf4cqBJSK036yl"
+    },
+    {
+      "added_at": "2023-12-23 10:22:20",
       "album": {
         "name": "VENDETTA",
         "url": "https://open.spotify.com/album/6BuTdBv3IDQijHQEtyMAU3"
@@ -113,31 +113,51 @@
       "url": "https://open.spotify.com/track/0qEyAUuAcmXEn54vqCZrRo"
     },
     {
-      "added_at": "2023-12-22 09:24:51",
+      "added_at": "2023-12-23 10:22:20",
       "album": {
-        "name": "1111",
-        "url": "https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf"
+        "name": "Svise Ta Fota",
+        "url": "https://open.spotify.com/album/3upXqSuXjAJdPA6wGIbOhb"
       },
       "artists": [
         {
-          "name": "TOQUEL",
-          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+          "name": "Fy",
+          "url": "https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA"
         },
         {
-          "name": "FLY LO",
-          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
-        },
-        {
-          "name": "Beyond",
-          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+          "name": "Mad Clip",
+          "url": "https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd"
         }
       ],
-      "duration_ms": 223543,
-      "name": "Ghetto",
-      "url": "https://open.spotify.com/track/2X30nxVvZWDLDRFY7uxCvp"
+      "duration_ms": 238733,
+      "name": "Svise Ta Fota",
+      "url": "https://open.spotify.com/track/3zyEFJzhVzqBv6odTlx0yc"
     },
     {
-      "added_at": "2023-12-22 09:24:51",
+      "added_at": "2023-12-23 10:22:20",
+      "album": {
+        "name": "NAPOLITANO",
+        "url": "https://open.spotify.com/album/36hKTuH7lGf8dkRMG2mxht"
+      },
+      "artists": [
+        {
+          "name": "Bres",
+          "url": "https://open.spotify.com/artist/3KqadO00DMt4lSqyEE5CTr"
+        },
+        {
+          "name": "Onad",
+          "url": "https://open.spotify.com/artist/4RTFt1VFxH6TYHIpVDCmpV"
+        },
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        }
+      ],
+      "duration_ms": 159857,
+      "name": "NAPOLITANO",
+      "url": "https://open.spotify.com/track/2H5PVvPo7degMbU5LSk1QI"
+    },
+    {
+      "added_at": "2023-12-23 10:22:20",
       "album": {
         "name": "NA PAS",
         "url": "https://open.spotify.com/album/5RV5eU4vDbYOy9RYb9vGDa"
@@ -157,7 +177,7 @@
       "url": "https://open.spotify.com/track/6LDOMYlK4NGHVwZYhpmkJB"
     },
     {
-      "added_at": "2023-12-22 09:24:51",
+      "added_at": "2023-12-23 10:22:20",
       "album": {
         "name": "ANASAINO KAI ZALIZOMAI",
         "url": "https://open.spotify.com/album/2UgIdLydL04XUygE4rqF6j"
@@ -181,7 +201,31 @@
       "url": "https://open.spotify.com/track/0Wl2xRQZH2c5GdYLJIGCaN"
     },
     {
-      "added_at": "2023-12-22 09:24:51",
+      "added_at": "2023-12-23 10:22:20",
+      "album": {
+        "name": "1111",
+        "url": "https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        },
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "duration_ms": 223543,
+      "name": "Ghetto",
+      "url": "https://open.spotify.com/track/2X30nxVvZWDLDRFY7uxCvp"
+    },
+    {
+      "added_at": "2023-12-23 10:22:20",
       "album": {
         "name": "H MASKA",
         "url": "https://open.spotify.com/album/5sJyWYQHi5jamYY4XZY4cY"
@@ -197,27 +241,7 @@
       "url": "https://open.spotify.com/track/3CdFVH8SOVnvT0sJLT198p"
     },
     {
-      "added_at": "2023-12-22 09:24:51",
-      "album": {
-        "name": "Gdysou",
-        "url": "https://open.spotify.com/album/3UTThh1dmkABnn4Jxq8AZs"
-      },
-      "artists": [
-        {
-          "name": "APON",
-          "url": "https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7"
-        },
-        {
-          "name": "Eleni Foureira",
-          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "Gdysou",
-      "url": "https://open.spotify.com/track/0jVTOnmmmhhbgriZBBV0JC"
-    },
-    {
-      "added_at": "2023-12-22 09:24:51",
+      "added_at": "2023-12-23 10:22:20",
       "album": {
         "name": "MONROE",
         "url": "https://open.spotify.com/album/6GZPBQUrndHeqKvnCsctNV"
@@ -241,7 +265,7 @@
       "url": "https://open.spotify.com/track/092cosCIwDmGcBJuWfClwz"
     },
     {
-      "added_at": "2023-12-22 09:24:51",
+      "added_at": "2023-12-23 10:22:20",
       "album": {
         "name": "1111",
         "url": "https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf"
@@ -257,7 +281,27 @@
       "url": "https://open.spotify.com/track/5p3F8ZyKGGGp4IZYRBr4pI"
     },
     {
-      "added_at": "2023-12-22 09:24:51",
+      "added_at": "2023-12-23 10:22:20",
+      "album": {
+        "name": "Gdysou",
+        "url": "https://open.spotify.com/album/3UTThh1dmkABnn4Jxq8AZs"
+      },
+      "artists": [
+        {
+          "name": "APON",
+          "url": "https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7"
+        },
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+        }
+      ],
+      "duration_ms": 175714,
+      "name": "Gdysou",
+      "url": "https://open.spotify.com/track/0jVTOnmmmhhbgriZBBV0JC"
+    },
+    {
+      "added_at": "2023-12-23 10:22:20",
       "album": {
         "name": "Ekptotos Aggelos",
         "url": "https://open.spotify.com/album/5H0DhhMEDdRfVACaXtZaKM"
@@ -273,27 +317,7 @@
       "url": "https://open.spotify.com/track/7axy7PVFNdKylwB5JEuPV6"
     },
     {
-      "added_at": "2023-12-22 09:24:51",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/5jiohoUO0HwpQ8l6VmeRvu"
-      },
-      "artists": [
-        {
-          "name": "Kidd",
-          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
-        },
-        {
-          "name": "Lil Koni",
-          "url": "https://open.spotify.com/artist/4md2OwykkDpAVx2keVXBBV"
-        }
-      ],
-      "duration_ms": 170322,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/4ZMb2KrcIvgVIxqFRti1Fl"
-    },
-    {
-      "added_at": "2023-12-22 09:24:51",
+      "added_at": "2023-12-23 10:22:20",
       "album": {
         "name": "MOTORA",
         "url": "https://open.spotify.com/album/6IFk0oash1opuBETfk2aIq"
@@ -313,27 +337,27 @@
       "url": "https://open.spotify.com/track/0nNlBtm1vuo9vlU9PYYuc5"
     },
     {
-      "added_at": "2023-12-22 09:24:51",
+      "added_at": "2023-12-23 10:22:20",
       "album": {
-        "name": "1111",
-        "url": "https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/5jiohoUO0HwpQ8l6VmeRvu"
       },
       "artists": [
         {
-          "name": "TOQUEL",
-          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
         },
         {
-          "name": "Bloody Hawk",
-          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+          "name": "Lil Koni",
+          "url": "https://open.spotify.com/artist/4md2OwykkDpAVx2keVXBBV"
         }
       ],
-      "duration_ms": 204950,
-      "name": "G63",
-      "url": "https://open.spotify.com/track/0fxSLGBSsetmHSO98Xm0Km"
+      "duration_ms": 170322,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/4ZMb2KrcIvgVIxqFRti1Fl"
     },
     {
-      "added_at": "2023-12-22 09:24:51",
+      "added_at": "2023-12-23 10:22:20",
       "album": {
         "name": "ATOUTALER",
         "url": "https://open.spotify.com/album/3sxEzMEqCbsQdlNmnATn5b"
@@ -357,7 +381,27 @@
       "url": "https://open.spotify.com/track/2ZTxf5fvD1tXEEyjUcYxN1"
     },
     {
-      "added_at": "2023-12-22 09:24:51",
+      "added_at": "2023-12-23 10:22:20",
+      "album": {
+        "name": "1111",
+        "url": "https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        },
+        {
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+        }
+      ],
+      "duration_ms": 204950,
+      "name": "G63",
+      "url": "https://open.spotify.com/track/0fxSLGBSsetmHSO98Xm0Km"
+    },
+    {
+      "added_at": "2023-12-23 10:22:20",
       "album": {
         "name": "1111",
         "url": "https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf"
@@ -381,7 +425,7 @@
       "url": "https://open.spotify.com/track/2HtBhiPTlE1bFElYq9kGv0"
     },
     {
-      "added_at": "2023-12-22 09:24:51",
+      "added_at": "2023-12-23 10:22:20",
       "album": {
         "name": "ME N U",
         "url": "https://open.spotify.com/album/2TXNynYdn4d6XXeYlGPQbZ"
@@ -401,7 +445,7 @@
       "url": "https://open.spotify.com/track/2ouWSRC1YsQX6JAwosfTFJ"
     },
     {
-      "added_at": "2023-12-22 09:24:51",
+      "added_at": "2023-12-23 10:22:20",
       "album": {
         "name": "DEJA VU",
         "url": "https://open.spotify.com/album/0ULK0fLsbe6FNPatNU84n8"
@@ -425,7 +469,7 @@
       "url": "https://open.spotify.com/track/3q6ayHzfLJIx22oQXoYlyi"
     },
     {
-      "added_at": "2023-12-22 09:24:51",
+      "added_at": "2023-12-23 10:22:20",
       "album": {
         "name": "Ena Tsigaro",
         "url": "https://open.spotify.com/album/442Xlp5x4FAf7tKdKEzP7t"
@@ -449,43 +493,7 @@
       "url": "https://open.spotify.com/track/64LhZ3gUis8EdONchbypRn"
     },
     {
-      "added_at": "2023-12-22 09:24:51",
-      "album": {
-        "name": "BANSKO",
-        "url": "https://open.spotify.com/album/0ElCX1NUW1Fcl7bVuCnQLL"
-      },
-      "artists": [
-        {
-          "name": "DIFF",
-          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
-        },
-        {
-          "name": "Sanko",
-          "url": "https://open.spotify.com/artist/0ijA6WxysUZ8vZQL7JkUfx"
-        }
-      ],
-      "duration_ms": 136258,
-      "name": "BANSKO",
-      "url": "https://open.spotify.com/track/0VojXGi7cSdHx1VdkdvvHV"
-    },
-    {
-      "added_at": "2023-12-22 09:24:51",
-      "album": {
-        "name": "Kolpa",
-        "url": "https://open.spotify.com/album/45Hyq3XbOFG3Gi0BgmTyWA"
-      },
-      "artists": [
-        {
-          "name": "FLY LO",
-          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
-        }
-      ],
-      "duration_ms": 141639,
-      "name": "Kolpa",
-      "url": "https://open.spotify.com/track/2XFfFjfXBNns7lqliJGwm1"
-    },
-    {
-      "added_at": "2023-12-22 09:24:51",
+      "added_at": "2023-12-23 10:22:20",
       "album": {
         "name": "STAR THS GEITONIAS",
         "url": "https://open.spotify.com/album/5BemJ5qfsd0JwSItCpfXQT"
@@ -509,7 +517,43 @@
       "url": "https://open.spotify.com/track/3wpspGmdx96y319VEc99LG"
     },
     {
-      "added_at": "2023-12-22 09:24:51",
+      "added_at": "2023-12-23 10:22:20",
+      "album": {
+        "name": "BANSKO",
+        "url": "https://open.spotify.com/album/0ElCX1NUW1Fcl7bVuCnQLL"
+      },
+      "artists": [
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        },
+        {
+          "name": "Sanko",
+          "url": "https://open.spotify.com/artist/0ijA6WxysUZ8vZQL7JkUfx"
+        }
+      ],
+      "duration_ms": 136258,
+      "name": "BANSKO",
+      "url": "https://open.spotify.com/track/0VojXGi7cSdHx1VdkdvvHV"
+    },
+    {
+      "added_at": "2023-12-23 10:22:20",
+      "album": {
+        "name": "Kolpa",
+        "url": "https://open.spotify.com/album/45Hyq3XbOFG3Gi0BgmTyWA"
+      },
+      "artists": [
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        }
+      ],
+      "duration_ms": 141639,
+      "name": "Kolpa",
+      "url": "https://open.spotify.com/track/2XFfFjfXBNns7lqliJGwm1"
+    },
+    {
+      "added_at": "2023-12-23 10:22:20",
       "album": {
         "name": "No Sleep",
         "url": "https://open.spotify.com/album/2peljNrepnuuVPc8PKSCpE"
@@ -529,27 +573,7 @@
       "url": "https://open.spotify.com/track/5nM5TStrOQt5HQAt4VzyHz"
     },
     {
-      "added_at": "2023-12-22 09:24:51",
-      "album": {
-        "name": "Oh Shit",
-        "url": "https://open.spotify.com/album/6wDrXGbR3sdZ00RVoQ8r4T"
-      },
-      "artists": [
-        {
-          "name": "Ggreco",
-          "url": "https://open.spotify.com/artist/1xmg9v1H65Mxv8bprL3yMU"
-        },
-        {
-          "name": "Kess",
-          "url": "https://open.spotify.com/artist/2ABXYPpVfktavZJlk8AqXJ"
-        }
-      ],
-      "duration_ms": 203708,
-      "name": "Oh Shit",
-      "url": "https://open.spotify.com/track/1WzaVtOgPWZ4FZp0W2L4wv"
-    },
-    {
-      "added_at": "2023-12-22 09:24:51",
+      "added_at": "2023-12-23 10:22:20",
       "album": {
         "name": "TRELES",
         "url": "https://open.spotify.com/album/6Vg7d2qe6GnYP5sZFJob96"
@@ -569,39 +593,27 @@
       "url": "https://open.spotify.com/track/6tUOOYiRM11eeIKPLOAnzi"
     },
     {
-      "added_at": "2023-12-22 09:24:51",
+      "added_at": "2023-12-23 10:22:20",
       "album": {
-        "name": "FREESTYLE",
-        "url": "https://open.spotify.com/album/5LYTgBm0qbgXX9UKdTKmeu"
+        "name": "Oh Shit",
+        "url": "https://open.spotify.com/album/6wDrXGbR3sdZ00RVoQ8r4T"
       },
       "artists": [
         {
-          "name": "FLY LO",
-          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
-        }
-      ],
-      "duration_ms": 137400,
-      "name": "FREESTYLE",
-      "url": "https://open.spotify.com/track/6mxVtY0iDdOkzcoqwbXdhI"
-    },
-    {
-      "added_at": "2023-12-22 09:24:51",
-      "album": {
-        "name": "Xadia",
-        "url": "https://open.spotify.com/album/5sXta99fwVczuHessCxrfv"
-      },
-      "artists": [
+          "name": "Ggreco",
+          "url": "https://open.spotify.com/artist/1xmg9v1H65Mxv8bprL3yMU"
+        },
         {
-          "name": "Yolte",
-          "url": "https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm"
+          "name": "Kess",
+          "url": "https://open.spotify.com/artist/2ABXYPpVfktavZJlk8AqXJ"
         }
       ],
-      "duration_ms": 137540,
-      "name": "Xadia",
-      "url": "https://open.spotify.com/track/69nHKmTVC5lflFCOlpH42T"
+      "duration_ms": 203708,
+      "name": "Oh Shit",
+      "url": "https://open.spotify.com/track/1WzaVtOgPWZ4FZp0W2L4wv"
     },
     {
-      "added_at": "2023-12-22 09:24:51",
+      "added_at": "2023-12-23 10:22:20",
       "album": {
         "name": "KAPOTE",
         "url": "https://open.spotify.com/album/5v05Um8jf5EAg4zyWgIZkN"
@@ -625,7 +637,23 @@
       "url": "https://open.spotify.com/track/4HrtkH6VWOqrstEi1psSux"
     },
     {
-      "added_at": "2023-12-22 09:24:51",
+      "added_at": "2023-12-23 10:22:20",
+      "album": {
+        "name": "FREESTYLE",
+        "url": "https://open.spotify.com/album/5LYTgBm0qbgXX9UKdTKmeu"
+      },
+      "artists": [
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        }
+      ],
+      "duration_ms": 137400,
+      "name": "FREESTYLE",
+      "url": "https://open.spotify.com/track/6mxVtY0iDdOkzcoqwbXdhI"
+    },
+    {
+      "added_at": "2023-12-23 10:22:20",
       "album": {
         "name": "Efhi",
         "url": "https://open.spotify.com/album/3XXC0tdNTNAWmsNjSCL8gB"
@@ -641,23 +669,27 @@
       "url": "https://open.spotify.com/track/2ILpP6nlR7QndbxtzLbZ7K"
     },
     {
-      "added_at": "2023-12-22 09:24:51",
+      "added_at": "2023-12-23 10:22:20",
       "album": {
-        "name": "Theos",
-        "url": "https://open.spotify.com/album/4UWatTNQsKUbtJaTDgnvke"
+        "name": "RARI",
+        "url": "https://open.spotify.com/album/4pTbNnlUMjVmSuIKDZC9io"
       },
       "artists": [
         {
-          "name": "Bossikan",
-          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "Rvchet",
+          "url": "https://open.spotify.com/artist/6ITj5WewzBmhbCBS1jxY75"
         }
       ],
-      "duration_ms": 199714,
-      "name": "Theos",
-      "url": "https://open.spotify.com/track/7KjuRZ4B0u6Z2aqwMRPNpE"
+      "duration_ms": 107755,
+      "name": "RARI",
+      "url": "https://open.spotify.com/track/7lh7uKY6G44jQYPojBQENI"
     },
     {
-      "added_at": "2023-12-22 09:24:51",
+      "added_at": "2023-12-23 10:22:20",
       "album": {
         "name": "ZIM ZIMMA",
         "url": "https://open.spotify.com/album/3lTstwWbLDTSetoaU1fh6l"
@@ -681,7 +713,27 @@
       "url": "https://open.spotify.com/track/2DzButYxP3txbMm0IJIFxX"
     },
     {
-      "added_at": "2023-12-22 09:24:51",
+      "added_at": "2023-12-23 10:22:20",
+      "album": {
+        "name": "5D",
+        "url": "https://open.spotify.com/album/7jODSwwcloG6ToBWAegBho"
+      },
+      "artists": [
+        {
+          "name": "Hawk",
+          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
+        },
+        {
+          "name": "X ORFEAS",
+          "url": "https://open.spotify.com/artist/1Kn0HYHz1lIn8tZQt8OSgC"
+        }
+      ],
+      "duration_ms": 102222,
+      "name": "Blue Iguana",
+      "url": "https://open.spotify.com/track/3cGYbsm5YpNMSSyUjTvlzw"
+    },
+    {
+      "added_at": "2023-12-23 10:22:20",
       "album": {
         "name": "Still Standing",
         "url": "https://open.spotify.com/album/0El9I9tw2H0ZgUj8HAmGc2"
@@ -705,67 +757,39 @@
       "url": "https://open.spotify.com/track/1nRCoRDnsczZSgVmSz41pY"
     },
     {
-      "added_at": "2023-12-22 09:24:51",
+      "added_at": "2023-12-23 10:22:20",
       "album": {
-        "name": "RARI",
-        "url": "https://open.spotify.com/album/4pTbNnlUMjVmSuIKDZC9io"
+        "name": "Xadia",
+        "url": "https://open.spotify.com/album/5sXta99fwVczuHessCxrfv"
       },
       "artists": [
         {
-          "name": "SNIK",
-          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
-        },
-        {
-          "name": "Rvchet",
-          "url": "https://open.spotify.com/artist/6ITj5WewzBmhbCBS1jxY75"
+          "name": "Yolte",
+          "url": "https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm"
         }
       ],
-      "duration_ms": 107755,
-      "name": "RARI",
-      "url": "https://open.spotify.com/track/7lh7uKY6G44jQYPojBQENI"
+      "duration_ms": 137540,
+      "name": "Xadia",
+      "url": "https://open.spotify.com/track/69nHKmTVC5lflFCOlpH42T"
     },
     {
-      "added_at": "2023-12-22 09:24:51",
+      "added_at": "2023-12-23 10:22:20",
       "album": {
-        "name": "5D",
-        "url": "https://open.spotify.com/album/7jODSwwcloG6ToBWAegBho"
+        "name": "Theos",
+        "url": "https://open.spotify.com/album/4UWatTNQsKUbtJaTDgnvke"
       },
       "artists": [
         {
-          "name": "Hawk",
-          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
-        },
-        {
-          "name": "X ORFEAS",
-          "url": "https://open.spotify.com/artist/1Kn0HYHz1lIn8tZQt8OSgC"
+          "name": "Bossikan",
+          "url": "https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM"
         }
       ],
-      "duration_ms": 102222,
-      "name": "Blue Iguana",
-      "url": "https://open.spotify.com/track/3cGYbsm5YpNMSSyUjTvlzw"
+      "duration_ms": 199714,
+      "name": "Theos",
+      "url": "https://open.spotify.com/track/7KjuRZ4B0u6Z2aqwMRPNpE"
     },
     {
-      "added_at": "2023-12-22 09:24:51",
-      "album": {
-        "name": "Reworks",
-        "url": "https://open.spotify.com/album/4DshbpqruJFwXsHF1QiFdF"
-      },
-      "artists": [
-        {
-          "name": "Haris Alexiou",
-          "url": "https://open.spotify.com/artist/4cgCxnsmy9kDcl3oA2BYRY"
-        },
-        {
-          "name": "LEX",
-          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
-        }
-      ],
-      "duration_ms": 231986,
-      "name": "Fyge - Reworks",
-      "url": "https://open.spotify.com/track/3Ooy6ekh20PiZPWW4qSUSY"
-    },
-    {
-      "added_at": "2023-12-22 09:24:51",
+      "added_at": "2023-12-23 10:22:20",
       "album": {
         "name": "1111",
         "url": "https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf"
@@ -785,7 +809,7 @@
       "url": "https://open.spotify.com/track/47ApwqRNvbUZ0QBoxpaxqn"
     },
     {
-      "added_at": "2023-12-22 09:24:51",
+      "added_at": "2023-12-23 10:22:20",
       "album": {
         "name": "MI TESORO",
         "url": "https://open.spotify.com/album/7ohX8NXS3jsHTP6OiFV2HD"
@@ -805,47 +829,7 @@
       "url": "https://open.spotify.com/track/3qbFPHgr08BxwBKVNQOWjJ"
     },
     {
-      "added_at": "2023-12-22 09:24:51",
-      "album": {
-        "name": "AGAPI (Remix)",
-        "url": "https://open.spotify.com/album/4ztpSrV0s93JCRmizu6tlW"
-      },
-      "artists": [
-        {
-          "name": "Sigma",
-          "url": "https://open.spotify.com/artist/71cZMt4XdCynLn983qeFow"
-        },
-        {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
-        }
-      ],
-      "duration_ms": 180645,
-      "name": "AGAPI - Remix",
-      "url": "https://open.spotify.com/track/7pQJFF9uu0GpVbHoDtW3sl"
-    },
-    {
-      "added_at": "2023-12-22 09:24:51",
-      "album": {
-        "name": "Gipsy Trap",
-        "url": "https://open.spotify.com/album/7e7kiV60iIbqGg5cR37sk7"
-      },
-      "artists": [
-        {
-          "name": "Lava",
-          "url": "https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O"
-        },
-        {
-          "name": "ROPEX LATERIO",
-          "url": "https://open.spotify.com/artist/2WpUXBjLm8j8tnrAZ4s9v9"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Gipsy Trap",
-      "url": "https://open.spotify.com/track/60vt0ejRx1TMZ5tlsTvwUD"
-    },
-    {
-      "added_at": "2023-12-22 09:24:51",
+      "added_at": "2023-12-23 10:22:20",
       "album": {
         "name": "Koita Me",
         "url": "https://open.spotify.com/album/28Fclov99SuAnq1kEgxtVk"
@@ -865,59 +849,67 @@
       "url": "https://open.spotify.com/track/0ZXqymmpvFMwb2FmR48C6F"
     },
     {
-      "added_at": "2023-12-22 09:24:51",
+      "added_at": "2023-12-23 10:22:20",
       "album": {
-        "name": "Efhi",
-        "url": "https://open.spotify.com/album/3XXC0tdNTNAWmsNjSCL8gB"
+        "name": "AGAPI (Remix)",
+        "url": "https://open.spotify.com/album/4ztpSrV0s93JCRmizu6tlW"
       },
       "artists": [
         {
-          "name": "Anastasia",
-          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
-        }
-      ],
-      "duration_ms": 180326,
-      "name": "Floga",
-      "url": "https://open.spotify.com/track/57uiFyexstQyJ04VAAXa49"
-    },
-    {
-      "added_at": "2023-12-22 09:24:51",
-      "album": {
-        "name": "PAPAGOU",
-        "url": "https://open.spotify.com/album/0D5o2Ne3OXuErZZC6KP717"
-      },
-      "artists": [
-        {
-          "name": "SIDARTA",
-          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
-        }
-      ],
-      "duration_ms": 155714,
-      "name": "PAPAGOU",
-      "url": "https://open.spotify.com/track/2Z165nc2FmSVJzzkqCskpT"
-    },
-    {
-      "added_at": "2023-12-22 09:24:51",
-      "album": {
-        "name": "1111",
-        "url": "https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf"
-      },
-      "artists": [
-        {
-          "name": "TOQUEL",
-          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/71cZMt4XdCynLn983qeFow"
         },
         {
-          "name": "Beyond",
-          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
         }
       ],
-      "duration_ms": 160146,
-      "name": "Drive By",
-      "url": "https://open.spotify.com/track/78OyiEbWmcxWGWyNVUugAY"
+      "duration_ms": 180645,
+      "name": "AGAPI - Remix",
+      "url": "https://open.spotify.com/track/7pQJFF9uu0GpVbHoDtW3sl"
     },
     {
-      "added_at": "2023-12-22 09:24:51",
+      "added_at": "2023-12-23 10:22:20",
+      "album": {
+        "name": "Gipsy Trap",
+        "url": "https://open.spotify.com/album/7e7kiV60iIbqGg5cR37sk7"
+      },
+      "artists": [
+        {
+          "name": "Lava",
+          "url": "https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O"
+        },
+        {
+          "name": "ROPEX LATERIO",
+          "url": "https://open.spotify.com/artist/2WpUXBjLm8j8tnrAZ4s9v9"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Gipsy Trap",
+      "url": "https://open.spotify.com/track/60vt0ejRx1TMZ5tlsTvwUD"
+    },
+    {
+      "added_at": "2023-12-23 10:22:20",
+      "album": {
+        "name": "Reworks",
+        "url": "https://open.spotify.com/album/4DshbpqruJFwXsHF1QiFdF"
+      },
+      "artists": [
+        {
+          "name": "Haris Alexiou",
+          "url": "https://open.spotify.com/artist/4cgCxnsmy9kDcl3oA2BYRY"
+        },
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/3ObDUGvTK5W2QJqBQyIkm1"
+        }
+      ],
+      "duration_ms": 231986,
+      "name": "Fyge - Reworks",
+      "url": "https://open.spotify.com/track/3Ooy6ekh20PiZPWW4qSUSY"
+    },
+    {
+      "added_at": "2023-12-23 10:22:20",
       "album": {
         "name": "Merry Christmas From Brenda Lee",
         "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
@@ -933,7 +925,71 @@
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
     },
     {
-      "added_at": "2023-12-22 09:24:51",
+      "added_at": "2023-12-23 10:22:20",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 241106,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "added_at": "2023-12-23 10:22:20",
+      "album": {
+        "name": "Efhi",
+        "url": "https://open.spotify.com/album/3XXC0tdNTNAWmsNjSCL8gB"
+      },
+      "artists": [
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        }
+      ],
+      "duration_ms": 180326,
+      "name": "Floga",
+      "url": "https://open.spotify.com/track/57uiFyexstQyJ04VAAXa49"
+    },
+    {
+      "added_at": "2023-12-23 10:22:20",
+      "album": {
+        "name": "The Singles: Echoes from the Edge of Heaven",
+        "url": "https://open.spotify.com/album/2wyHNTisH8PtZG8OG58xr6"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 265960,
+      "name": "Last Christmas - Single Version",
+      "url": "https://open.spotify.com/track/06qMRF18gwbOYYbnP2du6i"
+    },
+    {
+      "added_at": "2023-12-23 10:22:20",
+      "album": {
+        "name": "PAPAGOU",
+        "url": "https://open.spotify.com/album/0D5o2Ne3OXuErZZC6KP717"
+      },
+      "artists": [
+        {
+          "name": "SIDARTA",
+          "url": "https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp"
+        }
+      ],
+      "duration_ms": 155714,
+      "name": "PAPAGOU",
+      "url": "https://open.spotify.com/track/2Z165nc2FmSVJzzkqCskpT"
+    },
+    {
+      "added_at": "2023-12-23 10:22:20",
       "album": {
         "name": "WKEANOUS",
         "url": "https://open.spotify.com/album/3ozfHeYk4S4aV11Czfc4Ul"
@@ -955,62 +1011,6 @@
       "duration_ms": 150857,
       "name": "WKEANOUS",
       "url": "https://open.spotify.com/track/4R2e2aZ1oHB2kZkJTKJtCY"
-    },
-    {
-      "added_at": "2023-12-22 09:24:51",
-      "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 241106,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
-    },
-    {
-      "added_at": "2023-12-22 09:24:51",
-      "album": {
-        "name": "1111",
-        "url": "https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf"
-      },
-      "artists": [
-        {
-          "name": "TOQUEL",
-          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
-        },
-        {
-          "name": "Roran",
-          "url": "https://open.spotify.com/artist/4Uy9871qRPu27CXO4umdZj"
-        },
-        {
-          "name": "Beyond",
-          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
-        }
-      ],
-      "duration_ms": 169569,
-      "name": "Ferma",
-      "url": "https://open.spotify.com/track/46EdocEk7a205VzqQAjH84"
-    },
-    {
-      "added_at": "2023-12-22 09:24:51",
-      "album": {
-        "name": "Beverly Hills",
-        "url": "https://open.spotify.com/album/2VntvMP9WSDqPXlsFAbhKW"
-      },
-      "artists": [
-        {
-          "name": "TOQUEL",
-          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
-        }
-      ],
-      "duration_ms": 123045,
-      "name": "Skoni",
-      "url": "https://open.spotify.com/track/6YfzfBiC4dpF5yv63QcLCY"
     }
   ],
   "unique_name": "Top 50 - Greece",

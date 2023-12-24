@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h7wzI2y3tS.md) - [plain]
 
 > Les plus grands hits en version berceuse
 
-[Spotify](https://open.spotify.com/user/spotify) - 635 likes - 144 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 637 likes - 144 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,14 +39,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h7wzI2y3tS.md) - [plain]
 | 29 | [Timber](https://open.spotify.com/track/5uSF0anjeEnPo5JS9yfdbv) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Timber](https://open.spotify.com/album/60hAn750tpdxN8PydWHX2u) | 3:00 |
 | 30 | [Can't Stop The Feeling!](https://open.spotify.com/track/2oeC6vSFnPgvXU9T4w2k2a) | [Lullapop](https://open.spotify.com/artist/1sJhbiQRSIKZeTYEZfzBSV) | [Lullapop](https://open.spotify.com/album/58uFEGoDHIgY8Kc5hwPUQx) | 2:35 |
 | 31 | [Too Good at Goodbyes](https://open.spotify.com/track/5ifrGYS4fTaKfu4NuTKGV0) | [Tiny Tracks](https://open.spotify.com/artist/42QKiNCqr36B0gfgETuA9t) | [Lullaby Versions of Sam Smith](https://open.spotify.com/album/5CbtFpJXUSEEzGB9siN84f) | 3:57 |
-| 32 | [Boy with Luv \- Instrumental](https://open.spotify.com/track/3xnC1yyzjvuX7lS6aR7xha) | [Lullaby Players](https://open.spotify.com/artist/1IVUK6wK1PvFI6adwUcoc4) | [Lullaby Pop Hits 2019 \(Instrumental\)](https://open.spotify.com/album/1hLfVcVC8KhpQgMJLZf8nL) | 4:01 |
+| 32 | [Boy with Luv \- Instrumental](https://open.spotify.com/track/0YOVA4Sln8XQFaCcA8gPKC) | [Lullaby Players](https://open.spotify.com/artist/1IVUK6wK1PvFI6adwUcoc4) | [Lullaby Pop Hits 2019 \(Instrumental\)](https://open.spotify.com/album/1DIDEhslScZfEet6zUTZaD) | 4:01 |
 | 33 | [Circles](https://open.spotify.com/track/3nInmJ1UDvn6yPZpp6H9io) | [Sweet Little Band](https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy) | [Babies Go Post Malone](https://open.spotify.com/album/3NgLdzfakWC7MN5QPwbdOA) | 3:42 |
 | 34 | [Say My Name \(Lullaby Rendition\)](https://open.spotify.com/track/5PHSSsnpRh12mUdUsfqkLE) | [Jammy Jams](https://open.spotify.com/artist/6dnGWqFchmCpwCE47YtG7d) | [Once Upon a Rhyme 2: Hip\-Hop and R&B Go Lullaby](https://open.spotify.com/album/6JevohKg2dfYCm5SFPaqMf) | 4:29 |
 | 35 | [The Wire](https://open.spotify.com/track/56JwPsJNK0Y3m49Bw8U4hj) | [Twinkle Twinkle Little Rock Star](https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d) | [Lullaby Versions of HAIM](https://open.spotify.com/album/5npJjMTAp9jPUietDwNmP1) | 4:52 |
 | 36 | [Dani California](https://open.spotify.com/track/4ayArn3IkRyZvb41mgjshN) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Lullaby Renditions of Red Hot Chili Peppers](https://open.spotify.com/album/4Fck4epvhHLWVUwH5UoGad) | 4:33 |
 | 37 | [Starboy](https://open.spotify.com/track/6vclrqC7zoLYUXhYb6HEcv) | [Sleeping Panda](https://open.spotify.com/artist/1laYpKGp2Y09VP6tBSwcGN) | [Lullaby Renditions of The Weeknd](https://open.spotify.com/album/7Dsyi1f0zuqxR96r8buXzH) | 3:46 |
 | 38 | [Believe](https://open.spotify.com/track/2u7DvpLjLtGRLozJbmbW5L) | [Twinkle Twinkle Little Rock Star](https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d) | [Lullaby Versions of Cher](https://open.spotify.com/album/72YsufTbnHR7mrR9gBMZAF) | 4:54 |
-| 39 | [On Top of the World \- Instrumental](https://open.spotify.com/track/5GwRYOU41hBdpVuhe8lJmt) | [Lullaby Players](https://open.spotify.com/artist/1IVUK6wK1PvFI6adwUcoc4) | [Lullaby Renditions of Imagine Dragons \(Instrumental\)](https://open.spotify.com/album/7kgjtb7obhf5Njbtg8J0I0) | 3:28 |
+| 39 | [On Top of the World \- Instrumental](https://open.spotify.com/track/0HwkaLMkyDMTYMhJKaEAV8) | [Lullaby Players](https://open.spotify.com/artist/1IVUK6wK1PvFI6adwUcoc4) | [Lullaby Renditions of Imagine Dragons \(Instrumental\)](https://open.spotify.com/album/4Vvs0i4IzEDwjeCiKRYGZ8) | 3:28 |
 | 40 | [No Diggity \(Lullaby Rendition\)](https://open.spotify.com/track/0ks98iDa3jR3lWZjGFDx9Q) | [Jammy Jams](https://open.spotify.com/artist/6dnGWqFchmCpwCE47YtG7d) | [Once Upon a Rhyme 3: Hip\-Hop and R&B Go Lullaby](https://open.spotify.com/album/4ikannw1H0xJQrU3a3Foq3) | 4:00 |
 | 41 | [Chantaje](https://open.spotify.com/track/6l5j1ZCp8sIKXRNUp7Ok3Z) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Lullaby Renditions of Shakira](https://open.spotify.com/album/1DmePngvGPPMliMwCzGv20) | 3:04 |
 | 42 | [Don't Stop the Party](https://open.spotify.com/track/17Y9v5FmcWhQm77Ml9pZxW) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Lullaby Renditions of Pitbull](https://open.spotify.com/album/5wqNjMgG40aBVGyZxDnvOY) | 2:30 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h7wzI2y3tS.md) - [plain]
 | 61 | [Let There Be Love](https://open.spotify.com/track/6Y2alcIT5rQQM1nUVVumLV) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Sounds Of The 00s, Vol\. 4](https://open.spotify.com/album/2BBj0HyDjtX5odk9NckBB4) | 4:15 |
 | 62 | [Island in the Sun](https://open.spotify.com/track/0Bcbyxocy7r1AXdTDOKtwW) | [Sparrow Sleeps](https://open.spotify.com/artist/2VURgzr9TpBmYJEqU25RUw) | [The Bed Album: Lullaby renditions of Weezer songs](https://open.spotify.com/album/20s4tp5z91zvUAyfMrVIrT) | 5:14 |
 | 63 | [I've Had the Time of My Life](https://open.spotify.com/track/7aSB7Cdn4Y65D83754SqtW) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Sounds of the 80s, Vol\. 6](https://open.spotify.com/album/7MKcCEhNvSKkYAH4Kkjf11) | 4:09 |
-| 64 | [Juice \- Instrumental](https://open.spotify.com/track/6WIHzFZtX1tbht0AUHh0Nk) | [Lullaby Players](https://open.spotify.com/artist/1IVUK6wK1PvFI6adwUcoc4) | [Lullaby Pop Hits 2019 \(Instrumental\)](https://open.spotify.com/album/1hLfVcVC8KhpQgMJLZf8nL) | 3:15 |
+| 64 | [Juice \- Instrumental](https://open.spotify.com/track/16CtmDtXxonWwcxnBMy2CK) | [Lullaby Players](https://open.spotify.com/artist/1IVUK6wK1PvFI6adwUcoc4) | [Lullaby Pop Hits 2019 \(Instrumental\)](https://open.spotify.com/album/1DIDEhslScZfEet6zUTZaD) | 3:15 |
 | 65 | [Hate Me](https://open.spotify.com/track/1J8HuSRuXC31iIFsdxPdHx) | [Twinkle Twinkle Little Rock Star](https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d) | [Lullaby Versions of Juice WRLD](https://open.spotify.com/album/1ei6vPD5Cln0zrTTt7gAGo) | 4:39 |
 | 66 | [Boyfriend](https://open.spotify.com/track/1kMEvOBQ0S4WtB24uREzfJ) | [Twinkle Twinkle Little Rock Star](https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d) | [Lullaby Versions of Justin Bieber \(Deluxe Edition\)](https://open.spotify.com/album/300DLSxhZxL9Im1MMOBCWp) | 4:08 |
 | 67 | [Bitter Sweet Symphony \(Lullaby Rendition\)](https://open.spotify.com/track/4dwb5v9B530syeulNPfViY) | [Jammy Jams](https://open.spotify.com/artist/6dnGWqFchmCpwCE47YtG7d) | [Lullabylooza 2: More '90s Alternative Goes Lullaby](https://open.spotify.com/album/0z77zXmGzk6BYLXjXMmYh5) | 4:20 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2h7wzI2y3tS.md) - [plain]
 | 143 | [Born This Way](https://open.spotify.com/track/3AKDl359WjrOcyBkR5331m) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Lullaby Renditions of Lady Gaga](https://open.spotify.com/album/2MNgwRdzShtYNLMmSo0YVq) | 3:17 |
 | 144 | [Firework](https://open.spotify.com/track/3MoU4kiMCEvlq9kTMROYPj) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Lullaby Renditions of Katy Perry](https://open.spotify.com/album/4sTJz7tUhpgkow6HopMLZy) | 3:09 |
 
-Snapshot ID: `MCwwMTE0YTk3ZTZiMzYyMjZjYzk0YzY0Njg2NjNhYmI1YjVmMTU0OGVh`
+Snapshot ID: `MCw4NGU0NjZkNDhkNjQzZDg5ZjJiOGZhOTQ4MzdhZDg5ZjFmMjk1OGIx`

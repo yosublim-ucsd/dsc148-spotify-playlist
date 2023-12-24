@@ -114,6 +114,28 @@
     {
       "album": {
         "name": "Evening Star",
+        "url": "https://open.spotify.com/album/1nVnbkq96iZzBMp57Xzx1V"
+      },
+      "artists": [
+        {
+          "name": "Robert Fripp",
+          "url": "https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263362,
+      "name": "An Index Of Metals V",
+      "url": "https://open.spotify.com/track/4dRt8t0VYP8LgobA1QWUvX"
+    },
+    {
+      "album": {
+        "name": "Evening Star",
         "url": "https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4"
       },
       "artists": [
@@ -128,7 +150,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 263362,
       "name": "An Index Of Metals V",
       "url": "https://open.spotify.com/track/6eoQETbC7HlbRUOSQg5rHB"
@@ -858,10 +880,32 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 377844,
       "name": "The Heavenly Music Corporation I",
       "url": "https://open.spotify.com/track/4jtmi6X0S8GcPZv7rsqXaL"
+    },
+    {
+      "album": {
+        "name": "No Pussyfooting",
+        "url": "https://open.spotify.com/album/7090pUnNlv1lklI2lI2X6J"
+      },
+      "artists": [
+        {
+          "name": "Robert Fripp",
+          "url": "https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377844,
+      "name": "The Heavenly Music Corporation I",
+      "url": "https://open.spotify.com/track/69mvqf8XQoldmh6RLcvEjb"
     },
     {
       "album": {
@@ -1064,10 +1108,32 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 329468,
       "name": "Wind On Water",
       "url": "https://open.spotify.com/track/3PpLfTKoQtN2s2GPmrSrWt"
+    },
+    {
+      "album": {
+        "name": "Evening Star",
+        "url": "https://open.spotify.com/album/1nVnbkq96iZzBMp57Xzx1V"
+      },
+      "artists": [
+        {
+          "name": "Robert Fripp",
+          "url": "https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329468,
+      "name": "Wind On Water",
+      "url": "https://open.spotify.com/track/6CHo2rZCwJ5v6JKLzdc8Fe"
     },
     {
       "album": {

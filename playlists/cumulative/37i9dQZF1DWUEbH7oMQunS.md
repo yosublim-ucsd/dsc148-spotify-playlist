@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ["More Love, More Power"](https://open.spotify.com/track/1oh3kBFeCK4HGCHQwM5JKH) | [Eric Nordhoff](https://open.spotify.com/artist/6egf9BaYi17rYFHpsrELXd) | [Spirit Stretch \(For Christian Yoga, Relaxation and Massage\)](https://open.spotify.com/album/1MmYwTLBBXB1tScSdPUucb) | 5:46 | 2018-02-14 |  |
+| ["More Love, More Power"](https://open.spotify.com/track/1oh3kBFeCK4HGCHQwM5JKH) | [Eric Nordhoff](https://open.spotify.com/artist/6egf9BaYi17rYFHpsrELXd) | [Spirit Stretch \(For Christian Yoga, Relaxation and Massage\)](https://open.spotify.com/album/1MmYwTLBBXB1tScSdPUucb) | 5:46 | 2018-02-14 | 2023-12-24 |
 | [\(73\) the Nearness of You](https://open.spotify.com/track/6Srfwh0SwoVrtQCir2Ywo7) | [Loud Harp](https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu) | [Asaph](https://open.spotify.com/album/50pG0JOvL2leQ83ftMLLf5) | 5:42 | 2018-02-14 |  |
 | [\* Consecrate \*](https://open.spotify.com/track/36yXoh8itnI8XhHmKYfhUK) | [Parachute Band](https://open.spotify.com/artist/32vh2QQNm1zEgZHFREPiUk) | [Matins : Vespers](https://open.spotify.com/album/3OhQyo52BxUJLD1FaquZPv) | 3:56 | 2018-02-14 |  |
 | [10,000 Reasons \(Bless the Lord\)](https://open.spotify.com/track/1fGxhZsxHPKUqfWgs1VFXN) | [Holy Communion Instrumental Duo](https://open.spotify.com/artist/7HLH8rV5mrT0SesUoaKEEr) | [Contemporary Worship Hits](https://open.spotify.com/album/4tSzeF6Rds3QY0NpUOf5s0) | 2:23 | 2018-02-14 |  |
@@ -114,7 +114,7 @@
 | [Same God](https://open.spotify.com/track/3kHh1th3S2di1tg5XoZTzU) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Same God](https://open.spotify.com/album/294x9L2GHOfyL9k0Ufo1qh) | 3:49 | 2023-07-28 |  |
 | [Saturn \(Instrumental\)](https://open.spotify.com/track/3ruBQU9YbaCP3DchyKNK4V) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Atlas: Space \(Deluxe\)](https://open.spotify.com/album/4D4rqEvVjxiQfN4iTUCiQH) | 4:49 | 2018-02-14 |  |
 | [Shepherd of My Soul](https://open.spotify.com/track/5JNhtYiyGpQQ6pDFtfpLLz) | [Rivers & Robots](https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4) | [All Things New](https://open.spotify.com/album/3jXUhc7v2rGvSJss6cxt6a) | 5:46 | 2018-02-14 |  |
-| [Smile](https://open.spotify.com/track/0w5nj3eNbOWsvbKpzbuVju) | [Sarah Hawkyard](https://open.spotify.com/artist/3CgmDph153yB1nP3meLZkr) | [Smile](https://open.spotify.com/album/0i2YjFJvFKKBD05cA0Omar) | 3:39 | 2023-07-28 | 2023-12-23 |
+| [Smile](https://open.spotify.com/track/0w5nj3eNbOWsvbKpzbuVju) | [Sarah Hawkyard](https://open.spotify.com/artist/3CgmDph153yB1nP3meLZkr) | [Smile](https://open.spotify.com/album/0i2YjFJvFKKBD05cA0Omar) | 3:39 | 2023-07-28 |  |
 | [Something About The Name \- Live](https://open.spotify.com/track/5oGuuSjAWob9OpezxoQbIH) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [Spirit Of God](https://open.spotify.com/album/760mWuRWJIjmm8Y1F5G71J) | 4:50 | 2023-07-28 |  |
 | [Spoken](https://open.spotify.com/track/3M0i0Pxv9iYUdj6siKwiyv) | [The Church Vessel](https://open.spotify.com/artist/56kazKXQjQT2Xy9k8HM5so) | [Rekindle](https://open.spotify.com/album/6K5RqO1b7s6iQhF0FOhrJk) | 5:27 | 2018-02-14 | 2022-07-29 |
 | [Spoken](https://open.spotify.com/track/6ShGxxZtve3jGLNtKhW9Um) | [The Church Vessel](https://open.spotify.com/artist/56kazKXQjQT2Xy9k8HM5so) | [Rekindle](https://open.spotify.com/album/64qrjQnePZQS6tASw3qiVQ) | 5:27 | 2018-02-14 |  |

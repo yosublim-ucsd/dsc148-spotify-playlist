@@ -150,10 +150,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 304933,
       "name": "Chase Me",
       "url": "https://open.spotify.com/track/1lFUQF7P2Q7hNCMTQTJAkk"
+    },
+    {
+      "album": {
+        "name": "Live for Ya Ass",
+        "url": "https://open.spotify.com/album/1ltAoExO0WJSGzZA0qVrxH"
+      },
+      "artists": [
+        {
+          "name": "Con Funk Shun",
+          "url": "https://open.spotify.com/artist/2hUkfSXyuDfQbUeNOShRiz"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304933,
+      "name": "Chase Me",
+      "url": "https://open.spotify.com/track/3vhfiewsuPAtFycAwemxa8"
     },
     {
       "album": {
@@ -683,6 +701,24 @@
     },
     {
       "album": {
+        "name": "Original Artist Hit List: Lakeside",
+        "url": "https://open.spotify.com/album/6J0XVUXTqVxZHSmBt4cgsf"
+      },
+      "artists": [
+        {
+          "name": "Lakeside",
+          "url": "https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395213,
+      "name": "Outrageous - Live",
+      "url": "https://open.spotify.com/track/2hSp6cCkYSeaDHAwrzEJrF"
+    },
+    {
+      "album": {
         "name": "Fresh Takes (Live)",
         "url": "https://open.spotify.com/album/3i83GqrBewJvgNLIxmwkgk"
       },
@@ -694,7 +730,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 395213,
       "name": "Outrageous - Live",
       "url": "https://open.spotify.com/track/51WQakjhwsoPZ1Wr4clgoa"
@@ -802,10 +838,28 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 157773,
       "name": "She's Strange",
       "url": "https://open.spotify.com/track/1oQRTKLcFe5E3ZObO8iz8b"
+    },
+    {
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/4V8nXvKMseNu6ey3W8gN0c"
+      },
+      "artists": [
+        {
+          "name": "Cameo",
+          "url": "https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157773,
+      "name": "She's Strange",
+      "url": "https://open.spotify.com/track/78AYdEtpEKV8KNjWnB3cjS"
     },
     {
       "album": {

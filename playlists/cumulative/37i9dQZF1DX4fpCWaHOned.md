@@ -4,7 +4,7 @@
 
 > You're on top of the world\. Don't forget it.
 
-467 songs - 1 day 1 hr 56 min
+468 songs - 1 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,7 +254,7 @@
 | [Love Again](https://open.spotify.com/track/1imMjt1YGNebtrtTAprKV7) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9) | 4:18 | 2021-07-12 | 2022-02-04 |
 | [Love Me More](https://open.spotify.com/track/16MQETUgqXwY4lZcyRafU3) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Me More](https://open.spotify.com/album/59NkDiHvjWqXHHIxzoWAUe) | 3:10 | 2022-05-27 | 2023-08-05 |
 | [Love Myself](https://open.spotify.com/track/0xCmwofyCiXdhoBsMSNj2w) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Love Myself](https://open.spotify.com/album/7IOGGleQTdhE3TVCb9vMzt) | 3:38 | 2019-07-29\* | 2022-04-19 |
-| [Love Myself](https://open.spotify.com/track/36phXHOKx8rO7CMp2vNX4x) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [HAIZ](https://open.spotify.com/album/1ABRc0UFHY3x6rKQeFBTQ0) | 3:38 | 2022-11-04 |  |
+| [Love Myself](https://open.spotify.com/track/36phXHOKx8rO7CMp2vNX4x) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [HAIZ](https://open.spotify.com/album/1ABRc0UFHY3x6rKQeFBTQ0) | 3:38 | 2022-11-04 | 2023-12-24 |
 | [Love Myself](https://open.spotify.com/track/36y5E5cxFbz6xU8UqT7Iv7) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Was It Even Real?](https://open.spotify.com/album/6UNHnZrpLH56Bk5okVGlI2) | 3:33 | 2019-07-29\* | 2022-04-16 |
 | [Love Myself](https://open.spotify.com/track/5zxDNiK8R1nnoTrdhAUrrC) | [RONDÉ](https://open.spotify.com/artist/4hj9dun9KpnBukLv7Hgfkr) | [Love Myself](https://open.spotify.com/album/02CMBTAlxSxs1X5hj8fDSf) | 2:59 | 2022-04-01 | 2022-04-20 |
 | [Love Not Loving You](https://open.spotify.com/track/1VSsfA5Z37dSNPqiK5dxmM) | [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [Love Not Loving You](https://open.spotify.com/album/0rOYs1ImwkyIJQcfJJFTSo) | 3:34 | 2020-05-23 | 2021-10-23 |
@@ -300,6 +300,7 @@
 | [No Scrubs](https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 3:34 | 2020-06-12 | 2022-04-19 |
 | [no tears left to cry](https://open.spotify.com/track/5SxkdsY1ufZzoq9iXceLw9) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [no tears left to cry](https://open.spotify.com/album/2AkKk7DFnT2IV1gPcq7RCQ) | 3:25 | 2019-07-29\* | 2021-10-14 |
 | [Not A Love Song](https://open.spotify.com/track/45iMwUi9OBJlEIsTJ4AStR) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Damaged Vol\. 1](https://open.spotify.com/album/5bXNAkjUFzkJNLZ5JmAq2m) | 3:12 | 2019-07-29\* | 2021-07-27 |
+| [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj) | 2:50 | 2023-12-15 |  |
 | [Not My Job](https://open.spotify.com/track/6uxNcrFJL76jjkufNmI0xc) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/4r7OqXkih4qYvozSZEGYyG) | 2:54 | 2022-09-23 | 2022-09-30 |
 | [Nothing to Regret](https://open.spotify.com/track/3C2xQqHVkhA1Ht17SzPRke) | [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Nothing to Regret](https://open.spotify.com/album/4UreP5hWmaXUj0b6IoKGTj) | 3:28 | 2019-07-29\* | 2021-10-16 |
 | [Obsessed](https://open.spotify.com/track/3IcIIZMMS7UArJJPtEHXG8) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel](https://open.spotify.com/album/3RPImDZ7Ihh5YR5iJh1gH1) | 4:02 | 2022-03-25 | 2022-04-20 |

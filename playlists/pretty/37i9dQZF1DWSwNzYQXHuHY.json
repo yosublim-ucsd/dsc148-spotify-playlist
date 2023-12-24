@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 9738,
+  "num_followers": 9733,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGRjMDAzYjgwNDNhMTA4OWY3NjFkMzQ3ZWE5YzZhMGRmYmM1ZjU3",
+  "snapshot_id": "MCwxZTI5NDgyYjcyYzJjZmM0OWJlNTJkODkwZGU4ZWUxNmJjNTI3YzQ0",
   "tracks": [
     {
       "added_at": "2023-12-09 12:43:14",
@@ -79,6 +79,26 @@
     {
       "added_at": "2023-12-09 12:43:14",
       "album": {
+        "name": "What are we (Feat. PARK JIWON of fromis_9)",
+        "url": "https://open.spotify.com/album/6FhNOEipXqOY1vjsPTHVAa"
+      },
+      "artists": [
+        {
+          "name": "BAEKHO",
+          "url": "https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf"
+        },
+        {
+          "name": "PARK JI WON (fromis_9)",
+          "url": "https://open.spotify.com/artist/1j9Do4dv7NDwi8GrlTdzzr"
+        }
+      ],
+      "duration_ms": 178226,
+      "name": "What are we (Feat. PARK JIWON of fromis_9)",
+      "url": "https://open.spotify.com/track/0obzpcyr6SrKcBcm2oytW3"
+    },
+    {
+      "added_at": "2023-12-09 12:43:14",
+      "album": {
         "name": "Some",
         "url": "https://open.spotify.com/album/2r1oAmMSnUasXigJ2fTwk6"
       },
@@ -99,26 +119,6 @@
       "duration_ms": 211374,
       "name": "Some (feat. Lil Boi)",
       "url": "https://open.spotify.com/track/0g1AmSKokPboFrxmG1dxKx"
-    },
-    {
-      "added_at": "2023-12-09 12:43:14",
-      "album": {
-        "name": "What are we (Feat. PARK JIWON of fromis_9)",
-        "url": "https://open.spotify.com/album/6FhNOEipXqOY1vjsPTHVAa"
-      },
-      "artists": [
-        {
-          "name": "BAEKHO",
-          "url": "https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf"
-        },
-        {
-          "name": "PARK JI WON (fromis_9)",
-          "url": "https://open.spotify.com/artist/1j9Do4dv7NDwi8GrlTdzzr"
-        }
-      ],
-      "duration_ms": 178226,
-      "name": "What are we (Feat. PARK JIWON of fromis_9)",
-      "url": "https://open.spotify.com/track/0obzpcyr6SrKcBcm2oytW3"
     },
     {
       "added_at": "2023-12-09 12:43:14",
@@ -191,6 +191,22 @@
     {
       "added_at": "2023-12-09 12:43:14",
       "album": {
+        "name": "Why?",
+        "url": "https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "duration_ms": 147373,
+      "name": "Why?",
+      "url": "https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM"
+    },
+    {
+      "added_at": "2023-12-09 12:43:14",
+      "album": {
         "name": "Can I Love ?",
         "url": "https://open.spotify.com/album/3RMvO654eEqnwdmZCwHFs5"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 229750,
       "name": "Can I Love ? (feat. youra, Meego)",
       "url": "https://open.spotify.com/track/4T2cOfemKB0owJS2JOu7dF"
-    },
-    {
-      "added_at": "2023-12-09 12:43:14",
-      "album": {
-        "name": "Why?",
-        "url": "https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ"
-      },
-      "artists": [
-        {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
-        }
-      ],
-      "duration_ms": 147373,
-      "name": "Why?",
-      "url": "https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM"
     },
     {
       "added_at": "2023-12-09 12:43:14",
@@ -252,7 +252,7 @@
       },
       "artists": [
         {
-          "name": "10CM",
+          "name": "10cm",
           "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
         }
       ],
@@ -392,7 +392,7 @@
       },
       "artists": [
         {
-          "name": "10CM",
+          "name": "10cm",
           "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
         }
       ],
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-12-09 12:43:14",
       "album": {
-        "name": "Beige coat",
-        "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
-      },
-      "artists": [
-        {
-          "name": "Grizzly",
-          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
-        }
-      ],
-      "duration_ms": 179080,
-      "name": "Beige coat",
-      "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
-    },
-    {
-      "added_at": "2023-12-09 12:43:14",
-      "album": {
         "name": "Because This Is My First Life (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/3ZmhNW8CSb2EKYcCW4gVuy"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 194999,
       "name": "Feel Like Falling In Love",
       "url": "https://open.spotify.com/track/4wMUV1YyLoaRvKskgmH6Yi"
+    },
+    {
+      "added_at": "2023-12-09 12:43:14",
+      "album": {
+        "name": "Beige coat",
+        "url": "https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc"
+      },
+      "artists": [
+        {
+          "name": "Grizzly",
+          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
+        }
+      ],
+      "duration_ms": 179080,
+      "name": "Beige coat",
+      "url": "https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm"
     },
     {
       "added_at": "2023-12-09 12:43:14",
@@ -635,26 +635,6 @@
     {
       "added_at": "2023-12-09 12:43:14",
       "album": {
-        "name": "HONEY",
-        "url": "https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2"
-      },
-      "artists": [
-        {
-          "name": "Chawoo",
-          "url": "https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR"
-        },
-        {
-          "name": "CRUCiAL STAR",
-          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
-        }
-      ],
-      "duration_ms": 227506,
-      "name": "HONEY (Feat. Crucial Star)",
-      "url": "https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy"
-    },
-    {
-      "added_at": "2023-12-09 12:43:14",
-      "album": {
         "name": "San E, Raina Project Single 'A midsummer night's sweetness'",
         "url": "https://open.spotify.com/album/1srZhGQymoN6YQksduox2J"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 233456,
       "name": "A midsummer night's sweetness",
       "url": "https://open.spotify.com/track/3gug38ZhXQWJbwN7sh0YRR"
+    },
+    {
+      "added_at": "2023-12-09 12:43:14",
+      "album": {
+        "name": "HONEY",
+        "url": "https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2"
+      },
+      "artists": [
+        {
+          "name": "Chawoo",
+          "url": "https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR"
+        },
+        {
+          "name": "CRUCiAL STAR",
+          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
+        }
+      ],
+      "duration_ms": 227506,
+      "name": "HONEY (Feat. Crucial Star)",
+      "url": "https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy"
     },
     {
       "added_at": "2023-12-09 12:43:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JJBnsLRONu.md) - [plain]
 
 > Pushing the boundaries of instrumental Folk and Americana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,053 likes - 68 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,057 likes - 68 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JJBnsLRONu.md) - [plain]
 | 13 | [Rivers That You Cannot See](https://open.spotify.com/track/26bA7q3YUyxrGwftjN1Z7K) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Roped In](https://open.spotify.com/album/2TWvHZBa5cru4yanQijv5I) | 3:55 |
 | 14 | [Across White Oak Mountain](https://open.spotify.com/track/2MNdcZ5yBHnMeww6jVITzc) | [Chuck Johnson](https://open.spotify.com/artist/5lRVe4YjX70hurTNtjek0f) | [Crows in the Basilica](https://open.spotify.com/album/1D6s8KszoqLt9o6i0nyf9K) | 3:50 |
 | 15 | [Huron](https://open.spotify.com/track/1pTkkX3dARoW4FOIBQv4rv) | [LaCerte](https://open.spotify.com/artist/3BtWF0iqzutntjuCfxh6NN) | [Huron](https://open.spotify.com/album/1eYlcFAGA6Nh0nMjlqrQZF) | 2:32 |
-| 16 | [Jericho](https://open.spotify.com/track/5oNvZprFIEffLJv5jVa9h9) | [Laurel Premo](https://open.spotify.com/artist/1xb97sU2gSPLt2TBtKQeVT) | [Jericho](https://open.spotify.com/album/0Vq9bdUGdZUCW2i1rmnjfk) | 4:52 |
+| 16 | [Jericho](https://open.spotify.com/track/2p3wZWi5ibHbmJ636e9ImG) | [Laurel Premo](https://open.spotify.com/artist/1xb97sU2gSPLt2TBtKQeVT) | [Golden Loam](https://open.spotify.com/album/4Rfc4nMxJ4R5US3aq0f5D0) | 4:52 |
 | 17 | [Shenandoah \(For Johnny Smith\)](https://open.spotify.com/track/1WDOzVi6U8H4JEeYNg3eOQ) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Good Dog, Happy Man](https://open.spotify.com/album/4ICZxA4JmNgkrjT9d30TJX) | 6:10 |
 | 18 | [Swayfer Sandles](https://open.spotify.com/track/0g2Sexo4C8cIS5tmDUakjP) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [The Good Times](https://open.spotify.com/album/2M6pgY4xaIQcjpcMx8cFjP) | 2:39 |
 | 19 | [Silent Advance](https://open.spotify.com/track/1rmQpmB07R7ehokVR74AQW) | [Bryan Rahija](https://open.spotify.com/artist/17OekKFB72Bbu7R14sde59) | [Silent Advance](https://open.spotify.com/album/5j5jKiWgjZ7w4VDNVBEuW8) | 2:25 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JJBnsLRONu.md) - [plain]
 | 67 | [Afar](https://open.spotify.com/track/7ix5BtN2K7vsTpFWDqN8Bk) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 2:34 |
 | 68 | [Paris, Texas](https://open.spotify.com/track/1idiifjTcCoGfBeZiYOdim) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Music by Ry Cooder](https://open.spotify.com/album/0gLaTb6BP8pySUWwkiZjdD) | 2:54 |
 
-Snapshot ID: `MCxhZDMyNjc3NGE0NjlhM2ZhYmViMjBlMWNiODE5NjYwODMxZTZjZWM4`
+Snapshot ID: `MCxiNTkyOGFjMzI2MDdhYzA0ZDU0MDE0M2UxNDNiNjAyODZmN2NlNWJj`

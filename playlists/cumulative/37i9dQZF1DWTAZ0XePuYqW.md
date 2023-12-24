@@ -4,7 +4,7 @@
 
 > That's that big energy\. Cover: Nicki Minaj
 
-185 songs - 9 hr 8 min
+186 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Everybody \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:00 | 2023-12-08 |  |
 | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/track/7cnS0EPwBnP9ZIdGOAOY7c) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/album/7pKuRGliZzRAHJaFED7y6Q) | 2:06 | 2023-08-18 |  |
 | [Falling Up \(with Pharrell Williams & Nile Rodgers\)](https://open.spotify.com/track/3zc7EnOlA5beOhw46BKPb1) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 3:19 | 2023-08-18 | 2023-09-30 |
-| [Fantasy](https://open.spotify.com/track/02HnreS8f1YDpr5qXrCtw3) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [IN:TENSION](https://open.spotify.com/album/2eMuDynNCvPeNzWkrt8m2p) | 3:15 | 2023-11-10 |  |
+| [Fantasy](https://open.spotify.com/track/02HnreS8f1YDpr5qXrCtw3) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [IN:TENSION](https://open.spotify.com/album/2eMuDynNCvPeNzWkrt8m2p) | 3:15 | 2023-11-10 | 2023-12-24 |
+| [Fantasy](https://open.spotify.com/track/60vMYW3pMPwW5V6eTXNq2N) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [IN:TENSION](https://open.spotify.com/album/5Om5ffiuTukQ7HdnSMxm1h) | 3:15 | 2023-12-22 |  |
 | [FEELING GOOD](https://open.spotify.com/track/1ST96l3wUQSwGgtQu6lzsx) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Emancipated \(Deluxe\)](https://open.spotify.com/album/4kzAbEHPhMHmRtT7RMAlg3) | 2:26 | 2023-09-15 |  |
 | [Flaunt It/Cheap](https://open.spotify.com/track/7bxegQfGfIc9ybrQafVtf8) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Sremm 4 Life](https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67) | 4:00 | 2023-11-17 |  |
 | [Forward From Trini \(feat\. Skillibeng & Skeng\)](https://open.spotify.com/track/0llFq02Nqzra7ZRfSjBxan) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 2:33 | 2023-12-08 |  |

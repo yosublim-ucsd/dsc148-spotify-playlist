@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tZzam7CfKP.md) - [plain]
 
 > All funk, all live\. Cover: Earth Wind & Fire
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,740 likes - 57 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,754 likes - 57 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [1999 \- Live In Syracuse, March 30, 1985 \- 2022 Remaster](https://open.spotify.com/track/6ADP8ay0KMHR0A3ZYQOqdG) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Prince and The Revolution: Live \(2022 Remaster\)](https://open.spotify.com/album/4Y8oukfqpJupRcCsHucO7J) | 5:50 |
-| 2 | [She's Strange](https://open.spotify.com/track/1oQRTKLcFe5E3ZObO8iz8b) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Nasty](https://open.spotify.com/album/5O46WJRJ7AMYEAyKVLvEhP) | 2:37 |
+| 2 | [She's Strange](https://open.spotify.com/track/78AYdEtpEKV8KNjWnB3cjS) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Nasty](https://open.spotify.com/album/4V8nXvKMseNu6ey3W8gN0c) | 2:37 |
 | 3 | [Cory Wong \- The Power Station Tour Live](https://open.spotify.com/track/0hA0WmQreJnjgwG2I3y9Z7) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [The Power Station Tour \(West Coast\)](https://open.spotify.com/album/7i8OowqVyZHx8FIH16WW5S) | 5:00 |
 | 4 | [You're On My Mind \- Anniversary – Live](https://open.spotify.com/track/290YzYxkEXUdwiwh2daqCt) | [Kem](https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R) | [Anniversary – The Live Album](https://open.spotify.com/album/5DVXFbGuoXcqUNuRS4Ah1t) | 4:14 |
 | 5 | [Wake Me \(Live\)](https://open.spotify.com/track/4USchbsYWOLEMPUCIT9EG1) | [Nigel Hall](https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2) | [Wake Me \(Live\)](https://open.spotify.com/album/6XpKCIgD8za1q08PUkpa9n) | 4:57 |
@@ -54,16 +54,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tZzam7CfKP.md) - [plain]
 | 44 | [Think \(About It\) \- Live At The Apollo Theater/1972](https://open.spotify.com/track/0cmA7hUiZIYH8VnbPIdkM2) | [Lyn Collins](https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN) | [Get Down With James Brown: Live At The Apollo Vol\. IV](https://open.spotify.com/album/5h8mYFGE2upHNqHRAMoVBA) | 7:25 |
 | 45 | [Use Me \- Live At The Sahara Tahoe, Stateline, NV/1973](https://open.spotify.com/track/4e8V40rAwpfHwtqCPqUvxg) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Live At The Sahara Tahoe](https://open.spotify.com/album/1k5Bv7B73nLsEChdqjXQrl) | 5:41 |
 | 46 | [Steal Away \(Version 2\)](https://open.spotify.com/track/3rvJsbKBvL8zpX1pTgzzJU) | [Johnnie Taylor](https://open.spotify.com/artist/4OGuNAnRFWZOgOA2d51taz) | [Live At The Summit Club](https://open.spotify.com/album/1jqliLQjKOJMBswP2R51iL) | 8:20 |
-| 47 | [Outrageous \- Live](https://open.spotify.com/track/51WQakjhwsoPZ1Wr4clgoa) | [Lakeside](https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72) | [Fresh Takes \(Live\)](https://open.spotify.com/album/3i83GqrBewJvgNLIxmwkgk) | 6:35 |
+| 47 | [Outrageous \- Live](https://open.spotify.com/track/2hSp6cCkYSeaDHAwrzEJrF) | [Lakeside](https://open.spotify.com/artist/74lTWE4DqbFU3Vn8z4uH72) | [Original Artist Hit List: Lakeside](https://open.spotify.com/album/6J0XVUXTqVxZHSmBt4cgsf) | 6:35 |
 | 48 | [Oops Upside Your Head \(Live\)](https://open.spotify.com/track/12qDEgR79wkOeLsvO4eH4m) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [Groovin' With....The Gap Band \(Live\)](https://open.spotify.com/album/0venVIHlJkvoI8tmsCESj2) | 5:11 |
 | 49 | [Mighty Mighty \(Spade and Whitey\) \- Live at The Bitter End, NYC](https://open.spotify.com/track/16WdDpMNAYT6Tn0EsOR2r4) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Curtis Live! \(US Release\)](https://open.spotify.com/album/688Kh9FEef2uaJOXFtOtXp) | 6:56 |
 | 50 | [Slippin' Into Darkness \- Live Version](https://open.spotify.com/track/3m242z4o3LQfHRi6WsVKtS) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [WAR Live](https://open.spotify.com/album/4dmFMOaseO8EaOauNihb5T) | 9:40 |
 | 51 | [Them Changes \- Live at Fillmore West, 3/7/1971](https://open.spotify.com/track/28nLosnhZMTdzTXZdK3TXB) | [King Curtis](https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ) | [Live At The Fillmore West](https://open.spotify.com/album/0Tg5AKLEbLNnDjyZh5e913) | 7:01 |
-| 52 | [Chase Me](https://open.spotify.com/track/1lFUQF7P2Q7hNCMTQTJAkk) | [Con Funk Shun](https://open.spotify.com/artist/2hUkfSXyuDfQbUeNOShRiz) | [Live for Ya Ass](https://open.spotify.com/album/0jG1ZGcNojCrIzbUzuVaXE) | 5:04 |
+| 52 | [Chase Me](https://open.spotify.com/track/3vhfiewsuPAtFycAwemxa8) | [Con Funk Shun](https://open.spotify.com/artist/2hUkfSXyuDfQbUeNOShRiz) | [Live for Ya Ass](https://open.spotify.com/album/1ltAoExO0WJSGzZA0qVrxH) | 5:04 |
 | 53 | [One Night Only \(The March\) \- Live](https://open.spotify.com/track/1zviOAnocsdrcMPv6SSRAi) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Jazz Fest: The New Orleans Jazz & Heritage Festival](https://open.spotify.com/album/1KHL1RsuKBVyDyHBvlNO1Q) | 3:29 |
 | 54 | [Lovin' Is Really My Game \- Live](https://open.spotify.com/track/07AquLuknA60N7ZTGunC6a) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [Betty Wright Live](https://open.spotify.com/album/1jssvEYMHpe5sR0PwRhUTu) | 5:50 |
 | 55 | [Shining Star \- Live](https://open.spotify.com/track/5VefcTB4FmTn7I7DY1dAgD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Gratitude](https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z) | 4:56 |
 | 56 | [Psychoticbumpschool \- Live Version](https://open.spotify.com/track/24TPNhH0tX9f7QxfGMb4ho) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Back In The Day: The Best Of Bootsy](https://open.spotify.com/album/5drHXExICEAsiNehDQvYwV) | 6:37 |
 | 57 | [Let Yourself Go \- Live At The Apollo Theater, 1967](https://open.spotify.com/track/5Fw86IXdNhRyDaY45PzeRx) | [James Brown & The Famous Flames](https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr) | ['Live' At The Apollo \(Vol\. II\)](https://open.spotify.com/album/3jbnkGDaYChChu5Cs8LEvD) | 4:00 |
 
-Snapshot ID: `MCxiY2U1OGYyMjdhYWUyMTI1YzYxYmQ4NjkwYTAwNjVmZTQzYTA0Zjk3`
+Snapshot ID: `MCw4ODJkODQ5OGU1NzVlODMxNjY3MzgxYzRmNjQ2MjNlZWNlZTRjZTEx`

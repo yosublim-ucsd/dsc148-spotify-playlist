@@ -4,7 +4,7 @@
 
 > Fresh takes—from new revisions and iconic covers to unexpected versions and the songwriter's own covers\. Cover: <a href="spotify:artist:74ASZWbe4lXaubB36ztrGX">Bob Dylan</a>
 
-137 songs - 10 hr 32 min
+138 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Knockin' On Heaven's Door](https://open.spotify.com/track/2LBXHmODxCjJjD6puwDAE8) | [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW), [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo) | [Knockin' On Heaven's Door](https://open.spotify.com/album/1CDAlRhqngtJc6oaauLtJe) | 4:14 | 2018-08-02 |  |
 | [Knockin' on Heaven's Door](https://open.spotify.com/track/1rtiojgfQ1u7TEGnJkxg5B) | [Marco Santana](https://open.spotify.com/artist/3SxTTGMm7ed13HP2Cvh5sE), [DOFF](https://open.spotify.com/artist/2NcW5tAHg2dkSbUiozRFiC) | [Knockin' on Heaven's Door](https://open.spotify.com/album/6g1ceIz88TjAeTSzg9apJC) | 3:10 | 2023-07-27 |  |
 | [Lay Down Your Weary Tune](https://open.spotify.com/track/35Xm16Qasr3DpOruVtT8WM) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO) | [Chimes Of Freedom: The Songs Of Bob Dylan Honoring 50 Years Of Amnesty International](https://open.spotify.com/album/1SB9SD66SM04dm8wZdLatY) | 4:17 | 2018-08-02 |  |
-| [Lay Lady Lay](https://open.spotify.com/track/50sHkvvG8AtnaCmq0wT0lY) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Tangled Up In Blues: Songs Of Bob Dylan](https://open.spotify.com/album/3wf0nwy96szSZmkZaa9NYa) | 5:36 | 2018-08-02 |  |
+| [Lay Lady Lay](https://open.spotify.com/track/1RDh0l7AeYTDvlnUgmYSpr) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Tangled Up In Blues: Songs Of Bob Dylan](https://open.spotify.com/album/0Vh63ttTwAGKidFyKaloFX) | 5:36 | 2023-09-22 |  |
+| [Lay Lady Lay](https://open.spotify.com/track/50sHkvvG8AtnaCmq0wT0lY) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Tangled Up In Blues: Songs Of Bob Dylan](https://open.spotify.com/album/3wf0nwy96szSZmkZaa9NYa) | 5:36 | 2018-08-02 | 2023-12-24 |
 | [Lay Lady Lay](https://open.spotify.com/track/5w2odXmCV91nBYLjRX5KAv) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [All Blues'd Up: Songs of Bob Dylan](https://open.spotify.com/album/6IHh9iUq4LqpoyCr7fqHyC) | 5:36 | 2018-08-02 | 2022-07-29 |
 | [Leopard\-Skin Pill\-Box Hat](https://open.spotify.com/track/0GgX7GIRa6l3MVFRa583Az) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [War Child \- Heroes Vol.1](https://open.spotify.com/album/68Q7huXVb1AVSUPtORn1qq) | 3:02 | 2018-08-02 |  |
 | [Let Me Die in My Footsteps](https://open.spotify.com/track/4a17Q8L8npMkjfc09a5d9X) | [Steep Canyon Rangers](https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O) | [Out in the Open](https://open.spotify.com/album/0ua1zWDDg2brY46TtBp687) | 3:23 | 2018-08-02 |  |

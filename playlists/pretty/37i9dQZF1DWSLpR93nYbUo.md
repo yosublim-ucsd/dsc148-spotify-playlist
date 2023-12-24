@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 
 > Ouça as novidades da cena eletrônica\. Foto: CEVITH
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,964 likes - 82 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,974 likes - 82 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLpR93nYbUo.md) - [plain]
 | 81 | [Ordinary World](https://open.spotify.com/track/250Xm7kH7epgWv5oUhKADC) | [Bolth](https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD), [JOY RIVO & JTO](https://open.spotify.com/artist/4aB7BI0wBiIkqcOPYRpRJg) | [Ordinary World](https://open.spotify.com/album/7F9rAbXgfQ7vf60RThaZHb) | 4:12 |
 | 82 | [Walls](https://open.spotify.com/track/10o0LKMtVv6TQUq1XBRFKc) | [Obzkure](https://open.spotify.com/artist/2A0Vr6jboum6XRvVfMD3Tl) | [Walls](https://open.spotify.com/album/2yMOT0xmZBEoh9PSL8wqP3) | 2:31 |
 
-Snapshot ID: `MCw5ZjE4YjRkMjUxYzdmNjhhMzY4YjQ4ODVhM2NhNWEzZTQwZGQyN2Ey`
+Snapshot ID: `MCxkYTlmMWQ1NTUwNzE3NDkyMGEwN2RkM2M1MDhlMmM4ODU4ZmE0NDQ5`

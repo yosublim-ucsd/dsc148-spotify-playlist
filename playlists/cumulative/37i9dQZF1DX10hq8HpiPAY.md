@@ -4,13 +4,14 @@
 
 > Host of "GoOD Mornings w/ CurlyNikki" and "Meditation w/ CurlyNikki’ shares the music that keeps her feeling GoOD\. Cover: Nikki Walton
 
-30 songs - 4 hr 44 min
+31 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Baba Hanuman](https://open.spotify.com/track/4Frp9uObfJLGLsMXosQp27) | [Krishna Das](https://open.spotify.com/artist/7BIXafmacnax46P30TEzNz) | [Breath of the Heart](https://open.spotify.com/album/6UxQYKwxX79QNmagONxvr0) | 13:58 | 2022-10-04 |  |
 | [Birds](https://open.spotify.com/track/3HWDWyIqWuLsTHECx9DvXF) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 3:49 | 2022-10-04 |  |
-| [Brindavan Hare Ram](https://open.spotify.com/track/3faStz9tu8BZCjZwGYxx1f) | [Krishna Das](https://open.spotify.com/artist/7BIXafmacnax46P30TEzNz) | [Breath of the Heart](https://open.spotify.com/album/6UxQYKwxX79QNmagONxvr0) | 7:43 | 2022-10-04 |  |
+| [Brindavan Hare Ram](https://open.spotify.com/track/3faStz9tu8BZCjZwGYxx1f) | [Krishna Das](https://open.spotify.com/artist/7BIXafmacnax46P30TEzNz) | [Breath of the Heart](https://open.spotify.com/album/6UxQYKwxX79QNmagONxvr0) | 7:43 | 2022-10-04 | 2023-12-24 |
+| [Brindavan Hare Ram](https://open.spotify.com/track/6vzYofDukTbayVKpxiNcNb) | [Krishna Das](https://open.spotify.com/artist/7BIXafmacnax46P30TEzNz) | [Breath of the Heart](https://open.spotify.com/album/2RNmtNcssxfz2BItN1jUnQ) | 7:43 | 2022-10-04 |  |
 | [Ceili in Braj! \(Hari Haraye\)](https://open.spotify.com/track/69ff3mnTdc3wZTn8MHuEH8) | [Jahnavi Harrison](https://open.spotify.com/artist/5yFeIzipr0tcFe2TAU1vBz) | [Like a River to the Sea](https://open.spotify.com/album/7GJOFsyNN2u7yii6fOc8bo) | 10:38 | 2022-10-04 |  |
 | [Charlie Brown \- Live in Buenos Aires](https://open.spotify.com/track/3ksF058sVZ21EgQdRLbUyI) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Live in Buenos Aires](https://open.spotify.com/album/19CvkGjYpifkdwgVJSbog2) | 4:44 | 2022-10-04 |  |
 | [Come to Life](https://open.spotify.com/track/14VMRC6EbRfeub5SkIXiad) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda \(Deluxe\)](https://open.spotify.com/album/2Wiyo7LzdeBCsVZiRA6vVZ) | 5:10 | 2022-10-04 |  |

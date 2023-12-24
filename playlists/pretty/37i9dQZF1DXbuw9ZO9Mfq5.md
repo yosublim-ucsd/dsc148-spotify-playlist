@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain]
 
 > Nominated songs & artists for the 54th Annual GMA <a href="https://doveawards.com/">Dove Awards.</a> Tune in to the awards on Friday, 10/20/23 at 8 pm and 10 pm ET exclusively on TBN & the TBN app! Cover: Host <a href="spotify:artist:3SKza3YPBri1k43LB1Tqy4">Tauren Wells<a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,748 likes - 70 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,749 likes - 70 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain]
 | 38 | [Way of the Triune God \- Hallelujah Version](https://open.spotify.com/track/2BJy4svtrGACqRB5BFLOK6) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Can I Take My Hounds to Heaven?](https://open.spotify.com/album/38DbwWdACUMpVMfRTxGnvi) | 3:28 |
 | 39 | [Jesus' Fault](https://open.spotify.com/track/0ds10Mj5flvO73afTrACqj) | [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ), [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [A Hundred Highways](https://open.spotify.com/album/2lM8WoZ3N1ou1fP0CcXoXi) | 3:34 |
 | 40 | [New Day](https://open.spotify.com/track/46QYmqFNxnhX6bUXAbZijq) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [New Day \(Wake Up Remix\)](https://open.spotify.com/album/441VZMZvvrwgv6LOXNhvEl) | 3:01 |
-| 41 | [Your World](https://open.spotify.com/track/20jjnFUWd4yMOgJP8QpEwu) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [My Truth](https://open.spotify.com/album/0JjHp7nS2lKkwalcUyrWFn) | 3:16 |
+| 41 | [Your World](https://open.spotify.com/track/7yOQN3WpoLdVpUt1tDZ9mb) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9) | [My Truth](https://open.spotify.com/album/07zEDWrPhqROuygaSwVTHm) | 3:16 |
 | 42 | [Miracles \(feat\. Pastor Mike Jr.\)](https://open.spotify.com/track/2U14rkj4rTCJuvZAtgx39d) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [All Yours](https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk) | 5:59 |
 | 43 | [Bless Me](https://open.spotify.com/track/5fpKz6Ei4IQPNh4YhlGdbE) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Kingdom Book One](https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3) | 4:32 |
 | 44 | [Get Up](https://open.spotify.com/track/5r3afYPAvNdqVpMfsHm6qS) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Get Up](https://open.spotify.com/album/7HHLL2T8rdwV1T8Tzw4CLi) | 6:02 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain]
 | 49 | [See The Goodness \(feat\. Donnie McClurkin\)](https://open.spotify.com/track/58lEiz2vnlNcRTRGWLK964) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA), [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra) | [Chapter X: See The Goodness](https://open.spotify.com/album/2rYt6wbQu2xdts8lKYvRrH) | 5:06 |
 | 50 | [One Name \(Jesus\) \- Live](https://open.spotify.com/track/0ediELnQ9rvSUKIRJQKxn1) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Cover The Earth \(Live In New York\)](https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9) | 9:19 |
 | 51 | [Impossible](https://open.spotify.com/track/7vqC1Vkr5f9a7CylkjUkPW) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS), [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH) | [Impossible](https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai) | 3:53 |
-| 52 | [I Still Have You](https://open.spotify.com/track/21ksdeytHBlKH3coDrDud9) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [I Still Have You](https://open.spotify.com/album/2de2aejtRsBb5cbnZB5Orc) | 4:14 |
+| 52 | [I Still Have You](https://open.spotify.com/track/6ungnRr8B5ZetjVy3KnlVs) | [Smokie Norful](https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR) | [I Still Have You](https://open.spotify.com/album/22Dhwmk1vEUU8G5keHdfBo) | 4:14 |
 | 53 | [The Moment \- Live](https://open.spotify.com/track/0mXrdrFjLWXZChsYO0uuct) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Jesus Lover Of My Soul \(Live\)](https://open.spotify.com/album/2nIy4tVIY02SlqsmpjtVp0) | 7:21 |
-| 54 | [You've Been Good To Me](https://open.spotify.com/track/47LXr7hfD8RH5XRfv4H0Xn) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [You've Been Good To Me \(Live\)](https://open.spotify.com/album/764vdwQtEh3vgEIjjFkoWS) | 3:39 |
+| 54 | [You've Been Good To Me](https://open.spotify.com/track/6HzdxD1EN5h3PNZKlSS17B) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [You've Been Good To Me \(Live\)](https://open.spotify.com/album/7Her8W2wFMHeYoJVaKKxUb) | 3:39 |
 | 55 | [Guarda Tu Corazón](https://open.spotify.com/track/30QzcMG2SxcOCtMNgU9mXJ) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Guarda Tu Corazón](https://open.spotify.com/album/7q0FwU5uvkrNHYpiBrMf55) | 3:57 |
 | 56 | [So Good \(Cuán Bueno\) \(feat\. Lilly Goodman\)](https://open.spotify.com/track/5AsamzwJavvredvmI3dqk1) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [So Good \(Cuán Bueno\) \(feat\. Lilly Goodman\)](https://open.spotify.com/album/1v9gXaZpngKHdplKNOuc9j) | 3:11 |
 | 57 | [Nubes](https://open.spotify.com/track/3lKlApf4R2kgiD9Lim9dMZ) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO) | [Nubes](https://open.spotify.com/album/3MSk7DD57l7CqyCIZl6hVQ) | 4:03 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain]
 | 69 | [The Fruit Of The Spirit](https://open.spotify.com/track/4V3umDvc5BzgSqiYeCe02c) | [Worship Together Kids](https://open.spotify.com/artist/6Fe9FE8NPBvABndkjAuQv4) | [Songs Of The Bible II](https://open.spotify.com/album/4JhQYQroSKKy4o3qAEogJK) | 2:02 |
 | 70 | [Savior of All](https://open.spotify.com/track/5ojrWhngSc3A8Wf5ClrZmS) | [PJ Anderson](https://open.spotify.com/artist/26At9viOA8zaXaUgwISznQ) | [Savior of All](https://open.spotify.com/album/5OGlSZRJ0pq1C0VIYaUiBl) | 3:30 |
 
-Snapshot ID: `MCw3ZGRkNWNjNmY4OGYwMzI4OWVhMTc0Y2E1Y2ZlN2MxOWQ5Y2E2ZmZj`
+Snapshot ID: `MCxiOWJjZDE0MDNmMjRhOWMxNmFjNjhhMTMxNzI0ZTBjNmZiYTQ3Zjcx`

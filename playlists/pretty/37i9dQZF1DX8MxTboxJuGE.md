@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MxTboxJuGE.md) - [plain]
 
 > Os monstros e as novas caras do Metal nacional e internacional! Foto: ANGRA
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,421 likes - 75 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,433 likes - 75 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MxTboxJuGE.md) - [plain]
 | 34 | [The River Is Rising \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/track/3LqWKbOdMK4jB3NPcMIvJt) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Myles Kennedy And The Conspirators](https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6) | [4 \(feat\. Myles Kennedy and The Conspirators\)](https://open.spotify.com/album/078ZH1xDl03nocG21ouCgV) | 3:42 |
 | 35 | [Draining Me](https://open.spotify.com/track/3I47pT8Tyg5AyOjxZHEfvP) | [Worst](https://open.spotify.com/artist/50Gz8NDlBXc8bKNUqlQlQp) | [Deserto](https://open.spotify.com/album/267sNJGcmma5Zk4chbP3jl) | 2:39 |
 | 36 | [House of Mirrors](https://open.spotify.com/track/1mnIf0uQCOesEO4484G0iR) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [House of Mirrors](https://open.spotify.com/album/0tjU3wSdnA3FQZZeqAC195) | 3:40 |
-| 37 | [You Made Me Want To Live](https://open.spotify.com/track/0oTYX6tG3Nas6dzleBXbh6) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [Doom Crew Inc.](https://open.spotify.com/album/6ZWvYdM0tNMw4GmE6YIQv0) | 4:31 |
+| 37 | [You Made Me Want To Live](https://open.spotify.com/track/682FkRplyBf13Q16aSgTkx) | [Black Label Society](https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5) | [Doom Crew Inc.](https://open.spotify.com/album/2124Q5gdjdI6FKWvYyJRqC) | 4:31 |
 | 38 | [The Gang's All Here](https://open.spotify.com/track/4fvyexikP6xn7wHdsg1sGc) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [The Gang's All Here](https://open.spotify.com/album/3CNgCf8Xnno0GH9EhXMMQR) | 3:38 |
 | 39 | [Born to Raise Hell \(Live at University of East Anglia, Norwich, 18th October 1998\)](https://open.spotify.com/track/7nHMMu5QIqvX783we02wIa) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The Löst Tapes Vol\. 2 \(Live in Norwich, 1998\)](https://open.spotify.com/album/4PEh2b38J4LJCfc7FzhtlK) | 5:13 |
 | 40 | [The Beast and the Hunter](https://open.spotify.com/track/0vIYNPI7tuF5O57tu78Yss) | [RF Force](https://open.spotify.com/artist/1WyKcR1yYW6iV27yZLDLvi) | [The Beast and the Hunter](https://open.spotify.com/album/4pwvhjNmHkSOHVql8PqXEC) | 4:36 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8MxTboxJuGE.md) - [plain]
 | 74 | [Mysterious](https://open.spotify.com/track/1YNfg67rPhWMSIalelU6ph) | [Noturnall](https://open.spotify.com/artist/7xRCuSBEiVCIJWCSIYQ7Ni) | [9](https://open.spotify.com/album/09GlDec2IEaxGMkB0L1rH0) | 4:43 |
 | 75 | [Heroes of Sand](https://open.spotify.com/track/7u7VM9dtMRygn59a5SDKCz) | [Nando Fernandes](https://open.spotify.com/artist/6e3Z5Yq6G5vcsuEnmBkeng) | [Edu Falaschi: a New Lease of Life \(Tribute\)](https://open.spotify.com/album/6OuMNT3xYHMWoYTgWxdExj) | 4:40 |
 
-Snapshot ID: `MCxjYjEyMmU1Njc0YTBhMzBlNDU0YmNmM2I2YzRiOTRiNzQwY2FhZWU0`
+Snapshot ID: `MCxhYjNhM2MzOTI0NTY4NWZkZDcyYjFkZGIxN2U5NGYwZmI3YWRlNzU2`

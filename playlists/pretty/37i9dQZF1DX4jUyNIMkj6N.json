@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 195407,
+  "num_followers": 195462,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTFmYjI2MzU5ZTYwOGM1ODNjNjg4NGE0YTVlYjhmNjhmMjc3Nzg1",
+  "snapshot_id": "MCw0YTk1MmU4NDg4ZjcxN2Y3MDYyN2ZhYTkyY2NiZjkxNjk5YzI3N2Ex",
   "tracks": [
     {
       "added_at": "2023-12-21 23:00:00",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "Pixie's Parasol",
+        "url": "https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 182946,
+      "name": "Pixie's Parasol",
+      "url": "https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "Everyone's In Love With You (Spotify Singles)",
         "url": "https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 150000,
       "name": "Everyone's In Love With You - Spotify Singles",
       "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Pixie's Parasol",
-        "url": "https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "Pixie's Parasol",
-      "url": "https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Darkest Night",
-        "url": "https://open.spotify.com/album/38Zutwd997e5hLl2565HfV"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 165066,
-      "name": "Darkest Night",
-      "url": "https://open.spotify.com/track/0WjjBxrfnjtW8c2WSHZDJF"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "Late December",
         "url": "https://open.spotify.com/album/5x1qkqIS9YjSizU3LAWyG8"
       },
@@ -979,18 +963,18 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Fredsvenn",
-        "url": "https://open.spotify.com/album/6zm3WOslNglQXQNuJT0Tt5"
+        "name": "Darkest Night",
+        "url": "https://open.spotify.com/album/38Zutwd997e5hLl2565HfV"
       },
       "artists": [
         {
-          "name": "Simen Mitlid",
-          "url": "https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A"
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 241274,
-      "name": "Border",
-      "url": "https://open.spotify.com/track/31KepypEknlgoYnBwxR36s"
+      "duration_ms": 165066,
+      "name": "Darkest Night",
+      "url": "https://open.spotify.com/track/0WjjBxrfnjtW8c2WSHZDJF"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1011,6 +995,22 @@
       "duration_ms": 167142,
       "name": "In The Silence",
       "url": "https://open.spotify.com/track/4Pyg2i2ZSUriQh5QuuBs0y"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "Fredsvenn",
+        "url": "https://open.spotify.com/album/6zm3WOslNglQXQNuJT0Tt5"
+      },
+      "artists": [
+        {
+          "name": "Simen Mitlid",
+          "url": "https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A"
+        }
+      ],
+      "duration_ms": 241274,
+      "name": "Border",
+      "url": "https://open.spotify.com/track/31KepypEknlgoYnBwxR36s"
     },
     {
       "added_at": "2023-12-21 23:00:00",

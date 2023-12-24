@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 3720,
+  "num_followers": 3721,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmMwYTY2OTMwMjQ4NDU4Mjg3NDlhMmZmZGM5YTg0NWFjZWYwY2U5",
+  "snapshot_id": "MCxhMzI4NjU1M2NiYWI5ZGNhNjBjZTg3MTc1YzY4Zjc3ZWMxY2IwNzEw",
   "tracks": [
     {
       "added_at": "2023-12-15 14:37:13",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-12-15 14:37:13",
       "album": {
+        "name": "Bim Boom Bam",
+        "url": "https://open.spotify.com/album/5jIkBRxJrtk14bkHIGmf1k"
+      },
+      "artists": [
+        {
+          "name": "Merk & Kremont",
+          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
+        }
+      ],
+      "duration_ms": 144023,
+      "name": "Bim Boom Bam",
+      "url": "https://open.spotify.com/track/0hRRxfLwMUlO6Bvoz8iNbf"
+    },
+    {
+      "added_at": "2023-12-15 14:37:13",
+      "album": {
         "name": "Viagem Ao Centro Do Eu (Coragem)",
         "url": "https://open.spotify.com/album/5hxVW27RJP6u3O7XlaUjwx"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 253770,
       "name": "Viagem Ao Centro Do Eu (Coragem)",
       "url": "https://open.spotify.com/track/6olpmATWho4waNlcAKJQKo"
-    },
-    {
-      "added_at": "2023-12-15 14:37:13",
-      "album": {
-        "name": "Bim Boom Bam",
-        "url": "https://open.spotify.com/album/5jIkBRxJrtk14bkHIGmf1k"
-      },
-      "artists": [
-        {
-          "name": "Merk & Kremont",
-          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
-        }
-      ],
-      "duration_ms": 144023,
-      "name": "Bim Boom Bam",
-      "url": "https://open.spotify.com/track/0hRRxfLwMUlO6Bvoz8iNbf"
     },
     {
       "added_at": "2023-12-15 14:37:13",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2023-12-15 14:37:13",
       "album": {
+        "name": "Gitrox",
+        "url": "https://open.spotify.com/album/02LTijbsb6BLbfZMKOEip1"
+      },
+      "artists": [
+        {
+          "name": "Los Padres",
+          "url": "https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU"
+        }
+      ],
+      "duration_ms": 197209,
+      "name": "Gitrox",
+      "url": "https://open.spotify.com/track/7jQZtYrb5nyWXEiNlu0VMQ"
+    },
+    {
+      "added_at": "2023-12-15 14:37:13",
+      "album": {
         "name": "Caliente",
         "url": "https://open.spotify.com/album/0k9fJtZqLDVJi56EbJ6hYE"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 212307,
       "name": "Mueve Los Dos Pies",
       "url": "https://open.spotify.com/track/4ZSAH3KeoaQ17VpplxkdVQ"
-    },
-    {
-      "added_at": "2023-12-15 14:37:13",
-      "album": {
-        "name": "Gitrox",
-        "url": "https://open.spotify.com/album/02LTijbsb6BLbfZMKOEip1"
-      },
-      "artists": [
-        {
-          "name": "Los Padres",
-          "url": "https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU"
-        }
-      ],
-      "duration_ms": 197209,
-      "name": "Gitrox",
-      "url": "https://open.spotify.com/track/7jQZtYrb5nyWXEiNlu0VMQ"
     },
     {
       "added_at": "2023-12-15 14:37:13",

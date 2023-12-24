@@ -1420,10 +1420,36 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 177500,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/0cGiNZa8d20rYlfPWDon6y"
+    },
+    {
+      "album": {
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/3aRvgC66IVGadXG0KkLa2z"
+      },
+      "artists": [
+        {
+          "name": "Holy Pig",
+          "url": "https://open.spotify.com/artist/5noU5w3Au49jwWgCXih5IE"
+        },
+        {
+          "name": "Boltri",
+          "url": "https://open.spotify.com/artist/6LI9eW5AQmtBIxJklvPvBa"
+        },
+        {
+          "name": "Boltron",
+          "url": "https://open.spotify.com/artist/0HOmnaKrkwTfGXXXy4D2rT"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177500,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/7erUqAP6IGMSJa9XgSGwss"
     },
     {
       "album": {

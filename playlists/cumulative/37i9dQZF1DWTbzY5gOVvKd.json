@@ -904,10 +904,28 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 251000,
       "name": "First Time",
       "url": "https://open.spotify.com/track/2km0Pwo18ZINnBh67fgRA3"
+    },
+    {
+      "album": {
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/4qOu8iLW8LyrX1MVm393P6"
+      },
+      "artists": [
+        {
+          "name": "Macy Gray",
+          "url": "https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/2sTr8pJwET8lswcaE3fdQz"
     },
     {
       "album": {
@@ -1620,7 +1638,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 283586,
       "name": "Keep Me From The Cold",
       "url": "https://open.spotify.com/track/0rBzGuDtwP8wIdqIXOKQFE"
@@ -2678,6 +2696,24 @@
       "duration_ms": 276013,
       "name": "Prelude To A Kiss",
       "url": "https://open.spotify.com/track/16An9cGPQGi1W8s19ZdL87"
+    },
+    {
+      "album": {
+        "name": "In The Moonlight",
+        "url": "https://open.spotify.com/album/1vCxmcWBVeYwoBPZAD1zjc"
+      },
+      "artists": [
+        {
+          "name": "Sophie Milman",
+          "url": "https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276013,
+      "name": "Prelude To A Kiss",
+      "url": "https://open.spotify.com/track/5gsuqMi0o2UFbZJQpCThZ2"
     },
     {
       "album": {

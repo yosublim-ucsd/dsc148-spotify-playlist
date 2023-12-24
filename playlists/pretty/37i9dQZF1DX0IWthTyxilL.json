@@ -1,12 +1,12 @@
 {
   "description": "Sons da floresta para inspirar seus dia ou noite.",
-  "num_followers": 10397,
+  "num_followers": 10417,
   "original_name": "Sons da Floresta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmQ0YTRjOGRlZmUxZTZlMjc5OTRmMWY5YWMwOTk1OWYyNzI5ZTc1",
+  "snapshot_id": "MCwwYjRkY2FjNWQ0MzUzMDRhZjdiMWE5ZjkzY2Y2NGY0MmI0Y2NjYjM5",
   "tracks": [
     {
       "added_at": "2023-06-19 12:57:37",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-06-19 12:57:37",
       "album": {
-        "name": "Nature",
-        "url": "https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ"
-      },
-      "artists": [
-        {
-          "name": "FX Makers",
-          "url": "https://open.spotify.com/artist/5j2ANnt53Y0hmAplt6lF57"
-        }
-      ],
-      "duration_ms": 175769,
-      "name": "Rainforest Ambience",
-      "url": "https://open.spotify.com/track/6MDmC6OgvXBj9xnLjnJ1RF"
-    },
-    {
-      "added_at": "2023-06-19 12:57:37",
-      "album": {
         "name": "English Rain and Nature Sounds",
         "url": "https://open.spotify.com/album/46zbteZ4cZqL0GmFugl5E4"
       },
@@ -571,6 +555,54 @@
     {
       "added_at": "2023-06-19 12:57:37",
       "album": {
+        "name": "Nature",
+        "url": "https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ"
+      },
+      "artists": [
+        {
+          "name": "FX Makers",
+          "url": "https://open.spotify.com/artist/5j2ANnt53Y0hmAplt6lF57"
+        }
+      ],
+      "duration_ms": 175769,
+      "name": "Rainforest Ambience",
+      "url": "https://open.spotify.com/track/6MDmC6OgvXBj9xnLjnJ1RF"
+    },
+    {
+      "added_at": "2023-06-19 12:57:37",
+      "album": {
+        "name": "For\u00eat & Oiseaux",
+        "url": "https://open.spotify.com/album/4tVQpImvgsJdHIPkOT9lJe"
+      },
+      "artists": [
+        {
+          "name": "Lisette Kenzo",
+          "url": "https://open.spotify.com/artist/2KflAxYsFtGVfxxbxmQblY"
+        }
+      ],
+      "duration_ms": 151579,
+      "name": "For\u00eat & Oiseaux",
+      "url": "https://open.spotify.com/track/5RzgY7bYZLAAozNYUpeyi3"
+    },
+    {
+      "added_at": "2023-06-19 12:57:37",
+      "album": {
+        "name": "Nature",
+        "url": "https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ"
+      },
+      "artists": [
+        {
+          "name": "QFT Sounds",
+          "url": "https://open.spotify.com/artist/4cJxUmQUsaNjHMMJubijVG"
+        }
+      ],
+      "duration_ms": 189130,
+      "name": "Natural Ambiences",
+      "url": "https://open.spotify.com/track/5ssDGpsPZ59nQhfqL1vKhb"
+    },
+    {
+      "added_at": "2023-06-19 12:57:37",
+      "album": {
         "name": "Sounds of Congo",
         "url": "https://open.spotify.com/album/0Ul7eYB4hKLvKzODqRe8k0"
       },
@@ -599,38 +631,6 @@
       "duration_ms": 220403,
       "name": "Warm Forest At Night",
       "url": "https://open.spotify.com/track/47fWPgl0tDke4qcAQFc4zd"
-    },
-    {
-      "added_at": "2023-06-19 12:57:37",
-      "album": {
-        "name": "Nature",
-        "url": "https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ"
-      },
-      "artists": [
-        {
-          "name": "QFT Sounds",
-          "url": "https://open.spotify.com/artist/4cJxUmQUsaNjHMMJubijVG"
-        }
-      ],
-      "duration_ms": 189130,
-      "name": "Natural Ambiences",
-      "url": "https://open.spotify.com/track/5ssDGpsPZ59nQhfqL1vKhb"
-    },
-    {
-      "added_at": "2023-06-19 12:57:37",
-      "album": {
-        "name": "For\u00eat & Oiseaux",
-        "url": "https://open.spotify.com/album/4tVQpImvgsJdHIPkOT9lJe"
-      },
-      "artists": [
-        {
-          "name": "Lisette Kenzo",
-          "url": "https://open.spotify.com/artist/2KflAxYsFtGVfxxbxmQblY"
-        }
-      ],
-      "duration_ms": 151579,
-      "name": "For\u00eat & Oiseaux",
-      "url": "https://open.spotify.com/track/5RzgY7bYZLAAozNYUpeyi3"
     },
     {
       "added_at": "2023-06-19 12:57:37",

@@ -1,12 +1,12 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 26777,
+  "num_followers": 26782,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NDg4NjA0MmY3N2MxYWVjYWEyZmNjYjllOGJhZjI5MzUzODUzZWY4",
+  "snapshot_id": "MCxmN2JhZjhiM2RiY2Y2NjBlYzI1NDM3YWU0N2U2OGUyYWY3Y2U3Njk1",
   "tracks": [
     {
       "added_at": "2023-12-14 23:00:00",
@@ -595,6 +595,22 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/2ZJYTrtrH7mlGfeZ9ysR3R"
+      },
+      "artists": [
+        {
+          "name": "Sarettii",
+          "url": "https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi"
+        }
+      ],
+      "duration_ms": 166216,
+      "name": "WAKA WAKA",
+      "url": "https://open.spotify.com/track/2g6O4J9ktUjorMkgyhglYP"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
         "name": "Konstn\u00e4rer",
         "url": "https://open.spotify.com/album/4v8mqTXuAn0wc3wVdDORX4"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 150040,
       "name": "Konstn\u00e4rer",
       "url": "https://open.spotify.com/track/42YORRVJuaCskxH8XbLb05"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Come Alive",
-        "url": "https://open.spotify.com/album/2ZJYTrtrH7mlGfeZ9ysR3R"
-      },
-      "artists": [
-        {
-          "name": "Sarettii",
-          "url": "https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi"
-        }
-      ],
-      "duration_ms": 166216,
-      "name": "WAKA WAKA",
-      "url": "https://open.spotify.com/track/2g6O4J9ktUjorMkgyhglYP"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Sprite",
-        "url": "https://open.spotify.com/album/3dM7Puknln54aDQmGa17KQ"
-      },
-      "artists": [
-        {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
-        }
-      ],
-      "duration_ms": 165570,
-      "name": "Sprite",
-      "url": "https://open.spotify.com/track/2wmUMn0pawCGlWdonLkWQS"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "Feeling Myself",
         "url": "https://open.spotify.com/album/0KOYsqi0RwEZWPIt6V9ICU"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 182769,
       "name": "Feeling Myself",
       "url": "https://open.spotify.com/track/0SOgdDDCI704FegadgOfc1"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Sprite",
+        "url": "https://open.spotify.com/album/3dM7Puknln54aDQmGa17KQ"
+      },
+      "artists": [
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        }
+      ],
+      "duration_ms": 165570,
+      "name": "Sprite",
+      "url": "https://open.spotify.com/track/2wmUMn0pawCGlWdonLkWQS"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -911,26 +911,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Koppla Av",
-        "url": "https://open.spotify.com/album/3NUr1KOsJkDcK7x20aL0OR"
-      },
-      "artists": [
-        {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
-        },
-        {
-          "name": "Shenzi Beats",
-          "url": "https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg"
-        }
-      ],
-      "duration_ms": 173877,
-      "name": "Koppla Av",
-      "url": "https://open.spotify.com/track/6TzmXkA7Y047fYtPjQLxug"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "Det var aldri meg",
         "url": "https://open.spotify.com/album/5IqtgESYSJ5kiGVd8xGyOJ"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 180912,
       "name": "Cuando Menos Lo Espera",
       "url": "https://open.spotify.com/track/0K64Z8f4jGT1jGmVEvgs20"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Koppla Av",
+        "url": "https://open.spotify.com/album/3NUr1KOsJkDcK7x20aL0OR"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        },
+        {
+          "name": "Shenzi Beats",
+          "url": "https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg"
+        }
+      ],
+      "duration_ms": 173877,
+      "name": "Koppla Av",
+      "url": "https://open.spotify.com/track/6TzmXkA7Y047fYtPjQLxug"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Millions",
-        "url": "https://open.spotify.com/album/3MAwZL5tB0PKU5DDcB0Ic4"
-      },
-      "artists": [
-        {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
-        },
-        {
-          "name": "Shenzi Beats",
-          "url": "https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg"
-        }
-      ],
-      "duration_ms": 121263,
-      "name": "Millions",
-      "url": "https://open.spotify.com/track/2h5GOVxIHF4jJCvIGa8xIq"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "Saint Laurent",
         "url": "https://open.spotify.com/album/5lKomx0E7DTWYVCrK4nBDC"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 168000,
       "name": "Saint Laurent",
       "url": "https://open.spotify.com/track/1MFHhIk4t2w4K6amxMYV9Y"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "LEVENDE LEGENDE",
+        "url": "https://open.spotify.com/album/7pXSK4kHG8414oyMY9kkgb"
+      },
+      "artists": [
+        {
+          "name": "Branco",
+          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
+        },
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        }
+      ],
+      "duration_ms": 250060,
+      "name": "LEVENDE LEGENDE",
+      "url": "https://open.spotify.com/track/3JTf2EmzC8Y2xEXTkHbman"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1147,22 +1147,22 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "LEVENDE LEGENDE",
-        "url": "https://open.spotify.com/album/7pXSK4kHG8414oyMY9kkgb"
+        "name": "Millions",
+        "url": "https://open.spotify.com/album/3MAwZL5tB0PKU5DDcB0Ic4"
       },
       "artists": [
         {
-          "name": "Branco",
-          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
         },
         {
-          "name": "Vory",
-          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+          "name": "Shenzi Beats",
+          "url": "https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg"
         }
       ],
-      "duration_ms": 250060,
-      "name": "LEVENDE LEGENDE",
-      "url": "https://open.spotify.com/track/3JTf2EmzC8Y2xEXTkHbman"
+      "duration_ms": 121263,
+      "name": "Millions",
+      "url": "https://open.spotify.com/track/2h5GOVxIHF4jJCvIGa8xIq"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Se & L\u00e4r",
-        "url": "https://open.spotify.com/album/1pc3MNrUfjUZ8atQ2D6ynv"
-      },
-      "artists": [
-        {
-          "name": "Z.E",
-          "url": "https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR"
-        }
-      ],
-      "duration_ms": 143500,
-      "name": "Se & L\u00e4r",
-      "url": "https://open.spotify.com/track/0LGsfY6XeIJtx8K3YJbWJf"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "Psykopat",
         "url": "https://open.spotify.com/album/04b3i3XY9YuRuP8dIKxh9d"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 129714,
       "name": "Psykopat",
       "url": "https://open.spotify.com/track/4ImKE5dAPoZoDxKKwIimhn"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Se & L\u00e4r",
+        "url": "https://open.spotify.com/album/1pc3MNrUfjUZ8atQ2D6ynv"
+      },
+      "artists": [
+        {
+          "name": "Z.E",
+          "url": "https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR"
+        }
+      ],
+      "duration_ms": 143500,
+      "name": "Se & L\u00e4r",
+      "url": "https://open.spotify.com/track/0LGsfY6XeIJtx8K3YJbWJf"
     },
     {
       "added_at": "2023-12-14 23:00:00",

@@ -4366,10 +4366,32 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 253706,
       "name": "Grey Hair",
       "url": "https://open.spotify.com/track/2DV4aaQyV6QNQx8Iylvrsq"
+    },
+    {
+      "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/2kLyZqFFxBq2wjR8IPUwcE"
+      },
+      "artists": [
+        {
+          "name": "Da' T.R.U.T.H.",
+          "url": "https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4"
+        },
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253706,
+      "name": "Grey Hair",
+      "url": "https://open.spotify.com/track/780cTIllynxIpZsU8LpAJu"
     },
     {
       "album": {

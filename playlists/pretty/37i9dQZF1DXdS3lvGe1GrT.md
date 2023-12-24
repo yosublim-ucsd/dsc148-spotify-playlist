@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > The top 75 tracks from Fresh Finds Folk in 2023\. Cover: Kara Jackson
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,800 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,860 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 38 | [always you](https://open.spotify.com/track/1VnzFfaYbMIcau8j5NIHoA) | [COULOU](https://open.spotify.com/artist/218vhB0brgQIVn4ldcXXUl) | [always you](https://open.spotify.com/album/33tWymlxl5cpgscFbxkHnI) | 3:08 |
 | 39 | [Motel Blues](https://open.spotify.com/track/4icgk39xfvIhOhWqtRXgP3) | [Ella Hunt](https://open.spotify.com/artist/2UfYkwgDo1abQS1U4pO2bT) | [Motel Blues](https://open.spotify.com/album/0W8qyUVcOBGmeC4bVec1TV) | 3:03 |
 | 40 | [Challenger Deep](https://open.spotify.com/track/3CnvoHAOgFSC6bvtxk7lST) | [Daneshevskaya](https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF) | [Long Is The Tunnel](https://open.spotify.com/album/4jdazNCLxmTYP9Ip1qbR3e) | 3:54 |
-| 41 | [Two Heads, Grey Mare](https://open.spotify.com/track/7hbxC92Qr34lDZQWLiBuKh) | [Cinder Well](https://open.spotify.com/artist/6BJ7iUkCa68mX6UnFBwzsV) | [Cadence](https://open.spotify.com/album/3JbWIzI320YwRDOY3EoRSG) | 4:41 |
+| 41 | [Two Heads, Grey Mare](https://open.spotify.com/track/4Rxt20xtEiEJWB5CTRRNbb) | [Cinder Well](https://open.spotify.com/artist/6BJ7iUkCa68mX6UnFBwzsV) | [Cadence](https://open.spotify.com/album/5FkjAV7AiEFbdtRbsq2hrT) | 4:41 |
 | 42 | [Long Road Ahead](https://open.spotify.com/track/5QRnF1susEGh48AC4WzWvb) | [Maybel](https://open.spotify.com/artist/4vyc9XRUivKWefuHRepSQh) | [Long Road Ahead](https://open.spotify.com/album/1VT4RlcKgtGuOjx3DWVGyT) | 4:15 |
 | 43 | [I'm Not Like Alice](https://open.spotify.com/track/1AeBPeEi4QbvDLPx3iosv5) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [I'm Not Like Alice](https://open.spotify.com/album/26U9UPoJU8Dcng6KqKKjmL) | 2:16 |
 | 44 | [Basil Noodles](https://open.spotify.com/track/4dmDoUAL9cFrHkE5En0RPH) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Humor](https://open.spotify.com/album/2bcAwgtbyhdjmUSxsxHAoR) | 2:16 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 74 | [Come June](https://open.spotify.com/track/3D5Q74gpo1mRbFlkEwIa5a) | [Mitch Rowland](https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ) | [Come June](https://open.spotify.com/album/34Z7YoAQ9K3NzV8E8OBxZg) | 3:36 |
 | 75 | [Mud\-Stained Dress](https://open.spotify.com/track/0uItDWscT3ytoQY5bPq9US) | [Elias Hix](https://open.spotify.com/artist/7caEhKgBilB0MHIyWWWGsV) | [Thinner](https://open.spotify.com/album/0gyb0gR5HiR1kLDXdvGPpA) | 3:26 |
 
-Snapshot ID: `MCxhNzg3NDk5ZGQwMDk3MDlhYTUwYmExYjcyZThmN2Q2YWEyNDU4NGRl`
+Snapshot ID: `MCwzZjAyZTMxNDNmODZiMGNiZDhmZTQ5ZDEzNDQ1MjVjOWIxM2JkYWFh`

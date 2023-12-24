@@ -1,12 +1,12 @@
 {
   "description": "Zeit f\u00fcr Pl\u00e4tzchen backen, Schlittschuhlaufen und Schneemann bauen \ud83c\udf6a\u26f8\ufe0f\u2603\ufe0f",
-  "num_followers": 32961,
+  "num_followers": 33053,
   "original_name": "Familienzeit: Winter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjI0YjUzZTRiN2ViYWNiN2I4Y2FiMGQ4YTYyZWEwMDhiOTYxYTI2",
+  "snapshot_id": "MCw0Y2M3NDI1Nzc1ZjgzMzAzYWMzMDI1MjkzYTFmNTBkMTMyZWM1NGEz",
   "tracks": [
     {
       "added_at": "2023-12-08 10:22:00",
@@ -231,22 +231,6 @@
     {
       "added_at": "2023-12-08 10:22:00",
       "album": {
-        "name": "Die Eisk\u00f6nigin V\u00f6llig Unverfroren (Deutscher Original Film Soundtrack)",
-        "url": "https://open.spotify.com/album/3E20g5xQv0OcWTeRTTb91N"
-      },
-      "artists": [
-        {
-          "name": "Hape Kerkeling",
-          "url": "https://open.spotify.com/artist/3CJ0RVE3IsRub5KQLN0rtl"
-        }
-      ],
-      "duration_ms": 111266,
-      "name": "Im Sommer",
-      "url": "https://open.spotify.com/track/0TVycvoTx7UQIooIU01PwE"
-    },
-    {
-      "added_at": "2023-12-08 10:22:00",
-      "album": {
         "name": "Das Weihnachtsalbum",
         "url": "https://open.spotify.com/album/5Lvy6ZClAUg6UcDKkLaUU4"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 179179,
       "name": "Die krassesten Schlitten",
       "url": "https://open.spotify.com/track/0hK6Ouhs3AKP1O7ma26ECE"
+    },
+    {
+      "added_at": "2023-12-08 10:22:00",
+      "album": {
+        "name": "Die Eisk\u00f6nigin V\u00f6llig Unverfroren (Deutscher Original Film Soundtrack)",
+        "url": "https://open.spotify.com/album/3E20g5xQv0OcWTeRTTb91N"
+      },
+      "artists": [
+        {
+          "name": "Hape Kerkeling",
+          "url": "https://open.spotify.com/artist/3CJ0RVE3IsRub5KQLN0rtl"
+        }
+      ],
+      "duration_ms": 111266,
+      "name": "Im Sommer",
+      "url": "https://open.spotify.com/track/0TVycvoTx7UQIooIU01PwE"
     },
     {
       "added_at": "2023-12-08 10:22:00",
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-12-08 10:22:00",
       "album": {
-        "name": "Wir sind die Wichtel",
-        "url": "https://open.spotify.com/album/5EHR8zntKL9n3zLAoObvSq"
+        "name": "Unter meinem Bett. Das Weihnachtsalbum",
+        "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
       },
       "artists": [
         {
-          "name": "Simon Sagt",
-          "url": "https://open.spotify.com/artist/4B1AsCllmZk9SVd2OUyBRr"
+          "name": "Maike Rosa Vogel",
+          "url": "https://open.spotify.com/artist/7DpqBfYauYeRXR1hYRhDbw"
         }
       ],
-      "duration_ms": 169627,
-      "name": "Wir sind die Wichtel",
-      "url": "https://open.spotify.com/track/5Z4oTHTkzt1hDD5DO0jzB0"
+      "duration_ms": 193813,
+      "name": "Adventskalender",
+      "url": "https://open.spotify.com/track/49pLOR48qA4FHTsgyObQpw"
     },
     {
       "added_at": "2023-12-08 10:22:00",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-12-08 10:22:00",
       "album": {
-        "name": "Unter meinem Bett. Das Weihnachtsalbum",
-        "url": "https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu"
+        "name": "Wir sind die Wichtel",
+        "url": "https://open.spotify.com/album/5EHR8zntKL9n3zLAoObvSq"
       },
       "artists": [
         {
-          "name": "Maike Rosa Vogel",
-          "url": "https://open.spotify.com/artist/7DpqBfYauYeRXR1hYRhDbw"
+          "name": "Simon Sagt",
+          "url": "https://open.spotify.com/artist/4B1AsCllmZk9SVd2OUyBRr"
         }
       ],
-      "duration_ms": 193813,
-      "name": "Adventskalender",
-      "url": "https://open.spotify.com/track/49pLOR48qA4FHTsgyObQpw"
+      "duration_ms": 169627,
+      "name": "Wir sind die Wichtel",
+      "url": "https://open.spotify.com/track/5Z4oTHTkzt1hDD5DO0jzB0"
     },
     {
       "added_at": "2023-12-08 10:22:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-12-08 10:22:00",
       "album": {
+        "name": "Meine Lieblingskinderlieder f\u00fcr die Weihnachtszeit",
+        "url": "https://open.spotify.com/album/3Q442wxkCQFQ4adGwi0U3h"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "duration_ms": 169591,
+      "name": "Schneeengel",
+      "url": "https://open.spotify.com/track/33to3U2rdPNX2v0lEIUGNR"
+    },
+    {
+      "added_at": "2023-12-08 10:22:00",
+      "album": {
         "name": "Unsere sch\u00f6nsten Weihnachtslieder",
         "url": "https://open.spotify.com/album/1Bs8R1MlRykYywXeH0dEvJ"
       },
@@ -1183,18 +1199,18 @@
     {
       "added_at": "2023-12-08 10:22:00",
       "album": {
-        "name": "Meine Lieblingskinderlieder f\u00fcr die Weihnachtszeit",
-        "url": "https://open.spotify.com/album/3Q442wxkCQFQ4adGwi0U3h"
+        "name": "Das gr\u00fcne Album",
+        "url": "https://open.spotify.com/album/5u87MPxd1JVZ5853FJPn29"
       },
       "artists": [
         {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+          "name": "Nilsen",
+          "url": "https://open.spotify.com/artist/13x0bektBEknCM276OqYMn"
         }
       ],
-      "duration_ms": 169591,
-      "name": "Schneeengel",
-      "url": "https://open.spotify.com/track/33to3U2rdPNX2v0lEIUGNR"
+      "duration_ms": 122120,
+      "name": "Winterzeit",
+      "url": "https://open.spotify.com/track/6zJviKdcuwQGdSKUVwQDIV"
     },
     {
       "added_at": "2023-12-08 10:22:00",
@@ -1231,22 +1247,6 @@
       "duration_ms": 129640,
       "name": "Backe, Backe Kuchen",
       "url": "https://open.spotify.com/track/4joHBph6qNwf5IiB9LmeaQ"
-    },
-    {
-      "added_at": "2023-12-08 10:22:00",
-      "album": {
-        "name": "Das gr\u00fcne Album",
-        "url": "https://open.spotify.com/album/5u87MPxd1JVZ5853FJPn29"
-      },
-      "artists": [
-        {
-          "name": "Nilsen",
-          "url": "https://open.spotify.com/artist/13x0bektBEknCM276OqYMn"
-        }
-      ],
-      "duration_ms": 122120,
-      "name": "Winterzeit",
-      "url": "https://open.spotify.com/track/6zJviKdcuwQGdSKUVwQDIV"
     },
     {
       "added_at": "2023-12-08 10:22:00",

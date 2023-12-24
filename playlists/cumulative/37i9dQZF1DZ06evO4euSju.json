@@ -6,6 +6,24 @@
     {
       "album": {
         "name": "Afterglow",
+        "url": "https://open.spotify.com/album/1zSuLk1sl9xh1b7xKO0vJL"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284104,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/6XZFf9VlLpjaVGkaHfYnJO"
+    },
+    {
+      "album": {
+        "name": "Afterglow",
         "url": "https://open.spotify.com/album/1vl7YPWGq7DgJMcOsWHWIg"
       },
       "artists": [
@@ -16,7 +34,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 284104,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/6zixerdspBU1krXRNMaalM"
@@ -408,6 +426,24 @@
     {
       "album": {
         "name": "Dazed",
+        "url": "https://open.spotify.com/album/4oLn1rTRoZtozr8uRYUKu8"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246325,
+      "name": "Outside of Love",
+      "url": "https://open.spotify.com/track/1igt3E8ffAckDkdREZ12HB"
+    },
+    {
+      "album": {
+        "name": "Dazed",
         "url": "https://open.spotify.com/album/5OMhpOEVJ9kXp2ayrCFMLK"
       },
       "artists": [
@@ -418,7 +454,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 246325,
       "name": "Outside of Love",
       "url": "https://open.spotify.com/track/4pvuxa2b2V6ArNi8qBHRKH"
@@ -678,10 +714,28 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 301418,
       "name": "Summer",
       "url": "https://open.spotify.com/track/2eVl7KmAVQNbDUpd7Dkka3"
+    },
+    {
+      "album": {
+        "name": "Dazed",
+        "url": "https://open.spotify.com/album/4oLn1rTRoZtozr8uRYUKu8"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301418,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/3YpvQGhkRJ2Nb9rTwknxZw"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Corridos viejitos que cuentan los hechos reales de nuestro pueblo. Chalino S\u00e1nchez en portada. ",
-  "num_followers": 556138,
+  "num_followers": 556776,
   "original_name": "Corridos de Anta\u00f1o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDFlYmZmZmQ3ODA1MWI0YWIxMTRkZTgzOTdiODEzMmQ0ODFkZmEx",
+  "snapshot_id": "MCw0ODc2NmNiY2RmYTQyMDZmZjg4Y2NiOWEwNzRjYzc3OGNkNzg0YjBi",
   "tracks": [
     {
       "added_at": "2023-10-13 20:39:02",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-10-13 20:39:02",
       "album": {
-        "name": "Corridos",
-        "url": "https://open.spotify.com/album/6Au63pdf8vjOy905MVQEeq"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 177423,
-      "name": "Corrido De Lucio V\u00e1zquez (Los Pavo Reales)",
-      "url": "https://open.spotify.com/track/6lXrAxIS0gKuvyaytEy4Ck"
-    },
-    {
-      "added_at": "2023-10-13 20:39:02",
-      "album": {
         "name": "Corridos Volumen 1",
         "url": "https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 188533,
       "name": "Rafael Caro Quintero",
       "url": "https://open.spotify.com/track/6CaDhKiByDaJlLRgAlW0QF"
+    },
+    {
+      "added_at": "2023-10-13 20:39:02",
+      "album": {
+        "name": "Corridos",
+        "url": "https://open.spotify.com/album/6Au63pdf8vjOy905MVQEeq"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 177423,
+      "name": "Corrido De Lucio V\u00e1zquez (Los Pavo Reales)",
+      "url": "https://open.spotify.com/track/6lXrAxIS0gKuvyaytEy4Ck"
     },
     {
       "added_at": "2023-10-13 20:39:02",
@@ -759,38 +759,6 @@
     {
       "added_at": "2023-10-13 20:39:02",
       "album": {
-        "name": "En Que Trabaja El Muchacho",
-        "url": "https://open.spotify.com/album/78sB90ztB36qs1CQuAerxB"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 122618,
-      "name": "En Que Trabaja El Muchacho",
-      "url": "https://open.spotify.com/track/2mQ0j9CdvOdKaDp2UdJbZ4"
-    },
-    {
-      "added_at": "2023-10-13 20:39:02",
-      "album": {
-        "name": "El Deportado (Grabaci\u00f3n Original Remasterizada)",
-        "url": "https://open.spotify.com/album/15hBTdcPr7Q1DFG9wVtyJq"
-      },
-      "artists": [
-        {
-          "name": "Los terribles Del Norte",
-          "url": "https://open.spotify.com/artist/6rJ9D34bMtluzXuFx2AFNT"
-        }
-      ],
-      "duration_ms": 168160,
-      "name": "El Deportado",
-      "url": "https://open.spotify.com/track/4HXYP6cpEuJO7ikYR1jMJu"
-    },
-    {
-      "added_at": "2023-10-13 20:39:02",
-      "album": {
         "name": "20 Corridos Bien Perrones",
         "url": "https://open.spotify.com/album/75Ko8jNzPDAYwY7PPHwjic"
       },
@@ -807,6 +775,22 @@
     {
       "added_at": "2023-10-13 20:39:02",
       "album": {
+        "name": "En Que Trabaja El Muchacho",
+        "url": "https://open.spotify.com/album/78sB90ztB36qs1CQuAerxB"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 122618,
+      "name": "En Que Trabaja El Muchacho",
+      "url": "https://open.spotify.com/track/2mQ0j9CdvOdKaDp2UdJbZ4"
+    },
+    {
+      "added_at": "2023-10-13 20:39:02",
+      "album": {
         "name": "Pueblito",
         "url": "https://open.spotify.com/album/3gwXs9usmAvXTMZYbvOZOh"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 201880,
       "name": "El Regio Traficante",
       "url": "https://open.spotify.com/track/55bUQmbL9KBOfjpwqb19nK"
+    },
+    {
+      "added_at": "2023-10-13 20:39:02",
+      "album": {
+        "name": "El Deportado (Grabaci\u00f3n Original Remasterizada)",
+        "url": "https://open.spotify.com/album/15hBTdcPr7Q1DFG9wVtyJq"
+      },
+      "artists": [
+        {
+          "name": "Los terribles Del Norte",
+          "url": "https://open.spotify.com/artist/6rJ9D34bMtluzXuFx2AFNT"
+        }
+      ],
+      "duration_ms": 168160,
+      "name": "El Deportado",
+      "url": "https://open.spotify.com/track/4HXYP6cpEuJO7ikYR1jMJu"
     },
     {
       "added_at": "2023-10-13 20:39:02",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-10-13 20:39:02",
       "album": {
+        "name": "21 Black Jack",
+        "url": "https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 164386,
+      "name": "Que No Se Apague La Lumbre",
+      "url": "https://open.spotify.com/track/5HHtIw03mC3OPPRjFUQ2Hb"
+    },
+    {
+      "added_at": "2023-10-13 20:39:02",
+      "album": {
         "name": "Pa' Puros Compas!, Vol. 2: Corridos y Rancheras",
         "url": "https://open.spotify.com/album/6YfMNFnsU5lhm1T3Tt9vB9"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 164080,
       "name": "El Barzon",
       "url": "https://open.spotify.com/track/3WALh4MuKxt00oJO7vSrjk"
-    },
-    {
-      "added_at": "2023-10-13 20:39:02",
-      "album": {
-        "name": "21 Black Jack",
-        "url": "https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 164386,
-      "name": "Que No Se Apague La Lumbre",
-      "url": "https://open.spotify.com/track/5HHtIw03mC3OPPRjFUQ2Hb"
     },
     {
       "added_at": "2023-10-13 20:39:02",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-10-13 20:39:02",
       "album": {
+        "name": "Corridos Volumen 1",
+        "url": "https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "El Ultimo Cartucho",
+      "url": "https://open.spotify.com/track/3khgsGxNwXijlqyStMvpfh"
+    },
+    {
+      "added_at": "2023-10-13 20:39:02",
+      "album": {
         "name": "El Chubasco",
         "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
       },
@@ -1031,22 +1047,6 @@
     {
       "added_at": "2023-10-13 20:39:02",
       "album": {
-        "name": "Exitos En Vivo Vol. 2",
-        "url": "https://open.spotify.com/album/413gecZxn5pFxE7hekZYGW"
-      },
-      "artists": [
-        {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
-        }
-      ],
-      "duration_ms": 232154,
-      "name": "Reproches Al Viento",
-      "url": "https://open.spotify.com/track/4c8ouGnAqVqp3puWViy0Pz"
-    },
-    {
-      "added_at": "2023-10-13 20:39:02",
-      "album": {
         "name": "El Cartel de Los Cielos",
         "url": "https://open.spotify.com/album/1SsbPJiv3kPz69cRfGxI7b"
       },
@@ -1063,34 +1063,18 @@
     {
       "added_at": "2023-10-13 20:39:02",
       "album": {
-        "name": "Corridos Volumen 1",
-        "url": "https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi"
+        "name": "Exitos En Vivo Vol. 2",
+        "url": "https://open.spotify.com/album/413gecZxn5pFxE7hekZYGW"
       },
       "artists": [
         {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
         }
       ],
-      "duration_ms": 201066,
-      "name": "El Ultimo Cartucho",
-      "url": "https://open.spotify.com/track/3khgsGxNwXijlqyStMvpfh"
-    },
-    {
-      "added_at": "2023-10-13 20:39:02",
-      "album": {
-        "name": "Patrulla 05 Corridos Con",
-        "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 171146,
-      "name": "La Patrulla 05",
-      "url": "https://open.spotify.com/track/4ygR8e1Qyb77idygs0EYcd"
+      "duration_ms": 232154,
+      "name": "Reproches Al Viento",
+      "url": "https://open.spotify.com/track/4c8ouGnAqVqp3puWViy0Pz"
     },
     {
       "added_at": "2023-10-13 20:39:02",
@@ -1159,22 +1143,6 @@
     {
       "added_at": "2023-10-13 20:39:02",
       "album": {
-        "name": "20 Corridos Valientes",
-        "url": "https://open.spotify.com/album/7zCFxesPCL1RysW5h2UFNE"
-      },
-      "artists": [
-        {
-          "name": "Luis y Julian",
-          "url": "https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl"
-        }
-      ],
-      "duration_ms": 192522,
-      "name": "Kil\u00f3metro 1160",
-      "url": "https://open.spotify.com/track/1vxxC9RJh9BHfKpnh4vKTs"
-    },
-    {
-      "added_at": "2023-10-13 20:39:02",
-      "album": {
         "name": "De Coraz\u00f3n Norte\u00f1o",
         "url": "https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb"
       },
@@ -1187,6 +1155,38 @@
       "duration_ms": 254706,
       "name": "Sim\u00f3n Blanco",
       "url": "https://open.spotify.com/track/4k8tSR5P1rqtfNjGLVZqqm"
+    },
+    {
+      "added_at": "2023-10-13 20:39:02",
+      "album": {
+        "name": "Patrulla 05 Corridos Con",
+        "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 171146,
+      "name": "La Patrulla 05",
+      "url": "https://open.spotify.com/track/4ygR8e1Qyb77idygs0EYcd"
+    },
+    {
+      "added_at": "2023-10-13 20:39:02",
+      "album": {
+        "name": "20 Corridos Valientes",
+        "url": "https://open.spotify.com/album/7zCFxesPCL1RysW5h2UFNE"
+      },
+      "artists": [
+        {
+          "name": "Luis y Julian",
+          "url": "https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl"
+        }
+      ],
+      "duration_ms": 192522,
+      "name": "Kil\u00f3metro 1160",
+      "url": "https://open.spotify.com/track/1vxxC9RJh9BHfKpnh4vKTs"
     },
     {
       "added_at": "2023-10-13 20:39:02",

@@ -1,12 +1,12 @@
 {
   "description": "Country that made Country Cool! Cover: Martina McBride",
-  "num_followers": 1734416,
+  "num_followers": 1734744,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWY2Yzg3ZTU4ZWM2MzNkYWY1ODAwMzVmMmQ5Y2FkNjY0MjdjYmNj",
+  "snapshot_id": "MCw5YzQ5OGIzNjQyNWI4NDNlNWE4YzAwZmY2M2I4NzQ2MTUxNmExOGY3",
   "tracks": [
     {
       "added_at": "2023-12-11 20:32:32",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "Clay Walker",
-        "url": "https://open.spotify.com/album/2wiyzwPZevxFFHYWyGBkWt"
-      },
-      "artists": [
-        {
-          "name": "Clay Walker",
-          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
-        }
-      ],
-      "duration_ms": 166626,
-      "name": "What's It to You",
-      "url": "https://open.spotify.com/track/346GCw2msr77HA5I5NFsKS"
-    },
-    {
-      "added_at": "2023-12-11 20:32:32",
-      "album": {
         "name": "When Love Finds You",
         "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 315973,
       "name": "Go Rest High On That Mountain",
       "url": "https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz"
+    },
+    {
+      "added_at": "2023-12-11 20:32:32",
+      "album": {
+        "name": "Clay Walker",
+        "url": "https://open.spotify.com/album/2wiyzwPZevxFFHYWyGBkWt"
+      },
+      "artists": [
+        {
+          "name": "Clay Walker",
+          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
+        }
+      ],
+      "duration_ms": 166626,
+      "name": "What's It to You",
+      "url": "https://open.spotify.com/track/346GCw2msr77HA5I5NFsKS"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "Can't Run From Yourself",
-        "url": "https://open.spotify.com/album/6AFaPe8uSnqCqP6kbq0CuS"
-      },
-      "artists": [
-        {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
-        }
-      ],
-      "duration_ms": 250533,
-      "name": "Two Sparrows In A Hurricane",
-      "url": "https://open.spotify.com/track/7k9F26WpokhmRjzwxlCsCP"
-    },
-    {
-      "added_at": "2023-12-11 20:32:32",
-      "album": {
         "name": "Michael Peterson",
         "url": "https://open.spotify.com/album/6SYfJ8JLGIP87pOiH9FMpC"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 182306,
       "name": "Drink, Swear, Steal & Lie",
       "url": "https://open.spotify.com/track/3ZdAwMX7Lku81KGiqsjDeA"
+    },
+    {
+      "added_at": "2023-12-11 20:32:32",
+      "album": {
+        "name": "Can't Run From Yourself",
+        "url": "https://open.spotify.com/album/6AFaPe8uSnqCqP6kbq0CuS"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "duration_ms": 250533,
+      "name": "Two Sparrows In A Hurricane",
+      "url": "https://open.spotify.com/track/7k9F26WpokhmRjzwxlCsCP"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "Young Man",
-        "url": "https://open.spotify.com/album/23dwTNazk2yGjtVSMzgxBH"
-      },
-      "artists": [
-        {
-          "name": "Billy Dean",
-          "url": "https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX"
-        }
-      ],
-      "duration_ms": 214466,
-      "name": "Only Here For A Little While",
-      "url": "https://open.spotify.com/track/6JCKHmZ30oadQW44GzsdNB"
-    },
-    {
-      "added_at": "2023-12-11 20:32:32",
-      "album": {
         "name": "Del Rio, Tx 1959",
         "url": "https://open.spotify.com/album/7240tFVJVFEETt5rSUXfRe"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 210746,
       "name": "Nobody Wins",
       "url": "https://open.spotify.com/track/2A9ERxDfT3sdShrDUtTnaS"
+    },
+    {
+      "added_at": "2023-12-11 20:32:32",
+      "album": {
+        "name": "Young Man",
+        "url": "https://open.spotify.com/album/23dwTNazk2yGjtVSMzgxBH"
+      },
+      "artists": [
+        {
+          "name": "Billy Dean",
+          "url": "https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX"
+        }
+      ],
+      "duration_ms": 214466,
+      "name": "Only Here For A Little While",
+      "url": "https://open.spotify.com/track/6JCKHmZ30oadQW44GzsdNB"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "Only What I Feel",
-        "url": "https://open.spotify.com/album/4ZyxBpJuAeEcrW2waHYuiB"
-      },
-      "artists": [
-        {
-          "name": "Patty Loveless",
-          "url": "https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT"
-        }
-      ],
-      "duration_ms": 298560,
-      "name": "How Can I Help You Say Goodbye",
-      "url": "https://open.spotify.com/track/04f1rOkeyOqYQQzPJZk9JS"
-    },
-    {
-      "added_at": "2023-12-11 20:32:32",
-      "album": {
         "name": "What Mattered Most",
         "url": "https://open.spotify.com/album/5Qo3ap2epPKhvaQCDnIJj6"
       },
@@ -2371,6 +2355,22 @@
       "duration_ms": 221426,
       "name": "What Mattered Most",
       "url": "https://open.spotify.com/track/09nWHcNuohUS7HMPdIDwrr"
+    },
+    {
+      "added_at": "2023-12-11 20:32:32",
+      "album": {
+        "name": "Only What I Feel",
+        "url": "https://open.spotify.com/album/4ZyxBpJuAeEcrW2waHYuiB"
+      },
+      "artists": [
+        {
+          "name": "Patty Loveless",
+          "url": "https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT"
+        }
+      ],
+      "duration_ms": 298560,
+      "name": "How Can I Help You Say Goodbye",
+      "url": "https://open.spotify.com/track/04f1rOkeyOqYQQzPJZk9JS"
     },
     {
       "added_at": "2023-12-11 20:32:32",

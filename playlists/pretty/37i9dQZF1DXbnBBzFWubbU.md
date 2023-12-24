@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,141 likes - 85 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,180 likes - 85 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 | 40 | [channo](https://open.spotify.com/track/2sPwFSESO5uF4h013k1RTo) | [Maraasim](https://open.spotify.com/artist/7stUMpaIH3pVscxYmlcvqv) | [channo](https://open.spotify.com/album/6INyQJqdMPQ8DJXpnx4QMm) | 1:36 |
 | 41 | [Naani](https://open.spotify.com/track/3wjTIGcE4bDjdMUVKELEtm) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM) | [Naani](https://open.spotify.com/album/2sSpXO2C7ZNHh19dnIIOn4) | 3:56 |
 | 42 | [Clarify My Soul](https://open.spotify.com/track/483jACYT1HWbgvWSgYxEFq) | [November Rose](https://open.spotify.com/artist/40i8JD0t84iUXFC2Y2bNHO) | [Desi Spice, Vol\. 1](https://open.spotify.com/album/0DofQSWPcVfN5Bua73V3LI) | 3:51 |
-| 43 | [Naina \(Jay Pei Remix\)](https://open.spotify.com/track/7zjeLjktkiYtfNUir9doos) | [Anhad + Tanner](https://open.spotify.com/artist/5V4PIa2khOUA4o5HUd5fhZ), [Isheeta Chakrvarty](https://open.spotify.com/artist/44hBrSWimAgWD5iqB16XId), [Jay Pei](https://open.spotify.com/artist/0BLJb1n9C25fGISMnSzHIj) | [In Other Words \(Remixes\)](https://open.spotify.com/album/2hlJOVajeNENWIZbLPOIbv) | 6:19 |
+| 43 | [Naina \(Jay Pei Remix\)](https://open.spotify.com/track/6eH4l2DyxkTHZXxscPRvNs) | [Anhad + Tanner](https://open.spotify.com/artist/5V4PIa2khOUA4o5HUd5fhZ), [Isheeta Chakrvarty](https://open.spotify.com/artist/44hBrSWimAgWD5iqB16XId), [Jay Pei](https://open.spotify.com/artist/0BLJb1n9C25fGISMnSzHIj) | [In Other Words \(Remixes\)](https://open.spotify.com/album/7t3y1lcPiSP1Ie1j2xxskm) | 6:19 |
 | 44 | [Guddi Riddim](https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR), [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Guddi Riddim](https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN) | 3:30 |
 | 45 | [Yaar Daadhi](https://open.spotify.com/track/79aKn6laRblyFXS5UhL6h7) | [Ahsan Pervaiz Mehdi](https://open.spotify.com/artist/7DOompIBVJEHcUxOkpbZon), [Shaan Shahid](https://open.spotify.com/artist/2j2YkcYpS7C5SvAPeZtFLc) | [Yaar Daadhi](https://open.spotify.com/album/0xxhz0nCJB1VCF72VitAll) | 2:54 |
 | 46 | [Yaad](https://open.spotify.com/track/3lDyGOF6PU4jXJIlbEkHR5) | [ZOH](https://open.spotify.com/artist/1T5V8R7QKMhQImEdKNDyFU) | [Yaad](https://open.spotify.com/album/1qQB65zqRUkzuSqla06oSg) | 2:45 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnBBzFWubbU.md) - [plain]
 | 84 | [Padmini Premier](https://open.spotify.com/track/1cPJtrIYLUqzKQIPZg6Fs7) | [Fake Tattoos](https://open.spotify.com/artist/6Gdx8MYQZE7RHueDcYWfqx) | [Padmini Premier](https://open.spotify.com/album/3gZcdavtizhRfTtGFleSIt) | 5:14 |
 | 85 | [Mundian to Bach Ke](https://open.spotify.com/track/4uMHWo1URfFfPBHE67KlUa) | [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz) | [Mundian to Bach Ke](https://open.spotify.com/album/4awzx1tZHPa4Vbf11QvdpZ) | 3:11 |
 
-Snapshot ID: `MCw2NzdlYjMyYjg5NGFlZjhjYzJhODg5MGEwZDBmMmRmNjBhMDExYTM1`
+Snapshot ID: `MCw2YzMwYmEzYTE1NjMwOTY3NzE0OWFmNjgwODBhZDljYTU4OGE1ZGMw`

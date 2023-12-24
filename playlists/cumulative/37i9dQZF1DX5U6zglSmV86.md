@@ -4,7 +4,7 @@
 
 > Nuestra alma mater es la calle\. La Santa Grifa en portada
 
-91 songs - 5 hr 44 min
+91 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Frikitona](https://open.spotify.com/track/2kY8eaR1Y5T69uMhXw3h1s) | [Chikis RA](https://open.spotify.com/artist/77LLHWAIQ3ox7VDtrqofeA) | [Frikitona](https://open.spotify.com/album/0NAoesvR4n07viJtdUBqDE) | 2:58 | 2023-09-29 |  |
 | [HDP](https://open.spotify.com/track/6Yz3ftaOXFBSIUh8DKFoLp) | [Duendy](https://open.spotify.com/artist/6EcbitbSqckbOT8K5Bjhrk), [Dorian Cracken](https://open.spotify.com/artist/1qrJLoZNlTEVIg47qBWCnc), [Cuervo Loomi](https://open.spotify.com/artist/5I3JpPqcXZjUiLOmDFKQfE) | [HDP](https://open.spotify.com/album/671zdpfcfgpxxEsEP3XUo5) | 3:42 | 2023-08-04 |  |
 | [Humo](https://open.spotify.com/track/2eCPG1bdKAqSYj1LL6upfN) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Carlos Luengo](https://open.spotify.com/artist/3mHjgfw3MBXjD8fuSf8s6e) | [Humo](https://open.spotify.com/album/0tOj5weTJiOodUMVF1VjGM) | 3:36 | 2023-12-15 |  |
-| [Igual Que Ayer](https://open.spotify.com/track/6SokBtt443HT7pwaqbT0cC) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Igual Que Ayer](https://open.spotify.com/album/5b2rRtGErcIWSnKt9pd9Tq) | 4:10 | 2023-12-22 |  |
+| [Igual Que Ayer](https://open.spotify.com/track/6SokBtt443HT7pwaqbT0cC) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Igual Que Ayer](https://open.spotify.com/album/5b2rRtGErcIWSnKt9pd9Tq) | 2:41 | 2023-12-22 |  |
 | [Ilegal](https://open.spotify.com/track/6SYOA4crkUyhgtsNrhpRd9) | [Don Tkt Hemafia](https://open.spotify.com/artist/6YBqTxHlF9NKytDKR4I2aw), [69 Lokos](https://open.spotify.com/artist/4sJC9ncqXO3ulcAhomHevu), [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j) | [Ilegal](https://open.spotify.com/album/5xdzsNhg4IP4FXUMiT70Be) | 4:27 | 2023-09-29 |  |
 | [KUMBIA MAKABRA](https://open.spotify.com/track/72BlB9Lok4jD7t1NCdPfAr) | [Tomas Ballardo](https://open.spotify.com/artist/3Y4UmopFbGuRYdtGEa5jDZ), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Cricket](https://open.spotify.com/artist/61OzoWX94CuVRqcqHaQx4R) | [KUMBIA MAKABRA](https://open.spotify.com/album/1oXkI5mJE3WtNJRnYDR2nt) | 2:48 | 2023-10-13 |  |
 | [La Bachona](https://open.spotify.com/track/7vZoJVfJ14jZJaHtiYcHyM) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [La Bachona](https://open.spotify.com/album/0kl7f5ss7mwh8zaJD6Ggye) | 2:51 | 2023-09-01 |  |

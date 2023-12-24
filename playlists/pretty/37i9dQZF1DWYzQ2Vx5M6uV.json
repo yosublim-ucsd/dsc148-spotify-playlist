@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Rawayana, Mr Eazi & Micro TDH",
-  "num_followers": 115270,
+  "num_followers": 115277,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzhkYzhiNWMwYjdiZDlkNGJkOGFkZjQ0ZDNjZTc2ZGFkMWIyMWIw",
+  "snapshot_id": "MCw2NGQ3ZWU3M2IwZWYyNjE0MmMxN2MwMGJjYjViYWU5MmZlZGI1NDI3",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Dumebi (Becky G Remix)",
-        "url": "https://open.spotify.com/album/6kSKLZKTG9l9oWJSqAWsEC"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 187926,
-      "name": "Dumebi - Becky G Remix",
-      "url": "https://open.spotify.com/track/6z2kfyTUOkZhxEj1cG5jps"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Waremu",
         "url": "https://open.spotify.com/album/7axGk6fGopyn8YlvKFGVKm"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 159000,
       "name": "Like A Queen - 2023 Remasterizado",
       "url": "https://open.spotify.com/track/7LqBm569RxBvwKwSsyc84u"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Dumebi (Becky G Remix)",
+        "url": "https://open.spotify.com/album/6kSKLZKTG9l9oWJSqAWsEC"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 187926,
+      "name": "Dumebi - Becky G Remix",
+      "url": "https://open.spotify.com/track/6z2kfyTUOkZhxEj1cG5jps"
     },
     {
       "added_at": "2023-12-08 05:00:00",

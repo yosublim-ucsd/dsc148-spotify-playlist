@@ -416,10 +416,40 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 218386,
       "name": "My Way (feat. Common, Lloyd & Kendrick Lamar)",
       "url": "https://open.spotify.com/track/1MiOERiZEithQZt3SviVPl"
+    },
+    {
+      "album": {
+        "name": "Quality Street Music",
+        "url": "https://open.spotify.com/album/7jjLwWQEYdRVChaNXX4EXm"
+      },
+      "artists": [
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "Lloyd",
+          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218386,
+      "name": "My Way (feat. Common, Lloyd & Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/3MUTO5VJza3DjSGyAcyFtb"
     },
     {
       "album": {

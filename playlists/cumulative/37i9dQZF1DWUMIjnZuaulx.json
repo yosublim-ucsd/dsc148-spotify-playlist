@@ -46,6 +46,28 @@
     {
       "album": {
         "name": "My Truth",
+        "url": "https://open.spotify.com/album/07zEDWrPhqROuygaSwVTHm"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        },
+        {
+          "name": "Marvin Winans",
+          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302102,
+      "name": "Able",
+      "url": "https://open.spotify.com/track/0ICGreKEIidNiyIGMVwS1E"
+    },
+    {
+      "album": {
+        "name": "My Truth",
         "url": "https://open.spotify.com/album/0JjHp7nS2lKkwalcUyrWFn"
       },
       "artists": [
@@ -60,7 +82,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 302102,
       "name": "Able",
       "url": "https://open.spotify.com/track/736A53Kw337Z5zrJhH24jP"
@@ -382,6 +404,24 @@
     {
       "album": {
         "name": "Always (Father I Trust You) [Live]",
+        "url": "https://open.spotify.com/album/3QH8jeUtC42aO2xSfEdOfK"
+      },
+      "artists": [
+        {
+          "name": "Jovonta Patton",
+          "url": "https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255047,
+      "name": "Always (Father I Trust You) - Live",
+      "url": "https://open.spotify.com/track/6cDXh0bXke7O8tLKevbSxG"
+    },
+    {
+      "album": {
+        "name": "Always (Father I Trust You) [Live]",
         "url": "https://open.spotify.com/album/55LFoZNU0iTLD1q6lpHii3"
       },
       "artists": [
@@ -392,7 +432,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 255047,
       "name": "Always (Father I Trust You) - Live",
       "url": "https://open.spotify.com/track/6qAjxwscwp306EDgLrtzut"
@@ -584,10 +624,32 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 503126,
       "name": "Anyway - Live",
       "url": "https://open.spotify.com/track/3klr7dov2vjJyjbakp7iDc"
+    },
+    {
+      "album": {
+        "name": "Imprint (Live in Memphis)",
+        "url": "https://open.spotify.com/album/1gxIWgMZNfeilz6V1iFWCb"
+      },
+      "artists": [
+        {
+          "name": "Zacardi Cortez",
+          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
+        },
+        {
+          "name": "Pastor Kim Burrell",
+          "url": "https://open.spotify.com/artist/68czRHT7ESRhXEWjOlTnQ7"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 503126,
+      "name": "Anyway - Live",
+      "url": "https://open.spotify.com/track/3ywRNCMXyD0U9ihiDuifMi"
     },
     {
       "album": {
@@ -2654,10 +2716,28 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 276427,
       "name": "Help My Unbelief",
       "url": "https://open.spotify.com/track/49QfFQkp1ulRJmCaVBX2Ca"
+    },
+    {
+      "album": {
+        "name": "Help My Unbelief",
+        "url": "https://open.spotify.com/album/7GA71OMBNxZfJMZkGadthb"
+      },
+      "artists": [
+        {
+          "name": "Ryan Jackson",
+          "url": "https://open.spotify.com/artist/47QfiNHagnHh4A8B5Cm4Du"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276427,
+      "name": "Help My Unbelief",
+      "url": "https://open.spotify.com/track/5CMwzT512KRhxgw0OuHDu1"
     },
     {
       "album": {
@@ -2950,10 +3030,28 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 347166,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/3MXe7rfZlSxth92oEhzP9c"
+    },
+    {
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/7BIclfrYKerhvgzeUxTsIn"
+      },
+      "artists": [
+        {
+          "name": "Tyree Miller",
+          "url": "https://open.spotify.com/artist/2R8HdUis4E0D5KOazejOl9"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347166,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/7lwresPIdcakDrANA7ErOA"
     },
     {
       "album": {
@@ -3164,6 +3262,24 @@
     {
       "album": {
         "name": "He Loves Me",
+        "url": "https://open.spotify.com/album/5gV5rh660Bi8NPBc5a0766"
+      },
+      "artists": [
+        {
+          "name": "Maurette Brown Clark",
+          "url": "https://open.spotify.com/artist/6SGhROQYSIxgiCvxfXfp4p"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367306,
+      "name": "I See Good",
+      "url": "https://open.spotify.com/track/3d1ZDOFoNd6ruROmgrgdK8"
+    },
+    {
+      "album": {
+        "name": "He Loves Me",
         "url": "https://open.spotify.com/album/3VTK913Y9CKv37VLjpPJq2"
       },
       "artists": [
@@ -3174,7 +3290,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 367306,
       "name": "I See Good",
       "url": "https://open.spotify.com/track/7ICspKZzvN08ubrSticzeo"
@@ -3550,10 +3666,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 221749,
       "name": "In My Name - Radio Edit",
       "url": "https://open.spotify.com/track/15w0pp8cDjI99gs2lAPsOY"
+    },
+    {
+      "album": {
+        "name": "In My Name (Radio Edit)",
+        "url": "https://open.spotify.com/album/6gSXd6z6q6LkSMJV9Y4mGz"
+      },
+      "artists": [
+        {
+          "name": "Smokie Norful",
+          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221749,
+      "name": "In My Name - Radio Edit",
+      "url": "https://open.spotify.com/track/7eIdt5l9ouZwCuox8ZOufQ"
     },
     {
       "album": {
@@ -4296,6 +4430,24 @@
     {
       "album": {
         "name": "The Journey (Live)",
+        "url": "https://open.spotify.com/album/0UlY4iqR0diqdIoGBVKNFP"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 516000,
+      "name": "Lord I Love You - Live",
+      "url": "https://open.spotify.com/track/4IyHTTasZEExnoGJ1eUtnA"
+    },
+    {
+      "album": {
+        "name": "The Journey (Live)",
         "url": "https://open.spotify.com/album/55qkczyxlKcvYDDX5vpgFj"
       },
       "artists": [
@@ -4306,7 +4458,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 516000,
       "name": "Lord I Love You - Live",
       "url": "https://open.spotify.com/track/6DO834OLITajOfoPJ27ckA"
@@ -4616,10 +4768,28 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 288036,
       "name": "Mercy - Live",
       "url": "https://open.spotify.com/track/32smGLmKf6J3aYMsQQCf2L"
+    },
+    {
+      "album": {
+        "name": "Mercy (Live)",
+        "url": "https://open.spotify.com/album/3I1HckW9iwZHj7GmOL33zs"
+      },
+      "artists": [
+        {
+          "name": "Joy Fak",
+          "url": "https://open.spotify.com/artist/2ja5AV6o7TtytNPvhxDOAZ"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288036,
+      "name": "Mercy - Live",
+      "url": "https://open.spotify.com/track/5BHBL9Ax9kWC5r4dGJ8BpG"
     },
     {
       "album": {
@@ -4726,6 +4896,24 @@
     {
       "album": {
         "name": "Miracles Signs & Wonders (Radio Edit)",
+        "url": "https://open.spotify.com/album/0DFIAjaxzw2VNPzac6ofD4"
+      },
+      "artists": [
+        {
+          "name": "Kefia Rollerson",
+          "url": "https://open.spotify.com/artist/01HLpmCZsVH5AUyzJg87Y1"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Miracles Signs & Wonders - Radio Edit",
+      "url": "https://open.spotify.com/track/7HUpfDG2preBwTYBkRC20b"
+    },
+    {
+      "album": {
+        "name": "Miracles Signs & Wonders (Radio Edit)",
         "url": "https://open.spotify.com/album/1pCghIzulIz6GJbzJ8rJsh"
       },
       "artists": [
@@ -4736,7 +4924,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 236000,
       "name": "Miracles Signs & Wonders - Radio Edit",
       "url": "https://open.spotify.com/track/7uxkNadLgW6di2LPOPUX2L"
@@ -5532,10 +5720,32 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 242823,
       "name": "Planted",
       "url": "https://open.spotify.com/track/34UClB0KJRZwleV1aHLfG1"
+    },
+    {
+      "album": {
+        "name": "Planted",
+        "url": "https://open.spotify.com/album/0iPVkBWSUkUvRs3GMAK5Pm"
+      },
+      "artists": [
+        {
+          "name": "Ryan Brockington",
+          "url": "https://open.spotify.com/artist/4WFblFAFYMyumOvNYu7e2b"
+        },
+        {
+          "name": "Ethan Kent",
+          "url": "https://open.spotify.com/artist/6tkZDZILZdLZaCuY801ef3"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242823,
+      "name": "Planted",
+      "url": "https://open.spotify.com/track/5E6lx3w4GqLbKPKQrYyFIn"
     },
     {
       "album": {
@@ -5668,6 +5878,24 @@
     {
       "album": {
         "name": "Stained Glass Windows",
+        "url": "https://open.spotify.com/album/1q710a6wLm18GHUA1eAMRb"
+      },
+      "artists": [
+        {
+          "name": "Rudy Currence",
+          "url": "https://open.spotify.com/artist/1XjkqiNiTkbF2FOEDMNqC8"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275620,
+      "name": "Ransom",
+      "url": "https://open.spotify.com/track/5WowSj4txQLAl48zdUQSZP"
+    },
+    {
+      "album": {
+        "name": "Stained Glass Windows",
         "url": "https://open.spotify.com/album/5IlQakSgyg5MaLlyUlTieh"
       },
       "artists": [
@@ -5678,7 +5906,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 275620,
       "name": "Ransom",
       "url": "https://open.spotify.com/track/6YlAikG2vnFgcMO4tfijub"
@@ -5844,10 +6072,28 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 179479,
       "name": "Rush On It",
       "url": "https://open.spotify.com/track/1oEQrW0vpktemRlt20cInz"
+    },
+    {
+      "album": {
+        "name": "Rush On It",
+        "url": "https://open.spotify.com/album/5TYLB2Bi4yBLiAlpky4bb4"
+      },
+      "artists": [
+        {
+          "name": "J. Moss",
+          "url": "https://open.spotify.com/artist/7GOz2zIfLCrlyqQYVCfQtW"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179479,
+      "name": "Rush On It",
+      "url": "https://open.spotify.com/track/3RHZtUgRiRHIfyjpsOdR7Z"
     },
     {
       "album": {
@@ -6554,10 +6800,36 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 431265,
       "name": "Tell 'Em Yes - Live",
       "url": "https://open.spotify.com/track/1YqC5VYiLVxOIYId3MPOly"
+    },
+    {
+      "album": {
+        "name": "Tell 'Em Yes (Live)",
+        "url": "https://open.spotify.com/album/7j26uBM4rulzYfXcxhEfTD"
+      },
+      "artists": [
+        {
+          "name": "Brandon A. Jacobs",
+          "url": "https://open.spotify.com/artist/7vF9GXItuv8qrIGpLIubFz"
+        },
+        {
+          "name": "New Zion Temple Church Choir",
+          "url": "https://open.spotify.com/artist/7AtzAGpfJLrbE65N87CjwO"
+        },
+        {
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431265,
+      "name": "Tell 'Em Yes - Live",
+      "url": "https://open.spotify.com/track/31wgNbo7TK6cMH9GRJJrY8"
     },
     {
       "album": {
@@ -8048,10 +8320,32 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 299224,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/0b0LHkoM7MlK1owCllWXan"
+    },
+    {
+      "album": {
+        "name": "Worth It",
+        "url": "https://open.spotify.com/album/3hFAj3KVpjKJU56xHV1t8P"
+      },
+      "artists": [
+        {
+          "name": "James Fortune",
+          "url": "https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH"
+        },
+        {
+          "name": "Zacardi Cortez",
+          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299224,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/5gUupwXAfesFedvF7mwhS2"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Acu\u00e9rdate de estos cl\u00e1sicos. Foto: Don Omar.",
-  "num_followers": 3075376,
+  "num_followers": 3078063,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmQxYTg1ZmE0N2QxMzhlOWYwOTcwOWM0YTkyYTQ5OTdjZDliNjRh",
+  "snapshot_id": "MCwxMDk3YzIwMjRjNTk1MWMxZDNiNzJhMDNlN2YwYWFiNmI0YzEzYmQ2",
   "tracks": [
     {
       "added_at": "2023-12-21 15:37:03",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-12-21 15:37:03",
       "album": {
-        "name": "DIVA- Platinum Edition",
-        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
+        "name": "El Fenomeno",
+        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
       },
       "artists": [
         {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
-      "duration_ms": 186506,
-      "name": "Quiero Bailar",
-      "url": "https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn"
+      "duration_ms": 214120,
+      "name": "Pa' Que La Pases Bien",
+      "url": "https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj"
     },
     {
       "added_at": "2023-12-21 15:37:03",
@@ -463,18 +463,18 @@
     {
       "added_at": "2023-12-21 15:37:03",
       "album": {
-        "name": "El Fenomeno",
-        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
+        "name": "DIVA- Platinum Edition",
+        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
       },
       "artists": [
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
         }
       ],
-      "duration_ms": 214120,
-      "name": "Pa' Que La Pases Bien",
-      "url": "https://open.spotify.com/track/1pLCpA1RN8avJxSD3ZCwhj"
+      "duration_ms": 186506,
+      "name": "Quiero Bailar",
+      "url": "https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn"
     },
     {
       "added_at": "2023-12-21 15:37:03",
@@ -803,30 +803,6 @@
     {
       "added_at": "2023-12-21 15:37:03",
       "album": {
-        "name": "Los Vaqueros Wild Wild Mixes",
-        "url": "https://open.spotify.com/album/0lSruNExlVqHp7Ox1xpWgu"
-      },
-      "artists": [
-        {
-          "name": "Tony Dize",
-          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
-        },
-        {
-          "name": "Ken-Y",
-          "url": "https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ"
-        },
-        {
-          "name": "Marioso",
-          "url": "https://open.spotify.com/artist/3vK6vMiSDE0xwZXm1Z2bRz"
-        }
-      ],
-      "duration_ms": 240200,
-      "name": "Quizas - Remix",
-      "url": "https://open.spotify.com/track/4YFoQUkj0XXJgTiHp8d61y"
-    },
-    {
-      "added_at": "2023-12-21 15:37:03",
-      "album": {
         "name": "Ella Se Contradice (feat. Plan B)",
         "url": "https://open.spotify.com/album/3JYVc0zcw01y9Xjq16266O"
       },
@@ -847,6 +823,30 @@
       "duration_ms": 256757,
       "name": "Ella Se Contradice (feat. Plan B)",
       "url": "https://open.spotify.com/track/4nNeRNXmdZWfw3IjAnITZR"
+    },
+    {
+      "added_at": "2023-12-21 15:37:03",
+      "album": {
+        "name": "Los Vaqueros Wild Wild Mixes",
+        "url": "https://open.spotify.com/album/0lSruNExlVqHp7Ox1xpWgu"
+      },
+      "artists": [
+        {
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+        },
+        {
+          "name": "Ken-Y",
+          "url": "https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ"
+        },
+        {
+          "name": "Marioso",
+          "url": "https://open.spotify.com/artist/3vK6vMiSDE0xwZXm1Z2bRz"
+        }
+      ],
+      "duration_ms": 240200,
+      "name": "Quizas - Remix",
+      "url": "https://open.spotify.com/track/4YFoQUkj0XXJgTiHp8d61y"
     },
     {
       "added_at": "2023-12-21 15:37:03",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-12-21 15:37:03",
       "album": {
-        "name": "M\u00e1s Lun\u00e1ticos",
-        "url": "https://open.spotify.com/album/30Mx3Jz0HsGItYSrc1bHaw"
-      },
-      "artists": [
-        {
-          "name": "Golpe a Golpe",
-          "url": "https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Estar Enamorado",
-      "url": "https://open.spotify.com/track/465du48rE48BymmBdfvxc2"
-    },
-    {
-      "added_at": "2023-12-21 15:37:03",
-      "album": {
         "name": "Roc La Familia & Hector Bambino \"EL FATHER\" Present Los Rompe Discotekas",
         "url": "https://open.spotify.com/album/12WhZAzPc6ekGSTWPGEUVp"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 235760,
       "name": "El Telefono",
       "url": "https://open.spotify.com/track/6viC2tfK0mf86pcqxIoUOG"
+    },
+    {
+      "added_at": "2023-12-21 15:37:03",
+      "album": {
+        "name": "M\u00e1s Lun\u00e1ticos",
+        "url": "https://open.spotify.com/album/30Mx3Jz0HsGItYSrc1bHaw"
+      },
+      "artists": [
+        {
+          "name": "Golpe a Golpe",
+          "url": "https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Estar Enamorado",
+      "url": "https://open.spotify.com/track/465du48rE48BymmBdfvxc2"
     },
     {
       "added_at": "2023-12-21 15:37:03",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2023-12-21 15:37:03",
       "album": {
-        "name": "Los Superheroes",
-        "url": "https://open.spotify.com/album/0TfHpRj8cscMuY7UM0eINm"
-      },
-      "artists": [
-        {
-          "name": "J-King y Maximan",
-          "url": "https://open.spotify.com/artist/6UBb8ZUUyarsyod6snflAR"
-        }
-      ],
-      "duration_ms": 237160,
-      "name": "Cu\u00e1ndo, Cu\u00e1ndo Es?",
-      "url": "https://open.spotify.com/track/4tjCNQ7aCL2Ou2rJlmrTpj"
-    },
-    {
-      "added_at": "2023-12-21 15:37:03",
-      "album": {
         "name": "Pegaito a la Pared \"The Remixes\"",
         "url": "https://open.spotify.com/album/0RtUrX0UbjupH9CjRgASKR"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 282133,
       "name": "Pegaito a la Pared (feat. Plan B) - Remix",
       "url": "https://open.spotify.com/track/34hqsdmzodHbk50EnoSefY"
+    },
+    {
+      "added_at": "2023-12-21 15:37:03",
+      "album": {
+        "name": "Los Superheroes",
+        "url": "https://open.spotify.com/album/0TfHpRj8cscMuY7UM0eINm"
+      },
+      "artists": [
+        {
+          "name": "J-King y Maximan",
+          "url": "https://open.spotify.com/artist/6UBb8ZUUyarsyod6snflAR"
+        }
+      ],
+      "duration_ms": 237160,
+      "name": "Cu\u00e1ndo, Cu\u00e1ndo Es?",
+      "url": "https://open.spotify.com/track/4tjCNQ7aCL2Ou2rJlmrTpj"
     },
     {
       "added_at": "2023-12-21 15:37:03",
@@ -1935,6 +1935,22 @@
       "duration_ms": 218080,
       "name": "All Up 2 You (feat. Akon, Wisin & Yandel)",
       "url": "https://open.spotify.com/track/48FsqSKpgoZZFr6aS1IDK5"
+    },
+    {
+      "added_at": "2023-12-21 15:37:03",
+      "album": {
+        "name": "Mi Trayectoria",
+        "url": "https://open.spotify.com/album/41p3yyF17iCI6QjsfGd9rB"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor \"El Father\"",
+          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
+        }
+      ],
+      "duration_ms": 251920,
+      "name": "Dejale Care To' el Peso",
+      "url": "https://open.spotify.com/track/0zMAEDj1JznZ8qaHx4eFeB"
     },
     {
       "added_at": "2023-12-21 15:37:03",
@@ -1975,22 +1991,6 @@
       "duration_ms": 245640,
       "name": "Tu Cuerpo Me Llama Rmx",
       "url": "https://open.spotify.com/track/7E1rvGKkYsVo6vxiTiuBPQ"
-    },
-    {
-      "added_at": "2023-12-21 15:37:03",
-      "album": {
-        "name": "Mi Trayectoria",
-        "url": "https://open.spotify.com/album/41p3yyF17iCI6QjsfGd9rB"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor \"El Father\"",
-          "url": "https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB"
-        }
-      ],
-      "duration_ms": 251920,
-      "name": "Dejale Care To' el Peso",
-      "url": "https://open.spotify.com/track/0zMAEDj1JznZ8qaHx4eFeB"
     },
     {
       "added_at": "2023-12-21 15:37:03",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2023-12-21 15:37:03",
       "album": {
-        "name": "Emigrante Del Mundo (Remastered)",
-        "url": "https://open.spotify.com/album/1eoYupgvxWRBT6nHnAHjEQ"
-      },
-      "artists": [
-        {
-          "name": "Lucenzo",
-          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
-        }
-      ],
-      "duration_ms": 184217,
-      "name": "Baila Morena",
-      "url": "https://open.spotify.com/track/4dNRA8hrqj7XJvFhGSQsKe"
-    },
-    {
-      "added_at": "2023-12-21 15:37:03",
-      "album": {
         "name": "El Abayarde",
         "url": "https://open.spotify.com/album/6Q1kiSijkaHwoCwZUHW6IY"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 213653,
       "name": "Al Natural",
       "url": "https://open.spotify.com/track/3tCdDVn9yseorLuljdFugA"
+    },
+    {
+      "added_at": "2023-12-21 15:37:03",
+      "album": {
+        "name": "Emigrante Del Mundo (Remastered)",
+        "url": "https://open.spotify.com/album/1eoYupgvxWRBT6nHnAHjEQ"
+      },
+      "artists": [
+        {
+          "name": "Lucenzo",
+          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+        }
+      ],
+      "duration_ms": 184217,
+      "name": "Baila Morena",
+      "url": "https://open.spotify.com/track/4dNRA8hrqj7XJvFhGSQsKe"
     },
     {
       "added_at": "2023-12-21 15:37:03",
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2023-12-21 15:37:03",
       "album": {
-        "name": "Rankiaera",
-        "url": "https://open.spotify.com/album/7JevIXrHqNB7wRPD7Z7Jod"
-      },
-      "artists": [
-        {
-          "name": "Kino Rankins",
-          "url": "https://open.spotify.com/artist/0B02ZsmSdJvc5NECwOUZ7A"
-        }
-      ],
-      "duration_ms": 189010,
-      "name": "Sandunguera",
-      "url": "https://open.spotify.com/track/0S0TLhH8s2bMyRt2GXdkAP"
-    },
-    {
-      "added_at": "2023-12-21 15:37:03",
-      "album": {
         "name": "My World",
         "url": "https://open.spotify.com/album/2XpLbDgssTyK3AmeQlfUL3"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 228053,
       "name": "Nadie Te Amar\u00e1 Como Yo (Remix) (feat. Zion & Arc\u00e1ngel)",
       "url": "https://open.spotify.com/track/1eoAytqST4MVGz4xdTDqPj"
+    },
+    {
+      "added_at": "2023-12-21 15:37:03",
+      "album": {
+        "name": "Rankiaera",
+        "url": "https://open.spotify.com/album/7JevIXrHqNB7wRPD7Z7Jod"
+      },
+      "artists": [
+        {
+          "name": "Kino Rankins",
+          "url": "https://open.spotify.com/artist/0B02ZsmSdJvc5NECwOUZ7A"
+        }
+      ],
+      "duration_ms": 189010,
+      "name": "Sandunguera",
+      "url": "https://open.spotify.com/track/0S0TLhH8s2bMyRt2GXdkAP"
     },
     {
       "added_at": "2023-12-21 15:37:03",
@@ -2499,6 +2499,22 @@
     {
       "added_at": "2023-12-21 15:37:03",
       "album": {
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/670TJ2hsrv8Lqump0NmLoN"
+      },
+      "artists": [
+        {
+          "name": "Don Miguelo",
+          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
+        }
+      ],
+      "duration_ms": 221768,
+      "name": "Como Yo Le Doy",
+      "url": "https://open.spotify.com/track/3a0nKMqmHDoX1fYdY8ioJ3"
+    },
+    {
+      "added_at": "2023-12-21 15:37:03",
+      "album": {
         "name": "Casa De Leones",
         "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
       },
@@ -2551,22 +2567,6 @@
       "duration_ms": 227853,
       "name": "Hola Bebe",
       "url": "https://open.spotify.com/track/33y08bwbpU8Fn8KzBm5lAy"
-    },
-    {
-      "added_at": "2023-12-21 15:37:03",
-      "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/670TJ2hsrv8Lqump0NmLoN"
-      },
-      "artists": [
-        {
-          "name": "Don Miguelo",
-          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
-        }
-      ],
-      "duration_ms": 221768,
-      "name": "Como Yo Le Doy",
-      "url": "https://open.spotify.com/track/3a0nKMqmHDoX1fYdY8ioJ3"
     },
     {
       "added_at": "2023-12-21 15:37:03",
@@ -2639,22 +2639,6 @@
     {
       "added_at": "2023-12-21 15:37:03",
       "album": {
-        "name": "Eso En 4 No Se Ve (feat. Nejo Y Dalmata & Luigi 21 Plus)",
-        "url": "https://open.spotify.com/album/5h67fwP7oqhvvPkSWKv9g3"
-      },
-      "artists": [
-        {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
-        }
-      ],
-      "duration_ms": 271986,
-      "name": "Eso En 4 No Se Ve (feat. Nejo Y Dalmata & Luigi 21 Plus)",
-      "url": "https://open.spotify.com/track/3AiSzVa7e1thtKKnJfs03I"
-    },
-    {
-      "added_at": "2023-12-21 15:37:03",
-      "album": {
         "name": "La F\u00f3rmula",
         "url": "https://open.spotify.com/album/76iE2t7UDAZLNkqHFuvWtQ"
       },
@@ -2687,6 +2671,22 @@
       "duration_ms": 164693,
       "name": "El Tiburon",
       "url": "https://open.spotify.com/track/7xzcR7ChznJF5KgDS7exYA"
+    },
+    {
+      "added_at": "2023-12-21 15:37:03",
+      "album": {
+        "name": "Eso En 4 No Se Ve (feat. Nejo Y Dalmata & Luigi 21 Plus)",
+        "url": "https://open.spotify.com/album/5h67fwP7oqhvvPkSWKv9g3"
+      },
+      "artists": [
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "duration_ms": 271986,
+      "name": "Eso En 4 No Se Ve (feat. Nejo Y Dalmata & Luigi 21 Plus)",
+      "url": "https://open.spotify.com/track/3AiSzVa7e1thtKKnJfs03I"
     },
     {
       "added_at": "2023-12-21 15:37:03",
@@ -2731,22 +2731,6 @@
     {
       "added_at": "2023-12-21 15:37:03",
       "album": {
-        "name": "La Familia",
-        "url": "https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 199933,
-      "name": "Tranquila",
-      "url": "https://open.spotify.com/track/6klAm7Z2oR2FM7lozc7agF"
-    },
-    {
-      "added_at": "2023-12-21 15:37:03",
-      "album": {
         "name": "Mas Flow, Vol. 1",
         "url": "https://open.spotify.com/album/29BiTy2syDZyjGa9Rza6Ot"
       },
@@ -2767,6 +2751,22 @@
       "duration_ms": 178933,
       "name": "Cae la Noche",
       "url": "https://open.spotify.com/track/0798D5Kod1iRzqIVaRlpZJ"
+    },
+    {
+      "added_at": "2023-12-21 15:37:03",
+      "album": {
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 199933,
+      "name": "Tranquila",
+      "url": "https://open.spotify.com/track/6klAm7Z2oR2FM7lozc7agF"
     },
     {
       "added_at": "2023-12-21 15:37:03",
@@ -2803,22 +2803,6 @@
     {
       "added_at": "2023-12-21 15:37:03",
       "album": {
-        "name": "Sin Miedo",
-        "url": "https://open.spotify.com/album/3IhY9gtZHtaGPjvWR8PCcp"
-      },
-      "artists": [
-        {
-          "name": "Reykon",
-          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
-        }
-      ],
-      "duration_ms": 197834,
-      "name": "Sin Miedo",
-      "url": "https://open.spotify.com/track/6aibYCJcHtpQgwq35ohOKs"
-    },
-    {
-      "added_at": "2023-12-21 15:37:03",
-      "album": {
         "name": "The Bad Boy (The Most Wanted Edition)",
         "url": "https://open.spotify.com/album/4wucK3TtoeQPDQO0UVY0eS"
       },
@@ -2831,6 +2815,22 @@
       "duration_ms": 173506,
       "name": "Sola",
       "url": "https://open.spotify.com/track/3bNRq6LJ3n1lp1A7qrrWK6"
+    },
+    {
+      "added_at": "2023-12-21 15:37:03",
+      "album": {
+        "name": "Sin Miedo",
+        "url": "https://open.spotify.com/album/3IhY9gtZHtaGPjvWR8PCcp"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "duration_ms": 197834,
+      "name": "Sin Miedo",
+      "url": "https://open.spotify.com/track/6aibYCJcHtpQgwq35ohOKs"
     },
     {
       "added_at": "2023-12-21 15:37:03",

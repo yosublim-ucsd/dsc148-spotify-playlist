@@ -4,7 +4,7 @@
 
 > Southern rock swagger served neat\. Cover: Chris Stapleton
 
-220 songs - 13 hr 28 min
+222 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,8 @@
 | [Leaving Hell](https://open.spotify.com/track/6CqjB4PrpwqAD5kAnvTbJC) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Leaving Hell](https://open.spotify.com/album/2g8x4ROXs8Zhqog9uMGGUz) | 3:26 | 2021-10-15 |  |
 | [Lend A Hand](https://open.spotify.com/track/0pelR2e4NgfyW8K2YyEdWI) | [The Georgia Thunderbolts](https://open.spotify.com/artist/0sukMbleG21A52WNk4O81d) | [Lend A Hand](https://open.spotify.com/album/3kMnqtkZPrKeporSbpcC4W) | 3:21 | 2020-08-21 | 2022-07-29 |
 | [Lend A Hand](https://open.spotify.com/track/2so5K4rMu3PthPMB9uNGQG) | [The Georgia Thunderbolts](https://open.spotify.com/artist/0sukMbleG21A52WNk4O81d) | [Can We Get A Witness](https://open.spotify.com/album/5Knes2pddqGyhjacLakFGt) | 3:21 | 2022-06-14 | 2023-01-06 |
-| [Let It Ride](https://open.spotify.com/track/1TR1KgInMmVlpCI6QWg0Ze) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Let It Ride](https://open.spotify.com/album/7xTvFnKhIlcMerkgIIV9jA) | 3:37 | 2020-09-23 |  |
+| [Let It Ride](https://open.spotify.com/track/1TR1KgInMmVlpCI6QWg0Ze) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Let It Ride](https://open.spotify.com/album/7xTvFnKhIlcMerkgIIV9jA) | 3:37 | 2020-09-23 | 2023-12-24 |
+| [Let It Ride](https://open.spotify.com/track/4NupFKd1TTR5PsembiLD4X) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Hidden Gems](https://open.spotify.com/album/5xQEeIrALM66vXokyP5ik2) | 3:37 | 2023-11-17 |  |
 | [Let Me Live / Let Me Die](https://open.spotify.com/track/2ibgPP8y0Db44RchTrmRgZ) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Let the Vultures In](https://open.spotify.com/album/3tRqYKXfCCy8kkkmiWnUWp) | 3:27 | 2020-08-21 | 2022-03-22 |
 | [Liar](https://open.spotify.com/track/5mry8XEOIVru9Mla0bc8dY) | [The Shelters](https://open.spotify.com/artist/7LrFQFaZaxfa9deqkjvc89) | [The Shelters](https://open.spotify.com/album/451kD1EliOug21dypPYnMn) | 3:03 | 2020-08-21 | 2023-01-06 |
 | [Looking For An Old Friend](https://open.spotify.com/track/2BRVCYzNCuazGKNBVZtgIA) | [The Georgia Thunderbolts](https://open.spotify.com/artist/0sukMbleG21A52WNk4O81d) | [Can We Get A Witness](https://open.spotify.com/album/5Knes2pddqGyhjacLakFGt) | 4:41 | 2022-01-21 |  |
@@ -201,7 +202,8 @@
 | [Suffocation Blues](https://open.spotify.com/track/2WRk6RxETSwdsg2dhtnXxc) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Black Pistol Fire](https://open.spotify.com/album/0EmwFyrOiD5DkGIDzhbOt1) | 2:41 | 2020-08-21 | 2022-01-05 |
 | [Survivor](https://open.spotify.com/track/2565zrwkcli0D88IVw2rCg) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [The Future](https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh) | 4:01 | 2022-06-14 | 2023-06-10 |
 | [Survivor](https://open.spotify.com/track/2TSiZ6ZtA4x5NbQgGpYrVU) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Survivor](https://open.spotify.com/album/5OVhDxr9XYs8WRHR0Njiad) | 4:01 | 2021-08-20 | 2022-07-29 |
-| [Survivor](https://open.spotify.com/track/1wBtnfOFCMmr6yOy1dE5VM) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Versatile](https://open.spotify.com/album/4gZGUfedFjMS22PzjDzscJ) | 4:02 | 2021-05-21 |  |
+| [Survivor](https://open.spotify.com/track/1wBtnfOFCMmr6yOy1dE5VM) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Versatile](https://open.spotify.com/album/4gZGUfedFjMS22PzjDzscJ) | 4:02 | 2021-05-21 | 2023-12-24 |
+| [Survivor](https://open.spotify.com/track/76FKM1IevJeZC5vqarglp9) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Versatile](https://open.spotify.com/album/6YttNp6wg0mDmb9Pg86xBo) | 4:02 | 2023-11-17 |  |
 | [Sweet Life](https://open.spotify.com/track/1Ie947dqENDKKiATxfKmuw) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Sweet Life](https://open.spotify.com/album/29ZosBvsj6uCsFJ8YMgLKB) | 3:33 | 2023-09-12 |  |
 | [Tabasco & Sweet Tea](https://open.spotify.com/track/4Vqhd4iIm8rzXg3nGvOV5B) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Tabasco & Sweet Tea](https://open.spotify.com/album/6uqyfBbmNhlGU6kRlD3WoA) | 4:40 | 2020-11-06 |  |
 | [Take It Slow](https://open.spotify.com/track/5A3BUCtrD3uhS92TQikslR) | [The Georgia Thunderbolts](https://open.spotify.com/artist/0sukMbleG21A52WNk4O81d) | [Take It Slow](https://open.spotify.com/album/1m2RClhmLRK87mXiFtAMiP) | 4:01 | 2021-06-04 | 2022-01-05 |

@@ -4,7 +4,7 @@
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Hermanos Gutiérrez
 
-1,698 songs - 4 day 7 hr 49 min
+1,700 songs - 4 day 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -615,7 +615,8 @@
 | [Higher Love](https://open.spotify.com/track/5U34cKbJSYD3Ww0LfeBqgf) | [William Wild](https://open.spotify.com/artist/3DrB9nBkn2tfhXxSsKAaor) | [Higher Love](https://open.spotify.com/album/01IDbYy8WthOKg72XN6Bky) | 2:36 | 2022-02-25 | 2022-04-23 |
 | [Highest Bidder](https://open.spotify.com/track/6Xhgmbv1U7XP1EXuCKQ9Hp) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Highest Bidder](https://open.spotify.com/album/3F6QE0hPhObN0XYfBKl9mb) | 3:34 | 2022-02-11 | 2022-04-23 |
 | [Highs & Lows](https://open.spotify.com/track/7IA1Rvt3w8p0PihpYH9JTB) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Highs & Lows](https://open.spotify.com/album/5xcCwJuG2hWwWIwWSWXxw8) | 3:29 | 2023-04-28 | 2023-07-15 |
-| [Highway 72](https://open.spotify.com/track/3zAwspoamICRiHrPVIaUQ6) | [Jolie Holland](https://open.spotify.com/artist/2I75E6zjDObK1RcXUzpmSQ), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Haunted Mountain](https://open.spotify.com/album/63RLm9WcwiedTBaP8WVeCl) | 4:52 | 2023-10-06 |  |
+| [Highway 72](https://open.spotify.com/track/3zAwspoamICRiHrPVIaUQ6) | [Jolie Holland](https://open.spotify.com/artist/2I75E6zjDObK1RcXUzpmSQ), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Haunted Mountain](https://open.spotify.com/album/63RLm9WcwiedTBaP8WVeCl) | 4:52 | 2023-10-06 | 2023-12-24 |
+| [Highway 72](https://open.spotify.com/track/5lv53oDMKUhEttj7WKu5gL) | [Jolie Holland](https://open.spotify.com/artist/2I75E6zjDObK1RcXUzpmSQ), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Haunted Mountain](https://open.spotify.com/album/2CVC0KMuJ73P8AMLToOkuQ) | 4:52 | 2023-12-15 |  |
 | [Highway 72](https://open.spotify.com/track/7Mz28hUAQKZqBfHAuBDd0N) | [Jolie Holland](https://open.spotify.com/artist/2I75E6zjDObK1RcXUzpmSQ), [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Highway 72](https://open.spotify.com/album/16pRBGPrivw1VoFkFgA5tP) | 4:52 | 2023-09-08 | 2023-11-11 |
 | [Highway Woman](https://open.spotify.com/track/1JJUMgzCxkBeF8kaS2FR5v) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Highway Woman](https://open.spotify.com/album/6nqOmZZeSp7hLaM3RT1uuI) | 3:48 | 2023-07-21 | 2023-08-19 |
 | [Hitchhiking](https://open.spotify.com/track/4Xus7PhuqSihGgFJJZ1Ayu) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [We're Starting to Look Like Each Other](https://open.spotify.com/album/12AH5gxA0gwvON2H1ce72w) | 4:03 | 2023-11-03 |  |
@@ -918,7 +919,8 @@
 | [me va a costar](https://open.spotify.com/track/0Y7NqQ9RNoHZHDTeDS4UnO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [me va a costar](https://open.spotify.com/album/7MgPJ608fJvGMf7xCJlPq9) | 3:48 | 2023-12-01 |  |
 | [Meant to Be](https://open.spotify.com/track/31rivbCbEbXiRyHtQqfiED) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Meant to Be](https://open.spotify.com/album/2J8uPVOmhwfuHN2dWVb2RA) | 4:17 | 2022-11-18 | 2023-04-09 |
 | [Mecca](https://open.spotify.com/track/4C5bRIloL1afbepFvjMLYE) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Mecca](https://open.spotify.com/album/0diLOQUXoO0jIWMmC4S4KV) | 4:51 | 2022-05-20 | 2022-08-20 |
-| [Medicine](https://open.spotify.com/track/23k8mKYhjxN5iSw6nxOVkL) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [Medicine](https://open.spotify.com/album/3JqcgkR1T0inYGixFDTmdO) | 4:15 | 2023-12-01 |  |
+| [Medicine](https://open.spotify.com/track/1QWyq6ewUIWZgsyVmzpo0Y) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [Medicine](https://open.spotify.com/album/03bvJDhMjnOOXwqqw3NZ9B) | 4:15 | 2023-12-15 |  |
+| [Medicine](https://open.spotify.com/track/23k8mKYhjxN5iSw6nxOVkL) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [Medicine](https://open.spotify.com/album/3JqcgkR1T0inYGixFDTmdO) | 4:15 | 2023-12-01 | 2023-12-24 |
 | [Meet Me in the Garden](https://open.spotify.com/track/65AErQvwHgQK3lm6dWdwJx) | [Violet Bell](https://open.spotify.com/artist/2oIi5WqUQeW84eOt1rxDt8) | [Meet Me in the Garden](https://open.spotify.com/album/2aZPFZL1eFK05olhVnhcvB) | 4:52 | 2022-04-15 | 2022-06-25 |
 | [Meeting Eddie Smith](https://open.spotify.com/track/41MwuIrOmez8k0X5mH9emb) | [Damien Jurado](https://open.spotify.com/artist/79JJCxCCfJ8HufX6w8q2k4) | [Meeting Eddie Smith](https://open.spotify.com/album/0Zzyns4s6SphSyfDrg60cC) | 3:38 | 2022-06-24 | 2022-09-24 |
 | [Melt Away](https://open.spotify.com/track/01yFvMxBZDJ9nbmCgGpG1f) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Melt Away: A Tribute To Brian Wilson](https://open.spotify.com/album/0AEoTr8vxfRrNIxawzjEMR) | 3:51 | 2022-07-22 | 2022-10-22 |

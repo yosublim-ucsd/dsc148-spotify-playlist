@@ -4,7 +4,7 @@
 
 > the pearls of an oyster.
 
-1,013 songs - 2 day 8 hr 6 min
+1,014 songs - 2 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -885,7 +885,8 @@
 | [Territory Day](https://open.spotify.com/track/17bUMO20Of8GdYCqbTRs78) | [Skeleten](https://open.spotify.com/artist/4VZEaqiJm8GOd1pSgjD62y) | [Territory Day](https://open.spotify.com/album/4BWl2KV6gHTAiDV34bmEZg) | 5:26 | 2023-06-08 | 2023-07-07 |
 | [That's My Baby](https://open.spotify.com/track/0YmhNztwrZtE8Z9dBEhsVy) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [That's My Baby](https://open.spotify.com/album/7sG9uqgduI2WH84fSr5fek) | 2:18 | 2022-10-28 | 2022-12-16 |
 | [The Best](https://open.spotify.com/track/2HxQGJKOcPi87pffJ5UWt6) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [The Best](https://open.spotify.com/album/6aaGEL4bFFCKe6CXFE8YMf) | 2:14 | 2023-09-28 | 2023-10-06 |
-| [The Big Boom](https://open.spotify.com/track/52rDZ9pPuVKAQoycR0wqme) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [The Big Boom](https://open.spotify.com/album/28R26xS0sxrdEFCKwSjwKG) | 3:14 | 2023-11-16 |  |
+| [The Big Boom](https://open.spotify.com/track/52rDZ9pPuVKAQoycR0wqme) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [The Big Boom](https://open.spotify.com/album/28R26xS0sxrdEFCKwSjwKG) | 3:14 | 2023-11-16 | 2023-12-24 |
+| [The Big Boom \- Bonus Track](https://open.spotify.com/track/587lEdNGAThT52JpvjnJKd) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/0AsVb7S4UL2760pQlRVpAe) | 3:14 | 2023-12-21 |  |
 | [The Dark Prince \(feat\. Mac DeMarco\)](https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [The Dark Prince \(feat\. Mac DeMarco\)](https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd) | 3:34 | 2023-08-17 | 2023-09-15 |
 | [The Ending](https://open.spotify.com/track/40Q1XFqWsI7JxaPLeaMpnT) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [The Ending](https://open.spotify.com/album/6U97jLY4aY4LCM3WQ17fIv) | 1:48 | 2022-12-15 | 2023-02-03 |
 | [The Fall](https://open.spotify.com/track/1tpCENh4JDWpWGFeTz02fP) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [The Fall / For the Last Time](https://open.spotify.com/album/3GzBwa27pIwAnytu1KP0ka) | 3:37 | 2023-07-06 | 2023-09-01 |

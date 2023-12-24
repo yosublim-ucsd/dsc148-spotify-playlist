@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Kanine
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,709 likes - 55 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,749 likes - 55 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 54 | [High Roller](https://open.spotify.com/track/7DHBGIYp3wvsjtetJEpCHZ) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes) | [High Roller](https://open.spotify.com/album/5UeNqJ34X9HjC2szyJZkwM) | 4:35 |
 | 55 | [Lana](https://open.spotify.com/track/33VXCIGxpVYgntrRjhCsJo) | [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW) | [Viper Style / Lana](https://open.spotify.com/album/7Ad97zEHtyN7GNLN9lGhGc) | 3:26 |
 
-Snapshot ID: `MCwyZWU5ZDBhOWRkZGZmOGM0MDM2YjU5NmY3ZTE1NDExMzRkMzZkM2Mz`
+Snapshot ID: `MCw1ZjY0OWY1ZjgyMzFmOGUxMjhlZWRkZDk0ZTU4MzZjYjc0ZmZjZDI2`

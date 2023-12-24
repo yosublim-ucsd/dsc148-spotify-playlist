@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-798 songs - 1 day 19 hr 41 min
+799 songs - 1 day 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [A Letter To My Best Friend](https://open.spotify.com/track/5LigKEFa9fmv5wU59gqwfQ) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [A Letter To My Best Friend](https://open.spotify.com/album/3D6nIbAy9AAno9QemT8arp) | 3:53 | 2022-06-17 | 2022-07-06 |
 | [A Little Bit Patient](https://open.spotify.com/track/13eVfN1euUur28OoD5s86X) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [A Little Bit Patient](https://open.spotify.com/album/5KQKBocUoSXhXpqHVvUNzJ) | 2:58 | 2022-01-28 | 2022-07-02 |
 | [A Night To Remember](https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Night To Remember](https://open.spotify.com/album/73wBVA41AulgjGiL3rBwfe) | 3:53 | 2023-10-19 |  |
-| [A Nothing Day](https://open.spotify.com/track/3XuBSGfyPaVxfpt97F5IVJ) | [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO), [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [GLOOMY BOOGIE Vol\. 2](https://open.spotify.com/album/2QmP1Re18kxf8OUbRKw4GN) | 2:42 | 2023-12-08 |  |
+| [A Nothing Day](https://open.spotify.com/track/3XuBSGfyPaVxfpt97F5IVJ) | [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO), [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [GLOOMY BOOGIE Vol\. 2](https://open.spotify.com/album/2QmP1Re18kxf8OUbRKw4GN) | 2:42 | 2023-12-08 | 2023-12-24 |
+| [A Nothing Day](https://open.spotify.com/track/5gIktKmECYQP5HY0dYfbst) | [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO), [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [GLOOMY BOOGIE](https://open.spotify.com/album/3iDH8JeYPyeuQ7OcTWnzjq) | 2:42 | 2023-12-15 |  |
 | [A Phase](https://open.spotify.com/track/7nZUC5hah4ZmayaqM9NlvP) | [YANA](https://open.spotify.com/artist/0BE1XQiKdWBBR01zAemf19) | [A Phase](https://open.spotify.com/album/2Bovoz8KRReBuYYxTYEnaj) | 4:08 | 2023-11-13 | 2023-11-18 |
 | [A Red Flag](https://open.spotify.com/track/124gliJgzZ8mEcVRbI7xDN) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm), [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP) | [Minh Tinh](https://open.spotify.com/album/2jNxIyiGLvQz7UPCRUuU76) | 3:50 | 2023-11-13 | 2023-12-09 |
 | [A Room Up In The Sky \(feat\. The Marías\)](https://open.spotify.com/track/2b6tGpbflP62TnzKx9TSDu) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [A Room Up In The Sky \(feat\. The Marías\)](https://open.spotify.com/album/0S4c1T8qWm1ZnCUj9edQq2) | 2:45 | 2023-12-15 |  |

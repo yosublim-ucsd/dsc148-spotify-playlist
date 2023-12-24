@@ -1,12 +1,12 @@
 {
   "description": "Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.",
-  "num_followers": 820939,
+  "num_followers": 821156,
   "original_name": "Sol e Churrasco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzg1YTcxNmU0ZmE4ZTJlYWI3YmI2ODgyYzE5ZjRjOTBjMjFiNzVj",
+  "snapshot_id": "MCxiMGFmY2U4MTQ2NDExNTdkYzI0ZDg0MzMzM2NlY2FhZDYxOWVhMmU2",
   "tracks": [
     {
       "added_at": "2023-11-17 03:01:00",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Sua M\u00e3e Vai Me Amar",
-        "url": "https://open.spotify.com/album/3ZEZn8lXZ0ZuV6tAvRFnq7"
-      },
-      "artists": [
-        {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        }
-      ],
-      "duration_ms": 183758,
-      "name": "Sua M\u00e3e Vai Me Amar",
-      "url": "https://open.spotify.com/track/4fMjqKYYsvtT6Fvca8lGFl"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Len\u00e7ol Dobrado",
         "url": "https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 179164,
       "name": "Len\u00e7ol Dobrado",
       "url": "https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Sua M\u00e3e Vai Me Amar",
+        "url": "https://open.spotify.com/album/3ZEZn8lXZ0ZuV6tAvRFnq7"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        }
+      ],
+      "duration_ms": 183758,
+      "name": "Sua M\u00e3e Vai Me Amar",
+      "url": "https://open.spotify.com/track/4fMjqKYYsvtT6Fvca8lGFl"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "WS On Board (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2rNcJ47D7DN9NHkxd8dkV6"
-      },
-      "artists": [
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        }
-      ],
-      "duration_ms": 135325,
-      "name": "Eu J\u00e1 Tava Bem - Ao Vivo",
-      "url": "https://open.spotify.com/track/5FNdfRpHs4u5vto9YdY3ft"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "A Voz Do Meu Samba - Ao Vivo",
         "url": "https://open.spotify.com/album/0rkcBQbAiUpO37EepHSJ0c"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 194090,
       "name": "Eu Mere\u00e7o Ser Feliz - Ao Vivo",
       "url": "https://open.spotify.com/track/1aqRJG36VbTp8E37W4cMGa"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "WS On Board (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2rNcJ47D7DN9NHkxd8dkV6"
+      },
+      "artists": [
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "duration_ms": 135325,
+      "name": "Eu J\u00e1 Tava Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/5FNdfRpHs4u5vto9YdY3ft"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -787,26 +787,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Safad\u00e3o Amplificado",
-        "url": "https://open.spotify.com/album/4I44En3hzwqNsyvNrV0gEG"
-      },
-      "artists": [
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        },
-        {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
-        }
-      ],
-      "duration_ms": 155341,
-      "name": "Ele \u00c9 Ele, Eu Sou Eu",
-      "url": "https://open.spotify.com/track/2vPRrOaM3zvPwrOHoIPjcF"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Diferente dos Iguais",
         "url": "https://open.spotify.com/album/5PHmIs0BTQUdTwZOh7LwST"
       },
@@ -819,6 +799,22 @@
       "duration_ms": 237900,
       "name": "Meia Noite (Voc\u00ea tem meu Whatsapp)",
       "url": "https://open.spotify.com/track/5fuK5An5rQcx0OVIzsscOK"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "\u00c9 Problema",
+        "url": "https://open.spotify.com/album/67GYNRw2795hr6ZlyyU1Sa"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 184149,
+      "name": "\u00c9 Problema",
+      "url": "https://open.spotify.com/track/5gTgQBtNP08fUijxpEgmzF"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -839,18 +835,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "\u00c9 Problema",
-        "url": "https://open.spotify.com/album/67GYNRw2795hr6ZlyyU1Sa"
+        "name": "Safad\u00e3o Amplificado",
+        "url": "https://open.spotify.com/album/4I44En3hzwqNsyvNrV0gEG"
       },
       "artists": [
         {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        },
+        {
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
         }
       ],
-      "duration_ms": 184149,
-      "name": "\u00c9 Problema",
-      "url": "https://open.spotify.com/track/5gTgQBtNP08fUijxpEgmzF"
+      "duration_ms": 155341,
+      "name": "Ele \u00c9 Ele, Eu Sou Eu",
+      "url": "https://open.spotify.com/track/2vPRrOaM3zvPwrOHoIPjcF"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "F\u00e3 de Carteirinha Sunset, Ep. 01 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/08XT41HiFtjXbl1X4sihw0"
-      },
-      "artists": [
-        {
-          "name": "Pixote",
-          "url": "https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB"
-        }
-      ],
-      "duration_ms": 342622,
-      "name": "Nem de Gra\u00e7a / Saudade Arrega\u00e7a - Ao Vivo",
-      "url": "https://open.spotify.com/track/141xCZ6pvh4ymCsQkOFX80"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "A Nova Cara das Vaquejadas",
         "url": "https://open.spotify.com/album/5cMhZUlCGsc1BN9bw10bqx"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 258220,
       "name": "N\u00eaga",
       "url": "https://open.spotify.com/track/3b5iBusDt6w3EYuMuqIuL6"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "F\u00e3 de Carteirinha Sunset, Ep. 01 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/08XT41HiFtjXbl1X4sihw0"
+      },
+      "artists": [
+        {
+          "name": "Pixote",
+          "url": "https://open.spotify.com/artist/0ciLF0bOuu2BhqzCEZgHoB"
+        }
+      ],
+      "duration_ms": 342622,
+      "name": "Nem de Gra\u00e7a / Saudade Arrega\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/141xCZ6pvh4ymCsQkOFX80"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Figurinha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4hZvfrSWXppMJ5oXjKbxt8"
-      },
-      "artists": [
-        {
-          "name": "Douglas & Vinicius",
-          "url": "https://open.spotify.com/artist/7M83IzPXGA4ClZJ5reW2Ro"
-        },
-        {
-          "name": "MC Bruninho",
-          "url": "https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB"
-        }
-      ],
-      "duration_ms": 206001,
-      "name": "Figurinha - Ao Vivo",
-      "url": "https://open.spotify.com/track/3vWiMpsy2VMkKqQCtN5mr4"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia",
         "url": "https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7"
       },
@@ -1431,6 +1411,26 @@
       "duration_ms": 183413,
       "name": "Foi P\u00e1 Pum",
       "url": "https://open.spotify.com/track/6F7tttrdq7aUdxXVeo0nKp"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Figurinha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4hZvfrSWXppMJ5oXjKbxt8"
+      },
+      "artists": [
+        {
+          "name": "Douglas & Vinicius",
+          "url": "https://open.spotify.com/artist/7M83IzPXGA4ClZJ5reW2Ro"
+        },
+        {
+          "name": "MC Bruninho",
+          "url": "https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB"
+        }
+      ],
+      "duration_ms": 206001,
+      "name": "Figurinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/3vWiMpsy2VMkKqQCtN5mr4"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Pisadinha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2Ir3JLRBTe6UNagIu9CsYV"
-      },
-      "artists": [
-        {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        },
-        {
-          "name": "Ra\u00ed Saia Rodada",
-          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
-        }
-      ],
-      "duration_ms": 158661,
-      "name": "Pisadinha - Ao Vivo",
-      "url": "https://open.spotify.com/track/36P6ptTyxOggYgR2aoZiAl"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Amor ou o Litr\u00e3o",
         "url": "https://open.spotify.com/album/0qNwJrFHuC0nQt9J4UwEqn"
       },
@@ -1575,6 +1555,26 @@
       "duration_ms": 139528,
       "name": "Vamo Tomar Uma",
       "url": "https://open.spotify.com/track/1YiO0AdZz9HNoJZr8nkaDR"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Pisadinha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2Ir3JLRBTe6UNagIu9CsYV"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        },
+        {
+          "name": "Ra\u00ed Saia Rodada",
+          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
+        }
+      ],
+      "duration_ms": 158661,
+      "name": "Pisadinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/36P6ptTyxOggYgR2aoZiAl"
     },
     {
       "added_at": "2023-11-17 03:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,022 likes - 170 songs - 9 hr 45 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,026 likes - 170 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 7 | [You & Me \- Rivo Remix](https://open.spotify.com/track/0xoYZ45fgTfyQYREZPN7Sa) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Eliza Doolittle](https://open.spotify.com/artist/14L5rpGTLVUz1pD8fUeJB1), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [You & Me \(Rivo Remix\)](https://open.spotify.com/album/3QIGpfgWXKujfMaecgKV9u) | 3:28 |
 | 8 | [JOY \(Push The Button\)](https://open.spotify.com/track/38k9ZI2scBdNV11KM3pTNB) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [JOY \(Push The Button\)](https://open.spotify.com/album/1jkNntbUEEHM1TDNrestb2) | 3:55 |
 | 9 | [Idols Fall](https://open.spotify.com/track/4rmOb88oPfFnhfpGelSHFc) | [Ivy Lab](https://open.spotify.com/artist/3VXCvo9Sr0hbZ4mk6VOKBs), [Seyaa](https://open.spotify.com/artist/4ay2t35lKdmHo3EpFNcS18) | [Idols Fall / Snap 101](https://open.spotify.com/album/1SCNer2SI2V9z360h8ybs6) | 3:59 |
-| 10 | [Concorde](https://open.spotify.com/track/1B1uyiacpEy6OVCT0w1VO7) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [PRISM](https://open.spotify.com/album/4aJVgVMIh3MgmScDvUixlv) | 4:27 |
+| 10 | [Concorde](https://open.spotify.com/track/1B1uyiacpEy6OVCT0w1VO7) | [CHYL](https://open.spotify.com/artist/3Fp1IaByaR0Ttd88isQ3Ct) | [PRISM](https://open.spotify.com/album/4aJVgVMIh3MgmScDvUixlv) | 4:27 |
 | 11 | [In My Hands \(with Camden Cox\) \- DNMO Remix](https://open.spotify.com/track/0mwgf56QqMd5lmHNTyfbvW) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz) | [In My Hands \(with Camden Cox\) \[DNMO Remix\]](https://open.spotify.com/album/0o61Ptl8uFi1hBmj69t3e7) | 3:02 |
 | 12 | [PI JANO](https://open.spotify.com/track/5dNs8DIyHEUwVJwLBsKe4O) | [BOX CAR](https://open.spotify.com/artist/2T9z3mycOMhjacXhmb8NkV) | [PI JANO](https://open.spotify.com/album/2ivbatMFGh3tORbz80E04l) | 4:07 |
 | 13 | [UOH](https://open.spotify.com/track/3PwQn4PixhUv9ydjuuXmng) | [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo), [SUAHN](https://open.spotify.com/artist/2mXnoSfgaBsMz8cbVWBkDX), [Dabow](https://open.spotify.com/artist/6GQx1heM2wyI3iHpAC5P8X) | [AXIS](https://open.spotify.com/album/4J91AXhVRSPBpYCjzNiOPj) | 4:31 |

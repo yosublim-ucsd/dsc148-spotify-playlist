@@ -1,12 +1,12 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Eurice Diniz",
-  "num_followers": 110607,
+  "num_followers": 110735,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjc3MzQ5OTM4ODE4YmVhN2Q1YzZiNTQzMTQzZmFiYTFhN2YzNWYx",
+  "snapshot_id": "MCxmOWU4NzBmNjcxY2VlZjExY2RkOTZlNDExOWViMjIyMjNkNWExN2Q3",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -451,8 +451,8 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "O C\u00e9u Tem Mais",
-        "url": "https://open.spotify.com/album/1g1bympJzlFfIie5LZo8qz"
+        "name": "Forma de Cuidado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2acF6eJqkOSqlXiH97dBsa"
       },
       "artists": [
         {
@@ -460,17 +460,17 @@
           "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
         },
         {
-          "name": "Sarah Farias",
-          "url": "https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK"
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         },
         {
           "name": "Todah Music",
           "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
-      "duration_ms": 452805,
-      "name": "O C\u00e9u Tem Mais",
-      "url": "https://open.spotify.com/track/4yNZ4iN6Cinc2leaCnIqhA"
+      "duration_ms": 244285,
+      "name": "Forma de Cuidado (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6KOtFGXB6I18VCgaQrG0IS"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -515,38 +515,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Sou Deus",
-        "url": "https://open.spotify.com/album/349D416lPCZBQUAUC6SnQb"
-      },
-      "artists": [
-        {
-          "name": "Eli\u00e3 Oliveira",
-          "url": "https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz"
-        }
-      ],
-      "duration_ms": 255500,
-      "name": "Sou Deus",
-      "url": "https://open.spotify.com/track/3CeyF9U9g3lkqs7LrE3Ddv"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Esp\u00edrito Santo",
-        "url": "https://open.spotify.com/album/3ez7jPJBZfCvhUY1ULAnmB"
-      },
-      "artists": [
-        {
-          "name": "Can\u00e7\u00e3o & Louvor",
-          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
-        }
-      ],
-      "duration_ms": 287769,
-      "name": "Esp\u00edrito Santo",
-      "url": "https://open.spotify.com/track/35aohQYftq3TH3ogAZu8hw"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Eu N\u00e3o Era Nada",
         "url": "https://open.spotify.com/album/31ptNMzkQSqJAx1W1ir9c9"
       },
@@ -567,8 +535,40 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Forma de Cuidado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2acF6eJqkOSqlXiH97dBsa"
+        "name": "Esp\u00edrito Santo",
+        "url": "https://open.spotify.com/album/3ez7jPJBZfCvhUY1ULAnmB"
+      },
+      "artists": [
+        {
+          "name": "Can\u00e7\u00e3o & Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+        }
+      ],
+      "duration_ms": 287769,
+      "name": "Esp\u00edrito Santo",
+      "url": "https://open.spotify.com/track/35aohQYftq3TH3ogAZu8hw"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Sou Deus",
+        "url": "https://open.spotify.com/album/349D416lPCZBQUAUC6SnQb"
+      },
+      "artists": [
+        {
+          "name": "Eli\u00e3 Oliveira",
+          "url": "https://open.spotify.com/artist/6t7Gl3PNlP6DKMQmj6vwrz"
+        }
+      ],
+      "duration_ms": 255500,
+      "name": "Sou Deus",
+      "url": "https://open.spotify.com/track/3CeyF9U9g3lkqs7LrE3Ddv"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "O C\u00e9u Tem Mais",
+        "url": "https://open.spotify.com/album/1g1bympJzlFfIie5LZo8qz"
       },
       "artists": [
         {
@@ -576,37 +576,17 @@
           "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
         },
         {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+          "name": "Sarah Farias",
+          "url": "https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK"
         },
         {
           "name": "Todah Music",
           "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
-      "duration_ms": 244285,
-      "name": "Forma de Cuidado (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6KOtFGXB6I18VCgaQrG0IS"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Se O Mar N\u00e3o Se Abrir (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0TbWFxlGqVWTbdUkG75tz7"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 358973,
-      "name": "Se O Mar N\u00e3o Se Abrir (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2hJwuuV6Q9Zd6iWWLgGD0B"
+      "duration_ms": 452805,
+      "name": "O C\u00e9u Tem Mais",
+      "url": "https://open.spotify.com/track/4yNZ4iN6Cinc2leaCnIqhA"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -627,6 +607,26 @@
       "duration_ms": 249983,
       "name": "Vou Marcar Tua Hist\u00f3ria",
       "url": "https://open.spotify.com/track/5EyxLxAeXQufZxFIqyV5sB"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Se O Mar N\u00e3o Se Abrir (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0TbWFxlGqVWTbdUkG75tz7"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 358973,
+      "name": "Se O Mar N\u00e3o Se Abrir (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2hJwuuV6Q9Zd6iWWLgGD0B"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1008,9 +1008,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 389634,
-      "name": "O Noivo Vir\u00e1",
-      "url": "https://open.spotify.com/track/5FXT5KtWOKuRh6y20MNq0I"
+      "duration_ms": 388196,
+      "name": "Terceiro C\u00e9u",
+      "url": "https://open.spotify.com/track/4Zs7ZtrLeVsxDNxrCqfk2I"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Deus Realiza Sonhos",
-        "url": "https://open.spotify.com/album/1MfOrRnrObyxnSchOAfcyN"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
-        }
-      ],
-      "duration_ms": 345416,
-      "name": "Deus Realiza Sonhos",
-      "url": "https://open.spotify.com/track/4l0uNo61OKaZCyvkTSDSOW"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Fara\u00f3 ou Deus",
         "url": "https://open.spotify.com/album/5hctfaJa4vZnZtSLaddWkZ"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 357599,
       "name": "Fara\u00f3 ou Deus",
       "url": "https://open.spotify.com/track/1twjJuqTo6G1blS2Eh4699"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Deus Realiza Sonhos",
+        "url": "https://open.spotify.com/album/1MfOrRnrObyxnSchOAfcyN"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+        }
+      ],
+      "duration_ms": 345416,
+      "name": "Deus Realiza Sonhos",
+      "url": "https://open.spotify.com/track/4l0uNo61OKaZCyvkTSDSOW"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Voc\u00ea Disse",
-        "url": "https://open.spotify.com/album/4uqGFeLGkX5Yt6hNSHHDQ8"
-      },
-      "artists": [
-        {
-          "name": "Claudio Louvor",
-          "url": "https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA"
-        }
-      ],
-      "duration_ms": 277500,
-      "name": "Voc\u00ea Disse",
-      "url": "https://open.spotify.com/track/6EogdYz9DwIG7YZziqj9Js"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "N\u00e3o Vai Se Repetir",
         "url": "https://open.spotify.com/album/69wBvGibtNNlm6qK40R1M3"
       },
@@ -1171,6 +1155,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Voc\u00ea Disse",
+        "url": "https://open.spotify.com/album/4uqGFeLGkX5Yt6hNSHHDQ8"
+      },
+      "artists": [
+        {
+          "name": "Claudio Louvor",
+          "url": "https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA"
+        }
+      ],
+      "duration_ms": 277500,
+      "name": "Voc\u00ea Disse",
+      "url": "https://open.spotify.com/track/6EogdYz9DwIG7YZziqj9Js"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Terceiro C\u00e9u",
         "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
       },
@@ -1180,9 +1180,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 388196,
-      "name": "Terceiro C\u00e9u",
-      "url": "https://open.spotify.com/track/4Zs7ZtrLeVsxDNxrCqfk2I"
+      "duration_ms": 389634,
+      "name": "O Noivo Vir\u00e1",
+      "url": "https://open.spotify.com/track/5FXT5KtWOKuRh6y20MNq0I"
     },
     {
       "added_at": "2023-12-22 03:00:00",

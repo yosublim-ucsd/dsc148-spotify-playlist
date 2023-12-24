@@ -4,7 +4,7 @@
 
 > To the world, this is NCT! This is NCT 127!
 
-115 songs - 6 hr 48 min
+118 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Ay\-Yo](https://open.spotify.com/track/2KwOuFfwQyT9mZqjvchd81) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Ay\-Yo \- The 4th Album Repackage](https://open.spotify.com/album/3VjW3uIc8WG4tXF2wKW9BJ) | 3:41 | 2023-01-30 |  |
 | [Baby Don’t Like It 나쁜 짓](https://open.spotify.com/track/7I2nbddpDYsAe6e4biIxEO) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT\#127 LIMITLESS \- The 2nd Mini Album](https://open.spotify.com/album/4EEfpF1qcPAl1J4Z770A2U) | 2:38 | 2021-10-25 |  |
 | [Back 2 U \(AM 01:27\)](https://open.spotify.com/track/37SqctQhMp3MjvGDXKhnJ3) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT\#127 LIMITLESS \- The 2nd Mini Album](https://open.spotify.com/album/4EEfpF1qcPAl1J4Z770A2U) | 3:55 | 2021-10-25 |  |
+| [Be There For Me](https://open.spotify.com/track/1Lkd4pjGFQilS5zPoMnLL7) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Be There For Me \- Winter Special Single](https://open.spotify.com/album/0uJxcHEh5lpFMd971KU7Wd) | 3:37 | 2023-12-23 |  |
 | [Black Clouds](https://open.spotify.com/track/1n3XdyPzDSbbVoRUb9QSW7) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [2 Baddies \- The 4th Album](https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ) | 3:38 | 2022-09-16 |  |
 | [Boom](https://open.spotify.com/track/4PIDYDoXyBUAh5Tzndtk9K) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) | 3:29 | 2021-10-25 |  |
 | [Boom](https://open.spotify.com/track/67gusSJWD5yC8FdqUgSLqt) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YHFKsjb0e5q8Smb2CBUl7) | 3:29 | 2021-10-25 | 2022-07-29 |
@@ -52,6 +53,7 @@
 | [Highway to Heaven](https://open.spotify.com/track/38dC0QJ7eBKb3F27O0i0LT) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 WE ARE SUPERHUMAN \- The 4th Mini Album](https://open.spotify.com/album/3Xv60ja2pLxH3Wk0x0JIWT) | 3:20 | 2021-10-25 |  |
 | [Highway to Heaven \- English Version](https://open.spotify.com/track/0JBwBDqzRWv8Yd6CgPEaUo) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Highway to Heaven \(English Version\)](https://open.spotify.com/album/2obWGf6ovxU0URLT19xyIw) | 3:20 | 2021-10-25 | 2022-07-29 |
 | [Highway to Heaven \- English Version](https://open.spotify.com/track/3WNuXdBxk8tQ2VI020dqvE) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Highway to Heaven \(English Version\)](https://open.spotify.com/album/4et1GgNRTOx3xpK81Z0iOn) | 3:20 | 2021-10-25 |  |
+| [Home Alone](https://open.spotify.com/track/1FTFDCKkVNGf0UCccm23LA) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Be There For Me \- Winter Special Single](https://open.spotify.com/album/0uJxcHEh5lpFMd971KU7Wd) | 3:45 | 2023-12-23 |  |
 | [Je Ne Sais Quoi](https://open.spotify.com/track/0RRulrevan6sxj7KfMBi6k) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Fact Check \- The 5th Album](https://open.spotify.com/album/0BJU07UQiBbB2bLLJg2ktr) | 3:35 | 2023-10-06 |  |
 | [Jet Lag](https://open.spotify.com/track/1U0gJQyrJE4h3EWyHeJ2UK) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 WE ARE SUPERHUMAN \- The 4th Mini Album](https://open.spotify.com/album/3Xv60ja2pLxH3Wk0x0JIWT) | 3:15 | 2021-10-25 |  |
 | [Jet Lag](https://open.spotify.com/track/1cmwRh9sriKdhZx8T0hPJa) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 WE ARE SUPERHUMAN \- The 4th Mini Album](https://open.spotify.com/album/15DNWLVXy5ES2USQ1PFnF5) | 3:15 | 2021-10-25 | 2022-07-29 |
@@ -117,6 +119,7 @@
 | [Wakey\-Wakey](https://open.spotify.com/track/147lM5htxXyaYuwDM1j3zl) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Awaken](https://open.spotify.com/album/5ZZi6WiDmPcTkx2Vx7n61Z) | 3:02 | 2021-10-25 |  |
 | [Welcome To My Playground](https://open.spotify.com/track/56f5GO8ir5ucrcQ00k4a8t) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Regulate \- The 1st Album Repackage](https://open.spotify.com/album/5iJsCigDROOTMgUpJ6ex2S) | 3:59 | 2021-10-25 |  |
 | [Whiplash](https://open.spotify.com/track/2iPxDFeN27VrKgGdZ0AIKw) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 CHERRY BOMB– The 3rd Mini Album](https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s) | 3:21 | 2021-10-25 |  |
+| [White Lie](https://open.spotify.com/track/4lkWc3gsYhcYNsFIOk6Uak) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Be There For Me \- Winter Special Single](https://open.spotify.com/album/0uJxcHEh5lpFMd971KU7Wd) | 3:57 | 2023-12-23 |  |
 | [White Night](https://open.spotify.com/track/0gu1joxLlUJKmg2ZvGTaZF) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YHFKsjb0e5q8Smb2CBUl7) | 4:03 | 2021-10-25 | 2022-07-29 |
 | [White Night](https://open.spotify.com/track/33txTXgQioQ5eaXc7yWd67) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone \- The 2nd Album](https://open.spotify.com/album/5YOvg682zFOleCiSndLnZr) | 4:03 | 2021-10-25 |  |
 | [Yacht](https://open.spotify.com/track/0kMTK6RqBkUojGARhbQkaq) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Fact Check \- The 5th Album](https://open.spotify.com/album/0BJU07UQiBbB2bLLJg2ktr) | 3:07 | 2023-10-06 |  |

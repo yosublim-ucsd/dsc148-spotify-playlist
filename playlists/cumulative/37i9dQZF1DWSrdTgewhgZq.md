@@ -4,7 +4,7 @@
 
 > Only the best Hip\-hop, only fire bars\. Offset on Cover
 
-238 songs - 12 hr 46 min
+239 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,8 @@
 | [Man Of The Year](https://open.spotify.com/track/5SsR3wtCOafDmZgvIdRhSm) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Oxymoron \(Deluxe\)](https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS) | 3:36 | 2023-01-25 | 2023-02-17 |
 | [MELTDOWN \(feat\. Drake\)](https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:06 | 2023-07-28 |  |
 | [Metallic 5's](https://open.spotify.com/track/1FswwGm9noeepfDqPxDygo) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Jae Skeese](https://open.spotify.com/artist/4DaFgJf7fynXYWpmyVnkAZ) | [Metallic 5's](https://open.spotify.com/album/4AZEzSBfQTDClCA2P4wUZS) | 3:12 | 2023-03-03 | 2023-06-17 |
-| [MHM](https://open.spotify.com/track/1lDNSytOBbE1cbFFUc95Km) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ) | [MHM](https://open.spotify.com/album/36EeKYE6dFXKqtNdyye3xk) | 2:27 | 2023-05-19 |  |
+| [MHM](https://open.spotify.com/track/0VU7ZfZnuAhs9mcKLUUC61) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ) | [Head Melodies](https://open.spotify.com/album/0KtppoaIZmN1DPOt5Z5fEj) | 2:27 | 2023-12-22 |  |
+| [MHM](https://open.spotify.com/track/1lDNSytOBbE1cbFFUc95Km) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ) | [MHM](https://open.spotify.com/album/36EeKYE6dFXKqtNdyye3xk) | 2:27 | 2023-05-19 | 2023-12-24 |
 | [MIDDLE CHILD](https://open.spotify.com/track/2JvzF1RMd7lE3KmFlsyZD8) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [MIDDLE CHILD](https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc) | 3:33 | 2021-12-24 | 2023-11-25 |
 | [Minimum Wage](https://open.spotify.com/track/2J3XiLFW6yiqoKpOukbbpR) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Minimum Wage](https://open.spotify.com/album/2Pcfs8BmHGXKsIcs8cJomT) | 2:18 | 2023-11-21 |  |
 | [MISAWA \)](https://open.spotify.com/track/6tsdStu2dRwRTVIurMi3Nr) | [Speak](https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ), [J\(X\)](https://open.spotify.com/artist/3qwnfFfieT2LWbd9hWUJbL) | [MISAWA \)](https://open.spotify.com/album/6bbs4aTcWo5P5a4jvbAQZT) | 3:51 | 2023-03-03 | 2023-06-17 |

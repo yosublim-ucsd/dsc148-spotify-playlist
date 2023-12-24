@@ -4,7 +4,7 @@
 
 > Instrumental acoustic guitar renditions of the Christmas songs you love.
 
-111 songs - 4 hr 26 min
+112 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Cold December Night](https://open.spotify.com/track/0Qf7ZmXDdrl7xpxud2O5vh) | [Beau Hayes](https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I) | [Cold December Night](https://open.spotify.com/album/4GDSvwB4IvoIBWGE1hLvWC) | 2:00 | 2023-10-06 |  |
 | [Come All Ye Faithful](https://open.spotify.com/track/22igCA5r3MM4M2POVWyxG5) | [Loulou Metellus](https://open.spotify.com/artist/2A2AbvIq2SmTFLWbzqtoLX) | [Come All Ye Faithful](https://open.spotify.com/album/4mfcjLitpc2dxr3H6xrZs1) | 2:14 | 2021-12-22 | 2023-11-18 |
 | [Coventry Carol](https://open.spotify.com/track/2E58NGSvZRVE94PY8fpCHZ) | [David Snellbacher](https://open.spotify.com/artist/599FWOk7IwAvQSkkTYV2p4) | [All Acoustic Christmas](https://open.spotify.com/album/4O52UOM58x3bRdIZDPomF8) | 3:26 | 2021-12-22 |  |
-| [Deck The Halls](https://open.spotify.com/track/27vCWK2IVbhahTwnw5nhrW) | [Aaron Larget\-Caplan](https://open.spotify.com/artist/3SQ8wM04jpHcSbPM6Rl2BL) | [A Guitar Holiday](https://open.spotify.com/album/5fIhvb26J7V639RThl2t0X) | 1:52 | 2021-12-22 |  |
+| [Deck The Halls](https://open.spotify.com/track/27vCWK2IVbhahTwnw5nhrW) | [Aaron Larget\-Caplan](https://open.spotify.com/artist/3SQ8wM04jpHcSbPM6Rl2BL) | [A Guitar Holiday](https://open.spotify.com/album/5fIhvb26J7V639RThl2t0X) | 1:52 | 2021-12-22 | 2023-12-24 |
+| [Deck The Halls](https://open.spotify.com/track/6BtuV4fSCgieGeNWPMqRMf) | [Aaron Larget\-Caplan](https://open.spotify.com/artist/3SQ8wM04jpHcSbPM6Rl2BL) | [A Guitar Holiday](https://open.spotify.com/album/4kLp6CqCmDy7CeengHFpJK) | 1:52 | 2023-12-19 |  |
 | [Ding Dong Merrily High](https://open.spotify.com/track/2Dyf9xAvNTnv6kl8PxSDMN) | [Emma Mann Lee](https://open.spotify.com/artist/5qidU3ekPOWXD3I7qzI18Y) | [Ding Dong Merrily High](https://open.spotify.com/album/1f6UoUJCV7cyPZ4WPLI9SL) | 2:44 | 2021-12-22 |  |
 | [Do You Want to Build a Snowman](https://open.spotify.com/track/25RqCzdrL6O6OFahC1sFqk) | [Taylor Bernette](https://open.spotify.com/artist/7vHCdssDmnIs4w9Q3osvKV) | [christmas piano](https://open.spotify.com/album/55yWhghxRRxUI6WNEFLHZc) | 1:46 | 2023-10-13 | 2023-10-14 |
 | [Do You Want To Build A Snowman](https://open.spotify.com/track/2EtcEa7S0RO3Kxp5L3CnWJ) | [Taylor Bernette](https://open.spotify.com/artist/7vHCdssDmnIs4w9Q3osvKV) | [Do You Want To Build A Snowman](https://open.spotify.com/album/2IpgZTkBoc4vHXZ48BZlC2) | 1:46 | 2023-10-13 |  |

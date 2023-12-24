@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 31043,
+  "num_followers": 31068,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDg5NmZhODZlNDI2MzY5NGNlZjEzYjIwZjA5MGYxZmEzZmIwNDll",
+  "snapshot_id": "MCw5ZTZhNTY4OWU4ODY1NTk4M2E3ODA3NmQyNjUyZWVhOGNmNDczZDEw",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/2SWeo6mxvuaZ1AYMxXkapY"
+      },
+      "artists": [
+        {
+          "name": "Iglesias",
+          "url": "https://open.spotify.com/artist/3urGFEv1zqwK24gupip690"
+        }
+      ],
+      "duration_ms": 396682,
+      "name": "Dynasty",
+      "url": "https://open.spotify.com/track/21ybzGn5sHmDl72e5nTmgF"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "U Won't See Me",
         "url": "https://open.spotify.com/album/3ifZTF4IJFhIM1znvi6GG7"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 186046,
       "name": "U Won't See Me",
       "url": "https://open.spotify.com/track/1WqCf2NfriI4Fff84grSbY"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Dynasty",
-        "url": "https://open.spotify.com/album/2SWeo6mxvuaZ1AYMxXkapY"
-      },
-      "artists": [
-        {
-          "name": "Iglesias",
-          "url": "https://open.spotify.com/artist/3urGFEv1zqwK24gupip690"
-        }
-      ],
-      "duration_ms": 396682,
-      "name": "Dynasty",
-      "url": "https://open.spotify.com/track/21ybzGn5sHmDl72e5nTmgF"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/1DI8trL5leqaA8twkT4H0h"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "duration_ms": 190874,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/4r2xLZbF6dz6Sq3DkEQF7Z"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "What We Got",
         "url": "https://open.spotify.com/album/2gydMIjZO5J7bqjNaYC8xy"
       },
@@ -1111,18 +1127,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/1DI8trL5leqaA8twkT4H0h"
+        "name": "The Track / Tobago",
+        "url": "https://open.spotify.com/album/0cFBXj9g1Lv86ttvwRGflE"
       },
       "artists": [
         {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+          "name": "Daniel Steinberg",
+          "url": "https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV"
         }
       ],
-      "duration_ms": 190874,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/4r2xLZbF6dz6Sq3DkEQF7Z"
+      "duration_ms": 219048,
+      "name": "The Track",
+      "url": "https://open.spotify.com/track/3GCmKFjQaS6mcFB4xHcbkg"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1147,22 +1163,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "The Track / Tobago",
-        "url": "https://open.spotify.com/album/0cFBXj9g1Lv86ttvwRGflE"
-      },
-      "artists": [
-        {
-          "name": "Daniel Steinberg",
-          "url": "https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV"
-        }
-      ],
-      "duration_ms": 219048,
-      "name": "The Track",
-      "url": "https://open.spotify.com/track/3GCmKFjQaS6mcFB4xHcbkg"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Club Vibes Part 01",
         "url": "https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk"
       },
@@ -1175,22 +1175,6 @@
       "duration_ms": 518400,
       "name": "Geh\u00f6rschadengenerator",
       "url": "https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "This Energy EP",
-        "url": "https://open.spotify.com/album/6BhhDPtDrqadoXUT3y9FUU"
-      },
-      "artists": [
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "This Energy",
-      "url": "https://open.spotify.com/track/0FAIsPkDqH7IYxVtetwvrU"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1275,6 +1259,22 @@
       "duration_ms": 148153,
       "name": "Take",
       "url": "https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "This Energy EP",
+        "url": "https://open.spotify.com/album/6BhhDPtDrqadoXUT3y9FUU"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "This Energy",
+      "url": "https://open.spotify.com/track/0FAIsPkDqH7IYxVtetwvrU"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Hate",
-        "url": "https://open.spotify.com/album/3071HCpBw7F9QvLMYV31Jq"
-      },
-      "artists": [
-        {
-          "name": "Seth Troxler",
-          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
-        },
-        {
-          "name": "Audion",
-          "url": "https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8"
-        }
-      ],
-      "duration_ms": 602761,
-      "name": "Hate",
-      "url": "https://open.spotify.com/track/0x90eVrDCcd5Xoq2HCWnMS"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Targa (Logic1000 Remix)",
         "url": "https://open.spotify.com/album/6kpoHaj6R6DbN8Y2nSxZlo"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 215642,
       "name": "Targa - Logic1000 Remix",
       "url": "https://open.spotify.com/track/6Q9RgcT8pB3USUFjG9MY9s"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Hate",
+        "url": "https://open.spotify.com/album/3071HCpBw7F9QvLMYV31Jq"
+      },
+      "artists": [
+        {
+          "name": "Seth Troxler",
+          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
+        },
+        {
+          "name": "Audion",
+          "url": "https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8"
+        }
+      ],
+      "duration_ms": 602761,
+      "name": "Hate",
+      "url": "https://open.spotify.com/track/0x90eVrDCcd5Xoq2HCWnMS"
     },
     {
       "added_at": "2023-12-15 05:00:00",

@@ -4,7 +4,7 @@
 
 > Watch the kids go wild for these party tunes!
 
-176 songs - 9 hr 29 min
+177 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Friends Are Family](https://open.spotify.com/track/5aJZOlpCV5ASWERYjNQVBL) | [Oh, Hush!](https://open.spotify.com/artist/7cpjCdauAvnZuOys36bntk), [Will Arnett](https://open.spotify.com/artist/4816tiO0G1Zn52kd5J2KYn), [Jeff Lewis](https://open.spotify.com/artist/4JDI31jWR7BBBBzw9kmu7Z) | [The Lego Batman Movie: Original Motion Picture Soundtrack](https://open.spotify.com/album/1nuvb3dI59xG29iCSuQ7CN) | 2:23 | 2021-10-08 | 2022-07-29 |
 | [Friends Are Family \(feat\. Will Arnett & Jeff Lewis\)](https://open.spotify.com/track/7kozEMlJqDFrxxQEBCsQ3n) | [Oh, Hush!](https://open.spotify.com/artist/7cpjCdauAvnZuOys36bntk), [Jeff Lewis](https://open.spotify.com/artist/4JDI31jWR7BBBBzw9kmu7Z), [Will Arnett](https://open.spotify.com/artist/4816tiO0G1Zn52kd5J2KYn) | [The Lego Batman Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/20Am1bee946Kdace8R9bC0) | 2:23 | 2022-07-05 |  |
 | [Funkytown \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/7p7kNdvLaNeW52PlsnYLF1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Funkytown \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/6OxOGNWMW6OVc9u5K2cOrb) | 4:23 | 2022-07-05 |  |
-| [Glowin' Up \- from the Netflix film My Little Pony: A New Generation](https://open.spotify.com/track/4sA5vMBjQwpnhPtewDXwQS) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [Glowin' Up \(from the Netflix film "My Little Pony: A New Generation"\)](https://open.spotify.com/album/3TPxyCABDC6mXBCmfWRK8X) | 3:11 | 2021-10-08 |  |
+| [Glowin' Up](https://open.spotify.com/track/594bEDSIxUNaKYF2FuHSpm) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [Glowin' Up \(from the Netflix film "My Little Pony: A New Generation"\)](https://open.spotify.com/album/7e9yA0WHIIdClfthaj2yTk) | 3:11 | 2023-05-12 |  |
+| [Glowin' Up \- from the Netflix film My Little Pony: A New Generation](https://open.spotify.com/track/4sA5vMBjQwpnhPtewDXwQS) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [Glowin' Up \(from the Netflix film "My Little Pony: A New Generation"\)](https://open.spotify.com/album/3TPxyCABDC6mXBCmfWRK8X) | 3:11 | 2021-10-08 | 2023-12-24 |
 | [Good 4 U](https://open.spotify.com/track/3p5LrNOBWL25sRSw1DVRX5) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Good 4 U](https://open.spotify.com/album/0muvX0psY90Ru9Dgpi9VZA) | 2:58 | 2021-10-08 | 2022-07-29 |
 | [Good 4 U](https://open.spotify.com/track/45DLkmULk1wd8bOcyRWadm) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Good 4 U](https://open.spotify.com/album/1LgkgfToF0EEM0Wk3mnPZb) | 2:58 | 2022-07-05 |  |
 | [Good Mood \- Original Song From Paw Patrol: The Movie](https://open.spotify.com/track/4uX1pkSuSidzJxT4eWL7x1) | [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Good Mood \(Original Song From Paw Patrol: The Movie\)](https://open.spotify.com/album/5YQDkKa0fHnIYnVdfrQLqI) | 3:30 | 2021-10-08 |  |

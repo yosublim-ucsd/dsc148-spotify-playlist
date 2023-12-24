@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: The Cleverlys
 
-251 songs - 16 hr 4 min
+254 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,8 +205,9 @@
 | [Stop Draggin' My Heart Around](https://open.spotify.com/track/4dVdOYwqfTceuuiUdUWhsx) | [Dale Ann Bradley](https://open.spotify.com/artist/5GbwZNguC7FpXnQlIrTiXm), [Dave Adkins](https://open.spotify.com/artist/3RyXAPEFlMjXqy8dFADBaz) | [Kentucky for Me](https://open.spotify.com/album/1LGzbxuKK6FgvnAGDbSnjv) | 3:08 | 2023-06-26 |  |
 | [Strawberries](https://open.spotify.com/track/3qAne5aXwnsa7P0uEZjlWz) | [Bark Point.](https://open.spotify.com/artist/3k1op8tCQiKBZYYW1QecNg) | [Strawberries](https://open.spotify.com/album/7iBMQhkySSkMR80Mv5miFA) | 3:50 | 2023-05-26 |  |
 | [Stronger](https://open.spotify.com/track/5mf78CsTPJUOY2lWWbd8KB) | [Rebecca Loebe](https://open.spotify.com/artist/6FmVqyaRJUiBBLYroaonM4) | [Bees & Zombies](https://open.spotify.com/album/0JK8nmaCQqMXupnfo5ohfp) | 3:28 | 2021-08-20 | 2022-01-08 |
+| [Such Great Heights](https://open.spotify.com/track/4HUENSfoQAJiome9fSSjOK) | [Joy Kills Sorrow](https://open.spotify.com/artist/6ZRMYLLAQlmSluihxBYw0C) | [Wide Awake](https://open.spotify.com/album/7H7mBG6mk62oWCGL7L1uNI) | 4:13 | 2023-11-24 |  |
 | [Such Great Heights](https://open.spotify.com/track/4Vk9JVC3eBEY35i7JgkSTG) | [Joy Kills Sorrow](https://open.spotify.com/artist/6ZRMYLLAQlmSluihxBYw0C) | [Wide Awake](https://open.spotify.com/album/2vIgHcmDHz5Vx2hBezjumT) | 4:13 | 2021-08-20 | 2022-01-08 |
-| [Such Great Heights](https://open.spotify.com/track/79cKvTv8eVXPolBTPfx8ns) | [Joy Kills Sorrow](https://open.spotify.com/artist/6ZRMYLLAQlmSluihxBYw0C) | [Wide Awake](https://open.spotify.com/album/5nEwS94VbhdXy4IgH9YMli) | 4:13 | 2023-01-13 |  |
+| [Such Great Heights](https://open.spotify.com/track/79cKvTv8eVXPolBTPfx8ns) | [Joy Kills Sorrow](https://open.spotify.com/artist/6ZRMYLLAQlmSluihxBYw0C) | [Wide Awake](https://open.spotify.com/album/5nEwS94VbhdXy4IgH9YMli) | 4:13 | 2023-01-13 | 2023-12-24 |
 | [Summer's End](https://open.spotify.com/track/03aaUI9oLXdo9TRAvKy62T) | [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Summer's End](https://open.spotify.com/album/5zgTm1cISmkEXTC6Vo2IYH) | 3:48 | 2021-08-20 | 2023-04-15 |
 | [Sun and Water \(Here Comes the Sun/Waters of March\)](https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI) | [Alison Brown](https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK) | [Sun and Water \(Here Comes the Sun/Waters of March\)](https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh) | 3:34 | 2023-03-10 |  |
 | [Superstition](https://open.spotify.com/track/3TXIXYKb8c6Lj6v7TcU0gB) | [Old School Freight Train](https://open.spotify.com/artist/2BNbKeVVXrlJcwyh9Se4ov) | [Run](https://open.spotify.com/album/32VCMTj1IgIsP9UqsOKKeC) | 3:21 | 2021-08-20 | 2022-07-29 |
@@ -243,10 +244,12 @@
 | [White Bird](https://open.spotify.com/track/2PtX9ivW736enJeAIY5G0h) | [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [Laps In Seven](https://open.spotify.com/album/10iKg9kGMqfPquNwsXzcdm) | 6:00 | 2021-08-20 | 2022-04-02 |
 | [White Rabbit](https://open.spotify.com/track/2CepFmaGHm7HnCKdTxrbvT) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [White Rabbit](https://open.spotify.com/album/3eDF1zJvMGS8p1BxHhzYjd) | 5:15 | 2023-04-07 |  |
 | [Whole Wide World](https://open.spotify.com/track/3e5eR2DBoHD2qR4HN3YmTv) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Pink Strat](https://open.spotify.com/album/1tf1lgrShcPtESMaz4Dl3r) | 2:35 | 2021-08-20 | 2023-08-12 |
+| [Wild Horses](https://open.spotify.com/track/0oLZz6CXQ698XSO3J9DddL) | [Old & In The Way](https://open.spotify.com/artist/45vs9Drn5QbWAQ4Kff6ofh) | [Breakdown](https://open.spotify.com/album/3OWpFF6JfLHr728JT5PDAn) | 4:38 | 2023-11-24 |  |
 | [Wild Horses](https://open.spotify.com/track/4xMmjrefx4NlEOHfGu3EQf) | [Old & In The Way](https://open.spotify.com/artist/45vs9Drn5QbWAQ4Kff6ofh) | [Breakdown](https://open.spotify.com/album/1gWmSLQFKaP2CkxxZZXMg7) | 4:38 | 2021-08-20 | 2022-07-29 |
-| [Wild Horses](https://open.spotify.com/track/64gFlVpyORaPTWizf9nAdZ) | [Old & In The Way](https://open.spotify.com/artist/45vs9Drn5QbWAQ4Kff6ofh) | [Breakdown](https://open.spotify.com/album/1Loo5VCZwcTyNmnHfMuTf8) | 4:38 | 2022-05-27 |  |
+| [Wild Horses](https://open.spotify.com/track/64gFlVpyORaPTWizf9nAdZ) | [Old & In The Way](https://open.spotify.com/artist/45vs9Drn5QbWAQ4Kff6ofh) | [Breakdown](https://open.spotify.com/album/1Loo5VCZwcTyNmnHfMuTf8) | 4:38 | 2022-05-27 | 2023-12-24 |
 | [Wildflowers](https://open.spotify.com/track/1VJ4tttfxHq0Eu5x2nTCvx) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Wildflowers](https://open.spotify.com/album/0hJydfH36mKREO2dkuuLGs) | 2:48 | 2021-08-20 |  |
-| [Wildwood Flower](https://open.spotify.com/track/3xckzvp58eFYnM7HEHSjMi) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW), [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks) | [True Bluegrass Instrumentals](https://open.spotify.com/album/6cwdLgLSa2CgKtRwvKZzDd) | 3:04 | 2022-05-27 |  |
+| [Wildwood Flower](https://open.spotify.com/track/1Wzp8u0k19FJEFk8Al6ntI) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW), [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks) | [Second Generation](https://open.spotify.com/album/0cWKR22WUG8SH7CL2FP8hf) | 3:04 | 2023-11-24 |  |
+| [Wildwood Flower](https://open.spotify.com/track/3xckzvp58eFYnM7HEHSjMi) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW), [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks) | [True Bluegrass Instrumentals](https://open.spotify.com/album/6cwdLgLSa2CgKtRwvKZzDd) | 3:04 | 2022-05-27 | 2023-12-24 |
 | [Will The Circle Be Unbroken](https://open.spotify.com/track/0UiDKWjgZNmO4XAqUq4YwR) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Will The Circle Be Unbroken](https://open.spotify.com/album/5Vp7FdPMarEESivkc6xaSD) | 3:55 | 2022-03-04 | 2022-07-29 |
 | [Will the Circle Be Unbroken](https://open.spotify.com/track/6dpOwvczXipOQ0daK57JKW) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [Easy Listening for Jerks, Pt\. 1](https://open.spotify.com/album/5fYToYotblVTIH2SaJENBW) | 3:55 | 2022-05-27 |  |
 | [Yellow Ledbetter](https://open.spotify.com/track/3tgpZZeRegnNSbBPUEn0kH) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Iron Horse](https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t) | [Yellow Ledbetter](https://open.spotify.com/album/4J7RZl5567plKFg2s3tOzr) | 4:05 | 2023-04-21 |  |

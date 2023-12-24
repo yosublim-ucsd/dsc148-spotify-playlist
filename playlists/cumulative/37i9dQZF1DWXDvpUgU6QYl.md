@@ -4,7 +4,7 @@
 
 > A groovy and soulful house collection\. Cover: Calvin Harris, Eliza Rose
 
-102 songs - 6 hr 9 min
+103 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Euphoria](https://open.spotify.com/track/5QjfEMyFm4YTyYTbHvriGT) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Euphoria](https://open.spotify.com/album/4dtA4QUlcF3fsOcWYkXiLB) | 2:38 | 2023-09-05 | 2023-11-24 |
 | [Everyday People](https://open.spotify.com/track/68FsnsTl1yNJKX8RYgbcMy) | [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys) | [Everyday People](https://open.spotify.com/album/1LJpax4mCpovZiAJUZFChP) | 2:45 | 2023-09-15 |  |
 | [Fairy Tale](https://open.spotify.com/track/5lW0GalqLjKwC4cxSBps1S) | [Marvin Aloys](https://open.spotify.com/artist/3CCJPt2Y7WxjlW8tswCu2q) | [Fairy Tale](https://open.spotify.com/album/7oid5KfOqkXNQu8304UpsE) | 3:08 | 2023-09-05 | 2023-11-11 |
-| [Fantasy](https://open.spotify.com/track/02HnreS8f1YDpr5qXrCtw3) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [IN:TENSION](https://open.spotify.com/album/2eMuDynNCvPeNzWkrt8m2p) | 3:15 | 2023-11-10 |  |
+| [Fantasy](https://open.spotify.com/track/02HnreS8f1YDpr5qXrCtw3) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [IN:TENSION](https://open.spotify.com/album/2eMuDynNCvPeNzWkrt8m2p) | 3:15 | 2023-11-10 | 2023-12-24 |
+| [Fantasy](https://open.spotify.com/track/60vMYW3pMPwW5V6eTXNq2N) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [IN:TENSION](https://open.spotify.com/album/5Om5ffiuTukQ7HdnSMxm1h) | 3:15 | 2023-12-22 |  |
 | [Feel The Same](https://open.spotify.com/track/77S8daUg3BQLdaAmH6c8EQ) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Feel The Same](https://open.spotify.com/album/0tHzJkyjlBPT8hzSFXdsU2) | 3:03 | 2023-09-05 |  |
 | [Feels Like](https://open.spotify.com/track/6wmrbBpn1m0idxwGv6q2lf) | [Milk & Sugar](https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH), [Killed Kassette](https://open.spotify.com/artist/3UF2kQ7JLl8tqOxGWrpvY5), [Skapes](https://open.spotify.com/artist/4RdHsZecp3xAk5ktnJULkB), [Thornetta Davis](https://open.spotify.com/artist/02HWgoL7gYSPcVlNjrJWRb) | [Feels Like](https://open.spotify.com/album/6Y8YiPouVnbFl8Nj38L68q) | 3:29 | 2023-09-05 | 2023-09-30 |
 | [Get Up](https://open.spotify.com/track/3uO4nLDiJMH2DkixEFcHIN) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [ShezAr](https://open.spotify.com/artist/3PPJmIxohGjhNvQIyrksIW) | [Get Up](https://open.spotify.com/album/2XahKuNpWDBxLlbD8eKCuc) | 3:06 | 2023-09-05 | 2023-10-07 |

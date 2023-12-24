@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,373 songs - 10 day 1 hr 28 min
+6,374 songs - 10 day 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2792,6 +2792,7 @@
 | [JD YO](https://open.spotify.com/track/3xS2PoYLcvonpeyyePMfmt) | [Berus](https://open.spotify.com/artist/44pdm70YqlobtTZ9HmtBYa) | [JD YO](https://open.spotify.com/album/6UMbaNKq77g3kpMvadH2PH) | 2:51 | 2022-12-09 | 2023-05-04 |
 | [Je Te Met Au Défi \(feat\. Nohidea\)](https://open.spotify.com/track/44q3z1tWKbYbVKkHyJOO7p) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T), [simon eng](https://open.spotify.com/artist/0YXc5Rre8iZ6CfxNtzBJhC), [Nohidea](https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO) | [Jazz Channel Instrumentals](https://open.spotify.com/album/51FoywJ6e6dJv6LtXCr98R) | 1:32 | 2019-09-08 | 2020-08-07 |
 | [Je te souhaite le meilleur](https://open.spotify.com/track/18I15jiydUoqA9UR1aFTgi) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [Je te souhaite le meilleur](https://open.spotify.com/album/6gpYzNzqPr3nuOppCZTEtm) | 2:15 | 2023-09-07 | 2023-11-24 |
+| [jeep](https://open.spotify.com/track/74QVwX6fjyS88E3WywI9NA) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [jeep](https://open.spotify.com/album/3SZNhX6P0hkZY48D0nfEVL) | 1:49 | 2023-12-22 |  |
 | [Jehzz](https://open.spotify.com/track/170ZmbYgGk5kSb0WwFarSS) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84) | [Jehzz](https://open.spotify.com/album/3W3iaK253n1jdghHkeOLLn) | 2:22 | 2023-03-24 | 2023-04-28 |
 | [Jelly](https://open.spotify.com/track/4L9hWm0wUX1E5iAWhazCDa) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Heinrich Schlupf](https://open.spotify.com/artist/2d4Qz6TAMDn8JCO1udJn8y) | [Jelly](https://open.spotify.com/album/4E5w81W4K3L3ZsT1cRLcyA) | 1:52 | 2022-10-14 | 2023-01-20 |
 | [Jelly](https://open.spotify.com/track/1SJR3tlgtFEGdzNrBHhHU2) | [Prigida](https://open.spotify.com/artist/4Ab2SjCDNyDAgkLfzzucWY) | [Jelly](https://open.spotify.com/album/1SqTPB0Vg0Y03DcurnthqQ) | 2:43 | 2022-08-05 | 2022-11-18 |
@@ -5817,7 +5818,7 @@
 | [Twit Wun Two](https://open.spotify.com/track/3DRfBaYS58sSY1wwgOk6tr) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Audda Control](https://open.spotify.com/album/2z4RbgcrgqjYkWXOMn22HT) | 2:35 | 2021-11-20 | 2022-06-10 |
 | [Two Birds](https://open.spotify.com/track/2ksZ4YveGzkh2BXuFQpbsx) | [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J), [Niklouds](https://open.spotify.com/artist/2Yb1xfZ2NpUdq7HStg8qtJ) | [Two Birds](https://open.spotify.com/album/5pty9mqwaXpvcxMuzDlhJL) | 2:06 | 2022-06-17 | 2022-10-07 |
 | [Two Dolla$](https://open.spotify.com/track/1q5P7Khpqav45bVdi5KXrM) | [Laflov](https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH) | [Two Dolla$](https://open.spotify.com/album/1fFaLQJWtZgGElW4gI1Of8) | 2:10 | 2023-02-10 |  |
-| [Two Fishes](https://open.spotify.com/track/1DuWjr1daphiUoOwYCGRfY) | [halfpastseven](https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk) | [Two Fishes](https://open.spotify.com/album/1TPccWA9hrh969Zvo6OmeI) | 2:42 | 2023-12-15 |  |
+| [Two Fishes](https://open.spotify.com/track/1DuWjr1daphiUoOwYCGRfY) | [halfpastseven](https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk) | [Two Fishes](https://open.spotify.com/album/1TPccWA9hrh969Zvo6OmeI) | 2:42 | 2023-12-15 | 2023-12-24 |
 | [Two Margaritas Please](https://open.spotify.com/track/7yljYFhmlXd9N9JkM07ps5) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Two Margaritas Please](https://open.spotify.com/album/4mAhVAyMEcPlFdRM6yIvBF) | 2:08 | 2021-11-20 | 2022-06-03 |
 | [Two on Two](https://open.spotify.com/track/6bLEY6HfEzXG2ZF24AfO68) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Songbirds & Two on Two](https://open.spotify.com/album/6eB4oBmpGoaySkxFqkqjLU) | 2:43 | 2022-08-26 | 2023-01-07 |
 | [Two Seasons](https://open.spotify.com/track/1660CbuStgh2M3qwjciEYm) | [Donkeychote](https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU) | [Two Seasons](https://open.spotify.com/album/7zNWqg96savDPOwFwzqd7R) | 2:16 | 2022-11-11 | 2023-01-20 |

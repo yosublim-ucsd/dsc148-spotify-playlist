@@ -533,6 +533,24 @@
     },
     {
       "album": {
+        "name": "Greatest Slow Jams, Vol. 1",
+        "url": "https://open.spotify.com/album/6nbqs1sF61gQ4EgcnCyi9x"
+      },
+      "artists": [
+        {
+          "name": "The Whispers",
+          "url": "https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301720,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/7wuip3WxHQ2S6vOE82MGqm"
+    },
+    {
+      "album": {
         "name": "The Whispers: Greatest Hits",
         "url": "https://open.spotify.com/album/5tBvVqK2M7wiBwOQEcnRkp"
       },
@@ -544,7 +562,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 307506,
       "name": "Lady",
       "url": "https://open.spotify.com/track/7sPLPOIORz3sLE2oNbpndr"

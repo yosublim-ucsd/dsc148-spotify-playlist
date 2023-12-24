@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate Halloween at home with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,192 likes - 130 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,190 likes - 130 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 36 | [Toilet Paper Mummy](https://open.spotify.com/track/6iFfqyU2EA0q3ei8p8sHw9) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Halloween Party](https://open.spotify.com/album/4LQzv1AK9H01DWlrgq1oOv) | 2:13 |
 | 37 | [Halloween Boogie Dance](https://open.spotify.com/track/6lT87LGFdNZa33zHH1j7LY) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween Party](https://open.spotify.com/album/2Pxy9CdiyUVaBksBwrHpqt) | 2:05 |
 | 38 | [Monsters](https://open.spotify.com/track/4twPZuAAZdJyF0R1se8bv7) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Monsters & Goosebumps](https://open.spotify.com/album/7deHbl0kyfHgiOK5OzYowH) | 2:32 |
-| 39 | [Tricked](https://open.spotify.com/track/7FiaO4Ne6CsR5TMZ1L47GT) | [Loudhouse](https://open.spotify.com/artist/4opU6MEEnDF28zEMpqsFRc) | [The Loud House Mega Music Countdown \(Soundtrack\)](https://open.spotify.com/album/6ea3zT249IDx7ODPVF8cFL) | 2:02 |
+| 39 | [Tricked](https://open.spotify.com/track/7FiaO4Ne6CsR5TMZ1L47GT) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [The Loud House Mega Music Countdown \(Soundtrack\)](https://open.spotify.com/album/6ea3zT249IDx7ODPVF8cFL) | 2:02 |
 | 40 | [Pumpkin Party](https://open.spotify.com/track/5QngzdLq2rAyeSfyOqFs97) | [Peppa Pig](https://open.spotify.com/artist/2gJLanGIV9JqQuKBCWy9ZG) | [Pumpkin Party](https://open.spotify.com/album/74n24toiPe1cSKO962h10V) | 3:00 |
 | 41 | [The Monsters In The House](https://open.spotify.com/track/152Kq3c7NK2JUbvTkmtND4) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween With CoComelon](https://open.spotify.com/album/2BkpwLT0nO6fZQyOcYcILu) | 2:04 |
 | 42 | [BOO!](https://open.spotify.com/track/2mCzGRsiuMYDZnc9q7N7Hu) | [Sam Moran](https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq) | [Play Along With Sam: BOO!](https://open.spotify.com/album/7mxuyTQ5lj6KFelI8zv8EW) | 2:04 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 129 | [Casper The Friendly Ghost](https://open.spotify.com/track/19GKm4dDOz44DRH3OycKJk) | [The Hit Crew](https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0) | [Bestest Kids Halloween Songs Ever](https://open.spotify.com/album/1xkWTua1mHxl3ZDP5E6VCm) | 1:22 |
 | 130 | [Witch Doctor](https://open.spotify.com/track/2Eyv5QwBHpWIJFOzIXKnm0) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop Halloween Hits!](https://open.spotify.com/album/41Whu3XN1DycyGPZYXz51K) | 2:25 |
 
-Snapshot ID: `MCw2NmNhMzcwN2FhMzFkYTA4YjJlNWI5YTI1ZjZhMWYzOWM2OWM1Njgw`
+Snapshot ID: `MCxhMmM0NTBhNGJlNTJkMWZjMTExMWJjODQ0OTJjMzc0Y2U5ZjcwYzI1`

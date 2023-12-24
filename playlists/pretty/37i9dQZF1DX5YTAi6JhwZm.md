@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 
 > Uplifting and upbeat Jazz to get you in a good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,624 likes - 97 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,661 likes - 97 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 | 10 | [Rigor Mortez \- Rudy Van Gelder 24\-Bit Mastering/2003 Remaster](https://open.spotify.com/track/4lQGjcuX6xblZPrVbsga6l) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Boss Horn \(Remastered\)](https://open.spotify.com/album/1Zg5gkaCMGezneA4Aq9yXk) | 6:21 |
 | 11 | [Bang Bang](https://open.spotify.com/track/211mkZYf9YaQhlev1Vze5F) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Talkin' Verve](https://open.spotify.com/album/2lhapGz7nbjmiJEil7iAFX) | 3:03 |
 | 12 | [Tippin' \- Remastered 2000/Rudy Van Gelder Edition](https://open.spotify.com/track/2yVOF2movPBYvUt1vdpv5k) | [Horace Silver Quintet](https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y) | [Six Pieces Of Silver](https://open.spotify.com/album/2p4ipY0YJS0JSDuc1uamxE) | 6:12 |
-| 13 | [Perhaps](https://open.spotify.com/track/6mBbcbDpY47Yp6PGTBwKBE) | [Aaron Goldberg](https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma) | [The Now](https://open.spotify.com/album/0qoyZFWXV1mXquUUvYOrjQ) | 5:17 |
+| 13 | [Perhaps](https://open.spotify.com/track/34EOHzJsPe7P2r3QqsaBrE) | [Aaron Goldberg](https://open.spotify.com/artist/0BTfBwYC5Mw5ezDg91JBma) | [The Now](https://open.spotify.com/album/69Gu5J2EtrqXQKCdpYqvjK) | 5:17 |
 | 14 | [Hope](https://open.spotify.com/track/3PTBckckvBrl8c4r6xLpFx) | [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR) | [Timba a la Americana](https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C) | 3:01 |
 | 15 | [The Lion's Roar \- Remastered](https://open.spotify.com/track/33gArMdTPHENYZFGLyGDXg) | [Leo Parker](https://open.spotify.com/artist/5LQwJIY0TGUfJDS9vdpjmg) | [Rollin' With Leo \(Remastered\)](https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH) | 4:54 |
 | 16 | [First Dance](https://open.spotify.com/track/4E0Vu17LwtYqaxpdNuSC5V) | [Marco Mezquida](https://open.spotify.com/artist/0TxvWQFZoBIYNhR0QPthp5) | [Tornado](https://open.spotify.com/album/73CgFyrW1jINuYDxzTI7Ka) | 3:59 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 | 96 | [Jakob’s Happy Song](https://open.spotify.com/track/1w8AuoB6mjP8MsnHRoDSkW) | [Simon Westman Trio](https://open.spotify.com/artist/1OI2vi6Bdxr69cjnFWCMTw) | [Stay a While](https://open.spotify.com/album/4PTUyl0wF1Nw0Dfisf3bjE) | 5:32 |
 | 97 | [Feeling](https://open.spotify.com/track/6mLWHZHMceU8qX8uQx8k8M) | [Hegge](https://open.spotify.com/artist/5EWX8RNmEZQNPmKQY4XU1G) | [Feeling](https://open.spotify.com/album/1I5B2Z0aFETAorqMcAO33u) | 6:46 |
 
-Snapshot ID: `MCxmNWE2YjcxY2E4ZWI1YTMyM2MwMTkxZDFlNjBhOGI0MGY2MjRhYjQ4`
+Snapshot ID: `MCw4MTFjNjc5ZmE1NDYxNzY0NmQxYmE0NjU2NDM0YTVhZGI3ZjczZjI2`

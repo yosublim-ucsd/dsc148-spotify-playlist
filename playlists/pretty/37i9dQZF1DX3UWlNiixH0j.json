@@ -1,12 +1,12 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: \u30c9\u30df\u30b3",
-  "num_followers": 55342,
+  "num_followers": 55352,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZWU5YzY0ZGZhYjFiYjQzZGExNGNmYzQ2ZGFiMzRiYjhjNThiZWY3",
+  "snapshot_id": "MCwyYzY0M2Y5NDQ4MjNkOGE1NzQxNzBmOTlmMjYxZWJiN2ZmOTA1MGVl",
   "tracks": [
     {
       "added_at": "2023-12-21 15:00:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-12-21 15:00:00",
       "album": {
+        "name": "Strangers In The Night",
+        "url": "https://open.spotify.com/album/55CO6FPOjzSeWBHdVz1wTv"
+      },
+      "artists": [
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        }
+      ],
+      "duration_ms": 235931,
+      "name": "Strangers In The Night",
+      "url": "https://open.spotify.com/track/3GoiPlWtQO9m1iqxKorcrr"
+    },
+    {
+      "added_at": "2023-12-21 15:00:00",
+      "album": {
         "name": "Dusk to Dawn",
         "url": "https://open.spotify.com/album/7rAKQOCXiqYF1PnWBot3Be"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 226843,
       "name": "Around the Corner",
       "url": "https://open.spotify.com/track/5lh9ngWl6clqFCCQTMf8vp"
-    },
-    {
-      "added_at": "2023-12-21 15:00:00",
-      "album": {
-        "name": "Superman",
-        "url": "https://open.spotify.com/album/6TNjfpFlH6GqH8ZIUp7ziV"
-      },
-      "artists": [
-        {
-          "name": "Tempalay",
-          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
-        }
-      ],
-      "duration_ms": 209633,
-      "name": "Superman",
-      "url": "https://open.spotify.com/track/3R0VkHQ4az4AhbZP2KHFfF"
     },
     {
       "added_at": "2023-12-21 15:00:00",
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-12-21 15:00:00",
       "album": {
-        "name": "Strangers In The Night",
-        "url": "https://open.spotify.com/album/55CO6FPOjzSeWBHdVz1wTv"
+        "name": "Superman",
+        "url": "https://open.spotify.com/album/6TNjfpFlH6GqH8ZIUp7ziV"
       },
       "artists": [
         {
-          "name": "Michael Kaneko",
-          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+          "name": "Tempalay",
+          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
         }
       ],
-      "duration_ms": 235931,
-      "name": "Strangers In The Night",
-      "url": "https://open.spotify.com/track/3GoiPlWtQO9m1iqxKorcrr"
+      "duration_ms": 209633,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/3R0VkHQ4az4AhbZP2KHFfF"
     },
     {
       "added_at": "2023-12-21 15:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-12-21 15:00:00",
       "album": {
-        "name": "Regrets",
-        "url": "https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        }
-      ],
-      "duration_ms": 265961,
-      "name": "Regrets",
-      "url": "https://open.spotify.com/track/0Yy5CsuOOZoRdRI98JOMpS"
-    },
-    {
-      "added_at": "2023-12-21 15:00:00",
-      "album": {
         "name": "Continue",
         "url": "https://open.spotify.com/album/1eMlU0dSndWo2uS6j3MPpB"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 205017,
       "name": "Continue",
       "url": "https://open.spotify.com/track/5OkBQPz8j5yndKOKkTzKJT"
+    },
+    {
+      "added_at": "2023-12-21 15:00:00",
+      "album": {
+        "name": "Regrets",
+        "url": "https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 265961,
+      "name": "Regrets",
+      "url": "https://open.spotify.com/track/0Yy5CsuOOZoRdRI98JOMpS"
     },
     {
       "added_at": "2023-12-21 15:00:00",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2023-12-21 15:00:00",
       "album": {
-        "name": "Diffusion of Responsibility",
-        "url": "https://open.spotify.com/album/7JLobvu32MBmKrDL2QXB6L"
+        "name": "continue",
+        "url": "https://open.spotify.com/album/6vKfyG0Mr5QOIZc4TZ8oqw"
       },
       "artists": [
         {
-          "name": "She Her Her Hers",
-          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
+          "name": "macico",
+          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
         }
       ],
-      "duration_ms": 243700,
-      "name": "Bystanders",
-      "url": "https://open.spotify.com/track/3KdhgPWqcU3pThQudClzWO"
+      "duration_ms": 156279,
+      "name": "continue",
+      "url": "https://open.spotify.com/track/5WMDdUyxL2U1T9qrPINFiS"
     },
     {
       "added_at": "2023-12-21 15:00:00",
@@ -1067,34 +1067,18 @@
     {
       "added_at": "2023-12-21 15:00:00",
       "album": {
-        "name": "apart",
-        "url": "https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr"
+        "name": "Diffusion of Responsibility",
+        "url": "https://open.spotify.com/album/7JLobvu32MBmKrDL2QXB6L"
       },
       "artists": [
         {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+          "name": "She Her Her Hers",
+          "url": "https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era"
         }
       ],
-      "duration_ms": 176166,
-      "name": "apart",
-      "url": "https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry"
-    },
-    {
-      "added_at": "2023-12-21 15:00:00",
-      "album": {
-        "name": "continue",
-        "url": "https://open.spotify.com/album/6vKfyG0Mr5QOIZc4TZ8oqw"
-      },
-      "artists": [
-        {
-          "name": "macico",
-          "url": "https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk"
-        }
-      ],
-      "duration_ms": 156279,
-      "name": "continue",
-      "url": "https://open.spotify.com/track/5WMDdUyxL2U1T9qrPINFiS"
+      "duration_ms": 243700,
+      "name": "Bystanders",
+      "url": "https://open.spotify.com/track/3KdhgPWqcU3pThQudClzWO"
     },
     {
       "added_at": "2023-12-21 15:00:00",
@@ -1115,22 +1099,6 @@
     {
       "added_at": "2023-12-21 15:00:00",
       "album": {
-        "name": "\uff18",
-        "url": "https://open.spotify.com/album/18BdJtCTwpeeyRsVEhaT1m"
-      },
-      "artists": [
-        {
-          "name": "ROTH BART BARON",
-          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
-        }
-      ],
-      "duration_ms": 216674,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/24Ai9oaKiidTGV4Keotqml"
-    },
-    {
-      "added_at": "2023-12-21 15:00:00",
-      "album": {
         "name": "\u3042\u308a\u304c\u3068\u3046",
         "url": "https://open.spotify.com/album/3yvG3IQ4OQwzw9rxoYzceV"
       },
@@ -1147,18 +1115,18 @@
     {
       "added_at": "2023-12-21 15:00:00",
       "album": {
-        "name": "NEW BORN GHOST",
-        "url": "https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc"
+        "name": "\uff18",
+        "url": "https://open.spotify.com/album/18BdJtCTwpeeyRsVEhaT1m"
       },
       "artists": [
         {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+          "name": "ROTH BART BARON",
+          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
         }
       ],
-      "duration_ms": 141793,
-      "name": "\u30d0\u30fc\u30b9\u30c7\u30a4",
-      "url": "https://open.spotify.com/track/5DiTlBAb9KTVbggIvZSDuE"
+      "duration_ms": 216674,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/24Ai9oaKiidTGV4Keotqml"
     },
     {
       "added_at": "2023-12-21 15:00:00",
@@ -1183,6 +1151,38 @@
       "duration_ms": 166206,
       "name": "Two Kites",
       "url": "https://open.spotify.com/track/7r3nlllhf2XYp1Qkh8Tu80"
+    },
+    {
+      "added_at": "2023-12-21 15:00:00",
+      "album": {
+        "name": "NEW BORN GHOST",
+        "url": "https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "duration_ms": 141793,
+      "name": "\u30d0\u30fc\u30b9\u30c7\u30a4",
+      "url": "https://open.spotify.com/track/5DiTlBAb9KTVbggIvZSDuE"
+    },
+    {
+      "added_at": "2023-12-21 15:00:00",
+      "album": {
+        "name": "apart",
+        "url": "https://open.spotify.com/album/4L00KfJ0AfJ0lUEUNW0AGr"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 176166,
+      "name": "apart",
+      "url": "https://open.spotify.com/track/0xXsJc6dz9YT4NMRnNAiry"
     },
     {
       "added_at": "2023-12-21 15:00:00",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2023-12-21 15:00:00",
       "album": {
-        "name": "Moon",
-        "url": "https://open.spotify.com/album/5fGzmzXGotTcvWXyyBFdGL"
-      },
-      "artists": [
-        {
-          "name": "Kenta Dedachi",
-          "url": "https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx"
-        },
-        {
-          "name": "Ryu Matsuyama",
-          "url": "https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf"
-        }
-      ],
-      "duration_ms": 216530,
-      "name": "Moon",
-      "url": "https://open.spotify.com/track/0XBGL9PRTWoJKH7YSI3kRE"
-    },
-    {
-      "added_at": "2023-12-21 15:00:00",
-      "album": {
         "name": "\u7729\u3057\u3044\u3001\u7729\u3057\u3059\u304e\u308b",
         "url": "https://open.spotify.com/album/1aRuvcMfMbeG1sM08Kk6vW"
       },
@@ -1511,18 +1491,22 @@
     {
       "added_at": "2023-12-21 15:00:00",
       "album": {
-        "name": "peanut butters II",
-        "url": "https://open.spotify.com/album/32Y4rnV7l6GCXUy005ox3p"
+        "name": "Moon",
+        "url": "https://open.spotify.com/album/5fGzmzXGotTcvWXyyBFdGL"
       },
       "artists": [
         {
-          "name": "peanut butters",
-          "url": "https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP"
+          "name": "Kenta Dedachi",
+          "url": "https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx"
+        },
+        {
+          "name": "Ryu Matsuyama",
+          "url": "https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf"
         }
       ],
-      "duration_ms": 202164,
-      "name": "\u4e0d\u5b89\u6642\u9593",
-      "url": "https://open.spotify.com/track/3eGhGu79I5YLEaOo3EFRTc"
+      "duration_ms": 216530,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/0XBGL9PRTWoJKH7YSI3kRE"
     },
     {
       "added_at": "2023-12-21 15:00:00",
@@ -1591,6 +1575,22 @@
     {
       "added_at": "2023-12-21 15:00:00",
       "album": {
+        "name": "\u6200\u611b\u5927\u5168",
+        "url": "https://open.spotify.com/album/7vquQAWbCFooOeeSrKDQky"
+      },
+      "artists": [
+        {
+          "name": "the dresscodes",
+          "url": "https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "\u8056\u8005",
+      "url": "https://open.spotify.com/track/0pc65xApWsiCYFHay3uEEJ"
+    },
+    {
+      "added_at": "2023-12-21 15:00:00",
+      "album": {
         "name": "\u3042\u306a\u305f\u306e\u8d70\u99ac\u706f\u306b\u51fa\u308c\u305f\u3089",
         "url": "https://open.spotify.com/album/10uoBh2SE89VMu6MHvvBCA"
       },
@@ -1619,22 +1619,6 @@
       "duration_ms": 150903,
       "name": "\u30b9\u30ab\u30d5\u30a3\u30f3\u306e\u3046\u305f",
       "url": "https://open.spotify.com/track/6J6oZQOtnPZap0gHG88DSi"
-    },
-    {
-      "added_at": "2023-12-21 15:00:00",
-      "album": {
-        "name": "\u6200\u611b\u5927\u5168",
-        "url": "https://open.spotify.com/album/7vquQAWbCFooOeeSrKDQky"
-      },
-      "artists": [
-        {
-          "name": "the dresscodes",
-          "url": "https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO"
-        }
-      ],
-      "duration_ms": 206506,
-      "name": "\u8056\u8005",
-      "url": "https://open.spotify.com/track/0pc65xApWsiCYFHay3uEEJ"
     },
     {
       "added_at": "2023-12-21 15:00:00",
@@ -1683,6 +1667,22 @@
       "duration_ms": 188575,
       "name": "\u3042\u306a\u305f\u306e\u865c",
       "url": "https://open.spotify.com/track/0kIJE88GHrcAt0tnaV3ROG"
+    },
+    {
+      "added_at": "2023-12-21 15:00:00",
+      "album": {
+        "name": "\u9060\u3044\u671d",
+        "url": "https://open.spotify.com/album/22lwuTLvc0LQWA01kat0Fs"
+      },
+      "artists": [
+        {
+          "name": "Yuga",
+          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
+        }
+      ],
+      "duration_ms": 183168,
+      "name": "\u9060\u3044\u671d",
+      "url": "https://open.spotify.com/track/5KSWrw6dKkVaN4ImVrko9Z"
     }
   ],
   "unique_name": "Edge!",

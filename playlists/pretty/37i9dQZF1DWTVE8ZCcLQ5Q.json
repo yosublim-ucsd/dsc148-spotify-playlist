@@ -1,12 +1,12 @@
 {
   "description": "Descubra Abbot e novos talentos brasileiros no horizonte.",
-  "num_followers": 418933,
+  "num_followers": 418929,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTYyMjVhYjA4N2ExZTlmNTAzMWY0NTMwM2FiOTUzMzE0NzU1NjM3",
+  "snapshot_id": "MCwzZjUwZGI5ZjQxZTQyMmU0MmE3ODllNjg2YmQ5YzNhNzk5NTc2N2Uz",
   "tracks": [
     {
       "added_at": "2023-10-05 08:00:00",
@@ -399,30 +399,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Uber",
-        "url": "https://open.spotify.com/album/1Uf5qg0DF4xGCl2JYKz2Ae"
-      },
-      "artists": [
-        {
-          "name": "Ryu, the Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "Mateca",
-          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
-        },
-        {
-          "name": "Trap Select",
-          "url": "https://open.spotify.com/artist/1VlNGdzvBRtCDPi18GuX91"
-        }
-      ],
-      "duration_ms": 157741,
-      "name": "Uber",
-      "url": "https://open.spotify.com/track/3e9jL8tQI1JyBQgaXYFwUb"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "Movimento - Spotify Singles",
         "url": "https://open.spotify.com/album/7C5Wqc2KWxxTvRg6UmcxSU"
       },
@@ -447,6 +423,30 @@
       "duration_ms": 158076,
       "name": "Movimento - Spotify Singles",
       "url": "https://open.spotify.com/track/6SMH0vJtez9fJmg3Nh2heG"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "Uber",
+        "url": "https://open.spotify.com/album/1Uf5qg0DF4xGCl2JYKz2Ae"
+      },
+      "artists": [
+        {
+          "name": "Ryu, the Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Mateca",
+          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
+        },
+        {
+          "name": "Trap Select",
+          "url": "https://open.spotify.com/artist/1VlNGdzvBRtCDPi18GuX91"
+        }
+      ],
+      "duration_ms": 157741,
+      "name": "Uber",
+      "url": "https://open.spotify.com/track/3e9jL8tQI1JyBQgaXYFwUb"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -895,22 +895,22 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Eu Te Dei, Amor",
-        "url": "https://open.spotify.com/album/3YYgYJsqWixI7kvzG0xVjY"
+        "name": "Aquecimento",
+        "url": "https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw"
       },
       "artists": [
         {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+          "name": "SHURY",
+          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
         },
         {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
         }
       ],
-      "duration_ms": 131071,
-      "name": "Eu Te Dei, Amor",
-      "url": "https://open.spotify.com/track/295aNQC63tnXBPFfohPcqO"
+      "duration_ms": 123444,
+      "name": "Aquecimento",
+      "url": "https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -935,22 +935,22 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Aquecimento",
-        "url": "https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw"
+        "name": "Eu Te Dei, Amor",
+        "url": "https://open.spotify.com/album/3YYgYJsqWixI7kvzG0xVjY"
       },
       "artists": [
         {
-          "name": "SHURY",
-          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
         },
         {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
         }
       ],
-      "duration_ms": 123444,
-      "name": "Aquecimento",
-      "url": "https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW"
+      "duration_ms": 131071,
+      "name": "Eu Te Dei, Amor",
+      "url": "https://open.spotify.com/track/295aNQC63tnXBPFfohPcqO"
     },
     {
       "added_at": "2023-10-05 08:00:00",

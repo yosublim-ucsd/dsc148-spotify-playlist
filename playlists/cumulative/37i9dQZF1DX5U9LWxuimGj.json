@@ -192,10 +192,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 274333,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/1apDxpEFWUmDrTSYYEHv0L"
+    },
+    {
+      "album": {
+        "name": "Faded Gloryville",
+        "url": "https://open.spotify.com/album/4UCb8uaJW44vhGZgiknqkb"
+      },
+      "artists": [
+        {
+          "name": "Lindi Ortega",
+          "url": "https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274333,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/1ewuyLSOUAhscYp0Zas0KE"
     },
     {
       "album": {

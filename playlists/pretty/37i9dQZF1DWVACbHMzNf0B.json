@@ -1,12 +1,12 @@
 {
   "description": "Somos una fusi\u00f3n que nunca termina... MEXCLA somos. Peso Pluma, Anitta en portada.",
-  "num_followers": 357762,
+  "num_followers": 358433,
   "original_name": "MEXCLA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWZhZmY0OGUyZjUwZjM5OTRjYzUyOWE5NGZmNzViYTYxMjMzMDZm",
+  "snapshot_id": "MCxmNjk1MWZkYjhlNTdjZGM4NzI1ZDFlY2MzOWU0MmY1NmI5ZDIxMGQ4",
   "tracks": [
     {
       "added_at": "2023-12-22 06:00:00",
@@ -219,6 +219,30 @@
       "duration_ms": 162187,
       "name": "ALVRGZO",
       "url": "https://open.spotify.com/track/4DnhYGcizQepwr7vvvntih"
+    },
+    {
+      "added_at": "2023-12-23 05:19:36",
+      "album": {
+        "name": "Tacata (Remix)",
+        "url": "https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA"
+      },
+      "artists": [
+        {
+          "name": "Tiagz",
+          "url": "https://open.spotify.com/artist/4DMkrFIqGXLycc4YLYTn1i"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 156716,
+      "name": "Tacata (Remix)",
+      "url": "https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj"
     },
     {
       "added_at": "2023-12-22 06:00:00",
@@ -1207,30 +1231,6 @@
       "duration_ms": 126522,
       "name": "DEMBOW B\u00c9LICO",
       "url": "https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK"
-    },
-    {
-      "added_at": "2023-12-22 06:00:00",
-      "album": {
-        "name": "Fumando Mota",
-        "url": "https://open.spotify.com/album/1jlpTCmPcTZ6BmFEyrLtsx"
-      },
-      "artists": [
-        {
-          "name": "Los Lara",
-          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "Fumando Mota",
-      "url": "https://open.spotify.com/track/3oMSVFuPnWFifOrMoGiZGj"
     },
     {
       "added_at": "2023-12-22 06:00:00",

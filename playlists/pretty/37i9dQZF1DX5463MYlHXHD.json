@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa con Papichamp, The la Planta, El negro tecla, Lolo OG & Locura Mix.",
-  "num_followers": 568039,
+  "num_followers": 568250,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjUwNzU5ODgxZmJiYzYxYzNjZmUyNzJkOTgwNTM3NmRlOTdkNDMx",
+  "snapshot_id": "MCw4MjZjM2MyYzZlZDgxYzAwMDc4MDU2ZjY4NjllNmZjNTRhZGQ0MTRk",
   "tracks": [
     {
       "added_at": "2023-12-22 12:02:16",
@@ -359,6 +359,30 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
+        "name": "Auto Al Piso",
+        "url": "https://open.spotify.com/album/3wCxXHDzoxH1XS6Z8u8Uuy"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+        },
+        {
+          "name": "Locura Mix",
+          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
+        }
+      ],
+      "duration_ms": 174580,
+      "name": "Auto Al Piso",
+      "url": "https://open.spotify.com/track/2YwFbO158HeAMCSjSaouRu"
+    },
+    {
+      "added_at": "2023-12-22 12:02:16",
+      "album": {
         "name": "Lo Mejor de Lo Mejor",
         "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
       },
@@ -391,30 +415,6 @@
       "duration_ms": 122455,
       "name": "DISCULPE OFICIAL",
       "url": "https://open.spotify.com/track/4Ngtr8wWqF8wNanDkG5OhG"
-    },
-    {
-      "added_at": "2023-12-22 12:02:16",
-      "album": {
-        "name": "Auto Al Piso",
-        "url": "https://open.spotify.com/album/3wCxXHDzoxH1XS6Z8u8Uuy"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "El negro tecla",
-          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
-        },
-        {
-          "name": "Locura Mix",
-          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
-        }
-      ],
-      "duration_ms": 174580,
-      "name": "Auto Al Piso",
-      "url": "https://open.spotify.com/track/2YwFbO158HeAMCSjSaouRu"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -1043,42 +1043,6 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
-        "name": "Mata",
-        "url": "https://open.spotify.com/album/3CGpmpfvOQT271L1avoGI3"
-      },
-      "artists": [
-        {
-          "name": "Marka Akme",
-          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
-        }
-      ],
-      "duration_ms": 157080,
-      "name": "Mata",
-      "url": "https://open.spotify.com/track/6h8rrNrOCdBbz37IhcvApT"
-    },
-    {
-      "added_at": "2023-12-22 12:02:16",
-      "album": {
-        "name": "Gracia Divina",
-        "url": "https://open.spotify.com/album/1oCU6eo4j8zIlfl2sKiMZz"
-      },
-      "artists": [
-        {
-          "name": "La Liga",
-          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
-        },
-        {
-          "name": "Melodia Kallejera",
-          "url": "https://open.spotify.com/artist/0E36ZeuCI1sTkXy8Vol6pL"
-        }
-      ],
-      "duration_ms": 218070,
-      "name": "Hoy Te Vi",
-      "url": "https://open.spotify.com/track/21GP0hz3tF36WvSIwBYsGP"
-    },
-    {
-      "added_at": "2023-12-22 12:02:16",
-      "album": {
         "name": "EXCUSAS",
         "url": "https://open.spotify.com/album/1eeSI54GxvlHs3AMnZhbK0"
       },
@@ -1107,6 +1071,42 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
+        "name": "Gracia Divina",
+        "url": "https://open.spotify.com/album/1oCU6eo4j8zIlfl2sKiMZz"
+      },
+      "artists": [
+        {
+          "name": "La Liga",
+          "url": "https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6"
+        },
+        {
+          "name": "Melodia Kallejera",
+          "url": "https://open.spotify.com/artist/0E36ZeuCI1sTkXy8Vol6pL"
+        }
+      ],
+      "duration_ms": 218070,
+      "name": "Hoy Te Vi",
+      "url": "https://open.spotify.com/track/21GP0hz3tF36WvSIwBYsGP"
+    },
+    {
+      "added_at": "2023-12-22 12:02:16",
+      "album": {
+        "name": "Mata",
+        "url": "https://open.spotify.com/album/3CGpmpfvOQT271L1avoGI3"
+      },
+      "artists": [
+        {
+          "name": "Marka Akme",
+          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
+        }
+      ],
+      "duration_ms": 157080,
+      "name": "Mata",
+      "url": "https://open.spotify.com/track/6h8rrNrOCdBbz37IhcvApT"
+    },
+    {
+      "added_at": "2023-12-22 12:02:16",
+      "album": {
         "name": "TEKA | E6",
         "url": "https://open.spotify.com/album/7smhd2hrlFPI6KQ1A8MEay"
       },
@@ -1123,30 +1123,6 @@
       "duration_ms": 137500,
       "name": "TEKA | E6",
       "url": "https://open.spotify.com/track/1jl9TPNUehmS24N84LYuuT"
-    },
-    {
-      "added_at": "2023-12-22 12:02:16",
-      "album": {
-        "name": "PICA",
-        "url": "https://open.spotify.com/album/1vyX43WgFXa8BLmIG3DlnN"
-      },
-      "artists": [
-        {
-          "name": "EL NOBA",
-          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "Al Records",
-          "url": "https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T"
-        }
-      ],
-      "duration_ms": 164531,
-      "name": "PICA",
-      "url": "https://open.spotify.com/track/5FKeJ9Z6W4mgG5aUOok3Qn"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -1179,6 +1155,30 @@
       "duration_ms": 243957,
       "name": "De Regreso Al Penal",
       "url": "https://open.spotify.com/track/2PpnjTOCtpBjAmEDu10Vr8"
+    },
+    {
+      "added_at": "2023-12-22 12:02:16",
+      "album": {
+        "name": "PICA",
+        "url": "https://open.spotify.com/album/1vyX43WgFXa8BLmIG3DlnN"
+      },
+      "artists": [
+        {
+          "name": "EL NOBA",
+          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Al Records",
+          "url": "https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T"
+        }
+      ],
+      "duration_ms": 164531,
+      "name": "PICA",
+      "url": "https://open.spotify.com/track/5FKeJ9Z6W4mgG5aUOok3Qn"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -1251,6 +1251,42 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
+        "name": "Remake",
+        "url": "https://open.spotify.com/album/1lmLSU1UmoOSl4U7z5lR0U"
+      },
+      "artists": [
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "John C",
+          "url": "https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS"
+        },
+        {
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+        },
+        {
+          "name": "Papichamp",
+          "url": "https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW"
+        },
+        {
+          "name": "El Pesa 9",
+          "url": "https://open.spotify.com/artist/4SrfDao90sWaTLommUn0o0"
+        }
+      ],
+      "duration_ms": 332000,
+      "name": "Remake",
+      "url": "https://open.spotify.com/track/2B8r5MFRP3EvQDWkm5LxsU"
+    },
+    {
+      "added_at": "2023-12-22 12:02:16",
+      "album": {
         "name": "Tamo Chelo (Remix)",
         "url": "https://open.spotify.com/album/7mFkiXqQqnWYveSQeA9GXE"
       },
@@ -1287,42 +1323,6 @@
       "duration_ms": 338437,
       "name": "Tamo Chelo - Remix",
       "url": "https://open.spotify.com/track/0utOOrcBB24KZil9cgAwXB"
-    },
-    {
-      "added_at": "2023-12-22 12:02:16",
-      "album": {
-        "name": "Remake",
-        "url": "https://open.spotify.com/album/1lmLSU1UmoOSl4U7z5lR0U"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "John C",
-          "url": "https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS"
-        },
-        {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
-        },
-        {
-          "name": "Papichamp",
-          "url": "https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW"
-        },
-        {
-          "name": "El Pesa 9",
-          "url": "https://open.spotify.com/artist/4SrfDao90sWaTLommUn0o0"
-        }
-      ],
-      "duration_ms": 332000,
-      "name": "Remake",
-      "url": "https://open.spotify.com/track/2B8r5MFRP3EvQDWkm5LxsU"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -1975,8 +1975,8 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
-        "name": "Solo Le Pido a Dios",
-        "url": "https://open.spotify.com/album/2wNfH17ST3K7xM2OjeZDWY"
+        "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
+        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
       },
       "artists": [
         {
@@ -1984,9 +1984,9 @@
           "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
         }
       ],
-      "duration_ms": 229840,
-      "name": "Llegamos los Pibes Chorros",
-      "url": "https://open.spotify.com/track/5CORS17eUEK7kZOiwDarzj"
+      "duration_ms": 234707,
+      "name": "Mabel",
+      "url": "https://open.spotify.com/track/5Pcqvln7Yo4XPYRzuaVWja"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -2011,18 +2011,18 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
-        "name": "\u00bfQu\u00e9 No Vale Nada?",
-        "url": "https://open.spotify.com/album/0dFEatxbKVO8fTRu8wghac"
+        "name": "CD3",
+        "url": "https://open.spotify.com/album/5W6qlIMhU69X31xJUO7s86"
       },
       "artists": [
         {
-          "name": "Supermerk2",
-          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
+          "name": "Mc Caco",
+          "url": "https://open.spotify.com/artist/3JjXQTP555FgptpoAcUCsD"
         }
       ],
-      "duration_ms": 214120,
-      "name": "Resaka",
-      "url": "https://open.spotify.com/track/39p88dp2Ya9bHDowBaf8RE"
+      "duration_ms": 149159,
+      "name": "El Arca De Noe",
+      "url": "https://open.spotify.com/track/1h5B7nh5MMi8vj9ZP3wryA"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -2043,18 +2043,18 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
-        "name": "CD3",
-        "url": "https://open.spotify.com/album/5W6qlIMhU69X31xJUO7s86"
+        "name": "\u00bfQu\u00e9 No Vale Nada?",
+        "url": "https://open.spotify.com/album/0dFEatxbKVO8fTRu8wghac"
       },
       "artists": [
         {
-          "name": "Mc Caco",
-          "url": "https://open.spotify.com/artist/3JjXQTP555FgptpoAcUCsD"
+          "name": "Supermerk2",
+          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
         }
       ],
-      "duration_ms": 149159,
-      "name": "El Arca De Noe",
-      "url": "https://open.spotify.com/track/1h5B7nh5MMi8vj9ZP3wryA"
+      "duration_ms": 214120,
+      "name": "Resaka",
+      "url": "https://open.spotify.com/track/39p88dp2Ya9bHDowBaf8RE"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -2139,6 +2139,22 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
+        "name": "No Lo Compren",
+        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
+      },
+      "artists": [
+        {
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Dale Zorrita",
+      "url": "https://open.spotify.com/track/4fobsgzB6v77kwv57KsjNe"
+    },
+    {
+      "added_at": "2023-12-22 12:02:16",
+      "album": {
         "name": "Corte Caco",
         "url": "https://open.spotify.com/album/3jRcPC8PeHaKhVbffJPggb"
       },
@@ -2155,22 +2171,6 @@
       "duration_ms": 120520,
       "name": "Corte Caco",
       "url": "https://open.spotify.com/track/1bST5OPPEuBY8bSpgEQKx3"
-    },
-    {
-      "added_at": "2023-12-22 12:02:16",
-      "album": {
-        "name": "No Lo Compren",
-        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
-      },
-      "artists": [
-        {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Dale Zorrita",
-      "url": "https://open.spotify.com/track/4fobsgzB6v77kwv57KsjNe"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -2207,6 +2207,22 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
+        "name": "No Hay Mal Que Dure 100 A\u00f1os",
+        "url": "https://open.spotify.com/album/65MAxmxDPkdM3IZQY6ZOco"
+      },
+      "artists": [
+        {
+          "name": "El Aspirante",
+          "url": "https://open.spotify.com/artist/214I4pFYN6o8iAN4shhZHK"
+        }
+      ],
+      "duration_ms": 175933,
+      "name": "En la Cama T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/1iryRHcRPsAVeXBa94zeqx"
+    },
+    {
+      "added_at": "2023-12-22 12:02:16",
+      "album": {
         "name": "DALE DALE",
         "url": "https://open.spotify.com/album/55GZVprq5iYoWZOBu4Xwj9"
       },
@@ -2227,22 +2243,6 @@
       "duration_ms": 183418,
       "name": "DALE DALE",
       "url": "https://open.spotify.com/track/5RYg5SW0iqIGAmHDmoU2vb"
-    },
-    {
-      "added_at": "2023-12-22 12:02:16",
-      "album": {
-        "name": "No Hay Mal Que Dure 100 A\u00f1os",
-        "url": "https://open.spotify.com/album/65MAxmxDPkdM3IZQY6ZOco"
-      },
-      "artists": [
-        {
-          "name": "El Aspirante",
-          "url": "https://open.spotify.com/artist/214I4pFYN6o8iAN4shhZHK"
-        }
-      ],
-      "duration_ms": 175933,
-      "name": "En la Cama T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/1iryRHcRPsAVeXBa94zeqx"
     },
     {
       "added_at": "2023-12-22 12:02:16",
@@ -2311,26 +2311,6 @@
     {
       "added_at": "2023-12-22 12:02:16",
       "album": {
-        "name": "ROMPE",
-        "url": "https://open.spotify.com/album/1goKiEeq4PRTaoDZ18Oixh"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        }
-      ],
-      "duration_ms": 193989,
-      "name": "ROMPE",
-      "url": "https://open.spotify.com/track/5d67pPoDJsY76WYCDUPS8e"
-    },
-    {
-      "added_at": "2023-12-22 12:02:16",
-      "album": {
         "name": "Sin Ayuda",
         "url": "https://open.spotify.com/album/5Lq3TDrL7390XY5a9Wm2OV"
       },
@@ -2347,6 +2327,26 @@
       "duration_ms": 229500,
       "name": "Sin Ayuda",
       "url": "https://open.spotify.com/track/11mbrI6qv47pr41GzU3reG"
+    },
+    {
+      "added_at": "2023-12-22 12:02:16",
+      "album": {
+        "name": "ROMPE",
+        "url": "https://open.spotify.com/album/1goKiEeq4PRTaoDZ18Oixh"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        }
+      ],
+      "duration_ms": 193989,
+      "name": "ROMPE",
+      "url": "https://open.spotify.com/track/5d67pPoDJsY76WYCDUPS8e"
     },
     {
       "added_at": "2023-12-22 12:02:16",

@@ -4,7 +4,7 @@
 
 > Ahgases! 7 or nothing.
 
-285 songs - 15 hr 59 min
+286 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,8 @@
 | [We Are Young](https://open.spotify.com/track/2kodbMeIJaydSa0gni4g7j) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Breath of Love : Last Piece](https://open.spotify.com/album/65q29w9jyM9QL2u55MJyij) | 3:30 | 2022-05-23 | 2022-07-29 |
 | [We Are Young](https://open.spotify.com/track/6yWTkg75CyLpz7M0FYNUmN) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Breath of Love: Last Piece](https://open.spotify.com/album/0M6kdJcIA81S9pnIa5pofW) | 3:30 | 2022-05-23 |  |
 | [We Are Young](https://open.spotify.com/track/7JkWbwxCqmm913MgcxIozF) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Breath of Love: Last Piece](https://open.spotify.com/album/5vL6vinpOUVWOV2T8VjL4H) | 3:30 | 2022-05-23 | 2023-08-07 |
-| [Wheels Up](https://open.spotify.com/track/46By0NR1h14uaYIQ21U9rn) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr), [Mayzin](https://open.spotify.com/artist/52bD0lfgcUwxbQMrCrYMRd) | [Wheels Up](https://open.spotify.com/album/7EX8mGWkjAW6Ik4AqhxsIP) | 3:20 | 2022-05-23 |  |
+| [Wheels Up](https://open.spotify.com/track/46By0NR1h14uaYIQ21U9rn) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr), [Mayzin](https://open.spotify.com/artist/52bD0lfgcUwxbQMrCrYMRd) | [Wheels Up](https://open.spotify.com/album/7EX8mGWkjAW6Ik4AqhxsIP) | 3:20 | 2022-05-23 | 2023-12-24 |
+| [Wheels Up](https://open.spotify.com/track/6EIPwNizGzlytC9Mon0L12) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr), [Mayzin](https://open.spotify.com/artist/52bD0lfgcUwxbQMrCrYMRd) | [Wheels Up](https://open.spotify.com/album/2Y7QaFILwkGntXl2kMpz0v) | 3:20 | 2022-05-23 |  |
 | [Wheels Up \(feat\. Mayzin\)](https://open.spotify.com/track/5rnqEo666hoD4r0CajmrJm) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr), [Mayzin](https://open.spotify.com/artist/52bD0lfgcUwxbQMrCrYMRd) | [Wheels Up \(feat\. Mayzin\)](https://open.spotify.com/album/7fN1n8ytw8i6sxJ1i5lzMI) | 3:20 | 2022-05-23 | 2022-07-29 |
 | [Who Are You \(Feat\. SEULGI of Red Velvet\)](https://open.spotify.com/track/1IjWbIMe1uXqp9tDfC3QLL) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr), [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [Who Are You](https://open.spotify.com/album/7cvrTHkHU8UBnmhHLVUWnL) | 2:59 | 2022-05-23 |  |
 | [Why Why Why](https://open.spotify.com/track/7KJFzhA8d0IpIZLNt367Po) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Why Why Why](https://open.spotify.com/album/5MkkiVN4hu8eQ4vTTuma2q) | 2:39 | 2023-01-03 |  |

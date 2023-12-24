@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 190801,
+  "num_followers": 190857,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmQ3MTU1MjczNjJiNGFmZjg3MTk1YTc5NzBiZWRmYmExMmIxMjQ4",
+  "snapshot_id": "MCxlMWExMmQ5YjMwMDk5MDFlOGIyZjdiZTlhZjZlY2Y5MGNkZTJkZWE4",
   "tracks": [
     {
       "added_at": "2023-06-23 04:01:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "YUNGBLUD",
-        "url": "https://open.spotify.com/album/7HNJT97QuNFvJLUpQXCIp3"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 167700,
-      "name": "Anarchist",
-      "url": "https://open.spotify.com/track/1Wa7BVGznsfYtKQTl0M8no"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "Rise Up",
         "url": "https://open.spotify.com/album/426j4dLXzZygBoi0rAzE0a"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 230680,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/4B9xwFIN58Nn8ZtvssOqKf"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "YUNGBLUD",
+        "url": "https://open.spotify.com/album/7HNJT97QuNFvJLUpQXCIp3"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 167700,
+      "name": "Anarchist",
+      "url": "https://open.spotify.com/track/1Wa7BVGznsfYtKQTl0M8no"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "YUNGBLUD",
-        "url": "https://open.spotify.com/album/7HNJT97QuNFvJLUpQXCIp3"
+        "name": "digging for windows",
+        "url": "https://open.spotify.com/album/0wxjAXRBHD6DgZ2Tfj5Oj8"
       },
       "artists": [
         {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+          "name": "Zack De La Rocha",
+          "url": "https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S"
         }
       ],
-      "duration_ms": 223043,
-      "name": "Polygraph Eyes",
-      "url": "https://open.spotify.com/track/1PlODCjGsbZRKlDljoBd4m"
+      "duration_ms": 211253,
+      "name": "digging for windows",
+      "url": "https://open.spotify.com/track/10I6vYepbEON5Q01Xgs0gb"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "digging for windows",
-        "url": "https://open.spotify.com/album/0wxjAXRBHD6DgZ2Tfj5Oj8"
+        "name": "YUNGBLUD",
+        "url": "https://open.spotify.com/album/7HNJT97QuNFvJLUpQXCIp3"
       },
       "artists": [
         {
-          "name": "Zack De La Rocha",
-          "url": "https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S"
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
         }
       ],
-      "duration_ms": 211253,
-      "name": "digging for windows",
-      "url": "https://open.spotify.com/track/10I6vYepbEON5Q01Xgs0gb"
+      "duration_ms": 223043,
+      "name": "Polygraph Eyes",
+      "url": "https://open.spotify.com/track/1PlODCjGsbZRKlDljoBd4m"
     },
     {
       "added_at": "2023-06-23 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 
 > The official playlist for <a href="spotify:user:0ouhj3nctpqgo8bgamzte2o6o">Paramount Network</a>'s Yellowstone.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,578 likes - 197 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,923 likes - 197 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -197,7 +197,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 187 | [Baby I Lost My Way, \(But I'm Going Home\)](https://open.spotify.com/track/4sithGopG72uyw6LrLsgiu) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Tearing At The Seams](https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp) | 2:55 |
 | 188 | [Broken Window Serenade](https://open.spotify.com/track/7G59EUBvMPfIy1FTuobrqj) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Firewater](https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5) | 5:46 |
 | 189 | [Grand Canyon](https://open.spotify.com/track/6TXS2cMfXY8oNZ20moIWoc) | [Puscifer](https://open.spotify.com/artist/2pAajGWerK3ghwToNWFENS) | [Money Shot](https://open.spotify.com/album/5Eq7sXh2Ifa9mp2ry25lxn) | 5:57 |
-| 190 | [I'd Die Without You](https://open.spotify.com/track/5MAWGXxVxFNig7swSJUTP5) | [P.M\. Dawn](https://open.spotify.com/artist/5DgjOwTN6o76J5Gf8MzEoL) | [The Bliss Album...?](https://open.spotify.com/album/2092uBCLDw7Off2zl7Es2j) | 4:10 |
+| 190 | [I'd Die Without You](https://open.spotify.com/track/649jZznllnI5F2rMq8nA2L) | [P.M\. Dawn](https://open.spotify.com/artist/5DgjOwTN6o76J5Gf8MzEoL) | [The Bliss Album...?](https://open.spotify.com/album/69rTTwmGtmD0kChPaxN5Zq) | 4:10 |
 | 191 | [Lord Knows I Tried](https://open.spotify.com/track/7zKcfMgSincnabBwLLNsEH) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [I Said a Prayer Twice for Both My Faces](https://open.spotify.com/album/6RtPOOl6JCef0oAp4MzSij) | 3:00 |
 | 192 | [Me and the Whiskey](https://open.spotify.com/track/6Bvh8a4YhNyqsafMVYlRrd) | [Whitey Morgan and the 78's](https://open.spotify.com/artist/2bGK38Qvf603fcckzUYYui) | [Sonic Ranch](https://open.spotify.com/album/6FkihlChn5sSLKFAqsaqtU) | 4:32 |
 | 193 | [Drinkin' Problem](https://open.spotify.com/track/1vBpwxsLVwaR4evBIaFmqD) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [On The Rocks](https://open.spotify.com/album/5p5lKDY6Ag62f8HWfIFzQ0) | 3:40 |
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQebjaPYhvs.md) - [plain]
 | 196 | [Yellowstone Main Titles](https://open.spotify.com/track/2UJvq5v0tSh1UrtINtKhMn) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 1:09 |
 | 197 | [Yellowstone Theme](https://open.spotify.com/track/39dFpriXYV9LfUSRJZXqyI) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Yellowstone \(Original Television Series Soundtrack\)](https://open.spotify.com/album/3B3SP3uBMl7n2UsJb5ZH7L) | 2:28 |
 
-Snapshot ID: `MCxhNTMyZjE1NDQwZDBmMDI2MDVlZjNhNTJlNzI1OWVlNGQ4ZTNmOGY1`
+Snapshot ID: `MCxlYjdlMmFhMDAxZjA2NWVkYzYxOTMwMzU2NjA1ZWJiYTkyYjNjNGQ1`

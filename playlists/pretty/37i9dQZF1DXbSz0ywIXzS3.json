@@ -1,12 +1,12 @@
 {
   "description": "\"I am never drinking again\".",
-  "num_followers": 908,
+  "num_followers": 1004,
   "original_name": "hAngOvEr fRiEnDLy rOcK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWFiNGM5ZjViNWNmNWZkNDAzZWU1ZTFiZjI2ZTIzMDU1ZjEzZTg2",
+  "snapshot_id": "MCw5YmFmNGE1MmIxZjVmODU3ZTdhMmM3M2UxZGM4ZGIxMzg5MDQzMjI3",
   "tracks": [
     {
       "added_at": "2023-10-25 14:26:42",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-10-25 14:26:42",
       "album": {
-        "name": "This Is Why",
-        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 232998,
-      "name": "Thick Skull",
-      "url": "https://open.spotify.com/track/0M2SX26YicKMOAxqtWGPUh"
-    },
-    {
-      "added_at": "2023-10-25 14:26:42",
-      "album": {
         "name": "Surface Sounds",
         "url": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 284798,
       "name": "Hey Gringo",
       "url": "https://open.spotify.com/track/4aPeeN8IYOCMNBGI0p7169"
+    },
+    {
+      "added_at": "2023-10-25 14:26:42",
+      "album": {
+        "name": "This Is Why",
+        "url": "https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 232998,
+      "name": "Thick Skull",
+      "url": "https://open.spotify.com/track/0M2SX26YicKMOAxqtWGPUh"
     },
     {
       "added_at": "2023-10-25 14:26:42",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-10-25 14:26:42",
       "album": {
-        "name": "INTELLECTUAL PROPERTY",
-        "url": "https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 164625,
-      "name": "BRAINWASHED",
-      "url": "https://open.spotify.com/track/5rt1XJbhuC5NRqmdKMDscI"
-    },
-    {
-      "added_at": "2023-10-25 14:26:42",
-      "album": {
         "name": "Team Sleep (U.S. Release)",
         "url": "https://open.spotify.com/album/7BORauiIbjPkOVRzSq38DP"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 171800,
       "name": "Ever (Foreign Flag)",
       "url": "https://open.spotify.com/track/6lj90SlDI7l1xDLVuxEFDH"
+    },
+    {
+      "added_at": "2023-10-25 14:26:42",
+      "album": {
+        "name": "INTELLECTUAL PROPERTY",
+        "url": "https://open.spotify.com/album/6FxkiRw25b3z8CqqFE8pSm"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "duration_ms": 164625,
+      "name": "BRAINWASHED",
+      "url": "https://open.spotify.com/track/5rt1XJbhuC5NRqmdKMDscI"
     },
     {
       "added_at": "2023-10-25 14:26:42",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-10-25 14:26:42",
       "album": {
-        "name": "girlfriends",
-        "url": "https://open.spotify.com/album/3cuyb6sSpCSEc6TLBh1sUQ"
-      },
-      "artists": [
-        {
-          "name": "girlfriends",
-          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
-        }
-      ],
-      "duration_ms": 163832,
-      "name": "California",
-      "url": "https://open.spotify.com/track/5RmGKBLOYl9hbNE7BuDmur"
-    },
-    {
-      "added_at": "2023-10-25 14:26:42",
-      "album": {
         "name": "Promise Everything (Deluxe)",
         "url": "https://open.spotify.com/album/2Ic7SVaZu6loRXczS4VfYP"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 157586,
       "name": "Oversized",
       "url": "https://open.spotify.com/track/4YM6Ujbv89VpprqasAXcwS"
+    },
+    {
+      "added_at": "2023-10-25 14:26:42",
+      "album": {
+        "name": "girlfriends",
+        "url": "https://open.spotify.com/album/3cuyb6sSpCSEc6TLBh1sUQ"
+      },
+      "artists": [
+        {
+          "name": "girlfriends",
+          "url": "https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7"
+        }
+      ],
+      "duration_ms": 163832,
+      "name": "California",
+      "url": "https://open.spotify.com/track/5RmGKBLOYl9hbNE7BuDmur"
     },
     {
       "added_at": "2023-10-25 14:26:42",

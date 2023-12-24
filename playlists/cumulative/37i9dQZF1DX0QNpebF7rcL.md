@@ -4,7 +4,7 @@
 
 > The best in blues right now\. Cover: Robert Finley
 
-337 songs - 22 hr 40 min
+339 songs - 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,8 @@
 | [I'll Be Moving On](https://open.spotify.com/track/3q53EOS9boS1UYg7et96KC) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3), [Sari Schorr](https://open.spotify.com/artist/65EcwCjlQu3XbQEbSqYBGl) | [I'll Be Moving On](https://open.spotify.com/album/6b6VYA1u7gpcGq5jPaFezV) | 3:51 | 2023-09-22 | 2023-10-28 |
 | [I'm A Woman](https://open.spotify.com/track/58ttzG8XXKZzXkRd0PFagO) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [I'm A Woman](https://open.spotify.com/album/0ul0OtmuYOCV00rsaKaHPm) | 4:58 | 2023-08-18 |  |
 | [I'm Free](https://open.spotify.com/track/7CD17NlIJRHmDRfl3oUa1a) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [I'm Free](https://open.spotify.com/album/3IW3DJaCMBengGSULp86w8) | 4:12 | 2023-06-30 | 2023-07-29 |
-| [I'm Just Getting Started!](https://open.spotify.com/track/17v5PPcGy8FSN4n9xnKpUd) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG) | [I'm Just Getting Started!](https://open.spotify.com/album/2Pd2hfBHc4OaM4ZEtBgaoZ) | 2:39 | 2022-07-01 |  |
+| [I'm Just Getting Started!](https://open.spotify.com/track/17v5PPcGy8FSN4n9xnKpUd) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG) | [I'm Just Getting Started!](https://open.spotify.com/album/2Pd2hfBHc4OaM4ZEtBgaoZ) | 2:39 | 2022-07-01 | 2023-12-24 |
+| [I'm Just Getting Started!](https://open.spotify.com/track/5FpQfVO2jHbTtZGGR8lkN8) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG) | [I'm Just Getting Started!](https://open.spotify.com/album/0QgQ8Ln8AIxc3Svhc8cbi3) | 2:39 | 2022-07-01 |  |
 | [I'm No Angel Myself](https://open.spotify.com/track/1HENXx512ScE18AYoJm45r) | [Melissa Etheridge](https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA) | [One Way Out](https://open.spotify.com/album/19Qpt0zW5Rj8Z85T47YpUG) | 4:38 | 2021-09-17 | 2023-06-10 |
 | [I'm The One](https://open.spotify.com/track/74uqmsTpust7vhkIuyt1kl) | [Bobby Rush](https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi) | [I'm The One](https://open.spotify.com/album/3plZvUdCRuc5h5PzzoEs7S) | 3:52 | 2023-06-02 | 2023-07-01 |
 | [I'm Tore Down](https://open.spotify.com/track/1Rh166Dr7vSbpCV2bUoBSW) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [I'm Tore Down](https://open.spotify.com/album/6nKz5WRlab96MD927id1gF) | 6:08 | 2021-04-16 | 2022-04-23 |
@@ -166,7 +167,8 @@
 | [Keep The Faith](https://open.spotify.com/track/2AfGLVa5rzRqnPm23bPMLk) | [Gaye Adegbalola](https://open.spotify.com/artist/0rHaAC7EOfI1AssVbzlLIM) | [Keep The Faith](https://open.spotify.com/album/6pSAFmBfO36ji39xuYu10r) | 3:28 | 2022-04-05 | 2023-04-30 |
 | [Keep The Faith](https://open.spotify.com/track/5xuRJS8QBHVKiD7J1zkxFm) | [Gaye Adegbalola](https://open.spotify.com/artist/0rHaAC7EOfI1AssVbzlLIM) | [Keep The Faith](https://open.spotify.com/album/57IHF6KGGaZ9F8KcCahyh6) | 3:28 | 2022-04-05 | 2023-06-05 |
 | [Keep Your Light on Mama](https://open.spotify.com/track/04XadPndIKcDvzl9RDZ0hQ) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ), [Jared James Nichols](https://open.spotify.com/artist/2l7Z2HP9bqMaMFSdPP012g) | [Traveler's Blues](https://open.spotify.com/album/1FvSXWIYbHm4plK9ytVaLd) | 3:23 | 2021-10-22 | 2023-05-20 |
-| [Last Call](https://open.spotify.com/track/50JkDzyvtn6xf75rklAVvc) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [TEN](https://open.spotify.com/album/7BOpTMhSI7AJl81BbePXcO) | 3:13 | 2022-04-08 |  |
+| [Last Call](https://open.spotify.com/track/3VYsTcWT8Fpvk7buYRIOyK) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [TEN](https://open.spotify.com/album/7HHvLqB4yD1CIP3OgS8NIN) | 3:13 | 2022-04-08 |  |
+| [Last Call](https://open.spotify.com/track/50JkDzyvtn6xf75rklAVvc) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [TEN](https://open.spotify.com/album/7BOpTMhSI7AJl81BbePXcO) | 3:13 | 2022-04-08 | 2023-12-24 |
 | [Last One To Know](https://open.spotify.com/track/7avd94T3BZcvcSiRl3gWGM) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Ice Cream In Hell](https://open.spotify.com/album/6dopecoqDNzo58krvM3NO4) | 4:44 | 2020-12-14 | 2022-02-26 |
 | [Last Time](https://open.spotify.com/track/5y0qdBH20kqP3xCWP2UmQt) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Last Time](https://open.spotify.com/album/7d1zgjgQZO89I2ffcHpVze) | 2:31 | 2023-05-12 |  |
 | [Lazy Poker Blues](https://open.spotify.com/track/6dClwc2jqyygLU32kLMaC7) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Lazy Poker Blues](https://open.spotify.com/album/0vZWYDZBuUrCezGAHZqsUh) | 3:17 | 2023-08-11 | 2023-09-09 |

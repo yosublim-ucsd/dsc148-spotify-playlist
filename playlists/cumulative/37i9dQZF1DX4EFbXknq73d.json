@@ -2754,7 +2754,7 @@
     {
       "album": {
         "name": "51 Phantom",
-        "url": "https://open.spotify.com/album/5Zxv4JiCxWqWzMepX7oGUv"
+        "url": "https://open.spotify.com/album/6F6PDWOnfj5i8XMNXXeTIg"
       },
       "artists": [
         {
@@ -2765,6 +2765,24 @@
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 329200,
+      "name": "Ship",
+      "url": "https://open.spotify.com/track/0JQzpnmwFmQzJ1JcN87Rt0"
+    },
+    {
+      "album": {
+        "name": "51 Phantom",
+        "url": "https://open.spotify.com/album/5Zxv4JiCxWqWzMepX7oGUv"
+      },
+      "artists": [
+        {
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
       "duration_ms": 329200,
       "name": "Ship",
       "url": "https://open.spotify.com/track/2inywferyxR6WGq7tvtQMW"

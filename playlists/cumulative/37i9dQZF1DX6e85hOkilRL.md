@@ -4,7 +4,7 @@
 
 > A playlist featuring instrumental lullaby versions of your favorite country tunes.
 
-73 songs - 4 hr 26 min
+74 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Friends in Low Places](https://open.spotify.com/track/1MUJkvAPDqrDTnFp9Lc8s6) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Country Lullabies](https://open.spotify.com/album/5jBHodRD5s7OTu1MweI6BF) | 5:07 | 2021-05-21 |  |
 | [Get Along \(Lullaby Rendition\)](https://open.spotify.com/track/1MoUJBX5xX0G05suQ7tLak) | [Jammy Jams](https://open.spotify.com/artist/6dnGWqFchmCpwCE47YtG7d) | [Country Goes Lullaby 2: Lullaby Renditions of Country Hits](https://open.spotify.com/album/5AusflBqMzL33wF5Iu3kyO) | 3:48 | 2021-05-21 |  |
 | [Get Your Shine On](https://open.spotify.com/track/4hyCvk2HeUacmK3iOgCpaz) | [Twinkle Twinkle Little Rock Star](https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d) | [Lullaby Versions of Florida Georgia Line](https://open.spotify.com/album/3cE9GF657jI7GrLS9pMK7I) | 3:42 | 2021-05-21 |  |
-| [God's Country \- Instrumental](https://open.spotify.com/track/3RxkfZQQmUGYEZ3T3oh903) | [Lullaby Players](https://open.spotify.com/artist/1IVUK6wK1PvFI6adwUcoc4) | [Lullaby Pop Hits 2019 \(Instrumental\)](https://open.spotify.com/album/1hLfVcVC8KhpQgMJLZf8nL) | 3:49 | 2021-05-21 |  |
+| [God's Country \- Instrumental](https://open.spotify.com/track/0OL2cAiD2fIBnyQ4ZSzdGn) | [Lullaby Players](https://open.spotify.com/artist/1IVUK6wK1PvFI6adwUcoc4) | [Lullaby Pop Hits 2019 \(Instrumental\)](https://open.spotify.com/album/1DIDEhslScZfEet6zUTZaD) | 3:49 | 2022-03-14 |  |
+| [God's Country \- Instrumental](https://open.spotify.com/track/3RxkfZQQmUGYEZ3T3oh903) | [Lullaby Players](https://open.spotify.com/artist/1IVUK6wK1PvFI6adwUcoc4) | [Lullaby Pop Hits 2019 \(Instrumental\)](https://open.spotify.com/album/1hLfVcVC8KhpQgMJLZf8nL) | 3:49 | 2021-05-21 | 2023-12-24 |
 | [God’s Country](https://open.spotify.com/track/6pD07VyA3OBit9l8wMI4cp) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Lullaby Renditions of Blake Shelton](https://open.spotify.com/album/4EmetLmY8gysX1cUpJ30Th) | 3:08 | 2022-02-04 |  |
 | [Goodbye Earl](https://open.spotify.com/track/3zSBSdDlP2A2gyCxGkoWYP) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Country Lullabies](https://open.spotify.com/album/5jBHodRD5s7OTu1MweI6BF) | 4:05 | 2021-05-21 |  |
 | [Here You Come Again](https://open.spotify.com/track/4AM9VBMMbK6fUmsABrK4aX) | [Hushabye Baby](https://open.spotify.com/artist/2Q07VeywZl1U7Zbywcq30i) | [Lullaby Renditions of Dolly Parton](https://open.spotify.com/album/2aZEwbtZwLo4r7N42cGeCc) | 3:01 | 2022-03-14 |  |

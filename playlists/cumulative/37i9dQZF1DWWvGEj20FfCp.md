@@ -4,7 +4,7 @@
 
 > Sounds that inspired the designers of <a href="https://lagosfashionweek.ng/">Lagos Fashion Week 2023.</a>
 
-633 songs - 1 day 18 hr 29 min
+634 songs - 1 day 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,7 +337,8 @@
 | [Luigi](https://open.spotify.com/track/3WiaVc2oa9imq75hhTqlw4) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [The Saga of 34Corine](https://open.spotify.com/album/3gPpGJ0KVOmhsMlcuKNmp2) | 2:30 | 2022-06-01 | 2022-08-02 |
 | [LUST.](https://open.spotify.com/track/06FCvd7rrRcF3DdvWH5Isp) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 5:07 | 2023-07-17 | 2023-09-02 |
 | [Make the Music with Your Mouth, Biz \(Best Of\)](https://open.spotify.com/track/1Sboz1oluTkhOLAYgc0ccM) | [Biz Markie](https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4) | [Biz's Baddest Beats: The Best of Biz Markie](https://open.spotify.com/album/2OKf5WlgqFgszrDsxMq07t) | 5:04 | 2022-08-22 | 2022-09-07 |
-| [Mama Ararira](https://open.spotify.com/track/21KVuGxaGNwoBqDXxnsECn) | [Afro Celt Sound System](https://open.spotify.com/artist/0hUnACGIFz6oHfeDIT36mp), [Dorothee Munyaneza](https://open.spotify.com/artist/5ztDZB5EmZry43HAFLjOIZ) | [Hotel Rwanda](https://open.spotify.com/album/1oB7DuHxiwy0FkPwJ9ay8Q) | 3:41 | 2023-10-11 |  |
+| [Mama Ararira](https://open.spotify.com/track/21KVuGxaGNwoBqDXxnsECn) | [Afro Celt Sound System](https://open.spotify.com/artist/0hUnACGIFz6oHfeDIT36mp), [Dorothee Munyaneza](https://open.spotify.com/artist/5ztDZB5EmZry43HAFLjOIZ) | [Hotel Rwanda](https://open.spotify.com/album/1oB7DuHxiwy0FkPwJ9ay8Q) | 3:41 | 2023-10-11 | 2023-12-24 |
+| [Mama Ararira](https://open.spotify.com/track/5QQAklyPOsTJZZVsPDXvyx) | [Afro Celt Sound System](https://open.spotify.com/artist/0hUnACGIFz6oHfeDIT36mp), [Dorothee Munyaneza](https://open.spotify.com/artist/5ztDZB5EmZry43HAFLjOIZ) | [Hotel Rwanda](https://open.spotify.com/album/7feMz3fDVgMUwtcLHZJhuD) | 3:41 | 2023-10-11 |  |
 | [ManWomanBoogie](https://open.spotify.com/track/77HspkOxCLjwQbBVwXMbl1) | [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [Amanda Diva](https://open.spotify.com/artist/5bMjMdX8b8UECZgNJ965yW) | [The Renaissance](https://open.spotify.com/album/0EMbzFBRoIt0fmTsowZ8Zv) | 3:05 | 2023-07-17 | 2023-09-02 |
 | [Massive](https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 5:36 | 2022-08-01 | 2022-08-23 |
 | [Maybach \(feat\. Future\)](https://open.spotify.com/track/2Qt8qG9SWPdtRiaWcPNJRm) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Free Dem Boyz](https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs) | 3:19 | 2022-04-29 | 2022-06-01 |

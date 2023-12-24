@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,102 songs - 1 day 17 hr 39 min
+1,103 songs - 1 day 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Beach Bums](https://open.spotify.com/track/6kBXI5i7TtXvfGo6QbNaQJ) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [Beach Bums](https://open.spotify.com/album/0orNpYK3DeR7oiPm7opYbp) | 3:55 | 2021-11-10 | 2023-03-02 |
 | [Beach Walk](https://open.spotify.com/track/1AlH84yWyMBZbJvsGUabG8) | [Piahede](https://open.spotify.com/artist/2ArEcDuZct0nwDSLMu6nJN), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [Beach Walk](https://open.spotify.com/album/5YbhN2bo2ukOY5t7aH4UNR) | 2:38 | 2023-08-03 | 2023-09-02 |
 | [Beats And Beans](https://open.spotify.com/track/0u4KFxbNWmwT7FIEtB0R8Q) | [Jamie Von Chill](https://open.spotify.com/artist/02cAa2Hlx1rHiBoam4mAO2) | [Beats And Beans](https://open.spotify.com/album/29cgS7jJjMZcr0ITswfeR3) | 2:25 | 2021-11-10 | 2023-03-02 |
+| [bedroom window](https://open.spotify.com/track/6RQAcAioLEYn4skbZtaDz3) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [bedroom window](https://open.spotify.com/album/4bKmTfRyL1OFmGJaMfVNT6) | 2:22 | 2023-12-22 |  |
 | [Behind The Clouds](https://open.spotify.com/track/49JMDxOAInoWDdBTgA8DyQ) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk), [Matchbox Youth](https://open.spotify.com/artist/16DVV7qn9iqu3g4QECcyRr) | [Behind The Clouds](https://open.spotify.com/album/1DWaUM467ivFKwNqaRozjv) | 2:28 | 2022-10-28 | 2023-04-28 |
 | [Besaid](https://open.spotify.com/track/7wQMIeoDBRvCFfKX2a7ruz) | [Monma](https://open.spotify.com/artist/50nVKm0xa3p8KYXXssG2ym) | [Besaid](https://open.spotify.com/album/0bD1udBhFNA9vVUBfI0J3x) | 3:08 | 2022-11-11 | 2023-08-04 |
 | [best friend](https://open.spotify.com/track/2LInrKUW2wKbcSybdChB93) | [caesar torro](https://open.spotify.com/artist/4HWcje0QZ9jSo1wnFcOjW9) | [best friend](https://open.spotify.com/album/3moQBGVpto8XjCzyMTCPTc) | 1:58 | 2022-07-22 |  |
@@ -416,7 +417,7 @@
 | [Helium](https://open.spotify.com/track/5kNOPm4KEZb1rQcuW1Ceib) | [FREJA](https://open.spotify.com/artist/3PsElXP6TTwUalgNPiyyzH) | [Helium](https://open.spotify.com/album/3fkualIq2JDtFczKqsapwD) | 2:15 | 2021-11-10 | 2022-07-22 |
 | [hello](https://open.spotify.com/track/7McehAjzhS8bEprBvY9KDJ) | [werklig](https://open.spotify.com/artist/27bOXURlYhViWycg2CYg6r) | [hello](https://open.spotify.com/album/4BY8K9Hr6r1QZHKxg9FYx1) | 1:58 | 2022-01-27 |  |
 | [here & now](https://open.spotify.com/track/7LrpylNEYXLNF2YqBerLa4) | [Snoozegod](https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG), [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt) | [here & now](https://open.spotify.com/album/5DiZQjPdPhAyMu1jboC0kU) | 1:32 | 2023-01-06 |  |
-| [Heroes](https://open.spotify.com/track/5MY4EnZdc8LuwfraVAyNFW) | [PØPE](https://open.spotify.com/artist/6rpgPKGnr7T1bpFh5wGZrx) | [Postcard](https://open.spotify.com/album/0o7HwPrLRbc6zyLHL8RuSr) | 1:58 | 2022-12-09 |  |
+| [Heroes](https://open.spotify.com/track/5MY4EnZdc8LuwfraVAyNFW) | [PØPE](https://open.spotify.com/artist/6rpgPKGnr7T1bpFh5wGZrx) | [Postcard](https://open.spotify.com/album/0o7HwPrLRbc6zyLHL8RuSr) | 1:58 | 2022-12-09 | 2023-12-24 |
 | [Heroic](https://open.spotify.com/track/1Mgfv6ihHH5ZjQkA2bagUg) | [rwethree](https://open.spotify.com/artist/4xONuzG8xDW9pPSYS3ttcT) | [Heroic](https://open.spotify.com/album/0zkyDiJG7olarHq4ra9f8w) | 2:12 | 2023-09-15 |  |
 | [hidden beauty](https://open.spotify.com/track/6HkdCCE61XLWwHN6QkMvDm) | [Kumegano](https://open.spotify.com/artist/3EiG8ERYtLZRuGCxrSyoSA) | [hidden beauty](https://open.spotify.com/album/34HsnHWY1avKoAksWZ4NiP) | 2:33 | 2022-11-11 |  |
 | [Hidden Shrines](https://open.spotify.com/track/7FkYxZaij658VtKrNt25aK) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Hidden Shrines](https://open.spotify.com/album/395x6HdSfXezH5TG7Aw1AC) | 1:23 | 2022-07-08 | 2023-10-06 |

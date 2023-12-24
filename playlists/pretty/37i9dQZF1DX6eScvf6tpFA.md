@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 
 > <a href="spotify:artist:7o2Y6TQr9B0ynZGhUDAkyj">Lotic</a>'s favorite tracks\. Updated regularly\. Curated by Lotic\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,060 likes - 81 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,066 likes - 81 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 | 7 | [Lick \(with Megan Thee Stallion\)](https://open.spotify.com/track/5Q6pQ8G99rjTeCgHTMev7X) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Lick \(with Megan Thee Stallion\)](https://open.spotify.com/album/6QcDsGaAocffXZY828eh8q) | 2:46 |
 | 8 | [Wild Side \(feat\. Cardi B\) \- Extended Version](https://open.spotify.com/track/2SSWIysBzyEEPJchLh3LrP) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Wild Side \(feat\. Cardi B\)](https://open.spotify.com/album/16maAu5lqvFBSEEHyB5GzV) | 4:08 |
 | 9 | [Cha Cha](https://open.spotify.com/track/6sY4O47oolorLDD97YdOSL) | [Bali Baby](https://open.spotify.com/artist/5hPcCMWgf6Qu9vUQVySwcY) | [Lost Files Vol 1](https://open.spotify.com/album/4pwMC71jFIl2UUmmdO18UK) | 2:37 |
-| 10 | [Fall Back](https://open.spotify.com/track/1W4yNgrr2awqFAxye5I7s6) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [Dominic Scott](https://open.spotify.com/artist/3y5rpxyWWVPtPp6M5gEYfS) | [Drunken Wordz Sober Thoughtz](https://open.spotify.com/album/6sWl7sC34PChdFVegNJRuv) | 3:03 |
+| 10 | [Fall Back](https://open.spotify.com/track/79mbZQoScAlHLWAlrxBLj4) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca), [Dominic Scott](https://open.spotify.com/artist/3y5rpxyWWVPtPp6M5gEYfS) | [Drunken Wordz Sober Thoughtz](https://open.spotify.com/album/4tRvTQdQzkBDlyBm7OhNXt) | 3:03 |
 | 11 | [Sweater](https://open.spotify.com/track/2XlrCwrZfckZoOZP99qcTD) | [Tama Gucci](https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5) | [Almost Blue](https://open.spotify.com/album/0pSBEr0IQtQn2wxKRI4rKY) | 2:44 |
 | 12 | [BUM BUM](https://open.spotify.com/track/3KpM5rYPaH7a0NGCHVlqfA) | [b1n0](https://open.spotify.com/artist/18UQ4ex95zIah1bPDQctL9), [Ferran Palau](https://open.spotify.com/artist/7h0Xj4rDQMndEq2JsZZVzM) | [BUM BUM](https://open.spotify.com/album/4NaFOnM4FgbU8Ce2O10TZn) | 3:19 |
 | 13 | [Money Can't Buy You Class \- Radio Edit](https://open.spotify.com/track/0951VbMnWv7NFXjUPjkSFm) | [Countess Luann](https://open.spotify.com/artist/5uWeO2hYqC3UGKPziuTMxF) | [Money Can't Buy You Class \(Radio Edit\)](https://open.spotify.com/album/3LJn1grNGxGlaKtWf7LlSe) | 3:44 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 | 80 | [Régime des Fleurs](https://open.spotify.com/track/16xWwjg8p3T9n1aAptjIRp) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [Régime des Fleurs](https://open.spotify.com/album/7cIyUAuwTnbQEvTIy5Nsju) | 2:50 |
 | 81 | [The Richest Garden in your Memory](https://open.spotify.com/track/1NnmRSDbEyJmeC7gufEOiw) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey...](https://open.spotify.com/album/6pMGKI2cCAyGxJJz1a8z3M) | 2:57 |
 
-Snapshot ID: `MCw1YmUwMDc2MDY4YmNiMzY5MzQ5ODg0YTQxMWVjMzZiY2FlZDY4NTJi`
+Snapshot ID: `MCxkNzkxZjc4ZWQ5ZjZiMzYwYWM2ZjgxZmU0ZmNhMmM3YWE1MmEyMWU5`

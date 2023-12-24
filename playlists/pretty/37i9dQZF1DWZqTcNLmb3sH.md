@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Kaatera
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,360 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,383 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Yava Janumada Gelathi \(from "Kaatera"\)](https://open.spotify.com/track/0Uw7FTZyC35WQtqt0kDweW) | [Hemanth Kumar](https://open.spotify.com/artist/2DBOmeNE76m77zvJig5PgF), [Rakshita Suresh](https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ), [V\. Harikrishna](https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX) | [Yava Janumada Gelathi \(from "Kaatera"\)](https://open.spotify.com/album/5vzLCnSQxi25b62VEiktbY) | 3:53 |
-| 2 | [Ninnalli Naa \(From "Mangalavaaram"\)](https://open.spotify.com/track/0bRru3UERlb1DY8UprYQZh) | [Harshika Devanath](https://open.spotify.com/artist/5PKcHZjlcaKjI9L1eDga3S), [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [V Nagendra Prasad](https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU) | [Ninnalli Naa \(From "Mangalavaaram"\)](https://open.spotify.com/album/48DK0LTdbmYhjoAr5B7LhY) | 3:51 |
+| 2 | [Emayyindho Emito \(From "Mangalavaaram"\)](https://open.spotify.com/track/6TQ3JzAH2uG4Lkgr737bLa) | [Harshika Devanath](https://open.spotify.com/artist/5PKcHZjlcaKjI9L1eDga3S), [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5), [Chaitanya Prasad](https://open.spotify.com/artist/3atkL177PZeKsF3aLyWYRf) | [Emayyindho Emito \(From "Mangalavaaram"\)](https://open.spotify.com/album/1OwdlU4fg9joNQCn7aT3fQ) | 3:51 |
 | 3 | [Bhoomi Runa \(from "Yaava Mohana Murali Kareithu"\)](https://open.spotify.com/track/6NcPqD2dMeDQXvsO5OvwwF) | [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn), [Anil CJ](https://open.spotify.com/artist/06MUYjay1afxal0kI4n4nD) | [Bhoomi Runa \(from "Yaava Mohana Murali Kareithu"\)](https://open.spotify.com/album/5l4sstEqegMJYkX8FtU6jc) | 3:24 |
 | 4 | [Pasandaagavne \- \(from "Kaatera"\)](https://open.spotify.com/track/1wPHTQyG7dUvmQ0DWahRMm) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo), [V\. Harikrishna](https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX) | [Pasandaagavne \( from"Kaatera"\)](https://open.spotify.com/album/40WrIkUrjtryaA1mpmagga) | 3:31 |
 | 5 | [Prathikatheya \(From "Salaar Cease Fire \- Kannada"\)](https://open.spotify.com/track/3IM1xDonQRaK2dlxD2D5lN) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Ravi Basrur and Team](https://open.spotify.com/artist/7Izuio7qwe8nqf5T2ReoC4) | [Prathikatheya \(From "Salaar Cease Fire \- Kannada"\)](https://open.spotify.com/album/3TAsU0sWj2HJvVzrv6IzBK) | 3:07 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 74 | [Jahapanah \(from "Sugar Factory"\)](https://open.spotify.com/track/1hIToKt93BWgWbrR8dzfHi) | [Amrita Nayak](https://open.spotify.com/artist/1dBnrfHsPSWZlx5HMH5FLR), [Nihal Tauro](https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF), [Kabir Rafi](https://open.spotify.com/artist/2gx6BYmlzkiKtN5QlcUhm2) | [Sugar Factory \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0gulmMVqOnPOimuaKoOgsd) | 4:22 |
 | 75 | [Thandani Thandanino](https://open.spotify.com/track/6gok0id67ERXliiTMqttVP) | [M.D.Pallavi](https://open.spotify.com/artist/5i1cicgbYw5bJeLBKdOJqX), [V\. Manohar](https://open.spotify.com/artist/2J5reHSIjjv6mtrbD9q1xN) | [Bhavapoorna \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1Fluq7hrgMb5nUKdqmrMAf) | 3:20 |
 
-Snapshot ID: `MCw3MGZhNjFjNjcwNWE4MTYxNDU4MjMzODNiNGFjY2UzYjkwZGMwZDMw`
+Snapshot ID: `MCxlYTI1NTA3ZjRkNTBkY2YyOTEzNDdmOTYwZjI3ZDkxNmRmYjU2NmUx`

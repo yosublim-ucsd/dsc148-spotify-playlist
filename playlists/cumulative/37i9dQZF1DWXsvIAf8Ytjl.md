@@ -4,12 +4,13 @@
 
 > Focus on the drums, and your inner animal will come alive! In\-your\-face rock tracks where the drums can't be ignored.
 
-126 songs - 11 hr 58 min
+127 songs - 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2112 Overture / The Temples Of Syrinx](https://open.spotify.com/track/6Po9FqcwIJq4xQtNZVXY6v) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Chronicles](https://open.spotify.com/album/5mf2xdvPd0I88j9jxUWMNM) | 6:45 | 2018-12-10 | 2023-03-25 |
-| [21st Century Schizoid Man \- Including "Mirrors"](https://open.spotify.com/track/5L7VBYoosmkmiiDlzumdCe) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [In The Court Of The Crimson King \(Expanded & Remastered Original Album Mix\)](https://open.spotify.com/album/6tVg2Wl9hVKMpHYcAl2V2M) | 7:22 | 2023-03-23 |  |
+| [21st Century Schizoid Man \- Including "Mirrors"](https://open.spotify.com/track/2MfrET7Nc3StKQcGoZKqr9) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [In The Court Of The Crimson King \(Expanded & Remastered Original Album Mix\)](https://open.spotify.com/album/75ol9OP8bJaRqzGimpFHDm) | 7:22 | 2023-03-23 |  |
+| [21st Century Schizoid Man \- Including "Mirrors"](https://open.spotify.com/track/5L7VBYoosmkmiiDlzumdCe) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [In The Court Of The Crimson King \(Expanded & Remastered Original Album Mix\)](https://open.spotify.com/album/6tVg2Wl9hVKMpHYcAl2V2M) | 7:22 | 2023-03-23 | 2023-12-24 |
 | [25 or 6 to 4](https://open.spotify.com/track/65eRcjlStTnk8opG5eIQ8Z) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago IX: Chicago's Greatest Hits](https://open.spotify.com/album/5qWGV0fd7hpdptJYI4G9Dd) | 4:53 | 2018-12-10 | 2022-11-13 |
 | [25 or 6 to 4 \- 2002 Remaster](https://open.spotify.com/track/7GqIDx2QVGOpd4r1fZaUUW) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago II](https://open.spotify.com/album/0PRgsdDXQ8QPaDUetVF7yN) | 4:49 | 2018-12-10 | 2023-03-25 |
 | [25 Or 6 To 4 \- Remastered](https://open.spotify.com/track/1K5AjxsfnJ8iaptRBngN1Y) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Rhino Hi\-Five: Chicago \(US Release\)](https://open.spotify.com/album/1MXjqH0djnjzDKSNYf25H4) | 4:49 | 2018-12-10 | 2022-07-29 |

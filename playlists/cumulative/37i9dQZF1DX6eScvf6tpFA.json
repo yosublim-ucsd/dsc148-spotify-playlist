@@ -632,10 +632,32 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 183241,
       "name": "Fall Back",
       "url": "https://open.spotify.com/track/1W4yNgrr2awqFAxye5I7s6"
+    },
+    {
+      "album": {
+        "name": "Drunken Wordz Sober Thoughtz",
+        "url": "https://open.spotify.com/album/4tRvTQdQzkBDlyBm7OhNXt"
+      },
+      "artists": [
+        {
+          "name": "Sevyn Streeter",
+          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
+        },
+        {
+          "name": "Dominic Scott",
+          "url": "https://open.spotify.com/artist/3y5rpxyWWVPtPp6M5gEYfS"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183241,
+      "name": "Fall Back",
+      "url": "https://open.spotify.com/track/79mbZQoScAlHLWAlrxBLj4"
     },
     {
       "album": {

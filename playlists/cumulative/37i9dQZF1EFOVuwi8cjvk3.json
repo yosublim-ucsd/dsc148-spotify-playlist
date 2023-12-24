@@ -554,7 +554,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 210787,
       "name": "Be Careful",
       "url": "https://open.spotify.com/track/2Yl4OmDby9iitgNWZPwxkd"
@@ -572,7 +572,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 250541,
       "name": "Be Careful",
       "url": "https://open.spotify.com/track/3rb2RMzmaK8VtWjhDhOLQb"
@@ -666,7 +666,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 231266,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK"
@@ -684,7 +684,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 232031,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/7m8fOpoHqXMkQBMFwDHltd"
@@ -774,7 +774,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 231253,
       "name": "Broken Clocks",
       "url": "https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs"
@@ -792,7 +792,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 303808,
       "name": "Broken Clocks",
       "url": "https://open.spotify.com/track/2ADMJWa3Qq5iPA2tvMKyPD"
@@ -864,7 +864,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 161450,
       "name": "CANDY",
       "url": "https://open.spotify.com/track/5TbybBJ0kD7c9ktScfrHrZ"
@@ -882,7 +882,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 193480,
       "name": "CANDY",
       "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
@@ -998,10 +998,28 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 236133,
       "name": "Checkin For You",
       "url": "https://open.spotify.com/track/5KCUeOuwZQ5CBqj578NUJD"
+    },
+    {
+      "album": {
+        "name": "Free Agent",
+        "url": "https://open.spotify.com/album/4oJJmlHoxfiolh4d72XyIM"
+      },
+      "artists": [
+        {
+          "name": "Joell Ortiz",
+          "url": "https://open.spotify.com/artist/1q13yHC6Syg5Y8iPLrRnCq"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236133,
+      "name": "Checkin For You",
+      "url": "https://open.spotify.com/track/769mylV0XZHGL3r0rItmGF"
     },
     {
       "album": {
@@ -2056,6 +2074,24 @@
     {
       "album": {
         "name": "All Love Lost",
+        "url": "https://open.spotify.com/album/38jzfwvKmwgz4pKbPubaIY"
+      },
+      "artists": [
+        {
+          "name": "Joe Budden",
+          "url": "https://open.spotify.com/artist/1SAugjIcuwNPKS4urSB7A6"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314906,
+      "name": "Immortal",
+      "url": "https://open.spotify.com/track/4x613Sidnl3JLiI6diDJvs"
+    },
+    {
+      "album": {
+        "name": "All Love Lost",
         "url": "https://open.spotify.com/album/2siUyNAPrLHjYKgfHcgWnT"
       },
       "artists": [
@@ -2066,7 +2102,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 314906,
       "name": "Immortal",
       "url": "https://open.spotify.com/track/7pjtrJcQZIUCZqPwiLFIZB"
@@ -2940,7 +2976,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 208708,
       "name": "NORTHSIDE",
       "url": "https://open.spotify.com/track/6HWhCZfP4JJiDWFVRjA4Sc"
@@ -2958,7 +2994,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 209722,
       "name": "NORTHSIDE",
       "url": "https://open.spotify.com/track/01HGXW27UXeMWa8Eglzgcf"
@@ -3306,7 +3342,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 240160,
       "name": "Rich $ex",
       "url": "https://open.spotify.com/track/2onCHFrhTinyUc6OawwU4Z"
@@ -3324,7 +3360,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 240213,
       "name": "Rich $ex",
       "url": "https://open.spotify.com/track/4nH4FtQLLUONaSB1ph7Ubn"
@@ -4494,7 +4530,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 201040,
       "name": "Yo x Ti, Tu x Mi",
       "url": "https://open.spotify.com/track/7BlBVFwvbWvcwNcUarQmjk"
@@ -4516,7 +4552,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 208021,
       "name": "Yo x Ti, Tu x Mi",
       "url": "https://open.spotify.com/track/4Y3ofI0Ga1jRM7DRyiwrbv"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Loud Luxury & charlieonnafriday
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,282 likes - 65 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,285 likes - 65 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 15 | [You Don't Know Me](https://open.spotify.com/track/25vXz5u2jMIaOsBx1DVma1) | [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [You Don't Know Me](https://open.spotify.com/album/4BeBLf58Arm1fjVj84i057) | 2:57 |
 | 16 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
 | 17 | [Right Now \- with Parson James](https://open.spotify.com/track/0ZcUhnFVJkWKEBBSiAznYg) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Right Now \(with Parson James\)](https://open.spotify.com/album/29d21D9Bh8S2rPft5rcGAH) | 2:52 |
-| 18 | [Fantasy](https://open.spotify.com/track/02HnreS8f1YDpr5qXrCtw3) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [IN:TENSION](https://open.spotify.com/album/2eMuDynNCvPeNzWkrt8m2p) | 3:15 |
+| 18 | [Fantasy](https://open.spotify.com/track/60vMYW3pMPwW5V6eTXNq2N) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [IN:TENSION](https://open.spotify.com/album/5Om5ffiuTukQ7HdnSMxm1h) | 3:15 |
 | 19 | [EX EX EX \(Whoops\)](https://open.spotify.com/track/2RzCQnxjPUTycRgUp1sZCm) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Saturn Return](https://open.spotify.com/album/3HhSAMFNWSx71lfinnXPFz) | 2:23 |
 | 20 | [Thank You \(Not So Bad\)](https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi) | [Thank You \(Not So Bad\)](https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN) | 2:20 |
 | 21 | [Aria](https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe) | 3:56 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 64 | [La Miche](https://open.spotify.com/track/727Qw7MLhXzAUGuViMQVQV) | [Sinca](https://open.spotify.com/artist/5TjfRHDPGSphgwJaiGauqT), [Joly](https://open.spotify.com/artist/734q81FP5ekCFV0izznoVN) | [La Miche](https://open.spotify.com/album/49poEIyBtqFrjvO0EWkOAX) | 4:15 |
 | 65 | [Don't Let Me Go](https://open.spotify.com/track/0BCZkFoqOtoReXJMpIjgqh) | [Mount Pleasant](https://open.spotify.com/artist/1kzPmFEEz0wTgXoCzJTwBz), [Freddie Future](https://open.spotify.com/artist/3TvOtMsG1MPfCem7PyZLXu) | [Don't Let Me Go](https://open.spotify.com/album/5lVQFhUlbpYGmGTxZ3nSn0) | 4:50 |
 
-Snapshot ID: `MCwzMTk1MzkzOGU1YzExMmVmYzUzYTI0Y2UyMTk5Yzg5ZWNjMDFjMGJk`
+Snapshot ID: `MCwzOWUyOWYxODBhNDM1M2YxMGMzNTg0Y2I3MGE2NTMxOTAwZDg1ZWFm`

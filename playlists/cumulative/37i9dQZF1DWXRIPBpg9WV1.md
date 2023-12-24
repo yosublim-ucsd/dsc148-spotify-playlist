@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle guitar covers.
 
-266 songs - 13 hr 19 min
+267 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,8 @@
 | [The Boxer](https://open.spotify.com/track/1FcM70fl2rKgfwL8DSSrHv) | [The Poet](https://open.spotify.com/artist/37LEXAV1tfykNBoe1FgSPy) | [The Boxer](https://open.spotify.com/album/7MHviX6oQ9TzPp1bviBQsl) | 2:36 | 2023-04-14 |  |
 | [The Final Countdown](https://open.spotify.com/track/5CsSyDSAi9aTszs4fv6O8U) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [The Final Countdown](https://open.spotify.com/album/6CZsSWxPeaBdG2TeBxEXot) | 3:03 | 2022-12-02 |  |
 | [The Glory of Love](https://open.spotify.com/track/7yLXq8o6prmHoxyuzxUaYd) | [Olly Chesterman](https://open.spotify.com/artist/7cbFx59dQGKkWoNCAW8xFR) | [The Glory of Love](https://open.spotify.com/album/0QVDbJfyWarKbkARpvIHKC) | 3:17 | 2023-04-14 |  |
-| [The Joker and The Queen \- Instrumental](https://open.spotify.com/track/48HuyDX4mzi3VjkAYzgYLJ) | [Guitar Tribute Players](https://open.spotify.com/artist/3AoiBjr0pSGswX96XxEgH7) | [Acoustic Tribute to Ed Sheeran, Vol\. 4 \(Instrumental\)](https://open.spotify.com/album/3e4v4x4AXeb7sTkGgx9l92) | 3:04 | 2022-05-20 |  |
+| [The Joker and The Queen \- Instrumental](https://open.spotify.com/track/48HuyDX4mzi3VjkAYzgYLJ) | [Guitar Tribute Players](https://open.spotify.com/artist/3AoiBjr0pSGswX96XxEgH7) | [Acoustic Tribute to Ed Sheeran, Vol\. 4 \(Instrumental\)](https://open.spotify.com/album/3e4v4x4AXeb7sTkGgx9l92) | 3:04 | 2022-05-20 | 2023-12-24 |
+| [The Joker and The Queen \- Instrumental](https://open.spotify.com/track/7K9nvERCVcBG9buFuzWR68) | [Guitar Tribute Players](https://open.spotify.com/artist/3AoiBjr0pSGswX96XxEgH7) | [Acoustic Tribute to Ed Sheeran, Vol\. 4 \(Instrumental\)](https://open.spotify.com/album/2K53e0uTW4eCICZwUd8r4k) | 3:04 | 2023-12-22 |  |
 | [The Lady In Red](https://open.spotify.com/track/2H1cwjEMg7KdPPCICYDW3g) | [Lilly Michaels](https://open.spotify.com/artist/2B5oA1gYMMH9PqHWeJM93k) | [The Lady In Red](https://open.spotify.com/album/14mwYGiNZalFg8GW6NsIuD) | 3:42 | 2023-05-05 |  |
 | [The Logical Song](https://open.spotify.com/track/512iMWdhSUeNybYdEIP9bt) | [Alan Jameson](https://open.spotify.com/artist/6Bvte6kob0IxSHFkIK3tZw) | [The Logical Song](https://open.spotify.com/album/2hlyrbussE0P3Ocxzu68vC) | 2:58 | 2023-04-14 |  |
 | [The Long And Winding Road](https://open.spotify.com/track/1zfTxwyJW5k3TWVMk9Wkpn) | [Bart Cohen](https://open.spotify.com/artist/0QBLDqfkyZjtQJPlLeLvQh) | [The Long And Winding Road](https://open.spotify.com/album/7wrh0bTtTYQiqYMrnBQKVZ) | 2:29 | 2023-03-17 | 2023-06-03 |

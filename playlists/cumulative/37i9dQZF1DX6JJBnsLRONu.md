@@ -4,7 +4,7 @@
 
 > Pushing the boundaries of instrumental Folk and Americana.
 
-105 songs - 7 hr 5 min
+106 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Horns](https://open.spotify.com/track/5cnGwWAFTrisjuOGyPIoKy) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Valley Of The Sun](https://open.spotify.com/album/6fZ3Hx3Fzsswmto7mC3rP5) | 5:00 | 2022-02-10 | 2022-07-29 |
 | [Huron](https://open.spotify.com/track/1pTkkX3dARoW4FOIBQv4rv) | [LaCerte](https://open.spotify.com/artist/3BtWF0iqzutntjuCfxh6NN) | [Huron](https://open.spotify.com/album/1eYlcFAGA6Nh0nMjlqrQZF) | 2:32 | 2022-02-10 |  |
 | [In a Cistern](https://open.spotify.com/track/4l9qE7OMktnSUGwvU7kLNU) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [In a Cistern b/w Into Clouds](https://open.spotify.com/album/6xlCxwfhcHoAB9QFPltjU3) | 4:20 | 2022-02-10 |  |
-| [Jericho](https://open.spotify.com/track/5oNvZprFIEffLJv5jVa9h9) | [Laurel Premo](https://open.spotify.com/artist/1xb97sU2gSPLt2TBtKQeVT) | [Jericho](https://open.spotify.com/album/0Vq9bdUGdZUCW2i1rmnjfk) | 4:52 | 2022-02-10 |  |
+| [Jericho](https://open.spotify.com/track/2p3wZWi5ibHbmJ636e9ImG) | [Laurel Premo](https://open.spotify.com/artist/1xb97sU2gSPLt2TBtKQeVT) | [Golden Loam](https://open.spotify.com/album/4Rfc4nMxJ4R5US3aq0f5D0) | 4:52 | 2023-12-01 |  |
+| [Jericho](https://open.spotify.com/track/5oNvZprFIEffLJv5jVa9h9) | [Laurel Premo](https://open.spotify.com/artist/1xb97sU2gSPLt2TBtKQeVT) | [Jericho](https://open.spotify.com/album/0Vq9bdUGdZUCW2i1rmnjfk) | 4:52 | 2022-02-10 | 2023-12-24 |
 | [Juvenescence](https://open.spotify.com/track/5KrUt55R9EGl9ZMl8BL8kV) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs) | [Urban Driftwood](https://open.spotify.com/album/65a7yUVNDttPR2ioJOgyok) | 3:50 | 2023-11-10 |  |
 | [Last Days of April](https://open.spotify.com/track/1S7CCMZhklFA5qQQ7MpRoi) | [Lido Danielle](https://open.spotify.com/artist/4xfdrrJlyc8m3dJS5W59OP) | [Last Days of April](https://open.spotify.com/album/356KV0cpPpgKnxca5zQNPx) | 2:51 | 2023-12-01 |  |
 | [Lena's Spanish Fandango](https://open.spotify.com/track/3FknYgCiy9dsgoftmVgMIs) | [Cameron Knowler](https://open.spotify.com/artist/23AZoLIuQTmTt3jK7VOMkP) | [Places of Consequence](https://open.spotify.com/album/09rJ0SbyOwy3bjm8PUiiLG) | 2:13 | 2023-04-14 |  |

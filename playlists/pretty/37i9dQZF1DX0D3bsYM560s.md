@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D3bsYM560s.md) - [plain]
 
 > Celebrating the extraordinary women breaking boundaries and keeping tradition alive\. Cover: Rhonda Vincent
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,261 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,277 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D3bsYM560s.md) - [plain]
 | 25 | [Annie](https://open.spotify.com/track/1LFLTbCQ78sWCQr93SuZQq) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs), [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [Common Nation Of Sorrow](https://open.spotify.com/album/53S29DN4hv8ZiRSuj5PdCo) | 2:53 |
 | 26 | [I Knew I Could Fly](https://open.spotify.com/track/1tLDBychkP96pHT664rJIY) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW), [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 3:41 |
 | 27 | [Wild Mountain Stream](https://open.spotify.com/track/1CnRcCPWRL8gtpWhzXbDHd) | [Irene Kelley](https://open.spotify.com/artist/23HcZ91h1agwBsyrwhrDvy) | [Wild Mountain Stream](https://open.spotify.com/album/3YKpLAo8FOzoqogTZBf5dL) | 2:35 |
-| 28 | [The Riveter](https://open.spotify.com/track/7d14MiXlkIdknKSfBUv2jq) | [Sami Braman](https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre) | [Riveter](https://open.spotify.com/album/5meAQIac2yGj2ZzcdhHXlz) | 3:41 |
+| 28 | [The Riveter](https://open.spotify.com/track/3iQTcgiYWv0LfOJlk3BtIU) | [Sami Braman](https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre) | [Riveter](https://open.spotify.com/album/2oELvsQJrL4W6YvHnoDVnD) | 3:41 |
 | 29 | [Something You Didn’t Count On](https://open.spotify.com/track/3GUsYC9eWCn2s0j6B3fcC4) | [Jaelee Roberts](https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM) | [Something You Didn't Count On](https://open.spotify.com/album/5hzGAHLOIWKud7WIHsQZtd) | 2:53 |
 | 30 | [Morning](https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 3:28 |
 | 31 | [Odds of Getting Even](https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Odds of Getting Even](https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE) | 3:15 |
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D3bsYM560s.md) - [plain]
 | 34 | [I'll Fly Away](https://open.spotify.com/track/4rJtUMlnhJzlzlnxyoc3tb) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [O Brother, Where Art Thou? \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7gzX88qS3Vx2r87g5pbdfJ) | 3:57 |
 | 35 | [Dark Skies](https://open.spotify.com/track/6WZhUdMsbYpRuO7VzguKI1) | [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [I've Got That Old Feeling](https://open.spotify.com/album/1ETt1sfe0PREZLQqsIOAU7) | 2:23 |
 | 36 | [Speakin’ to That Mountain](https://open.spotify.com/track/2k0XpAmKF3Xd7pIrNXtZTJ) | [Becky Buller](https://open.spotify.com/artist/51GVpccMzO5rZqCEaePGBv) | [Crêpe Paper Heart](https://open.spotify.com/album/0FTQoJXH9ny0gOqYnmHXip) | 2:55 |
-| 37 | [Big Eyed Rabbit](https://open.spotify.com/track/52zhmkHINnGXcOhcB2U2mq) | [April Verch](https://open.spotify.com/artist/2sWyhLJwYCBTziE9dhsew8) | [Bright Like Gold](https://open.spotify.com/album/4czdON71dj9j0MNkZdsbmK) | 3:34 |
+| 37 | [Big Eyed Rabbit](https://open.spotify.com/track/3tByvCITIwsA6toE6qOtTR) | [April Verch](https://open.spotify.com/artist/2sWyhLJwYCBTziE9dhsew8) | [Bright Like Gold](https://open.spotify.com/album/3rr038y88Hoa46kLQSNS8Q) | 3:34 |
 | 38 | [Ruby, Are You Mad at Your Man?](https://open.spotify.com/track/3g7DfvDfXZ6MffPb9Q6ams) | [Carolina Chocolate Drops](https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz) | [Leaving Eden](https://open.spotify.com/album/1RGG9MCrdqsaBqvvxiM2Hf) | 3:46 |
 | 39 | [Fast Moving Train](https://open.spotify.com/track/46ZogNzAJVYtiqBOdcCUU6) | [Missy Raines](https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep), [Missy Raines & Allegheny](https://open.spotify.com/artist/3GGiBJf0fcf8j1U19j2ek1) | [Fast Moving Train](https://open.spotify.com/album/2gNwNpN7p3SKI5vMY6LMbC) | 3:15 |
 | 40 | [Blame it on the Bluegrass](https://open.spotify.com/track/3qwqqmOBkC3OqWud4IXOxT) | [Valerie Smith](https://open.spotify.com/artist/4hLfpKmfEqJU0V2ez8mXN1) | [Blame It On The Bluegrass](https://open.spotify.com/album/4CEQIkPJj2sZFx5lkHON77) | 3:04 |
 | 41 | [Little Sadie](https://open.spotify.com/track/2SiQKjD5mANk0qkNTx2BmO) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken By A Low Sound](https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp) | 2:35 |
 | 42 | [Save This Heart](https://open.spotify.com/track/5B1KYVaGIsI7v7LZYbXWI8) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Rise](https://open.spotify.com/album/3rUBCaC8gHZH4yrGWsYZRb) | 3:01 |
-| 43 | [Weevils in the Grits](https://open.spotify.com/track/5npvIsHPd35M5JioSnVJHs) | [Sami Braman](https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre), [Brittany Haas](https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP) | [Weevils in the Grits](https://open.spotify.com/album/40Yxmocscw8TzoyID1h45C) | 3:41 |
+| 43 | [Weevils in the Grits](https://open.spotify.com/track/1Dg3PcIeIpsGRlckX8jHEE) | [Sami Braman](https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre), [Brittany Haas](https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP) | [Riveter](https://open.spotify.com/album/2oELvsQJrL4W6YvHnoDVnD) | 3:41 |
 | 44 | [Chasin' Indigo](https://open.spotify.com/track/5QSDNHaXMUERdanAy5ejHJ) | [Carley Arrowood](https://open.spotify.com/artist/0GvSG6mHtIo8KGegsVEvjK) | [Chasin' Indigo](https://open.spotify.com/album/0Ge1b3uTSaGygoWx4wupht) | 3:59 |
 | 45 | [Man With No Demons](https://open.spotify.com/track/4gTw73aRQs0Fvjkst7pZ6Y) | [Calamity Jane](https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL) | [Man With No Demons](https://open.spotify.com/album/4SayA2xvAGdZJI1Ba5bsmv) | 2:51 |
 | 46 | [Creeping Round My Cabin](https://open.spotify.com/track/4aKozQLYvFFBQ4PfaBxacs) | [Missy Armstrong](https://open.spotify.com/artist/6ysW5iTGPo3hoq29T2BjJs) | [My Remedy](https://open.spotify.com/album/22sRGaHEabLIFZkcPHu3r0) | 2:18 |
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D3bsYM560s.md) - [plain]
 | 88 | [Transatlantic](https://open.spotify.com/track/5epyQzvH7910hgRpCabGtp) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Kris Drever](https://open.spotify.com/artist/14T0l4AeAGbmAZjpQNdcqk) | [The Apathy Sessions](https://open.spotify.com/album/17KrnzA7mW2Gff5QGxi1rP) | 4:32 |
 | 89 | [I'd Like To Be A Train](https://open.spotify.com/track/3210iZQcMzIBq2mfPDvInF) | [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [Music Is What I See](https://open.spotify.com/album/58dYpoNXLV5SBjDWPjnRJK) | 3:54 |
 | 90 | [Black And White](https://open.spotify.com/track/3s2XiOGkArCBGDiJwDTBmx) | [Cherryholmes](https://open.spotify.com/artist/5kEVfWQGTw0rIDO2Jqq1ww) | [Cherryholmes II Black And White](https://open.spotify.com/album/3GIpi1yxbE6soZNVmk65Lo) | 5:18 |
-| 91 | [Independence, VA](https://open.spotify.com/track/3w45ekyUBXZe7dPjs7G5dO) | [April Verch](https://open.spotify.com/artist/2sWyhLJwYCBTziE9dhsew8) | [Steal the Blue](https://open.spotify.com/album/2kgoZiLr4QuCpcYQoRN4hI) | 3:24 |
+| 91 | [Independence, VA](https://open.spotify.com/track/7suaUeKxtyKWJ9Y3RUcakq) | [April Verch](https://open.spotify.com/artist/2sWyhLJwYCBTziE9dhsew8) | [Steal the Blue](https://open.spotify.com/album/0cXqZGjSgrKeEZSvZAKbOD) | 3:24 |
 | 92 | [Wolf Moon](https://open.spotify.com/track/1j5eihCJgUaPv2rKl17wwK) | [Alison Brown](https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK) | [Vanguard Visionaries](https://open.spotify.com/album/4BqbxrFpDs9EnCJxdZFtKd) | 2:52 |
 | 93 | [900 Miles](https://open.spotify.com/track/6GWTEaqEIy6Psy28owjiSL) | [Sister Sadie](https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8) | [Sister Sadie II](https://open.spotify.com/album/5IQbNt3C3LJZXiKG6oPc5C) | 3:51 |
 | 94 | [Heartbreak Hill](https://open.spotify.com/track/39UuyYgRf5vYawd8mAmVQ9) | [Kristi Stanley](https://open.spotify.com/artist/45TQA7RLr9i3axfc0WzRaT) | [Kristi](https://open.spotify.com/album/4bcxdey2AMAmpbMb3sO0QI) | 4:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D3bsYM560s.md) - [plain]
 | 99 | [Still Waters](https://open.spotify.com/track/2V7gZvxlaWRLLr8bh24KJj) | [Jaelee Roberts](https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM) | [Still Waters](https://open.spotify.com/album/1kow6Yag9rCgmQyDmHXWj6) | 2:34 |
 | 100 | [Roses](https://open.spotify.com/track/3FFu0uOEWYckhG3x84G2Tw) | [Jackson Hollow](https://open.spotify.com/artist/2WCHpMBjtoxlCWKb8gedHW) | [Roses](https://open.spotify.com/album/2EfieuernrZzBlyGRh0Vsj) | 4:29 |
 
-Snapshot ID: `MCw1ZWY3MGIzYzkzOWMzOTJmNjA1YTE5YjM5MmFkNTQ2YTA2ODYzZmIy`
+Snapshot ID: `MCw5ZDUwZGRhNjE4MzE1YjExMmU3M2ViYmJiNzQ0OTY0ZWFiMDVkYmI5`

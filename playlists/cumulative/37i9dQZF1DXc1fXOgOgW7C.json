@@ -1093,6 +1093,24 @@
     },
     {
       "album": {
+        "name": "Suenan Las Alarmas",
+        "url": "https://open.spotify.com/album/5j5VrewC19P5osNjNanIu6"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257040,
+      "name": "Prendido Fuego",
+      "url": "https://open.spotify.com/track/0h8P7C86KyfkjnqC4TaDhC"
+    },
+    {
+      "album": {
         "name": "Circolog\u00eda",
         "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
       },
@@ -1158,7 +1176,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 186000,
       "name": "Si Me Voy",
       "url": "https://open.spotify.com/track/39PaCcsOLhJx3U9To1Qxak"

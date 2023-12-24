@@ -1,12 +1,12 @@
 {
   "description": "Legendary blues guitarists. Cover: Buddy Guy",
-  "num_followers": 24926,
+  "num_followers": 24939,
   "original_name": "Classic Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2QzYzMzODQ0NWMxMzRlNjkyN2NjYWNlMDZhMGE1NmZlYWFkNDQx",
+  "snapshot_id": "MCw3NmFkY2E3NWZjYjQwMjlmYzViYjFjODY0OWU1MDhmZjViNzdmNTFl",
   "tracks": [
     {
       "added_at": "2020-10-21 20:41:20",
@@ -655,18 +655,18 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "All Blues'd Up: Songs of the Rolling Stones",
-        "url": "https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M"
+        "name": "Roy Buchanan",
+        "url": "https://open.spotify.com/album/6rwY78ocBwZYi3OhapYyfw"
       },
       "artists": [
         {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+          "name": "Roy Buchanan",
+          "url": "https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C"
         }
       ],
-      "duration_ms": 373000,
-      "name": "Ventilator Blues",
-      "url": "https://open.spotify.com/track/1TvWKgvwVEYzmgqlN9NbKa"
+      "duration_ms": 306000,
+      "name": "John's Blues",
+      "url": "https://open.spotify.com/track/1bpVZUSTlNXqelXHrN1mwI"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -683,22 +683,6 @@
       "duration_ms": 195693,
       "name": "Cuttin' In",
       "url": "https://open.spotify.com/track/5m57WfsR7tbGs22SmE6OSX"
-    },
-    {
-      "added_at": "2020-10-21 20:41:20",
-      "album": {
-        "name": "Roy Buchanan",
-        "url": "https://open.spotify.com/album/6rwY78ocBwZYi3OhapYyfw"
-      },
-      "artists": [
-        {
-          "name": "Roy Buchanan",
-          "url": "https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C"
-        }
-      ],
-      "duration_ms": 306000,
-      "name": "John's Blues",
-      "url": "https://open.spotify.com/track/1bpVZUSTlNXqelXHrN1mwI"
     },
     {
       "added_at": "2020-10-21 20:41:20",
@@ -787,6 +771,22 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
+        "name": "The Very Best Of Albert King",
+        "url": "https://open.spotify.com/album/4OlzrLmYCCqAXdEGS2UkJx"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "duration_ms": 192493,
+      "name": "Blues Power",
+      "url": "https://open.spotify.com/track/79rWsO8ZlvekVEsGAzeFeA"
+    },
+    {
+      "added_at": "2020-10-21 20:41:20",
+      "album": {
         "name": "The Complete Chess Masters",
         "url": "https://open.spotify.com/album/1oKzIjaJ00OKzVxwjSfCXl"
       },
@@ -819,18 +819,18 @@
     {
       "added_at": "2020-10-21 20:41:20",
       "album": {
-        "name": "The Very Best Of Albert King",
-        "url": "https://open.spotify.com/album/4OlzrLmYCCqAXdEGS2UkJx"
+        "name": "All Blues'd Up: Songs of the Rolling Stones",
+        "url": "https://open.spotify.com/album/202sAEHP90qOJ4wFQF5RO9"
       },
       "artists": [
         {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
         }
       ],
-      "duration_ms": 192493,
-      "name": "Blues Power",
-      "url": "https://open.spotify.com/track/79rWsO8ZlvekVEsGAzeFeA"
+      "duration_ms": 373000,
+      "name": "Ventilator Blues",
+      "url": "https://open.spotify.com/track/6b6UMqPedWI2oOvPfEP7I6"
     }
   ],
   "unique_name": "Classic Blues Guitar",

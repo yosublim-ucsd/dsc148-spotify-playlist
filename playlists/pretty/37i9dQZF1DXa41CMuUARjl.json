@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Jax Jones",
-  "num_followers": 459476,
+  "num_followers": 459603,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2U4YjFkZGRhMzM5YjhmMzQzNmZjOWU5NmExMmFkMTFhMWVjMDJm",
+  "snapshot_id": "MCw2NGRmODQ4M2RiNGNiOTA4MmZkNDRjZTdmNWRhNjUzNmEzMTYwNmZh",
   "tracks": [
     {
       "added_at": "2023-12-22 05:00:00",
@@ -539,66 +539,26 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Falling Out",
-        "url": "https://open.spotify.com/album/19ocFv47WtDr4liwH7iDkL"
+        "name": "CARNET (Cloonee Remix)",
+        "url": "https://open.spotify.com/album/5gaFlogR1ipqBuLBKlDw3E"
       },
       "artists": [
         {
-          "name": "Manse",
-          "url": "https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y"
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+        },
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
         }
       ],
-      "duration_ms": 181874,
-      "name": "Falling Out",
-      "url": "https://open.spotify.com/track/69kIDeblvIc4b0jooBk5vv"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Every Time I Fall (Logic1000 Remix)",
-        "url": "https://open.spotify.com/album/0bek3r8hzm4BQOWWCDTFoW"
-      },
-      "artists": [
-        {
-          "name": "Me & George",
-          "url": "https://open.spotify.com/artist/4VYA3yEmxcU2ElaVRPHGFv"
-        },
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        },
-        {
-          "name": "KATYA",
-          "url": "https://open.spotify.com/artist/6ARtMKoXQvZclVIxRqMFBQ"
-        }
-      ],
-      "duration_ms": 150195,
-      "name": "Every Time I Fall - Logic1000 Remix",
-      "url": "https://open.spotify.com/track/3ryyZmnPduJRgchZYmBAxN"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Diamond (Biicla Remix)",
-        "url": "https://open.spotify.com/album/5G4qm9azIc5bYtncAz0BHm"
-      },
-      "artists": [
-        {
-          "name": "Rome in Silver",
-          "url": "https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN"
-        },
-        {
-          "name": "Next To Blue",
-          "url": "https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco"
-        },
-        {
-          "name": "Biicla",
-          "url": "https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ"
-        }
-      ],
-      "duration_ms": 149565,
-      "name": "Diamond - Biicla Remix",
-      "url": "https://open.spotify.com/track/2nwygMB9JH7e895KflxcSu"
+      "duration_ms": 225587,
+      "name": "CARNET - Cloonee Remix",
+      "url": "https://open.spotify.com/track/5d1T4dmSTUoI5GR9R9CJYL"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -619,22 +579,6 @@
       "duration_ms": 177165,
       "name": "Life Gets Hard",
       "url": "https://open.spotify.com/track/559qoQclWRnGvJWfvRf864"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Fire To Fire EP",
-        "url": "https://open.spotify.com/album/6cW80DsQld15eKjF0wyVaN"
-      },
-      "artists": [
-        {
-          "name": "Christian Smith",
-          "url": "https://open.spotify.com/artist/0Z2EpubIhxnq4B6PV0I8n3"
-        }
-      ],
-      "duration_ms": 324705,
-      "name": "Fire To Fire",
-      "url": "https://open.spotify.com/track/2ImfAIa0gGvY1WUPQ3h9Tr"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -687,26 +631,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Elation",
-        "url": "https://open.spotify.com/album/5eMA8WZGJTKG8Hx1lWEnJv"
-      },
-      "artists": [
-        {
-          "name": "TH;EN",
-          "url": "https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff"
-        },
-        {
-          "name": "Carlo Whale",
-          "url": "https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj"
-        }
-      ],
-      "duration_ms": 356240,
-      "name": "Elation",
-      "url": "https://open.spotify.com/track/4Cih2XF3fN0i3PeXtxJzYt"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "let this go",
         "url": "https://open.spotify.com/album/3vFa0Vz1kiIk6CTxVcJvtG"
       },
@@ -723,94 +647,6 @@
       "duration_ms": 136005,
       "name": "let this go",
       "url": "https://open.spotify.com/track/1mAwf74cbEobzCdUCMMCLN"
-    },
-    {
-      "added_at": "2023-12-22 18:55:18",
-      "album": {
-        "name": "Feel Again (Remixes)",
-        "url": "https://open.spotify.com/album/4JDUbnbF8WAebdHNWTdDID"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        },
-        {
-          "name": "anam\u0113",
-          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
-        }
-      ],
-      "duration_ms": 284439,
-      "name": "Feel Again - anam\u0113 Remix",
-      "url": "https://open.spotify.com/track/5PNBQvJZ8psgufkJMnthTN"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Blow Up The Speakers",
-        "url": "https://open.spotify.com/album/2BiTIWkxrNStYL2iSPmjmh"
-      },
-      "artists": [
-        {
-          "name": "Laura van Dam",
-          "url": "https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Blow Up The Speakers",
-      "url": "https://open.spotify.com/track/3HiRPioRLBwjmTayWP2Pf8"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "AXIS",
-        "url": "https://open.spotify.com/album/4J91AXhVRSPBpYCjzNiOPj"
-      },
-      "artists": [
-        {
-          "name": "Holly",
-          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
-        },
-        {
-          "name": "SUAHN",
-          "url": "https://open.spotify.com/artist/2mXnoSfgaBsMz8cbVWBkDX"
-        },
-        {
-          "name": "Dabow",
-          "url": "https://open.spotify.com/artist/6GQx1heM2wyI3iHpAC5P8X"
-        }
-      ],
-      "duration_ms": 271981,
-      "name": "UOH",
-      "url": "https://open.spotify.com/track/3PwQn4PixhUv9ydjuuXmng"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Fade Away",
-        "url": "https://open.spotify.com/album/4ZY2CVu6DoTYUOLTX6QCRf"
-      },
-      "artists": [
-        {
-          "name": "JOXION",
-          "url": "https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U"
-        },
-        {
-          "name": "Rico 56",
-          "url": "https://open.spotify.com/artist/1fMQutD7EmZamY65WftFWm"
-        },
-        {
-          "name": "Revealed Recordings",
-          "url": "https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8"
-        }
-      ],
-      "duration_ms": 171328,
-      "name": "Fade Away",
-      "url": "https://open.spotify.com/track/3yJermqYPdjZ9arzSgUB47"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -831,18 +667,34 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "PI JANO",
-        "url": "https://open.spotify.com/album/2ivbatMFGh3tORbz80E04l"
+        "name": "Blow Up The Speakers",
+        "url": "https://open.spotify.com/album/2BiTIWkxrNStYL2iSPmjmh"
       },
       "artists": [
         {
-          "name": "BOX CAR",
-          "url": "https://open.spotify.com/artist/2T9z3mycOMhjacXhmb8NkV"
+          "name": "Laura van Dam",
+          "url": "https://open.spotify.com/artist/6gmecOfbzCBnKd3OGkCQuz"
         }
       ],
-      "duration_ms": 247500,
-      "name": "PI JANO",
-      "url": "https://open.spotify.com/track/5dNs8DIyHEUwVJwLBsKe4O"
+      "duration_ms": 183750,
+      "name": "Blow Up The Speakers",
+      "url": "https://open.spotify.com/track/3HiRPioRLBwjmTayWP2Pf8"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Falling Out",
+        "url": "https://open.spotify.com/album/19ocFv47WtDr4liwH7iDkL"
+      },
+      "artists": [
+        {
+          "name": "Manse",
+          "url": "https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y"
+        }
+      ],
+      "duration_ms": 181874,
+      "name": "Falling Out",
+      "url": "https://open.spotify.com/track/69kIDeblvIc4b0jooBk5vv"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -871,6 +723,122 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
+        "name": "AXIS",
+        "url": "https://open.spotify.com/album/4J91AXhVRSPBpYCjzNiOPj"
+      },
+      "artists": [
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        },
+        {
+          "name": "SUAHN",
+          "url": "https://open.spotify.com/artist/2mXnoSfgaBsMz8cbVWBkDX"
+        },
+        {
+          "name": "Dabow",
+          "url": "https://open.spotify.com/artist/6GQx1heM2wyI3iHpAC5P8X"
+        }
+      ],
+      "duration_ms": 271981,
+      "name": "UOH",
+      "url": "https://open.spotify.com/track/3PwQn4PixhUv9ydjuuXmng"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Diamond (Biicla Remix)",
+        "url": "https://open.spotify.com/album/5G4qm9azIc5bYtncAz0BHm"
+      },
+      "artists": [
+        {
+          "name": "Rome in Silver",
+          "url": "https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN"
+        },
+        {
+          "name": "Next To Blue",
+          "url": "https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco"
+        },
+        {
+          "name": "Biicla",
+          "url": "https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ"
+        }
+      ],
+      "duration_ms": 149565,
+      "name": "Diamond - Biicla Remix",
+      "url": "https://open.spotify.com/track/2nwygMB9JH7e895KflxcSu"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Every Time I Fall (Logic1000 Remix)",
+        "url": "https://open.spotify.com/album/0bek3r8hzm4BQOWWCDTFoW"
+      },
+      "artists": [
+        {
+          "name": "Me & George",
+          "url": "https://open.spotify.com/artist/4VYA3yEmxcU2ElaVRPHGFv"
+        },
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "KATYA",
+          "url": "https://open.spotify.com/artist/6ARtMKoXQvZclVIxRqMFBQ"
+        }
+      ],
+      "duration_ms": 150195,
+      "name": "Every Time I Fall - Logic1000 Remix",
+      "url": "https://open.spotify.com/track/3ryyZmnPduJRgchZYmBAxN"
+    },
+    {
+      "added_at": "2023-12-22 18:55:18",
+      "album": {
+        "name": "Feel Again (Remixes)",
+        "url": "https://open.spotify.com/album/4JDUbnbF8WAebdHNWTdDID"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        },
+        {
+          "name": "anam\u0113",
+          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
+        }
+      ],
+      "duration_ms": 284439,
+      "name": "Feel Again - anam\u0113 Remix",
+      "url": "https://open.spotify.com/track/5PNBQvJZ8psgufkJMnthTN"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Elation",
+        "url": "https://open.spotify.com/album/5eMA8WZGJTKG8Hx1lWEnJv"
+      },
+      "artists": [
+        {
+          "name": "TH;EN",
+          "url": "https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff"
+        },
+        {
+          "name": "Carlo Whale",
+          "url": "https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj"
+        }
+      ],
+      "duration_ms": 356240,
+      "name": "Elation",
+      "url": "https://open.spotify.com/track/4Cih2XF3fN0i3PeXtxJzYt"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
         "name": "Nudes",
         "url": "https://open.spotify.com/album/0HRKzg0Qbw31S6CrKmxdvu"
       },
@@ -883,22 +851,6 @@
       "duration_ms": 178560,
       "name": "Nudes",
       "url": "https://open.spotify.com/track/7zwQVhWP5akSbE9QnhCs9M"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Abo Malume",
-        "url": "https://open.spotify.com/album/4kTkQb8gpZORAILKnHp52b"
-      },
-      "artists": [
-        {
-          "name": "Stones & Bones",
-          "url": "https://open.spotify.com/artist/5dBe8LtEp62lNMgDOFx7l4"
-        }
-      ],
-      "duration_ms": 228292,
-      "name": "Abo Malume - Radio Edit",
-      "url": "https://open.spotify.com/track/3I0Z11pUKDvbCcaOQW3oGG"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -927,46 +879,58 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Dikoima",
-        "url": "https://open.spotify.com/album/2fcko6YV4mvi3DNa4ENuGC"
+        "name": "Fade Away",
+        "url": "https://open.spotify.com/album/4ZY2CVu6DoTYUOLTX6QCRf"
       },
       "artists": [
         {
-          "name": "Backeer",
-          "url": "https://open.spotify.com/artist/1eIMkjElnyyQ4qbiby3h6w"
+          "name": "JOXION",
+          "url": "https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U"
         },
         {
-          "name": "Elline",
-          "url": "https://open.spotify.com/artist/3X76EEZE5EfyHkOCyrVIkm"
+          "name": "Rico 56",
+          "url": "https://open.spotify.com/artist/1fMQutD7EmZamY65WftFWm"
         },
         {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+          "name": "Revealed Recordings",
+          "url": "https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8"
         }
       ],
-      "duration_ms": 362797,
-      "name": "Dikoima",
-      "url": "https://open.spotify.com/track/04NAVZAU9ZX6wJ6J0mqsbN"
+      "duration_ms": 171328,
+      "name": "Fade Away",
+      "url": "https://open.spotify.com/track/3yJermqYPdjZ9arzSgUB47"
     },
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "You & I / My Soul",
-        "url": "https://open.spotify.com/album/200cZw2ZB7EMhNCZGZ14yI"
+        "name": "PI JANO",
+        "url": "https://open.spotify.com/album/2ivbatMFGh3tORbz80E04l"
       },
       "artists": [
         {
-          "name": "Alexander Popov",
-          "url": "https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2"
-        },
-        {
-          "name": "Seegy",
-          "url": "https://open.spotify.com/artist/4NsV2ZDeFlPakTUVuMFMeW"
+          "name": "BOX CAR",
+          "url": "https://open.spotify.com/artist/2T9z3mycOMhjacXhmb8NkV"
         }
       ],
-      "duration_ms": 203554,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/1E9hZbfeqZh8jokBSXFgyX"
+      "duration_ms": 247500,
+      "name": "PI JANO",
+      "url": "https://open.spotify.com/track/5dNs8DIyHEUwVJwLBsKe4O"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Fluttering",
+        "url": "https://open.spotify.com/album/4nl8e63Gndd2tuQEIUlDrU"
+      },
+      "artists": [
+        {
+          "name": "Bolth",
+          "url": "https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD"
+        }
+      ],
+      "duration_ms": 275847,
+      "name": "Fluttering",
+      "url": "https://open.spotify.com/track/1nOugdbqhsI7KLDa591btz"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -995,18 +959,58 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Fluttering",
-        "url": "https://open.spotify.com/album/4nl8e63Gndd2tuQEIUlDrU"
+        "name": "Fire To Fire EP",
+        "url": "https://open.spotify.com/album/6cW80DsQld15eKjF0wyVaN"
       },
       "artists": [
         {
-          "name": "Bolth",
-          "url": "https://open.spotify.com/artist/7kMmkgaZH7GfBD3WdOUqlD"
+          "name": "Christian Smith",
+          "url": "https://open.spotify.com/artist/0Z2EpubIhxnq4B6PV0I8n3"
         }
       ],
-      "duration_ms": 275847,
-      "name": "Fluttering",
-      "url": "https://open.spotify.com/track/1nOugdbqhsI7KLDa591btz"
+      "duration_ms": 324705,
+      "name": "Fire To Fire",
+      "url": "https://open.spotify.com/track/2ImfAIa0gGvY1WUPQ3h9Tr"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Abo Malume",
+        "url": "https://open.spotify.com/album/4kTkQb8gpZORAILKnHp52b"
+      },
+      "artists": [
+        {
+          "name": "Stones & Bones",
+          "url": "https://open.spotify.com/artist/5dBe8LtEp62lNMgDOFx7l4"
+        }
+      ],
+      "duration_ms": 228292,
+      "name": "Abo Malume - Radio Edit",
+      "url": "https://open.spotify.com/track/3I0Z11pUKDvbCcaOQW3oGG"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Dikoima",
+        "url": "https://open.spotify.com/album/2fcko6YV4mvi3DNa4ENuGC"
+      },
+      "artists": [
+        {
+          "name": "Backeer",
+          "url": "https://open.spotify.com/artist/1eIMkjElnyyQ4qbiby3h6w"
+        },
+        {
+          "name": "Elline",
+          "url": "https://open.spotify.com/artist/3X76EEZE5EfyHkOCyrVIkm"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "duration_ms": 363504,
+      "name": "Dikoima",
+      "url": "https://open.spotify.com/track/04NAVZAU9ZX6wJ6J0mqsbN"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1027,26 +1031,22 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "CARNET (Cloonee Remix)",
-        "url": "https://open.spotify.com/album/5gaFlogR1ipqBuLBKlDw3E"
+        "name": "You & I / My Soul",
+        "url": "https://open.spotify.com/album/200cZw2ZB7EMhNCZGZ14yI"
       },
       "artists": [
         {
-          "name": "Caleb Calloway",
-          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+          "name": "Alexander Popov",
+          "url": "https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2"
         },
         {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        },
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+          "name": "Seegy",
+          "url": "https://open.spotify.com/artist/4NsV2ZDeFlPakTUVuMFMeW"
         }
       ],
-      "duration_ms": 225587,
-      "name": "CARNET - Cloonee Remix",
-      "url": "https://open.spotify.com/track/5d1T4dmSTUoI5GR9R9CJYL"
+      "duration_ms": 203554,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/1E9hZbfeqZh8jokBSXFgyX"
     }
   ],
   "unique_name": "New Music Friday Dance",

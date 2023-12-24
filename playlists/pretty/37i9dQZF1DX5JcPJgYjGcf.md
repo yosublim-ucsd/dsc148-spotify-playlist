@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JcPJgYjGcf.md) - [plain]
 
 > All the megahits by the South Korean boy band are right here! We are one!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,136,607 likes - 110 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,136,802 likes - 110 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JcPJgYjGcf.md) - [plain]
 | 72 | [Oasis](https://open.spotify.com/track/2Ewt35352UKONyzomJlqXu) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOVE SHOT– The 5th Album Repackage](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) | 3:14 |
 | 73 | [Tell Me \(What Is Love\)](https://open.spotify.com/track/0XFNh4Buo97mSzJK3C7gSJ) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC), [YOO YOUNG JIN](https://open.spotify.com/artist/10hnt5byoob9FKHUN8Awfa) | [Tell Me \(What Is Love\) \- SM STATION](https://open.spotify.com/album/4EWHLsHdiW6h5vSEiV2xvd) | 4:42 |
 | 74 | [Hello](https://open.spotify.com/track/2B4Hz23pUeucJZEmgUIOtV) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Hello](https://open.spotify.com/album/2FmUOkj3thjkzbuR10fLBb) | 3:35 |
-| 75 | [Telephone](https://open.spotify.com/track/6ksOaijLwaSWTVRtPgakt0) | [EXO\-SC](https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [1 Billion Views \- The 1st Album](https://open.spotify.com/album/4t1SPfj4ogtEQUMu3OHI3Q) | 3:15 |
+| 75 | [Telephone](https://open.spotify.com/track/6ksOaijLwaSWTVRtPgakt0) | [EXO\-SC](https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [1 Billion Views \- The 1st Album](https://open.spotify.com/album/4t1SPfj4ogtEQUMu3OHI3Q) | 3:15 |
 | 76 | [Jekyll](https://open.spotify.com/track/028XrbNPgtmnSSScHuWuG1) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [OBSESSION – The 6th Album](https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm) | 3:41 |
 | 77 | [We Young](https://open.spotify.com/track/0eilxZjVwGfcgzzDEbcFJP) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5), [SEHUN](https://open.spotify.com/artist/79R17q4kiPsimHDtdOlN2L) | [We Young](https://open.spotify.com/album/5YJFl4cNetPk0Tn4tqPRHk) | 3:01 |
 | 78 | [Wait](https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOVE SHOT– The 5th Album Repackage](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) | 4:08 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JcPJgYjGcf.md) - [plain]
 | 109 | [Underwater](https://open.spotify.com/track/7tIFeLQFS7A6DLcZ12Mv3U) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Delight \- The 2nd Mini Album](https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc) | 3:19 |
 | 110 | [You](https://open.spotify.com/track/4r3k2iBOPJZHqnmkOFMJEv) | [XIUMIN](https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6) | [You](https://open.spotify.com/album/0WxVZ3hfD1LKSIkbOriLGi) | 5:06 |
 
-Snapshot ID: `MCxiODYwNzczNjZkMzIxYjQ0NzFkMjMyN2E1ZjY4MTc5OWViZjNhMTk5`
+Snapshot ID: `MCw4YzU2N2Q1NDFmZGI5ODFhNjVlMmZiM2JjYjRiOTkyMTQwYmZmZTRj`

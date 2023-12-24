@@ -4,7 +4,7 @@
 
 > Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.
 
-73 songs - 5 hr 29 min
+74 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [If Only You Knew](https://open.spotify.com/track/0gulcKLqxL9snU2S31Lucp) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [I Missed Us](https://open.spotify.com/album/6YSQvWSvizPl2VTn4SZocD) | 5:10 | 2021-01-15 | 2022-07-29 |
 | [If You Want Me to Stay](https://open.spotify.com/track/2gM3JL6l1INKPh0vf0c8I7) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov) | [True to Myself](https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3) | 3:51 | 2021-01-15 | 2022-02-26 |
 | [It Never Rains \(In SoCal\)](https://open.spotify.com/track/2yBk4a2LyBM5vRAMe5eIiG) | [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [It Never Rains \(In SoCal\)](https://open.spotify.com/album/4PwGMRB8IwASSkiRC44c8s) | 4:16 | 2022-07-22 | 2023-06-17 |
-| [It's A Man's World](https://open.spotify.com/track/5YE4SCAxoR32l4PDYSBWOo) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [It's A Man's World](https://open.spotify.com/album/3SjJXRijCgeSgaazig81BQ) | 3:03 | 2023-05-05 |  |
+| [It's A Man's World](https://open.spotify.com/track/5YE4SCAxoR32l4PDYSBWOo) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [It's A Man's World](https://open.spotify.com/album/3SjJXRijCgeSgaazig81BQ) | 3:03 | 2023-05-05 | 2023-12-24 |
+| [It's A Man's World](https://open.spotify.com/track/5vV2rZA2plwlqzYZJ2WqGh) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [It's A Man's World](https://open.spotify.com/album/3pinxQZQz4ww7EkXasxWt6) | 3:03 | 2023-05-05 |  |
 | [Killing Me Softly With His Song](https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 4:58 | 2021-01-15 |  |
 | [Knocks Me Off My Feet](https://open.spotify.com/track/4o1E2c0ye1RlIJJqOM0dqP) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B) | [My Heart](https://open.spotify.com/album/1YylipCwfGRhRc4j3vJzwV) | 3:42 | 2021-01-15 |  |
 | [Lately](https://open.spotify.com/track/5hIljtQ1fRvDRc1aHdhwWK) | [Jodeci](https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK) | [Uptown MTV Unplugged](https://open.spotify.com/album/0CQcwTXgmXtXpMcORejZSM) | 6:13 | 2021-01-15 |  |

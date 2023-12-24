@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09buIVUF0Gg.md) - [plain]
 
 > For time with family + friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,700 likes - 37 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,699 likes - 37 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09buIVUF0Gg.md) - [plain]
 | 15 | [Thank You](https://open.spotify.com/track/3mhfZz57Xbt7rBuTcxSR3p) | [Walter Hawkins](https://open.spotify.com/artist/12pzJohM40StvAPzI1t3Tb) | [Love Alive IV](https://open.spotify.com/album/54D2RsYSwVIS6QIpKclaOd) | 10:42 |
 | 16 | [Grateful](https://open.spotify.com/track/0vtvtxjSKV02DeQJNW217U) | [Hezekiah Walker](https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd), [Love Fellowship Choir](https://open.spotify.com/artist/6NqHWIMTL4MjurHrTRxsb6) | [The Essential Hezekiah Walker](https://open.spotify.com/album/2JiAo61bWiLtsaeQY7YPEg) | 6:55 |
 | 17 | [Thankful](https://open.spotify.com/track/1zxCbt2G7rxOgIqghYRFIV) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Thankful](https://open.spotify.com/album/2CW02evpO85vRxOSYx7zcP) | 3:23 |
-| 18 | [My Tribute / Bless His Holy Name / How Great Is Our God \- My Tribute Medley](https://open.spotify.com/track/2bHFrxFb9Gjf8gl5tYk7UL) | [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [The Power Of One](https://open.spotify.com/album/3RhvKY1NOvbqT2xsa24PWe) | 10:10 |
+| 18 | [My Tribute / Bless His Holy Name / How Great Is Our God](https://open.spotify.com/track/2bHFrxFb9Gjf8gl5tYk7UL) | [Israel Houghton](https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6) | [The Power Of One](https://open.spotify.com/album/3RhvKY1NOvbqT2xsa24PWe) | 10:10 |
 | 19 | [Jesus Is Love](https://open.spotify.com/track/52i3VeUFbCRk3z8YgBFM7N) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [The Best Of Lionel Richie 20th Century Masters The Millennium Collection](https://open.spotify.com/album/6UaOmeGGHUSHyy3F4ngAwa) | 6:06 |
 | 20 | [Open My Heart](https://open.spotify.com/track/4cNbCWPJjLHP5ijow5LbVg) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Mountain High Valley Low](https://open.spotify.com/album/6i3sZ5fdBwlPD9b1LVRD6M) | 5:40 |
 | 21 | [Love](https://open.spotify.com/track/6uSa5iCMwPr10Ftpz8w09b) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Aijuswanaseing](https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c) | 5:04 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09buIVUF0Gg.md) - [plain]
 | 36 | [Better Than I Imagined \(Feat\. H.E.R\. & Meshell Ndegeocello\)](https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj) | [Better Than I Imagined \(Feat\. H.E.R\. & Meshell Ndegeocello\)](https://open.spotify.com/album/2AS4H3CIUtrIzrK1UbsvWW) | 4:59 |
 | 37 | [And You Don't Stop](https://open.spotify.com/track/4gGuQwT0xobQ9VUFtzg8oY) | [The Walls Group](https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV) | [The Other Side](https://open.spotify.com/album/0QsUa6r50W8EDZKHjNdxgD) | 3:41 |
 
-Snapshot ID: `MCw5MjFjNTRhNThiNmYyMjAyZTM3MTYzZmJmM2FkNDE2Mjk2YjdmZjQ3`
+Snapshot ID: `MCxhNTFmNDcyZGM0MzlmYmVkZDY2MmI5YzFlZWYxODQ0YzIwMzIyMGQy`

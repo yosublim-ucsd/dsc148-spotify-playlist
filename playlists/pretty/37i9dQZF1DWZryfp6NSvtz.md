@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Royal Blood
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,378 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,545 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Serotonin](https://open.spotify.com/track/4bG8gUgiCbnGrcjgdBrm3F) | [PURRS](https://open.spotify.com/artist/0pwgKVwaPpV1hRl4ZSeyCx) | [Serotonin](https://open.spotify.com/album/2bNL3r3oBPFVAwk4s92ffj) | 4:23 |
 | 50 | [Goodbye](https://open.spotify.com/track/3Dd9vV4lQ6TmHrlnRY1kau) | [Toughguy](https://open.spotify.com/artist/5eY8373kOFccKEfw4Nz3fK) | [Goodbye](https://open.spotify.com/album/1tFi3RKIVQU9ZQVHXF4POS) | 3:58 |
 
-Snapshot ID: `MCxiOTJhZmVhMDNhOGFmMGMxZjNmZjMyMDRlZmI5ZDU3MzIyNzAxNGMw`
+Snapshot ID: `MCxhMDdkZDc0N2IyZDVjOTdkMGM5Yzg5YjJjNGQzY2VmN2M3NGNhMDYy`

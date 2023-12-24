@@ -4,7 +4,7 @@
 
 > Smooth indie jazz joints from around the globe\. Cover: André 3000
 
-187 songs - 12 hr 32 min
+188 songs - 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Ego](https://open.spotify.com/track/4pTY7fvhW6v0OtUGleAqUg) | [Feelds](https://open.spotify.com/artist/74W4mKE9RR576xVZiMGE8W), [Allysha Joy](https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3) | [Brilliant Mud](https://open.spotify.com/album/73OCol3JVs2XjcknZ8h2CK) | 4:21 | 2023-09-14 | 2023-11-10 |
 | [Electric](https://open.spotify.com/track/1prB2IsyoUHw8bEjhprqFL) | [CRFT](https://open.spotify.com/artist/4rwCk3DZwQa8uY7Cvfu4aM), [Wowflower](https://open.spotify.com/artist/1gKr9GnJ24RqrwpXTLdCVU), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym) | [Electric](https://open.spotify.com/album/2q2XdDtowIYawqkKsPnokt) | 2:22 | 2023-10-05 |  |
 | [Favourite](https://open.spotify.com/track/2Z8Oy280CsH1tjOxj7nyLk) | [Farah Audhali](https://open.spotify.com/artist/7MLxTev9ycEN906jNOxX4U), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Favourite](https://open.spotify.com/album/1xMxEZDSHfSfrdKgSfGD3v) | 3:02 | 2023-08-17 | 2023-09-29 |
-| [Feel The Same](https://open.spotify.com/track/4j6pXSqfkzcI3jXUAA7B7B) | [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo) | [Feel The Same](https://open.spotify.com/album/0Ll3RDvbKJ7ijiZC6m2fi8) | 3:17 | 2023-10-12 |  |
+| [Feel The Same](https://open.spotify.com/track/4j6pXSqfkzcI3jXUAA7B7B) | [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo) | [Feel The Same](https://open.spotify.com/album/0Ll3RDvbKJ7ijiZC6m2fi8) | 3:17 | 2023-10-12 | 2023-12-24 |
+| [Feel The Same](https://open.spotify.com/track/6bFwnfuHCnhW0NQqBJPian) | [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo) | [The Heart of It](https://open.spotify.com/album/24YJa3joXqtcuaSHaijq1S) | 3:17 | 2023-11-30 |  |
 | [Femininity \(Elle Shimada Remix\)](https://open.spotify.com/track/4FoRdkrFTWs3jdm9nwl1GK) | [Emma Volard](https://open.spotify.com/artist/2dNnJIEECfh07bv1jwmfTL), [Elle Shimada](https://open.spotify.com/artist/6aHjJRep1QzwphdY2XGF4s) | [Femininity \(Elle Shimada Remix\)](https://open.spotify.com/album/1dIxGHK2M47yS5lr3dTbxA) | 3:12 | 2023-08-10 | 2023-09-01 |
 | [Fever](https://open.spotify.com/track/4O3KRX2Ba4wmt6W7ijs4FA) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Sariah Mae](https://open.spotify.com/artist/16XmFAOjlZoorF7bbIa1Th) | [Fever](https://open.spotify.com/album/0vj8a0hKlqZ0zEq3K688Sf) | 2:58 | 2023-09-28 |  |
 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 | 2023-08-10 |  |

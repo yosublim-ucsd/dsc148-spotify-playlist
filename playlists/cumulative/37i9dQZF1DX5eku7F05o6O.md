@@ -4,7 +4,7 @@
 
 > Le plus beau, le plus triste\. Photo: Alexandra Streliski
 
-165 songs - 10 hr 40 min
+166 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,8 @@
 | [Oubliette](https://open.spotify.com/track/4HZmL7TId2VQ2SD4cgLnsU) | [Flying Hórses](https://open.spotify.com/artist/1T7bvedeLNoiYBANGErlUq) | [Tölt](https://open.spotify.com/album/59i042u1vXAmvrBJplD8pX) | 5:44 | 2021-02-06 |  |
 | [Par la fenêtre de Théo](https://open.spotify.com/track/58bpRXFmtHlY1PKdQV9avJ) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [INSCAPE](https://open.spotify.com/album/577kOd8iZvVpgpTIeW4UpO) | 2:53 | 2021-02-06 |  |
 | [Paris\-Seychelles \- Piano\-Voix](https://open.spotify.com/track/5iHqNcItJyFeYsoFSMzT0I) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Piano SØLO](https://open.spotify.com/album/2it504tpH2sWxL1fJEnZa0) | 3:45 | 2021-02-06 |  |
-| [Peace Sign \(feat\. Coeur de Pirate\) \[Acoustic\]](https://open.spotify.com/track/1jbmOarFutcvbIJpRUPwoF) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6), [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Siberia \(Acoustic\)](https://open.spotify.com/album/0Q2uO7vZmCMsuodQwchAOH) | 2:59 | 2021-02-06 |  |
+| [Peace Sign \(feat\. Coeur de Pirate\) \[Acoustic\]](https://open.spotify.com/track/1jbmOarFutcvbIJpRUPwoF) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6), [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Siberia \(Acoustic\)](https://open.spotify.com/album/0Q2uO7vZmCMsuodQwchAOH) | 2:59 | 2021-02-06 | 2023-12-24 |
+| [Peace Sign \(feat\. Coeur de Pirate\) \[Acoustic\]](https://open.spotify.com/track/4UuHx9j3TR8brPTovYp8QW) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6), [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Siberia \(Acoustic\)](https://open.spotify.com/album/5MdYmMdRRXnaoL76QTAnSl) | 2:59 | 2021-02-06 |  |
 | [Peace Sign \- Acoustic](https://open.spotify.com/track/3xffxf9Ne1sIbix22vuj94) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6), [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Siberia \(Acoustic\)](https://open.spotify.com/album/6h7WcCGbVOeoXnhbcZJY5f) | 3:00 | 2021-02-06 | 2022-07-29 |
 | [Perséides](https://open.spotify.com/track/0yHXX0ugIcQFHV7mOewE4c) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Tous les sens](https://open.spotify.com/album/0J0hlpXBvS5chopGn7Pmtf) | 5:21 | 2021-02-06 | 2022-07-29 |
 | [Perséides](https://open.spotify.com/track/4Aojnexk0G5xmXZwTpeLWo) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Tous Les Sens](https://open.spotify.com/album/5OdWPOVpIWOTbgjUx1DkmE) | 5:21 | 2021-02-06 |  |

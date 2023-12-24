@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Bella White
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,937 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,939 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 2 | [Blood Milk Moon](https://open.spotify.com/track/3XagHd6dQ24vSujx0ADqXK) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Blood Milk Moon](https://open.spotify.com/album/6g0QEibSFA7mc0JDl9j3l3) | 2:57 |
 | 3 | [i am not who i was](https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [i am not who i was](https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId) | 2:25 |
 | 4 | [Out of the Blue](https://open.spotify.com/track/4LWrnnStSFx4dsiVLsgPun) | [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Songs I Wrote](https://open.spotify.com/album/3ZayM8IDlNqLlDdwYWIGa0) | 3:36 |
-| 5 | [Medicine](https://open.spotify.com/track/23k8mKYhjxN5iSw6nxOVkL) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [Medicine](https://open.spotify.com/album/3JqcgkR1T0inYGixFDTmdO) | 4:15 |
+| 5 | [Medicine](https://open.spotify.com/track/1QWyq6ewUIWZgsyVmzpo0Y) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [Medicine](https://open.spotify.com/album/03bvJDhMjnOOXwqqw3NZ9B) | 4:15 |
 | 6 | [Northern Attitude \(with Hozier\)](https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Northern Attitude \(with Hozier\)](https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH) | 4:27 |
 | 7 | [Looking For](https://open.spotify.com/track/26g47GCoXN75w2GAGKmr7F) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Looking For](https://open.spotify.com/album/2pofqtFCTGDbbQ2iSd1woM) | 4:06 |
 | 8 | [To Hell With You](https://open.spotify.com/track/6x4MmOfqPZ3u0OZTtDzHk7) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [To Hell With You](https://open.spotify.com/album/5UnKpDB9duylUpCRrHTACe) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Human](https://open.spotify.com/track/1OlYy9FWeaXAQHwU6CBKpk) | [Ellyn Woods](https://open.spotify.com/artist/2j6jDlTTN4EW5HVEOn25p2) | [Human](https://open.spotify.com/album/6hwvM9utzQaeFWzj3Mpu6d) | 3:49 |
 | 100 | [Beauty](https://open.spotify.com/track/3sDBhZNDrb9ngsOJRRDlkN) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [Beauty](https://open.spotify.com/album/4RrkquiwoaXbAm4YXXzHSG) | 3:25 |
 
-Snapshot ID: `MCw5OWQ4YjZjYzkwNmE3MzU0ZDBiMTA2YWQ5YTcwNDhjMjRkMzVhMjRh`
+Snapshot ID: `MCw4NmVkMzFmMDBiOTA1NzY4OTU4MmQ5MjQ4MmJlOThlOGVlYjIzOTM3`

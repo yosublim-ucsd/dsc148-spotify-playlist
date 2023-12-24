@@ -866,7 +866,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 236453,
       "name": "Black Crow On A Tombstone",
       "url": "https://open.spotify.com/track/4yx8w5d2k8Ku4QXf7eSac1"
@@ -6426,6 +6426,24 @@
       "duration_ms": 230066,
       "name": "Our Lady of Speed",
       "url": "https://open.spotify.com/track/6IyY9BnIAP6Dkh52TxuQ6Z"
+    },
+    {
+      "album": {
+        "name": "Out of the Light",
+        "url": "https://open.spotify.com/album/7qw4gtdh0pEHfEFDHIXvHM"
+      },
+      "artists": [
+        {
+          "name": "Schizogen",
+          "url": "https://open.spotify.com/artist/30ekpFFVz6ZaSPhjBQ64OA"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333000,
+      "name": "Out of the Light",
+      "url": "https://open.spotify.com/track/4qZ0AWdxYwtQj8rSLBbDjY"
     },
     {
       "album": {

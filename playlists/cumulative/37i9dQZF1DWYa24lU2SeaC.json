@@ -133,6 +133,40 @@
     },
     {
       "album": {
+        "name": "The Lion King",
+        "url": "https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd"
+      },
+      "artists": [
+        {
+          "name": "Joseph Williams",
+          "url": "https://open.spotify.com/artist/5xk0kRuXn1zToTHpHAqpui"
+        },
+        {
+          "name": "Sally Dworsky",
+          "url": "https://open.spotify.com/artist/7vK6xoR5zT4DypEu0blUku"
+        },
+        {
+          "name": "Nathan Lane",
+          "url": "https://open.spotify.com/artist/0P0do9GwiSgweSF6Ui3mrv"
+        },
+        {
+          "name": "Ernie Sabella",
+          "url": "https://open.spotify.com/artist/0RH6EMxqfzCEB7QCSKQ4xr"
+        },
+        {
+          "name": "Kristle Edwards",
+          "url": "https://open.spotify.com/artist/4y5d67UxD0QON2vRZOjXZ6"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177786,
+      "name": "Can You Feel the Love Tonight",
+      "url": "https://open.spotify.com/track/5E8yddtSG3sH4hw2SfwcgW"
+    },
+    {
+      "album": {
         "name": "Aladdin (Bande Originale Fran\u00e7aise du Film)",
         "url": "https://open.spotify.com/album/18T11IG7AT2AMKi9iMEAMa"
       },
@@ -152,6 +186,28 @@
       "duration_ms": 175593,
       "name": "Ce r\u00eave bleu",
       "url": "https://open.spotify.com/track/6q6GuEEVgfNqyjHFFrKBFK"
+    },
+    {
+      "album": {
+        "name": "Aladdin (Bande Originale Fran\u00e7aise du Film)",
+        "url": "https://open.spotify.com/album/0aXJTAUDB8LCa6xx6yjerB"
+      },
+      "artists": [
+        {
+          "name": "Karine Costa",
+          "url": "https://open.spotify.com/artist/5SzlbR0fmZ8UBEwwDj5zNB"
+        },
+        {
+          "name": "Paolo Domingo",
+          "url": "https://open.spotify.com/artist/6TMASL5IlSDPbBSJnhTPoH"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159706,
+      "name": "Ce r\u00eave bleu",
+      "url": "https://open.spotify.com/track/0QgqXBfyGtn1u2RA1Kel2W"
     },
     {
       "album": {
@@ -444,10 +500,28 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 199520,
       "name": "Histoire \u00e9ternelle",
       "url": "https://open.spotify.com/track/4clicdsA2hcxKogiPJryAk"
+    },
+    {
+      "album": {
+        "name": "La Belle et La B\u00eate",
+        "url": "https://open.spotify.com/album/5lWkWXCau29Ko1guDsrPzK"
+      },
+      "artists": [
+        {
+          "name": "Lucie Dolene",
+          "url": "https://open.spotify.com/artist/3Lv9duLTKikOgS5DD85OFh"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164026,
+      "name": "Histoire \u00e9ternelle - De \"La Belle et la B\u00eate\"/Bande Originale Fran\u00e7aise du Film",
+      "url": "https://open.spotify.com/track/7fkU3oCLTQkk56ouUOK8CW"
     },
     {
       "album": {
@@ -488,6 +562,28 @@
       "duration_ms": 241386,
       "name": "I2I",
       "url": "https://open.spotify.com/track/7lPxGs556PD8H3bUd9LzHp"
+    },
+    {
+      "album": {
+        "name": "The Jungle Book Original Soundtrack (French Version)",
+        "url": "https://open.spotify.com/album/6k3BwalwdZYIxpgGzNH4BP"
+      },
+      "artists": [
+        {
+          "name": "Jean Stout",
+          "url": "https://open.spotify.com/artist/0WfXLwM87tlIfRLHkr7Z9Y"
+        },
+        {
+          "name": "Pascal Bressy",
+          "url": "https://open.spotify.com/artist/6BYAOdRk7GIT2HaJVKAhPK"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282106,
+      "name": "Il En Faut Peu Pour \u00catre Heureux",
+      "url": "https://open.spotify.com/track/3ZYFquS2kFkF4cjyuCgBqN"
     },
     {
       "album": {
@@ -589,6 +685,24 @@
     },
     {
       "album": {
+        "name": "Wish: Asha et la bonne \u00e9toile (Bande Originale Fran\u00e7aise du Film/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5Jh6GjWGi7OS3nWb7x8Rmb"
+      },
+      "artists": [
+        {
+          "name": "Oc\u00e9ane Demontis",
+          "url": "https://open.spotify.com/artist/5hq8TtVzFt7DOL4j5zWrHs"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205480,
+      "name": "Je fais le v\u0153u",
+      "url": "https://open.spotify.com/track/2VO1PeMOl1VZ96W9oMjqt8"
+    },
+    {
+      "album": {
         "name": "Je fais le v\u0153u (De \"Wish: Asha et la bonne \u00e9toile\")",
         "url": "https://open.spotify.com/album/4AQumbdEn2H943eOL1TBOu"
       },
@@ -600,7 +714,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 205480,
       "name": "Je fais le v\u0153u - De \"Wish: Asha et la bonne \u00e9toile\"",
       "url": "https://open.spotify.com/track/58VPveIauJU5sF9gLvfBHW"
@@ -818,6 +932,28 @@
       "duration_ms": 178253,
       "name": "L'amour brille sous les \u00e9toiles",
       "url": "https://open.spotify.com/track/5YYUtLGmxPcvvAAOMD81jZ"
+    },
+    {
+      "album": {
+        "name": "Moana/Vaiana/Oceania Multi-Language Songs, Vol. 1",
+        "url": "https://open.spotify.com/album/4UKgY7QvwJwfEVqjYnOtVV"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Vaubien",
+          "url": "https://open.spotify.com/artist/5w6l1iNNbqhQVzlmkYADBr"
+        },
+        {
+          "name": "Opetaia Foa'i",
+          "url": "https://open.spotify.com/artist/759h9uEwoHm8KKq1pGI9RH"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142320,
+      "name": "L'explorateur - De \"Vaiana - La L\u00e9gende du Bout du Monde\"",
+      "url": "https://open.spotify.com/track/3PtksjFaELc5vi6BAiSrcO"
     },
     {
       "album": {
@@ -1169,6 +1305,44 @@
     },
     {
       "album": {
+        "name": "Moana/Vaiana/Oceania Multi-Language Songs, Vol. 1",
+        "url": "https://open.spotify.com/album/4UKgY7QvwJwfEVqjYnOtVV"
+      },
+      "artists": [
+        {
+          "name": "Jean Luc Guizonne",
+          "url": "https://open.spotify.com/artist/26L9X5LRKch6pefNYT9l78"
+        },
+        {
+          "name": "M\u00e9ry Lanzafamm",
+          "url": "https://open.spotify.com/artist/6TiwUTkM91jOkR86aWcccQ"
+        },
+        {
+          "name": "Alice D\u00e9ry",
+          "url": "https://open.spotify.com/artist/4mnURemugYtGUuWucz9Kw2"
+        },
+        {
+          "name": "\u00c9lisa Bardeau",
+          "url": "https://open.spotify.com/artist/6B7dKCcN9vXCNAzUryOXq0"
+        },
+        {
+          "name": "Cerise Calixte",
+          "url": "https://open.spotify.com/artist/67cye4zHhIJs2LVGpsbmTP"
+        },
+        {
+          "name": "Johanne Garneau",
+          "url": "https://open.spotify.com/artist/2JzVKuLUNVArGn13XThuTi"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212706,
+      "name": "Notre terre - De \"Vaiana - La L\u00e9gende du Bout du Monde\"",
+      "url": "https://open.spotify.com/track/5FCS7CET5kX4Hms0m7qYms"
+    },
+    {
+      "album": {
         "name": "Cendrillon",
         "url": "https://open.spotify.com/album/2jJEY0LjD4Pj9qp25ncN3d"
       },
@@ -1234,7 +1408,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 157106,
       "name": "Part of Your World (Reprise)",
       "url": "https://open.spotify.com/track/1aYdJNJT480JVCPYayogh6"
@@ -1292,6 +1466,24 @@
       "duration_ms": 138066,
       "name": "Peter Pan/La Deuxi\u00e8me Petite \u00c9toile - De \"Peter Pan\"/Bande Originale Fran\u00e7aise du Film",
       "url": "https://open.spotify.com/track/0hJMvjHxKKCuC4KD27KUDV"
+    },
+    {
+      "album": {
+        "name": "Moana/Vaiana/Oceania Multi-Language Songs, Vol. 1",
+        "url": "https://open.spotify.com/album/4UKgY7QvwJwfEVqjYnOtVV"
+      },
+      "artists": [
+        {
+          "name": "Anthony Kavanagh",
+          "url": "https://open.spotify.com/artist/6PnzwaATnHONRc26Zs81XO"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165280,
+      "name": "Pour les hommes - De \"Vaiana - La L\u00e9gende du Bout du Monde\"",
+      "url": "https://open.spotify.com/track/3EzQ2w7MiG5VELHpOYo4W1"
     },
     {
       "album": {
@@ -1443,6 +1635,24 @@
     },
     {
       "album": {
+        "name": "La Petite Sir\u00e8ne (Bande originale fran\u00e7aise du Film)",
+        "url": "https://open.spotify.com/album/5r4QvoXhTwP0ptdYBPbJ1m"
+      },
+      "artists": [
+        {
+          "name": "Henri Salvador",
+          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194293,
+      "name": "Sous l'oc\u00e9an - De \"La Petite Sir\u00e8ne\"/Bande Originale Fran\u00e7aise du Film",
+      "url": "https://open.spotify.com/track/3vkDL2UEbdUqvcFbKI2Ono"
+    },
+    {
+      "album": {
         "name": "Aladdin (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS"
       },
@@ -1526,7 +1736,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 228960,
       "name": "That's How You Know - From \"Enchanted\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/1OzSfjFW08DTD51XoNnog7"
@@ -1606,7 +1816,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 196560,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/01YROQCnF1AQm7SCWJmD2o"
@@ -1668,6 +1878,28 @@
       "duration_ms": 116240,
       "name": "Un jour, mon prince viendra - De \"Blanche Neige et les Septs Nains\"/Bande Originale Fran\u00e7aise du Film",
       "url": "https://open.spotify.com/track/0lcUng7VW3OJNqTv2lIuaj"
+    },
+    {
+      "album": {
+        "name": "Coco (Bande Originale Fran\u00e7aise du Film)",
+        "url": "https://open.spotify.com/album/45NSI0VCYW6vHfwD7mYZqr"
+      },
+      "artists": [
+        {
+          "name": "Andrea Santamaria",
+          "url": "https://open.spotify.com/artist/2RUsTCxBYj3MgdzloV4jtz"
+        },
+        {
+          "name": "Damien Ferrette",
+          "url": "https://open.spotify.com/artist/5wLym1hw1CXzF0oSpu2Ht7"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112213,
+      "name": "Un Poco Loco",
+      "url": "https://open.spotify.com/track/1v5cqJEwR8Nfvrst0qDVjd"
     },
     {
       "album": {
@@ -1788,7 +2020,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 242160,
       "name": "What Dreams Are Made Of",
       "url": "https://open.spotify.com/track/7J1S5n6Kn4wZEu6xrBT0gk"

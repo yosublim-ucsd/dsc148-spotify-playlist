@@ -1853,6 +1853,24 @@
     },
     {
       "album": {
+        "name": "triste pero siempre mami (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6yDHqulmVo9qIkkjJCpfc7"
+      },
+      "artists": [
+        {
+          "name": "Corina Smith",
+          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151264,
+      "name": "mi amor x ti - ac\u00fastico",
+      "url": "https://open.spotify.com/track/1ilkYTIRQL799HYUFFvC26"
+    },
+    {
+      "album": {
         "name": "Los Due\u00f1os de la Playa Deluxe",
         "url": "https://open.spotify.com/album/7yygHATGee7r4DFR9BrI3P"
       },
@@ -3404,7 +3422,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 210848,
       "name": "Underdog - Acoustic Version",
       "url": "https://open.spotify.com/track/4IbaDX0qm36Oiu0kdoq8Wb"

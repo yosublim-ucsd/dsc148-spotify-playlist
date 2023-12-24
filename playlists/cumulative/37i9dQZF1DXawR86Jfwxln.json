@@ -4922,10 +4922,28 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 281795,
       "name": "Two Heads, Grey Mare",
       "url": "https://open.spotify.com/track/7hbxC92Qr34lDZQWLiBuKh"
+    },
+    {
+      "album": {
+        "name": "Cadence",
+        "url": "https://open.spotify.com/album/5FkjAV7AiEFbdtRbsq2hrT"
+      },
+      "artists": [
+        {
+          "name": "Cinder Well",
+          "url": "https://open.spotify.com/artist/6BJ7iUkCa68mX6UnFBwzsV"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281796,
+      "name": "Two Heads, Grey Mare",
+      "url": "https://open.spotify.com/track/4Rxt20xtEiEJWB5CTRRNbb"
     },
     {
       "album": {

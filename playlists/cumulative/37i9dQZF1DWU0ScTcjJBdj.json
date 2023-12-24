@@ -968,10 +968,28 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 209529,
       "name": "Colorblind",
       "url": "https://open.spotify.com/track/0t42LUez8kMVvVc9Y1Qug3"
+    },
+    {
+      "album": {
+        "name": "Colorblind",
+        "url": "https://open.spotify.com/album/0zGP7g1TNQvYhHw2pzpdO9"
+      },
+      "artists": [
+        {
+          "name": "Craig Stickland",
+          "url": "https://open.spotify.com/artist/6wBV2mHGWBe2Mz4jZJi21K"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209529,
+      "name": "Colorblind",
+      "url": "https://open.spotify.com/track/21qk8gFPhUQamTVhqESPRZ"
     },
     {
       "album": {
@@ -2428,10 +2446,28 @@
       ],
       "date_added": "2021-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 217746,
       "name": "Love and Chains",
       "url": "https://open.spotify.com/track/0nGmvNB4K3bSexD4xNaFgZ"
+    },
+    {
+      "album": {
+        "name": "Vivian Leva & Riley Calcagno",
+        "url": "https://open.spotify.com/album/3xwM9xDjO2nOTeC6VCwPUN"
+      },
+      "artists": [
+        {
+          "name": "Viv & Riley",
+          "url": "https://open.spotify.com/artist/3lRPVZLqNprMmp9SrXrhcp"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217746,
+      "name": "Love and Chains",
+      "url": "https://open.spotify.com/track/5kQ69AMKeII7YLjdtTEmM9"
     },
     {
       "album": {
@@ -2558,10 +2594,28 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 335859,
       "name": "Microdose",
       "url": "https://open.spotify.com/track/1EdPgv2qJv1wu1zHsFfR1v"
+    },
+    {
+      "album": {
+        "name": "Mermaid Salt",
+        "url": "https://open.spotify.com/album/0fFPacYkqcYkdPzaiP9RPN"
+      },
+      "artists": [
+        {
+          "name": "John Craigie",
+          "url": "https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335859,
+      "name": "Microdose",
+      "url": "https://open.spotify.com/track/7MDHDuwPykADY9INqTIo8a"
     },
     {
       "album": {

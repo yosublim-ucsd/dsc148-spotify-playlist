@@ -4,7 +4,7 @@
 
 > Some of the best Christian, Gospel, and inspirational songs of the year\.  Cover: <a href="spotify:artist:55qfDfgj4Qi3JGe6KpqGtC">Blessing Offor</a>  \#SpotifyWrapped
 
-277 songs - 19 hr 33 min
+279 songs - 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [A New Thing](https://open.spotify.com/track/1lzFtxdNGEUf3mWeqb6aBi) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI) | [A New Thing](https://open.spotify.com/album/5e2Kuvl2v660idmQZMzXVz) | 3:37 | 2023-11-29 |  |
 | [A Place Called Earth](https://open.spotify.com/track/4NUtKsTfiLOdgZDlwE07dN) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Departures](https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj) | 4:03 | 2021-12-01 | 2022-12-01 |
 | [A Thousand Hallelujahs \- Live](https://open.spotify.com/track/3iJpkw9KKdzMNZQVrdRzsl) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [SEVEN \(Live\)](https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt) | 5:09 | 2022-12-01 | 2023-12-09 |
-| [Able](https://open.spotify.com/track/736A53Kw337Z5zrJhH24jP) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Marvin Winans](https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79) | [My Truth](https://open.spotify.com/album/0JjHp7nS2lKkwalcUyrWFn) | 5:02 | 2023-11-29 |  |
+| [Able](https://open.spotify.com/track/0ICGreKEIidNiyIGMVwS1E) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Marvin Winans](https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79) | [My Truth](https://open.spotify.com/album/07zEDWrPhqROuygaSwVTHm) | 5:02 | 2023-11-29 |  |
+| [Able](https://open.spotify.com/track/736A53Kw337Z5zrJhH24jP) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Marvin Winans](https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79) | [My Truth](https://open.spotify.com/album/0JjHp7nS2lKkwalcUyrWFn) | 5:02 | 2023-11-29 | 2023-12-24 |
 | [Acepta \- Live](https://open.spotify.com/track/41AA0qum08M6IFG1GcoHNz) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [Fuego & Poder \(Live\)](https://open.spotify.com/album/745LEHgUFX9cFvF68KVgBx) | 7:53 | 2023-11-29 |  |
 | [Adulting \- Live](https://open.spotify.com/track/2orYvHT8sGIriW7AHk5Nhy) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [Jonny x Mali: Live in LA \(Stereo\)](https://open.spotify.com/album/7ze06tCYbvgbZWVcGIQdfO) | 3:22 | 2021-12-01 | 2022-12-01 |
 | [Ain't Playin'](https://open.spotify.com/track/0hKRYFBw0mYz9PCraRVE4t) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL) | [Tree](https://open.spotify.com/album/54wHmXPZMHh54mWa1cHHgY) | 3:43 | 2022-12-01 | 2023-12-09 |
@@ -187,7 +188,8 @@
 | [My Lover](https://open.spotify.com/track/6ZpfJmd40iArYfoXpi6tq5) | [Uwa](https://open.spotify.com/artist/3PhBxIUdrJCXeEprUL5pkV), [Grace Lokwa](https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW) | [My Lover](https://open.spotify.com/album/3aFg0FSMqY5qJB263VR7vX) | 2:47 | 2023-11-29 |  |
 | [My Portion](https://open.spotify.com/track/0YnO0NlWKxEKHeOhfKARQx) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [My Portion](https://open.spotify.com/album/6C58XmJvIcml1Wgez0Ad8C) | 4:10 | 2021-12-01 | 2022-12-01 |
 | [My Soul Sings](https://open.spotify.com/track/2HRanyDAEkbZkVBSdyVAPI) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9) | [My Soul Sings](https://open.spotify.com/album/72LxQEwNtctTwLPkxJuCm3) | 6:00 | 2022-12-01 | 2023-12-09 |
-| [Nights In Atlanta](https://open.spotify.com/track/3IX5wVQbXOLLlUcItVnb2i) | [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4) | [Nights In Atlanta](https://open.spotify.com/album/1OlLegTQGhMbpOtCtWekkE) | 2:25 | 2023-11-29 |  |
+| [Nights In Atlanta](https://open.spotify.com/track/3IX5wVQbXOLLlUcItVnb2i) | [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4) | [Nights In Atlanta](https://open.spotify.com/album/1OlLegTQGhMbpOtCtWekkE) | 2:25 | 2023-11-29 | 2023-12-24 |
+| [Nights In Atlanta](https://open.spotify.com/track/7EAvUiKv3vjNPonp5gwm5l) | [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4) | [Emanuel](https://open.spotify.com/album/2kLyZqFFxBq2wjR8IPUwcE) | 2:25 | 2023-11-29 |  |
 | [NO FRIENDS](https://open.spotify.com/track/02ukrJfoHTagogj3cTR9sO) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [Shua](https://open.spotify.com/artist/7itDSdWcVsCH0PRqrcUVW7) | [EREMOS](https://open.spotify.com/album/6ip0mKMe6muq0ZuEsiJ1XJ) | 2:41 | 2023-11-29 |  |
 | [No Hay Otro Amor Igual](https://open.spotify.com/track/4RS0596gvwyECO2TaEEfW3) | [Susy Gonzalez](https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG), [Sayra Morales](https://open.spotify.com/artist/0LCFwNcRyvZoiBaOELjsWk), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [No Hay Otro Amor Igual](https://open.spotify.com/album/5FJL6TqFuiIuhbRzvy0QRe) | 6:15 | 2023-11-29 |  |
 | [No Longer Bound](https://open.spotify.com/track/08HjPPTP1GWkiIpVZKw2E3) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [California Cowboy](https://open.spotify.com/album/2a9qafMKqGnx33ScYB8nbp) | 3:00 | 2023-11-29 |  |

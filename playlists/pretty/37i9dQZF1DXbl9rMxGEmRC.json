@@ -1,12 +1,12 @@
 {
   "description": "Black, death and beyond. Recent tracks and classics from the world of extreme metal. Cover: Immortal",
-  "num_followers": 469728,
+  "num_followers": 469744,
   "original_name": "Extreme Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzZmZTBmZGFhMDZmYTYyODFlN2Y0OGMzYjZkOWVhNDFhZDcxZjU4",
+  "snapshot_id": "MCw4NWY2NWFkOTA3Yzg3M2U2NjY0YjUwOWQ5ZTA4ZTBlYzJiNDE1ODU4",
   "tracks": [
     {
       "added_at": "2023-12-15 00:01:00",
@@ -299,18 +299,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Blood Blind",
-        "url": "https://open.spotify.com/album/0sy729QNw0BRIt62zXu9dj"
+        "name": "At The Heart Of Winter",
+        "url": "https://open.spotify.com/album/7cuQrfE3R8cX53zLoGF6Ma"
       },
       "artists": [
         {
-          "name": "Cannibal Corpse",
-          "url": "https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n"
+          "name": "Immortal",
+          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
         }
       ],
-      "duration_ms": 274280,
-      "name": "Blood Blind",
-      "url": "https://open.spotify.com/track/5zOv6iLz86br9r8aN8EyNr"
+      "duration_ms": 509640,
+      "name": "Withstand The Fall Of Time",
+      "url": "https://open.spotify.com/track/5nCnSnLtotQ8eB4E189U91"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -347,34 +347,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "At The Heart Of Winter",
-        "url": "https://open.spotify.com/album/7cuQrfE3R8cX53zLoGF6Ma"
+        "name": "Blood Blind",
+        "url": "https://open.spotify.com/album/0sy729QNw0BRIt62zXu9dj"
       },
       "artists": [
         {
-          "name": "Immortal",
-          "url": "https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K"
+          "name": "Cannibal Corpse",
+          "url": "https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n"
         }
       ],
-      "duration_ms": 509640,
-      "name": "Withstand The Fall Of Time",
-      "url": "https://open.spotify.com/track/5nCnSnLtotQ8eB4E189U91"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Hymns From The Apocrypha",
-        "url": "https://open.spotify.com/album/4Byt3zV8C9V8KhKTdrvemZ"
-      },
-      "artists": [
-        {
-          "name": "Suffocation",
-          "url": "https://open.spotify.com/artist/4ItRDIouodpnW6nm4TYDk1"
-        }
-      ],
-      "duration_ms": 255106,
-      "name": "Perpetual Deception",
-      "url": "https://open.spotify.com/track/1HKdU0kmQ6fOh0UtVOa80O"
+      "duration_ms": 274280,
+      "name": "Blood Blind",
+      "url": "https://open.spotify.com/track/5zOv6iLz86br9r8aN8EyNr"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -391,6 +375,22 @@
       "duration_ms": 368000,
       "name": "From The Inside",
       "url": "https://open.spotify.com/track/6ROHkoMA1RohwSGFgnEQzI"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Hymns From The Apocrypha",
+        "url": "https://open.spotify.com/album/4Byt3zV8C9V8KhKTdrvemZ"
+      },
+      "artists": [
+        {
+          "name": "Suffocation",
+          "url": "https://open.spotify.com/artist/4ItRDIouodpnW6nm4TYDk1"
+        }
+      ],
+      "duration_ms": 255106,
+      "name": "Perpetual Deception",
+      "url": "https://open.spotify.com/track/1HKdU0kmQ6fOh0UtVOa80O"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -539,18 +539,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Moonflowers (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5RuHZCFV4cYtFIrj4NIXek"
+        "name": "Summits",
+        "url": "https://open.spotify.com/album/4TLxN1v9D46yxhS0LexG8J"
       },
       "artists": [
         {
-          "name": "Swallow The Sun",
-          "url": "https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ"
+          "name": "Borknagar",
+          "url": "https://open.spotify.com/artist/0vxxsjcDy61x5zvrOqwHIL"
         }
       ],
-      "duration_ms": 379493,
-      "name": "Moonflowers Bloom in Misery",
-      "url": "https://open.spotify.com/track/1aE3j2yUjvfeUexBdMDKHA"
+      "duration_ms": 478546,
+      "name": "Summits",
+      "url": "https://open.spotify.com/track/2PLTVV7Kn0H8vJfW1O3AaP"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -571,34 +571,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Summits",
-        "url": "https://open.spotify.com/album/4TLxN1v9D46yxhS0LexG8J"
+        "name": "Moonflowers (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5RuHZCFV4cYtFIrj4NIXek"
       },
       "artists": [
         {
-          "name": "Borknagar",
-          "url": "https://open.spotify.com/artist/0vxxsjcDy61x5zvrOqwHIL"
+          "name": "Swallow The Sun",
+          "url": "https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ"
         }
       ],
-      "duration_ms": 478546,
-      "name": "Summits",
-      "url": "https://open.spotify.com/track/2PLTVV7Kn0H8vJfW1O3AaP"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Morbid Visions",
-        "url": "https://open.spotify.com/album/2ZHqbNI33ZdAaw2i4Jdv1U"
-      },
-      "artists": [
-        {
-          "name": "Cavalera Conspiracy",
-          "url": "https://open.spotify.com/artist/7F1K4WlMshx23V2TTz4KwV"
-        }
-      ],
-      "duration_ms": 217152,
-      "name": "Morbid Visions - Re-Recorded",
-      "url": "https://open.spotify.com/track/7c59qpYgeS1g0LRYr3Wh7z"
+      "duration_ms": 379493,
+      "name": "Moonflowers Bloom in Misery",
+      "url": "https://open.spotify.com/track/1aE3j2yUjvfeUexBdMDKHA"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -615,6 +599,22 @@
       "duration_ms": 217053,
       "name": "TWICE BORN",
       "url": "https://open.spotify.com/track/4MCq8x9jHxbwhwPq0OwRMS"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Morbid Visions",
+        "url": "https://open.spotify.com/album/2ZHqbNI33ZdAaw2i4Jdv1U"
+      },
+      "artists": [
+        {
+          "name": "Cavalera Conspiracy",
+          "url": "https://open.spotify.com/artist/7F1K4WlMshx23V2TTz4KwV"
+        }
+      ],
+      "duration_ms": 217152,
+      "name": "Morbid Visions - Re-Recorded",
+      "url": "https://open.spotify.com/track/7c59qpYgeS1g0LRYr3Wh7z"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Outstrider",
-        "url": "https://open.spotify.com/album/2hisOnLbwHGc0D6v14w1pQ"
+        "name": "The Agony & Ecstasy of Watain",
+        "url": "https://open.spotify.com/album/7qmZz6yfRiXAoW4lgOPi4W"
       },
       "artists": [
         {
-          "name": "Abbath",
-          "url": "https://open.spotify.com/artist/1epGwdbjU7JSGVBHlqptpx"
+          "name": "Watain",
+          "url": "https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX"
         }
       ],
-      "duration_ms": 252066,
-      "name": "Harvest Pyre",
-      "url": "https://open.spotify.com/track/4oLr6JYoDzWT1KsQRKIIFl"
+      "duration_ms": 240880,
+      "name": "Ecstasies in night infinite",
+      "url": "https://open.spotify.com/track/57LQHgaWbaB02gDFth9in4"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "The Agony & Ecstasy of Watain",
-        "url": "https://open.spotify.com/album/7qmZz6yfRiXAoW4lgOPi4W"
+        "name": "Outstrider",
+        "url": "https://open.spotify.com/album/2hisOnLbwHGc0D6v14w1pQ"
       },
       "artists": [
         {
-          "name": "Watain",
-          "url": "https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX"
+          "name": "Abbath",
+          "url": "https://open.spotify.com/artist/1epGwdbjU7JSGVBHlqptpx"
         }
       ],
-      "duration_ms": 240880,
-      "name": "Ecstasies in night infinite",
-      "url": "https://open.spotify.com/track/57LQHgaWbaB02gDFth9in4"
+      "duration_ms": 252066,
+      "name": "Harvest Pyre",
+      "url": "https://open.spotify.com/track/4oLr6JYoDzWT1KsQRKIIFl"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "One Word",
+        "url": "https://open.spotify.com/album/3h0c2vU0ONQMFakvzGyqfe"
+      },
+      "artists": [
+        {
+          "name": "Persefone",
+          "url": "https://open.spotify.com/artist/4wxyib7wQwVxwKNFBmOhAw"
+        }
+      ],
+      "duration_ms": 357924,
+      "name": "One Word",
+      "url": "https://open.spotify.com/track/6VQrJNCav7EZFWK5DwfGqc"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Frost",
         "url": "https://open.spotify.com/album/788vAauAwMdVMkdlgiyzMx"
       },
@@ -891,18 +907,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "One Word",
-        "url": "https://open.spotify.com/album/3h0c2vU0ONQMFakvzGyqfe"
+        "name": "Paradise Failed (feat. Shadows Fall)",
+        "url": "https://open.spotify.com/album/6SJUrr8XhPU3mCwfKpAXEV"
       },
       "artists": [
         {
-          "name": "Persefone",
-          "url": "https://open.spotify.com/artist/4wxyib7wQwVxwKNFBmOhAw"
+          "name": "Upon Stone",
+          "url": "https://open.spotify.com/artist/3gACjHwByUj3sUtHVqZBrf"
+        },
+        {
+          "name": "Shadows Fall",
+          "url": "https://open.spotify.com/artist/1HaiS1sFo8qkc6tF5Mw1M0"
         }
       ],
-      "duration_ms": 357924,
-      "name": "One Word",
-      "url": "https://open.spotify.com/track/6VQrJNCav7EZFWK5DwfGqc"
+      "duration_ms": 220430,
+      "name": "Paradise Failed (feat. Shadows Fall)",
+      "url": "https://open.spotify.com/track/2IoFXiUOo0OQGLRknL7XJc"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -955,26 +975,6 @@
       "duration_ms": 313209,
       "name": "Holy Mountain",
       "url": "https://open.spotify.com/track/0kco15ozQ8NHEeZSqgWZ0U"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Paradise Failed (feat. Shadows Fall)",
-        "url": "https://open.spotify.com/album/6SJUrr8XhPU3mCwfKpAXEV"
-      },
-      "artists": [
-        {
-          "name": "Upon Stone",
-          "url": "https://open.spotify.com/artist/3gACjHwByUj3sUtHVqZBrf"
-        },
-        {
-          "name": "Shadows Fall",
-          "url": "https://open.spotify.com/artist/1HaiS1sFo8qkc6tF5Mw1M0"
-        }
-      ],
-      "duration_ms": 220430,
-      "name": "Paradise Failed (feat. Shadows Fall)",
-      "url": "https://open.spotify.com/track/2IoFXiUOo0OQGLRknL7XJc"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "The Weight Of The Mask",
-        "url": "https://open.spotify.com/album/70UeEiNvvXyBNF9QMQnZre"
+        "name": "Desolation's Flower",
+        "url": "https://open.spotify.com/album/7D1dzLAWZOTumnRTvGZGau"
       },
       "artists": [
         {
-          "name": "Svalbard",
-          "url": "https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA"
+          "name": "Ragana",
+          "url": "https://open.spotify.com/artist/3SwRHVTRoAEOkggZnCSFzt"
         }
       ],
-      "duration_ms": 339350,
-      "name": "To Wilt Beneath The Weight",
-      "url": "https://open.spotify.com/track/1EBWErIk3ZhR2sdPjsHJG7"
+      "duration_ms": 395508,
+      "name": "Woe",
+      "url": "https://open.spotify.com/track/04rBvQ3NfSW7UsUvak2Hb2"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Desolation's Flower",
-        "url": "https://open.spotify.com/album/7D1dzLAWZOTumnRTvGZGau"
+        "name": "The Weight Of The Mask",
+        "url": "https://open.spotify.com/album/70UeEiNvvXyBNF9QMQnZre"
       },
       "artists": [
         {
-          "name": "Ragana",
-          "url": "https://open.spotify.com/artist/3SwRHVTRoAEOkggZnCSFzt"
+          "name": "Svalbard",
+          "url": "https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA"
         }
       ],
-      "duration_ms": 395508,
-      "name": "Woe",
-      "url": "https://open.spotify.com/track/04rBvQ3NfSW7UsUvak2Hb2"
+      "duration_ms": 339350,
+      "name": "To Wilt Beneath The Weight",
+      "url": "https://open.spotify.com/track/1EBWErIk3ZhR2sdPjsHJG7"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1359,22 +1359,6 @@
       "duration_ms": 374520,
       "name": "Sovereign",
       "url": "https://open.spotify.com/track/38VAbDSyhAgdBgFuTb7U0U"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "The Age Of Nero",
-        "url": "https://open.spotify.com/album/4Yzl4aZZ6Qs9LvKuOIRHJw"
-      },
-      "artists": [
-        {
-          "name": "Satyricon",
-          "url": "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
-        }
-      ],
-      "duration_ms": 236453,
-      "name": "Black Crow On A Tombstone",
-      "url": "https://open.spotify.com/track/4yx8w5d2k8Ku4QXf7eSac1"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1411,22 +1395,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Sworn to the Dark",
-        "url": "https://open.spotify.com/album/2z6f3UO5OVgP99A4DWByO3"
-      },
-      "artists": [
-        {
-          "name": "Watain",
-          "url": "https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX"
-        }
-      ],
-      "duration_ms": 405866,
-      "name": "Satan's Hunger",
-      "url": "https://open.spotify.com/track/55ODw6itzdoQaHN6LjD3qS"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Satanica",
         "url": "https://open.spotify.com/album/5GVt3QeIw7ueuou2AZlzcV"
       },
@@ -1439,6 +1407,22 @@
       "duration_ms": 199203,
       "name": "Decade of Therion",
       "url": "https://open.spotify.com/track/1CrBmNLLRTuq19YHFxZV6h"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Sworn to the Dark",
+        "url": "https://open.spotify.com/album/2z6f3UO5OVgP99A4DWByO3"
+      },
+      "artists": [
+        {
+          "name": "Watain",
+          "url": "https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX"
+        }
+      ],
+      "duration_ms": 405866,
+      "name": "Satan's Hunger",
+      "url": "https://open.spotify.com/track/55ODw6itzdoQaHN6LjD3qS"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1471,6 +1455,22 @@
       "duration_ms": 319520,
       "name": "The Fortress Without Gates",
       "url": "https://open.spotify.com/track/2dYdc4xLucYmVqS4ESKKoT"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Shadowgraph",
+        "url": "https://open.spotify.com/album/2ICLfB3JL8S8cGeNkFEoXy"
+      },
+      "artists": [
+        {
+          "name": "Cognizance",
+          "url": "https://open.spotify.com/artist/6A9eYVM8X5L29jm3T9exhF"
+        }
+      ],
+      "duration_ms": 286671,
+      "name": "Shadowgraph",
+      "url": "https://open.spotify.com/track/3OxeREeA7T4fTrnywqMrfr"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "The Shadow Inside",
-        "url": "https://open.spotify.com/album/6IGGBDYr6ImS8ydAegAIHx"
+        "name": "Serpent Sermon",
+        "url": "https://open.spotify.com/album/5mvX2lAGsrLplQhbO5QPFa"
       },
       "artists": [
         {
-          "name": "Sadus",
-          "url": "https://open.spotify.com/artist/2J1GmSL3D47TR4TdFYs2hu"
+          "name": "Marduk",
+          "url": "https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH"
         }
       ],
-      "duration_ms": 167560,
-      "name": "Anarchy",
-      "url": "https://open.spotify.com/track/55LOcVCllzfvWvX9d32wlL"
+      "duration_ms": 278400,
+      "name": "Serpent Sermon",
+      "url": "https://open.spotify.com/track/454BNvuRUj0spER36hLRDj"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1571,34 +1571,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Shadowgraph",
-        "url": "https://open.spotify.com/album/2ICLfB3JL8S8cGeNkFEoXy"
+        "name": "The Shadow Inside",
+        "url": "https://open.spotify.com/album/6IGGBDYr6ImS8ydAegAIHx"
       },
       "artists": [
         {
-          "name": "Cognizance",
-          "url": "https://open.spotify.com/artist/6A9eYVM8X5L29jm3T9exhF"
+          "name": "Sadus",
+          "url": "https://open.spotify.com/artist/2J1GmSL3D47TR4TdFYs2hu"
         }
       ],
-      "duration_ms": 286671,
-      "name": "Shadowgraph",
-      "url": "https://open.spotify.com/track/3OxeREeA7T4fTrnywqMrfr"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Serpent Sermon",
-        "url": "https://open.spotify.com/album/5mvX2lAGsrLplQhbO5QPFa"
-      },
-      "artists": [
-        {
-          "name": "Marduk",
-          "url": "https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH"
-        }
-      ],
-      "duration_ms": 278400,
-      "name": "Serpent Sermon",
-      "url": "https://open.spotify.com/track/454BNvuRUj0spER36hLRDj"
+      "duration_ms": 167560,
+      "name": "Anarchy",
+      "url": "https://open.spotify.com/track/55LOcVCllzfvWvX9d32wlL"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1675,6 +1659,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "One Man Army",
+        "url": "https://open.spotify.com/album/38JqmtUALGZGgxLf0wlYGa"
+      },
+      "artists": [
+        {
+          "name": "Vanir",
+          "url": "https://open.spotify.com/artist/6DCYYeX3Iqic6GnQTXM3n4"
+        }
+      ],
+      "duration_ms": 246615,
+      "name": "One Man Army",
+      "url": "https://open.spotify.com/track/6nkyZOVPhcS8CWvzBn3hoM"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Gnavh\u00f2l",
         "url": "https://open.spotify.com/album/29tEXGPKxJiVyiXIVspBgb"
       },
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Datalysium",
+        "url": "https://open.spotify.com/album/5jK98rWaNqgZISUm3Mg5QG"
+      },
+      "artists": [
+        {
+          "name": "The Zenith Passage",
+          "url": "https://open.spotify.com/artist/55ISuKXdlefU2R5hV3GWnf"
+        }
+      ],
+      "duration_ms": 421031,
+      "name": "Datalysium",
+      "url": "https://open.spotify.com/track/5pNXfPMQK2MCplLsa9OzdD"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "We Are The Apocalypse",
         "url": "https://open.spotify.com/album/4Aw1YxGh3eaefguzl1Ivxs"
       },
@@ -1767,54 +1783,6 @@
       "duration_ms": 288188,
       "name": "Abhorrence Evangelium",
       "url": "https://open.spotify.com/track/3fz3Png857RYvZmdcL8ocr"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Datalysium",
-        "url": "https://open.spotify.com/album/5jK98rWaNqgZISUm3Mg5QG"
-      },
-      "artists": [
-        {
-          "name": "The Zenith Passage",
-          "url": "https://open.spotify.com/artist/55ISuKXdlefU2R5hV3GWnf"
-        }
-      ],
-      "duration_ms": 421031,
-      "name": "Datalysium",
-      "url": "https://open.spotify.com/track/5pNXfPMQK2MCplLsa9OzdD"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "One Man Army",
-        "url": "https://open.spotify.com/album/38JqmtUALGZGgxLf0wlYGa"
-      },
-      "artists": [
-        {
-          "name": "Vanir",
-          "url": "https://open.spotify.com/artist/6DCYYeX3Iqic6GnQTXM3n4"
-        }
-      ],
-      "duration_ms": 246615,
-      "name": "One Man Army",
-      "url": "https://open.spotify.com/track/6nkyZOVPhcS8CWvzBn3hoM"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Krystl-Ah",
-        "url": "https://open.spotify.com/album/22jMcAVshGzrlGCGIStO2U"
-      },
-      "artists": [
-        {
-          "name": "Mephorash",
-          "url": "https://open.spotify.com/artist/0yrVm0KM8VE0zlcfS1PUhF"
-        }
-      ],
-      "duration_ms": 524000,
-      "name": "Soma Yoni",
-      "url": "https://open.spotify.com/track/3PI2WNqbrfXLwTMY0hwhyG"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1879,6 +1847,22 @@
       "duration_ms": 189746,
       "name": "A World Of Pain",
       "url": "https://open.spotify.com/track/7paJIScWYg7SWhAn3KYPgN"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Krystl-Ah",
+        "url": "https://open.spotify.com/album/22jMcAVshGzrlGCGIStO2U"
+      },
+      "artists": [
+        {
+          "name": "Mephorash",
+          "url": "https://open.spotify.com/artist/0yrVm0KM8VE0zlcfS1PUhF"
+        }
+      ],
+      "duration_ms": 524000,
+      "name": "Soma Yoni",
+      "url": "https://open.spotify.com/track/3PI2WNqbrfXLwTMY0hwhyG"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1963,22 +1947,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Valkyriernes Sang",
-        "url": "https://open.spotify.com/album/2dc2XVdO6Vb3zfZEjuw24y"
-      },
-      "artists": [
-        {
-          "name": "Myrkur",
-          "url": "https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa"
-        }
-      ],
-      "duration_ms": 235919,
-      "name": "Valkyriernes Sang",
-      "url": "https://open.spotify.com/track/7KEeACpTUmbfSmBowFgmnK"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Origin of Fire",
         "url": "https://open.spotify.com/album/3d13ij5bG0Cqt5ZucZuEeh"
       },
@@ -1991,6 +1959,22 @@
       "duration_ms": 200253,
       "name": "Fire, Walk With Me",
       "url": "https://open.spotify.com/track/75j3ufmOnr2hnaTAUkSwCy"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Valkyriernes Sang",
+        "url": "https://open.spotify.com/album/2dc2XVdO6Vb3zfZEjuw24y"
+      },
+      "artists": [
+        {
+          "name": "Myrkur",
+          "url": "https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa"
+        }
+      ],
+      "duration_ms": 235919,
+      "name": "Valkyriernes Sang",
+      "url": "https://open.spotify.com/track/7KEeACpTUmbfSmBowFgmnK"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -2027,6 +2011,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Ksar Al-Kufar",
+        "url": "https://open.spotify.com/album/7uxKxIqVeps6DWbaggpNKm"
+      },
+      "artists": [
+        {
+          "name": "Necrowretch",
+          "url": "https://open.spotify.com/artist/0cIx910hgtpgvicBJv3ybq"
+        }
+      ],
+      "duration_ms": 261746,
+      "name": "Ksar Al-Kufar",
+      "url": "https://open.spotify.com/track/209JHbDe9Y5gJkWnVpxmSx"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Flammen",
         "url": "https://open.spotify.com/album/5DGGRAUfZFLGhKrZPVxtma"
       },
@@ -2039,22 +2039,6 @@
       "duration_ms": 282110,
       "name": "Flammen",
       "url": "https://open.spotify.com/track/2HOdj1tDEf5xfSiHAyUkMm"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Death March",
-        "url": "https://open.spotify.com/album/5Mpro4JXyYlwrbA1cX9Nzs"
-      },
-      "artists": [
-        {
-          "name": "Enemies Everywhere",
-          "url": "https://open.spotify.com/artist/0i5eguj2szDPz1STo9Ursz"
-        }
-      ],
-      "duration_ms": 281298,
-      "name": "Death March",
-      "url": "https://open.spotify.com/track/29jdT24cfdRzOmn57MSFlS"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -2075,18 +2059,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Ksar Al-Kufar",
-        "url": "https://open.spotify.com/album/7uxKxIqVeps6DWbaggpNKm"
+        "name": "Death March",
+        "url": "https://open.spotify.com/album/5Mpro4JXyYlwrbA1cX9Nzs"
       },
       "artists": [
         {
-          "name": "Necrowretch",
-          "url": "https://open.spotify.com/artist/0cIx910hgtpgvicBJv3ybq"
+          "name": "Enemies Everywhere",
+          "url": "https://open.spotify.com/artist/0i5eguj2szDPz1STo9Ursz"
         }
       ],
-      "duration_ms": 261746,
-      "name": "Ksar Al-Kufar",
-      "url": "https://open.spotify.com/track/209JHbDe9Y5gJkWnVpxmSx"
+      "duration_ms": 281298,
+      "name": "Death March",
+      "url": "https://open.spotify.com/track/29jdT24cfdRzOmn57MSFlS"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -2139,22 +2123,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Leviathan",
-        "url": "https://open.spotify.com/album/7fbTDvnweDQXMW3YNdGgBS"
-      },
-      "artists": [
-        {
-          "name": "Dark Funeral",
-          "url": "https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE"
-        }
-      ],
-      "duration_ms": 274126,
-      "name": "Leviathan",
-      "url": "https://open.spotify.com/track/4hnpgtGXHlsfQGHBAfYj4x"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Mysterium Tremendum",
         "url": "https://open.spotify.com/album/2VZzXVWzgS2wFhkJWgPzS4"
       },
@@ -2171,18 +2139,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Demonoir",
-        "url": "https://open.spotify.com/album/6oJJJgHeX9b90lz7Vvkzu4"
+        "name": "Leviathan",
+        "url": "https://open.spotify.com/album/7fbTDvnweDQXMW3YNdGgBS"
       },
       "artists": [
         {
-          "name": "1349",
-          "url": "https://open.spotify.com/artist/150xbiJGnTy1tSBZ9EFKnT"
+          "name": "Dark Funeral",
+          "url": "https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE"
         }
       ],
-      "duration_ms": 384680,
-      "name": "Atomic Chapel",
-      "url": "https://open.spotify.com/track/5Ie3VqOrOkiBGy3jXmTUxC"
+      "duration_ms": 274126,
+      "name": "Leviathan",
+      "url": "https://open.spotify.com/track/4hnpgtGXHlsfQGHBAfYj4x"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -2199,6 +2167,22 @@
       "duration_ms": 236106,
       "name": "Contorted Monuments",
       "url": "https://open.spotify.com/track/2i6mUxfpRhNp2mU6NapSqI"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Demonoir",
+        "url": "https://open.spotify.com/album/6oJJJgHeX9b90lz7Vvkzu4"
+      },
+      "artists": [
+        {
+          "name": "1349",
+          "url": "https://open.spotify.com/artist/150xbiJGnTy1tSBZ9EFKnT"
+        }
+      ],
+      "duration_ms": 384680,
+      "name": "Atomic Chapel",
+      "url": "https://open.spotify.com/track/5Ie3VqOrOkiBGy3jXmTUxC"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -2267,22 +2251,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Hybrid Stigmata - The Apostasy (Remixed & Remastered)",
-        "url": "https://open.spotify.com/album/5LnaDeaEeuoWqKhZ9jbWBJ"
-      },
-      "artists": [
-        {
-          "name": "Dimmu Borgir",
-          "url": "https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK"
-        }
-      ],
-      "duration_ms": 419300,
-      "name": "Hybrid Stigmata - The Apostasy - Remixed & Remastered",
-      "url": "https://open.spotify.com/track/5XL4M20UHAGFD2c0k9rzvv"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "I Resign",
         "url": "https://open.spotify.com/album/0ThLiiA7fav9v9hMEajvro"
       },
@@ -2295,6 +2263,22 @@
       "duration_ms": 233626,
       "name": "I Resign",
       "url": "https://open.spotify.com/track/6s3s4DgMYB4aXtZhNa2rmf"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Hybrid Stigmata - The Apostasy (Remixed & Remastered)",
+        "url": "https://open.spotify.com/album/5LnaDeaEeuoWqKhZ9jbWBJ"
+      },
+      "artists": [
+        {
+          "name": "Dimmu Borgir",
+          "url": "https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK"
+        }
+      ],
+      "duration_ms": 419300,
+      "name": "Hybrid Stigmata - The Apostasy - Remixed & Remastered",
+      "url": "https://open.spotify.com/track/5XL4M20UHAGFD2c0k9rzvv"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -2395,22 +2379,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Il se vide lentement",
-        "url": "https://open.spotify.com/album/50zzzL5LwCUG4tcUiytHL2"
-      },
-      "artists": [
-        {
-          "name": "CELESTE",
-          "url": "https://open.spotify.com/artist/16HYItTmZdhXM4Yz0CPtVy"
-        }
-      ],
-      "duration_ms": 259160,
-      "name": "Il se vide lentement",
-      "url": "https://open.spotify.com/track/5e2K4GKwyDSxrinYCt7WnP"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Oppressing Compassion",
         "url": "https://open.spotify.com/album/3WPAHVjP1mrBXlvCuWg3kq"
       },
@@ -2423,6 +2391,38 @@
       "duration_ms": 164500,
       "name": "Oppressing Compassion",
       "url": "https://open.spotify.com/track/79yj1unyxjwJHWzFYbuR8L"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Out of the Light",
+        "url": "https://open.spotify.com/album/7qw4gtdh0pEHfEFDHIXvHM"
+      },
+      "artists": [
+        {
+          "name": "Schizogen",
+          "url": "https://open.spotify.com/artist/30ekpFFVz6ZaSPhjBQ64OA"
+        }
+      ],
+      "duration_ms": 333000,
+      "name": "Out of the Light",
+      "url": "https://open.spotify.com/track/4qZ0AWdxYwtQj8rSLBbDjY"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Il se vide lentement",
+        "url": "https://open.spotify.com/album/50zzzL5LwCUG4tcUiytHL2"
+      },
+      "artists": [
+        {
+          "name": "CELESTE",
+          "url": "https://open.spotify.com/artist/16HYItTmZdhXM4Yz0CPtVy"
+        }
+      ],
+      "duration_ms": 259160,
+      "name": "Il se vide lentement",
+      "url": "https://open.spotify.com/track/5e2K4GKwyDSxrinYCt7WnP"
     }
   ],
   "unique_name": "Extreme Metal",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,331 likes - 65 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,337 likes - 65 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 64 | [MORE & MORE \(LEE HAE SOL Sped Up Remix\)](https://open.spotify.com/track/3PeqOlET4ZX6CKGwrlAX7u) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [LEE HAE SOL](https://open.spotify.com/artist/5xZzq9Bk8IociNfF0TfHdf) | [THE REMIXES](https://open.spotify.com/album/37WsLE5Eny9CTmF9CPzWIq) | 2:25 |
 | 65 | [分かってないよ \- Sped Up](https://open.spotify.com/track/13sBcr9Fqc1JD1bh3f9vq0) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [分かってないよ \(Sped Up\)](https://open.spotify.com/album/3brLVw6XC0saMaeL0ZHFYS) | 2:54 |
 
-Snapshot ID: `MCxjZTUwM2VmYmI3OTM1NTA2NGRhMzg0NGU2YzY0ZWRiZjc5NmU4NGI2`
+Snapshot ID: `MCw5ODc0YjQ5YWZkMjQzZWI2M2M3ODA3MmRjNTA1YTRhZTFiNWYyMzQ5`

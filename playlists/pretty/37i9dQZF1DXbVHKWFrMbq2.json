@@ -1,12 +1,12 @@
 {
   "description": "Canciones chill para ayudarte a bajar.",
-  "num_followers": 14621,
+  "num_followers": 14629,
   "original_name": "Pop Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2E0ZWM2NDIzNzRhMGE5MWMxMmJiYjgwOTQ4NTBmOWZhZjM5Zjc3",
+  "snapshot_id": "MCwwN2YwODJhODY3NTkxNGJjYTU0ODg3MmIwZjc4ZWZkYzBmOWViN2Rk",
   "tracks": [
     {
       "added_at": "2023-12-22 23:50:51",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-12-22 23:50:51",
       "album": {
+        "name": "ACOUSTIC SESSION",
+        "url": "https://open.spotify.com/album/3KAXRhZrmuSvoPTiKX20J7"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 210920,
+      "name": "CORAZ\u00d3N VAC\u00cdO",
+      "url": "https://open.spotify.com/track/7IXUNuBYPd6sreTGL6jiW2"
+    },
+    {
+      "added_at": "2023-12-22 23:50:51",
+      "album": {
         "name": "Rosa",
         "url": "https://open.spotify.com/album/2cklcTS1Fw81SExHyUKPbO"
       },
@@ -963,6 +979,22 @@
     {
       "added_at": "2023-12-22 23:50:51",
       "album": {
+        "name": "Ser\u00e1 Mi Culpa?",
+        "url": "https://open.spotify.com/album/4A1s03L5Tw52zY0FamWkDW"
+      },
+      "artists": [
+        {
+          "name": "LUANA",
+          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
+        }
+      ],
+      "duration_ms": 139459,
+      "name": "Ser\u00e1 Mi Culpa?",
+      "url": "https://open.spotify.com/track/0e5wmUTalS4NiyNjMYmBIA"
+    },
+    {
+      "added_at": "2023-12-22 23:50:51",
+      "album": {
         "name": "Vitali Sessions #3 (En vivo)",
         "url": "https://open.spotify.com/album/5u2FYSwtiZr6LiDxdRnJO1"
       },
@@ -979,22 +1011,6 @@
       "duration_ms": 198500,
       "name": "Como vos - En vivo",
       "url": "https://open.spotify.com/track/2On90QefesETPtJw7LePV2"
-    },
-    {
-      "added_at": "2023-12-22 23:50:51",
-      "album": {
-        "name": "Ser\u00e1 Mi Culpa?",
-        "url": "https://open.spotify.com/album/4A1s03L5Tw52zY0FamWkDW"
-      },
-      "artists": [
-        {
-          "name": "LUANA",
-          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
-        }
-      ],
-      "duration_ms": 139459,
-      "name": "Ser\u00e1 Mi Culpa?",
-      "url": "https://open.spotify.com/track/0e5wmUTalS4NiyNjMYmBIA"
     },
     {
       "added_at": "2023-12-22 23:50:51",
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2023-12-22 23:50:51",
       "album": {
-        "name": "Algo Tiene Que Cambiar",
-        "url": "https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi"
-      },
-      "artists": [
-        {
-          "name": "Alan Sutton y las criaturitas de la ansiedad",
-          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
-        }
-      ],
-      "duration_ms": 186812,
-      "name": "La Mochila del Mundo",
-      "url": "https://open.spotify.com/track/2tch5wBhdrdAkZYuJlAdhb"
-    },
-    {
-      "added_at": "2023-12-22 23:50:51",
-      "album": {
         "name": "complikado",
         "url": "https://open.spotify.com/album/1EjaJUWUoi90MSNuwteZEp"
       },
@@ -1075,6 +1075,22 @@
       "duration_ms": 178076,
       "name": "complikado",
       "url": "https://open.spotify.com/track/1VB6OgXXixIet11kOQfc3P"
+    },
+    {
+      "added_at": "2023-12-22 23:50:51",
+      "album": {
+        "name": "Algo Tiene Que Cambiar",
+        "url": "https://open.spotify.com/album/2iKR4ZBb3NLJM0Zg8yhQvi"
+      },
+      "artists": [
+        {
+          "name": "Alan Sutton y las criaturitas de la ansiedad",
+          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+        }
+      ],
+      "duration_ms": 186812,
+      "name": "La Mochila del Mundo",
+      "url": "https://open.spotify.com/track/2tch5wBhdrdAkZYuJlAdhb"
     },
     {
       "added_at": "2023-12-22 23:50:51",
@@ -1279,22 +1295,6 @@
       "duration_ms": 135937,
       "name": "Tus Ojos",
       "url": "https://open.spotify.com/track/2AxlsVkjmhSPn8xVZLLeDx"
-    },
-    {
-      "added_at": "2023-12-22 23:50:51",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 277674,
-      "name": "Ganas - Spotify Singles",
-      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
     }
   ],
   "unique_name": "Pop Relax",

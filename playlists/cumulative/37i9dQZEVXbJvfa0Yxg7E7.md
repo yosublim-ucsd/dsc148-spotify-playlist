@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,396 songs - 3 day 0 hr 38 min
+1,397 songs - 3 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -708,6 +708,7 @@
 | [Jul Igjen](https://open.spotify.com/track/79F0DcbZ9C0ODhUk3rKNop) | [Baddies](https://open.spotify.com/artist/3xyExNQNROZjTvur6Za2DW) | [Jul Igjen](https://open.spotify.com/album/4z6Hs5VBs7EeZ0xhbuTubA) | 2:36 | 2022-11-17 | 2022-12-03 |
 | [Jul uten pappa](https://open.spotify.com/track/6jCTXNWrrFZxhAqXiu2JM3) | [Stian Thorbjørnsen](https://open.spotify.com/artist/5f8j6b7LRg4sRxNK0aLF77), [Martha Knapp](https://open.spotify.com/artist/32PuiyarMHhJbXuuP7I0KQ), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Jul uten pappa](https://open.spotify.com/album/0L1pFoLihsDcjHhnjtH3IT) | 2:31 | 2021-12-05 | 2021-12-26 |
 | [Jula Hjemme \(feat\. Trygve Skaug\)](https://open.spotify.com/track/47G1D6ZRAkj37PsONIqs8h) | [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR), [Trygve Skaug](https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n) | [Jula Hjemme \(feat\. Trygve Skaug\)](https://open.spotify.com/album/3qJ34RupcqOwNh9Qor3V1C) | 3:52 | 2021-11-30 |  |
+| [Jula tilbake](https://open.spotify.com/track/6RuAa8JN7skyyzUttiEkh1) | [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7) | [Jula tilbake](https://open.spotify.com/album/67twyFsd43BSm91cDEenfz) | 3:47 | 2023-12-23 |  |
 | [Julebordet](https://open.spotify.com/track/7jUOzuH2aoUpElTEqPLKl1) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Julebordet](https://open.spotify.com/album/5eCWb5w3BlkVfi00JEHG4h) | 1:44 | 2023-11-25 | 2023-11-27 |
 | [Julekveldsvisa \- 1951 Digital Remaster; 1993 Remastered Version](https://open.spotify.com/track/5MLaFMlqnGrHyX2ZzGRilL) | [Alf Prøysen](https://open.spotify.com/artist/0AU8XFChFl8AUPo5jExFlF) | [Alf Prøysen](https://open.spotify.com/album/7ouBxTfRp6hKPzai1fxB2P) | 3:00 | 2022-12-24 | 2022-12-28 |
 | [Juletragedien](https://open.spotify.com/track/3lp1uBr1BQHd60tiwnapT2) | [Erik Follestad](https://open.spotify.com/artist/0bpQng10brqSAJkmTE4M7s), [Linni Meister](https://open.spotify.com/artist/4YaUbZmPC6MY6Rl1rBTDuR) | [Juletragedien](https://open.spotify.com/album/10wo0ByHiWXTEolpueuuhT) | 3:08 | 2023-12-02 |  |
@@ -817,7 +818,7 @@
 | [Love the chase](https://open.spotify.com/track/3US1eYClagFA3sPKGBKKU8) | [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B) | [Love the chase](https://open.spotify.com/album/2tzg1Qlejs0isDBJYtvgaE) | 2:53 | 2022-07-02 | 2022-07-04 |
 | [Love Yourself](https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:53 | 2023-07-05 | 2023-07-22 |
 | [Lovesick](https://open.spotify.com/track/5hB6UN3hxca8CP6dqs67On) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Lovesick](https://open.spotify.com/album/2WYETJesea0OP320GV0e3e) | 2:09 | 2022-11-05 | 2022-11-07 |
-| [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2023-11-11 |  |
+| [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2023-11-11 | 2023-12-24 |
 | [Loyal \(feat\. Isah\)](https://open.spotify.com/track/2M2ZmLhg1u62z3CPdA5b6E) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM), [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B) | [Loyal \(feat\. Isah\)](https://open.spotify.com/album/7kC7rRk40ww6ecoifuE6yM) | 3:03 | 2023-10-07 | 2023-10-09 |
 | [Ludvig Daae](https://open.spotify.com/track/5TyFg2tdUPtBVKm7ZRevGk) | [Helene Olafsen](https://open.spotify.com/artist/74LbOioJUqae6mkQ9wDiDN), [Norges Nye Megahit](https://open.spotify.com/artist/35kBMx0nauaGZIhWESWrc5) | [Ludvig Daae](https://open.spotify.com/album/0iHaRVUqMPyTPJGI8zE1tF) | 1:48 | 2021-11-23 | 2022-02-19 |
 | [Lux Æterna](https://open.spotify.com/track/0QfZ8OHFnFzLe66iFBww2U) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Lux Æterna](https://open.spotify.com/album/4nQohOCgjIAlnRmqUVYaSv) | 3:25 | 2022-11-30 | 2022-12-02 |

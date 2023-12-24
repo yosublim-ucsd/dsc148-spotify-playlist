@@ -4,7 +4,7 @@
 
 > Nuevos lanzamientos electrónicos de Latinoamérica\. / Novos lançamentos eletrônicos da América Latina\. Foto: Mr\. Pig
 
-89 songs - 5 hr 31 min
+91 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Amor Profundo \- M.A.N.D.Y\. Remix](https://open.spotify.com/track/1KerOLS4TMJanZeTb6usAh) | [Dani Boom](https://open.spotify.com/artist/33O26AJ88Zo4q4TeXttSeN), [Pernett](https://open.spotify.com/artist/2ovmrverobmQvD14n5REoU), [M.A.N.D.Y.](https://open.spotify.com/artist/20O4Ik25BbWfWBz0kZtsxX) | [Amor Profundo](https://open.spotify.com/album/1hCMy6rIaK4fui9tQRYhTO) | 7:53 | 2022-10-14 |  |
 | [Arpa \(El Remolón Remix\)](https://open.spotify.com/track/34noglN5pAyPQPsyuGYwp5) | [Punku](https://open.spotify.com/artist/5yp5xCFWeNuJ5Z4vrNyHk1), [El Remolón](https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR) | [Arpa \(El Remolón Remix\)](https://open.spotify.com/album/7IkHLqcHWRyyDDvFB5HdOZ) | 6:24 | 2022-10-14 |  |
 | [Bailamos \- Broz Rodriguez Remix](https://open.spotify.com/track/2Jsfrf3XDFRUVKuKWOTNLI) | [Landis](https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn), [Broz Rodriguez](https://open.spotify.com/artist/3yfAt1o2PVrVe3jTe8o5Ln) | [Bailamos \(Broz Rodriguez Remix\)](https://open.spotify.com/album/2qD8JoqedLI1LCELQ07K6V) | 2:33 | 2022-10-14 |  |
-| [Bam Bae](https://open.spotify.com/track/0Sq6xXpQgHbTStVmhJYADV) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Bam Bae](https://open.spotify.com/album/6Q9yaSKHTC2gtZtvIC3Ch9) | 2:34 | 2022-10-14 |  |
+| [Bam Bae](https://open.spotify.com/track/7EQU6YcttUGHNq64OJD0r5) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Bam Bae](https://open.spotify.com/album/6k2tBwYVgoheJrUjsT0RIE) | 2:33 | 2022-10-14 |  |
+| [Bam Bae](https://open.spotify.com/track/0Sq6xXpQgHbTStVmhJYADV) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J) | [Bam Bae](https://open.spotify.com/album/6Q9yaSKHTC2gtZtvIC3Ch9) | 2:34 | 2022-10-14 | 2023-12-24 |
 | [Bienvenide Mi Sueño](https://open.spotify.com/track/5rdsEOl9SgGwcNz9X3Fbl7) | [Renata Di Croce](https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr) | [Bienvenide Mi Sueño](https://open.spotify.com/album/5QRldahJAIMGdrUjFNLWPW) | 3:16 | 2022-10-14 |  |
 | [Brujas](https://open.spotify.com/track/4itVQwCX3QvJsYoucIEEZa) | [Gran Radio Riviera](https://open.spotify.com/artist/3RUegLawnCVTlcsbFk6fUq), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Brujas](https://open.spotify.com/album/4uYXgXhToQQ8abIIepfHrv) | 2:51 | 2022-10-14 |  |
 | [Call Me](https://open.spotify.com/track/5zcfDiFLp0dVGFxzzoiSly) | [The Panda](https://open.spotify.com/artist/0xOZcnWY1Gt1TcUp0NYjBl) | [Call Me](https://open.spotify.com/album/5zchOO72H5Dvc9XN8njsF8) | 3:02 | 2022-10-14 |  |
@@ -71,7 +72,8 @@
 | [PANTERA NEGRA](https://open.spotify.com/track/16dwDsbD6tah72GeIUBskp) | [HAKANNA](https://open.spotify.com/artist/02p3ZqCbYUwbkSPOFFpWxO), [Joshvatunes](https://open.spotify.com/artist/1CB2epFJK69CCydeG5GLuc) | [PANTERA NEGRA](https://open.spotify.com/album/7kHLoYeWZ5LxSOKYlsvhp9) | 3:20 | 2022-10-14 |  |
 | [PARA AFUERA](https://open.spotify.com/track/6d0vMjFXHK2GkM7DOnwL5h) | [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [PARA AFUERA](https://open.spotify.com/album/7aQXo5nVGDCxkW2oOwDXv9) | 2:34 | 2022-10-14 |  |
 | [POKITO](https://open.spotify.com/track/1LcaaSNwevnQVU5vTrr7LS) | [GRTSCH](https://open.spotify.com/artist/0UuPYvwZmo6lXXvi1S5mLK) | [POKITO](https://open.spotify.com/album/6YcErFG20xGWeOk0SoDy9T) | 4:12 | 2022-10-14 |  |
-| [Potente](https://open.spotify.com/track/4MvCdK15VGFvmAYqG4PcQ8) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Andrew Mathers](https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0) | [Potente](https://open.spotify.com/album/3mMGZiXwqikBAkY3VXVy0Y) | 2:40 | 2022-10-14 |  |
+| [Potente](https://open.spotify.com/track/4MvCdK15VGFvmAYqG4PcQ8) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Andrew Mathers](https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0) | [Potente](https://open.spotify.com/album/3mMGZiXwqikBAkY3VXVy0Y) | 2:40 | 2022-10-14 | 2023-12-24 |
+| [Potente](https://open.spotify.com/track/4g8o6aIUIZhe4JVCYNw93H) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Andrew Mathers](https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0) | [Potente](https://open.spotify.com/album/623lzPaYX1Yym9KdYS0Dn3) | 2:40 | 2022-10-14 |  |
 | [Rivera \- Santos Remix](https://open.spotify.com/track/4tAHyqsqIJ38usghJvWnuP) | [Nadar de Noche](https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get), [Santos](https://open.spotify.com/artist/58P6FfJNf7wddQLSKYKcM3) | [Quietud \(Remixes\)](https://open.spotify.com/album/0jk34MCUosUlunedEVoT3X) | 6:40 | 2022-10-14 |  |
 | [Safari](https://open.spotify.com/track/4LpqYwFE1jo6I6uNuQmd4L) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [Safari](https://open.spotify.com/album/0iix5q7qURQKlFPnnXmgvX) | 1:55 | 2022-10-14 |  |
 | [Saviours](https://open.spotify.com/track/5tAlsl4G3LoIU5Dzo44JV0) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt), [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [Saviours](https://open.spotify.com/album/1plr1caOwmIHriazUNB9S4) | 3:36 | 2022-10-14 |  |

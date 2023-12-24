@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 
 > Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,413 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,464 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 | 93 | [Nasty Freak](https://open.spotify.com/track/7jQLyEWfWHcSzrVPezlCO8) | [Miss Velvet and the Blue Wolf](https://open.spotify.com/artist/4BN7XfgaoYfXuwwZk5Bd0z), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA), [Miss Velvet](https://open.spotify.com/artist/69dhX9UsXOSbt9gjxv1wAZ), [Constance Hauman](https://open.spotify.com/artist/7nC3KBioN9j5rW7NnO8Tjc), [Nick Carbone](https://open.spotify.com/artist/7KgTvOst3yl6Ec8mX7IICZ), [Henry Ott](https://open.spotify.com/artist/6dvid0Q11DXNyBHHZku14g), [James Jones](https://open.spotify.com/artist/5h0bhczo1RaGNqzG8GZksl), [Timothy Robinson](https://open.spotify.com/artist/1GsTYnEhohijcX3NlYLHcO), [Trevor Neumann](https://open.spotify.com/artist/2LsCwtGsKLJKvTNRqWqHps), [Dan Levine](https://open.spotify.com/artist/0xyrRdfJsyhoRmcTyzieYG) | [Feed the Wolf](https://open.spotify.com/album/721D2mVjM26irnIos8qL6Y) | 4:12 |
 | 94 | [The Devil](https://open.spotify.com/track/0Oo8Aa1ENUC78J2Vl7T7TP) | [Twiddle](https://open.spotify.com/artist/0hNjIdUHXWhd0dilzi6c12), [John Popper](https://open.spotify.com/artist/2r8UpAivBMWpM96XTb4zaI) | [The Devil](https://open.spotify.com/album/5nksS055u8VN76qS1A54j9) | 3:07 |
 | 95 | [Something in the Water](https://open.spotify.com/track/6gsDzEHPRTzviRlh8x9oRP) | [St\. Paul Peterson](https://open.spotify.com/artist/6oFjk6cifvMQN7Gl4hPcva) | [Break on Free](https://open.spotify.com/album/4fYRseEdyv48HevS4XnNtM) | 5:17 |
-| 96 | [What About Love?](https://open.spotify.com/track/5RYLym87yzbP1RW23ywf5j) | [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Forever](https://open.spotify.com/album/3plQfKgqc059mGxRaQIFqw) | 3:58 |
+| 96 | [What About Love?](https://open.spotify.com/track/3qK5XXtWGtxYOA8tXy777R) | [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Forever](https://open.spotify.com/album/7z6tP5cjp3VjwKPzzD06ON) | 3:58 |
 | 97 | [Spanish Castle Magic](https://open.spotify.com/track/4lV33seMIyqGM7iFPWCYWx) | [Jazz Mafia](https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved), [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T), [Kim Nalley](https://open.spotify.com/artist/1OOAu1X5HrDva4l9ESNUT5), [Realistic Orchestra](https://open.spotify.com/artist/69WRExBLLX7B6gUHt0MaoL) | [Spanish Castle Magic](https://open.spotify.com/album/3lWc1lTWJd4cARMSOhtwWW) | 3:57 |
 | 98 | [Stranger Danger \(In The Streets Of Life\)](https://open.spotify.com/track/2aVfD1DpyU1mqAtqbChj5A) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Third](https://open.spotify.com/album/4zG3uvykSITw9ZRfkL6h0V) | 4:06 |
 | 99 | [The Rougarou](https://open.spotify.com/track/6Y0E6cel8EllxaxIpCjjih) | [Mashup & Cozy Condition](https://open.spotify.com/artist/4Xgz0ZH1mIhD1E5wSjrj1V) | [The Rougarou](https://open.spotify.com/album/7zFE0ofJbtgK3vzBhAmQMA) | 3:17 |
 | 100 | [Clap For The Killers](https://open.spotify.com/track/1LHvNi1ji3OU26lHASBzaz) | [Street Sweeper Social Club](https://open.spotify.com/artist/1YghQU3PwfnDu94PRfE4pv) | [Street Sweeper Social Club](https://open.spotify.com/album/62R1tsiIXUb9Iq6MuRoaMp) | 3:55 |
 
-Snapshot ID: `MCxlZjBlYzQzYzlmMTA1OWU5MDM3ZjRhMTI5NjNmOWYwMjU4ZjNkYWY0`
+Snapshot ID: `MCw4MGE2ODU2MzYyN2U1YzdjYzk3ZDVkYjQ2YjRiNzkwOTI1NTNhYTVm`

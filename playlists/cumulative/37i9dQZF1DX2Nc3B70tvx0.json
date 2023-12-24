@@ -2225,6 +2225,24 @@
     },
     {
       "album": {
+        "name": "Anyone But You",
+        "url": "https://open.spotify.com/album/2viPAytIOe7TjMOITmmWav"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Anyone But You",
+      "url": "https://open.spotify.com/track/4faTuWPQeMo24zvuTDre3c"
+    },
+    {
+      "album": {
         "name": "Anything",
         "url": "https://open.spotify.com/album/5kbnVR8c9PjF88P4GtAGqj"
       },
@@ -19748,7 +19766,7 @@
     {
       "album": {
         "name": "Medicine",
-        "url": "https://open.spotify.com/album/3JqcgkR1T0inYGixFDTmdO"
+        "url": "https://open.spotify.com/album/03bvJDhMjnOOXwqqw3NZ9B"
       },
       "artists": [
         {
@@ -19759,6 +19777,24 @@
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 255414,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/1QWyq6ewUIWZgsyVmzpo0Y"
+    },
+    {
+      "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/3JqcgkR1T0inYGixFDTmdO"
+      },
+      "artists": [
+        {
+          "name": "Loving",
+          "url": "https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
       "duration_ms": 255414,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/23k8mKYhjxN5iSw6nxOVkL"

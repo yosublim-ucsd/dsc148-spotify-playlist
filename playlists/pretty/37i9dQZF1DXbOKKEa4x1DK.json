@@ -1,12 +1,12 @@
 {
   "description": "Para los enamorados y despechados.",
-  "num_followers": 21912,
+  "num_followers": 21968,
   "original_name": "Merengue De Amor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGM4Y2QwN2E3YjMyNmYwYmExNmE2NWEyOTRhZGUzODI3YWIxNjZk",
+  "snapshot_id": "MCw5Y2VlM2I4ZGVmN2Q1MzU3N2NiNGJkOWZhMmZlYmQ0ZDBlYjI5ZjI4",
   "tracks": [
     {
       "added_at": "2021-10-19 17:28:22",
@@ -895,22 +895,6 @@
     {
       "added_at": "2021-10-19 17:28:22",
       "album": {
-        "name": "Majao Majao",
-        "url": "https://open.spotify.com/album/77Jccvo9WY5L7OXepwpDOo"
-      },
-      "artists": [
-        {
-          "name": "Benny Sadel",
-          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
-        }
-      ],
-      "duration_ms": 285626,
-      "name": "Dicen",
-      "url": "https://open.spotify.com/track/19U8hgcEXCiyaCOkrtrMkk"
-    },
-    {
-      "added_at": "2021-10-19 17:28:22",
-      "album": {
         "name": "Merengue En Vivo De Fiesta",
         "url": "https://open.spotify.com/album/6wBDchYUGlD1NBrhAX62RA"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 425750,
       "name": "No Te Vayas (En Vivo)",
       "url": "https://open.spotify.com/track/24pTFkIOEx387mumG1oP6w"
+    },
+    {
+      "added_at": "2021-10-19 17:28:22",
+      "album": {
+        "name": "Majao Majao",
+        "url": "https://open.spotify.com/album/77Jccvo9WY5L7OXepwpDOo"
+      },
+      "artists": [
+        {
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+        }
+      ],
+      "duration_ms": 285626,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/19U8hgcEXCiyaCOkrtrMkk"
     },
     {
       "added_at": "2021-10-19 17:28:22",

@@ -1,12 +1,12 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 200938,
+  "num_followers": 200959,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTAwZDZhNzgyYTRjNDgyZmNkMDFmMzVkOTk0ZDA5MWFkMmNlZDAy",
+  "snapshot_id": "MCwxMjJkZDMyM2MxODM5NjAyNGVmMTY2ODIwMjM0OWUyZjliZDAxZmI4",
   "tracks": [
     {
       "added_at": "2023-01-31 10:01:12",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Baby Will You Love Me",
-        "url": "https://open.spotify.com/album/2w38sOFtpwryYpMROouND9"
-      },
-      "artists": [
-        {
-          "name": "MAJOR.",
-          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
-        }
-      ],
-      "duration_ms": 213338,
-      "name": "Baby Will You Love Me",
-      "url": "https://open.spotify.com/track/6QmzY6tIE1CH1OvATYveSr"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Faith Hope Love Repeat",
         "url": "https://open.spotify.com/album/4lpaCFD1YtduxtT2W1jlNb"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 241800,
       "name": "Faith Hope Love Repeat",
       "url": "https://open.spotify.com/track/67OCXWC93GcixTk3wYvX9c"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Imprint (Live in Memphis)",
+        "url": "https://open.spotify.com/album/2J5NM9D4nvG4qyqVxRyuGk"
+      },
+      "artists": [
+        {
+          "name": "Zacardi Cortez",
+          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
+        }
+      ],
+      "duration_ms": 232752,
+      "name": "Oh How I Love You - Bonus Track",
+      "url": "https://open.spotify.com/track/6ptxOhVrMIMLVXfzEJOWrn"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1095,38 +1095,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Wherever I Go",
-        "url": "https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6"
-      },
-      "artists": [
-        {
-          "name": "Dan Bremnes",
-          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
-        }
-      ],
-      "duration_ms": 178253,
-      "name": "Going Together",
-      "url": "https://open.spotify.com/track/3s1gWhwN7IFE0dxxYhrJyW"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Hope In Front of Me",
-        "url": "https://open.spotify.com/album/58MAD1NrlMznn1k5C4up8M"
-      },
-      "artists": [
-        {
-          "name": "Danny Gokey",
-          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
-        }
-      ],
-      "duration_ms": 187134,
-      "name": "Pretty Beautiful",
-      "url": "https://open.spotify.com/track/3rMhxwfj0i7t2N3bTx6vuY"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "Warm",
         "url": "https://open.spotify.com/album/3OuRCknIWadGRarsOyhdgC"
       },
@@ -1147,22 +1115,34 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "A Little Crazy",
-        "url": "https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0"
+        "name": "Hope In Front of Me",
+        "url": "https://open.spotify.com/album/58MAD1NrlMznn1k5C4up8M"
       },
       "artists": [
         {
-          "name": "Byron Juane",
-          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
-        },
-        {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+          "name": "Danny Gokey",
+          "url": "https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
+      "duration_ms": 187134,
+      "name": "Pretty Beautiful",
+      "url": "https://open.spotify.com/track/3rMhxwfj0i7t2N3bTx6vuY"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Wherever I Go",
+        "url": "https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6"
+      },
+      "artists": [
+        {
+          "name": "Dan Bremnes",
+          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
+        }
+      ],
+      "duration_ms": 178253,
+      "name": "Going Together",
+      "url": "https://open.spotify.com/track/3s1gWhwN7IFE0dxxYhrJyW"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1187,18 +1167,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "NATIVE TONGUE",
-        "url": "https://open.spotify.com/album/2fxJMrLJLQzKNOmpCwJcqc"
+        "name": "A Little Crazy",
+        "url": "https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0"
       },
       "artists": [
         {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+          "name": "Byron Juane",
+          "url": "https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb"
+        },
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
         }
       ],
-      "duration_ms": 125598,
-      "name": "YOU'RE THE ONE I WANT",
-      "url": "https://open.spotify.com/track/5fK3vohIJQ0BFQglpPapfZ"
+      "duration_ms": 198000,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1219,6 +1203,22 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
+        "name": "NATIVE TONGUE",
+        "url": "https://open.spotify.com/album/2fxJMrLJLQzKNOmpCwJcqc"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        }
+      ],
+      "duration_ms": 125598,
+      "name": "YOU'RE THE ONE I WANT",
+      "url": "https://open.spotify.com/track/5fK3vohIJQ0BFQglpPapfZ"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
         "name": "Dear Future Wife (Acoustic)",
         "url": "https://open.spotify.com/album/1VKgGEv8tyviSxzw181xxg"
       },
@@ -1231,22 +1231,6 @@
       "duration_ms": 168069,
       "name": "Dear Future Wife - Acoustic",
       "url": "https://open.spotify.com/track/2MIbcBadDFvf6WQghSFekw"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "'90s Kids",
-        "url": "https://open.spotify.com/album/6gu7Mb2gVC5m4MOL2tFx9h"
-      },
-      "artists": [
-        {
-          "name": "LaPeer",
-          "url": "https://open.spotify.com/artist/6rPGKWFVuwuRPPuh1QitHc"
-        }
-      ],
-      "duration_ms": 206987,
-      "name": "Letters",
-      "url": "https://open.spotify.com/track/7CcnoQ1OAwEEsa1t2MBZx8"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1271,6 +1255,42 @@
       "duration_ms": 125284,
       "name": "Adam & Eve'n",
       "url": "https://open.spotify.com/track/5HyfmKnhMKrR9VYXvr30WY"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "'90s Kids",
+        "url": "https://open.spotify.com/album/6gu7Mb2gVC5m4MOL2tFx9h"
+      },
+      "artists": [
+        {
+          "name": "LaPeer",
+          "url": "https://open.spotify.com/artist/6rPGKWFVuwuRPPuh1QitHc"
+        }
+      ],
+      "duration_ms": 206987,
+      "name": "Letters",
+      "url": "https://open.spotify.com/track/7CcnoQ1OAwEEsa1t2MBZx8"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Can't Help Falling In Love",
+        "url": "https://open.spotify.com/album/3O70Kh0BAydzBQAZXpxJ7Y"
+      },
+      "artists": [
+        {
+          "name": "Tommee Profitt",
+          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
+        },
+        {
+          "name": "brooke",
+          "url": "https://open.spotify.com/artist/7FUnhnuowTICdtK0KzH7Ng"
+        }
+      ],
+      "duration_ms": 171150,
+      "name": "Can't Help Falling In Love - LIGHT",
+      "url": "https://open.spotify.com/track/07vX2XhvGzxkHTaQ141AbB"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1303,26 +1323,6 @@
       "duration_ms": 191794,
       "name": "Another Song About Love",
       "url": "https://open.spotify.com/track/5EMZ2HoaszF9GZBMy2arss"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
-        "name": "Can't Help Falling In Love",
-        "url": "https://open.spotify.com/album/3O70Kh0BAydzBQAZXpxJ7Y"
-      },
-      "artists": [
-        {
-          "name": "Tommee Profitt",
-          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
-        },
-        {
-          "name": "brooke",
-          "url": "https://open.spotify.com/artist/7FUnhnuowTICdtK0KzH7Ng"
-        }
-      ],
-      "duration_ms": 171150,
-      "name": "Can't Help Falling In Love - LIGHT",
-      "url": "https://open.spotify.com/track/07vX2XhvGzxkHTaQ141AbB"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Junto a Ti",
-        "url": "https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH"
-      },
-      "artists": [
-        {
-          "name": "Funky",
-          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "Junto a Ti",
-      "url": "https://open.spotify.com/track/309976H25vNibcds9nAH5A"
-    },
-    {
-      "added_at": "2023-01-31 10:01:12",
-      "album": {
         "name": "BUSY",
         "url": "https://open.spotify.com/album/6X6jlBYMfse8HXVa1sQIZC"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 127058,
       "name": "BUSY",
       "url": "https://open.spotify.com/track/6SQyQKEGv32ZkLe9ywORjh"
+    },
+    {
+      "added_at": "2023-01-31 10:01:12",
+      "album": {
+        "name": "Junto a Ti",
+        "url": "https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH"
+      },
+      "artists": [
+        {
+          "name": "Funky",
+          "url": "https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Junto a Ti",
+      "url": "https://open.spotify.com/track/309976H25vNibcds9nAH5A"
     },
     {
       "added_at": "2023-01-31 10:01:12",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2023-01-31 10:01:12",
       "album": {
-        "name": "Oh How I Love You",
-        "url": "https://open.spotify.com/album/4t6Gjzb1wkmhslC7mGbqUr"
+        "name": "Who Knew It Would Be So Hard to Be Myself",
+        "url": "https://open.spotify.com/album/6eBJuL3GwpgThGG4PIyqnh"
       },
       "artists": [
         {
-          "name": "Zacardi Cortez",
-          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
+          "name": "Dave Barnes",
+          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
         }
       ],
-      "duration_ms": 233050,
-      "name": "Oh How I Love You - R&B Version",
-      "url": "https://open.spotify.com/track/2VWk3KtFYWNskD0s7DZe6c"
+      "duration_ms": 230808,
+      "name": "Big Ole Love",
+      "url": "https://open.spotify.com/track/2i2ifLGv9NBaMLhCSRF6eM"
     }
   ],
   "unique_name": "Higher Love",

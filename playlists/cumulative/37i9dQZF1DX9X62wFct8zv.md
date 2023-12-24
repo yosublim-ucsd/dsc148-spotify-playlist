@@ -4,7 +4,7 @@
 
 > The best of Fleetwood Mac, together and apart.
 
-78 songs - 5 hr 13 min
+79 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Edge of Seventeen \- 2016 Remaster](https://open.spotify.com/track/5LNiqEqpDc8TuqPy79kDBu) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Bella Donna \(Deluxe Edition\)](https://open.spotify.com/album/3S404OgKoVQSJ3xXrDVlp8) | 5:29 | 2022-06-01 |  |
 | [Everywhere \- 2017 Remaster](https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:46 | 2022-06-01 |  |
 | [For What It's Worth](https://open.spotify.com/track/5z5QuOemdCqdUSRqgmXTC6) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [In Your Dreams](https://open.spotify.com/album/1mJFn6QQYSHfArKZzvrNvj) | 4:32 | 2022-06-01 |  |
-| [Friend](https://open.spotify.com/track/3befmnYkiaaIrKBm0y4oVC) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [In The Meantime](https://open.spotify.com/album/5H8eRRAEx1Cb5I2RE4eh51) | 4:30 | 2022-06-01 |  |
+| [Friend](https://open.spotify.com/track/0pwHYR5GGOBxLPyxaecBj5) | [Christine Mcvie](https://open.spotify.com/artist/37vxFfgCPJ4ATpZjGPVWY2) | [In The Meantime](https://open.spotify.com/album/0fCzPs9l2rPF3eLPrEiQ9H) | 4:30 | 2022-06-01 |  |
+| [Friend](https://open.spotify.com/track/3befmnYkiaaIrKBm0y4oVC) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [In The Meantime](https://open.spotify.com/album/5H8eRRAEx1Cb5I2RE4eh51) | 4:30 | 2022-06-01 | 2023-12-24 |
 | [Go Insane](https://open.spotify.com/track/143sH2crBs4fUQyRr8pjUm) | [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Go Insane](https://open.spotify.com/album/3hZQJvLGqN0FjVhX7VkCEw) | 3:05 | 2022-06-01 |  |
 | [Go Your Own Way \- 2004 Remaster](https://open.spotify.com/track/4xh7W7tlNMIczFhupCPniY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 3:43 | 2022-06-01 |  |
 | [Gold Dust Woman \- 2004 Remaster](https://open.spotify.com/track/1cioTI6lHVmW4UWKEi8ChG) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Deluxe Edition\)](https://open.spotify.com/album/3nuRoTy7gi52Z4C0negdw1) | 4:55 | 2022-06-01 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: FRANKIEONTHEGUITAR, Diogo Pi\u00e7arra e Van Zee.",
-  "num_followers": 42151,
+  "num_followers": 42166,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWI0ZjdiZjMzODk1MTA2YzkxMjkwMWIzOWY3NTZiZDNiYWVjNTFl",
+  "snapshot_id": "MCxiOGE4YjUxMjkyNmQzYTk1OTViYzAwNjE3NTE0MWE2YzljOTRlMjk5",
   "tracks": [
     {
       "added_at": "2023-12-22 00:00:01",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "Dama & Vagabundo",
-        "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
-      },
-      "artists": [
-        {
-          "name": "X-Tense",
-          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
-        }
-      ],
-      "duration_ms": 313825,
-      "name": "Dama & Vagabundo",
-      "url": "https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "Caixa Azul",
         "url": "https://open.spotify.com/album/01cC39lWhez36xLYn5jRsI"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 192452,
       "name": "Lidar",
       "url": "https://open.spotify.com/track/6XaA1fw4pejU2lNPPMBjCO"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Dama & Vagabundo",
+        "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
+      },
+      "artists": [
+        {
+          "name": "X-Tense",
+          "url": "https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF"
+        }
+      ],
+      "duration_ms": 313825,
+      "name": "Dama & Vagabundo",
+      "url": "https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/5cBkOqoIQhmHC9q464uWWY"
-      },
-      "artists": [
-        {
-          "name": "Bless",
-          "url": "https://open.spotify.com/artist/7G3cc4g02s4aGoY30P8dIG"
-        }
-      ],
-      "duration_ms": 208894,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/3hKtsahbgDQ5QoSjIrDkNy"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "Karma (feat. Coca FSM)",
         "url": "https://open.spotify.com/album/3zmKF4shlzNRvy3OMbkDiR"
       },
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/5cBkOqoIQhmHC9q464uWWY"
+      },
+      "artists": [
+        {
+          "name": "Bless",
+          "url": "https://open.spotify.com/artist/7G3cc4g02s4aGoY30P8dIG"
+        }
+      ],
+      "duration_ms": 208894,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/3hKtsahbgDQ5QoSjIrDkNy"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
         "name": "Areias do Deserto",
         "url": "https://open.spotify.com/album/3pquO8sScvt3C7kZkBIu79"
       },
@@ -1275,22 +1275,6 @@
       "duration_ms": 203144,
       "name": "Areias do Deserto",
       "url": "https://open.spotify.com/track/5cefcJbSVTJK6LV7XU0R6S"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
-        "name": "Sem Ti",
-        "url": "https://open.spotify.com/album/70lTT4A9jPNXaAgbTgw2f7"
-      },
-      "artists": [
-        {
-          "name": "None",
-          "url": "https://open.spotify.com/artist/2DUnriCSKtsAbjjnvROh9x"
-        }
-      ],
-      "duration_ms": 186352,
-      "name": "Sem Ti",
-      "url": "https://open.spotify.com/track/0f4byXqIig8NDRC1gsyJe6"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1311,6 +1295,22 @@
       "duration_ms": 244675,
       "name": "Bem Flam",
       "url": "https://open.spotify.com/track/11n5HTMsLZwrlXbq5R8PRX"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "Sem Ti",
+        "url": "https://open.spotify.com/album/70lTT4A9jPNXaAgbTgw2f7"
+      },
+      "artists": [
+        {
+          "name": "None",
+          "url": "https://open.spotify.com/artist/2DUnriCSKtsAbjjnvROh9x"
+        }
+      ],
+      "duration_ms": 186352,
+      "name": "Sem Ti",
+      "url": "https://open.spotify.com/track/0f4byXqIig8NDRC1gsyJe6"
     },
     {
       "added_at": "2023-12-22 00:00:01",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2023-12-22 00:00:01",
       "album": {
-        "name": "\u00c0 Tua Porta",
-        "url": "https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        },
-        {
-          "name": "Carolina Deslandes",
-          "url": "https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU"
-        }
-      ],
-      "duration_ms": 211636,
-      "name": "\u00c0 Tua Porta",
-      "url": "https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll"
-    },
-    {
-      "added_at": "2023-12-22 00:00:01",
-      "album": {
         "name": "do.mar",
         "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 189578,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/3AGb8LvF7dOg6skiNOevV0"
+    },
+    {
+      "added_at": "2023-12-22 00:00:01",
+      "album": {
+        "name": "\u00c0 Tua Porta",
+        "url": "https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        },
+        {
+          "name": "Carolina Deslandes",
+          "url": "https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU"
+        }
+      ],
+      "duration_ms": 211636,
+      "name": "\u00c0 Tua Porta",
+      "url": "https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll"
     }
   ],
   "unique_name": "Seda",

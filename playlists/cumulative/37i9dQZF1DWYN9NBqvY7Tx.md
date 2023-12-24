@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-447 songs - 23 hr 51 min
+448 songs - 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [DEMONS IN MY SOUL](https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO) | [SCXR SOUL](https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC), [Sx1nxwy](https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T) | [DEMONS IN MY SOUL](https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7) | 2:00 | 2023-07-18 |  |
 | [Destination Infinity \(feat\. Datura\)](https://open.spotify.com/track/6Y9HjkMSYwxZWVKd12QeTi) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Datura](https://open.spotify.com/artist/7Gd5WhhkYzzlMgtkT46oPN) | [Destination Infinity \(feat\. Datura\)](https://open.spotify.com/album/4Xi1JKepaggNsh32FvPNId) | 2:22 | 2023-11-22 |  |
 | [Dethroned](https://open.spotify.com/track/0qm0sW5CC0yO5rdaJ9qPIZ) | [Barren Gates](https://open.spotify.com/artist/7eMykQ9NjmtA5FnMarEG2F) | [Dethroned](https://open.spotify.com/album/13aGgZSI9cwvjXjaqN4sWT) | 2:49 | 2022-05-06 | 2022-07-24 |
-| [Detonate](https://open.spotify.com/track/49wRXpkVW8Adz5UA7XnFqt) | [G2](https://open.spotify.com/artist/4cqZIrEYvnBJEaqBWhKS9w), [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq), [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Detonate](https://open.spotify.com/album/1GUdfoaRs4EapBVtclSDN7) | 2:47 | 2023-07-18 |  |
+| [Detonate](https://open.spotify.com/track/49wRXpkVW8Adz5UA7XnFqt) | [G2](https://open.spotify.com/artist/4cqZIrEYvnBJEaqBWhKS9w), [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq), [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Detonate](https://open.spotify.com/album/1GUdfoaRs4EapBVtclSDN7) | 2:47 | 2023-07-18 | 2023-12-24 |
 | [Devil](https://open.spotify.com/track/3lj59hy6FrRDyYNo8Onuud) | [Barren Gates](https://open.spotify.com/artist/7eMykQ9NjmtA5FnMarEG2F) | [Devil](https://open.spotify.com/album/4L3VVfebqok9bZFGKKSTTG) | 2:56 | 2022-07-14 |  |
 | [Devil](https://open.spotify.com/track/4BVKDnYVUxbfBYJIip2RBp) | [Barren Gates](https://open.spotify.com/artist/7eMykQ9NjmtA5FnMarEG2F) | [Devil](https://open.spotify.com/album/5gUzUIi3oyy1RZae2GkKnD) | 2:56 | 2022-05-06 | 2022-07-29 |
 | [Die For You](https://open.spotify.com/track/2lz3zjQ5QCVXiyOzIk02vW) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Die For You](https://open.spotify.com/album/4O7Fn6jEB5xN1HXjMALCHp) | 3:32 | 2022-05-06 | 2023-07-19 |
@@ -378,6 +378,7 @@
 | [That Could Be Me](https://open.spotify.com/track/12oJ36M1cTGvTwDURjK6tC) | [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp), [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Meggie York](https://open.spotify.com/artist/0ydORocQawKL2QaPiGG8fZ) | [That Could Be Me](https://open.spotify.com/album/4bjkv0GJmnyFMhsqo2o7wj) | 3:15 | 2022-06-24 | 2022-06-26 |
 | [That's On You](https://open.spotify.com/track/48lhLOfFXp3p4tvsZXiGtK) | [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [Monika Santucci](https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA) | [That's On You](https://open.spotify.com/album/7um4O9Nuv72mZmq6Xpo4h7) | 3:49 | 2022-05-06 | 2022-07-29 |
 | [The Best Part of Life \(Imanbek Remix\)](https://open.spotify.com/track/6OboXrS1zbfCmh7uDFCIQ5) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [The Best Part of Life \(Imanbek Remix\)](https://open.spotify.com/album/1Eoy1ADRQDviO2WX2V2vyP) | 3:18 | 2022-07-14 | 2023-12-10 |
+| [The Best Part of Life \- Imanbek Remix](https://open.spotify.com/track/7uIVzpVyZ1qO4qOxW4xzel) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [The Best Part of Life \(Imanbek Remix\)](https://open.spotify.com/album/00iyGsi6DHzNKEgko6SeJA) | 3:18 | 2023-12-06 |  |
 | [The Business](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business](https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm) | 2:44 | 2022-07-14 | 2023-07-19 |
 | [The Chant](https://open.spotify.com/track/16NC74ajzZCjs4RbA1Zxwn) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Accepted Concept](https://open.spotify.com/album/5026e5pinYOgls5mjv1duU) | 2:51 | 2023-10-13 | 2023-11-10 |
 | [The Drum](https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Drum](https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H) | 3:09 | 2022-05-06 |  |

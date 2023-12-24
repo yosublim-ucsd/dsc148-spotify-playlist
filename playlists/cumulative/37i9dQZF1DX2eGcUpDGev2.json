@@ -728,7 +728,7 @@
     {
       "album": {
         "name": "Jars Of Clay Lullaby Renditions",
-        "url": "https://open.spotify.com/album/2G7J1NGAQGZYTcdJQm6oDM"
+        "url": "https://open.spotify.com/album/0V97zEzVCVJgJ9SepJFbZb"
       },
       "artists": [
         {
@@ -739,6 +739,24 @@
       "date_added": "2021-03-23",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 293013,
+      "name": "Love Song For A Savior (jars Of Clay Lullaby Tribute)",
+      "url": "https://open.spotify.com/track/21vTQiIrV6pgPAnWQUevkc"
+    },
+    {
+      "album": {
+        "name": "Jars Of Clay Lullaby Renditions",
+        "url": "https://open.spotify.com/album/2G7J1NGAQGZYTcdJQm6oDM"
+      },
+      "artists": [
+        {
+          "name": "Lullaby Players",
+          "url": "https://open.spotify.com/artist/1IVUK6wK1PvFI6adwUcoc4"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
       "duration_ms": 293013,
       "name": "Love Song For A Savior (jars Of Clay Lullaby Tribute)",
       "url": "https://open.spotify.com/track/50WEQ7sN1QT8xOEBSkLCgV"
@@ -918,10 +936,28 @@
       ],
       "date_added": "2021-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 193413,
       "name": "Open The Eyes Of My Heart",
       "url": "https://open.spotify.com/track/4PXMxjmY3hOyFUhMryjZSw"
+    },
+    {
+      "album": {
+        "name": "Michael W. Smith Lullaby Renditions",
+        "url": "https://open.spotify.com/album/7xB8qQdFXpajyqaP2juPBw"
+      },
+      "artists": [
+        {
+          "name": "Sleepytime Worship",
+          "url": "https://open.spotify.com/artist/2xChgoo2M9cy6PJWnxb1Ja"
+        }
+      ],
+      "date_added": "2021-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193413,
+      "name": "Open The Eyes Of My Heart",
+      "url": "https://open.spotify.com/track/6dvM3kUCPV9Wamz8aT4pyu"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 224159,
+  "num_followers": 224207,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjIwMWUwZmRjMDg1NWM0Yzc4Yzg4OGU5ZWYwOTIzNGQ4MDM1ODk5",
+  "snapshot_id": "MCw3YTViOTBiNDdiNThmZmI1YTAwN2Y1YzdiM2M0YjE4OTg3MzFiNzE1",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Rhythm Of Life",
-        "url": "https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1"
-      },
-      "artists": [
-        {
-          "name": "James Mason",
-          "url": "https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ"
-        }
-      ],
-      "duration_ms": 326320,
-      "name": "Sweet Power of Your Embrace",
-      "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
         "url": "https://open.spotify.com/album/3RhVMQvvra9eV6lz3IBgVm"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 376973,
       "name": "Enjoy Your Life",
       "url": "https://open.spotify.com/track/5Vh1ehh1HL9WyHNUZwh7Ov"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Rhythm Of Life",
+        "url": "https://open.spotify.com/album/2mv1fpeMeseWyD0MIjKxe1"
+      },
+      "artists": [
+        {
+          "name": "James Mason",
+          "url": "https://open.spotify.com/artist/6HC9gScXpsScEq3Cgq5UvZ"
+        }
+      ],
+      "duration_ms": 326320,
+      "name": "Sweet Power of Your Embrace",
+      "url": "https://open.spotify.com/track/55goBag8vVmsesMxOdIe5M"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
+        "name": "For You (LP)",
+        "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
+      },
+      "artists": [
+        {
+          "name": "Ago",
+          "url": "https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Stop Your Life - Original Album",
+      "url": "https://open.spotify.com/track/3tbjrBQ9DHxuXxE4GuqZOz"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
         "name": "Grandmaster Flash, Grandmaster Melle-Mel & The Furious Five: The Greatest Hits",
         "url": "https://open.spotify.com/album/40o5zHSxes3t5JFLcQwoa9"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 269666,
       "name": "White Lines (Don't Do It)",
       "url": "https://open.spotify.com/track/5iMFwxh6akxfgoujdvI1rf"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "For You (LP)",
-        "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
-      },
-      "artists": [
-        {
-          "name": "Ago",
-          "url": "https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Stop Your Life - Original Album",
-      "url": "https://open.spotify.com/track/3tbjrBQ9DHxuXxE4GuqZOz"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Family",
-        "url": "https://open.spotify.com/album/0scV3mO4LgQWYCmetJ5DZW"
-      },
-      "artists": [
-        {
-          "name": "Hubert Laws",
-          "url": "https://open.spotify.com/artist/2Mb147hrrMIoAy425UZkhv"
-        }
-      ],
-      "duration_ms": 453706,
-      "name": "Family - Stereo Version",
-      "url": "https://open.spotify.com/track/4i9pSye2fyhC6y2k7FyENX"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Chance",
         "url": "https://open.spotify.com/album/4RtrnkVrwWjMAvvYZ24PWB"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 406533,
       "name": "When You Wake up Tomorrow",
       "url": "https://open.spotify.com/track/4b7CZF01PSfOYVPGY3adiY"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/0scV3mO4LgQWYCmetJ5DZW"
+      },
+      "artists": [
+        {
+          "name": "Hubert Laws",
+          "url": "https://open.spotify.com/artist/2Mb147hrrMIoAy425UZkhv"
+        }
+      ],
+      "duration_ms": 453706,
+      "name": "Family - Stereo Version",
+      "url": "https://open.spotify.com/track/4i9pSye2fyhC6y2k7FyENX"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1559,6 +1559,22 @@
       "duration_ms": 350164,
       "name": "Do It Do It Disco (Tom Noble Remix)",
       "url": "https://open.spotify.com/track/67XDCDC0hwYS1jNt01oyZt"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Disco Baby",
+        "url": "https://open.spotify.com/album/6L69V18qBxDhxTlx4ZqgF2"
+      },
+      "artists": [
+        {
+          "name": "Y. Gershovsky",
+          "url": "https://open.spotify.com/artist/1Ydl0Zxt4RZCfl15pzQTaW"
+        }
+      ],
+      "duration_ms": 229734,
+      "name": "Disco Baby - Floating Points & Red Greg Edit",
+      "url": "https://open.spotify.com/track/1ILmOHn4tzjj7XaGBYx5Xu"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1603,22 +1619,6 @@
       "duration_ms": 251653,
       "name": "Saturday Jam",
       "url": "https://open.spotify.com/track/2JsvvaTZKsBVO1gHSXwamD"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
-        "name": "Disco Baby",
-        "url": "https://open.spotify.com/album/6L69V18qBxDhxTlx4ZqgF2"
-      },
-      "artists": [
-        {
-          "name": "Y. Gershovsky",
-          "url": "https://open.spotify.com/artist/1Ydl0Zxt4RZCfl15pzQTaW"
-        }
-      ],
-      "duration_ms": 229734,
-      "name": "Disco Baby - Floating Points & Red Greg Edit",
-      "url": "https://open.spotify.com/track/1ILmOHn4tzjj7XaGBYx5Xu"
     },
     {
       "added_at": "2022-09-05 16:54:43",

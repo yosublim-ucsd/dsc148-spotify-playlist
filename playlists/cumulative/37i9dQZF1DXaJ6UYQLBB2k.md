@@ -4,7 +4,7 @@
 
 > Re\-live the glory of Ambient from the 1990s.
 
-96 songs - 9 hr 28 min
+97 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [Store Check](https://open.spotify.com/track/7c0T2g54R3Ig28W57TCXKy) | [Oval](https://open.spotify.com/artist/1Yti3CsDazWVjNMXBHx1Af) | [94diskont.](https://open.spotify.com/album/33xUwaoTPJ9aNbCJZEpRol) | 4:00 | 2021-12-23 |  |
 | [Surfacing](https://open.spotify.com/track/6YATWkNk120ofMCau5ePPx) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Depths](https://open.spotify.com/album/4N2itOeznvkwIysfQVjGP1) | 13:17 | 2021-12-23 |  |
 | [Teimo \(Schluss\)](https://open.spotify.com/track/6LYfs6v1boQ62a8NxdXYhX) | [Thomas Köner](https://open.spotify.com/artist/02H68OmCeljWgjoVQVOB1v) | [Teimo](https://open.spotify.com/album/76FkQcJMz7ichnvIUZoYRm) | 4:22 | 2021-12-23 |  |
-| [The Angelic Appearance](https://open.spotify.com/track/0Fs2CWurShoStSr7mDVYT0) | [vidnaObmana](https://open.spotify.com/artist/2IZOC3H2mKRvJ5F1R34nuR) | [The River of Appearance](https://open.spotify.com/album/6Hv4N99ZepwCn74FU6L4Ie) | 5:48 | 2021-12-23 |  |
+| [The Angelic Appearance](https://open.spotify.com/track/0Fs2CWurShoStSr7mDVYT0) | [vidnaObmana](https://open.spotify.com/artist/2IZOC3H2mKRvJ5F1R34nuR) | [The River of Appearance](https://open.spotify.com/album/6Hv4N99ZepwCn74FU6L4Ie) | 5:48 | 2021-12-23 | 2023-12-24 |
+| [The Angelic Appearance](https://open.spotify.com/track/5DBddejSogcAwQ1haNHVk1) | [vidnaObmana](https://open.spotify.com/artist/2IZOC3H2mKRvJ5F1R34nuR) | [The River of Appearance](https://open.spotify.com/album/2iSgA8VmlVA34ZDzB8gxEq) | 5:48 | 2023-12-04 |  |
 | [The Atomium Part 1](https://open.spotify.com/track/2uuJ3VKeI5FVV8nPkUD8r8) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [Avec Laudenum](https://open.spotify.com/album/7GAdWrS7xbumDLadbeOAbB) | 5:32 | 2021-12-23 |  |
 | [The Tower](https://open.spotify.com/track/2Ew9aqhpxnNLxZgLdgdoki) | [Robyn Miller](https://open.spotify.com/artist/70EWCtKhQhtClb7NWQlm0d) | [Myst \- The Soundtrack](https://open.spotify.com/album/0dcBg1wM67TIXy4d2uHfgT) | 1:43 | 2021-12-23 | 2023-12-05 |
 | [The Well of Sadness](https://open.spotify.com/track/6UGe3souOEyLAGTPk5KJNe) | [Raison D'être](https://open.spotify.com/artist/0NOdtBd6AUb9WLGfVU1yDR) | [In Sadness, Silence and Solitude \(Expanded\)](https://open.spotify.com/album/0P45LydyGcy4a2MK0peptI) | 8:19 | 2021-12-23 | 2022-03-11 |

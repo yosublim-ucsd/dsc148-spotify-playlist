@@ -2364,10 +2364,28 @@
       ],
       "date_added": "2020-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 217786,
       "name": "Let It Ride",
       "url": "https://open.spotify.com/track/1TR1KgInMmVlpCI6QWg0Ze"
+    },
+    {
+      "album": {
+        "name": "Hidden Gems",
+        "url": "https://open.spotify.com/album/5xQEeIrALM66vXokyP5ik2"
+      },
+      "artists": [
+        {
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217786,
+      "name": "Let It Ride",
+      "url": "https://open.spotify.com/track/4NupFKd1TTR5PsembiLD4X"
     },
     {
       "album": {
@@ -3606,10 +3624,28 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 242424,
       "name": "Survivor",
       "url": "https://open.spotify.com/track/1wBtnfOFCMmr6yOy1dE5VM"
+    },
+    {
+      "album": {
+        "name": "Versatile",
+        "url": "https://open.spotify.com/album/6YttNp6wg0mDmb9Pg86xBo"
+      },
+      "artists": [
+        {
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242424,
+      "name": "Survivor",
+      "url": "https://open.spotify.com/track/76FKM1IevJeZC5vqarglp9"
     },
     {
       "album": {

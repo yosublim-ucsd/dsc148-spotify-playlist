@@ -1156,6 +1156,24 @@
     {
       "album": {
         "name": "Live From Ellis Island",
+        "url": "https://open.spotify.com/album/0O1J3RzGqLJkbalVzmYh1c"
+      },
+      "artists": [
+        {
+          "name": "The Irish Tenors",
+          "url": "https://open.spotify.com/artist/2QehFI9eDvwgtDxEharMPu"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288706,
+      "name": "The Rose Of Tralee",
+      "url": "https://open.spotify.com/track/4VwvxjCGSe36k8LjBmB5or"
+    },
+    {
+      "album": {
+        "name": "Live From Ellis Island",
         "url": "https://open.spotify.com/album/01QoNZxOPi1pN0tUoZRIqW"
       },
       "artists": [
@@ -1184,7 +1202,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 288706,
       "name": "The Rose Of Tralee",
       "url": "https://open.spotify.com/track/5iPqNP3HIuyyOQmUkO1vYs"

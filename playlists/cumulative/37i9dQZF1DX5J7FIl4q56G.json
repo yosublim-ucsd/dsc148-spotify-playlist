@@ -14646,7 +14646,7 @@
     {
       "album": {
         "name": "Casket of Rust",
-        "url": "https://open.spotify.com/album/2V1soNndfJC7B8i1vOT3yy"
+        "url": "https://open.spotify.com/album/5SfiHBsWzaeSCPNKepKKAw"
       },
       "artists": [
         {
@@ -14657,6 +14657,24 @@
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 424532,
+      "name": "Casket of Rust",
+      "url": "https://open.spotify.com/track/3p63Cu4a1ViOqDU7T8feBD"
+    },
+    {
+      "album": {
+        "name": "Casket of Rust",
+        "url": "https://open.spotify.com/album/2V1soNndfJC7B8i1vOT3yy"
+      },
+      "artists": [
+        {
+          "name": "Enterprise Earth",
+          "url": "https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
       "duration_ms": 424532,
       "name": "Casket of Rust",
       "url": "https://open.spotify.com/track/79uDCcS7UnIVSpGKDJcmh1"

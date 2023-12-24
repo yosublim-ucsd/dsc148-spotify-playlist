@@ -4,7 +4,7 @@
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Rhiannon Giddens
 
-242 songs - 15 hr 49 min
+244 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,7 +134,7 @@
 | [Lonely Time](https://open.spotify.com/track/3e8ZAmuMsWEOAiv0FEHdKX) | [Chris Smither](https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22) | [Lonely Time](https://open.spotify.com/album/34Hf2N92TMZOLrRPv1xINQ) | 3:22 | 2021-10-13 | 2022-07-29 |
 | [Lonesome Old River Blues](https://open.spotify.com/track/64pmv1IacCuTcea9rTELcc) | [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb) | [Black Cowboys](https://open.spotify.com/album/7IGx8sUSRSMpcIUbTn6Hxw) | 2:42 | 2021-10-13 | 2023-10-08 |
 | [Los Lunas](https://open.spotify.com/track/4a3qPo0Jl2ws3tpHlz8SlS) | [Over the Rhine](https://open.spotify.com/artist/1z26dqCz3PySR4G7HWsn93) | [Love & Revelation](https://open.spotify.com/album/5QT49UMm1gBAUszWaxmpaL) | 4:12 | 2021-10-13 | 2022-06-27 |
-| [Love and Chains](https://open.spotify.com/track/0nGmvNB4K3bSexD4xNaFgZ) | [Viv & Riley](https://open.spotify.com/artist/02eGekE35DrC5E0qH4kh3H) | [Love and Chains](https://open.spotify.com/album/4lvDFolhKDR42KqeDPPBvT) | 3:37 | 2021-10-13 |  |
+| [Love and Chains](https://open.spotify.com/track/0nGmvNB4K3bSexD4xNaFgZ) | [Viv & Riley](https://open.spotify.com/artist/02eGekE35DrC5E0qH4kh3H) | [Love and Chains](https://open.spotify.com/album/4lvDFolhKDR42KqeDPPBvT) | 3:37 | 2021-10-13 | 2023-12-24 |
 | [Love Farewell](https://open.spotify.com/track/6cvKWfzh1NTJMWXaAIVt63) | [Jake Xerxes Fussell](https://open.spotify.com/artist/40iG1d2wC4KdBLb8wXNq33) | [Good and Green Again](https://open.spotify.com/album/0Yak3Y7E8UjlUGSEn4DUuM) | 3:58 | 2022-02-25 |  |
 | [Love Part Three](https://open.spotify.com/track/5OoccFPlv12WWzdzJfcrfx) | [Dani Larkin](https://open.spotify.com/artist/6s74lp18Qqs5s46mJKtxWi) | [Love Part Three](https://open.spotify.com/album/5Quw6izA6Ub8cmeFIYLxnt) | 4:27 | 2021-10-13 | 2022-06-27 |
 | [Lucid Lucy](https://open.spotify.com/track/6Xw7qv0H03e7bPBIH6tMQQ) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Simple Syrup](https://open.spotify.com/album/1WO7SNNBa9NddGXi3UDNjF) | 3:37 | 2021-10-13 |  |
@@ -205,10 +205,12 @@
 | [The Good Life \- Acoustic](https://open.spotify.com/track/1aK4qQZ5w5neaQxhxP8w4n) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [The Good Life \(Acoustic\)](https://open.spotify.com/album/7v9Brj1OEjDadIMDGjG9lp) | 3:24 | 2021-10-13 | 2022-07-17 |
 | [The Harbour](https://open.spotify.com/track/2ouDv9jiD2j4dKhoFLVhb2) | [Declan O'Rourke](https://open.spotify.com/artist/08YnZ1u94kQ47JW7wVUume) | [The Harbour](https://open.spotify.com/album/6uTX83YthKra9zt8bqpXky) | 4:06 | 2021-10-13 | 2022-07-29 |
 | [The Lonely Persistence of Time](https://open.spotify.com/track/14QQhzM4gDwNP1M52pyq9p) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [The Lonely Persistence of Time](https://open.spotify.com/album/5g84elUozrlHGFSYCvvV8d) | 4:20 | 2021-10-15 | 2022-03-14 |
-| [The Man Was Burning](https://open.spotify.com/track/5X8hjt33EdQ8KUaUzcTNQv) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [The Man Was Burning](https://open.spotify.com/album/0OhzvTKOvapdOk4KY5Zjly) | 2:35 | 2022-02-25 |  |
+| [The Man Was Burning](https://open.spotify.com/track/074GZIq3xxoDd8fH9IGAth) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [The Man Was Burning](https://open.spotify.com/album/6Y0pRUL22pIwgZMLRF8PNP) | 2:35 | 2023-06-23 |  |
+| [The Man Was Burning](https://open.spotify.com/track/5X8hjt33EdQ8KUaUzcTNQv) | [Jake Blount](https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1) | [The Man Was Burning](https://open.spotify.com/album/0OhzvTKOvapdOk4KY5Zjly) | 2:35 | 2022-02-25 | 2023-12-24 |
 | [The Morning Song](https://open.spotify.com/track/1idjvenidUlcO6e7rsqo9P) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Souvenir](https://open.spotify.com/album/2kDauY3LahKExPQgfdKGPY) | 4:38 | 2021-10-13 |  |
 | [The Ocean](https://open.spotify.com/track/2mhc2vUjVw1yEvX0sLXEDG) | [Wallis Bird](https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX) | [The Ocean](https://open.spotify.com/album/3FM3jYla1quF55JdBUM7gc) | 3:21 | 2022-01-12 | 2022-02-15 |
 | [The Parting Glass \(feat\. Darlingside\)](https://open.spotify.com/track/5AylUadxwKFO7wY5jPJg4K) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [The Parting Glass \(feat\. Darlingside\)](https://open.spotify.com/album/0JOGoPvCo7Buduf0xIq01q) | 2:51 | 2021-10-13 | 2023-12-09 |
+| [The Parting Glass \(feat\. Darlingside\) \(feat\. Darlingside\)](https://open.spotify.com/track/1XQrURR1zMs91M7XwVCIBr) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [The Parting Glass \(feat\. Darlingside\) \(feat\. Darlingside\)](https://open.spotify.com/album/7rkPDl2dV4YS2WoR1fkPJO) | 2:51 | 2023-06-23 |  |
 | [The Queen of Hearts](https://open.spotify.com/track/3hZSjTEvT5ftkQvLEMuUZz) | [Offa Rex](https://open.spotify.com/artist/5HFXZpQl9mIwUFLKoxBiCJ) | [The Queen of Hearts](https://open.spotify.com/album/41UyLmJDvWXMQpZWIeE3cm) | 3:55 | 2021-10-13 | 2022-07-29 |
 | [The Road](https://open.spotify.com/track/2Wg5Qk9TTfX3PSkhazuLsk) | [T Sisters](https://open.spotify.com/artist/0ulqL4vgGZIwef3YOM0BBn) | [T Sisters](https://open.spotify.com/album/5wwicNqxv8LNBQFtRnQxSZ) | 5:08 | 2022-02-25 | 2022-07-12 |
 | [The Roving](https://open.spotify.com/track/17lBx44cu6JhILH7ifq6sI) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Bonny Light Horseman](https://open.spotify.com/album/5OgTkrQuF1aL0FtsTi5KmV) | 4:20 | 2021-10-13 | 2022-07-29 |

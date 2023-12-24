@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k2NQZIn7LE.md) - [plain]
 
 > Fusion hits of Coke Studio Pakistan\. Cover: Justin Bibis
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,514 likes - 66 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,543 likes - 66 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k2NQZIn7LE.md) - [plain]
 | 30 | [Neun La Leya](https://open.spotify.com/track/1vIVGX16V56oSeeEZYpVKI) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3) | [Coke Studio: Season 8](https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B) | 7:16 |
 | 31 | [Umran Langiyaan](https://open.spotify.com/track/0J4ohsvlPDkSirnrefbcls) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Nabeel Shaukat Ali](https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp) | [Coke Studio: Season 8](https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B) | 8:02 |
 | 32 | [Man Aamadeh Am](https://open.spotify.com/track/3PMThMLdTuwWLvlFTeSsrO) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Gul Panra](https://open.spotify.com/artist/3fuVoj41Ig8pV6J55JU1NS) | [Coke Studio: Season 8](https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B) | 8:58 |
-| 33 | [Chiryan da Chamba](https://open.spotify.com/track/4hrFaKJ13XCVAp2w9LuqSf) | [Suraiya Khanum](https://open.spotify.com/artist/49yBIp5OY8bpgKUrxEhnM0), [Anwar Maqsood](https://open.spotify.com/artist/5EUd6JP2GsBheJtbuXQ5c1) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 8:50 |
+| 33 | [Chiryan Da Chamba \- Coke Studio Season 8](https://open.spotify.com/track/1TfeIvCSLIVPpxCqCI5Etq) | [Suraiya Khanum](https://open.spotify.com/artist/49yBIp5OY8bpgKUrxEhnM0), [Anwar Maqsood](https://open.spotify.com/artist/5EUd6JP2GsBheJtbuXQ5c1) | [Chiryan Da Chamba \(Coke Studio Season 8\)](https://open.spotify.com/album/5QkwDolPCG71ph5xcLNVEr) | 8:50 |
 | 34 | [Sammi Meri Waar](https://open.spotify.com/track/4SOlMjbKYAvLKaanovsWnA) | [Quratulain Balouch](https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q), [Umair Jaswal](https://open.spotify.com/artist/4eGTCbD3UlgIF479AuXp5u) | [Coke Studio: Season 8](https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B) | 6:32 |
 | 35 | [Sakal Ban](https://open.spotify.com/track/1TicbQ2crhIeZ1EzHlu1CU) | [Rizwan](https://open.spotify.com/artist/51CkNYOrEaNCFHaW5XHeQ5), [Muazzam Ali Khan](https://open.spotify.com/artist/2gpOH1RVAPuNbw2OdLGdOf) | [Coke Studio: Season 8](https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B) | 6:46 |
 | 36 | [Sayon](https://open.spotify.com/track/5rHKDnFKUryaztHYAmLgpa) | [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy) | [Coke Studio: Season 8](https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B) | 4:50 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5k2NQZIn7LE.md) - [plain]
 | 65 | [Laila O Laila](https://open.spotify.com/track/65GexggyAOfTLMWLKQS4eb) | [Rostam Mirlashari](https://open.spotify.com/artist/5zlHJ38vwLDvO6sf1lneZz), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 4:29 |
 | 66 | [Charkha Nolakha](https://open.spotify.com/track/0GKo5LtZM9SvqxZvnxz8hk) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Qayaas](https://open.spotify.com/artist/070AvN8e3WycppehEutQao), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 6:42 |
 
-Snapshot ID: `MCw0NjRjYTViNGZmZjM1YzVlOTczM2Q0MmYxODA2Njk0MDA4NjI2NzI3`
+Snapshot ID: `MCw4MTAxN2U1OGExYzQwZTVmYjcyYjBlMTk4ODAxZTg5YjRjZDI2YjYz`

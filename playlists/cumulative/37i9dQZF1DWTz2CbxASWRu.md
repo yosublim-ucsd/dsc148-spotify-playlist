@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-395 songs - 1 day 5 hr 10 min
+396 songs - 1 day 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,7 +275,7 @@
 | [On Verra Ça](https://open.spotify.com/track/75Gx2dMhqrWgllUR6R6HEM) | [Touré Kunda](https://open.spotify.com/artist/76ynyZUsg0vGxiQSWvQx5f) | [Emma Africa](https://open.spotify.com/album/2aNywleIIBlI85CODNdi4J) | 3:26 | 2023-07-10 |  |
 | [Once in a Lifetime](https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Remain in Light](https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn) | 5:48 | 2023-07-10 |  |
 | [Onyeka \(Baby\)](https://open.spotify.com/track/398G0odwKJ892uyEYDlMBh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 3:22 | 2023-07-10 |  |
-| [Open Your Eyes](https://open.spotify.com/track/0aRBk8abP2vA3wl7GV74SA) | [Newen Afrobeat](https://open.spotify.com/artist/0PTJ848ulShbjTx2yqaAlb) | [Curiche](https://open.spotify.com/album/0iecitdzBzxPqDUar9vOBT) | 7:59 | 2023-07-10 |  |
+| [Open Your Eyes](https://open.spotify.com/track/0aRBk8abP2vA3wl7GV74SA) | [Newen Afrobeat](https://open.spotify.com/artist/0PTJ848ulShbjTx2yqaAlb) | [Curiche](https://open.spotify.com/album/0iecitdzBzxPqDUar9vOBT) | 7:59 | 2023-07-10 | 2023-12-24 |
 | [Ototoa](https://open.spotify.com/track/17eRr1u5GeuZiKpOmCi9gw) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Visit Malphino](https://open.spotify.com/album/2OA05pERt66hYi51jeM2oa) | 4:15 | 2023-07-10 |  |
 | [Oye Cómo Va](https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [El Rey Bravo](https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq) | 4:34 | 2023-07-10 |  |
 | [Pa ri nan male'm](https://open.spotify.com/track/6UHVo0ll6wwAKutKbgbdm2) | [BélO](https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM) | [Dizan](https://open.spotify.com/album/0mT2Oej5aCLf47fQtz6XDA) | 3:57 | 2023-07-10 |  |
@@ -353,6 +353,7 @@
 | [The Contender](https://open.spotify.com/track/3rOwiAmkqaCTPforuRb6i7) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Make the Road By Walking](https://open.spotify.com/album/6YN8jfCZLngnYeAoaWy4RC) | 3:48 | 2023-07-10 |  |
 | [The Lion Sleeps Tonight \(Wimoweh\)](https://open.spotify.com/track/2QbSGkb3TgghEHpjKCsznm) | [The Tokens](https://open.spotify.com/artist/1GAJzApRTMmYZ9EjQ91VOy) | [The Lion Sleeps Tonight](https://open.spotify.com/album/0O284g2liKB3MTL4MsY1fJ) | 2:41 | 2023-07-10 |  |
 | [The Obvious Child](https://open.spotify.com/track/1deWgqhgAzI6dY35TbKKh7) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [The Rhythm Of The Saints](https://open.spotify.com/album/08tZq3FDsspdU6ycn8Jl2o) | 4:10 | 2023-07-10 |  |
+| [The Panther](https://open.spotify.com/track/0QDyFT23YOXVPLdiAPYVin) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Africadelic](https://open.spotify.com/album/22S0u7mhgFlU8uhgoghTVg) | 2:29 | 2023-12-15 |  |
 | [The Panther](https://open.spotify.com/track/0TO438ElpElpdtY9s4aNjv) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 2:29 | 2023-07-10 | 2023-12-22 |
 | [There Will Be Time](https://open.spotify.com/track/0CzbkuvsT2gSUkASIRqo7o) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Baaba Maal](https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf) | [There Will Be Time](https://open.spotify.com/album/0klvKSGjl9QGsJBwf6itVR) | 4:27 | 2023-07-10 |  |
 | [Ti\-de](https://open.spotify.com/track/4Hkcul01Ct8ToAZkc71Ktf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/7DEDf5W3DlySzcs4CQuiuF) | 6:12 | 2023-07-10 | 2023-10-20 |

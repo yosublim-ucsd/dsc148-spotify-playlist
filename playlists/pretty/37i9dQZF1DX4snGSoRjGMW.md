@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 
 > Soul meets blues\. Cover: Joe Louis Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,919 likes - 80 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,960 likes - 80 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 | 4 | [\(Won't Be\) Coming Home](https://open.spotify.com/track/12xd9vbV1Z2ZHkezUQnusF) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj), [The Robert Cray Band](https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P) | [Nothin But Love](https://open.spotify.com/album/3lYuG4Yn0zfvoZjSm1BfNL) | 4:52 |
 | 5 | [Last Two Dollars](https://open.spotify.com/track/1y58wFuYYnVsCnY8DsOELY) | [Johnnie Taylor](https://open.spotify.com/artist/4OGuNAnRFWZOgOA2d51taz) | [Good Love!](https://open.spotify.com/album/7tb1wrlQdEdfvIYAdUbJLL) | 5:19 |
 | 6 | [This Time I'm Gone For Good](https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Man Of My Word](https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5) | 4:40 |
-| 7 | [Stomp](https://open.spotify.com/track/5sraRdhps6BIkOFFVaBpGS) | [Stan Mosley](https://open.spotify.com/artist/7kZrWqdHSrKq5Qg3UgtAQM), [The Texas Horns](https://open.spotify.com/artist/6swhrKqY4WiZoJanmBNqsX), [The Moeller Brothers](https://open.spotify.com/artist/6KrcvREWPq1WnbUQe8TUZi), [Crystal Thomas](https://open.spotify.com/artist/61jsEIddFcj3iYVkLC88bn) | [NO SOUL, NO BLUES](https://open.spotify.com/album/6e9WzYKaq2qAsjJvC4zScE) | 4:22 |
+| 7 | [Stomp](https://open.spotify.com/track/0bIk5zx7YCMgwXa7G31fpp) | [Stan Mosley](https://open.spotify.com/artist/7kZrWqdHSrKq5Qg3UgtAQM), [The Texas Horns](https://open.spotify.com/artist/6swhrKqY4WiZoJanmBNqsX), [The Moeller Brothers](https://open.spotify.com/artist/6KrcvREWPq1WnbUQe8TUZi), [Crystal Thomas](https://open.spotify.com/artist/61jsEIddFcj3iYVkLC88bn) | [NO SOUL, NO BLUES](https://open.spotify.com/album/71PCJxEq3nQcRDkyCEbRel) | 4:22 |
 | 8 | [Don't Give Up On Me](https://open.spotify.com/track/4A11HoXH8oIUfWtJaTE34T) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Don't Give Up On Me](https://open.spotify.com/album/5fPt2yO2JG9ymtO1PNz5iK) | 3:45 |
 | 9 | [I'm So Proud](https://open.spotify.com/track/5t6lSg9siTTeRc5WHOdqkH) | [Tutu Jones](https://open.spotify.com/artist/2YJ9frh2VN2BXKVtEjiV2L) | [Inside Out](https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb) | 4:48 |
 | 10 | [Stop Doggin Me Around](https://open.spotify.com/track/4CI56rOk5ClZPhxgnvRcP7) | [Joyce Lawson](https://open.spotify.com/artist/0Hw5PTRTJMSYkLGnIqQeqW) | [Today I Sing The Blues](https://open.spotify.com/album/2FETHI04M6eFdnKaDBaiqF) | 4:35 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4snGSoRjGMW.md) - [plain]
 | 79 | [I Won't Be Lonely](https://open.spotify.com/track/7nRPUUqMMwAt4sDBaoODA2) | [Willie Walker](https://open.spotify.com/artist/4ATDRGpJ9wi6e5FRYb8C2t), [The Butanes](https://open.spotify.com/artist/3zlUDjxwrKGcnAvgPG2c3L) | [Memphisapolis](https://open.spotify.com/album/6TEps2bRTcnlOVvIIhGutL) | 3:47 |
 | 80 | [Say What You Mean](https://open.spotify.com/track/7moJNXUN9kWKhUYgE55pKG) | [Robert Ward](https://open.spotify.com/artist/2EhEsO2w9hIRm84aiy6sla) | [Rhythm Of The People](https://open.spotify.com/album/63srEUyuzfcMeuSBQn5fvB) | 4:21 |
 
-Snapshot ID: `MCw0YWUzMWExNmFkYzI4MTk0MGE1ZjZjYmQyYWZiMGI3N2RmYWEyYjEw`
+Snapshot ID: `MCxhYmFjZWE4NWZhODZmOWVmMTE4MWNhNzRmZGU5NDAwZDEwMjNjYWEy`

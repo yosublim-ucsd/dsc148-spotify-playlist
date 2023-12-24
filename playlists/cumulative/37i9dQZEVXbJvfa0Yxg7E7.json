@@ -14065,6 +14065,24 @@
     },
     {
       "album": {
+        "name": "Jula tilbake",
+        "url": "https://open.spotify.com/album/67twyFsd43BSm91cDEenfz"
+      },
+      "artists": [
+        {
+          "name": "Emelie Hollow",
+          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227343,
+      "name": "Jula tilbake",
+      "url": "https://open.spotify.com/track/6RuAa8JN7skyyzUttiEkh1"
+    },
+    {
+      "album": {
         "name": "Julebordet",
         "url": "https://open.spotify.com/album/5eCWb5w3BlkVfi00JEHG4h"
       },
@@ -16294,7 +16312,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"

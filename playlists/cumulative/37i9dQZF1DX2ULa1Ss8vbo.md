@@ -4,7 +4,7 @@
 
 > Songs from the old country: the essential traditional Irish ballads.
 
-77 songs - 4 hr 47 min
+78 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,8 +69,9 @@
 | [The Red Rose Cafe](https://open.spotify.com/track/5tTtnr3lyvNIfvW3Wdunzq) | [The Fureys](https://open.spotify.com/artist/1WHVWwMFnjB3oRcjr7nVPP) | [The Essential Fureys](https://open.spotify.com/album/0gNDC9wgwaHZwT62llFeVa) | 4:03 | 2019-03-14 | 2022-07-29 |
 | [The Red Rose Cafe](https://open.spotify.com/track/6SVM7vazjVQNSeFxpOvmt4) | [The Fureys & Davey Arthur](https://open.spotify.com/artist/2hzTqBd559jr5y71uz0WT1) | [Twenty Fifth Anniversary Collection](https://open.spotify.com/album/7Aub6ay5NmxNxeHudMmcJ9) | 4:03 | 2022-07-13 | 2022-11-13 |
 | [The Red Rose Café](https://open.spotify.com/track/584JvH95ZgfpiPQUln9HOu) | [The Fureys](https://open.spotify.com/artist/1WHVWwMFnjB3oRcjr7nVPP) | [The Furey' Finest](https://open.spotify.com/album/4TP38lDlIqm2A45zK5CiwQ) | 4:02 | 2022-07-13 |  |
+| [The Rose Of Tralee](https://open.spotify.com/track/4VwvxjCGSe36k8LjBmB5or) | [The Irish Tenors](https://open.spotify.com/artist/2QehFI9eDvwgtDxEharMPu) | [Live From Ellis Island](https://open.spotify.com/album/0O1J3RzGqLJkbalVzmYh1c) | 4:48 | 2023-03-16 |  |
 | [The Rose Of Tralee](https://open.spotify.com/track/4oGBYcMWsGm9vZHJhjTLIU) | [The Irish Tenors](https://open.spotify.com/artist/2QehFI9eDvwgtDxEharMPu) | [Live From Ellis Island](https://open.spotify.com/album/01QoNZxOPi1pN0tUoZRIqW) | 4:48 | 2019-03-14 | 2022-07-29 |
-| [The Rose Of Tralee](https://open.spotify.com/track/5iPqNP3HIuyyOQmUkO1vYs) | [The Irish Tenors](https://open.spotify.com/artist/2QehFI9eDvwgtDxEharMPu) | [Live From Ellis Island](https://open.spotify.com/album/67UDn5SBqvaofJRqzJaIcJ) | 4:48 | 2022-07-13 |  |
+| [The Rose Of Tralee](https://open.spotify.com/track/5iPqNP3HIuyyOQmUkO1vYs) | [The Irish Tenors](https://open.spotify.com/artist/2QehFI9eDvwgtDxEharMPu) | [Live From Ellis Island](https://open.spotify.com/album/67UDn5SBqvaofJRqzJaIcJ) | 4:48 | 2022-07-13 | 2023-12-24 |
 | [The Streets of London](https://open.spotify.com/track/3EkzGqK2uJrgiZDLXBMWUo) | [Liam Clancy](https://open.spotify.com/artist/1XjkajTCuInbWYxcxPvFtP) | [The Parting Glass \(The Very Best of Liam Clancy\)](https://open.spotify.com/album/5LL2dL3dChEHrcGLBYnqtn) | 4:01 | 2019-03-14 |  |
 | [The Time Has Come](https://open.spotify.com/track/11EhHpCJA9ztjUG13pVXjb) | [Christy Moore](https://open.spotify.com/artist/3Ebn7mKYzD0L3DaUB1gNJZ) | [The Time Has Come](https://open.spotify.com/album/2FYYQ2GMMzRtR6hGuxTjFb) | 3:19 | 2019-03-14 |  |
 | [The West's Awake](https://open.spotify.com/track/28JJX47fHJppvYapuoHeRr) | [Johnny McEvoy](https://open.spotify.com/artist/0wK5QhuLtbY2K4Rmm2FHE9) | [1916 Easter Rising \(Commemorative Collection\)](https://open.spotify.com/album/58MT6pI2o0dAiAkTUyo0a6) | 3:27 | 2019-03-14 |  |

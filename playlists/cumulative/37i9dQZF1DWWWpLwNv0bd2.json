@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Check out the Latest Romance Tracks.\nCover : Fight Club",
+  "description": "Check out the Latest Romance Tracks.\nCover : Captain Miller",
   "name": "Latest Love Tamil",
   "tracks": [
     {
@@ -3534,6 +3534,28 @@
       "duration_ms": 234624,
       "name": "Ullam Urugudhaiya",
       "url": "https://open.spotify.com/track/6CJHEfXmn6x9j03oV1hABh"
+    },
+    {
+      "album": {
+        "name": "Un Oliyile (From \"Captain Miller\") (Tamil)",
+        "url": "https://open.spotify.com/album/0FLill6vtn6hB0uEz0Jfbo"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Un Oliyile (From \"Captain Miller\") (Tamil)",
+      "url": "https://open.spotify.com/track/78FRPOS5aEfmi2n6vr2Uoq"
     },
     {
       "album": {

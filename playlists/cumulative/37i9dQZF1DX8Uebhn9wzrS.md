@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,758 songs - 2 day 18 hr 50 min
+1,759 songs - 2 day 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -442,6 +442,7 @@
 | [Drumagade](https://open.spotify.com/track/3aDuZUTcYKDrZE41J8UsGT) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Spela](https://open.spotify.com/album/5sogVxLDLarBdQwuyIKYNG) | 2:08 | 2022-04-15 | 2022-07-22 |
 | [drunk](https://open.spotify.com/track/4OZDIhz1oJkrEbn8rOyP8G) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [drunk](https://open.spotify.com/album/4sTP9df5gdkqGCcO3dlsIZ) | 2:15 | 2022-10-28 | 2023-03-09 |
 | [Dryer](https://open.spotify.com/track/3qHPIeckBEFVGEaYdKXbTJ) | [D\-Platform](https://open.spotify.com/artist/4Q9LzuzViYcn5iaEIgqJn4) | [Dryer](https://open.spotify.com/album/3dkqT9bcNiPXM0gzcAjfgV) | 2:33 | 2023-01-06 | 2023-02-07 |
+| [Ducks.](https://open.spotify.com/track/54O4LOGcYGb2iVWHtOTuWu) | [Zola's Tapes](https://open.spotify.com/artist/6GwZeQ69WhS31fHqq46Qny) | [Ducks.](https://open.spotify.com/album/7kMGAW6nqjSaBYTZeXOANU) | 2:03 | 2023-12-22 |  |
 | [Dusk Till Dawn](https://open.spotify.com/track/0IpXggbsedUAgk4EcvpD5V) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Dusk Till Dawn](https://open.spotify.com/album/7eqxz9vooQM1Cla93iPw4u) | 2:09 | 2022-07-22 | 2022-12-03 |
 | [Dusk's Delight](https://open.spotify.com/track/6GpE61U0CCL7k01WyF3DiN) | [Wezley Wiz](https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg) | [Dusk's Delight](https://open.spotify.com/album/3da8NaCjNEuTJiVOUlDR3O) | 2:00 | 2023-09-22 |  |
 | [Each Moment More Than the Last](https://open.spotify.com/track/6hCLyINmkTLeYc5wmJ32Ym) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Each Moment More Than the Last](https://open.spotify.com/album/0E954159llvUd1ZiGmh8TC) | 2:04 | 2022-09-23 | 2023-01-07 |
@@ -1537,7 +1538,7 @@
 | [Tequila Sunrise](https://open.spotify.com/track/5jS2VBynvsmlw1T7eJE6UI) | [Lucid Keys](https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi) | [Tequila Sunrise](https://open.spotify.com/album/6o0k1gVG5kor4c0U3dTLvU) | 2:15 | 2022-12-09 | 2023-02-07 |
 | [Textures](https://open.spotify.com/track/7M1kcElpSjJe28fUC3UGXq) | [Monma](https://open.spotify.com/artist/50nVKm0xa3p8KYXXssG2ym) | [Textures](https://open.spotify.com/album/6eRV6jqU3EWIFSAAtWGyJv) | 1:28 | 2022-07-08 | 2022-12-03 |
 | [that old lick](https://open.spotify.com/track/01pPzpTbSyIqi9vgVjDqpO) | [efedrin](https://open.spotify.com/artist/0XghY48i09UXnmTiQcnE1p) | [it came from the desert](https://open.spotify.com/album/69AKTWMJ44wbayjX4vjaUb) | 1:24 | 2022-04-15 | 2022-09-09 |
-| [That's My Jam](https://open.spotify.com/track/5VrOqL4TmSU8ZfhgfD1oXg) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [That's My Jam](https://open.spotify.com/album/0WWP9a6jvXdvStIu9tAvme) | 2:32 | 2023-12-22 |  |
+| [That's My Jam](https://open.spotify.com/track/5VrOqL4TmSU8ZfhgfD1oXg) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [That's My Jam](https://open.spotify.com/album/0WWP9a6jvXdvStIu9tAvme) | 2:32 | 2023-12-22 | 2023-12-24 |
 | [The Bay](https://open.spotify.com/track/0aSQ0c4oMfjUWoHenvcnvI) | [Basmati](https://open.spotify.com/artist/58B9CtFf40bkC9mgFnD96f), [Luniworks](https://open.spotify.com/artist/0dMJ5zofJoExb5T8eSmOhW) | [The Bay](https://open.spotify.com/album/19eoQYs75KzT2Q9fA3pRPQ) | 2:09 | 2023-02-06 | 2023-09-29 |
 | [The Careforce](https://open.spotify.com/track/1VkY2mmufR03gKcIhLRk0L) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [The Careforce](https://open.spotify.com/album/4U4PKpvDXVZznXfJo8YCk9) | 2:16 | 2022-04-15 | 2023-08-18 |
 | [The Carlton](https://open.spotify.com/track/3J7FvVmbz6vvPvu3XymrNK) | [PONY](https://open.spotify.com/artist/5CxY3qA1kVNN0MolYlkVAI) | [The Carlton](https://open.spotify.com/album/1DMVvbrhKB6oJbZxQM0gDi) | 2:57 | 2023-02-13 | 2023-09-29 |

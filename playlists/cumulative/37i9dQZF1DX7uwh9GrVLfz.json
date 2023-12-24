@@ -661,6 +661,24 @@
     },
     {
       "album": {
+        "name": "Better Left Unsaid",
+        "url": "https://open.spotify.com/album/20Da1RKmes9labrfvYqkAP"
+      },
+      "artists": [
+        {
+          "name": "Ken Yokoyama",
+          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206999,
+      "name": "Better Left Unsaid",
+      "url": "https://open.spotify.com/track/7htGPQWvAMFSbGwkh2UIVx"
+    },
+    {
+      "album": {
         "name": "Better Luck",
         "url": "https://open.spotify.com/album/56q7dUAnlBaq7wsRcGLzPA"
       },
@@ -3362,6 +3380,24 @@
       "duration_ms": 124719,
       "name": "I'M A RAT",
       "url": "https://open.spotify.com/track/1fT9DpNhb5vHoUGcEtoDFa"
+    },
+    {
+      "album": {
+        "name": "I'M A RAT",
+        "url": "https://open.spotify.com/album/2b8IfylXhVRBnF1UHwT2Rh"
+      },
+      "artists": [
+        {
+          "name": "Hi-STANDARD",
+          "url": "https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124719,
+      "name": "I'M A RAT",
+      "url": "https://open.spotify.com/track/3mmmFNse4YOe6DK8SRoNzG"
     },
     {
       "album": {
@@ -6298,7 +6334,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 130960,
       "name": "Rising Down",
       "url": "https://open.spotify.com/track/2vQZUiJgXpYwVTFh1wyYc3"
@@ -6334,7 +6370,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 263520,
       "name": "RIVER",
       "url": "https://open.spotify.com/track/6vHD8xxVud6WwOUA09s0g8"

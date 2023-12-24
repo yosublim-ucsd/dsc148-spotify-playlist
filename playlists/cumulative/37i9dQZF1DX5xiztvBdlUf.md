@@ -4,7 +4,7 @@
 
 > Deep House in all its shapes and colours.
 
-373 songs - 1 day 10 hr 36 min
+374 songs - 1 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [Linda](https://open.spotify.com/track/5crNzoEWl4aXE9NR3b4y8Y) | [Dj Beekay](https://open.spotify.com/artist/58jrFyEJ3krC8cwAEsA2BM), [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG) | [Linda](https://open.spotify.com/album/3UZE1UZDlJGZjjNc381wds) | 7:57 | 2022-04-04 | 2022-04-21 |
 | [Little Friends](https://open.spotify.com/track/6IA0e1P8bT0d6nGUR7UFvz) | [Joyce Muniz](https://open.spotify.com/artist/2V5PoybhNfFnNEs0NKv44L), [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls) | [Permanent Vacation 7](https://open.spotify.com/album/4M0De1Ew8Vi380QSLXG1lO) | 4:31 | 2021-11-26 | 2022-07-27 |
 | [Lolita Express](https://open.spotify.com/track/0zitH5kttHInGS0wgaCjrk) | [Roslyn](https://open.spotify.com/artist/7uCzJnMglskTEuLhnzlawg) | [Lolita Express](https://open.spotify.com/album/0pEnOKDH8bM9KQlU3qK6sM) | 4:27 | 2021-11-26 | 2022-04-05 |
-| [Looking For The Light](https://open.spotify.com/track/2aKi0hmZ7M5wVnd69RUEu7) | [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8), [Luxe Agoris](https://open.spotify.com/artist/6ejyZKJqfU1trzNHiAA3Ro) | [Looking For The Light](https://open.spotify.com/album/0TPIkCygwT8QuomYuRi7sW) | 2:57 | 2023-11-14 |  |
+| [Looking For The Light](https://open.spotify.com/track/2aKi0hmZ7M5wVnd69RUEu7) | [Samuel Miller](https://open.spotify.com/artist/4S1EXenN3a8icOr9keFIG8), [Luxe Agoris](https://open.spotify.com/artist/6ejyZKJqfU1trzNHiAA3Ro) | [Looking For The Light](https://open.spotify.com/album/0TPIkCygwT8QuomYuRi7sW) | 2:57 | 2023-11-14 | 2023-12-24 |
 | [Lore](https://open.spotify.com/track/0QswOQrUWKn93eOYBh6wWC) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Lore EP](https://open.spotify.com/album/1DCXlz2JvEcTUOZqgn5tDB) | 3:58 | 2021-11-26 | 2022-06-17 |
 | [Lost Generation \- Edit](https://open.spotify.com/track/4IAQZlLWEiMhrYPfL4btZi) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Bright Sparks](https://open.spotify.com/artist/1Dn88PoQjnQgLTOaokePFz), [Bulgarian Voices Angelite](https://open.spotify.com/artist/6OxyG688AdDLBKo5yrJXU9), [Huun\-Huur\-Tu](https://open.spotify.com/artist/1bK0K2tuAcvMScEWIHt54t) | [Lost Generation](https://open.spotify.com/album/2s9p73FuCiqa0XBz3jtevC) | 2:43 | 2022-11-25 |  |
 | [Love And Hate](https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Love And Hate](https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c) | 4:27 | 2023-04-28 |  |
@@ -361,6 +361,7 @@
 | [What U Doing](https://open.spotify.com/track/6jn47IP90tvtvb7ddhOnS1) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [What U Doing](https://open.spotify.com/album/65xPPLYFiHhx6YxRV3S9fV) | 3:49 | 2022-01-14 | 2023-11-05 |
 | [What We Think \- Lunar Plane Remix](https://open.spotify.com/track/1M7tO5JDHxDK4TPtG8swNL) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq), [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA), [Lunar Plane](https://open.spotify.com/artist/7wWAqQCAlSqAcRRYCKoIfy) | [What We Think The Remixes Part One](https://open.spotify.com/album/0T3d2ot5iBrIbkKkoTqsvG) | 6:16 | 2022-04-04 | 2022-10-23 |
 | [What You Expected](https://open.spotify.com/track/77r4MAR9vAqQgRDH3NfcIr) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Send Return](https://open.spotify.com/album/3SuTviA27RWZUirHX7ybgE) | 6:43 | 2022-04-04 | 2022-05-14 |
+| [Whiter Shade of Pale](https://open.spotify.com/track/7DwiBEHsEszjbZUEdnADX6) | [Klement Bonelli](https://open.spotify.com/artist/1LK1ywbyRrajPZgW6IbcR8), [Coco](https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl) | [Whiter Shade of Pale](https://open.spotify.com/album/4FbegDMCieU0AlfUrwrc0O) | 2:43 | 2023-11-14 |  |
 | [Who You Are](https://open.spotify.com/track/2ZK2PfpK0iri6UduhsblBM) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Who You Are](https://open.spotify.com/album/3zO2PYueI0npVFlxEyl9R0) | 4:22 | 2023-10-02 |  |
 | [Why Are We Here](https://open.spotify.com/track/6NItiASHGH1dmfSeBN79qb) | [SKALA](https://open.spotify.com/artist/43hoEqOilY8CNQ3hzms5Pq) | [Why Are We Here](https://open.spotify.com/album/1gIkTMcxdAhZEP1Vm7VkI6) | 5:00 | 2022-04-04 | 2022-07-19 |
 | [Wildfire](https://open.spotify.com/track/1WkzL4XjkAY76sasIUdU6l) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Burning Out EP](https://open.spotify.com/album/4iO74LdA4G9TthnWNIdw3I) | 5:24 | 2021-11-26 |  |

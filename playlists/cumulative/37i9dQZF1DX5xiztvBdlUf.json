@@ -3822,7 +3822,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 177049,
       "name": "Looking For The Light",
       "url": "https://open.spotify.com/track/2aKi0hmZ7M5wVnd69RUEu7"
@@ -7288,6 +7288,28 @@
       "duration_ms": 403505,
       "name": "What You Expected",
       "url": "https://open.spotify.com/track/77r4MAR9vAqQgRDH3NfcIr"
+    },
+    {
+      "album": {
+        "name": "Whiter Shade of Pale",
+        "url": "https://open.spotify.com/album/4FbegDMCieU0AlfUrwrc0O"
+      },
+      "artists": [
+        {
+          "name": "Klement Bonelli",
+          "url": "https://open.spotify.com/artist/1LK1ywbyRrajPZgW6IbcR8"
+        },
+        {
+          "name": "Coco",
+          "url": "https://open.spotify.com/artist/0NMq0jrmfJeEiJtjywE1Xl"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163189,
+      "name": "Whiter Shade of Pale",
+      "url": "https://open.spotify.com/track/7DwiBEHsEszjbZUEdnADX6"
     },
     {
       "album": {

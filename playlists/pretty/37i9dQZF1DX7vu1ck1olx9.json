@@ -1,12 +1,12 @@
 {
   "description": "Cool down with these chill beats",
-  "num_followers": 68478,
+  "num_followers": 68549,
   "original_name": "lofi cool down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTA5NTlmNzkwNjg4NjIyZmU2ODNkZjBmNzljYzRiNWNiYWFkYjBl",
+  "snapshot_id": "MCw4NDVlNWZiYmQ3MjZkOThlNjhlMzMxMTI3ZDVjYWYyMTcxOGJhMDkw",
   "tracks": [
     {
       "added_at": "2023-12-22 00:01:00",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Soul of Serenity",
-        "url": "https://open.spotify.com/album/2RHRLJNULTY4nrxWdoleeT"
-      },
-      "artists": [
-        {
-          "name": "Fya Playce",
-          "url": "https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Soul of Serenity",
-      "url": "https://open.spotify.com/track/4baez3KIhzdnOIhyS4TNeG"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Blanket",
         "url": "https://open.spotify.com/album/7upEQocfRg69LCyh1DeIMs"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 127741,
       "name": "Blanket",
       "url": "https://open.spotify.com/track/7y5FvLf4zFR4wyadweNWXy"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Soul of Serenity",
+        "url": "https://open.spotify.com/album/2RHRLJNULTY4nrxWdoleeT"
+      },
+      "artists": [
+        {
+          "name": "Fya Playce",
+          "url": "https://open.spotify.com/artist/7M7ryKqUcnn2r0F08gYuxr"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Soul of Serenity",
+      "url": "https://open.spotify.com/track/4baez3KIhzdnOIhyS4TNeG"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Good Riddance",
-        "url": "https://open.spotify.com/album/6U0FtCx12gkLnR4oD55oj9"
-      },
-      "artists": [
-        {
-          "name": "Bad Gherkin",
-          "url": "https://open.spotify.com/artist/15UGYmHXzD3KwCDTE2Xa4B"
-        }
-      ],
-      "duration_ms": 140776,
-      "name": "Good Riddance",
-      "url": "https://open.spotify.com/track/1TokDvDC322LNnDEUqL4uv"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Pure Water",
         "url": "https://open.spotify.com/album/0pdsUyxPplZqjQ2oRBkmcD"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 141000,
       "name": "Call It A Night",
       "url": "https://open.spotify.com/track/4T7oDgtpVj7mvGseuU7nyA"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Good Riddance",
+        "url": "https://open.spotify.com/album/6U0FtCx12gkLnR4oD55oj9"
+      },
+      "artists": [
+        {
+          "name": "Bad Gherkin",
+          "url": "https://open.spotify.com/artist/15UGYmHXzD3KwCDTE2Xa4B"
+        }
+      ],
+      "duration_ms": 140776,
+      "name": "Good Riddance",
+      "url": "https://open.spotify.com/track/1TokDvDC322LNnDEUqL4uv"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Summer Sleepy",
-        "url": "https://open.spotify.com/album/1iH4nyb3lQnA0kTRmmn6SC"
-      },
-      "artists": [
-        {
-          "name": "CARLO",
-          "url": "https://open.spotify.com/artist/3nIXVYOAqFzJuHWga0nGr0"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Summer Sleepy",
-      "url": "https://open.spotify.com/track/2BGHOiKSO7pR93tRVz3Sns"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "questa terra",
         "url": "https://open.spotify.com/album/6avgf77GkCvhuRNeG63fAx"
       },
@@ -695,6 +679,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Summer Sleepy",
+        "url": "https://open.spotify.com/album/1iH4nyb3lQnA0kTRmmn6SC"
+      },
+      "artists": [
+        {
+          "name": "CARLO",
+          "url": "https://open.spotify.com/artist/3nIXVYOAqFzJuHWga0nGr0"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Summer Sleepy",
+      "url": "https://open.spotify.com/track/2BGHOiKSO7pR93tRVz3Sns"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "no reply",
         "url": "https://open.spotify.com/album/0wBSKUgKu6jsZRE3NPBaPw"
       },
@@ -707,38 +707,6 @@
       "duration_ms": 130169,
       "name": "no reply",
       "url": "https://open.spotify.com/track/3Ji8JYWfwb48AxDvlpLmtB"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Are We There Yet",
-        "url": "https://open.spotify.com/album/4fFqmS7Kk1R2qcZmLVxSJQ"
-      },
-      "artists": [
-        {
-          "name": "Velvet Haven",
-          "url": "https://open.spotify.com/artist/4jTDHfmofsM4W1Bc0m5L4F"
-        }
-      ],
-      "duration_ms": 154383,
-      "name": "Are We There Yet",
-      "url": "https://open.spotify.com/track/48xZK2scMaeRz89MSQfrIV"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "sleepy hat",
-        "url": "https://open.spotify.com/album/4aDtOBTxMRwi40T8b4IHUZ"
-      },
-      "artists": [
-        {
-          "name": "Blue Bag",
-          "url": "https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar"
-        }
-      ],
-      "duration_ms": 168196,
-      "name": "sleepy hat",
-      "url": "https://open.spotify.com/track/6weHje3zmObTuMqPaTBxD7"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -771,6 +739,38 @@
       "duration_ms": 126500,
       "name": "fingerlock",
       "url": "https://open.spotify.com/track/3oRubNxLgB33gbB7OqfhNg"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Are We There Yet",
+        "url": "https://open.spotify.com/album/4fFqmS7Kk1R2qcZmLVxSJQ"
+      },
+      "artists": [
+        {
+          "name": "Velvet Haven",
+          "url": "https://open.spotify.com/artist/4jTDHfmofsM4W1Bc0m5L4F"
+        }
+      ],
+      "duration_ms": 154383,
+      "name": "Are We There Yet",
+      "url": "https://open.spotify.com/track/48xZK2scMaeRz89MSQfrIV"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "sleepy hat",
+        "url": "https://open.spotify.com/album/4aDtOBTxMRwi40T8b4IHUZ"
+      },
+      "artists": [
+        {
+          "name": "Blue Bag",
+          "url": "https://open.spotify.com/artist/4rtwUGOQwVUZGAlQYh02ar"
+        }
+      ],
+      "duration_ms": 168196,
+      "name": "sleepy hat",
+      "url": "https://open.spotify.com/track/6weHje3zmObTuMqPaTBxD7"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "lushus",
-        "url": "https://open.spotify.com/album/04oFHAAaGt8r2e0CadyobL"
-      },
-      "artists": [
-        {
-          "name": "Valhallz",
-          "url": "https://open.spotify.com/artist/5lIQiCIm32WqGlcDYxJRWh"
-        }
-      ],
-      "duration_ms": 150333,
-      "name": "lushus",
-      "url": "https://open.spotify.com/track/72a4PQMEocPH3IZV3QyyzZ"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "bedtime routine",
         "url": "https://open.spotify.com/album/42uT33NjFrZrbqketUVeae"
       },
@@ -1031,6 +1015,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "lushus",
+        "url": "https://open.spotify.com/album/04oFHAAaGt8r2e0CadyobL"
+      },
+      "artists": [
+        {
+          "name": "Valhallz",
+          "url": "https://open.spotify.com/artist/5lIQiCIm32WqGlcDYxJRWh"
+        }
+      ],
+      "duration_ms": 150333,
+      "name": "lushus",
+      "url": "https://open.spotify.com/track/72a4PQMEocPH3IZV3QyyzZ"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "In The Park",
         "url": "https://open.spotify.com/album/6sjsZntXB6ZaK8XOomB1SI"
       },
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/0176EEPWJGAUTmjeetjYej"
-      },
-      "artists": [
-        {
-          "name": "Sorsele",
-          "url": "https://open.spotify.com/artist/2tTcT2ddh1bHSEsdLjLfpw"
-        }
-      ],
-      "duration_ms": 139296,
-      "name": "SLOWLY",
-      "url": "https://open.spotify.com/track/13hIl9viyBhvPoLVag7BnQ"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Encounter",
         "url": "https://open.spotify.com/album/1Y5GeinuQQrEwocF29Svy0"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 146206,
       "name": "Encounter",
       "url": "https://open.spotify.com/track/10Q6Zi067V35REvI9w40hm"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/0176EEPWJGAUTmjeetjYej"
+      },
+      "artists": [
+        {
+          "name": "Sorsele",
+          "url": "https://open.spotify.com/artist/2tTcT2ddh1bHSEsdLjLfpw"
+        }
+      ],
+      "duration_ms": 139296,
+      "name": "SLOWLY",
+      "url": "https://open.spotify.com/track/13hIl9viyBhvPoLVag7BnQ"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Sense Of Self",
+        "url": "https://open.spotify.com/album/6sTa0ytIQ03s3Xet4IlbHE"
+      },
+      "artists": [
+        {
+          "name": "Dreams On Vinyl",
+          "url": "https://open.spotify.com/artist/2ikWLWXTdUo9oOudnHUXjw"
+        }
+      ],
+      "duration_ms": 131396,
+      "name": "Sense Of Self",
+      "url": "https://open.spotify.com/track/1LOnJk5qLdfmyNDCpyp7gk"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "PWR nApp",
         "url": "https://open.spotify.com/album/1zR6taWfZRZ05iY68d1pJf"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 142081,
       "name": "slow move",
       "url": "https://open.spotify.com/track/3xpUN6eBlBi3P4ZPu7xBBy"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Sense Of Self",
-        "url": "https://open.spotify.com/album/6sTa0ytIQ03s3Xet4IlbHE"
-      },
-      "artists": [
-        {
-          "name": "Dreams On Vinyl",
-          "url": "https://open.spotify.com/artist/2ikWLWXTdUo9oOudnHUXjw"
-        }
-      ],
-      "duration_ms": 131396,
-      "name": "Sense Of Self",
-      "url": "https://open.spotify.com/track/1LOnJk5qLdfmyNDCpyp7gk"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "landscape",
-        "url": "https://open.spotify.com/album/4zaY1wdjvIx5DaZgvg2KOY"
-      },
-      "artists": [
-        {
-          "name": "Cyan_95",
-          "url": "https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU"
-        }
-      ],
-      "duration_ms": 162206,
-      "name": "landscape",
-      "url": "https://open.spotify.com/track/3lt1srJ0SvOilCAgcRUlFU"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "peaceful",
         "url": "https://open.spotify.com/album/6qmArcn5bbGUpjGvqd2LH2"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 127918,
       "name": "peaceful",
       "url": "https://open.spotify.com/track/2I10CGsTmyf7Tr6CHPJSxe"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "landscape",
+        "url": "https://open.spotify.com/album/4zaY1wdjvIx5DaZgvg2KOY"
+      },
+      "artists": [
+        {
+          "name": "Cyan_95",
+          "url": "https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU"
+        }
+      ],
+      "duration_ms": 162206,
+      "name": "landscape",
+      "url": "https://open.spotify.com/track/3lt1srJ0SvOilCAgcRUlFU"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "honey sweet",
-        "url": "https://open.spotify.com/album/68VuJvWiekf22ADYco8THc"
-      },
-      "artists": [
-        {
-          "name": "louke's beats",
-          "url": "https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E"
-        }
-      ],
-      "duration_ms": 115291,
-      "name": "honey sweet",
-      "url": "https://open.spotify.com/track/6HMReqwhFiDYjXm9Yp008x"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "calm the mind",
         "url": "https://open.spotify.com/album/7ecnD9VzrEx4xaMMfUmf5S"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 142791,
       "name": "calm the mind",
       "url": "https://open.spotify.com/track/3pBRXJlRx3OwrI0YesboWC"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "honey sweet",
+        "url": "https://open.spotify.com/album/68VuJvWiekf22ADYco8THc"
+      },
+      "artists": [
+        {
+          "name": "louke's beats",
+          "url": "https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E"
+        }
+      ],
+      "duration_ms": 115291,
+      "name": "honey sweet",
+      "url": "https://open.spotify.com/track/6HMReqwhFiDYjXm9Yp008x"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Suave",
+        "url": "https://open.spotify.com/album/5txeC1tIBt4cbMNlS2dLR4"
+      },
+      "artists": [
+        {
+          "name": "Loop Schrauber",
+          "url": "https://open.spotify.com/artist/03q0QEJ2aWKMa5NlOfQX32"
+        }
+      ],
+      "duration_ms": 80000,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/1PS3K87McFoH9jI9RAgmnr"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Spirits",
         "url": "https://open.spotify.com/album/2QB4GAeIBuGkxUNnUQQNBU"
       },
@@ -1827,22 +1843,6 @@
       "duration_ms": 144000,
       "name": "Spirits",
       "url": "https://open.spotify.com/track/0bHMYI8BEs739S51ZrZ6yy"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Suave",
-        "url": "https://open.spotify.com/album/5txeC1tIBt4cbMNlS2dLR4"
-      },
-      "artists": [
-        {
-          "name": "Loop Schrauber",
-          "url": "https://open.spotify.com/artist/03q0QEJ2aWKMa5NlOfQX32"
-        }
-      ],
-      "duration_ms": 80000,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/1PS3K87McFoH9jI9RAgmnr"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1879,6 +1879,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "wayitis",
+        "url": "https://open.spotify.com/album/65F6S0mhOFnwLcmXTscLOC"
+      },
+      "artists": [
+        {
+          "name": "Twiggy Fiz",
+          "url": "https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8"
+        }
+      ],
+      "duration_ms": 191117,
+      "name": "wayitis",
+      "url": "https://open.spotify.com/track/4YlAlxDG0YuYbTF2YteMl0"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/7fSnzb7V35K2jhUf5ZHtX0"
       },
@@ -1907,6 +1923,22 @@
       "duration_ms": 145071,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/1o1UWMy6g6QRLYnK8wuY9L"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Seven Hundred Fourteen \u4e03\u767e\u5341\u56db",
+        "url": "https://open.spotify.com/album/1NUA3c1HKGNj9Bl5uWh7x7"
+      },
+      "artists": [
+        {
+          "name": "d.w.h",
+          "url": "https://open.spotify.com/artist/2Mv14rolxu9z56WEkPIhZd"
+        }
+      ],
+      "duration_ms": 144473,
+      "name": "Seven Hundred Fourteen \u4e03\u767e\u5341\u56db",
+      "url": "https://open.spotify.com/track/12V1thgB2Hos7uSU4rOqro"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -2095,26 +2127,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Pixels",
-        "url": "https://open.spotify.com/album/5afdsskd6JtVeBjN83zOJb"
-      },
-      "artists": [
-        {
-          "name": "Anatomy Park",
-          "url": "https://open.spotify.com/artist/3XuDZrvJBvhTEGb8uXubgN"
-        },
-        {
-          "name": "Noflik",
-          "url": "https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "Pixels",
-      "url": "https://open.spotify.com/track/3PFwq96cMjf99GqGGlXX5W"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Collabs, Vol 2",
         "url": "https://open.spotify.com/album/6VxgOQVVFej9Br7fWVVuZi"
       },
@@ -2135,6 +2147,26 @@
       "duration_ms": 101663,
       "name": "Soul Finding",
       "url": "https://open.spotify.com/track/0L0O6m5t5usqQHEaBsHgSa"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Pixels",
+        "url": "https://open.spotify.com/album/5afdsskd6JtVeBjN83zOJb"
+      },
+      "artists": [
+        {
+          "name": "Anatomy Park",
+          "url": "https://open.spotify.com/artist/3XuDZrvJBvhTEGb8uXubgN"
+        },
+        {
+          "name": "Noflik",
+          "url": "https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "Pixels",
+      "url": "https://open.spotify.com/track/3PFwq96cMjf99GqGGlXX5W"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -2219,30 +2251,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Chasing Sunsets",
-        "url": "https://open.spotify.com/album/6dcJQL3ZyE6ODjsaibp6fi"
-      },
-      "artists": [
-        {
-          "name": "Pandrezz",
-          "url": "https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC"
-        },
-        {
-          "name": "j'san",
-          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
-        },
-        {
-          "name": "Epektase",
-          "url": "https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Soul Sista",
-      "url": "https://open.spotify.com/track/6tun0i4mdf8qgNXVYxRZRe"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Safehouse",
         "url": "https://open.spotify.com/album/0aeSj329rAsSdeLDDsyP6q"
       },
@@ -2291,6 +2299,30 @@
       "duration_ms": 163764,
       "name": "night.owls",
       "url": "https://open.spotify.com/track/2bFnRt6WKhNw4maKOxLyj3"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Chasing Sunsets",
+        "url": "https://open.spotify.com/album/6dcJQL3ZyE6ODjsaibp6fi"
+      },
+      "artists": [
+        {
+          "name": "Pandrezz",
+          "url": "https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC"
+        },
+        {
+          "name": "j'san",
+          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
+        },
+        {
+          "name": "Epektase",
+          "url": "https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Soul Sista",
+      "url": "https://open.spotify.com/track/6tun0i4mdf8qgNXVYxRZRe"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -2435,6 +2467,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "exhale",
+        "url": "https://open.spotify.com/album/6zZLGaivwAi4f5i5DdZe3I"
+      },
+      "artists": [
+        {
+          "name": "knock on wood",
+          "url": "https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "exhale",
+      "url": "https://open.spotify.com/track/57lhljt2lQn9x5hitpDjJ5"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "timestamp",
         "url": "https://open.spotify.com/album/1H1ze2V9V1NV9yEi6sdnOh"
       },
@@ -2507,66 +2555,6 @@
       "duration_ms": 128000,
       "name": "golota",
       "url": "https://open.spotify.com/track/1dmaAgL4fAmVdAouTVGThj"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Coffee Beats",
-        "url": "https://open.spotify.com/album/3goNpzRpK4nIJr9vIMF3Ks"
-      },
-      "artists": [
-        {
-          "name": "EMERLD",
-          "url": "https://open.spotify.com/artist/4u3lbIhbrOqejxRJhK6Wjp"
-        },
-        {
-          "name": "Buuda",
-          "url": "https://open.spotify.com/artist/23wfDzAGsBklQCozMdlnCy"
-        }
-      ],
-      "duration_ms": 153417,
-      "name": "Sesame",
-      "url": "https://open.spotify.com/track/2ZDZ4XT0yFmC5kEACI2pwV"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Atrial",
-        "url": "https://open.spotify.com/album/0ocGMEBjbt7k646wJ7vYxt"
-      },
-      "artists": [
-        {
-          "name": "Melatone",
-          "url": "https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr"
-        },
-        {
-          "name": "Howden",
-          "url": "https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi"
-        }
-      ],
-      "duration_ms": 137879,
-      "name": "Atrial",
-      "url": "https://open.spotify.com/track/2E2MwUbN2TG9sfMYMVygHs"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "The Art of Chilling, Vol. 2",
-        "url": "https://open.spotify.com/album/5fQUFkVsUUBoLPTc2j9mlp"
-      },
-      "artists": [
-        {
-          "name": "The BREED",
-          "url": "https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k"
-        },
-        {
-          "name": "Shuko",
-          "url": "https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10"
-        }
-      ],
-      "duration_ms": 153253,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/5DQ0QCjMsFzIfdhGHtlamp"
     }
   ],
   "unique_name": "lofi cool down",

@@ -36,10 +36,48 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 153015,
       "name": "A Distant Land to Roam",
       "url": "https://open.spotify.com/track/06qDaLk1pCIRiOuOW5R2gM"
+    },
+    {
+      "album": {
+        "name": "Mighty Poplar",
+        "url": "https://open.spotify.com/album/7gtQTBomZ4zTjPPLQwKKc6"
+      },
+      "artists": [
+        {
+          "name": "Mighty Poplar",
+          "url": "https://open.spotify.com/artist/4cMlQtVLzOm9cr200ALzSD"
+        },
+        {
+          "name": "Andrew Marlin",
+          "url": "https://open.spotify.com/artist/0NTdGJGpVrNdeTM5QNRoaL"
+        },
+        {
+          "name": "Noam Pikelny",
+          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
+        },
+        {
+          "name": "Chris Eldridge",
+          "url": "https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW"
+        },
+        {
+          "name": "Alex Hargreaves",
+          "url": "https://open.spotify.com/artist/6Qs9gY94XdjfCCTL8dRQ3P"
+        },
+        {
+          "name": "Greg Garrison",
+          "url": "https://open.spotify.com/artist/1Wzl4iYvY9UIWZFQgUhrdJ"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153015,
+      "name": "A Distant Land to Roam",
+      "url": "https://open.spotify.com/track/1uQzdxrc2evBl01u1C51xz"
     },
     {
       "album": {
@@ -1870,10 +1908,32 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 210226,
       "name": "Firewood",
       "url": "https://open.spotify.com/track/19e3bfpKwSnvw4JEFQTihp"
+    },
+    {
+      "album": {
+        "name": "Passages and Partings",
+        "url": "https://open.spotify.com/album/6GdhqVOKnuALlouLCqtZlx"
+      },
+      "artists": [
+        {
+          "name": "April Verch",
+          "url": "https://open.spotify.com/artist/2sWyhLJwYCBTziE9dhsew8"
+        },
+        {
+          "name": "Cody Walters",
+          "url": "https://open.spotify.com/artist/5dh7cV8PwHgi7aw1VN5KZj"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210226,
+      "name": "Firewood",
+      "url": "https://open.spotify.com/track/5wWACwkc0PchNpyBOzE0xx"
     },
     {
       "album": {
@@ -2919,6 +2979,24 @@
     },
     {
       "album": {
+        "name": "Narrow Line",
+        "url": "https://open.spotify.com/album/2r8q2wsnlNchuXp2xiMBSm"
+      },
+      "artists": [
+        {
+          "name": "Mama's Broke",
+          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181666,
+      "name": "Just Pick One",
+      "url": "https://open.spotify.com/track/4M9Yd8XoialyURcvzYrOt7"
+    },
+    {
+      "album": {
         "name": "Just Pick One",
         "url": "https://open.spotify.com/album/5iLEZzs8ZELq9dnK9krazU"
       },
@@ -2930,7 +3008,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 181666,
       "name": "Just Pick One",
       "url": "https://open.spotify.com/track/77TVhN6bb5SGqHDM7wCqPX"
@@ -3450,10 +3528,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 275746,
       "name": "Narrow Line",
       "url": "https://open.spotify.com/track/4aVe8YJwrAfqF4Qo0kyQLn"
+    },
+    {
+      "album": {
+        "name": "Narrow Line",
+        "url": "https://open.spotify.com/album/2r8q2wsnlNchuXp2xiMBSm"
+      },
+      "artists": [
+        {
+          "name": "Mama's Broke",
+          "url": "https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275746,
+      "name": "Narrow Line",
+      "url": "https://open.spotify.com/track/7hBb0sHgARQdhiJUSPNoTs"
     },
     {
       "album": {
@@ -3610,6 +3706,44 @@
     {
       "album": {
         "name": "Mighty Poplar",
+        "url": "https://open.spotify.com/album/7gtQTBomZ4zTjPPLQwKKc6"
+      },
+      "artists": [
+        {
+          "name": "Mighty Poplar",
+          "url": "https://open.spotify.com/artist/4cMlQtVLzOm9cr200ALzSD"
+        },
+        {
+          "name": "Andrew Marlin",
+          "url": "https://open.spotify.com/artist/0NTdGJGpVrNdeTM5QNRoaL"
+        },
+        {
+          "name": "Noam Pikelny",
+          "url": "https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C"
+        },
+        {
+          "name": "Chris Eldridge",
+          "url": "https://open.spotify.com/artist/1jRZEQrI5lbt5SoBtMHmiW"
+        },
+        {
+          "name": "Alex Hargreaves",
+          "url": "https://open.spotify.com/artist/6Qs9gY94XdjfCCTL8dRQ3P"
+        },
+        {
+          "name": "Greg Garrison",
+          "url": "https://open.spotify.com/artist/1Wzl4iYvY9UIWZFQgUhrdJ"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248951,
+      "name": "North Country Blues",
+      "url": "https://open.spotify.com/track/05PnWL4lxRLylX5H0ERfsx"
+    },
+    {
+      "album": {
+        "name": "Mighty Poplar",
         "url": "https://open.spotify.com/album/3aPALouPqCK8gRRU93db6O"
       },
       "artists": [
@@ -3640,7 +3774,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 248951,
       "name": "North Country Blues",
       "url": "https://open.spotify.com/track/3JPeBTQSIgWFrLvjnILQvY"
@@ -3889,6 +4023,32 @@
     },
     {
       "album": {
+        "name": "Imitation Fields",
+        "url": "https://open.spotify.com/album/5rDHRr3fnb2RiFp7Ilv8SU"
+      },
+      "artists": [
+        {
+          "name": "Ben Garnett",
+          "url": "https://open.spotify.com/artist/1vMW79N05EBwxt889CvYFO"
+        },
+        {
+          "name": "Brittany Haas",
+          "url": "https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP"
+        },
+        {
+          "name": "Paul Kowert",
+          "url": "https://open.spotify.com/artist/0qHFEHWL35eEDUNnLiLkrB"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203988,
+      "name": "Open Your Books",
+      "url": "https://open.spotify.com/track/0w0Go4Nv6xejBZ7Y9608Nj"
+    },
+    {
+      "album": {
         "name": "Open Your Books",
         "url": "https://open.spotify.com/album/7uYLTekJ4TB6wIVW5A0ACa"
       },
@@ -3908,7 +4068,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 203988,
       "name": "Open Your Books",
       "url": "https://open.spotify.com/track/3eh1Rviqh3REaX2xWhfOlF"
@@ -4906,10 +5066,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 304362,
       "name": "Starlings",
       "url": "https://open.spotify.com/track/07zf1CPpOq9n29kGYSMzdk"
+    },
+    {
+      "album": {
+        "name": "Imitation Fields",
+        "url": "https://open.spotify.com/album/5rDHRr3fnb2RiFp7Ilv8SU"
+      },
+      "artists": [
+        {
+          "name": "Ben Garnett",
+          "url": "https://open.spotify.com/artist/1vMW79N05EBwxt889CvYFO"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304362,
+      "name": "Starlings",
+      "url": "https://open.spotify.com/track/0CRN5lb66DlXGi59OFyrVf"
     },
     {
       "album": {
@@ -5278,10 +5456,46 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 191002,
       "name": "The Banks of the Miramichi",
       "url": "https://open.spotify.com/track/5j9TbxiYTK3qkJ7aSY7I3D"
+    },
+    {
+      "album": {
+        "name": "Hurricane Clarice",
+        "url": "https://open.spotify.com/album/3TqQrkhhHrnwJQEkS7PSdH"
+      },
+      "artists": [
+        {
+          "name": "Allison de Groot & Tatiana Hargreaves",
+          "url": "https://open.spotify.com/artist/1VEQZsxHsrlZDP7DFsevbe"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191002,
+      "name": "The Banks of the Miramichi",
+      "url": "https://open.spotify.com/track/6Z469cvBHZxTiy7Ye6QRUq"
+    },
+    {
+      "album": {
+        "name": "Imaginary People",
+        "url": "https://open.spotify.com/album/05VOD3O5ApFaTOygdhZo6C"
+      },
+      "artists": [
+        {
+          "name": "Viv & Riley",
+          "url": "https://open.spotify.com/artist/3lRPVZLqNprMmp9SrXrhcp"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298576,
+      "name": "The Blackest Crow",
+      "url": "https://open.spotify.com/track/0S0GpX3D1wBJZh0GTKDv7z"
     },
     {
       "album": {
@@ -5296,7 +5510,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 298576,
       "name": "The Blackest Crow",
       "url": "https://open.spotify.com/track/39mVAaZFF7sOKow1smXC3z"
@@ -6027,6 +6241,24 @@
     },
     {
       "album": {
+        "name": "Place of Growth",
+        "url": "https://open.spotify.com/album/2DZl2dzLBAGWu6H9wNyQyR"
+      },
+      "artists": [
+        {
+          "name": "Hawktail",
+          "url": "https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356561,
+      "name": "Updraft",
+      "url": "https://open.spotify.com/track/1HKT1t2qsl8Z76suZOGBRD"
+    },
+    {
+      "album": {
         "name": "Updraft",
         "url": "https://open.spotify.com/album/3rK9kArUsB3JSYZTo62gCJ"
       },
@@ -6038,7 +6270,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 356561,
       "name": "Updraft",
       "url": "https://open.spotify.com/track/6RMTeqT4f712BeGA6bdlyz"
@@ -6147,6 +6379,28 @@
     },
     {
       "album": {
+        "name": "Riveter",
+        "url": "https://open.spotify.com/album/2oELvsQJrL4W6YvHnoDVnD"
+      },
+      "artists": [
+        {
+          "name": "Sami Braman",
+          "url": "https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre"
+        },
+        {
+          "name": "Brittany Haas",
+          "url": "https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221061,
+      "name": "Weevils in the Grits",
+      "url": "https://open.spotify.com/track/1Dg3PcIeIpsGRlckX8jHEE"
+    },
+    {
+      "album": {
         "name": "Weevils in the Grits",
         "url": "https://open.spotify.com/album/40Yxmocscw8TzoyID1h45C"
       },
@@ -6162,7 +6416,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 221061,
       "name": "Weevils in the Grits",
       "url": "https://open.spotify.com/track/5npvIsHPd35M5JioSnVJHs"

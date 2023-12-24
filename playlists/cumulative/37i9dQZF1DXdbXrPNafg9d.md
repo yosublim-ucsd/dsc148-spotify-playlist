@@ -4,7 +4,7 @@
 
 > The best new music every Friday\. Cover: Still Woozy
 
-6,306 songs - 15 day 8 hr 25 min
+6,307 songs - 15 day 8 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3514,7 +3514,8 @@
 | [Medicine](https://open.spotify.com/track/0CWvHfEwbeBVN0RViTybvL) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle) | 3:49 | 2021-05-22 | 2021-07-17 |
 | [Medicine](https://open.spotify.com/track/1IiJhFnNnvrq4k3x76Mh2n) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Medicine](https://open.spotify.com/album/0eG4o4GCcqspRSVHWbgUW4) | 4:00 | 2020-09-04 | 2020-10-16 |
 | [medicine](https://open.spotify.com/track/483Jj7XXbE0E1mHCxFAYLT) | [Jackson Lundy](https://open.spotify.com/artist/4OJCbpgLBwFKH3kvlvylUn) | [medicine](https://open.spotify.com/album/1X1hRixkpUEWOnfentJlk0) | 2:18 | 2023-07-21 | 2023-08-19 |
-| [Medicine](https://open.spotify.com/track/23k8mKYhjxN5iSw6nxOVkL) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [Medicine](https://open.spotify.com/album/3JqcgkR1T0inYGixFDTmdO) | 4:15 | 2023-12-01 |  |
+| [Medicine](https://open.spotify.com/track/1QWyq6ewUIWZgsyVmzpo0Y) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [Medicine](https://open.spotify.com/album/03bvJDhMjnOOXwqqw3NZ9B) | 4:15 | 2023-12-01 |  |
+| [Medicine](https://open.spotify.com/track/23k8mKYhjxN5iSw6nxOVkL) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [Medicine](https://open.spotify.com/album/3JqcgkR1T0inYGixFDTmdO) | 4:15 | 2023-12-01 | 2023-12-24 |
 | [Medicine](https://open.spotify.com/track/4sINCbrGzO8ycv5qkzxe7d) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [Medicine](https://open.spotify.com/album/34V75CfwJ7raA6wjQDpKPb) | 4:49 | 2023-09-29 | 2023-11-11 |
 | [meek](https://open.spotify.com/track/6rehPCTKlWAAHF9IlZUozx) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [meek](https://open.spotify.com/album/75XQeqVrKbmFkH9ObgDg6u) | 3:17 | 2020-02-14 | 2020-02-28 |
 | [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 | 2023-10-06 | 2023-11-11 |

@@ -4,7 +4,7 @@
 
 > Music from the early days of Ambient.
 
-58 songs - 8 hr 11 min
+61 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Ahoi](https://open.spotify.com/track/13CJ6xGmEhTyMkFBQVGimJ) | [Harmonia](https://open.spotify.com/artist/0tHDVpPzMs1JqKTAuGQkQR) | [Musik Von Harmonia](https://open.spotify.com/album/4rfEDCRHa4TR9EtjHJpWge) | 5:13 | 2021-12-23 | 2022-07-29 |
 | [Ahoi](https://open.spotify.com/track/3d1wCqEBcj5H2IgK9G3YHZ) | [Harmonia](https://open.spotify.com/artist/0tHDVpPzMs1JqKTAuGQkQR) | [Musik von Harmonia](https://open.spotify.com/album/0zgeYyYnRy7Gsedyzt7NpN) | 5:13 | 2022-12-30 |  |
 | [Ahoi](https://open.spotify.com/track/7w94KVag541zZxv9NduePc) | [Harmonia](https://open.spotify.com/artist/0tHDVpPzMs1JqKTAuGQkQR) | [Musik von Harmonia](https://open.spotify.com/album/5uPRvwQy9NmNMeEhgs99bW) | 5:13 | 2022-05-27 | 2023-04-29 |
-| [An Index Of Metals V](https://open.spotify.com/track/6eoQETbC7HlbRUOSQg5rHB) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 4:23 | 2021-12-23 |  |
+| [An Index Of Metals V](https://open.spotify.com/track/4dRt8t0VYP8LgobA1QWUvX) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/1nVnbkq96iZzBMp57Xzx1V) | 4:23 | 2023-12-04 |  |
+| [An Index Of Metals V](https://open.spotify.com/track/6eoQETbC7HlbRUOSQg5rHB) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 4:23 | 2021-12-23 | 2023-12-24 |
 | [Ancient Leaves](https://open.spotify.com/track/1XWKSNngAvp3hs6w3cFWAs) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Collected Ambient & Textural Works 1977\-1987](https://open.spotify.com/album/0qTBGDCJp6R5BraUlhZlXq) | 4:35 | 2021-12-23 |  |
 | [Aries](https://open.spotify.com/track/33Y2YALzXqMQtBVSDcHOof) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Inter\-Dimensional Music](https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr) | 1:31 | 2021-12-23 |  |
 | [Blues Nile](https://open.spotify.com/track/5LUKpbfB65O9GElkJeJZXh) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy) | 9:54 | 2022-12-30 |  |
@@ -53,7 +54,8 @@
 | [Shelob's Lair](https://open.spotify.com/track/5ytw4fxmZLNVeA1AnM6kOF) | [The Nazgûl](https://open.spotify.com/artist/4Kmo61G21FutbSfPFZAl3o) | [The Nazgûl](https://open.spotify.com/album/6wQuZqzSChU04b7geuDXq1) | 12:16 | 2021-12-23 |  |
 | [Strange Light \- Remastered 2005](https://open.spotify.com/track/4aj2jVlgfEhisRdGdxdcoU) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Music For Films](https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07) | 2:09 | 2021-12-23 |  |
 | [Swastika Girls I](https://open.spotify.com/track/6Qi6sqViFIGP77beQoErWU) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [No Pussyfooting](https://open.spotify.com/album/3gHpX5wJn0kzAXJvwORG6u) | 7:32 | 2021-12-23 | 2023-12-14 |
-| [The Heavenly Music Corporation I](https://open.spotify.com/track/4jtmi6X0S8GcPZv7rsqXaL) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [No Pussyfooting](https://open.spotify.com/album/3gHpX5wJn0kzAXJvwORG6u) | 6:17 | 2021-12-23 |  |
+| [The Heavenly Music Corporation I](https://open.spotify.com/track/4jtmi6X0S8GcPZv7rsqXaL) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [No Pussyfooting](https://open.spotify.com/album/3gHpX5wJn0kzAXJvwORG6u) | 6:17 | 2021-12-23 | 2023-12-24 |
+| [The Heavenly Music Corporation I](https://open.spotify.com/track/69mvqf8XQoldmh6RLcvEjb) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [No Pussyfooting](https://open.spotify.com/album/7090pUnNlv1lklI2lI2X6J) | 6:17 | 2023-12-04 |  |
 | [The Walrus Hunt](https://open.spotify.com/track/1LKINMTUrB1iQPmf8QGctA) | [The Residents](https://open.spotify.com/artist/0X7nkgtJrvXcn1W8lN9Mtm) | [Eskimo: pREServed Edition](https://open.spotify.com/album/5ypLXdZQyRO4MrOqg0UZHq) | 3:59 | 2022-05-27 |  |
 | [The Walrus Hunt](https://open.spotify.com/track/7Mk4d10rtE47X30lsdFpyT) | [The Residents](https://open.spotify.com/artist/0X7nkgtJrvXcn1W8lN9Mtm) | [Eskimo](https://open.spotify.com/album/35KluUguaPlKZYMfCem5nu) | 4:01 | 2021-12-23 | 2022-07-29 |
 | [The Yellow Sound](https://open.spotify.com/track/5cHT8gs2bJdPP7QCe0FY0Z) | [Peter Michael Hamel](https://open.spotify.com/artist/4fzLlOozmMPyVBg5o2Sd1j), [Ulrich Kraus](https://open.spotify.com/artist/74mf19TUkc33tHTSL867ip) | [Hamel: Let It Play \- Selected Pieces 1979\-1983](https://open.spotify.com/album/4G8ThDaZc0Z06kivJO97Dd) | 5:26 | 2021-12-23 |  |
@@ -64,7 +66,8 @@
 | [Turó Park](https://open.spotify.com/track/5zmFlMg8bb043U5GXEgTZR) | [Neuronium](https://open.spotify.com/artist/4rs4oFrQ8IvFWoLv1vGGkC) | [Quasar 2C361 / Ultimate edition](https://open.spotify.com/album/24KaFIYNqXoUdORaA03t7b) | 4:20 | 2021-12-23 |  |
 | [Upland](https://open.spotify.com/track/2p092sEjd3oSlgyMwqa6vb) | [Edgar Froese](https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr) | [Aqua](https://open.spotify.com/album/53HKgtgBcAKkBvnIJYBpx7) | 6:41 | 2021-12-23 |  |
 | [Weeping Wall \- 2017 Remaster](https://open.spotify.com/track/56jhj8hHTw3PEoFV74wn5j) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Low \(2017 Remaster\)](https://open.spotify.com/album/2de6LD7eOW8zrlorbS28na) | 3:29 | 2021-12-23 |  |
-| [Wind On Water](https://open.spotify.com/track/3PpLfTKoQtN2s2GPmrSrWt) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 5:29 | 2021-12-23 |  |
+| [Wind On Water](https://open.spotify.com/track/3PpLfTKoQtN2s2GPmrSrWt) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 5:29 | 2021-12-23 | 2023-12-24 |
+| [Wind On Water](https://open.spotify.com/track/6CHo2rZCwJ5v6JKLzdc8Fe) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/1nVnbkq96iZzBMp57Xzx1V) | 5:29 | 2023-12-04 |  |
 | [Wind On Wind](https://open.spotify.com/track/5DiwyUEb7jG8iVOaHYMEgl) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 3:13 | 2021-12-23 |  |
 
 \*This playlist was first scraped on 2022-02-17. Prior content cannot be recovered.

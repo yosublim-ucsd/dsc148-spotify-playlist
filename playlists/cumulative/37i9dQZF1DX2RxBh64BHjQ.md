@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:6qxpnaukVayrQn6ViNvu9I">BigXthaPlug</a>
 
-1,475 songs - 2 day 18 hr 33 min
+1,476 songs - 2 day 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -545,7 +545,8 @@
 | [Havin Fun](https://open.spotify.com/track/5eaT3Qg8dJBD83Y6NOSCiM) | [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz) | [Havin Fun](https://open.spotify.com/album/02Tnpc6luN8SwW8bgFw6Kx) | 2:35 | 2022-09-16 | 2022-10-22 |
 | [Hawks vs\. Bulls](https://open.spotify.com/track/4AIdvuQ1DqqjOJHRjf10nx) | [3xbravo](https://open.spotify.com/artist/0lPZJTNurUF05u2JHm48cH), [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b) | [Hawks vs\. Bulls](https://open.spotify.com/album/2h4rUPmYXOosVnCVX9hUEU) | 2:19 | 2022-01-28 | 2022-03-26 |
 | [Head Doctor \(with Lil Tecca\)](https://open.spotify.com/track/2DcmnusqpMEEVTXQRNhuHc) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Head Doctor \(with Lil Tecca\)](https://open.spotify.com/album/2CjIwPjYtTO8KV3iT0i5DY) | 4:09 | 2023-11-10 |  |
-| [Head Melodies](https://open.spotify.com/track/0AyY8MxDo1xasovQD79Man) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Head Melodies](https://open.spotify.com/album/6re1rqVtyS8MqSe5iKbz9P) | 3:51 | 2023-11-10 |  |
+| [Head Melodies](https://open.spotify.com/track/0AyY8MxDo1xasovQD79Man) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Head Melodies](https://open.spotify.com/album/6re1rqVtyS8MqSe5iKbz9P) | 3:51 | 2023-11-10 | 2023-12-24 |
+| [Head Melodies](https://open.spotify.com/track/4gAJm7FWFn57TodthhA4MK) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Head Melodies](https://open.spotify.com/album/0KtppoaIZmN1DPOt5Z5fEj) | 3:51 | 2023-12-22 |  |
 | [Head Over heels](https://open.spotify.com/track/37SSoPPsbqIdsFqVDff7Ax) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [Head Over heels](https://open.spotify.com/album/4dmFJHgXsQwM3Hny2227wq) | 2:38 | 2023-06-09 | 2023-08-19 |
 | [heartache blues](https://open.spotify.com/track/1wRyDZUQJEMy4qOL3VKWpu) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [E3](https://open.spotify.com/album/1Usfs455Dpte0Rz4ouzaja) | 3:46 | 2023-09-01 | 2023-09-23 |
 | [Heartaches](https://open.spotify.com/track/6RHEIXw8U4SWBda3fxXAXT) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Heartaches](https://open.spotify.com/album/16PP7symx7pyBKDsLFkCDj) | 3:18 | 2022-09-23 | 2022-10-29 |

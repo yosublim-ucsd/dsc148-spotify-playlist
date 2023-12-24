@@ -766,7 +766,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 239765,
       "name": "Fun",
       "url": "https://open.spotify.com/track/4ERC5viMhrZHV9ErLcKzBL"
@@ -788,7 +788,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 202306,
       "name": "Fun (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/6Zo3wgDE076K2AuiGZF3CS"
@@ -1570,10 +1570,28 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 225693,
       "name": "No Part of You",
       "url": "https://open.spotify.com/track/1pbQKVrX2JrKhSpFaPbybg"
+    },
+    {
+      "album": {
+        "name": "2.0",
+        "url": "https://open.spotify.com/album/17CswT0NOi5y8ReJx589aE"
+      },
+      "artists": [
+        {
+          "name": "98\u00ba",
+          "url": "https://open.spotify.com/artist/6V03b3Y36lolYP2orXn8mV"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225693,
+      "name": "No Part of You",
+      "url": "https://open.spotify.com/track/5jGkSsAYEDo5gkew6qvUai"
     },
     {
       "album": {

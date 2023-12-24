@@ -4,7 +4,7 @@
 
 > 
 
-264 songs - 12 hr 39 min
+265 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Hela hatet stormar](https://open.spotify.com/track/7KxxR4leTRgoF36DPyeqDD) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI), [Loke Nyberg](https://open.spotify.com/artist/1SovpimyX6noSdwHMymCIA) | [För Sverige](https://open.spotify.com/album/1qAOtAfBZwnxpU4n1fVzoS) | 3:25 | 2021-12-14 |  |
 | [Herrarna I Sandlådan](https://open.spotify.com/track/0TMfcKnvRgT4n9Xi9VZq2o) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Tecken i tiden](https://open.spotify.com/album/41KuCx8jBaZ4jzsFZRonvO) | 4:10 | 2021-12-14 | 2022-07-29 |
 | [Herrarna I Sandlådan](https://open.spotify.com/track/4LMQqcT7PChwUucFyhyWtY) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Tecken I Tiden](https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd) | 4:10 | 2021-12-14 |  |
-| [Hjärtat](https://open.spotify.com/track/2TRQQ03nz28tjQcq4bHbBO) | [Sekunderna](https://open.spotify.com/artist/7ikQ6J9LX4RYu4IoZpUq8l) | [Hjärtat EP](https://open.spotify.com/album/5KvU4GUvlfD8DI6uRSGZux) | 3:06 | 2023-12-14 |  |
+| [Hjärtat](https://open.spotify.com/track/2TRQQ03nz28tjQcq4bHbBO) | [Sekunderna](https://open.spotify.com/artist/7ikQ6J9LX4RYu4IoZpUq8l) | [Hjärtat EP](https://open.spotify.com/album/5KvU4GUvlfD8DI6uRSGZux) | 3:06 | 2023-12-14 | 2023-12-24 |
 | [Hjärtat](https://open.spotify.com/track/3XTik0pTi7YpPrX4MtsaUi) | [Sekunderna](https://open.spotify.com/artist/7ikQ6J9LX4RYu4IoZpUq8l) | [Hjärtat EP](https://open.spotify.com/album/3mlS9bxC2vrgFrLRnpSx3Z) | 3:06 | 2021-12-14 | 2022-07-21 |
 | [Hodetelefonan På](https://open.spotify.com/track/6pQEYXLrJSk38X6zbO9ru7) | [Astmatisk Gapskratt](https://open.spotify.com/artist/64twHiVznW0wYcoPXzdERx) | [Blackskatecruststreetpopcorepunk](https://open.spotify.com/album/3vXKokfq6aWgoK3BEBzbdn) | 1:54 | 2021-12-14 | 2022-06-06 |
 | [Hon Får...](https://open.spotify.com/track/3Ct9pVOfBcYnGr4NJ4QnSH) | [Dia Psalma](https://open.spotify.com/artist/3CP5sRSk2ExHj3td5pXLrN) | [Gryningstid](https://open.spotify.com/album/1xHfxbBMgFsSwZ5y7HNYdW) | 4:08 | 2021-12-14 | 2022-07-29 |
@@ -242,6 +242,7 @@
 | [Tro Rätt Tro Fel](https://open.spotify.com/track/7CNyBCHfFMRCQRFeTT5r8p) | [Dia Psalma](https://open.spotify.com/artist/3CP5sRSk2ExHj3td5pXLrN) | [Gryningstid](https://open.spotify.com/album/0qSSQ2K5D3Yd0BRkDNItbM) | 3:57 | 2021-12-14 |  |
 | [Troll och häxor](https://open.spotify.com/track/0VsgAzswvCa3J7SWD9liq2) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Le som en fotomodell](https://open.spotify.com/album/4NtpTaduhq45agXOMqMaKE) | 2:10 | 2021-12-14 | 2022-07-29 |
 | [Troll Och Häxor](https://open.spotify.com/track/6ly3rSnZYQqHP6qCVbMuuZ) | [De Lyckliga Kompisarna](https://open.spotify.com/artist/5ZFPmKZWWyfhwTLTDwqZgd) | [Le Som En Fotomodell](https://open.spotify.com/album/1uL0v8dyKzZGeg1gT5QbjV) | 2:10 | 2021-12-14 |  |
+| [Tuffa tjejer](https://open.spotify.com/track/54t6OXb9ULThYhHoluZd1s) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [Bara skiten avtar](https://open.spotify.com/album/3iBrrZEan24fG7L8gEp6mv) | 2:08 | 2023-12-14 |  |
 | [Tuffa tjejer](https://open.spotify.com/track/68piTUx7iztTcalFvaXovc) | [Norra Hospitalet](https://open.spotify.com/artist/45GsgqL3hY5YIJ0FTq7DDM) | [Bara skiten avtar](https://open.spotify.com/album/7oJHyi9KpoJRKH5Ypxarcm) | 2:08 | 2021-12-14 | 2022-07-27 |
 | [Tyst för fan](https://open.spotify.com/track/6NJNjEVI1AU7UYIrUZTd1Y) | [Ebba Grön](https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9) | [Ebba Grön 1978 \- 1982](https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R) | 2:29 | 2021-12-14 |  |
 | [Tänk negativt](https://open.spotify.com/track/0C8VuNSqfWxkwKmVx8Spl9) | [Attentat](https://open.spotify.com/artist/78GFaTPk9W1HfaWvmoRO8n) | [Det blir som det blir](https://open.spotify.com/album/6ejXSnBxHRi9g5HuT1lMfj) | 2:31 | 2023-10-26 |  |

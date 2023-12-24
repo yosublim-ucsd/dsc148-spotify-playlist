@@ -254,6 +254,24 @@
     {
       "album": {
         "name": "Few & Far Between",
+        "url": "https://open.spotify.com/album/1TsOQ7nu8nuEPYTZ3Xx6qK"
+      },
+      "artists": [
+        {
+          "name": "capespring.",
+          "url": "https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213520,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/5XyjPieJxZ3nkaAYotAQ2r"
+    },
+    {
+      "album": {
+        "name": "Few & Far Between",
         "url": "https://open.spotify.com/album/0Jiq0Tpj8SN3rsMhe52RKp"
       },
       "artists": [
@@ -264,7 +282,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 213520,
       "name": "Faith",
       "url": "https://open.spotify.com/track/7412Sp0DWo9Sc70hidP1jw"

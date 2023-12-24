@@ -4,7 +4,7 @@
 
 > Hip\-Hop and Happy Holidays! Cover: Gucci Mane
 
-79 songs - 4 hr 26 min
+81 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,8 +24,9 @@
 | [All I Want for Christmas \(feat\. Kodak Black\)](https://open.spotify.com/track/5YIrN8eiSm9X7uodyoCmCp) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [All I Want for Christmas \(feat\. Kodak Black\)](https://open.spotify.com/album/4r0lhaqoy76x01TKtYoDoy) | 3:54 | 2019-12-20 | 2022-07-29 |
 | [All I Want for Christmas Is You \(feat\. Jermaine Dupri & Lil Bow Wow\) \- So So Def Remix](https://open.spotify.com/track/5EGVmjPN2y1s3hrPcQGqiF) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [Bow Wow](https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA) | [Greatest Hits](https://open.spotify.com/album/5NIt2v0wjaZAXPqOYerldC) | 3:43 | 2019-12-20 |  |
 | [Are U Live](https://open.spotify.com/track/7yP65veNqfCOmc2j6vqmp6) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Valee](https://open.spotify.com/artist/4hRL2QmahOYxXNmNKtG1AI) | [Are U Live](https://open.spotify.com/album/0cjc4cqqrmfuP1SLmvi0vi) | 3:40 | 2022-12-02 | 2023-12-16 |
-| [Ballin' On Xmas](https://open.spotify.com/track/1atC80Kwb6gHOn27dG1qX1) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [A Dipset Christmas](https://open.spotify.com/album/0GfcY3i2aeTqcOxb8i8tLS) | 3:35 | 2019-12-20 |  |
+| [Ballin' On Xmas](https://open.spotify.com/track/1atC80Kwb6gHOn27dG1qX1) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [A Dipset Christmas](https://open.spotify.com/album/0GfcY3i2aeTqcOxb8i8tLS) | 3:35 | 2019-12-20 | 2023-12-24 |
 | [Ballin' On Xmas](https://open.spotify.com/track/4fr1ceHZvZl2kY1GYm6GlJ) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [A Dipset Christmas](https://open.spotify.com/album/4SAE349ZWH6Tyt4hjzW0Do) | 3:35 | 2019-12-20 | 2022-07-29 |
+| [Ballin' On Xmas](https://open.spotify.com/track/5ISPg9yj9cDnj5kOvNgmrz) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [A Dipset Christmas](https://open.spotify.com/album/1AehXvggF5i5OITVscyDPO) | 3:35 | 2023-12-15 |  |
 | [Big Bag](https://open.spotify.com/track/1flloiRJOCenDSSjnuHGln) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Music Inspired by Illumination & Dr\. Seuss' The Grinch](https://open.spotify.com/album/05qQ4Sl7LjxDhZFB1ChVvH) | 1:25 | 2019-12-20 | 2022-12-24 |
 | [BigXmas](https://open.spotify.com/track/5W8a43gnXVrPHdsFjdyfGB) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [BigXmas](https://open.spotify.com/album/374CAh7sWDNDNcAuOH4cOt) | 2:16 | 2023-12-15 |  |
 | [Bungecord Christmas](https://open.spotify.com/track/1aeQUlT3fNViIUNtimzgeK) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy) | [Bungecord Christmas](https://open.spotify.com/album/1TJY1i9QiyYIABj0cPN9po) | 2:09 | 2019-12-20 |  |
@@ -44,8 +45,9 @@
 | [Christmas On A Sunday](https://open.spotify.com/track/4qnryBw1r2DeXA7ZO4JPSc) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Christmas On A Sunday](https://open.spotify.com/album/2WM0nn1vKlDVuwEbidBWpn) | 3:21 | 2022-12-23 | 2023-12-16 |
 | [Christmas Rappin'](https://open.spotify.com/track/1MuEjGAGDw07ZqkuX7ea4O) | [Kurtis Blow](https://open.spotify.com/artist/25TKXk9zo9yk0HMJQ3TuE9) | [20th Century Masters: The Best Of Kurtis Blow](https://open.spotify.com/album/3Ho2zi28ZvsE1j3uKCdMDO) | 3:55 | 2019-12-20 |  |
 | [Christmas Trees](https://open.spotify.com/track/1NAjeuDMkYFhjaA9ATxuUx) | [Lil Duval](https://open.spotify.com/artist/6YiHht3u7FFszle72kpbdQ) | [Christmas Trees](https://open.spotify.com/album/65IO0Gk4mVihvUs5Ol7cTj) | 2:57 | 2019-12-20 |  |
-| [Dipset X\-mas Time](https://open.spotify.com/track/5Ka1tMdg4EMf0EnjraSbV3) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [A Dipset Christmas](https://open.spotify.com/album/0GfcY3i2aeTqcOxb8i8tLS) | 4:01 | 2019-12-20 |  |
+| [Dipset X\-mas Time](https://open.spotify.com/track/5Ka1tMdg4EMf0EnjraSbV3) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [A Dipset Christmas](https://open.spotify.com/album/0GfcY3i2aeTqcOxb8i8tLS) | 4:01 | 2019-12-20 | 2023-12-24 |
 | [Dipset X\-mas Time](https://open.spotify.com/track/5TiZO9v3hLqILmfatAJMV0) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [A Dipset Christmas](https://open.spotify.com/album/4SAE349ZWH6Tyt4hjzW0Do) | 4:01 | 2019-12-20 | 2022-07-29 |
+| [Dipset X\-mas Time](https://open.spotify.com/track/5zc0SK5YxNWsIHWr7YxJaR) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [A Dipset Christmas](https://open.spotify.com/album/1AehXvggF5i5OITVscyDPO) | 4:01 | 2023-12-15 |  |
 | [For Christmas](https://open.spotify.com/track/3wDiFajnQ1hxMP8nQ8vaTc) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd) | [For Christmas](https://open.spotify.com/album/1IGfaD2okQY6fy0ONciDhn) | 2:53 | 2023-12-15 |  |
 | [Ghostface X\-mas](https://open.spotify.com/track/7mgv7UKlHR6Mv8DWSDivi7) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [GhostDeini The Great \(Bonus Tracks\)](https://open.spotify.com/album/0L1Qq8en6hODRCgaAfTBAq) | 3:02 | 2019-12-20 |  |
 | [Ho Ho Ho \- Dirty Christmas](https://open.spotify.com/track/4n3HlzRZxEwxqHXADt758Y) | [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [Ho Ho Ho \(Dirty Christmas\)](https://open.spotify.com/album/7A35Sr7YgnUhANiQ6QYhUq) | 3:14 | 2019-12-20 |  |

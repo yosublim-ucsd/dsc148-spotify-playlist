@@ -4,7 +4,7 @@
 
 > Soft and cozy acoustic covers of famous songs.
 
-440 songs - 23 hr 50 min
+441 songs - 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [America](https://open.spotify.com/track/67VbIy5GGBaoXjNtWXLBS6) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [America](https://open.spotify.com/album/2t8ahnWq9Ni1bO7U1VTEW3) | 4:03 | 2022-10-26 | 2022-11-13 |
 | [America](https://open.spotify.com/track/7AH9uEJp62zFAs2E8hvqEk) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/092lxslMDdtfsPBfQ80vWH) | 4:03 | 2023-03-09 | 2023-04-14 |
 | [Angel](https://open.spotify.com/track/30kLC24uAzd0WJCyutcV0t) | [Justin Morgan](https://open.spotify.com/artist/3IISF9rnh262yHTqtzf6fw) | [Angel](https://open.spotify.com/album/5SOx3JrYf5fHDde9CscIDw) | 3:39 | 2021-03-11 | 2023-02-18 |
+| [Annie's Song](https://open.spotify.com/track/4h9CzV7GXMnSHNixqohbRG) | [Cameron Payne](https://open.spotify.com/artist/60gG6AmEKOQO5Iyqp6zSOi) | [Annie's Song](https://open.spotify.com/album/73j61rcmWeO9411zZkUQcX) | 2:47 | 2023-12-15 |  |
 | [Anti\-Hero](https://open.spotify.com/track/4RcpUHWXC8lgTNyitAFO9m) | [Sighting](https://open.spotify.com/artist/3x07rVFUC4H4vTKfDMpXTE) | [Anti\-Hero](https://open.spotify.com/album/6GT70Pr0BdBT9wWM2wsyZm) | 3:43 | 2022-11-25 |  |
 | [Anyone](https://open.spotify.com/track/3SbLU4hAQHmdvHFDMVhAf9) | [Reason](https://open.spotify.com/artist/1afLcYZN3PBlA09Bw2P6e6) | [Anyone](https://open.spotify.com/album/2cPbdPF0OhQXxL6PFbXbxg) | 3:08 | 2022-08-31 |  |
 | [Arcade](https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Arcade](https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62) | 2:28 | 2022-08-31 |  |
@@ -244,7 +245,7 @@
 | [Kiss An Angel Good Mornin'](https://open.spotify.com/track/3RAqqEjitdBdItCphiZAdQ) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Kiss An Angel Good Mornin'](https://open.spotify.com/album/4UubPvWcnV1C4zxFQgC895) | 2:44 | 2023-10-27 |  |
 | [Kissing Other People \- Acoustic](https://open.spotify.com/track/0Otf6MBWU5vOqlwCl1ZIZY) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Kissing Other People \(Acoustic\)](https://open.spotify.com/album/1OkuJQhcqBAbxBD7Hbhi0T) | 3:12 | 2021-03-11 |  |
 | [La La Land \- Acoustic](https://open.spotify.com/track/1sMi8ywnrNKysixM34zH9W) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [La La Land EP](https://open.spotify.com/album/2UfIYmCJf5pvhiaYH8X0fK) | 2:17 | 2021-03-11 | 2022-09-01 |
-| [Last Night](https://open.spotify.com/track/1dHa5Z7tEurFuZUaySS749) | [IOLITE](https://open.spotify.com/artist/0q7Qi8uhdkTZL369raJ4NF) | [Last Night](https://open.spotify.com/album/4rVEM2O5IsozLPU2u86TR3) | 3:07 | 2023-05-12 |  |
+| [Last Night](https://open.spotify.com/track/1dHa5Z7tEurFuZUaySS749) | [IOLITE](https://open.spotify.com/artist/0q7Qi8uhdkTZL369raJ4NF) | [Last Night](https://open.spotify.com/album/4rVEM2O5IsozLPU2u86TR3) | 3:07 | 2023-05-12 | 2023-12-24 |
 | [Lasting Lover \- Acoustic](https://open.spotify.com/track/0TGU6ELkO9MRv7aHL3QVrl) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Lasting Lover \(Acoustic\)](https://open.spotify.com/album/5PYU16itHJWh7q7AoI5xv4) | 3:52 | 2021-03-11 | 2022-11-26 |
 | [Latch](https://open.spotify.com/track/17h05SukjWjPCNWAENwW8U) | [Mel & Macy](https://open.spotify.com/artist/332dMuxyefYaTqoo3k7oVk) | [Latch](https://open.spotify.com/album/1QsdrtvYuAKSDuSyW1VikU) | 3:17 | 2023-06-22 |  |
 | [Lavender Haze](https://open.spotify.com/track/0MqOE4bDEgNBsQi9y8kcZ1) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Lavender Haze](https://open.spotify.com/album/2UnNi9S9CxDFLxrbyiGoHI) | 3:43 | 2023-01-04 | 2023-10-28 |

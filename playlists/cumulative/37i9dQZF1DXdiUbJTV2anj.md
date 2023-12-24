@@ -4,7 +4,7 @@
 
 > Heavy new bands you need to have an eye on\. Cover: Static Dress
 
-187 songs - 10 hr 45 min
+188 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Cathedrals of Blood \(Twilight of the Idols\)](https://open.spotify.com/track/7tyqpGsyDgCTL8EOcqhJt5) | [Phobophilic](https://open.spotify.com/artist/1cdxNUejlVcTwgWocqB3eF) | [Enveloping Absurdity](https://open.spotify.com/album/0ULfAaYkPeQfu3f64qNiuy) | 4:15 | 2022-09-16 | 2023-03-25 |
 | [Chains](https://open.spotify.com/track/1Rb9fJlTrtaSsdej39f3HS) | [Black Coast](https://open.spotify.com/artist/4Op2pnzbOze0T6HSejf6dL) | [Chains](https://open.spotify.com/album/4iKN4OU3KuzUfyAl4BfQcF) | 3:20 | 2023-03-24 |  |
 | [Chlorine Tears](https://open.spotify.com/track/554OCcyd1Q3O7bDXNdRZjS) | [Foreign Hands](https://open.spotify.com/artist/09RKiiT2NAJ7qYoAGOYu9w) | [Chlorine Tears](https://open.spotify.com/album/7uk1TiN9BcMF8iL9amIteu) | 3:57 | 2022-08-26 | 2023-03-03 |
-| [Cliffhanger](https://open.spotify.com/track/6s7W6LpXeL6MXNSwbXr772) | [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG) | [Memory Theater](https://open.spotify.com/album/6Lj1gahDRuya3EGF23KVSr) | 2:36 | 2023-01-06 |  |
+| [Cliffhanger](https://open.spotify.com/track/3Ulrp2jJIlDkShwJxgOU4G) | [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG) | [Memory Theater](https://open.spotify.com/album/5KQsHKT1HWEWKND1eEmDj1) | 2:36 | 2023-06-20 |  |
+| [Cliffhanger](https://open.spotify.com/track/6s7W6LpXeL6MXNSwbXr772) | [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG) | [Memory Theater](https://open.spotify.com/album/6Lj1gahDRuya3EGF23KVSr) | 2:36 | 2023-01-06 | 2023-12-24 |
 | [Coalescence](https://open.spotify.com/track/56s2fd2wlu2jt5hP1kopEl) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Profound Morality](https://open.spotify.com/album/5LDm7EQU04NgEHiLF2beaB) | 3:13 | 2022-08-19 | 2023-03-25 |
 | [Counterfeit](https://open.spotify.com/track/5o04G6JWxQAQGW572GHTNP) | [Light the Fire](https://open.spotify.com/artist/6owzEX6EkLOvsZ66rcDk89) | [Counterfeit](https://open.spotify.com/album/5dkKMssRd8njxBgTQZkYRp) | 3:03 | 2022-07-29 | 2022-08-27 |
 | [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/track/5tX8mfhO1TJ0ItMtswEYNO) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi), [World of Pleasure](https://open.spotify.com/artist/3SR0KKxXYspg7mJwSUsGBb) | [Rouge Carpet Disaster \(Redux\)](https://open.spotify.com/album/4KNlsuhwErf5tjp1qh3iCn) | 2:55 | 2023-05-18 |  |

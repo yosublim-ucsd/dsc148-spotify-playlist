@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo \u2728 en un vibe con Jesse Baez.",
-  "num_followers": 761165,
+  "num_followers": 761170,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTA4N2JlOTc3MDc5OGIxOGM4YzFiYmRhZjE2OGViNjg2YWYwZDZj",
+  "snapshot_id": "MCw2NGM2NDIxNjBhNDM3ZTA4YWE5ZWJjM2EyZGQyMWE0OTlmOTBiM2Fh",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Para Mi",
-        "url": "https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 267953,
-      "name": "Para Mi",
-      "url": "https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Dices me Extra\u00f1as",
         "url": "https://open.spotify.com/album/5aa2a3dA2ZfTey8tdefrX0"
       },
@@ -399,6 +383,38 @@
       "duration_ms": 292317,
       "name": "Dices me Extra\u00f1as",
       "url": "https://open.spotify.com/track/1WzaBfhfVLDLqAEYf3pfrH"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
+        "url": "https://open.spotify.com/album/3VHlIVQ2x7vQbilMR42c9q"
+      },
+      "artists": [
+        {
+          "name": "st. Pedro",
+          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
+        }
+      ],
+      "duration_ms": 178630,
+      "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
+      "url": "https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Para Mi",
+        "url": "https://open.spotify.com/album/4EN6HX2xApPwC7nA7FjI7k"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 267953,
+      "name": "Para Mi",
+      "url": "https://open.spotify.com/track/3mUPsqEeq0GoIv1wSuivqf"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -447,22 +463,6 @@
       "duration_ms": 133333,
       "name": "M\u00edralo",
       "url": "https://open.spotify.com/track/4IKSehYf4e9tjijDSZHQF2"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
-        "url": "https://open.spotify.com/album/3VHlIVQ2x7vQbilMR42c9q"
-      },
-      "artists": [
-        {
-          "name": "st. Pedro",
-          "url": "https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK"
-        }
-      ],
-      "duration_ms": 178630,
-      "name": "Dos Extra\u00f1os (Cuarteto de Cuerda)",
-      "url": "https://open.spotify.com/track/4zRB4bTeun0o5YPrLori9v"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "seu carinho",
+        "url": "https://open.spotify.com/album/3HBCoxFZoFkPQayZJD8SKh"
+      },
+      "artists": [
+        {
+          "name": "Santi Muk",
+          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
+        }
+      ],
+      "duration_ms": 159157,
+      "name": "seu carinho",
+      "url": "https://open.spotify.com/track/1YZM7ZwOUhHvT04rf5Bu2c"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Walk On Everything",
         "url": "https://open.spotify.com/album/0b7CilPsEiOZHiGwdyV3bK"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 150236,
       "name": "La Casa De Las Flores",
       "url": "https://open.spotify.com/track/3ivUzc6yLzHuXbS0TBSGC5"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "seu carinho",
-        "url": "https://open.spotify.com/album/3HBCoxFZoFkPQayZJD8SKh"
-      },
-      "artists": [
-        {
-          "name": "Santi Muk",
-          "url": "https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz"
-        }
-      ],
-      "duration_ms": 159157,
-      "name": "seu carinho",
-      "url": "https://open.spotify.com/track/1YZM7ZwOUhHvT04rf5Bu2c"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -915,18 +915,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Gringuita",
-        "url": "https://open.spotify.com/album/3yoLKFEw3Ukn9l9np8JCrV"
+        "name": "Bolero Apocal\u00edptico (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6TLARwYU6FpUDAA3nxtKM0"
       },
       "artists": [
         {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
         }
       ],
-      "duration_ms": 160522,
-      "name": "Gringuita",
-      "url": "https://open.spotify.com/track/70tGXVBJJggvYRgnDabwlb"
+      "duration_ms": 262853,
+      "name": "En La Oscuridad",
+      "url": "https://open.spotify.com/track/69UvsEF4Kah8cbACRyREqF"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -947,22 +951,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Bolero Apocal\u00edptico (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6TLARwYU6FpUDAA3nxtKM0"
+        "name": "Gringuita",
+        "url": "https://open.spotify.com/album/3yoLKFEw3Ukn9l9np8JCrV"
       },
       "artists": [
         {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        },
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
         }
       ],
-      "duration_ms": 262853,
-      "name": "En La Oscuridad",
-      "url": "https://open.spotify.com/track/69UvsEF4Kah8cbACRyREqF"
+      "duration_ms": 160522,
+      "name": "Gringuita",
+      "url": "https://open.spotify.com/track/70tGXVBJJggvYRgnDabwlb"
     },
     {
       "added_at": "2023-12-15 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: なとり \*👉 <a href="https://spice.eplus.jp/articles/324821?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,746 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,812 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 79 | [飛龍\-FeiLong\-](https://open.spotify.com/track/3sE7WksvGo4r2gycSVQouZ) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [飛龍\-FeiLong\-](https://open.spotify.com/album/4iuekehbseN4nIpu7eRZb3) | 3:03 |
 | 80 | [Ashibi Shongane](https://open.spotify.com/track/7clfeWpxZ1Wjq77VlweqiN) | [ORIONBEATS](https://open.spotify.com/artist/5hixBKi8QWh0QVexx69CgI), [Ayanoize](https://open.spotify.com/artist/6xCcuss1kqrQz8dJ2PhLUl) | [Ashibi Shongane](https://open.spotify.com/album/1nYJgjQkCeiKRwmlRN7FTk) | 3:35 |
 
-Snapshot ID: `MCxlNGQyOTIxYjA2MWRkNzg1ZjI2NjE1OWM4NGQyYTA2NzA5MzBkMjkw`
+Snapshot ID: `MCw3OWNkNWE3ZTE0OGRmMmFmMjJmYjEyZGNiZjIzZmM1MDE1NWZlYzk0`

@@ -4,7 +4,7 @@
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-219 songs - 15 hr 45 min
+220 songs - 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,8 @@
 | [New Lives \- Radio Edit](https://open.spotify.com/track/0UBFcH7kXYQ8GiPvuHFKJJ) | [Michael Cates](https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A) | [New Lives \(Radio Edit\)](https://open.spotify.com/album/7iVn7hAbIRliWQUp7d1808) | 4:11 | 2023-07-28 |  |
 | [Nightfall](https://open.spotify.com/track/6bGPsVqyQyTs1QPus8AFAP) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Sami Turunen](https://open.spotify.com/artist/2xLnJ9osiiSOHRiJT28qiO), [Strat Carter](https://open.spotify.com/artist/4xBUsH1MTjkIJ70brUkFSx) | [Nightfall](https://open.spotify.com/album/0iQgv8ZvUhQlNylLYRfFJ7) | 3:07 | 2022-04-15 |  |
 | [No Shade](https://open.spotify.com/track/6E94ZUOgN9UazkFmGxEu5q) | [Isaac Norris](https://open.spotify.com/artist/7Jk3V5UnyugLjWSQ0Knt0G) | [No Shade](https://open.spotify.com/album/6Q8xVgUdOXmVC8tajioGQw) | 4:08 | 2021-10-08 |  |
-| [Nothing Ever Hurt Like You \- Smooth Summer Soul Mix](https://open.spotify.com/track/0H98E4Y8MnrfrrcBgk5yIZ) | [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4) | [Nothing Ever Hurt Like You \(Smooth Summer Soul Mix\)](https://open.spotify.com/album/1SqfQP57uSElTr0IhCAZLe) | 4:10 | 2022-08-12 |  |
+| [Nothing Ever Hurt Like You \- Smooth Summer Soul Mix](https://open.spotify.com/track/0H98E4Y8MnrfrrcBgk5yIZ) | [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4) | [Nothing Ever Hurt Like You \(Smooth Summer Soul Mix\)](https://open.spotify.com/album/1SqfQP57uSElTr0IhCAZLe) | 4:10 | 2022-08-12 | 2023-12-24 |
+| [Nothing Ever Hurt Like You \- Smooth Summer Soul Mix](https://open.spotify.com/track/6TAATqAHyPTdxzTtM96aRP) | [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4) | [Nothing Ever Hurt Like You \(Smooth Summer Soul Mix\)](https://open.spotify.com/album/0LULb4JiMIQQjlkGMVivjF) | 4:10 | 2022-08-26 |  |
 | [Off The Hook](https://open.spotify.com/track/3MxfsAOPmO6aL4Rv2PtGej) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre) | [Everything Must Change](https://open.spotify.com/album/5VeEiF0EOUkSiVP4AdiCRc) | 3:57 | 2021-07-12 | 2022-07-29 |
 | [On The Move](https://open.spotify.com/track/2Q6XPRLwgglQSYVAoCRaEI) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [On The Move](https://open.spotify.com/album/4pBNj3JonyIgHr9VBzjUUS) | 4:10 | 2021-08-13 |  |
 | [On the Uptown](https://open.spotify.com/track/7063cn4EtVAdrnMP4RzpDT) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Twice As Nice](https://open.spotify.com/album/5qhN4XroM8EXopUNSmq4Vi) | 4:01 | 2021-07-12 |  |

@@ -4,7 +4,7 @@
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-181 songs - 12 hr 35 min
+183 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Every Time We Say Goodbye](https://open.spotify.com/track/1Ka7lYWoj2t7PHbOXjls3W) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [Ballads: Remembering John Coltrane](https://open.spotify.com/album/5z4JBgjuPRJa0o3KFmWAOp) | 6:01 | 2019-05-26\* | 2022-07-29 |
 | [Everytime We Say Goodbye](https://open.spotify.com/track/1Bh6O68WlWPtnm7aFIJBHL) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [Ballads](https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs) | 6:01 | 2022-06-22 |  |
 | [First Time](https://open.spotify.com/track/2Um1CzJYNjxvNZZWHiMXtA) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stripped](https://open.spotify.com/album/78qI1KR0g7JiLB3mc2WXYz) | 4:11 | 2019-05-26\* | 2022-07-29 |
-| [First Time](https://open.spotify.com/track/2km0Pwo18ZINnBh67fgRA3) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stripped](https://open.spotify.com/album/0e4r5RngHsRWXwUdifziDt) | 4:11 | 2022-09-13 |  |
+| [First Time](https://open.spotify.com/track/2km0Pwo18ZINnBh67fgRA3) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stripped](https://open.spotify.com/album/0e4r5RngHsRWXwUdifziDt) | 4:11 | 2022-09-13 | 2023-12-24 |
+| [First Time](https://open.spotify.com/track/2sTr8pJwET8lswcaE3fdQz) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Stripped](https://open.spotify.com/album/4qOu8iLW8LyrX1MVm393P6) | 4:11 | 2023-12-19 |  |
 | [Fly Me To The Moon \(In Other Words\)](https://open.spotify.com/track/62GvdrqHOfjm9g99TwS27F) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Liquid Spirit \(Special Edition\)](https://open.spotify.com/album/0a57tzUjhhMarTkr7RI002) | 2:42 | 2022-05-02 | 2022-10-05 |
 | [Fools Rush In \(Where Angels Fear To Tread\)](https://open.spotify.com/track/4mxR3iB1bvDEUsSuFLeIWF) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Colin Oxley](https://open.spotify.com/artist/6Qs92KB5NHAzQ3NsLfZ6qs), [David Newton](https://open.spotify.com/artist/3ecO9MnClCeQeRCPLzAEgy), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq), [Simon Thorpe](https://open.spotify.com/artist/73R87wFxKX8jZu9zdfFSmm), [Steve Brown](https://open.spotify.com/artist/7DLSRkdZGUdCN98UT44PAd) | [Love Is..\. The Tender Trap](https://open.spotify.com/album/0BnOXskh6wArTePmqEGIfs) | 4:43 | 2022-05-02 |  |
 | [For All We Know](https://open.spotify.com/track/2nixpMsReC7Pwwfanpk7IZ) | [Mandy Barnett](https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO) | [For All We Know](https://open.spotify.com/album/7ox83NOG8GAo9qGavP8aQb) | 2:53 | 2021-03-01 | 2022-07-11 |
@@ -88,7 +89,7 @@
 | [It Had to Be You \(with Michael Bublé\)](https://open.spotify.com/track/3tRdPcBfIQrJnadxPuVoMJ) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Partners](https://open.spotify.com/album/1IgRzhudBVPtta2jDVa1en) | 4:22 | 2022-06-22 | 2022-12-01 |
 | [It's Always You](https://open.spotify.com/track/0rWS1OheLM9jpGznNwyrEj) | [Susie Arioli](https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9), [Jordan Officer](https://open.spotify.com/artist/3WaxIOxGHCCrhx840jEGuL) | [All the Way \(feat\. Jordan Officer\)](https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb) | 2:52 | 2022-05-02 |  |
 | [It's Gonna Happen Tonight](https://open.spotify.com/track/2QcUiQ9NBgHJdX9sGQVaAp) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [It's Gonna Happen Tonight](https://open.spotify.com/album/4wRIv7VL7bUq6gOvccx0DU) | 3:16 | 2021-07-04 | 2023-08-25 |
-| [Keep Me From The Cold](https://open.spotify.com/track/0rBzGuDtwP8wIdqIXOKQFE) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [This Life](https://open.spotify.com/album/467pFPjzinmDVtcXSGZM1J) | 4:43 | 2022-09-13 |  |
+| [Keep Me From The Cold](https://open.spotify.com/track/0rBzGuDtwP8wIdqIXOKQFE) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [This Life](https://open.spotify.com/album/467pFPjzinmDVtcXSGZM1J) | 4:43 | 2022-09-13 | 2023-12-24 |
 | [Keep Me From The Cold](https://open.spotify.com/track/7nTc8LOMcVoYJAbhV9dD2z) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [Keep Me From The Cold](https://open.spotify.com/album/4Y9uQddBrMS2hj3r2kXHOv) | 4:43 | 2021-12-03 | 2022-07-28 |
 | [L\-O\-V\-E](https://open.spotify.com/track/1shrhyVVd0fHk6PoC3kx7j) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Turn Up The Quiet](https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv) | 4:20 | 2022-08-17 | 2023-08-25 |
 | [L\-O\-V\-E](https://open.spotify.com/track/06V4dX5wFakgvxaOaOIkOV) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Nat "King" Cole & Me](https://open.spotify.com/album/68XMYcFR8GebAgWi2zkT6u) | 2:08 | 2022-06-22 |  |
@@ -146,6 +147,7 @@
 | [Photograph](https://open.spotify.com/track/2XDNzwJkyFfqqnc1FP8UJg) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [I Know I Dream: The Orchestral Sessions \(Deluxe Version\)](https://open.spotify.com/album/02o5Ry59Ocv0UskowTlrlZ) | 6:09 | 2022-10-11 |  |
 | [Prelude to a Kiss](https://open.spotify.com/track/60wOZ1b6EFfnSa4eXyLDwl) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [In the Moonlight](https://open.spotify.com/album/4fxUiKusGBrkfnP7t5WoL5) | 4:35 | 2019-05-26\* | 2022-07-22 |
 | [Prelude To A Kiss](https://open.spotify.com/track/16An9cGPQGi1W8s19ZdL87) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [In The Moonlight](https://open.spotify.com/album/3ZKm6JVnkkQiX5OTuNQElL) | 4:36 | 2022-09-13 | 2023-12-23 |
+| [Prelude To A Kiss](https://open.spotify.com/track/5gsuqMi0o2UFbZJQpCThZ2) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [In The Moonlight](https://open.spotify.com/album/1vCxmcWBVeYwoBPZAD1zjc) | 4:36 | 2023-12-19 |  |
 | [Save Your Love For Me](https://open.spotify.com/track/4gx7UBlipR1ZAkJq2d36Mr) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Around The City](https://open.spotify.com/album/2kbn1xuLBYfxgsZbaIxzGO) | 4:00 | 2022-05-02 |  |
 | [Smile](https://open.spotify.com/track/1LNWh23vkQZeQkc5ogC3TP) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Nat "King" Cole & Me \(Deluxe\)](https://open.spotify.com/album/3Qj26cbCEuBwA9UHDQwppO) | 4:17 | 2022-06-22 | 2023-01-18 |
 | [Smile](https://open.spotify.com/track/3CPhIqN93yTKFdAKSo3FXh) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Smile](https://open.spotify.com/album/4knZD1tqBLuQv3VkT8JCLP) | 4:17 | 2019-05-26\* | 2022-07-29 |

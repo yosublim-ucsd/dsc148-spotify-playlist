@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف:<a href="https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52?si=v7EAopWETMqME3LXKcLsdw">  مصطفى حجاج </a>
 
-233 songs - 17 hr 26 min
+234 songs - 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Kolak Agebny](https://open.spotify.com/track/1mBQMkL8NOQ0akkTr8kqba) | [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [Kolak Agebny](https://open.spotify.com/album/7bDP2wd3ijXZIARnkpOWMm) | 6:24 | 2021-12-16 | 2022-12-21 |
 | [Kollo Shmal](https://open.spotify.com/track/0Y1xET6NicWkYTnrKtFv4v) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52), [Wagih Elaspany](https://open.spotify.com/artist/0AJIecs3dW9ALRevRVAPfs) | [Kollo Shmal](https://open.spotify.com/album/72OIxMzGUrFbsxzhC655QW) | 3:51 | 2021-12-16 | 2022-07-27 |
 | [Kolo Rah](https://open.spotify.com/track/6C5DOnAWpXh3do5wpXyGg7) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Kolo Rah](https://open.spotify.com/album/4OzNGm3meIPIHdvfPwYmER) | 4:31 | 2022-02-10 | 2022-10-08 |
+| [Law Nasafni Ez Zaman](https://open.spotify.com/track/01sbp3Job06xunweuDmeP9) | [Faisal Abdulkareem](https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK) | [Law Nasafni Ez Zaman](https://open.spotify.com/album/0gJ7hB8tOSpccIabnVSWd3) | 4:23 | 2023-12-23 |  |
 | [Ma Tefrahoush](https://open.spotify.com/track/3v2n89Farb1ft281eNbAsY) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [Had Yeshtery Alb](https://open.spotify.com/album/6Psz3Qbb1dxxNDaWITkMWf) | 5:40 | 2021-12-16 | 2021-12-30 |
 | [Ma'alem](https://open.spotify.com/track/1A3StHwevJ44EqCJZST3c8) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Ma'alem](https://open.spotify.com/album/548fUzS5czPUPtUI3M7yMy) | 3:36 | 2022-12-20 | 2023-08-03 |
 | [Makany Mesh Hena](https://open.spotify.com/track/4EEDnIppGuHF0Z2iRc2Jjk) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [Makany Mesh Hena](https://open.spotify.com/album/7y3MOSdl3YEghIHel9lVCE) | 3:43 | 2021-12-30 | 2022-12-01 |

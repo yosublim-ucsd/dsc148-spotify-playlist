@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,995 likes - 99 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,024 likes - 99 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 98 | [Stand Up](https://open.spotify.com/track/3wOQQaIfJtmWZHDyS6qTRz) | [Raz Fresco](https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC), [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [777](https://open.spotify.com/album/2O7VQiUdIl95INCJ4yJfdl) | 2:28 |
 | 99 | [Sydanie's Interlude](https://open.spotify.com/track/2qKCqLhfrmT9E6JxIVp8Mx) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Sydanie](https://open.spotify.com/artist/20ufdufFoqPElQAOMGDyJG) | [INFINITY CLUB](https://open.spotify.com/album/3iZjJHvvL04Adbtt6hMiJR) | 2:30 |
 
-Snapshot ID: `MCw0NTNiZGU5ZGQ0NGZjMTQ4NDJjZDQ4ZDgwOGYwMDIzMjk1ZDEyZWM3`
+Snapshot ID: `MCxmOWQwYTAyNmJiMWI2ZjRkMTI3NTg0NjkyZDg4NGRhNDk2M2FkMWUz`

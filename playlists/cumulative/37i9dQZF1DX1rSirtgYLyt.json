@@ -46,6 +46,24 @@
     {
       "album": {
         "name": "All Blues'd Up: Songs of the Rolling Stones",
+        "url": "https://open.spotify.com/album/202sAEHP90qOJ4wFQF5RO9"
+      },
+      "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357000,
+      "name": "(I Can't Get No) Satisfaction",
+      "url": "https://open.spotify.com/track/1I5jLwvivYrmAwgjCmlUki"
+    },
+    {
+      "album": {
+        "name": "All Blues'd Up: Songs of the Rolling Stones",
         "url": "https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M"
       },
       "artists": [
@@ -56,7 +74,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 357000,
       "name": "(I Can't Get No) Satisfaction",
       "url": "https://open.spotify.com/track/4HTF7QhXhZQyuowEaGAiBl"
@@ -278,6 +296,24 @@
     {
       "album": {
         "name": "All Blues'd Up: Songs of the Rolling Stones",
+        "url": "https://open.spotify.com/album/202sAEHP90qOJ4wFQF5RO9"
+      },
+      "artists": [
+        {
+          "name": "The Holmes Brothers",
+          "url": "https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290000,
+      "name": "Beast of Burden",
+      "url": "https://open.spotify.com/track/0lAmuKUti1Z6xxSr2EDOhb"
+    },
+    {
+      "album": {
+        "name": "All Blues'd Up: Songs of the Rolling Stones",
         "url": "https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M"
       },
       "artists": [
@@ -288,7 +324,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 290000,
       "name": "Beast of Burden",
       "url": "https://open.spotify.com/track/3MW8e0Lh1d53pVY3Tnd8ac"
@@ -982,10 +1018,28 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 283000,
       "name": "Honky Tonk Woman",
       "url": "https://open.spotify.com/track/0AZFM3GlyErGyoyoK5zxQP"
+    },
+    {
+      "album": {
+        "name": "Blue Light Boogie",
+        "url": "https://open.spotify.com/album/1J3Bwh7djkDDsc0Jki9ssY"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279066,
+      "name": "Honky Tonk Women",
+      "url": "https://open.spotify.com/track/5Msi6Z4xZ86nd3JB1PnW8G"
     },
     {
       "album": {
@@ -1435,6 +1489,24 @@
     },
     {
       "album": {
+        "name": "Tangled Up In Blues: Songs Of Bob Dylan",
+        "url": "https://open.spotify.com/album/0Vh63ttTwAGKidFyKaloFX"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272080,
+      "name": "It Takes a Lot to Laugh, It Takes a Train to Cry",
+      "url": "https://open.spotify.com/track/5eFuA6bZLTvDFlilyyEojB"
+    },
+    {
+      "album": {
         "name": "All Blues'd Up: Songs of Bob Dylan",
         "url": "https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00"
       },
@@ -1446,7 +1518,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 272080,
       "name": "It Takes a Lot to Laugh, It Takes a Train to Cry",
       "url": "https://open.spotify.com/track/5pZ4fMK1D1mPCM7pbGFf9G"
@@ -2424,6 +2496,24 @@
     {
       "album": {
         "name": "All Blues'd Up: Songs of the Rolling Stones",
+        "url": "https://open.spotify.com/album/202sAEHP90qOJ4wFQF5RO9"
+      },
+      "artists": [
+        {
+          "name": "Lucky Peterson",
+          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265000,
+      "name": "Under My Thumb",
+      "url": "https://open.spotify.com/track/2rJnWhDGKpWQOXqHy5tF1V"
+    },
+    {
+      "album": {
+        "name": "All Blues'd Up: Songs of the Rolling Stones",
         "url": "https://open.spotify.com/album/0Ov999p2Fo5q4ia5m4oT9M"
       },
       "artists": [
@@ -2434,7 +2524,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 265000,
       "name": "Under My Thumb",
       "url": "https://open.spotify.com/track/32rkgJbRDxBoCocsT6iSrd"
@@ -2452,10 +2542,28 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 373000,
       "name": "Ventilator Blues",
       "url": "https://open.spotify.com/track/1TvWKgvwVEYzmgqlN9NbKa"
+    },
+    {
+      "album": {
+        "name": "All Blues'd Up: Songs of the Rolling Stones",
+        "url": "https://open.spotify.com/album/202sAEHP90qOJ4wFQF5RO9"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373000,
+      "name": "Ventilator Blues",
+      "url": "https://open.spotify.com/track/6b6UMqPedWI2oOvPfEP7I6"
     },
     {
       "album": {

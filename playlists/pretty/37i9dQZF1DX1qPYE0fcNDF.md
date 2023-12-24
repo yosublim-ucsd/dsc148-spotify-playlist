@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain]
 
 > Hip\-Hop and Happy Holidays! Cover: Gucci Mane
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,326 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,767 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain]
 | 19 | [All I Really Want For Christmas \(feat\. Kool\-Aid Man\)](https://open.spotify.com/track/5Tz3kCWr1LL2S7P02W55jw) | [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Kool\-Aid Man](https://open.spotify.com/artist/6DT3Q5s1oRIZZdOOmg0kVI) | [All I Really Want For Christmas \(feat\. Kool\-Aid Man\)](https://open.spotify.com/album/52w6ES71Bx3mSTKjVXoj3U) | 2:51 |
 | 20 | [Christmas Trees](https://open.spotify.com/track/1NAjeuDMkYFhjaA9ATxuUx) | [Lil Duval](https://open.spotify.com/artist/6YiHht3u7FFszle72kpbdQ) | [Christmas Trees](https://open.spotify.com/album/65IO0Gk4mVihvUs5Ol7cTj) | 2:57 |
 | 21 | [Christmas In The Ghetto \(feat\. Juelz Santana & Rab\)](https://open.spotify.com/track/1X1eVkvYf46m9IzNnyorzU) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Skull Gang](https://open.spotify.com/artist/6R4blCfeFM693nL3QeCeAH), [Rab](https://open.spotify.com/artist/1SOPb1pF1KBjDkRFXegpeV), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [Jim Jones Presents: Bad Santa \- Starring Mike Epps](https://open.spotify.com/album/40MpaTjGT9GdCP60tK09iF) | 3:51 |
-| 22 | [Dipset X\-mas Time](https://open.spotify.com/track/5Ka1tMdg4EMf0EnjraSbV3) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [A Dipset Christmas](https://open.spotify.com/album/0GfcY3i2aeTqcOxb8i8tLS) | 4:01 |
+| 22 | [Dipset X\-mas Time](https://open.spotify.com/track/5zc0SK5YxNWsIHWr7YxJaR) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [A Dipset Christmas](https://open.spotify.com/album/1AehXvggF5i5OITVscyDPO) | 4:01 |
 | 23 | [Sleigh \(with Monte Booker & Masego\)](https://open.spotify.com/track/55POBlOBhLuXm2Z7M4Xn1k) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [monte booker](https://open.spotify.com/artist/4p75GTNEXwsAAkpweMVtKo), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [High 4 Da Highladays](https://open.spotify.com/album/7BlYL8OhqdHcZTIoISOeEg) | 2:25 |
 | 24 | [Merry Xmas \(feat\. Monty\)](https://open.spotify.com/track/0XdmgBu6mvKWhzxa7qh2f1) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Monty](https://open.spotify.com/artist/1Wnfj5qZsp8nPsGBBRRa4W) | [Merry Xmas \(feat\. Monty\)](https://open.spotify.com/album/50xt1ddKJg11xC4Y1ockqy) | 3:30 |
 | 25 | [Ghostface X\-mas](https://open.spotify.com/track/7mgv7UKlHR6Mv8DWSDivi7) | [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [GhostDeini The Great \(Bonus Tracks\)](https://open.spotify.com/album/0L1Qq8en6hODRCgaAfTBAq) | 3:02 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain]
 | 30 | [\#1HappyHoliday](https://open.spotify.com/track/5pUHIx5GuvTyM5u9dmZ4DZ) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [\#1HappyHoliday](https://open.spotify.com/album/5GgEdbWST6YXBgwFz9O2RQ) | 3:00 |
 | 31 | [Sleigh Ride](https://open.spotify.com/track/7DBIvPoaC3Wv69Qe5II7b3) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [A Laface Family Christmas](https://open.spotify.com/album/4fzsNfn7gbyM2CiDF5vigi) | 3:43 |
 | 32 | [Christmas In The Hood](https://open.spotify.com/track/4ZtbsYTOuF1hotmpNn8qpA) | [Daz Dillinger](https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4), [Deacon](https://open.spotify.com/artist/4481xuujVUcv4MH4TnHWoh) | [Christmas In The Dogghouse](https://open.spotify.com/album/6Yfaff9em7z9TmO9QQscpw) | 3:54 |
-| 33 | [Ballin' On Xmas](https://open.spotify.com/track/1atC80Kwb6gHOn27dG1qX1) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [A Dipset Christmas](https://open.spotify.com/album/0GfcY3i2aeTqcOxb8i8tLS) | 3:35 |
+| 33 | [Ballin' On Xmas](https://open.spotify.com/track/5ISPg9yj9cDnj5kOvNgmrz) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [A Dipset Christmas](https://open.spotify.com/album/1AehXvggF5i5OITVscyDPO) | 3:35 |
 | 34 | [Christmas In Harlem](https://open.spotify.com/track/00HMEiBMDkbNCHLJL6zqVk) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [CyHi](https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH), [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [Christmas In Harlem](https://open.spotify.com/album/31dBitfDGugqFHLKrUT3rt) | 3:56 |
 | 35 | [Intro](https://open.spotify.com/track/2br5oVLLjOIzRfZzaTVf03) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Skull Gang](https://open.spotify.com/artist/6R4blCfeFM693nL3QeCeAH) | [Jim Jones Presents: Bad Santa \- Starring Mike Epps](https://open.spotify.com/album/40MpaTjGT9GdCP60tK09iF) | 3:13 |
 | 36 | [This Christmas](https://open.spotify.com/track/3W6PmtGTyLwWBWUYplSWHT) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [This Christmas \- Songs From The Motion Picture](https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qPYE0fcNDF.md) - [plain]
 | 49 | [Christmas At Swae’s](https://open.spotify.com/track/2uIJmDr8yFuq27JgZGAw7l) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Ear Drummers](https://open.spotify.com/artist/16b0RUDQWdrU5HYFKuFW98) | [Christmas At Swae’s](https://open.spotify.com/album/6Qx4jA6F8xTrAypkeaVUSk) | 3:46 |
 | 50 | [Bungecord Christmas](https://open.spotify.com/track/1aeQUlT3fNViIUNtimzgeK) | [Trae Tha Truth](https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy) | [Bungecord Christmas](https://open.spotify.com/album/1TJY1i9QiyYIABj0cPN9po) | 2:09 |
 
-Snapshot ID: `MCxiMGUzZWQ3ODkzNjgxZWVkZjQyYjNkMWI0ZjA3M2QwYmEzNzVjOTQ4`
+Snapshot ID: `MCxmZmFhYjJhYWY5ZTI4MDQ1NDRlYjM5NmY0MzZhNjcyOGNlZTdlNjIy`

@@ -1,12 +1,12 @@
 {
   "description": "maybe it's punk, maybe it's not. Cover: FEVER 333",
-  "num_followers": 215077,
+  "num_followers": 215109,
   "original_name": "unleashed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NmFlYjBjZDY1Zjg3NDEwNTU0YTg3ZWQ4OGRlNTVkYTVmNzE0YzZl",
+  "snapshot_id": "MCxiMDZkNWUyNWM0NGU1MjhkOTYxNTdkZjg0NjJjNTVkODE4MTVlNjNk",
   "tracks": [
     {
       "added_at": "2023-06-02 15:50:28",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "Between the Richness",
-        "url": "https://open.spotify.com/album/64nJrI2yp3eCST6qjNAgPG"
-      },
-      "artists": [
-        {
-          "name": "Fiddlehead",
-          "url": "https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa"
-        }
-      ],
-      "duration_ms": 133211,
-      "name": "Loverman",
-      "url": "https://open.spotify.com/track/5zxqk9zM1cQ0PFz0fB031o"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
         "name": "THREE HEADS*",
         "url": "https://open.spotify.com/album/02BIHNzIl0WCC17CPM83gN"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 171842,
       "name": "THREE HEADS*",
       "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
+        "name": "Between the Richness",
+        "url": "https://open.spotify.com/album/64nJrI2yp3eCST6qjNAgPG"
+      },
+      "artists": [
+        {
+          "name": "Fiddlehead",
+          "url": "https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa"
+        }
+      ],
+      "duration_ms": 133211,
+      "name": "Loverman",
+      "url": "https://open.spotify.com/track/5zxqk9zM1cQ0PFz0fB031o"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "Made In Bleach",
-        "url": "https://open.spotify.com/album/1FdfvychlfN8plFb8g9DAj"
-      },
-      "artists": [
-        {
-          "name": "m4x",
-          "url": "https://open.spotify.com/artist/59I91KjkQv2ep7ogDu1U0S"
-        }
-      ],
-      "duration_ms": 129964,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/6yYm8XwZS69BzCXGRmfWU9"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
         "name": "Crybaby (On the Phone)",
         "url": "https://open.spotify.com/album/70R0bzjqP8a4yKUjg4ISdn"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 143597,
       "name": "Crybaby (On the Phone)",
       "url": "https://open.spotify.com/track/17m7xzxMBWXLa6eyf3gsag"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
+        "name": "Made In Bleach",
+        "url": "https://open.spotify.com/album/1FdfvychlfN8plFb8g9DAj"
+      },
+      "artists": [
+        {
+          "name": "m4x",
+          "url": "https://open.spotify.com/artist/59I91KjkQv2ep7ogDu1U0S"
+        }
+      ],
+      "duration_ms": 129964,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/6yYm8XwZS69BzCXGRmfWU9"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
+        "name": "Daylight Robbery",
+        "url": "https://open.spotify.com/album/7KKWiPk1PbcUWrKlSkQ2CM"
+      },
+      "artists": [
+        {
+          "name": "Boy Bleach",
+          "url": "https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V"
+        }
+      ],
+      "duration_ms": 170200,
+      "name": "Daylight Robbery",
+      "url": "https://open.spotify.com/track/4nlP649wAY4jW7HwfJABWT"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
         "name": "just in case the world ends (deluxe edition)",
         "url": "https://open.spotify.com/album/4IML4pQ6aDgViRY1RW139y"
       },
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "Daylight Robbery",
-        "url": "https://open.spotify.com/album/7KKWiPk1PbcUWrKlSkQ2CM"
-      },
-      "artists": [
-        {
-          "name": "Boy Bleach",
-          "url": "https://open.spotify.com/artist/0QdhKd1bYPAy48bofL7c0V"
-        }
-      ],
-      "duration_ms": 170200,
-      "name": "Daylight Robbery",
-      "url": "https://open.spotify.com/track/4nlP649wAY4jW7HwfJABWT"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
         "name": "Love No Less Than A Queen",
         "url": "https://open.spotify.com/album/5ZGW7QDlSfoir5P54sqt4M"
       },
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "I Raise You (The Price of Your Head)",
-        "url": "https://open.spotify.com/album/0KGJSvayWmKlbQW49bZQIt"
-      },
-      "artists": [
-        {
-          "name": "Folly Group",
-          "url": "https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP"
-        }
-      ],
-      "duration_ms": 231336,
-      "name": "I Raise You (The Price of Your Head)",
-      "url": "https://open.spotify.com/track/302te1PaXydwxxX6aIjkhn"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
         "name": "Digital Disorder",
         "url": "https://open.spotify.com/album/5d5FyxMeHv8JVOiDdt06AG"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 62275,
       "name": "MOTHERFUCKER",
       "url": "https://open.spotify.com/track/1dSHGd9tjuukYmTqwr1SXL"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
+        "name": "I Raise You (The Price of Your Head)",
+        "url": "https://open.spotify.com/album/0KGJSvayWmKlbQW49bZQIt"
+      },
+      "artists": [
+        {
+          "name": "Folly Group",
+          "url": "https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP"
+        }
+      ],
+      "duration_ms": 231336,
+      "name": "I Raise You (The Price of Your Head)",
+      "url": "https://open.spotify.com/track/302te1PaXydwxxX6aIjkhn"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "Inmyhead",
-        "url": "https://open.spotify.com/album/7i2CHuloY8dRbEik146DCy"
-      },
-      "artists": [
-        {
-          "name": "Beach Bums",
-          "url": "https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Inmyhead",
-      "url": "https://open.spotify.com/track/3182DPj7zQBXxiyy8rhaQp"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
         "name": "pity party (hyperpunk remix)",
         "url": "https://open.spotify.com/album/58nU4gbZoCTv8Cn0xpKqiF"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 156879,
       "name": "pity party (hyperpunk remix)",
       "url": "https://open.spotify.com/track/3pgNhkkVzEBp3oWjGiHHWL"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
+        "name": "Inmyhead",
+        "url": "https://open.spotify.com/album/7i2CHuloY8dRbEik146DCy"
+      },
+      "artists": [
+        {
+          "name": "Beach Bums",
+          "url": "https://open.spotify.com/artist/28uoxZaXCXirkQDIZFaVbJ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Inmyhead",
+      "url": "https://open.spotify.com/track/3182DPj7zQBXxiyy8rhaQp"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
+        "name": "I Want Attention",
+        "url": "https://open.spotify.com/album/1YGDOdHRnFWhxogfbvLLtT"
+      },
+      "artists": [
+        {
+          "name": "ZELA",
+          "url": "https://open.spotify.com/artist/4Hq5SvV1YpZIDBVaygsGVg"
+        }
+      ],
+      "duration_ms": 165354,
+      "name": "I Want Attention",
+      "url": "https://open.spotify.com/track/7oPTdZqQa7eG8NVt8HPkBd"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
         "name": "Thirst",
         "url": "https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 160896,
       "name": "Dazzling",
       "url": "https://open.spotify.com/track/12KEEMtokPYmzVbUopkRBm"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
-        "name": "softCORE",
-        "url": "https://open.spotify.com/album/0iv5fjooZ7WR2FvmxKwDER"
-      },
-      "artists": [
-        {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
-        }
-      ],
-      "duration_ms": 165320,
-      "name": "stupid bitch",
-      "url": "https://open.spotify.com/track/77wru6MqUYACgY74Lgp3Ti"
     }
   ],
   "unique_name": "unleashed",

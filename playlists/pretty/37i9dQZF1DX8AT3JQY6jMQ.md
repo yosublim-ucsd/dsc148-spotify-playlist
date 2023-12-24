@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AT3JQY6jMQ.md) - [plain]
 
 > Great songs by Australian music legends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,556 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,590 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AT3JQY6jMQ.md) - [plain]
 | 40 | [One Crowded Hour](https://open.spotify.com/track/48I5uB4qCunhN0oWSFFtOC) | [Augie March](https://open.spotify.com/artist/0vntgse6gPZfthoW8kTTlR) | [Moo, You Bloody Choir](https://open.spotify.com/album/5ZTK6puVOkluqSMuL8zVpp) | 4:50 |
 | 41 | [The Nips Are Getting Bigger](https://open.spotify.com/track/4wxbvj2DU5UVsUVU9FORSB) | [Mental As Anything](https://open.spotify.com/artist/6PFydyUHMKD2jm5NXzRPiK) | [Essential as Anything \(30th Anniversary Edition\) \[Audio Version\]](https://open.spotify.com/album/2H32rwTnGWdb30AESVHNJr) | 3:20 |
 | 42 | [Blow Up The Pokies](https://open.spotify.com/track/1iNkpCJOAOokeapM774xGE) | [The Whitlams](https://open.spotify.com/artist/2fczAptz6g62e12F9LxYI6) | [Love This City](https://open.spotify.com/album/28dpTSPqm5qDY3JRdShdDZ) | 3:27 |
-| 43 | [One Word](https://open.spotify.com/track/6DyeOvSpsUIb8jhOKV7Vij) | [Baby Animals](https://open.spotify.com/artist/2DaDoR6WXStRctDQDWWQpI) | [Baby Animals](https://open.spotify.com/album/6k5RSgQ7zzzfQ8izP0uTdm) | 3:58 |
+| 43 | [One Word](https://open.spotify.com/track/6VH6dcQankHKPhXrcRmuNC) | [Baby Animals](https://open.spotify.com/artist/2DaDoR6WXStRctDQDWWQpI) | [Baby Animals](https://open.spotify.com/album/5BKkcbtVzKefd2wtXaFwPd) | 3:58 |
 | 44 | [Amazing](https://open.spotify.com/track/4myfQ0EwuaZW3CMWRJdXCZ) | [Alex Lloyd](https://open.spotify.com/artist/1aVud1rCHS8xrpDjI7zEUy) | [Amazing](https://open.spotify.com/album/227dlHjTCx3rAdf3u0R4Bt) | 3:23 |
 | 45 | [! \(The Song Formerly Known As\)](https://open.spotify.com/track/4AFCrbzvR3vLfekhABLjDU) | [Regurgitator](https://open.spotify.com/artist/6n3YUZcayLRuAunJUUelvz) | [Unit](https://open.spotify.com/album/1M9n4vCmOH4lbcHrpt21Qy) | 3:26 |
 | 46 | [Help Is On Its Way \- Remastered 2022](https://open.spotify.com/track/6HnGsS6ovVsC6dLB3CtxYh) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Diamantina Cocktail \(Remastered 2022\)](https://open.spotify.com/album/2y1AfhFTokE1bObd4Dcakg) | 3:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AT3JQY6jMQ.md) - [plain]
 | 99 | [Girls Like That \(Don't Go for Guys Like Us\)](https://open.spotify.com/track/6jrQpctf9Fg3btO1I7qX7X) | [Custard](https://open.spotify.com/artist/09NEIWHdaWneBWsjYdDnwz) | [Loverama](https://open.spotify.com/album/6d56WimrCEkbHu2x0WM196) | 3:10 |
 | 100 | [A Pub With No Beer \- 1979 Version; 1992 Remaster](https://open.spotify.com/track/32oNBkKF3t6fUx03xBfJXe) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Walk A Country Mile](https://open.spotify.com/album/3sc1AiknncWpdSsemqjhXi) | 3:00 |
 
-Snapshot ID: `MCwyN2QxNzAwOGE5YTFkNGM4MWQ1ZjFjNTQ5ZGQ4ZmJlYzA0ZGY4MmFi`
+Snapshot ID: `MCwwOGI4N2JjNTIxMmRlYjQ5NDU0NDQ3MWIyNDBiY2RhMjVmNGM4OGMx`

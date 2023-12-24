@@ -8904,6 +8904,24 @@
     {
       "album": {
         "name": "Down For You",
+        "url": "https://open.spotify.com/album/51ZIht93bVSLAcV1YmzfzB"
+      },
+      "artists": [
+        {
+          "name": "Suzi",
+          "url": "https://open.spotify.com/artist/3r3Rkuc4jmZHXgchgaXwnv"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160983,
+      "name": "Down For You",
+      "url": "https://open.spotify.com/track/03FU73fbUbJCBPLtKa18KP"
+    },
+    {
+      "album": {
+        "name": "Down For You",
         "url": "https://open.spotify.com/album/6wg2iqDtgVi1bkdD6gc1v8"
       },
       "artists": [
@@ -8914,7 +8932,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 160983,
       "name": "Down For You",
       "url": "https://open.spotify.com/track/3BfR6XWxXHV5B8lWZMDZCI"

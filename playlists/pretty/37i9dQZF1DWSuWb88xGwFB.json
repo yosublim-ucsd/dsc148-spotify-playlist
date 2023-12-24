@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 31989,
+  "num_followers": 32014,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWJmYzNmMjA3MTcxYjcwZjVlZDZjZmNkNmEwZWFiNGM5Y2FkMzFh",
+  "snapshot_id": "MCw1MWQ0YmUxNjZiMGM4OTU2MWU3YWQ0YTYxMGU1MDM0YWM3MTdkZTg1",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -499,6 +499,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Higher State of Consciousness",
+        "url": "https://open.spotify.com/album/4DMsPDskkWhCfALt696an6"
+      },
+      "artists": [
+        {
+          "name": "Josh Wink",
+          "url": "https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H"
+        }
+      ],
+      "duration_ms": 519506,
+      "name": "Higher State of Consciousness (DJ Wink's Hardhouse Mix)",
+      "url": "https://open.spotify.com/track/2arz9AFJf2utACXWeynydn"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Generate Power (feat. Paula Brion) [2010 Mixes]",
         "url": "https://open.spotify.com/album/2gO7YHUxRWuNaYKYBDJ3SB"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 523906,
       "name": "Generate Power (feat. Paula Brion) (Wild Pitch Mix)",
       "url": "https://open.spotify.com/track/1FJZ5ut6DOWiDwyUV7jWL6"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Higher State of Consciousness",
-        "url": "https://open.spotify.com/album/4DMsPDskkWhCfALt696an6"
-      },
-      "artists": [
-        {
-          "name": "Josh Wink",
-          "url": "https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H"
-        }
-      ],
-      "duration_ms": 519506,
-      "name": "Higher State of Consciousness (DJ Wink's Hardhouse Mix)",
-      "url": "https://open.spotify.com/track/2arz9AFJf2utACXWeynydn"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -599,8 +599,8 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Strictly Phuture",
-        "url": "https://open.spotify.com/album/17WcHELbVmsO6aHKghBIv8"
+        "name": "Rise from Your Grave",
+        "url": "https://open.spotify.com/album/6AEiF5xNaPSp1PzYbHZwAe"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
         }
       ],
-      "duration_ms": 352360,
-      "name": "Rise from Your Grave (Wake Da F___ Up Mix)",
-      "url": "https://open.spotify.com/track/1iNKvXfnFZXKr9CPMVYS12"
+      "duration_ms": 396586,
+      "name": "Rise from Your Grave (Wild pitch mix)",
+      "url": "https://open.spotify.com/track/5TzX50pYcHt96ZlZzFAa67"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -699,8 +699,8 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Rise from Your Grave",
-        "url": "https://open.spotify.com/album/6AEiF5xNaPSp1PzYbHZwAe"
+        "name": "Strictly Phuture",
+        "url": "https://open.spotify.com/album/17WcHELbVmsO6aHKghBIv8"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
         }
       ],
-      "duration_ms": 396586,
-      "name": "Rise from Your Grave (Wild pitch mix)",
-      "url": "https://open.spotify.com/track/5TzX50pYcHt96ZlZzFAa67"
+      "duration_ms": 352360,
+      "name": "Rise from Your Grave (Wake Da F___ Up Mix)",
+      "url": "https://open.spotify.com/track/1iNKvXfnFZXKr9CPMVYS12"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Sweet Ambience (Mixes)",
-        "url": "https://open.spotify.com/album/2NG6h81Fi7BUv1Vjbc0y4D"
-      },
-      "artists": [
-        {
-          "name": "Lovechild",
-          "url": "https://open.spotify.com/artist/2walEOww1vnqb5vfpBDZJQ"
-        }
-      ],
-      "duration_ms": 300943,
-      "name": "Sweet Ambience (Club Mix)",
-      "url": "https://open.spotify.com/track/0gB9g69Sq29fbkbTix26lj"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Equinox",
         "url": "https://open.spotify.com/album/55amN0lWdcvH5QVZ5egjor"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 368466,
       "name": "Equinox (Henrik Schwarz Remix)",
       "url": "https://open.spotify.com/track/5E1DUqZWjJXjUsOFXLh9RC"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Sweet Ambience (Mixes)",
+        "url": "https://open.spotify.com/album/2NG6h81Fi7BUv1Vjbc0y4D"
+      },
+      "artists": [
+        {
+          "name": "Lovechild",
+          "url": "https://open.spotify.com/artist/2walEOww1vnqb5vfpBDZJQ"
+        }
+      ],
+      "duration_ms": 300943,
+      "name": "Sweet Ambience (Club Mix)",
+      "url": "https://open.spotify.com/track/0gB9g69Sq29fbkbTix26lj"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Love Trax",
-        "url": "https://open.spotify.com/album/5JI7FL0GncLmee3QK617rc"
-      },
-      "artists": [
-        {
-          "name": "DJ Pierre",
-          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
-        }
-      ],
-      "duration_ms": 406131,
-      "name": "Love Trax (Love Izz)",
-      "url": "https://open.spotify.com/track/3XlsIeTlYuDf78ol5mc6t2"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Alright (feat. Earl Bennett)",
         "url": "https://open.spotify.com/album/6Vvh6fiEizIRiigggApDXR"
       },
@@ -883,18 +867,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Get Up",
-        "url": "https://open.spotify.com/album/4ZwpOTuIbV15jhyWfJMb7D"
+        "name": "Love Trax",
+        "url": "https://open.spotify.com/album/5JI7FL0GncLmee3QK617rc"
       },
       "artists": [
         {
-          "name": "Krimp",
-          "url": "https://open.spotify.com/artist/74yPSAR6dtOKgE7ZJhCvXz"
+          "name": "DJ Pierre",
+          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
         }
       ],
-      "duration_ms": 410967,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/2m69e2a2MVhTOpx1dVZDkz"
+      "duration_ms": 406131,
+      "name": "Love Trax (Love Izz)",
+      "url": "https://open.spotify.com/track/3XlsIeTlYuDf78ol5mc6t2"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -911,6 +895,22 @@
       "duration_ms": 398566,
       "name": "Spark da Meth (Bangin Like a Benzi Mix)",
       "url": "https://open.spotify.com/track/1IOM3ZT5FbNk9PgGieEdRg"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/4ZwpOTuIbV15jhyWfJMb7D"
+      },
+      "artists": [
+        {
+          "name": "Krimp",
+          "url": "https://open.spotify.com/artist/74yPSAR6dtOKgE7ZJhCvXz"
+        }
+      ],
+      "duration_ms": 410967,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/2m69e2a2MVhTOpx1dVZDkz"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Just An Organ / Getting Bigger (Mixes)",
-        "url": "https://open.spotify.com/album/5BnDOPtqUI0eR3yIorHn7j"
-      },
-      "artists": [
-        {
-          "name": "D-Tune",
-          "url": "https://open.spotify.com/artist/26P8hiVKDgo3V5CfdYwSWm"
-        }
-      ],
-      "duration_ms": 337901,
-      "name": "Just an Organ (Just An Organ Mix)",
-      "url": "https://open.spotify.com/track/5sUqzg4M6ghFpcTciCiSiH"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Choices",
         "url": "https://open.spotify.com/album/1GrIg6TtWx42HcBpIHu1gh"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 472984,
       "name": "Choices (Choices Vocal Mix)",
       "url": "https://open.spotify.com/track/5N7cwa4semi11gavRLxWGu"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Just An Organ / Getting Bigger (Mixes)",
+        "url": "https://open.spotify.com/album/5BnDOPtqUI0eR3yIorHn7j"
+      },
+      "artists": [
+        {
+          "name": "D-Tune",
+          "url": "https://open.spotify.com/artist/26P8hiVKDgo3V5CfdYwSWm"
+        }
+      ],
+      "duration_ms": 337901,
+      "name": "Just an Organ (Just An Organ Mix)",
+      "url": "https://open.spotify.com/track/5sUqzg4M6ghFpcTciCiSiH"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1067,18 +1067,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
-        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
+        "name": "The Lost Tapes: Tony Humphries Strictly Rhythm Mix",
+        "url": "https://open.spotify.com/album/5OnKjcZw9bdTwtehVtdBcp"
       },
       "artists": [
         {
-          "name": "Club Ultimate",
-          "url": "https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK"
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/6rpTmAVssi39dK1wX5ncZT"
+        },
+        {
+          "name": "Claude Monnet",
+          "url": "https://open.spotify.com/artist/08UnNnUkmKlxFVb25yboWo"
         }
       ],
-      "duration_ms": 364347,
-      "name": "Carnival '95 (Pride Vocal Mix)",
-      "url": "https://open.spotify.com/track/5ZEFcwgWOta5rCobcLTUKO"
+      "duration_ms": 233466,
+      "name": "The Warning (2 Copy Mix)",
+      "url": "https://open.spotify.com/track/6zUi8w1eVSwqBl1YbmxDKS"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1104,6 +1108,22 @@
       },
       "artists": [
         {
+          "name": "Club Ultimate",
+          "url": "https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK"
+        }
+      ],
+      "duration_ms": 364347,
+      "name": "Carnival '95 (Pride Vocal Mix)",
+      "url": "https://open.spotify.com/track/5ZEFcwgWOta5rCobcLTUKO"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
+        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
+      },
+      "artists": [
+        {
           "name": "Barbara Douglas",
           "url": "https://open.spotify.com/artist/6lCEiSHsqoAZ61AiHbTw6w"
         }
@@ -1115,22 +1135,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Tony Humphries Strictly Rhythm Mix",
-        "url": "https://open.spotify.com/album/5OnKjcZw9bdTwtehVtdBcp"
+        "name": "Strictly Rhythms, Vol. 1",
+        "url": "https://open.spotify.com/album/6VfiD0SC34baxLDlDxtPI2"
       },
       "artists": [
         {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/6rpTmAVssi39dK1wX5ncZT"
-        },
-        {
-          "name": "Claude Monnet",
-          "url": "https://open.spotify.com/artist/08UnNnUkmKlxFVb25yboWo"
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
         }
       ],
-      "duration_ms": 233466,
-      "name": "The Warning (2 Copy Mix)",
-      "url": "https://open.spotify.com/track/6zUi8w1eVSwqBl1YbmxDKS"
+      "duration_ms": 766733,
+      "name": "Tribal Seagulls",
+      "url": "https://open.spotify.com/track/0QsxEwYwa7FeF3u5lE6lc6"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1151,22 +1167,6 @@
       "duration_ms": 458306,
       "name": "The Beat That Makes U Move (The Rhythm Hype Mix)",
       "url": "https://open.spotify.com/track/2un4L4HUr8Q17tHtehjM81"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Strictly Rhythms, Vol. 1",
-        "url": "https://open.spotify.com/album/6VfiD0SC34baxLDlDxtPI2"
-      },
-      "artists": [
-        {
-          "name": "Kenny Dope",
-          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
-        }
-      ],
-      "duration_ms": 766733,
-      "name": "Tribal Seagulls",
-      "url": "https://open.spotify.com/track/0QsxEwYwa7FeF3u5lE6lc6"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Tribal - EP (Remixes)",
-        "url": "https://open.spotify.com/album/0zJyxO4jsvtADO6fyt4wdo"
+        "name": "In Da Clouds",
+        "url": "https://open.spotify.com/album/62sUlFutPV4Txj0H1NyDun"
       },
       "artists": [
         {
-          "name": "River Ocean",
-          "url": "https://open.spotify.com/artist/07cAb715kzeqA6rVa0hh58"
+          "name": "Sneak Essentials",
+          "url": "https://open.spotify.com/artist/6WCDD5NXovsM6IGfwII63K"
         }
       ],
-      "duration_ms": 243920,
-      "name": "Love & Happiness (Yemaya Y Och\u00f9n) - Radio Edit",
-      "url": "https://open.spotify.com/track/5J51JZixTx08GKXwufn5Cw"
+      "duration_ms": 518960,
+      "name": "In Da Clouds (Da Dub)",
+      "url": "https://open.spotify.com/track/7iKcjAQmWCTSEOKiL2krbm"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "The Tribal - EP (Remixes)",
+        "url": "https://open.spotify.com/album/0zJyxO4jsvtADO6fyt4wdo"
+      },
+      "artists": [
+        {
+          "name": "River Ocean",
+          "url": "https://open.spotify.com/artist/07cAb715kzeqA6rVa0hh58"
+        }
+      ],
+      "duration_ms": 243920,
+      "name": "Love & Happiness (Yemaya Y Och\u00f9n) - Radio Edit",
+      "url": "https://open.spotify.com/track/5J51JZixTx08GKXwufn5Cw"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
         "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 334220,
       "name": "We Can Make It (The \u2018I Believe' Dub)",
       "url": "https://open.spotify.com/track/5Os1U3nFLRBZ7eB4QTTMmZ"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "In Da Clouds",
-        "url": "https://open.spotify.com/album/62sUlFutPV4Txj0H1NyDun"
-      },
-      "artists": [
-        {
-          "name": "Sneak Essentials",
-          "url": "https://open.spotify.com/artist/6WCDD5NXovsM6IGfwII63K"
-        }
-      ],
-      "duration_ms": 518960,
-      "name": "In Da Clouds (Da Dub)",
-      "url": "https://open.spotify.com/track/7iKcjAQmWCTSEOKiL2krbm"
     }
   ],
   "unique_name": "Crate Diggin' Strictly Rhythm",

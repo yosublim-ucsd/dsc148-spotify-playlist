@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 
 > The bass you need for riding low and high.
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,735 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,103 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 32 | [Look at Me](https://open.spotify.com/track/4lkBJU3iKwpO0dJiBZ5wAj) | [OQTAN](https://open.spotify.com/artist/0sW5E8JJy5gBqGZxDAlS4s), [Ginga](https://open.spotify.com/artist/3Ht6LI9tAjInNAosJnYZSU) | [Look at Me](https://open.spotify.com/album/2QNjFtr2gEXQOmKIn5maJq) | 2:19 |
 | 33 | [Blast](https://open.spotify.com/track/6IueCsicxdsbMj1HTF8jxq) | [HVZVRD](https://open.spotify.com/artist/0TBbjAcKVKKc8QwMoHPI9f), [KSKV](https://open.spotify.com/artist/07BMRyGNDQEqrjtlqjfYuh) | [Blast](https://open.spotify.com/album/7De3XSkwYMfun0zzYzQRm4) | 2:36 |
 | 34 | [Spaceship](https://open.spotify.com/track/7GWXjklWJA0kjWWf9sNw1k) | [OLZXVS](https://open.spotify.com/artist/1tqvR13suC3SB24Ngd0zVI) | [Spaceship](https://open.spotify.com/album/6s22PosumlZIKoqu2pjyzy) | 2:54 |
-| 35 | [Let It Go](https://open.spotify.com/track/44EZq7xrWPvMsNCnqNXAQS) | [SUER](https://open.spotify.com/artist/1rDU02wIRYl8HsfyOTEs4I), [VOLB3X](https://open.spotify.com/artist/29nkqEfPr4KzAnoDcKriTu) | [Let It Go](https://open.spotify.com/album/70YGL5tFmT2lNNLxUrmC8P) | 2:41 |
-| 36 | [Sweet Dreams](https://open.spotify.com/track/55LIJtZUzyhtSgR4Kp6hHC) | [ROWKA](https://open.spotify.com/artist/2DGyN5NTOHXpEMIcrRHbRm), [Levis Della](https://open.spotify.com/artist/0mz0ZT7rpJuWFxJ8lnxdB5), [Sanduú](https://open.spotify.com/artist/7DsAqd25L6sEx0NICIYF3f) | [Sweet Dreams](https://open.spotify.com/album/2iDZUi1B2nw1T3SHY8RGjJ) | 2:32 |
+| 35 | [Sweet Dreams](https://open.spotify.com/track/55LIJtZUzyhtSgR4Kp6hHC) | [ROWKA](https://open.spotify.com/artist/2DGyN5NTOHXpEMIcrRHbRm), [Levis Della](https://open.spotify.com/artist/0mz0ZT7rpJuWFxJ8lnxdB5), [Sanduú](https://open.spotify.com/artist/7DsAqd25L6sEx0NICIYF3f) | [Sweet Dreams](https://open.spotify.com/album/2iDZUi1B2nw1T3SHY8RGjJ) | 2:32 |
+| 36 | [Let It Go](https://open.spotify.com/track/44EZq7xrWPvMsNCnqNXAQS) | [SUER](https://open.spotify.com/artist/1rDU02wIRYl8HsfyOTEs4I), [VOLB3X](https://open.spotify.com/artist/29nkqEfPr4KzAnoDcKriTu) | [Let It Go](https://open.spotify.com/album/70YGL5tFmT2lNNLxUrmC8P) | 2:41 |
 | 37 | [Vandal](https://open.spotify.com/track/3o0uDe47R1wByG9IXIvkSH) | [OsMan](https://open.spotify.com/artist/5yTQ5Ik2Bllbc5hRLeoRkN) | [Vandal](https://open.spotify.com/album/27DyW3vuWYxvbrw2InADaz) | 2:16 |
 | 38 | [Italiano](https://open.spotify.com/track/6F5ZZ11gmn7f2PfQSGONDp) | [FanEOne](https://open.spotify.com/artist/6kQPCQf0NTmbj6hwim0vkT), [Little Trouble](https://open.spotify.com/artist/10gnuyThMyXu9EAoUKJAvS) | [Italiano](https://open.spotify.com/album/0tELMNBziMylG4DlPRCUkR) | 2:30 |
 | 39 | [Tricky Trippy](https://open.spotify.com/track/53vyJiceKFVk3WmoumZkJu) | [Demeter](https://open.spotify.com/artist/5JIgApvXvqq4KtnDLE9YBz) | [Tricky Trippy](https://open.spotify.com/album/4dWjIRpYaCY3G0t52azdR5) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 49 | [GANG GANG](https://open.spotify.com/track/7BerPxtzf632guxMa5EMXi) | [Matt Hawk](https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg) | [GANG GANG](https://open.spotify.com/album/3jlhWL3WyEtQxfSMphuhna) | 2:27 |
 | 50 | [Slow Down](https://open.spotify.com/track/09rtoOBDXlydwVQ90ITHnW) | [7vvch](https://open.spotify.com/artist/5Bahs19BH1UFW8Q6S2MCxu), [Bladdy\-T](https://open.spotify.com/artist/0mEHevXltYfEtqBh5LHssc) | [Slow Down](https://open.spotify.com/album/5HgyUvnPlzOyyPLR2gpufN) | 2:16 |
 
-Snapshot ID: `MCw3ZDBhNjBjYWI2ZDg3MGQ0NGJiODM4OTA0YWE2NTdlMTY0ZjNiNzg4`
+Snapshot ID: `MCxiYjdiMDgyMDcyNTQ4NGU3ODY4ZWEyZTczOTU5YzU2NWMwMmUxYTkw`

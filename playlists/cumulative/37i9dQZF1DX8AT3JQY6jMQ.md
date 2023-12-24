@@ -4,7 +4,7 @@
 
 > Great songs by Australian music legends.
 
-100 songs - 6 hr 40 min
+101 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,8 @@
 | [Never Tear Us Apart](https://open.spotify.com/track/1qQSRy9DjrGh3jtsSCU6B1) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:05 | 2021-12-13 |  |
 | [Oh No Not You Again \- Remastered](https://open.spotify.com/track/0ahoy8jrLmwsLDkgu1yV9U) | [Australian Crawl](https://open.spotify.com/artist/41fDGRDlzczk5Yo2wDo0H4) | [Sirocco \(Remastered\)](https://open.spotify.com/album/5FCC3e09sFPqZrXfozCXhF) | 5:08 | 2021-12-13 |  |
 | [One Crowded Hour](https://open.spotify.com/track/48I5uB4qCunhN0oWSFFtOC) | [Augie March](https://open.spotify.com/artist/0vntgse6gPZfthoW8kTTlR) | [Moo, You Bloody Choir](https://open.spotify.com/album/5ZTK6puVOkluqSMuL8zVpp) | 4:50 | 2021-12-13 |  |
-| [One Word](https://open.spotify.com/track/6DyeOvSpsUIb8jhOKV7Vij) | [Baby Animals](https://open.spotify.com/artist/2DaDoR6WXStRctDQDWWQpI) | [Baby Animals](https://open.spotify.com/album/6k5RSgQ7zzzfQ8izP0uTdm) | 3:58 | 2021-12-13 |  |
+| [One Word](https://open.spotify.com/track/6DyeOvSpsUIb8jhOKV7Vij) | [Baby Animals](https://open.spotify.com/artist/2DaDoR6WXStRctDQDWWQpI) | [Baby Animals](https://open.spotify.com/album/6k5RSgQ7zzzfQ8izP0uTdm) | 3:58 | 2021-12-13 | 2023-12-24 |
+| [One Word](https://open.spotify.com/track/6VH6dcQankHKPhXrcRmuNC) | [Baby Animals](https://open.spotify.com/artist/2DaDoR6WXStRctDQDWWQpI) | [Baby Animals](https://open.spotify.com/album/5BKkcbtVzKefd2wtXaFwPd) | 3:58 | 2021-12-13 |  |
 | [Physical \- Remastered 2021](https://open.spotify.com/track/4gitetlGHZ9LfuJhwUhEhF) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Physical \(Deluxe Edition\)](https://open.spotify.com/album/6iEs6clt0QoAW4y0dzd3JH) | 3:45 | 2021-12-13 |  |
 | [Power And The Passion \- Remastered Version](https://open.spotify.com/track/75SH7qKifZ0Mzl4UFmps31) | [Midnight Oil](https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk) | [10,9,8,7,6,5,4,3,2,1](https://open.spotify.com/album/1iWFOvjt1FQfkMJrZxtwiF) | 5:39 | 2021-12-13 |  |
 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 | 2021-12-13 |  |

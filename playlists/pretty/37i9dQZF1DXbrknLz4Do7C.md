@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 
 > Some of the best Christian, Gospel, and inspirational songs of the year\.  Cover: <a href="spotify:artist:55qfDfgj4Qi3JGe6KpqGtC">Blessing Offor</a>  \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,322 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,380 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 | 21 | [El Cielo Aún Espera](https://open.spotify.com/track/70x0TeYW9v78ExG6v5M881) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [El Cielo Aún Espera](https://open.spotify.com/album/0a33IGqqFPLIkiKVS7BnhV) | 3:53 |
 | 22 | [No Hay Otro Amor Igual](https://open.spotify.com/track/4RS0596gvwyECO2TaEEfW3) | [Susy Gonzalez](https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG), [Sayra Morales](https://open.spotify.com/artist/0LCFwNcRyvZoiBaOELjsWk), [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE) | [No Hay Otro Amor Igual](https://open.spotify.com/album/5FJL6TqFuiIuhbRzvy0QRe) | 6:15 |
 | 23 | [Hold On](https://open.spotify.com/track/27oqAdEmp480usR8hPV5Iq) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [Jesus Changed My Life](https://open.spotify.com/album/3qvrVAm0dXvo6Uwn855H82) | 3:55 |
-| 24 | [Able](https://open.spotify.com/track/736A53Kw337Z5zrJhH24jP) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Marvin Winans](https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79) | [My Truth](https://open.spotify.com/album/0JjHp7nS2lKkwalcUyrWFn) | 5:02 |
+| 24 | [Able](https://open.spotify.com/track/0ICGreKEIidNiyIGMVwS1E) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Marvin Winans](https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79) | [My Truth](https://open.spotify.com/album/07zEDWrPhqROuygaSwVTHm) | 5:02 |
 | 25 | [Cornerstone \(feat\. Zach Williams\)](https://open.spotify.com/track/56GZHQ4E3i9w9xgRkzitd4) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Life After Death](https://open.spotify.com/album/1WImPglJycAdHQ79c8yRH8) | 3:39 |
 | 26 | [You Changed My Name](https://open.spotify.com/track/4WOx3aoT3TfmLewsB2nWat) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [My Story Your Glory](https://open.spotify.com/album/6X3Ts4kGPIkubLBpUExmXT) | 3:56 |
 | 27 | [Make It Out Alive](https://open.spotify.com/track/42rZoc2XIzvotSs2tczSai) | [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Make It Out Alive](https://open.spotify.com/album/3AZuqbUj6FPdh2P5RZYBHi) | 4:12 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 | 74 | [The Jungle](https://open.spotify.com/track/62LLuyUL4OGGGxdq97ZZV1) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [All Yours](https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk) | 4:15 |
 | 75 | [I Believe God](https://open.spotify.com/track/33VfUGMjszgfYoUT301B9F) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [I Believe God](https://open.spotify.com/album/33GxwGNiIBJX4uKSzzvPrG) | 4:56 |
 | 76 | [First Things First](https://open.spotify.com/track/4E4JkkNvwl2EzZWIm0VJig) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [First Things First](https://open.spotify.com/album/06eEaL5af1KAXPZY8pinIj) | 4:11 |
-| 77 | [Nights In Atlanta](https://open.spotify.com/track/3IX5wVQbXOLLlUcItVnb2i) | [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4) | [Nights In Atlanta](https://open.spotify.com/album/1OlLegTQGhMbpOtCtWekkE) | 2:25 |
+| 77 | [Nights In Atlanta](https://open.spotify.com/track/7EAvUiKv3vjNPonp5gwm5l) | [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4) | [Emanuel](https://open.spotify.com/album/2kLyZqFFxBq2wjR8IPUwcE) | 2:25 |
 | 78 | [Feel Alright \(Blessed\)](https://open.spotify.com/track/4ewqayUyebkmpWIqqW0bwK) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [Feel Alright \(Blessed\)](https://open.spotify.com/album/3HZRZ9JIodgoDoNqFoHE4F) | 4:31 |
 | 79 | [Impossible](https://open.spotify.com/track/7vqC1Vkr5f9a7CylkjUkPW) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS), [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH) | [Impossible](https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai) | 3:53 |
 | 80 | [Come In](https://open.spotify.com/track/7gXPEZH5f13ER9tYujntDa) | [The Walls Group](https://open.spotify.com/artist/3UZQmKr3fkPDCdIRtdX1RV) | [Four Walls](https://open.spotify.com/album/2vzCyDyMFuc7p46Tuv2E69) | 4:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 | 99 | [Love Won't Let Me Go \- Acoustic Version](https://open.spotify.com/track/22uzZQy0RrTC2n7gSKmDRI) | [Joshua's Giants](https://open.spotify.com/artist/6ULNzmxY00PU4YfT3ZZp7T), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Love Won't Let Me Go \(Acoustic Version\)](https://open.spotify.com/album/2bPEY2qGKlKdQyY8iKLTp6) | 3:22 |
 | 100 | [CALL IT LYFE](https://open.spotify.com/track/0YUduu1mX5ctL1hHMMnaLt) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg) | [CALL IT LYFE](https://open.spotify.com/album/0YbRUY8qjkKGJpqJYIvWh6) | 2:30 |
 
-Snapshot ID: `MCw2YjJkYjhkNWFkZjExNWJhZGJlYzk1Y2I3YTBlODMzZmUwNTYzOGM4`
+Snapshot ID: `MCw3MzIzYWU1NzIzNDkxNmZjMDllNTQyZTAzMmZhYjk5M2U4MGU0NTlj`

@@ -4,7 +4,7 @@
 
 > <a href="https://www.hardlystrictlybluegrass.com/">Tune in</a> Oct\. 1\-3rd starting @ 1pm PT/4pm ET as HSB brings the music we all enjoy in the park to your living rooms and backyards.
 
-72 songs - 5 hr 14 min
+74 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,10 +49,12 @@
 | [I Have Learned To Do Without You](https://open.spotify.com/track/5wfxLwBob2D32KO95kFMtx) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Only For The Lonely](https://open.spotify.com/album/1XZX9ze6FQDnBSUdkb9k0m) | 4:14 | 2021-09-29 |  |
 | [I See It Now](https://open.spotify.com/track/23I2duciX9JdJANkYyrGm6) | [Bachelor](https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [I See It Now](https://open.spotify.com/album/4VL4eRCCfus08MjUiYFB7x) | 2:53 | 2021-09-29 | 2022-11-28 |
 | [I See It Now](https://open.spotify.com/track/4NhO8oJUelTgNmj3G6JZKr) | [Bachelor](https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [I See It Now](https://open.spotify.com/album/5Gc1jfwEfaGaOq3QllW9rb) | 2:53 | 2021-09-29 |  |
-| [In the Kitchen](https://open.spotify.com/track/3FPaQUAvN3xmdZQqQmCvUM) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Unless](https://open.spotify.com/album/7ypdPobffspADW87626GOy) | 4:11 | 2021-09-29 |  |
+| [In the Kitchen](https://open.spotify.com/track/3FPaQUAvN3xmdZQqQmCvUM) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Unless](https://open.spotify.com/album/7ypdPobffspADW87626GOy) | 4:11 | 2021-09-29 | 2023-12-24 |
+| [In the Kitchen](https://open.spotify.com/track/4Tph814aNVXbhanWoJiwit) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Unless](https://open.spotify.com/album/2DAoJjVCPS64NjFDpvN3Ud) | 4:11 | 2021-09-29 |  |
 | [Jeremiah](https://open.spotify.com/track/23ZnVd3Qa0kwsTJcfHVjJ0) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Long Time Coming](https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB) | 3:03 | 2021-09-29 |  |
 | [La Bamba Rebelde](https://open.spotify.com/track/3cyREPYKAMQNfki246eknU) | [Las Cafeteras](https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz) | [It's Time](https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx) | 5:23 | 2021-09-29 |  |
-| [Last One on the Line](https://open.spotify.com/track/3EJCPHptFTb66er6xgaP6o) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Formations](https://open.spotify.com/album/51G5vn744vAm0qJtuKElX5) | 4:59 | 2021-09-29 |  |
+| [Last One on the Line](https://open.spotify.com/track/2wbYGo4S3DYL1ddDRn6fHd) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Formations](https://open.spotify.com/album/0lRJJhFQnT5eEm8gk9ahLk) | 4:59 | 2021-09-29 |  |
+| [Last One on the Line](https://open.spotify.com/track/3EJCPHptFTb66er6xgaP6o) | [Hawktail](https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm) | [Formations](https://open.spotify.com/album/51G5vn744vAm0qJtuKElX5) | 4:59 | 2021-09-29 | 2023-12-24 |
 | [Marie Christie](https://open.spotify.com/track/44Vilsiw175y2IpL2nx66o) | [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF) | [The Imagined Savior Is Far Easier To Paint](https://open.spotify.com/album/35MKlkn2g1Qe3HMDrrIxP0) | 3:15 | 2021-09-29 |  |
 | [Moonlight Midnight](https://open.spotify.com/track/181jjYqRXdu8XAWhO4vPKS) | [Peter Rowan](https://open.spotify.com/artist/52FOkBVb83F2QduWKRqmhm), [Tony Rice](https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr) | [Quartet](https://open.spotify.com/album/6JwbY64hw8V8SSBJ89zwNW) | 7:40 | 2021-09-29 |  |
 | [Mr\. Stormalong](https://open.spotify.com/track/1uvx2Af2gxf8TAUBf1P3vx) | [Ivan Neville](https://open.spotify.com/artist/0xHoBLKrp48wAlwpy54lRv) | [Son Of Rogues Gallery: Pirate Ballads, Sea Songs & Chanteys](https://open.spotify.com/album/0CB3I2zxVWBZJRD18bNjoy) | 4:06 | 2021-09-29 |  |

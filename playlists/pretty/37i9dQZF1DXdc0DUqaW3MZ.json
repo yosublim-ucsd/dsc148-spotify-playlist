@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 324928,
+  "num_followers": 325015,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MTIzODFjYzc0ZmViMjY0OTVmNzgzOTRkY2UzN2MxYWJiZjBkM2Zj",
+  "snapshot_id": "MCw3MzNhMzUzZTRkMzM0ZDUyOTE0NzY5MzY4N2U2NWEzMTk3NTlhODk1",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -332,7 +332,7 @@
       "added_at": "2023-12-01 00:01:00",
       "album": {
         "name": "Be Your Girl (Kaytranada Edition)",
-        "url": "https://open.spotify.com/album/72D0SqH6YFJ7kiZUjKt20c"
+        "url": "https://open.spotify.com/album/77jeUjXkwa8D5WQYIs8eBu"
       },
       "artists": [
         {
@@ -346,7 +346,7 @@
       ],
       "duration_ms": 268087,
       "name": "Be Your Girl (Kaytranada Edition)",
-      "url": "https://open.spotify.com/track/38spM0LahLUfQhOMAqA7AI"
+      "url": "https://open.spotify.com/track/0NdKnpfDtqT4ejsW4H58x4"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Be Patient",
-        "url": "https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a"
-      },
-      "artists": [
-        {
-          "name": "Loverground",
-          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
-        }
-      ],
-      "duration_ms": 216793,
-      "name": "Be Patient",
-      "url": "https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Nightrider",
         "url": "https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 300990,
       "name": "Nightrider",
       "url": "https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Be Patient",
+        "url": "https://open.spotify.com/album/1308SRdLd2pP79I3DBnr4a"
+      },
+      "artists": [
+        {
+          "name": "Loverground",
+          "url": "https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z"
+        }
+      ],
+      "duration_ms": 216793,
+      "name": "Be Patient",
+      "url": "https://open.spotify.com/track/0HWtI9cjfnVzU0q3hHc0ph"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Deep Blue",
-        "url": "https://open.spotify.com/album/637SUNBNXsYqt6bh7rolJY"
-      },
-      "artists": [
-        {
-          "name": "AK",
-          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
-        }
-      ],
-      "duration_ms": 196441,
-      "name": "Deep Blue",
-      "url": "https://open.spotify.com/track/2h6xtPKtsmS8w3N2Ex9qrR"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "You Could Be",
         "url": "https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 218024,
       "name": "You Could Be",
       "url": "https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/637SUNBNXsYqt6bh7rolJY"
+      },
+      "artists": [
+        {
+          "name": "AK",
+          "url": "https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A"
+        }
+      ],
+      "duration_ms": 196441,
+      "name": "Deep Blue",
+      "url": "https://open.spotify.com/track/2h6xtPKtsmS8w3N2Ex9qrR"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Two Steps",
-        "url": "https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM"
-      },
-      "artists": [
-        {
-          "name": "Maths Time Joy",
-          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
-        },
-        {
-          "name": "Kevin Garrett",
-          "url": "https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Two Steps",
-      "url": "https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Small Moments",
         "url": "https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC"
       },
@@ -1099,22 +1079,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Super Good Times",
-        "url": "https://open.spotify.com/album/68cDaUqXV1gBfUTikzcpwj"
-      },
-      "artists": [
-        {
-          "name": "Suray Sertin",
-          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
-        }
-      ],
-      "duration_ms": 221217,
-      "name": "Super Good Times",
-      "url": "https://open.spotify.com/track/0evxHcyCVN4f88IDipmvge"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "What Kinda Music (Bonus Tracks)",
         "url": "https://open.spotify.com/album/5ciBtE0wpwlIew7zvUKmd2"
       },
@@ -1131,6 +1095,22 @@
       "duration_ms": 189683,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/4jbzmPDdZMp4JFcif3OPnH"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Super Good Times",
+        "url": "https://open.spotify.com/album/68cDaUqXV1gBfUTikzcpwj"
+      },
+      "artists": [
+        {
+          "name": "Suray Sertin",
+          "url": "https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP"
+        }
+      ],
+      "duration_ms": 221217,
+      "name": "Super Good Times",
+      "url": "https://open.spotify.com/track/0evxHcyCVN4f88IDipmvge"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -1211,6 +1191,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Third (Deluxe)",
+        "url": "https://open.spotify.com/album/6WIYPzBb2wVK5HOSN2oyDx"
+      },
+      "artists": [
+        {
+          "name": "Jitwam",
+          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
+        }
+      ],
+      "duration_ms": 264581,
+      "name": "Brooklyn Ballers",
+      "url": "https://open.spotify.com/track/6It85s3KMaxCxIppRGx5U8"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Bad Seeds",
         "url": "https://open.spotify.com/album/5QP5uWmiAIcOpTStPW3V86"
       },
@@ -1243,22 +1239,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Third (Deluxe)",
-        "url": "https://open.spotify.com/album/6WIYPzBb2wVK5HOSN2oyDx"
-      },
-      "artists": [
-        {
-          "name": "Jitwam",
-          "url": "https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS"
-        }
-      ],
-      "duration_ms": 264581,
-      "name": "Brooklyn Ballers",
-      "url": "https://open.spotify.com/track/6It85s3KMaxCxIppRGx5U8"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Forward",
         "url": "https://open.spotify.com/album/1pDgEvP1r2JI9HZl39clKx"
       },
@@ -1283,22 +1263,6 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Above",
-        "url": "https://open.spotify.com/album/1eFyId3Wx47Wa0zyhVbXYv"
-      },
-      "artists": [
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        }
-      ],
-      "duration_ms": 185168,
-      "name": "Above",
-      "url": "https://open.spotify.com/track/0kFdA2tQCzdJBiafiBM0lA"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
         "name": "Nah It Ain't The Same",
         "url": "https://open.spotify.com/album/27QNFuoSpcwEYnMJhwHhiP"
       },
@@ -1311,6 +1275,46 @@
       "duration_ms": 251831,
       "name": "Nah It Ain't The Same",
       "url": "https://open.spotify.com/track/3KKOxkUPWhKQssiMCSJxqO"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "I See You Sometimes",
+        "url": "https://open.spotify.com/album/6EbLhss9FGRx89U6Oo4DkB"
+      },
+      "artists": [
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        },
+        {
+          "name": "Jeshi",
+          "url": "https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C"
+        }
+      ],
+      "duration_ms": 185786,
+      "name": "I See You Sometimes",
+      "url": "https://open.spotify.com/track/0FBqO0pBgYmtQfRFXp2UwW"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/2KgYOIJ18OiPAMH9KRf1Ff"
+      },
+      "artists": [
+        {
+          "name": "Anchorsong",
+          "url": "https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh"
+        },
+        {
+          "name": "Bookend",
+          "url": "https://open.spotify.com/artist/25Fdr64rur2zWVMYSnit4i"
+        }
+      ],
+      "duration_ms": 242657,
+      "name": "The Ocean",
+      "url": "https://open.spotify.com/track/11ZEPoLOymnDqXoc1e98FO"
     },
     {
       "added_at": "2023-12-01 00:01:00",

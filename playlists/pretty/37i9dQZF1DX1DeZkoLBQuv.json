@@ -1,12 +1,12 @@
 {
   "description": "Celebre o nascimento de Jesus com louvores natalinos!",
-  "num_followers": 7864,
+  "num_followers": 7938,
   "original_name": "Louvores de Natal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjEzMDFhZTMzZWYwYWI3YjM4Y2NlZjU2ZDI4ZWI4YTMzOWE5OWM1",
+  "snapshot_id": "MCxlZjFmMjA3ZDU2OGI4YTI2ZjM5NTY5ZmRkMWFhOWM1NGYzMzIyM2Y1",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Porque Ele Vive (Voz e Viol\u00e3o)",
-        "url": "https://open.spotify.com/album/5FITCXCCV96scIxzzeLBuI"
-      },
-      "artists": [
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        }
-      ],
-      "duration_ms": 235500,
-      "name": "Porque Ele Vive",
-      "url": "https://open.spotify.com/track/7DK9ghk8bJnOD3PdzjV16f"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "\u00d3 Noite Santa",
         "url": "https://open.spotify.com/album/0vXRWz90LTIjiXKcoorBfl"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 310714,
       "name": "\u00d3 Noite Santa",
       "url": "https://open.spotify.com/track/5yhQjZ8DUS5SrPI5WNUYFi"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Porque Ele Vive (Voz e Viol\u00e3o)",
+        "url": "https://open.spotify.com/album/5FITCXCCV96scIxzzeLBuI"
+      },
+      "artists": [
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        }
+      ],
+      "duration_ms": 235500,
+      "name": "Porque Ele Vive",
+      "url": "https://open.spotify.com/track/7DK9ghk8bJnOD3PdzjV16f"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Lindo \u00c9s (Beauty, Beauty)",
-        "url": "https://open.spotify.com/album/5ZUk82kpURcxXt1x2ShAZX"
-      },
-      "artists": [
-        {
-          "name": "Gabi Sampaio",
-          "url": "https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ"
-        }
-      ],
-      "duration_ms": 298488,
-      "name": "Lindo \u00c9s (Beauty, Beauty)",
-      "url": "https://open.spotify.com/track/2yxJ5NkW9MoibplQAO0pPN"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Gl\u00f3ria e Aleluia (Christmas)",
         "url": "https://open.spotify.com/album/3yKAc435PtmccjTcqmoWRl"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 234663,
       "name": "Gl\u00f3ria e Aleluia - Christmas",
       "url": "https://open.spotify.com/track/5lNAIysz4Ca2y06ge7I7rF"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Lindo \u00c9s (Beauty, Beauty)",
+        "url": "https://open.spotify.com/album/5ZUk82kpURcxXt1x2ShAZX"
+      },
+      "artists": [
+        {
+          "name": "Gabi Sampaio",
+          "url": "https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ"
+        }
+      ],
+      "duration_ms": 298488,
+      "name": "Lindo \u00c9s (Beauty, Beauty)",
+      "url": "https://open.spotify.com/track/2yxJ5NkW9MoibplQAO0pPN"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -407,42 +407,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Viva",
-        "url": "https://open.spotify.com/album/62xmf2as0ezc3sb0zj5Da0"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 275880,
-      "name": "Reden\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/1zqYwPjbHG9klWeR3Q28OG"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Novamente",
-        "url": "https://open.spotify.com/album/0ibQw0V0Y9WfFMWZdIwTJe"
-      },
-      "artists": [
-        {
-          "name": "Samuel Mizrahy",
-          "url": "https://open.spotify.com/artist/5KjzizwcrrTujTyKJjmyC7"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 418240,
-      "name": "Jesus Te Amamos (feat. N\u00edvea Soares)",
-      "url": "https://open.spotify.com/track/40VfGWKp45JemcR9NWY13U"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "\u00c9 Natal",
         "url": "https://open.spotify.com/album/7FjU2uBOba0eaYi5NsuMkn"
       },
@@ -487,6 +451,42 @@
       "duration_ms": 204196,
       "name": "Natal",
       "url": "https://open.spotify.com/track/5JqMJ3rqFdyPjlzCEHrRnF"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Viva",
+        "url": "https://open.spotify.com/album/62xmf2as0ezc3sb0zj5Da0"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 275880,
+      "name": "Reden\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1zqYwPjbHG9klWeR3Q28OG"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Novamente",
+        "url": "https://open.spotify.com/album/0ibQw0V0Y9WfFMWZdIwTJe"
+      },
+      "artists": [
+        {
+          "name": "Samuel Mizrahy",
+          "url": "https://open.spotify.com/artist/5KjzizwcrrTujTyKJjmyC7"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 418240,
+      "name": "Jesus Te Amamos (feat. N\u00edvea Soares)",
+      "url": "https://open.spotify.com/track/40VfGWKp45JemcR9NWY13U"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Da Eternidade",
-        "url": "https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 325311,
-      "name": "Faz Brilhar / Brilha Jesus",
-      "url": "https://open.spotify.com/track/12xfJEKVa4WQRmpVykKXAY"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "O Natal de Todos N\u00f3s",
         "url": "https://open.spotify.com/album/75oUMpemNX3oJtjmbPLdxB"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 396266,
       "name": "Noite Santa (Cantique de Noel)",
       "url": "https://open.spotify.com/track/6keWbatyTby28odg835j18"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Da Eternidade",
+        "url": "https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 325311,
+      "name": "Faz Brilhar / Brilha Jesus",
+      "url": "https://open.spotify.com/track/12xfJEKVa4WQRmpVykKXAY"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -659,22 +659,18 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Bossa Christmas",
-        "url": "https://open.spotify.com/album/16g8Bf8U4YJg9tUlt7ACPq"
+        "name": "Noite de Paz - Can\u00e7\u00f5es para Celebrar",
+        "url": "https://open.spotify.com/album/39EJNgjtmDNElujFEAbsA1"
       },
       "artists": [
         {
-          "name": "Lagoinha Music",
-          "url": "https://open.spotify.com/artist/2zU9KvRIyqKppyGRam4lhG"
-        },
-        {
-          "name": "Crystal Pereira",
-          "url": "https://open.spotify.com/artist/5n232U3bmYM1Azax5Kz7zb"
+          "name": "Perlla",
+          "url": "https://open.spotify.com/artist/2DD48qUxMj0QmjMqWOZ4WK"
         }
       ],
-      "duration_ms": 243349,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/65d8Zuzcuvghb9YNdSSAoQ"
+      "duration_ms": 193000,
+      "name": "Vem Chegando o Natal",
+      "url": "https://open.spotify.com/track/3gPpfWdDTHNniJpWql9BI5"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -699,38 +695,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Noite de Paz - Can\u00e7\u00f5es para Celebrar",
-        "url": "https://open.spotify.com/album/39EJNgjtmDNElujFEAbsA1"
-      },
-      "artists": [
-        {
-          "name": "Perlla",
-          "url": "https://open.spotify.com/artist/2DD48qUxMj0QmjMqWOZ4WK"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Vem Chegando o Natal",
-      "url": "https://open.spotify.com/track/3gPpfWdDTHNniJpWql9BI5"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Cl\u00e1ssicos",
-        "url": "https://open.spotify.com/album/3ZMh5UQE6PXXzx09BtUHz7"
-      },
-      "artists": [
-        {
-          "name": "Kemuel",
-          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
-        }
-      ],
-      "duration_ms": 220788,
-      "name": "Maravilhoso \u00c9 / Rei dos Reis",
-      "url": "https://open.spotify.com/track/10RdMJVJqgP8ooC3csHvi4"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Natal Real",
         "url": "https://open.spotify.com/album/2m49nalJlB2nQHMjZaeIDK"
       },
@@ -751,6 +715,42 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Bossa Christmas",
+        "url": "https://open.spotify.com/album/16g8Bf8U4YJg9tUlt7ACPq"
+      },
+      "artists": [
+        {
+          "name": "Lagoinha Music",
+          "url": "https://open.spotify.com/artist/2zU9KvRIyqKppyGRam4lhG"
+        },
+        {
+          "name": "Crystal Pereira",
+          "url": "https://open.spotify.com/artist/5n232U3bmYM1Azax5Kz7zb"
+        }
+      ],
+      "duration_ms": 243349,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/65d8Zuzcuvghb9YNdSSAoQ"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Cl\u00e1ssicos",
+        "url": "https://open.spotify.com/album/3ZMh5UQE6PXXzx09BtUHz7"
+      },
+      "artists": [
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm"
+        }
+      ],
+      "duration_ms": 220788,
+      "name": "Maravilhoso \u00c9 / Rei dos Reis",
+      "url": "https://open.spotify.com/track/10RdMJVJqgP8ooC3csHvi4"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Folk Christmas",
         "url": "https://open.spotify.com/album/0FzqPCxiw93GwXTou4IvZX"
       },
@@ -763,6 +763,50 @@
       "duration_ms": 171571,
       "name": "Surgem Anjos Proclamando",
       "url": "https://open.spotify.com/track/5pNlqLCLOabYZ4loPeomBL"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Nosso Natal",
+        "url": "https://open.spotify.com/album/0evesoYPLqjpaYx6D5Y6bW"
+      },
+      "artists": [
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Davidson Silva",
+          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
+        },
+        {
+          "name": "Flavio Vitor Jr.",
+          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
+        },
+        {
+          "name": "Andr\u00e9 Cavalcante",
+          "url": "https://open.spotify.com/artist/7LNwdGKKXpM9DXEx3TagtG"
+        },
+        {
+          "name": "Ziza Fernandes",
+          "url": "https://open.spotify.com/artist/1FpUYWktSYkpryKsKQFWiK"
+        },
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF"
+        },
+        {
+          "name": "Ramon e Rafael",
+          "url": "https://open.spotify.com/artist/0ivA4QP4IYhr99InHqVOLV"
+        },
+        {
+          "name": "Jake Trevisan",
+          "url": "https://open.spotify.com/artist/62TyTZv47kAsgT5yoqrTDy"
+        }
+      ],
+      "duration_ms": 542964,
+      "name": "Nosso Natal",
+      "url": "https://open.spotify.com/track/59a4WSUh9OPf1CzGfuJjE3"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -799,26 +843,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Nasceu o Redentor",
-        "url": "https://open.spotify.com/album/6UWRRZufr3qRffAOkIfTfW"
-      },
-      "artists": [
-        {
-          "name": "Altomonte",
-          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
-        },
-        {
-          "name": "Zoe Lilly",
-          "url": "https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp"
-        }
-      ],
-      "duration_ms": 324820,
-      "name": "\u00c9 meia-noite (\u00d3, Noite Santa)",
-      "url": "https://open.spotify.com/track/3Eozx9uSt4NhxmdBonTIFE"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Celebrando o Natal",
         "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
       },
@@ -851,6 +875,26 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Nasceu o Redentor",
+        "url": "https://open.spotify.com/album/6UWRRZufr3qRffAOkIfTfW"
+      },
+      "artists": [
+        {
+          "name": "Altomonte",
+          "url": "https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu"
+        },
+        {
+          "name": "Zoe Lilly",
+          "url": "https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp"
+        }
+      ],
+      "duration_ms": 324820,
+      "name": "\u00c9 meia-noite (\u00d3, Noite Santa)",
+      "url": "https://open.spotify.com/track/3Eozx9uSt4NhxmdBonTIFE"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Gl\u00f3ria a Deus nas Alturas",
         "url": "https://open.spotify.com/album/3oNhHQUS1PmE0LM5Pyf3Pk"
       },
@@ -867,30 +911,6 @@
       "duration_ms": 242192,
       "name": "Gl\u00f3ria a Deus nas Alturas",
       "url": "https://open.spotify.com/track/7AblmQzKpVtPTvbMznVBvA"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Outra Vez, Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3RZA19AblrMjpYWIVzPU59"
-      },
-      "artists": [
-        {
-          "name": "Diante do Trono",
-          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
-        },
-        {
-          "name": "Ana Paula Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 282500,
-      "name": "Como Um de N\u00f3s - Ao Vivo",
-      "url": "https://open.spotify.com/track/1ALCSur6iFfGd1UuVoF0Td"
     }
   ],
   "unique_name": "Louvores de Natal",

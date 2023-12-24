@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover:LEEWOO\(이우\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,027 likes - 102 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,085 likes - 102 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ballad, Ryeoyo\_KANG MINKYUNG](https://open.spotify.com/track/03XJBAAuyXh10dBgA3E4Au) | [KANG MINKYUNG](https://open.spotify.com/artist/15Dv0lqpiL5zD6OqqwUEP4) | [Ballad, Ryeoyo\_KANG MINKYUNG](https://open.spotify.com/album/6S3GFmLtbCNKpAj7ERn3QM) | 0:03 |
-| 2 | [the different way](https://open.spotify.com/track/1ajbBbe73q6D6KbY4YuRwC) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz) | [SHE](https://open.spotify.com/album/0iRDF7wPErnrRDaL0XpRZw) | 3:37 |
+| 2 | [the different way](https://open.spotify.com/track/4DWbNWDPmwahzwPtQN2Dtz) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz) | [SHE](https://open.spotify.com/album/7ru2skAL25CnTn4Y8Tg0QY) | 3:37 |
 | 3 | [Let's Say Goodbye](https://open.spotify.com/track/2KNEK9rGKQKKNE6FTt8PvQ) | [Parc Jae Jung](https://open.spotify.com/artist/7kXQtwn3ZRTBc8JYNyGwQy) | [Alone](https://open.spotify.com/album/3dmYqpVPhfNzIGLd3p57Y4) | 4:03 |
 | 4 | [Alley \(with SUNG SI KYUNG\)](https://open.spotify.com/track/2Qp3RHSP5f9csqFhhFgPrC) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Alley](https://open.spotify.com/album/1klgaObg00RhXIsKmVysk4) | 4:45 |
 | 5 | [Curiosity](https://open.spotify.com/track/2XCErHtPrNPA3SIYgAoica) | [MIJOO](https://open.spotify.com/artist/3kDLzk5AtS3cQaVXkISAzO) | [Curiosity](https://open.spotify.com/album/3DKezdDevdEAMi3gT3czOt) | 3:24 |
 | 6 | [사랑을 사랑하고 싶어 Love was my song](https://open.spotify.com/track/2VuSetmtz31gOKyHVD1LXg) | [parkjiyoon](https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi) | [숨을 쉰다 breathe breathe](https://open.spotify.com/album/1FmNBXnEFNjsYzw0KcHMIZ) | 3:15 |
-| 7 | [Stranger \(Feat\. 10cm\)](https://open.spotify.com/track/0HrV0lDKAI2TGSpJNX358K) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Last Winter](https://open.spotify.com/album/41vj1sO4NJFriquGszDSh5) | 3:21 |
+| 7 | [Stranger \(Feat\. 10cm\)](https://open.spotify.com/track/0HrV0lDKAI2TGSpJNX358K) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Last Winter](https://open.spotify.com/album/41vj1sO4NJFriquGszDSh5) | 3:21 |
 | 8 | [With You](https://open.spotify.com/track/4yZAAPTLlEb60Ny7bhepqx) | [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [WINTER of aespa X MY DEMON](https://open.spotify.com/album/7EXrNMKKkkE3hRBpeZcT6y) | 4:14 |
 | 9 | [Sunday Latte](https://open.spotify.com/track/3I13LUlIE4ou7Ene2qkjOY) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb), [Jea](https://open.spotify.com/artist/3cls7yF8iRNkOXJGLsGRal) | [Sunday Latte \(from "A Good Day to be a Dog" Original Television Sountrack, Pt\. 6\)](https://open.spotify.com/album/5YsAi8dvrfx2oqnJALBLig) | 3:15 |
 | 10 | [her](https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [her](https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1) | 2:35 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 101 | [Be forgotten](https://open.spotify.com/track/3mXe1JuZVTmmJ7mZQrwvvc) | [Navi](https://open.spotify.com/artist/1snFqLpoCORfbKnafugg3v) | [Be forgotten](https://open.spotify.com/album/6DpqBvM1vhIT0Ttqrqbl0k) | 3:40 |
 | 102 | [Feeling of love](https://open.spotify.com/track/45S9VsBpy4zZ5BHcwklih2) | [Yeji \(GyeongseoYeji\)](https://open.spotify.com/artist/6jWusfRYDNKV2iwUtMO7kp) | [My Universe](https://open.spotify.com/album/1t7A3JHDRTdFb1VM9DDAxV) | 3:53 |
 
-Snapshot ID: `MCwwZjYyMDkwZTVlNWJjYmYwMmNhN2MwZDY3OTQwMGYwNWJhNWM1YmQy`
+Snapshot ID: `MCw1YjdiNGNkZjY0MGM3ODBmNmE0OWQ2YTc5N2U2ZjI5OTFmMTAzNjIy`

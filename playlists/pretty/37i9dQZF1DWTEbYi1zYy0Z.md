@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,759 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,792 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 10 | [Ride the Vibes](https://open.spotify.com/track/2lJzoaHbYNzkvJdG2uSSqv) | [Willie Bradley](https://open.spotify.com/artist/4gbsj58PegOOgFxc5OfIt3), [Ragan Whiteside](https://open.spotify.com/artist/4cvyvGmavtDowPmJMHMlUq) | [Ride the Vibes](https://open.spotify.com/album/6KkYYjSl0cr57tiLlfT7HR) | 3:55 |
 | 11 | [Please Mr\. Groove](https://open.spotify.com/track/4t6HSsIeDTF8Iis2JTSHP5) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Comfort Zone](https://open.spotify.com/album/3Mj5ZSwArYBRCCRt6ZnN3L) | 3:53 |
 | 12 | [Twilight](https://open.spotify.com/track/2yHVPYPyY6ufasL41DYwh7) | [Randy Scott](https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw) | [Twilight](https://open.spotify.com/album/1Gr8ZUvFXgVZWzSLOMW7bE) | 4:33 |
-| 13 | [Victoria Falls](https://open.spotify.com/track/4fudubz4Z7yzxrbn6Ytgnr) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Angie Nicole](https://open.spotify.com/artist/5tZTqwfxy4zLaEWkVejTws) | [Victoria Falls](https://open.spotify.com/album/0XeOa7J4MyLZcpvEDkq4fp) | 5:18 |
+| 13 | [Victoria Falls](https://open.spotify.com/track/5bMOMAvO7ZgE3Nqij4plFk) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Angie Nicole](https://open.spotify.com/artist/5tZTqwfxy4zLaEWkVejTws) | [Victoria Falls](https://open.spotify.com/album/3fYI1OMxP4ZkBRfklrnVWg) | 5:18 |
 | 14 | [A Beautiful Dream](https://open.spotify.com/track/54q9Z3bppcAviIX7cX5mXB) | [Andy Snitzer](https://open.spotify.com/artist/6FaR0vA7ulJTJ1a4BRlJt7) | [A Beautiful Dream](https://open.spotify.com/album/3OLBqYv0Tv6QAlRdcpxQsl) | 4:00 |
 | 15 | [On the Up and Up](https://open.spotify.com/track/2VGeV6n8YqmOoOY0zhOBeB) | [Michael Manson](https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v) | [On the Up and Up](https://open.spotify.com/album/0fendbHIfxrBOViSQahezC) | 4:08 |
 | 16 | [Champagne Sky](https://open.spotify.com/track/1Nl85nf0Q9JNUVOxSa86k4) | [Ilya Serov](https://open.spotify.com/artist/1iffcHDU0oWJvEXhufA71G) | [Champagne Sky](https://open.spotify.com/album/7813D7cYBLXzJAxmGeTtd9) | 4:08 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 40 | [Can You Stand the Rain](https://open.spotify.com/track/0yshM8ljTRo3H42dUlA5MR) | [Brian Lenair](https://open.spotify.com/artist/5yqmxKpOCtz0LAjPNlvf68) | [Can You Stand the Rain](https://open.spotify.com/album/0lIu2Rc7OdLodxbwCbsd3i) | 4:04 |
 | 41 | [Taboo](https://open.spotify.com/track/2RB3BwwCXlFEKO06jUL0Dr) | [Damien Escobar](https://open.spotify.com/artist/2GkMspzmKKkaeX62pwJZhG) | [Taboo](https://open.spotify.com/album/5CU4FiM0dodXZWKSW8vfdd) | 3:22 |
 | 42 | [Detour](https://open.spotify.com/track/0oWyGFYrxLSsgZkgeIZvsu) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Detour](https://open.spotify.com/album/7bdEN9nnzV8n41s6mYLJKb) | 4:08 |
-| 43 | [Easy](https://open.spotify.com/track/2QMncvsysL74Zs8EHYWaCz) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [Easy](https://open.spotify.com/album/7GKX3h5NvbhW93BSoj8rw3) | 4:05 |
+| 43 | [Easy](https://open.spotify.com/track/1blOUnjI4cSL9IgCEbI2wm) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [Easy](https://open.spotify.com/album/0Af5TGXLXkTwAeMlfADgUi) | 4:05 |
 | 44 | [Whatever You Like](https://open.spotify.com/track/1U05WLPnnMpGFS99PAyj0n) | [The Smooth Jazz Alley](https://open.spotify.com/artist/3rpiTLuutXBtuveSbsmpkJ), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [Here's the Thing](https://open.spotify.com/album/3vT5YoaOxXO6rY7YPmHxv2) | 5:38 |
 | 45 | [Waiting in the Wings](https://open.spotify.com/track/0tbZoaS14AUWqkrXG4Twcr) | [James 'PJ' Spraggins](https://open.spotify.com/artist/5uOh9FFj1NoL3n4tbS6lyV) | [Stick It Out](https://open.spotify.com/album/5Cd0BxylSBhnRDhFCNxSPz) | 4:32 |
 | 46 | [Let’s Take A Ride](https://open.spotify.com/track/5KkvZL3s2M04v0OGtfZidL) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Just Like That](https://open.spotify.com/album/0FZhmvhU6G8QTfj1Buk7nX) | 4:14 |
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 59 | [Stride](https://open.spotify.com/track/67WJeEof1aydWU9S7CyRVg) | [Eric Essix](https://open.spotify.com/artist/4wvpXjRsX6L8NJMbx996yp) | [Stride](https://open.spotify.com/album/4G0oTjBaePASiWKmPPvhkF) | 4:14 |
 | 60 | [Deep Dive](https://open.spotify.com/track/1mnNpkP5NgED8O3Zx6GuCA) | [Will Donato](https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9) | [Deep Dive](https://open.spotify.com/album/3afqxp4kQVjyBkS05sCKf2) | 4:05 |
 | 61 | [Heartwood](https://open.spotify.com/track/2v3nj34zNc1gt2cySA9992) | [Lawson Rollins](https://open.spotify.com/artist/3blOsom4oRo6dAN4TB7xpv) | [Heartwood](https://open.spotify.com/album/5v508FMhSlWdwqg5kUXqsX) | 5:14 |
-| 62 | [LOVE AGAIN \- Instrumental](https://open.spotify.com/track/3HlCC1C3oMLOn5khnK82PP) | [Smooth Jazz All Stars](https://open.spotify.com/artist/2ThUOWiiWP3YdZqs4WYNOi) | [Smooth Jazz Renditions of Daniel Caesar \(Instrumental\)](https://open.spotify.com/album/3VKiW7p1ekczui9eA0kZqK) | 3:05 |
+| 62 | [LOVE AGAIN \- Instrumental](https://open.spotify.com/track/6aw0UNb9YaocftqAwT4RTe) | [Smooth Jazz All Stars](https://open.spotify.com/artist/2ThUOWiiWP3YdZqs4WYNOi) | [Smooth Jazz Renditions of Daniel Caesar \(Instrumental\)](https://open.spotify.com/album/7KBY1S3EupqrUJzgTlx5iC) | 3:05 |
 | 63 | [For The Cool In You](https://open.spotify.com/track/3w948fDr5ERQEFn3TmGHOj) | [Cindy Bradley](https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J) | [Promise](https://open.spotify.com/album/5pUlgSSkbZdyzglBJiRy2p) | 4:29 |
 | 64 | [It's You](https://open.spotify.com/track/6RIfyAqxJTMMUu7IlsYXfC) | [Lin Rountree](https://open.spotify.com/artist/4SVXSNL59kiSLgjwZeEfDg) | [The Message](https://open.spotify.com/album/3WubX3JoceDkI0SiSRcWFG) | 4:20 |
 | 65 | [Undulation](https://open.spotify.com/track/5iIWIbNwJRudKJfAzAD7YH) | [Kayla Waters](https://open.spotify.com/artist/20DXNOp0Em8SisS8UjxPiA) | [Undulation](https://open.spotify.com/album/39FFRTCXimTQgkeQ2pBv6d) | 4:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 99 | [Mama Smiles](https://open.spotify.com/track/6F0XssVvn2ePxP49sXLPZP) | [Michael Haggins](https://open.spotify.com/artist/6CKmfNuULyn3w1pMMHrHqx) | [Mama Smiles](https://open.spotify.com/album/4UOfNT5ngk0VXXBxSiH7hy) | 4:20 |
 | 100 | [Living in This House](https://open.spotify.com/track/5S2PbWaPKAsVf7D2cnzplv) | [Threestyle](https://open.spotify.com/artist/6Dj8bjGUnCYJddzoiTdJjX) | [Living in This House](https://open.spotify.com/album/2pz7mH3t10WshRh1P23qcP) | 3:54 |
 
-Snapshot ID: `MCxlMzE4NmQ2MzNmMmI4YmFlZDIzMDlhOGRlM2IxYmQ4ZTk2YjI3OThm`
+Snapshot ID: `MCw0NTdkMWE2YjViY2QyYTA3ODZjYWEyNWZlZWY1OWNmMWFlNDMyOTI4`

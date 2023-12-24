@@ -4,7 +4,7 @@
 
 > The top 150 tracks from Fresh Finds R&B in 2023\. Cover: <a href="https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD?si=tXThmOY1RGeAdeUHnJBI8w"> JayO </a>\. Updates every Wednesday.
 
-1,932 songs - 4 day 3 hr 33 min
+1,933 songs - 4 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -477,7 +477,8 @@
 | [DOWN](https://open.spotify.com/track/7IXo0p7e8dQY2cqpTYzBmu) | [Malek Lasike](https://open.spotify.com/artist/5nDVx1nImDgnXayZDWm69e), [Donell Lewis](https://open.spotify.com/artist/6feZH59Dj4tl1bQ8D2gukz) | [DOWN](https://open.spotify.com/album/6PtM1fUUxBisX3p9mNvrN8) | 3:19 | 2022-08-03 | 2022-08-09 |
 | [Down 4 Me](https://open.spotify.com/track/71zmuI6dfUCeXcOuPf7KMU) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx) | [Down 4 Me](https://open.spotify.com/album/5tw7yccjFJUo2UBi34X5Db) | 2:44 | 2023-08-25 | 2023-11-30 |
 | [Down Bad](https://open.spotify.com/track/2umtmA1Zda1G72iEvm6Ihx) | [Journee](https://open.spotify.com/artist/3tr38dT5o6Kk5WO5OtmPoa) | [Down Bad](https://open.spotify.com/album/2aZ9ipJIdvwnzl3CuMwEzr) | 2:35 | 2023-08-17 | 2023-11-30 |
-| [Down For You](https://open.spotify.com/track/3BfR6XWxXHV5B8lWZMDZCI) | [Suzi](https://open.spotify.com/artist/3r3Rkuc4jmZHXgchgaXwnv) | [Down For You](https://open.spotify.com/album/6wg2iqDtgVi1bkdD6gc1v8) | 2:40 | 2023-03-03 |  |
+| [Down For You](https://open.spotify.com/track/03FU73fbUbJCBPLtKa18KP) | [Suzi](https://open.spotify.com/artist/3r3Rkuc4jmZHXgchgaXwnv) | [Down For You](https://open.spotify.com/album/51ZIht93bVSLAcV1YmzfzB) | 2:40 | 2023-11-29 |  |
+| [Down For You](https://open.spotify.com/track/3BfR6XWxXHV5B8lWZMDZCI) | [Suzi](https://open.spotify.com/artist/3r3Rkuc4jmZHXgchgaXwnv) | [Down For You](https://open.spotify.com/album/6wg2iqDtgVi1bkdD6gc1v8) | 2:40 | 2023-03-03 | 2023-12-24 |
 | [Down On My Luck](https://open.spotify.com/track/1E78XkA01f0VND5ICLTf3t) | [Low.bō](https://open.spotify.com/artist/0sHhVckLys5GQXpszVYa2Y) | [Down On My Luck](https://open.spotify.com/album/2aNEzF8uJRP8CE9fAILuKi) | 3:27 | 2023-01-21 | 2023-03-11 |
 | [Draft 7 "fruitless love"](https://open.spotify.com/track/0asxbwYkiyRQnx8TiD8dFN) | [Hailes](https://open.spotify.com/artist/5D4DYVjwfm0svv1kD4QnKR) | [Draft 7 "fruitless love"](https://open.spotify.com/album/5f6YVKQVqduSfMS94UoSNI) | 2:46 | 2022-03-11 | 2022-04-28 |
 | [Draft 7 "fruitless love"](https://open.spotify.com/track/4yPApFY0o79uDgRFoWw46T) | [Hailes](https://open.spotify.com/artist/5D4DYVjwfm0svv1kD4QnKR) | [Good Things Take Time](https://open.spotify.com/album/0XUDAL1RdPt7riwrpz96ZI) | 2:46 | 2023-10-03 | 2023-11-30 |

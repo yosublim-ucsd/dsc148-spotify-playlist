@@ -1,12 +1,12 @@
 {
   "description": "electronic nostalgia \u26a1\ufe0f Cover: The xx",
-  "num_followers": 31136,
+  "num_followers": 31210,
   "original_name": "voltage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGFhYmQzZjFkYWVmZDg0YjQ0YmRkOTY3OTk3ZGY0NzgyYjIxNzBj",
+  "snapshot_id": "MCxjY2EzMWZmOGE3MGU2YjNmYWMxYTI2NGYxYmFmYTliMGI2ZDQ5MmQ1",
   "tracks": [
     {
       "added_at": "2023-12-08 21:38:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Merriweather Post Pavilion",
+        "url": "https://open.spotify.com/album/6BRq5g6CWiFgN3NrjLGAYq"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "duration_ms": 340786,
+      "name": "My Girls",
+      "url": "https://open.spotify.com/track/7jZBPuJmkOsfPkwFD30dAA"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "Kiasmos",
         "url": "https://open.spotify.com/album/7pBDu7nc2KaMsh0SfZMc2d"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 250398,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/46SpOq8ojlVUBrgGnUzUlV"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Merriweather Post Pavilion",
-        "url": "https://open.spotify.com/album/6BRq5g6CWiFgN3NrjLGAYq"
-      },
-      "artists": [
-        {
-          "name": "Animal Collective",
-          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
-        }
-      ],
-      "duration_ms": 340786,
-      "name": "My Girls",
-      "url": "https://open.spotify.com/track/7jZBPuJmkOsfPkwFD30dAA"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Sylvan Esso",
-        "url": "https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL"
-      },
-      "artists": [
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        }
-      ],
-      "duration_ms": 200160,
-      "name": "Hey Mami",
-      "url": "https://open.spotify.com/track/7bp7QInQ5uIMzYjJqTtjVA"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "TAPE TWO",
         "url": "https://open.spotify.com/album/7ACFIbsrhepZRIbKnRzxjy"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 222792,
       "name": "I Heard",
       "url": "https://open.spotify.com/track/3zgptmNsfqy1JscBOebsYJ"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Sylvan Esso",
+        "url": "https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL"
+      },
+      "artists": [
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "duration_ms": 200160,
+      "name": "Hey Mami",
+      "url": "https://open.spotify.com/track/7bp7QInQ5uIMzYjJqTtjVA"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "New Energy",
-        "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 311893,
-      "name": "Lush",
-      "url": "https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Tremors",
         "url": "https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 233017,
       "name": "The Wheel",
       "url": "https://open.spotify.com/track/2ZqhjS3T4r3DLcQqI2sqf5"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "New Energy",
+        "url": "https://open.spotify.com/album/74r6JJ97ipO0CREXP9PMqZ"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 311893,
+      "name": "Lush",
+      "url": "https://open.spotify.com/track/4KjNEsQ4jkqXwCmsn71a9p"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -911,6 +911,26 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
+        "name": "Lockjaw",
+        "url": "https://open.spotify.com/album/5I0kS30hvtI7a1LFEhaPve"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 254037,
+      "name": "This Song Is Not About A Girl",
+      "url": "https://open.spotify.com/track/0Z7GNrvgEj3iiIxxPtRwIe"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
         "name": "See Mystery Lights: Remixes & B-Sides",
         "url": "https://open.spotify.com/album/7JNgMsuPDrqguKEh5rGaFb"
       },
@@ -927,22 +947,6 @@
       "duration_ms": 251380,
       "name": "Psychic City - Classixx Remix",
       "url": "https://open.spotify.com/track/4NWpGwfkWMlA7G2ZpFKDXZ"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Flume: Deluxe Edition",
-        "url": "https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        }
-      ],
-      "duration_ms": 209376,
-      "name": "Sleepless feat. Jezzabell Doran",
-      "url": "https://open.spotify.com/track/0XzyXP0E9jsoOwu5Rd7hTV"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1011,22 +1015,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Lockjaw",
-        "url": "https://open.spotify.com/album/5I0kS30hvtI7a1LFEhaPve"
+        "name": "Flume: Deluxe Edition",
+        "url": "https://open.spotify.com/album/1yc3Ldus5BkJBVX9mSFMt4"
       },
       "artists": [
         {
           "name": "Flume",
           "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
         }
       ],
-      "duration_ms": 254037,
-      "name": "This Song Is Not About A Girl",
-      "url": "https://open.spotify.com/track/0Z7GNrvgEj3iiIxxPtRwIe"
+      "duration_ms": 209376,
+      "name": "Sleepless feat. Jezzabell Doran",
+      "url": "https://open.spotify.com/track/0XzyXP0E9jsoOwu5Rd7hTV"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Joli Mai",
-        "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
-      },
-      "artists": [
-        {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
-        }
-      ],
-      "duration_ms": 226479,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Woman",
         "url": "https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 206746,
       "name": "Last Dance",
       "url": "https://open.spotify.com/track/4b0RAiqz6oEZvvpbiFuIAp"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Joli Mai",
+        "url": "https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "duration_ms": 226479,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Dual",
-        "url": "https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc"
-      },
-      "artists": [
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 229155,
-      "name": "Without",
-      "url": "https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Someday Somewhere",
         "url": "https://open.spotify.com/album/6ltLI77XvUOwApSWpZbUGE"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 196546,
       "name": "Lovesick",
       "url": "https://open.spotify.com/track/3GGg9FWBlAjrAvC16kazer"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Dual",
+        "url": "https://open.spotify.com/album/5mFDw935vpLS12eNpNhzOc"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 229155,
+      "name": "Without",
+      "url": "https://open.spotify.com/track/0TxQOJfZ8GgotoZWbhqi5Y"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1439,6 +1439,22 @@
       "duration_ms": 91010,
       "name": "While You Doooo",
       "url": "https://open.spotify.com/track/2y26A8ntk24DSH0cXe8zpB"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "Sparks",
+        "url": "https://open.spotify.com/album/2zJc8xRHUCfMQwIlVe0NG9"
+      },
+      "artists": [
+        {
+          "name": "Chrome Sparks",
+          "url": "https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM"
+        }
+      ],
+      "duration_ms": 181149,
+      "name": "Marijuana",
+      "url": "https://open.spotify.com/track/4MPyyq69wHFvmjCKSpN4Ri"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1491,18 +1507,18 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "Sparks",
-        "url": "https://open.spotify.com/album/2zJc8xRHUCfMQwIlVe0NG9"
+        "name": "Why Make Sense? (Definitive Version)",
+        "url": "https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4"
       },
       "artists": [
         {
-          "name": "Chrome Sparks",
-          "url": "https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM"
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
         }
       ],
-      "duration_ms": 181149,
-      "name": "Marijuana",
-      "url": "https://open.spotify.com/track/4MPyyq69wHFvmjCKSpN4Ri"
+      "duration_ms": 285565,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1519,22 +1535,6 @@
       "duration_ms": 152931,
       "name": "SP12 Beat",
       "url": "https://open.spotify.com/track/2ouEiUmToYQClbXbSIF2T2"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
-        "name": "Why Make Sense? (Definitive Version)",
-        "url": "https://open.spotify.com/album/1ID4yRgxYUutcLKzYDcln4"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        }
-      ],
-      "duration_ms": 285565,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/5MRYyecW552BEq2nRBfIQX"
     },
     {
       "added_at": "2023-12-08 21:38:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-12-08 21:38:00",
       "album": {
-        "name": "H\u00e9misph\u00e8re / Je m'ennuie",
-        "url": "https://open.spotify.com/album/59ZzI9aLiY0H5b4etn8uu0"
-      },
-      "artists": [
-        {
-          "name": "Paradis",
-          "url": "https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9"
-        }
-      ],
-      "duration_ms": 433388,
-      "name": "H\u00e9misph\u00e8re",
-      "url": "https://open.spotify.com/track/7fDvGoJhLSeJPF4cVlEsVs"
-    },
-    {
-      "added_at": "2023-12-08 21:38:00",
-      "album": {
         "name": "Genesis Series",
         "url": "https://open.spotify.com/album/1X4yodq8QzdlHOf2EgwhWU"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 230720,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/1NB0VPwAw6Rx8b9qvDKB5M"
+    },
+    {
+      "added_at": "2023-12-08 21:38:00",
+      "album": {
+        "name": "H\u00e9misph\u00e8re / Je m'ennuie",
+        "url": "https://open.spotify.com/album/59ZzI9aLiY0H5b4etn8uu0"
+      },
+      "artists": [
+        {
+          "name": "Paradis",
+          "url": "https://open.spotify.com/artist/1JV4iC1UhplRE8RFr8Q9n9"
+        }
+      ],
+      "duration_ms": 433388,
+      "name": "H\u00e9misph\u00e8re",
+      "url": "https://open.spotify.com/track/7fDvGoJhLSeJPF4cVlEsVs"
     },
     {
       "added_at": "2023-12-08 21:38:00",

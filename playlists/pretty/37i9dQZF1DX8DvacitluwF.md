@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > Only the best in South African and international RnB\. Cover: <a href="https://open.spotify.com/artist/1qoXgLST4EUgUB9Ml5jVOp?si=4Uvs9o\_ITnmwaSdVA7bV7w">Phiwo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,645 likes - 85 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,652 likes - 85 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 84 | [Flowers](https://open.spotify.com/track/2KFbxmVIFmT586l1i0DgdT) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [Flowers](https://open.spotify.com/album/2c0CnSrHNgM7nk4mI7i1Iv) | 2:57 |
 | 85 | [Friends](https://open.spotify.com/track/2nhyCoUnpb9hea8f95iK4K) | [J\-Smash](https://open.spotify.com/artist/3pHXjHFlwhNmDsJ764VFsD), [Amanda Black](https://open.spotify.com/artist/4tyWwKFEbho8Vh4qczqbIo), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Friends](https://open.spotify.com/album/6LGd6l4RhmR8hh99nPdLbK) | 3:18 |
 
-Snapshot ID: `MCwxZTAzZGEzN2M1NzAwNzIxMTI5NWZiMzc3NzA1YjVlNWUzNWEyYzc3`
+Snapshot ID: `MCxkYTIyNjQyY2FjMzljNTIwZDJlNDkxMjA3OTUwMTJlOWFmNzY3N2Nl`

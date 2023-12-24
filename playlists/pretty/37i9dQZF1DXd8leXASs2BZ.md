@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Carz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,448 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,459 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 43 | [Tsukutte tsukatte](https://open.spotify.com/track/0N0X18UMqEvueGaLTZ6QQt) | [BAD B](https://open.spotify.com/artist/07uvj3Ij0D7YyEzPalaOgZ) | [Tsukutte tsukatte](https://open.spotify.com/album/515qhlOOi9oPubU2iHWUFj) | 2:46 |
 | 44 | [Dark side of the Moon](https://open.spotify.com/track/4gJ27Hsc9HZUXfr8zpogGq) | [nero...](https://open.spotify.com/artist/2a34XtjCSDkFlXy7B3GVTg) | [Dark side of the Moon](https://open.spotify.com/album/0GrTBMjAYARNlbxxZQSfX0) | 2:17 |
 | 45 | [Hands Up](https://open.spotify.com/track/4JXLR7C2FpsOFKGGJPNKks) | [STARKIDS](https://open.spotify.com/artist/4QMLZWebJZrhxGZsvctR4x), [Deko](https://open.spotify.com/artist/6KAgrAiCdJPDucMqR1kvMn) | [Hands Up](https://open.spotify.com/album/0jGOX35jE6qx6w3tpVS3U6) | 3:03 |
-| 46 | [Kill Bill](https://open.spotify.com/track/3OgK0m3ubna6qz1DBgJOcN) | [Luke Silver](https://open.spotify.com/artist/2UwDGHRsJYHKbOMLPdNVjj), [VAPESHARK](https://open.spotify.com/artist/3nJ1t2nfTGc9X8gLTRwGd7) | [Kill Bill](https://open.spotify.com/album/17NM9tiswNH0fojmUNR0AL) | 2:48 |
+| 46 | [Kill Bill](https://open.spotify.com/track/3OgK0m3ubna6qz1DBgJOcN) | [Luke Silver](https://open.spotify.com/artist/5f4NDtw9Zuu713KUprs7bt), [VAPESHARK](https://open.spotify.com/artist/3nJ1t2nfTGc9X8gLTRwGd7) | [Kill Bill](https://open.spotify.com/album/17NM9tiswNH0fojmUNR0AL) | 2:48 |
 | 47 | [Uncover](https://open.spotify.com/track/1Ab04PsirFDU1YwHw5SuKm) | [TEITO](https://open.spotify.com/artist/5FyZiNFoZYDUwFOXBsctGm) | [Uncover](https://open.spotify.com/album/4JMg1a925swgeX7Azqpoab) | 1:50 |
 | 48 | [Xchain](https://open.spotify.com/track/6BNrTHvibxIU6rbx3mypMJ) | [Leisu](https://open.spotify.com/artist/2mGiNGTMNfU16D4PbtWFOj), [yamadagalzing](https://open.spotify.com/artist/5e1LtaEddZkGx57OPtYON5), [izolma](https://open.spotify.com/artist/5Cjc9g0qHNWfuQJlpCpAKM) | [Revive](https://open.spotify.com/album/1p5xD637v6Q6NEXSrXoL1B) | 2:54 |
 | 49 | [Hazy](https://open.spotify.com/track/468nDu81LeneOvrM8BVPUD) | [NAZAL](https://open.spotify.com/artist/1YbyCB84VLDKqvPZrXb77l), [Pool](https://open.spotify.com/artist/682zJPYEeAySHdPs9uSV5E) | [Hazy](https://open.spotify.com/album/4rLQ6wtzSJ9ZaLl2H2na8x) | 2:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 99 | [Houjou \- bonus track](https://open.spotify.com/track/4OzCR5H9FEq4HP4pN66Y4D) | [safmusic](https://open.spotify.com/artist/6Iq2QcwNckedD5LwLDusw7), [GREEN ROMANCE](https://open.spotify.com/artist/4ifwODTNRfOpYpxiBjsaTx), [浅井杜人](https://open.spotify.com/artist/3QsQcihids9cKIS5YSCErz) | [You are not rockstar, I'm not rockstar](https://open.spotify.com/album/1yl8uapCeNjf3m1WacTF6N) | 2:34 |
 | 100 | [fake friend](https://open.spotify.com/track/5WlGyNlZpKGCBwsGB4fR3w) | [Duke Cage](https://open.spotify.com/artist/5rTKlrUj2nVEpSwUSvAFsO), [who28](https://open.spotify.com/artist/2CYpYNuLTZkBW4tgkRbbSB) | [fake friend](https://open.spotify.com/album/11TpRh73r7c73g24VuGaka) | 2:46 |
 
-Snapshot ID: `MCw1ZjRjYmE3MDFmZTZmNDhjY2M5Y2ViYjc5OTU5Y2M4NzA1NmZlODE1`
+Snapshot ID: `MCxhNzdhY2VkNDRjYzBlZWJkMDFkYTRiMjk4MjA0YzM4M2VkYWQ1ZTNl`

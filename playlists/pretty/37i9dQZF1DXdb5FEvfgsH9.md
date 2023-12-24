@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 
 > Grooves so crispy you can snack on them\. Cover: Donny Benét
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,157 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,176 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 | 60 | [Come On With the Good Thing](https://open.spotify.com/track/1Mw4DeEuHwD0sQTOaTK6fH) | [MF Robots](https://open.spotify.com/artist/3gfBx0SvMGdMQ2ZsjPvIV4) | [Music For Robots](https://open.spotify.com/album/6DZLwcY6pDXTGOi0qtrCeJ) | 5:19 |
 | 61 | [Colors](https://open.spotify.com/track/4475NmYiujibxkv2O7sWED) | [Thunder Jackson](https://open.spotify.com/artist/3o0xJMKswwtXz2PhrRCHhJ) | [Colors](https://open.spotify.com/album/1aaOLWZRf1OUcXYlVauuxV) | 3:08 |
 | 62 | [Your Touch](https://open.spotify.com/track/5lMJEmLGzqbdFuOaonB0eO) | [The APX](https://open.spotify.com/artist/4FcDSQOUJabW2HEHGofJOM), [Mink Slide](https://open.spotify.com/artist/4Yg2SUfnqsTc37ip0njWfH) | [Amplified Experiment](https://open.spotify.com/album/4cS75aWftbOa1nTMdkg27E) | 2:48 |
-| 63 | [Day & Night](https://open.spotify.com/track/09iktHjNiTzCX6YT5XKScx) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [Holybrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Intimate Fonk](https://open.spotify.com/album/2KMTKEk9FZccRGCWhehiKV) | 3:36 |
+| 63 | [Day & Night](https://open.spotify.com/track/09iktHjNiTzCX6YT5XKScx) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [HolyBrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Intimate Fonk](https://open.spotify.com/album/2KMTKEk9FZccRGCWhehiKV) | 3:36 |
 | 64 | [Caught In The Fire](https://open.spotify.com/track/6p2aqe1losjYYviUrj5hEF) | [Date Night](https://open.spotify.com/artist/2Yb3Wq5bwK9HNXvrLKsnVC), [Dion Isaiah](https://open.spotify.com/artist/3voFDI6eBJt7uGs6c91sws) | [Caught In The Fire](https://open.spotify.com/album/7EUjWQ1i8jshFgeznSp4fw) | 3:07 |
 | 65 | [Audrey Tell Me](https://open.spotify.com/track/7DmjDhPdEeaNMB7WukaAux) | [Juice](https://open.spotify.com/artist/0Rq1n6pHHHUQwXnCO8IF4E) | [Audrey Tell Me](https://open.spotify.com/album/2c9s1pWE0PPyD9lbJ822Rl) | 4:14 |
 | 66 | [I Feel for You](https://open.spotify.com/track/2eLpwUTbhpvn1Net0jlWQf) | [Phoebe Katis](https://open.spotify.com/artist/0hPB6WmY4JXhcrficlznCx), [KONL](https://open.spotify.com/artist/4GqeovkUhMsSvFkHVshwS0) | [I Feel for You](https://open.spotify.com/album/4pcK8jv3tGQhGTd9dp9VGz) | 3:07 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdb5FEvfgsH9.md) - [plain]
 | 97 | [Comfortable](https://open.spotify.com/track/6xvMkF9YbgGS0TC53ysmWo) | [James Gardin](https://open.spotify.com/artist/0Rb3zrBGdsFJe2jfyKvQfV), [Terem](https://open.spotify.com/artist/6wW00VEP8a3yiD1gwgVXPX), [Sareem Poems](https://open.spotify.com/artist/0eftDOchNXxRmc1krF1ZKi) | [Comfortable](https://open.spotify.com/album/7DU6NhZpWMOWsi7kbzgP3l) | 3:05 |
 | 98 | [Ice Cold](https://open.spotify.com/track/4yGlV4Vw5uhcCOCefmy4N4) | [Funk LeBlanc](https://open.spotify.com/artist/3iEbz4zyLq1ac5GQKLR8jx) | [Ice Cold](https://open.spotify.com/album/3NR9ek3Wzl2ONf0HCm7u8m) | 3:49 |
 | 99 | [Damage](https://open.spotify.com/track/0FFTohbXBhhTWCZXFICr60) | [James Gardin](https://open.spotify.com/artist/0Rb3zrBGdsFJe2jfyKvQfV), [Terem](https://open.spotify.com/artist/6wW00VEP8a3yiD1gwgVXPX) | [The Groove Collection](https://open.spotify.com/album/2Z6wtJYpyZux5OZHpYZxzH) | 2:30 |
-| 100 | [Dress Code \- Radio Edit](https://open.spotify.com/track/57fQJMdLNaA6excz33WY0N) | [Julien Granel](https://open.spotify.com/artist/3VvDMiseFeokUqlLPXMh45) | [Dress Code](https://open.spotify.com/album/6H4df75uGhXNqNn9ufwRW0) | 3:20 |
+| 100 | [Dress Code \- Radio Edit](https://open.spotify.com/track/3483vNrzxVuUvI5PqWEeuv) | [Julien Granel](https://open.spotify.com/artist/3VvDMiseFeokUqlLPXMh45) | [Dress Code](https://open.spotify.com/album/2IfrsypQxsQbZf6NFhkLLY) | 3:20 |
 
-Snapshot ID: `MCxkY2M0MzMwMDNjNjQxZDQ2MjUyMjU1ZDdkN2Y4N2ZiYTZhMmU4ZWRk`
+Snapshot ID: `MCwyZmRlYzkyMDJiNWJmZjNkMmQ5MmM2ODZmYzBjYmQ2MGI0YmEzZTJj`

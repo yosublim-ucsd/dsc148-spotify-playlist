@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best songs of 2023 across all of Frequency's genre playlists!  Cover: <a href="spotify:artist:3SozjO3Lat463tQICI9LcE">Tyla</a>  \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,007,415 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,007,594 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 92 | [El Shaddai](https://open.spotify.com/track/03M0OHZd8CawF6htmjF0cV) | [Victory](https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr) | [Glory Hour](https://open.spotify.com/album/0P3o32VNf3DArR1I3TcSR4) | 3:23 |
 | 93 | [Miracles \(feat\. Pastor Mike Jr.\)](https://open.spotify.com/track/2U14rkj4rTCJuvZAtgx39d) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [All Yours](https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk) | 5:59 |
 | 94 | [Rollin'](https://open.spotify.com/track/3TjzAhRpmo4wH7Msh4rMcC) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [My Tribe](https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD) | 3:18 |
-| 95 | [Grey Hair](https://open.spotify.com/track/2DV4aaQyV6QNQx8Iylvrsq) | [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Emanuel](https://open.spotify.com/album/2DuS6uvoK6uVj2mriZiY3G) | 4:13 |
+| 95 | [Grey Hair](https://open.spotify.com/track/780cTIllynxIpZsU8LpAJu) | [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Emanuel](https://open.spotify.com/album/2kLyZqFFxBq2wjR8IPUwcE) | 4:13 |
 | 96 | [Bridgeland Road](https://open.spotify.com/track/6gqlCXvtjFcBb87thnBt0D) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H), [Michaela Coel](https://open.spotify.com/artist/0nVdOXyYCXDv8UNIkAprmw) | [The Village Is On Fire](https://open.spotify.com/album/0bwfKYDJUaLAmy05HnfkIh) | 5:20 |
 | 97 | [Cry](https://open.spotify.com/track/5GVgzaPol7z9Z36R6tACoG) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Cry](https://open.spotify.com/album/0HAUdLbzMP3GnYzCww1g4C) | 3:31 |
 | 98 | [All Things](https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [All Things](https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9) | 3:09 |
 | 99 | [Air I Breathe](https://open.spotify.com/track/546AarSsNEMYLpLCRYqmB6) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [Isabelle Brown](https://open.spotify.com/artist/2i3EpmBdqpT4b4JyEtqC6e) | [By The Water](https://open.spotify.com/album/5uPncwBKPjbBEwNfBfS0vn) | 2:41 |
 | 100 | [Your Power](https://open.spotify.com/track/0ToGha42fy4KqBdzJ1yOTN) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Your Power](https://open.spotify.com/album/5FsMkqJBLQcHPzSHa82KWh) | 3:42 |
 
-Snapshot ID: `MCw0ZmM0N2U4MzRkNDljNmQzNzMwNjYxNWEzNDlkZmQ5Yzg3NjEzODhh`
+Snapshot ID: `MCxhM2U3MGQ5M2IzYTFkOTQyZWNmNmE2ZTg1ZGFkNjc0MjdmMjkzODVl`

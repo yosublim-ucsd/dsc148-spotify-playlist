@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJ6UYQLBB2k.md) - [plain]
 
 > Re\-live the glory of Ambient from the 1990s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,307 likes - 60 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,348 likes - 60 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJ6UYQLBB2k.md) - [plain]
 | 53 | [I Will Surround You](https://open.spotify.com/track/76DQ5r3uWTAavWmTOmSWoL) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [Avec Laudenum](https://open.spotify.com/album/7GAdWrS7xbumDLadbeOAbB) | 10:28 |
 | 54 | [Store Check](https://open.spotify.com/track/7c0T2g54R3Ig28W57TCXKy) | [Oval](https://open.spotify.com/artist/1Yti3CsDazWVjNMXBHx1Af) | [94diskont.](https://open.spotify.com/album/33xUwaoTPJ9aNbCJZEpRol) | 4:00 |
 | 55 | [5](https://open.spotify.com/track/31Fh0P3RuBgqr4Q98fySA5) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz) | [Hotel Paral.lel](https://open.spotify.com/album/1dE84ei4z2SdzcQIbQIfwX) | 6:59 |
-| 56 | [The Angelic Appearance](https://open.spotify.com/track/0Fs2CWurShoStSr7mDVYT0) | [vidnaObmana](https://open.spotify.com/artist/2IZOC3H2mKRvJ5F1R34nuR) | [The River of Appearance](https://open.spotify.com/album/6Hv4N99ZepwCn74FU6L4Ie) | 5:48 |
+| 56 | [The Angelic Appearance](https://open.spotify.com/track/5DBddejSogcAwQ1haNHVk1) | [vidnaObmana](https://open.spotify.com/artist/2IZOC3H2mKRvJ5F1R34nuR) | [The River of Appearance](https://open.spotify.com/album/2iSgA8VmlVA34ZDzB8gxEq) | 5:48 |
 | 57 | [Lanzarote](https://open.spotify.com/track/5kHqUtqCFaq9EESbrZw5gP) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Shutov Assembly](https://open.spotify.com/album/6NhNNVgJ1w3pf1AOzAjSN3) | 8:39 |
 | 58 | [Precipice](https://open.spotify.com/track/4oTeGVTZhMgn1ZwuJzroOu) | [Jeff Greinke](https://open.spotify.com/artist/3g94tTUOoqf4IweFjbAA30) | [Lost Terrain](https://open.spotify.com/album/2ByS4Re6ViTadx6HsPaPx5) | 5:14 |
 | 59 | [Near & Far Away](https://open.spotify.com/track/3B6Wm7UhJ7tmydqpdI4jod) | [A Produce](https://open.spotify.com/artist/0BtlYa6Mov8Ike1JmPE1dt) | [Reflect Like A Mirror, Respond Like An Echo](https://open.spotify.com/album/5xecJxSkuzwT2DruccuBIN) | 5:47 |
 | 60 | [Circle \- 1996 Remix](https://open.spotify.com/track/1RNDTmjsiekXqaOJejZaFb) | [Rapoon](https://open.spotify.com/artist/3rZRPN25ZcxuWzcBPgYPYn) | [Recurring \(Dream Circle\)](https://open.spotify.com/album/4zBhwNhgPvprOw2FwawvKZ) | 8:25 |
 
-Snapshot ID: `MCwwYTEzMDlkODRmMjU1MzJlZjNmZDBmNzQyYmVmZGJkZDEzMmJiYmMw`
+Snapshot ID: `MCwyOGJiZWVmZjc0ZDM1ZjFhMTRmYzZlZWI2YWNmZWY2MDdmMWUwYjI4`

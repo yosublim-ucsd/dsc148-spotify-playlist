@@ -4,7 +4,7 @@
 
 > The best new Christmas tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:4akybxRTGHJZ1DXjLhJ1qu">Kirk Franklin</a>
 
-5,067 songs - 14 day 2 hr 40 min
+5,068 songs - 14 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4975,7 +4975,8 @@
 | [You Are the Lord](https://open.spotify.com/track/1WI4KliDTIxHthFKWxurb0) | [VASES](https://open.spotify.com/artist/2vFcjActJmuVc6Wr4fySFa) | [You Are the Lord](https://open.spotify.com/album/65b6bumGPqRP8UDg08Y77R) | 4:58 | 2023-05-05 | 2023-05-13 |
 | [you are worth it](https://open.spotify.com/track/5dpbAmZqwlXwsxL0cKNrHA) | [BigGucciDame](https://open.spotify.com/artist/6mjDlBKzYcYavIYfOfQLKi) | [you are worth it](https://open.spotify.com/album/79W3DyH24yVwgL9OV1KTwX) | 2:18 | 2022-06-10 | 2022-06-26 |
 | [You Belong \(Psalm 87\)](https://open.spotify.com/track/2MNgadsLdtEMEGjFxCp6AX) | [Wendell Kimbrough](https://open.spotify.com/artist/6zO6HdgPt1pOQsP6kC4i9B) | [You Belong \(Psalm 87\)](https://open.spotify.com/album/0GjHeIva1PrLNYgv8a23nE) | 4:22 | 2023-06-16 | 2023-07-01 |
-| [You Bring The Love](https://open.spotify.com/track/149fBDwVVHfw2MlOMSJgiF) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS), [Louis York](https://open.spotify.com/artist/0owrNlxvcLL8KI0U5sYBUb), [We Sound Crazy](https://open.spotify.com/artist/5PWUiJtn4mRYya62TSdZ04) | [You Bring The Love](https://open.spotify.com/album/58VcFrioXE1f8hhqwqA6y6) | 2:58 | 2023-12-15 |  |
+| [You Bring The Love](https://open.spotify.com/track/149fBDwVVHfw2MlOMSJgiF) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS), [Louis York](https://open.spotify.com/artist/0owrNlxvcLL8KI0U5sYBUb), [We Sound Crazy](https://open.spotify.com/artist/5PWUiJtn4mRYya62TSdZ04) | [You Bring The Love](https://open.spotify.com/album/58VcFrioXE1f8hhqwqA6y6) | 2:58 | 2023-12-15 | 2023-12-24 |
+| [You Bring The Love](https://open.spotify.com/track/1lJ00UnZ2bFQvG4UmQieKO) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS), [Louis York](https://open.spotify.com/artist/0owrNlxvcLL8KI0U5sYBUb), [We Sound Crazy](https://open.spotify.com/artist/5PWUiJtn4mRYya62TSdZ04) | [You Bring The Love](https://open.spotify.com/album/62axGb6p8Fq7HRf8loNGrk) | 2:58 | 2023-12-22 |  |
 | [You Call Me Friend](https://open.spotify.com/track/5XEXGKB070eHLIE3cf8rR0) | [Baily Hager](https://open.spotify.com/artist/20o7eBmsXpjnNqWVvwp9sb) | [You Call Me Friend](https://open.spotify.com/album/4rfkgOGsV1JsUP8yS65NpR) | 4:23 | 2023-01-27 | 2023-02-11 |
 | [You Called Me Out](https://open.spotify.com/track/1ur7W8egcN6zRagwCSdllC) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Aware](https://open.spotify.com/album/4MjTsoGxntA9k8SleIDRo9) | 2:45 | 2022-09-30 | 2022-10-15 |
 | [You Can Change Me](https://open.spotify.com/track/5a4N0Is5p5Fv5LwmY8oazV) | [Destiny Barber](https://open.spotify.com/artist/7FlCSmiwJj4nzXSq4VWdkq) | [Honest Conversations, Pt\. 2](https://open.spotify.com/album/1PAdCRSps82FZZhBlkLP48) | 5:11 | 2023-05-12 | 2023-05-20 |

@@ -4,7 +4,7 @@
 
 > Featuring LIT killah, Bad Bunny, Tego Calderón & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-26 songs - 1 hr 24 min
+27 songs - 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [PUNTO 40](https://open.spotify.com/track/2TDyyEBasw10wu5Uh94bR1) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN) | [PUNTO 40](https://open.spotify.com/album/3wh0e8pRtMt4HLLUhUM6Hs) | 3:10 | 2023-02-14 |  |
 | [Punto y Aparte](https://open.spotify.com/track/388YhDYxPvaDIZQHWqpB4E) | [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Rompe La Discoteca](https://open.spotify.com/album/2ftqbM48NcAEAcIL7Yyc1R) | 3:26 | 2023-02-14 |  |
 | [Soy una Gargola](https://open.spotify.com/track/1Hu8EMKCGD25srDybGOtBC) | [Alex Gargolas](https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf), [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav) | [Gargolas 5: The Next Generation](https://open.spotify.com/album/6xJVY6jlX0QRob0ueF9kKJ) | 3:04 | 2023-02-14 |  |
-| [The Club](https://open.spotify.com/track/6PlSs5hJFTujS9yMJuF7Ty) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Jon Phlox](https://open.spotify.com/artist/7E556Tw7pnOZl22UklMZYW) | [The Club](https://open.spotify.com/album/6Vic2QsA1mGgnl0oPB5klW) | 2:26 | 2023-02-14 |  |
+| [The Club](https://open.spotify.com/track/0QQ41jQenaJbjYU0UXj3vE) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Jon Phlox](https://open.spotify.com/artist/7E556Tw7pnOZl22UklMZYW) | [The Club](https://open.spotify.com/album/42vfCMdPaydFldqUd4HX9G) | 2:26 | 2023-02-14 |  |
+| [The Club](https://open.spotify.com/track/6PlSs5hJFTujS9yMJuF7Ty) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Jon Phlox](https://open.spotify.com/artist/7E556Tw7pnOZl22UklMZYW) | [The Club](https://open.spotify.com/album/6Vic2QsA1mGgnl0oPB5klW) | 2:26 | 2023-02-14 | 2023-12-24 |
 | [Tu Sicaria](https://open.spotify.com/track/5cyKYhm8vo5edvuT5tIuQ6) | [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ), [Beauty Brain](https://open.spotify.com/artist/3KsfLbdoFjSnXT2QUK7ooR) | [Tu Sicaria](https://open.spotify.com/album/6LcDLFvmP0BrUOgEFjscJR) | 2:27 | 2023-02-14 |  |
 | [Unica](https://open.spotify.com/track/33b2wX9d0kxqxhi7lcsC1A) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:38 | 2023-02-14 |  |
 

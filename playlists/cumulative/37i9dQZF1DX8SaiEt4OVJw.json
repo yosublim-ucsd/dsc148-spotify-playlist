@@ -1770,7 +1770,7 @@
     {
       "album": {
         "name": "Fake ID (Coke & Rum Remix)",
-        "url": "https://open.spotify.com/album/7pKuRGliZzRAHJaFED7y6Q"
+        "url": "https://open.spotify.com/album/33UfArB1wqUntTPUbsFmUD"
       },
       "artists": [
         {
@@ -1789,6 +1789,32 @@
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 126720,
+      "name": "Fake ID (Coke & Rum Remix)",
+      "url": "https://open.spotify.com/track/2VuzBUB5V9AlpniCUhaszP"
+    },
+    {
+      "album": {
+        "name": "Fake ID (Coke & Rum Remix)",
+        "url": "https://open.spotify.com/album/7pKuRGliZzRAHJaFED7y6Q"
+      },
+      "artists": [
+        {
+          "name": "Riton",
+          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        },
+        {
+          "name": "GEE LEE",
+          "url": "https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
       "duration_ms": 126720,
       "name": "Fake ID (Coke & Rum Remix)",
       "url": "https://open.spotify.com/track/7cnS0EPwBnP9ZIdGOAOY7c"

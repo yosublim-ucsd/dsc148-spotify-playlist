@@ -1881,6 +1881,24 @@
     },
     {
       "album": {
+        "name": "IN:TENSION",
+        "url": "https://open.spotify.com/album/5Om5ffiuTukQ7HdnSMxm1h"
+      },
+      "artists": [
+        {
+          "name": "Keys N Krates",
+          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183934,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/6eqI6rkIXqJO5uIuli36Ey"
+    },
+    {
+      "album": {
         "name": "Get Up",
         "url": "https://open.spotify.com/album/7G3GRV1k2khC47rPBSvFin"
       },
@@ -1892,7 +1910,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 183934,
       "name": "Get Up",
       "url": "https://open.spotify.com/track/7quS3s6bqzPmXRnDU5FeNa"

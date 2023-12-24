@@ -518,6 +518,36 @@
     {
       "album": {
         "name": "Always Coko",
+        "url": "https://open.spotify.com/album/4zd8fMlQdGwGKsIhRQxmf8"
+      },
+      "artists": [
+        {
+          "name": "Coko",
+          "url": "https://open.spotify.com/artist/5tdfMErqfwoDib2Pq3n2z5"
+        },
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        },
+        {
+          "name": "Lil' Mo",
+          "url": "https://open.spotify.com/artist/5wBDD4FNJvob5fAGkAIQ92"
+        },
+        {
+          "name": "Fantasia",
+          "url": "https://open.spotify.com/artist/34v40muZVGZG8g0t05ioRf"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416213,
+      "name": "Endow Me",
+      "url": "https://open.spotify.com/track/3Oi3SOuwWzlnKMuju3nnaJ"
+    },
+    {
+      "album": {
+        "name": "Always Coko",
         "url": "https://open.spotify.com/album/51lawLjXQsEkVIjv61zTHe"
       },
       "artists": [
@@ -856,7 +886,7 @@
       ],
       "date_added": "2023-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-02",
+      "date_removed": null,
       "duration_ms": 271733,
       "name": "He Got Up On The Third Day",
       "url": "https://open.spotify.com/track/5smgbQe2wP2LCAQ4eOAnKK"
@@ -1154,10 +1184,28 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 401266,
       "name": "I Surrender All",
       "url": "https://open.spotify.com/track/266BT78ZQsmaTzeB5CwhKa"
+    },
+    {
+      "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/76Wc47fN7iPYNzqVMDzxzf"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401266,
+      "name": "I Surrender All",
+      "url": "https://open.spotify.com/track/7d5yg6FiMty4TCk1gixRRh"
     },
     {
       "album": {
@@ -1233,6 +1281,24 @@
     },
     {
       "album": {
+        "name": "Declarations",
+        "url": "https://open.spotify.com/album/5nrlMygEzgFg6Jk3ZvZAZK"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Nelson",
+          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373986,
+      "name": "Jesus I Love You",
+      "url": "https://open.spotify.com/track/1ypwxcZd1adF3iNbyUbl9O"
+    },
+    {
+      "album": {
         "name": "Live... This Is Your House",
         "url": "https://open.spotify.com/album/0lnscqAVc3mOhZcbrR0UPU"
       },
@@ -1266,7 +1332,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 303160,
       "name": "Jesus Is the Answer",
       "url": "https://open.spotify.com/track/6sXB1ObEFi5nCrncPp4uxO"
@@ -1342,7 +1408,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 509466,
       "name": "Let It Rain",
       "url": "https://open.spotify.com/track/7DOt5PuuG1cTEEjcDZyc0R"
@@ -1508,7 +1574,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 286040,
       "name": "O the Blood",
       "url": "https://open.spotify.com/track/0aqTVmskHk09WdNrzSJYV3"
@@ -1570,7 +1636,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 329186,
       "name": "Oh Holy Lamb",
       "url": "https://open.spotify.com/track/2N6ccWkNTrKuIa3JqRzxhb"
@@ -1613,6 +1679,24 @@
     },
     {
       "album": {
+        "name": "Vickie Winans - Gospel Legacy",
+        "url": "https://open.spotify.com/album/5gsoX7WHEah2Z33h3g5wKG"
+      },
+      "artists": [
+        {
+          "name": "Vickie Winans",
+          "url": "https://open.spotify.com/artist/3lRcuKNnP49qqc0AHfTTAR"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421946,
+      "name": "Oh What Love",
+      "url": "https://open.spotify.com/track/3ZHvUDfMVPADlGtKc7Bc39"
+    },
+    {
+      "album": {
         "name": "One Name (Jesus) [Live]",
         "url": "https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK"
       },
@@ -1646,7 +1730,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 286946,
       "name": "Power In the Blood v1.1",
       "url": "https://open.spotify.com/track/5FPZdulid3ZgnAZq2sRlb3"
@@ -1886,10 +1970,28 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 418728,
       "name": "The Anthem",
       "url": "https://open.spotify.com/track/4NH4tJBwVz5y3PqQB3MlGS"
+    },
+    {
+      "album": {
+        "name": "A Worshipper's Heart (Live)",
+        "url": "https://open.spotify.com/album/1jjOEtC7Kr6GjyWiyipYCB"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418360,
+      "name": "The Anthem (Live)",
+      "url": "https://open.spotify.com/track/1uYAiD9bW3yNcQ7yInGRlv"
     },
     {
       "album": {
@@ -2182,10 +2284,28 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 344019,
       "name": "Victory Belongs To Jesus",
       "url": "https://open.spotify.com/track/4bJM66nNeI2TZ1cSRKpLfm"
+    },
+    {
+      "album": {
+        "name": "A Worshipper's Heart (Live)",
+        "url": "https://open.spotify.com/album/1jjOEtC7Kr6GjyWiyipYCB"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344733,
+      "name": "Victory Belongs To Jesus (Live)",
+      "url": "https://open.spotify.com/track/0Bgd1ABS94lhwYDCEQHpsP"
     },
     {
       "album": {
@@ -2402,6 +2522,28 @@
       "duration_ms": 258373,
       "name": "You Brought The Sunshine - Live",
       "url": "https://open.spotify.com/track/2yK4879j9Q1XnJio6ETqJV"
+    },
+    {
+      "album": {
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Bishop Cortez Vaughn",
+          "url": "https://open.spotify.com/artist/5AkeEGPP5D9gUO61YH59Lz"
+        }
+      ],
+      "date_added": "2023-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365190,
+      "name": "You Deserve It (feat. Bishop Cortez Vaughn)",
+      "url": "https://open.spotify.com/track/3SITltmDXRR4lQWR3IpClB"
     },
     {
       "album": {

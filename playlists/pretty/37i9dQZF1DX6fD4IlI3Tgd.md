@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fD4IlI3Tgd.md) - [plain]
 
 > Desde México hasta Argentina, el hogar de los beats latinoamericanos\. Foto: MIEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,700 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,720 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fD4IlI3Tgd.md) - [plain]
 | 9 | [BLACKOUT](https://open.spotify.com/track/5DKTM173OW6XpokjPqfMae) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [BLACKOUT](https://open.spotify.com/album/4uPjXNAV5ElagRiBsc4JR5) | 3:03 |
 | 10 | [Habanera](https://open.spotify.com/track/4EMv0ZrcBx2GnLfUz9o4kb) | [Beowülf](https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Habanera](https://open.spotify.com/album/7fc95MhJV8ddQjnRbV31xh) | 2:23 |
 | 11 | [Morenito](https://open.spotify.com/track/5C4lyumkhkQsNPTfqID2gk) | [Chile](https://open.spotify.com/artist/0BnmjviyW0BAR2kK67AOPQ), [Aynes](https://open.spotify.com/artist/0WByZEwRntV98feeVnccWG), [Mystic Natives](https://open.spotify.com/artist/0jltTJpT4TwfWBNDb393BY) | [Morenito](https://open.spotify.com/album/5medqeaiGFGL8kW9gKMiGO) | 3:10 |
-| 12 | [Potente](https://open.spotify.com/track/4MvCdK15VGFvmAYqG4PcQ8) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Andrew Mathers](https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0) | [Potente](https://open.spotify.com/album/3mMGZiXwqikBAkY3VXVy0Y) | 2:40 |
+| 12 | [Potente](https://open.spotify.com/track/4g8o6aIUIZhe4JVCYNw93H) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Andrew Mathers](https://open.spotify.com/artist/5rjFsTXq2iEMk09Pxtz2U0) | [Potente](https://open.spotify.com/album/623lzPaYX1Yym9KdYS0Dn3) | 2:40 |
 | 13 | [Sicko Drop](https://open.spotify.com/track/5T4lERmPqhO2ukZoGJ5sSr) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Schillist](https://open.spotify.com/artist/2qvWyc9Z0oHK156P65vH4d) | [Sicko Drop](https://open.spotify.com/album/2dwO0gaZIbr77oUSn6OfoE) | 2:27 |
 | 14 | [Tequila](https://open.spotify.com/track/08r8gksAHDMsrqnmLTmZgv) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh), [Lazy Bear](https://open.spotify.com/artist/3DUHqp1EQvqsbodW3qKDH9) | [Tequila](https://open.spotify.com/album/35OTsIUefbbQqnWq6j8jMC) | 2:19 |
 | 15 | [Choir Roads](https://open.spotify.com/track/6VOLVcWyy5Rf0vSPYYN4JT) | [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW), [Tálita](https://open.spotify.com/artist/18OPt8obRRChUWsZjRVqUx) | [Choir Roads](https://open.spotify.com/album/6R2CCusiNwKkFUj8HoHOYi) | 3:17 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fD4IlI3Tgd.md) - [plain]
 | 59 | [Brisas Del Mar](https://open.spotify.com/track/3KYgsHPXp1pOywoYkUmh6k) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec) | [Brisas Del Mar](https://open.spotify.com/album/55iEeiN1Sg4YhtWW72MiQY) | 3:16 |
 | 60 | [Cantalo](https://open.spotify.com/track/6UIqRcSumEv1ITtXB3rc8X) | [Les Castizos](https://open.spotify.com/artist/5o7bOfP4102PystoDMEo0M), [Cato Anaya](https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec) | [Cantalo](https://open.spotify.com/album/1ID1oLpVJ0wcBeYblNRiQn) | 4:02 |
 
-Snapshot ID: `MCxjY2FlMjRmMTMyZjVjNjYyYzQyNDhlYjJjMDgxNjMxYTA4ZDY2NDZh`
+Snapshot ID: `MCwzYWE0OWY1NjU1ZmU1M2U0YTc2Mjc1ZTkzYjY2OGE5ZmE4N2U1Yzdk`

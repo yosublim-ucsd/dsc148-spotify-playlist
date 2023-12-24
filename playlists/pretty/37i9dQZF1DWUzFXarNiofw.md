@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Wizkid
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,034,890 likes - 181 songs - 9 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,035,027 likes - 181 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,11 +116,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 106 | [Battle](https://open.spotify.com/track/5JQe2UYzLo91jmScVSY9mV) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Battle](https://open.spotify.com/album/57oaoYKJewebnaHJ6umJOe) | 2:41 |
 | 107 | [Take It Easy \(Miles' Song\)](https://open.spotify.com/track/2wL4LR49SRUAaKvZMiUvob) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [FIELDNOTES PT III](https://open.spotify.com/album/1mN1K7R6kn8FqBP2OY613q) | 3:11 |
 | 108 | [U & I](https://open.spotify.com/track/7DaHNeYZ9kUJntu5R6rVnS) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [U & I](https://open.spotify.com/album/3ypZDA00UD5VEhPqwxTL2F) | 3:42 |
-| 109 | [Little Blue Moon](https://open.spotify.com/track/0Lmx2qlN2FbeGWgqTBzQ2k) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Little Blue Moon](https://open.spotify.com/album/4BRgkGx8jvMncKLgugeVYp) | 2:48 |
+| 109 | [Little Blue Moon](https://open.spotify.com/track/3buMYqs28GrIx9T5rcl2we) | [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Little Blue Moon](https://open.spotify.com/album/3vWO9Cph9rejneWpuF79lq) | 2:48 |
 | 110 | [Passion](https://open.spotify.com/track/7L7lEcylKN2Rqz5fQ5yq4t) | [DJ Rosegold](https://open.spotify.com/artist/25AzYlOR12VRVYdFWcNYfH), [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s), [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Passion](https://open.spotify.com/album/4lsaeSEDS4HKkJNiR62uyb) | 3:07 |
 | 111 | [Nowhere](https://open.spotify.com/track/01V9616p11FWNcMYTQTg3j) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Nowhere](https://open.spotify.com/album/0gk7hvi9elX9iuiNuxmcNu) | 2:57 |
 | 112 | [42](https://open.spotify.com/track/2Kui4WxXbqrxVO7q0H1XBA) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [Make E No Cause Fight 3](https://open.spotify.com/album/0KL40ckvFn3gRSiPWLZJ56) | 2:51 |
-| 113 | [You Bring The Love](https://open.spotify.com/track/149fBDwVVHfw2MlOMSJgiF) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS), [Louis York](https://open.spotify.com/artist/0owrNlxvcLL8KI0U5sYBUb), [We Sound Crazy](https://open.spotify.com/artist/5PWUiJtn4mRYya62TSdZ04) | [You Bring The Love](https://open.spotify.com/album/58VcFrioXE1f8hhqwqA6y6) | 2:58 |
+| 113 | [You Bring The Love](https://open.spotify.com/track/1lJ00UnZ2bFQvG4UmQieKO) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS), [Louis York](https://open.spotify.com/artist/0owrNlxvcLL8KI0U5sYBUb), [We Sound Crazy](https://open.spotify.com/artist/5PWUiJtn4mRYya62TSdZ04) | [You Bring The Love](https://open.spotify.com/album/62axGb6p8Fq7HRf8loNGrk) | 2:58 |
 | 114 | [Sleigh](https://open.spotify.com/track/68Yalnq8hXLbLzO9rsm3X8) | [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Sleigh](https://open.spotify.com/album/0uclO2Rx8I2zKd3AWRmpHs) | 3:25 |
 | 115 | [The Greatest Gift](https://open.spotify.com/track/6Z5pH8apjl8doBlYvLXv3u) | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [The Greatest Gift](https://open.spotify.com/album/4bWvqIdV6KOfrWVjr1AwY0) | 2:25 |
 | 116 | [Crazy Things](https://open.spotify.com/track/3ZNTpl0czqjASieCLZZjn9) | [Lyfe Harris](https://open.spotify.com/artist/3056tgVkQYtDN8yWwAFmU2), [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [Crazy Things](https://open.spotify.com/album/1SpNPNdKjQ3g15clpcU7Kh) | 2:39 |
@@ -190,4 +190,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 180 | [Fake Love](https://open.spotify.com/track/5EqNG2VsfilMEadJzoh6Af) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [Fake Love](https://open.spotify.com/album/5uXuP0rY36kFwr3Ea2mBXF) | 2:55 |
 | 181 | [You, The World Vs Me](https://open.spotify.com/track/6dG5YbZK6atPesjFH2zgaI) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [You, The World Vs Me](https://open.spotify.com/album/4V49T04xtT0ZAN5I6wmHWr) | 2:03 |
 
-Snapshot ID: `MCw5YWY3MmZlNTYzY2QxZWI0OWY3ZjdiYzZiZDVhY2QyNGFiMmZlODZm`
+Snapshot ID: `MCw3NTAwYTY1OTA0ZmY4OGE3MTk3ZmY5NDE3NDFmNjk4YmU4ODhkMDNh`

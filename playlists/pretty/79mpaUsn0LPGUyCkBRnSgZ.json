@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "MTEzMCxiMTdhNDFiMWY3NjhkODcxOGNlZjMyNjlhMWU4NTRmNmNkMTVmMjQw",
+  "snapshot_id": "MTEzNCxjZTdiYmJlMDljNmIzZjc2Y2I1Y2I5NmI2ZTM5OWQxODY3YmY0NDNm",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -4939,6 +4939,70 @@
       "duration_ms": 218426,
       "name": "Latter Days",
       "url": "https://open.spotify.com/track/7wOdJjz1WHJiBdzKSZWszu"
+    },
+    {
+      "added_at": "2023-12-23 12:11:58",
+      "album": {
+        "name": "Shrimp Sessions 2 (Live)",
+        "url": "https://open.spotify.com/album/5eSg2ejmod1kGMjCR7giv7"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 212373,
+      "name": "Ain't Nice - Live",
+      "url": "https://open.spotify.com/track/3gdKrnlB0WmJtlxSur73Rm"
+    },
+    {
+      "added_at": "2023-12-23 12:13:35",
+      "album": {
+        "name": "Common Sense",
+        "url": "https://open.spotify.com/album/1kiiHeNfR8OZWcCeOPpRW3"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 241733,
+      "name": "Common Sense",
+      "url": "https://open.spotify.com/track/1k50Wd4FpBpp0v1Rkuv62W"
+    },
+    {
+      "added_at": "2023-12-23 12:13:44",
+      "album": {
+        "name": "Consistency of Energy",
+        "url": "https://open.spotify.com/album/5uWaN4A4OlmGGmdEx90pGX"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 379248,
+      "name": "Research Chemicals",
+      "url": "https://open.spotify.com/track/37C2eshetthNcnTu59a5yy"
+    },
+    {
+      "added_at": "2023-12-23 12:13:52",
+      "album": {
+        "name": "Call Of The Wild",
+        "url": "https://open.spotify.com/album/04lnbWH0D5eo1RaC2s4uXj"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 482471,
+      "name": "Baby Teeth",
+      "url": "https://open.spotify.com/track/0rMUVKJNVdtvfv7X8fmyJQ"
     }
   ],
   "unique_name": "Zacklog",

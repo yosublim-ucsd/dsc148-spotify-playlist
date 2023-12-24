@@ -4,7 +4,7 @@
 
 > Essential new pop tracks\. Cover: Jimin
 
-4,445 songs - 9 day 4 hr 59 min
+4,446 songs - 9 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -772,6 +772,7 @@
 | [Close To You](https://open.spotify.com/track/5meNtnGsQohHlvh8d3Kh2j) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [The Ride: Part 3](https://open.spotify.com/album/4O3pdzoXLGU61BYZzVNCHJ) | 3:36 | 2023-12-08 |  |
 | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/album/5IZ3qMtXKXAleWBxB7vWen) | 2:48 | 2022-02-11 | 2022-02-26 |
 | [closer \(vol.1 ch.1\)](https://open.spotify.com/track/2uYAPuX6LmkGOwxPfKXNeL) | [victoria](https://open.spotify.com/artist/5rBX0CkY77xg2GThOWBYL5) | [closer \(vol.1 ch.1\)](https://open.spotify.com/album/4TD1VHylBHdOtKAcsTZRxn) | 3:14 | 2022-02-11 | 2022-02-26 |
+| [Closer Than This](https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Closer Than This](https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4) | 3:43 | 2023-12-23 |  |
 | [Cloud](https://open.spotify.com/track/4H3S0dQ6g8QwacSCp9W156) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Cloud](https://open.spotify.com/album/00m3LiJyqbMziKcN5eO67G) | 2:36 | 2023-09-08 | 2023-09-23 |
 | [clouds](https://open.spotify.com/track/5SCxCe1TYHpHjk8zhdEyYI) | [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [clouds](https://open.spotify.com/album/3zIlBKifi7TUyjiWagN5x8) | 2:20 | 2023-04-07 | 2023-04-22 |
 | [club heaven](https://open.spotify.com/track/1nO6DT2QIYTxwLGrfQvIt3) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [club heaven](https://open.spotify.com/album/119D6p9ScXWYQxWLMv99yn) | 2:11 | 2023-10-06 | 2023-10-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem MC Rogerinho, Ana Castela e Ludmilla, Tasha & Tracie e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,931,456 likes - 69 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,932,019 likes - 69 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 36 | [Outro Patamar \- Ao Vivo](https://open.spotify.com/track/0NKKsS80E5fhR8HMzV1E6M) | [Bruno & Barretto](https://open.spotify.com/artist/70x9rYb58QCNNeNxuO3StS) | [Outro Patamar \(Ao Vivo\)](https://open.spotify.com/album/2Rsylct4LWmfGTUfqC456k) | 3:07 |
 | 37 | [Cinco Estrelas \(Buteco de Cadeira Amarela\)](https://open.spotify.com/track/134zn7KsqfS9Ptu1GR7l4U) | [Paulo Pires](https://open.spotify.com/artist/3whgFbrRxsOmYVrq3t4hCY), [ÉaBest](https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp) | [Cinco Estrelas \(Buteco de Cadeira Amarela\)](https://open.spotify.com/album/2FRSQRDWUp9GLa79CV4Nef) | 2:13 |
 | 38 | [Sem Amor \- Ao Vivo](https://open.spotify.com/track/00dvVnjIAm59bue1eKJLGb) | [Lucas Aboiador](https://open.spotify.com/artist/3IpEaHgeWoUW5D2Wtfz1k9), [Gabi Saiury](https://open.spotify.com/artist/4AQJYFrojOyAjk0VGvsd5v) | [Venci Na Vida \(Ao Vivo\)](https://open.spotify.com/album/7yC8ELN4N6RO7vdLtFh8hX) | 2:45 |
-| 39 | [Não É Sertão](https://open.spotify.com/track/0EvbEvAG0wJbIZAB7CCWNO) | [Paulin Vaqueiro](https://open.spotify.com/artist/0d5OTkkwpo38OF7svMwBBU) | [Vaquejada e Sentimento](https://open.spotify.com/album/0cGvKkL62x2O7j1fWdVjhY) | 2:45 |
+| 39 | [Não É Sertão](https://open.spotify.com/track/0EvbEvAG0wJbIZAB7CCWNO) | [Paulin Vaqueiro](https://open.spotify.com/artist/0d5OTkkwpo38OF7svMwBBU) | [Vaquejada & Sentimento](https://open.spotify.com/album/0cGvKkL62x2O7j1fWdVjhY) | 2:48 |
 | 40 | [Rota da Minha Cama](https://open.spotify.com/track/5yeN9h1K8riXbBCm0McnNq) | [Naldo Benny](https://open.spotify.com/artist/4xnFkvb5Pk259qAXQ6yrYU), [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp) | [Naldo Ben Romântico \(Deluxe\)](https://open.spotify.com/album/2LekVPpC2AnjIzUNzg94kC) | 3:19 |
 | 41 | [Era uma Vez um Vencedor](https://open.spotify.com/track/4mhelbt5EP9ur4o9LAbnws) | [MC Murilo ZS](https://open.spotify.com/artist/4cZt4IBdd98Z4D0HcRGppp), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Era uma Vez um Vencedor](https://open.spotify.com/album/2kcl29JAt5vzjGwnZd9Bhn) | 1:28 |
 | 42 | [No Meu Barraco](https://open.spotify.com/track/3MglrvuQtMxHQ5e00BNWO5) | [Dyamante DJ](https://open.spotify.com/artist/3i7Bn2SoEkRVEGkdz9o6Yu) | [No Meu Barraco](https://open.spotify.com/album/0u3zTwC6n3rM9LnR7i0umV) | 2:04 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 68 | [Vai Barulhando](https://open.spotify.com/track/6wCwiuStfcXd1LNk20CvaY) | [Lukkas](https://open.spotify.com/artist/3yJOjR6PkQh6QU6ZB8waUL), [DJ Dodô](https://open.spotify.com/artist/1AwayCNfbReYqh7wm3gqDo) | [Vai Barulhando](https://open.spotify.com/album/3nMoUuTARHFbmUeAjW513z) | 1:56 |
 | 69 | [Tudo Ou Nada](https://open.spotify.com/track/0gboY45ftHxGkxSlYfQvbY) | [Tito JV](https://open.spotify.com/artist/1TFFn6Fd2tbXhemafsPdao), [Almir delas](https://open.spotify.com/artist/09SqCWuz8I7uQWDpEgtfLu) | [Tudo Ou Nada](https://open.spotify.com/album/3JpTCQ2xTClWJzrOSWkNOh) | 3:17 |
 
-Snapshot ID: `MCw2NjkwNDM0OGU0MGViZWRjNTI1MDQzOTU1MjM5MmQ5NGUwMjA5Y2Yw`
+Snapshot ID: `MCxlNGNlMGEzNTVhZWU2MzU1Nzg0YjVjM2E0MTQyN2E3MGU5MjJhMzMw`

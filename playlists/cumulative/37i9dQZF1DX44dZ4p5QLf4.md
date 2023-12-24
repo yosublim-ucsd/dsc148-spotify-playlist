@@ -4,7 +4,7 @@
 
 > A blend of new songs and artists in the soul space\. Cover: Full Crate
 
-375 songs - 22 hr 23 min
+376 songs - 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,7 +313,8 @@
 | [Sunwaves](https://open.spotify.com/track/7sje70FdAxpVSI106q51yf) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [What's Around The Corner \(Side A\)](https://open.spotify.com/album/07IIZ10hO0U1QToADq9t84) | 2:43 | 2022-09-30 | 2023-02-18 |
 | [Super Bounce](https://open.spotify.com/track/0bdNktKwMzf6d4V5BNK1KN) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [SuperGood](https://open.spotify.com/album/07ElwjWGMXVNlQG4TsVn9H) | 3:38 | 2021-12-16 | 2022-02-11 |
 | [Superstar](https://open.spotify.com/track/3c46fXVjVArsPheex1R7AI) | [Zola Courtney](https://open.spotify.com/artist/11lgCVODZLjSSBl1oSke9J), [Caleborate](https://open.spotify.com/artist/7bpDJUH5hnffIYHID6h3Et) | [Superstar](https://open.spotify.com/album/7EWhJMY64EezShQPMD2zf4) | 2:57 | 2021-12-16 | 2022-10-29 |
-| [Sweet Distraction](https://open.spotify.com/track/6oYDza5APcRR4c8w1WEAml) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS) | [Sweet Distraction](https://open.spotify.com/album/6dEK6JiVB7DoalHiMayTsb) | 2:51 | 2022-12-02 |  |
+| [Sweet Distraction](https://open.spotify.com/track/6YaQQnajGqFsly2ckrZmw7) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS) | [Sweet Distraction](https://open.spotify.com/album/05EE5Cuom9zgpxbs07xeRE) | 2:51 | 2023-12-12 |  |
+| [Sweet Distraction](https://open.spotify.com/track/6oYDza5APcRR4c8w1WEAml) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS) | [Sweet Distraction](https://open.spotify.com/album/6dEK6JiVB7DoalHiMayTsb) | 2:51 | 2022-12-02 | 2023-12-24 |
 | [Switch Off](https://open.spotify.com/track/2xOo8c47vtBnAVI2ojjxHk) | [Noah Slee](https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo) | [Switch Off](https://open.spotify.com/album/7aO0owLH0M8r6gkSzIEus3) | 3:12 | 2022-12-02 | 2023-07-08 |
 | [Take Care](https://open.spotify.com/track/6EUeUiY3YcbQFPhl4wG2KU) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Take Care](https://open.spotify.com/album/6y5t03dCqOJ2O2HzLj4VLC) | 3:49 | 2023-10-06 |  |
 | [Take Care](https://open.spotify.com/track/2cDpmXyh3PE57jrnmmvzno) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Take Care](https://open.spotify.com/album/2h1iaTg7mmALw6Xm7KUOb7) | 3:49 | 2022-10-28 | 2023-10-15 |

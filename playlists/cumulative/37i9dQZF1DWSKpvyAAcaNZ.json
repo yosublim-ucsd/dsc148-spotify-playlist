@@ -4222,6 +4222,24 @@
     {
       "album": {
         "name": "Lovers And Fools, Vol. 2",
+        "url": "https://open.spotify.com/album/2HID5uvkQJAmfMATMH4TLZ"
+      },
+      "artists": [
+        {
+          "name": "Leon Timbo",
+          "url": "https://open.spotify.com/artist/5sh0bpSEIvnWiJxZKFhJ8S"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280416,
+      "name": "Struggle",
+      "url": "https://open.spotify.com/track/0SGWGVXOscN6CZBMfDmi8t"
+    },
+    {
+      "album": {
+        "name": "Lovers And Fools, Vol. 2",
         "url": "https://open.spotify.com/album/514CYU9q0GHkgm481oj3U6"
       },
       "artists": [
@@ -4232,7 +4250,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 280416,
       "name": "Struggle",
       "url": "https://open.spotify.com/track/6SAeWIxjMvNkzElv4cz43s"
@@ -4348,6 +4366,24 @@
     {
       "album": {
         "name": "The Man Was Burning",
+        "url": "https://open.spotify.com/album/6Y0pRUL22pIwgZMLRF8PNP"
+      },
+      "artists": [
+        {
+          "name": "Jake Blount",
+          "url": "https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155665,
+      "name": "The Man Was Burning",
+      "url": "https://open.spotify.com/track/074GZIq3xxoDd8fH9IGAth"
+    },
+    {
+      "album": {
+        "name": "The Man Was Burning",
         "url": "https://open.spotify.com/album/0OhzvTKOvapdOk4KY5Zjly"
       },
       "artists": [
@@ -4358,7 +4394,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 155665,
       "name": "The Man Was Burning",
       "url": "https://open.spotify.com/track/5X8hjt33EdQ8KUaUzcTNQv"

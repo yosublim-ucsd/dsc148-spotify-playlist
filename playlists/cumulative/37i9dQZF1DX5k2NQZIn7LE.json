@@ -460,10 +460,32 @@
       ],
       "date_added": "2022-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 530384,
       "name": "Chiryan da Chamba",
       "url": "https://open.spotify.com/track/4hrFaKJ13XCVAp2w9LuqSf"
+    },
+    {
+      "album": {
+        "name": "Chiryan Da Chamba (Coke Studio Season 8)",
+        "url": "https://open.spotify.com/album/5QkwDolPCG71ph5xcLNVEr"
+      },
+      "artists": [
+        {
+          "name": "Suraiya Khanum",
+          "url": "https://open.spotify.com/artist/49yBIp5OY8bpgKUrxEhnM0"
+        },
+        {
+          "name": "Anwar Maqsood",
+          "url": "https://open.spotify.com/artist/5EUd6JP2GsBheJtbuXQ5c1"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 530384,
+      "name": "Chiryan Da Chamba - Coke Studio Season 8",
+      "url": "https://open.spotify.com/track/1TfeIvCSLIVPpxCqCI5Etq"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Avant\-garde, experimental and free jazz.
 
-135 songs - 18 hr 6 min
+136 songs - 18 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,8 @@
 | [Sing, Sing Loud](https://open.spotify.com/track/5KUuZ8A3u42Cdu6HsrcZSA) | [Carsten Dahl, Arild Andersen, Jon Christensen](https://open.spotify.com/artist/7jQHF3wIZuWlLhQn5mhdYV) | [Space Is the Place](https://open.spotify.com/album/4lQAHafLECfbxdayEp8jzK) | 3:44 | 2020-08-25 |  |
 | [Song for the Snake Man](https://open.spotify.com/track/1PyppsTQBbIkefIUGyyI9O) | [Will Glaser](https://open.spotify.com/artist/1AQl7L8PIcnQredglUoiQV), [Matthew Herd](https://open.spotify.com/artist/2nQ8ZFNjgaUG34nWbUlkSC), [Liam Noble](https://open.spotify.com/artist/7mELwSaNVG7mx7Ju8Pja4N) | [Song for the Snake Man](https://open.spotify.com/album/5Gohh6O8VQ2FPFoPMUF49b) | 4:57 | 2020-12-18 |  |
 | [Straight Horns of Plenty](https://open.spotify.com/track/5VWybESIdxiN5mblUg0LXY) | [Sam Newsome](https://open.spotify.com/artist/4I58gyVzxGY66yrZm5D3ke) | [Sopranoville: Works for Prepared and Non\-Prepared Soprano](https://open.spotify.com/album/545Eo5pNpY0gWUVKzycbqs) | 2:31 | 2020-08-25 |  |
-| [Suite 3320, Pt\. I \- Live](https://open.spotify.com/track/3yt7rjEyVLYWGZ2307OSNI) | [Ben Monder](https://open.spotify.com/artist/2CH9bD5RtnDcm9O23JByN7), [Tony Malaby](https://open.spotify.com/artist/6woeo15v4gYqiegGAknRm0), [Tom Rainey](https://open.spotify.com/artist/3GLpFMa3feEODjzWx0XSIO) | [Live at the 55 Bar](https://open.spotify.com/album/1ee4YOkRpLaauwDd7Ai8VH) | 16:53 | 2021-02-27 |  |
+| [Suite 3320, Pt\. I \- Live](https://open.spotify.com/track/3yt7rjEyVLYWGZ2307OSNI) | [Ben Monder](https://open.spotify.com/artist/2CH9bD5RtnDcm9O23JByN7), [Tony Malaby](https://open.spotify.com/artist/6woeo15v4gYqiegGAknRm0), [Tom Rainey](https://open.spotify.com/artist/3GLpFMa3feEODjzWx0XSIO) | [Live at the 55 Bar](https://open.spotify.com/album/1ee4YOkRpLaauwDd7Ai8VH) | 16:53 | 2021-02-27 | 2023-12-24 |
+| [Suite 3320, Pt\. I \- Live](https://open.spotify.com/track/6H6SEmBJLzCPR3TZx4zuMy) | [Ben Monder](https://open.spotify.com/artist/2CH9bD5RtnDcm9O23JByN7), [Tony Malaby](https://open.spotify.com/artist/6woeo15v4gYqiegGAknRm0), [Tom Rainey](https://open.spotify.com/artist/3GLpFMa3feEODjzWx0XSIO) | [Live at the 55 Bar](https://open.spotify.com/album/3KgqVJrzaYxA5HbBx0gBl0) | 16:53 | 2021-06-04 |  |
 | [Symphony in Green](https://open.spotify.com/track/28iVB0oZMjPgXxvNgx0gOC) | [Ran Blake](https://open.spotify.com/artist/5Oe2el698y8tac9DMvlI7o), [Kresten Osgood](https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN) | [The Dorothy Wallace Suite](https://open.spotify.com/album/2SRt058wErJ8zyNLdm4Zg5) | 4:44 | 2020-08-25 |  |
 | [Symphony in Green](https://open.spotify.com/track/2vNuKZig6013siPnsYXB8h) | [Ran Blake](https://open.spotify.com/artist/5Oe2el698y8tac9DMvlI7o), [Kresten Osgood](https://open.spotify.com/artist/41MI7s5qtXYNCp7Ev8T5LN) | [The Dorothy Wallace Suite](https://open.spotify.com/album/2xbXh227nPXhYKRTk1XDyL) | 4:44 | 2020-08-25 | 2022-07-27 |
 | [Talvez Certamente](https://open.spotify.com/track/0rzdUxvmUEHIsC49PeTr6O) | [Luca Raele](https://open.spotify.com/artist/0mciU04JoXZua4RVSLqyW3), [Celio Barros](https://open.spotify.com/artist/5rJUkXxDb72alAgvPCoDPX), [André Mehmari](https://open.spotify.com/artist/5uTXmfA6bngEMrjgul7mwu) | [Agora Aqui](https://open.spotify.com/album/6giXpWWXGUJrie8noezK8y) | 3:32 | 2022-04-22 |  |

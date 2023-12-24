@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pYgLUl85GP.md) - [plain]
 
 > El Top 50 de canciones en Instagram Reels, actualizado cada semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,538 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,652 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [La Diabla](https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Diabla](https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v) | 2:52 |
 | 2 | [ALIEN FLAME](https://open.spotify.com/track/4lUE5XMFjQJIbghJIjbzvl) | [shometyle](https://open.spotify.com/artist/06bDmVGHXfwwfFkRxXSDl0) | [ALIEN FLAME](https://open.spotify.com/album/0GcjqpnpqpYZEJvVUG6kh3) | 2:14 |
 | 3 | [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 |
-| 4 | [S l e i g h B e l l s](https://open.spotify.com/track/2GNjDTb4E4oWPkx3i2HUKm) | [danicpeepner](https://open.spotify.com/artist/4ol7o2NC4NYIyJHj9RcGNz) | [S l e i g h B e l l s](https://open.spotify.com/album/5GfFdoUrmNOFRKEx9roXLq) | 2:11 |
+| 4 | [Sleigh Bells \(PhatCap! Trap Remix\)](https://open.spotify.com/track/5np8yrLEBsIwaueraz74yS) | [Trap City](https://open.spotify.com/artist/78D8GHzW7QisjfTwhk9PM2), [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Xmas Trap Remixes Vol\. 1](https://open.spotify.com/album/720SkHqWc9XG5mo4pOPVgn) | 2:11 |
 | 5 | [Мой мармеладный \(Speed Up\)](https://open.spotify.com/track/6qNHJwdMhNZzyJ7yTDU8zD) | [Katya Lel](https://open.spotify.com/artist/3NguMMTDTItRbe2E2PZrJ2) | [Мой мармеладный \(Speed Up\)](https://open.spotify.com/album/2FNme6NxwflHG6UurhDhlf) | 3:08 |
 | 6 | [HARLEY QUINN](https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:23 |
 | 7 | [Twinkling Lights \(Reimagined\)](https://open.spotify.com/track/6CNdCZn45UKso3xrrta7nQ) | [Auni](https://open.spotify.com/artist/2nUvyvqdFqe0pSmCDsoDjw) | [Twinkling Lights \(Reimagined\)](https://open.spotify.com/album/3vfVi6L7yPDeCVAKlEJ6Ts) | 2:01 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pYgLUl85GP.md) - [plain]
 | 30 | [La Víctima](https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Víctima](https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr) | 2:36 |
 | 31 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 |
 | 32 | [ANGEL](https://open.spotify.com/track/33pO82v2czlYe19jpx6ENI) | [Toby Mai](https://open.spotify.com/artist/71XRExAcKFmzM0fckCrCvo) | [ANGEL](https://open.spotify.com/album/3kLcgy3mj53vQ284PvX4gV) | 2:30 |
-| 33 | [MONTAGEM CORAL](https://open.spotify.com/track/5xnWaCA2uZkwxApShLNMs2) | [DJ Holanda](https://open.spotify.com/artist/7yC8pbSjZCPUp7q9zxhGAC), [Mc GW](https://open.spotify.com/artist/4PCJUOWh3i4ZrlzA2xRLXT), [Mc Th](https://open.spotify.com/artist/75ANwjnjXVeNJthIJgCo36), [Mc Cyclope](https://open.spotify.com/artist/1FIUVa3ZUJ2DAUHpXTxLGs) | [MONTAGEM CORAL](https://open.spotify.com/album/1Z27T5LoirDlX3bo8Kb6ee) | 2:25 |
+| 33 | [Vois](https://open.spotify.com/track/4g7mLvC3rLceMEnWROVJK6) | [Royal FORM](https://open.spotify.com/artist/3UIYck0iOdYyWIxgQDofqJ), [TheExorcist](https://open.spotify.com/artist/4RP2lKGYgYkC0TUiTT2JTR) | [Vois](https://open.spotify.com/album/5clbexGhDsBVC5BEvF3aEl) | 2:25 |
 | 34 | [Trendsetter](https://open.spotify.com/track/09VW2o6EHSWwzCdhW4ARU1) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u) | [Trendsetter](https://open.spotify.com/album/1Hxam85Bhf98cIkMRKX9QA) | 2:22 |
 | 35 | [Heartbeat](https://open.spotify.com/track/5y3M0g9NeTe4YKc0uBvVX1) | [Nitecore](https://open.spotify.com/artist/485ejjccNSGYlOTuNc0AN0) | [Heartbeat](https://open.spotify.com/album/5pqtjzO6DNDeDGKFlTUyhW) | 2:27 |
 | 36 | [Out of My League \- Sped Up](https://open.spotify.com/track/4y7SaFjgZMbTOxK833yJKd) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Out of My League Collection](https://open.spotify.com/album/0NeVF3Nalvj9MXdNIlYbjh) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pYgLUl85GP.md) - [plain]
 | 49 | [Tiempo](https://open.spotify.com/track/0roHxvWUsTnrKQDTXKXGwZ) | [Tony Dark Eyes](https://open.spotify.com/artist/3aJBHJUwHkjkGQ4zkG93HP), [Sofia Rød](https://open.spotify.com/artist/1DKDOfgZ1sBbOQwXfPKOHN) | [Tiempo](https://open.spotify.com/album/67t8LdykkpoG6o7nmjmzuv) | 4:01 |
 | 50 | [Little Life](https://open.spotify.com/track/3MBWR1rqc72QGiFIaOpKv6) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [Caramel](https://open.spotify.com/album/0GgcxG8Xq5qN3rcYvjqzF0) | 4:30 |
 
-Snapshot ID: `MCwxZjkyNzIwZGQ1NjY3ZDAyYzcwMzcwNDk2MTliMTg0NjNlYzcwOWJi`
+Snapshot ID: `MCw5Yzk5OTc3M2NlYzk4OTczODk1YWZkMDgxOTViMGIzMzI1ZWQzNGQx`

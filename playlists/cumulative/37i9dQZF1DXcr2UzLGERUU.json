@@ -256,10 +256,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 149640,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/18CZAWrqDV0PkePtkqfZMr"
+    },
+    {
+      "album": {
+        "name": "Catch the Moon",
+        "url": "https://open.spotify.com/album/0qITXseHwyX8TiC0MdaLbq"
+      },
+      "artists": [
+        {
+          "name": "Lisa Loeb",
+          "url": "https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149640,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/5VR3cIQE5iyJ2rfkgUZgG7"
     },
     {
       "album": {
@@ -292,10 +310,28 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 186866,
       "name": "Catch the Moon",
       "url": "https://open.spotify.com/track/4VwFWEJKkpOOWkhOwy3STM"
+    },
+    {
+      "album": {
+        "name": "Catch the Moon",
+        "url": "https://open.spotify.com/album/0qITXseHwyX8TiC0MdaLbq"
+      },
+      "artists": [
+        {
+          "name": "Lisa Loeb",
+          "url": "https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186866,
+      "name": "Catch the Moon",
+      "url": "https://open.spotify.com/track/5wfIDxNK5oaoxxIfLHJAAA"
     },
     {
       "album": {

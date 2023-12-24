@@ -4,7 +4,7 @@
 
 > This is Leon Leiden\. The essential tracks, all in one playlist.
 
-53 songs - 2 hr 29 min
+54 songs - 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,8 +50,9 @@
 | [plan v2](https://open.spotify.com/track/6ZDiojHljqoc2nYMZtkfiU) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [plan v2](https://open.spotify.com/album/4JdXxSuPmZMfIdAzmwrQVC) | 3:19 | 2023-11-10 |  |
 | [Platicamos](https://open.spotify.com/track/3VZvrKpBo0c6gelCsnRpCp) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Amor Escupido](https://open.spotify.com/album/14WhMR0dMyEdhoNVXnvG7w) | 2:56 | 2023-11-10 |  |
 | [Que Lo Cura](https://open.spotify.com/track/36mtuYkGjzPaFlKFzDfnga) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Que Lo Cura](https://open.spotify.com/album/62bcFkIA81hnoWDo9nhYxQ) | 3:23 | 2023-12-13 |  |
-| [Quisiste Dejar](https://open.spotify.com/track/0rTDhdwW4qzdfcF9QQCh1F) | [SAG](https://open.spotify.com/artist/3laRUVXNA2glQ95MJJ5qHi), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [ATL](https://open.spotify.com/artist/7moaTmrKrxOnFYW07pMEpg) | [Quisiste Dejar](https://open.spotify.com/album/404pbH9cpCtJSTzTScPFCQ) | 2:30 | 2023-11-10 |  |
+| [Quisiste Dejar](https://open.spotify.com/track/0rTDhdwW4qzdfcF9QQCh1F) | [SAG](https://open.spotify.com/artist/3laRUVXNA2glQ95MJJ5qHi), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [ATL](https://open.spotify.com/artist/7moaTmrKrxOnFYW07pMEpg) | [Quisiste Dejar](https://open.spotify.com/album/404pbH9cpCtJSTzTScPFCQ) | 2:30 | 2023-11-10 | 2023-12-24 |
 | [Qué Más Da](https://open.spotify.com/track/14WCJzq5yQhdtDrcGm2WcZ) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Qué Más Da](https://open.spotify.com/album/3GEkEU52GYJsCPXm4UFpUi) | 3:15 | 2023-11-10 |  |
+| [Sal Y Pimienta](https://open.spotify.com/track/5qNs6A5O9FZTBnoqQ5DHkd) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [El Morro Que Hace Música](https://open.spotify.com/album/4RoRb3XF1ibgFcrbNeI3h3) | 2:31 | 2023-12-23 |  |
 | [Savana](https://open.spotify.com/track/7vPKvqTBq4akWHhfo4WCxT) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [ATL](https://open.spotify.com/artist/7moaTmrKrxOnFYW07pMEpg) | [Savana](https://open.spotify.com/album/4Jh20UJGE2tLzWqqjdCDYo) | 2:48 | 2023-11-10 |  |
 | [Todo Mal](https://open.spotify.com/track/1T7o9INhyRVJ3yz40AOpJ2) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Todo Mal](https://open.spotify.com/album/2tOo8QwuEz1bYxLBc9X4aa) | 3:05 | 2023-11-10 |  |
 | [Todo Pasa](https://open.spotify.com/track/5dysG1GlvAU2GndJU7O9Wb) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Gabriel Bitrán](https://open.spotify.com/artist/0cLnWomMNr0IlMpeWHwfP3) | [Todo Pasa](https://open.spotify.com/album/0JTwFw2yB7anulkQWSVmO3) | 2:59 | 2023-11-10 | 2023-12-14 |

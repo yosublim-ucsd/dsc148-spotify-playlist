@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-319 songs - 15 hr 59 min
+320 songs - 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Brianna](https://open.spotify.com/track/6wFLtag0kJnXwva2Qj1khj) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Synchronic \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3zUpvlv6hfVwFC1zwtDT6M) | 1:38 | 2021-12-20 |  |
 | [Burn Butcher Burn](https://open.spotify.com/track/6Hp57iv0VLGgmWyOFx8iUm) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [Joey Batey](https://open.spotify.com/artist/3yhgVqRLh6DyzacZyQPNWc) | [The Witcher: Season 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/1rjv00YuOdsM7RHZY1jNTA) | 2:39 | 2021-12-20 |  |
 | [Bus Stop](https://open.spotify.com/track/0IKB0sdYNfXIvoxKWlh05D) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU) | [Broker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo) | 0:43 | 2023-03-10 |  |
-| [Came Here To Die](https://open.spotify.com/track/2SyWyjZm32D0sOJtFhmSMe) | [Lovett](https://open.spotify.com/artist/1zWfA8hPMF3dEddsi2P4vs) | [The Old Ways \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1YGvIYQYrjio1V9qtNnjT5) | 3:14 | 2021-12-20 |  |
+| [Came Here To Die](https://open.spotify.com/track/2SyWyjZm32D0sOJtFhmSMe) | [Lovett](https://open.spotify.com/artist/1zWfA8hPMF3dEddsi2P4vs) | [The Old Ways \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1YGvIYQYrjio1V9qtNnjT5) | 3:14 | 2021-12-20 | 2023-12-24 |
+| [Came Here To Die](https://open.spotify.com/track/67v63GLYUbLPxYXD0Ro5lI) | [Lovett](https://open.spotify.com/artist/1zWfA8hPMF3dEddsi2P4vs) | [The Old Ways \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0AWh6zkbRRCoFUNUnOqihW) | 3:14 | 2023-12-22 |  |
 | [Can People Change?](https://open.spotify.com/track/3AYs78JSa3FgmQxTtNyrQi) | [Joseph Trapanese](https://open.spotify.com/artist/566MlWaCa63jvMZV9YMj3V), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M), [Tonality](https://open.spotify.com/artist/5pcicNTH7aIJujRAA7WFXg) | [Spiderhead \(Soundtrack From The Netflix Film\)](https://open.spotify.com/album/5haACGpU0WzL5FkCUr6YGI) | 3:11 | 2022-06-17 | 2022-06-28 |
 | [Can You Hear The Music](https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL) | [Oppenheimer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0rwbMKjNkp4ehQTwf9V2Jk) | 1:50 | 2023-07-21 |  |
 | [Captain Jefferson](https://open.spotify.com/track/5X6b1ySSqzJm4qLw0fqs5n) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [News Of The World \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6v1bOteXExLs8oA8epNRuc) | 2:06 | 2021-12-20 | 2022-07-09 |

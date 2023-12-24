@@ -4,7 +4,7 @@
 
 > Blues meets funk\. Cover: Eric Gales
 
-83 songs - 5 hr 41 min
+84 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Hard Times](https://open.spotify.com/track/6fCbc4NrOEU96KtdPTupuS) | [The Hoodoo Kings](https://open.spotify.com/artist/3mFAzD0HSWZP9WE59ftBQR) | [The Hoodoo Kings](https://open.spotify.com/album/03LrKTthrYgqSr7jC6VpFz) | 4:26 | 2020-12-01 |  |
 | [Head Rag](https://open.spotify.com/track/5A70L6PqA5DkAw1Z33jB1z) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Iceman](https://open.spotify.com/album/5TwWjSByMhcsb7tYFkQ1el) | 3:53 | 2020-12-01 |  |
 | [Heart of Saint Paul](https://open.spotify.com/track/6Rm50WcWlHBu0X0TQyLKnU) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Chills & Thrills](https://open.spotify.com/album/7A2FDUfoCPcnp7OcUiL4vO) | 3:20 | 2020-12-01 | 2022-07-29 |
-| [Heart Of St\. Paul](https://open.spotify.com/track/1L43Z6RQCcQz7x1Oq7fY4C) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Chills & Thrills](https://open.spotify.com/album/3NAEXb8fdzzi9umXkF36J5) | 3:18 | 2020-12-01 |  |
+| [Heart Of St\. Paul](https://open.spotify.com/track/1L43Z6RQCcQz7x1Oq7fY4C) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Chills & Thrills](https://open.spotify.com/album/3NAEXb8fdzzi9umXkF36J5) | 3:18 | 2020-12-01 | 2023-12-24 |
+| [Heart Of St\. Paul](https://open.spotify.com/track/3XoETx3JhzcsDjXk6CLpS9) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Chills & Thrills](https://open.spotify.com/album/3CbjgETRjdUvgIJqu7qpZu) | 3:18 | 2020-12-01 |  |
 | [Hoodoo She Do](https://open.spotify.com/track/0gxaFS6T8sUczecSuIgVv8) | [Lonnie Brooks](https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog) | [Deluxe Edition](https://open.spotify.com/album/40O2V8Adg9cZCluTTeLEYU) | 3:47 | 2020-12-01 |  |
 | [Hope You Realize It \(Goodbye Again\)](https://open.spotify.com/track/2cMKzAbQbKwHqYQgvRvGSw) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Hope You Realize It \(Goodbye Again\)](https://open.spotify.com/album/2fHbu3R5or4jVtzvHdc9OZ) | 3:58 | 2023-09-08 |  |
 | [I Always Get My Man](https://open.spotify.com/track/4xgmjrBK2hgfwZJm44BlK3) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 3:49 | 2020-12-01 |  |

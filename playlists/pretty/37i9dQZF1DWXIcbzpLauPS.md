@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: NOVELISTS
 
-[Spotify](https://open.spotify.com/user/spotify) - 911,384 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 911,551 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,11 +73,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 63 | [False Divinity](https://open.spotify.com/track/6zNWFYMJdYHEdImfNorvEr) | [Texas In July](https://open.spotify.com/artist/3J5OtMrtDAw0IcanJR28Ya) | [False Divinity](https://open.spotify.com/album/5nkw1TYKhShOSpUtR9gbS0) | 3:48 |
 | 64 | [HEAVY RAIN](https://open.spotify.com/track/13XqsUBoeSvcC5iZOMZaqS) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK) | [HEAVY RAIN](https://open.spotify.com/album/5ugnVcdOzU6R94g0vJ00ih) | 3:54 |
 | 65 | [Red](https://open.spotify.com/track/6clolEOVLaSpg3mVelSzEa) | [Woe, Is Me](https://open.spotify.com/artist/7AzzsLSrHV9darZnK3RSDN) | [Red](https://open.spotify.com/album/5vVQSRjTqOTI6Ek6SmHqa9) | 4:09 |
-| 66 | [Pushing The Pink Envelope](https://open.spotify.com/track/4hvDdBwERAE7KbDRqia8WS) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [Pushing The Pink Envelope](https://open.spotify.com/album/1aQ0u8V9EOwE8ohlaFeHhm) | 4:11 |
+| 66 | [Pushing The Pink Envelope](https://open.spotify.com/track/0ktqowpZZ3losVs1xUf9lg) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [Pushing The Pink Envelope](https://open.spotify.com/album/5o0XYoeBMFq6zeyADEfBqU) | 4:11 |
 | 67 | [Breaking Teeth](https://open.spotify.com/track/5zKVTDKvqGYxM2iQ3vod6R) | [Hollow Front](https://open.spotify.com/artist/50YmW8f4U5IxTIwYI9mGAe) | [The Fear Of Letting Go](https://open.spotify.com/album/1pBnOofvJbc481QcJVMuGy) | 2:33 |
 | 68 | [+ ylva +](https://open.spotify.com/track/2NBcS6KrorQ2kjSheJTarf) | [Vildhjarta](https://open.spotify.com/artist/0z4ODfFM8PGE0A9r0tZ75J) | [+ ylva +](https://open.spotify.com/album/4LVxtKIFHnU89rhBv90s6D) | 4:41 |
 | 69 | [Gaping Wounds of Earth](https://open.spotify.com/track/6olzwjMrNrHgrkQPZFpe4Y) | [END](https://open.spotify.com/artist/4MnX5gyPiIWEjQzvX54I8p) | [The Sin of Human Frailty](https://open.spotify.com/album/6o6dgZpNASxsEcIbAGVJTq) | 2:43 |
-| 70 | [Perpetual Terminal](https://open.spotify.com/track/4TDy9DvlFtLp3XE3jhMfj5) | [Darkest Hour](https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq) | [Perpetual Terminal](https://open.spotify.com/album/4SYGnQBzkOTHXvCaPL8CiB) | 5:47 |
+| 70 | [Perpetual Terminal](https://open.spotify.com/track/0fcEV5CPc7QFD50pY4JhAs) | [Darkest Hour](https://open.spotify.com/artist/4dso1lISV1Atdo3O6qbhqq) | [Perpetual Terminal](https://open.spotify.com/album/4CPpslrtV51rQzvjGG98fd) | 5:47 |
 | 71 | [The Reckoning](https://open.spotify.com/track/5TWO6RPpkaaan9mO7Uyou2) | [Dayshell](https://open.spotify.com/artist/4yextvMjXxQXzyQkyS1jYX) | [Pegasus](https://open.spotify.com/album/7EBnsR1bhRVITs48imBq5w) | 4:01 |
 | 72 | [Passenger](https://open.spotify.com/track/2SXk2Adq9A8hMvrbglHmRs) | [Heart Of A Coward](https://open.spotify.com/artist/6GIZRqEJJNx3MFaC1YoFMZ) | [This place only brings death](https://open.spotify.com/album/5bds0LlgCaYsvAscrK1HQ0) | 3:59 |
 | 73 | [No More Sorrow](https://open.spotify.com/track/2yInTIIIQQ1sYLJIFefzff) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [No More Sorrow](https://open.spotify.com/album/6h7gZv6v0tqGC6Q54v6VY1) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 99 | [Reap](https://open.spotify.com/track/0sG0I67b53eGXCKryNCgmC) | [Shallowsky](https://open.spotify.com/artist/0OggfRsxbs119D8rf3rXvG) | [Reap](https://open.spotify.com/album/4cBmWgK6BWMuh5NakqcOIi) | 3:27 |
 | 100 | [Broken Bloodlines](https://open.spotify.com/track/66HeAsE4CABgtGJxE8Fyg6) | [Defects](https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3) | [Broken Bloodlines](https://open.spotify.com/album/0osYFo3GUQBBXDNA6i7XxM) | 4:36 |
 
-Snapshot ID: `MCwzMWNmYzBhMmM2ZmFiMDRlNWI0MDU5YzQwNWQ0N2VkY2JmMzBhODNi`
+Snapshot ID: `MCxmNTdhNmQ1MTMwOTVkNjY0ZDhjNDNjZGI2NzEyNTkxMWNiMjVhN2I5`

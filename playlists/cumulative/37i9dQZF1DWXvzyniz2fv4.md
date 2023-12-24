@@ -4,7 +4,7 @@
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-159 songs - 8 hr 35 min
+160 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Pra Praia](https://open.spotify.com/track/4B9Pt2eg0FBbSWjCCak0wK) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv) | [Pra Praia](https://open.spotify.com/album/4jJxKxxUVHzqGmhTKiCE4U) | 3:06 | 2022-06-24 | 2023-07-27 |
 | [Pra Praia](https://open.spotify.com/track/53XACfLYaZQ2KccxSLx5kN) | [26:15](https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv) | [Pra Praia](https://open.spotify.com/album/5SfOAaWjpFaX9yf5q8G1hY) | 3:06 | 2021-11-12 | 2022-07-29 |
 | [Pra Você Ficar](https://open.spotify.com/track/7nfuTyQl3FDwxBspaww3Ng) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa), [Mun\-Ra](https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96) | [Pra Você Ficar](https://open.spotify.com/album/3Ub14El2fpwfXczl3uPPrl) | 2:40 | 2021-11-12 |  |
-| [praia de santa rita](https://open.spotify.com/track/7eDcqxy6mQ0W2LxA7q0qnN) | [Marabu](https://open.spotify.com/artist/0zx6DsOmLeuqXd9Ea9NIZc), [KaluF](https://open.spotify.com/artist/3GZxCDFBn4A2PLPsqW8X4j) | [DIMALOKA, Vol.1: Denso](https://open.spotify.com/album/5f9LfhmljlqYlEVLEYImuC) | 3:23 | 2023-12-22 |  |
+| [praia de santa rita](https://open.spotify.com/track/7eDcqxy6mQ0W2LxA7q0qnN) | [Marabu](https://open.spotify.com/artist/0zx6DsOmLeuqXd9Ea9NIZc), [KaluF](https://open.spotify.com/artist/3GZxCDFBn4A2PLPsqW8X4j) | [DIMALOKA, Vol.1: Denso](https://open.spotify.com/album/5f9LfhmljlqYlEVLEYImuC) | 3:23 | 2023-12-22 | 2023-12-24 |
 | [Praia do Rosa \- Acústico](https://open.spotify.com/track/5lYKob6hewwt3dcy5kWMfF) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Praia do Rosa \(Acústico\)](https://open.spotify.com/album/0ZctkhWjiHRZ4t20iKd2Ql) | 4:16 | 2021-11-12 |  |
 | [Prece](https://open.spotify.com/track/6UmJjde5JUyvqMm2lqvPyD) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf) | [Para Todos os Garotos que já Mamei](https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK) | 2:40 | 2023-09-01 | 2023-12-16 |
 | [Probleminha Diário \(Papasessions \#7\)](https://open.spotify.com/track/3fT7cJoa7RqsvNZnEC45EC) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [CALIFFA](https://open.spotify.com/artist/1PSbZri8ZpIcScw1WFMzjD) | [Probleminha Diário \(Papasessions \#7\)](https://open.spotify.com/album/7A8XaIPQmaZtvgo25ut9i8) | 4:05 | 2021-11-12 |  |
@@ -128,6 +128,7 @@
 | [Qualquer Maneira](https://open.spotify.com/track/4OuOPF6CxMSUTXCuKhwKZT) | [Incógnito](https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8) | [Qualquer Maneira](https://open.spotify.com/album/7j1DUPvd4pw2Z6uI3QJj7r) | 5:31 | 2021-11-12 |  |
 | [Recinto](https://open.spotify.com/track/2EFkIgNiVxkIBt8zyKQBjx) | [Cave](https://open.spotify.com/artist/3TKi2ihPsE1ViCKxLKxQm7), [Mateca](https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU) | [Recinto](https://open.spotify.com/album/2EK43yizJmRkxIxzsBPLWA) | 2:42 | 2023-04-09 | 2023-09-13 |
 | [Reggaezin Do LotHzin](https://open.spotify.com/track/7DMbWO0qRvliv85AneFv2M) | [LotH](https://open.spotify.com/artist/15A5puZmE1MlaK7aFWfL0a) | [Reggaezin Do LotHzin](https://open.spotify.com/album/6mQpdAV0b0CIiz5TA3gcyy) | 2:47 | 2022-07-29 | 2022-10-25 |
+| [Revoada](https://open.spotify.com/track/50CnsLVWEypahw6Wze00qL) | [POLLO](https://open.spotify.com/artist/6TgVQhHx0BWvzdEQxRnr23), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Revoada](https://open.spotify.com/album/7jXwwkRfr3INN7q4IPWEDK) | 3:27 | 2023-12-22 |  |
 | [Rosa Mosqueta](https://open.spotify.com/track/3sRBvfATNmU3LmbsRaZ9Ds) | [Orgânico](https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD), [Kadri](https://open.spotify.com/artist/080IizDi2wwWfkw1zPdBZz), [SóCIRO](https://open.spotify.com/artist/3rS2eMg4fwgs0ViHxkxuUz) | [Rosa Mosqueta](https://open.spotify.com/album/29r8N46ReMZsPewh4sJAbm) | 3:18 | 2023-05-19 | 2023-07-29 |
 | [Rosas Rositas](https://open.spotify.com/track/6guxeipY9PFAQdCcJRqKFg) | [Incógnito](https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8) | [Rosas Rositas](https://open.spotify.com/album/5eX7MhfxlDUmN94GuJVFVt) | 5:09 | 2021-11-12 |  |
 | [Rosé](https://open.spotify.com/track/2VjdWetFejyZ1NI95u12Zy) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Inverno](https://open.spotify.com/album/6duBR0e38IcnyqdcTYBbCj) | 3:32 | 2022-06-24 |  |

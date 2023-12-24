@@ -4,7 +4,7 @@
 
 > The best of today's dance hits\. Cover: Loud Luxury & charlieonnafriday
 
-1,105 songs - 2 day 15 hr 12 min
+1,106 songs - 2 day 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,8 @@
 | [Falling Back](https://open.spotify.com/track/1vbn9fEyw1IYhqgZJdu9ZB) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:26 | 2022-06-17 | 2022-09-03 |
 | [Falling Behind](https://open.spotify.com/track/1LQh2p4PQIbhIP6eneP48J) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [CAPS](https://open.spotify.com/artist/2UC6tJseULDFTRgGDUy1UF) | [Falling Behind](https://open.spotify.com/album/4Z8YpFj57endkBfDe4cIg1) | 3:36 | 2022-07-22 | 2022-10-08 |
 | [Falling Behind](https://open.spotify.com/track/3mJSu7WdreL5WucqTpjwW7) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Falling Behind](https://open.spotify.com/album/6w9ZhMq9O9UwoOT8A6fkp1) | 4:43 | 2023-12-15 |  |
-| [Fantasy](https://open.spotify.com/track/02HnreS8f1YDpr5qXrCtw3) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [IN:TENSION](https://open.spotify.com/album/2eMuDynNCvPeNzWkrt8m2p) | 3:15 | 2023-11-10 |  |
+| [Fantasy](https://open.spotify.com/track/02HnreS8f1YDpr5qXrCtw3) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [IN:TENSION](https://open.spotify.com/album/2eMuDynNCvPeNzWkrt8m2p) | 3:15 | 2023-11-10 | 2023-12-24 |
+| [Fantasy](https://open.spotify.com/track/60vMYW3pMPwW5V6eTXNq2N) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [IN:TENSION](https://open.spotify.com/album/5Om5ffiuTukQ7HdnSMxm1h) | 3:15 | 2023-12-15 |  |
 | [fault in the stars](https://open.spotify.com/track/585DJiJ7LPSNBSUEE4TxNo) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [fault in the stars](https://open.spotify.com/album/1iOQat5AF7YwqkVBmHdcNt) | 3:10 | 2023-11-10 |  |
 | [Feed My Hunger \(No Shade\)](https://open.spotify.com/track/0hsjCTNkruMDApePUJZMKv) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [myst milano.](https://open.spotify.com/artist/0J1rVE3RunTC4Pm8ohPM7z) | [Feed My Hunger \(No Shade\)](https://open.spotify.com/album/6IpuoQShDOYowPqkxzG8Ku) | 2:24 | 2022-10-14 | 2022-11-05 |
 | [Feel \(MK Remix\) \- Radio Edit](https://open.spotify.com/track/0z2NpkxY6Kqb1DaUyjha5B) | [Riotron](https://open.spotify.com/artist/6oW4zCSDSA4RTCwFpatN3k), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Feel \(MK Remix\)](https://open.spotify.com/album/7jmhiEVVaYR7EJsSkFbLXj) | 3:21 | 2023-06-09 | 2023-07-08 |

@@ -4,7 +4,7 @@
 
 > Unique versions of hit songs by other artists\. Cover: Dolly Parton and Lainey Wilson
 
-358 songs - 22 hr 29 min
+359 songs - 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Happier \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Spotify Singles](https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz) | 3:45 | 2021-12-10 | 2023-03-05 |
 | [Hard To Say I'm Sorry](https://open.spotify.com/track/03DLfg93LxUViViOKPoFXH) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Copy That](https://open.spotify.com/album/2hWqaMLhAvTQRD85eNO10H) | 5:22 | 2021-12-10 | 2022-07-29 |
 | [Hard To Say I'm Sorry](https://open.spotify.com/track/3UUIIv6iA4fsLLgo284oN3) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Whenever I Call You "Friend" \(feat\. Phillip Sweet\)](https://open.spotify.com/album/0qwDJBOgMOAxaNxKmYaEAV) | 5:22 | 2021-12-10 | 2022-02-03 |
-| [He Got the Best of Me](https://open.spotify.com/track/5brBLjXJuQ1leaH5VAGBGq) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [He Got the Best of Me](https://open.spotify.com/album/2nIckz63cXWEYkWd9SWPAO) | 2:38 | 2021-12-10 |  |
+| [He Got the Best of Me](https://open.spotify.com/track/5brBLjXJuQ1leaH5VAGBGq) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [He Got the Best of Me](https://open.spotify.com/album/2nIckz63cXWEYkWd9SWPAO) | 2:38 | 2021-12-10 | 2023-12-24 |
 | [Heads Carolina, Tails California](https://open.spotify.com/track/3eyYxeswyx7wmO3n8EHKuD) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [Slappers, Bangers & Certified Twangers, Vol\. 1](https://open.spotify.com/album/6ib3wEDfXc8b5vAwzz8vgQ) | 3:32 | 2021-12-10 | 2022-07-23 |
 | [Heartbroken](https://open.spotify.com/track/6HTgaPwwHeONuUubCjxgjn) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [Heartbroken](https://open.spotify.com/album/3UVS9doErvVmN7X7JpSKxc) | 2:54 | 2023-09-08 |  |
 | [Help Me Make It Through The Night](https://open.spotify.com/track/7v1gS86jVpKFdnt0gmkOSg) | [Mandy Barnett](https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO) | [A Nashville Songbook](https://open.spotify.com/album/5EuBzU4C9X3A9fWah24JgA) | 3:35 | 2021-12-10 | 2022-07-28 |
@@ -336,6 +336,7 @@
 | [We Just Disagree](https://open.spotify.com/track/3xsYZOaajjyJouOEuKIeo7) | [Billy Dean](https://open.spotify.com/artist/3cMyqwpNT2D8f0WuaRzzZX) | [Certified Hits](https://open.spotify.com/album/61zrzuhdogtVgtLZPATw3L) | 3:26 | 2021-12-10 | 2022-07-29 |
 | [What's Up \(What's Going On\)](https://open.spotify.com/track/5FonXR4yh9PWNbQCHQn5I0) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/7MQhqC96gC1il14HCHbfr9) | 3:51 | 2023-01-03 | 2023-11-19 |
 | [What's Your Country Song](https://open.spotify.com/track/5S6Fijz2xGd1YSykH6zHWg) | [Charlotte Ave](https://open.spotify.com/artist/2rcT3E2t3e3HYJUOMsG3UX) | [What's Your Country Song](https://open.spotify.com/album/5vpq2EODIUw9aCqlty61kF) | 2:40 | 2022-01-07 | 2022-07-17 |
+| [Whatever It Is](https://open.spotify.com/track/23s4QWE0SAFXDKqpCl8Olq) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Whatever It Is](https://open.spotify.com/album/1M0t9G8Ip0snSJZEp6CswH) | 3:39 | 2023-12-15 |  |
 | [What’s Up \(What’s Going On\)](https://open.spotify.com/track/7yVVTAPCav3KYMUksCTN3K) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Bell Bottom Country](https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0) | 3:51 | 2023-11-17 |  |
 | [What’s Up?](https://open.spotify.com/track/7meXWIzJ01VGReBK26gtvw) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Perry](https://open.spotify.com/artist/5tfiJ40SRxluWNgA6ruvSo) | [What's Up?](https://open.spotify.com/album/74p9zXtOsvboiAi9srfb6l) | 4:38 | 2023-09-22 |  |
 | [When I Was Your Man](https://open.spotify.com/track/2Fv1cWu2Hg2Z4UXsu3fbrx) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Big Machine Undercover](https://open.spotify.com/album/3rWSVlSY22f5XwgMUK2bwf) | 3:46 | 2021-12-10 |  |

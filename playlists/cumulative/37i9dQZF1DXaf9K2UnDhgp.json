@@ -2852,10 +2852,28 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 138857,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/0jLZ1tlE3wcXljZdePwHJz"
+    },
+    {
+      "album": {
+        "name": "Rockin' Around The Christmas Tree",
+        "url": "https://open.spotify.com/album/12VOY0iAF85kCIfD5bDGyj"
+      },
+      "artists": [
+        {
+          "name": "Lauran Hibberd",
+          "url": "https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/3tE3MR4G5xwWIS9VGSzwVC"
     },
     {
       "album": {

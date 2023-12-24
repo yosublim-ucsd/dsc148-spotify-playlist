@@ -4,7 +4,7 @@
 
 > A laid\-back trip in the folk scene\. Cover: Bella White
 
-663 songs - 1 day 16 hr 29 min
+664 songs - 1 day 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,7 +366,8 @@
 | [Masterpiece](https://open.spotify.com/track/5SPraUiuMk5q53lG806MnB) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Wide Open Light](https://open.spotify.com/album/3jUnB5jMAiBbuKBuS6RVV7) | 2:44 | 2023-06-02 | 2023-12-02 |
 | [Maybe \- Live Acoustic](https://open.spotify.com/track/3dHgx0EUuqsctUJOuPnaa8) | [Geneviève Racette](https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU) | [Maybe \(Live Acoustic\)](https://open.spotify.com/album/3Xj9GyEPyLKCL2jRSFfE0s) | 3:35 | 2022-09-30 | 2022-10-15 |
 | [Meant to Be](https://open.spotify.com/track/31rivbCbEbXiRyHtQqfiED) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Meant to Be](https://open.spotify.com/album/2J8uPVOmhwfuHN2dWVb2RA) | 4:17 | 2022-11-25 | 2023-02-25 |
-| [Medicine](https://open.spotify.com/track/23k8mKYhjxN5iSw6nxOVkL) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [Medicine](https://open.spotify.com/album/3JqcgkR1T0inYGixFDTmdO) | 4:15 | 2023-12-01 |  |
+| [Medicine](https://open.spotify.com/track/1QWyq6ewUIWZgsyVmzpo0Y) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [Medicine](https://open.spotify.com/album/03bvJDhMjnOOXwqqw3NZ9B) | 4:15 | 2023-12-22 |  |
+| [Medicine](https://open.spotify.com/track/23k8mKYhjxN5iSw6nxOVkL) | [Loving](https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq) | [Medicine](https://open.spotify.com/album/3JqcgkR1T0inYGixFDTmdO) | 4:15 | 2023-12-01 | 2023-12-24 |
 | [Melbourne](https://open.spotify.com/track/3MKXWNCf5HuFnije8DleCS) | [Laura Lucas](https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc) | [Melbourne](https://open.spotify.com/album/33RsBJcgXW6cIrBgoVfmWO) | 2:59 | 2022-08-26 | 2022-10-22 |
 | [Memory Palace](https://open.spotify.com/track/60wYARCUwuFlDHumkWOIv7) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Toil and Trouble](https://open.spotify.com/album/2XYClv25hWniJ6eUrejkEe) | 4:01 | 2023-06-30 | 2023-10-14 |
 | [Michigan](https://open.spotify.com/track/3aKIwhm12lkuZAp0AjalYy) | [Mattie Leon](https://open.spotify.com/artist/3hJTvfT20mDphCF1yJsnC0) | [Michigan](https://open.spotify.com/album/0gILM2JR7Hx68yyU2SWSGm) | 3:55 | 2023-02-17 | 2023-07-15 |

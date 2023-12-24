@@ -4,7 +4,7 @@
 
 > Riffing around the Christmas tree\. Cover: My Chemical Romance
 
-226 songs - 12 hr 22 min
+227 songs - 12 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,8 @@
 | [Punk Drunk Xmas Eve](https://open.spotify.com/track/31Tdc27vGq26sb2DXQI8CN) | [Holy Moly & The Crackers](https://open.spotify.com/artist/73Y01xwhmpeq2qq9KLaRFZ) | [Punk Drunk Xmas Eve](https://open.spotify.com/album/75XYdSVrIvIPffcxMDifqd) | 3:33 | 2021-11-26 | 2022-11-09 |
 | [Rich Kid On Christmas](https://open.spotify.com/track/1DXL1rqpb3I0MIarBgw34h) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3) | [Rich Kid On Christmas](https://open.spotify.com/album/6sUDlztLtWkJGHRDOxXCCz) | 3:01 | 2021-11-26 |  |
 | [Ring Out, Solstice Bells \- 2003 Remaster](https://open.spotify.com/track/5UPNGmyaxdiGabPu3FzSlm) | [Jethro Tull](https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R) | [Songs from the Wood](https://open.spotify.com/album/3hqr2lQ7zQdnyguyuID177) | 3:43 | 2022-11-09 |  |
-| [Rockin' Around The Christmas Tree](https://open.spotify.com/track/0jLZ1tlE3wcXljZdePwHJz) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Rockin' Around The Christmas Tree](https://open.spotify.com/album/3lNJSpgqxurPSSt6hWTNgv) | 2:18 | 2021-11-26 |  |
+| [Rockin' Around The Christmas Tree](https://open.spotify.com/track/0jLZ1tlE3wcXljZdePwHJz) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Rockin' Around The Christmas Tree](https://open.spotify.com/album/3lNJSpgqxurPSSt6hWTNgv) | 2:18 | 2021-11-26 | 2023-12-24 |
+| [Rockin' Around The Christmas Tree](https://open.spotify.com/track/3tE3MR4G5xwWIS9VGSzwVC) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Rockin' Around The Christmas Tree](https://open.spotify.com/album/12VOY0iAF85kCIfD5bDGyj) | 2:18 | 2023-11-30 |  |
 | [Run Rudolph Run](https://open.spotify.com/track/2YRAHBcCATVlCgVQg8Mitd) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Johnny B\. Goode/His Complete \`50s Chess Recordings](https://open.spotify.com/album/4ftxTaRQdhKNoazScTMiiE) | 2:43 | 2021-11-26 | 2022-07-29 |
 | [Run Rudolph Run](https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [Rock 'N' Roll Rarities](https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq) | 2:45 | 2021-11-26 | 2022-11-09 |
 | [Run Rudolph Run](https://open.spotify.com/track/4BbZ1gB8vktu71ALv0Qjt7) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR), [Lemmy](https://open.spotify.com/artist/0bmuibaBeiMxAqN2HwUqhd), [Billy F\. Gibbons](https://open.spotify.com/artist/63qWU22uKztlKgZcZmL4Qy), [Dave Grohl](https://open.spotify.com/artist/7mRVAzlt1fAAR9Cut6Rq8c) | [We Wish You a Metal Xmas.\. \(..And a Headbanging New Year\)](https://open.spotify.com/album/5O2Ze6Upnw5b7oiECdYqQo) | 4:00 | 2022-12-20 | 2023-02-16 |

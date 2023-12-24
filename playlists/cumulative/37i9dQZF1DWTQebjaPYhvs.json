@@ -1614,10 +1614,28 @@
       ],
       "date_added": "2019-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 250693,
       "name": "I'd Die Without You",
       "url": "https://open.spotify.com/track/5MAWGXxVxFNig7swSJUTP5"
+    },
+    {
+      "album": {
+        "name": "The Bliss Album...?",
+        "url": "https://open.spotify.com/album/69rTTwmGtmD0kChPaxN5Zq"
+      },
+      "artists": [
+        {
+          "name": "P.M. Dawn",
+          "url": "https://open.spotify.com/artist/5DgjOwTN6o76J5Gf8MzEoL"
+        }
+      ],
+      "date_added": "2019-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250693,
+      "name": "I'd Die Without You",
+      "url": "https://open.spotify.com/track/649jZznllnI5F2rMq8nA2L"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2eGcUpDGev2.md) - [plain]
 
 > Drift off to sleep with instrumental lullaby versions of your favorite Christian music tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,058 likes - 71 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,062 likes - 71 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2eGcUpDGev2.md) - [plain]
 | 2 | [So Will I \(100 Billion X\)](https://open.spotify.com/track/2lior9cJHurjTDh9qlXuOt) | [Lullaby Baby Trio](https://open.spotify.com/artist/76bgYMdQ7UYnUad5NiyE6v) | [Lullaby Renditions of Hillsong and Hillsong United](https://open.spotify.com/album/3A8VSMhweMiRCeTHkkPSO5) | 4:38 |
 | 3 | [This Little Light of Mine \(Instrumental Version\)](https://open.spotify.com/track/0nvx4ZjLR4ZT1DUIxPkVKn) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Land of Nod: Soft Lullabies for Sleep](https://open.spotify.com/album/7E4CARdj2EfonYv3UFA7zS) | 3:30 |
 | 4 | [Arise, O Glorious Zion](https://open.spotify.com/track/1axCrv907p5DoNPjJ27Rch) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Christian lullabies, Vol\. 2](https://open.spotify.com/album/33gr6m71PtMoE5ftWXxdxq) | 3:34 |
-| 5 | [Open The Eyes Of My Heart](https://open.spotify.com/track/4PXMxjmY3hOyFUhMryjZSw) | [Sleepytime Worship](https://open.spotify.com/artist/2xChgoo2M9cy6PJWnxb1Ja) | [Michael W\. Smith Lullaby Renditions](https://open.spotify.com/album/4WJPTnXSDwMRoWHyL57Uki) | 3:13 |
+| 5 | [Open The Eyes Of My Heart](https://open.spotify.com/track/6dvM3kUCPV9Wamz8aT4pyu) | [Sleepytime Worship](https://open.spotify.com/artist/2xChgoo2M9cy6PJWnxb1Ja) | [Michael W\. Smith Lullaby Renditions](https://open.spotify.com/album/7xB8qQdFXpajyqaP2juPBw) | 3:13 |
 | 6 | [Praise Him, Praise Him \- Music Box Lullaby and Nature Sounds](https://open.spotify.com/track/14VZZ9wUVAL8rgzFyj7eNx) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Baby Christian Sleep Music \- Relaxing Worship Lullabies](https://open.spotify.com/album/5XW5tAFp0ujOQ12lVWBHvs) | 3:02 |
 | 7 | [Michael, Row the Boat Ashore \- Instrumental](https://open.spotify.com/track/7rfMegEFbia0lWCYmbPUvu) | [Christian Baby Lullabies](https://open.spotify.com/artist/5iFSxwrTVbDUEmWMwshpDr) | [Christian Baby Lullabies](https://open.spotify.com/album/3NP7dMEqedaEJxuYklL0A1) | 3:28 |
 | 8 | [Jesus I Need You](https://open.spotify.com/track/3fXXo0djjwn9wa5efLJkaD) | [Sweet Little Band](https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy) | [Babies Go Hillsong, Vol\. 2](https://open.spotify.com/album/39PR1aqOLZDGxm1lQSRqPV) | 3:20 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2eGcUpDGev2.md) - [plain]
 | 36 | [Christ is Enough](https://open.spotify.com/track/61peMzb8Hz4t1xbvSzzGQD) | [Sweet Little Band](https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy) | [Babies Go Hillsong, Vol\. 2](https://open.spotify.com/album/39PR1aqOLZDGxm1lQSRqPV) | 3:45 |
 | 37 | [High on the Mountain Top](https://open.spotify.com/track/6mpP2RBLc8H8yOLbH35gN1) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Christian lullabies, Vol\. 1](https://open.spotify.com/album/71rA2y1clYcq9YrjUtrfAm) | 2:40 |
 | 38 | [Oh How I Love Jesus \- Music Box Lullaby and Nature Sounds](https://open.spotify.com/track/1zWdC68dKP3hYivbygGWPw) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Baby Christian Sleep Music \- Relaxing Worship Lullabies](https://open.spotify.com/album/5XW5tAFp0ujOQ12lVWBHvs) | 1:51 |
-| 39 | [Love Song For A Savior \(jars Of Clay Lullaby Tribute\)](https://open.spotify.com/track/50WEQ7sN1QT8xOEBSkLCgV) | [Lullaby Players](https://open.spotify.com/artist/1IVUK6wK1PvFI6adwUcoc4) | [Jars Of Clay Lullaby Renditions](https://open.spotify.com/album/2G7J1NGAQGZYTcdJQm6oDM) | 4:53 |
+| 39 | [Love Song For A Savior \(jars Of Clay Lullaby Tribute\)](https://open.spotify.com/track/21vTQiIrV6pgPAnWQUevkc) | [Lullaby Players](https://open.spotify.com/artist/1IVUK6wK1PvFI6adwUcoc4) | [Jars Of Clay Lullaby Renditions](https://open.spotify.com/album/0V97zEzVCVJgJ9SepJFbZb) | 4:53 |
 | 40 | [What a Beautiful Name](https://open.spotify.com/track/1Dx1448XzpHgbTCmG8yA8N) | [Worship Lullaby](https://open.spotify.com/artist/4s39KkIp4ZerdqkOgRaX1e) | [Worship Lullaby, Vol\. III](https://open.spotify.com/album/71rTCE82fhoJu1WGI7IFlh) | 5:21 |
 | 41 | [Cornerstone](https://open.spotify.com/track/0fduFwk8WSBMkNif9kiQI5) | [Hillsong Kids Jr.](https://open.spotify.com/artist/00NuUBL2vFbfQiCAqXSjcZ) | [Piano Lullabies \(Vol\. 1\)](https://open.spotify.com/album/0Zn4aPB1qQcg2dkCUGnxAG) | 5:55 |
 | 42 | [After All \(Holy\)](https://open.spotify.com/track/2toBDD2Q9bZYavjSaT1VKq) | [Christian Baby Players](https://open.spotify.com/artist/1Ry9w1oV75gtMjOiOUspF6) | [Lullaby Renditions of David Crowder Band](https://open.spotify.com/album/4Dy3T7hb9zxX1g0qXAlH6Z) | 3:25 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2eGcUpDGev2.md) - [plain]
 | 70 | [I Surrender \- Lullaby Version](https://open.spotify.com/track/6XJpjmiNV7cBi98lDcSJYt) | [Christian Music For Babies From I’m In Records](https://open.spotify.com/artist/6oGDuzaxim1teeU1yjhokP) | [Lullaby Versions of Hillsong \(Volume 2\)](https://open.spotify.com/album/3M2e5bWIIZ67ogbtKQ7jrN) | 5:00 |
 | 71 | [Ocean \- Where Feet May Fail](https://open.spotify.com/track/1tOLH5ZweMAuZNL9c2qwnc) | [Christian Music For Babies From I’m In Records](https://open.spotify.com/artist/6oGDuzaxim1teeU1yjhokP) | [Baby Worship \(Piano Lullabies\)](https://open.spotify.com/album/0rChVqYfd7L4MDE5gJ49oL) | 4:21 |
 
-Snapshot ID: `MCwyMGNhNDJlNWVkNDQ4ZjhmOGM4NGQwYTQ5ZGNjMGFjZjVhNTdhZGYy`
+Snapshot ID: `MCxmNGM5Y2M1NjIxZTRmNjIwYjE4NWEyODI1MjNhZTkxYzgyYWViYWM2`

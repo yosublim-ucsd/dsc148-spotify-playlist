@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-431 songs - 1 day 15 hr 37 min
+432 songs - 1 day 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,7 +345,7 @@
 | [Stairway to the Stars](https://open.spotify.com/track/4XfFBYtS2QlwddTWzbxGGS) | [Kevin Fort](https://open.spotify.com/artist/39aVoVtOa2M9D4rY05JEgg), [Joe Policastro](https://open.spotify.com/artist/7BwD8iXMGWU6mEHKXTFnrZ), [Jon Deitemyer](https://open.spotify.com/artist/6hWmvr0wvTpHKfBCh74B3f) | [Perspectives](https://open.spotify.com/album/53gCAuERUM2sYUohxHPFBw) | 5:17 | 2022-10-06 | 2023-10-13 |
 | [Stardust](https://open.spotify.com/track/6QqXTZUL8O3y46rgDEWnsm) | [Bobby Hutcherson](https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5) | [Candy](https://open.spotify.com/album/4OdGL0Uq7YZmrxsIYKUbrU) | 5:23 | 2020-05-02\* |  |
 | [Starlight](https://open.spotify.com/track/4iwNcUIjJQGJSKH2qoez4o) | [Fredrik Kronkvist](https://open.spotify.com/artist/7Ej5Shrvcy7tE83A9Dmxrb) | [Starlight](https://open.spotify.com/album/5s5JmTs3Cxg8OkhLxALM0k) | 6:42 | 2022-02-17 | 2023-10-18 |
-| [Still Life](https://open.spotify.com/track/5pMkhUygNBOg2dCYu0Mi0q) | [Bill Mays Trio](https://open.spotify.com/artist/0u0kF8FSLbjeCbwzf9rSL9) | [Autumn Serenade](https://open.spotify.com/album/0vz4fJU7XRDfAocP8Syq9r) | 4:47 | 2023-02-28 |  |
+| [Still Life](https://open.spotify.com/track/5pMkhUygNBOg2dCYu0Mi0q) | [Bill Mays Trio](https://open.spotify.com/artist/0u0kF8FSLbjeCbwzf9rSL9) | [Autumn Serenade](https://open.spotify.com/album/0vz4fJU7XRDfAocP8Syq9r) | 4:47 | 2023-02-28 | 2023-12-24 |
 | [Stockholm Sweetnin'](https://open.spotify.com/track/73fjTjTG8KSLQ04t5fARWm) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Swedish Ballads..\. & More](https://open.spotify.com/album/2CrBPHoWZrRA79fU1VRC8s) | 7:55 | 2020-10-27 | 2023-05-24 |
 | [Stormy Weather](https://open.spotify.com/track/2ZT6cJhnJtaaEMJpwRIEPT) | [Niclas Knudsen Trio](https://open.spotify.com/artist/2Z3lQTlj6dkxFg1RwLfwEn), [Niclas Knudsen](https://open.spotify.com/artist/7ErSwiH3ISJy905okfPJU5) | [Western Music Box](https://open.spotify.com/album/2bV9dprqJ9PLxR9GZKGuf1) | 6:31 | 2023-08-15 |  |
 | [Stormy Weather](https://open.spotify.com/track/3wqEq2lsXWO98kHXUvrN9C) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [American Songbook Essentials \(Remastered 2011\)](https://open.spotify.com/album/4rByvE7z6BpZmnMj6OFkOf) | 3:34 | 2020-05-02\* | 2022-05-03 |
@@ -377,6 +377,7 @@
 | [The Shadow of Your Smile](https://open.spotify.com/track/1I7OMSoMhToGtA1QCTyTBw) | [Dominick Farinacci](https://open.spotify.com/artist/39ZSWKyCTg2tduAFxo74sB) | [The Shadow of Your Smile](https://open.spotify.com/album/5qz2663lHFjJC9QYTu4JRC) | 2:35 | 2023-10-17 |  |
 | [The Sun in September](https://open.spotify.com/track/0rm7lBomgchi6bHaTwi7cL) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [Fletcher Moss Park](https://open.spotify.com/album/0uEEiR66gvpTpcjJ5GagPU) | 7:50 | 2020-05-27 | 2021-09-10 |
 | [The Things We Did Last Summer](https://open.spotify.com/track/3l3CvPTXEtkw2IiRKa3Hfl) | [Walt Weiskopf](https://open.spotify.com/artist/0tdWD3Wpf0kyUYI6zeT1w3) | [European Quartet: Harmless Addiction](https://open.spotify.com/album/1gVa0y6jqdbhQtINU2lNDv) | 5:32 | 2023-11-21 |  |
+| [The Third One](https://open.spotify.com/track/6qI9oEHMOjlqDTuOaCZK6w) | [Svante Söderqvist](https://open.spotify.com/artist/1dLXnfFWsftCVP7eNMg9bf), [Adam Forkelid](https://open.spotify.com/artist/3WcxxtroBeJy2PPN5s6CRW), [Tuulikki Bartosik](https://open.spotify.com/artist/7axlscQPz3DMimClh92oaS) | [The Rocket](https://open.spotify.com/album/4yMHUAidQFFojQk5D7kFSo) | 5:10 | 2023-12-19 |  |
 | [The Very Thought Of You](https://open.spotify.com/track/5m07y0cB4u7D5gzZOBU5sW) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Red Garland's Piano](https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d) | 4:10 | 2021-08-21 |  |
 | [The Windmills of Your Mind](https://open.spotify.com/track/6Q8m3ux9ww9OMXlK7OrFkL) | [Paolo Fresu](https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi), [Richard Galliano](https://open.spotify.com/artist/6yXri0y0q95UDiAyLzTM1y), [Jan Lundgren](https://open.spotify.com/artist/4yw84sobRr067mN2U8BNOI) | [Mare Nostrum III](https://open.spotify.com/album/3dwUsSTgwzB3uUSjlPrJWy) | 3:37 | 2020-05-02\* | 2021-08-20 |
 | [The World We Knew](https://open.spotify.com/track/5qyLYGMHTACVqf7qjGvhUx) | [Łukasz Borowicki](https://open.spotify.com/artist/6CQ2Tz7zmnD0aibHMs3TFl), [Mariusz Praśniewski](https://open.spotify.com/artist/3TAGTar9h3XhX7H2xhOurj), [Karol Domański](https://open.spotify.com/artist/2y3FvjLfLQFfnagWWj0F31) | [The World We Knew](https://open.spotify.com/album/2lTLo4fPtvKX8RVUTSrcou) | 4:42 | 2023-01-20 | 2023-02-08 |

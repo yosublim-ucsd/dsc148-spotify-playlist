@@ -4,7 +4,7 @@
 
 > What's new in rock\. Cover: ThxSoMch
 
-726 songs - 1 day 16 hr 19 min
+727 songs - 1 day 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,7 +279,8 @@
 | [Heaven Is Burning](https://open.spotify.com/track/2usxjQ8Kk6szxuNqmkt2DQ) | [Boston Levi](https://open.spotify.com/artist/79vEuP80p1FF0eoM7WzNiM) | [Heaven Is Burning](https://open.spotify.com/album/02KE9rm8hxI9EkXcUR1bdr) | 4:18 | 2023-09-15 | 2023-10-21 |
 | [Helen](https://open.spotify.com/track/346NOmo5mIW6qXDzXTbN5Y) | [Birds of Bellwoods](https://open.spotify.com/artist/3ZtRAJvBArlocyjPbm4Lvr) | [Everything You Want](https://open.spotify.com/album/2G4KIBuJnEqdA1pMmHkIEy) | 3:35 | 2023-02-10 | 2023-04-15 |
 | [hell USA](https://open.spotify.com/track/3sToV3GnrEYZGGqfZcT4yd) | [Smrtdeath](https://open.spotify.com/artist/4NYeChhB65zL0ywl4rHmSk) | [hell USA](https://open.spotify.com/album/1qdhrtyOKvQMO3hbFX9EbS) | 3:05 | 2023-07-28 | 2023-08-05 |
-| [Here On Out](https://open.spotify.com/track/1QItmrTZIyUqCSWjJG7C88) | [Royal Tusk](https://open.spotify.com/artist/122qG4lB9vG6XCjrwJPnRJ) | [Here On Out](https://open.spotify.com/album/0IhD8ltXKP4xDeFpvzXiMl) | 3:14 | 2023-12-01 |  |
+| [Here On Out](https://open.spotify.com/track/1QItmrTZIyUqCSWjJG7C88) | [Royal Tusk](https://open.spotify.com/artist/122qG4lB9vG6XCjrwJPnRJ) | [Here On Out](https://open.spotify.com/album/0IhD8ltXKP4xDeFpvzXiMl) | 3:14 | 2023-12-01 | 2023-12-24 |
+| [Here On Out](https://open.spotify.com/track/1rnL6SaycJbCX17NtfhAay) | [Royal Tusk](https://open.spotify.com/artist/122qG4lB9vG6XCjrwJPnRJ) | [Here On Out](https://open.spotify.com/album/56mhqAkmy61fc7XDi9jNsq) | 3:14 | 2023-12-22 |  |
 | [HFCS](https://open.spotify.com/track/63VHx8tUH1i0jhNMg70RQu) | [PACKS](https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm) | [HFCS](https://open.spotify.com/album/64oj7ISM19J8FbG03B10Mh) | 2:22 | 2023-11-17 |  |
 | [High Time](https://open.spotify.com/track/31fVD0q2ooBFCa2DT3PjBr) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [High Time](https://open.spotify.com/album/00neLJxSSvcyqcy97jviyn) | 3:54 | 2023-02-10 | 2023-03-04 |
 | [History](https://open.spotify.com/track/4MWKhUasdUFoxsOc9w1Feq) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Lord of the Flies & Birds & Bees](https://open.spotify.com/album/5TzqZ5xIvHdUWrcp8xIYtj) | 3:23 | 2023-10-20 | 2023-12-09 |

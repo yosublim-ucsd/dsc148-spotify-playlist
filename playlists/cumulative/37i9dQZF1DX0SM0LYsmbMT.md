@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,925 songs - 6 day 6 hr 10 min
+3,927 songs - 6 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1463,6 +1463,7 @@
 | [Honeydew](https://open.spotify.com/track/1hbHXbiiTFYTdepJpbpiBK) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Eske](https://open.spotify.com/artist/0KMz5qZIZekZPfPUfwo2y9), [Garo](https://open.spotify.com/artist/2mDy8qGRydJwedzm47Ciqr) | [Honeydew](https://open.spotify.com/album/1Qu5zbvZX7R1tcPHSEtlGG) | 2:26 | 2021-12-17 | 2022-07-01 |
 | [Hoody Allen](https://open.spotify.com/track/0dADUiNsDP1Os9bYAuEL2D) | [Dabey](https://open.spotify.com/artist/5PlbCXGclhKsbKfOtuzmVM), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Hoody Allen](https://open.spotify.com/album/1osOj1I6vVQr2LUlss92Xt) | 2:34 | 2021-01-29 | 2021-05-28 |
 | [Hook Up \- Instrumental](https://open.spotify.com/track/45vkCCNZVFqxk2RThqpe1Y) | [Kuchenmann](https://open.spotify.com/artist/3t68oahCiTB0Dat0rhHVLW), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Hook Up](https://open.spotify.com/album/2pynidpCBkQFaH3XVwykzm) | 2:27 | 2020-06-05 | 2020-08-07 |
+| [Hope](https://open.spotify.com/track/798xA6Nh36kCeElGeuTHtq) | [Josa](https://open.spotify.com/artist/2BUX6bhQxzfkO4CH8dmwQp) | [Hope](https://open.spotify.com/album/2N5gf9IqhA8Wq7LpgsbShl) | 2:21 | 2023-12-21 |  |
 | [Hope](https://open.spotify.com/track/0jXpKI2b7ZL8wCwY3IP5qA) | [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x), [DECAP](https://open.spotify.com/artist/0YNQuoFHti0UjsFm94aaXL) | [Hope](https://open.spotify.com/album/79ev9Q1ACQmC7c1nlcR6TI) | 2:17 | 2021-07-31 | 2021-08-27 |
 | [Hopeful](https://open.spotify.com/track/1QiMh9bqgpv4ePfcld40Hn) | [Sleepdealer](https://open.spotify.com/artist/0kVNa1qBak8arcwcUeLu90) | [Hopeful](https://open.spotify.com/album/3uZO3qHEya4d4hp4aqnB9S) | 2:28 | 2021-04-02 | 2021-05-14 |
 | [hopeless romantic](https://open.spotify.com/track/59uNjjTMOpJ2aDGvI520dP) | [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN) | [hopeless romantic](https://open.spotify.com/album/06Zui1ZYc4WtMEjhfkQxN5) | 1:23 | 2021-08-20 | 2021-12-03 |
@@ -1665,6 +1666,7 @@
 | [Jazzy Winter Walk](https://open.spotify.com/track/1d8RsHZA7fwuYwuLQvwqWv) | [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT) | [Jazzy Winter Walk](https://open.spotify.com/album/2QDjxXenYhkds0Z9Vi2pB7) | 2:20 | 2023-11-23 | 2023-12-15 |
 | [Je te souhaite le meilleur](https://open.spotify.com/track/18I15jiydUoqA9UR1aFTgi) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [Je te souhaite le meilleur](https://open.spotify.com/album/6gpYzNzqPr3nuOppCZTEtm) | 2:15 | 2023-08-31 |  |
 | [Jean Baptiste Emanuel Suff](https://open.spotify.com/track/3uvzkqKyvoT3iQgYcI76aV) | [Suff Daddy](https://open.spotify.com/artist/7BYXrz5LhCrix6A3EwPvU0) | [Basically Sober](https://open.spotify.com/album/4JFDTd7IwFlJIPl5tPKu6i) | 2:30 | 2022-02-24 | 2022-03-13 |
+| [jeep](https://open.spotify.com/track/74QVwX6fjyS88E3WywI9NA) | [Zonyo](https://open.spotify.com/artist/3et29OiPwxHluj9q2w4g5b) | [jeep](https://open.spotify.com/album/3SZNhX6P0hkZY48D0nfEVL) | 1:49 | 2023-12-21 |  |
 | [Jehzz](https://open.spotify.com/track/170ZmbYgGk5kSb0WwFarSS) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84) | [Jehzz](https://open.spotify.com/album/3W3iaK253n1jdghHkeOLLn) | 2:22 | 2023-03-30 | 2023-05-19 |
 | [Jellyfish](https://open.spotify.com/track/43S5TrG3ZjOY6H1Rfs8CIr) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Jellyfish](https://open.spotify.com/album/6UgoxKi7PHu0OyzgsmvyCv) | 2:05 | 2020-12-01 | 2021-06-04 |
 | [Jenny](https://open.spotify.com/track/427rxtaHoEgfY7fSAZ4kv9) | [Jade](https://open.spotify.com/artist/2J3IMRzXJBBV2OrlGeGRvl) | [Jenny](https://open.spotify.com/album/1hqYfDDr80EHuNvrj381D3) | 1:30 | 2019-05-26\* | 2019-08-13 |
@@ -1693,7 +1695,7 @@
 | [Juicy Season](https://open.spotify.com/track/1gLtUr8YdAPvKfRyCWWHxH) | [Candy Kid](https://open.spotify.com/artist/6F3zmVi9MNIbt1oZcl2ebw) | [Juicy Season](https://open.spotify.com/album/3TD7iWLllNJg0QgrUFrbvO) | 2:32 | 2021-01-27 | 2021-06-11 |
 | [JuJu FM](https://open.spotify.com/track/1PCGyCH7P1uIVCzMUG4lZc) | [Mr Mantega](https://open.spotify.com/artist/367E3x81QkJ0luGzpk8pqj) | [JuJu FM](https://open.spotify.com/album/7Igk7gR99DvamPRe2TCyDS) | 2:29 | 2020-04-18 | 2020-06-16 |
 | [July \- Balloona](https://open.spotify.com/track/34spe7AN0kfuw7TbO3zmpz) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [July \- Balloona](https://open.spotify.com/album/5fXcBPomn6OoNIzbN5KKfy) | 3:25 | 2019-08-02 | 2020-01-15 |
-| [Jumping Saxx](https://open.spotify.com/track/6gutPw9mIyl2U9YlNk0DgK) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Jumping Saxx](https://open.spotify.com/album/3JyMBj5AdOWlJnDYtaJKb7) | 2:31 | 2023-12-01 |  |
+| [Jumping Saxx](https://open.spotify.com/track/6gutPw9mIyl2U9YlNk0DgK) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Jumping Saxx](https://open.spotify.com/album/3JyMBj5AdOWlJnDYtaJKb7) | 2:31 | 2023-12-01 | 2023-12-24 |
 | [Junami](https://open.spotify.com/track/3nYrPIYlhbkUCqPEyhY3Pj) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra) | [Junami](https://open.spotify.com/album/6IF9gMIW8eUvrF6WFj6ARx) | 2:17 | 2022-05-05 | 2022-09-23 |
 | [June](https://open.spotify.com/track/7Hdv1ksjckBo3ntsQfJWPy) | [Lilac](https://open.spotify.com/artist/3wKV11EdqfY7lFaUeDUEC1) | [June](https://open.spotify.com/album/3scnq51ovIuwX0JmKlZTvj) | 2:08 | 2019-06-08 | 2019-10-25 |
 | [Juniper](https://open.spotify.com/track/3JKiwkPOJVPs8KqrSXM69a) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Juniper](https://open.spotify.com/album/4PoqWidhdoLutHZ5LoUxVU) | 2:57 | 2019-06-03 | 2019-08-13 |
@@ -2453,7 +2455,7 @@
 | [One Too Many](https://open.spotify.com/track/3GWwIi7gE3hunEcI9Ibq2s) | [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [One Too Many](https://open.spotify.com/album/6WZFZBCIN83SrkMHnz5Kbb) | 2:50 | 2022-09-22 | 2022-10-22 |
 | [One4Milana](https://open.spotify.com/track/4PtgQogxuproyBHL5CIl8L) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [One4Milana](https://open.spotify.com/album/7dhQNCuBrpTiwnOtZ4dbcc) | 2:15 | 2023-10-26 |  |
 | [One4Winter](https://open.spotify.com/track/3XLOnz8xAlxTqVPSjy6mKr) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [One4Winter](https://open.spotify.com/album/4PgSskTm3qbJGWRaMqWvWe) | 2:06 | 2020-02-11 | 2020-05-16 |
-| [Only](https://open.spotify.com/track/5qy2fUx0Qy6Cz3gEYWPX0I) | [Damn Homies](https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7) | [Passenger](https://open.spotify.com/album/5cbkT2l0tHfx3Ru3afBLlk) | 2:35 | 2023-12-14 |  |
+| [Only](https://open.spotify.com/track/5qy2fUx0Qy6Cz3gEYWPX0I) | [Damn Homies](https://open.spotify.com/artist/3oNxrt290hm3HcMTqPi5L7) | [Passenger](https://open.spotify.com/album/5cbkT2l0tHfx3Ru3afBLlk) | 2:35 | 2023-12-14 | 2023-12-24 |
 | [Only U](https://open.spotify.com/track/7yreXQEtpHaQvNbohYldMu) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [Only U](https://open.spotify.com/album/1u7qylY1EDGOVtULtvT4Ju) | 1:09 | 2021-09-10 | 2021-10-20 |
 | [Ontem](https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs) | [Ontem](https://open.spotify.com/album/5ezHGivGiyMLQ7CthbHBWy) | 2:15 | 2021-07-25 | 2021-08-13 |
 | [Oolong](https://open.spotify.com/track/7oHq8ccTR9MuxNJmNzVGJD) | [Macem Ly](https://open.spotify.com/artist/73vYL25O91Vg80WBvkEa7K) | [Oolong](https://open.spotify.com/album/6IVheMZxiEHAc5xCNK8Qki) | 2:36 | 2022-02-17 | 2022-03-25 |

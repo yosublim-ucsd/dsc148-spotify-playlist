@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgq0lsW8B2O.md) - [plain]
 
 > Music from the early days of Ambient.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,535 likes - 46 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,577 likes - 46 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,17 +33,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgq0lsW8B2O.md) - [plain]
 | 23 | [Last Not Least](https://open.spotify.com/track/4msoPisSMcp5m46BF36Hvy) | [Klaus Schulze](https://open.spotify.com/artist/3U2U4TR03ZuStsizrv0EJB) | [La Vie Electronique, Vol\. 2](https://open.spotify.com/album/1yZOrl7EsWSLgX0VZ05Qq8) | 7:01 |
 | 24 | [Ecstasy](https://open.spotify.com/track/4s0itPf6pmVOv0tERWnKo1) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Ecstasy](https://open.spotify.com/album/7eUVATOftzWOtfIGKPvx8S) | 11:53 |
 | 25 | [Blues Nile](https://open.spotify.com/track/5LUKpbfB65O9GElkJeJZXh) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy) | 9:54 |
-| 26 | [Wind On Water](https://open.spotify.com/track/3PpLfTKoQtN2s2GPmrSrWt) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 5:29 |
+| 26 | [Wind On Water](https://open.spotify.com/track/6CHo2rZCwJ5v6JKLzdc8Fe) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/1nVnbkq96iZzBMp57Xzx1V) | 5:29 |
 | 27 | [Für Luise](https://open.spotify.com/track/2LwDYNc1Jdr0YdGgCD9yZA) | [Cluster](https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Cluster & Eno](https://open.spotify.com/album/0VSmGsL1RtyjE7bdAaSAvy) | 3:26 |
 | 28 | [Turó Park](https://open.spotify.com/track/5zmFlMg8bb043U5GXEgTZR) | [Neuronium](https://open.spotify.com/artist/4rs4oFrQ8IvFWoLv1vGGkC) | [Quasar 2C361 / Ultimate edition](https://open.spotify.com/album/24KaFIYNqXoUdORaA03t7b) | 4:20 |
 | 29 | [Aries](https://open.spotify.com/track/33Y2YALzXqMQtBVSDcHOof) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Inter\-Dimensional Music](https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr) | 1:31 |
 | 30 | [Discreet Music \- Remastered 2004](https://open.spotify.com/track/69eD0IfAqEIUnKX63Npksy) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Discreet Music](https://open.spotify.com/album/7b67MKOwyj7mIcEVnoJSOG) | 31:34 |
 | 31 | [La mer recommencée \- Remastered](https://open.spotify.com/track/2E5pG7BvL5miMCqe3xNORg) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [L'apocalypse des animaux \(Remastered\)](https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD) | 5:54 |
-| 32 | [An Index Of Metals V](https://open.spotify.com/track/6eoQETbC7HlbRUOSQg5rHB) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 4:23 |
+| 32 | [An Index Of Metals V](https://open.spotify.com/track/4dRt8t0VYP8LgobA1QWUvX) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/1nVnbkq96iZzBMp57Xzx1V) | 4:23 |
 | 33 | [Moon\-Light](https://open.spotify.com/track/32Qa5p0zqBIC5VEYK5ReHD) | [Kitaro](https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY) | [Oasis \[Remastered\]](https://open.spotify.com/album/3jjaMGNHEM7I4PyzryqmbA) | 3:34 |
 | 34 | [Garden Of Paradise \- 2006 Digital Remaster](https://open.spotify.com/track/2LFvHkgLws1Qb6kQA1CQHi) | [Steve Hillage](https://open.spotify.com/artist/4ruO9Y424Hf796fUGMLKcC) | [Rainbow Dome Musick](https://open.spotify.com/album/67m5VTJCEDpxDz5WH2upcz) | 23:14 |
 | 35 | [Ancient Leaves](https://open.spotify.com/track/1XWKSNngAvp3hs6w3cFWAs) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Collected Ambient & Textural Works 1977\-1987](https://open.spotify.com/album/0qTBGDCJp6R5BraUlhZlXq) | 4:35 |
-| 36 | [The Heavenly Music Corporation I](https://open.spotify.com/track/4jtmi6X0S8GcPZv7rsqXaL) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [No Pussyfooting](https://open.spotify.com/album/3gHpX5wJn0kzAXJvwORG6u) | 6:17 |
+| 36 | [The Heavenly Music Corporation I](https://open.spotify.com/track/69mvqf8XQoldmh6RLcvEjb) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [No Pussyfooting](https://open.spotify.com/album/7090pUnNlv1lklI2lI2X6J) | 6:17 |
 | 37 | [Rubycon \- Extended Introduction](https://open.spotify.com/track/2GaP0vbAfvycEjeAbeddDa) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Rubycon \(Deluxe Version\)](https://open.spotify.com/album/5vHDwkXdVRGHTCpc5is4Vo) | 15:04 |
 | 38 | [Borkenkind](https://open.spotify.com/track/1L061cNbIeJy2ElX3wibGF) | [Stephan Micus](https://open.spotify.com/artist/2il0YNVHfuMhPsacyGiGzj) | [Implosions](https://open.spotify.com/album/281XqYzKBklgLJKNV1H2ah) | 7:15 |
 | 39 | [Performance One \- Part 1](https://open.spotify.com/track/3dtqIffw4K0rtnRWP0NSUA) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Persian Surgery Dervishes](https://open.spotify.com/album/384KUChoVOU4SsDyWkbhOH) | 20:49 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgq0lsW8B2O.md) - [plain]
 | 45 | [Tribal Secret](https://open.spotify.com/track/5kM7RxjXVATfazOdFkcPJt) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Earthquake Island](https://open.spotify.com/album/5ZEnEV4z7ReTohEwubgImu) | 3:52 |
 | 46 | [2/1 \- Remastered 2004](https://open.spotify.com/track/1Qr6LFKNBFNNa2y6nMDO31) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 8:54 |
 
-Snapshot ID: `MCxiNmEzODQ1NjY2N2FmMDZhY2IzMTU2YTdmNzQzZjVhNGU5NDkxZmQ1`
+Snapshot ID: `MCwxNWQzMWE0ZWEyODdjOGI4YWYyN2RlYzRkZTJiNGZjMzBmZjZlMDRl`

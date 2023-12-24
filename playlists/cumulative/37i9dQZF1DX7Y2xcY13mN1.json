@@ -1384,7 +1384,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 255400,
       "name": "Whiskey In The Jar",
       "url": "https://open.spotify.com/track/5rGF96eFDF8u5cAZgG8fUD"
@@ -1410,6 +1410,28 @@
       "duration_ms": 255400,
       "name": "Whiskey In The Jar",
       "url": "https://open.spotify.com/track/69BhgVzGUe3V4QMFekmttL"
+    },
+    {
+      "album": {
+        "name": "Shady Grove",
+        "url": "https://open.spotify.com/album/4TzjXblEhAFlROlaSD5UN0"
+      },
+      "artists": [
+        {
+          "name": "Jerry Garcia",
+          "url": "https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN"
+        },
+        {
+          "name": "David Grisman",
+          "url": "https://open.spotify.com/artist/5udgy2xk333j33hKnwDz8O"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255400,
+      "name": "Whiskey In The Jar",
+      "url": "https://open.spotify.com/track/7C8LYd0gWShnWlVtJkfyu4"
     },
     {
       "album": {

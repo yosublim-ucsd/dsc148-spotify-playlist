@@ -1,12 +1,12 @@
 {
   "description": "Island life vibes \u2728 Relajados y disfrutando la vida con musiquita linda de fondo.",
-  "num_followers": 12598,
+  "num_followers": 12614,
   "original_name": "Alma Libre",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODdkMDczMTJmZDBkYmM5ZjlhYTQ4ZDFjYTRkYmE5ZGVjMjIzYWE2",
+  "snapshot_id": "MCwyOGUzY2E0ZGMzYjZjMDE4YjQ5MzJmYjMzYTA0ZGI5M2U2N2U2YTk4",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -79,22 +79,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "El Tiempo Locura Todo",
-        "url": "https://open.spotify.com/album/2dlQczNA78nEuIY8KOWfrp"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 193186,
-      "name": "Pru\u00e9bame a Ti",
-      "url": "https://open.spotify.com/track/10rzSpg3kTFSr5e5tFy60A"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Grecia",
         "url": "https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 200118,
       "name": "Grecia",
       "url": "https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "El Tiempo Locura Todo",
+        "url": "https://open.spotify.com/album/2dlQczNA78nEuIY8KOWfrp"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 193186,
+      "name": "Pru\u00e9bame a Ti",
+      "url": "https://open.spotify.com/track/10rzSpg3kTFSr5e5tFy60A"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Cande y Paulo",
-        "url": "https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg"
-      },
-      "artists": [
-        {
-          "name": "Cande y Paulo",
-          "url": "https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1"
-        }
-      ],
-      "duration_ms": 226658,
-      "name": "I Fall In Love Too Easily",
-      "url": "https://open.spotify.com/track/5KX9xXNC0MlBQLgHw0HOC1"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Triste Pero Fresh",
         "url": "https://open.spotify.com/album/1Tckecb6OWb7UaZRakuyel"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 181689,
       "name": "Bolerito Sad",
       "url": "https://open.spotify.com/track/5QmGrwScqr4hWk2U3SNUUm"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Cande y Paulo",
+        "url": "https://open.spotify.com/album/5bdHY0adQ8GNFOa5PdgAVg"
+      },
+      "artists": [
+        {
+          "name": "Cande y Paulo",
+          "url": "https://open.spotify.com/artist/305J40TcfZv1ntw9RI6dc1"
+        }
+      ],
+      "duration_ms": 226658,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/5KX9xXNC0MlBQLgHw0HOC1"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "En Otra Vida",
-        "url": "https://open.spotify.com/album/6krx2ErzaeocE6TXn7JglP"
-      },
-      "artists": [
-        {
-          "name": "RIZA",
-          "url": "https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1"
-        }
-      ],
-      "duration_ms": 186200,
-      "name": "En Otra Vida",
-      "url": "https://open.spotify.com/track/6jxwnoSEnnhmPWqCylbyEH"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
         "name": "Cuando Los Ac\u00e9falos Predominan",
         "url": "https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 329275,
       "name": "En Tu Mar",
       "url": "https://open.spotify.com/track/4a7wgmHW4wn7NEeAetauZD"
+    },
+    {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "En Otra Vida",
+        "url": "https://open.spotify.com/album/6krx2ErzaeocE6TXn7JglP"
+      },
+      "artists": [
+        {
+          "name": "RIZA",
+          "url": "https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1"
+        }
+      ],
+      "duration_ms": 186200,
+      "name": "En Otra Vida",
+      "url": "https://open.spotify.com/track/6jxwnoSEnnhmPWqCylbyEH"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1151,22 +1151,18 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/7oBjTSSK15OF6X5kFJJugd"
+        "name": "Despierta",
+        "url": "https://open.spotify.com/album/5XT45gWLliUZ1HjnQaZfS3"
       },
       "artists": [
         {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        },
-        {
-          "name": "Nella",
-          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
+          "name": "Esot\u00e9rica Tropical",
+          "url": "https://open.spotify.com/artist/6XMptgUrnAltqp1lXz7vCs"
         }
       ],
-      "duration_ms": 279840,
-      "name": "Libre",
-      "url": "https://open.spotify.com/track/6zmlvhQshwFBAIpOOAEVfb"
+      "duration_ms": 180530,
+      "name": "Despierta",
+      "url": "https://open.spotify.com/track/2bPr8EZng6sAPnjp2qoPEV"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1191,18 +1187,22 @@
     {
       "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Despierta",
-        "url": "https://open.spotify.com/album/5XT45gWLliUZ1HjnQaZfS3"
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/7oBjTSSK15OF6X5kFJJugd"
       },
       "artists": [
         {
-          "name": "Esot\u00e9rica Tropical",
-          "url": "https://open.spotify.com/artist/6XMptgUrnAltqp1lXz7vCs"
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        },
+        {
+          "name": "Nella",
+          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
         }
       ],
-      "duration_ms": 180530,
-      "name": "Despierta",
-      "url": "https://open.spotify.com/track/2bPr8EZng6sAPnjp2qoPEV"
+      "duration_ms": 279840,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/6zmlvhQshwFBAIpOOAEVfb"
     },
     {
       "added_at": "2023-11-24 05:00:00",

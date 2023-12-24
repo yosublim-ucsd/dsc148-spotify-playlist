@@ -1,12 +1,12 @@
 {
   "description": "Taking you back to your favourite hall party classics from the Afrobeat scene.",
-  "num_followers": 136630,
+  "num_followers": 136801,
   "original_name": "Timeless Afro ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjkzN2FmOTZkNTYzZDE5Yjk1N2NlNTUzYTUzN2RhNWMwYmQ5ZmU4",
+  "snapshot_id": "MCw0ZTlhMzE5ZGEwMjVhZWI5OWY0MzdlNjk5YmIyZGY4MzAwOGFlOTdj",
   "tracks": [
     {
       "added_at": "2020-11-06 13:21:21",
@@ -227,6 +227,26 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
+        "name": "Refuse to Be Broke: Da Revolution 2",
+        "url": "https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 261545,
+      "name": "Slow Down (feat. Wiz Kid)",
+      "url": "https://open.spotify.com/track/4voOsb8qpJ569JaMiGAyrl"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
         "name": "On A Spaceship",
         "url": "https://open.spotify.com/album/6NW4thIIMVcb6Wedxqu6ev"
       },
@@ -255,26 +275,6 @@
       "duration_ms": 218426,
       "name": "Yori Yori",
       "url": "https://open.spotify.com/track/1zPbuWCj1bx0MyDUdFnTF8"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
-        "name": "Adonai (Remix) [feat. Castro]",
-        "url": "https://open.spotify.com/album/4xXYqG9l4l7XmuxrNebCyY"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Castro",
-          "url": "https://open.spotify.com/artist/030V4chwvYtlwnEfrA3oh3"
-        }
-      ],
-      "duration_ms": 288130,
-      "name": "Adonai (Remix) [feat. Castro]",
-      "url": "https://open.spotify.com/track/6y4nqlHb6WXmHkv3Pa7n3P"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -315,22 +315,22 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Refuse to Be Broke: Da Revolution 2",
-        "url": "https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7"
+        "name": "Adonai (Remix) [feat. Castro]",
+        "url": "https://open.spotify.com/album/4xXYqG9l4l7XmuxrNebCyY"
       },
       "artists": [
         {
-          "name": "R2Bees",
-          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Castro",
+          "url": "https://open.spotify.com/artist/030V4chwvYtlwnEfrA3oh3"
         }
       ],
-      "duration_ms": 261545,
-      "name": "Slow Down (feat. Wiz Kid)",
-      "url": "https://open.spotify.com/track/4voOsb8qpJ569JaMiGAyrl"
+      "duration_ms": 288130,
+      "name": "Adonai (Remix) [feat. Castro]",
+      "url": "https://open.spotify.com/track/6y4nqlHb6WXmHkv3Pa7n3P"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -503,22 +503,18 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Da Revolution",
-        "url": "https://open.spotify.com/album/7ktDNtO5MfU9eRaVd9xQt4"
+        "name": "Gongo Aso",
+        "url": "https://open.spotify.com/album/4Lkl7erFMkTHWmkdSmEpj3"
       },
       "artists": [
         {
-          "name": "R2Bees",
-          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+          "name": "9ice",
+          "url": "https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH"
         }
       ],
-      "duration_ms": 268213,
-      "name": "Kiss Your Hand (feat. Wande Coal)",
-      "url": "https://open.spotify.com/track/0TDFU3SY7Z7l74c7M7kJFO"
+      "duration_ms": 216266,
+      "name": "Gongo Aso",
+      "url": "https://open.spotify.com/track/2uRYQDCdF76L5YNZflN8qK"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -563,18 +559,22 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Gongo Aso",
-        "url": "https://open.spotify.com/album/4Lkl7erFMkTHWmkdSmEpj3"
+        "name": "Da Revolution",
+        "url": "https://open.spotify.com/album/7ktDNtO5MfU9eRaVd9xQt4"
       },
       "artists": [
         {
-          "name": "9ice",
-          "url": "https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH"
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
         }
       ],
-      "duration_ms": 216266,
-      "name": "Gongo Aso",
-      "url": "https://open.spotify.com/track/2uRYQDCdF76L5YNZflN8qK"
+      "duration_ms": 268213,
+      "name": "Kiss Your Hand (feat. Wande Coal)",
+      "url": "https://open.spotify.com/track/0TDFU3SY7Z7l74c7M7kJFO"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
+        "name": "After the Storm",
+        "url": "https://open.spotify.com/album/6ZFfg3kkBnOK1JKFrVsBm6"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "duration_ms": 229093,
+      "name": "Hol' It",
+      "url": "https://open.spotify.com/track/1BQHtfaLM0aLBYChMtDGTv"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
         "name": "Igwe",
         "url": "https://open.spotify.com/album/0kN8GGxxSjyUWMnkXVzywG"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 255712,
       "name": "Yahooze",
       "url": "https://open.spotify.com/track/5uQdQMW0TshEPngJC0pPSg"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
-        "name": "After the Storm",
-        "url": "https://open.spotify.com/album/6ZFfg3kkBnOK1JKFrVsBm6"
-      },
-      "artists": [
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        }
-      ],
-      "duration_ms": 229093,
-      "name": "Hol' It",
-      "url": "https://open.spotify.com/track/1BQHtfaLM0aLBYChMtDGTv"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "Thanks Giving",
-        "url": "https://open.spotify.com/album/373gb0j44PcEDNnvZeDn6s"
-      },
-      "artists": [
-        {
-          "name": "Bisa Kdei",
-          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
-        }
-      ],
-      "duration_ms": 220020,
-      "name": "Azonto Ghost",
-      "url": "https://open.spotify.com/track/0ygTK8RCFVhyOKUNG1n4jz"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "Baby (Chop Kiss)",
         "url": "https://open.spotify.com/album/3vC6WJatACMOOusT2ZjPGW"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 198973,
       "name": "Baby (Chop Kiss)",
       "url": "https://open.spotify.com/track/28GS7SZV0MOQxX7iafzAyK"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "Thanks Giving",
+        "url": "https://open.spotify.com/album/373gb0j44PcEDNnvZeDn6s"
+      },
+      "artists": [
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        }
+      ],
+      "duration_ms": 220020,
+      "name": "Azonto Ghost",
+      "url": "https://open.spotify.com/track/0ygTK8RCFVhyOKUNG1n4jz"
     },
     {
       "added_at": "2020-11-06 13:21:21",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2020-11-06 13:21:21",
       "album": {
-        "name": "The Thing",
-        "url": "https://open.spotify.com/album/06nSQsDNTe1NNBeJvsC28n"
-      },
-      "artists": [
-        {
-          "name": "Drumz",
-          "url": "https://open.spotify.com/artist/4fGcqONONvUtBpp8G84u7s"
-        }
-      ],
-      "duration_ms": 292531,
-      "name": "The Thing",
-      "url": "https://open.spotify.com/track/405XbnXle3IZ5Aj2bZT3Nu"
-    },
-    {
-      "added_at": "2020-11-06 13:21:21",
-      "album": {
         "name": "Wanted",
         "url": "https://open.spotify.com/album/6fSgSpssVi7fMqMXhxGcbL"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 242448,
       "name": "Amorawa - Bonus Track",
       "url": "https://open.spotify.com/track/1XD2smsByGKUCgHhyZyVtF"
+    },
+    {
+      "added_at": "2020-11-06 13:21:21",
+      "album": {
+        "name": "The Thing",
+        "url": "https://open.spotify.com/album/06nSQsDNTe1NNBeJvsC28n"
+      },
+      "artists": [
+        {
+          "name": "Drumz",
+          "url": "https://open.spotify.com/artist/4fGcqONONvUtBpp8G84u7s"
+        }
+      ],
+      "duration_ms": 292531,
+      "name": "The Thing",
+      "url": "https://open.spotify.com/track/405XbnXle3IZ5Aj2bZT3Nu"
     }
   ],
   "unique_name": "Timeless Afro ",

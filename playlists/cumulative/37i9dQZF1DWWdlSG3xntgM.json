@@ -3364,7 +3364,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 321040,
       "name": "Tr\u0103ng t\u00e0n tr\u00ean h\u00e8 ph\u1ed1",
       "url": "https://open.spotify.com/track/2M4sGZZOSakycaEI5YZdEt"
@@ -3890,6 +3890,24 @@
       "duration_ms": 302505,
       "name": "Xin G\u1ecdi Nhau L\u00e0 C\u1ed1 Nh\u00e2n",
       "url": "https://open.spotify.com/track/3B8HhgtNJfhomdlASRAcTe"
+    },
+    {
+      "album": {
+        "name": "S\u1ea7u L\u1ebb B\u00f3ng (Asia 023)",
+        "url": "https://open.spotify.com/album/6hey39MLiZZbXYk8e9HbeO"
+      },
+      "artists": [
+        {
+          "name": "T\u00e2m \u0110oan",
+          "url": "https://open.spotify.com/artist/009DchB833vqAeN8v5zE4O"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247360,
+      "name": "Xin g\u1ecdi nhau l\u00e0 c\u1ed1 nh\u00e2n",
+      "url": "https://open.spotify.com/track/1PZ8lS5NZC3e6J1grnzfJG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover:LEEWOO\(이우\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,116 songs - 3 day 0 hr 16 min
+1,117 songs - 3 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -839,7 +839,7 @@
 | [Still I miss you](https://open.spotify.com/track/7wernZE5R61X4HtWD1aBhs) | [KIM KI TAE](https://open.spotify.com/artist/1neQgeyH87u1WiArgIv0nI) | [Still I miss you](https://open.spotify.com/album/2i4UOo0Yr9vEzySpsyVj4v) | 4:08 | 2023-03-21 | 2023-07-08 |
 | [Still Our Love Continue \(My love X KYUHYUN, Jeong Eun Ji\)](https://open.spotify.com/track/5Q4TkZMBO5LKcI7wqbla8V) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln), [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Still Our Love Continue \(My love X KYUHYUN, Jeong Eun Ji\)](https://open.spotify.com/album/2lZHUTDqiVgw0Dk8eXWn9Z) | 4:20 | 2023-07-07 | 2023-10-20 |
 | [Still You](https://open.spotify.com/track/7pIpkUJOiFghCDLxono6qC) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Romantic Doctor 3 OST Part.4](https://open.spotify.com/album/76EcPCpVlaS2IJWTuQgGmf) | 3:49 | 2023-07-17 | 2023-11-16 |
-| [Stranger \(Feat\. 10cm\)](https://open.spotify.com/track/0HrV0lDKAI2TGSpJNX358K) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Last Winter](https://open.spotify.com/album/41vj1sO4NJFriquGszDSh5) | 3:21 | 2023-12-08 |  |
+| [Stranger \(Feat\. 10cm\)](https://open.spotify.com/track/0HrV0lDKAI2TGSpJNX358K) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Last Winter](https://open.spotify.com/album/41vj1sO4NJFriquGszDSh5) | 3:21 | 2023-12-08 |  |
 | [Stupid Love](https://open.spotify.com/track/3GpaewakLswMXhewU2sSxp) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [Stupid Love](https://open.spotify.com/album/4xrlOySL3LbQROUb760PDJ) | 4:25 | 2022-10-13 | 2023-01-21 |
 | [such a man](https://open.spotify.com/track/3W1gtxKzKQR4fufWXZ670j) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [such a man](https://open.spotify.com/album/1WbRJyCcnFkHAVCj2hOnUW) | 4:23 | 2022-07-07 | 2022-09-30 |
 | [Such a thing](https://open.spotify.com/track/1YR0ivxbjdQBzp3eYP3p3z) | [Park Min Hye](https://open.spotify.com/artist/0rFLNocK3XicCj7JZs63h4) | [Such a thing](https://open.spotify.com/album/4l29ZCHanvEhGA5xZdPZDK) | 4:26 | 2022-07-07 | 2022-08-13 |
@@ -881,7 +881,8 @@
 | [The day we broke up](https://open.spotify.com/track/2ry6V0XvWpEugIWVq4YEVg) | [Lee A Young](https://open.spotify.com/artist/5FpU6Sx82VSTvnoxtbVv6q) | [The day we broke up](https://open.spotify.com/album/2fVDu45mIJtxBZKBAQwy3d) | 3:17 | 2023-08-31 | 2023-11-03 |
 | [The Days We Loved](https://open.spotify.com/track/4cP9dl3mgXIMoX7BcXeVUe) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [The World of the Married, Pt.6 \(Original Television SoundTrack\)](https://open.spotify.com/album/2CA8HkbB26gmzF1KCr5f70) | 4:01 | 2022-03-29 | 2022-04-17 |
 | [The days we were us](https://open.spotify.com/track/0ePTSwGDAWLKhDrbIzb8Qb) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [The days we were us](https://open.spotify.com/album/7vvtZbiMrqKELCfimoAP12) | 4:06 | 2022-11-22 | 2023-01-21 |
-| [the different way](https://open.spotify.com/track/1ajbBbe73q6D6KbY4YuRwC) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz) | [SHE](https://open.spotify.com/album/0iRDF7wPErnrRDaL0XpRZw) | 3:37 | 2023-12-21 |  |
+| [the different way](https://open.spotify.com/track/1ajbBbe73q6D6KbY4YuRwC) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz) | [SHE](https://open.spotify.com/album/0iRDF7wPErnrRDaL0XpRZw) | 3:37 | 2023-12-21 | 2023-12-24 |
+| [the different way](https://open.spotify.com/track/4DWbNWDPmwahzwPtQN2Dtz) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz) | [SHE](https://open.spotify.com/album/7ru2skAL25CnTn4Y8Tg0QY) | 3:37 | 2023-12-21 |  |
 | [The fact that we broke up \(Feat\. Lee Yu Bin\)](https://open.spotify.com/track/4PIJlapmFh8ZXCpKPvdLlU) | [Dawn window](https://open.spotify.com/artist/5nIoYbALPbBGdyajpNGqTm), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [The fact that we broke up](https://open.spotify.com/album/3e00wKIxPpDz6ROLp6wTDP) | 3:49 | 2022-06-18 | 2022-08-19 |
 | [The first love \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 3\]](https://open.spotify.com/track/6DRQvyJXF7st78fCAn9bT7) | [YODAYOUNG](https://open.spotify.com/artist/3TE3mzbf7EouO9qVs7ja6w) | [The first love \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 3\]](https://open.spotify.com/album/0JzL8yKGTU8CxBmZRFFOmR) | 3:56 | 2021-12-23 | 2022-06-06 |
 | [The first moment](https://open.spotify.com/track/05qHfI61F95lluddfpyxk9) | [Jueun](https://open.spotify.com/artist/7n9JiWW3jLlSm7WGaIrD8U) | [Kokdu: Season of Deity \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/17YJmjOShQ9NtxffEX70U8) | 3:27 | 2023-03-15 | 2023-07-08 |

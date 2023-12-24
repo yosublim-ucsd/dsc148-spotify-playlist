@@ -1944,7 +1944,7 @@
     {
       "album": {
         "name": "Easy",
-        "url": "https://open.spotify.com/album/7GKX3h5NvbhW93BSoj8rw3"
+        "url": "https://open.spotify.com/album/0Af5TGXLXkTwAeMlfADgUi"
       },
       "artists": [
         {
@@ -1955,6 +1955,24 @@
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 245717,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1blOUnjI4cSL9IgCEbI2wm"
+    },
+    {
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/7GKX3h5NvbhW93BSoj8rw3"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
       "duration_ms": 245717,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2QMncvsysL74Zs8EHYWaCz"
@@ -3972,10 +3990,28 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 185617,
       "name": "LOVE AGAIN - Instrumental",
       "url": "https://open.spotify.com/track/3HlCC1C3oMLOn5khnK82PP"
+    },
+    {
+      "album": {
+        "name": "Smooth Jazz Renditions of Daniel Caesar (Instrumental)",
+        "url": "https://open.spotify.com/album/7KBY1S3EupqrUJzgTlx5iC"
+      },
+      "artists": [
+        {
+          "name": "Smooth Jazz All Stars",
+          "url": "https://open.spotify.com/artist/2ThUOWiiWP3YdZqs4WYNOi"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185617,
+      "name": "LOVE AGAIN - Instrumental",
+      "url": "https://open.spotify.com/track/6aw0UNb9YaocftqAwT4RTe"
     },
     {
       "album": {
@@ -7348,10 +7384,36 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 318578,
       "name": "Victoria Falls",
       "url": "https://open.spotify.com/track/4fudubz4Z7yzxrbn6Ytgnr"
+    },
+    {
+      "album": {
+        "name": "Victoria Falls",
+        "url": "https://open.spotify.com/album/3fYI1OMxP4ZkBRfklrnVWg"
+      },
+      "artists": [
+        {
+          "name": "Matthew Shell",
+          "url": "https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9"
+        },
+        {
+          "name": "Douglas Lira",
+          "url": "https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI"
+        },
+        {
+          "name": "Angie Nicole",
+          "url": "https://open.spotify.com/artist/5tZTqwfxy4zLaEWkVejTws"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318578,
+      "name": "Victoria Falls",
+      "url": "https://open.spotify.com/track/5bMOMAvO7ZgE3Nqij4plFk"
     },
     {
       "album": {

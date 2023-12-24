@@ -4,7 +4,7 @@
 
 > OPN takes us on a magical journey with the release of his new album "Again".
 
-47 songs - 3 hr 21 min
+48 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Cut Up Piano & Xylophone \- Remastered](https://open.spotify.com/track/1Ein8esT4WjvsYXSsa2wAJ) | [Fridge](https://open.spotify.com/artist/5g9s6dQAhse0qgjQOKQXHG) | [Happiness \(Anniversary Edition\)](https://open.spotify.com/album/248Bgo68wTNh9mCNNNYEfE) | 2:34 | 2023-10-23 |  |
 | [Darling Effect](https://open.spotify.com/track/0aHHMatRvp6oJdVzdxgHAD) | [Insides](https://open.spotify.com/artist/7oFNZi5wfNdERJPWeH3gmd) | [Euphoria](https://open.spotify.com/album/38TVnnFHcoPrVNheaR6Y7t) | 5:03 | 2023-10-23 |  |
 | [Die Dinge des Lebens](https://open.spotify.com/track/031TQHn8ICGcAKkOwWvMNG) | [To Rococo Rot](https://open.spotify.com/artist/0DRlmNJq133uYhzXxJfF3a) | [The Amateur View](https://open.spotify.com/album/5zXCkTQBeSfeSxEG82DRRM) | 4:56 | 2023-10-23 |  |
-| [Distance is Near](https://open.spotify.com/track/24v0izdu7vlwg6NZMpvKN4) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Empetus \(Deluxe\)](https://open.spotify.com/album/2l2N8dbG1jwSjp5Lxhnfc3) | 2:39 | 2023-10-23 |  |
+| [Distance is Near](https://open.spotify.com/track/0hsPMgd7WTG4RyYDsK1Pes) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Empetus \(Deluxe\)](https://open.spotify.com/album/5lNtJpNTrgKgCmzBrIAbVr) | 2:39 | 2023-10-23 |  |
+| [Distance is Near](https://open.spotify.com/track/24v0izdu7vlwg6NZMpvKN4) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Empetus \(Deluxe\)](https://open.spotify.com/album/2l2N8dbG1jwSjp5Lxhnfc3) | 2:39 | 2023-10-23 | 2023-12-24 |
 | [Eleven Eight](https://open.spotify.com/track/1kHLyQhgdqNJm7L6cCR2cj) | [Greg Davis](https://open.spotify.com/artist/4paVd8Xh0qCuX09r68eMMj) | [Arbor](https://open.spotify.com/album/6kpuSIEsLA5f48eZsMJeQq) | 3:52 | 2023-10-23 |  |
 | [Eternal Flow \- Remastered](https://open.spotify.com/track/5AxjFLGMCjpM5vnGqpXFxN) | [Amon Düül](https://open.spotify.com/artist/55dsk4BLNoDj7LDULOnA0i) | [Paradieswärts Düül](https://open.spotify.com/album/0hKzYRUxPYGRkbt583dyvi) | 4:11 | 2023-10-23 |  |
 | [Euphoric Bells](https://open.spotify.com/track/7oRL9WkY0OYuq0J2DHTF4s) | [Entourage Music and Theatre Ensemble](https://open.spotify.com/artist/5wBqUTjMtWj5Lx69jtIeIQ) | [The Neptune Collection](https://open.spotify.com/album/3KyQIwksWpkQrDwOjXw4jZ) | 3:04 | 2023-10-23 |  |

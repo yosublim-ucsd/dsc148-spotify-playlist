@@ -4,7 +4,7 @@
 
 > The biggest songs in today's Rock scene\. Cover: The Last Dinner Party
 
-740 songs - 1 day 18 hr 1 min
+741 songs - 1 day 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,7 +268,8 @@
 | [Head Up](https://open.spotify.com/track/4gewBWXN96LS6K71Cvr3oa) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Chrysalis](https://open.spotify.com/album/5pXpUs3iFvHtERCkLkrEIi) | 2:49 | 2021-12-31 | 2022-03-19 |
 | [Hellbound](https://open.spotify.com/track/1EXm3LiwvcJA9t4xA6kp1V) | [DYLYN](https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses) | [Hellbound](https://open.spotify.com/album/1kfFVkWbq62lKHWtW2yPj8) | 2:45 | 2022-01-07 | 2022-03-19 |
 | [Hello \(feat\. KennyHoopla\)](https://open.spotify.com/track/313EAgpDtxaqYhQMxaNUwk) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [Hello \(feat\. KennyHoopla\)](https://open.spotify.com/album/4Flmd6lR7yOZ1PLvRXOTVM) | 3:39 | 2023-07-28 |  |
-| [Here On Out](https://open.spotify.com/track/1QItmrTZIyUqCSWjJG7C88) | [Royal Tusk](https://open.spotify.com/artist/122qG4lB9vG6XCjrwJPnRJ) | [Here On Out](https://open.spotify.com/album/0IhD8ltXKP4xDeFpvzXiMl) | 3:14 | 2023-12-08 |  |
+| [Here On Out](https://open.spotify.com/track/1QItmrTZIyUqCSWjJG7C88) | [Royal Tusk](https://open.spotify.com/artist/122qG4lB9vG6XCjrwJPnRJ) | [Here On Out](https://open.spotify.com/album/0IhD8ltXKP4xDeFpvzXiMl) | 3:14 | 2023-12-08 | 2023-12-24 |
+| [Here On Out](https://open.spotify.com/track/1rnL6SaycJbCX17NtfhAay) | [Royal Tusk](https://open.spotify.com/artist/122qG4lB9vG6XCjrwJPnRJ) | [Here On Out](https://open.spotify.com/album/56mhqAkmy61fc7XDi9jNsq) | 3:14 | 2023-12-15 |  |
 | [Hey You](https://open.spotify.com/track/4WUSVvoafrgVgsF9D2urJ0) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Hey You](https://open.spotify.com/album/0P5THTr6VX4rtxd8riRVOM) | 4:28 | 2022-07-19 | 2022-10-01 |
 | [History](https://open.spotify.com/track/4MWKhUasdUFoxsOc9w1Feq) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Lord of the Flies & Birds & Bees](https://open.spotify.com/album/5TzqZ5xIvHdUWrcp8xIYtj) | 3:23 | 2023-10-20 | 2023-11-11 |
 | [Hold Me Like a Grudge](https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:35 | 2023-07-21 | 2023-08-05 |

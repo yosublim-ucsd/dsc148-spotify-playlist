@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 358084,
+  "num_followers": 358125,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmEyMDM0MmVjYTQ0ZDc2ZWI5Nzc2Mzc0NTE4NjBlYWY4M2Q2OWY2",
+  "snapshot_id": "MCw3ZTQ1NTRjNzk3YTFhMzA4YjQ0Y2M3MTAxOTQ3MDVhZGM4ZmVkMWZh",
   "tracks": [
     {
       "added_at": "2023-11-24 02:05:30",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "Ahomale",
-        "url": "https://open.spotify.com/album/5T8HiC9DBepOkVyHur3AHe"
-      },
-      "artists": [
-        {
-          "name": "Combo Chimbita",
-          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
-        }
-      ],
-      "duration_ms": 236786,
-      "name": "Brillo M\u00e1s Que El Oro (La Bala Apunt\u00e1ndome)",
-      "url": "https://open.spotify.com/track/7l0kAwlnFbbtUKSeeecr5g"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
         "name": "CARISMA",
         "url": "https://open.spotify.com/album/360aJ4E4087KXU6ESyvjL3"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 202519,
       "name": "Te Quiero Olvidar",
       "url": "https://open.spotify.com/track/2u1UkcNp5l0NgTGjfl7fmZ"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
+        "name": "Ahomale",
+        "url": "https://open.spotify.com/album/5T8HiC9DBepOkVyHur3AHe"
+      },
+      "artists": [
+        {
+          "name": "Combo Chimbita",
+          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
+        }
+      ],
+      "duration_ms": 236786,
+      "name": "Brillo M\u00e1s Que El Oro (La Bala Apunt\u00e1ndome)",
+      "url": "https://open.spotify.com/track/7l0kAwlnFbbtUKSeeecr5g"
     },
     {
       "added_at": "2023-11-24 02:05:30",
@@ -911,26 +911,6 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "Indus Meets Palenque Records, Vol. 2",
-        "url": "https://open.spotify.com/album/6ZhlLTZtTuVyH3W3O079p2"
-      },
-      "artists": [
-        {
-          "name": "Indus",
-          "url": "https://open.spotify.com/artist/3NaTDSUj7DxcuG1oJPuQ63"
-        },
-        {
-          "name": "Las Alegres Ambulancias",
-          "url": "https://open.spotify.com/artist/2I2AW3q2mvPfWpRmybkosr"
-        }
-      ],
-      "duration_ms": 215427,
-      "name": "P\u00e1jaro de Mar",
-      "url": "https://open.spotify.com/track/2h6FAxXm6crebk5AEVsChg"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
         "name": "Zenit & Nadir",
         "url": "https://open.spotify.com/album/5F3AulLRnkl7a52gcim5q6"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 285581,
       "name": "El Cavilante",
       "url": "https://open.spotify.com/track/2olLGTNlKi5hPLVulIpvst"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
+        "name": "Indus Meets Palenque Records, Vol. 2",
+        "url": "https://open.spotify.com/album/6ZhlLTZtTuVyH3W3O079p2"
+      },
+      "artists": [
+        {
+          "name": "Indus",
+          "url": "https://open.spotify.com/artist/3NaTDSUj7DxcuG1oJPuQ63"
+        },
+        {
+          "name": "Las Alegres Ambulancias",
+          "url": "https://open.spotify.com/artist/2I2AW3q2mvPfWpRmybkosr"
+        }
+      ],
+      "duration_ms": 215427,
+      "name": "P\u00e1jaro de Mar",
+      "url": "https://open.spotify.com/track/2h6FAxXm6crebk5AEVsChg"
     },
     {
       "added_at": "2023-11-24 02:05:30",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
+        "name": "Versus (EP)",
+        "url": "https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw"
+      },
+      "artists": [
+        {
+          "name": "Palenke Soultribe",
+          "url": "https://open.spotify.com/artist/4WGdIlBeHU97hLsYbXkkWA"
+        }
+      ],
+      "duration_ms": 266213,
+      "name": "El Makako",
+      "url": "https://open.spotify.com/track/7EICRbByyRrSz1gaHHDnuP"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
         "name": "De Aqu\u00ed Hasta Aqu\u00ed",
         "url": "https://open.spotify.com/album/3zcF5WOEhG12wtu4VFUNBY"
       },
@@ -1067,34 +1083,22 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "Versus (EP)",
-        "url": "https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw"
+        "name": "Semillero",
+        "url": "https://open.spotify.com/album/4yjnNPa3bH1Vwrepclo6d4"
       },
       "artists": [
         {
-          "name": "Palenke Soultribe",
-          "url": "https://open.spotify.com/artist/4WGdIlBeHU97hLsYbXkkWA"
-        }
-      ],
-      "duration_ms": 266213,
-      "name": "El Makako",
-      "url": "https://open.spotify.com/track/7EICRbByyRrSz1gaHHDnuP"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
-        "name": "Desierto",
-        "url": "https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE"
-      },
-      "artists": [
+          "name": "Dengue Dengue Dengue",
+          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
+        },
         {
-          "name": "Simah",
-          "url": "https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L"
+          "name": "Penya",
+          "url": "https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU"
         }
       ],
-      "duration_ms": 173043,
-      "name": "Desierto",
-      "url": "https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM"
+      "duration_ms": 348009,
+      "name": "Pua",
+      "url": "https://open.spotify.com/track/4b3bYGxsCzLnPwQ5CyRlQX"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

@@ -3143,6 +3143,24 @@
     },
     {
       "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/7I1VmJNtSnoM82exSSoAxX"
+      },
+      "artists": [
+        {
+          "name": "Trilucid",
+          "url": "https://open.spotify.com/artist/2T6mOFQ2RGAypMuKtIg9ic"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190161,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/1KCqxAWsSoXC9abnWLiYqH"
+    },
+    {
+      "album": {
         "name": "Indigo EP",
         "url": "https://open.spotify.com/album/4J4yF6eBnLo7w9NXu0S0TM"
       },
@@ -3248,7 +3266,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-27",
+      "date_removed": null,
       "duration_ms": 304687,
       "name": "Interlaced",
       "url": "https://open.spotify.com/track/4xwUt1Ukkfc0b3DwsB3f2b"
@@ -3948,7 +3966,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 264915,
       "name": "Liana",
       "url": "https://open.spotify.com/track/4m1BbY9mE352gfAVNa9Idz"
@@ -5882,7 +5900,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 434406,
       "name": "Pura Vida",
       "url": "https://open.spotify.com/track/0Keuz1iGQsOdIxqsdbKanO"

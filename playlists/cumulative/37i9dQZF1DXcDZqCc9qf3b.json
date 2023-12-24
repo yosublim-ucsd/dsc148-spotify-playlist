@@ -392,10 +392,32 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 131649,
       "name": "Danger, Danger",
       "url": "https://open.spotify.com/track/090pfisth9XR8YT4I9XYYM"
+    },
+    {
+      "album": {
+        "name": "My Little Pony: A New Generation (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2gSDW1mnuKSRLRa7pgTV4f"
+      },
+      "artists": [
+        {
+          "name": "Alan Schmuckler",
+          "url": "https://open.spotify.com/artist/4gQjvlYHRKVoeR9rb8iCJ5"
+        },
+        {
+          "name": "My Little Pony",
+          "url": "https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131649,
+      "name": "Danger, Danger",
+      "url": "https://open.spotify.com/track/0ie7SrEYQQ8KXvgS6VuKX4"
     },
     {
       "album": {
@@ -644,6 +666,28 @@
     {
       "album": {
         "name": "My Little Pony: A New Generation (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2gSDW1mnuKSRLRa7pgTV4f"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Hudgens",
+          "url": "https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE"
+        },
+        {
+          "name": "My Little Pony",
+          "url": "https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158650,
+      "name": "Gonna Be My Day",
+      "url": "https://open.spotify.com/track/00V49IkvvyTGE3PWTY9u85"
+    },
+    {
+      "album": {
+        "name": "My Little Pony: A New Generation (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4wgoVzfqKBkE5ZKlBfs89g"
       },
       "artists": [
@@ -658,7 +702,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 158650,
       "name": "Gonna Be My Day",
       "url": "https://open.spotify.com/track/2EhIF9BvXTKFZn5sCuMNrX"

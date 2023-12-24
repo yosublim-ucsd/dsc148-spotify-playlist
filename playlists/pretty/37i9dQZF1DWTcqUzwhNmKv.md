@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Sleep Token on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,469,787 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,470,291 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 59 | [Into the Abyss](https://open.spotify.com/track/73fjFTOGycMPfGyWrIPXfg) | [Unearth](https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3) | [The Wretched; The Ruinous](https://open.spotify.com/album/09LBDZTHGu6VF0S8Pcxn34) | 3:23 |
 | 60 | [Get That Done](https://open.spotify.com/track/5AKzAajma8Wl7h0GqBRknc) | [Any Given Day](https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU) | [Get That Done](https://open.spotify.com/album/0rk3cPpQxE4pDhswHxRlnf) | 4:17 |
 | 61 | [Two Alive Amongst The Dead](https://open.spotify.com/track/4CjxnxOt8coAxh51QZEHkI) | [Better Lovers](https://open.spotify.com/artist/3mStoA23qANDeMqHi2oqze) | [Two Alive Amongst The Dead](https://open.spotify.com/album/4Kwjj9SUOtSG80euLteDsS) | 2:47 |
-| 62 | [Waco Jesus](https://open.spotify.com/track/261sv3XoqTlv3TyrdL74bT) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [Waco Jesus](https://open.spotify.com/album/2l85mznhWykjvZEu4Lg5MS) | 3:41 |
+| 62 | [Waco Jesus](https://open.spotify.com/track/0NGTef5nMH4wJvUz8xvfY3) | [The Callous Daoboys](https://open.spotify.com/artist/4ZWRLOs7c4drt9mKGc0Ds0) | [Waco Jesus](https://open.spotify.com/album/3wh39ZdXcywyiZWUyaqH6f) | 3:41 |
 | 63 | [Red](https://open.spotify.com/track/6clolEOVLaSpg3mVelSzEa) | [Woe, Is Me](https://open.spotify.com/artist/7AzzsLSrHV9darZnK3RSDN) | [Red](https://open.spotify.com/album/5vVQSRjTqOTI6Ek6SmHqa9) | 4:09 |
 | 64 | [Some Of Us](https://open.spotify.com/track/45YoWKaH5JdbpwpfRRQsqS) | [Demon Hunter](https://open.spotify.com/artist/6f3a43i1MJZwdjEpV1M0oH) | [Some Of Us](https://open.spotify.com/album/1bnH6BatxymLa5sUq7e3qc) | 3:33 |
 | 65 | [Chaos Horrific](https://open.spotify.com/track/4Zsix11Dx5iiS0X7EclZSF) | [Cannibal Corpse](https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n) | [Chaos Horrific](https://open.spotify.com/album/2OsBHxwlW8kJx2YCnhH7rI) | 3:32 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [Revelation](https://open.spotify.com/track/0cWQy0wDjVJbuUDDZabWfu) | [Many Eyes](https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb) | [Revelation](https://open.spotify.com/album/3IZrMNBLyFuhJYlVRgPdhD) | 4:13 |
 | 75 | [Silana](https://open.spotify.com/track/0LDzW0VKe4UsbOhnmM7aC9) | [Capra](https://open.spotify.com/artist/4jfu3bxtFywqyCRuTcsve4) | [Errors](https://open.spotify.com/album/3fCRAPxbNpZP9qzDXiblCI) | 3:00 |
 
-Snapshot ID: `MCwwYWI2YTMwYzI1OGQzNTBiMGZhYWQ5NzBhYTMzYzVkNWY4NzhhYzgw`
+Snapshot ID: `MCw5YTVlODFjYWNhYWQwODE3Y2VjZjNmMDY5ZTJkYjA5NzM3ODdhYmY1`

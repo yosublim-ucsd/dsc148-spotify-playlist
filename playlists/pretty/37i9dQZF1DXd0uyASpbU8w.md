@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world.Cover: <a href="https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp?si=4fWBNvCeQ0KUa6nGXyFiew">Wizkid</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,578 likes - 49 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,644 likes - 49 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 18 | [Asizolala](https://open.spotify.com/track/6O3VgZTokSi8inZSH4nlSZ) | [Marthe](https://open.spotify.com/artist/11LLLhmioRwkPeNLGUok3N), [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be) | [Asizolala](https://open.spotify.com/album/7wvweQBzRcn6RvXzArXzHV) | 4:52 |
 | 19 | [Abo Malume \- Radio Edit](https://open.spotify.com/track/3I0Z11pUKDvbCcaOQW3oGG) | [Stones & Bones](https://open.spotify.com/artist/5dBe8LtEp62lNMgDOFx7l4) | [Abo Malume](https://open.spotify.com/album/4kTkQb8gpZORAILKnHp52b) | 3:48 |
 | 20 | [Smoke In Your Eyes](https://open.spotify.com/track/2Kurh5hEYRgzDzuahjHytQ) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Ossie](https://open.spotify.com/artist/4k2R7rFptalNPkyGEq2s9G), [Harry Stone](https://open.spotify.com/artist/6rq7VcWeCTjiBIIuGt0D96) | [Smoke In Your Eyes](https://open.spotify.com/album/5EEitGHmxCB0XD0rtV3bE7) | 6:31 |
-| 21 | [Dikoima](https://open.spotify.com/track/04NAVZAU9ZX6wJ6J0mqsbN) | [Backeer](https://open.spotify.com/artist/1eIMkjElnyyQ4qbiby3h6w), [Elline](https://open.spotify.com/artist/3X76EEZE5EfyHkOCyrVIkm), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Dikoima](https://open.spotify.com/album/2fcko6YV4mvi3DNa4ENuGC) | 6:02 |
+| 21 | [Dikoima](https://open.spotify.com/track/04NAVZAU9ZX6wJ6J0mqsbN) | [Backeer](https://open.spotify.com/artist/1eIMkjElnyyQ4qbiby3h6w), [Elline](https://open.spotify.com/artist/3X76EEZE5EfyHkOCyrVIkm), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Dikoima](https://open.spotify.com/album/2fcko6YV4mvi3DNa4ENuGC) | 6:03 |
 | 22 | [Normalize](https://open.spotify.com/track/2hyqsTz3yVbiEvPOhXHuBZ) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq), [NAE \(SA\)](https://open.spotify.com/artist/7jQMNIOf6vfiQvzwQqSzFs) | [Normalize](https://open.spotify.com/album/4QR8sCmgq6WvKY9ia86O8p) | 5:33 |
 | 23 | [Hamjasema](https://open.spotify.com/track/4SRbhGHuGR7hobtNGuCt3W) | [Mavokali](https://open.spotify.com/artist/5EIk6BWcEKUeHgmM0vD0cX) | [Hamjasema](https://open.spotify.com/album/4LoWEhOuXYjeB3PWkB87eH) | 3:21 |
 | 24 | [JY IS AL WAT EK HET](https://open.spotify.com/track/0svurugq2CYsP7zGByuUyg) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Loki Rothman](https://open.spotify.com/artist/2dRlORRtjS7XHuCdEbHrE3) | [JY IS AL WAT EK HET](https://open.spotify.com/album/5V91z8ZNFWxyA2Nw9Ey932) | 2:53 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 48 | [Dimensions](https://open.spotify.com/track/1BHcOPUTFF6OeUc0Bj784I) | [Zulu Mageba](https://open.spotify.com/artist/2oWStpJ5ThCzjyF9TyrRgA) | [Dimensions](https://open.spotify.com/album/5KwQZwPafRzJ0KPbqsOaxq) | 7:09 |
 | 49 | [signals](https://open.spotify.com/track/2KkFGmGPr2NoyjkkASr6dJ) | [nfm](https://open.spotify.com/artist/1ZWhckfap0w59YjkXTxkim) | [signals](https://open.spotify.com/album/11KYAa6N9NY4GEMrEYaDoi) | 3:45 |
 
-Snapshot ID: `MCw0MWJmNDQ2MDc3ODAxMzhlZDRjYWEwNTEyOTQxN2QyMjFhYWE4NjZi`
+Snapshot ID: `MCw1Mjk4MjI1MWU3ODcwMjlkZjc2ZmFlNzgzZjFhMzM5NTY2ODRlN2Jk`

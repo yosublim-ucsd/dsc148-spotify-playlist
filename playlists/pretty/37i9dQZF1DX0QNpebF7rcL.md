@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Robert Finley
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,310 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,339 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 65 | [Virginia Soil](https://open.spotify.com/track/2BabLfYnJvdWrDvgzNVYqE) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [White Jesus Black Problems](https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i) | 3:10 |
 | 66 | [Drifting From Town To Town](https://open.spotify.com/track/0DjSBXNU6jGMxsnrGdxw0i) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Mississippi Son](https://open.spotify.com/album/2AipA2HCjjgiM7A77vnXxf) | 3:06 |
 | 67 | [I Like It When It's Stormy](https://open.spotify.com/track/0RGaAfyeo6VspXL6eK3l4l) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Rich White Honky Blues](https://open.spotify.com/album/38rR3FBk86jQHnEqmozisW) | 3:19 |
-| 68 | [I'm Just Getting Started!](https://open.spotify.com/track/17v5PPcGy8FSN4n9xnKpUd) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG) | [I'm Just Getting Started!](https://open.spotify.com/album/2Pd2hfBHc4OaM4ZEtBgaoZ) | 2:39 |
+| 68 | [I'm Just Getting Started!](https://open.spotify.com/track/5FpQfVO2jHbTtZGGR8lkN8) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG) | [I'm Just Getting Started!](https://open.spotify.com/album/0QgQ8Ln8AIxc3Svhc8cbi3) | 2:39 |
 | 69 | [Feel Like Going Home](https://open.spotify.com/track/3MtPnzu1Q0PatrrMHsdfCB) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [Feel Like Going Home](https://open.spotify.com/album/2DzbUMDWMSPbE7vJN2Ud1S) | 4:35 |
 | 70 | [I Like Games \- Single Version](https://open.spotify.com/track/0XfQWxtYE8OHwNQYV5tom9) | [Arthur Brown](https://open.spotify.com/artist/4Wyn0ejiSIAgFhCL6zbTRm) | [I Like Games](https://open.spotify.com/album/55RkPA2FJj70bBnKFPHjfu) | 4:21 |
 | 71 | [Mount up on the Wings of the King](https://open.spotify.com/track/30Hrgpp6gqufsaSY7F7txp) | [Kenny Neal](https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Straight from the Heart](https://open.spotify.com/album/2owcIwahZSfIqs5v4i86dQ) | 3:19 |
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 83 | [Cornbread, Peas, Black Molasses](https://open.spotify.com/track/3nRr46yu7zDTd8ly3PZNXn) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [GET ON BOARD](https://open.spotify.com/album/3d5mOvPLoAggvWctC7L12Z) | 3:43 |
 | 84 | [Stagger Lee](https://open.spotify.com/track/64H0CzxFjc1Dz3F3E1oWi5) | [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Stagger Lee](https://open.spotify.com/album/66JuQbdaWi0wnFJtayoIW0) | 2:35 |
 | 85 | [Stranger](https://open.spotify.com/track/2GvrLxJHY2SKitGQueKcj2) | [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy), [Joe Walsh](https://open.spotify.com/artist/5bDxAyJiTYBat1YnFJhvEK), [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Brother Johnny](https://open.spotify.com/album/4xRZx0cl1NVIG2oDtACbpa) | 4:06 |
-| 86 | [Last Call](https://open.spotify.com/track/50JkDzyvtn6xf75rklAVvc) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [TEN](https://open.spotify.com/album/7BOpTMhSI7AJl81BbePXcO) | 3:13 |
+| 86 | [Last Call](https://open.spotify.com/track/3VYsTcWT8Fpvk7buYRIOyK) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [TEN](https://open.spotify.com/album/7HHvLqB4yD1CIP3OgS8NIN) | 3:13 |
 | 87 | [You Know My Love](https://open.spotify.com/track/4ZHmUh8uIxHzAIeBdPg6mB) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues \(Deluxe Edition\)](https://open.spotify.com/album/2ZzQyza1rGp1AXsZ2SINRZ) | 4:18 |
 | 88 | [Call Me King](https://open.spotify.com/track/54lWZZ8Mx6dlHeGoGrga6l) | [Son Of Dave](https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae) | [Call Me King](https://open.spotify.com/album/7s3GreHgKwTs879knH8VWp) | 2:54 |
 | 89 | [Bad Man](https://open.spotify.com/track/3YvsPZ2najCeA2yao47eKa) | [Vaneese Thomas](https://open.spotify.com/artist/79cmm0PKrLWIrqp80GpJtK) | [Bad Man](https://open.spotify.com/album/0PshEpATig6xpoqCOnQ8fg) | 4:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [Always Free](https://open.spotify.com/track/0vD4NlJVWTYE8rdj1UGsAt) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Love Transcends](https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2) | 2:57 |
 | 100 | [She Calls Me Kingfish](https://open.spotify.com/track/7txQNFAmmzHJezbLSVCclc) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [662](https://open.spotify.com/album/3oHvQF3GcnbPRsnp2pieAZ) | 3:12 |
 
-Snapshot ID: `MCw3NzJhZWM2NWRmYjQ4YmZjNGUwZmFiMDAzMDAyMmFmMWUxZjM5ZWEx`
+Snapshot ID: `MCxhZGE0NjI0YjhlZDQ4NGI5MTg2NDk1ZjljOTlmMzAyOTkwZDA2NjY4`

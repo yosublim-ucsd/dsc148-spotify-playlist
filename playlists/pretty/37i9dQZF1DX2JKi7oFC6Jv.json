@@ -1,12 +1,12 @@
 {
   "description": "The best in classic and new UK Funky. Cover: Roska",
-  "num_followers": 102330,
+  "num_followers": 102348,
   "original_name": "UK Funky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzMzOGM3ZWU5NmRjYzVjNGExMzA2YWYxZWE2ZjgwMDAxOTg2YTky",
+  "snapshot_id": "MCw0NmU5N2VjZmM1MmY1MWNkZWYyMjMxOGNjNGY1ODJjNTgyZmFmNzIy",
   "tracks": [
     {
       "added_at": "2022-04-13 15:03:02",
@@ -663,6 +663,22 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
+        "name": "What You Do (Hottest By Far)",
+        "url": "https://open.spotify.com/album/5rCXzdvDDWsCzfarkeKbZK"
+      },
+      "artists": [
+        {
+          "name": "The Fives",
+          "url": "https://open.spotify.com/artist/5EiVAQAe0qLKANwPmUFliS"
+        }
+      ],
+      "duration_ms": 285750,
+      "name": "What You Do (Hottest By Far)",
+      "url": "https://open.spotify.com/track/5VbB0e2Sv6vxWLmroz1Vem"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
         "name": "Da Linha",
         "url": "https://open.spotify.com/album/6SL6Sd07xhv6Rsr6TrFjPh"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 170901,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/2Xb7RtwHMkdNF5nCDWS1W5"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
-        "name": "What You Do (Hottest By Far)",
-        "url": "https://open.spotify.com/album/5rCXzdvDDWsCzfarkeKbZK"
-      },
-      "artists": [
-        {
-          "name": "The Fives",
-          "url": "https://open.spotify.com/artist/5EiVAQAe0qLKANwPmUFliS"
-        }
-      ],
-      "duration_ms": 285750,
-      "name": "What You Do (Hottest By Far)",
-      "url": "https://open.spotify.com/track/5VbB0e2Sv6vxWLmroz1Vem"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "The Shrew Would Have Cushioned The Blow / So Derobe",
-        "url": "https://open.spotify.com/album/0Q0xQqRk5NCMzv4LLn1D6B"
-      },
-      "artists": [
-        {
-          "name": "Joy Orbison",
-          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
-        }
-      ],
-      "duration_ms": 370219,
-      "name": "So Derobe",
-      "url": "https://open.spotify.com/track/0HlQ8eP4Xdovcw4f235zTQ"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
         "name": "T-Shirt (UK remixes)",
         "url": "https://open.spotify.com/album/7yqRpx812OgyuspBHWbPzn"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 335306,
       "name": "T-Shirt - Crazy Cousinz Vocal Remix",
       "url": "https://open.spotify.com/track/5skRvPNGdQMBORLv1UTt0c"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
+        "name": "The Shrew Would Have Cushioned The Blow / So Derobe",
+        "url": "https://open.spotify.com/album/0Q0xQqRk5NCMzv4LLn1D6B"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        }
+      ],
+      "duration_ms": 370219,
+      "name": "So Derobe",
+      "url": "https://open.spotify.com/track/0HlQ8eP4Xdovcw4f235zTQ"
     },
     {
       "added_at": "2022-04-13 15:03:02",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2022-04-13 15:03:02",
       "album": {
-        "name": "Drmtrk II",
-        "url": "https://open.spotify.com/album/3Dh51hsahLEDBqRowPLvID"
-      },
-      "artists": [
-        {
-          "name": "Scratcha DVA",
-          "url": "https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7"
-        },
-        {
-          "name": "Lady Lykez",
-          "url": "https://open.spotify.com/artist/1nR7ltX9Vpms7eTzrTDkTw"
-        }
-      ],
-      "duration_ms": 144204,
-      "name": "Muhammad Ali - Original Mix",
-      "url": "https://open.spotify.com/track/0T0MJzkXiAvnnZ0XRyXZdZ"
-    },
-    {
-      "added_at": "2022-04-13 15:03:02",
-      "album": {
         "name": "3:33",
         "url": "https://open.spotify.com/album/6DzzvDoOqxVBuUmAniObKb"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 205440,
       "name": "Move & Breathe",
       "url": "https://open.spotify.com/track/0tUBJgHumIS69lTHJ94bRM"
+    },
+    {
+      "added_at": "2022-04-13 15:03:02",
+      "album": {
+        "name": "Drmtrk II",
+        "url": "https://open.spotify.com/album/3Dh51hsahLEDBqRowPLvID"
+      },
+      "artists": [
+        {
+          "name": "Scratcha DVA",
+          "url": "https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7"
+        },
+        {
+          "name": "Lady Lykez",
+          "url": "https://open.spotify.com/artist/1nR7ltX9Vpms7eTzrTDkTw"
+        }
+      ],
+      "duration_ms": 144204,
+      "name": "Muhammad Ali - Original Mix",
+      "url": "https://open.spotify.com/track/0T0MJzkXiAvnnZ0XRyXZdZ"
     },
     {
       "added_at": "2022-04-13 15:03:02",

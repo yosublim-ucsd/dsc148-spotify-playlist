@@ -1,12 +1,12 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 127273,
+  "num_followers": 127284,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmMzMmRkYzM5NGJhZmZjOWExZGMxOGU5MDFiZGQ5NmFiODA0NmVh",
+  "snapshot_id": "MCwzYmViYjhlZTc2NmUxNTZhM2Y4MjBhNTJkMjg0ZmI0ZjU3OGMzYmZk",
   "tracks": [
     {
       "added_at": "2023-09-29 18:58:26",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/4BQafZfyveBiMv3FDJ6wAU"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/2nHbYehgkMWR4fmqswEvD9"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Ch'usay",
         "url": "https://open.spotify.com/album/5KNsxBQPRUBeAG0WVdHXNG"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 226780,
       "name": "Herejia",
       "url": "https://open.spotify.com/track/5nQTVn417aepqNo6BF9fMN"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/4BQafZfyveBiMv3FDJ6wAU"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/2nHbYehgkMWR4fmqswEvD9"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Manglares (B-Sides) - EP",
-        "url": "https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE"
-      },
-      "artists": [
-        {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
-        }
-      ],
-      "duration_ms": 218752,
-      "name": "Gemas",
-      "url": "https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Astro",
         "url": "https://open.spotify.com/album/79WFnNXKctYYSwJxas6AI8"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 216546,
       "name": "Religar",
       "url": "https://open.spotify.com/track/2wjx4ZP54RfWN479QH5UCK"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Manglares (B-Sides) - EP",
+        "url": "https://open.spotify.com/album/7kug1J54BtHHJ8iJXagHnE"
+      },
+      "artists": [
+        {
+          "name": "TELEBIT",
+          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
+        }
+      ],
+      "duration_ms": 218752,
+      "name": "Gemas",
+      "url": "https://open.spotify.com/track/2mBvyVRiv8hJBsSmZTNE8X"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Musica De Bolivia",
-        "url": "https://open.spotify.com/album/1zQG76RRmnIW2CjZPc8lMC"
-      },
-      "artists": [
-        {
-          "name": "Inti Punchai",
-          "url": "https://open.spotify.com/artist/0bw09OCO0e0MlvXxpbDE7r"
-        }
-      ],
-      "duration_ms": 237960,
-      "name": "Tatalitu (Chuntunqui)",
-      "url": "https://open.spotify.com/track/5aCk29xRgtDIMgE8y5gQqD"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "\u00d3diame",
         "url": "https://open.spotify.com/album/3SwFT7Pq0A98vQypiY6vde"
       },
@@ -859,18 +843,38 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Pistola de Bal\u00edn",
-        "url": "https://open.spotify.com/album/7r2eM7uuLzZ6wyvQfknyyM"
+        "name": "Musica De Bolivia",
+        "url": "https://open.spotify.com/album/1zQG76RRmnIW2CjZPc8lMC"
       },
       "artists": [
         {
-          "name": "Da Pawn",
-          "url": "https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy"
+          "name": "Inti Punchai",
+          "url": "https://open.spotify.com/artist/0bw09OCO0e0MlvXxpbDE7r"
         }
       ],
-      "duration_ms": 288796,
-      "name": "Pistola de Bal\u00edn",
-      "url": "https://open.spotify.com/track/46m2UQb4Wmdpnco5wBsaxN"
+      "duration_ms": 237960,
+      "name": "Tatalitu (Chuntunqui)",
+      "url": "https://open.spotify.com/track/5aCk29xRgtDIMgE8y5gQqD"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Viaje de Mixturas",
+        "url": "https://open.spotify.com/album/5UDyoz7X5WktqJadjWvmVA"
+      },
+      "artists": [
+        {
+          "name": "Paulopulus",
+          "url": "https://open.spotify.com/artist/1IWXmmObccEzvcNxa9Dtvo"
+        },
+        {
+          "name": "Juan Luis Pereira",
+          "url": "https://open.spotify.com/artist/4svRjaFMW12wuoZ0PJqj40"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Viaje Andino",
+      "url": "https://open.spotify.com/track/6LFPiralbg4KhoGBCC8V4M"
     }
   ],
   "unique_name": "Entre los Andes",

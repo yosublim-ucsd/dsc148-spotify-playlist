@@ -4,7 +4,7 @@
 
 > Epic and melodic metal\. Cover: Within Temptation
 
-549 songs - 1 day 18 hr 8 min
+550 songs - 1 day 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,7 +307,7 @@
 | [My Shadow Self](https://open.spotify.com/track/0i5p8lyhwKkqCb08dGJOoe) | [Dark Princess](https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN) | [My Shadow Self](https://open.spotify.com/album/4GZZdYlHV5QtJvjYWv539s) | 3:02 | 2022-11-18 | 2023-01-23 |
 | [My Shadow Self](https://open.spotify.com/track/2gjvBpoGUgSkym7J391chE) | [Dark Princess](https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN) | [Phoenix](https://open.spotify.com/album/7pqRiN3pUnKElwIXBdUAV1) | 3:02 | 2023-01-20 |  |
 | [My Shadow Self](https://open.spotify.com/track/4wqz7heQ7P70PfjwojQFdK) | [Dark Princess](https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN) | [My Shadow Self](https://open.spotify.com/album/0XmDlBzjV3YXkF8GKLYD7C) | 3:02 | 2022-04-08 | 2022-11-21 |
-| [My Soul's Demise](https://open.spotify.com/track/1qdcekW1mcuwc193IutEFu) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [My Soul's Demise](https://open.spotify.com/album/4HaSyezw05cF8ujn3CS2Nz) | 4:24 | 2023-05-16 |  |
+| [My Soul's Demise](https://open.spotify.com/track/1qdcekW1mcuwc193IutEFu) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [My Soul's Demise](https://open.spotify.com/album/4HaSyezw05cF8ujn3CS2Nz) | 4:24 | 2023-05-16 | 2023-12-24 |
 | [Natural Born Killer](https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Natural Born Killer](https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb) | 3:25 | 2022-06-24 |  |
 | [Nemesis \- Single Edit](https://open.spotify.com/track/1Ms77wvO9QAgwOI0wNILHh) | [Mono Inc.](https://open.spotify.com/artist/1189BemPY7h2lgaH1pkzGX) | [Nemesis](https://open.spotify.com/album/2MghktqgzbKofBy4CYGyk1) | 3:58 | 2021-11-27 | 2022-07-29 |
 | [Nemesis \- Single Edit](https://open.spotify.com/track/6UNSOj1v6OHzRyYfPD1Vbo) | [Mono Inc.](https://open.spotify.com/artist/1189BemPY7h2lgaH1pkzGX) | [The Book of Fire \(Platinum Edition\)](https://open.spotify.com/album/0B3E24p9cEOI9ByIFXoAy1) | 3:58 | 2022-07-08 | 2022-09-02 |
@@ -487,6 +487,7 @@
 | [The Widow Maker \- feat\. Gunship](https://open.spotify.com/track/2wEefjLWT91c7AyTuiStmi) | [Carpenter Brut](https://open.spotify.com/artist/1l2oLiukA9i5jEtIyNWIEP), [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS) | [The Widow Maker](https://open.spotify.com/album/2ivXd8Ca3ECnX7ILZoNpbP) | 3:55 | 2022-03-18 | 2023-11-10 |
 | [Then To Hell With You](https://open.spotify.com/track/1rrh2Aqj7390GGeGIcDuel) | [Liquorworks](https://open.spotify.com/artist/5N0HHSj9VyFK76Q22rU3FJ) | [Psycho Soundwaves](https://open.spotify.com/album/264qJqO8tNxzqU473ghu6O) | 7:22 | 2022-07-13 | 2022-07-30 |
 | [This God is Dead](https://open.spotify.com/track/458kbmGS0DVDs1OMb7V0WC) | [Seven Spires](https://open.spotify.com/artist/2lP1T5oI2BjkLq9axMhG2o), [Roy Khan](https://open.spotify.com/artist/4hEwWtHVjJSCHpsimklGoe) | [This God is Dead](https://open.spotify.com/album/3X9qoDSRongWIaNG8pN60y) | 10:37 | 2021-06-04 | 2021-08-14 |
+| [Time Machine \(feat\. Kai Hansen & Piet Sielck\)](https://open.spotify.com/track/14hdSZI7inU3zrfhRutzDA) | [Heavenly](https://open.spotify.com/artist/7j3etSXgd9ZLYIUW7KWnpd), [Kai Hansen](https://open.spotify.com/artist/1jpvVuIxURdWfijigYFTch), [Piet Sielck](https://open.spotify.com/artist/1JCBpIh7DHq66ljTJ9E2uu) | [Coming from the Sky](https://open.spotify.com/album/6tjLmagYorlDipMtYT1bay) | 7:06 | 2023-05-19 |  |
 | [Time Machine \(feat\. Kai Hansen & Piet Sielck\)](https://open.spotify.com/track/2XxNP9FEnrytdaIElFsWoY) | [Heavenly](https://open.spotify.com/artist/7j3etSXgd9ZLYIUW7KWnpd), [Kai Hansen](https://open.spotify.com/artist/1jpvVuIxURdWfijigYFTch), [Piet Sielck](https://open.spotify.com/artist/1JCBpIh7DHq66ljTJ9E2uu) | [Coming from the Sky](https://open.spotify.com/album/4h1Gmx1wfgbqHZBOjP8kQc) | 7:06 | 2021-12-11 | 2023-11-05 |
 | [To Hell and Back](https://open.spotify.com/track/1BrgjqSg9du0lj3TUMLluL) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Heroes](https://open.spotify.com/album/5TdhTTvwtD0ekZBYve97r7) | 3:26 | 2022-08-19 | 2023-04-15 |
 | [To the Moon](https://open.spotify.com/track/4gmH73AYOhokTH7YmZAZvM) | [Arch Echo](https://open.spotify.com/artist/4ilweWzFHh6vrr7OOuDcUh) | [To the Moon](https://open.spotify.com/album/6GNLsuuFan7tHJxHPqW2V2) | 4:12 | 2022-07-13 | 2022-07-30 |

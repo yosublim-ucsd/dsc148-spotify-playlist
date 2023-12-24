@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 398892,
+  "num_followers": 398990,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWU5YmExNjIzMWZjYzdiY2FmNmU1YmIwMjg2NGVmNDFiM2UyNGYx",
+  "snapshot_id": "MCwzMGVhZWE1M2YwYTQ4YWFhNDhlOTM1NjQzNzZkOTVkN2ExOTM2Y2Jm",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "El Cielo Gobierna",
+        "url": "https://open.spotify.com/album/5qDjBjsXxYlBVRvBDwVXMy"
+      },
+      "artists": [
+        {
+          "name": "David Scarpeta",
+          "url": "https://open.spotify.com/artist/72eEtA2xeitbF17cpqGwqd"
+        }
+      ],
+      "duration_ms": 265280,
+      "name": "El Cielo Gobierna",
+      "url": "https://open.spotify.com/track/3kIhZMcHnynqcSTSA06gds"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Tranz4mando el Universo (Los Legendarios Presenta Triple Seven)",
         "url": "https://open.spotify.com/album/5oHA1GyW3JXvVPmpY8sCXX"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 210364,
       "name": "Grito de Jubilo",
       "url": "https://open.spotify.com/track/6MWNjHcrwB14NeiHbdY2hO"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Por Fin en Casa",
-        "url": "https://open.spotify.com/album/2cg1RtFVrDEf2LRTiSIxH1"
-      },
-      "artists": [
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt"
-        }
-      ],
-      "duration_ms": 465335,
-      "name": "De Lo M\u00e1s Profundo",
-      "url": "https://open.spotify.com/track/2YlJSBmdJcGmWAda2m5moL"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "El Cielo Gobierna",
-        "url": "https://open.spotify.com/album/5qDjBjsXxYlBVRvBDwVXMy"
+        "name": "Por Fin en Casa",
+        "url": "https://open.spotify.com/album/2cg1RtFVrDEf2LRTiSIxH1"
       },
       "artists": [
         {
-          "name": "David Scarpeta",
-          "url": "https://open.spotify.com/artist/72eEtA2xeitbF17cpqGwqd"
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt"
         }
       ],
-      "duration_ms": 265280,
-      "name": "El Cielo Gobierna",
-      "url": "https://open.spotify.com/track/3kIhZMcHnynqcSTSA06gds"
+      "duration_ms": 465335,
+      "name": "De Lo M\u00e1s Profundo",
+      "url": "https://open.spotify.com/track/2YlJSBmdJcGmWAda2m5moL"
     },
     {
       "added_at": "2021-05-21 19:19:27",

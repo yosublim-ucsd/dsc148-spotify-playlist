@@ -4,7 +4,7 @@
 
 > Classic pop, rock and folk for a pleasant drive.
 
-90 songs - 6 hr 1 min
+91 songs - 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [It Might Be You](https://open.spotify.com/track/2wBblZ0wyRVjSVKQrNwSFx) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [20th Century Masters: The Millennium Collection: Best Of Stephen Bishop](https://open.spotify.com/album/5xQPBKkD2vZQag95dVpyOs) | 4:13 | 2019-06-11 | 2022-12-01 |
 | [It Might Be You](https://open.spotify.com/track/2Qmx8W62PEz88T7cGjHDug) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [Best of Bish](https://open.spotify.com/album/3jONwbdCWOJf9uqUBHXvhj) | 4:18 | 2019-06-11 |  |
 | [Jealous Guy \- Remastered 2010](https://open.spotify.com/track/3D9iV6cYkYJRAPFO6DRKIE) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 4:17 | 2019-06-11 |  |
-| [Keep Me in Your Heart](https://open.spotify.com/track/1zSzJAosfqJugLx7mZl5xt) | [Warren Zevon](https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx) | [The Wind](https://open.spotify.com/album/6WNzWYrf563I7TCiSB1fO3) | 3:28 | 2019-06-11 |  |
+| [Keep Me in Your Heart](https://open.spotify.com/track/1fRlDQzrpvWd4BlIzifUkJ) | [Warren Zevon](https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx) | [The Wind](https://open.spotify.com/album/4nFHFjMCqWuFXyzuXWi9bW) | 3:28 | 2019-06-11 |  |
+| [Keep Me in Your Heart](https://open.spotify.com/track/1zSzJAosfqJugLx7mZl5xt) | [Warren Zevon](https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx) | [The Wind](https://open.spotify.com/album/6WNzWYrf563I7TCiSB1fO3) | 3:28 | 2019-06-11 | 2023-12-24 |
 | [Leader of the Band](https://open.spotify.com/track/3O4s2m47MFhnGqmpkjoKYk) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [Love Songs](https://open.spotify.com/album/2HBiEHyRhKl6dxWBKQpxID) | 4:16 | 2019-06-11 |  |
 | [Let Your Love Flow](https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Bellamy Brothers](https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0) | 3:18 | 2019-06-11 |  |
 | [Longer](https://open.spotify.com/track/56ilrbKJF2bph5W6eZaM5E) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [Phoenix](https://open.spotify.com/album/7GnMeBxDvE6wJ4Iu6Xdb2a) | 3:15 | 2019-06-11 |  |

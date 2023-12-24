@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5ITI6SEoUZMIXXkzCfr4oE">Aluna</a>'s favorite tracks\. Updated regularly\. Curated by Aluna\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-280 songs - 17 hr 49 min
+281 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Get Lucky \(With Kelli\-Leigh\)](https://open.spotify.com/track/332h3KTAmeomFwC5oTop19) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff) | [Get Lucky \(With Kelli\-Leigh\)](https://open.spotify.com/album/32SBeISKsxzoVKD0a9iIPw) | 2:57 | 2023-04-07 | 2023-06-30 |
 | [Get On Down](https://open.spotify.com/track/7exHHOSg7JZ7BSmkeP5HaY) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Get On Down](https://open.spotify.com/album/09D39Cwhfq3VNYp9gw16cz) | 3:05 | 2023-07-20 | 2023-09-22 |
 | [Get Up](https://open.spotify.com/track/3uO4nLDiJMH2DkixEFcHIN) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [ShezAr](https://open.spotify.com/artist/3PPJmIxohGjhNvQIyrksIW) | [Get Up](https://open.spotify.com/album/2XahKuNpWDBxLlbD8eKCuc) | 3:06 | 2023-04-21 | 2023-10-05 |
-| [Get Up](https://open.spotify.com/track/7quS3s6bqzPmXRnDU5FeNa) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [Get Up](https://open.spotify.com/album/7G3GRV1k2khC47rPBSvFin) | 3:03 | 2023-09-21 |  |
+| [Get Up](https://open.spotify.com/track/6eqI6rkIXqJO5uIuli36Ey) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [IN:TENSION](https://open.spotify.com/album/5Om5ffiuTukQ7HdnSMxm1h) | 3:03 | 2023-12-08 |  |
+| [Get Up](https://open.spotify.com/track/7quS3s6bqzPmXRnDU5FeNa) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [Get Up](https://open.spotify.com/album/7G3GRV1k2khC47rPBSvFin) | 3:03 | 2023-09-21 | 2023-12-24 |
 | [Give It Up \- REMETI Remix](https://open.spotify.com/track/1x6L5u1efLOz8DQl9PA2C4) | [Ashibah](https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP), [REMETI](https://open.spotify.com/artist/0gSoG6kI3ngqDL32OZfGcR) | [Give It Up \(REMETI Remix\)](https://open.spotify.com/album/1X94E58SxAGr7MdFCrSvpn) | 3:33 | 2023-06-29 | 2023-07-08 |
 | [Giving Up](https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Giving Up](https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE) | 3:23 | 2022-09-08 | 2022-12-30 |
 | [Gold Action](https://open.spotify.com/track/1TNHkCfUOLTGQEG6KPnDne) | [Moody Jones](https://open.spotify.com/artist/24FWdrSufRayxwGPvzSFaz), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Gold Action](https://open.spotify.com/album/4jWfhLO4PQttOuYQQIP7Wo) | 3:46 | 2022-09-08 | 2022-10-01 |

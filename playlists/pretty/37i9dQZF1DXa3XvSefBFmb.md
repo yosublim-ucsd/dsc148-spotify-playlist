@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extrarodinárias artistas, como Sara Correia, com o volume no máximo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,700 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,717 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 46 | [Mais Nada](https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Mais Nada](https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT) | 2:56 |
 | 47 | [Surpresa](https://open.spotify.com/track/1LnBHgrh0ugqJLkBKqPzi3) | [Cremilda Medina](https://open.spotify.com/artist/7m1dm6eKgspx20jb8RrCEp) | [Nova Aurora](https://open.spotify.com/album/4arepE0VfN4fpi2dBjCNoT) | 4:03 |
 | 48 | [mercúrio retrógrado](https://open.spotify.com/track/6gJKY5S6exkeLg1lQOJF5H) | [Adriana Quintão](https://open.spotify.com/artist/3t4L3zSTVJk0WLH13SvzZa) | [mercúrio retrógrado](https://open.spotify.com/album/4xCIhbcMd1Rdv2LEsOCRwn) | 4:51 |
-| 49 | [Tensa](https://open.spotify.com/track/3dnpcmta1PYyK7KnBQmk5p) | [INÊS APENAS](https://open.spotify.com/artist/44lhpTyAjiTTOwOzOfDCUQ), [Malva](https://open.spotify.com/artist/0ZGeXDeVRYGrf8dA3sFzGE) | [Tensa](https://open.spotify.com/album/5NpoAYN1zGSExnlwxZpmgU) | 3:21 |
+| 49 | [Tensa](https://open.spotify.com/track/3dnpcmta1PYyK7KnBQmk5p) | [INÊS APENAS](https://open.spotify.com/artist/44lhpTyAjiTTOwOzOfDCUQ), [MALVA](https://open.spotify.com/artist/0ZGeXDeVRYGrf8dA3sFzGE) | [Tensa](https://open.spotify.com/album/5NpoAYN1zGSExnlwxZpmgU) | 3:21 |
 | 50 | [Nyanyana](https://open.spotify.com/track/686Gapb3LQuK8LhfYcnYG9) | [Surma](https://open.spotify.com/artist/0K3KGih25AbNfCp4vvNiFz), [Selma Uamusse](https://open.spotify.com/artist/4nDOdxGCI3SVZsYt5E0ZWh) | [alla](https://open.spotify.com/album/2z3oCBULHZqfLu4WmVKno2) | 4:13 |
 
-Snapshot ID: `MCw0N2M4NzE1MmJhMDFkNjgzZTdjOGJjMWRkOGYzM2QwYTM1NjczMjAy`
+Snapshot ID: `MCw4NDUyODRmZjMyNDA4Nzk2OTJhNDljMjVkYTAwMmU1OWE5NDJlMjQz`

@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-570 songs - 2 day 0 hr 35 min
+571 songs - 2 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Bestial Devastation \- Re\-Recorded](https://open.spotify.com/track/0qWD1JSQ3NH4bq9ZkRcDbm) | [Cavalera Conspiracy](https://open.spotify.com/artist/7F1K4WlMshx23V2TTz4KwV) | [Bestial Devastation](https://open.spotify.com/album/7daofMPFpO2A5zfIfWWJo3) | 3:04 | 2023-07-21 |  |
 | [Bestial Devastation \- Re\-Recorded](https://open.spotify.com/track/5NyRZzzOx5QfWpPxuqR4Mt) | [Cavalera Conspiracy](https://open.spotify.com/artist/7F1K4WlMshx23V2TTz4KwV) | [Bestial Devastation \(Re\-Recorded\)](https://open.spotify.com/album/5N7pN5cLMGEpSbfQ7TRPjG) | 3:04 | 2023-06-16 | 2023-07-26 |
 | [Black Crow on a Tombstone](https://open.spotify.com/track/0ceibOL5IiWDOeBv2PYUGS) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Age Of Nero](https://open.spotify.com/album/6aRs27tvkatPTAIE7gaj1j) | 3:50 | 2022-07-13 | 2022-07-29 |
-| [Black Crow On A Tombstone](https://open.spotify.com/track/4yx8w5d2k8Ku4QXf7eSac1) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Age Of Nero](https://open.spotify.com/album/4Yzl4aZZ6Qs9LvKuOIRHJw) | 3:56 | 2022-07-13 |  |
+| [Black Crow On A Tombstone](https://open.spotify.com/track/4yx8w5d2k8Ku4QXf7eSac1) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Age Of Nero](https://open.spotify.com/album/4Yzl4aZZ6Qs9LvKuOIRHJw) | 3:56 | 2022-07-13 | 2023-12-24 |
 | [Black Dragon](https://open.spotify.com/track/2ECiOFk2i28TFEZUDQXefc) | [Dissection](https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe) | [Reinkaos](https://open.spotify.com/album/4va3x8PEXjTkguSQy70YPw) | 4:48 | 2022-07-13 |  |
 | [Black Flames March](https://open.spotify.com/track/67NmAcOBbppWwqory0sYir) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [The Wild Hunt](https://open.spotify.com/album/3BEfG3ZXFY0xjjvIXRwqOj) | 6:20 | 2022-07-13 |  |
 | [Black Fog and Poison Wind](https://open.spotify.com/track/6cS2AAZePp2lSwYy1HrrRG) | [Darkwoods My Betrothed](https://open.spotify.com/artist/63f4uHAHuzSuzgd8SnoFwn) | [Black Fog and Poison Wind](https://open.spotify.com/album/7L9L2M4znx70n1qBBBvtKl) | 4:42 | 2021-12-17 | 2022-07-21 |
@@ -362,6 +362,7 @@
 | [Open the Gates](https://open.spotify.com/track/0LsNJ1h4WWX8T9wZJW9u8l) | [Dark Funeral](https://open.spotify.com/artist/21ojeH5LNADIGzJKc3hIlE) | [In The Sign..\. \(Re\-issue + Bonus\) \[Deluxe Version\]](https://open.spotify.com/album/3rG83VdcvygOrL6BJGYitt) | 4:34 | 2022-07-13 | 2023-10-10 |
 | [Oppressing Compassion](https://open.spotify.com/track/79yj1unyxjwJHWzFYbuR8L) | [Acranius](https://open.spotify.com/artist/3pQynkPJgCgmfoIQnGvZKG) | [Oppressing Compassion](https://open.spotify.com/album/3WPAHVjP1mrBXlvCuWg3kq) | 2:44 | 2023-05-05 |  |
 | [Our Lady of Speed](https://open.spotify.com/track/6IyY9BnIAP6Dkh52TxuQ6Z) | [Bewitcher](https://open.spotify.com/artist/3uqoS4269hIwo4DzfT15Wi) | [Deep Cuts & Shallow Graves](https://open.spotify.com/album/3US4p7WnEXUyu6Yk2rJHmS) | 3:50 | 2023-11-17 |  |
+| [Out of the Light](https://open.spotify.com/track/4qZ0AWdxYwtQj8rSLBbDjY) | [Schizogen](https://open.spotify.com/artist/30ekpFFVz6ZaSPhjBQ64OA) | [Out of the Light](https://open.spotify.com/album/7qw4gtdh0pEHfEFDHIXvHM) | 5:33 | 2023-12-15 |  |
 | [Ov Fire And The Void](https://open.spotify.com/track/2Q73wKbwLLcGS404gkTfjH) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Evangelion](https://open.spotify.com/album/6ZizJ3rk1Eok7JOKL6UMwv) | 4:27 | 2022-07-13 |  |
 | [Ov Fire and the Void](https://open.spotify.com/track/7fire0gDtWtq39qQLJVfev) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Evangelion](https://open.spotify.com/album/3NO3ef0kGIOJMw6y6nZEH0) | 4:27 | 2022-07-13 | 2022-07-29 |
 | [Ov My Herculean Exile](https://open.spotify.com/track/6RqT1YOVMVjDATyYKsBpaO) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Ov My Herculean Exile](https://open.spotify.com/album/1493clTk13mwPDs9E4u6xi) | 4:43 | 2022-05-13 | 2023-03-20 |

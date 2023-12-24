@@ -4,7 +4,7 @@
 
 > Lyrical\. Legit\. Folk, Americana, and Singer\-Songwriter music features LGBTQIA+ acts and allies\. Cover: Izzy Heltai
 
-172 songs - 10 hr 49 min
+173 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Where the Lavender Grows](https://open.spotify.com/track/7KtbrK74NNA4ySRZ49DC7R) | [Mya Byrne](https://open.spotify.com/artist/0dcndkmyjWKrGJfOb0APAi) | [Where the Lavender Grows](https://open.spotify.com/album/2rMfNb9EGJYRe2SDW7kfoY) | 3:14 | 2023-04-04 |  |
 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 | 2021-06-01 |  |
 | [You and Me On The Rock \(feat\. Lucius\)](https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:50 | 2022-06-01 |  |
-| [You're Still My Love](https://open.spotify.com/track/0auPX06PfrehkJClLpH4cG) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [Daddy's Country Gold](https://open.spotify.com/album/1b6lBkE4XKAGB8hGl8C57n) | 3:37 | 2022-06-01 |  |
+| [You're Still My Love](https://open.spotify.com/track/0auPX06PfrehkJClLpH4cG) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [Daddy's Country Gold](https://open.spotify.com/album/1b6lBkE4XKAGB8hGl8C57n) | 3:37 | 2022-06-01 | 2023-12-24 |
+| [You're Still My Love](https://open.spotify.com/track/7lyoC3YpHvrgdXGQiyWzSW) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [Daddy's Country Gold](https://open.spotify.com/album/0lr7pYLdjcI4MRXIW1ucfI) | 3:37 | 2023-09-29 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

@@ -1742,10 +1742,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 271026,
       "name": "You Made Me Want To Live",
       "url": "https://open.spotify.com/track/0oTYX6tG3Nas6dzleBXbh6"
+    },
+    {
+      "album": {
+        "name": "Doom Crew Inc.",
+        "url": "https://open.spotify.com/album/2124Q5gdjdI6FKWvYyJRqC"
+      },
+      "artists": [
+        {
+          "name": "Black Label Society",
+          "url": "https://open.spotify.com/artist/0zfT626RwO6zN3RDYeRit5"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271026,
+      "name": "You Made Me Want To Live",
+      "url": "https://open.spotify.com/track/682FkRplyBf13Q16aSgTkx"
     },
     {
       "album": {

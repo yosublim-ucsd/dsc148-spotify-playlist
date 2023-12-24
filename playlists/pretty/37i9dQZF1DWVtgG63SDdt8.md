@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new Christmas tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:4akybxRTGHJZ1DXjLhJ1qu">Kirk Franklin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,041 likes - 86 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,157 likes - 86 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 37 | [Hot Coco Flow \(Freed Us\)](https://open.spotify.com/track/0XqCWpRB3DLSy0l9bFQ15A) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Hot Coco Flow \(Freed Us\)](https://open.spotify.com/album/7ECzmGi8lQjaOlVJbm0tFo) | 2:53 |
 | 38 | [Christmas Hits Different](https://open.spotify.com/track/2waUZdv6NOCZwUfUFCIJis) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Christmas Hits Different](https://open.spotify.com/album/3yZQBoubh5fwN1gFHI8f7m) | 3:28 |
 | 39 | [This Christmas](https://open.spotify.com/track/21HybBY92stwLkDGNMvB6N) | [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH), [Nashe](https://open.spotify.com/artist/7J2qQLdf6V7JJM4GcVyZmz) | [This Christmas](https://open.spotify.com/album/1PehjA0qDUsDeLJY7yIZ8v) | 2:55 |
-| 40 | [You Bring The Love](https://open.spotify.com/track/149fBDwVVHfw2MlOMSJgiF) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS), [Louis York](https://open.spotify.com/artist/0owrNlxvcLL8KI0U5sYBUb), [We Sound Crazy](https://open.spotify.com/artist/5PWUiJtn4mRYya62TSdZ04) | [You Bring The Love](https://open.spotify.com/album/58VcFrioXE1f8hhqwqA6y6) | 2:58 |
+| 40 | [You Bring The Love](https://open.spotify.com/track/1lJ00UnZ2bFQvG4UmQieKO) | [Tamar Braxton](https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS), [Louis York](https://open.spotify.com/artist/0owrNlxvcLL8KI0U5sYBUb), [We Sound Crazy](https://open.spotify.com/artist/5PWUiJtn4mRYya62TSdZ04) | [You Bring The Love](https://open.spotify.com/album/62axGb6p8Fq7HRf8loNGrk) | 2:58 |
 | 41 | [Winter Wonderland](https://open.spotify.com/track/3ngmCccTVjZLi8wFFEOO5d) | [Jeff & Sheri Easter](https://open.spotify.com/artist/6AiuFk4YUoY4xi15OZJfKm), [Morgan Easter Smith](https://open.spotify.com/artist/7Lj8ePFRTXrIDXyQHv2vKU) | [Winter Wonderland](https://open.spotify.com/album/6ulM4Ow0RQ6Gb5uG1J1UAF) | 2:42 |
 | 42 | [I Heard The Bells On Christmas Day](https://open.spotify.com/track/2QpnSAzTscRZvoE0EW922P) | [Menna](https://open.spotify.com/artist/5kLvMAFanr3jQ7iuciSCuM) | [I Heard The Bells On Christmas Day](https://open.spotify.com/album/613MkrJFCPiLY0x26uwAUo) | 2:45 |
 | 43 | [Silent Night](https://open.spotify.com/track/1pL2y3rKA7iNQnaq8kbZle) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Silent Night](https://open.spotify.com/album/4heqRBLM0AmNnbJfclf5nD) | 3:03 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 85 | [Feliz Navidad](https://open.spotify.com/track/4zmMCpzxy9mt4gW8C0Uufk) | [Yamaree](https://open.spotify.com/artist/7pxDHAwWckKzgQI8xj7yY0), [Ruby Cavazos](https://open.spotify.com/artist/1kBE8crkTKvG3ENQktbe1j), [Zoe Jean Fowler](https://open.spotify.com/artist/79i4Y9rLmj4djhik1uYDQm) | [CHRISTMAS WITH FRIENDS](https://open.spotify.com/album/2LaGLXCOEdRF37oogLRDe6) | 2:37 |
 | 86 | [Silent Night](https://open.spotify.com/track/5OzOBgprIqWm4kwByR72ln) | [Jesse Frohling](https://open.spotify.com/artist/4oxPN6AWEBO80UaVutGUdY), [Kenzie Frohling](https://open.spotify.com/artist/6BhByg1qlepPSo2RPtlC0y), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR) | [Silent Night](https://open.spotify.com/album/1C8dBLdykBJdhg6RFGE4Lb) | 3:21 |
 
-Snapshot ID: `MCw4NTFkNTQwYWU1MmM0YTA4NjhkNTQ4ZDM1ZTMxMDAzMGY3OWUxMGQz`
+Snapshot ID: `MCwyMmVhN2EwM2ZmY2Y0NjNiMDA0NTVhZmY3Yzc5MWQ3NGU4YWZmNmUx`

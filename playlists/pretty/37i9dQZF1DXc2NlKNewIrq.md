@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2NlKNewIrq.md) - [plain]
 
 > Dive in to the Ambient of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,864 likes - 74 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,904 likes - 74 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2NlKNewIrq.md) - [plain]
 | 14 | [Several Times II](https://open.spotify.com/track/4IitjSBfTpUEMU9GTNfpz0) | [Pieter Nooten And Michael Brook](https://open.spotify.com/artist/1AhA5UAPUefljVYKupe1xp) | [Sleeps with the Fishes](https://open.spotify.com/album/3dtF7JTVFodlTm83YWcLYS) | 2:05 |
 | 15 | [Mkwaju](https://open.spotify.com/track/2mx7O88JR2wrlTqckLtr53) | [Mkwaju Ensemble](https://open.spotify.com/artist/6lhQfkLL5E1JHiam3nNvtN) | [Computer Incarnations For World Peace III](https://open.spotify.com/album/6vXtpsv2IxmvubIDGiE3mX) | 6:28 |
 | 16 | [4th Of July \- Remastered 2009](https://open.spotify.com/track/2c343Y5TmH6jCs3ES9kxjp) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Remastered\)](https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3) | 2:15 |
-| 17 | [Quiet Friend](https://open.spotify.com/track/7eyrOUEsP04DjbMAIUKXEV) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Structures From Silence](https://open.spotify.com/album/46AY6JPcDEFWYF8YcYOQWh) | 13:23 |
+| 17 | [Quiet Friend](https://open.spotify.com/track/3m1ngci5oStKN96zAt9Y9M) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Structures From Silence](https://open.spotify.com/album/194ZxFpjv5ttxZan4caXRq) | 13:23 |
 | 18 | [Epilogue](https://open.spotify.com/track/1LIUJgDSRkNYjo4tVtoz2e) | [Yutaka Hirose](https://open.spotify.com/artist/1FdNQlWcuAjkLTEx7xHf25) | [Nova + 4 \(Extended Version\)](https://open.spotify.com/album/7lETHTMoNPXfiqrEWcuKg1) | 7:41 |
 | 19 | [Four Paths](https://open.spotify.com/track/4FelvwNQdtIoO8lxOEdiai) | [K\. Leimer](https://open.spotify.com/artist/5m1jRZQE4BjLrFrV33jIql) | [Land of Look Behind \(Remastered + Expanded\)](https://open.spotify.com/album/5PfXgN1QUM9hpwdyyDeB5N) | 2:53 |
 | 20 | [The Unquestioned Answer](https://open.spotify.com/track/2Xi2uBeFHI8zs5spiNmyqg) | [Laurie Spiegel](https://open.spotify.com/artist/5ixSn3H9wbdWQxcf8qEKOV) | [The Expanding Universe](https://open.spotify.com/album/1oiMfhS7X0MJSjowR49VPK) | 6:30 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2NlKNewIrq.md) - [plain]
 | 48 | [Meciendo El Engaño](https://open.spotify.com/track/0HbaFS42e5PhQ0UWGpO4x7) | [Música Esporádica](https://open.spotify.com/artist/0h71X1g6FJuanP96HHvGmg), [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh), [Orquesta de las Nubes](https://open.spotify.com/artist/7CqUn7HsQQ3OrCyMvBnwRS) | [Música Esporádica](https://open.spotify.com/album/7dnlyE1XLw84eNn4UJSU0j) | 11:01 |
 | 49 | [Stars \- Remastered 2005](https://open.spotify.com/track/1cWHaz5GDrhfnkXTIYlGHh) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 8:00 |
 | 50 | [FEET](https://open.spotify.com/track/2XBXn7yluQZ6bFReesUjrt) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 6:13 |
-| 51 | [Magnificent Gallery](https://open.spotify.com/track/7ipFhjDTGDzSji2x9D23F2) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Dreamtime Return \- 30th Anniversary Remastered Edition](https://open.spotify.com/album/6lnjs641LTK3qswbVFFBJw) | 6:12 |
+| 51 | [Magnificent Gallery](https://open.spotify.com/track/0j5S8m0r1ebNRstcHvg8p9) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Dreamtime Return \- 30th Anniversary Remastered Edition](https://open.spotify.com/album/3VsGE6qWLkHCaJCRhD2Yu9) | 6:12 |
 | 52 | [Wenn der Südwind weht](https://open.spotify.com/track/061p2ZMjkvKtbuc5swDz5t) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [Wenn der Südwind weht](https://open.spotify.com/album/00bAjAIqUpoyE1TpJPjz14) | 4:13 |
 | 53 | [Slow Water \- 2002 Remastered Version](https://open.spotify.com/track/6iZoU2ZhzhdjmlLPbxlben) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Birdy: Music from the film](https://open.spotify.com/album/6uV4pIbm8a1IU67300sDQT) | 2:55 |
 | 54 | [Lantern Marsh \- Remastered 2004](https://open.spotify.com/track/5QUimuUIhEtuMU475o4xVB) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 4: On Land \(Remastered 2004\)](https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh) | 5:31 |
@@ -77,10 +77,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2NlKNewIrq.md) - [plain]
 | 67 | [Samadhi](https://open.spotify.com/track/1acrrqhpEgq1xeCn2QBOcC) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [The Body Is a Message of the Universe \- からだは宇宙のメッセージ](https://open.spotify.com/album/06FCEZqQKs8xTpNl7laVNC) | 9:42 |
 | 68 | [An Ending \(Ascent\) \- Remastered 2005](https://open.spotify.com/track/1vgSaC0BPlL6LEm4Xsx59J) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Apollo](https://open.spotify.com/album/1Z2jkEtW5Sc9wWVxUgyG0E) | 4:26 |
 | 69 | [Still Space](https://open.spotify.com/track/7e7HTzbFsmLR0mg9QkwMPr) | [Satoshi Ashikawa](https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 3:59 |
-| 70 | [A Circular Ceremony](https://open.spotify.com/track/06MXIcMiMevqLGcCO4nUTE) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Dreamtime Return \- 30th Anniversary Remastered Edition](https://open.spotify.com/album/6lnjs641LTK3qswbVFFBJw) | 11:21 |
+| 70 | [A Circular Ceremony](https://open.spotify.com/track/0CUBrlXfzbZG5unrHPDHfe) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Dreamtime Return \- 30th Anniversary Remastered Edition](https://open.spotify.com/album/3VsGE6qWLkHCaJCRhD2Yu9) | 11:21 |
 | 71 | [TO THE AIR/空へ](https://open.spotify.com/track/2ssoK2Vqu6gzlyHhBwxi2w) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [MERCURIC DANCE\(マーキュリック・ダンス\~躍動の踊り\)](https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L) | 5:11 |
 | 72 | [Night At The Sea Side](https://open.spotify.com/track/5oxwgPziDjjjKifhTqtMD7) | [Kuniyuki Takahashi](https://open.spotify.com/artist/53JsFUDYcN2jw6v1nF7Z82) | [Early Tape Works 1986 \- 1993 Vol\. 1](https://open.spotify.com/album/20sAgx3TsYnW5HffCebCMG) | 8:25 |
 | 73 | [Blade Runner Blues](https://open.spotify.com/track/575blCgesVtCu0HEYaIcas) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 8:54 |
 | 74 | [Ocean Of Tenderness](https://open.spotify.com/track/7K390g1jaEEG634ILDD4mW) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [New Age Of Earth](https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1) | 12:42 |
 
-Snapshot ID: `MCxkOWEzNzZlNTUzMmRmYWI0MWM0YmRmNmQ4MDk0YTU3YWEwYWM5YjBl`
+Snapshot ID: `MCw3OTNhMjNhN2M3ZjVjYTIzZWZjMTI0YWI3NjdhNDU3NWYwNGM2ZTQ2`

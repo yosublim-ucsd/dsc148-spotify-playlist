@@ -1,12 +1,12 @@
 {
   "description": "Un vibe tranqui para que disfrutes de tu espacio.",
-  "num_followers": 54081,
+  "num_followers": 54074,
   "original_name": "Relax en tu Cuarto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjkzODc3YWI0ZGVjMmYwNWRjYTE0ZmY4ZDg1ZDdjNjk3MDY4NjU2",
+  "snapshot_id": "MCw2MjQzOTk1MTA4ODczOWM3ZDFkNTk5ODZhOWIzNGFiMzEyODc4NzAx",
   "tracks": [
     {
       "added_at": "2021-07-16 06:00:50",
@@ -368,9 +368,13 @@
       "added_at": "2021-07-16 06:00:50",
       "album": {
         "name": "Thunder",
-        "url": "https://open.spotify.com/album/66RptozVJ3MfW05VONQ8NE"
+        "url": "https://open.spotify.com/album/3aRvgC66IVGadXG0KkLa2z"
       },
       "artists": [
+        {
+          "name": "Holy Pig",
+          "url": "https://open.spotify.com/artist/5noU5w3Au49jwWgCXih5IE"
+        },
         {
           "name": "Boltri",
           "url": "https://open.spotify.com/artist/6LI9eW5AQmtBIxJklvPvBa"
@@ -378,15 +382,11 @@
         {
           "name": "Boltron",
           "url": "https://open.spotify.com/artist/0HOmnaKrkwTfGXXXy4D2rT"
-        },
-        {
-          "name": "Holy Pig",
-          "url": "https://open.spotify.com/artist/5noU5w3Au49jwWgCXih5IE"
         }
       ],
       "duration_ms": 177500,
       "name": "Thunder",
-      "url": "https://open.spotify.com/track/0cGiNZa8d20rYlfPWDon6y"
+      "url": "https://open.spotify.com/track/7erUqAP6IGMSJa9XgSGwss"
     },
     {
       "added_at": "2021-07-16 06:00:50",

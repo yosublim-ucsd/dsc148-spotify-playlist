@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 
 > What's new in rock\. Cover: ThxSoMch
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,243 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,241 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 30 | [Heading For The Door](https://open.spotify.com/track/0IvBk9CGkWu6U91u9t7nXW) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Heading For The Door](https://open.spotify.com/album/5E864zl3t7NMlv2iXVZ3cX) | 3:47 |
 | 31 | [Love To Walk Away](https://open.spotify.com/track/7wykJuA5AbOMLTmsNSi1Cq) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Love To Walk Away](https://open.spotify.com/album/3H3oeo1nVS1IzgQVOXcDdD) | 2:07 |
 | 32 | [get it together !](https://open.spotify.com/track/55M402rjWXPIBjtZ48X5xm) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [get it together !](https://open.spotify.com/album/77r87QVWDU8qZXFdP9yi4u) | 2:43 |
-| 33 | [Here On Out](https://open.spotify.com/track/1QItmrTZIyUqCSWjJG7C88) | [Royal Tusk](https://open.spotify.com/artist/122qG4lB9vG6XCjrwJPnRJ) | [Here On Out](https://open.spotify.com/album/0IhD8ltXKP4xDeFpvzXiMl) | 3:14 |
+| 33 | [Here On Out](https://open.spotify.com/track/1rnL6SaycJbCX17NtfhAay) | [Royal Tusk](https://open.spotify.com/artist/122qG4lB9vG6XCjrwJPnRJ) | [Here On Out](https://open.spotify.com/album/56mhqAkmy61fc7XDi9jNsq) | 3:14 |
 | 34 | [81 Tonnes](https://open.spotify.com/track/45X2Oew48LzoTigtwQ5axt) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [81 Tonnes](https://open.spotify.com/album/3g1RYqFhHKypcYSibeWFoS) | 4:00 |
 | 35 | [Trouble In The Winners Circle](https://open.spotify.com/track/6YMjiepySlbkSXwiUVnypE) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [Trouble In The Winners Circle](https://open.spotify.com/album/5W8A5K0N8AMmoUXAly4ldp) | 2:39 |
 | 36 | [Knowing You](https://open.spotify.com/track/6KO3ebcMoEN3vjltHo9FWI) | [frown line](https://open.spotify.com/artist/3zBlhaQIMQtlpUEwYQoOoM) | [Knowing You](https://open.spotify.com/album/664Cc2ZdpJQZCoYdOnhtl8) | 3:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34lqLRYWFxq.md) - [plain]
 | 99 | [Too Close / Too Late](https://open.spotify.com/track/4hvCxgioUiT85MCgfIhDP3) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk) | 4:41 |
 | 100 | [Stray](https://open.spotify.com/track/3Cn7sqZOpHHgRAlC7ZHpxl) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Cold War Kids](https://open.spotify.com/album/5pBiNV0jWUlQtd40ir524c) | 3:01 |
 
-Snapshot ID: `MCxhZmM0OWM2YThlYmM4MjVkZTdjODA1OWZkZmI5ZDQyYjBhMTczMjQ1`
+Snapshot ID: `MCxlYjViYTVhMWJlNmEwN2QwMjlhMjM2NzI1NmRiNGEwMGVmYWZkOGZh`

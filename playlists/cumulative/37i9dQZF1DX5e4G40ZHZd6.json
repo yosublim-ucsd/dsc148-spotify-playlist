@@ -24,6 +24,24 @@
     {
       "album": {
         "name": "Motivational Speaker",
+        "url": "https://open.spotify.com/album/2wX2Al1PYn88BRDFchSIff"
+      },
+      "artists": [
+        {
+          "name": "Alvin Youngblood Hart",
+          "url": "https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG"
+        }
+      ],
+      "date_added": "2021-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346866,
+      "name": "Big Momma's Door (Might Return)",
+      "url": "https://open.spotify.com/track/1iMgaPr85LcUZmfdeyBBga"
+    },
+    {
+      "album": {
+        "name": "Motivational Speaker",
         "url": "https://open.spotify.com/album/5xEupHqhptd500VR6JHaJE"
       },
       "artists": [
@@ -52,7 +70,7 @@
       ],
       "date_added": "2021-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 346866,
       "name": "Big Momma's Door (Might Return)",
       "url": "https://open.spotify.com/track/7G2CbHjdnkR9woozKKGceD"

@@ -919,6 +919,24 @@
     },
     {
       "album": {
+        "name": "Percy Jackson and the Olympians (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/3QgBafkEM8gwLgayprkVY8"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311906,
+      "name": "Percy Jackson and the Olympians",
+      "url": "https://open.spotify.com/track/4gePPZ5YAnLNA29IWUxy7w"
+    },
+    {
+      "album": {
         "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
         "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
       },

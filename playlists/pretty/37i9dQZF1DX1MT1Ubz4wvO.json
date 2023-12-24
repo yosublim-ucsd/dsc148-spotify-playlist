@@ -1,12 +1,12 @@
 {
   "description": "Todas las semanas los nuevos lanzamientos de Rock en espa\u00f1ol, con Chabelos en portada.",
-  "num_followers": 44122,
+  "num_followers": 44132,
   "original_name": "Novedades Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NWM1YzUzNjBiMTE2ZDcxMDAzNDA0YTc5NDgxMzM3NTk4OGYwYjg5",
+  "snapshot_id": "MCwxODgwZjA4MWJlNmE3MTczMGVhZjBjMDA0ZGIyYjk4OGZjNzNmZWNl",
   "tracks": [
     {
       "added_at": "2023-12-22 06:00:00",
@@ -207,6 +207,22 @@
       "duration_ms": 185220,
       "name": "Fuego Lento",
       "url": "https://open.spotify.com/track/76vN5nb7dimPsb7GOEE8fp"
+    },
+    {
+      "added_at": "2023-12-22 06:00:00",
+      "album": {
+        "name": "Nunca Llegar\u00e1",
+        "url": "https://open.spotify.com/album/4rBbgslFLo0K34U9HXeg2w"
+      },
+      "artists": [
+        {
+          "name": "Hvmvn",
+          "url": "https://open.spotify.com/artist/5N7su4LJtkVQVRBFq9wrIp"
+        }
+      ],
+      "duration_ms": 183876,
+      "name": "Nunca Llegar\u00e1",
+      "url": "https://open.spotify.com/track/4no3QkaiQRPr1PbgO59tR6"
     },
     {
       "added_at": "2023-12-22 06:00:00",

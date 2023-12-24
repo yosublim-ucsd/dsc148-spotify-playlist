@@ -4,7 +4,7 @@
 
 > A collection of the best recent Prog Rock tracks\. Cover: Steve Vai
 
-118 songs - 10 hr 28 min
+119 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Broken](https://open.spotify.com/track/54vAjEj8qRM4cwYCCQWb31) | [The Flower Kings](https://open.spotify.com/artist/0BI5vXwUl4lZMtARfXQ0No) | [Broken](https://open.spotify.com/album/1xYzQiyuN22148NQClXDd0) | 6:47 | 2022-05-20 | 2022-11-14 |
 | [Broken](https://open.spotify.com/track/6b5xAENeyuvpA3gRwuKAQs) | [The Flower Kings](https://open.spotify.com/artist/0BI5vXwUl4lZMtARfXQ0No) | [Broken](https://open.spotify.com/album/06ixIi6RB7vy0ns1bUIfpg) | 6:47 | 2022-05-20 | 2022-07-29 |
 | [Castaway Angels](https://open.spotify.com/track/3Gy5q1K4nTwDVVtyQWYv3t) | [Leprous](https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5) | [Castaway Angels](https://open.spotify.com/album/0DSyIQMgYhiwjeh7PW2IRB) | 4:55 | 2022-05-20 |  |
-| [Closer](https://open.spotify.com/track/5TUn5aeSBFYKiQFLO3fE5N) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Closer](https://open.spotify.com/album/1at11cxee5blIgarVbwuY0) | 5:15 | 2022-05-20 |  |
+| [Closer](https://open.spotify.com/track/0mrN9ouorjK8uwlPXfNLnp) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Where Myth Becomes Memory](https://open.spotify.com/album/6feZT48cizyeg8cFVjX8pO) | 5:15 | 2022-11-17 |  |
+| [Closer](https://open.spotify.com/track/5TUn5aeSBFYKiQFLO3fE5N) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Closer](https://open.spotify.com/album/1at11cxee5blIgarVbwuY0) | 5:15 | 2022-05-20 | 2023-12-24 |
 | [Danger](https://open.spotify.com/track/3UqvyqOpZI0AyYmpO0HEwS) | [Relent](https://open.spotify.com/artist/3BcuUq1rwq2xlcyab2w3lu) | [Heavy](https://open.spotify.com/album/6jnRsK6HHmSL12NuVL1ygi) | 3:48 | 2022-05-20 |  |
 | [Deep Waters](https://open.spotify.com/track/4NY0pyyRKObg9S58koRXDz) | [Port Noir](https://open.spotify.com/artist/6s6x6p9qZFaPfeALpVvcpR) | [Deep Waters](https://open.spotify.com/album/1rleWJZprZvmlqv1fH8KLZ) | 3:29 | 2022-05-20 |  |
 | [Demons](https://open.spotify.com/track/5s51DrOIrHf7k8EtoqNUgN) | [The Pineapple Thief](https://open.spotify.com/artist/4lrBMUSk8PiNnCEZfsmPAk) | [Demons](https://open.spotify.com/album/7bF7jvKnOsia2OcdNensBe) | 4:33 | 2022-05-20 |  |

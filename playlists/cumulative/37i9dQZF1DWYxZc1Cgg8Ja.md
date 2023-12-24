@@ -4,7 +4,7 @@
 
 > Sonidos latinos para relajarse a cualquier hora del día\. Foto: Eladio Carrion
 
-95 songs - 4 hr 51 min
+96 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [Lady Mi Amor](https://open.spotify.com/track/30Xh83fw03PZ2Wfm36H4EZ) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:27 | 2023-07-21 |  |
 | [LEJOS DEL CIELO](https://open.spotify.com/track/39qtjJ454r2fgyXaenq8Wv) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [LEJOS DEL CIELO](https://open.spotify.com/album/4144E5wmhkJZJX4UR3Hw5M) | 3:28 | 2023-07-21 |  |
 | [Lento](https://open.spotify.com/track/1UT81mWIvNdng0hb2qvHlL) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Lento](https://open.spotify.com/album/6kxkdZth2jAn69eCMbjpL2) | 2:55 | 2023-07-21 | 2023-09-30 |
-| [Lloras \- Remix](https://open.spotify.com/track/3FhiU60cxfN2j4jRy5Y40w) | [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Lloras \(Remix\)](https://open.spotify.com/album/0osfwkrHWoc7XcMrA5kZi6) | 4:52 | 2023-07-21 |  |
+| [Lloras \- Remix](https://open.spotify.com/track/4nRtWZQI8xiNEN6hVlgZCE) | [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas), [Lenny Tavarez](https://open.spotify.com/artist/5RnYOfWvm7UjbSnTdOYHZC), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Lloras \(Remix\)](https://open.spotify.com/album/3hBdLhYZl9JsWOjXRhFGsj) | 4:52 | 2023-12-22 |  |
+| [Lloras \- Remix](https://open.spotify.com/track/3FhiU60cxfN2j4jRy5Y40w) | [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Lloras \(Remix\)](https://open.spotify.com/album/0osfwkrHWoc7XcMrA5kZi6) | 4:52 | 2023-07-21 | 2023-12-24 |
 | [Lo que yo a ti te dije](https://open.spotify.com/track/3rl7Osw0GTwcILqFlwoFGJ) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Kaeve](https://open.spotify.com/artist/36RCTbO3VLENi4UnVqC1tP), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I) | [Lo que yo a ti te dije](https://open.spotify.com/album/2MWMgssz1mdG1sSQ38Anl0) | 3:36 | 2023-10-13 | 2023-12-16 |
 | [Loco Por Perrearte \- Remix](https://open.spotify.com/track/0vHfVsEe6Ps0d8cZ9PGzSw) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Loco Por Perrearte \(Remix\)](https://open.spotify.com/album/6qLWzKEkkYEbHDIVXjrMBP) | 3:19 | 2023-07-21 |  |
 | [Lío](https://open.spotify.com/track/3Z0Ljf7at9S7ZRJM63uq4I) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Lío](https://open.spotify.com/album/0kzO37PJ7zVbRBv1Kruee8) | 2:46 | 2023-07-21 | 2023-12-16 |

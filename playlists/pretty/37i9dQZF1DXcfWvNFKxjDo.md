@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Glockenbach, Öwnboss, Jazz Montell
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,486 likes - 74 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,601 likes - 74 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 44 | [Ocean Avenue](https://open.spotify.com/track/7MmpWpWAHFYGBnm2NkOR7E) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Ocean Avenue](https://open.spotify.com/album/2ZCysCyAAnuFMC8xsaKQ0o) | 3:46 |
 | 45 | [One On One](https://open.spotify.com/track/2xmlpRPQUA3lR6HYaeYv7g) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [One On One](https://open.spotify.com/album/2yYylDKJUY5NCfv4YsZpZW) | 3:32 |
 | 46 | [Rapture \(BLR Remix\)](https://open.spotify.com/track/2rFGvptgcdcYoYHZ89GNL3) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Rapture \(BLR Remix\)](https://open.spotify.com/album/0iaLdEq3LJZIFhuyp9VEwR) | 3:50 |
-| 47 | [Smells Like Teen Spirit](https://open.spotify.com/track/1h54366McXSNcici2LAiZP) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO), [Duncán](https://open.spotify.com/artist/4r47Uk509q9OwmR2PE6bqD), [Nito\-Onna](https://open.spotify.com/artist/3t5YWHjVCU9mBSPqa3Z4cV) | [Smells Like Teen Spirit](https://open.spotify.com/album/2aCAmbrwRnlGVviMuAvTvY) | 2:40 |
+| 47 | [Smells Like Teen Spirit \(feat\. Nito\-Onna\)](https://open.spotify.com/track/1h54366McXSNcici2LAiZP) | [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Duncán](https://open.spotify.com/artist/4r47Uk509q9OwmR2PE6bqD), [Nito\-Onna](https://open.spotify.com/artist/3t5YWHjVCU9mBSPqa3Z4cV) | [Smells Like Teen Spirit \(feat\. Nito\-Onna\)](https://open.spotify.com/album/2aCAmbrwRnlGVviMuAvTvY) | 2:40 |
 | 48 | [1+1=1](https://open.spotify.com/track/1Uk7cYdAjIukY1naydK11y) | [XYSM](https://open.spotify.com/artist/1LgEmkIWxBhh25V06pRGl2), [EDGR](https://open.spotify.com/artist/0WMuIwO9iaJZagSAdO5wuV) | [1+1=1](https://open.spotify.com/album/1nAjsUUj74W3AMXAfQ6TVE) | 3:32 |
 | 49 | [Canon in D](https://open.spotify.com/track/0BLAWTXmb7fcQk1TZYj3eN) | [Charming Horses](https://open.spotify.com/artist/5rr0CMtvn1p9Be8ICfkTc3), [Nerds At Raves](https://open.spotify.com/artist/7yYgvkLYx4c2N50oltKonj), [Chris van Dutch](https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY) | [Canon in D](https://open.spotify.com/album/1QDr6uywnM0cAY8XifOb40) | 2:16 |
 | 50 | [Nudes](https://open.spotify.com/track/7zwQVhWP5akSbE9QnhCs9M) | [NALYRO](https://open.spotify.com/artist/3XC1TzybOz2MUgUybEoUUf) | [Nudes](https://open.spotify.com/album/0HRKzg0Qbw31S6CrKmxdvu) | 2:58 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 73 | [You Can Have It](https://open.spotify.com/track/1fx1ptytiaRIdnGLt6feeQ) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Victor Flash](https://open.spotify.com/artist/1IEF03NP5cb0XuOBpfxZXg) | [You Can Have It](https://open.spotify.com/album/1oYqMHHBkuar0ScgiJiPmQ) | 3:52 |
 | 74 | [Celebrate the Love](https://open.spotify.com/track/4EwSiFlSMc2XJz4GIIBIvg) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR), [Rocco](https://open.spotify.com/artist/4Gd2OByIIOatknO6CqlUnP) | [Celebrate the Love](https://open.spotify.com/album/77dhGsl9BfHKKv9xbR5qne) | 3:02 |
 
-Snapshot ID: `MCwzYmI2MjQxOGZjZWRkNWMxZWYyMDRiMTk1ZmE1MWIxNWZhNDU1NDRh`
+Snapshot ID: `MCxlZTM4OGVkYzIwOTRkNDg2NDQ5NTI0MjI1YTY0YjQxNzk4MWIwZmFh`

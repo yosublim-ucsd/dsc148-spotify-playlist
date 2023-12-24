@@ -448,7 +448,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 209882,
       "name": "Gun Fluf",
       "url": "https://open.spotify.com/track/7JXXFL1CvoI2BOry9G7c06"
@@ -798,6 +798,24 @@
       "duration_ms": 154214,
       "name": "NYC Tough Guy",
       "url": "https://open.spotify.com/track/69hbQdjcPhITOxVBuIApkL"
+    },
+    {
+      "album": {
+        "name": "Left",
+        "url": "https://open.spotify.com/album/4ejmUTypA9eTi4kAGNH9nL"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221863,
+      "name": "Powder Puff",
+      "url": "https://open.spotify.com/track/2o1sbJtl8qV6a9FGpOAQ6g"
     },
     {
       "album": {

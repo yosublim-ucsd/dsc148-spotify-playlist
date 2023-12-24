@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Jay Chou
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,400 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,404 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 22 | [野生](https://open.spotify.com/track/5IRw2AXnPVzQCNwNulD843) | [Jam Hsiao](https://open.spotify.com/artist/4AJcTAMOLkRl3vf4syay8Q) | [野生](https://open.spotify.com/album/01uFo7ZroCYizAlV7I4V5m) | 3:57 |
 | 23 | [控制狂（蘇打綠版）](https://open.spotify.com/track/3SZLJEUVXK1wJkvai89xTF) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [控制狂（蘇打綠版）](https://open.spotify.com/album/3NkSSJvtfaziDJmYTNJYpj) | 4:11 |
 | 24 | [沒有我的那個宇宙](https://open.spotify.com/track/6UnzW55tMsnOEn7nLftP5r) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [沒有我的那個宇宙](https://open.spotify.com/album/2KjoiKcYc8kzw3rD7nDNb3) | 3:11 |
-| 25 | [Sangria](https://open.spotify.com/track/4ES99tPDwOy9Lh0asts1bd) | [五堅情WOLF\(S\) \(邱鋒澤、陳零九、黃偉晉、賴晏駒、婁峻碩\)](https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp) | [Royal](https://open.spotify.com/album/7BHMjNf73sKv2y1tSY2f8t) | 2:57 |
+| 25 | [Sangría](https://open.spotify.com/track/4ES99tPDwOy9Lh0asts1bd) | [五堅情WOLF\(S\) \(邱鋒澤、陳零九、黃偉晉、賴晏駒、婁峻碩\)](https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp) | [Royal](https://open.spotify.com/album/7BHMjNf73sKv2y1tSY2f8t) | 2:57 |
 | 26 | [我要的勇敢 \(劇集《左耳》片頭主題曲\)](https://open.spotify.com/track/3KnBxjcCOMnSPbKlHsBY14) | [陶晶瑩](https://open.spotify.com/artist/3YZU8HQWGJEAlNIhTK6UKT) | [我要的勇敢 \(劇集《左耳》片頭主題曲\)](https://open.spotify.com/album/3gh4JAff25DhwzGYPi4F6C) | 4:46 |
 | 27 | [Have a Good Time Here](https://open.spotify.com/track/3rDewXZvbOQPWUR8TPi6VW) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [Have a Good Time Here](https://open.spotify.com/album/2oRX6o3vzi8w3EQQla48LW) | 3:43 |
 | 28 | [SPICE feat\. F.HERO & BEAR KNUCKLE](https://open.spotify.com/track/3DBD5ycENXcDM3D86h7G5K) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Bear Knuckle](https://open.spotify.com/artist/2NebavOcCJEGrt0wFUjDnO) | [SPICE feat\. F.HERO & BEAR KNUCKLE](https://open.spotify.com/album/4OVmL13BgYxXgsH2ruGGNz) | 4:01 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 59 | [PINK CHRISTMAS](https://open.spotify.com/track/4BU2J7VTrm2TvzaYUX7GXb) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [PINK CHRISTMAS](https://open.spotify.com/album/2dKFIjEOW7xpBbr7DUtn6Z) | 3:14 |
 | 60 | [Snowball](https://open.spotify.com/track/1leUcadFG0xkJXoA6KDLlJ) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Merry Go Round](https://open.spotify.com/album/02QQbP6IQkaGymlMKEulGz) | 3:32 |
 
-Snapshot ID: `MCwwNzgyZDc3ZWZlY2NmOTBjNTMyZDI5MGRmMjQ2OTVjYTdkMGUwOGQ2`
+Snapshot ID: `MCw0ZWViMjIzZDczNDRlZjM0YzQ3YmJiZjRkNjA5NTNmOGZmM2YxNmNj`

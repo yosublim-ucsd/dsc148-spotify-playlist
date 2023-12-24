@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: Fúria
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,401 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,415 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 74 | [Chumbo](https://open.spotify.com/track/5IZPxqe5bjNO1v28uCXDO7) | [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt) | [Chumbo](https://open.spotify.com/album/5dHYwZp23m8hq9EF5lUQRd) | 2:15 |
 | 75 | [Bota a Cara no Beco](https://open.spotify.com/track/51ulUko156sTMuh2upjbMA) | [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [Grone](https://open.spotify.com/artist/6obeWNZwOJv7P9EzIvu9zt) | [ERREJOTACULTDRILL, Vol\. 1 \- Mal Vindas Amizades](https://open.spotify.com/album/4n1BCaULwTJKmB4kFVpWdw) | 3:26 |
 
-Snapshot ID: `MCxjNmU1ODY0MmRlOTY3YmZmZGVkZDUzZWIzOTc3YTAzNGRkZDUwYTll`
+Snapshot ID: `MCw4MjcyOTU3MDQxOGFiZTJmN2ExZjg4YjlmOWM0NTMyNTQzZmFiMmFm`

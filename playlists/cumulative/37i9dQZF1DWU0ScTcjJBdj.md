@@ -4,7 +4,7 @@
 
 > Let your worries and cares slip away.
 
-294 songs - 18 hr 58 min
+297 songs - 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [cold water](https://open.spotify.com/track/3keIh8QdhxlHQ0hsyDHrzA) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [cold water](https://open.spotify.com/album/0ygmFGHb9QLdOqsAfs6Nhe) | 3:53 | 2020-04-18 |  |
 | [Collecting Dust](https://open.spotify.com/track/0Tm0JeMRDBd4AZr13eDclx) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Collecting Dust](https://open.spotify.com/album/5rICmJCVw98Yuu3cA7ItA4) | 2:58 | 2022-06-08 |  |
 | [Cologne](https://open.spotify.com/track/4ld2TeVRlaYNHWzi52dWsZ) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Cologne](https://open.spotify.com/album/01klsU90FKuD0sf4kFvoDq) | 4:11 | 2019-05-26\* | 2020-03-07 |
-| [Colorblind](https://open.spotify.com/track/0t42LUez8kMVvVc9Y1Qug3) | [Craig Stickland](https://open.spotify.com/artist/6wBV2mHGWBe2Mz4jZJi21K) | [Colorblind](https://open.spotify.com/album/0Ox2mL98gTE60wISy50RvS) | 3:29 | 2023-03-24 |  |
+| [Colorblind](https://open.spotify.com/track/0t42LUez8kMVvVc9Y1Qug3) | [Craig Stickland](https://open.spotify.com/artist/6wBV2mHGWBe2Mz4jZJi21K) | [Colorblind](https://open.spotify.com/album/0Ox2mL98gTE60wISy50RvS) | 3:29 | 2023-03-24 | 2023-12-24 |
+| [Colorblind](https://open.spotify.com/track/21qk8gFPhUQamTVhqESPRZ) | [Craig Stickland](https://open.spotify.com/artist/6wBV2mHGWBe2Mz4jZJi21K) | [Colorblind](https://open.spotify.com/album/0zGP7g1TNQvYhHw2pzpdO9) | 3:29 | 2023-09-22 |  |
 | [Coming Down the Mountain](https://open.spotify.com/track/43bkejyRlzXjVGKvXYLHzg) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Coming Down the Mountain](https://open.spotify.com/album/0bDioLSH5nZjXpJLE9ZaUU) | 4:33 | 2019-05-26\* | 2022-01-08 |
 | [Crack The Case](https://open.spotify.com/track/2JtC5mhcW0RoTJGoVkfgB7) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Passwords](https://open.spotify.com/album/1EPqf0Bfgbm2iMnne0WLVx) | 5:54 | 2022-06-24 |  |
 | [Crack The Case](https://open.spotify.com/track/4MKTyMpljQlY0KQWLR8194) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Living In The Future / Crack The Case](https://open.spotify.com/album/7EoeiW6dthY3YdsWPd941G) | 5:54 | 2019-05-26\* | 2022-07-29 |
@@ -138,14 +139,16 @@
 | [Like Gold](https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:44 | 2022-06-24 |  |
 | [little light \- acoustic version](https://open.spotify.com/track/6PRotAx0lUWP0bHBr6jm42) | [Lewis Watson](https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R) | [little light \(acoustic version\)](https://open.spotify.com/album/5Ge3ITd23jArA863UlzHP9) | 4:16 | 2019-05-26\* | 2022-06-09 |
 | [look up](https://open.spotify.com/track/0oEji7lz6paMOdk97XEK4Z) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:33 | 2021-06-10 |  |
-| [Love and Chains](https://open.spotify.com/track/0nGmvNB4K3bSexD4xNaFgZ) | [Viv & Riley](https://open.spotify.com/artist/02eGekE35DrC5E0qH4kh3H) | [Love and Chains](https://open.spotify.com/album/4lvDFolhKDR42KqeDPPBvT) | 3:37 | 2021-07-29 |  |
+| [Love and Chains](https://open.spotify.com/track/0nGmvNB4K3bSexD4xNaFgZ) | [Viv & Riley](https://open.spotify.com/artist/02eGekE35DrC5E0qH4kh3H) | [Love and Chains](https://open.spotify.com/album/4lvDFolhKDR42KqeDPPBvT) | 3:37 | 2021-07-29 | 2023-12-24 |
+| [Love and Chains](https://open.spotify.com/track/5kQ69AMKeII7YLjdtTEmM9) | [Viv & Riley](https://open.spotify.com/artist/3lRPVZLqNprMmp9SrXrhcp) | [Vivian Leva & Riley Calcagno](https://open.spotify.com/album/3xwM9xDjO2nOTeC6VCwPUN) | 3:37 | 2023-09-22 |  |
 | [Love Anyway](https://open.spotify.com/track/0swFW9sHhCVS892gh8ec2L) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Love Anyway](https://open.spotify.com/album/1rwvzuvmzRe7OFynMY7jDe) | 3:03 | 2020-04-18 | 2023-06-11 |
 | [Love Anyway](https://open.spotify.com/track/5JPfqMCvGP1If64oTizuqa) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [It's Hard to Be Human](https://open.spotify.com/album/1vnZT6upil8XVg94ejhGk3) | 3:03 | 2023-05-19 |  |
 | [Matchbox](https://open.spotify.com/track/3zBpEVhApiaNAKOgy1rxY6) | [David Keenan](https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG) | [Strip Me Bare, Vol\. 2](https://open.spotify.com/album/0LLhVkWLfoUdCqSOEGeya8) | 4:10 | 2019-05-26\* | 2019-08-13 |
 | [Melatonin \(Unplugged\)](https://open.spotify.com/track/1IkjoLXB9LEf3w32Wk07X3) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Melatonin \(Unplugged\)](https://open.spotify.com/album/73FpjS6PTT3e4lRfWdsDuy) | 5:25 | 2019-05-26\* | 2020-06-04 |
 | [Mentiras Con Cariño](https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [Boleros Psicodélicos](https://open.spotify.com/album/2IjLewGcgMJMEAO5gHWwlG) | 3:48 | 2022-06-08 |  |
 | [Michigan Cherry](https://open.spotify.com/track/0fOEjjXBEiyu395pW3C1eo) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Monoflora](https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE) | 3:43 | 2022-06-08 |  |
-| [Microdose](https://open.spotify.com/track/1EdPgv2qJv1wu1zHsFfR1v) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK) | [Mermaid Salt](https://open.spotify.com/album/4cHIQEuXoRCoeIZZ8mmjdD) | 5:35 | 2022-06-08 |  |
+| [Microdose](https://open.spotify.com/track/1EdPgv2qJv1wu1zHsFfR1v) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK) | [Mermaid Salt](https://open.spotify.com/album/4cHIQEuXoRCoeIZZ8mmjdD) | 5:35 | 2022-06-08 | 2023-12-24 |
+| [Microdose](https://open.spotify.com/track/7MDHDuwPykADY9INqTIo8a) | [John Craigie](https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK) | [Mermaid Salt](https://open.spotify.com/album/0fFPacYkqcYkdPzaiP9RPN) | 5:35 | 2023-09-22 |  |
 | [Million Miles](https://open.spotify.com/track/4HyKk1YUaT3ORUFinxPeGj) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [When You're Ready](https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV) | 3:49 | 2019-07-10 | 2020-06-04 |
 | [Minimum](https://open.spotify.com/track/4FwaJmXeZxr1096KItcUQq) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Minimum](https://open.spotify.com/album/5oHD0TW5vl8qXVZJg0IKx3) | 3:14 | 2019-05-26\* | 2021-11-13 |
 | [Motion Sickness \(Demo \- Bonus Track\)](https://open.spotify.com/track/2JxSX1MtCIAxHGlas7ysJs) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/1p16WxrdVBNIAAxbpZMWJR) | 4:24 | 2019-05-26\* | 2019-08-13 |

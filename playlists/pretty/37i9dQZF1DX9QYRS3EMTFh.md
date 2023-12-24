@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Kalash
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,907 likes - 40 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,956 likes - 40 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 9 | [Bubble Up !](https://open.spotify.com/track/46ocF46SQZ1W0Nt3b5qnyc) | [DJ Mike One](https://open.spotify.com/artist/6iRCChjWCj187y6iBQVwhd), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd), [T\-Matt](https://open.spotify.com/artist/4TBNXLrjYTkQKZ88FFU2cm) | [Bubble Up !](https://open.spotify.com/album/7dlETfhOIDydsAnR8QBbfu) | 3:26 |
 | 10 | [Drift \(Remix\)](https://open.spotify.com/track/1CNquhNCNiX6le62xuq23D) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Drift \(Remix\)](https://open.spotify.com/album/5fJIM0swYvPJq8Pru6Aa7i) | 3:21 |
 | 11 | [Bad Barbie](https://open.spotify.com/track/0EldeQkAd3vWV7BEvT7oy3) | [Jahlys](https://open.spotify.com/artist/4AcFhqecUgQOUNmdcdngEq) | [Bad Barbie](https://open.spotify.com/album/5wTo4uAaEr5SGmxNBLqIo8) | 1:50 |
-| 12 | [Basshall Session \#3](https://open.spotify.com/track/1A9C5UhP7LocWVO5ycWsLb) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x) | [Basshall Session \#3](https://open.spotify.com/album/5VUd2RpxoXyxGehYhO7AVn) | 2:34 |
+| 12 | [Basshall Session \#3](https://open.spotify.com/track/1A9C5UhP7LocWVO5ycWsLb) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8) | [Basshall Session \#3](https://open.spotify.com/album/5VUd2RpxoXyxGehYhO7AVn) | 2:34 |
 | 13 | [Toxic](https://open.spotify.com/track/6ZSXbBz7FeFzxTKYCa18Rq) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS) | [Baby project](https://open.spotify.com/album/1blVOUqpdw9FH1RAuNSynO) | 2:35 |
 | 14 | [TKT PAS](https://open.spotify.com/track/794czLwx4ZNky1ltmguo8u) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [TKT PAS](https://open.spotify.com/album/5EtCIE7heSTXlbxPIefyyK) | 3:26 |
 | 15 | [Bouclier](https://open.spotify.com/track/3fX4PrdvLsr3uatsElEOE3) | [SAÏK](https://open.spotify.com/artist/395spUELWr54gJKYr3EE0I), [VAN'S](https://open.spotify.com/artist/38JkgtEuITG8pctyD9r0LE) | [Bouclier](https://open.spotify.com/album/7ampzSKM4JamAiI9fo5ksd) | 2:27 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 39 | [La La \(feat\. Suarez\)](https://open.spotify.com/track/7GlOrQ7xu2KbxWQKXQKcQA) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv), [Suarez](https://open.spotify.com/artist/6D40RuzdpIC5ip4yL2UUvD) | [La La \(feat\. Suarez\)](https://open.spotify.com/album/0WFGzRgEzfhQ6RDDkowkXc) | 3:42 |
 | 40 | [Tous Les Ken](https://open.spotify.com/track/1u3w1tpTUY108bIC4rLDvE) | [Gold Up](https://open.spotify.com/artist/5ht4EDZMGo7d1K4czZTUYa), [Elji](https://open.spotify.com/artist/6RwdeEwhjswv5OxNK5Dq0s) | [Tous Les Ken](https://open.spotify.com/album/2PMQ5myw3W0f5lRA5aZDDK) | 2:41 |
 
-Snapshot ID: `MCw3ZDQzZTdjZjdiMzk5ZWNhYWFhYTVjNTM2NTNiMWFiZTUyMjhhMzgy`
+Snapshot ID: `MCw2M2YzNzdmYTdjMDFjNDU1OTFjNDlkNzY0YWM2NzJlZGQ3NjgxMWJl`

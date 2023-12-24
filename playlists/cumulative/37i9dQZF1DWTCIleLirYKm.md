@@ -4,7 +4,7 @@
 
 > a state of mind.
 
-107 songs - 6 hr 19 min
+108 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,8 @@
 | [I'm Just an Old Chunk of Coal \(But I'm Gonna Be a Diamond Someday\)](https://open.spotify.com/track/0TOKl39WfOPXEvARhG92oj) | [Billy Joe Shaver](https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz) | [I'm Just an Old Chunk of Coal...But I'm Gonna Be a Diamond Someday](https://open.spotify.com/album/2xT7Iz0twqRnDbGCRLDygq) | 2:01 | 2023-04-14 |  |
 | [I'm Looking for Blue Eyes](https://open.spotify.com/track/6tpFpiVY3o657S33Nz22pD) | [Jessi Colter](https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v) | [Wanted! The Outlaws \(Expanded Edition\)](https://open.spotify.com/album/2QqTYCt0RbRC624nT607fV) | 2:16 | 2023-04-14 |  |
 | [I'm Not Lisa](https://open.spotify.com/track/2WQCzRvHubJxMIeCf2YhYG) | [Jessi Colter](https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v) | [I'm Jessi Colter](https://open.spotify.com/album/700kC30ThMEyenTwGfcOxa) | 3:23 | 2023-04-14 |  |
-| [I'm on Fire](https://open.spotify.com/track/3q0wgJXeUkhq2jeZ9JS7KN) | [Whitey Morgan and the 78's](https://open.spotify.com/artist/2bGK38Qvf603fcckzUYYui) | [Honky Tonks and Cheap Motels](https://open.spotify.com/album/1o1N0DtLWIl481bkYhs6Y0) | 3:16 | 2023-04-14 |  |
+| [I'm on Fire](https://open.spotify.com/track/3q0wgJXeUkhq2jeZ9JS7KN) | [Whitey Morgan and the 78's](https://open.spotify.com/artist/2bGK38Qvf603fcckzUYYui) | [Honky Tonks and Cheap Motels](https://open.spotify.com/album/1o1N0DtLWIl481bkYhs6Y0) | 3:16 | 2023-04-14 | 2023-12-24 |
+| [I'm on Fire](https://open.spotify.com/track/7MB9xkZ79XHYx8c6JYjFz6) | [Whitey Morgan and the 78's](https://open.spotify.com/artist/2bGK38Qvf603fcckzUYYui) | [Honky Tonks and Cheap Motels](https://open.spotify.com/album/2yYhCb5PJJkEM8eaCu4bFS) | 3:16 | 2023-12-22 |  |
 | [I'm the Only Hell \(Mama Ever Raised\)](https://open.spotify.com/track/73zqRPuK9AEBiy8X9XFJXR) | [Johnny Paycheck](https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD) | [Super Hits](https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3) | 3:06 | 2023-04-14 |  |
 | [Irma Jackson](https://open.spotify.com/track/5DsptWsLHllrarosNhVdQV) | [Merle Haggard & The Strangers](https://open.spotify.com/artist/3mSAqBoXQgdlpwzWsIgBzL) | [Down Every Road 1962\-1994](https://open.spotify.com/album/40Wi0Ej08sw9B4URIOabOI) | 2:27 | 2023-04-14 |  |
 | [John Beyers \(Camaro Song\)](https://open.spotify.com/track/66Ca5hnT9mxshajDCzLcfQ) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Songs of the Plains](https://open.spotify.com/album/6DzYh2Z00xNWG8wtfB6kIY) | 2:01 | 2023-06-02 |  |

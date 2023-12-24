@@ -1120,10 +1120,28 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 207160,
       "name": "Relegate",
       "url": "https://open.spotify.com/track/27G7UKBI4b3DLHXXWhNil5"
+    },
+    {
+      "album": {
+        "name": "Relegate",
+        "url": "https://open.spotify.com/album/6RJHE9yzHZbXmxkCEe2rMW"
+      },
+      "artists": [
+        {
+          "name": "Royal Tusk",
+          "url": "https://open.spotify.com/artist/122qG4lB9vG6XCjrwJPnRJ"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207160,
+      "name": "Relegate",
+      "url": "https://open.spotify.com/track/368lXXsAbFI1JCNY7v5w25"
     },
     {
       "album": {

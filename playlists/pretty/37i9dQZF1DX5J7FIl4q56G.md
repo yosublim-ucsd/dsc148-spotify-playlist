@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: Brand of Sacrifice
 
-[Spotify](https://open.spotify.com/user/spotify) - 713,054 likes - 59 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 713,080 likes - 59 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 8 | [Wish I Could Cry](https://open.spotify.com/track/5sH8NrFiSFEoYuGjzmAofE) | [Citizen Soldier](https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R), [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL) | [Wish I Could Cry](https://open.spotify.com/album/00GILBvoFXuKGg9uZjKaT8) | 2:47 |
 | 9 | [Right Side of Wrong](https://open.spotify.com/track/787VnvRnGZatxoIzv2yNkc) | [Mick Mars](https://open.spotify.com/artist/5zSvn5I6wIFwEgFxIIaqJc) | [Right Side of Wrong](https://open.spotify.com/album/4H1ejQ2JLKUgKy3bCgW9g1) | 3:14 |
 | 10 | [In Da Club](https://open.spotify.com/track/71YdqquS1ShWUiUfL7wXZE) | [Nik Nocturnal](https://open.spotify.com/artist/1Gc5ZiJhqjQQcfvMTSCa3q), [Fronzilla](https://open.spotify.com/artist/2JvkRVVvySroPAtnf3sEW3), [Bone Crew](https://open.spotify.com/artist/5HdDGoxAcepxiKl18maAit) | [In Da Club](https://open.spotify.com/album/1yVluEIHJ8WJlN9sT00SQH) | 3:04 |
-| 11 | [Casket of Rust](https://open.spotify.com/track/79uDCcS7UnIVSpGKDJcmh1) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Casket of Rust](https://open.spotify.com/album/2V1soNndfJC7B8i1vOT3yy) | 7:04 |
+| 11 | [Casket of Rust](https://open.spotify.com/track/3p63Cu4a1ViOqDU7T8feBD) | [Enterprise Earth](https://open.spotify.com/artist/1l3cAmALCtGbjWGVtRwhoh) | [Casket of Rust](https://open.spotify.com/album/5SfiHBsWzaeSCPNKepKKAw) | 7:04 |
 | 12 | [TWICE BORN](https://open.spotify.com/track/4MCq8x9jHxbwhwPq0OwRMS) | [Ihsahn](https://open.spotify.com/artist/2E1jLcUfqd9w2XtybNB2Za) | [TWICE BORN](https://open.spotify.com/album/2mEqvw1766qVpwZBGafMLt) | 3:37 |
 | 13 | [True Metal Maniacs](https://open.spotify.com/track/2ybLxA4t9APvlxjK0y8Wuu) | [Doro](https://open.spotify.com/artist/5GLeyUhj8B8f5pJxqZllKl) | [True Metal Maniacs](https://open.spotify.com/album/53asWeeD4G0U2dcLng30Ro) | 3:37 |
 | 14 | [Sequence \- Live from The Otherworldly Big Band Experience](https://open.spotify.com/track/5CT1BLuIY8aZDohvl5dDtJ) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [Sequence \(Live from The Otherworldly Big Band Experience\)](https://open.spotify.com/album/4fNdmxfmnFL1qbiwjc8mF7) | 6:51 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 58 | [Chainsaw Death](https://open.spotify.com/track/7HAudd8dJkzxSzgDZb8gCX) | [Horrifier](https://open.spotify.com/artist/6FIzAn8mX3wrOPk3oRnd6F) | [Horrid Resurrection](https://open.spotify.com/album/2ZoXycjsRGCtyPj6wFbGOJ) | 3:00 |
 | 59 | [The Iron Cross Burns](https://open.spotify.com/track/3dzSmF7YjEbeszhSROQS76) | [WITCHSNAKE](https://open.spotify.com/artist/5XlNY3iGKGx3DJchWk8QsN) | [Deathcult of the Snake](https://open.spotify.com/album/2NP1SBZRo5PmhuBYrdTEfL) | 5:11 |
 
-Snapshot ID: `MCwxZDM1NDcxNzg5MmEzMzE5MDc5YmEyZjNlMWQ2MTNhMjdhYWM4NTll`
+Snapshot ID: `MCxlNWU1MTBjMThlNTlhNWI1NjVmZGY5MmFkYzdiMDY2MTY3MGI2ODZk`

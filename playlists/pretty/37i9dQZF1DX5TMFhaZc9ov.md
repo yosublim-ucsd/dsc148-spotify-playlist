@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 
 > Lyrical\. Legit\. Folk, Americana, and Singer\-Songwriter music features LGBTQIA+ acts and allies\. Cover: Izzy Heltai
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,981 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,029 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 | 48 | [What if You](https://open.spotify.com/track/0nKimWXdewT5XCaL5wOstA) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [What if You](https://open.spotify.com/album/65TC3N9kNHYeLFt7hqaW5M) | 3:22 |
 | 49 | [snake](https://open.spotify.com/track/4K5pGnA0uiDLtipuoUbtPp) | [Sadurn](https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI) | [Radiator](https://open.spotify.com/album/5HskvGWXnVcfBg1K2Ff0nA) | 4:33 |
 | 50 | [I Can't Shake the Stranger Out of You](https://open.spotify.com/track/6YbMyIVPgdjomWFLuFxk9C) | [Lavender Country](https://open.spotify.com/artist/3UAkA4R9JwTDsWSvtKqJtP) | [Lavender Country](https://open.spotify.com/album/4Tw0CuP1RixX0fDBZx3Cvq) | 2:39 |
-| 51 | [You're Still My Love](https://open.spotify.com/track/0auPX06PfrehkJClLpH4cG) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [Daddy's Country Gold](https://open.spotify.com/album/1b6lBkE4XKAGB8hGl8C57n) | 3:37 |
+| 51 | [You're Still My Love](https://open.spotify.com/track/7lyoC3YpHvrgdXGQiyWzSW) | [Melissa Carper](https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX) | [Daddy's Country Gold](https://open.spotify.com/album/0lr7pYLdjcI4MRXIW1ucfI) | 3:37 |
 | 52 | [Bed of Bad Luck](https://open.spotify.com/track/1rdoKO7Q1TMMP1vvGcdiQ2) | [Little Bandit](https://open.spotify.com/artist/3ZcpzDeDdqeqO3aWU3IN4y) | [Breakfast Alone](https://open.spotify.com/album/6vRs199Mg5jUHA4W0tfXPV) | 3:27 |
 | 53 | [Just A Woman](https://open.spotify.com/track/6CwZv215C5uYwW277JsrLu) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U), [Jessi Colter](https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v) | [Just A Woman](https://open.spotify.com/album/5qPSuH0qcPnDv2q7HfDM5I) | 4:16 |
 | 54 | [The Fear of Losing This](https://open.spotify.com/track/1h44AOekmUQtwtSpMZ9S2t) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [If Blue Could Be Happiness](https://open.spotify.com/album/0EB4zV2Vfi0FeM6jZNOO87) | 3:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 | 99 | [Illuminate the Dark](https://open.spotify.com/track/2hgw4ZGGLwObz7a89jnyhZ) | [Tom Goss](https://open.spotify.com/artist/1zLAXcROEhMZL9IhVu5Vvh) | [Wait](https://open.spotify.com/album/5BqkJ6970fStH2JCAzKcnf) | 2:43 |
 | 100 | [All\-American Boy](https://open.spotify.com/track/7i2xzOJU1O7hrP8kqqBchZ) | [Steve Grand](https://open.spotify.com/artist/0oqk73d6vKVx8Ekz4onThW) | [All American Boy](https://open.spotify.com/album/40nTEfg3tTj1bptrG7IQU0) | 4:57 |
 
-Snapshot ID: `MCxjNGU0NzhmM2RjOTJjNWE3MjQ4MjliZjM3Y2RjNzI3M2Q4YjMwMjRh`
+Snapshot ID: `MCxjNTkyZWE2Zjc0OTM0MGViN2I5Njg1OWIwNTVhMWY3MTNkMDU0OWZj`

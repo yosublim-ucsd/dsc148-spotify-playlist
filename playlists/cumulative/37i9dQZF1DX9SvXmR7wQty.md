@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Lost
 
-2,241 songs - 4 day 23 hr 41 min
+2,242 songs - 4 day 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,7 +289,7 @@
 | [C'était salement romantique \- Reprise](https://open.spotify.com/track/6gdBIxmojnm85w2VpFcP8p) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [C'était salement romantique \(Reprise\)](https://open.spotify.com/album/2RyqxGld3TAwD7iv0RNMRM) | 3:08 | 2023-11-24 | 2023-12-09 |
 | [C\-17](https://open.spotify.com/track/0yojSTPb2OqxzP30mDcPCU) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [C\-17](https://open.spotify.com/album/1D5vGnjjpXVo5sSW5OMiAc) | 2:52 | 2023-01-13 | 2023-01-28 |
 | [C00N](https://open.spotify.com/track/4wJyyhwG8ZeESwPVR9mKg2) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [C00N: la prophétie](https://open.spotify.com/album/672gWjyvSXba4DbO2p6JrS) | 3:01 | 2022-10-21 | 2022-11-05 |
-| [Cabeza](https://open.spotify.com/track/0KsAixZGfxIHIt4evkBkit) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Cabeza](https://open.spotify.com/album/0OtbUuSwEoGO7vyz8vbN9n) | 2:54 | 2023-12-08 |  |
+| [Cabeza](https://open.spotify.com/track/0KsAixZGfxIHIt4evkBkit) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Cabeza](https://open.spotify.com/album/0OtbUuSwEoGO7vyz8vbN9n) | 2:54 | 2023-12-08 | 2023-12-24 |
 | [CALI](https://open.spotify.com/track/5nkgFuu8rzLZVaKIY4Fdwc) | [Lewis Dice](https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea) | [FILM!](https://open.spotify.com/album/2v4IcRJ0F24UuukJOFIjY7) | 2:31 | 2022-02-04 | 2022-02-19 |
 | [Cali \(Ayayaye\)](https://open.spotify.com/track/5jvuNeTQI7q78Ki4iWAEHT) | [Xavier Euphory](https://open.spotify.com/artist/0uHOElDo0UUKXn6LzLS2Wg) | [Cali \(Ayayaye\)](https://open.spotify.com/album/7A5iYPRldfzUvFVIg7pbvV) | 2:31 | 2022-01-07 | 2022-01-22 |
 | [Call on me \(feat\. Ed Sheeran\)](https://open.spotify.com/track/2RO4aPByijQUqBZhYm1apz) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Call on me \(feat\. Ed Sheeran\)](https://open.spotify.com/album/23uCYiDGcfNkrKbGAfMTLx) | 3:20 | 2022-10-07 | 2022-10-22 |
@@ -2030,6 +2030,7 @@
 | [Toxique](https://open.spotify.com/track/5iOqSItx90udNnb61yWt6M) | [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3) | [Toxique](https://open.spotify.com/album/4JFsnQN0r0JxAIIA9CdIL0) | 2:30 | 2022-06-10 | 2022-06-18 |
 | [TP](https://open.spotify.com/track/4aslqUfhnz7lYd8mEMIToq) | [Sadek](https://open.spotify.com/artist/63MCBZRiUdnqRsAOJwijiB), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Ouvert tout l'été](https://open.spotify.com/album/7LfBmtNJPmxMReRrUHPzxB) | 2:58 | 2023-06-16 | 2023-08-26 |
 | [Tracer des lignes](https://open.spotify.com/track/37nelpJO6CHNhl9tOvuTDB) | [oui merci](https://open.spotify.com/artist/6XUr1bWIBVkLmXHySucgyr) | [Tracer des lignes](https://open.spotify.com/album/7xty3TrdI151JCmI6tO35v) | 3:09 | 2023-09-29 | 2023-10-07 |
+| [Traficante](https://open.spotify.com/track/3FVL6UdXArRuGsqGNd3VZj) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Traficante](https://open.spotify.com/album/5OXVwHfLjaMqr7cFwwUQBV) | 2:56 | 2023-12-22 |  |
 | [Trait d'union](https://open.spotify.com/track/3MPu4eRKLkV6HOb1Ac8YsV) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [Trait d'union](https://open.spotify.com/album/4aQNQZ4nwVCZDqgBFGj4A3) | 4:05 | 2023-08-25 | 2023-09-02 |
 | [Tralala](https://open.spotify.com/track/0iLVqqB6eQGyvQnQ1QcLGx) | [La Bottine Souriante](https://open.spotify.com/artist/7ba7eFah7fB6SbgnSufYBJ) | [Tralala](https://open.spotify.com/album/4XXJC6DVgxRnbdcTfJTQXV) | 4:23 | 2023-10-20 | 2023-10-30 |
 | [Transfert Trottinette](https://open.spotify.com/track/4HDdOkOcPcXN4STjisEEfL) | [Bilal Hassani](https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW) | [Transfert Trottinette](https://open.spotify.com/album/0F8odSiMiq1pxy9ddu9Nah) | 2:39 | 2022-07-22 | 2022-08-20 |

@@ -4,7 +4,7 @@
 
 > Our editors' picks for the best Folk & Americana songs this year\. Cover: Noah Kahan
 
-292 songs - 17 hr 59 min
+293 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,7 +269,8 @@
 | [too young to die](https://open.spotify.com/track/1gHdpWRFGZKjB9AljkGtWV) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [supernatural thing](https://open.spotify.com/album/0BGmSkiDyPxghWbyYKnBHG) | 4:34 | 2023-11-29 |  |
 | [Tough Love](https://open.spotify.com/track/4FG86wYpIjIl5NrOr79Fxf) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Flyte](https://open.spotify.com/album/1HGUCTBuqr8TU9Z9m4xh1k) | 3:01 | 2023-11-29 |  |
 | [Tres Hermanos](https://open.spotify.com/track/4TesXLELrAp8TPGHckP6Ap) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [El Bueno Y El Malo](https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ) | 3:21 | 2022-11-30 | 2023-11-30 |
-| [Two Heads, Grey Mare](https://open.spotify.com/track/7hbxC92Qr34lDZQWLiBuKh) | [Cinder Well](https://open.spotify.com/artist/6BJ7iUkCa68mX6UnFBwzsV) | [Cadence](https://open.spotify.com/album/3JbWIzI320YwRDOY3EoRSG) | 4:41 | 2023-11-29 |  |
+| [Two Heads, Grey Mare](https://open.spotify.com/track/7hbxC92Qr34lDZQWLiBuKh) | [Cinder Well](https://open.spotify.com/artist/6BJ7iUkCa68mX6UnFBwzsV) | [Cadence](https://open.spotify.com/album/3JbWIzI320YwRDOY3EoRSG) | 4:41 | 2023-11-29 | 2023-12-24 |
+| [Two Heads, Grey Mare](https://open.spotify.com/track/4Rxt20xtEiEJWB5CTRRNbb) | [Cinder Well](https://open.spotify.com/artist/6BJ7iUkCa68mX6UnFBwzsV) | [Cadence](https://open.spotify.com/album/5FkjAV7AiEFbdtRbsq2hrT) | 4:41 | 2023-11-29 |  |
 | [Unknown / Nth](https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:40 | 2023-11-29 |  |
 | [Until You](https://open.spotify.com/track/6ik18Wyrj1cnmY11KTL3N1) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:18 | 2021-12-01 | 2022-12-01 |
 | [Until You \- Acoustic](https://open.spotify.com/track/1o9uKYNkCBRz1yqfx8HUrt) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect \(Deluxe\)](https://open.spotify.com/album/15utleqV2llYGHYuD72rs8) | 3:17 | 2022-11-30 | 2023-11-30 |

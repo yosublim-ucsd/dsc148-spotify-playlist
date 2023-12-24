@@ -640,7 +640,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 145037,
       "name": "MONTAGEM CORAL",
       "url": "https://open.spotify.com/track/5xnWaCA2uZkwxApShLNMs2"
@@ -852,7 +852,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-24",
       "duration_ms": 131499,
       "name": "S l e i g h B e l l s",
       "url": "https://open.spotify.com/track/2GNjDTb4E4oWPkx3i2HUKm"
@@ -910,6 +910,28 @@
       "duration_ms": 139807,
       "name": "Si No Est\u00e1s - Sped Up",
       "url": "https://open.spotify.com/track/61tCa29zrdJ6y2WbgGlHLv"
+    },
+    {
+      "album": {
+        "name": "Xmas Trap Remixes Vol. 1",
+        "url": "https://open.spotify.com/album/720SkHqWc9XG5mo4pOPVgn"
+      },
+      "artists": [
+        {
+          "name": "Trap City",
+          "url": "https://open.spotify.com/artist/78D8GHzW7QisjfTwhk9PM2"
+        },
+        {
+          "name": "The Ronettes",
+          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131134,
+      "name": "Sleigh Bells (PhatCap! Trap Remix)",
+      "url": "https://open.spotify.com/track/5np8yrLEBsIwaueraz74yS"
     },
     {
       "album": {
@@ -1026,6 +1048,28 @@
       "duration_ms": 134841,
       "name": "Vengeance",
       "url": "https://open.spotify.com/track/026clk0faUVTcKox0d2JCE"
+    },
+    {
+      "album": {
+        "name": "Vois",
+        "url": "https://open.spotify.com/album/5clbexGhDsBVC5BEvF3aEl"
+      },
+      "artists": [
+        {
+          "name": "Royal FORM",
+          "url": "https://open.spotify.com/artist/3UIYck0iOdYyWIxgQDofqJ"
+        },
+        {
+          "name": "TheExorcist",
+          "url": "https://open.spotify.com/artist/4RP2lKGYgYkC0TUiTT2JTR"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145055,
+      "name": "Vois",
+      "url": "https://open.spotify.com/track/4g7mLvC3rLceMEnWROVJK6"
     },
     {
       "album": {
