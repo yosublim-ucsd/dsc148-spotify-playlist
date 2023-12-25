@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > JULEN PÅ FYRA HJUL ÄR HÄR!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,971 likes - 100 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,006 likes - 100 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [GPS](https://open.spotify.com/track/1raTAM5ZcDppB3x7CtDjF9) | [PERZZONA](https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC) | [GPS](https://open.spotify.com/album/7wR0oq6vSBW4tBjYgHL01k) | 2:40 |
 | 100 | [NÄTTERNA PÅ SMÖGEN](https://open.spotify.com/track/20y6dLrUf6pcyhQ0C0baRx) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6), [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C), [RIK1](https://open.spotify.com/artist/0YnSx8xXces528yeQtNRuz) | [NÄTTERNA PÅ SMÖGEN](https://open.spotify.com/album/0S97r72koBAgUPWmole90S) | 2:34 |
 
-Snapshot ID: `MCw3YTU1MzkxZmVkZmUxNzM2MGYwODM2ZGQ2Y2U1NzFjZmI1NTUwYjBl`
+Snapshot ID: `MCw0MGMxYjk1OTQ2MzcxZWFiZWVjMjBhYjVmMGU4OGNiZjUyNGI5ZmEw`

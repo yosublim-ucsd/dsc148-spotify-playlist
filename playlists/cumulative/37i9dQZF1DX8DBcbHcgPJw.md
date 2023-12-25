@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Marama, MYA & Robleis.
 
-455 songs - 22 hr 39 min
+456 songs - 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,7 +377,7 @@
 | [Te Conozco / Te Extraño Te Olvido Te Amo / Me Dedique a Perderte](https://open.spotify.com/track/5LtwSwkkWZ3QGdrpcf6gHh) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3), [Locho](https://open.spotify.com/artist/187Mm9XkT2XrJNPzRN5akm) | [Te Conozco / Te Extraño Te Olvido Te Amo / Me Dedique a Perderte](https://open.spotify.com/album/4rPgckceMkw5f90Dk6055G) | 6:07 | 2022-07-29 | 2022-08-07 |
 | [Te Digo Adios](https://open.spotify.com/track/3Q3QScOdp6oBTqCN4PkDOp) | [Sentimiento Urbano](https://open.spotify.com/artist/4fb7ulRyWNBolty2fvgaBx) | [Te Digo Adios](https://open.spotify.com/album/4r580obRkuoYxHNi9np9XD) | 3:19 | 2022-10-27 | 2022-10-29 |
 | [Te Escapas De Mis Brazos](https://open.spotify.com/track/5RAIRR63s7Xz23k2JyMd49) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM) | [Y Si Estás Perseguido...!](https://open.spotify.com/album/5g9KwuwR7JYhTHbjEBZGhn) | 2:41 | 2023-03-10 | 2023-04-06 |
-| [Te Escapas De Mis Brazos](https://open.spotify.com/track/2sSWZSjYU38Hmy32P6ECt8) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM) | [Y Si Estás Perseguido...!](https://open.spotify.com/album/4UeRqgzWD9WsGWpbpsiAeq) | 2:41 | 2023-04-10 |  |
+| [Te Escapas De Mis Brazos](https://open.spotify.com/track/2sSWZSjYU38Hmy32P6ECt8) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM) | [Y Si Estás Perseguido...!](https://open.spotify.com/album/4UeRqgzWD9WsGWpbpsiAeq) | 2:41 | 2023-04-10 | 2023-12-25 |
 | [Te Extraño :\(](https://open.spotify.com/track/5Lg7nUobqmANgJAnb8XHWo) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Te Extraño :\(](https://open.spotify.com/album/7sRJzszfNpe3RjjTgNovwZ) | 2:45 | 2021-12-23 | 2022-07-25 |
 | [Te Lo Pido Por Favor](https://open.spotify.com/track/5DI2S4qWWBDOmx6uJgovlX) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Te Lo Pido Por Favor](https://open.spotify.com/album/0NXkTQhPxileRUCmRSvIYc) | 3:14 | 2023-12-15 |  |
 | [Te Mentiria](https://open.spotify.com/track/6P6t6EGO1dNQyAKuQDM04Q) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Laguna](https://open.spotify.com/artist/5AEQ9NQK8LJSpUzhuJga5u) | [Te Mentiria](https://open.spotify.com/album/6qcD5tpaqXTW8Kpz3WoZ1W) | 3:03 | 2023-06-30 | 2023-07-08 |
@@ -449,6 +449,7 @@
 | [Ya Fue](https://open.spotify.com/track/5KcHM0MeRD80BSrsv7Ofas) | [KEPÁ](https://open.spotify.com/artist/5a42D6pc8V0pLSEp5IVSLJ) | [Ya Fue](https://open.spotify.com/album/7MDpxFAQsap0rcim87rxFg) | 2:06 | 2022-08-19 | 2022-08-23 |
 | [Ya No Llora](https://open.spotify.com/track/6aMgqUHmyLs5vnyaV98HID) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Ya No Llora](https://open.spotify.com/album/0zTrVUiVr9kDjeeZrFX7sS) | 2:00 | 2021-12-23 |  |
 | [Ya No Me Busques Mas](https://open.spotify.com/track/35dWddcU7c8iyXqthtCabc) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Ya No Me Busques Mas](https://open.spotify.com/album/7oHtJXroOD0BzogndSZsYS) | 3:25 | 2022-01-03 | 2022-07-15 |
+| [Ya no me duele :,\)](https://open.spotify.com/track/6gT5ISEKzUVT8eTy0f3GvU) | [Bauti Mascia](https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG), [Cele Arrabal](https://open.spotify.com/artist/36GC5ob1mWpu07UpvMAYnl) | [Ya no me duele :,\)](https://open.spotify.com/album/0jJ0wlC1Or8aSdURo1TBWp) | 2:37 | 2023-12-22 |  |
 | [Ya No Más](https://open.spotify.com/track/4gQG2Ic7hnJMAcqunk4ERT) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB), [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [Ya No Más](https://open.spotify.com/album/1QLVTUnZKiixvasfNSqzCl) | 2:38 | 2021-12-23 |  |
 | [Ya No Más](https://open.spotify.com/track/1NMPzsPosYJD13wunBmEAH) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Ya No Más](https://open.spotify.com/album/1SnDAxojz0thet0EtNwP7e) | 2:20 | 2023-11-17 |  |
 | [Ya No Queda Nada \- Remix](https://open.spotify.com/track/6HB804YNEstMYi4eRnbJk0) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn), [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS), [Kaele DJ](https://open.spotify.com/artist/0uKyDdxjT3KId4PGNZOoN4) | [Ya No Queda Nada \(Remix\)](https://open.spotify.com/album/5MRsCkHLFdr723Wd18uOrx) | 2:49 | 2022-03-18 | 2022-05-20 |

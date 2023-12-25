@@ -59,7 +59,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists <a name="playlists"></a> \(7256\)
+## Playlists <a name="playlists"></a> \(7258\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -894,6 +894,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Bim bam pop](/playlists/pretty/37i9dQZF1DXdfnXsbPOz9Z.md)
 - [Binaural Beats: Deeper Sleep](/playlists/pretty/37i9dQZF1DWYILo9WhOOw6.md)
 - [Binaural Beats: Focus](/playlists/pretty/37i9dQZF1DX7EF8wVxBVhG.md)
+- [Binaural Beats: Meditation](/playlists/pretty/37i9dQZF1DX5Tgh3tlyc3X.md)
 - [Binaural Beats: Mindfulness](/playlists/pretty/37i9dQZF1DX2KtT8t49L8p.md)
 - [Binaural Beats: Relaxation](/playlists/pretty/37i9dQZF1DXdEXNUSgdc3s.md)
 - [Binaural Beats: Sleep](/playlists/pretty/37i9dQZF1DX8h3zQNo57xG.md)
@@ -5632,6 +5633,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [This Is Ken Carson](/playlists/pretty/37i9dQZF1DZ06evO1Tr1Hs.md)
 - [This Is Kendrick Lamar](/playlists/pretty/37i9dQZF1DX5EkyRFIV92g.md)
 - [This Is Kenia OS](/playlists/pretty/37i9dQZF1DZ06evO1KBgha.md)
+- [This Is Kenny G](/playlists/pretty/37i9dQZF1DZ06evO3XRXXy.md)
 - [This Is Kevin Kaarl](/playlists/pretty/37i9dQZF1DX90ydyyRfDqC.md)
 - [This Is Kidz Bop Kids](/playlists/pretty/37i9dQZF1DZ06evO15qSjK.md)
 - [This Is Kierra Sheard](/playlists/pretty/37i9dQZF1DZ06evO2EDOAw.md)

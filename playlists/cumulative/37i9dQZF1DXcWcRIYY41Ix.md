@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Yoly Saa.
 
-492 songs - 1 day 5 hr 48 min
+493 songs - 1 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A la Primera](https://open.spotify.com/track/3MsD0RrlQb1OoPFInlQoJy) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [De Canciones Tristes y Otras Sutilezas](https://open.spotify.com/album/4pYSsYWtj0fPzTXF5tES60) | 2:41 | 2022-01-14 | 2022-07-23 |
 | [A Medio Camino](https://open.spotify.com/track/2vC9Mj3hcLo6gpLSKWONvR) | [Averías](https://open.spotify.com/artist/1IyoBgQQHhhmXKQBTbzpA8) | [A Medio Camino](https://open.spotify.com/album/3033huz0Hl5KYYPH0LXkQS) | 2:50 | 2021-12-24 | 2022-01-01 |
 | [A Mi Manera](https://open.spotify.com/track/5tFCHPbtz4plGwDnH2b1QV) | [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [A Mi Manera](https://open.spotify.com/album/2LCxdI17sy3zG5FG7RwXHs) | 4:00 | 2022-04-25 |  |
-| [A volar \(feat\. Lido Pimienta\)](https://open.spotify.com/track/5KnFKXycHFZhchoOjFASU1) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [A volar \(feat\. Lido Pimienta\)](https://open.spotify.com/album/39dGTpmBPRDjT0NRpnyoOO) | 3:37 | 2021-12-24 |  |
+| [A volar \(feat\. Lido Pimienta\)](https://open.spotify.com/track/5KnFKXycHFZhchoOjFASU1) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [A volar \(feat\. Lido Pimienta\)](https://open.spotify.com/album/39dGTpmBPRDjT0NRpnyoOO) | 3:37 | 2021-12-24 | 2023-12-25 |
 | [abril y mayo](https://open.spotify.com/track/2fuskS7S2Bmz2hmR7dxPQK) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [abril y mayo](https://open.spotify.com/album/6TJb3LPI6maq3gsRpdwNWa) | 2:00 | 2023-02-24 | 2023-03-18 |
 | [Acantilado](https://open.spotify.com/track/2hTKVVpy3eZen3OVgfeIOR) | [Cala](https://open.spotify.com/artist/6g6FL64oqvd0338u2g7vZt) | [Acantilado](https://open.spotify.com/album/1c9zckSeWZnt4SOQgCPMJ3) | 3:53 | 2023-06-30 | 2023-08-05 |
 | [Acepto](https://open.spotify.com/track/0zqNBJ162qCK8oupuvzPt2) | [Paula Grande](https://open.spotify.com/artist/6NRB0LxYAAYKtbSOTB7m8M) | [Acepto](https://open.spotify.com/album/7uX4XUwFWuvbOY3Tb73ZvK) | 3:19 | 2022-04-01 | 2022-04-20 |
@@ -109,6 +109,7 @@
 | [Condenada](https://open.spotify.com/track/4S3EogdoSuj7kFJYEsxWxq) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [Condenada](https://open.spotify.com/album/1NLWAbskSfGUvgKZSzJ40d) | 2:49 | 2023-12-11 |  |
 | [Contacto Directo](https://open.spotify.com/track/5dZ4bUdscVr4lr3iNVfvYW) | [Noelia Recalde](https://open.spotify.com/artist/26O45xhjbZjSY8vubvACRv) | [P A L A B R A](https://open.spotify.com/album/5YOEvlFVR8UxB90TOvMHds) | 3:21 | 2021-12-24 | 2022-12-03 |
 | [Coplas \(feat\. Perotá Chingó\)](https://open.spotify.com/track/2kkyLncwbTHKUL2JYmOmY9) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [La Sangre del Mundo](https://open.spotify.com/album/4evmLCkaMMRzMxZXHYHG3H) | 4:24 | 2021-12-24 |  |
+| [Coraje](https://open.spotify.com/track/7sSwZjHuVizoX7SrOMLa8G) | [Carla Collado](https://open.spotify.com/artist/4Fh3faF6TO5bKFMGChmE9S) | [Coraje](https://open.spotify.com/album/0h7ULBfNwNF1GLiqAwfk8R) | 3:41 | 2023-12-22 |  |
 | [Corazoncito Mío](https://open.spotify.com/track/5FvSpXevbWSTjeGMoYxlDi) | [María Cristina Plata](https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc) | [Como el Mar](https://open.spotify.com/album/1gFlYmZaY1CHMGjoD06AJY) | 3:15 | 2021-12-24 | 2023-08-19 |
 | [corazón caramelo](https://open.spotify.com/track/7l6IETTWscYOYcqjgy27yj) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [corazón caramelo](https://open.spotify.com/album/1LHcIXM8IPz3TuTXlhinSd) | 2:37 | 2023-06-02 | 2023-06-24 |
 | [Corazón Ruidoso](https://open.spotify.com/track/2tfzdblmcuXHAcEAEeYD9d) | [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [Corazón Ruidoso](https://open.spotify.com/album/21M2BIe7zTSPUVYbTSrvtS) | 3:17 | 2022-03-04 | 2022-04-09 |

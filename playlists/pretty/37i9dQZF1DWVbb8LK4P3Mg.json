@@ -1,12 +1,12 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! Here's a collection of Korean Christmas tunes by K-Pop artists. (Cover: NCT 127)",
-  "num_followers": 123750,
+  "num_followers": 125671,
   "original_name": "Christmas K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjlmOTE5ZTg1ZDE2MDBlMzY3YjRjYzI3MmFjNDUzYzA4ZjUwZTgx",
+  "snapshot_id": "MCwxNGQwZTE1NTE4MGNmMDY1MWMyMTFlM2U4MmQ5MjI5NmJmNWEwNTY4",
   "tracks": [
     {
       "added_at": "2023-12-22 09:00:00",
@@ -227,8 +227,8 @@
     {
       "added_at": "2023-12-22 09:00:00",
       "album": {
-        "name": "Butter (Holiday Remix)",
-        "url": "https://open.spotify.com/album/4cmHvSMDrSRe2sLodew8sV"
+        "name": "Dynamite (Holiday Remix)",
+        "url": "https://open.spotify.com/album/2JBcpvNYviZ9VYva3jRPsd"
       },
       "artists": [
         {
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 161894,
-      "name": "Butter (Holiday Remix)",
-      "url": "https://open.spotify.com/track/3IA9LkBEVhJDOxOnh1nf8a"
+      "duration_ms": 213314,
+      "name": "Dynamite - Holiday Remix",
+      "url": "https://open.spotify.com/track/71g5YNZv9ysuAZVPuxOmiC"
     },
     {
       "added_at": "2023-12-22 09:00:00",
@@ -399,8 +399,8 @@
     {
       "added_at": "2023-12-22 09:00:00",
       "album": {
-        "name": "Dynamite (Holiday Remix)",
-        "url": "https://open.spotify.com/album/2JBcpvNYviZ9VYva3jRPsd"
+        "name": "Butter (Holiday Remix)",
+        "url": "https://open.spotify.com/album/4cmHvSMDrSRe2sLodew8sV"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 213314,
-      "name": "Dynamite - Holiday Remix",
-      "url": "https://open.spotify.com/track/71g5YNZv9ysuAZVPuxOmiC"
+      "duration_ms": 161894,
+      "name": "Butter (Holiday Remix)",
+      "url": "https://open.spotify.com/track/3IA9LkBEVhJDOxOnh1nf8a"
     },
     {
       "added_at": "2023-12-22 09:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-12-22 09:00:00",
       "album": {
-        "name": "MUST HAVE",
-        "url": "https://open.spotify.com/album/0p1vF2SctjpmMLekoIBEcO"
-      },
-      "artists": [
-        {
-          "name": "ATBO",
-          "url": "https://open.spotify.com/artist/3bwO3gNZVmHwaBttv739g7"
-        }
-      ],
-      "duration_ms": 196920,
-      "name": "Must Have Love",
-      "url": "https://open.spotify.com/track/3fixP4VxUKRRg7i8WeViuL"
-    },
-    {
-      "added_at": "2023-12-22 09:00:00",
-      "album": {
         "name": "Lonely Christmas",
         "url": "https://open.spotify.com/album/6EdZ5jg5tJ0vV97VzXFG7a"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 233025,
       "name": "Merry-Go-Round (Christmas Edition)",
       "url": "https://open.spotify.com/track/67s1NKEYHGfhyGhAgnlg6e"
+    },
+    {
+      "added_at": "2023-12-22 09:00:00",
+      "album": {
+        "name": "MUST HAVE",
+        "url": "https://open.spotify.com/album/0p1vF2SctjpmMLekoIBEcO"
+      },
+      "artists": [
+        {
+          "name": "ATBO",
+          "url": "https://open.spotify.com/artist/3bwO3gNZVmHwaBttv739g7"
+        }
+      ],
+      "duration_ms": 196920,
+      "name": "Must Have Love",
+      "url": "https://open.spotify.com/track/3fixP4VxUKRRg7i8WeViuL"
     },
     {
       "added_at": "2023-12-22 09:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-12-22 09:00:00",
       "album": {
-        "name": "YAOKI Project part.1",
-        "url": "https://open.spotify.com/album/5RKzrEffa0PoaM4VHUFSH9"
-      },
-      "artists": [
-        {
-          "name": "Weeekly",
-          "url": "https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Happy Christmas",
-      "url": "https://open.spotify.com/track/576nYROzQH5gkjBSn0S15u"
-    },
-    {
-      "added_at": "2023-12-22 09:00:00",
-      "album": {
         "name": "Everyday Christmas",
         "url": "https://open.spotify.com/album/4tG1cwsF9tq2ieqVSVo3h2"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 188493,
       "name": "Everyday Christmas",
       "url": "https://open.spotify.com/track/3jImLeLoNu74fDyftw2Wuc"
+    },
+    {
+      "added_at": "2023-12-22 09:00:00",
+      "album": {
+        "name": "YAOKI Project part.1",
+        "url": "https://open.spotify.com/album/5RKzrEffa0PoaM4VHUFSH9"
+      },
+      "artists": [
+        {
+          "name": "Weeekly",
+          "url": "https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Happy Christmas",
+      "url": "https://open.spotify.com/track/576nYROzQH5gkjBSn0S15u"
     },
     {
       "added_at": "2023-12-22 09:00:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-12-22 09:00:00",
       "album": {
-        "name": "One More Christmas",
-        "url": "https://open.spotify.com/album/3lPMJJ43ldTBxyH7chPGsp"
-      },
-      "artists": [
-        {
-          "name": "Jessica",
-          "url": "https://open.spotify.com/artist/7jPVuaaHLs4QVSuN561jZt"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "One More Christmas - English Version",
-      "url": "https://open.spotify.com/track/4WZLM2PrAUoGdPkQajUBkC"
-    },
-    {
-      "added_at": "2023-12-22 09:00:00",
-      "album": {
         "name": "I Need You",
         "url": "https://open.spotify.com/album/6lxrVgsLIypewMYdY2DURL"
       },
@@ -1391,18 +1375,18 @@
     {
       "added_at": "2023-12-22 09:00:00",
       "album": {
-        "name": "Another Sad Love Song",
-        "url": "https://open.spotify.com/album/0gOhggWveoOEbmB0YjaZrE"
+        "name": "One More Christmas",
+        "url": "https://open.spotify.com/album/3lPMJJ43ldTBxyH7chPGsp"
       },
       "artists": [
         {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+          "name": "Jessica",
+          "url": "https://open.spotify.com/artist/7jPVuaaHLs4QVSuN561jZt"
         }
       ],
-      "duration_ms": 184772,
-      "name": "Let Me Know - Bonus Track",
-      "url": "https://open.spotify.com/track/5iEFTzTm71gxXJnbNfHCAt"
+      "duration_ms": 212893,
+      "name": "One More Christmas - English Version",
+      "url": "https://open.spotify.com/track/4WZLM2PrAUoGdPkQajUBkC"
     },
     {
       "added_at": "2023-12-22 09:00:00",
@@ -1443,18 +1427,18 @@
     {
       "added_at": "2023-12-22 09:00:00",
       "album": {
-        "name": "Letters to Santa",
-        "url": "https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0"
+        "name": "Another Sad Love Song",
+        "url": "https://open.spotify.com/album/0gOhggWveoOEbmB0YjaZrE"
       },
       "artists": [
         {
-          "name": "DeVita",
-          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
         }
       ],
-      "duration_ms": 118705,
-      "name": "Santa, Give Me What I Need",
-      "url": "https://open.spotify.com/track/2vj3Iau5rMHiNMgQB1LTcl"
+      "duration_ms": 184772,
+      "name": "Let Me Know - Bonus Track",
+      "url": "https://open.spotify.com/track/5iEFTzTm71gxXJnbNfHCAt"
     },
     {
       "added_at": "2023-12-22 09:00:00",
@@ -1495,18 +1479,18 @@
     {
       "added_at": "2023-12-22 09:00:00",
       "album": {
-        "name": "Maybe Christmas (Orchestra Version)",
-        "url": "https://open.spotify.com/album/45v0kfxliXgedtXPVCtqr2"
+        "name": "Letters to Santa",
+        "url": "https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0"
       },
       "artists": [
         {
-          "name": "Yiruma",
-          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
         }
       ],
-      "duration_ms": 303297,
-      "name": "Maybe Christmas - Orchestra Version",
-      "url": "https://open.spotify.com/track/3rFpFKkRZ62lHyRByZbNUj"
+      "duration_ms": 118705,
+      "name": "Santa, Give Me What I Need",
+      "url": "https://open.spotify.com/track/2vj3Iau5rMHiNMgQB1LTcl"
     },
     {
       "added_at": "2023-12-22 09:00:00",
@@ -1527,18 +1511,18 @@
     {
       "added_at": "2023-12-22 09:00:00",
       "album": {
-        "name": "I LOVE WINTER",
-        "url": "https://open.spotify.com/album/3ExsqNiurr9UsQcuK1xG7k"
+        "name": "Maybe Christmas (Orchestra Version)",
+        "url": "https://open.spotify.com/album/45v0kfxliXgedtXPVCtqr2"
       },
       "artists": [
         {
-          "name": "Hwang Chi Yeul",
-          "url": "https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq"
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
         }
       ],
-      "duration_ms": 212933,
-      "name": "Beautiful Winter",
-      "url": "https://open.spotify.com/track/5iN9cgIpMlm6nfi6zRG8HR"
+      "duration_ms": 303297,
+      "name": "Maybe Christmas - Orchestra Version",
+      "url": "https://open.spotify.com/track/3rFpFKkRZ62lHyRByZbNUj"
     },
     {
       "added_at": "2023-12-22 09:00:00",
@@ -1555,6 +1539,22 @@
       "duration_ms": 229386,
       "name": "My Favorite Winter",
       "url": "https://open.spotify.com/track/4eTFVwwrGhIeS8NqwEBWZP"
+    },
+    {
+      "added_at": "2023-12-22 09:00:00",
+      "album": {
+        "name": "I LOVE WINTER",
+        "url": "https://open.spotify.com/album/3ExsqNiurr9UsQcuK1xG7k"
+      },
+      "artists": [
+        {
+          "name": "Hwang Chi Yeul",
+          "url": "https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq"
+        }
+      ],
+      "duration_ms": 212933,
+      "name": "Beautiful Winter",
+      "url": "https://open.spotify.com/track/5iN9cgIpMlm6nfi6zRG8HR"
     },
     {
       "added_at": "2023-12-22 09:00:00",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2023-12-22 09:00:00",
       "album": {
-        "name": "FNC LAB #2 'It's Christmas'",
-        "url": "https://open.spotify.com/album/5T3gFIMhsV2HuCRmZNgo2S"
-      },
-      "artists": [
-        {
-          "name": "FNC ARTIST",
-          "url": "https://open.spotify.com/artist/1skD49OqyAqPbSUpVyxEP0"
-        }
-      ],
-      "duration_ms": 230190,
-      "name": "It's Christmas",
-      "url": "https://open.spotify.com/track/1rG5ROBk7oNa2qRZO9gBcz"
-    },
-    {
-      "added_at": "2023-12-22 09:00:00",
-      "album": {
         "name": "Jelly Box Jelly Christmas 2016",
         "url": "https://open.spotify.com/album/5c4RIUO2CA2P0gUopDP3na"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 237080,
       "name": "D-day",
       "url": "https://open.spotify.com/track/5u7y6dLbCVbCGZCwEz8RBE"
+    },
+    {
+      "added_at": "2023-12-22 09:00:00",
+      "album": {
+        "name": "FNC LAB #2 'It's Christmas'",
+        "url": "https://open.spotify.com/album/5T3gFIMhsV2HuCRmZNgo2S"
+      },
+      "artists": [
+        {
+          "name": "FNC ARTIST",
+          "url": "https://open.spotify.com/artist/1skD49OqyAqPbSUpVyxEP0"
+        }
+      ],
+      "duration_ms": 230190,
+      "name": "It's Christmas",
+      "url": "https://open.spotify.com/track/1rG5ROBk7oNa2qRZO9gBcz"
     },
     {
       "added_at": "2023-12-22 09:00:00",

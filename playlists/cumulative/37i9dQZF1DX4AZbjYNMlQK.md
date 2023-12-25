@@ -4,7 +4,7 @@
 
 > Fresh & new Christmas songs para los días festivos\. Cover: Matisse
 
-173 songs - 9 hr 20 min
+174 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Arbolito De Navidad](https://open.spotify.com/track/3EtBprADoLj5t0pxbdgEr9) | [Mariachi Sol De Mexico](https://open.spotify.com/artist/6TWAmC8OsAPKl8kgNVwAe1) | [Navidad En Mi Pueblo](https://open.spotify.com/album/6O3hBHlY9oheHqeGXZ8lUX) | 3:45 | 2021-12-15 | 2022-12-20 |
 | [Arre Borriquito](https://open.spotify.com/track/3la1H2hlydLcLzvMiOtojp) | [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Navidad Con Tatiana](https://open.spotify.com/album/2Cy7J8on5jZmK64zEcvc5z) | 2:33 | 2022-11-08 | 2022-12-20 |
 | [Así Es La Navidad](https://open.spotify.com/track/5ecgiP07SpndBqocVToBmi) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Así Es La Navidad](https://open.spotify.com/album/4To1OVLzcKn6hCnNTRZQvf) | 3:09 | 2021-12-15 | 2022-12-20 |
-| [Año Nuevo, Misma Soledad \- Live](https://open.spotify.com/track/2LXfbLpehJxGdI3N0Vs5cu) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Año Nuevo, Misma Soledad \(Live\)](https://open.spotify.com/album/13AXkIfAZacRwtCIKOsPgh) | 3:33 | 2022-12-19 |  |
+| [Año Nuevo, Misma Soledad \- Live](https://open.spotify.com/track/2LXfbLpehJxGdI3N0Vs5cu) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Año Nuevo, Misma Soledad \(Live\)](https://open.spotify.com/album/13AXkIfAZacRwtCIKOsPgh) | 3:33 | 2022-12-19 | 2023-12-25 |
 | [Blanca Navidad](https://open.spotify.com/track/1rm6TRTRcFTUyoAmiv3Z51) | [DJ Cesar K\-OSO](https://open.spotify.com/artist/7p8kL7kXSfOy8o0s3dxXpB), [Boyz of Kumbia](https://open.spotify.com/artist/2HeR4Dpca4cva6SUlEHuEA) | [Blanca Navidad](https://open.spotify.com/album/4cCdrDZG76xQogwhnqncP9) | 2:36 | 2021-12-15 | 2022-11-26 |
 | [Blanca Navidad](https://open.spotify.com/track/5hNHkrt2vJaABjgAHOdyQG) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Blanca Navidad](https://open.spotify.com/album/02ymAzYTxrM3CpxFRN3hSE) | 3:16 | 2022-11-25 | 2022-12-19 |
 | [Blanca Navidad](https://open.spotify.com/track/77J6wE54qpAb2iGegfCVFu) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Navidades Luis Miguel](https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i) | 3:32 | 2021-12-15 | 2022-12-20 |
@@ -99,6 +99,7 @@
 | [Los Peces en el Rio](https://open.spotify.com/track/5ZqjpXE2c5ek9jJ3CpHGA9) | [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Navidad Con Tatiana](https://open.spotify.com/album/2Cy7J8on5jZmK64zEcvc5z) | 3:03 | 2021-12-15 | 2022-12-19 |
 | [Los Peces en el Río](https://open.spotify.com/track/2z90VCXCVOH5SbaoVSnkjf) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Navidad con Pandora](https://open.spotify.com/album/6A6jIdmnSirfsVE8D8ONJV) | 2:45 | 2022-11-08 | 2022-12-20 |
 | [Los Peces En El Río](https://open.spotify.com/track/5p1pTmxWcGcCXO7czBADDB) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Los Peces En El Río](https://open.spotify.com/album/2Xa5PK3vGkxnmonjoOBX89) | 2:36 | 2021-12-15 | 2022-12-19 |
+| [Mi Burrito Sabanero](https://open.spotify.com/track/43uJNr6fTmnF0k7wubD6v0) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Nuestra Navidad \(Edición Especial\)](https://open.spotify.com/album/5Tx9GpKRgJdWZ1wpGmAuKg) | 3:06 | 2023-12-20 |  |
 | [Mi Estrella](https://open.spotify.com/track/11U7dX4ginRlNIgrTrxEPR) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Gisela](https://open.spotify.com/artist/6SxnKPhYvkTKp2FtBzh6CI) | [Various Artists / Las 100 Mejores Canciones De Navidad](https://open.spotify.com/album/70t8CMbHUqW5ff62tzo7R6) | 4:24 | 2021-12-15 | 2022-07-29 |
 | [Mi Estrella](https://open.spotify.com/track/2OLLrr5uDVfWTOCM8t8IaA) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Gisela](https://open.spotify.com/artist/6SxnKPhYvkTKp2FtBzh6CI) | [Feliz Navidad](https://open.spotify.com/album/4lLFP1YjoYBN36q3XfmVjl) | 4:25 | 2021-12-15 | 2022-07-28 |
 | [Mi Estrella](https://open.spotify.com/track/6Db1sQZCfT3kKI73uLmFYW) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Gisela](https://open.spotify.com/artist/6SxnKPhYvkTKp2FtBzh6CI) | [Sueño Navideño Vol\. 1](https://open.spotify.com/album/5segjXcXIviv0I60iy87FP) | 4:25 | 2022-11-08 | 2022-11-26 |

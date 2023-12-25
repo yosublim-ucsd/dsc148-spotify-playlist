@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJ6UYQLBB2k.md) - [plain]
 
 > Re\-live the glory of Ambient from the 1990s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,348 likes - 60 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,385 likes - 60 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJ6UYQLBB2k.md) - [plain]
 | 18 | [Lullaby](https://open.spotify.com/track/4AeNCT0EyQjqpG40qP84sW) | [Adham Shaikh](https://open.spotify.com/artist/5jYKOT6F4yFRxLripcUnRu), [Tim Floyd](https://open.spotify.com/artist/6kq8fkuEqOfcqZhUHa69KG) | [Drift](https://open.spotify.com/album/1ZP8ZRPWDYfj6aGWtJua11) | 6:53 |
 | 19 | [Do While ⌘X](https://open.spotify.com/track/16fZFSlV2VIDcY77mVtUMI) | [Oval](https://open.spotify.com/artist/1Yti3CsDazWVjNMXBHx1Af) | [94diskont.](https://open.spotify.com/album/33xUwaoTPJ9aNbCJZEpRol) | 4:50 |
 | 20 | [Farger Rundt Hvitt](https://open.spotify.com/track/5ua8A3ILQrxxset2jOJhle) | [Phonophani](https://open.spotify.com/artist/5CaaxBjVUCIg3mTwOyfQMW) | [Phonophani](https://open.spotify.com/album/4UJHCHLHkTkZ8JORmO0HYQ) | 4:18 |
-| 21 | [Night\-Blooming](https://open.spotify.com/track/1E3bvx82Sy1im1UyWX1uel) | [vidnaObmana](https://open.spotify.com/artist/2IZOC3H2mKRvJ5F1R34nuR) | [The River of Appearance](https://open.spotify.com/album/6Hv4N99ZepwCn74FU6L4Ie) | 8:28 |
+| 21 | [Night\-Blooming](https://open.spotify.com/track/5zPHHrJdlHUH6f6AAmn2vf) | [vidnaObmana](https://open.spotify.com/artist/2IZOC3H2mKRvJ5F1R34nuR) | [The River of Appearance](https://open.spotify.com/album/2iSgA8VmlVA34ZDzB8gxEq) | 8:28 |
 | 22 | [Landscape of Watermill](https://open.spotify.com/track/53hib0jvi2IwcrHuOJPgG2) | [Takashi Kokubo](https://open.spotify.com/artist/3d3z3hJtZFWkkoDgnF9WX1) | [Gaia](https://open.spotify.com/album/1w0K1wopsGPYTArqdmilZe) | 3:29 |
 | 23 | [Dissolve](https://open.spotify.com/track/0N6z31hh35VOUNj5QfErzc) | [Robert Rich](https://open.spotify.com/artist/3ux92I3CgfnhgLyYNsXIwZ) | [Seven Veils](https://open.spotify.com/album/7GGfILK990HD9sSLbvRfAD) | 5:34 |
 | 24 | [Falling Away](https://open.spotify.com/track/0IFgqqaHpBDTcHFBA43z6G) | [Jeff Greinke](https://open.spotify.com/artist/3g94tTUOoqf4IweFjbAA30) | [Lost Terrain](https://open.spotify.com/album/2ByS4Re6ViTadx6HsPaPx5) | 7:03 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJ6UYQLBB2k.md) - [plain]
 | 59 | [Near & Far Away](https://open.spotify.com/track/3B6Wm7UhJ7tmydqpdI4jod) | [A Produce](https://open.spotify.com/artist/0BtlYa6Mov8Ike1JmPE1dt) | [Reflect Like A Mirror, Respond Like An Echo](https://open.spotify.com/album/5xecJxSkuzwT2DruccuBIN) | 5:47 |
 | 60 | [Circle \- 1996 Remix](https://open.spotify.com/track/1RNDTmjsiekXqaOJejZaFb) | [Rapoon](https://open.spotify.com/artist/3rZRPN25ZcxuWzcBPgYPYn) | [Recurring \(Dream Circle\)](https://open.spotify.com/album/4zBhwNhgPvprOw2FwawvKZ) | 8:25 |
 
-Snapshot ID: `MCwyOGJiZWVmZjc0ZDM1ZjFhMTRmYzZlZWI2YWNmZWY2MDdmMWUwYjI4`
+Snapshot ID: `MCwwYTEzMDlkODRmMjU1MzJlZjNmZDBmNzQyYmVmZGJkZDEzMmJiYmMw`

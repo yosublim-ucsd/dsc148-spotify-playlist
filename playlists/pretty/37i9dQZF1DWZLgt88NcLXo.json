@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNGU2YWExMTZhMjU0MDljYWMyYzhmM2FmMzU2NDA0MTVjZjI3MzE5",
+  "snapshot_id": "MCxmMDQ1ODJmZGI1OTNlZmExZjE3NDA3YWI5Njk1OTQxOTYwNDAxNTQw",
   "tracks": [
     {
       "added_at": "2023-09-15 09:04:35",
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Any Day Now",
-        "url": "https://open.spotify.com/album/3PLBn83wOzdXLaJBej3kuX"
-      },
-      "artists": [
-        {
-          "name": "Tim Hans",
-          "url": "https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg"
-        }
-      ],
-      "duration_ms": 176058,
-      "name": "Any Day Now",
-      "url": "https://open.spotify.com/track/1nQc7JxHc1cg1hPVqCnQ04"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "D\u00e9dalo",
         "url": "https://open.spotify.com/album/5726Mmo8ZRu6uis1KCe3KW"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 122275,
       "name": "D\u00e9dalo",
       "url": "https://open.spotify.com/track/4pHPnIjlTG5FSmOB4Boau3"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Any Day Now",
+        "url": "https://open.spotify.com/album/3PLBn83wOzdXLaJBej3kuX"
+      },
+      "artists": [
+        {
+          "name": "Tim Hans",
+          "url": "https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg"
+        }
+      ],
+      "duration_ms": 176058,
+      "name": "Any Day Now",
+      "url": "https://open.spotify.com/track/1nQc7JxHc1cg1hPVqCnQ04"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -959,22 +959,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Sweet Sky",
-        "url": "https://open.spotify.com/album/7M45WfGEysgnjPlcV2Fmud"
-      },
-      "artists": [
-        {
-          "name": "Daniela Petrov\u00e1",
-          "url": "https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y"
-        }
-      ],
-      "duration_ms": 180533,
-      "name": "Sweet Sky",
-      "url": "https://open.spotify.com/track/2HUz7Vn3QcsmCPrHmJojvi"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Empty Sky",
         "url": "https://open.spotify.com/album/1WoTK3nCb4P4Drcj8Jekw5"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 235752,
       "name": "Empty Sky",
       "url": "https://open.spotify.com/track/2eMQEd4Eak1eHAR3l8W2GL"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Sweet Sky",
+        "url": "https://open.spotify.com/album/7M45WfGEysgnjPlcV2Fmud"
+      },
+      "artists": [
+        {
+          "name": "Daniela Petrov\u00e1",
+          "url": "https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y"
+        }
+      ],
+      "duration_ms": 180533,
+      "name": "Sweet Sky",
+      "url": "https://open.spotify.com/track/2HUz7Vn3QcsmCPrHmJojvi"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Homebound",
-        "url": "https://open.spotify.com/album/36VPh59fnClN38LLdlgHnU"
-      },
-      "artists": [
-        {
-          "name": "Andreas Horschel",
-          "url": "https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Homebound",
-      "url": "https://open.spotify.com/track/3fZolWbWofhjyFDQXWL0T3"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Private Investigation",
         "url": "https://open.spotify.com/album/5h0J1K7pgcNeILEhv472rN"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 184076,
       "name": "Private Investigation",
       "url": "https://open.spotify.com/track/5UJX41yJ3og8Jb1Gn6kjMv"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Homebound",
+        "url": "https://open.spotify.com/album/36VPh59fnClN38LLdlgHnU"
+      },
+      "artists": [
+        {
+          "name": "Andreas Horschel",
+          "url": "https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Homebound",
+      "url": "https://open.spotify.com/track/3fZolWbWofhjyFDQXWL0T3"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Keirin",
-        "url": "https://open.spotify.com/album/16u16SQul659X2qT4tc8Zw"
-      },
-      "artists": [
-        {
-          "name": "Paris Little",
-          "url": "https://open.spotify.com/artist/2Set9fzetOO5FobntPuLwl"
-        }
-      ],
-      "duration_ms": 186092,
-      "name": "Keirin",
-      "url": "https://open.spotify.com/track/0ZlIp06FN57EBXDO1oYeUp"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Two Trees",
         "url": "https://open.spotify.com/album/2qNkOL7MgmDaFpTGCiqUZd"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 174216,
       "name": "Evenings at Point Reyes",
       "url": "https://open.spotify.com/track/2OZrAhYxb2v5ZCFGb7QrD6"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Keirin",
+        "url": "https://open.spotify.com/album/16u16SQul659X2qT4tc8Zw"
+      },
+      "artists": [
+        {
+          "name": "Paris Little",
+          "url": "https://open.spotify.com/artist/2Set9fzetOO5FobntPuLwl"
+        }
+      ],
+      "duration_ms": 186092,
+      "name": "Keirin",
+      "url": "https://open.spotify.com/track/0ZlIp06FN57EBXDO1oYeUp"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Isla de Pascua",
-        "url": "https://open.spotify.com/album/0wmc7SNnMXWIoTe3baSyFM"
-      },
-      "artists": [
-        {
-          "name": "Oscar Roland",
-          "url": "https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH"
-        }
-      ],
-      "duration_ms": 170847,
-      "name": "Isla de Pascua",
-      "url": "https://open.spotify.com/track/6BuUQ0PTBKyfc2AzGUNiBA"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/4bzztnTdgknIshVzOuYiwa"
       },
@@ -1803,18 +1787,34 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Path To The Mind",
-        "url": "https://open.spotify.com/album/1qCBCQvepLF70Ge8hQJSxF"
+        "name": "Isla de Pascua",
+        "url": "https://open.spotify.com/album/0wmc7SNnMXWIoTe3baSyFM"
       },
       "artists": [
         {
-          "name": "Amma Lerato",
-          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
+          "name": "Oscar Roland",
+          "url": "https://open.spotify.com/artist/1LPkJWKv7qfy9HxiZpW8rH"
         }
       ],
-      "duration_ms": 203000,
-      "name": "Path To The Mind",
-      "url": "https://open.spotify.com/track/14V2T4B8QG4kMZLc7XyYPv"
+      "duration_ms": 170847,
+      "name": "Isla de Pascua",
+      "url": "https://open.spotify.com/track/6BuUQ0PTBKyfc2AzGUNiBA"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Tulum",
+        "url": "https://open.spotify.com/album/3tgYGZiPi1o1G0EII5V9lp"
+      },
+      "artists": [
+        {
+          "name": "Vendla",
+          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
+        }
+      ],
+      "duration_ms": 176917,
+      "name": "Tulum",
+      "url": "https://open.spotify.com/track/4TrvStfO2EppTAYIebF5cL"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1835,18 +1835,18 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Tulum",
-        "url": "https://open.spotify.com/album/3tgYGZiPi1o1G0EII5V9lp"
+        "name": "Path To The Mind",
+        "url": "https://open.spotify.com/album/1qCBCQvepLF70Ge8hQJSxF"
       },
       "artists": [
         {
-          "name": "Vendla",
-          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
+          "name": "Amma Lerato",
+          "url": "https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL"
         }
       ],
-      "duration_ms": 176917,
-      "name": "Tulum",
-      "url": "https://open.spotify.com/track/4TrvStfO2EppTAYIebF5cL"
+      "duration_ms": 203000,
+      "name": "Path To The Mind",
+      "url": "https://open.spotify.com/track/14V2T4B8QG4kMZLc7XyYPv"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Canci\u00f3n A Solas",
-        "url": "https://open.spotify.com/album/4Qb1rsL5QvMtnDVE4fEjTZ"
-      },
-      "artists": [
-        {
-          "name": "Marta Fiscovich",
-          "url": "https://open.spotify.com/artist/6B7cCKWOKNqdjU5bqeZAS7"
-        }
-      ],
-      "duration_ms": 146875,
-      "name": "Canci\u00f3n A Solas",
-      "url": "https://open.spotify.com/track/2h4IHvYUMuHSRtP1IN7Mpr"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "The Bones (Acoustic Guitar)",
         "url": "https://open.spotify.com/album/5uhCEyOokgbICmNE3f8iyh"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 219428,
       "name": "The Bones - Acoustic Guitar",
       "url": "https://open.spotify.com/track/0feIKFDxL7dsgdHZRWbdb4"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Canci\u00f3n A Solas",
+        "url": "https://open.spotify.com/album/4Qb1rsL5QvMtnDVE4fEjTZ"
+      },
+      "artists": [
+        {
+          "name": "Marta Fiscovich",
+          "url": "https://open.spotify.com/artist/6B7cCKWOKNqdjU5bqeZAS7"
+        }
+      ],
+      "duration_ms": 146875,
+      "name": "Canci\u00f3n A Solas",
+      "url": "https://open.spotify.com/track/2h4IHvYUMuHSRtP1IN7Mpr"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Solitaria",
-        "url": "https://open.spotify.com/album/7aqZcpul5wBwHJpJRMLIuF"
-      },
-      "artists": [
-        {
-          "name": "Julia Quir\u00f3s",
-          "url": "https://open.spotify.com/artist/1WxwRcRO4zK1lfqC5qFsZF"
-        }
-      ],
-      "duration_ms": 136624,
-      "name": "Solitaria",
-      "url": "https://open.spotify.com/track/4i91ILhC9McCVwhJE3spPT"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Breakwater",
         "url": "https://open.spotify.com/album/68E9Lnnt985nLpH08wu9Hr"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 151500,
       "name": "Breakwater",
       "url": "https://open.spotify.com/track/4QfaiapQkaoDfudzWAwYcK"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Solitaria",
+        "url": "https://open.spotify.com/album/7aqZcpul5wBwHJpJRMLIuF"
+      },
+      "artists": [
+        {
+          "name": "Julia Quir\u00f3s",
+          "url": "https://open.spotify.com/artist/1WxwRcRO4zK1lfqC5qFsZF"
+        }
+      ],
+      "duration_ms": 136624,
+      "name": "Solitaria",
+      "url": "https://open.spotify.com/track/4i91ILhC9McCVwhJE3spPT"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Misty Midnight",
-        "url": "https://open.spotify.com/album/7JGiEcxXiPHjLEHH0eMzn1"
-      },
-      "artists": [
-        {
-          "name": "Alina Hussain",
-          "url": "https://open.spotify.com/artist/1J9m2S0qeC1r2n3BlvE61K"
-        }
-      ],
-      "duration_ms": 134498,
-      "name": "Misty Midnight",
-      "url": "https://open.spotify.com/track/3os1MjgOwLFIyvyP67JKaE"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Mirabella",
         "url": "https://open.spotify.com/album/1r9ghXZTQnM5TncbR8iCJU"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 199656,
       "name": "Mirabella",
       "url": "https://open.spotify.com/track/7aRXzPNyUh0hLLJJ3oA1ry"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Misty Midnight",
+        "url": "https://open.spotify.com/album/7JGiEcxXiPHjLEHH0eMzn1"
+      },
+      "artists": [
+        {
+          "name": "Alina Hussain",
+          "url": "https://open.spotify.com/artist/1J9m2S0qeC1r2n3BlvE61K"
+        }
+      ],
+      "duration_ms": 134498,
+      "name": "Misty Midnight",
+      "url": "https://open.spotify.com/track/3os1MjgOwLFIyvyP67JKaE"
     },
     {
       "added_at": "2023-09-15 09:04:35",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2023-09-15 09:04:35",
       "album": {
-        "name": "Shimmering",
-        "url": "https://open.spotify.com/album/5QlqAMPDmZlNYGtb14cgdt"
-      },
-      "artists": [
-        {
-          "name": "Charles Theodore",
-          "url": "https://open.spotify.com/artist/2hfHg46WyBCls0ZixeNtMq"
-        }
-      ],
-      "duration_ms": 173026,
-      "name": "Shimmering",
-      "url": "https://open.spotify.com/track/0V9hBI4lEPGj4oXB1Sxr2b"
-    },
-    {
-      "added_at": "2023-09-15 09:04:35",
-      "album": {
         "name": "Todo Es Mi Culpa",
         "url": "https://open.spotify.com/album/44eI4HIrozxOlv4KKa8DYf"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 171320,
       "name": "Todo Es",
       "url": "https://open.spotify.com/track/3kDWeQXbGzzeGVTvmLlpFy"
+    },
+    {
+      "added_at": "2023-09-15 09:04:35",
+      "album": {
+        "name": "Shimmering",
+        "url": "https://open.spotify.com/album/5QlqAMPDmZlNYGtb14cgdt"
+      },
+      "artists": [
+        {
+          "name": "Charles Theodore",
+          "url": "https://open.spotify.com/artist/2hfHg46WyBCls0ZixeNtMq"
+        }
+      ],
+      "duration_ms": 173026,
+      "name": "Shimmering",
+      "url": "https://open.spotify.com/track/0V9hBI4lEPGj4oXB1Sxr2b"
     },
     {
       "added_at": "2023-09-15 09:04:35",

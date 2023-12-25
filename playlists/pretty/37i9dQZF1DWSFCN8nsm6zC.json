@@ -1,12 +1,12 @@
 {
   "description": "Rock for the road. Cover: The Strokes",
-  "num_followers": 31308,
+  "num_followers": 31322,
   "original_name": "Rock Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDcxYjIzMTFlYzUyZGFkNWRhOWVjZWJiMGNlNmQ3NGQ1ZDg4NjRh",
+  "snapshot_id": "MCxhOWZiOGE5YmZhNmY1OGMyMzZmYmJkMjQ5ZTQyZDdmNjg0MzRjMGQ4",
   "tracks": [
     {
       "added_at": "2021-07-01 23:15:26",
@@ -763,22 +763,6 @@
     {
       "added_at": "2021-07-01 23:15:26",
       "album": {
-        "name": "As Good As Dead",
-        "url": "https://open.spotify.com/album/4DY4LZwEjx7zZ3tYtJG5Pl"
-      },
-      "artists": [
-        {
-          "name": "Local H",
-          "url": "https://open.spotify.com/artist/415JrPfN7ukaTu8JV8BLE8"
-        }
-      ],
-      "duration_ms": 222960,
-      "name": "Bound For The Floor",
-      "url": "https://open.spotify.com/track/3cbTV3IZZvSBYVcl0xuZbY"
-    },
-    {
-      "added_at": "2021-07-01 23:15:26",
-      "album": {
         "name": "Electriclarryland",
         "url": "https://open.spotify.com/album/7nawZF1eeyTGbrL9OsOCwz"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 297266,
       "name": "Pepper",
       "url": "https://open.spotify.com/track/1ng36571Iyov4HBxUClySn"
+    },
+    {
+      "added_at": "2021-07-01 23:15:26",
+      "album": {
+        "name": "As Good As Dead",
+        "url": "https://open.spotify.com/album/4DY4LZwEjx7zZ3tYtJG5Pl"
+      },
+      "artists": [
+        {
+          "name": "Local H",
+          "url": "https://open.spotify.com/artist/415JrPfN7ukaTu8JV8BLE8"
+        }
+      ],
+      "duration_ms": 222960,
+      "name": "Bound For The Floor",
+      "url": "https://open.spotify.com/track/3cbTV3IZZvSBYVcl0xuZbY"
     },
     {
       "added_at": "2021-07-01 23:15:26",

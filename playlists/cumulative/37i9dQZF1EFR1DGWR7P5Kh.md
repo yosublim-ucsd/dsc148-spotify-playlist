@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7dHJVvXzqeEgW9AgIGd5lv">Kaydence</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-39 songs - 2 hr 6 min
+40 songs - 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [BLACK PARADE](https://open.spotify.com/track/1TeDbA2Hfy14sEjoUvZ8Pa) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Lion King: The Gift \[Deluxe Edition\]](https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ) | 4:41 | 2021-12-27 |  |
 | [Borderline](https://open.spotify.com/track/3Yrmzj5kIcASKndfutrJjC) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 5:12 | 2021-12-27 |  |
 | [Dumb Thingz](https://open.spotify.com/track/5RcMLdjofr40JUqei7d5qf) | [Kaydence](https://open.spotify.com/artist/1LSEHcEojfn4kn3z1KkRP2), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Timbaland’s Beat Saber Music Pack by BeatClub](https://open.spotify.com/album/0huZW5ISjHtFKTGHhxkJwm) | 2:48 | 2021-12-27 |  |
-| [Freedom Rings](https://open.spotify.com/track/3f9eR0IZrktbCSqPfxM9jr) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Freedom Rings](https://open.spotify.com/album/5yK7v9cHza2xr079MbaOCR) | 3:46 | 2022-10-23 |  |
+| [Freedom Rings](https://open.spotify.com/track/3f9eR0IZrktbCSqPfxM9jr) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Freedom Rings](https://open.spotify.com/album/5yK7v9cHza2xr079MbaOCR) | 3:46 | 2022-10-23 | 2023-12-25 |
+| [Freedom Rings](https://open.spotify.com/track/7eVrZuqpbbaFnZoT97dOBn) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Freedom Rings](https://open.spotify.com/album/740GtdPevTeyubYLD00n4K) | 3:46 | 2023-12-24 |  |
 | [High Heels](https://open.spotify.com/track/2NwS0Ki7W63Ls4GEMxPP8T) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Sy'rai](https://open.spotify.com/artist/1k5wFphNsHxcR3Q3FJj6sI) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 2:38 | 2021-12-27 |  |
 | [KEYS TO THE KINGDOM](https://open.spotify.com/track/3KZK9MF3bAixN5UWOHVTbf) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 3:18 | 2021-12-27 |  |
 | [Lonely](https://open.spotify.com/track/1DkdUiBSkgXCHBeR6YOt51) | [Carson Lueders](https://open.spotify.com/artist/5Hp5hfBF49kKn8KAkgvNhz) | [Lonely](https://open.spotify.com/album/4a5e8AREAH4gVfVTNrbgLE) | 2:38 | 2021-12-27 |  |
@@ -39,8 +40,8 @@
 | [Rent Free](https://open.spotify.com/track/5PdroJNSxYfhN4QYV8eJpF) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Since I Have A Lover](https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF) | 3:22 | 2023-03-26 |  |
 | [She Roam](https://open.spotify.com/track/0B0D7eu4ofuVlD8Jt0f8Up) | [Duvchi](https://open.spotify.com/artist/0Pv1zES3REvZ4OuYrW2tGc), [Kaydence](https://open.spotify.com/artist/1LSEHcEojfn4kn3z1KkRP2) | [This Kind of Ocean](https://open.spotify.com/album/0EF5o0sOBWv9jUdI9YXL18) | 3:32 | 2021-12-27 |  |
 | [Something Keeps Pulling Me Back](https://open.spotify.com/track/6WC5YDTKztcTU3tWux0Jk1) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 3:04 | 2021-12-27 |  |
-| [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 | 2021-12-27 |  |
-| [thank u, next](https://open.spotify.com/track/3mGQy4nq0o0fqnCGzUAF7e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/5bT2hTkXIYDL8abudAEsuC) | 5:30 | 2023-12-14 | 2023-12-23 |
+| [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 | 2021-12-27 | 2023-12-25 |
+| [thank u, next](https://open.spotify.com/track/3mGQy4nq0o0fqnCGzUAF7e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/5bT2hTkXIYDL8abudAEsuC) | 5:30 | 2023-12-14 |  |
 | [To The People I Hurt](https://open.spotify.com/track/5Gy5bH3h91a6l2ZH4XXajE) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Midwest Kids Can Make It Big](https://open.spotify.com/album/2ICYFg0NfPljZc6nxjZk1X) | 3:23 | 2021-12-27 |  |
 | [Unconditional Oceans](https://open.spotify.com/track/5oo3XaASxXbrq1CJU0pSlU) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 3:52 | 2021-12-27 | 2022-10-24 |
 | [Until I Met You \(feat\. Nas\)](https://open.spotify.com/track/5tvOLMuCEJqn97twRmMhW9) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [It Was Divine](https://open.spotify.com/album/0nmCwOAFeqD69X1MWwKTS6) | 3:44 | 2021-12-27 |  |

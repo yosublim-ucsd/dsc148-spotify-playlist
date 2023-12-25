@@ -4,7 +4,7 @@
 
 > songs that feel like new and old friends, all stitched together.
 
-493 songs - 1 day 3 hr 39 min
+494 songs - 1 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [Good News](https://open.spotify.com/track/3ClBKQkKoaUQ6UOhe2xlJK) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Good News](https://open.spotify.com/album/4CCaoRnCugI6RsHHBKiMLs) | 5:42 | 2021-12-22 | 2022-04-17 |
 | [Goodbye To Love \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/4YEcH1SdjdeEyvt4AGYeqI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Goodbye To Love \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/6t1mm9i8L7rHsucCObxRbF) | 4:02 | 2022-07-04 | 2022-08-26 |
 | [Got Me](https://open.spotify.com/track/3mghKdqAomZMZKShUppmae) | [Laura Mvula](https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT) | [Got Me](https://open.spotify.com/album/7s073AT8XNarGOBLruWghZ) | 3:26 | 2022-03-31 | 2022-04-19 |
-| [Greatest Hits](https://open.spotify.com/track/5eWKybWrLV0JyI2rU0NfA1) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k) | [I Love You Jennifer B](https://open.spotify.com/album/4YFlC5Abaj48ERwaOPfpu8) | 4:27 | 2023-08-14 |  |
+| [Greatest Hits](https://open.spotify.com/track/5eWKybWrLV0JyI2rU0NfA1) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k) | [I Love You Jennifer B](https://open.spotify.com/album/4YFlC5Abaj48ERwaOPfpu8) | 4:27 | 2023-08-14 | 2023-12-25 |
 | [Groceries](https://open.spotify.com/track/3II5NhDhjzIessLfaSjPQn) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [In the Sky](https://open.spotify.com/album/0WuS7pRWpHnsSjOqizOZix) | 3:37 | 2023-01-04 |  |
 | [Groceries](https://open.spotify.com/track/706J9prVXY8vZHhp9VGiBE) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [In the Sky](https://open.spotify.com/album/7oH5TTCFxugLk2JZIUReR2) | 3:37 | 2021-12-22 | 2022-07-26 |
 | [Guilty Conscience](https://open.spotify.com/track/0smgkpVia3VCXgY4qhVJvp) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 3:33 | 2021-12-22 | 2023-08-05 |
@@ -278,6 +278,7 @@
 | [Marlboro Nights 2](https://open.spotify.com/track/397Pd8UMAQoqPk0ME1pLeW) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Marlboro Nights 2](https://open.spotify.com/album/2IkPJKUWx7Vp7mhGMlhQYB) | 2:29 | 2022-03-31 | 2022-04-21 |
 | [Marlboro Nights 2](https://open.spotify.com/track/5YSoAMG654oXW5Cz4VkFvL) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Marlboro Nights 2](https://open.spotify.com/album/5X1U12yQ1wgaf0PUuSMUJd) | 2:29 | 2022-07-04 | 2023-08-05 |
 | [Masterpiece](https://open.spotify.com/track/2orcl4a2qxEpbsYeZXKsyR) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece](https://open.spotify.com/album/2QVrJXsVZIgwNwOhtu31wd) | 3:50 | 2023-08-14 | 2023-12-12 |
+| [Masterpiece \- 2023 Remaster](https://open.spotify.com/track/03fbvOUMV0CP6BYuqw06Za) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Masterpiece \(2023 Remaster\)](https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL) | 3:50 | 2023-09-26 |  |
 | [Maybe](https://open.spotify.com/track/2WharvxRQJWtEF8dcf7qkz) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Maybe](https://open.spotify.com/album/2XtDVJNzLpqWD1KpzgePzb) | 3:00 | 2021-12-22 | 2022-07-29 |
 | [Me Myself and Dollar Hell](https://open.spotify.com/track/3hU4FbUWQee85XY2cRFbRR) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Going Going Gone](https://open.spotify.com/album/0c4lcf4DqYasZzNz8n2VBl) | 3:00 | 2021-12-22 | 2022-06-21 |
 | [Me Myself and Dollar Hell](https://open.spotify.com/track/4N5JhudHz0Wlj9r3FDpGyi) | [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Me Myself and Dollar Hell](https://open.spotify.com/album/3vZXuT5lKdbUFKNhXLtN81) | 3:00 | 2021-12-22 | 2022-07-17 |

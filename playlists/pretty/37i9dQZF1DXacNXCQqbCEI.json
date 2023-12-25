@@ -1,12 +1,12 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 358125,
+  "num_followers": 358162,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZTQ1NTRjNzk3YTFhMzA4YjQ0Y2M3MTAxOTQ3MDVhZGM4ZmVkMWZh",
+  "snapshot_id": "MCw5YmEyMDM0MmVjYTQ0ZDc2ZWI5Nzc2Mzc0NTE4NjBlYWY4M2Q2OWY2",
   "tracks": [
     {
       "added_at": "2023-11-24 02:05:30",
@@ -439,26 +439,6 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "Tranquillitas",
-        "url": "https://open.spotify.com/album/6yIXqkjfFAwNPEdaZAsO9o"
-      },
-      "artists": [
-        {
-          "name": "Joaqu\u00edn Cornejo",
-          "url": "https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx"
-        },
-        {
-          "name": "Wabi Sabi",
-          "url": "https://open.spotify.com/artist/4kpCSlKMJJ2JGnzuqnc3HS"
-        }
-      ],
-      "duration_ms": 373333,
-      "name": "Mojanda (feat. Wabi Sabi)",
-      "url": "https://open.spotify.com/track/50oMN7gWP1tRaSSBq2LQCH"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
         "name": "Batuco",
         "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 348887,
       "name": "Astral",
       "url": "https://open.spotify.com/track/1H6ul0f4lJyhON3QXzoWf4"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
+        "name": "Tranquillitas",
+        "url": "https://open.spotify.com/album/6yIXqkjfFAwNPEdaZAsO9o"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Cornejo",
+          "url": "https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx"
+        },
+        {
+          "name": "Wabi Sabi",
+          "url": "https://open.spotify.com/artist/4kpCSlKMJJ2JGnzuqnc3HS"
+        }
+      ],
+      "duration_ms": 373333,
+      "name": "Mojanda (feat. Wabi Sabi)",
+      "url": "https://open.spotify.com/track/50oMN7gWP1tRaSSBq2LQCH"
     },
     {
       "added_at": "2023-11-24 02:05:30",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
+        "name": "CARISMA",
+        "url": "https://open.spotify.com/album/360aJ4E4087KXU6ESyvjL3"
+      },
+      "artists": [
+        {
+          "name": "Salt Cathedral",
+          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
+        }
+      ],
+      "duration_ms": 202519,
+      "name": "Te Quiero Olvidar",
+      "url": "https://open.spotify.com/track/2u1UkcNp5l0NgTGjfl7fmZ"
+    },
+    {
+      "added_at": "2023-11-24 02:05:30",
+      "album": {
         "name": "Shika Shika Presents Eco",
         "url": "https://open.spotify.com/album/09Hnfjh6xV41cCJahc0PHG"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 332830,
       "name": "Paso Por El Fuego",
       "url": "https://open.spotify.com/track/5h9Tbkweollk1sCg5lX3Vs"
-    },
-    {
-      "added_at": "2023-11-24 02:05:30",
-      "album": {
-        "name": "CARISMA",
-        "url": "https://open.spotify.com/album/360aJ4E4087KXU6ESyvjL3"
-      },
-      "artists": [
-        {
-          "name": "Salt Cathedral",
-          "url": "https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP"
-        }
-      ],
-      "duration_ms": 202519,
-      "name": "Te Quiero Olvidar",
-      "url": "https://open.spotify.com/track/2u1UkcNp5l0NgTGjfl7fmZ"
     },
     {
       "added_at": "2023-11-24 02:05:30",
@@ -1063,22 +1063,22 @@
     {
       "added_at": "2023-11-24 02:05:30",
       "album": {
-        "name": "De Aqu\u00ed Hasta Aqu\u00ed",
-        "url": "https://open.spotify.com/album/3zcF5WOEhG12wtu4VFUNBY"
+        "name": "ATO 3: Am\u00e9rica do Sol",
+        "url": "https://open.spotify.com/album/2h8ukNP8AiKigfNB2PuhPC"
       },
       "artists": [
         {
-          "name": "Federico Estevez",
-          "url": "https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41"
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
         },
         {
-          "name": "Chancha Via Circuito",
-          "url": "https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl"
+          "name": "Claudia Manzo",
+          "url": "https://open.spotify.com/artist/3CMX8YNfpVGTCUudvZPDpg"
         }
       ],
-      "duration_ms": 196998,
-      "name": "El Quemado",
-      "url": "https://open.spotify.com/track/5W5S8hUx2LHauozu4zJMji"
+      "duration_ms": 157746,
+      "name": "Pachamama",
+      "url": "https://open.spotify.com/track/5wETbMw6PuupavwJ5ERA7B"
     },
     {
       "added_at": "2023-11-24 02:05:30",

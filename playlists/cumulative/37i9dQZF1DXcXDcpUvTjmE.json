@@ -56,10 +56,28 @@
       ],
       "date_added": "2019-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 87386,
       "name": "Addams Family Theme",
       "url": "https://open.spotify.com/track/35rJ69XdeGIP9dcFKMrICJ"
+    },
+    {
+      "album": {
+        "name": "Amc Presents Halloween Hits - Music For A Monster Fest",
+        "url": "https://open.spotify.com/album/7qMdLTDyWSF0JI5xql7ii2"
+      },
+      "artists": [
+        {
+          "name": "Amc Orchestra",
+          "url": "https://open.spotify.com/artist/5RoU3hjYKEZYV8Zs5vee5B"
+        }
+      ],
+      "date_added": "2019-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87386,
+      "name": "Addams Family Theme",
+      "url": "https://open.spotify.com/track/4T7XXaRKnnvojIpbA7UwXS"
     },
     {
       "album": {

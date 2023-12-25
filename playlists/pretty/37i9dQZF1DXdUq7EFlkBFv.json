@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 14136,
+  "num_followers": 14171,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjhjMjE5NjMxNGRhOGQzNjAxNmU1NjE4MjE0ZTVkMDRmNWNhZDEx",
+  "snapshot_id": "MCxkYTE0ZmM3Yzg2ODExZjk1OTgyYzU2NzYyZGI0ODI4ZWEyY2UwMDgz",
   "tracks": [
     {
       "added_at": "2022-10-01 16:17:17",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
-        "name": "Top",
-        "url": "https://open.spotify.com/album/6MbQdX6OomgQhZU6QCqMKW"
-      },
-      "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        }
-      ],
-      "duration_ms": 156662,
-      "name": "All In",
-      "url": "https://open.spotify.com/track/7CdoE8U5DwrwCaLoyf3ME0"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 297000,
       "name": "Jail",
       "url": "https://open.spotify.com/track/6d8HN8MqqbqrEUI2bvx0aG"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
+        "name": "Top",
+        "url": "https://open.spotify.com/album/6MbQdX6OomgQhZU6QCqMKW"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 156662,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/7CdoE8U5DwrwCaLoyf3ME0"
     },
     {
       "added_at": "2022-10-01 16:17:17",

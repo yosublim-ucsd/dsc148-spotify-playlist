@@ -1,12 +1,12 @@
 {
   "description": "Relive your favourite K-Drama moments with these classic soundtracks.",
-  "num_followers": 730690,
+  "num_followers": 730981,
   "original_name": "Best of Korean Soundtracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2Q2NWQ0MmY3YTliNjY3MDFiMDc4YWI0OWRmYTlkZDc0NGQ3NWJh",
+  "snapshot_id": "MCwzNjA2Y2Q5Y2I5M2U4MmZmNzAyYmNkY2ZmMTMwM2Y0ZWMwY2MzMGNl",
   "tracks": [
     {
       "added_at": "2023-08-16 08:28:23",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-08-16 08:28:23",
       "album": {
-        "name": "Hotel del Luna (Original Television Soundtrack) Pt.5",
-        "url": "https://open.spotify.com/album/2PdRNAz6mDmy9OR7hDCrH5"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 225785,
-      "name": "\ub0b4 \ub9d8\uc744 \ubcfc \uc218 \uc788\ub098\uc694",
-      "url": "https://open.spotify.com/track/2oVHb8wyg6oC2iNpGBNvx1"
-    },
-    {
-      "added_at": "2023-08-16 08:28:23",
-      "album": {
         "name": "START-UP (Original Television Soundtrack) Pt. 1",
         "url": "https://open.spotify.com/album/0Cp4RcGMELipXIAye8AxFN"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 215880,
       "name": "\ubbf8\ub798",
       "url": "https://open.spotify.com/track/1HZR7A1UE9vBu24j9bZNN7"
+    },
+    {
+      "added_at": "2023-08-16 08:28:23",
+      "album": {
+        "name": "Hotel del Luna (Original Television Soundtrack) Pt.5",
+        "url": "https://open.spotify.com/album/2PdRNAz6mDmy9OR7hDCrH5"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 225785,
+      "name": "\ub0b4 \ub9d8\uc744 \ubcfc \uc218 \uc788\ub098\uc694",
+      "url": "https://open.spotify.com/track/2oVHb8wyg6oC2iNpGBNvx1"
     },
     {
       "added_at": "2023-08-16 08:28:23",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-08-16 08:28:23",
       "album": {
-        "name": "Strong Woman Do Bong Soon, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/77cCsRz7JQHSo2i5GWbKTb"
-      },
-      "artists": [
-        {
-          "name": "JEONG EUN JI",
-          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
-        }
-      ],
-      "duration_ms": 243036,
-      "name": "You're My Garden",
-      "url": "https://open.spotify.com/track/5PlBCHCh7aCDlBBA8DoLp0"
-    },
-    {
-      "added_at": "2023-08-16 08:28:23",
-      "album": {
         "name": "Should We Kiss First? (Original Television Soundtrack), Pt. 3",
         "url": "https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 210493,
       "name": "Every day, Every Moment",
       "url": "https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB"
+    },
+    {
+      "added_at": "2023-08-16 08:28:23",
+      "album": {
+        "name": "Strong Woman Do Bong Soon, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/77cCsRz7JQHSo2i5GWbKTb"
+      },
+      "artists": [
+        {
+          "name": "JEONG EUN JI",
+          "url": "https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92"
+        }
+      ],
+      "duration_ms": 243036,
+      "name": "You're My Garden",
+      "url": "https://open.spotify.com/track/5PlBCHCh7aCDlBBA8DoLp0"
     },
     {
       "added_at": "2023-08-16 08:28:23",

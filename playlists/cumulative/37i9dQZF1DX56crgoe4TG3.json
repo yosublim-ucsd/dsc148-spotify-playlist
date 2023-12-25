@@ -3302,6 +3302,24 @@
     {
       "album": {
         "name": "It's Just Me",
+        "url": "https://open.spotify.com/album/3ulf8YidiJhYjopCP9vNbF"
+      },
+      "artists": [
+        {
+          "name": "Larry Sparks",
+          "url": "https://open.spotify.com/artist/05c6W2NfXx6jxO28OGfPRA"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155499,
+      "name": "She Thinks I Still Care",
+      "url": "https://open.spotify.com/track/3CVBN4atqGXxfq3rTQsyAe"
+    },
+    {
+      "album": {
+        "name": "It's Just Me",
         "url": "https://open.spotify.com/album/2n3PcUTqeReZYL980QVYOF"
       },
       "artists": [
@@ -3312,7 +3330,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 155499,
       "name": "She Thinks I Still Care",
       "url": "https://open.spotify.com/track/6dLMYvXk5oBhxACr0PNvB0"

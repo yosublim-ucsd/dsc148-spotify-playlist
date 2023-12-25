@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > The latest pop hits in one playlist\. Cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 506,784 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,793 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 99 | [Sleep Without You](https://open.spotify.com/track/2c5u2s4UwS1NXGgx0TVZAL) | [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc) | [Sleep Without You](https://open.spotify.com/album/5vrUI7qCAVi9bjgszhk7OH) | 2:42 |
 | 100 | [collarbone](https://open.spotify.com/track/6QASovTU1wUcXQf5rHf9fU) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [collarbone](https://open.spotify.com/album/1bt86fE1GNk3sEKsY5ZHgP) | 3:23 |
 
-Snapshot ID: `MCwzZmQ0M2IzM2Y4MmUxOGIyOTc5OThjYTliYjJiMTcxZTExMzkxOTE2`
+Snapshot ID: `MCxhNWMyNmJiMGRhNGJhMzI2MzJmNDkwNzUxMDk1NjJjODg4YTY2NzEw`

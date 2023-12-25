@@ -4,7 +4,7 @@
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover: <a href="spotify:artist:4u2tnfiRrpWOEdC14Vg6d8">Bobbi Storm</a>
 
-416 songs - 1 day 12 hr 6 min
+417 songs - 1 day 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,7 +390,8 @@
 | [Walking In Freedom](https://open.spotify.com/track/2CpzE4aSwIZZ6hLgbwTdEd) | [Dale Anthony](https://open.spotify.com/artist/7qYxIUr2PyCgdAos6nCMK1), [Faith Out Loud](https://open.spotify.com/artist/6MveVWL5UAoQ4JoTcULcaM) | [Walking In Freedom](https://open.spotify.com/album/2IpqkZz9WngFoYyztpxzd8) | 6:56 | 2022-02-18 | 2023-02-11 |
 | [Way Home](https://open.spotify.com/track/2ZKXBim3pDX8WTHmyFFUO6) | [Grace Tena](https://open.spotify.com/artist/1W2fPbaUIDHflSKOe4S8QT) | [Way Home](https://open.spotify.com/album/79EFevRLW7KIOovxgi5jTm) | 4:44 | 2022-11-18 | 2023-12-16 |
 | [Ways for Me \(feat\. Dante Bowe\)](https://open.spotify.com/track/6je2yvcTlq5IMVVhYhObi3) | [Tribl](https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Ways for Me \(feat\. Dante Bowe\)](https://open.spotify.com/album/5Drrq21nMSq39YYAw4OUv8) | 12:15 | 2022-02-18 | 2022-06-11 |
-| [We Adore You \- Live](https://open.spotify.com/track/1JolrZmZv9Xr0llFLPdtBE) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK), [Gathering Place Worship Choir](https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm) | [Joy Is Here \(Live\)](https://open.spotify.com/album/1o2PebRakvKTxOlfuxDcZa) | 8:19 | 2023-11-03 |  |
+| [We Adore You \- Live](https://open.spotify.com/track/1JolrZmZv9Xr0llFLPdtBE) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK), [Gathering Place Worship Choir](https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm) | [Joy Is Here \(Live\)](https://open.spotify.com/album/1o2PebRakvKTxOlfuxDcZa) | 8:19 | 2023-11-03 | 2023-12-25 |
+| [We Adore You \- Live](https://open.spotify.com/track/6X0MR8zGMm0HkrY0bbuOI3) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK), [Gathering Place Worship Choir](https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm) | [Joy Is Here \(Live\)](https://open.spotify.com/album/4Dp2qmQr1rgBYujOEgDWFB) | 8:19 | 2023-12-15 |  |
 | [We Agree With Heaven \(with Todd Dulaney\) \- Live](https://open.spotify.com/track/0z5k7HmMCq1NhVcesqslXX) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [We Agree With Heaven \(with Todd Dulaney\) \[Live\]](https://open.spotify.com/album/7bIZXr5Xd2JZKJYgT5kN09) | 7:55 | 2023-05-05 | 2023-06-03 |
 | [We Can't Forget Him](https://open.spotify.com/track/1wqozXrbtZkb8r8DfAot5E) | [Bobbi Storm](https://open.spotify.com/artist/4u2tnfiRrpWOEdC14Vg6d8) | [We Can't Forget Him](https://open.spotify.com/album/1W9AAIaC2KFeuZNPeY3q5V) | 2:58 | 2023-11-03 |  |
 | [We Lift Our Worship \- Live](https://open.spotify.com/track/5WjqeVx7TnVzt4QJ38Paan) | [Isabel Davis](https://open.spotify.com/artist/0zLMumXvsZqoNGYU5KWHX0) | [We Lift Our Worship \(Live\)](https://open.spotify.com/album/6uL3mree4y7rbNGDdQQ9AD) | 8:00 | 2022-02-18 | 2022-07-23 |

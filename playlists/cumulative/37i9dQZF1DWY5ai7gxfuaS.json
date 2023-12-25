@@ -397,6 +397,24 @@
     },
     {
       "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/1uzhNEYp4kM2OGR8danu44"
+      },
+      "artists": [
+        {
+          "name": "Saint Agnes",
+          "url": "https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239626,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/0Z3vSiCNFN7FESRWzP7CWd"
+    },
+    {
+      "album": {
         "name": "Animo",
         "url": "https://open.spotify.com/album/5z7fDpyjFEYF4XrnUQ8BEd"
       },
@@ -1414,7 +1432,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 532351,
       "name": "Dr\u00fdsill",
       "url": "https://open.spotify.com/track/5pYsByOqa325t7t46xudFx"

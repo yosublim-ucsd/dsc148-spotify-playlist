@@ -4,7 +4,7 @@
 
 > Bases suaves para inspirarte mientras trabajas.
 
-1,331 songs - 2 day 10 hr 31 min
+1,332 songs - 2 day 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,7 +413,7 @@
 | [Fire Inside](https://open.spotify.com/track/6mS822S9l2BKN0RzmTyLfP) | [T.O.M](https://open.spotify.com/artist/68rwVO9em9O2JzESsN2whJ) | [Fire Inside](https://open.spotify.com/album/2MIh3AN4UDKhmevXoEovwy) | 2:28 | 2023-09-08 | 2023-11-25 |
 | [Fireworks \- New Beginnings](https://open.spotify.com/track/1ig7KupWNnSAWOhy0PIcH2) | [Yours Truly, CC](https://open.spotify.com/artist/2dNEISrL4uUVlqVFrZRzTL) | [Through The Seasons](https://open.spotify.com/album/0AKA4bhqvJ2nbJyoWELkGf) | 1:32 | 2023-09-22 |  |
 | [First Impressions](https://open.spotify.com/track/4m4QBep0gtfC3g8wjev0QB) | [Sugar Coast](https://open.spotify.com/artist/77PPAf37R11s5IiWFGYP3m) | [First Impressions](https://open.spotify.com/album/6UaF71BrRIVOoKWoqOaGPx) | 2:11 | 2023-09-08 | 2023-11-25 |
-| [First Stop//Sao Paolo](https://open.spotify.com/track/3JkLMtATPlszhCNmWFHUzs) | [Raz\-One](https://open.spotify.com/artist/6wDQgJE1sKWmrZL2N0vYyP), [MTZ](https://open.spotify.com/artist/2YNThgoYF3dCOibVNDI5A6) | [First Stop//Sao Paolo](https://open.spotify.com/album/6JAlxiE9wthnE9MajvWpqc) | 1:59 | 2023-09-22 |  |
+| [First Stop//Sao Paolo](https://open.spotify.com/track/3JkLMtATPlszhCNmWFHUzs) | [Raz\-One](https://open.spotify.com/artist/6wDQgJE1sKWmrZL2N0vYyP), [MTZ](https://open.spotify.com/artist/2YNThgoYF3dCOibVNDI5A6) | [First Stop//Sao Paolo](https://open.spotify.com/album/6JAlxiE9wthnE9MajvWpqc) | 1:59 | 2023-09-22 | 2023-12-25 |
 | [first things first](https://open.spotify.com/track/1wEpA0CBRytqdJQcNT4UZB) | [merīkurisumasu!](https://open.spotify.com/artist/2xyYJCo9TXPAQZvPCR2L97) | [first things first](https://open.spotify.com/album/1eox4CtQHP36x9RuByM2kW) | 2:11 | 2023-09-22 |  |
 | [flame fluids](https://open.spotify.com/track/3rlLUdQ1eaCFl0OCjThlKU) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [flame fluids](https://open.spotify.com/album/0UAmG41uG6Tg8TebPKzO8c) | 2:30 | 2023-09-22 |  |
 | [Flattery](https://open.spotify.com/track/0EZzvnbBEDGBjaQRseSrbf) | [The Modern Zolo](https://open.spotify.com/artist/566dcTwvUwHWNp2bThMR3f) | [After Life](https://open.spotify.com/album/1pyFsXsMNGOaRzBPQtZLdQ) | 2:00 | 2023-09-22 |  |
@@ -1154,6 +1154,7 @@
 | [Test the Waters](https://open.spotify.com/track/4zDZY6XnZRjGlRDr9h5gOG) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20), [WYNNE](https://open.spotify.com/artist/7MtZPIh0gpnInKFnXGcYDS) | [Love & Retrograde](https://open.spotify.com/album/1PpnNxo4uBSSLWSNT0S920) | 3:48 | 2022-04-12 | 2023-09-09 |
 | [that 90s low](https://open.spotify.com/track/1pzOWECKHnMy5UrKeJduNB) | [xOHARA](https://open.spotify.com/artist/2Sebo5izi3H67nS858uHoK) | [that 90s low](https://open.spotify.com/album/74IMFw1dPIiXI1fXvXDsH4) | 2:23 | 2023-09-08 | 2023-11-25 |
 | [That Gurl](https://open.spotify.com/track/5E2ZlARzfpAfvM6F5Db1Iz) | [Gesmis](https://open.spotify.com/artist/09BQkr06MjFC0nQEd1nG4W) | [That Gurl](https://open.spotify.com/album/29oDud6HPKoTiQuQRSuaK4) | 2:01 | 2023-09-08 | 2023-11-25 |
+| [That's My Jam](https://open.spotify.com/track/5VrOqL4TmSU8ZfhgfD1oXg) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [That's My Jam](https://open.spotify.com/album/0WWP9a6jvXdvStIu9tAvme) | 2:32 | 2023-12-22 |  |
 | [The Bay](https://open.spotify.com/track/0aSQ0c4oMfjUWoHenvcnvI) | [Basmati](https://open.spotify.com/artist/58B9CtFf40bkC9mgFnD96f), [Luniworks](https://open.spotify.com/artist/0dMJ5zofJoExb5T8eSmOhW) | [The Bay](https://open.spotify.com/album/19eoQYs75KzT2Q9fA3pRPQ) | 2:09 | 2023-09-22 |  |
 | [The Carlton](https://open.spotify.com/track/3J7FvVmbz6vvPvu3XymrNK) | [PONY](https://open.spotify.com/artist/5CxY3qA1kVNN0MolYlkVAI) | [The Carlton](https://open.spotify.com/album/1DMVvbrhKB6oJbZxQM0gDi) | 2:57 | 2023-09-22 |  |
 | [The City](https://open.spotify.com/track/4lZQn9ZVkTbzehDoj3SQin) | [Audio Phill](https://open.spotify.com/artist/3X8s6pf8NBV2nl9Gvcbptb) | [The City](https://open.spotify.com/album/4mEfZGlxMcC0EioQfzvnyx) | 2:02 | 2023-11-17 |  |

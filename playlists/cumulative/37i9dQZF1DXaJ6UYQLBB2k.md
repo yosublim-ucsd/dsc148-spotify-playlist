@@ -4,7 +4,7 @@
 
 > Re\-live the glory of Ambient from the 1990s.
 
-97 songs - 9 hr 34 min
+98 songs - 9 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Mir](https://open.spotify.com/track/0qelp5P9XttIUN7wyXBM5j) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Patashnik](https://open.spotify.com/album/6UUS4WcqqD75JY1v3w83cx) | 5:18 | 2021-12-23 |  |
 | [Near & Far Away](https://open.spotify.com/track/3B6Wm7UhJ7tmydqpdI4jod) | [A Produce](https://open.spotify.com/artist/0BtlYa6Mov8Ike1JmPE1dt) | [Reflect Like A Mirror, Respond Like An Echo](https://open.spotify.com/album/5xecJxSkuzwT2DruccuBIN) | 5:47 | 2021-12-23 |  |
 | [Night Devotion](https://open.spotify.com/track/5elyZ0NvsnePQ2bHzZHbjn) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a), [Suspended Memories](https://open.spotify.com/artist/7pvTCKClynPrI7oNjbeCw6), [Jorge Reyes](https://open.spotify.com/artist/73lAf1b3vgM25fxLa0oIJV), [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Forgotten Gods](https://open.spotify.com/album/5zHP5vjdv8V7bUYKW7w9zW) | 8:51 | 2021-12-23 |  |
-| [Night\-Blooming](https://open.spotify.com/track/1E3bvx82Sy1im1UyWX1uel) | [vidnaObmana](https://open.spotify.com/artist/2IZOC3H2mKRvJ5F1R34nuR) | [The River of Appearance](https://open.spotify.com/album/6Hv4N99ZepwCn74FU6L4Ie) | 8:28 | 2021-12-23 |  |
+| [Night\-Blooming](https://open.spotify.com/track/1E3bvx82Sy1im1UyWX1uel) | [vidnaObmana](https://open.spotify.com/artist/2IZOC3H2mKRvJ5F1R34nuR) | [The River of Appearance](https://open.spotify.com/album/6Hv4N99ZepwCn74FU6L4Ie) | 8:28 | 2021-12-23 | 2023-12-25 |
+| [Night\-Blooming](https://open.spotify.com/track/5zPHHrJdlHUH6f6AAmn2vf) | [vidnaObmana](https://open.spotify.com/artist/2IZOC3H2mKRvJ5F1R34nuR) | [The River of Appearance](https://open.spotify.com/album/2iSgA8VmlVA34ZDzB8gxEq) | 8:28 | 2023-12-04 |  |
 | [Opening](https://open.spotify.com/track/7zlQOoectwIdD96oPLDveN) | [A Produce](https://open.spotify.com/artist/0BtlYa6Mov8Ike1JmPE1dt) | [Reflect Like A Mirror, Respond Like An Echo](https://open.spotify.com/album/5xecJxSkuzwT2DruccuBIN) | 2:30 | 2021-12-23 |  |
 | [Order of Disappearance](https://open.spotify.com/track/2P5sl2JH1eLdWJVdTScoQO) | [Phonophani](https://open.spotify.com/artist/5CaaxBjVUCIg3mTwOyfQMW) | [Phonophani](https://open.spotify.com/album/4UJHCHLHkTkZ8JORmO0HYQ) | 5:09 | 2021-12-23 | 2023-03-18 |
 | [Pendulum Man](https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm) | [Bark Psychosis](https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi) | [Hex](https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP) | 9:53 | 2021-12-23 |  |

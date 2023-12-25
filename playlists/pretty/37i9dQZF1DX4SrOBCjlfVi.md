@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Nicki Minaj, French Montana, and more\. Cover: Luh Tyler & Latto
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,326 likes - 51 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,426 likes - 51 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 50 | [Run Run Run](https://open.spotify.com/track/7xZQ2WQA69cz2rP02guiPE) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z) | [SEXT8PE](https://open.spotify.com/album/3uIEBssMK6MKzhVNEv7oVp) | 3:00 |
 | 51 | [CUZO](https://open.spotify.com/track/02rJN0lnBwbqmMRGIeCT0n) | [PRICE](https://open.spotify.com/artist/27CNmUe34ahHuxvayd8Jse) | [CUZO](https://open.spotify.com/album/3t77qWZMmpTcGFvo6ubaM0) | 3:25 |
 
-Snapshot ID: `MCwyNzU5YTVhMTJmMDNhMzMxNzI5YTdhYTdkZmM0MDFhOGNjZmMzZGVj`
+Snapshot ID: `MCxiM2ZiNDAzMzA3MjUwY2JhNGFlNGY1Y2IzNTE3ODhjYTllYmUxYzM4`

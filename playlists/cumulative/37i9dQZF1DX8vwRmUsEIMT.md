@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: Tom Odell
 
-1,611 songs - 3 day 14 hr 47 min
+1,612 songs - 3 day 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -299,7 +299,8 @@
 | [Closer](https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Slay](https://open.spotify.com/artist/3mJPM3drRUdlDVXcc3tA0M) | [Closer](https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA) | 2:15 | 2023-05-04 | 2023-06-16 |
 | [Closer Than This](https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Closer Than This](https://open.spotify.com/album/3auDI7RSdoJr99qMNXimP4) | 3:43 | 2023-12-22 |  |
 | [Co\-Star](https://open.spotify.com/track/2rYu4zr0jXGWAHmNdpQYsl) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Co\-Star](https://open.spotify.com/album/0FLajXxca41VLTunahQo9s) | 2:46 | 2023-05-04 | 2023-06-09 |
-| [Coffee](https://open.spotify.com/track/6Nar1OSCQBUqXQ7G6lUIq1) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Coffee](https://open.spotify.com/album/6fUx09147ONG7cKZyHK1cC) | 2:43 | 2023-12-01 |  |
+| [Coffee](https://open.spotify.com/track/6Nar1OSCQBUqXQ7G6lUIq1) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Coffee](https://open.spotify.com/album/6fUx09147ONG7cKZyHK1cC) | 2:43 | 2023-12-01 | 2023-12-25 |
+| [Coffee](https://open.spotify.com/track/6UZdMgQ3XUaOImDRkEeoUq) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Coffee](https://open.spotify.com/album/3uSK1cgw3NpNQLshsTP1xa) | 2:43 | 2023-12-22 |  |
 | [Cold As Ice](https://open.spotify.com/track/6sKJJShsRJpt7e3u4BmrkL) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Cold As Ice](https://open.spotify.com/album/6vS9lBQXdGIDIeQ67ibnzJ) | 2:23 | 2023-01-24 | 2023-03-10 |
 | [Cold Blooded](https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 3:37 | 2023-05-11 | 2023-06-02 |
 | [Cold Heart \- Single Edit](https://open.spotify.com/track/3mfGUbO81k7NKpoJV6avFk) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Cold Heart](https://open.spotify.com/album/1dRUZa28DglRjudS4GQ9Zz) | 3:30 | 2022-06-24 | 2022-07-22 |

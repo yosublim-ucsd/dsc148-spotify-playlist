@@ -4,7 +4,7 @@
 
 > Focus on the drums, and your inner animal will come alive! In\-your\-face rock tracks where the drums can't be ignored.
 
-127 songs - 12 hr 5 min
+128 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [In Memory Of Elizabeth Reed](https://open.spotify.com/track/1hFVbNUjzbnYwef4GLFdGg) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Idlewild South](https://open.spotify.com/album/69p1Ktt4gkPB6Un6vnxj9g) | 6:58 | 2018-12-10 | 2022-07-29 |
 | [In Memory Of Elizabeth Reed](https://open.spotify.com/track/23KUlJNvJmKrRVmo3XBvxM) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Idlewild South \(Deluxe Edition Remastered\)](https://open.spotify.com/album/1K9yhJFW4FR8Rc1VURWA5T) | 6:59 | 2018-12-10 | 2023-03-25 |
 | [In Memory Of Elizabeth Reed](https://open.spotify.com/track/3jN3HJsbuKDpfpYFq8H1Q8) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Idlewild South](https://open.spotify.com/album/4hpZe4QmcWpl4dQjbbkvWA) | 6:59 | 2018-12-10 | 2022-11-13 |
-| [Indiscipline](https://open.spotify.com/track/4hnB3tR0ueIBnkaIvrlZtC) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [Discipline](https://open.spotify.com/album/7KxUQCCvE0edGiqBS6ywEd) | 4:33 | 2023-03-23 |  |
+| [Indiscipline](https://open.spotify.com/track/4hnB3tR0ueIBnkaIvrlZtC) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [Discipline](https://open.spotify.com/album/7KxUQCCvE0edGiqBS6ywEd) | 4:33 | 2023-03-23 | 2023-12-25 |
+| [Indiscipline](https://open.spotify.com/track/5FvRkKujcquFV4wma9QAfj) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [Discipline](https://open.spotify.com/album/20dTbQRkxuOTkf3SFyaT2m) | 4:33 | 2023-03-23 |  |
 | [Jesus Christ Pose \- Remastered](https://open.spotify.com/track/2UoHjfejHhemj0KSWCOV2A) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Badmotorfinger \(25th Anniversary Remaster\)](https://open.spotify.com/album/2W6MaUiInBkna5DfBES4E3) | 5:51 | 2023-03-23 |  |
 | [Karn Evil 9 1st Impression, Pt\. 2 \- 2014 Remaster](https://open.spotify.com/track/0nDQu5i6B93GvUJH8iJ0y9) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Brain Salad Surgery](https://open.spotify.com/album/1wTqdsmCCQQLCQjXZM3H59) | 4:45 | 2018-12-10 | 2023-03-25 |
 | [Karn Evil 9 1st Impression, Pt\. 2 \- 2014 Remaster](https://open.spotify.com/track/7kwH1GDFeVL01QNhGS2Ele) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [The Anthology](https://open.spotify.com/album/0frleTv0z2bVtd6ZwAr2LV) | 4:49 | 2018-12-10 | 2022-11-13 |

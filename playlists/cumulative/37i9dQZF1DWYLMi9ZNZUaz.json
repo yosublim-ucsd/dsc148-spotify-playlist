@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 215934,
       "name": "12345",
       "url": "https://open.spotify.com/track/0R2MTQjHh6lmOCiVgnHiFW"
@@ -203,6 +203,28 @@
     },
     {
       "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/0ZuBeVw9faM6WEWLDHfYP0"
+      },
+      "artists": [
+        {
+          "name": "LK",
+          "url": "https://open.spotify.com/artist/6S0JgJU2l6ds1EhZUJMQFk"
+        },
+        {
+          "name": "Binz",
+          "url": "https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260915,
+      "name": "Bi\u1ec3n Xanh S\u00e2u Th\u1eb3m",
+      "url": "https://open.spotify.com/track/0CDr4vl3o2TGlsRCwAtxPk"
+    },
+    {
+      "album": {
         "name": "Blue Tequila",
         "url": "https://open.spotify.com/album/5ULNoQyv8SWz0qA8zz0AKU"
       },
@@ -298,7 +320,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 200000,
       "name": "B\u1eadt Nh\u1ea1c L\u00ean",
       "url": "https://open.spotify.com/track/0hiQvlWSSTr7n1kc1X2Lus"
@@ -764,7 +786,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 176150,
       "name": "Em Th\u00edch",
       "url": "https://open.spotify.com/track/3XEspwit4d8gwKKgeopfCv"
@@ -790,6 +812,24 @@
       "duration_ms": 201589,
       "name": "Exit Sign",
       "url": "https://open.spotify.com/track/3UX7FjJDl6RodnWekzFwEB"
+    },
+    {
+      "album": {
+        "name": "Free Flow Kh\u00f4ng H\u00fat",
+        "url": "https://open.spotify.com/album/3UkkOqsmKE8hO4zcGiBd3t"
+      },
+      "artists": [
+        {
+          "name": "Ricky Star",
+          "url": "https://open.spotify.com/artist/4jQZaxfgwiUJFQagCyZNV4"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243254,
+      "name": "Free Flow Kh\u00f4ng H\u00fat",
+      "url": "https://open.spotify.com/track/06GrFsnzWmnS6rslXByfWf"
     },
     {
       "album": {
@@ -1109,6 +1149,28 @@
     },
     {
       "album": {
+        "name": "L\u00fd Do Y\u00eau Nhau \u0110\u1ebfn Gi\u00e0",
+        "url": "https://open.spotify.com/album/5uspFtYoCMCHqBeWqAZKVc"
+      },
+      "artists": [
+        {
+          "name": "Di Di",
+          "url": "https://open.spotify.com/artist/2GFbIax8VZLFzOIUBSMaBg"
+        },
+        {
+          "name": "Captain",
+          "url": "https://open.spotify.com/artist/1pKPrziZw7C4GvOlBIXqP5"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202892,
+      "name": "L\u00fd Do Y\u00eau Nhau \u0110\u1ebfn Gi\u00e0",
+      "url": "https://open.spotify.com/track/2b2UUtbB97osFePjK073JU"
+    },
+    {
+      "album": {
         "name": "L\u1ec7 L\u01b0u Ly",
         "url": "https://open.spotify.com/album/5hKHXzNB0vwgAlFXJNRV34"
       },
@@ -1254,6 +1316,28 @@
       "duration_ms": 200154,
       "name": "M\u1ed9t Ng\u00e0y",
       "url": "https://open.spotify.com/track/623WsX6Nq0KRfcPnomypZT"
+    },
+    {
+      "album": {
+        "name": "m\u1ed9t ph\u1ea7n hai \u00bd",
+        "url": "https://open.spotify.com/album/5sfp4OG4LhdubguxPgNQc5"
+      },
+      "artists": [
+        {
+          "name": "Anh T\u00fa",
+          "url": "https://open.spotify.com/artist/7LLfmKhGZI11XO0dO4xDI7"
+        },
+        {
+          "name": "OgeNus",
+          "url": "https://open.spotify.com/artist/5mPbBOU2KMFfStepNZ027p"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "m\u1ed9t ph\u1ea7n hai \u00bd",
+      "url": "https://open.spotify.com/track/3eCsMPno2PnaZxfgM34vso"
     },
     {
       "album": {
@@ -1440,7 +1524,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 241340,
       "name": "N\u1ea5u \u0103n cho em",
       "url": "https://open.spotify.com/track/7td8DTWoGC9u9db37mGHX6"
@@ -1704,7 +1788,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 165000,
       "name": "Tay To",
       "url": "https://open.spotify.com/track/41aMYNen9G7uUbqLfV65cF"
@@ -2308,7 +2392,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 184615,
       "name": "\u0110\u1ea7u \u0110\u01b0\u1eddng X\u00f3 Ch\u1ee3 (ft. L\u0103ng LD)",
       "url": "https://open.spotify.com/track/2nFXaYb2fWOoUJXMPb6y4C"

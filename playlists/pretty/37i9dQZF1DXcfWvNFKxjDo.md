@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Glockenbach, Öwnboss, Jazz Montell
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,601 likes - 74 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,689 likes - 74 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 73 | [You Can Have It](https://open.spotify.com/track/1fx1ptytiaRIdnGLt6feeQ) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Victor Flash](https://open.spotify.com/artist/1IEF03NP5cb0XuOBpfxZXg) | [You Can Have It](https://open.spotify.com/album/1oYqMHHBkuar0ScgiJiPmQ) | 3:52 |
 | 74 | [Celebrate the Love](https://open.spotify.com/track/4EwSiFlSMc2XJz4GIIBIvg) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR), [Rocco](https://open.spotify.com/artist/4Gd2OByIIOatknO6CqlUnP) | [Celebrate the Love](https://open.spotify.com/album/77dhGsl9BfHKKv9xbR5qne) | 3:02 |
 
-Snapshot ID: `MCxlZTM4OGVkYzIwOTRkNDg2NDQ5NTI0MjI1YTY0YjQxNzk4MWIwZmFh`
+Snapshot ID: `MCwzYmI2MjQxOGZjZWRkNWMxZWYyMDRiMTk1ZmE1MWIxNWZhNDU1NDRh`

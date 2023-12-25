@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,103 songs - 1 day 17 hr 41 min
+1,104 songs - 1 day 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Cold Breeze](https://open.spotify.com/track/1vhYXAKylvmoBAeWVMnXVg) | [Chill Denis](https://open.spotify.com/artist/4gOKqVqVRQCGUrc70alpbr) | [Cold Breeze](https://open.spotify.com/album/6hTlSMabr9DBUhUfDdQoeO) | 2:25 | 2022-10-28 | 2023-09-26 |
 | [Cold Pillows](https://open.spotify.com/track/6a3UWWhZheDHZMi8hBLKgn) | [Tailwinds](https://open.spotify.com/artist/6W50Jtaz33gA5opvEA0q0g) | [Softer](https://open.spotify.com/album/1WvWdv5jyAbPHwEgT7nfbf) | 3:20 | 2021-11-10 | 2023-03-02 |
 | [Colorful Leaves](https://open.spotify.com/track/56zclYajeHI9U3KDWmFwwE) | [Oskar Hahn](https://open.spotify.com/artist/5D47BWKQT56z8xey53ZxmL), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Colorful Leaves](https://open.spotify.com/album/3xCpC0Mda19tESAUFUnO2t) | 1:50 | 2021-11-10 | 2022-09-03 |
-| [comeback!](https://open.spotify.com/track/1dpsUbVZVsSqeHU9LIXpsU) | [Vynlsm](https://open.spotify.com/artist/7b4DhB3yTiN4HMgFGFQQ2y) | [comeback!](https://open.spotify.com/album/4Bq3HgXr0hUdO0st01IVsf) | 2:17 | 2023-07-13 |  |
+| [comeback!](https://open.spotify.com/track/1dpsUbVZVsSqeHU9LIXpsU) | [Vynlsm](https://open.spotify.com/artist/7b4DhB3yTiN4HMgFGFQQ2y) | [comeback!](https://open.spotify.com/album/4Bq3HgXr0hUdO0st01IVsf) | 2:17 | 2023-07-13 | 2023-12-25 |
 | [Comfortable](https://open.spotify.com/track/4tReGzA7E6SRrqmWhUbnvu) | [Red Lekk](https://open.spotify.com/artist/5luaCdQ4VxA8NcuLTu5Y89) | [Comfortable](https://open.spotify.com/album/43y8tCWXbrSwXjqglWt0Yt) | 2:18 | 2022-12-09 |  |
 | [Composure](https://open.spotify.com/track/7hCe1hmwNJX9eSbsAPU4kF) | [Node Park](https://open.spotify.com/artist/3BHFkHYwu4ZxfghindI4WO) | [Composure](https://open.spotify.com/album/4Uqz908hYJevgGm2Q0PhKp) | 2:30 | 2023-01-20 |  |
 | [Concrete](https://open.spotify.com/track/1RzoLQJAzGjqpzUDZFuhUV) | [Prism Sorrow](https://open.spotify.com/artist/5Fh6NGwhB7tyhUR7XPuxhT) | [Concrete](https://open.spotify.com/album/2hs7bgiqTR39429D3eIoke) | 1:15 | 2021-11-10 | 2022-06-10 |
@@ -222,7 +222,7 @@
 | [cute like you](https://open.spotify.com/track/4v5SvMlAzH64qtsrRMu1eL) | [Venn Divi](https://open.spotify.com/artist/0xMjjTrZmBI1AxzgRKFmPi) | [cute like you](https://open.spotify.com/album/42Ae4luNXHee7QoCDNSBIr) | 2:53 | 2023-04-20 |  |
 | [Cutting Fabric](https://open.spotify.com/track/5EhMnILRFVjUzVXId3yVmE) | [Doubleclique](https://open.spotify.com/artist/4JjFrDwtpM9YKHOchNn8Rx) | [My Bell Bottoms](https://open.spotify.com/album/7f2FppCcGuWNecET0DZXKV) | 3:00 | 2023-03-16 |  |
 | [Damped Clocks](https://open.spotify.com/track/4AOj72u1p1cJeVEq8HqnCK) | [Jav Cast](https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj), [Alex Wars](https://open.spotify.com/artist/54lWa7qI424Ib2ZakrIDDg) | [Damped Clocks](https://open.spotify.com/album/4HdH4uBnMQ2igE2MTPbTfX) | 2:13 | 2022-12-23 |  |
-| [dandelion](https://open.spotify.com/track/5qBExpe9npzMiDNTm9WtGQ) | [soulful beats](https://open.spotify.com/artist/0x6QoENXYTjAkBQzijkHvk) | [dandelion](https://open.spotify.com/album/29awjnX2dm9AYbMSCQTvQe) | 2:04 | 2023-04-03 |  |
+| [dandelion](https://open.spotify.com/track/5qBExpe9npzMiDNTm9WtGQ) | [soulful beats](https://open.spotify.com/artist/0x6QoENXYTjAkBQzijkHvk) | [dandelion](https://open.spotify.com/album/29awjnX2dm9AYbMSCQTvQe) | 2:04 | 2023-04-03 | 2023-12-25 |
 | [Dawn to Dusk](https://open.spotify.com/track/7MUw4bxQfYoans7ZncHCFk) | [Yours Truly, CC](https://open.spotify.com/artist/2dNEISrL4uUVlqVFrZRzTL), [Lost in Space](https://open.spotify.com/artist/62aXOeeoR4j8XjHRJXIhMf) | [A Weekend in the Woods](https://open.spotify.com/album/77YOdqJfx29tJehsUHDIuk) | 2:23 | 2022-10-28 | 2023-10-06 |
 | [daydream](https://open.spotify.com/track/1u1V8O1tVy9FVJHjj3PdmV) | [love\_eight](https://open.spotify.com/artist/2cCbtvKbNfKnKuMfEeyvJE) | [daydream](https://open.spotify.com/album/7BSoLkoXvPu5nKjVGfPVmO) | 2:10 | 2023-03-24 |  |
 | [Daydreaming](https://open.spotify.com/track/4ul0cUhwgISLz2ktt0ydZ3) | [Mindr](https://open.spotify.com/artist/7AObJiF0vqNNnysunp45om) | [Daydreaming](https://open.spotify.com/album/0vTXjr2nBXyDUp4aQWtS2e) | 2:15 | 2023-01-20 |  |
@@ -417,7 +417,7 @@
 | [Helium](https://open.spotify.com/track/5kNOPm4KEZb1rQcuW1Ceib) | [FREJA](https://open.spotify.com/artist/3PsElXP6TTwUalgNPiyyzH) | [Helium](https://open.spotify.com/album/3fkualIq2JDtFczKqsapwD) | 2:15 | 2021-11-10 | 2022-07-22 |
 | [hello](https://open.spotify.com/track/7McehAjzhS8bEprBvY9KDJ) | [werklig](https://open.spotify.com/artist/27bOXURlYhViWycg2CYg6r) | [hello](https://open.spotify.com/album/4BY8K9Hr6r1QZHKxg9FYx1) | 1:58 | 2022-01-27 |  |
 | [here & now](https://open.spotify.com/track/7LrpylNEYXLNF2YqBerLa4) | [Snoozegod](https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG), [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt) | [here & now](https://open.spotify.com/album/5DiZQjPdPhAyMu1jboC0kU) | 1:32 | 2023-01-06 |  |
-| [Heroes](https://open.spotify.com/track/5MY4EnZdc8LuwfraVAyNFW) | [PØPE](https://open.spotify.com/artist/6rpgPKGnr7T1bpFh5wGZrx) | [Postcard](https://open.spotify.com/album/0o7HwPrLRbc6zyLHL8RuSr) | 1:58 | 2022-12-09 | 2023-12-24 |
+| [Heroes](https://open.spotify.com/track/5MY4EnZdc8LuwfraVAyNFW) | [PØPE](https://open.spotify.com/artist/6rpgPKGnr7T1bpFh5wGZrx) | [Postcard](https://open.spotify.com/album/0o7HwPrLRbc6zyLHL8RuSr) | 1:58 | 2022-12-09 |  |
 | [Heroic](https://open.spotify.com/track/1Mgfv6ihHH5ZjQkA2bagUg) | [rwethree](https://open.spotify.com/artist/4xONuzG8xDW9pPSYS3ttcT) | [Heroic](https://open.spotify.com/album/0zkyDiJG7olarHq4ra9f8w) | 2:12 | 2023-09-15 |  |
 | [hidden beauty](https://open.spotify.com/track/6HkdCCE61XLWwHN6QkMvDm) | [Kumegano](https://open.spotify.com/artist/3EiG8ERYtLZRuGCxrSyoSA) | [hidden beauty](https://open.spotify.com/album/34HsnHWY1avKoAksWZ4NiP) | 2:33 | 2022-11-11 |  |
 | [Hidden Shrines](https://open.spotify.com/track/7FkYxZaij658VtKrNt25aK) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Hidden Shrines](https://open.spotify.com/album/395x6HdSfXezH5TG7Aw1AC) | 1:23 | 2022-07-08 | 2023-10-06 |
@@ -620,6 +620,7 @@
 | [Midnight Sun](https://open.spotify.com/track/5KolfjuT47YtcjESszDxQL) | [Nostalgique](https://open.spotify.com/artist/4i29Lf2vHDzbCPrkdP3uoM) | [Lofi Life](https://open.spotify.com/album/0BTJvhbYIAE6vsPpexAYQ4) | 1:25 | 2021-11-10 | 2022-06-17 |
 | [Miffing](https://open.spotify.com/track/482V3gj1s0CmyxggOk4OLh) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Miffing](https://open.spotify.com/album/2HW7ivX1zL2ymrEdQkecm8) | 2:23 | 2021-11-10 | 2022-05-20 |
 | [Miles Away](https://open.spotify.com/track/3uWdeGEr2Qc2fpZiH1Y9nP) | [alhivi](https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P), [Wander Sky](https://open.spotify.com/artist/17xlXpr4XlWjdh6J2h6AlM) | [Miles Away](https://open.spotify.com/album/6M91sRmX0njuP8Fq4Jk78A) | 2:10 | 2022-06-24 | 2022-07-29 |
+| [Milky Swirl](https://open.spotify.com/track/0hmSTKEg8QxYcL67V6odjJ) | [dogphase](https://open.spotify.com/artist/2PhI5ndGzuBaGWTPadjj4g) | [Milky Swirl](https://open.spotify.com/album/2JTzXEEL1CKLGNMCbmRcT7) | 2:17 | 2023-12-22 |  |
 | [Milky Way](https://open.spotify.com/track/5nWGzYwSHWntp8LnGmOf1z) | [Lo Roads](https://open.spotify.com/artist/3y47oXW2VlBFdRzhtNAXz2) | [Milky Way](https://open.spotify.com/album/2xrz63P92SbAKFUkvoWUvi) | 1:54 | 2022-12-16 |  |
 | [Mind The Gap](https://open.spotify.com/track/6uTQFfranV3N08C6H3M2PU) | [Jeya Mira](https://open.spotify.com/artist/24ec9e0WVfG0YKY1ODiBAr) | [Mind The Gap](https://open.spotify.com/album/7MktGxa4bx7lLU4WHmlxcB) | 2:08 | 2023-03-16 | 2023-12-14 |
 | [Mindfeed](https://open.spotify.com/track/3DCTfQKjqFkLOH6h3RsviA) | [Chalk Gang](https://open.spotify.com/artist/7nKTvkyNv3iatiJ0A4lBr7) | [Mindfeed](https://open.spotify.com/album/0qgpvMEpFqBZncu6mDlCwI) | 2:11 | 2023-09-15 |  |

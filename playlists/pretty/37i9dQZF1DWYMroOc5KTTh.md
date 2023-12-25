@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 
 > 100% good vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,403 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,501 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 45 | [Home](https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 2:36 |
 | 46 | [Something About Your Love](https://open.spotify.com/track/7cujJQPxdHeDz5mKLmv0bu) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Missing You / Something About Your Love](https://open.spotify.com/album/0p5utqJGqhCnRCk2gMGHUA) | 5:23 |
 | 47 | [Alfa](https://open.spotify.com/track/0Z3a7SIDVOUvZFgr73qq0V) | [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [Alfa](https://open.spotify.com/album/4uO8oJ4NuITPSvTnP33EfY) | 4:45 |
-| 48 | [Petit Prince Du Macadam](https://open.spotify.com/track/3cCLvbMCHMgX7DLXPr1ALv) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Umami](https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel) | 3:04 |
-| 49 | [I'm in a Funk](https://open.spotify.com/track/7HsyAQ0KK6DzSxHpyV0um5) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Into the Ether](https://open.spotify.com/album/5O9uqsd52hAovfkyArK41d) | 3:02 |
+| 48 | [I'm in a Funk](https://open.spotify.com/track/7HsyAQ0KK6DzSxHpyV0um5) | [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Into the Ether](https://open.spotify.com/album/5O9uqsd52hAovfkyArK41d) | 3:02 |
+| 49 | [Petit Prince Du Macadam](https://open.spotify.com/track/3cCLvbMCHMgX7DLXPr1ALv) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Umami](https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel) | 3:04 |
 | 50 | [Greatest Love \- Edit](https://open.spotify.com/track/6wmtEikDlY2JbV0nlrscxy) | [Dj Streaks](https://open.spotify.com/artist/67YkGjtw8rmC6Ck0GmoxFA) | [Greatest Love](https://open.spotify.com/album/1afYraZZkxPQTTkvVVHc4r) | 3:50 |
 
-Snapshot ID: `MCxlNWU1YjE5ZTkzODk2YzQ2Zjk2NGE1NzA0ZGMzY2Y5OTRiN2RkNTU0`
+Snapshot ID: `MCxmM2RjNGVlNTFlMWFiNDhjNTQ0YzlhNGFlY2U4MjhiMmUyNWI2Mjll`

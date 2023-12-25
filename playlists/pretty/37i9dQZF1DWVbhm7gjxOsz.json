@@ -1,12 +1,12 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 53544,
+  "num_followers": 53648,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmI4ZmUxNmQxYTMxYTlmNjM1MjhiZmE2ODRiYzExNjhjNzI5ZDQx",
+  "snapshot_id": "MCxhNDcwYjVlNWUyYjhlYTZjN2RhZDMxMDdmODRhZWY1MjVhNjgxMzJi",
   "tracks": [
     {
       "added_at": "2023-08-29 23:44:25",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Mary Wells Sings My Guy",
-        "url": "https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 174440,
-      "name": "My Guy",
-      "url": "https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "La Vida Es Fr\u00eda",
         "url": "https://open.spotify.com/album/6DdM7MRFC9G9BAGANWKQvp"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 202234,
       "name": "La Vida Es Fr\u00eda",
       "url": "https://open.spotify.com/track/4r3XQQZyf8p30M8fFkZJDa"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "Mary Wells Sings My Guy",
+        "url": "https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "duration_ms": 174440,
+      "name": "My Guy",
+      "url": "https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "James & Bobby Purify",
-        "url": "https://open.spotify.com/album/7B9SrtNRzt2yyxww4URgMK"
-      },
-      "artists": [
-        {
-          "name": "James & Bobby Purify",
-          "url": "https://open.spotify.com/artist/1qO2mRQM4zbksO586oM0W7"
-        }
-      ],
-      "duration_ms": 178986,
-      "name": "I'm Your Puppet",
-      "url": "https://open.spotify.com/track/5z71EfouOWMI4HHZHEjnkr"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "Hello Stranger",
         "url": "https://open.spotify.com/album/4Xt36EzLCy3PbdpZedoopw"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 166960,
       "name": "Hello Stranger",
       "url": "https://open.spotify.com/track/7v8YDCoM60xCPuSbXerImD"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "James & Bobby Purify",
+        "url": "https://open.spotify.com/album/7B9SrtNRzt2yyxww4URgMK"
+      },
+      "artists": [
+        {
+          "name": "James & Bobby Purify",
+          "url": "https://open.spotify.com/artist/1qO2mRQM4zbksO586oM0W7"
+        }
+      ],
+      "duration_ms": 178986,
+      "name": "I'm Your Puppet",
+      "url": "https://open.spotify.com/track/5z71EfouOWMI4HHZHEjnkr"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "The Skyliners",
-        "url": "https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ"
-      },
-      "artists": [
-        {
-          "name": "The Skyliners",
-          "url": "https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk"
-        }
-      ],
-      "duration_ms": 158840,
-      "name": "Since I Don't Have You (Alternative Take)",
-      "url": "https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "Street Songs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 437933,
       "name": "Fire And Desire",
       "url": "https://open.spotify.com/track/6XJdmdiLRvvQXRLMenQmjx"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "The Skyliners",
+        "url": "https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ"
+      },
+      "artists": [
+        {
+          "name": "The Skyliners",
+          "url": "https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk"
+        }
+      ],
+      "duration_ms": 158840,
+      "name": "Since I Don't Have You (Alternative Take)",
+      "url": "https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "The One Who Really Loves You",
-        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "You Beat Me To The Punch",
-      "url": "https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "Swingsation: Sil Austin",
         "url": "https://open.spotify.com/album/1rObnFkeZhkF19kA5Z5tJa"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 159973,
       "name": "Slow Walk",
       "url": "https://open.spotify.com/track/6FwjZsd1WrdXH4Vy4yTNyg"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "The One Who Really Loves You",
+        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "You Beat Me To The Punch",
+      "url": "https://open.spotify.com/track/4Sz8zFchpHQVQVqVyGz5Jb"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1159,22 +1159,6 @@
       "duration_ms": 209213,
       "name": "In The Rain",
       "url": "https://open.spotify.com/track/6aKFAhG7hCy71wLDMKjP5G"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
-        "name": "The One Who Really Loves You",
-        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 147466,
-      "name": "The One Who Really Loves You - Single Version",
-      "url": "https://open.spotify.com/track/4M732X5J2BE6M8VIHHfxMx"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1259,6 +1243,22 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
+        "name": "The One Who Really Loves You",
+        "url": "https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "duration_ms": 147466,
+      "name": "The One Who Really Loves You - Single Version",
+      "url": "https://open.spotify.com/track/4M732X5J2BE6M8VIHHfxMx"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
         "name": "With Love",
         "url": "https://open.spotify.com/album/6tusv1rVUc9eH5XbeXfFud"
       },
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Warm & Tender Soul",
-        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 173893,
-      "name": "You Really Got a Hold on Me",
-      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
         "name": "I Do Love You",
         "url": "https://open.spotify.com/album/46qsxPOOdmWwTrfhvcqKlU"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 177946,
       "name": "I Do Love You",
       "url": "https://open.spotify.com/track/3J0VYipa6lrdBkjLM7j4iI"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
+        "name": "Warm & Tender Soul",
+        "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
+      },
+      "artists": [
+        {
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
+        }
+      ],
+      "duration_ms": 173893,
+      "name": "You Really Got a Hold on Me",
+      "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1871,18 +1871,18 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Somebody Please (Stereo Mix 2019)",
-        "url": "https://open.spotify.com/album/1RMHlSB5c8XFd6NIoi6fK6"
+        "name": "Greatest Slow Jams",
+        "url": "https://open.spotify.com/album/0zMWHOjYyuv41k1Aw7Logw"
       },
       "artists": [
         {
-          "name": "The Vanguards",
-          "url": "https://open.spotify.com/artist/1Cxiw1j8YapEOhSmJWteHW"
+          "name": "Thee Midniters",
+          "url": "https://open.spotify.com/artist/2Z66arG61B0TdhwE9kWy23"
         }
       ],
-      "duration_ms": 231825,
-      "name": "Somebody Please (Stereo Mix 2019)",
-      "url": "https://open.spotify.com/track/1U9MVMWI6hACLhgXI9JoFE"
+      "duration_ms": 198946,
+      "name": "The Town I Live In",
+      "url": "https://open.spotify.com/track/4vGzFH1JVhQTkTCidx2pnE"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -1903,18 +1903,18 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "Greatest Slow Jams",
-        "url": "https://open.spotify.com/album/0zMWHOjYyuv41k1Aw7Logw"
+        "name": "Somebody Please (Stereo Mix 2019)",
+        "url": "https://open.spotify.com/album/1RMHlSB5c8XFd6NIoi6fK6"
       },
       "artists": [
         {
-          "name": "Thee Midniters",
-          "url": "https://open.spotify.com/artist/2Z66arG61B0TdhwE9kWy23"
+          "name": "The Vanguards",
+          "url": "https://open.spotify.com/artist/1Cxiw1j8YapEOhSmJWteHW"
         }
       ],
-      "duration_ms": 198946,
-      "name": "The Town I Live In",
-      "url": "https://open.spotify.com/track/4vGzFH1JVhQTkTCidx2pnE"
+      "duration_ms": 231825,
+      "name": "Somebody Please (Stereo Mix 2019)",
+      "url": "https://open.spotify.com/track/1U9MVMWI6hACLhgXI9JoFE"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -2043,6 +2043,22 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
+        "name": "The Complete Motown Singles Vol. 10: 1970",
+        "url": "https://open.spotify.com/album/6jMXo2j1AIktuattwNYnBe"
+      },
+      "artists": [
+        {
+          "name": "The Originals",
+          "url": "https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl"
+        }
+      ],
+      "duration_ms": 172560,
+      "name": "The Bells",
+      "url": "https://open.spotify.com/track/2kLrFBgVs9BsyNQ6EDc5LH"
+    },
+    {
+      "added_at": "2023-08-29 23:44:25",
+      "album": {
         "name": "Looking Back 1961-1964",
         "url": "https://open.spotify.com/album/3b9B5jlDpGSwzMVMYKkDGX"
       },
@@ -2059,18 +2075,18 @@
     {
       "added_at": "2023-08-29 23:44:25",
       "album": {
-        "name": "The Complete Motown Singles Vol. 10: 1970",
-        "url": "https://open.spotify.com/album/6jMXo2j1AIktuattwNYnBe"
+        "name": "Talk to Me",
+        "url": "https://open.spotify.com/album/58KDtRZBc0rtcIAMamtrnT"
       },
       "artists": [
         {
-          "name": "The Originals",
-          "url": "https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl"
+          "name": "Sunny & The Sunliners",
+          "url": "https://open.spotify.com/artist/7vsHbcgOIbaeMqv3GvvHdO"
         }
       ],
-      "duration_ms": 172560,
-      "name": "The Bells",
-      "url": "https://open.spotify.com/track/2kLrFBgVs9BsyNQ6EDc5LH"
+      "duration_ms": 167400,
+      "name": "Talk to Me",
+      "url": "https://open.spotify.com/track/5JHwqC86I4RA1cPEBEJRDz"
     },
     {
       "added_at": "2023-08-29 23:44:25",
@@ -2091,22 +2107,6 @@
       "duration_ms": 163813,
       "name": "Earth Angel - Stereo",
       "url": "https://open.spotify.com/track/7DSnCTcHoQPfCbaaQuyhhP"
-    },
-    {
-      "added_at": "2023-08-29 23:44:25",
-      "album": {
-        "name": "Talk to Me",
-        "url": "https://open.spotify.com/album/58KDtRZBc0rtcIAMamtrnT"
-      },
-      "artists": [
-        {
-          "name": "Sunny & The Sunliners",
-          "url": "https://open.spotify.com/artist/7vsHbcgOIbaeMqv3GvvHdO"
-        }
-      ],
-      "duration_ms": 167400,
-      "name": "Talk to Me",
-      "url": "https://open.spotify.com/track/5JHwqC86I4RA1cPEBEJRDz"
     },
     {
       "added_at": "2023-08-29 23:44:25",

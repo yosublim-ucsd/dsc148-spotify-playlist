@@ -4,7 +4,7 @@
 
 > Sons para seu bebê dormir e relaxar / Sonidos para relajar a tu bebé
 
-370 songs - 10 hr 49 min
+372 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Bedside Lamp](https://open.spotify.com/track/3XSiZolukB6iiNITmWLKbK) | [Isabella Kent](https://open.spotify.com/artist/1GDviCQQnLpKaPdLBYkIgB) | [Bedside Lamp](https://open.spotify.com/album/6JxxZ2GZVyaUVRRXxuEsS7) | 1:15 | 2023-12-08 |  |
 | [Bedtime](https://open.spotify.com/track/2pTOkVFHOtcXvN9qxV1Q2K) | [Elvira Sola](https://open.spotify.com/artist/3jFQv36BpFuX9vTVB8q7fI) | [My Best Friend](https://open.spotify.com/album/5oU1L1vPpJwwYRxVPw86gX) | 2:23 | 2023-12-08 |  |
 | [Bedtime Serenade](https://open.spotify.com/track/6dUV7BamznIH4XkQvhpqZh) | [Eijah Nilson](https://open.spotify.com/artist/4ve0embkjqNplBGRueIkHs) | [To The Moon And Back](https://open.spotify.com/album/7lSHuUiyH5oRdbmJ096zlz) | 1:55 | 2023-12-08 |  |
-| [Bedtime Stories](https://open.spotify.com/track/5bepHaIOiNwvZMrbd9PoSq) | [Alva Klarström](https://open.spotify.com/artist/50id9oYraGr4qm3XfTKMfO) | [Bedtime Stories](https://open.spotify.com/album/0jJALitDC5dHQYpMPIpbXj) | 1:48 | 2023-12-08 |  |
+| [Bedtime Stories](https://open.spotify.com/track/5bepHaIOiNwvZMrbd9PoSq) | [Alva Klarström](https://open.spotify.com/artist/50id9oYraGr4qm3XfTKMfO) | [Bedtime Stories](https://open.spotify.com/album/0jJALitDC5dHQYpMPIpbXj) | 1:48 | 2023-12-08 | 2023-12-25 |
 | [Before I Go To Sleep](https://open.spotify.com/track/5Y4ng1a6gsHCt55hDWIi9O) | [Kay Lozano](https://open.spotify.com/artist/4aneGgQXJW7ufSTcjHLXDw) | [Before I Go To Sleep](https://open.spotify.com/album/4RFKhar3rtwEXtKWGV44pi) | 1:20 | 2023-12-08 |  |
 | [Bella the Blue Whale](https://open.spotify.com/track/5K4TmtOxMSmxl3FIPfhnZD) | [Danielle Rogard](https://open.spotify.com/artist/7oH6mUa9mfdEz5EbouH8uu) | [Bella the Blue Whale](https://open.spotify.com/album/0P78U0tvLiM5wlVl7eAP2I) | 1:35 | 2023-12-08 |  |
 | [Bella's Promise](https://open.spotify.com/track/4AjlobmViXo2jhj5poajOc) | [Gabriella Chiado](https://open.spotify.com/artist/5qEqJaMiZWbCFsnbDVRqOH) | [Bella's Promise](https://open.spotify.com/album/1S8oxyXl297xKwckQl6XnU) | 1:27 | 2023-12-08 |  |
@@ -86,6 +86,7 @@
 | [Dream about lovely things](https://open.spotify.com/track/68jTr5OHQaaOknKAJpieuS) | [Elvira Sola](https://open.spotify.com/artist/3jFQv36BpFuX9vTVB8q7fI) | [Dream about lovely things](https://open.spotify.com/album/0Fq8Ia0RGlVDauKPsnxwAf) | 2:28 | 2023-12-08 |  |
 | [Dream Of A Garden](https://open.spotify.com/track/7qpqftu6IeKt0ATZDoqZPo) | [Rosie Stein](https://open.spotify.com/artist/5tWsDEKMacjeSXYAfg5KX7) | [Dream Of A Garden](https://open.spotify.com/album/5qu7BAxvDBHuNfXJieTOkp) | 1:32 | 2023-12-08 |  |
 | [Dreams](https://open.spotify.com/track/7LvNWRoBkIO5neAEEMCHTV) | [Elna Wood](https://open.spotify.com/artist/4OQq1goOaeVyJ5NwObkaEf) | [Dreams](https://open.spotify.com/album/5wGQM4bdUEwVEQgfnxnYO2) | 1:30 | 2023-12-08 |  |
+| [Dreamy Blue Skies](https://open.spotify.com/track/0d40MSLNaKFXjFuZguT6G6) | [Anton De Ville](https://open.spotify.com/artist/2TXm3XMc58UbpoeVEopfTt) | [Dreamy Blue Skies](https://open.spotify.com/album/72d9Ox5YwMRlrLAkjosNHA) | 1:39 | 2023-12-22 |  |
 | [Drømmer](https://open.spotify.com/track/0cbW73Xcxx91aTx3G7XPy3) | [Ritchie Wardrobe](https://open.spotify.com/artist/04xa2EjEIy886FSZiizhPy) | [Drømmer](https://open.spotify.com/album/5Rx4eiIdreClTqOBczjJhI) | 1:16 | 2023-12-08 |  |
 | [Edelweiss](https://open.spotify.com/track/5VqYIR8jiqFaMkXmXMvY2P) | [Sasha Gardner](https://open.spotify.com/artist/1v6vfNoFtjrE3iAgvJKMa7) | [Edelweiss](https://open.spotify.com/album/3XmoG1qMCD7ma5bAMPmU5a) | 1:32 | 2023-12-08 |  |
 | [Eden's Grass](https://open.spotify.com/track/0DBFljDvAjeIStakv8HASX) | [The Piano Hive](https://open.spotify.com/artist/0Mo0e0qwgpS4x9Il9FU3T7) | [Eden's Grass](https://open.spotify.com/album/2ZRy5reecRQg9hfQCFJNmJ) | 1:32 | 2023-12-08 |  |
@@ -130,6 +131,7 @@
 | [Happy Times](https://open.spotify.com/track/5ktISNmss2NX5pPIZp3tDf) | [Thora Nelson](https://open.spotify.com/artist/32SpgZv8WZjxnzitTsP6R3) | [Happy Times](https://open.spotify.com/album/5rEXMXkgfwi97O2THttUPS) | 1:38 | 2023-12-08 |  |
 | [Have You Seen The Sandman?](https://open.spotify.com/track/3Hw2GZFqv913PYaTzAfSDi) | [Anton Bruch](https://open.spotify.com/artist/7zT8gDSxsr4jwMiv2gCqIs) | [Have You Seen The Sandman?](https://open.spotify.com/album/4wuGhEKRYdTlVqgctyIyio) | 2:16 | 2023-12-08 |  |
 | [Head and Shoulders](https://open.spotify.com/track/2hvXLj1JlHLXIvTGsRL3mr) | [Astrid Clark](https://open.spotify.com/artist/78H90eE8XEqkpCOOeyPDFU) | [Head and Shoulders](https://open.spotify.com/album/2pictISDd2enjtavamSHov) | 1:34 | 2023-12-08 |  |
+| [Heart Of Gold](https://open.spotify.com/track/0MDpvtbdWeLZPw1kpynlry) | [Sandra Forster](https://open.spotify.com/artist/3TLHL40IaEycdPNoxTqK3a) | [Heart Of Gold](https://open.spotify.com/album/3f0yAEneJ07D1pFz0KEBLe) | 1:59 | 2023-12-22 |  |
 | [Heavenly](https://open.spotify.com/track/2WEY4VI0zgLGsQLQWdNRC4) | [Esmund Gunvaldsen](https://open.spotify.com/artist/763dhn5rNBi22HIzsoDFqJ) | [Heavenly](https://open.spotify.com/album/4yJMReOnZTmJq6LbohnaMy) | 1:01 | 2023-12-08 |  |
 | [Here Comes The Night](https://open.spotify.com/track/1RaPC5ZXzUtiGGDDMJGPXK) | [Dore Mi](https://open.spotify.com/artist/4njrMBDibPhATgAffWWFZM) | [Songs To Sleep To](https://open.spotify.com/album/0HmMHea4hvUgPZF3p4gsKt) | 2:09 | 2023-12-08 |  |
 | [Here In My Arms](https://open.spotify.com/track/5jWqDaOCXcCpjCfDKeVRCa) | [Dore Mi](https://open.spotify.com/artist/4njrMBDibPhATgAffWWFZM) | [Bedtime Songs](https://open.spotify.com/album/6SuPONFKD4y5EICBPmerkN) | 2:06 | 2023-12-08 |  |
@@ -220,7 +222,7 @@
 | [My Father's Moustache](https://open.spotify.com/track/1S9rM3P1dS8MHoPqmjVFsa) | [Heidi Fannon](https://open.spotify.com/artist/0dRTdF3HiuvvgrqPkXuQLf) | [My Father's Moustache](https://open.spotify.com/album/4pCz6Um63HoCutljPnTMl0) | 1:27 | 2023-12-08 |  |
 | [My Hands Are Full](https://open.spotify.com/track/3QK3U0Sdj7FN6XIRENzYm6) | [Sarah Mathieson](https://open.spotify.com/artist/2Bt65oYe6XD6YksE5ELi5n) | [How Great Thou Art](https://open.spotify.com/album/5bnQkj7VikbCOQ2q33CgVO) | 2:02 | 2023-12-08 |  |
 | [My Hiding Place](https://open.spotify.com/track/4HITXC8xC7O7i014CXIDVb) | [Jouni Holkeri](https://open.spotify.com/artist/4ibMmdzDdJ22R2ERJTXSOL) | [My Hiding Place](https://open.spotify.com/album/0mpI5YYttyvSLMnasHmxSa) | 1:38 | 2023-12-08 |  |
-| [My Island](https://open.spotify.com/track/4Waz0yg5uriDfqPwT4BX6Q) | [Silas Prescott](https://open.spotify.com/artist/4N90rB7wRgVHa0LKPWtKcw) | [My Island](https://open.spotify.com/album/7JJqOe5hV5qzp37zmWjZdW) | 1:25 | 2023-12-08 |  |
+| [My Island](https://open.spotify.com/track/4Waz0yg5uriDfqPwT4BX6Q) | [Silas Prescott](https://open.spotify.com/artist/4N90rB7wRgVHa0LKPWtKcw) | [My Island](https://open.spotify.com/album/7JJqOe5hV5qzp37zmWjZdW) | 1:25 | 2023-12-08 | 2023-12-25 |
 | [My Little Darling](https://open.spotify.com/track/3KmqJWiEBlF6RTwGPCSEZu) | [Maja Bjorn](https://open.spotify.com/artist/0V6p3SK5AzelA8avqjw87q) | [My Little Darling](https://open.spotify.com/album/1rU7f3e4LmNOFgKArebazq) | 1:28 | 2023-12-08 |  |
 | [My little Star](https://open.spotify.com/track/5dwlcntGZxSn4rCr5c5aZS) | [Catherine Finch](https://open.spotify.com/artist/2PPbLifiSbhXZZwfjtr4Kk) | [My little Star](https://open.spotify.com/album/0LegDUh60RjpLkNp0QgKi9) | 1:34 | 2023-12-08 |  |
 | [My Pink Baloon](https://open.spotify.com/track/6BDbtRoNOapsFeJQGE5fmv) | [Lille Du](https://open.spotify.com/artist/1bNG6qjWLR1cCdvsrxenvH) | [My Pink Baloon](https://open.spotify.com/album/1LeFmlbaMfz6i9nNEgfqh6) | 1:35 | 2023-12-08 |  |

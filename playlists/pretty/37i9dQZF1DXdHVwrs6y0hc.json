@@ -1,12 +1,12 @@
 {
   "description": "Come for the stew stay for the craic.",
-  "num_followers": 71331,
+  "num_followers": 71434,
   "original_name": "Irish Tavern",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGNhMmVhYzNmYTNjZTU4NDUyMjhkZDgxOWI2NmNkNTYzZmFmMTVj",
+  "snapshot_id": "MCw1NDkxMjE2ZWQxNmIwNjQ5MGY4NWM1MmFhOTU2MjE4MWIxYWUyM2Nk",
   "tracks": [
     {
       "added_at": "2021-04-26 15:38:07",
@@ -499,22 +499,6 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Many's The Fine Tale",
-        "url": "https://open.spotify.com/album/0nmsNkHCMFKJX6zQX5tEYz"
-      },
-      "artists": [
-        {
-          "name": "Ed Miller",
-          "url": "https://open.spotify.com/artist/7GmEWdBYkt5IE7EDkArB1M"
-        }
-      ],
-      "duration_ms": 221546,
-      "name": "The Lads O' The Fair",
-      "url": "https://open.spotify.com/track/0k4BqDSSeH07EQ91HzIjiM"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
         "name": "Tara: Irish Songs (Paddy Dreaming)",
         "url": "https://open.spotify.com/album/7juXwdQ8v2YpsAOjaQxoLb"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 189493,
       "name": "Madame, I'm a Darling",
       "url": "https://open.spotify.com/track/1e0zNoLVd9UGLpdJVs9WlE"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
+        "name": "Many's The Fine Tale",
+        "url": "https://open.spotify.com/album/0nmsNkHCMFKJX6zQX5tEYz"
+      },
+      "artists": [
+        {
+          "name": "Ed Miller",
+          "url": "https://open.spotify.com/artist/7GmEWdBYkt5IE7EDkArB1M"
+        }
+      ],
+      "duration_ms": 221546,
+      "name": "The Lads O' The Fair",
+      "url": "https://open.spotify.com/track/0k4BqDSSeH07EQ91HzIjiM"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -607,38 +607,6 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Sean Tyrrell Live at Greenes",
-        "url": "https://open.spotify.com/album/7hwixTHLIB7E0xkw3n3lUV"
-      },
-      "artists": [
-        {
-          "name": "Sean Tyrrell",
-          "url": "https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o"
-        }
-      ],
-      "duration_ms": 248659,
-      "name": "Sweet Ballyvaughaan - Live",
-      "url": "https://open.spotify.com/track/4b56EXwD6FWO2MtyHmKB4W"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
-        "name": "Irish Folk: Adieu to Old Ireland",
-        "url": "https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK"
-      },
-      "artists": [
-        {
-          "name": "House Devils, The",
-          "url": "https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw"
-        }
-      ],
-      "duration_ms": 342200,
-      "name": "The Flower of Finea",
-      "url": "https://open.spotify.com/track/1HZisJ0NtZbsEE1DZormSp"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
         "name": "Kieran Fahy: Irish Fiddle - Man From the West",
         "url": "https://open.spotify.com/album/55Ls12X6vikPEmzZJ4qjAe"
       },
@@ -667,6 +635,38 @@
       "duration_ms": 182800,
       "name": "Dohertys - Tommy Peoples",
       "url": "https://open.spotify.com/track/3hQb0GZC2v6wipL51lNUuh"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
+        "name": "Irish Folk: Adieu to Old Ireland",
+        "url": "https://open.spotify.com/album/0sgu5XqDRbGqRcOgIK4ynK"
+      },
+      "artists": [
+        {
+          "name": "House Devils, The",
+          "url": "https://open.spotify.com/artist/668LUkmGWcPgf02VfipBPw"
+        }
+      ],
+      "duration_ms": 342200,
+      "name": "The Flower of Finea",
+      "url": "https://open.spotify.com/track/1HZisJ0NtZbsEE1DZormSp"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
+        "name": "Sean Tyrrell Live at Greenes",
+        "url": "https://open.spotify.com/album/7hwixTHLIB7E0xkw3n3lUV"
+      },
+      "artists": [
+        {
+          "name": "Sean Tyrrell",
+          "url": "https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o"
+        }
+      ],
+      "duration_ms": 248659,
+      "name": "Sweet Ballyvaughaan - Live",
+      "url": "https://open.spotify.com/track/4b56EXwD6FWO2MtyHmKB4W"
     },
     {
       "added_at": "2021-04-26 15:38:07",

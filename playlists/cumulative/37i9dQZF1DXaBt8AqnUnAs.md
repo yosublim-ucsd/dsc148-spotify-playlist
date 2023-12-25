@@ -4,7 +4,7 @@
 
 > aqueles papo de amor tlgd não?
 
-420 songs - 20 hr 46 min
+421 songs - 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,6 +393,7 @@
 | [Tipo VMZ](https://open.spotify.com/track/0ScgXvIRAfE7FuaqrM96cU) | [Naka mrl](https://open.spotify.com/artist/1FIxVemJI8prZLU2bo4Crk), [Will Bueno](https://open.spotify.com/artist/1F9BbGwGzfC9vzfOge3izB), [Sadzone](https://open.spotify.com/artist/0nvS15lDq1di8JKroZN4jV) | [Tipo VMZ](https://open.spotify.com/album/6QSoMChYrZTnslfMrMDdj8) | 2:11 | 2022-06-03 | 2022-06-11 |
 | [Toda estranha](https://open.spotify.com/track/2meJca6wSL6dDbe2SM0uI6) | [Nilo](https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco) | [\(EX\) POSTO](https://open.spotify.com/album/5YlxSyxPJBFQeJelrmwCVd) | 2:47 | 2023-09-29 | 2023-11-25 |
 | [Toxicidade](https://open.spotify.com/track/4OtdxULki1AmnqNIf3hhvk) | [Tavin](https://open.spotify.com/artist/6VpeQWZIGXFlj8uBK38aWw), [Ugo Ludovico](https://open.spotify.com/artist/2TIQW6pADcKJb2rbgJqGKQ) | [Toxicidade](https://open.spotify.com/album/6I95LKMzfzcSlOEk4K2ayi) | 3:09 | 2023-07-28 | 2023-08-19 |
+| [Tudo Oque Quero](https://open.spotify.com/track/3jHQypDRSnCMRO244MQSrA) | [Brocasito](https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [Matrix](https://open.spotify.com/album/7HMJeHkmIyCxRSHotWeJ2K) | 2:17 | 2023-12-24 |  |
 | [Tudo Que Cê Quer](https://open.spotify.com/track/3owVuCE1JenyUfQxP5JHDt) | [Gu](https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS) | [Tudo Que Cê Quer](https://open.spotify.com/album/3K2MLjC4hP6aXFtumBbZ2O) | 2:22 | 2022-09-02 | 2023-03-25 |
 | [Tá Fod\*](https://open.spotify.com/track/3soB2fp5V9KVxQM6BZ6JIg) | [Afrocidade](https://open.spotify.com/artist/1kbDI5eg73ftGzwOf4OKZL) | [Tá Fod\*](https://open.spotify.com/album/6lProWEld2RgXzXN30KI1N) | 3:01 | 2023-11-24 | 2023-12-16 |
 | [Tá Td Bem](https://open.spotify.com/track/7tC6AAR6AqdfXzPdSENmyy) | [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src), [Vitu](https://open.spotify.com/artist/7bTFBcrLK1YKjebr457Nrz), [Gabrá](https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3) | [Tá Td Bem](https://open.spotify.com/album/1xdSNhA9QyiLlr9YOtlNaf) | 2:46 | 2023-07-07 | 2023-07-29 |

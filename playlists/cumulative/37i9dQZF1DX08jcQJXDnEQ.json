@@ -694,6 +694,24 @@
     {
       "album": {
         "name": "Spit",
+        "url": "https://open.spotify.com/album/5PyNZ5DIu4UNWYfIgJwqXH"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239066,
+      "name": "Charlotte",
+      "url": "https://open.spotify.com/track/6KNhbezV7aXC06dCpNFFVo"
+    },
+    {
+      "album": {
+        "name": "Spit",
         "url": "https://open.spotify.com/album/1afkQWD3zQlhOQLRRdZrOu"
       },
       "artists": [
@@ -704,7 +722,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 239066,
       "name": "Charlotte",
       "url": "https://open.spotify.com/track/76g4Ybt7SW4PvloFDIzsSX"

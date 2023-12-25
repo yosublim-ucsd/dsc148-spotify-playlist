@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 205238,
+  "num_followers": 205324,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTVmY2ZhZjAwOTExZTZhMmZiNjBmOTI1YjUxZTJkYTRiZDkyYjRh",
+  "snapshot_id": "MCw5N2YxYTA1Y2ZjMDUyODM5NDdhMTMxNjM0YzJmZjA4ZGZlOGY2ODZi",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -91,22 +91,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Slip",
-        "url": "https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp"
-      },
-      "artists": [
-        {
-          "name": "Quicksand",
-          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Fazer",
-      "url": "https://open.spotify.com/track/0Bv2ixOjn8jKiVTQXE9mF8"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Scratch the Surface",
         "url": "https://open.spotify.com/album/64XtvdUB3Ph6xnajJyUIJc"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 189026,
       "name": "Step Down",
       "url": "https://open.spotify.com/track/0S3YlKnOR7F6T8t20gLhf0"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Slip",
+        "url": "https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Fazer",
+      "url": "https://open.spotify.com/track/0Bv2ixOjn8jKiVTQXE9mF8"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -651,6 +651,22 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
+        "name": "Bulldog Edition",
+        "url": "https://open.spotify.com/album/74l9m4ne74mMiqqSgiWtrH"
+      },
+      "artists": [
+        {
+          "name": "Sheer Terror",
+          "url": "https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU"
+        }
+      ],
+      "duration_ms": 144413,
+      "name": "Here to Stay",
+      "url": "https://open.spotify.com/track/4XMYrzvwERu7QdF4lMSOv7"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
         "name": "What Doesn't Kill You Will Make You Stronger",
         "url": "https://open.spotify.com/album/4TOosWzdrqh1WxHkRbvxMZ"
       },
@@ -683,18 +699,18 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Bulldog Edition",
-        "url": "https://open.spotify.com/album/74l9m4ne74mMiqqSgiWtrH"
+        "name": "Friendship Loyalty Commitment",
+        "url": "https://open.spotify.com/album/7GxJgugUEG0uVauoECAi7I"
       },
       "artists": [
         {
-          "name": "Sheer Terror",
-          "url": "https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU"
+          "name": "25 Ta Life",
+          "url": "https://open.spotify.com/artist/3amFG2AzKgYyY7jBHuHuew"
         }
       ],
-      "duration_ms": 144413,
-      "name": "Here to Stay",
-      "url": "https://open.spotify.com/track/4XMYrzvwERu7QdF4lMSOv7"
+      "duration_ms": 125746,
+      "name": "Over the Years",
+      "url": "https://open.spotify.com/track/3svN7piEFZc4fn5paLZOOJ"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -711,22 +727,6 @@
       "duration_ms": 210626,
       "name": "Get This Right!",
       "url": "https://open.spotify.com/track/7y952AaC6SYiWlNwuC3Rfv"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
-        "name": "Friendship Loyalty Commitment",
-        "url": "https://open.spotify.com/album/7GxJgugUEG0uVauoECAi7I"
-      },
-      "artists": [
-        {
-          "name": "25 Ta Life",
-          "url": "https://open.spotify.com/artist/3amFG2AzKgYyY7jBHuHuew"
-        }
-      ],
-      "duration_ms": 125746,
-      "name": "Over the Years",
-      "url": "https://open.spotify.com/track/3svN7piEFZc4fn5paLZOOJ"
     },
     {
       "added_at": "2020-12-08 15:12:11",

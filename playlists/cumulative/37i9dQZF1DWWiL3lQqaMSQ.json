@@ -930,10 +930,32 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 324656,
       "name": "Great God",
       "url": "https://open.spotify.com/track/6KESa6oeA9f2y0rwiq1fA5"
+    },
+    {
+      "album": {
+        "name": "Old Fellowship Hour (Recorded Live at Christ Missionary Baptist Church, Indianapolis, IN)",
+        "url": "https://open.spotify.com/album/4mppgA8z3Yf6PqPugORaXV"
+      },
+      "artists": [
+        {
+          "name": "Demetrius West & The Jesus Promoters",
+          "url": "https://open.spotify.com/artist/4fwMQhwKGqcTb3v08fSX2x"
+        },
+        {
+          "name": "Lisa Carter-Cork",
+          "url": "https://open.spotify.com/artist/1ouuOQwFWuGuHmbb1eqSbn"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324656,
+      "name": "Great God",
+      "url": "https://open.spotify.com/track/6pbIEz5MLsFlXNrCd3mF8A"
     },
     {
       "album": {
@@ -2952,7 +2974,7 @@
     {
       "album": {
         "name": "Rampology, Vol. 1 (Live)",
-        "url": "https://open.spotify.com/album/4Q8GQFd0d2DvHMnTTsK5nx"
+        "url": "https://open.spotify.com/album/6v9UvMVC1BowTz7fsIoLCY"
       },
       "artists": [
         {
@@ -2971,6 +2993,32 @@
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 249000,
+      "name": "The Storm Is Passing Over - Live",
+      "url": "https://open.spotify.com/track/34jLMjcPWHJChNj8mjVtFS"
+    },
+    {
+      "album": {
+        "name": "Rampology, Vol. 1 (Live)",
+        "url": "https://open.spotify.com/album/4Q8GQFd0d2DvHMnTTsK5nx"
+      },
+      "artists": [
+        {
+          "name": "Bishop S.Y. Younger",
+          "url": "https://open.spotify.com/artist/0EBIOTYsxmmKe5SdiPlpMV"
+        },
+        {
+          "name": "The Sounds of the Ramp",
+          "url": "https://open.spotify.com/artist/0RO9dLdwfPHISijRQqTLpw"
+        },
+        {
+          "name": "Korey Mickie",
+          "url": "https://open.spotify.com/artist/37oTAqaieCFq7xPYY3Wcwc"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
       "duration_ms": 249000,
       "name": "The Storm Is Passing Over - Live",
       "url": "https://open.spotify.com/track/53OEOX6wJN6Qcm7vs9nxty"
@@ -3300,7 +3348,7 @@
     {
       "album": {
         "name": "Imprint (Live in Memphis)",
-        "url": "https://open.spotify.com/album/2J5NM9D4nvG4qyqVxRyuGk"
+        "url": "https://open.spotify.com/album/1gxIWgMZNfeilz6V1iFWCb"
       },
       "artists": [
         {
@@ -3311,6 +3359,24 @@
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 570594,
+      "name": "You've Been Good To Me - Live",
+      "url": "https://open.spotify.com/track/0GFG2Tr60pn7NHRAsBIe8b"
+    },
+    {
+      "album": {
+        "name": "Imprint (Live in Memphis)",
+        "url": "https://open.spotify.com/album/2J5NM9D4nvG4qyqVxRyuGk"
+      },
+      "artists": [
+        {
+          "name": "Zacardi Cortez",
+          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
       "duration_ms": 570594,
       "name": "You've Been Good To Me - Live",
       "url": "https://open.spotify.com/track/38jmSzizGEhwJL7uZ7S6JU"

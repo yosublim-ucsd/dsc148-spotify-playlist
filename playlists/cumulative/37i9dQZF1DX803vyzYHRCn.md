@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/iammilanrouge/">Milan Harris</a>
 
-49 songs - 3 hr 15 min
+50 songs - 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Run This Town](https://open.spotify.com/track/5zz33Ev3mwKnpXI9IZ3a8K) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Blueprint 3](https://open.spotify.com/album/1g3Ek21j6qDWt2CtravhrX) | 4:27 | 2023-12-01 |  |
 | [So Special](https://open.spotify.com/track/1phfqF2ZNrLAOMFuLb0ZsN) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Tha Carter IV \(Complete Edition\)](https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp) | 3:52 | 2023-12-01 |  |
 | [Song Cry](https://open.spotify.com/track/19ELgyBdMcEjGcbFHcY1ba) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Blueprint](https://open.spotify.com/album/54I5tDCMjnNVWSENHg8EDH) | 5:02 | 2023-12-01 |  |
-| [Summer With Miami](https://open.spotify.com/track/17HCeeGuZnh6pE53F128JI) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [Harlem \- Diary Of A Summer](https://open.spotify.com/album/5q9MWXFGe9ynNzn0kBgma5) | 3:26 | 2023-12-01 |  |
+| [Summer Wit' Miami](https://open.spotify.com/track/0pJ1L8Rq1R3RGMerdFFe3I) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [City of God](https://open.spotify.com/album/3PKrzzKzCAtbI5kTi3KHuO) | 3:26 | 2023-12-01 |  |
+| [Summer With Miami](https://open.spotify.com/track/17HCeeGuZnh6pE53F128JI) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [Harlem \- Diary Of A Summer](https://open.spotify.com/album/5q9MWXFGe9ynNzn0kBgma5) | 3:26 | 2023-12-01 | 2023-12-25 |
 | [Ultralight Beam](https://open.spotify.com/track/1eQBEelI2NCy7AUTerX0KS) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 5:20 | 2023-12-01 |  |
 | [Used to This \(feat\. Drake\)](https://open.spotify.com/track/3V8sM5OOG6YfDuDLa2IIYJ) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Used to This \(feat\. Drake\)](https://open.spotify.com/album/0BR3ra3Bqf6ZBJbD8t4tIu) | 3:00 | 2023-12-01 |  |
 | [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/7g7ZSLwsRWWnkuQ2s3Iq8X) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [I NEVER LIKED YOU](https://open.spotify.com/album/2RhQb6lyiOVIH0IV1KVmLu) | 3:09 | 2023-12-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Trending songs from Tollywood! <br/>Cover: Guntur Kaaram
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,836 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,018 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 29 | [Kalalo Kooda](https://open.spotify.com/track/5Tn2aBp45QypSmCpmhKtJN) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Vaishnavi Kovvuri](https://open.spotify.com/artist/4x2ISDzC44n2AmVAiBTp4g) | [Liger \(Telugu\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0bI7C4I6FzlNlZZDqJOfDJ) | 4:06 |
 | 30 | [Pulsar Bike](https://open.spotify.com/track/48CzymfD7NHtc78cwVkbtD) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC) | [Dhamaka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/08qZ0FNkJSDN1Qd5w0pDxG) | 2:10 |
 | 31 | [Mastaaru Mastaaru](https://open.spotify.com/track/59eeV0SIeyd431uyjAWCRe) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9) | [Sir](https://open.spotify.com/album/7qJBv6QEwl0DQDlNg3mBvc) | 3:45 |
-| 32 | [Nenu Nuvvantu](https://open.spotify.com/track/4swLsRDd6VI5BB1dej03L3) | [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI), [Nadeesh](https://open.spotify.com/artist/0g5fVrrOznFqf7yfnLd8sE), [U.V.Jackey](https://open.spotify.com/artist/3boPdM5gG0ZyA6IjZCFsyn) | [Orange](https://open.spotify.com/album/6bCI1qj8z8YEE2WJkGMKnn) | 4:47 |
+| 32 | [Nenu Nuvvantu](https://open.spotify.com/track/7iz4bA1fllGZYErPcUX1gB) | [Naresh Iyer](https://open.spotify.com/artist/7FaGCZiP3s6X7jQTB8EhfI), [Nadeesh](https://open.spotify.com/artist/0g5fVrrOznFqf7yfnLd8sE), [U.V.Jackey](https://open.spotify.com/artist/3boPdM5gG0ZyA6IjZCFsyn) | [Enchanting Genelia D'Souza](https://open.spotify.com/album/3XHxCEfjqGN32wDk3NGhTe) | 4:47 |
 | 33 | [Jinthaak Chithaka](https://open.spotify.com/track/5lros38FrhzSXgABKnBsb4) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC), [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Jinthaak Chithaka \(From "Dhamaka"\)](https://open.spotify.com/album/3SvbrLQNDgpWGWg1ldb3pJ) | 3:45 |
 | 34 | [Darshana](https://open.spotify.com/track/3eIkuy5Fr7kuQXiro0czUM) | [Chaitan Bharadwaj](https://open.spotify.com/artist/7uc8AizyyDG8ujFdTxZ7q5), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Vinaro Bhagyamu Vishnu Katha](https://open.spotify.com/album/5IYnCIHoayjRyzW6OiumQb) | 3:38 |
 | 35 | [Apudo Ipudo](https://open.spotify.com/track/4KDq9bn0wdEbIFQDi1CGgj) | [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P) | [Bommarillu](https://open.spotify.com/album/2394D0vwxXW80JtLlYSuWj) | 4:03 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 41 | [My Heart is Beating](https://open.spotify.com/track/3ppaMjhBDxRi2kTpawOSJn) | [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Jalsa](https://open.spotify.com/album/4TmtWuheIr8ejxIjBpLU2u) | 4:58 |
 | 42 | [Gaali Vaaluga](https://open.spotify.com/track/5pOY1Vg2TIIbVBfR6yAg0C) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Agnyaathavaasi](https://open.spotify.com/album/6RsL60SSZTVwigjfyY8mD2) | 4:18 |
 | 43 | [Baguntundhi Nuvvu Navvithe](https://open.spotify.com/track/1eWooUUh7E796VP86o15BN) | [Shekar Chandra](https://open.spotify.com/artist/5ds7YHzRIeaGrAKGPR62fA), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Nutana Mohan](https://open.spotify.com/artist/0RGaIKSEzZnlNTLCJKnv0H) | [Atithi Devobhava \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4IfrN0wja84AWvgT68KCtX) | 3:42 |
-| 44 | [Rooba Rooba](https://open.spotify.com/track/1rJmySqUrHQP0O4l1JX8E9) | [Shahil Hada](https://open.spotify.com/artist/4Rn2NNAPBegkcTSPz54jcc), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Orange](https://open.spotify.com/album/6bCI1qj8z8YEE2WJkGMKnn) | 5:14 |
+| 44 | [Rooba Rooba](https://open.spotify.com/track/7HQqbgYvDcPFodXPyg3qp5) | [Shail Hada](https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Mega Power Star](https://open.spotify.com/album/4l1UZrzOz1la6gcFsEuktY) | 5:14 |
 | 45 | [Inka Edho](https://open.spotify.com/track/0WM0NpFIZg6JhgneUyU5tl) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Suraj](https://open.spotify.com/artist/0bBzXVM5uyfScuo6QLqKqE), [Prashanthini](https://open.spotify.com/artist/4joteb3wCfZYGKjvF0XvLx) | [Darling \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/13J2XQOZo0I8ZAufTXFvyd) | 5:15 |
 | 46 | [Uppenantha](https://open.spotify.com/track/57zEYntUat0ofbFpoicN26) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [KK](https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp) | [Aarya \- 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7vuWNVdv7zSwgHJ7qx26O4) | 5:27 |
 | 47 | [Niluvaddham](https://open.spotify.com/track/1ifMH14KizpUxIdRVyPsSZ) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Sumangaly](https://open.spotify.com/artist/0WpkyIAATl5W540KCSEUwX) | [Nuvvostanante Nenoddantana](https://open.spotify.com/album/5I3dEH9cXdYmo8MVIdOkxO) | 5:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 49 | [Neeve](https://open.spotify.com/track/4QMZ6gwFTLk9qOhaQsGIxf) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Darling \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/13J2XQOZo0I8ZAufTXFvyd) | 4:41 |
 | 50 | [Oy..Oy..](https://open.spotify.com/track/7o20g3bZRdwy6MtiUP9pOx) | [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P), [Prashanthini](https://open.spotify.com/artist/4joteb3wCfZYGKjvF0XvLx) | [Oye](https://open.spotify.com/album/4I7t128bqln9m45RZlMJU8) | 4:42 |
 
-Snapshot ID: `MCw0MzMzYzNlMDNkYjJlYTI2MTlmOGI5NTBkYzQ1MGVlYmNkZjhmM2Jj`
+Snapshot ID: `MCw4MzljZDBiOTQ0NzAxM2Q2ZmExZmRjMTc1YjczMDc2MDJhZjJhY2U2`

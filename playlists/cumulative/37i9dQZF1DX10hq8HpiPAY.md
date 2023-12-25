@@ -4,11 +4,12 @@
 
 > Host of "GoOD Mornings w/ CurlyNikki" and "Meditation w/ CurlyNikki’ shares the music that keeps her feeling GoOD\. Cover: Nikki Walton
 
-31 songs - 4 hr 51 min
+32 songs - 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Baba Hanuman](https://open.spotify.com/track/4Frp9uObfJLGLsMXosQp27) | [Krishna Das](https://open.spotify.com/artist/7BIXafmacnax46P30TEzNz) | [Breath of the Heart](https://open.spotify.com/album/6UxQYKwxX79QNmagONxvr0) | 13:58 | 2022-10-04 |  |
+| [Baba Hanuman](https://open.spotify.com/track/468YB4iLb2YJyncuHGJ62i) | [Krishna Das](https://open.spotify.com/artist/7BIXafmacnax46P30TEzNz) | [Breath of the Heart](https://open.spotify.com/album/2RNmtNcssxfz2BItN1jUnQ) | 13:58 | 2022-10-04 |  |
+| [Baba Hanuman](https://open.spotify.com/track/4Frp9uObfJLGLsMXosQp27) | [Krishna Das](https://open.spotify.com/artist/7BIXafmacnax46P30TEzNz) | [Breath of the Heart](https://open.spotify.com/album/6UxQYKwxX79QNmagONxvr0) | 13:58 | 2022-10-04 | 2023-12-25 |
 | [Birds](https://open.spotify.com/track/3HWDWyIqWuLsTHECx9DvXF) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 3:49 | 2022-10-04 |  |
 | [Brindavan Hare Ram](https://open.spotify.com/track/3faStz9tu8BZCjZwGYxx1f) | [Krishna Das](https://open.spotify.com/artist/7BIXafmacnax46P30TEzNz) | [Breath of the Heart](https://open.spotify.com/album/6UxQYKwxX79QNmagONxvr0) | 7:43 | 2022-10-04 | 2023-12-24 |
 | [Brindavan Hare Ram](https://open.spotify.com/track/6vzYofDukTbayVKpxiNcNb) | [Krishna Das](https://open.spotify.com/artist/7BIXafmacnax46P30TEzNz) | [Breath of the Heart](https://open.spotify.com/album/2RNmtNcssxfz2BItN1jUnQ) | 7:43 | 2022-10-04 |  |

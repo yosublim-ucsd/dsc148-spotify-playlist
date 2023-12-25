@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Alan Walker x YUQI x JVKE
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,980 likes - 80 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,012 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 79 | [54 Hours](https://open.spotify.com/track/7GMv05oN3VnJLsQptfT6ZQ) | [Flamingo Cartel](https://open.spotify.com/artist/6p4SjQc5fE2Tu9xgh33S8D), [DJ TARO](https://open.spotify.com/artist/0ZUlkaqycHiFNXBjCiJLSo), [Lewis Ray](https://open.spotify.com/artist/1Dkb2YpzUItkuERW7BFjND) | [54 Hours](https://open.spotify.com/album/2IX1aRioQMKVmuLDAaDUrW) | 3:00 |
 | 80 | [FEEL \(feat\. REWEL\)](https://open.spotify.com/track/4BC7VcrszMhGHpM5eKEJOH) | [C3DRIC](https://open.spotify.com/artist/5P2W0yAyT5iL5HzSi7uHpK), [USAI](https://open.spotify.com/artist/2URl3RyFpTbuZSa8AhZLGt), [REWEL](https://open.spotify.com/artist/73UOSrluHvjIdsQE8L4hEX) | [FEEL \(feat\. REWEL\)](https://open.spotify.com/album/3zkwh6xLhWcucGqzBPmNvW) | 2:14 |
 
-Snapshot ID: `MCw4ZTBlYTE1ODY0MzkxZDAyZjZkNDYyNWZlZWVmZDczNWJiNDk1ZDM3`
+Snapshot ID: `MCw2MDZjNGYxMGRkNTYwMjgwNzkzMzc3ZGVhYmE5NTVmNGE4NTkxNzA4`

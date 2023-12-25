@@ -1,12 +1,12 @@
 {
   "description": "Music from \"Aikatsu!\", a story of young girls dreaming of becoming a top idol. \u30c8\u30c3\u30d7\u30a2\u30a4\u30c9\u30eb\u3092\u76ee\u6307\u3059\u5c11\u5973\u9054\u306e\u7269\u8a9e\u3001<a href=\"http://www.aikatsu.net/01/\">\u30a2\u30a4\u30ab\u30c4\uff01</a>\u306e\u714c\u3081\u304f\u4e16\u754c\u3078\u3002(C)BNP/BANDAI, DENTSU, TV TOKYO",
-  "num_followers": 28850,
+  "num_followers": 28858,
   "original_name": "Let's Aikatsu! -\u30a2\u30a4\u30ab\u30c4-\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWY0ZGM4MDZmYjI0MGNiZmVhMWQ0NjZjM2I2ZmFmYjhhNDJiN2Yy",
+  "snapshot_id": "MCwyODUyMGNhNDNmOTBkMDNiZjk5NWU2NjBlZmZmNTJmZGZjMzI3NTg0",
   "tracks": [
     {
       "added_at": "2022-07-26 16:16:56",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-07-26 16:16:56",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300f\u4e3b\u984c\u6b4c/\u633f\u5165\u6b4c 3\u5e74\u76ee1",
-        "url": "https://open.spotify.com/album/3dbKvUmC2KAWgTWkVPDQ7Y"
-      },
-      "artists": [
-        {
-          "name": "\u3082\u306a from AIKATSU\u2606STARS!",
-          "url": "https://open.spotify.com/artist/4VPREigW2d9IB5D8xZEZw9"
-        }
-      ],
-      "duration_ms": 243040,
-      "name": "\u30bf\u30eb\u30c8\u30fb\u30bf\u30bf\u30f3",
-      "url": "https://open.spotify.com/track/14rUJ3yA1zQsJwuH2DmMEH"
-    },
-    {
-      "added_at": "2022-07-26 16:16:56",
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS12",
         "url": "https://open.spotify.com/album/6oGCfLrXyvdxGPqE16cqgk"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 283293,
       "name": "START DASH SENSATION",
       "url": "https://open.spotify.com/track/1uPdTnKqdbXQTkDJLr1OVO"
+    },
+    {
+      "added_at": "2022-07-26 16:16:56",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS7",
+        "url": "https://open.spotify.com/album/2Sem3JWBAq2Mj07a7WMQD2"
+      },
+      "artists": [
+        {
+          "name": "\u308f\u304b\u30fb\u3075\u3046\u308a\u30fb\u3059\u306a\u304a\u30fb\u308c\u307f\u30fb\u3082\u3048 from STAR\u2606ANIS",
+          "url": "https://open.spotify.com/artist/5luj8dLsbPa7sDj57qTmvK"
+        }
+      ],
+      "duration_ms": 283706,
+      "name": "fashion check!",
+      "url": "https://open.spotify.com/track/3EkrkoXhZ47Wuz7YTkpJgL"
     },
     {
       "added_at": "2022-07-26 16:16:56",
@@ -255,18 +255,18 @@
     {
       "added_at": "2022-07-26 16:16:56",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS7",
-        "url": "https://open.spotify.com/album/2Sem3JWBAq2Mj07a7WMQD2"
+        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300f\u4e3b\u984c\u6b4c/\u633f\u5165\u6b4c 3\u5e74\u76ee1",
+        "url": "https://open.spotify.com/album/3dbKvUmC2KAWgTWkVPDQ7Y"
       },
       "artists": [
         {
-          "name": "\u308f\u304b\u30fb\u3075\u3046\u308a\u30fb\u3059\u306a\u304a\u30fb\u308c\u307f\u30fb\u3082\u3048 from STAR\u2606ANIS",
-          "url": "https://open.spotify.com/artist/5luj8dLsbPa7sDj57qTmvK"
+          "name": "\u3082\u306a from AIKATSU\u2606STARS!",
+          "url": "https://open.spotify.com/artist/4VPREigW2d9IB5D8xZEZw9"
         }
       ],
-      "duration_ms": 283706,
-      "name": "fashion check!",
-      "url": "https://open.spotify.com/track/3EkrkoXhZ47Wuz7YTkpJgL"
+      "duration_ms": 243040,
+      "name": "\u30bf\u30eb\u30c8\u30fb\u30bf\u30bf\u30f3",
+      "url": "https://open.spotify.com/track/14rUJ3yA1zQsJwuH2DmMEH"
     },
     {
       "added_at": "2022-07-26 16:16:56",
@@ -548,13 +548,13 @@
       },
       "artists": [
         {
-          "name": "\u308f\u304b from STAR\u2606ANIS",
-          "url": "https://open.spotify.com/artist/1NaE2Fjd4zGS4locbVUAAq"
+          "name": "\u3059\u306a\u304a from STAR\u2606ANIS",
+          "url": "https://open.spotify.com/artist/75ALaxGClrqPrdEXeYuOfw"
         }
       ],
-      "duration_ms": 201026,
-      "name": "Growing for a dream",
-      "url": "https://open.spotify.com/track/06DjATSo7mVXy3fSxzct1e"
+      "duration_ms": 232200,
+      "name": "Kira\u30fbpata\u30fbshining",
+      "url": "https://open.spotify.com/track/4U6WZhonhK9NUKjad9GDG3"
     },
     {
       "added_at": "2022-07-26 16:16:56",
@@ -564,13 +564,13 @@
       },
       "artists": [
         {
-          "name": "\u3059\u306a\u304a from STAR\u2606ANIS",
-          "url": "https://open.spotify.com/artist/75ALaxGClrqPrdEXeYuOfw"
+          "name": "\u308f\u304b from STAR\u2606ANIS",
+          "url": "https://open.spotify.com/artist/1NaE2Fjd4zGS4locbVUAAq"
         }
       ],
-      "duration_ms": 232200,
-      "name": "Kira\u30fbpata\u30fbshining",
-      "url": "https://open.spotify.com/track/4U6WZhonhK9NUKjad9GDG3"
+      "duration_ms": 201026,
+      "name": "Growing for a dream",
+      "url": "https://open.spotify.com/track/06DjATSo7mVXy3fSxzct1e"
     },
     {
       "added_at": "2022-07-26 16:16:56",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-07-26 16:16:56",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS7",
-        "url": "https://open.spotify.com/album/2Sem3JWBAq2Mj07a7WMQD2"
-      },
-      "artists": [
-        {
-          "name": "\u308f\u304b from STAR\u2606ANIS",
-          "url": "https://open.spotify.com/artist/1NaE2Fjd4zGS4locbVUAAq"
-        }
-      ],
-      "duration_ms": 244013,
-      "name": "Dance in the rain",
-      "url": "https://open.spotify.com/track/03lawGUAmNrQLej1YXSugH"
-    },
-    {
-      "added_at": "2022-07-26 16:16:56",
-      "album": {
         "name": "\u30a2\u30a4\u30ab\u30c4\uff01\u30b7\u30ea\u30fc\u30ba 10th Anniversary Album Vol.09\u300cVERY MANY SEASONING\u300d",
         "url": "https://open.spotify.com/album/3WsUPfnZwzMUrzAsajiI80"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 237782,
       "name": "MY SHOW TIME!",
       "url": "https://open.spotify.com/track/0ShIS6k0PZGmYCWfF4J1aU"
+    },
+    {
+      "added_at": "2022-07-26 16:16:56",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS7",
+        "url": "https://open.spotify.com/album/2Sem3JWBAq2Mj07a7WMQD2"
+      },
+      "artists": [
+        {
+          "name": "\u308f\u304b from STAR\u2606ANIS",
+          "url": "https://open.spotify.com/artist/1NaE2Fjd4zGS4locbVUAAq"
+        }
+      ],
+      "duration_ms": 244013,
+      "name": "Dance in the rain",
+      "url": "https://open.spotify.com/track/03lawGUAmNrQLej1YXSugH"
     },
     {
       "added_at": "2022-07-26 16:16:56",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-07-26 16:16:56",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS7",
-        "url": "https://open.spotify.com/album/2Sem3JWBAq2Mj07a7WMQD2"
-      },
-      "artists": [
-        {
-          "name": "\u308c\u307f from STAR\u2606ANIS",
-          "url": "https://open.spotify.com/artist/52g1qfRaPKmk3L4CTEH7Ec"
-        }
-      ],
-      "duration_ms": 272400,
-      "name": "\u653e\u8ab2\u5f8c\u30dd\u30cb\u30fc\u30c6\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/3xiGIhBilgostXej4XQXdm"
-    },
-    {
-      "added_at": "2022-07-26 16:16:56",
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS9",
         "url": "https://open.spotify.com/album/32XLP5WOPpnRg24tRlV2Mt"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 276666,
       "name": "Blooming\u25bdBlooming",
       "url": "https://open.spotify.com/track/141Pt7oFoPnfOFslHSbT0D"
+    },
+    {
+      "added_at": "2022-07-26 16:16:56",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS7",
+        "url": "https://open.spotify.com/album/2Sem3JWBAq2Mj07a7WMQD2"
+      },
+      "artists": [
+        {
+          "name": "\u308c\u307f from STAR\u2606ANIS",
+          "url": "https://open.spotify.com/artist/52g1qfRaPKmk3L4CTEH7Ec"
+        }
+      ],
+      "duration_ms": 272400,
+      "name": "\u653e\u8ab2\u5f8c\u30dd\u30cb\u30fc\u30c6\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/3xiGIhBilgostXej4XQXdm"
     },
     {
       "added_at": "2022-07-26 16:16:56",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-07-26 16:16:56",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS12",
-        "url": "https://open.spotify.com/album/6oGCfLrXyvdxGPqE16cqgk"
-      },
-      "artists": [
-        {
-          "name": "\u308f\u304b from STAR\u2606ANIS",
-          "url": "https://open.spotify.com/artist/1NaE2Fjd4zGS4locbVUAAq"
-        }
-      ],
-      "duration_ms": 313240,
-      "name": "\u8f1d\u304d\u306e\u30a8\u30c1\u30e5\u30fc\u30c9",
-      "url": "https://open.spotify.com/track/7oJ09B2zdbrNO3f1fc0XYl"
-    },
-    {
-      "added_at": "2022-07-26 16:16:56",
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300f\u4e3b\u984c\u6b4c/\u633f\u5165\u6b4c 4\u5e74\u76ee",
         "url": "https://open.spotify.com/album/33FEqBU7HvfqrWtpaOiHRT"
       },
@@ -855,22 +839,34 @@
     {
       "added_at": "2022-07-26 16:16:56",
       "album": {
-        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS9",
-        "url": "https://open.spotify.com/album/32XLP5WOPpnRg24tRlV2Mt"
+        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS12",
+        "url": "https://open.spotify.com/album/6oGCfLrXyvdxGPqE16cqgk"
       },
       "artists": [
         {
-          "name": "\u308c\u307f from STAR\u2606ANIS",
-          "url": "https://open.spotify.com/artist/52g1qfRaPKmk3L4CTEH7Ec"
-        },
-        {
-          "name": "\u307f\u307b from AIKATSU\u2606STARS!",
-          "url": "https://open.spotify.com/artist/2TdTi3d30hAIeAro45nHi0"
+          "name": "\u308f\u304b from STAR\u2606ANIS",
+          "url": "https://open.spotify.com/artist/1NaE2Fjd4zGS4locbVUAAq"
         }
       ],
-      "duration_ms": 235146,
-      "name": "\u8584\u7d05\u30c7\u30a4\u30c8\u30ea\u30c3\u30d1\u30fc",
-      "url": "https://open.spotify.com/track/0LCdEIY2ALIEeJKkKUPHAt"
+      "duration_ms": 313240,
+      "name": "\u8f1d\u304d\u306e\u30a8\u30c1\u30e5\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/7oJ09B2zdbrNO3f1fc0XYl"
+    },
+    {
+      "added_at": "2022-07-26 16:16:56",
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1/\u30c7\u30fc\u30bf\u30ab\u30fc\u30c9\u30c0\u30b9\u300e\u30a2\u30a4\u30ab\u30c4!\u300fCOMPLETE SONGS11",
+        "url": "https://open.spotify.com/album/4dXDb1yg5xqhkrC8Sdyd7X"
+      },
+      "artists": [
+        {
+          "name": "\u3082\u306a from STAR\u2606ANIS",
+          "url": "https://open.spotify.com/artist/1KEnYcLDJ6yuuRhIog6cBY"
+        }
+      ],
+      "duration_ms": 245653,
+      "name": "\u3044\u3070\u3089\u306e\u5973\u738b",
+      "url": "https://open.spotify.com/track/2SXC1p5WZ6WsgjqaXgkOiR"
     }
   ],
   "unique_name": "Let's Aikatsu! -\u30a2\u30a4\u30ab\u30c4-\uff01",

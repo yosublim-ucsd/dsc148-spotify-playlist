@@ -1,12 +1,12 @@
 {
   "description": "feel it all. Cover: Something Corporate",
-  "num_followers": 1644290,
+  "num_followers": 1644646,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOWEwOTZiNzdmMWFhMDRkNTI0OWFmZTJhYTk2MjE3NDcyMDQ1ZWQx",
+  "snapshot_id": "MCxlYjMzZDRlY2JlM2M1YjNmMWQzMGI1ZjgzM2Y2NjUxYWQ5NmQyZDRl",
   "tracks": [
     {
       "added_at": "2023-10-22 18:43:11",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "Reach For The Sun",
-        "url": "https://open.spotify.com/album/1awdBA8DLv6G5eBvdGxk8T"
-      },
-      "artists": [
-        {
-          "name": "The Dangerous Summer",
-          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
-        }
-      ],
-      "duration_ms": 203560,
-      "name": "The Permanent Rain",
-      "url": "https://open.spotify.com/track/4SJIVblEnmdhUHnCjanfsE"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
         "name": "Let It Enfold You",
         "url": "https://open.spotify.com/album/1dnNjLBeisuc0bUp3wwPR1"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 179986,
       "name": "Buried a Lie",
       "url": "https://open.spotify.com/track/5sDwxoaXxrffN65UfWPfRR"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
+        "name": "Reach For The Sun",
+        "url": "https://open.spotify.com/album/1awdBA8DLv6G5eBvdGxk8T"
+      },
+      "artists": [
+        {
+          "name": "The Dangerous Summer",
+          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
+        }
+      ],
+      "duration_ms": 203560,
+      "name": "The Permanent Rain",
+      "url": "https://open.spotify.com/track/4SJIVblEnmdhUHnCjanfsE"
     },
     {
       "added_at": "2023-10-22 18:43:11",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
-        "name": "Everything In Transit",
-        "url": "https://open.spotify.com/album/7gfFEfHxjkmy6sP1fhLaJM"
-      },
-      "artists": [
-        {
-          "name": "Jack's Mannequin",
-          "url": "https://open.spotify.com/artist/42aeGx2I3uXINpGqC8L0LD"
-        }
-      ],
-      "duration_ms": 194440,
-      "name": "The Mixed Tape - 2015 Remastered",
-      "url": "https://open.spotify.com/track/4NaPX1b3NsQqJrrAwkkvVc"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
         "name": "The Lonesome Crowded West",
         "url": "https://open.spotify.com/album/5mvHTVy1iUIkAflIufoOpj"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 209960,
       "name": "Polar Opposites",
       "url": "https://open.spotify.com/track/5EsM3rVaMDRsOXJq7oe3tY"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
+        "name": "Everything In Transit",
+        "url": "https://open.spotify.com/album/7gfFEfHxjkmy6sP1fhLaJM"
+      },
+      "artists": [
+        {
+          "name": "Jack's Mannequin",
+          "url": "https://open.spotify.com/artist/42aeGx2I3uXINpGqC8L0LD"
+        }
+      ],
+      "duration_ms": 194440,
+      "name": "The Mixed Tape - 2015 Remastered",
+      "url": "https://open.spotify.com/track/4NaPX1b3NsQqJrrAwkkvVc"
     },
     {
       "added_at": "2023-10-22 18:43:11",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2023-10-22 18:43:11",
       "album": {
+        "name": "Juturna",
+        "url": "https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP"
+      },
+      "artists": [
+        {
+          "name": "Circa Survive",
+          "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Act Appalled",
+      "url": "https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul"
+    },
+    {
+      "added_at": "2023-10-22 18:43:11",
+      "album": {
         "name": "Chroma",
         "url": "https://open.spotify.com/album/6YdfLXc1XlgsDeHCg6e37Q"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 224373,
       "name": "Nikki",
       "url": "https://open.spotify.com/track/2xu7bTUyvvJMBMi6JXvWAZ"
-    },
-    {
-      "added_at": "2023-10-22 18:43:11",
-      "album": {
-        "name": "Juturna",
-        "url": "https://open.spotify.com/album/0huXZPw7bhK5vTv7CMYOmP"
-      },
-      "artists": [
-        {
-          "name": "Circa Survive",
-          "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Act Appalled",
-      "url": "https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul"
     },
     {
       "added_at": "2023-10-22 18:43:11",

@@ -11591,6 +11591,24 @@
     },
     {
       "album": {
+        "name": "Noel Nouvelet (Felt Piano Version)",
+        "url": "https://open.spotify.com/album/4xBjq4sVR1eX7kaLygyZAU"
+      },
+      "artists": [
+        {
+          "name": "Dream Presence",
+          "url": "https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60744,
+      "name": "Noel Nouvelet - Felt Piano Version",
+      "url": "https://open.spotify.com/track/5icxJu3YAggOmoEAWHNFd0"
+    },
+    {
+      "album": {
         "name": "Cello In The Night",
         "url": "https://open.spotify.com/album/5u9baQ1xJG6ATmeGrXmeF1"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Highlights of 2023..\. listen to Canadian women at full volume\. Cover: Tate McRae
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,171 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,173 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 | 49 | [Hello](https://open.spotify.com/track/1Sr7G1nLlnAFZ8AKT7PuGo) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Hello](https://open.spotify.com/album/3eBHvRyUhfarjwJH0YK7HK) | 3:15 |
 | 50 | [Comfort](https://open.spotify.com/track/633bWqyVVdEFJl9xlVhTY4) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Comfort](https://open.spotify.com/album/1KZK8IfymPwrb8rspEMhhX) | 3:04 |
 
-Snapshot ID: `MCwyNTZlNTY0NWU4ZjAyZDkwNWRmZDdiMjdjYjVhZjMyZDNlN2FlMWI2`
+Snapshot ID: `MCxmMjcxMTc5MjNlYzE5NjNhNTg1N2IzZDI4OTk2Njg5NTE5NzZkOGVk`

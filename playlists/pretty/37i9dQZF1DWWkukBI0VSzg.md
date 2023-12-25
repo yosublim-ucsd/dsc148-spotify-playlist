@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkukBI0VSzg.md) - [plain]
 
 > Listen to all of the music from the new Netflix series, Princess Power.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,950 likes - 20 songs - 40 min 40 sec
+[Spotify](https://open.spotify.com/user/spotify) - 3,957 likes - 20 songs - 40 min 40 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWkukBI0VSzg.md) - [plain]
 | 14 | [Good Good Day](https://open.spotify.com/track/7GBJRh3VuuahAsusXIopQ7) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 4](https://open.spotify.com/album/6HNhpLhni1sQwajwDBT0RT) | 2:37 |
 | 15 | [The Music In You \(From Gabby's Dollhouse\) \- Remix](https://open.spotify.com/track/6NXLmQ3xWX3ec9uZy3copR) | [Eduardo Franco](https://open.spotify.com/artist/1PpNXrIz5vq9XtTkTZN6gN), [Keeley Bumford](https://open.spotify.com/artist/6KnAsHX2TGxxtrh5O7HC8Y), [Ryan Lofty](https://open.spotify.com/artist/4EPGVr8y6IFkQcOWslDm8L) | [The Music In You \(From Gabby's Dollhouse\) \[Remix\]](https://open.spotify.com/album/2GehjmYFU1FG1FYNKWj0ag) | 2:32 |
 | 16 | [Ultraluminary \(From the Netflix Film "Over the Moon"\)](https://open.spotify.com/track/5Yx7Cl7QZx80fx3hvESVB2) | [Phillipa Soo](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 3:20 |
-| 17 | [Glowin' Up](https://open.spotify.com/track/0lvWi6SqiMMACAYK8ldqnU) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [My Little Pony: A New Generation \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4wgoVzfqKBkE5ZKlBfs89g) | 3:11 |
+| 17 | [Glowin' Up](https://open.spotify.com/track/594bEDSIxUNaKYF2FuHSpm) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [Glowin' Up \(from the Netflix film "My Little Pony: A New Generation"\)](https://open.spotify.com/album/7e9yA0WHIIdClfthaj2yTk) | 3:11 |
 | 18 | [ROAR](https://open.spotify.com/track/2i84adxgZGi1ujHaLdKPSG) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Back to the Outback \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5X85NobmlyfXSt649o21Y6) | 3:55 |
 | 19 | [You're A Star](https://open.spotify.com/track/0uVlPXd7hF21o4Q1W66kGt) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams: Vol\. 1](https://open.spotify.com/album/5O3GrZ9O4eziEZmGBVENZF) | 2:46 |
 | 20 | [Hey Boy](https://open.spotify.com/track/4xTGusVtTVFmKLRaUNRD7w) | [Phillipa Soo](https://open.spotify.com/artist/2OEGI2wrCVmvavKEOMlccy), [Robert G\. Chiu](https://open.spotify.com/artist/7w1guDBNeJPNishwQ8qJAv) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 1:47 |
 
-Snapshot ID: `MCw5NTNmMzI2YjEwYTJjZjU0ZTc5MjA2M2VjYzNiM2U1ZWJkYTZkNjEz`
+Snapshot ID: `MCxhM2QxYzQ1OTI0MTBmODczYzNiMzc2N2YzYzlkYmIwNWFlMjg5ZjIw`

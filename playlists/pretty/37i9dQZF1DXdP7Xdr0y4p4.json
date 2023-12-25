@@ -1,12 +1,12 @@
 {
   "description": "An essential list of recent hits of SoGo.  Cover:  <a href=\"https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA\">The Browns</a>",
-  "num_followers": 12197,
+  "num_followers": 12202,
   "original_name": "Streets Of Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDNjNGY4N2VmMzZjOWY2ZDk5ZWUxZjY4ZTBjYmU2MTA4NjM5MDMx",
+  "snapshot_id": "MCw4YWQzYTYzYmM5ODZhZjNlODI3NTkxNmViNmU5OGZjMjE3YjdjMmM0",
   "tracks": [
     {
       "added_at": "2023-04-14 06:27:38",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Precious Seed",
-        "url": "https://open.spotify.com/album/2kjRMGXR9PsTasb7zKvkXV"
-      },
-      "artists": [
-        {
-          "name": "The McKameys",
-          "url": "https://open.spotify.com/artist/5XKuliaOmskgaVt1VQ6ljF"
-        }
-      ],
-      "duration_ms": 196160,
-      "name": "Unspoken Request",
-      "url": "https://open.spotify.com/track/0YgjI0mxkyf52glsaxk2oX"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Breakthrough",
         "url": "https://open.spotify.com/album/51ycbHjIPZYsJAPDaUix4w"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 251733,
       "name": "It's About the Cross",
       "url": "https://open.spotify.com/track/4VrSBQliLFkLvIB28wovQ5"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Precious Seed",
+        "url": "https://open.spotify.com/album/2kjRMGXR9PsTasb7zKvkXV"
+      },
+      "artists": [
+        {
+          "name": "The McKameys",
+          "url": "https://open.spotify.com/artist/5XKuliaOmskgaVt1VQ6ljF"
+        }
+      ],
+      "duration_ms": 196160,
+      "name": "Unspoken Request",
+      "url": "https://open.spotify.com/track/0YgjI0mxkyf52glsaxk2oX"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "A New Chapter",
-        "url": "https://open.spotify.com/album/5uAhKPfP2Iy5lCgxLUQEpN"
-      },
-      "artists": [
-        {
-          "name": "Jim Brady Trio",
-          "url": "https://open.spotify.com/artist/370fla8RwoHgAhGzUy56OB"
-        }
-      ],
-      "duration_ms": 198493,
-      "name": "Steppin' out in Faith",
-      "url": "https://open.spotify.com/track/3oD8RRGLXHwk4vEMkbBo9k"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "When God Ran",
         "url": "https://open.spotify.com/album/49A6zoKKgvWWT8HGHPzXR9"
       },
@@ -455,18 +439,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Scars In Heaven",
-        "url": "https://open.spotify.com/album/1mbbSaw8XRvdqO4o8T8ZNg"
+        "name": "A New Chapter",
+        "url": "https://open.spotify.com/album/5uAhKPfP2Iy5lCgxLUQEpN"
       },
       "artists": [
         {
-          "name": "The Nelons",
-          "url": "https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn"
+          "name": "Jim Brady Trio",
+          "url": "https://open.spotify.com/artist/370fla8RwoHgAhGzUy56OB"
         }
       ],
-      "duration_ms": 269840,
-      "name": "Scars In Heaven",
-      "url": "https://open.spotify.com/track/0FjQGUbhPf6xxHEHnPians"
+      "duration_ms": 198493,
+      "name": "Steppin' out in Faith",
+      "url": "https://open.spotify.com/track/3oD8RRGLXHwk4vEMkbBo9k"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -487,18 +471,18 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Brighten The Corner Where You Are (Radio Edit)",
-        "url": "https://open.spotify.com/album/7tpVNdsEnSWj30uRodyS4y"
+        "name": "Scars In Heaven",
+        "url": "https://open.spotify.com/album/1mbbSaw8XRvdqO4o8T8ZNg"
       },
       "artists": [
         {
-          "name": "The Browns",
-          "url": "https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb"
+          "name": "The Nelons",
+          "url": "https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn"
         }
       ],
-      "duration_ms": 149545,
-      "name": "Brighten The Corner Where You Are - Radio Edit",
-      "url": "https://open.spotify.com/track/0rnHhaqD3Rpu7P7sIktSji"
+      "duration_ms": 269840,
+      "name": "Scars In Heaven",
+      "url": "https://open.spotify.com/track/0FjQGUbhPf6xxHEHnPians"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -515,6 +499,22 @@
       "duration_ms": 237680,
       "name": "Plenty Good Room",
       "url": "https://open.spotify.com/track/06aouHeZQx45YdKPCnxgt6"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Brighten The Corner Where You Are (Radio Edit)",
+        "url": "https://open.spotify.com/album/7tpVNdsEnSWj30uRodyS4y"
+      },
+      "artists": [
+        {
+          "name": "The Browns",
+          "url": "https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb"
+        }
+      ],
+      "duration_ms": 149545,
+      "name": "Brighten The Corner Where You Are - Radio Edit",
+      "url": "https://open.spotify.com/track/0rnHhaqD3Rpu7P7sIktSji"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/2YUHflr83aTEzmqzpAWH57"
+      },
+      "artists": [
+        {
+          "name": "Ernie Haase & Signature Sound",
+          "url": "https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0"
+        }
+      ],
+      "duration_ms": 218655,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/1psN7GabVAeaBo0lTaDNUM"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
         "name": "Give Me Jesus",
         "url": "https://open.spotify.com/album/2AWZoRFVr5aZTl374dbufg"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 197760,
       "name": "Give Me Jesus",
       "url": "https://open.spotify.com/track/1A0hWOgHJZhfmU0Jz27XsB"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/2YUHflr83aTEzmqzpAWH57"
-      },
-      "artists": [
-        {
-          "name": "Ernie Haase & Signature Sound",
-          "url": "https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0"
-        }
-      ],
-      "duration_ms": 218655,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/1psN7GabVAeaBo0lTaDNUM"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "Overcome (Radio Edit)",
-        "url": "https://open.spotify.com/album/6HYHgxwMcknXcdvWHCojqM"
-      },
-      "artists": [
-        {
-          "name": "Ernie Haase & Signature Sound",
-          "url": "https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0"
-        }
-      ],
-      "duration_ms": 247254,
-      "name": "Overcome - Radio Edit",
-      "url": "https://open.spotify.com/track/0VAnfdHYy86E0TWJBfN6JP"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "2: 22",
         "url": "https://open.spotify.com/album/1ZNaOaKQont8Mh7nIZlDN7"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 241109,
       "name": "Believe For It",
       "url": "https://open.spotify.com/track/63R7v5So5B4NwnSg5D83Kb"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "Overcome (Radio Edit)",
+        "url": "https://open.spotify.com/album/6HYHgxwMcknXcdvWHCojqM"
+      },
+      "artists": [
+        {
+          "name": "Ernie Haase & Signature Sound",
+          "url": "https://open.spotify.com/artist/3Qp9Qtdb5G8QYHWfe5qxi0"
+        }
+      ],
+      "duration_ms": 247254,
+      "name": "Overcome - Radio Edit",
+      "url": "https://open.spotify.com/track/0VAnfdHYy86E0TWJBfN6JP"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "These Are The Days",
-        "url": "https://open.spotify.com/album/4NLFC87jCshYTUAz3hbhP6"
-      },
-      "artists": [
-        {
-          "name": "Kingsmen",
-          "url": "https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX"
-        }
-      ],
-      "duration_ms": 198099,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/5R8RKqIh4EKQKY5U5Q8K8y"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Come On In",
         "url": "https://open.spotify.com/album/6fomyXP5lxMAmm1yKXmIHV"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 231066,
       "name": "Cast My Care",
       "url": "https://open.spotify.com/track/5DFuyhTAYErvppuImjKHvo"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "These Are The Days",
+        "url": "https://open.spotify.com/album/4NLFC87jCshYTUAz3hbhP6"
+      },
+      "artists": [
+        {
+          "name": "Kingsmen",
+          "url": "https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX"
+        }
+      ],
+      "duration_ms": 198099,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/5R8RKqIh4EKQKY5U5Q8K8y"
     },
     {
       "added_at": "2023-04-14 06:27:38",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-04-14 06:27:38",
       "album": {
-        "name": "In a Moment",
-        "url": "https://open.spotify.com/album/1hXk9gKQzIS6p9lnONUxpe"
-      },
-      "artists": [
-        {
-          "name": "Hebron Road",
-          "url": "https://open.spotify.com/artist/4IPpLxQQLSf3ANpz0Q7Y51"
-        }
-      ],
-      "duration_ms": 306462,
-      "name": "Every Other Throne",
-      "url": "https://open.spotify.com/track/4RLDBwWBB3amq8o48Zycig"
-    },
-    {
-      "added_at": "2023-04-14 06:27:38",
-      "album": {
         "name": "Not For Long",
         "url": "https://open.spotify.com/album/3o2K93AUXYP6ksJabFbM62"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 230013,
       "name": "Not For Long",
       "url": "https://open.spotify.com/track/2x5wmviqv1wC7rCd8gL1sQ"
+    },
+    {
+      "added_at": "2023-04-14 06:27:38",
+      "album": {
+        "name": "In a Moment",
+        "url": "https://open.spotify.com/album/1hXk9gKQzIS6p9lnONUxpe"
+      },
+      "artists": [
+        {
+          "name": "Hebron Road",
+          "url": "https://open.spotify.com/artist/4IPpLxQQLSf3ANpz0Q7Y51"
+        }
+      ],
+      "duration_ms": 306462,
+      "name": "Every Other Throne",
+      "url": "https://open.spotify.com/track/4RLDBwWBB3amq8o48Zycig"
     },
     {
       "added_at": "2023-04-14 06:27:38",

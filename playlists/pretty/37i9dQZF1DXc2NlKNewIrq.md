@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2NlKNewIrq.md) - [plain]
 
 > Dive in to the Ambient of the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,904 likes - 74 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,933 likes - 74 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Towards the Blue \- 2021 Remastered](https://open.spotify.com/track/4cmGoOiC6y7kUenRgG1j4u) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Quiet Music \(35th Anniversary Remastered 3\-Hour Collection\)](https://open.spotify.com/album/2TgLjrozwbkq1EUrmqeMd4) | 3:20 |
+| 1 | [Towards the Blue \- 2021 Remastered](https://open.spotify.com/track/5SIe4n4uiR1MSrodc54NON) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Quiet Music \(35th Anniversary Remastered 3\-Hour Collection\)](https://open.spotify.com/album/0H6unnD9vfnYiOYnN6AFFi) | 3:20 |
 | 2 | [Einklang](https://open.spotify.com/track/7x9ytTQXFqpk9Mvh4uDUX6) | [Peter Michael Hamel](https://open.spotify.com/artist/4fzLlOozmMPyVBg5o2Sd1j) | [Hamel: Let It Play \- Selected Pieces 1979\-1983](https://open.spotify.com/album/4G8ThDaZc0Z06kivJO97Dd) | 10:04 |
 | 3 | [Meditation No\. 2](https://open.spotify.com/track/5Z1HyqdD5QozNnFNZA8BMK) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 3: Day Of Radiance](https://open.spotify.com/album/42Lahj8mKJKxPgncRXPuPw) | 7:50 |
 | 4 | [Reflecting Light](https://open.spotify.com/track/5soViX7uPUyYaPT6EJJD5e) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU) | [Reflecting Light, Vol\. 1](https://open.spotify.com/album/5egigwAjsqdGSS7OHCOpH8) | 2:47 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc2NlKNewIrq.md) - [plain]
 | 73 | [Blade Runner Blues](https://open.spotify.com/track/575blCgesVtCu0HEYaIcas) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 8:54 |
 | 74 | [Ocean Of Tenderness](https://open.spotify.com/track/7K390g1jaEEG634ILDD4mW) | [Ashra](https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe) | [New Age Of Earth](https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1) | 12:42 |
 
-Snapshot ID: `MCw3OTNhMjNhN2M3ZjVjYTIzZWZjMTI0YWI3NjdhNDU3NWYwNGM2ZTQ2`
+Snapshot ID: `MCxkOWEzNzZlNTUzMmRmYWI0MWM0YmRmNmQ4MDk0YTU3YWEwYWM5YjBl`

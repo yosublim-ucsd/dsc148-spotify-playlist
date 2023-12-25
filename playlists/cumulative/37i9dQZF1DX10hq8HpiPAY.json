@@ -6,7 +6,7 @@
     {
       "album": {
         "name": "Breath of the Heart",
-        "url": "https://open.spotify.com/album/6UxQYKwxX79QNmagONxvr0"
+        "url": "https://open.spotify.com/album/2RNmtNcssxfz2BItN1jUnQ"
       },
       "artists": [
         {
@@ -17,6 +17,24 @@
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 838560,
+      "name": "Baba Hanuman",
+      "url": "https://open.spotify.com/track/468YB4iLb2YJyncuHGJ62i"
+    },
+    {
+      "album": {
+        "name": "Breath of the Heart",
+        "url": "https://open.spotify.com/album/6UxQYKwxX79QNmagONxvr0"
+      },
+      "artists": [
+        {
+          "name": "Krishna Das",
+          "url": "https://open.spotify.com/artist/7BIXafmacnax46P30TEzNz"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
       "duration_ms": 838560,
       "name": "Baba Hanuman",
       "url": "https://open.spotify.com/track/4Frp9uObfJLGLsMXosQp27"

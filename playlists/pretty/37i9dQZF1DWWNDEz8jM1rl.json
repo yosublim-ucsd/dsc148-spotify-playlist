@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 120459,
+  "num_followers": 120492,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjQyZjdiMjEyMDY1MzM0N2VlNDBjYmQxY2I5YjlkYmI0OWZkNDQ0",
+  "snapshot_id": "MCxiZjcyZjBhNjYyZGViOTcwYTg5NWVmNTY3YzcyMzg1YjU0ODk2ZWQx",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Nonstop",
-        "url": "https://open.spotify.com/album/2hIXO8X9iQA1XhFQZWrHdA"
-      },
-      "artists": [
-        {
-          "name": "Raza For Christ",
-          "url": "https://open.spotify.com/artist/5CF3ghXdP30I58xqDF1nLW"
-        }
-      ],
-      "duration_ms": 194018,
-      "name": "Fue Por Ti",
-      "url": "https://open.spotify.com/track/2Ne5BbFr9vIDsbQ71JLpax"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "De Todo Un Poco",
         "url": "https://open.spotify.com/album/0HpcxLjTaZ65MM7auMqwdb"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 210053,
       "name": "Rumbarengue",
       "url": "https://open.spotify.com/track/4h689d9SNdQ5WbrYcsGtG4"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Nonstop",
+        "url": "https://open.spotify.com/album/2hIXO8X9iQA1XhFQZWrHdA"
+      },
+      "artists": [
+        {
+          "name": "Raza For Christ",
+          "url": "https://open.spotify.com/artist/5CF3ghXdP30I58xqDF1nLW"
+        }
+      ],
+      "duration_ms": 194018,
+      "name": "Fue Por Ti",
+      "url": "https://open.spotify.com/track/2Ne5BbFr9vIDsbQ71JLpax"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -479,6 +479,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "Soy Sonero",
+        "url": "https://open.spotify.com/album/2mJmN2QxAygva8MwukonqS"
+      },
+      "artists": [
+        {
+          "name": "Jose \"Papo\" Rivera",
+          "url": "https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY"
+        }
+      ],
+      "duration_ms": 255242,
+      "name": "Salsa del Cielo",
+      "url": "https://open.spotify.com/track/402sqB8gweQGnKTPEWsmJe"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Alegr\u00eda y Gozo 2020",
         "url": "https://open.spotify.com/album/7eaEia0ipy3eub1E8Gf4Jx"
       },
@@ -531,22 +547,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Deluxe",
-        "url": "https://open.spotify.com/album/7DqUydQ4WODGbSdYLDte9I"
-      },
-      "artists": [
-        {
-          "name": "Mr. Don",
-          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
-        }
-      ],
-      "duration_ms": 223516,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/2AvucB3PF66vcQoQJ6nZ3H"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Traigo Alabanza",
         "url": "https://open.spotify.com/album/4g3SmEvXmxDMVJa8iPKB8c"
       },
@@ -563,18 +563,18 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Soy Sonero",
-        "url": "https://open.spotify.com/album/2mJmN2QxAygva8MwukonqS"
+        "name": "Deluxe",
+        "url": "https://open.spotify.com/album/7DqUydQ4WODGbSdYLDte9I"
       },
       "artists": [
         {
-          "name": "Jose \"Papo\" Rivera",
-          "url": "https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY"
+          "name": "Mr. Don",
+          "url": "https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR"
         }
       ],
-      "duration_ms": 255242,
-      "name": "Salsa del Cielo",
-      "url": "https://open.spotify.com/track/402sqB8gweQGnKTPEWsmJe"
+      "duration_ms": 223516,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/2AvucB3PF66vcQoQJ6nZ3H"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Solo Bachata",
-        "url": "https://open.spotify.com/album/3r3NL0WmDLp0gpR8TGifhd"
-      },
-      "artists": [
-        {
-          "name": "Giovanni Rios",
-          "url": "https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl"
-        }
-      ],
-      "duration_ms": 301320,
-      "name": "Cuando Se Acaba El Amor",
-      "url": "https://open.spotify.com/track/2FXKO3yAmNgFE3GcNsuJDd"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "No Hay Nada Imposible",
         "url": "https://open.spotify.com/album/3S7tVmHEPScYVF1gflAkI6"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 295360,
       "name": "Espiritu De Dios",
       "url": "https://open.spotify.com/track/3PchABMkZW9CPTrKiS2IOV"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Solo Bachata",
+        "url": "https://open.spotify.com/album/3r3NL0WmDLp0gpR8TGifhd"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Rios",
+          "url": "https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl"
+        }
+      ],
+      "duration_ms": 301320,
+      "name": "Cuando Se Acaba El Amor",
+      "url": "https://open.spotify.com/track/2FXKO3yAmNgFE3GcNsuJDd"
     },
     {
       "added_at": "2020-09-18 05:02:00",

@@ -1,12 +1,12 @@
 {
   "description": "Got that summertime feeling \ud83c\udf34",
-  "num_followers": 57840,
+  "num_followers": 57861,
   "original_name": "Pool Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWMxNGEzM2FjNTczMDllZDVlNGY2NzUyNTdkYjQzMGRlNTk5M2Vk",
+  "snapshot_id": "MCw3N2JkYThlYTRhMjgyYjhlYWJmZmYyMjc2YWMwNDk2ZDFhNGU5OTE1",
   "tracks": [
     {
       "added_at": "2023-12-19 09:07:27",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
+        "name": "Trippin Up",
+        "url": "https://open.spotify.com/album/7uwEnfcYLSmSn4W8ZTCsoh"
+      },
+      "artists": [
+        {
+          "name": "The Jungle Giants",
+          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
+        }
+      ],
+      "duration_ms": 177851,
+      "name": "Trippin Up",
+      "url": "https://open.spotify.com/track/4hK0ysTJ6bUo6xDtonuq16"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
         "name": "I Like It",
         "url": "https://open.spotify.com/album/2dOegifzkyE9ZrdwW33tq4"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 207875,
       "name": "Always Got The Love",
       "url": "https://open.spotify.com/track/7b6qmu1okgI61UixU29UcK"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
-        "name": "Trippin Up",
-        "url": "https://open.spotify.com/album/7uwEnfcYLSmSn4W8ZTCsoh"
-      },
-      "artists": [
-        {
-          "name": "The Jungle Giants",
-          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
-        }
-      ],
-      "duration_ms": 177851,
-      "name": "Trippin Up",
-      "url": "https://open.spotify.com/track/4hK0ysTJ6bUo6xDtonuq16"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/5QvtSMjg0Qr2DFa7LRKA1u"
+      },
+      "artists": [
+        {
+          "name": "Memphis LK",
+          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
+        }
+      ],
+      "duration_ms": 193737,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/7uS0B4O1PDYQhZJQIuFjtR"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
         "name": "Nostalgia (feat. Little Green)",
         "url": "https://open.spotify.com/album/2XvL2rUofsY9xaXN2D4VwW"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 163809,
       "name": "Nostalgia (feat. Little Green)",
       "url": "https://open.spotify.com/track/3VP9aycULSUnBqGN5ThCXT"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
-        "name": "Coffee",
-        "url": "https://open.spotify.com/album/5QvtSMjg0Qr2DFa7LRKA1u"
-      },
-      "artists": [
-        {
-          "name": "Memphis LK",
-          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
-        }
-      ],
-      "duration_ms": 193737,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/7uS0B4O1PDYQhZJQIuFjtR"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Speedracer",
-        "url": "https://open.spotify.com/album/6iYJWiUGoeuKN3tlZBlyE4"
-      },
-      "artists": [
-        {
-          "name": "Teenage Dads",
-          "url": "https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw"
-        }
-      ],
-      "duration_ms": 178348,
-      "name": "Speedracer",
-      "url": "https://open.spotify.com/track/5NZFQfsInH8LasOfEZVsfm"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
         "name": "Highlands",
         "url": "https://open.spotify.com/album/3Deu9Zi3rLBf0zhZmNUXTw"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 211855,
       "name": "Highlands",
       "url": "https://open.spotify.com/track/177wGtLGKq5S8FqcagPDj6"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
+        "name": "Speedracer",
+        "url": "https://open.spotify.com/album/6iYJWiUGoeuKN3tlZBlyE4"
+      },
+      "artists": [
+        {
+          "name": "Teenage Dads",
+          "url": "https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw"
+        }
+      ],
+      "duration_ms": 178348,
+      "name": "Speedracer",
+      "url": "https://open.spotify.com/track/5NZFQfsInH8LasOfEZVsfm"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Good Mood",
-        "url": "https://open.spotify.com/album/3rTINDQ7FOcyfFx6LQs8bA"
+        "name": "Too Much Fun",
+        "url": "https://open.spotify.com/album/6DVEb2UcjI2o4W4SdOXksM"
       },
       "artists": [
         {
-          "name": "The Rubens",
-          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+          "name": "Memphis LK",
+          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
         }
       ],
-      "duration_ms": 179440,
-      "name": "Good Mood",
-      "url": "https://open.spotify.com/track/2KGrjW9a45QpuBpjIiyPhT"
+      "duration_ms": 154630,
+      "name": "Too Much Fun",
+      "url": "https://open.spotify.com/track/37UG9jRXurN9Yr6sx9cq8l"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Too Much Fun",
-        "url": "https://open.spotify.com/album/6DVEb2UcjI2o4W4SdOXksM"
+        "name": "Good Mood",
+        "url": "https://open.spotify.com/album/3rTINDQ7FOcyfFx6LQs8bA"
       },
       "artists": [
         {
-          "name": "Memphis LK",
-          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
+          "name": "The Rubens",
+          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
         }
       ],
-      "duration_ms": 154630,
-      "name": "Too Much Fun",
-      "url": "https://open.spotify.com/track/37UG9jRXurN9Yr6sx9cq8l"
+      "duration_ms": 179440,
+      "name": "Good Mood",
+      "url": "https://open.spotify.com/track/2KGrjW9a45QpuBpjIiyPhT"
     },
     {
       "added_at": "2023-12-19 09:07:27",

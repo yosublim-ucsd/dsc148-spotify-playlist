@@ -46,6 +46,24 @@
     {
       "album": {
         "name": "Baila Esta Cumbia",
+        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175889,
+      "name": "Baila Esta Cumbia",
+      "url": "https://open.spotify.com/track/5YbeAaSHZv7ZDAM6CJE872"
+    },
+    {
+      "album": {
+        "name": "Baila Esta Cumbia",
         "url": "https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3"
       },
       "artists": [
@@ -74,7 +92,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 205266,
       "name": "Bidi Bidi Bom Bom",
       "url": "https://open.spotify.com/track/5rb3whySuw8zcp0HtUVeEO"
@@ -92,7 +110,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 201706,
       "name": "Clavado en un Bar",
       "url": "https://open.spotify.com/track/41OhLBVZ1vhQSbw7WDfcAq"
@@ -128,7 +146,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 353775,
       "name": "Como Yo Nadie Te a Amado / MI Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/5A9eRb37HxwUTHn8WHTQ8J"
@@ -280,7 +298,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 278673,
       "name": "Despacito",
       "url": "https://open.spotify.com/track/4MJFHjrzeFsia49jrsh2lu"
@@ -338,7 +356,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 212413,
       "name": "Dulce (A La La La La Long)",
       "url": "https://open.spotify.com/track/6wUz0vZ4F3ceJVN6XoTtbT"
@@ -472,7 +490,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 168375,
       "name": "Felices Los 4 - Version Cumbia",
       "url": "https://open.spotify.com/track/70VKTITzq3LkUUMmWFrZ8l"
@@ -782,7 +800,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 112274,
       "name": "La Mejor Version de Mi",
       "url": "https://open.spotify.com/track/6yBbgqbWxMVLqnzGwiiB8r"
@@ -884,7 +902,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 182666,
       "name": "Luces",
       "url": "https://open.spotify.com/track/2A7ZbcDSmZEP7pzomG43Sv"
@@ -1000,7 +1018,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 174640,
       "name": "No Pares Hasta Tener lo Suficiente (Don't Stop 'til You Get Enough)",
       "url": "https://open.spotify.com/track/57xHD2Q6xWgwr60WzB72Uw"
@@ -1116,7 +1134,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 272626,
       "name": "Procura",
       "url": "https://open.spotify.com/track/4EhJSTlHXyP5dbz1CaZZmU"
@@ -1134,7 +1152,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 170562,
       "name": "Puntos Suspensivos",
       "url": "https://open.spotify.com/track/2ySUUTXVJkPqOfN2jmPeAW"
@@ -1170,7 +1188,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 156211,
       "name": "Reggaeton Lento",
       "url": "https://open.spotify.com/track/5pT4ZI8pghpB294iQOds0E"
@@ -1476,7 +1494,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 180600,
       "name": "Ya No Tiene Novio - Version Cumbia",
       "url": "https://open.spotify.com/track/2akbizyZrFqGzUZzSUQiVq"
@@ -1530,7 +1548,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 215200,
       "name": "\u00bfPor Qu\u00e9 Te Vas?",
       "url": "https://open.spotify.com/track/5MyvrPjiTEq8KgJWFfzT9y"

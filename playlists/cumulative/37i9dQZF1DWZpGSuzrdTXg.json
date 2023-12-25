@@ -644,7 +644,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 212124,
       "name": "Friends",
       "url": "https://open.spotify.com/track/4XlSTowke4Ul0J9xPGvzuY"
@@ -796,6 +796,24 @@
       "duration_ms": 158594,
       "name": "Here's Your Perfect",
       "url": "https://open.spotify.com/track/2aTKrdenCq5qBOoJPFdn4P"
+    },
+    {
+      "album": {
+        "name": "Learning To Swim",
+        "url": "https://open.spotify.com/album/1w9BDtBkQeHkxz8ayzhYOZ"
+      },
+      "artists": [
+        {
+          "name": "KWAYE",
+          "url": "https://open.spotify.com/artist/5dIssYf7lu8wufkQywN9WJ"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186251,
+      "name": "High and Low",
+      "url": "https://open.spotify.com/track/0UAB4g9ZOrcMzHcZi2y3qo"
     },
     {
       "album": {
@@ -1609,6 +1627,24 @@
     },
     {
       "album": {
+        "name": "Songs I Wrote",
+        "url": "https://open.spotify.com/album/3ZayM8IDlNqLlDdwYWIGa0"
+      },
+      "artists": [
+        {
+          "name": "Stu Larsen",
+          "url": "https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216661,
+      "name": "Out of the Blue",
+      "url": "https://open.spotify.com/track/4LWrnnStSFx4dsiVLsgPun"
+    },
+    {
+      "album": {
         "name": "Oxygen",
         "url": "https://open.spotify.com/album/51Q6NRNtIZVW5T6bksOm6I"
       },
@@ -2010,7 +2046,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 175386,
       "name": "Tell Me That You Miss Me",
       "url": "https://open.spotify.com/track/5tDCPZMXj1gEKLqYsJDhWa"

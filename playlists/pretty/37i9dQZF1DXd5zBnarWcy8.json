@@ -1,12 +1,12 @@
 {
   "description": "New Orleans kind of funk. Cover: Cha Wa",
-  "num_followers": 12545,
+  "num_followers": 12551,
   "original_name": "New Orleans Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjJmMTAwM2E4ZDdmZjJiMDFkOGU1NzM3NjgzMjY5NDZmYzZhYTZk",
+  "snapshot_id": "MCwzZjY4ZGY3NWFlY2RjNDQ5M2ZjZGY5MWFiNGNiN2JjMjI2ZWMzYzZh",
   "tracks": [
     {
       "added_at": "2022-04-29 04:02:00",
@@ -28,7 +28,7 @@
       "added_at": "2022-01-28 05:02:00",
       "album": {
         "name": "Stompin' Ground",
-        "url": "https://open.spotify.com/album/7BO9rd3sjrjgnEyGPjy5HB"
+        "url": "https://open.spotify.com/album/5PROCLSs2Zpe2VWP5RtsuL"
       },
       "artists": [
         {
@@ -42,7 +42,7 @@
       ],
       "duration_ms": 271594,
       "name": "Stompin' Ground",
-      "url": "https://open.spotify.com/track/1tXkEoNUFLVfgAdfF4SsNC"
+      "url": "https://open.spotify.com/track/7eAyJmVmk60rHkoD0xniKM"
     },
     {
       "added_at": "2021-03-12 05:00:00",
@@ -128,7 +128,7 @@
       "added_at": "2020-09-25 04:01:00",
       "album": {
         "name": "Strange World",
-        "url": "https://open.spotify.com/album/0pVNvF5LBcZFSPK6MXkEuz"
+        "url": "https://open.spotify.com/album/3EA3H7YCID2fFJdy8gho89"
       },
       "artists": [
         {
@@ -138,7 +138,7 @@
       ],
       "duration_ms": 207826,
       "name": "You Got Soul",
-      "url": "https://open.spotify.com/track/1vYUTYYAcf2LXSoXUHlRHB"
+      "url": "https://open.spotify.com/track/2JKm37HM6FtS7ryk8KZUB5"
     },
     {
       "added_at": "2021-05-07 04:01:00",
@@ -423,22 +423,18 @@
     {
       "added_at": "2020-04-29 18:17:09",
       "album": {
-        "name": "Ernie K. Doe",
-        "url": "https://open.spotify.com/album/5TCIBlHmzihdWye05L6YQf"
+        "name": "Soul Jazz Records Presents New Orleans Soul: The Original Sound of New Orleans Soul 1960-76",
+        "url": "https://open.spotify.com/album/3tnRmKxUYvCPWLILT5PZL4"
       },
       "artists": [
         {
           "name": "Ernie K-Doe",
           "url": "https://open.spotify.com/artist/3ybBNyjii40yY104IZkcly"
-        },
-        {
-          "name": "Tipitina\u2019s Record Club",
-          "url": "https://open.spotify.com/artist/2obtJE8R0kU7EiJoyEXKAQ"
         }
       ],
-      "duration_ms": 149809,
-      "name": "Back Street Lover",
-      "url": "https://open.spotify.com/track/1f8RPgmv5f2FGOf59O3pmL"
+      "duration_ms": 147026,
+      "name": "Backstreet Lover",
+      "url": "https://open.spotify.com/track/5BDrEmLb5inDyHn7ZSGSsF"
     },
     {
       "added_at": "2020-04-29 18:17:09",

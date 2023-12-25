@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Lola Indigo",
-  "num_followers": 992578,
+  "num_followers": 992602,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTU5MGRlM2I3ODg3YjNlYjIzZmQ1ZTc2N2QwZTE3YWY5ZDA1ZjRm",
+  "snapshot_id": "MCw0NDhkMDJhYmIyYTAzYzdmNjBiYjdkY2JmOWIzNWQwOGQ4NTYwNzRm",
   "tracks": [
     {
       "added_at": "2023-12-21 17:42:42",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-12-21 17:42:42",
       "album": {
-        "name": "Derecho a No Declarar",
-        "url": "https://open.spotify.com/album/6NapsEjZhrlNNN1txZrR2B"
-      },
-      "artists": [
-        {
-          "name": "Pole.",
-          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
-        }
-      ],
-      "duration_ms": 146763,
-      "name": "Derecho a No Declarar",
-      "url": "https://open.spotify.com/track/6eKPg2gdhHlWUUFLucFgey"
-    },
-    {
-      "added_at": "2023-12-21 17:42:42",
-      "album": {
         "name": "cuando salto me duele",
         "url": "https://open.spotify.com/album/2MTsy6zxZYxcmm1VYkYySR"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 189913,
       "name": "cuando salto me duele",
       "url": "https://open.spotify.com/track/5Z7mpQCwr8Ydr5WNQgO8Dd"
+    },
+    {
+      "added_at": "2023-12-21 17:42:42",
+      "album": {
+        "name": "Derecho a No Declarar",
+        "url": "https://open.spotify.com/album/6NapsEjZhrlNNN1txZrR2B"
+      },
+      "artists": [
+        {
+          "name": "Pole.",
+          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
+        }
+      ],
+      "duration_ms": 146763,
+      "name": "Derecho a No Declarar",
+      "url": "https://open.spotify.com/track/6eKPg2gdhHlWUUFLucFgey"
     },
     {
       "added_at": "2023-12-21 17:42:42",
@@ -727,46 +727,6 @@
     {
       "added_at": "2023-12-21 17:42:42",
       "album": {
-        "name": "GOOD DAY (feat. Camidoh)",
-        "url": "https://open.spotify.com/album/3skW3RfH9HhEhkmfLscAwk"
-      },
-      "artists": [
-        {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
-        },
-        {
-          "name": "Camidoh",
-          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
-        }
-      ],
-      "duration_ms": 164765,
-      "name": "GOOD DAY (feat. Camidoh)",
-      "url": "https://open.spotify.com/track/17EHmaus2XNoMdCIw4bZmf"
-    },
-    {
-      "added_at": "2023-12-21 17:42:42",
-      "album": {
-        "name": "Un Rato pa Siempre",
-        "url": "https://open.spotify.com/album/6VkLEGEcb8GBrHPbpVC21m"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9rica",
-          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
-        },
-        {
-          "name": "El Taiger",
-          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
-        }
-      ],
-      "duration_ms": 163505,
-      "name": "Un Rato pa Siempre",
-      "url": "https://open.spotify.com/track/3rEBrW8QTAq0lZiZX8LNBL"
-    },
-    {
-      "added_at": "2023-12-21 17:42:42",
-      "album": {
         "name": "ALICANTINA",
         "url": "https://open.spotify.com/album/2J18PEqkyz32M2ZzM6CS8p"
       },
@@ -783,18 +743,22 @@
     {
       "added_at": "2023-12-21 17:42:42",
       "album": {
-        "name": "Como Ayer",
-        "url": "https://open.spotify.com/album/2H7jkIiLaVmNeKYqMHyJYe"
+        "name": "GOOD DAY (feat. Camidoh)",
+        "url": "https://open.spotify.com/album/3skW3RfH9HhEhkmfLscAwk"
       },
       "artists": [
         {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        },
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
         }
       ],
-      "duration_ms": 157293,
-      "name": "Como Ayer",
-      "url": "https://open.spotify.com/track/3MWReEPNS9G3tFp8wN9aNY"
+      "duration_ms": 164765,
+      "name": "GOOD DAY (feat. Camidoh)",
+      "url": "https://open.spotify.com/track/17EHmaus2XNoMdCIw4bZmf"
     },
     {
       "added_at": "2023-12-21 17:42:42",
@@ -847,18 +811,38 @@
     {
       "added_at": "2023-12-21 17:42:42",
       "album": {
-        "name": "Lugar Para\u00edso",
-        "url": "https://open.spotify.com/album/3Af46goeGBVqhNN8a1C5f5"
+        "name": "Un Rato pa Siempre",
+        "url": "https://open.spotify.com/album/6VkLEGEcb8GBrHPbpVC21m"
       },
       "artists": [
         {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+          "name": "L\u00e9rica",
+          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
+        },
+        {
+          "name": "El Taiger",
+          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
         }
       ],
-      "duration_ms": 201206,
-      "name": "MI BANDERA",
-      "url": "https://open.spotify.com/track/60ZaHUyLn4CMUNSFUo1cdr"
+      "duration_ms": 163505,
+      "name": "Un Rato pa Siempre",
+      "url": "https://open.spotify.com/track/3rEBrW8QTAq0lZiZX8LNBL"
+    },
+    {
+      "added_at": "2023-12-21 17:42:42",
+      "album": {
+        "name": "Como Ayer",
+        "url": "https://open.spotify.com/album/2H7jkIiLaVmNeKYqMHyJYe"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        }
+      ],
+      "duration_ms": 157293,
+      "name": "Como Ayer",
+      "url": "https://open.spotify.com/track/3MWReEPNS9G3tFp8wN9aNY"
     },
     {
       "added_at": "2023-12-21 17:42:42",
@@ -947,6 +931,22 @@
     {
       "added_at": "2023-12-21 17:42:42",
       "album": {
+        "name": "Lugar Para\u00edso",
+        "url": "https://open.spotify.com/album/3Af46goeGBVqhNN8a1C5f5"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        }
+      ],
+      "duration_ms": 201206,
+      "name": "MI BANDERA",
+      "url": "https://open.spotify.com/track/60ZaHUyLn4CMUNSFUo1cdr"
+    },
+    {
+      "added_at": "2023-12-21 17:42:42",
+      "album": {
         "name": "En el mismo bar",
         "url": "https://open.spotify.com/album/5mK99XckqcPxkOJDt25MPF"
       },
@@ -967,6 +967,22 @@
       "duration_ms": 162500,
       "name": "En el mismo bar",
       "url": "https://open.spotify.com/track/06LzzgytKKWpG9T7fRRyR9"
+    },
+    {
+      "added_at": "2023-12-21 17:42:42",
+      "album": {
+        "name": "Astronauta",
+        "url": "https://open.spotify.com/album/5gHA0EkrBT7yANOSd9AFL6"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9rica",
+          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
+        }
+      ],
+      "duration_ms": 169894,
+      "name": "Astronauta",
+      "url": "https://open.spotify.com/track/1J59EJh3hbGZDJD7KfONLz"
     },
     {
       "added_at": "2023-12-21 17:42:42",
@@ -1007,22 +1023,6 @@
       "duration_ms": 193626,
       "name": "Pirata",
       "url": "https://open.spotify.com/track/4QE2lll1AHZw20DOnkGmZD"
-    },
-    {
-      "added_at": "2023-12-21 17:42:42",
-      "album": {
-        "name": "Astronauta",
-        "url": "https://open.spotify.com/album/5gHA0EkrBT7yANOSd9AFL6"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9rica",
-          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
-        }
-      ],
-      "duration_ms": 169894,
-      "name": "Astronauta",
-      "url": "https://open.spotify.com/track/1J59EJh3hbGZDJD7KfONLz"
     },
     {
       "added_at": "2023-12-21 17:42:42",

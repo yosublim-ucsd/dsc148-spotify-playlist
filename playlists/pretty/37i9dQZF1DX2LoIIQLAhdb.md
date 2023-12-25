@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Nej
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,705 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,780 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Double Jeu](https://open.spotify.com/track/5CkrxFlXXBSLqs3cslTnpF) | [Awa Imani](https://open.spotify.com/artist/25b5cIThNFVHmLF2DQ814i), [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Double Jeu](https://open.spotify.com/album/7siHw2KsKpvxF3QWIaFAz2) | 2:44 |
 | 40 | [DÉSOLÉ POURQUOI ?](https://open.spotify.com/track/61eXlvoIlXXuO64Nal87VO) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [DÉSOLÉ POURQUOI ?](https://open.spotify.com/album/6bBPLPUc1eRmCJQ8nHpMIc) | 2:18 |
 
-Snapshot ID: `MCwxMGM5YmVlYjcxNTU1YjRkOTYyYWMxOWZhNDU5ZTA4YjI3NTBmZTEy`
+Snapshot ID: `MCw0ZGU2ZmQyN2ExZmEzZjcwYTI4YjBkODE2NjJiMjY4MWRmNzE4OWYw`

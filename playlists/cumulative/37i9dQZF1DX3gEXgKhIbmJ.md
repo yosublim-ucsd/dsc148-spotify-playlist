@@ -4,7 +4,7 @@
 
 > pra entrar e ficar na onda
 
-114 songs - 4 hr 33 min
+115 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [think of me.](https://open.spotify.com/track/1sM8jvXUHPQfMDtzDDksJT) | [Bloque](https://open.spotify.com/artist/4JmDhnwJ8dEymk7vkeV8hz), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Super Static](https://open.spotify.com/artist/0Bth6SDuK4U3aaI4xieTzg) | [think of me](https://open.spotify.com/album/4IfGry1nodm4bJowPJLLnT) | 2:54 | 2023-09-15 |  |
 | [Toda Noite](https://open.spotify.com/track/6uRJMdOZA4ahj4Fw9WmRBR) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [Mc Morena](https://open.spotify.com/artist/28QnIZpWxKcxuSk4iRLUgX), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Toda Noite](https://open.spotify.com/album/5ohIWsURDHdVaFYv6S2qE1) | 2:37 | 2023-09-15 |  |
 | [Truva](https://open.spotify.com/track/0l3swCsYyU4lhj1M9SuqHA) | [RealLamak](https://open.spotify.com/artist/1xGwIZJW5hCGGMGJZ468Nb) | [Truva](https://open.spotify.com/album/73EmcHHL6kbzPcMAvpvme2) | 1:45 | 2023-09-15 | 2023-11-04 |
+| [Twerk](https://open.spotify.com/track/1iHneRZXPvuNGBJCC32dPR) | [Brocasito](https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM) | [Matrix](https://open.spotify.com/album/7HMJeHkmIyCxRSHotWeJ2K) | 1:55 | 2023-12-24 |  |
 | [Tô Tranquila](https://open.spotify.com/track/46lAZ1uZ0YkIsjJGb7gBDR) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Chave](https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB) | 3:01 | 2023-09-15 | 2023-11-18 |
 | [Uk Drill](https://open.spotify.com/track/46nlWdYZz0uf5rqi6zyE3S) | [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [DJ Game Beat](https://open.spotify.com/artist/4HKGfDTu7UZBgSsAgCaUCi) | [Uk Drill](https://open.spotify.com/album/7lfvKFpnyyIkabluqj6O0h) | 2:06 | 2023-12-08 |  |
 | [um quebrada inteligente!](https://open.spotify.com/track/6uBfSJZQ27gCDVne6xhDmO) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [UM Quebrada Inteligente](https://open.spotify.com/album/3LLqFXeZt4AdVe9GdBes9y) | 1:56 | 2023-09-15 |  |

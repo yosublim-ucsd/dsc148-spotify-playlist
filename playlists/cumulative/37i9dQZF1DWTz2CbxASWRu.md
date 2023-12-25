@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-396 songs - 1 day 5 hr 13 min
+397 songs - 1 day 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Cuba 1970](https://open.spotify.com/track/4CKT7aRJHmPWy4MoksOkzl) | [Dead Combo](https://open.spotify.com/artist/4DbBi3EWMhdHMnX8WqRIev) | [Dead Combo e as Cordas da Má Fama](https://open.spotify.com/album/2H8dOZvDGr1mJP0xeIyNQ2) | 3:48 | 2023-07-10 |  |
 | [Cumbia de Mochilla](https://open.spotify.com/track/3w8pnNOI6MLUdaHbvnegYZ) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Los Miticos del Ritmo](https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6) | 2:29 | 2023-07-10 |  |
 | [Cumbia Imperial](https://open.spotify.com/track/4bgod5MlOsjzzHC0IQFoAM) | [Cumbiasound](https://open.spotify.com/artist/1iW2PQWBqrMqT3yNfcHrVv), [Lis Flores Varela](https://open.spotify.com/artist/1J5GfFHQdauwIzc38Wib1C), [Boogie Castillo](https://open.spotify.com/artist/3y7a1cuQlXDJmonftCDqbj), [Erik Axelsson](https://open.spotify.com/artist/6M5Vevn5R8nUp9aaXjP2IA) | [Cosas Del Universo](https://open.spotify.com/album/036AR7pZFfjmQ6wX2c2dCk) | 3:25 | 2023-07-10 |  |
+| [Cumbia Panadero](https://open.spotify.com/track/7fRuzPdvA1IWQPow6vFAlx) | [Sonido de la Frontera](https://open.spotify.com/artist/0bHro9hNjlh1uyhCeEnYYx) | [Cumbia Mundial](https://open.spotify.com/album/5qevS0pmqfWaIpRrCD81fH) | 4:19 | 2023-12-15 |  |
 | [Cumbion de las Aves](https://open.spotify.com/track/5fv7uY4AfOWlaLS0GVjibW) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Río Arriba](https://open.spotify.com/album/64YiuDZw5jozMxQHSldAej) | 4:45 | 2023-07-10 |  |
 | [Dale Melón](https://open.spotify.com/track/1rRR2kteGIoimfFex15wKu) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Lo Bueno Está Aquí](https://open.spotify.com/album/1pQ2O6Ksnw6p3QnjMgyNFd) | 4:20 | 2023-07-10 | 2023-10-06 |
 | [Damat Alam](https://open.spotify.com/track/1v55bBB5y2DqWkz622OMxv) | [Hany Mehanna](https://open.spotify.com/artist/3h9X1RMf1TfyNGntWJZdJ2) | [Music For Airplanes \- A collection of instrumental showpieces and scores for Egyptian films and TV\-series \(1973\-1980\)](https://open.spotify.com/album/38TAyky0FDfVX5oFeuIEGk) | 3:59 | 2023-07-10 |  |
@@ -148,7 +149,7 @@
 | [Exodus](https://open.spotify.com/track/3UuqC9dKWG0bLu6TrPIe4F) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 7:40 | 2023-07-10 |  |
 | [Fantastic Man](https://open.spotify.com/track/1ETZhP9orTkDclKEyt0xqm) | [William Onyeabor](https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi) | [World Psychedelic Classics 5: Who Is William Onyeabor?](https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0) | 6:26 | 2023-07-10 |  |
 | [Feel da Fayah](https://open.spotify.com/track/2viGSjnyloxhBaVA5JXXnx) | [La Inedita](https://open.spotify.com/artist/0iazHkXB3jfE8iVb1IV5AF) | [Feel da Fayah](https://open.spotify.com/album/0FgRpGEp4MAPo34WAPZb9y) | 2:26 | 2023-07-10 | 2023-11-30 |
-| [Feel Good \(feat\. Khruangbin\) \- Edit](https://open.spotify.com/track/5EhyJGUafXNnPniaIQnSER) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Feel Good \(feat\. Khruangbin\)](https://open.spotify.com/album/1UsruEVoYrg43BOPvwAHry) | 3:37 | 2023-07-10 |  |
+| [Feel Good \(feat\. Khruangbin\) \- Edit](https://open.spotify.com/track/5EhyJGUafXNnPniaIQnSER) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Feel Good \(feat\. Khruangbin\)](https://open.spotify.com/album/1UsruEVoYrg43BOPvwAHry) | 3:37 | 2023-07-10 | 2023-12-25 |
 | [Flores y Tamales](https://open.spotify.com/track/6gucJfZpSTJp3g0Do75dgM) | [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [The Thread That Keeps Us \(Deluxe Edition\)](https://open.spotify.com/album/5Ws4bwfBSjDopuj2oUISaU) | 2:48 | 2023-07-10 | 2023-11-08 |
 | [Floricanto](https://open.spotify.com/track/0E1jfqTSwFlGFskSYqn3ZM) | [Lhasa De Sela](https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI) | [La Llorona](https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP) | 4:10 | 2023-07-10 |  |
 | [Footsteps](https://open.spotify.com/track/6LN5AQcUWItYKTSwJPFIWy) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt), [Carol C](https://open.spotify.com/artist/3PDTHN0oVucy6WF2LVlS9A) | [Safe Passage](https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3) | 3:51 | 2023-07-10 |  |

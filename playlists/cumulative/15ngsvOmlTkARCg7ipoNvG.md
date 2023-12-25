@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,087 songs - 23 hr 59 min
+1,088 songs - 1 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -649,6 +649,7 @@
 | [Night Sun](https://open.spotify.com/track/1s9vSqxBbxqrJAzY4uMcRW) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Refuge, Vol\. 2](https://open.spotify.com/album/0BZhEnYxY5sZJs54ZYOCmX) | 1:06 | 2022-01-12 |  |
 | [No Longer Mine](https://open.spotify.com/track/7pRLxdK676oWLhbHf4B0jo) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Cello Songs, Vol\. 2](https://open.spotify.com/album/3MJDtl6gZx68f5rrgWS284) | 1:05 | 2022-02-20 |  |
 | [Nocturne](https://open.spotify.com/track/1eddH9AYWgtaX3KV1pjeK4) | [SØLYS](https://open.spotify.com/artist/2yxcToDb2FZV2tPnEt3cUl) | [Nocturne](https://open.spotify.com/album/7dNV1p10K1whB83rEIHcwG) | 2:02 | 2022-01-12 | 2022-12-28 |
+| [Noel Nouvelet \- Felt Piano Version](https://open.spotify.com/track/5icxJu3YAggOmoEAWHNFd0) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Noel Nouvelet \(Felt Piano Version\)](https://open.spotify.com/album/4xBjq4sVR1eX7kaLygyZAU) | 1:00 | 2023-12-24 |  |
 | [Nostalgic Drops Arr\. For Cello And Felt Piano](https://open.spotify.com/track/5UHgvCZZQ1p3TWkbZ7GeMJ) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Cello In The Night](https://open.spotify.com/album/5u9baQ1xJG6ATmeGrXmeF1) | 1:00 | 2023-04-19 |  |
 | [Nostalgic Sentiment \- Cello Version](https://open.spotify.com/track/4gXkD3j35mLyekvYU1lAT1) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Nostalgic Sentiment](https://open.spotify.com/album/0NIObh3asX3qpX7tV2iVtO) | 1:01 | 2023-04-08 |  |
 | [Nostalgic Sentiment \- Piano Version](https://open.spotify.com/track/7BKWmDFoSkiLsl6U06Kqbf) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Nostalgic Sentiment](https://open.spotify.com/album/0NIObh3asX3qpX7tV2iVtO) | 1:01 | 2023-04-08 |  |

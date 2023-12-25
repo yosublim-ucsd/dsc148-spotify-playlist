@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 2356,
+  "num_followers": 2359,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGVlYzIxNzZmNDEzYTJkZTgwOTk1YzljYjZlZTI4NmUzZGUwN2U4",
+  "snapshot_id": "MCxiNmU3YTVlNTUyOTI1Y2I1MGQ4ZjY1Y2RmMGE0Y2ZkMzVjZGJmZjll",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -319,6 +319,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "Les meilleurs s\u00e9gas de Jean-Claude (Folk Music of Mauritius Island)",
+        "url": "https://open.spotify.com/album/5PJ8ITlQfwJ7exo1QAPZSJ"
+      },
+      "artists": [
+        {
+          "name": "Jean-Claude",
+          "url": "https://open.spotify.com/artist/0UhmK26kiuevCeuvexjdp5"
+        }
+      ],
+      "duration_ms": 352360,
+      "name": "Dhobi de classe",
+      "url": "https://open.spotify.com/track/18D0UnZXdzRDDMgHvSdaJT"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Nou Sime",
         "url": "https://open.spotify.com/album/3FJBDWcFWslNDdT60uJeT6"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 225375,
       "name": "Kifer to Pale Danse",
       "url": "https://open.spotify.com/track/1AoFJdH2mQeIJ2AequbkcX"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Les meilleurs s\u00e9gas de Jean-Claude (Folk Music of Mauritius Island)",
-        "url": "https://open.spotify.com/album/5PJ8ITlQfwJ7exo1QAPZSJ"
-      },
-      "artists": [
-        {
-          "name": "Jean-Claude",
-          "url": "https://open.spotify.com/artist/0UhmK26kiuevCeuvexjdp5"
-        }
-      ],
-      "duration_ms": 352360,
-      "name": "Dhobi de classe",
-      "url": "https://open.spotify.com/track/18D0UnZXdzRDDMgHvSdaJT"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -419,30 +419,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "La famille",
-        "url": "https://open.spotify.com/album/5SAJBPp2Cny5DAGZjw3Kt7"
-      },
-      "artists": [
-        {
-          "name": "Jason Heerah",
-          "url": "https://open.spotify.com/artist/3bHZcXXpgcQWHFNVJqbYGl"
-        },
-        {
-          "name": "Otentik Groove",
-          "url": "https://open.spotify.com/artist/6OTvKPpBX7i2HM5NDo8dtK"
-        },
-        {
-          "name": "D\u00e9sir\u00e9 Fran\u00e7ois",
-          "url": "https://open.spotify.com/artist/7uq44YtefJQWMa2Gkz66C9"
-        }
-      ],
-      "duration_ms": 247136,
-      "name": "Ingra",
-      "url": "https://open.spotify.com/track/2s87WVUExrg6x979SqMdwL"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Sega Ar Pwa",
         "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
       },
@@ -487,6 +463,30 @@
       "duration_ms": 285882,
       "name": "Sa Pa Zot Traka",
       "url": "https://open.spotify.com/track/3h9cg05iOZh0OxygaQysSL"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "La famille",
+        "url": "https://open.spotify.com/album/5SAJBPp2Cny5DAGZjw3Kt7"
+      },
+      "artists": [
+        {
+          "name": "Jason Heerah",
+          "url": "https://open.spotify.com/artist/3bHZcXXpgcQWHFNVJqbYGl"
+        },
+        {
+          "name": "Otentik Groove",
+          "url": "https://open.spotify.com/artist/6OTvKPpBX7i2HM5NDo8dtK"
+        },
+        {
+          "name": "D\u00e9sir\u00e9 Fran\u00e7ois",
+          "url": "https://open.spotify.com/artist/7uq44YtefJQWMa2Gkz66C9"
+        }
+      ],
+      "duration_ms": 247136,
+      "name": "Ingra",
+      "url": "https://open.spotify.com/track/2s87WVUExrg6x979SqMdwL"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -803,8 +803,8 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Music from Mauritius",
-        "url": "https://open.spotify.com/album/1DRPsjliENVvsUKDZ469x3"
+        "name": "Ala li la sega",
+        "url": "https://open.spotify.com/album/0yhPNBCkbSlSftFmqPi0pn"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/07p5q6fIWYLesAR39CJQDf"
         }
       ],
-      "duration_ms": 370311,
-      "name": "Anita-Papa / Creole-Bar\u00e8",
-      "url": "https://open.spotify.com/track/5j5DHnAYh4qN7r7wkocP7a"
+      "duration_ms": 248128,
+      "name": "Ala li la sega",
+      "url": "https://open.spotify.com/track/5a1af5CK3Bj76KvCqv6cTd"
     },
     {
       "added_at": "2022-08-11 10:05:16",

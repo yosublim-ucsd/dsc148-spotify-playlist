@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-852 songs - 1 day 9 hr 5 min
+853 songs - 1 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Dreamz](https://open.spotify.com/track/2mooZdBPN5CMd9sLLqn7rl) | [August Sky](https://open.spotify.com/artist/6hm8yEY43m6Q5aq1O8oLwI) | [Dreamz](https://open.spotify.com/album/0nsR1tVzZZ1uFOKgXqswau) | 3:49 | 2022-04-15 |  |
 | [Driftwood](https://open.spotify.com/track/5Df3pDneVxrgAvEbgSX3Yv) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt), [Slug](https://open.spotify.com/artist/2E14TlP0N4RU8X3Y2i2Pq3) | [Driftwood](https://open.spotify.com/album/5pwPeU5EW7xkYcXYixuvjP) | 1:47 | 2022-04-15 | 2023-10-13 |
 | [Drip](https://open.spotify.com/track/3IjWchZ6NabiqZNzJ1yhCa) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Drip](https://open.spotify.com/album/5ZL8AF9ifQ7roWRyq6npH3) | 2:21 | 2023-09-04 | 2023-10-13 |
-| [Drops](https://open.spotify.com/track/4bUsbn32Gk1CQHnykm6gm1) | [Prism Sorrow](https://open.spotify.com/artist/5Fh6NGwhB7tyhUR7XPuxhT) | [Drops](https://open.spotify.com/album/4FhgXX6FF1mv2M0ji7QgpF) | 2:33 | 2022-11-25 |  |
+| [Drops](https://open.spotify.com/track/4bUsbn32Gk1CQHnykm6gm1) | [Prism Sorrow](https://open.spotify.com/artist/5Fh6NGwhB7tyhUR7XPuxhT) | [Drops](https://open.spotify.com/album/4FhgXX6FF1mv2M0ji7QgpF) | 2:33 | 2022-11-25 | 2023-12-25 |
 | [Dusk's Delight](https://open.spotify.com/track/6GpE61U0CCL7k01WyF3DiN) | [Wezley Wiz](https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg) | [Dusk's Delight](https://open.spotify.com/album/3da8NaCjNEuTJiVOUlDR3O) | 2:00 | 2023-09-22 |  |
 | [El Clásico](https://open.spotify.com/track/2R8izDCEhhL9vQSkHZZZLG) | [Byz Playground](https://open.spotify.com/artist/0BMwJwRVDIJwATictkQzky) | [El Clásico](https://open.spotify.com/album/2rPikPoa8oTq9EWfPUgS6b) | 2:04 | 2022-10-14 | 2023-10-20 |
 | [Elastic](https://open.spotify.com/track/2L2aSrua8ZBRMogFhF6I1Q) | [4to28](https://open.spotify.com/artist/0yWkm3SjcPi6xzWv5qCKmM) | [Elastic](https://open.spotify.com/album/4lXR2fC1cbE3mD732vjbdM) | 2:01 | 2022-05-20 |  |
@@ -484,6 +484,7 @@
 | [Noon](https://open.spotify.com/track/692BbmPcX0H4AuiCSsVGxk) | [Wax A Dizk](https://open.spotify.com/artist/0oFTGAftcAfchCbIObOGjh) | [Noon](https://open.spotify.com/album/6LQNlc436wtwnuK8xr8WNz) | 1:37 | 2022-12-09 |  |
 | [Nostalgia](https://open.spotify.com/track/6j6ZILBUn4Db0eC8dwSpxg) | [Betty Michaels](https://open.spotify.com/artist/1BhnNe00irqmdbyijyTZMk), [CRFT](https://open.spotify.com/artist/4rwCk3DZwQa8uY7Cvfu4aM) | [Nostalgia](https://open.spotify.com/album/25lzc5egcw786yCAD1n5W2) | 2:41 | 2022-10-28 | 2023-10-06 |
 | [Nostalgia Midnight Blue](https://open.spotify.com/track/2mc1gRCwxC8LP4qtX90qgv) | [C\. H\. Alice](https://open.spotify.com/artist/2vUY9u1zhTNfrfOgnbGP8a) | [Nostalgia Midnight Blue](https://open.spotify.com/album/0C47SewkHps0G91nwTcASm) | 3:07 | 2022-06-10 |  |
+| [Nostalgic](https://open.spotify.com/track/7qT2KT4j6HZ6qCyQ8mLv1s) | [Nostalgique](https://open.spotify.com/artist/4i29Lf2vHDzbCPrkdP3uoM) | [Nostalgic](https://open.spotify.com/album/4Kw3dlJ1SVQxwj5o4J2GJ9) | 1:52 | 2023-12-22 |  |
 | [Nothing But View](https://open.spotify.com/track/1ush7QFN5CdZNMFriIo1bI) | [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76), [Ferge](https://open.spotify.com/artist/0U1ooChssjTDk8BMTYEfHy) | [Nothing But View](https://open.spotify.com/album/3l54TOF2k79XaMPz2Dgvbp) | 2:00 | 2023-07-19 | 2023-09-22 |
 | [Oase](https://open.spotify.com/track/1jF4XHhBTdyStb7maYQtpU) | [Mo Anando](https://open.spotify.com/artist/58CQV8VkrpijF55LjfmSRH) | [Oase](https://open.spotify.com/album/6hLVNzSWsprXx92uYjZjSa) | 4:45 | 2022-06-17 | 2023-10-06 |
 | [Oasis](https://open.spotify.com/track/6GsBfkNYIF71yW65Ip7C8K) | [evans](https://open.spotify.com/artist/3Dm30k7Otucd2Yfq7V1mQ6) | [Oasis](https://open.spotify.com/album/6gZKGLQLHUXCZLmslnvpj5) | 1:37 | 2022-04-15 | 2022-08-19 |

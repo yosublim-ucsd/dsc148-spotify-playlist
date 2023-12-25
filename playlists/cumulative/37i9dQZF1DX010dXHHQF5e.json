@@ -1625,6 +1625,24 @@
     },
     {
       "album": {
+        "name": "Duero",
+        "url": "https://open.spotify.com/album/1aI7HeoLOS1UyFroeRGNGk"
+      },
+      "artists": [
+        {
+          "name": "Aron Finneas",
+          "url": "https://open.spotify.com/artist/5eL2qDCUxC7emQsTp17aDx"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195600,
+      "name": "Duero",
+      "url": "https://open.spotify.com/track/1lH3KG2MVPqXp6QmSevMb2"
+    },
+    {
+      "album": {
         "name": "Early Autumn",
         "url": "https://open.spotify.com/album/59fAHLXGySE1TJ9HeVCTl7"
       },
@@ -3292,7 +3310,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 264624,
       "name": "It Might As Well Be Spring",
       "url": "https://open.spotify.com/track/4FUkmFYogSz8ScvhdJG0xL"
@@ -4613,6 +4631,24 @@
     },
     {
       "album": {
+        "name": "novak",
+        "url": "https://open.spotify.com/album/1ZLd1xk9RnVjL94hq4m3bM"
+      },
+      "artists": [
+        {
+          "name": "Linior",
+          "url": "https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130840,
+      "name": "novak",
+      "url": "https://open.spotify.com/track/3rZVAQpemoV95KJ7hvrSg8"
+    },
+    {
+      "album": {
         "name": "Now-empty",
         "url": "https://open.spotify.com/album/15nWsQs6zRJDlM58O9XF3t"
       },
@@ -5190,6 +5226,24 @@
       "duration_ms": 224340,
       "name": "Sad Eyes",
       "url": "https://open.spotify.com/track/1EOmCGRp5PYbRJ5gKQeDeF"
+    },
+    {
+      "album": {
+        "name": "Same As Usual",
+        "url": "https://open.spotify.com/album/0DqnmKlSE720tR5xG1AFu7"
+      },
+      "artists": [
+        {
+          "name": "Lyn Ardbeg",
+          "url": "https://open.spotify.com/artist/6cUNyotmONFDiZvl8LafA6"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156819,
+      "name": "Same As Usual",
+      "url": "https://open.spotify.com/track/7E7UnuDjlg1rLIrOvPfXxC"
     },
     {
       "album": {
@@ -6356,7 +6410,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 247414,
       "name": "The Reasons That I Love You",
       "url": "https://open.spotify.com/track/4jwFix4ZBxag78Cu1BOJf1"
@@ -7220,7 +7274,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 247278,
       "name": "Witchcraft",
       "url": "https://open.spotify.com/track/787b6CSG5VnNvAATPEk54g"

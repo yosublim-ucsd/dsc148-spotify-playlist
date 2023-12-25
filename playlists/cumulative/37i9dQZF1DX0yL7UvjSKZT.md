@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Sierra Ferrell
 
-366 songs - 22 hr 54 min
+369 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,8 @@
 | [Hope](https://open.spotify.com/track/1PgzV8KUx8fwktpyiNsl1N) | [Cup O’Joe](https://open.spotify.com/artist/3ooGnJ9UPDeByu31PiBSYf) | [Hope](https://open.spotify.com/album/1MXFBK5FvML9DRmO3PEqrb) | 3:55 | 2023-04-07 |  |
 | [Hot Hands](https://open.spotify.com/track/3tSpEKEMSy45FraGEEh0W1) | [Lindsay Lou & the Flatbellys](https://open.spotify.com/artist/5shNy8PK3d0GaOUEoygZB3) | [Ionia](https://open.spotify.com/album/2WozLvN6TyURivAK0kNoHZ) | 4:03 | 2021-10-01 | 2022-01-22 |
 | [How Can You Sing](https://open.spotify.com/track/5IbOyjdsyw9j0hHhM37M1A) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Impossible World](https://open.spotify.com/album/3wMpxOP0ahmNk1958ORpdo) | 3:30 | 2021-10-01 |  |
-| [How It Ends](https://open.spotify.com/track/0QNGlcB83H133AoEFggtRP) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [How It Ends](https://open.spotify.com/album/2FftzfiRpzlPwSXpKgisJi) | 3:19 | 2022-04-22 |  |
+| [How It Ends](https://open.spotify.com/track/0QNGlcB83H133AoEFggtRP) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [How It Ends](https://open.spotify.com/album/2FftzfiRpzlPwSXpKgisJi) | 3:19 | 2022-04-22 | 2023-12-25 |
+| [How It Ends](https://open.spotify.com/track/0kqUylCZDfyQqiSxtaCFdf) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Narrow Line](https://open.spotify.com/album/2r8q2wsnlNchuXp2xiMBSm) | 3:19 | 2023-12-15 |  |
 | [How Long](https://open.spotify.com/track/62Y0ujNxDSwplJU2locl1E) | [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [25 Trips](https://open.spotify.com/album/5MW8vgKSki8FkuzIeEbDjG) | 4:49 | 2021-10-01 | 2023-06-03 |
 | [Howl](https://open.spotify.com/track/0JB90B4sJ9HeF1pRtEkZOf) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Scoundrel](https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O) | 4:53 | 2022-10-14 |  |
 | [Howl](https://open.spotify.com/track/0duTC9TPYGdTukVmkJiAuZ) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [It Feels Alright](https://open.spotify.com/album/0xsAiiO0KEvKLn9J7v9XIJ) | 4:53 | 2022-10-14 | 2022-11-13 |
@@ -158,7 +159,8 @@
 | [IOWA](https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [IOWA](https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46) | 4:35 | 2023-01-13 |  |
 | [Iron & Ore](https://open.spotify.com/track/0V5HKIZzUKlZ8He2Zfp4Eh) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [The Last Revel](https://open.spotify.com/album/3myX8j297y7X7rdSE3LVg2) | 3:54 | 2021-10-01 | 2022-07-29 |
 | [Iron & Ore](https://open.spotify.com/track/47vKr9ZnQj3wSyDQE0kEOL) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [The Last Revel](https://open.spotify.com/album/385iuK4kIgS4QobktCgoGB) | 3:54 | 2022-07-22 | 2023-07-22 |
-| [Jenny Put the Kettle On](https://open.spotify.com/track/1r65QhZcekR3BWfwkjIf6I) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/57Vu4douVKyoHc5Asa2LHM) | 2:00 | 2022-09-30 |  |
+| [Jenny Put the Kettle On](https://open.spotify.com/track/0hDZD5WuVY0Xs0MV0MzRgS) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/0yKUSFsZyE1ckKUOp83onF) | 2:00 | 2023-12-15 |  |
+| [Jenny Put the Kettle On](https://open.spotify.com/track/1r65QhZcekR3BWfwkjIf6I) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/57Vu4douVKyoHc5Asa2LHM) | 2:00 | 2022-09-30 | 2023-12-25 |
 | [Jenny Put the Kettle On](https://open.spotify.com/track/1vHYLSFXktaPllAwMj4bmJ) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/6IG1OlL4Z6fV3zh0hRGqIc) | 2:00 | 2022-08-26 | 2022-10-06 |
 | [Johnny](https://open.spotify.com/track/4WDtGj1M2HFlcjvYIiRFug) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:59 | 2021-10-01 | 2022-01-22 |
 | [Julep](https://open.spotify.com/track/5a4ZTEMp6wULHTEzJclKxt) | [Punch Brothers](https://open.spotify.com/artist/4gFssfOmWNY3LfIZ3zyoy4) | [The Phosphorescent Blues](https://open.spotify.com/album/3cdqpjwuTvDeLe3RYIGb0j) | 5:26 | 2021-10-01 | 2022-01-22 |
@@ -176,7 +178,8 @@
 | [Life Lessons](https://open.spotify.com/track/0VFwBPIBEuveQTxrm5OerM) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Life Lessons](https://open.spotify.com/album/7pvSshGK1UHAQEQAC1o7yv) | 3:15 | 2023-11-17 |  |
 | [Light My Fire](https://open.spotify.com/track/0qhSnJz1pLxidDVxFHH9XD) | [Mapache](https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO) | [Light My Fire](https://open.spotify.com/album/2Wj72J5gYHOtf2QhNDoP5T) | 3:11 | 2022-05-27 | 2023-01-14 |
 | [Little Sadie](https://open.spotify.com/track/5oZVRtVqTDawr47jOda6AH) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken By A Low Sound \(Deluxe\)](https://open.spotify.com/album/45cjYhMQZBlltDVr6sLXrG) | 2:32 | 2022-05-13 |  |
-| [Little Satchel](https://open.spotify.com/track/2NAtu56kCVNhTzu8Cz0NVN) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Little Satchel](https://open.spotify.com/album/3PLL0AGHcVDPgK03UR1H0T) | 3:17 | 2022-07-08 |  |
+| [Little Satchel](https://open.spotify.com/track/1ym8cryelFHPD6k0FCocCh) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/0yKUSFsZyE1ckKUOp83onF) | 3:17 | 2023-12-15 |  |
+| [Little Satchel](https://open.spotify.com/track/2NAtu56kCVNhTzu8Cz0NVN) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Little Satchel](https://open.spotify.com/album/3PLL0AGHcVDPgK03UR1H0T) | 3:17 | 2022-07-08 | 2023-12-25 |
 | [Local Honey](https://open.spotify.com/track/0DoAh5V2UYlRSO0bi7sFim) | [Sean Watkins](https://open.spotify.com/artist/45K759axQK0aohwSjbkgpy) | [What to Fear](https://open.spotify.com/album/7jf04POqt5rp1jWM8KQhzd) | 2:44 | 2021-10-01 | 2023-06-03 |
 | [Lost But Not Forgotten](https://open.spotify.com/track/3Bm3ymBsKeq5GTGOIsd6dM) | [Malingo](https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk) | [Lost But Not Forgotten](https://open.spotify.com/album/6IIDtMuwJwElTFuZAcm7cH) | 4:39 | 2023-08-25 |  |
 | [Lou](https://open.spotify.com/track/5RiNiEwBUXyigik5Jt3FOu) | [The Montvales](https://open.spotify.com/artist/0FYazSWo7TGjPJz0Jz4O9t) | [Lou](https://open.spotify.com/album/6rfs4PhhJWZDZRO9Qt6Z54) | 3:11 | 2023-11-17 |  |

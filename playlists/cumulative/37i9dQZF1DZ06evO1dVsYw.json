@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Racionais 3 D\u00e9cadas",
+        "url": "https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294683,
+      "name": "O Mal e o Bem",
+      "url": "https://open.spotify.com/track/76Nv2osNj3GmNnb1W8YWw5"
+    },
+    {
+      "album": {
         "name": "Raio X do Brasil",
         "url": "https://open.spotify.com/album/2QMZRtm35gtG3ZJs0yl9EM"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 
 > El Dembow que está subiendo en RD\. Foto: Rochy RD
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,607 likes - 49 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,633 likes - 49 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 20 | [Los Codigo](https://open.spotify.com/track/3r9WUiFHPznpzDlKybAtWP) | [Tauro.9](https://open.spotify.com/artist/35yxRc8QZ4fYQdEA7ILeOl), [el r artista](https://open.spotify.com/artist/6TQTc6qxOm727MMI2r77RL), [Pablo Piddy](https://open.spotify.com/artist/4ezBKqi9gOB2jt9OUw2cmc) | [Los Codigo](https://open.spotify.com/album/6MsB5OYY0h1Rk3e8uoKnEm) | 2:08 |
 | 21 | [No Te Pue Quilla](https://open.spotify.com/track/7z7UiZNczRd5UHGXoSSbXC) | [El Tonka 03](https://open.spotify.com/artist/15VLLHqEeu6FJG26ev19tQ), [El Kable](https://open.spotify.com/artist/3hbiGjxZ86peyzzA5N4hil) | [No Te Pue Quilla](https://open.spotify.com/album/1YbcGiEBO3Vs316kabTG0A) | 2:23 |
 | 22 | [GLOCK CREMA](https://open.spotify.com/track/3dXETJk47wnCwP4Sc43mLP) | [Dilon Baby](https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN) | [GLOCK CREMA](https://open.spotify.com/album/0kQP8WuSA7xIvJVQvCUNd8) | 2:57 |
-| 23 | [Se No Gaste](https://open.spotify.com/track/0R8B8WYvdLLUXrtNDL11Wb) | [Yoan Retro](https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi), [El Baby R](https://open.spotify.com/artist/0sJpqQouXqn3gKQrsN1JET) | [Se No Gaste](https://open.spotify.com/album/6pLgfLFzMy8RgnT5IZgUmF) | 2:00 |
+| 23 | [Se Nos Gaste](https://open.spotify.com/track/2SsRIkIxgsBsASmvmyJjxa) | [Yoan Retro](https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi), [El Baby R](https://open.spotify.com/artist/0sJpqQouXqn3gKQrsN1JET) | [Se Nos Gaste](https://open.spotify.com/album/0zxEY9GAMmSk7jkP3xhi1k) | 2:00 |
 | 24 | [Cocotico](https://open.spotify.com/track/1MiX6P0EswKTILtABR0uQI) | [Crazy Design](https://open.spotify.com/artist/3rQXUpppnyxRkQNxoLFtUV), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [Cocotico](https://open.spotify.com/album/5sTxABf1vVdF4mDOkbb2to) | 2:16 |
 | 25 | [Te Deposite](https://open.spotify.com/track/5d5EeayuH1BZbgjIfRDog2) | [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj), [El Baby R](https://open.spotify.com/artist/0sJpqQouXqn3gKQrsN1JET), [PV Aparataje](https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4) | [Te Deposite](https://open.spotify.com/album/640vW6xSuGRtFYyJT3jhRW) | 2:24 |
 | 26 | [Sin Domesticar](https://open.spotify.com/track/6zzcMO9p5h6iSH6dCCbRR6) | [Anthony Ready & Yeigo](https://open.spotify.com/artist/3jbsnUDtwiiGVikbY9VYK7), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Victor R \-Swag](https://open.spotify.com/artist/5Jz48JzVckf7ZUvrQc55Iq) | [Sin Domesticar](https://open.spotify.com/album/2YljPJyOntYbqeSqvfcn6S) | 2:31 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 48 | [Caracas](https://open.spotify.com/track/7qp7YjiFlmBMbk0Ng0KGNa) | [Tunin Slow](https://open.spotify.com/artist/0UzxcbI6rrP3qxTebnUBcY) | [Caracas](https://open.spotify.com/album/6VIoDrXgf5eyulYqSTvF1p) | 2:15 |
 | 49 | [PASATEte](https://open.spotify.com/track/4O5706ZvqEjbTHFAZ8serH) | [El Mello 06](https://open.spotify.com/artist/0TLBdmP7SIXHSdUEWhlGPo), [John42](https://open.spotify.com/artist/7IacNqyAEZu2T6P4BfCHJw) | [PASATEte](https://open.spotify.com/album/0QNG2WZmexY4P6uY8CNmoC) | 2:04 |
 
-Snapshot ID: `MCxlZjEzOWFkYmM4NjhmYmZlMTlhMDgzNWFiYTZlNmNlYTIzZTk1MWM4`
+Snapshot ID: `MCwyOTJiMjkxN2IwZDZiZjQwNTI1Y2EzMTM4ODE0NDNiZmEzMDU2MGVm`

@@ -4,7 +4,7 @@
 
 > Dive in to the Ambient of the 1980s.
 
-97 songs - 9 hr 41 min
+98 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [The Wooden Cross](https://open.spotify.com/track/1O6K0dOuS2MUP4sJxwDHtf) | [David Sylvian](https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw) | [Gone To Earth \(Remastered 2003\)](https://open.spotify.com/album/3CRipGCmcoBTKdadiYIMOc) | 5:04 | 2021-12-23 |  |
 | [These Waves](https://open.spotify.com/track/6U3dEfxvAplB7koKUqof9U) | [Pieter Nooten And Michael Brook](https://open.spotify.com/artist/1AhA5UAPUefljVYKupe1xp) | [Sleeps with the Fishes](https://open.spotify.com/album/3dtF7JTVFodlTm83YWcLYS) | 3:12 | 2021-12-23 |  |
 | [TO THE AIR/空へ](https://open.spotify.com/track/2ssoK2Vqu6gzlyHhBwxi2w) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [MERCURIC DANCE\(マーキュリック・ダンス\~躍動の踊り\)](https://open.spotify.com/album/7GCdwdSawyfsXcTiPlMF4L) | 5:11 | 2021-12-23 |  |
-| [Towards the Blue \- 2021 Remastered](https://open.spotify.com/track/4cmGoOiC6y7kUenRgG1j4u) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Quiet Music \(35th Anniversary Remastered 3\-Hour Collection\)](https://open.spotify.com/album/2TgLjrozwbkq1EUrmqeMd4) | 3:20 | 2021-12-23 |  |
+| [Towards the Blue \- 2021 Remastered](https://open.spotify.com/track/4cmGoOiC6y7kUenRgG1j4u) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Quiet Music \(35th Anniversary Remastered 3\-Hour Collection\)](https://open.spotify.com/album/2TgLjrozwbkq1EUrmqeMd4) | 3:20 | 2021-12-23 | 2023-12-25 |
+| [Towards the Blue \- 2021 Remastered](https://open.spotify.com/track/5SIe4n4uiR1MSrodc54NON) | [Steve Roach](https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a) | [Quiet Music \(35th Anniversary Remastered 3\-Hour Collection\)](https://open.spotify.com/album/0H6unnD9vfnYiOYnN6AFFi) | 3:20 | 2023-12-04 |  |
 | [TREMBLING\#2/揺動・\#2\(トレンブリング\#2\)](https://open.spotify.com/track/0pDNtxXyRGR0BUlg2cSgPF) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [THE ENDLESS TALKING/エンドレス・トーキング](https://open.spotify.com/album/55TS7AN0dxJbQuTHdzXOta) | 5:43 | 2021-12-23 |  |
 | [Turning Point](https://open.spotify.com/track/0ebNM3sZEGg0f9GGMH9spZ) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU) | [Reflecting Light, Vol\. 1](https://open.spotify.com/album/5egigwAjsqdGSS7OHCOpH8) | 4:54 | 2021-12-23 |  |
 | [Unfamiliar Wind \(Leeks Hills\) \- Remastered 2004](https://open.spotify.com/track/4SngUdjKC7Njrz5UVik26A) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 4: On Land \(Remastered 2004\)](https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh) | 5:26 | 2021-12-23 |  |

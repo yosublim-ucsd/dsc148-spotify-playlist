@@ -4,7 +4,7 @@
 
 > Pushing the boundaries of instrumental Folk and Americana.
 
-106 songs - 7 hr 9 min
+107 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,8 @@
 | [Afar](https://open.spotify.com/track/2xYXPFalEjva3zI8ZYe2yQ) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Serpent \(In Quicksilver\)](https://open.spotify.com/album/3btBOcfiQYdEhYoiAKR4tl) | 2:34 | 2022-02-10 | 2023-02-02 |
 | [Afar](https://open.spotify.com/track/7ix5BtN2K7vsTpFWDqN8Bk) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 2:34 | 2022-09-30 |  |
 | [Agave](https://open.spotify.com/track/0DifKkrphdk37zLMFppXM2) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Belladonna](https://open.spotify.com/album/2WjEpzE4jtsoClOCYAxxQ4) | 1:58 | 2022-02-10 | 2022-07-29 |
-| [Agave](https://open.spotify.com/track/3nuTfqbuzQNdIt6DstMvPF) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Belladonna](https://open.spotify.com/album/1aRlVoPRlpWeJHBDVqRETr) | 1:58 | 2023-09-15 |  |
+| [Agave](https://open.spotify.com/track/2Dkd8YmkjfPlq5RW81F7Mv) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Belladonna](https://open.spotify.com/album/3U7Stmt8H1ZXDmArldNoIK) | 1:58 | 2023-12-01 |  |
+| [Agave](https://open.spotify.com/track/3nuTfqbuzQNdIt6DstMvPF) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Belladonna](https://open.spotify.com/album/1aRlVoPRlpWeJHBDVqRETr) | 1:58 | 2023-09-15 | 2023-12-25 |
 | [Agave](https://open.spotify.com/track/6naW8OkDHDhM4wYEwZJgwe) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Belladonna](https://open.spotify.com/album/05tAz0b9gHjjlpaIOxNvfy) | 1:58 | 2022-04-22 | 2023-10-02 |
 | [Ai Du](https://open.spotify.com/track/7vzhCpNntdmzI3yop3UckE) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Talking Timbuktu](https://open.spotify.com/album/0mrP9dZLtrJtUEBuhGgVRF) | 7:09 | 2022-02-10 | 2022-07-29 |
 | [Ai Du \(with Ry Cooder\)](https://open.spotify.com/track/5ksSzUpY892Gga1BlDN9ey) | [Ali Farka Touré](https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL) | [Talking Timbuktu](https://open.spotify.com/album/0pOL9eM3BPolgD5jjQInAk) | 7:09 | 2023-09-15 |  |

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,792 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,826 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Summer Groove](https://open.spotify.com/track/1WeSHCWNKRixmn9tLNmvKH) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [The Best of Tim Bowman](https://open.spotify.com/album/5wRMa0KJ8fa7U8TxhEPvVI) | 11:46 |
+| 1 | [Summer Groove](https://open.spotify.com/track/4SMExf2UAgf4k3jZDjelHL) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [The Best of Tim Bowman](https://open.spotify.com/album/6jSqCcaTNJdKsRD3JJQoyq) | 11:46 |
 | 2 | [Echoes](https://open.spotify.com/track/2IfPxItRt1NwJDeAZOQRck) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Without a Doubt](https://open.spotify.com/album/72AWHYj9AguRbu2x7VzxY9) | 4:39 |
 | 3 | [Terminator](https://open.spotify.com/track/6QOJoThXu58CINhFeyitHf) | [Brendan Ross](https://open.spotify.com/artist/3M01zUDEhtQi29cFkqhBhJ) | [Terminator](https://open.spotify.com/album/7qBGqNzkgkC4QyVRMPOJwn) | 3:50 |
 | 4 | [Shore Thing](https://open.spotify.com/track/4bSWGX8MISGps0O6u6RWXJ) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds), [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [The Collaborations](https://open.spotify.com/album/7M0tYO1VeOg9TjIUDe5Ik6) | 4:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 99 | [Mama Smiles](https://open.spotify.com/track/6F0XssVvn2ePxP49sXLPZP) | [Michael Haggins](https://open.spotify.com/artist/6CKmfNuULyn3w1pMMHrHqx) | [Mama Smiles](https://open.spotify.com/album/4UOfNT5ngk0VXXBxSiH7hy) | 4:20 |
 | 100 | [Living in This House](https://open.spotify.com/track/5S2PbWaPKAsVf7D2cnzplv) | [Threestyle](https://open.spotify.com/artist/6Dj8bjGUnCYJddzoiTdJjX) | [Living in This House](https://open.spotify.com/album/2pz7mH3t10WshRh1P23qcP) | 3:54 |
 
-Snapshot ID: `MCw0NTdkMWE2YjViY2QyYTA3ODZjYWEyNWZlZWY1OWNmMWFlNDMyOTI4`
+Snapshot ID: `MCxlMzE4NmQ2MzNmMmI4YmFlZDIzMDlhOGRlM2IxYmQ4ZTk2YjI3OThm`

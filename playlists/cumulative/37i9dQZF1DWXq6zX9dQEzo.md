@@ -4,7 +4,7 @@
 
 > Faith without work\[out\]s is dead\.  Get your beast mode on!
 
-508 songs - 1 day 1 hr 15 min
+509 songs - 1 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [BOSS](https://open.spotify.com/track/2YYMl0fsIdd0945tqeoruQ) | [NXTMIKE](https://open.spotify.com/artist/2yMOYu5UEVMeoZmBczRR5g), [Kip Wolfe](https://open.spotify.com/artist/2HIuIgSR9YhmXZCfv0SVhS), [TRAPSHIP COLLECTIVE](https://open.spotify.com/artist/7CsdYLl6ItJb7WK7Kak1Sz) | [BOSS](https://open.spotify.com/album/1VFRXgn1jNhvh76mJAA0aR) | 2:10 | 2022-02-04 |  |
 | [BOTS \(freestyle\)](https://open.spotify.com/track/73csrPe5BOciEL8EQX6C0p) | [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Lite Pole](https://open.spotify.com/artist/4VcphREP0VLTCdji1JEUHl) | [BOTS \(freestyle\)](https://open.spotify.com/album/7yv9goNuPJecL9U7LD5lhe) | 1:48 | 2022-03-23 | 2022-04-30 |
 | [bounce back.](https://open.spotify.com/track/4tNgJIUHrkkHt6iFESuJRi) | [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2), [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni) | [bounce back.](https://open.spotify.com/album/748L8OCoABosEZF41AzgtM) | 3:07 | 2022-07-17 |  |
+| [Breathe](https://open.spotify.com/track/2W7Nu6D9JUaBCjXPukso9f) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [Kidd Lee](https://open.spotify.com/artist/0M120oS8JMyuyba6YoweKS), [Kaleb Mitchell](https://open.spotify.com/artist/4WpAIQu9OT1XmYnympTnnC) | [Breathe](https://open.spotify.com/album/7HpB1FzWw4SIF0KyWtpADM) | 2:55 | 2023-12-15 |  |
 | [Broken Pieces \(Matthew Parker Remix\)](https://open.spotify.com/track/5ivx3RMOrx3UrDln8DlH7q) | [Matt Moore](https://open.spotify.com/artist/2BK2I4WCQKbUFGDpddVFuf), [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54) | [Broken Pieces \(Matthew Parker Remix\)](https://open.spotify.com/album/327N5SiCa9EagolOyBKSvl) | 3:53 | 2022-02-04 | 2022-04-30 |
 | [Buena Onda](https://open.spotify.com/track/2BvGBY2zBcEptXP5K8pRuy) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [Buena Onda](https://open.spotify.com/album/7A8XQQfQmqv43Wb5Rpyg50) | 2:41 | 2022-02-04 | 2022-05-11 |
 | [Bulletproof](https://open.spotify.com/track/360aE5q4fclWPlsH73SdHO) | [Citizen Way](https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4) | [2.0](https://open.spotify.com/album/3zQ2tkiQovQZ7DJ8grJspS) | 4:04 | 2022-02-04 | 2022-04-21 |
@@ -245,7 +246,7 @@
 | [Jesus Called My Name](https://open.spotify.com/track/1SDMJYKkUd99L1xqo4DMOZ) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [The Stonebrook Project](https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU) | 4:20 | 2022-11-04 | 2023-08-12 |
 | [Jesus Called My Name](https://open.spotify.com/track/749CMDRkLnWFXTYGT123S4) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch) | [Jesus Called My Name](https://open.spotify.com/album/53KVcS6ZFxmvtXbNxamie3) | 4:20 | 2022-09-03 | 2022-11-05 |
 | [Jonah](https://open.spotify.com/track/4cWDgGTClNmfdscTIjPUy8) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Jonah](https://open.spotify.com/album/3dymiggXTLt85VuUagBcjH) | 3:18 | 2022-05-28 | 2022-07-25 |
-| [josiah.](https://open.spotify.com/track/0g6UbSmO8by3ecCSNmS7ca) | [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [josiah.](https://open.spotify.com/album/0cm3YLe7A3sNtFPEqix58J) | 2:09 | 2022-10-01 |  |
+| [josiah.](https://open.spotify.com/track/0g6UbSmO8by3ecCSNmS7ca) | [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [josiah.](https://open.spotify.com/album/0cm3YLe7A3sNtFPEqix58J) | 2:09 | 2022-10-01 | 2023-12-25 |
 | [Judgement](https://open.spotify.com/track/07MtxcYnX3S7sdgkdZW20Y) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Marko](https://open.spotify.com/artist/3zMt8gpVjvdf9d7HXqpPU6), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Judgement](https://open.spotify.com/album/6FrPawTmgqmj0taftHb1nM) | 2:16 | 2022-05-28 | 2022-07-19 |
 | [Just like Marvin](https://open.spotify.com/track/0nlauzP2BOuRb4QxjsUzpq) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Just like Marvin](https://open.spotify.com/album/2MML57Zxl0b2o0QM3L2hVP) | 2:10 | 2023-08-11 | 2023-11-03 |
 | [Keep Me](https://open.spotify.com/track/1bOR6zNOiMpVd2LDKP8XCE) | [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4), [Evan and Eris](https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf) | [Keep Me](https://open.spotify.com/album/56QvP6bxRamLdPzp1YwL52) | 2:30 | 2022-02-04 |  |

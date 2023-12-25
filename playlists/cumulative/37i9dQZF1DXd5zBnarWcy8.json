@@ -64,7 +64,7 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 149809,
       "name": "Back Street Lover",
       "url": "https://open.spotify.com/track/1f8RPgmv5f2FGOf59O3pmL"
@@ -118,7 +118,7 @@
       ],
       "date_added": "2020-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-09",
+      "date_removed": null,
       "duration_ms": 147026,
       "name": "Backstreet Lover",
       "url": "https://open.spotify.com/track/5BDrEmLb5inDyHn7ZSGSsF"
@@ -844,10 +844,32 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 271594,
       "name": "Stompin' Ground",
       "url": "https://open.spotify.com/track/1tXkEoNUFLVfgAdfF4SsNC"
+    },
+    {
+      "album": {
+        "name": "Stompin' Ground",
+        "url": "https://open.spotify.com/album/5PROCLSs2Zpe2VWP5RtsuL"
+      },
+      "artists": [
+        {
+          "name": "Aaron Neville",
+          "url": "https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT"
+        },
+        {
+          "name": "The Dirty Dozen Brass Band",
+          "url": "https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271594,
+      "name": "Stompin' Ground",
+      "url": "https://open.spotify.com/track/7eAyJmVmk60rHkoD0xniKM"
     },
     {
       "album": {
@@ -1044,10 +1066,28 @@
       ],
       "date_added": "2020-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 207826,
       "name": "You Got Soul",
       "url": "https://open.spotify.com/track/1vYUTYYAcf2LXSoXUHlRHB"
+    },
+    {
+      "album": {
+        "name": "Strange World",
+        "url": "https://open.spotify.com/album/3EA3H7YCID2fFJdy8gho89"
+      },
+      "artists": [
+        {
+          "name": "Ric Robertson",
+          "url": "https://open.spotify.com/artist/7euJV43X9MeQnoQFSELd25"
+        }
+      ],
+      "date_added": "2020-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207826,
+      "name": "You Got Soul",
+      "url": "https://open.spotify.com/track/2JKm37HM6FtS7ryk8KZUB5"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXd5zBnarWcy8"

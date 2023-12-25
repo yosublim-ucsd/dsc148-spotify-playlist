@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 
 > This is Gustavo Santaolalla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,678 likes - 47 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,686 likes - 47 songs - 1 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 | 10 | [The Apology Song](https://open.spotify.com/track/7nnbb77c4fLnosiTk5QpxQ) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Diego Luna](https://open.spotify.com/artist/5rSlhtcAytdvAnlZXcKLjE) | [The Book of Life \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7f0cdftcxwu61TCHkwVrs0) | 2:52 |
 | 11 | [Unbroken](https://open.spotify.com/track/6KAf1Y6OHR34qdmgUFO5zf) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us Part II \(Original Soundtrack\)](https://open.spotify.com/album/0tNUmClLcWptIcnoCXpPUC) | 4:38 |
 | 12 | [De Ushuaia a La Quiaca](https://open.spotify.com/track/1pdz8zR8gb1qfEBi64H1fa) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Ronroco](https://open.spotify.com/album/2wXkcCpf4OwYvPDVkswpV9) | 2:54 |
-| 13 | [Home](https://open.spotify.com/track/5PvWM8RrfJ1vNBoRHviWMB) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) | 3:07 |
+| 13 | [The Path \(A New Beginning\)](https://open.spotify.com/track/1hdDnQRPinE8hxYhW3uy6u) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) | 2:47 |
 | 14 | [Si Puedes Perdonar](https://open.spotify.com/track/3SGypgzY5gC0K9ve9gfxll) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Diego Luna](https://open.spotify.com/artist/5rSlhtcAytdvAnlZXcKLjE) | [The Book of Life \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7f0cdftcxwu61TCHkwVrs0) | 1:44 |
 | 15 | [Allowed to be Happy](https://open.spotify.com/track/5WGCkFCPDoi06SAXIF05bu) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us Part II \(Original Soundtrack\)](https://open.spotify.com/album/0tNUmClLcWptIcnoCXpPUC) | 2:48 |
 | 16 | [Left Behind \(Together\)](https://open.spotify.com/track/46MXNACYPdyqfGvkaptf2Z) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us \- Vol\. 2 \(Video Game Soundtrack\)](https://open.spotify.com/album/4NXjMFIEp6eJWM3ZRxWDoV) | 2:43 |
-| 17 | [The Path \(A New Beginning\)](https://open.spotify.com/track/1hdDnQRPinE8hxYhW3uy6u) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) | 2:47 |
+| 17 | [Home](https://open.spotify.com/track/5PvWM8RrfJ1vNBoRHviWMB) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us](https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh) | 3:07 |
 | 18 | [Creep](https://open.spotify.com/track/6Hrdertyam29E9LcljtfmW) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g), [Michael Hazlewood](https://open.spotify.com/artist/66SJTRUL592V4rIDdooRLI), [Colin Greenwood](https://open.spotify.com/artist/6bdotkIeFswBydfQqzHnKS), [Jonathan Greenwood](https://open.spotify.com/artist/4MXwPoGvThdwdlgErk9ZW9), [Philip Selway](https://open.spotify.com/artist/2A59wav3PGiJij2rK7HQYH), [Thomas Yorke](https://open.spotify.com/artist/7HrWtyO4zAClpj774sDYDO), [Ed O'Brien](https://open.spotify.com/artist/3E7aH1Yv84NoaP9JWcrMpE), [Diego Luna](https://open.spotify.com/artist/5rSlhtcAytdvAnlZXcKLjE), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Book of Life \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7f0cdftcxwu61TCHkwVrs0) | 1:20 |
 | 19 | [It Can't Last](https://open.spotify.com/track/5aWsp08r0De8hxXPKWbx0C) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us Part II \(Original Soundtrack\)](https://open.spotify.com/album/0tNUmClLcWptIcnoCXpPUC) | 2:19 |
 | 20 | [Chicha Roja](https://open.spotify.com/track/2DgzBlX9HecudC3rowLkXa) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Magnetismo](https://open.spotify.com/album/5h6es3HPWeIkaF5YALh3yp) | 3:05 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 | 46 | [Algun Dia \(Unplugged\) \(En Vivo\) \(with Gustavo Santaolalla\)](https://open.spotify.com/track/3Hasr4XNwh4CaUwqGsIror) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Julieta Venegas \- MTV Unplugged](https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97) | 4:00 |
 | 47 | [Opening](https://open.spotify.com/track/5uUkMMDpggRSQ4hRfI3lV7) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Brokeback Mountain Soundtrack](https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT) | 1:31 |
 
-Snapshot ID: `MjgzODg5NDMsMDAwMDAwMDBiODc5MGYyNGUxNWIxNzVjN2Y3ZTQ3MzIzN2Y2NWMxYQ==`
+Snapshot ID: `MjgzOTAyOTIsMDAwMDAwMDBkODk4YmQ1Njc0NzFjMzFmZjBmYmVmMjM2ZDdhZGUwNQ==`

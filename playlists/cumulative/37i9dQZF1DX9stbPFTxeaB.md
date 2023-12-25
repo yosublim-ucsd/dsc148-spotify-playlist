@@ -4,7 +4,7 @@
 
 > Blues, but funky\. Or funk, but bluesy\. Cover: Kenny Wayne Shepherd
 
-115 songs - 7 hr 35 min
+116 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Going Up](https://open.spotify.com/track/6Q5BhD6Ll1AloC0jJ9phV3) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [Going Up](https://open.spotify.com/album/6X4KUUDYiwZRqP0EVN3qa5) | 3:07 | 2020-08-21 | 2022-07-29 |
 | [Going Up](https://open.spotify.com/track/784KWAUgpgpzWnwaCQzi5k) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [Mindcontrol](https://open.spotify.com/album/2wtFYPfuLvIZmSeu9ohh7t) | 3:07 | 2020-08-21 |  |
 | [Groove With Me](https://open.spotify.com/track/1BDY39wDjT45KwlPADHap3) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Chills & Thrills](https://open.spotify.com/album/2RNTqYSOAdccKmNPg5ORbd) | 4:01 | 2020-08-21 | 2022-07-29 |
-| [Groove With Me](https://open.spotify.com/track/2VaKZQ6d3qY0roo4E1Hapg) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Chills & Thrills](https://open.spotify.com/album/3NAEXb8fdzzi9umXkF36J5) | 4:01 | 2020-08-21 |  |
+| [Groove With Me](https://open.spotify.com/track/1p1A5KPgbC1cXP70BVzo4D) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Chills & Thrills](https://open.spotify.com/album/3CbjgETRjdUvgIJqu7qpZu) | 4:01 | 2020-08-21 |  |
+| [Groove With Me](https://open.spotify.com/track/2VaKZQ6d3qY0roo4E1Hapg) | [Bernard Allison](https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI) | [Chills & Thrills](https://open.spotify.com/album/3NAEXb8fdzzi9umXkF36J5) | 4:01 | 2020-08-21 | 2023-12-25 |
 | [Here it Comes](https://open.spotify.com/track/6h8p747HBdGCua6nTVpnYg) | [TrackTribe](https://open.spotify.com/artist/4YKdSLESMOqzq5QSMAjCmv) | [Here it Comes](https://open.spotify.com/album/0BPIg1qCg8BVVQKTwYLOOU) | 3:06 | 2022-11-11 |  |
 | [Highway Jones](https://open.spotify.com/track/4No7vBUnNaJ76hOCMiWr5l) | [Cry Of Love](https://open.spotify.com/artist/6CKsSefAf4rhCQnrEmygFX) | [Brother](https://open.spotify.com/album/2fX9niq6mAumSozu4KnPmB) | 5:12 | 2020-08-21 |  |
 | [Honey](https://open.spotify.com/track/2wz8v9hjCcnp3m7kbZZMTG) | [Paulo Mendonca](https://open.spotify.com/artist/5IXO0yGQMScYQMsWg6L8YG) | [Does anybody wanna funk?](https://open.spotify.com/album/6G9XKu4eJ4wGMRQx4ye4bX) | 2:52 | 2020-08-21 | 2022-07-29 |

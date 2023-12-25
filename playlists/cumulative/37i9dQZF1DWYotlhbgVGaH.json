@@ -812,10 +812,28 @@
       ],
       "date_added": "2022-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 148320,
       "name": "Sausage Rock",
       "url": "https://open.spotify.com/track/06v4Mcr5umCoKHSYD5dQ6I"
+    },
+    {
+      "album": {
+        "name": "Flatland Boogie",
+        "url": "https://open.spotify.com/album/08kJRfomfkYlgjnlPSr5aE"
+      },
+      "artists": [
+        {
+          "name": "Four Charms",
+          "url": "https://open.spotify.com/artist/3SQLfVTpkQNXKRueLBRDcs"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148320,
+      "name": "Sausage Rock",
+      "url": "https://open.spotify.com/track/3SDLfXpRsjCJ84xJiwnxmE"
     },
     {
       "album": {

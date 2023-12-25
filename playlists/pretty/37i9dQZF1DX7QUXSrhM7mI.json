@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to lazing around.",
-  "num_followers": 65262,
+  "num_followers": 65336,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTk2YzY3MTg5NmE4NGU2MWM3ZGFlYWZiNzU3ZWRhNGRkOWNkNzI2",
+  "snapshot_id": "MCxjZTBkYWU1NWQ1N2NjOTU5MGVhZTc2ZWJlMGMzMzEyZGY2OTQ3MmZk",
   "tracks": [
     {
       "added_at": "2023-12-08 06:03:38",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-12-08 06:03:38",
       "album": {
-        "name": "Good Riddance (Deluxe)",
-        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 259592,
-      "name": "Amelie",
-      "url": "https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun"
-    },
-    {
-      "added_at": "2023-12-08 06:03:38",
-      "album": {
         "name": "summer camp",
         "url": "https://open.spotify.com/album/4mO5hcuCZYh8TyVgUjkIvi"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 172354,
       "name": "sunny day",
       "url": "https://open.spotify.com/track/7dA3NRsBnVKtQZgjR5Lzf8"
+    },
+    {
+      "added_at": "2023-12-08 06:03:38",
+      "album": {
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 259592,
+      "name": "Amelie",
+      "url": "https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun"
     },
     {
       "added_at": "2023-12-08 06:03:38",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-12-08 06:03:38",
       "album": {
-        "name": "Silence Between Songs",
-        "url": "https://open.spotify.com/album/0Q0rJ81u7O4EFCpqkcwJJ2"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "17",
-      "url": "https://open.spotify.com/track/5kxV0Tv6pbddmqqKJvlNtS"
-    },
-    {
-      "added_at": "2023-12-08 06:03:38",
-      "album": {
         "name": "Fun Machine EP",
         "url": "https://open.spotify.com/album/0fhggG3ywOi3jav209WMoI"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 217920,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/0RKKLIOnAPImtlLlYEjbYF"
+    },
+    {
+      "added_at": "2023-12-08 06:03:38",
+      "album": {
+        "name": "Silence Between Songs",
+        "url": "https://open.spotify.com/album/0Q0rJ81u7O4EFCpqkcwJJ2"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "17",
+      "url": "https://open.spotify.com/track/5kxV0Tv6pbddmqqKJvlNtS"
     }
   ],
   "unique_name": "Lazy Afternoon",

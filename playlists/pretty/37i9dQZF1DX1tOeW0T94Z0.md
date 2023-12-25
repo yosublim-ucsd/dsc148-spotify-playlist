@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 
 > Nothing but precious sounds from the 90s & 2000s\. Cover: Kardinal Offishall
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,455 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,465 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 | 46 | [Learn to Earn](https://open.spotify.com/track/1GNw15qPGChP3OkeVpagNG) | [Down Ta Erf](https://open.spotify.com/artist/5hznMGOJndBNISavtIs0Cs) | [Down Ta Erf](https://open.spotify.com/album/3HqA9RciaaTNAuGgrLYtLY) | 3:48 |
 | 47 | [Stay with Me \(Always\)](https://open.spotify.com/track/5ZfayXikF8vAT4EgMD5T8t) | [Dru](https://open.spotify.com/artist/0HScSUVfUii78Ir9Wv263A) | [The One](https://open.spotify.com/album/6CiWebqzDVRTWCiLK4QOwR) | 3:48 |
 | 48 | [Take A Message](https://open.spotify.com/track/0hJPZ0v8QxRwGIKiMGKE1G) | [Remy Shand](https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt) | [The Way I Feel](https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2) | 4:03 |
-| 49 | [Born And Raised In The Ghetto](https://open.spotify.com/track/7J4NU5c7UoEgFdkkDHLCJv) | [Point Blank](https://open.spotify.com/artist/4HYVAD8r5cumxUTuKnjBNp) | [Point Blank](https://open.spotify.com/album/7B3PgLVdjLBkeCLT1FYRU0) | 3:28 |
+| 49 | [Born And Raised In The Ghetto](https://open.spotify.com/track/3Roa6JPUXLn1TOS3fdz6Xr) | [Point Blank](https://open.spotify.com/artist/2Vn27JUQmFdkFhJ9T6Ip2T) | [Point Blank](https://open.spotify.com/album/6SR82zDPjwqNWMM98ll3hR) | 3:28 |
 | 50 | [Now A Daze](https://open.spotify.com/track/1hnD7gk73EyIhECXX8TFo3) | [Shad](https://open.spotify.com/artist/15lOM8PWY9pXQoURZwSZlK) | [The Old Prince](https://open.spotify.com/album/4dPlglX9hWIUld9UcP7R3M) | 2:20 |
 | 51 | [Audio Coke](https://open.spotify.com/track/2bKmY1uObcvy8Akw2RHaPC) | [DL Incognito](https://open.spotify.com/artist/4N1QWOhjZPVHrDEjSGdzuI) | [A Sample and a Drum Machine](https://open.spotify.com/album/1UqWZyvdTHKr4HO2Wbtvym) | 3:07 |
 | 52 | [Dear Hip Hop](https://open.spotify.com/track/3qeao3PpYJ2YzRbXta4iE9) | [Dan\-e\-o](https://open.spotify.com/artist/5odWxeNvjPNRoL07Rv9wk6) | [Dear Hip Hop: 20 Years Later](https://open.spotify.com/album/5C9b0q9aIDmsXjk5jHXzun) | 3:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 | 74 | [Sometimes](https://open.spotify.com/track/7dRqF9yproa1Ef6SQEbadb) | [Kim Davis](https://open.spotify.com/artist/0lR9PoH2KAqso7wAip3PJc) | [Live, Love, Learn](https://open.spotify.com/album/0Qr3iLw5lqYOFrhSdjlOjU) | 3:40 |
 | 75 | [Rewind](https://open.spotify.com/track/1PHtMv7FD30owJuNl2N1tE) | [Andreena](https://open.spotify.com/artist/6Yj9DHVH5JLhPFQMlhG28v), [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73) | [Rewind](https://open.spotify.com/album/0aEQ1YQNcx2bWHCukaefna) | 3:31 |
 
-Snapshot ID: `MCw1MGZhMmI2MTkxYTQ4ZjQ4ZDY4ZmU5ZDAzYWM1Y2JhNTc3M2Q1MmY5`
+Snapshot ID: `MCxhMzYzOWNlNWNiMTI1YTQ3M2QxNzI4NmRiZDY2YmIxNTZiZjcxYTMz`

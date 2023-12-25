@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RkXiUJ5aMs.md) - [plain]
 | 58 | [How Deep The Father's Love For Us](https://open.spotify.com/track/2qyih496IOcMiU1FHoHFNd) | [Phillips, Craig & Dean](https://open.spotify.com/artist/0g5OkLnQogzLrT9s5vw6kl) | [The Ultimate Playlist \- The Early Years](https://open.spotify.com/album/2Ql4Kpm9oX0ReygLvCpLrR) | 3:19 |
 | 59 | [Little Boy On His Knees AKA Cameron's Song](https://open.spotify.com/track/6Hczkb1UlY1QfS0aO8nqTN) | [Cheri Keaggy](https://open.spotify.com/artist/0TJpmZw9iFR95HEsRxcvzL) | [Child Of The Father](https://open.spotify.com/album/6yePsevSZkLJtIxLUAQVJG) | 3:36 |
 | 60 | [New Day](https://open.spotify.com/track/1Jc3DqBxWynXZPQLmOEHEe) | [Robbie Seay Band](https://open.spotify.com/artist/4xPxYiZyp9SWFG3MIFkee5) | [Give Yourself Away](https://open.spotify.com/album/5ha4teFmoKCKiRKXg1CYuc) | 4:05 |
-| 61 | [I Loved Her First](https://open.spotify.com/track/0vZvEE9c2bmA6H8hVKxXEZ) | [Heartland](https://open.spotify.com/artist/6B10yUcmUVw4RPKe6j58E9) | [I Loved Her First](https://open.spotify.com/album/2TkVvC9ETHw7y6KlpdHr8f) | 3:32 |
+| 61 | [I Loved Her First](https://open.spotify.com/track/7KeVXnlNls1D3BMa0oxgUW) | [Heartland](https://open.spotify.com/artist/6B10yUcmUVw4RPKe6j58E9) | [I Loved Her First](https://open.spotify.com/album/02NyoAKJJYUNoiwbfvt76S) | 3:32 |
 | 62 | [Butterfly Kisses](https://open.spotify.com/track/1mwCSKK0YRDsgnj2VwyZSU) | [Bob Carlisle](https://open.spotify.com/artist/4PJHDzdFoQcklrWU18QdsU) | [Simply Bob Carlisle](https://open.spotify.com/album/164ZlumFzgmF1ahd7gzyDn) | 5:40 |
 | 63 | [Can't Live A Day](https://open.spotify.com/track/1mopEOz5TeAMbz81Z63xKJ) | [Avalon](https://open.spotify.com/artist/4rulVipLmUL2Mg67SIUmCO) | [In A Different Light](https://open.spotify.com/album/4F7DNG4XaKfSoyf9u72a75) | 4:46 |
 | 64 | [I Still Believe in That](https://open.spotify.com/track/75DMQGh315Gd4VuGxUq0wn) | [Ash Bowers](https://open.spotify.com/artist/2aJsgmclt9joQMsHMffCBr) | [I Still Believe in That](https://open.spotify.com/album/7m8tHgamVXVEwGRlIlqSaI) | 3:26 |
 | 65 | [Stealing Cinderella](https://open.spotify.com/track/0Pvbr31U9bjdvUUNGNFnQJ) | [Chuck Wicks](https://open.spotify.com/artist/696fbyLHSMBSYjDrDU5yiK) | [Stealing Cinderella](https://open.spotify.com/album/1tlxI1SGhyybdGhG15ByTT) | 4:02 |
 
-Snapshot ID: `MCw3NDEwNmFiMjJjYWMxZmMxNTY3NTJmMGVjZGM5MTE1M2VmMTNhMDE4`
+Snapshot ID: `MCw1YWFmMWFlNTdiZjY0NjE3NDU5NWQzNjZjZTQ1MGE0ZTdjZmJiMGFh`

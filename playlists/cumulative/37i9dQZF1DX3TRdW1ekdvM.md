@@ -4,7 +4,7 @@
 
 > Perfect sleep riding Theta brain waves\. It's Science, it works!
 
-80 songs - 5 hr 44 min
+81 songs - 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,8 @@
 | [Theta Wave 5Hz](https://open.spotify.com/track/0CgIQIdHa9rcgM9SFdvivZ) | [Binaural Beats Isochronic Tones Lab](https://open.spotify.com/artist/0D1VRw0eu2OENlTFZpOb2O), [Binaural Beats Brainwave Entrainment](https://open.spotify.com/artist/19JUcz7OOlHDURJdJpnAor), [Binaural Beats Brain Waves Isochronic Tones Brain Wave Entertainment](https://open.spotify.com/artist/3QgipzM3zJLZ2MxQUe70mB) | [\#20 Binaural Beats for Zen Stillness](https://open.spotify.com/album/3M5OtIlPEMmNGjJf8pHVXf) | 3:10 | 2021-12-06 |  |
 | [Theta Wave 5Hz](https://open.spotify.com/track/7s19ehouI1LoX7Tb1WNbdF) | [Binaural Beats Isochronic Tones Lab](https://open.spotify.com/artist/0D1VRw0eu2OENlTFZpOb2O), [Binaural Beats Brainwave Entrainment](https://open.spotify.com/artist/19JUcz7OOlHDURJdJpnAor), [Binaural Beats Brain Waves Isochronic Tones Brain Wave Entertainment](https://open.spotify.com/artist/3QgipzM3zJLZ2MxQUe70mB) | [\#16 Brain Sounds for Out of Body Experiences](https://open.spotify.com/album/4dKdHuLHbSzgAHsumMqAYs) | 3:10 | 2022-05-17 | 2022-05-25 |
 | [Theta Wave 5Hz](https://open.spotify.com/track/6JUpXHOhsQWn0ptRITy1Gq) | [Binaural Beats Sleep](https://open.spotify.com/artist/5C95YXNLyaqbZjhwXMjZ4r) | [Sleep Sounds: Binural Music](https://open.spotify.com/album/2PEe2JAAbeTioRgmSpfbVT) | 3:10 | 2021-12-06 | 2023-01-11 |
-| [Theta Wave 5Hz](https://open.spotify.com/track/2n685RNPUFRPbZAKFiGoeM) | [Sleep Sound Library](https://open.spotify.com/artist/2HUwcmtXI5ee5Zo3nnThlV) | [Mellow Alpha Wave Sleep Songs](https://open.spotify.com/album/3tPjodj9pfIU4CJYaV7DAK) | 3:10 | 2022-11-14 |  |
+| [Theta Wave 5Hz](https://open.spotify.com/track/1fRqxJApquykOfgXVZhmPn) | [Loopable Ambience](https://open.spotify.com/artist/45tSb81AgKpk13QoksIEK8), [Vacuum Cleaner White Noise](https://open.spotify.com/artist/1BjzNxqzIKFU4ySyuaAUrF) | [\#Quiet Ambience](https://open.spotify.com/album/30TXNWQkiKCgftn8Mqh04s) | 3:10 | 2023-12-06 |  |
+| [Theta Wave 5Hz](https://open.spotify.com/track/2n685RNPUFRPbZAKFiGoeM) | [Sleep Sound Library](https://open.spotify.com/artist/2HUwcmtXI5ee5Zo3nnThlV) | [Mellow Alpha Wave Sleep Songs](https://open.spotify.com/album/3tPjodj9pfIU4CJYaV7DAK) | 3:10 | 2022-11-14 | 2023-12-25 |
 | [Theta Wave 5Hz Full Tremolo](https://open.spotify.com/track/6g2lwNobMir3LsRiGWyFmR) | [Study Alpha Waves](https://open.spotify.com/artist/3UDxdbAXqqKJG1pWgUgOCp) | [" Deep Therapy Vibrations "](https://open.spotify.com/album/2TXP6UatW9JtkR9EIgKMed) | 3:52 | 2022-05-17 |  |
 | [Theta Waves](https://open.spotify.com/track/0xMKHu2QQi7mszN7VkgJRE) | [Brain Waves Therapy](https://open.spotify.com/artist/34RGl0uVjzk6plsyUDTssq), [The Solfeggio Peace Orchestra](https://open.spotify.com/artist/1TrDIYcmgj5g2grVNGzcqN), [Isochronic Tones Brainwave Entrainment](https://open.spotify.com/artist/1brqArPBIHyMe96cqUA2Vz) | [Sounds for Sleep: Binaural Beats, Isochronic Tones, Alpha Waves, Theta Waves and Ambient Music For Sleep, Relaxation, Brainwave Entrainment, Deep Sleep Aid, Brain Waves Therapy, Solfeggio Healing Frequencies and Sleeping Music](https://open.spotify.com/album/3Mujv2RyEkpWYhiwlpvWVl) | 2:22 | 2022-05-17 |  |
 | [Theta Waves 7hz](https://open.spotify.com/track/2S5VZzo3RCO5vLnkIM9F4j) | [Subtle Mind Expansion](https://open.spotify.com/artist/2GZTcvdQzd7OgcQC0jnAsJ) | [Super Lucky: Attract Good Luck With Positive Affirmations Ischronic Tones Brainwave Entrainment](https://open.spotify.com/album/6yzrHBpa7wdDpmyG8QmCu2) | 10:02 | 2022-04-06 |  |

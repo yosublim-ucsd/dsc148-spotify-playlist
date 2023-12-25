@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXDcpUvTjmE.md) - [plain]
 
 > Canciones de calaveritas, monstruos y fantasmitas amigables.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,108 likes - 68 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,110 likes - 68 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXDcpUvTjmE.md) - [plain]
 | 41 | [Pink Peanut Panic](https://open.spotify.com/track/4seqlgOkpxyOObwPnPfe1q) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Toy Story of Terror!](https://open.spotify.com/album/4L6pTViOcuDnXHhpOrq9yf) | 1:23 |
 | 42 | [Oogie Boogie's Song](https://open.spotify.com/track/3MX6S65yDDJGPxVtBzru5w) | [Ed Ivory](https://open.spotify.com/artist/2Iv9xUxQZyMxknah773Sdw), [Ken Page](https://open.spotify.com/artist/5AAomuiyEWayklKG3qLv6U) | [The Nightmare Before Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6GK3BoRpWxUXV9xPQMYJdc) | 3:17 |
 | 43 | [Drácula, Calígula, Tarántula](https://open.spotify.com/track/4ifPUlltadf0iiL8p6YdFV) | [31 Minutos](https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG) | [Arwrarwrirwrarwro \(Banda Sonora Original de la Cuarta Temporada\)](https://open.spotify.com/album/1YeHBkb7zNMGUU4wsR19Ew) | 2:53 |
-| 44 | [Addams Family Theme](https://open.spotify.com/track/35rJ69XdeGIP9dcFKMrICJ) | [Amc Orchestra](https://open.spotify.com/artist/5RoU3hjYKEZYV8Zs5vee5B) | [Amc Presents Halloween Hits \- Music For A Monster Fest](https://open.spotify.com/album/6ltFnpJnHiIjZNg6lUzalj) | 1:27 |
+| 44 | [Addams Family Theme](https://open.spotify.com/track/4T7XXaRKnnvojIpbA7UwXS) | [Amc Orchestra](https://open.spotify.com/artist/5RoU3hjYKEZYV8Zs5vee5B) | [Amc Presents Halloween Hits \- Music For A Monster Fest](https://open.spotify.com/album/7qMdLTDyWSF0JI5xql7ii2) | 1:27 |
 | 45 | [Kidnap The Sandy Claws](https://open.spotify.com/track/6Nsy4XzwR0AP3V67kOpgIs) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD), [Paul Reubens](https://open.spotify.com/artist/0bLeinXJM2eS7FWfqRmnIP), [Catherine O'Hara](https://open.spotify.com/artist/0KDbBK1pnCWEL33tRNwDhD) | [The Nightmare Before Christmas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6GK3BoRpWxUXV9xPQMYJdc) | 3:02 |
 | 46 | [Monstruo, Monstruo](https://open.spotify.com/track/2EdTl7Os79U8q1cw3XnZSL) | [Children´s Corner](https://open.spotify.com/artist/6R1V57b5BHoV8h1wcgWSgB) | [La Princesa Flotante y Otras Canciones](https://open.spotify.com/album/3eamuuIIurbn3fEq92Jmtu) | 1:59 |
 | 47 | [The Mob Song](https://open.spotify.com/track/7fg6upKiVZURSDxVLqY9oU) | [Chorus \- Beauty And the Beast](https://open.spotify.com/artist/3kWWBtNzJFtKA222gZz39d), [Richard White](https://open.spotify.com/artist/0jWqALm6pl5CHj5N0eO68G), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Beauty And The Beast \(Special Edition\)](https://open.spotify.com/album/5CXS5K2wldOxL8bweRXBrq) | 3:30 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcXDcpUvTjmE.md) - [plain]
 | 67 | [Introduction \(Titles\)](https://open.spotify.com/track/55n2WpwjQnIM1lvmxkzllb) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Edward Scissorhands](https://open.spotify.com/album/4pv4SQkB4SXrY5bynbW0lf) | 2:36 |
 | 68 | [Friends Not Food](https://open.spotify.com/track/5oUPyabzoYqt3boNFxJagV) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Finding Nemo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2kJpuz9FOqX5riMjGwihhY) | 1:50 |
 
-Snapshot ID: `MCwwZDQ4YTg1YTI2ZTJlYzdhYjRkMzY0ZjQ1NjE0MGQ5ZGEzOTE2NzY1`
+Snapshot ID: `MCw3MDI5YTZmNjg2NTM3MzNlMDU0Mzg4OTI1OTgwMmY2ODE1YmI3NjY0`

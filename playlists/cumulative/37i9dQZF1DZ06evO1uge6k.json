@@ -448,7 +448,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 261453,
       "name": "El Diablo",
       "url": "https://open.spotify.com/track/5I4TQ0g8A3H4fubtRr8uiy"
@@ -1266,6 +1266,24 @@
       "duration_ms": 242333,
       "name": "Sleeping Bag",
       "url": "https://open.spotify.com/track/1ESuT2y9AKu1zMdxq47qW5"
+    },
+    {
+      "album": {
+        "name": "ZZ Top's First Album",
+        "url": "https://open.spotify.com/album/0Y9jM9umdMOH7t19urnOw4"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168653,
+      "name": "Squank",
+      "url": "https://open.spotify.com/track/5ndUXJQPTVDPVlQUgW2vgE"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > El Dembow que está subiendo en RD\. Foto: Rochy RD
 
-467 songs - 1 day 0 hr 41 min
+468 songs - 1 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,7 +374,8 @@
 | [Rumores](https://open.spotify.com/track/36Fw3U0xey9zKEVbHtIky6) | [Papaa Tyga](https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC) | [Rumores](https://open.spotify.com/album/7B7NJFGYbArMMN9Yz3gZbe) | 2:31 | 2023-09-29 | 2023-10-12 |
 | [Salvaje](https://open.spotify.com/track/6U0g4S8WmC96LTik0AB3mx) | [Alil](https://open.spotify.com/artist/1YtdbdnqeMovozyLn8ueOh) | [Salvaje](https://open.spotify.com/album/4lJsqHfyTqcS0bKoC0Y6l2) | 2:52 | 2022-03-25 | 2022-04-21 |
 | [San Juan](https://open.spotify.com/track/3BCDbyPWOa5ZDStKlDORW4) | [Dilon Baby](https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN) | [San Juan](https://open.spotify.com/album/2oCD69qHFvskQsshKYynoo) | 2:12 | 2023-09-29 | 2023-12-23 |
-| [Se No Gaste](https://open.spotify.com/track/0R8B8WYvdLLUXrtNDL11Wb) | [Yoan Retro](https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi), [El Baby R](https://open.spotify.com/artist/0sJpqQouXqn3gKQrsN1JET) | [Se No Gaste](https://open.spotify.com/album/6pLgfLFzMy8RgnT5IZgUmF) | 2:00 | 2023-12-22 |  |
+| [Se No Gaste](https://open.spotify.com/track/0R8B8WYvdLLUXrtNDL11Wb) | [Yoan Retro](https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi), [El Baby R](https://open.spotify.com/artist/0sJpqQouXqn3gKQrsN1JET) | [Se No Gaste](https://open.spotify.com/album/6pLgfLFzMy8RgnT5IZgUmF) | 2:00 | 2023-12-22 | 2023-12-25 |
+| [Se Nos Gaste](https://open.spotify.com/track/2SsRIkIxgsBsASmvmyJjxa) | [Yoan Retro](https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi), [El Baby R](https://open.spotify.com/artist/0sJpqQouXqn3gKQrsN1JET) | [Se Nos Gaste](https://open.spotify.com/album/0zxEY9GAMmSk7jkP3xhi1k) | 2:00 | 2023-12-22 |  |
 | [Se Puede Repetí](https://open.spotify.com/track/5v1ncHJGnN4ONlPx63zjTU) | [Mestizo Is Back](https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH) | [Se Puede Repetí](https://open.spotify.com/album/2A8MlLQtNfwcA9uHVEmG6q) | 2:04 | 2023-12-22 |  |
 | [Serrucho Amolao](https://open.spotify.com/track/1kzs05g4L7sADL1JCBVH1s) | [Shelow Shaq](https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU) | [Serrucho Amolao](https://open.spotify.com/album/2EKRKVugMMCQb5iDgWRw5N) | 3:52 | 2021-12-10 | 2023-12-23 |
 | [Sesi](https://open.spotify.com/track/2mMAt6028RFl2ujQUPZXon) | [El Futuro Fuera De Orbita](https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk), [Jey Brown](https://open.spotify.com/artist/7JHNWvS2I2vlj7wVbDRR1N), [La Kikada](https://open.spotify.com/artist/7Fpb4yEAPfiQfY0Bx0uLm5) | [Sesi](https://open.spotify.com/album/07vEYx7A3N8V8glLUqdbmM) | 2:54 | 2022-05-28 | 2023-12-23 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,828 songs - 4 day 2 hr 55 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,830 songs - 4 day 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1836,5 +1836,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1826 | [1000 Blunts](https://open.spotify.com/track/09riz9pAPJyYYDVynE5xxY) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 2:55 |
 | 1827 | [Quer Fuder Com os Sem Amor Vs Beat Risada](https://open.spotify.com/track/256rhfOQpQvN24CFJEWxQ8) | [Lgzin e cabelinho](https://open.spotify.com/artist/1UbZJGwemZf22EigTv1hH5), [Mc Grigo 22](https://open.spotify.com/artist/3FPXlDlvOoKaDRrqQcFH8l) | [Quer Fuder Com os Sem Amor Vs Beat Risada](https://open.spotify.com/album/6TYSu96eVsKo1RrVXf8deB) | 2:16 |
 | 1828 | [Automotivo Bibi Fogosa](https://open.spotify.com/track/4kRLRWnn5u9wO2wOKAAdEN) | [Bibi Babydoll](https://open.spotify.com/artist/6R26kGib2ubbZJMh7kKVGV), [Dj Brunin XM](https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3), [KZA Produções](https://open.spotify.com/artist/1rRhJIu1ufxCjbmMWon6ax) | [Automotivo Bibi Fogosa](https://open.spotify.com/album/0Hj2X0CQBjpWapFzNQGbk2) | 2:09 |
+| 1829 | [Church Outfit](https://open.spotify.com/track/4V40V5u9oVRgRRLElF4IHS) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Zig](https://open.spotify.com/album/3J353DwtMfUV3V6t9vRPCk) | 1:54 |
+| 1830 | [Motorbike](https://open.spotify.com/track/0t4lttdheK2G3PRmgwp6j0) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Zig](https://open.spotify.com/album/3J353DwtMfUV3V6t9vRPCk) | 2:26 |
 
-Snapshot ID: `Njc5LDE5OTFhMTQ5ZTE2MjU4ZmU4YzExOTliYTIzMWZhMjQyY2I0NzU0NmE=`
+Snapshot ID: `NjgxLGFjMGYyODNlZWE5MTM0ZTc0ZDk5NmNiNzVlZWE3YzdlOGY1NmIyMmQ=`

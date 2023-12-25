@@ -4,7 +4,7 @@
 
 > ¡Mi amooorrrrrr! Las canciones escritas por "El Lujo de Sinaloa".
 
-151 songs - 7 hr 53 min
+152 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Cuando Fuimos Nada](https://open.spotify.com/track/4V3oSMh34oj9SP4KX9do3Y) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Hecho a Mano](https://open.spotify.com/album/4XQWbicaoDhiiqXEaxBciJ) | 3:37 | 2022-01-25 |  |
 | [Cuánto A Que Te Olvido](https://open.spotify.com/track/5EQDA6xM2wUfrKOoT6QoRn) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [Cuánto A Que Te Olvido](https://open.spotify.com/album/7FkvXmGwNgh74yRwVAaQRw) | 3:23 | 2022-01-25 |  |
 | [Cómo Que No Te Conozco](https://open.spotify.com/track/3koRLnqL6zq2VB42xqVwWh) | [Roberto Junior Y Su Bandeño](https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb) | [No Tienes Remedio](https://open.spotify.com/album/4J4Z65zy3szLuUnVdOtt9M) | 3:13 | 2022-01-25 |  |
-| [Dame Tu Mano](https://open.spotify.com/track/2QfvpMqQf3Bf2EMQPH5Bjy) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Gracias Por Creer](https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz) | 3:25 | 2022-01-25 |  |
+| [Dame Tu Mano](https://open.spotify.com/track/2QfvpMqQf3Bf2EMQPH5Bjy) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Gracias Por Creer](https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz) | 3:25 | 2022-01-25 | 2023-12-25 |
 | [De Las 12 A Las 12 \(feat\. El Bebeto\)](https://open.spotify.com/track/6jRa3GfPr7V5pJBJRUrbGe) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Globall](https://open.spotify.com/album/4xQUm6jf8BTdvfDE72nu3o) | 2:57 | 2022-01-25 |  |
 | [De Que Sirvio](https://open.spotify.com/track/3GWmH1P8ECiJAl4LsxnoPR) | [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [Sigo de Frente](https://open.spotify.com/album/1QQUq5FgJwXYxKGF3UtUJl) | 3:02 | 2022-01-25 |  |
 | [Dejando Huella](https://open.spotify.com/track/30t4VO3UfXfmXacza0226g) | [Banda Rancho Viejo De Julio Aramburo La Bandononona](https://open.spotify.com/artist/39dmt5DRpnyJKgz5bc4ZNV) | [Dejando Huella](https://open.spotify.com/album/1Z3AtcwaeDnEbeWamC9545) | 3:30 | 2022-01-25 |  |
@@ -65,6 +65,7 @@
 | [Llegas](https://open.spotify.com/track/3OqtrIbY11sHaXWlZVOOd8) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [Confidente](https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP) | 3:22 | 2022-01-25 |  |
 | [Lo Que Hacemos En Tu Cama](https://open.spotify.com/track/01U82GCUOncrdHenabtlDk) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Para Ti Solita](https://open.spotify.com/album/5mrTSHwJlmGJbETmqY9xoe) | 2:26 | 2022-01-25 |  |
 | [Maldito Antojo](https://open.spotify.com/track/3d9YYtn1o9Uwk1ACnkJqbe) | [Hermanos Vega Jr.](https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm) | [Garantizados](https://open.spotify.com/album/0dqQARMlzEAE0yx6E8jFOR) | 3:25 | 2022-01-25 |  |
+| [Me Dejaste Acostumbrado](https://open.spotify.com/track/6czsBH3Ewa4LCUt97VzWDm) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Me Dejaste Acostumbrado](https://open.spotify.com/album/3gQYIcZc3ubq5C1g2KTksR) | 2:32 | 2022-01-25 |  |
 | [Me Dolio](https://open.spotify.com/track/1NdS10z6OuIzTmC2QS7qK2) | [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm) | [Con la Misma Sangre](https://open.spotify.com/album/2S0gbkHu2C7AqHp6Z6n3ZO) | 3:00 | 2022-01-25 |  |
 | [Me Dueles](https://open.spotify.com/track/1UpsLFVKBheEs7Eu2KfV1o) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Percepcíon](https://open.spotify.com/album/6T90K6IjMkXv1JjRE8lXxB) | 3:47 | 2022-01-25 |  |
 | [Me Empezó A Valer](https://open.spotify.com/track/5D3X775rPruzExNKev9yD3) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Me Empezó A Valer](https://open.spotify.com/album/6kIwvZXijC62I9y8Mut7cb) | 2:35 | 2022-01-25 |  |

@@ -4,7 +4,7 @@
 
 > Take down the tempo but keep the dance party going with the biggest tropical house jams.
 
-662 songs - 1 day 9 hr 37 min
+663 songs - 1 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,7 +194,7 @@
 | [Going Away](https://open.spotify.com/track/7ukxpGl0ZKJibFICrSIhQK) | [Lost In Reveries](https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT), [Honey](https://open.spotify.com/artist/4lQERYdwY63QCoTVxt0aP9) | [Going Away](https://open.spotify.com/album/4dzOrYGcvYlSuf107EiKcy) | 2:32 | 2023-10-27 |  |
 | [Gold](https://open.spotify.com/track/52xRalpJsWgk2AprDKvR6g) | [Leviro](https://open.spotify.com/artist/50rU4gBfyrar1G08tnxdTl) | [Gold](https://open.spotify.com/album/1ZDWXDisS7Qnl6YbNKzdGz) | 2:24 | 2022-12-23 | 2023-03-29 |
 | [Gonna Love Ya](https://open.spotify.com/track/4MCU3lOwRiapFjE9kxiW0f) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Gonna Love Ya](https://open.spotify.com/album/5GMy8VTyvntUIsi5Fp5jXE) | 3:35 | 2022-02-18 | 2022-04-02 |
-| [Gonna Need Ya](https://open.spotify.com/track/1icgSRga7q37rC4eftEQG3) | [Viva La Panda](https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy), [Tyron Dixon](https://open.spotify.com/artist/37QVcCngKZe0gZxD8b7zgJ), [Rachelle Jenkens](https://open.spotify.com/artist/33hQWzFmVnYt5eAbSf61Kw) | [Gonna Need Ya](https://open.spotify.com/album/2BwqUHvTGXvDaQK9awOt9B) | 2:58 | 2022-06-10 |  |
+| [Gonna Need Ya](https://open.spotify.com/track/1icgSRga7q37rC4eftEQG3) | [Viva La Panda](https://open.spotify.com/artist/5SZUMeZ1O9tcgkSkkx1dFy), [Tyron Dixon](https://open.spotify.com/artist/37QVcCngKZe0gZxD8b7zgJ), [Rachelle Jenkens](https://open.spotify.com/artist/33hQWzFmVnYt5eAbSf61Kw) | [Gonna Need Ya](https://open.spotify.com/album/2BwqUHvTGXvDaQK9awOt9B) | 2:58 | 2022-06-10 | 2023-12-25 |
 | [Good Enough](https://open.spotify.com/track/6tPYz05avJHydJ4gv8JAmn) | [Marcus James](https://open.spotify.com/artist/3VEzgR55OpqT9SyPeOwrQ4), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Good Enough](https://open.spotify.com/album/0WIwvSVJ7kcFOsrjuzd2Lr) | 2:39 | 2022-07-08 | 2022-07-22 |
 | [Good Life](https://open.spotify.com/track/1zs6RPYV3KmtTv1bj6dI1z) | [Good Life](https://open.spotify.com/artist/69zkVA1W5J06u0FZDfwdSe), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Good Life](https://open.spotify.com/album/4xG1xESLOJ8j2UGzrAFzaJ) | 2:47 | 2023-07-07 |  |
 | [Good Life feat\. Henri PFR \(Together Alone Remix\)](https://open.spotify.com/track/6tzCYvOjftLUQaxBp1HFvC) | [FDVM](https://open.spotify.com/artist/6J0Y4CoGMKL5RyeozHnVKl), [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [Good Life feat\. Henri PFR \(Together Alone Remix\)](https://open.spotify.com/album/5OairWeHeXXburmtnrriiU) | 2:38 | 2022-06-03 | 2022-08-19 |
@@ -520,6 +520,7 @@
 | [Skinny Dip \(Komodo\) \[feat\. Philip Strand\]](https://open.spotify.com/track/79m1I109FyZMx3VwQZAEQM) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Skinny Dip \(Komodo\) \[feat\. Philip Strand\]](https://open.spotify.com/album/58rkFeybZFok7abwyqcaTm) | 2:51 | 2022-01-14 | 2023-05-13 |
 | [Skyline](https://open.spotify.com/track/0HkwDCJIbWijtfKg63gQBJ) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy) | [Skyline](https://open.spotify.com/album/0IHRNvSnQan6KNZQgupPvP) | 2:43 | 2022-01-14 | 2022-09-03 |
 | [Slippery Slope](https://open.spotify.com/track/5UhbQmKfFcI9EdxliAxntg) | [Mountainberg](https://open.spotify.com/artist/6m9A8ej6yJ1VJrcb30bHlJ) | [Slippery Slope](https://open.spotify.com/album/4QaMWNmQ5MF7PqmR9TpyXO) | 2:31 | 2022-04-01 | 2023-05-15 |
+| [Slow Down](https://open.spotify.com/track/0fmiU57491EXzACkiKJrLN) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Slow Down](https://open.spotify.com/album/1tzUJiSHMB30oeNy1EHRQW) | 2:17 | 2023-12-01 |  |
 | [So Good to Me \- Radio Edit](https://open.spotify.com/track/3fDrZa4ksxA5lgi0utGu6k) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [So Good to Me \(Radio Edit\)](https://open.spotify.com/album/5z6aqbVipcLm2KtFLYMhfj) | 3:46 | 2022-01-14 | 2022-05-14 |
 | [Sober](https://open.spotify.com/track/623LXv9UubijvwS7FBjiVh) | [Kaan Pars](https://open.spotify.com/artist/6Cubdky3Aaaaxc3sn5C32N), [Jessica Chertock](https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h) | [Sober](https://open.spotify.com/album/7p1RDJXlQRetuFhUOk3Byn) | 2:48 | 2023-02-10 | 2023-09-13 |
 | [Sober](https://open.spotify.com/track/7AaaVPT66ppeUh2dhhbUz0) | [Kaan Pars](https://open.spotify.com/artist/6Cubdky3Aaaaxc3sn5C32N), [Jessica Chertock](https://open.spotify.com/artist/0f4HUyvYUk3alfY1ZLKm8h) | [Sober](https://open.spotify.com/album/7IY5brRxmhOk0DrxQ37YPF) | 2:48 | 2022-01-14 | 2023-02-06 |

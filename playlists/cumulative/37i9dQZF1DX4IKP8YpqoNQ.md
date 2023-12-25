@@ -4,7 +4,7 @@
 
 > Experience the best live performances\. Check out live soul albums <a href="spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY">here</a>.
 
-201 songs - 16 hr 47 min
+202 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Ain't Nobody \(Live\)](https://open.spotify.com/track/5xMgkUnttADrwLuZztGnQh) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Homecoming \(Live\)](https://open.spotify.com/album/4Sys55gf8KBZBAdqzHNvM5) | 6:14 | 2023-05-15 |  |
 | [Ain't Nobody \- Live](https://open.spotify.com/track/0oPvVcpAOWtr5IVDyVflfT) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Homecoming \(Live\)](https://open.spotify.com/album/26I2Hz4j3e00ggpjIzuIyY) | 6:14 | 2022-02-10 | 2023-11-04 |
 | [Angel \(Live\)](https://open.spotify.com/track/0QmLbWOTGnaMgUCL8xfWiw) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Lalah Hathaway Live!](https://open.spotify.com/album/4XPHspoSgvDO0ongX1PVKv) | 5:42 | 2022-02-10 | 2022-07-17 |
+| [Angel \(Live\)](https://open.spotify.com/track/2u3NAcq8UDfuZZiPNBtg94) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Lalah Hathaway Live!](https://open.spotify.com/album/0rKQQSb74PppVPuJWk4bSi) | 5:42 | 2023-12-11 |  |
 | [Angel \(Live\)](https://open.spotify.com/track/42hLkkn22QbmhYr4UUeICf) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Lalah Hathaway Live!](https://open.spotify.com/album/2g2JY5M0fG0TJeE3Q6iL71) | 5:42 | 2022-02-10 | 2023-12-23 |
 | [Another Day \- Live](https://open.spotify.com/track/0P9Qkx8xTDC08b901ZvVrU) | [Frank Mccomb](https://open.spotify.com/artist/0wbDq3eOvenJ6l0gYhUNqt) | [Live in Amsterdam](https://open.spotify.com/album/0BIJFTiMd3zVvfav9oXf1q) | 6:14 | 2022-02-10 | 2022-07-25 |
 | [Appletree \- Live](https://open.spotify.com/track/00ceVqQBhF9Angv9jSkNtW) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Live](https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX) | 4:04 | 2022-02-10 |  |
@@ -187,7 +188,7 @@
 | [Valerie \- Live At BBC Radio 1 Live Lounge, London / 2007](https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:53 | 2022-02-10 |  |
 | [Valerie \- Live Jo Whiley, BBC Live Lounge Session / 2007](https://open.spotify.com/track/4ml8AFICctVaeDXoZyhp42) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [At The BBC](https://open.spotify.com/album/741JhzvIOudONDzRg6wuWJ) | 3:51 | 2022-02-10 | 2022-11-14 |
 | [VooDoo \- Live From Wolfgang's Vault](https://open.spotify.com/track/0NdmKzjtCxH3pdDPcCBlOX) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Authorized Bootleg/Warfield Theatre, San Francisco, CA, February 27, 1989](https://open.spotify.com/album/6EieVX7Wx9Bugz2AFBBZc3) | 4:12 | 2022-02-10 | 2022-07-29 |
-| [Walk With Me \(Live from Blackbird Studio\)](https://open.spotify.com/track/18P7aUOSdvpiciQTq4AuRd) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Walk With Me \(Live from Blackbird Studio\)](https://open.spotify.com/album/7pzyZnDFd3tacQSa7drYhV) | 3:42 | 2023-12-11 |  |
+| [Walk With Me \(Live from Blackbird Studio\)](https://open.spotify.com/track/18P7aUOSdvpiciQTq4AuRd) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Walk With Me \(Live from Blackbird Studio\)](https://open.spotify.com/album/7pzyZnDFd3tacQSa7drYhV) | 3:42 | 2023-12-11 | 2023-12-25 |
 | [Walk With Me \- Live from Blackbird Studio](https://open.spotify.com/track/0TL3xsQ95neiYaeDcZAW3L) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [Walk With Me \(Live from Blackbird Studio\)](https://open.spotify.com/album/2W5NGe87vCMrPS1YHLaARB) | 3:42 | 2022-02-10 | 2023-11-04 |
 | [Washington D.C.](https://open.spotify.com/track/013mWYpNJUCQMM2gNP8TxF) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [Live!](https://open.spotify.com/album/63jfjHjykzWaVEMPzBHwxA) | 5:22 | 2022-02-10 | 2022-07-29 |
 | [What Is Hip? \- Live Version](https://open.spotify.com/track/60bm1fhy4Fs8MKr8bM8MJt) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Live And In Living Color](https://open.spotify.com/album/5wfEOE7PDNoYN8SSviRPRK) | 6:34 | 2022-02-10 | 2023-04-06 |

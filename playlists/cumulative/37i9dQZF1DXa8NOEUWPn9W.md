@@ -4,7 +4,7 @@
 
 > House music lives here\. United under one roof, featuring Diplo & HUGEL.
 
-769 songs - 1 day 22 hr 17 min
+770 songs - 1 day 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,7 +342,7 @@
 | [I Won’t Stop](https://open.spotify.com/track/56aXtU4yNbdkefmS45r0CW) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [I Won’t Stop](https://open.spotify.com/album/02tzGyk5oaHG89e5FwgRRi) | 2:13 | 2023-08-25 | 2023-09-12 |
 | [I'll Take You Down \(feat\. Chilli Chilton\)](https://open.spotify.com/track/1XfkucWcvN121yy1b2MoD5) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [Chilli Chilton](https://open.spotify.com/artist/1jkQeDN38UmO3PMTayvFUq) | [I'll Take You Down \(feat\. Chilli Chilton\)](https://open.spotify.com/album/7m6oQe2bnSzyY1RikqrSgn) | 3:10 | 2021-11-27 | 2022-07-05 |
 | [I'm Fallin \(feat\. RY X\)](https://open.spotify.com/track/6PlB9QbrAfUwKX0g0GHRMY) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Subconsciously](https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw) | 7:42 | 2021-03-27\* | 2021-04-24 |
-| [If Love Is A Skill](https://open.spotify.com/track/4w5uos4sTvjQeg8ofXtBm8) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [If Love Is A Skill & Georgia](https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1) | 3:37 | 2023-03-31 |  |
+| [If Love Is A Skill](https://open.spotify.com/track/4w5uos4sTvjQeg8ofXtBm8) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [If Love Is A Skill & Georgia](https://open.spotify.com/album/5Z1OUXWZHGbQFiUNJJz9Z1) | 3:37 | 2023-03-31 | 2023-12-25 |
 | [If You Wanna](https://open.spotify.com/track/5NMpjgdyG48RGtkjj8QENH) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR) | [If You Wanna](https://open.spotify.com/album/7yicRngbUo5uEPuCK2WpRy) | 3:00 | 2021-03-27\* | 2021-05-15 |
 | [In Chicago](https://open.spotify.com/track/5h2ED2Bw6lKWZDOuQTTSDG) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [In Chicago](https://open.spotify.com/album/755VRbBa1ZCNyKTc05SJp1) | 3:06 | 2022-05-20 | 2022-12-14 |
 | [In My Arms \- Edit](https://open.spotify.com/track/5ukTUKLwsaThljUaV6IVAs) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Never Enough](https://open.spotify.com/album/0ovBhOM0M8GHUEL7IOLFWP) | 3:45 | 2021-08-21 | 2022-07-29 |
@@ -449,6 +449,7 @@
 | [Loving Touch \- Edit](https://open.spotify.com/track/66gN2X2yIMR51Y2jRkJROa) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Loving Touch](https://open.spotify.com/album/4J0OAAqZ8k8B20tXlpidtg) | 3:00 | 2021-03-27\* | 2021-04-24 |
 | [Made Of Gold](https://open.spotify.com/track/6vykEbbae3Z5LnEMgXUsSg) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Made Of Gold](https://open.spotify.com/album/0awdtPEuXKHw6mJDrvxjR7) | 3:18 | 2023-06-02 | 2023-07-29 |
 | [Make Me](https://open.spotify.com/track/6RaaQvkGUe8Je8yAkdwQNm) | [Borai & Denham Audio](https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1), [Borai](https://open.spotify.com/artist/5H8NL83Hl16bYRy4LCqriO), [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Make Me](https://open.spotify.com/album/3T7bNNnQ5b8BgsaF43jGku) | 2:31 | 2023-03-10 | 2023-09-09 |
+| [Make Me \- Franky Rizardo Remix](https://open.spotify.com/track/57508shL0obX0KUOUL8CJk) | [Borai & Denham Audio](https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1), [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Make Me \(Franky Rizardo Remix\)](https://open.spotify.com/album/42c7JYNk4kOlZhBnZZoPI0) | 3:15 | 2023-12-22 |  |
 | [Make Me Believe](https://open.spotify.com/track/57j1baIxDU1WmSHajjLb3R) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Diplo \(Deluxe\)](https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7) | 3:12 | 2022-08-05 | 2022-09-21 |
 | [Make Me Feel](https://open.spotify.com/track/0RoGOiZUCQyqAZSPBSk75T) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Make Me Feel](https://open.spotify.com/album/37IWL3cLKAFT5EkQiFkDAI) | 3:21 | 2023-03-17 | 2023-07-08 |
 | [Make Me Feel](https://open.spotify.com/track/4vgP9RNzsXEUcW7Ws50VrI) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Make Me Feel](https://open.spotify.com/album/4UIF595KTWQs5H1NHDinJI) | 3:21 | 2021-03-27\* | 2023-02-26 |

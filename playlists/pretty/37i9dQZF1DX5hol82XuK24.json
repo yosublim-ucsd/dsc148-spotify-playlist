@@ -1,12 +1,12 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 422276,
+  "num_followers": 422354,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmNjOTI3NzA4ZTRmZDI5OWM5ZDY2MWIxZTI2MGEyMWUyMzRjZmE2",
+  "snapshot_id": "MCw5NDRlMzZkNTAxNDU2ODhmNWNjNGU5ZWY1MmM0M2MwMmJjN2ZlZWJm",
   "tracks": [
     {
       "added_at": "2023-11-03 23:08:22",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Hard Candy",
-        "url": "https://open.spotify.com/album/0G92mUSxbHxB804ldhPOru"
-      },
-      "artists": [
-        {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
-        }
-      ],
-      "duration_ms": 113454,
-      "name": "Hard Candy",
-      "url": "https://open.spotify.com/track/4eEvoOiMlEaE2jbEPbYN7b"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Valley Ghoul",
         "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 233968,
       "name": "Burn Out",
       "url": "https://open.spotify.com/track/6MhC5b2cyCER2LpuCXR3Fb"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Hard Candy",
+        "url": "https://open.spotify.com/album/0G92mUSxbHxB804ldhPOru"
+      },
+      "artists": [
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "duration_ms": 113454,
+      "name": "Hard Candy",
+      "url": "https://open.spotify.com/track/4eEvoOiMlEaE2jbEPbYN7b"
     },
     {
       "added_at": "2023-11-03 23:08:22",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-11-03 23:08:22",
       "album": {
-        "name": "Ex:Re",
-        "url": "https://open.spotify.com/album/30sddBZ6VjuOkhIXvdE0Pw"
-      },
-      "artists": [
-        {
-          "name": "Ex:Re",
-          "url": "https://open.spotify.com/artist/3FIsBWNLmqLvTQnhJLAWUJ"
-        }
-      ],
-      "duration_ms": 327540,
-      "name": "Too Sad",
-      "url": "https://open.spotify.com/track/6VoVG0X8ToU27bWyAXduJb"
-    },
-    {
-      "added_at": "2023-11-03 23:08:22",
-      "album": {
         "name": "Sleeping In Your Garden",
         "url": "https://open.spotify.com/album/2am9dGCCUrwCw1DOX4wiXX"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 204029,
       "name": "Sleeping In Your Garden",
       "url": "https://open.spotify.com/track/1eG48OpdY0FRJcDlBwqzRi"
+    },
+    {
+      "added_at": "2023-11-03 23:08:22",
+      "album": {
+        "name": "Ex:Re",
+        "url": "https://open.spotify.com/album/30sddBZ6VjuOkhIXvdE0Pw"
+      },
+      "artists": [
+        {
+          "name": "Ex:Re",
+          "url": "https://open.spotify.com/artist/3FIsBWNLmqLvTQnhJLAWUJ"
+        }
+      ],
+      "duration_ms": 327540,
+      "name": "Too Sad",
+      "url": "https://open.spotify.com/track/6VoVG0X8ToU27bWyAXduJb"
     },
     {
       "added_at": "2023-11-03 23:08:22",

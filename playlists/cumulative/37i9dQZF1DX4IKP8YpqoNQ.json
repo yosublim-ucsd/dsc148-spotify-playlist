@@ -240,6 +240,24 @@
     {
       "album": {
         "name": "Lalah Hathaway Live!",
+        "url": "https://open.spotify.com/album/0rKQQSb74PppVPuJWk4bSi"
+      },
+      "artists": [
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342066,
+      "name": "Angel (Live)",
+      "url": "https://open.spotify.com/track/2u3NAcq8UDfuZZiPNBtg94"
+    },
+    {
+      "album": {
+        "name": "Lalah Hathaway Live!",
         "url": "https://open.spotify.com/album/2g2JY5M0fG0TJeE3Q6iL71"
       },
       "artists": [
@@ -3330,7 +3348,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 222490,
       "name": "Walk With Me (Live from Blackbird Studio)",
       "url": "https://open.spotify.com/track/18P7aUOSdvpiciQTq4AuRd"

@@ -4,7 +4,7 @@
 
 > Get lifted by the waves of faith\-infused music\.  Cover: <a href="spotify:artist:5YxebzzreNswbtYC1td4cx">Tasha Cobbs Leonard</a>
 
-300 songs - 18 hr 23 min
+301 songs - 18 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Mansion](https://open.spotify.com/track/2b61pV5moornb1nvpPuK9N) | [Dwan Hill](https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ), [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Mansion](https://open.spotify.com/album/5M1yhftzJLwUKtj8xp06HN) | 4:11 | 2023-07-13 |  |
 | [Marvelous](https://open.spotify.com/track/59F2Wpzbsv3PZEb1ngr4TZ) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Marvelous](https://open.spotify.com/album/6oN7cV6Q5o1FyvUBVeLKdt) | 2:22 | 2023-07-13 |  |
 | [Matthew 6:33](https://open.spotify.com/track/5mARaySmtSd60C7UHgQvuk) | [ALIA LARA](https://open.spotify.com/artist/7LZtbcOzfx11Fhapw8iiOO) | [Matthew 6:33](https://open.spotify.com/album/7ChiyCA6LkJQiQY4IsovDb) | 3:02 | 2023-11-02 |  |
+| [Midnight Hour](https://open.spotify.com/track/4KYWyAouNeRHw3eTyxEX5n) | [Praise Lubangu](https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ) | [In Times Like These](https://open.spotify.com/album/2PALArxxYv8saqhds083oC) | 2:44 | 2023-12-15 |  |
 | [Mine](https://open.spotify.com/track/0BdjCtXaFIHpy9Yy4WcWy8) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM) | [Mine](https://open.spotify.com/album/5md45mofvGSgVFUS15ePkN) | 3:23 | 2022-09-30 | 2023-11-30 |
 | [Miracles \(feat\. Pastor Mike Jr.\)](https://open.spotify.com/track/5fATOdcoblNwc2cW4DTUok) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Miracles \(feat\. Pastor Mike Jr.\)](https://open.spotify.com/album/33sy8ZsbmMJYER9v5Yw3xD) | 5:58 | 2022-09-30 | 2023-12-16 |
 | [More On The Way \(feat\. nobigdyl.\)](https://open.spotify.com/track/6ZcFR4CvTxdEjTKwgTNcg1) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [More On The Way \(feat\. nobigdyl.\)](https://open.spotify.com/album/6sbOyBtYzDFuhFLfunI85F) | 3:14 | 2023-06-10 |  |
@@ -302,7 +303,7 @@
 | [You Do This One](https://open.spotify.com/track/4Y7dlIILrhbjhwzRIMTBlD) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [You Do This One](https://open.spotify.com/album/2xzpQ4JMvJOjh8WintsJ6o) | 3:46 | 2023-11-02 |  |
 | [You Got Me](https://open.spotify.com/track/5a7XPZGqVmqfua9pWCOYE3) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [You Got Me](https://open.spotify.com/album/3fQVmAZGCWUknLVRg6jo3i) | 2:52 | 2022-09-03 | 2023-12-16 |
 | [You're The One](https://open.spotify.com/track/6vCGmtaAMAqXvoKPqRA3jg) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Perfect Love](https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg) | 3:00 | 2022-12-16 | 2023-11-03 |
-| [You've Been Good To Me \- Live](https://open.spotify.com/track/38jmSzizGEhwJL7uZ7S6JU) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Imprint \(Live in Memphis\)](https://open.spotify.com/album/2J5NM9D4nvG4qyqVxRyuGk) | 9:30 | 2023-07-13 |  |
+| [You've Been Good To Me \- Live](https://open.spotify.com/track/38jmSzizGEhwJL7uZ7S6JU) | [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Imprint \(Live in Memphis\)](https://open.spotify.com/album/2J5NM9D4nvG4qyqVxRyuGk) | 9:30 | 2023-07-13 | 2023-12-25 |
 | [Your Power](https://open.spotify.com/track/0ToGha42fy4KqBdzJ1yOTN) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Your Power](https://open.spotify.com/album/5FsMkqJBLQcHPzSHa82KWh) | 3:42 | 2023-06-10 |  |
 | [YOUR WILL](https://open.spotify.com/track/07sXGtDBXjna1aAc2Fq4QX) | [RED Hands](https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4) | [The Family Album](https://open.spotify.com/album/7DAtrt1tuQAeM5KBEXtuDo) | 4:43 | 2022-12-16 | 2023-11-03 |
 | [Your Word My Mind](https://open.spotify.com/track/1PK1IQm9ic0aiRIc4qVkz7) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Your Word My Mind](https://open.spotify.com/album/2sCzqIjKBqX0gnZBxak8Z6) | 2:29 | 2022-12-16 | 2023-02-03 |

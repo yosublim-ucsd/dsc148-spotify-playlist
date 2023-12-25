@@ -4,7 +4,7 @@
 
 > Best songs of 2023 plus some of Obama&\#x27;s favorite summer songs\. Includes 22, &amp; 21 editions + bonus tracks.
 
-2,758 songs - 6 day 13 hr 33 min
+2,760 songs - 6 day 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -654,6 +654,7 @@
 | [Divine Timing](https://open.spotify.com/track/3iFWUwrLai8rugDV9M95q6) | [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf), [Dallas](https://open.spotify.com/artist/4G7Ft324bPwyWC2v35sns8) | [THINGS CHANGED](https://open.spotify.com/album/77FFl8rc8mTr7POq7lMfLa) | 2:06 | 2022-09-16 | 2022-10-04 |
 | [Do I Do](https://open.spotify.com/track/4P91jW5QmEkhoLgdMujp82) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection](https://open.spotify.com/album/1vQrNEAdt2eHCXAvdIs1M2) | 5:03 | 2020-08-20 | 2023-08-28 |
 | [Do I Move You \- Version II](https://open.spotify.com/track/2km9fkIwupyw4puhwcYnCP) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:17 | 2022-07-26 |  |
+| [Do It](https://open.spotify.com/track/052hHiUMpO8dg1w5hybrYO) | [ADIA](https://open.spotify.com/artist/0CI5UhfRbkqeCvzVMbXIFZ) | [Do It](https://open.spotify.com/album/3XUhbCmkPu2q6W18uKBRJz) | 2:44 | 2023-12-24 |  |
 | [Do It Again](https://open.spotify.com/track/50RtNxdm8c0vOPxsofAeD4) | [INGO](https://open.spotify.com/artist/02nC5Y8T3ypxNiVetKbtWe), [abellovac](https://open.spotify.com/artist/4lEJs2VotSw6Q4bNa1J3Dm) | [Do It Again](https://open.spotify.com/album/6GC6WS4Hb6vstiLX4zrCBv) | 2:43 | 2022-10-21 | 2022-11-12 |
 | [Do It All Again](https://open.spotify.com/track/2HjNSdh34fQ19tdQd1f6NC) | [Zoe Clarke](https://open.spotify.com/artist/30nnYTY2uHrbhJdc0SqNaI) | [Do It All Again](https://open.spotify.com/album/2wAhTDmJbJbKxKSTBJXqKM) | 2:51 | 2023-09-23 | 2023-12-14 |
 | [Do Not Grill Inside \- Original Mix](https://open.spotify.com/track/0kbUD0WNZDKeObJrlgvzXr) | [Gab Rhome](https://open.spotify.com/artist/3VXMcHmS4xk3cacv4oXWKI) | [Rêveries Éphémères](https://open.spotify.com/album/5H3DwYzlv34fAyGn5AEtk2) | 6:53 | 2021-04-03 | 2021-04-18 |
@@ -776,6 +777,7 @@
 | [Fade Out Lines \- The Avener Rework](https://open.spotify.com/track/2y2TNx72H4oE01TkztsAR6) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Phoebe Killdeer](https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT) | [The Wanderings Of The Avener](https://open.spotify.com/album/7DxvbZIXVgixTbo3sZ15Gy) | 4:36 | 2019-09-29\* | 2021-11-19 |
 | [Fairy Tales](https://open.spotify.com/track/347Dn6j31v17f9OSeIEEOu) | [Josiah Hodson](https://open.spotify.com/artist/6WFyVuxvI3WYQ6jam9zMGK) | [Fairy Tales](https://open.spotify.com/album/0c4R8A62DfAD8d6VHboQdn) | 2:32 | 2022-10-14 | 2022-11-05 |
 | [Faith \(feat\. Laura White\)](https://open.spotify.com/track/33Npnk7v1tUD97QC1G4ax8) | [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq), [CMC$](https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Faith \(feat\. Laura White\)](https://open.spotify.com/album/5tCOWqPgjgCI6xKj6GkCRD) | 2:52 | 2021-06-19 | 2021-07-04 |
+| [Faith, Wisdom, You](https://open.spotify.com/track/7fNUf2wmCM8uG75yQafYLA) | [Tyler Street](https://open.spotify.com/artist/02MiDVoTdh0qmnOHwaBE1v) | [Faith, Wisdom, You](https://open.spotify.com/album/6WaDh1zQhuPsbvNFtqDCih) | 3:26 | 2023-12-24 |  |
 | [fake friends](https://open.spotify.com/track/6Snj9UU7dHLyugF0uLnFyA) | [PACIFICA](https://open.spotify.com/artist/4ALMLb3wt9xULh1VFsxSZp), [Yomaez](https://open.spotify.com/artist/01X9SbuNcYoHHvUgalG2EB) | [fake friends](https://open.spotify.com/album/3r4tKOpKNCX6GD7FNXIzHS) | 2:30 | 2021-01-06 | 2021-01-21 |
 | [FAKE LOVE](https://open.spotify.com/track/2goKVwaomcUyeFsXV0o7XJ) | [Ryan Cassata](https://open.spotify.com/artist/0tFlCZaGI6bC1XxtfzIhmG), [Rillakill](https://open.spotify.com/artist/77QFlcVb8QAX6oKxdnPGx1) | [FAKE LOVE](https://open.spotify.com/album/77riLR2iOAqVTGt1RC95JQ) | 3:13 | 2022-12-23 | 2023-01-14 |
 | [Fall Apart](https://open.spotify.com/track/20f9vI5GoF5CNX4PvvaEe0) | [Erik Frank](https://open.spotify.com/artist/0ODkUSyC9qhputGEbAIf6p) | [Aries](https://open.spotify.com/album/297U8JOxqY4g4H1yNF5ofF) | 3:04 | 2020-08-15 | 2021-01-23 |
@@ -1275,7 +1277,7 @@
 | [Joyride](https://open.spotify.com/track/2sqMlEDqZ7tHyVjmtrWnvZ) | [FloraNova](https://open.spotify.com/artist/7qZYc6XcppdOPH7pNIeMOP) | [Joyride](https://open.spotify.com/album/4vaUr3BZrF7xEvC6a2ZZFL) | 3:01 | 2023-04-28 | 2023-05-16 |
 | [Juice](https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 3:15 | 2019-09-29\* | 2021-11-19 |
 | [Juice](https://open.spotify.com/track/0I0pzt81l64vnWxYpRd1gA) | [Raquel Liane](https://open.spotify.com/artist/7KbNqlww4VWGpgVKBHK72Y) | [F.L.I.R.T\. \(Finding Love in Real Time\)](https://open.spotify.com/album/6oj5cfFCh5ugevdlAVPQTT) | 3:03 | 2021-09-08 | 2021-09-24 |
-| [Jukebox](https://open.spotify.com/track/0BA7OJiPQ9zPTJhSuhX4MI) | [The Monz](https://open.spotify.com/artist/4YBVu2bgwVUQLB8cMbZgkQ) | [This Is Our Ship](https://open.spotify.com/album/2FAj9LOQjoCj93QElzK9vE) | 3:10 | 2023-12-06 |  |
+| [Jukebox](https://open.spotify.com/track/0BA7OJiPQ9zPTJhSuhX4MI) | [The Monz](https://open.spotify.com/artist/4YBVu2bgwVUQLB8cMbZgkQ) | [This Is Our Ship](https://open.spotify.com/album/2FAj9LOQjoCj93QElzK9vE) | 3:10 | 2023-12-06 | 2023-12-25 |
 | [Juliet](https://open.spotify.com/track/55VWDH4vxji6cvPRFREDuY) | [Presley Duyck](https://open.spotify.com/artist/5DWiVzsPMsZoNJbZEGEQYR) | [Juliet](https://open.spotify.com/album/2RUIXFky3Q5Mr8DkWjVFPt) | 3:36 | 2021-10-05 | 2021-10-21 |
 | [Jump](https://open.spotify.com/track/3ZQiZ9mNXzwYQQJFuZVyqk) | [Myoon](https://open.spotify.com/artist/4Po0xBibKDqudld3gYGCTE) | [Jump](https://open.spotify.com/album/0LqHA7bz8AZXMlhAcxVrIN) | 4:09 | 2022-06-17 | 2022-10-29 |
 | [juneau, alaska](https://open.spotify.com/track/3JFCz7DtXs6dKtcuI6loNV) | [Fluencie](https://open.spotify.com/artist/3XZGFukGAfxgr2iDwvbVKq), [tiger lily](https://open.spotify.com/artist/5IhLkxFWYUxb9xrjp3Wqb0) | [juneau, alaska](https://open.spotify.com/album/5SYLz1RhoyBxnIex35LD7w) | 3:00 | 2021-05-28 | 2021-08-08 |
@@ -2618,7 +2620,7 @@
 | [WE LE LE](https://open.spotify.com/track/1qb355GEuTidwStoROG5zh) | [Sasu](https://open.spotify.com/artist/4JBTC5mmVvAyPwXbpPCuQh) | [WE LE LE](https://open.spotify.com/album/0uGeyIboXcAvfru3aLcsJe) | 4:46 | 2023-12-23 |  |
 | [We So Fly](https://open.spotify.com/track/79X6wvnj9iBHCbo5714kXD) | [Emma Kern](https://open.spotify.com/artist/5D9sDxufqccO7Kb7GmOhKz) | [We So Fly](https://open.spotify.com/album/5XMluq9NTVyMYg6c9sks7r) | 2:30 | 2022-09-02 | 2022-09-18 |
 | [We've Met Before](https://open.spotify.com/track/709WtRX2B12JTU4WIvk0za) | [Former Friend](https://open.spotify.com/artist/3d0qSylOj8TyMZKa2tzmpt) | [We've Met Before](https://open.spotify.com/album/59fxLWbykOoVVMBYr7byZP) | 3:04 | 2021-10-13 | 2022-03-07 |
-| [webkinz](https://open.spotify.com/track/4Fzk0AWhOpeVJrXtuu1Ffk) | [Anderson Hao](https://open.spotify.com/artist/4ld59O2bX6oOVHoxVOCOpw) | [webkinz](https://open.spotify.com/album/2iguFrB72GnHEHuikJVyZe) | 2:56 | 2023-12-01 |  |
+| [webkinz](https://open.spotify.com/track/4Fzk0AWhOpeVJrXtuu1Ffk) | [Anderson Hao](https://open.spotify.com/artist/4ld59O2bX6oOVHoxVOCOpw) | [webkinz](https://open.spotify.com/album/2iguFrB72GnHEHuikJVyZe) | 2:56 | 2023-12-01 | 2023-12-25 |
 | [Weekend Blues](https://open.spotify.com/track/6a4FZmFSdKTCRXaBKCpUqf) | [Love Drunk Hearts](https://open.spotify.com/artist/0KUKdIYZklFYeYWd59xq5Y), [Ash Dable](https://open.spotify.com/artist/2WQLDqHR0LT7vMCb3hXVNS) | [Weekend Blues](https://open.spotify.com/album/08IRdcEC6OjlIPMZfP0qSp) | 4:05 | 2022-08-18 | 2022-09-04 |
 | [Weight in Gold](https://open.spotify.com/track/3sk4TBOWvZgpwUA4RGiSTO) | [Omonoko](https://open.spotify.com/artist/0fdQAvhda6VSg9RnHWXHn7) | [Weight in Gold](https://open.spotify.com/album/6pynLsIjkI27SRD1H1Fimo) | 3:16 | 2021-02-12 | 2021-02-27 |
 | [Weird Fishes](https://open.spotify.com/track/0pBPm7QxjaC46nlqQ4YNt8) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Weird Fishes](https://open.spotify.com/album/2PFotGo5M1XaQifWQjc3Pv) | 5:54 | 2020-07-21 | 2020-08-20 |

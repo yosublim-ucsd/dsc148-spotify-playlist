@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: The Cleverlys
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,555 likes - 139 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,618 likes - 139 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 84 | [Aerials](https://open.spotify.com/track/7nBxmiDUcqEyIXx9BrvD1P) | [The Barefoot Movement](https://open.spotify.com/artist/57gSCKhN6R0GbRztVbVrBt) | [Aerials](https://open.spotify.com/album/1XlXriACAISeyv0S8YZEn4) | 3:48 |
 | 85 | [Wild Horses](https://open.spotify.com/track/0oLZz6CXQ698XSO3J9DddL) | [Old & In The Way](https://open.spotify.com/artist/45vs9Drn5QbWAQ4Kff6ofh) | [Breakdown](https://open.spotify.com/album/3OWpFF6JfLHr728JT5PDAn) | 4:38 |
 | 86 | [The City of New Orleans](https://open.spotify.com/track/3Wocpg1YEEnPIJQEfk7dP8) | [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [The City of New Orleans](https://open.spotify.com/album/24HQRvGkASwDNSuCAVWrLo) | 4:11 |
-| 87 | [She Thinks I Still Care](https://open.spotify.com/track/6dLMYvXk5oBhxACr0PNvB0) | [Larry Sparks](https://open.spotify.com/artist/05c6W2NfXx6jxO28OGfPRA) | [It's Just Me](https://open.spotify.com/album/2n3PcUTqeReZYL980QVYOF) | 2:35 |
+| 87 | [She Thinks I Still Care](https://open.spotify.com/track/3CVBN4atqGXxfq3rTQsyAe) | [Larry Sparks](https://open.spotify.com/artist/05c6W2NfXx6jxO28OGfPRA) | [It's Just Me](https://open.spotify.com/album/3ulf8YidiJhYjopCP9vNbF) | 2:35 |
 | 88 | [Hey Ya \- live](https://open.spotify.com/track/4ztR83ZgTdg8H9xypnsQfS) | [Obadiah Parker](https://open.spotify.com/artist/3Kji8hBU9Tqea6pAWRwagQ) | [Hey Ya \(live\)](https://open.spotify.com/album/4BIE57kfW8ndo2CZn0QFfi) | 4:27 |
 | 89 | [Better Man](https://open.spotify.com/track/6W90nyRbwOUaiww9dSEnAa) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Iron Horse](https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t) | [Better Man](https://open.spotify.com/album/4rLwPnpQyAEfBKW1zSlcuu) | 3:27 |
 | 90 | [Islands in the Stream](https://open.spotify.com/track/6MWOFeRyquFMmZRzcZDkps) | [Love Canon](https://open.spotify.com/artist/6g4kxAF2OVE5eZh2aMMNjJ) | [Cover Story](https://open.spotify.com/album/3oCqTYQEva6EIKRJr20seS) | 4:04 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 | 138 | [No Diggity](https://open.spotify.com/track/2X2mue7uhDOCEgA3ewrB2l) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Cash Crop](https://open.spotify.com/album/0tDKZRvMt5Ek8ejQrnd4OU) | 5:51 |
 | 139 | [On The Road Again](https://open.spotify.com/track/3xkY21Y37cXIHrWTQBAKNZ) | [Craig Duncan](https://open.spotify.com/artist/0zYyfhX87rISSc9dyJQK5t) | [Country Mountain Tributes: The Songs of Willie Nelson](https://open.spotify.com/album/5hVPIFkN55JJWu2iM6CW5D) | 3:22 |
 
-Snapshot ID: `MCw3YTE0ODk0Njc4ZmJmNmFlN2E4ZTZiOGZhZDFhNzNiYTllNTQwNWQ0`
+Snapshot ID: `MCwwMWEzMGI1YjBkZThhMzYwMmQzMjA5NDI0YjhjOTY2OGY2YTFlMGU3`

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A mover el bote con este mix guapachoso!",
-  "num_followers": 114661,
+  "num_followers": 114692,
   "original_name": "Salsacumbiando",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGM2OTVjZWExM2M4ZjBjNWM3M2FiY2JkZjQ4N2E0NzlhY2VjNmVi",
+  "snapshot_id": "MCwwNzJjOTdlOWMzNWYyNjA4OTM4OWYyZTc2ZGI1OTMxNmMwMTk2ZGVm",
   "tracks": [
     {
       "added_at": "2023-12-15 18:39:07",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-12-15 18:39:07",
       "album": {
-        "name": "Pegao",
-        "url": "https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 160733,
-      "name": "Pegao",
-      "url": "https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC"
-    },
-    {
-      "added_at": "2023-12-15 18:39:07",
-      "album": {
         "name": "Con la Fuerza de un Volc\u00e1n",
         "url": "https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 228266,
       "name": "Vienes y Te Vas",
       "url": "https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj"
+    },
+    {
+      "added_at": "2023-12-15 18:39:07",
+      "album": {
+        "name": "Pegao",
+        "url": "https://open.spotify.com/album/2BzQoZdHURkzdFErSQ2Qll"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 160733,
+      "name": "Pegao",
+      "url": "https://open.spotify.com/track/7Dk8r4VR5NoveUvTiCKEXC"
     },
     {
       "added_at": "2023-12-15 18:39:07",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-12-15 18:39:07",
       "album": {
+        "name": "Poder \u00cdntimo",
+        "url": "https://open.spotify.com/album/3EmOFHCxHyiuCnXBUWVM9c"
+      },
+      "artists": [
+        {
+          "name": "Cheo Andujar",
+          "url": "https://open.spotify.com/artist/6OuCYhqpODU9Df9qBszYXe"
+        }
+      ],
+      "duration_ms": 262942,
+      "name": "D\u00eda Tras D\u00eda",
+      "url": "https://open.spotify.com/track/7q0BkDZKmszpgBUgIecmE9"
+    },
+    {
+      "added_at": "2023-12-15 18:39:07",
+      "album": {
         "name": "Cumbia Del Coraz\u00f3n",
         "url": "https://open.spotify.com/album/0ZgIMgZMTpyNRZNCYoHhYm"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 199266,
       "name": "Otra Noche",
       "url": "https://open.spotify.com/track/6YUYwOLhR01HusDZkttH7k"
-    },
-    {
-      "added_at": "2023-12-15 18:39:07",
-      "album": {
-        "name": "Poder \u00cdntimo",
-        "url": "https://open.spotify.com/album/3EmOFHCxHyiuCnXBUWVM9c"
-      },
-      "artists": [
-        {
-          "name": "Cheo Andujar",
-          "url": "https://open.spotify.com/artist/6OuCYhqpODU9Df9qBszYXe"
-        }
-      ],
-      "duration_ms": 262942,
-      "name": "D\u00eda Tras D\u00eda",
-      "url": "https://open.spotify.com/track/7q0BkDZKmszpgBUgIecmE9"
     },
     {
       "added_at": "2023-12-15 18:39:07",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-12-15 18:39:07",
       "album": {
+        "name": "Arriba Siempre - De Pura Sangre",
+        "url": "https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp"
+      },
+      "artists": [
+        {
+          "name": "Michel el Buen\u00f3n",
+          "url": "https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf"
+        }
+      ],
+      "duration_ms": 305053,
+      "name": "Extra\u00f1\u00e1ndote",
+      "url": "https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4"
+    },
+    {
+      "added_at": "2023-12-15 18:39:07",
+      "album": {
         "name": "Desvelo",
         "url": "https://open.spotify.com/album/18PmOgLMJbv3lT5wqueTrU"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 211415,
       "name": "Desvelo",
       "url": "https://open.spotify.com/track/1PQx9MPARk2DWTxAc1i8bG"
-    },
-    {
-      "added_at": "2023-12-15 18:39:07",
-      "album": {
-        "name": "Arriba Siempre - De Pura Sangre",
-        "url": "https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp"
-      },
-      "artists": [
-        {
-          "name": "Michel el Buen\u00f3n",
-          "url": "https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf"
-        }
-      ],
-      "duration_ms": 305053,
-      "name": "Extra\u00f1\u00e1ndote",
-      "url": "https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4"
     },
     {
       "added_at": "2023-12-15 18:39:07",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-12-15 18:39:07",
       "album": {
+        "name": "Me Voy Pa'Chiriguan\u00e1 (Incluye el \u00c9xito 20 A\u00f1os)",
+        "url": "https://open.spotify.com/album/3aOD0U6WWViN8XoLqaWJwx"
+      },
+      "artists": [
+        {
+          "name": "Paco Silva y su Tropa Colombiana",
+          "url": "https://open.spotify.com/artist/2KXm36N0I8a4GOb6XvPCUE"
+        }
+      ],
+      "duration_ms": 225133,
+      "name": "20 a\u00f1os",
+      "url": "https://open.spotify.com/track/27sE27R2IzI7BR65DRK6tQ"
+    },
+    {
+      "added_at": "2023-12-15 18:39:07",
+      "album": {
         "name": "Te Voy A Conquistar",
         "url": "https://open.spotify.com/album/1sDXcM414HAxpoB36OLB1I"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 226320,
       "name": "Te Voy A Conquistar",
       "url": "https://open.spotify.com/track/6OyXy9MzQmHelQ06faSjMU"
-    },
-    {
-      "added_at": "2023-12-15 18:39:07",
-      "album": {
-        "name": "Me Voy Pa'Chiriguan\u00e1 (Incluye el \u00c9xito 20 A\u00f1os)",
-        "url": "https://open.spotify.com/album/3aOD0U6WWViN8XoLqaWJwx"
-      },
-      "artists": [
-        {
-          "name": "Paco Silva y su Tropa Colombiana",
-          "url": "https://open.spotify.com/artist/2KXm36N0I8a4GOb6XvPCUE"
-        }
-      ],
-      "duration_ms": 225133,
-      "name": "20 a\u00f1os",
-      "url": "https://open.spotify.com/track/27sE27R2IzI7BR65DRK6tQ"
     },
     {
       "added_at": "2023-12-15 18:39:07",

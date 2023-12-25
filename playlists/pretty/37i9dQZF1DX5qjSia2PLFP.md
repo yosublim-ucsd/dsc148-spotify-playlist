@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Guest Curator:   <a href="spotify:artist:1iwUuIOKYjV7SKIg27v4zi">Real Boston Richey</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,427 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,466 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 99 | [Poison](https://open.spotify.com/track/0334KVZTMvvQiRNIWKbVFh) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Poison](https://open.spotify.com/album/7mpxiz4HeVmH48bs2XIRsf) | 2:51 |
 | 100 | [EMOTIONS DIE YOUNG](https://open.spotify.com/track/6bma2tbLXpqO2bEGqMVh3S) | [Amber Ryann](https://open.spotify.com/artist/4mbv0HeV0rHkSW9CqqANPT) | [EMOTIONS DIE YOUNG](https://open.spotify.com/album/5ixY1CqyqRfuNZphz28rh6) | 2:49 |
 
-Snapshot ID: `MCw4ZDI5MGMwMTI5ZGFmZDAwNDZlNTc2YWY0OTkyNDE3MWUyNDliMjQ5`
+Snapshot ID: `MCw5NWE2YjBlNDBhZTEyYzc2ZGMyOTM3ZWIyMzAxYTMyMWRmZjNkYzA0`

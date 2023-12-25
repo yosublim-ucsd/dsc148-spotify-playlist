@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Feyj\u00e3o, Silva",
-  "num_followers": 435463,
+  "num_followers": 435521,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDgwOWY2ZDcxYmRjNzliN2E4N2Q0ZjZkMWU0NDliZTI5OGU2OTk2",
+  "snapshot_id": "MCw0ZTU3NDA0MjQ1OGUwZDZlYmI4MGRmNGI5OTg4YmFiOWJjODY5NzJl",
   "tracks": [
     {
       "added_at": "2023-12-22 03:17:03",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-12-22 03:17:03",
       "album": {
+        "name": "Rom\u00e3",
+        "url": "https://open.spotify.com/album/0jJAlOVerPV2A29Y8qUaPR"
+      },
+      "artists": [
+        {
+          "name": "Bruna Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
+        }
+      ],
+      "duration_ms": 194630,
+      "name": "Rom\u00e3",
+      "url": "https://open.spotify.com/track/7ncPZIj5Dd2cB9LM9NOeyP"
+    },
+    {
+      "added_at": "2023-12-22 03:17:03",
+      "album": {
         "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 230772,
       "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
       "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
-    },
-    {
-      "added_at": "2023-12-22 03:17:03",
-      "album": {
-        "name": "Rom\u00e3",
-        "url": "https://open.spotify.com/album/0jJAlOVerPV2A29Y8qUaPR"
-      },
-      "artists": [
-        {
-          "name": "Bruna Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p"
-        }
-      ],
-      "duration_ms": 194630,
-      "name": "Rom\u00e3",
-      "url": "https://open.spotify.com/track/7ncPZIj5Dd2cB9LM9NOeyP"
     },
     {
       "added_at": "2023-12-22 03:17:03",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-12-22 03:17:03",
       "album": {
-        "name": "NOVA ERA Part. I",
-        "url": "https://open.spotify.com/album/1hxPeJO5L6WOH1QFz3Pnwr"
-      },
-      "artists": [
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        }
-      ],
-      "duration_ms": 158372,
-      "name": "Sigilo",
-      "url": "https://open.spotify.com/track/3R22kNKKLg7T9l6rtzRS0e"
-    },
-    {
-      "added_at": "2023-12-22 03:17:03",
-      "album": {
         "name": "Bem Me Queira",
         "url": "https://open.spotify.com/album/7DVJxua1LIoibloFKohOLJ"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 145377,
       "name": "Bem Me Queira",
       "url": "https://open.spotify.com/track/1QUPFwEptqGlpFvA6j3RQ1"
+    },
+    {
+      "added_at": "2023-12-22 03:17:03",
+      "album": {
+        "name": "NOVA ERA Part. I",
+        "url": "https://open.spotify.com/album/1hxPeJO5L6WOH1QFz3Pnwr"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        }
+      ],
+      "duration_ms": 158372,
+      "name": "Sigilo",
+      "url": "https://open.spotify.com/track/3R22kNKKLg7T9l6rtzRS0e"
     },
     {
       "added_at": "2023-12-22 03:17:03",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-12-22 03:17:03",
       "album": {
+        "name": "tudo que eu espero de algu\u00e9m",
+        "url": "https://open.spotify.com/album/4eQk9QXW4jMFRNiM3alzYW"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        }
+      ],
+      "duration_ms": 214791,
+      "name": "tudo que eu espero de algu\u00e9m",
+      "url": "https://open.spotify.com/track/5EaYT5vgoT0KbpkAzdEV4G"
+    },
+    {
+      "added_at": "2023-12-22 03:17:03",
+      "album": {
         "name": "ABSORVENDO TUDO",
         "url": "https://open.spotify.com/album/4LE3dTrNjyxSWqk7pHjFZv"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 156466,
       "name": "Quando isso vai passar?",
       "url": "https://open.spotify.com/track/2ydOTMH0LViI8b9tRp1WOp"
-    },
-    {
-      "added_at": "2023-12-22 03:17:03",
-      "album": {
-        "name": "tudo que eu espero de algu\u00e9m",
-        "url": "https://open.spotify.com/album/4eQk9QXW4jMFRNiM3alzYW"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        }
-      ],
-      "duration_ms": 214791,
-      "name": "tudo que eu espero de algu\u00e9m",
-      "url": "https://open.spotify.com/track/5EaYT5vgoT0KbpkAzdEV4G"
     },
     {
       "added_at": "2023-12-22 03:17:03",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-12-22 03:17:03",
       "album": {
-        "name": "Ideias Sobre Voc\u00ea",
-        "url": "https://open.spotify.com/album/6Qr4XXaE4RBCqxknr5XH4Y"
-      },
-      "artists": [
-        {
-          "name": "Helena Novais",
-          "url": "https://open.spotify.com/artist/4KRNAfwa80eLnH9BpswUUG"
-        }
-      ],
-      "duration_ms": 152346,
-      "name": "Incompar\u00e1vel",
-      "url": "https://open.spotify.com/track/3e0X9b18FDVcWJmXwU7fE4"
-    },
-    {
-      "added_at": "2023-12-22 03:17:03",
-      "album": {
         "name": "Montanha Russa",
         "url": "https://open.spotify.com/album/0FsbGXA20E9n6gGghVuiXp"
       },
@@ -1111,18 +1095,18 @@
     {
       "added_at": "2023-12-22 03:17:03",
       "album": {
-        "name": "Melodram\u00e1tico",
-        "url": "https://open.spotify.com/album/0uu6hlbdqlBp6dqTQ7TBRw"
+        "name": "Ideias Sobre Voc\u00ea",
+        "url": "https://open.spotify.com/album/6Qr4XXaE4RBCqxknr5XH4Y"
       },
       "artists": [
         {
-          "name": "Dody",
-          "url": "https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs"
+          "name": "Helena Novais",
+          "url": "https://open.spotify.com/artist/4KRNAfwa80eLnH9BpswUUG"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Melodram\u00e1tico",
-      "url": "https://open.spotify.com/track/1fn9Ca7f5FdrZ5E6JUVh9s"
+      "duration_ms": 152346,
+      "name": "Incompar\u00e1vel",
+      "url": "https://open.spotify.com/track/3e0X9b18FDVcWJmXwU7fE4"
     },
     {
       "added_at": "2023-12-22 03:17:03",
@@ -1143,6 +1127,22 @@
       "duration_ms": 174873,
       "name": "colorida",
       "url": "https://open.spotify.com/track/6RmkIFg8AnHjG3rhITyGJV"
+    },
+    {
+      "added_at": "2023-12-22 03:17:03",
+      "album": {
+        "name": "Melodram\u00e1tico",
+        "url": "https://open.spotify.com/album/0uu6hlbdqlBp6dqTQ7TBRw"
+      },
+      "artists": [
+        {
+          "name": "Dody",
+          "url": "https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Melodram\u00e1tico",
+      "url": "https://open.spotify.com/track/1fn9Ca7f5FdrZ5E6JUVh9s"
     },
     {
       "added_at": "2023-12-22 03:17:03",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-12-22 03:17:03",
       "album": {
+        "name": "Coisas De Voc\u00ea",
+        "url": "https://open.spotify.com/album/2xBdXe7N6E8TkjXGxsvsO4"
+      },
+      "artists": [
+        {
+          "name": "AMARINA",
+          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
+        }
+      ],
+      "duration_ms": 197802,
+      "name": "Coisas De Voc\u00ea",
+      "url": "https://open.spotify.com/track/7ngk2XR1c7NrDwVhjcdf0X"
+    },
+    {
+      "added_at": "2023-12-22 03:17:03",
+      "album": {
         "name": "QUANDO C\u00ca VEM",
         "url": "https://open.spotify.com/album/6FfdfyjWxAlF3ctnKlgSOu"
       },
@@ -1347,22 +1363,6 @@
     {
       "added_at": "2023-12-22 03:17:03",
       "album": {
-        "name": "Coisas De Voc\u00ea",
-        "url": "https://open.spotify.com/album/2xBdXe7N6E8TkjXGxsvsO4"
-      },
-      "artists": [
-        {
-          "name": "AMARINA",
-          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
-        }
-      ],
-      "duration_ms": 197802,
-      "name": "Coisas De Voc\u00ea",
-      "url": "https://open.spotify.com/track/7ngk2XR1c7NrDwVhjcdf0X"
-    },
-    {
-      "added_at": "2023-12-22 03:17:03",
-      "album": {
         "name": "Eu Pensei Muito na Gente",
         "url": "https://open.spotify.com/album/4NNja3VMeL9nFHGQx9T6kP"
       },
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-12-22 03:17:03",
       "album": {
-        "name": "J\u00e1 Te Falei",
-        "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
-      },
-      "artists": [
-        {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
-        }
-      ],
-      "duration_ms": 205540,
-      "name": "J\u00e1 Te Falei",
-      "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
-    },
-    {
-      "added_at": "2023-12-22 03:17:03",
-      "album": {
         "name": "Amanheceu Assim",
         "url": "https://open.spotify.com/album/3PULKRZQ4tZ5cFLBy4webU"
       },
@@ -1467,6 +1451,22 @@
     {
       "added_at": "2023-12-22 03:17:03",
       "album": {
+        "name": "J\u00e1 Te Falei",
+        "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
+      },
+      "artists": [
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+        }
+      ],
+      "duration_ms": 205540,
+      "name": "J\u00e1 Te Falei",
+      "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
+    },
+    {
+      "added_at": "2023-12-22 03:17:03",
+      "album": {
         "name": "Lil\u00e1s",
         "url": "https://open.spotify.com/album/6gqc9vh0zqPJ4tseFyIC0b"
       },
@@ -1479,26 +1479,6 @@
       "duration_ms": 175136,
       "name": "Lil\u00e1s",
       "url": "https://open.spotify.com/track/6tEG7zGGyWgztkKlbW2HsE"
-    },
-    {
-      "added_at": "2023-12-22 03:17:03",
-      "album": {
-        "name": "TIME ERRADO",
-        "url": "https://open.spotify.com/album/1SlbBUg4xtZ4Ap34iP84eE"
-      },
-      "artists": [
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        },
-        {
-          "name": "Lucy Alves",
-          "url": "https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ"
-        }
-      ],
-      "duration_ms": 133071,
-      "name": "TIME ERRADO",
-      "url": "https://open.spotify.com/track/5DDy00scIwk3X0U8GW0ELF"
     },
     {
       "added_at": "2023-12-22 03:17:03",
@@ -1523,18 +1503,22 @@
     {
       "added_at": "2023-12-22 03:17:03",
       "album": {
-        "name": "Meu Lugar Preferido",
-        "url": "https://open.spotify.com/album/6Gr1teEljYdbOU07MxcJ4j"
+        "name": "TIME ERRADO",
+        "url": "https://open.spotify.com/album/1SlbBUg4xtZ4Ap34iP84eE"
       },
       "artists": [
         {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        },
+        {
+          "name": "Lucy Alves",
+          "url": "https://open.spotify.com/artist/3odaJsfozTVhSYdib7ORiJ"
         }
       ],
-      "duration_ms": 142956,
-      "name": "Meu Lugar Preferido",
-      "url": "https://open.spotify.com/track/3NV9yZRay0t7MdgtZhDrKq"
+      "duration_ms": 133071,
+      "name": "TIME ERRADO",
+      "url": "https://open.spotify.com/track/5DDy00scIwk3X0U8GW0ELF"
     },
     {
       "added_at": "2023-12-22 03:17:03",
@@ -1551,6 +1535,22 @@
       "duration_ms": 195989,
       "name": "S\u00f3 Respira",
       "url": "https://open.spotify.com/track/1Fdc5RWSwgleXanROASz6g"
+    },
+    {
+      "added_at": "2023-12-22 03:17:03",
+      "album": {
+        "name": "Meu Lugar Preferido",
+        "url": "https://open.spotify.com/album/6Gr1teEljYdbOU07MxcJ4j"
+      },
+      "artists": [
+        {
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+        }
+      ],
+      "duration_ms": 142956,
+      "name": "Meu Lugar Preferido",
+      "url": "https://open.spotify.com/track/3NV9yZRay0t7MdgtZhDrKq"
     },
     {
       "added_at": "2023-12-22 03:17:03",

@@ -936,7 +936,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -2148,7 +2148,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 173141,
       "name": "Bars",
       "url": "https://open.spotify.com/track/3RwfY1HV2GFcsMKZSeJtwb"
@@ -3128,7 +3128,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 173731,
       "name": "Brick na brick",
       "url": "https://open.spotify.com/track/5011v8IwA4NApxQ3ntw6Ih"
@@ -4816,7 +4816,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 212953,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
@@ -5803,6 +5803,24 @@
     },
     {
       "album": {
+        "name": "New Light Through Old Windows",
+        "url": "https://open.spotify.com/album/7p9ePF3nuGOHHKdK54xjHH"
+      },
+      "artists": [
+        {
+          "name": "Chris Rea",
+          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239946,
+      "name": "Driving Home for Christmas",
+      "url": "https://open.spotify.com/track/0ZoHHROTzwIYeNAHRPedTY"
+    },
+    {
+      "album": {
         "name": "Dancing with Strangers (Deluxe Edition, 2019 Remaster)",
         "url": "https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4"
       },
@@ -5920,7 +5938,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 155492,
       "name": "D\u00edvej",
       "url": "https://open.spotify.com/track/0Pl0foFNy1vuVgx1NHVjSE"
@@ -7940,7 +7958,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -8061,6 +8079,24 @@
     },
     {
       "album": {
+        "name": "A Pentatonix Christmas Deluxe",
+        "url": "https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268960,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0HZk0QsXPhMNAWNDR3rYE8"
+    },
+    {
+      "album": {
         "name": "DRIPOLAR",
         "url": "https://open.spotify.com/album/68XHBxFOiLzQGWtJL5mDUY"
       },
@@ -8094,7 +8130,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 158607,
       "name": "Hannah Montana",
       "url": "https://open.spotify.com/track/2sXnat46y10FtAbW2A0ira"
@@ -10779,6 +10815,24 @@
     },
     {
       "album": {
+        "name": "Hudba Nen\u00ed Zl\u00e1",
+        "url": "https://open.spotify.com/album/0X7fKhehlFhOnTMwKE9DNH"
+      },
+      "artists": [
+        {
+          "name": "Karel Gott",
+          "url": "https://open.spotify.com/artist/4zaslnpNr10iUFJGx0XqpM"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175400,
+      "name": "Kdepak, Ty Pt\u00e1\u010dku, Hn\u00edzdo M\u00e1\u0161?",
+      "url": "https://open.spotify.com/track/3zKimXqpNYHep3ma88JWmM"
+    },
+    {
+      "album": {
         "name": "Planeta opic",
         "url": "https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl"
       },
@@ -10830,7 +10884,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 145548,
       "name": "Kdo?",
       "url": "https://open.spotify.com/track/1xpkt49Qq2n7GVQZk5hr3k"
@@ -10990,7 +11044,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 173589,
       "name": "King Kong",
       "url": "https://open.spotify.com/track/03RojRDRvvbFEPpabo3Aan"
@@ -11420,7 +11474,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 190588,
       "name": "Kr\u00e1lovstv\u00ed",
       "url": "https://open.spotify.com/track/1BE9PBZnXNbc6xh8jdbC7i"
@@ -14913,6 +14967,24 @@
     },
     {
       "album": {
+        "name": "A\u017e Do Nebes",
+        "url": "https://open.spotify.com/album/7KM5RTJGCtMsvF18wqejYI"
+      },
+      "artists": [
+        {
+          "name": "Monika Absolonova",
+          "url": "https://open.spotify.com/artist/0uzZSlV9tv6JlWxtjPxMm4"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123625,
+      "name": "Nejhez\u010d\u00ed \u010cas V\u00e1no\u010dn\u00ed",
+      "url": "https://open.spotify.com/track/1z0zVe0wpRYUVldGi6qNhs"
+    },
+    {
+      "album": {
         "name": "J. EDEN E-G3N (#freekarlo edition)",
         "url": "https://open.spotify.com/album/6r6i9hynvJcgXARvWHU6UC"
       },
@@ -15312,7 +15384,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 112560,
       "name": "Nesem V\u00e1m noviny",
       "url": "https://open.spotify.com/track/3FBDn9uYUpCAS8svJwJ7ux"
@@ -17960,7 +18032,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 62893,
       "name": "Pujdem spolu do Betl\u00e9ma",
       "url": "https://open.spotify.com/track/0vFuvf86DBX86mgp4ATufb"
@@ -18078,7 +18150,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 179556,
       "name": "Pussy Power (feat. Porsche Boy)",
       "url": "https://open.spotify.com/track/7vdva8hlSprUQjNNuw0PJC"
@@ -19301,6 +19373,28 @@
     },
     {
       "album": {
+        "name": "When Christmas Comes Around...",
+        "url": "https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242644,
+      "name": "Santa, Can\u2019t You Hear Me",
+      "url": "https://open.spotify.com/track/2O3MQ6H3gjrIWDcpeTrikT"
+    },
+    {
+      "album": {
         "name": "Sant\u00e9",
         "url": "https://open.spotify.com/album/3pYgvRN1KdLBR9GLUcB4iB"
       },
@@ -19312,7 +19406,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 114000,
       "name": "Sant\u00e9",
       "url": "https://open.spotify.com/track/4ToxkJ4VvWs026R3QfHDI3"
@@ -20172,7 +20266,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 150926,
       "name": "Slzy",
       "url": "https://open.spotify.com/track/2aSjZFDJyTmakHyPxsEScQ"
@@ -20220,6 +20314,24 @@
       "duration_ms": 142638,
       "name": "Smokin Tr\u00e1va, Poppin Xan",
       "url": "https://open.spotify.com/track/1jJlS7fpi630yDE4BZZIi9"
+    },
+    {
+      "album": {
+        "name": "P\u00e1dy",
+        "url": "https://open.spotify.com/album/0vhzXz7nSc4tOCof4c8DEU"
+      },
+      "artists": [
+        {
+          "name": "Marek Ztraceny",
+          "url": "https://open.spotify.com/artist/7s4NiavZ071gzNghPJVmUu"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196693,
+      "name": "Snad Se N\u011bco Stane",
+      "url": "https://open.spotify.com/track/1wwi81qqgXdmDaZm4RHSIH"
     },
     {
       "album": {
@@ -20970,7 +21082,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-26",
+      "date_removed": null,
       "duration_ms": 226236,
       "name": "Sta\u010d\u00ed v\u011b\u0159it",
       "url": "https://open.spotify.com/track/3zUALUQ4uP0OzNFccxnF79"
@@ -21140,7 +21252,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 172540,
       "name": "St\u00edny",
       "url": "https://open.spotify.com/track/0J3SIAOndpL1MS2Vq2RMQ9"
@@ -21823,6 +21935,24 @@
     },
     {
       "album": {
+        "name": "The Works (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261626,
+      "name": "Thank God It's Christmas - 2011 Remaster",
+      "url": "https://open.spotify.com/track/3AymrUApW5JKKaNrHQhcBG"
+    },
+    {
+      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
@@ -21874,6 +22004,24 @@
       "duration_ms": 164000,
       "name": "The Business",
       "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
+    },
+    {
+      "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190973,
+      "name": "The Christmas Song (Merry Christmas To You)",
+      "url": "https://open.spotify.com/track/5humEOJehpAwMJEJmb0JJ2"
     },
     {
       "album": {
@@ -23594,7 +23742,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 112466,
       "name": "Vesel\u00e9 v\u00e1no\u010dn\u00ed hody",
       "url": "https://open.spotify.com/track/4AwUg33u6NXXBsCNqNIqgd"
@@ -23992,6 +24140,28 @@
       "duration_ms": 293754,
       "name": "V\u00c1HY",
       "url": "https://open.spotify.com/track/412FAB1EMez7MFlTX89awR"
+    },
+    {
+      "album": {
+        "name": "Origin\u00e1l",
+        "url": "https://open.spotify.com/album/4DZq7L8crhVRWMnVpTeA2C"
+      },
+      "artists": [
+        {
+          "name": "Marek Ztraceny",
+          "url": "https://open.spotify.com/artist/7s4NiavZ071gzNghPJVmUu"
+        },
+        {
+          "name": "Hana Zagorov\u00e1",
+          "url": "https://open.spotify.com/artist/4cFceELvzYd8CJBtN6WCBV"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190109,
+      "name": "V\u00e1noce jako d\u0159\u00edv",
+      "url": "https://open.spotify.com/track/3CpohZA83EHkZESssbvvMe"
     },
     {
       "album": {
@@ -24948,6 +25118,28 @@
       "duration_ms": 169265,
       "name": "you broke me first",
       "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
+    },
+    {
+      "album": {
+        "name": "You Make It Feel Like Christmas",
+        "url": "https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156773,
+      "name": "You Make It Feel Like Christmas (feat. Blake Shelton)",
+      "url": "https://open.spotify.com/track/2OQ6a4CfUeYskpTTgyawyJ"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Thalles Roberto",
-  "num_followers": 134095,
+  "num_followers": 134145,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGM4ZGNkYzBhNmZhYWJmZmRlNDBlNWEzNWMxZWRhZWNmNTg1ZGYw",
+  "snapshot_id": "MCwxNjRjOGNhYzQ5N2JjMzMzMzEwNjY2ODYyMTlkZTliMWNjOWQ2NTFk",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Vida/Eternidade",
+        "url": "https://open.spotify.com/album/15aPsEilVLOZ4lF5JWg6be"
+      },
+      "artists": [
+        {
+          "name": "verboemcarne",
+          "url": "https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY"
+        }
+      ],
+      "duration_ms": 258700,
+      "name": "Jo\u00e3o 1 - VEC",
+      "url": "https://open.spotify.com/track/7fY0cpQJpJkvMfN7st6PyG"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Columb\u00e1rio",
         "url": "https://open.spotify.com/album/4o6BATvOsC4vbHJySc5avV"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 215836,
       "name": "Vestido Azul",
       "url": "https://open.spotify.com/track/5hLjEIr4NmAsGarqTwm0mA"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Vida/Eternidade",
-        "url": "https://open.spotify.com/album/15aPsEilVLOZ4lF5JWg6be"
-      },
-      "artists": [
-        {
-          "name": "verboemcarne",
-          "url": "https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY"
-        }
-      ],
-      "duration_ms": 258700,
-      "name": "Jo\u00e3o 1 - VEC",
-      "url": "https://open.spotify.com/track/7fY0cpQJpJkvMfN7st6PyG"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -811,6 +811,26 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Me Fez Vivo (feat. Fernandinho)",
+        "url": "https://open.spotify.com/album/5Yn06GwEq0Hw94wgPG0U8f"
+      },
+      "artists": [
+        {
+          "name": "Arianne",
+          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
+        },
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 241088,
+      "name": "Me Fez Vivo (feat. Fernandinho)",
+      "url": "https://open.spotify.com/track/2HLKpvgRATKtf1KA9lrcGg"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "NAVES IMPERIAIS",
         "url": "https://open.spotify.com/album/7bmxgJFIVD4rNi4x73i2Jy"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 222727,
       "name": "Cora\u00e7\u00e3o de Pedra",
       "url": "https://open.spotify.com/track/0ZqrbdSQrwCB523ggelHhu"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Me Fez Vivo (feat. Fernandinho)",
-        "url": "https://open.spotify.com/album/5Yn06GwEq0Hw94wgPG0U8f"
-      },
-      "artists": [
-        {
-          "name": "Arianne",
-          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
-        },
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 241088,
-      "name": "Me Fez Vivo (feat. Fernandinho)",
-      "url": "https://open.spotify.com/track/2HLKpvgRATKtf1KA9lrcGg"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Peregrino",
+        "url": "https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG"
+      },
+      "artists": [
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Peregrino",
+      "url": "https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Louco (feat. PG)",
         "url": "https://open.spotify.com/album/4yc5e16AJYtTFxCv4J0VTg"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 225000,
       "name": "Recome\u00e7o",
       "url": "https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Peregrino",
-        "url": "https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG"
-      },
-      "artists": [
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Peregrino",
-      "url": "https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ"
     },
     {
       "added_at": "2023-12-22 03:00:00",

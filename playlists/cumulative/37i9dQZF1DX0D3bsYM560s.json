@@ -957,6 +957,24 @@
     },
     {
       "album": {
+        "name": "Long Time To Be Gone",
+        "url": "https://open.spotify.com/album/0yKUSFsZyE1ckKUOp83onF"
+      },
+      "artists": [
+        {
+          "name": "Nora Brown",
+          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197755,
+      "name": "Little Satchel",
+      "url": "https://open.spotify.com/track/1ym8cryelFHPD6k0FCocCh"
+    },
+    {
+      "album": {
         "name": "Little Satchel",
         "url": "https://open.spotify.com/album/3PLL0AGHcVDPgK03UR1H0T"
       },
@@ -968,7 +986,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 197755,
       "name": "Little Satchel",
       "url": "https://open.spotify.com/track/2NAtu56kCVNhTzu8Cz0NVN"

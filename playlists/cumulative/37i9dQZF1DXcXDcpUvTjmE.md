@@ -4,13 +4,14 @@
 
 > Canciones de calaveritas, monstruos y fantasmitas amigables.
 
-68 songs - 3 hr 18 min
+69 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [...To Die For](https://open.spotify.com/track/2wQN8tMYOHStr6Q61jh0IK) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 4:17 | 2019-11-01 |  |
 | [A Night on Bald Mountain \- Irwin Kostal Re\-Record 1982](https://open.spotify.com/track/6Z0Ex3xz4kCPEpubnFXlQH) | [Irwin Kostal](https://open.spotify.com/artist/1HmcCckVaFw44DHhZKuKgN), [Disney Studio Orchestra](https://open.spotify.com/artist/6D1uEwdsshGIFFYUKbKBfG) | [Walt Disney Records The Legacy Collection: Fantasia](https://open.spotify.com/album/0XXxxwNjdxo8DNuaUeMppt) | 8:45 | 2019-11-01 |  |
-| [Addams Family Theme](https://open.spotify.com/track/35rJ69XdeGIP9dcFKMrICJ) | [Amc Orchestra](https://open.spotify.com/artist/5RoU3hjYKEZYV8Zs5vee5B) | [Amc Presents Halloween Hits \- Music For A Monster Fest](https://open.spotify.com/album/6ltFnpJnHiIjZNg6lUzalj) | 1:27 | 2019-11-01 |  |
+| [Addams Family Theme](https://open.spotify.com/track/35rJ69XdeGIP9dcFKMrICJ) | [Amc Orchestra](https://open.spotify.com/artist/5RoU3hjYKEZYV8Zs5vee5B) | [Amc Presents Halloween Hits \- Music For A Monster Fest](https://open.spotify.com/album/6ltFnpJnHiIjZNg6lUzalj) | 1:27 | 2019-11-01 | 2023-12-25 |
+| [Addams Family Theme](https://open.spotify.com/track/4T7XXaRKnnvojIpbA7UwXS) | [Amc Orchestra](https://open.spotify.com/artist/5RoU3hjYKEZYV8Zs5vee5B) | [Amc Presents Halloween Hits \- Music For A Monster Fest](https://open.spotify.com/album/7qMdLTDyWSF0JI5xql7ii2) | 1:27 | 2019-11-01 |  |
 | [Arwrarwrirwrarwro](https://open.spotify.com/track/2aNVklYPur5d2nB7r0BrRo) | [31 Minutos](https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG) | [Arwrarwrirwrarwro \(Banda Sonora Original de la Cuarta Temporada\)](https://open.spotify.com/album/1YeHBkb7zNMGUU4wsR19Ew) | 2:29 | 2019-11-01 |  |
 | [Banana Boat \(Day\-O\)](https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC) | [Harry Belafonte](https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z) | [Calypso](https://open.spotify.com/album/5cBYisZzEb84qxMwXVfcT3) | 3:03 | 2019-11-01 |  |
 | [Bats \- Spanish](https://open.spotify.com/track/3hGkUb21DWPYFjNyRV7wsN) | [Twilight Sparkle](https://open.spotify.com/artist/53CQUfjaBNRwV2nFro1nac), [Pinkie Pie](https://open.spotify.com/artist/7ExZeMNpyKhYSokWo9riU5), [Rainbow Dash](https://open.spotify.com/artist/0iKnctG436f9uUKSuSFx2n), [Fluttershy](https://open.spotify.com/artist/2KL1HTA8ijZSuf7VJaL4OU), [Rarity](https://open.spotify.com/artist/6PqIHmHPCKrZoyLMf98era), [Apple Jack](https://open.spotify.com/artist/1r0v3fdCiqrr9mYtvbCccT) | [Friendship Is Magic: Songs Of Harmony \(Music From The Original TV Series\) \[Spanish Version\]](https://open.spotify.com/album/0oZEO0Je0xCZAL80Pg0QXs) | 2:22 | 2019-11-01 |  |

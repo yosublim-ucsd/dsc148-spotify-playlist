@@ -2554,7 +2554,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 406711,
       "name": "Sakal Ban",
       "url": "https://open.spotify.com/track/1TicbQ2crhIeZ1EzHlu1CU"
@@ -2580,6 +2580,28 @@
       "duration_ms": 406711,
       "name": "Sakal Ban",
       "url": "https://open.spotify.com/track/4Fd7FkdzHIJv781MXnv0lY"
+    },
+    {
+      "album": {
+        "name": "Sakal Ban (Coke Studio Season 8)",
+        "url": "https://open.spotify.com/album/622ZfxfKuZ9AUQ0RuhF0Ro"
+      },
+      "artists": [
+        {
+          "name": "Rizwan",
+          "url": "https://open.spotify.com/artist/51CkNYOrEaNCFHaW5XHeQ5"
+        },
+        {
+          "name": "Muazzam Ali Khan",
+          "url": "https://open.spotify.com/artist/2gpOH1RVAPuNbw2OdLGdOf"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406711,
+      "name": "Sakal Ban - Coke Studio Season 8",
+      "url": "https://open.spotify.com/track/3R5Isr6sd3mAsXJG3iFS0Z"
     },
     {
       "album": {

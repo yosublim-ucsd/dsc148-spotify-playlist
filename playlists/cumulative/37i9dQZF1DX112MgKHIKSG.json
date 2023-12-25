@@ -196,10 +196,28 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 275952,
       "name": "Children's Fete",
       "url": "https://open.spotify.com/track/1FeMD4VehSx5GKeH1n1F9F"
+    },
+    {
+      "album": {
+        "name": "Children's Fete",
+        "url": "https://open.spotify.com/album/3KiLWBM7IbkDjZRxfFrR8X"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig Stories",
+          "url": "https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275952,
+      "name": "Children's Fete",
+      "url": "https://open.spotify.com/track/1P7tZkqO2pb5lQcD2ZmB9C"
     },
     {
       "album": {
@@ -276,7 +294,7 @@
     {
       "album": {
         "name": "Detective Club",
-        "url": "https://open.spotify.com/album/0rh9nHl31jvE3pvjKg3QfT"
+        "url": "https://open.spotify.com/album/7oiPSgDzdJXU7BT630HYf1"
       },
       "artists": [
         {
@@ -287,6 +305,24 @@
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 273240,
+      "name": "Detective Club",
+      "url": "https://open.spotify.com/track/1yNrxCmP2DKt00GY9IjzLC"
+    },
+    {
+      "album": {
+        "name": "Detective Club",
+        "url": "https://open.spotify.com/album/0rh9nHl31jvE3pvjKg3QfT"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig Stories",
+          "url": "https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
       "duration_ms": 273240,
       "name": "Detective Club",
       "url": "https://open.spotify.com/track/4JisnwjbfA7f9QQzRaQHef"
@@ -473,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Peppa Pig: Family Stories",
+        "url": "https://open.spotify.com/album/3c1twHCTnFqgC2Re0NWuwo"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig Stories",
+          "url": "https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292823,
+      "name": "Grandpa Pig's Greenhouse",
+      "url": "https://open.spotify.com/track/0JKpXbfZTuiPmremiKiHRg"
+    },
+    {
+      "album": {
         "name": "Grandpa Pig's Greenhouse",
         "url": "https://open.spotify.com/album/0INJJ0vLQXZpUclqlbSUgB"
       },
@@ -484,7 +538,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 292860,
       "name": "Grandpa Pig's Greenhouse",
       "url": "https://open.spotify.com/track/5dtUmR3YwpQ8OK4pKri9Zg"
@@ -628,10 +682,28 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 264342,
       "name": "In the Future",
       "url": "https://open.spotify.com/track/2vBceP1h2dyvpzZeGH9NNU"
+    },
+    {
+      "album": {
+        "name": "In the Future",
+        "url": "https://open.spotify.com/album/3VXP8GFf0Uubw4WSHvcmJW"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig Stories",
+          "url": "https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264342,
+      "name": "In the Future",
+      "url": "https://open.spotify.com/track/6IMlnzjEybAhNzM4SH85lm"
     },
     {
       "album": {
@@ -780,6 +852,24 @@
     {
       "album": {
         "name": "Numbers",
+        "url": "https://open.spotify.com/album/3pAfF4pVHQ9oOOWEvq1Ucz"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig Stories",
+          "url": "https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304448,
+      "name": "Numbers",
+      "url": "https://open.spotify.com/track/1Qf7p1dubDwHPY9Q1qWh8P"
+    },
+    {
+      "album": {
+        "name": "Numbers",
         "url": "https://open.spotify.com/album/1F5lXNSKE3pXV6KaiEIRae"
       },
       "artists": [
@@ -790,7 +880,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 304448,
       "name": "Numbers",
       "url": "https://open.spotify.com/track/2GFjGY9lcKkt1CsrQu6MJM"
@@ -988,10 +1078,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 297557,
       "name": "Princess Peppa",
       "url": "https://open.spotify.com/track/1kcPCZrn7P8UYabYatATBm"
+    },
+    {
+      "album": {
+        "name": "Princess Peppa",
+        "url": "https://open.spotify.com/album/748jVbFaqKeDSzzvSS3DA2"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig Stories",
+          "url": "https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297557,
+      "name": "Princess Peppa",
+      "url": "https://open.spotify.com/track/7L2NOoV6gZClcUOuqOLZNn"
     },
     {
       "album": {
@@ -1114,10 +1222,28 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 293183,
       "name": "Sea, Sun and Snow",
       "url": "https://open.spotify.com/track/1cm49rUMUA8c2LwPFGTCLq"
+    },
+    {
+      "album": {
+        "name": "Sea, Sun and Snow",
+        "url": "https://open.spotify.com/album/4AUSwIjz6bTfeymU10SWY0"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig Stories",
+          "url": "https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293183,
+      "name": "Sea, Sun and Snow",
+      "url": "https://open.spotify.com/track/76TOAzxbJYS0IFSdxHqR7U"
     },
     {
       "album": {

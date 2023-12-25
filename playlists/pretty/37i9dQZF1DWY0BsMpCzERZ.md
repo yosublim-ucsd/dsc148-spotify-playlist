@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0BsMpCzERZ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,943 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,948 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0BsMpCzERZ.md) - [plain]
 | 34 | [Nothing On You \- Piano Version](https://open.spotify.com/track/1ZyKvHxpgMg7r76sjpTma0) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS) | [Nothing On You \(Piano Version\)](https://open.spotify.com/album/0BKtm5NcZZKVkYrJgbOiRn) | 4:03 |
 | 35 | [Is This Real Love?](https://open.spotify.com/track/2STIbgjW6oD4qc1odTNrqT) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [Is This Real Love?](https://open.spotify.com/album/4DqyXB4M4KTJQkeK9vrYmq) | 3:00 |
 | 36 | [Falling](https://open.spotify.com/track/4SJih6iDv4IjDez4mxsQCG) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Don't Forget to Look Up](https://open.spotify.com/album/5tjk1ytGtD0o0uSS52VkeK) | 3:26 |
-| 37 | [Find You](https://open.spotify.com/track/6TF0UViz2tE4ygW9NjmYWK) | [Maths Time Joy](https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK) | [Find You](https://open.spotify.com/album/6xzI3PZYo4aQb95vr4zSn3) | 3:43 |
+| 37 | [Find You](https://open.spotify.com/track/1rScQib8tvVKIB94nXAKnV) | [Maths Time Joy](https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK) | [Find You](https://open.spotify.com/album/6kCSe3NfQNK26goFpBeRLl) | 3:43 |
 | 38 | [Put a Light on Me \- Stripped](https://open.spotify.com/track/1oANNCA3RVoj3p7Vt3jALY) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Put A Light On Me \(Stripped\)](https://open.spotify.com/album/5PigBOL1vuIhpRyHeil9YA) | 3:06 |
 | 39 | [Remember \- Acoustic](https://open.spotify.com/track/1XCgS4fvY7GScfKXOHztJU) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Only Honest On The Weekend \(Deluxe\)](https://open.spotify.com/album/3sG8tSb0NOMsn2nmf8v9KA) | 2:58 |
 | 40 | [Rush](https://open.spotify.com/track/1xs8bOvm3IzEYmcLJVOc34) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 3:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0BsMpCzERZ.md) - [plain]
 | 49 | [Cross My Mind](https://open.spotify.com/track/6TKMXuPoDlPZYEkpS5CMB7) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Growth](https://open.spotify.com/album/4pCquj67SkPo5SNpJ5Rsjs) | 2:50 |
 | 50 | [American Boy \- Spotify Singles](https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Spotify Singles](https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO) | 3:19 |
 
-Snapshot ID: `MCxiZDRlODBhZDdjMGM4OGI1MDRlY2RhNWEwYTJlYjI0MjU3ZTllZTE3`
+Snapshot ID: `MCxhNmQ0M2M2NmFjNGQ1NjgyZTY0ODZhMTU5MzQ0OWM4YTdjMzA5YzI0`

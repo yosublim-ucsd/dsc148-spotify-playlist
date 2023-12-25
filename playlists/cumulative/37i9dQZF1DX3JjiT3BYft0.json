@@ -2044,7 +2044,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 240900,
       "name": "ON YOUR MARK",
       "url": "https://open.spotify.com/track/1879JEo8dy9KgWzhFwls6e"
@@ -5616,6 +5616,24 @@
       "duration_ms": 200566,
       "name": "\u30e9\u30b9\u30cf\u30d2\u309a\u30fc\u30db\u309a\u30fc!",
       "url": "https://open.spotify.com/track/0bX8x2CRgT6Am72RZ5zsgm"
+    },
+    {
+      "album": {
+        "name": "STAY GLOW",
+        "url": "https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV"
+      },
+      "artists": [
+        {
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324366,
+      "name": "\u30e9\u30f3\u30d6\u30ea\u30f3\u30b0\u30e1\u30e2\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/352gplUuCEr46jVV5Mm628"
     },
     {
       "album": {

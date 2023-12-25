@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: DOBé
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,819 likes - 86 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,928 likes - 86 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mascon](https://open.spotify.com/track/41o4ygpyMAyxm50l3SLNak) | [DOBé](https://open.spotify.com/artist/0eNEnjahhkwmbX24dSaRqX) | [Mascon](https://open.spotify.com/album/79BMcbRHCf9S7gMLvfZ5K9) | 4:28 |
 | 2 | [Elation](https://open.spotify.com/track/4Cih2XF3fN0i3PeXtxJzYt) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff), [Carlo Whale](https://open.spotify.com/artist/42J0pSvJGXvErpfYL1Nodj) | [Elation](https://open.spotify.com/album/5eMA8WZGJTKG8Hx1lWEnJv) | 5:56 |
-| 3 | [Hymnesia](https://open.spotify.com/track/2Wqw8VqMlpNYZTfIsRqYSA) | [Markus Klee](https://open.spotify.com/artist/15kBh7iMF03XANu9pcSAdN), [Beeast](https://open.spotify.com/artist/4IwGjwqfHFtnfzAX6TDwBq) | [Hymnesia](https://open.spotify.com/album/6m5tfCt1ZsLR3u3UYbHMDE) | 6:14 |
+| 3 | [Hymnesia](https://open.spotify.com/track/2Wqw8VqMlpNYZTfIsRqYSA) | [Markus Klee](https://open.spotify.com/artist/15kBh7iMF03XANu9pcSAdN), [BEEAST](https://open.spotify.com/artist/5MUtPjZ8UJxONYzEGZeArf) | [Hymnesia](https://open.spotify.com/album/6m5tfCt1ZsLR3u3UYbHMDE) | 6:14 |
 | 4 | [Nebula Mission](https://open.spotify.com/track/7lUGI3Q1f5TYNnAik6rWIT) | [AAD \(DE\)](https://open.spotify.com/artist/1iQt6buljlclV4Xgiyamfm), [Chris Veron](https://open.spotify.com/artist/1DgZ9kWEsYktFBYml3iK8S) | [Nebula Mission](https://open.spotify.com/album/6qXhpExs6tdghLFTfDWXdJ) | 4:14 |
 | 5 | [Aurora](https://open.spotify.com/track/0DKuolID1O6iUKt9AnZicH) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H) | [Aurora](https://open.spotify.com/album/4JzwxYFSHYpGR7Pq0rytji) | 5:21 |
 | 6 | [Kaliko \- Radio\-Edit](https://open.spotify.com/track/5EQ6Pw9BQtrEX4UrLHsHbY) | [Dole & Kom](https://open.spotify.com/artist/5iVuj2TcNIEBNnzGk97vfT) | [Kaliko \(Radio\-Edit\)](https://open.spotify.com/album/5pmhJHsY94BJmjrSnLRLVa) | 3:46 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 37 | [Atomic Rush](https://open.spotify.com/track/6k4Y1okqepCWT7ihgA4ruf) | [The Element MT](https://open.spotify.com/artist/1cjRHi3AfLz6fIIu8IaOTi) | [Atomic Rush](https://open.spotify.com/album/1jGmPkX2VyNR0PHncniGKA) | 5:34 |
 | 38 | [SUBMARINE](https://open.spotify.com/track/2ajKYSNnU7l89EJV8job8k) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [SUBMARINE](https://open.spotify.com/album/3t3RRbPtY3llgrDrI8ceLC) | 3:23 |
 | 39 | [Closer](https://open.spotify.com/track/1uRFqDldISYmGJAESdoi75) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC) | [Closer](https://open.spotify.com/album/5iy19WgRCZeihDAei3hxHQ) | 4:05 |
-| 40 | [Piece of Me](https://open.spotify.com/track/0kakTfgOZuWEt3Un92kk0A) | [Markus Klee](https://open.spotify.com/artist/15kBh7iMF03XANu9pcSAdN), [Beeast](https://open.spotify.com/artist/4IwGjwqfHFtnfzAX6TDwBq) | [Hymnesia](https://open.spotify.com/album/6m5tfCt1ZsLR3u3UYbHMDE) | 6:47 |
+| 40 | [Piece of Me](https://open.spotify.com/track/0kakTfgOZuWEt3Un92kk0A) | [Markus Klee](https://open.spotify.com/artist/15kBh7iMF03XANu9pcSAdN), [BEEAST](https://open.spotify.com/artist/5MUtPjZ8UJxONYzEGZeArf) | [Hymnesia](https://open.spotify.com/album/6m5tfCt1ZsLR3u3UYbHMDE) | 6:47 |
 | 41 | [Metamorphosis](https://open.spotify.com/track/1s2mYQ6BOx23amYPJptfxV) | [D\-Nox](https://open.spotify.com/artist/1TqcQwnBqloJrKkGs4l4LT), [Veljko Jovic](https://open.spotify.com/artist/3DGFlQr2WXYD4KFHbRD7j0), [Forniva](https://open.spotify.com/artist/54eegIFdFo0hijRryXN53G) | [Metamorphosis](https://open.spotify.com/album/30i2TZp9aAFShRGbDV3gqr) | 6:24 |
 | 42 | [An mir vorbei](https://open.spotify.com/track/6Rrh8qSmWMR8ysGVlaNlO4) | [Blindsmyth](https://open.spotify.com/artist/316jj0bjhfXGHGBEraGy7P) | [An mir vorbei](https://open.spotify.com/album/0GsVF1IeqzAi5TX4UlpyBk) | 7:32 |
 | 43 | [Dutch Lotus](https://open.spotify.com/track/4FPYjyiGGBQwtPqdqxluPi) | [SKALA](https://open.spotify.com/artist/43hoEqOilY8CNQ3hzms5Pq) | [Dutch Lotus](https://open.spotify.com/album/0NINcdGqD0GkKJKTan2Zt7) | 5:32 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 85 | [PETRICORE](https://open.spotify.com/track/7f9BnBBd58z9CRZHOhygWi) | [TEER](https://open.spotify.com/artist/6DAoPIKbym8tpSn4cAffWv) | [PETRICORE](https://open.spotify.com/album/4YyzLEHukTOoMFQJWqGHee) | 3:37 |
 | 86 | [BEYOND 70 \- Peachlyfe Remix](https://open.spotify.com/track/6j5k4TsLcGIl9LFFtqQ651) | [DJ MELL G](https://open.spotify.com/artist/2b7aFZjD6tpoR3fSDB9AoX), [peachlyfe](https://open.spotify.com/artist/7z5jhhZFj3xUTxipinFogh) | [ISSUES REMIXES](https://open.spotify.com/album/38WuyzVkjPfPjTCJ9195Et) | 6:05 |
 
-Snapshot ID: `MCxhZGE5NGM3MTlhOTgxZmViMDEyZWFkMTYwOGJhOWI3NTVhYzE3OTU3`
+Snapshot ID: `MCw0YjNmNjA5MWJkZjgyZmQ2NzM4Y2E1YTkxOWQxZDQ1MDE3MTE2M2Mz`

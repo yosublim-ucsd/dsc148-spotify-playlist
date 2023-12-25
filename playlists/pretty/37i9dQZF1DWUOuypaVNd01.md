@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Grone, Orochi, SD9, Big Bllakk
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,293 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,303 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 42 | [Paco de 100](https://open.spotify.com/track/7K8uNMveijYGBeOQ3cR9wo) | [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [Thai Flow](https://open.spotify.com/artist/5Ag6yKoGGYp66o9vtpH89s) | [Paco de 100](https://open.spotify.com/album/7fdTm9HaWOebHU81vG2vDE) | 2:53 |
 | 43 | [Versos Fortes](https://open.spotify.com/track/2JSezfMm00LI6LHRf4fsnZ) | [Blecaute](https://open.spotify.com/artist/3YWjrrBRyllQOX1NwCtfpX), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Versos Fortes](https://open.spotify.com/album/6IePf2BwfgsH31GWywtmcb) | 2:14 |
 | 44 | [Mente Livre 2.0](https://open.spotify.com/track/28j4gJgXCh0CmMpCMx09nX) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs) | [Mente Livre 2.0](https://open.spotify.com/album/1tpPk1gb5iQBBYT7wmnabD) | 3:28 |
-| 45 | [Papo De Ópera 2](https://open.spotify.com/track/3mYNDYsHiLxxOSJkSLHmO7) | [Grone](https://open.spotify.com/artist/6obeWNZwOJv7P9EzIvu9zt), [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0), [A Matilha](https://open.spotify.com/artist/5sgcMUmYMaHj2Rd99rGOWk), [Doidão Beats](https://open.spotify.com/artist/1SY2NQQLliQAXoi0YtGZQm) | [Maior Que O Amor, Só O Ódio](https://open.spotify.com/album/1SyRKMpzUFQHqMcJIzcc6X) | 2:17 |
-| 46 | [Diretamente do Rio](https://open.spotify.com/track/39iYTBGec9n0kaPn9eJggw) | [Baga](https://open.spotify.com/artist/6BbFS8BB3MT9nwTQKNDF9Q), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [GTA](https://open.spotify.com/artist/1d2nSDIlSzl93ajFcmVO2w), [Beat do Ávila](https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP) | [Diretamente do Rio](https://open.spotify.com/album/2Oqh0XdTGpSthDH8fuOyu8) | 3:03 |
+| 45 | [Diretamente do Rio](https://open.spotify.com/track/39iYTBGec9n0kaPn9eJggw) | [Baga](https://open.spotify.com/artist/6BbFS8BB3MT9nwTQKNDF9Q), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52), [GTA](https://open.spotify.com/artist/1d2nSDIlSzl93ajFcmVO2w), [Beat do Ávila](https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP) | [Diretamente do Rio](https://open.spotify.com/album/2Oqh0XdTGpSthDH8fuOyu8) | 3:03 |
+| 46 | [Papo De Ópera 2](https://open.spotify.com/track/3mYNDYsHiLxxOSJkSLHmO7) | [Grone](https://open.spotify.com/artist/6obeWNZwOJv7P9EzIvu9zt), [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0), [A Matilha](https://open.spotify.com/artist/5sgcMUmYMaHj2Rd99rGOWk), [Doidão Beats](https://open.spotify.com/artist/1SY2NQQLliQAXoi0YtGZQm) | [Maior Que O Amor, Só O Ódio](https://open.spotify.com/album/1SyRKMpzUFQHqMcJIzcc6X) | 2:17 |
 | 47 | [TODO DIA](https://open.spotify.com/track/5TV95jrxQilQxTLFok8kxK) | [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew) | [TODO DIA \- \(Drill de Verão\)](https://open.spotify.com/album/6kmklNIw2GN520PAZsAj0m) | 1:43 |
 | 48 | [Glória](https://open.spotify.com/track/60y8XUD4We3F0hN5PE8Qgo) | [RT Mallone](https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k), [Nauak](https://open.spotify.com/artist/1UUHsTLzraoVw9n5v0HuPu), [Muxima MC](https://open.spotify.com/artist/0fkAhbJcSHlrjk90oSNA0V), [Moraez](https://open.spotify.com/artist/7EUGyvtmko0FzyKP7oEXsa) | [Glória](https://open.spotify.com/album/3R8dPKSjdaQ62HCeMEjIIs) | 3:49 |
 | 49 | [Chavão](https://open.spotify.com/track/5sz8xfbQ7dkr4ggUZpATok) | [Ney Rodrí](https://open.spotify.com/artist/10SGtgEezop7sV6Le4UoLf), [DANDARO$](https://open.spotify.com/artist/2cJn9KL6C7AkdgsCV7XTCR) | [Chavão](https://open.spotify.com/album/0ZATod1zpCGAnD5gNin9CN) | 1:58 |
 | 50 | [rua escura](https://open.spotify.com/track/2Rw75HrWlCWi3is9l0jFax) | [Marabu](https://open.spotify.com/artist/0zx6DsOmLeuqXd9Ea9NIZc), [Ôbigo](https://open.spotify.com/artist/5GdbPRuCtjgWQ56Ab9MoCC) | [DIMALOKA, Vol.1: Denso](https://open.spotify.com/album/5f9LfhmljlqYlEVLEYImuC) | 3:00 |
 
-Snapshot ID: `MCxhMzJkODRiMGUyNDVhYWNhNzU5NjExYjUxYWRiZTZiNDFiMTdhZTA0`
+Snapshot ID: `MCxmNDE0Y2RhMmY4NDdkMTkxOTdlOTNlZWE3ZmU1YTFjOTIyMzJmOWI2`

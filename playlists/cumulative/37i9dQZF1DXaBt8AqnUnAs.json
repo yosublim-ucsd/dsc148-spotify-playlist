@@ -9363,6 +9363,28 @@
     },
     {
       "album": {
+        "name": "Matrix",
+        "url": "https://open.spotify.com/album/7HMJeHkmIyCxRSHotWeJ2K"
+      },
+      "artists": [
+        {
+          "name": "Brocasito",
+          "url": "https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Tudo Oque Quero",
+      "url": "https://open.spotify.com/track/3jHQypDRSnCMRO244MQSrA"
+    },
+    {
+      "album": {
         "name": "Tudo Que C\u00ea Quer",
         "url": "https://open.spotify.com/album/3K2MLjC4hP6aXFtumBbZ2O"
       },

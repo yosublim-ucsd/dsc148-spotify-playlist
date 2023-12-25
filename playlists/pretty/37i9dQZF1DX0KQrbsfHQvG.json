@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 190857,
+  "num_followers": 190915,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWExMmQ5YjMwMDk5MDFlOGIyZjdiZTlhZjZlY2Y5MGNkZTJkZWE4",
+  "snapshot_id": "MCxiZmQ3MTU1MjczNjJiNGFmZjg3MTk1YTc5NzBiZWRmYmExMmIxMjQ4",
   "tracks": [
     {
       "added_at": "2023-06-23 04:01:00",
@@ -1247,30 +1247,22 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "We Won\u2019t Go Back",
-        "url": "https://open.spotify.com/album/1CUsQWiNWr3LmAfB56Kpmm"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0aLxkTiBf1CQC726cDBA7m"
       },
       "artists": [
         {
-          "name": "MILCK",
-          "url": "https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8"
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
         },
         {
-          "name": "BIIANCO",
-          "url": "https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt"
-        },
-        {
-          "name": "Autumn Rowe",
-          "url": "https://open.spotify.com/artist/3gCzQpKxnHhJgOYpZRcEfH"
-        },
-        {
-          "name": "Ani DiFranco",
-          "url": "https://open.spotify.com/artist/0AiTwNtYX8m4uhfU7rJ8RD"
+          "name": "Run The Jewels",
+          "url": "https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C"
         }
       ],
-      "duration_ms": 200080,
-      "name": "We Won\u2019t Go Back",
-      "url": "https://open.spotify.com/track/1IdQoRuVaRyJlU5YwTLG3F"
+      "duration_ms": 171426,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/4KsMTsVpgVRQvPKhYkm0ff"
     }
   ],
   "unique_name": "Rise Up",

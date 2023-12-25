@@ -118,7 +118,7 @@
     {
       "album": {
         "name": "Lullaby Pop Hits 2019 (Instrumental)",
-        "url": "https://open.spotify.com/album/1hLfVcVC8KhpQgMJLZf8nL"
+        "url": "https://open.spotify.com/album/1DIDEhslScZfEet6zUTZaD"
       },
       "artists": [
         {
@@ -129,6 +129,24 @@
       "date_added": "2021-04-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 181706,
+      "name": "Beautiful People - Instrumental",
+      "url": "https://open.spotify.com/track/18zHctXZpTpfb7Hmpegter"
+    },
+    {
+      "album": {
+        "name": "Lullaby Pop Hits 2019 (Instrumental)",
+        "url": "https://open.spotify.com/album/1hLfVcVC8KhpQgMJLZf8nL"
+      },
+      "artists": [
+        {
+          "name": "Lullaby Players",
+          "url": "https://open.spotify.com/artist/1IVUK6wK1PvFI6adwUcoc4"
+        }
+      ],
+      "date_added": "2021-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
       "duration_ms": 181706,
       "name": "Beautiful People - Instrumental",
       "url": "https://open.spotify.com/track/6e8ausDddiGiiqCe2Zkliw"

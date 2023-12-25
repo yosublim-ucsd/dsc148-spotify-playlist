@@ -21138,10 +21138,28 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 161632,
       "name": "My idols lied to me (demo)",
       "url": "https://open.spotify.com/track/3N0iwKgN737SUrpKF4RAC9"
+    },
+    {
+      "album": {
+        "name": "My idols lied to me (demo)",
+        "url": "https://open.spotify.com/album/22mJ2EGt1Sn5utYOdfkgF4"
+      },
+      "artists": [
+        {
+          "name": "Aiyana-Lee",
+          "url": "https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161632,
+      "name": "My idols lied to me (demo)",
+      "url": "https://open.spotify.com/track/4YS4uX6DVahq756RiSJDtG"
     },
     {
       "album": {

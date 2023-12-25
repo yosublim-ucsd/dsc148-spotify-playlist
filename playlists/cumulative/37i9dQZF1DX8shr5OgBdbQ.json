@@ -513,6 +513,36 @@
     },
     {
       "album": {
+        "name": "Hoist the Colours (Bass Singers Version)",
+        "url": "https://open.spotify.com/album/4IhOtHh7kgmYJXLzS0SEzX"
+      },
+      "artists": [
+        {
+          "name": "Bobby Bass",
+          "url": "https://open.spotify.com/artist/0ZM2ioGGBOZ3NPTSUbuimj"
+        },
+        {
+          "name": "Daniel Brevik",
+          "url": "https://open.spotify.com/artist/0g1ScDyTSIJprId6DF9iP7"
+        },
+        {
+          "name": "Eric Hollaway",
+          "url": "https://open.spotify.com/artist/1h9NOlRgTGVBZdX3Zab79l"
+        },
+        {
+          "name": "Ebucs",
+          "url": "https://open.spotify.com/artist/0Sl22kYbJDXJoZvmOKe4XQ"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278442,
+      "name": "Hoist the Colours - Bass Singers Version",
+      "url": "https://open.spotify.com/track/6osGEhJCyLbneXgpcpKlUW"
+    },
+    {
+      "album": {
         "name": "Same Ship Different Day",
         "url": "https://open.spotify.com/album/7l23sIXASu6Sy4fSMCY2WI"
       },

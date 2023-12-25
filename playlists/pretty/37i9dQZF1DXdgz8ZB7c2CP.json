@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Fred again..",
-  "num_followers": 765875,
+  "num_followers": 765925,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDAyZWNjNDU1NjA2ZmM5Njg3M2M2OWMzMjA1ZTU4MjhmMWRlMjE2",
+  "snapshot_id": "MCxkMTczNWIwMWExMmU2ZTNjZWI0MzAyMzdiMTU1ZmM5MGUwM2E2NWNi",
   "tracks": [
     {
       "added_at": "2023-12-22 05:00:00",
@@ -679,6 +679,30 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
+        "name": "Ripple",
+        "url": "https://open.spotify.com/album/3HCEwjTot7RUhwiOWrVQbI"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Chrome Sparks",
+          "url": "https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM"
+        },
+        {
+          "name": "Sycco",
+          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
+        }
+      ],
+      "duration_ms": 214539,
+      "name": "Ripple",
+      "url": "https://open.spotify.com/track/0Xul1iN8b3j4uZlqCUssaP"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
         "name": "BRING BACK THE COLOR (feat. AURORA)",
         "url": "https://open.spotify.com/album/5F3hrGQ5xXSg7ZxNvvDUxo"
       },
@@ -719,30 +743,6 @@
       "duration_ms": 251862,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Ripple",
-        "url": "https://open.spotify.com/album/3HCEwjTot7RUhwiOWrVQbI"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Chrome Sparks",
-          "url": "https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM"
-        },
-        {
-          "name": "Sycco",
-          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
-        }
-      ],
-      "duration_ms": 214539,
-      "name": "Ripple",
-      "url": "https://open.spotify.com/track/0Xul1iN8b3j4uZlqCUssaP"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1103,6 +1103,26 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
+        "name": "Rushing Back",
+        "url": "https://open.spotify.com/album/5t11EjKtQLt7Eqnxab8pVI"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Vera Blue",
+          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
+        }
+      ],
+      "duration_ms": 231663,
+      "name": "Rushing Back",
+      "url": "https://open.spotify.com/track/2yXNGOlMz8ejsBjEnnPTir"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
         "name": "Aurora (Justin Hawkes Remix)",
         "url": "https://open.spotify.com/album/7lym9DZABBsuh37cWosYFi"
       },
@@ -1127,22 +1147,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "feelthisway / 3000 miles",
-        "url": "https://open.spotify.com/album/49dKlTV0eyQYHi7E9kcYaB"
-      },
-      "artists": [
-        {
-          "name": "pluko",
-          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "feelthisway",
-      "url": "https://open.spotify.com/track/3JVtezFwcpFAqvr4pdBBrd"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "Down The Line",
         "url": "https://open.spotify.com/album/2aBppqWbkkARYjUW6VoTxs"
       },
@@ -1155,6 +1159,22 @@
       "duration_ms": 208440,
       "name": "Down The Line",
       "url": "https://open.spotify.com/track/23ntTt28Gi43YbexAyAP8K"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "feelthisway / 3000 miles",
+        "url": "https://open.spotify.com/album/49dKlTV0eyQYHi7E9kcYaB"
+      },
+      "artists": [
+        {
+          "name": "pluko",
+          "url": "https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "feelthisway",
+      "url": "https://open.spotify.com/track/3JVtezFwcpFAqvr4pdBBrd"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1299,38 +1319,26 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Rushing Back",
-        "url": "https://open.spotify.com/album/5t11EjKtQLt7Eqnxab8pVI"
+        "name": "DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix]",
+        "url": "https://open.spotify.com/album/4dKYCpl0dDy01Lw2msVJBU"
       },
       "artists": [
         {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+          "name": "Billy Gillies",
+          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
         },
         {
-          "name": "Vera Blue",
-          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
-        }
-      ],
-      "duration_ms": 231663,
-      "name": "Rushing Back",
-      "url": "https://open.spotify.com/track/2yXNGOlMz8ejsBjEnnPTir"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Rising",
-        "url": "https://open.spotify.com/album/07ebiMBNS8qR2Lx6c3Sgy0"
-      },
-      "artists": [
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        },
         {
-          "name": "Duskus",
-          "url": "https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD"
+          "name": "Hannah Boleyn",
+          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
         }
       ],
-      "duration_ms": 294826,
-      "name": "Wild",
-      "url": "https://open.spotify.com/track/0WQnDBo5oqSnCDag5hSwVw"
+      "duration_ms": 176516,
+      "name": "DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix]",
+      "url": "https://open.spotify.com/track/2rAB0mDHnaOnfvFmaWUx0j"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1355,26 +1363,18 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix]",
-        "url": "https://open.spotify.com/album/4dKYCpl0dDy01Lw2msVJBU"
+        "name": "Rising",
+        "url": "https://open.spotify.com/album/07ebiMBNS8qR2Lx6c3Sgy0"
       },
       "artists": [
         {
-          "name": "Billy Gillies",
-          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
-        },
-        {
-          "name": "Levity",
-          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
-        },
-        {
-          "name": "Hannah Boleyn",
-          "url": "https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR"
+          "name": "Duskus",
+          "url": "https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD"
         }
       ],
-      "duration_ms": 176516,
-      "name": "DNA (Loving You) [feat. Hannah Boleyn] [Levity Remix]",
-      "url": "https://open.spotify.com/track/2rAB0mDHnaOnfvFmaWUx0j"
+      "duration_ms": 294826,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/0WQnDBo5oqSnCDag5hSwVw"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Pondering Minds",
-        "url": "https://open.spotify.com/album/0rXMwYMIcqCsH7fmnsimlN"
-      },
-      "artists": [
-        {
-          "name": "Just A Gent",
-          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
-        },
-        {
-          "name": "Khai",
-          "url": "https://open.spotify.com/artist/2nUgzaTpZZxmzOh2hGlp64"
-        }
-      ],
-      "duration_ms": 278504,
-      "name": "Pondering Minds",
-      "url": "https://open.spotify.com/track/36Pig1iSIarIq3NudqIPNM"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE]",
         "url": "https://open.spotify.com/album/5DAft4bZcUYr4hxHwgCoST"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 218581,
       "name": "(I Dread The Day He Takes You To) Paris [feat. MYRNE]",
       "url": "https://open.spotify.com/track/2FEF1UNTCXQjgFYhh0zAm6"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Pondering Minds",
+        "url": "https://open.spotify.com/album/0rXMwYMIcqCsH7fmnsimlN"
+      },
+      "artists": [
+        {
+          "name": "Just A Gent",
+          "url": "https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0"
+        },
+        {
+          "name": "Khai",
+          "url": "https://open.spotify.com/artist/2nUgzaTpZZxmzOh2hGlp64"
+        }
+      ],
+      "duration_ms": 278504,
+      "name": "Pondering Minds",
+      "url": "https://open.spotify.com/track/36Pig1iSIarIq3NudqIPNM"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1711,6 +1711,26 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
+        "name": "Palaces",
+        "url": "https://open.spotify.com/album/6SZtno2XqSmfr5MKsNeXmC"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "LAUREL",
+          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
+        }
+      ],
+      "duration_ms": 231803,
+      "name": "I Can't Tell (feat. LAUREL)",
+      "url": "https://open.spotify.com/track/6rqicO2m83wiLH6HcTRkZu"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
         "name": "EXISTENTIAL DANCE MUSIC",
         "url": "https://open.spotify.com/album/08B5vetD5dOlXKwFSDF4xz"
       },
@@ -1747,26 +1767,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Palaces",
-        "url": "https://open.spotify.com/album/6SZtno2XqSmfr5MKsNeXmC"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "LAUREL",
-          "url": "https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1"
-        }
-      ],
-      "duration_ms": 231803,
-      "name": "I Can't Tell (feat. LAUREL)",
-      "url": "https://open.spotify.com/track/6rqicO2m83wiLH6HcTRkZu"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "UNDER THE ILLUSION",
         "url": "https://open.spotify.com/album/3EcPBAQaJzFJdmML478ZiP"
       },
@@ -1779,22 +1779,6 @@
       "duration_ms": 214745,
       "name": "ALONE",
       "url": "https://open.spotify.com/track/48WQwHpOBN2718VEfvvKBC"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Undo U",
-        "url": "https://open.spotify.com/album/7Cr1Y5N2iMW4qKpiXH462f"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 122204,
-      "name": "Undo U",
-      "url": "https://open.spotify.com/track/4zaKOfQhWKkq9xhEvuevXU"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1819,6 +1803,42 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
+        "name": "Undo U",
+        "url": "https://open.spotify.com/album/7Cr1Y5N2iMW4qKpiXH462f"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 122204,
+      "name": "Undo U",
+      "url": "https://open.spotify.com/track/4zaKOfQhWKkq9xhEvuevXU"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "EXISTENTIAL DANCE MUSIC",
+        "url": "https://open.spotify.com/album/08B5vetD5dOlXKwFSDF4xz"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+        }
+      ],
+      "duration_ms": 232250,
+      "name": "ENERGY (feat. What So Not)",
+      "url": "https://open.spotify.com/track/56p7iNjfq5CAwYHAUtgcvl"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
         "name": "PUSHER",
         "url": "https://open.spotify.com/album/5spXU9wghS0EO78qdssXzs"
       },
@@ -1831,22 +1851,6 @@
       "duration_ms": 240000,
       "name": "BLINDED",
       "url": "https://open.spotify.com/track/3oQddpdMx2WTAVqxvNfmL8"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Arrived Anxious, Left Bored",
-        "url": "https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK"
-      },
-      "artists": [
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        }
-      ],
-      "duration_ms": 287546,
-      "name": "No Other 1.2.2 [2021 Export Wav]",
-      "url": "https://open.spotify.com/track/60yc5ZwNjlZifPlqTntbLA"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1887,22 +1891,18 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "EXISTENTIAL DANCE MUSIC",
-        "url": "https://open.spotify.com/album/08B5vetD5dOlXKwFSDF4xz"
+        "name": "Arrived Anxious, Left Bored",
+        "url": "https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK"
       },
       "artists": [
         {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
         }
       ],
-      "duration_ms": 232250,
-      "name": "ENERGY (feat. What So Not)",
-      "url": "https://open.spotify.com/track/56p7iNjfq5CAwYHAUtgcvl"
+      "duration_ms": 287546,
+      "name": "No Other 1.2.2 [2021 Export Wav]",
+      "url": "https://open.spotify.com/track/60yc5ZwNjlZifPlqTntbLA"
     },
     {
       "added_at": "2023-12-22 05:00:00",

@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: The Cleverlys
 
-254 songs - 16 hr 16 min
+255 songs - 16 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,8 @@
 | [Sex on Fire](https://open.spotify.com/track/23DqNr2t9vvi1tiS4vYqUB) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Iron Horse](https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t) | [The Bluegrass Tribute to Kings of Leon](https://open.spotify.com/album/3LUg97DulDP9QfHXVe7aKO) | 4:37 | 2021-08-20 |  |
 | [Shake It Off](https://open.spotify.com/track/2RJA3aJLOKR1Q7xBQKDmy4) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw) | [Pickin' On Taylor Swift, Vol\. 2](https://open.spotify.com/album/5daNt76eZrOrP994rm3byw) | 3:50 | 2021-08-20 |  |
 | [Shape Of You](https://open.spotify.com/track/7nrwVt1Zgt2r9WT6Yo9emQ) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [Solid Butter](https://open.spotify.com/album/4oJM8xjP495Q7WxcyYD3id) | 3:53 | 2023-07-28 |  |
-| [She Thinks I Still Care](https://open.spotify.com/track/6dLMYvXk5oBhxACr0PNvB0) | [Larry Sparks](https://open.spotify.com/artist/05c6W2NfXx6jxO28OGfPRA) | [It's Just Me](https://open.spotify.com/album/2n3PcUTqeReZYL980QVYOF) | 2:35 | 2023-03-31 |  |
+| [She Thinks I Still Care](https://open.spotify.com/track/3CVBN4atqGXxfq3rTQsyAe) | [Larry Sparks](https://open.spotify.com/artist/05c6W2NfXx6jxO28OGfPRA) | [It's Just Me](https://open.spotify.com/album/3ulf8YidiJhYjopCP9vNbF) | 2:35 | 2023-11-24 |  |
+| [She Thinks I Still Care](https://open.spotify.com/track/6dLMYvXk5oBhxACr0PNvB0) | [Larry Sparks](https://open.spotify.com/artist/05c6W2NfXx6jxO28OGfPRA) | [It's Just Me](https://open.spotify.com/album/2n3PcUTqeReZYL980QVYOF) | 2:35 | 2023-03-31 | 2023-12-25 |
 | [She's A Rainbow](https://open.spotify.com/track/5lxhQR0Zk1UjK9e3yzWexz) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:49 | 2021-08-20 |  |
 | [Simple Twist Of Fate](https://open.spotify.com/track/6Y5In9hWevpuyuGNqb6tXn) | [Leftover Salmon](https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz) | [Simple Twist Of Fate](https://open.spotify.com/album/7rQP96czGfr6EIzmkBomzm) | 4:58 | 2023-03-24 |  |
 | [Single Ladies \(Put a Ring On It\)](https://open.spotify.com/track/70OBOxYnVHt07Vgv1KgjKu) | [The Cleverlys](https://open.spotify.com/artist/6FcC7osOicG2aEqb2VrbhS) | [The Cleverlys](https://open.spotify.com/album/5XpJpEeeYJw0s8Q95T3Y6O) | 4:30 | 2021-08-20 |  |

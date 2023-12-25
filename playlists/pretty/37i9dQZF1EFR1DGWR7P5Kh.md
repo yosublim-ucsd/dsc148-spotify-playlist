@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1DGWR7P5Kh.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7dHJVvXzqeEgW9AgIGd5lv">Kaydence</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 715 likes - 31 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 715 likes - 31 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [7 rings](https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 2:58 |
-| 2 | [thank u, next](https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:27 |
+| 2 | [thank u, next](https://open.spotify.com/track/3mGQy4nq0o0fqnCGzUAF7e) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/5bT2hTkXIYDL8abudAEsuC) | 5:30 |
 | 3 | [NASA](https://open.spotify.com/track/4SPu0Ql902hTVXkBoNIYtq) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/6sUzNE1SPNLBXBCZs3PIAO) | 3:02 |
 | 4 | [better off](https://open.spotify.com/track/3NbTQ8ZbHU6MSEVUFAVCJ9) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 2:51 |
 | 5 | [Love Again](https://open.spotify.com/track/4zxcKfH4FcsMz3YitP2gG0) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 3:34 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1DGWR7P5Kh.md) - [plain]
 | 14 | [Baby Mama](https://open.spotify.com/track/2vF4tAlCnTCQnIFWLQ2VbL) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 3:14 |
 | 15 | [Rather Be \(with Kiana Ledé\)](https://open.spotify.com/track/4A3ndoCydKhWbeny68qmNC) | [D\-Nice](https://open.spotify.com/artist/4MbFOE7rR1KpTjHTw1gjWH), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Rather Be \(with Kiana Ledé\)](https://open.spotify.com/album/4l5OxJiSL2UXAvYjegmz4m) | 3:51 |
 | 16 | [Lucid Dreams](https://open.spotify.com/track/3TxvjfiCEb27MXPXGAW8JZ) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [B7](https://open.spotify.com/album/3qrqjSJilAHhhCYeSr7pD7) | 3:41 |
-| 17 | [Freedom Rings](https://open.spotify.com/track/3f9eR0IZrktbCSqPfxM9jr) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Freedom Rings](https://open.spotify.com/album/5yK7v9cHza2xr079MbaOCR) | 3:46 |
+| 17 | [Freedom Rings](https://open.spotify.com/track/7eVrZuqpbbaFnZoT97dOBn) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Freedom Rings](https://open.spotify.com/album/740GtdPevTeyubYLD00n4K) | 3:46 |
 | 18 | [To The People I Hurt](https://open.spotify.com/track/5Gy5bH3h91a6l2ZH4XXajE) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Midwest Kids Can Make It Big](https://open.spotify.com/album/2ICYFg0NfPljZc6nxjZk1X) | 3:23 |
 | 19 | [Morning mood](https://open.spotify.com/track/6afm7s2VOs2hX4WoFGym76) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [ハレンチ](https://open.spotify.com/album/7FlnNVqs9nwO2NKe37zxFh) | 2:58 |
 | 20 | [My Way \(feat\. Common, Lloyd & Kendrick Lamar\)](https://open.spotify.com/track/3MUTO5VJza3DjSGyAcyFtb) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Quality Street Music](https://open.spotify.com/album/7jjLwWQEYdRVChaNXX4EXm) | 3:38 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1DGWR7P5Kh.md) - [plain]
 | 30 | [One Time](https://open.spotify.com/track/4izDzEzyImtM7pnatHpj03) | [Vindata](https://open.spotify.com/artist/1Vxf1UfzcxqzqItoOA0DDT), [Kaydence](https://open.spotify.com/artist/1LSEHcEojfn4kn3z1KkRP2) | [With Opened Eyes](https://open.spotify.com/album/5ECjc1swRz9eytd7z1TKkW) | 4:22 |
 | 31 | [She Roam](https://open.spotify.com/track/0B0D7eu4ofuVlD8Jt0f8Up) | [Duvchi](https://open.spotify.com/artist/0Pv1zES3REvZ4OuYrW2tGc), [Kaydence](https://open.spotify.com/artist/1LSEHcEojfn4kn3z1KkRP2) | [This Kind of Ocean](https://open.spotify.com/album/0EF5o0sOBWv9jUdI9YXL18) | 3:32 |
 
-Snapshot ID: `MjgzODk3MzAsMDAwMDAwMDAwY2ZjNzMyM2M0M2IyN2M0ZGQ3YTk2Y2NjOWI0NWRiOQ==`
+Snapshot ID: `MjgzOTExNzAsMDAwMDAwMDA4ZWU0ODkzOTU1N2MxYzAzMjQzZTQwN2EzNDQ3Y2Q1Yw==`

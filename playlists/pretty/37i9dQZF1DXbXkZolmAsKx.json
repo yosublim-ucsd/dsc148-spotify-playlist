@@ -1,12 +1,12 @@
 {
   "description": "The best Ambient tracks from 2010 to 2019. ",
-  "num_followers": 7730,
+  "num_followers": 7743,
   "original_name": "Ambient 2010s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2YzYmVhNTQ5M2JlNWQyOWVkNTBmZDQ4MGU0N2RjODE2MzdlNDhl",
+  "snapshot_id": "MCwwNDY3ZWM3ZjVhOTFkZTFhZDQwNGU3NzE0NDFlZjQ3YmE2YWVkYjRh",
   "tracks": [
     {
       "added_at": "2023-06-07 15:21:34",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Void VIII",
-        "url": "https://open.spotify.com/album/5EFR1d59FzW9KkZO4lCJES"
-      },
-      "artists": [
-        {
-          "name": "Chihei Hatakeyama",
-          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
-        }
-      ],
-      "duration_ms": 244973,
-      "name": "Pulse",
-      "url": "https://open.spotify.com/track/7juphslZcWQqXJYeKXGUHS"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Gave in Rest",
         "url": "https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 210716,
       "name": "Gilded",
       "url": "https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Void VIII",
+        "url": "https://open.spotify.com/album/5EFR1d59FzW9KkZO4lCJES"
+      },
+      "artists": [
+        {
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        }
+      ],
+      "duration_ms": 244973,
+      "name": "Pulse",
+      "url": "https://open.spotify.com/track/7juphslZcWQqXJYeKXGUHS"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "Mono No Aware",
+        "url": "https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk"
+      },
+      "artists": [
+        {
+          "name": "Sky H1",
+          "url": "https://open.spotify.com/artist/4PWm0R7GT00XJa3TIFoUT4"
+        }
+      ],
+      "duration_ms": 230608,
+      "name": "Huit",
+      "url": "https://open.spotify.com/track/6VvOYb9aPWQnpFyvKKsYZW"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "Book of Life",
         "url": "https://open.spotify.com/album/7e65Zpmo09WHq49jHtx9rR"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 315720,
       "name": "Space 11 (Invisible Pages Over)",
       "url": "https://open.spotify.com/track/7uLFKKT99gXzjLhsOoDKwg"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Mono No Aware",
-        "url": "https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk"
-      },
-      "artists": [
-        {
-          "name": "Sky H1",
-          "url": "https://open.spotify.com/artist/4PWm0R7GT00XJa3TIFoUT4"
-        }
-      ],
-      "duration_ms": 230608,
-      "name": "Huit",
-      "url": "https://open.spotify.com/track/6VvOYb9aPWQnpFyvKKsYZW"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Goodbye To Language",
-        "url": "https://open.spotify.com/album/10bvLR2PyyfhP9xzU9feBu"
-      },
-      "artists": [
-        {
-          "name": "Daniel Lanois",
-          "url": "https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690"
-        }
-      ],
-      "duration_ms": 199517,
-      "name": "Blue Diamond",
-      "url": "https://open.spotify.com/track/0uiQHwjtQpvEClMkYjEhBi"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Nightmare Ending",
         "url": "https://open.spotify.com/album/1XKm22uQVwp5JLNjRDRC4P"
       },
@@ -1211,26 +1195,6 @@
       "duration_ms": 429986,
       "name": "Warm",
       "url": "https://open.spotify.com/track/0IFWJo11X5L7ZkFeW43H65"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/4josdBWbgaRcF4bEh7U7v4"
-      },
-      "artists": [
-        {
-          "name": "Ben Lukas Boysen",
-          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
-        },
-        {
-          "name": "Sebastian Plano",
-          "url": "https://open.spotify.com/artist/7epYP6gVqTvHaKG7iSMAzr"
-        }
-      ],
-      "duration_ms": 214668,
-      "name": "Opening",
-      "url": "https://open.spotify.com/track/7H3bUCNluOOnkBx5yQ9NwU"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1267,6 +1231,26 @@
       "duration_ms": 244786,
       "name": "Infra 1",
       "url": "https://open.spotify.com/track/3c7ZpMEp2doDCVm1Rw7Vf3"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/4josdBWbgaRcF4bEh7U7v4"
+      },
+      "artists": [
+        {
+          "name": "Ben Lukas Boysen",
+          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
+        },
+        {
+          "name": "Sebastian Plano",
+          "url": "https://open.spotify.com/artist/7epYP6gVqTvHaKG7iSMAzr"
+        }
+      ],
+      "duration_ms": 214668,
+      "name": "Opening",
+      "url": "https://open.spotify.com/track/7H3bUCNluOOnkBx5yQ9NwU"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1319,22 +1303,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Low Distance",
-        "url": "https://open.spotify.com/album/7eA7lexsBpvgs17la5jRc0"
-      },
-      "artists": [
-        {
-          "name": "Deaf Center",
-          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
-        }
-      ],
-      "duration_ms": 227458,
-      "name": "Faded Earth",
-      "url": "https://open.spotify.com/track/5d6YkxTsmw6isMtqsw8vzh"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Distant and Spirals",
         "url": "https://open.spotify.com/album/6SpGVAZE5ANPlGF4Nqme5R"
       },
@@ -1347,6 +1315,22 @@
       "duration_ms": 404210,
       "name": "Distant",
       "url": "https://open.spotify.com/track/4ORqFshD5gbl8GtOo8GMTI"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Low Distance",
+        "url": "https://open.spotify.com/album/7eA7lexsBpvgs17la5jRc0"
+      },
+      "artists": [
+        {
+          "name": "Deaf Center",
+          "url": "https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA"
+        }
+      ],
+      "duration_ms": 227458,
+      "name": "Faded Earth",
+      "url": "https://open.spotify.com/track/5d6YkxTsmw6isMtqsw8vzh"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1483,6 +1467,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "It All Falls Apart",
+        "url": "https://open.spotify.com/album/72ulSF7sPtSsSelZ7nX9Bg"
+      },
+      "artists": [
+        {
+          "name": "The Sight Below",
+          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
+        }
+      ],
+      "duration_ms": 374186,
+      "name": "Shimmer",
+      "url": "https://open.spotify.com/track/21UX5D3VofmRHPcU2id5k9"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "A Turn of Breath - Extended",
         "url": "https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ"
       },
@@ -1511,22 +1511,6 @@
       "duration_ms": 373003,
       "name": "Imprint (Bonus Track)",
       "url": "https://open.spotify.com/track/5Uze3DWsfe4DWEIe2KQqBN"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
-        "name": "It All Falls Apart",
-        "url": "https://open.spotify.com/album/72ulSF7sPtSsSelZ7nX9Bg"
-      },
-      "artists": [
-        {
-          "name": "The Sight Below",
-          "url": "https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY"
-        }
-      ],
-      "duration_ms": 374186,
-      "name": "Shimmer",
-      "url": "https://open.spotify.com/track/21UX5D3VofmRHPcU2id5k9"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1611,22 +1595,6 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "Similes",
-        "url": "https://open.spotify.com/album/6WCOXdRW57piDzJnKa1KpD"
-      },
-      "artists": [
-        {
-          "name": "Eluvium",
-          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
-        }
-      ],
-      "duration_ms": 209560,
-      "name": "Nightmare 5",
-      "url": "https://open.spotify.com/track/4vzKplloqpQhGyAiSte0z4"
-    },
-    {
-      "added_at": "2023-06-07 15:21:34",
-      "album": {
         "name": "Glider 10: Reworks",
         "url": "https://open.spotify.com/album/6TyK7H8NrVyaVQ3EYQc2kF"
       },
@@ -1643,6 +1611,22 @@
       "duration_ms": 348750,
       "name": "Further Away - Beno\u00eet Pioulard Rework",
       "url": "https://open.spotify.com/track/05ApgAqW3FKoDAR1uDe7zw"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
+        "name": "Similes",
+        "url": "https://open.spotify.com/album/6WCOXdRW57piDzJnKa1KpD"
+      },
+      "artists": [
+        {
+          "name": "Eluvium",
+          "url": "https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV"
+        }
+      ],
+      "duration_ms": 209560,
+      "name": "Nightmare 5",
+      "url": "https://open.spotify.com/track/4vzKplloqpQhGyAiSte0z4"
     },
     {
       "added_at": "2023-06-07 15:21:34",
@@ -1695,6 +1679,22 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
+        "name": "21 Exoticism ESCAP",
+        "url": "https://open.spotify.com/album/0ZdjiLjmm4hJyJHsfPyt4h"
+      },
+      "artists": [
+        {
+          "name": "White Rainbow",
+          "url": "https://open.spotify.com/artist/5xi43z2pbrEFFcxboQQKcq"
+        }
+      ],
+      "duration_ms": 197581,
+      "name": "Gentle Flight",
+      "url": "https://open.spotify.com/track/71LrMApAHFrst0uRGnp01X"
+    },
+    {
+      "added_at": "2023-06-07 15:21:34",
+      "album": {
         "name": "A Turn of Breath - Extended",
         "url": "https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ"
       },
@@ -1711,18 +1711,18 @@
     {
       "added_at": "2023-06-07 15:21:34",
       "album": {
-        "name": "21 Exoticism ESCAP",
-        "url": "https://open.spotify.com/album/0ZdjiLjmm4hJyJHsfPyt4h"
+        "name": "Sunlight of Oneness and Very Amazing Now",
+        "url": "https://open.spotify.com/album/5lNbnwuGwEeJ3MDtOVGU2v"
       },
       "artists": [
         {
-          "name": "White Rainbow",
-          "url": "https://open.spotify.com/artist/5xi43z2pbrEFFcxboQQKcq"
+          "name": "Phillip Wilkerson",
+          "url": "https://open.spotify.com/artist/035KTZW5eXWeVHZvkCGHPp"
         }
       ],
-      "duration_ms": 197581,
-      "name": "Gentle Flight",
-      "url": "https://open.spotify.com/track/71LrMApAHFrst0uRGnp01X"
+      "duration_ms": 556007,
+      "name": "Sunlight of Oneness",
+      "url": "https://open.spotify.com/track/12XE6yM8VZhcNq3Qx5lIEI"
     }
   ],
   "unique_name": "Ambient 2010s",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D3bsYM560s.md) - [plain]
 
 > Celebrating the extraordinary women breaking boundaries and keeping tradition alive\. Cover: Rhonda Vincent
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,277 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,298 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D3bsYM560s.md) - [plain]
 | 64 | [Losing You Blues](https://open.spotify.com/track/2TQjjGL6RPO1X0Yl3yrW9Y) | [Sister Sadie](https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8) | [Sister Sadie II](https://open.spotify.com/album/5IQbNt3C3LJZXiKG6oPc5C) | 2:48 |
 | 65 | [A Few Old Memories](https://open.spotify.com/track/32ZbqXDffP1uL57jEFKLGw) | [Olivia Ellen Lloyd](https://open.spotify.com/artist/0itd8fCSPL3NAu9CAhuHG0) | [A Few Old Memories](https://open.spotify.com/album/0LcaVpt8dbgrpH5MptMTB0) | 3:14 |
 | 66 | [Reedology](https://open.spotify.com/track/6Y1luylb1MShHo2Ok77alb) | [Missy Raines](https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep) | [My Place in the Sun](https://open.spotify.com/album/16YMR1IB6wzIxiMznLimbH) | 4:25 |
-| 67 | [Little Satchel](https://open.spotify.com/track/2NAtu56kCVNhTzu8Cz0NVN) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Little Satchel](https://open.spotify.com/album/3PLL0AGHcVDPgK03UR1H0T) | 3:17 |
+| 67 | [Little Satchel](https://open.spotify.com/track/1ym8cryelFHPD6k0FCocCh) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/0yKUSFsZyE1ckKUOp83onF) | 3:17 |
 | 68 | [Bridge You're Gonna Burn](https://open.spotify.com/track/1JNopLLdrPqDljHPtAcwuj) | [Tina Adair](https://open.spotify.com/artist/2YCut5KatUQQWryPQYPQZS) | [Bridge You're Gonna Burn](https://open.spotify.com/album/2jhtDobqNHp2sEPSiEJran) | 2:15 |
 | 69 | [Peace](https://open.spotify.com/track/588gkQjIowjdyCKfKaHc1B) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Follow Me Down](https://open.spotify.com/album/2cPpuYcfaL9t4CqPC8akAP) | 3:15 |
 | 70 | [Night Singing](https://open.spotify.com/track/6f249Hnx4ZO5Ioug2uS4r9) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [Under the Pepper Tree](https://open.spotify.com/album/3TXtmWk1jns96neZrOzZDc) | 2:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0D3bsYM560s.md) - [plain]
 | 99 | [Still Waters](https://open.spotify.com/track/2V7gZvxlaWRLLr8bh24KJj) | [Jaelee Roberts](https://open.spotify.com/artist/1coMW2XQFb50Rm8pBvwgHM) | [Still Waters](https://open.spotify.com/album/1kow6Yag9rCgmQyDmHXWj6) | 2:34 |
 | 100 | [Roses](https://open.spotify.com/track/3FFu0uOEWYckhG3x84G2Tw) | [Jackson Hollow](https://open.spotify.com/artist/2WCHpMBjtoxlCWKb8gedHW) | [Roses](https://open.spotify.com/album/2EfieuernrZzBlyGRh0Vsj) | 4:29 |
 
-Snapshot ID: `MCw5ZDUwZGRhNjE4MzE1YjExMmU3M2ViYmJiNzQ0OTY0ZWFiMDVkYmI5`
+Snapshot ID: `MCw1ZWY3MGIzYzkzOWMzOTJmNjA1YTE5YjM5MmFkNTQ2YTA2ODYzZmIy`

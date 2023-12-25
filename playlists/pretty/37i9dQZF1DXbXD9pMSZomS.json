@@ -1,12 +1,12 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 452755,
+  "num_followers": 452802,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjAwOTI2NzIwZTE5Njc4MDg5M2IyZjBlZTFjY2JjMWVjODU2YWY2",
+  "snapshot_id": "MCxmNDQ1ZWJlOThhYjgzNWNhNmIxZmMwZjdlZWIwNGRiNWE0MWY1ZjAw",
   "tracks": [
     {
       "added_at": "2023-10-27 15:01:02",
@@ -175,18 +175,22 @@
     {
       "added_at": "2023-10-27 15:01:02",
       "album": {
-        "name": "Hunch Music",
-        "url": "https://open.spotify.com/album/2Zkm6fLuFZ6gywkYeFsewV"
+        "name": "Le Funk",
+        "url": "https://open.spotify.com/album/60BqgLIFbLMXQTBiTQqiyp"
       },
       "artists": [
         {
-          "name": "Hunee",
-          "url": "https://open.spotify.com/artist/6uElH4moADg7AGB3DCGOwy"
+          "name": "Prunk",
+          "url": "https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG"
+        },
+        {
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
         }
       ],
-      "duration_ms": 351207,
-      "name": "Rare Happiness",
-      "url": "https://open.spotify.com/track/2bpvml9LqQIWz1wkiYUcv0"
+      "duration_ms": 239106,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/61k7UiVsYL4S19A2XgJYhi"
     },
     {
       "added_at": "2023-10-27 15:01:02",
@@ -207,22 +211,18 @@
     {
       "added_at": "2023-10-27 15:01:02",
       "album": {
-        "name": "Le Funk",
-        "url": "https://open.spotify.com/album/60BqgLIFbLMXQTBiTQqiyp"
+        "name": "Hunch Music",
+        "url": "https://open.spotify.com/album/2Zkm6fLuFZ6gywkYeFsewV"
       },
       "artists": [
         {
-          "name": "Prunk",
-          "url": "https://open.spotify.com/artist/6FJfLfGO9X2AVNz0sFscrG"
-        },
-        {
-          "name": "Dennis Quin",
-          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
+          "name": "Hunee",
+          "url": "https://open.spotify.com/artist/6uElH4moADg7AGB3DCGOwy"
         }
       ],
-      "duration_ms": 239106,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/61k7UiVsYL4S19A2XgJYhi"
+      "duration_ms": 351207,
+      "name": "Rare Happiness",
+      "url": "https://open.spotify.com/track/2bpvml9LqQIWz1wkiYUcv0"
     },
     {
       "added_at": "2023-10-27 15:01:02",

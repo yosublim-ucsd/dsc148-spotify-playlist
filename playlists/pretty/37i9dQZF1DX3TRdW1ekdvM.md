@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TRdW1ekdvM.md) - [plain]
 
 > Perfect sleep riding Theta brain waves\. It's Science, it works!
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,370 likes - 69 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,372 likes - 69 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TRdW1ekdvM.md) - [plain]
 | 20 | [Soothing Showers \(7hz Theta Waves\)](https://open.spotify.com/track/5Drs5nQjk7shCqbIK186hK) | [Binaural Universe](https://open.spotify.com/artist/6qUTJzdKCvey3G3fksmy1v) | [Earth at Rest: Binaural Nature](https://open.spotify.com/album/5uZjw4X6smJ2x9M7okSmIN) | 1:11 |
 | 21 | [Theta 4.5 Hz](https://open.spotify.com/track/1L2K0YLSfeKRAMOgvMwNtt) | [Brainwave Binaural Systems](https://open.spotify.com/artist/0wUzLDsBbnqu7Mqzg8fhWP) | [Deep States of Mind](https://open.spotify.com/album/0mYZcztVfxPLzJ4mPSH5cp) | 10:00 |
 | 22 | [Deep Theta 5 Hz](https://open.spotify.com/track/0YtajU0EG0ksJK8t60mTAA) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k), [Michael Manring](https://open.spotify.com/artist/3azoOASbeeRYOHv3ekSMRR) | [Deep Theta : High Coherence Soundscapes for Meditation and Healing](https://open.spotify.com/album/0YHfbeTtt3LAaOgsbd3h6z) | 7:35 |
-| 23 | [Theta Wave 5Hz](https://open.spotify.com/track/2n685RNPUFRPbZAKFiGoeM) | [Sleep Sound Library](https://open.spotify.com/artist/2HUwcmtXI5ee5Zo3nnThlV) | [Mellow Alpha Wave Sleep Songs](https://open.spotify.com/album/3tPjodj9pfIU4CJYaV7DAK) | 3:10 |
+| 23 | [Theta Wave 5Hz](https://open.spotify.com/track/1fRqxJApquykOfgXVZhmPn) | [Loopable Ambience](https://open.spotify.com/artist/45tSb81AgKpk13QoksIEK8), [Vacuum Cleaner White Noise](https://open.spotify.com/artist/1BjzNxqzIKFU4ySyuaAUrF) | [\#Quiet Ambience](https://open.spotify.com/album/30TXNWQkiKCgftn8Mqh04s) | 3:10 |
 | 24 | [Isochronic Theta 4 Hz](https://open.spotify.com/track/46QjXEOz739wuehiFIMQIi) | [Relaxation Sleep Meditation](https://open.spotify.com/artist/5f3oBa8B2mo3MeeIK7B2FE) | [Binaural Beats and Isochronic Programs](https://open.spotify.com/album/7LkpxT3LewPIMO5o2DxTfR) | 2:00 |
 | 25 | [Theta: Easy Sleep \- Extremely Relaxed 130 Hz: \(4 Hz: Binaural Beats \- Isochronic Tones\) \- Easy Sleep \- Extremely Relaxed](https://open.spotify.com/track/76HCNuEVtsmFpYByZsvSLU) | [My Meditation Music](https://open.spotify.com/artist/7osLWgmxesVyWxpOLMN600), [Binaural Beats Waves](https://open.spotify.com/artist/2ySEhB5dslPu36hAOATAQG), [Binaural Beats Noise](https://open.spotify.com/artist/1HIfN9zNAG8gJjDuN4IKuE) | [Theta: Easy Sleep: Extremely Relaxed 130 Hz: \(4 Hz: Binaural Beats Isochronic Tones\)](https://open.spotify.com/album/4lBpGtFqHdjJ5zvTjOLi6s) | 2:00 |
 | 26 | [Binaural Beats 6 Hz \- Theta Waves](https://open.spotify.com/track/64IGvjZPNHNfEh1KxFpqom) | [Binaural Beats System](https://open.spotify.com/artist/7HRhmruoIMEirMXt4cnsQT) | [Binaural Beats \- Pure Brian Tones \- \(For Study, Focus, Deep Sleep and Meditation\)](https://open.spotify.com/album/0SEAgXQXDlLfFkY0JGXDLI) | 5:00 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TRdW1ekdvM.md) - [plain]
 | 68 | [7.8 Hz Drone](https://open.spotify.com/track/29dNoIQv0NwNfzsx4k5rsC) | [Brainwave Binaural Systems](https://open.spotify.com/artist/0wUzLDsBbnqu7Mqzg8fhWP) | [Superdrone Progressive Relaxation](https://open.spotify.com/album/0Pl4VLTPJRQbQj4DOd8UvU) | 1:00 |
 | 69 | [REM Sleep](https://open.spotify.com/track/4DRjPZnK5p3RvaJyVcwQfQ) | [Deep Sleep System](https://open.spotify.com/artist/2yTl4Z3C6ridSOpqDJQKJ5), [Deep Dreams](https://open.spotify.com/artist/2FvoE645Zbx2jMO2Bf9POg), [Functional Music](https://open.spotify.com/artist/6x3iZBJHQbDTFh1lGccJLS) | [Fast Asleep 💤 \(Sleep Deeply All Night Long Listening To Relaxing Melodies In Bed Just Before Bedtime\)](https://open.spotify.com/album/4Q5ggnIAUrVAMNDKbirpsw) | 4:27 |
 
-Snapshot ID: `MCwwZDM1YTA2MzdkN2E1ZmY2OWE3NzNmMjkwMGZiM2ZmNGNiMDAwODli`
+Snapshot ID: `MCwzNzBhZDVmMDU0YTJkMGY3N2Q0NzA1ZDYxY2RjOWE0OTNiYzBiMDEz`

@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Lost
 
-2,242 songs - 4 day 23 hr 44 min
+2,243 songs - 4 day 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2198,7 +2198,7 @@
 | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/album/6uBCu9hARcX7SlAvOD501U) | 5:09 | 2022-08-19 | 2022-09-03 |
 | [Zayon](https://open.spotify.com/track/1lc3pzxx2Xsm0YwQwEpFVE) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Zayon](https://open.spotify.com/album/4XixYxgMhid00ACay6xpfN) | 3:32 | 2022-10-14 | 2022-10-29 |
 | [Zaza](https://open.spotify.com/track/3UCZaDvdrtT0qeVYpwUXum) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Zaza](https://open.spotify.com/album/4qtwEHbTm4hUnsa7F8EbLZ) | 2:28 | 2023-05-05 | 2023-06-24 |
-| [Zaza](https://open.spotify.com/track/3OrivvMTlCxjFMCA4pTHWC) | [Lujipeka](https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt) | [Weekend à Marseille](https://open.spotify.com/album/4a5CiieMuwTxkKcLqu0GdA) | 2:43 | 2023-12-08 |  |
+| [Zaza](https://open.spotify.com/track/3OrivvMTlCxjFMCA4pTHWC) | [Lujipeka](https://open.spotify.com/artist/1eTRyiHsWMoWKPD6s4Kiqt) | [Weekend à Marseille](https://open.spotify.com/album/4a5CiieMuwTxkKcLqu0GdA) | 2:43 | 2023-12-08 | 2023-12-25 |
 | [zzz](https://open.spotify.com/track/7dO2JbXPSd8MhXv38IKi2x) | [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [zzz](https://open.spotify.com/album/6CiyzGH2UrOvYFhQqiyPTP) | 3:07 | 2023-04-07 | 2023-04-29 |
 | [Zénith](https://open.spotify.com/track/7waEJapWACgWkq3by4intP) | [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [Zénith](https://open.spotify.com/album/1Co2Ay0gLh5D3yYkyoPk0r) | 2:36 | 2023-09-15 | 2023-11-04 |
 | [Zéyo](https://open.spotify.com/track/6Ju3oVK75PQRBRSSEY3aVr) | [Sos](https://open.spotify.com/artist/1EnJt9iisNqggNX4yF5xQU) | [Zéyo](https://open.spotify.com/album/6M33tgDJorF8PcGYMInvTa) | 2:47 | 2022-11-25 | 2022-12-10 |
@@ -2211,6 +2211,7 @@
 | [À l'aube](https://open.spotify.com/track/6TCqAnjf9GpTIeGIthLZg0) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [À l'aube](https://open.spotify.com/album/6tNyzj2OVtD3W4rVoNFA0I) | 3:03 | 2022-05-13 | 2022-05-20 |
 | [À l'inverse](https://open.spotify.com/track/4ljLseBCdBixUTd56quaVZ) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [À l'inverse](https://open.spotify.com/album/7uGFdMiWN1Mdk4tmwKSrnX) | 2:55 | 2023-09-08 | 2023-10-30 |
 | [À la danse](https://open.spotify.com/track/5hv4VnqMXXi4xD1dfOfigp) | [Émilie Landry](https://open.spotify.com/artist/09wVe7ulMAlyVMZpKEI5ar) | [À la danse](https://open.spotify.com/album/7AMrml4ZxzpDudV4IDEiis) | 3:26 | 2022-07-01 | 2022-07-16 |
+| [À La Faveur De L'automne](https://open.spotify.com/track/0DguFFo4yDAe2P8KfyCHTe) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP) | [Cesium](https://open.spotify.com/album/3OBZmTgqZ9IInlEWoRseIm) | 5:41 | 2023-12-22 |  |
 | [À la maison](https://open.spotify.com/track/262iZhl0uou39JD0irMRdX) | [Pièce sur Pièce](https://open.spotify.com/artist/3qYKJEdlcaY29kCX0ADiUU) | [EP3](https://open.spotify.com/album/2YtgCxAn3lAwBOidRQ8lDe) | 4:42 | 2022-02-04 | 2022-02-12 |
 | [À la rencontre de Barbara \(feat\. Standard Emmanuel\)](https://open.spotify.com/track/0xDNmS1FLbONayk21JM7NT) | [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy), [Standard Emmanuel](https://open.spotify.com/artist/03eMkqsGXAfGVyH9DvbO7D) | [À la rencontre de Barbara \(feat\. Standard Emmanuel\)](https://open.spotify.com/album/6HxlVrZdTIK2KXSJ5GhIw4) | 5:33 | 2023-08-18 | 2023-08-26 |
 | [À la tête du monde](https://open.spotify.com/track/04Be4rY9wl1DmvO4YiYjtJ) | [Taktika](https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3), [Pagail](https://open.spotify.com/artist/4ZYhY3xoiTwIhNL5Mx7HH1) | [À la tête du monde](https://open.spotify.com/album/0hRslk316odnBngGPsjaFE) | 4:10 | 2022-08-26 | 2022-09-10 |

@@ -1041,6 +1041,24 @@
     },
     {
       "album": {
+        "name": "Regalo Equivocado",
+        "url": "https://open.spotify.com/album/6JOATRxZMwB5ynab1lbmca"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Regalo Equivocado",
+      "url": "https://open.spotify.com/track/757k8ihiJpyRpEYPdY9yk9"
+    },
+    {
+      "album": {
         "name": "El Tirador",
         "url": "https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ"
       },

@@ -4,7 +4,7 @@
 
 > The newest r&b drops, every week\. Cover: Wizkid
 
-1,894 songs - 4 day 4 hr 52 min
+1,895 songs - 4 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1089,7 +1089,8 @@
 | [My Dirty Desire](https://open.spotify.com/track/6LghA3bvjS9btadUaJt4Io) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Bewilderment](https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu) | 3:26 | 2023-08-18 | 2023-09-23 |
 | [My Heart](https://open.spotify.com/track/0eQjeOTNSzUudwy7dyTExY) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [My Heart](https://open.spotify.com/album/2Pw6yUJVTGSqYiDHriSGX2) | 1:44 | 2022-12-16 | 2023-01-21 |
 | [MY HOUSE](https://open.spotify.com/track/7omJfT9s6V2IpQNBYyq5C8) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [MY HOUSE](https://open.spotify.com/album/1H1ivGeE2LjPjE71OITTZs) | 4:22 | 2023-12-01 |  |
-| [My idols lied to me \(demo\)](https://open.spotify.com/track/3N0iwKgN737SUrpKF4RAC9) | [Aiyana\-Lee](https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln) | [My idols lied to me \(demo\)](https://open.spotify.com/album/6uXOPFjHlRo32evUxFZ16o) | 2:41 | 2023-12-08 |  |
+| [My idols lied to me \(demo\)](https://open.spotify.com/track/3N0iwKgN737SUrpKF4RAC9) | [Aiyana\-Lee](https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln) | [My idols lied to me \(demo\)](https://open.spotify.com/album/6uXOPFjHlRo32evUxFZ16o) | 2:41 | 2023-12-08 | 2023-12-25 |
+| [My idols lied to me \(demo\)](https://open.spotify.com/track/4YS4uX6DVahq756RiSJDtG) | [Aiyana\-Lee](https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln) | [My idols lied to me \(demo\)](https://open.spotify.com/album/22mJ2EGt1Sn5utYOdfkgF4) | 2:41 | 2023-12-08 |  |
 | [My Love](https://open.spotify.com/track/5MzQInSkVMQhfrSGIPE2JT) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [GREENZONE 108](https://open.spotify.com/album/2ygXPIqdYAq3qiTHjkPH0a) | 4:10 | 2022-09-09 | 2022-10-01 |
 | [My Luv \(feat\. Bibi Bourelly\)](https://open.spotify.com/track/5nrzA4GIsgS1wdwY3q7cnt) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3), [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7) | [My Luv \(feat\. Bibi Bourelly\)](https://open.spotify.com/album/2wzmoGlE1JlvlASjEF3WRQ) | 2:32 | 2023-02-10 | 2023-04-09 |
 | [My Mind](https://open.spotify.com/track/3J0myWc0Pp8WPbn69l42dk) | [Ivory Scott](https://open.spotify.com/artist/3fpp6yYqQevscivKbtpgPF), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [My Mind](https://open.spotify.com/album/7sMsVy6xRIRCOOX2QAXiVk) | 2:37 | 2023-09-29 | 2023-10-28 |

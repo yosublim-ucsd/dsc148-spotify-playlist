@@ -4,7 +4,7 @@
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-143 songs - 16 hr 13 min
+144 songs - 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,8 +123,9 @@
 | [Sajdaa](https://open.spotify.com/track/5upmbnXemLfPvs3d2eyHml) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Richa Sharma](https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W) | [My Name Is Khan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3U2w8t9JJNx2SrUkdY7XRa) | 6:05 | 2022-06-21 | 2022-07-29 |
 | [Sajdaa \(From "My Name Is Khan"\)](https://open.spotify.com/track/5IusvPjigpXQOcJkUUoMN0) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Richa Sharma](https://open.spotify.com/artist/2hgViyN0RqyQQpfjIb0g3W) | [Best of SEL](https://open.spotify.com/album/1DoUBepfjvwB1NXGGKyDSF) | 6:05 | 2022-08-02 | 2022-10-25 |
 | [Sakal Ban](https://open.spotify.com/track/7lIj8hmniizy1UGUAHimXV) | [Rizwan](https://open.spotify.com/artist/51CkNYOrEaNCFHaW5XHeQ5), [Muazzam](https://open.spotify.com/artist/2HRUxGGvyo4L9mJwMSQpd3) | [Coke Studio: Season 8](https://open.spotify.com/album/3peJK6wepWMSteaniFjkbz) | 6:46 | 2023-09-08 | 2023-12-09 |
-| [Sakal Ban](https://open.spotify.com/track/1TicbQ2crhIeZ1EzHlu1CU) | [Rizwan](https://open.spotify.com/artist/51CkNYOrEaNCFHaW5XHeQ5), [Muazzam Ali Khan](https://open.spotify.com/artist/2gpOH1RVAPuNbw2OdLGdOf) | [Coke Studio: Season 8](https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B) | 6:46 | 2023-11-17 |  |
+| [Sakal Ban](https://open.spotify.com/track/1TicbQ2crhIeZ1EzHlu1CU) | [Rizwan](https://open.spotify.com/artist/51CkNYOrEaNCFHaW5XHeQ5), [Muazzam Ali Khan](https://open.spotify.com/artist/2gpOH1RVAPuNbw2OdLGdOf) | [Coke Studio: Season 8](https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B) | 6:46 | 2023-11-17 | 2023-12-25 |
 | [Sakal Ban](https://open.spotify.com/track/4Fd7FkdzHIJv781MXnv0lY) | [Rizwan](https://open.spotify.com/artist/51CkNYOrEaNCFHaW5XHeQ5), [Muazzam Ali Khan](https://open.spotify.com/artist/2gpOH1RVAPuNbw2OdLGdOf) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 6:46 | 2022-08-02 | 2023-10-08 |
+| [Sakal Ban \- Coke Studio Season 8](https://open.spotify.com/track/3R5Isr6sd3mAsXJG3iFS0Z) | [Rizwan](https://open.spotify.com/artist/51CkNYOrEaNCFHaW5XHeQ5), [Muazzam Ali Khan](https://open.spotify.com/artist/2gpOH1RVAPuNbw2OdLGdOf) | [Sakal Ban \(Coke Studio Season 8\)](https://open.spotify.com/album/622ZfxfKuZ9AUQ0RuhF0Ro) | 6:46 | 2023-11-17 |  |
 | [Salaam](https://open.spotify.com/track/69gnztZiBrymiPoZmiZf8n) | [Shiraz Uppal](https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy) | [Salaam](https://open.spotify.com/album/10F3wxfHMiYO6De0UPF3X2) | 4:37 | 2022-06-21 |  |
 | [Saleh Ala Nabi Yena](https://open.spotify.com/track/6ryrT2boTQP2huczlp8LG8) | [Mehak Ali](https://open.spotify.com/artist/6XnTAfn0rCJ6hrABktaOIW) | [Saleh Ala Nabi Yena](https://open.spotify.com/album/4vUkV0onvQs0qqYv53GB8u) | 4:38 | 2022-06-21 |  |
 | [Sanoon Ek Pal Chain](https://open.spotify.com/track/0GGNrYfrOQHlzmVQn3gsPJ) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Mehfil\-E\-Sama Nusrat Fateh Ali Khan In Concert Vol\. 28](https://open.spotify.com/album/0HqkvHiAEVXknfIbwGWIDZ) | 12:47 | 2022-08-02 |  |

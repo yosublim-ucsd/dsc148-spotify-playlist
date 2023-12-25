@@ -1,12 +1,12 @@
 {
-  "description": "100% Pinoy hits from your favorite artists! Cover: Sarah Geronimo",
-  "num_followers": 2450980,
+  "description": "100% Pinoy hits from your favorite artists! Cover: Yeng Constantino",
+  "num_followers": 2451361,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzQzZmYzZDRhMTNjMDZlMWEzZjU4OWNjOGJjY2I1NWFkMTkyODQ5",
+  "snapshot_id": "MCwyYzZhOTFjYzE5NzExYjc3NTFlM2M5ODBjYTRiNzEyYWQyNWVlYjlj",
   "tracks": [
     {
       "added_at": "2023-09-13 05:36:31",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
+        "name": "Langit Mong Bughaw",
+        "url": "https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr"
+      },
+      "artists": [
+        {
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+        }
+      ],
+      "duration_ms": 285138,
+      "name": "Sa Ngalan Ng Pag-Ibig",
+      "url": "https://open.spotify.com/track/1FnPkOlWCMwRtfXeAAuhMu"
+    },
+    {
+      "added_at": "2023-09-13 05:36:31",
+      "album": {
         "name": "Pauwi Nako",
         "url": "https://open.spotify.com/album/33qqYIFSFSVYO3wCkc1Ksh"
       },
@@ -667,22 +683,6 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
-        "name": "Langit Mong Bughaw",
-        "url": "https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr"
-      },
-      "artists": [
-        {
-          "name": "December Avenue",
-          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
-        }
-      ],
-      "duration_ms": 285138,
-      "name": "Sa Ngalan Ng Pag-Ibig",
-      "url": "https://open.spotify.com/track/1FnPkOlWCMwRtfXeAAuhMu"
-    },
-    {
-      "added_at": "2023-09-13 05:36:31",
-      "album": {
         "name": "Maybe The Night",
         "url": "https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e"
       },
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
-        "name": "Bahala Na",
-        "url": "https://open.spotify.com/album/38K1I3Ij268DtPqJqYcY6U"
-      },
-      "artists": [
-        {
-          "name": "Kenaniah",
-          "url": "https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS"
-        }
-      ],
-      "duration_ms": 228688,
-      "name": "Bahala Na",
-      "url": "https://open.spotify.com/track/0kDeE8TezXDY1QadpjAQQq"
-    },
-    {
-      "added_at": "2023-09-13 05:36:31",
-      "album": {
         "name": "Langit. Luha.",
         "url": "https://open.spotify.com/album/6L9ym5oi9qCCJgYyVxgwxn"
       },
@@ -779,18 +763,18 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
-        "name": "Mahika",
-        "url": "https://open.spotify.com/album/65PZ3P2MKJuSAVCMM9WWkA"
+        "name": "Bahala Na",
+        "url": "https://open.spotify.com/album/38K1I3Ij268DtPqJqYcY6U"
       },
       "artists": [
         {
-          "name": "TJ Monterde",
-          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
+          "name": "Kenaniah",
+          "url": "https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS"
         }
       ],
-      "duration_ms": 210586,
-      "name": "Mahika",
-      "url": "https://open.spotify.com/track/0Pafr67ogSuAur2L3DxB4b"
+      "duration_ms": 228688,
+      "name": "Bahala Na",
+      "url": "https://open.spotify.com/track/0kDeE8TezXDY1QadpjAQQq"
     },
     {
       "added_at": "2023-09-13 05:36:31",
@@ -807,6 +791,22 @@
       "duration_ms": 253013,
       "name": "Tell Me Where It Hurts",
       "url": "https://open.spotify.com/track/4v8P0GLVWoFojZJgecPGcm"
+    },
+    {
+      "added_at": "2023-09-13 05:36:31",
+      "album": {
+        "name": "Mahika",
+        "url": "https://open.spotify.com/album/65PZ3P2MKJuSAVCMM9WWkA"
+      },
+      "artists": [
+        {
+          "name": "TJ Monterde",
+          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
+        }
+      ],
+      "duration_ms": 210586,
+      "name": "Mahika",
+      "url": "https://open.spotify.com/track/0Pafr67ogSuAur2L3DxB4b"
     },
     {
       "added_at": "2023-09-13 05:36:31",
@@ -843,18 +843,18 @@
     {
       "added_at": "2023-09-13 05:36:31",
       "album": {
-        "name": "Monodramatic",
-        "url": "https://open.spotify.com/album/3ZlePmbDly7zZxzi8MdWib"
+        "name": "Freestyle",
+        "url": "https://open.spotify.com/album/23urE9jm4wugYqmxANnDut"
       },
       "artists": [
         {
-          "name": "Silent Sanctuary",
-          "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
+          "name": "Freestyle",
+          "url": "https://open.spotify.com/artist/0jarApAsbmiCkYhz0590mE"
         }
       ],
-      "duration_ms": 253360,
-      "name": "Sa'yo",
-      "url": "https://open.spotify.com/track/3Poi6rJ2p1G5ZrsRmCFH7e"
+      "duration_ms": 289266,
+      "name": "Before I Let You Go",
+      "url": "https://open.spotify.com/track/220IyLzKO1Y0Gxt4pTU5eZ"
     }
   ],
   "unique_name": "OPM Favorites",

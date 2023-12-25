@@ -896,10 +896,28 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 273000,
       "name": "Indiscipline",
       "url": "https://open.spotify.com/track/4hnB3tR0ueIBnkaIvrlZtC"
+    },
+    {
+      "album": {
+        "name": "Discipline",
+        "url": "https://open.spotify.com/album/20dTbQRkxuOTkf3SFyaT2m"
+      },
+      "artists": [
+        {
+          "name": "King Crimson",
+          "url": "https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273000,
+      "name": "Indiscipline",
+      "url": "https://open.spotify.com/track/5FvRkKujcquFV4wma9QAfj"
     },
     {
       "album": {

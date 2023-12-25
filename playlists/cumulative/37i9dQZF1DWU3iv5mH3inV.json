@@ -7908,10 +7908,32 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 120994,
       "name": "Se No Gaste",
       "url": "https://open.spotify.com/track/0R8B8WYvdLLUXrtNDL11Wb"
+    },
+    {
+      "album": {
+        "name": "Se Nos Gaste",
+        "url": "https://open.spotify.com/album/0zxEY9GAMmSk7jkP3xhi1k"
+      },
+      "artists": [
+        {
+          "name": "Yoan Retro",
+          "url": "https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi"
+        },
+        {
+          "name": "El Baby R",
+          "url": "https://open.spotify.com/artist/0sJpqQouXqn3gKQrsN1JET"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120994,
+      "name": "Se Nos Gaste",
+      "url": "https://open.spotify.com/track/2SsRIkIxgsBsASmvmyJjxa"
     },
     {
       "album": {

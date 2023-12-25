@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: HYBS, GANGGA
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,134 likes - 54 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,174 likes - 54 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 53 | [Try](https://open.spotify.com/track/01nkbGifRqRnRN7p8I8w4u) | [dopameen](https://open.spotify.com/artist/29ZvIa5tO8jkzpnYI52b8T) | [Try](https://open.spotify.com/album/6kc1YOjfDWiF3o6N5qUyvB) | 3:47 |
 | 54 | [Holiday](https://open.spotify.com/track/5IlPh2lpknbaVoB7pytO6t) | [Summer Will End](https://open.spotify.com/artist/44choK7c5Uf5GKBzwZ7cQY) | [Holiday](https://open.spotify.com/album/2xIW65knjZO5DBlsTBFiHl) | 2:47 |
 
-Snapshot ID: `MCwzZWU5MzM0MWE4OTMyYjRkMTZkNDJmN2NlZDlhYTM2YjFlZjk2OTlj`
+Snapshot ID: `MCwxMzgyODQ0ZGMwZjQxYzllNGM0ZjRjMmEyOTEyOTIwZGRjOTdhNGY4`

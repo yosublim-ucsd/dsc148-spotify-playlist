@@ -1787,6 +1787,24 @@
     },
     {
       "album": {
+        "name": "Cumbia Mundial",
+        "url": "https://open.spotify.com/album/5qevS0pmqfWaIpRrCD81fH"
+      },
+      "artists": [
+        {
+          "name": "Sonido de la Frontera",
+          "url": "https://open.spotify.com/artist/0bHro9hNjlh1uyhCeEnYYx"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259795,
+      "name": "Cumbia Panadero",
+      "url": "https://open.spotify.com/track/7fRuzPdvA1IWQPow6vFAlx"
+    },
+    {
+      "album": {
         "name": "R\u00edo Arriba",
         "url": "https://open.spotify.com/album/64YiuDZw5jozMxQHSldAej"
       },
@@ -2700,7 +2718,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 217954,
       "name": "Feel Good (feat. Khruangbin) - Edit",
       "url": "https://open.spotify.com/track/5EhyJGUafXNnPniaIQnSER"

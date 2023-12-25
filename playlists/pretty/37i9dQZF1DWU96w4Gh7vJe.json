@@ -1,12 +1,12 @@
 {
   "description": "Sit back and relax to our favorite local indie and R&B sounds.",
-  "num_followers": 595426,
+  "num_followers": 595451,
   "original_name": "Relax Tayo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzVjZGVhNTRhOTQzZDNiNmRkZWFmZjFlMDU4NmY3ZGI2NmJjNGQ5",
+  "snapshot_id": "MCwyMWJiZmQ0NjVmZTQ4NmFjZjlhYWIzZDM4YjczYzE5ZTE2NTBkODhh",
   "tracks": [
     {
       "added_at": "2023-12-08 07:32:26",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
-        "name": "Kursunada",
-        "url": "https://open.spotify.com/album/3UtNIGkQvgd4V5qJxQrebA"
-      },
-      "artists": [
-        {
-          "name": "Adie",
-          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
-        }
-      ],
-      "duration_ms": 179117,
-      "name": "Kursunada",
-      "url": "https://open.spotify.com/track/0vDzg5rADviX5YizHGo6UU"
-    },
-    {
-      "added_at": "2023-12-08 07:32:26",
-      "album": {
         "name": "Teka Lang",
         "url": "https://open.spotify.com/album/0QK7IkS5mne9e95ef0BjAE"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 196582,
       "name": "Teka Lang",
       "url": "https://open.spotify.com/track/3CP6W4N2CnsZgejmUprD6v"
+    },
+    {
+      "added_at": "2023-12-08 07:32:26",
+      "album": {
+        "name": "Kursunada",
+        "url": "https://open.spotify.com/album/3UtNIGkQvgd4V5qJxQrebA"
+      },
+      "artists": [
+        {
+          "name": "Adie",
+          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
+        }
+      ],
+      "duration_ms": 179117,
+      "name": "Kursunada",
+      "url": "https://open.spotify.com/track/0vDzg5rADviX5YizHGo6UU"
     },
     {
       "added_at": "2023-12-08 07:32:26",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
+        "name": "Episode III",
+        "url": "https://open.spotify.com/album/6bMej3xtNOTiiHLdhR4wzX"
+      },
+      "artists": [
+        {
+          "name": "South Border",
+          "url": "https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv"
+        }
+      ],
+      "duration_ms": 347120,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/3VcVQmMivq2ISfKUmIuvMK"
+    },
+    {
+      "added_at": "2023-12-08 07:32:26",
+      "album": {
         "name": "Aking Pahinga",
         "url": "https://open.spotify.com/album/5dO0Qwl40jXrQ4NCmRRuvb"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 274285,
       "name": "Aking Pahinga",
       "url": "https://open.spotify.com/track/6zcjOnMaymoEbG32dWekXi"
-    },
-    {
-      "added_at": "2023-12-08 07:32:26",
-      "album": {
-        "name": "Episode III",
-        "url": "https://open.spotify.com/album/6bMej3xtNOTiiHLdhR4wzX"
-      },
-      "artists": [
-        {
-          "name": "South Border",
-          "url": "https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv"
-        }
-      ],
-      "duration_ms": 347120,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/3VcVQmMivq2ISfKUmIuvMK"
     },
     {
       "added_at": "2023-12-08 07:32:26",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-12-08 07:32:26",
       "album": {
-        "name": "Bakit?",
-        "url": "https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI"
-      },
-      "artists": [
-        {
-          "name": "Maki",
-          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
-        }
-      ],
-      "duration_ms": 194442,
-      "name": "Bakit?",
-      "url": "https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV"
-    },
-    {
-      "added_at": "2023-12-08 07:32:26",
-      "album": {
         "name": "Ultraelectromagnetic Jam",
         "url": "https://open.spotify.com/album/7tfDmiKEApFiZmT5MzIN1o"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 256923,
       "name": "Till My Heartaches End - From \"The Significant Other\"",
       "url": "https://open.spotify.com/track/5nWswD8icrEB76JAckDoxY"
+    },
+    {
+      "added_at": "2023-12-08 07:32:26",
+      "album": {
+        "name": "Bakit?",
+        "url": "https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI"
+      },
+      "artists": [
+        {
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
+        }
+      ],
+      "duration_ms": 194442,
+      "name": "Bakit?",
+      "url": "https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV"
     },
     {
       "added_at": "2023-12-08 07:32:26",

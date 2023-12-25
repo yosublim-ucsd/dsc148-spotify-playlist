@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 295100,
+  "num_followers": 295277,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGQwMmEyM2U3YmIwM2NhYTk0Mzk2NTc4OTlhZjM4YmZmY2VjNjJh",
+  "snapshot_id": "MCw4MWJiZmEwOTU3ZTQ0NDZkMzUwMmZkMzQwM2NhNjZlZjk0ZTJhYzM5",
   "tracks": [
     {
       "added_at": "2023-12-04 17:13:40",
@@ -467,26 +467,6 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "Arabic Soul",
-        "url": "https://open.spotify.com/album/5GyMokgjZwjk458LtSaMfH"
-      },
-      "artists": [
-        {
-          "name": "Mehdi Yakin",
-          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
-        },
-        {
-          "name": "Anas Otman",
-          "url": "https://open.spotify.com/artist/66kee8oYRhl1zR7PvNCpU9"
-        }
-      ],
-      "duration_ms": 273031,
-      "name": "Arabic Soul",
-      "url": "https://open.spotify.com/track/3Le91iSDJVSRu0yMxQOOq6"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
         "name": "Enta Omry Remix 2022",
         "url": "https://open.spotify.com/album/3ogwyixr9RhtwjdGZsxFaG"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 278546,
       "name": "Enta Omry Remix 2022",
       "url": "https://open.spotify.com/track/25fyr0qieh9nz00Lbld8IQ"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
+        "name": "Arabic Soul",
+        "url": "https://open.spotify.com/album/5GyMokgjZwjk458LtSaMfH"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Yakin",
+          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
+        },
+        {
+          "name": "Anas Otman",
+          "url": "https://open.spotify.com/artist/66kee8oYRhl1zR7PvNCpU9"
+        }
+      ],
+      "duration_ms": 273031,
+      "name": "Arabic Soul",
+      "url": "https://open.spotify.com/track/3Le91iSDJVSRu0yMxQOOq6"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -695,6 +695,26 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
+        "name": "Ya Ghayeb",
+        "url": "https://open.spotify.com/album/6XJCSklPxNl8IJZyPOrq3F"
+      },
+      "artists": [
+        {
+          "name": "DJ Maximus",
+          "url": "https://open.spotify.com/artist/2p0tbndG8hGG7q756YN6WE"
+        },
+        {
+          "name": "Bob Zoabi",
+          "url": "https://open.spotify.com/artist/45Tb1ZlbaGsVsWaWT0P8eW"
+        }
+      ],
+      "duration_ms": 217211,
+      "name": "Ya Ghayeb",
+      "url": "https://open.spotify.com/track/5HRonL7F7N4Sd3XeVyLGBt"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
         "name": "Will You Stay (feat. Georgia Alexandra) [Rivo Remix]",
         "url": "https://open.spotify.com/album/4nmUacLVvnSw4xO5e2bMgT"
       },
@@ -719,22 +739,18 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "Ya Ghayeb",
-        "url": "https://open.spotify.com/album/6XJCSklPxNl8IJZyPOrq3F"
+        "name": "Amelia",
+        "url": "https://open.spotify.com/album/0zvW1EeUdL5KWzOTfcGf3f"
       },
       "artists": [
         {
-          "name": "DJ Maximus",
-          "url": "https://open.spotify.com/artist/2p0tbndG8hGG7q756YN6WE"
-        },
-        {
-          "name": "Bob Zoabi",
-          "url": "https://open.spotify.com/artist/45Tb1ZlbaGsVsWaWT0P8eW"
+          "name": "Efemero",
+          "url": "https://open.spotify.com/artist/1L2VE46yd9NmPWDukWhO7D"
         }
       ],
-      "duration_ms": 217211,
-      "name": "Ya Ghayeb",
-      "url": "https://open.spotify.com/track/5HRonL7F7N4Sd3XeVyLGBt"
+      "duration_ms": 193684,
+      "name": "Amelia",
+      "url": "https://open.spotify.com/track/04v56jvsU9UbDDfW5WgSNj"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -759,22 +775,6 @@
       "duration_ms": 158400,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/5wXNETa1YRNl56ut94Wkca"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
-        "name": "Amelia",
-        "url": "https://open.spotify.com/album/0zvW1EeUdL5KWzOTfcGf3f"
-      },
-      "artists": [
-        {
-          "name": "Efemero",
-          "url": "https://open.spotify.com/artist/1L2VE46yd9NmPWDukWhO7D"
-        }
-      ],
-      "duration_ms": 193684,
-      "name": "Amelia",
-      "url": "https://open.spotify.com/track/04v56jvsU9UbDDfW5WgSNj"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -823,6 +823,26 @@
       "duration_ms": 154277,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/2PkxplmTqGwUlOw0x6bXHY"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
+        "name": "Nu Vreau",
+        "url": "https://open.spotify.com/album/0nmhIBBZMBjID1LmtGEue6"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        }
+      ],
+      "duration_ms": 193149,
+      "name": "Nu Vreau",
+      "url": "https://open.spotify.com/track/3myOh68CL0fMGEj3d6rs06"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -887,26 +907,6 @@
       "duration_ms": 200000,
       "name": "Cry",
       "url": "https://open.spotify.com/track/0dNzSDc24MGkN9sDim1d7b"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
-        "name": "Nu Vreau",
-        "url": "https://open.spotify.com/album/0nmhIBBZMBjID1LmtGEue6"
-      },
-      "artists": [
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        },
-        {
-          "name": "Irina Rimes",
-          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
-        }
-      ],
-      "duration_ms": 193149,
-      "name": "Nu Vreau",
-      "url": "https://open.spotify.com/track/3myOh68CL0fMGEj3d6rs06"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "Deep Anatolia",
-        "url": "https://open.spotify.com/album/5A3raFTb9nsLMWt1xxrvzW"
-      },
-      "artists": [
-        {
-          "name": "Amorf",
-          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
-        },
-        {
-          "name": "Ossova",
-          "url": "https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Deep Anatolia",
-      "url": "https://open.spotify.com/track/0IgJI3Jpkd1cRFuJkedbCK"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/3cJlsqEndjhFnl565mF6zi"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 219202,
       "name": "Lost",
       "url": "https://open.spotify.com/track/1dX3YJZKZ8QTV8I63HbQi1"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
+        "name": "Deep Anatolia",
+        "url": "https://open.spotify.com/album/5A3raFTb9nsLMWt1xxrvzW"
+      },
+      "artists": [
+        {
+          "name": "Amorf",
+          "url": "https://open.spotify.com/artist/235rIOpga6eYnAP03JD444"
+        },
+        {
+          "name": "Ossova",
+          "url": "https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Deep Anatolia",
+      "url": "https://open.spotify.com/track/0IgJI3Jpkd1cRFuJkedbCK"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "Sakaratou Achiqin",
-        "url": "https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh"
-      },
-      "artists": [
-        {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        },
-        {
-          "name": "Mawal Lotfi",
-          "url": "https://open.spotify.com/artist/63MKSrXghwm3Mbu2eVtUda"
-        }
-      ],
-      "duration_ms": 139415,
-      "name": "Sakaratou Achiqin",
-      "url": "https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
         "name": "3ala bali",
         "url": "https://open.spotify.com/album/5aO9m9qYapKXLtOIWQPwj5"
       },
@@ -1167,18 +1147,22 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "Asha",
-        "url": "https://open.spotify.com/album/4LPRpbAdUmN4tIWTwvVxgd"
+        "name": "Sakaratou Achiqin",
+        "url": "https://open.spotify.com/album/0IuWzM5c3lVePBhnVA4Xuh"
       },
       "artists": [
         {
-          "name": "Furkan Sert",
-          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+        },
+        {
+          "name": "Mawal Lotfi",
+          "url": "https://open.spotify.com/artist/63MKSrXghwm3Mbu2eVtUda"
         }
       ],
-      "duration_ms": 252857,
-      "name": "Asha",
-      "url": "https://open.spotify.com/track/0lLe5dTgMti1f8fvGCuFcm"
+      "duration_ms": 139415,
+      "name": "Sakaratou Achiqin",
+      "url": "https://open.spotify.com/track/35F8IkWdNjmWyDYWWMeVRb"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -1199,6 +1183,22 @@
       "duration_ms": 320045,
       "name": "Sensiz",
       "url": "https://open.spotify.com/track/6psUMUMTW8I726NIyK9jD5"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
+        "name": "Asha",
+        "url": "https://open.spotify.com/album/4LPRpbAdUmN4tIWTwvVxgd"
+      },
+      "artists": [
+        {
+          "name": "Furkan Sert",
+          "url": "https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I"
+        }
+      ],
+      "duration_ms": 252857,
+      "name": "Asha",
+      "url": "https://open.spotify.com/track/0lLe5dTgMti1f8fvGCuFcm"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "Letters",
-        "url": "https://open.spotify.com/album/5Rqz7SWCbh3bZ5ny8tN36t"
-      },
-      "artists": [
-        {
-          "name": "Shkoon",
-          "url": "https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv"
-        },
-        {
-          "name": "JAVID",
-          "url": "https://open.spotify.com/artist/6rcpZJj6qCAAYEqbDR7oif"
-        }
-      ],
-      "duration_ms": 551025,
-      "name": "Ala Moj Al Bahr - Javid Remix",
-      "url": "https://open.spotify.com/track/5l4PuZcYTIpFPpzPdfdSlj"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
         "name": "Lamouni",
         "url": "https://open.spotify.com/album/52Oz7HNLmvzVBmFdzNEAUZ"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 217647,
       "name": "Lamouni",
       "url": "https://open.spotify.com/track/388VvqIYj3edEMaHUXNUcN"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
+        "name": "Letters",
+        "url": "https://open.spotify.com/album/5Rqz7SWCbh3bZ5ny8tN36t"
+      },
+      "artists": [
+        {
+          "name": "Shkoon",
+          "url": "https://open.spotify.com/artist/3CdsJ9u53uPu3dScKypLVv"
+        },
+        {
+          "name": "JAVID",
+          "url": "https://open.spotify.com/artist/6rcpZJj6qCAAYEqbDR7oif"
+        }
+      ],
+      "duration_ms": 551025,
+      "name": "Ala Moj Al Bahr - Javid Remix",
+      "url": "https://open.spotify.com/track/5l4PuZcYTIpFPpzPdfdSlj"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
+        "name": "Arabic Nights",
+        "url": "https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap"
+      },
+      "artists": [
+        {
+          "name": "Mehdi Yakin",
+          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Arabic Nights",
+      "url": "https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
         "name": "Tawada",
         "url": "https://open.spotify.com/album/20J0aexp1w6k1KJKQPzR2M"
       },
@@ -1379,18 +1395,18 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "Arabic Nights",
-        "url": "https://open.spotify.com/album/3lHALolj2LuRFOlltZHPap"
+        "name": "Kun",
+        "url": "https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D"
       },
       "artists": [
         {
-          "name": "Mehdi Yakin",
-          "url": "https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1"
+          "name": "Hisham Kharma",
+          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
         }
       ],
-      "duration_ms": 165333,
-      "name": "Arabic Nights",
-      "url": "https://open.spotify.com/track/1kPOCklYVwTWknsNoUcxkB"
+      "duration_ms": 314336,
+      "name": "Marrakech",
+      "url": "https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -1411,22 +1427,6 @@
       "duration_ms": 196909,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/0saYIsX2qEFViag84KF26X"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
-        "name": "Kun",
-        "url": "https://open.spotify.com/album/3rw9RPwHJzrlvHstzytg6D"
-      },
-      "artists": [
-        {
-          "name": "Hisham Kharma",
-          "url": "https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl"
-        }
-      ],
-      "duration_ms": 314336,
-      "name": "Marrakech",
-      "url": "https://open.spotify.com/track/479rGHKvQHAT18qCWR8Hvn"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "Nomadic",
-        "url": "https://open.spotify.com/album/0dATzDHkoktJSj80yCCIBE"
-      },
-      "artists": [
-        {
-          "name": "Hlm.Prod",
-          "url": "https://open.spotify.com/artist/5x16H0hDNgAaVeAatek2MJ"
-        }
-      ],
-      "duration_ms": 206339,
-      "name": "Nomadic",
-      "url": "https://open.spotify.com/track/1FeqFilPG7iFnAncHxew2k"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
         "name": "all the things i got",
         "url": "https://open.spotify.com/album/6YDWYDGrrEIrTc4mC32b06"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 145210,
       "name": "all the things i got",
       "url": "https://open.spotify.com/track/7yKrNNtG7zSXceOoQf1XQv"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
+        "name": "Nomadic",
+        "url": "https://open.spotify.com/album/0dATzDHkoktJSj80yCCIBE"
+      },
+      "artists": [
+        {
+          "name": "Hlm.Prod",
+          "url": "https://open.spotify.com/artist/5x16H0hDNgAaVeAatek2MJ"
+        }
+      ],
+      "duration_ms": 206339,
+      "name": "Nomadic",
+      "url": "https://open.spotify.com/track/1FeqFilPG7iFnAncHxew2k"
     },
     {
       "added_at": "2023-12-04 17:13:40",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "Hebele Hubulu & Belantash",
-        "url": "https://open.spotify.com/album/2cJMaNUS3F7qZnBLfzcONj"
-      },
-      "artists": [
-        {
-          "name": "Omerar Nanda",
-          "url": "https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl"
-        }
-      ],
-      "duration_ms": 484644,
-      "name": "Hebele Hubulu",
-      "url": "https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt"
-    },
-    {
-      "added_at": "2023-12-04 17:13:40",
-      "album": {
         "name": "Ethnique",
         "url": "https://open.spotify.com/album/4MTL284tVGDYytBQIkHLQ4"
       },
@@ -1903,18 +1887,34 @@
     {
       "added_at": "2023-12-04 17:13:40",
       "album": {
-        "name": "Oh Lor My Love",
-        "url": "https://open.spotify.com/album/3t6pybIDShl8eVH1CLRA5h"
+        "name": "Hebele Hubulu & Belantash",
+        "url": "https://open.spotify.com/album/2cJMaNUS3F7qZnBLfzcONj"
       },
       "artists": [
         {
-          "name": "Jad Halal",
-          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+          "name": "Omerar Nanda",
+          "url": "https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl"
         }
       ],
-      "duration_ms": 180983,
-      "name": "Oh Lor My Love",
-      "url": "https://open.spotify.com/track/1SqO8eemW8Il5oPhoKw8zQ"
+      "duration_ms": 484644,
+      "name": "Hebele Hubulu",
+      "url": "https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt"
+    },
+    {
+      "added_at": "2023-12-04 17:13:40",
+      "album": {
+        "name": "Lane Moje",
+        "url": "https://open.spotify.com/album/6NnOkaGVXBevjn8lWFDACE"
+      },
+      "artists": [
+        {
+          "name": "DJ Dark",
+          "url": "https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn"
+        }
+      ],
+      "duration_ms": 179478,
+      "name": "Lane Moje - Radio Edit",
+      "url": "https://open.spotify.com/track/3X2n6qNzVzZYhf3MqYC7c4"
     }
   ],
   "unique_name": "mosaic",

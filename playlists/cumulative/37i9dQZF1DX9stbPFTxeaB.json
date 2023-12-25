@@ -626,7 +626,7 @@
     {
       "album": {
         "name": "Chills & Thrills",
-        "url": "https://open.spotify.com/album/3NAEXb8fdzzi9umXkF36J5"
+        "url": "https://open.spotify.com/album/3CbjgETRjdUvgIJqu7qpZu"
       },
       "artists": [
         {
@@ -637,6 +637,24 @@
       "date_added": "2020-08-21",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 241706,
+      "name": "Groove With Me",
+      "url": "https://open.spotify.com/track/1p1A5KPgbC1cXP70BVzo4D"
+    },
+    {
+      "album": {
+        "name": "Chills & Thrills",
+        "url": "https://open.spotify.com/album/3NAEXb8fdzzi9umXkF36J5"
+      },
+      "artists": [
+        {
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+        }
+      ],
+      "date_added": "2020-08-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
       "duration_ms": 241706,
       "name": "Groove With Me",
       "url": "https://open.spotify.com/track/2VaKZQ6d3qY0roo4E1Hapg"

@@ -435,6 +435,24 @@
     },
     {
       "album": {
+        "name": "Rockers Dubstep Like Kelly",
+        "url": "https://open.spotify.com/album/1zCLe4oFbmkKBNCKVevp6E"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453857,
+      "name": "Driveby",
+      "url": "https://open.spotify.com/track/3IZwShcacPqxbkHkT9M3zT"
+    },
+    {
+      "album": {
         "name": "Toxic Chocolate",
         "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
       },
@@ -844,7 +862,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 178714,
       "name": "Rockers Step Like Kelly",
       "url": "https://open.spotify.com/track/2d18QIOZ9d90BzbndmW01N"

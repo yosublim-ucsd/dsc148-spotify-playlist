@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Chabelos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,132 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,131 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 49 | [Ponte en Mi Piel](https://open.spotify.com/track/2bjQJqg8ne0CxxvZEi3wmx) | [Tako](https://open.spotify.com/artist/52vQJdhF0QQskH91IhWBmb) | [Ponte en Mi Piel](https://open.spotify.com/album/0GeAYj6Gp44KcIkurpjwfI) | 3:45 |
 | 50 | [Tajada](https://open.spotify.com/track/0HGchjSKUuMNsLg8zfwqFf) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Tajada](https://open.spotify.com/album/5hfg8YESqVnDHcOPiu4GSs) | 3:26 |
 
-Snapshot ID: `MCwxODgwZjA4MWJlNmE3MTczMGVhZjBjMDA0ZGIyYjk4OGZjNzNmZWNl`
+Snapshot ID: `MCw4NWM1YzUzNjBiMTE2ZDcxMDAzNDA0YTc5NDgxMzM3NTk4OGYwYjg5`

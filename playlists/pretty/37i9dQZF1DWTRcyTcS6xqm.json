@@ -1,12 +1,12 @@
 {
   "description": "Party blues tunes. Cover: Joe Louis Walker",
-  "num_followers": 10988,
+  "num_followers": 10992,
   "original_name": "Blues Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YmUxNGEwNTE2MDBjYmVmOTBkNDZkNDU3MzI3NjY0MGJjN2E5ZDZk",
+  "snapshot_id": "MCwzYjNmZTNjN2I4ZDA1ZTdjNmQyNTY4ZTA4NGQwOWUzYjVmMGVkMDI2",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -435,6 +435,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ"
+      },
+      "artists": [
+        {
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+        }
+      ],
+      "duration_ms": 288282,
+      "name": "Blues Party",
+      "url": "https://open.spotify.com/track/3o6j1UHNrch5Xigvyn3jZA"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Like It on Top",
         "url": "https://open.spotify.com/album/26lGPtKtc4SneVwBh67pW8"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 285893,
       "name": "Like It on Top",
       "url": "https://open.spotify.com/track/1MMXilYlgGiVXSz5YCOV9d"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/6iMMxMoKbZbW2jcE8J3udJ"
-      },
-      "artists": [
-        {
-          "name": "Bernard Allison",
-          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
-        }
-      ],
-      "duration_ms": 288282,
-      "name": "Blues Party",
-      "url": "https://open.spotify.com/track/3o6j1UHNrch5Xigvyn3jZA"
     },
     {
       "added_at": "2021-11-05 04:00:00",
@@ -793,6 +793,30 @@
       "url": "https://open.spotify.com/track/6XgNLPqmKIo9HUwtwngAJc"
     },
     {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "50 - Just warming up !",
+        "url": "https://open.spotify.com/album/25DudAOE7STeKctgnHdrvt"
+      },
+      "artists": [
+        {
+          "name": "Lucky Peterson",
+          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
+        },
+        {
+          "name": "Danielia Cotton",
+          "url": "https://open.spotify.com/artist/50miJwBy3aOhmUFpyewX5t"
+        },
+        {
+          "name": "Sugar Blue",
+          "url": "https://open.spotify.com/artist/3HojqGF4FshKki7Ku6gPqE"
+        }
+      ],
+      "duration_ms": 275226,
+      "name": "Let The Good Time Party Begin",
+      "url": "https://open.spotify.com/track/0IISDvjnvAI30eXFhRzKQ6"
+    },
+    {
       "added_at": "2021-03-19 05:01:00",
       "album": {
         "name": "Spider in My Stew",
@@ -827,30 +851,6 @@
       "duration_ms": 224866,
       "name": "Mr. Soul",
       "url": "https://open.spotify.com/track/5tYEt83ElN9b0GtNtlnwau"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "50 - Just warming up !",
-        "url": "https://open.spotify.com/album/25DudAOE7STeKctgnHdrvt"
-      },
-      "artists": [
-        {
-          "name": "Lucky Peterson",
-          "url": "https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5"
-        },
-        {
-          "name": "Danielia Cotton",
-          "url": "https://open.spotify.com/artist/50miJwBy3aOhmUFpyewX5t"
-        },
-        {
-          "name": "Sugar Blue",
-          "url": "https://open.spotify.com/artist/3HojqGF4FshKki7Ku6gPqE"
-        }
-      ],
-      "duration_ms": 275226,
-      "name": "Let The Good Time Party Begin",
-      "url": "https://open.spotify.com/track/0IISDvjnvAI30eXFhRzKQ6"
     },
     {
       "added_at": "2020-12-01 05:01:00",

@@ -4,7 +4,7 @@
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Feek
 
-975 songs - 1 day 20 hr 42 min
+976 songs - 1 day 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -579,6 +579,7 @@
 | [Minha Vida](https://open.spotify.com/track/2NIwJ0BXryqFfArHKCPiV1) | [Welisson](https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ) | [Minha Vida](https://open.spotify.com/album/6vituzkW1HmE4WTv8nqCpN) | 3:01 | 2022-04-01 | 2023-01-14 |
 | [Minha Vida 2](https://open.spotify.com/track/5IdJicBax1EKD87vfrPqDg) | [ogtreasure](https://open.spotify.com/artist/3SyOg7lVYi7SEIVgvaVKe0), [tharealjuggboy](https://open.spotify.com/artist/0xazmrsqv7px8U921RehiR), [Brocasito](https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM) | [Ritmo de Vagabundo](https://open.spotify.com/album/5H2iN7qqRdK8yex5SLZvuI) | 2:44 | 2022-11-25 | 2022-12-03 |
 | [Mira Laser](https://open.spotify.com/track/12WxZikyM1bOt0WZmI98aQ) | [Meno Will](https://open.spotify.com/artist/2WSCexbkl1P97BKo4FU2QE), [Dj Leopoldo](https://open.spotify.com/artist/2M52eKgaUDTtOV11sxXk1o), [Ruanzinho](https://open.spotify.com/artist/3F6YQLCVjGIS7MHQnFOd61) | [Mira Laser](https://open.spotify.com/album/6G7llM9QAMg8qbMTzmNcJ9) | 2:30 | 2022-04-22 | 2022-05-14 |
+| [Miragem](https://open.spotify.com/track/4pkDSLdWBdKLMwMdAvYIiD) | [Brocasito](https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM) | [Matrix](https://open.spotify.com/album/7HMJeHkmIyCxRSHotWeJ2K) | 2:46 | 2023-12-24 |  |
 | [Mlk Mala](https://open.spotify.com/track/2VMZmUtw4fWht4Lc7fngrH) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [BREEZE](https://open.spotify.com/artist/2McfEbmX82KjLibSzYi7ZD) | [Mlk Mala](https://open.spotify.com/album/2isX48AF8iI8eyRyDWp3Lb) | 2:28 | 2023-07-21 | 2023-08-12 |
 | [Moda de Favela](https://open.spotify.com/track/4y3MAr4Q3dhGHuZt8X6RxG) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Labbel Rec](https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [Moda de Favela](https://open.spotify.com/album/5gHa9wnNiEo2kZzY0HvFFj) | 1:53 | 2023-03-31 | 2023-09-16 |
 | [Modo Kenner](https://open.spotify.com/track/2yOZsxAJ8F1L9EcurpYb94) | [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ) | [Modo Kenner](https://open.spotify.com/album/6Bs6eSGkuKXk7sJi4neJfN) | 1:56 | 2022-10-21 | 2022-10-29 |

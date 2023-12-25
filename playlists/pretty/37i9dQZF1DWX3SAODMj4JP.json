@@ -1,12 +1,12 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 132899,
+  "num_followers": 132923,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDU3MTk2YjEzYWVmM2Y0YzAyZjA0ZmRjNGMzZjFjMDY0OTZhNDYx",
+  "snapshot_id": "MCxmNzQzMTlkOTM5ZjZkOGY2NjQ4YTIzNjljZTRlMmVlYTAzMDNkNDNi",
   "tracks": [
     {
       "added_at": "2023-10-06 04:04:27",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
+        "name": "Vai Ficar Tudo Bem",
+        "url": "https://open.spotify.com/album/6Jn1wSFx0bo4GYCc66mslN"
+      },
+      "artists": [
+        {
+          "name": "Stone Worship",
+          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
+        }
+      ],
+      "duration_ms": 137333,
+      "name": "Vai Ficar Tudo Bem",
+      "url": "https://open.spotify.com/track/2CYlC1aTQZW5YuXz5xIXAJ"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
         "name": "Claro e Certo",
         "url": "https://open.spotify.com/album/47ggi22ENuvh5a7AXHbDbI"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 241840,
       "name": "Claro e Certo",
       "url": "https://open.spotify.com/track/2C4bL85AHMERutNrejvo0B"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
-        "name": "Vai Ficar Tudo Bem",
-        "url": "https://open.spotify.com/album/6Jn1wSFx0bo4GYCc66mslN"
-      },
-      "artists": [
-        {
-          "name": "Stone Worship",
-          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
-        }
-      ],
-      "duration_ms": 137333,
-      "name": "Vai Ficar Tudo Bem",
-      "url": "https://open.spotify.com/track/2CYlC1aTQZW5YuXz5xIXAJ"
     },
     {
       "added_at": "2023-10-06 04:04:27",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-10-06 04:04:27",
       "album": {
+        "name": "Mais Perto Quero Estar",
+        "url": "https://open.spotify.com/album/0Fct6gWAW1dnLNUvxyaHXC"
+      },
+      "artists": [
+        {
+          "name": "Matheus Rizzo",
+          "url": "https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP"
+        }
+      ],
+      "duration_ms": 201282,
+      "name": "Mais Perto Quero Estar",
+      "url": "https://open.spotify.com/track/35DUClZPzxnb92NcikSBJK"
+    },
+    {
+      "added_at": "2023-10-06 04:04:27",
+      "album": {
         "name": "III (Studio Sessions)",
         "url": "https://open.spotify.com/album/5lGAYuSF5A5x1BWeFG3r4z"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 352173,
       "name": "Highs & Lows",
       "url": "https://open.spotify.com/track/0OZdYnV6S2qpd6rseK8Lpg"
-    },
-    {
-      "added_at": "2023-10-06 04:04:27",
-      "album": {
-        "name": "Mais Perto Quero Estar",
-        "url": "https://open.spotify.com/album/0Fct6gWAW1dnLNUvxyaHXC"
-      },
-      "artists": [
-        {
-          "name": "Matheus Rizzo",
-          "url": "https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP"
-        }
-      ],
-      "duration_ms": 201282,
-      "name": "Mais Perto Quero Estar",
-      "url": "https://open.spotify.com/track/35DUClZPzxnb92NcikSBJK"
     },
     {
       "added_at": "2023-10-06 04:04:27",

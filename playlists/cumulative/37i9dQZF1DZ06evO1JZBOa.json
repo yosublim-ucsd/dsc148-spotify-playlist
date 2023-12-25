@@ -1721,6 +1721,24 @@
     },
     {
       "album": {
+        "name": "Manu Dibango plays Sidney Bechet",
+        "url": "https://open.spotify.com/album/1PqFghSbTgaiZsGHxdM2cI"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222253,
+      "name": "Petite fleur",
+      "url": "https://open.spotify.com/track/0C27zKepJCdCS3FBhJTVHh"
+    },
+    {
+      "album": {
         "name": "Plus jamais Ebola",
         "url": "https://open.spotify.com/album/4EOZrn6mRdDd4ZHeIKdKhN"
       },
@@ -2514,7 +2532,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 423653,
       "name": "Tek Time",
       "url": "https://open.spotify.com/track/3QzRmXp2ANZFcf8Fa3sQ0x"

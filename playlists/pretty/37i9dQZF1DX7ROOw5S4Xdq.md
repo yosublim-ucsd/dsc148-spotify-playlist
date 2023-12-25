@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Aline Barros
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,914 likes - 80 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,952 likes - 80 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 79 | [Deus Menino](https://open.spotify.com/track/1oupbI5PfV8ReaHgyutZPM) | [Ministério M3](https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6) | [Deus Menino](https://open.spotify.com/album/2MuXwUizTRZglqb33JEL2o) | 4:40 |
 | 80 | [A Guerra Pertence a Ti \- Ao Vivo](https://open.spotify.com/track/3VTZKAvDSIQnLFGw7VtZuE) | [Central MSC](https://open.spotify.com/artist/46Ds3Zotj54UgKSA24nqC6), [Thalison Iuri](https://open.spotify.com/artist/2oM36NIyYASmMTQ3Z4EkD6) | [A Guerra Pertence a Ti \(Ao Vivo\)](https://open.spotify.com/album/4iRPMGizdWxoLAnFOotEB5) | 6:23 |
 
-Snapshot ID: `MCwzNGRhNGJiYjlhZWY0OTMzOTg5OWFiZWFkZmJmNWVhMmFhZjk5YTZh`
+Snapshot ID: `MCw2NjQ5MjQwZGRlNzM4MGRjM2M0NzQ4YTFjNjg5NThhNDkwMzM1YTMy`

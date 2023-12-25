@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 13065,
+  "num_followers": 13113,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTVlNjkzYTliMWE3NGJiZjBjMzBjM2EyNDViN2FkYTc0MThhYmRi",
+  "snapshot_id": "MCwyNTdmNmM5OWY0MWRhYTk3YTRjZmNhOWU5NGZlYmU2YjJkNTMwMDNh",
   "tracks": [
     {
       "added_at": "2022-10-01 20:31:11",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Wolf Talk",
-        "url": "https://open.spotify.com/album/5SVniwgSdrKp3lk4H3TivW"
-      },
-      "artists": [
-        {
-          "name": "Grind2hard Osh\u2019a",
-          "url": "https://open.spotify.com/artist/2PnBmX5Wpq0hUQuGh9W5ET"
-        }
-      ],
-      "duration_ms": 173949,
-      "name": "Nowhere 2 Run",
-      "url": "https://open.spotify.com/track/6RCET3cus4uP5eX9zIpeOb"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "Blessed, I Guess",
         "url": "https://open.spotify.com/album/2g74qnJkJJcXB0XAZbBXAL"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 123122,
       "name": "A.M. Flights (feat. Toosii)",
       "url": "https://open.spotify.com/track/37mxyK3wdiHlv6MDuQJnAp"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "Wolf Talk",
+        "url": "https://open.spotify.com/album/5SVniwgSdrKp3lk4H3TivW"
+      },
+      "artists": [
+        {
+          "name": "Grind2hard Osh\u2019a",
+          "url": "https://open.spotify.com/artist/2PnBmX5Wpq0hUQuGh9W5ET"
+        }
+      ],
+      "duration_ms": 173949,
+      "name": "Nowhere 2 Run",
+      "url": "https://open.spotify.com/track/6RCET3cus4uP5eX9zIpeOb"
     },
     {
       "added_at": "2022-10-01 20:31:11",

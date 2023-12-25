@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 190500,
       "name": "Aaj Jane Ki Zid Na Karo",
       "url": "https://open.spotify.com/track/2kS4b0yqQPkEjHFLxK0dWx"
@@ -56,6 +56,24 @@
       "duration_ms": 190500,
       "name": "Aaj Jane Ki Zid Na Karo",
       "url": "https://open.spotify.com/track/6XFGKGOjlwXWm12DHV1CWc"
+    },
+    {
+      "album": {
+        "name": "Aaj Jane Ki Zid Na Karo (Coke Studio Season 8)",
+        "url": "https://open.spotify.com/album/1QbyKCQGKRMzm6rWQ1Z0iN"
+      },
+      "artists": [
+        {
+          "name": "Farida Khanum",
+          "url": "https://open.spotify.com/artist/07g02xbfLHmRdZaz5NAWru"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "Aaj Jane Ki Zid Na Karo - Coke Studio Season 8",
+      "url": "https://open.spotify.com/track/6XpEgDZ1YmbzpLECDE59AA"
     },
     {
       "album": {
@@ -166,7 +184,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 355561,
       "name": "Ae Dil Kisi Ki Yaad Mein",
       "url": "https://open.spotify.com/track/3lSvGJBxKoSGcDTjm0DRD8"
@@ -192,6 +210,28 @@
       "duration_ms": 355561,
       "name": "Ae Dil Kisi Ki Yaad Mein",
       "url": "https://open.spotify.com/track/335kskxwq8xBigEXYBQ61e"
+    },
+    {
+      "album": {
+        "name": "Ae Dil Kisi Ki Yaad Mein (Coke Studio Season 8)",
+        "url": "https://open.spotify.com/album/41JZAZycEJOq01horKNToM"
+      },
+      "artists": [
+        {
+          "name": "Sara Haider",
+          "url": "https://open.spotify.com/artist/6wbQXgl1sCmZncfcmdctDB"
+        },
+        {
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355561,
+      "name": "Ae Dil Kisi Ki Yaad Mein - Coke Studio Season 8",
+      "url": "https://open.spotify.com/track/1eyFwhnhUhLgJSHpxkOQ4q"
     },
     {
       "album": {
@@ -1578,10 +1618,32 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 392763,
       "name": "Sammi Meri Waar",
       "url": "https://open.spotify.com/track/4SOlMjbKYAvLKaanovsWnA"
+    },
+    {
+      "album": {
+        "name": "Sammi Meri Waar (Coke Studio Season 8)",
+        "url": "https://open.spotify.com/album/0syR4wByDKQmZyZWfKoABN"
+      },
+      "artists": [
+        {
+          "name": "Quratulain Balouch",
+          "url": "https://open.spotify.com/artist/5r3gdJkUB4oAcnuIGXEB7q"
+        },
+        {
+          "name": "Umair Jaswal",
+          "url": "https://open.spotify.com/artist/4eGTCbD3UlgIF479AuXp5u"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392763,
+      "name": "Sammi Meri Waar - Coke Studio Season 8",
+      "url": "https://open.spotify.com/track/7xHM9QdQHm8MFFTj3WWzjZ"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 25437,
+  "num_followers": 25454,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzUwYzQwN2MzYTUzMjNiZmE0ODc2YWY3YTA4MWI0MDg0NzM3ZTg1",
+  "snapshot_id": "MCw5NzJkYzc4MmE1YmU0MzdjNDUwMmQwNDQ5ZTI0MGJlMWUxYjBhODRi",
   "tracks": [
     {
       "added_at": "2023-12-08 03:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Hotel Boston",
-        "url": "https://open.spotify.com/album/2RwlECSGovyxM2hKHuIzeS"
-      },
-      "artists": [
-        {
-          "name": "Funk\u00b4chula",
-          "url": "https://open.spotify.com/artist/4sxtKd1hXg0d3VUWSux1Gq"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Hotel Boston",
-      "url": "https://open.spotify.com/track/02gOFILt8dgsA63vVI6E4c"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Resistencia",
         "url": "https://open.spotify.com/album/63wXeCZv9gxTXrffLnDHmY"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 176924,
       "name": "Freaky",
       "url": "https://open.spotify.com/track/1mKpZeH6wpdhI4jpGYy870"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Hotel Boston",
+        "url": "https://open.spotify.com/album/2RwlECSGovyxM2hKHuIzeS"
+      },
+      "artists": [
+        {
+          "name": "Funk\u00b4chula",
+          "url": "https://open.spotify.com/artist/4sxtKd1hXg0d3VUWSux1Gq"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Hotel Boston",
+      "url": "https://open.spotify.com/track/02gOFILt8dgsA63vVI6E4c"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Pangea",
-        "url": "https://open.spotify.com/album/4UjEy9hqJdmG31HCaV1Lr4"
-      },
-      "artists": [
-        {
-          "name": "Spaghetti Western",
-          "url": "https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Libre",
-      "url": "https://open.spotify.com/track/3CfFt0xZrWJSBT0Ki46Eou"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Resistencia",
         "url": "https://open.spotify.com/album/63wXeCZv9gxTXrffLnDHmY"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 218172,
       "name": "Resistencia",
       "url": "https://open.spotify.com/track/0ZF0cMx6gnYIdRkNEZ4Kdn"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Pangea",
+        "url": "https://open.spotify.com/album/4UjEy9hqJdmG31HCaV1Lr4"
+      },
+      "artists": [
+        {
+          "name": "Spaghetti Western",
+          "url": "https://open.spotify.com/artist/41VgSFyJkKlhxtzVyrrDPc"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/3CfFt0xZrWJSBT0Ki46Eou"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "La Nave",
-        "url": "https://open.spotify.com/album/0LverTA7cR49u1FukL6fBk"
-      },
-      "artists": [
-        {
-          "name": "Fonky Taxi",
-          "url": "https://open.spotify.com/artist/4jeGMG6b45WZuaLCk1QCre"
-        }
-      ],
-      "duration_ms": 272373,
-      "name": "Todo Atr\u00e1s",
-      "url": "https://open.spotify.com/track/7yCpBkWqPLQ3NfWNHgsvn8"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Wu Wei",
         "url": "https://open.spotify.com/album/6AnYc5mP9BqEpM7OQEHhF8"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 129772,
       "name": "El despertar de Kumbhakarna",
       "url": "https://open.spotify.com/track/3BEietAwUm9LOF0xmG57JC"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "La Nave",
+        "url": "https://open.spotify.com/album/0LverTA7cR49u1FukL6fBk"
+      },
+      "artists": [
+        {
+          "name": "Fonky Taxi",
+          "url": "https://open.spotify.com/artist/4jeGMG6b45WZuaLCk1QCre"
+        }
+      ],
+      "duration_ms": 272373,
+      "name": "Todo Atr\u00e1s",
+      "url": "https://open.spotify.com/track/7yCpBkWqPLQ3NfWNHgsvn8"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Crisis",
-        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
-      },
-      "artists": [
-        {
-          "name": "Jvlian",
-          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
-        }
-      ],
-      "duration_ms": 131315,
-      "name": "Droga",
-      "url": "https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
         "name": "Solo por Hoy",
         "url": "https://open.spotify.com/album/25l2D0cKKCqvt51QEpPbfS"
       },
@@ -1423,18 +1407,18 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
-        "name": "Maravilla",
-        "url": "https://open.spotify.com/album/0UfukyWOep54c9zpc3ukyx"
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
       },
       "artists": [
         {
-          "name": "Los Jureles",
-          "url": "https://open.spotify.com/artist/5FNSAxcE6F6d4HPSoEPUyC"
+          "name": "Jvlian",
+          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
         }
       ],
-      "duration_ms": 240458,
-      "name": "Maravilla",
-      "url": "https://open.spotify.com/track/6bwFgTUrYUkxygFNsE0HP5"
+      "duration_ms": 131315,
+      "name": "Droga",
+      "url": "https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1451,6 +1435,22 @@
       "duration_ms": 343362,
       "name": "Get Porn",
       "url": "https://open.spotify.com/track/16bUIajNJpM6DNFoHDP19D"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
+        "name": "Maravilla",
+        "url": "https://open.spotify.com/album/0UfukyWOep54c9zpc3ukyx"
+      },
+      "artists": [
+        {
+          "name": "Los Jureles",
+          "url": "https://open.spotify.com/artist/5FNSAxcE6F6d4HPSoEPUyC"
+        }
+      ],
+      "duration_ms": 240458,
+      "name": "Maravilla",
+      "url": "https://open.spotify.com/track/6bwFgTUrYUkxygFNsE0HP5"
     },
     {
       "added_at": "2023-12-08 03:00:00",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2023-12-08 03:00:00",
       "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/3Ew0mVd4RRu7UFWMMalvmR"
+      },
+      "artists": [
+        {
+          "name": "Ania Ivania",
+          "url": "https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb"
+        }
+      ],
+      "duration_ms": 190373,
+      "name": "Aire",
+      "url": "https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ"
+    },
+    {
+      "added_at": "2023-12-08 03:00:00",
+      "album": {
         "name": "Best Of Us",
         "url": "https://open.spotify.com/album/3yfSd47G0hdBqXUeKCiVSH"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 185024,
       "name": "Best Of Us",
       "url": "https://open.spotify.com/track/4wrdly1XwZaZP8b2I4Iv5t"
-    },
-    {
-      "added_at": "2023-12-08 03:00:00",
-      "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/3Ew0mVd4RRu7UFWMMalvmR"
-      },
-      "artists": [
-        {
-          "name": "Ania Ivania",
-          "url": "https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb"
-        }
-      ],
-      "duration_ms": 190373,
-      "name": "Aire",
-      "url": "https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ"
     },
     {
       "added_at": "2023-12-08 03:00:00",

@@ -4,7 +4,7 @@
 
 > Groove to music from your Netflix Kids favorites! Cover: My Dad the Bounty Hunter
 
-122 songs - 5 hr 5 min
+123 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Full Speed Fun](https://open.spotify.com/track/34f9yqSTA9dkoyjmfwOSNF) | [True and the Rainbow Kingdom](https://open.spotify.com/artist/6ufVQnyyFBLj8YzcKG3OYl) | [Dance and Sing with True](https://open.spotify.com/album/3rGOpK27aWBo1U9HIa17FW) | 2:10 | 2022-04-08 |  |
 | [Get Along](https://open.spotify.com/track/0iEyU8xE61ICnyQ4fjZpL8) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Ivy + Bean \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6gZ3zzVuQzN7UkjKeZBJRk) | 3:43 | 2022-09-19 | 2022-11-20 |
 | [Get Along](https://open.spotify.com/track/4TNyxTVDySijQVX2l68xCR) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Ivy + Bean \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/5iuHz2BuwFvyf7nTLTWzn0) | 3:43 | 2022-10-12 |  |
-| [Glowin' Up](https://open.spotify.com/track/0lvWi6SqiMMACAYK8ldqnU) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [My Little Pony: A New Generation \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4wgoVzfqKBkE5ZKlBfs89g) | 3:11 | 2022-04-08 |  |
+| [Glowin' Up](https://open.spotify.com/track/0lvWi6SqiMMACAYK8ldqnU) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [My Little Pony: A New Generation \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4wgoVzfqKBkE5ZKlBfs89g) | 3:11 | 2022-04-08 | 2023-12-25 |
+| [Glowin' Up](https://open.spotify.com/track/594bEDSIxUNaKYF2FuHSpm) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [Glowin' Up \(from the Netflix film "My Little Pony: A New Generation"\)](https://open.spotify.com/album/7e9yA0WHIIdClfthaj2yTk) | 3:11 | 2023-08-17 |  |
 | [Gonna Be My Day](https://open.spotify.com/track/00V49IkvvyTGE3PWTY9u85) | [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [My Little Pony: A New Generation \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2gSDW1mnuKSRLRa7pgTV4f) | 2:38 | 2023-08-17 |  |
 | [Gonna Be My Day](https://open.spotify.com/track/2EhIF9BvXTKFZn5sCuMNrX) | [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [My Little Pony: A New Generation \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4wgoVzfqKBkE5ZKlBfs89g) | 2:38 | 2022-04-08 | 2023-12-24 |
 | [Good Good Day](https://open.spotify.com/track/3FH6IMkUQAEga9Go1MTfcA) | [Netflix Jr.](https://open.spotify.com/artist/4t8n2EG6curdyUrZynupmH) | [Netflix Jr\. Jams Vol\. 4](https://open.spotify.com/album/5DVi5E1sWfntwlsAqs4Vya) | 2:37 | 2022-04-08 | 2022-11-17 |

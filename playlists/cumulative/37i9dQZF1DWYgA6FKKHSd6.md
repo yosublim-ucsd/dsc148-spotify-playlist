@@ -4,7 +4,7 @@
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-220 songs - 15 hr 50 min
+221 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Chill Factor](https://open.spotify.com/track/5RBz7DhODMg5hVM5vJ9NrM) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Chill Factor](https://open.spotify.com/album/1DUAy4KMoe4R3R5eY5PTii) | 4:58 | 2021-07-12 |  |
 | [City Beat](https://open.spotify.com/track/3T9bPsBqGslbXXKMcUBjMo) | [Michael J Thomas](https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0) | [City Beat](https://open.spotify.com/album/2qh5ZiEghmYBPamiTUeO2z) | 4:02 | 2021-07-12 |  |
 | [City Life](https://open.spotify.com/track/0OXsI6rI38UK0QXVgaQ6yy) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [City Life](https://open.spotify.com/album/47q7hsJSojyhP4XbUPGkcP) | 4:54 | 2021-07-12 |  |
-| [City Lights](https://open.spotify.com/track/5kmQaaHOzgnzJmDpHJVtQY) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Soul To Souls](https://open.spotify.com/album/2rzjVifrHIbbSEvBIGavtb) | 5:33 | 2021-07-12 |  |
+| [City Lights](https://open.spotify.com/track/5kmQaaHOzgnzJmDpHJVtQY) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Soul To Souls](https://open.spotify.com/album/2rzjVifrHIbbSEvBIGavtb) | 5:33 | 2021-07-12 | 2023-12-25 |
+| [City Lights](https://open.spotify.com/track/6Idc9PDrhpxmiCB9Juescw) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Soul To Souls](https://open.spotify.com/album/7mIp9ANntd1SpsOEzT0yUM) | 5:33 | 2021-07-12 |  |
 | [City Livin](https://open.spotify.com/track/2xb6nCbYngL8rExaGKw3J6) | [Gabriel Bello](https://open.spotify.com/artist/4ll7f08qkL28fZZhl1Afro) | [New Day](https://open.spotify.com/album/01juG2LBVmwAs8L25hGnwY) | 5:05 | 2021-07-12 |  |
 | [City Vibe](https://open.spotify.com/track/79x2Lkq33VN2rQdrs9i6h6) | [André Ward](https://open.spotify.com/artist/3yroTvZKrVMjmu5yufiWJG) | [Steppin' Up](https://open.spotify.com/album/0DITfrhUVScJdnsT4OmgMT) | 4:44 | 2021-07-12 |  |
 | [Copacetic](https://open.spotify.com/track/3HA4T5LeLY3LNGuwiFq8q4) | [Randy Scott](https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw) | [Serenity](https://open.spotify.com/album/0OwxqIH4qbMowuIaNOLubV) | 4:30 | 2021-07-12 | 2022-07-29 |

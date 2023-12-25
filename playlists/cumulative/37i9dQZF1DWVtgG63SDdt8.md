@@ -4,7 +4,7 @@
 
 > The best new Christmas tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:4akybxRTGHJZ1DXjLhJ1qu">Kirk Franklin</a>
 
-5,068 songs - 14 day 2 hr 43 min
+5,069 songs - 14 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4667,7 +4667,8 @@
 | [Ways Pure](https://open.spotify.com/track/22Xw1GmBdYFT4qvKQnzJFU) | [Licy\-Be](https://open.spotify.com/artist/7m7GQd520oNXZWZzcYDdVA), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [TYJ](https://open.spotify.com/artist/2GgCDulCqeerOttLqFizHT), [Izzy Music](https://open.spotify.com/artist/45180TSD18jljIBTMq3OF5) | [Ways Pure](https://open.spotify.com/album/0tiPB0pmGvMogjdNOzrzJf) | 2:59 | 2022-09-16 | 2022-10-01 |
 | [Wayside](https://open.spotify.com/track/79saAeLCnJCdHtx2jjiZv2) | [Paul the Messenger](https://open.spotify.com/artist/2UbUpUm5AVacCH9eYrIkPD) | [Wayside](https://open.spotify.com/album/6zYCYLJQdGxX2Ekp2Z7fvI) | 3:57 | 2023-03-24 | 2023-04-01 |
 | [We Adore You](https://open.spotify.com/track/2htJ3lVlX1hcsT5SeK0Wme) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [REVERE: Brasil](https://open.spotify.com/album/7C1oFsJIw85C1Bi6zRkqwb) | 5:01 | 2022-05-06 | 2022-05-20 |
-| [We Adore You \- Live](https://open.spotify.com/track/1JolrZmZv9Xr0llFLPdtBE) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK), [Gathering Place Worship Choir](https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm) | [Joy Is Here \(Live\)](https://open.spotify.com/album/1o2PebRakvKTxOlfuxDcZa) | 8:19 | 2023-11-03 |  |
+| [We Adore You \- Live](https://open.spotify.com/track/1JolrZmZv9Xr0llFLPdtBE) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK), [Gathering Place Worship Choir](https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm) | [Joy Is Here \(Live\)](https://open.spotify.com/album/1o2PebRakvKTxOlfuxDcZa) | 8:19 | 2023-11-03 | 2023-12-25 |
+| [We Adore You \- Live](https://open.spotify.com/track/6X0MR8zGMm0HkrY0bbuOI3) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK), [Gathering Place Worship Choir](https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm) | [Joy Is Here \(Live\)](https://open.spotify.com/album/4Dp2qmQr1rgBYujOEgDWFB) | 8:19 | 2023-12-22 |  |
 | [We Agree With Heaven \(with Todd Dulaney\) \- Live](https://open.spotify.com/track/0z5k7HmMCq1NhVcesqslXX) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [We Agree With Heaven \(with Todd Dulaney\) \[Live\]](https://open.spotify.com/album/7bIZXr5Xd2JZKJYgT5kN09) | 7:55 | 2023-05-05 | 2023-05-20 |
 | [We All Need Jesus \- Acoustic](https://open.spotify.com/track/4kjlShIWSLhTbNi6hWTg15) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [We All Need Jesus](https://open.spotify.com/album/2z8Ho9RJ3kMQ8nujTacfVf) | 3:50 | 2022-05-27 | 2022-06-04 |
 | [We Believe](https://open.spotify.com/track/2Y0nAf9t1aeutVYqmXOwq9) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [We Believe](https://open.spotify.com/album/0ZiQ24x1u9F9T8aMsqKYqo) | 4:03 | 2023-08-11 | 2023-08-26 |

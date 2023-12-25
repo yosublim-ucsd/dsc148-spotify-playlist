@@ -1,12 +1,12 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 357951,
+  "num_followers": 358080,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODc0ZWViNzUzNzM3YjAwNWU0ZjdkMGY0NWIwMDc4NDM0MzJmMzRl",
+  "snapshot_id": "MCw2NzkyZjJjMmYwNjQxZTQwMzAyZThkMDI3OTMyMGM0MmRjNzZiNDVj",
   "tracks": [
     {
       "added_at": "2023-03-31 04:11:02",
@@ -511,38 +511,6 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
-        "name": "Conex\u00e3o - EP",
-        "url": "https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 232273,
-      "name": "Love Is Stronger Than Pride",
-      "url": "https://open.spotify.com/track/12S0avZgcxEa4lJXC37tzX"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "Sketches Of A Man",
-        "url": "https://open.spotify.com/album/7JmLvvLBFLczkeKOuEmeiH"
-      },
-      "artists": [
-        {
-          "name": "Dwele",
-          "url": "https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU"
-        }
-      ],
-      "duration_ms": 201266,
-      "name": "Open Your Eyes",
-      "url": "https://open.spotify.com/track/6zteCNciM9nCkDUa86oH3R"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
         "name": "The Best Man Holiday: Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt"
       },
@@ -559,6 +527,22 @@
       "duration_ms": 331133,
       "name": "As",
       "url": "https://open.spotify.com/track/750vuAyjSZGt53r570s8ML"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "Conex\u00e3o - EP",
+        "url": "https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 232273,
+      "name": "Love Is Stronger Than Pride",
+      "url": "https://open.spotify.com/track/12S0avZgcxEa4lJXC37tzX"
     },
     {
       "added_at": "2021-01-15 05:01:00",
@@ -623,6 +607,26 @@
       "duration_ms": 290426,
       "name": "Love Me in a Special Way",
       "url": "https://open.spotify.com/track/4tQXXFad6eReU2jDjE9UuP"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
+        "name": "The Best Of Will Downing: The Millennium Collection - 20th Century Masters",
+        "url": "https://open.spotify.com/album/25s9D0Llmg6ZSvFCK9MDAM"
+      },
+      "artists": [
+        {
+          "name": "Will Downing",
+          "url": "https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY"
+        },
+        {
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "Stop, Look, Listen To Your Heart",
+      "url": "https://open.spotify.com/track/1IDqjd1izHqfglec625jgJ"
     }
   ],
   "unique_name": "Soul Revived",

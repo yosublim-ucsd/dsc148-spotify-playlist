@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 929,
+  "num_followers": 932,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2E4ODc1YzYzY2NhMDNkZDY3ZDJiM2Q3NDIyZWNmZTAzZjYwYjRl",
+  "snapshot_id": "MCwzZjNmNTNhZmRhMmMyMDAwNzgwYmI2NjA5YjY0OTlmYzlhMWY2MjBi",
   "tracks": [
     {
       "added_at": "2023-11-24 04:39:56",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-11-24 04:39:56",
       "album": {
+        "name": "Sibyakukayana",
+        "url": "https://open.spotify.com/album/0MOxqo1SCkpJFfV8oqSX9I"
+      },
+      "artists": [
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        }
+      ],
+      "duration_ms": 185286,
+      "name": "Sibyakukayana",
+      "url": "https://open.spotify.com/track/4kDHniS1iVtxCJEBYyZRIt"
+    },
+    {
+      "added_at": "2023-11-24 04:39:56",
+      "album": {
         "name": "Know God",
         "url": "https://open.spotify.com/album/14xBAnMA04zeJCI0HXo9Fg"
       },
@@ -375,26 +391,6 @@
       "duration_ms": 202031,
       "name": "Know God",
       "url": "https://open.spotify.com/track/6yL4ywybJ7s2jy68inQNyH"
-    },
-    {
-      "added_at": "2023-11-24 04:39:56",
-      "album": {
-        "name": "Semi Final",
-        "url": "https://open.spotify.com/album/0YRa3fnnHj4KWfamSubtl0"
-      },
-      "artists": [
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        },
-        {
-          "name": "Dush",
-          "url": "https://open.spotify.com/artist/1jIysipyPAKkHyIQvIZwBQ"
-        }
-      ],
-      "duration_ms": 172721,
-      "name": "Semi Final",
-      "url": "https://open.spotify.com/track/3UqJPo5PgQTS6kdMRMnczm"
     },
     {
       "added_at": "2023-11-24 04:39:56",
@@ -459,6 +455,26 @@
     {
       "added_at": "2023-11-24 04:39:56",
       "album": {
+        "name": "Semi Final",
+        "url": "https://open.spotify.com/album/0YRa3fnnHj4KWfamSubtl0"
+      },
+      "artists": [
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Dush",
+          "url": "https://open.spotify.com/artist/1jIysipyPAKkHyIQvIZwBQ"
+        }
+      ],
+      "duration_ms": 172721,
+      "name": "Semi Final",
+      "url": "https://open.spotify.com/track/3UqJPo5PgQTS6kdMRMnczm"
+    },
+    {
+      "added_at": "2023-11-24 04:39:56",
+      "album": {
         "name": "Just Bu Just",
         "url": "https://open.spotify.com/album/7bQUSh4b5fi4bYj3OXvZCM"
       },
@@ -507,22 +523,6 @@
     {
       "added_at": "2023-11-24 04:39:56",
       "album": {
-        "name": "Kisses at Midnight",
-        "url": "https://open.spotify.com/album/5PEAiLACkKpr8EDAqNTAye"
-      },
-      "artists": [
-        {
-          "name": "Cindy Sanyu",
-          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
-        }
-      ],
-      "duration_ms": 196858,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/2nkEb4RA55zmn66FLeuU5R"
-    },
-    {
-      "added_at": "2023-11-24 04:39:56",
-      "album": {
         "name": "My Bed",
         "url": "https://open.spotify.com/album/7MoasxIIh6VkzbVYTuv8dO"
       },
@@ -567,18 +567,38 @@
     {
       "added_at": "2023-11-24 04:39:56",
       "album": {
-        "name": "Sibyakukayana",
-        "url": "https://open.spotify.com/album/0MOxqo1SCkpJFfV8oqSX9I"
+        "name": "Kisses at Midnight",
+        "url": "https://open.spotify.com/album/5PEAiLACkKpr8EDAqNTAye"
+      },
+      "artists": [
+        {
+          "name": "Cindy Sanyu",
+          "url": "https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv"
+        }
+      ],
+      "duration_ms": 196858,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/2nkEb4RA55zmn66FLeuU5R"
+    },
+    {
+      "added_at": "2023-11-24 04:39:56",
+      "album": {
+        "name": "Gemazima",
+        "url": "https://open.spotify.com/album/02QbNNia59RV4jwu00khDg"
       },
       "artists": [
         {
           "name": "Daddy Andre",
           "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Teslah",
+          "url": "https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u"
         }
       ],
-      "duration_ms": 185286,
-      "name": "Sibyakukayana",
-      "url": "https://open.spotify.com/track/4kDHniS1iVtxCJEBYyZRIt"
+      "duration_ms": 181342,
+      "name": "Gemazima",
+      "url": "https://open.spotify.com/track/6ctNl82yEypzLqeeMzrTkL"
     },
     {
       "added_at": "2023-11-24 04:39:56",
@@ -595,6 +615,26 @@
       "duration_ms": 242500,
       "name": "Magazine",
       "url": "https://open.spotify.com/track/76dVr5jQGCVElKmsTLVHKq"
+    },
+    {
+      "added_at": "2023-11-24 04:39:56",
+      "album": {
+        "name": "Banger",
+        "url": "https://open.spotify.com/album/4o2MON66Cp04sCMhbJAa7U"
+      },
+      "artists": [
+        {
+          "name": "John Blaq",
+          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
+        },
+        {
+          "name": "Suspekt Leizor",
+          "url": "https://open.spotify.com/artist/2JPOWH88plI7HcSWZugaip"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Banger",
+      "url": "https://open.spotify.com/track/6s50uTx8qzel7HwNuz0xZW"
     },
     {
       "added_at": "2023-11-24 04:39:56",
@@ -659,26 +699,6 @@
     {
       "added_at": "2023-11-24 04:39:56",
       "album": {
-        "name": "Banger",
-        "url": "https://open.spotify.com/album/4o2MON66Cp04sCMhbJAa7U"
-      },
-      "artists": [
-        {
-          "name": "John Blaq",
-          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
-        },
-        {
-          "name": "Suspekt Leizor",
-          "url": "https://open.spotify.com/artist/2JPOWH88plI7HcSWZugaip"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Banger",
-      "url": "https://open.spotify.com/track/6s50uTx8qzel7HwNuz0xZW"
-    },
-    {
-      "added_at": "2023-11-24 04:39:56",
-      "album": {
         "name": "Pull Up On Mi Bumpa",
         "url": "https://open.spotify.com/album/7rD99RB3gdmvDFzRVs2cWc"
       },
@@ -699,8 +719,8 @@
     {
       "added_at": "2023-11-24 04:39:56",
       "album": {
-        "name": "Gemazima",
-        "url": "https://open.spotify.com/album/02QbNNia59RV4jwu00khDg"
+        "name": "Feel Me",
+        "url": "https://open.spotify.com/album/5UclCEq9PPTybmhQt1aX2R"
       },
       "artists": [
         {
@@ -708,13 +728,13 @@
           "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
         },
         {
-          "name": "Teslah",
-          "url": "https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u"
+          "name": "Karole Kasita",
+          "url": "https://open.spotify.com/artist/1RDiu2gDimIlyTwYha6OM0"
         }
       ],
-      "duration_ms": 181342,
-      "name": "Gemazima",
-      "url": "https://open.spotify.com/track/6ctNl82yEypzLqeeMzrTkL"
+      "duration_ms": 196963,
+      "name": "Gyal A Bubble",
+      "url": "https://open.spotify.com/track/1gi6SX3ZHw1IMEtPCL6iwj"
     },
     {
       "added_at": "2023-11-24 04:39:56",
@@ -875,8 +895,8 @@
     {
       "added_at": "2023-11-24 04:39:56",
       "album": {
-        "name": "Feel Me",
-        "url": "https://open.spotify.com/album/5UclCEq9PPTybmhQt1aX2R"
+        "name": "Bwonjagala",
+        "url": "https://open.spotify.com/album/6YZJxiQl1xFwi8Wgu0Dg3Q"
       },
       "artists": [
         {
@@ -884,13 +904,13 @@
           "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
         },
         {
-          "name": "Karole Kasita",
-          "url": "https://open.spotify.com/artist/1RDiu2gDimIlyTwYha6OM0"
+          "name": "Fille",
+          "url": "https://open.spotify.com/artist/5SqLkoaEA3HOgPkesCQkKx"
         }
       ],
-      "duration_ms": 196963,
-      "name": "Gyal A Bubble",
-      "url": "https://open.spotify.com/track/1gi6SX3ZHw1IMEtPCL6iwj"
+      "duration_ms": 178834,
+      "name": "Bwonjagala",
+      "url": "https://open.spotify.com/track/0lEioGELKR2846vLXkzvUM"
     },
     {
       "added_at": "2023-11-24 04:39:56",
@@ -931,26 +951,6 @@
       "duration_ms": 184400,
       "name": "Bikole",
       "url": "https://open.spotify.com/track/3iE5GT16HzXgZLlyVz9NKn"
-    },
-    {
-      "added_at": "2023-11-24 04:39:56",
-      "album": {
-        "name": "Misege",
-        "url": "https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br"
-      },
-      "artists": [
-        {
-          "name": "Dax Vibez",
-          "url": "https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT"
-        },
-        {
-          "name": "ZEX BILANGILANGI",
-          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
-        }
-      ],
-      "duration_ms": 188235,
-      "name": "Misege",
-      "url": "https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf"
     }
   ],
   "unique_name": "Kidandali Parte",

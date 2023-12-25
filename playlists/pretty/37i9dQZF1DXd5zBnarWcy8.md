@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zBnarWcy8.md) - [plain]
 
 > New Orleans kind of funk\. Cover: Cha Wa
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,545 likes - 49 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,551 likes - 49 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lie To Me](https://open.spotify.com/track/7c674n0AaxjWQiYv3g0TBG) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Lifted](https://open.spotify.com/album/4jGggj1AJxwhrVqm5oIJlh) | 4:10 |
-| 2 | [Stompin' Ground](https://open.spotify.com/track/1tXkEoNUFLVfgAdfF4SsNC) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT), [The Dirty Dozen Brass Band](https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7) | [Stompin' Ground](https://open.spotify.com/album/7BO9rd3sjrjgnEyGPjy5HB) | 4:31 |
+| 2 | [Stompin' Ground](https://open.spotify.com/track/7eAyJmVmk60rHkoD0xniKM) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT), [The Dirty Dozen Brass Band](https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7) | [Stompin' Ground](https://open.spotify.com/album/5PROCLSs2Zpe2VWP5RtsuL) | 4:31 |
 | 3 | [Bow Down](https://open.spotify.com/track/75zPkWTK4UY6thDZEiFp3x) | [Cha Wa](https://open.spotify.com/artist/18OO8F6DbNshxJbZ5ugprO) | [My People](https://open.spotify.com/album/5Z1GzBZmKbok1f6iCacE6c) | 3:24 |
 | 4 | [Do You](https://open.spotify.com/track/4YSfp2I61liqg6NtWTBrxp) | [Dumpstaphunk](https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC) | [Where Do We Go From Here](https://open.spotify.com/album/4fd3Nnb4bn3rERllCnKFxR) | 4:52 |
 | 5 | [Cissy Strut](https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [The Meters](https://open.spotify.com/album/1Nt14TE6bKZGzJrROip36y) | 3:06 |
 | 6 | [Church](https://open.spotify.com/track/0MzO0c9Lr1d4mTUQtGhSJX) | [Galactic](https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ) | [Coolin' Off](https://open.spotify.com/album/0xkOcQLjAB9PIEDrGbl4OI) | 5:53 |
 | 7 | [Tripped Out Slim](https://open.spotify.com/track/7b3ceiH1Cy03cR0GtlqgHV) | [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [Parking Lot Symphony](https://open.spotify.com/album/37KlzjSTrsjai1w1hfzsdV) | 2:19 |
-| 8 | [You Got Soul](https://open.spotify.com/track/1vYUTYYAcf2LXSoXUHlRHB) | [Ric Robertson](https://open.spotify.com/artist/7euJV43X9MeQnoQFSELd25) | [Strange World](https://open.spotify.com/album/0pVNvF5LBcZFSPK6MXkEuz) | 3:27 |
+| 8 | [You Got Soul](https://open.spotify.com/track/2JKm37HM6FtS7ryk8KZUB5) | [Ric Robertson](https://open.spotify.com/artist/7euJV43X9MeQnoQFSELd25) | [Strange World](https://open.spotify.com/album/3EA3H7YCID2fFJdy8gho89) | 3:27 |
 | 9 | [LINEN](https://open.spotify.com/track/2Y5jO0YS2s1bmb7tYGKODq) | [Almas Band](https://open.spotify.com/artist/4SfatfmG6iq3aBk69x8D47) | [LINEN](https://open.spotify.com/album/4WJ1oqMhVKKfrmTgOmsuZk) | 4:43 |
 | 10 | [My People](https://open.spotify.com/track/5Oyetsx1wOyE5P9WoyT6OA) | [Cha Wa](https://open.spotify.com/artist/18OO8F6DbNshxJbZ5ugprO) | [My People](https://open.spotify.com/album/5Z1GzBZmKbok1f6iCacE6c) | 3:50 |
 | 11 | [Yes We Can](https://open.spotify.com/track/0y1ZUstwTl10V96fE6K3yH) | [Steven Bernstein](https://open.spotify.com/artist/5pCNKFvPUY8L47ExfM4WLj), [Steven Bernstein's Millennial Territory Orchestra](https://open.spotify.com/artist/4hhciHHoRTp619fuChfJeJ), [Catherine Russell](https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp) | [Yes We Can](https://open.spotify.com/album/5hJZQ77IHFsSefcc5nRw9e) | 6:29 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zBnarWcy8.md) - [plain]
 | 22 | [Here Come The Girls](https://open.spotify.com/track/3wiSzBv2UUK3skM74i22uM) | [Stanton Moore](https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj), [Cyril Neville](https://open.spotify.com/artist/7gZpdFerSL21Z6544jJIzI), [Trombone Shorty](https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR) | [With You In Mind](https://open.spotify.com/album/3prIp8tw4hQx5nHmd9Uhya) | 4:06 |
 | 23 | [Love Will Tear Us Apart](https://open.spotify.com/track/1j2iplFjazFwShpHmlx10W) | [Hot 8 Brass Band](https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD) | [Love Will Tear Us Apart](https://open.spotify.com/album/4BOdO6NVndpFv6P1bLNCZU) | 3:36 |
 | 24 | [Voodoo](https://open.spotify.com/track/465JohWeaz2FKbdKVmXvrJ) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Yellow Moon](https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF) | 4:27 |
-| 25 | [Back Street Lover](https://open.spotify.com/track/1f8RPgmv5f2FGOf59O3pmL) | [Ernie K\-Doe](https://open.spotify.com/artist/3ybBNyjii40yY104IZkcly), [Tipitina’s Record Club](https://open.spotify.com/artist/2obtJE8R0kU7EiJoyEXKAQ) | [Ernie K\. Doe](https://open.spotify.com/album/5TCIBlHmzihdWye05L6YQf) | 2:29 |
+| 25 | [Backstreet Lover](https://open.spotify.com/track/5BDrEmLb5inDyHn7ZSGSsF) | [Ernie K\-Doe](https://open.spotify.com/artist/3ybBNyjii40yY104IZkcly) | [Soul Jazz Records Presents New Orleans Soul: The Original Sound of New Orleans Soul 1960\-76](https://open.spotify.com/album/3tnRmKxUYvCPWLILT5PZL4) | 2:27 |
 | 26 | [Pop, Popcorn Children](https://open.spotify.com/track/0YUzEKoTak7VHts4p1jglt) | [Eldridge Holmes](https://open.spotify.com/artist/25aWvOh8uTg8ZZSZvOPB9P) | [Soul Jazz Records Presents New Orleans Funk 4: Voodoo Fire In New Orleans 1951\-75](https://open.spotify.com/album/0U19UvTHNfTrxKlXe3FvcA) | 2:51 |
 | 27 | [Monk's Mardi Gras](https://open.spotify.com/track/3ts8VLXkDDZhjXYTSOKB0J) | [Big Chief Monk Boudreaux](https://open.spotify.com/artist/6dEA9IhHWUof5HKLeYRGer) | [Won't Bow Down](https://open.spotify.com/album/5H5loW7aKraS3pVG4BnSLP) | 3:45 |
 | 28 | [The Booger Man](https://open.spotify.com/track/0urdlB0O4g9GmevYMKt7y6) | [The Gaturs](https://open.spotify.com/artist/2EHyjVJsfQWhloS0nJErz9), [Willie Tee](https://open.spotify.com/artist/0J4hhNPKGkF96BvCakh2Ab) | [Wasted](https://open.spotify.com/album/2KGCGxusSMQukNV8mvGvFS) | 2:33 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zBnarWcy8.md) - [plain]
 | 48 | [Going On](https://open.spotify.com/track/6E6yIFd8X0XGCbjMHJ9mPH) | [Johnny Sketch & The Dirty Notes](https://open.spotify.com/artist/4euiFJVFE4gijlrQl4b7DF) | [Sketch](https://open.spotify.com/album/0yvRNAIe87HXEiQtxV3DmM) | 4:26 |
 | 49 | [Four Horsemen](https://open.spotify.com/track/2rnxsfbS4peLw0ZP71YRO8) | [Big Chief Monk Boudreaux](https://open.spotify.com/artist/6dEA9IhHWUof5HKLeYRGer) | [Won't Bow Down](https://open.spotify.com/album/5H5loW7aKraS3pVG4BnSLP) | 6:47 |
 
-Snapshot ID: `MCwyNjJmMTAwM2E4ZDdmZjJiMDFkOGU1NzM3NjgzMjY5NDZmYzZhYTZk`
+Snapshot ID: `MCwzZjY4ZGY3NWFlY2RjNDQ5M2ZjZGY5MWFiNGNiN2JjMjI2ZWMzYzZh`

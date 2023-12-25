@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,785 songs - 3 day 7 hr 57 min
+1,786 songs - 3 day 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -841,6 +841,7 @@
 | [Le notti rosse](https://open.spotify.com/track/5axUCaGmmqMGXyAg8BF1FF) | [Marinella Necchi](https://open.spotify.com/artist/4mnHDSsBjWQAaMr7zYXKnh) | [Le notti rosse](https://open.spotify.com/album/0iugzmYeYMj76R1NztVDHr) | 2:14 | 2022-04-14 | 2022-11-13 |
 | [Le onde](https://open.spotify.com/track/6sEz1Cd0HVXRXuvIw9zAmK) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Ludovico Einaudi: Le onde](https://open.spotify.com/album/16DNdOQumrQqrwETEfI5y7) | 5:23 | 2021-04-22 | 2021-12-21 |
 | [Le Onde](https://open.spotify.com/track/1ULzttQgU3Q9EaIpdoxF1T) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Le Onde](https://open.spotify.com/album/3noVhEOyuTVo9ajhELUq8V) | 5:24 | 2022-09-29 | 2022-11-12 |
+| [Le Recueillement](https://open.spotify.com/track/6fHq66kBS2OJiWu3ZGNZj9) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [Le Recueillement](https://open.spotify.com/album/28bPi73lPKGOd8x9AeYFm6) | 2:27 | 2023-12-21 |  |
 | [Le rêve de toi](https://open.spotify.com/track/70130UTPY4KvhNbYZwkeGL) | [Nicole Pelletier](https://open.spotify.com/artist/42s2bRUZDcAxHkGW5GXjpG) | [Le rêve de toi](https://open.spotify.com/album/5lwC8W3Zo1CG7U3OfJyGtI) | 3:38 | 2021-04-24 | 2022-07-28 |
 | [Le soleil brille](https://open.spotify.com/track/33JTqE9e7gORkp63S7FZF2) | [Arabelle Blanchar](https://open.spotify.com/artist/2pMQiEztTsr0aHaQp6pM08) | [Le soleil brille](https://open.spotify.com/album/3TPBg1dhAwxW3m63reCbhY) | 2:39 | 2021-05-23 | 2022-04-28 |
 | [Leander](https://open.spotify.com/track/02tMk9BDH5vxPUNdkPVppT) | [Bert Hearns](https://open.spotify.com/artist/1aGVRfsCFUIKGa775i4QJs) | [Leander](https://open.spotify.com/album/0gMTM9hYtvddgsT57Fmo9u) | 2:04 | 2021-03-15 | 2021-05-16 |
@@ -1625,7 +1626,7 @@
 | [Truss](https://open.spotify.com/track/1GuA6RiXT3Pwc7Qyuty0pe) | [Die Kaiserin](https://open.spotify.com/artist/76TYz19NwovIfQ1hS7g0LV) | [Imvula/Truss](https://open.spotify.com/album/2PgSIpWxAyvrkIw0zhg59c) | 1:56 | 2022-03-29 | 2022-04-04 |
 | [Trust](https://open.spotify.com/track/1EERR4elDmZ67iD5MU6Bs3) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Trust](https://open.spotify.com/album/0bcqTCET4TXdU3KFEuPFMv) | 2:23 | 2022-07-08 | 2023-10-27 |
 | [Truthful](https://open.spotify.com/track/6OQcOlYGnrH4HeiyjvyCOo) | [Cassandra Millen](https://open.spotify.com/artist/1UMCj1ixpKQ4Bg9VWsqQel) | [Truthful](https://open.spotify.com/album/0H5pipOYLuUxNK3GYcPMNx) | 2:07 | 2021-03-22 | 2022-04-17 |
-| [Träumerei](https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Träumerei](https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ) | 2:07 | 2021-11-13 |  |
+| [Träumerei](https://open.spotify.com/track/5vz0Vls8TbtlI58CHQrIpb) | [Jørg Sorensen](https://open.spotify.com/artist/4nmvmUQiWmoz5AsRoxW41b) | [Träumerei](https://open.spotify.com/album/08ACq6XiMkbZr3pouk4piJ) | 2:07 | 2021-11-13 | 2023-12-25 |
 | [Tsundere](https://open.spotify.com/track/053XLQrUhxw9z3jSNZ8eS9) | [ai.umi](https://open.spotify.com/artist/6avDPCpFyESoLK7WQf1hu0) | [Tsundere](https://open.spotify.com/album/2fOHmTIhnX8Hoe4rnrEjhi) | 2:11 | 2022-03-29 | 2022-06-06 |
 | [Tu as disparu](https://open.spotify.com/track/7guzWL6scF2bIRud4Mfk9Y) | [Laetitia Dostie](https://open.spotify.com/artist/5s6PaKcOZ8NA318EJoA86v) | [Tu as disparu](https://open.spotify.com/album/1zNFGOB6nNKS6pHmkwpbaD) | 1:55 | 2022-08-08 | 2023-03-16 |
 | [Tu brilles](https://open.spotify.com/track/4lQ8UtqxO1SRpMf4m5pNa9) | [Tyra Lindqvist](https://open.spotify.com/artist/0i0eyDR8HC7sY4eUNKIAtI) | [Tu brilles](https://open.spotify.com/album/3qg5hHtKgkTimpSAbRVrhc) | 2:22 | 2021-03-10 | 2021-03-11 |

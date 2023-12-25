@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 482323,
+  "num_followers": 482347,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNThjZjczMzYxNzFmOWM2ZDZlZmJlM2U0OGRlMTMzNmRlN2E4NjRj",
+  "snapshot_id": "MCw2MDJjNDdhYzJkMWI1NmQ3MWI2MGM2MjM0NjdlZTUxNGRiMDc0MmMw",
   "tracks": [
     {
       "added_at": "2023-12-06 09:09:14",
@@ -591,6 +591,22 @@
     {
       "added_at": "2023-12-06 09:09:14",
       "album": {
+        "name": "as long as you're okay",
+        "url": "https://open.spotify.com/album/4WxKF7kCXULf9zgAug5EpE"
+      },
+      "artists": [
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        }
+      ],
+      "duration_ms": 173766,
+      "name": "say what's on your mind",
+      "url": "https://open.spotify.com/track/2ZQIrXkgwZeWp4NQTclnpY"
+    },
+    {
+      "added_at": "2023-12-06 09:09:14",
+      "album": {
         "name": "My Lovely Liar, Pt. 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 202173,
       "name": "Luv Luv Luv",
       "url": "https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ"
-    },
-    {
-      "added_at": "2023-12-06 09:09:14",
-      "album": {
-        "name": "as long as you're okay",
-        "url": "https://open.spotify.com/album/4WxKF7kCXULf9zgAug5EpE"
-      },
-      "artists": [
-        {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
-        }
-      ],
-      "duration_ms": 173766,
-      "name": "say what's on your mind",
-      "url": "https://open.spotify.com/track/2ZQIrXkgwZeWp4NQTclnpY"
     },
     {
       "added_at": "2023-12-06 09:09:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new Christmas tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:4akybxRTGHJZ1DXjLhJ1qu">Kirk Franklin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,157 likes - 86 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,299 likes - 86 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 44 | [Behold Messiah](https://open.spotify.com/track/40vLncM2rTQI22HOf7F6n5) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Behold Messiah](https://open.spotify.com/album/0b5akzs3AfLDsFiYLyJ48b) | 5:16 |
 | 45 | [Go Tell It On The Mountain](https://open.spotify.com/track/4axwdkrC1PQvrp3GWedDBZ) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Jeremiah Woods](https://open.spotify.com/artist/6hvKFsimQHgWJsYJcsBomt), [Jami Garcia](https://open.spotify.com/artist/45GgPUXRzUxrIxNFh9T6hz) | [Hope Has Come](https://open.spotify.com/album/4l6WLBSqXqEsWxvWGZ3Bp1) | 2:56 |
 | 46 | [Christmas Feels Different This Year](https://open.spotify.com/track/5mB92R9lCbajm6jHTiwi79) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Christmas Feels Different This Year](https://open.spotify.com/album/1GFtrmA7LSta9pauZI9fPj) | 3:23 |
-| 47 | [We Adore You \- Live](https://open.spotify.com/track/1JolrZmZv9Xr0llFLPdtBE) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK), [Gathering Place Worship Choir](https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm) | [Joy Is Here \(Live\)](https://open.spotify.com/album/1o2PebRakvKTxOlfuxDcZa) | 8:19 |
+| 47 | [We Adore You \- Live](https://open.spotify.com/track/6X0MR8zGMm0HkrY0bbuOI3) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Melvin Crispell III](https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK), [Gathering Place Worship Choir](https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm) | [Joy Is Here \(Live\)](https://open.spotify.com/album/4Dp2qmQr1rgBYujOEgDWFB) | 8:19 |
 | 48 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/5V6sMZv9k53ngSlMMxz6wE) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/16zKXuUfl1d58gk4ntAJHr) | 4:22 |
 | 49 | [Joy to The World](https://open.spotify.com/track/59NgScBh9CosVrT7LG2tLZ) | [Shout Praises Kids](https://open.spotify.com/artist/0SKVoWXola9WXgw3PwMYpE) | [Joy To The World](https://open.spotify.com/album/4tFYjAoxTDaCBjxPXm229a) | 4:06 |
 | 50 | [This Christmas](https://open.spotify.com/track/7ymACyIlTg1ZTTRoZdnPAN) | [The Color](https://open.spotify.com/artist/5Zrsjw80yCENGwI7YJaT4d) | [This Christmas](https://open.spotify.com/album/4rzPckbuNLw3gVvFWX7WM7) | 3:08 |
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 85 | [Feliz Navidad](https://open.spotify.com/track/4zmMCpzxy9mt4gW8C0Uufk) | [Yamaree](https://open.spotify.com/artist/7pxDHAwWckKzgQI8xj7yY0), [Ruby Cavazos](https://open.spotify.com/artist/1kBE8crkTKvG3ENQktbe1j), [Zoe Jean Fowler](https://open.spotify.com/artist/79i4Y9rLmj4djhik1uYDQm) | [CHRISTMAS WITH FRIENDS](https://open.spotify.com/album/2LaGLXCOEdRF37oogLRDe6) | 2:37 |
 | 86 | [Silent Night](https://open.spotify.com/track/5OzOBgprIqWm4kwByR72ln) | [Jesse Frohling](https://open.spotify.com/artist/4oxPN6AWEBO80UaVutGUdY), [Kenzie Frohling](https://open.spotify.com/artist/6BhByg1qlepPSo2RPtlC0y), [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR) | [Silent Night](https://open.spotify.com/album/1C8dBLdykBJdhg6RFGE4Lb) | 3:21 |
 
-Snapshot ID: `MCwyMmVhN2EwM2ZmY2Y0NjNiMDA0NTVhZmY3Yzc5MWQ3NGU4YWZmNmUx`
+Snapshot ID: `MCw4NTFkNTQwYWU1MmM0YTA4NjhkNTQ4ZDM1ZTMxMDAzMGY3OWUxMGQz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: レトロリロン
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,024 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,025 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [killi'n me](https://open.spotify.com/track/3UMeXNh73EyZdLzcrOL8jc) | [vividboooy](https://open.spotify.com/artist/2HdFwTHtgBqm7EdJsViK6F), [DALU](https://open.spotify.com/artist/0hdHoi970cAuqTINgtnLrm) | [killi'n me](https://open.spotify.com/album/3Mm6LCzDZzFarHQeltVvTO) | 3:03 |
 | 80 | [new man](https://open.spotify.com/track/1ymbl9x2nZaIeJkBjAYvA0) | [EXPCTR](https://open.spotify.com/artist/3ipgUyTWKYk6KAm91kTdrk) | [DISPLAY THREE](https://open.spotify.com/album/7aH7KuxrIZAslLap3lhVu5) | 2:40 |
 
-Snapshot ID: `MCwxNzY0ZTJhMTE3OWM3OTRhNGY1OWM0MWUwZTZjZGU1MzUxMjk1Nzcw`
+Snapshot ID: `MCw5NTk2NjBkMTQ2ZWYxMGMyNjE3ZTU5NTA4ODdkZGY3ZjliNzk3ZTI4`

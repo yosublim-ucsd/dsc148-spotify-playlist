@@ -1,12 +1,12 @@
 {
   "description": "Songs of love, hope and positivity for the world.   Listen with Spirit!  Cover: Hannah Kerr",
-  "num_followers": 28082,
+  "num_followers": 28098,
   "original_name": "Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTViZjU4ODY2YTJmNmE5OTQ4MjdmMzE0Mzk2NGFmMWI2NWQyNzc2",
+  "snapshot_id": "MCxkZTdiMzhjMGE5MmYxYWM2M2I5OGEwOGI3YmE2NmViOTMwODBlMzlm",
   "tracks": [
     {
       "added_at": "2023-02-18 06:22:02",
@@ -763,26 +763,6 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
-        "name": "Even in the Valley",
-        "url": "https://open.spotify.com/album/1sF81pzpaD3ie1vNCtnKcg"
-      },
-      "artists": [
-        {
-          "name": "Kingly",
-          "url": "https://open.spotify.com/artist/3K82LFHTTHMqrp1qXyEhpZ"
-        },
-        {
-          "name": "John Strandell",
-          "url": "https://open.spotify.com/artist/03IKdQ4AUOq3YUPFoYJekd"
-        }
-      ],
-      "duration_ms": 203301,
-      "name": "Even in the Valley",
-      "url": "https://open.spotify.com/track/4A7euppddfPjfKyHpBvh08"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
         "name": "NOT BY CHANCE",
         "url": "https://open.spotify.com/album/3b8v7puIRYD29jbCAlWWUP"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 230574,
       "name": "MAYBE",
       "url": "https://open.spotify.com/track/1jV1Y8adI8byyeBimWankc"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
+        "name": "Even in the Valley",
+        "url": "https://open.spotify.com/album/1sF81pzpaD3ie1vNCtnKcg"
+      },
+      "artists": [
+        {
+          "name": "Kingly",
+          "url": "https://open.spotify.com/artist/3K82LFHTTHMqrp1qXyEhpZ"
+        },
+        {
+          "name": "John Strandell",
+          "url": "https://open.spotify.com/artist/03IKdQ4AUOq3YUPFoYJekd"
+        }
+      ],
+      "duration_ms": 203301,
+      "name": "Even in the Valley",
+      "url": "https://open.spotify.com/track/4A7euppddfPjfKyHpBvh08"
     },
     {
       "added_at": "2023-02-18 06:22:02",

@@ -4,7 +4,7 @@
 
 > Midwest music breaking waves\. Cover: <a href="spotify:artist:6AUl0ykLLpvTktob97x9hO">Tee Grizzley</a>
 
-559 songs - 1 day 3 hr 19 min
+560 songs - 1 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,7 +339,8 @@
 | [My All](https://open.spotify.com/track/2UQ2oUbHiB8wWYCE42JX0k) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [My All](https://open.spotify.com/album/0TDPqwRP3NuPYnxm45BqPg) | 3:17 | 2023-01-13 | 2023-04-16 |
 | [My Bitch](https://open.spotify.com/track/3sTdCzV9iKrRuri78a7MpV) | [Detroit Zeus](https://open.spotify.com/artist/5d8yY7EhoN4gcMOsEAQqur) | [My Bitch](https://open.spotify.com/album/7qIxEPMZHiDVK39XxZ972l) | 2:11 | 2022-03-04 | 2022-05-14 |
 | [My Friends \(feat\. Lil Durk\)](https://open.spotify.com/track/0wTTf3msjDJ8NcZGTmQJQV) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [My Friends \(feat\. Lil Durk\)](https://open.spotify.com/album/2clsCCVAKCSc7PcwJ7uFLW) | 2:38 | 2022-10-25 | 2023-01-25 |
-| [My Mind](https://open.spotify.com/track/3J0myWc0Pp8WPbn69l42dk) | [Ivory Scott](https://open.spotify.com/artist/3fpp6yYqQevscivKbtpgPF), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [My Mind](https://open.spotify.com/album/7sMsVy6xRIRCOOX2QAXiVk) | 2:37 | 2023-10-13 |  |
+| [My Mind](https://open.spotify.com/track/1bG7V74gat9FKRHbtmj1HC) | [Ivory Scott](https://open.spotify.com/artist/3fpp6yYqQevscivKbtpgPF), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [My Mind](https://open.spotify.com/album/1XsdneRF7uSkckwyt4IX7j) | 2:37 | 2023-12-15 |  |
+| [My Mind](https://open.spotify.com/track/3J0myWc0Pp8WPbn69l42dk) | [Ivory Scott](https://open.spotify.com/artist/3fpp6yYqQevscivKbtpgPF), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [My Mind](https://open.spotify.com/album/7sMsVy6xRIRCOOX2QAXiVk) | 2:37 | 2023-10-13 | 2023-12-25 |
 | [NECK TAT](https://open.spotify.com/track/4uc2kcLYBb7pOU99qEDLBR) | [Freddy Got Magic Supa Bwe](https://open.spotify.com/artist/5QZEw4oqiQ98Ygqgu8dJ8i), [Supa Bwe](https://open.spotify.com/artist/05kWC05qQmocVoC5Udgl6D) | [NECK TAT](https://open.spotify.com/album/01QZw9AcDKefG2gMTHET9F) | 2:29 | 2023-06-23 | 2023-07-15 |
 | [Need Prescriptions \(feat\. Lil Durk\)](https://open.spotify.com/track/71dIX6uF8GBFCHbgx4JeXn) | [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [4 The Trenches](https://open.spotify.com/album/3Uqp9nAzjdY5Ew55jk0bCg) | 2:24 | 2023-08-25 | 2023-12-16 |
 | [Never Know](https://open.spotify.com/track/0DjgLMQhrboGCPrm1iJcTs) | [Smba](https://open.spotify.com/artist/0txn6cWGodSiZiFoOtqvdj), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Never Know](https://open.spotify.com/album/6KyAZhtaaOra6CPXhJUpnb) | 2:37 | 2022-02-18 | 2022-04-02 |

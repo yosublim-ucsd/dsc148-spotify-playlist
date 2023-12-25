@@ -4,7 +4,7 @@
 
 > Les plus grands hits en version berceuse
 
-147 songs - 9 hr 6 min
+148 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Always Be My Baby](https://open.spotify.com/track/3pBhFEpDDPIaZedPWyGdOF) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [90s RnB Lullabies, Vol\. 2](https://open.spotify.com/album/0ZDMXAwT03fQNnRGQy1Poe) | 4:12 | 2021-04-20 |  |
 | [Anissa](https://open.spotify.com/track/2kdYc0p3YrcBYLU2MhbUDX) | [Musique pour bébé](https://open.spotify.com/artist/6RAXnZrUh0qoILkWSBHLXj), [Berceuses Radio Doudou](https://open.spotify.com/artist/6o8BnqDEYqTcdesq0Ajx86) | [Musique pour bébé: Les tubes 2020 \(Versions berceuses\)](https://open.spotify.com/album/5SeB3FqNbiLkKAwNBJo2Gn) | 4:05 | 2021-04-20 |  |
 | [Bad Guy](https://open.spotify.com/track/5MOKDisAMquLXEcqOAXc4V) | [Sleeping Panda](https://open.spotify.com/artist/1laYpKGp2Y09VP6tBSwcGN) | [Lullaby Renditions of Billie Eilish](https://open.spotify.com/album/2rd9NUkS4eyu2c6kIFRscL) | 2:56 | 2021-04-20 |  |
-| [Beautiful People \- Instrumental](https://open.spotify.com/track/6e8ausDddiGiiqCe2Zkliw) | [Lullaby Players](https://open.spotify.com/artist/1IVUK6wK1PvFI6adwUcoc4) | [Lullaby Pop Hits 2019 \(Instrumental\)](https://open.spotify.com/album/1hLfVcVC8KhpQgMJLZf8nL) | 3:01 | 2021-04-20 |  |
+| [Beautiful People \- Instrumental](https://open.spotify.com/track/18zHctXZpTpfb7Hmpegter) | [Lullaby Players](https://open.spotify.com/artist/1IVUK6wK1PvFI6adwUcoc4) | [Lullaby Pop Hits 2019 \(Instrumental\)](https://open.spotify.com/album/1DIDEhslScZfEet6zUTZaD) | 3:01 | 2021-04-20 |  |
+| [Beautiful People \- Instrumental](https://open.spotify.com/track/6e8ausDddiGiiqCe2Zkliw) | [Lullaby Players](https://open.spotify.com/artist/1IVUK6wK1PvFI6adwUcoc4) | [Lullaby Pop Hits 2019 \(Instrumental\)](https://open.spotify.com/album/1hLfVcVC8KhpQgMJLZf8nL) | 3:01 | 2021-04-20 | 2023-12-25 |
 | [Believe](https://open.spotify.com/track/2u7DvpLjLtGRLozJbmbW5L) | [Twinkle Twinkle Little Rock Star](https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d) | [Lullaby Versions of Cher](https://open.spotify.com/album/72YsufTbnHR7mrR9gBMZAF) | 4:54 | 2021-04-20 |  |
 | [Best Song Ever](https://open.spotify.com/track/0p2lGUkhJOXovMUifi7BhG) | [Tiny Tracks](https://open.spotify.com/artist/42QKiNCqr36B0gfgETuA9t) | [Lullaby Versions of One Direction](https://open.spotify.com/album/5dFg3Cb5e7O37dKbxlvflV) | 4:39 | 2021-04-20 |  |
 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/0bRkBjM2ztAkRmpNLFyTch) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Lullaby Renditions of Selena](https://open.spotify.com/album/5DJN2nHQLe7LQcQ3r1QG8g) | 2:48 | 2021-04-20 |  |

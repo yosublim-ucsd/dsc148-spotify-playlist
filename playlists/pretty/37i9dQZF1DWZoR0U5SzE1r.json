@@ -1,12 +1,12 @@
 {
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
-  "num_followers": 285820,
+  "num_followers": 285964,
   "original_name": "epicPRAISE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTEzM2U3YTBlYjY4OWRlZWM2ODUzNDdmNTUxNmM4NTcwNjRjMzlh",
+  "snapshot_id": "MCw3NTYxNDg3ODc3NDQ0NGY3NmU0MGJlZjFiMWIyZTc2ZDljZjViYzk0",
   "tracks": [
     {
       "added_at": "2020-06-26 04:02:00",
@@ -779,26 +779,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "The Loft Sessions",
-        "url": "https://open.spotify.com/album/4gpwBS3FpUuSPfrV8D9Bqr"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jeremy Riddle",
-          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
-        }
-      ],
-      "duration_ms": 264680,
-      "name": "Fall Afresh",
-      "url": "https://open.spotify.com/track/42TAP4olyZONFmNT48O10D"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Awe + Wonder (Live)",
         "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 389897,
       "name": "Hosanna - Live",
       "url": "https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "The Loft Sessions",
+        "url": "https://open.spotify.com/album/4gpwBS3FpUuSPfrV8D9Bqr"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jeremy Riddle",
+          "url": "https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi"
+        }
+      ],
+      "duration_ms": 264680,
+      "name": "Fall Afresh",
+      "url": "https://open.spotify.com/track/42TAP4olyZONFmNT48O10D"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -931,26 +931,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Awe + Wonder (Live)",
-        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 510795,
-      "name": "Nothing Else - Live",
-      "url": "https://open.spotify.com/track/7sAJH3KsjrZG7tuQvd2OeE"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Follow You Anywhere (Live)",
         "url": "https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 243269,
       "name": "My Prayer For You",
       "url": "https://open.spotify.com/track/0h4Rk0OJbf4tvUqtHLo4UE"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Awe + Wonder (Live)",
+        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 510795,
+      "name": "Nothing Else - Live",
+      "url": "https://open.spotify.com/track/7sAJH3KsjrZG7tuQvd2OeE"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Dancing On The Waves (Live)",
+        "url": "https://open.spotify.com/album/6Y4TkUVERN9O7D1FTgV08r"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "duration_ms": 269040,
+      "name": "Dancing On The Waves - Live At The Wheelhouse",
+      "url": "https://open.spotify.com/track/0vmjzHNn4onx9Jkod8xSs0"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "King Of Glory (Live)",
         "url": "https://open.spotify.com/album/4zl5e8SW0ckoKiiD32HaLh"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 249013,
       "name": "King Of Glory - Live",
       "url": "https://open.spotify.com/track/38Gl5B0Ixqmeon96E2xsMl"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Dancing On The Waves (Live)",
-        "url": "https://open.spotify.com/album/6Y4TkUVERN9O7D1FTgV08r"
-      },
-      "artists": [
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        }
-      ],
-      "duration_ms": 269040,
-      "name": "Dancing On The Waves - Live At The Wheelhouse",
-      "url": "https://open.spotify.com/track/0vmjzHNn4onx9Jkod8xSs0"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Every Nation",
-        "url": "https://open.spotify.com/album/5bO5rv7fN82wztgC4Q4TZv"
-      },
-      "artists": [
-        {
-          "name": "Lindy Cofer",
-          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
-        },
-        {
-          "name": "Circuit Rider Music",
-          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
-        }
-      ],
-      "duration_ms": 350357,
-      "name": "Take Courage (Live)",
-      "url": "https://open.spotify.com/track/64Gil9pakWkRHqnXZSSbrm"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "Songs of the House (Live)",
         "url": "https://open.spotify.com/album/2hM80SW0Vs6ekzIPFzQrwg"
       },
@@ -1743,18 +1723,38 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Overflow",
-        "url": "https://open.spotify.com/album/36zbRaoRByQr4yNEdFxe9Y"
+        "name": "Every Nation",
+        "url": "https://open.spotify.com/album/5bO5rv7fN82wztgC4Q4TZv"
       },
       "artists": [
         {
-          "name": "Hannah Kerr",
-          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
+          "name": "Lindy Cofer",
+          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
+        },
+        {
+          "name": "Circuit Rider Music",
+          "url": "https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D"
         }
       ],
-      "duration_ms": 224026,
-      "name": "I Stand Here",
-      "url": "https://open.spotify.com/track/51eNSYUSTzMn1iPxtkgXWd"
+      "duration_ms": 350357,
+      "name": "Take Courage (Live)",
+      "url": "https://open.spotify.com/track/64Gil9pakWkRHqnXZSSbrm"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "On My Side (Live)",
+        "url": "https://open.spotify.com/album/4zevDRdu62jpgxguBs7VRe"
+      },
+      "artists": [
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 301106,
+      "name": "Throne Room - Live",
+      "url": "https://open.spotify.com/track/3xMyljv1oy2f1HWls3tMp8"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1791,18 +1791,18 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "On My Side (Live)",
-        "url": "https://open.spotify.com/album/4zevDRdu62jpgxguBs7VRe"
+        "name": "Overflow",
+        "url": "https://open.spotify.com/album/36zbRaoRByQr4yNEdFxe9Y"
       },
       "artists": [
         {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+          "name": "Hannah Kerr",
+          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
         }
       ],
-      "duration_ms": 301106,
-      "name": "Throne Room - Live",
-      "url": "https://open.spotify.com/track/3xMyljv1oy2f1HWls3tMp8"
+      "duration_ms": 224026,
+      "name": "I Stand Here",
+      "url": "https://open.spotify.com/track/51eNSYUSTzMn1iPxtkgXWd"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1823,22 +1823,18 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Mover Of Mountains (Live)",
-        "url": "https://open.spotify.com/album/5oTXi1hKXRLa4GIpcYweXS"
+        "name": "Better Word",
+        "url": "https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak"
       },
       "artists": [
         {
-          "name": "Citipointe Worship",
-          "url": "https://open.spotify.com/artist/4QU2KMv8a76IHXUYruc3r2"
-        },
-        {
-          "name": "Aaron Lucas",
-          "url": "https://open.spotify.com/artist/0S1Hy45xljd3drmhWaNO6N"
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
         }
       ],
-      "duration_ms": 344986,
-      "name": "Mover Of Mountains - Live",
-      "url": "https://open.spotify.com/track/5xzOWqDeMxavlNPkKrWt9b"
+      "duration_ms": 351213,
+      "name": "Inhabit - Live",
+      "url": "https://open.spotify.com/track/2z2s7KN9tLmijBa6k1ECKd"
     }
   ],
   "unique_name": "epicPRAISE",

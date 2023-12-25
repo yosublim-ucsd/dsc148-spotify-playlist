@@ -4,7 +4,7 @@
 
 > ネット発の新たな才能として注目を集めるシンガーソングライター、Eveの楽曲を1つのプレイリストに。Essential tracks from Japanese singer\-songwriter, Eve.
 
-66 songs - 5 hr 27 min
+67 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [レーゾンデートル](https://open.spotify.com/track/0Nn9gfz60CyzqnFXiAphMs) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [レーゾンデートル](https://open.spotify.com/album/7sRl7u98siioOxgMhgV8Ne) | 3:42 | 2022-11-30 |  |
 | [冒険録](https://open.spotify.com/track/793HiNkAcZTe1hi8rhYXg2) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [冒険録](https://open.spotify.com/album/2tdDdSjWA3N9l6EYZ0DZg0) | 3:47 | 2023-08-10 | 2023-08-17 |
 | [虎狼来](https://open.spotify.com/track/4cULlSu8XPFcZiQ63WfHeZ) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [ぼくらの](https://open.spotify.com/album/5jPJGiYenVsljZiKBbUmsY) | 3:55 | 2023-03-22 | 2023-03-23 |
+| [逃避行](https://open.spotify.com/track/6wnPWVgHI1e6BquACh2Ue5) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [逃避行](https://open.spotify.com/album/5ERkFsdPk4pYY5MMdp3LPD) | 2:56 | 2023-12-24 |  |
 | [闇夜](https://open.spotify.com/track/6aW8fq5lGlhoZxhLyC7JuL) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [闇夜](https://open.spotify.com/album/1BB2OJJteupdXb2jYDH4Bp) | 3:49 | 2022-11-30 |  |
 | [黄金の日々](https://open.spotify.com/track/0lWo402BbKVikJ8A6fADdD) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [ぼくらの](https://open.spotify.com/album/5jPJGiYenVsljZiKBbUmsY) | 3:26 | 2023-03-22 | 2023-03-23 |
 

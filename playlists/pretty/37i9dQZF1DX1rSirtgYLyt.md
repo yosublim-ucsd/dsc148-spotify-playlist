@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 
 > The best cover versions from the world of Blues\. Taj Mahal on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,026 likes - 100 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,095 likes - 100 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 54 | [House Of The Rising Sun](https://open.spotify.com/track/5mv7gXwH5qYChfwISnOx94) | [Roxy Perry](https://open.spotify.com/artist/5oFeTjmgNvB17ju7pOT7Tf) | [Back In Bluesville](https://open.spotify.com/album/1YocQJ1WyxCQ7bSCPg2A6N) | 5:02 |
 | 55 | [Hound Dog](https://open.spotify.com/track/4zWSge8GdwbqY2aTFX98rR) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Greatest Blues Covers](https://open.spotify.com/album/16DVtb2ktkxqpkzFsYGnSG) | 5:33 |
 | 56 | [Don't Give a Damn](https://open.spotify.com/track/2jFIiF5GpgS5PL8y7rFurn) | [Pete Alderton](https://open.spotify.com/artist/6ZcrtRB04NsWQp5bTnMSem) | [Cover My Blues](https://open.spotify.com/album/417wJrH380kNJ1SBJwAgtm) | 2:27 |
-| 57 | [When The Levee Breaks \(Part One\)](https://open.spotify.com/track/1hzhyWY6IkZEnVRPIDIhwm) | [Magic Slim](https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x), [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k), [Billy Branch](https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t) | [All Blues's Up: Songs of Led Zeppelin](https://open.spotify.com/album/1nvuBxN1Uc6HdVyS2J01Yp) | 2:19 |
+| 57 | [When The Levee Breaks \(Part One\)](https://open.spotify.com/track/0kQuE7df1Dhji3XvekSCet) | [Magic Slim](https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x), [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k), [Billy Branch](https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t) | [Whole Lotta Blues: Songs Of Led Zeppelin](https://open.spotify.com/album/5QLrtYMED7v2em3rl8wKFZ) | 2:19 |
 | 58 | [Whole Lotta Rosie](https://open.spotify.com/track/3gRmX5TE7k74k7yDXzvmoR) | [Jesse Dayton](https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa) | [Mixtape Volume 1](https://open.spotify.com/album/2EHVKbkVpBo5InQALrV66h) | 3:31 |
 | 59 | [Te Ni Nee Ni Nu](https://open.spotify.com/track/6FLhQua5ju8et7kCH6pDLA) | [Lou Ann Barton](https://open.spotify.com/artist/0uIrm4Ub9qBmp4t7A2Rchk) | [All Time Favorites: Lou Ann Barton](https://open.spotify.com/album/05lqmLDciO40z9cFmFSLYJ) | 2:54 |
 | 60 | [Look on Yonder Wall](https://open.spotify.com/track/773LlUafLOEk5AKr1DIGag) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Strange Angels: In Flight with Elmore James](https://open.spotify.com/album/3qeVFVdY4jf4fD3nkZ4ZdN) | 3:43 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rSirtgYLyt.md) - [plain]
 | 86 | [Stop Messin’ Round \(Live\)](https://open.spotify.com/track/7FD3t0JgZ46k28egOPYfHa) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [Blues From The Heart Live \(Live\)](https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp) | 3:49 |
 | 87 | [Born Under A Bad Sign](https://open.spotify.com/track/2uxsnsH0XzOBZkMrSFVmll) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Wheels Of Fire](https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9) | 3:09 |
 | 88 | [Under My Thumb](https://open.spotify.com/track/2rJnWhDGKpWQOXqHy5tF1V) | [Lucky Peterson](https://open.spotify.com/artist/3OxsMm9KHw2FRJLGHtILl5) | [All Blues'd Up: Songs of the Rolling Stones](https://open.spotify.com/album/202sAEHP90qOJ4wFQF5RO9) | 4:25 |
-| 89 | [You Need Love](https://open.spotify.com/track/6J0CecH7Bp1Do60SXqWIxv) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD), [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [All Blues's Up: Songs of Led Zeppelin](https://open.spotify.com/album/1nvuBxN1Uc6HdVyS2J01Yp) | 2:55 |
+| 89 | [You Need Love](https://open.spotify.com/track/77kH6aQhubc0Qwb2X8jC9z) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD), [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Whole Lotta Blues: Songs Of Led Zeppelin](https://open.spotify.com/album/5QLrtYMED7v2em3rl8wKFZ) | 2:55 |
 | 90 | [Beast of Burden](https://open.spotify.com/track/0lAmuKUti1Z6xxSr2EDOhb) | [The Holmes Brothers](https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW) | [All Blues'd Up: Songs of the Rolling Stones](https://open.spotify.com/album/202sAEHP90qOJ4wFQF5RO9) | 4:50 |
 | 91 | [The Sky Is Crying](https://open.spotify.com/track/5F1PDuoQ9ajtBnKAPVOqT4) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Stax Profiles: Albert King](https://open.spotify.com/album/5QeVc1L4mudB1lsTNeeiGL) | 4:11 |
 | 92 | [Like Crying \(with Noel Gallagher\) \(Live from The London Palladium\)](https://open.spotify.com/track/1QpCvHq958Nsev3qQtIInc) | [Mick Fleetwood and Friends](https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk) | [Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac](https://open.spotify.com/album/4mRWbr6PnIIo3ealvjT60y) | 2:38 |
 | 93 | [You Shook Me \- Remaster](https://open.spotify.com/track/2Y1HhOfvtzms7urVKFY67n) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin \(Deluxe Edition\)](https://open.spotify.com/album/22BzOOZKYZ2jYYKLpOlnET) | 6:28 |
 | 94 | [Fixin' To Die Blues](https://open.spotify.com/track/5xscuYoBceOfi1y2HfpPZd) | [Rory Block](https://open.spotify.com/artist/6hkNj3GAqFbkEUCs3R1dY3) | [Keepin' Outta Trouble: A Tribute To Bukka White](https://open.spotify.com/album/7IVijDUdKmwy8kdvHYLhMA) | 5:22 |
 | 95 | [Yer Blues](https://open.spotify.com/track/6VFZdBFUTLciOus17vmBWI) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Cover To Cover](https://open.spotify.com/album/6brfMrKnGoGFF1AtB7TTS5) | 4:31 |
-| 96 | [Million Miles](https://open.spotify.com/track/7cSqMBqUSDCdqJj1sLuN0P) | [Alvin Youngblood Hart](https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG) | [All Blues'd Up: Songs of Bob Dylan](https://open.spotify.com/album/4WEt5uqbjSbPjF4ziNkQ00) | 6:32 |
+| 96 | [Million Miles](https://open.spotify.com/track/5XpzBJp8vepkz4jeGIsfXn) | [Alvin Youngblood Hart](https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG) | [Tangled Up In Blues: Songs Of Bob Dylan](https://open.spotify.com/album/0Vh63ttTwAGKidFyKaloFX) | 6:32 |
 | 97 | [Messing With The Blues](https://open.spotify.com/track/09tD5JvaiCrdlmKdmjDATX) | [James Brown & The Famous Flames](https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr) | [Messing With The Blues](https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp) | 2:12 |
 | 98 | [A Change Is Gonna Come](https://open.spotify.com/track/0JCiStjQ3LqDn6Ijni8wFf) | [Bonny B.](https://open.spotify.com/artist/0awWK2CDOk4vhdtqs6WlOG) | [Freedom](https://open.spotify.com/album/51Q8xb6yKqRdETYMUDj9mo) | 7:09 |
 | 99 | [Taxman](https://open.spotify.com/track/3kT1cthH4KOLPJRpmdHQrI) | [Teresa James](https://open.spotify.com/artist/4Ovys1AMeXFomDQvnc4f0C) | [Taxman](https://open.spotify.com/album/147vvnC0aJ0Ttrtbgmv6ee) | 3:26 |
 | 100 | [Hound Dog](https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:16 |
 
-Snapshot ID: `MCw0NWY5OWQ2OTA0MGJjNGRjZGYxYWJhNjk1MWMxYTZhODYwM2NmMTI2`
+Snapshot ID: `MCwwNzg4MjE0NmRmZjI1ODgzNGRmMDI3NDJkOGIyMzNiMWE0OWIxZTIz`

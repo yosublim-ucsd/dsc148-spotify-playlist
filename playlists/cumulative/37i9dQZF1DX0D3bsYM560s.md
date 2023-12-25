@@ -4,7 +4,7 @@
 
 > Celebrating the extraordinary women breaking boundaries and keeping tradition alive\. Cover: Rhonda Vincent
 
-109 songs - 6 hr 13 min
+110 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Kentucky Borderline](https://open.spotify.com/track/3p1T3tocORKMJOulIOh4zc) | [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [One Step Ahead](https://open.spotify.com/album/6ycDawGWCxbT5dk860MWOE) | 3:32 | 2023-04-14 |  |
 | [Laramie](https://open.spotify.com/track/1BEm7Caa96l4PIlnpoJ6wo) | [Becky Schlegel](https://open.spotify.com/artist/21KhWiFWcK4WOJqRHMmN2a), [The High 48s](https://open.spotify.com/artist/2J7WvdhzleWvO1XRa5xBZK) | [Laramie](https://open.spotify.com/album/6JmyaIBchQFT7CeGRRlVbh) | 3:55 | 2023-07-21 |  |
 | [Little Sadie](https://open.spotify.com/track/2SiQKjD5mANk0qkNTx2BmO) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken By A Low Sound](https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp) | 2:35 | 2023-04-14 |  |
-| [Little Satchel](https://open.spotify.com/track/2NAtu56kCVNhTzu8Cz0NVN) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Little Satchel](https://open.spotify.com/album/3PLL0AGHcVDPgK03UR1H0T) | 3:17 | 2023-04-14 |  |
+| [Little Satchel](https://open.spotify.com/track/1ym8cryelFHPD6k0FCocCh) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/0yKUSFsZyE1ckKUOp83onF) | 3:17 | 2023-11-10 |  |
+| [Little Satchel](https://open.spotify.com/track/2NAtu56kCVNhTzu8Cz0NVN) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Little Satchel](https://open.spotify.com/album/3PLL0AGHcVDPgK03UR1H0T) | 3:17 | 2023-04-14 | 2023-12-25 |
 | [Little sparrow](https://open.spotify.com/track/6vGfL4ZcRL2U6RaGuZ5fJd) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [A day for the hunter, a day for the prey](https://open.spotify.com/album/4J4u8xcpz1WTAJRcgenpBa) | 3:16 | 2023-04-14 |  |
 | [Long Hot Summer Days](https://open.spotify.com/track/4exoMhOJHJs8rwOFpmx4pq) | [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek) | [The Peanut Butter Falcon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1dbWrB8KxsPJrTIYO9AHyG) | 3:15 | 2023-04-14 |  |
 | [Losing You Blues](https://open.spotify.com/track/2TQjjGL6RPO1X0Yl3yrW9Y) | [Sister Sadie](https://open.spotify.com/artist/0rWSUQEtdCxT9Y1Hd0eGl8) | [Sister Sadie II](https://open.spotify.com/album/5IQbNt3C3LJZXiKG6oPc5C) | 2:48 | 2023-04-14 |  |

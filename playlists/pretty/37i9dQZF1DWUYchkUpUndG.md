@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4>Chioma Jesus</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,883 likes - 96 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,917 likes - 96 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 27 | [This New Year](https://open.spotify.com/track/5jhaDcY8Xbt2g4zj5Skj6N) | [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK), [EmmaOMG](https://open.spotify.com/artist/7a03YaPRYV8Ym2LwMPvDJz) | [This New Year](https://open.spotify.com/album/4KMbeo33myIfZ8Rp5rYxLh) | 4:11 |
 | 28 | [I am a Soldier \(Calling my name\) Spontaneous Worship \- Live](https://open.spotify.com/track/6c8n8GqPmmGSXzz1NBe2lT) | [Minister Exalted](https://open.spotify.com/artist/2x9ZDrAnr2ZN46X0Gl6vqH) | [I am a Soldier \(Calling my name\) Spontaneous Worship \[Live\]](https://open.spotify.com/album/4seVJiweFcYZHqXLbtphjr) | 4:54 |
 | 29 | [Jọmílójú \- Live](https://open.spotify.com/track/0YjF7ArLfTRdYwWZlfLfkL) | [Fiyin Adeniyi](https://open.spotify.com/artist/7b4BZkj7cS5gokEOCrNuN0) | [Jọmílójú \(Live\)](https://open.spotify.com/album/0E0tUai1eqhqeOGzItBrWt) | 7:03 |
-| 30 | [Halleluyah](https://open.spotify.com/track/40UuVTiL79xb2ZO9k7QGFt) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK) | [Halleluyah](https://open.spotify.com/album/0GHGEfnrr1M7PiNLehYyK6) | 4:29 |
+| 30 | [Hallelujah](https://open.spotify.com/track/40UuVTiL79xb2ZO9k7QGFt) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK) | [Hallelujah](https://open.spotify.com/album/0GHGEfnrr1M7PiNLehYyK6) | 4:29 |
 | 31 | [Higher](https://open.spotify.com/track/7CEAIHSNjauLeBDms9lyho) | [Mannie Akumba](https://open.spotify.com/artist/1oaUtMDoug6KaEaMub4onR), [REMEDY MRL](https://open.spotify.com/artist/1QBY5jmIyNdIUr5Nsz5cFf) | [Higher](https://open.spotify.com/album/0B965Dxcg6xBpGOeVt84J7) | 3:10 |
 | 32 | [On Me](https://open.spotify.com/track/5CHVesn72KEcJMWKipq9IO) | [Harley Akoh](https://open.spotify.com/artist/19XdD9KL2FbaVFRloFdCSk), [Dnl Plaay](https://open.spotify.com/artist/0VCNPfR2dJrx9ltpS9pF4B) | [On Me](https://open.spotify.com/album/33DliOjIzKS5XwzCg4HDOg) | 2:26 |
 | 33 | [Because He Lives](https://open.spotify.com/track/4dvtl2lwkAvRF58oDzHCjZ) | [Chris Else](https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP) | [Because He Lives](https://open.spotify.com/album/5le9OqZy28NXnXNlpalXJ4) | 4:13 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 95 | [We Follow Jesus](https://open.spotify.com/track/6Z9Gqsrw5eTC3mkstkzc45) | [ASHOKE JNR](https://open.spotify.com/artist/7HIYRRf1WZ8SjPUL12bHyt) | [We Follow Jesus](https://open.spotify.com/album/1flg1xx1krmfTgfVR5bSxz) | 2:46 |
 | 96 | [Favour Anniversary](https://open.spotify.com/track/6I2ozqJrPNnCNup6gQ8nZh) | [Dbilovd](https://open.spotify.com/artist/5xvyAXQfTzG95lXHos2ZDn) | [Favour Anniversary](https://open.spotify.com/album/0z2IZoP0KZVGrQpZhEyXwQ) | 5:35 |
 
-Snapshot ID: `MCwyMDI1NmI0YjI4ZjQ1ZGRhMDQ3OTgzZjMyZjczZTRkY2Q3YmE4NzMy`
+Snapshot ID: `MCxjODA2YmRhMmUxMjg1ZjRiYWNhMTE3NWJmMjEyYjQ3ODdkMDAxZjlm`

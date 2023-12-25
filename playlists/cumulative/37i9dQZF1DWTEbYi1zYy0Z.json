@@ -6450,10 +6450,28 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 706580,
       "name": "Summer Groove",
       "url": "https://open.spotify.com/track/1WeSHCWNKRixmn9tLNmvKH"
+    },
+    {
+      "album": {
+        "name": "The Best of Tim Bowman",
+        "url": "https://open.spotify.com/album/6jSqCcaTNJdKsRD3JJQoyq"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 706580,
+      "name": "Summer Groove",
+      "url": "https://open.spotify.com/track/4SMExf2UAgf4k3jZDjelHL"
     },
     {
       "album": {

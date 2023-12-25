@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Taylor Swift",
-  "num_followers": 66946,
+  "num_followers": 66984,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjdjODRlZWQ3ODJmM2I2MjY2MzkzMDFmZjRkMTRkMzJkYWJlNTg4",
+  "snapshot_id": "MCw1NDk5MjZmNzUxOGUwMzYwOTA4ZTc0MDQ5ZmQ1M2Q0N2Y0ZGQ4YmZl",
   "tracks": [
     {
       "added_at": "2023-11-03 04:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Chasing Time: The Bedlam Sessions",
-        "url": "https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 288146,
-      "name": "Goodbye My Lover - Live in Ireland",
-      "url": "https://open.spotify.com/track/2QNYws5syWtS1WWq2ueza9"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "C\u00e9line... Une seule fois / Live 2013",
         "url": "https://open.spotify.com/album/7Ek9Es4B8AucqFfDTFA6LL"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 401840,
       "name": "My Heart Will Go On (Live in Quebec City) - Live from Quebec City, Canada - July 2013",
       "url": "https://open.spotify.com/track/0y1a3gibwfwvUZAmXp3sgj"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Chasing Time: The Bedlam Sessions",
+        "url": "https://open.spotify.com/album/3SEIokf07y44wrE5LdZueF"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 288146,
+      "name": "Goodbye My Lover - Live in Ireland",
+      "url": "https://open.spotify.com/track/2QNYws5syWtS1WWq2ueza9"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Live and in Session",
-        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 248394,
-      "name": "The A Team - Live and in Session",
-      "url": "https://open.spotify.com/track/41Fa4odUQJYZNEccDd0y4q"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "#3 Deluxe Version",
         "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 304973,
       "name": "For the First Time - Live At The Aviva Stadium, Dublin",
       "url": "https://open.spotify.com/track/4llNwotltjRfm312AvF7vn"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Live and in Session",
+        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 248394,
+      "name": "The A Team - Live and in Session",
+      "url": "https://open.spotify.com/track/41Fa4odUQJYZNEccDd0y4q"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Spiceworld (25th Anniversary)",
-        "url": "https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 204413,
-      "name": "Stop - Live In Madrid, Spain / 1998",
-      "url": "https://open.spotify.com/track/0VhUMZKnTBsMk4AVilZNuR"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "On the Road to Nashville (Live)",
         "url": "https://open.spotify.com/album/7FKtqGJK8DhnAOUqHSfPqU"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 218240,
       "name": "A Little Respect (Live in Nashville)",
       "url": "https://open.spotify.com/track/4a2dbJunlLGd87U7bNrwHh"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Spiceworld (25th Anniversary)",
+        "url": "https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 204413,
+      "name": "Stop - Live In Madrid, Spain / 1998",
+      "url": "https://open.spotify.com/track/0VhUMZKnTBsMk4AVilZNuR"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "How Can I Sleep With Your Voice In My Head",
+        "url": "https://open.spotify.com/album/0Fnnmvjt4WeV5ybMYU4acH"
+      },
+      "artists": [
+        {
+          "name": "a-ha",
+          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+        }
+      ],
+      "duration_ms": 342586,
+      "name": "Take On Me - Live",
+      "url": "https://open.spotify.com/track/6q8XHT9eax6UnNnqFTi7W5"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "The Confessions Tour",
         "url": "https://open.spotify.com/album/2nYRylF5uTA1CTtya4qjU3"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 219240,
       "name": "What's Love Got to Do with It - Live in Arnhem",
       "url": "https://open.spotify.com/track/2bnU5ZASc6xqdVKKpYgiM0"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "How Can I Sleep With Your Voice In My Head",
-        "url": "https://open.spotify.com/album/0Fnnmvjt4WeV5ybMYU4acH"
-      },
-      "artists": [
-        {
-          "name": "a-ha",
-          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
-        }
-      ],
-      "duration_ms": 342586,
-      "name": "Take On Me - Live",
-      "url": "https://open.spotify.com/track/6q8XHT9eax6UnNnqFTi7W5"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "The Confessions Tour",
-        "url": "https://open.spotify.com/album/2nYRylF5uTA1CTtya4qjU3"
+        "name": "Divas En Directo",
+        "url": "https://open.spotify.com/album/4ffR3iBOv3qVty8FmT1bLl"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "Duffy",
+          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
         }
       ],
-      "duration_ms": 590120,
-      "name": "Hung Up - Live",
-      "url": "https://open.spotify.com/track/0aiYTiWzQZcuRqf25J35Cn"
+      "duration_ms": 237386,
+      "name": "Warwick Avenue - Live",
+      "url": "https://open.spotify.com/track/7wLfeZcN4HW3qulI8CBNPs"
     }
   ],
   "unique_name": "Pop Live",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,115 likes - 168 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,153 likes - 168 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 93 | [Three By Three](https://open.spotify.com/track/7xEQvXKOQepPgVbw9UV57M) | [Laura Cortese & The Dance Cards](https://open.spotify.com/artist/0jHvVCEhCmKwd3Aqz2Jwh3), [Laura Cortese](https://open.spotify.com/artist/5T5BMVZGSvhRXSx3alNp2n) | [Three By Three](https://open.spotify.com/album/7dEkDi7U2MZXTV7a606fDM) | 3:50 |
 | 94 | [Red Rocking Chair](https://open.spotify.com/track/0wnf5euVirGXlljN0gcPAA) | [The Steel Wheels](https://open.spotify.com/artist/0J95YxeoXi3Um0VpxTwDhn) | [Working on a Building](https://open.spotify.com/album/2Irowt1M4cqcGYHuKYu2H7) | 3:06 |
 | 95 | [Sing to the Mountain](https://open.spotify.com/track/5kgMPM2m2sGGuVL4KpHwiO) | [Elephant Revival](https://open.spotify.com/artist/3OwOKwd5FsfOD5qlH2tnzs) | [Elephant Revival](https://open.spotify.com/album/1Qyc6kxZYssUHELLcImDnX) | 3:42 |
-| 96 | [Little Satchel](https://open.spotify.com/track/2NAtu56kCVNhTzu8Cz0NVN) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Little Satchel](https://open.spotify.com/album/3PLL0AGHcVDPgK03UR1H0T) | 3:17 |
+| 96 | [Little Satchel](https://open.spotify.com/track/1ym8cryelFHPD6k0FCocCh) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/0yKUSFsZyE1ckKUOp83onF) | 3:17 |
 | 97 | [Up on the Shelf](https://open.spotify.com/track/0gWdHRgj6eLhdGF7XjTGXW) | [Arkansauce](https://open.spotify.com/artist/0ZVf0TpND6bNaoaaucYaFl) | [Up on the Shelf](https://open.spotify.com/album/2KSZPbJYPYAPKYs8LyibRe) | 4:25 |
 | 98 | [Shadow](https://open.spotify.com/track/0QeflzeEU43UcWP6vNeCFp) | [The Lil Smokies](https://open.spotify.com/artist/6qp6tNvcJu2yZuHxqe4Jls), [Lindsay Lou](https://open.spotify.com/artist/6yULqqTzvfwsEonNzu7iJQ) | [Shadow](https://open.spotify.com/album/370tqmmA3yyLZKf3WtV1cw) | 4:17 |
 | 99 | [Strangers](https://open.spotify.com/track/1LGEfISCKTSlz0MMjJ9PjC) | [Nickel Creek](https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ) | [Strangers](https://open.spotify.com/album/0Ko043n4FVz0uor1vl7fmK) | 4:44 |
@@ -159,7 +159,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 149 | [Next to Nothing](https://open.spotify.com/track/4px9hNTpKJBIF32V3QarTO) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Haste Make / Hard Hearted Stranger](https://open.spotify.com/album/1mipjylQeWZmp1Kc27pH5Q) | 3:31 |
 | 150 | [Devil's Land](https://open.spotify.com/track/0TGpW2TeTSabmErtiu4eb0) | [Morgan Brake](https://open.spotify.com/artist/4DIEhKNVoVi8N4HzJ894rk) | [Stuck Loving You](https://open.spotify.com/album/5V3rr6ug2K9mw0igGNsXuc) | 5:28 |
 | 151 | [Hope](https://open.spotify.com/track/1PgzV8KUx8fwktpyiNsl1N) | [Cup O’Joe](https://open.spotify.com/artist/3ooGnJ9UPDeByu31PiBSYf) | [Hope](https://open.spotify.com/album/1MXFBK5FvML9DRmO3PEqrb) | 3:55 |
-| 152 | [How It Ends](https://open.spotify.com/track/0QNGlcB83H133AoEFggtRP) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [How It Ends](https://open.spotify.com/album/2FftzfiRpzlPwSXpKgisJi) | 3:19 |
+| 152 | [How It Ends](https://open.spotify.com/track/0kqUylCZDfyQqiSxtaCFdf) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Narrow Line](https://open.spotify.com/album/2r8q2wsnlNchuXp2xiMBSm) | 3:19 |
 | 153 | [Old Songs Never Die](https://open.spotify.com/track/1IQWXHm4JHL3xpHYrlawtR) | [Rachel Baiman](https://open.spotify.com/artist/2tT6zyEbGIc7bpJHMdOrEs) | [Common Nation Of Sorrow](https://open.spotify.com/album/53S29DN4hv8ZiRSuj5PdCo) | 2:34 |
 | 154 | [From The Dust](https://open.spotify.com/track/1kDmlwmcDxHS4KSvNQeyg8) | [Megan Brown](https://open.spotify.com/artist/6HSBnvtPkxHCPcHFmsmnCb) | [From The Dust](https://open.spotify.com/album/0kLLLg6wjPc9RjJOaHHhZE) | 3:08 |
 | 155 | [By and By](https://open.spotify.com/track/75nZ4W6quZhI55LKiqCXWh) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM) | 4:40 |
@@ -169,7 +169,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 159 | [Brighter Side](https://open.spotify.com/track/1DhfVYEH0hco7SKMVPYe7X) | [The Brothers Reed](https://open.spotify.com/artist/3vYzsWVBNoIKJZuM1F4VLz) | [The Wheres and the Whatnots](https://open.spotify.com/album/3ehFtxicfQfb1k5YVaJOoX) | 3:40 |
 | 160 | [Edges Run](https://open.spotify.com/track/3LTKKY3qb8MmG3ZfJcfR0x) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/4GwbUoWi1Tn42nSfbiBIGk) | 3:14 |
 | 161 | [Steampipe Coffee](https://open.spotify.com/track/2h6ZLitWaeBw9af5hWRy4T) | [Circus No\. 9](https://open.spotify.com/artist/7EajkJlvOR5KiUni4v4xZu), [Jeff Sipe](https://open.spotify.com/artist/3uBCMHjZuIiCPMMt6c9Sbr) | [Steampipe Coffee](https://open.spotify.com/album/1O9h3PMwdwJhis2pjgt2s7) | 4:49 |
-| 162 | [Jenny Put the Kettle On](https://open.spotify.com/track/1r65QhZcekR3BWfwkjIf6I) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/57Vu4douVKyoHc5Asa2LHM) | 2:00 |
+| 162 | [Jenny Put the Kettle On](https://open.spotify.com/track/0hDZD5WuVY0Xs0MV0MzRgS) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Long Time To Be Gone](https://open.spotify.com/album/0yKUSFsZyE1ckKUOp83onF) | 2:00 |
 | 163 | [Mortal Like Me](https://open.spotify.com/track/0V0gmNQ5UL3paMRmKKx76J) | [Violet Bell](https://open.spotify.com/artist/2oIi5WqUQeW84eOt1rxDt8), [Joe Troop](https://open.spotify.com/artist/6ZEEjgoF57Fa8eh2aXGoNa) | [Mortal Like Me](https://open.spotify.com/album/6ZFb24q2lPY70oVv9PgQMj) | 3:14 |
 | 164 | [Holy Ground](https://open.spotify.com/track/1uVNQx93kyNDlBTnXPzKaa) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [Holy Ground](https://open.spotify.com/album/1wHctKgZzTJc7FKAv71Xfg) | 4:22 |
 | 165 | [Fish and Bird](https://open.spotify.com/track/550dYYVKfQDzyMXEXENAkn) | [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Beat the Devil and Carry a Rail](https://open.spotify.com/album/3AdiKjgy86xmuyv7YC12kV) | 5:13 |
@@ -177,4 +177,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 167 | [Part of Life](https://open.spotify.com/track/0BAVO0LRCe7CZzodzCFmal) | [Josh Oliver](https://open.spotify.com/artist/1SP0JtRy2Am9t3HTswRbrv) | [Part of Life](https://open.spotify.com/album/5QOtllslGWHQJg4u1T6GyD) | 3:06 |
 | 168 | [Easton](https://open.spotify.com/track/7zAYWInWkAiJ72hgpABu3F) | [Rachel Sumner](https://open.spotify.com/artist/5PYJwfdGBtiT2NuH0Z1CqU) | [Rachel Sumner & Traveling Light](https://open.spotify.com/album/4kZeNt7qRwoO8KTOgQ0QTb) | 5:34 |
 
-Snapshot ID: `MCxjMTM1MjViZjc1MGQ0MDE5MTE5YzYyODZkNzdjYmQyOTJjZTQ4ZGU3`
+Snapshot ID: `MCxjZTEzNTA4ZmJiZmI3MTI1MzJlOTMxYTY5Y2NiNTc3NWZiYjhjNzFk`

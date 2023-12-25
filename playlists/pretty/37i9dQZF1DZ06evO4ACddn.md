@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4ACddn.md) - [plain]
 | 32 | [Place Isn't Lost](https://open.spotify.com/track/26h24NAtgkferYRxAgUX0c) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Place Isn't Lost](https://open.spotify.com/album/2GKb0jadpaGEzqyFfxomTk) | 2:58 |
 | 33 | [Strange Like I](https://open.spotify.com/track/63CSuwy6bDo1Q8sODWuoBq) | [Lonely The Brave](https://open.spotify.com/artist/7Ks1xbMXEQjy9aQObTJdId) | [Things Will Matter](https://open.spotify.com/album/2xSzu2fJc9KaBwSip35d3e) | 3:04 |
 
-Snapshot ID: `MjgzODg5NDMsMDAwMDAwMDAwNGE1OTI2MWFiY2Y1OGVmOGRmNGM3N2Q4OTIzMjdhNg==`
+Snapshot ID: `MjgzOTAyOTIsMDAwMDAwMDBhNzUzMmExYjYzZDc5ZGIxNjI2ZjgwNGI3M2U2YmE2OA==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsvIAf8Ytjl.md) - [plain]
 
 > Focus on the drums, and your inner animal will come alive! In\-your\-face rock tracks where the drums can't be ignored.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,169 likes - 45 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,207 likes - 45 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsvIAf8Ytjl.md) - [plain]
 | 21 | [Manic Depression](https://open.spotify.com/track/3f5JtAsGRIXN8pSAeTi6vA) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 3:42 |
 | 22 | [My Generation](https://open.spotify.com/track/2EMmHEhCZSMMEM85HTFJvj) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(50th Anniversary / Super Deluxe\)](https://open.spotify.com/album/0ooEHMMu3yiwnFwNYHcqwX) | 3:20 |
 | 23 | [Car Chase City](https://open.spotify.com/track/5WwKzyAOGvnNqTIs0Tk8ei) | [Tenacious D](https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh) | [The Pick Of Destiny](https://open.spotify.com/album/3tYcwViLCWsT1ssa5p7V7A) | 2:42 |
-| 24 | [Indiscipline](https://open.spotify.com/track/4hnB3tR0ueIBnkaIvrlZtC) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [Discipline](https://open.spotify.com/album/7KxUQCCvE0edGiqBS6ywEd) | 4:33 |
+| 24 | [Indiscipline](https://open.spotify.com/track/5FvRkKujcquFV4wma9QAfj) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [Discipline](https://open.spotify.com/album/20dTbQRkxuOTkf3SFyaT2m) | 4:33 |
 | 25 | [Tetragrammaton](https://open.spotify.com/track/28XN8ncs0OBodA23W4ysZg) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Amputechture](https://open.spotify.com/album/5OISte8J6DV61Vad0W0Cv9) | 16:41 |
 | 26 | [Geek U.S.A\. \- 2011 Remaster](https://open.spotify.com/track/7Jh4ySrytQOaDPF4XVUnv1) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(Deluxe Edition\)](https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo) | 5:13 |
 | 27 | [Bad Reputation](https://open.spotify.com/track/6MQOIEl0hPBaMf4r521xJR) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Bad Reputation \(Expanded Edition\)](https://open.spotify.com/album/0DHKadXfnYCAXp28F3HI8U) | 3:06 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXsvIAf8Ytjl.md) - [plain]
 | 44 | [Ya Mon](https://open.spotify.com/track/3ZDZhHNt492Z8eHfbAdtpJ) | [Liquid Tension Experiment](https://open.spotify.com/artist/0r1s1XoxdoXECGfyChzb2v) | [LTE3 \(Deluxe Edition\)](https://open.spotify.com/album/6GDFV4kWsQDYuah6tSqmu2) | 15:23 |
 | 45 | [Soul Sacrifice](https://open.spotify.com/track/4e0GkgtMPZFt41Ua8PlHQL) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Santana \(Legacy Edition\)](https://open.spotify.com/album/2hQwyoPiM1G9iLWkXqC2Hu) | 6:37 |
 
-Snapshot ID: `MCxkZWUyZWE3ODFiMmJmN2RlMWE0Nzk1MGY0MGNjZWEyMGNmY2ZhZGRk`
+Snapshot ID: `MCwzM2ZmMjcyODA2Y2ExZWJlNGZkYWMwNTEzNDc4YTgzOWVlMDc4Mzc5`

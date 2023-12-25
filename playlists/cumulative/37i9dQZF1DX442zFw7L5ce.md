@@ -4,7 +4,7 @@
 
 > Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Pooja Hegde
 
-119 songs - 8 hr 36 min
+120 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,8 +100,9 @@
 | [Rangamma Mangamma](https://open.spotify.com/track/4VgYfDTbkVg03pDd2kFXuP) | [M\. M\. Manasi](https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS) | [Rangasthalam](https://open.spotify.com/album/5XPaQZJdvu6IDQgf1zzmhP) | 4:08 | 2021-10-21 | 2022-10-14 |
 | [Reppalaninda](https://open.spotify.com/track/0wS0P4poLYspU4YpCA09Gx) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [RX 100 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3vzddHOuT5R28vKakxD0qJ) | 3:14 | 2021-10-21 | 2022-07-29 |
 | [Reppalanindaa](https://open.spotify.com/track/5fpsar83s2GDIZQBxbN3YT) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4) | [Rx 100 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4f0CxIPK16Hx5WWvWJMhXl) | 3:11 | 2021-10-21 | 2022-10-14 |
-| [Rooba Rooba](https://open.spotify.com/track/1rJmySqUrHQP0O4l1JX8E9) | [Shahil Hada](https://open.spotify.com/artist/4Rn2NNAPBegkcTSPz54jcc), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Orange](https://open.spotify.com/album/6bCI1qj8z8YEE2WJkGMKnn) | 5:14 | 2022-10-13 |  |
+| [Rooba Rooba](https://open.spotify.com/track/1rJmySqUrHQP0O4l1JX8E9) | [Shahil Hada](https://open.spotify.com/artist/4Rn2NNAPBegkcTSPz54jcc), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Orange](https://open.spotify.com/album/6bCI1qj8z8YEE2WJkGMKnn) | 5:14 | 2022-10-13 | 2023-12-25 |
 | [Rooba Rooba](https://open.spotify.com/track/7gVqTSJ4Mr5uKkM9yhQKop) | [Shahil Hada](https://open.spotify.com/artist/4Rn2NNAPBegkcTSPz54jcc), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Orange](https://open.spotify.com/album/4lydrnVdmsWCMMfk0S8Khj) | 5:14 | 2022-10-13 | 2023-09-22 |
+| [Rooba Rooba](https://open.spotify.com/track/7HQqbgYvDcPFodXPyg3qp5) | [Shail Hada](https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Mega Power Star](https://open.spotify.com/album/4l1UZrzOz1la6gcFsEuktY) | 5:14 | 2022-10-13 |  |
 | [Sada Nannu](https://open.spotify.com/track/2vhQo1YVhZVFTohJIlHg3v) | [Charulatha Mani](https://open.spotify.com/artist/5ttI5DDy5AJ8AQb35a9LKm) | [Mahanati](https://open.spotify.com/album/0Inb1EOqKno7hCcv9q5tP1) | 3:17 | 2021-10-21 | 2022-10-14 |
 | [Sada Nannu](https://open.spotify.com/track/3sDHtKDxam9Gn1urRaxBrX) | [Charulatha Mani](https://open.spotify.com/artist/5ttI5DDy5AJ8AQb35a9LKm) | [Mahanati \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1VJ6jeu9xVqQlEbhG8v52w) | 3:17 | 2021-10-21 | 2022-07-29 |
 | [Samajavaragamana](https://open.spotify.com/track/3j9DrRebdWK1jkpOw9FZUy) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Ala Vaikunthapurramuloo](https://open.spotify.com/album/3Z6fqZ8KtrWQmEfK0ZWwPp) | 3:39 | 2021-10-21 | 2022-10-14 |

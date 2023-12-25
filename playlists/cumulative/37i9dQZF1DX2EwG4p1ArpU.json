@@ -1193,6 +1193,24 @@
     },
     {
       "album": {
+        "name": "\u9003\u907f\u884c",
+        "url": "https://open.spotify.com/album/5ERkFsdPk4pYY5MMdp3LPD"
+      },
+      "artists": [
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176312,
+      "name": "\u9003\u907f\u884c",
+      "url": "https://open.spotify.com/track/6wnPWVgHI1e6BquACh2Ue5"
+    },
+    {
+      "album": {
         "name": "\u95c7\u591c",
         "url": "https://open.spotify.com/album/1BB2OJJteupdXb2jYDH4Bp"
       },

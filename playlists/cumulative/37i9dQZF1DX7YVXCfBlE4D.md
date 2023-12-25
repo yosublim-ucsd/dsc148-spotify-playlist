@@ -4,7 +4,7 @@
 
 > Deja que tu corazón se rinda ante la música romántica de antaño.
 
-380 songs - 18 hr 44 min
+381 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,8 +79,9 @@
 | [Con Mi Corazon Te Espero](https://open.spotify.com/track/0GCvAA5pTwbH4kRpyRZBvk) | [Lucho Gatica](https://open.spotify.com/artist/4LCEJ7K3OmivUPkYYH9iZK) | [Consentida](https://open.spotify.com/album/0HuBWGxqsPyimBKnyivlVy) | 2:44 | 2021-05-15 | 2022-07-29 |
 | [Con Mi Corazón Te Espero](https://open.spotify.com/track/0ndXxt3Rxm96YoG4IDoy02) | [Lucho Gatica](https://open.spotify.com/artist/4LCEJ7K3OmivUPkYYH9iZK) | [Consentida](https://open.spotify.com/album/5pB36mbHaOp2Bt9HnrrZDy) | 2:44 | 2022-01-21 |  |
 | [Con Mi Corazón Te Espero](https://open.spotify.com/track/3FxjifPqB9DTRhgFB6zb9K) | [Lucho Gatica](https://open.spotify.com/artist/4LCEJ7K3OmivUPkYYH9iZK) | [Los Grandes Del Bolero, Vol\. 3](https://open.spotify.com/album/6UApN3bGn3c6vupHF5tvYe) | 2:44 | 2022-01-21 | 2022-11-13 |
-| [Concha Nacar / Limosna](https://open.spotify.com/track/6jrUIPj4VyB9ItLhOMrcSs) | [Elvira Rios](https://open.spotify.com/artist/1us5UEUwARpm9xvMh1i52g) | [Agustín Lara y sus Grandes Intérpretes](https://open.spotify.com/album/1UCHaeKP4ZhDqk4s4pDZn0) | 2:59 | 2022-01-21 |  |
+| [Concha Nacar / Limosna](https://open.spotify.com/track/6jrUIPj4VyB9ItLhOMrcSs) | [Elvira Rios](https://open.spotify.com/artist/1us5UEUwARpm9xvMh1i52g) | [Agustín Lara y sus Grandes Intérpretes](https://open.spotify.com/album/1UCHaeKP4ZhDqk4s4pDZn0) | 2:59 | 2022-01-21 | 2023-12-25 |
 | [Concha Nacar\-Limosna](https://open.spotify.com/track/36ISJPgCfoZp2MKheJhPx9) | [Elvira Rios](https://open.spotify.com/artist/1us5UEUwARpm9xvMh1i52g) | [Agustín Lara y sus Grandes Intérpretes](https://open.spotify.com/album/3S3nywfRBfej0nFuzmNEik) | 2:59 | 2021-05-15 | 2022-07-29 |
+| [Concha nácar / Limosna \- Remastered](https://open.spotify.com/track/5yt6H8iEiGIb6wRA6MjgPC) | [Elvira Rios](https://open.spotify.com/artist/1us5UEUwARpm9xvMh1i52g) | [Vereda tropical \(Remastered\)](https://open.spotify.com/album/2rmM6iHijqWJ6c6518AR5V) | 2:55 | 2022-12-30 |  |
 | [Conozco La Verdad](https://open.spotify.com/track/0uxfC4OeYohIa1ZyK875Va) | [Carmen Delia Dipini](https://open.spotify.com/artist/6DmGRDkFsjh9CAdjzcueSL) | [Carmen Delia Dipini con Johnny Rodriguez y su Trio](https://open.spotify.com/album/4Dq51JZLyrc8hiBWVYVagY) | 2:49 | 2021-05-15 | 2022-01-22 |
 | [Contigo](https://open.spotify.com/track/2S5ogx9YB1fhCcoKVd4UkQ) | [Germán Valdés "Tin Tan"](https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ) | [Germán Valdés TIN\-TAN Canciones de Sus Películas](https://open.spotify.com/album/3Ci1X3dr7NJlbuUgqsFUgK) | 2:58 | 2022-01-21 |  |
 | [Contigo](https://open.spotify.com/track/4EzaHs6xWJ2O29BSCtJFSw) | [Germán Valdés "Tin Tan"](https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ) | [Germán Valdés TIN\-TAN Canciones de Sus Películas](https://open.spotify.com/album/6egxODz7B5lqBxwykR9JgP) | 3:02 | 2022-01-21 | 2022-07-29 |

@@ -1350,7 +1350,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 179774,
       "name": "Concha Nacar / Limosna",
       "url": "https://open.spotify.com/track/6jrUIPj4VyB9ItLhOMrcSs"
@@ -1372,6 +1372,24 @@
       "duration_ms": 179560,
       "name": "Concha Nacar-Limosna",
       "url": "https://open.spotify.com/track/36ISJPgCfoZp2MKheJhPx9"
+    },
+    {
+      "album": {
+        "name": "Vereda tropical (Remastered)",
+        "url": "https://open.spotify.com/album/2rmM6iHijqWJ6c6518AR5V"
+      },
+      "artists": [
+        {
+          "name": "Elvira Rios",
+          "url": "https://open.spotify.com/artist/1us5UEUwARpm9xvMh1i52g"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175711,
+      "name": "Concha n\u00e1car / Limosna - Remastered",
+      "url": "https://open.spotify.com/track/5yt6H8iEiGIb6wRA6MjgPC"
     },
     {
       "album": {

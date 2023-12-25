@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4UeRg7G4h9gxqlonlifPEn.md) - [plain]
 
 > Turnt mode means bangers only – Featuring Nardo Wick, Lil Tjay, Polo G &amp; more\. \| Hip\-Hop Hip Hop Rap Rappers Pre\-game Lit Pre game Pregame HipHop \| Cover: DDG
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 39,951 likes - 192 songs - 8 hr 59 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 39,950 likes - 192 songs - 8 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

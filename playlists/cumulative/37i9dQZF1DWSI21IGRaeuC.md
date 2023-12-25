@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-258 songs - 21 hr 3 min
+259 songs - 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Heart Of Jazz](https://open.spotify.com/track/1BbKe9iPRe5ZNFKdhzv82N) | [Fleur Shore](https://open.spotify.com/artist/7GyRA9n7JVslQGcbo72Dil) | [Heart Of Jazz](https://open.spotify.com/album/70DEmkfKbQq971gDSdXo3r) | 6:00 | 2022-07-08 | 2022-07-26 |
 | [Highway Freedom](https://open.spotify.com/track/3OyKSA6gU1Il2uOvCXU5IK) | [Late Replies](https://open.spotify.com/artist/7vPxzjHbAgoHhiNXORDgf7) | [Highway Freedom EP](https://open.spotify.com/album/4xT3vXGr92An3Ua3WdwfWh) | 3:15 | 2022-06-03 | 2022-07-23 |
 | [Hip Trumpets](https://open.spotify.com/track/4kYT3hIu8BKMxFqfApbIou) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F), [KVISION](https://open.spotify.com/artist/2Ha11athGRqW6lDwDDgTpR) | [Hip Trumpets](https://open.spotify.com/album/4VUQYr2q75PTwBQqg4Lno4) | 3:15 | 2023-09-01 |  |
+| [Honey Bee \- Edit](https://open.spotify.com/track/2xH4BN0PnHxLhLSWufL370) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Honey Bee \(Edit\)](https://open.spotify.com/album/2vk2dQnpVMQdrlwodQQjwB) | 4:23 | 2023-12-15 |  |
 | [Honey Bee \- Edit](https://open.spotify.com/track/7KJwlAWtpbQzTGkJSrBbnk) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Honey Bee](https://open.spotify.com/album/6Q5TXCW5VO7fc5pdR1PBtX) | 4:23 | 2022-06-03 | 2023-11-05 |
 | [Hydroponic](https://open.spotify.com/track/2DxIgWLfSqB8kfmPql4Hg8) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Hydroponic EP](https://open.spotify.com/album/0wmLrDb6pibDQtAtWFvB4P) | 7:14 | 2022-06-03 |  |
 | [Hyper](https://open.spotify.com/track/39pclaQXwUGiwcA47Hk3QF) | [Raumakustik](https://open.spotify.com/artist/0DH2O8Nvb5KxMaI9jCZUqW) | [Hyper](https://open.spotify.com/album/1l0vbfG18jQVRTiYUdEad8) | 3:43 | 2022-07-15 | 2023-12-09 |
@@ -185,7 +186,7 @@
 | [Samba Drone \- Paco Osuna Remix](https://open.spotify.com/track/69pq8Gkwg6IeqfyhbgqESi) | [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB), [Paco Osuna](https://open.spotify.com/artist/6vdIozDDsH4uJEAHN8tyS3) | [Samba Drone](https://open.spotify.com/album/6YXJp70sOxhBtGJ1xjZ0xa) | 7:10 | 2022-07-15 | 2023-11-09 |
 | [Sativa Jazz \- Detlef Remix](https://open.spotify.com/track/1EZcxkIogFFysvmyxSOZDI) | [Abana](https://open.spotify.com/artist/50IriuukwhBFpJS9WOk2a1), [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [Sativa Jazz \(Detlef Remix\)](https://open.spotify.com/album/1qfo60yjGAwfXQ9CUK1uz2) | 6:02 | 2022-08-12 | 2022-09-05 |
 | [Schwer](https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Schwer](https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10) | 3:34 | 2023-07-14 |  |
-| [Scout](https://open.spotify.com/track/1wvlh0A1mMVAb7Gw2dGV9a) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS), [Posij](https://open.spotify.com/artist/7nmucrDZXxIQNGLwCqPQpO) | [Scout](https://open.spotify.com/album/5FMzEjhMgICTx0ynFYbTig) | 3:54 | 2023-08-25 |  |
+| [Scout](https://open.spotify.com/track/1wvlh0A1mMVAb7Gw2dGV9a) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS), [Posij](https://open.spotify.com/artist/7nmucrDZXxIQNGLwCqPQpO) | [Scout](https://open.spotify.com/album/5FMzEjhMgICTx0ynFYbTig) | 3:54 | 2023-08-25 | 2023-12-25 |
 | [Sete \- Carlita Remix](https://open.spotify.com/track/5jhpcEksB86jVuf71FRXHS) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Sete \(Carlita Remix\)](https://open.spotify.com/album/7qE7npQg6OL5jzGi9jOWBh) | 3:42 | 2023-03-03 |  |
 | [Sete \- Carlita Remix](https://open.spotify.com/track/1N3bxA8qfSfaaPnsG3PGe0) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Sete \(Carlita Remix\)](https://open.spotify.com/album/4SMYDx604fGDZsaRuMznWb) | 3:42 | 2022-09-16 | 2023-02-26 |
 | [Shoot the Shot](https://open.spotify.com/track/6LEd9JLKmViufFYI0JfLDL) | [Eddy M](https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI) | [Shoot the Shot](https://open.spotify.com/album/4zD4CujteqFDt6lpVrTPmT) | 5:59 | 2023-04-07 | 2023-05-24 |

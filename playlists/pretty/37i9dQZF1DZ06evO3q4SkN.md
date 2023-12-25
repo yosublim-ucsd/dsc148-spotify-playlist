@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q4SkN.md) - [plain]
 
 > This is Germaine Franco\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 541 likes - 31 songs - 49 min 31 sec
+[Spotify](https://open.spotify.com/user/spotify) - 541 likes - 31 songs - 48 min 32 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q4SkN.md) - [plain]
 | 22 | [New Cave](https://open.spotify.com/track/0H1ih0eeTMjJd7sIZZ8N2b) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ), [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Dora and the Lost City of Gold \(Music from the Motion Picture\)](https://open.spotify.com/album/6Y237oVQFfenPEpquf9d0p) | 1:53 |
 | 23 | [Ted's Stuck In A Tree](https://open.spotify.com/track/4D7Pmj4rFZi90cXYTcrnun) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Royal Monkey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KsuCyGOWNzkikePaUz7qf) | 2:20 |
 | 24 | [No Me Dejes Atrás \(feat\. Gabriela Martinez\)](https://open.spotify.com/track/146AOJ6INXeSHQEWjYHqsr) | [Federico Ramos](https://open.spotify.com/artist/21KfnWJ8r1OSD9sNEKrLfm), [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe), [Gabriela Martinez](https://open.spotify.com/artist/6DxYmXAvO5MWIOvnwltlLk) | [Margarita \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp) | 2:24 |
-| 25 | [Giant Sea Turtle](https://open.spotify.com/track/3bkJr6YU7AfHUwCsg0yYa4) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:07 |
-| 26 | [April Wears Cheetah](https://open.spotify.com/track/09pfICGonkBl6TXhbglryk) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Little \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U) | 1:16 |
-| 27 | [The Legend Of The Tiger](https://open.spotify.com/track/5efJajWJiHRmENqLdHxWkI) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Kung Fu Panda: Land Of Awesomeness \(Music From Universal Beijing Resort's\)](https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo) | 2:02 |
-| 28 | [Dear Zoe](https://open.spotify.com/track/71bvni2XSb2PD9ab7sJNZx) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [The Mother \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp) | 2:18 |
-| 29 | [A Storm Approaches](https://open.spotify.com/track/62xeNjaW13mCaCtNzD1dMB) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:28 |
+| 25 | [Winter Passes Into Spring](https://open.spotify.com/track/7E0rakzFoaTjGlVGqmfPBQ) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Kung Fu Panda: Land Of Awesomeness \(Music From Universal Beijing Resort's\)](https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo) | 2:04 |
+| 26 | [A Storm Approaches](https://open.spotify.com/track/62xeNjaW13mCaCtNzD1dMB) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:28 |
+| 27 | [Mothers And Cubs](https://open.spotify.com/track/5XQeNQZghhyQYku8I7asKd) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [The Mother \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp) | 0:58 |
+| 28 | [The Legend Of The Tiger](https://open.spotify.com/track/5efJajWJiHRmENqLdHxWkI) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Kung Fu Panda: Land Of Awesomeness \(Music From Universal Beijing Resort's\)](https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo) | 2:02 |
+| 29 | [Ted Saves The Day](https://open.spotify.com/track/6xjjeZHIXcywmHT3pO0Zak) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:38 |
 | 30 | [Autumn Becomes Winter](https://open.spotify.com/track/2uYcCSsJp4gHgWogMRdDpM) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Kung Fu Panda: Land Of Awesomeness \(Music From Universal Beijing Resort's\)](https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo) | 2:03 |
-| 31 | [Ted Saves The Day](https://open.spotify.com/track/6xjjeZHIXcywmHT3pO0Zak) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:38 |
+| 31 | [Riding Into the Sunset](https://open.spotify.com/track/1E9wL6Fko0s380amDh51T0) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 0:40 |
 
-Snapshot ID: `MjgzODg5NDMsMDAwMDAwMDAxZjkwZTllM2E4OWI4YTBmYzQ0OWQ2MmI4ODY2Y2RlYQ==`
+Snapshot ID: `MjgzOTAyOTMsMDAwMDAwMDAyNGVjMDc4YTY3YWY3OTk5MGZkMDU4YzFhODA0M2IxYQ==`

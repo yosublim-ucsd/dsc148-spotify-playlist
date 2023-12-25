@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboGlPhJFIp9.md) - [plain]
 
 > Soothing, atmospheric guitar music to help you lie back, unwind and switch off.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,104 likes - 118 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,121 likes - 118 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboGlPhJFIp9.md) - [plain]
 | 117 | [Distant Roads](https://open.spotify.com/track/6GLI5euDmcPIB19IjyqzDP) | [Light of Sun](https://open.spotify.com/artist/1G18ferRDAgDuiTaMkoFQf) | [Distant Roads](https://open.spotify.com/album/3GxH3FW59guYKpYi3ok0y6) | 2:47 |
 | 118 | [Supra](https://open.spotify.com/track/1rR0zygfSEsJrsi3nAx9uh) | [Tiger Throws](https://open.spotify.com/artist/7Dm40AHxSfU0WJUnVMlsku) | [Supra](https://open.spotify.com/album/1mdwDeA5cJru1CWtwITW1m) | 2:28 |
 
-Snapshot ID: `MCw4NzhiYmY1ZTgyMGU0NzVlMWM0NTZkOWIzYTVjMjg3ZjBmZjExZmE1`
+Snapshot ID: `MCw0Nzk2N2Y4Mjg5ZmEwNmZmYTk2MDEwNzNkMzEyYzY2MTU5MGIwN2Jh`

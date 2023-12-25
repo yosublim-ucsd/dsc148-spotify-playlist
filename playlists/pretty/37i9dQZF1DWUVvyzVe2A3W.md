@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVvyzVe2A3W.md) - [plain]
 
 > Chantez ces comptines à vos enfants..\. et n'oubliez pas les gestes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,732 likes - 50 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,729 likes - 50 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ainsi font, font, font](https://open.spotify.com/track/6YBMiyDbvr2Kb2qB99WV4C) | [Isabelle Gaboriau](https://open.spotify.com/artist/1bDtXGzHBisKKSCAEX8unH), [Les amis de tous les enfants du monde](https://open.spotify.com/artist/1GyAfL3ee6VLvRipRPELwR), [Éric Bessot](https://open.spotify.com/artist/1JbfIDFRPJnJW1OaN2S0Hp) | [20 chansons et comptines pour les petits, Vol\. 3](https://open.spotify.com/album/4FC671DSP3EAYOMh27M34Z) | 1:31 |
 | 2 | [Savez\-vous planter les choux](https://open.spotify.com/track/3WEwruu7TrngI1ytUbWIeM) | [La Superstar Des Comptines Rondes Et Berceuses](https://open.spotify.com/artist/6TaGVnSdzIsOLVxiAKxotV) | [20 Comptines pour enfants et bébés](https://open.spotify.com/album/1sll6PeEkOXCFHIq0AizU3) | 1:18 |
 | 3 | [Pomme de reinette et pomme d'api](https://open.spotify.com/track/7vgCw8AiOzjiwDGwUFOeOE) | [Isabelle Gaboriau](https://open.spotify.com/artist/1bDtXGzHBisKKSCAEX8unH), [Michel Barouille](https://open.spotify.com/artist/0eLozZih4AkQ9laivfUYIl), [Les amis de tous les enfants du monde](https://open.spotify.com/artist/1GyAfL3ee6VLvRipRPELwR), [Éric Bessot](https://open.spotify.com/artist/1JbfIDFRPJnJW1OaN2S0Hp) | [20 chansons et comptines pour les petits, Vol\. 1](https://open.spotify.com/album/2NouuH51OY98HOh8rlficN) | 0:40 |
-| 4 | [Un éléphant qui se balançait \- Les plus belles comptines d'Okoo](https://open.spotify.com/track/23dwpRvxImSXGWXSFJ2ldh) | [Les plus belles comptines d'Okoo](https://open.spotify.com/artist/2jhOKo1SElusbD4jKMoABk) | [Les plus belles comptines d'Okoo \(Edition Deluxe\)](https://open.spotify.com/album/0nZ0Q8MFYfrSEXDTleUIH4) | 2:06 |
+| 4 | [Un éléphant qui se balançait \- Les plus belles comptines d'Okoo](https://open.spotify.com/track/23dwpRvxImSXGWXSFJ2ldh) | [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [Les plus belles comptines d'Okoo \(Edition Deluxe\)](https://open.spotify.com/album/0nZ0Q8MFYfrSEXDTleUIH4) | 2:06 |
 | 5 | [Promenons\-nous dans les bois](https://open.spotify.com/track/1AJhMfIYCZ5mQHwYVGZRto) | [Jemy](https://open.spotify.com/artist/41e0JHTjVOTI9AnIgxaGfo) | [50 Comptines à gestes](https://open.spotify.com/album/6vcnC7r88aIaEU99SmJnl1) | 2:31 |
 | 6 | [Dans la forêt lointaine](https://open.spotify.com/track/1kFSaw8FyShcJ4pgWnqLQT) | [Jemy](https://open.spotify.com/artist/41e0JHTjVOTI9AnIgxaGfo) | [50 Comptines à gestes](https://open.spotify.com/album/6vcnC7r88aIaEU99SmJnl1) | 1:08 |
 | 7 | [C'est la baleine](https://open.spotify.com/track/1qXOgIZQ8tYQJOUcPjA7wj) | [Jémy](https://open.spotify.com/artist/6sl5aNXd2SMbJxyiOIg3xI) | [Comptines à gestes](https://open.spotify.com/album/3csaG6T5ovjOHgqOmxboJo) | 0:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVvyzVe2A3W.md) - [plain]
 | 49 | [Coccinelle demoiselle](https://open.spotify.com/track/5JUPYmI0xaqVX1XRLC5m4c) | [Jémy](https://open.spotify.com/artist/6sl5aNXd2SMbJxyiOIg3xI) | [Comptines à gestes](https://open.spotify.com/album/3csaG6T5ovjOHgqOmxboJo) | 1:07 |
 | 50 | [Je fais le tour de ma maison](https://open.spotify.com/track/4IgLZpeWcbgdmG795amxCL) | [Titia&Gg](https://open.spotify.com/artist/7MaiuvopZTT5lwfkc65HFv) | [50 Comptines à gestes](https://open.spotify.com/album/6vcnC7r88aIaEU99SmJnl1) | 2:35 |
 
-Snapshot ID: `MCxlMWZkMjRjZTdjMmUwZGU3ZWM1N2E4NjUxODdhMDEwOTE4MTk5ODhl`
+Snapshot ID: `MCxhZGY1MjAwOTljYTgzMjM2Y2ExYTZmN2IyNDQ4MDM3OGJjZTdiMmVh`

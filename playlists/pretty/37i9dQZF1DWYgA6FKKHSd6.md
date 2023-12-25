@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,530 likes - 150 songs - 10 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,542 likes - 150 songs - 10 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 | 101 | [Summer Feelin'](https://open.spotify.com/track/7bUb9LZSTFn447srnC1vPA) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8), [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [Summer Feelin'](https://open.spotify.com/album/70m2RHdocFLeIPpzXEUa45) | 3:58 |
 | 102 | [Tonic](https://open.spotify.com/track/6cgKf3UVdiMaFqDSaNDwnA) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Solid](https://open.spotify.com/album/1YcK4A5I2wdtgDJZ8Cht0F) | 4:17 |
 | 103 | [Eye Of The Storm](https://open.spotify.com/track/6O0FDghGmoL5w0WOVaoNIP) | [The Groove Project](https://open.spotify.com/artist/0CR2LOBZJI8NrzYZykxQe5), [Adam Holzman](https://open.spotify.com/artist/1Q4wpwTWP02Nxfa4oTJDlO) | [Eye Of The Storm](https://open.spotify.com/album/1evVKw0Y7cCwz5HUtBZq0d) | 4:16 |
-| 104 | [City Lights](https://open.spotify.com/track/5kmQaaHOzgnzJmDpHJVtQY) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Soul To Souls](https://open.spotify.com/album/2rzjVifrHIbbSEvBIGavtb) | 5:33 |
+| 104 | [City Lights](https://open.spotify.com/track/6Idc9PDrhpxmiCB9Juescw) | [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Soul To Souls](https://open.spotify.com/album/7mIp9ANntd1SpsOEzT0yUM) | 5:33 |
 | 105 | [The Sax Pack](https://open.spotify.com/track/15m7BNAMsBE5rxwpwfN0bB) | [The Sax Pack](https://open.spotify.com/artist/2m74KCZFBOTpNy1g9XLbSA) | [The Sax Pack](https://open.spotify.com/album/6V9VLkQrUVKlSRxVdA8wDN) | 3:34 |
 | 106 | [Trinity](https://open.spotify.com/track/4d0TZ8gt6iAShHB7Y9nRM2) | [Jackiem Joyner](https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg) | [Main Street Beat](https://open.spotify.com/album/0lLrGjwlJgeXhy3W1Z4v1N) | 4:13 |
 | 107 | [Last Dance](https://open.spotify.com/track/7eiTz8VI2yjqwUmGwsHyIE) | [Jackiem Joyner](https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg), [Peter White](https://open.spotify.com/artist/7FOIxhZMOdE8hnOF0X8qgo) | [Touch](https://open.spotify.com/album/6l3WC746tLslsTMqPu6DYb) | 4:13 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 | 149 | [Nightfall](https://open.spotify.com/track/6bGPsVqyQyTs1QPus8AFAP) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Sami Turunen](https://open.spotify.com/artist/2xLnJ9osiiSOHRiJT28qiO), [Strat Carter](https://open.spotify.com/artist/4xBUsH1MTjkIJ70brUkFSx) | [Nightfall](https://open.spotify.com/album/0iQgv8ZvUhQlNylLYRfFJ7) | 3:07 |
 | 150 | [Another Day In Paradise](https://open.spotify.com/track/07EjeqkqzPeEhz6B2zgmDU) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Another Day In Paradise](https://open.spotify.com/album/20nnoaK341xKWNK6cNlNBn) | 4:35 |
 
-Snapshot ID: `MCw5Y2U1ODBhNjhlYjg5ODY4YWExZGFlOTU5ODExYTljMTYxZGU4MTVk`
+Snapshot ID: `MCw3NGRlNDhmMDJiMmYyYTgyMzkwZmIyMWM0MGUyYmQ0NGNlMjc4NjIw`

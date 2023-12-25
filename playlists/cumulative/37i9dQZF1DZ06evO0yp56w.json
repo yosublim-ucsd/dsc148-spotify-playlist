@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 301733,
       "name": "Butterflies and Hurricanes",
       "url": "https://open.spotify.com/track/0xJLcjd0gaZct43xG1UlXS"
@@ -572,7 +572,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 37666,
       "name": "Interlude",
       "url": "https://open.spotify.com/track/7gmQ329Ocmvb9OImqevFBF"
@@ -998,6 +998,24 @@
     {
       "album": {
         "name": "Absolution",
+        "url": "https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296173,
+      "name": "Stockholm Syndrome",
+      "url": "https://open.spotify.com/track/3ox5lIXRf4r977FsE7JfXs"
+    },
+    {
+      "album": {
+        "name": "Absolution",
         "url": "https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl"
       },
       "artists": [
@@ -1008,7 +1026,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-25",
       "duration_ms": 297000,
       "name": "Stockholm Syndrome",
       "url": "https://open.spotify.com/track/5VVWgWH8HFLAtM8lbttvn9"

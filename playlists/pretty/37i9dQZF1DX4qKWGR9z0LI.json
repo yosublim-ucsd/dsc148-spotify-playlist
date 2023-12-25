@@ -1,12 +1,12 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Myke Towers",
-  "num_followers": 1838126,
+  "num_followers": 1838203,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDBhMGFkMzk4MzAyMGM1OWYzYmNiNTY3OTgxY2FkY2Q3M2U3YjU0",
+  "snapshot_id": "MCwzZGY0MTM2NGIzNzEwZTczNjJjM2RjMjk0NmFjOGRlZTNmNWEwMThh",
   "tracks": [
     {
       "added_at": "2023-12-22 19:18:44",
@@ -967,22 +967,18 @@
     {
       "added_at": "2023-12-22 19:18:44",
       "album": {
-        "name": "Suma y Resta",
-        "url": "https://open.spotify.com/album/2TLHgTwpVZbKZXt4WmcCKK"
+        "name": "Arriba Siempre - De Pura Sangre",
+        "url": "https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp"
       },
       "artists": [
         {
-          "name": "El Micha",
-          "url": "https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn"
-        },
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+          "name": "Michel el Buen\u00f3n",
+          "url": "https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf"
         }
       ],
-      "duration_ms": 188364,
-      "name": "Suma y Resta",
-      "url": "https://open.spotify.com/track/1j6HyQf4y1IiHFewyXnxK1"
+      "duration_ms": 305053,
+      "name": "Extra\u00f1\u00e1ndote",
+      "url": "https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4"
     },
     {
       "added_at": "2023-12-22 19:18:44",
@@ -1003,18 +999,22 @@
     {
       "added_at": "2023-12-22 19:18:44",
       "album": {
-        "name": "Arriba Siempre - De Pura Sangre",
-        "url": "https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp"
+        "name": "Suma y Resta",
+        "url": "https://open.spotify.com/album/2TLHgTwpVZbKZXt4WmcCKK"
       },
       "artists": [
         {
-          "name": "Michel el Buen\u00f3n",
-          "url": "https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf"
+          "name": "El Micha",
+          "url": "https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
         }
       ],
-      "duration_ms": 305053,
-      "name": "Extra\u00f1\u00e1ndote",
-      "url": "https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4"
+      "duration_ms": 188364,
+      "name": "Suma y Resta",
+      "url": "https://open.spotify.com/track/1j6HyQf4y1IiHFewyXnxK1"
     },
     {
       "added_at": "2023-12-22 19:18:44",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-12-22 19:18:44",
       "album": {
+        "name": "Por Culpa de Alguien",
+        "url": "https://open.spotify.com/album/5bNVN6hXTW5gmDHsvqoZ60"
+      },
+      "artists": [
+        {
+          "name": "Josimar y Su Yamb\u00fa",
+          "url": "https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs"
+        }
+      ],
+      "duration_ms": 327563,
+      "name": "La Mejor de Todas",
+      "url": "https://open.spotify.com/track/55BVGdzYkXx51xxMKsScgr"
+    },
+    {
+      "added_at": "2023-12-22 19:18:44",
+      "album": {
         "name": "Metamorfosis",
         "url": "https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 191260,
       "name": "The Reason - Latin Version",
       "url": "https://open.spotify.com/track/1ON345iq5mxx518u3U4pyn"
-    },
-    {
-      "added_at": "2023-12-22 19:18:44",
-      "album": {
-        "name": "Por Culpa de Alguien",
-        "url": "https://open.spotify.com/album/5bNVN6hXTW5gmDHsvqoZ60"
-      },
-      "artists": [
-        {
-          "name": "Josimar y Su Yamb\u00fa",
-          "url": "https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs"
-        }
-      ],
-      "duration_ms": 327563,
-      "name": "La Mejor de Todas",
-      "url": "https://open.spotify.com/track/55BVGdzYkXx51xxMKsScgr"
     },
     {
       "added_at": "2023-12-22 19:18:44",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-12-22 19:18:44",
       "album": {
-        "name": "10 De Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/6pK55Oxs97bSeKxt0eGuIH"
-      },
-      "artists": [
-        {
-          "name": "Hansel Y Raul",
-          "url": "https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g"
-        }
-      ],
-      "duration_ms": 286453,
-      "name": "Maria Teresa y Danilo",
-      "url": "https://open.spotify.com/track/1IwIFav8Pfr5oijgcRQ7O9"
-    },
-    {
-      "added_at": "2023-12-22 19:18:44",
-      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 384800,
       "name": "Tu No Sabes Querer",
       "url": "https://open.spotify.com/track/6GRFXhOIdiZmkZiNeGZ9Sm"
+    },
+    {
+      "added_at": "2023-12-22 19:18:44",
+      "album": {
+        "name": "10 De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/6pK55Oxs97bSeKxt0eGuIH"
+      },
+      "artists": [
+        {
+          "name": "Hansel Y Raul",
+          "url": "https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g"
+        }
+      ],
+      "duration_ms": 286453,
+      "name": "Maria Teresa y Danilo",
+      "url": "https://open.spotify.com/track/1IwIFav8Pfr5oijgcRQ7O9"
     },
     {
       "added_at": "2023-12-22 19:18:44",
@@ -1559,18 +1559,18 @@
     {
       "added_at": "2023-12-22 19:18:44",
       "album": {
-        "name": "Feliz Navidad, Vol. 3",
-        "url": "https://open.spotify.com/album/6tCRBwC4X5HL0kUEaNt7Ii"
+        "name": "La Foto, el Video, la Chicaner\u00eda",
+        "url": "https://open.spotify.com/album/0lmliOvYEdwKYUY8ozaBh4"
       },
       "artists": [
         {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+          "name": "Orquesta Calibre",
+          "url": "https://open.spotify.com/artist/7kNW5VdRuuBqQ5phrTsrBB"
         }
       ],
-      "duration_ms": 192093,
-      "name": "La Cura - Salsa Version",
-      "url": "https://open.spotify.com/track/2BlWHJwRFd8I4rNyA3TrA1"
+      "duration_ms": 341839,
+      "name": "Charrupi",
+      "url": "https://open.spotify.com/track/3XvBsEsYSTITpQv21Rc5V9"
     },
     {
       "added_at": "2023-12-22 19:18:44",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2023-12-22 19:18:44",
       "album": {
-        "name": "La Foto, el Video, la Chicaner\u00eda",
-        "url": "https://open.spotify.com/album/0lmliOvYEdwKYUY8ozaBh4"
+        "name": "Feliz Navidad, Vol. 3",
+        "url": "https://open.spotify.com/album/6tCRBwC4X5HL0kUEaNt7Ii"
       },
       "artists": [
         {
-          "name": "Orquesta Calibre",
-          "url": "https://open.spotify.com/artist/7kNW5VdRuuBqQ5phrTsrBB"
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
         }
       ],
-      "duration_ms": 341839,
-      "name": "Charrupi",
-      "url": "https://open.spotify.com/track/3XvBsEsYSTITpQv21Rc5V9"
+      "duration_ms": 192093,
+      "name": "La Cura - Salsa Version",
+      "url": "https://open.spotify.com/track/2BlWHJwRFd8I4rNyA3TrA1"
     },
     {
       "added_at": "2023-12-22 19:18:44",

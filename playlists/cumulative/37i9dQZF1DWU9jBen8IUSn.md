@@ -2,7 +2,7 @@
 
 ### [Mixtape](https://open.spotify.com/playlist/37i9dQZF1DWU9jBen8IUSn)
 
-> Songs that make Paul Mescal feel something \- including some from his new film <i>All Of Us Strangers</i>\. Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
+> Songs that make Paul Mescal feel something \- including some from his new film All Of Us Strangers\. Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
 
 346 songs - 1 day 0 hr 16 min
 

@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Jonathan Butler
 
-398 songs - 1 day 4 hr 7 min
+399 songs - 1 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,7 +335,8 @@
 | [Style and Elegance](https://open.spotify.com/track/28ShD9XejF8Eaxauf6pNkM) | [JJ Sansaverino](https://open.spotify.com/artist/7iCr7BWLxsxFffDaIvUXdy) | [Style and Elegance](https://open.spotify.com/album/66IorYIoY6dmiJLbJfBfGx) | 4:11 | 2020-10-30 | 2022-03-14 |
 | [Summer Cool](https://open.spotify.com/track/6NNomm02RjhU5I87qcegN1) | [Gary Honor](https://open.spotify.com/artist/3aqXxbZKJl9CRFZABtpXdp) | [Summer Cool](https://open.spotify.com/album/4CEKyxig8BDRyuMz2DOJks) | 4:10 | 2021-08-06 | 2022-07-28 |
 | [Summer Feelin'](https://open.spotify.com/track/7bUb9LZSTFn447srnC1vPA) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8), [Paul Jackson, Jr.](https://open.spotify.com/artist/2OeN0JVfTWYog354hHhQ2S) | [Summer Feelin'](https://open.spotify.com/album/70m2RHdocFLeIPpzXEUa45) | 3:58 | 2020-10-30 | 2022-03-16 |
-| [Summer Groove](https://open.spotify.com/track/1WeSHCWNKRixmn9tLNmvKH) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [The Best of Tim Bowman](https://open.spotify.com/album/5wRMa0KJ8fa7U8TxhEPvVI) | 11:46 | 2023-10-27 |  |
+| [Summer Groove](https://open.spotify.com/track/1WeSHCWNKRixmn9tLNmvKH) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [The Best of Tim Bowman](https://open.spotify.com/album/5wRMa0KJ8fa7U8TxhEPvVI) | 11:46 | 2023-10-27 | 2023-12-25 |
+| [Summer Groove](https://open.spotify.com/track/4SMExf2UAgf4k3jZDjelHL) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [The Best of Tim Bowman](https://open.spotify.com/album/6jSqCcaTNJdKsRD3JJQoyq) | 11:46 | 2023-10-27 |  |
 | [Summer In Blue](https://open.spotify.com/track/1X9xJud9FozGpsPYbkfkG2) | [Michael Broening](https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG) | [Summer in Blue](https://open.spotify.com/album/3GiuAKDTRdfBVHwBEBnVAU) | 4:29 | 2022-03-25 | 2022-07-29 |
 | [Summer In Blue](https://open.spotify.com/track/24qM1vAqWgIv9CzasSy9nn) | [Michael Broening](https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG) | [Summer in Blue](https://open.spotify.com/album/6jEEFwqCOwADpc4CDRsR0o) | 4:29 | 2022-03-25 | 2023-09-09 |
 | [Summer Solstice](https://open.spotify.com/track/2pRAu9T3XHAf9HNR9vb1jY) | [Anthony Island](https://open.spotify.com/artist/16Qk6lelYJUiCbuZQAPm7v), [Pete Dingon](https://open.spotify.com/artist/5lZnAbDvhOcVlcdIV7ajzC) | [Summer Solstice](https://open.spotify.com/album/3RjqIXF2BUrwBrCwd7kZYz) | 3:20 | 2022-04-15 | 2023-08-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgq0lsW8B2O.md) - [plain]
 
 > Music from the early days of Ambient.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,577 likes - 46 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,624 likes - 46 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgq0lsW8B2O.md) - [plain]
 | 3 | [Prati Bagnati Del Monte Analogo](https://open.spotify.com/track/3gxcuLf2ZMpOTEyreIwRcN) | [Raul Lovisoni](https://open.spotify.com/artist/14c03pepaaW7MNk7D5LG48), [Francesco Messina](https://open.spotify.com/artist/0z1i074D0xFtfxWLgZ3sGj) | [Prati Bagnati Del Monte Analogo](https://open.spotify.com/album/61B1GQvwCDsQMEP6yaySOB) | 23:31 |
 | 4 | [Le singe bleu \- Remastered](https://open.spotify.com/track/4QNTuaDSBZTg7sKEF8zXf4) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [L'apocalypse des animaux \(Remastered\)](https://open.spotify.com/album/3UNXsFe9kpKxRaKE1hG7TD) | 7:40 |
 | 5 | [On the Other Ocean](https://open.spotify.com/track/46UxS78qOWfuMhXEVN3dYb) | [David Behrman](https://open.spotify.com/artist/3yX5L54KNk0sSmBscmv1Bv) | [Late Night Tales: Belle and Sebastian, Vol\. 2](https://open.spotify.com/album/4Is3XZYpVDmda45V81MO5b) | 6:50 |
-| 6 | [Wind On Wind](https://open.spotify.com/track/5DiwyUEb7jG8iVOaHYMEgl) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 3:13 |
+| 6 | [Wind On Wind](https://open.spotify.com/track/5Kp4uIt000uLfxYahTupG4) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/1nVnbkq96iZzBMp57Xzx1V) | 3:13 |
 | 7 | [Gloaming](https://open.spotify.com/track/7AZRjbDLxQQMOZFA3qI6DA) | [Ernest Hood](https://open.spotify.com/artist/0f5dQ7uAYmopoRAEF4VHo2) | [Neighborhoods](https://open.spotify.com/album/5kxfj6a0DEAgfFxVbihErw) | 8:32 |
 | 8 | [Toucan Ocean](https://open.spotify.com/track/1an4tDLE2eH2a21bBpuBh5) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy) | 3:49 |
 | 9 | [Sequent 'C' \- Remastered 2018](https://open.spotify.com/track/2hRsN3reHuwyLaHq2S1z0Q) | [Tangerine Dream](https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl) | [Phaedra \(Deluxe Version\)](https://open.spotify.com/album/6wugThEUTAa6BdI2hsqm5n) | 2:21 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgq0lsW8B2O.md) - [plain]
 | 45 | [Tribal Secret](https://open.spotify.com/track/5kM7RxjXVATfazOdFkcPJt) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Earthquake Island](https://open.spotify.com/album/5ZEnEV4z7ReTohEwubgImu) | 3:52 |
 | 46 | [2/1 \- Remastered 2004](https://open.spotify.com/track/1Qr6LFKNBFNNa2y6nMDO31) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 8:54 |
 
-Snapshot ID: `MCwxNWQzMWE0ZWEyODdjOGI4YWYyN2RlYzRkZTJiNGZjMzBmZjZlMDRl`
+Snapshot ID: `MCxiNmEzODQ1NjY2N2FmMDZhY2IzMTU2YTdmNzQzZjVhNGU5NDkxZmQ1`

@@ -234,7 +234,7 @@
     {
       "album": {
         "name": "Find You",
-        "url": "https://open.spotify.com/album/6xzI3PZYo4aQb95vr4zSn3"
+        "url": "https://open.spotify.com/album/6kCSe3NfQNK26goFpBeRLl"
       },
       "artists": [
         {
@@ -245,6 +245,24 @@
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 223500,
+      "name": "Find You",
+      "url": "https://open.spotify.com/track/1rScQib8tvVKIB94nXAKnV"
+    },
+    {
+      "album": {
+        "name": "Find You",
+        "url": "https://open.spotify.com/album/6xzI3PZYo4aQb95vr4zSn3"
+      },
+      "artists": [
+        {
+          "name": "Maths Time Joy",
+          "url": "https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
       "duration_ms": 223500,
       "name": "Find You",
       "url": "https://open.spotify.com/track/6TF0UViz2tE4ygW9NjmYWK"
