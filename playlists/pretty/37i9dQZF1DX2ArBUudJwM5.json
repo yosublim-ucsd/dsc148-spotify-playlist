@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompieron en 2023. Foto: Ivonne Guzm\u00e1n",
-  "num_followers": 39949,
+  "num_followers": 39954,
   "original_name": "EQUAL Argentina: Lo Mejor de 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYWI5ZGFiMWMxMDNmM2I1Yzk3MDI2MTFhNTUxODdjNWJkMDc2ZWEz",
+  "snapshot_id": "MCw3ZmY0Y2NkNzRjYjE2NTg0OTBkODZiOGExMGMwYTk3NmM5NzdmZmFj",
   "tracks": [
     {
       "added_at": "2023-11-29 12:15:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-11-29 12:15:00",
       "album": {
+        "name": "Te Vas",
+        "url": "https://open.spotify.com/album/4SOIv6vtvF8rLywEiQzYmg"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera y Pampas de Bariloche",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 130576,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/2idbEBZxsGaKM4QxzShgd2"
+    },
+    {
+      "added_at": "2023-11-29 12:15:00",
+      "album": {
         "name": "Entr\u00e9gate",
         "url": "https://open.spotify.com/album/72cfqHGrPSyunjF29CPcF4"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 171360,
       "name": "No Lo Pienses M\u00e1s",
       "url": "https://open.spotify.com/track/2BEtgwvbkVk5voukOuRdX5"
-    },
-    {
-      "added_at": "2023-11-29 12:15:00",
-      "album": {
-        "name": "Te Vas",
-        "url": "https://open.spotify.com/album/4SOIv6vtvF8rLywEiQzYmg"
-      },
-      "artists": [
-        {
-          "name": "Sele Vera y Pampas de Bariloche",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 130576,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/2idbEBZxsGaKM4QxzShgd2"
     },
     {
       "added_at": "2023-11-29 12:15:00",

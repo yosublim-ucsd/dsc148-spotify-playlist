@@ -612,7 +612,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 129199,
       "name": "Aj, dnes v Betl\u00e9m\u011b",
       "url": "https://open.spotify.com/track/4TjJKRHSQSoYd5I2YZpYKB"
@@ -3916,7 +3916,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 242495,
       "name": "Christmas Lights",
       "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
@@ -3952,7 +3952,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 61066,
       "name": "Cht\u00edc, aby spal",
       "url": "https://open.spotify.com/track/5x9P8DDEFwHuzK7fAm0h6U"
@@ -4870,7 +4870,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 67666,
       "name": "Dej b\u016fh \u0161t\u011bst\u00ed",
       "url": "https://open.spotify.com/track/3NzOcWuLEr8Rt8V3DDkK5d"
@@ -5556,7 +5556,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 164000,
       "name": "Dopamin",
       "url": "https://open.spotify.com/track/6AMZm12a1B2kpgN7qOA7Cy"
@@ -5814,7 +5814,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 239946,
       "name": "Driving Home for Christmas",
       "url": "https://open.spotify.com/track/0ZoHHROTzwIYeNAHRPedTY"
@@ -7640,7 +7640,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 181224,
       "name": "Givenchy",
       "url": "https://open.spotify.com/track/7Fi6u0busMFneo0kh4x8dB"
@@ -8050,7 +8050,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 146938,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/5VEXEXffwn8Tc4o45GDznd"
@@ -8090,7 +8090,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 268960,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/0HZk0QsXPhMNAWNDR3rYE8"
@@ -8724,6 +8724,24 @@
       "duration_ms": 198400,
       "name": "Hlavy na hlavy",
       "url": "https://open.spotify.com/track/5nWBHanLWb4j4ZSnY7eq6X"
+    },
+    {
+      "album": {
+        "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 1 (Pokoj lidem dobr\u00e9 v\u016fle)",
+        "url": "https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0"
+      },
+      "artists": [
+        {
+          "name": "D\u011btsk\u00fd sbor Camerata",
+          "url": "https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66600,
+      "name": "Hle, hle, tamhle v Betl\u00e9m\u011b",
+      "url": "https://open.spotify.com/track/7LIm0wqXegQZzuLuwixpmV"
     },
     {
       "album": {
@@ -9794,7 +9812,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 48266,
       "name": "Jak jsi kr\u00e1sn\u00e9 nevi\u0148\u00e1tko",
       "url": "https://open.spotify.com/track/0U1bWpYC5uiUDX9ALasOvA"
@@ -10362,7 +10380,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 73466,
       "name": "J\u00e1 bych r\u00e1d k Betl\u00e9mu",
       "url": "https://open.spotify.com/track/5u9SlTV7leZFNpE7ukfE6F"
@@ -10380,7 +10398,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 140400,
       "name": "J\u00e1 mal\u00fd p\u0159ich\u00e1z\u00edm",
       "url": "https://open.spotify.com/track/5RIy2pviY0FkZZ1aBTLz0z"
@@ -10470,7 +10488,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 69933,
       "name": "K Je\u017e\u00ed\u0161kovi do Betl\u00e9ma",
       "url": "https://open.spotify.com/track/2qsM1KHWQHBUEQlk6fOxdA"
@@ -10826,7 +10844,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 175400,
       "name": "Kdepak, Ty Pt\u00e1\u010dku, Hn\u00edzdo M\u00e1\u0161?",
       "url": "https://open.spotify.com/track/3zKimXqpNYHep3ma88JWmM"
@@ -11503,6 +11521,24 @@
     },
     {
       "album": {
+        "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 1 (Pokoj lidem dobr\u00e9 v\u016fle)",
+        "url": "https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0"
+      },
+      "artists": [
+        {
+          "name": "D\u011btsk\u00fd sbor Camerata",
+          "url": "https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112440,
+      "name": "Kyrie Eleiston",
+      "url": "https://open.spotify.com/track/14AeIDBDV16Xlw8S8pqlwm"
+    },
+    {
+      "album": {
         "name": "ZP\u00c1TKY NA SVOJ\u00cd PLANETU",
         "url": "https://open.spotify.com/album/45MXq2Tan2W8vHbUTpYWaS"
       },
@@ -11988,7 +12024,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 155453,
       "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
       "url": "https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts"
@@ -13398,7 +13434,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 220160,
       "name": "Merry Christmas Everyone",
       "url": "https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn"
@@ -13670,7 +13706,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
@@ -13746,7 +13782,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 184000,
       "name": "MMA",
       "url": "https://open.spotify.com/track/16JaFPRwrNE0IoZanB2LxU"
@@ -14790,7 +14826,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 88026,
       "name": "Narodil se Kristus P\u00e1n",
       "url": "https://open.spotify.com/track/4q0vnoWFd16SMvlGMPB6Yy"
@@ -14978,7 +15014,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 123625,
       "name": "Nejhez\u010d\u00ed \u010cas V\u00e1no\u010dn\u00ed",
       "url": "https://open.spotify.com/track/1z0zVe0wpRYUVldGi6qNhs"
@@ -17348,7 +17384,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 71933,
       "name": "Poj\u010fte chlapci k n\u00e1m",
       "url": "https://open.spotify.com/track/2nZqVGyZ6zUp1Msmx9mvaj"
@@ -17472,7 +17508,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 82813,
       "name": "Posp\u011b\u0161te sem pachol\u00e1tka",
       "url": "https://open.spotify.com/track/5RExY3uGYNGHgqpn0v2Ela"
@@ -18238,7 +18274,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 76466,
       "name": "P\u00e1sli ovce Vala\u0161i",
       "url": "https://open.spotify.com/track/2qFoxTnOhhUd7qZVTpJScD"
@@ -18404,7 +18440,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 120333,
       "name": "Radostn\u011b budem zp\u00edvat",
       "url": "https://open.spotify.com/track/0aeqKS6ZINIFIreJUv6Dw2"
@@ -18636,7 +18672,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 186782,
       "name": "Re\u017eim neru\u0161it",
       "url": "https://open.spotify.com/track/6AZaXcXWfcFgJRgl4bsgvD"
@@ -19268,7 +19304,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 149589,
       "name": "Saf\u00edr",
       "url": "https://open.spotify.com/track/1tpWtFdAuY9chjl5YhzsTP"
@@ -19366,7 +19402,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 206539,
       "name": "Santa's Coming for Us",
       "url": "https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv"
@@ -19388,7 +19424,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 242644,
       "name": "Santa, Can\u2019t You Hear Me",
       "url": "https://open.spotify.com/track/2O3MQ6H3gjrIWDcpeTrikT"
@@ -19646,6 +19682,24 @@
       "duration_ms": 231492,
       "name": "Sem v po\u0159\u00e1dku",
       "url": "https://open.spotify.com/track/5wpj9Z2QTXIg2OMooLQZut"
+    },
+    {
+      "album": {
+        "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 1 (Pokoj lidem dobr\u00e9 v\u016fle)",
+        "url": "https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0"
+      },
+      "artists": [
+        {
+          "name": "D\u011btsk\u00fd sbor Camerata",
+          "url": "https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59120,
+      "name": "Sem, past\u00fd\u0159i",
+      "url": "https://open.spotify.com/track/2hmfRUoGzhr40f8F4bormJ"
     },
     {
       "album": {
@@ -20172,7 +20226,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 181266,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
@@ -20208,7 +20262,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 71333,
       "name": "Sly\u0161eli jsme v Betl\u00e9m\u011b",
       "url": "https://open.spotify.com/track/3XWxNH35PZZtJBbfrXOhYH"
@@ -20244,7 +20298,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 54400,
       "name": "Sly\u0161te, sly\u0161te pastu\u0161kov\u00e9",
       "url": "https://open.spotify.com/track/5p44K6jIoiL7xK3ahR7Oxh"
@@ -20328,7 +20382,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 196693,
       "name": "Snad Se N\u011bco Stane",
       "url": "https://open.spotify.com/track/1wwi81qqgXdmDaZm4RHSIH"
@@ -21082,7 +21136,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 226236,
       "name": "Sta\u010d\u00ed v\u011b\u0159it",
       "url": "https://open.spotify.com/track/3zUALUQ4uP0OzNFccxnF79"
@@ -21946,7 +22000,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 261626,
       "name": "Thank God It's Christmas - 2011 Remaster",
       "url": "https://open.spotify.com/track/3AymrUApW5JKKaNrHQhcBG"
@@ -22018,7 +22072,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 190973,
       "name": "The Christmas Song (Merry Christmas To You)",
       "url": "https://open.spotify.com/track/5humEOJehpAwMJEJmb0JJ2"
@@ -22181,6 +22235,24 @@
     },
     {
       "album": {
+        "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 2 (Pokoj lidem dobr\u00e9 v\u016fle)",
+        "url": "https://open.spotify.com/album/6pJJc0ncQiyyAIZEuagpjI"
+      },
+      "artists": [
+        {
+          "name": "D\u011btsk\u00fd sbor Camerata",
+          "url": "https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62800,
+      "name": "Tich\u00e1 noc",
+      "url": "https://open.spotify.com/track/2Zrn9F2CHBmKNSoCtdekZ7"
+    },
+    {
+      "album": {
         "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 1 (Pokoj lidem dobr\u00e9 v\u016fle)",
         "url": "https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0"
       },
@@ -22192,7 +22264,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 109133,
       "name": "Tich\u00e1 noc",
       "url": "https://open.spotify.com/track/77FRF06OSL3tj2CDRwtpuu"
@@ -22888,7 +22960,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 150000,
       "name": "U H\u0159i\u0161t\u011b 380",
       "url": "https://open.spotify.com/track/0FpgtEgaMZSUw2RAD7JHGs"
@@ -23724,7 +23796,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 81400,
       "name": "Veselte se, radujte se",
       "url": "https://open.spotify.com/track/1bcxeg3NTdtwFojVxdY1x0"
@@ -23993,6 +24065,24 @@
     },
     {
       "album": {
+        "name": "V\u00e1no\u010dn\u00ed koledy, Vol. 1 (Pokoj lidem dobr\u00e9 v\u016fle)",
+        "url": "https://open.spotify.com/album/0qATwKlnuscpFBtUckKRl0"
+      },
+      "artists": [
+        {
+          "name": "D\u011btsk\u00fd sbor Camerata",
+          "url": "https://open.spotify.com/artist/7dqGBm7HHbJqx8jnGe3KZt"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74333,
+      "name": "Vondr\u00e1\u0161i, Mat\u00f3\u0161i",
+      "url": "https://open.spotify.com/track/4NL18UfTrFsfI9R5pj7ZbI"
+    },
+    {
+      "album": {
         "name": "J. EDEN E-GEN (mixed by NobodyListen)",
         "url": "https://open.spotify.com/album/3d9csZH2s2QPeC9leP6i2g"
       },
@@ -24158,7 +24248,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 190109,
       "name": "V\u00e1noce jako d\u0159\u00edv",
       "url": "https://open.spotify.com/track/3CpohZA83EHkZESssbvvMe"
@@ -24256,7 +24346,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 119426,
       "name": "V\u00e1no\u010dn\u00ed ukol\u00e9bavka",
       "url": "https://open.spotify.com/track/3AqGkZtGXFbTboBXu0bmj4"
@@ -25136,7 +25226,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 156773,
       "name": "You Make It Feel Like Christmas (feat. Blake Shelton)",
       "url": "https://open.spotify.com/track/2OQ6a4CfUeYskpTTgyawyJ"
@@ -25940,7 +26030,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 84666,
       "name": "\u0160t\u011bdrej ve\u010der nastal",
       "url": "https://open.spotify.com/track/7z2e3rmY8LUyxfFPHfSSE7"
@@ -25976,7 +26066,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 91760,
       "name": "\u0160t\u011bst\u00ed, zdrav\u00ed, pokoj svat\u00fd",
       "url": "https://open.spotify.com/track/2nq6GJy3gcTr80orToMBiS"

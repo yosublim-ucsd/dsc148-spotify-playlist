@@ -4,7 +4,7 @@
 
 > J'sors la bécane di\-di\-da\-da \#fyp
 
-234 songs - 12 hr 15 min
+235 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [KJF 4](https://open.spotify.com/track/38h0M6U32s0OpQuETbhlhY) | [LESTEF KJF BOYZ](https://open.spotify.com/artist/1AEYRTRXesrGseS8nUFExp) | [KJF 4](https://open.spotify.com/album/12c3Tn2s4BkI2iFdx1vCah) | 2:49 | 2023-03-24 | 2023-08-19 |
 | [Kukere \(feat\. D Banj\) \- Remix](https://open.spotify.com/track/6HfyzIgb4Ia9COaetbq2Od) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C) | [Desire](https://open.spotify.com/album/5aJW7o9L4aFy9DLEtTxqsF) | 4:29 | 2023-12-01 |  |
 | [La bandite](https://open.spotify.com/track/0goer5e8B6SJaTV2B51k6f) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Rien 100 Rien](https://open.spotify.com/album/2GLuHlc49dJKY8yzxUZb8p) | 2:40 | 2023-03-24 | 2023-11-11 |
-| [La Chenille Synchro \(La Cheu\-Cheu\)](https://open.spotify.com/track/2hhrIFCQonuVWKj7wMfnHt) | [La Pig chenilliste](https://open.spotify.com/artist/5W17mS8dkwPr3D7RDT2d4a) | [La Chenille Synchro \(La Cheu\-Cheu\)](https://open.spotify.com/album/4you1DowiDwZWP2AQ2BmHw) | 3:23 | 2023-11-10 |  |
+| [La Chenille Synchro \(La Cheu\-Cheu\)](https://open.spotify.com/track/2hhrIFCQonuVWKj7wMfnHt) | [La Pig chenilliste](https://open.spotify.com/artist/5W17mS8dkwPr3D7RDT2d4a) | [La Chenille Synchro \(La Cheu\-Cheu\)](https://open.spotify.com/album/4you1DowiDwZWP2AQ2BmHw) | 3:23 | 2023-11-10 | 2023-12-26 |
+| [La Chenille Synchro \(La Cheu\-Cheu\)](https://open.spotify.com/track/7tOKLFOf8RW3ttYXFS8xeM) | [La Pig chenilliste](https://open.spotify.com/artist/5W17mS8dkwPr3D7RDT2d4a) | [La Chenille Synchro \(La Cheu\-Cheu\)](https://open.spotify.com/album/4Ijge3supi4RJtaNotI4N2) | 3:23 | 2023-11-10 |  |
 | [La clé](https://open.spotify.com/track/2JBnBUqpC3hrhMZv1Z9JKO) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 2:52 | 2023-03-24 | 2023-11-11 |
 | [La cosa](https://open.spotify.com/track/5eIYYCyRdXK3V2OqJ1i1Kw) | [ISK](https://open.spotify.com/artist/1HH5TlkjRt2FG8dpkWNm5j), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [La cosa](https://open.spotify.com/album/1WsiZRAFRsrCqDHjD3u5et) | 2:48 | 2023-10-27 | 2023-11-18 |
 | [Laboratoire](https://open.spotify.com/track/24JrEVHDfohup0ypuOV7os) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Carré](https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn) | 2:42 | 2023-04-07 |  |

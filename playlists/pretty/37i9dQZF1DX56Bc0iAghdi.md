@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 
 > Songs of love, hope and positivity for the world\.   Listen with Spirit!  Cover: Hannah Kerr
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,098 likes - 65 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,115 likes - 65 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 37 | [Down](https://open.spotify.com/track/7pm6Tx25xrVRTSjzYrdOVE) | [Jamie Kimmett](https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG) | [Prize Worth Fighting For \- EP](https://open.spotify.com/album/3OhT211gjRkYGbkuKubrtS) | 2:38 |
 | 38 | [Pieces](https://open.spotify.com/track/6PZh8MRQB5Hxj2PIKG8XY5) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH), [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Bloom](https://open.spotify.com/album/36LOiWPolyaiePKZwj4A5w) | 5:29 |
 | 39 | [Speak to Me](https://open.spotify.com/track/7nmrabiFsP23CoI8EXsgDc) | [For All Seasons](https://open.spotify.com/artist/5ucjhW0VidVLW5TegvgxSf) | [& Side A](https://open.spotify.com/album/0vFF7khThRFzf0roHQoA1i) | 3:55 |
-| 40 | [Celebrate Life](https://open.spotify.com/track/2o6xLYrfFz1eBC4ZuWKon7) | [Alice Pisano](https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH) | [Celebrate Life](https://open.spotify.com/album/5wlSuYlEUkibKPZXbfJjc5) | 3:55 |
-| 41 | [Sweet Water](https://open.spotify.com/track/3f5VaDwwxGN1Q99t5RRH8W) | [Beach Chapel](https://open.spotify.com/artist/0xDQejb43c7yJ5nfCA7jv5) | [Sweet Water](https://open.spotify.com/album/7eLXqkyWDOJRhEMNjaN5Be) | 4:09 |
+| 40 | [Sweet Water](https://open.spotify.com/track/3f5VaDwwxGN1Q99t5RRH8W) | [Beach Chapel](https://open.spotify.com/artist/0xDQejb43c7yJ5nfCA7jv5) | [Sweet Water](https://open.spotify.com/album/7eLXqkyWDOJRhEMNjaN5Be) | 4:09 |
+| 41 | [Celebrate Life](https://open.spotify.com/track/2o6xLYrfFz1eBC4ZuWKon7) | [Alice Pisano](https://open.spotify.com/artist/1B52Dud7YBQYoGLt2QxckH) | [Celebrate Life](https://open.spotify.com/album/5wlSuYlEUkibKPZXbfJjc5) | 3:55 |
 | 42 | [It's Not Over](https://open.spotify.com/track/36iivpdcpCQRjmcDHzJJep) | [Gizzle](https://open.spotify.com/artist/0xukYGKRRwBWS1N9sfCQoq), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [It's Not Over](https://open.spotify.com/album/6qPfheQDOnZDpViFsJIJ5t) | 3:31 |
 | 43 | [Incense \- Live](https://open.spotify.com/track/4sEmnvIiB16v5PYlNWnzS3) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Awe + Wonder \(Live\)](https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g) | 8:17 |
 | 44 | [Somebody](https://open.spotify.com/track/2s1fclqSpABaF3TpXWZyDC) | [HGHTS](https://open.spotify.com/artist/3qYzGjGmatPjz0jKkULj9p), [Kristen Hicks](https://open.spotify.com/artist/5dQsQyRyYQAXhnbaCMDhOl) | [Somebody](https://open.spotify.com/album/62VCya3aXX842Or8W3ITLZ) | 3:44 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 54 | [DAILY](https://open.spotify.com/track/3dO540N74bBzkNctFZK76s) | [Cortes](https://open.spotify.com/artist/4wVpcoHUxd0kMJaV2KbMs5), [Cass](https://open.spotify.com/artist/289ZzHonEANcXbHiyHV0sn) | [DAILY](https://open.spotify.com/album/3SidUros5s6r6X4zhvr2sk) | 3:14 |
 | 55 | [Listen More](https://open.spotify.com/track/0dgUhMtrxfWOvBT7SoVrty) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Listen More](https://open.spotify.com/album/0uY6DrZnFwosKFvkLXSGQS) | 2:50 |
 | 56 | [Gone Are the Days \(Julie Odnoralov Remix\)](https://open.spotify.com/track/6LZOgPF2JvgpKyJkRrNyHM) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC), [Julie Odnoralov](https://open.spotify.com/artist/4VXnILFOlZGah8ztpsxhYZ) | [Gone Are the Days \(Julie Odnoralov Remix\)](https://open.spotify.com/album/2ZxQCfnNz3xhQ3SHKRzoa5) | 3:55 |
-| 57 | [Fun](https://open.spotify.com/track/1HVQO24aqjZWB19HkOztZg) | [Rend Co\. Kids](https://open.spotify.com/artist/5S1TlcaYEYdwtVb5ud3lPK), [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Fun](https://open.spotify.com/album/5tgWl3CLKfqlG6SQeD9VOf) | 3:33 |
-| 58 | [Weakness](https://open.spotify.com/track/57vFOd9KlCTWpXBgP3jT4M) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Wherever I Go](https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6) | 2:38 |
+| 57 | [Weakness](https://open.spotify.com/track/57vFOd9KlCTWpXBgP3jT4M) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Wherever I Go](https://open.spotify.com/album/6b7kXdycXZktv3IppejFI6) | 2:38 |
+| 58 | [Fun](https://open.spotify.com/track/1HVQO24aqjZWB19HkOztZg) | [Rend Co\. Kids](https://open.spotify.com/artist/5S1TlcaYEYdwtVb5ud3lPK), [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Fun](https://open.spotify.com/album/5tgWl3CLKfqlG6SQeD9VOf) | 3:33 |
 | 59 | [Only Have One](https://open.spotify.com/track/4ar0FB87jliCm8gfaiTwds) | [The McClures](https://open.spotify.com/artist/5lI2VDVbI989t1YHEFhGyI), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya) | [Only Have One](https://open.spotify.com/album/4HvBGoJ0lA4O79qr7zLwQr) | 3:06 |
 | 60 | [Dancing On Top of the World](https://open.spotify.com/track/14Qg6RExIEgeTasOOXeclf) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [Fear No More](https://open.spotify.com/album/4LWmVkuA2s7n3q3UiIlsFf) | 2:53 |
 | 61 | [rain don't go away](https://open.spotify.com/track/0EMWcOUSdDOhJuptb0E04i) | [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [rain don't go away](https://open.spotify.com/album/6WUViwkXBGRcCQfZmTBsyX) | 3:57 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 64 | [You Are Good](https://open.spotify.com/track/4n5opjW4KMNUr3NhOgCgwp) | [Shanny Jeann](https://open.spotify.com/artist/3QFEQDqiDb6FQhA5XA4fnI) | [You Are Good](https://open.spotify.com/album/1j9s8mN2uXbo9RGYLFrmT8) | 2:53 |
 | 65 | [Battle](https://open.spotify.com/track/6IXJtvISqPxhe3wmm9iCWN) | [Miqueas Lopez](https://open.spotify.com/artist/3CtCrWU7itUfsXGE9cPwMn) | [Battle](https://open.spotify.com/album/3iIZE417H5P3jUhpS87rFp) | 3:07 |
 
-Snapshot ID: `MCxkZTdiMzhjMGE5MmYxYWM2M2I5OGEwOGI3YmE2NmViOTMwODBlMzlm`
+Snapshot ID: `MCwzMTViZjU4ODY2YTJmNmE5OTQ4MjdmMzE0Mzk2NGFmMWI2NWQyNzc2`

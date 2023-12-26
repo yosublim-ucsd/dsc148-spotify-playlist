@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 
 > pra entrar e ficar na onda
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,990 likes - 54 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,018 likes - 54 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 53 | [PUFFER](https://open.spotify.com/track/7KhdkN22ZBdIPcjqad9jnz) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [Trap The Fato Deluxe](https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t) | 2:36 |
 | 54 | [Não Vou Dançar Sozinho](https://open.spotify.com/track/4XMnWCE1u1qYFcnmNf1xFS) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi), [Carlos do Complexo](https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2) | [Não Vou Dançar Sozinho](https://open.spotify.com/album/0zL7xX3yuzJde6dkkhgoXV) | 2:04 |
 
-Snapshot ID: `MCwzNTVjZWMyMmUxODJkMzU2Y2M3YTgzMmU4NTIxMTk1MWE1MGMzYjBi`
+Snapshot ID: `MCwzNzc3ZmI2ZWU2MWM0OWQyZjZlNTgzYmY5ZjQ0ZTQ0MWFmYzVjYTUz`

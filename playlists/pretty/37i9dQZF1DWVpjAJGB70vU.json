@@ -1,12 +1,12 @@
 {
   "description": "Country that made Country Cool! Cover: Martina McBride",
-  "num_followers": 1735034,
+  "num_followers": 1735321,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWY2Yzg3ZTU4ZWM2MzNkYWY1ODAwMzVmMmQ5Y2FkNjY0MjdjYmNj",
+  "snapshot_id": "MCw5YzQ5OGIzNjQyNWI4NDNlNWE4YzAwZmY2M2I4NzQ2MTUxNmExOGY3",
   "tracks": [
     {
       "added_at": "2023-12-11 20:32:32",
@@ -123,18 +123,18 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "The Woman In Me",
-        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
+        "name": "Toby Keith",
+        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 246760,
-      "name": "Any Man Of Mine",
-      "url": "https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm"
+      "duration_ms": 211306,
+      "name": "Should've Been A Cowboy",
+      "url": "https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -187,6 +187,22 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
+        "name": "The Woman In Me",
+        "url": "https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 246760,
+      "name": "Any Man Of Mine",
+      "url": "https://open.spotify.com/track/0pdfN7nOHMYmKykzu1cyfm"
+    },
+    {
+      "added_at": "2023-12-11 20:32:32",
+      "album": {
         "name": "Out With A Bang",
         "url": "https://open.spotify.com/album/1hB7vz3JKWZ2sKEPeVolH9"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 224666,
       "name": "Dust On The Bottle",
       "url": "https://open.spotify.com/track/0Xg68XXMRWzKQvD5S6BFvI"
-    },
-    {
-      "added_at": "2023-12-11 20:32:32",
-      "album": {
-        "name": "Toby Keith",
-        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 211306,
-      "name": "Should've Been A Cowboy",
-      "url": "https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -571,18 +571,18 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "No Ordinary Man",
-        "url": "https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu"
+        "name": "Everywhere",
+        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
       },
       "artists": [
         {
-          "name": "Tracy Byrd",
-          "url": "https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 181973,
-      "name": "Watermelon Crawl",
-      "url": "https://open.spotify.com/track/3Q9t1A12iUemHTAWnH7PjD"
+      "duration_ms": 201600,
+      "name": "Where The Green Grass Grows",
+      "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "Everywhere",
-        "url": "https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9"
+        "name": "No Ordinary Man",
+        "url": "https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "Tracy Byrd",
+          "url": "https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Where The Green Grass Grows",
-      "url": "https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw"
+      "duration_ms": 181973,
+      "name": "Watermelon Crawl",
+      "url": "https://open.spotify.com/track/3Q9t1A12iUemHTAWnH7PjD"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
+        "name": "Not A Moment Too Soon",
+        "url": "https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 182120,
+      "name": "Indian Outlaw",
+      "url": "https://open.spotify.com/track/1fYypIR0kaFzaSRbzvtjl9"
+    },
+    {
+      "added_at": "2023-12-11 20:32:32",
+      "album": {
         "name": "It's All About to Change",
         "url": "https://open.spotify.com/album/3RBu5X7JheOzf1qtDVPkoW"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 179600,
       "name": "Every Light In The House",
       "url": "https://open.spotify.com/track/2A7j0RLnzvvlUFrevBiOQf"
-    },
-    {
-      "added_at": "2023-12-11 20:32:32",
-      "album": {
-        "name": "If I Could Make a Living",
-        "url": "https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF"
-      },
-      "artists": [
-        {
-          "name": "Clay Walker",
-          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
-        }
-      ],
-      "duration_ms": 133853,
-      "name": "If I Could Make a Living",
-      "url": "https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "Not A Moment Too Soon",
-        "url": "https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc"
+        "name": "If I Could Make a Living",
+        "url": "https://open.spotify.com/album/3uO1R11G7IV6Y0FIKqWyTF"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+          "name": "Clay Walker",
+          "url": "https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par"
         }
       ],
-      "duration_ms": 182120,
-      "name": "Indian Outlaw",
-      "url": "https://open.spotify.com/track/1fYypIR0kaFzaSRbzvtjl9"
+      "duration_ms": 133853,
+      "name": "If I Could Make a Living",
+      "url": "https://open.spotify.com/track/7njoWVpJbAiTkyT6rKwbze"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -1187,38 +1187,6 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "T-R-O-U-B-L-E",
-        "url": "https://open.spotify.com/album/1D6c3hHvx5NIfbhuX5VL0D"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 180160,
-      "name": "T-R-O-U-B-L-E",
-      "url": "https://open.spotify.com/track/5YY64mW5PL5waJKUsIJIQt"
-    },
-    {
-      "added_at": "2023-12-11 20:32:32",
-      "album": {
-        "name": "On the Other Hand - All the Number Ones",
-        "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
-      },
-      "artists": [
-        {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
-        }
-      ],
-      "duration_ms": 186746,
-      "name": "If I Didn't Have You",
-      "url": "https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj"
-    },
-    {
-      "added_at": "2023-12-11 20:32:32",
-      "album": {
         "name": "I Will Stand",
         "url": "https://open.spotify.com/album/5ciyHwetCfRiFA4BS7SMKO"
       },
@@ -1231,6 +1199,22 @@
       "duration_ms": 205093,
       "name": "She's Got It All",
       "url": "https://open.spotify.com/track/4l8u5h7OjkZo2UmyUoeKYJ"
+    },
+    {
+      "added_at": "2023-12-11 20:32:32",
+      "album": {
+        "name": "T-R-O-U-B-L-E",
+        "url": "https://open.spotify.com/album/1D6c3hHvx5NIfbhuX5VL0D"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 180160,
+      "name": "T-R-O-U-B-L-E",
+      "url": "https://open.spotify.com/track/5YY64mW5PL5waJKUsIJIQt"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
+        "name": "I'm From The Country",
+        "url": "https://open.spotify.com/album/1dWB676MYae7xa9lLTe7lS"
+      },
+      "artists": [
+        {
+          "name": "Tracy Byrd",
+          "url": "https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT"
+        }
+      ],
+      "duration_ms": 213973,
+      "name": "I'm From The Country - Single Version",
+      "url": "https://open.spotify.com/track/5Lwc3DTWzX6JaW2x2PZezt"
+    },
+    {
+      "added_at": "2023-12-11 20:32:32",
+      "album": {
         "name": "Just The Same",
         "url": "https://open.spotify.com/album/2zUyHKwlBjczKdmYTykB8a"
       },
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "I'm From The Country",
-        "url": "https://open.spotify.com/album/1dWB676MYae7xa9lLTe7lS"
+        "name": "On the Other Hand - All the Number Ones",
+        "url": "https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3"
       },
       "artists": [
         {
-          "name": "Tracy Byrd",
-          "url": "https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT"
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
         }
       ],
-      "duration_ms": 213973,
-      "name": "I'm From The Country - Single Version",
-      "url": "https://open.spotify.com/track/5Lwc3DTWzX6JaW2x2PZezt"
+      "duration_ms": 186746,
+      "name": "If I Didn't Have You",
+      "url": "https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/18KH8hukVFk2r1GZbrbp39"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 260493,
+      "name": "Gone Country",
+      "url": "https://open.spotify.com/track/6IEIPevuDocD80PovsX6kN"
+    },
+    {
+      "added_at": "2023-12-11 20:32:32",
+      "album": {
         "name": "Wide Open Spaces",
         "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 170546,
       "name": "A Little Less Talk And A Lot More Action",
       "url": "https://open.spotify.com/track/267pym8JqsQQdIs7dadMJR"
-    },
-    {
-      "added_at": "2023-12-11 20:32:32",
-      "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/18KH8hukVFk2r1GZbrbp39"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "Gone Country",
-      "url": "https://open.spotify.com/track/6IEIPevuDocD80PovsX6kN"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "Six Days On The Road",
-        "url": "https://open.spotify.com/album/6d2GhPWhRwb1KcfHFR0wXX"
+        "name": "No Ordinary Man",
+        "url": "https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu"
       },
       "artists": [
         {
-          "name": "Sawyer Brown",
-          "url": "https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97"
+          "name": "Tracy Byrd",
+          "url": "https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT"
         }
       ],
-      "duration_ms": 173426,
-      "name": "Six Days On The Road",
-      "url": "https://open.spotify.com/track/4OCFCX4RSZl8esUMtt3muO"
+      "duration_ms": 247626,
+      "name": "The Keeper Of The Stars",
+      "url": "https://open.spotify.com/track/5WEK4szbQp9c7ZK6LkYd9k"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -1539,34 +1539,34 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "No Ordinary Man",
-        "url": "https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu"
+        "name": "Six Days On The Road",
+        "url": "https://open.spotify.com/album/6d2GhPWhRwb1KcfHFR0wXX"
       },
       "artists": [
         {
-          "name": "Tracy Byrd",
-          "url": "https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT"
+          "name": "Sawyer Brown",
+          "url": "https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97"
         }
       ],
-      "duration_ms": 247626,
-      "name": "The Keeper Of The Stars",
-      "url": "https://open.spotify.com/track/5WEK4szbQp9c7ZK6LkYd9k"
+      "duration_ms": 173426,
+      "name": "Six Days On The Road",
+      "url": "https://open.spotify.com/track/4OCFCX4RSZl8esUMtt3muO"
     },
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "Toby Keith",
-        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
+        "name": "No Doubt About It",
+        "url": "https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON"
       },
       "artists": [
         {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+          "name": "Neal McCoy",
+          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
         }
       ],
-      "duration_ms": 206840,
-      "name": "Wish I Didn't Know Now",
-      "url": "https://open.spotify.com/track/40nvOEkPCUDsoQdruyndb2"
+      "duration_ms": 162466,
+      "name": "Wink",
+      "url": "https://open.spotify.com/track/3VffiMehjhfqo7XZ5zGpCP"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
+        "name": "Toby Keith",
+        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 206840,
+      "name": "Wish I Didn't Know Now",
+      "url": "https://open.spotify.com/track/40nvOEkPCUDsoQdruyndb2"
+    },
+    {
+      "added_at": "2023-12-11 20:32:32",
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 169546,
       "name": "Blue",
       "url": "https://open.spotify.com/track/1g5EcKDECPxeI7kgkvcbxm"
-    },
-    {
-      "added_at": "2023-12-11 20:32:32",
-      "album": {
-        "name": "No Doubt About It",
-        "url": "https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON"
-      },
-      "artists": [
-        {
-          "name": "Neal McCoy",
-          "url": "https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY"
-        }
-      ],
-      "duration_ms": 162466,
-      "name": "Wink",
-      "url": "https://open.spotify.com/track/3VffiMehjhfqo7XZ5zGpCP"
     },
     {
       "added_at": "2023-12-11 20:32:32",
@@ -2087,6 +2087,22 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
+        "name": "Dreamin' Out Loud",
+        "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
+      },
+      "artists": [
+        {
+          "name": "Trace Adkins",
+          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
+        }
+      ],
+      "duration_ms": 188240,
+      "name": "I Left Something Turned On At Home",
+      "url": "https://open.spotify.com/track/1CxG3QsfkmcUYlxWwvOtz5"
+    },
+    {
+      "added_at": "2023-12-11 20:32:32",
+      "album": {
         "name": "Love Can Build A Bridge",
         "url": "https://open.spotify.com/album/53q0MIHCc3NeBt075qOsZO"
       },
@@ -2119,38 +2135,6 @@
     {
       "added_at": "2023-12-11 20:32:32",
       "album": {
-        "name": "Extremes",
-        "url": "https://open.spotify.com/album/49YkFIWw93Fow8H394Ilfo"
-      },
-      "artists": [
-        {
-          "name": "Collin Raye",
-          "url": "https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI"
-        }
-      ],
-      "duration_ms": 182960,
-      "name": "That's My Story",
-      "url": "https://open.spotify.com/track/2dKRyO4cUumqbIXxLkdkoq"
-    },
-    {
-      "added_at": "2023-12-11 20:32:32",
-      "album": {
-        "name": "Dreamin' Out Loud",
-        "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
-      },
-      "artists": [
-        {
-          "name": "Trace Adkins",
-          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "I Left Something Turned On At Home",
-      "url": "https://open.spotify.com/track/1CxG3QsfkmcUYlxWwvOtz5"
-    },
-    {
-      "added_at": "2023-12-11 20:32:32",
-      "album": {
         "name": "Ten Thousand Angels",
         "url": "https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F"
       },
@@ -2163,6 +2147,22 @@
       "duration_ms": 191800,
       "name": "Guys Do It All the Time",
       "url": "https://open.spotify.com/track/0uZRJmWi1TH3wrAN7hAbyF"
+    },
+    {
+      "added_at": "2023-12-11 20:32:32",
+      "album": {
+        "name": "Extremes",
+        "url": "https://open.spotify.com/album/49YkFIWw93Fow8H394Ilfo"
+      },
+      "artists": [
+        {
+          "name": "Collin Raye",
+          "url": "https://open.spotify.com/artist/4AwLiAGc1rRLrCepj5rdTI"
+        }
+      ],
+      "duration_ms": 182960,
+      "name": "That's My Story",
+      "url": "https://open.spotify.com/track/2dKRyO4cUumqbIXxLkdkoq"
     },
     {
       "added_at": "2023-12-11 20:32:32",

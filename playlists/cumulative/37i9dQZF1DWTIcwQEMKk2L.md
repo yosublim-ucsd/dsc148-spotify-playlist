@@ -4,7 +4,7 @@
 
 > 愜意放鬆，使自己沉浸在這些動人而優美的鋼琴曲之中。
 
-109 songs - 4 hr 54 min
+110 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [I've Grown Accustomed to Her Face](https://open.spotify.com/track/4oIs2yMe7K0U49LbHWLvOq) | [Graydon Poole](https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37) | [I've Grown Accustomed to Her Face](https://open.spotify.com/album/615KqDDPOkcihBWbHqK3MJ) | 2:39 | 2023-11-20 |  |
 | [If You Must Go](https://open.spotify.com/track/6u3YEpTK7Hc4mc2TIXCZeB) | [Larry McDavid](https://open.spotify.com/artist/7hAPV8dP6bbuFTeoINNcqz) | [If You Must Go](https://open.spotify.com/album/3jEulBsDS8z6IMdS3GzSmd) | 2:07 | 2023-11-20 |  |
 | [Improvisation 7](https://open.spotify.com/track/0MCv1ES2lNZfmHYvIz6q1f) | [Martin Stadtfeld](https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9) | [Chopin +](https://open.spotify.com/album/5Kh9ZZuFyKZ5gC4vRwyyLg) | 1:13 | 2023-11-20 |  |
+| [In Love In Vain](https://open.spotify.com/track/6eV6cumFU53rxA88CnnvZa) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [In Love In Vain](https://open.spotify.com/album/0nlZbsqWq2DaRyxKjJ3SsT) | 2:54 | 2023-12-25 |  |
 | [Interconnectivity](https://open.spotify.com/track/5qqot0gGVe5oEN9fw4QU1S) | [Sigríður](https://open.spotify.com/artist/2L3YlhhQBndlD8eQJaF6dT) | [Interconnectivity](https://open.spotify.com/album/2H9GYEUqMHM950rBnSgZkY) | 1:43 | 2023-11-20 |  |
 | [Isla De Flores](https://open.spotify.com/track/7tDHMhO0bJpbkXzMyMIE0b) | [Berlioz](https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar) | [Isla De Flores](https://open.spotify.com/album/33MX50LkO4D6xU0qWjhVbh) | 2:39 | 2023-11-20 |  |
 | [Juniper Leaves](https://open.spotify.com/track/5prNNKn1SNLrJsL5Ic4vew) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [A Future With You](https://open.spotify.com/album/3NWgJbG6uuLJ95veEskx06) | 4:13 | 2023-11-20 |  |
@@ -67,7 +68,7 @@
 | [Looking Forward, Looking Backward](https://open.spotify.com/track/3W67I10IdSjH3ViNhYzzZu) | [Robin Bennich](https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM) | [Looking Forward, Looking Backward](https://open.spotify.com/album/06NR2OTQUhdiltkVeGI50x) | 2:57 | 2023-11-20 | 2023-11-29 |
 | [L’herbe verte](https://open.spotify.com/track/1Pjy5zOeaXPieqUfiSdGEb) | [Marceau Sartre](https://open.spotify.com/artist/3WUn0TYXefhcLNOs4BMW6l) | [L’herbe verte](https://open.spotify.com/album/5rPSm5zRMNh2iDrcWY0QAI) | 2:21 | 2023-11-20 |  |
 | [Magari](https://open.spotify.com/track/3cbYtmntj3mAHLoM1CEfzZ) | [Riccardo Lettiere](https://open.spotify.com/artist/5umUIBjnV8j12Qu5Zeni2x) | [Magari](https://open.spotify.com/album/7jIDxPIv8IFMdVIsiZ2Sg5) | 1:48 | 2023-12-04 | 2023-12-16 |
-| [Magnificent](https://open.spotify.com/track/1gjZYQff9vXXru1KI6XJHd) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Magnificent](https://open.spotify.com/album/3sBAbDkxVcDKACCpFUcgCn) | 2:34 | 2023-11-20 |  |
+| [Magnificent](https://open.spotify.com/track/1gjZYQff9vXXru1KI6XJHd) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Magnificent](https://open.spotify.com/album/3sBAbDkxVcDKACCpFUcgCn) | 2:34 | 2023-11-20 | 2023-12-26 |
 | [Magnolia](https://open.spotify.com/track/3qKSYY6Sds4jltPME6UFMm) | [Snow in April](https://open.spotify.com/artist/2TSiP8ixCub5bSJnkiwcYv) | [Magnolia](https://open.spotify.com/album/7bnt53QjdwPCOI5h84nY2F) | 2:28 | 2023-11-20 |  |
 | [Mass](https://open.spotify.com/track/0EyMOXlxP0iH4I9SOAjKtS) | [Zwera](https://open.spotify.com/artist/3jYcRq1Sqb24bcf0FDGdWn) | [Mass](https://open.spotify.com/album/2LTY4ASorTFysOfV8Nk1c2) | 2:10 | 2023-11-20 |  |
 | [Mind Wide Open](https://open.spotify.com/track/3qofUkK1Yak7mp81Lojn3L) | [Dan Volker](https://open.spotify.com/artist/6dKolJLPeFV2ruWSwZBuYk) | [Mind Wide Open](https://open.spotify.com/album/1LVpYB2Jtto4OMvjzQqBrn) | 2:38 | 2023-11-20 | 2023-12-05 |

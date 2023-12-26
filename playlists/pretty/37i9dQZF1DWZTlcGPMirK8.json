@@ -1,12 +1,12 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 67238,
+  "num_followers": 67256,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0N2E2ZDYxZmI1ZTExM2E5OTc3NDVjMmIxNjIwMTYzNDg1NTRjYTgz",
+  "snapshot_id": "MCw1MWZiZjQwZmY4YmMzYzI3ODhiYWQwNDI3MDJiOWMwYWY2NTkxMTAy",
   "tracks": [
     {
       "added_at": "2022-04-18 02:03:22",
@@ -159,38 +159,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "1000 Forms Of Fear (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 216120,
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/2s1sdSqGcKxpPr5lCl7jAV"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
-        "name": "Walking On A Dream (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
-      },
-      "artists": [
-        {
-          "name": "Empire of the Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 267373,
-      "name": "We Are The People",
-      "url": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Nation of Two",
         "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
       },
@@ -203,6 +171,22 @@
       "duration_ms": 214720,
       "name": "Saturday Sun",
       "url": "https://open.spotify.com/track/2RiBogNRfulkNf7fVbPOrJ"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "1000 Forms Of Fear (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 216120,
+      "name": "Chandelier",
+      "url": "https://open.spotify.com/track/2s1sdSqGcKxpPr5lCl7jAV"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -223,6 +207,22 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
+        "name": "Walking On A Dream (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
+      },
+      "artists": [
+        {
+          "name": "Empire of the Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 267373,
+      "name": "We Are The People",
+      "url": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
         "name": "Affirmation",
         "url": "https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC"
       },
@@ -235,6 +235,22 @@
       "duration_ms": 250360,
       "name": "I Knew I Loved You",
       "url": "https://open.spotify.com/track/6nozDLxeL0TE4MS9GqYU1v"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Business As Usual",
+        "url": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
+      },
+      "artists": [
+        {
+          "name": "Men At Work",
+          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+        }
+      ],
+      "duration_ms": 201293,
+      "name": "Who Can It Be Now?",
+      "url": "https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -267,22 +283,6 @@
       "duration_ms": 210580,
       "name": "Please Don't Go",
       "url": "https://open.spotify.com/track/3cNjgVBKTJ1SvKhunrCdVy"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
-        "name": "Business As Usual",
-        "url": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
-      },
-      "artists": [
-        {
-          "name": "Men At Work",
-          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
-        }
-      ],
-      "duration_ms": 201293,
-      "name": "Who Can It Be Now?",
-      "url": "https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -323,22 +323,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "Mess Is Mine",
-      "url": "https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Food & Liquor II: The Great American Rap Album, Pt. 1",
         "url": "https://open.spotify.com/album/5rCCCernTo6IwFwEZM4H53"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 250320,
       "name": "Battle Scars (with Guy Sebastian)",
       "url": "https://open.spotify.com/track/1hWYT0w2R0J19rlVkiez7X"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "Mess Is Mine",
+      "url": "https://open.spotify.com/track/29jtZGdgpE2lWm2mkIt6HS"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 249382,
-      "name": "Fire and the Flood",
-      "url": "https://open.spotify.com/track/6liNJDyWJjyHAgDnAX95bw"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Whispering Jack",
         "url": "https://open.spotify.com/album/4cBfyeNYbJAmOq0sl3Hijd"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 217720,
       "name": "Cosby Sweater",
       "url": "https://open.spotify.com/track/6myDPrp86x4Lhyp5aqU0EV"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 249382,
+      "name": "Fire and the Flood",
+      "url": "https://open.spotify.com/track/6liNJDyWJjyHAgDnAX95bw"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -599,22 +599,18 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5"
+        "name": "Blue Neighbourhood (Deluxe)",
+        "url": "https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW"
       },
       "artists": [
         {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        },
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         }
       ],
-      "duration_ms": 262521,
-      "name": "Say It (feat. Tove Lo)",
-      "url": "https://open.spotify.com/track/5aOpzm8W8zysk4asB9hxJw"
+      "duration_ms": 185194,
+      "name": "YOUTH",
+      "url": "https://open.spotify.com/track/1cOyWWUr3oXJIxY0AjJEx9"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -643,6 +639,26 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 262521,
+      "name": "Say It (feat. Tove Lo)",
+      "url": "https://open.spotify.com/track/5aOpzm8W8zysk4asB9hxJw"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
         "name": "Call On Me (Remixes)",
         "url": "https://open.spotify.com/album/5G7go9EeotMk9RfLETBDgJ"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 222040,
       "name": "Call on Me - Ryan Riback Remix",
       "url": "https://open.spotify.com/track/2L6orAlH8tBhiFTumIfMyF"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
-        "name": "Blue Neighbourhood (Deluxe)",
-        "url": "https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 185194,
-      "name": "YOUTH",
-      "url": "https://open.spotify.com/track/1cOyWWUr3oXJIxY0AjJEx9"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Affirmation",
-        "url": "https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC"
-      },
-      "artists": [
-        {
-          "name": "Savage Garden",
-          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
-        }
-      ],
-      "duration_ms": 295800,
-      "name": "Affirmation",
-      "url": "https://open.spotify.com/track/6lWY4ji9T0tpFU2xbnRC1p"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Changa",
         "url": "https://open.spotify.com/album/7DrBomoczF4cn1kjyioHJe"
       },
@@ -863,22 +847,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Love Monster",
-        "url": "https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P"
-      },
-      "artists": [
-        {
-          "name": "Amy Shark",
-          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
-        }
-      ],
-      "duration_ms": 170413,
-      "name": "I Said Hi",
-      "url": "https://open.spotify.com/track/4gvPqK7RifS2F45o9Obo5B"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Better in Blak",
         "url": "https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34"
       },
@@ -895,54 +863,6 @@
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Age Of Reason",
-        "url": "https://open.spotify.com/album/4JHZh7UHLQxcdH0qQB757v"
-      },
-      "artists": [
-        {
-          "name": "John Farnham",
-          "url": "https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Two Strong Hearts",
-      "url": "https://open.spotify.com/track/3LQde40NABYOH14hWse0Yi"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
-        "name": "Aphrodite",
-        "url": "https://open.spotify.com/album/3V5sFyVl69QrnHkZ8tcWnI"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 199426,
-      "name": "All the Lovers",
-      "url": "https://open.spotify.com/track/18JKvOJ3cXbGUePQWT3bLW"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
-        "name": "Bodyrockers",
-        "url": "https://open.spotify.com/album/4trfDRFU3Fd2P0jnuCKFaY"
-      },
-      "artists": [
-        {
-          "name": "Bodyrockers",
-          "url": "https://open.spotify.com/artist/5GJmQjUNRyNQ2VZ4HOIx1C"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "I Like The Way - Radio Edit",
-      "url": "https://open.spotify.com/track/0reKGVcWLVvl1FzjZ6TACy"
-    },
-    {
-      "added_at": "2022-04-18 02:03:22",
-      "album": {
         "name": "Affirmation",
         "url": "https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC"
       },
@@ -952,25 +872,25 @@
           "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
         }
       ],
-      "duration_ms": 281466,
-      "name": "Crash and Burn",
-      "url": "https://open.spotify.com/track/60g4sp8i3gXSb1EkphMl1g"
+      "duration_ms": 295800,
+      "name": "Affirmation",
+      "url": "https://open.spotify.com/track/6lWY4ji9T0tpFU2xbnRC1p"
     },
     {
       "added_at": "2022-04-18 02:03:22",
       "album": {
-        "name": "Reprisal",
-        "url": "https://open.spotify.com/album/1BJ0H6MrMADSdqHm3aadbM"
+        "name": "Love Monster",
+        "url": "https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P"
       },
       "artists": [
         {
-          "name": "Peking Duk",
-          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
         }
       ],
-      "duration_ms": 226350,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/3BZkEOJwKUYRlkLWZB1izC"
+      "duration_ms": 170413,
+      "name": "I Said Hi",
+      "url": "https://open.spotify.com/track/4gvPqK7RifS2F45o9Obo5B"
     },
     {
       "added_at": "2022-04-18 02:03:22",
@@ -991,6 +911,86 @@
       "duration_ms": 198020,
       "name": "Chameleon",
       "url": "https://open.spotify.com/track/1upULGQhXYE55yHDMPh1QG"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Aphrodite",
+        "url": "https://open.spotify.com/album/3V5sFyVl69QrnHkZ8tcWnI"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 199426,
+      "name": "All the Lovers",
+      "url": "https://open.spotify.com/track/18JKvOJ3cXbGUePQWT3bLW"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Age Of Reason",
+        "url": "https://open.spotify.com/album/4JHZh7UHLQxcdH0qQB757v"
+      },
+      "artists": [
+        {
+          "name": "John Farnham",
+          "url": "https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Two Strong Hearts",
+      "url": "https://open.spotify.com/track/3LQde40NABYOH14hWse0Yi"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Affirmation",
+        "url": "https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC"
+      },
+      "artists": [
+        {
+          "name": "Savage Garden",
+          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
+        }
+      ],
+      "duration_ms": 281466,
+      "name": "Crash and Burn",
+      "url": "https://open.spotify.com/track/60g4sp8i3gXSb1EkphMl1g"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Bodyrockers",
+        "url": "https://open.spotify.com/album/4trfDRFU3Fd2P0jnuCKFaY"
+      },
+      "artists": [
+        {
+          "name": "Bodyrockers",
+          "url": "https://open.spotify.com/artist/5GJmQjUNRyNQ2VZ4HOIx1C"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "I Like The Way - Radio Edit",
+      "url": "https://open.spotify.com/track/0reKGVcWLVvl1FzjZ6TACy"
+    },
+    {
+      "added_at": "2022-04-18 02:03:22",
+      "album": {
+        "name": "Reprisal",
+        "url": "https://open.spotify.com/album/1BJ0H6MrMADSdqHm3aadbM"
+      },
+      "artists": [
+        {
+          "name": "Peking Duk",
+          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+        }
+      ],
+      "duration_ms": 226350,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/3BZkEOJwKUYRlkLWZB1izC"
     },
     {
       "added_at": "2022-04-18 02:03:22",

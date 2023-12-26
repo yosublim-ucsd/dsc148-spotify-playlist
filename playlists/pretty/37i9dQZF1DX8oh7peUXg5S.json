@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Serrat.",
-  "num_followers": 319554,
+  "num_followers": 319623,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzU1ZTk5ZjA1ZWM2ODdiNmFhMmE3OTE2YmY5ZWQ0MzA4ZGY3ZDdm",
+  "snapshot_id": "MCxjYTFjM2IwMWUxYTIxYTIzZjYxOTRmZjc4MzkwNTk5MWM4MzdjNTc5",
   "tracks": [
     {
       "added_at": "2023-12-14 23:00:00",
@@ -343,6 +343,22 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
+        "name": "Fisica Y Quimica",
+        "url": "https://open.spotify.com/album/6MeLjaERUK6fJ58YZpPlyC"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "duration_ms": 302933,
+      "name": "Y Nos Dieron las Diez",
+      "url": "https://open.spotify.com/track/1eCie6lwjb4crxeAvkRaSi"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
         "name": "Arena En Los Bolsillos",
         "url": "https://open.spotify.com/album/0bFrRKmqzgPqL1ej485WLf"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 246240,
       "name": "Pajaros de Barro",
       "url": "https://open.spotify.com/track/4B6ko7lt1sUtyFzBDF4yfK"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Al Final de Este Viaje...",
-        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 144632,
-      "name": "\u00d3leo de Mujer Con Sombrero",
-      "url": "https://open.spotify.com/track/1w6mcMacExya7bvbElMuar"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Fisica Y Quimica",
-        "url": "https://open.spotify.com/album/6MeLjaERUK6fJ58YZpPlyC"
+        "name": "Al Final de Este Viaje...",
+        "url": "https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd"
       },
       "artists": [
         {
-          "name": "Joaqu\u00edn Sabina",
-          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
         }
       ],
-      "duration_ms": 302933,
-      "name": "Y Nos Dieron las Diez",
-      "url": "https://open.spotify.com/track/1eCie6lwjb4crxeAvkRaSi"
+      "duration_ms": 144632,
+      "name": "\u00d3leo de Mujer Con Sombrero",
+      "url": "https://open.spotify.com/track/1w6mcMacExya7bvbElMuar"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
+        "name": "Esta Boca Es Mia",
+        "url": "https://open.spotify.com/album/5PRLhyzly43RBl6ZAeydzk"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "duration_ms": 238573,
+      "name": "Por el Bulevar de los Sue\u00f1os Rotos",
+      "url": "https://open.spotify.com/track/7KcFlbQmzhVczGMor3Fhr9"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
         "name": "Alta Suciedad",
         "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
       },
@@ -547,22 +563,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Esta Boca Es Mia",
-        "url": "https://open.spotify.com/album/5PRLhyzly43RBl6ZAeydzk"
-      },
-      "artists": [
-        {
-          "name": "Joaqu\u00edn Sabina",
-          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
-        }
-      ],
-      "duration_ms": 238573,
-      "name": "Por el Bulevar de los Sue\u00f1os Rotos",
-      "url": "https://open.spotify.com/track/7KcFlbQmzhVczGMor3Fhr9"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "Mediterr\u00e1neo",
         "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
       },
@@ -575,6 +575,22 @@
       "duration_ms": 110266,
       "name": "Aquellas Peque\u00f1as Cosas",
       "url": "https://open.spotify.com/track/0AYP9qfJJumsxSOZF3MndI"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Yo, Mi, Me, Contigo",
+        "url": "https://open.spotify.com/album/0C4Nm6vpiyldyOKNAESuSI"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "duration_ms": 279266,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/5yIVcrwQXdIlDgTMc8pa6z"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -595,22 +611,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "\u00bfSer\u00e1 Posible El Sur?",
-        "url": "https://open.spotify.com/album/3qbjXmDq5KNBU5BbycE3cj"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        }
-      ],
-      "duration_ms": 284680,
-      "name": "Todo Cambia",
-      "url": "https://open.spotify.com/track/0njOsb3y8TnwIJC7GnlWwD"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "Silvio",
         "url": "https://open.spotify.com/album/27B1VxY1FN5zUfp7hPR2Dc"
       },
@@ -623,6 +623,22 @@
       "duration_ms": 336400,
       "name": "Qui\u00e9n Fuera",
       "url": "https://open.spotify.com/track/5mLuPM0CpoXyrBncooRJZa"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "\u00bfSer\u00e1 Posible El Sur?",
+        "url": "https://open.spotify.com/album/3qbjXmDq5KNBU5BbycE3cj"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "duration_ms": 284680,
+      "name": "Todo Cambia",
+      "url": "https://open.spotify.com/track/0njOsb3y8TnwIJC7GnlWwD"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -643,6 +659,22 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
+        "name": "Cuando el R\u00edo Suena...",
+        "url": "https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL"
+      },
+      "artists": [
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        }
+      ],
+      "duration_ms": 202600,
+      "name": "La Puerta Violeta",
+      "url": "https://open.spotify.com/track/42ZASSKlh3UtYCgwZb8lBS"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
         "name": "El cantante",
         "url": "https://open.spotify.com/album/6JijxAUaS8ng8YfFxQYoWr"
       },
@@ -659,18 +691,34 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Cuando el R\u00edo Suena...",
-        "url": "https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL"
+        "name": "Esc\u00fachame",
+        "url": "https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu"
       },
       "artists": [
         {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+          "name": "Mari Trini",
+          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
         }
       ],
-      "duration_ms": 202600,
-      "name": "La Puerta Violeta",
-      "url": "https://open.spotify.com/track/42ZASSKlh3UtYCgwZb8lBS"
+      "duration_ms": 152906,
+      "name": "Yo no soy esa",
+      "url": "https://open.spotify.com/track/4wJNcICQAv1ZNj8tkoMJab"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "De Pana y Rub\u00ed",
+        "url": "https://open.spotify.com/album/4Au1uBJOkLcsLf9WLWVif9"
+      },
+      "artists": [
+        {
+          "name": "El Kanka",
+          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
+        }
+      ],
+      "duration_ms": 249573,
+      "name": "Querr\u00eda",
+      "url": "https://open.spotify.com/track/5Yf4Dxfo4cQK2WJtMrblr7"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -719,38 +767,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "De Pana y Rub\u00ed",
-        "url": "https://open.spotify.com/album/4Au1uBJOkLcsLf9WLWVif9"
-      },
-      "artists": [
-        {
-          "name": "El Kanka",
-          "url": "https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL"
-        }
-      ],
-      "duration_ms": 249573,
-      "name": "Querr\u00eda",
-      "url": "https://open.spotify.com/track/5Yf4Dxfo4cQK2WJtMrblr7"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Yo, Mi, Me, Contigo",
-        "url": "https://open.spotify.com/album/0C4Nm6vpiyldyOKNAESuSI"
-      },
-      "artists": [
-        {
-          "name": "Joaqu\u00edn Sabina",
-          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/5yIVcrwQXdIlDgTMc8pa6z"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "30 a\u00f1os",
         "url": "https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 264197,
       "name": "Gracias A La Vida",
       "url": "https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Esc\u00fachame",
-        "url": "https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu"
-      },
-      "artists": [
-        {
-          "name": "Mari Trini",
-          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
-        }
-      ],
-      "duration_ms": 152906,
-      "name": "Yo no soy esa",
-      "url": "https://open.spotify.com/track/4wJNcICQAv1ZNj8tkoMJab"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Cuerpo a Cuerpo (Remasterizado)",
-        "url": "https://open.spotify.com/album/01jUeKcwiAdFp8iLa0HnI4"
-      },
-      "artists": [
-        {
-          "name": "Luis Eduardo Aute",
-          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Sin Tu Latido - Remasterizado",
-      "url": "https://open.spotify.com/track/7jlfZZgaO0xPRdPMP9jezb"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "Un Ramito De Violetas",
         "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 278040,
       "name": "Gracias a la Vida",
       "url": "https://open.spotify.com/track/5U7MyRNbuZrWkyAI4bm3Ja"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Cuerpo a Cuerpo (Remasterizado)",
+        "url": "https://open.spotify.com/album/01jUeKcwiAdFp8iLa0HnI4"
+      },
+      "artists": [
+        {
+          "name": "Luis Eduardo Aute",
+          "url": "https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Sin Tu Latido - Remasterizado",
+      "url": "https://open.spotify.com/track/7jlfZZgaO0xPRdPMP9jezb"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
+        "name": "Manifiesto",
+        "url": "https://open.spotify.com/album/10SO9wTdCvi8M9HMiJee3a"
+      },
+      "artists": [
+        {
+          "name": "Victor Jara",
+          "url": "https://open.spotify.com/artist/440MEFxEmF9othCXbz3Y6a"
+        }
+      ],
+      "duration_ms": 269133,
+      "name": "Manifiesto",
+      "url": "https://open.spotify.com/track/55ZrFdC27uqQC5WA8mdXSR"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/0HIuFgi8KJqL6Xp9a30tF9"
       },
@@ -1415,18 +1431,18 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Manifiesto",
-        "url": "https://open.spotify.com/album/10SO9wTdCvi8M9HMiJee3a"
+        "name": "Vestida De Nit",
+        "url": "https://open.spotify.com/album/2FjvTumNw0T9JjgXWdk8wu"
       },
       "artists": [
         {
-          "name": "Victor Jara",
-          "url": "https://open.spotify.com/artist/440MEFxEmF9othCXbz3Y6a"
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
         }
       ],
-      "duration_ms": 269133,
-      "name": "Manifiesto",
-      "url": "https://open.spotify.com/track/55ZrFdC27uqQC5WA8mdXSR"
+      "duration_ms": 158230,
+      "name": "Mechita",
+      "url": "https://open.spotify.com/track/5whakz21q29cP0BlGfR2A7"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1443,22 +1459,6 @@
       "duration_ms": 230136,
       "name": "Coyotes - Versi\u00f3n en Ac\u00fastico El Embarcadero",
       "url": "https://open.spotify.com/track/1avkjAAaGaUOSfDpiLvkFw"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Vestida De Nit",
-        "url": "https://open.spotify.com/album/2FjvTumNw0T9JjgXWdk8wu"
-      },
-      "artists": [
-        {
-          "name": "S\u00edlvia P\u00e9rez Cruz",
-          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
-        }
-      ],
-      "duration_ms": 158230,
-      "name": "Mechita",
-      "url": "https://open.spotify.com/track/5whakz21q29cP0BlGfR2A7"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
+        "name": "Un Ramito De Violetas",
+        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
+      },
+      "artists": [
+        {
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+        }
+      ],
+      "duration_ms": 159066,
+      "name": "Mi Querida Espa\u00f1a",
+      "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
         "name": "La Vida Plena",
         "url": "https://open.spotify.com/album/0ji205YLsJO7V4tJVl0lEk"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 264493,
       "name": "Soy un Coraz\u00f3n Tendido al Sol",
       "url": "https://open.spotify.com/track/3hsmqJJFkQfpRBlxMsaKf5"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Un Ramito De Violetas",
-        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
-      },
-      "artists": [
-        {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
-        }
-      ],
-      "duration_ms": 159066,
-      "name": "Mi Querida Espa\u00f1a",
-      "url": "https://open.spotify.com/track/4yRhJ1Hz8Flm364Y1WJj5w"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1719,18 +1719,74 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos",
-        "url": "https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl"
+        "name": "Tributo a Sabina. Ni Tan Joven Ni Tan Viejo",
+        "url": "https://open.spotify.com/album/0aiLwoe2jZ7TWjbspnBn8K"
       },
       "artists": [
         {
-          "name": "V\u00edctor Manuel",
-          "url": "https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8"
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+        },
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        },
+        {
+          "name": "Fito Cabrales",
+          "url": "https://open.spotify.com/artist/6fmDy3xzOGfOVjFwa0BUkT"
+        },
+        {
+          "name": "Coque Malla",
+          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
+        },
+        {
+          "name": "Funambulista",
+          "url": "https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U"
+        },
+        {
+          "name": "Ismael Serrano",
+          "url": "https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34"
+        },
+        {
+          "name": "Rub\u00e9n Pozo",
+          "url": "https://open.spotify.com/artist/65mqRAn8AEZjc4M2lZvtSz"
+        },
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        },
+        {
+          "name": "Macaco",
+          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+        },
+        {
+          "name": "Lichis",
+          "url": "https://open.spotify.com/artist/1Z6c0iLhCdsGm8mmm1OwLh"
+        },
+        {
+          "name": "Andr\u00e9s Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe"
+        },
+        {
+          "name": "Alejo Stivel",
+          "url": "https://open.spotify.com/artist/7mGfdRd3PB4mRMPymFQM7n"
+        },
+        {
+          "name": "Mara Barros",
+          "url": "https://open.spotify.com/artist/38YYADiV9iEYiZu22QuIJs"
+        },
+        {
+          "name": "Travis Birds",
+          "url": "https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB"
+        },
+        {
+          "name": "Zahara",
+          "url": "https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu"
         }
       ],
-      "duration_ms": 251666,
-      "name": "Solo Pienso en Ti",
-      "url": "https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW"
+      "duration_ms": 309913,
+      "name": "Y Nos Dieron Las Diez (feat. Travis Birds & Zahara) - Tributo a Sabina",
+      "url": "https://open.spotify.com/track/2p0ol5BlwQtbiioBGytxy4"
     }
   ],
   "unique_name": "Cantautores",

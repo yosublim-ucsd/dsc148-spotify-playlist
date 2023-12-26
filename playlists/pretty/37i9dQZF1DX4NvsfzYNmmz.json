@@ -1,12 +1,12 @@
 {
   "description": "Only the tastiest Christmas jams. Cover: Paul Simon",
-  "num_followers": 7723,
+  "num_followers": 8069,
   "original_name": "Christmas Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTdiNWMxN2FmOGZlOTgxZjljYjk5NDlmMjFkN2M1NWRkZWZiZjFm",
+  "snapshot_id": "MCwyNmJmOTllZmIzZjIzZDc2ZDFmN2FlNzFjNWU5MWM5ZGY1NjU1MTcz",
   "tracks": [
     {
       "added_at": "2022-11-28 18:17:33",
@@ -379,54 +379,6 @@
     {
       "added_at": "2022-11-28 18:17:33",
       "album": {
-        "name": "Christmas At Our House",
-        "url": "https://open.spotify.com/album/5rM65xh4QGfosymiKhjADf"
-      },
-      "artists": [
-        {
-          "name": "Barbara Mandrell",
-          "url": "https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg"
-        }
-      ],
-      "duration_ms": 172426,
-      "name": "Christmas At Our House",
-      "url": "https://open.spotify.com/track/38BQ3pZGq9MMNSguqGKZc5"
-    },
-    {
-      "added_at": "2022-11-28 18:17:33",
-      "album": {
-        "name": "Merry Christmas Baby / White Christmas",
-        "url": "https://open.spotify.com/album/004EYz2DQttcGvyTQGDmLp"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 182706,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/7LxsehOTDXTpsuWAMWXe9o"
-    },
-    {
-      "added_at": "2022-11-28 18:17:33",
-      "album": {
-        "name": "A Christmas Album",
-        "url": "https://open.spotify.com/album/2QT0UoFwDjyeg6LcezebJs"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 241880,
-      "name": "Love Has Come",
-      "url": "https://open.spotify.com/track/1vK4GktAHoF73cIA8tGxRI"
-    },
-    {
-      "added_at": "2022-11-28 18:17:33",
-      "album": {
         "name": "A Very Special Christmas 2",
         "url": "https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM"
       },
@@ -459,6 +411,54 @@
       "duration_ms": 151253,
       "name": "Christmastime",
       "url": "https://open.spotify.com/track/414Cn0i6PWFZzvxfzcLSSV"
+    },
+    {
+      "added_at": "2022-11-28 18:17:33",
+      "album": {
+        "name": "Merry Christmas Baby / White Christmas",
+        "url": "https://open.spotify.com/album/004EYz2DQttcGvyTQGDmLp"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 182706,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/7LxsehOTDXTpsuWAMWXe9o"
+    },
+    {
+      "added_at": "2022-11-28 18:17:33",
+      "album": {
+        "name": "Christmas At Our House",
+        "url": "https://open.spotify.com/album/5rM65xh4QGfosymiKhjADf"
+      },
+      "artists": [
+        {
+          "name": "Barbara Mandrell",
+          "url": "https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg"
+        }
+      ],
+      "duration_ms": 172426,
+      "name": "Christmas At Our House",
+      "url": "https://open.spotify.com/track/38BQ3pZGq9MMNSguqGKZc5"
+    },
+    {
+      "added_at": "2022-11-28 18:17:33",
+      "album": {
+        "name": "A Christmas Album",
+        "url": "https://open.spotify.com/album/2QT0UoFwDjyeg6LcezebJs"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 241880,
+      "name": "Love Has Come",
+      "url": "https://open.spotify.com/track/1vK4GktAHoF73cIA8tGxRI"
     },
     {
       "added_at": "2022-11-28 18:17:33",
@@ -739,6 +739,38 @@
     {
       "added_at": "2022-11-28 18:17:33",
       "album": {
+        "name": "Christmas Cafe",
+        "url": "https://open.spotify.com/album/60o7io2Q1sgIv0psxcfsDQ"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 123240,
+      "name": "Go Tell It On the Mountain",
+      "url": "https://open.spotify.com/track/6EXMLtiFCnJT4TmONRRBH3"
+    },
+    {
+      "added_at": "2022-11-28 18:17:33",
+      "album": {
+        "name": "Sessions 1967-1975 - Rarities from The RCA Albums Collection",
+        "url": "https://open.spotify.com/album/3ytrUmaGMZlqf91mGR5cV5"
+      },
+      "artists": [
+        {
+          "name": "Harry Nilsson",
+          "url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
+        }
+      ],
+      "duration_ms": 147066,
+      "name": "Snow - Alternate Version",
+      "url": "https://open.spotify.com/track/6SqJRpTsQgQ0PAtWtjI82B"
+    },
+    {
+      "added_at": "2022-11-28 18:17:33",
+      "album": {
         "name": "20th Century Masters - The Best of Smokey Robinson & The Miracles: The Christmas Collection",
         "url": "https://open.spotify.com/album/3R4NS486mXBcQ9CrLUmDhQ"
       },
@@ -767,38 +799,6 @@
       "duration_ms": 161493,
       "name": "It Won't Be Long 'Til Christmas - Bonus Track / 2015 Mix",
       "url": "https://open.spotify.com/track/0d8JxzRzUgTN6aUu7Aii0I"
-    },
-    {
-      "added_at": "2022-11-28 18:17:33",
-      "album": {
-        "name": "Sessions 1967-1975 - Rarities from The RCA Albums Collection",
-        "url": "https://open.spotify.com/album/3ytrUmaGMZlqf91mGR5cV5"
-      },
-      "artists": [
-        {
-          "name": "Harry Nilsson",
-          "url": "https://open.spotify.com/artist/3RTzAwFprBqiskp550eSJX"
-        }
-      ],
-      "duration_ms": 147066,
-      "name": "Snow - Alternate Version",
-      "url": "https://open.spotify.com/track/6SqJRpTsQgQ0PAtWtjI82B"
-    },
-    {
-      "added_at": "2022-11-28 18:17:33",
-      "album": {
-        "name": "Christmas Cafe",
-        "url": "https://open.spotify.com/album/60o7io2Q1sgIv0psxcfsDQ"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 123240,
-      "name": "Go Tell It On the Mountain",
-      "url": "https://open.spotify.com/track/6EXMLtiFCnJT4TmONRRBH3"
     },
     {
       "added_at": "2022-11-28 18:17:33",

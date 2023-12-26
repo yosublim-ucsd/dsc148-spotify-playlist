@@ -1,12 +1,12 @@
 {
   "description": "canzoni tristi, rap e indie, per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, tenth sky)",
-  "num_followers": 43360,
+  "num_followers": 43366,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzY3YTAyMzZjZWNjODg3YTA4MDI4NmZiYWVlZmE4NjJmMDBlM2E0",
+  "snapshot_id": "MCxlZDQzMjczMDY3MmMzZThlYjQ2YTE0Njc1NzUxZWFlMWQ4NzE4NDFj",
   "tracks": [
     {
       "added_at": "2023-12-06 17:08:54",
@@ -115,6 +115,26 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
+        "name": "Indelebile",
+        "url": "https://open.spotify.com/album/23jwySNWjs1wzqnbby5lX9"
+      },
+      "artists": [
+        {
+          "name": "Fasma",
+          "url": "https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk"
+        },
+        {
+          "name": "GG",
+          "url": "https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd"
+        }
+      ],
+      "duration_ms": 168507,
+      "name": "Indelebile",
+      "url": "https://open.spotify.com/track/0FJUY6StrBltgLCSMuSAS4"
+    },
+    {
+      "added_at": "2023-12-06 17:08:54",
+      "album": {
         "name": "Spazio",
         "url": "https://open.spotify.com/album/1rF5ezgSerqkUK1Nc9Ft6p"
       },
@@ -147,26 +167,6 @@
       "duration_ms": 110750,
       "name": "14",
       "url": "https://open.spotify.com/track/1veUzOYyrblgIzylvPzkAZ"
-    },
-    {
-      "added_at": "2023-12-06 17:08:54",
-      "album": {
-        "name": "Indelebile",
-        "url": "https://open.spotify.com/album/23jwySNWjs1wzqnbby5lX9"
-      },
-      "artists": [
-        {
-          "name": "Fasma",
-          "url": "https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk"
-        },
-        {
-          "name": "GG",
-          "url": "https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd"
-        }
-      ],
-      "duration_ms": 168507,
-      "name": "Indelebile",
-      "url": "https://open.spotify.com/track/0FJUY6StrBltgLCSMuSAS4"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -287,22 +287,18 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
-        "name": "Resta Vivo",
-        "url": "https://open.spotify.com/album/6qJ0unJhVYyebDsqWupNYp"
+        "name": "La mia stanza (Deluxe)",
+        "url": "https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q"
       },
       "artists": [
         {
-          "name": "Shama24k",
-          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
-        },
-        {
-          "name": "Mike Defunto",
-          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
         }
       ],
-      "duration_ms": 176259,
-      "name": "Resta Vivo",
-      "url": "https://open.spotify.com/track/1v0Yd9leQpwcbPxvUTQOGX"
+      "duration_ms": 162038,
+      "name": "Mai come gli altri - Acoustic",
+      "url": "https://open.spotify.com/track/3veCrNj8NA2tCfnPLXSOOr"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -323,18 +319,22 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
-        "name": "La mia stanza (Deluxe)",
-        "url": "https://open.spotify.com/album/11N2afr57Zc4Zz9ntU3w7Q"
+        "name": "Resta Vivo",
+        "url": "https://open.spotify.com/album/6qJ0unJhVYyebDsqWupNYp"
       },
       "artists": [
         {
-          "name": "NASKA",
-          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+          "name": "Shama24k",
+          "url": "https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm"
+        },
+        {
+          "name": "Mike Defunto",
+          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
         }
       ],
-      "duration_ms": 162038,
-      "name": "Mai come gli altri - Acoustic",
-      "url": "https://open.spotify.com/track/3veCrNj8NA2tCfnPLXSOOr"
+      "duration_ms": 176259,
+      "name": "Resta Vivo",
+      "url": "https://open.spotify.com/track/1v0Yd9leQpwcbPxvUTQOGX"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -371,18 +371,18 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
-        "name": "\u00c8 Andata Cos\u00ec",
-        "url": "https://open.spotify.com/album/7AdlQyoaGhS0pLTYKaBR7B"
+        "name": "Tu mi fai bene",
+        "url": "https://open.spotify.com/album/55VCDai04r0JFf3mySHac6"
       },
       "artists": [
         {
-          "name": "Aiden",
-          "url": "https://open.spotify.com/artist/1nP7zdpk1ok53IBGhMwhb3"
+          "name": "Fraespo",
+          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
         }
       ],
-      "duration_ms": 232800,
-      "name": "\u00c8 Andata Cos\u00ec",
-      "url": "https://open.spotify.com/track/47jPZoeY2hgKA4Y4Zk3etW"
+      "duration_ms": 117190,
+      "name": "Tu mi fai bene",
+      "url": "https://open.spotify.com/track/4x1fbc6RW6vTc7gLCBIDXj"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -399,6 +399,38 @@
       "duration_ms": 136313,
       "name": "FIORI MORTI",
       "url": "https://open.spotify.com/track/5q5u3VYjeyWh7x9exL0q9B"
+    },
+    {
+      "added_at": "2023-12-06 17:08:54",
+      "album": {
+        "name": "REBEL (Deluxe)",
+        "url": "https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW"
+      },
+      "artists": [
+        {
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+        }
+      ],
+      "duration_ms": 220485,
+      "name": "Horror - Acoustic",
+      "url": "https://open.spotify.com/track/1SoB0Ex6kDPwyY5D9nXucY"
+    },
+    {
+      "added_at": "2023-12-06 17:08:54",
+      "album": {
+        "name": "\u00c8 Andata Cos\u00ec",
+        "url": "https://open.spotify.com/album/7AdlQyoaGhS0pLTYKaBR7B"
+      },
+      "artists": [
+        {
+          "name": "Aiden",
+          "url": "https://open.spotify.com/artist/1nP7zdpk1ok53IBGhMwhb3"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "\u00c8 Andata Cos\u00ec",
+      "url": "https://open.spotify.com/track/47jPZoeY2hgKA4Y4Zk3etW"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -423,22 +455,6 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
-        "name": "Tu mi fai bene",
-        "url": "https://open.spotify.com/album/55VCDai04r0JFf3mySHac6"
-      },
-      "artists": [
-        {
-          "name": "Fraespo",
-          "url": "https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ"
-        }
-      ],
-      "duration_ms": 117190,
-      "name": "Tu mi fai bene",
-      "url": "https://open.spotify.com/track/4x1fbc6RW6vTc7gLCBIDXj"
-    },
-    {
-      "added_at": "2023-12-06 17:08:54",
-      "album": {
         "name": "Incancellabili",
         "url": "https://open.spotify.com/album/4d9czstc4DH4gLOR40QCAt"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 92398,
       "name": "Incancellabili",
       "url": "https://open.spotify.com/track/4AeDoNfWfHsfXEu0j9J4Fs"
-    },
-    {
-      "added_at": "2023-12-06 17:08:54",
-      "album": {
-        "name": "REBEL (Deluxe)",
-        "url": "https://open.spotify.com/album/0BSVUwV411OWhUlAIK9epW"
-      },
-      "artists": [
-        {
-          "name": "NASKA",
-          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
-        }
-      ],
-      "duration_ms": 220485,
-      "name": "Horror - Acoustic",
-      "url": "https://open.spotify.com/track/1SoB0Ex6kDPwyY5D9nXucY"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
+        "name": "Spazjo",
+        "url": "https://open.spotify.com/album/0SkvATM6H406JvRlnW0CFu"
+      },
+      "artists": [
+        {
+          "name": "Anzj",
+          "url": "https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu"
+        }
+      ],
+      "duration_ms": 158307,
+      "name": "un*cielo*di*stelle",
+      "url": "https://open.spotify.com/track/5QGoerQWihK8qio4ANSkUL"
+    },
+    {
+      "added_at": "2023-12-06 17:08:54",
+      "album": {
         "name": "Sedato e Deluso",
         "url": "https://open.spotify.com/album/7kIEYHH4kTmUmU2r8Uzler"
       },
@@ -731,38 +747,6 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
-        "name": "Amelie",
-        "url": "https://open.spotify.com/album/6ecOxmrwND7LqAmig5AB0Q"
-      },
-      "artists": [
-        {
-          "name": "Nashley",
-          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
-        }
-      ],
-      "duration_ms": 198857,
-      "name": "Amelie",
-      "url": "https://open.spotify.com/track/6Avt6Pqv0LPcnzTJ6ertki"
-    },
-    {
-      "added_at": "2023-12-06 17:08:54",
-      "album": {
-        "name": "Spazjo",
-        "url": "https://open.spotify.com/album/0SkvATM6H406JvRlnW0CFu"
-      },
-      "artists": [
-        {
-          "name": "Anzj",
-          "url": "https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu"
-        }
-      ],
-      "duration_ms": 158307,
-      "name": "un*cielo*di*stelle",
-      "url": "https://open.spotify.com/track/5QGoerQWihK8qio4ANSkUL"
-    },
-    {
-      "added_at": "2023-12-06 17:08:54",
-      "album": {
         "name": "Penso a te",
         "url": "https://open.spotify.com/album/6ajL0vtyiiqofQdvt0u7RO"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 123373,
       "name": "Penso a te",
       "url": "https://open.spotify.com/track/0SiygWBzCOeItYAjC3ZDVh"
+    },
+    {
+      "added_at": "2023-12-06 17:08:54",
+      "album": {
+        "name": "Amelie",
+        "url": "https://open.spotify.com/album/6ecOxmrwND7LqAmig5AB0Q"
+      },
+      "artists": [
+        {
+          "name": "Nashley",
+          "url": "https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "Amelie",
+      "url": "https://open.spotify.com/track/6Avt6Pqv0LPcnzTJ6ertki"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
-        "name": "Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5NNcyVXkfTUP2Y9ddLfAE0"
-      },
-      "artists": [
-        {
-          "name": "\u00cbgo",
-          "url": "https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd"
-        }
-      ],
-      "duration_ms": 120058,
-      "name": "Hasta la Muerte",
-      "url": "https://open.spotify.com/track/13ayZLGRDxX85NEG78hIjF"
-    },
-    {
-      "added_at": "2023-12-06 17:08:54",
-      "album": {
         "name": "Non te l'ho detto mai",
         "url": "https://open.spotify.com/album/7j1KaDAKd9qTMaqubJq7kS"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 136235,
       "name": "Non te l'ho detto mai",
       "url": "https://open.spotify.com/track/4PkT1On1EL0WdX5CilUbAU"
+    },
+    {
+      "added_at": "2023-12-06 17:08:54",
+      "album": {
+        "name": "Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5NNcyVXkfTUP2Y9ddLfAE0"
+      },
+      "artists": [
+        {
+          "name": "\u00cbgo",
+          "url": "https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd"
+        }
+      ],
+      "duration_ms": 120058,
+      "name": "Hasta la Muerte",
+      "url": "https://open.spotify.com/track/13ayZLGRDxX85NEG78hIjF"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
-        "name": "Winston Blue",
-        "url": "https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT"
-      },
-      "artists": [
-        {
-          "name": "WECH PUTO",
-          "url": "https://open.spotify.com/artist/6Y9tJfn6ECnWpZngpRIFfK"
-        }
-      ],
-      "duration_ms": 151013,
-      "name": "Winston Blue",
-      "url": "https://open.spotify.com/track/78WU5Aet5mAFziFp8Xtd1i"
-    },
-    {
-      "added_at": "2023-12-06 17:08:54",
-      "album": {
         "name": "Letto grande",
         "url": "https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC"
       },
@@ -987,6 +971,38 @@
       "duration_ms": 211500,
       "name": "Letto grande",
       "url": "https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn"
+    },
+    {
+      "added_at": "2023-12-06 17:08:54",
+      "album": {
+        "name": "Winston Blue",
+        "url": "https://open.spotify.com/album/0M95QrJhwkP2WHdX8ECfHT"
+      },
+      "artists": [
+        {
+          "name": "WECH PUTO",
+          "url": "https://open.spotify.com/artist/6Y9tJfn6ECnWpZngpRIFfK"
+        }
+      ],
+      "duration_ms": 151013,
+      "name": "Winston Blue",
+      "url": "https://open.spotify.com/track/78WU5Aet5mAFziFp8Xtd1i"
+    },
+    {
+      "added_at": "2023-12-06 17:08:54",
+      "album": {
+        "name": "Autopsia",
+        "url": "https://open.spotify.com/album/01bwlYW15thIL49JrwibKC"
+      },
+      "artists": [
+        {
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+        }
+      ],
+      "duration_ms": 208504,
+      "name": "Autopsia",
+      "url": "https://open.spotify.com/track/5wEdC22OgyM7umwe6XeCms"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -1011,26 +1027,6 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
-        "name": "Devil May Cry",
-        "url": "https://open.spotify.com/album/0JTK46NHCkNfBe6kthVWxA"
-      },
-      "artists": [
-        {
-          "name": "Alelock",
-          "url": "https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt"
-        },
-        {
-          "name": "Gaglianone",
-          "url": "https://open.spotify.com/artist/3Kborlyf9Zfl8JNELvN5rn"
-        }
-      ],
-      "duration_ms": 148818,
-      "name": "Devil May Cry",
-      "url": "https://open.spotify.com/track/2DTFoQqQrjEcFIfMkAPmKs"
-    },
-    {
-      "added_at": "2023-12-06 17:08:54",
-      "album": {
         "name": "Torner\u00f2",
         "url": "https://open.spotify.com/album/4m9U7MMcVrA3V7T88SUObz"
       },
@@ -1047,18 +1043,22 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
-        "name": "Autopsia",
-        "url": "https://open.spotify.com/album/01bwlYW15thIL49JrwibKC"
+        "name": "Devil May Cry",
+        "url": "https://open.spotify.com/album/0JTK46NHCkNfBe6kthVWxA"
       },
       "artists": [
         {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+          "name": "Alelock",
+          "url": "https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt"
+        },
+        {
+          "name": "Gaglianone",
+          "url": "https://open.spotify.com/artist/3Kborlyf9Zfl8JNELvN5rn"
         }
       ],
-      "duration_ms": 208504,
-      "name": "Autopsia",
-      "url": "https://open.spotify.com/track/5wEdC22OgyM7umwe6XeCms"
+      "duration_ms": 148818,
+      "name": "Devil May Cry",
+      "url": "https://open.spotify.com/track/2DTFoQqQrjEcFIfMkAPmKs"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -1131,42 +1131,6 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
-        "name": "L'effetto che mi fai",
-        "url": "https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx"
-      },
-      "artists": [
-        {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
-        }
-      ],
-      "duration_ms": 174250,
-      "name": "L'effetto che mi fai",
-      "url": "https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi"
-    },
-    {
-      "added_at": "2023-12-06 17:08:54",
-      "album": {
-        "name": "Ceramica",
-        "url": "https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD"
-      },
-      "artists": [
-        {
-          "name": "Nisba",
-          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
-        },
-        {
-          "name": "Sol\u00f8",
-          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Ceramica",
-      "url": "https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9"
-    },
-    {
-      "added_at": "2023-12-06 17:08:54",
-      "album": {
         "name": "Dimmi se sbaglio",
         "url": "https://open.spotify.com/album/2NBmYkv65CNjS3n3ZCIirh"
       },
@@ -1183,6 +1147,22 @@
       "duration_ms": 135374,
       "name": "Dimmi se sbaglio",
       "url": "https://open.spotify.com/track/0fCl0Y3Ra4uwYXEBwYwcKT"
+    },
+    {
+      "added_at": "2023-12-06 17:08:54",
+      "album": {
+        "name": "L'effetto che mi fai",
+        "url": "https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx"
+      },
+      "artists": [
+        {
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+        }
+      ],
+      "duration_ms": 174250,
+      "name": "L'effetto che mi fai",
+      "url": "https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -1255,6 +1235,26 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
+        "name": "Ceramica",
+        "url": "https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD"
+      },
+      "artists": [
+        {
+          "name": "Nisba",
+          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+        },
+        {
+          "name": "Sol\u00f8",
+          "url": "https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Ceramica",
+      "url": "https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9"
+    },
+    {
+      "added_at": "2023-12-06 17:08:54",
+      "album": {
         "name": "RALLENTI IL TEMPO",
         "url": "https://open.spotify.com/album/7055kaSvBr9zOveSEOT4qq"
       },
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
-        "name": "Attacco di Panico",
-        "url": "https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli"
-      },
-      "artists": [
-        {
-          "name": "Lost Kids",
-          "url": "https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6"
-        }
-      ],
-      "duration_ms": 145750,
-      "name": "Attacco di Panico",
-      "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
-    },
-    {
-      "added_at": "2023-12-06 17:08:54",
-      "album": {
         "name": "MOVIMENTO + THE DAY AFTER",
         "url": "https://open.spotify.com/album/6w8utzyBFKX2ynQyGMeWcG"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 139773,
       "name": "I CAN FLY",
       "url": "https://open.spotify.com/track/2w16qcnjwjfBUvZRpGEC4b"
+    },
+    {
+      "added_at": "2023-12-06 17:08:54",
+      "album": {
+        "name": "Attacco di Panico",
+        "url": "https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli"
+      },
+      "artists": [
+        {
+          "name": "Lost Kids",
+          "url": "https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6"
+        }
+      ],
+      "duration_ms": 145750,
+      "name": "Attacco di Panico",
+      "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-12-06 17:08:54",
       "album": {
-        "name": "Gemini",
-        "url": "https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK"
-      },
-      "artists": [
-        {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
-        }
-      ],
-      "duration_ms": 180763,
-      "name": "Backstage",
-      "url": "https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi"
-    },
-    {
-      "added_at": "2023-12-06 17:08:54",
-      "album": {
         "name": "poster",
         "url": "https://open.spotify.com/album/7yeV8I2WFKaliL35x3BMge"
       },
@@ -1551,6 +1535,42 @@
       "duration_ms": 129854,
       "name": "Semiminime",
       "url": "https://open.spotify.com/track/3gsiEFtWtn9juWtsYcDHXd"
+    },
+    {
+      "added_at": "2023-12-06 17:08:54",
+      "album": {
+        "name": "Gemini",
+        "url": "https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK"
+      },
+      "artists": [
+        {
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+        }
+      ],
+      "duration_ms": 180763,
+      "name": "Backstage",
+      "url": "https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi"
+    },
+    {
+      "added_at": "2023-12-06 17:08:54",
+      "album": {
+        "name": "Fuori di me",
+        "url": "https://open.spotify.com/album/6mjUd8akec2Qk3itsNHLOv"
+      },
+      "artists": [
+        {
+          "name": "Kia",
+          "url": "https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT"
+        },
+        {
+          "name": "Liarr",
+          "url": "https://open.spotify.com/artist/2pWViDzgkgNr0CfhxZTvdY"
+        }
+      ],
+      "duration_ms": 166267,
+      "name": "Clipper",
+      "url": "https://open.spotify.com/track/5RdIIacDdbqAhWgEq1fMcL"
     },
     {
       "added_at": "2023-12-06 17:08:54",
@@ -1587,26 +1607,6 @@
       "duration_ms": 215283,
       "name": "Credimi ancora",
       "url": "https://open.spotify.com/track/4xTg0JYQVlDsIiNTbHIQOQ"
-    },
-    {
-      "added_at": "2023-12-06 17:08:54",
-      "album": {
-        "name": "Fuori di me",
-        "url": "https://open.spotify.com/album/6mjUd8akec2Qk3itsNHLOv"
-      },
-      "artists": [
-        {
-          "name": "Kia",
-          "url": "https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT"
-        },
-        {
-          "name": "Liarr",
-          "url": "https://open.spotify.com/artist/2pWViDzgkgNr0CfhxZTvdY"
-        }
-      ],
-      "duration_ms": 166267,
-      "name": "Clipper",
-      "url": "https://open.spotify.com/track/5RdIIacDdbqAhWgEq1fMcL"
     },
     {
       "added_at": "2023-12-06 17:08:54",

@@ -1,12 +1,12 @@
 {
   "description": "Ride the bassline. Cover: Apashe",
-  "num_followers": 230081,
+  "num_followers": 230126,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWVlMzc2MTljNGM4MmRhYTYwYjgxODgzYTI1NWQzZmY1OThmZmYx",
+  "snapshot_id": "MCxiZTRmNTdkZTljOWVjZmE3NjVhZjExZDhjNzQwYjVjZDNiOTBmZTJl",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -447,6 +447,30 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "BOTH",
+        "url": "https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "BOTH",
+      "url": "https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "DJ Turn It Up",
         "url": "https://open.spotify.com/album/1POsjSFSyqW21AEn71tdJn"
       },
@@ -503,26 +527,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "BOTH",
-        "url": "https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL"
+        "name": "Sunshine (My Girl)",
+        "url": "https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+          "name": "Wuki",
+          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
         }
       ],
-      "duration_ms": 188000,
-      "name": "BOTH",
-      "url": "https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft"
+      "duration_ms": 131250,
+      "name": "Sunshine (My Girl)",
+      "url": "https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -563,22 +579,6 @@
       "duration_ms": 184752,
       "name": "Typa Girl",
       "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Sunshine (My Girl)",
-        "url": "https://open.spotify.com/album/7AE0HaidGUaRBSmIZmJ8As"
-      },
-      "artists": [
-        {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
-        }
-      ],
-      "duration_ms": 131250,
-      "name": "Sunshine (My Girl)",
-      "url": "https://open.spotify.com/track/2bI6KAUqXeIXGAEEvup8ri"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Gimme That Bounce",
-        "url": "https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 217410,
-      "name": "Gimme That Bounce",
-      "url": "https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
         "url": "https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 159161,
       "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
       "url": "https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Gimme That Bounce",
+        "url": "https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 217410,
+      "name": "Gimme That Bounce",
+      "url": "https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -807,6 +807,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Saturday Love",
+        "url": "https://open.spotify.com/album/4Heb9ISUmA1d3h9VMGY9a6"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "Dino DZ",
+          "url": "https://open.spotify.com/artist/3WJeKjQBTbEjR9psopu0Si"
+        }
+      ],
+      "duration_ms": 141120,
+      "name": "Saturday Love",
+      "url": "https://open.spotify.com/track/2jGlVbdMM7pzUl5RyeSJrX"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Badders",
         "url": "https://open.spotify.com/album/0K5ljicneNOkdgx2rNxYBv"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 167172,
       "name": "Badders",
       "url": "https://open.spotify.com/track/4zbInBD4rY7tYPJ16LVxdh"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Saturday Love",
-        "url": "https://open.spotify.com/album/4Heb9ISUmA1d3h9VMGY9a6"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        },
-        {
-          "name": "Dino DZ",
-          "url": "https://open.spotify.com/artist/3WJeKjQBTbEjR9psopu0Si"
-        }
-      ],
-      "duration_ms": 141120,
-      "name": "Saturday Love",
-      "url": "https://open.spotify.com/track/2jGlVbdMM7pzUl5RyeSJrX"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -883,6 +883,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Chill Like That",
+        "url": "https://open.spotify.com/album/5gs6nZBT4z6lJ5Ack59TBY"
+      },
+      "artists": [
+        {
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+        },
+        {
+          "name": "PiCKUPLiNES",
+          "url": "https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi"
+        }
+      ],
+      "duration_ms": 179033,
+      "name": "Chill Like That",
+      "url": "https://open.spotify.com/track/2NZABaUZUleW2mIuDlh5ZA"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Push It",
         "url": "https://open.spotify.com/album/4LcWzWIwMTNxDz4Baxo7qL"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 248571,
       "name": "Push It",
       "url": "https://open.spotify.com/track/2HAVzWKbG539XNDlWz3FX5"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Chill Like That",
-        "url": "https://open.spotify.com/album/5gs6nZBT4z6lJ5Ack59TBY"
-      },
-      "artists": [
-        {
-          "name": "Sunday Scaries",
-          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
-        },
-        {
-          "name": "PiCKUPLiNES",
-          "url": "https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi"
-        }
-      ],
-      "duration_ms": 179033,
-      "name": "Chill Like That",
-      "url": "https://open.spotify.com/track/2NZABaUZUleW2mIuDlh5ZA"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1095,30 +1095,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Wish I Could Forget (with blackbear & Bring Me The Horizon)",
-        "url": "https://open.spotify.com/album/3Q68tMQ7tRDuz6qIN1hODk"
-      },
-      "artists": [
-        {
-          "name": "SLANDER",
-          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
-        },
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Wish I Could Forget (with blackbear & Bring Me The Horizon)",
-      "url": "https://open.spotify.com/track/4QcfHUpGxGGKh7VIVs3LYI"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "To Be Real",
         "url": "https://open.spotify.com/album/6NrGM3aH0HgQyy7UabNprK"
       },
@@ -1139,6 +1115,30 @@
       "duration_ms": 203225,
       "name": "To Be Real",
       "url": "https://open.spotify.com/track/7GpiRvevDAkR3lDH5AxNwT"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Wish I Could Forget (with blackbear & Bring Me The Horizon)",
+        "url": "https://open.spotify.com/album/3Q68tMQ7tRDuz6qIN1hODk"
+      },
+      "artists": [
+        {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Wish I Could Forget (with blackbear & Bring Me The Horizon)",
+      "url": "https://open.spotify.com/track/4QcfHUpGxGGKh7VIVs3LYI"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1239,6 +1239,46 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Frikitona",
+        "url": "https://open.spotify.com/album/5LdsLkZqLq2oUEthzHiR9g"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "duration_ms": 174375,
+      "name": "Frikitona",
+      "url": "https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Diamond Therapy",
+        "url": "https://open.spotify.com/album/72xjIhQnOwXZMvdtlYa3Ep"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 199472,
+      "name": "Diamond Therapy",
+      "url": "https://open.spotify.com/track/5lSfq3EFWwD9yylL0zaqqj"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Not Fair",
         "url": "https://open.spotify.com/album/5PObKgSkHWD1mRNOJWr1cZ"
       },
@@ -1299,22 +1339,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Frikitona",
-        "url": "https://open.spotify.com/album/5LdsLkZqLq2oUEthzHiR9g"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        }
-      ],
-      "duration_ms": 174375,
-      "name": "Frikitona",
-      "url": "https://open.spotify.com/track/5ls4FQAoSlAFPFnaYpeyhn"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Got That",
         "url": "https://open.spotify.com/album/2zbCrqjLeh3tWowXjGQHN1"
       },
@@ -1331,30 +1355,6 @@
       "duration_ms": 166874,
       "name": "Got That",
       "url": "https://open.spotify.com/track/4RHeXreYnosasCxxjBsEVN"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Diamond Therapy",
-        "url": "https://open.spotify.com/album/72xjIhQnOwXZMvdtlYa3Ep"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Walker & Royce",
-          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 199472,
-      "name": "Diamond Therapy",
-      "url": "https://open.spotify.com/track/5lSfq3EFWwD9yylL0zaqqj"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1419,30 +1419,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Mind Awake, Body Asleep",
-        "url": "https://open.spotify.com/album/4sM2DMHiDDU25XRx7AEJ0x"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        },
-        {
-          "name": "OMNOM",
-          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
-        },
-        {
-          "name": "HYPERBEAM",
-          "url": "https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n"
-        }
-      ],
-      "duration_ms": 150447,
-      "name": "Mind Awake, Body Asleep",
-      "url": "https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Don't Look Down (Hold On)",
         "url": "https://open.spotify.com/album/5XbWNkpJ1SaK5XCz3BZzDE"
       },
@@ -1463,6 +1439,30 @@
       "duration_ms": 245333,
       "name": "Don't Look Down (Hold On)",
       "url": "https://open.spotify.com/track/65krG6c3veTz66mIdSU16f"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Mind Awake, Body Asleep",
+        "url": "https://open.spotify.com/album/4sM2DMHiDDU25XRx7AEJ0x"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "OMNOM",
+          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
+        },
+        {
+          "name": "HYPERBEAM",
+          "url": "https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n"
+        }
+      ],
+      "duration_ms": 150447,
+      "name": "Mind Awake, Body Asleep",
+      "url": "https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1955,6 +1955,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Lockdown",
         "url": "https://open.spotify.com/album/6C2ezhjaFoS7V1GdHD3gbK"
       },
@@ -1971,22 +1987,6 @@
       "duration_ms": 185624,
       "name": "Lockdown",
       "url": "https://open.spotify.com/track/6EdnmlpuR9O7ZpUwonIih4"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "XTC",
-        "url": "https://open.spotify.com/album/7A2HQ8LwQOBg2c78sm3k7g"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        }
-      ],
-      "duration_ms": 184687,
-      "name": "XTC",
-      "url": "https://open.spotify.com/track/6w6QxbbEiKSTP4TbqOnYvQ"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -2119,6 +2119,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Night In Milan",
+        "url": "https://open.spotify.com/album/5mjEC5XuALfFLI7XlpnAXL"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        }
+      ],
+      "duration_ms": 154081,
+      "name": "Night In Milan",
+      "url": "https://open.spotify.com/track/5WZp98NX90Oqy2mAQcwleA"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Portals",
         "url": "https://open.spotify.com/album/4os1LiFckLA5tv0RuD4Mjj"
       },
@@ -2163,26 +2183,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Night In Milan",
-        "url": "https://open.spotify.com/album/5mjEC5XuALfFLI7XlpnAXL"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        },
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        }
-      ],
-      "duration_ms": 154081,
-      "name": "Night In Milan",
-      "url": "https://open.spotify.com/track/5WZp98NX90Oqy2mAQcwleA"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Embers",
         "url": "https://open.spotify.com/album/4hhmTA5VDMXfEyjDudkMBn"
       },
@@ -2203,26 +2203,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "All The Girls",
-        "url": "https://open.spotify.com/album/4cq5fEBJxdF175fw88LaZK"
-      },
-      "artists": [
-        {
-          "name": "J. Worra",
-          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
-        },
-        {
-          "name": "Shift K3Y",
-          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
-        }
-      ],
-      "duration_ms": 197254,
-      "name": "All The Girls",
-      "url": "https://open.spotify.com/track/6LVohr4fZrk9iAYgZhEnVF"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "DUST",
         "url": "https://open.spotify.com/album/0uN2BI1IXYXmWpa2W1fbb9"
       },
@@ -2239,6 +2219,26 @@
       "duration_ms": 151384,
       "name": "DUST",
       "url": "https://open.spotify.com/track/2wLZwbz7jsZcUMC6wV4Mf4"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "All The Girls",
+        "url": "https://open.spotify.com/album/4cq5fEBJxdF175fw88LaZK"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Shift K3Y",
+          "url": "https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM"
+        }
+      ],
+      "duration_ms": 197254,
+      "name": "All The Girls",
+      "url": "https://open.spotify.com/track/6LVohr4fZrk9iAYgZhEnVF"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -2283,6 +2283,26 @@
       "duration_ms": 182278,
       "name": "Shady Intentions (feat. Tori Levett) - VIP",
       "url": "https://open.spotify.com/track/0H7ohNCf0NzJQdtm0045RR"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Jumpstarter",
+        "url": "https://open.spotify.com/album/0lprQMq8a7RpVNKC0xH7fN"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        }
+      ],
+      "duration_ms": 173592,
+      "name": "Jumpstarter",
+      "url": "https://open.spotify.com/track/7er3MoyagC8W4YfCmENhRJ"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -2351,26 +2371,6 @@
       "duration_ms": 194823,
       "name": "Falling Over You",
       "url": "https://open.spotify.com/track/50QFmuvuRizsHUoTRgmky6"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Jumpstarter",
-        "url": "https://open.spotify.com/album/0lprQMq8a7RpVNKC0xH7fN"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        },
-        {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
-        }
-      ],
-      "duration_ms": 173592,
-      "name": "Jumpstarter",
-      "url": "https://open.spotify.com/track/7er3MoyagC8W4YfCmENhRJ"
     },
     {
       "added_at": "2023-12-08 05:00:00",

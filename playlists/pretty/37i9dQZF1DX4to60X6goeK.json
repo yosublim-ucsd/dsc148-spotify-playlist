@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Kanine",
-  "num_followers": 52771,
+  "num_followers": 52795,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZWU5ZDBhOWRkZGZmOGM0MDM2YjU5NmY3ZTE1NDExMzRkMzZkM2Mz",
+  "snapshot_id": "MCw1ZjY0OWY1ZjgyMzFmOGUxMjhlZWRkZDk0ZTU4MzZjYjc0ZmZjZDI2",
   "tracks": [
     {
       "added_at": "2023-12-01 00:01:00",
@@ -259,6 +259,22 @@
     {
       "added_at": "2023-11-17 16:57:48",
       "album": {
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte"
+      },
+      "artists": [
+        {
+          "name": "Freaks & Geeks",
+          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
+        }
+      ],
+      "duration_ms": 226916,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh"
+    },
+    {
+      "added_at": "2023-11-17 16:57:48",
+      "album": {
         "name": "Absolute",
         "url": "https://open.spotify.com/album/43KV6XPxBs3Th6EvhTXyJ9"
       },
@@ -279,38 +295,6 @@
       "duration_ms": 184270,
       "name": "Absolute",
       "url": "https://open.spotify.com/track/6eCNeilo1YaFuxSWHQYBg9"
-    },
-    {
-      "added_at": "2023-11-17 16:57:48",
-      "album": {
-        "name": "Finesse Riddim",
-        "url": "https://open.spotify.com/album/5tQmcRslhxZE5hAMZbKUT9"
-      },
-      "artists": [
-        {
-          "name": "Grima x Azza",
-          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
-        },
-        {
-          "name": "Mr Traumatik",
-          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
-        },
-        {
-          "name": "Devilman",
-          "url": "https://open.spotify.com/artist/73nEd2GvjMYNSsFnxKSDAK"
-        },
-        {
-          "name": "DJ ADZ",
-          "url": "https://open.spotify.com/artist/0yWeK60Enkx19d6ONJibla"
-        },
-        {
-          "name": "TNA",
-          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
-        }
-      ],
-      "duration_ms": 204342,
-      "name": "Finesse Riddim",
-      "url": "https://open.spotify.com/track/13Mgkz3Rk8t1XsMZ6JyIrG"
     },
     {
       "added_at": "2023-11-17 16:57:48",
@@ -367,18 +351,34 @@
     {
       "added_at": "2023-11-17 16:57:48",
       "album": {
-        "name": "Waiting For You",
-        "url": "https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte"
+        "name": "Finesse Riddim",
+        "url": "https://open.spotify.com/album/5tQmcRslhxZE5hAMZbKUT9"
       },
       "artists": [
         {
-          "name": "Freaks & Geeks",
-          "url": "https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU"
+          "name": "Grima x Azza",
+          "url": "https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R"
+        },
+        {
+          "name": "Mr Traumatik",
+          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
+        },
+        {
+          "name": "Devilman",
+          "url": "https://open.spotify.com/artist/73nEd2GvjMYNSsFnxKSDAK"
+        },
+        {
+          "name": "DJ ADZ",
+          "url": "https://open.spotify.com/artist/0yWeK60Enkx19d6ONJibla"
+        },
+        {
+          "name": "TNA",
+          "url": "https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545"
         }
       ],
-      "duration_ms": 226916,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh"
+      "duration_ms": 204342,
+      "name": "Finesse Riddim",
+      "url": "https://open.spotify.com/track/13Mgkz3Rk8t1XsMZ6JyIrG"
     },
     {
       "added_at": "2023-11-17 16:57:48",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-11-17 16:57:48",
       "album": {
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/1XevLzt5Tds3Cjbuz1oz0g"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Sundown",
+      "url": "https://open.spotify.com/track/5IiAyeg16Rk5holAyjwpLO"
+    },
+    {
+      "added_at": "2023-11-17 16:57:48",
+      "album": {
         "name": "Spartanz (Bou Remix)",
         "url": "https://open.spotify.com/album/4vQ8iFRMG9tg6IZyeZvaiI"
       },
@@ -487,26 +503,6 @@
     {
       "added_at": "2023-11-17 16:57:48",
       "album": {
-        "name": "Life Of The Party",
-        "url": "https://open.spotify.com/album/3dSI7I49Isxr3gFt4V7rHz"
-      },
-      "artists": [
-        {
-          "name": "General Levy",
-          "url": "https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I"
-        },
-        {
-          "name": "DJ Rap",
-          "url": "https://open.spotify.com/artist/68AFCxLSHARThf2XIYwY46"
-        }
-      ],
-      "duration_ms": 279566,
-      "name": "Life Of The Party",
-      "url": "https://open.spotify.com/track/0dYD2Z4SHcYdefhgSWfKmJ"
-    },
-    {
-      "added_at": "2023-11-17 16:57:48",
-      "album": {
         "name": "Complicated",
         "url": "https://open.spotify.com/album/5zwbiBQP3sm4kqV1I1ThVM"
       },
@@ -523,18 +519,22 @@
     {
       "added_at": "2023-11-17 16:57:48",
       "album": {
-        "name": "Sundown",
-        "url": "https://open.spotify.com/album/1XevLzt5Tds3Cjbuz1oz0g"
+        "name": "Life Of The Party",
+        "url": "https://open.spotify.com/album/3dSI7I49Isxr3gFt4V7rHz"
       },
       "artists": [
         {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+          "name": "General Levy",
+          "url": "https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I"
+        },
+        {
+          "name": "DJ Rap",
+          "url": "https://open.spotify.com/artist/68AFCxLSHARThf2XIYwY46"
         }
       ],
-      "duration_ms": 268800,
-      "name": "Sundown",
-      "url": "https://open.spotify.com/track/5IiAyeg16Rk5holAyjwpLO"
+      "duration_ms": 279566,
+      "name": "Life Of The Party",
+      "url": "https://open.spotify.com/track/0dYD2Z4SHcYdefhgSWfKmJ"
     },
     {
       "added_at": "2023-11-17 16:57:48",
@@ -829,6 +829,22 @@
       "url": "https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl"
     },
     {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Too Lazy",
+        "url": "https://open.spotify.com/album/25EVRGSF2edbKo80nU9QKm"
+      },
+      "artists": [
+        {
+          "name": "Document One",
+          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
+        }
+      ],
+      "duration_ms": 234482,
+      "name": "Too Lazy",
+      "url": "https://open.spotify.com/track/20z8sOQkGiwos8mlmRfbnj"
+    },
+    {
       "added_at": "2023-11-17 16:57:48",
       "album": {
         "name": "Skillz",
@@ -859,22 +875,6 @@
       "duration_ms": 204621,
       "name": "Skillz",
       "url": "https://open.spotify.com/track/03F1wRaMhskWtit3JAaxUg"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Too Lazy",
-        "url": "https://open.spotify.com/album/25EVRGSF2edbKo80nU9QKm"
-      },
-      "artists": [
-        {
-          "name": "Document One",
-          "url": "https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu"
-        }
-      ],
-      "duration_ms": 234482,
-      "name": "Too Lazy",
-      "url": "https://open.spotify.com/track/20z8sOQkGiwos8mlmRfbnj"
     },
     {
       "added_at": "2023-11-17 16:57:48",

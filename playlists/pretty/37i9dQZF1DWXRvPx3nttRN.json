@@ -1,12 +1,12 @@
 {
   "description": "Acoustic rock and pop that makes you feel good.",
-  "num_followers": 522967,
+  "num_followers": 523039,
   "original_name": "Feel Good Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzg3OGYxNGJkMDBhZjY4MDM5ODM3OTQzNjE1NTY4MjZjMmVkMjUx",
+  "snapshot_id": "MCxiYmI0ZDZlOWI1ZjY1ZjJlY2JlMGRhYjViZWVmNDdlM2MwOTYxZjQ4",
   "tracks": [
     {
       "added_at": "2023-10-23 17:16:09",
@@ -239,18 +239,18 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
       },
       "artists": [
         {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
         }
       ],
-      "duration_ms": 207680,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
+      "duration_ms": 269893,
+      "name": "All the Pretty Girls",
+      "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
       },
       "artists": [
         {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
         }
       ],
-      "duration_ms": 269893,
-      "name": "All the Pretty Girls",
-      "url": "https://open.spotify.com/track/0QQIhT6PtJ5glyn4HKNKQ6"
+      "duration_ms": 207680,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -415,38 +415,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Veneer",
-        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 161680,
-      "name": "Heartbeats",
-      "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
-        "name": "I Don't Care (Acoustic)",
-        "url": "https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 238220,
-      "name": "I Don't Care - Acoustic",
-      "url": "https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "Please Keep Loving Me",
         "url": "https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64"
       },
@@ -479,6 +447,22 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
+        "name": "Veneer",
+        "url": "https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 161680,
+      "name": "Heartbeats",
+      "url": "https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
         "name": "Raised Under Grey Skies (Deluxe)",
         "url": "https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 254853,
       "name": "Sunday Morning - Acoustic",
       "url": "https://open.spotify.com/track/3bXhtg6H8lOMWaLZttQF6F"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "I Don't Care (Acoustic)",
+        "url": "https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 238220,
+      "name": "I Don't Care - Acoustic",
+      "url": "https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 203800,
-      "name": "What Do You Mean? - Acoustic",
-      "url": "https://open.spotify.com/track/5YNf9s8WE3iF33YaFNrgpa"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "There's Nothing Holdin' Me Back (Acoustic)",
         "url": "https://open.spotify.com/album/7hY76Dr5XbUGkrzI0AKlez"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 201093,
       "name": "There's Nothing Holdin' Me Back - Acoustic",
       "url": "https://open.spotify.com/track/48lm2sNdS1rlteMIwLyhJF"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 203800,
+      "name": "What Do You Mean? - Acoustic",
+      "url": "https://open.spotify.com/track/5YNf9s8WE3iF33YaFNrgpa"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Another Bundle of Tantrums",
-        "url": "https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 247816,
-      "name": "Rather Be",
-      "url": "https://open.spotify.com/track/3jk4SgyAUOcXbA78btwgZA"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "Eastside (with Halsey & Khalid) [Acoustic]",
         "url": "https://open.spotify.com/album/6T3cWvfXW2hSV27SENATUk"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 173004,
       "name": "Eastside (with Halsey & Khalid) - Acoustic",
       "url": "https://open.spotify.com/track/5iQ0Va8Dt5Yky4TXuqO5TF"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "Another Bundle of Tantrums",
+        "url": "https://open.spotify.com/album/2xAp7TBI2GrWTaaBD2a39J"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 247816,
+      "name": "Rather Be",
+      "url": "https://open.spotify.com/track/3jk4SgyAUOcXbA78btwgZA"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "AOL Sessions",
-        "url": "https://open.spotify.com/album/0lgo7LuUdOfAchJC6KevkH"
-      },
-      "artists": [
-        {
-          "name": "Sixpence None The Richer",
-          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "Kiss Me - AOL Sessions Acoustic Version",
-      "url": "https://open.spotify.com/track/79z7dHVpP3ODaat0CK29db"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "Who You Are (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0FQIdb4PLexlIf7cGrsf2b"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 198720,
       "name": "Price Tag - Acoustic Version",
       "url": "https://open.spotify.com/track/3GoAxXQ1JATxMJAtIT7hnX"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "AOL Sessions",
+        "url": "https://open.spotify.com/album/0lgo7LuUdOfAchJC6KevkH"
+      },
+      "artists": [
+        {
+          "name": "Sixpence None The Richer",
+          "url": "https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg"
+        }
+      ],
+      "duration_ms": 181133,
+      "name": "Kiss Me - AOL Sessions Acoustic Version",
+      "url": "https://open.spotify.com/track/79z7dHVpP3ODaat0CK29db"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/1qyvMdyktO17KTA0LcW9Yk"
-      },
-      "artists": [
-        {
-          "name": "Reggii",
-          "url": "https://open.spotify.com/artist/6vbpxLwv8WN7U5Yr6rnLdP"
-        }
-      ],
-      "duration_ms": 174837,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/5V0CRoCDeDpGTXZGWPTk3D"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "I'll Scream (All The Words) (feat. Jessie Reyez)",
         "url": "https://open.spotify.com/album/1SvB73HwvP9xGYvNwUKfBB"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 153066,
       "name": "I'm in a Hurry (Live from Boca Grande)",
       "url": "https://open.spotify.com/track/6G5b1UmULnwGOIo7xKwcn3"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/1qyvMdyktO17KTA0LcW9Yk"
+      },
+      "artists": [
+        {
+          "name": "Reggii",
+          "url": "https://open.spotify.com/artist/6vbpxLwv8WN7U5Yr6rnLdP"
+        }
+      ],
+      "duration_ms": 174837,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/5V0CRoCDeDpGTXZGWPTk3D"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Dusk Till Dawn",
-        "url": "https://open.spotify.com/album/1skDKsDkYykE118scvvhfj"
-      },
-      "artists": [
-        {
-          "name": "Amanda Yang",
-          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
-        }
-      ],
-      "duration_ms": 208568,
-      "name": "Dusk Till Dawn",
-      "url": "https://open.spotify.com/track/1NWvbQI3bNfPxbxF9OQ1Ek"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "Forgive Me Friend (Acoustic Version)",
         "url": "https://open.spotify.com/album/1xCzc2exJ3vqmktSnRV5Hl"
       },
@@ -1567,22 +1551,6 @@
       "duration_ms": 228160,
       "name": "Forgive Me Friend - Acoustic Version",
       "url": "https://open.spotify.com/track/4eQWC9bpUAQT88QNBS2Z7C"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
-        "name": "Lovely",
-        "url": "https://open.spotify.com/album/1oGHLQmlnDpmfwntNA5K7M"
-      },
-      "artists": [
-        {
-          "name": "Thomas Daniel",
-          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
-        }
-      ],
-      "duration_ms": 189650,
-      "name": "Lovely",
-      "url": "https://open.spotify.com/track/6jI7yZWYt9xcmF5iDBJnHL"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -1603,6 +1571,22 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
+        "name": "Dusk Till Dawn",
+        "url": "https://open.spotify.com/album/1skDKsDkYykE118scvvhfj"
+      },
+      "artists": [
+        {
+          "name": "Amanda Yang",
+          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
+        }
+      ],
+      "duration_ms": 208568,
+      "name": "Dusk Till Dawn",
+      "url": "https://open.spotify.com/track/1NWvbQI3bNfPxbxF9OQ1Ek"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
         "name": "We Got You Covered, Vol. 1",
         "url": "https://open.spotify.com/album/2gYoCL1G2KVMOBZUM0sD4M"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 148174,
       "name": "Can't Stop the Feeling / This Is What You Came For",
       "url": "https://open.spotify.com/track/5QBsxRm92KS9oUJHAHhkax"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/1oGHLQmlnDpmfwntNA5K7M"
+      },
+      "artists": [
+        {
+          "name": "Thomas Daniel",
+          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
+        }
+      ],
+      "duration_ms": 189650,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/6jI7yZWYt9xcmF5iDBJnHL"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 149062,
-      "name": "Big Yellow Taxi - Live from Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0e3ujCTfBtvX8HdQrEUBd9"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "Know-It-All (Deluxe)",
         "url": "https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS"
       },
@@ -1735,6 +1719,22 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 149062,
+      "name": "Big Yellow Taxi - Live from Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0e3ujCTfBtvX8HdQrEUBd9"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
         "name": "Too Young",
         "url": "https://open.spotify.com/album/1abOgtHlHVN4INBipRQmds"
       },
@@ -1751,22 +1751,6 @@
       "duration_ms": 227413,
       "name": "Sorry I'm Gone",
       "url": "https://open.spotify.com/track/60r0gseRNjgAfF3EiiRFXL"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
-        "name": "Perfect to Me (Acoustic)",
-        "url": "https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 213213,
-      "name": "Perfect To Me - Acoustic",
-      "url": "https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -1799,6 +1783,22 @@
       "duration_ms": 230133,
       "name": "Over My Head (Cable Car) - Live at Sirius Radio, NYC, NY - May 2006",
       "url": "https://open.spotify.com/track/2IQvTnOS1sicZ3plBZL6KR"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "Perfect to Me (Acoustic)",
+        "url": "https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 213213,
+      "name": "Perfect To Me - Acoustic",
+      "url": "https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -1843,6 +1843,22 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
+        "name": "The Temple EP",
+        "url": "https://open.spotify.com/album/6mFi7ayKBXA3tz9ucQ9mb9"
+      },
+      "artists": [
+        {
+          "name": "Parson James",
+          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
+        }
+      ],
+      "duration_ms": 232400,
+      "name": "Waiting Game",
+      "url": "https://open.spotify.com/track/2qLCoKtnmGCzV8fqG6HeR6"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
         "name": "Swalla (Acoustic Version)",
         "url": "https://open.spotify.com/album/032arX7VC6xQ1WbR92jVoy"
       },
@@ -1863,18 +1879,18 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "The Temple EP",
-        "url": "https://open.spotify.com/album/6mFi7ayKBXA3tz9ucQ9mb9"
+        "name": "Don't Call Me Up (Acoustic)",
+        "url": "https://open.spotify.com/album/73I3HpG6A7oIL6hXaIC5Kr"
       },
       "artists": [
         {
-          "name": "Parson James",
-          "url": "https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB"
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
         }
       ],
-      "duration_ms": 232400,
-      "name": "Waiting Game",
-      "url": "https://open.spotify.com/track/2qLCoKtnmGCzV8fqG6HeR6"
+      "duration_ms": 212578,
+      "name": "Don't Call Me Up - Acoustic",
+      "url": "https://open.spotify.com/track/3a8gsld8gQzvfyLfPO1LP1"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -1915,22 +1931,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Don't Call Me Up (Acoustic)",
-        "url": "https://open.spotify.com/album/73I3HpG6A7oIL6hXaIC5Kr"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 212578,
-      "name": "Don't Call Me Up - Acoustic",
-      "url": "https://open.spotify.com/track/3a8gsld8gQzvfyLfPO1LP1"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "Live At AllSaints Studios",
         "url": "https://open.spotify.com/album/22y98JB7rKhh335uj6nDZ4"
       },
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Pretend",
-        "url": "https://open.spotify.com/album/7g2ZA4JCgG8Jxr67i23xlz"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 252476,
-      "name": "Younger - Bonus Track / Acoustic Version",
-      "url": "https://open.spotify.com/track/1Y4wX0FH1JIPrxHNSWJsMR"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "Make It Happen (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5RbJ1jOe7KFVfbB5GOLhUT"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 216776,
       "name": "Sing to You - Acoustic",
       "url": "https://open.spotify.com/track/1pVz7AJO2UZd5ouOhoIlhS"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "Pretend",
+        "url": "https://open.spotify.com/album/7g2ZA4JCgG8Jxr67i23xlz"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 252476,
+      "name": "Younger - Bonus Track / Acoustic Version",
+      "url": "https://open.spotify.com/track/1Y4wX0FH1JIPrxHNSWJsMR"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -2099,6 +2099,42 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
+        "name": "Wood Fire",
+        "url": "https://open.spotify.com/album/1fYNhQcBUClkEmqnuF9ant"
+      },
+      "artists": [
+        {
+          "name": "Cocoon",
+          "url": "https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD"
+        }
+      ],
+      "duration_ms": 187400,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/72usYeVMCh8uc3h2Z5K3JF"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "Dreamers of The Shore",
+        "url": "https://open.spotify.com/album/0EwFSZYlNLASb4kYExEStV"
+      },
+      "artists": [
+        {
+          "name": "Volcan Peaks",
+          "url": "https://open.spotify.com/artist/40wfCZBIiMy5UAWJjkSWuD"
+        },
+        {
+          "name": "Cody Francis",
+          "url": "https://open.spotify.com/artist/1RKbW3DVPPhWHNfParfJ32"
+        }
+      ],
+      "duration_ms": 171908,
+      "name": "Dreamers Of The Shore",
+      "url": "https://open.spotify.com/track/6ZyZGbujKBzxfzcjVOvGW5"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
         "name": "Electricity (Acoustic)",
         "url": "https://open.spotify.com/album/0wbbS6SzQVAMxEOneLpIJd"
       },
@@ -2127,42 +2163,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Dreamers of The Shore",
-        "url": "https://open.spotify.com/album/0EwFSZYlNLASb4kYExEStV"
-      },
-      "artists": [
-        {
-          "name": "Volcan Peaks",
-          "url": "https://open.spotify.com/artist/40wfCZBIiMy5UAWJjkSWuD"
-        },
-        {
-          "name": "Cody Francis",
-          "url": "https://open.spotify.com/artist/1RKbW3DVPPhWHNfParfJ32"
-        }
-      ],
-      "duration_ms": 171908,
-      "name": "Dreamers Of The Shore",
-      "url": "https://open.spotify.com/track/6ZyZGbujKBzxfzcjVOvGW5"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
-        "name": "Wood Fire",
-        "url": "https://open.spotify.com/album/1fYNhQcBUClkEmqnuF9ant"
-      },
-      "artists": [
-        {
-          "name": "Cocoon",
-          "url": "https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD"
-        }
-      ],
-      "duration_ms": 187400,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/72usYeVMCh8uc3h2Z5K3JF"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "Breathe (Acoustic)",
         "url": "https://open.spotify.com/album/4a0yxalMXVlLFNuX6dAdkI"
       },
@@ -2179,6 +2179,22 @@
       "duration_ms": 231253,
       "name": "Breathe - Acoustic",
       "url": "https://open.spotify.com/track/3PRpinHSGqytZnOKwCsR7l"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "All Things Must Pass (50th Anniversary;Super Deluxe)",
+        "url": "https://open.spotify.com/album/1EFOYsAkyfwLkS5OPfobak"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 131333,
+      "name": "Cosmic Empire (Day 2 Demo) (Take 1)",
+      "url": "https://open.spotify.com/track/79h62Y1xkgFH11rSNMvv82"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -2211,22 +2227,6 @@
       "duration_ms": 213666,
       "name": "Happy Now - Acoustic",
       "url": "https://open.spotify.com/track/3aXsAIpsE1VR9FNvW0V4rU"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
-        "name": "All Things Must Pass (50th Anniversary;Super Deluxe)",
-        "url": "https://open.spotify.com/album/1EFOYsAkyfwLkS5OPfobak"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 131333,
-      "name": "Cosmic Empire (Day 2 Demo) (Take 1)",
-      "url": "https://open.spotify.com/track/79h62Y1xkgFH11rSNMvv82"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -2271,22 +2271,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Still Falling For You (Live)",
-        "url": "https://open.spotify.com/album/75gFY0BONpCrfIIlzh1Vi0"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 241283,
-      "name": "Still Falling For You - Live",
-      "url": "https://open.spotify.com/track/26m4W0OdNVDsgDY5relJwj"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "Cover Sessions, Vol. 2",
         "url": "https://open.spotify.com/album/7hh9qCfFuLlaMpjCMzTiZz"
       },
@@ -2299,6 +2283,22 @@
       "duration_ms": 260372,
       "name": "Rolling In The Deep",
       "url": "https://open.spotify.com/track/3bWGIcOnxnaHkc9Wb9BIdK"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "Still Falling For You (Live)",
+        "url": "https://open.spotify.com/album/75gFY0BONpCrfIIlzh1Vi0"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 241283,
+      "name": "Still Falling For You - Live",
+      "url": "https://open.spotify.com/track/26m4W0OdNVDsgDY5relJwj"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Cover Sessions, Vol. 4",
-        "url": "https://open.spotify.com/album/4GRswj5X73eFGhe6QDTRCD"
-      },
-      "artists": [
-        {
-          "name": "Boyce Avenue",
-          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
-        }
-      ],
-      "duration_ms": 204570,
-      "name": "This Is What You Came For",
-      "url": "https://open.spotify.com/track/55GL7yORnb6ZzmmNToE2Ca"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "Catching Feelings (Stripped)",
         "url": "https://open.spotify.com/album/6LimKueHSs3YnbHrELax5s"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 159437,
       "name": "Catching Feelings - Stripped",
       "url": "https://open.spotify.com/track/1VZ2KhSsFjyC3rEptRb1O6"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "Cover Sessions, Vol. 4",
+        "url": "https://open.spotify.com/album/4GRswj5X73eFGhe6QDTRCD"
+      },
+      "artists": [
+        {
+          "name": "Boyce Avenue",
+          "url": "https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv"
+        }
+      ],
+      "duration_ms": 204570,
+      "name": "This Is What You Came For",
+      "url": "https://open.spotify.com/track/55GL7yORnb6ZzmmNToE2Ca"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -2487,6 +2487,22 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
+        "name": "Covers Vol.2",
+        "url": "https://open.spotify.com/album/2sBeBIeMfkYnJ9hZnWxwnS"
+      },
+      "artists": [
+        {
+          "name": "JONA XX",
+          "url": "https://open.spotify.com/artist/13qDiWWIa4Gb6toRGszKKP"
+        }
+      ],
+      "duration_ms": 175121,
+      "name": "Prayer In C",
+      "url": "https://open.spotify.com/track/3xDwdnSZNnKg7zFagrZQGf"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
         "name": "Sitting at the Kids Table (Acoustic)",
         "url": "https://open.spotify.com/album/0DDEbEiu1vOYTFW0jGfoFA"
       },
@@ -2519,38 +2535,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Things I Chose To Remember",
-        "url": "https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 190960,
-      "name": "Under The Sun - Acoustic",
-      "url": "https://open.spotify.com/track/3mP7zuWtH3QQPEWBTXG3RE"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
-        "name": "Covers Vol.2",
-        "url": "https://open.spotify.com/album/2sBeBIeMfkYnJ9hZnWxwnS"
-      },
-      "artists": [
-        {
-          "name": "JONA XX",
-          "url": "https://open.spotify.com/artist/13qDiWWIa4Gb6toRGszKKP"
-        }
-      ],
-      "duration_ms": 175121,
-      "name": "Prayer In C",
-      "url": "https://open.spotify.com/track/3xDwdnSZNnKg7zFagrZQGf"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "Hands All Over (Deluxe)",
         "url": "https://open.spotify.com/album/2H4DCvJiZknLngsD2Yqf6k"
       },
@@ -2563,6 +2547,22 @@
       "duration_ms": 226320,
       "name": "Misery - Acoustic Version",
       "url": "https://open.spotify.com/track/7ueorixD5oJzXskD3APGbA"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "Things I Chose To Remember",
+        "url": "https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 190960,
+      "name": "Under The Sun - Acoustic",
+      "url": "https://open.spotify.com/track/3mP7zuWtH3QQPEWBTXG3RE"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -2619,18 +2619,18 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Unfold",
-        "url": "https://open.spotify.com/album/3MfRPIZRewpJl1CAq0xnmE"
+        "name": "The Covers, Vol. 5",
+        "url": "https://open.spotify.com/album/660ZTDD3FsHdsPmZguPsLG"
       },
       "artists": [
         {
-          "name": "Mari\u00e9 Digby",
-          "url": "https://open.spotify.com/artist/2XMxHczWkSzDDFhiC3zt8k"
+          "name": "Madilyn Bailey",
+          "url": "https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU"
         }
       ],
-      "duration_ms": 228133,
-      "name": "Umbrella - Single Version",
-      "url": "https://open.spotify.com/track/0zcfWe3THIu1yBnjucoPmO"
+      "duration_ms": 219511,
+      "name": "Can't Hold Us",
+      "url": "https://open.spotify.com/track/0QCUpJtArsva9KIgc2TspW"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -2651,6 +2651,22 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
+        "name": "Unfold",
+        "url": "https://open.spotify.com/album/3MfRPIZRewpJl1CAq0xnmE"
+      },
+      "artists": [
+        {
+          "name": "Mari\u00e9 Digby",
+          "url": "https://open.spotify.com/artist/2XMxHczWkSzDDFhiC3zt8k"
+        }
+      ],
+      "duration_ms": 228133,
+      "name": "Umbrella - Single Version",
+      "url": "https://open.spotify.com/track/0zcfWe3THIu1yBnjucoPmO"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
         "name": "For Seasons to Come",
         "url": "https://open.spotify.com/album/2tVnOZF7F6ohwI7al2TG0G"
       },
@@ -2663,22 +2679,6 @@
       "duration_ms": 192000,
       "name": "For Seasons to Come",
       "url": "https://open.spotify.com/track/1HMXW4PoREtAjQiXSw4vHZ"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
-        "name": "The Covers, Vol. 5",
-        "url": "https://open.spotify.com/album/660ZTDD3FsHdsPmZguPsLG"
-      },
-      "artists": [
-        {
-          "name": "Madilyn Bailey",
-          "url": "https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU"
-        }
-      ],
-      "duration_ms": 219511,
-      "name": "Can't Hold Us",
-      "url": "https://open.spotify.com/track/0QCUpJtArsva9KIgc2TspW"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -2715,42 +2715,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Acoustic Hits, Vol. 4",
-        "url": "https://open.spotify.com/album/6zeNaLNHm4ajsYwav0Jq0G"
-      },
-      "artists": [
-        {
-          "name": "Matt Johnson",
-          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
-        }
-      ],
-      "duration_ms": 146519,
-      "name": "Cheerleader - Acoustic Version",
-      "url": "https://open.spotify.com/track/5SQwiRsUnh3V1Sx0nmV79w"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
-        "name": "The Covers, Vol. 4",
-        "url": "https://open.spotify.com/album/1r1kgJO17lyJp6WkCLvBQD"
-      },
-      "artists": [
-        {
-          "name": "Corey Gray",
-          "url": "https://open.spotify.com/artist/6TKKVFCBfak1kInOPl7hCz"
-        },
-        {
-          "name": "Madilyn Bailey",
-          "url": "https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU"
-        }
-      ],
-      "duration_ms": 198424,
-      "name": "Sweet Nothing",
-      "url": "https://open.spotify.com/track/0zACktFLrioxIyHHwv00Kh"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "All Time Low (Acoustic)",
         "url": "https://open.spotify.com/album/32fySVHCiE5LJdJvFo197h"
       },
@@ -2771,6 +2735,22 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
+        "name": "Acoustic Hits, Vol. 4",
+        "url": "https://open.spotify.com/album/6zeNaLNHm4ajsYwav0Jq0G"
+      },
+      "artists": [
+        {
+          "name": "Matt Johnson",
+          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
+        }
+      ],
+      "duration_ms": 146519,
+      "name": "Cheerleader - Acoustic Version",
+      "url": "https://open.spotify.com/track/5SQwiRsUnh3V1Sx0nmV79w"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
         "name": "Boy & Bear at Golden Retriever Studio",
         "url": "https://open.spotify.com/album/6RrsqCPJLgyTX5LG8UBbgr"
       },
@@ -2783,6 +2763,26 @@
       "duration_ms": 187186,
       "name": "Telescope - Acoustic",
       "url": "https://open.spotify.com/track/538NuUdDJkBjumWei86WVH"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "The Covers, Vol. 4",
+        "url": "https://open.spotify.com/album/1r1kgJO17lyJp6WkCLvBQD"
+      },
+      "artists": [
+        {
+          "name": "Corey Gray",
+          "url": "https://open.spotify.com/artist/6TKKVFCBfak1kInOPl7hCz"
+        },
+        {
+          "name": "Madilyn Bailey",
+          "url": "https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU"
+        }
+      ],
+      "duration_ms": 198424,
+      "name": "Sweet Nothing",
+      "url": "https://open.spotify.com/track/0zACktFLrioxIyHHwv00Kh"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -3031,26 +3031,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Paradise (with Olivia Holt) [Acoustic]",
-        "url": "https://open.spotify.com/album/1yjHr8ZFLc0fZ7XhGlOnUQ"
-      },
-      "artists": [
-        {
-          "name": "Brandon Beal",
-          "url": "https://open.spotify.com/artist/7p2aOXY5bfHyjujI3fCWTu"
-        },
-        {
-          "name": "Olivia Holt",
-          "url": "https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf"
-        }
-      ],
-      "duration_ms": 229267,
-      "name": "Paradise (with Olivia Holt) - Acoustic",
-      "url": "https://open.spotify.com/track/6HJLwdHd1JJ2CkfJfPxX98"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "Waiting For Love (Remixes)",
         "url": "https://open.spotify.com/album/0yEH5iJwqTrrqWMmS0OQ1D"
       },
@@ -3071,6 +3051,22 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
+        "name": "Back to You",
+        "url": "https://open.spotify.com/album/69cHIgmGLVQJYO8eFKb9z2"
+      },
+      "artists": [
+        {
+          "name": "Perrin Lamb",
+          "url": "https://open.spotify.com/artist/7CfcrGoabPfkAToFD8oBF3"
+        }
+      ],
+      "duration_ms": 222531,
+      "name": "Everyone\u2019s Got Something",
+      "url": "https://open.spotify.com/track/6fRziw5GRjH4QiSdJIWpQU"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
         "name": "Web Cam Songs",
         "url": "https://open.spotify.com/album/5yttdCN7FWfu0nv0Y3ohV1"
       },
@@ -3087,18 +3083,22 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Back to You",
-        "url": "https://open.spotify.com/album/69cHIgmGLVQJYO8eFKb9z2"
+        "name": "Paradise (with Olivia Holt) [Acoustic]",
+        "url": "https://open.spotify.com/album/1yjHr8ZFLc0fZ7XhGlOnUQ"
       },
       "artists": [
         {
-          "name": "Perrin Lamb",
-          "url": "https://open.spotify.com/artist/7CfcrGoabPfkAToFD8oBF3"
+          "name": "Brandon Beal",
+          "url": "https://open.spotify.com/artist/7p2aOXY5bfHyjujI3fCWTu"
+        },
+        {
+          "name": "Olivia Holt",
+          "url": "https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf"
         }
       ],
-      "duration_ms": 222531,
-      "name": "Everyone\u2019s Got Something",
-      "url": "https://open.spotify.com/track/6fRziw5GRjH4QiSdJIWpQU"
+      "duration_ms": 229267,
+      "name": "Paradise (with Olivia Holt) - Acoustic",
+      "url": "https://open.spotify.com/track/6HJLwdHd1JJ2CkfJfPxX98"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -3231,6 +3231,22 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
+        "name": "Were Up All Night To Get Lucky (Daft Punk feat. Pharrell Williams, Glee Cast Cover)",
+        "url": "https://open.spotify.com/album/4jD3mHTyPCahfjE46KAO8x"
+      },
+      "artists": [
+        {
+          "name": "GMPresents & Jocelyn Scofield",
+          "url": "https://open.spotify.com/artist/0O8Q5C7YcMWghyISchsJsy"
+        }
+      ],
+      "duration_ms": 208681,
+      "name": "Get Lucky",
+      "url": "https://open.spotify.com/track/0I4fIKwHpZBYIlhZWjdX2U"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
         "name": "No Promises",
         "url": "https://open.spotify.com/album/2Xs6I0qZj5SRB35t7uLNje"
       },
@@ -3275,22 +3291,6 @@
       "duration_ms": 243346,
       "name": "Nothin' On You",
       "url": "https://open.spotify.com/track/62q1hnohI2uDDZDtsnqWah"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
-        "name": "Were Up All Night To Get Lucky (Daft Punk feat. Pharrell Williams, Glee Cast Cover)",
-        "url": "https://open.spotify.com/album/4jD3mHTyPCahfjE46KAO8x"
-      },
-      "artists": [
-        {
-          "name": "GMPresents & Jocelyn Scofield",
-          "url": "https://open.spotify.com/artist/0O8Q5C7YcMWghyISchsJsy"
-        }
-      ],
-      "duration_ms": 208681,
-      "name": "Get Lucky",
-      "url": "https://open.spotify.com/track/0I4fIKwHpZBYIlhZWjdX2U"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -3391,6 +3391,22 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
+        "name": "Thumbs (Acoustic)",
+        "url": "https://open.spotify.com/album/2q3ZRR1ucbsr9XMcewLrU8"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 204274,
+      "name": "Thumbs - Acoustic",
+      "url": "https://open.spotify.com/track/1soAeZZbjaECAC5IH0CNiL"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
         "name": "Look Away (Acoustic)",
         "url": "https://open.spotify.com/album/2DcbeYyXKzu4C5kgKn0IRb"
       },
@@ -3407,18 +3423,18 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Thumbs (Acoustic)",
-        "url": "https://open.spotify.com/album/2q3ZRR1ucbsr9XMcewLrU8"
+        "name": "Acoustic Hits, Vol. 3",
+        "url": "https://open.spotify.com/album/6DgPb9m6bFy34yDsMDkPfc"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Matt Johnson",
+          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
         }
       ],
-      "duration_ms": 204274,
-      "name": "Thumbs - Acoustic",
-      "url": "https://open.spotify.com/track/1soAeZZbjaECAC5IH0CNiL"
+      "duration_ms": 145200,
+      "name": "Sorry - Acoustic Live Lounge",
+      "url": "https://open.spotify.com/track/46W3PqcQKnpYMc27pp2F4F"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -3443,18 +3459,22 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Acoustic Hits, Vol. 3",
-        "url": "https://open.spotify.com/album/6DgPb9m6bFy34yDsMDkPfc"
+        "name": "The Covers, Vol. 1",
+        "url": "https://open.spotify.com/album/7vcGprB2VE7n73NwLHy2Cm"
       },
       "artists": [
         {
-          "name": "Matt Johnson",
-          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
+          "name": "Jake Coco",
+          "url": "https://open.spotify.com/artist/6WyeyhNDpeIVbznnztFDQZ"
+        },
+        {
+          "name": "Madilyn Bailey",
+          "url": "https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU"
         }
       ],
-      "duration_ms": 145200,
-      "name": "Sorry - Acoustic Live Lounge",
-      "url": "https://open.spotify.com/track/46W3PqcQKnpYMc27pp2F4F"
+      "duration_ms": 200587,
+      "name": "Drive By",
+      "url": "https://open.spotify.com/track/34exKoBMqyNx8gz9WB4qRk"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -3479,26 +3499,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "The Covers, Vol. 1",
-        "url": "https://open.spotify.com/album/7vcGprB2VE7n73NwLHy2Cm"
-      },
-      "artists": [
-        {
-          "name": "Jake Coco",
-          "url": "https://open.spotify.com/artist/6WyeyhNDpeIVbznnztFDQZ"
-        },
-        {
-          "name": "Madilyn Bailey",
-          "url": "https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU"
-        }
-      ],
-      "duration_ms": 200587,
-      "name": "Drive By",
-      "url": "https://open.spotify.com/track/34exKoBMqyNx8gz9WB4qRk"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "Shake It Off",
         "url": "https://open.spotify.com/album/73JSumL9fEU1txY72F3uZR"
       },
@@ -3511,6 +3511,22 @@
       "duration_ms": 213046,
       "name": "Shake It Off",
       "url": "https://open.spotify.com/track/7nOaQdcXWnkihLcWPzLQMB"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "Cover Sessions, Vol.3",
+        "url": "https://open.spotify.com/album/5I0AQeCqNNQvd4KQhTm2Nj"
+      },
+      "artists": [
+        {
+          "name": "Emma Heesters",
+          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "One Dance",
+      "url": "https://open.spotify.com/track/0Ib5UzoZMtdgDQm1jlZDHk"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -3531,18 +3547,18 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Cover Sessions, Vol.3",
-        "url": "https://open.spotify.com/album/5I0AQeCqNNQvd4KQhTm2Nj"
+        "name": "Acoustic Hits, Vol. 4",
+        "url": "https://open.spotify.com/album/6zeNaLNHm4ajsYwav0Jq0G"
       },
       "artists": [
         {
-          "name": "Emma Heesters",
-          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
+          "name": "Matt Johnson",
+          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
         }
       ],
-      "duration_ms": 189473,
-      "name": "One Dance",
-      "url": "https://open.spotify.com/track/0Ib5UzoZMtdgDQm1jlZDHk"
+      "duration_ms": 181421,
+      "name": "Blame / Love Me Again - Acoustic Mashup",
+      "url": "https://open.spotify.com/track/1l1wHuRrHyuWNkaVjYxfvZ"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -3591,22 +3607,6 @@
       "duration_ms": 165506,
       "name": "Million Ways - Acoustic",
       "url": "https://open.spotify.com/track/7tq4nl4WgpuHz0Nvn4lMck"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
-        "name": "Acoustic Hits, Vol. 4",
-        "url": "https://open.spotify.com/album/6zeNaLNHm4ajsYwav0Jq0G"
-      },
-      "artists": [
-        {
-          "name": "Matt Johnson",
-          "url": "https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A"
-        }
-      ],
-      "duration_ms": 181421,
-      "name": "Blame / Love Me Again - Acoustic Mashup",
-      "url": "https://open.spotify.com/track/1l1wHuRrHyuWNkaVjYxfvZ"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -3679,22 +3679,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Web Cam Songs",
-        "url": "https://open.spotify.com/album/5yttdCN7FWfu0nv0Y3ohV1"
-      },
-      "artists": [
-        {
-          "name": "Tyler Ward",
-          "url": "https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg"
-        }
-      ],
-      "duration_ms": 191470,
-      "name": "Suit & Tie",
-      "url": "https://open.spotify.com/track/1y7MwYVz214Z3xJTrJUKzF"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "All The Fucking Time",
         "url": "https://open.spotify.com/album/03XismopzA2tyBMH58uE7k"
       },
@@ -3707,6 +3691,22 @@
       "duration_ms": 149973,
       "name": "All The Fucking Time - Acoustic",
       "url": "https://open.spotify.com/track/5fPehuzkcZkDFFCwf3fRrc"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "Web Cam Songs",
+        "url": "https://open.spotify.com/album/5yttdCN7FWfu0nv0Y3ohV1"
+      },
+      "artists": [
+        {
+          "name": "Tyler Ward",
+          "url": "https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg"
+        }
+      ],
+      "duration_ms": 191470,
+      "name": "Suit & Tie",
+      "url": "https://open.spotify.com/track/1y7MwYVz214Z3xJTrJUKzF"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -3775,22 +3775,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Gimme (Acoustic)",
-        "url": "https://open.spotify.com/album/0Nz7805epalyS1IujuQFBn"
-      },
-      "artists": [
-        {
-          "name": "Megan Davies",
-          "url": "https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Gimme (Acoustic)",
-      "url": "https://open.spotify.com/track/2aNCeBozR6105qJQN5kfm7"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "Can't Hold Us (Acoustic)",
         "url": "https://open.spotify.com/album/3fY2zDDnGQF0iuN8jBOb9L"
       },
@@ -3807,6 +3791,38 @@
       "duration_ms": 199714,
       "name": "Can't Hold Us - Acoustic",
       "url": "https://open.spotify.com/track/1wq1UtonmZYKJxFjPa6SlX"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "Gimme (Acoustic)",
+        "url": "https://open.spotify.com/album/0Nz7805epalyS1IujuQFBn"
+      },
+      "artists": [
+        {
+          "name": "Megan Davies",
+          "url": "https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Gimme (Acoustic)",
+      "url": "https://open.spotify.com/track/2aNCeBozR6105qJQN5kfm7"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "Don't Be So Hard On Yourself Loop Cover",
+        "url": "https://open.spotify.com/album/4VAbXZj1suzgoim5DBsvc5"
+      },
+      "artists": [
+        {
+          "name": "Ben Woodward",
+          "url": "https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn"
+        }
+      ],
+      "duration_ms": 188499,
+      "name": "Don't Be So Hard On Yourself Loop Cover",
+      "url": "https://open.spotify.com/track/2wV91wmcT3Qn2SxsfTVRsq"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -3847,22 +3863,6 @@
       "duration_ms": 238811,
       "name": "I Know What You Did Last Summer (Acoustic)",
       "url": "https://open.spotify.com/track/1d4vRGY5dfRWbKZrv6uU0E"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
-        "name": "Don't Be So Hard On Yourself Loop Cover",
-        "url": "https://open.spotify.com/album/4VAbXZj1suzgoim5DBsvc5"
-      },
-      "artists": [
-        {
-          "name": "Ben Woodward",
-          "url": "https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn"
-        }
-      ],
-      "duration_ms": 188499,
-      "name": "Don't Be So Hard On Yourself Loop Cover",
-      "url": "https://open.spotify.com/track/2wV91wmcT3Qn2SxsfTVRsq"
     },
     {
       "added_at": "2023-10-23 17:16:09",
@@ -3947,22 +3947,6 @@
     {
       "added_at": "2023-10-23 17:16:09",
       "album": {
-        "name": "Tyler Ward Covers, Vol. 5",
-        "url": "https://open.spotify.com/album/0btFx3XFaoLDkJArPlxWEt"
-      },
-      "artists": [
-        {
-          "name": "Tyler Ward",
-          "url": "https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg"
-        }
-      ],
-      "duration_ms": 130578,
-      "name": "I Want You Back",
-      "url": "https://open.spotify.com/track/1edPtZh5Mik6ULPiiJIAIB"
-    },
-    {
-      "added_at": "2023-10-23 17:16:09",
-      "album": {
         "name": "DEADTHEACOUSTIC",
         "url": "https://open.spotify.com/album/2bA9q1Cy1t8AHZDteuEij8"
       },
@@ -3975,6 +3959,22 @@
       "duration_ms": 126918,
       "name": "Too Good - Acoustic",
       "url": "https://open.spotify.com/track/03OnNoSXz2T93JKlE4JCh1"
+    },
+    {
+      "added_at": "2023-10-23 17:16:09",
+      "album": {
+        "name": "Tyler Ward Covers, Vol. 5",
+        "url": "https://open.spotify.com/album/0btFx3XFaoLDkJArPlxWEt"
+      },
+      "artists": [
+        {
+          "name": "Tyler Ward",
+          "url": "https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg"
+        }
+      ],
+      "duration_ms": 130578,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/1edPtZh5Mik6ULPiiJIAIB"
     },
     {
       "added_at": "2023-10-23 17:16:09",

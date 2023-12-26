@@ -1,12 +1,12 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 539135,
+  "num_followers": 539144,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjNkN2IwMDNkZTYzMDBmYzlkYjNhM2ZhNDI0NjYzZmQyMGUzN2M2",
+  "snapshot_id": "MCw1ODE2NWJmMWQzODlhODQwN2ZlYTdhM2JkOGM2MGU0NGMzYmY5Yjg4",
   "tracks": [
     {
       "added_at": "2023-10-06 04:01:00",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 352440,
+      "name": "Song For The Dead",
+      "url": "https://open.spotify.com/track/66UbHESsyfaXdoxlqVBa1T"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Age of Winters",
         "url": "https://open.spotify.com/album/1GyHRxKZ2DUsOrXSKuJUtC"
       },
@@ -331,18 +347,18 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Songs For The Deaf",
-        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
+        "name": "Welcome to Sky Valley",
+        "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
       },
       "artists": [
         {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+          "name": "Kyuss",
+          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
         }
       ],
-      "duration_ms": 352440,
-      "name": "Song For The Dead",
-      "url": "https://open.spotify.com/track/66UbHESsyfaXdoxlqVBa1T"
+      "duration_ms": 311906,
+      "name": "Demon Cleaner",
+      "url": "https://open.spotify.com/track/3HzOTfm6FVu4qXRDDdT3t0"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -379,22 +395,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Welcome to Sky Valley",
-        "url": "https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq"
-      },
-      "artists": [
-        {
-          "name": "Kyuss",
-          "url": "https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs"
-        }
-      ],
-      "duration_ms": 311906,
-      "name": "Demon Cleaner",
-      "url": "https://open.spotify.com/track/3HzOTfm6FVu4qXRDDdT3t0"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Tame Impala",
         "url": "https://open.spotify.com/album/2aoEKkx2CaybhYNiu4o2rQ"
       },
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Mars Red Sky",
-        "url": "https://open.spotify.com/album/6nEiLfcZ4nJ5SW0o3VibX0"
+        "name": "Queens of the Stone Age",
+        "url": "https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp"
       },
       "artists": [
         {
-          "name": "Mars Red Sky",
-          "url": "https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ"
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
         }
       ],
-      "duration_ms": 329626,
-      "name": "Strong Reflection",
-      "url": "https://open.spotify.com/track/3ITVfnOWqufdNq3rD0lFsh"
+      "duration_ms": 277808,
+      "name": "Regular John",
+      "url": "https://open.spotify.com/track/0R0m9mTXa81zp1qtcU3dSR"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Mars Red Sky",
+        "url": "https://open.spotify.com/album/6nEiLfcZ4nJ5SW0o3VibX0"
+      },
+      "artists": [
+        {
+          "name": "Mars Red Sky",
+          "url": "https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ"
+        }
+      ],
+      "duration_ms": 329626,
+      "name": "Strong Reflection",
+      "url": "https://open.spotify.com/track/3ITVfnOWqufdNq3rD0lFsh"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Legend",
         "url": "https://open.spotify.com/album/0SarnHDFSff7x2ziE4Ajrp"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 309986,
       "name": "Deconstruction",
       "url": "https://open.spotify.com/track/0IOu6NlseiiSm1VaEEbVOt"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Queens of the Stone Age",
-        "url": "https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 277808,
-      "name": "Regular John",
-      "url": "https://open.spotify.com/track/0R0m9mTXa81zp1qtcU3dSR"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/0SarnHDFSff7x2ziE4Ajrp"
-      },
-      "artists": [
-        {
-          "name": "Witchcraft",
-          "url": "https://open.spotify.com/artist/3HVmba1wHgrLVsVC5IIzkG"
-        }
-      ],
-      "duration_ms": 317600,
-      "name": "An Alternative to Freedom",
-      "url": "https://open.spotify.com/track/0fATnWJXdt6ke5kR2klu7g"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Dopes To Infinity",
         "url": "https://open.spotify.com/album/6Dh8ASautDuCAtsWebqyGS"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 267933,
       "name": "Negasonic Teenage Warhead",
       "url": "https://open.spotify.com/track/39M82JuLd0Fe6w62q0zPMF"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/0SarnHDFSff7x2ziE4Ajrp"
+      },
+      "artists": [
+        {
+          "name": "Witchcraft",
+          "url": "https://open.spotify.com/artist/3HVmba1wHgrLVsVC5IIzkG"
+        }
+      ],
+      "duration_ms": 317600,
+      "name": "An Alternative to Freedom",
+      "url": "https://open.spotify.com/track/0fATnWJXdt6ke5kR2klu7g"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Blood Lust",
-        "url": "https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3"
-      },
-      "artists": [
-        {
-          "name": "Uncle Acid & The Deadbeats",
-          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
-        }
-      ],
-      "duration_ms": 435213,
-      "name": "Death's Door",
-      "url": "https://open.spotify.com/track/0Af99n8xtgGe57zDumMcOT"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "No Comfort",
         "url": "https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0"
       },
@@ -875,6 +859,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Blood Lust",
+        "url": "https://open.spotify.com/album/4o75UnpEUlCE2eA6HaVwW3"
+      },
+      "artists": [
+        {
+          "name": "Uncle Acid & The Deadbeats",
+          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
+        }
+      ],
+      "duration_ms": 435213,
+      "name": "Death's Door",
+      "url": "https://open.spotify.com/track/0Af99n8xtgGe57zDumMcOT"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "GAUPA",
         "url": "https://open.spotify.com/album/1zCtx2csLzFU3cLdsCplyC"
       },
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "King of Cowards",
-        "url": "https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS"
-      },
-      "artists": [
-        {
-          "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
-          "url": "https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU"
-        }
-      ],
-      "duration_ms": 349330,
-      "name": "GNT",
-      "url": "https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Dead Rock Commandos",
         "url": "https://open.spotify.com/album/4BhPnZbzvNlm4pmIIFaXvK"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 196853,
       "name": "Dead Rock Commandos",
       "url": "https://open.spotify.com/track/4qBh3lrE2YiD3qlc3quiJZ"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "King of Cowards",
+        "url": "https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS"
+      },
+      "artists": [
+        {
+          "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
+          "url": "https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU"
+        }
+      ],
+      "duration_ms": 349330,
+      "name": "GNT",
+      "url": "https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Only a Suggestion",
-        "url": "https://open.spotify.com/album/6g4e3epvCUwb3RZ3cJ3G7O"
-      },
-      "artists": [
-        {
-          "name": "Hermano",
-          "url": "https://open.spotify.com/artist/0x7UDEGg5P2hFiaQFHeXPy"
-        }
-      ],
-      "duration_ms": 282160,
-      "name": "The Bottle",
-      "url": "https://open.spotify.com/track/0CzGlQMDVxdHXxWpu0Yqbj"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Dopethrone",
         "url": "https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 389466,
       "name": "Barbarian",
       "url": "https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Only a Suggestion",
+        "url": "https://open.spotify.com/album/6g4e3epvCUwb3RZ3cJ3G7O"
+      },
+      "artists": [
+        {
+          "name": "Hermano",
+          "url": "https://open.spotify.com/artist/0x7UDEGg5P2hFiaQFHeXPy"
+        }
+      ],
+      "duration_ms": 282160,
+      "name": "The Bottle",
+      "url": "https://open.spotify.com/track/0CzGlQMDVxdHXxWpu0Yqbj"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/3PmIQlefjUIPlp6bnZgCfH"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Sun",
+          "url": "https://open.spotify.com/artist/4CL0ezfJvQDkDmjMG7XrV0"
+        }
+      ],
+      "duration_ms": 316777,
+      "name": "Desert God",
+      "url": "https://open.spotify.com/track/021lCeWeMoHwvthf8pPHr6"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Damned by Fate",
         "url": "https://open.spotify.com/album/1b4MF64Y2qGMC7sWGzBdnC"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 300666,
       "name": "The Seeker",
       "url": "https://open.spotify.com/track/0LSnaEMI7VhaPsCSvVrRw2"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/3PmIQlefjUIPlp6bnZgCfH"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Sun",
-          "url": "https://open.spotify.com/artist/4CL0ezfJvQDkDmjMG7XrV0"
-        }
-      ],
-      "duration_ms": 316777,
-      "name": "Desert God",
-      "url": "https://open.spotify.com/track/021lCeWeMoHwvthf8pPHr6"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "The Crucible",
-        "url": "https://open.spotify.com/album/3QAl6LRt3ruGhoCOQOdcyl"
+        "name": "Superjudge",
+        "url": "https://open.spotify.com/album/1JQ37QyKofGEp5UEz3Gay4"
       },
       "artists": [
         {
-          "name": "Motorpsycho",
-          "url": "https://open.spotify.com/artist/2bNIAjyL3hFCuQBQqhPN4T"
+          "name": "Monster Magnet",
+          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
         }
       ],
-      "duration_ms": 523466,
-      "name": "Psychotzar",
-      "url": "https://open.spotify.com/track/0KzZugT2zOfg3U0ZkD2Iq3"
+      "duration_ms": 409466,
+      "name": "Superjudge",
+      "url": "https://open.spotify.com/track/0YMwyd5XZzHZZuRFCj04Zs"
     }
   ],
   "unique_name": "Stoner Rock",

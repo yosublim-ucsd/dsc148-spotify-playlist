@@ -1,12 +1,12 @@
 {
   "description": "90\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 11457,
+  "num_followers": 11460,
   "original_name": "90\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjdmNzE0YmRlYzcyYTA0OTdjN2M5ZDdkZTgwNjg4MjcwYjllMzRk",
+  "snapshot_id": "MCw4N2M0ZTA0MGQ3YTI4OTE4NmRiNmI3NWFkZDZlMTFjNDMyMWQ1ZTdm",
   "tracks": [
     {
       "added_at": "2021-03-11 16:28:13",
@@ -43,22 +43,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "We Hate All Kinds of Violence... - The 1st Album",
-        "url": "https://open.spotify.com/album/23Xh3YpgzRuJ2DAW5X7MsP"
-      },
-      "artists": [
-        {
-          "name": "H.O.T.",
-          "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
-        }
-      ],
-      "duration_ms": 217226,
-      "name": "CANDY",
-      "url": "https://open.spotify.com/track/0K25zmumCzn2kFmh9zcLWy"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "\uae40\uc131\uc7ac",
         "url": "https://open.spotify.com/album/2bklVpbuK5jsVrLpebiu9o"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 215849,
       "name": "\ub9d0\ud558\uc790\uba74",
       "url": "https://open.spotify.com/track/3fCkxCmaOwJ8UuZD1N4Okx"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "We Hate All Kinds of Violence... - The 1st Album",
+        "url": "https://open.spotify.com/album/23Xh3YpgzRuJ2DAW5X7MsP"
+      },
+      "artists": [
+        {
+          "name": "H.O.T.",
+          "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
+        }
+      ],
+      "duration_ms": 217226,
+      "name": "CANDY",
+      "url": "https://open.spotify.com/track/0K25zmumCzn2kFmh9zcLWy"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -155,38 +155,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Resurrection - The 3rd Album",
-        "url": "https://open.spotify.com/album/0yJ02boB03UsjObzoXJ5O4"
-      },
-      "artists": [
-        {
-          "name": "H.O.T.",
-          "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
-        }
-      ],
-      "duration_ms": 260626,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/0LW6E8rEAltX9Svci5M3Z1"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "S.E.S. - The 1st Album",
-        "url": "https://open.spotify.com/album/795tqw58HZUK0Gro9GvneZ"
-      },
-      "artists": [
-        {
-          "name": "S.E.S.",
-          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
-        }
-      ],
-      "duration_ms": 225560,
-      "name": "(\u2032Cause) I\u2032m Your Girl",
-      "url": "https://open.spotify.com/track/5I8mg57tDvhGGGC3x14mIZ"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "Seotaiji and Boys IV",
         "url": "https://open.spotify.com/album/6wZ64exaxdBrA0bK1zciva"
       },
@@ -215,6 +183,38 @@
       "duration_ms": 251846,
       "name": "\ud30c\ub3c4",
       "url": "https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "Resurrection - The 3rd Album",
+        "url": "https://open.spotify.com/album/0yJ02boB03UsjObzoXJ5O4"
+      },
+      "artists": [
+        {
+          "name": "H.O.T.",
+          "url": "https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS"
+        }
+      ],
+      "duration_ms": 260626,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/0LW6E8rEAltX9Svci5M3Z1"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "S.E.S. - The 1st Album",
+        "url": "https://open.spotify.com/album/795tqw58HZUK0Gro9GvneZ"
+      },
+      "artists": [
+        {
+          "name": "S.E.S.",
+          "url": "https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM"
+        }
+      ],
+      "duration_ms": 225560,
+      "name": "(\u2032Cause) I\u2032m Your Girl",
+      "url": "https://open.spotify.com/track/5I8mg57tDvhGGGC3x14mIZ"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -283,6 +283,38 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/4X2WK3i0Gkxv42SedSbWoW"
+      },
+      "artists": [
+        {
+          "name": "Fin.K.L",
+          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
+        }
+      ],
+      "duration_ms": 234888,
+      "name": "White",
+      "url": "https://open.spotify.com/track/37Bv9wyQg01DjaMe4uj93a"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "\ub178.\ub77c.\ubcf4.\uc138.",
+        "url": "https://open.spotify.com/album/1tuwThsZGSZiqNxM03e4li"
+      },
+      "artists": [
+        {
+          "name": "JINUSEAN",
+          "url": "https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv"
+        }
+      ],
+      "duration_ms": 212306,
+      "name": "Phone Number",
+      "url": "https://open.spotify.com/track/7IErrQn4dPUf5ch0EQVEPp"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
         "name": "Wolf And Sheep",
         "url": "https://open.spotify.com/album/2RWrsv0kIKreXvm7IrMeYN"
       },
@@ -311,54 +343,6 @@
       "duration_ms": 228000,
       "name": "Just A Feeling - Original Version",
       "url": "https://open.spotify.com/track/7BrWFGg6iIfSVDO7IVKAbN"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "White",
-        "url": "https://open.spotify.com/album/3R230pIzgmAoN9wP5M5DLi"
-      },
-      "artists": [
-        {
-          "name": "Fin.K.L",
-          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
-        }
-      ],
-      "duration_ms": 249226,
-      "name": "Eternal Love",
-      "url": "https://open.spotify.com/track/5Z9XEChtLbIozP1JQlEjFP"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "\ub178.\ub77c.\ubcf4.\uc138.",
-        "url": "https://open.spotify.com/album/1tuwThsZGSZiqNxM03e4li"
-      },
-      "artists": [
-        {
-          "name": "JINUSEAN",
-          "url": "https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv"
-        }
-      ],
-      "duration_ms": 212306,
-      "name": "Phone Number",
-      "url": "https://open.spotify.com/track/7IErrQn4dPUf5ch0EQVEPp"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "PERFECT LOVE",
-        "url": "https://open.spotify.com/album/5a9jEV89Z6yWa6zxam79of"
-      },
-      "artists": [
-        {
-          "name": "TURBO",
-          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
-        }
-      ],
-      "duration_ms": 200097,
-      "name": "White love",
-      "url": "https://open.spotify.com/track/3DMDjAQIOltnIUvIyUjUT4"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -443,8 +427,8 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "280KM SPEED",
-        "url": "https://open.spotify.com/album/3v28A8eeQlCOnsGZlwsfVI"
+        "name": "PERFECT LOVE",
+        "url": "https://open.spotify.com/album/5a9jEV89Z6yWa6zxam79of"
       },
       "artists": [
         {
@@ -452,9 +436,25 @@
           "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
         }
       ],
-      "duration_ms": 193085,
-      "name": "\uac80\uc740 \uace0\uc591\uc774 \ub124\ub85c",
-      "url": "https://open.spotify.com/track/6Ykaa9o0JR7j06sk1jfXKJ"
+      "duration_ms": 200097,
+      "name": "White love",
+      "url": "https://open.spotify.com/track/3DMDjAQIOltnIUvIyUjUT4"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "White",
+        "url": "https://open.spotify.com/album/3R230pIzgmAoN9wP5M5DLi"
+      },
+      "artists": [
+        {
+          "name": "Fin.K.L",
+          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
+        }
+      ],
+      "duration_ms": 249226,
+      "name": "Eternal Love",
+      "url": "https://open.spotify.com/track/5Z9XEChtLbIozP1JQlEjFP"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -475,22 +475,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Fine Killing Liberty : Blue Rain",
-        "url": "https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe"
-      },
-      "artists": [
-        {
-          "name": "Fin.K.L",
-          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
-        }
-      ],
-      "duration_ms": 238466,
-      "name": "To My Boyfriend",
-      "url": "https://open.spotify.com/track/0qD5kstOSUeLUQgW3cuhcD"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "Once N 4 All",
         "url": "https://open.spotify.com/album/1ezAh7aCsuTvnb3g2WIprH"
       },
@@ -507,22 +491,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Cool Best",
-        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
-      },
-      "artists": [
-        {
-          "name": "COOL",
-          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
-        }
-      ],
-      "duration_ms": 243488,
-      "name": "\uc2ac\ud37c\uc9c0\ub824\ud558\uae30\uc804\uc5d0",
-      "url": "https://open.spotify.com/track/2TmvAnJwf0APYJBnGDg4N4"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "Chapter 5 Letter",
         "url": "https://open.spotify.com/album/50TP0Mj8SX6qy13FbKfOCy"
       },
@@ -535,6 +503,22 @@
       "duration_ms": 228866,
       "name": "0%",
       "url": "https://open.spotify.com/track/4QyJ9NbwZSXu9wcQpHiwqP"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "Cool Best",
+        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
+      },
+      "artists": [
+        {
+          "name": "COOL",
+          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
+        }
+      ],
+      "duration_ms": 243488,
+      "name": "\uc2ac\ud37c\uc9c0\ub824\ud558\uae30\uc804\uc5d0",
+      "url": "https://open.spotify.com/track/2TmvAnJwf0APYJBnGDg4N4"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -571,6 +555,22 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
+        "name": "280KM SPEED",
+        "url": "https://open.spotify.com/album/3v28A8eeQlCOnsGZlwsfVI"
+      },
+      "artists": [
+        {
+          "name": "TURBO",
+          "url": "https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G"
+        }
+      ],
+      "duration_ms": 193085,
+      "name": "\uac80\uc740 \uace0\uc591\uc774 \ub124\ub85c",
+      "url": "https://open.spotify.com/track/6Ykaa9o0JR7j06sk1jfXKJ"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
         "name": "Rhythm Light Beat Black",
         "url": "https://open.spotify.com/album/4gGo7s9JdJAohetReMJTpI"
       },
@@ -603,24 +603,8 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Jungle New Style",
-        "url": "https://open.spotify.com/album/3Il58xylKEfnn8clhyWpJU"
-      },
-      "artists": [
-        {
-          "name": "Park Mi Kyung",
-          "url": "https://open.spotify.com/artist/7vMwmuQgDCbHQNdd7Kj3vV"
-        }
-      ],
-      "duration_ms": 252493,
-      "name": "Eve's Warning",
-      "url": "https://open.spotify.com/track/2HZ8C7JkjJWSBA84bYaH1R"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/4X2WK3i0Gkxv42SedSbWoW"
+        "name": "Fine Killing Liberty : Blue Rain",
+        "url": "https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe"
       },
       "artists": [
         {
@@ -628,9 +612,9 @@
           "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
         }
       ],
-      "duration_ms": 234888,
-      "name": "White",
-      "url": "https://open.spotify.com/track/37Bv9wyQg01DjaMe4uj93a"
+      "duration_ms": 238466,
+      "name": "To My Boyfriend",
+      "url": "https://open.spotify.com/track/0qD5kstOSUeLUQgW3cuhcD"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -651,18 +635,18 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
-        "url": "https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO"
+        "name": "Jungle New Style",
+        "url": "https://open.spotify.com/album/3Il58xylKEfnn8clhyWpJU"
       },
       "artists": [
         {
-          "name": "Roo'RA",
-          "url": "https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca"
+          "name": "Park Mi Kyung",
+          "url": "https://open.spotify.com/artist/7vMwmuQgDCbHQNdd7Kj3vV"
         }
       ],
-      "duration_ms": 242341,
-      "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
-      "url": "https://open.spotify.com/track/2X8dHI8PeFg9h8iFwdfsEz"
+      "duration_ms": 252493,
+      "name": "Eve's Warning",
+      "url": "https://open.spotify.com/track/2HZ8C7JkjJWSBA84bYaH1R"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -687,6 +671,22 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
+        "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
+        "url": "https://open.spotify.com/album/2FtHrfBijh49IGnbjtlScO"
+      },
+      "artists": [
+        {
+          "name": "Roo'RA",
+          "url": "https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca"
+        }
+      ],
+      "duration_ms": 242341,
+      "name": "\ub0a0\uac1c \uc783\uc740 \ucc9c\uc0ac",
+      "url": "https://open.spotify.com/track/2X8dHI8PeFg9h8iFwdfsEz"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
         "name": "One Time For Your Mind",
         "url": "https://open.spotify.com/album/2SVamLzGfpr4QCyCWjmXjT"
       },
@@ -699,6 +699,22 @@
       "duration_ms": 210626,
       "name": "1Tym",
       "url": "https://open.spotify.com/track/3LjJ0Hjqot5HDeL172lAcw"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "Now",
+        "url": "https://open.spotify.com/album/7u9Yum8NlMqnS8FtdgSZdO"
+      },
+      "artists": [
+        {
+          "name": "Fin.K.L",
+          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
+        }
+      ],
+      "duration_ms": 211426,
+      "name": "Now",
+      "url": "https://open.spotify.com/track/2lo3hI7t1AQCCoeqrxYexu"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -783,22 +799,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Now",
-        "url": "https://open.spotify.com/album/7u9Yum8NlMqnS8FtdgSZdO"
-      },
-      "artists": [
-        {
-          "name": "Fin.K.L",
-          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
-        }
-      ],
-      "duration_ms": 211426,
-      "name": "Now",
-      "url": "https://open.spotify.com/track/2lo3hI7t1AQCCoeqrxYexu"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "Chapter 2",
         "url": "https://open.spotify.com/album/6qyK6jVYnjx9lX6ywivZ9D"
       },
@@ -811,6 +811,22 @@
       "duration_ms": 215066,
       "name": "Friday Night",
       "url": "https://open.spotify.com/track/6HW5rmg4NtHTWQExmbh9Wa"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "Fine Killing Liberty : Blue Rain",
+        "url": "https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe"
+      },
+      "artists": [
+        {
+          "name": "Fin.K.L",
+          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
+        }
+      ],
+      "duration_ms": 251973,
+      "name": "Ruby",
+      "url": "https://open.spotify.com/track/10dxjxvKWTuJmG6vBKMz8j"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -863,22 +879,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Fine Killing Liberty : Blue Rain",
-        "url": "https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe"
-      },
-      "artists": [
-        {
-          "name": "Fin.K.L",
-          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
-        }
-      ],
-      "duration_ms": 251973,
-      "name": "Ruby",
-      "url": "https://open.spotify.com/track/10dxjxvKWTuJmG6vBKMz8j"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "LOVE - The 3rd Album",
         "url": "https://open.spotify.com/album/0CCksGwhBwxJlwvpkjw7VR"
       },
@@ -911,22 +911,6 @@
       "duration_ms": 195508,
       "name": "Tell Me One More Time",
       "url": "https://open.spotify.com/track/3aQAxjZAl2lhXD1OISjKuQ"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "Seotaiji and Boys",
-        "url": "https://open.spotify.com/album/53OG0dLStOizLfNxsD3LPr"
-      },
-      "artists": [
-        {
-          "name": "Seo Taiji and Boys",
-          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
-        }
-      ],
-      "duration_ms": 204320,
-      "name": "I Know - 92 TV Edit",
-      "url": "https://open.spotify.com/track/28v5XsF5Weg0SeXK3xSKcV"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -979,22 +963,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "The Reign",
-        "url": "https://open.spotify.com/album/2mtlNInQJMycvTN1losasj"
-      },
-      "artists": [
-        {
-          "name": "JINUSEAN",
-          "url": "https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv"
-        }
-      ],
-      "duration_ms": 225946,
-      "name": "A-Yo",
-      "url": "https://open.spotify.com/track/0VmxLVoAW9AR5cNm7JKIqY"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "Second Birth",
         "url": "https://open.spotify.com/album/62tR9ZoFJr4GcfTMgjDacm"
       },
@@ -1023,6 +991,38 @@
       "duration_ms": 208440,
       "name": "Hey, Come On!",
       "url": "https://open.spotify.com/track/5VOTPW5potAFI9gH3QrjV5"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "Seotaiji and Boys",
+        "url": "https://open.spotify.com/album/53OG0dLStOizLfNxsD3LPr"
+      },
+      "artists": [
+        {
+          "name": "Seo Taiji and Boys",
+          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
+        }
+      ],
+      "duration_ms": 204320,
+      "name": "I Know - 92 TV Edit",
+      "url": "https://open.spotify.com/track/28v5XsF5Weg0SeXK3xSKcV"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "The Reign",
+        "url": "https://open.spotify.com/album/2mtlNInQJMycvTN1losasj"
+      },
+      "artists": [
+        {
+          "name": "JINUSEAN",
+          "url": "https://open.spotify.com/artist/4WItSECPefckW11qSnZXyv"
+        }
+      ],
+      "duration_ms": 225946,
+      "name": "A-Yo",
+      "url": "https://open.spotify.com/track/0VmxLVoAW9AR5cNm7JKIqY"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Seotaiji and Boys II",
-        "url": "https://open.spotify.com/album/2Jtnnru7rcvRnU4tywT4X7"
-      },
-      "artists": [
-        {
-          "name": "Seo Taiji and Boys",
-          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
-        }
-      ],
-      "duration_ms": 314933,
-      "name": "Anyhow Song",
-      "url": "https://open.spotify.com/track/0FGrzqdJWFAzO6JTWttcWM"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "Cool Best",
         "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
       },
@@ -1127,6 +1111,22 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
+        "name": "Seotaiji and Boys II",
+        "url": "https://open.spotify.com/album/2Jtnnru7rcvRnU4tywT4X7"
+      },
+      "artists": [
+        {
+          "name": "Seo Taiji and Boys",
+          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
+        }
+      ],
+      "duration_ms": 314933,
+      "name": "Anyhow Song",
+      "url": "https://open.spotify.com/track/0FGrzqdJWFAzO6JTWttcWM"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
         "name": "Road Fighter",
         "url": "https://open.spotify.com/album/08TW1bmGzSg172Db8C2Bde"
       },
@@ -1139,6 +1139,22 @@
       "duration_ms": 200306,
       "name": "Road Fighter",
       "url": "https://open.spotify.com/track/2xoCyFfFSJdsXgkKNF0eWF"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "Only One - The 3rd Album",
+        "url": "https://open.spotify.com/album/431ofqzymjNOtNAMLRJ92j"
+      },
+      "artists": [
+        {
+          "name": "SHINHWA",
+          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
+        }
+      ],
+      "duration_ms": 234400,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/5TnG4hgREznnqDYe9IYlZc"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1171,22 +1187,6 @@
       "duration_ms": 140253,
       "name": "\ubd89\uc740 \ub178\uc744",
       "url": "https://open.spotify.com/track/5bNAuYrv8L619MUm2xCNny"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "Only One - The 3rd Album",
-        "url": "https://open.spotify.com/album/431ofqzymjNOtNAMLRJ92j"
-      },
-      "artists": [
-        {
-          "name": "SHINHWA",
-          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
-        }
-      ],
-      "duration_ms": 234400,
-      "name": "Only One",
-      "url": "https://open.spotify.com/track/5TnG4hgREznnqDYe9IYlZc"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
+        "name": "Re-turn",
+        "url": "https://open.spotify.com/album/3O8lIpghPdAcJ7RFkzdk15"
+      },
+      "artists": [
+        {
+          "name": "Space A",
+          "url": "https://open.spotify.com/artist/5TMZPKsvsx21rtdMeTElUL"
+        }
+      ],
+      "duration_ms": 229630,
+      "name": "\uc139\uc2dc\ud55c \ub0a8\uc790",
+      "url": "https://open.spotify.com/track/4KA4iwe4NeFptO6mnDfvbI"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
         "name": "Seotaiji and Boys",
         "url": "https://open.spotify.com/album/53OG0dLStOizLfNxsD3LPr"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 224840,
       "name": "\u1109\u1161\u1105\u1161\u11bc\u110b\u1173\u11af \u110b\u1161\u110c\u1175\u11a8\u1103\u1169 \u1102\u1161\u11ab I Don't Know Love",
       "url": "https://open.spotify.com/track/1lilimwLEAWFlImqjke27f"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "Re-turn",
-        "url": "https://open.spotify.com/album/3O8lIpghPdAcJ7RFkzdk15"
-      },
-      "artists": [
-        {
-          "name": "Space A",
-          "url": "https://open.spotify.com/artist/5TMZPKsvsx21rtdMeTElUL"
-        }
-      ],
-      "duration_ms": 229630,
-      "name": "\uc139\uc2dc\ud55c \ub0a8\uc790",
-      "url": "https://open.spotify.com/track/4KA4iwe4NeFptO6mnDfvbI"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "\ub291\ub300\uc640 \ud568\uaed8 \ucda4\uc744",
-        "url": "https://open.spotify.com/album/6su9aNu18CtW7EWK9M0PUE"
-      },
-      "artists": [
-        {
-          "name": "Lim Changjung",
-          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
-        }
-      ],
-      "duration_ms": 253426,
-      "name": "\ub291\ub300\uc640 \ud568\uaed8 \ucda4\uc744",
-      "url": "https://open.spotify.com/track/04SDFqyKorGmxyZ8lopA53"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "Click-B 3",
         "url": "https://open.spotify.com/album/59JEuiM9FKWpulCD9SzCqI"
       },
@@ -1367,6 +1351,22 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
+        "name": "\ub291\ub300\uc640 \ud568\uaed8 \ucda4\uc744",
+        "url": "https://open.spotify.com/album/6su9aNu18CtW7EWK9M0PUE"
+      },
+      "artists": [
+        {
+          "name": "Lim Changjung",
+          "url": "https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5"
+        }
+      ],
+      "duration_ms": 253426,
+      "name": "\ub291\ub300\uc640 \ud568\uaed8 \ucda4\uc744",
+      "url": "https://open.spotify.com/track/04SDFqyKorGmxyZ8lopA53"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
         "name": "\ud654\uc0b0",
         "url": "https://open.spotify.com/album/05cmrYERspfIVBw3Hx57DV"
       },
@@ -1379,22 +1379,6 @@
       "duration_ms": 265508,
       "name": "\ubb34\uae30\uc5ec \uc798 \uc788\uac70\ub77c",
       "url": "https://open.spotify.com/track/2r6mL74mX7G7BMAPqXBPsF"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
-        "name": "DJ DOC Best Of Best Panda Mix Vol. 1",
-        "url": "https://open.spotify.com/album/0ME5SEshP93oWUyNDEfx8W"
-      },
-      "artists": [
-        {
-          "name": "DJ DOC",
-          "url": "https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF"
-        }
-      ],
-      "duration_ms": 185939,
-      "name": "\uba38\ud53c\uc758 \ubc95\uce59",
-      "url": "https://open.spotify.com/track/1jluNkKM91pLupGcS29CPd"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1455,6 +1439,22 @@
       "duration_ms": 203693,
       "name": "One Flew over the Cuckoo's Nest",
       "url": "https://open.spotify.com/track/6ar1APgRyWIxHQotMgeYdM"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "DJ DOC Best Of Best Panda Mix Vol. 1",
+        "url": "https://open.spotify.com/album/0ME5SEshP93oWUyNDEfx8W"
+      },
+      "artists": [
+        {
+          "name": "DJ DOC",
+          "url": "https://open.spotify.com/artist/3kDgt4vVKGTLmtC3FkOwWF"
+        }
+      ],
+      "duration_ms": 185939,
+      "name": "\uba38\ud53c\uc758 \ubc95\uce59",
+      "url": "https://open.spotify.com/track/1jluNkKM91pLupGcS29CPd"
     },
     {
       "added_at": "2021-03-11 16:28:13",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2021-03-11 16:28:13",
       "album": {
-        "name": "Panic",
-        "url": "https://open.spotify.com/album/7pKdoYutb9dlj1eFaVbHFg"
-      },
-      "artists": [
-        {
-          "name": "Panic",
-          "url": "https://open.spotify.com/artist/13bWD4s098qRgPVlHcbgCU"
-        }
-      ],
-      "duration_ms": 150622,
-      "name": "\uc67c\uc190\uc7a1\uc774",
-      "url": "https://open.spotify.com/track/6CxKEnUDyLNPVC4IBE1L4Z"
-    },
-    {
-      "added_at": "2021-03-11 16:28:13",
-      "album": {
         "name": "Suprise Party Collection",
         "url": "https://open.spotify.com/album/0jmnDcZzDE0s4fjsXOR0QX"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 208927,
       "name": "Cowboy",
       "url": "https://open.spotify.com/track/6pBKrXpNe0BHNfi8hJ5IEY"
+    },
+    {
+      "added_at": "2021-03-11 16:28:13",
+      "album": {
+        "name": "Panic",
+        "url": "https://open.spotify.com/album/7pKdoYutb9dlj1eFaVbHFg"
+      },
+      "artists": [
+        {
+          "name": "Panic",
+          "url": "https://open.spotify.com/artist/13bWD4s098qRgPVlHcbgCU"
+        }
+      ],
+      "duration_ms": 150622,
+      "name": "\uc67c\uc190\uc7a1\uc774",
+      "url": "https://open.spotify.com/track/6CxKEnUDyLNPVC4IBE1L4Z"
     },
     {
       "added_at": "2021-03-11 16:28:13",

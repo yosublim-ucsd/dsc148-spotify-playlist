@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Jul au top de la première playlist de rap français !
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,479,976 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,480,230 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [Une Autre](https://open.spotify.com/track/3XuOt3wEdc1tgYlCigX1xS) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Une Autre](https://open.spotify.com/album/6yDRuuonLZsQyOF6PhbaHG) | 2:46 |
 | 40 | [Les Flammes](https://open.spotify.com/track/4i6CKsl0vgzFF97h5nzpS3) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [J.000.$](https://open.spotify.com/album/7CWl72c1sWausPdwa2C29w) | 3:13 |
 
-Snapshot ID: `MCxlOWE5NDdmMDYzYTkzZDVkYWUyNzE2NjViNjY0ODIwNTEwNWRkMTlm`
+Snapshot ID: `MCw3YTBiY2FkZmFmNjM0Yjk2ZDgxNTAzM2ZjOGM2NTM1MTUwZGE0ZjYx`

@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 30729,
+  "num_followers": 30744,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzJjNzgzNThiODZkYTNmZGZjMmNkZjhlY2I2NWJlM2M2ODQzMGE0",
+  "snapshot_id": "MCw5OGZlOTRiYzZjN2VhMGZkNWY0ZjRjMzE2MWQ5MzI4MWEzMGU5NGFm",
   "tracks": [
     {
       "added_at": "2023-11-03 06:21:50",
@@ -215,6 +215,26 @@
     {
       "added_at": "2023-11-03 06:21:50",
       "album": {
+        "name": "130 Mood : TRBL",
+        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "duration_ms": 211972,
+      "name": "\ud480\uc5b4",
+      "url": "https://open.spotify.com/track/2p980qlVXYLh3HdHusbhfa"
+    },
+    {
+      "added_at": "2023-11-03 06:21:50",
+      "album": {
         "name": "Peaches - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/1meyTrwRpRw7RnD8aoFfj0"
       },
@@ -247,26 +267,6 @@
       "duration_ms": 153686,
       "name": "nvrmnd",
       "url": "https://open.spotify.com/track/0xxtbKIRlFwQ8bZ16u7wJ4"
-    },
-    {
-      "added_at": "2023-11-03 06:21:50",
-      "album": {
-        "name": "130 Mood : TRBL",
-        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
-      },
-      "artists": [
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        },
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 211972,
-      "name": "\ud480\uc5b4",
-      "url": "https://open.spotify.com/track/2p980qlVXYLh3HdHusbhfa"
     },
     {
       "added_at": "2023-11-03 06:21:50",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-11-03 06:21:50",
       "album": {
-        "name": "CHASE - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S"
-      },
-      "artists": [
-        {
-          "name": "MINHO",
-          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "Chase",
-      "url": "https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt"
-    },
-    {
-      "added_at": "2023-11-03 06:21:50",
-      "album": {
         "name": "Ring Ring",
         "url": "https://open.spotify.com/album/4N9thFENBkyWKwhdzpJQfH"
       },
@@ -375,22 +359,18 @@
     {
       "added_at": "2023-11-03 06:21:50",
       "album": {
-        "name": "130 Mood : TRBL",
-        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
+        "name": "CHASE - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0rhJHOLAXHJpkwYdiAb07S"
       },
       "artists": [
         {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        },
-        {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+          "name": "MINHO",
+          "url": "https://open.spotify.com/artist/08uRwDeNv1d7FSwlOUZdSn"
         }
       ],
-      "duration_ms": 216559,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA"
+      "duration_ms": 206053,
+      "name": "Chase",
+      "url": "https://open.spotify.com/track/2BAlBVu2OLWEfFsd4Irqwt"
     },
     {
       "added_at": "2023-11-03 06:21:50",
@@ -407,6 +387,26 @@
       "duration_ms": 184266,
       "name": "Habit",
       "url": "https://open.spotify.com/track/1RQqbSlookHZBgm5Cf3Sg4"
+    },
+    {
+      "added_at": "2023-11-03 06:21:50",
+      "album": {
+        "name": "130 Mood : TRBL",
+        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        }
+      ],
+      "duration_ms": 216559,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA"
     },
     {
       "added_at": "2023-11-03 06:21:50",
@@ -443,6 +443,26 @@
       "duration_ms": 196986,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/3vsfL1GdEMvoUs59KERxPx"
+    },
+    {
+      "added_at": "2023-11-03 06:21:50",
+      "album": {
+        "name": "WORLDWIDE",
+        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Okasian",
+          "url": "https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO"
+        }
+      ],
+      "duration_ms": 244153,
+      "name": "YOU KNOW (Feat. Okasian)",
+      "url": "https://open.spotify.com/track/6YM2Wl7KAr0MExcTiYpw5D"
     },
     {
       "added_at": "2023-11-03 06:21:50",
@@ -499,22 +519,18 @@
     {
       "added_at": "2023-11-03 06:21:50",
       "album": {
-        "name": "WORLDWIDE",
-        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
+        "name": "OVERDRIVE",
+        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
       },
       "artists": [
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Okasian",
-          "url": "https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO"
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
         }
       ],
-      "duration_ms": 244153,
-      "name": "YOU KNOW (Feat. Okasian)",
-      "url": "https://open.spotify.com/track/6YM2Wl7KAr0MExcTiYpw5D"
+      "duration_ms": 161640,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/2PviI6dkTJ2MM3omn3P9Id"
     },
     {
       "added_at": "2023-11-03 06:21:50",
@@ -535,6 +551,22 @@
     {
       "added_at": "2023-11-03 06:21:50",
       "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 224951,
+      "name": "2nd THOTS",
+      "url": "https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD"
+    },
+    {
+      "added_at": "2023-11-03 06:21:50",
+      "album": {
         "name": "Evergray",
         "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
       },
@@ -547,22 +579,6 @@
       "duration_ms": 233333,
       "name": "In the Blur of the Rain",
       "url": "https://open.spotify.com/track/5NbGKVTywRBQpqkkaQJi5j"
-    },
-    {
-      "added_at": "2023-11-03 06:21:50",
-      "album": {
-        "name": "OVERDRIVE",
-        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
-      },
-      "artists": [
-        {
-          "name": "I.M",
-          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
-        }
-      ],
-      "duration_ms": 161640,
-      "name": "Blame",
-      "url": "https://open.spotify.com/track/2PviI6dkTJ2MM3omn3P9Id"
     },
     {
       "added_at": "2023-11-03 06:21:50",
@@ -591,18 +607,18 @@
     {
       "added_at": "2023-11-03 06:21:50",
       "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+        "name": "OVERDRIVE",
+        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
       },
       "artists": [
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
         }
       ],
-      "duration_ms": 224951,
-      "name": "2nd THOTS",
-      "url": "https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD"
+      "duration_ms": 147333,
+      "name": "More",
+      "url": "https://open.spotify.com/track/4rJ93ywnXvHc9nBO8scaGp"
     },
     {
       "added_at": "2023-11-03 06:21:50",
@@ -619,6 +635,26 @@
       "duration_ms": 178186,
       "name": "Rebound",
       "url": "https://open.spotify.com/track/0naU7W4XICqrfTtwEzMu2x"
+    },
+    {
+      "added_at": "2023-11-03 06:21:50",
+      "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "ELO",
+          "url": "https://open.spotify.com/artist/33fY1P5TsAeEK2VgATvz1A"
+        }
+      ],
+      "duration_ms": 243492,
+      "name": "Turn Off Your Phone (Feat. ELO) - Remix",
+      "url": "https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5"
     },
     {
       "added_at": "2023-11-03 06:21:50",
@@ -715,42 +751,6 @@
       "duration_ms": 180720,
       "name": "Wet The Bed",
       "url": "https://open.spotify.com/track/0SdSuUUoVuQWA40yldhDht"
-    },
-    {
-      "added_at": "2023-11-03 06:21:50",
-      "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "ELO",
-          "url": "https://open.spotify.com/artist/33fY1P5TsAeEK2VgATvz1A"
-        }
-      ],
-      "duration_ms": 243492,
-      "name": "Turn Off Your Phone (Feat. ELO) - Remix",
-      "url": "https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5"
-    },
-    {
-      "added_at": "2023-11-03 06:21:50",
-      "album": {
-        "name": "OVERDRIVE",
-        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
-      },
-      "artists": [
-        {
-          "name": "I.M",
-          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
-        }
-      ],
-      "duration_ms": 147333,
-      "name": "More",
-      "url": "https://open.spotify.com/track/4rJ93ywnXvHc9nBO8scaGp"
     },
     {
       "added_at": "2023-11-03 06:21:50",
@@ -1019,22 +1019,18 @@
     {
       "added_at": "2023-11-03 06:21:50",
       "album": {
-        "name": "Like The First Time",
-        "url": "https://open.spotify.com/album/2Foi3Y0FecSKN5bfHxzyji"
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/1U1Eablns7H5xPBtSSW7sz"
       },
       "artists": [
         {
-          "name": "Rovv",
-          "url": "https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy"
-        },
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+          "name": "TAEWOO",
+          "url": "https://open.spotify.com/artist/5aPl0S4RS3C1l05l4RU04x"
         }
       ],
-      "duration_ms": 140177,
-      "name": "Like The First Time",
-      "url": "https://open.spotify.com/track/54Ec5QcrFTJIhtmJoGWsP1"
+      "duration_ms": 148773,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/22jxHUUAI8nqbNOZRDj0uR"
     },
     {
       "added_at": "2023-11-03 06:21:50",
@@ -1055,18 +1051,22 @@
     {
       "added_at": "2023-11-03 06:21:50",
       "album": {
-        "name": "Coffee",
-        "url": "https://open.spotify.com/album/1U1Eablns7H5xPBtSSW7sz"
+        "name": "Like The First Time",
+        "url": "https://open.spotify.com/album/2Foi3Y0FecSKN5bfHxzyji"
       },
       "artists": [
         {
-          "name": "TAEWOO",
-          "url": "https://open.spotify.com/artist/5aPl0S4RS3C1l05l4RU04x"
+          "name": "Rovv",
+          "url": "https://open.spotify.com/artist/2ExJZeWFE28d7G0uq1olVy"
+        },
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
         }
       ],
-      "duration_ms": 148773,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/22jxHUUAI8nqbNOZRDj0uR"
+      "duration_ms": 140177,
+      "name": "Like The First Time",
+      "url": "https://open.spotify.com/track/54Ec5QcrFTJIhtmJoGWsP1"
     },
     {
       "added_at": "2023-11-03 06:21:50",

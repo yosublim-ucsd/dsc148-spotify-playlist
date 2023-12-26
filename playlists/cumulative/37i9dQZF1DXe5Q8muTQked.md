@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-669 songs - 1 day 17 hr 6 min
+670 songs - 1 day 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -362,7 +362,7 @@
 | [Knockin' On Heaven's Door](https://open.spotify.com/track/2LBXHmODxCjJjD6puwDAE8) | [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW), [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo) | [Knockin' On Heaven's Door](https://open.spotify.com/album/1CDAlRhqngtJc6oaauLtJe) | 4:14 | 2022-06-10 |  |
 | [Knocking on Heavens Door](https://open.spotify.com/track/20jZ7lf5eqDUQQruuMSKVE) | [RAIGN](https://open.spotify.com/artist/25IZcQsNwnvgeBiTEjBNI4) | [Knocking On Heavens Door \- EP](https://open.spotify.com/album/2ymI9oU0t6DFuYOjFc4Kpa) | 4:24 | 2022-06-10 |  |
 | [Lakes of Pontchartrain \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5HjUkIQgYnl5JOSpmS494a) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Spotify Singles](https://open.spotify.com/album/3XV7BmKTGdfoxGEaKDQbJb) | 3:54 | 2021-10-20 | 2022-07-29 |
-| [Landslide](https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Landslide](https://open.spotify.com/album/3c0Uy2iMgkfZGRwi35XbzS) | 2:59 | 2021-10-20 |  |
+| [Landslide](https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Landslide](https://open.spotify.com/album/3c0Uy2iMgkfZGRwi35XbzS) | 2:59 | 2021-10-20 | 2023-12-26 |
 | [Landslide](https://open.spotify.com/track/6P8CsMuJCaqrlr4FDqELUQ) | [Robyn Sherwell](https://open.spotify.com/artist/6vjYF7rDvsWBtHnPgBmJvs) | [Robyn Sherwell](https://open.spotify.com/album/5C0nfeG2BdvVO3FlsaXXMv) | 2:50 | 2021-10-20 | 2022-07-29 |
 | [Landslide](https://open.spotify.com/track/65nCVhtlWYUzNvcM1MYp4l) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [The Essential The Chicks](https://open.spotify.com/album/31St5diPbTZoCjOwWXSMWD) | 3:48 | 2021-10-20 |  |
 | [Latch](https://open.spotify.com/track/0RL9bV2bBVPfVRgoBtP3dJ) | [Moonrise Nation](https://open.spotify.com/artist/3V3ttZhwHpekK6Hcvwv5ju) | [Latch](https://open.spotify.com/album/63pLcJGxLkvqbS5UHnspCa) | 3:27 | 2021-10-20 | 2022-07-29 |
@@ -458,6 +458,7 @@
 | [Personal Jesus](https://open.spotify.com/track/5dcwiQFqn0mTcWewYIv7MV) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:19 | 2022-06-10 |  |
 | [Photograph](https://open.spotify.com/track/6CgNoAbFJ4Q4Id4EjtbXlC) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Cover Sessions, Vol\. 4](https://open.spotify.com/album/4GRswj5X73eFGhe6QDTRCD) | 4:20 | 2022-06-10 |  |
 | [Photograph \(feat\. Bea Miller\)](https://open.spotify.com/track/6Pbh08Uo0o51ha2JOW8KtE) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Cover Collaborations, Vol\. 3](https://open.spotify.com/album/23tEU9zTAsxwR2fbY2dT8K) | 4:20 | 2021-10-20 | 2022-07-28 |
+| [Physical \(You're So\)](https://open.spotify.com/track/6zhnqFMuQ8Q2GCY9X89KXb) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [Broken](https://open.spotify.com/album/4jyWDa1yM9ul7zgUdR80hw) | 5:29 | 2023-10-23 |  |
 | [Pink Rabbits](https://open.spotify.com/track/1H2uNZwxuv6eCWGyR9nXrR) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Pink Rabbits](https://open.spotify.com/album/2cF0l3ObEBVj56KJjPrsWp) | 4:12 | 2021-10-20 | 2022-07-26 |
 | [Please Mister Postman \- Remastered 2009](https://open.spotify.com/track/6wfK1R6FoLpmUA9lk5ll4T) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [With The Beatles \(Remastered\)](https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr) | 2:34 | 2022-06-10 |  |
 | [Please Please Please Let Me Get What I Want](https://open.spotify.com/track/5PduiXDYYKKWVsvgaZ4qcd) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Please, Please, Please: A Tribute to The Smiths](https://open.spotify.com/album/2ySVkM6LaRl6bSdgVzFQ0u) | 1:53 | 2022-04-29 | 2022-05-03 |

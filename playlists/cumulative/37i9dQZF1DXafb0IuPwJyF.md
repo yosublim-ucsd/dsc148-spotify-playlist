@@ -4,7 +4,7 @@
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: Official髭男dism
 
-1,157 songs - 3 day 0 hr 10 min
+1,158 songs - 3 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Big Dreams](https://open.spotify.com/track/08ZA4Yeh77vYfgkzXiwhBc) | [End of the World](https://open.spotify.com/artist/0b59cVa1STVENq3i7wkcHV), [Marieme](https://open.spotify.com/artist/4M9MGz93wIiFmEKhrw2yDD) | [Big Dreams](https://open.spotify.com/album/1S3vzGhD9aV8SzYfx92dqH) | 3:08 | 2022-06-12 | 2022-06-20 |
 | [BIJIN](https://open.spotify.com/track/09jV3FQ2UbGJGZQjlih9O9) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Harenchi](https://open.spotify.com/album/1q9RWaiqhyFz8tYrl57w98) | 2:40 | 2023-04-16 | 2023-04-22 |
 | [BIJIN \(Remix\) \[feat\. Awich\]](https://open.spotify.com/track/5SM8QpMEOij9cNxKsSP00T) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [BIJIN \(Remix\) \[feat\. Awich\]](https://open.spotify.com/album/7bGgGsoAvQVXeKeZBJGro3) | 2:39 | 2023-04-19 | 2023-04-24 |
-| [Biri\-Biri](https://open.spotify.com/track/3X9N36jB8FtTkzTCkIFi4u) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Biri\-Biri](https://open.spotify.com/album/1hxB0L2PCz5d5jQl2s39Sz) | 3:07 | 2023-11-19 |  |
+| [Biri\-Biri](https://open.spotify.com/track/3X9N36jB8FtTkzTCkIFi4u) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Biri\-Biri](https://open.spotify.com/album/1hxB0L2PCz5d5jQl2s39Sz) | 3:07 | 2023-11-19 | 2023-12-26 |
 | [Biscuit](https://open.spotify.com/track/4VerfQl7Y8UphNFBWEKMtV) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Biscuit](https://open.spotify.com/album/6P68HkiZanv6UJSSklu4jg) | 3:24 | 2023-11-26 |  |
 | [Bitter Sweet \(feat\. Rinne\)](https://open.spotify.com/track/7nLukfUB2GuyrJA5tsTXui) | [NARROWORLD](https://open.spotify.com/artist/1lDEJxLjWAXtKDr7nFCJxW), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k), [Rinne](https://open.spotify.com/artist/4ETsbj1XzA5v886JMNDgdA) | [Bitter Sweet \(feat\. Rinne\)](https://open.spotify.com/album/1pi5YLWY2XNmPzGe4sAfJ9) | 2:44 | 2022-09-04 | 2022-10-09 |
 | [BITTER!](https://open.spotify.com/track/47bqDSq66FiXyPjixsFphC) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [BITTER!](https://open.spotify.com/album/2yxSGQpEACIqYfmgf1TwGM) | 3:05 | 2021-12-26 | 2022-01-17 |
@@ -234,6 +234,7 @@
 | [Hatsukoi no Akuma \-Dance With The Devil\-](https://open.spotify.com/track/0xP8UvYMtR5LGq3tsJ1JO3) | [SOIL & "PIMP" SESSIONS with RHYMESTER](https://open.spotify.com/artist/2lcYYmJQqNAPYrfpSeUYih), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF), [RHYMESTER](https://open.spotify.com/artist/2S6A6zkTKElCA0BJku4FBZ) | [Hatsukoi no Akuma \-Dance With The Devil\-](https://open.spotify.com/album/4FbryMi5ALp0suonMQW3la) | 3:10 | 2022-09-18 | 2022-09-26 |
 | [HAVE A NICE DAY](https://open.spotify.com/track/5QW06boBm4TZ6VhPTQXSSk) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [HAVE A NICE DAY](https://open.spotify.com/album/5cjxQHE6kZIlNtTf25caXq) | 2:36 | 2022-07-10 | 2022-07-18 |
 | [HAVE A NICE DAY](https://open.spotify.com/track/0xY6JkJY1ltWdbx9YQJM84) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [HAVE A NICE DAY](https://open.spotify.com/album/2g0Rw5XYIxKqBkXVuU44E3) | 3:40 | 2022-08-14 | 2022-08-29 |
+| [HEART BEAT](https://open.spotify.com/track/3J99JXowSczha1Cp0LtFoc) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [HEART BEAT](https://open.spotify.com/album/2af8DYGcIT3jG1aC0sC2sF) | 5:35 | 2023-12-25 |  |
 | [HEARTRIS](https://open.spotify.com/track/4TBpE4HSPeB6OTqbqqwSon) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Press Play](https://open.spotify.com/album/3KXI6SPSLOch1o5biv5uy6) | 3:00 | 2023-11-05 | 2023-12-25 |
 | [Heat](https://open.spotify.com/track/0W9ZNXpTcdYrRFddGttATh) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [Heat](https://open.spotify.com/album/6YnhFXZM5tJcBCY7BehT8L) | 4:23 | 2023-02-26 | 2023-03-06 |
 | [HERO JOURNEY](https://open.spotify.com/track/6wvCOyMGMYSUfRQkQf3v25) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [HERO JOURNEY](https://open.spotify.com/album/42zAFph6t4rfdgHlm7fZSG) | 1:54 | 2022-07-17 | 2022-07-25 |

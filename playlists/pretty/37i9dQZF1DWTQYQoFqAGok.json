@@ -1,12 +1,12 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 58797,
+  "num_followers": 58803,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTVkZjZmMGM1ZjkxOTNiZjVhZTJkNTMyZmE2MDkwNTZkZmYwZDM4",
+  "snapshot_id": "MCwxMTlmODNiOTg0MGE4YzRmYTEwN2Y0MjU2ZDA3NjBlODEyODJjZDA0",
   "tracks": [
     {
       "added_at": "2021-07-28 16:44:28",
@@ -91,6 +91,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Bon appetit (Lo Mejor de Pat\u00e9 de Fu\u00e1)",
+        "url": "https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 285880,
+      "name": "La Canci\u00f3n de Linyera",
+      "url": "https://open.spotify.com/track/4LK5SHNZuDT9hjy7EMvyob"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Nuevos Retros",
         "url": "https://open.spotify.com/album/2EWXBn0wNaSo8dS9sU7esL"
       },
@@ -155,22 +171,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Bon appetit (Lo Mejor de Pat\u00e9 de Fu\u00e1)",
-        "url": "https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 285880,
-      "name": "La Canci\u00f3n de Linyera",
-      "url": "https://open.spotify.com/track/4LK5SHNZuDT9hjy7EMvyob"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Tino Contreras",
         "url": "https://open.spotify.com/album/1kyt03TDrHd4JPoBPjHMJ2"
       },
@@ -183,22 +183,6 @@
       "duration_ms": 168198,
       "name": "Orfeo en los Tambores",
       "url": "https://open.spotify.com/track/4CZdNa7dLY6xH7FTMKq5DG"
-    },
-    {
-      "added_at": "2023-04-12 01:24:34",
-      "album": {
-        "name": "El Patio",
-        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Jazztepec",
-      "url": "https://open.spotify.com/track/5Nc8wh3jl4WBljqnUZpPBS"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -231,6 +215,38 @@
       "duration_ms": 214300,
       "name": "Piscis",
       "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
+    },
+    {
+      "added_at": "2023-04-12 01:24:34",
+      "album": {
+        "name": "El Patio",
+        "url": "https://open.spotify.com/album/72cn2tHaOSrNwNioPNfA31"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Jazztepec",
+      "url": "https://open.spotify.com/track/5Nc8wh3jl4WBljqnUZpPBS"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "...un poco mas.",
+        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
+      },
+      "artists": [
+        {
+          "name": "Na'rimbo",
+          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
+        }
+      ],
+      "duration_ms": 370613,
+      "name": "Al son de la marimba",
+      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -267,22 +283,6 @@
       "duration_ms": 182970,
       "name": "Tukumtak",
       "url": "https://open.spotify.com/track/4aOaDvOhOeTkF3sItgGY8y"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "...un poco mas.",
-        "url": "https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM"
-      },
-      "artists": [
-        {
-          "name": "Na'rimbo",
-          "url": "https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt"
-        }
-      ],
-      "duration_ms": 370613,
-      "name": "Al son de la marimba",
-      "url": "https://open.spotify.com/track/2ASMYuPSrYkM3zk3E8uBWh"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -443,6 +443,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Para Ser Libre",
+        "url": "https://open.spotify.com/album/640scYqIfRaues9fUETg8p"
+      },
+      "artists": [
+        {
+          "name": "Hilvana",
+          "url": "https://open.spotify.com/artist/4XcCjDpADpJ4VBldrgcDbG"
+        }
+      ],
+      "duration_ms": 193332,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Raz\u00f3n de Vivir (Desde Casa)",
         "url": "https://open.spotify.com/album/2R5tdma1EXvW93NHGfNjtz"
       },
@@ -463,18 +479,34 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Para Ser Libre",
-        "url": "https://open.spotify.com/album/640scYqIfRaues9fUETg8p"
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/633ctwpYwbwNrsVOWVANrb"
       },
       "artists": [
         {
-          "name": "Hilvana",
-          "url": "https://open.spotify.com/artist/4XcCjDpADpJ4VBldrgcDbG"
+          "name": "Cuco Valtierra",
+          "url": "https://open.spotify.com/artist/2b973rD0RqYzSz9161lGIa"
         }
       ],
-      "duration_ms": 193332,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF"
+      "duration_ms": 160031,
+      "name": "El Hombre Del Brazo De Oro",
+      "url": "https://open.spotify.com/track/5tkkYOcwmoql7pWZC8JXhr"
+    },
+    {
+      "added_at": "2023-11-23 03:14:06",
+      "album": {
+        "name": "Mosquita muerta (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/34K3eLF3P1vN72v6Ly6EKv"
+      },
+      "artists": [
+        {
+          "name": "Troker",
+          "url": "https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G"
+        }
+      ],
+      "duration_ms": 323800,
+      "name": "Mosquita muerta - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/1OJEvEfw2Fr3oPYKt93841"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -501,38 +533,6 @@
       "url": "https://open.spotify.com/track/19V9sBVJLuMEVWiqTMiU4N"
     },
     {
-      "added_at": "2023-11-23 03:14:06",
-      "album": {
-        "name": "Mosquita muerta (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/34K3eLF3P1vN72v6Ly6EKv"
-      },
-      "artists": [
-        {
-          "name": "Troker",
-          "url": "https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G"
-        }
-      ],
-      "duration_ms": 323800,
-      "name": "Mosquita muerta - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/1OJEvEfw2Fr3oPYKt93841"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/633ctwpYwbwNrsVOWVANrb"
-      },
-      "artists": [
-        {
-          "name": "Cuco Valtierra",
-          "url": "https://open.spotify.com/artist/2b973rD0RqYzSz9161lGIa"
-        }
-      ],
-      "duration_ms": 160031,
-      "name": "El Hombre Del Brazo De Oro",
-      "url": "https://open.spotify.com/track/5tkkYOcwmoql7pWZC8JXhr"
-    },
-    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "Blues",
@@ -555,6 +555,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Nos Toca",
+        "url": "https://open.spotify.com/album/4GpJkM3MWkQLGw7zeS5v8d"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Infanz\u00f3n Quartet",
+          "url": "https://open.spotify.com/artist/3jOCmt5AUuY0zF1CvwVr5W"
+        }
+      ],
+      "duration_ms": 353320,
+      "name": "Az\u00facar",
+      "url": "https://open.spotify.com/track/3IxNO8WmhEaxweYAzdd9pL"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Paisaje Gris",
         "url": "https://open.spotify.com/album/4WAskgkj1leGkHgXXobvRG"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 259133,
       "name": "Paisaje Gris",
       "url": "https://open.spotify.com/track/7Fo5vh8oUOsw8LsziLXe60"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Nos Toca",
-        "url": "https://open.spotify.com/album/4GpJkM3MWkQLGw7zeS5v8d"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Infanz\u00f3n Quartet",
-          "url": "https://open.spotify.com/artist/3jOCmt5AUuY0zF1CvwVr5W"
-        }
-      ],
-      "duration_ms": 353320,
-      "name": "Az\u00facar",
-      "url": "https://open.spotify.com/track/3IxNO8WmhEaxweYAzdd9pL"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -623,6 +623,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Las Puntadas de Ernesto Riesta",
+        "url": "https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ"
+      },
+      "artists": [
+        {
+          "name": "Ernesto Riestra Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE"
+        }
+      ],
+      "duration_ms": 178773,
+      "name": "No Se que Pasa Entre T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Fulgor",
         "url": "https://open.spotify.com/album/3hHdb3FvT0zU1eXrKmQOgS"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 246539,
       "name": "Aquel Incendio",
       "url": "https://open.spotify.com/track/21B1SsKnsjcUTkzRAAUJqy"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Las Puntadas de Ernesto Riesta",
-        "url": "https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ"
-      },
-      "artists": [
-        {
-          "name": "Ernesto Riestra Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE"
-        }
-      ],
-      "duration_ms": 178773,
-      "name": "No Se que Pasa Entre T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -817,6 +817,26 @@
       "url": "https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io"
     },
     {
+      "added_at": "2022-03-30 03:01:09",
+      "album": {
+        "name": "Kumoi",
+        "url": "https://open.spotify.com/album/2qLAtuAVOqy3KXRhLb7bsU"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        },
+        {
+          "name": "Guillaume Pouget",
+          "url": "https://open.spotify.com/artist/68aVRNEtPd31Qmo77iGojE"
+        }
+      ],
+      "duration_ms": 127240,
+      "name": "Suite Yusef Lateef",
+      "url": "https://open.spotify.com/track/0AkwnLhfQNazmhFaWQ9unK"
+    },
+    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "Remembranzas",
@@ -839,26 +859,6 @@
       "duration_ms": 373000,
       "name": "Remembranzas",
       "url": "https://open.spotify.com/track/0Rpah08ZeUKzXlIQgXsqMp"
-    },
-    {
-      "added_at": "2022-03-30 03:01:09",
-      "album": {
-        "name": "Kumoi",
-        "url": "https://open.spotify.com/album/2qLAtuAVOqy3KXRhLb7bsU"
-      },
-      "artists": [
-        {
-          "name": "Nacho Maldonado",
-          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
-        },
-        {
-          "name": "Guillaume Pouget",
-          "url": "https://open.spotify.com/artist/68aVRNEtPd31Qmo77iGojE"
-        }
-      ],
-      "duration_ms": 127240,
-      "name": "Suite Yusef Lateef",
-      "url": "https://open.spotify.com/track/0AkwnLhfQNazmhFaWQ9unK"
     },
     {
       "added_at": "2021-07-28 16:44:28",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWthTyxilL.md) - [plain]
 
 > Sons da floresta para inspirar seus dia ou noite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,431 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,440 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWthTyxilL.md) - [plain]
 | 23 | [Refreshing Claps In Thunderstorm](https://open.spotify.com/track/4K5o0A7lQpHox49jSNc7Yk) | [Nature Sounds](https://open.spotify.com/artist/4NqS7DbPFYwZmniGHCPMpm) | [Thunderstorm](https://open.spotify.com/album/345w1De5Lt2L63DHc1kdYk) | 8:30 |
 | 24 | [Seal Cove Pond 10/30 8am](https://open.spotify.com/track/5sT358T58i5g3nbJHZ1U6F) | [Aaron Lewis](https://open.spotify.com/artist/2xmSfP65WLEwRyrQlpODuR) | [Sounds of Mount Desert Island](https://open.spotify.com/album/2pwkOeetQXNKjKrXIDu2JB) | 3:24 |
 | 25 | [Jungle Relaxation Sleep](https://open.spotify.com/track/0KvIXQVhzpRfVDT3xDSUrL) | [Ambient Nature White Noise](https://open.spotify.com/artist/2vgMXbvbpzLc0CuugRYpL3) | [Rain Forest Ambience Sleep Sounds \- Sounds From The Jungle For A Clearer Mind](https://open.spotify.com/album/7vJGaKJj8PvMqYTi58Jlun) | 2:00 |
-| 26 | [Birds And Breeze](https://open.spotify.com/track/5vRvzOHbx40CCMkmSC28fY) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H) | [Nature Sounds](https://open.spotify.com/album/7BeL9OdzLuHh0Mk62zA1CX) | 3:52 |
-| 27 | [Relaxing Crickets And Waterfall](https://open.spotify.com/track/5iAB4tlYseBES4MKqgY4KG) | [Natural Sound Makers](https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8) | [Forest By Night](https://open.spotify.com/album/2GLxsxoWpW8MOw9O9AAsf9) | 4:24 |
-| 28 | [Fresh Forest](https://open.spotify.com/track/1EnpczqhePEswNjzfyirRV) | [Eskil Hermes](https://open.spotify.com/artist/4RgayOFOiMm8j5DeeBpXby) | [Fresh Forest](https://open.spotify.com/album/2HvyUszsRZo8u0f1pca5fm) | 2:37 |
+| 26 | [Fresh Forest](https://open.spotify.com/track/1EnpczqhePEswNjzfyirRV) | [Eskil Hermes](https://open.spotify.com/artist/4RgayOFOiMm8j5DeeBpXby) | [Fresh Forest](https://open.spotify.com/album/2HvyUszsRZo8u0f1pca5fm) | 2:37 |
+| 27 | [Birds And Breeze](https://open.spotify.com/track/5vRvzOHbx40CCMkmSC28fY) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H) | [Nature Sounds](https://open.spotify.com/album/7BeL9OdzLuHh0Mk62zA1CX) | 3:52 |
+| 28 | [Relaxing Crickets And Waterfall](https://open.spotify.com/track/5iAB4tlYseBES4MKqgY4KG) | [Natural Sound Makers](https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8) | [Forest By Night](https://open.spotify.com/album/2GLxsxoWpW8MOw9O9AAsf9) | 4:24 |
 | 29 | [Rainforest](https://open.spotify.com/track/1nsiddORSPYmnx7wYdlFHa) | [Lluvia del Bosque](https://open.spotify.com/artist/0qxiHjDHTVwI9Q1pcU5jxQ) | [Relaxing Nature Sounds](https://open.spotify.com/album/41gv4AWktiPAx0JL5nVqwY) | 3:55 |
 | 30 | [Rainy Forest](https://open.spotify.com/track/5DYpluaA9XthyaTyR1TwwN) | [Traveling Sounds](https://open.spotify.com/artist/1kQGKwpqL4zj2KOYxzjSgn) | [Thunder In Madeira](https://open.spotify.com/album/3nQCfcDXLZn3S2y8SFX52f) | 3:07 |
 | 31 | [Pouring River & Forest Sounds](https://open.spotify.com/track/7pecvxazasdLJwT4IQbmUa) | [Reikini](https://open.spotify.com/artist/41EYcaGVBz9149nNS89YYJ) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 4:33 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWthTyxilL.md) - [plain]
 | 42 | [Calm Forest](https://open.spotify.com/track/4UazPUFk7kiZGPlEXx976Z) | [Nature Recordings](https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H) | [Nature Sounds](https://open.spotify.com/album/7BeL9OdzLuHh0Mk62zA1CX) | 3:46 |
 | 43 | [Late Night Peace](https://open.spotify.com/track/7wODjbGBAR6CvHFUo7LZOu) | [Natural Sound Makers](https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8) | [Forest By Night](https://open.spotify.com/album/2GLxsxoWpW8MOw9O9AAsf9) | 3:38 |
 | 44 | [Night Forest](https://open.spotify.com/track/7sgzy45LJeI5Dxx6em5Z1s) | [Mother Earth Sounds](https://open.spotify.com/artist/682dFb5qW5sDv3urY7IEqp) | [Forest Sounds](https://open.spotify.com/album/4IGucO2BmKvLu7ynVb6r20) | 4:11 |
-| 45 | [Bosque](https://open.spotify.com/track/3Ol2CB78koETMwfr0OwJiH) | [Lluvia del Bosque](https://open.spotify.com/artist/0qxiHjDHTVwI9Q1pcU5jxQ) | [Relaxing Nature Sounds](https://open.spotify.com/album/41gv4AWktiPAx0JL5nVqwY) | 3:10 |
-| 46 | [Peaceful Forest](https://open.spotify.com/track/28ilcqErfNjitJ7T3byHoX) | [The Sleep Specialist](https://open.spotify.com/artist/3TWBaLqcB1lbb3LhLwAayN) | [Jungle And Forest Sounds](https://open.spotify.com/album/3TRoUn8OKRVUcbprXmyGgj) | 3:01 |
-| 47 | [Therapy Forest](https://open.spotify.com/track/2QZGDRyucOmjnZJnowPX1U) | [Sardinia Sleep](https://open.spotify.com/artist/4fn3LJKl7imj3vKRqYS4cN) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 2:36 |
-| 48 | [Afternoon Bird Chorus](https://open.spotify.com/track/0rxCggh9HxS2NVDqKuioPu) | [Forest Soundscapes](https://open.spotify.com/artist/3afxrYkVNCaNbMqJbfThUy) | [Forest Soundscapes](https://open.spotify.com/album/69JfteEShbXv4Lh1NdL2pW) | 3:35 |
-| 49 | [Summer Night](https://open.spotify.com/track/45c7cAvP0LccTTRP0eLeeC) | [Mother Earth Sounds](https://open.spotify.com/artist/682dFb5qW5sDv3urY7IEqp) | [Forest Sounds](https://open.spotify.com/album/4IGucO2BmKvLu7ynVb6r20) | 4:18 |
-| 50 | [Rain & The Rainforest](https://open.spotify.com/track/0i2QIV9Lku6x5zQkN7DZpn) | [Fictional Athmosphere](https://open.spotify.com/artist/0gQq1HrP727iogwRWtHJ5H) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 3:13 |
+| 45 | [Peaceful Forest](https://open.spotify.com/track/28ilcqErfNjitJ7T3byHoX) | [The Sleep Specialist](https://open.spotify.com/artist/3TWBaLqcB1lbb3LhLwAayN) | [Jungle And Forest Sounds](https://open.spotify.com/album/3TRoUn8OKRVUcbprXmyGgj) | 3:01 |
+| 46 | [Therapy Forest](https://open.spotify.com/track/2QZGDRyucOmjnZJnowPX1U) | [Sardinia Sleep](https://open.spotify.com/artist/4fn3LJKl7imj3vKRqYS4cN) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 2:36 |
+| 47 | [Afternoon Bird Chorus](https://open.spotify.com/track/0rxCggh9HxS2NVDqKuioPu) | [Forest Soundscapes](https://open.spotify.com/artist/3afxrYkVNCaNbMqJbfThUy) | [Forest Soundscapes](https://open.spotify.com/album/69JfteEShbXv4Lh1NdL2pW) | 3:35 |
+| 48 | [Bosque](https://open.spotify.com/track/3Ol2CB78koETMwfr0OwJiH) | [Lluvia del Bosque](https://open.spotify.com/artist/0qxiHjDHTVwI9Q1pcU5jxQ) | [Relaxing Nature Sounds](https://open.spotify.com/album/41gv4AWktiPAx0JL5nVqwY) | 3:10 |
+| 49 | [Rain & The Rainforest](https://open.spotify.com/track/0i2QIV9Lku6x5zQkN7DZpn) | [Fictional Athmosphere](https://open.spotify.com/artist/0gQq1HrP727iogwRWtHJ5H) | [Nature](https://open.spotify.com/album/01cbQN8XXD53sRV31mpARQ) | 3:13 |
+| 50 | [Summer Night](https://open.spotify.com/track/45c7cAvP0LccTTRP0eLeeC) | [Mother Earth Sounds](https://open.spotify.com/artist/682dFb5qW5sDv3urY7IEqp) | [Forest Sounds](https://open.spotify.com/album/4IGucO2BmKvLu7ynVb6r20) | 4:18 |
 
-Snapshot ID: `MCw5MmQ0YTRjOGRlZmUxZTZlMjc5OTRmMWY5YWMwOTk1OWYyNzI5ZTc1`
+Snapshot ID: `MCwwYjRkY2FjNWQ0MzUzMDRhZjdiMWE5ZjkzY2Y2NGY0MmI0Y2NjYjM5`

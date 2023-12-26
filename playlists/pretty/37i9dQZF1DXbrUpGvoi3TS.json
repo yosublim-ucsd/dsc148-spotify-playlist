@@ -1,12 +1,12 @@
 {
   "description": "Nurse your emotional wounds with these heartbreak tracks.",
-  "num_followers": 3574693,
+  "num_followers": 3575123,
   "original_name": "Broken Heart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTcyNzFlMTI2ZjY0MjJlNTIyYTVmY2Y2ZWExNDY4ZmFiYTQ0NDhk",
+  "snapshot_id": "MCw1ZDczNjcwZDVlM2UxNTgxMWJlYjQ3MWE1Y2FiMWNiMDUyODRiNzY0",
   "tracks": [
     {
       "added_at": "2022-05-19 22:02:00",
@@ -191,22 +191,6 @@
     {
       "added_at": "2022-05-19 22:02:00",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "drivers license",
-      "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
-    },
-    {
-      "added_at": "2022-05-19 22:02:00",
-      "album": {
         "name": "you broke me first",
         "url": "https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc"
       },
@@ -219,22 +203,6 @@
       "duration_ms": 169265,
       "name": "you broke me first",
       "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
-    },
-    {
-      "added_at": "2022-05-19 22:02:00",
-      "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 196077,
-      "name": "when the party's over",
-      "url": "https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I"
     },
     {
       "added_at": "2022-05-19 22:02:00",
@@ -255,6 +223,22 @@
     {
       "added_at": "2022-05-19 22:02:00",
       "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 196077,
+      "name": "when the party's over",
+      "url": "https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I"
+    },
+    {
+      "added_at": "2022-05-19 22:02:00",
+      "album": {
         "name": "X&Y",
         "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 295533,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
+    },
+    {
+      "added_at": "2022-05-19 22:02:00",
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "drivers license",
+      "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
     },
     {
       "added_at": "2022-05-19 22:02:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-05-19 22:02:00",
       "album": {
-        "name": "In A Perfect World (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y"
-      },
-      "artists": [
-        {
-          "name": "Kodaline",
-          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
-        }
-      ],
-      "duration_ms": 305746,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs"
-    },
-    {
-      "added_at": "2022-05-19 22:02:00",
-      "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
+    },
+    {
+      "added_at": "2022-05-19 22:02:00",
+      "album": {
+        "name": "In A Perfect World (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "duration_ms": 305746,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs"
     },
     {
       "added_at": "2022-05-19 22:02:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-05-19 22:02:00",
       "album": {
-        "name": "Rare",
-        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 206458,
-      "name": "Lose You To Love Me",
-      "url": "https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi"
-    },
-    {
-      "added_at": "2022-05-19 22:02:00",
-      "album": {
         "name": "Fleetwood Mac",
         "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 199493,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
+    },
+    {
+      "added_at": "2022-05-19 22:02:00",
+      "album": {
+        "name": "Rare",
+        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
+      },
+      "artists": [
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "duration_ms": 206458,
+      "name": "Lose You To Love Me",
+      "url": "https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi"
     },
     {
       "added_at": "2022-05-19 22:02:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-05-19 22:02:00",
       "album": {
-        "name": "Jealous - EP",
-        "url": "https://open.spotify.com/album/6bsCl6iS6dvC4xaiBlecPv"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 287693,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/4G92yYrUs0cvY7G41YRI0z"
-    },
-    {
-      "added_at": "2022-05-19 22:02:00",
-      "album": {
         "name": "How To Save A Life",
         "url": "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 266773,
       "name": "Look After You",
       "url": "https://open.spotify.com/track/5l6hpyTGBK0LAAxgPnqTQL"
+    },
+    {
+      "added_at": "2022-05-19 22:02:00",
+      "album": {
+        "name": "Jealous - EP",
+        "url": "https://open.spotify.com/album/6bsCl6iS6dvC4xaiBlecPv"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 287693,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/4G92yYrUs0cvY7G41YRI0z"
     },
     {
       "added_at": "2022-05-19 22:02:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-05-19 22:02:00",
       "album": {
-        "name": "It's About Us",
-        "url": "https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC"
-      },
-      "artists": [
-        {
-          "name": "Alex & Sierra",
-          "url": "https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2"
-        }
-      ],
-      "duration_ms": 185200,
-      "name": "Little Do You Know",
-      "url": "https://open.spotify.com/track/1almCHdsfikRPfVB9VrEdT"
-    },
-    {
-      "added_at": "2022-05-19 22:02:00",
-      "album": {
         "name": "Happier Than Ever",
         "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
       },
@@ -915,18 +899,18 @@
     {
       "added_at": "2022-05-19 22:02:00",
       "album": {
-        "name": "The Fray",
-        "url": "https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3"
+        "name": "It's About Us",
+        "url": "https://open.spotify.com/album/3Yk19X5zgXDSrG8uqrPnXC"
       },
       "artists": [
         {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+          "name": "Alex & Sierra",
+          "url": "https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2"
         }
       ],
-      "duration_ms": 241853,
-      "name": "You Found Me",
-      "url": "https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi"
+      "duration_ms": 185200,
+      "name": "Little Do You Know",
+      "url": "https://open.spotify.com/track/1almCHdsfikRPfVB9VrEdT"
     },
     {
       "added_at": "2022-05-19 22:02:00",
@@ -943,6 +927,22 @@
       "duration_ms": 193080,
       "name": "Heal",
       "url": "https://open.spotify.com/track/4KlL5Bwlm4yHYxr0B2rHci"
+    },
+    {
+      "added_at": "2022-05-19 22:02:00",
+      "album": {
+        "name": "The Fray",
+        "url": "https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 241853,
+      "name": "You Found Me",
+      "url": "https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi"
     },
     {
       "added_at": "2022-05-19 22:02:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2022-05-19 22:02:00",
       "album": {
+        "name": "Six Feet Under",
+        "url": "https://open.spotify.com/album/74TRp3O8BRdGxc0XO0UzoY"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 189613,
+      "name": "Six Feet Under",
+      "url": "https://open.spotify.com/track/2VlLbhGLVJgdOW7kKdWWFc"
+    },
+    {
+      "added_at": "2022-05-19 22:02:00",
+      "album": {
         "name": "Not Your Muse (Deluxe)",
         "url": "https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 216560,
       "name": "When You Love Someone",
       "url": "https://open.spotify.com/track/0TXNKTzawI6VgLoA9UauRp"
-    },
-    {
-      "added_at": "2022-05-19 22:02:00",
-      "album": {
-        "name": "Six Feet Under",
-        "url": "https://open.spotify.com/album/74TRp3O8BRdGxc0XO0UzoY"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 189613,
-      "name": "Six Feet Under",
-      "url": "https://open.spotify.com/track/2VlLbhGLVJgdOW7kKdWWFc"
     },
     {
       "added_at": "2022-05-19 22:02:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-05-19 22:02:00",
       "album": {
-        "name": "Breach",
-        "url": "https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Someone You Loved",
-      "url": "https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc"
-    },
-    {
-      "added_at": "2022-05-19 22:02:00",
-      "album": {
         "name": "In The Lonely Hour",
         "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 270453,
       "name": "Paralyzed",
       "url": "https://open.spotify.com/track/5DHQKZCOZhGNTbYBCekWx0"
+    },
+    {
+      "added_at": "2022-05-19 22:02:00",
+      "album": {
+        "name": "Breach",
+        "url": "https://open.spotify.com/album/0NVQ9k3wKmuK6T02lLMl6y"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "Someone You Loved",
+      "url": "https://open.spotify.com/track/2TIlqbIneP0ZY1O0EzYLlc"
     },
     {
       "added_at": "2022-05-19 22:02:00",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2022-05-19 22:02:00",
       "album": {
+        "name": "How Do You Sleep?",
+        "url": "https://open.spotify.com/album/7baaCf70tVcUBL2bbkuXjo"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 202204,
+      "name": "How Do You Sleep?",
+      "url": "https://open.spotify.com/track/6b2RcmUt1g9N9mQ3CbjX2Y"
+    },
+    {
+      "added_at": "2022-05-19 22:02:00",
+      "album": {
         "name": "Back to Bedlam",
         "url": "https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF"
       },
@@ -1267,22 +1283,6 @@
     {
       "added_at": "2022-05-19 22:02:00",
       "album": {
-        "name": "How Do You Sleep?",
-        "url": "https://open.spotify.com/album/7baaCf70tVcUBL2bbkuXjo"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 202204,
-      "name": "How Do You Sleep?",
-      "url": "https://open.spotify.com/track/6b2RcmUt1g9N9mQ3CbjX2Y"
-    },
-    {
-      "added_at": "2022-05-19 22:02:00",
-      "album": {
         "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
       },
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-05-19 22:02:00",
       "album": {
-        "name": "Complicated",
-        "url": "https://open.spotify.com/album/7FqJvfHEUv3vbv9FZhpsgW"
-      },
-      "artists": [
-        {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/226PUvIuxGdceSijXXZRRz"
-    },
-    {
-      "added_at": "2022-05-19 22:02:00",
-      "album": {
         "name": "Dynasty",
         "url": "https://open.spotify.com/album/2QSPuyEM4LRQ4fREX5cW3d"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 225515,
       "name": "Dynasty",
       "url": "https://open.spotify.com/track/5a0sI8V5iDBiChTCfFNZL1"
+    },
+    {
+      "added_at": "2022-05-19 22:02:00",
+      "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/7FqJvfHEUv3vbv9FZhpsgW"
+      },
+      "artists": [
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/226PUvIuxGdceSijXXZRRz"
     },
     {
       "added_at": "2022-05-19 22:02:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-05-19 22:02:00",
       "album": {
-        "name": "COSMIC",
-        "url": "https://open.spotify.com/album/5EEkfRgfYHiFu0lGur6Z6M"
-      },
-      "artists": [
-        {
-          "name": "Bazzi",
-          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
-        }
-      ],
-      "duration_ms": 148259,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/7lozLnUfzcgEpMMVQI7yhA"
-    },
-    {
-      "added_at": "2022-05-19 22:02:00",
-      "album": {
         "name": "The Vanishing Race",
         "url": "https://open.spotify.com/album/1WVavkGT7qfAwjCRrgYLN5"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 242853,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/5PihYbt4uNnVt68l5D1SGb"
+    },
+    {
+      "added_at": "2022-05-19 22:02:00",
+      "album": {
+        "name": "COSMIC",
+        "url": "https://open.spotify.com/album/5EEkfRgfYHiFu0lGur6Z6M"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "duration_ms": 148259,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/7lozLnUfzcgEpMMVQI7yhA"
     },
     {
       "added_at": "2022-05-19 22:02:00",
@@ -1499,22 +1499,6 @@
       "duration_ms": 234173,
       "name": "Better in Time",
       "url": "https://open.spotify.com/track/2iXBZ32Fz5VDCLeE0JIdX5"
-    },
-    {
-      "added_at": "2022-05-19 22:02:00",
-      "album": {
-        "name": "Say You Won't Let Go",
-        "url": "https://open.spotify.com/album/0BL67dR6x0CPU7B7J9P8qC"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 211240,
-      "name": "Say You Won't Let Go",
-      "url": "https://open.spotify.com/track/1Pw5C4N6Fn5E4mGCxmbbVa"
     },
     {
       "added_at": "2022-05-19 22:02:00",
@@ -1567,6 +1551,22 @@
     {
       "added_at": "2022-05-19 22:02:00",
       "album": {
+        "name": "Say You Won't Let Go",
+        "url": "https://open.spotify.com/album/0BL67dR6x0CPU7B7J9P8qC"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 211240,
+      "name": "Say You Won't Let Go",
+      "url": "https://open.spotify.com/track/1Pw5C4N6Fn5E4mGCxmbbVa"
+    },
+    {
+      "added_at": "2022-05-19 22:02:00",
+      "album": {
         "name": "i don't want to watch the world end with someone else",
         "url": "https://open.spotify.com/album/610pjYthQHEHqSdF8kCTcP"
       },
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2022-05-19 22:02:00",
       "album": {
-        "name": "James Arthur (Deluxe)",
-        "url": "https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        },
-        {
-          "name": "Chasing Grace",
-          "url": "https://open.spotify.com/artist/5M6D2PqxdnZMVMCb1jNOTp"
-        }
-      ],
-      "duration_ms": 233466,
-      "name": "Certain Things (feat. Chasing Grace)",
-      "url": "https://open.spotify.com/track/5zvJELVKAnPkscGc5aLKJI"
-    },
-    {
-      "added_at": "2022-05-19 22:02:00",
-      "album": {
         "name": "Hunter Hayes (Encore)",
         "url": "https://open.spotify.com/album/5hVo5O3pGkc1VibXveW8gx"
       },
@@ -1647,6 +1627,26 @@
       "duration_ms": 228840,
       "name": "Wanted",
       "url": "https://open.spotify.com/track/0p1BcEcYVO3uk4KDf3gzkY"
+    },
+    {
+      "added_at": "2022-05-19 22:02:00",
+      "album": {
+        "name": "Let It All Go",
+        "url": "https://open.spotify.com/album/70kdvnoDEA1srIsofErTEw"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        },
+        {
+          "name": "RHODES",
+          "url": "https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS"
+        }
+      ],
+      "duration_ms": 280757,
+      "name": "Let It All Go",
+      "url": "https://open.spotify.com/track/70K0ezmzYEZeqoSaZMyP7o"
     }
   ],
   "unique_name": "Broken Heart",

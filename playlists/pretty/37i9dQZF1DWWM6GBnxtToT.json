@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 581256,
+  "num_followers": 581287,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzc1N2JkYWNhNTc1NzdlZmI2OTZhZGQzNDNjZGM0MzU1NjA1ZDk5",
+  "snapshot_id": "MCw3MjAxNmRmZWNlN2VjZTgzZDJjZGY2OGE5YzliMjI5NTM4OTY0YjEz",
   "tracks": [
     {
       "added_at": "2023-10-19 09:54:20",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "My Finest Work Yet",
-        "url": "https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Sisyphus",
-      "url": "https://open.spotify.com/track/403vzOZN0tETDpvFipkNIL"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Loving In Stereo",
         "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 182040,
       "name": "All Of The Time",
       "url": "https://open.spotify.com/track/2ezQq2qWhGO6J6q5JwC50d"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "My Finest Work Yet",
+        "url": "https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Sisyphus",
+      "url": "https://open.spotify.com/track/403vzOZN0tETDpvFipkNIL"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "golden hour",
-        "url": "https://open.spotify.com/album/1HmWZnKnecBlWqYcD7Zead"
-      },
-      "artists": [
-        {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
-        }
-      ],
-      "duration_ms": 161960,
-      "name": "ich mags",
-      "url": "https://open.spotify.com/track/5v41kP2xGYclmWX6bMhKzj"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Little Paradise",
         "url": "https://open.spotify.com/album/3Fv7seonPKOoSQqgY1WrVl"
       },
@@ -447,18 +431,18 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Colorado",
-        "url": "https://open.spotify.com/album/0zOIu4cDkUdJPq1c5uQusO"
+        "name": "golden hour",
+        "url": "https://open.spotify.com/album/1HmWZnKnecBlWqYcD7Zead"
       },
       "artists": [
         {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
         }
       ],
-      "duration_ms": 174347,
-      "name": "Colorado",
-      "url": "https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu"
+      "duration_ms": 161960,
+      "name": "ich mags",
+      "url": "https://open.spotify.com/track/5v41kP2xGYclmWX6bMhKzj"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -479,6 +463,38 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
+        "name": "Day/Night",
+        "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 219335,
+      "name": "Free - Single Version",
+      "url": "https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Colorado",
+        "url": "https://open.spotify.com/album/0zOIu4cDkUdJPq1c5uQusO"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 174347,
+      "name": "Colorado",
+      "url": "https://open.spotify.com/track/0eZmBWVC1HYayrP2fqQ7nu"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 226103,
       "name": "Odyssey",
       "url": "https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
-        "name": "Day/Night",
-        "url": "https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 219335,
-      "name": "Free - Single Version",
-      "url": "https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -575,38 +575,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Terra Firma",
-        "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 279137,
-      "name": "Pretty Lady",
-      "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
-        "name": "Mellow Moon",
-        "url": "https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr"
-      },
-      "artists": [
-        {
-          "name": "Alfie Templeman",
-          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
-        }
-      ],
-      "duration_ms": 197811,
-      "name": "3D Feelings",
-      "url": "https://open.spotify.com/track/4iz5NGjt9CccLwTvp3sNT1"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Don\u2019t Let Me Down",
         "url": "https://open.spotify.com/album/427L6hniDKMN8kWwSI4uc8"
       },
@@ -627,34 +595,18 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Hotel Surrender",
-        "url": "https://open.spotify.com/album/1EvJl2nSEPBGnu0XqKAqbq"
+        "name": "Terra Firma",
+        "url": "https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK"
       },
       "artists": [
         {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
         }
       ],
-      "duration_ms": 222936,
-      "name": "Get High",
-      "url": "https://open.spotify.com/track/3q8bVATKAOwjc8C0jY3DRd"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
-        "name": "Acting My Age",
-        "url": "https://open.spotify.com/album/2Ty2YnDFpPDqlclwEeNHVW"
-      },
-      "artists": [
-        {
-          "name": "The Academic",
-          "url": "https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti"
-        }
-      ],
-      "duration_ms": 222312,
-      "name": "Acting My Age",
-      "url": "https://open.spotify.com/track/3kcX1eNaWhs3uqgwpRWgID"
+      "duration_ms": 279137,
+      "name": "Pretty Lady",
+      "url": "https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -675,6 +627,54 @@
       "duration_ms": 225013,
       "name": "minuit",
       "url": "https://open.spotify.com/track/1DHXKDRugToFO7ak3nA06L"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Hotel Surrender",
+        "url": "https://open.spotify.com/album/1EvJl2nSEPBGnu0XqKAqbq"
+      },
+      "artists": [
+        {
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+        }
+      ],
+      "duration_ms": 222936,
+      "name": "Get High",
+      "url": "https://open.spotify.com/track/3q8bVATKAOwjc8C0jY3DRd"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Mellow Moon",
+        "url": "https://open.spotify.com/album/2v64PkXSyny26cEsuEyGzr"
+      },
+      "artists": [
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        }
+      ],
+      "duration_ms": 197811,
+      "name": "3D Feelings",
+      "url": "https://open.spotify.com/track/4iz5NGjt9CccLwTvp3sNT1"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Acting My Age",
+        "url": "https://open.spotify.com/album/2Ty2YnDFpPDqlclwEeNHVW"
+      },
+      "artists": [
+        {
+          "name": "The Academic",
+          "url": "https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti"
+        }
+      ],
+      "duration_ms": 222312,
+      "name": "Acting My Age",
+      "url": "https://open.spotify.com/track/3kcX1eNaWhs3uqgwpRWgID"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Polydans",
-        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 262798,
-      "name": "See You Again",
-      "url": "https://open.spotify.com/track/09RYDCoPd0hiw5RS1gEK8i"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Tenderfoot",
         "url": "https://open.spotify.com/album/1fFO2iwv5vhJctuGrObKaV"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 128703,
       "name": "Tenderfoot",
       "url": "https://open.spotify.com/track/7gUZ9qbIkjSPsiMKceCt9N"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 262798,
+      "name": "See You Again",
+      "url": "https://open.spotify.com/track/09RYDCoPd0hiw5RS1gEK8i"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Proportions",
-        "url": "https://open.spotify.com/album/6lbvRJMvyz5s8iddP3KJLR"
-      },
-      "artists": [
-        {
-          "name": "Seed to Tree",
-          "url": "https://open.spotify.com/artist/5eTXENvednmXhr6r5lUWhY"
-        }
-      ],
-      "duration_ms": 277480,
-      "name": "Apart",
-      "url": "https://open.spotify.com/track/2kMLIAMcNDoVLfQj5oDMAQ"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Good Mmornin",
         "url": "https://open.spotify.com/album/3FoDNOhHqVS1c9mw6NJW3T"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 336506,
       "name": "Small Worlds",
       "url": "https://open.spotify.com/track/1Wi0vXVg2cAXmfkrHwoQx4"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Proportions",
+        "url": "https://open.spotify.com/album/6lbvRJMvyz5s8iddP3KJLR"
+      },
+      "artists": [
+        {
+          "name": "Seed to Tree",
+          "url": "https://open.spotify.com/artist/5eTXENvednmXhr6r5lUWhY"
+        }
+      ],
+      "duration_ms": 277480,
+      "name": "Apart",
+      "url": "https://open.spotify.com/track/2kMLIAMcNDoVLfQj5oDMAQ"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "Bleach",
-        "url": "https://open.spotify.com/album/4LqbOcnsIgwtuzrcxHMq2L"
-      },
-      "artists": [
-        {
-          "name": "Luke Noa",
-          "url": "https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe"
-        }
-      ],
-      "duration_ms": 209960,
-      "name": "Bleach",
-      "url": "https://open.spotify.com/track/0Xct3eGoj7gMnxTdnimiJN"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
         "name": "Twister",
         "url": "https://open.spotify.com/album/0fjgBCuKoWbHTcKNcr5uYc"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 216626,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/5QMfuFrKuULYDpWJo0bbeo"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
+        "name": "Bleach",
+        "url": "https://open.spotify.com/album/4LqbOcnsIgwtuzrcxHMq2L"
+      },
+      "artists": [
+        {
+          "name": "Luke Noa",
+          "url": "https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe"
+        }
+      ],
+      "duration_ms": 209960,
+      "name": "Bleach",
+      "url": "https://open.spotify.com/track/0Xct3eGoj7gMnxTdnimiJN"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
+        "name": "How 2 Dance",
+        "url": "https://open.spotify.com/album/6wMFBGcgf2wz0WpBnOizLp"
+      },
+      "artists": [
+        {
+          "name": "Kaiser Chiefs",
+          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+        }
+      ],
+      "duration_ms": 163987,
+      "name": "How 2 Dance",
+      "url": "https://open.spotify.com/track/5zRxPWBznEa5HAc3TQbQMb"
+    },
+    {
+      "added_at": "2023-10-19 09:54:20",
+      "album": {
         "name": "Morning Dew",
         "url": "https://open.spotify.com/album/5gBPWslCH79q5c6KTDTWyp"
       },
@@ -1611,18 +1627,18 @@
     {
       "added_at": "2023-10-19 09:54:20",
       "album": {
-        "name": "How 2 Dance",
-        "url": "https://open.spotify.com/album/6wMFBGcgf2wz0WpBnOizLp"
+        "name": "Take Me Home Boy",
+        "url": "https://open.spotify.com/album/5FZw2VvfuXtRP77R0vnK0L"
       },
       "artists": [
         {
-          "name": "Kaiser Chiefs",
-          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+          "name": "Color The Night",
+          "url": "https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh"
         }
       ],
-      "duration_ms": 163987,
-      "name": "How 2 Dance",
-      "url": "https://open.spotify.com/track/5zRxPWBznEa5HAc3TQbQMb"
+      "duration_ms": 193163,
+      "name": "Take Me Home Boy",
+      "url": "https://open.spotify.com/track/08wsm7epFKstVWWaE2n9XG"
     },
     {
       "added_at": "2023-10-19 09:54:20",
@@ -1639,22 +1655,6 @@
       "duration_ms": 206290,
       "name": "Falling for You",
       "url": "https://open.spotify.com/track/2mkjdGgwSprfQNVoX7N92q"
-    },
-    {
-      "added_at": "2023-10-19 09:54:20",
-      "album": {
-        "name": "Take Me Home Boy",
-        "url": "https://open.spotify.com/album/5FZw2VvfuXtRP77R0vnK0L"
-      },
-      "artists": [
-        {
-          "name": "Color The Night",
-          "url": "https://open.spotify.com/artist/1tcGZAevGYVPBrqvJ0CZMh"
-        }
-      ],
-      "duration_ms": 193163,
-      "name": "Take Me Home Boy",
-      "url": "https://open.spotify.com/track/08wsm7epFKstVWWaE2n9XG"
     },
     {
       "added_at": "2023-10-19 09:54:20",

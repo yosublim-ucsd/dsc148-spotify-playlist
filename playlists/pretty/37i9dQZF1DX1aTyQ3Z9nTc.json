@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 131456,
+  "num_followers": 131473,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzMyOTdkMTIwZjE2ZDU5ZDRmMzA2ZjhkNTVkODIwM2M1ZGU5OTA0",
+  "snapshot_id": "MCw0MDUxNTc1YTg0YjdiY2EwOTRmYTcwMmU3M2FkNzEyZGMwYjFhMjRm",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -227,30 +227,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "KAYTRAMIN\u00c9",
-        "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
+        "name": "Be Easy",
+        "url": "https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl"
       },
       "artists": [
         {
-          "name": "KAYTRAMIN\u00c9",
-          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         },
         {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Sossaup",
-      "url": "https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX"
+      "duration_ms": 132052,
+      "name": "Be Easy",
+      "url": "https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -287,22 +279,30 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Be Easy",
-        "url": "https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl"
+        "name": "KAYTRAMIN\u00c9",
+        "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
       },
       "artists": [
         {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+          "name": "KAYTRAMIN\u00c9",
+          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
         },
         {
-          "name": "brazy",
-          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
         }
       ],
-      "duration_ms": 132052,
-      "name": "Be Easy",
-      "url": "https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB"
+      "duration_ms": 156000,
+      "name": "Sossaup",
+      "url": "https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -419,6 +419,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Obsidian",
+        "url": "https://open.spotify.com/album/4545KLMxMvi6RBnNRe58t6"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 162787,
+      "name": "Push (feat. Omah Lay)",
+      "url": "https://open.spotify.com/track/13ks10TjWmDaVL4iO8R5dV"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Caught A Body (with Ty Dolla $ign)",
         "url": "https://open.spotify.com/album/5JEgZa6di9DVcftMmEoN2r"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 147391,
       "name": "Motion (feat. Chris Brown)",
       "url": "https://open.spotify.com/track/3TV0uB4XI6vBoN7MjOhiAC"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Obsidian",
-        "url": "https://open.spotify.com/album/4545KLMxMvi6RBnNRe58t6"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 162787,
-      "name": "Push (feat. Omah Lay)",
-      "url": "https://open.spotify.com/track/13ks10TjWmDaVL4iO8R5dV"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -639,6 +639,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Dollar $hort",
+        "url": "https://open.spotify.com/album/5AlNt9tbo2tP4KcHP1xIcG"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        },
+        {
+          "name": "Flight Facilities",
+          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
+        }
+      ],
+      "duration_ms": 195415,
+      "name": "Dollar $hort",
+      "url": "https://open.spotify.com/track/6UYLv08EVHZsmMP4SrgZVw"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Iced Tea",
         "url": "https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 181052,
       "name": "Nobody Khan (Ain't Nobody)",
       "url": "https://open.spotify.com/track/0KynSPlg3g8OdZq6irgMH2"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Dollar $hort",
-        "url": "https://open.spotify.com/album/5AlNt9tbo2tP4KcHP1xIcG"
-      },
-      "artists": [
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        },
-        {
-          "name": "Flight Facilities",
-          "url": "https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM"
-        }
-      ],
-      "duration_ms": 195415,
-      "name": "Dollar $hort",
-      "url": "https://open.spotify.com/track/6UYLv08EVHZsmMP4SrgZVw"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -795,6 +795,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Inhale / Exhale (with Sabrina Claudio)",
+        "url": "https://open.spotify.com/album/1bq8eTRB7o4IWYYeUQ3p5c"
+      },
+      "artists": [
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        },
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 168888,
+      "name": "Inhale / Exhale (with Sabrina Claudio)",
+      "url": "https://open.spotify.com/track/4jhznF9z7jv08LIAtSZTnu"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Chrome Bull",
         "url": "https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g"
       },
@@ -811,22 +831,6 @@
       "duration_ms": 187938,
       "name": "Sneaky",
       "url": "https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "BB/ANG3L",
-        "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 186094,
-      "name": "Tightrope",
-      "url": "https://open.spotify.com/track/2ovaClouYyCligGAi5CzGX"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -867,26 +871,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Inhale / Exhale (with Sabrina Claudio)",
-        "url": "https://open.spotify.com/album/1bq8eTRB7o4IWYYeUQ3p5c"
-      },
-      "artists": [
-        {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        },
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 168888,
-      "name": "Inhale / Exhale (with Sabrina Claudio)",
-      "url": "https://open.spotify.com/track/4jhznF9z7jv08LIAtSZTnu"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Raven",
         "url": "https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT"
       },
@@ -899,6 +883,42 @@
       "duration_ms": 255401,
       "name": "Bruises",
       "url": "https://open.spotify.com/track/5EKjnrnyrw688C3yoMfbwK"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Breathless (with Alina Baraz)",
+        "url": "https://open.spotify.com/album/2uESefirannUYEJxBVc9rQ"
+      },
+      "artists": [
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        },
+        {
+          "name": "Alina Baraz",
+          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Breathless (with Alina Baraz)",
+      "url": "https://open.spotify.com/track/1BaNZOpKVM6OtBuMfpeGYX"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "BB/ANG3L",
+        "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 186094,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/2ovaClouYyCligGAi5CzGX"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -991,22 +1011,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Breathless (with Alina Baraz)",
-        "url": "https://open.spotify.com/album/2uESefirannUYEJxBVc9rQ"
+        "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
+        "url": "https://open.spotify.com/album/6SymPOBPwcX3daLExr5uXP"
       },
       "artists": [
         {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
         },
         {
-          "name": "Alina Baraz",
-          "url": "https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1"
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Breathless (with Alina Baraz)",
-      "url": "https://open.spotify.com/track/1BaNZOpKVM6OtBuMfpeGYX"
+      "duration_ms": 310340,
+      "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
+      "url": "https://open.spotify.com/track/4W1VDzvrBBG0lZvC221Qh5"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1035,6 +1059,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Breathwork",
+        "url": "https://open.spotify.com/album/72GuMt9GOvytS3yxco7qQ0"
+      },
+      "artists": [
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        },
+        {
+          "name": "Justine Skye",
+          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
+        }
+      ],
+      "duration_ms": 169655,
+      "name": "On + On (with Justine Skye)",
+      "url": "https://open.spotify.com/track/157TL0eU2bppVrCKnll6zR"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "EL SUR",
         "url": "https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz"
       },
@@ -1047,30 +1091,6 @@
       "duration_ms": 186299,
       "name": "BOMBAY",
       "url": "https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
-        "url": "https://open.spotify.com/album/6SymPOBPwcX3daLExr5uXP"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 310340,
-      "name": "Fever Dreamer (feat. Charlotte Day Wilson & Channel Tres)",
-      "url": "https://open.spotify.com/track/4W1VDzvrBBG0lZvC221Qh5"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1179,26 +1199,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Breathwork",
-        "url": "https://open.spotify.com/album/72GuMt9GOvytS3yxco7qQ0"
-      },
-      "artists": [
-        {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        },
-        {
-          "name": "Justine Skye",
-          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "On + On (with Justine Skye)",
-      "url": "https://open.spotify.com/track/157TL0eU2bppVrCKnll6zR"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "The Lion King: The Gift [Deluxe Edition]",
         "url": "https://open.spotify.com/album/7kUuNU2LRmr9XbwLHXU9UZ"
       },
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Freeway (with Estelle)",
+        "url": "https://open.spotify.com/album/2o1dIZfifqYphPXxxsprwZ"
+      },
+      "artists": [
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        },
+        {
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Freeway (with Estelle)",
+      "url": "https://open.spotify.com/track/0dIfJUr08iuUos2rGg9uEJ"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Suddenly",
         "url": "https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX"
       },
@@ -1247,6 +1267,22 @@
       "duration_ms": 121532,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/3ZyxwnxqSbSdYpuUHFyP13"
+      },
+      "artists": [
+        {
+          "name": "Mysie",
+          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
+        }
+      ],
+      "duration_ms": 142624,
+      "name": "PLAY",
+      "url": "https://open.spotify.com/track/4FuIICqqCqELB9TxsxLqNv"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1267,22 +1303,6 @@
       "duration_ms": 174092,
       "name": "Hourglass",
       "url": "https://open.spotify.com/track/7udNt8rbaYcuYKaAtkA8qn"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "PLAY",
-        "url": "https://open.spotify.com/album/3ZyxwnxqSbSdYpuUHFyP13"
-      },
-      "artists": [
-        {
-          "name": "Mysie",
-          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
-        }
-      ],
-      "duration_ms": 142624,
-      "name": "PLAY",
-      "url": "https://open.spotify.com/track/4FuIICqqCqELB9TxsxLqNv"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1351,26 +1371,6 @@
       "duration_ms": 205330,
       "name": "90s - Remix",
       "url": "https://open.spotify.com/track/1NzjKlRWYEfH3UORKH0zyD"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Freeway (with Estelle)",
-        "url": "https://open.spotify.com/album/2o1dIZfifqYphPXxxsprwZ"
-      },
-      "artists": [
-        {
-          "name": "Austin Millz",
-          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
-        },
-        {
-          "name": "Estelle",
-          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Freeway (with Estelle)",
-      "url": "https://open.spotify.com/track/0dIfJUr08iuUos2rGg9uEJ"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "HYPNOS",
-        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "Xtasy",
-      "url": "https://open.spotify.com/track/0jqJNqmrdryU1nnctIzu9n"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "D.W.Y.W. (Do What You Want)",
         "url": "https://open.spotify.com/album/4w9VuxCHKZ3tBTCvYgNgCL"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 237929,
       "name": "Already",
       "url": "https://open.spotify.com/track/0Bef4OMTKyY908qrX0O0cs"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "HYPNOS",
+        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "Xtasy",
+      "url": "https://open.spotify.com/track/0jqJNqmrdryU1nnctIzu9n"
     },
     {
       "added_at": "2023-12-08 05:00:00",

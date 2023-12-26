@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > 日本で活躍するボーイズグループを特集。cover: Travis Japan
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,162 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,163 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 30 | [Whatcha Gonna Do](https://open.spotify.com/track/7xW477Puc2lltQKKYbihrw) | [IVVY](https://open.spotify.com/artist/2vt1pSDdswpATBUN6lPMre) | [Whatcha Gonna Do](https://open.spotify.com/album/4CHSQQXvYFdtNgiN5gsLsL) | 3:38 |
 | 31 | [Museum:0](https://open.spotify.com/track/7iXhqF9wwmi2wi5F6fvx5G) | [原因は自分にある。](https://open.spotify.com/artist/752sVqd0A0Hki7Gd2iOOV6) | [Museum:0](https://open.spotify.com/album/5ZW0izZ8SaXSlUTSqrBS41) | 3:21 |
 | 32 | [15分](https://open.spotify.com/track/0vlxTcz1kjz6GjudTYl8Ye) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [15分](https://open.spotify.com/album/75YVfifI9CEnG92jKPEr3j) | 4:24 |
-| 33 | [スターマイン](https://open.spotify.com/track/0akvgdebTkERlRqNKJZuFy) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [イマ](https://open.spotify.com/album/4jvQHJZWEBoYhFSsXTmPEP) | 3:47 |
+| 33 | [Candy Kiss](https://open.spotify.com/track/6xRRLIrxljDrTkPKrI97B1) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Candy Kiss](https://open.spotify.com/album/16NHuaRilxZNcZ8OdJD3pK) | 3:19 |
 | 34 | [SHIBUYA PM6:00](https://open.spotify.com/track/5jGyoM0bymA1gXkuZSWCBN) | [ICEx](https://open.spotify.com/artist/36eLruAH70vIII9ppzQ5QP) | [SHIBUYA PM6:00](https://open.spotify.com/album/2ZhjbOHo3DbHnj7AdrWAov) | 3:50 |
-| 35 | [Candy Kiss](https://open.spotify.com/track/6xRRLIrxljDrTkPKrI97B1) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Candy Kiss](https://open.spotify.com/album/16NHuaRilxZNcZ8OdJD3pK) | 3:19 |
+| 35 | [スターマイン](https://open.spotify.com/track/0akvgdebTkERlRqNKJZuFy) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [イマ](https://open.spotify.com/album/4jvQHJZWEBoYhFSsXTmPEP) | 3:47 |
 | 36 | [NEW KIDZ](https://open.spotify.com/track/2aMr20hmw6g8dbvNtzpbot) | [Ennui Boys Club](https://open.spotify.com/artist/0OPl3KW0woHv7jrxHIGkbG) | [VOL ONE](https://open.spotify.com/album/3c4NWHoiWcJLNBYJCnZKPB) | 3:37 |
 | 37 | [SHORYU \(→↓↘＋P\)](https://open.spotify.com/track/7HPxx65QOWaKi2O5tXMImn) | [龍宮城](https://open.spotify.com/artist/0xOawbTJb7VLKsaJGjpeCK) | [SHORYU \(→↓↘＋P\)](https://open.spotify.com/album/36of8h5UNm53gMLFAKWx8W) | 3:06 |
 | 38 | [Reason](https://open.spotify.com/track/7qqxXmYJxkWzDFyVisW5Cm) | [EXILE](https://open.spotify.com/artist/6zGmypGQUBXD4ZC9EbfMme) | [Reason](https://open.spotify.com/album/3O9KOYys6M3UjMJzyV30ll) | 3:23 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 44 | [Crazy Love](https://open.spotify.com/track/4PXjBiPCSYd5YwsvKutokh) | [XY](https://open.spotify.com/artist/2MOWJsCM7TRwG7K7eIZzxC) | [Crazy Love](https://open.spotify.com/album/7fegzwJexmObtgCpqhI0vt) | 5:02 |
 | 45 | [NEW STAR](https://open.spotify.com/track/4fGkb1BWnzrppNuGUeUSaZ) | [n.SSign](https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI) | [NEW STAR](https://open.spotify.com/album/4ohVAtGzJTQCIKJTMzGLAb) | 3:29 |
 | 46 | [Eyes On Me](https://open.spotify.com/track/79O9h4Q9w1X6w3tHTJSu8y) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Eyes On Me](https://open.spotify.com/album/2raPbaN1bh2UWTGqgz8Gvl) | 2:51 |
-| 47 | [沈丁花](https://open.spotify.com/track/79TdseXlAiANFOTstIwejv) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [沈丁花](https://open.spotify.com/album/6oIaKTyZjmZS995rPf08jS) | 3:51 |
-| 48 | [Under the skin](https://open.spotify.com/track/14OcSHjrsHoZBJHwaYefH7) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Under the skin](https://open.spotify.com/album/0UVj9I0OG2Ti1QjHVRpO2K) | 3:11 |
-| 49 | [SOS](https://open.spotify.com/track/3gahDIUGQT0Hlmf5zNN4ta) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 2:56 |
+| 47 | [SOS](https://open.spotify.com/track/3gahDIUGQT0Hlmf5zNN4ta) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Mainstream](https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j) | 2:56 |
+| 48 | [沈丁花](https://open.spotify.com/track/79TdseXlAiANFOTstIwejv) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [沈丁花](https://open.spotify.com/album/6oIaKTyZjmZS995rPf08jS) | 3:51 |
+| 49 | [Under the skin](https://open.spotify.com/track/14OcSHjrsHoZBJHwaYefH7) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [Under the skin](https://open.spotify.com/album/0UVj9I0OG2Ti1QjHVRpO2K) | 3:11 |
 | 50 | [JUST DANCE!](https://open.spotify.com/track/337dZo6Fo3hIq0iMANoZmS) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [JUST DANCE!](https://open.spotify.com/album/5pNQWKfMgZXtN6rCXoFgLT) | 2:57 |
 
-Snapshot ID: `MCw3MTkwNTAxYWFmYzEwYjg0ODFjODFkNzcwZjc5NjViMzFlZTY2MGJi`
+Snapshot ID: `MCwzMzY3ODY3ZjNmNWY5MWQ2MmZmYjNiZjYxYjc3NDFlNGI5YTlmYzYz`

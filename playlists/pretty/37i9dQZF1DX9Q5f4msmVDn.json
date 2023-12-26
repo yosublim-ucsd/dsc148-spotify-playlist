@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/archdvs/\">Archie Davis</a>",
-  "num_followers": 17480,
+  "num_followers": 17506,
   "original_name": "Archie Davis' Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzVlYTM4YTJlNGEzNjI4Y2VlZTliNmE5Njg3ZDYwYmVlNDAwMTU2",
+  "snapshot_id": "MCw1YmM4YjA5Y2JkMzA2Mjg5YmI0Y2M3NGNkODExMmFjNWExMTI3MGFl",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -319,22 +319,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Soundgasm",
-        "url": "https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 204755,
-      "name": "Soundgasm",
-      "url": "https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Out The Trunk",
         "url": "https://open.spotify.com/album/5d3B7aEbk5qvssQvlmQXJZ"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 224347,
       "name": "Smoothies In 1991",
       "url": "https://open.spotify.com/track/5hmv0zcBcIX8OIVG98imHa"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Soundgasm",
+        "url": "https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 204755,
+      "name": "Soundgasm",
+      "url": "https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -379,38 +379,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Slauson Boy 2",
-        "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
-      },
-      "artists": [
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        }
-      ],
-      "duration_ms": 230080,
-      "name": "Ocean Views",
-      "url": "https://open.spotify.com/track/1f0tj0IQ28OXq7hS0Rz0LH"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "All Eyez On Me",
-        "url": "https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 283373,
-      "name": "Heartz Of Men",
-      "url": "https://open.spotify.com/track/6VAdOq9sndm8QQqXx4BhkK"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "CALL ME IF YOU GET LOST",
         "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
       },
@@ -431,6 +399,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "All Eyez On Me",
+        "url": "https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 283373,
+      "name": "Heartz Of Men",
+      "url": "https://open.spotify.com/track/6VAdOq9sndm8QQqXx4BhkK"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Thirsty",
         "url": "https://open.spotify.com/album/04IAkH0X6ZDu6T35zD8KQy"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 415133,
       "name": "Never Would Have Made It",
       "url": "https://open.spotify.com/track/3QdBvvYJ9k1CES1e9aYvaA"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Slauson Boy 2",
+        "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "duration_ms": 230080,
+      "name": "Ocean Views",
+      "url": "https://open.spotify.com/track/1f0tj0IQ28OXq7hS0Rz0LH"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -507,6 +507,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "In Search Of Lost Time",
+        "url": "https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW"
+      },
+      "artists": [
+        {
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 234920,
+      "name": "Switch It Up (feat. Koffee)",
+      "url": "https://open.spotify.com/track/5RPuPEZ0HiXPTnzwqfJMa8"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Dinner Party",
         "url": "https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 179226,
       "name": "Sleepless Nights (feat. Phoelix)",
       "url": "https://open.spotify.com/track/6h7jn2jE2EqJadOkDXsDJh"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "In Search Of Lost Time",
-        "url": "https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW"
-      },
-      "artists": [
-        {
-          "name": "Protoje",
-          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
-        },
-        {
-          "name": "Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 234920,
-      "name": "Switch It Up (feat. Koffee)",
-      "url": "https://open.spotify.com/track/5RPuPEZ0HiXPTnzwqfJMa8"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -887,26 +887,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "gold fronts (feat. Lil Wayne)",
-        "url": "https://open.spotify.com/album/6zrhRSr8mkBjiklBDFtMub"
-      },
-      "artists": [
-        {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 235978,
-      "name": "gold fronts (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/7yOEBtOgzkgN52pfM7SOnm"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "What It Feels Like",
         "url": "https://open.spotify.com/album/5h6d9ezpObCGHnDkJKsjk3"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 431133,
       "name": "Happy Feelin's",
       "url": "https://open.spotify.com/track/6OxTGWA4bxZ1u1auaeTDNv"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "gold fronts (feat. Lil Wayne)",
+        "url": "https://open.spotify.com/album/6zrhRSr8mkBjiklBDFtMub"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 235978,
+      "name": "gold fronts (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/7yOEBtOgzkgN52pfM7SOnm"
     }
   ],
   "unique_name": "Archie Davis' Taste",

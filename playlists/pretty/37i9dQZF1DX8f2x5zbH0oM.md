@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f2x5zbH0oM.md) - [plain]
 
 > La playlist au\-delà des genres\. Photo : James Blake
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,807 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,808 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f2x5zbH0oM.md) - [plain]
 | 49 | [Tears can be so soft](https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Tears can be so soft](https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O) | 5:11 |
 | 50 | [Violet](https://open.spotify.com/track/1EQjOZMvkOXWMK2gx6yTZd) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Good People](https://open.spotify.com/album/3c2sTUBeNCa5Nf6HACiyA3) | 7:18 |
 
-Snapshot ID: `MCwwNTNlZTVlOTc1M2MzYjg5ODJlZTkwODJiYzVmNDc3YzhkMGJkNTFk`
+Snapshot ID: `MCw1NDVlY2ViYjViMjg4M2I3ZWI1YzFlMGYzODUxMzQ3MTQ0NjAzYzQ1`

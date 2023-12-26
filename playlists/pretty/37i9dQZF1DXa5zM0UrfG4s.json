@@ -1,12 +1,12 @@
 {
   "description": "b\u00f8gdebangers du kan spelle i kjerra! ",
-  "num_followers": 106867,
+  "num_followers": 106877,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2E3ZTQxNTgxNWUzZWNmNjQ0OWMxNjk2ZDYzZGI0M2Y5MGZmNjQ1",
+  "snapshot_id": "MCxiMWU4MWY0MmM0ZTNlYWY0YTAyYTMyNmExZDA4ZGYwZTU5N2Y3NmEx",
   "tracks": [
     {
       "added_at": "2023-12-14 23:00:00",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Hjertel\u00f8s",
-        "url": "https://open.spotify.com/album/14EKNiLzDMZicYko6DBUFV"
-      },
-      "artists": [
-        {
-          "name": "El Papi",
-          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
-        }
-      ],
-      "duration_ms": 137942,
-      "name": "Hjertel\u00f8s",
-      "url": "https://open.spotify.com/track/5PzratDTUf07VyMKrGGxz3"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "P\u00e5 vei",
         "url": "https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 235853,
       "name": "Rundt neste sving",
       "url": "https://open.spotify.com/track/0ARPFpJeBfsRmwrrzdvrls"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Hjertel\u00f8s",
+        "url": "https://open.spotify.com/album/14EKNiLzDMZicYko6DBUFV"
+      },
+      "artists": [
+        {
+          "name": "El Papi",
+          "url": "https://open.spotify.com/artist/54CixfaGAPcjkP7Dx5PjvV"
+        }
+      ],
+      "duration_ms": 137942,
+      "name": "Hjertel\u00f8s",
+      "url": "https://open.spotify.com/track/5PzratDTUf07VyMKrGGxz3"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -491,30 +491,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Mawbys",
-        "url": "https://open.spotify.com/album/43BorH9aWDTNcbCWGreg0I"
-      },
-      "artists": [
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
-        },
-        {
-          "name": "Thomskalle",
-          "url": "https://open.spotify.com/artist/2roRgovbg60YolEmVRRYwn"
-        },
-        {
-          "name": "Ginger Joe",
-          "url": "https://open.spotify.com/artist/309wPjSGQsRMlEBHrVcDtS"
-        }
-      ],
-      "duration_ms": 184508,
-      "name": "Mawbys",
-      "url": "https://open.spotify.com/track/0afgcFu473Mm5dyKQgNQGq"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "MEDVETSL\u00d6S (Ringnes-Ronny Remix)",
         "url": "https://open.spotify.com/album/45I8yqaI4OJyg425GLNowv"
       },
@@ -531,6 +507,22 @@
       "duration_ms": 186692,
       "name": "MEDVETSL\u00d6S - Ringnes-Ronny Remix",
       "url": "https://open.spotify.com/track/6GgK6y4XRp2D4hNO5oj7Bt"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Ligga low",
+        "url": "https://open.spotify.com/album/4TzKEBkFQ2kfL41bn7fm0d"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 151411,
+      "name": "Ligga low",
+      "url": "https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -571,18 +563,42 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Ligga low",
-        "url": "https://open.spotify.com/album/4TzKEBkFQ2kfL41bn7fm0d"
+        "name": "Mawbys",
+        "url": "https://open.spotify.com/album/43BorH9aWDTNcbCWGreg0I"
       },
       "artists": [
         {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        },
+        {
+          "name": "Thomskalle",
+          "url": "https://open.spotify.com/artist/2roRgovbg60YolEmVRRYwn"
+        },
+        {
+          "name": "Ginger Joe",
+          "url": "https://open.spotify.com/artist/309wPjSGQsRMlEBHrVcDtS"
         }
       ],
-      "duration_ms": 151411,
-      "name": "Ligga low",
-      "url": "https://open.spotify.com/track/507T2C0pVA8P4cElwhfEuV"
+      "duration_ms": 184508,
+      "name": "Mawbys",
+      "url": "https://open.spotify.com/track/0afgcFu473Mm5dyKQgNQGq"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "R\u00f6d Chevrolet",
+        "url": "https://open.spotify.com/album/5urzDMt0XkBEwmGAZCtxYB"
+      },
+      "artists": [
+        {
+          "name": "Lasse Stefanz",
+          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
+        }
+      ],
+      "duration_ms": 222533,
+      "name": "Det regnar och regnar",
+      "url": "https://open.spotify.com/track/6Id0DbZqrV9Vy64WlxU1ce"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -607,22 +623,6 @@
       "duration_ms": 137816,
       "name": "Gamleveien",
       "url": "https://open.spotify.com/track/5qS9HY1sq4Zuyzm7Mpgjir"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "R\u00f6d Chevrolet",
-        "url": "https://open.spotify.com/album/5urzDMt0XkBEwmGAZCtxYB"
-      },
-      "artists": [
-        {
-          "name": "Lasse Stefanz",
-          "url": "https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu"
-        }
-      ],
-      "duration_ms": 222533,
-      "name": "Det regnar och regnar",
-      "url": "https://open.spotify.com/track/6Id0DbZqrV9Vy64WlxU1ce"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
+        "name": "F*CKED UP!",
+        "url": "https://open.spotify.com/album/2C3PepE12YTbPAAt67hqji"
+      },
+      "artists": [
+        {
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+        }
+      ],
+      "duration_ms": 167760,
+      "name": "F*CKED UP!",
+      "url": "https://open.spotify.com/track/2D3O7NUUdTrMu30ZtGa2s6"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
         "name": "TANTE",
         "url": "https://open.spotify.com/album/6XTc3QIanjhLFRlTk62SkU"
       },
@@ -695,18 +711,22 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "F*CKED UP!",
-        "url": "https://open.spotify.com/album/2C3PepE12YTbPAAt67hqji"
+        "name": "\u00d6ver gr\u00e4nsen",
+        "url": "https://open.spotify.com/album/5NmNTHYvTGmVOxRmuEr1YA"
       },
       "artists": [
         {
-          "name": "LOAM",
-          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Elov & Beny",
+          "url": "https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd"
         }
       ],
-      "duration_ms": 167760,
-      "name": "F*CKED UP!",
-      "url": "https://open.spotify.com/track/2D3O7NUUdTrMu30ZtGa2s6"
+      "duration_ms": 138250,
+      "name": "\u00d6ver gr\u00e4nsen",
+      "url": "https://open.spotify.com/track/3MWFPfsyvLWKceLAPx0hHY"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -735,22 +755,18 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "\u00d6ver gr\u00e4nsen",
-        "url": "https://open.spotify.com/album/5NmNTHYvTGmVOxRmuEr1YA"
+        "name": "En j\u00e4vel p\u00e5 att ragga bil",
+        "url": "https://open.spotify.com/album/5tsqsn7LIbz7dNsdrhs82C"
       },
       "artists": [
         {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        },
-        {
-          "name": "Elov & Beny",
-          "url": "https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd"
+          "name": "Kuselofte",
+          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
         }
       ],
-      "duration_ms": 138250,
-      "name": "\u00d6ver gr\u00e4nsen",
-      "url": "https://open.spotify.com/track/3MWFPfsyvLWKceLAPx0hHY"
+      "duration_ms": 166624,
+      "name": "En j\u00e4vel p\u00e5 att ragga bil",
+      "url": "https://open.spotify.com/track/1wzf0oO2OT51wljEGIprag"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -783,22 +799,6 @@
       "duration_ms": 201920,
       "name": "Aldri tilbake",
       "url": "https://open.spotify.com/track/6qBJhWis1EGlcDvC74PTyS"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "En j\u00e4vel p\u00e5 att ragga bil",
-        "url": "https://open.spotify.com/album/5tsqsn7LIbz7dNsdrhs82C"
-      },
-      "artists": [
-        {
-          "name": "Kuselofte",
-          "url": "https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2"
-        }
-      ],
-      "duration_ms": 166624,
-      "name": "En j\u00e4vel p\u00e5 att ragga bil",
-      "url": "https://open.spotify.com/track/1wzf0oO2OT51wljEGIprag"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -911,6 +911,26 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
+        "name": "DJ M\u00f8M\u00f8 presenterer: Bukkene Bruse p\u00e5 badeland",
+        "url": "https://open.spotify.com/album/6HaCd9C4gfNGWNsOc7fvIH"
+      },
+      "artists": [
+        {
+          "name": "DJ M\u00f8M\u00f8",
+          "url": "https://open.spotify.com/artist/6ca1Pm4bp04bPJF1dfhmqu"
+        },
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        }
+      ],
+      "duration_ms": 116197,
+      "name": "H\u00e6ljetur (feat. Hagle)",
+      "url": "https://open.spotify.com/track/2lKpjq5umtW2Z6ZVeJA1FR"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
         "name": "Konge p\u00e5 b\u00f8gda",
         "url": "https://open.spotify.com/album/5usqJIXSD19j31MtHaBQlb"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 143261,
       "name": "Livet Er Herlig",
       "url": "https://open.spotify.com/track/1cb0J9fgwlnQtESfcRV0XJ"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "DJ M\u00f8M\u00f8 presenterer: Bukkene Bruse p\u00e5 badeland",
-        "url": "https://open.spotify.com/album/6HaCd9C4gfNGWNsOc7fvIH"
-      },
-      "artists": [
-        {
-          "name": "DJ M\u00f8M\u00f8",
-          "url": "https://open.spotify.com/artist/6ca1Pm4bp04bPJF1dfhmqu"
-        },
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        }
-      ],
-      "duration_ms": 116197,
-      "name": "H\u00e6ljetur (feat. Hagle)",
-      "url": "https://open.spotify.com/track/2lKpjq5umtW2Z6ZVeJA1FR"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1011,6 +1011,30 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
+        "name": "Helt Sykt VOL2",
+        "url": "https://open.spotify.com/album/6JsrkSrKeMMpnUpq5tTLtA"
+      },
+      "artists": [
+        {
+          "name": "Staysman & Lazz",
+          "url": "https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+        }
+      ],
+      "duration_ms": 185884,
+      "name": "En Siste Gang",
+      "url": "https://open.spotify.com/track/6tt3Na8Vjw1H2fCUcUivi5"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
         "name": "Vakker og vill",
         "url": "https://open.spotify.com/album/3Cfg2JAQxBaLTMDfecHAGj"
       },
@@ -1023,6 +1047,26 @@
       "duration_ms": 226946,
       "name": "Vakker og vill",
       "url": "https://open.spotify.com/track/3GDZfYNvBVFfh3DER8F4iW"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "B\u00f8gda",
+        "url": "https://open.spotify.com/album/2FlHmlFjUImjvasA84suRu"
+      },
+      "artists": [
+        {
+          "name": "Hagle",
+          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "duration_ms": 164127,
+      "name": "B\u00f8gda",
+      "url": "https://open.spotify.com/track/1MpCvOlkM8VbH50AL7mAUm"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1063,50 +1107,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "B\u00f8gda",
-        "url": "https://open.spotify.com/album/2FlHmlFjUImjvasA84suRu"
-      },
-      "artists": [
-        {
-          "name": "Hagle",
-          "url": "https://open.spotify.com/artist/4gDfRB8znZzXih7iQ3pGeW"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        }
-      ],
-      "duration_ms": 164127,
-      "name": "B\u00f8gda",
-      "url": "https://open.spotify.com/track/1MpCvOlkM8VbH50AL7mAUm"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Helt Sykt VOL2",
-        "url": "https://open.spotify.com/album/6JsrkSrKeMMpnUpq5tTLtA"
-      },
-      "artists": [
-        {
-          "name": "Staysman & Lazz",
-          "url": "https://open.spotify.com/artist/2dViR9WphpDpMB3oUiDblq"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        },
-        {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        }
-      ],
-      "duration_ms": 185884,
-      "name": "En Siste Gang",
-      "url": "https://open.spotify.com/track/6tt3Na8Vjw1H2fCUcUivi5"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "Hardanger",
         "url": "https://open.spotify.com/album/02ryizgagnxpEPbjcRuplt"
       },
@@ -1119,22 +1119,6 @@
       "duration_ms": 236387,
       "name": "Hardanger",
       "url": "https://open.spotify.com/track/40ZhguqieJZ0AJTHKQY6Q4"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "N\u00e5 Koser Vi Oss",
-        "url": "https://open.spotify.com/album/4xXIxalm2k3gzYDPxBUgaF"
-      },
-      "artists": [
-        {
-          "name": "TIX",
-          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
-        }
-      ],
-      "duration_ms": 169466,
-      "name": "N\u00e5 Koser Vi Oss",
-      "url": "https://open.spotify.com/track/6bZHVGx3Qj0zoUUSZjextf"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -1155,6 +1139,22 @@
       "duration_ms": 138454,
       "name": "Hytta Mi",
       "url": "https://open.spotify.com/track/6gyGtshjMiOrtqXJp553FZ"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "N\u00e5 Koser Vi Oss",
+        "url": "https://open.spotify.com/album/4xXIxalm2k3gzYDPxBUgaF"
+      },
+      "artists": [
+        {
+          "name": "TIX",
+          "url": "https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9"
+        }
+      ],
+      "duration_ms": 169466,
+      "name": "N\u00e5 Koser Vi Oss",
+      "url": "https://open.spotify.com/track/6bZHVGx3Qj0zoUUSZjextf"
     },
     {
       "added_at": "2023-12-14 23:00:00",

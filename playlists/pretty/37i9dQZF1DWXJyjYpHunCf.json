@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: asiris",
-  "num_followers": 885225,
+  "num_followers": 885362,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGFhODFlNjUzODI1MmM2ZDViMzk4NzNiMzc2ZGE1NDk5OTdkMTNi",
+  "snapshot_id": "MCxmMTJlMTI0YTM0OTExY2NlYmE4NGYyOGMyYzVlMzYxYjg2NTY2ZGUz",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -307,6 +307,26 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "She Calls Me Back (with Kacey Musgraves)",
+        "url": "https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 243962,
+      "name": "She Calls Me Back (with Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "something to remember",
         "url": "https://open.spotify.com/album/1XReJJvzNwuKvwcGtSbdfo"
       },
@@ -335,26 +355,6 @@
       "duration_ms": 180086,
       "name": "You Are Enough",
       "url": "https://open.spotify.com/track/1Wdj4wRDYS7aT4CoPS0mAH"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "She Calls Me Back (with Kacey Musgraves)",
-        "url": "https://open.spotify.com/album/6XPbfNCiFWlz1Licn4IEHz"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 243962,
-      "name": "She Calls Me Back (with Kacey Musgraves)",
-      "url": "https://open.spotify.com/track/0p1hBWPaSxUDTSa32PyhnU"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -423,6 +423,26 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Call Your Mom (with Lizzy McAlpine)",
+        "url": "https://open.spotify.com/album/2b2RIvl7kxH6XQ0A8Yejku"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 278670,
+      "name": "Call Your Mom (with Lizzy McAlpine)",
+      "url": "https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -471,26 +491,6 @@
       "duration_ms": 199391,
       "name": "Thinking 'Bout Love",
       "url": "https://open.spotify.com/track/42UaitnwvuKqNcD5Oa2HlD"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Call Your Mom (with Lizzy McAlpine)",
-        "url": "https://open.spotify.com/album/2b2RIvl7kxH6XQ0A8Yejku"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 278670,
-      "name": "Call Your Mom (with Lizzy McAlpine)",
-      "url": "https://open.spotify.com/track/3fKpSA5w8iqLe9sNdIDESW"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -579,18 +579,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 182346,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
+      "duration_ms": 231000,
+      "name": "Thousand Miles (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/3DoSolxGSDoV7G7MtcIPiZ"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -611,22 +615,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Endless Summer Vacation",
-        "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
       },
       "artists": [
         {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 231000,
-      "name": "Thousand Miles (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/3DoSolxGSDoV7G7MtcIPiZ"
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Sidelines",
-        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        }
-      ],
-      "duration_ms": 213920,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/52BtapS0Wy7LM8R6QvJRpp"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "as good a reason",
         "url": "https://open.spotify.com/album/2Npo80FlYSQtGbbd2wChH9"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 169721,
       "name": "as good a reason",
       "url": "https://open.spotify.com/track/3wPm5GutqeJtOgsjwbtvnh"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 213920,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/52BtapS0Wy7LM8R6QvJRpp"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Until You",
-        "url": "https://open.spotify.com/album/03MCMaTPo8CiVxwcCvgyem"
-      },
-      "artists": [
-        {
-          "name": "AHI",
-          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
-        }
-      ],
-      "duration_ms": 198653,
-      "name": "Until You",
-      "url": "https://open.spotify.com/track/7iH6cflAGYwR82sNMZiGuq"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "In These Silent Days",
         "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 230098,
       "name": "You and Me On The Rock (feat. Lucius)",
       "url": "https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Until You",
+        "url": "https://open.spotify.com/album/03MCMaTPo8CiVxwcCvgyem"
+      },
+      "artists": [
+        {
+          "name": "AHI",
+          "url": "https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH"
+        }
+      ],
+      "duration_ms": 198653,
+      "name": "Until You",
+      "url": "https://open.spotify.com/track/7iH6cflAGYwR82sNMZiGuq"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Finch",
-        "url": "https://open.spotify.com/album/0ixOUcKraH7Y3tIV1MGoRo"
-      },
-      "artists": [
-        {
-          "name": "Penny and Sparrow",
-          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
-        }
-      ],
-      "duration_ms": 168712,
-      "name": "Eloise",
-      "url": "https://open.spotify.com/track/3XnDbrxxtA40HPIIRWLgRT"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Gold Rush Kid (Christmas Edition)",
         "url": "https://open.spotify.com/album/5VhB98v1gr4krR7p4AxxF0"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 194275,
       "name": "Dance All Over Me",
       "url": "https://open.spotify.com/track/2KFnufr3OFxvbv9JiQ9cty"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Finch",
+        "url": "https://open.spotify.com/album/0ixOUcKraH7Y3tIV1MGoRo"
+      },
+      "artists": [
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+        }
+      ],
+      "duration_ms": 168712,
+      "name": "Eloise",
+      "url": "https://open.spotify.com/track/3XnDbrxxtA40HPIIRWLgRT"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1063,6 +1063,42 @@
       "duration_ms": 211066,
       "name": "Sweet Ever After (feat. Bear Rinehart of NEEDTOBREATHE)",
       "url": "https://open.spotify.com/track/0zdLZywwUVyg8xnzzxgDBP"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Mom & Dad",
+        "url": "https://open.spotify.com/album/0VfH1xz9pcm8RkjXN0INmn"
+      },
+      "artists": [
+        {
+          "name": "Darren Kiely",
+          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
+        }
+      ],
+      "duration_ms": 203683,
+      "name": "Mom & Dad",
+      "url": "https://open.spotify.com/track/0wW8h0pLHZwNFv2v2e3KHw"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "We\u2019re All Gonna Die",
+        "url": "https://open.spotify.com/album/1uiwlKORLzoDvBsDiLdkm4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 179202,
+      "name": "We\u2019re All Gonna Die (with Noah Kahan)",
+      "url": "https://open.spotify.com/track/2Eb2TKNAaE15Fqd4A3MFWU"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1111,42 +1147,6 @@
       "duration_ms": 215516,
       "name": "What I Do",
       "url": "https://open.spotify.com/track/27V9QAXyt9u9itQpS7A7lO"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Mom & Dad",
-        "url": "https://open.spotify.com/album/0VfH1xz9pcm8RkjXN0INmn"
-      },
-      "artists": [
-        {
-          "name": "Darren Kiely",
-          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
-        }
-      ],
-      "duration_ms": 203683,
-      "name": "Mom & Dad",
-      "url": "https://open.spotify.com/track/0wW8h0pLHZwNFv2v2e3KHw"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "We\u2019re All Gonna Die",
-        "url": "https://open.spotify.com/album/1uiwlKORLzoDvBsDiLdkm4"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        },
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 179202,
-      "name": "We\u2019re All Gonna Die (with Noah Kahan)",
-      "url": "https://open.spotify.com/track/2Eb2TKNAaE15Fqd4A3MFWU"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/2q2sRqH8kcKVf1bFsqvx7w"
+      },
+      "artists": [
+        {
+          "name": "Darren Kiely",
+          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
+        }
+      ],
+      "duration_ms": 179731,
+      "name": "Blood Red",
+      "url": "https://open.spotify.com/track/3tJ3FGEU3wKpE8cNDiu060"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "A Pillar of Salt",
         "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
       },
@@ -1287,22 +1303,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/2q2sRqH8kcKVf1bFsqvx7w"
-      },
-      "artists": [
-        {
-          "name": "Darren Kiely",
-          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
-        }
-      ],
-      "duration_ms": 179731,
-      "name": "Blood Red",
-      "url": "https://open.spotify.com/track/3tJ3FGEU3wKpE8cNDiu060"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "searching for freedom",
         "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
       },
@@ -1315,6 +1315,22 @@
       "duration_ms": 266999,
       "name": "letting go",
       "url": "https://open.spotify.com/track/30a5DDL7xq347S143EoOPp"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Backstage in Glasgow",
+        "url": "https://open.spotify.com/album/2LbmNfBamXEj7SLzpvNY4S"
+      },
+      "artists": [
+        {
+          "name": "The 502s",
+          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
+        }
+      ],
+      "duration_ms": 136107,
+      "name": "Backstage in Glasgow",
+      "url": "https://open.spotify.com/track/5suIDwVxRuLiSI1RBrFbjP"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1367,22 +1383,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Backstage in Glasgow",
-        "url": "https://open.spotify.com/album/2LbmNfBamXEj7SLzpvNY4S"
-      },
-      "artists": [
-        {
-          "name": "The 502s",
-          "url": "https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX"
-        }
-      ],
-      "duration_ms": 136107,
-      "name": "Backstage in Glasgow",
-      "url": "https://open.spotify.com/track/5suIDwVxRuLiSI1RBrFbjP"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Yard Sale",
         "url": "https://open.spotify.com/album/3QtYZFAUnjY7M8FjpXvBFC"
       },
@@ -1431,18 +1431,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Pretty Picture, Dirty Brush",
-        "url": "https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj"
+        "name": "Leave It Better Than You Found It",
+        "url": "https://open.spotify.com/album/5rGQr2kYqMdISOjXQJkul8"
       },
       "artists": [
         {
-          "name": "The Harmaleighs",
-          "url": "https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN"
+          "name": "Judah & the Lion",
+          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
+        },
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
         }
       ],
-      "duration_ms": 156360,
-      "name": "I Keep Ticking On",
-      "url": "https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP"
+      "duration_ms": 285795,
+      "name": "Leave It Better Than You Found It",
+      "url": "https://open.spotify.com/track/73OY8N8vCvK9iKuPoEtSNG"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1463,22 +1467,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Leave It Better Than You Found It",
-        "url": "https://open.spotify.com/album/5rGQr2kYqMdISOjXQJkul8"
+        "name": "Pretty Picture, Dirty Brush",
+        "url": "https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj"
       },
       "artists": [
         {
-          "name": "Judah & the Lion",
-          "url": "https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ"
-        },
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+          "name": "The Harmaleighs",
+          "url": "https://open.spotify.com/artist/0JpiOyzO3e8FYCsDe8EaUN"
         }
       ],
-      "duration_ms": 285795,
-      "name": "Leave It Better Than You Found It",
-      "url": "https://open.spotify.com/track/73OY8N8vCvK9iKuPoEtSNG"
+      "duration_ms": 156360,
+      "name": "I Keep Ticking On",
+      "url": "https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP"
     },
     {
       "added_at": "2023-12-15 05:00:00",

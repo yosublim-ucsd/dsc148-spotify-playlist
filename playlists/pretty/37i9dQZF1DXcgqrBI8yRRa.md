@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 
 > Sold out shows and Illuminati allegations
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,940 likes - 30 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,977 likes - 30 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgqrBI8yRRa.md) - [plain]
 | 29 | [Puff & Pass](https://open.spotify.com/track/6WUdooO1NS5LZadjGNwY5U) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Puff & Pass](https://open.spotify.com/album/2ktmJpxJYszyMXloEkbh8F) | 2:41 |
 | 30 | [On To The Next One](https://open.spotify.com/track/4ljDnzzqwnRIynr1g55um4) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [The Blueprint 3](https://open.spotify.com/album/2CUT0104gySOIvqwtXeFsX) | 4:16 |
 
-Snapshot ID: `MCwwZjU5ZmI4MzFhMTcyYThkNTVmZjFhNWM5NzE4N2ZiNjNlY2Y2NDk0`
+Snapshot ID: `MCwxNTM5ODU5OWNjY2ExMjE0MmNjZWU1MWQyNDU0ZWE2MzE1MTA2OWYx`

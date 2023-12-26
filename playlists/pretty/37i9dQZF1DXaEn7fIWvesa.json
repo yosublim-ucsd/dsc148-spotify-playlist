@@ -1,12 +1,12 @@
 {
   "description": "A lo cubano \ud83d\udd25 Con El Chacal en portada.",
-  "num_followers": 5402,
+  "num_followers": 5420,
   "original_name": "Cubat\u00f3n Miami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmYyNGI2YTAzM2NkOTdlNDk3ZGU4OTYwOWZhNTEwMWVmZWY5M2Fj",
+  "snapshot_id": "MCw1MjM1YWMzZTFkMzcwMTU3NTdmNDRmNjc2ZGFiYzdlODZjYjJkMTkz",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Feliz",
-        "url": "https://open.spotify.com/album/7jfQRBzVv3xO6phlTk6VrB"
-      },
-      "artists": [
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 202268,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/0s91c0rPN7ATKJPaYsLN2C"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Que Rico",
         "url": "https://open.spotify.com/album/3sgFWlzZOuvL7JSIWweoKx"
       },
@@ -259,6 +243,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Feliz",
+        "url": "https://open.spotify.com/album/7jfQRBzVv3xO6phlTk6VrB"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "duration_ms": 202268,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/0s91c0rPN7ATKJPaYsLN2C"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Bendecido",
         "url": "https://open.spotify.com/album/3Cuf5Q9DOcTGPUBIl53w00"
       },
@@ -275,26 +275,6 @@
       "duration_ms": 203273,
       "name": "Bendecido",
       "url": "https://open.spotify.com/track/0ZKCQENt4shhG0rLwot8xB"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Mi Mentirosa",
-        "url": "https://open.spotify.com/album/1R8C5PwffrAxmsv3JkEF8V"
-      },
-      "artists": [
-        {
-          "name": "Charly & Johayron",
-          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
-        },
-        {
-          "name": "Ernesto Losa",
-          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
-        }
-      ],
-      "duration_ms": 177900,
-      "name": "Mi Mentirosa - Prod. by Ernesto Losa",
-      "url": "https://open.spotify.com/track/3hAUj6jPytHP5t8hBT0M9i"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -323,62 +303,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "OTRA COSA",
-        "url": "https://open.spotify.com/album/00AVS4xDGxD61LgiIkDaN7"
+        "name": "Mi Mentirosa",
+        "url": "https://open.spotify.com/album/1R8C5PwffrAxmsv3JkEF8V"
       },
       "artists": [
         {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "Si No Vuelves",
-      "url": "https://open.spotify.com/track/3MIhs0pA6pSkFFdXWVVz03"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Invicto",
-        "url": "https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh"
-      },
-      "artists": [
-        {
-          "name": "Jacob Forever",
-          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 215453,
-      "name": "Hasta Que Se Seque el Malec\u00f3n (feat. Farruko) - Remix",
-      "url": "https://open.spotify.com/track/6sMPwcpYtxm1mlgYbp1B0t"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "La Diferencia",
-        "url": "https://open.spotify.com/album/1D0tKGeYGWAANfa1oCmBbS"
-      },
-      "artists": [
-        {
-          "name": "Wampi",
-          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
-        },
-        {
-          "name": "Orlenis 22k",
-          "url": "https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s"
+          "name": "Charly & Johayron",
+          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
         },
         {
           "name": "Ernesto Losa",
           "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
         }
       ],
-      "duration_ms": 174757,
-      "name": "La Diferencia",
-      "url": "https://open.spotify.com/track/5dSz3tq9yM9EY8FkT7Kdfp"
+      "duration_ms": 177900,
+      "name": "Mi Mentirosa - Prod. by Ernesto Losa",
+      "url": "https://open.spotify.com/track/3hAUj6jPytHP5t8hBT0M9i"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -431,22 +371,46 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Muchacha",
-        "url": "https://open.spotify.com/album/1ToC2cIeaKdchZVfx6P3Mj"
+        "name": "Invicto",
+        "url": "https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh"
       },
       "artists": [
         {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
         },
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 200689,
-      "name": "Muchacha",
-      "url": "https://open.spotify.com/track/2vI4SxtYqAQD5h1nSrqfKM"
+      "duration_ms": 215453,
+      "name": "Hasta Que Se Seque el Malec\u00f3n (feat. Farruko) - Remix",
+      "url": "https://open.spotify.com/track/6sMPwcpYtxm1mlgYbp1B0t"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "La Diferencia",
+        "url": "https://open.spotify.com/album/1D0tKGeYGWAANfa1oCmBbS"
+      },
+      "artists": [
+        {
+          "name": "Wampi",
+          "url": "https://open.spotify.com/artist/31BgFzpxI5OFoq7R5xjtwf"
+        },
+        {
+          "name": "Orlenis 22k",
+          "url": "https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s"
+        },
+        {
+          "name": "Ernesto Losa",
+          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
+        }
+      ],
+      "duration_ms": 174757,
+      "name": "La Diferencia",
+      "url": "https://open.spotify.com/track/5dSz3tq9yM9EY8FkT7Kdfp"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -503,6 +467,46 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "OTRA COSA",
+        "url": "https://open.spotify.com/album/00AVS4xDGxD61LgiIkDaN7"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "duration_ms": 215640,
+      "name": "Si No Vuelves",
+      "url": "https://open.spotify.com/track/3MIhs0pA6pSkFFdXWVVz03"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Southwezzzt",
+        "url": "https://open.spotify.com/album/22L7ZRrPWvRnpdP8WFuHLi"
+      },
+      "artists": [
+        {
+          "name": "El Taiger",
+          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
+        },
+        {
+          "name": "El Yonki",
+          "url": "https://open.spotify.com/artist/5Dcy46qDr77Bkep7KHRJIR"
+        },
+        {
+          "name": "DJ Conds",
+          "url": "https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Southwezzzt",
+      "url": "https://open.spotify.com/track/0ClMpKvozc99kihtCRt3ya"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Agua Noche Remix",
         "url": "https://open.spotify.com/album/0eohrQWmqahDa30v94E0TM"
       },
@@ -527,6 +531,26 @@
       "duration_ms": 238269,
       "name": "Agua Noche Remix",
       "url": "https://open.spotify.com/track/6JC8pg40H9jXRUlt8UGrn9"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Pi\u00f1a Colada",
+        "url": "https://open.spotify.com/album/2aRxTjGSC7zwgIiCuoQh4E"
+      },
+      "artists": [
+        {
+          "name": "Orlenis 22k",
+          "url": "https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s"
+        },
+        {
+          "name": "Charly & Johayron",
+          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Pi\u00f1a Colada",
+      "url": "https://open.spotify.com/track/67h0pnnJczXLsNqmew78lw"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -595,50 +619,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "H\u00e1blame de Miami",
-        "url": "https://open.spotify.com/album/4yHi7BzkWVcF7SOIAGhJHE"
-      },
-      "artists": [
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        },
-        {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
-        }
-      ],
-      "duration_ms": 158773,
-      "name": "H\u00e1blame de Miami",
-      "url": "https://open.spotify.com/track/1dYV5vIMPKqkGKgxlZ5CL0"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Southwezzzt",
-        "url": "https://open.spotify.com/album/22L7ZRrPWvRnpdP8WFuHLi"
-      },
-      "artists": [
-        {
-          "name": "El Taiger",
-          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
-        },
-        {
-          "name": "El Yonki",
-          "url": "https://open.spotify.com/artist/5Dcy46qDr77Bkep7KHRJIR"
-        },
-        {
-          "name": "DJ Conds",
-          "url": "https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "Southwezzzt",
-      "url": "https://open.spotify.com/track/0ClMpKvozc99kihtCRt3ya"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "La Que Quiero Yo",
         "url": "https://open.spotify.com/album/5x3pcGwDfquEZJ7Szi5ktB"
       },
@@ -663,6 +643,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Muchacha",
+        "url": "https://open.spotify.com/album/1ToC2cIeaKdchZVfx6P3Mj"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 200689,
+      "name": "Muchacha",
+      "url": "https://open.spotify.com/track/2vI4SxtYqAQD5h1nSrqfKM"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "The Hits Kings",
         "url": "https://open.spotify.com/album/3bmjwMBcBOPkQgr01HYLRH"
       },
@@ -679,26 +679,6 @@
       "duration_ms": 183131,
       "name": "Ganas de Ti",
       "url": "https://open.spotify.com/track/6mzR2nbLrfzNw3BQ3puq4D"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Pi\u00f1a Colada",
-        "url": "https://open.spotify.com/album/2aRxTjGSC7zwgIiCuoQh4E"
-      },
-      "artists": [
-        {
-          "name": "Orlenis 22k",
-          "url": "https://open.spotify.com/artist/6ydjOvHh5NpnvDoNUUpj9s"
-        },
-        {
-          "name": "Charly & Johayron",
-          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Pi\u00f1a Colada",
-      "url": "https://open.spotify.com/track/67h0pnnJczXLsNqmew78lw"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -791,6 +771,26 @@
       "duration_ms": 221538,
       "name": "Guachineo",
       "url": "https://open.spotify.com/track/6Xwg7H3TScBF6Jy6RRG6on"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "H\u00e1blame de Miami",
+        "url": "https://open.spotify.com/album/4yHi7BzkWVcF7SOIAGhJHE"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        }
+      ],
+      "duration_ms": 158773,
+      "name": "H\u00e1blame de Miami",
+      "url": "https://open.spotify.com/track/1dYV5vIMPKqkGKgxlZ5CL0"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Eso Es Bola (Deluxe Edition) [El Principe y Damian The Lion]",
-        "url": "https://open.spotify.com/album/3Ou24yQ2yf2ETvdcx8PMms"
-      },
-      "artists": [
-        {
-          "name": "Los Desiguales",
-          "url": "https://open.spotify.com/artist/24HEuBZ2Iqcq7To1Vgi8qm"
-        }
-      ],
-      "duration_ms": 263263,
-      "name": "Eso Es Bola",
-      "url": "https://open.spotify.com/track/6w8gUMxJVV9IR56kgcd7Iu"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "No Mas Mentiras (Remix)",
         "url": "https://open.spotify.com/album/30vjNDLhlQGEKeKzeFvvb8"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 244591,
       "name": "No Mas Mentiras - Remix",
       "url": "https://open.spotify.com/track/0TdwfvUyv7i96T6cbWROF3"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Eso Es Bola (Deluxe Edition) [El Principe y Damian The Lion]",
+        "url": "https://open.spotify.com/album/3Ou24yQ2yf2ETvdcx8PMms"
+      },
+      "artists": [
+        {
+          "name": "Los Desiguales",
+          "url": "https://open.spotify.com/artist/24HEuBZ2Iqcq7To1Vgi8qm"
+        }
+      ],
+      "duration_ms": 263263,
+      "name": "Eso Es Bola",
+      "url": "https://open.spotify.com/track/6w8gUMxJVV9IR56kgcd7Iu"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "El Gavilan",
+        "url": "https://open.spotify.com/album/0PIJm7nEq8hfMKp88XtR2E"
+      },
+      "artists": [
+        {
+          "name": "El Taiger",
+          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "duration_ms": 207013,
+      "name": "El Gavilan",
+      "url": "https://open.spotify.com/track/7fQb0rLMdcqIpuedld1yVp"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Descaradita",
         "url": "https://open.spotify.com/album/5MAsXFNE1EwY2bUqGwQFTk"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 173685,
       "name": "Secuestro",
       "url": "https://open.spotify.com/track/5sK0UjjnF5STHk2wct5U9G"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "El Gavilan",
-        "url": "https://open.spotify.com/album/0PIJm7nEq8hfMKp88XtR2E"
-      },
-      "artists": [
-        {
-          "name": "El Taiger",
-          "url": "https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf"
-        },
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        }
-      ],
-      "duration_ms": 207013,
-      "name": "El Gavilan",
-      "url": "https://open.spotify.com/track/7fQb0rLMdcqIpuedld1yVp"
     }
   ],
   "unique_name": "Cubat\u00f3n Miami",

@@ -2468,7 +2468,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-06",
+      "date_removed": null,
       "duration_ms": 173560,
       "name": "Baby, It's Cold Outside (feat. Meghan Trainor)",
       "url": "https://open.spotify.com/track/5Q2P43CJra0uRAogjHyJDK"
@@ -2804,7 +2804,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 177291,
       "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
       "url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg"
@@ -3818,7 +3818,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 252000,
       "name": "BOP BOP! (Yves V Remix) - Extended",
       "url": "https://open.spotify.com/track/77UhaG1vNhmflwM60U236f"
@@ -6164,9 +6164,9 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 68760,
-      "name": "Deck The Halls",
+      "name": "Deck The Hall",
       "url": "https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90"
     },
     {
@@ -10742,7 +10742,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -10840,6 +10840,24 @@
       "duration_ms": 171026,
       "name": "Hall of Fame",
       "url": "https://open.spotify.com/track/5podb1asONjqwKk1iMVOeG"
+    },
+    {
+      "album": {
+        "name": "A Pentatonix Christmas Deluxe",
+        "url": "https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268960,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0HZk0QsXPhMNAWNDR3rYE8"
     },
     {
       "album": {
@@ -11376,7 +11394,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 142655,
       "name": "heikki???",
       "url": "https://open.spotify.com/track/25yBeIWwwD870aYq18jvT1"
@@ -11394,7 +11412,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 150266,
       "name": "Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version",
       "url": "https://open.spotify.com/track/25leEEaz1gIpp7o21Fqyjo"
@@ -12796,7 +12814,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 260111,
       "name": "IDGAF (feat. Yeat)",
       "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
@@ -14076,7 +14094,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 172307,
       "name": "J\u00f5ulud r\u00f5\u00f5msaks",
       "url": "https://open.spotify.com/track/3Q6ya4T8dTIiJhppOKNjZv"
@@ -14094,7 +14112,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 184813,
       "name": "J\u00f5ulutaat On Poolel Teel",
       "url": "https://open.spotify.com/track/3Neimzo349GQOWHAaihvDy"
@@ -15098,7 +15116,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 260202,
       "name": "k\u00f5rvetab",
       "url": "https://open.spotify.com/track/7KgxiaRk8eshwZ7ThsJFoG"
@@ -15542,7 +15560,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 222784,
       "name": "leavemealone",
       "url": "https://open.spotify.com/track/7iUScoHKNJC5hqtA40vMlj"
@@ -15608,7 +15626,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 154077,
       "name": "leekiv armastus",
       "url": "https://open.spotify.com/track/00hNKV1irlhbazTD3p7Uea"
@@ -16222,7 +16240,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 118840,
       "name": "Little Saint Nick - 1991 Remix",
       "url": "https://open.spotify.com/track/5xlS0QkVrSH7ssEbBgBzbM"
@@ -16782,7 +16800,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
@@ -17972,6 +17990,28 @@
       "duration_ms": 279893,
       "name": "Mein Herz brennt",
       "url": "https://open.spotify.com/track/5ArNGisLzrNOIVwWajRRdt"
+    },
+    {
+      "album": {
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175333,
+      "name": "Mele Kalikimaka (Merry Christmas)",
+      "url": "https://open.spotify.com/track/04vLj9QUXoKdRlsp3gkURo"
     },
     {
       "album": {
@@ -22690,7 +22730,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
@@ -24456,6 +24496,24 @@
       "duration_ms": 143773,
       "name": "Santa Claus Is Coming To Town",
       "url": "https://open.spotify.com/track/6a1hzBiTkgqTsDA0Xgfh9z"
+    },
+    {
+      "album": {
+        "name": "Christmas Album",
+        "url": "https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144013,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/2QpN1ZVw8eJO5f7WcvUA1k"
     },
     {
       "album": {
@@ -27114,7 +27172,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 172964,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
@@ -28042,7 +28100,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 192788,
       "name": "Talve\u00f6\u00f6",
       "url": "https://open.spotify.com/track/11V97Lph77IOJYeVqSTTwi"
@@ -28861,6 +28919,24 @@
     },
     {
       "album": {
+        "name": "Donny Hathaway",
+        "url": "https://open.spotify.com/album/4yzozr59813IAXnxhWUl7i"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231173,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/7MSYSOobsombc1mbDWFxtD"
+    },
+    {
+      "album": {
         "name": "This Is The Life (eDeluxe)",
         "url": "https://open.spotify.com/album/5DaToG3KvHnUgTPqY4cEbq"
       },
@@ -29364,7 +29440,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 152555,
       "name": "trammipark!!",
       "url": "https://open.spotify.com/track/0FXVOQfd4q4iMkGgXbTCxp"
@@ -30184,7 +30260,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 210054,
       "name": "Valge Valgus",
       "url": "https://open.spotify.com/track/2QK2JrRrO9FdClriT4xyUZ"

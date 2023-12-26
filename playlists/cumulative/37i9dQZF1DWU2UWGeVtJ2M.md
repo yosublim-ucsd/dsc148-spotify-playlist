@@ -4,7 +4,7 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-300 songs - 16 hr 32 min
+301 songs - 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,7 +216,7 @@
 | [Play Me Something Nice](https://open.spotify.com/track/4YEoimxmDNIwTDaG6jZmcg) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Play Me Something Nice](https://open.spotify.com/album/2noMzRAfv6SQUWON9GfM5d) | 3:21 | 2022-07-25 | 2022-10-13 |
 | [Pop Song](https://open.spotify.com/track/6tDbJIKGcfSWElhmtt6665) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Ugly Season](https://open.spotify.com/album/6rFFWK98d8hhdSYgaOxI5L) | 5:05 | 2022-07-25 | 2022-08-07 |
 | [Precious](https://open.spotify.com/track/12UXsRRYiWscqQWp4oV53F) | [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [Precious](https://open.spotify.com/album/4sguN40UxE3s6hCUhYaL23) | 2:25 | 2022-06-06 | 2022-07-29 |
-| [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 | 2022-09-05 |  |
+| [Queen Space \(with Summer Walker\)](https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Queen Space \(with Summer Walker\)](https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV) | 3:50 | 2022-09-05 | 2023-12-26 |
 | [R.I.P\. \(feat\. Trippie Redd\)](https://open.spotify.com/track/4wJ8dJKBAxdDe5cUx8K779) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 2:38 | 2022-07-25 |  |
 | [Raindrops](https://open.spotify.com/track/3X95bvlwEInN3NML0QSSa1) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [Raindrops](https://open.spotify.com/album/6CzeG9L4qCY3Y8boHCXspa) | 4:30 | 2022-06-06 | 2022-07-29 |
 | [Real](https://open.spotify.com/track/4RJYpycLbIWK8FQB16VnHZ) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Real](https://open.spotify.com/album/44coZLCjYCsOWUogdZSIaG) | 2:43 | 2022-07-25 |  |
@@ -292,6 +292,7 @@
 | [Want U Bad](https://open.spotify.com/track/5Oh1oHKCGN0LhlOp9RUhP3) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Want U Bad](https://open.spotify.com/album/2CNJGfWY7q1ZwiQa3Gk8IT) | 3:42 | 2023-01-09 |  |
 | [Want U Bad](https://open.spotify.com/track/5mk76DcUc1oQqOgcczreKB) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Want U Bad](https://open.spotify.com/album/5CKO535hsvwJ6DbgoWqdn9) | 3:42 | 2022-06-06 | 2023-01-07 |
 | [Wavvy](https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Wavvy](https://open.spotify.com/album/33RjX6qVEdXlcemcA942b0) | 3:07 | 2022-07-25 | 2023-12-09 |
+| [Wavvy](https://open.spotify.com/track/7qHus80qoEHRDq8MYJjaNm) | [Lav](https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl) | [Wavvy](https://open.spotify.com/album/7A3NVckB7uKzaRkoASyapo) | 3:07 | 2023-12-25 |  |
 | [Way Out](https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:20 | 2022-07-25 |  |
 | [Way Out](https://open.spotify.com/track/6pHbZIUX160rLPbgAJdpl8) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Way Out](https://open.spotify.com/album/6PqC3CxgIhYtYgapko4YFG) | 3:20 | 2022-07-04 | 2022-07-11 |
 | [What About Me \(feat\. Sosamann\)](https://open.spotify.com/track/3JX0dOCIAiaR8MP3ryXWuM) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Sosamann](https://open.spotify.com/artist/3Bj81IbILbuj2uEwWXMdXI) | [Tha Carter V](https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg) | 3:36 | 2022-07-25 |  |

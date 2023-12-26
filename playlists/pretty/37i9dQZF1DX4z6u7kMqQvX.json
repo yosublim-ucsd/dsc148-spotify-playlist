@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 104832,
+  "num_followers": 104842,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTg5YjUyYTllNmI0ZjU4NzM0MjU2YWE1NjFiOTVkZGZiMGQxM2Ux",
+  "snapshot_id": "MCwwYmFiNzEyOGZhMTE0YzZlNGRmZTlmNDE3YTNmMDhkZGJmOTVhOTAz",
   "tracks": [
     {
       "added_at": "2023-12-07 21:35:38",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-12-07 21:35:38",
       "album": {
-        "name": "Me Estoy Enamorando",
-        "url": "https://open.spotify.com/album/290mTa3886xNkEyOVtC53k"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC"
-    },
-    {
-      "added_at": "2023-12-07 21:35:38",
-      "album": {
         "name": "Indios",
         "url": "https://open.spotify.com/album/0ZAv3N3wsMLcP1X8NWYRAW"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 214213,
       "name": "Jullie",
       "url": "https://open.spotify.com/track/44W7bta54sWjSkuj1NyT0c"
+    },
+    {
+      "added_at": "2023-12-07 21:35:38",
+      "album": {
+        "name": "Me Estoy Enamorando",
+        "url": "https://open.spotify.com/album/290mTa3886xNkEyOVtC53k"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC"
     },
     {
       "added_at": "2023-12-07 21:35:38",
@@ -411,26 +411,6 @@
     {
       "added_at": "2023-12-07 21:35:38",
       "album": {
-        "name": "Chica Acuario",
-        "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
-        }
-      ],
-      "duration_ms": 207163,
-      "name": "Chica Acuario",
-      "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
-    },
-    {
-      "added_at": "2023-12-07 21:35:38",
-      "album": {
         "name": "Feroza",
         "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 186386,
       "name": "Amor De Verano",
       "url": "https://open.spotify.com/track/0ftQLiC3Whfsb3b6nWAoPK"
+    },
+    {
+      "added_at": "2023-12-07 21:35:38",
+      "album": {
+        "name": "Chica Acuario",
+        "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        },
+        {
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+        }
+      ],
+      "duration_ms": 207163,
+      "name": "Chica Acuario",
+      "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
     },
     {
       "added_at": "2023-12-07 21:35:38",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-12-07 21:35:38",
       "album": {
+        "name": "Frontera / Fuji",
+        "url": "https://open.spotify.com/album/2Nyjvin6VFdxtRJGAgQ2yr"
+      },
+      "artists": [
+        {
+          "name": "Loli Molina",
+          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
+        }
+      ],
+      "duration_ms": 278964,
+      "name": "Fuji",
+      "url": "https://open.spotify.com/track/6r4CEyVoLCE7oZ90pWut3Y"
+    },
+    {
+      "added_at": "2023-12-07 21:35:38",
+      "album": {
         "name": "GUIAME",
         "url": "https://open.spotify.com/album/057ObaWRT9nY13cHAEggco"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 198676,
       "name": "GUIAME",
       "url": "https://open.spotify.com/track/0b37vDgD47kRYes63nKX5v"
-    },
-    {
-      "added_at": "2023-12-07 21:35:38",
-      "album": {
-        "name": "Frontera / Fuji",
-        "url": "https://open.spotify.com/album/2Nyjvin6VFdxtRJGAgQ2yr"
-      },
-      "artists": [
-        {
-          "name": "Loli Molina",
-          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
-        }
-      ],
-      "duration_ms": 278964,
-      "name": "Fuji",
-      "url": "https://open.spotify.com/track/6r4CEyVoLCE7oZ90pWut3Y"
     },
     {
       "added_at": "2023-12-07 21:35:38",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-12-07 21:35:38",
       "album": {
-        "name": "Conexi\u00f3n de Almas",
-        "url": "https://open.spotify.com/album/2l90GlBhi3FRK5uVcOeVwQ"
-      },
-      "artists": [
-        {
-          "name": "Flor Amargo",
-          "url": "https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb"
-        }
-      ],
-      "duration_ms": 195483,
-      "name": "Conexi\u00f3n de Almas",
-      "url": "https://open.spotify.com/track/1FzebSiQU4NqekvmBxmGZF"
-    },
-    {
-      "added_at": "2023-12-07 21:35:38",
-      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/6QvWbaJBDqJ6BCQ21BOLmM"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 184736,
       "name": "24/7",
       "url": "https://open.spotify.com/track/6QBOVZFPqIJucg0YIWesJ0"
+    },
+    {
+      "added_at": "2023-12-07 21:35:38",
+      "album": {
+        "name": "Conexi\u00f3n de Almas",
+        "url": "https://open.spotify.com/album/2l90GlBhi3FRK5uVcOeVwQ"
+      },
+      "artists": [
+        {
+          "name": "Flor Amargo",
+          "url": "https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb"
+        }
+      ],
+      "duration_ms": 195483,
+      "name": "Conexi\u00f3n de Almas",
+      "url": "https://open.spotify.com/track/1FzebSiQU4NqekvmBxmGZF"
     },
     {
       "added_at": "2023-12-07 21:35:38",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-12-07 21:35:38",
       "album": {
-        "name": "Amor de Instagramer",
-        "url": "https://open.spotify.com/album/403E3f7J7qzbSo8ZmG76hF"
-      },
-      "artists": [
-        {
-          "name": "An Espil",
-          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Amor de Instagramer",
-      "url": "https://open.spotify.com/track/68uEhhNIxXd9caeJOAg7CD"
-    },
-    {
-      "added_at": "2023-12-07 21:35:38",
-      "album": {
         "name": "MILLONES",
         "url": "https://open.spotify.com/album/0LuHp5vuF8zABveZHjoGgH"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 138653,
       "name": "Im\u00e1n",
       "url": "https://open.spotify.com/track/1Gdz3YgKThghb3hcIOHQI7"
+    },
+    {
+      "added_at": "2023-12-07 21:35:38",
+      "album": {
+        "name": "Amor de Instagramer",
+        "url": "https://open.spotify.com/album/403E3f7J7qzbSo8ZmG76hF"
+      },
+      "artists": [
+        {
+          "name": "An Espil",
+          "url": "https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Amor de Instagramer",
+      "url": "https://open.spotify.com/track/68uEhhNIxXd9caeJOAg7CD"
     },
     {
       "added_at": "2023-12-07 21:35:38",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-12-07 21:35:38",
       "album": {
-        "name": "INFRUTESCENCIA",
-        "url": "https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm"
-      },
-      "artists": [
-        {
-          "name": "CATALINA",
-          "url": "https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2"
-        }
-      ],
-      "duration_ms": 139264,
-      "name": "PARA VERTE",
-      "url": "https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0"
-    },
-    {
-      "added_at": "2023-12-07 21:35:38",
-      "album": {
         "name": "NUNCA DA IGUAL",
         "url": "https://open.spotify.com/album/2UcHsnLUckF2ldX7LKuyLu"
       },
@@ -1475,6 +1459,22 @@
     {
       "added_at": "2023-12-07 21:35:38",
       "album": {
+        "name": "INFRUTESCENCIA",
+        "url": "https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm"
+      },
+      "artists": [
+        {
+          "name": "CATALINA",
+          "url": "https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2"
+        }
+      ],
+      "duration_ms": 139264,
+      "name": "PARA VERTE",
+      "url": "https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0"
+    },
+    {
+      "added_at": "2023-12-07 21:35:38",
+      "album": {
         "name": "ReconoceR",
         "url": "https://open.spotify.com/album/6BEwgBFuB3SN9Li2ka5sXu"
       },
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-12-07 21:35:38",
       "album": {
-        "name": "Tarde",
-        "url": "https://open.spotify.com/album/0s31MhZXKMCq9AbgeRBBnD"
-      },
-      "artists": [
-        {
-          "name": "Cohetes",
-          "url": "https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ"
-        }
-      ],
-      "duration_ms": 238222,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/5DkCaPJVIyImEgETbdyLZ6"
-    },
-    {
-      "added_at": "2023-12-07 21:35:38",
-      "album": {
         "name": "OSAD\u00cdA",
         "url": "https://open.spotify.com/album/3Csz304u6zteMaJcQv3lFa"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 146379,
       "name": "Luna en piscis",
       "url": "https://open.spotify.com/track/3P8D05qoxBptnhxx1TG2kn"
+    },
+    {
+      "added_at": "2023-12-07 21:35:38",
+      "album": {
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/0s31MhZXKMCq9AbgeRBBnD"
+      },
+      "artists": [
+        {
+          "name": "Cohetes",
+          "url": "https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ"
+        }
+      ],
+      "duration_ms": 238222,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/5DkCaPJVIyImEgETbdyLZ6"
     },
     {
       "added_at": "2023-12-07 21:35:38",

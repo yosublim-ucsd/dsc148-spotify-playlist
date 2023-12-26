@@ -1,12 +1,12 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 295651,
+  "num_followers": 295732,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTc3MTE2M2NmZjUxNzJmNjhhYzlkM2MzYWZkODEwYjc5ZmYyYWMy",
+  "snapshot_id": "MCxkNzBjMDk3MDQyMTg2N2FkN2JlMThlMDE2N2ExNTNhODU2MzdjYWQ3",
   "tracks": [
     {
       "added_at": "2023-10-20 03:01:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0VPhyqqDEary03vLt02DtZ"
-      },
-      "artists": [
-        {
-          "name": "Tom Speight",
-          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
-        }
-      ],
-      "duration_ms": 183052,
-      "name": "Stand by Me - Recorded at RAK Studios, London",
-      "url": "https://open.spotify.com/track/4GhFz9YVbihQJlq5pFFPgD"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "Live / Unplugged",
         "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
       },
@@ -295,38 +279,18 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Ac\u00fastico - Ao Vivo",
-        "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0VPhyqqDEary03vLt02DtZ"
       },
       "artists": [
         {
-          "name": "Raimundos",
-          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
-        },
-        {
-          "name": "Dinho Ouro Preto",
-          "url": "https://open.spotify.com/artist/6ysWe8Q95VUwcU6LKaY4Rk"
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
         }
       ],
-      "duration_ms": 291125,
-      "name": "Mulher de Fases - Ao Vivo | Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2OBzAYQUWGuTgY90TRnXMf"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
-        "name": "O Rappa - Ac\u00fastico Oficina Francisco Brennand (Deluxe) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR"
-      },
-      "artists": [
-        {
-          "name": "O Rappa",
-          "url": "https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f"
-        }
-      ],
-      "duration_ms": 438583,
-      "name": "Anjos (Pra quem tem f\u00e9) - Ao vivo",
-      "url": "https://open.spotify.com/track/0T5oFIUY2wDXQ7yRd9epfP"
+      "duration_ms": 183052,
+      "name": "Stand by Me - Recorded at RAK Studios, London",
+      "url": "https://open.spotify.com/track/4GhFz9YVbihQJlq5pFFPgD"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -347,6 +311,22 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
+        "name": "O Rappa - Ac\u00fastico Oficina Francisco Brennand (Deluxe) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR"
+      },
+      "artists": [
+        {
+          "name": "O Rappa",
+          "url": "https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f"
+        }
+      ],
+      "duration_ms": 438583,
+      "name": "Anjos (Pra quem tem f\u00e9) - Ao vivo",
+      "url": "https://open.spotify.com/track/0T5oFIUY2wDXQ7yRd9epfP"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
         "name": "Live From Soho",
         "url": "https://open.spotify.com/album/0abkVfZF9JpWbHA1Cm2Jgq"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 290266,
       "name": "How to Save a Life - Live in NYC - 2009",
       "url": "https://open.spotify.com/track/3OPVsn0Dk3s8vWhXxnK35p"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "Ac\u00fastico - Ao Vivo",
+        "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
+      },
+      "artists": [
+        {
+          "name": "Raimundos",
+          "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
+        },
+        {
+          "name": "Dinho Ouro Preto",
+          "url": "https://open.spotify.com/artist/6ysWe8Q95VUwcU6LKaY4Rk"
+        }
+      ],
+      "duration_ms": 291125,
+      "name": "Mulher de Fases - Ao Vivo | Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2OBzAYQUWGuTgY90TRnXMf"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
+        "name": "Capital Inicial Ac\u00fastico NYC (Ao Vivo) [Vers\u00e3o Deluxe + Faixa Extra]",
+        "url": "https://open.spotify.com/album/2lahfyiTR3XXoGDIhzb9oN"
+      },
+      "artists": [
+        {
+          "name": "Capital Inicial",
+          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
+        }
+      ],
+      "duration_ms": 65965,
+      "name": "Welcome To The Sky (Intro) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2cfUKb4GlITzFHWKO844GX"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
         "name": "Core (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 187970,
       "name": "Basket Case - 4-track demo",
       "url": "https://open.spotify.com/track/6pRYZrJTQ8yYvhVfhTZ70Q"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
-        "name": "Capital Inicial Ac\u00fastico NYC (Ao Vivo) [Vers\u00e3o Deluxe + Faixa Extra]",
-        "url": "https://open.spotify.com/album/2lahfyiTR3XXoGDIhzb9oN"
-      },
-      "artists": [
-        {
-          "name": "Capital Inicial",
-          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
-        }
-      ],
-      "duration_ms": 65965,
-      "name": "Welcome To The Sky (Intro) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2cfUKb4GlITzFHWKO844GX"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
+        "name": "Ac\u00fastico 20 Anos - O Amor N\u00e3o Tem Inimigos, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3LTygGSVzMpi4sgAoCxPPJ"
+      },
+      "artists": [
+        {
+          "name": "Detonautas Roque Clube",
+          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
+        }
+      ],
+      "duration_ms": 215898,
+      "name": "Aposta - Ao Vivo",
+      "url": "https://open.spotify.com/track/0lXUZraUXsJbi6zLHUNWkG"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83"
       },
@@ -771,22 +787,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Ac\u00fastico 20 Anos - O Amor N\u00e3o Tem Inimigos, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3LTygGSVzMpi4sgAoCxPPJ"
-      },
-      "artists": [
-        {
-          "name": "Detonautas Roque Clube",
-          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
-        }
-      ],
-      "duration_ms": 215898,
-      "name": "Aposta - Ao Vivo",
-      "url": "https://open.spotify.com/track/0lXUZraUXsJbi6zLHUNWkG"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "City Of Angels (Piano Version)",
         "url": "https://open.spotify.com/album/498Hq6UXvXQRspqyZlifcQ"
       },
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 261977,
-      "name": "Don't Speak - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "00070725 Live At Studio 606",
         "url": "https://open.spotify.com/album/1i7uzsvuhrO7d1gXSZnr4X"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 279453,
       "name": "My Hero - Live at Studio 606 West, Northridge, CA - September 2007",
       "url": "https://open.spotify.com/track/6rlLQPXSkhTlcDgUkCfqOr"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 261977,
+      "name": "Don't Speak - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "With Or Without You (Songs Of Surrender)",
-        "url": "https://open.spotify.com/album/40kPzNF9s62EifVGAhqDL0"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 194812,
-      "name": "With Or Without You - Songs Of Surrender",
-      "url": "https://open.spotify.com/track/5Ian7OWpp9bX9pHOR9RCKx"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "Quando Eu Te Encontrar",
         "url": "https://open.spotify.com/album/4MtuejkQXYqgYBLrCY69Jy"
       },
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Jota Quest Ac\u00fastico CCBB LIVE EP",
-        "url": "https://open.spotify.com/album/7zxSEA6cNt4FPPZGs4yYMU"
+        "name": "With Or Without You (Songs Of Surrender)",
+        "url": "https://open.spotify.com/album/40kPzNF9s62EifVGAhqDL0"
       },
       "artists": [
         {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 190651,
-      "name": "Guerra e Paz - Ac\u00fastico Live",
-      "url": "https://open.spotify.com/track/0GqflosdHRexuPNdL0ocT6"
+      "duration_ms": 194812,
+      "name": "With Or Without You - Songs Of Surrender",
+      "url": "https://open.spotify.com/track/5Ian7OWpp9bX9pHOR9RCKx"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -1083,6 +1067,22 @@
       "duration_ms": 208316,
       "name": "Enquanto Ela N\u00e3o Chegar - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6hLStuKVbiJdTj79re7JMx"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "Jota Quest Ac\u00fastico CCBB LIVE EP",
+        "url": "https://open.spotify.com/album/7zxSEA6cNt4FPPZGs4yYMU"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        }
+      ],
+      "duration_ms": 190651,
+      "name": "Guerra e Paz - Ac\u00fastico Live",
+      "url": "https://open.spotify.com/track/0GqflosdHRexuPNdL0ocT6"
     },
     {
       "added_at": "2023-10-20 03:01:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-10-20 03:01:00",
       "album": {
-        "name": "Chor\u00e3o: Marginal Alado",
-        "url": "https://open.spotify.com/album/4zPoCE1PltlriIanm89x4Z"
-      },
-      "artists": [
-        {
-          "name": "Charlie Brown Jr.",
-          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
-        }
-      ],
-      "duration_ms": 128106,
-      "name": "O Coro Vai Come - Ao Vivo",
-      "url": "https://open.spotify.com/track/28d2A5ydgH2QCHsDSCsW9t"
-    },
-    {
-      "added_at": "2023-10-20 03:01:00",
-      "album": {
         "name": "Shadow Of The Day (Acoustic)",
         "url": "https://open.spotify.com/album/2aYZc0kNNdUmCZh0IKz9dA"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 198715,
       "name": "Shadow Of The Day - Acoustic",
       "url": "https://open.spotify.com/track/0OjWAUdnGBzRFSELi5JW9m"
+    },
+    {
+      "added_at": "2023-10-20 03:01:00",
+      "album": {
+        "name": "Chor\u00e3o: Marginal Alado",
+        "url": "https://open.spotify.com/album/4zPoCE1PltlriIanm89x4Z"
+      },
+      "artists": [
+        {
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        }
+      ],
+      "duration_ms": 128106,
+      "name": "O Coro Vai Come - Ao Vivo",
+      "url": "https://open.spotify.com/track/28d2A5ydgH2QCHsDSCsW9t"
     },
     {
       "added_at": "2023-10-20 03:01:00",

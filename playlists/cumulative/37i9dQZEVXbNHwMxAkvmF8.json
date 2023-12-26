@@ -442,7 +442,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 193398,
       "name": "3korty",
       "url": "https://open.spotify.com/track/5ZY255MSISgMrvHmRZux1E"
@@ -723,6 +723,24 @@
     },
     {
       "album": {
+        "name": "H\u00f3ban \u00c9bred... (Az \u00dcnnep Dalai)",
+        "url": "https://open.spotify.com/album/7GhZbEM7GxCoVMGM163tHz"
+      },
+      "artists": [
+        {
+          "name": "Csondor Kata",
+          "url": "https://open.spotify.com/artist/6bMCVNXzD05FAXAQTENiP9"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186746,
+      "name": "Add Tov\u00e1bb - H\u00f3ban \u00c9bred",
+      "url": "https://open.spotify.com/track/79aqXzyiTUEEKMNt5R72EU"
+    },
+    {
+      "album": {
         "name": "Adieu",
         "url": "https://open.spotify.com/album/7LOO7LJKYJ2TD1nJyx1WZp"
       },
@@ -876,7 +894,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 268240,
       "name": "Aj\u00e1nd\u00e9k",
       "url": "https://open.spotify.com/track/0a0zPUrwviAua4IhhaYUsP"
@@ -2964,7 +2982,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 273818,
       "name": "cerem\u00f3nia",
       "url": "https://open.spotify.com/track/2IetMd5ZFurl1sjSAqhq2O"
@@ -3812,9 +3830,9 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 68760,
-      "name": "Deck The Halls",
+      "name": "Deck The Hall",
       "url": "https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90"
     },
     {
@@ -5374,6 +5392,24 @@
       "duration_ms": 191700,
       "name": "FE!N (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
+    },
+    {
+      "album": {
+        "name": "H\u00e1rom",
+        "url": "https://open.spotify.com/album/2vkVD1Jq4O8llkcgU1C7Hq"
+      },
+      "artists": [
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/0RmjYTsrUBw08KS2YIgTP2"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Feh\u00e9r kar\u00e1csony",
+      "url": "https://open.spotify.com/track/1PDGC6w8nQNodeLlRgpNjY"
     },
     {
       "album": {
@@ -8120,7 +8156,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 169841,
       "name": "introvert\u00e1lt dal",
       "url": "https://open.spotify.com/track/2EAvOY1uymm5ZAd0ZbnnPW"
@@ -12546,7 +12582,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 126930,
       "name": "Osztriga",
       "url": "https://open.spotify.com/track/1BXp9PwKtW5AKD0QDdaPSw"
@@ -12742,7 +12778,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 161025,
       "name": "Pakiszt\u00e1ni/popo",
       "url": "https://open.spotify.com/track/1tCIXEBHBFHO1x3M07z3xy"
@@ -13800,7 +13836,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 137000,
       "name": "Pullup",
       "url": "https://open.spotify.com/track/6Rc6C6S4lgT5j1OekgI155"
@@ -14048,7 +14084,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 189354,
       "name": "Rampapapam",
       "url": "https://open.spotify.com/track/1E2flGJxXQNeBLRqQXiAsK"
@@ -14779,6 +14815,28 @@
     },
     {
       "album": {
+        "name": "Heavenly Eartha",
+        "url": "https://open.spotify.com/album/6gOVmmV26wBBgxUtbF8YZd"
+      },
+      "artists": [
+        {
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+        },
+        {
+          "name": "Henri Ren\u00e9 and His Orchestra",
+          "url": "https://open.spotify.com/artist/0oK8UXKZbQezeRhE0KeBAV"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206066,
+      "name": "Santa Baby (with Henri Ren\u00e9 & His Orchestra)",
+      "url": "https://open.spotify.com/track/1foCxQtxBweJtZmdxhEHVO"
+    },
+    {
+      "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
       },
@@ -14830,6 +14888,24 @@
       "duration_ms": 143773,
       "name": "Santa Claus Is Coming To Town",
       "url": "https://open.spotify.com/track/6a1hzBiTkgqTsDA0Xgfh9z"
+    },
+    {
+      "album": {
+        "name": "Christmas Album",
+        "url": "https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144013,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/2QpN1ZVw8eJO5f7WcvUA1k"
     },
     {
       "album": {
@@ -15798,6 +15874,24 @@
       "duration_ms": 272393,
       "name": "Step Into Christmas",
       "url": "https://open.spotify.com/track/6sBWmE23q6xQHlnEZ8jYPT"
+    },
+    {
+      "album": {
+        "name": "Caribou (Remastered 1995)",
+        "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272333,
+      "name": "Step Into Christmas - Remastered 1995",
+      "url": "https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK"
     },
     {
       "album": {
@@ -16991,6 +17085,24 @@
     },
     {
       "album": {
+        "name": "Donny Hathaway",
+        "url": "https://open.spotify.com/album/4yzozr59813IAXnxhWUl7i"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231173,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/7MSYSOobsombc1mbDWFxtD"
+    },
+    {
+      "album": {
         "name": "Thousand Miles",
         "url": "https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf"
       },
@@ -17860,7 +17972,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 175081,
       "name": "Valencia",
       "url": "https://open.spotify.com/track/7kIn3HrqM432chtEydQgMb"
@@ -18132,7 +18244,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 199615,
       "name": "Visszas\u00edrtok M\u00e9g Engem",
       "url": "https://open.spotify.com/track/4byN4ZkSeZPyuqiRm0oa9x"
@@ -18661,32 +18773,6 @@
     },
     {
       "album": {
-        "name": "Holiday Inn (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        },
-        {
-          "name": "Ken Darby Singers",
-          "url": "https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi"
-        },
-        {
-          "name": "John Scott Trotter & His Orchestra",
-          "url": "https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN"
-        }
-      ],
-      "date_added": "2021-12-24",
-      "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
-      "duration_ms": 177480,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW"
-    },
-    {
-      "album": {
         "name": "Christmas",
         "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
       },
@@ -18706,6 +18792,32 @@
       "duration_ms": 216626,
       "name": "White Christmas (with Shania Twain)",
       "url": "https://open.spotify.com/track/2gbCG4Rt9984UZ7Tc0dIFd"
+    },
+    {
+      "album": {
+        "name": "Holiday Inn (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "Ken Darby Singers",
+          "url": "https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi"
+        },
+        {
+          "name": "John Scott Trotter & His Orchestra",
+          "url": "https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177480,
+      "name": "White Christmas - 1947 Version",
+      "url": "https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW"
     },
     {
       "album": {

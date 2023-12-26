@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-457 songs - 1 day 15 hr 28 min
+458 songs - 1 day 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Gira](https://open.spotify.com/track/4b7ip6Jw2XG8avLgM41kcl) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Gira](https://open.spotify.com/album/4gw2Z16cnAt917rOGlPBA2) | 7:45 | 2021-12-08 | 2022-11-20 |
 | [Go On and Make It Through](https://open.spotify.com/track/4Adh1Klm7A1JSRT6Pafhq5) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Keep Me Warm \(feat\. GAPS\)](https://open.spotify.com/album/3RrLv99FiRd4YjO9NbKSES) | 6:11 | 2022-05-03 | 2022-09-10 |
 | [Going Down \- Original Mix](https://open.spotify.com/track/6qraMlY4ZvQCkWF1Q9Uk9A) | [Col Lawton](https://open.spotify.com/artist/1KoBr4hgTMG3lPR353sNqm) | [Going Down EP](https://open.spotify.com/album/1YOK5okCvTwpNkLg7xpUYI) | 7:03 | 2021-12-08 | 2023-11-24 |
-| [Going In Circles \- Radio Edit](https://open.spotify.com/track/3PiC11NGRcRxoXl87vnMws) | [Ross Couch](https://open.spotify.com/artist/6n9tw6ZtS39CELDQAKvanX) | [Going In Circles](https://open.spotify.com/album/6uotgb8PA90PIpfHVvec6l) | 3:40 | 2022-10-28 |  |
+| [Going In Circles \- Radio Edit](https://open.spotify.com/track/3PiC11NGRcRxoXl87vnMws) | [Ross Couch](https://open.spotify.com/artist/6n9tw6ZtS39CELDQAKvanX) | [Going In Circles](https://open.spotify.com/album/6uotgb8PA90PIpfHVvec6l) | 3:40 | 2022-10-28 | 2023-12-26 |
 | [Gravity](https://open.spotify.com/track/1HCiKjfdSRGEDtyb1bXwRF) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Gravity](https://open.spotify.com/album/0Yur9nH0TXKubnfNM5YAKS) | 3:57 | 2023-09-22 |  |
 | [Gravity](https://open.spotify.com/track/31ST3YK94PXjmvsLri3m3y) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Gravity](https://open.spotify.com/album/0tsq8YsDQkVgKQIq65UCbH) | 3:57 | 2023-06-30 | 2023-09-06 |
 | [Gravity \(with Delhia De France\)](https://open.spotify.com/track/6mIce4eaRg6UOFHABNX2xL) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Gravity / Daka](https://open.spotify.com/album/29QX0FyGAT6KSSPyzT8s1Q) | 5:29 | 2021-12-08 |  |
@@ -220,6 +220,7 @@
 | [Lost](https://open.spotify.com/track/4HWadIQagwXOjf14aUD6qg) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [Lost](https://open.spotify.com/album/5vC7gyO1QMBpkkqkTr6aGu) | 4:47 | 2023-02-03 |  |
 | [Lost in the Sun \(feat\. Ruth Royall\)](https://open.spotify.com/track/5td5z2iVZ8n9cF95pxXTVW) | [Because of Art](https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Lost in the Sun \(feat\. Ruth Royall\)](https://open.spotify.com/album/20WgeTKy5S1nhrB7FakTR8) | 3:25 | 2021-12-08 | 2023-05-06 |
 | [Lost In Time](https://open.spotify.com/track/3NgS3hX9JXheEU0g7c1H7T) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Lost In Time](https://open.spotify.com/album/3WF0tSjsDIbYgdttZTWO8f) | 5:24 | 2023-07-21 |  |
+| [Lotus](https://open.spotify.com/track/7df1ZsAJVDwjKN0IZw0hq4) | [Dubfire](https://open.spotify.com/artist/3bVYqr2NfmwmL4YJisWhJI), [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU), [Kate Elsworth](https://open.spotify.com/artist/3lHI0h5NymKIJmDOxqHIgJ) | [Lotus](https://open.spotify.com/album/7McGlgZLKyY1kPKUknLncB) | 12:03 | 2023-12-15 |  |
 | [Lotus](https://open.spotify.com/track/6BTrnCVnRpQCRWwXb0bIyc) | [Dubfire](https://open.spotify.com/artist/3bVYqr2NfmwmL4YJisWhJI), [Kate Elsworth](https://open.spotify.com/artist/3lHI0h5NymKIJmDOxqHIgJ), [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [Lotus](https://open.spotify.com/album/1r9p0yLaYNvz4iNYnU9GDV) | 12:03 | 2021-12-08 | 2023-11-05 |
 | [Lux](https://open.spotify.com/track/6xCLzgEhnX5lLSBYkyiYnd) | [Colton Jefferson](https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n) | [Lux](https://open.spotify.com/album/1w40aoGmgckodC4xEf1nyQ) | 2:22 | 2023-05-05 | 2023-08-12 |
 | [Magnetic](https://open.spotify.com/track/4avYediY0ck6jMfRK5LK6r) | [Phil Anker](https://open.spotify.com/artist/22DTXq0MpXJRZPaTVZD7ED) | [Magnetic](https://open.spotify.com/album/7GMaki32RP1IoRkqqxsTZZ) | 5:28 | 2021-12-08 | 2023-05-06 |

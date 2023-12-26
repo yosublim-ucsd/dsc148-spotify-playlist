@@ -1,12 +1,12 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 208851,
+  "num_followers": 208878,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjhjZGI5NzY1ZjM2NDcyMzg0Zjk2NjlkMDY5NDFjMjE4NTNhMjdm",
+  "snapshot_id": "MCxkMDYzZDcxYTVkYWU2YzM3YTQxMzg0M2Q3ODQ4YWI2NWM4YzQzMzcy",
   "tracks": [
     {
       "added_at": "2023-12-11 13:59:45",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-12-11 13:59:45",
       "album": {
-        "name": "My Cherie Amour",
-        "url": "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 173306,
-      "name": "My Cherie Amour",
-      "url": "https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2"
-    },
-    {
-      "added_at": "2023-12-11 13:59:45",
-      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/5OkHt7JZ6HSkJH359y2H31"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 233560,
       "name": "Ain't No Love In The Heart Of The City - Single Version",
       "url": "https://open.spotify.com/track/4qYHnP5AmKzXbJhciPV8si"
+    },
+    {
+      "added_at": "2023-12-11 13:59:45",
+      "album": {
+        "name": "My Cherie Amour",
+        "url": "https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 173306,
+      "name": "My Cherie Amour",
+      "url": "https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2"
     },
     {
       "added_at": "2023-12-11 13:59:45",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-12-11 13:59:45",
       "album": {
-        "name": "Young, Gifted and Black",
-        "url": "https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 239960,
-      "name": "Day Dreaming",
-      "url": "https://open.spotify.com/track/7L4G39PVgMfaeHRyi1ML7y"
-    },
-    {
-      "added_at": "2023-12-11 13:59:45",
-      "album": {
         "name": "Breezin'",
         "url": "https://open.spotify.com/album/1ei5QjnfB7PHINJOH8Gft5"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 341733,
       "name": "Breezin'",
       "url": "https://open.spotify.com/track/1m3BAsNsQAaSNMD2M6vlKY"
+    },
+    {
+      "added_at": "2023-12-11 13:59:45",
+      "album": {
+        "name": "Young, Gifted and Black",
+        "url": "https://open.spotify.com/album/0k5C3Z7w7uQpyGFQEzl7yB"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 239960,
+      "name": "Day Dreaming",
+      "url": "https://open.spotify.com/track/7L4G39PVgMfaeHRyi1ML7y"
     },
     {
       "added_at": "2023-12-11 13:59:45",
@@ -567,6 +567,22 @@
     {
       "added_at": "2023-12-11 13:59:45",
       "album": {
+        "name": "Now We May Begin",
+        "url": "https://open.spotify.com/album/1nC1gaO03Yk2lnbRZAN3KG"
+      },
+      "artists": [
+        {
+          "name": "Randy Crawford",
+          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
+        }
+      ],
+      "duration_ms": 302653,
+      "name": "One Day I'll Fly Away",
+      "url": "https://open.spotify.com/track/0J8A1ZVyJcRZxFNvtp6jRh"
+    },
+    {
+      "added_at": "2023-12-11 13:59:45",
+      "album": {
         "name": "2 Hot!",
         "url": "https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw"
       },
@@ -583,18 +599,18 @@
     {
       "added_at": "2023-12-11 13:59:45",
       "album": {
-        "name": "Now We May Begin",
-        "url": "https://open.spotify.com/album/1nC1gaO03Yk2lnbRZAN3KG"
+        "name": "In Your Eyes",
+        "url": "https://open.spotify.com/album/4QZ7wq0y0io4KdNDqF81y8"
       },
       "artists": [
         {
-          "name": "Randy Crawford",
-          "url": "https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz"
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
         }
       ],
-      "duration_ms": 302653,
-      "name": "One Day I'll Fly Away",
-      "url": "https://open.spotify.com/track/0J8A1ZVyJcRZxFNvtp6jRh"
+      "duration_ms": 200640,
+      "name": "In Your Eyes",
+      "url": "https://open.spotify.com/track/1nHN3m6EzCzKAmDgwoLBMD"
     },
     {
       "added_at": "2023-12-11 13:59:45",
@@ -627,22 +643,6 @@
       "duration_ms": 187773,
       "name": "Ain't No Woman (Like The One I've Got)",
       "url": "https://open.spotify.com/track/6q8NBpF6twALMb86FBpLgQ"
-    },
-    {
-      "added_at": "2023-12-11 13:59:45",
-      "album": {
-        "name": "In Your Eyes",
-        "url": "https://open.spotify.com/album/4QZ7wq0y0io4KdNDqF81y8"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 200640,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/1nHN3m6EzCzKAmDgwoLBMD"
     },
     {
       "added_at": "2023-12-11 13:59:45",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-12-11 13:59:45",
       "album": {
-        "name": "Jarreau",
-        "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 258399,
-      "name": "Mornin'",
-      "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
-    },
-    {
-      "added_at": "2023-12-11 13:59:45",
-      "album": {
         "name": "Life Is A Song Worth Singing (Expanded Edition)",
         "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 325493,
       "name": "Close the Door",
       "url": "https://open.spotify.com/track/53m3UkzcaQVbB2DENsrJiK"
+    },
+    {
+      "added_at": "2023-12-11 13:59:45",
+      "album": {
+        "name": "Jarreau",
+        "url": "https://open.spotify.com/album/3shAfFQ9RZWalGR5JSgnTb"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 258399,
+      "name": "Mornin'",
+      "url": "https://open.spotify.com/track/4TxBGpTxrNvRNhF39Dl3NQ"
     },
     {
       "added_at": "2023-12-11 13:59:45",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-12-11 13:59:45",
       "album": {
+        "name": "Love's Theme: The Best Of The 20th Century Records Singles",
+        "url": "https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 239600,
+      "name": "September When I First Met You - Single Version",
+      "url": "https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476"
+    },
+    {
+      "added_at": "2023-12-11 13:59:45",
+      "album": {
         "name": "Golden Time Of Day (Remastered)",
         "url": "https://open.spotify.com/album/3MorhYBBdoEOeBJlkWHXIS"
       },
@@ -1535,22 +1551,6 @@
     {
       "added_at": "2023-12-11 13:59:45",
       "album": {
-        "name": "Circle Of One",
-        "url": "https://open.spotify.com/album/2U6BLZitsauouOL80Avn7f"
-      },
-      "artists": [
-        {
-          "name": "Oleta Adams",
-          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
-        }
-      ],
-      "duration_ms": 276733,
-      "name": "Get Here",
-      "url": "https://open.spotify.com/track/1KT3ndndHOGXePgC4o0Jq9"
-    },
-    {
-      "added_at": "2023-12-11 13:59:45",
-      "album": {
         "name": "20/20",
         "url": "https://open.spotify.com/album/23HV3deh17hOFNg3OKmGnW"
       },
@@ -1567,18 +1567,18 @@
     {
       "added_at": "2023-12-11 13:59:45",
       "album": {
-        "name": "Love's Theme: The Best Of The 20th Century Records Singles",
-        "url": "https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3"
+        "name": "Circle Of One",
+        "url": "https://open.spotify.com/album/2U6BLZitsauouOL80Avn7f"
       },
       "artists": [
         {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+          "name": "Oleta Adams",
+          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
         }
       ],
-      "duration_ms": 239600,
-      "name": "September When I First Met You - Single Version",
-      "url": "https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476"
+      "duration_ms": 276733,
+      "name": "Get Here",
+      "url": "https://open.spotify.com/track/1KT3ndndHOGXePgC4o0Jq9"
     },
     {
       "added_at": "2023-12-11 13:59:45",

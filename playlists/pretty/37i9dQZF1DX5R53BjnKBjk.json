@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: dad\u00e1 Jo\u00e3ozinho / Arte: Isu Kim",
-  "num_followers": 18927,
+  "num_followers": 18933,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2FlYmY2YjdjNTFmMTA5MjM0MzI3OGY1ODY4YjlkYzBlNDliNGNh",
+  "snapshot_id": "MCw0Mjk0OWFjMWE4ZjY3NjgwZWFjMjMyN2ZmMDJmMzNiYzNkOTk2M2Rl",
   "tracks": [
     {
       "added_at": "2023-11-30 21:58:24",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Repara",
-        "url": "https://open.spotify.com/album/60lO1rsH63Nx57oB1uwfnk"
-      },
-      "artists": [
-        {
-          "name": "Maielle",
-          "url": "https://open.spotify.com/artist/2vGvYgHGWdoDDdtplJlMjX"
-        }
-      ],
-      "duration_ms": 154687,
-      "name": "Repara",
-      "url": "https://open.spotify.com/track/3KSBVHgj03KdPFQ4SMIizC"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Bate Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/59fy8PyhcS41SP2Go7xLEE"
       },
@@ -431,6 +415,38 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
+        "name": "Oxi (Dio Mio!)",
+        "url": "https://open.spotify.com/album/34gsitMxdH7mewppzUB7F6"
+      },
+      "artists": [
+        {
+          "name": "Belita",
+          "url": "https://open.spotify.com/artist/2xlX2xlzRLg1y914U4acVR"
+        }
+      ],
+      "duration_ms": 160413,
+      "name": "Oxi (Dio Mio!)",
+      "url": "https://open.spotify.com/track/7rNs5lk3spufNxHP2C8pjX"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Repara",
+        "url": "https://open.spotify.com/album/60lO1rsH63Nx57oB1uwfnk"
+      },
+      "artists": [
+        {
+          "name": "Maielle",
+          "url": "https://open.spotify.com/artist/2vGvYgHGWdoDDdtplJlMjX"
+        }
+      ],
+      "duration_ms": 154687,
+      "name": "Repara",
+      "url": "https://open.spotify.com/track/3KSBVHgj03KdPFQ4SMIizC"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
         "name": "Sabotagem",
         "url": "https://open.spotify.com/album/0SbZxcv1ZTmPx3u5whGP3N"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 166927,
       "name": "Sabotagem",
       "url": "https://open.spotify.com/track/1oKeFnoD4jIQ9EiUyW4msF"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
-        "name": "Oxi (Dio Mio!)",
-        "url": "https://open.spotify.com/album/34gsitMxdH7mewppzUB7F6"
-      },
-      "artists": [
-        {
-          "name": "Belita",
-          "url": "https://open.spotify.com/artist/2xlX2xlzRLg1y914U4acVR"
-        }
-      ],
-      "duration_ms": 160413,
-      "name": "Oxi (Dio Mio!)",
-      "url": "https://open.spotify.com/track/7rNs5lk3spufNxHP2C8pjX"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "GELO DE COCO",
-        "url": "https://open.spotify.com/album/5a145zRGOMbgM7HUVnr0eK"
-      },
-      "artists": [
-        {
-          "name": "Verdan",
-          "url": "https://open.spotify.com/artist/216WFAjGnzkqlbHfnPs36Y"
-        }
-      ],
-      "duration_ms": 166045,
-      "name": "GELO DE COCO",
-      "url": "https://open.spotify.com/track/6BnwuIoxNjTJWjlzOcr7uu"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Casal Desgra\u00e7a",
         "url": "https://open.spotify.com/album/1UzRdg06UQxO1Bh6KUJ7SL"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 163809,
       "name": "Casal Desgra\u00e7a",
       "url": "https://open.spotify.com/track/6dr9rvtgoWH4umKNNhC1Ug"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "GELO DE COCO",
+        "url": "https://open.spotify.com/album/5a145zRGOMbgM7HUVnr0eK"
+      },
+      "artists": [
+        {
+          "name": "Verdan",
+          "url": "https://open.spotify.com/artist/216WFAjGnzkqlbHfnPs36Y"
+        }
+      ],
+      "duration_ms": 166045,
+      "name": "GELO DE COCO",
+      "url": "https://open.spotify.com/track/6BnwuIoxNjTJWjlzOcr7uu"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Brisa",
-        "url": "https://open.spotify.com/album/7nzIvpG7y3ZK197oCc8RME"
+        "name": "Mad\u00e1 (Remix)",
+        "url": "https://open.spotify.com/album/4QZBoZNRwjoBlNmzmFoSS0"
       },
       "artists": [
         {
-          "name": "Nevilton",
-          "url": "https://open.spotify.com/artist/070r60ijuqN9KisFCwV6uM"
+          "name": "Davi Cartaxo",
+          "url": "https://open.spotify.com/artist/4iBDLWArVUT5PiHgKt6nlm"
         }
       ],
-      "duration_ms": 211998,
-      "name": "Brisa",
-      "url": "https://open.spotify.com/track/4ylDsu5lFUMKtI675fAd3x"
+      "duration_ms": 205862,
+      "name": "Mad\u00e1 - Remix",
+      "url": "https://open.spotify.com/track/38E1DpBkqxCtyQvUxRDjLX"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -931,34 +931,18 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Mad\u00e1 (Remix)",
-        "url": "https://open.spotify.com/album/4QZBoZNRwjoBlNmzmFoSS0"
+        "name": "Brisa",
+        "url": "https://open.spotify.com/album/7nzIvpG7y3ZK197oCc8RME"
       },
       "artists": [
         {
-          "name": "Davi Cartaxo",
-          "url": "https://open.spotify.com/artist/4iBDLWArVUT5PiHgKt6nlm"
+          "name": "Nevilton",
+          "url": "https://open.spotify.com/artist/070r60ijuqN9KisFCwV6uM"
         }
       ],
-      "duration_ms": 205862,
-      "name": "Mad\u00e1 - Remix",
-      "url": "https://open.spotify.com/track/38E1DpBkqxCtyQvUxRDjLX"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
-        "name": "Deixa Pra L\u00e1",
-        "url": "https://open.spotify.com/album/5Dat9zmMxlC6ps8Vd3ULgt"
-      },
-      "artists": [
-        {
-          "name": "Verdan",
-          "url": "https://open.spotify.com/artist/216WFAjGnzkqlbHfnPs36Y"
-        }
-      ],
-      "duration_ms": 152137,
-      "name": "Deixa Pra L\u00e1",
-      "url": "https://open.spotify.com/track/0TjjzhFUY3h5GrG3yuWUiJ"
+      "duration_ms": 211998,
+      "name": "Brisa",
+      "url": "https://open.spotify.com/track/4ylDsu5lFUMKtI675fAd3x"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -975,6 +959,22 @@
       "duration_ms": 185142,
       "name": "Hortel\u00e3",
       "url": "https://open.spotify.com/track/1thjFFcnXI3r8W89oVewce"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Deixa Pra L\u00e1",
+        "url": "https://open.spotify.com/album/5Dat9zmMxlC6ps8Vd3ULgt"
+      },
+      "artists": [
+        {
+          "name": "Verdan",
+          "url": "https://open.spotify.com/artist/216WFAjGnzkqlbHfnPs36Y"
+        }
+      ],
+      "duration_ms": 152137,
+      "name": "Deixa Pra L\u00e1",
+      "url": "https://open.spotify.com/track/0TjjzhFUY3h5GrG3yuWUiJ"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
+        "name": "Jacquemus",
+        "url": "https://open.spotify.com/album/7pL7EHos5wHLJPChNacH45"
+      },
+      "artists": [
+        {
+          "name": "TOLENTINO",
+          "url": "https://open.spotify.com/artist/3PMuzPH1ybLdzHnZFumKLZ"
+        }
+      ],
+      "duration_ms": 153559,
+      "name": "Jacquemus",
+      "url": "https://open.spotify.com/track/3tWYqTOPHZjOdj2BBJjVR6"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
         "name": "reluz",
         "url": "https://open.spotify.com/album/4RhsyCCyX1IViJF9P7MBVM"
       },
@@ -1051,22 +1067,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Jacquemus",
-        "url": "https://open.spotify.com/album/7pL7EHos5wHLJPChNacH45"
-      },
-      "artists": [
-        {
-          "name": "TOLENTINO",
-          "url": "https://open.spotify.com/artist/3PMuzPH1ybLdzHnZFumKLZ"
-        }
-      ],
-      "duration_ms": 153559,
-      "name": "Jacquemus",
-      "url": "https://open.spotify.com/track/3tWYqTOPHZjOdj2BBJjVR6"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "\u00d4 Lulu",
         "url": "https://open.spotify.com/album/55xxEtIfagPjZR5LcCMJbP"
       },
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
+        "name": "Esquece",
+        "url": "https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1"
+      },
+      "artists": [
+        {
+          "name": "Jalma",
+          "url": "https://open.spotify.com/artist/13xRiayc0GcRZMvDCecC8L"
+        }
+      ],
+      "duration_ms": 178526,
+      "name": "Esquece",
+      "url": "https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
         "name": "Esse Jogo",
         "url": "https://open.spotify.com/album/37SKpaMjIQ218gvKu5LzPt"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 144742,
       "name": "Esse Jogo",
       "url": "https://open.spotify.com/track/33c34e6kbE9MfiJVaqZpOI"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
-        "name": "Meu Mantra pra Te Esquecer",
-        "url": "https://open.spotify.com/album/6NHTjbw0reHFYuDdTM60Pn"
-      },
-      "artists": [
-        {
-          "name": "RAY",
-          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
-        }
-      ],
-      "duration_ms": 233019,
-      "name": "Meu Mantra pra Te Esquecer",
-      "url": "https://open.spotify.com/track/09rr23IvslgyUlv6Hlemqo"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Esquece",
-        "url": "https://open.spotify.com/album/7cSnHyjD3lEQHe1EMpSCF1"
+        "name": "Meu Mantra pra Te Esquecer",
+        "url": "https://open.spotify.com/album/6NHTjbw0reHFYuDdTM60Pn"
       },
       "artists": [
         {
-          "name": "Jalma",
-          "url": "https://open.spotify.com/artist/13xRiayc0GcRZMvDCecC8L"
+          "name": "RAY",
+          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
         }
       ],
-      "duration_ms": 178526,
-      "name": "Esquece",
-      "url": "https://open.spotify.com/track/1mKKizzYm8COly8ZD5kkrt"
+      "duration_ms": 233019,
+      "name": "Meu Mantra pra Te Esquecer",
+      "url": "https://open.spotify.com/track/09rr23IvslgyUlv6Hlemqo"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Por um Fio",
-        "url": "https://open.spotify.com/album/7Ii1ewzjCQfZkULEOCMdDd"
-      },
-      "artists": [
-        {
-          "name": "Sulamericana",
-          "url": "https://open.spotify.com/artist/2FTphbeJlzLPNdfsOU7rRJ"
-        }
-      ],
-      "duration_ms": 189271,
-      "name": "Por um Fio",
-      "url": "https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "De repente voc\u00ea",
         "url": "https://open.spotify.com/album/2DeoeyTAwykibd8ERHw3VC"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 160500,
       "name": "De repente voc\u00ea",
       "url": "https://open.spotify.com/track/1uNPYO9ZaIO91uHjvhYhxN"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Por um Fio",
+        "url": "https://open.spotify.com/album/7Ii1ewzjCQfZkULEOCMdDd"
+      },
+      "artists": [
+        {
+          "name": "Sulamericana",
+          "url": "https://open.spotify.com/artist/2FTphbeJlzLPNdfsOU7rRJ"
+        }
+      ],
+      "duration_ms": 189271,
+      "name": "Por um Fio",
+      "url": "https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4"
     },
     {
       "added_at": "2023-11-30 21:58:24",

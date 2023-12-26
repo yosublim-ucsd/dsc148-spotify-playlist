@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 226848,
+  "num_followers": 226955,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWRjZjQzYjM2MTgxOTcxMjY3YzlmMDM1ZDUxNDRhYzI0NTM5YzJj",
+  "snapshot_id": "MCwxZDNiYTQ2MjFiZGQ3NDUwYjc4M2E3Zjk0ZTNiYjIyNzBkNzdkYzI0",
   "tracks": [
     {
       "added_at": "2022-08-03 03:35:17",
@@ -255,18 +255,26 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "R\u00fambala",
-        "url": "https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR"
+        "name": "Camino de Flores",
+        "url": "https://open.spotify.com/album/36qaAL8wAnZEBi1W8ITkeA"
       },
       "artists": [
         {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        },
+        {
+          "name": "Joaqu\u00edn Cornejo",
+          "url": "https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx"
+        },
+        {
+          "name": "Minuk",
+          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
         }
       ],
-      "duration_ms": 178823,
-      "name": "R\u00fambala",
-      "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
+      "duration_ms": 341500,
+      "name": "Mirando El Fuego",
+      "url": "https://open.spotify.com/track/1yTD2sqFUnRvD1Z1WwrAjL"
     },
     {
       "added_at": "2023-09-25 01:20:49",
@@ -291,26 +299,18 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Camino de Flores",
-        "url": "https://open.spotify.com/album/36qaAL8wAnZEBi1W8ITkeA"
+        "name": "R\u00fambala",
+        "url": "https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR"
       },
       "artists": [
         {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        },
-        {
-          "name": "Joaqu\u00edn Cornejo",
-          "url": "https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx"
-        },
-        {
-          "name": "Minuk",
-          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
         }
       ],
-      "duration_ms": 341500,
-      "name": "Mirando El Fuego",
-      "url": "https://open.spotify.com/track/1yTD2sqFUnRvD1Z1WwrAjL"
+      "duration_ms": 178823,
+      "name": "R\u00fambala",
+      "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
     },
     {
       "added_at": "2023-10-10 03:31:09",
@@ -371,6 +371,30 @@
       "duration_ms": 237488,
       "name": "El Plan - Cyma Remix",
       "url": "https://open.spotify.com/track/3DE5UpRmIHUtQFqvpqKAZg"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/6HUW4nUJNzPBQojQh3gX0B"
+      },
+      "artists": [
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        },
+        {
+          "name": "Uji",
+          "url": "https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G"
+        },
+        {
+          "name": "Barrio Lindo",
+          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
+        }
+      ],
+      "duration_ms": 268956,
+      "name": "Xica Xica",
+      "url": "https://open.spotify.com/track/7IMU8eXXQnXiWChljmRlxh"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -453,6 +477,22 @@
       "url": "https://open.spotify.com/track/0GVu2gXzurD0FBL7CHqE0F"
     },
     {
+      "added_at": "2023-12-12 18:58:47",
+      "album": {
+        "name": "BOSS REGGAE FROM MEXICO - REGGAE GORDO",
+        "url": "https://open.spotify.com/album/4tOQx2JFrcweaQ7ASv9XJT"
+      },
+      "artists": [
+        {
+          "name": "Travelers All Stars",
+          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
+        }
+      ],
+      "duration_ms": 163108,
+      "name": "George\u00b4s Hair Cutting",
+      "url": "https://open.spotify.com/track/2l32G0AUkiekhAjGTBOi5S"
+    },
+    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Laberinto (Bosq Remix)",
@@ -473,46 +513,6 @@
       "url": "https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1"
     },
     {
-      "added_at": "2023-12-12 18:58:47",
-      "album": {
-        "name": "BOSS REGGAE FROM MEXICO - REGGAE GORDO",
-        "url": "https://open.spotify.com/album/4tOQx2JFrcweaQ7ASv9XJT"
-      },
-      "artists": [
-        {
-          "name": "Travelers All Stars",
-          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
-        }
-      ],
-      "duration_ms": 163108,
-      "name": "George\u00b4s Hair Cutting",
-      "url": "https://open.spotify.com/track/2l32G0AUkiekhAjGTBOi5S"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/6HUW4nUJNzPBQojQh3gX0B"
-      },
-      "artists": [
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        },
-        {
-          "name": "Uji",
-          "url": "https://open.spotify.com/artist/3BQDgh6CjxVXMhy00YEx3G"
-        },
-        {
-          "name": "Barrio Lindo",
-          "url": "https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p"
-        }
-      ],
-      "duration_ms": 268956,
-      "name": "Xica Xica",
-      "url": "https://open.spotify.com/track/7IMU8eXXQnXiWChljmRlxh"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Jallalla",
@@ -531,6 +531,22 @@
       "duration_ms": 340616,
       "name": "La Frontera",
       "url": "https://open.spotify.com/track/5t34pVFdmAjwMXlCOzxJyy"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Cantos de Vision",
+        "url": "https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5"
+      },
+      "artists": [
+        {
+          "name": "Nicola Cruz",
+          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
+        }
+      ],
+      "duration_ms": 329719,
+      "name": "Danza de Vision",
+      "url": "https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -563,22 +579,6 @@
       "duration_ms": 286000,
       "name": "Jardines",
       "url": "https://open.spotify.com/track/55Y0gGl9GkNWcEMSLIQwFE"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Cantos de Vision",
-        "url": "https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5"
-      },
-      "artists": [
-        {
-          "name": "Nicola Cruz",
-          "url": "https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn"
-        }
-      ],
-      "duration_ms": 329719,
-      "name": "Danza de Vision",
-      "url": "https://open.spotify.com/track/00GwxMge3vIOMeV43Erckc"
     },
     {
       "added_at": "2022-11-03 18:27:44",
@@ -897,6 +897,22 @@
       "url": "https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7"
     },
     {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Skin and Bones",
+        "url": "https://open.spotify.com/album/7iB7ZAFFdjsVDWjCTBZjJi"
+      },
+      "artists": [
+        {
+          "name": "Self Sabotage",
+          "url": "https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Pool Party",
+      "url": "https://open.spotify.com/track/5smJ1WgnvqNJruXcPPGf32"
+    },
+    {
       "added_at": "2023-04-07 06:00:00",
       "album": {
         "name": "Clandestino",
@@ -919,22 +935,6 @@
       "duration_ms": 181818,
       "name": "Clandestino",
       "url": "https://open.spotify.com/track/4UlW3vi9SxRbvG8hyrJ3ju"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Skin and Bones",
-        "url": "https://open.spotify.com/album/7iB7ZAFFdjsVDWjCTBZjJi"
-      },
-      "artists": [
-        {
-          "name": "Self Sabotage",
-          "url": "https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Pool Party",
-      "url": "https://open.spotify.com/track/5smJ1WgnvqNJruXcPPGf32"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1017,6 +1017,22 @@
       "url": "https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz"
     },
     {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Out of This World",
+        "url": "https://open.spotify.com/album/5WQS7c24jKpUWnby2cYzgQ"
+      },
+      "artists": [
+        {
+          "name": "Gentleman's Dub Club",
+          "url": "https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr"
+        }
+      ],
+      "duration_ms": 289576,
+      "name": "Superstylin'",
+      "url": "https://open.spotify.com/track/4G7sC4cJ8wl0W17zU3dAsb"
+    },
+    {
       "added_at": "2022-11-17 23:06:29",
       "album": {
         "name": "El Sabor del Viejo Mar",
@@ -1039,22 +1055,6 @@
       "duration_ms": 263265,
       "name": "El Sabor del Viejo Mar",
       "url": "https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Out of This World",
-        "url": "https://open.spotify.com/album/5WQS7c24jKpUWnby2cYzgQ"
-      },
-      "artists": [
-        {
-          "name": "Gentleman's Dub Club",
-          "url": "https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr"
-        }
-      ],
-      "duration_ms": 289576,
-      "name": "Superstylin'",
-      "url": "https://open.spotify.com/track/4G7sC4cJ8wl0W17zU3dAsb"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1137,6 +1137,22 @@
       "url": "https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho"
     },
     {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Dubamerica",
+        "url": "https://open.spotify.com/album/3h1PIJmSLnR5vJXTfFDPZX"
+      },
+      "artists": [
+        {
+          "name": "Matanza",
+          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
+        }
+      ],
+      "duration_ms": 336373,
+      "name": "Chichera",
+      "url": "https://open.spotify.com/track/1Vba1fnOgXyknfjvp94ZVA"
+    },
+    {
       "added_at": "2023-02-02 00:29:46",
       "album": {
         "name": "Le Fruit Disco",
@@ -1155,18 +1171,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Dubamerica",
-        "url": "https://open.spotify.com/album/3h1PIJmSLnR5vJXTfFDPZX"
+        "name": "Samba del Arenal",
+        "url": "https://open.spotify.com/album/6ZCVkOvf6wk9h5KLNs21Fk"
       },
       "artists": [
         {
-          "name": "Matanza",
-          "url": "https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT"
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+        },
+        {
+          "name": "Cinemar",
+          "url": "https://open.spotify.com/artist/2t96uQP8to5GTqfwPJ9T37"
         }
       ],
-      "duration_ms": 336373,
-      "name": "Chichera",
-      "url": "https://open.spotify.com/track/1Vba1fnOgXyknfjvp94ZVA"
+      "duration_ms": 253760,
+      "name": "Samba del Arenal",
+      "url": "https://open.spotify.com/track/4etH0m0htL9X8uHEWRIsIx"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1191,22 +1211,18 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Samba del Arenal",
-        "url": "https://open.spotify.com/album/6ZCVkOvf6wk9h5KLNs21Fk"
+        "name": "Daora: Underground Sounds of Urban Brasil- Hip-Hop, Beats, Afro & Dub",
+        "url": "https://open.spotify.com/album/56rh3ctrUlzggBkhccz2s2"
       },
       "artists": [
         {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "Cinemar",
-          "url": "https://open.spotify.com/artist/2t96uQP8to5GTqfwPJ9T37"
+          "name": "Abayomy Afrobeat Orquestra",
+          "url": "https://open.spotify.com/artist/4W4o1hLeSM7vPjsZtxkAnv"
         }
       ],
-      "duration_ms": 253760,
-      "name": "Samba del Arenal",
-      "url": "https://open.spotify.com/track/4etH0m0htL9X8uHEWRIsIx"
+      "duration_ms": 457053,
+      "name": "Malunguinho",
+      "url": "https://open.spotify.com/track/6s15msjreg2553uO47iWz2"
     },
     {
       "added_at": "2022-11-17 23:06:29",
@@ -1227,22 +1243,6 @@
       "duration_ms": 103220,
       "name": "Pueblo",
       "url": "https://open.spotify.com/track/6pR0LSU0EAwvfEa9ocQ1aV"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Daora: Underground Sounds of Urban Brasil- Hip-Hop, Beats, Afro & Dub",
-        "url": "https://open.spotify.com/album/56rh3ctrUlzggBkhccz2s2"
-      },
-      "artists": [
-        {
-          "name": "Abayomy Afrobeat Orquestra",
-          "url": "https://open.spotify.com/artist/4W4o1hLeSM7vPjsZtxkAnv"
-        }
-      ],
-      "duration_ms": 457053,
-      "name": "Malunguinho",
-      "url": "https://open.spotify.com/track/6s15msjreg2553uO47iWz2"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1313,24 +1313,20 @@
       "url": "https://open.spotify.com/track/3SKSAX5IZZzCwbMZRsodvs"
     },
     {
-      "added_at": "2022-09-19 13:45:43",
+      "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Fiera",
-        "url": "https://open.spotify.com/album/1yjWcaPexYHc4DYKFfVfuc"
+        "name": "Heavenly Sweetness Sampler #3",
+        "url": "https://open.spotify.com/album/6S7fiWGmRObHoDOLlhHptX"
       },
       "artists": [
         {
-          "name": "Electropico",
-          "url": "https://open.spotify.com/artist/0vBqXIopwkJEQZEssLZEBK"
-        },
-        {
-          "name": "Mr. Pauer",
-          "url": "https://open.spotify.com/artist/0yYKXWJ4TLMKfx4UugL8dJ"
+          "name": "Coopers",
+          "url": "https://open.spotify.com/artist/0Up9P61xDdOSe0XEyCJ6ph"
         }
       ],
-      "duration_ms": 170329,
-      "name": "Pacifico Soy",
-      "url": "https://open.spotify.com/track/3HU8CSLqd7d6XSHOfWggmK"
+      "duration_ms": 184750,
+      "name": "Acapulco, dos de la tard",
+      "url": "https://open.spotify.com/track/4qPzX5KPnxMcDE1uxxwiap"
     }
   ],
   "unique_name": "Tulum Vibes",

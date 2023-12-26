@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Rawayana, Mr Eazi & Micro TDH",
-  "num_followers": 115286,
+  "num_followers": 115289,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzhkYzhiNWMwYjdiZDlkNGJkOGFkZjQ0ZDNjZTc2ZGFkMWIyMWIw",
+  "snapshot_id": "MCw2NGQ3ZWU3M2IwZWYyNjE0MmMxN2MwMGJjYjViYWU5MmZlZGI1NDI3",
   "tracks": [
     {
       "added_at": "2023-12-08 05:00:00",
@@ -259,6 +259,30 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "ENOC",
+        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 214506,
+      "name": "Del Mar",
+      "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "KU LO SA (with Camila Cabello)",
         "url": "https://open.spotify.com/album/0Pkjt4TMwpQJRrskYaZIny"
       },
@@ -299,30 +323,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "ENOC",
-        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 214506,
-      "name": "Del Mar",
-      "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Loco (Remix)",
         "url": "https://open.spotify.com/album/17UNdqbdbTyTz6JdO0T0Gb"
       },
@@ -347,22 +347,6 @@
       "duration_ms": 248499,
       "name": "Loco - Remix",
       "url": "https://open.spotify.com/track/6nGM44ZP7vSo0istUW2MOq"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Sin Gato (MIAU!)",
-        "url": "https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Sin Gato (MIAU!)",
-      "url": "https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -411,26 +395,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "DNK",
-        "url": "https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 215284,
-      "name": "T'as peur",
-      "url": "https://open.spotify.com/track/35XF6veSvhoPdWy89zaeaj"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Tucu",
         "url": "https://open.spotify.com/album/6Dm6d8bOCvfHm0VGaU9mpj"
       },
@@ -447,6 +411,22 @@
       "duration_ms": 186895,
       "name": "Tucu",
       "url": "https://open.spotify.com/track/1YIvYm5d9GnVXR0Q9SUER7"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Sin Gato (MIAU!)",
+        "url": "https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Sin Gato (MIAU!)",
+      "url": "https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -471,6 +451,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Touch It",
+        "url": "https://open.spotify.com/album/3VDgHI9zYEzSeH1dv8ij1c"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Touch It",
+      "url": "https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Mama Tetema (feat. Rayvanny)",
         "url": "https://open.spotify.com/album/05Qli4IZBlwPnBHcMdmF0z"
       },
@@ -491,18 +487,38 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Touch It",
-        "url": "https://open.spotify.com/album/3VDgHI9zYEzSeH1dv8ij1c"
+        "name": "DNK",
+        "url": "https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN"
       },
       "artists": [
         {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Touch It",
-      "url": "https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j"
+      "duration_ms": 215284,
+      "name": "T'as peur",
+      "url": "https://open.spotify.com/track/35XF6veSvhoPdWy89zaeaj"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "The Lion King: The Gift",
+        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 190108,
+      "name": "JA ARA E",
+      "url": "https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -543,22 +559,6 @@
       "duration_ms": 195047,
       "name": "Beamer (Bad Boys)",
       "url": "https://open.spotify.com/track/1pkNZFVhcshcvN5I6Nvb0q"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "The Lion King: The Gift",
-        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 190108,
-      "name": "JA ARA E",
-      "url": "https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -691,34 +691,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Jerusalema (feat. Micro TDH, Greeicy & Nomcebo Zikode) [Remix]",
-        "url": "https://open.spotify.com/album/0f7eKFD7GWis0BuKXaikB5"
-      },
-      "artists": [
-        {
-          "name": "Master KG",
-          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
-        },
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Nomcebo Zikode",
-          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
-        }
-      ],
-      "duration_ms": 218981,
-      "name": "Jerusalema (feat. Micro TDH, Greeicy & Nomcebo Zikode) [Remix]",
-      "url": "https://open.spotify.com/track/54nChLooSgU5bUQCV2oVOY"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Party Nice",
         "url": "https://open.spotify.com/album/5FVpig8lHGMmY6B8u0HHSS"
       },
@@ -743,6 +715,34 @@
       "duration_ms": 175389,
       "name": "Party Nice",
       "url": "https://open.spotify.com/track/6FxdBhDsFr5LT7xEdXMh3U"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Jerusalema (feat. Micro TDH, Greeicy & Nomcebo Zikode) [Remix]",
+        "url": "https://open.spotify.com/album/0f7eKFD7GWis0BuKXaikB5"
+      },
+      "artists": [
+        {
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Nomcebo Zikode",
+          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
+        }
+      ],
+      "duration_ms": 218981,
+      "name": "Jerusalema (feat. Micro TDH, Greeicy & Nomcebo Zikode) [Remix]",
+      "url": "https://open.spotify.com/track/54nChLooSgU5bUQCV2oVOY"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Flavors",
-        "url": "https://open.spotify.com/album/4UxU8jwt8UEgqqbOdvZ7Ox"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        }
-      ],
-      "duration_ms": 185002,
-      "name": "Mimosas",
-      "url": "https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Posa",
         "url": "https://open.spotify.com/album/2pt4yzywteOWyobOMyRN7n"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 206585,
       "name": "Posa",
       "url": "https://open.spotify.com/track/3fcIZ1K25xOEAwePGagbN8"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Flavors",
+        "url": "https://open.spotify.com/album/4UxU8jwt8UEgqqbOdvZ7Ox"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        }
+      ],
+      "duration_ms": 185002,
+      "name": "Mimosas",
+      "url": "https://open.spotify.com/track/1FmI1ftupsWDltedFxAfCS"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1027,6 +1027,30 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Midnight Boom (with ChocQuibTown & Afro B)",
+        "url": "https://open.spotify.com/album/522yErxxCtXTavUFmyNoDk"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "ChocQuibTown",
+          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
+        },
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        }
+      ],
+      "duration_ms": 220552,
+      "name": "Midnight Boom - with ChocQuibTown & Afro B",
+      "url": "https://open.spotify.com/track/46mjoNCQ3EifsDnd6dwqRD"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "iluminada",
         "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
       },
@@ -1083,30 +1107,6 @@
       "duration_ms": 212307,
       "name": "Zimenice",
       "url": "https://open.spotify.com/track/3glO3AnPdXGhYxJVvMMY18"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Midnight Boom (with ChocQuibTown & Afro B)",
-        "url": "https://open.spotify.com/album/522yErxxCtXTavUFmyNoDk"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "ChocQuibTown",
-          "url": "https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z"
-        },
-        {
-          "name": "Afro B",
-          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
-        }
-      ],
-      "duration_ms": 220552,
-      "name": "Midnight Boom - with ChocQuibTown & Afro B",
-      "url": "https://open.spotify.com/track/46mjoNCQ3EifsDnd6dwqRD"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Sabi na Sabura",
-        "url": "https://open.spotify.com/album/2y3NCDaMNbMds9tBArt6y7"
-      },
-      "artists": [
-        {
-          "name": "Julinho Ksd",
-          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Sabi na Sabura",
-      "url": "https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Claramente",
         "url": "https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 182542,
       "name": "Claramente",
       "url": "https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Sabi na Sabura",
+        "url": "https://open.spotify.com/album/2y3NCDaMNbMds9tBArt6y7"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Sabi na Sabura",
+      "url": "https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk"
     },
     {
       "added_at": "2023-12-08 05:00:00",

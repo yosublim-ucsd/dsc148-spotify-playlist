@@ -4,7 +4,7 @@
 
 > Presenting the queens of Coke Studio Pakistan\. Cover: Arooj Aftab
 
-85 songs - 9 hr 31 min
+86 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,8 +43,9 @@
 | [Ishq Kinara – Üsküdar’a Gider Iken](https://open.spotify.com/track/1PuRm7uUUiNlZ1yZF85e8k) | [Zoe Viccaji](https://open.spotify.com/artist/4CSlFJu7OMFb6hcOL2fElL), [Sumru Ağıryürüyen](https://open.spotify.com/artist/6EFwvy9g5Yn2PjyER2Eafs), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 6:34 | 2022-03-07 |  |
 | [Jaag Rahi](https://open.spotify.com/track/36pThMLl9NPkjd4V7kg6T9) | [Fariha Pervez](https://open.spotify.com/artist/76zo0c28umB2V9unPHhyKd), [Ali Noor](https://open.spotify.com/artist/1QHzQZO9zzSjv0yRRzgBPO) | [Jaag Rahi](https://open.spotify.com/album/6oPjmqELcDmWUkXTR5mgax) | 6:01 | 2022-03-07 |  |
 | [Jiya Karay](https://open.spotify.com/track/1B0g9HuxZ1HLzlpSWrdV4y) | [Sara Raza](https://open.spotify.com/artist/3rdQR5do6o3piXTzXEdlOM), [Ali Haider](https://open.spotify.com/artist/6fJXLs7sAIUz7TLJwe1HqY) | [Coke Studio Season 8](https://open.spotify.com/album/2CRqrw12XjBt4z9LI5LhH7) | 3:52 | 2022-03-07 | 2023-10-08 |
-| [Jiya Karay](https://open.spotify.com/track/206UN5EVjSCzn2tOPaF1Id) | [Sara Raza](https://open.spotify.com/artist/3rdQR5do6o3piXTzXEdlOM), [Ali Haider](https://open.spotify.com/artist/2oKGNzsdWoQGH97EnK2P42) | [Coke Studio: Season 8](https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B) | 3:52 | 2022-03-07 |  |
+| [Jiya Karay](https://open.spotify.com/track/206UN5EVjSCzn2tOPaF1Id) | [Sara Raza](https://open.spotify.com/artist/3rdQR5do6o3piXTzXEdlOM), [Ali Haider](https://open.spotify.com/artist/2oKGNzsdWoQGH97EnK2P42) | [Coke Studio: Season 8](https://open.spotify.com/album/69LQtcPU0y4H9FI5Qerc7B) | 3:52 | 2022-03-07 | 2023-12-26 |
 | [Jiya Karay](https://open.spotify.com/track/6cxCOdieJlBZ3iKfpK2KjO) | [Sara Raza](https://open.spotify.com/artist/3rdQR5do6o3piXTzXEdlOM), [Ali Haider](https://open.spotify.com/artist/6fJXLs7sAIUz7TLJwe1HqY) | [Coke Studio: Season 8](https://open.spotify.com/album/3peJK6wepWMSteaniFjkbz) | 3:52 | 2022-03-07 | 2023-12-09 |
+| [Jiya Karay \- Coke Studio Season 8](https://open.spotify.com/track/2EUGyZOMPy29Wzx3MFOQmK) | [Sara Raza](https://open.spotify.com/artist/3rdQR5do6o3piXTzXEdlOM), [Ali Haider](https://open.spotify.com/artist/2oKGNzsdWoQGH97EnK2P42) | [Jiya Karay \(Coke Studio Season 8\)](https://open.spotify.com/album/10YsH6UC9NpiCNkaDRLPbc) | 3:52 | 2022-03-07 |  |
 | [Jogi](https://open.spotify.com/track/31c5n0o9TxwSOtEetI8SBL) | [Fariha Pervez](https://open.spotify.com/artist/76zo0c28umB2V9unPHhyKd), [Muazzam Ali Khan](https://open.spotify.com/artist/2gpOH1RVAPuNbw2OdLGdOf), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 6:55 | 2022-03-07 |  |
 | [Kaatay Na Katay](https://open.spotify.com/track/6P8d2KHX4gtMHxmm8U94Vk) | [Humera Arshad](https://open.spotify.com/artist/2oSmrJthB9GUCiO6H9CFLn), [Aima Baig](https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA), [Rachel Viccaji](https://open.spotify.com/artist/79BYcJwv1Xid7f250YBhun) | [Coke Studio Season 10: Epsiode 6](https://open.spotify.com/album/3N60rRYsxoNjQUpBYkgZEY) | 6:01 | 2022-03-07 |  |
 | [Kamlee](https://open.spotify.com/track/4MvywlWl1pdPGFFFfTnghm) | [Hadiqa Kiani](https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions : Season 5](https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK) | 7:52 | 2022-03-07 |  |

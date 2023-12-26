@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Ghost",
-  "num_followers": 357242,
+  "num_followers": 357330,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDQ4OTNjZDYyMjMzMWJhYWYyYmNmMjk3M2QyZjRlM2U3Mzg5MTE4",
+  "snapshot_id": "MCxkMDY2MDRlNTkwZWYyMGU0YjA4MTQyN2EyOTE3YjczNmUzMGQ5MmU3",
   "tracks": [
     {
       "added_at": "2023-08-23 14:56:37",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-08-23 14:56:37",
       "album": {
-        "name": "Word Up! (The Remixes)",
-        "url": "https://open.spotify.com/album/1L9iPuSu8FZFaFzzqHQarF"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 172666,
-      "name": "Word Up!",
-      "url": "https://open.spotify.com/track/1pHPpLVH2XEN0xYRoQs4wq"
-    },
-    {
-      "added_at": "2023-08-23 14:56:37",
-      "album": {
         "name": "Covers",
         "url": "https://open.spotify.com/album/7rLUzHOq0d0mRGGEIqKfli"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 124173,
       "name": "Please Please Please Let Me Get What I Want - 2005 Remaster",
       "url": "https://open.spotify.com/track/4HpIh5wWfkq5sSuCLLSwYR"
+    },
+    {
+      "added_at": "2023-08-23 14:56:37",
+      "album": {
+        "name": "Word Up! (The Remixes)",
+        "url": "https://open.spotify.com/album/1L9iPuSu8FZFaFzzqHQarF"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 172666,
+      "name": "Word Up!",
+      "url": "https://open.spotify.com/track/1pHPpLVH2XEN0xYRoQs4wq"
     },
     {
       "added_at": "2023-08-23 14:56:37",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-08-23 14:56:37",
       "album": {
-        "name": "Garage, Inc.",
-        "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 366400,
-      "name": "Turn The Page",
-      "url": "https://open.spotify.com/track/7HPhrbgMHV5cUskknWA2oo"
-    },
-    {
-      "added_at": "2023-08-23 14:56:37",
-      "album": {
         "name": "Helter Skelter",
         "url": "https://open.spotify.com/album/5z8aFWpg8BaM3IeMn35e7e"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 233520,
       "name": "Rasputin",
       "url": "https://open.spotify.com/track/0W43LnKXzRivi0WPaoBLVO"
+    },
+    {
+      "added_at": "2023-08-23 14:56:37",
+      "album": {
+        "name": "Garage, Inc.",
+        "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 366400,
+      "name": "Turn The Page",
+      "url": "https://open.spotify.com/track/7HPhrbgMHV5cUskknWA2oo"
     },
     {
       "added_at": "2023-08-23 14:56:37",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-08-23 14:56:37",
       "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/3LQU4XntwPGwYAWKITYCLE"
+      },
+      "artists": [
+        {
+          "name": "No Resolve",
+          "url": "https://open.spotify.com/artist/7oAoGc2k7201dlU7mkhlDp"
+        }
+      ],
+      "duration_ms": 156340,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/6Km5c8wE03PZi1Y98twrKR"
+    },
+    {
+      "added_at": "2023-08-23 14:56:37",
+      "album": {
         "name": "Awaken the Fire",
         "url": "https://open.spotify.com/album/0Si0TtlRSqqwWRe4DnVVmk"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 218554,
       "name": "I Knew You Were Trouble",
       "url": "https://open.spotify.com/track/4LtWzWV22RQJI8fCtPVunn"
-    },
-    {
-      "added_at": "2023-08-23 14:56:37",
-      "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/3LQU4XntwPGwYAWKITYCLE"
-      },
-      "artists": [
-        {
-          "name": "No Resolve",
-          "url": "https://open.spotify.com/artist/7oAoGc2k7201dlU7mkhlDp"
-        }
-      ],
-      "duration_ms": 156340,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/6Km5c8wE03PZi1Y98twrKR"
     },
     {
       "added_at": "2023-08-23 14:56:37",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-08-23 14:56:37",
       "album": {
-        "name": "ReAniMate 2.0: The CoVeRs eP",
-        "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "Get Lucky",
-      "url": "https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU"
-    },
-    {
-      "added_at": "2023-08-23 14:56:37",
-      "album": {
         "name": "Rebels",
         "url": "https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 278280,
       "name": "Rebel Yell",
       "url": "https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ"
+    },
+    {
+      "added_at": "2023-08-23 14:56:37",
+      "album": {
+        "name": "ReAniMate 2.0: The CoVeRs eP",
+        "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "Get Lucky",
+      "url": "https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU"
     },
     {
       "added_at": "2023-08-23 14:56:37",

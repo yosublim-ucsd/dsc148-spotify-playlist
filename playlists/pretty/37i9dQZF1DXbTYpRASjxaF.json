@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: MC GP",
-  "num_followers": 126907,
+  "num_followers": 126946,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmYxYTZiMjdlNTg5ZTk5NjdmOGQ5OGFlMmJlYzZiMWQ5OGFmNzE4",
+  "snapshot_id": "MCxkMjc2NTUwM2RlOTM4NjY1NWFmZTU0YTFlYThmZjc0MTBjNDM2Zjc4",
   "tracks": [
     {
       "added_at": "2023-12-24 03:01:00",
@@ -223,30 +223,6 @@
     {
       "added_at": "2023-12-24 03:01:00",
       "album": {
-        "name": "Licor 43",
-        "url": "https://open.spotify.com/album/7LcMEcVGgbxRQSm3wJ6nX9"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 142470,
-      "name": "Licor 43",
-      "url": "https://open.spotify.com/track/3l5VjEAeUTqrlD50iEo8Yn"
-    },
-    {
-      "added_at": "2023-12-24 03:01:00",
-      "album": {
         "name": "A Cara do Crime (N\u00f3s Incomoda)",
         "url": "https://open.spotify.com/album/75IYhNYhWnTAgVYyaHGzga"
       },
@@ -279,6 +255,30 @@
       "duration_ms": 302117,
       "name": "A Cara do Crime (N\u00f3s Incomoda)",
       "url": "https://open.spotify.com/track/0wRn3ggAY1fIupTaVigdza"
+    },
+    {
+      "added_at": "2023-12-24 03:01:00",
+      "album": {
+        "name": "Foto da Unha",
+        "url": "https://open.spotify.com/album/2ch0bK9veGHOPlDQCYLAln"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Foto da Unha",
+      "url": "https://open.spotify.com/track/6CQWmtVuHcGGdWLfcpOpbp"
     },
     {
       "added_at": "2023-12-24 03:01:00",
@@ -339,6 +339,30 @@
     {
       "added_at": "2023-12-24 03:01:00",
       "album": {
+        "name": "Licor 43",
+        "url": "https://open.spotify.com/album/7LcMEcVGgbxRQSm3wJ6nX9"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 142470,
+      "name": "Licor 43",
+      "url": "https://open.spotify.com/track/3l5VjEAeUTqrlD50iEo8Yn"
+    },
+    {
+      "added_at": "2023-12-24 03:01:00",
+      "album": {
         "name": "Perdas & Ganhos",
         "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
       },
@@ -367,30 +391,6 @@
       "duration_ms": 178407,
       "name": "2023",
       "url": "https://open.spotify.com/track/4sfY9Q4rQKVwxQVKo6v04i"
-    },
-    {
-      "added_at": "2023-12-24 03:01:00",
-      "album": {
-        "name": "Foto da Unha",
-        "url": "https://open.spotify.com/album/2ch0bK9veGHOPlDQCYLAln"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "Foto da Unha",
-      "url": "https://open.spotify.com/track/6CQWmtVuHcGGdWLfcpOpbp"
     },
     {
       "added_at": "2023-12-24 03:01:00",
@@ -515,6 +515,38 @@
     {
       "added_at": "2023-12-24 03:01:00",
       "album": {
+        "name": "Perdas & Ganhos",
+        "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 162506,
+      "name": "Celine",
+      "url": "https://open.spotify.com/track/1aDGzQHWNCMy3pF1Stqjk7"
+    },
+    {
+      "added_at": "2023-12-24 03:01:00",
+      "album": {
         "name": "Bonjour",
         "url": "https://open.spotify.com/album/0Baa9kQydueBXW6jcAE6Tq"
       },
@@ -611,38 +643,6 @@
       "duration_ms": 228571,
       "name": "Mal Intencionada (J\u00e1 Foi, J\u00e1 Era)",
       "url": "https://open.spotify.com/track/4TvKjqrk0Hp6k0vsbxyXjK"
-    },
-    {
-      "added_at": "2023-12-24 03:01:00",
-      "album": {
-        "name": "Perdas & Ganhos",
-        "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 162506,
-      "name": "Celine",
-      "url": "https://open.spotify.com/track/1aDGzQHWNCMy3pF1Stqjk7"
     },
     {
       "added_at": "2023-12-24 03:01:00",
@@ -807,6 +807,62 @@
     {
       "added_at": "2023-12-24 03:01:00",
       "album": {
+        "name": "Poesia Ac\u00fastica 15",
+        "url": "https://open.spotify.com/album/1FRHQdfzxbxAKjfh1jVLaK"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Luiz Lins",
+          "url": "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "JayA Luuck",
+          "url": "https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        }
+      ],
+      "duration_ms": 680816,
+      "name": "Poesia Ac\u00fastica 15",
+      "url": "https://open.spotify.com/track/1kolqJR4ZYYfuZy7v5GwBx"
+    },
+    {
+      "added_at": "2023-12-24 03:01:00",
+      "album": {
         "name": "Dacoromode",
         "url": "https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz"
       },
@@ -827,6 +883,30 @@
       "duration_ms": 146490,
       "name": "Boa Sorte Mesmo",
       "url": "https://open.spotify.com/track/4qWBGrLVgn1XiUTRzC3fkx"
+    },
+    {
+      "added_at": "2023-12-24 03:01:00",
+      "album": {
+        "name": "O Bagulho \u00c9 Trap II",
+        "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9 Santiago",
+          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
+        },
+        {
+          "name": "TrapHits",
+          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
+        },
+        {
+          "name": "Raffa Moreira",
+          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
+        }
+      ],
+      "duration_ms": 183941,
+      "name": "Megatron - Feat. Raffa Moreira",
+      "url": "https://open.spotify.com/track/4UN7uguq2M4zepJYz7iaVN"
     },
     {
       "added_at": "2023-12-24 03:01:00",
@@ -903,30 +983,6 @@
     {
       "added_at": "2023-12-24 03:01:00",
       "album": {
-        "name": "O Bagulho \u00c9 Trap II",
-        "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9 Santiago",
-          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
-        },
-        {
-          "name": "TrapHits",
-          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
-        },
-        {
-          "name": "Raffa Moreira",
-          "url": "https://open.spotify.com/artist/4xUawweuqhjMvoScRGbveR"
-        }
-      ],
-      "duration_ms": 183941,
-      "name": "Megatron - Feat. Raffa Moreira",
-      "url": "https://open.spotify.com/track/4UN7uguq2M4zepJYz7iaVN"
-    },
-    {
-      "added_at": "2023-12-24 03:01:00",
-      "album": {
         "name": "Bem Vindo Natal Mixtape 2",
         "url": "https://open.spotify.com/album/3uMKaRHfxppABibJFJi0mr"
       },
@@ -991,6 +1047,30 @@
     {
       "added_at": "2023-12-24 03:01:00",
       "album": {
+        "name": "O Bagulho \u00c9 Trap II",
+        "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9 Santiago",
+          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
+        },
+        {
+          "name": "TrapHits",
+          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
+        },
+        {
+          "name": "RT Mallone",
+          "url": "https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "Hitchcock - Feat. RT Mallone",
+      "url": "https://open.spotify.com/track/0w6uGMrOOUTH1nxk0d8Uez"
+    },
+    {
+      "added_at": "2023-12-24 03:01:00",
+      "album": {
         "name": "Se Acaba (feat. Mc Don Juan & MC Ryan SP)",
         "url": "https://open.spotify.com/album/3rXDB8PJWiuVSfkqYIELlV"
       },
@@ -1015,30 +1095,6 @@
       "duration_ms": 218000,
       "name": "Se Acaba (feat. Mc Don Juan & MC Ryan SP)",
       "url": "https://open.spotify.com/track/4TmIkfVvu5LOE2JADl8Brp"
-    },
-    {
-      "added_at": "2023-12-24 03:01:00",
-      "album": {
-        "name": "O Bagulho \u00c9 Trap II",
-        "url": "https://open.spotify.com/album/2Qmvr67Jntk0C35AUAsfEX"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9 Santiago",
-          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
-        },
-        {
-          "name": "TrapHits",
-          "url": "https://open.spotify.com/artist/2quvlZjqliCr1hbUqkk5oW"
-        },
-        {
-          "name": "RT Mallone",
-          "url": "https://open.spotify.com/artist/3R10G1MFkbrhqtyPuCZe9k"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "Hitchcock - Feat. RT Mallone",
-      "url": "https://open.spotify.com/track/0w6uGMrOOUTH1nxk0d8Uez"
     },
     {
       "added_at": "2023-12-24 03:01:00",
@@ -1175,6 +1231,26 @@
     {
       "added_at": "2023-12-24 03:01:00",
       "album": {
+        "name": "Toda Noite",
+        "url": "https://open.spotify.com/album/1ybO5RFlM3hhjgssvNfKNe"
+      },
+      "artists": [
+        {
+          "name": "Abbot",
+          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        }
+      ],
+      "duration_ms": 128695,
+      "name": "Romance de Novela",
+      "url": "https://open.spotify.com/track/3Ddco5MUY23qxHZE2s3siS"
+    },
+    {
+      "added_at": "2023-12-24 03:01:00",
+      "album": {
         "name": "Medo \u00c9 S\u00f3 Ilus\u00e3o",
         "url": "https://open.spotify.com/album/2jQXDCqfn6UCdCN8VRA6eu"
       },
@@ -1195,26 +1271,6 @@
       "duration_ms": 135773,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/1GsOoDPsPpXhW1oJ2nPwNg"
-    },
-    {
-      "added_at": "2023-12-24 03:01:00",
-      "album": {
-        "name": "Toda Noite",
-        "url": "https://open.spotify.com/album/1ybO5RFlM3hhjgssvNfKNe"
-      },
-      "artists": [
-        {
-          "name": "Abbot",
-          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
-        },
-        {
-          "name": "Pepito",
-          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
-        }
-      ],
-      "duration_ms": 128695,
-      "name": "Romance de Novela",
-      "url": "https://open.spotify.com/track/3Ddco5MUY23qxHZE2s3siS"
     },
     {
       "added_at": "2023-12-24 03:01:00",
@@ -1263,62 +1319,6 @@
       "duration_ms": 172978,
       "name": "Misturas no copo",
       "url": "https://open.spotify.com/track/64snhXUXQyLWrnqReKEMTZ"
-    },
-    {
-      "added_at": "2023-12-24 03:01:00",
-      "album": {
-        "name": "Poesia Ac\u00fastica 15",
-        "url": "https://open.spotify.com/album/1FRHQdfzxbxAKjfh1jVLaK"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Luiz Lins",
-          "url": "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "JayA Luuck",
-          "url": "https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        }
-      ],
-      "duration_ms": 680816,
-      "name": "Poesia Ac\u00fastica 15",
-      "url": "https://open.spotify.com/track/1kolqJR4ZYYfuZy7v5GwBx"
     },
     {
       "added_at": "2023-12-24 03:01:00",

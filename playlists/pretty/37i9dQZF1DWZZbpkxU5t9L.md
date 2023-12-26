@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: 桑田佳祐 & 松任谷由美
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,886 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,904 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 49 | [Ashes](https://open.spotify.com/track/2hWYqb2PHlUZKXOdK2rfFA) | [Superfly](https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ) | [Ashes](https://open.spotify.com/album/3UZBxSPfJQumL14kCOzJJo) | 3:20 |
 | 50 | [おともだち](https://open.spotify.com/track/0h8lQsN8g5G1kHSFpXnDVq) | [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf) | [満身創意](https://open.spotify.com/album/1EJZyEyOQ9Ad6Rkro66ieM) | 3:05 |
 
-Snapshot ID: `MCxiNTFhMzQ3ZDYzZWYwNjZjMmRmNjFiZGE4NGRlZTk4NjBiMjMzZDRl`
+Snapshot ID: `MCw2OWIzMzcwNWM3YzUzZTRiNTlmOGY4NTUxOTVhM2Y5MzAwNWQ5YjE0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 
 > This is BIA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,373 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,381 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 31 | [One Minute Warning](https://open.spotify.com/track/0IVrI7SYvqq18xYu1N2GiD) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [One Minute Warning](https://open.spotify.com/album/2WJNKgf3ojXKrQXzzJQWvR) | 1:01 |
 | 32 | [COVER GIRL](https://open.spotify.com/track/3l1DD2X1lomNhj6xO3ftcb) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:29 |
 | 33 | [CHATTY](https://open.spotify.com/track/6u2LaYlmDbDLsEtCFMHcIO) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 2:41 |
-| 34 | [BIG BUSINESS](https://open.spotify.com/track/0J9owOEvifIjOT1akwYVOn) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) | 1:41 |
-| 35 | [Is That Right](https://open.spotify.com/track/3vbfLTQ4F7CvL3DGO1cdZF) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [The End of an Era](https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD) | 2:50 |
+| 34 | [Is That Right](https://open.spotify.com/track/3vbfLTQ4F7CvL3DGO1cdZF) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [The End of an Era](https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD) | 2:50 |
+| 35 | [BIG BUSINESS](https://open.spotify.com/track/0J9owOEvifIjOT1akwYVOn) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [REALLY HER](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) | 1:41 |
 | 36 | [SKATE](https://open.spotify.com/track/5eeNzRV0twsDptfHslE7XR) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:42 |
 | 37 | [DUBAI](https://open.spotify.com/track/0RCFwZ4GluILfF8VDJoJV8) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [REALLY HER \(INTL DELUXE\)](https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2) | 3:15 |
 | 38 | [Eat It Up \(feat\. BIA\)](https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Q9uUx.md) - [plain]
 | 49 | [CLASSY \(feat\. Swizz Beatz\)](https://open.spotify.com/track/00nzfB9qa5ZqVxbfxVJUok) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3) | [REALLY HER](https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5) | 1:54 |
 | 50 | [Street Opera \(Swizz Beatz feat\. SAINt JHN, Fivio Foreign & BIA\)](https://open.spotify.com/track/7qYGNevCXJh3xOzmr3XvyK) | [Godfather of Harlem](https://open.spotify.com/artist/6ss7NRk9Y2P9n8q1yH2HXA), [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [Street Opera \(Swizz Beatz feat\. SAINt JHN, Fivio Foreign & BIA\)](https://open.spotify.com/album/4ydjUzXvQ5jyxNtCchd3j0) | 3:33 |
 
-Snapshot ID: `MjgzOTAyOTIsMDAwMDAwMDAzOTk3ODdiYTkyY2FiZmM0MzFjOWUzYmYyZjhjZjM3NA==`
+Snapshot ID: `MjgzOTE3MzQsMDAwMDAwMDA4MDBmNzlkOGY3NWNhZGM4MDllZjc2NjlmZWQ0ZDVmMg==`

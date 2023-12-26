@@ -1,12 +1,12 @@
 {
   "description": "Los sonidos tradicionales de la Isla del Encanto.",
-  "num_followers": 4468,
+  "num_followers": 4508,
   "original_name": "Bomba y Plena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTVkNzQyOTFmZDczMmJkMDhmNDM3NThiZGRjZjRkYmYzZjE0NGQ0",
+  "snapshot_id": "MCxlNDRiMWU5OWY3ZjgxYTBhODg4ZmEzYmY3YjI4MjFhMTAxZmI1NmFi",
   "tracks": [
     {
       "added_at": "2023-06-13 22:15:19",
@@ -127,22 +127,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Estamos Gozando",
-        "url": "https://open.spotify.com/album/3U8wcmgDMXJeLGiu6ikRsZ"
-      },
-      "artists": [
-        {
-          "name": "Plena Libre",
-          "url": "https://open.spotify.com/artist/7jZRvnCRPh2cJZ4DW5WrD9"
-        }
-      ],
-      "duration_ms": 381720,
-      "name": "Medley De La Calle San Sebastian",
-      "url": "https://open.spotify.com/track/2TuyfsOZ7hwxI2Hfv84MPz"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Los Pleneros del Quinto Olivo",
         "url": "https://open.spotify.com/album/6qiTayP9dcVf9c8WvmUvXs"
       },
@@ -159,6 +143,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
+        "name": "Estamos Gozando",
+        "url": "https://open.spotify.com/album/3U8wcmgDMXJeLGiu6ikRsZ"
+      },
+      "artists": [
+        {
+          "name": "Plena Libre",
+          "url": "https://open.spotify.com/artist/7jZRvnCRPh2cJZ4DW5WrD9"
+        }
+      ],
+      "duration_ms": 381720,
+      "name": "Medley De La Calle San Sebastian",
+      "url": "https://open.spotify.com/track/2TuyfsOZ7hwxI2Hfv84MPz"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
         "name": "Otro Formato de M\u00fasica",
         "url": "https://open.spotify.com/album/1hzY0te4MOmzdIv1EhtjjB"
       },
@@ -171,38 +171,6 @@
       "duration_ms": 296586,
       "name": "B\u00e1mbula",
       "url": "https://open.spotify.com/track/1fZXAwO0Rh3osppfV2SVAV"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
-        "name": "Mucho Gusto, Soy de la Isla",
-        "url": "https://open.spotify.com/album/0F2xRnz22VLCLXbUevZtaX"
-      },
-      "artists": [
-        {
-          "name": "Los Pleneros de la Cresta",
-          "url": "https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP"
-        }
-      ],
-      "duration_ms": 299840,
-      "name": "Todito el A\u00f1o",
-      "url": "https://open.spotify.com/track/0wxTVGig2qcOwfH2kDJS8T"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
-        "name": "Distinto Y Diferente",
-        "url": "https://open.spotify.com/album/2gKfS4zd0LONEuh3fEv40W"
-      },
-      "artists": [
-        {
-          "name": "Plenealo",
-          "url": "https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg"
-        }
-      ],
-      "duration_ms": 331102,
-      "name": "Plenazo Callejero 1",
-      "url": "https://open.spotify.com/track/2sKuQbRejG9hxdDfPXVJ0Y"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -239,6 +207,38 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
+        "name": "Mucho Gusto, Soy de la Isla",
+        "url": "https://open.spotify.com/album/0F2xRnz22VLCLXbUevZtaX"
+      },
+      "artists": [
+        {
+          "name": "Los Pleneros de la Cresta",
+          "url": "https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP"
+        }
+      ],
+      "duration_ms": 299840,
+      "name": "Todito el A\u00f1o",
+      "url": "https://open.spotify.com/track/0wxTVGig2qcOwfH2kDJS8T"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Distinto Y Diferente",
+        "url": "https://open.spotify.com/album/2gKfS4zd0LONEuh3fEv40W"
+      },
+      "artists": [
+        {
+          "name": "Plenealo",
+          "url": "https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg"
+        }
+      ],
+      "duration_ms": 331102,
+      "name": "Plenazo Callejero 1",
+      "url": "https://open.spotify.com/track/2sKuQbRejG9hxdDfPXVJ0Y"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
         "name": "Tamb\u00f3",
         "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
       },
@@ -259,38 +259,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Mucho Gusto, Soy de la Isla",
-        "url": "https://open.spotify.com/album/0F2xRnz22VLCLXbUevZtaX"
-      },
-      "artists": [
-        {
-          "name": "Los Pleneros de la Cresta",
-          "url": "https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP"
-        }
-      ],
-      "duration_ms": 239346,
-      "name": "Soy Plenero Soy",
-      "url": "https://open.spotify.com/track/772ixwOJU2N1x4IMJBxnIa"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
-        "name": "Distinto Y Diferente",
-        "url": "https://open.spotify.com/album/2gKfS4zd0LONEuh3fEv40W"
-      },
-      "artists": [
-        {
-          "name": "Plenealo",
-          "url": "https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg"
-        }
-      ],
-      "duration_ms": 451500,
-      "name": "Plenazo Callejero 2",
-      "url": "https://open.spotify.com/track/5WIC5dyHF3rJwsa2UhdElr"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Otro Formato de M\u00fasica",
         "url": "https://open.spotify.com/album/1hzY0te4MOmzdIv1EhtjjB"
       },
@@ -307,6 +275,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
+        "name": "Bombazo",
+        "url": "https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf"
+      },
+      "artists": [
+        {
+          "name": "Grupo Afro Boriqua, Director William Cepeda",
+          "url": "https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM"
+        }
+      ],
+      "duration_ms": 270226,
+      "name": "El Galo Canta",
+      "url": "https://open.spotify.com/track/6hEwsZGS0656EENLI1LTU5"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
         "name": "Bomba De Loiza",
         "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 125493,
       "name": "Rule Sonda",
       "url": "https://open.spotify.com/track/5VcZnqmPU8KetpEi0ypoH3"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Mucho Gusto, Soy de la Isla",
+        "url": "https://open.spotify.com/album/0F2xRnz22VLCLXbUevZtaX"
+      },
+      "artists": [
+        {
+          "name": "Los Pleneros de la Cresta",
+          "url": "https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP"
+        }
+      ],
+      "duration_ms": 239346,
+      "name": "Soy Plenero Soy",
+      "url": "https://open.spotify.com/track/772ixwOJU2N1x4IMJBxnIa"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Bombazo",
-        "url": "https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf"
+        "name": "Distinto Y Diferente",
+        "url": "https://open.spotify.com/album/2gKfS4zd0LONEuh3fEv40W"
       },
       "artists": [
         {
-          "name": "Grupo Afro Boriqua, Director William Cepeda",
-          "url": "https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM"
+          "name": "Plenealo",
+          "url": "https://open.spotify.com/artist/0X0JZd4gZGYs1MdZUwHgMg"
         }
       ],
-      "duration_ms": 270226,
-      "name": "El Galo Canta",
-      "url": "https://open.spotify.com/track/6hEwsZGS0656EENLI1LTU5"
+      "duration_ms": 451500,
+      "name": "Plenazo Callejero 2",
+      "url": "https://open.spotify.com/track/5WIC5dyHF3rJwsa2UhdElr"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Zona de Bomba",
-        "url": "https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw"
+        "name": "Bombazo",
+        "url": "https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf"
       },
       "artists": [
         {
-          "name": "Zona de Bomba",
-          "url": "https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm"
+          "name": "Grupo Afro Boriqua, Director William Cepeda",
+          "url": "https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM"
         }
       ],
-      "duration_ms": 236480,
-      "name": "Bomba y Plena",
-      "url": "https://open.spotify.com/track/2yyFQflmCZXog3ZDJ33hNc"
+      "duration_ms": 338933,
+      "name": "Afro Boricua",
+      "url": "https://open.spotify.com/track/7feVDHYgNORokGJQqLgytd"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
+        "name": "Zona de Bomba",
+        "url": "https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw"
+      },
+      "artists": [
+        {
+          "name": "Zona de Bomba",
+          "url": "https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm"
+        }
+      ],
+      "duration_ms": 236480,
+      "name": "Bomba y Plena",
+      "url": "https://open.spotify.com/track/2yyFQflmCZXog3ZDJ33hNc"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
         "name": "Bomba De Loiza",
         "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 157720,
       "name": "Meli Ton Ton Be",
       "url": "https://open.spotify.com/track/0icYDIzJYlyXomaTrHGDtX"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
-        "name": "Bombazo",
-        "url": "https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf"
-      },
-      "artists": [
-        {
-          "name": "Grupo Afro Boriqua, Director William Cepeda",
-          "url": "https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM"
-        }
-      ],
-      "duration_ms": 338933,
-      "name": "Afro Boricua",
-      "url": "https://open.spotify.com/track/7feVDHYgNORokGJQqLgytd"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Mucho Gusto, Soy de la Isla",
-        "url": "https://open.spotify.com/album/0F2xRnz22VLCLXbUevZtaX"
-      },
-      "artists": [
-        {
-          "name": "Los Pleneros de la Cresta",
-          "url": "https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP"
-        }
-      ],
-      "duration_ms": 257506,
-      "name": "Yerba Bruja",
-      "url": "https://open.spotify.com/track/5FssMqu4T5DOip6W4kdUWS"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Candela!",
         "url": "https://open.spotify.com/album/6fDIfyDziBLqYANN8GtUS1"
       },
@@ -555,18 +539,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Para Todos Ustedes",
-        "url": "https://open.spotify.com/album/304SxpX0NsaNayS1gAAhn5"
+        "name": "Mucho Gusto, Soy de la Isla",
+        "url": "https://open.spotify.com/album/0F2xRnz22VLCLXbUevZtaX"
       },
       "artists": [
         {
-          "name": "Los Pleneros de la 21",
-          "url": "https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy"
+          "name": "Los Pleneros de la Cresta",
+          "url": "https://open.spotify.com/artist/1uZVxckdGGKhFMpCnupXmP"
         }
       ],
-      "duration_ms": 454466,
-      "name": "Campo (Land) / Yo cantar\u00e9 esta bomba (I Will Sing this Bomba)",
-      "url": "https://open.spotify.com/track/3re4zafR80jdjih18UJYvF"
+      "duration_ms": 257506,
+      "name": "Yerba Bruja",
+      "url": "https://open.spotify.com/track/5FssMqu4T5DOip6W4kdUWS"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -587,18 +571,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Bomba De Loiza",
-        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
+        "name": "Para Todos Ustedes",
+        "url": "https://open.spotify.com/album/304SxpX0NsaNayS1gAAhn5"
       },
       "artists": [
         {
-          "name": "Hermanos Ayala",
-          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
+          "name": "Los Pleneros de la 21",
+          "url": "https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy"
         }
       ],
-      "duration_ms": 176773,
-      "name": "Bombero Eh",
-      "url": "https://open.spotify.com/track/6IP4iBxur2Q6HnYaBbWuGj"
+      "duration_ms": 454466,
+      "name": "Campo (Land) / Yo cantar\u00e9 esta bomba (I Will Sing this Bomba)",
+      "url": "https://open.spotify.com/track/3re4zafR80jdjih18UJYvF"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -615,6 +599,22 @@
       "duration_ms": 174345,
       "name": "A La Buena S\u00ed",
       "url": "https://open.spotify.com/track/1wbjlLVtfqlX6jyCpRbwdH"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Bomba De Loiza",
+        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Ayala",
+          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
+        }
+      ],
+      "duration_ms": 176773,
+      "name": "Bombero Eh",
+      "url": "https://open.spotify.com/track/6IP4iBxur2Q6HnYaBbWuGj"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
+        "name": "Somos Boricuas: Bomba Y Plena En Nueva York",
+        "url": "https://open.spotify.com/album/3RTj6IuypsPsWoGUsiUTwB"
+      },
+      "artists": [
+        {
+          "name": "Los Pleneros de la 21",
+          "url": "https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy"
+        }
+      ],
+      "duration_ms": 223293,
+      "name": "Plena De San Anton",
+      "url": "https://open.spotify.com/track/6bSNlhadeU2eW6MWQN1Kq0"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
         "name": "Tamb\u00f3",
         "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
       },
@@ -683,6 +699,22 @@
       "duration_ms": 213106,
       "name": "Gua\u00f1eco pi\u00e9",
       "url": "https://open.spotify.com/track/6WJk2pIiUCgBcTe3DbBJde"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Bomba De Loiza",
+        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Ayala",
+          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
+        }
+      ],
+      "duration_ms": 243586,
+      "name": "La Negra Pancha",
+      "url": "https://open.spotify.com/track/1IncQD0Q84IO6Hjun80mbZ"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -719,38 +751,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Somos Boricuas: Bomba Y Plena En Nueva York",
-        "url": "https://open.spotify.com/album/3RTj6IuypsPsWoGUsiUTwB"
-      },
-      "artists": [
-        {
-          "name": "Los Pleneros de la 21",
-          "url": "https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy"
-        }
-      ],
-      "duration_ms": 223293,
-      "name": "Plena De San Anton",
-      "url": "https://open.spotify.com/track/6bSNlhadeU2eW6MWQN1Kq0"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
-        "name": "Bomba De Loiza",
-        "url": "https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Ayala",
-          "url": "https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE"
-        }
-      ],
-      "duration_ms": 243586,
-      "name": "La Negra Pancha",
-      "url": "https://open.spotify.com/track/1IncQD0Q84IO6Hjun80mbZ"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Rompecabezas",
         "url": "https://open.spotify.com/album/5WOxmuWOvEtqfdovqzngsp"
       },
@@ -767,18 +767,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Zona de Bomba",
-        "url": "https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw"
+        "name": "Opus IV",
+        "url": "https://open.spotify.com/album/5RD5NmumoA8pStfZpQcHb7"
       },
       "artists": [
         {
-          "name": "Zona de Bomba",
-          "url": "https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm"
+          "name": "Viento De Agua",
+          "url": "https://open.spotify.com/artist/42veAQPAg36vBaE3WVh8CE"
         }
       ],
-      "duration_ms": 350346,
-      "name": "Sirenas, Sangueo y San Mill\u00e1n",
-      "url": "https://open.spotify.com/track/1Jx54hvwf8rtDb1VmzfFBh"
+      "duration_ms": 310440,
+      "name": "La Marej\u00e1 de los Muertos",
+      "url": "https://open.spotify.com/track/0bObIC8XTOqsOdEoo7A3ys"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -803,34 +803,34 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Opus IV",
-        "url": "https://open.spotify.com/album/5RD5NmumoA8pStfZpQcHb7"
+        "name": "Zona de Bomba",
+        "url": "https://open.spotify.com/album/5SxENakdNP2atbfVrXKMUw"
       },
       "artists": [
         {
-          "name": "Viento De Agua",
-          "url": "https://open.spotify.com/artist/42veAQPAg36vBaE3WVh8CE"
+          "name": "Zona de Bomba",
+          "url": "https://open.spotify.com/artist/15Jsro4b4X8Rf5ziuqGHEm"
         }
       ],
-      "duration_ms": 310440,
-      "name": "La Marej\u00e1 de los Muertos",
-      "url": "https://open.spotify.com/track/0bObIC8XTOqsOdEoo7A3ys"
+      "duration_ms": 350346,
+      "name": "Sirenas, Sangueo y San Mill\u00e1n",
+      "url": "https://open.spotify.com/track/1Jx54hvwf8rtDb1VmzfFBh"
     },
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Para Todos Ustedes",
-        "url": "https://open.spotify.com/album/304SxpX0NsaNayS1gAAhn5"
+        "name": "Buya (Live)",
+        "url": "https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq"
       },
       "artists": [
         {
-          "name": "Los Pleneros de la 21",
-          "url": "https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy"
+          "name": "Buya",
+          "url": "https://open.spotify.com/artist/29u8U8MD9gvMcxkkJxikna"
         }
       ],
-      "duration_ms": 223853,
-      "name": "Madame Calal\u00fa",
-      "url": "https://open.spotify.com/track/7rgzOhmb0GFWDgAOqhk8ah"
+      "duration_ms": 192786,
+      "name": "Candela (Seis Corrido) [Live]",
+      "url": "https://open.spotify.com/track/1WQayDc6Nia3dIBRJ4qINW"
     }
   ],
   "unique_name": "Bomba y Plena",

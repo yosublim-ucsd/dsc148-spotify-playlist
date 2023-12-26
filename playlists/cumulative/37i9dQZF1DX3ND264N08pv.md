@@ -4,7 +4,7 @@
 
 > Hardcore and uptempo to get you pumped
 
-222 songs - 12 hr 33 min
+223 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Die For This](https://open.spotify.com/track/5RE1AIUAPa86jKiRENCpQG) | [Bulletproof](https://open.spotify.com/artist/3Eby2L5JXvh1LLZhjOdea6), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [Die For This](https://open.spotify.com/album/1KQAvivjZXMwi4hBKWgpK1) | 4:00 | 2022-12-08 |  |
 | [Dikke Rave Beat](https://open.spotify.com/track/164XRnFMsUiPCYkGmG5481) | [Gezellige Uptempo](https://open.spotify.com/artist/7H94tjDpGeDAoLEaQR0tOv), [Unlocked](https://open.spotify.com/artist/1MpKBwjaYMkO0iNWcEsRmj) | [Dikke Rave Beat](https://open.spotify.com/album/5Wacg5kAJnOxxQvbguCflC) | 2:53 | 2023-06-01 | 2023-06-27 |
 | [Dirty Thoughts](https://open.spotify.com/track/3IxNbTPp5F97s6zxD3Ty0M) | [Unproven](https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI) | [Dirty Thoughts](https://open.spotify.com/album/3INDi6HHqprOeYmhoiiU7U) | 2:38 | 2023-04-20 |  |
-| [Disruption](https://open.spotify.com/track/0Zxzg3AzI2tJKaCGVJ3yrz) | [Karun](https://open.spotify.com/artist/7xJwFmwgqp0VKlLXt1cXjT) | [Disruption](https://open.spotify.com/album/1aEvgZoBSKhQEpE6bIiij3) | 3:00 | 2023-09-07 |  |
+| [Disruption](https://open.spotify.com/track/0Zxzg3AzI2tJKaCGVJ3yrz) | [Karun](https://open.spotify.com/artist/7xJwFmwgqp0VKlLXt1cXjT) | [Disruption](https://open.spotify.com/album/1aEvgZoBSKhQEpE6bIiij3) | 3:00 | 2023-09-07 | 2023-12-26 |
 | [DON'T BE SCARED](https://open.spotify.com/track/7acXF1WBYmFqqbgExXLQ98) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Frenchkillerz](https://open.spotify.com/artist/1AYLNDNyJwPWGSlB3l2Ji1), [BLACK FREQUENCY](https://open.spotify.com/artist/6npcGVRXFdD99Gcv9AKaaH) | [DON'T BE SCARED](https://open.spotify.com/album/5beQxSHKyvH6FeYkRttFNn) | 3:06 | 2023-09-21 |  |
 | [Dope Sh!t](https://open.spotify.com/track/3NXA25q68QQgGVKPx4SIhs) | [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO), [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO) | [Eclipse](https://open.spotify.com/album/1YnDpDHRlgSwkwZaqmAVy8) | 3:41 | 2022-12-08 | 2023-12-22 |
 | [Double D](https://open.spotify.com/track/7izn5XTRDSyaari83OE4XM) | [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W), [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Double D](https://open.spotify.com/album/1Es6YZUlA57Wq9qu6YkCsK) | 3:28 | 2022-12-08 | 2023-09-02 |
@@ -128,6 +128,7 @@
 | [LOSE STRESS](https://open.spotify.com/track/1awFS7E8LutYumdpdYGq7M) | [LunaKorpz](https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1) | [LOSE STRESS](https://open.spotify.com/album/2OKZCUdcVh8mCgPZEpQBhZ) | 2:48 | 2022-12-08 | 2023-12-22 |
 | [M.D.E.](https://open.spotify.com/track/4KO7NEzBt47IkcV5MdgICy) | [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [M.D.E.](https://open.spotify.com/album/0rfp7y1AKvJ4fJbK2VFtqM) | 2:32 | 2022-12-08 | 2023-12-22 |
 | [Mad Masquerade](https://open.spotify.com/track/3OXcRBlauVlOXf0yeeEXlA) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Mad Masquerade](https://open.spotify.com/album/7hDsieJg1siQ8sOHCkoAud) | 3:47 | 2023-02-23 | 2023-06-23 |
+| [Made it to Thunderdome](https://open.spotify.com/track/0Cxe1F9JEK4iFjX54aauZe) | [Nightshift](https://open.spotify.com/artist/1fzWsgu7ndnyTBtBYOmzxe), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Made it to Thunderdome](https://open.spotify.com/album/51RFeHthhnta86KQO92uyY) | 3:47 | 2023-12-21 |  |
 | [Magic](https://open.spotify.com/track/2xWUGV4FHZkSuB89667jrr) | [Noctyz](https://open.spotify.com/artist/7gkuoQQsU5ZBUpsFpZy1yh) | [Magic](https://open.spotify.com/album/0UrT7ZmEkro70hRGaixoRn) | 2:49 | 2023-10-16 |  |
 | [MAKE IT POP](https://open.spotify.com/track/15aTM8pzywQEBV73CrlAO3) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW) | [MAKE IT POP](https://open.spotify.com/album/13JOW0aLJacGieAZhtH3HL) | 3:14 | 2022-12-08 | 2023-03-07 |
 | [Makin' Money](https://open.spotify.com/track/1p4jOCB6It2fT39a5GeDxw) | [Infected](https://open.spotify.com/artist/0s6bxdhbz7QrUYjm3Pzkjg), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [FadeIIBlack \- The Album](https://open.spotify.com/album/4PUTlODF1Cr1nQfSnoSmuQ) | 2:28 | 2023-12-14 |  |

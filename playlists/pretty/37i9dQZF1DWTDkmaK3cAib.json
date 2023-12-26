@@ -1,12 +1,12 @@
 {
   "description": "let's get it on",
-  "num_followers": 42832,
+  "num_followers": 42855,
   "original_name": "bes\u00e1ndote <3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMmEzZjJkMjRkMzNjZTQyMWIzZWI1ZmE0MDVjYjJlZDZlYjExYzI3",
+  "snapshot_id": "MCw3YzEyODdmNjQ1ODAyYzRjODNlMWMxYWYyYTY3YzVkNWVhNmUyNzJm",
   "tracks": [
     {
       "added_at": "2023-12-12 22:35:32",
@@ -95,6 +95,22 @@
       "duration_ms": 269714,
       "name": "Tuyo",
       "url": "https://open.spotify.com/track/4tQofG51E0juZBBVr6pral"
+    },
+    {
+      "added_at": "2023-12-12 22:35:32",
+      "album": {
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 160191,
+      "name": "telepat\u00eda",
+      "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
     },
     {
       "added_at": "2023-12-12 22:35:32",
@@ -191,22 +207,6 @@
       "duration_ms": 222545,
       "name": "No digas nada",
       "url": "https://open.spotify.com/track/24lqVtYdnA1NhYd37XFOPb"
-    },
-    {
-      "added_at": "2023-12-12 22:35:32",
-      "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
-        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 160191,
-      "name": "telepat\u00eda",
-      "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
     },
     {
       "added_at": "2023-12-12 22:35:32",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-12-12 22:35:32",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO",
-        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 160426,
-      "name": "MERCURIO",
-      "url": "https://open.spotify.com/track/6KCvMsAiL6WseKEFsWoPgc"
-    },
-    {
-      "added_at": "2023-12-12 22:35:32",
-      "album": {
         "name": "Mi Nena Remix",
         "url": "https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 171832,
       "name": "A Mi Tambi\u00e9n ft. Alvaro Diaz, Feid",
       "url": "https://open.spotify.com/track/5Bc130ZswADfOY9bxk1y98"
+    },
+    {
+      "added_at": "2023-12-12 22:35:32",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO",
+        "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 160426,
+      "name": "MERCURIO",
+      "url": "https://open.spotify.com/track/6KCvMsAiL6WseKEFsWoPgc"
     },
     {
       "added_at": "2023-12-12 22:35:32",
@@ -575,42 +575,6 @@
     {
       "added_at": "2023-12-12 22:35:32",
       "album": {
-        "name": "fue mejor (feat. SZA)",
-        "url": "https://open.spotify.com/album/5h23sIlF1FvjdIdcJofXlI"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 230964,
-      "name": "fue mejor (feat. SZA)",
-      "url": "https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5"
-    },
-    {
-      "added_at": "2023-12-12 22:35:32",
-      "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 208934,
-      "name": "LEJOS DEL CIELO",
-      "url": "https://open.spotify.com/track/58EM1w815O5XZGWSF7DUCf"
-    },
-    {
-      "added_at": "2023-12-12 22:35:32",
-      "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
       },
@@ -631,6 +595,42 @@
       "duration_ms": 196701,
       "name": "11 Y ONCE",
       "url": "https://open.spotify.com/track/1YUTTfAThKaxEYP9Zfv21V"
+    },
+    {
+      "added_at": "2023-12-12 22:35:32",
+      "album": {
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 208934,
+      "name": "LEJOS DEL CIELO",
+      "url": "https://open.spotify.com/track/58EM1w815O5XZGWSF7DUCf"
+    },
+    {
+      "added_at": "2023-12-12 22:35:32",
+      "album": {
+        "name": "fue mejor (feat. SZA)",
+        "url": "https://open.spotify.com/album/5h23sIlF1FvjdIdcJofXlI"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 230964,
+      "name": "fue mejor (feat. SZA)",
+      "url": "https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5"
     },
     {
       "added_at": "2023-12-12 22:35:32",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-12-12 22:35:32",
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/3tHGFcXeL55wqNQl2vh2GX"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 194233,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/4KM3EegQxVIvcihTEjPdRf"
-    },
-    {
-      "added_at": "2023-12-12 22:35:32",
-      "album": {
         "name": "DATA",
         "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 201642,
       "name": "me jodi...",
       "url": "https://open.spotify.com/track/6xntXCix5SxiEtv9zH7pXF"
+    },
+    {
+      "added_at": "2023-12-12 22:35:32",
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/3tHGFcXeL55wqNQl2vh2GX"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 194233,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/4KM3EegQxVIvcihTEjPdRf"
     },
     {
       "added_at": "2023-12-12 22:35:32",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-12-12 22:35:32",
       "album": {
+        "name": "La Dulzura",
+        "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 187481,
+      "name": "Rimas Pa' Seducir",
+      "url": "https://open.spotify.com/track/2usf3N1xqWLBvFXAgczmbG"
+    },
+    {
+      "added_at": "2023-12-12 22:35:32",
+      "album": {
         "name": "Rumbo",
         "url": "https://open.spotify.com/album/22xOfOeKkOaTmK0aeLnl2D"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 176129,
       "name": "Nuestros Horarios",
       "url": "https://open.spotify.com/track/69G2Aj5COfbjvfiMHt2Yfv"
-    },
-    {
-      "added_at": "2023-12-12 22:35:32",
-      "album": {
-        "name": "La Dulzura",
-        "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 187481,
-      "name": "Rimas Pa' Seducir",
-      "url": "https://open.spotify.com/track/2usf3N1xqWLBvFXAgczmbG"
     },
     {
       "added_at": "2023-12-12 22:35:32",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-12-12 22:35:32",
       "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 198973,
-      "name": "DVD",
-      "url": "https://open.spotify.com/track/2Uk2XAamvFG6AecKgayLKU"
-    },
-    {
-      "added_at": "2023-12-12 22:35:32",
-      "album": {
         "name": "Sensaciones",
         "url": "https://open.spotify.com/album/7Hr8FOf7NQIe7UhLcllXq9"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 207335,
       "name": "No Me Sueltes M\u00e1s",
       "url": "https://open.spotify.com/track/5wWfs4E9RBXMQRpeNWRlXj"
+    },
+    {
+      "added_at": "2023-12-12 22:35:32",
+      "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 198973,
+      "name": "DVD",
+      "url": "https://open.spotify.com/track/2Uk2XAamvFG6AecKgayLKU"
     },
     {
       "added_at": "2023-12-12 22:35:32",
@@ -1191,26 +1191,6 @@
     {
       "added_at": "2023-12-12 22:35:32",
       "album": {
-        "name": "Nuevos Aires",
-        "url": "https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu"
-      },
-      "artists": [
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 226844,
-      "name": "DameLove (feat. Cuco)",
-      "url": "https://open.spotify.com/track/2ALEhWrcpAdOC7YYJBQIre"
-    },
-    {
-      "added_at": "2023-12-12 22:35:32",
-      "album": {
         "name": "Miel",
         "url": "https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 217135,
       "name": "Miel",
       "url": "https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9"
+    },
+    {
+      "added_at": "2023-12-12 22:35:32",
+      "album": {
+        "name": "Nuevos Aires",
+        "url": "https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 226844,
+      "name": "DameLove (feat. Cuco)",
+      "url": "https://open.spotify.com/track/2ALEhWrcpAdOC7YYJBQIre"
     },
     {
       "added_at": "2023-12-12 22:35:32",

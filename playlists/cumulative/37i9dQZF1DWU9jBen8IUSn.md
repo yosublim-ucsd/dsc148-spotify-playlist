@@ -4,7 +4,7 @@
 
 > Songs that make Paul Mescal feel something \- including some from his new film All Of Us Strangers\. Welcome to <a href="spotify:genre:0JQ5IMCbQBLz83ugJwU5zb">mixtape</a>, a curator's playground.
 
-346 songs - 1 day 0 hr 16 min
+347 songs - 1 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Hackensack](https://open.spotify.com/track/11PUdjgVfGEZLG9zs9UeTp) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 3:00 | 2023-07-18 | 2023-09-26 |
 | [Half Blind](https://open.spotify.com/track/0oCbUXsb6P60PSBGow5omZ) | [Ye Vagabonds](https://open.spotify.com/artist/34Or4SetJBRvrlE8AO1qDO) | [Ye Vagabonds](https://open.spotify.com/album/40OUs2JatPtv1truz2ceB9) | 4:07 | 2023-12-22 |  |
 | [Hang On Bill](https://open.spotify.com/track/4tlw5np6HbB0UKO2roDYOy) | [Little Lisa](https://open.spotify.com/artist/2xaOOtLaV8BOds7mm41qnp) | [The Complete Motown Singles, Vol\. 5: 1965](https://open.spotify.com/album/6pPH5BskG0nTxEGdkIl58Y) | 2:50 | 2023-10-20 | 2023-12-23 |
+| [Harry](https://open.spotify.com/track/4CBu0D9KEwGKGpbQgyzqcP) | [Emilie Levienaise\-Farrouch](https://open.spotify.com/artist/4L9xhLgedQ5e9BwaVNunWf) | [All of Us Strangers \(Original Score\)](https://open.spotify.com/album/0zh47kNWMYt2qUObasMHnJ) | 2:02 | 2023-12-25 |  |
 | [Heaven's Only Wishful](https://open.spotify.com/track/0kKkbVim9GLVFsWDDcmgVb) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Heaven's Only Wishful](https://open.spotify.com/album/1XHJnDkjL5yrkdRgl30SMM) | 4:03 | 2023-06-07 | 2023-06-24 |
 | [Hey Moon](https://open.spotify.com/track/0MpsyFvt1KaxNYBYw2aanq) | [John Maus](https://open.spotify.com/artist/4R073T3AVJKqAsbzLmLW9u) | [We Must Become the Pitiless Censors of Ourselves](https://open.spotify.com/album/6lfo4f2EW26I06q2cIMPof) | 4:08 | 2023-10-20 | 2023-12-23 |
 | [Holocene](https://open.spotify.com/track/35KiiILklye1JRRctaLUb4) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 5:36 | 2023-07-18 | 2023-09-26 |

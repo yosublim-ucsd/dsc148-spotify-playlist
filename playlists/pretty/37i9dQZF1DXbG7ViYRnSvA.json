@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/officialcoodieandchike/\">Coodie & Chike</a>",
-  "num_followers": 16236,
+  "num_followers": 16252,
   "original_name": "Coodie & Chike's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTMzMzc0NWE4ZGUyODMyMjJhYTAxM2JkZTQ4MjBhODYzOGRlYWZl",
+  "snapshot_id": "MCw4Nzc0ZjM2ZTBjYmM1YmUxNWM4Y2YwNzYyNzJlYTg4ZDdhZDY5ODdi",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -47,6 +47,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Ain't That Good News",
+        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "IV",
         "url": "https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 273864,
       "name": "Time Moves Slow",
       "url": "https://open.spotify.com/track/1IqF5PUDUnaykHLs0RWbDO"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Ain't That Good News",
-        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 191160,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -171,6 +171,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 428222,
+      "name": "As",
+      "url": "https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Late Registration",
         "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
       },
@@ -195,18 +211,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+        "name": "Bad 25th Anniversary",
+        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 428222,
-      "name": "As",
-      "url": "https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn"
+      "duration_ms": 232800,
+      "name": "Liberian Girl - 2012 Remastered Version",
+      "url": "https://open.spotify.com/track/5OoRmdDfAiDztSwrhe7wuE"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -231,22 +247,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Bad 25th Anniversary",
-        "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "Liberian Girl - 2012 Remastered Version",
-      "url": "https://open.spotify.com/track/5OoRmdDfAiDztSwrhe7wuE"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL"
       },
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Late Registration",
-        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/2DHNCWZYmVr1Lv08q5b0kB"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "- Ugh, those feels again",
         "url": "https://open.spotify.com/album/2OIMJ2Arm0dYpmWIfQOXTD"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 47953,
       "name": "Here Now (Intro)",
       "url": "https://open.spotify.com/track/205IW4vYosxfMhrubqeUHv"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Late Registration",
+        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/2DHNCWZYmVr1Lv08q5b0kB"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -435,6 +435,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Sharon Paige",
+          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
+        }
+      ],
+      "duration_ms": 316893,
+      "name": "You Know How to Make Me Feel so Good (feat. Sharon Paige)",
+      "url": "https://open.spotify.com/track/1OOT5tLOCpvg5VFZVeMYC5"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "The College Dropout",
         "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
       },
@@ -455,26 +475,6 @@
       "duration_ms": 324440,
       "name": "Never Let Me Down",
       "url": "https://open.spotify.com/track/34j4OxJxKznBs88cjSL2j9"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Sharon Paige",
-          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
-        }
-      ],
-      "duration_ms": 316893,
-      "name": "You Know How to Make Me Feel so Good (feat. Sharon Paige)",
-      "url": "https://open.spotify.com/track/1OOT5tLOCpvg5VFZVeMYC5"
     },
     {
       "added_at": "2022-10-01 16:00:00",

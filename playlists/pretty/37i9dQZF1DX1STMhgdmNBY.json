@@ -1,12 +1,12 @@
 {
   "description": "For body and mind, blues straight from the soul.",
-  "num_followers": 68051,
+  "num_followers": 68099,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmVhZDFmNzJiM2IzZWQ1ZmJmNDc4OGI1N2UxYjc0Y2MwNTA4OTBj",
+  "snapshot_id": "MCw3ZGI1YTg4YTQyNTEwNWEyNDdhNmYzODYwZTBhYzJmZGFlMmFjNTg2",
   "tracks": [
     {
       "added_at": "2023-10-05 13:06:44",
@@ -83,22 +83,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Blues From The Gutter",
-        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
-      },
-      "artists": [
-        {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
-        }
-      ],
-      "duration_ms": 192706,
-      "name": "Junker's Blues",
-      "url": "https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "To Love Somebody (Expanded Edition)",
         "url": "https://open.spotify.com/album/6T4nAC6CRLciyg4tQbgovi"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 233000,
       "name": "I Shall Be Released",
       "url": "https://open.spotify.com/track/32BTFbqhSvYKftE0e8a8d4"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "Blues From The Gutter",
+        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
+      },
+      "artists": [
+        {
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+        }
+      ],
+      "duration_ms": 192706,
+      "name": "Junker's Blues",
+      "url": "https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -131,22 +131,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 247373,
-      "name": "Mean Old World",
-      "url": "https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "Lucille",
         "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 616560,
       "name": "Lucille",
       "url": "https://open.spotify.com/track/4ZSJs1cqeincEi2KjUGmZC"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 247373,
+      "name": "Mean Old World",
+      "url": "https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -195,6 +195,54 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
+        "name": "Still Got The Blues",
+        "url": "https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "duration_ms": 464040,
+      "name": "As The Years Go Passing By",
+      "url": "https://open.spotify.com/track/56UsciEGCYrmCTSI3veuvC"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "Indianola Mississippi Seeds",
+        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 278640,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/769OeqqYJcSQjvVquDWfYf"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "Tin Pan Alley",
+        "url": "https://open.spotify.com/album/3zH6FQfxszWNSF4EYmgVhT"
+      },
+      "artists": [
+        {
+          "name": "Magic Slim",
+          "url": "https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x"
+        }
+      ],
+      "duration_ms": 322026,
+      "name": "Cold Hearted Woman",
+      "url": "https://open.spotify.com/track/1WVh4LQBjRhooTIYmMpAu4"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
         "name": "Nina Simone Sings The Blues (Expanded Edition)",
         "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
       },
@@ -223,54 +271,6 @@
       "duration_ms": 187600,
       "name": "Call It Stormy Monday",
       "url": "https://open.spotify.com/track/1i7nQGgwloILcp6ZftH2Qa"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
-        "name": "Indianola Mississippi Seeds",
-        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 278640,
-      "name": "Hummingbird",
-      "url": "https://open.spotify.com/track/769OeqqYJcSQjvVquDWfYf"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
-        "name": "Still Got The Blues",
-        "url": "https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ"
-      },
-      "artists": [
-        {
-          "name": "Gary Moore",
-          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
-        }
-      ],
-      "duration_ms": 464040,
-      "name": "As The Years Go Passing By",
-      "url": "https://open.spotify.com/track/56UsciEGCYrmCTSI3veuvC"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
-        "name": "Tin Pan Alley",
-        "url": "https://open.spotify.com/album/3zH6FQfxszWNSF4EYmgVhT"
-      },
-      "artists": [
-        {
-          "name": "Magic Slim",
-          "url": "https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x"
-        }
-      ],
-      "duration_ms": 322026,
-      "name": "Cold Hearted Woman",
-      "url": "https://open.spotify.com/track/1WVh4LQBjRhooTIYmMpAu4"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Nina Simone Sings The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 164986,
-      "name": "Do I Move You?",
-      "url": "https://open.spotify.com/track/0aIcFRGr88cGtlEJBuDub6"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "Had to Cry Today",
         "url": "https://open.spotify.com/album/4NS1YYttwG5mtWQCdpbvjV"
       },
@@ -339,18 +323,18 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
       },
       "artists": [
         {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 228626,
-      "name": "T-Bone Blues",
-      "url": "https://open.spotify.com/track/3DjwjAUPT4zvIu6ZzcgLGJ"
+      "duration_ms": 164986,
+      "name": "Do I Move You?",
+      "url": "https://open.spotify.com/track/0aIcFRGr88cGtlEJBuDub6"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -423,18 +407,18 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Done Come Too Far",
-        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
       },
       "artists": [
         {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
         }
       ],
-      "duration_ms": 210731,
-      "name": "Barefoot In Heaven",
-      "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
+      "duration_ms": 228626,
+      "name": "T-Bone Blues",
+      "url": "https://open.spotify.com/track/3DjwjAUPT4zvIu6ZzcgLGJ"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -451,6 +435,22 @@
       "duration_ms": 271200,
       "name": "Ball N' Chain",
       "url": "https://open.spotify.com/track/0D1S1rK4M8D3kJDFN50u0G"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "Done Come Too Far",
+        "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Barefoot In Heaven",
+      "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha"
+      },
+      "artists": [
+        {
+          "name": "Clarence \"Gatemouth\" Brown",
+          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
+        }
+      ],
+      "duration_ms": 338333,
+      "name": "Long Way Home",
+      "url": "https://open.spotify.com/track/1BjYNhg7JhVfQdxqEThBwn"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
         "name": "Get Back To The Land",
         "url": "https://open.spotify.com/album/7oj7EsiZB17a22MqGmWO0W"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 266350,
       "name": "Get Back To The Land",
       "url": "https://open.spotify.com/track/1oBCIuFxyHqutsnQhSuqlk"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
-        "name": "Long Way Home",
-        "url": "https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha"
-      },
-      "artists": [
-        {
-          "name": "Clarence \"Gatemouth\" Brown",
-          "url": "https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo"
-        }
-      ],
-      "duration_ms": 338333,
-      "name": "Long Way Home",
-      "url": "https://open.spotify.com/track/1BjYNhg7JhVfQdxqEThBwn"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -703,6 +703,22 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
+        "name": "The Country Side Of Esther",
+        "url": "https://open.spotify.com/album/4MA3arxMVtS7SXoIKPvTzm"
+      },
+      "artists": [
+        {
+          "name": "Esther Phillips",
+          "url": "https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7"
+        }
+      ],
+      "duration_ms": 199226,
+      "name": "No Headstone on My Grave",
+      "url": "https://open.spotify.com/track/0qutFw4ww1oFyEfkVk0uMD"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
         "name": "The Last Of The Blue Devils",
         "url": "https://open.spotify.com/album/6uVMAymadbYSAusGSUnNqw"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 187265,
       "name": "I Must Be In A Good Place Now",
       "url": "https://open.spotify.com/track/75J1XqFui85iw1L8ocepuF"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
-        "name": "The Country Side Of Esther",
-        "url": "https://open.spotify.com/album/4MA3arxMVtS7SXoIKPvTzm"
-      },
-      "artists": [
-        {
-          "name": "Esther Phillips",
-          "url": "https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7"
-        }
-      ],
-      "duration_ms": 199226,
-      "name": "No Headstone on My Grave",
-      "url": "https://open.spotify.com/track/0qutFw4ww1oFyEfkVk0uMD"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "You Make Me Feel",
-        "url": "https://open.spotify.com/album/5nmTyPcWtLpY6HfkQI5AQN"
-      },
-      "artists": [
-        {
-          "name": "Don Bryant",
-          "url": "https://open.spotify.com/artist/1EJaL1QJ34YEpRT7jWDD7I"
-        }
-      ],
-      "duration_ms": 270103,
-      "name": "Is It Over",
-      "url": "https://open.spotify.com/track/6CTNoKveaQYSOhvYWJUAHl"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "Mourning In The Morning",
         "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
       },
@@ -947,22 +931,6 @@
       "duration_ms": 295666,
       "name": "Reap What You Sow",
       "url": "https://open.spotify.com/track/09PAOMUiAjZho9HVkd5umo"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
-        "name": "Taj Mahal",
-        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 531960,
-      "name": "Celebrated Walkin' Blues",
-      "url": "https://open.spotify.com/track/4oNnxT1kVOAcAYkt8gxXAS"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -983,6 +951,38 @@
       "duration_ms": 203226,
       "name": "Sittin' And Cryin' The Blues",
       "url": "https://open.spotify.com/track/4vl2dLCKiTjkPGFRGchtuL"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "You Make Me Feel",
+        "url": "https://open.spotify.com/album/5nmTyPcWtLpY6HfkQI5AQN"
+      },
+      "artists": [
+        {
+          "name": "Don Bryant",
+          "url": "https://open.spotify.com/artist/1EJaL1QJ34YEpRT7jWDD7I"
+        }
+      ],
+      "duration_ms": 270103,
+      "name": "Is It Over",
+      "url": "https://open.spotify.com/track/6CTNoKveaQYSOhvYWJUAHl"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "Taj Mahal",
+        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 531960,
+      "name": "Celebrated Walkin' Blues",
+      "url": "https://open.spotify.com/track/4oNnxT1kVOAcAYkt8gxXAS"
     },
     {
       "added_at": "2023-10-05 13:06:44",

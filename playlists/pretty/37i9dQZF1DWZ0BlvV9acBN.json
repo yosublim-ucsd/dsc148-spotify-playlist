@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Thalles Roberto",
-  "num_followers": 134145,
+  "num_followers": 134192,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjRjOGNhYzQ5N2JjMzMzMzEwNjY2ODYyMTlkZTliMWNjOWQ2NTFk",
+  "snapshot_id": "MCw0ZGM4ZGNkYzBhNmZhYWJmZmRlNDBlNWEzNWMxZWRhZWNmNTg1ZGYw",
   "tracks": [
     {
       "added_at": "2023-12-22 03:00:00",
@@ -179,6 +179,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Lembre-se 80's",
+        "url": "https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 296500,
+      "name": "Medley Le\u00e3o de Jud\u00e1",
+      "url": "https://open.spotify.com/track/0ejnofglgLxwmt24MSMlSe"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "De Malas Prontas",
         "url": "https://open.spotify.com/album/0FYt1B473sCYjKI7cm1Dng"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 254762,
       "name": "Nosso Deus \u00c9 Grande - Ao Vivo",
       "url": "https://open.spotify.com/track/3z3b7WjjcJ2Jp2yfIXkOjE"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Lembre-se 80's",
-        "url": "https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 296500,
-      "name": "Medley Le\u00e3o de Jud\u00e1",
-      "url": "https://open.spotify.com/track/0ejnofglgLxwmt24MSMlSe"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -307,6 +307,38 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Lembre-se 80's",
+        "url": "https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 232191,
+      "name": "A Alegria / O Ex\u00e9rcito de Deus / Caiam por Terra / Autoridade e Poder",
+      "url": "https://open.spotify.com/track/1FA2ED4v1F9d15HviInZSO"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Jardim Dos Inocentes",
+        "url": "https://open.spotify.com/album/6WBt57jyBlxr9F4kuWQL5s"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Abrantes",
+          "url": "https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN"
+        }
+      ],
+      "duration_ms": 370520,
+      "name": "Jardim Dos Inocentes",
+      "url": "https://open.spotify.com/track/6Jxs0BSse305oGyLW6aDKF"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Tudo Fica Bem",
         "url": "https://open.spotify.com/album/74KhNQQ0J28XUQB5dC3JTE"
       },
@@ -339,38 +371,6 @@
       "duration_ms": 236295,
       "name": "Cordeiro e Le\u00e3o",
       "url": "https://open.spotify.com/track/0l7lyBcrTSSwBgu1AJ5ktC"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Lembre-se 80's",
-        "url": "https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 232191,
-      "name": "A Alegria / O Ex\u00e9rcito de Deus / Caiam por Terra / Autoridade e Poder",
-      "url": "https://open.spotify.com/track/1FA2ED4v1F9d15HviInZSO"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Jardim Dos Inocentes",
-        "url": "https://open.spotify.com/album/6WBt57jyBlxr9F4kuWQL5s"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Abrantes",
-          "url": "https://open.spotify.com/artist/0M8rmgpYMtvYbHvXD3cHkN"
-        }
-      ],
-      "duration_ms": 370520,
-      "name": "Jardim Dos Inocentes",
-      "url": "https://open.spotify.com/track/6Jxs0BSse305oGyLW6aDKF"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -411,6 +411,22 @@
       "duration_ms": 594705,
       "name": "Onde Tem Lenha",
       "url": "https://open.spotify.com/track/4C8R3nxWiBNaDqEMixBRKz"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Lembre-se 90's",
+        "url": "https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 283933,
+      "name": "Eu Quero \u00e9 Deus / Celebrai a Cristo / Aquele Que Est\u00e1 Feliz",
+      "url": "https://open.spotify.com/track/7B0rqWEg7PPydoF1hKXFUf"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -467,22 +483,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Lembre-se 90's",
-        "url": "https://open.spotify.com/album/3uj4RFLuFtfSIPVVvOcptS"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 283933,
-      "name": "Eu Quero \u00e9 Deus / Celebrai a Cristo / Aquele Que Est\u00e1 Feliz",
-      "url": "https://open.spotify.com/track/7B0rqWEg7PPydoF1hKXFUf"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "ATEU",
         "url": "https://open.spotify.com/album/2C9WkmNAfnnFciTun3JAsb"
       },
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Tudo \u00e9 Teu / Nova Criatura / Rede ao Mar",
+        "url": "https://open.spotify.com/album/4LNn5OkVpjCZv5c8aKc4N4"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 304556,
+      "name": "Tudo \u00e9 Teu / Nova Criatura / Rede ao Mar",
+      "url": "https://open.spotify.com/track/4G2fqa20Hkj8uTDwMOzfrr"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Columb\u00e1rio",
         "url": "https://open.spotify.com/album/4o6BATvOsC4vbHJySc5avV"
       },
@@ -555,54 +571,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Eu Vou Amanhecer (ao Vivo)",
-        "url": "https://open.spotify.com/album/0puuCUbHqQAhodavAxZbkj"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 341789,
-      "name": "Eu Vou Amanhecer - Ao Vivo",
-      "url": "https://open.spotify.com/track/7MUFfFp3Voeu9N8hBBm960"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Tudo \u00e9 Teu / Nova Criatura / Rede ao Mar",
-        "url": "https://open.spotify.com/album/4LNn5OkVpjCZv5c8aKc4N4"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 304556,
-      "name": "Tudo \u00e9 Teu / Nova Criatura / Rede ao Mar",
-      "url": "https://open.spotify.com/track/4G2fqa20Hkj8uTDwMOzfrr"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
-        "name": "Descanso",
-        "url": "https://open.spotify.com/album/5MMYVvEPVmYHmvF4VZqzlH"
-      },
-      "artists": [
-        {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
-        }
-      ],
-      "duration_ms": 403932,
-      "name": "Descanso",
-      "url": "https://open.spotify.com/track/3QedBFF9E1St6Hkb2zWauL"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "O Meu Lugar",
         "url": "https://open.spotify.com/album/7DKFhuhRDNz2BeLF1NvJH2"
       },
@@ -623,6 +591,22 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
+        "name": "Eu Vou Amanhecer (ao Vivo)",
+        "url": "https://open.spotify.com/album/0puuCUbHqQAhodavAxZbkj"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 341789,
+      "name": "Eu Vou Amanhecer - Ao Vivo",
+      "url": "https://open.spotify.com/track/7MUFfFp3Voeu9N8hBBm960"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
         "name": "Salazar (Ao Vivo)",
         "url": "https://open.spotify.com/album/3rmdXtY0TwGeQvjOdljqqN"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 380250,
       "name": "A Vit\u00f3ria Da Cruz / Mais Que Vencedor - Ao Vivo",
       "url": "https://open.spotify.com/track/7ynkuAtSuCtFWFZITYp6Nr"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Descanso",
+        "url": "https://open.spotify.com/album/5MMYVvEPVmYHmvF4VZqzlH"
+      },
+      "artists": [
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        }
+      ],
+      "duration_ms": 403932,
+      "name": "Descanso",
+      "url": "https://open.spotify.com/track/3QedBFF9E1St6Hkb2zWauL"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -671,26 +671,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "A Est\u00e1tua",
-        "url": "https://open.spotify.com/album/19cl5wWgzJsRjsPdyOBwpK"
-      },
-      "artists": [
-        {
-          "name": "Mauro Henrique",
-          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
-        },
-        {
-          "name": "Diego Rox",
-          "url": "https://open.spotify.com/artist/1wrVWFQTN7fUh9cR0pUvJg"
-        }
-      ],
-      "duration_ms": 207087,
-      "name": "A Est\u00e1tua",
-      "url": "https://open.spotify.com/track/5dV1WilekeFKNrDVqmgo0s"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Na Terra Parte 2/3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2REZbS8CQZnhrBdEhmTZ1d"
       },
@@ -711,22 +691,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 536192,
-      "name": "Santo - Ao Vivo",
-      "url": "https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Uma Carta de Amanh\u00e3",
         "url": "https://open.spotify.com/album/692vSdGYRKAYnqAoXQaEOJ"
       },
@@ -743,18 +707,38 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Palavrantiga Ao Vivo (Pt. 3)",
-        "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
+        "name": "A Est\u00e1tua",
+        "url": "https://open.spotify.com/album/19cl5wWgzJsRjsPdyOBwpK"
       },
       "artists": [
         {
-          "name": "Palavrantiga",
-          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        },
+        {
+          "name": "Diego Rox",
+          "url": "https://open.spotify.com/artist/1wrVWFQTN7fUh9cR0pUvJg"
         }
       ],
-      "duration_ms": 250600,
-      "name": "Palavra Antiga - Ao Vivo",
-      "url": "https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH"
+      "duration_ms": 207087,
+      "name": "A Est\u00e1tua",
+      "url": "https://open.spotify.com/track/5dV1WilekeFKNrDVqmgo0s"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 536192,
+      "name": "Santo - Ao Vivo",
+      "url": "https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -791,6 +775,22 @@
       "duration_ms": 226911,
       "name": "Estrangeiro",
       "url": "https://open.spotify.com/track/2HdkGrK8kgT65oTqI2IyWU"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Palavrantiga Ao Vivo (Pt. 3)",
+        "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
+      },
+      "artists": [
+        {
+          "name": "Palavrantiga",
+          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
+        }
+      ],
+      "duration_ms": 250600,
+      "name": "Palavra Antiga - Ao Vivo",
+      "url": "https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "Peregrino",
-        "url": "https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG"
-      },
-      "artists": [
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Peregrino",
-      "url": "https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "Louco (feat. PG)",
         "url": "https://open.spotify.com/album/4yc5e16AJYtTFxCv4J0VTg"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 379130,
       "name": "Falhas - Ao Vivo",
       "url": "https://open.spotify.com/track/2QXChqCLWRKdkrxXYtBJYn"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "Peregrino",
+        "url": "https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG"
+      },
+      "artists": [
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Peregrino",
+      "url": "https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ"
     },
     {
       "added_at": "2023-12-22 03:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-12-22 03:00:00",
       "album": {
-        "name": "At\u00e9 o Fim",
-        "url": "https://open.spotify.com/album/4u5AzbPL3LzLNcDFhcPf72"
-      },
-      "artists": [
-        {
-          "name": "Ana Diniz",
-          "url": "https://open.spotify.com/artist/4L8rEhWyGVcPhp4CZJNDqm"
-        }
-      ],
-      "duration_ms": 240805,
-      "name": "At\u00e9 o Fim",
-      "url": "https://open.spotify.com/track/2bGj7BEZEXSGpNh174GEow"
-    },
-    {
-      "added_at": "2023-12-22 03:00:00",
-      "album": {
         "name": "KINTSUGI",
         "url": "https://open.spotify.com/album/0bVQ9jChKnNeRkIkXlsomK"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 193662,
       "name": "Fui Encontrado",
       "url": "https://open.spotify.com/track/0U4A3mLKbj59c8WxUFdhZ9"
+    },
+    {
+      "added_at": "2023-12-22 03:00:00",
+      "album": {
+        "name": "At\u00e9 o Fim",
+        "url": "https://open.spotify.com/album/4u5AzbPL3LzLNcDFhcPf72"
+      },
+      "artists": [
+        {
+          "name": "Ana Diniz",
+          "url": "https://open.spotify.com/artist/4L8rEhWyGVcPhp4CZJNDqm"
+        }
+      ],
+      "duration_ms": 240805,
+      "name": "At\u00e9 o Fim",
+      "url": "https://open.spotify.com/track/2bGj7BEZEXSGpNh174GEow"
     },
     {
       "added_at": "2023-12-22 03:00:00",

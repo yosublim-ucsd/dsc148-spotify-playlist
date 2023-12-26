@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: ASH ISLAND\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,789 likes - 106 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,870 likes - 106 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 105 | [AF!!](https://open.spotify.com/track/5nIRburQxBeif2bb0IemOW) | [P\. Cassady](https://open.spotify.com/artist/64zL0O0ioJm6wvF3vdHyLu) | [AF!!](https://open.spotify.com/album/06SgEJLnXrd3tQQWH54vs6) | 2:20 |
 | 106 | [헤브어굿데이!](https://open.spotify.com/track/3e0z86O1YO0c3e5IaVgg7q) | [JUTO](https://open.spotify.com/artist/7HJsFAB2CpPpMxBNntMT5c) | [헤브어굿데이!](https://open.spotify.com/album/7hQaoNNdo8foX0NavGrlnv) | 2:59 |
 
-Snapshot ID: `MCw2NDY3NDI0YTM2NTBlZWQ2MjVlOWE0NDBiYmI2Yjc1MDVlOGE1OTZi`
+Snapshot ID: `MCw3ZmFiNGMxZmZmMTg1MWNiZTZkMzBlY2I4N2M2Y2M4ZGU4ZTQ5ZTQ4`

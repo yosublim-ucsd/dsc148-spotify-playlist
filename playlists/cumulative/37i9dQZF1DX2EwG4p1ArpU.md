@@ -4,7 +4,7 @@
 
 > ネット発の新たな才能として注目を集めるシンガーソングライター、Eveの楽曲を1つのプレイリストに。Essential tracks from Japanese singer\-songwriter, Eve.
 
-67 songs - 5 hr 30 min
+68 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [sister \- Re arrange ver](https://open.spotify.com/track/5DjszFQHnH2MtZLrOduvQy) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [OFFICIAL NUMBER](https://open.spotify.com/album/2AxkAqRmDqZJB03UPQaC0B) | 4:07 | 2022-11-30 |  |
 | [Taikutsuwo Saienshinaide](https://open.spotify.com/track/0Ca4nK97pypPdmpZcUeGZb) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaizin](https://open.spotify.com/album/1Kmjj1yj98JJdJ4XoNjrI1) | 3:48 | 2022-11-30 |  |
 | [Tokyo Ghetto](https://open.spotify.com/track/4iiImoJUNnE4MpH3r1l5P4) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Otogi](https://open.spotify.com/album/0DPYGljGMyfZU00CGnDJJo) | 4:00 | 2022-11-30 |  |
+| [Touhikou](https://open.spotify.com/track/5Xg3ixE8imcxa3QKnH8ldi) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Touhikou](https://open.spotify.com/album/6AU5EVaR9fZQpJL3aB0VK6) | 2:56 | 2023-12-24 |  |
 | [Wakusei loop](https://open.spotify.com/track/08oABwy91rrSwXd5I36QdE) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [OFFICIAL NUMBER](https://open.spotify.com/album/2AxkAqRmDqZJB03UPQaC0B) | 3:27 | 2022-11-30 |  |
 | [Yadorigi](https://open.spotify.com/track/1PrTeEDCnjZdlfQFl97rkp) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Otogi](https://open.spotify.com/album/0DPYGljGMyfZU00CGnDJJo) | 3:50 | 2022-11-30 |  |
 | [Yakusoku](https://open.spotify.com/track/64LPuxHb07MU9Pqmkd4knj) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan / Ao No Waltz](https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1) | 4:12 | 2022-11-30 |  |
@@ -72,7 +73,7 @@
 | [レーゾンデートル](https://open.spotify.com/track/0Nn9gfz60CyzqnFXiAphMs) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [レーゾンデートル](https://open.spotify.com/album/7sRl7u98siioOxgMhgV8Ne) | 3:42 | 2022-11-30 |  |
 | [冒険録](https://open.spotify.com/track/793HiNkAcZTe1hi8rhYXg2) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [冒険録](https://open.spotify.com/album/2tdDdSjWA3N9l6EYZ0DZg0) | 3:47 | 2023-08-10 | 2023-08-17 |
 | [虎狼来](https://open.spotify.com/track/4cULlSu8XPFcZiQ63WfHeZ) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [ぼくらの](https://open.spotify.com/album/5jPJGiYenVsljZiKBbUmsY) | 3:55 | 2023-03-22 | 2023-03-23 |
-| [逃避行](https://open.spotify.com/track/6wnPWVgHI1e6BquACh2Ue5) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [逃避行](https://open.spotify.com/album/5ERkFsdPk4pYY5MMdp3LPD) | 2:56 | 2023-12-24 |  |
+| [逃避行](https://open.spotify.com/track/6wnPWVgHI1e6BquACh2Ue5) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [逃避行](https://open.spotify.com/album/5ERkFsdPk4pYY5MMdp3LPD) | 2:56 | 2023-12-24 | 2023-12-26 |
 | [闇夜](https://open.spotify.com/track/6aW8fq5lGlhoZxhLyC7JuL) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [闇夜](https://open.spotify.com/album/1BB2OJJteupdXb2jYDH4Bp) | 3:49 | 2022-11-30 |  |
 | [黄金の日々](https://open.spotify.com/track/0lWo402BbKVikJ8A6fADdD) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [ぼくらの](https://open.spotify.com/album/5jPJGiYenVsljZiKBbUmsY) | 3:26 | 2023-03-22 | 2023-03-23 |
 

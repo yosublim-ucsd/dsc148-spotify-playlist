@@ -4,7 +4,7 @@
 
 > Soft instrumental jazz for working or studying.
 
-718 songs - 1 day 21 hr 46 min
+719 songs - 1 day 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,7 +330,7 @@
 | [Journee](https://open.spotify.com/track/7xrFuH4mvXuM3JqVA3dRWi) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [Journee](https://open.spotify.com/album/2NFTbliyRp1FhC7gmJRzLa) | 3:38 | 2023-08-10 |  |
 | [Journeying](https://open.spotify.com/track/0rxrNlowteTww0qD51gmJC) | [The Don Mason Trio](https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf) | [Journeying](https://open.spotify.com/album/3P9JiFggKtxEEdi9l67JRp) | 3:51 | 2023-05-04 |  |
 | [Juniper Leaves](https://open.spotify.com/track/5sO9OlDHzrdh3yqT89Cpce) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Purple Magnolia](https://open.spotify.com/album/6csQt0hu30OWJhPCJBMn7f) | 3:25 | 2022-11-11 | 2023-01-20 |
-| [Just A Gigolo](https://open.spotify.com/track/1S653s5e7kQV7MxIKZcCIc) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Relaxes](https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH) | 5:04 | 2021-12-16 |  |
+| [Just A Gigolo](https://open.spotify.com/track/1S653s5e7kQV7MxIKZcCIc) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [The Hawk Relaxes](https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH) | 5:04 | 2021-12-16 | 2023-12-26 |
 | [Kept running](https://open.spotify.com/track/6Ov3Bass8w3RrtUBX7T7xe) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Kept running](https://open.spotify.com/album/0SUlahoWIHJC4g0obxjHtt) | 2:44 | 2023-06-01 |  |
 | [Kingfisher](https://open.spotify.com/track/64w7l0VwTdnnoYvvIRoQ77) | [Southside Trio](https://open.spotify.com/artist/2XVJkKNBPA834yV4NKISBw) | [Kingfisher](https://open.spotify.com/album/4qKUJXT0d7Sbn9Of1CwHGY) | 3:17 | 2023-06-01 |  |
 | [Lake Arrowhead](https://open.spotify.com/track/1iceRErjDazYdrZoB8eo48) | [George Kuntz Four](https://open.spotify.com/artist/6bPFM0SEcXOJwLr0aY024d) | [Lake Arrowhead](https://open.spotify.com/album/2PER2MGdknFkZG5AAXDA9v) | 3:38 | 2023-04-27 |  |
@@ -543,6 +543,7 @@
 | [Someone To Watch Over Me](https://open.spotify.com/track/1Iup2scUgNLhmq4q7rLG6l) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Someone To Watch Over Me](https://open.spotify.com/album/2yIGS4xpQFVmE1mjj55buK) | 3:38 | 2023-08-10 |  |
 | [Something about him](https://open.spotify.com/track/18L4SUEMJ0jJKmajWCCRP7) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Something about him](https://open.spotify.com/album/091PRS9X1pT5pEVDFAd7Vx) | 2:40 | 2023-05-11 |  |
 | [Sometime Ago](https://open.spotify.com/track/6HZgxhesyOy8jkTiAFfQmR) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [Sometime Ago](https://open.spotify.com/album/3gDtm0TuOChwQxe1sg1W9q) | 2:40 | 2022-11-11 |  |
+| [Sometimes](https://open.spotify.com/track/1o4HX3IdpPdoT3zB8bThhb) | [Hermie](https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK) | [Sometimes](https://open.spotify.com/album/0shZE0rf62F4ei2ioJs9Fs) | 3:44 | 2023-12-22 |  |
 | [Song for Elmore](https://open.spotify.com/track/5XPbZCjTZ8XQEGUiNoKopS) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Song for Elmore](https://open.spotify.com/album/4ClRkE0o2Yu4e7YK2Cg602) | 3:16 | 2023-06-01 |  |
 | [Soulful Stroll](https://open.spotify.com/track/5p5ia2SufA5Tl9FUjHDUky) | [James Earle Trio](https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4) | [Soulful Stroll](https://open.spotify.com/album/2HAfP5HvWcL2pByucZhUZL) | 3:50 | 2023-08-17 |  |
 | [Speak Low](https://open.spotify.com/track/1DvyJsR76IH3HPxEC0DQ67) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [Speak Low](https://open.spotify.com/album/4rMsJgxLDc3JHVM4b9Nibp) | 2:44 | 2023-09-22 |  |

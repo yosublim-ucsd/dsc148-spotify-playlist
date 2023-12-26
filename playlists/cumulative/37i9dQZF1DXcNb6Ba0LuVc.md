@@ -2,7 +2,7 @@
 
 ### [Feel Good Beats](https://open.spotify.com/playlist/37i9dQZF1DXcNb6Ba0LuVc)
 
-> Uplifting instrumental beats to brighten your day.
+> Ritmos instrumentales felices para alegrar tu día.
 
 476 songs - 18 hr 30 min
 

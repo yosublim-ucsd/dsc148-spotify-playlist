@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Alana Springsteen
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,197,848 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,198,037 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Dirt Roads And Jesus](https://open.spotify.com/track/0rAsn40XCigrz7XZNxV2pr) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Never Giving Up On That](https://open.spotify.com/album/34AyKaRR2hTQOHTmaxUeDD) | 3:10 |
 | 100 | [Sun Ain't Even Gone Down Yet](https://open.spotify.com/track/7ccQIxIpqbY4PHtPZVeTgT) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Sun Ain't Even Gone Down Yet](https://open.spotify.com/album/7J42i27HBSFw2ne3Upoj1T) | 3:02 |
 
-Snapshot ID: `MCxiNTg4ZDMwMWMyNjViYTdmMmFhNTI0YTE3NjM5MmNmZDY1YWExNWVl`
+Snapshot ID: `MCwwNmM1NzY0YjNhZDMyNjU3YmYyNTQ4OTY4N2M1N2NkZGJhM2NiOWU1`

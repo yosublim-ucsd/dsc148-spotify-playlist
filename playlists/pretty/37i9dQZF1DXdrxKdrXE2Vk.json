@@ -1,12 +1,12 @@
 {
   "description": "Experience the best of live worship here. Cover: <a href=\"https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3?si=5912d4229e324b1e\">Pat Barrett</a> ",
-  "num_followers": 890494,
+  "num_followers": 890574,
   "original_name": "Best of Live Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWE2MzFlOTc1ZDgwZGUxZjhmMWQwZDkwMTg5ZTI5NzliM2M1YTY2",
+  "snapshot_id": "MCxmNzMxYzg3ODMxYTAzOTIyMzNkMjRhMmQ2YWM3YTZmOWVjYTUyZGY1",
   "tracks": [
     {
       "added_at": "2023-08-11 11:00:34",
@@ -175,6 +175,26 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
+        "name": "CAN YOU IMAGINE?",
+        "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "duration_ms": 354885,
+      "name": "Jehovah (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/4moUecMb5PN5kDTQANggc3"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
         "name": "Joy In The Morning",
         "url": "https://open.spotify.com/album/170FUziX94zYLzcV7arINC"
       },
@@ -211,26 +231,6 @@
       "duration_ms": 147945,
       "name": "Growing Pains Pt. 2",
       "url": "https://open.spotify.com/track/3JT72Odgjboph3SnXhDbzk"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
-        "name": "CAN YOU IMAGINE?",
-        "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
-        }
-      ],
-      "duration_ms": 354885,
-      "name": "Jehovah (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/4moUecMb5PN5kDTQANggc3"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "I Believe",
-        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 292333,
-      "name": "Sunday Is Coming",
-      "url": "https://open.spotify.com/track/0dfxpz0mUoucs8Gv56oH1D"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "Ascend",
         "url": "https://open.spotify.com/album/5l2mPzW2yGGsQNmYZiUaoB"
       },
@@ -479,26 +463,18 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Trust In God / More Than Able",
-        "url": "https://open.spotify.com/album/0S5WweUHqJ4VLgXOfpmFZj"
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/3pp2YfqjfhCB8erfKpncIc"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Tiffany Hudson",
-          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
         }
       ],
-      "duration_ms": 598622,
-      "name": "More Than Able (feat. Chandler Moore & Tiffany Hudson)",
-      "url": "https://open.spotify.com/track/0Mqrd6fg80trlHLn4BcYBO"
+      "duration_ms": 292333,
+      "name": "Sunday Is Coming",
+      "url": "https://open.spotify.com/track/0dfxpz0mUoucs8Gv56oH1D"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -551,6 +527,30 @@
       "duration_ms": 374904,
       "name": "You Will Be Saved",
       "url": "https://open.spotify.com/track/5qZfyZ194ueTEHYTkGNA6f"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Trust In God / More Than Able",
+        "url": "https://open.spotify.com/album/0S5WweUHqJ4VLgXOfpmFZj"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "duration_ms": 598622,
+      "name": "More Than Able (feat. Chandler Moore & Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/0Mqrd6fg80trlHLn4BcYBO"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -691,6 +691,26 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
+        "name": "Starlight (Live)",
+        "url": "https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
+        }
+      ],
+      "duration_ms": 337956,
+      "name": "Starlight - Live",
+      "url": "https://open.spotify.com/track/13t0zj4RPKM1asysCWgRaU"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
         "name": "The Stories I Tell Myself",
         "url": "https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 221274,
       "name": "This Is How I Thank The Lord (feat. Cody Carnes, Amanda Cook, Joe L Barnes)",
       "url": "https://open.spotify.com/track/2t8f07knCNSY19avq19l1R"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
-        "name": "Starlight (Live)",
-        "url": "https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Amanda Cook",
-          "url": "https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP"
-        }
-      ],
-      "duration_ms": 337956,
-      "name": "Starlight - Live",
-      "url": "https://open.spotify.com/track/13t0zj4RPKM1asysCWgRaU"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -867,6 +867,26 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
+        "name": "Deep Dive - EP",
+        "url": "https://open.spotify.com/album/20sBygY4CkOu8vRvPHfWWU"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        },
+        {
+          "name": "Sydney James",
+          "url": "https://open.spotify.com/artist/0Hv0lVzc1FOqtBajPTUOVQ"
+        }
+      ],
+      "duration_ms": 292440,
+      "name": "Deep Dive",
+      "url": "https://open.spotify.com/track/3wMRsY0WxkPQ8PYJNHhlZS"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
         "name": "Moments: 010 (Live)",
         "url": "https://open.spotify.com/album/0rvYyeQ716LDAsj5GU2grl"
       },
@@ -931,22 +951,26 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Deep Dive - EP",
-        "url": "https://open.spotify.com/album/20sBygY4CkOu8vRvPHfWWU"
+        "name": "Look To The Lamb",
+        "url": "https://open.spotify.com/album/7FDkYsQQvor6ZVMwRVo8Yi"
       },
       "artists": [
         {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
         },
         {
-          "name": "Sydney James",
-          "url": "https://open.spotify.com/artist/0Hv0lVzc1FOqtBajPTUOVQ"
+          "name": "Lindy Cofer",
+          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
+        },
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
         }
       ],
-      "duration_ms": 292440,
-      "name": "Deep Dive",
-      "url": "https://open.spotify.com/track/3wMRsY0WxkPQ8PYJNHhlZS"
+      "duration_ms": 414391,
+      "name": "Look To The Lamb",
+      "url": "https://open.spotify.com/track/3bMobzgrSm1KgccvEwTzID"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -987,26 +1011,34 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Look To The Lamb",
-        "url": "https://open.spotify.com/album/7FDkYsQQvor6ZVMwRVo8Yi"
+        "name": "To The One Who Is Seated On The Throne (Live)",
+        "url": "https://open.spotify.com/album/2ByngD9J0kQSo9tUgiPiZh"
       },
       "artists": [
         {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
         },
         {
-          "name": "Lindy Cofer",
-          "url": "https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I"
+          "name": "Toma Tu Lugar",
+          "url": "https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h"
         },
         {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+          "name": "Elyssa Smith",
+          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
+        },
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        },
+        {
+          "name": "Lucas Conslie",
+          "url": "https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1"
         }
       ],
-      "duration_ms": 414391,
-      "name": "Look To The Lamb",
-      "url": "https://open.spotify.com/track/3bMobzgrSm1KgccvEwTzID"
+      "duration_ms": 668013,
+      "name": "To The One Who Is Seated On The Throne - Live",
+      "url": "https://open.spotify.com/track/3zc8HnAS2WJ7VNsV1OEt13"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1067,38 +1099,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "To The One Who Is Seated On The Throne (Live)",
-        "url": "https://open.spotify.com/album/2ByngD9J0kQSo9tUgiPiZh"
-      },
-      "artists": [
-        {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        },
-        {
-          "name": "Toma Tu Lugar",
-          "url": "https://open.spotify.com/artist/7xJZNfI5Yks87tn3ebHy9h"
-        },
-        {
-          "name": "Elyssa Smith",
-          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
-        },
-        {
-          "name": "Marcos Brunet",
-          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
-        },
-        {
-          "name": "Lucas Conslie",
-          "url": "https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1"
-        }
-      ],
-      "duration_ms": 668013,
-      "name": "To The One Who Is Seated On The Throne - Live",
-      "url": "https://open.spotify.com/track/3zc8HnAS2WJ7VNsV1OEt13"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "Live From Camp",
         "url": "https://open.spotify.com/album/5TlrCofUYHkTefOzSKRvW1"
       },
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Lamb of God (Live)",
-        "url": "https://open.spotify.com/album/4obIy2fyaxwVWnskygUke1"
+        "name": "Gratitude - LIVE from Miracle Nights",
+        "url": "https://open.spotify.com/album/5lOQm2QnGMxJMchHrn8W0Q"
       },
       "artists": [
         {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 251612,
-      "name": "King of Calvary - Live",
-      "url": "https://open.spotify.com/track/0K1LaXw17T5uiHsclFVxiB"
+      "duration_ms": 418333,
+      "name": "Gratitude - LIVE from Miracle Nights",
+      "url": "https://open.spotify.com/track/0SnTTASsZDaKXH7ryveq7C"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Gratitude - LIVE from Miracle Nights",
-        "url": "https://open.spotify.com/album/5lOQm2QnGMxJMchHrn8W0Q"
+        "name": "Lamb of God (Live)",
+        "url": "https://open.spotify.com/album/4obIy2fyaxwVWnskygUke1"
       },
       "artists": [
         {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
         }
       ],
-      "duration_ms": 418333,
-      "name": "Gratitude - LIVE from Miracle Nights",
-      "url": "https://open.spotify.com/track/0SnTTASsZDaKXH7ryveq7C"
+      "duration_ms": 251612,
+      "name": "King of Calvary - Live",
+      "url": "https://open.spotify.com/track/0K1LaXw17T5uiHsclFVxiB"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Lord Of My Life (Live)",
-        "url": "https://open.spotify.com/album/17R7cY13uwIKsRlQ1FNum6"
-      },
-      "artists": [
-        {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Andrew Holt",
-          "url": "https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8"
-        }
-      ],
-      "duration_ms": 516833,
-      "name": "Lord Of My Life - Live",
-      "url": "https://open.spotify.com/track/47qnyAuNrEmRNjrELtGJxx"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "Forever & Amen",
         "url": "https://open.spotify.com/album/1pbtg4PdtxGJbVc1lUSnuB"
       },
@@ -1307,22 +1287,6 @@
       "duration_ms": 590208,
       "name": "Forever & Amen (with Kari Jobe) - Live",
       "url": "https://open.spotify.com/track/7w9cEiNE0z2L3AhqUU4A0O"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
-        "name": "Unchanging God: Songs from the Book of Psalms, Vol. 2 (Live)",
-        "url": "https://open.spotify.com/album/6LM6JFK07PBR23fXtI0mSt"
-      },
-      "artists": [
-        {
-          "name": "Sovereign Grace Music",
-          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
-        }
-      ],
-      "duration_ms": 237466,
-      "name": "Be Still, Be Still, My Soul (Psalm 46) - Live",
-      "url": "https://open.spotify.com/track/1dDes9e3j7HEJJ3TnFsbWJ"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1347,6 +1311,42 @@
       "duration_ms": 696887,
       "name": "This Is My Shepherd - Live",
       "url": "https://open.spotify.com/track/1PTVHxjA9dsK0z4O2XXwTl"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Unchanging God: Songs from the Book of Psalms, Vol. 2 (Live)",
+        "url": "https://open.spotify.com/album/6LM6JFK07PBR23fXtI0mSt"
+      },
+      "artists": [
+        {
+          "name": "Sovereign Grace Music",
+          "url": "https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y"
+        }
+      ],
+      "duration_ms": 237466,
+      "name": "Be Still, Be Still, My Soul (Psalm 46) - Live",
+      "url": "https://open.spotify.com/track/1dDes9e3j7HEJJ3TnFsbWJ"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Lord Of My Life (Live)",
+        "url": "https://open.spotify.com/album/17R7cY13uwIKsRlQ1FNum6"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Andrew Holt",
+          "url": "https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8"
+        }
+      ],
+      "duration_ms": 516833,
+      "name": "Lord Of My Life - Live",
+      "url": "https://open.spotify.com/track/47qnyAuNrEmRNjrELtGJxx"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1455,38 +1455,18 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "God So Loved (Live)",
-        "url": "https://open.spotify.com/album/2Ds1jNOWJ4dZFxe91Sw0fz"
+        "name": "Sing As One (Live)",
+        "url": "https://open.spotify.com/album/5u5lOB1VHyCfbNZrRKjMs6"
       },
       "artists": [
         {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+          "name": "Life.Church Worship",
+          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
         }
       ],
-      "duration_ms": 355278,
-      "name": "God So Loved - Live",
-      "url": "https://open.spotify.com/track/0Jwf9brF7OlBaVaeGHcB0y"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
-        "name": "Heal My Heart (Live)",
-        "url": "https://open.spotify.com/album/44wEi5xZec7SL5ukLKeYam"
-      },
-      "artists": [
-        {
-          "name": "Brandin Reed",
-          "url": "https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt"
-        }
-      ],
-      "duration_ms": 458797,
-      "name": "Heal My Heart - Live",
-      "url": "https://open.spotify.com/track/7EbF54zVBIs1mGRMgbsDPz"
+      "duration_ms": 463848,
+      "name": "Satisfied - Live",
+      "url": "https://open.spotify.com/track/0tlRerGFtxcKovDewBX5sc"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1511,6 +1491,42 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
+        "name": "Heal My Heart (Live)",
+        "url": "https://open.spotify.com/album/44wEi5xZec7SL5ukLKeYam"
+      },
+      "artists": [
+        {
+          "name": "Brandin Reed",
+          "url": "https://open.spotify.com/artist/7oi3qhC7S5XIXYz15C4JHt"
+        }
+      ],
+      "duration_ms": 458797,
+      "name": "Heal My Heart - Live",
+      "url": "https://open.spotify.com/track/7EbF54zVBIs1mGRMgbsDPz"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "God So Loved (Live)",
+        "url": "https://open.spotify.com/album/2Ds1jNOWJ4dZFxe91Sw0fz"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 355278,
+      "name": "God So Loved - Live",
+      "url": "https://open.spotify.com/track/0Jwf9brF7OlBaVaeGHcB0y"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
         "name": "Who Is This Man (Live)",
         "url": "https://open.spotify.com/album/5iZ73RpnTvE3s952j9oAwK"
       },
@@ -1523,42 +1539,6 @@
       "duration_ms": 599374,
       "name": "Who Is This Man - Live",
       "url": "https://open.spotify.com/track/4ZyKugiffVoGadDGowUQKv"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
-        "name": "Sing As One (Live)",
-        "url": "https://open.spotify.com/album/5u5lOB1VHyCfbNZrRKjMs6"
-      },
-      "artists": [
-        {
-          "name": "Life.Church Worship",
-          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
-        }
-      ],
-      "duration_ms": 463848,
-      "name": "Satisfied - Live",
-      "url": "https://open.spotify.com/track/0tlRerGFtxcKovDewBX5sc"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
-        "name": "SEVEN (Deluxe / Live)",
-        "url": "https://open.spotify.com/album/6WUXadeySiyARbTNj7GOvY"
-      },
-      "artists": [
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 274154,
-      "name": "How Sweet - Spontaneous / Live",
-      "url": "https://open.spotify.com/track/6ThfWlq6kXFpUfLShY99xd"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1579,6 +1559,26 @@
       "duration_ms": 288840,
       "name": "My Help - Live",
       "url": "https://open.spotify.com/track/2zlLDO531NsDSY2zqqB8fg"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "SEVEN (Deluxe / Live)",
+        "url": "https://open.spotify.com/album/6WUXadeySiyARbTNj7GOvY"
+      },
+      "artists": [
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 274154,
+      "name": "How Sweet - Spontaneous / Live",
+      "url": "https://open.spotify.com/track/6ThfWlq6kXFpUfLShY99xd"
     },
     {
       "added_at": "2023-08-11 11:00:34",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
+        "name": "Revival Nights (Pt. 2) [Live]",
+        "url": "https://open.spotify.com/album/4ilCyBUGUzbgZ9AZlOJD21"
+      },
+      "artists": [
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 390666,
+      "name": "Hurry - Live",
+      "url": "https://open.spotify.com/track/22E1XhnhvSi1NDbRmb5BDn"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
         "name": "Live At The Manor",
         "url": "https://open.spotify.com/album/2N1DotQ4xbhStr5YXnOO6W"
       },
@@ -1743,42 +1759,6 @@
     {
       "added_at": "2023-08-11 11:00:34",
       "album": {
-        "name": "Revival Nights (Pt. 2) [Live]",
-        "url": "https://open.spotify.com/album/4ilCyBUGUzbgZ9AZlOJD21"
-      },
-      "artists": [
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 390666,
-      "name": "Hurry - Live",
-      "url": "https://open.spotify.com/track/22E1XhnhvSi1NDbRmb5BDn"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
-        "name": "Lamb of God (Live)",
-        "url": "https://open.spotify.com/album/6291e3R6aw8Vy6FgoZ6aq2"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        },
-        {
-          "name": "David Funk",
-          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
-        }
-      ],
-      "duration_ms": 335849,
-      "name": "Lamb of God - Live",
-      "url": "https://open.spotify.com/track/3Qh7WTXJYgxVG0lr2TUK6o"
-    },
-    {
-      "added_at": "2023-08-11 11:00:34",
-      "album": {
         "name": "Put Your Name On Me",
         "url": "https://open.spotify.com/album/4EuK3B2jKAGy532tuDimhM"
       },
@@ -1799,6 +1779,26 @@
       "duration_ms": 507068,
       "name": "Put Your Name On Me (feat. Tony Fresh)",
       "url": "https://open.spotify.com/track/7IHrsJBzCTSsmzbXgPgy8A"
+    },
+    {
+      "added_at": "2023-08-11 11:00:34",
+      "album": {
+        "name": "Lamb of God (Live)",
+        "url": "https://open.spotify.com/album/6291e3R6aw8Vy6FgoZ6aq2"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        },
+        {
+          "name": "David Funk",
+          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+        }
+      ],
+      "duration_ms": 335849,
+      "name": "Lamb of God - Live",
+      "url": "https://open.spotify.com/track/3Qh7WTXJYgxVG0lr2TUK6o"
     },
     {
       "added_at": "2023-08-11 11:00:34",

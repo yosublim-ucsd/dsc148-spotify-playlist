@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0aArwHugPhiiuaL8KxyVXQ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 394 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 394 likes - 105 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,10 @@ pretty - [cumulative](/playlists/cumulative/0aArwHugPhiiuaL8KxyVXQ.md) - [plain]
 | 98 | [Bloom](https://open.spotify.com/track/0axYkHi1PrPvfaVGnbP0VE) | [GATC](https://open.spotify.com/artist/54xBWCXYw0pydXBknIdiC6) | [The Late Blue](https://open.spotify.com/album/2rXxEMp0qSA1G8pG5zalX7) | 3:55 |
 | 99 | [Strangers](https://open.spotify.com/track/1RHnPVYQ3ggFaAZx4docpR) | [Gung Ho](https://open.spotify.com/artist/0NSPrEOFsmJAp2m3x6tuG1) | [Strangers](https://open.spotify.com/album/5TZbOXbOKj6KU9LOBdsSzp) | 3:15 |
 | 100 | [Drunk In The Morning](https://open.spotify.com/track/0mEp39kzTHUNyBh9IcDxfc) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Drunk In The Morning](https://open.spotify.com/album/5pVxBhvadzsqWwOUb019lE) | 3:26 |
+| 101 | [Marseille](https://open.spotify.com/track/3rTjaVIr5hnvEiS7dD6sNN) | [Helsinki Poetry](https://open.spotify.com/artist/2EnG2iqQUO5LyIeN8eEygd) | [Marseille](https://open.spotify.com/album/5CRIW8LbxvelySCA09rJ7m) | 3:50 |
+| 102 | [Safe & Sound](https://open.spotify.com/track/7qBwCJbtom01M0lFWSIUyN) | [Alfred Hall](https://open.spotify.com/artist/2HYVdcsGKff84dH18IKwh2) | [Safe & Sound](https://open.spotify.com/album/2NdVGWQpWC7VcEqffARMLs) | 3:24 |
+| 103 | [Nunca](https://open.spotify.com/track/0p0c8jTIF5sUVvNP6DXZuu) | [Trails and Ways](https://open.spotify.com/artist/4waBtLEoe70SqdFLGsaXCZ) | [Nunca](https://open.spotify.com/album/4YsxstlDysqyKRGMc7cM2g) | 4:14 |
+| 104 | [Freaking Out the Neighborhood](https://open.spotify.com/track/3dPeYY6yRgMn1AYM0cNSh1) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/15sAOLghamZ9dfEFgTvE2R) | 2:53 |
+| 105 | [Here We Go](https://open.spotify.com/track/2O5l71UYlE1fpfllWqaA9L) | [Christopher Owens](https://open.spotify.com/artist/0ukgSx1gUt5rUihbNh46qy) | [Here We Go](https://open.spotify.com/album/6xebPp8kKJas7jscjfFBpV) | 3:36 |
 
 Snapshot ID: `MTEsYWIzMWRjOTQwYmU1MTExY2M2ZTc4MjVjNmM1MDdlNDE1NjBjN2MzZg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: BABYMONSTER
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,185,966 likes - 61 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,186,831 likes - 61 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 60 | [Mrs\. Officer](https://open.spotify.com/track/0EHR9OObFtjlhQB8wSt1m7) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Bobby V.](https://open.spotify.com/artist/4HgF4KnohByNElYid7iCNb), [Kidd Kidd](https://open.spotify.com/artist/2zJoKYyLmhvsq3ORbXE7xF) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 4:46 |
 | 61 | [The First Snow](https://open.spotify.com/track/2VNpT9fRk1kyksT0S4coZR) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Miracles in December](https://open.spotify.com/album/7xKAWXGHTlXovWpEVu1csM) | 3:27 |
 
-Snapshot ID: `MCw0NTc1NDI1YTYwZWEzODhlYjZmNDY1MDRiYWU2N2U3Mjc3OTRkNDlh`
+Snapshot ID: `MCxkNzEzNjgzOGY0NmY5YTEzODYwMGVmMmQ3NWFkOGNmMDAwYWFhNWMw`

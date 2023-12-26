@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6eSE3mpQ1p.md) - [plain]
 
 > Let the music take you on a journey of peace, love, and good vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,010 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,154 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6eSE3mpQ1p.md) - [plain]
 | 49 | [San Francisco \(Be Sure to Wear Flowers In Your Hair\)](https://open.spotify.com/track/6UsdldEfcEXSID2G3nA89J) | [Scott McKenzie](https://open.spotify.com/artist/7d7AZ3CQC457bFhK0wHpSO) | [Forrest Gump \- The Soundtrack](https://open.spotify.com/album/3LP0jc2J6fvhpVTKWzvFUk) | 2:58 |
 | 50 | [Light My Fire](https://open.spotify.com/track/5uvosCdMlFdTXhoazkTI5R) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 7:09 |
 
-Snapshot ID: `MCwyNWE3OGZhMmIzZGQ2YTg5YmViODliOTM5MWQ2N2Q2OTk0NmZjY2Iy`
+Snapshot ID: `MCwzZjUyMWRkN2VmMjM0OGZkN2EyNjE5ZTIxYjA3ZmNkYWMwMjI0Njg0`

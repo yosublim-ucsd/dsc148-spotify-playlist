@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest Arabic hits all in one place. Cover:  <a href=\"https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl?si=0YJbRhSmTM-p68DBwaI_Ag\">Assala</a>\n\n",
+  "description": "The biggest Arabic hits all in one place. Cover:  Ahmed Saad & Bahaa Sultan",
   "name": "Yalla ",
   "tracks": [
     {
@@ -3126,6 +3126,32 @@
       "duration_ms": 205635,
       "name": "Kol Youm",
       "url": "https://open.spotify.com/track/3iWRuqeYt3ezyPOSdVo9Hz"
+    },
+    {
+      "album": {
+        "name": "Kolo Falso",
+        "url": "https://open.spotify.com/album/7mbfcm8CXhfUEJVf2ioUwF"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        },
+        {
+          "name": "Bahaa Sultan",
+          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
+        },
+        {
+          "name": "Esaad Younis",
+          "url": "https://open.spotify.com/artist/2VtjN9mCdwy6DBkms1ujiQ"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178088,
+      "name": "Kolo Falso",
+      "url": "https://open.spotify.com/track/1il1wNIj3ful9IlWgxLRmX"
     },
     {
       "album": {

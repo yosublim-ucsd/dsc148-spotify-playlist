@@ -4,7 +4,7 @@
 
 > riff\-heavy, fuzzed\-out numbers.
 
-310 songs - 1 day 5 hr 47 min
+311 songs - 1 day 5 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,7 +210,7 @@
 | [Please Don't](https://open.spotify.com/track/5lV0LPaRCJMd0Icb0SY3jX) | [Graveyard](https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL) | [Peace](https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2) | 4:12 | 2022-04-28 |  |
 | [Please Don't](https://open.spotify.com/track/61KgmwEi0rH5MD1SP20Ura) | [Graveyard](https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL) | [Please Don't](https://open.spotify.com/album/0YpWK0W5pxI0CBLbyqeHZG) | 4:12 | 2021-11-30 | 2022-07-29 |
 | [Powertrip](https://open.spotify.com/track/2855a8NCBwEAAdnJftGizK) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Powertrip](https://open.spotify.com/album/67m0zWBKfOzvUmw9UaegiI) | 3:31 | 2021-11-30 | 2022-02-12 |
-| [Psychotzar](https://open.spotify.com/track/0KzZugT2zOfg3U0ZkD2Iq3) | [Motorpsycho](https://open.spotify.com/artist/2bNIAjyL3hFCuQBQqhPN4T) | [The Crucible](https://open.spotify.com/album/3QAl6LRt3ruGhoCOQOdcyl) | 8:43 | 2023-10-06 |  |
+| [Psychotzar](https://open.spotify.com/track/0KzZugT2zOfg3U0ZkD2Iq3) | [Motorpsycho](https://open.spotify.com/artist/2bNIAjyL3hFCuQBQqhPN4T) | [The Crucible](https://open.spotify.com/album/3QAl6LRt3ruGhoCOQOdcyl) | 8:43 | 2023-10-06 | 2023-12-26 |
 | [Psychotzar](https://open.spotify.com/track/3CEWBhG07nTuheDfZZHib1) | [Motorpsycho](https://open.spotify.com/artist/2bNIAjyL3hFCuQBQqhPN4T) | [The Crucible](https://open.spotify.com/album/2MJ7TzoTvmi2WrIDpQAeak) | 8:43 | 2021-11-30 | 2022-07-29 |
 | [Purple Haze](https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 2:50 | 2022-03-17 | 2023-03-23 |
 | [Putain!](https://open.spotify.com/track/3dadlxoCAy15mHh3h9gcVr) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [All You Can Eat!!](https://open.spotify.com/album/0SZdR12aWXo9aZRurBvADH) | 3:48 | 2022-04-28 | 2023-03-23 |
@@ -262,6 +262,7 @@
 | [Supa Scoopa and Mighty Scoop](https://open.spotify.com/track/5NyFFIp7NRmqF0wmuJLxqZ) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Welcome to Sky Valley](https://open.spotify.com/album/1npen0QK3TNxZd2hLNzzOj) | 5:56 | 2021-11-30 | 2022-07-29 |
 | [Supa Scoopa and Mighty Scoop](https://open.spotify.com/track/74PX4Sa0tXJDStditawG0O) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Welcome to Sky Valley](https://open.spotify.com/album/2NU3mpjBFtZPUYjjT9pJoq) | 5:56 | 2022-04-28 |  |
 | [Superhuman God](https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh) | [Astroqueen](https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo) | [Into Submission](https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq) | 4:27 | 2021-11-30 |  |
+| [Superjudge](https://open.spotify.com/track/0YMwyd5XZzHZZuRFCj04Zs) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Superjudge](https://open.spotify.com/album/1JQ37QyKofGEp5UEz3Gay4) | 6:49 | 2023-10-06 |  |
 | [Superjudge](https://open.spotify.com/track/7C8bhCWHHd2XdIyzi7PPDi) | [Monster Magnet](https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q) | [Superjudge](https://open.spotify.com/album/2uddKwvNYZT28E6ml2ZlOt) | 6:49 | 2023-03-22 | 2023-11-18 |
 | [Sweet Leaf \- 2014 Remaster](https://open.spotify.com/track/2FZ0yrA5aPClG5ZPBlV7n4) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Master of Reality \(2014 Remaster\)](https://open.spotify.com/album/7pGb2cOGVz6vLyaZaKOQ7D) | 5:04 | 2022-02-22 |  |
 | [SXSPLXN](https://open.spotify.com/track/6UZxLjJOJ57wXJX6A907h6) | [Nicola Wincenc](https://open.spotify.com/artist/0VVt9XNaiijwnuCp15FUnI) | [SXSPLXN](https://open.spotify.com/album/3QhcpbyZggc95JRvUoxOmM) | 3:07 | 2022-01-14 | 2023-06-01 |

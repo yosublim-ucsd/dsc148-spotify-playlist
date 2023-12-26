@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 21864,
+  "num_followers": 21869,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMzY2YWUwMjljNDFlYmZiN2JmYTlhZGQ0NDNjOTZhMWJhZWNmYWJl",
+  "snapshot_id": "MCxlM2VkNzM0ZjhmYWUxNTE5YWI4MzUwOWM2ZmNlMjM2Y2VkN2NlZTZi",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "MILLONES",
+        "url": "https://open.spotify.com/album/0LuHp5vuF8zABveZHjoGgH"
+      },
+      "artists": [
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        }
+      ],
+      "duration_ms": 185920,
+      "name": "El equilibrio",
+      "url": "https://open.spotify.com/track/6hBhJPHxFWgwGT8O6iRkkk"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Serenidad",
         "url": "https://open.spotify.com/album/7ryFCViJ1ruW7WR1OMlFsV"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 185824,
       "name": "Un Gatito",
       "url": "https://open.spotify.com/track/2d7au8a1ImPjzTp8EyNcoI"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "MILLONES",
-        "url": "https://open.spotify.com/album/0LuHp5vuF8zABveZHjoGgH"
-      },
-      "artists": [
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        }
-      ],
-      "duration_ms": 185920,
-      "name": "El equilibrio",
-      "url": "https://open.spotify.com/track/6hBhJPHxFWgwGT8O6iRkkk"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Petr\u00f3leo",
-        "url": "https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0"
-      },
-      "artists": [
-        {
-          "name": "Fiebre",
-          "url": "https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro"
-        }
-      ],
-      "duration_ms": 195652,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "No Sentir Nada",
         "url": "https://open.spotify.com/album/4hquSaJKohf2oE50JgOBo3"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 224608,
       "name": "No Sentir Nada",
       "url": "https://open.spotify.com/track/5yO08ego5Exs0acRhxs6tn"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Petr\u00f3leo",
+        "url": "https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0"
+      },
+      "artists": [
+        {
+          "name": "Fiebre",
+          "url": "https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro"
+        }
+      ],
+      "duration_ms": 195652,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Eternos",
-        "url": "https://open.spotify.com/album/5Ch3VsbQLxLmsewBpNKs8U"
-      },
-      "artists": [
-        {
-          "name": "Hay Un Dinosaurio",
-          "url": "https://open.spotify.com/artist/6EarpkLGAtCbNZcKJ0WnGe"
-        }
-      ],
-      "duration_ms": 223308,
-      "name": "Eternos",
-      "url": "https://open.spotify.com/track/0BRQB84vP5k2XOeAMEkw74"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Perdidos en Pantitl\u00e1n",
         "url": "https://open.spotify.com/album/7aIjw8NNEqqUiSnwiEMncd"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 152000,
       "name": "Perdidos en Pantitl\u00e1n",
       "url": "https://open.spotify.com/track/0Timp3zrA5PZg9qPoUCVfR"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Eternos",
+        "url": "https://open.spotify.com/album/5Ch3VsbQLxLmsewBpNKs8U"
+      },
+      "artists": [
+        {
+          "name": "Hay Un Dinosaurio",
+          "url": "https://open.spotify.com/artist/6EarpkLGAtCbNZcKJ0WnGe"
+        }
+      ],
+      "duration_ms": 223308,
+      "name": "Eternos",
+      "url": "https://open.spotify.com/track/0BRQB84vP5k2XOeAMEkw74"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Ruinas",
-        "url": "https://open.spotify.com/album/33hr3hHecqZLcVzmGhKDj0"
-      },
-      "artists": [
-        {
-          "name": "Misile",
-          "url": "https://open.spotify.com/artist/4QWTH47GMiEHf0UlJK7tB0"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Las Ruinas",
-      "url": "https://open.spotify.com/track/0D9pYpbIHOrL5S6VTEyc6Q"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Azulmagenta",
         "url": "https://open.spotify.com/album/4NMpBN4NunLm6hINDVh5Lw"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 218354,
       "name": "Azulmagenta",
       "url": "https://open.spotify.com/track/0BWXCS8fU8Y4Rj2ng4fIsu"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Ruinas",
+        "url": "https://open.spotify.com/album/33hr3hHecqZLcVzmGhKDj0"
+      },
+      "artists": [
+        {
+          "name": "Misile",
+          "url": "https://open.spotify.com/artist/4QWTH47GMiEHf0UlJK7tB0"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Las Ruinas",
+      "url": "https://open.spotify.com/track/0D9pYpbIHOrL5S6VTEyc6Q"
     },
     {
       "added_at": "2020-12-01 05:03:00",

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > Your daily dose of soul\-infused music! Cover: Quantic
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,432 likes - 76 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,464 likes - 76 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Morning Light \(feat\. Andreya Triana\)](https://open.spotify.com/track/74BzzNL9WKXyUd7vzh2hz3) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Dancing While Falling](https://open.spotify.com/album/0OQDgPsunDOfPiRAuS87ng) | 3:31 |
-| 2 | [I'VE FOUND MY HOME IN YOU](https://open.spotify.com/track/3LWejAuv6a92qC5OHjntts) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [I'VE FOUND MY HOME IN YOU](https://open.spotify.com/album/0Z5PNnjCNMic5MaAJDIkSx) | 4:17 |
-| 3 | [Champagne People \- \(Allen Stone 2023 Rework\)](https://open.spotify.com/track/5vPoVJf0PzMsM8t38oUe1l) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Champagne People \(Allen Stone 2023 Rework\)](https://open.spotify.com/album/28640778n4T43wYsbgWlgz) | 4:21 |
-| 4 | [Pain](https://open.spotify.com/track/1JoNm8mQj3zlgGM5VAdDtY) | [LIKEMINDS](https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Pain](https://open.spotify.com/album/5ST2xhtO5nMrgyLZCgo4kS) | 2:30 |
-| 5 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 |
+| 2 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 |
+| 3 | [I'VE FOUND MY HOME IN YOU](https://open.spotify.com/track/3LWejAuv6a92qC5OHjntts) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [I'VE FOUND MY HOME IN YOU](https://open.spotify.com/album/0Z5PNnjCNMic5MaAJDIkSx) | 4:17 |
+| 4 | [Champagne People \- \(Allen Stone 2023 Rework\)](https://open.spotify.com/track/5vPoVJf0PzMsM8t38oUe1l) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N), [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Champagne People \(Allen Stone 2023 Rework\)](https://open.spotify.com/album/28640778n4T43wYsbgWlgz) | 4:21 |
+| 5 | [Pain](https://open.spotify.com/track/1JoNm8mQj3zlgGM5VAdDtY) | [LIKEMINDS](https://open.spotify.com/artist/13AuS8ywJssVN0tb0V2Y4n), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y) | [Pain](https://open.spotify.com/album/5ST2xhtO5nMrgyLZCgo4kS) | 2:30 |
 | 6 | [One More Night](https://open.spotify.com/track/0f2zcrhhHT59aIGQvRlTZ1) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 3:53 |
 | 7 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
 | 8 | [Love the Mystery \- Radio Edit](https://open.spotify.com/track/2Pz0KXAVTupriGxk9rT42n) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Love the Mystery](https://open.spotify.com/album/3rHgk8sOOo0Kh5bX0Oqjs5) | 3:44 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 75 | [How Dare You](https://open.spotify.com/track/1Pe0OdQh4BNCrO3LLfRERx) | [Michael Minelli](https://open.spotify.com/artist/0E1dRyvTHusqYjhbTm2skL), [Oswin Benjamin](https://open.spotify.com/artist/31pIxyVveAaYS1O5K2lNEF) | [How Dare You](https://open.spotify.com/album/2mSX1XzNTijOu8oYk1f4Kf) | 3:22 |
 | 76 | [WHEN IT HURTS](https://open.spotify.com/track/3AOHXWSY2iFEXPpIwLfYcP) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [Jack Savoretti](https://open.spotify.com/artist/7nC05zmJukRGYObQeRgg3x) | [For When It Hurts](https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH) | 3:01 |
 
-Snapshot ID: `MCxjMzc4MjE2ZWFjZmMyYWJjYmQxYTRlMDVkYjY5NDU4NmVjZWFlM2Rl`
+Snapshot ID: `MCw1NzJjN2ZjYTAxNWRmNzMzOGYyOTlkN2RlOTFhMjFjY2M0YmY0YzU0`

@@ -6840,7 +6840,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 115013,
       "name": "Change My Wayz",
       "url": "https://open.spotify.com/track/0x8vQaiUn7BZ37Wpxd4Mms"
@@ -16208,6 +16208,32 @@
       "duration_ms": 174915,
       "name": "HOME",
       "url": "https://open.spotify.com/track/08hYZJIjLZwUVDiMzzeu0q"
+    },
+    {
+      "album": {
+        "name": "Home Alone (with Marnik)",
+        "url": "https://open.spotify.com/album/4PX1HXUcKRTNYEQOcBfpsc"
+      },
+      "artists": [
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "Marnik",
+          "url": "https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128031,
+      "name": "Home Alone (with Marnik)",
+      "url": "https://open.spotify.com/track/7zyvQ8sb72g4RuwBpcuGUP"
     },
     {
       "album": {
@@ -26756,7 +26782,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 193591,
       "name": "Nothing You Can Take From Me (Boot-Stompin' Version) - from The Hunger Games: The Ballad of Songbirds & Snakes",
       "url": "https://open.spotify.com/track/4ck5SWSXlSUVHhYjq9Cb8L"
@@ -43878,7 +43904,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 277831,
       "name": "You\u2019re Losing Me (From The Vault)",
       "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"

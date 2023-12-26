@@ -1,12 +1,12 @@
 {
   "description": "Cruzando cerros y arroyos mientras recordamos el legado campirano y rancher\u00f3n.",
-  "num_followers": 76598,
+  "num_followers": 76805,
   "original_name": "Sierre\u00f1as Viejitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NmM1YzM4Mjg4YmU3MDQxZWU3OTIzNjMwMDNjYmExNjkwM2RiMDAz",
+  "snapshot_id": "MCxlNGZjMmMwZGQ3OWNhNzU3OTNmODFhZTE3ZmU3YjVmMTMwNDQ5MzBj",
   "tracks": [
     {
       "added_at": "2023-11-09 23:10:04",
@@ -91,6 +91,22 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
+        "name": "Hablemos",
+        "url": "https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 282885,
+      "name": "Yo Quisiera Entrar",
+      "url": "https://open.spotify.com/track/5CjrMbWa5HP0cY3sT28RDi"
+    },
+    {
+      "added_at": "2023-11-09 23:10:04",
+      "album": {
         "name": "Sinaloense Hecho Y Derecho",
         "url": "https://open.spotify.com/album/7M2i31TZWIiqZeZs7rXWTK"
       },
@@ -139,22 +155,6 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
-        "name": "Suerte He Tenido",
-        "url": "https://open.spotify.com/album/6jaSOjkWloHKbzr0N8x1Qu"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres de la Sierra",
-          "url": "https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP"
-        }
-      ],
-      "duration_ms": 196763,
-      "name": "Suerte He Tenido",
-      "url": "https://open.spotify.com/track/7af0EdDs3AlJGCX1JcF9jI"
-    },
-    {
-      "added_at": "2023-11-09 23:10:04",
-      "album": {
         "name": "La Iguana",
         "url": "https://open.spotify.com/album/2dk85Srmd9lUhPQ7u4AoqG"
       },
@@ -167,22 +167,6 @@
       "duration_ms": 233120,
       "name": "El Foco - Version Ranchera",
       "url": "https://open.spotify.com/track/74hOMmO8kJ1zCqDxhMlEsn"
-    },
-    {
-      "added_at": "2023-11-09 23:10:04",
-      "album": {
-        "name": "Hablemos",
-        "url": "https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu"
-      },
-      "artists": [
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 282885,
-      "name": "Yo Quisiera Entrar",
-      "url": "https://open.spotify.com/track/5CjrMbWa5HP0cY3sT28RDi"
     },
     {
       "added_at": "2023-11-09 23:10:04",
@@ -203,18 +187,18 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
-        "name": "Exitos Y Leyendas",
-        "url": "https://open.spotify.com/album/3qrfmoSGspCOVjgzCh2ID4"
+        "name": "El Karma (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
       },
       "artists": [
         {
-          "name": "Los Cuates de Sinaloa",
-          "url": "https://open.spotify.com/artist/6qrWzQSK00anTGkydomNW7"
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 273666,
-      "name": "La Yaquesita",
-      "url": "https://open.spotify.com/track/43LVcSyviitiS5Kv0vzZDD"
+      "duration_ms": 215797,
+      "name": "El Rey De Corazones",
+      "url": "https://open.spotify.com/track/5hXA2phKHcWusWa2UmKeAO"
     },
     {
       "added_at": "2023-11-09 23:10:04",
@@ -231,6 +215,38 @@
       "duration_ms": 172040,
       "name": "Cruz De Madera",
       "url": "https://open.spotify.com/track/4FcYptmG7nIfAH9XW8R4YA"
+    },
+    {
+      "added_at": "2023-11-09 23:10:04",
+      "album": {
+        "name": "Suerte He Tenido",
+        "url": "https://open.spotify.com/album/6jaSOjkWloHKbzr0N8x1Qu"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres de la Sierra",
+          "url": "https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP"
+        }
+      ],
+      "duration_ms": 196763,
+      "name": "Suerte He Tenido",
+      "url": "https://open.spotify.com/track/7af0EdDs3AlJGCX1JcF9jI"
+    },
+    {
+      "added_at": "2023-11-09 23:10:04",
+      "album": {
+        "name": "Exitos Y Leyendas",
+        "url": "https://open.spotify.com/album/3qrfmoSGspCOVjgzCh2ID4"
+      },
+      "artists": [
+        {
+          "name": "Los Cuates de Sinaloa",
+          "url": "https://open.spotify.com/artist/6qrWzQSK00anTGkydomNW7"
+        }
+      ],
+      "duration_ms": 273666,
+      "name": "La Yaquesita",
+      "url": "https://open.spotify.com/track/43LVcSyviitiS5Kv0vzZDD"
     },
     {
       "added_at": "2023-11-09 23:10:04",
@@ -267,34 +283,18 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
-        "name": "15 Exitos",
-        "url": "https://open.spotify.com/album/4PK0kxSE0aKawgCmyjfWOc"
+        "name": "El Karma",
+        "url": "https://open.spotify.com/album/4OGTFgqeWBWK6FWJYAA8Ap"
       },
       "artists": [
         {
-          "name": "Los Alegres de la Sierra",
-          "url": "https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP"
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 163640,
-      "name": "Nunca Mas Podre Olvidarte",
-      "url": "https://open.spotify.com/track/3BiETLH2CVAUVxIppPyPqw"
-    },
-    {
-      "added_at": "2023-11-09 23:10:04",
-      "album": {
-        "name": "Due\u00f1a De Mi Vida",
-        "url": "https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 209920,
-      "name": "La Mas Bonita De Todas",
-      "url": "https://open.spotify.com/track/4cFSwcJFUiOQJckhkEvSEn"
+      "duration_ms": 209120,
+      "name": "Te Metiste",
+      "url": "https://open.spotify.com/track/0nNTCEOzFlBTlDCx5IfLWP"
     },
     {
       "added_at": "2023-11-09 23:10:04",
@@ -315,18 +315,18 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
-        "name": "El Karma (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
+        "name": "Due\u00f1a De Mi Vida",
+        "url": "https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS"
       },
       "artists": [
         {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 215797,
-      "name": "El Rey De Corazones",
-      "url": "https://open.spotify.com/track/5hXA2phKHcWusWa2UmKeAO"
+      "duration_ms": 209920,
+      "name": "La Mas Bonita De Todas",
+      "url": "https://open.spotify.com/track/4cFSwcJFUiOQJckhkEvSEn"
     },
     {
       "added_at": "2023-11-09 23:10:04",
@@ -347,38 +347,6 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
-        "name": "Millas Y Millas",
-        "url": "https://open.spotify.com/album/4aJXluf8qiQAUYER3w6xfM"
-      },
-      "artists": [
-        {
-          "name": "Miguel Y Miguel",
-          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
-        }
-      ],
-      "duration_ms": 196266,
-      "name": "Dos Botellas De Mezcal",
-      "url": "https://open.spotify.com/track/38ZO7Ls8eoaeuV9L0yPxiI"
-    },
-    {
-      "added_at": "2023-11-09 23:10:04",
-      "album": {
-        "name": "Lo M\u00e1s Escuchado De",
-        "url": "https://open.spotify.com/album/0Vp01LOGNIS2NXudZqhIwA"
-      },
-      "artists": [
-        {
-          "name": "El Tigrillo Palma",
-          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
-        }
-      ],
-      "duration_ms": 158333,
-      "name": "Los Chiquinarcos",
-      "url": "https://open.spotify.com/track/4zoUYrtW9Pql2fGVaiCnhU"
-    },
-    {
-      "added_at": "2023-11-09 23:10:04",
-      "album": {
         "name": "\"14 Exitos\" A Cada Instante",
         "url": "https://open.spotify.com/album/26vKr0uiVeTMbiqyNJcc6Z"
       },
@@ -395,24 +363,8 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
-        "name": "10th Aniversario",
-        "url": "https://open.spotify.com/album/2vBnKNe8AYlOjvI767hpiz"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres de la Sierra",
-          "url": "https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP"
-        }
-      ],
-      "duration_ms": 150506,
-      "name": "La Primavera",
-      "url": "https://open.spotify.com/track/3aoAclMXhtKqSC2j8hOCo2"
-    },
-    {
-      "added_at": "2023-11-09 23:10:04",
-      "album": {
-        "name": "El Karma",
-        "url": "https://open.spotify.com/album/4OGTFgqeWBWK6FWJYAA8Ap"
+        "name": "El Karma (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
       },
       "artists": [
         {
@@ -420,9 +372,57 @@
           "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
         }
       ],
-      "duration_ms": 209120,
-      "name": "Te Metiste",
-      "url": "https://open.spotify.com/track/0nNTCEOzFlBTlDCx5IfLWP"
+      "duration_ms": 212205,
+      "name": "Por No Perderte Te Perdi",
+      "url": "https://open.spotify.com/track/2ztISQmyTEG5YFb6z3VX3O"
+    },
+    {
+      "added_at": "2023-11-09 23:10:04",
+      "album": {
+        "name": "Millas Y Millas",
+        "url": "https://open.spotify.com/album/4aJXluf8qiQAUYER3w6xfM"
+      },
+      "artists": [
+        {
+          "name": "Miguel Y Miguel",
+          "url": "https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm"
+        }
+      ],
+      "duration_ms": 196266,
+      "name": "Dos Botellas De Mezcal",
+      "url": "https://open.spotify.com/track/38ZO7Ls8eoaeuV9L0yPxiI"
+    },
+    {
+      "added_at": "2023-11-09 23:10:04",
+      "album": {
+        "name": "15 Exitos",
+        "url": "https://open.spotify.com/album/4PK0kxSE0aKawgCmyjfWOc"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres de la Sierra",
+          "url": "https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP"
+        }
+      ],
+      "duration_ms": 163640,
+      "name": "Nunca Mas Podre Olvidarte",
+      "url": "https://open.spotify.com/track/3BiETLH2CVAUVxIppPyPqw"
+    },
+    {
+      "added_at": "2023-11-09 23:10:04",
+      "album": {
+        "name": "Lo M\u00e1s Escuchado De",
+        "url": "https://open.spotify.com/album/0Vp01LOGNIS2NXudZqhIwA"
+      },
+      "artists": [
+        {
+          "name": "El Tigrillo Palma",
+          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
+        }
+      ],
+      "duration_ms": 158333,
+      "name": "Los Chiquinarcos",
+      "url": "https://open.spotify.com/track/4zoUYrtW9Pql2fGVaiCnhU"
     },
     {
       "added_at": "2023-11-09 23:10:04",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
-        "name": "Recuerden Mi Estilo",
-        "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 214946,
-      "name": "Con Cartitas Y Whatsapp",
-      "url": "https://open.spotify.com/track/2mPzoT5ElSrwAR03lROXW6"
-    },
-    {
-      "added_at": "2023-11-09 23:10:04",
-      "album": {
         "name": "Por Las Calles Enlodadas",
         "url": "https://open.spotify.com/album/5Dxgtj1Vd7vpOC5vnNrJhD"
       },
@@ -539,6 +523,22 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
+        "name": "Recuerden Mi Estilo",
+        "url": "https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        }
+      ],
+      "duration_ms": 214946,
+      "name": "Con Cartitas Y Whatsapp",
+      "url": "https://open.spotify.com/track/2mPzoT5ElSrwAR03lROXW6"
+    },
+    {
+      "added_at": "2023-11-09 23:10:04",
+      "album": {
         "name": "Como Duele Saber",
         "url": "https://open.spotify.com/album/3hvPmp7f7z0b7G9tbM60Fo"
       },
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
-        "name": "El Karma (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY"
-      },
-      "artists": [
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 212205,
-      "name": "Por No Perderte Te Perdi",
-      "url": "https://open.spotify.com/track/2ztISQmyTEG5YFb6z3VX3O"
-    },
-    {
-      "added_at": "2023-11-09 23:10:04",
-      "album": {
         "name": "10th Aniversario",
         "url": "https://open.spotify.com/album/2vBnKNe8AYlOjvI767hpiz"
       },
@@ -580,9 +564,9 @@
           "url": "https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP"
         }
       ],
-      "duration_ms": 238160,
-      "name": "Atrapado",
-      "url": "https://open.spotify.com/track/3GRuvSySNW7ewnrXEtPTku"
+      "duration_ms": 150506,
+      "name": "La Primavera",
+      "url": "https://open.spotify.com/track/3aoAclMXhtKqSC2j8hOCo2"
     },
     {
       "added_at": "2023-11-09 23:10:04",
@@ -603,6 +587,22 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
+        "name": "Duelo De Shakas",
+        "url": "https://open.spotify.com/album/5PwL80iiZsnkoJDVSMXEPm"
+      },
+      "artists": [
+        {
+          "name": "El Tigrillo Palma",
+          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
+        }
+      ],
+      "duration_ms": 225024,
+      "name": "El Bazucazo",
+      "url": "https://open.spotify.com/track/78JYoTnPfIqSvoNVGAPZux"
+    },
+    {
+      "added_at": "2023-11-09 23:10:04",
+      "album": {
         "name": "En La Mira",
         "url": "https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa"
       },
@@ -615,6 +615,22 @@
       "duration_ms": 193306,
       "name": "Te Sigo Amando",
       "url": "https://open.spotify.com/track/2ANfavJamie4MUFZKMPbuf"
+    },
+    {
+      "added_at": "2023-11-09 23:10:04",
+      "album": {
+        "name": "\"14 Exitos\" A Cada Instante",
+        "url": "https://open.spotify.com/album/26vKr0uiVeTMbiqyNJcc6Z"
+      },
+      "artists": [
+        {
+          "name": "Julio Chaidez",
+          "url": "https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7"
+        }
+      ],
+      "duration_ms": 215920,
+      "name": "La Hielera",
+      "url": "https://open.spotify.com/track/7hIPNq6BMFEDJxfio5I1wz"
     },
     {
       "added_at": "2023-11-09 23:10:04",
@@ -651,50 +667,18 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
-        "name": "Duelo De Shakas",
-        "url": "https://open.spotify.com/album/5PwL80iiZsnkoJDVSMXEPm"
+        "name": "10th Aniversario",
+        "url": "https://open.spotify.com/album/2vBnKNe8AYlOjvI767hpiz"
       },
       "artists": [
         {
-          "name": "El Tigrillo Palma",
-          "url": "https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek"
+          "name": "Los Alegres de la Sierra",
+          "url": "https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP"
         }
       ],
-      "duration_ms": 225024,
-      "name": "El Bazucazo",
-      "url": "https://open.spotify.com/track/78JYoTnPfIqSvoNVGAPZux"
-    },
-    {
-      "added_at": "2023-11-09 23:10:04",
-      "album": {
-        "name": "\"14 Exitos\" A Cada Instante",
-        "url": "https://open.spotify.com/album/26vKr0uiVeTMbiqyNJcc6Z"
-      },
-      "artists": [
-        {
-          "name": "Julio Chaidez",
-          "url": "https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7"
-        }
-      ],
-      "duration_ms": 215920,
-      "name": "La Hielera",
-      "url": "https://open.spotify.com/track/7hIPNq6BMFEDJxfio5I1wz"
-    },
-    {
-      "added_at": "2023-11-09 23:10:04",
-      "album": {
-        "name": "En La Mira",
-        "url": "https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 222293,
-      "name": "Sentimiento De Dolor",
-      "url": "https://open.spotify.com/track/7z1YWymBM7ZnzN8ewUFQ7B"
+      "duration_ms": 238160,
+      "name": "Atrapado",
+      "url": "https://open.spotify.com/track/3GRuvSySNW7ewnrXEtPTku"
     },
     {
       "added_at": "2023-11-09 23:10:04",
@@ -731,22 +715,6 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
-        "name": "Te Quiero M\u00e0s",
-        "url": "https://open.spotify.com/album/1ng4ef1orMRkcmDv4wpgY2"
-      },
-      "artists": [
-        {
-          "name": "Los Reyes De Sinaloa",
-          "url": "https://open.spotify.com/artist/00dw07ifKzcH0KYN6DWBmQ"
-        }
-      ],
-      "duration_ms": 213493,
-      "name": "De Coraz\u00f3n a Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/7jsPodasKpFLyuW2HRDHPQ"
-    },
-    {
-      "added_at": "2023-11-09 23:10:04",
-      "album": {
         "name": "La Que Se Fue",
         "url": "https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB"
       },
@@ -759,6 +727,38 @@
       "duration_ms": 134320,
       "name": "Con Que Me Pagas",
       "url": "https://open.spotify.com/track/2EAabOFWset3x4EkvCJqaX"
+    },
+    {
+      "added_at": "2023-11-09 23:10:04",
+      "album": {
+        "name": "En La Mira",
+        "url": "https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 222293,
+      "name": "Sentimiento De Dolor",
+      "url": "https://open.spotify.com/track/7z1YWymBM7ZnzN8ewUFQ7B"
+    },
+    {
+      "added_at": "2023-11-09 23:10:04",
+      "album": {
+        "name": "\"14 Exitos\" A Cada Instante",
+        "url": "https://open.spotify.com/album/26vKr0uiVeTMbiqyNJcc6Z"
+      },
+      "artists": [
+        {
+          "name": "Julio Chaidez",
+          "url": "https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7"
+        }
+      ],
+      "duration_ms": 124293,
+      "name": "Estrellas Y Diamantes",
+      "url": "https://open.spotify.com/track/7aITKvNtiZUfi2zt7ZZAyN"
     },
     {
       "added_at": "2023-11-09 23:10:04",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
+        "name": "Te Quiero M\u00e0s",
+        "url": "https://open.spotify.com/album/1ng4ef1orMRkcmDv4wpgY2"
+      },
+      "artists": [
+        {
+          "name": "Los Reyes De Sinaloa",
+          "url": "https://open.spotify.com/artist/00dw07ifKzcH0KYN6DWBmQ"
+        }
+      ],
+      "duration_ms": 213493,
+      "name": "De Coraz\u00f3n a Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7jsPodasKpFLyuW2HRDHPQ"
+    },
+    {
+      "added_at": "2023-11-09 23:10:04",
+      "album": {
         "name": "Judiciales Y Malandrines",
         "url": "https://open.spotify.com/album/1C6MyvNwgmLaQMlsvXYIdP"
       },
@@ -811,22 +827,6 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
-        "name": "\"14 Exitos\" A Cada Instante",
-        "url": "https://open.spotify.com/album/26vKr0uiVeTMbiqyNJcc6Z"
-      },
-      "artists": [
-        {
-          "name": "Julio Chaidez",
-          "url": "https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7"
-        }
-      ],
-      "duration_ms": 124293,
-      "name": "Estrellas Y Diamantes",
-      "url": "https://open.spotify.com/track/7aITKvNtiZUfi2zt7ZZAyN"
-    },
-    {
-      "added_at": "2023-11-09 23:10:04",
-      "album": {
         "name": "Puros Trancazos",
         "url": "https://open.spotify.com/album/6f5ItheCRgKSsl3ADzmxmP"
       },
@@ -839,54 +839,6 @@
       "duration_ms": 200453,
       "name": "Paz En Este Amor",
       "url": "https://open.spotify.com/track/1viXoY1WcMZJaQJKd890Kr"
-    },
-    {
-      "added_at": "2023-11-09 23:10:04",
-      "album": {
-        "name": "En La Mira",
-        "url": "https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 297200,
-      "name": "Chuy Y Mauricio",
-      "url": "https://open.spotify.com/track/1FAfQVtINethXcopjgNWqq"
-    },
-    {
-      "added_at": "2023-11-09 23:10:04",
-      "album": {
-        "name": "La Que Se Fue",
-        "url": "https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 149973,
-      "name": "Por Que No Vienes",
-      "url": "https://open.spotify.com/track/5VgUoHUEPmWg93aX2CgXrf"
-    },
-    {
-      "added_at": "2023-11-09 23:10:04",
-      "album": {
-        "name": "El Jardin Olvidado",
-        "url": "https://open.spotify.com/album/4akU0gaOGgrJJvg2oP3eSB"
-      },
-      "artists": [
-        {
-          "name": "Los Nuevos de Sinaloa",
-          "url": "https://open.spotify.com/artist/6Q5TEd26K9VgRNVrEmvpU5"
-        }
-      ],
-      "duration_ms": 157986,
-      "name": "Jardin Olvidado",
-      "url": "https://open.spotify.com/track/7aOzAKV1A7auw4S5cDHpsS"
     },
     {
       "added_at": "2023-11-09 23:10:04",
@@ -911,18 +863,50 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
-        "name": "Ven",
-        "url": "https://open.spotify.com/album/2R1mIUBimCzH70f7yD2OW1"
+        "name": "La Que Se Fue",
+        "url": "https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB"
       },
       "artists": [
         {
-          "name": "Los Reyes De Sinaloa",
-          "url": "https://open.spotify.com/artist/00dw07ifKzcH0KYN6DWBmQ"
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
         }
       ],
-      "duration_ms": 630053,
-      "name": "Las Rancheras de los Reyes",
-      "url": "https://open.spotify.com/track/5bkmKDY3FsMvzp6qh2L16s"
+      "duration_ms": 149973,
+      "name": "Por Que No Vienes",
+      "url": "https://open.spotify.com/track/5VgUoHUEPmWg93aX2CgXrf"
+    },
+    {
+      "added_at": "2023-11-09 23:10:04",
+      "album": {
+        "name": "En La Mira",
+        "url": "https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 297200,
+      "name": "Chuy Y Mauricio",
+      "url": "https://open.spotify.com/track/1FAfQVtINethXcopjgNWqq"
+    },
+    {
+      "added_at": "2023-11-09 23:10:04",
+      "album": {
+        "name": "El Jardin Olvidado",
+        "url": "https://open.spotify.com/album/4akU0gaOGgrJJvg2oP3eSB"
+      },
+      "artists": [
+        {
+          "name": "Los Nuevos de Sinaloa",
+          "url": "https://open.spotify.com/artist/6Q5TEd26K9VgRNVrEmvpU5"
+        }
+      ],
+      "duration_ms": 157986,
+      "name": "Jardin Olvidado",
+      "url": "https://open.spotify.com/track/7aOzAKV1A7auw4S5cDHpsS"
     },
     {
       "added_at": "2023-11-09 23:10:04",
@@ -955,6 +939,22 @@
       "duration_ms": 212067,
       "name": "Una Paloma En Su Nido",
       "url": "https://open.spotify.com/track/0ptHILzpIO2PFJ8G6ZcY6t"
+    },
+    {
+      "added_at": "2023-11-09 23:10:04",
+      "album": {
+        "name": "Ven",
+        "url": "https://open.spotify.com/album/2R1mIUBimCzH70f7yD2OW1"
+      },
+      "artists": [
+        {
+          "name": "Los Reyes De Sinaloa",
+          "url": "https://open.spotify.com/artist/00dw07ifKzcH0KYN6DWBmQ"
+        }
+      ],
+      "duration_ms": 630053,
+      "name": "Las Rancheras de los Reyes",
+      "url": "https://open.spotify.com/track/5bkmKDY3FsMvzp6qh2L16s"
     },
     {
       "added_at": "2023-11-09 23:10:04",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
-        "name": "Ni Te Imaginas",
-        "url": "https://open.spotify.com/album/1Rd5hF7z0fcDqiX5qhFOPg"
-      },
-      "artists": [
-        {
-          "name": "Los Parientes",
-          "url": "https://open.spotify.com/artist/5Uy1hajALzz3U5UpR8Wry1"
-        }
-      ],
-      "duration_ms": 192480,
-      "name": "Aunque No Seas Para Mi",
-      "url": "https://open.spotify.com/track/7Cbu9P0tnVcVxFfIShxUXI"
-    },
-    {
-      "added_at": "2023-11-09 23:10:04",
-      "album": {
         "name": "El Diablo y el Federal",
         "url": "https://open.spotify.com/album/2rcwazegT8e3JlhPPtHJYk"
       },
@@ -1059,18 +1043,18 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
-        "name": "Tu Lo Decidiste",
-        "url": "https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8"
+        "name": "Ni Te Imaginas",
+        "url": "https://open.spotify.com/album/1Rd5hF7z0fcDqiX5qhFOPg"
       },
       "artists": [
         {
-          "name": "Roman De Los Reyes",
-          "url": "https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF"
+          "name": "Los Parientes",
+          "url": "https://open.spotify.com/artist/5Uy1hajALzz3U5UpR8Wry1"
         }
       ],
-      "duration_ms": 178128,
-      "name": "El Primer Tonto",
-      "url": "https://open.spotify.com/track/3MbRlkq41kemX1uNiqk2gb"
+      "duration_ms": 192480,
+      "name": "Aunque No Seas Para Mi",
+      "url": "https://open.spotify.com/track/7Cbu9P0tnVcVxFfIShxUXI"
     },
     {
       "added_at": "2023-11-09 23:10:04",
@@ -1127,6 +1111,22 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
+        "name": "Tu Lo Decidiste",
+        "url": "https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8"
+      },
+      "artists": [
+        {
+          "name": "Roman De Los Reyes",
+          "url": "https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF"
+        }
+      ],
+      "duration_ms": 178128,
+      "name": "El Primer Tonto",
+      "url": "https://open.spotify.com/track/3MbRlkq41kemX1uNiqk2gb"
+    },
+    {
+      "added_at": "2023-11-09 23:10:04",
+      "album": {
         "name": "Hombres de Rancho",
         "url": "https://open.spotify.com/album/4Twk9Hn6QoII8zuuQ7rC5t"
       },
@@ -1139,38 +1139,6 @@
       "duration_ms": 204546,
       "name": "Que Casualidad",
       "url": "https://open.spotify.com/track/6mYGR28K8XuYJGER8EvBN4"
-    },
-    {
-      "added_at": "2023-11-09 23:10:04",
-      "album": {
-        "name": "Tu Lo Decidiste",
-        "url": "https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8"
-      },
-      "artists": [
-        {
-          "name": "Roman De Los Reyes",
-          "url": "https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF"
-        }
-      ],
-      "duration_ms": 185756,
-      "name": "Cielo Azul, Cielo Nublado",
-      "url": "https://open.spotify.com/track/5GRe4EsGxq49GaxKYvWQoZ"
-    },
-    {
-      "added_at": "2023-11-09 23:10:04",
-      "album": {
-        "name": "Intentare Olvidarte",
-        "url": "https://open.spotify.com/album/2Mi81BcVJsuS21dli3yqhN"
-      },
-      "artists": [
-        {
-          "name": "Los Gavilanes de la Sierra",
-          "url": "https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1"
-        }
-      ],
-      "duration_ms": 161466,
-      "name": "Esta Libertad",
-      "url": "https://open.spotify.com/track/5EIsjOZwmokUey87tmr9sW"
     },
     {
       "added_at": "2023-11-09 23:10:04",
@@ -1207,6 +1175,22 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
+        "name": "Intentare Olvidarte",
+        "url": "https://open.spotify.com/album/2Mi81BcVJsuS21dli3yqhN"
+      },
+      "artists": [
+        {
+          "name": "Los Gavilanes de la Sierra",
+          "url": "https://open.spotify.com/artist/1m41o6nhLXMVGGzz9kLgq1"
+        }
+      ],
+      "duration_ms": 161466,
+      "name": "Esta Libertad",
+      "url": "https://open.spotify.com/track/5EIsjOZwmokUey87tmr9sW"
+    },
+    {
+      "added_at": "2023-11-09 23:10:04",
+      "album": {
         "name": "Valent\u00edn \"El Gallo\" Con Guitarras (En Vivo)",
         "url": "https://open.spotify.com/album/3NO5ZbtH8zW3wqSF9p7SGs"
       },
@@ -1227,34 +1211,18 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
-        "name": "Para Morir Nac\u00ed",
-        "url": "https://open.spotify.com/album/6xO9JouFVYKw9lD9YejQJD"
+        "name": "Tu Lo Decidiste",
+        "url": "https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8"
       },
       "artists": [
         {
-          "name": "Los Dukes De Sonora",
-          "url": "https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb"
+          "name": "Roman De Los Reyes",
+          "url": "https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Para Morir Naci",
-      "url": "https://open.spotify.com/track/58VjK7wICoMm0M2zftvsll"
-    },
-    {
-      "added_at": "2023-11-09 23:10:04",
-      "album": {
-        "name": "Grandes Exitos con Tuba, Acorde\u00f3n y Guitarra Vol. 1",
-        "url": "https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 146906,
-      "name": "Esta Cobardia",
-      "url": "https://open.spotify.com/track/3Rn0F5FIe6V4WtrUruFknR"
+      "duration_ms": 185756,
+      "name": "Cielo Azul, Cielo Nublado",
+      "url": "https://open.spotify.com/track/5GRe4EsGxq49GaxKYvWQoZ"
     },
     {
       "added_at": "2023-11-09 23:10:04",
@@ -1275,18 +1243,18 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
-        "name": "Tu Lo Decidiste",
-        "url": "https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8"
+        "name": "Para Morir Nac\u00ed",
+        "url": "https://open.spotify.com/album/6xO9JouFVYKw9lD9YejQJD"
       },
       "artists": [
         {
-          "name": "Roman De Los Reyes",
-          "url": "https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF"
+          "name": "Los Dukes De Sonora",
+          "url": "https://open.spotify.com/artist/6CPniXwNjmvUgGE2cPzmmb"
         }
       ],
-      "duration_ms": 159059,
-      "name": "El Buque de Mas Potencia",
-      "url": "https://open.spotify.com/track/1PKLz0d2aaEYG2tEFnGXl5"
+      "duration_ms": 192000,
+      "name": "Para Morir Naci",
+      "url": "https://open.spotify.com/track/58VjK7wICoMm0M2zftvsll"
     },
     {
       "added_at": "2023-11-09 23:10:04",
@@ -1307,18 +1275,18 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
-        "name": "Para Siempre",
-        "url": "https://open.spotify.com/album/0h1qpEWCEyKf6lJHPbN4MR"
+        "name": "Grandes Exitos con Tuba, Acorde\u00f3n y Guitarra Vol. 1",
+        "url": "https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2"
       },
       "artists": [
         {
-          "name": "Los Students",
-          "url": "https://open.spotify.com/artist/468vRwxNFLQ9bnv9LeA5Sm"
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 198946,
-      "name": "Llorando Por Ti",
-      "url": "https://open.spotify.com/track/7xtzhHqkdbgCqefLIKgKpY"
+      "duration_ms": 146906,
+      "name": "Esta Cobardia",
+      "url": "https://open.spotify.com/track/3Rn0F5FIe6V4WtrUruFknR"
     },
     {
       "added_at": "2023-11-09 23:10:04",
@@ -1343,6 +1311,22 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/0h1qpEWCEyKf6lJHPbN4MR"
+      },
+      "artists": [
+        {
+          "name": "Los Students",
+          "url": "https://open.spotify.com/artist/468vRwxNFLQ9bnv9LeA5Sm"
+        }
+      ],
+      "duration_ms": 198946,
+      "name": "Llorando Por Ti",
+      "url": "https://open.spotify.com/track/7xtzhHqkdbgCqefLIKgKpY"
+    },
+    {
+      "added_at": "2023-11-09 23:10:04",
+      "album": {
         "name": "La Sombra Del Arbol",
         "url": "https://open.spotify.com/album/4R0sMZcXew3rNAiIfpPLax"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 154226,
       "name": "Que Te Casas",
       "url": "https://open.spotify.com/track/3rZD94i2rUr1nddo8uVXWq"
+    },
+    {
+      "added_at": "2023-11-09 23:10:04",
+      "album": {
+        "name": "Un Golpe Mas",
+        "url": "https://open.spotify.com/album/2Jbtm1hUa1M7tk3Ap7yNAu"
+      },
+      "artists": [
+        {
+          "name": "Grupo cessna",
+          "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
+        }
+      ],
+      "duration_ms": 151813,
+      "name": "La Chuparrosa",
+      "url": "https://open.spotify.com/track/3LyJVnEf3n8VZE04tgRURd"
     },
     {
       "added_at": "2023-11-09 23:10:04",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
+        "name": "Tu Lo Decidiste",
+        "url": "https://open.spotify.com/album/0JNCEzRPMSqwTTVh350Mj8"
+      },
+      "artists": [
+        {
+          "name": "Roman De Los Reyes",
+          "url": "https://open.spotify.com/artist/5fTnZFgNX2qnnYqGf3KubF"
+        }
+      ],
+      "duration_ms": 159059,
+      "name": "El Buque de Mas Potencia",
+      "url": "https://open.spotify.com/track/1PKLz0d2aaEYG2tEFnGXl5"
+    },
+    {
+      "added_at": "2023-11-09 23:10:04",
+      "album": {
         "name": "Tres Suspiros",
         "url": "https://open.spotify.com/album/1uBsBFgV33cAfgSkIfD9bB"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 162013,
       "name": "Dos Seres Que Se Aman",
       "url": "https://open.spotify.com/track/6EvHYa6KUiXAl9rqt7E7Z5"
-    },
-    {
-      "added_at": "2023-11-09 23:10:04",
-      "album": {
-        "name": "Un Golpe Mas",
-        "url": "https://open.spotify.com/album/2Jbtm1hUa1M7tk3Ap7yNAu"
-      },
-      "artists": [
-        {
-          "name": "Grupo cessna",
-          "url": "https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W"
-        }
-      ],
-      "duration_ms": 151813,
-      "name": "La Chuparrosa",
-      "url": "https://open.spotify.com/track/3LyJVnEf3n8VZE04tgRURd"
     },
     {
       "added_at": "2023-11-09 23:10:04",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
-        "name": "La Sombra Del Arbol",
-        "url": "https://open.spotify.com/album/4R0sMZcXew3rNAiIfpPLax"
-      },
-      "artists": [
-        {
-          "name": "Ramon Massiaca Y Los Dos Plebes",
-          "url": "https://open.spotify.com/artist/70F5hQ2GuRjGCBawrf1joe"
-        }
-      ],
-      "duration_ms": 207120,
-      "name": "El Amor No Se Vende",
-      "url": "https://open.spotify.com/track/0IvrsLn1zFZno6O5rpXKAP"
-    },
-    {
-      "added_at": "2023-11-09 23:10:04",
-      "album": {
         "name": "Los Cuen's De Sinaloa",
         "url": "https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 197466,
       "name": "Los Plebes Atrevidos",
       "url": "https://open.spotify.com/track/59hQ9CzM8Mrril2tKdXFj0"
+    },
+    {
+      "added_at": "2023-11-09 23:10:04",
+      "album": {
+        "name": "La Sombra Del Arbol",
+        "url": "https://open.spotify.com/album/4R0sMZcXew3rNAiIfpPLax"
+      },
+      "artists": [
+        {
+          "name": "Ramon Massiaca Y Los Dos Plebes",
+          "url": "https://open.spotify.com/artist/70F5hQ2GuRjGCBawrf1joe"
+        }
+      ],
+      "duration_ms": 207120,
+      "name": "El Amor No Se Vende",
+      "url": "https://open.spotify.com/track/0IvrsLn1zFZno6O5rpXKAP"
     },
     {
       "added_at": "2023-11-09 23:10:04",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-11-09 23:10:04",
       "album": {
-        "name": "Grandes Exitos con Tuba, Acorde\u00f3n y Guitarra Vol. 1",
-        "url": "https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 185040,
-      "name": "Encendido Clavel",
-      "url": "https://open.spotify.com/track/7b28hNlTMK0ChHBszSrSgN"
-    },
-    {
-      "added_at": "2023-11-09 23:10:04",
-      "album": {
         "name": "Los Cuen's De Sinaloa",
         "url": "https://open.spotify.com/album/0ySeNWEVo1p6JLkylvagO0"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 183093,
       "name": "El Ni\u00f1o De Oro",
       "url": "https://open.spotify.com/track/4GOyrQDlyPd3B7q0SoiE2Z"
+    },
+    {
+      "added_at": "2023-11-09 23:10:04",
+      "album": {
+        "name": "Grandes Exitos con Tuba, Acorde\u00f3n y Guitarra Vol. 1",
+        "url": "https://open.spotify.com/album/2E9MK3bAEAJSpuyRqrSIb2"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 185040,
+      "name": "Encendido Clavel",
+      "url": "https://open.spotify.com/track/7b28hNlTMK0ChHBszSrSgN"
     },
     {
       "added_at": "2023-11-09 23:10:04",

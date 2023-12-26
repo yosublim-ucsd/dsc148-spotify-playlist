@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 
 > This is Pabllo Vittar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,489 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,506 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 14 | [Descontrolada \- Cyberkills Remix ft Jup Do Bairro](https://open.spotify.com/track/7oIW4mt7JZeqEUyZiKR6s3) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws), [Jup do Bairro](https://open.spotify.com/artist/0gfL54JIv5ufwbMZC61ZGf), [CyberKills](https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3) | [AFTER](https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ) | 4:07 |
 | 15 | [Garupa](https://open.spotify.com/track/6nmYC5NZrRjRMhyR4aHLoF) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Pandora](https://open.spotify.com/album/1eHsHKConMfzho7k48pomW) | 2:08 |
 | 16 | [Bandida \(feat\. Mc Mayara\)](https://open.spotify.com/track/2VFTgZwiAdrADSLrUNHWt9) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Mc Mayara](https://open.spotify.com/artist/06KW64mW1lFahvaJVV0TRe) | [111 DELUXE](https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP) | 2:26 |
-| 17 | [Equalize](https://open.spotify.com/track/6ejNK6AivWJKC1QOZlzmq0) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [ADMIRÁVEL CHIP NOVO \(RE\)ATIVADO](https://open.spotify.com/album/6bIHDpi2YUAO3C2CinsGSZ) | 3:38 |
+| 17 | [Zap Zum](https://open.spotify.com/track/7zyZ9yPXIQebb79PrMghpV) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 2:47 |
 | 18 | [Disk Me](https://open.spotify.com/track/3xgDQRexKiyS4Eq3oAvLaD) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:53 |
-| 19 | [Zap Zum](https://open.spotify.com/track/7zyZ9yPXIQebb79PrMghpV) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN) | 2:47 |
+| 19 | [Equalize](https://open.spotify.com/track/6ejNK6AivWJKC1QOZlzmq0) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [ADMIRÁVEL CHIP NOVO \(RE\)ATIVADO](https://open.spotify.com/album/6bIHDpi2YUAO3C2CinsGSZ) | 3:38 |
 | 20 | [Amor de Que](https://open.spotify.com/track/7vpGKEUPrA4UEsS4o4W1tP) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111](https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b) | 2:37 |
 | 21 | [Não Esqueço](https://open.spotify.com/track/3ycgRTqMzjmLMhWfuIKIcm) | [Niara](https://open.spotify.com/artist/1uDIjX8OKiqAM30JJdVg3l), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Esqueço](https://open.spotify.com/album/5ZdxGjDEVczmubvGbzf5Ru) | 3:05 |
 | 22 | [Seu Crime](https://open.spotify.com/track/220QqE38Qrmyrtyd5xqB8i) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P9CWt.md) - [plain]
 | 49 | [Então Vai \(Get By\) \(feat\. Diplo\)](https://open.spotify.com/track/5SOxxG6ju1Oq2hpoa6wARV) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Vai Passar Mal](https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT) | 2:48 |
 | 50 | [I Got It \(feat\. Brooke Candy, CupcakKe and Pabllo Vittar\)](https://open.spotify.com/track/7tjQl5EC72HBJRAKxP3Bvm) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 3:51 |
 
-Snapshot ID: `MjgzOTAyOTIsMDAwMDAwMDA5NjYyY2U3YTI0YTA2OWQwNGI2ZWQ1M2ViZGVhMjgwYQ==`
+Snapshot ID: `MjgzOTE3MzUsMDAwMDAwMDBlNjNlZmE4MjU2OTRlYzFmOTY2MWFkN2JkZDQ5ZTQ4ZA==`

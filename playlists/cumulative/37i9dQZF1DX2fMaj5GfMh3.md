@@ -4,7 +4,7 @@
 
 > RANI op de cover van Fresh Pop!
 
-428 songs - 21 hr 33 min
+429 songs - 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [happy for you](https://open.spotify.com/track/1k8AXX52293tVBANnrEFg1) | [judith](https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA) | [happy for you](https://open.spotify.com/album/3vgatBi7QrQDi0McNPwlnL) | 2:54 | 2023-06-01 | 2023-09-21 |
 | [Head Held High](https://open.spotify.com/track/1MnTcyXc7vcPVgstIWAQCd) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Head Held High](https://open.spotify.com/album/31USChxDJRBNE8iNlf7Nre) | 3:16 | 2023-02-24 | 2023-05-07 |
 | [Head Held High](https://open.spotify.com/track/60sCCPmAff8HfYWpaXQQ9e) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Head Held High](https://open.spotify.com/album/7w5yY2cw3KJqRoVnlNzmrt) | 3:16 | 2023-05-04 | 2023-06-09 |
+| [Headphones \(feat\. Aron Blom\)](https://open.spotify.com/track/5lSvT7dzt2iFriCShrRlKv) | [MARF](https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7), [Aron Blom](https://open.spotify.com/artist/6srxAZuUenELGYEGNhsKpH) | [Headphones \(feat\. Aron Blom\)](https://open.spotify.com/album/3EZbuRCkXAcdxGbyzBpokQ) | 2:39 | 2023-12-25 |  |
 | [Heart Wants What It Wants](https://open.spotify.com/track/7rS4oy2qpJNULQAVgJQTun) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Heart Wants What It Wants](https://open.spotify.com/album/2UaBO1EDivXwUZengjvRBG) | 3:02 | 2023-02-27 | 2023-05-26 |
 | [Heartbeat](https://open.spotify.com/track/4QlRUzRXS4fCyrlVBLXg8r) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [Heartbeat](https://open.spotify.com/album/6BK9a0A1iFK11y9FvFDTvl) | 3:18 | 2023-02-24 | 2023-04-28 |
 | [Heartbreak In The Making](https://open.spotify.com/track/7pQDEFgqfceckGdx9v4Me2) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Heartbreak In The Making](https://open.spotify.com/album/0FX2iXci5RZKRqVQslP6fk) | 3:14 | 2023-04-27 | 2023-08-04 |
@@ -402,7 +403,7 @@
 | [UNHEALTHY \(feat\. Shania Twain\)](https://open.spotify.com/track/2doTn2LWTKN1Z0lZJG2WQw) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [UNHEALTHY \(feat\. Shania Twain\)](https://open.spotify.com/album/6QEbEpz7fWR5N3HoIiSHFo) | 2:29 | 2023-05-25 | 2023-09-01 |
 | [Unicorn](https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Unicorn](https://open.spotify.com/album/14wVxL1PbK2bJuoGjxHrCR) | 2:50 | 2023-05-18 | 2023-08-18 |
 | [Unstable](https://open.spotify.com/track/4jufFFNupxAe3kwYUZDVUJ) | [Tom Frane](https://open.spotify.com/artist/7EJYadnOoXsnXbvULN7YCR), [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0) | [Unstable](https://open.spotify.com/album/51smJtFQ5FxzfgkHVPRIyJ) | 2:37 | 2023-10-04 |  |
-| [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 | 2023-08-25 |  |
+| [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 | 2023-08-25 | 2023-12-26 |
 | [Used to love you](https://open.spotify.com/track/4laljsUqeYkQLWoI9dh3D0) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Used to love you](https://open.spotify.com/album/7z9sYVzzWxTKJZjW5kC2Jq) | 2:58 | 2023-05-25 | 2023-08-26 |
 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 | 2023-09-07 | 2023-10-27 |
 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-06-30 | 2023-09-11 |

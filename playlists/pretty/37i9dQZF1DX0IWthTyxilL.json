@@ -1,12 +1,12 @@
 {
   "description": "Sons da floresta para inspirar seus dia ou noite.",
-  "num_followers": 10431,
+  "num_followers": 10440,
   "original_name": "Sons da Floresta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmQ0YTRjOGRlZmUxZTZlMjc5OTRmMWY5YWMwOTk1OWYyNzI5ZTc1",
+  "snapshot_id": "MCwwYjRkY2FjNWQ0MzUzMDRhZjdiMWE5ZjkzY2Y2NGY0MmI0Y2NjYjM5",
   "tracks": [
     {
       "added_at": "2023-06-19 12:57:37",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-06-19 12:57:37",
       "album": {
+        "name": "Fresh Forest",
+        "url": "https://open.spotify.com/album/2HvyUszsRZo8u0f1pca5fm"
+      },
+      "artists": [
+        {
+          "name": "Eskil Hermes",
+          "url": "https://open.spotify.com/artist/4RgayOFOiMm8j5DeeBpXby"
+        }
+      ],
+      "duration_ms": 157524,
+      "name": "Fresh Forest",
+      "url": "https://open.spotify.com/track/1EnpczqhePEswNjzfyirRV"
+    },
+    {
+      "added_at": "2023-06-19 12:57:37",
+      "album": {
         "name": "Nature Sounds",
         "url": "https://open.spotify.com/album/7BeL9OdzLuHh0Mk62zA1CX"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 264153,
       "name": "Relaxing Crickets And Waterfall",
       "url": "https://open.spotify.com/track/5iAB4tlYseBES4MKqgY4KG"
-    },
-    {
-      "added_at": "2023-06-19 12:57:37",
-      "album": {
-        "name": "Fresh Forest",
-        "url": "https://open.spotify.com/album/2HvyUszsRZo8u0f1pca5fm"
-      },
-      "artists": [
-        {
-          "name": "Eskil Hermes",
-          "url": "https://open.spotify.com/artist/4RgayOFOiMm8j5DeeBpXby"
-        }
-      ],
-      "duration_ms": 157524,
-      "name": "Fresh Forest",
-      "url": "https://open.spotify.com/track/1EnpczqhePEswNjzfyirRV"
     },
     {
       "added_at": "2023-06-19 12:57:37",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-06-19 12:57:37",
       "album": {
-        "name": "Relaxing Nature Sounds",
-        "url": "https://open.spotify.com/album/41gv4AWktiPAx0JL5nVqwY"
-      },
-      "artists": [
-        {
-          "name": "Lluvia del Bosque",
-          "url": "https://open.spotify.com/artist/0qxiHjDHTVwI9Q1pcU5jxQ"
-        }
-      ],
-      "duration_ms": 190097,
-      "name": "Bosque",
-      "url": "https://open.spotify.com/track/3Ol2CB78koETMwfr0OwJiH"
-    },
-    {
-      "added_at": "2023-06-19 12:57:37",
-      "album": {
         "name": "Jungle And Forest Sounds",
         "url": "https://open.spotify.com/album/3TRoUn8OKRVUcbprXmyGgj"
       },
@@ -779,18 +763,18 @@
     {
       "added_at": "2023-06-19 12:57:37",
       "album": {
-        "name": "Forest Sounds",
-        "url": "https://open.spotify.com/album/4IGucO2BmKvLu7ynVb6r20"
+        "name": "Relaxing Nature Sounds",
+        "url": "https://open.spotify.com/album/41gv4AWktiPAx0JL5nVqwY"
       },
       "artists": [
         {
-          "name": "Mother Earth Sounds",
-          "url": "https://open.spotify.com/artist/682dFb5qW5sDv3urY7IEqp"
+          "name": "Lluvia del Bosque",
+          "url": "https://open.spotify.com/artist/0qxiHjDHTVwI9Q1pcU5jxQ"
         }
       ],
-      "duration_ms": 258788,
-      "name": "Summer Night",
-      "url": "https://open.spotify.com/track/45c7cAvP0LccTTRP0eLeeC"
+      "duration_ms": 190097,
+      "name": "Bosque",
+      "url": "https://open.spotify.com/track/3Ol2CB78koETMwfr0OwJiH"
     },
     {
       "added_at": "2023-06-19 12:57:37",
@@ -807,6 +791,22 @@
       "duration_ms": 193922,
       "name": "Rain & The Rainforest",
       "url": "https://open.spotify.com/track/0i2QIV9Lku6x5zQkN7DZpn"
+    },
+    {
+      "added_at": "2023-06-19 12:57:37",
+      "album": {
+        "name": "Forest Sounds",
+        "url": "https://open.spotify.com/album/4IGucO2BmKvLu7ynVb6r20"
+      },
+      "artists": [
+        {
+          "name": "Mother Earth Sounds",
+          "url": "https://open.spotify.com/artist/682dFb5qW5sDv3urY7IEqp"
+        }
+      ],
+      "duration_ms": 258788,
+      "name": "Summer Night",
+      "url": "https://open.spotify.com/track/45c7cAvP0LccTTRP0eLeeC"
     }
   ],
   "unique_name": "Sons da Floresta",

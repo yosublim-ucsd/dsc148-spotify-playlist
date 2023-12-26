@@ -2,7 +2,7 @@
 
 ### [Party of the Year](https://open.spotify.com/playlist/37i9dQZF1DX4m8lwRUbXLs)
 
-> See out 2022 with these epic anthems
+> See out 2023 with these epic anthems
 
 77 songs - 5 hr 0 min
 

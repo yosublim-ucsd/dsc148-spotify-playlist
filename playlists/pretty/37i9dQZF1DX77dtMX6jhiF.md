@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dtMX6jhiF.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/damsonidris/">Damson Idris</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,636 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,649 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dtMX6jhiF.md) - [plain]
 | 24 | [The Recipe](https://open.spotify.com/track/7qvlr9ncoswvOoaFv4CKSw) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Chasing Summer](https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7) | 2:58 |
 | 25 | [Nobody Else](https://open.spotify.com/track/6eipQrmTw1N3nUfgLlEa2R) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:53 |
 | 26 | [Marcy Me](https://open.spotify.com/track/5oynsOy80DnodTslgaj3cr) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [4:44](https://open.spotify.com/album/7GoZNNb7Yl74fpk8Z6I2cv) | 2:54 |
-| 27 | [The Birds Pt\. 2 \- Original](https://open.spotify.com/track/2yYDijitHN6psA2tH0ndXs) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Thursday \(Original\)](https://open.spotify.com/album/6F87lH0I09qlrzvCCKc7lz) | 5:50 |
-| 28 | [Black](https://open.spotify.com/track/0J43IKwcofdlTQPjcbHxCM) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [PSYCHODRAMA](https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD) | 3:48 |
-| 29 | [4pm in Calabasas](https://open.spotify.com/track/6C9SwoZ5OrxcvkntgA5t8s) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 4:00 |
+| 27 | [4pm in Calabasas](https://open.spotify.com/track/6C9SwoZ5OrxcvkntgA5t8s) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 4:00 |
+| 28 | [The Birds Pt\. 2 \- Original](https://open.spotify.com/track/2yYDijitHN6psA2tH0ndXs) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Thursday \(Original\)](https://open.spotify.com/album/6F87lH0I09qlrzvCCKc7lz) | 5:50 |
+| 29 | [Black](https://open.spotify.com/track/0J43IKwcofdlTQPjcbHxCM) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [PSYCHODRAMA](https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD) | 3:48 |
 | 30 | [What's Free \(feat\. Rick Ross & Jay Z\)](https://open.spotify.com/track/4iQ5gmTAzWfK8JyFC2LBox) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 6:02 |
 | 31 | [Wetin Man Go Do](https://open.spotify.com/track/2xXRKDCqZYmbbwwIUerigW) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:08 |
 | 32 | [Jezebel](https://open.spotify.com/track/0mMyCFOqotvTPf8esrLM7K) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 5:29 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dtMX6jhiF.md) - [plain]
 | 42 | [Cold \(feat\. Kaash Paige\)](https://open.spotify.com/track/4KiGhqUwjvrJqVbiwsMwkV) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [EDNA](https://open.spotify.com/album/0fq4uzIIA44Bkw0fCQ5KAU) | 4:37 |
 | 43 | [Green Eyes](https://open.spotify.com/track/56B0uGixLoAvJCBj25wBfG) | [Jazzmeia Horn](https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM) | [Love And Liberation](https://open.spotify.com/album/4DbWKlb4SOElI7DYEE5TIR) | 5:19 |
 | 44 | [Goat Level](https://open.spotify.com/track/7eNr4C0NWjNdA8K31s7QAc) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE) | [Revenge Is Sweet](https://open.spotify.com/album/352aXyfcekSqY1ZvC0jrBe) | 4:28 |
-| 45 | [Stay](https://open.spotify.com/track/3xY4TcsCUR8q0J1NgL8QK3) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Large Professor](https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX) | [Life Is Good \(Deluxe\)](https://open.spotify.com/album/5fwYiohuGFqJx34Z4s26jI) | 3:45 |
-| 46 | [Quarantine Wifey \[Feat\. JID\]](https://open.spotify.com/track/6LlHSVifWMOA0APfUu3mdm) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [While The World Was Burning](https://open.spotify.com/album/7w3dPme8pmDgsKWGkcOk5f) | 3:54 |
+| 45 | [Quarantine Wifey \[Feat\. JID\]](https://open.spotify.com/track/6LlHSVifWMOA0APfUu3mdm) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [While The World Was Burning](https://open.spotify.com/album/7w3dPme8pmDgsKWGkcOk5f) | 3:54 |
+| 46 | [Stay](https://open.spotify.com/track/3xY4TcsCUR8q0J1NgL8QK3) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Large Professor](https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX) | [Life Is Good \(Deluxe\)](https://open.spotify.com/album/5fwYiohuGFqJx34Z4s26jI) | 3:45 |
 | 47 | [California Dreaming](https://open.spotify.com/track/2F7dvdHfSM5cZxrkkptddA) | [Eddie Hazel](https://open.spotify.com/artist/3JVF9a4IJrL7sTSdjXxIqJ) | [AT HOME](https://open.spotify.com/album/4v5hIeJhusFcKFXyRHRBoy) | 3:41 |
 | 48 | [Love Me Nina / Semiautomatic](https://open.spotify.com/track/6kzkaR1UEKP0XjlK4jFgC7) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Wow..\. That's Crazy](https://open.spotify.com/album/0JRDNN0AuZZiwyrOWkNDXC) | 4:16 |
 | 49 | [You Raised Me](https://open.spotify.com/track/7p9nphST7ntwp2oNGPm7JI) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Walk in Da Park](https://open.spotify.com/album/2UAWSIueBxqi7bXSoKxQ7v) | 2:50 |
 | 50 | [One Life](https://open.spotify.com/track/2hKkbHoxUV0wWF0RWQIYyi) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [J\. Stone](https://open.spotify.com/artist/2YTVLcgqXXQbfORLE91aa3), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Born 2 Rap](https://open.spotify.com/album/4UFn9Lp48TeDrdOmIEKQDV) | 5:14 |
 
-Snapshot ID: `MCxhY2E3NWM2NTlmYzliMGMyOWZhMjY5MGQ2MTc5YjA5NjA0ZGI3NTA2`
+Snapshot ID: `MCwwYWI1MjJmYThhMTRkYjUzOWQ2MWY5ZTZhYjU2MWJhOTQ0YmU1YTM4`

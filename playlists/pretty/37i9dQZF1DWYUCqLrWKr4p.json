@@ -1,12 +1,12 @@
 {
   "description": "Unforgettable love songs from the 1960s.",
-  "num_followers": 186585,
+  "num_followers": 186696,
   "original_name": "60s Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYmVjYjMxYzA2MjZmZTUxMTU2ZjdkZWFjNzMyMjRjNjE1ZmFhODFm",
+  "snapshot_id": "MCxhNGU5MDEwODlmYzQ0ZmUwNTYwNzg3YzJmMGI4OWQ5ZTQ1OGM2ZjI5",
   "tracks": [
     {
       "added_at": "2022-05-30 13:02:24",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Aretha Now",
-        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 149626,
-      "name": "You Send Me",
-      "url": "https://open.spotify.com/track/4VijLEUxHEzbWKYL5u9wuN"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "Four Tops",
         "url": "https://open.spotify.com/album/6TPCze8g5Q3yCRYyA42qAm"
       },
@@ -327,54 +311,6 @@
       "duration_ms": 166026,
       "name": "Baby I Need Your Loving",
       "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "You've Lost That Lovin' Feelin'",
-        "url": "https://open.spotify.com/album/28FEznublcKslK88ehRrfy"
-      },
-      "artists": [
-        {
-          "name": "The Righteous Brothers",
-          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
-        }
-      ],
-      "duration_ms": 226453,
-      "name": "You've Lost That Lovin' Feelin' - Single Version",
-      "url": "https://open.spotify.com/track/6AeyHqzNHJthYJbn0tvJ4b"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "Deliver",
-        "url": "https://open.spotify.com/album/0zR6CIh3f8DFFzIee5AWwp"
-      },
-      "artists": [
-        {
-          "name": "The Mamas & The Papas",
-          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
-        }
-      ],
-      "duration_ms": 178733,
-      "name": "Dedicated To The One I Love",
-      "url": "https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 185626,
-      "name": "I Just Want To Make Love To You - Single Version",
-      "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -395,6 +331,38 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
+        "name": "Aretha Now",
+        "url": "https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 149626,
+      "name": "You Send Me",
+      "url": "https://open.spotify.com/track/4VijLEUxHEzbWKYL5u9wuN"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "You've Lost That Lovin' Feelin'",
+        "url": "https://open.spotify.com/album/28FEznublcKslK88ehRrfy"
+      },
+      "artists": [
+        {
+          "name": "The Righteous Brothers",
+          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
+        }
+      ],
+      "duration_ms": 226453,
+      "name": "You've Lost That Lovin' Feelin' - Single Version",
+      "url": "https://open.spotify.com/track/6AeyHqzNHJthYJbn0tvJ4b"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
         "name": "The Very Best Of \"The Archies\"",
         "url": "https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi"
       },
@@ -407,6 +375,38 @@
       "duration_ms": 167186,
       "name": "Sugar, Sugar",
       "url": "https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 185626,
+      "name": "I Just Want To Make Love To You - Single Version",
+      "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "Deliver",
+        "url": "https://open.spotify.com/album/0zR6CIh3f8DFFzIee5AWwp"
+      },
+      "artists": [
+        {
+          "name": "The Mamas & The Papas",
+          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
+        }
+      ],
+      "duration_ms": 178733,
+      "name": "Dedicated To The One I Love",
+      "url": "https://open.spotify.com/track/1mFrjW8e8fuAOowlU3Q3Dr"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "The Man Who Invented Soul",
-        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 162533,
-      "name": "Bring It On Home to Me",
-      "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "The Very Best of The Everly Brothers",
         "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 143333,
       "name": "All I Have to Do Is Dream",
       "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 162533,
+      "name": "Bring It On Home to Me",
+      "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -607,6 +607,22 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
+        "name": "The Beat Goes On: Best Of",
+        "url": "https://open.spotify.com/album/5QzkzMcvCJSk30pQS2mqia"
+      },
+      "artists": [
+        {
+          "name": "Sonny & Cher",
+          "url": "https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO"
+        }
+      ],
+      "duration_ms": 193840,
+      "name": "I Got You Babe",
+      "url": "https://open.spotify.com/track/2SWBfqj1FrS8t8z56G55rP"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
         "name": "You're All I Need",
         "url": "https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd"
       },
@@ -627,34 +643,18 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "The Beat Goes On: Best Of",
-        "url": "https://open.spotify.com/album/5QzkzMcvCJSk30pQS2mqia"
+        "name": "I Get The Sweetest Feeling",
+        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
       },
       "artists": [
         {
-          "name": "Sonny & Cher",
-          "url": "https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO"
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
         }
       ],
-      "duration_ms": 193840,
-      "name": "I Got You Babe",
-      "url": "https://open.spotify.com/track/2SWBfqj1FrS8t8z56G55rP"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
-      },
-      "artists": [
-        {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
-        }
-      ],
-      "duration_ms": 112520,
-      "name": "He's So Fine - Remastered 2000",
-      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
+      "duration_ms": 178373,
+      "name": "I Get The Sweetest Feeling",
+      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -675,18 +675,18 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "I Get The Sweetest Feeling",
-        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
       },
       "artists": [
         {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
         }
       ],
-      "duration_ms": 178373,
-      "name": "I Get The Sweetest Feeling",
-      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
+      "duration_ms": 112520,
+      "name": "He's So Fine - Remastered 2000",
+      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -727,26 +727,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Take Two",
-        "url": "https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Kim Weston",
-          "url": "https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL"
-        }
-      ],
-      "duration_ms": 177666,
-      "name": "It Takes Two",
-      "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "Erma Franklin: Piece Of Her Heart - The Epic And Shout Years",
         "url": "https://open.spotify.com/album/3GykoJmCI2qmvrgi8zQ7XW"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 151973,
       "name": "Till There Was You - Remastered",
       "url": "https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "Take Two",
+        "url": "https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Kim Weston",
+          "url": "https://open.spotify.com/artist/71pUA2TXf3JHUPUgsjLtuL"
+        }
+      ],
+      "duration_ms": 177666,
+      "name": "It Takes Two",
+      "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ"
     },
     {
       "added_at": "2022-05-30 13:02:24",
@@ -915,70 +915,6 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
-        "name": "Complete United Artists Singles",
-        "url": "https://open.spotify.com/album/4hwFFfpDp28EYWbVZoZ9pi"
-      },
-      "artists": [
-        {
-          "name": "Jay & The Americans",
-          "url": "https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs"
-        }
-      ],
-      "duration_ms": 177093,
-      "name": "This Magic Moment",
-      "url": "https://open.spotify.com/track/74i6ZrnR1WzZsuc3qrJg7I"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/0rgnbePrBYNFSaXnCZOcod"
-      },
-      "artists": [
-        {
-          "name": "Mary Wells",
-          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
-        }
-      ],
-      "duration_ms": 171400,
-      "name": "My Guy - Single Version",
-      "url": "https://open.spotify.com/track/7arXVtGNJPa7aOHiKOeUsl"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "Hits and Rarities",
-        "url": "https://open.spotify.com/album/2bV0PFcxYOfBKqwWczSL5c"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 149680,
-      "name": "This Magic Moment - Single Version; Remastered",
-      "url": "https://open.spotify.com/track/6wccwN37R7tRotVrK8Htni"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic"
-      },
-      "artists": [
-        {
-          "name": "The Marvelettes",
-          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
-        }
-      ],
-      "duration_ms": 141746,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/3s2inuLbQQZ7z1GJrdlQr6"
-    },
-    {
-      "added_at": "2022-05-30 13:02:24",
-      "album": {
         "name": "Diana Ross & The Supremes Join The Temptations",
         "url": "https://open.spotify.com/album/7tZt4EApjs2MSzt0OJ1vaT"
       },
@@ -999,6 +935,38 @@
     {
       "added_at": "2022-05-30 13:02:24",
       "album": {
+        "name": "Hits and Rarities",
+        "url": "https://open.spotify.com/album/2bV0PFcxYOfBKqwWczSL5c"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 149680,
+      "name": "This Magic Moment - Single Version; Remastered",
+      "url": "https://open.spotify.com/track/6wccwN37R7tRotVrK8Htni"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "Complete United Artists Singles",
+        "url": "https://open.spotify.com/album/4hwFFfpDp28EYWbVZoZ9pi"
+      },
+      "artists": [
+        {
+          "name": "Jay & The Americans",
+          "url": "https://open.spotify.com/artist/0DAqhikcMKLo2lPADVz2fs"
+        }
+      ],
+      "duration_ms": 177093,
+      "name": "This Magic Moment",
+      "url": "https://open.spotify.com/track/74i6ZrnR1WzZsuc3qrJg7I"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
         "name": "No Place To Hide",
         "url": "https://open.spotify.com/album/7CPcd7Sl9L4TahP1gTqR5q"
       },
@@ -1011,6 +979,38 @@
       "duration_ms": 129758,
       "name": "It's In The Kiss (The Shoop Shoop Song)",
       "url": "https://open.spotify.com/track/35hfuechuOqaW31ogdauO7"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/0rgnbePrBYNFSaXnCZOcod"
+      },
+      "artists": [
+        {
+          "name": "Mary Wells",
+          "url": "https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7"
+        }
+      ],
+      "duration_ms": 171400,
+      "name": "My Guy - Single Version",
+      "url": "https://open.spotify.com/track/7arXVtGNJPa7aOHiKOeUsl"
+    },
+    {
+      "added_at": "2022-05-30 13:02:24",
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic"
+      },
+      "artists": [
+        {
+          "name": "The Marvelettes",
+          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
+        }
+      ],
+      "duration_ms": 141746,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3s2inuLbQQZ7z1GJrdlQr6"
     },
     {
       "added_at": "2022-05-30 13:02:24",

@@ -4,7 +4,7 @@
 
 > Il sound giusto per creare in cucina!
 
-172 songs - 9 hr 57 min
+173 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Mi Swing es Tropical](https://open.spotify.com/track/3zK2IUdvnOaKWC3yCP0P3C) | [Nickodemus](https://open.spotify.com/artist/4VNKVCluxMcjqwYJm3yuQ3), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Tempo](https://open.spotify.com/artist/3vfmc1eVYcXWTUl25loS0O) | [Endangered Species \(Bonus Edition\)](https://open.spotify.com/album/37XWqnkktzlWXa5JGp7zF3) | 3:42 | 2020-11-10 |  |
 | [Minha Teimosia, Uma Arma Pra Te Conquistar](https://open.spotify.com/track/7eXRfKOGzMRe6P2jg0Nua6) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Puro Suingue](https://open.spotify.com/album/1ZuHENR1CaI9ApzDv4mSbv) | 2:42 | 2020-11-10 | 2022-07-29 |
 | [Na Tonga Da Mironga Do Kabulete](https://open.spotify.com/track/7lSuOz8LjZ73RPzZKZCHaH) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Simonal](https://open.spotify.com/album/4N9B7IlhnCxzFxF1f4JcVa) | 3:12 | 2020-11-10 | 2022-07-29 |
+| [Nem Vem Que Não Tem](https://open.spotify.com/track/0oL8aqq5iRE5SnxdxJ6FbK) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Alegria, Alegria!!!](https://open.spotify.com/album/2dSvUYyuZGDO2yVYXuhSPh) | 2:32 | 2020-11-10 |  |
 | [Nem Vem Que Não Tem \- Ao Vivo](https://open.spotify.com/track/4D9uQHmo0HA8yRtU7NuFAz) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Alegria, Alegria!!!](https://open.spotify.com/album/16XSVHKfgfOzG7tYyZhqOz) | 2:32 | 2020-11-10 | 2022-07-29 |
 | [No Me Den Candela](https://open.spotify.com/track/1NKjjz8SHggPHXF6DnlabU) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Guisando: Doing A Job](https://open.spotify.com/album/5cIig3BrjPvDMpMRZR7a9G) | 7:09 | 2020-11-10 | 2022-11-13 |
 | [O Bêbado e a Equilibrista](https://open.spotify.com/track/3bgRCx8adxUZT7It3ryrWU) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH), [Angela Maria](https://open.spotify.com/artist/4SKChJZZUJd8fD4ZbkpL6l) | [Linha De Passe](https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH) | 3:20 | 2020-11-10 |  |
@@ -130,7 +131,7 @@
 | [Por Causa De Você, Menina](https://open.spotify.com/track/0YojqXjn4xb5hblpFAhqJr) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Samba Esquema Novo](https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy) | 2:47 | 2020-11-10 |  |
 | [Por Causa De Você, Menina](https://open.spotify.com/track/51f61zJRO9fzhrOfuZwH9p) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Samba Esquema Novo](https://open.spotify.com/album/5DzN3DoIBM14NTKym7g0Pa) | 2:47 | 2020-11-10 | 2022-07-27 |
 | [Quando você chegar](https://open.spotify.com/track/3S15asiD5pqbEp4mb9tMxa) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Dois Momentos](https://open.spotify.com/album/2Q76MOA6Hs8KPk3brm8V6I) | 3:18 | 2020-11-10 |  |
-| [Que Beleza](https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia](https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8) | 3:28 | 2020-11-10 |  |
+| [Que Beleza](https://open.spotify.com/track/0IY5lHDP46LTWfEwu66TZd) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia](https://open.spotify.com/album/0q41u8oMFT9Ewr2tqGnmL8) | 3:28 | 2020-11-10 | 2023-12-26 |
 | [Que Beleza](https://open.spotify.com/track/420zub6oHvl246UpV2gN7H) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [World Psychedelic Classics 4: Nobody Can Live Forever: The Existential Soul of Tim Maia](https://open.spotify.com/album/0NxPZv3nWPBMk1o51GfwEY) | 3:28 | 2020-11-10 | 2022-07-29 |
 | [Que Beleza](https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Que Beleza](https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK) | 3:28 | 2020-11-10 | 2022-11-13 |
 | [Que No Quede Huella](https://open.spotify.com/track/28EWM0qJ09oupIAhNEeLlK) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Qué Chévere, Vol\. 2](https://open.spotify.com/album/7kwDYvYAr3mh2HjR00DCDU) | 3:39 | 2020-11-10 |  |

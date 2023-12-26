@@ -1,12 +1,12 @@
 {
   "description": "Nacimos para rodar en el asfalto. ",
-  "num_followers": 80242,
+  "num_followers": 80409,
   "original_name": "Las Choppers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2I4ZTdjZDk5OGIyY2E3ZDY5ODlmZTRkYzJjMDYyMzlmYWI2YTI3",
+  "snapshot_id": "MCwwN2YxYzUxMjdkMDlkZTA0ZjMyNWE4OWVhNzUyZTY0NDExZjNlZTU0",
   "tracks": [
     {
       "added_at": "2023-04-21 06:00:00",
@@ -171,38 +171,6 @@
     {
       "added_at": "2023-04-21 06:00:00",
       "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 210173,
-      "name": "You Shook Me All Night Long",
-      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
-    },
-    {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
-        "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
-        "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 293183,
-      "name": "Crazy Train",
-      "url": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU"
-    },
-    {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
         "name": "I Love Rock 'N' Roll (Expanded Edition)",
         "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
       },
@@ -215,6 +183,22 @@
       "duration_ms": 175173,
       "name": "I Love Rock 'N Roll",
       "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "You Shook Me All Night Long",
+      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
     },
     {
       "added_at": "2023-04-21 06:00:00",
@@ -235,6 +219,22 @@
     {
       "added_at": "2023-04-21 06:00:00",
       "album": {
+        "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
+        "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 293183,
+      "name": "Crazy Train",
+      "url": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
         "name": "Dr. Feelgood (Deluxe Version)",
         "url": "https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe"
       },
@@ -247,22 +247,6 @@
       "duration_ms": 282653,
       "name": "Kickstart My Heart",
       "url": "https://open.spotify.com/track/65HA9FsYyA2xro9RzNlNmy"
-    },
-    {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
-        "name": "High Voltage",
-        "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 214666,
-      "name": "T.N.T.",
-      "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
     },
     {
       "added_at": "2023-04-21 06:00:00",
@@ -283,22 +267,6 @@
     {
       "added_at": "2023-04-21 06:00:00",
       "album": {
-        "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 220310,
-      "name": "Walk This Way",
-      "url": "https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn"
-    },
-    {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
         "name": "Strange Days",
         "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
       },
@@ -311,6 +279,22 @@
       "duration_ms": 130173,
       "name": "People Are Strange",
       "url": "https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 220310,
+      "name": "Walk This Way",
+      "url": "https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn"
     },
     {
       "added_at": "2023-04-21 06:00:00",
@@ -359,6 +343,22 @@
       "duration_ms": 300400,
       "name": "Baba O'Riley",
       "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
+        "name": "High Voltage",
+        "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 214666,
+      "name": "T.N.T.",
+      "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
     },
     {
       "added_at": "2023-04-21 06:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-04-21 06:00:00",
       "album": {
-        "name": "Cowboys from Hell",
-        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 243533,
-      "name": "Cowboys from Hell",
-      "url": "https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop"
-    },
-    {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
         "name": "Trash",
         "url": "https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 270080,
       "name": "Poison",
       "url": "https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
+        "name": "Cowboys from Hell",
+        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 243533,
+      "name": "Cowboys from Hell",
+      "url": "https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop"
     },
     {
       "added_at": "2023-04-21 06:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-04-21 06:00:00",
       "album": {
-        "name": "Shout At The Devil",
-        "url": "https://open.spotify.com/album/61tegsknhtO0WKmkyPqvly"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 194986,
-      "name": "Shout at the Devil",
-      "url": "https://open.spotify.com/track/4VFNyv0nVew5C878WDsPvE"
-    },
-    {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
         "name": "Steppenwolf",
         "url": "https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 212893,
       "name": "Born To Be Wild - Single Version",
       "url": "https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
+        "name": "Shout At The Devil",
+        "url": "https://open.spotify.com/album/61tegsknhtO0WKmkyPqvly"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 194986,
+      "name": "Shout at the Devil",
+      "url": "https://open.spotify.com/track/4VFNyv0nVew5C878WDsPvE"
     },
     {
       "added_at": "2023-04-21 06:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-04-21 06:00:00",
       "album": {
-        "name": "Wolfmother",
-        "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
-      },
-      "artists": [
-        {
-          "name": "Wolfmother",
-          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
-        }
-      ],
-      "duration_ms": 176306,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/3CkjLJYnnyOtGk4Jx4iYS4"
-    },
-    {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
         "name": "Balls To The Wall",
         "url": "https://open.spotify.com/album/2twCPCDGJjVD90GWUjA8vN"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 342600,
       "name": "Balls to the Wall",
       "url": "https://open.spotify.com/track/2dbOYFfS7r7NAzquRvji9A"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
+        "name": "Wolfmother",
+        "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
+      },
+      "artists": [
+        {
+          "name": "Wolfmother",
+          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
+        }
+      ],
+      "duration_ms": 176306,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/3CkjLJYnnyOtGk4Jx4iYS4"
     },
     {
       "added_at": "2023-04-21 06:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-04-21 06:00:00",
       "album": {
-        "name": "Fear of the Dark (2015 Remaster)",
-        "url": "https://open.spotify.com/album/4qd2fhMwcTt2STGVvD4NBH"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 438120,
-      "name": "Fear of the Dark (2015 Remaster)",
-      "url": "https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt"
-    },
-    {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
         "name": "Too Fast For Love",
         "url": "https://open.spotify.com/album/0UcyqmHNn536yy8boNihhb"
       },
@@ -1131,6 +1115,22 @@
     {
       "added_at": "2023-04-21 06:00:00",
       "album": {
+        "name": "Fear of the Dark (2015 Remaster)",
+        "url": "https://open.spotify.com/album/4qd2fhMwcTt2STGVvD4NBH"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 438120,
+      "name": "Fear of the Dark (2015 Remaster)",
+      "url": "https://open.spotify.com/track/2vlFd6wPsR3xvWPCOE0dQt"
+    },
+    {
+      "added_at": "2023-04-21 06:00:00",
+      "album": {
         "name": "The Essential Cheap Trick",
         "url": "https://open.spotify.com/album/37P9MBdJRekfOIbPSX9alR"
       },
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-04-21 06:00:00",
       "album": {
-        "name": "Piece of Mind (2015 Remaster)",
-        "url": "https://open.spotify.com/album/0wza6LbioNIj4FsDAIDz66"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 230760,
-      "name": "Flight of Icarus (2015 Remaster)",
-      "url": "https://open.spotify.com/track/3OmdRcmtINXx1JP9Km7W9H"
-    },
-    {
-      "added_at": "2023-04-21 06:00:00",
-      "album": {
         "name": "Whitesnake (30th Anniversary Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/0aaGy4xNDYJ1QLllH7mSNp"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 232133,
       "name": "Here I Go Again - Radio Mix",
       "url": "https://open.spotify.com/track/6m8FEpCFkSrzhH1W3R2yKU"
+    },
+    {
+      "added_at": "2023-06-13 18:30:22",
+      "album": {
+        "name": "What's Love Got To Do With It",
+        "url": "https://open.spotify.com/album/7uU2XaLVRgtHcBahv0JlvQ"
+      },
+      "artists": [
+        {
+          "name": "Black Stone Cherry",
+          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
+        }
+      ],
+      "duration_ms": 199725,
+      "name": "What's Love Got To Do With It",
+      "url": "https://open.spotify.com/track/09c29n43dZdj4MaBcx3C92"
     },
     {
       "added_at": "2023-04-21 06:00:00",

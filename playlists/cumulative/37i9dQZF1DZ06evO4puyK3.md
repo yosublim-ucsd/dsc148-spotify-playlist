@@ -4,7 +4,7 @@
 
 > This is Gloria Groove\. The essential tracks, all in one playlist.
 
-59 songs - 3 hr 16 min
+60 songs - 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [Pimenta](https://open.spotify.com/track/0By9H1WMJpcKgos5rZSzRC) | [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Nitro](https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y) | 2:42 | 2023-11-10 | 2023-12-14 |
 | [PLANETA OUSADIA](https://open.spotify.com/track/38Dkqi7IYUm3DDyt4tfDcf) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 2:32 | 2023-12-13 |  |
 | [Poesia Acústica 14](https://open.spotify.com/track/0Co2c6T1U06m4wLT6kOxdc) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Poesia Acústica 14](https://open.spotify.com/album/4VM4tFlf3F3rAQfbJDvqnN) | 14:09 | 2023-11-10 |  |
-| [Presente do Céu](https://open.spotify.com/track/2jeJEX0LGu46B3vTthPsrL) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Infinito 2021, Vol.2](https://open.spotify.com/album/2N8l2cxeIlx0LKzQGUGQjy) | 4:13 | 2023-11-10 |  |
+| [Presente do Céu](https://open.spotify.com/track/2jeJEX0LGu46B3vTthPsrL) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Infinito 2021, Vol.2](https://open.spotify.com/album/2N8l2cxeIlx0LKzQGUGQjy) | 4:13 | 2023-11-10 | 2023-12-26 |
+| [Presente do Céu](https://open.spotify.com/track/6KkAL46I43zqQEK2LNH0pJ) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Presente do Céu](https://open.spotify.com/album/0QmzwHqNp2HToWwJtywIDu) | 4:13 | 2023-12-25 |  |
 | [PROIBIDONA](https://open.spotify.com/track/090GUuqAuh7Vje3V745nep) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Valesca Popozuda](https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu) | [PROIBIDONA](https://open.spotify.com/album/4uE5CGnjimzfh5m40ullYU) | 2:37 | 2023-11-10 |  |
 | [Provocar](https://open.spotify.com/track/28SWsF1IQxfc9bP5yua35K) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Provocar](https://open.spotify.com/album/332UyyUgVxTrm29u44ZvtO) | 2:48 | 2023-11-10 |  |
 | [Radar](https://open.spotify.com/track/5l4GTT4tLccGiZE3KGjlg4) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Affair](https://open.spotify.com/album/1uyLEC5sd3Mdyvu0iCvirh) | 3:02 | 2023-11-10 |  |

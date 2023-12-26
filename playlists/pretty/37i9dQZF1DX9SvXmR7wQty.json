@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOWE2ZWQzNjc0NmU3ZjBiNWIyYjJkNDU1MDE0NGQwYmJlNGU0ZWMx",
+  "snapshot_id": "MCw0NTVkZjc5YzkwMDhkODVjOGM5Njg4NjhiYWNhNGZkMTE3MDdhNjYz",
   "tracks": [
     {
       "added_at": "2023-12-22 05:00:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 254800,
-      "name": "MAGHRIBI",
-      "url": "https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "P\u00e9riph",
         "url": "https://open.spotify.com/album/4ImOyHSUym1ZFnmV3SKXDI"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 168849,
       "name": "P\u00e9riph",
       "url": "https://open.spotify.com/track/0J8Ff1p7vpxBMLnZuAwAUb"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 254800,
+      "name": "MAGHRIBI",
+      "url": "https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -275,26 +275,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "TRAP$TAR 3",
-        "url": "https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5"
-      },
-      "artists": [
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 160858,
-      "name": "Dans le noir",
-      "url": "https://open.spotify.com/track/70bMoHeE4bJ8AwP3qrUe1F"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "AMBITION",
         "url": "https://open.spotify.com/album/48JSJ6nOB4SegSt9Gs2cZY"
       },
@@ -311,6 +291,26 @@
       "duration_ms": 175946,
       "name": "DIS-MOI (feat. SDM)",
       "url": "https://open.spotify.com/track/72EzFi8h1H2MImmS2ZoSTr"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "TRAP$TAR 3",
+        "url": "https://open.spotify.com/album/1Wk9tbsibudYX1zKKGdDV5"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        },
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        }
+      ],
+      "duration_ms": 160858,
+      "name": "Dans le noir",
+      "url": "https://open.spotify.com/track/70bMoHeE4bJ8AwP3qrUe1F"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -351,26 +351,6 @@
       "duration_ms": 159299,
       "name": "\u00c7a c'est bien",
       "url": "https://open.spotify.com/track/1CFcahfucbIGHRzLOP3qYX"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "DELLALI (feat. Hamza)",
-        "url": "https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        },
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        }
-      ],
-      "duration_ms": 182037,
-      "name": "DELLALI (feat. Hamza)",
-      "url": "https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -455,6 +435,26 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
+        "name": "DELLALI (feat. Hamza)",
+        "url": "https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "duration_ms": 182037,
+      "name": "DELLALI (feat. Hamza)",
+      "url": "https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
         "name": "Au suivant",
         "url": "https://open.spotify.com/album/6ckMeHqNLxSIHSWVpXQyA7"
       },
@@ -483,6 +483,26 @@
       "duration_ms": 177791,
       "name": "PROTOCOLE - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2wzrkGLKgMbkRYRw8bo0HX"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Le chemin - 20 ans",
+        "url": "https://open.spotify.com/album/1YK3ZdEdUsSgRTwEG9yZVz"
+      },
+      "artists": [
+        {
+          "name": "Kyo",
+          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
+        },
+        {
+          "name": "Nuit Incolore",
+          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
+        }
+      ],
+      "duration_ms": 170026,
+      "name": "Je cours (feat. Nuit Incolore)",
+      "url": "https://open.spotify.com/track/3SIwPysPwGNDZmNyyf1dwG"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -519,26 +539,6 @@
       "duration_ms": 202886,
       "name": "I Got U (feat. Niska)",
       "url": "https://open.spotify.com/track/1jSJOq8PEYMnSdonuMz4eK"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Le chemin - 20 ans",
-        "url": "https://open.spotify.com/album/1YK3ZdEdUsSgRTwEG9yZVz"
-      },
-      "artists": [
-        {
-          "name": "Kyo",
-          "url": "https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok"
-        },
-        {
-          "name": "Nuit Incolore",
-          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
-        }
-      ],
-      "duration_ms": 170026,
-      "name": "Je cours (feat. Nuit Incolore)",
-      "url": "https://open.spotify.com/track/3SIwPysPwGNDZmNyyf1dwG"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Maman savait",
-        "url": "https://open.spotify.com/album/5lDkKa1xngzmFwJou4LLFH"
-      },
-      "artists": [
-        {
-          "name": "Benab",
-          "url": "https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY"
-        }
-      ],
-      "duration_ms": 178519,
-      "name": "Maman savait",
-      "url": "https://open.spotify.com/track/2rWe6Sf38aKWjmP6hTIy9U"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "Yemma",
         "url": "https://open.spotify.com/album/1kPducajpmz3HQOF9e8BoA"
       },
@@ -707,18 +691,18 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "CRASH C\u0152UR",
-        "url": "https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK"
+        "name": "Maman savait",
+        "url": "https://open.spotify.com/album/5lDkKa1xngzmFwJou4LLFH"
       },
       "artists": [
         {
-          "name": "Eddy de Pretto",
-          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
+          "name": "Benab",
+          "url": "https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY"
         }
       ],
-      "duration_ms": 169640,
-      "name": "CRASH <3",
-      "url": "https://open.spotify.com/track/3qxpjvGzwjP4b6EDYLaon6"
+      "duration_ms": 178519,
+      "name": "Maman savait",
+      "url": "https://open.spotify.com/track/2rWe6Sf38aKWjmP6hTIy9U"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -735,6 +719,22 @@
       "duration_ms": 152200,
       "name": "MONEY MAKER",
       "url": "https://open.spotify.com/track/3WM94J8wiCVZxGcHEHzAej"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "CRASH C\u0152UR",
+        "url": "https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK"
+      },
+      "artists": [
+        {
+          "name": "Eddy de Pretto",
+          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
+        }
+      ],
+      "duration_ms": 169640,
+      "name": "CRASH <3",
+      "url": "https://open.spotify.com/track/3qxpjvGzwjP4b6EDYLaon6"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Que ta t\u00eate fleurisse toujours",
-        "url": "https://open.spotify.com/album/2FuPctpcSia7TyA1liF27u"
-      },
-      "artists": [
-        {
-          "name": "MIKA",
-          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
-        }
-      ],
-      "duration_ms": 197053,
-      "name": "Bougez",
-      "url": "https://open.spotify.com/track/2NmHMbZ6LRvyvTY0nbalfg"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "Life Is Life (C'est la vie)",
         "url": "https://open.spotify.com/album/0wGjk4xe1uiNbW3DxehqNy"
       },
@@ -807,54 +791,18 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Comme \u00e7a",
-        "url": "https://open.spotify.com/album/0wXuAfHyW6b04NTj1CjUYt"
+        "name": "Que ta t\u00eate fleurisse toujours",
+        "url": "https://open.spotify.com/album/2FuPctpcSia7TyA1liF27u"
       },
       "artists": [
         {
-          "name": "Rsko",
-          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+          "name": "MIKA",
+          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
         }
       ],
-      "duration_ms": 151346,
-      "name": "Comme \u00e7a",
-      "url": "https://open.spotify.com/track/5FLLf89AfmWazFDM6ojiGk"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Joli coeur",
-        "url": "https://open.spotify.com/album/2r0jcbln2gKoim766i3rsd"
-      },
-      "artists": [
-        {
-          "name": "Ronisia",
-          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Joli coeur",
-      "url": "https://open.spotify.com/track/00YhQePKpHGPqcnmYxIj0x"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "LUEUR & ESPOIR",
-        "url": "https://open.spotify.com/album/7Mheug4iMEyK1hPsQJ7bsi"
-      },
-      "artists": [
-        {
-          "name": "H\u00f6s Copperfield",
-          "url": "https://open.spotify.com/artist/4fn6Kez1kGOO74vNuKrvCU"
-        },
-        {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
-        }
-      ],
-      "duration_ms": 194153,
-      "name": "ON EN REPARLERA",
-      "url": "https://open.spotify.com/track/3xqTtUkGP8rjdnZHBbSNJJ"
+      "duration_ms": 197053,
+      "name": "Bougez",
+      "url": "https://open.spotify.com/track/2NmHMbZ6LRvyvTY0nbalfg"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -875,6 +823,58 @@
       "duration_ms": 341560,
       "name": "\u00c0 La Faveur De L'automne",
       "url": "https://open.spotify.com/track/0DguFFo4yDAe2P8KfyCHTe"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Joli coeur",
+        "url": "https://open.spotify.com/album/2r0jcbln2gKoim766i3rsd"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "Joli coeur",
+      "url": "https://open.spotify.com/track/00YhQePKpHGPqcnmYxIj0x"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Comme \u00e7a",
+        "url": "https://open.spotify.com/album/0wXuAfHyW6b04NTj1CjUYt"
+      },
+      "artists": [
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        }
+      ],
+      "duration_ms": 151346,
+      "name": "Comme \u00e7a",
+      "url": "https://open.spotify.com/track/5FLLf89AfmWazFDM6ojiGk"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "LUEUR & ESPOIR",
+        "url": "https://open.spotify.com/album/7Mheug4iMEyK1hPsQJ7bsi"
+      },
+      "artists": [
+        {
+          "name": "H\u00f6s Copperfield",
+          "url": "https://open.spotify.com/artist/4fn6Kez1kGOO74vNuKrvCU"
+        },
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "duration_ms": 194153,
+      "name": "ON EN REPARLERA",
+      "url": "https://open.spotify.com/track/3xqTtUkGP8rjdnZHBbSNJJ"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Avec elle",
-        "url": "https://open.spotify.com/album/3zVzY7IdtotQVKGCPOUiBg"
+        "name": "Jane Birkin",
+        "url": "https://open.spotify.com/album/2oN1NPHrJDWBFeUiG0phb2"
       },
       "artists": [
         {
-          "name": "GLK",
-          "url": "https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez"
+          "name": "MIKA",
+          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
         }
       ],
-      "duration_ms": 166299,
-      "name": "Avec elle",
-      "url": "https://open.spotify.com/track/2cjMxpKD3fAmM0iZPWHJri"
+      "duration_ms": 196546,
+      "name": "Jane Birkin",
+      "url": "https://open.spotify.com/track/4xsVpeTSTh64G82qf2HHaF"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

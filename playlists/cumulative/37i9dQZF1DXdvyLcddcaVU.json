@@ -2360,10 +2360,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 203093,
       "name": "La Chenille Synchro (La Cheu-Cheu)",
       "url": "https://open.spotify.com/track/2hhrIFCQonuVWKj7wMfnHt"
+    },
+    {
+      "album": {
+        "name": "La Chenille Synchro (La Cheu-Cheu)",
+        "url": "https://open.spotify.com/album/4Ijge3supi4RJtaNotI4N2"
+      },
+      "artists": [
+        {
+          "name": "La Pig chenilliste",
+          "url": "https://open.spotify.com/artist/5W17mS8dkwPr3D7RDT2d4a"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203093,
+      "name": "La Chenille Synchro (La Cheu-Cheu)",
+      "url": "https://open.spotify.com/track/7tOKLFOf8RW3ttYXFS8xeM"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Thalia ",
-  "num_followers": 501190,
+  "num_followers": 501209,
   "original_name": "Las Chacalosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MmMzNDdkOTJhM2ZmMTkyMDRjOWUyNzkyZWQ5NDJiZGE4MmM2NThi",
+  "snapshot_id": "MCxjMGJiMGRmNTliMjUwY2Q0Yzc5YjlkMGRiNDQ0ODlmYTQ5MWZiOTgx",
   "tracks": [
     {
       "added_at": "2023-12-08 17:59:24",
@@ -151,18 +151,22 @@
     {
       "added_at": "2023-12-08 17:59:24",
       "album": {
-        "name": "Mentirme",
-        "url": "https://open.spotify.com/album/5SFNFxzjXy4C2RB5WHKT3Y"
+        "name": "CHANEL",
+        "url": "https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo"
       },
       "artists": [
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 188087,
-      "name": "Mentirme",
-      "url": "https://open.spotify.com/track/0ObFC2XXTtE8k9sLVnV9LY"
+      "duration_ms": 201993,
+      "name": "CHANEL",
+      "url": "https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY"
     },
     {
       "added_at": "2023-12-08 17:59:24",
@@ -219,38 +223,6 @@
     {
       "added_at": "2023-12-08 17:59:24",
       "album": {
-        "name": "No Se Puede Decir Adi\u00f3s / Nuestra Canci\u00f3n",
-        "url": "https://open.spotify.com/album/2hajlGHDWlqIzHh1bvST29"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 164135,
-      "name": "No Se Puede Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/1B9Y0b1XIyw6jci2C7oTJc"
-    },
-    {
-      "added_at": "2023-12-08 17:59:24",
-      "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 244642,
-      "name": "Ah\u00ed Donde Me Ven",
-      "url": "https://open.spotify.com/track/2HsN4JUcjkdVKyafNlu7pL"
-    },
-    {
-      "added_at": "2023-12-08 17:59:24",
-      "album": {
         "name": "Ll\u00e9vate",
         "url": "https://open.spotify.com/album/7MUSVV4fqHvAad5HZdy0kD"
       },
@@ -271,18 +243,34 @@
     {
       "added_at": "2023-12-08 17:59:24",
       "album": {
-        "name": "Camila Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq"
+        "name": "Mentirme",
+        "url": "https://open.spotify.com/album/5SFNFxzjXy4C2RB5WHKT3Y"
       },
       "artists": [
         {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 221826,
-      "name": "Aqu\u00ed Lo Siento",
-      "url": "https://open.spotify.com/track/2mJiIQJB2GUdl7gtPf0rWt"
+      "duration_ms": 188087,
+      "name": "Mentirme",
+      "url": "https://open.spotify.com/track/0ObFC2XXTtE8k9sLVnV9LY"
+    },
+    {
+      "added_at": "2023-12-08 17:59:24",
+      "album": {
+        "name": "No Se Puede Decir Adi\u00f3s / Nuestra Canci\u00f3n",
+        "url": "https://open.spotify.com/album/2hajlGHDWlqIzHh1bvST29"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 164135,
+      "name": "No Se Puede Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1B9Y0b1XIyw6jci2C7oTJc"
     },
     {
       "added_at": "2023-12-08 17:59:24",
@@ -315,6 +303,22 @@
       "duration_ms": 158146,
       "name": "PORQUE SOY ABEJA REINA",
       "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
+    },
+    {
+      "added_at": "2023-12-08 17:59:24",
+      "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 244642,
+      "name": "Ah\u00ed Donde Me Ven",
+      "url": "https://open.spotify.com/track/2HsN4JUcjkdVKyafNlu7pL"
     },
     {
       "added_at": "2023-12-08 17:59:24",
@@ -371,54 +375,18 @@
     {
       "added_at": "2023-12-08 17:59:24",
       "album": {
-        "name": "Te mereces un amor",
-        "url": "https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF"
+        "name": "Simplemente la Mejor",
+        "url": "https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu"
       },
       "artists": [
         {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 224160,
-      "name": "La Casa de la Esquina",
-      "url": "https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa"
-    },
-    {
-      "added_at": "2023-12-08 17:59:24",
-      "album": {
-        "name": "Cambiaste",
-        "url": "https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 174817,
-      "name": "Cambiaste",
-      "url": "https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8"
-    },
-    {
-      "added_at": "2023-12-08 17:59:24",
-      "album": {
-        "name": "CHANEL",
-        "url": "https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 201993,
-      "name": "CHANEL",
-      "url": "https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY"
+      "duration_ms": 220173,
+      "name": "La Chacalosa",
+      "url": "https://open.spotify.com/track/78thkAb46Sm4s67EW6kDby"
     },
     {
       "added_at": "2023-12-08 17:59:24",
@@ -439,18 +407,50 @@
     {
       "added_at": "2023-12-08 17:59:24",
       "album": {
-        "name": "Simplemente la Mejor",
-        "url": "https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu"
+        "name": "Cambiaste",
+        "url": "https://open.spotify.com/album/0fvaFUHPvCuZnkvspk2Uxj"
       },
       "artists": [
         {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
         }
       ],
-      "duration_ms": 220173,
-      "name": "La Chacalosa",
-      "url": "https://open.spotify.com/track/78thkAb46Sm4s67EW6kDby"
+      "duration_ms": 174817,
+      "name": "Cambiaste",
+      "url": "https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8"
+    },
+    {
+      "added_at": "2023-12-08 17:59:24",
+      "album": {
+        "name": "Camila Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/1x6Dtb9QaGaGDTCzfSpmjq"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 221826,
+      "name": "Aqu\u00ed Lo Siento",
+      "url": "https://open.spotify.com/track/2mJiIQJB2GUdl7gtPf0rWt"
+    },
+    {
+      "added_at": "2023-12-08 17:59:24",
+      "album": {
+        "name": "Te mereces un amor",
+        "url": "https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "duration_ms": 224160,
+      "name": "La Casa de la Esquina",
+      "url": "https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa"
     },
     {
       "added_at": "2023-12-08 17:59:24",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-12-08 17:59:24",
       "album": {
-        "name": "Quiz\u00e1s Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/09JmTJCZF852vM3wsiO5iw"
-      },
-      "artists": [
-        {
-          "name": "Aida Cuevas",
-          "url": "https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr"
-        }
-      ],
-      "duration_ms": 275064,
-      "name": "Quiz\u00e1s Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/4Jze2pgd8QU9XHjzFCIFKL"
-    },
-    {
-      "added_at": "2023-12-08 17:59:24",
-      "album": {
         "name": "Me Vas A Llorar",
         "url": "https://open.spotify.com/album/0yzGGAC5CZLqUHLge7iG9U"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 191040,
       "name": "Me Vas A Llorar",
       "url": "https://open.spotify.com/track/1VIph3fB2xdpCT7q9XTQY4"
+    },
+    {
+      "added_at": "2023-12-08 17:59:24",
+      "album": {
+        "name": "Quiz\u00e1s Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/09JmTJCZF852vM3wsiO5iw"
+      },
+      "artists": [
+        {
+          "name": "Aida Cuevas",
+          "url": "https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr"
+        }
+      ],
+      "duration_ms": 275064,
+      "name": "Quiz\u00e1s Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/4Jze2pgd8QU9XHjzFCIFKL"
     },
     {
       "added_at": "2023-12-08 17:59:24",
@@ -575,26 +575,6 @@
     {
       "added_at": "2023-12-08 17:59:24",
       "album": {
-        "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
-        "url": "https://open.spotify.com/album/5yVQrHPHs6fVqkeNDHrbQO"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        },
-        {
-          "name": "Mari\u00e1n Oviedo",
-          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
-        }
-      ],
-      "duration_ms": 180773,
-      "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
-      "url": "https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq"
-    },
-    {
-      "added_at": "2023-12-08 17:59:24",
-      "album": {
         "name": "Al No Tenerte",
         "url": "https://open.spotify.com/album/4eQvcIFA0g1LN7lGWm4JgH"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 172514,
       "name": "Reza y Reza",
       "url": "https://open.spotify.com/track/5E6xWFQoze67ByZgxsuNoM"
+    },
+    {
+      "added_at": "2023-12-08 17:59:24",
+      "album": {
+        "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
+        "url": "https://open.spotify.com/album/5yVQrHPHs6fVqkeNDHrbQO"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        },
+        {
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+        }
+      ],
+      "duration_ms": 180773,
+      "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
+      "url": "https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq"
     },
     {
       "added_at": "2023-12-08 17:59:24",
@@ -675,6 +675,26 @@
     {
       "added_at": "2023-12-08 17:59:24",
       "album": {
+        "name": "Tres Mundos",
+        "url": "https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk"
+      },
+      "artists": [
+        {
+          "name": "Conexi\u00f3n Divina",
+          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 163875,
+      "name": "Paso A Pasito",
+      "url": "https://open.spotify.com/track/098EZ7cByfKymuAiMKtOmR"
+    },
+    {
+      "added_at": "2023-12-08 17:59:24",
+      "album": {
         "name": "No Me Lamentare",
         "url": "https://open.spotify.com/album/7Bl7KTEP0tDvSLfLbYhn1O"
       },
@@ -723,6 +743,22 @@
     {
       "added_at": "2023-12-08 17:59:24",
       "album": {
+        "name": "La Chacalosa",
+        "url": "https://open.spotify.com/album/3mmYCTs2YEuJPnXyJpNEJT"
+      },
+      "artists": [
+        {
+          "name": "Janely Rosa",
+          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
+        }
+      ],
+      "duration_ms": 213713,
+      "name": "La Chacalosa",
+      "url": "https://open.spotify.com/track/5vuVl4GyBzqurNoUmVmWfC"
+    },
+    {
+      "added_at": "2023-12-08 17:59:24",
+      "album": {
         "name": "Esto Es Lo M\u00edo",
         "url": "https://open.spotify.com/album/2LiyZ5nz5himXbdbSVJUl9"
       },
@@ -755,26 +791,6 @@
     {
       "added_at": "2023-12-08 17:59:24",
       "album": {
-        "name": "Tres Mundos",
-        "url": "https://open.spotify.com/album/7lqP8rWIsrsWgpWRF0ghdk"
-      },
-      "artists": [
-        {
-          "name": "Conexi\u00f3n Divina",
-          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 163875,
-      "name": "Paso A Pasito",
-      "url": "https://open.spotify.com/track/098EZ7cByfKymuAiMKtOmR"
-    },
-    {
-      "added_at": "2023-12-08 17:59:24",
-      "album": {
         "name": "La Bruja",
         "url": "https://open.spotify.com/album/5Z4EYnTJp3voZ3WJfGC4qN"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 225429,
       "name": "La Bruja",
       "url": "https://open.spotify.com/track/1xEegNpwiCLVredTcyJ4sj"
-    },
-    {
-      "added_at": "2023-12-08 17:59:24",
-      "album": {
-        "name": "La Chacalosa",
-        "url": "https://open.spotify.com/album/3mmYCTs2YEuJPnXyJpNEJT"
-      },
-      "artists": [
-        {
-          "name": "Janely Rosa",
-          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
-        }
-      ],
-      "duration_ms": 213713,
-      "name": "La Chacalosa",
-      "url": "https://open.spotify.com/track/5vuVl4GyBzqurNoUmVmWfC"
     },
     {
       "added_at": "2023-12-08 17:59:24",
@@ -839,6 +839,22 @@
     {
       "added_at": "2023-12-08 17:59:24",
       "album": {
+        "name": "Ahora Va La M\u00eda",
+        "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
+      },
+      "artists": [
+        {
+          "name": "Marisol Terrazas",
+          "url": "https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok"
+        }
+      ],
+      "duration_ms": 206960,
+      "name": "Si Quieres Verme Llorar",
+      "url": "https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4"
+    },
+    {
+      "added_at": "2023-12-08 17:59:24",
+      "album": {
         "name": "Se Acabo (En Vivo)",
         "url": "https://open.spotify.com/album/2zFaRfokK5hhre6SV3EQEq"
       },
@@ -859,22 +875,6 @@
     {
       "added_at": "2023-12-08 17:59:24",
       "album": {
-        "name": "Ahora Va La M\u00eda",
-        "url": "https://open.spotify.com/album/6oqlFEjgYbCrsMBPiH0NID"
-      },
-      "artists": [
-        {
-          "name": "Marisol Terrazas",
-          "url": "https://open.spotify.com/artist/3PRQE4Qyt7YF67ElSNxYok"
-        }
-      ],
-      "duration_ms": 206960,
-      "name": "Si Quieres Verme Llorar",
-      "url": "https://open.spotify.com/track/7pPa674i4GIa5v5nzwssk4"
-    },
-    {
-      "added_at": "2023-12-08 17:59:24",
-      "album": {
         "name": "Cambio De Canci\u00f3n",
         "url": "https://open.spotify.com/album/669yLYUn6jylypYi5lmge1"
       },
@@ -887,38 +887,6 @@
       "duration_ms": 169548,
       "name": "Cambio De Canci\u00f3n",
       "url": "https://open.spotify.com/track/5vd0rJM8Z0TcL4bu68vL6Q"
-    },
-    {
-      "added_at": "2023-12-08 17:59:24",
-      "album": {
-        "name": "No Me Pregunten Por \u00c9l",
-        "url": "https://open.spotify.com/album/3tF7QyTPnYypPP9LXAG5cm"
-      },
-      "artists": [
-        {
-          "name": "Diana Reyes",
-          "url": "https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz"
-        }
-      ],
-      "duration_ms": 191146,
-      "name": "No Me Pregunten Por \u00c9l",
-      "url": "https://open.spotify.com/track/5N3UilPh2Nsk5tx1VeotXs"
-    },
-    {
-      "added_at": "2023-12-08 17:59:24",
-      "album": {
-        "name": "Ese es el problema",
-        "url": "https://open.spotify.com/album/3HRiR4Wq9fXs5TO79UYy0f"
-      },
-      "artists": [
-        {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
-        }
-      ],
-      "duration_ms": 167075,
-      "name": "Ese es el problema",
-      "url": "https://open.spotify.com/track/1IGv4Ii6V0pg7rni1N5SJi"
     },
     {
       "added_at": "2023-12-08 17:59:24",
@@ -939,18 +907,34 @@
     {
       "added_at": "2023-12-08 17:59:24",
       "album": {
-        "name": "Tres Veces Te Enga\u00f1e",
-        "url": "https://open.spotify.com/album/7c375M7evTfsicTNfPV3Yw"
+        "name": "Ese es el problema",
+        "url": "https://open.spotify.com/album/3HRiR4Wq9fXs5TO79UYy0f"
       },
       "artists": [
         {
-          "name": "Sarah La Morena",
-          "url": "https://open.spotify.com/artist/7073ZEqNEhm0NGaGMnpbFQ"
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
         }
       ],
-      "duration_ms": 215999,
-      "name": "Tres Veces Te Enga\u00f1e",
-      "url": "https://open.spotify.com/track/4IqKKRx9af3qGiSC9rdqMz"
+      "duration_ms": 167075,
+      "name": "Ese es el problema",
+      "url": "https://open.spotify.com/track/1IGv4Ii6V0pg7rni1N5SJi"
+    },
+    {
+      "added_at": "2023-12-08 17:59:24",
+      "album": {
+        "name": "No Me Pregunten Por \u00c9l",
+        "url": "https://open.spotify.com/album/3tF7QyTPnYypPP9LXAG5cm"
+      },
+      "artists": [
+        {
+          "name": "Diana Reyes",
+          "url": "https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz"
+        }
+      ],
+      "duration_ms": 191146,
+      "name": "No Me Pregunten Por \u00c9l",
+      "url": "https://open.spotify.com/track/5N3UilPh2Nsk5tx1VeotXs"
     },
     {
       "added_at": "2023-12-08 17:59:24",
@@ -987,6 +971,22 @@
       "duration_ms": 198000,
       "name": "Cu\u00e9ntenle Mentiras",
       "url": "https://open.spotify.com/track/6ZSfTaJQ31jm7GSHTXvJVR"
+    },
+    {
+      "added_at": "2023-12-08 17:59:24",
+      "album": {
+        "name": "Tres Veces Te Enga\u00f1e",
+        "url": "https://open.spotify.com/album/7c375M7evTfsicTNfPV3Yw"
+      },
+      "artists": [
+        {
+          "name": "Sarah La Morena",
+          "url": "https://open.spotify.com/artist/7073ZEqNEhm0NGaGMnpbFQ"
+        }
+      ],
+      "duration_ms": 215999,
+      "name": "Tres Veces Te Enga\u00f1e",
+      "url": "https://open.spotify.com/track/4IqKKRx9af3qGiSC9rdqMz"
     },
     {
       "added_at": "2023-12-08 17:59:24",
@@ -1107,18 +1107,22 @@
     {
       "added_at": "2023-12-08 17:59:24",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/0QpwYU44Nddpi2WDn9RQAJ"
+        "name": "Te fallaste a ti",
+        "url": "https://open.spotify.com/album/6FjWfoVLhv46wEtQ52IKdH"
       },
       "artists": [
         {
-          "name": "Tania Dominguez",
-          "url": "https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v"
+          "name": "Erika Vidrio",
+          "url": "https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P"
+        },
+        {
+          "name": "Banda las Angelinas",
+          "url": "https://open.spotify.com/artist/6jSN6llBjMrAcneqaOvUtp"
         }
       ],
-      "duration_ms": 213711,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/37mNBPZC4ZzdzXmmrwjOoW"
+      "duration_ms": 182500,
+      "name": "Te fallaste a ti",
+      "url": "https://open.spotify.com/track/7tI5fhqWwyphmVVAmiAyg6"
     }
   ],
   "unique_name": "Las Chacalosas",

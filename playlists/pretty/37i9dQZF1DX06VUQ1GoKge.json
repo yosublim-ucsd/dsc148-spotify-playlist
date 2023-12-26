@@ -1,12 +1,12 @@
 {
   "description": "Attribute to the strength built through the years, as Robb would say.",
-  "num_followers": 560459,
+  "num_followers": 560408,
   "original_name": "Blood, Sweat & Cheers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDk1ZTdjMmZkYjRlOGZlNzg3OTQ2YWRmZDJkOGQ4NTA0ZGFkOTUy",
+  "snapshot_id": "MCxlMzViNDU3MzRjZWZmYzYyMGZhZDYxMmI5YmIyOWM5MjFkZDNjOWYz",
   "tracks": [
     {
       "added_at": "2023-11-30 20:35:14",
@@ -171,6 +171,22 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
+        "name": "Dr. Feelgood (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe"
+      },
+      "artists": [
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        }
+      ],
+      "duration_ms": 282653,
+      "name": "Kickstart My Heart",
+      "url": "https://open.spotify.com/track/65HA9FsYyA2xro9RzNlNmy"
+    },
+    {
+      "added_at": "2023-11-30 20:35:14",
+      "album": {
         "name": "Sinner",
         "url": "https://open.spotify.com/album/089oyV5caclve3ap934iRw"
       },
@@ -187,34 +203,18 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
-        "name": "Vol. 3: The Subliminal Verses",
-        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
+        "name": "Mezmerize",
+        "url": "https://open.spotify.com/album/0cn6MHyx4YuZauaB7Pb66o"
       },
       "artists": [
         {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         }
       ],
-      "duration_ms": 278600,
-      "name": "Before I Forget",
-      "url": "https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB"
-    },
-    {
-      "added_at": "2023-11-30 20:35:14",
-      "album": {
-        "name": "Dr. Feelgood (Deluxe Version)",
-        "url": "https://open.spotify.com/album/0VPad241NfcHMOXcRcLrDe"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 282653,
-      "name": "Kickstart My Heart",
-      "url": "https://open.spotify.com/track/65HA9FsYyA2xro9RzNlNmy"
+      "duration_ms": 255466,
+      "name": "B.Y.O.B.",
+      "url": "https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
-        "name": "Mezmerize",
-        "url": "https://open.spotify.com/album/0cn6MHyx4YuZauaB7Pb66o"
-      },
-      "artists": [
-        {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 255466,
-      "name": "B.Y.O.B.",
-      "url": "https://open.spotify.com/track/0EYOdF5FCkgOJJla8DI2Md"
-    },
-    {
-      "added_at": "2023-11-30 20:35:14",
-      "album": {
         "name": "Sehnsucht (Anniversary Edition - Remastered)",
         "url": "https://open.spotify.com/album/6hh5ax5BomINXGoi4q7FDP"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 235600,
       "name": "Du hast",
       "url": "https://open.spotify.com/track/6XcoiOYiNbIxzpt8WRxq8Z"
+    },
+    {
+      "added_at": "2023-11-30 20:35:14",
+      "album": {
+        "name": "Vol. 3: The Subliminal Verses",
+        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 278600,
+      "name": "Before I Forget",
+      "url": "https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
+        "name": "Cowboys from Hell",
+        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 243533,
+      "name": "Cowboys from Hell",
+      "url": "https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop"
+    },
+    {
+      "added_at": "2023-11-30 20:35:14",
+      "album": {
         "name": "Countdown To Extinction (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
       },
@@ -363,38 +379,6 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
-        "name": "TRAUMA",
-        "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 153613,
-      "name": "Gasoline",
-      "url": "https://open.spotify.com/track/6Q1m1GyNxyOwZ2ud3p7XoS"
-    },
-    {
-      "added_at": "2023-11-30 20:35:14",
-      "album": {
-        "name": "Cowboys from Hell",
-        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 243533,
-      "name": "Cowboys from Hell",
-      "url": "https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop"
-    },
-    {
-      "added_at": "2023-11-30 20:35:14",
-      "album": {
         "name": "City of Evil",
         "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 311813,
       "name": "Bat Country",
       "url": "https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7"
+    },
+    {
+      "added_at": "2023-11-30 20:35:14",
+      "album": {
+        "name": "TRAUMA",
+        "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 153613,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/6Q1m1GyNxyOwZ2ud3p7XoS"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
-        "name": "Iowa",
-        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "People = Shit",
-      "url": "https://open.spotify.com/track/0Y2i84QWPFiFHQfEQDgHya"
-    },
-    {
-      "added_at": "2023-11-30 20:35:14",
-      "album": {
         "name": "Metallica (Remastered)",
         "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 269533,
       "name": "Stranded",
       "url": "https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV"
+    },
+    {
+      "added_at": "2023-11-30 20:35:14",
+      "album": {
+        "name": "Iowa",
+        "url": "https://open.spotify.com/album/5Zs0mNCTs73CqPKbZPWFX9"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "People = Shit",
+      "url": "https://open.spotify.com/track/0Y2i84QWPFiFHQfEQDgHya"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
-        "name": "Sempiternal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "The House of Wolves",
-      "url": "https://open.spotify.com/track/7hntkdvG3jWdFKm7pGCCzd"
-    },
-    {
-      "added_at": "2023-11-30 20:35:14",
-      "album": {
         "name": "Primo Victoria (Re-Armed)",
         "url": "https://open.spotify.com/album/0XUH04WpLqnB0Q7Hep3aR0"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 250720,
       "name": "Primo Victoria",
       "url": "https://open.spotify.com/track/5DbAOJ5dYW5A9xBhkeb33t"
+    },
+    {
+      "added_at": "2023-11-30 20:35:14",
+      "album": {
+        "name": "Sempiternal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "The House of Wolves",
+      "url": "https://open.spotify.com/track/7hntkdvG3jWdFKm7pGCCzd"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
-        "name": "Darker Still",
-        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 261811,
-      "name": "Glitch",
-      "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0"
-    },
-    {
-      "added_at": "2023-11-30 20:35:14",
-      "album": {
         "name": "Cellar Door",
         "url": "https://open.spotify.com/album/5z9EQ9ABAqMmUVnOo7pDHt"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 283957,
       "name": "Cellar Door",
       "url": "https://open.spotify.com/track/2GWtLHhqPjvZt1aWiBDsTU"
+    },
+    {
+      "added_at": "2023-11-30 20:35:14",
+      "album": {
+        "name": "Darker Still",
+        "url": "https://open.spotify.com/album/36McCMdCRYn5j6iSMiqdG4"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 261811,
+      "name": "Glitch",
+      "url": "https://open.spotify.com/track/1jKH10ufuA4EzUCdobVxu0"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
+        "name": "The Gathering",
+        "url": "https://open.spotify.com/album/0dYgfOuAerUldWRodoOR6J"
+      },
+      "artists": [
+        {
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+        }
+      ],
+      "duration_ms": 203680,
+      "name": "Down for Life",
+      "url": "https://open.spotify.com/track/3pKsUMqpVr4ZJ13Mm91Xig"
+    },
+    {
+      "added_at": "2023-11-30 20:35:14",
+      "album": {
         "name": "Reverence",
         "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
       },
@@ -875,18 +891,18 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
-        "name": "The Gathering",
-        "url": "https://open.spotify.com/album/0dYgfOuAerUldWRodoOR6J"
+        "name": "Eternal Blue",
+        "url": "https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL"
       },
       "artists": [
         {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 203680,
-      "name": "Down for Life",
-      "url": "https://open.spotify.com/track/3pKsUMqpVr4ZJ13Mm91Xig"
+      "duration_ms": 173174,
+      "name": "Holy Roller",
+      "url": "https://open.spotify.com/track/1LLiDI21J4WWlmqk7zsm9v"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -951,22 +967,6 @@
       "duration_ms": 200800,
       "name": "Panic",
       "url": "https://open.spotify.com/track/7mUaGkK1gMEuo3IUWCqF0P"
-    },
-    {
-      "added_at": "2023-11-30 20:35:14",
-      "album": {
-        "name": "Eternal Blue",
-        "url": "https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 173174,
-      "name": "Holy Roller",
-      "url": "https://open.spotify.com/track/1LLiDI21J4WWlmqk7zsm9v"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
-        "name": "Cannibal",
-        "url": "https://open.spotify.com/album/4K15hOxya1ZF9lkWg9Dmja"
-      },
-      "artists": [
-        {
-          "name": "Bury Tomorrow",
-          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
-        }
-      ],
-      "duration_ms": 227440,
-      "name": "Choke",
-      "url": "https://open.spotify.com/track/2KGCOtaTbNIbwrxS0a2UMv"
-    },
-    {
-      "added_at": "2023-11-30 20:35:14",
-      "album": {
         "name": "The Black Crown",
         "url": "https://open.spotify.com/album/3oJKuFPVZTSeNc8G4UYV4L"
       },
@@ -1099,18 +1083,18 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
-        "name": "The Great War",
-        "url": "https://open.spotify.com/album/7FtCDX4COLE3HR2vBv7411"
+        "name": "Cannibal",
+        "url": "https://open.spotify.com/album/4K15hOxya1ZF9lkWg9Dmja"
       },
       "artists": [
         {
-          "name": "Sabaton",
-          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
         }
       ],
-      "duration_ms": 268266,
-      "name": "Great War",
-      "url": "https://open.spotify.com/track/4fmr8c3rh0dUKjw14UGfaH"
+      "duration_ms": 227440,
+      "name": "Choke",
+      "url": "https://open.spotify.com/track/2KGCOtaTbNIbwrxS0a2UMv"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -1131,18 +1115,18 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
-        "name": "Reign In Blood",
-        "url": "https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN"
+        "name": "The Great War",
+        "url": "https://open.spotify.com/album/7FtCDX4COLE3HR2vBv7411"
       },
       "artists": [
         {
-          "name": "Slayer",
-          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
         }
       ],
-      "duration_ms": 291440,
-      "name": "Angel Of Death",
-      "url": "https://open.spotify.com/track/61dTqhd46yMkSWmC5LAh5F"
+      "duration_ms": 268266,
+      "name": "Great War",
+      "url": "https://open.spotify.com/track/4fmr8c3rh0dUKjw14UGfaH"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -1159,6 +1143,22 @@
       "duration_ms": 322933,
       "name": "Tornado Of Souls",
       "url": "https://open.spotify.com/track/4GMQOjbWshf4Mzphkjg0DJ"
+    },
+    {
+      "added_at": "2023-11-30 20:35:14",
+      "album": {
+        "name": "Reign In Blood",
+        "url": "https://open.spotify.com/album/2DumvqHl78bNXuvU9kQfPN"
+      },
+      "artists": [
+        {
+          "name": "Slayer",
+          "url": "https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk"
+        }
+      ],
+      "duration_ms": 291440,
+      "name": "Angel Of Death",
+      "url": "https://open.spotify.com/track/61dTqhd46yMkSWmC5LAh5F"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
-        "name": "The Ghost Inside",
-        "url": "https://open.spotify.com/album/6bPHoxDscsiPULJBJE0b4Z"
-      },
-      "artists": [
-        {
-          "name": "The Ghost Inside",
-          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
-        }
-      ],
-      "duration_ms": 298825,
-      "name": "Aftermath",
-      "url": "https://open.spotify.com/track/6kjEZNcvRZZW1h4E6x8HJD"
-    },
-    {
-      "added_at": "2023-11-30 20:35:14",
-      "album": {
         "name": "Manifest",
         "url": "https://open.spotify.com/album/0i8Xkm6i0Ej627KFK7GqJa"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 181200,
       "name": "Viral",
       "url": "https://open.spotify.com/track/23nQ0OXajph2n9yzYjP7Hs"
+    },
+    {
+      "added_at": "2023-11-30 20:35:14",
+      "album": {
+        "name": "The Ghost Inside",
+        "url": "https://open.spotify.com/album/6bPHoxDscsiPULJBJE0b4Z"
+      },
+      "artists": [
+        {
+          "name": "The Ghost Inside",
+          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
+        }
+      ],
+      "duration_ms": 298825,
+      "name": "Aftermath",
+      "url": "https://open.spotify.com/track/6kjEZNcvRZZW1h4E6x8HJD"
     },
     {
       "added_at": "2023-11-30 20:35:14",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-11-30 20:35:14",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/27iMGsljLzEgyFU1rAR0bX"
-      },
-      "artists": [
-        {
-          "name": "Annisokay",
-          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
-        }
-      ],
-      "duration_ms": 210406,
-      "name": "STFU",
-      "url": "https://open.spotify.com/track/0X6WHH6WvXFTMmwWrsFeob"
-    },
-    {
-      "added_at": "2023-11-30 20:35:14",
-      "album": {
         "name": "Reroute To Remain",
         "url": "https://open.spotify.com/album/117ab5z5QEUV9YfvZi5Vij"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 220706,
       "name": "Cloud Connected",
       "url": "https://open.spotify.com/track/7fw1s9GkS288i2HQxMMlas"
+    },
+    {
+      "added_at": "2023-11-30 20:35:14",
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/27iMGsljLzEgyFU1rAR0bX"
+      },
+      "artists": [
+        {
+          "name": "Annisokay",
+          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
+        }
+      ],
+      "duration_ms": 210406,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/0X6WHH6WvXFTMmwWrsFeob"
     },
     {
       "added_at": "2023-11-30 20:35:14",

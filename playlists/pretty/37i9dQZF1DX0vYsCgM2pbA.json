@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 131118,
+  "num_followers": 131177,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzJlYzQwNGExNTFkMDM3ZWYzYTg0NmIwNWE5MDFmM2FkOTMwMzE4",
+  "snapshot_id": "MCxkOTNhOGYyZjU4NWJjNDVkNTY2MjBmMzNmMjI1NDU3ZjE3YjNjMTc5",
   "tracks": [
     {
       "added_at": "2023-12-21 12:31:21",
@@ -255,18 +255,22 @@
     {
       "added_at": "2023-12-21 12:31:21",
       "album": {
-        "name": "DEVOTION",
-        "url": "https://open.spotify.com/album/4yWVT9lEftVwrGYP4wj6lw"
+        "name": "Yeah The Girls",
+        "url": "https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv"
       },
       "artists": [
         {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
         }
       ],
-      "duration_ms": 231978,
-      "name": "DEVOTION",
-      "url": "https://open.spotify.com/track/3b589i3VEOsWJRNdOdWDsK"
+      "duration_ms": 194310,
+      "name": "Yeah The Girls",
+      "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
     },
     {
       "added_at": "2023-12-21 12:31:21",
@@ -291,38 +295,26 @@
     {
       "added_at": "2023-12-21 12:31:21",
       "album": {
-        "name": "Yeah The Girls",
-        "url": "https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv"
+        "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
+        "url": "https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv"
       },
       "artists": [
         {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
         },
         {
-          "name": "MERYLL",
-          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
-        }
-      ],
-      "duration_ms": 194310,
-      "name": "Yeah The Girls",
-      "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
-    },
-    {
-      "added_at": "2023-12-21 12:31:21",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
-      },
-      "artists": [
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        },
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+          "name": "Kevin Lyttle",
+          "url": "https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba"
         }
       ],
-      "duration_ms": 314389,
-      "name": "Next to Me",
-      "url": "https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp"
+      "duration_ms": 159161,
+      "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
+      "url": "https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD"
     },
     {
       "added_at": "2023-12-21 12:31:21",
@@ -347,26 +339,34 @@
     {
       "added_at": "2023-12-21 12:31:21",
       "album": {
-        "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
-        "url": "https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv"
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN"
       },
       "artists": [
         {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Bru-C",
-          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
-        },
-        {
-          "name": "Kevin Lyttle",
-          "url": "https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba"
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 159161,
-      "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
-      "url": "https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD"
+      "duration_ms": 314389,
+      "name": "Next to Me",
+      "url": "https://open.spotify.com/track/46haIwbQpVUkpAQj9V84Gp"
+    },
+    {
+      "added_at": "2023-12-21 12:31:21",
+      "album": {
+        "name": "DEVOTION",
+        "url": "https://open.spotify.com/album/4yWVT9lEftVwrGYP4wj6lw"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        }
+      ],
+      "duration_ms": 231978,
+      "name": "DEVOTION",
+      "url": "https://open.spotify.com/track/3b589i3VEOsWJRNdOdWDsK"
     },
     {
       "added_at": "2023-12-21 12:31:21",
@@ -443,18 +443,26 @@
     {
       "added_at": "2023-12-21 12:31:21",
       "album": {
-        "name": "On My Knees",
-        "url": "https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q"
+        "name": "Oh My (feat. Moby)",
+        "url": "https://open.spotify.com/album/4OTve5gpkJVmmRltUEXkT0"
       },
       "artists": [
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "Issey Cross",
+          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+        },
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
         }
       ],
-      "duration_ms": 261001,
-      "name": "On My Knees",
-      "url": "https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT"
+      "duration_ms": 160116,
+      "name": "Oh My (feat. Moby)",
+      "url": "https://open.spotify.com/track/0c6XBVz2evmzERhch4Diew"
     },
     {
       "added_at": "2023-12-21 12:31:21",
@@ -495,26 +503,18 @@
     {
       "added_at": "2023-12-21 12:31:21",
       "album": {
-        "name": "Oh My (feat. Moby)",
-        "url": "https://open.spotify.com/album/4OTve5gpkJVmmRltUEXkT0"
+        "name": "On My Knees",
+        "url": "https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q"
       },
       "artists": [
         {
-          "name": "Luude",
-          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
-        },
-        {
-          "name": "Issey Cross",
-          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
-        },
-        {
-          "name": "Moby",
-          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
         }
       ],
-      "duration_ms": 160116,
-      "name": "Oh My (feat. Moby)",
-      "url": "https://open.spotify.com/track/0c6XBVz2evmzERhch4Diew"
+      "duration_ms": 261001,
+      "name": "On My Knees",
+      "url": "https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT"
     },
     {
       "added_at": "2023-12-21 12:31:21",
@@ -715,26 +715,6 @@
     {
       "added_at": "2023-12-21 12:31:21",
       "album": {
-        "name": "ADOLESCENCE",
-        "url": "https://open.spotify.com/album/6RcCRqPn7qtoleMiH8pxSH"
-      },
-      "artists": [
-        {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
-        },
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 192138,
-      "name": "Esther",
-      "url": "https://open.spotify.com/track/7JIFyFT89CwNK7EmhG2eqn"
-    },
-    {
-      "added_at": "2023-12-21 12:31:21",
-      "album": {
         "name": "Ripple",
         "url": "https://open.spotify.com/album/3HCEwjTot7RUhwiOWrVQbI"
       },
@@ -759,34 +739,22 @@
     {
       "added_at": "2023-12-21 12:31:21",
       "album": {
-        "name": "We Don\u2019t Ever Stop",
-        "url": "https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV"
+        "name": "ADOLESCENCE",
+        "url": "https://open.spotify.com/album/6RcCRqPn7qtoleMiH8pxSH"
       },
       "artists": [
         {
-          "name": "Tom Santa",
-          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
-        }
-      ],
-      "duration_ms": 160638,
-      "name": "We Don't Ever Stop",
-      "url": "https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i"
-    },
-    {
-      "added_at": "2023-12-21 12:31:21",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/7pF1j9CKPRpcecJZrzzhmc"
-      },
-      "artists": [
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        },
         {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
         }
       ],
-      "duration_ms": 334754,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/5IKaBEdCQlfB6aikIFKuR8"
+      "duration_ms": 192138,
+      "name": "Esther",
+      "url": "https://open.spotify.com/track/7JIFyFT89CwNK7EmhG2eqn"
     },
     {
       "added_at": "2023-12-21 12:31:21",
@@ -827,6 +795,22 @@
     {
       "added_at": "2023-12-21 12:31:21",
       "album": {
+        "name": "We Don\u2019t Ever Stop",
+        "url": "https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV"
+      },
+      "artists": [
+        {
+          "name": "Tom Santa",
+          "url": "https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ"
+        }
+      ],
+      "duration_ms": 160638,
+      "name": "We Don't Ever Stop",
+      "url": "https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i"
+    },
+    {
+      "added_at": "2023-12-21 12:31:21",
+      "album": {
         "name": "Do You Want Me",
         "url": "https://open.spotify.com/album/7JQ8GBuLfPlVZpOVmtGtWI"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 272523,
       "name": "Do You Want Me",
       "url": "https://open.spotify.com/track/4OBT6Lrgy5MAMZCoc8ngj6"
+    },
+    {
+      "added_at": "2023-12-21 12:31:21",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/7pF1j9CKPRpcecJZrzzhmc"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 334754,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/5IKaBEdCQlfB6aikIFKuR8"
     },
     {
       "added_at": "2023-12-21 12:31:21",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-12-21 12:31:21",
       "album": {
+        "name": "Can't Do Without (My Baby)",
+        "url": "https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        }
+      ],
+      "duration_ms": 202253,
+      "name": "Can't Do Without (My Baby)",
+      "url": "https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS"
+    },
+    {
+      "added_at": "2023-12-21 12:31:21",
+      "album": {
         "name": "Changes (Timmy Trumpet Remix)",
         "url": "https://open.spotify.com/album/57YOijzcUtmTsqIDoKuT2J"
       },
@@ -911,22 +927,6 @@
     {
       "added_at": "2023-12-21 12:31:21",
       "album": {
-        "name": "Can't Do Without (My Baby)",
-        "url": "https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Can't Do Without (My Baby)",
-      "url": "https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS"
-    },
-    {
-      "added_at": "2023-12-21 12:31:21",
-      "album": {
         "name": "Loner",
         "url": "https://open.spotify.com/album/0sFdU2ngIsxgpErPAwgbvq"
       },
@@ -943,22 +943,22 @@
     {
       "added_at": "2023-12-21 12:31:21",
       "album": {
-        "name": "Function",
-        "url": "https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV"
+        "name": "LIFTED",
+        "url": "https://open.spotify.com/album/6jR7uovSlToKvLXjTrPZSV"
       },
       "artists": [
         {
-          "name": "Tentendo",
-          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
         },
         {
-          "name": "Jordan Dennis",
-          "url": "https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5"
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
         }
       ],
-      "duration_ms": 197639,
-      "name": "Function",
-      "url": "https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc"
+      "duration_ms": 183460,
+      "name": "Lights Go Down",
+      "url": "https://open.spotify.com/track/6Q7fxyIXgrbk1bIySqbaij"
     },
     {
       "added_at": "2023-12-21 12:31:21",
@@ -983,6 +983,46 @@
       "duration_ms": 180382,
       "name": "Everything - Sonnee Remix",
       "url": "https://open.spotify.com/track/4d8znCPQ5ilRAVhkafU0EA"
+    },
+    {
+      "added_at": "2023-12-21 12:31:21",
+      "album": {
+        "name": "Function",
+        "url": "https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV"
+      },
+      "artists": [
+        {
+          "name": "Tentendo",
+          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
+        },
+        {
+          "name": "Jordan Dennis",
+          "url": "https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5"
+        }
+      ],
+      "duration_ms": 197639,
+      "name": "Function",
+      "url": "https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc"
+    },
+    {
+      "added_at": "2023-12-21 12:31:21",
+      "album": {
+        "name": "What Comes Next",
+        "url": "https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "Winston Surfshirt",
+          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
+        }
+      ],
+      "duration_ms": 243599,
+      "name": "Get To Know (feat. Winston Surfshirt)",
+      "url": "https://open.spotify.com/track/1LvASuCm9gPr9684FFNKdt"
     },
     {
       "added_at": "2023-12-21 12:31:21",
@@ -1015,26 +1055,6 @@
       "duration_ms": 269360,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/08SyvlSyeznCXOk4RpumKn"
-    },
-    {
-      "added_at": "2023-12-21 12:31:21",
-      "album": {
-        "name": "LIFTED",
-        "url": "https://open.spotify.com/album/6jR7uovSlToKvLXjTrPZSV"
-      },
-      "artists": [
-        {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
-        },
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        }
-      ],
-      "duration_ms": 183460,
-      "name": "Lights Go Down",
-      "url": "https://open.spotify.com/track/6Q7fxyIXgrbk1bIySqbaij"
     },
     {
       "added_at": "2023-12-21 12:31:21",
@@ -1079,46 +1099,6 @@
     {
       "added_at": "2023-12-21 12:31:21",
       "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/4xG1xESLOJ8j2UGzrAFzaJ"
-      },
-      "artists": [
-        {
-          "name": "Good Life",
-          "url": "https://open.spotify.com/artist/69zkVA1W5J06u0FZDfwdSe"
-        },
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 167009,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/1zs6RPYV3KmtTv1bj6dI1z"
-    },
-    {
-      "added_at": "2023-12-21 12:31:21",
-      "album": {
-        "name": "What Comes Next",
-        "url": "https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        },
-        {
-          "name": "Winston Surfshirt",
-          "url": "https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh"
-        }
-      ],
-      "duration_ms": 243599,
-      "name": "Get To Know (feat. Winston Surfshirt)",
-      "url": "https://open.spotify.com/track/1LvASuCm9gPr9684FFNKdt"
-    },
-    {
-      "added_at": "2023-12-21 12:31:21",
-      "album": {
         "name": "Chase the Sun (Odd Mob Remix)",
         "url": "https://open.spotify.com/album/5v87Q53Us8RfXe26HNjIG4"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 258750,
       "name": "Chase the Sun (Odd Mob Remix)",
       "url": "https://open.spotify.com/track/6CrakXqqM1VgkCOmo7OU6i"
+    },
+    {
+      "added_at": "2023-12-21 12:31:21",
+      "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/4xG1xESLOJ8j2UGzrAFzaJ"
+      },
+      "artists": [
+        {
+          "name": "Good Life",
+          "url": "https://open.spotify.com/artist/69zkVA1W5J06u0FZDfwdSe"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 167009,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/1zs6RPYV3KmtTv1bj6dI1z"
     },
     {
       "added_at": "2023-12-21 12:31:21",

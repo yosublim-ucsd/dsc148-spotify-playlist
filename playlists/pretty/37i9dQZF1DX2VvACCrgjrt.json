@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house. Cover: Kaleena Zanders",
-  "num_followers": 438613,
+  "num_followers": 438640,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYWY0ZjljNDJlYWJkOWNmZTg3NTRjOTUwZjAwMTlhYzFiZTFkODU4",
+  "snapshot_id": "MCxlODgzYjA5NWQ1ODNhNmVhOTI5ODYwMzViMzc3ZDkxNDdjNTJiM2Mx",
   "tracks": [
     {
       "added_at": "2023-11-24 05:00:00",
@@ -943,26 +943,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Banga",
-        "url": "https://open.spotify.com/album/2S1qwlOsiKSKMvxpxuO5Hw"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
-        {
-          "name": "FETISH",
-          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
-        }
-      ],
-      "duration_ms": 141897,
-      "name": "Banga",
-      "url": "https://open.spotify.com/track/3Asbj9ttQ9MmQHcwHFy7mn"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "DRENCH",
         "url": "https://open.spotify.com/album/2i8ecQjFpCCw6b6e8fHT2H"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 197893,
       "name": "DRENCH",
       "url": "https://open.spotify.com/track/6hEpkJRBkYwTpUe8D4uKgW"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Banga",
+        "url": "https://open.spotify.com/album/2S1qwlOsiKSKMvxpxuO5Hw"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "duration_ms": 141897,
+      "name": "Banga",
+      "url": "https://open.spotify.com/track/3Asbj9ttQ9MmQHcwHFy7mn"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Goodies - Knock2 Remix",
-        "url": "https://open.spotify.com/album/3CZxe7XGcQsoTEPUQI9vn5"
-      },
-      "artists": [
-        {
-          "name": "Dillon Francis",
-          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
-        },
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        }
-      ],
-      "duration_ms": 209523,
-      "name": "Goodies - Knock2 Remix",
-      "url": "https://open.spotify.com/track/11u8UpRXIdNNzJszoskdcb"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Welcome To The Future",
         "url": "https://open.spotify.com/album/5Ynhd8mwNNB1ULBRMYRpKb"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 187683,
       "name": "Bass In Yo Face",
       "url": "https://open.spotify.com/track/2ez05kaHbFLyu70MMSNQpA"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Goodies - Knock2 Remix",
+        "url": "https://open.spotify.com/album/3CZxe7XGcQsoTEPUQI9vn5"
+      },
+      "artists": [
+        {
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "duration_ms": 209523,
+      "name": "Goodies - Knock2 Remix",
+      "url": "https://open.spotify.com/track/11u8UpRXIdNNzJszoskdcb"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1317,6 +1317,22 @@
       "url": "https://open.spotify.com/track/05a3JJNTzhoBFtux514zLj"
     },
     {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Are You Feeling This? / Stay Focused",
+        "url": "https://open.spotify.com/album/0UXIfC3eMOrEJrDqz7fkpK"
+      },
+      "artists": [
+        {
+          "name": "Shiba San",
+          "url": "https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc"
+        }
+      ],
+      "duration_ms": 166380,
+      "name": "Are You Feeling This?",
+      "url": "https://open.spotify.com/track/4dd5zWyjZqBbXaQ0TMeBCb"
+    },
+    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
         "name": "Strut",
@@ -1339,22 +1355,6 @@
       "duration_ms": 185625,
       "name": "Strut",
       "url": "https://open.spotify.com/track/02IzZ88gNb3RUhmk43wkLD"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Are You Feeling This? / Stay Focused",
-        "url": "https://open.spotify.com/album/0UXIfC3eMOrEJrDqz7fkpK"
-      },
-      "artists": [
-        {
-          "name": "Shiba San",
-          "url": "https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc"
-        }
-      ],
-      "duration_ms": 166380,
-      "name": "Are You Feeling This?",
-      "url": "https://open.spotify.com/track/4dd5zWyjZqBbXaQ0TMeBCb"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1421,6 +1421,22 @@
       "url": "https://open.spotify.com/track/6tLoYXdgMy80QaS49kg9z9"
     },
     {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Speaker Cone",
+        "url": "https://open.spotify.com/album/2d1mv9X62XccxWXaEteTPL"
+      },
+      "artists": [
+        {
+          "name": "Charmes",
+          "url": "https://open.spotify.com/artist/3Lat1XFXy1jjal8bckU6ZQ"
+        }
+      ],
+      "duration_ms": 179572,
+      "name": "Speaker Cone",
+      "url": "https://open.spotify.com/track/5sQLYZQygPgCsdtytZQua7"
+    },
+    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
         "name": "Set The Tempo (feat. HQA)",
@@ -1439,22 +1455,6 @@
       "duration_ms": 183434,
       "name": "Set The Tempo (feat. HQA)",
       "url": "https://open.spotify.com/track/4Fw9pEVsvkpwyIHoVKJ6yI"
-    },
-    {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Speaker Cone",
-        "url": "https://open.spotify.com/album/2d1mv9X62XccxWXaEteTPL"
-      },
-      "artists": [
-        {
-          "name": "Charmes",
-          "url": "https://open.spotify.com/artist/3Lat1XFXy1jjal8bckU6ZQ"
-        }
-      ],
-      "duration_ms": 179572,
-      "name": "Speaker Cone",
-      "url": "https://open.spotify.com/track/5sQLYZQygPgCsdtytZQua7"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1511,22 +1511,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "What We Know (feat. Conor Byrne) [Club Mix]",
-        "url": "https://open.spotify.com/album/3u97nu0HP0cc4UQ5qkjZC3"
+        "name": "MIRRORS",
+        "url": "https://open.spotify.com/album/05z888GjArijqttcX87svP"
       },
       "artists": [
         {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+          "name": "MEMBA",
+          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
         },
         {
-          "name": "Conor Byrne",
-          "url": "https://open.spotify.com/artist/0hEeBhTVYUKs2B4PY2IdMB"
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
         }
       ],
-      "duration_ms": 204950,
-      "name": "What We Know (feat. Conor Byrne) [Club Mix]",
-      "url": "https://open.spotify.com/track/4Hbpo5VZaqIZ57JUBqQxhb"
+      "duration_ms": 157741,
+      "name": "MIRRORS",
+      "url": "https://open.spotify.com/track/0nh1xcym5tpnZ4tJWVO2m8"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1551,26 +1551,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "MIRRORS",
-        "url": "https://open.spotify.com/album/05z888GjArijqttcX87svP"
-      },
-      "artists": [
-        {
-          "name": "MEMBA",
-          "url": "https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u"
-        },
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        }
-      ],
-      "duration_ms": 157741,
-      "name": "MIRRORS",
-      "url": "https://open.spotify.com/track/0nh1xcym5tpnZ4tJWVO2m8"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf"
       },
@@ -1587,6 +1567,26 @@
       "duration_ms": 215156,
       "name": "Night Rider",
       "url": "https://open.spotify.com/track/4rKQA3rD8ytaoaRABz9CL6"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "What We Know (feat. Conor Byrne) [Club Mix]",
+        "url": "https://open.spotify.com/album/3u97nu0HP0cc4UQ5qkjZC3"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Conor Byrne",
+          "url": "https://open.spotify.com/artist/0hEeBhTVYUKs2B4PY2IdMB"
+        }
+      ],
+      "duration_ms": 204950,
+      "name": "What We Know (feat. Conor Byrne) [Club Mix]",
+      "url": "https://open.spotify.com/track/4Hbpo5VZaqIZ57JUBqQxhb"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1659,18 +1659,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Fuck It Up",
-        "url": "https://open.spotify.com/album/5N3MFNQdu7kcfxlLK5TGW2"
+        "name": "Goons",
+        "url": "https://open.spotify.com/album/570lcnIjwcvVUCQAPNhOij"
       },
       "artists": [
         {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "Drezo",
+          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
         }
       ],
-      "duration_ms": 196875,
-      "name": "Fuck It Up",
-      "url": "https://open.spotify.com/track/59Up9bvTzye1JE1fueCjER"
+      "duration_ms": 201904,
+      "name": "Goons",
+      "url": "https://open.spotify.com/track/4leBPYgRKj82Ce8ENp4Jxf"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1691,22 +1695,18 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Goons",
-        "url": "https://open.spotify.com/album/570lcnIjwcvVUCQAPNhOij"
+        "name": "Fuck It Up",
+        "url": "https://open.spotify.com/album/5N3MFNQdu7kcfxlLK5TGW2"
       },
       "artists": [
         {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "Drezo",
-          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
         }
       ],
-      "duration_ms": 201904,
-      "name": "Goons",
-      "url": "https://open.spotify.com/track/4leBPYgRKj82Ce8ENp4Jxf"
+      "duration_ms": 196875,
+      "name": "Fuck It Up",
+      "url": "https://open.spotify.com/track/59Up9bvTzye1JE1fueCjER"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1729,26 +1729,6 @@
       "url": "https://open.spotify.com/track/4zndIOEwqNne000JFuaGoD"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Out Of Time",
-        "url": "https://open.spotify.com/album/2KdW273wS4w0m8PSvpJpuM"
-      },
-      "artists": [
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        },
-        {
-          "name": "Romeo Blanco",
-          "url": "https://open.spotify.com/artist/7oVSEUsFMvqBPpVKuRFSXQ"
-        }
-      ],
-      "duration_ms": 203809,
-      "name": "Out Of Time",
-      "url": "https://open.spotify.com/track/3aTL9YroCEJ1em7VVOm9bK"
-    },
-    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
         "name": "Fiya (Curbi Edit)",
@@ -1767,6 +1747,26 @@
       "duration_ms": 280771,
       "name": "Fiya - Curbi Edit",
       "url": "https://open.spotify.com/track/6hKNTG13AmbPZXy891jAZk"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Out Of Time",
+        "url": "https://open.spotify.com/album/2KdW273wS4w0m8PSvpJpuM"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "Romeo Blanco",
+          "url": "https://open.spotify.com/artist/7oVSEUsFMvqBPpVKuRFSXQ"
+        }
+      ],
+      "duration_ms": 203809,
+      "name": "Out Of Time",
+      "url": "https://open.spotify.com/track/3aTL9YroCEJ1em7VVOm9bK"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1811,22 +1811,6 @@
       "duration_ms": 220898,
       "name": "NRG",
       "url": "https://open.spotify.com/track/0zEwlfpJgIMzh3BV0UiQ3l"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Bassline Rumble",
-        "url": "https://open.spotify.com/album/2bsD1DwoXBIWh8XAjJLCwY"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 175969,
-      "name": "Bassline Rumble",
-      "url": "https://open.spotify.com/track/2D5LwVpW4D8BhEHjWGxofw"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1907,6 +1891,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "Bassline Rumble",
+        "url": "https://open.spotify.com/album/2bsD1DwoXBIWh8XAjJLCwY"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 175969,
+      "name": "Bassline Rumble",
+      "url": "https://open.spotify.com/track/2D5LwVpW4D8BhEHjWGxofw"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "The Way We Touch",
         "url": "https://open.spotify.com/album/13FtX9bJFhfsA8JAjUAjg1"
       },
@@ -1923,26 +1923,6 @@
       "duration_ms": 162580,
       "name": "The Way We Touch",
       "url": "https://open.spotify.com/track/3odB1ngbDmmLBdaaFu9d8D"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "LIMIT",
-        "url": "https://open.spotify.com/album/1gG2DU3odPahWbeJyA9jKU"
-      },
-      "artists": [
-        {
-          "name": "EVAN GIIA",
-          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
-        },
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        }
-      ],
-      "duration_ms": 217142,
-      "name": "LIMIT",
-      "url": "https://open.spotify.com/track/76IbCTgkgm0t8PaX5x488g"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1967,38 +1947,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "Step Back",
-        "url": "https://open.spotify.com/album/2L8DBsnUXZTi2R9y0BTzjI"
+        "name": "LIMIT",
+        "url": "https://open.spotify.com/album/1gG2DU3odPahWbeJyA9jKU"
       },
       "artists": [
+        {
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        },
         {
           "name": "Nostalgix",
           "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
         }
       ],
-      "duration_ms": 173437,
-      "name": "Step Back",
-      "url": "https://open.spotify.com/track/7opSc1BeR7P8v0i3QYUi0W"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Stereo Function",
-        "url": "https://open.spotify.com/album/1BhDWxjA0cUfnraGOpA4Ts"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        },
-        {
-          "name": "Kage",
-          "url": "https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot"
-        }
-      ],
-      "duration_ms": 206904,
-      "name": "Stereo Function",
-      "url": "https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc"
+      "duration_ms": 217142,
+      "name": "LIMIT",
+      "url": "https://open.spotify.com/track/76IbCTgkgm0t8PaX5x488g"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2019,6 +1983,22 @@
       "duration_ms": 178065,
       "name": "Molotov",
       "url": "https://open.spotify.com/track/6FggaqcdwsE4pocJ5GaWxr"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Step Back",
+        "url": "https://open.spotify.com/album/2L8DBsnUXZTi2R9y0BTzjI"
+      },
+      "artists": [
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        }
+      ],
+      "duration_ms": 173437,
+      "name": "Step Back",
+      "url": "https://open.spotify.com/track/7opSc1BeR7P8v0i3QYUi0W"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2089,6 +2069,42 @@
       "url": "https://open.spotify.com/track/1a9Mq3Sr32PM93oWJ3vJU9"
     },
     {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/6z2CIwuGpv92NOVaufHXzV"
+      },
+      "artists": [
+        {
+          "name": "Tough Break",
+          "url": "https://open.spotify.com/artist/59YvtCKDEG9q6naPqrqykW"
+        }
+      ],
+      "duration_ms": 188316,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/3Y5tQljrVItTOxtZcbkQTg"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Stereo Function",
+        "url": "https://open.spotify.com/album/1BhDWxjA0cUfnraGOpA4Ts"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "Kage",
+          "url": "https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot"
+        }
+      ],
+      "duration_ms": 206904,
+      "name": "Stereo Function",
+      "url": "https://open.spotify.com/track/1Sk2Kzze1ZTfp6Gt2klZgc"
+    },
+    {
       "added_at": "2023-11-03 04:00:00",
       "album": {
         "name": "LEFT TO RIGHT (Space Laces Remix)",
@@ -2107,38 +2123,6 @@
       "duration_ms": 217604,
       "name": "LEFT TO RIGHT - Space Laces Remix",
       "url": "https://open.spotify.com/track/7pcmP5rRN9w145LcpOw9vx"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "RUSH",
-        "url": "https://open.spotify.com/album/7EINEJTzq3iW9Xny1Kd2h4"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 163369,
-      "name": "RUSH",
-      "url": "https://open.spotify.com/track/4BIpVhPALiMEUpSdmIitol"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/6z2CIwuGpv92NOVaufHXzV"
-      },
-      "artists": [
-        {
-          "name": "Tough Break",
-          "url": "https://open.spotify.com/artist/59YvtCKDEG9q6naPqrqykW"
-        }
-      ],
-      "duration_ms": 188316,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/3Y5tQljrVItTOxtZcbkQTg"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2215,6 +2199,22 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
+        "name": "RUSH",
+        "url": "https://open.spotify.com/album/7EINEJTzq3iW9Xny1Kd2h4"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 163369,
+      "name": "RUSH",
+      "url": "https://open.spotify.com/track/4BIpVhPALiMEUpSdmIitol"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
         "name": "Around Me",
         "url": "https://open.spotify.com/album/7xN2V5CJqsTKeuEzS756SQ"
       },
@@ -2263,34 +2263,6 @@
     {
       "added_at": "2023-11-03 04:00:00",
       "album": {
-        "name": "\u00a5\u20ac$",
-        "url": "https://open.spotify.com/album/2o3gqsfh5Zzl8LA8qKLH6j"
-      },
-      "artists": [
-        {
-          "name": "\u20acURO TRA$H",
-          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
-        },
-        {
-          "name": "Breaking Beattz",
-          "url": "https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX"
-        },
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        },
-        {
-          "name": "Almondmilkhunni",
-          "url": "https://open.spotify.com/artist/778bhPsYwr6sAELsBBX8MC"
-        }
-      ],
-      "duration_ms": 255234,
-      "name": "Six Figures",
-      "url": "https://open.spotify.com/track/4I3G3oB4cfOiKN8q4fzXxQ"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
         "name": "Feeling under Pressure",
         "url": "https://open.spotify.com/album/1OW3rBusYWKe9oWJ5BRccS"
       },
@@ -2303,22 +2275,6 @@
       "duration_ms": 173208,
       "name": "Feeling Under Pressure",
       "url": "https://open.spotify.com/track/3DX8LKpJpOXEyNsS2NICrO"
-    },
-    {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "That's Right",
-        "url": "https://open.spotify.com/album/4XNPpkFl4X6DRFKo42oRHf"
-      },
-      "artists": [
-        {
-          "name": "NITTI",
-          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
-        }
-      ],
-      "duration_ms": 215625,
-      "name": "That's Right",
-      "url": "https://open.spotify.com/track/3z8PEIdsoccN24sC7h9tB5"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -2363,6 +2319,50 @@
       "duration_ms": 140000,
       "name": "Down Like That",
       "url": "https://open.spotify.com/track/37V9nZfjftC0vRgc16lbKs"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "That's Right",
+        "url": "https://open.spotify.com/album/4XNPpkFl4X6DRFKo42oRHf"
+      },
+      "artists": [
+        {
+          "name": "NITTI",
+          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+        }
+      ],
+      "duration_ms": 215625,
+      "name": "That's Right",
+      "url": "https://open.spotify.com/track/3z8PEIdsoccN24sC7h9tB5"
+    },
+    {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "\u00a5\u20ac$",
+        "url": "https://open.spotify.com/album/2o3gqsfh5Zzl8LA8qKLH6j"
+      },
+      "artists": [
+        {
+          "name": "\u20acURO TRA$H",
+          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
+        },
+        {
+          "name": "Breaking Beattz",
+          "url": "https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX"
+        },
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Almondmilkhunni",
+          "url": "https://open.spotify.com/artist/778bhPsYwr6sAELsBBX8MC"
+        }
+      ],
+      "duration_ms": 255234,
+      "name": "Six Figures",
+      "url": "https://open.spotify.com/track/4I3G3oB4cfOiKN8q4fzXxQ"
     },
     {
       "added_at": "2023-11-03 04:00:00",

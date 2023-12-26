@@ -1,12 +1,12 @@
 {
   "description": "Din egen indieklubb! Garanterad dans, dans, dans. #spelashoreline",
-  "num_followers": 62239,
+  "num_followers": 62249,
   "original_name": "Spela Shoreline!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2MxYzhiZDUyNjQwMjFkMzU1YjQzMzhjMGExNDU2ODQyOTZhMTRm",
+  "snapshot_id": "MCw4ZGZlNzEzYjIzZWFlMTgwOTk3ZDVmOTY4MzQ4YmNkYWNjNGQxOTA3",
   "tracks": [
     {
       "added_at": "2021-06-15 09:25:05",
@@ -171,6 +171,22 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "Time to Pretend",
+      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
+    },
+    {
+      "added_at": "2021-06-15 09:25:05",
+      "album": {
         "name": "London Calling (Remastered)",
         "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 289560,
       "name": "Don't Look Back In Anger - Remastered",
       "url": "https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl"
-    },
-    {
-      "added_at": "2021-06-15 09:25:05",
-      "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "Time to Pretend",
-      "url": "https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW"
     },
     {
       "added_at": "2021-06-15 09:25:05",
@@ -555,18 +555,22 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Vilja Bli",
-        "url": "https://open.spotify.com/album/2jCYbQBRefZrTeMXIMIsNp"
+        "name": "Too-Rye-Ay (As It Should Have Sounded 2022)",
+        "url": "https://open.spotify.com/album/6JvOKlgjSQmr5BJnXSpI6h"
       },
       "artists": [
         {
-          "name": "Oskar Linnros",
-          "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
+          "name": "Dexys Midnight Runners",
+          "url": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+        },
+        {
+          "name": "Kevin Rowland",
+          "url": "https://open.spotify.com/artist/7ipGLKpbyUOKFaji4MY19m"
         }
       ],
-      "duration_ms": 193360,
-      "name": "Fr\u00e5n och med Du",
-      "url": "https://open.spotify.com/track/6sjGsKuInpaK3uoaWGe22W"
+      "duration_ms": 205680,
+      "name": "Come On Eileen - Single Edit",
+      "url": "https://open.spotify.com/track/58VaIfHQzC0jflv7zEWyoZ"
     },
     {
       "added_at": "2021-06-15 09:25:05",
@@ -587,22 +591,18 @@
     {
       "added_at": "2021-06-15 09:25:05",
       "album": {
-        "name": "Too-Rye-Ay (As It Should Have Sounded 2022)",
-        "url": "https://open.spotify.com/album/6JvOKlgjSQmr5BJnXSpI6h"
+        "name": "Vilja Bli",
+        "url": "https://open.spotify.com/album/2jCYbQBRefZrTeMXIMIsNp"
       },
       "artists": [
         {
-          "name": "Dexys Midnight Runners",
-          "url": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
-        },
-        {
-          "name": "Kevin Rowland",
-          "url": "https://open.spotify.com/artist/7ipGLKpbyUOKFaji4MY19m"
+          "name": "Oskar Linnros",
+          "url": "https://open.spotify.com/artist/3E8Mx37sikkaFoX5DRecLi"
         }
       ],
-      "duration_ms": 205680,
-      "name": "Come On Eileen - Single Edit",
-      "url": "https://open.spotify.com/track/58VaIfHQzC0jflv7zEWyoZ"
+      "duration_ms": 193360,
+      "name": "Fr\u00e5n och med Du",
+      "url": "https://open.spotify.com/track/6sjGsKuInpaK3uoaWGe22W"
     },
     {
       "added_at": "2021-06-15 09:25:05",

@@ -4,7 +4,7 @@
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-345 songs - 18 hr 14 min
+346 songs - 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Afterglow](https://open.spotify.com/track/2Jh44UZ8vuwjxtQlbxJJki) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Afterglow](https://open.spotify.com/album/1TwYZEHm1MRXmtGAgmCyHc) | 3:12 | 2023-09-04 | 2023-09-11 |
 | [AHHH](https://open.spotify.com/track/6FuKGUQdfjtLOX3PTLtiFM) | [Vivien Yap](https://open.spotify.com/artist/71gWfXRZ2vs5cQ7Bfh9M53) | [AHHH](https://open.spotify.com/album/3IcK2G3DQi8K1eOctzBbl5) | 3:44 | 2022-11-07 | 2022-11-15 |
 | [Ain't Nobody's Baby](https://open.spotify.com/track/1fTuWEkpSr2MyKxR8ifack) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Ain't Nobody's Baby](https://open.spotify.com/album/35MQYWJLe9qhbgTIWGqsGJ) | 2:29 | 2022-07-18 | 2022-07-25 |
+| [Alien](https://open.spotify.com/track/2YdDd0WUsWLWZq0Puz0Ypo) | [Nico & Chelsea](https://open.spotify.com/artist/2D3SlrKnJAnNyxf2ty2a97), [Nico Collins](https://open.spotify.com/artist/1iGwHlKgQKtdrtzmlwZ71U), [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG) | [Alien](https://open.spotify.com/album/23Id7uPv0luo4pJpzKYBAO) | 3:13 | 2023-12-25 |  |
 | [Alive and Unwell](https://open.spotify.com/track/7ffThXwGKRO4KRM1rVyXGJ) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Alive and Unwell](https://open.spotify.com/album/3LiuUi849agq0ZVwLBIup8) | 2:01 | 2022-10-31 | 2022-11-08 |
 | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:03 | 2022-06-06 | 2023-02-01 |
 | [All These Nights](https://open.spotify.com/track/1VeAXUa20YkzfEi1Zk2y0o) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [All These Nights](https://open.spotify.com/album/2EvQd56xKYeoeGFDn8jQj6) | 2:34 | 2022-08-29 | 2023-01-03 |
@@ -80,7 +81,7 @@
 | [Dear All The Universe](https://open.spotify.com/track/22ncVgFAi7FT0AQuHYmMCF) | [My Life As Ali Thomas](https://open.spotify.com/artist/60QGyk5ToNbgI6fVGjZhHa) | [Dear All The Universe](https://open.spotify.com/album/0YTjcD2isCYshPScuOk4rb) | 3:19 | 2022-06-06 | 2022-07-29 |
 | [Death Of An Executioner](https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 4:27 | 2023-02-13 | 2023-03-14 |
 | [Desperate](https://open.spotify.com/track/5mzB0agonYZ1RDfsPdXt1K) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Super Over](https://open.spotify.com/album/0iOqQkGiycHp33vWKGdyqf) | 2:36 | 2023-09-17 | 2023-09-26 |
-| [Detox](https://open.spotify.com/track/4hlZuSzSc1amD2v3FbZG1K) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Detox](https://open.spotify.com/album/3OOmT2BtFmAYRpQkkjeYnM) | 3:00 | 2023-12-18 |  |
+| [Detox](https://open.spotify.com/track/4hlZuSzSc1amD2v3FbZG1K) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Detox](https://open.spotify.com/album/3OOmT2BtFmAYRpQkkjeYnM) | 3:00 | 2023-12-18 | 2023-12-26 |
 | [Diamonds](https://open.spotify.com/track/0GFXbdgwVYO8Dw6BG8MLfL) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Lonely Generation](https://open.spotify.com/album/6DT9TEg5f9j7WVarEXemYY) | 3:22 | 2022-07-11 | 2022-07-29 |
 | [Dilemma](https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dilemma](https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk) | 3:18 | 2023-12-11 |  |
 | [Distraction](https://open.spotify.com/track/4gmnXoFTFHKDZ4kYmLlR9e) | [M1LDL1FE](https://open.spotify.com/artist/4dDWr3bmcGdlbLsWofWail) | [M1LDL1FE](https://open.spotify.com/album/4OF3p8bM1wUNdfdlYAhdqC) | 4:11 | 2022-06-06 | 2022-07-28 |
@@ -251,7 +252,7 @@
 | [Prozac Perfect](https://open.spotify.com/track/563jToCyviTyNpeHIqCy5Y) | [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp) | [There Goes the Neighborhood](https://open.spotify.com/album/6OxMJtj17OEYzMQ62aH7cG) | 3:12 | 2023-02-27 | 2023-03-07 |
 | [Put A Light On Me](https://open.spotify.com/track/3oCgJ0B0aba0X09OtdI8Fc) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [There’s Nothing But Space, Man!](https://open.spotify.com/album/2n0ez0hSIrItwkVxDKXHlO) | 3:05 | 2022-12-12 | 2022-12-20 |
 | [Radioactive Rain](https://open.spotify.com/track/2MPkM6BASRAxetDtmG9xHo) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Radioactive Rain](https://open.spotify.com/album/3Rq4ccDxBiquN4CmJ7c0iZ) | 3:31 | 2022-06-06 | 2022-07-23 |
-| [Really good cry](https://open.spotify.com/track/3wTgyWjqIU4tg25T7qqm9l) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [Really good cry](https://open.spotify.com/album/0RrCpHGFKTEyQdi7sdJuzj) | 1:54 | 2023-12-18 |  |
+| [Really good cry](https://open.spotify.com/track/3wTgyWjqIU4tg25T7qqm9l) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [Really good cry](https://open.spotify.com/album/0RrCpHGFKTEyQdi7sdJuzj) | 1:54 | 2023-12-18 | 2023-12-26 |
 | [red flag collector](https://open.spotify.com/track/2RLHAs40VeEWznm3ugthJ7) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [red flag collector](https://open.spotify.com/album/29nqXCfWwutCC9ZWnNZKHU) | 2:58 | 2023-06-12 | 2023-06-20 |
 | [Remind Me](https://open.spotify.com/track/6VIYEyjNW71NnIGEduf8D8) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Remind Me](https://open.spotify.com/album/0fL8J5En5o6sd8vSHAbKGt) | 3:31 | 2022-07-25 | 2023-05-25 |
 | [Rescued](https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Rescued](https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO) | 4:18 | 2023-04-24 | 2023-06-23 |
@@ -352,6 +353,6 @@
 | [You Irritate Me \- Demo](https://open.spotify.com/track/20LpgjFwVEdjeJzjnIPxvE) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [You Irritate Me \(Demo\)](https://open.spotify.com/album/68S9B59BVpKiLLvSR0q1r0) | 1:36 | 2022-10-17 | 2022-10-25 |
 | [You Signed Up For This](https://open.spotify.com/track/2I4NfDyog74Wq8R8btJDY3) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You Signed Up For This / Brooklyn](https://open.spotify.com/album/1wa7AvqK1tUFSl5TTUNJ1e) | 3:15 | 2022-06-06 | 2022-07-29 |
 | [Young Like This](https://open.spotify.com/track/5yOc7LHI9HIBRTWcLbGXXi) | [Hugo Helmig](https://open.spotify.com/artist/27eEve8Mu7Zv8DGDIz4peE) | [Young Like This](https://open.spotify.com/album/5s1EtajkxRSQto3WT9WtHc) | 3:06 | 2022-07-04 | 2022-07-08 |
-| [Youngblood](https://open.spotify.com/track/55S2PQgSMYAhgoTCcGCDfw) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood](https://open.spotify.com/album/16Qs4jnIyXe7jprnMNRddy) | 3:23 | 2022-07-25 | 2023-12-11 |
+| [Youngblood](https://open.spotify.com/track/55S2PQgSMYAhgoTCcGCDfw) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood](https://open.spotify.com/album/16Qs4jnIyXe7jprnMNRddy) | 3:23 | 2022-07-25 |  |
 
 \*This playlist was first scraped on 2022-06-09. Prior content cannot be recovered.

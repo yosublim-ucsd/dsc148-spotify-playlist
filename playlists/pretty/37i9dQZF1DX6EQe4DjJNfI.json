@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Hanifah, Doug O.",
-  "num_followers": 166087,
+  "num_followers": 166103,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZjQyZjMwYjI0YzQ3ZTg5NTA4MjNhYmU0ZDQxZjQ3MTlmNDhjZmJi",
+  "snapshot_id": "MCw5ZWFlMGUyMTM1MGZlMjQ3ODU5YzQ0MzIxYTM3N2E5M2U2NWJiMjVm",
   "tracks": [
     {
       "added_at": "2023-12-15 03:01:00",
@@ -367,26 +367,6 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "Amar D\u00f3i",
-        "url": "https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn"
-      },
-      "artists": [
-        {
-          "name": "Iza Sabino",
-          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
-        },
-        {
-          "name": "Rapaz do Dread",
-          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
-        }
-      ],
-      "duration_ms": 168063,
-      "name": "N\u00f3s",
-      "url": "https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/0Ze1e8yP0nQBmJpgr1DPrT"
       },
@@ -407,22 +387,22 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "Dejavu",
-        "url": "https://open.spotify.com/album/79BuhrkNVk3YTe11Rzs2jz"
+        "name": "Amar D\u00f3i",
+        "url": "https://open.spotify.com/album/0dMizKYVd3kyaOe2VJkPTn"
       },
       "artists": [
         {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
         },
         {
-          "name": "Felipe Rosa",
-          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
+          "name": "Rapaz do Dread",
+          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
         }
       ],
-      "duration_ms": 182857,
-      "name": "Dejavu",
-      "url": "https://open.spotify.com/track/7aJFkrNNaPnC3QGAUsTahp"
+      "duration_ms": 168063,
+      "name": "N\u00f3s",
+      "url": "https://open.spotify.com/track/2rzuk1zS2HbFTn4aLDoBEm"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -447,6 +427,26 @@
       "duration_ms": 176000,
       "name": "Baby Quando Voc\u00ea Desce",
       "url": "https://open.spotify.com/track/21VJSpzpv7swj87x8bYSQd"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "Dejavu",
+        "url": "https://open.spotify.com/album/79BuhrkNVk3YTe11Rzs2jz"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Felipe Rosa",
+          "url": "https://open.spotify.com/artist/3de56pt399CWcGlNa7kB5N"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Dejavu",
+      "url": "https://open.spotify.com/track/7aJFkrNNaPnC3QGAUsTahp"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -567,6 +567,26 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
+        "name": "Nessa Vida",
+        "url": "https://open.spotify.com/album/5SivaxB405MCGeZroyNpza"
+      },
+      "artists": [
+        {
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 189233,
+      "name": "Nessa Vida",
+      "url": "https://open.spotify.com/track/4ryu7kty8u9SiA5Md11D0B"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
         "name": "Censura e Prazer",
         "url": "https://open.spotify.com/album/6GVlO9fjTtVFxQFSIvODog"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 235135,
       "name": "Censura e Prazer",
       "url": "https://open.spotify.com/track/74YV7f17mNoqNleCiZ1CUi"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
-        "name": "Nessa Vida",
-        "url": "https://open.spotify.com/album/5SivaxB405MCGeZroyNpza"
-      },
-      "artists": [
-        {
-          "name": "IGOR",
-          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
-        },
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 189233,
-      "name": "Nessa Vida",
-      "url": "https://open.spotify.com/track/4ryu7kty8u9SiA5Md11D0B"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -731,26 +731,6 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "perco o ar",
-        "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
-      },
-      "artists": [
-        {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
-        },
-        {
-          "name": "Drew",
-          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
-        }
-      ],
-      "duration_ms": 204604,
-      "name": "perco o ar",
-      "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
         "name": "Casual",
         "url": "https://open.spotify.com/album/6ACqA0GV9YblnMQPIS93Zu"
       },
@@ -767,38 +747,22 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "Faz Arrepiar",
-        "url": "https://open.spotify.com/album/2eECtXgZdmITR6VSzq5CW7"
-      },
-      "artists": [
-        {
-          "name": "Fashion Piva",
-          "url": "https://open.spotify.com/artist/4BvRiHSL8MkEyohJoY7lyk"
-        },
-        {
-          "name": "Ane",
-          "url": "https://open.spotify.com/artist/59BcvfHR3rS8VA3yxwATAG"
-        }
-      ],
-      "duration_ms": 140832,
-      "name": "Faz Arrepiar",
-      "url": "https://open.spotify.com/track/7JGHeEIqdqrQJUXONANuKz"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
-        "name": "Tempo pra Perder",
-        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
+        "name": "N\u00e3o Vou Negar",
+        "url": "https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb"
       },
       "artists": [
         {
           "name": "Ana Olic",
           "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+        },
+        {
+          "name": "papi",
+          "url": "https://open.spotify.com/artist/7IRAaMPxRHYKEjzDxUBguu"
         }
       ],
-      "duration_ms": 194974,
-      "name": "Tempo pra Perder",
-      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
+      "duration_ms": 163937,
+      "name": "N\u00e3o Vou Negar",
+      "url": "https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -823,6 +787,46 @@
       "duration_ms": 180000,
       "name": "Rec\u00edproco",
       "url": "https://open.spotify.com/track/2Na1FNsaKX5WmLjEVVPVNt"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "Faz Arrepiar",
+        "url": "https://open.spotify.com/album/2eECtXgZdmITR6VSzq5CW7"
+      },
+      "artists": [
+        {
+          "name": "Fashion Piva",
+          "url": "https://open.spotify.com/artist/4BvRiHSL8MkEyohJoY7lyk"
+        },
+        {
+          "name": "Ane",
+          "url": "https://open.spotify.com/artist/59BcvfHR3rS8VA3yxwATAG"
+        }
+      ],
+      "duration_ms": 140832,
+      "name": "Faz Arrepiar",
+      "url": "https://open.spotify.com/track/7JGHeEIqdqrQJUXONANuKz"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "perco o ar",
+        "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
+      },
+      "artists": [
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Drew",
+          "url": "https://open.spotify.com/artist/2EkRaXpsAuICiUioDcvkhV"
+        }
+      ],
+      "duration_ms": 204604,
+      "name": "perco o ar",
+      "url": "https://open.spotify.com/track/6IA3LnCSsC9bNotg77Pypa"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -879,26 +883,6 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "N\u00e3o Vou Negar",
-        "url": "https://open.spotify.com/album/3YdAoZKOwdbd29jKSwuknb"
-      },
-      "artists": [
-        {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        },
-        {
-          "name": "papi",
-          "url": "https://open.spotify.com/artist/7IRAaMPxRHYKEjzDxUBguu"
-        }
-      ],
-      "duration_ms": 163937,
-      "name": "N\u00e3o Vou Negar",
-      "url": "https://open.spotify.com/track/5nI2kzArRG6tU2SlNTE0ja"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
         "name": "\u00c9ramos",
         "url": "https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 218890,
       "name": "Bahamas",
       "url": "https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "Tempo pra Perder",
+        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
+      },
+      "artists": [
+        {
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+        }
+      ],
+      "duration_ms": 194974,
+      "name": "Tempo pra Perder",
+      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -1115,6 +1115,26 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
+        "name": "Sobrenome",
+        "url": "https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7"
+      },
+      "artists": [
+        {
+          "name": "Dagrace",
+          "url": "https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT"
+        },
+        {
+          "name": "Dodoin",
+          "url": "https://open.spotify.com/artist/4I0iZ0003sCk7k5eHKzKh1"
+        }
+      ],
+      "duration_ms": 134476,
+      "name": "Sobrenome",
+      "url": "https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
         "name": "Estou Aqui",
         "url": "https://open.spotify.com/album/2DpZXcJODNkdKOVxrmyXgr"
       },
@@ -1127,6 +1147,38 @@
       "duration_ms": 227234,
       "name": "Del\u00edrio",
       "url": "https://open.spotify.com/track/3XzYdM3XYfrdWInWct8moG"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "Lingerie Branca",
+        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
+      },
+      "artists": [
+        {
+          "name": "MOTICO MONEY",
+          "url": "https://open.spotify.com/artist/0ZYRu4jdS871PkQvvt5MFe"
+        }
+      ],
+      "duration_ms": 239029,
+      "name": "Lingerie Branca",
+      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "Ventilador",
+        "url": "https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs"
+      },
+      "artists": [
+        {
+          "name": "Nagy",
+          "url": "https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "Ventilador",
+      "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -1151,58 +1203,6 @@
       "duration_ms": 199625,
       "name": "O Que Eu Soul - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5nde5dfB24TXkLSrIHor51"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
-        "name": "Sobrenome",
-        "url": "https://open.spotify.com/album/5CXvCpwUJ9GdHjumehKIQ7"
-      },
-      "artists": [
-        {
-          "name": "Dagrace",
-          "url": "https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT"
-        },
-        {
-          "name": "Dodoin",
-          "url": "https://open.spotify.com/artist/4I0iZ0003sCk7k5eHKzKh1"
-        }
-      ],
-      "duration_ms": 134476,
-      "name": "Sobrenome",
-      "url": "https://open.spotify.com/track/7lfKqObVLqhJ8O5PF8UwtW"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
-        "name": "Ventilador",
-        "url": "https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs"
-      },
-      "artists": [
-        {
-          "name": "Nagy",
-          "url": "https://open.spotify.com/artist/2QX3kFP9WdmGPeFKPfd9Mv"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "Ventilador",
-      "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
-        "name": "Lingerie Branca",
-        "url": "https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z"
-      },
-      "artists": [
-        {
-          "name": "MOTICO MONEY",
-          "url": "https://open.spotify.com/artist/0ZYRu4jdS871PkQvvt5MFe"
-        }
-      ],
-      "duration_ms": 239029,
-      "name": "Lingerie Branca",
-      "url": "https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "Roupa de Ontem",
-        "url": "https://open.spotify.com/album/7eIK3jKOyfdsnj1PaalMVa"
-      },
-      "artists": [
-        {
-          "name": "Krupinsk",
-          "url": "https://open.spotify.com/artist/5gLgoNI5QB6Osvi7aQwe5S"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "Roupa de Ontem",
-      "url": "https://open.spotify.com/track/5DNmIznDtyTJrkmAXdeFnl"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
         "name": "That's Why I Love You",
         "url": "https://open.spotify.com/album/0ClBTyGt24uEfusn603KEV"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 218000,
       "name": "That's Why I Love You",
       "url": "https://open.spotify.com/track/48cZ0Fo1zfYjBUPw5m8xjv"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "Roupa de Ontem",
+        "url": "https://open.spotify.com/album/7eIK3jKOyfdsnj1PaalMVa"
+      },
+      "artists": [
+        {
+          "name": "Krupinsk",
+          "url": "https://open.spotify.com/artist/5gLgoNI5QB6Osvi7aQwe5S"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "Roupa de Ontem",
+      "url": "https://open.spotify.com/track/5DNmIznDtyTJrkmAXdeFnl"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
+        "name": "S\u00f3 N\u00f3s Dois",
+        "url": "https://open.spotify.com/album/3ymX3mPsxNZbAu9jbWsyvd"
+      },
+      "artists": [
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 141502,
+      "name": "S\u00f3 N\u00f3s Dois",
+      "url": "https://open.spotify.com/track/7lAdgcZXKrbLe7cM05nMXF"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
         "name": "se voc\u00ea quiser",
         "url": "https://open.spotify.com/album/2fih7VtIuRrmh7M16jKulE"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 224680,
       "name": "se voc\u00ea quiser",
       "url": "https://open.spotify.com/track/5C8J4qf8MCeOSvS2ugi0SB"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
-        "name": "S\u00f3 N\u00f3s Dois",
-        "url": "https://open.spotify.com/album/3ymX3mPsxNZbAu9jbWsyvd"
-      },
-      "artists": [
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 141502,
-      "name": "S\u00f3 N\u00f3s Dois",
-      "url": "https://open.spotify.com/track/7lAdgcZXKrbLe7cM05nMXF"
     },
     {
       "added_at": "2023-12-15 03:01:00",

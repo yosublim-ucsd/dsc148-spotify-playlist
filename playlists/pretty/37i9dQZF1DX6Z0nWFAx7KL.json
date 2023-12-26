@@ -1,12 +1,12 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 47178,
+  "num_followers": 47186,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjQ0NzVkMDc3ZWJlMjQ4NmJlYTU4ODU2ODYzNGY2NTQ4MDAwMWM0",
+  "snapshot_id": "MCw0M2ZlZmVhZjNhY2UxZWYxMjJkZjRkODBmMWZhYTFkYjMzOWZmNDEy",
   "tracks": [
     {
       "added_at": "2023-12-21 23:00:00",
@@ -107,22 +107,22 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Hold This Memory",
-        "url": "https://open.spotify.com/album/7G39pVt7Ed3PTkC0tHw7QG"
+        "name": "Body on Fire",
+        "url": "https://open.spotify.com/album/3B90f5X9qYr2MFflbC8tRu"
       },
       "artists": [
         {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+          "name": "SOMMA",
+          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
         },
         {
-          "name": "Madism",
-          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
+          "name": "Dillistone",
+          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
         }
       ],
-      "duration_ms": 160071,
-      "name": "Hold This Memory",
-      "url": "https://open.spotify.com/track/21VnSlwtvNKUFFHHKqt7fI"
+      "duration_ms": 159180,
+      "name": "Body on Fire",
+      "url": "https://open.spotify.com/track/5Bl32FoKm0kTiMe6hcRNkV"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -147,22 +147,22 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Body on Fire",
-        "url": "https://open.spotify.com/album/3B90f5X9qYr2MFflbC8tRu"
+        "name": "Hold This Memory",
+        "url": "https://open.spotify.com/album/7G39pVt7Ed3PTkC0tHw7QG"
       },
       "artists": [
         {
-          "name": "SOMMA",
-          "url": "https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3"
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
         },
         {
-          "name": "Dillistone",
-          "url": "https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33"
+          "name": "Madism",
+          "url": "https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv"
         }
       ],
-      "duration_ms": 159180,
-      "name": "Body on Fire",
-      "url": "https://open.spotify.com/track/5Bl32FoKm0kTiMe6hcRNkV"
+      "duration_ms": 160071,
+      "name": "Hold This Memory",
+      "url": "https://open.spotify.com/track/21VnSlwtvNKUFFHHKqt7fI"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "Eyes",
+        "url": "https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 257500,
+      "name": "Eyes",
+      "url": "https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "Better Than This",
         "url": "https://open.spotify.com/album/3PYlJuHzvfM5OQYfJQlUJS"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 156923,
       "name": "Better Than This",
       "url": "https://open.spotify.com/track/2ZoKeEKH1Y2yp0GJAvNngn"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Eyes",
-        "url": "https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 257500,
-      "name": "Eyes",
-      "url": "https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -371,26 +371,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/3CVaImUrMiIWsweWKRPeN0"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "PLANT",
-          "url": "https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq"
-        }
-      ],
-      "duration_ms": 158031,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/7sfpydlJrHpTi533idUuZV"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "Where did you go",
         "url": "https://open.spotify.com/album/1MRd1XMJpkkmtmMP57hTmE"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 168000,
       "name": "Where did you go",
       "url": "https://open.spotify.com/track/0CUR9GVPMJmzz9r887N4UV"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/3CVaImUrMiIWsweWKRPeN0"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "PLANT",
+          "url": "https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq"
+        }
+      ],
+      "duration_ms": 158031,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/7sfpydlJrHpTi533idUuZV"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -519,6 +519,30 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/5cc9BsBk62rvhj2YifqBNK"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Janieck",
+          "url": "https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0"
+        },
+        {
+          "name": "Alon",
+          "url": "https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r"
+        }
+      ],
+      "duration_ms": 148522,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/5HnHPAhzUpLa2hYgy6EqDf"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "The Boys Of Summer",
         "url": "https://open.spotify.com/album/31XBvtJJ3fQkQUrRukoq1E"
       },
@@ -559,30 +583,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/5cc9BsBk62rvhj2YifqBNK"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Janieck",
-          "url": "https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0"
-        },
-        {
-          "name": "Alon",
-          "url": "https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r"
-        }
-      ],
-      "duration_ms": 148522,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/5HnHPAhzUpLa2hYgy6EqDf"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "Thousand Lullabies",
         "url": "https://open.spotify.com/album/2dItiBT8SSIoydzHmiIMBU"
       },
@@ -615,26 +615,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
-      },
-      "artists": [
-        {
-          "name": "Chris Malinchak",
-          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
-        },
-        {
-          "name": "KOLIDESCOPES",
-          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
-        }
-      ],
-      "duration_ms": 197739,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "2 Much",
         "url": "https://open.spotify.com/album/2uyBSSOL4xLjy1AKiySCbc"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 138026,
       "name": "2 Much",
       "url": "https://open.spotify.com/track/7twp7m9ZSxWwWyPgimocpH"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS"
+      },
+      "artists": [
+        {
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+        },
+        {
+          "name": "KOLIDESCOPES",
+          "url": "https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby"
+        }
+      ],
+      "duration_ms": 197739,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Kids",
-        "url": "https://open.spotify.com/album/2MlZjUB8aDVyhWPwEXn99T"
-      },
-      "artists": [
-        {
-          "name": "Patrick Lite",
-          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
-        }
-      ],
-      "duration_ms": 141371,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/6xhDH3jLEKg6rpcImMLTXo"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "Better Now",
         "url": "https://open.spotify.com/album/223dHoItv1AL15XYaLYzjY"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 169048,
       "name": "Better Now",
       "url": "https://open.spotify.com/track/74Hf2CrG7Y2dzCwPAXYugR"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/2MlZjUB8aDVyhWPwEXn99T"
+      },
+      "artists": [
+        {
+          "name": "Patrick Lite",
+          "url": "https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v"
+        }
+      ],
+      "duration_ms": 141371,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/6xhDH3jLEKg6rpcImMLTXo"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1239,46 +1239,6 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
-        "name": "Black & Blue",
-        "url": "https://open.spotify.com/album/5I0bMSjljTeXa0v1FzgivU"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "Black & Blue",
-      "url": "https://open.spotify.com/track/2NjqrHNV2jedO8CKw3ABgZ"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "My Darling",
-        "url": "https://open.spotify.com/album/7pLEdfUVtksONxs6AClTuq"
-      },
-      "artists": [
-        {
-          "name": "Junerule",
-          "url": "https://open.spotify.com/artist/2K63bqHDSj7JSW60BSGcur"
-        },
-        {
-          "name": "AUGUSTKID",
-          "url": "https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "My Darling",
-      "url": "https://open.spotify.com/track/4dCa3tf7dhIuFw8JokedvG"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
         "name": "Hold on Tight",
         "url": "https://open.spotify.com/album/6UtbCHjl70Y4lfeBzpHCOS"
       },
@@ -1303,6 +1263,26 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "Black & Blue",
+        "url": "https://open.spotify.com/album/5I0bMSjljTeXa0v1FzgivU"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Black & Blue",
+      "url": "https://open.spotify.com/track/2NjqrHNV2jedO8CKw3ABgZ"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "Wicked Game",
         "url": "https://open.spotify.com/album/46elmJx4DuIh8R58jynEGH"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 174893,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/6nYORhkFnyxAYcQZpoInxE"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
+        "name": "My Darling",
+        "url": "https://open.spotify.com/album/7pLEdfUVtksONxs6AClTuq"
+      },
+      "artists": [
+        {
+          "name": "Junerule",
+          "url": "https://open.spotify.com/artist/2K63bqHDSj7JSW60BSGcur"
+        },
+        {
+          "name": "AUGUSTKID",
+          "url": "https://open.spotify.com/artist/33HmxGJWuhR3dZVkQnls3y"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/4dCa3tf7dhIuFw8JokedvG"
     },
     {
       "added_at": "2023-12-21 23:00:00",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2023-12-21 23:00:00",
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/1WLXMRMpzyAdzYOzYf98B3"
+      },
+      "artists": [
+        {
+          "name": "Charleon",
+          "url": "https://open.spotify.com/artist/197faNV22JRdMv3xmmPz4p"
+        }
+      ],
+      "duration_ms": 171904,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/67BdlNZItL3SYjn0prj2Co"
+    },
+    {
+      "added_at": "2023-12-21 23:00:00",
+      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/5WwGb5jfW9icOphjipRqzG"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 152903,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/6ZB01Z7MU4upRj7whEt6Ye"
-    },
-    {
-      "added_at": "2023-12-21 23:00:00",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/1WLXMRMpzyAdzYOzYf98B3"
-      },
-      "artists": [
-        {
-          "name": "Charleon",
-          "url": "https://open.spotify.com/artist/197faNV22JRdMv3xmmPz4p"
-        }
-      ],
-      "duration_ms": 171904,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/67BdlNZItL3SYjn0prj2Co"
     },
     {
       "added_at": "2023-12-21 23:00:00",

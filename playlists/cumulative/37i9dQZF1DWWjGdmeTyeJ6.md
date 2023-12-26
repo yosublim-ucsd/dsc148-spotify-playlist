@@ -4,7 +4,7 @@
 
 > Our editors' picks of the best tracks from independent, developing artists around the world this year\. Cover: Searows
 
-5,421 songs - 12 day 7 hr 15 min
+5,423 songs - 12 day 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1769,7 +1769,7 @@
 | [From Me to You](https://open.spotify.com/track/0yTizzQjcAOj8zZNfHBkgL) | [PWNT](https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v) | [From Me to You](https://open.spotify.com/album/333e8sycLvInCv5SVViLLt) | 3:16 | 2023-04-19 | 2023-05-04 |
 | [From the Bottom of My Heart](https://open.spotify.com/track/737VDcUcUmJ8DrZI02o5Hv) | [LEW](https://open.spotify.com/artist/3Jm6kDs1lVTJSiIN6fZyP4) | [From the Bottom of My Heart](https://open.spotify.com/album/746BbdWExqTkxX4ag9LMWX) | 2:04 | 2023-01-11 | 2023-01-19 |
 | [From You](https://open.spotify.com/track/52cMqFjKP9O7fwyTS0uAQQ) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [From You](https://open.spotify.com/album/0WEBDFGiPBFoDx55iNQU7M) | 2:55 | 2023-09-20 | 2023-09-28 |
-| [FROM YOUR EYES](https://open.spotify.com/track/4oLTnJoOgNRDHDhqDQVSC9) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [FROM YOUR EYES](https://open.spotify.com/album/2kYaOfiAbeYfYUBEaEBJXX) | 2:30 | 2023-11-29 |  |
+| [FROM YOUR EYES](https://open.spotify.com/track/4oLTnJoOgNRDHDhqDQVSC9) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [FROM YOUR EYES](https://open.spotify.com/album/2kYaOfiAbeYfYUBEaEBJXX) | 2:30 | 2023-11-29 | 2023-12-26 |
 | [From: Your Flower](https://open.spotify.com/track/2tHHtvfSiqPhYOYoFu4Nc9) | [Lilly Myers](https://open.spotify.com/artist/7B2E74uB1zohFyMc02CZOL) | [From: Your Flower](https://open.spotify.com/album/1VVOHDPjCf10wznNUXvFWe) | 3:46 | 2023-03-01 | 2023-03-09 |
 | [Front Porch](https://open.spotify.com/track/1iKgBe3BFyDlPxlqUMg2nv) | [Graham Riley](https://open.spotify.com/artist/4KRGxIhi1WlsiS13XorIeG) | [Front Porch](https://open.spotify.com/album/4legpJG6JVSynu6YjsFEjq) | 3:07 | 2023-05-31 | 2023-06-08 |
 | [Front Row Seat](https://open.spotify.com/track/0vSVknC1QRWHmHDqgtOPfP) | [David Unlayao](https://open.spotify.com/artist/3OxjY9y8bls3YdSjGk7khk) | [Front Row Seat](https://open.spotify.com/album/7faCFyGekYkgwyYSN3cAW2) | 2:52 | 2022-08-03 | 2023-01-12 |
@@ -2404,6 +2404,7 @@
 | [If You'll Have Me](https://open.spotify.com/track/5eocW7HblxHATAlUkwihVj) | [Sabrina Sterling](https://open.spotify.com/artist/2TX3RFFIqwzwDjFMJN4nV9) | [If You'll Have Me](https://open.spotify.com/album/2Tj6aMOWvhNxk4bh3JA3vj) | 2:50 | 2023-04-05 | 2023-04-13 |
 | [IF YOU'RE GONNA LEAVE](https://open.spotify.com/track/3302p1EGYArdg0JmcZ3E4e) | [Angel White](https://open.spotify.com/artist/3mZYlwYjFmhMOxUIcbncHF) | [IF YOU'RE GONNA LEAVE](https://open.spotify.com/album/7gmk3BGyrpYhNuEHiakECj) | 3:33 | 2023-02-22 | 2023-06-29 |
 | [ifshitfuq](https://open.spotify.com/track/73YDopbDooUCO4WUKwI4zL) | [meg elsier](https://open.spotify.com/artist/4rkAMhebcdsLwZKBriNerT) | [ifshitfuq](https://open.spotify.com/album/4rpHu4Ca3tl9ju3UYzodja) | 3:50 | 2023-10-04 | 2023-11-09 |
+| [Illa Sera](https://open.spotify.com/track/79ocQFpSVnyQ7qokQSYbU6) | [Daniela Pes](https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c) | [SPIRA](https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H) | 4:03 | 2023-11-29 |  |
 | [Illbealright](https://open.spotify.com/track/1hr63UH982HEO8UqlOAZha) | [Ghita Askari](https://open.spotify.com/artist/6CdVgCCzJoLF4ijz2o7iE1) | [Illbealright](https://open.spotify.com/album/7IT7FGfFe25oFkx4KQhJM6) | 3:32 | 2023-05-24 | 2023-06-01 |
 | [im gonna kill you \(feat\. Sahati\)](https://open.spotify.com/track/4jSctcEMRrrjbOo60pbfmj) | [CHEEYA](https://open.spotify.com/artist/6yFEAMfnclFaaurukvlVqu), [Sahati](https://open.spotify.com/artist/3PGzj3O66abGPzQNmKELCf) | [im gonna kill you \(feat\. Sahati\)](https://open.spotify.com/album/2Bom4X9Z5VZRH2tvWXRjx9) | 3:30 | 2023-04-05 | 2023-04-13 |
 | [im not important](https://open.spotify.com/track/4idQrHSD0CPe5jHrPcEHNb) | [Llunr](https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2) | [im not important](https://open.spotify.com/album/2ZwUbHoAJeIer3MOACR5uJ) | 2:05 | 2022-03-09 | 2022-03-17 |
@@ -3977,7 +3978,7 @@
 | [Rockabye](https://open.spotify.com/track/5PeQaXUiOaU5xN6SxQv6OX) | [Tia Tia](https://open.spotify.com/artist/6fbIkBK4DW2IPnlKk9MLWS) | [Rockabye](https://open.spotify.com/album/5z5y0rjhxu3ft3pEychFLQ) | 2:09 | 2023-03-01 | 2023-03-09 |
 | [Rocket Science](https://open.spotify.com/track/2o3pfn5RI5anPcKJ4LI7hA) | [Haley Gold](https://open.spotify.com/artist/6O9lZQoUyrZVY1dVJ0NlG9) | [Rocket Science](https://open.spotify.com/album/6MWK0X2Bn7xIpKIt3YNYhc) | 3:05 | 2022-05-25 | 2022-06-09 |
 | [Rocket Ship](https://open.spotify.com/track/7ul0qSFpZHXS8XncqBNIwS) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Rocket Ship](https://open.spotify.com/album/7av0cujFS6fXO1oQxUpm7m) | 1:29 | 2023-04-26 | 2023-05-04 |
-| [rocketship](https://open.spotify.com/track/76DunIkk8KTicv9fX4iqTc) | [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [rocketship](https://open.spotify.com/album/5y40MyatlF2aCaMsFTRJDE) | 2:39 | 2023-11-29 |  |
+| [rocketship](https://open.spotify.com/track/76DunIkk8KTicv9fX4iqTc) | [Adriel](https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N), [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW) | [rocketship](https://open.spotify.com/album/5y40MyatlF2aCaMsFTRJDE) | 2:39 | 2023-11-29 | 2023-12-26 |
 | [Rockin' & Rollin](https://open.spotify.com/track/4U8PK5lwaOTMITmRlsH15n) | [SheedTs](https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ) | [Rockin' & Rollin](https://open.spotify.com/album/4C1Bcy0lQFUH2jVOthpeXY) | 2:12 | 2023-03-08 | 2023-03-16 |
 | [Rocks](https://open.spotify.com/track/33q5GW1JOMiCtW6FCVZo0g) | [Buck Raines](https://open.spotify.com/artist/0uhS2Dm4iv3qukaycmPbNF) | [Rocks](https://open.spotify.com/album/5tnRNJMyuCZxxfTIIL1Fxz) | 3:03 | 2023-04-05 | 2023-04-13 |
 | [Rodeo](https://open.spotify.com/track/2z1F7XJYAZiKF0aHYUPlxR) | [Houndsteeth](https://open.spotify.com/artist/4M5Cn7toppdijfgQePnWcx) | [Rodeo](https://open.spotify.com/album/5vRZ1e07D7N5Nw97LhHAaX) | 3:04 | 2023-09-27 | 2023-10-05 |
@@ -4863,6 +4864,7 @@
 | [Timeless](https://open.spotify.com/track/4xs4pD7Piz2HyQgdMcobKd) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Timeless](https://open.spotify.com/album/5DvGT5f0XU0wCCtUboAW47) | 3:14 | 2023-07-19 | 2023-07-27 |
 | [Timeless](https://open.spotify.com/track/621ZeUkBOs93NwbWixnMHD) | [HOLLISS](https://open.spotify.com/artist/0DqLsOH3Ou5KUMsbosBaHQ) | [Timeless](https://open.spotify.com/album/37wuXOHCDBPMdoZbzhxGq4) | 3:03 | 2022-04-06 | 2022-04-14 |
 | [Timeless](https://open.spotify.com/track/3a5aiBo7q33rfqpRqLuMhs) | [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Timeless](https://open.spotify.com/album/78p7OUay4SIL5CeBfRXdTl) | 3:00 | 2023-03-29 | 2023-04-06 |
+| [Times It By Two](https://open.spotify.com/track/2PG64K0mmStEaVEARRurQm) | [Annie Tracy](https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF) | [Times It By Two](https://open.spotify.com/album/296rlA2qhO9UrAxy7u9MNk) | 3:25 | 2023-11-29 |  |
 | [Times It By Two](https://open.spotify.com/track/5K1jIe2SWTGrm37SN0Crdo) | [Annie Tracy](https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF) | [Times It By Two](https://open.spotify.com/album/1YY7YJ6m8z7SYv9UU9YQwp) | 3:25 | 2023-04-05 | 2023-12-17 |
 | [Timez](https://open.spotify.com/track/2a5LVR3eXopjmCQKI8OIUi) | [THE TON3Z](https://open.spotify.com/artist/7JvokXFJRnhR5HjPsPdAAj) | [The Ton3z](https://open.spotify.com/album/70I0B1KDvUF7UvojPFQAAb) | 4:16 | 2022-02-23 | 2022-03-03 |
 | [Tinka](https://open.spotify.com/track/3qaRvg6ycuTAQKgTnlhpjn) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Tinka](https://open.spotify.com/album/6nklrGCdQRC5NUuYoM9DMP) | 3:19 | 2023-11-29 |  |

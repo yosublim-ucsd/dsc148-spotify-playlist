@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Dolly Parton and Lainey Wilson",
-  "num_followers": 102726,
+  "num_followers": 102758,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTA0ZmZhZjE2ZDEzOTI3NWRmMDQyZDZmOWRhY2E0Mzc0ZjFiMzQ2",
+  "snapshot_id": "MCwxOWQ0YTYxNWYwZjZjZTY1ZjJlYWMwYzNiNDdiYjI3NGNmZWEwZjYz",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -987,18 +987,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W"
+        "name": "Heartbroken",
+        "url": "https://open.spotify.com/album/3UVS9doErvVmN7X7JpSKxc"
       },
       "artists": [
         {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+          "name": "David J",
+          "url": "https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo"
         }
       ],
-      "duration_ms": 192093,
-      "name": "Summertime Blues",
-      "url": "https://open.spotify.com/track/3hV8Gvijx6cVv339o3uCSK"
+      "duration_ms": 174320,
+      "name": "Heartbroken",
+      "url": "https://open.spotify.com/track/6HTgaPwwHeONuUubCjxgjn"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Heartbroken",
-        "url": "https://open.spotify.com/album/3UVS9doErvVmN7X7JpSKxc"
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W"
       },
       "artists": [
         {
-          "name": "David J",
-          "url": "https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 174320,
-      "name": "Heartbroken",
-      "url": "https://open.spotify.com/track/6HTgaPwwHeONuUubCjxgjn"
+      "duration_ms": 192093,
+      "name": "Summertime Blues",
+      "url": "https://open.spotify.com/track/3hV8Gvijx6cVv339o3uCSK"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1051,18 +1051,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "I Wanna Dance With Somebody (Who Loves Me)",
-        "url": "https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW"
+        "name": "Reba Duets",
+        "url": "https://open.spotify.com/album/39Os87XP3yC2XBSpAur4BL"
       },
       "artists": [
         {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         }
       ],
-      "duration_ms": 203538,
-      "name": "I Wanna Dance With Somebody - Who Loves Me",
-      "url": "https://open.spotify.com/track/0cgFnx6yIVv3RrqXlZTiGZ"
+      "duration_ms": 223746,
+      "name": "Because Of You",
+      "url": "https://open.spotify.com/track/5LGEfWqwgYL16tyXkrRC8J"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1083,22 +1087,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Reba Duets",
-        "url": "https://open.spotify.com/album/39Os87XP3yC2XBSpAur4BL"
+        "name": "I Wanna Dance With Somebody (Who Loves Me)",
+        "url": "https://open.spotify.com/album/32eU7uDLs7JNgYXoFtG2AW"
       },
       "artists": [
         {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        },
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
         }
       ],
-      "duration_ms": 223746,
-      "name": "Because Of You",
-      "url": "https://open.spotify.com/track/5LGEfWqwgYL16tyXkrRC8J"
+      "duration_ms": 203538,
+      "name": "I Wanna Dance With Somebody - Who Loves Me",
+      "url": "https://open.spotify.com/track/0cgFnx6yIVv3RrqXlZTiGZ"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "The Foundation",
-        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
+        "name": "You're Still The One",
+        "url": "https://open.spotify.com/album/7eDDPso1MhI1Uc4SsbLVnD"
       },
       "artists": [
         {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+          "name": "Ryan Waters Band",
+          "url": "https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi"
         }
       ],
-      "duration_ms": 260252,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/3KwXjiZwQHSsqQAnrcH8uZ"
+      "duration_ms": 195455,
+      "name": "You're Still The One",
+      "url": "https://open.spotify.com/track/2krzZT5Sk5268fKCalESbe"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1267,6 +1267,22 @@
       "duration_ms": 168066,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/7qdzU4nHajh0k9ziDnqX5G"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "The Foundation",
+        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 260252,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/3KwXjiZwQHSsqQAnrcH8uZ"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1303,22 +1319,6 @@
       "duration_ms": 249573,
       "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
       "url": "https://open.spotify.com/track/3P9mtsqs0J79yGVmVuAs4B"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "You're Still The One",
-        "url": "https://open.spotify.com/album/7eDDPso1MhI1Uc4SsbLVnD"
-      },
-      "artists": [
-        {
-          "name": "Ryan Waters Band",
-          "url": "https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi"
-        }
-      ],
-      "duration_ms": 195455,
-      "name": "You're Still The One",
-      "url": "https://open.spotify.com/track/2krzZT5Sk5268fKCalESbe"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Nothing Else Matters",
-        "url": "https://open.spotify.com/album/2ri6eDQYCQtoCJH6O4IBFg"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 494800,
-      "name": "Nothing Else Matters",
-      "url": "https://open.spotify.com/track/2diAXaP8GEWHa6ORPctFnh"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6FScslXq5fezJiaKFRwBlQ"
       },
@@ -1475,18 +1459,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "No Holdin' Back",
-        "url": "https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP"
+        "name": "Nothing Else Matters",
+        "url": "https://open.spotify.com/album/2ri6eDQYCQtoCJH6O4IBFg"
       },
       "artists": [
         {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 235920,
-      "name": "It's Just a Matter of Time",
-      "url": "https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp"
+      "duration_ms": 494800,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/2diAXaP8GEWHa6ORPctFnh"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1511,6 +1495,22 @@
       "duration_ms": 267859,
       "name": "Let It Be (feat. Paul McCartney and Ringo Starr)",
       "url": "https://open.spotify.com/track/67eBprqjXUiKOzoK2jgsCe"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "No Holdin' Back",
+        "url": "https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "duration_ms": 235920,
+      "name": "It's Just a Matter of Time",
+      "url": "https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1631,6 +1631,26 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "It's Only Rock 'N' Roll (But I Like It)",
+        "url": "https://open.spotify.com/album/1GCjwU2CejKwooZG68QBqb"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        },
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 322346,
+      "name": "It's Only Rock 'N' Roll (But I Like It)",
+      "url": "https://open.spotify.com/track/001c1daR1pFdqfpe1vAWzh"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Teenage Dream",
         "url": "https://open.spotify.com/album/1qP5WX9ynLx93VQadyYuN0"
       },
@@ -1667,22 +1687,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "It's Only Rock 'N' Roll (But I Like It)",
-        "url": "https://open.spotify.com/album/1GCjwU2CejKwooZG68QBqb"
+        "name": "Whatever It Is",
+        "url": "https://open.spotify.com/album/1M0t9G8Ip0snSJZEp6CswH"
       },
       "artists": [
         {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        },
-        {
-          "name": "The War and Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
         }
       ],
-      "duration_ms": 322346,
-      "name": "It's Only Rock 'N' Roll (But I Like It)",
-      "url": "https://open.spotify.com/track/001c1daR1pFdqfpe1vAWzh"
+      "duration_ms": 219854,
+      "name": "Whatever It Is",
+      "url": "https://open.spotify.com/track/23s4QWE0SAFXDKqpCl8Olq"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1703,26 +1719,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4dIIaejKvQW1sHG2YqlFbm"
-      },
-      "artists": [
-        {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
-        },
-        {
-          "name": "49 Winchester",
-          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
-        }
-      ],
-      "duration_ms": 269382,
-      "name": "Night Life - (Hot Country Artists to Watch) - Spotify Singles",
-      "url": "https://open.spotify.com/track/6dJlulD7mTkgGyFnKTLM3N"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Feeling Whitney",
         "url": "https://open.spotify.com/album/7e0N7emlUh6WAAFpsPdVJw"
       },
@@ -1739,18 +1735,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Whatever It Is",
-        "url": "https://open.spotify.com/album/1M0t9G8Ip0snSJZEp6CswH"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4dIIaejKvQW1sHG2YqlFbm"
       },
       "artists": [
         {
-          "name": "Owen Riegling",
-          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        },
+        {
+          "name": "49 Winchester",
+          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
         }
       ],
-      "duration_ms": 219854,
-      "name": "Whatever It Is",
-      "url": "https://open.spotify.com/track/23s4QWE0SAFXDKqpCl8Olq"
+      "duration_ms": 269382,
+      "name": "Night Life - (Hot Country Artists to Watch) - Spotify Singles",
+      "url": "https://open.spotify.com/track/6dJlulD7mTkgGyFnKTLM3N"
     },
     {
       "added_at": "2023-12-15 05:00:00",

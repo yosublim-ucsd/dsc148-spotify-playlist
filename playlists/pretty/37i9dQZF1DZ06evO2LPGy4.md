@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 
 > This is Gerardo Ortiz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,519 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,596 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 | 49 | [El Pelo Chino](https://open.spotify.com/track/5aEB9XqxVvaYZMtjVL9n9q) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Pelo Chino](https://open.spotify.com/album/4lbTVQ0Lntlp4uoIQEX9v7) | 3:00 |
 | 50 | [Mi Vicio Más Grande](https://open.spotify.com/track/6c2OfsMKs7pv7qhD0sGGeM) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [80 Años De Música Entre Amigos](https://open.spotify.com/album/1scgYlpUobokSRDYyeAwE3) | 2:17 |
 
-Snapshot ID: `MjgzOTAyOTIsMDAwMDAwMDBiYzg4YjE4MWQ3NGFkYzViYTNmM2ZiMDhkMWY2Y2I0YQ==`
+Snapshot ID: `MjgzOTE3MzUsMDAwMDAwMDAyMzU5MjE4MDBhYzNkYzFhYzAyZWI2MDYxMjYyMmM1Zg==`

@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-402 songs - 1 day 9 hr 59 min
+403 songs - 1 day 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Back Up](https://open.spotify.com/track/28tiVC1tvvPwG4jajq63pJ) | [Tal Fussman](https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb) | [Back Up](https://open.spotify.com/album/10yJevvqETfkqxVtKIL2Pd) | 6:11 | 2023-02-27 | 2023-03-04 |
 | [Beograd](https://open.spotify.com/track/2ykSdsea5j5O4w6NescYdK) | [Tonco](https://open.spotify.com/artist/6Mj3FYNYZNcnSZI1yHq3l8) | [Beograd](https://open.spotify.com/album/2XNfXji0VdhNDR6KpLF1Pg) | 3:34 | 2023-09-21 | 2023-11-10 |
 | [Betrayal](https://open.spotify.com/track/6a25inJpWjDP9WwKgO8gFI) | [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Betrayal](https://open.spotify.com/album/4QTWadvF8SLwDbnwMJ7DSR) | 6:06 | 2023-12-08 |  |
+| [Better Days](https://open.spotify.com/track/3A5ZCWkV5EOJ949L1YzpJn) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi) | [Better Days](https://open.spotify.com/album/3hio3GF2DEZ2OYIAyUmvXd) | 3:03 | 2023-12-15 |  |
 | [Better Together](https://open.spotify.com/track/0NJRskEVmAdgBXq9LVuHPs) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Watergate 20 Years \(Pt\. 2/8\)](https://open.spotify.com/album/5wnaw4TaaogpSllYqt2Mix) | 3:21 | 2022-11-23 | 2023-03-22 |
 | [Beyond Us \- Hatshepsut Version](https://open.spotify.com/track/43eF4GLcpQkzJElhw7kGUj) | [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Beyond Us \(Hatshepsut Version\)](https://open.spotify.com/album/72jzGPaUtzX4wwbigsKmz9) | 3:54 | 2023-03-10 |  |
 | [Billinghurst \- Original Mix](https://open.spotify.com/track/1kZVDA9y4vL1pVDmmNGKji) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Damon EP](https://open.spotify.com/album/1fHq7k3X3rMsRx0xdRfL9F) | 7:36 | 2022-11-23 | 2023-05-18 |
@@ -259,7 +260,7 @@
 | [Pantheon](https://open.spotify.com/track/2fY9O2PpELY5hubBbC2zEG) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Pantheon](https://open.spotify.com/album/6CCx2uI8l08YutD22C7BvT) | 4:32 | 2023-01-13 |  |
 | [Paradise Calling \- Henri Bergmann Remix](https://open.spotify.com/track/6Wu6BSw8N2KqBNHKYZolYu) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [Henri Bergmann](https://open.spotify.com/artist/1FiAkaEAyepvi57FmYvJqo) | [Paradise Calling \(Henri Bergmann Remix\)](https://open.spotify.com/album/32CDmng6IXw9koENByQRiw) | 5:19 | 2023-12-08 |  |
 | [Parallel Universe](https://open.spotify.com/track/5xAJUyPsGjvGWxoeSl4zuV) | [Denise Schneider](https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI) | [Parallel Universe](https://open.spotify.com/album/2oyN4nfs3fNbczk0CTP722) | 3:14 | 2023-06-09 | 2023-06-17 |
-| [Pegasus](https://open.spotify.com/track/0ly6MZRi74jcRezlEYqeeJ) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Pegasus](https://open.spotify.com/album/6DHxpHF6eBymp71iWvjwTV) | 6:52 | 2023-03-24 |  |
+| [Pegasus](https://open.spotify.com/track/0ly6MZRi74jcRezlEYqeeJ) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Pegasus](https://open.spotify.com/album/6DHxpHF6eBymp71iWvjwTV) | 6:52 | 2023-03-24 | 2023-12-26 |
 | [Pet Sound](https://open.spotify.com/track/5mDlLXhBzoneaC3pvaXbNE) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [I Talk To Water](https://open.spotify.com/album/07aZK8FsMUcJkrADgMWxsi) | 5:46 | 2023-11-09 | 2023-12-02 |
 | [Place To Be](https://open.spotify.com/track/7fEXuHcjNUIDjoe1LUxyqt) | [Miane](https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X) | [Place To Be](https://open.spotify.com/album/4AFTUQtnX34HBOJjk08Wdp) | 3:12 | 2023-05-23 | 2023-06-01 |
 | [Point Of No Return](https://open.spotify.com/track/6PzfuuQ95fRU9JRFSFFq77) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Point Of No Return](https://open.spotify.com/album/6YfeosMg7VMAnS9wXiMQID) | 4:43 | 2023-03-21 |  |

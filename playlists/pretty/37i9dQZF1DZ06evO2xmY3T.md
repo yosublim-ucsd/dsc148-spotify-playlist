@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 
 > This is Cardi B\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 667,019 likes - 48 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 667,078 likes - 48 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 | 47 | [Thotiana \(Remix\)](https://open.spotify.com/track/2eNWfN0pJIC5azoGAiuiGo) | [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Famous Cryp \(Reloaded\)](https://open.spotify.com/album/2xMAdD6L9BZwXT9bVsodxu) | 4:57 |
 | 48 | [Type Shit \(feat\. Cardi B\)](https://open.spotify.com/track/4N4wemxs9Em6nJ5kXTjEsS) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:09 |
 
-Snapshot ID: `MjgzOTAyOTIsMDAwMDAwMDBjODA4YmRmMWZhYTVhNWRmMjEwODY2ZmJjOGY4NzBlZQ==`
+Snapshot ID: `MjgzOTE3MzQsMDAwMDAwMDBmMTI3MjA4YTAzYzIxYmRlMWNjNzYwNzdmN2M5ZDk0MA==`

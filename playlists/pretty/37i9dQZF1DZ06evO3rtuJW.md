@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 
 > This is G Herbo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,187 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,185 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 | 27 | [Perfect Match \(feat\. 42 Dugg & G Herbo\)](https://open.spotify.com/track/42L59PO4HHI9OMxjtIoX2q) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 3:40 |
 | 28 | [Wilt Chamberlin](https://open.spotify.com/track/3t4ElXlTaOv5pFZmJBLh06) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Still Swervin](https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV) | 2:28 |
 | 29 | [Cap Guns](https://open.spotify.com/track/7I2XiD0oUxwwcTemm2ftFG) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [PTSD \(Deluxe\)](https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY) | 3:16 |
-| 30 | [DON'T LEAVE ME \(feat\. G Herbo & Lil Durk\)](https://open.spotify.com/track/2n1XN46reBpu5I9wDwzZMP) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:47 |
-| 31 | [Party in Heaven](https://open.spotify.com/track/0nSwqwNqNUlNgpPJ4GDAMm) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [PTSD](https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr) | 3:16 |
+| 30 | [Party in Heaven](https://open.spotify.com/track/0nSwqwNqNUlNgpPJ4GDAMm) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [PTSD](https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr) | 3:16 |
+| 31 | [DON'T LEAVE ME \(feat\. G Herbo & Lil Durk\)](https://open.spotify.com/track/2n1XN46reBpu5I9wDwzZMP) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:47 |
 | 32 | [Body Count \(feat\. King Von & G Herbo\)](https://open.spotify.com/track/30AW1wD8qK1Bqw3Z44xs3f) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Beyond Bulletproof](https://open.spotify.com/album/3Ud5r7QHfMF1UhH8a5M1cH) | 4:03 |
 | 33 | [Real One](https://open.spotify.com/track/2rBQUcuBP89PonXz4A9QJh) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [PTSD \(Deluxe\)](https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY) | 2:42 |
 | 34 | [Never Scared \(feat\. Juice WRLD\)](https://open.spotify.com/track/6D2RIkzcbQ5JT99JA0eVgi) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Still Swervin](https://open.spotify.com/album/7EHKnNdskf0X7Swu43CKnV) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rtuJW.md) - [plain]
 | 49 | [Everything](https://open.spotify.com/track/4HNFreT8wNv9oOFC5RQew9) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Humble Beast \(Deluxe\)](https://open.spotify.com/album/46Shwm91xl9opm3MadNEGn) | 2:41 |
 | 50 | [Chi\-Raq \(with G Herbo\)](https://open.spotify.com/track/5dOcS75jq0kLKbvCY9P2Ex) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Beam Me Up Scotty](https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r) | 3:51 |
 
-Snapshot ID: `MjgzOTAyOTIsMDAwMDAwMDA2M2JkMDE2MjM5ODI4NDE5Yzk0MWUyZTYzYjIzOTVmMA==`
+Snapshot ID: `MjgzOTE3MzUsMDAwMDAwMDAwYWQwOTY0YmE3MDQxMzcxMjVhZjFjZWFmYjIzMGY3Zg==`

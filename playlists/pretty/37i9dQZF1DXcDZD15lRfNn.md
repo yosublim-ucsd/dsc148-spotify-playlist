@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZD15lRfNn.md) - [plain]
 | 23 | [너에게 난 나에게 넌](https://open.spotify.com/track/0xk9JJtMY7bf5omWZMQrhL) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [투유프로젝트 \- Sugar Man3 Episode.13](https://open.spotify.com/album/62oHiP43b3A0j8wigHtpP3) | 4:27 |
 | 24 | [버스안에서](https://open.spotify.com/track/27Mtoumk8uvzmqQ2liLTbk) | [장준](https://open.spotify.com/artist/5yES1lbfHCYiyoMu2lytl3), [TAG](https://open.spotify.com/artist/6wWzrvB5m2BSseIfpeWtJX), [Kei\(김지연\)](https://open.spotify.com/artist/7iNpNRwtBogISqdh1nPazB) | [투유프로젝트 \- Sugar Man3 Episode.13](https://open.spotify.com/album/62oHiP43b3A0j8wigHtpP3) | 3:11 |
 
-Snapshot ID: `MCw1OWYxNjBkMWJhYjE0Y2UxNjE2NWRiM2JhODVmZDRjOGQ5ZDA4MzYz`
+Snapshot ID: `MCw5ZmRkZDNhNjA0ZmZiNTIwN2FmM2I1ZDg3MWU3ZmYxNmQwZmM2YzZh`

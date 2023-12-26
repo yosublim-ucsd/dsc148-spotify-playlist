@@ -4,7 +4,7 @@
 
 > Groovy, dancy, funky stuff\. When in doubt, turn this on at the party.
 
-459 songs - 1 day 3 hr 14 min
+460 songs - 1 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Crowd Surf](https://open.spotify.com/track/4kg0eZZJDc6Fp2KHEbYcXg) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [Double Superfine](https://open.spotify.com/album/7pnJsCH9fM52wRJ9qWOqUr) | 3:04 | 2021-11-19 | 2022-07-14 |
 | [CRYSTALLIZED](https://open.spotify.com/track/7yPVWeojpxwoLcuQwfgWUx) | [DLG.](https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP) | [CRYSTALLIZED](https://open.spotify.com/album/5mU4Qb8aMAV0joRJnyfNpA) | 3:01 | 2022-07-11 | 2022-07-29 |
 | [Cutie](https://open.spotify.com/track/4nLTOnpSCBwRlul92HLIyW) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Cutie](https://open.spotify.com/album/5bn7iiPpq2Za6KX1PekKD2) | 3:04 | 2022-01-28 | 2023-08-19 |
-| [Cutie](https://open.spotify.com/track/555poPmhRmQWPsMDGwkifG) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6) | 3:04 | 2023-09-29 |  |
+| [Cutie](https://open.spotify.com/track/555poPmhRmQWPsMDGwkifG) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Uncanny Valley](https://open.spotify.com/album/6ep7RptFPcLPi3qAhwi8l6) | 3:04 | 2023-09-29 | 2023-12-26 |
 | [D.A.N.C.E](https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 4:02 | 2020-12-31 | 2022-08-12 |
 | [Daddy Issues](https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Wiped Out!](https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF) | 4:20 | 2020-12-31 | 2022-08-12 |
 | [damn Right](https://open.spotify.com/track/76Gw6K3kG2zjuNGoFuwxIP) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [damn Right](https://open.spotify.com/album/3SlvWfCmLRNQWZlgzYep3B) | 2:44 | 2020-12-31 | 2022-07-29 |
@@ -284,6 +284,7 @@
 | [Money \(feat\. Flo Milli\)](https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Money \(feat\. Flo Milli\)](https://open.spotify.com/album/5u9dBzQdVd9YDblzgtxOlD) | 2:30 | 2021-11-19 | 2022-04-18 |
 | [Money Trees](https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [good kid, m.A.A.d city](https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1) | 6:26 | 2020-12-31 | 2022-08-12 |
 | [Monte Carlo](https://open.spotify.com/track/3CXCtE8qJIFtUJJZRKCcXC) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Monte Carlo](https://open.spotify.com/album/5jZs0pEMbz0ZDdEqd0GmrI) | 2:23 | 2020-12-31 | 2022-07-29 |
+| [Montreal](https://open.spotify.com/track/12YAZNNm2OuSgDBKjFQcNm) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Elliot \- EP](https://open.spotify.com/album/4Wlcc4cFTzXBG3U5DI5xz5) | 3:56 | 2023-09-29 |  |
 | [Montreal](https://open.spotify.com/track/5maosvba9QkQP14u6vtxog) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Elliot \- EP](https://open.spotify.com/album/4AFujnAenTwa4R07Fwyysp) | 3:56 | 2023-06-29 | 2023-10-29 |
 | [Monument \- The Inevitable End Version](https://open.spotify.com/track/616ddBwW0LpyhCpLE5BpIP) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [The Inevitable End](https://open.spotify.com/album/3ZBCxww5l2GuPEtOmhP73N) | 4:46 | 2020-12-31 | 2022-04-21 |
 | [Moonlight](https://open.spotify.com/track/3dyI5XL7jMz905RsJiGDjf) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Moonlight](https://open.spotify.com/album/6oaWJD1A4bgpiqNWvp0mwk) | 3:25 | 2023-10-13 | 2023-11-18 |

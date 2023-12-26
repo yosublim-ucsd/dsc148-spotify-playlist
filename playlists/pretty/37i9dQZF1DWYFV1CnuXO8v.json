@@ -1,12 +1,12 @@
 {
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n \u0643\u0648\u0641\u0631: <a href=\"https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg?si=SaDgQlWvTb2aXAi94J-UOA\"> \u0627\u0646\u063a\u0627\u0645 </a>",
-  "num_followers": 110658,
+  "num_followers": 110843,
   "original_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmQ1NDc0OTFiZGFiYTEyYzlmNjM5YjQ2YTZlM2EyNTM2MmU3MGFh",
+  "snapshot_id": "MCw3YmRhMzIxMTBkOTI4OGJhM2NkOTkzOGU3ZDU0NDY0Yzk4MDg0NmUz",
   "tracks": [
     {
       "added_at": "2023-12-21 16:09:36",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-12-21 16:09:36",
       "album": {
-        "name": "Ader Akmel",
-        "url": "https://open.spotify.com/album/393g3wXpkLzwfnewZVZ01n"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Saad",
-          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
-        }
-      ],
-      "duration_ms": 253384,
-      "name": "Ader Akmel",
-      "url": "https://open.spotify.com/track/2IhPJapsl9WFLBFNhWZp7q"
-    },
-    {
-      "added_at": "2023-12-21 16:09:36",
-      "album": {
         "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
         "url": "https://open.spotify.com/album/5Qgmfingzj1FsL1kbu2V5L"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 198571,
       "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
       "url": "https://open.spotify.com/track/2WuP742LZAVBU21UQXkj5e"
+    },
+    {
+      "added_at": "2023-12-21 16:09:36",
+      "album": {
+        "name": "Ader Akmel",
+        "url": "https://open.spotify.com/album/393g3wXpkLzwfnewZVZ01n"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        }
+      ],
+      "duration_ms": 253384,
+      "name": "Ader Akmel",
+      "url": "https://open.spotify.com/track/2IhPJapsl9WFLBFNhWZp7q"
     },
     {
       "added_at": "2023-12-21 16:09:36",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-12-21 16:09:36",
       "album": {
-        "name": "\u0648\u0645\u0639\u0627\u0643",
-        "url": "https://open.spotify.com/album/271cKJeVqEaiCFJleoaw10"
-      },
-      "artists": [
-        {
-          "name": "Nedaa Shrara",
-          "url": "https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI"
-        }
-      ],
-      "duration_ms": 235750,
-      "name": "\u0648\u0645\u0639\u0627\u0643",
-      "url": "https://open.spotify.com/track/1IBDW2nrAVzFXCH5vIdt2d"
-    },
-    {
-      "added_at": "2023-12-21 16:09:36",
-      "album": {
         "name": "\u0639\u0627\u0645\u0644\u0629 \u0627\u064a\u0647 \u061f\u061f",
         "url": "https://open.spotify.com/album/3SGSJ7kYeinqlZMwY2uJu0"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 152855,
       "name": "\u0639\u0627\u0645\u0644\u0629 \u0627\u064a\u0647 \u061f\u061f",
       "url": "https://open.spotify.com/track/5KOrRI5QeDrUEhRdmeijtP"
+    },
+    {
+      "added_at": "2023-12-21 16:09:36",
+      "album": {
+        "name": "\u0648\u0645\u0639\u0627\u0643",
+        "url": "https://open.spotify.com/album/271cKJeVqEaiCFJleoaw10"
+      },
+      "artists": [
+        {
+          "name": "Nedaa Shrara",
+          "url": "https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI"
+        }
+      ],
+      "duration_ms": 235750,
+      "name": "\u0648\u0645\u0639\u0627\u0643",
+      "url": "https://open.spotify.com/track/1IBDW2nrAVzFXCH5vIdt2d"
     },
     {
       "added_at": "2023-12-21 16:09:36",
@@ -259,6 +259,22 @@
     {
       "added_at": "2023-12-21 16:09:36",
       "album": {
+        "name": "Lehqt Nafsy",
+        "url": "https://open.spotify.com/album/5Hy7i5IWXGVgnZ6EGYK5Oq"
+      },
+      "artists": [
+        {
+          "name": "Assala Nasri",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        }
+      ],
+      "duration_ms": 199076,
+      "name": "Manga",
+      "url": "https://open.spotify.com/track/72UjNW994y94RYAdTB4zD4"
+    },
+    {
+      "added_at": "2023-12-21 16:09:36",
+      "album": {
         "name": "\u0628\u062d\u0628\u0643",
         "url": "https://open.spotify.com/album/2BBf2DS8iEOLWD5qUVCBe2"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 193000,
       "name": "Ew3a",
       "url": "https://open.spotify.com/track/1LN3baoelgQTeK6XIb80q1"
-    },
-    {
-      "added_at": "2023-12-21 16:09:36",
-      "album": {
-        "name": "Lehqt Nafsy",
-        "url": "https://open.spotify.com/album/5Hy7i5IWXGVgnZ6EGYK5Oq"
-      },
-      "artists": [
-        {
-          "name": "Assala Nasri",
-          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
-        }
-      ],
-      "duration_ms": 199076,
-      "name": "Manga",
-      "url": "https://open.spotify.com/track/72UjNW994y94RYAdTB4zD4"
     },
     {
       "added_at": "2023-12-21 16:09:36",
@@ -355,38 +355,6 @@
     {
       "added_at": "2023-12-21 16:09:36",
       "album": {
-        "name": "Kol Haga Bena",
-        "url": "https://open.spotify.com/album/4sP2eO6axQPJmj29zVbWe3"
-      },
-      "artists": [
-        {
-          "name": "Tamer Hosny",
-          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
-        }
-      ],
-      "duration_ms": 250032,
-      "name": "Kol Haga Bena",
-      "url": "https://open.spotify.com/track/6R9vGR2LDKwSjCdGfzk4iF"
-    },
-    {
-      "added_at": "2023-12-21 16:09:36",
-      "album": {
-        "name": "Fe Hetta Tanya",
-        "url": "https://open.spotify.com/album/2BHwb6p6sLzdNRZkepJNtF"
-      },
-      "artists": [
-        {
-          "name": "Mahmoud El Esseily",
-          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
-        }
-      ],
-      "duration_ms": 257695,
-      "name": "Fe Hetta Tanya",
-      "url": "https://open.spotify.com/track/6lCoHq4ZBVAVSk83G55nnp"
-    },
-    {
-      "added_at": "2023-12-21 16:09:36",
-      "album": {
         "name": "Ahla Wahda",
         "url": "https://open.spotify.com/album/2NVcbbexvP2V3pDBtvXI6K"
       },
@@ -407,18 +375,18 @@
     {
       "added_at": "2023-12-21 16:09:36",
       "album": {
-        "name": "Piece Of My Heart",
-        "url": "https://open.spotify.com/album/6vY2pZ4Rzik0z0sC0D677x"
+        "name": "Fe Hetta Tanya",
+        "url": "https://open.spotify.com/album/2BHwb6p6sLzdNRZkepJNtF"
       },
       "artists": [
         {
-          "name": "Hussain Aljassmi",
-          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
+          "name": "Mahmoud El Esseily",
+          "url": "https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB"
         }
       ],
-      "duration_ms": 189176,
-      "name": "Piece Of My Heart",
-      "url": "https://open.spotify.com/track/0ifZ1W4CLyLdFzI29hmQFM"
+      "duration_ms": 257695,
+      "name": "Fe Hetta Tanya",
+      "url": "https://open.spotify.com/track/6lCoHq4ZBVAVSk83G55nnp"
     },
     {
       "added_at": "2023-12-21 16:09:36",
@@ -435,6 +403,38 @@
       "duration_ms": 257532,
       "name": "Bi Kelma Menak",
       "url": "https://open.spotify.com/track/042s2c7HA1Bd1LLFUEaja0"
+    },
+    {
+      "added_at": "2023-12-21 16:09:36",
+      "album": {
+        "name": "Kol Haga Bena",
+        "url": "https://open.spotify.com/album/4sP2eO6axQPJmj29zVbWe3"
+      },
+      "artists": [
+        {
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
+        }
+      ],
+      "duration_ms": 250032,
+      "name": "Kol Haga Bena",
+      "url": "https://open.spotify.com/track/6R9vGR2LDKwSjCdGfzk4iF"
+    },
+    {
+      "added_at": "2023-12-21 16:09:36",
+      "album": {
+        "name": "Piece Of My Heart",
+        "url": "https://open.spotify.com/album/6vY2pZ4Rzik0z0sC0D677x"
+      },
+      "artists": [
+        {
+          "name": "Hussain Aljassmi",
+          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
+        }
+      ],
+      "duration_ms": 189176,
+      "name": "Piece Of My Heart",
+      "url": "https://open.spotify.com/track/0ifZ1W4CLyLdFzI29hmQFM"
     },
     {
       "added_at": "2023-12-21 16:09:36",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-12-21 16:09:36",
       "album": {
-        "name": "Bahebak",
-        "url": "https://open.spotify.com/album/12IyIdjFQNAWCrKXbtEunW"
-      },
-      "artists": [
-        {
-          "name": "Tamer Hosny",
-          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Bahebak",
-      "url": "https://open.spotify.com/track/6a4l9CrvajT9qtcFAY9oxk"
-    },
-    {
-      "added_at": "2023-12-21 16:09:36",
-      "album": {
         "name": "\u0627\u0635\u062d\u0649 \u0644\u0644\u0643\u0644\u0627\u0645",
         "url": "https://open.spotify.com/album/0Fx94IBKPo7V7CCRwIVgH1"
       },
@@ -695,6 +679,22 @@
     {
       "added_at": "2023-12-21 16:09:36",
       "album": {
+        "name": "Lela",
+        "url": "https://open.spotify.com/album/3AMyVk8NP2wOxLIpx0FS9W"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Saeed",
+          "url": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Lela",
+      "url": "https://open.spotify.com/track/2qzU4kzcQU34S8tKh6AZTZ"
+    },
+    {
+      "added_at": "2023-12-21 16:09:36",
+      "album": {
         "name": "Hob Emtelak",
         "url": "https://open.spotify.com/album/6sjEZxXzUccxxRukfuTVRk"
       },
@@ -711,18 +711,18 @@
     {
       "added_at": "2023-12-21 16:09:36",
       "album": {
-        "name": "Lela",
-        "url": "https://open.spotify.com/album/3AMyVk8NP2wOxLIpx0FS9W"
+        "name": "Bahebak",
+        "url": "https://open.spotify.com/album/12IyIdjFQNAWCrKXbtEunW"
       },
       "artists": [
         {
-          "name": "Mohammed Saeed",
-          "url": "https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi"
+          "name": "Tamer Hosny",
+          "url": "https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Lela",
-      "url": "https://open.spotify.com/track/2qzU4kzcQU34S8tKh6AZTZ"
+      "duration_ms": 206000,
+      "name": "Bahebak",
+      "url": "https://open.spotify.com/track/6a4l9CrvajT9qtcFAY9oxk"
     },
     {
       "added_at": "2023-12-21 16:09:36",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-12-21 16:09:36",
       "album": {
-        "name": "Rawa2any",
-        "url": "https://open.spotify.com/album/2BV4pv95yaJFhewrpPKrHS"
-      },
-      "artists": [
-        {
-          "name": "Carmen Soliman",
-          "url": "https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt"
-        }
-      ],
-      "duration_ms": 191322,
-      "name": "Rawa2any",
-      "url": "https://open.spotify.com/track/6znR1QMliqWnF5KQ6nJld2"
-    },
-    {
-      "added_at": "2023-12-21 16:09:36",
-      "album": {
         "name": "Shabah El Sama",
         "url": "https://open.spotify.com/album/5oQiH9mow7LFTk0JFcsUZv"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2023-12-21 16:09:36",
       "album": {
-        "name": "\u0637\u0645\u0646\u0647\u0627",
-        "url": "https://open.spotify.com/album/2cobDXrnAMcK7XZ0xA8Hqh"
+        "name": "Rawa2any",
+        "url": "https://open.spotify.com/album/2BV4pv95yaJFhewrpPKrHS"
       },
       "artists": [
         {
-          "name": "Nedaa Shrara",
-          "url": "https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI"
+          "name": "Carmen Soliman",
+          "url": "https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt"
         }
       ],
-      "duration_ms": 244428,
-      "name": "\u0637\u0645\u0646\u0647\u0627",
-      "url": "https://open.spotify.com/track/1HpyCfUXBqFvUteRkz4eId"
+      "duration_ms": 191322,
+      "name": "Rawa2any",
+      "url": "https://open.spotify.com/track/6znR1QMliqWnF5KQ6nJld2"
     },
     {
       "added_at": "2023-12-21 16:09:36",
@@ -1095,6 +1079,22 @@
       "duration_ms": 276792,
       "name": "Khaleena A\u2019din",
       "url": "https://open.spotify.com/track/4GRMwobUes0Q9SQOa6C9e3"
+    },
+    {
+      "added_at": "2023-12-21 16:09:36",
+      "album": {
+        "name": "\u0637\u0645\u0646\u0647\u0627",
+        "url": "https://open.spotify.com/album/2cobDXrnAMcK7XZ0xA8Hqh"
+      },
+      "artists": [
+        {
+          "name": "Nedaa Shrara",
+          "url": "https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI"
+        }
+      ],
+      "duration_ms": 244428,
+      "name": "\u0637\u0645\u0646\u0647\u0627",
+      "url": "https://open.spotify.com/track/1HpyCfUXBqFvUteRkz4eId"
     },
     {
       "added_at": "2023-12-21 16:09:36",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-12-21 16:09:36",
       "album": {
-        "name": "Awel Hob",
-        "url": "https://open.spotify.com/album/2gmPGyl7gTcWAtDZyI0xkO"
-      },
-      "artists": [
-        {
-          "name": "Amer Mounib",
-          "url": "https://open.spotify.com/artist/4HUxfxFqEQGqkqWbiyy4m0"
-        }
-      ],
-      "duration_ms": 256355,
-      "name": "Awel Hob",
-      "url": "https://open.spotify.com/track/0T76gVA9dWVl5MMNvpOXBB"
-    },
-    {
-      "added_at": "2023-12-21 16:09:36",
-      "album": {
         "name": "Ana Eshtaret",
         "url": "https://open.spotify.com/album/5jI4gGoIVvp8RXfMGEr0ui"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 171130,
       "name": "Ana Eshtaret",
       "url": "https://open.spotify.com/track/082bleXfM4Tx6yxNJ1bJDc"
+    },
+    {
+      "added_at": "2023-12-21 16:09:36",
+      "album": {
+        "name": "Awel Hob",
+        "url": "https://open.spotify.com/album/2gmPGyl7gTcWAtDZyI0xkO"
+      },
+      "artists": [
+        {
+          "name": "Amer Mounib",
+          "url": "https://open.spotify.com/artist/4HUxfxFqEQGqkqWbiyy4m0"
+        }
+      ],
+      "duration_ms": 256355,
+      "name": "Awel Hob",
+      "url": "https://open.spotify.com/track/0T76gVA9dWVl5MMNvpOXBB"
     }
   ],
   "unique_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",

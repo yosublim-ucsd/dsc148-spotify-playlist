@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 
 > This is Vangelis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,112 likes - 47 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,119 likes - 47 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Pv5ZK.md) - [plain]
 | 46 | [Fields of Coral](https://open.spotify.com/track/27iy87clL6mJQh9ybqLNK8) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Oceanic](https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb) | 7:43 |
 | 47 | [Moonlight Reflections](https://open.spotify.com/track/5q50gPhmfwV6eEMyXNWXbB) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Nocturne](https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK) | 3:10 |
 
-Snapshot ID: `MjgzOTAyOTIsMDAwMDAwMDA2N2NjMWZhOWJmMmNlNDNiNjEwYjQ5NjNkMjk4OGE3ZA==`
+Snapshot ID: `MjgzOTE3MzQsMDAwMDAwMDBjYTRhZGMzZDgxYWY3OWYxOWI0ZGNlNTQ5NzlhMWJlYw==`

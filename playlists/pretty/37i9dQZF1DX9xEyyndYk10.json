@@ -1,12 +1,12 @@
 {
   "description": "Que la calle te acompa\u00f1e al conducir.",
-  "num_followers": 170724,
+  "num_followers": 170770,
   "original_name": "Maneja con Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NzI4NjkwZmM2M2UzM2VkNjVhYjJmNjVkYTI3YmRlYWQ2MDMzNzgy",
+  "snapshot_id": "MCw4MjljNzhhMzc0YzA3NjQyYzE3ZDRjMzdiMTY5ODAyNzk5OTYwNDM2",
   "tracks": [
     {
       "added_at": "2023-12-22 01:22:07",
@@ -175,18 +175,18 @@
     {
       "added_at": "2023-12-22 01:22:07",
       "album": {
-        "name": "Amnesia",
-        "url": "https://open.spotify.com/album/7x0UG4rToHvR7HkzqGN06a"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
       },
       "artists": [
         {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
         }
       ],
-      "duration_ms": 188604,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/2CRXFBkRh0V7FZL5kuiqdO"
+      "duration_ms": 168560,
+      "name": "Ruc\u00f3n",
+      "url": "https://open.spotify.com/track/78M7CiqTpJYoPQKkwjM48Z"
     },
     {
       "added_at": "2023-12-22 01:22:07",
@@ -211,6 +211,22 @@
     {
       "added_at": "2023-12-22 01:22:07",
       "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/7x0UG4rToHvR7HkzqGN06a"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 188604,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/2CRXFBkRh0V7FZL5kuiqdO"
+    },
+    {
+      "added_at": "2023-12-22 01:22:07",
+      "album": {
         "name": "Viejo Marihuano",
         "url": "https://open.spotify.com/album/0u6btZI3GPFtYX8T4DDW8O"
       },
@@ -223,42 +239,6 @@
       "duration_ms": 225240,
       "name": "Leve",
       "url": "https://open.spotify.com/track/00jpfco62YfQj1BBYCCuKH"
-    },
-    {
-      "added_at": "2023-12-22 01:22:07",
-      "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 168560,
-      "name": "Ruc\u00f3n",
-      "url": "https://open.spotify.com/track/78M7CiqTpJYoPQKkwjM48Z"
-    },
-    {
-      "added_at": "2023-12-22 01:22:07",
-      "album": {
-        "name": "Mexicano",
-        "url": "https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 174193,
-      "name": "Mexicano",
-      "url": "https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2"
     },
     {
       "added_at": "2023-12-22 01:22:07",
@@ -279,6 +259,26 @@
       "duration_ms": 218045,
       "name": "Te Ire A Buscar",
       "url": "https://open.spotify.com/track/3elpkpwYlmUbuvmVps08lJ"
+    },
+    {
+      "added_at": "2023-12-22 01:22:07",
+      "album": {
+        "name": "Mexicano",
+        "url": "https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "Mexicano",
+      "url": "https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2"
     },
     {
       "added_at": "2023-12-22 01:22:07",
@@ -339,6 +339,30 @@
     {
       "added_at": "2023-12-22 01:22:07",
       "album": {
+        "name": "Todo Va a Estar Bien",
+        "url": "https://open.spotify.com/album/1JDdSZw7yG6qOD5bVqOGvF"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Big Soto",
+          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 267796,
+      "name": "Todo Va Estar Bien",
+      "url": "https://open.spotify.com/track/1jDq5aazzoBFC06kBruPcE"
+    },
+    {
+      "added_at": "2023-12-22 01:22:07",
+      "album": {
         "name": "Mala Fama, Buena Vidha",
         "url": "https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V"
       },
@@ -351,6 +375,22 @@
       "duration_ms": 250253,
       "name": "La Durango",
       "url": "https://open.spotify.com/track/4iy8C1xOpkSaDrEufihTIA"
+    },
+    {
+      "added_at": "2023-12-22 01:22:07",
+      "album": {
+        "name": "DANCE CRIP",
+        "url": "https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 165019,
+      "name": "DANCE CRIP",
+      "url": "https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV"
     },
     {
       "added_at": "2023-12-22 01:22:07",
@@ -407,42 +447,22 @@
     {
       "added_at": "2023-12-22 01:22:07",
       "album": {
-        "name": "Todo Va a Estar Bien",
-        "url": "https://open.spotify.com/album/1JDdSZw7yG6qOD5bVqOGvF"
+        "name": "Nathy Peluso: Bzrp Music Sessions, Vol. 36",
+        "url": "https://open.spotify.com/album/3aZthZKHMbbleXcilISjha"
       },
       "artists": [
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         },
         {
-          "name": "Big Soto",
-          "url": "https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
         }
       ],
-      "duration_ms": 267796,
-      "name": "Todo Va Estar Bien",
-      "url": "https://open.spotify.com/track/1jDq5aazzoBFC06kBruPcE"
-    },
-    {
-      "added_at": "2023-12-22 01:22:07",
-      "album": {
-        "name": "DANCE CRIP",
-        "url": "https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 165019,
-      "name": "DANCE CRIP",
-      "url": "https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV"
+      "duration_ms": 171215,
+      "name": "Nathy Peluso: Bzrp Music Sessions, Vol. 36",
+      "url": "https://open.spotify.com/track/78SeXVRJ7KCqVmOwTiFjnI"
     },
     {
       "added_at": "2023-12-22 01:22:07",
@@ -471,26 +491,6 @@
     {
       "added_at": "2023-12-22 01:22:07",
       "album": {
-        "name": "Nathy Peluso: Bzrp Music Sessions, Vol. 36",
-        "url": "https://open.spotify.com/album/3aZthZKHMbbleXcilISjha"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        }
-      ],
-      "duration_ms": 171215,
-      "name": "Nathy Peluso: Bzrp Music Sessions, Vol. 36",
-      "url": "https://open.spotify.com/track/78SeXVRJ7KCqVmOwTiFjnI"
-    },
-    {
-      "added_at": "2023-12-22 01:22:07",
-      "album": {
         "name": "LQRA Session #5",
         "url": "https://open.spotify.com/album/6fEbvdp7RK0pfoeHiJ2r8a"
       },
@@ -515,22 +515,6 @@
       "duration_ms": 308000,
       "name": "LQRA Session #5",
       "url": "https://open.spotify.com/track/1YVyKeuVEhIGNTdhNjbREI"
-    },
-    {
-      "added_at": "2023-12-22 01:22:07",
-      "album": {
-        "name": "Vol. II",
-        "url": "https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 262746,
-      "name": "El Arte del Enga\u00f1o",
-      "url": "https://open.spotify.com/track/0sQdIxWPpjCFLLUfOXhR0V"
     },
     {
       "added_at": "2023-12-22 01:22:07",
@@ -587,6 +571,22 @@
     {
       "added_at": "2023-12-22 01:22:07",
       "album": {
+        "name": "Vol. II",
+        "url": "https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 262746,
+      "name": "El Arte del Enga\u00f1o",
+      "url": "https://open.spotify.com/track/0sQdIxWPpjCFLLUfOXhR0V"
+    },
+    {
+      "added_at": "2023-12-22 01:22:07",
+      "album": {
         "name": "Mucho Barato",
         "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
       },
@@ -599,22 +599,6 @@
       "duration_ms": 215266,
       "name": "Comprendes, Mendes?",
       "url": "https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd"
-    },
-    {
-      "added_at": "2023-12-22 01:22:07",
-      "album": {
-        "name": "Ando Al Mill\u00f3n",
-        "url": "https://open.spotify.com/album/29bVXHNrBMnTNXBkEMRVWn"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 235789,
-      "name": "Ando Al Mill\u00f3n",
-      "url": "https://open.spotify.com/track/5CCmSrzQUFq6rvRQ7XyDY9"
     },
     {
       "added_at": "2023-12-22 01:22:07",
@@ -639,6 +623,22 @@
     {
       "added_at": "2023-12-22 01:22:07",
       "album": {
+        "name": "Ando Al Mill\u00f3n",
+        "url": "https://open.spotify.com/album/29bVXHNrBMnTNXBkEMRVWn"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 235789,
+      "name": "Ando Al Mill\u00f3n",
+      "url": "https://open.spotify.com/track/5CCmSrzQUFq6rvRQ7XyDY9"
+    },
+    {
+      "added_at": "2023-12-22 01:22:07",
+      "album": {
         "name": "Qui\u00faboles Que!",
         "url": "https://open.spotify.com/album/7fEd90zyiFjIr9UElw41iK"
       },
@@ -655,22 +655,6 @@
       "duration_ms": 221541,
       "name": "Qui\u00faboles Que",
       "url": "https://open.spotify.com/track/4SEFSM1H18Q8uLXsi7zcIj"
-    },
-    {
-      "added_at": "2023-12-22 01:22:07",
-      "album": {
-        "name": "Proyecto Akwid",
-        "url": "https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM"
-      },
-      "artists": [
-        {
-          "name": "Akwid",
-          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
-        }
-      ],
-      "duration_ms": 243466,
-      "name": "No Hay Manera",
-      "url": "https://open.spotify.com/track/5dFaYG4WClIHhbHSe0m3FO"
     },
     {
       "added_at": "2023-12-22 01:22:07",
@@ -695,6 +679,22 @@
     {
       "added_at": "2023-12-22 01:22:07",
       "album": {
+        "name": "Proyecto Akwid",
+        "url": "https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM"
+      },
+      "artists": [
+        {
+          "name": "Akwid",
+          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
+        }
+      ],
+      "duration_ms": 243466,
+      "name": "No Hay Manera",
+      "url": "https://open.spotify.com/track/5dFaYG4WClIHhbHSe0m3FO"
+    },
+    {
+      "added_at": "2023-12-22 01:22:07",
+      "album": {
         "name": "Artilleria Pesada, Presenta:",
         "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
       },
@@ -707,22 +707,6 @@
       "duration_ms": 253880,
       "name": "Si Se\u00f1or",
       "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
-    },
-    {
-      "added_at": "2023-12-22 01:22:07",
-      "album": {
-        "name": "Vaya Vaya",
-        "url": "https://open.spotify.com/album/26r1WFenx1zV0HT28AwLaE"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 185236,
-      "name": "Vaya Vaya",
-      "url": "https://open.spotify.com/track/2kTYr1MEn7lzybRudQpmWx"
     },
     {
       "added_at": "2023-12-22 01:22:07",
@@ -775,6 +759,22 @@
     {
       "added_at": "2023-12-22 01:22:07",
       "album": {
+        "name": "Vaya Vaya",
+        "url": "https://open.spotify.com/album/26r1WFenx1zV0HT28AwLaE"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 185236,
+      "name": "Vaya Vaya",
+      "url": "https://open.spotify.com/track/2kTYr1MEn7lzybRudQpmWx"
+    },
+    {
+      "added_at": "2023-12-22 01:22:07",
+      "album": {
         "name": "Si No Hay Ma\u00f1ana - Spotify Singles",
         "url": "https://open.spotify.com/album/2awsgyoW4ncnfyTHJsTiC6"
       },
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-12-22 01:22:07",
       "album": {
-        "name": "Mar y Tierra",
-        "url": "https://open.spotify.com/album/6pPbNo1A0SUfVSphaUH74w"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 185870,
-      "name": "Mar y Tierra",
-      "url": "https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1"
-    },
-    {
-      "added_at": "2023-12-22 01:22:07",
-      "album": {
         "name": "S\u00faper Sangre Joven",
         "url": "https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 196626,
       "name": "Me Gusta Lo Simple",
       "url": "https://open.spotify.com/track/3VJSv1RoYiCY4ECGyDO7ry"
+    },
+    {
+      "added_at": "2023-12-22 01:22:07",
+      "album": {
+        "name": "Mar y Tierra",
+        "url": "https://open.spotify.com/album/6pPbNo1A0SUfVSphaUH74w"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 185870,
+      "name": "Mar y Tierra",
+      "url": "https://open.spotify.com/track/3lz3pZ0Jd5XtB4PfgvcHg1"
     },
     {
       "added_at": "2023-12-22 01:22:07",

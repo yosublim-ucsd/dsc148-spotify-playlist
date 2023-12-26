@@ -4,7 +4,7 @@
 
 > This is Megan Thee Stallion\. The essential tracks, all in one playlist.
 
-68 songs - 3 hr 7 min
+69 songs - 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,11 +54,12 @@
 | [NDA](https://open.spotify.com/track/7ngabRTwu8a9w3xaCpaAaa) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 3:21 | 2023-02-23 | 2023-11-11 |
 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/1uQvn6qvdkWRNiA7Lol9BT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/57HhIYa6hsyWo17gRNFGhr) | 2:50 | 2023-12-16 |  |
 | [Not Nice](https://open.spotify.com/track/1DIFFX5zpjyxaJvA8YFEji) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:45 | 2023-01-01 |  |
-| [On Me \(Remix\) \(with Megan Thee Stallion\)](https://open.spotify.com/track/589jILaMtVqRiVxubmnLiF) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [On Me \(Remix\) \(with Megan Thee Stallion\)](https://open.spotify.com/album/0Qta1EXfjfRgjE74XYEFta) | 2:15 | 2022-10-28 |  |
+| [On Me \(Remix\) \(with Megan Thee Stallion\)](https://open.spotify.com/track/589jILaMtVqRiVxubmnLiF) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [On Me \(Remix\) \(with Megan Thee Stallion\)](https://open.spotify.com/album/0Qta1EXfjfRgjE74XYEFta) | 2:15 | 2022-10-28 | 2023-12-26 |
 | [Out Alpha The Alpha](https://open.spotify.com/track/3GALk45nKwp5pg6zJp7nhm) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Out Alpha The Alpha](https://open.spotify.com/album/4vgXGnGzxojy5spBZranjW) | 3:46 | 2023-10-10 | 2023-12-14 |
 | [Outta Town Freestyle](https://open.spotify.com/track/3LOyQpKiM8MnE019hWB5uj) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 1:20 | 2023-02-01 |  |
 | [Plan B](https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Plan B](https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx) | 2:43 | 2022-10-28 |  |
 | [Pressurelicious \(feat\. Future\)](https://open.spotify.com/track/5ZWNnO9MyPfGrUHiGWHESB) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Pressurelicious \(feat\. Future\)](https://open.spotify.com/album/2Wm9AhTq7byuyEIx5QXVWJ) | 2:53 | 2022-10-28 |  |
+| [Pussy Don't Lie \(from the Netflix Series "Big Mouth"\)](https://open.spotify.com/track/1FOwWRFyJQh0EHthcdlcVE) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Big Mouth Cast](https://open.spotify.com/artist/1DqX6y6PeSke9Y3ojgq95w) | [Pussy Don't Lie \(from the Netflix Series "Big Mouth"\)](https://open.spotify.com/album/1BrbqpyUhXOquJzNd4rEza) | 2:21 | 2023-12-25 |  |
 | [Realer](https://open.spotify.com/track/3qVNNJ7f9RQeNR4iPIeS0c) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Fever](https://open.spotify.com/album/5WLquTz7nUnsHCj80b6wci) | 2:29 | 2023-01-19 |  |
 | [Rich](https://open.spotify.com/track/0fdQue15BjCMA3ov14ubF4) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Suga](https://open.spotify.com/album/6Lo6ylJg4qbFfxicPEOzMI) | 1:35 | 2022-11-21 | 2023-09-10 |
 | [Ride Or Die \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/6CYyxobulcKumfeV6e2I9g) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [VickeeLo](https://open.spotify.com/artist/4mPrHfhtQUBoHgTxkBieLY) | [Ride Or Die \(From "Queen & Slim: The Soundtrack"\)](https://open.spotify.com/album/7Dfk55fGetXAV3iAYJqkrO) | 2:03 | 2023-08-02 | 2023-12-14 |

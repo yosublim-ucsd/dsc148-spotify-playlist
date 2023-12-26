@@ -1,12 +1,12 @@
 {
   "description": "Work or rest with these gems from the 80s.",
-  "num_followers": 223065,
+  "num_followers": 223097,
   "original_name": "Chilled 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNWI4ZTUwM2M1NzRiY2RlOTY3MDdhYWExMDBlZWMwY2I3ZDk0NDU2",
+  "snapshot_id": "MCw1ZTAwZmQ2Yjg5ZWQ2ZGYwNDhhZDY2ODRhMDlhYjdhZjgyYWEwN2Uy",
   "tracks": [
     {
       "added_at": "2018-12-12 11:36:39",
@@ -23,6 +23,22 @@
       "duration_ms": 186626,
       "name": "Back to the Old House - 2011 Remaster",
       "url": "https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Welcome To The Pleasuredome",
+        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
+      },
+      "artists": [
+        {
+          "name": "Frankie Goes To Hollywood",
+          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
+        }
+      ],
+      "duration_ms": 332506,
+      "name": "The Power Of Love",
+      "url": "https://open.spotify.com/track/1GbyYL0B0Mjn3kSbrEwKKI"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -55,22 +71,6 @@
       "duration_ms": 267266,
       "name": "Englishman In New York",
       "url": "https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
-        "name": "Welcome To The Pleasuredome",
-        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
-      },
-      "artists": [
-        {
-          "name": "Frankie Goes To Hollywood",
-          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
-        }
-      ],
-      "duration_ms": 332506,
-      "name": "The Power Of Love",
-      "url": "https://open.spotify.com/track/1GbyYL0B0Mjn3kSbrEwKKI"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -191,22 +191,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 336666,
-      "name": "Father Figure - Remastered",
-      "url": "https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Avalon",
         "url": "https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 256840,
       "name": "Avalon",
       "url": "https://open.spotify.com/track/7iWIdiJlKvJ4PjFYVrWLUU"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 336666,
+      "name": "Father Figure - Remastered",
+      "url": "https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -271,22 +271,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "The Final",
-        "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 302600,
-      "name": "Careless Whisper",
-      "url": "https://open.spotify.com/track/2R7858bg0GHuBBxjTyOL7N"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "The End Of The Innocence",
         "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 315306,
       "name": "The End Of The Innocence",
       "url": "https://open.spotify.com/track/3NWcFiL6oCEagrFiTdDr1m"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "The Final",
+        "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 302600,
+      "name": "Careless Whisper",
+      "url": "https://open.spotify.com/track/2R7858bg0GHuBBxjTyOL7N"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -655,18 +655,18 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "The Celts",
-        "url": "https://open.spotify.com/album/3qPIe6YsuQ0qzg6bSEQjfv"
+        "name": "Music by Ry Cooder",
+        "url": "https://open.spotify.com/album/0gLaTb6BP8pySUWwkiZjdD"
       },
       "artists": [
         {
-          "name": "Enya",
-          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
         }
       ],
-      "duration_ms": 212360,
-      "name": "Boadicea",
-      "url": "https://open.spotify.com/track/3c9xinOHrEqF39omS0Czj1"
+      "duration_ms": 174760,
+      "name": "Paris, Texas",
+      "url": "https://open.spotify.com/track/1idiifjTcCoGfBeZiYOdim"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -703,18 +703,18 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Music by Ry Cooder",
-        "url": "https://open.spotify.com/album/0gLaTb6BP8pySUWwkiZjdD"
+        "name": "The Celts",
+        "url": "https://open.spotify.com/album/3qPIe6YsuQ0qzg6bSEQjfv"
       },
       "artists": [
         {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+          "name": "Enya",
+          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
         }
       ],
-      "duration_ms": 174760,
-      "name": "Paris, Texas",
-      "url": "https://open.spotify.com/track/1idiifjTcCoGfBeZiYOdim"
+      "duration_ms": 212360,
+      "name": "Boadicea",
+      "url": "https://open.spotify.com/track/3c9xinOHrEqF39omS0Czj1"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -787,22 +787,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "The Immaculate Collection",
-        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 318773,
-      "name": "Live to Tell",
-      "url": "https://open.spotify.com/track/4osrEm2iY3QcTUcQuFUtfW"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "The Best Of Jon & Vangelis",
         "url": "https://open.spotify.com/album/4alWkBQdvkbrs1cB5pFjzc"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 288200,
       "name": "I Hear You Now",
       "url": "https://open.spotify.com/track/0rhUvAqeXfG4gl4IZhglgX"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "The Immaculate Collection",
+        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 318773,
+      "name": "Live to Tell",
+      "url": "https://open.spotify.com/track/4osrEm2iY3QcTUcQuFUtfW"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -883,22 +883,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Chariots Of Fire (Original Motion Picture Soundtrack / Remastered)",
-        "url": "https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 200466,
-      "name": "Abraham's Theme",
-      "url": "https://open.spotify.com/track/463b8SF7KXrU5oqHgZKSOc"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "The Final",
         "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 237866,
       "name": "A Different Corner",
       "url": "https://open.spotify.com/track/7njBQO43OYrfIqwXO6Gcyv"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Chariots Of Fire (Original Motion Picture Soundtrack / Remastered)",
+        "url": "https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 200466,
+      "name": "Abraham's Theme",
+      "url": "https://open.spotify.com/track/463b8SF7KXrU5oqHgZKSOc"
     },
     {
       "added_at": "2018-12-12 11:36:39",

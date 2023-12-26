@@ -1,12 +1,12 @@
 {
   "description": "El futuro est\u00e1 aqu\u00ed. Foto: Yarea",
-  "num_followers": 25285,
+  "num_followers": 25289,
   "original_name": "RADAR Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzk4NmNmZWJhZGQyZmYzZmNlNzk2YWVlNDc1MWYzZmRhMGVlOTg0",
+  "snapshot_id": "MCw2NDNkYjRlZTA1NzQxNjk4ODZkMmMyNmU1NWQyNjcxODhkYjg5NzAx",
   "tracks": [
     {
       "added_at": "2023-10-13 09:57:11",
@@ -115,6 +115,42 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
+        "name": "1371 KM",
+        "url": "https://open.spotify.com/album/4wBdC9qb2JWHUf4ZHLNnx2"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Came Beats",
+          "url": "https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez"
+        }
+      ],
+      "duration_ms": 192122,
+      "name": "Polaris",
+      "url": "https://open.spotify.com/track/31jtlGwefCdtqNOSpLq82U"
+    },
+    {
+      "added_at": "2023-10-13 09:57:11",
+      "album": {
+        "name": "Me Sabe a Sal",
+        "url": "https://open.spotify.com/album/4vdFPV2L2c8yUm9HSiwjeQ"
+      },
+      "artists": [
+        {
+          "name": "Marta Santos",
+          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
+        }
+      ],
+      "duration_ms": 152275,
+      "name": "Me Sabe a Sal",
+      "url": "https://open.spotify.com/track/5mYnrPNSzBZUpLtiaLbJ7s"
+    },
+    {
+      "added_at": "2023-10-13 09:57:11",
+      "album": {
         "name": "si tiene que ser ser\u00e1.",
         "url": "https://open.spotify.com/album/7mUcTOv2KgYCkrbDmxO7H3"
       },
@@ -175,26 +211,6 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "1371 KM",
-        "url": "https://open.spotify.com/album/4wBdC9qb2JWHUf4ZHLNnx2"
-      },
-      "artists": [
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        },
-        {
-          "name": "Came Beats",
-          "url": "https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez"
-        }
-      ],
-      "duration_ms": 192122,
-      "name": "Polaris",
-      "url": "https://open.spotify.com/track/31jtlGwefCdtqNOSpLq82U"
-    },
-    {
-      "added_at": "2023-10-13 09:57:11",
-      "album": {
         "name": "Mil Laberintos",
         "url": "https://open.spotify.com/album/6YKiRmNf2cuIRfuWmaaqMX"
       },
@@ -207,38 +223,6 @@
       "duration_ms": 158000,
       "name": "Mil Laberintos",
       "url": "https://open.spotify.com/track/3PeaoxxHW9L5OVVnkWDg6S"
-    },
-    {
-      "added_at": "2023-10-13 09:57:11",
-      "album": {
-        "name": "PROGRESO",
-        "url": "https://open.spotify.com/album/29mADdM54RdIkcvB4WN0xe"
-      },
-      "artists": [
-        {
-          "name": "Camin",
-          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
-        }
-      ],
-      "duration_ms": 202040,
-      "name": "PROGRESO",
-      "url": "https://open.spotify.com/track/3kQ7hxYIIrSWxQzh2mP5O7"
-    },
-    {
-      "added_at": "2023-10-13 09:57:11",
-      "album": {
-        "name": "Me Sabe a Sal",
-        "url": "https://open.spotify.com/album/4vdFPV2L2c8yUm9HSiwjeQ"
-      },
-      "artists": [
-        {
-          "name": "Marta Santos",
-          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
-        }
-      ],
-      "duration_ms": 152275,
-      "name": "Me Sabe a Sal",
-      "url": "https://open.spotify.com/track/5mYnrPNSzBZUpLtiaLbJ7s"
     },
     {
       "added_at": "2023-10-13 09:57:11",
@@ -259,34 +243,34 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "Que Te Vaya Bonito",
-        "url": "https://open.spotify.com/album/2QP00xGExqHa6TSrnoEuXt"
+        "name": "Coraz\u00f3n de Mel\u00f3n",
+        "url": "https://open.spotify.com/album/0dwdILs8Bz5sNP4DxjsuiB"
       },
       "artists": [
         {
-          "name": "Paula Koops",
-          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+          "name": "Marta Santos",
+          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
         }
       ],
-      "duration_ms": 173275,
-      "name": "Que Te Vaya Bonito",
-      "url": "https://open.spotify.com/track/1oQ3BtEsx8OutWKc6Pi4YO"
+      "duration_ms": 177500,
+      "name": "Coraz\u00f3n de Mel\u00f3n",
+      "url": "https://open.spotify.com/track/1AF5JY4zB36i9PhMFMgMaX"
     },
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "Tiro Al Aire",
-        "url": "https://open.spotify.com/album/0EDo43ixdWe188OqliIIVk"
+        "name": "PROGRESO",
+        "url": "https://open.spotify.com/album/29mADdM54RdIkcvB4WN0xe"
       },
       "artists": [
         {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+          "name": "Camin",
+          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
         }
       ],
-      "duration_ms": 200145,
-      "name": "Tiro Al Aire",
-      "url": "https://open.spotify.com/track/1GTqOaoThQ64CQyk4MfiWy"
+      "duration_ms": 202040,
+      "name": "PROGRESO",
+      "url": "https://open.spotify.com/track/3kQ7hxYIIrSWxQzh2mP5O7"
     },
     {
       "added_at": "2023-10-13 09:57:11",
@@ -327,38 +311,50 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "Coraz\u00f3n de Mel\u00f3n",
-        "url": "https://open.spotify.com/album/0dwdILs8Bz5sNP4DxjsuiB"
-      },
-      "artists": [
-        {
-          "name": "Marta Santos",
-          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
-        }
-      ],
-      "duration_ms": 177500,
-      "name": "Coraz\u00f3n de Mel\u00f3n",
-      "url": "https://open.spotify.com/track/1AF5JY4zB36i9PhMFMgMaX"
-    },
-    {
-      "added_at": "2023-10-13 09:57:11",
-      "album": {
-        "name": "Me Gustas Tanto",
-        "url": "https://open.spotify.com/album/51rmLgJi9VMG2IBqOxUJH2"
+        "name": "Que Te Vaya Bonito",
+        "url": "https://open.spotify.com/album/2QP00xGExqHa6TSrnoEuXt"
       },
       "artists": [
         {
           "name": "Paula Koops",
           "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
-        },
-        {
-          "name": "ROBI",
-          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
         }
       ],
-      "duration_ms": 121674,
-      "name": "Me Gustas Tanto",
-      "url": "https://open.spotify.com/track/4WBJ91Nw8P9RkknvHbcm3P"
+      "duration_ms": 173275,
+      "name": "Que Te Vaya Bonito",
+      "url": "https://open.spotify.com/track/1oQ3BtEsx8OutWKc6Pi4YO"
+    },
+    {
+      "added_at": "2023-10-13 09:57:11",
+      "album": {
+        "name": "Tiro Al Aire",
+        "url": "https://open.spotify.com/album/0EDo43ixdWe188OqliIIVk"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 200145,
+      "name": "Tiro Al Aire",
+      "url": "https://open.spotify.com/track/1GTqOaoThQ64CQyk4MfiWy"
+    },
+    {
+      "added_at": "2023-10-13 09:57:11",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 167311,
+      "name": "Soy El \u00danico - Spotify Singles",
+      "url": "https://open.spotify.com/track/7J6AQy64vqI4DYx5oJfgfi"
     },
     {
       "added_at": "2023-10-13 09:57:11",
@@ -407,22 +403,6 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3ALicRgy6brNAYjFQPOFli"
-      },
-      "artists": [
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 167311,
-      "name": "Soy El \u00danico - Spotify Singles",
-      "url": "https://open.spotify.com/track/7J6AQy64vqI4DYx5oJfgfi"
-    },
-    {
-      "added_at": "2023-10-13 09:57:11",
-      "album": {
         "name": "Roma No Es Amor",
         "url": "https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD"
       },
@@ -435,22 +415,6 @@
       "duration_ms": 193243,
       "name": "Roma No Es Amor",
       "url": "https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm"
-    },
-    {
-      "added_at": "2023-10-13 09:57:11",
-      "album": {
-        "name": "Alto Cielo",
-        "url": "https://open.spotify.com/album/20mFqdvrOtScXNl72bAa8V"
-      },
-      "artists": [
-        {
-          "name": "Queralt Lahoz",
-          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
-        }
-      ],
-      "duration_ms": 291873,
-      "name": "Con Miedo a Ti",
-      "url": "https://open.spotify.com/track/1HWa85l0tYdSirf3M1DIdl"
     },
     {
       "added_at": "2023-10-13 09:57:11",
@@ -491,6 +455,42 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
+        "name": "Alto Cielo",
+        "url": "https://open.spotify.com/album/20mFqdvrOtScXNl72bAa8V"
+      },
+      "artists": [
+        {
+          "name": "Queralt Lahoz",
+          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
+        }
+      ],
+      "duration_ms": 291873,
+      "name": "Con Miedo a Ti",
+      "url": "https://open.spotify.com/track/1HWa85l0tYdSirf3M1DIdl"
+    },
+    {
+      "added_at": "2023-10-13 09:57:11",
+      "album": {
+        "name": "Me Gustas Tanto",
+        "url": "https://open.spotify.com/album/51rmLgJi9VMG2IBqOxUJH2"
+      },
+      "artists": [
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        },
+        {
+          "name": "ROBI",
+          "url": "https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc"
+        }
+      ],
+      "duration_ms": 121674,
+      "name": "Me Gustas Tanto",
+      "url": "https://open.spotify.com/track/4WBJ91Nw8P9RkknvHbcm3P"
+    },
+    {
+      "added_at": "2023-10-13 09:57:11",
+      "album": {
         "name": "Desastre de persona",
         "url": "https://open.spotify.com/album/4D7T5I3sdw74iq3TNI1pCo"
       },
@@ -507,22 +507,6 @@
       "duration_ms": 173721,
       "name": "Desastre de persona",
       "url": "https://open.spotify.com/track/5yd3BRajiHuZaPgyud145b"
-    },
-    {
-      "added_at": "2023-10-13 09:57:11",
-      "album": {
-        "name": "novio del a\u00f1o",
-        "url": "https://open.spotify.com/album/63x4EQFAEBFAPvmfkklkrn"
-      },
-      "artists": [
-        {
-          "name": "Paula Koops",
-          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
-        }
-      ],
-      "duration_ms": 154719,
-      "name": "novio del a\u00f1o",
-      "url": "https://open.spotify.com/track/40lKiE4aIosLiD5NmMeZm1"
     },
     {
       "added_at": "2023-10-13 09:57:11",
@@ -619,18 +603,18 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "No Me Salves",
-        "url": "https://open.spotify.com/album/3fFodInCmkqeErsA3w551s"
+        "name": "novio del a\u00f1o",
+        "url": "https://open.spotify.com/album/63x4EQFAEBFAPvmfkklkrn"
       },
       "artists": [
         {
-          "name": "Queralt Lahoz",
-          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
         }
       ],
-      "duration_ms": 232855,
-      "name": "No Me Salves",
-      "url": "https://open.spotify.com/track/7KeAEsOT6v4EnxupRgLT47"
+      "duration_ms": 154719,
+      "name": "novio del a\u00f1o",
+      "url": "https://open.spotify.com/track/40lKiE4aIosLiD5NmMeZm1"
     },
     {
       "added_at": "2023-10-13 09:57:11",
@@ -651,54 +635,18 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "Tregua",
-        "url": "https://open.spotify.com/album/6hnjHa3EeDDRon6u0P4cLx"
+        "name": "No Me Salves",
+        "url": "https://open.spotify.com/album/3fFodInCmkqeErsA3w551s"
       },
       "artists": [
         {
-          "name": "Yarea",
-          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+          "name": "Queralt Lahoz",
+          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
         }
       ],
-      "duration_ms": 153882,
-      "name": "Tregua",
-      "url": "https://open.spotify.com/track/4I6knIz13vdFGG0ANWmnJP"
-    },
-    {
-      "added_at": "2023-10-13 09:57:11",
-      "album": {
-        "name": "quien me quiere (no me quiere contigo)",
-        "url": "https://open.spotify.com/album/3pM1o2Lmf6sKyQCFHqKKyp"
-      },
-      "artists": [
-        {
-          "name": "INNMIR",
-          "url": "https://open.spotify.com/artist/1cJQ1Keojk9HafwW0NGoJn"
-        },
-        {
-          "name": "valverdina",
-          "url": "https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS"
-        }
-      ],
-      "duration_ms": 167722,
-      "name": "quien me quiere (no me quiere contigo)",
-      "url": "https://open.spotify.com/track/5wXsiahlfpyEdY152cbimc"
-    },
-    {
-      "added_at": "2023-10-13 09:57:11",
-      "album": {
-        "name": "Novia del A\u00f1o",
-        "url": "https://open.spotify.com/album/4VYagF6MQInUh9OOx4UoZ0"
-      },
-      "artists": [
-        {
-          "name": "Paula Koops",
-          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "hey, goodbye",
-      "url": "https://open.spotify.com/track/2mYuCEPvJw5FdVHhnSQJaL"
+      "duration_ms": 232855,
+      "name": "No Me Salves",
+      "url": "https://open.spotify.com/track/7KeAEsOT6v4EnxupRgLT47"
     },
     {
       "added_at": "2023-10-13 09:57:11",
@@ -723,18 +671,22 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
-        "name": "J*DER",
-        "url": "https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy"
+        "name": "quien me quiere (no me quiere contigo)",
+        "url": "https://open.spotify.com/album/3pM1o2Lmf6sKyQCFHqKKyp"
       },
       "artists": [
         {
-          "name": "Rorro",
-          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
+          "name": "INNMIR",
+          "url": "https://open.spotify.com/artist/1cJQ1Keojk9HafwW0NGoJn"
+        },
+        {
+          "name": "valverdina",
+          "url": "https://open.spotify.com/artist/03a8aFqbYAPqmQ8pJxyUmS"
         }
       ],
-      "duration_ms": 127661,
-      "name": "J*DER",
-      "url": "https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI"
+      "duration_ms": 167722,
+      "name": "quien me quiere (no me quiere contigo)",
+      "url": "https://open.spotify.com/track/5wXsiahlfpyEdY152cbimc"
     },
     {
       "added_at": "2023-10-13 09:57:11",
@@ -775,6 +727,38 @@
     {
       "added_at": "2023-10-13 09:57:11",
       "album": {
+        "name": "Tregua",
+        "url": "https://open.spotify.com/album/6hnjHa3EeDDRon6u0P4cLx"
+      },
+      "artists": [
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        }
+      ],
+      "duration_ms": 153882,
+      "name": "Tregua",
+      "url": "https://open.spotify.com/track/4I6knIz13vdFGG0ANWmnJP"
+    },
+    {
+      "added_at": "2023-10-13 09:57:11",
+      "album": {
+        "name": "Novia del A\u00f1o",
+        "url": "https://open.spotify.com/album/4VYagF6MQInUh9OOx4UoZ0"
+      },
+      "artists": [
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "hey, goodbye",
+      "url": "https://open.spotify.com/track/2mYuCEPvJw5FdVHhnSQJaL"
+    },
+    {
+      "added_at": "2023-10-13 09:57:11",
+      "album": {
         "name": "Porque t\u00fa lo sabr\u00edas",
         "url": "https://open.spotify.com/album/2UuIYup88kaMFhScMfUAa0"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 196470,
       "name": "Como si nada",
       "url": "https://open.spotify.com/track/1fesiEYKhK0Dfe8Rs9NoqK"
+    },
+    {
+      "added_at": "2023-10-13 09:57:11",
+      "album": {
+        "name": "J*DER",
+        "url": "https://open.spotify.com/album/1h87OcIP6KuNxXp0vsxtZy"
+      },
+      "artists": [
+        {
+          "name": "Rorro",
+          "url": "https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv"
+        }
+      ],
+      "duration_ms": 127661,
+      "name": "J*DER",
+      "url": "https://open.spotify.com/track/01z5gGmtYds3vaSREf9JuI"
     },
     {
       "added_at": "2023-10-13 09:57:11",

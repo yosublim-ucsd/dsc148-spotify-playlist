@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The top 50 tracks from Fresh Finds GSA in 2023\. Cover: Carla Ahad, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,739 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,743 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 49 | [Glanz und Schimmer](https://open.spotify.com/track/3jyay81l2lnGWBPUsaNr9C) | [Absteige](https://open.spotify.com/artist/4rHMr7f5ejRK5PMhkH9n4L) | [Glanz und Schimmer](https://open.spotify.com/album/73SEy6GWwOtB6ffg4cY09Z) | 3:21 |
 | 50 | [Leeres Haus](https://open.spotify.com/track/4nsodT0Ifmgjwq2MRidCJv) | [Kind](https://open.spotify.com/artist/17xOXfjwwBku3bnlraoLDI) | [Leeres Haus](https://open.spotify.com/album/5YJYw9FLIixneYORcZPuje) | 4:56 |
 
-Snapshot ID: `MCw4MDQ2MWEwODRmMGE5ODVkMGY1MzM3ZDk0YzA0M2Y1ZWEyODQ1NmQy`
+Snapshot ID: `MCxkZmZlZDkwODg1ZTAxMDU5NTg4YmE3MGE1ZmUwNjM3NTcyNjMzODVk`

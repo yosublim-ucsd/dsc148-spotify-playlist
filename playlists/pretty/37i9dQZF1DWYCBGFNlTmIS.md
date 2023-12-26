@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCBGFNlTmIS.md) - [plain]
 | 71 | [每當變幻時](https://open.spotify.com/track/78C752I4sPRnHFtbjJtOAe) | [薰妮](https://open.spotify.com/artist/3V8vKHOlOSNdH2IJjtghNf) | [薰妮镭射大碟](https://open.spotify.com/album/2jd6r5f3gFI3EJV1tXeJ3W) | 2:57 |
 | 72 | [Will \(not\) see you soon.](https://open.spotify.com/track/0fZEGAFZXnDpTJI7Cf6GdC) | [Lester Chong](https://open.spotify.com/artist/1r19EpaTIboSLEJFgJ4Y4p) | [Will \(not\) see you soon.](https://open.spotify.com/album/3IEdkG0LYjYoQKbNF7dbUy) | 2:31 |
 | 73 | [Goodbye](https://open.spotify.com/track/0uH29nIii18yullPms1KE6) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [Goodbye](https://open.spotify.com/album/0YGoXtO72F2UwLw5oLQJGm) | 4:46 |
-| 74 | [皇后大道東](https://open.spotify.com/track/5X0ZFdwP8acfuyMoxSJ6pf) | [羅大佑](https://open.spotify.com/artist/7tuWI2luTp61HHGmviWid8) | [皇后大道東](https://open.spotify.com/album/3cPKZnvp9Wam5VnR4okGwJ) | 4:10 |
+| 74 | [皇后大道東](https://open.spotify.com/track/7nTS3lbkRgctg7PojNKCNG) | [羅大佑](https://open.spotify.com/artist/7tuWI2luTp61HHGmviWid8), [蔣志光](https://open.spotify.com/artist/0xww7UDomE27mzi2gYnQsl) | [羅大佑自選輯](https://open.spotify.com/album/4c3u4rq4DhbjWK0gnICM2p) | 4:12 |
 | 75 | [忘記和記](https://open.spotify.com/track/0nHjhfGCsGw31c79SiUIz0) | [Juno Mak](https://open.spotify.com/artist/6YlGm6QDrC3TOknYcHjt62), [Leon Lai](https://open.spotify.com/artist/0ubIxkefJsoYY8JXc2HJoa) | [忘記和記](https://open.spotify.com/album/5ANwAweXDjoB3HhKzpDfvB) | 6:01 |
 | 76 | [夕陽無限好](https://open.spotify.com/track/4J1sHmqnc1lEwdiJEgqPOS) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [U 87](https://open.spotify.com/album/3Y1KyBOAPB5CpPEWAIxbgB) | 4:04 |
 | 77 | [It's Hard to Say Goodbye](https://open.spotify.com/track/1AIeRYe50U9acGcvxoGvat) | [Chet Lam](https://open.spotify.com/artist/0eE5MIp5hONB0TxIJS5H48) | [One Magic Day](https://open.spotify.com/album/2jwMeBpR6B3UNwn6zfvrn9) | 3:53 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCBGFNlTmIS.md) - [plain]
 | 84 | [獨家村](https://open.spotify.com/track/0FlQr1kPj50rAee1kJjk5p) | [Kay Tse](https://open.spotify.com/artist/6XtWdWAC7rNqXwbs8hGqP9) | [KONTINUE](https://open.spotify.com/album/5p2E0WphdOZE45CUoRbHg7) | 4:20 |
 | 85 | [鐵塔凌雲](https://open.spotify.com/track/3tMwHTdHyJBBiw5GGUITci) | [Sam Hui](https://open.spotify.com/artist/1SglpJrPltamdJLLwInIL7) | [寶麗金88極品音色系列 \- 許冠傑](https://open.spotify.com/album/0tWdkdfyXeS8uaej0tFvgO) | 3:04 |
 
-Snapshot ID: `MCw5MmVhZDJhYjQwZTk0MDQzZGEzYjY5MDU4NDRiN2M5NDMwMWJjNDE5`
+Snapshot ID: `MCxjYjJkZDRkMzA5MjNjMjNmYWMzZTkwYTQ2MDNjMGIzNjk1YTQ3Yzg5`

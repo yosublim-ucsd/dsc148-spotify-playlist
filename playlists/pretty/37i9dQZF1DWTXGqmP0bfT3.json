@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 313137,
+  "num_followers": 313378,
   "original_name": "Energy Booster: Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MThhZjExNDhkOWQ3ZTBmN2Q4NWQwMzUzNTRkOWZlNzY4MGU2YTA1",
+  "snapshot_id": "MCwyOGJlYzcxYjkwZDQ2ZTUxYTVlZTJmNjZhNDBhMmVhZTQ5OTA2Yjg0",
   "tracks": [
     {
       "added_at": "2023-12-13 17:45:11",
@@ -335,18 +335,18 @@
     {
       "added_at": "2023-12-13 17:45:11",
       "album": {
-        "name": "Vulgar Display of Power",
-        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
+        "name": "Toxicity",
+        "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
       },
       "artists": [
         {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         }
       ],
-      "duration_ms": 315120,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR"
+      "duration_ms": 218933,
+      "name": "Toxicity",
+      "url": "https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn"
     },
     {
       "added_at": "2023-12-13 17:45:11",
@@ -375,34 +375,18 @@
     {
       "added_at": "2023-12-13 17:45:11",
       "album": {
-        "name": "Toxicity",
-        "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
+        "name": "Vulgar Display of Power",
+        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
       },
       "artists": [
         {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 218933,
-      "name": "Toxicity",
-      "url": "https://open.spotify.com/track/0snQkGI5qnAmohLE7jTsTn"
-    },
-    {
-      "added_at": "2023-12-13 17:45:11",
-      "album": {
-        "name": "Rammstein",
-        "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 231603,
-      "name": "Ausl\u00e4nder",
-      "url": "https://open.spotify.com/track/7j43FohbLVulScL7S9sQZk"
+      "duration_ms": 315120,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR"
     },
     {
       "added_at": "2023-12-13 17:45:11",
@@ -419,6 +403,22 @@
       "duration_ms": 219575,
       "name": "Seeing Red",
       "url": "https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY"
+    },
+    {
+      "added_at": "2023-12-13 17:45:11",
+      "album": {
+        "name": "Rammstein",
+        "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 231603,
+      "name": "Ausl\u00e4nder",
+      "url": "https://open.spotify.com/track/7j43FohbLVulScL7S9sQZk"
     },
     {
       "added_at": "2023-12-13 17:45:11",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-12-13 17:45:11",
       "album": {
-        "name": "Got Your Six (Deluxe)",
-        "url": "https://open.spotify.com/album/5CCuwNYZibM0V2GWuEHtcG"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 206903,
-      "name": "Jekyll and Hyde",
-      "url": "https://open.spotify.com/track/5dFEX82XB1ElGFwfCp0rql"
-    },
-    {
-      "added_at": "2023-12-13 17:45:11",
-      "album": {
         "name": "Cowboys from Hell",
         "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 243533,
       "name": "Cowboys from Hell",
       "url": "https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop"
+    },
+    {
+      "added_at": "2023-12-13 17:45:11",
+      "album": {
+        "name": "Got Your Six (Deluxe)",
+        "url": "https://open.spotify.com/album/5CCuwNYZibM0V2GWuEHtcG"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 206903,
+      "name": "Jekyll and Hyde",
+      "url": "https://open.spotify.com/track/5dFEX82XB1ElGFwfCp0rql"
     },
     {
       "added_at": "2023-12-13 17:45:11",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-12-13 17:45:11",
       "album": {
-        "name": "Once",
-        "url": "https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 276200,
-      "name": "Nemo",
-      "url": "https://open.spotify.com/track/1RNwniZkJqdw9LMkkyynjx"
-    },
-    {
-      "added_at": "2023-12-13 17:45:11",
-      "album": {
         "name": "Rust In Peace (2004 Remix / Expanded Edition)",
         "url": "https://open.spotify.com/album/0qaLL09EtF1hiUis7PRvaJ"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 319266,
       "name": "Tornado Of Souls - 2004 Remix",
       "url": "https://open.spotify.com/track/4E5xVW505akJX0wcKj8Mpd"
+    },
+    {
+      "added_at": "2023-12-13 17:45:11",
+      "album": {
+        "name": "Once",
+        "url": "https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 276200,
+      "name": "Nemo",
+      "url": "https://open.spotify.com/track/1RNwniZkJqdw9LMkkyynjx"
     },
     {
       "added_at": "2023-12-13 17:45:11",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-12-13 17:45:11",
       "album": {
-        "name": "As Daylight Dies (Special Edition)",
-        "url": "https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z"
-      },
-      "artists": [
-        {
-          "name": "Killswitch Engage",
-          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
-        }
-      ],
-      "duration_ms": 250253,
-      "name": "Holy Diver",
-      "url": "https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6"
-    },
-    {
-      "added_at": "2023-12-13 17:45:11",
-      "album": {
         "name": "TRUE POWER",
         "url": "https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 146176,
       "name": "Self-Destruction",
       "url": "https://open.spotify.com/track/4UhMvTR5tHf2ecfoz0KV92"
+    },
+    {
+      "added_at": "2023-12-13 17:45:11",
+      "album": {
+        "name": "As Daylight Dies (Special Edition)",
+        "url": "https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "duration_ms": 250253,
+      "name": "Holy Diver",
+      "url": "https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6"
     },
     {
       "added_at": "2023-12-13 17:45:11",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-12-13 17:45:11",
       "album": {
-        "name": "Primo Victoria (Re-Armed)",
-        "url": "https://open.spotify.com/album/0XUH04WpLqnB0Q7Hep3aR0"
-      },
-      "artists": [
-        {
-          "name": "Sabaton",
-          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
-        }
-      ],
-      "duration_ms": 250720,
-      "name": "Primo Victoria",
-      "url": "https://open.spotify.com/track/5DbAOJ5dYW5A9xBhkeb33t"
-    },
-    {
-      "added_at": "2023-12-13 17:45:11",
-      "album": {
         "name": "Shaped by Fire",
         "url": "https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 202158,
       "name": "Blinded",
       "url": "https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk"
+    },
+    {
+      "added_at": "2023-12-13 17:45:11",
+      "album": {
+        "name": "Primo Victoria (Re-Armed)",
+        "url": "https://open.spotify.com/album/0XUH04WpLqnB0Q7Hep3aR0"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        }
+      ],
+      "duration_ms": 250720,
+      "name": "Primo Victoria",
+      "url": "https://open.spotify.com/track/5DbAOJ5dYW5A9xBhkeb33t"
     },
     {
       "added_at": "2023-12-13 17:45:11",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-12-13 17:45:11",
       "album": {
+        "name": "Blood of the Saints",
+        "url": "https://open.spotify.com/album/1MSxQKpaZ2nPubMVQi9V3N"
+      },
+      "artists": [
+        {
+          "name": "Powerwolf",
+          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+        }
+      ],
+      "duration_ms": 265720,
+      "name": "Sanctified with Dynamite",
+      "url": "https://open.spotify.com/track/2ZUUturolW3VpzXWzPEy2X"
+    },
+    {
+      "added_at": "2023-12-13 17:45:11",
+      "album": {
         "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1",
         "url": "https://open.spotify.com/album/5z9Z5Hg2LGKVS11njgfI3i"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 261573,
       "name": "Rats",
       "url": "https://open.spotify.com/track/4u39IY2QjY1utpNCCF4is0"
-    },
-    {
-      "added_at": "2023-12-13 17:45:11",
-      "album": {
-        "name": "Blood of the Saints",
-        "url": "https://open.spotify.com/album/1MSxQKpaZ2nPubMVQi9V3N"
-      },
-      "artists": [
-        {
-          "name": "Powerwolf",
-          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
-        }
-      ],
-      "duration_ms": 265720,
-      "name": "Sanctified with Dynamite",
-      "url": "https://open.spotify.com/track/2ZUUturolW3VpzXWzPEy2X"
     },
     {
       "added_at": "2023-12-13 17:45:11",

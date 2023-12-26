@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2piM6c.md) - [plain]
 
 > This is Sade\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,533 likes - 47 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,671 likes - 47 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2piM6c.md) - [plain]
 | 24 | [Keep Looking](https://open.spotify.com/track/0Q97fST0xHWAEahe28rMrb) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 5:21 |
 | 25 | [Long Hard Road](https://open.spotify.com/track/54jCmeAxT4NZMav0qQYC7P) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Soldier of Love](https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU) | 3:01 |
 | 26 | [Feel No Pain](https://open.spotify.com/track/3r0Q8oUYyHjViM43bAUP3D) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG) | 5:09 |
-| 27 | [Somebody Already Broke My Heart](https://open.spotify.com/track/6bFGd2OxhPMgarpYVVncRC) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 5:01 |
+| 27 | [Flow](https://open.spotify.com/track/5BhdjbSvgGUwf2I2flmf11) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:34 |
 | 28 | [Clean Heart](https://open.spotify.com/track/10TTcq5sPRxx1hq2lQ04CI) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 4:01 |
 | 29 | [Mr Wrong](https://open.spotify.com/track/68fAZuqk7syp8Dvqj4KPCn) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 2:51 |
 | 30 | [The Moon and the Sky](https://open.spotify.com/track/2ZEwMwHaUECDWKkDh8rL0O) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Soldier of Love](https://open.spotify.com/album/3QzXOFN7Wh4WgilnraBYAU) | 4:27 |
-| 31 | [Flow](https://open.spotify.com/track/5BhdjbSvgGUwf2I2flmf11) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 4:34 |
+| 31 | [Somebody Already Broke My Heart](https://open.spotify.com/track/6bFGd2OxhPMgarpYVVncRC) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Lovers Rock](https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9) | 5:01 |
 | 32 | [I Will Be Your Friend](https://open.spotify.com/track/29pqGFsm1NPsVHfSrjaDUJ) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Diamond Life](https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0) | 4:43 |
 | 33 | [Maureen](https://open.spotify.com/track/5QwxrHnpZGLfs0Maeoz8BN) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 4:20 |
 | 34 | [Haunt Me](https://open.spotify.com/track/1u0LQwTtYAi7LZbknFNhZ1) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 5:50 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2piM6c.md) - [plain]
 | 46 | [War of the Hearts](https://open.spotify.com/track/1s7cklguCg0rkLeBGA7quh) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 6:47 |
 | 47 | [Love Is Found](https://open.spotify.com/track/5Mxq7vByHJGcKLsSb85J8G) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Ultimate Collection](https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a) | 4:08 |
 
-Snapshot ID: `MjgzOTAyOTIsMDAwMDAwMDA5NTMwMTFiYjg4ZjAwYmZmZTk4NjE0ZDFhODNkNzEzOQ==`
+Snapshot ID: `MjgzOTE3MzUsMDAwMDAwMDA1MTk1OWJlM2JmNjYwODA2MzdmMTlmNjMwM2UzMmNmMQ==`

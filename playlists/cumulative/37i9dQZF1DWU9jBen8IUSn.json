@@ -2337,6 +2337,24 @@
     },
     {
       "album": {
+        "name": "All of Us Strangers (Original Score)",
+        "url": "https://open.spotify.com/album/0zh47kNWMYt2qUObasMHnJ"
+      },
+      "artists": [
+        {
+          "name": "Emilie Levienaise-Farrouch",
+          "url": "https://open.spotify.com/artist/4L9xhLgedQ5e9BwaVNunWf"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122066,
+      "name": "Harry",
+      "url": "https://open.spotify.com/track/4CBu0D9KEwGKGpbQgyzqcP"
+    },
+    {
+      "album": {
         "name": "Heaven's Only Wishful",
         "url": "https://open.spotify.com/album/1XHJnDkjL5yrkdRgl30SMM"
       },

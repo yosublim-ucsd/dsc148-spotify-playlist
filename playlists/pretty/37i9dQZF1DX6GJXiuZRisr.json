@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1540567,
+  "num_followers": 1540724,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjUzYWZhOGM3YzRmOTcxY2QyOTU3NDFlZjBiY2I3ZGY1ZjFkM2Q3",
+  "snapshot_id": "MCxmZDc1MTc0MjEyYTYyZWIzMmQwNGY5NDc1NzNjYWQyNzQxZGJmMjI4",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Genesys",
+        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "duration_ms": 220887,
+      "name": "Explore Your Future",
+      "url": "https://open.spotify.com/track/4xpRs7geTFykkr9Ehp66Fg"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "In The Dust",
         "url": "https://open.spotify.com/album/3i0GibJYCFOoSAhfYij1TK"
       },
@@ -503,26 +519,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "U&ME",
-        "url": "https://open.spotify.com/album/1ENNuqHU0L7gI0Cc8HaqOq"
-      },
-      "artists": [
-        {
-          "name": "Dezko",
-          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
-        },
-        {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
-        }
-      ],
-      "duration_ms": 195483,
-      "name": "U&ME",
-      "url": "https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Zodiac",
         "url": "https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV"
       },
@@ -539,18 +535,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Genesys",
-        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
+        "name": "U&ME",
+        "url": "https://open.spotify.com/album/1ENNuqHU0L7gI0Cc8HaqOq"
       },
       "artists": [
         {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+          "name": "Dezko",
+          "url": "https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
         }
       ],
-      "duration_ms": 220887,
-      "name": "Explore Your Future",
-      "url": "https://open.spotify.com/track/4xpRs7geTFykkr9Ehp66Fg"
+      "duration_ms": 195483,
+      "name": "U&ME",
+      "url": "https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -631,26 +631,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Genesys",
-        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 245280,
-      "name": "Welcome To The Opera (with Grimes)",
-      "url": "https://open.spotify.com/track/7hV8vZMezoQdSdvsi70Ioa"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Over Again",
         "url": "https://open.spotify.com/album/3yvIAGFouolgRJTItuv3br"
       },
@@ -667,6 +647,26 @@
       "duration_ms": 159458,
       "name": "Over Again",
       "url": "https://open.spotify.com/track/00U3nGjoxrqX04GvjiypUz"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Genesys",
+        "url": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 245280,
+      "name": "Welcome To The Opera (with Grimes)",
+      "url": "https://open.spotify.com/track/7hV8vZMezoQdSdvsi70Ioa"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -779,6 +779,54 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Fall Again",
+        "url": "https://open.spotify.com/album/4Lgy6GaK2eR2QwOyoDeDg0"
+      },
+      "artists": [
+        {
+          "name": "Hayla",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 206794,
+      "name": "Fall Again",
+      "url": "https://open.spotify.com/track/3oOvEw1pgxMtrQMNgPWQHL"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Electric Feeling",
+        "url": "https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        }
+      ],
+      "duration_ms": 186239,
+      "name": "Electric Feeling",
+      "url": "https://open.spotify.com/track/6iaFDadGS6EqeyQb0c3QGZ"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 159047,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Consciousness (Eric Prydz Remix)",
         "url": "https://open.spotify.com/album/6U3SBZ80drKvioMtkwEaiu"
       },
@@ -803,50 +851,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Fall Again",
-        "url": "https://open.spotify.com/album/4Lgy6GaK2eR2QwOyoDeDg0"
+        "name": "Children",
+        "url": "https://open.spotify.com/album/6GtPnONSzvxyWXkSTmLQiR"
       },
       "artists": [
         {
-          "name": "Hayla",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
-        }
-      ],
-      "duration_ms": 206794,
-      "name": "Fall Again",
-      "url": "https://open.spotify.com/track/3oOvEw1pgxMtrQMNgPWQHL"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7"
-      },
-      "artists": [
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
         {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+          "name": "Robert Miles",
+          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
         }
       ],
-      "duration_ms": 159047,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Electric Feeling",
-        "url": "https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        }
-      ],
-      "duration_ms": 186239,
-      "name": "Electric Feeling",
-      "url": "https://open.spotify.com/track/6iaFDadGS6EqeyQb0c3QGZ"
+      "duration_ms": 245927,
+      "name": "Children",
+      "url": "https://open.spotify.com/track/3PUnmXpIRfLa8yI9wfgJPC"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -867,26 +887,6 @@
       "duration_ms": 218880,
       "name": "Otherside - Nils Hoffmann Remix",
       "url": "https://open.spotify.com/track/0z3hYtKH35ltEcPfeyBXj4"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Children",
-        "url": "https://open.spotify.com/album/6GtPnONSzvxyWXkSTmLQiR"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Robert Miles",
-          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
-        }
-      ],
-      "duration_ms": 245927,
-      "name": "Children",
-      "url": "https://open.spotify.com/track/3PUnmXpIRfLa8yI9wfgJPC"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -959,6 +959,26 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "I Need A Miracle",
+        "url": "https://open.spotify.com/album/7iYXLj1M7tpN10jH9PbuwA"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "Coco Star",
+          "url": "https://open.spotify.com/artist/3XSkS0dvC7HqbspstKciWc"
+        }
+      ],
+      "duration_ms": 193353,
+      "name": "I Need A Miracle",
+      "url": "https://open.spotify.com/track/0Op5b6Wio6U15ohFPJvjmm"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Numb (Joris Voorn Remix)",
         "url": "https://open.spotify.com/album/0vTR69DaeGYKkf4DNioMfF"
       },
@@ -1015,26 +1035,6 @@
       "duration_ms": 207360,
       "name": "I Want You - Edit",
       "url": "https://open.spotify.com/track/5VzsokRZMpEDLTaXBPfUdJ"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "I Need A Miracle",
-        "url": "https://open.spotify.com/album/7iYXLj1M7tpN10jH9PbuwA"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        },
-        {
-          "name": "Coco Star",
-          "url": "https://open.spotify.com/artist/3XSkS0dvC7HqbspstKciWc"
-        }
-      ],
-      "duration_ms": 193353,
-      "name": "I Need A Miracle",
-      "url": "https://open.spotify.com/track/0Op5b6Wio6U15ohFPJvjmm"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1379,6 +1379,30 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/4X8oZTuxkb2ScktgqMbwJR"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "duration_ms": 245538,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Growth",
         "url": "https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv"
       },
@@ -1419,30 +1443,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/4X8oZTuxkb2ScktgqMbwJR"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
-        }
-      ],
-      "duration_ms": 245538,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "I Need You (Adriatique Remix)",
         "url": "https://open.spotify.com/album/5xoWT0xsoV2jQ5wFvLUEfN"
       },
@@ -1459,26 +1459,6 @@
       "duration_ms": 291304,
       "name": "I Need You - Adriatique Remix",
       "url": "https://open.spotify.com/track/4RfOBweHWhbKwFDqIsuxdY"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Hypnotised / I Can Feel",
-        "url": "https://open.spotify.com/album/5QDehFZtgj2xIdHJYd0rE8"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Dosem",
-          "url": "https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS"
-        }
-      ],
-      "duration_ms": 340114,
-      "name": "Hypnotised",
-      "url": "https://open.spotify.com/track/3o5P6TF0Gop8MiuuuTtttl"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1503,6 +1483,26 @@
       "duration_ms": 296368,
       "name": "Skyscrapers - Hi-Lo Remix",
       "url": "https://open.spotify.com/track/2g95XDCx4GqcaJPv7TTk8C"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Hypnotised / I Can Feel",
+        "url": "https://open.spotify.com/album/5QDehFZtgj2xIdHJYd0rE8"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Dosem",
+          "url": "https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS"
+        }
+      ],
+      "duration_ms": 340114,
+      "name": "Hypnotised",
+      "url": "https://open.spotify.com/track/3o5P6TF0Gop8MiuuuTtttl"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1563,22 +1563,6 @@
       "duration_ms": 445440,
       "name": "Age of Love - ARTBAT Rave Mix",
       "url": "https://open.spotify.com/track/7LHqxlhat0OIf3gCOGnOGr"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "All That I Lost",
-        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 259838,
-      "name": "All That I Lost",
-      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1667,18 +1651,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Emerald Skies",
-        "url": "https://open.spotify.com/album/3NBivztC0hpwUNKeV7Hs6Z"
+        "name": "All That I Lost",
+        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
       },
       "artists": [
         {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
         }
       ],
-      "duration_ms": 186666,
-      "name": "Emerald Skies",
-      "url": "https://open.spotify.com/track/6D11LKlEYTF9URakCVjhvO"
+      "duration_ms": 259838,
+      "name": "All That I Lost",
+      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1707,6 +1691,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Emerald Skies",
+        "url": "https://open.spotify.com/album/3NBivztC0hpwUNKeV7Hs6Z"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Emerald Skies",
+      "url": "https://open.spotify.com/track/6D11LKlEYTF9URakCVjhvO"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "REDUX 006",
         "url": "https://open.spotify.com/album/4urA6v3u3Of4y0snurlHmE"
       },
@@ -1719,6 +1719,22 @@
       "duration_ms": 255238,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/4DHMD8JzIBOoAXAqHOl3qd"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Twisted Reality (Edit)",
+        "url": "https://open.spotify.com/album/2be6MuI6wAu5tB4HrYmUfJ"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "Twisted Reality - Edit",
+      "url": "https://open.spotify.com/track/3KtWJZlt5tPT8E5akHUpVZ"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1747,22 +1763,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Twisted Reality (Edit)",
-        "url": "https://open.spotify.com/album/2be6MuI6wAu5tB4HrYmUfJ"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "Twisted Reality - Edit",
-      "url": "https://open.spotify.com/track/3KtWJZlt5tPT8E5akHUpVZ"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Out Of Reach",
         "url": "https://open.spotify.com/album/6BKOB4K0g6Brt0aEG1TLCF"
       },
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Reminiscing",
+        "url": "https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 258536,
+      "name": "Reminiscing",
+      "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Elements Of A New Life",
         "url": "https://open.spotify.com/album/47c6Wt8ZJP39IEhtn8JzTd"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 205161,
       "name": "Elements Of A New Life",
       "url": "https://open.spotify.com/track/4aoT4eYesZWIwifnIFRgcs"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Reminiscing",
-        "url": "https://open.spotify.com/album/1qBiRuMAIssv7uT0xGksv3"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 258536,
-      "name": "Reminiscing",
-      "url": "https://open.spotify.com/track/1jCfoQwzEeIuawlCbhM1Kp"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1987,26 +1987,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Lost In Space",
-        "url": "https://open.spotify.com/album/3XmOP8oV0J57PrPYAOm63G"
-      },
-      "artists": [
-        {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
-        },
-        {
-          "name": "Korolova",
-          "url": "https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx"
-        }
-      ],
-      "duration_ms": 451500,
-      "name": "Lost In Space",
-      "url": "https://open.spotify.com/track/3IJRNwpqZU7uJhQ5qFvy5D"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/0w9o19xIAioxJ94ikjpB7j"
       },
@@ -2047,6 +2027,26 @@
       "duration_ms": 188226,
       "name": "2 Much 2 Handle",
       "url": "https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "You Take My Hand",
+        "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Jamie Irrepressible",
+          "url": "https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU"
+        }
+      ],
+      "duration_ms": 315861,
+      "name": "You Take My Hand",
+      "url": "https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa"
     }
   ],
   "unique_name": "Night Rider",

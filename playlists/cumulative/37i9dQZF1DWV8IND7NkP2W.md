@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-697 songs - 1 day 7 hr 12 min
+698 songs - 1 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,6 +373,7 @@
 | [Mellow Air](https://open.spotify.com/track/6sRaF5VBH1cJZCObgS4YV4) | [KH](https://open.spotify.com/artist/07Qyqoi71rSFyc6iwyONrr) | [Mellow Air](https://open.spotify.com/album/3QsHi7SXMW2D5FOZLgNPZZ) | 1:55 | 2023-08-17 | 2023-08-19 |
 | [mement](https://open.spotify.com/track/36umuAOjXpoxzYXmkTbxv7) | [loner](https://open.spotify.com/artist/0cg7k8SzwAc1aXnLd2iTwH) | [mement](https://open.spotify.com/album/61gSzaqoUlGG6TfhzZAZK5) | 3:12 | 2022-12-01 | 2023-04-24 |
 | [Memories](https://open.spotify.com/track/2S3neOQV87GmDIQiaYE5Sh) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [Memories](https://open.spotify.com/album/0CvGOPTPDXYWUtTdnHw6up) | 2:05 | 2023-11-21 |  |
+| [Memories](https://open.spotify.com/track/5La9cg847leSOlw8fiDmTb) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [memories](https://open.spotify.com/album/7LtkgUFi6fYytsZrhLxjBQ) | 2:59 | 2023-12-21 |  |
 | [Memories of Furniture](https://open.spotify.com/track/4rMUYNfP8tZGSr9oojyhGA) | [Daisuke Miyatani](https://open.spotify.com/artist/00W9E7VkwAsnbpofU3fziZ), [paniyolo](https://open.spotify.com/artist/3HXP7bQnSqzXn76CRDRDnr) | [Memories of Furniture](https://open.spotify.com/album/6b876cOa6S2ZCRErR1behv) | 3:33 | 2021-12-23 | 2023-07-07 |
 | [Memory Lane](https://open.spotify.com/track/0hnIBWekKx0mEP6bprvsFa) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Memory Lane](https://open.spotify.com/album/553aukJODmKjlUIa48SRbn) | 2:51 | 2023-08-03 | 2023-08-19 |
 | [Memory Lane](https://open.spotify.com/track/32HXeN3APFZcwKh3Jr5pOe) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Memory Lane](https://open.spotify.com/album/3MLmOVmSbplDhK4UbO0eEH) | 2:51 | 2023-08-03 | 2023-08-05 |
@@ -587,7 +588,7 @@
 | [Streets of Kyoto](https://open.spotify.com/track/6NRRbRKPVZOZKVtGIDiVVe) | [Satsuto](https://open.spotify.com/artist/5xkGH3C3ZNnvQeyB4bKD0l) | [Streets of Kyoto](https://open.spotify.com/album/7zqqLokT18SEG7y7AZ576V) | 1:36 | 2022-01-13 | 2022-04-16 |
 | [Streets of Kyoto](https://open.spotify.com/track/5bMdumc7P25niyDzxb5GeJ) | [Satsuto](https://open.spotify.com/artist/5xkGH3C3ZNnvQeyB4bKD0l), [Lazy Noodles](https://open.spotify.com/artist/1Go1Dbj9TUeoivCiVps571) | [Streets of Kyoto](https://open.spotify.com/album/5cj8lMDcvX5kOOxFrDP5SY) | 1:36 | 2022-07-28 |  |
 | [stricta](https://open.spotify.com/track/6sToZx4pAeSkSyfxR1RX5c) | [TANGDEN](https://open.spotify.com/artist/2eaGOP1phNaqh5XcjFMjOi) | [TOPANGA](https://open.spotify.com/album/0jrKHBdRlPbd2SqGUr3HoA) | 2:05 | 2022-05-26 | 2023-03-25 |
-| [Sudachi](https://open.spotify.com/track/4Ba5yNZnLdgZTpcMe1af9H) | [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5), [Koza](https://open.spotify.com/artist/4YH2JxUSsaFYrJXPva13gd), [Etymology Records](https://open.spotify.com/artist/6sHwGhhYxjbUEiT06hnt20) | [Sudachi](https://open.spotify.com/album/3loyhogYQD9GMco9mhlKEn) | 2:18 | 2021-12-23 |  |
+| [Sudachi](https://open.spotify.com/track/4Ba5yNZnLdgZTpcMe1af9H) | [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5), [Koza](https://open.spotify.com/artist/4YH2JxUSsaFYrJXPva13gd), [Etymology Records](https://open.spotify.com/artist/6sHwGhhYxjbUEiT06hnt20) | [Sudachi](https://open.spotify.com/album/3loyhogYQD9GMco9mhlKEn) | 2:18 | 2021-12-23 | 2023-12-26 |
 | [Summer](https://open.spotify.com/track/3I5wS79HgXwg91FSI4XeE8) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Summer](https://open.spotify.com/album/3zaR1622H1nFZbyLrIWfSZ) | 2:50 | 2022-08-25 | 2022-08-27 |
 | [Summer](https://open.spotify.com/track/4RFvGz9n1dEYU1yuYMu8VV) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Water](https://open.spotify.com/album/410FsKhVRXwSwirbTh7e4I) | 2:50 | 2022-11-10 | 2023-06-10 |
 | [Summer](https://open.spotify.com/track/5MiOE2c54a1YLuQ23ClpKv) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Summer](https://open.spotify.com/album/5DFxKYeiJlGGx3zCbX3ocT) | 2:50 | 2022-08-25 | 2022-10-09 |

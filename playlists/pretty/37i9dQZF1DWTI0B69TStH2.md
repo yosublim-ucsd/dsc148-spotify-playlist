@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów w 2023 roku\. Cover:  <a href="spotify:artist:7ruGjTmqO10lSqHWRIchnU">Daniel Godson</a> \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,050 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,049 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 61 | [Cios](https://open.spotify.com/track/6MPvNNjTw0tBnWHqRMbUMw) | [BIOS](https://open.spotify.com/artist/5EXA0E3Ccw9iT7yJn9kG0x) | [Cios](https://open.spotify.com/album/3vrWASuMSM4grwwqynBtve) | 4:58 |
 | 62 | [Święta Betsy](https://open.spotify.com/track/3RbLl4IpoO7F7JIlHs1jdj) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [49 Groszy](https://open.spotify.com/album/7evYzPUD456BPo5RYfeK66) | 2:49 |
 | 63 | [Myśli w głowie](https://open.spotify.com/track/6yITrUufAZKtpJ6hbSPp7G) | [Julia Przybylska](https://open.spotify.com/artist/3OSpVIczY7n8Mhz02orZTP) | [Myśli w głowie](https://open.spotify.com/album/7bm9KxpiRkcHK7zP6aK2Rp) | 3:06 |
-| 64 | [Wide Lips of Fate](https://open.spotify.com/track/7aqueVCbFhQzgB2tkmP1TR) | [IKARVS](https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg) | [Wide Lips of Fate](https://open.spotify.com/album/4wLmRnFp4wx3Bl7les7YDv) | 5:28 |
+| 64 | [Wide Lips of Fate](https://open.spotify.com/track/7aqueVCbFhQzgB2tkmP1TR) | [AKASHA MX](https://open.spotify.com/artist/721EuEbzImpF3q72RR9rCP), [IKARVS](https://open.spotify.com/artist/2nIhOTkDDboRX6RsNMg8wg) | [Wide Lips of Fate](https://open.spotify.com/album/4wLmRnFp4wx3Bl7les7YDv) | 5:28 |
 | 65 | [Z gitarą na plażę](https://open.spotify.com/track/2uQ2CJmLL63JUSBvl3hLGK) | [The Boars](https://open.spotify.com/artist/3YN632oQuzuUJqAMcBkXmD) | [Z gitarą na plażę](https://open.spotify.com/album/1g4RcRBuOZRwGNu9RWfPl0) | 3:25 |
 | 66 | [Znój Horror Pańszczyzna](https://open.spotify.com/track/412Y4Rm5d55uVdk4vtgJA7) | [Szefner](https://open.spotify.com/artist/3M9n9VCc39QFqVzU9guLjf) | [Znój Horror Pańszczyzna](https://open.spotify.com/album/5wUZeCt1oXg9ZJ5d8uOKe1) | 3:54 |
 | 67 | [dickpic](https://open.spotify.com/track/2brkd0qIkItIOkYGshRvWI) | [susk](https://open.spotify.com/artist/0b2xjUWoDTDaDbr4fNqGtc), [Kadet Szewczyk](https://open.spotify.com/artist/48HTPxSVqryk1A8yEWvoad) | [KURDE FAJA](https://open.spotify.com/album/0hT4RZElYWWDHriF0LsDip) | 4:35 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Trauma](https://open.spotify.com/track/6jl8DV7cegEqY6pWYFRbHw) | [LIT](https://open.spotify.com/artist/0axhGJWYkI9LuFVKorPwT8) | [Trauma](https://open.spotify.com/album/0NGvqd9ltrz1HBp9B1OQyu) | 3:46 |
 | 100 | [Prosecco](https://open.spotify.com/track/2r0YYsBrX73AEtFUYjxfZh) | [12 kamieni](https://open.spotify.com/artist/4X5vA3EzcDxZQxAcECzGqH), [Szymon Szczot](https://open.spotify.com/artist/3SYXkGixE2adr3Cm8ctN2E) | [Prosecco](https://open.spotify.com/album/0ErGxuvwWHteWwbJSTJlLB) | 2:45 |
 
-Snapshot ID: `MCw4NGJlYWMyMTMwNzhjYzEzODE2ZjM0NGRjODU5Y2M2ZDZmOWVjY2Ix`
+Snapshot ID: `MCxmYzBhZGI3NTc0YjgxOGU2NjBkN2EwNmM0Zjk3MmJlMjMyMTNkZTJm`

@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,104 songs - 1 day 17 hr 44 min
+1,106 songs - 1 day 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,7 +282,7 @@
 | [Early Morning](https://open.spotify.com/track/4qq1E2knZzbOhROyJKHo6m) | [Blues Trip](https://open.spotify.com/artist/1tR2bO3i8fdS3A8tLn2UEw) | [Early Morning](https://open.spotify.com/album/1kRLuaMxWOXtJt1MJUDqtL) | 2:07 | 2022-07-01 |  |
 | [Ease Of Mind](https://open.spotify.com/track/0Fe76by6O8RvlRAiWWcuhO) | [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z), [Goson](https://open.spotify.com/artist/3b0TLzX6FkeQvv9daBtFBe) | [Ease Of Mind](https://open.spotify.com/album/0WGuI6o6gnvIajNK08QcxA) | 2:33 | 2022-04-15 | 2022-12-10 |
 | [East of the Fields](https://open.spotify.com/track/7MxwkhpH9lAdeE9KkNVPPR) | [Mr Muddy](https://open.spotify.com/artist/2SE4xWBKS86MFe82bCqBgE) | [Cape Judge](https://open.spotify.com/album/0qBw9ryoN9AhxwkxgPJIrB) | 2:42 | 2021-11-10 | 2023-03-02 |
-| [Easter Island](https://open.spotify.com/track/2qjzSQG80dHvn5bB8GWWS1) | [Alrik Lagom](https://open.spotify.com/artist/3hre26wvV7Cy00fDfbJBbn) | [Easter Island](https://open.spotify.com/album/6t8htpEMmWwixX1VkDk5yQ) | 1:52 | 2022-12-09 |  |
+| [Easter Island](https://open.spotify.com/track/2qjzSQG80dHvn5bB8GWWS1) | [Alrik Lagom](https://open.spotify.com/artist/3hre26wvV7Cy00fDfbJBbn) | [Easter Island](https://open.spotify.com/album/6t8htpEMmWwixX1VkDk5yQ) | 1:52 | 2022-12-09 | 2023-12-26 |
 | [Easy \- Lofi Flip](https://open.spotify.com/track/4SZSHbaH8ONNdrMM5Sd92g) | [Locals Only Sound](https://open.spotify.com/artist/0FiWU7d449v3BcyuBhIOEh), [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [Easy \(Lo\-Fi\)](https://open.spotify.com/album/3Y3LjzonBIAhqOAQsflw7J) | 1:56 | 2021-11-10 | 2022-07-29 |
 | [Easy Cookin](https://open.spotify.com/track/42JZkYvIxmVEtUcnV5tDTa) | [BATNAM](https://open.spotify.com/artist/2zW3yK70VmT02XYabNI56m) | [Life Rent](https://open.spotify.com/album/0TcQceIRdrm8BvmhHQDCTS) | 1:33 | 2021-11-10 | 2022-06-10 |
 | [Echos](https://open.spotify.com/track/7ruubQWd9pge9BwU2kPWpT) | [Philphonic](https://open.spotify.com/artist/6VileFYLMHwuNl4M6wjH46) | [Echos](https://open.spotify.com/album/5K1VkXxDRwgLZY5ocWbxlB) | 2:15 | 2023-07-13 | 2023-10-13 |
@@ -417,7 +417,7 @@
 | [Helium](https://open.spotify.com/track/5kNOPm4KEZb1rQcuW1Ceib) | [FREJA](https://open.spotify.com/artist/3PsElXP6TTwUalgNPiyyzH) | [Helium](https://open.spotify.com/album/3fkualIq2JDtFczKqsapwD) | 2:15 | 2021-11-10 | 2022-07-22 |
 | [hello](https://open.spotify.com/track/7McehAjzhS8bEprBvY9KDJ) | [werklig](https://open.spotify.com/artist/27bOXURlYhViWycg2CYg6r) | [hello](https://open.spotify.com/album/4BY8K9Hr6r1QZHKxg9FYx1) | 1:58 | 2022-01-27 |  |
 | [here & now](https://open.spotify.com/track/7LrpylNEYXLNF2YqBerLa4) | [Snoozegod](https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG), [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt) | [here & now](https://open.spotify.com/album/5DiZQjPdPhAyMu1jboC0kU) | 1:32 | 2023-01-06 |  |
-| [Heroes](https://open.spotify.com/track/5MY4EnZdc8LuwfraVAyNFW) | [PØPE](https://open.spotify.com/artist/6rpgPKGnr7T1bpFh5wGZrx) | [Postcard](https://open.spotify.com/album/0o7HwPrLRbc6zyLHL8RuSr) | 1:58 | 2022-12-09 |  |
+| [Heroes](https://open.spotify.com/track/5MY4EnZdc8LuwfraVAyNFW) | [PØPE](https://open.spotify.com/artist/6rpgPKGnr7T1bpFh5wGZrx) | [Postcard](https://open.spotify.com/album/0o7HwPrLRbc6zyLHL8RuSr) | 1:58 | 2022-12-09 | 2023-12-26 |
 | [Heroic](https://open.spotify.com/track/1Mgfv6ihHH5ZjQkA2bagUg) | [rwethree](https://open.spotify.com/artist/4xONuzG8xDW9pPSYS3ttcT) | [Heroic](https://open.spotify.com/album/0zkyDiJG7olarHq4ra9f8w) | 2:12 | 2023-09-15 |  |
 | [hidden beauty](https://open.spotify.com/track/6HkdCCE61XLWwHN6QkMvDm) | [Kumegano](https://open.spotify.com/artist/3EiG8ERYtLZRuGCxrSyoSA) | [hidden beauty](https://open.spotify.com/album/34HsnHWY1avKoAksWZ4NiP) | 2:33 | 2022-11-11 |  |
 | [Hidden Shrines](https://open.spotify.com/track/7FkYxZaij658VtKrNt25aK) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Hidden Shrines](https://open.spotify.com/album/395x6HdSfXezH5TG7Aw1AC) | 1:23 | 2022-07-08 | 2023-10-06 |
@@ -674,6 +674,7 @@
 | [neon reflections](https://open.spotify.com/track/4qneH71UmcvFiAjkyTkCQg) | [Jarhed](https://open.spotify.com/artist/3gSbOuZWElvuwEPZP18TCF) | [neon reflections](https://open.spotify.com/album/4Bgj9xRKXC70Hyx8GinF97) | 1:58 | 2022-09-16 |  |
 | [nesh](https://open.spotify.com/track/0HOAVNvOCf0RMc9oZCIAVP) | [p!ke](https://open.spotify.com/artist/2kebQPXUtRBcFlYb8Zhb3j) | [goodfella](https://open.spotify.com/album/2EjvFoMuv8DtBGvEv3267g) | 1:47 | 2021-11-10 | 2022-06-10 |
 | [Nesting](https://open.spotify.com/track/1rAr1l1UYqxSjiGLKxQRkV) | [Snake Ritual](https://open.spotify.com/artist/30SIuvvR5UVKlMgTPiyndf) | [Nesting](https://open.spotify.com/album/1sliK69gORXTCCHRhVsQQ9) | 3:00 | 2022-12-09 |  |
+| [Never Forgotten](https://open.spotify.com/track/74BxYDojYHtw9GOeTsik8f) | [Dream Phobia](https://open.spotify.com/artist/5PYBO1ouuWJGeyAJyimodq) | [Never Forgotten](https://open.spotify.com/album/7zgBhhx6aV03m41a2veUUX) | 3:05 | 2023-12-22 |  |
 | [New Adventures](https://open.spotify.com/track/7yBTDVkyI3ZUNFgLCw1y7b) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [New Adventures](https://open.spotify.com/album/4v75HfqwkIB2e5Hz3S6W7K) | 2:01 | 2023-10-06 |  |
 | [new chimes](https://open.spotify.com/track/3HbMWLdJrCNjXaVWIcXijo) | [Boshi](https://open.spotify.com/artist/7FwQ4GIIxJqMCHK6H6Hj9I) | [new chimes](https://open.spotify.com/album/5vlYGwXhpAqd4ylljVY1U6) | 2:43 | 2022-10-28 |  |
 | [New Hope](https://open.spotify.com/track/0K1f1EUIFTSrxn07fsbiWH) | [paris91](https://open.spotify.com/artist/0IF1xUEFhGXZ7zz8BW1zqv), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Hope](https://open.spotify.com/album/6vnOs7e9fVIrqFoIbMSblB) | 1:30 | 2023-07-13 |  |
@@ -1005,6 +1006,7 @@
 | [Tomorrow is Sunday](https://open.spotify.com/track/2zXsYFayncayYEELOLAOhp) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb), [Lo\-Fi Tigers](https://open.spotify.com/artist/4nQdWcfYHVmyqUGc3WBaFX) | [Tomorrow is Sunday](https://open.spotify.com/album/7gglwXbNRMFofr1efCBe3P) | 2:11 | 2022-04-08 | 2022-12-10 |
 | [tomorrow, 2 am](https://open.spotify.com/track/1AjIq7D644IjbeekXoe64u) | [class e](https://open.spotify.com/artist/0HfmQce99SOzQR5dBgURe1) | [tomorrow, 2 am](https://open.spotify.com/album/3XfmT2opeZqXNMEq1dLbgE) | 2:12 | 2021-11-10 | 2022-09-03 |
 | [tomoshibi](https://open.spotify.com/track/7H26mrFeD2oE8cJu0BroBy) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [tomoshibi](https://open.spotify.com/album/1OzUBhA1PotfdYvF4ED2LP) | 3:07 | 2022-08-12 | 2023-04-28 |
+| [toneHUG](https://open.spotify.com/track/3AD1MgwJWGEmKQ0CquSs8a) | [Max Hayward](https://open.spotify.com/artist/7BYvlfn9FHd6YH5eTY93zP) | [toneHUG](https://open.spotify.com/album/5VFZutKUl020tCSX5psL6p) | 3:03 | 2023-12-22 |  |
 | [Topics n things](https://open.spotify.com/track/3fM2ycK3tZBGIX1w115Ie4) | [Surdég Broed](https://open.spotify.com/artist/7mKovR2MtFaB4qRQhfzcSx) | [Topics n things](https://open.spotify.com/album/0rA2AyTXSV0ROzNKE9JeYK) | 2:11 | 2022-11-25 |  |
 | [Tornado By The Fire](https://open.spotify.com/track/5KS0pPwHKZz5tStdFQrXAv) | [Liam Jones](https://open.spotify.com/artist/2XkWxaUYf6dO49IWb63OC8) | [Tornado By The Fire](https://open.spotify.com/album/31Fss9essrGr7FRVX0oW9P) | 2:20 | 2023-12-15 |  |
 | [toucanteloupe](https://open.spotify.com/track/3DE86ZQ10wuzbCZN1ApZjx) | [vibe academy](https://open.spotify.com/artist/1QIlKfgGmOpQRigjy2CyPN) | [dreams of species unknown](https://open.spotify.com/album/5yer6KOA4ToyQVY3w6iHwc) | 3:09 | 2021-11-10 | 2022-04-08 |

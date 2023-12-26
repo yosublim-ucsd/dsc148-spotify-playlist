@@ -1,12 +1,12 @@
 {
   "description": "The biggest Christmas songs of all time.",
-  "num_followers": 5741504,
+  "num_followers": 5756468,
   "original_name": "Christmas Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDEyYmEzOTE5YTE4YzU1ZjMzYTZlNjg2NGY2OWNmYTYzMTg0YWI5",
+  "snapshot_id": "MCxmODJhZmU0MmRkMGFjYmRhN2IwZjIxM2Y5YTAyYjUzMzUwZTE2ODI5",
   "tracks": [
     {
       "added_at": "2023-12-18 05:57:25",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-12-18 05:57:25",
       "album": {
-        "name": "The Christmas Song (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 68760,
-      "name": "Deck The Hall",
-      "url": "https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90"
-    },
-    {
-      "added_at": "2023-12-18 05:57:25",
-      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 153240,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/3PIDciSFdrQxSQSihim3hN"
+    },
+    {
+      "added_at": "2023-12-18 05:57:25",
+      "album": {
+        "name": "The Christmas Song (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 68760,
+      "name": "Deck The Hall",
+      "url": "https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90"
     },
     {
       "added_at": "2023-12-18 05:57:25",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-12-18 05:57:25",
       "album": {
-        "name": "Christmas Tree Farm",
-        "url": "https://open.spotify.com/album/5JnnrTE35MQagEnEkFthiF"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 228026,
-      "name": "Christmas Tree Farm",
-      "url": "https://open.spotify.com/track/2mvabkN1i2gLnGAPUVdwek"
-    },
-    {
-      "added_at": "2023-12-18 05:57:25",
-      "album": {
         "name": "Like It's Christmas",
         "url": "https://open.spotify.com/album/2SOQX9qSOQhxc0PsI5LNnu"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 200880,
       "name": "Like It's Christmas",
       "url": "https://open.spotify.com/track/1OjmlSFuzYflWjSMTCyTJv"
+    },
+    {
+      "added_at": "2023-12-18 05:57:25",
+      "album": {
+        "name": "Christmas Tree Farm",
+        "url": "https://open.spotify.com/album/5JnnrTE35MQagEnEkFthiF"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 228026,
+      "name": "Christmas Tree Farm",
+      "url": "https://open.spotify.com/track/2mvabkN1i2gLnGAPUVdwek"
     },
     {
       "added_at": "2023-12-18 05:57:25",
@@ -731,18 +731,18 @@
     {
       "added_at": "2023-12-18 05:57:25",
       "album": {
-        "name": "The Christmas Song (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
+        "name": "Jingle Bell Rock",
+        "url": "https://open.spotify.com/album/46RzcdoDpVi5UcRLML218R"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
         }
       ],
-      "duration_ms": 84986,
-      "name": "Joy To The World",
-      "url": "https://open.spotify.com/track/1VuAamHM7P3VQQEXYGG3Uu"
+      "duration_ms": 126360,
+      "name": "Jingle Bell Rock - Daryl's Version",
+      "url": "https://open.spotify.com/track/6pVW5LRWgeLaHudxauOTJU"
     },
     {
       "added_at": "2023-12-18 05:57:25",
@@ -767,22 +767,18 @@
     {
       "added_at": "2023-12-18 05:57:25",
       "album": {
-        "name": "White Christmas",
-        "url": "https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw"
+        "name": "The Christmas Song (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4"
       },
       "artists": [
         {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        },
-        {
-          "name": "The Andrews Sisters",
-          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 175333,
-      "name": "Mele Kalikimaka (Merry Christmas)",
-      "url": "https://open.spotify.com/track/04vLj9QUXoKdRlsp3gkURo"
+      "duration_ms": 84986,
+      "name": "Joy To The World",
+      "url": "https://open.spotify.com/track/1VuAamHM7P3VQQEXYGG3Uu"
     },
     {
       "added_at": "2023-12-18 05:57:25",
@@ -803,18 +799,22 @@
     {
       "added_at": "2023-12-18 05:57:25",
       "album": {
-        "name": "Jingle Bell Rock",
-        "url": "https://open.spotify.com/album/46RzcdoDpVi5UcRLML218R"
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw"
       },
       "artists": [
         {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
         }
       ],
-      "duration_ms": 126360,
-      "name": "Jingle Bell Rock - Daryl's Version",
-      "url": "https://open.spotify.com/track/6pVW5LRWgeLaHudxauOTJU"
+      "duration_ms": 175333,
+      "name": "Mele Kalikimaka (Merry Christmas)",
+      "url": "https://open.spotify.com/track/04vLj9QUXoKdRlsp3gkURo"
     },
     {
       "added_at": "2023-12-18 05:57:25",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-12-18 05:57:25",
       "album": {
+        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 131733,
+      "name": "Frosty The Snowman",
+      "url": "https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D"
+    },
+    {
+      "added_at": "2023-12-18 05:57:25",
+      "album": {
         "name": "Christmas, With Love",
         "url": "https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs"
       },
@@ -955,18 +971,18 @@
     {
       "added_at": "2023-12-18 05:57:25",
       "album": {
-        "name": "Ella Wishes You A Swinging Christmas (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2UhPCUgK2IGUrg7lIvMYfb"
+        "name": "The Works",
+        "url": "https://open.spotify.com/album/1FFugUhUxnLxYb4eqqDwGn"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Chris Rea",
+          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
         }
       ],
-      "duration_ms": 131733,
-      "name": "Frosty The Snowman",
-      "url": "https://open.spotify.com/track/65irrLqfCMRiO3p87P4C0D"
+      "duration_ms": 240213,
+      "name": "Driving Home for Christmas",
+      "url": "https://open.spotify.com/track/3Z3QhZAZpqwZa1phsbQ3JZ"
     },
     {
       "added_at": "2023-12-18 05:57:25",
@@ -983,22 +999,6 @@
       "duration_ms": 165666,
       "name": "Do You Hear What I Hear? - Remastered 2006",
       "url": "https://open.spotify.com/track/5aDoUmxBsbdpS16alksb5Z"
-    },
-    {
-      "added_at": "2023-12-18 05:57:25",
-      "album": {
-        "name": "The Works",
-        "url": "https://open.spotify.com/album/1FFugUhUxnLxYb4eqqDwGn"
-      },
-      "artists": [
-        {
-          "name": "Chris Rea",
-          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
-        }
-      ],
-      "duration_ms": 240213,
-      "name": "Driving Home for Christmas",
-      "url": "https://open.spotify.com/track/3Z3QhZAZpqwZa1phsbQ3JZ"
     },
     {
       "added_at": "2023-12-18 05:57:25",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2023-12-18 05:57:25",
       "album": {
-        "name": "Home For Christmas",
-        "url": "https://open.spotify.com/album/6uIB97CqMcssTss9WrtX8c"
+        "name": "Bing Crosby - Christmas Classics",
+        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
       },
       "artists": [
         {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
         }
       ],
-      "duration_ms": 255306,
-      "name": "Merry Christmas, Happy Holidays",
-      "url": "https://open.spotify.com/track/4v9WbaxW8HdjqfUiWYWsII"
+      "duration_ms": 144253,
+      "name": "Winter Wonderland - Remastered 2006",
+      "url": "https://open.spotify.com/track/2IuUMx3uxxJAHcH41aYtn0"
     },
     {
       "added_at": "2023-12-18 05:57:25",
@@ -1163,50 +1163,18 @@
     {
       "added_at": "2023-12-18 05:57:25",
       "album": {
-        "name": "Bing Crosby - Christmas Classics",
-        "url": "https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A"
+        "name": "Home For Christmas",
+        "url": "https://open.spotify.com/album/6uIB97CqMcssTss9WrtX8c"
       },
       "artists": [
         {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
         }
       ],
-      "duration_ms": 144253,
-      "name": "Winter Wonderland - Remastered 2006",
-      "url": "https://open.spotify.com/track/2IuUMx3uxxJAHcH41aYtn0"
-    },
-    {
-      "added_at": "2023-12-18 05:57:25",
-      "album": {
-        "name": "A Pentatonix Christmas Deluxe",
-        "url": "https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn"
-      },
-      "artists": [
-        {
-          "name": "Pentatonix",
-          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
-        }
-      ],
-      "duration_ms": 268960,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0HZk0QsXPhMNAWNDR3rYE8"
-    },
-    {
-      "added_at": "2023-12-18 05:57:25",
-      "album": {
-        "name": "Make It To Christmas",
-        "url": "https://open.spotify.com/album/78M2SymJDiLORvKBQHgmKl"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 211013,
-      "name": "Make It To Christmas",
-      "url": "https://open.spotify.com/track/6RS6rcjnWrdfVuu2U2W2dj"
+      "duration_ms": 255306,
+      "name": "Merry Christmas, Happy Holidays",
+      "url": "https://open.spotify.com/track/4v9WbaxW8HdjqfUiWYWsII"
     },
     {
       "added_at": "2023-12-18 05:57:25",
@@ -1239,6 +1207,38 @@
       "duration_ms": 254706,
       "name": "Happy Xmas (War Is Over)",
       "url": "https://open.spotify.com/track/2ohR9Qj4TgZafZCptO9cly"
+    },
+    {
+      "added_at": "2023-12-18 05:57:25",
+      "album": {
+        "name": "A Pentatonix Christmas Deluxe",
+        "url": "https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        }
+      ],
+      "duration_ms": 268960,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0HZk0QsXPhMNAWNDR3rYE8"
+    },
+    {
+      "added_at": "2023-12-18 05:57:25",
+      "album": {
+        "name": "Make It To Christmas",
+        "url": "https://open.spotify.com/album/78M2SymJDiLORvKBQHgmKl"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 211013,
+      "name": "Make It To Christmas",
+      "url": "https://open.spotify.com/track/6RS6rcjnWrdfVuu2U2W2dj"
     },
     {
       "added_at": "2023-12-18 05:57:25",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-12-18 05:57:25",
       "album": {
-        "name": "This Christmas Day",
-        "url": "https://open.spotify.com/album/5FVQjSLBVMdWaZYD4vf3gS"
-      },
-      "artists": [
-        {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
-        }
-      ],
-      "duration_ms": 163560,
-      "name": "Man With The Bag",
-      "url": "https://open.spotify.com/track/2Ysi49tRdVH74d1Cnc4o94"
-    },
-    {
-      "added_at": "2023-12-18 05:57:25",
-      "album": {
         "name": "Learning to Crawl (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 164613,
       "name": "It's Beginning To Look A Lot Like Christmas",
       "url": "https://open.spotify.com/track/1uh1iaMqBdx4XyrXhssKGD"
+    },
+    {
+      "added_at": "2023-12-18 05:57:25",
+      "album": {
+        "name": "This Christmas Day",
+        "url": "https://open.spotify.com/album/5FVQjSLBVMdWaZYD4vf3gS"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        }
+      ],
+      "duration_ms": 163560,
+      "name": "Man With The Bag",
+      "url": "https://open.spotify.com/track/2Ysi49tRdVH74d1Cnc4o94"
     },
     {
       "added_at": "2023-12-18 05:57:25",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-12-18 05:57:25",
       "album": {
+        "name": "20th Century Masters - The Best of Stevie Wonder: The Christmas Collection",
+        "url": "https://open.spotify.com/album/734TT1LYLvM5gAAYvG0DSw"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 168826,
+      "name": "Someday At Christmas",
+      "url": "https://open.spotify.com/track/777bpngWpsT8TTqrrO0Zde"
+    },
+    {
+      "added_at": "2023-12-18 05:57:25",
+      "album": {
         "name": "Take Me Home For Christmas",
         "url": "https://open.spotify.com/album/5nzOzmqaWGkrlfWfk9Jrfh"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 178613,
       "name": "Christmas In Hollis",
       "url": "https://open.spotify.com/track/41onDks2UPbyjer5fMeUWf"
-    },
-    {
-      "added_at": "2023-12-18 05:57:25",
-      "album": {
-        "name": "20th Century Masters - The Best of Stevie Wonder: The Christmas Collection",
-        "url": "https://open.spotify.com/album/734TT1LYLvM5gAAYvG0DSw"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 168826,
-      "name": "Someday At Christmas",
-      "url": "https://open.spotify.com/track/777bpngWpsT8TTqrrO0Zde"
     },
     {
       "added_at": "2023-12-18 05:57:25",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-12-18 05:57:25",
       "album": {
-        "name": "Christmas Classics",
-        "url": "https://open.spotify.com/album/3f22Ap0VSZYWsqrGcphUnY"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 143026,
-      "name": "Baby, It's Cold Outside - Remastered 2004",
-      "url": "https://open.spotify.com/track/4uQqahi1iUP35xE2qGdKdo"
-    },
-    {
-      "added_at": "2023-12-18 05:57:25",
-      "album": {
         "name": "A Legendary Christmas",
         "url": "https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY"
       },
@@ -1619,18 +1603,18 @@
     {
       "added_at": "2023-12-18 05:57:25",
       "album": {
-        "name": "Under The Mistletoe (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
+        "name": "Christmas Classics",
+        "url": "https://open.spotify.com/album/3f22Ap0VSZYWsqrGcphUnY"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 206786,
-      "name": "Christmas Love",
-      "url": "https://open.spotify.com/track/3RH9idbxUAMcUldet2ormp"
+      "duration_ms": 143026,
+      "name": "Baby, It's Cold Outside - Remastered 2004",
+      "url": "https://open.spotify.com/track/4uQqahi1iUP35xE2qGdKdo"
     },
     {
       "added_at": "2023-12-18 05:57:25",
@@ -1647,6 +1631,22 @@
       "duration_ms": 261626,
       "name": "Thank God It's Christmas - 2011 Remaster",
       "url": "https://open.spotify.com/track/3AymrUApW5JKKaNrHQhcBG"
+    },
+    {
+      "added_at": "2023-12-18 05:57:25",
+      "album": {
+        "name": "Under The Mistletoe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 206786,
+      "name": "Christmas Love",
+      "url": "https://open.spotify.com/track/3RH9idbxUAMcUldet2ormp"
     },
     {
       "added_at": "2023-12-18 05:57:25",

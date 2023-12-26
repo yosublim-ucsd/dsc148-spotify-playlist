@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,374 songs - 10 day 1 hr 29 min
+6,376 songs - 10 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [All About](https://open.spotify.com/track/3zQ7sXNcnuB5XU9BeqxGIj) | [Green Balloon](https://open.spotify.com/artist/2GGLsAPwyfEvtUyKYvELDy) | [Epic Love](https://open.spotify.com/album/5C1vgrBe5b4SeyS2Beap3c) | 1:45 | 2020-11-05 | 2021-10-20 |
 | [All Beings United](https://open.spotify.com/track/0jdDnGHAv3sOXQNJWN1NoH) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [All Beings United](https://open.spotify.com/album/7E7GAWOtLXkj5Llb37sTqK) | 2:05 | 2022-09-16 | 2023-01-07 |
 | [All Blues](https://open.spotify.com/track/2P8appgPyTXvA7fZHJgTei) | [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe), [MONODUKE](https://open.spotify.com/artist/7GMURXXNVyc1SXq3cvw197) | [All Blues](https://open.spotify.com/album/5buKSaM8BDbMLkIaa281mm) | 2:51 | 2022-11-25 | 2023-04-06 |
+| [All downhill from here](https://open.spotify.com/track/2MFbMTRA9SYAZJvjv0mzbm) | [Art Vandeley](https://open.spotify.com/artist/6aHekjqSdW1DwredIrNAWE) | [All downhill from here](https://open.spotify.com/album/0P8byZc39T2R6c9o28xAHp) | 2:10 | 2023-12-22 |  |
 | [All I Need](https://open.spotify.com/track/4EumqfEVsWUnL6enOFLPIE) | [wallyPDF](https://open.spotify.com/artist/1bzy63aGMcbSpAHuemeCUk) | [All I Need](https://open.spotify.com/album/65pPygkQi2XDsUuWXHHC3O) | 2:00 | 2022-04-15 | 2022-07-29 |
 | [All I Need](https://open.spotify.com/track/5svu6ecuTJz5katkiMaOsj) | [wallyPDF](https://open.spotify.com/artist/1bzy63aGMcbSpAHuemeCUk) | [All I Need](https://open.spotify.com/album/0xLZb7M33rmZFlYEupyvrC) | 2:00 | 2022-07-29 | 2022-09-02 |
 | [All In](https://open.spotify.com/track/0J4GC21u9mvvZv6AS0f2dv) | [Deauxnuts](https://open.spotify.com/artist/4FCrhj46HBtMVt61k35zMB), [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3) | [All In](https://open.spotify.com/album/0ypQJe3UArCxJJKP1DJWw8) | 2:37 | 2022-12-16 | 2023-03-25 |
@@ -2518,7 +2519,7 @@
 | [Hummingbird](https://open.spotify.com/track/7hHfDHtbVbkSMdPwemURvo) | [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76) | [Hummingbird](https://open.spotify.com/album/7wXjkNjLdUzzItVuU7DzlE) | 2:01 | 2022-12-09 |  |
 | [Hush](https://open.spotify.com/track/4AAxteXXwBqVchz26932uB) | [Dip Lewis](https://open.spotify.com/artist/1WJVNwZkJiTU9YRr6vEGx0) | [Hush](https://open.spotify.com/album/4YcojIOuGGewmDv8jMKKay) | 2:24 | 2023-09-29 |  |
 | [Hush](https://open.spotify.com/track/5fnqM7oSIzKq13a0jCE08U) | [Jokujekku](https://open.spotify.com/artist/0L1eY5MVRiGxxfMa77yy3n), [vnpr](https://open.spotify.com/artist/6tBMkZPiNcKvalvDofY4F4) | [Hush](https://open.spotify.com/album/6s37uDaOQY34GBHkdimlRt) | 2:14 | 2022-11-18 | 2023-01-20 |
-| [Husken](https://open.spotify.com/track/6HcCXI2wjeLsmyUpAVdjGZ) | [invention\_](https://open.spotify.com/artist/7uA2p3333eiW9Cknf1twtU) | [Embark](https://open.spotify.com/album/3YSuksg7s2LeOSn1tK1P4G) | 1:46 | 2023-12-15 |  |
+| [Husken](https://open.spotify.com/track/6HcCXI2wjeLsmyUpAVdjGZ) | [invention\_](https://open.spotify.com/artist/7uA2p3333eiW9Cknf1twtU) | [Embark](https://open.spotify.com/album/3YSuksg7s2LeOSn1tK1P4G) | 1:46 | 2023-12-15 | 2023-12-26 |
 | [Hybrid Moments \- Spotify Singles](https://open.spotify.com/track/4QegPcy8y4gobNm6TsTKTt) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Bluewerks: Spotify Singles](https://open.spotify.com/album/1PgcGR5YoK6f0BT00xD9LP) | 2:04 | 2022-05-04 | 2022-08-27 |
 | [Hydrangea](https://open.spotify.com/track/3z3QKouio76OV0VVtwAXdy) | [Knowmadic](https://open.spotify.com/artist/0HcyeAioEKhfwVcJAoyN36) | [Hydrangea](https://open.spotify.com/album/4rgCZ7pzEgVtFcNBRotiGz) | 2:48 | 2019-06-25 | 2020-01-13 |
 | [Hydration](https://open.spotify.com/track/03DCmsx6VR45Z9qe6pgkYd) | [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq), [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j) | [Hydration](https://open.spotify.com/album/35RHe0a6DBNCVFbV986sFJ) | 2:13 | 2022-06-03 | 2022-09-30 |
@@ -5189,7 +5190,7 @@
 | [Steam](https://open.spotify.com/track/6385bZLWT6xuIqi5Sz8TZi) | [Tomh.](https://open.spotify.com/artist/0Jav1F9KkDu2SgE5Sc5MPU), [Kirikoukiri](https://open.spotify.com/artist/0tJb2ycZAlLRcP5G9T1wPZ) | [Wintertide](https://open.spotify.com/album/0sPg8hGFJjf2cBaryvmVYR) | 2:15 | 2022-11-11 | 2023-03-29 |
 | [Steamy Windows](https://open.spotify.com/track/3ukPXjWcSoNMArX79dY3V4) | [Mr.Mahous](https://open.spotify.com/artist/3f3P7pxs9gtHuN7nNUDHFh) | [Steamy Windows](https://open.spotify.com/album/2oeRuLX6S3h3hjzD5Rx35U) | 2:23 | 2023-01-20 | 2023-12-15 |
 | [Steezy Days](https://open.spotify.com/track/4um5DQaOjpt3B5k8XeHP44) | [Donkeychote](https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU) | [Steezy Days](https://open.spotify.com/album/2UYnAorNmPXpOC7QI5i4oD) | 1:42 | 2022-12-02 | 2023-06-08 |
-| [Stella](https://open.spotify.com/track/0QOqZlaCnEZ8fJ6eiKXLIl) | [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Stella](https://open.spotify.com/album/7ptqwGZGDdiTSJmSYNSFfF) | 1:46 | 2023-12-15 |  |
+| [Stella](https://open.spotify.com/track/0QOqZlaCnEZ8fJ6eiKXLIl) | [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Stella](https://open.spotify.com/album/7ptqwGZGDdiTSJmSYNSFfF) | 1:46 | 2023-12-15 | 2023-12-26 |
 | [Step at a Time](https://open.spotify.com/track/1J9yoEKfFYn63XF7Ml0IMd) | [Tall Roots](https://open.spotify.com/artist/6QHqHz26iLQmFVPbhEeOup) | [Step at a Time](https://open.spotify.com/album/2xi5HOaRq4DPbvxTmsokgO) | 2:33 | 2022-04-15 | 2022-05-27 |
 | [Step By Step](https://open.spotify.com/track/4FJXaaxCpZeTtCfzou4fJ6) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [Step By Step](https://open.spotify.com/album/3pxUYntdM7Qy4d5UHd1ubn) | 2:30 | 2021-11-05 | 2022-05-27 |
 | [Stewart brunch](https://open.spotify.com/track/73O4hg0NPZUAShQOmzb1aT) | [Euphoric](https://open.spotify.com/artist/1bwMazAmHtSVXFislONO1i) | [Stewart Brunch](https://open.spotify.com/album/6GxYAimSYBqW9wzWA4BF1f) | 1:44 | 2022-08-26 | 2023-01-07 |
@@ -5400,6 +5401,7 @@
 | [Sway](https://open.spotify.com/track/3KpDwmhldQlg8javP9MdK2) | [Sidual.](https://open.spotify.com/artist/5ghUUQxtMMankpzWRxckkI) | [Sway](https://open.spotify.com/album/4syr2ON8NOyuQOuoxqwrfx) | 2:28 | 2020-11-19 | 2021-10-20 |
 | [Swaype](https://open.spotify.com/track/0YRWFGr8QkH3GhmcLYOUTv) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Swaype](https://open.spotify.com/album/14psBo6XTptrqiGfRHGRow) | 2:25 | 2023-10-13 |  |
 | [Sweet](https://open.spotify.com/track/2rnJ2zSgnr31V1lkQRRkCQ) | [Kasimir](https://open.spotify.com/artist/0LCKyVSAzqhNLP4yTpnE5Z) | [Sweet](https://open.spotify.com/album/3MnzRhGNGegP8tk63rOQTY) | 1:58 | 2022-08-26 | 2022-12-03 |
+| [sweet](https://open.spotify.com/track/5T8oPvfngivxzqgp7XAkBy) | [Lunar Lullaby & yorukaze](https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD) | [sweet](https://open.spotify.com/album/3G8xpiRLTaNfQSczY0R14l) | 2:08 | 2023-12-22 |  |
 | [Sweet Bay](https://open.spotify.com/track/1BjTRIgM3wiF0AsZIW85Wv) | [Tis L](https://open.spotify.com/artist/2xzQuLX2sA8sLYMTxvAoxL), [CL5K](https://open.spotify.com/artist/2LLzw9sAUyp56Yknm8mTwp) | [Sweet Bay](https://open.spotify.com/album/69wCY1KaQlL4f82vqBrYpj) | 2:39 | 2022-02-14 | 2022-07-22 |
 | [Sweet Dreams](https://open.spotify.com/track/6YNC9oMyuxkmP84UfOfH4x) | [Brxvs](https://open.spotify.com/artist/3LoO7TNHi4wqe78tsBMMv5), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Sweet Dreams](https://open.spotify.com/album/57XSssbhediGW5EYNcKhuL) | 2:08 | 2022-11-25 |  |
 | [Sweet Dávila](https://open.spotify.com/track/6HYZFarA9kGCDQx41OJLBA) | [Demouche](https://open.spotify.com/artist/3lJbPCM1JuPcQA72e7BouG) | [Hip Dozer, Vol\. 1](https://open.spotify.com/album/3RcP0vpHB7sIeszjJUhFgs) | 3:55 | 2021-12-03 | 2022-05-27 |

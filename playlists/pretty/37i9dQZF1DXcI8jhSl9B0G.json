@@ -1,12 +1,12 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 73969,
+  "num_followers": 74012,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDAzNWQ1NTY1NGMyYWExNjExMWQ4MTg4ZTQxNWRiZWFjYzFlYTA1",
+  "snapshot_id": "MCwzMzMzMzllNzAwMmQ0ZDY4OTQyOTgyMDNhMmZjZGYyODBmMTdjZmI1",
   "tracks": [
     {
       "added_at": "2023-11-30 13:00:00",
@@ -211,34 +211,34 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Running With The Wolves",
-        "url": "https://open.spotify.com/album/1bIiBK6CIaCkkzNREai3je"
+        "name": "Breathe Again (Acoustic)",
+        "url": "https://open.spotify.com/album/2l6DPIMm6wtP1230819k1D"
       },
       "artists": [
         {
-          "name": "Azure Ryder",
-          "url": "https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8"
+          "name": "Harrison Storm",
+          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
         }
       ],
-      "duration_ms": 163821,
-      "name": "Wolves",
-      "url": "https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn"
+      "duration_ms": 198381,
+      "name": "Breathe Again - Acoustic",
+      "url": "https://open.spotify.com/track/2Y29DHOl92FAqXy6Oe6f5h"
     },
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "searching for freedom",
-        "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
+        "name": "Caught Up In The Wire, No More",
+        "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
       },
       "artists": [
         {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+          "name": "Tay Oskee",
+          "url": "https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW"
         }
       ],
-      "duration_ms": 218999,
-      "name": "don't get caught up",
-      "url": "https://open.spotify.com/track/39HhlulOd8AAQ1VGdVD1In"
+      "duration_ms": 195324,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/0pqnNiTcSnMh09MD7nFt76"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -259,18 +259,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Breathe Again (Acoustic)",
-        "url": "https://open.spotify.com/album/2l6DPIMm6wtP1230819k1D"
+        "name": "Running With The Wolves",
+        "url": "https://open.spotify.com/album/1bIiBK6CIaCkkzNREai3je"
       },
       "artists": [
         {
-          "name": "Harrison Storm",
-          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
+          "name": "Azure Ryder",
+          "url": "https://open.spotify.com/artist/5RTpt7F1M8N8w1JlnDBeH8"
         }
       ],
-      "duration_ms": 198381,
-      "name": "Breathe Again - Acoustic",
-      "url": "https://open.spotify.com/track/2Y29DHOl92FAqXy6Oe6f5h"
+      "duration_ms": 163821,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/59hfgU3tsQ0zKpSX7toiwn"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -291,6 +291,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "Palomar Parade",
+        "url": "https://open.spotify.com/album/10BcjSFPmPwUtHyqHfKkQh"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 215516,
+      "name": "What I Do",
+      "url": "https://open.spotify.com/track/27V9QAXyt9u9itQpS7A7lO"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "Milk & Honey",
         "url": "https://open.spotify.com/album/00qsnkOHVr38BOpUOTmmCN"
       },
@@ -307,18 +323,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Palomar Parade",
-        "url": "https://open.spotify.com/album/10BcjSFPmPwUtHyqHfKkQh"
+        "name": "searching for freedom",
+        "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
       },
       "artists": [
         {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
         }
       ],
-      "duration_ms": 215516,
-      "name": "What I Do",
-      "url": "https://open.spotify.com/track/27V9QAXyt9u9itQpS7A7lO"
+      "duration_ms": 218999,
+      "name": "don't get caught up",
+      "url": "https://open.spotify.com/track/39HhlulOd8AAQ1VGdVD1In"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -339,22 +355,6 @@
       "duration_ms": 210725,
       "name": "Without Your Love",
       "url": "https://open.spotify.com/track/5g8xjUhQ3OwOwIziC6hBtn"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "Caught Up In The Wire, No More",
-        "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
-      },
-      "artists": [
-        {
-          "name": "Tay Oskee",
-          "url": "https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW"
-        }
-      ],
-      "duration_ms": 195324,
-      "name": "Floating",
-      "url": "https://open.spotify.com/track/0pqnNiTcSnMh09MD7nFt76"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "searching for freedom",
-        "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Alberts",
-          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
-        }
-      ],
-      "duration_ms": 271999,
-      "name": "heartbeat",
-      "url": "https://open.spotify.com/track/78MI46vAPFoPkLBJSgYADP"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Jan Juc Moon",
         "url": "https://open.spotify.com/album/0zXonPXtpDEb32sy6PkTsw"
       },
@@ -439,18 +423,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/7LQVnMp1BvmBJE75bEZ5yd"
+        "name": "searching for freedom",
+        "url": "https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX"
       },
       "artists": [
         {
-          "name": "Paper Planes",
-          "url": "https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h"
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
         }
       ],
-      "duration_ms": 122267,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/0QDtXBF9jBvmHFzTUPeKIC"
+      "duration_ms": 271999,
+      "name": "heartbeat",
+      "url": "https://open.spotify.com/track/78MI46vAPFoPkLBJSgYADP"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -467,6 +451,22 @@
       "duration_ms": 220621,
       "name": "seasons",
       "url": "https://open.spotify.com/track/3r0S9KmnTN5I9ohMd37d1f"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/7LQVnMp1BvmBJE75bEZ5yd"
+      },
+      "artists": [
+        {
+          "name": "Paper Planes",
+          "url": "https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h"
+        }
+      ],
+      "duration_ms": 122267,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/0QDtXBF9jBvmHFzTUPeKIC"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Gypsy Tapes",
-        "url": "https://open.spotify.com/album/3mugXSuzN8XCrurF7jIq41"
-      },
-      "artists": [
-        {
-          "name": "Jack Botts",
-          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
-        }
-      ],
-      "duration_ms": 212585,
-      "name": "Gypsy",
-      "url": "https://open.spotify.com/track/1lMMXT729a5UIpJU34TbJF"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Mid Sentence",
         "url": "https://open.spotify.com/album/5xgVWVKEDffykXq1tfSBeX"
       },
@@ -643,18 +627,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "All Over Again",
-        "url": "https://open.spotify.com/album/0RS6LPfvTITYwmxflu8DYz"
+        "name": "Gypsy Tapes",
+        "url": "https://open.spotify.com/album/3mugXSuzN8XCrurF7jIq41"
       },
       "artists": [
         {
-          "name": "Miller Roberts",
-          "url": "https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL"
+          "name": "Jack Botts",
+          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
         }
       ],
-      "duration_ms": 223445,
-      "name": "All Over Again",
-      "url": "https://open.spotify.com/track/5aYdsxNAUf33Fznh9mojlM"
+      "duration_ms": 212585,
+      "name": "Gypsy",
+      "url": "https://open.spotify.com/track/1lMMXT729a5UIpJU34TbJF"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -671,6 +655,22 @@
       "duration_ms": 257160,
       "name": "Friend",
       "url": "https://open.spotify.com/track/1O00a7AxVVYayBmZyM48S1"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "All Over Again",
+        "url": "https://open.spotify.com/album/0RS6LPfvTITYwmxflu8DYz"
+      },
+      "artists": [
+        {
+          "name": "Miller Roberts",
+          "url": "https://open.spotify.com/artist/1J88SHfougnAYWOnonDtvL"
+        }
+      ],
+      "duration_ms": 223445,
+      "name": "All Over Again",
+      "url": "https://open.spotify.com/track/5aYdsxNAUf33Fznh9mojlM"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/1WzqNwKJqMtMZA8rnWY1XS"
-      },
-      "artists": [
-        {
-          "name": "Thelma Plum",
-          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
-        }
-      ],
-      "duration_ms": 203250,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/4AJFUuMaJFsRlz1C4GzAWk"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Summer Nights",
         "url": "https://open.spotify.com/album/5C7zVZ1N1WDqSh6iyLRC7j"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 188544,
       "name": "The Coffee Song",
       "url": "https://open.spotify.com/track/6AKSwoiMFR8fl3GLPRpa7Q"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/1WzqNwKJqMtMZA8rnWY1XS"
+      },
+      "artists": [
+        {
+          "name": "Thelma Plum",
+          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
+        }
+      ],
+      "duration_ms": 203250,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/4AJFUuMaJFsRlz1C4GzAWk"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Bloodline",
-        "url": "https://open.spotify.com/album/06QkdzdXGYuSxLYl9jhGMd"
-      },
-      "artists": [
-        {
-          "name": "Sam Heselwood",
-          "url": "https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6"
-        }
-      ],
-      "duration_ms": 300915,
-      "name": "Book Full Of Answers",
-      "url": "https://open.spotify.com/track/0OhhOKtQ7wb3YmcWlIEi1h"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "She Came Back with Rainbows",
         "url": "https://open.spotify.com/album/44bjrm9iSwHwsORmWkfyiO"
       },
@@ -851,18 +835,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Hold You Tapes",
-        "url": "https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ"
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/06QkdzdXGYuSxLYl9jhGMd"
       },
       "artists": [
         {
-          "name": "Jack Botts",
-          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
+          "name": "Sam Heselwood",
+          "url": "https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6"
         }
       ],
-      "duration_ms": 191032,
-      "name": "Liquid Love",
-      "url": "https://open.spotify.com/track/20f37PJbRwppnrX861JwDF"
+      "duration_ms": 300915,
+      "name": "Book Full Of Answers",
+      "url": "https://open.spotify.com/track/0OhhOKtQ7wb3YmcWlIEi1h"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -883,6 +867,22 @@
       "duration_ms": 203300,
       "name": "5am Paradise (Acoustic) - Sunrise Version",
       "url": "https://open.spotify.com/track/1JS7SJxALtgTPIbf2OArnE"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Hold You Tapes",
+        "url": "https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ"
+      },
+      "artists": [
+        {
+          "name": "Jack Botts",
+          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
+        }
+      ],
+      "duration_ms": 191032,
+      "name": "Liquid Love",
+      "url": "https://open.spotify.com/track/20f37PJbRwppnrX861JwDF"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "The Water & The Rough",
+        "url": "https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL"
+      },
+      "artists": [
+        {
+          "name": "Riley Pearce",
+          "url": "https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg"
+        }
+      ],
+      "duration_ms": 216476,
+      "name": "8 Hour Drive",
+      "url": "https://open.spotify.com/track/4HB7zl4UghBqyX84KkY0Gs"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "Caught Up In The Wire, No More",
         "url": "https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC"
       },
@@ -935,6 +951,22 @@
       "duration_ms": 223712,
       "name": "Think About You",
       "url": "https://open.spotify.com/track/767atfZ4xBNA5SiPUGzgxJ"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Hold You Tapes",
+        "url": "https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ"
+      },
+      "artists": [
+        {
+          "name": "Jack Botts",
+          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
+        }
+      ],
+      "duration_ms": 226500,
+      "name": "Hold You",
+      "url": "https://open.spotify.com/track/7E0RRIV0kb6ijUFaoKzfSf"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -967,38 +999,6 @@
       "duration_ms": 226388,
       "name": "in these bones",
       "url": "https://open.spotify.com/track/3VBQPeOhuoURFqP4GuzE1r"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "The Water & The Rough",
-        "url": "https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL"
-      },
-      "artists": [
-        {
-          "name": "Riley Pearce",
-          "url": "https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg"
-        }
-      ],
-      "duration_ms": 216476,
-      "name": "8 Hour Drive",
-      "url": "https://open.spotify.com/track/4HB7zl4UghBqyX84KkY0Gs"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
-        "name": "Hold You Tapes",
-        "url": "https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ"
-      },
-      "artists": [
-        {
-          "name": "Jack Botts",
-          "url": "https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "Hold You",
-      "url": "https://open.spotify.com/track/7E0RRIV0kb6ijUFaoKzfSf"
     }
   ],
   "unique_name": "Summer Daze",

@@ -1,12 +1,12 @@
 {
   "description": "New styles, deep sounds. Cover: Lucius",
-  "num_followers": 415479,
+  "num_followers": 415524,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmM0NmU5MzYzOWJhNzdiNDVjM2E0MDY2OWQxMjU4YmYwMzE2MDMx",
+  "snapshot_id": "MCxjMzI0YWI2YjM2OTdkODQyMzNjNmYyMzg1YjViMDRhM2U3NTAxNDFi",
   "tracks": [
     {
       "added_at": "2023-10-27 04:00:00",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "i,i",
+        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 141666,
+      "name": "Marion",
+      "url": "https://open.spotify.com/track/4Pzg3KLuXxPJ2eFsPiN134"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "A Pillar of Salt",
         "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 319053,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "i,i",
-        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 141666,
-      "name": "Marion",
-      "url": "https://open.spotify.com/track/4Pzg3KLuXxPJ2eFsPiN134"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -603,18 +603,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Sapling / Signs Of Life",
-        "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
+        "name": "I Don\u2019t Live Here Anymore",
+        "url": "https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB"
       },
       "artists": [
         {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
         }
       ],
-      "duration_ms": 257853,
-      "name": "Sapling",
-      "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
+      "duration_ms": 293866,
+      "name": "Living Proof",
+      "url": "https://open.spotify.com/track/4VhvGhj8pdAqFJBuAfUW38"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -635,18 +635,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "I Don\u2019t Live Here Anymore",
-        "url": "https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB"
+        "name": "Sapling / Signs Of Life",
+        "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
       },
       "artists": [
         {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
         }
       ],
-      "duration_ms": 293866,
-      "name": "Living Proof",
-      "url": "https://open.spotify.com/track/4VhvGhj8pdAqFJBuAfUW38"
+      "duration_ms": 257853,
+      "name": "Sapling",
+      "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2cWqFyCDTBXrTx5hy86qK5"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 265687,
       "name": "Everything Is Free - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0mZdT3W9e1UyJlSXMV6xL0"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Wilderado",
-        "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
-      },
-      "artists": [
-        {
-          "name": "Wilderado",
-          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
-        }
-      ],
-      "duration_ms": 220405,
-      "name": "Help Me Down",
-      "url": "https://open.spotify.com/track/564vp2eEPOegtvHjnkhnhs"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Old Bone / Trust No Man",
         "url": "https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 187120,
       "name": "Old Bone",
       "url": "https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Wilderado",
+        "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
+      },
+      "artists": [
+        {
+          "name": "Wilderado",
+          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+        }
+      ],
+      "duration_ms": 220405,
+      "name": "Help Me Down",
+      "url": "https://open.spotify.com/track/564vp2eEPOegtvHjnkhnhs"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Tales Of America",
+        "url": "https://open.spotify.com/album/22R1HI790HTi7EypEQcTZB"
+      },
+      "artists": [
+        {
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+        }
+      ],
+      "duration_ms": 229906,
+      "name": "Saying Goodbye",
+      "url": "https://open.spotify.com/track/4PqgB442TI25iz4G6d6BBD"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "I Know You Know Me (With Matt Berninger)",
         "url": "https://open.spotify.com/album/1nwWS8W1o0Q0CE4SL7m8tW"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 199123,
       "name": "I Know You Know Me (With Matt Berninger)",
       "url": "https://open.spotify.com/track/3nQbf8wfMOkKeLRe45kNFc"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Tales Of America",
-        "url": "https://open.spotify.com/album/22R1HI790HTi7EypEQcTZB"
-      },
-      "artists": [
-        {
-          "name": "Ondara",
-          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
-        }
-      ],
-      "duration_ms": 229906,
-      "name": "Saying Goodbye",
-      "url": "https://open.spotify.com/track/4PqgB442TI25iz4G6d6BBD"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "See the World",
-        "url": "https://open.spotify.com/album/5DjZqk7gJGrQBCeTKnBViy"
-      },
-      "artists": [
-        {
-          "name": "Brett Dennen",
-          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
-        }
-      ],
-      "duration_ms": 201226,
-      "name": "Paul Newman Daytona Rolex",
-      "url": "https://open.spotify.com/track/4pAjn6PcQp81T2BKOzPOtn"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "This Is A Photograph",
         "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 164245,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/17ctpmqT0N9hGhXWWvOob5"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "See the World",
+        "url": "https://open.spotify.com/album/5DjZqk7gJGrQBCeTKnBViy"
+      },
+      "artists": [
+        {
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+        }
+      ],
+      "duration_ms": 201226,
+      "name": "Paul Newman Daytona Rolex",
+      "url": "https://open.spotify.com/track/4pAjn6PcQp81T2BKOzPOtn"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Beginners",
+        "url": "https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY"
+      },
+      "artists": [
+        {
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+        }
+      ],
+      "duration_ms": 236813,
+      "name": "Lose This Number",
+      "url": "https://open.spotify.com/track/3zLQk7yhi0F8QPHU1dBBPG"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Deli Daydreams",
         "url": "https://open.spotify.com/album/46PFhovdF7y9Q3Z7qdCohx"
       },
@@ -1507,26 +1523,6 @@
       "duration_ms": 294296,
       "name": "Eviction Notice",
       "url": "https://open.spotify.com/track/2BGC8XJPFRm3f7ZX2FRPNy"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "How Long Do You Think It's Gonna Last?",
-        "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
-      },
-      "artists": [
-        {
-          "name": "Big Red Machine",
-          "url": "https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O"
-        },
-        {
-          "name": "Ana\u00efs Mitchell",
-          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
-        }
-      ],
-      "duration_ms": 218426,
-      "name": "Latter Days",
-      "url": "https://open.spotify.com/track/7wOdJjz1WHJiBdzKSZWszu"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1551,18 +1547,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Beginners",
-        "url": "https://open.spotify.com/album/5PLt7H7bUEQeKPdWhWf4SY"
+        "name": "How Long Do You Think It's Gonna Last?",
+        "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
       "artists": [
         {
-          "name": "Christian Lee Hutson",
-          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+          "name": "Big Red Machine",
+          "url": "https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O"
+        },
+        {
+          "name": "Ana\u00efs Mitchell",
+          "url": "https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s"
         }
       ],
-      "duration_ms": 236813,
-      "name": "Lose This Number",
-      "url": "https://open.spotify.com/track/3zLQk7yhi0F8QPHU1dBBPG"
+      "duration_ms": 218426,
+      "name": "Latter Days",
+      "url": "https://open.spotify.com/track/7wOdJjz1WHJiBdzKSZWszu"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Stand For Myself",
+        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
+      },
+      "artists": [
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Dancing Away In Tears",
+      "url": "https://open.spotify.com/track/5PPrN7zj104wLUtAofZvwb"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Show Up",
         "url": "https://open.spotify.com/album/1JD1hz1p5bnIX0AE8svwtY"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 217360,
       "name": "This Time Around",
       "url": "https://open.spotify.com/track/5KFa7aO49TOsH8zfMarw6N"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Stand For Myself",
-        "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Dancing Away In Tears",
-      "url": "https://open.spotify.com/track/5PPrN7zj104wLUtAofZvwb"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1979,18 +1979,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Latch",
-        "url": "https://open.spotify.com/album/3li5ucuODpV4x3lbIcihqi"
+        "name": "Boleros Psicod\u00e9licos",
+        "url": "https://open.spotify.com/album/2IjLewGcgMJMEAO5gHWwlG"
       },
       "artists": [
         {
-          "name": "Sorcha Richardson",
-          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
+          "name": "Adrian Quesada",
+          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
+        },
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
         }
       ],
-      "duration_ms": 209819,
-      "name": "Latch",
-      "url": "https://open.spotify.com/track/2d1tlBbyST4TWmZ7xwdAXH"
+      "duration_ms": 228693,
+      "name": "Mentiras Con Cari\u00f1o",
+      "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2011,22 +2015,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Boleros Psicod\u00e9licos",
-        "url": "https://open.spotify.com/album/2IjLewGcgMJMEAO5gHWwlG"
+        "name": "Latch",
+        "url": "https://open.spotify.com/album/3li5ucuODpV4x3lbIcihqi"
       },
       "artists": [
         {
-          "name": "Adrian Quesada",
-          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
-        },
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+          "name": "Sorcha Richardson",
+          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
         }
       ],
-      "duration_ms": 228693,
-      "name": "Mentiras Con Cari\u00f1o",
-      "url": "https://open.spotify.com/track/7H7c9Ih5yj4158AM8BF49z"
+      "duration_ms": 209819,
+      "name": "Latch",
+      "url": "https://open.spotify.com/track/2d1tlBbyST4TWmZ7xwdAXH"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Juniors",
-        "url": "https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 233533,
-      "name": "Hear It Again",
-      "url": "https://open.spotify.com/track/2wQqHmiR1LXjwLICvRQUPG"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Warm Chris",
         "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
       },
@@ -2111,18 +2095,34 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Practice Magic and Seek Professional Help When Necessary",
-        "url": "https://open.spotify.com/album/2f5KpUAT9lDedlKG3PQLQz"
+        "name": "Juniors",
+        "url": "https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop"
       },
       "artists": [
         {
-          "name": "T\u014dth",
-          "url": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
         }
       ],
-      "duration_ms": 161972,
-      "name": "Song to Make You Fall in Love With Me",
-      "url": "https://open.spotify.com/track/6uamXLhBaOLWaDkaftKTzr"
+      "duration_ms": 233533,
+      "name": "Hear It Again",
+      "url": "https://open.spotify.com/track/2wQqHmiR1LXjwLICvRQUPG"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Bullseye",
+        "url": "https://open.spotify.com/album/1f585VlbySthBbsx1iM9vA"
+      },
+      "artists": [
+        {
+          "name": "Charli Adams",
+          "url": "https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2"
+        }
+      ],
+      "duration_ms": 204520,
+      "name": "Seventeen Again (feat. Novo Amor)",
+      "url": "https://open.spotify.com/track/30v4EAWXc18jR8INUfl5yI"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2143,18 +2143,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Bullseye",
-        "url": "https://open.spotify.com/album/1f585VlbySthBbsx1iM9vA"
+        "name": "Practice Magic and Seek Professional Help When Necessary",
+        "url": "https://open.spotify.com/album/2f5KpUAT9lDedlKG3PQLQz"
       },
       "artists": [
         {
-          "name": "Charli Adams",
-          "url": "https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2"
+          "name": "T\u014dth",
+          "url": "https://open.spotify.com/artist/02nqs3YdfX7Th3gYTYFrqc"
         }
       ],
-      "duration_ms": 204520,
-      "name": "Seventeen Again (feat. Novo Amor)",
-      "url": "https://open.spotify.com/track/30v4EAWXc18jR8INUfl5yI"
+      "duration_ms": 161972,
+      "name": "Song to Make You Fall in Love With Me",
+      "url": "https://open.spotify.com/track/6uamXLhBaOLWaDkaftKTzr"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Break Me Open",
-        "url": "https://open.spotify.com/album/3GnC2xEY4b6wowL2eBIwGc"
-      },
-      "artists": [
-        {
-          "name": "S. Carey",
-          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
-        }
-      ],
-      "duration_ms": 183026,
-      "name": "Break Me Open",
-      "url": "https://open.spotify.com/track/24DK3nZUzwGYx6xzBXOz3V"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "the sum of the in-between",
         "url": "https://open.spotify.com/album/1LpPbZjlohmRPWtzSQMPNQ"
       },
@@ -2395,6 +2379,22 @@
       "duration_ms": 167426,
       "name": "eight hours",
       "url": "https://open.spotify.com/track/0EUVAn6PdL49jH8B51c2mv"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Break Me Open",
+        "url": "https://open.spotify.com/album/3GnC2xEY4b6wowL2eBIwGc"
+      },
+      "artists": [
+        {
+          "name": "S. Carey",
+          "url": "https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E"
+        }
+      ],
+      "duration_ms": 183026,
+      "name": "Break Me Open",
+      "url": "https://open.spotify.com/track/24DK3nZUzwGYx6xzBXOz3V"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2435,22 +2435,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "The Blues Have Blown Away",
-        "url": "https://open.spotify.com/album/7jewmK7nMLWpNw9EV5267b"
+        "name": "Desert Woman",
+        "url": "https://open.spotify.com/album/2xAcvuIfPBODVL1I7FbbBc"
       },
       "artists": [
         {
-          "name": "Jill Andrews",
-          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
-        },
-        {
-          "name": "Josh Oliver",
-          "url": "https://open.spotify.com/artist/1SP0JtRy2Am9t3HTswRbrv"
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
         }
       ],
-      "duration_ms": 167400,
-      "name": "The Blues Have Blown Away",
-      "url": "https://open.spotify.com/track/46KuUSMrcUTcMU72HNkg6o"
+      "duration_ms": 256402,
+      "name": "Desert Woman",
+      "url": "https://open.spotify.com/track/60YaAz53fBB3CXHPxhlUVu"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -2471,18 +2467,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Desert Woman",
-        "url": "https://open.spotify.com/album/2xAcvuIfPBODVL1I7FbbBc"
+        "name": "The Blues Have Blown Away",
+        "url": "https://open.spotify.com/album/7jewmK7nMLWpNw9EV5267b"
       },
       "artists": [
         {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+          "name": "Jill Andrews",
+          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
+        },
+        {
+          "name": "Josh Oliver",
+          "url": "https://open.spotify.com/artist/1SP0JtRy2Am9t3HTswRbrv"
         }
       ],
-      "duration_ms": 256402,
-      "name": "Desert Woman",
-      "url": "https://open.spotify.com/track/60YaAz53fBB3CXHPxhlUVu"
+      "duration_ms": 167400,
+      "name": "The Blues Have Blown Away",
+      "url": "https://open.spotify.com/track/46KuUSMrcUTcMU72HNkg6o"
     },
     {
       "added_at": "2023-10-27 04:00:00",

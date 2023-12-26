@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 25450,
+  "num_followers": 25462,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZjZhZjViZTJjODEwOGY2NDViNzA0ZTRjNmM3NDViODY4MDE4ZTNk",
+  "snapshot_id": "MCw3YjNhYjYxY2M4OGI3YjM4N2U5NjkzYTRlMzQ3OWM4MWQ0ODc0Mjgx",
   "tracks": [
     {
       "added_at": "2023-06-05 07:42:38",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Gwiazdy xx Wieku - Ricchi E Poveri",
-        "url": "https://open.spotify.com/album/0XsMAfYOmVhmLTXmM77R9G"
-      },
-      "artists": [
-        {
-          "name": "Ricchi E Poveri",
-          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
-        }
-      ],
-      "duration_ms": 223453,
-      "name": "Acapulco",
-      "url": "https://open.spotify.com/track/65UvDVV0MRSSNgT6wJ4zdt"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Nell'aria",
         "url": "https://open.spotify.com/album/1hj4hDj1BbuCEbSmwH3QqA"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 242640,
       "name": "Nell'aria",
       "url": "https://open.spotify.com/track/6m00Mv5ElkFndzwrv0D8a0"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Gwiazdy xx Wieku - Ricchi E Poveri",
+        "url": "https://open.spotify.com/album/0XsMAfYOmVhmLTXmM77R9G"
+      },
+      "artists": [
+        {
+          "name": "Ricchi E Poveri",
+          "url": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
+        }
+      ],
+      "duration_ms": 223453,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/65UvDVV0MRSSNgT6wJ4zdt"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "Gianni Morandi",
+        "url": "https://open.spotify.com/album/1Z47BhRPU4sSFwXdJDYPsS"
+      },
+      "artists": [
+        {
+          "name": "Gianni Morandi",
+          "url": "https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Andavo A Cento All'Ora",
+      "url": "https://open.spotify.com/track/0JcxwcoLqFiqNXAAw2AeoH"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "Estate",
         "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
       },
@@ -543,22 +559,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Gianni Morandi",
-        "url": "https://open.spotify.com/album/1Z47BhRPU4sSFwXdJDYPsS"
-      },
-      "artists": [
-        {
-          "name": "Gianni Morandi",
-          "url": "https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Andavo A Cento All'Ora",
-      "url": "https://open.spotify.com/track/0JcxwcoLqFiqNXAAw2AeoH"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Catherine Spaak",
         "url": "https://open.spotify.com/album/43kTmexEORoUruj66w0F4o"
       },
@@ -587,26 +587,6 @@
       "duration_ms": 217327,
       "name": "Vamos a la Playa",
       "url": "https://open.spotify.com/track/5ULXfqPkKKEb8eWK2UMTQP"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "Estate",
-        "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
-      },
-      "artists": [
-        {
-          "name": "Edoardo Vianello",
-          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
-        },
-        {
-          "name": "Elfrida Ismolli",
-          "url": "https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx"
-        }
-      ],
-      "duration_ms": 151720,
-      "name": "Guarda come dondolo",
-      "url": "https://open.spotify.com/track/1dtb5yOshvGUMIhYhvdoxh"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -707,6 +687,26 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "Estate",
+        "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
+      },
+      "artists": [
+        {
+          "name": "Edoardo Vianello",
+          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
+        },
+        {
+          "name": "Elfrida Ismolli",
+          "url": "https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx"
+        }
+      ],
+      "duration_ms": 151720,
+      "name": "Guarda come dondolo",
+      "url": "https://open.spotify.com/track/1dtb5yOshvGUMIhYhvdoxh"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "MITO '60 la meravigliosa estate italiana Vol.1",
         "url": "https://open.spotify.com/album/57o2sEB0CkBP3IKOnNDY11"
       },
@@ -755,26 +755,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Estate",
-        "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
-      },
-      "artists": [
-        {
-          "name": "Edoardo Vianello",
-          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
-        },
-        {
-          "name": "Elfrida Ismolli",
-          "url": "https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx"
-        }
-      ],
-      "duration_ms": 159312,
-      "name": "Pinne fucile ed occhiali",
-      "url": "https://open.spotify.com/track/5nmP6zIrPL7GTAiHZjTEZ8"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Profumo di sole...",
         "url": "https://open.spotify.com/album/3hZVHN9BomKxHogbobO2hR"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 156920,
       "name": "Con Te Sulla Spiaggia",
       "url": "https://open.spotify.com/track/1pN4eiEz2QqVMq34ltToWI"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Estate",
+        "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
+      },
+      "artists": [
+        {
+          "name": "Edoardo Vianello",
+          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
+        },
+        {
+          "name": "Elfrida Ismolli",
+          "url": "https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx"
+        }
+      ],
+      "duration_ms": 159312,
+      "name": "Pinne fucile ed occhiali",
+      "url": "https://open.spotify.com/track/5nmP6zIrPL7GTAiHZjTEZ8"
     },
     {
       "added_at": "2023-06-05 07:42:38",

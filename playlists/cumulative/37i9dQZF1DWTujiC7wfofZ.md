@@ -4,7 +4,7 @@
 
 > All the indie disco platters that matter.
 
-293 songs - 18 hr 37 min
+294 songs - 18 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Gospel For A New Century](https://open.spotify.com/track/4qYvkWQqCcIWEBWekegE4y) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Heaven To A Tortured Mind](https://open.spotify.com/album/00R4y0gymycDUv9IVY7VvO) | 3:18 | 2022-11-27 |  |
 | [Green Light](https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:54 | 2022-11-27 |  |
 | [Gronlandic Edit](https://open.spotify.com/track/5boY1VZLXBJojafFINgnJF) | [of Montreal](https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O) | [Hissing Fauna, Are You The Destroyer?](https://open.spotify.com/album/15Fb7HPHdy42No0l9KnXAZ) | 3:24 | 2022-11-27 |  |
-| [Gutter Girl](https://open.spotify.com/track/1sEzuZNasuG8s1OOHwYfN2) | [Hot Flash Heat Wave](https://open.spotify.com/artist/33LSz2nhC8pCPTb3pd5add) | [Neapolitan](https://open.spotify.com/album/4TZEULhM6BI1UrR1z3ejqx) | 3:44 | 2022-11-27 |  |
+| [Gutter Girl](https://open.spotify.com/track/1sEzuZNasuG8s1OOHwYfN2) | [Hot Flash Heat Wave](https://open.spotify.com/artist/33LSz2nhC8pCPTb3pd5add) | [Neapolitan](https://open.spotify.com/album/4TZEULhM6BI1UrR1z3ejqx) | 3:44 | 2022-11-27 | 2023-12-26 |
 | [Happiness \(Dance Floor Edit\)](https://open.spotify.com/track/34Tmk8gwlRRegVVZDRxXxk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Happiness](https://open.spotify.com/album/4KfzkkK3Gt2Ux5A2AVoTK8) | 3:55 | 2022-11-27 | 2023-11-24 |
 | [Happiness In Liquid Form](https://open.spotify.com/track/6PftSaJIUfDKLoxCHpBvqs) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form](https://open.spotify.com/album/4ljntV811kHlKHhtIctvcG) | 3:32 | 2022-11-27 |  |
 | [Happy Idiot](https://open.spotify.com/track/63mnZ0zF5fBwJzYg2pDo9e) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Seeds](https://open.spotify.com/album/2pJdnCpeXm3KVUlyuNSeRX) | 3:03 | 2022-11-27 |  |
@@ -274,6 +274,7 @@
 | [Valerie](https://open.spotify.com/track/2LuJkoxMlLQshNTVa8oCXW) | [The Zutons](https://open.spotify.com/artist/2qV7axHq9Jk7QqFcB3f05A) | [Tired Of Hanging Around](https://open.spotify.com/album/4fvsd8sC8ExZgdIUSzSYGX) | 3:56 | 2022-11-27 |  |
 | [Van Horn](https://open.spotify.com/track/78bsqObGFUD5ntweePBhIY) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [The Original Motion Picture Soundtrack](https://open.spotify.com/album/5aAfgCIEc9zBKbwFO6jixe) | 2:41 | 2022-11-27 |  |
 | [Vanished](https://open.spotify.com/track/0Q2YGyMeeZMAvzebtxoQ5f) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/7HJSVyFzG1sM02weSAqhdH) | 4:02 | 2022-11-27 | 2023-12-23 |
+| [Vanished](https://open.spotify.com/track/4bQ7mjty0UVlKRalhizpGT) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles](https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi) | 4:02 | 2023-07-21 |  |
 | [Walk Like an Egyptian](https://open.spotify.com/track/1Jwc3ODLQxtbnS8M9TflSP) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [The Essential Bangles](https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf) | 3:24 | 2022-11-27 |  |
 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 | 2022-11-27 |  |
 | [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 | 2022-11-27 |  |

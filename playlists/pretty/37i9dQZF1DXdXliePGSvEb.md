@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favorite electronic songs from around the world this year\. Cover: Jungle
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,222 likes - 75 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,440 likes - 75 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 67 | [Turn The Lights](https://open.spotify.com/track/05A1R1JoG0v5L9hhsoPXtZ) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw) | [Turn The Lights](https://open.spotify.com/album/2Lhit0rt6mpp7bKzXGf2b5) | 4:07 |
 | 68 | [Venera](https://open.spotify.com/track/6U9rAS28uOHyf5NZCYyt0J) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Venera](https://open.spotify.com/album/73tJXZqhpawO8j29HGtqA9) | 3:47 |
 | 69 | [U Want It](https://open.spotify.com/track/1RVsWMx4Te72rPSUhhKCr8) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [U Want It](https://open.spotify.com/album/7gtGbIQmB1stRBblGss9B3) | 3:16 |
-| 70 | [Circulate \(Together\)](https://open.spotify.com/track/3v7fqrO4mQObrAI6L76l0I) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Circulate \(Together\)](https://open.spotify.com/album/1RfgUXB7iLaZaheEwRPamN) | 6:57 |
-| 71 | [L.F.O.](https://open.spotify.com/track/32Af7vCCWDKWlAipePUauP) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [THE RAT ROAD](https://open.spotify.com/album/43GrrOxnDLLiOec6O09NMv) | 4:31 |
+| 70 | [L.F.O.](https://open.spotify.com/track/32Af7vCCWDKWlAipePUauP) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [THE RAT ROAD](https://open.spotify.com/album/43GrrOxnDLLiOec6O09NMv) | 4:31 |
+| 71 | [Circulate \(Together\)](https://open.spotify.com/track/3v7fqrO4mQObrAI6L76l0I) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Circulate \(Together\)](https://open.spotify.com/album/1RfgUXB7iLaZaheEwRPamN) | 6:57 |
 | 72 | [Hands \- Edit](https://open.spotify.com/track/4vA3jtFk9acFhLHdcuGrGK) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Hands \(DJ\-Kicks\)](https://open.spotify.com/album/7cdtA63N0AxdTjubtX6h38) | 4:01 |
 | 73 | [Candidasa](https://open.spotify.com/track/2UdB4mqfNI5M01Vpfta2tU) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Candidasa EP](https://open.spotify.com/album/6WXn29FqzQK2dW4M8DNPC4) | 10:21 |
 | 74 | [Monica Vitti](https://open.spotify.com/track/7bIqHtObwmyE16EazeXHWa) | [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3) | [Vista Mare Forever](https://open.spotify.com/album/6s7TqgQdz4A8Ghx0dXsxqW) | 4:34 |
 | 75 | [The Good, the Bad & the Acid](https://open.spotify.com/track/3ikwLYbhR3cq8Wej3RXETZ) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [The Good, the Bad & the Acid](https://open.spotify.com/album/38nTiPUbeQQPMiEd0ITxGi) | 5:49 |
 
-Snapshot ID: `MCxhMDNjYWVkYWI2MmIzNTAxYWYyYTVkYzQzYTU4ZThkNTk3YzIzOWNk`
+Snapshot ID: `MCwxMTNhYjExZGZmZWFlNWZhMDlmM2YzZjM0ZDcyZmFiZWY0ZmM0MTdi`

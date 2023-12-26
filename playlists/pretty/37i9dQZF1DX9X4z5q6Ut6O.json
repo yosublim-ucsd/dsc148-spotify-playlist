@@ -1,12 +1,12 @@
 {
   "description": "Caminando de la mano... eres mi raz\u00f3n de ser.",
-  "num_followers": 116818,
+  "num_followers": 116868,
   "original_name": "Mi Raz\u00f3n de Ser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZDRjMGRmNjkyYTQzNDc2M2U5NmVjZDM1MmU1MjcyNjdmNTNjODIx",
+  "snapshot_id": "MCwwNjk5NTI0MzRlNzE1ZThmMTUxYWJkYWRjMGVlYzI1N2JkYWIwODdk",
   "tracks": [
     {
       "added_at": "2022-12-30 20:38:46",
@@ -355,22 +355,6 @@
     {
       "added_at": "2022-12-30 20:38:46",
       "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 193621,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk"
-    },
-    {
-      "added_at": "2022-12-30 20:38:46",
-      "album": {
         "name": "Y Cambi\u00f3 Mi Suerte",
         "url": "https://open.spotify.com/album/3CQHB0ViD8q0O385StFTq2"
       },
@@ -387,18 +371,18 @@
     {
       "added_at": "2022-12-30 20:38:46",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 187986,
-      "name": "Si Te Falta Alguien",
-      "url": "https://open.spotify.com/track/5KcuLISuSBnMFAPVhFnHr5"
+      "duration_ms": 193621,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk"
     },
     {
       "added_at": "2022-12-30 20:38:46",
@@ -415,6 +399,22 @@
       "duration_ms": 171026,
       "name": "Te Quiero As\u00ed",
       "url": "https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3"
+    },
+    {
+      "added_at": "2022-12-30 20:38:46",
+      "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 187986,
+      "name": "Si Te Falta Alguien",
+      "url": "https://open.spotify.com/track/5KcuLISuSBnMFAPVhFnHr5"
     },
     {
       "added_at": "2022-12-30 20:38:46",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-12-30 20:38:46",
       "album": {
-        "name": "La Barda Me Vol\u00e9",
-        "url": "https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "Nadie Como Tu\u0301",
-      "url": "https://open.spotify.com/track/0cyP9Zil4WvqycKDRynmcP"
-    },
-    {
-      "added_at": "2022-12-30 20:38:46",
-      "album": {
         "name": "El Mundo a Tus Pies",
         "url": "https://open.spotify.com/album/1l46GFEU94JAnUZfFIcifM"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 176226,
       "name": "El Mundo a Tus Pies",
       "url": "https://open.spotify.com/track/4MDLvDUSbL6TEtc12CxNyp"
+    },
+    {
+      "added_at": "2022-12-30 20:38:46",
+      "album": {
+        "name": "La Barda Me Vol\u00e9",
+        "url": "https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Nadie Como Tu\u0301",
+      "url": "https://open.spotify.com/track/0cyP9Zil4WvqycKDRynmcP"
     },
     {
       "added_at": "2022-12-30 20:38:46",
@@ -711,22 +711,6 @@
     {
       "added_at": "2022-12-30 20:38:46",
       "album": {
-        "name": "Pideme (En Vivo)",
-        "url": "https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 256170,
-      "name": "Pideme - En Vivo",
-      "url": "https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6"
-    },
-    {
-      "added_at": "2022-12-30 20:38:46",
-      "album": {
         "name": "Exitos De Mariano Barba",
         "url": "https://open.spotify.com/album/3Y1feJXQVxyZGhwA3IC4uR"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 269113,
       "name": "Aliado Del Tiempo",
       "url": "https://open.spotify.com/track/7tkS6gTX9uXexQJD80JudF"
+    },
+    {
+      "added_at": "2022-12-30 20:38:46",
+      "album": {
+        "name": "Pideme (En Vivo)",
+        "url": "https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 256170,
+      "name": "Pideme - En Vivo",
+      "url": "https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6"
     },
     {
       "added_at": "2022-12-30 20:38:46",
@@ -975,26 +975,6 @@
     {
       "added_at": "2022-12-30 20:38:46",
       "album": {
-        "name": "T\u00fa (En Vivo)",
-        "url": "https://open.spotify.com/album/2HLfld8eQ6u2MvxH80WzBK"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Los Elegantes de Jerez",
-          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
-        }
-      ],
-      "duration_ms": 263100,
-      "name": "T\u00fa - En Vivo",
-      "url": "https://open.spotify.com/track/25nTvCyHzlMp3bizueut5U"
-    },
-    {
-      "added_at": "2022-12-30 20:38:46",
-      "album": {
         "name": "No Paras de Hacerme Feliz",
         "url": "https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi"
       },
@@ -1067,18 +1047,22 @@
     {
       "added_at": "2022-12-30 20:38:46",
       "album": {
-        "name": "Mi Amor Por Ti",
-        "url": "https://open.spotify.com/album/5r1ngyoVvPgfgYeUl5nZ8K"
+        "name": "T\u00fa (En Vivo)",
+        "url": "https://open.spotify.com/album/2HLfld8eQ6u2MvxH80WzBK"
       },
       "artists": [
         {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Los Elegantes de Jerez",
+          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
         }
       ],
-      "duration_ms": 227380,
-      "name": "Mi Amor Por Ti",
-      "url": "https://open.spotify.com/track/0IGpYzIRYza9qAdhFUQrU9"
+      "duration_ms": 263100,
+      "name": "T\u00fa - En Vivo",
+      "url": "https://open.spotify.com/track/25nTvCyHzlMp3bizueut5U"
     },
     {
       "added_at": "2022-12-30 20:38:46",
@@ -1095,6 +1079,22 @@
       "duration_ms": 143081,
       "name": "Voy a Amarte",
       "url": "https://open.spotify.com/track/5SP2ca8eU4WFK2LLdVQvmx"
+    },
+    {
+      "added_at": "2022-12-30 20:38:46",
+      "album": {
+        "name": "Mi Amor Por Ti",
+        "url": "https://open.spotify.com/album/5r1ngyoVvPgfgYeUl5nZ8K"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 227380,
+      "name": "Mi Amor Por Ti",
+      "url": "https://open.spotify.com/track/0IGpYzIRYza9qAdhFUQrU9"
     },
     {
       "added_at": "2022-12-30 20:38:46",

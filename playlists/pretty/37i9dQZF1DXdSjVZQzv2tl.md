@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Ana Castela, Gustavo Mioto
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,700,407 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,703,647 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [A Culpa É Nossa \- Ao Vivo](https://open.spotify.com/track/7nwHsYxiuHo98dLI7UVkyn) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Identidade, Ep\. 1 \(Ao Vivo\)](https://open.spotify.com/album/28lkxsDDOs1MlWhomdvLcF) | 2:45 |
 | 50 | [Metade De Mim \- Ao Vivo](https://open.spotify.com/track/6cZqw8wIrMsFxCNMzLRbNU) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Metade De Mim \(Ao Vivo\)](https://open.spotify.com/album/6M62EAu5KM45AycOLLCdfd) | 2:40 |
 
-Snapshot ID: `MCw5YzA0ZTVlN2U4OWE1YmU5MWIxMzlkNTQ3OWNjZWZmYWM1YjIzOWVm`
+Snapshot ID: `MCwxN2RjYWU1ODcxMGJlMTRmYTMwOWM3MmU5OTA5N2YyNzE5NzVhZWFi`

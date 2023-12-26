@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres que brillaron en 2023\. Foto: Vesta Lugg
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,243 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,246 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 3 | [COPY+PASTE](https://open.spotify.com/track/4lNJPSKTlH5H2LQAX0pqH2) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [COPY+PASTE](https://open.spotify.com/album/2PHqlhJf3wMNXfUvCGMPWk) | 2:19 |
 | 4 | [tú no](https://open.spotify.com/track/1yo6ROQQqWAHNb6alahCoY) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [tú no](https://open.spotify.com/album/3QnYvMHXIl3CM7u9f6IX5d) | 2:57 |
 | 5 | [Ganadora](https://open.spotify.com/track/3neJo4FkVszaL4EEt18uKR) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANNA Vol1\. LOS AMANTES](https://open.spotify.com/album/3FBYpRzAkNEMXSqGx9N3rv) | 4:56 |
-| 6 | [Naughty Girl](https://open.spotify.com/track/2NwQbPPvOug0y3GEqDGjHD) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Supernova](https://open.spotify.com/album/4CRoaYnahZXOI7zsM14Ca1) | 2:56 |
-| 7 | [Llorar](https://open.spotify.com/track/4iDwj7K2LsUW2HFf5UdzYI) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Venus & Blue](https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1) | 3:10 |
+| 6 | [Llorar](https://open.spotify.com/track/4iDwj7K2LsUW2HFf5UdzYI) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Venus & Blue](https://open.spotify.com/album/2XaK73raIk4BKq0cNXVlw1) | 3:10 |
+| 7 | [Naughty Girl](https://open.spotify.com/track/2NwQbPPvOug0y3GEqDGjHD) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Supernova](https://open.spotify.com/album/4CRoaYnahZXOI7zsM14Ca1) | 2:56 |
 | 8 | [Nada Para Ti](https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nada Para Ti](https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t) | 3:56 |
 | 9 | [Baby Oficial](https://open.spotify.com/track/6mw6sNfqXVawKUfdYtIzCM) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3) | [Baby Oficial](https://open.spotify.com/album/3xYJOp6BPD6BLV8qhPdG1O) | 3:01 |
 | 10 | [Agarra](https://open.spotify.com/track/5thlCBlPWSXxUJFdG0fEyH) | [Almeyda](https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF) | [Agarra](https://open.spotify.com/album/36zOI4pViRyY786coy335g) | 3:01 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 28 | [Solteras](https://open.spotify.com/track/5lAxjoqlISuiyyy0ijhyRM) | [VaniaJoplin](https://open.spotify.com/artist/5J7o47wyT1cQOkHPFwzq4X), [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf), [Sicario En los controles](https://open.spotify.com/artist/301UYYFYUIRMyNbMmCwTyd) | [Solteras](https://open.spotify.com/album/0WmLTD5Ywok6RaB6nhxDWl) | 2:46 |
 | 29 | [Salvaje y tierno](https://open.spotify.com/track/25B3oP8DxmLo5HLrmi4uEi) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Al calor de un sol que acaba de morir](https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9) | 3:07 |
 | 30 | [1000](https://open.spotify.com/track/0LNeX04cUkoS0j9LDuNuyA) | [Amikiraa](https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2), [Jsnck!](https://open.spotify.com/artist/3oFAXYbLPLYimPiQ3JJzSj) | [1000](https://open.spotify.com/album/4W1bHfVBxpmXXGywqv7vx6) | 2:50 |
-| 31 | [Molly](https://open.spotify.com/track/4gfaPD5mHYGe792vAb1a2Z) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375) | [Molly](https://open.spotify.com/album/2GxFT2qN34pDypV0r4veRK) | 2:56 |
-| 32 | [Las palabras que no sientes](https://open.spotify.com/track/0L35bVS6euGPgrVPPYW8wW) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Las palabras que no sientes](https://open.spotify.com/album/4lZuwyxexe4p1YPxtgUmuR) | 2:28 |
+| 31 | [Las palabras que no sientes](https://open.spotify.com/track/0L35bVS6euGPgrVPPYW8wW) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Las palabras que no sientes](https://open.spotify.com/album/4lZuwyxexe4p1YPxtgUmuR) | 2:28 |
+| 32 | [Molly](https://open.spotify.com/track/4gfaPD5mHYGe792vAb1a2Z) | [Flowyn](https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375) | [Molly](https://open.spotify.com/album/2GxFT2qN34pDypV0r4veRK) | 2:56 |
 | 33 | [Tu Luz](https://open.spotify.com/track/6aVQIyZVSyTlQlEJ33dLpg) | [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Tu Luz](https://open.spotify.com/album/1vrwvZHXzegcApAxcUyVLa) | 4:07 |
 | 34 | [Quién me va a Cuidar](https://open.spotify.com/track/7E7IomTA0czZ9RfuHDCpce) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3), [El Mulu](https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM) | [Quién me va a Cuidar](https://open.spotify.com/album/6JJUxUcY7NDbfjgWuvSZLU) | 3:22 |
 | 35 | [Que no te haga falta nada](https://open.spotify.com/track/0ShKnHt3NjEhcyby0TGOWu) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Sesiones 050: Rosario Alfonso](https://open.spotify.com/album/1qWWJu7EirLK7hLmGL1myQ) | 5:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 49 | [LIBRE ALBEDRÍO](https://open.spotify.com/track/0CJXWzYuHSIK3hCSLKl3Vd) | [Nihla](https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf) | [LIBRE ALBEDRÍO](https://open.spotify.com/album/7cIBE0ZMEJe20UszosNS3a) | 2:32 |
 | 50 | [SUFICIENTE](https://open.spotify.com/track/6TtsnJTv8MVf4oHwITp1C5) | [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [SUFICIENTE](https://open.spotify.com/album/4jHEmbxbpHFiv62IwoGSyO) | 3:21 |
 
-Snapshot ID: `MCwzNDQ1YWFmMzljMDg1ZTc2ZjdlZmI2MzI5MzdjMjI3MzA2MTVmZDQ1`
+Snapshot ID: `MCw0ZTFiZmQ0MTIwYjczMDkyNzVlZGJhYjIxNDVlZjUyMTA5OTRjYTFl`

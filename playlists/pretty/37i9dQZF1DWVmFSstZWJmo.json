@@ -1,12 +1,12 @@
 {
   "description": "Is \"indie sleaze\" in the room with us? ft. The Strokes ",
-  "num_followers": 121310,
+  "num_followers": 121449,
   "original_name": "Indie Sleaze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGEwNjM5OTc3OWY2YjYyNmM4Y2ExYzcxNWE3OGIyYTJhNjBlMDIx",
+  "snapshot_id": "MCxlNTE4OGNhOWVmYTYxOTE1YTA2NGZjZjk5MzIxNjYyNzMzOTY0ODc2",
   "tracks": [
     {
       "added_at": "2023-09-05 19:58:53",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
-      },
-      "artists": [
-        {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
-        }
-      ],
-      "duration_ms": 229640,
-      "name": "Electric Feel",
-      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "Writer's Block",
         "url": "https://open.spotify.com/album/5g4E06cxsFEMFE9hSekAt2"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 244999,
       "name": "DARE",
       "url": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 229640,
+      "name": "Electric Feel",
+      "url": "https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt"
     },
     {
       "added_at": "2023-09-05 20:03:48",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 255320,
-      "name": "Genesis",
-      "url": "https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "Wolfgang Amadeus Phoenix",
         "url": "https://open.spotify.com/album/0xG5b9nkWxKc5VTpo6Fq5I"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 241640,
       "name": "Lisztomania",
       "url": "https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 255320,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/3cjvqsvvU80g7WJPMVh8iq"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        }
-      ],
-      "duration_ms": 251266,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "Robbers & Cowards",
         "url": "https://open.spotify.com/album/1LTbo93CjLo48yNP8Ysaz5"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 192080,
       "name": "Feel It All Around",
       "url": "https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 251266,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/3LGsgpx4TfxhXbr07OFKqs"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "xx",
-        "url": "https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 160720,
-      "name": "Islands",
-      "url": "https://open.spotify.com/track/6i5tYaGlOFDLILEB6HfJAa"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "The Warning",
         "url": "https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS"
       },
@@ -1095,22 +1079,6 @@
       "duration_ms": 347880,
       "name": "Over And Over",
       "url": "https://open.spotify.com/track/3RCj5fG55qjtmnEML1gpnA"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
-        "name": "Manners",
-        "url": "https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv"
-      },
-      "artists": [
-        {
-          "name": "Passion Pit",
-          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
-        }
-      ],
-      "duration_ms": 238973,
-      "name": "Little Secrets",
-      "url": "https://open.spotify.com/track/3kb38wezoUA8ki5jPYy3t5"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1131,6 +1099,22 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
+        "name": "Manners",
+        "url": "https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv"
+      },
+      "artists": [
+        {
+          "name": "Passion Pit",
+          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
+        }
+      ],
+      "duration_ms": 238973,
+      "name": "Little Secrets",
+      "url": "https://open.spotify.com/track/3kb38wezoUA8ki5jPYy3t5"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
         "name": "Treats",
         "url": "https://open.spotify.com/album/3dEgxewsJAZ6s2nVUieNA5"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 229893,
       "name": "Rill Rill",
       "url": "https://open.spotify.com/track/0Z7b5GlC70FAES1YduhhqQ"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "xx",
+        "url": "https://open.spotify.com/album/6tzQKMilI02kn1lzLklDI8"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 160720,
+      "name": "Islands",
+      "url": "https://open.spotify.com/track/6i5tYaGlOFDLILEB6HfJAa"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1175,6 +1175,22 @@
       "duration_ms": 340786,
       "name": "My Girls",
       "url": "https://open.spotify.com/track/7jZBPuJmkOsfPkwFD30dAA"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "Crystal Castles",
+        "url": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
+      },
+      "artists": [
+        {
+          "name": "Crystal Castles",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+        }
+      ],
+      "duration_ms": 242960,
+      "name": "Vanished",
+      "url": "https://open.spotify.com/track/4bQ7mjty0UVlKRalhizpGT"
     },
     {
       "added_at": "2023-09-05 19:58:53",
@@ -1387,22 +1403,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Crystal Castles",
-        "url": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
-      },
-      "artists": [
-        {
-          "name": "Crystal Castles",
-          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
-        }
-      ],
-      "duration_ms": 242960,
-      "name": "Vanished",
-      "url": "https://open.spotify.com/track/4bQ7mjty0UVlKRalhizpGT"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "See Mystery Lights: Remixes & B-Sides",
         "url": "https://open.spotify.com/album/7JNgMsuPDrqguKEh5rGaFb"
       },
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-09-05 19:58:53",
       "album": {
-        "name": "Wait for Me",
-        "url": "https://open.spotify.com/album/3EVZWeTZ5XDe8Z1O746XP3"
-      },
-      "artists": [
-        {
-          "name": "The Pigeon Detectives",
-          "url": "https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3"
-        }
-      ],
-      "duration_ms": 127400,
-      "name": "I Found Out",
-      "url": "https://open.spotify.com/track/2zpG6GUvNc1hqDBsLIJOOp"
-    },
-    {
-      "added_at": "2023-09-05 19:58:53",
-      "album": {
         "name": "Manners",
         "url": "https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 287906,
       "name": "The Reeling",
       "url": "https://open.spotify.com/track/5noQJkpVfHt2D4df2GXieV"
+    },
+    {
+      "added_at": "2023-09-05 19:58:53",
+      "album": {
+        "name": "Wait for Me",
+        "url": "https://open.spotify.com/album/3EVZWeTZ5XDe8Z1O746XP3"
+      },
+      "artists": [
+        {
+          "name": "The Pigeon Detectives",
+          "url": "https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3"
+        }
+      ],
+      "duration_ms": 127400,
+      "name": "I Found Out",
+      "url": "https://open.spotify.com/track/2zpG6GUvNc1hqDBsLIJOOp"
     },
     {
       "added_at": "2023-09-05 19:58:53",

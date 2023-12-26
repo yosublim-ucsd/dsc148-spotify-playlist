@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Zeds Dead",
-  "num_followers": 977101,
+  "num_followers": 977088,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTBjN2Y0YTVmNmU1NGViNGZlOTk4MDIyNTBlYjE1YmI4NzYxY2Fm",
+  "snapshot_id": "MCw1NTQyYmMyZjE5MWQ1OWUxYTAwMmI1MzRlYjg4M2RlMzZkNzdiNjRh",
   "tracks": [
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1121,6 +1121,26 @@
       "url": "https://open.spotify.com/track/7kE5SGVpogBX5VXiTgYiRg"
     },
     {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Say The Word (feat. Clementine Douglas)",
+        "url": "https://open.spotify.com/album/6n71DzGS11DoNhdmGQGq5B"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 237133,
+      "name": "Say The Word (feat. Clementine Douglas)",
+      "url": "https://open.spotify.com/track/1jxGhPyCn9SZR9eqrTduja"
+    },
+    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "Badders",
@@ -1167,26 +1187,6 @@
       "duration_ms": 181414,
       "name": "If Love Could Have Saved You",
       "url": "https://open.spotify.com/track/7D5vd0DZ2zR0NoIeaX0stb"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Say The Word (feat. Clementine Douglas)",
-        "url": "https://open.spotify.com/album/6n71DzGS11DoNhdmGQGq5B"
-      },
-      "artists": [
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 237133,
-      "name": "Say The Word (feat. Clementine Douglas)",
-      "url": "https://open.spotify.com/track/1jxGhPyCn9SZR9eqrTduja"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1397,22 +1397,6 @@
       "url": "https://open.spotify.com/track/0m3EsIfqAfo48vGr18KVpq"
     },
     {
-      "added_at": "2023-11-03 04:00:00",
-      "album": {
-        "name": "Tear Jerker",
-        "url": "https://open.spotify.com/album/5vqaFNDtNXDaXjM7MoCOeu"
-      },
-      "artists": [
-        {
-          "name": "Cyclops",
-          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
-        }
-      ],
-      "duration_ms": 155538,
-      "name": "Tear Jerker",
-      "url": "https://open.spotify.com/track/44tKnY1Tsoe9jPGmoA1H2c"
-    },
-    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "Don't Look Down (Hold On)",
@@ -1437,6 +1421,22 @@
       "url": "https://open.spotify.com/track/65krG6c3veTz66mIdSU16f"
     },
     {
+      "added_at": "2023-11-03 04:00:00",
+      "album": {
+        "name": "Tear Jerker",
+        "url": "https://open.spotify.com/album/5vqaFNDtNXDaXjM7MoCOeu"
+      },
+      "artists": [
+        {
+          "name": "Cyclops",
+          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
+        }
+      ],
+      "duration_ms": 155538,
+      "name": "Tear Jerker",
+      "url": "https://open.spotify.com/track/44tKnY1Tsoe9jPGmoA1H2c"
+    },
+    {
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Feels Like You",
@@ -1455,26 +1455,6 @@
       "duration_ms": 202758,
       "name": "Feels Like You",
       "url": "https://open.spotify.com/track/0F1VAVqj021UkGntiDz4nx"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Mind Pluck",
-        "url": "https://open.spotify.com/album/2aS0GPy3F7noLvi1kgWEMz"
-      },
-      "artists": [
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "HOL!",
-          "url": "https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB"
-        }
-      ],
-      "duration_ms": 270857,
-      "name": "Mind Pluck",
-      "url": "https://open.spotify.com/track/3W9xukFv9kGLkLbEe2YITe"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1503,6 +1483,26 @@
     {
       "added_at": "2023-10-20 04:01:00",
       "album": {
+        "name": "Mind Pluck",
+        "url": "https://open.spotify.com/album/2aS0GPy3F7noLvi1kgWEMz"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "HOL!",
+          "url": "https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB"
+        }
+      ],
+      "duration_ms": 270857,
+      "name": "Mind Pluck",
+      "url": "https://open.spotify.com/track/3W9xukFv9kGLkLbEe2YITe"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
         "name": "Ouroboros",
         "url": "https://open.spotify.com/album/6pNuyY90Baz2qxRa4Z2B8C"
       },
@@ -1515,26 +1515,6 @@
       "duration_ms": 264293,
       "name": "In This World",
       "url": "https://open.spotify.com/track/5CMOwBRA9nShq31cMeMEsE"
-    },
-    {
-      "added_at": "2023-11-10 05:00:00",
-      "album": {
-        "name": "Lost In Mumbai",
-        "url": "https://open.spotify.com/album/641ITlNYNF5fjZUoWM97yC"
-      },
-      "artists": [
-        {
-          "name": "Apashe",
-          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
-        },
-        {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "Lost In Mumbai",
-      "url": "https://open.spotify.com/track/3WZDLEcdZXE0TtLYrbJmmH"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1561,24 +1541,24 @@
       "url": "https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd"
     },
     {
-      "added_at": "2023-10-20 04:01:00",
+      "added_at": "2023-11-10 05:00:00",
       "album": {
-        "name": "Asteroid",
-        "url": "https://open.spotify.com/album/1cyTofD8lQzZb4KkE4VsKf"
+        "name": "Lost In Mumbai",
+        "url": "https://open.spotify.com/album/641ITlNYNF5fjZUoWM97yC"
       },
       "artists": [
         {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
         },
         {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
         }
       ],
-      "duration_ms": 243200,
-      "name": "Asteroid",
-      "url": "https://open.spotify.com/track/3twU0ngWzakD9k07Kb5eoV"
+      "duration_ms": 180480,
+      "name": "Lost In Mumbai",
+      "url": "https://open.spotify.com/track/3WZDLEcdZXE0TtLYrbJmmH"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1699,6 +1679,26 @@
       "duration_ms": 269538,
       "name": "You Found Me",
       "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"
+    },
+    {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Asteroid",
+        "url": "https://open.spotify.com/album/1cyTofD8lQzZb4KkE4VsKf"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "Asteroid",
+      "url": "https://open.spotify.com/track/3twU0ngWzakD9k07Kb5eoV"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1917,6 +1917,26 @@
       "url": "https://open.spotify.com/track/4nQk7L78PXHHgrUxUqr5WA"
     },
     {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "LOYAL",
+        "url": "https://open.spotify.com/album/4pqpFCjg3Y5vi1SHCEFIMI"
+      },
+      "artists": [
+        {
+          "name": "33 Below",
+          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
+        },
+        {
+          "name": "DRIIA",
+          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
+        }
+      ],
+      "duration_ms": 255882,
+      "name": "LOYAL",
+      "url": "https://open.spotify.com/track/0XTC88XX9rerDucl82skTW"
+    },
+    {
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Like That",
@@ -1955,26 +1975,6 @@
       "duration_ms": 208615,
       "name": "Move Back",
       "url": "https://open.spotify.com/track/4eX9IUbwqNJKyzFWDRExjc"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "LOYAL",
-        "url": "https://open.spotify.com/album/4pqpFCjg3Y5vi1SHCEFIMI"
-      },
-      "artists": [
-        {
-          "name": "33 Below",
-          "url": "https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz"
-        },
-        {
-          "name": "DRIIA",
-          "url": "https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys"
-        }
-      ],
-      "duration_ms": 255882,
-      "name": "LOYAL",
-      "url": "https://open.spotify.com/track/0XTC88XX9rerDucl82skTW"
     },
     {
       "added_at": "2023-10-20 04:01:00",

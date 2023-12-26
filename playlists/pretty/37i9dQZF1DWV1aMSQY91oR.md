@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Nicki Minaj
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,271 likes - 49 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,273 likes - 49 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 48 | [Like We Never Met](https://open.spotify.com/track/0Y4bXAhNENsU1FM9fb83oo) | [MAKAVELIGODD](https://open.spotify.com/artist/6ODBnKbicdw1rDq8P2lBzO) | [Like We Never Met](https://open.spotify.com/album/1srWdiM3WbYtYTgzxwvnvN) | 1:36 |
 | 49 | [Where I'm From](https://open.spotify.com/track/7nVFLsfbZMABvDAwKMIcVg) | [Road Runner](https://open.spotify.com/artist/0lR8BD5lSNtTjQvggwyqE6) | [Where I'm From](https://open.spotify.com/album/5XY8R7ocLcKMkT2y5t0e9D) | 2:11 |
 
-Snapshot ID: `MCw5MzIxYTVhNzUzYzg3NDJiY2M2NzQ3NjJhZWEyMTMyZGI4NTYwYWNi`
+Snapshot ID: `MCw5MjM3OWJiMmFmMzAwNWY3YTM0MjkxZWU5ZDMxYmM5MmU2ZTRmNTk2`

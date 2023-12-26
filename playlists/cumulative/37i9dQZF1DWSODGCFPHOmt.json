@@ -639,6 +639,24 @@
     },
     {
       "album": {
+        "name": "Navidad con \u00c1ngela Aguilar",
+        "url": "https://open.spotify.com/album/08gmZBkIqe0wxtGzoDrDla"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196524,
+      "name": "El Ni\u00f1o Del Tambor",
+      "url": "https://open.spotify.com/track/5jGT4Ex7tp33av5SZVzf1Q"
+    },
+    {
+      "album": {
         "name": "El Pasado (Feat. Nab\u00e1lez, Los Nietos De Ter\u00e1n, Grace Guill\u00e9n, Randy Ortiz, Kevin Apolo)",
         "url": "https://open.spotify.com/album/7Kgewkz5TPdZo4NQpD2fvJ"
       },
@@ -1316,7 +1334,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 190146,
       "name": "Mi Burrito Sabanero",
       "url": "https://open.spotify.com/track/6I5I4L2kRifxJ2RyAAaeca"

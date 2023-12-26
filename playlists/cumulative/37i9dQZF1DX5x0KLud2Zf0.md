@@ -4,7 +4,7 @@
 
 > La pluma sensible detrás de tus favoritas de regional mexicano.
 
-100 songs - 5 hr 20 min
+101 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Mi Premio O Mi Castigo](https://open.spotify.com/track/79JwazA2pV0ce0T5jx0CpG) | [Manuel Romero](https://open.spotify.com/artist/7Bals6DgKAYnN5PbfJTWss), [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Mi Premio O Mi Castigo](https://open.spotify.com/album/5kPLWQQwBmXZbaLb2cF30P) | 2:27 | 2021-11-11 |  |
 | [Mi Razón De Ser](https://open.spotify.com/track/7EDEbNBsxgsTOfrOifN37a) | [Banda Sinaloense MS de Sergio Lizárraga](https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP) | [Dany, Te Dedico Esta Canción Con Todo Mi Corazón](https://open.spotify.com/album/5Zm6BtWH4CgLV83H2nWBsL) | 3:29 | 2021-11-11 |  |
 | [Mi Segunda Vida](https://open.spotify.com/track/6Z7f0BXDLI8k4CHR9KJdAD) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Gracias Por Creer](https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz) | 3:07 | 2021-11-11 |  |
-| [Miento](https://open.spotify.com/track/28cMigsVvHrG7Udcmf3QFF) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Libre Otra Vez](https://open.spotify.com/album/1JXt3Es9CECo7PuQv11Qja) | 3:43 | 2021-11-11 |  |
+| [Miento](https://open.spotify.com/track/28cMigsVvHrG7Udcmf3QFF) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Libre Otra Vez](https://open.spotify.com/album/1JXt3Es9CECo7PuQv11Qja) | 3:43 | 2021-11-11 | 2023-12-26 |
 | [Mujer De Todos, Mujer De Nadie](https://open.spotify.com/track/2Nq7V3GVhsultDnHFoLiEB) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Mujer De Todos, Mujer De Nadie](https://open.spotify.com/album/4bEnkTA8yQyyaAIkk0ZiVC) | 3:08 | 2021-11-11 |  |
 | [Nada Iguales](https://open.spotify.com/track/6wJWuNuuCiqkOF3tJSjElT) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Nada Iguales](https://open.spotify.com/album/2oCf0ogw4OlZ6dQWVCiJhK) | 3:41 | 2021-11-11 |  |
 | [Ni Las Moscas Se Te Paran](https://open.spotify.com/track/6132QMlGPQp9OZe69podWn) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [10º Aniversario](https://open.spotify.com/album/2i6q4YYCAdOgdODbbhyKdk) | 3:00 | 2021-11-11 |  |
@@ -91,6 +91,7 @@
 | [Sueño Guajiro](https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ) | [Colmillo Norteño](https://open.spotify.com/artist/5YvrXxWXf9n9enAV8HHZSN) | [Sueño Guajiro](https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr) | 3:03 | 2021-11-11 |  |
 | [Te Darán Ganas De Verme](https://open.spotify.com/track/3gizL2fAU59XhtjbZpbme7) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Los Gustos Que Me Doy](https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ) | 2:55 | 2021-11-11 |  |
 | [Te Estaré Esperando](https://open.spotify.com/track/2APqhS0NbLQdhrCQvngtGd) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [2En1](https://open.spotify.com/album/5CqUVYRMEG5zrI8qkosEPx) | 4:06 | 2021-11-11 |  |
+| [Te Prometo](https://open.spotify.com/track/0xdbp4HOKeuVkuTu1WfI41) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Irreversible..\. 2012](https://open.spotify.com/album/4j0AeP8UC2H2Qcrjck1haF) | 3:42 | 2021-11-11 |  |
 | [Todo Depende De Ti](https://open.spotify.com/track/1unwIlqSOvwZgB38pG0GlU) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Todo Depende De Ti](https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr) | 3:17 | 2021-11-11 |  |
 | [Todo Porque Te Amo](https://open.spotify.com/track/2W2mcZJZ250M9fSk0S1hKA) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ) | [Sinaloense Hasta Las Cachas](https://open.spotify.com/album/6ywfmakEc2cj9eAJFfLEzf) | 3:34 | 2021-11-11 |  |
 | [Traviesa](https://open.spotify.com/track/2kzGqaTfgJaNb02qcnMpV9) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2), [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [Traviesa](https://open.spotify.com/album/3FS698TPVnjeDFGljfBQlc) | 2:39 | 2021-11-11 |  |

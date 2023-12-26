@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2EwG4p1ArpU.md) - [plain]
 
 > ネット発の新たな才能として注目を集めるシンガーソングライター、Eveの楽曲を1つのプレイリストに。Essential tracks from Japanese singer\-songwriter, Eve.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,175 likes - 63 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,230 likes - 63 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [逃避行](https://open.spotify.com/track/6wnPWVgHI1e6BquACh2Ue5) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [逃避行](https://open.spotify.com/album/5ERkFsdPk4pYY5MMdp3LPD) | 2:56 |
+| 1 | [Touhikou](https://open.spotify.com/track/5Xg3ixE8imcxa3QKnH8ldi) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Touhikou](https://open.spotify.com/album/6AU5EVaR9fZQpJL3aB0VK6) | 2:56 |
 | 2 | [Hanaarashi](https://open.spotify.com/track/7appEyBT2D7skgWyyb5klH) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Hanaarashi](https://open.spotify.com/album/1txQrmehD3TKMQ8a5SQrbv) | 3:43 |
 | 3 | [Boukenroku](https://open.spotify.com/track/2RUeYsbLz7BUVyO6Q3Ijx5) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Boukenroku](https://open.spotify.com/album/1CAQgaomrrnWrQ7FvnjeqL) | 3:47 |
 | 4 | [Gunjo Sanka](https://open.spotify.com/track/5rq7yhcpsofB04NgTqlY8r) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaizin](https://open.spotify.com/album/1Kmjj1yj98JJdJ4XoNjrI1) | 4:36 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2EwG4p1ArpU.md) - [plain]
 | 62 | [Yoino Myojo](https://open.spotify.com/track/3tFq9arkcubkFhDswd43nw) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan / Ao No Waltz](https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1) | 4:16 |
 | 63 | [Mellow](https://open.spotify.com/track/3w5kFSmtOVC5XAifIwR9Xz) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Smile](https://open.spotify.com/album/6A6B0189k4kfQlSy1NzAsx) | 4:46 |
 
-Snapshot ID: `MCw3YTY1ZmRlNmE1MWM1OWEzM2YwNzcyYTc0OGVmYjBlMmFkMjlhZGY5`
+Snapshot ID: `MCw4NDAwYmI3MDRhNmNiZGUxYWRkZjFiMjc0MGZlOTFkMWFkYWQwYjcy`

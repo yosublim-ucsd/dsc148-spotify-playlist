@@ -4016,7 +4016,7 @@
       ],
       "date_added": "2022-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 230841,
       "name": "Queen Space (with Summer Walker)",
       "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
@@ -5450,6 +5450,24 @@
       "duration_ms": 187546,
       "name": "Wavvy",
       "url": "https://open.spotify.com/track/0BIdtZ1RdHNAm1aJxbfyNk"
+    },
+    {
+      "album": {
+        "name": "Wavvy",
+        "url": "https://open.spotify.com/album/7A3NVckB7uKzaRkoASyapo"
+      },
+      "artists": [
+        {
+          "name": "Lav",
+          "url": "https://open.spotify.com/artist/4yql3diaCYkv88Xrh7rwVl"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187546,
+      "name": "Wavvy",
+      "url": "https://open.spotify.com/track/7qHus80qoEHRDq8MYJjaNm"
     },
     {
       "album": {

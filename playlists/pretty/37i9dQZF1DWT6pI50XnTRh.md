@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 
 > Nostalgic '70\-ies and '80\-ies Funk, Disco, Boogie and Afropop music which lit up night clubs across Africa\. Get your boogie on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,526 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,555 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 | 18 | [Pull Up To The Bumper](https://open.spotify.com/track/653Fi3bqMxQQQmjw72ur6G) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Nightclubbing](https://open.spotify.com/album/4RmUcjaKiuQIw3NGMrjBca) | 4:41 |
 | 19 | [Shake Your Body \(Down to the Ground\) \- 7" Version](https://open.spotify.com/track/26QORAYrHVWk6Pn6ELkzvn) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Destiny \(Expanded Version\)](https://open.spotify.com/album/4uHjiaukvzX2i2IzLkUqWy) | 3:47 |
 | 20 | [Love Come Down \- Single Version](https://open.spotify.com/track/3ZpSFamHHJE4kL59IePR7P) | [Evelyn "Champagne" King](https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7) | [Essential \- Soul Love](https://open.spotify.com/album/7LNiJbdcg604Tfr5revoL6) | 3:37 |
-| 21 | [Zombie](https://open.spotify.com/track/3RZoPvPHZsPTTc94DfWSCL) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Zombie](https://open.spotify.com/album/51kRDjKcrYrQfFmOktFh32) | 12:25 |
-| 22 | [Soul Makossa](https://open.spotify.com/track/21s0bjVrP7RtQskeUKZxOu) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu Dibango Anthology](https://open.spotify.com/album/4WDsHhoLJTSGVAt7ydCoPN) | 4:24 |
+| 21 | [Soul Makossa](https://open.spotify.com/track/21s0bjVrP7RtQskeUKZxOu) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu Dibango Anthology](https://open.spotify.com/album/4WDsHhoLJTSGVAt7ydCoPN) | 4:24 |
+| 22 | [Zombie](https://open.spotify.com/track/3RZoPvPHZsPTTc94DfWSCL) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Zombie](https://open.spotify.com/album/51kRDjKcrYrQfFmOktFh32) | 12:25 |
 | 23 | [The Glow of Love](https://open.spotify.com/track/6w9g12jpHCPCuvYVX7vLLG) | [Change](https://open.spotify.com/artist/2fJ2vi4PUSxyvYaeq0FTbE), [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Glow of Love \(Original Album and Rare Tracks\)](https://open.spotify.com/album/5AWDEEdFf7ab4X6HpfxLye) | 6:13 |
 | 24 | [Boogie Oogie Oogie \- Single Version 2 / Remastered 1999](https://open.spotify.com/track/0y0QpmcF1G3F79rjk3fjUx) | [A Taste Of Honey](https://open.spotify.com/artist/1ii6e2pv8VIRwnTER71rMl) | [A Taste Of Honey](https://open.spotify.com/album/2WDP1yNTx3cBR9LBE4Ribh) | 5:38 |
 | 25 | [What Do I Do](https://open.spotify.com/track/6E9uCbwEGkY4AXDFCiSfSH) | [Phil Fearon](https://open.spotify.com/artist/1UXbr4S5dk24DLPoEMxSJF), [Galaxy](https://open.spotify.com/artist/6ZQoOkrCsTU1L1imn5k8Mn) | [All the Hits](https://open.spotify.com/album/694z31mMGJZ5pdK9cdBzYI) | 3:29 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 | 34 | [I Like Your Style](https://open.spotify.com/track/7b0bir8Z4KyyBwQfBIjmYY) | [Tony Wilson](https://open.spotify.com/artist/3nwZKsmOiJjn7x0fS3L5ZR) | [I Like Your Style](https://open.spotify.com/album/3N9BeN0UCTwyHADo59PI0g) | 3:05 |
 | 35 | [Living Music](https://open.spotify.com/track/2e8OoF7KghSpQ1MdsX7sJd) | [Onyeka Onwenu](https://open.spotify.com/artist/0AsoglRr6rQ8DZEKWnBPz7) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 6:04 |
 | 36 | [Don't Let My Rainbow Pass Me By](https://open.spotify.com/track/5F030QnPpy1nMh8UmlHdKD) | [Cloud One](https://open.spotify.com/artist/2B9FE4FTPCJ7W8DrF5wkve), [Margo Williams](https://open.spotify.com/artist/1EzQ066WkkULCd4TByuEqd) | [Spaced Out: The Very Best of Cloud One](https://open.spotify.com/album/3rPJAH1VcOILbQIwfy7Rfz) | 4:40 |
-| 37 | [Say I Love You](https://open.spotify.com/track/6NkDS793oPRpIAjrAsKNAa) | [Eddy Grant](https://open.spotify.com/artist/6j2HWcd7z61iTLbi8eD0hA) | [This Is Eddy Grant](https://open.spotify.com/album/1GDajHPyvYM4YEUgKNusNX) | 3:55 |
-| 38 | [Ma Jaiye Oni](https://open.spotify.com/track/47ZKAaOco4DebMlGRzcvUn) | [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1) | [Juju Music](https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs) | 5:07 |
-| 39 | [The Warrior](https://open.spotify.com/track/5wY3a0tPSmZvdAxi9JfrRK) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/4jklZxOxbnLsIdCCSTdn63) | 3:46 |
+| 37 | [The Warrior](https://open.spotify.com/track/5wY3a0tPSmZvdAxi9JfrRK) | [Osibisa](https://open.spotify.com/artist/12X85dtebfc7JTZ8iMBT2o) | [Ojah Awake](https://open.spotify.com/album/4jklZxOxbnLsIdCCSTdn63) | 3:46 |
+| 38 | [Say I Love You](https://open.spotify.com/track/6NkDS793oPRpIAjrAsKNAa) | [Eddy Grant](https://open.spotify.com/artist/6j2HWcd7z61iTLbi8eD0hA) | [This Is Eddy Grant](https://open.spotify.com/album/1GDajHPyvYM4YEUgKNusNX) | 3:55 |
+| 39 | [Ma Jaiye Oni](https://open.spotify.com/track/47ZKAaOco4DebMlGRzcvUn) | [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1) | [Juju Music](https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs) | 5:07 |
 | 40 | [Sugar Cane Baby](https://open.spotify.com/track/5kFPItOjyYqGrNnqsROU42) | [Harry Mosco](https://open.spotify.com/artist/5xRUMq2gshg8BfuXR7QFWl) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 5:31 |
 | 41 | [Baby Kilode](https://open.spotify.com/track/0PYDivZavH4ndRJB6E5iUu) | [Dizzy K Falola](https://open.spotify.com/artist/4QebwA96fgRFgzeXzx9dmj) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 4:25 |
 | 42 | [Tire Ni Oluwa](https://open.spotify.com/track/5uHK9zXW1KGWnw9fRYLyq0) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [3rd World](https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE) | 8:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 | 49 | [Love for the Sake of Love](https://open.spotify.com/track/3XfO4iKlM7fdoiJ4uz1wku) | [Claudia Barry](https://open.spotify.com/artist/5Y4hAdGj1mciEktS39vJYN) | [Discomania: Hits Dance 70\-80, Vol\. 6](https://open.spotify.com/album/2lEVsqT80Q3vnYlRkUEZ1d) | 4:27 |
 | 50 | [Trinidad \- Special Disco Mix](https://open.spotify.com/track/4Qb0va1gzVonFxU7vghCfp) | [John Gibbs](https://open.spotify.com/artist/0sByuZOX52ihgJcBMs4i0a), [U.S\. Steel Orchestra](https://open.spotify.com/artist/3Rd64MZkwo6mAbERZVt1aR) | [Joey Negro and Sean P present The Best of Disco Spectrum](https://open.spotify.com/album/4U62xyQiPH0CcBc5INVDK2) | 5:04 |
 
-Snapshot ID: `MCw3MDRmZjhjNTI1NjA0YTlhOGE4N2ZlNGI3MjdiYmZlNDVmNGYxMGVi`
+Snapshot ID: `MCw1NmQyYmM4NGZjMzQ4YmJkMzE2NjZmY2NkZGRmZTI2NDMxYTVmZTQz`

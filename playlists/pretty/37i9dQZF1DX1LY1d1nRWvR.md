@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 
 > Kick back  and soak up the warm and soothing tones of jazz and electronic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,084 likes - 50 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,093 likes - 50 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 7 | [TRY](https://open.spotify.com/track/1htTRt6dZPPeqduos5PAmC) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [You + I](https://open.spotify.com/album/1NIo4gSPB94n4QUDK7uJEL) | 3:53 |
 | 8 | [Oh I Miss Her So](https://open.spotify.com/track/5psuezepdKbS4Iwl8kRY7M) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw), [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Float Back To You](https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F) | 4:11 |
 | 9 | [Clarity](https://open.spotify.com/track/6ynQ0rykKOYSB75YxI0FrT) | [Model Man](https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA) | [Model Man](https://open.spotify.com/album/5K6zprAN97GLwBpDxiRgK4) | 4:05 |
-| 10 | [Nightrider](https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Nightrider](https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l) | 5:00 |
-| 11 | [Akulaleki](https://open.spotify.com/track/73wcFiFeCQurmHDQIcirbm) | [Samthing Soweto](https://open.spotify.com/artist/6HwxMgE895sejjGFin9Gvm), [Sha Sha](https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [Isphithiphithi](https://open.spotify.com/album/4sO9GxYupSVEJ3rRsaVpnd) | 6:21 |
-| 12 | [Strings of Light](https://open.spotify.com/track/3hEOsfDNsdpV78Ty01vaxi) | [Yussef Kamaal](https://open.spotify.com/artist/710FHFQeXKC6dZGCxt7kQh) | [Black Focus](https://open.spotify.com/album/6pDAh84nyNU7x3xje9G03I) | 8:28 |
-| 13 | [Soweto Blues](https://open.spotify.com/track/6l5WDlZzjAXWEA47969TXI) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Busiswa](https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Soweto Blues](https://open.spotify.com/album/2tLxWdcRPF3V05kX1TLb40) | 4:58 |
+| 10 | [Soweto Blues](https://open.spotify.com/track/6l5WDlZzjAXWEA47969TXI) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Busiswa](https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Soweto Blues](https://open.spotify.com/album/2tLxWdcRPF3V05kX1TLb40) | 4:58 |
+| 11 | [Nightrider](https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Nightrider](https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l) | 5:00 |
+| 12 | [Akulaleki](https://open.spotify.com/track/73wcFiFeCQurmHDQIcirbm) | [Samthing Soweto](https://open.spotify.com/artist/6HwxMgE895sejjGFin9Gvm), [Sha Sha](https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [Isphithiphithi](https://open.spotify.com/album/4sO9GxYupSVEJ3rRsaVpnd) | 6:21 |
+| 13 | [Strings of Light](https://open.spotify.com/track/3hEOsfDNsdpV78Ty01vaxi) | [Yussef Kamaal](https://open.spotify.com/artist/710FHFQeXKC6dZGCxt7kQh) | [Black Focus](https://open.spotify.com/album/6pDAh84nyNU7x3xje9G03I) | 8:28 |
 | 14 | [Stars](https://open.spotify.com/track/3bJU6OwW2N0O7DVO5mp08l) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K) | 6:59 |
 | 15 | [Lagoon](https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lagoon](https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE) | 4:15 |
 | 16 | [Movementt](https://open.spotify.com/track/1zYA5cNkQnFyyVOZaY7lqO) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Movementt](https://open.spotify.com/album/4jZE92oJG0NgpXB6gBKe8K) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LY1d1nRWvR.md) - [plain]
 | 49 | [Been A Long Night](https://open.spotify.com/track/6R1iUygNnqOmUBmMUsDM7I) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Information](https://open.spotify.com/album/5qMjQBgXiEDIoNFHatsaNA) | 4:32 |
 | 50 | [Mogeri](https://open.spotify.com/track/6Iq7a7HZ6eFpsAVW6Qfohp) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/75GwgzYvvgaJQS6DooqcIC) | 6:11 |
 
-Snapshot ID: `MCw0NzJkNGJlYjRmNjk3ZDdhOWExMTA2MTc1Y2FjNjdmZTkxNzBiNmM3`
+Snapshot ID: `MCwyNjlhYmEzNDBkODc2MWY4NTU2M2YzNDU1MzYzZTRmZjk0NjFlY2Yy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,012 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,041 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 49 | [Discoproof](https://open.spotify.com/track/0CQcUsyDEfKsHWDDF3h2C1) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Discoproof](https://open.spotify.com/album/3uMU0ZiDp3MDBypUiVKGYh) | 3:52 |
 | 50 | [Op Shop Lover](https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [Op Shop Lover](https://open.spotify.com/album/6496vgr7i2H5ENZ7noLwFP) | 2:30 |
 
-Snapshot ID: `MCxmZmVmYjJiNjA3MDQ4ODBjMTE1ZmVhZWNlMWU4MDQyZTk4MWIxNTE3`
+Snapshot ID: `MCwzMTM1NmFiZGM1Y2RhYTI0ZTU3ODgwMTUyZTJkNmM3MjMzMzg4Nzc3`

@@ -1,12 +1,12 @@
 {
   "description": "Music paying tribute to the Heartland of America.",
-  "num_followers": 254115,
+  "num_followers": 254221,
   "original_name": "Heartland Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjIzYmZlMzU1NzQ4ODY4YmIzMjRjYmZjZGVmYjVkNDJjY2VlNWRh",
+  "snapshot_id": "MCw1MTM0NzVkZjU5ZGM0MDMzMTQzZjZiNTliYjM2MTE0ZjUxNjkzM2Q1",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Jason Aldean",
+        "url": "https://open.spotify.com/album/47LrXE5duqJHzfYulSGg1h"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 202546,
+      "name": "Amarillo Sky",
+      "url": "https://open.spotify.com/track/4ZeLTFjHBC4ZyH4owJPH0Q"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Caught Up In The Country",
         "url": "https://open.spotify.com/album/0SeZnTLIuPbHvuuNTJDHLh"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 160991,
       "name": "Caught Up In The Country",
       "url": "https://open.spotify.com/track/2BgunkkepMPFpArQj1Dx5s"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Jason Aldean",
-        "url": "https://open.spotify.com/album/47LrXE5duqJHzfYulSGg1h"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 202546,
-      "name": "Amarillo Sky",
-      "url": "https://open.spotify.com/track/4ZeLTFjHBC4ZyH4owJPH0Q"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "If You're Going Through Hell",
-        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
-      },
-      "artists": [
-        {
-          "name": "Rodney Atkins",
-          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
-        }
-      ],
-      "duration_ms": 213653,
-      "name": "These Are My People",
-      "url": "https://open.spotify.com/track/5jFid6SUnYqohvNvNuZvIz"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "What Makes You Country",
         "url": "https://open.spotify.com/album/6NUEU1vyIctdAg8IHot8Wy"
       },
@@ -1435,22 +1419,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Brett Eldredge",
-        "url": "https://open.spotify.com/album/1NUKNYLtePSiZnQj0QeZlo"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 208720,
-      "name": "The Long Way",
-      "url": "https://open.spotify.com/track/5vuMtXS5kQ7F0o9V9rG1dG"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Halfway To Heaven (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3yWeEEaC5xs7FgzwRgjm1p"
       },
@@ -1463,6 +1431,38 @@
       "duration_ms": 214826,
       "name": "Country Must Be Country Wide",
       "url": "https://open.spotify.com/track/454JIJlQ8GvrCoBvSfq3KA"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "If You're Going Through Hell",
+        "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
+      },
+      "artists": [
+        {
+          "name": "Rodney Atkins",
+          "url": "https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2"
+        }
+      ],
+      "duration_ms": 213653,
+      "name": "These Are My People",
+      "url": "https://open.spotify.com/track/5jFid6SUnYqohvNvNuZvIz"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Brett Eldredge",
+        "url": "https://open.spotify.com/album/1NUKNYLtePSiZnQj0QeZlo"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 208720,
+      "name": "The Long Way",
+      "url": "https://open.spotify.com/track/5vuMtXS5kQ7F0o9V9rG1dG"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Country On",
+        "url": "https://open.spotify.com/album/3XgzAqjFk10Vyspx8c7OEm"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 236455,
+      "name": "Country On",
+      "url": "https://open.spotify.com/track/1tRxwf8Q0AcshfHuaD86Yt"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "The Outsiders",
         "url": "https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 252493,
       "name": "Give Me Back My Hometown",
       "url": "https://open.spotify.com/track/3MykNWa65IP2VN1Qa6B9yK"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Home Sweet",
-        "url": "https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 205946,
-      "name": "Home Sweet",
-      "url": "https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1579,18 +1579,34 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Country On",
-        "url": "https://open.spotify.com/album/3XgzAqjFk10Vyspx8c7OEm"
+        "name": "Just As I Am (Platinum Edition)",
+        "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
       },
       "artists": [
         {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
         }
       ],
-      "duration_ms": 236455,
-      "name": "Country On",
-      "url": "https://open.spotify.com/track/1tRxwf8Q0AcshfHuaD86Yt"
+      "duration_ms": 221466,
+      "name": "One Hell Of An Amen",
+      "url": "https://open.spotify.com/track/2XEl9DfBj88c8p2bdfx1qu"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Home Sweet",
+        "url": "https://open.spotify.com/album/5O5Y7X9y24GiOijvy19ef8"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 205946,
+      "name": "Home Sweet",
+      "url": "https://open.spotify.com/track/7xMFk2Vj2hALyMdzHFopJl"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1607,22 +1623,6 @@
       "duration_ms": 179077,
       "name": "Buy Me a Boat",
       "url": "https://open.spotify.com/track/6y35xDJFzpy1FIa6qCMA59"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Just As I Am (Platinum Edition)",
-        "url": "https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il"
-      },
-      "artists": [
-        {
-          "name": "Brantley Gilbert",
-          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
-        }
-      ],
-      "duration_ms": 221466,
-      "name": "One Hell Of An Amen",
-      "url": "https://open.spotify.com/track/2XEl9DfBj88c8p2bdfx1qu"
     },
     {
       "added_at": "2023-10-06 04:00:00",

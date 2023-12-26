@@ -1,12 +1,12 @@
 {
   "description": "A mover el cucu con estas cadenciosas versiones cumbiatizadas.",
-  "num_followers": 107532,
+  "num_followers": 107577,
   "original_name": "Cumbia Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZmMzYzAwMWVhYWEzNGE5MmYzYTEyMWE3YTQ3ZjlkOWFkMDk4MjUy",
+  "snapshot_id": "MCxlMTI2Yjg4OTg0ODgwN2QyN2IyYzVhYTZjODUwOWZiMzIzYzQ3MmNi",
   "tracks": [
     {
       "added_at": "2023-01-25 00:22:47",
@@ -115,6 +115,26 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
+        "name": "No Te Creas Tan Importante (En Vivo)",
+        "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 239760,
+      "name": "No Te Creas Tan Importante - En Vivo",
+      "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
         "name": "Org\u00e1nico",
         "url": "https://open.spotify.com/album/5JzUIBngiv4yCq8MfYMH74"
       },
@@ -167,26 +187,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "No Te Creas Tan Importante (En Vivo)",
-        "url": "https://open.spotify.com/album/4SPZTJb1KDhmLJRzhgcq5s"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        }
-      ],
-      "duration_ms": 239760,
-      "name": "No Te Creas Tan Importante - En Vivo",
-      "url": "https://open.spotify.com/track/3trowLiYwwOoiwapLISNyk"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Golpes en el Coraz\u00f3n",
         "url": "https://open.spotify.com/album/1v2sXZ3GCmKSwGOM24VSiZ"
       },
@@ -203,6 +203,42 @@
       "duration_ms": 211268,
       "name": "Golpes en el Coraz\u00f3n",
       "url": "https://open.spotify.com/track/5fXk93H1gUgNtZrDGiNLR4"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Hotel California",
+        "url": "https://open.spotify.com/album/0eQVqlUtzzWsvHCVdDKY0V"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 169613,
+      "name": "Hotel California",
+      "url": "https://open.spotify.com/track/0MbkiHMyocbiG3GsWgY8n0"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Me Vas a Extra\u00f1ar (En Vivo)",
+        "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        }
+      ],
+      "duration_ms": 238528,
+      "name": "Me Vas a Extra\u00f1ar - En Vivo",
+      "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -229,22 +265,6 @@
       "url": "https://open.spotify.com/track/1JxRbEr1CKM16m4ovHg2hz"
     },
     {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Hotel California",
-        "url": "https://open.spotify.com/album/0eQVqlUtzzWsvHCVdDKY0V"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 169613,
-      "name": "Hotel California",
-      "url": "https://open.spotify.com/track/0MbkiHMyocbiG3GsWgY8n0"
-    },
-    {
       "added_at": "2023-01-25 00:22:47",
       "album": {
         "name": "Lo Intentamos",
@@ -259,26 +279,6 @@
       "duration_ms": 214608,
       "name": "Lo Intentamos",
       "url": "https://open.spotify.com/track/2Qj3RcwYRKV7AR2qpAapB8"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Me Vas a Extra\u00f1ar (En Vivo)",
-        "url": "https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        }
-      ],
-      "duration_ms": 238528,
-      "name": "Me Vas a Extra\u00f1ar - En Vivo",
-      "url": "https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -313,6 +313,22 @@
       "url": "https://open.spotify.com/track/6WUr8ftmKH0HPAzwsehGXQ"
     },
     {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Otra Como Tu",
+        "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 220618,
+      "name": "Otra Como Tu",
+      "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
+    },
+    {
       "added_at": "2023-01-25 00:22:47",
       "album": {
         "name": "La Bachata",
@@ -335,22 +351,6 @@
       "duration_ms": 194269,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/3AMr0QkBGjrAoTbst5uWCG"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Otra Como Tu",
-        "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 220618,
-      "name": "Otra Como Tu",
-      "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
+        "name": "El Color de Tus Ojos",
+        "url": "https://open.spotify.com/album/4nL0XYZSkhZZaFQvNvxbMO"
+      },
+      "artists": [
+        {
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+        }
+      ],
+      "duration_ms": 156821,
+      "name": "El Color de Tus Ojos",
+      "url": "https://open.spotify.com/track/7nmV1InGzooNuPx6iSPwHz"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
         "name": "A2\u00cd 5Uena!, Vol 2",
         "url": "https://open.spotify.com/album/2Fbw8FPgMnce7PN46CAjNW"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 176640,
       "name": "Get Lucky",
       "url": "https://open.spotify.com/track/14jzo7RhjlL9LmfzYDkMUU"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "El Color de Tus Ojos",
-        "url": "https://open.spotify.com/album/4nL0XYZSkhZZaFQvNvxbMO"
-      },
-      "artists": [
-        {
-          "name": "Agapornis",
-          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
-        }
-      ],
-      "duration_ms": 156821,
-      "name": "El Color de Tus Ojos",
-      "url": "https://open.spotify.com/track/7nmV1InGzooNuPx6iSPwHz"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -679,26 +679,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "La Incondicional (Version Cumbia)",
-        "url": "https://open.spotify.com/album/5JYUEfb6wEMPL0Aixmjpkr"
-      },
-      "artists": [
-        {
-          "name": "Otto Bunge",
-          "url": "https://open.spotify.com/artist/52B23cu0u8HfuhNLQIhtZn"
-        },
-        {
-          "name": "Nicki Luis",
-          "url": "https://open.spotify.com/artist/2mmVmtJNyml9x36wM2Br3D"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "La Incondicional - Version Cumbia",
-      "url": "https://open.spotify.com/track/0AuHkLADfPOZ7OVkPaczoa"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Lloviendo Estrellas",
         "url": "https://open.spotify.com/album/4ZQc6ZZUXLRs5A0a2mOMpw"
       },
@@ -715,22 +695,22 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Hotline Bling",
-        "url": "https://open.spotify.com/album/3wIfrWCteaifdw84a9ckUi"
+        "name": "La Incondicional (Version Cumbia)",
+        "url": "https://open.spotify.com/album/5JYUEfb6wEMPL0Aixmjpkr"
       },
       "artists": [
         {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+          "name": "Otto Bunge",
+          "url": "https://open.spotify.com/artist/52B23cu0u8HfuhNLQIhtZn"
         },
         {
-          "name": "Los Miticos Del Ritmo",
-          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
+          "name": "Nicki Luis",
+          "url": "https://open.spotify.com/artist/2mmVmtJNyml9x36wM2Br3D"
         }
       ],
-      "duration_ms": 203059,
-      "name": "Hotline Bling",
-      "url": "https://open.spotify.com/track/6q3HqeduJaaZvoGkxcJEOb"
+      "duration_ms": 156000,
+      "name": "La Incondicional - Version Cumbia",
+      "url": "https://open.spotify.com/track/0AuHkLADfPOZ7OVkPaczoa"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -767,6 +747,26 @@
       "duration_ms": 146834,
       "name": "Juntos a la Par",
       "url": "https://open.spotify.com/track/259PHSfv5ayeRJNvIjoDr5"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Hotline Bling",
+        "url": "https://open.spotify.com/album/3wIfrWCteaifdw84a9ckUi"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        },
+        {
+          "name": "Los Miticos Del Ritmo",
+          "url": "https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu"
+        }
+      ],
+      "duration_ms": 203059,
+      "name": "Hotline Bling",
+      "url": "https://open.spotify.com/track/6q3HqeduJaaZvoGkxcJEOb"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Ya Me Enter\u00e9",
-        "url": "https://open.spotify.com/album/7klSaA9WznpL3G4xvmLjPk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los Kiero de Edgar Zacary",
-          "url": "https://open.spotify.com/artist/0Dp5uzlISYu38jwPXsGPqF"
-        }
-      ],
-      "duration_ms": 186697,
-      "name": "Ya Me Enter\u00e9",
-      "url": "https://open.spotify.com/track/4G79YmEkyEbAzo5NsDRhC4"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Si una Vez",
         "url": "https://open.spotify.com/album/15911pYbJmbTWdRAbKeujH"
       },
@@ -855,18 +839,18 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Mil Horas",
-        "url": "https://open.spotify.com/album/2aYeEaM0BJdpkZXFmXhVjy"
+        "name": "Ya Me Enter\u00e9",
+        "url": "https://open.spotify.com/album/7klSaA9WznpL3G4xvmLjPk"
       },
       "artists": [
         {
-          "name": "Grupo Play",
-          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
+          "name": "Grupo Los Kiero de Edgar Zacary",
+          "url": "https://open.spotify.com/artist/0Dp5uzlISYu38jwPXsGPqF"
         }
       ],
-      "duration_ms": 227943,
-      "name": "Mil Horas",
-      "url": "https://open.spotify.com/track/3HP8U9uve8jKq8cNo4J649"
+      "duration_ms": 186697,
+      "name": "Ya Me Enter\u00e9",
+      "url": "https://open.spotify.com/track/4G79YmEkyEbAzo5NsDRhC4"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -887,6 +871,22 @@
       "duration_ms": 230184,
       "name": "Fuiste Tu",
       "url": "https://open.spotify.com/track/0knrusP1Su928CMA9dMoIZ"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Mil Horas",
+        "url": "https://open.spotify.com/album/2aYeEaM0BJdpkZXFmXhVjy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Play",
+          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
+        }
+      ],
+      "duration_ms": 227943,
+      "name": "Mil Horas",
+      "url": "https://open.spotify.com/track/3HP8U9uve8jKq8cNo4J649"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
+        "name": "Baila Esta Cumbia",
+        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 175889,
+      "name": "Baila Esta Cumbia",
+      "url": "https://open.spotify.com/track/5YbeAaSHZv7ZDAM6CJE872"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
         "name": "Lemonchamp",
         "url": "https://open.spotify.com/album/4ZefritY8dZnuOMWbIgt1T"
       },
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Smells Like Cumbia",
-        "url": "https://open.spotify.com/album/1AqakrqNVRPbuBN7A4ggm9"
-      },
-      "artists": [
-        {
-          "name": "Tropa Magica",
-          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
-        }
-      ],
-      "duration_ms": 177053,
-      "name": "Come As You Are",
-      "url": "https://open.spotify.com/track/4HYoMVI4mBbMsfXStbTPYX"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Corazon, Perro Fiel, Echame La Culpa,",
         "url": "https://open.spotify.com/album/4bYen2zBxOJ3T9HGjSufl9"
       },
@@ -1055,6 +1055,22 @@
       "duration_ms": 193736,
       "name": "Corazon, Perro Fiel, Echame La Culpa,",
       "url": "https://open.spotify.com/track/7lgCrSPDqMKehCUyAkyHuy"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Smells Like Cumbia",
+        "url": "https://open.spotify.com/album/1AqakrqNVRPbuBN7A4ggm9"
+      },
+      "artists": [
+        {
+          "name": "Tropa Magica",
+          "url": "https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE"
+        }
+      ],
+      "duration_ms": 177053,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/4HYoMVI4mBbMsfXStbTPYX"
     },
     {
       "added_at": "2022-05-06 18:26:25",
@@ -1107,58 +1123,6 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
-        "name": "Luces",
-        "url": "https://open.spotify.com/album/1nyyJVjVHzC8TdX7IoVU0o"
-      },
-      "artists": [
-        {
-          "name": "Bial Hclap",
-          "url": "https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1"
-        },
-        {
-          "name": "Valzzi",
-          "url": "https://open.spotify.com/artist/0IbphE6Bv2bv5nuFHY6bfD"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/2A7ZbcDSmZEP7pzomG43Sv"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Baila Esta Cumbia",
-        "url": "https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 175889,
-      "name": "Baila Esta Cumbia",
-      "url": "https://open.spotify.com/track/5YbeAaSHZv7ZDAM6CJE872"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
-        "name": "Lemonchamp",
-        "url": "https://open.spotify.com/album/4Ie3Z2Ss3MPXX0OVjAnT9y"
-      },
-      "artists": [
-        {
-          "name": "LemonChamp",
-          "url": "https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn"
-        }
-      ],
-      "duration_ms": 156211,
-      "name": "Reggaeton Lento",
-      "url": "https://open.spotify.com/track/5pT4ZI8pghpB294iQOds0E"
-    },
-    {
-      "added_at": "2022-05-06 18:26:25",
-      "album": {
         "name": "Tropitango",
         "url": "https://open.spotify.com/album/4dOlABdZn7dUJwrzJCX4pb"
       },
@@ -1179,6 +1143,26 @@
     {
       "added_at": "2022-05-06 18:26:25",
       "album": {
+        "name": "Luces",
+        "url": "https://open.spotify.com/album/1nyyJVjVHzC8TdX7IoVU0o"
+      },
+      "artists": [
+        {
+          "name": "Bial Hclap",
+          "url": "https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1"
+        },
+        {
+          "name": "Valzzi",
+          "url": "https://open.spotify.com/artist/0IbphE6Bv2bv5nuFHY6bfD"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/2A7ZbcDSmZEP7pzomG43Sv"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
         "name": "2017 (#Veintediecisiete)",
         "url": "https://open.spotify.com/album/6cOefEIxlLxmiK3oz0OypE"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 278673,
       "name": "Despacito",
       "url": "https://open.spotify.com/track/4MJFHjrzeFsia49jrsh2lu"
+    },
+    {
+      "added_at": "2022-05-06 18:26:25",
+      "album": {
+        "name": "Lemonchamp",
+        "url": "https://open.spotify.com/album/4Ie3Z2Ss3MPXX0OVjAnT9y"
+      },
+      "artists": [
+        {
+          "name": "LemonChamp",
+          "url": "https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn"
+        }
+      ],
+      "duration_ms": 156211,
+      "name": "Reggaeton Lento",
+      "url": "https://open.spotify.com/track/5pT4ZI8pghpB294iQOds0E"
     },
     {
       "added_at": "2022-05-06 18:26:25",

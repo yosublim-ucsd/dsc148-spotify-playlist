@@ -1,12 +1,12 @@
 {
   "description": "Covers of classic songs with a touch of Jazz. Cover: Joey Alexander",
-  "num_followers": 118594,
+  "num_followers": 118655,
   "original_name": "Jazz Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODQyOWMxY2M0ODcyOTJkZjc3NmE5MjU2ZTk2ZTdhZmMyZmRkYjMx",
+  "snapshot_id": "MCxhMTk3MDlmN2JhNGJhMDBiOGMyM2RkMGUxN2I3ZTMzMGFkMGM2MjI4",
   "tracks": [
     {
       "added_at": "2023-12-20 11:21:06",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "The Sexy EP",
-        "url": "https://open.spotify.com/album/68cA9VzumdYb1FO6COsffJ"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Beck",
-          "url": "https://open.spotify.com/artist/6DFSkfaVzPXCNeNk1pcth2"
-        }
-      ],
-      "duration_ms": 174466,
-      "name": "Material Girl",
-      "url": "https://open.spotify.com/track/3Mizu9oMBUCm14uctRt2uL"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
         "name": "Fictions",
         "url": "https://open.spotify.com/album/13GE9LY5RpnTYTZ12LywX3"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 185240,
       "name": "Harvest Moon",
       "url": "https://open.spotify.com/track/7sx41M0GEQPLMYt3FjCnSw"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
+        "name": "The Sexy EP",
+        "url": "https://open.spotify.com/album/68cA9VzumdYb1FO6COsffJ"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Beck",
+          "url": "https://open.spotify.com/artist/6DFSkfaVzPXCNeNk1pcth2"
+        }
+      ],
+      "duration_ms": 174466,
+      "name": "Material Girl",
+      "url": "https://open.spotify.com/track/3Mizu9oMBUCm14uctRt2uL"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 321256,
-      "name": "Someone Like You - Spotify Singles",
-      "url": "https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
         "name": "Pointless Nostalgic (Remastered)",
         "url": "https://open.spotify.com/album/2XCwuAJ3pMR3Vq5IDdWzn3"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 294364,
       "name": "High And Dry - Remastered",
       "url": "https://open.spotify.com/track/4PZEQo9X77uGUU6lg3fgSn"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 321256,
+      "name": "Someone Like You - Spotify Singles",
+      "url": "https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
+        "name": "Songs: The Art of the Trio, Vol. 3",
+        "url": "https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9"
+      },
+      "artists": [
+        {
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+        }
+      ],
+      "duration_ms": 263933,
+      "name": "Exit Music",
+      "url": "https://open.spotify.com/track/73ik3a517Lz2W7eLWejapJ"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
         "name": "return to casual",
         "url": "https://open.spotify.com/album/21m26L5W8yDHtrUBtNvH3s"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 270000,
       "name": "Take on Me",
       "url": "https://open.spotify.com/track/3FZww2GzwVH3uvp0B084TX"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
-        "name": "Songs: The Art of the Trio, Vol. 3",
-        "url": "https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9"
-      },
-      "artists": [
-        {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
-        }
-      ],
-      "duration_ms": 263933,
-      "name": "Exit Music",
-      "url": "https://open.spotify.com/track/73ik3a517Lz2W7eLWejapJ"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
-      },
-      "artists": [
-        {
-          "name": "Kaiak",
-          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
-        }
-      ],
-      "duration_ms": 176720,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
         "name": "Start Again EP",
         "url": "https://open.spotify.com/album/4u4ua2KI0WX92XsIKTvKAK"
       },
@@ -623,22 +607,6 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "Farewell, Angelina",
-        "url": "https://open.spotify.com/album/17s8ImLdE2UF4syJQ4lWOJ"
-      },
-      "artists": [
-        {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
-        }
-      ],
-      "duration_ms": 342951,
-      "name": "Farewell, Angelina",
-      "url": "https://open.spotify.com/track/1ylDLEWQHFWSbqoloqL1iy"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
         "name": "Your Mother Should Know: Brad Mehldau Plays The Beatles",
         "url": "https://open.spotify.com/album/6w9YYlUOAu5gtirkVUZQFT"
       },
@@ -651,6 +619,38 @@
       "duration_ms": 138213,
       "name": "Your Mother Should Know",
       "url": "https://open.spotify.com/track/67ZAqk0egv33NmEW0OpGHt"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/71mom1riIUOTcVZLgLhcD2"
+      },
+      "artists": [
+        {
+          "name": "Kaiak",
+          "url": "https://open.spotify.com/artist/3ib0ROvqntFv8PPQ2CIlso"
+        }
+      ],
+      "duration_ms": 176720,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/1vNN2Zaps5wRToq3poqAV3"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
+        "name": "Farewell, Angelina",
+        "url": "https://open.spotify.com/album/17s8ImLdE2UF4syJQ4lWOJ"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "duration_ms": 342951,
+      "name": "Farewell, Angelina",
+      "url": "https://open.spotify.com/track/1ylDLEWQHFWSbqoloqL1iy"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -795,6 +795,26 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
+        "name": "River: The Joni Letters (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        },
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 324960,
+      "name": "River",
+      "url": "https://open.spotify.com/track/6pQ7nunBpQc5In5wBl2ZhK"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
         "name": "Stockholm Underground",
         "url": "https://open.spotify.com/album/6Q2EuXcFJk2EDWpKPsBchl"
       },
@@ -879,22 +899,6 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "Jazz Volume: Herbie Hancock",
-        "url": "https://open.spotify.com/album/3lCwfnhFxg2TRZow4x555z"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 456480,
-      "name": "A Case Of You - Short Version",
-      "url": "https://open.spotify.com/track/5Zfe0oV4iNs4kYIvdbPntt"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
         "name": "Jazz Plays The Beatles",
         "url": "https://open.spotify.com/album/0aMvDpN8TRj3BD9E703y5i"
       },
@@ -907,6 +911,22 @@
       "duration_ms": 157200,
       "name": "Can't Buy Me Love",
       "url": "https://open.spotify.com/track/6YoqJRJSjkP1NeVR26RIf3"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
+        "name": "Jazz Volume: Herbie Hancock",
+        "url": "https://open.spotify.com/album/3lCwfnhFxg2TRZow4x555z"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 456480,
+      "name": "A Case Of You - Short Version",
+      "url": "https://open.spotify.com/track/5Zfe0oV4iNs4kYIvdbPntt"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -1011,26 +1031,6 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "River: The Joni Letters (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        },
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 324960,
-      "name": "River",
-      "url": "https://open.spotify.com/track/6pQ7nunBpQc5In5wBl2ZhK"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
         "name": "Uncle John's Band",
         "url": "https://open.spotify.com/album/0cuf7NewVpKv3jZmU43mpY"
       },
@@ -1067,26 +1067,6 @@
       "duration_ms": 285719,
       "name": "Love Hurts",
       "url": "https://open.spotify.com/track/1Dq5j0rPWew23E9ut85AIX"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
-        "name": "where are we",
-        "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        },
-        {
-          "name": "Gabrielle Cavassa",
-          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
-        }
-      ],
-      "duration_ms": 320893,
-      "name": "Streets Of Philadelphia",
-      "url": "https://open.spotify.com/track/6S3bsnpvBqRRn7LfzZSchM"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -1155,6 +1135,26 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
+        "name": "where are we",
+        "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "Gabrielle Cavassa",
+          "url": "https://open.spotify.com/artist/6V9mKint0pfZjIbeFF9vQk"
+        }
+      ],
+      "duration_ms": 320893,
+      "name": "Streets Of Philadelphia",
+      "url": "https://open.spotify.com/track/6S3bsnpvBqRRn7LfzZSchM"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
         "name": "How Deep Is Your Love",
         "url": "https://open.spotify.com/album/1L5V0q7fKiBSjJjRaB9Pi2"
       },
@@ -1167,22 +1167,6 @@
       "duration_ms": 200750,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/4Y1Rp7VwswtZLyHWnXJ9bh"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
-        "name": "Bridge Over Troubled Water",
-        "url": "https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 131773,
-      "name": "Cecilia",
-      "url": "https://open.spotify.com/track/0KelVyupuOOwka66PcAmNZ"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -1203,6 +1187,22 @@
       "duration_ms": 277960,
       "name": "Heart Shaped Box",
       "url": "https://open.spotify.com/track/5i17LHqATVUzB3qJaUcNkO"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/1n2VCXsTJyQ7werjGlib7E"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 131773,
+      "name": "Cecilia",
+      "url": "https://open.spotify.com/track/0KelVyupuOOwka66PcAmNZ"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "You Should Have Told Me",
-        "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andersson",
-          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
-        }
-      ],
-      "duration_ms": 239186,
-      "name": "Blackbird",
-      "url": "https://open.spotify.com/track/616tU4nb5DfY40tHVlHkP1"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
         "name": "Everybody Loves Angels",
         "url": "https://open.spotify.com/album/2KVy7tButMpXOxtlRxeuYm"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 320460,
       "name": "Morning Has Broken",
       "url": "https://open.spotify.com/track/4BEfsQb4k8hAu4OYZ9nlHv"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
+        "name": "You Should Have Told Me",
+        "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+        }
+      ],
+      "duration_ms": 239186,
+      "name": "Blackbird",
+      "url": "https://open.spotify.com/track/616tU4nb5DfY40tHVlHkP1"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
+        "name": "Twentysomething (Special Edition)",
+        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 288546,
+      "name": "Lover, You Should Have Come Over",
+      "url": "https://open.spotify.com/track/0f6bXABu4brGJMt0bG9yPQ"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
         "name": "Still We Dream",
         "url": "https://open.spotify.com/album/0k5jjWYe4MCUgU1oX4vo9l"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 353941,
       "name": "Vincent",
       "url": "https://open.spotify.com/track/6adWVN7hPrztmftktK3zES"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
-        "name": "Twentysomething (Special Edition)",
-        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 288546,
-      "name": "Lover, You Should Have Come Over",
-      "url": "https://open.spotify.com/track/0f6bXABu4brGJMt0bG9yPQ"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "What Took You so Long",
-        "url": "https://open.spotify.com/album/7k2gMK9zmm8yxS9uqnztLt"
-      },
-      "artists": [
-        {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
-        }
-      ],
-      "duration_ms": 271922,
-      "name": "We Don\u00b4t Need Another Hero",
-      "url": "https://open.spotify.com/track/4RVQO4cSPaeek08d9cHLWt"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
         "name": "Only Love Can Break Your Heart",
         "url": "https://open.spotify.com/album/1E0PKpMCxtVth7DecWQfYk"
       },
@@ -1719,6 +1703,22 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
+        "name": "What Took You so Long",
+        "url": "https://open.spotify.com/album/7k2gMK9zmm8yxS9uqnztLt"
+      },
+      "artists": [
+        {
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
+        }
+      ],
+      "duration_ms": 271922,
+      "name": "We Don\u00b4t Need Another Hero",
+      "url": "https://open.spotify.com/track/4RVQO4cSPaeek08d9cHLWt"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
         "name": "Timeless Tales [For Changing Times]",
         "url": "https://open.spotify.com/album/0yioztetjswvCXmqn91t0s"
       },
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "Life's Love Songs",
-        "url": "https://open.spotify.com/album/0QBv4SvRec1C306sITPlTW"
-      },
-      "artists": [
-        {
-          "name": "David Hazeltine",
-          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
-        }
-      ],
-      "duration_ms": 328192,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/5DJzLPOCWoC9jlLpMBmzCg"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
         "name": "Groove Connection",
         "url": "https://open.spotify.com/album/2GLYBqXyDkl0Z7ypSn7Kub"
       },
@@ -1763,26 +1747,6 @@
       "duration_ms": 202200,
       "name": "When the Party's Over",
       "url": "https://open.spotify.com/track/00d6FpMLePJ6vNMFICyJiW"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
-        "name": "The Gallery Concerts II (Jazz Poetry)",
-        "url": "https://open.spotify.com/album/0q1erikNTQiQC5opFqeMUl"
-      },
-      "artists": [
-        {
-          "name": "Jan Lundgren",
-          "url": "https://open.spotify.com/artist/4yw84sobRr067mN2U8BNOI"
-        },
-        {
-          "name": "Hans Backenroth",
-          "url": "https://open.spotify.com/artist/7Cx4H2cfaHs3tzhqrBfwGD"
-        }
-      ],
-      "duration_ms": 303186,
-      "name": "She's Leaving Home - Live",
-      "url": "https://open.spotify.com/track/6Qtp0mQgoSIUqrP3rBQJL8"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -1811,34 +1775,38 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "I Can't Make You Love Me",
-        "url": "https://open.spotify.com/album/0K8DP9CTrhqHlRXLCfRB3a"
+        "name": "The Gallery Concerts II (Jazz Poetry)",
+        "url": "https://open.spotify.com/album/0q1erikNTQiQC5opFqeMUl"
       },
       "artists": [
         {
-          "name": "Hudson Harris & Haim",
-          "url": "https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV"
+          "name": "Jan Lundgren",
+          "url": "https://open.spotify.com/artist/4yw84sobRr067mN2U8BNOI"
+        },
+        {
+          "name": "Hans Backenroth",
+          "url": "https://open.spotify.com/artist/7Cx4H2cfaHs3tzhqrBfwGD"
         }
       ],
-      "duration_ms": 266333,
-      "name": "I Can't Make You Love Me",
-      "url": "https://open.spotify.com/track/7axFvcS9zMo6Pug8edH7VO"
+      "duration_ms": 303186,
+      "name": "She's Leaving Home - Live",
+      "url": "https://open.spotify.com/track/6Qtp0mQgoSIUqrP3rBQJL8"
     },
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "Tears in Heaven",
-        "url": "https://open.spotify.com/album/6u1Mi8E9uKOeFmW2U8bFB5"
+        "name": "Life's Love Songs",
+        "url": "https://open.spotify.com/album/0QBv4SvRec1C306sITPlTW"
       },
       "artists": [
         {
-          "name": "The Uptown Players",
-          "url": "https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2"
+          "name": "David Hazeltine",
+          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
         }
       ],
-      "duration_ms": 283000,
-      "name": "Tears in Heaven",
-      "url": "https://open.spotify.com/track/67cWGKdxLLPTwqaQz4Qlhd"
+      "duration_ms": 328192,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/5DJzLPOCWoC9jlLpMBmzCg"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -1859,6 +1827,38 @@
       "duration_ms": 226693,
       "name": "Bird On The Wire",
       "url": "https://open.spotify.com/track/62KfDHFCXyFBhv6qpGrLNt"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
+        "name": "Tears in Heaven",
+        "url": "https://open.spotify.com/album/6u1Mi8E9uKOeFmW2U8bFB5"
+      },
+      "artists": [
+        {
+          "name": "The Uptown Players",
+          "url": "https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "Tears in Heaven",
+      "url": "https://open.spotify.com/track/67cWGKdxLLPTwqaQz4Qlhd"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
+        "name": "I Can't Make You Love Me",
+        "url": "https://open.spotify.com/album/0K8DP9CTrhqHlRXLCfRB3a"
+      },
+      "artists": [
+        {
+          "name": "Hudson Harris & Haim",
+          "url": "https://open.spotify.com/artist/29EE6iBb3i7sWjsz410xbV"
+        }
+      ],
+      "duration_ms": 266333,
+      "name": "I Can't Make You Love Me",
+      "url": "https://open.spotify.com/track/7axFvcS9zMo6Pug8edH7VO"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -1967,6 +1967,30 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
+        "name": "Speak Low II",
+        "url": "https://open.spotify.com/album/0sYiRRG8rL7V23bEP6q5Nz"
+      },
+      "artists": [
+        {
+          "name": "Lucia Cadotsch",
+          "url": "https://open.spotify.com/artist/6fjIC3dxUYTL8eOzxbU1Ou"
+        },
+        {
+          "name": "Otis Sandsj\u00f6",
+          "url": "https://open.spotify.com/artist/6diHo4GRFDIubnyPcfdt44"
+        },
+        {
+          "name": "Petter Eldh",
+          "url": "https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx"
+        }
+      ],
+      "duration_ms": 318086,
+      "name": "I Think It's Going to Rain Today",
+      "url": "https://open.spotify.com/track/2udv6rli9RhcXPplmb51yL"
+    },
+    {
+      "added_at": "2023-12-20 11:21:06",
+      "album": {
         "name": "Optimistic",
         "url": "https://open.spotify.com/album/1QCP0GWc0wl0UPs2KI8Nrf"
       },
@@ -1979,22 +2003,6 @@
       "duration_ms": 369876,
       "name": "Optimistic",
       "url": "https://open.spotify.com/track/3OmhKVNesWJ2BGF7UaLx7C"
-    },
-    {
-      "added_at": "2023-12-20 11:21:06",
-      "album": {
-        "name": "Falling Grace",
-        "url": "https://open.spotify.com/album/0cZvmhCqP7PftLmvEqKpeE"
-      },
-      "artists": [
-        {
-          "name": "Charlie Ballantine",
-          "url": "https://open.spotify.com/artist/6rMP8cMZYWAAWwovLDuaVD"
-        }
-      ],
-      "duration_ms": 223373,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/04ialTCPs63fRkmNq9XbOU"
     },
     {
       "added_at": "2023-12-20 11:21:06",
@@ -2019,26 +2027,18 @@
     {
       "added_at": "2023-12-20 11:21:06",
       "album": {
-        "name": "Speak Low II",
-        "url": "https://open.spotify.com/album/0sYiRRG8rL7V23bEP6q5Nz"
+        "name": "Falling Grace",
+        "url": "https://open.spotify.com/album/0cZvmhCqP7PftLmvEqKpeE"
       },
       "artists": [
         {
-          "name": "Lucia Cadotsch",
-          "url": "https://open.spotify.com/artist/6fjIC3dxUYTL8eOzxbU1Ou"
-        },
-        {
-          "name": "Otis Sandsj\u00f6",
-          "url": "https://open.spotify.com/artist/6diHo4GRFDIubnyPcfdt44"
-        },
-        {
-          "name": "Petter Eldh",
-          "url": "https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx"
+          "name": "Charlie Ballantine",
+          "url": "https://open.spotify.com/artist/6rMP8cMZYWAAWwovLDuaVD"
         }
       ],
-      "duration_ms": 318086,
-      "name": "I Think It's Going to Rain Today",
-      "url": "https://open.spotify.com/track/2udv6rli9RhcXPplmb51yL"
+      "duration_ms": 223373,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/04ialTCPs63fRkmNq9XbOU"
     },
     {
       "added_at": "2023-12-20 11:21:06",

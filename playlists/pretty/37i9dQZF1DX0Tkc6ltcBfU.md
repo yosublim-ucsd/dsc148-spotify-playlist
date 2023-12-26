@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: BabyDrill
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,199,983 likes - 82 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,200,048 likes - 82 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 81 | [Blood Moon \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/1OaAlsbTJugFODycEgIDUj) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Blood Moon \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/4VubFdZQLlos3I0LbB3qgt) | 2:49 |
 | 82 | [SPLASH BROTHERS](https://open.spotify.com/track/7GG5ykoATKxV9MjddEEpMz) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [SPLASH BROTHERS](https://open.spotify.com/album/0vBToFmAu9CS6c24LZSQi0) | 2:20 |
 
-Snapshot ID: `MCwwZTgyMzM2NTg2NTVlN2VlOTZhZDU2ZmE0ZGNhNWQ1Y2M5YWU3Zjhk`
+Snapshot ID: `MCxiY2ZmOTVkNTdiMTU3M2JjOWEyZWQ4YTk3ZTE3MGExODM4MGE5OWY4`

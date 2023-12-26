@@ -1,12 +1,12 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 932,
+  "num_followers": 933,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjNmNTNhZmRhMmMyMDAwNzgwYmI2NjA5YjY0OTlmYzlhMWY2MjBi",
+  "snapshot_id": "MCw3M2E4ODc1YzYzY2NhMDNkZDY3ZDJiM2Q3NDIyZWNmZTAzZjYwYjRl",
   "tracks": [
     {
       "added_at": "2023-11-24 04:39:56",
@@ -363,6 +363,26 @@
     {
       "added_at": "2023-11-24 04:39:56",
       "album": {
+        "name": "King Kong",
+        "url": "https://open.spotify.com/album/42INLd6X6znuImjQc0jw2R"
+      },
+      "artists": [
+        {
+          "name": "Fik Fameica",
+          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
+        },
+        {
+          "name": "Geosteady1",
+          "url": "https://open.spotify.com/artist/2RlWVKmzxjwaq6wMR1QUNu"
+        }
+      ],
+      "duration_ms": 217704,
+      "name": "Izulu",
+      "url": "https://open.spotify.com/track/6bnLZdjBcPr02eVoQDUbRq"
+    },
+    {
+      "added_at": "2023-11-24 04:39:56",
+      "album": {
         "name": "Sibyakukayana",
         "url": "https://open.spotify.com/album/0MOxqo1SCkpJFfV8oqSX9I"
       },
@@ -391,26 +411,6 @@
       "duration_ms": 202031,
       "name": "Know God",
       "url": "https://open.spotify.com/track/6yL4ywybJ7s2jy68inQNyH"
-    },
-    {
-      "added_at": "2023-11-24 04:39:56",
-      "album": {
-        "name": "King Kong",
-        "url": "https://open.spotify.com/album/42INLd6X6znuImjQc0jw2R"
-      },
-      "artists": [
-        {
-          "name": "Fik Fameica",
-          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
-        },
-        {
-          "name": "Geosteady1",
-          "url": "https://open.spotify.com/artist/2RlWVKmzxjwaq6wMR1QUNu"
-        }
-      ],
-      "duration_ms": 217704,
-      "name": "Izulu",
-      "url": "https://open.spotify.com/track/6bnLZdjBcPr02eVoQDUbRq"
     },
     {
       "added_at": "2023-11-24 04:39:56",
@@ -455,6 +455,22 @@
     {
       "added_at": "2023-11-24 04:39:56",
       "album": {
+        "name": "Just Bu Just",
+        "url": "https://open.spotify.com/album/7bQUSh4b5fi4bYj3OXvZCM"
+      },
+      "artists": [
+        {
+          "name": "John Blaq",
+          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
+        }
+      ],
+      "duration_ms": 180618,
+      "name": "Just Bu Just",
+      "url": "https://open.spotify.com/track/6kmWdPTcbv91cTu1mxJ4z0"
+    },
+    {
+      "added_at": "2023-11-24 04:39:56",
+      "album": {
         "name": "Semi Final",
         "url": "https://open.spotify.com/album/0YRa3fnnHj4KWfamSubtl0"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 172721,
       "name": "Semi Final",
       "url": "https://open.spotify.com/track/3UqJPo5PgQTS6kdMRMnczm"
-    },
-    {
-      "added_at": "2023-11-24 04:39:56",
-      "album": {
-        "name": "Just Bu Just",
-        "url": "https://open.spotify.com/album/7bQUSh4b5fi4bYj3OXvZCM"
-      },
-      "artists": [
-        {
-          "name": "John Blaq",
-          "url": "https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl"
-        }
-      ],
-      "duration_ms": 180618,
-      "name": "Just Bu Just",
-      "url": "https://open.spotify.com/track/6kmWdPTcbv91cTu1mxJ4z0"
     },
     {
       "added_at": "2023-11-24 04:39:56",
@@ -583,6 +583,38 @@
     {
       "added_at": "2023-11-24 04:39:56",
       "album": {
+        "name": "Magazine",
+        "url": "https://open.spotify.com/album/72Ghzaks0iVwFoPloKqEB7"
+      },
+      "artists": [
+        {
+          "name": "ZEX BILANGILANGI",
+          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "Magazine",
+      "url": "https://open.spotify.com/track/76dVr5jQGCVElKmsTLVHKq"
+    },
+    {
+      "added_at": "2023-11-24 04:39:56",
+      "album": {
+        "name": "Wulira Omuziki",
+        "url": "https://open.spotify.com/album/2BZawSxeREkP2C2oQnOIrM"
+      },
+      "artists": [
+        {
+          "name": "Eezzy",
+          "url": "https://open.spotify.com/artist/1GOZbaRGN75E7D8ZFsG0DL"
+        }
+      ],
+      "duration_ms": 196205,
+      "name": "Wulira Omuziki",
+      "url": "https://open.spotify.com/track/7joY6uii0Kwl2Hf80v7S0O"
+    },
+    {
+      "added_at": "2023-11-24 04:39:56",
+      "album": {
         "name": "Gemazima",
         "url": "https://open.spotify.com/album/02QbNNia59RV4jwu00khDg"
       },
@@ -599,22 +631,6 @@
       "duration_ms": 181342,
       "name": "Gemazima",
       "url": "https://open.spotify.com/track/6ctNl82yEypzLqeeMzrTkL"
-    },
-    {
-      "added_at": "2023-11-24 04:39:56",
-      "album": {
-        "name": "Magazine",
-        "url": "https://open.spotify.com/album/72Ghzaks0iVwFoPloKqEB7"
-      },
-      "artists": [
-        {
-          "name": "ZEX BILANGILANGI",
-          "url": "https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "Magazine",
-      "url": "https://open.spotify.com/track/76dVr5jQGCVElKmsTLVHKq"
     },
     {
       "added_at": "2023-11-24 04:39:56",
@@ -639,18 +655,38 @@
     {
       "added_at": "2023-11-24 04:39:56",
       "album": {
-        "name": "Wulira Omuziki",
-        "url": "https://open.spotify.com/album/2BZawSxeREkP2C2oQnOIrM"
+        "name": "Tebali Ready",
+        "url": "https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P"
       },
       "artists": [
         {
-          "name": "Eezzy",
-          "url": "https://open.spotify.com/artist/1GOZbaRGN75E7D8ZFsG0DL"
+          "name": "A Pass",
+          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
         }
       ],
-      "duration_ms": 196205,
-      "name": "Wulira Omuziki",
-      "url": "https://open.spotify.com/track/7joY6uii0Kwl2Hf80v7S0O"
+      "duration_ms": 159853,
+      "name": "Tebali Ready",
+      "url": "https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K"
+    },
+    {
+      "added_at": "2023-11-24 04:39:56",
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/6WQ6d7T4i5fbHSH80SxnEU"
+      },
+      "artists": [
+        {
+          "name": "Arrow Bwoy",
+          "url": "https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr"
+        },
+        {
+          "name": "Jackie Chandiru",
+          "url": "https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/3o6NaD2LtlNBB3X4sJZIld"
     },
     {
       "added_at": "2023-11-24 04:39:56",
@@ -683,22 +719,6 @@
     {
       "added_at": "2023-11-24 04:39:56",
       "album": {
-        "name": "Tebali Ready",
-        "url": "https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P"
-      },
-      "artists": [
-        {
-          "name": "A Pass",
-          "url": "https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX"
-        }
-      ],
-      "duration_ms": 159853,
-      "name": "Tebali Ready",
-      "url": "https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K"
-    },
-    {
-      "added_at": "2023-11-24 04:39:56",
-      "album": {
         "name": "Pull Up On Mi Bumpa",
         "url": "https://open.spotify.com/album/7rD99RB3gdmvDFzRVs2cWc"
       },
@@ -719,6 +739,22 @@
     {
       "added_at": "2023-11-24 04:39:56",
       "album": {
+        "name": "LIFIST",
+        "url": "https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO"
+      },
+      "artists": [
+        {
+          "name": "Fik Fameica",
+          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
+        }
+      ],
+      "duration_ms": 214729,
+      "name": "LIFIST",
+      "url": "https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m"
+    },
+    {
+      "added_at": "2023-11-24 04:39:56",
+      "album": {
         "name": "Feel Me",
         "url": "https://open.spotify.com/album/5UclCEq9PPTybmhQt1aX2R"
       },
@@ -735,42 +771,6 @@
       "duration_ms": 196963,
       "name": "Gyal A Bubble",
       "url": "https://open.spotify.com/track/1gi6SX3ZHw1IMEtPCL6iwj"
-    },
-    {
-      "added_at": "2023-11-24 04:39:56",
-      "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/6WQ6d7T4i5fbHSH80SxnEU"
-      },
-      "artists": [
-        {
-          "name": "Arrow Bwoy",
-          "url": "https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr"
-        },
-        {
-          "name": "Jackie Chandiru",
-          "url": "https://open.spotify.com/artist/19ohhn6md2jhETKCBmecaJ"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/3o6NaD2LtlNBB3X4sJZIld"
-    },
-    {
-      "added_at": "2023-11-24 04:39:56",
-      "album": {
-        "name": "LIFIST",
-        "url": "https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO"
-      },
-      "artists": [
-        {
-          "name": "Fik Fameica",
-          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
-        }
-      ],
-      "duration_ms": 214729,
-      "name": "LIFIST",
-      "url": "https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m"
     },
     {
       "added_at": "2023-11-24 04:39:56",
@@ -895,26 +895,6 @@
     {
       "added_at": "2023-11-24 04:39:56",
       "album": {
-        "name": "Bwonjagala",
-        "url": "https://open.spotify.com/album/6YZJxiQl1xFwi8Wgu0Dg3Q"
-      },
-      "artists": [
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        },
-        {
-          "name": "Fille",
-          "url": "https://open.spotify.com/artist/5SqLkoaEA3HOgPkesCQkKx"
-        }
-      ],
-      "duration_ms": 178834,
-      "name": "Bwonjagala",
-      "url": "https://open.spotify.com/track/0lEioGELKR2846vLXkzvUM"
-    },
-    {
-      "added_at": "2023-11-24 04:39:56",
-      "album": {
         "name": "Stupid",
         "url": "https://open.spotify.com/album/0dNQmVpyFpFjazSiMwyvpW"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 184400,
       "name": "Bikole",
       "url": "https://open.spotify.com/track/3iE5GT16HzXgZLlyVz9NKn"
+    },
+    {
+      "added_at": "2023-11-24 04:39:56",
+      "album": {
+        "name": "Bwonjagala",
+        "url": "https://open.spotify.com/album/6YZJxiQl1xFwi8Wgu0Dg3Q"
+      },
+      "artists": [
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Fille",
+          "url": "https://open.spotify.com/artist/5SqLkoaEA3HOgPkesCQkKx"
+        }
+      ],
+      "duration_ms": 178834,
+      "name": "Bwonjagala",
+      "url": "https://open.spotify.com/track/0lEioGELKR2846vLXkzvUM"
     }
   ],
   "unique_name": "Kidandali Parte",

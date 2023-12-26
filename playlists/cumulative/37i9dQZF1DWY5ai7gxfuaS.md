@@ -4,11 +4,11 @@
 
 > The future of metal is here.
 
-200 songs - 13 hr 33 min
+201 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [80486DX](https://open.spotify.com/track/42K6S2MOIYrtqaTpCNcqHU) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [80486DX](https://open.spotify.com/album/7KEr4XNYaRFzpF0qjVr72f) | 4:32 | 2022-03-10 |  |
+| [80486DX](https://open.spotify.com/track/42K6S2MOIYrtqaTpCNcqHU) | [MASTER BOOT RECORD](https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE) | [80486DX](https://open.spotify.com/album/7KEr4XNYaRFzpF0qjVr72f) | 4:32 | 2022-03-10 | 2023-12-26 |
 | [A Bellyful of Salt and Spleen](https://open.spotify.com/track/0MNI4YG8dQ82tRR2St6q6V) | [Napalm Death](https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt) | [A Bellyful of Salt and Spleen](https://open.spotify.com/album/4MuT9lqZBCN7JSDEKuzEOP) | 4:36 | 2021-12-20 | 2022-07-29 |
 | [A Bellyful of Salt and Spleen](https://open.spotify.com/track/2lKPQGRL2KyIqfEYQyzeGc) | [Napalm Death](https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt) | [A Bellyful of Salt and Spleen](https://open.spotify.com/album/7tyS8cEiRHj1i3HmvvUszv) | 4:36 | 2022-09-29 | 2022-11-13 |
 | [A Bellyful of Salt and Spleen](https://open.spotify.com/track/7pFdW0mdlfHPXAmQIPtQzL) | [Napalm Death](https://open.spotify.com/artist/3UqRgrDIQ208yNGiWKRMNt) | [Throes of Joy in the Jaws of Defeatism \(Bonus Tracks Version\)](https://open.spotify.com/album/4O3oSTv5mauxfXPdMRrayQ) | 4:36 | 2022-07-26 | 2022-11-19 |
@@ -142,6 +142,7 @@
 | [open water](https://open.spotify.com/track/592JTl3UlQvZyBd2329Sgf) | [rouri404](https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa) | [open water](https://open.spotify.com/album/1zmVVYStJqZZWxcsjfb9uT) | 2:06 | 2022-03-03 | 2023-03-03 |
 | [Oportunista](https://open.spotify.com/track/5j6GKJumEweQIpE91QZcby) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Oportunista](https://open.spotify.com/album/0bcLhYRcisUhImKFtAxxEh) | 3:08 | 2023-12-07 |  |
 | [Paranoid \(Crash & Burn\)](https://open.spotify.com/track/0BeWU3xxG2plP1lhphj660) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Paranoid \(Crash & Burn\)](https://open.spotify.com/album/4oLteDk1bawqdQuWd7K1iF) | 3:55 | 2022-09-29 | 2023-12-24 |
+| [Paranoid \(Crash & Burn\)](https://open.spotify.com/track/1Q1SYwGXe7dFtcTgkgblwF) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Skeletons](https://open.spotify.com/album/53Qn747V1G16yJvN363RZA) | 3:55 | 2023-12-07 |  |
 | [Picasso On The Concrete](https://open.spotify.com/track/1yX9O68lZmHJbAsh8ssT0P) | [Waynewood](https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ) | [Picasso On The Concrete](https://open.spotify.com/album/7GqTkba3uHaXJuTAe90teM) | 3:10 | 2021-12-20 |  |
 | [Pink Rover](https://open.spotify.com/track/5oqVAub4vyUVoxHXZSP7LR) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Pink Rover](https://open.spotify.com/album/6S0LmXm7aFz2dfDJVN1WXq) | 1:58 | 2022-03-03 | 2022-07-29 |
 | [Pink Rover](https://open.spotify.com/track/6xeMsEEUC7lhZc9xLty606) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 1:58 | 2022-07-26 |  |

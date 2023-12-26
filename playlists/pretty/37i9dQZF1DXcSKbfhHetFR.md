@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 
 > On a pas pu appeler ça Québec Shiny Tunes\. Photo: EXTERIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,687 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,690 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,13 +32,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 22 | [Le métronome](https://open.spotify.com/track/1OHIM375HBlr88fQwi0CJK) | [Malajube](https://open.spotify.com/artist/5yLzPjejoWM3eiYNoejATm) | [Le compte complet](https://open.spotify.com/album/19QK4vgoI5NeY8ISWWcSCN) | 2:43 |
 | 23 | [Je suis partie](https://open.spotify.com/track/0l90WIAkOhMlPSEvqX0YGV) | [Anik Jean](https://open.spotify.com/artist/6IHeGZkZLc9DQ4INpVyDpa) | [Le Trashy Saloon](https://open.spotify.com/album/0MO9BtyFSmkm4557C9GGd3) | 3:21 |
 | 24 | [Feels](https://open.spotify.com/track/5UXvP6HfVvp72T6aMewEyE) | [Lili Fatale](https://open.spotify.com/artist/5PxrSckQSUPA6mmzABlOlW) | [Lili Fatale](https://open.spotify.com/album/73JUXLTfuvlSsSLYUhRmBv) | 4:04 |
-| 25 | [Grossiere indécence](https://open.spotify.com/track/12JP4JwMtAIi5LBo2OGy1M) | [Les Pistolets Roses](https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj) | [Sans foi ni loi](https://open.spotify.com/album/2DJmbN6Nz2vKHUrcVeoPm9) | 2:56 |
-| 26 | [Sheila, ch'us là](https://open.spotify.com/track/73JkbiHMyyvGWgtpNvD1NB) | [Loco Locass](https://open.spotify.com/artist/27n0OqRGBxVZWoQMkf3QHD) | [Manifestif](https://open.spotify.com/album/0Nq5kr6yBG63Gu4ATEXjn4) | 4:33 |
-| 27 | [Decoller \- Remix](https://open.spotify.com/track/6799cdhvfJ3e2btTOIBc97) | [See Spot Run](https://open.spotify.com/artist/6ZBtfiNY3e5y00QjZEHBEI) | [Super\-héros sous peu](https://open.spotify.com/album/2snDIoG1WayOkhPJclnVyo) | 3:52 |
-| 28 | [J'pourrais pas vivre avec toi](https://open.spotify.com/track/7avXxd2QUIQvMdD5NKD1e7) | [Les Breastfeeders](https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i) | [Déjeuner sur l'herbe](https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4) | 3:12 |
+| 25 | [Sheila, ch'us là](https://open.spotify.com/track/73JkbiHMyyvGWgtpNvD1NB) | [Loco Locass](https://open.spotify.com/artist/27n0OqRGBxVZWoQMkf3QHD) | [Manifestif](https://open.spotify.com/album/0Nq5kr6yBG63Gu4ATEXjn4) | 4:33 |
+| 26 | [Decoller \- Remix](https://open.spotify.com/track/6799cdhvfJ3e2btTOIBc97) | [See Spot Run](https://open.spotify.com/artist/6ZBtfiNY3e5y00QjZEHBEI) | [Super\-héros sous peu](https://open.spotify.com/album/2snDIoG1WayOkhPJclnVyo) | 3:52 |
+| 27 | [J'pourrais pas vivre avec toi](https://open.spotify.com/track/7avXxd2QUIQvMdD5NKD1e7) | [Les Breastfeeders](https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i) | [Déjeuner sur l'herbe](https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4) | 3:12 |
+| 28 | [Grossiere indécence](https://open.spotify.com/track/12JP4JwMtAIi5LBo2OGy1M) | [Les Pistolets Roses](https://open.spotify.com/artist/375krjLXVD5sy9AFZ7PqLj) | [Sans foi ni loi](https://open.spotify.com/album/2DJmbN6Nz2vKHUrcVeoPm9) | 2:56 |
 | 29 | [Si exceptionnel](https://open.spotify.com/track/4rDhLzmzPz4aAJ1hs4HOlW) | [Andrée Watters](https://open.spotify.com/artist/69C2IK3ervhiGEvbp6ss7H) | [AW](https://open.spotify.com/album/658WdTob3JXKse2edU1PiH) | 3:49 |
-| 30 | [Cité rock suicide](https://open.spotify.com/track/33uRR6cRTA5lThfinZS7qi) | [Arseniq33](https://open.spotify.com/artist/6MtltOBHPG1r8zMxj66GVU) | [Courtepointes](https://open.spotify.com/album/0hTNisUe7OyMi7MMiNAaM5) | 3:04 |
-| 31 | [Tu ne peux pas partir](https://open.spotify.com/track/10rmSGVJFAkR3bBFLKKvIt) | [Cafeine](https://open.spotify.com/artist/0Ejf1nVc9FUIfi4czaMwwy) | [Mal éduqué mon amour](https://open.spotify.com/album/6lm22jTtAq2XSWcX4KuR1u) | 3:23 |
+| 30 | [Tu ne peux pas partir](https://open.spotify.com/track/10rmSGVJFAkR3bBFLKKvIt) | [Cafeine](https://open.spotify.com/artist/0Ejf1nVc9FUIfi4czaMwwy) | [Mal éduqué mon amour](https://open.spotify.com/album/6lm22jTtAq2XSWcX4KuR1u) | 3:23 |
+| 31 | [Cité rock suicide](https://open.spotify.com/track/33uRR6cRTA5lThfinZS7qi) | [Arseniq33](https://open.spotify.com/artist/6MtltOBHPG1r8zMxj66GVU) | [Courtepointes](https://open.spotify.com/album/0hTNisUe7OyMi7MMiNAaM5) | 3:04 |
 | 32 | [Gwen et les rats](https://open.spotify.com/track/6ORsvmXbP6CBmgeW3A4R4a) | [Gwenwed](https://open.spotify.com/artist/0HFirn5VruMovsRmFX02hT) | [l'amour la haine les animaux les automobiles](https://open.spotify.com/album/66yrRtNfB3gUhSLebR1dlW) | 3:08 |
 | 33 | [Big Bang](https://open.spotify.com/track/0c8BkL4udr8Q3UN2rHLkUS) | [Galaxie](https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa) | [Le temps au point mort](https://open.spotify.com/album/3Gl5kyHaBRlOtbkbZdrDfU) | 3:20 |
 | 34 | [Ma dope à moi](https://open.spotify.com/track/7q88dRmLZvQQ09h7y1nJNc) | [Yann Perreau](https://open.spotify.com/artist/0Fk3xExGqwbRwLyWUjUl8V) | [Western Romance](https://open.spotify.com/album/2P8tQ3QlI9OYD8SPdLFYYX) | 3:28 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 38 | [Fuck'n'shit baby love!](https://open.spotify.com/track/4g93mKyhPoyteuASIPB5Fx) | [Le Karlof Orchestra](https://open.spotify.com/artist/7KntwuIhLLYTksaejy4b7z) | [Fuck'n'shit baby love!](https://open.spotify.com/album/4K8ZHTSgSH3IX56pKOod5i) | 2:07 |
 | 39 | [Joyeus'ment désespéré](https://open.spotify.com/track/6Y7D4JU5zPAtrPgyNI6AMA) | [La Chango Family](https://open.spotify.com/artist/5jiNoz1XkdCC2INXqHKQN8) | [La Chango Family](https://open.spotify.com/album/666d4EG1BDpC8s1kIVhbVd) | 3:26 |
 | 40 | [Mystère aérosol](https://open.spotify.com/track/6PAQjoHbLD66euzaEkahDu) | [Projet Orange](https://open.spotify.com/artist/3XHkd4Nmrha9giC22Sg8NF) | [Projet Orange](https://open.spotify.com/album/0PY4TVw3EvxEBcj37cLuEM) | 3:56 |
-| 41 | [Thermoplastique](https://open.spotify.com/track/6JjlCErZUO79Ra0yqDL4pH) | [Les Secrétaires Volantes](https://open.spotify.com/artist/0PsC8oRbzhv4qBwvxXsDjF) | [Thermoplastique](https://open.spotify.com/album/2vLUguDFIoI1xVLvaRJhSc) | 2:53 |
-| 42 | [Dans les airs](https://open.spotify.com/track/1owMekL4FP43xxlLpUSk7I) | [Vénus 3](https://open.spotify.com/artist/3tpM1Cxh88vORchHhDZmIU) | [Sur quelle planète](https://open.spotify.com/album/73i0S5bK1UMFP8zPpKAfNB) | 5:23 |
+| 41 | [Dans les airs](https://open.spotify.com/track/1owMekL4FP43xxlLpUSk7I) | [Vénus 3](https://open.spotify.com/artist/3tpM1Cxh88vORchHhDZmIU) | [Sur quelle planète](https://open.spotify.com/album/73i0S5bK1UMFP8zPpKAfNB) | 5:23 |
+| 42 | [Thermoplastique](https://open.spotify.com/track/6JjlCErZUO79Ra0yqDL4pH) | [Les Secrétaires Volantes](https://open.spotify.com/artist/0PsC8oRbzhv4qBwvxXsDjF) | [Thermoplastique](https://open.spotify.com/album/2vLUguDFIoI1xVLvaRJhSc) | 2:53 |
 | 43 | [Je suis down](https://open.spotify.com/track/0VV4s8JLIOrN2GCBdV6lDL) | [Rita\-Rita](https://open.spotify.com/artist/4DwJbmadQKIU9IXTGBLhse) | [Rita\-Rita](https://open.spotify.com/album/5qSOmPrjjKPs5HGuPH6BHj) | 3:15 |
-| 44 | [Mini\-jupe et watusi](https://open.spotify.com/track/6eyRjrYUNw940SWrgA6SGb) | [Les Breastfeeders](https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i) | [Déjeuner sur l'herbe](https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4) | 1:57 |
-| 45 | [Poney](https://open.spotify.com/track/33RI5afAIREvsm0lJ5j7Jh) | [Pépé et sa guitare](https://open.spotify.com/artist/49fBZHMEYaw2OCJFo7saeV) | [100% boeuf](https://open.spotify.com/album/5M8Bc31hdIJD3sVp5b62bG) | 4:11 |
-| 46 | [Vénus du Mile\-End](https://open.spotify.com/track/5PAghngOh4fop5NV4hhJSp) | [Les Chiens](https://open.spotify.com/artist/3RhGeas8gUsn6bmPpZYYFe) | [La nuit dérobée](https://open.spotify.com/album/4XocEI6NWTsZtY1eJMhjmz) | 5:08 |
-| 47 | [Une araignée au plafond](https://open.spotify.com/track/0JNSKKRtaxBl8WKMdE148h) | [coma](https://open.spotify.com/artist/0HKMEtAro0rnwsLOr6wzEC) | [Coma](https://open.spotify.com/album/1UZHRqAz33EWEkCBcUh1QQ) | 3:39 |
+| 44 | [Poney](https://open.spotify.com/track/33RI5afAIREvsm0lJ5j7Jh) | [Pépé et sa guitare](https://open.spotify.com/artist/49fBZHMEYaw2OCJFo7saeV) | [100% boeuf](https://open.spotify.com/album/5M8Bc31hdIJD3sVp5b62bG) | 4:11 |
+| 45 | [Mini\-jupe et watusi](https://open.spotify.com/track/6eyRjrYUNw940SWrgA6SGb) | [Les Breastfeeders](https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i) | [Déjeuner sur l'herbe](https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4) | 1:57 |
+| 46 | [Une araignée au plafond](https://open.spotify.com/track/0JNSKKRtaxBl8WKMdE148h) | [coma](https://open.spotify.com/artist/0HKMEtAro0rnwsLOr6wzEC) | [Coma](https://open.spotify.com/album/1UZHRqAz33EWEkCBcUh1QQ) | 3:39 |
+| 47 | [Vénus du Mile\-End](https://open.spotify.com/track/5PAghngOh4fop5NV4hhJSp) | [Les Chiens](https://open.spotify.com/artist/3RhGeas8gUsn6bmPpZYYFe) | [La nuit dérobée](https://open.spotify.com/album/4XocEI6NWTsZtY1eJMhjmz) | 5:08 |
 | 48 | [Le teint de Linda](https://open.spotify.com/track/5sBVNfzLTEZqp5bRKWfGgS) | [Mara Tremblay](https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3) | [Le Chihuahua](https://open.spotify.com/album/0Z7wImynM6zuAh9L7sfEFe) | 4:39 |
 | 49 | [La chèvre](https://open.spotify.com/track/2Nvculpts84TZr7VlUNwMi) | [Band de Garage](https://open.spotify.com/artist/30faJrJ4VEfodwMTLEHeqa) | [Corpo\-Trash\-Vidange](https://open.spotify.com/album/2YPx6Dndpg7rxy6xwck48d) | 2:55 |
 | 50 | [Alinéa](https://open.spotify.com/track/22lo0iW3QMBCTyVm1BnsWt) | [El Motor](https://open.spotify.com/artist/4NIlqFEWcoMo6rfATI1FRQ) | [El Motor](https://open.spotify.com/album/6IbcIVV1tB5vboWRJSe3ef) | 4:31 |
 
-Snapshot ID: `MCw3M2QwMjZhOGQ3YzNjOTVhNTYwMWIwOTllMGQ3NTY0ZDljMDQwMzdj`
+Snapshot ID: `MCxjZTU3NmE3MzNhYzQ3MDUzYTg2ZDEzZGE4Y2E0ZDc3ZTUzNjNkNzk2`

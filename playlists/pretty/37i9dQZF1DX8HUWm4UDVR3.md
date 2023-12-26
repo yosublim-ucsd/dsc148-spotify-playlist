@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 
 > La pop française annonce la couleur\. Photo : Anaïs MVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,305 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,314 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HUWm4UDVR3.md) - [plain]
 | 49 | [De passage](https://open.spotify.com/track/4a0upuCaLwcfL7TBYAGfGu) | [Jeanne Bonjour](https://open.spotify.com/artist/69RTXNHpm2vfbE6xBVuC4u) | [De passage](https://open.spotify.com/album/7qUUnF1DQdPRJhIeoWd3XB) | 3:06 |
 | 50 | [Ouragan](https://open.spotify.com/track/4uB57FLLnkytm3Hoc8KRtT) | [Mattyeux](https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Ouragan](https://open.spotify.com/album/3iJHdURPYUgJsWMFZfW4uz) | 2:28 |
 
-Snapshot ID: `MCw1YzEzMzhlODdmODFmYzgyMTFkZDllNGU0MWVjMWRmMjM3NzlkOGYz`
+Snapshot ID: `MCwwZTFlODQxNGNmNGFkYmUwOGFiNWI4NWIwNTZmZmM0OTg0Yjc5ZmMy`

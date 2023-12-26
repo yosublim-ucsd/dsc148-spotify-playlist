@@ -1,12 +1,12 @@
 {
   "description": "The whole family will enjoy popular hits from yesterday and today!",
-  "num_followers": 471044,
+  "num_followers": 471096,
   "original_name": "Pop for Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMmQyYjY2ZTcwMzlmNjBhYjM2NmVkNDg3M2Q3OTg3M2VlMmZjMWE5",
+  "snapshot_id": "MCxhOWY3ZGM3NzAzYjE3Zjg1Y2JlNzBhMTg2OTlhM2UwZTI3MTE4NWNk",
   "tracks": [
     {
       "added_at": "2023-11-07 00:58:58",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-11-07 00:58:58",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "traitor",
-      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
-    },
-    {
-      "added_at": "2023-11-07 00:58:58",
-      "album": {
         "name": "Evolve",
         "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 187146,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB"
+    },
+    {
+      "added_at": "2023-11-07 00:58:58",
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "traitor",
+      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
     },
     {
       "added_at": "2023-11-07 00:58:58",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-11-07 00:58:58",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 187436,
-      "name": "Sweet but Psycho",
-      "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
-    },
-    {
-      "added_at": "2023-11-07 00:58:58",
-      "album": {
         "name": "Purpose (Deluxe)",
         "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 200786,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/09CtPGIpYB4BrO8qb1RGsF"
+    },
+    {
+      "added_at": "2023-11-07 00:58:58",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 187436,
+      "name": "Sweet but Psycho",
+      "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
     },
     {
       "added_at": "2023-11-07 00:58:58",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-11-07 00:58:58",
       "album": {
-        "name": "Better When I'm Dancin'",
-        "url": "https://open.spotify.com/album/6C2AXbI5gZZ0eEFEQY83yH"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 176266,
-      "name": "Better When I'm Dancin'",
-      "url": "https://open.spotify.com/track/5k5fWendNngd89O8JKoE8L"
-    },
-    {
-      "added_at": "2023-11-07 00:58:58",
-      "album": {
         "name": "Nothing Was The Same",
         "url": "https://open.spotify.com/album/1XslIirSxfAhhxRdn4Li9t"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 227880,
       "name": "Hold On, We're Going Home",
       "url": "https://open.spotify.com/track/2aSC2xhRxOLiiZZVjhbylH"
+    },
+    {
+      "added_at": "2023-11-07 00:58:58",
+      "album": {
+        "name": "Better When I'm Dancin'",
+        "url": "https://open.spotify.com/album/6C2AXbI5gZZ0eEFEQY83yH"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 176266,
+      "name": "Better When I'm Dancin'",
+      "url": "https://open.spotify.com/track/5k5fWendNngd89O8JKoE8L"
     },
     {
       "added_at": "2023-11-07 00:58:58",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-11-07 00:58:58",
       "album": {
-        "name": "Don't Go Yet",
-        "url": "https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 164842,
-      "name": "Don't Go Yet",
-      "url": "https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad"
-    },
-    {
-      "added_at": "2023-11-07 00:58:58",
-      "album": {
         "name": "Zootopia (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3X6netsswLt0U97Doga56C"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 196853,
       "name": "Try Everything",
       "url": "https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ"
+    },
+    {
+      "added_at": "2023-11-07 00:58:58",
+      "album": {
+        "name": "Don't Go Yet",
+        "url": "https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 164842,
+      "name": "Don't Go Yet",
+      "url": "https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad"
     },
     {
       "added_at": "2023-11-07 00:58:58",

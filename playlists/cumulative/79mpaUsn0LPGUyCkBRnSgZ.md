@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-383 songs - 1 day 0 hr 59 min
+385 songs - 1 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [People of the Sun](https://open.spotify.com/track/3QjQp2bfAvLTCSi8Zhzqis) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Evil Empire](https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF) | 2:30 | 2022-11-24 |  |
 | [Perth](https://open.spotify.com/track/5sYAPWzsEk8pd1OFhcQ67T) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 4:22 | 2022-03-30 |  |
 | [Pig](https://open.spotify.com/track/0ANh6qtHQwgemPpaylC5Ae) | [TTNG](https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0) | [Animals](https://open.spotify.com/album/6gl4ylXxmNMpOxBImNe9n3) | 3:48 | 2023-03-06 |  |
+| [Pin It Down](https://open.spotify.com/track/4G0cKJupBY79cAoYDihZwI) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 4:06 | 2023-12-25 |  |
 | [pink diamond](https://open.spotify.com/track/3V0PgcsUMlAGXwCD0084pY) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:04 | 2023-02-24 | 2023-12-14 |
 | [Pink Moon](https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 2:04 | 2023-12-04 |  |
 | [Plainsong \- 2010 Remaster](https://open.spotify.com/track/7MkWXuDcqo09FmVut8Ugkl) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(2010 Remaster\)](https://open.spotify.com/album/0A13JySVHzBoRZFk2o89Wl) | 5:17 | 2023-11-30 |  |
@@ -284,7 +285,7 @@
 | [Revelator](https://open.spotify.com/track/4Ui86NRu1aoBGRUJyPusp6) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Time \(The Revelator\)](https://open.spotify.com/album/55FP2ypQcghszSqylyBRbp) | 6:22 | 2023-09-24 |  |
 | [Rid Of Me](https://open.spotify.com/track/3m2Zd230K68bC4Qe961d9p) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 4:28 | 2023-01-12 |  |
 | [Rise](https://open.spotify.com/track/688iitLNSV6Iik1QESqvth) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [A Seat at the Table](https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM) | 1:41 | 2022-06-24 |  |
-| [Robert](https://open.spotify.com/track/2e8lfpyLA5OBzZqdcMEuIN) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k), [Injury Reserve](https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73) | [Wicked City](https://open.spotify.com/album/6E2VHYLPTtFOtdRcpt6YwP) | 3:29 | 2023-12-15 |  |
+| [Robert](https://open.spotify.com/track/2e8lfpyLA5OBzZqdcMEuIN) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k), [Injury Reserve](https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73) | [Wicked City](https://open.spotify.com/album/6E2VHYLPTtFOtdRcpt6YwP) | 3:29 | 2023-12-15 | 2023-12-26 |
 | [Rock And Sing](https://open.spotify.com/track/5kfH55pli3gCkprV3OJerd) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Two Hands](https://open.spotify.com/album/5pp7px9MITK2MqeFVbRWGo) | 2:03 | 2022-02-19 | 2023-12-14 |
 | [Roman Candle](https://open.spotify.com/track/3zUkBorysSm42GV4akxnoB) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Roman Candle](https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck) | 3:36 | 2023-09-29 |  |
 | [Romeo](https://open.spotify.com/track/0v7pt4A8PaXB95rwaNm1er) | [Xenia Rubinos](https://open.spotify.com/artist/17UUkxLWmRP5P47W5kwVVb) | [Black Terry Cat](https://open.spotify.com/album/7hpaJ75FV7MYcKER1px2Uv) | 0:23 | 2022-12-31 |  |
@@ -362,6 +363,7 @@
 | [Tiny Little Bows](https://open.spotify.com/track/7GZh8jsIqDIVat6dY45uGw) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Kiss \(Deluxe\)](https://open.spotify.com/album/29blfJv8AddJrjuG3DpE13) | 3:21 | 2023-10-18 |  |
 | [TRACK UNO](https://open.spotify.com/track/05gZLyOQphrQN86Jn2urCP) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 5:44 | 2023-05-19 |  |
 | [Turkish Cotton](https://open.spotify.com/track/31rbQLmAii7Ah0XeRpbXo0) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [The Great Escape](https://open.spotify.com/album/1AJrpzYu5KAbDSvmyiIUhr) | 2:46 | 2023-04-25 |  |
+| [Twin Plagues](https://open.spotify.com/track/5OeHMVPyqAyfAkeZm9MwSI) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Twin Plagues](https://open.spotify.com/album/00rOqMAZR9zHdtRP5KQ64H) | 4:08 | 2023-12-25 |  |
 | [Under The Pressure](https://open.spotify.com/track/5j58jhAFzAy0keSuQYsQBn) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz) | 8:52 | 2022-01-11 |  |
 | [Under The Sun \(with J\. Cole & Lute feat\. DaBaby\)](https://open.spotify.com/track/6MF4tRr5lU8qok8IKaFOBE) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Lute](https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Revenge Of The Dreamers III](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI) | 3:22 | 2023-04-24 |  |
 | [Untitled](https://open.spotify.com/track/2Ndz0uCpTqsDvJtARKTDpS) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1CI5OW60s9W41YLI80Jjdr) | 0:46 | 2022-12-18 |  |
@@ -369,7 +371,7 @@
 | [Wakin On A Pretty Day](https://open.spotify.com/track/4cCoZML1dPIQxNjOwDmJGf) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Wakin On A Pretty Daze](https://open.spotify.com/album/3BSEZLnzVW6QEX12wcKdFi) | 9:30 | 2023-01-11 |  |
 | [Waking Up](https://open.spotify.com/track/6d5KjyeBSbzh6bbczubWko) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Bonito Generation](https://open.spotify.com/album/0dAMC0nNikIjhD8LeRZfhH) | 2:57 | 2023-05-18 | 2023-05-27 |
 | [Walkman](https://open.spotify.com/track/0TpwCkpINVSDS4m4M1lf6T) | [Bad Bad Hats](https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6) | [Walkman](https://open.spotify.com/album/7vKrTMcGMKov7yAsB9rvhY) | 2:57 | 2023-06-01 | 2023-06-02 |
-| [Want You Back](https://open.spotify.com/track/2wXhdaTnmkkFSOidKfnOxA) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Something to Tell You](https://open.spotify.com/album/5m9rXTBF7mHFGQlFsiEHrY) | 3:52 | 2023-12-13 |  |
+| [Want You Back](https://open.spotify.com/track/2wXhdaTnmkkFSOidKfnOxA) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Something to Tell You](https://open.spotify.com/album/5m9rXTBF7mHFGQlFsiEHrY) | 3:52 | 2023-12-13 | 2023-12-26 |
 | [Washed Away](https://open.spotify.com/track/1o6heh4aefLv3GJYjtfLa6) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 3:36 | 2023-11-30 |  |
 | [We Got It For Cheap \(Intro\)](https://open.spotify.com/track/3YKR7Wglf9JvWg5O7xdA5g) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Hell Hath No Fury](https://open.spotify.com/album/1HftQWyKWoGsrmG5lRkJDE) | 3:41 | 2022-04-29 |  |
 | [Welcome to \(Drifter\)](https://open.spotify.com/track/5ZjaSKUMpSaXVwwFJrGL4O) | [Mouseatouille](https://open.spotify.com/artist/1RCFAywt6h42PGjgTOBNfa) | [Out of the Hospital and Into the Morgue](https://open.spotify.com/album/5HiftUDco0SH7jJmTFCvGm) | 2:04 | 2023-05-13 | 2023-05-15 |

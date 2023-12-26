@@ -1,12 +1,12 @@
 {
   "description": "We're celebrating the 20th anniversary of Sara Evan's hit album \"Restless\" on 2000s Country!",
-  "num_followers": 765493,
+  "num_followers": 765659,
   "original_name": "2000s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NmI2ZTRiNWVkYzFjOTgzYjNlODk2MTA0ZmM1YmJhNTY1ODNiYTkx",
+  "snapshot_id": "MCwzYWM3MTI1YzIwZjI2MzYzNjhhMGY2Yjk5YTQyNTQxOWZhMDYzYTBh",
   "tracks": [
     {
       "added_at": "2023-08-31 16:00:13",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-08-31 16:00:13",
       "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 277573,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK"
-    },
-    {
-      "added_at": "2023-08-31 16:00:13",
-      "album": {
         "name": "The Foundation",
         "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 262773,
       "name": "Toes",
       "url": "https://open.spotify.com/track/4S518ci8UY4op0Xyp6Hx6o"
+    },
+    {
+      "added_at": "2023-08-31 16:00:13",
+      "album": {
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 277573,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/11EX5yhxr9Ihl3IN1asrfK"
     },
     {
       "added_at": "2023-08-31 16:00:13",
@@ -463,22 +463,18 @@
     {
       "added_at": "2023-08-31 16:00:13",
       "album": {
-        "name": "Cocky",
-        "url": "https://open.spotify.com/album/64du8CiAmKAzVswhA3RK4r"
+        "name": "Feels Like Today",
+        "url": "https://open.spotify.com/album/5NH87jdrVjOHt8gDMHT1Wy"
       },
       "artists": [
         {
-          "name": "Kid Rock",
-          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
-        },
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
         }
       ],
-      "duration_ms": 298960,
-      "name": "Picture (feat. Sheryl Crow)",
-      "url": "https://open.spotify.com/track/69j0KoPJuwpnbGWrfn7Yll"
+      "duration_ms": 226680,
+      "name": "Bless The Broken Road",
+      "url": "https://open.spotify.com/track/4YjjNHtEsTX6Af4mCTupT5"
     },
     {
       "added_at": "2023-08-31 16:00:13",
@@ -515,18 +511,22 @@
     {
       "added_at": "2023-08-31 16:00:13",
       "album": {
-        "name": "Feels Like Today",
-        "url": "https://open.spotify.com/album/5NH87jdrVjOHt8gDMHT1Wy"
+        "name": "Cocky",
+        "url": "https://open.spotify.com/album/64du8CiAmKAzVswhA3RK4r"
       },
       "artists": [
         {
-          "name": "Rascal Flatts",
-          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+          "name": "Kid Rock",
+          "url": "https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM"
+        },
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
         }
       ],
-      "duration_ms": 226680,
-      "name": "Bless The Broken Road",
-      "url": "https://open.spotify.com/track/4YjjNHtEsTX6Af4mCTupT5"
+      "duration_ms": 298960,
+      "name": "Picture (feat. Sheryl Crow)",
+      "url": "https://open.spotify.com/track/69j0KoPJuwpnbGWrfn7Yll"
     },
     {
       "added_at": "2023-08-31 16:00:13",
@@ -547,18 +547,18 @@
     {
       "added_at": "2023-08-31 16:00:13",
       "album": {
-        "name": "Unleashed",
-        "url": "https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY"
+        "name": "III",
+        "url": "https://open.spotify.com/album/0fuGd7HQHt8xUoJKEuWAFl"
       },
       "artists": [
         {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+          "name": "Joe Nichols",
+          "url": "https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc"
         }
       ],
-      "duration_ms": 195533,
-      "name": "Courtesy Of The Red, White And Blue (The Angry American)",
-      "url": "https://open.spotify.com/track/0M7mWKqwTIaVjYyxfZmtTa"
+      "duration_ms": 187053,
+      "name": "Tequila Makes Her Clothes Fall Off",
+      "url": "https://open.spotify.com/track/6IC6VhpV7D8T1t037Atqpu"
     },
     {
       "added_at": "2023-08-31 16:00:13",
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-08-31 16:00:13",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/0fuGd7HQHt8xUoJKEuWAFl"
+        "name": "Unleashed",
+        "url": "https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY"
       },
       "artists": [
         {
-          "name": "Joe Nichols",
-          "url": "https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc"
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 187053,
-      "name": "Tequila Makes Her Clothes Fall Off",
-      "url": "https://open.spotify.com/track/6IC6VhpV7D8T1t037Atqpu"
+      "duration_ms": 195533,
+      "name": "Courtesy Of The Red, White And Blue (The Angry American)",
+      "url": "https://open.spotify.com/track/0M7mWKqwTIaVjYyxfZmtTa"
     },
     {
       "added_at": "2023-08-31 16:00:13",
@@ -659,26 +659,6 @@
     {
       "added_at": "2023-08-31 16:00:13",
       "album": {
-        "name": "Unleashed",
-        "url": "https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Beer For My Horses",
-      "url": "https://open.spotify.com/track/7E2DqvnVtbIrFrL5X6YH9Q"
-    },
-    {
-      "added_at": "2023-08-31 16:00:13",
-      "album": {
         "name": "Red Dirt Road",
         "url": "https://open.spotify.com/album/3fVrL1hr7JAWTeFYW0akdf"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 235426,
       "name": "Watching You",
       "url": "https://open.spotify.com/track/5OusUgzHz6Ulb3GZT7WUo5"
+    },
+    {
+      "added_at": "2023-08-31 16:00:13",
+      "album": {
+        "name": "Unleashed",
+        "url": "https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Beer For My Horses",
+      "url": "https://open.spotify.com/track/7E2DqvnVtbIrFrL5X6YH9Q"
     },
     {
       "added_at": "2023-08-31 16:00:13",
@@ -935,6 +935,22 @@
     {
       "added_at": "2023-08-31 16:00:13",
       "album": {
+        "name": "Taylor Swift",
+        "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 203040,
+      "name": "Teardrops On My Guitar - Radio Single Remix",
+      "url": "https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg"
+    },
+    {
+      "added_at": "2023-08-31 16:00:13",
+      "album": {
         "name": "When The Sun Goes Down",
         "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 335333,
       "name": "I Love This Bar",
       "url": "https://open.spotify.com/track/32jHB7W9b08OTorAqR0cJo"
-    },
-    {
-      "added_at": "2023-08-31 16:00:13",
-      "album": {
-        "name": "Taylor Swift",
-        "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 203040,
-      "name": "Teardrops On My Guitar - Radio Single Remix",
-      "url": "https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg"
     },
     {
       "added_at": "2023-08-31 16:00:13",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-08-31 16:00:13",
       "album": {
+        "name": "See If I Care",
+        "url": "https://open.spotify.com/album/4xBILuasKLadf6hitvo5mG"
+      },
+      "artists": [
+        {
+          "name": "Gary Allan",
+          "url": "https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m"
+        }
+      ],
+      "duration_ms": 212026,
+      "name": "Nothing On But The Radio",
+      "url": "https://open.spotify.com/track/3SRuODYNV4j2ckkJ9Samju"
+    },
+    {
+      "added_at": "2023-08-31 16:00:13",
+      "album": {
         "name": "Jason Aldean",
         "url": "https://open.spotify.com/album/47LrXE5duqJHzfYulSGg1h"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 199413,
       "name": "Ain't Nothing 'Bout You",
       "url": "https://open.spotify.com/track/6CkydK3NOAMScIhViRzXoB"
-    },
-    {
-      "added_at": "2023-08-31 16:00:13",
-      "album": {
-        "name": "See If I Care",
-        "url": "https://open.spotify.com/album/4xBILuasKLadf6hitvo5mG"
-      },
-      "artists": [
-        {
-          "name": "Gary Allan",
-          "url": "https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m"
-        }
-      ],
-      "duration_ms": 212026,
-      "name": "Nothing On But The Radio",
-      "url": "https://open.spotify.com/track/3SRuODYNV4j2ckkJ9Samju"
     },
     {
       "added_at": "2023-08-31 16:00:13",
@@ -1963,18 +1963,18 @@
     {
       "added_at": "2023-08-31 16:00:13",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK"
+        "name": "Keep On Loving You",
+        "url": "https://open.spotify.com/album/6CtjCtRQZXjTCDe3Jiy25W"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Making Memories Of Us",
-      "url": "https://open.spotify.com/track/0Sg5kWoILCs2zBoIHIsDAa"
+      "duration_ms": 220106,
+      "name": "Consider Me Gone",
+      "url": "https://open.spotify.com/track/3aPu8Pt9F18y7O7AbzsC02"
     },
     {
       "added_at": "2023-08-31 16:00:13",
@@ -2015,18 +2015,18 @@
     {
       "added_at": "2023-08-31 16:00:13",
       "album": {
-        "name": "Keep On Loving You",
-        "url": "https://open.spotify.com/album/6CtjCtRQZXjTCDe3Jiy25W"
+        "name": "Jason Aldean",
+        "url": "https://open.spotify.com/album/47LrXE5duqJHzfYulSGg1h"
       },
       "artists": [
         {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
         }
       ],
-      "duration_ms": 220106,
-      "name": "Consider Me Gone",
-      "url": "https://open.spotify.com/track/3aPu8Pt9F18y7O7AbzsC02"
+      "duration_ms": 213733,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/0RUcBtQ6QBo5ocacmwdHHo"
     }
   ],
   "unique_name": "2000s Country",

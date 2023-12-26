@@ -4,7 +4,7 @@
 
 > songs voor je playlist!
 
-300 songs - 15 hr 7 min
+301 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Toverdrank](https://open.spotify.com/track/4qidbujyhAzF3C3GdxjeN5) | [BIBI](https://open.spotify.com/artist/6vT2DqeCXrQd10M8xSyfoi) | [Toverdrank](https://open.spotify.com/album/1vPQRObyL3AFozBuHiUggb) | 2:20 | 2023-09-04 | 2023-09-14 |
 | [Trainingspak](https://open.spotify.com/track/62bNZie9JmywI2z8AAEHeL) | [Chardy](https://open.spotify.com/artist/75TcM0uB8Oxfv6CyDzySDa) | [Trainingspak](https://open.spotify.com/album/5BillhOrRDiEiHDA9LIQrS) | 2:17 | 2023-05-24 |  |
 | [Twee Motten](https://open.spotify.com/track/5ttRhxHIw2xddeqtlcwWzs) | [Dorus](https://open.spotify.com/artist/1pXwedNJp8Le9pKUCzr9pA) | [De singles: A & B Kanten 1956\-1969](https://open.spotify.com/album/3HrjrKXZQ8L9w42lQomn3C) | 3:06 | 2023-11-29 |  |
+| [Twee Motten](https://open.spotify.com/track/4pAFPSD6s1QkrZJaQlTzpX) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Twee Motten](https://open.spotify.com/album/6AzX47mpTO8YUaZ7PHt98y) | 2:17 | 2023-12-25 |  |
 | [UNAVAILABLE \(feat\. Musa Keys\)](https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:49 | 2023-05-01 | 2023-05-26 |
 | [Van Goes Tot Purmerend](https://open.spotify.com/track/6dgkHkbtXg4mGwRPJiE1LV) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq), [Marco Schuitmaker](https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ) | [Van Goes Tot Purmerend](https://open.spotify.com/album/4Kc9vHk2XB9tGNcyikgNpm) | 3:21 | 2023-08-31 |  |
 | [Vatos Locos](https://open.spotify.com/track/26xpfGNfaSxz3Ci7L6rVqv) | [Driess](https://open.spotify.com/artist/1oCIudG8pNordgzuLjTMNP) | [Vatos Locos](https://open.spotify.com/album/2VFcrKgzoVwpYAFTZZXv3a) | 2:43 | 2023-06-19 | 2023-09-01 |

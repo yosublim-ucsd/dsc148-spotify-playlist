@@ -1,12 +1,12 @@
 {
   "description": "You feel the sun on your face. ",
-  "num_followers": 126523,
+  "num_followers": 126586,
   "original_name": "Vintage Vibes: Sunny Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDM5OTQzZDgzYmIxYjJiMDMxYTM0MTZlZmM0MWUyNTVlNWNlNzQ4",
+  "snapshot_id": "MCxlNTFiNGYzM2ExMGVjY2MxMTIyODRjZmY0N2VlZDQ0MjQ3YzJhOTBh",
   "tracks": [
     {
       "added_at": "2021-04-23 09:55:04",
@@ -91,22 +91,6 @@
     {
       "added_at": "2021-04-23 09:55:04",
       "album": {
-        "name": "Confrontation",
-        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 255840,
-      "name": "Buffalo Soldier",
-      "url": "https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb"
-    },
-    {
-      "added_at": "2021-04-23 09:55:04",
-      "album": {
         "name": "Foundation Ska",
         "url": "https://open.spotify.com/album/6OuYm1xpB29dhuVXOXT58v"
       },
@@ -155,6 +139,22 @@
     {
       "added_at": "2021-04-23 09:55:04",
       "album": {
+        "name": "Confrontation",
+        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 255840,
+      "name": "Buffalo Soldier",
+      "url": "https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb"
+    },
+    {
+      "added_at": "2021-04-23 09:55:04",
+      "album": {
         "name": "Alton & Hortense Ellis",
         "url": "https://open.spotify.com/album/2Q8BPKtSNcI3YHc0gHtW0q"
       },
@@ -167,22 +167,6 @@
       "duration_ms": 198000,
       "name": "People Make the World Go Round",
       "url": "https://open.spotify.com/track/1XMBtQ6S7DJoj1FDLpFBgq"
-    },
-    {
-      "added_at": "2021-04-23 09:55:04",
-      "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 256239,
-      "name": "Waiting In Vain",
-      "url": "https://open.spotify.com/track/58Zt987fK6gWxtO0MwEzPn"
     },
     {
       "added_at": "2021-04-23 09:55:04",
@@ -251,6 +235,22 @@
     {
       "added_at": "2021-04-23 09:55:04",
       "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 256239,
+      "name": "Waiting In Vain",
+      "url": "https://open.spotify.com/track/58Zt987fK6gWxtO0MwEzPn"
+    },
+    {
+      "added_at": "2021-04-23 09:55:04",
+      "album": {
         "name": "Fat Back Ska, Vol. 2",
         "url": "https://open.spotify.com/album/5QGdLISCEC2ttoanO2VKFw"
       },
@@ -299,18 +299,34 @@
     {
       "added_at": "2021-04-23 09:55:04",
       "album": {
-        "name": "Studio One Ironsides",
-        "url": "https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG"
+        "name": "Studio One Scorcher",
+        "url": "https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi"
       },
       "artists": [
         {
-          "name": "Dennis Alcapone",
-          "url": "https://open.spotify.com/artist/3Ko5w2NYcaqtAtvDrJMdw5"
+          "name": "Jackie Mittoo & Ernest Ranglin",
+          "url": "https://open.spotify.com/artist/3qqbVqjun4ZUlWsjwg8tQq"
         }
       ],
-      "duration_ms": 198653,
-      "name": "Joe Frazier",
-      "url": "https://open.spotify.com/track/7E8tawQq5q8Hr4UWCT7lgT"
+      "duration_ms": 177000,
+      "name": "Jericho Skank",
+      "url": "https://open.spotify.com/track/3TJ7zlTrUnssanybZDirCu"
+    },
+    {
+      "added_at": "2021-04-23 09:55:04",
+      "album": {
+        "name": "Studio One Rockers",
+        "url": "https://open.spotify.com/album/1EFphq3puPV57G4nDjqodc"
+      },
+      "artists": [
+        {
+          "name": "Johnny Osbourne",
+          "url": "https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO"
+        }
+      ],
+      "duration_ms": 181693,
+      "name": "Truth And Rights",
+      "url": "https://open.spotify.com/track/4UDhprhFPKxJZ2ChNSJsKG"
     },
     {
       "added_at": "2021-04-23 09:55:04",
@@ -331,6 +347,86 @@
     {
       "added_at": "2021-04-23 09:55:04",
       "album": {
+        "name": "Soul Jazz Records Presents Studio One Rocksteady 2: The Soul of Young Jamaica: Rocksteady, Soul and Early Reggae at Studio One",
+        "url": "https://open.spotify.com/album/5d74Pe7mcGtyVoXmwVfowG"
+      },
+      "artists": [
+        {
+          "name": "Owen Gray",
+          "url": "https://open.spotify.com/artist/4wJme0MlgnqzMk2M9kypjj"
+        }
+      ],
+      "duration_ms": 187253,
+      "name": "Give Me a Little Sign",
+      "url": "https://open.spotify.com/track/51ugwuIN5G93zhBJ5qo6BB"
+    },
+    {
+      "added_at": "2021-04-23 09:55:04",
+      "album": {
+        "name": "Studio One Ironsides",
+        "url": "https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG"
+      },
+      "artists": [
+        {
+          "name": "Dennis Alcapone",
+          "url": "https://open.spotify.com/artist/3Ko5w2NYcaqtAtvDrJMdw5"
+        }
+      ],
+      "duration_ms": 198653,
+      "name": "Joe Frazier",
+      "url": "https://open.spotify.com/track/7E8tawQq5q8Hr4UWCT7lgT"
+    },
+    {
+      "added_at": "2021-04-23 09:55:04",
+      "album": {
+        "name": "Studio One Scorcher",
+        "url": "https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi"
+      },
+      "artists": [
+        {
+          "name": "The Skatalites",
+          "url": "https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb"
+        }
+      ],
+      "duration_ms": 169946,
+      "name": "Coconut Rock",
+      "url": "https://open.spotify.com/track/3gxEtE7T9CdLod0ZdOTrJv"
+    },
+    {
+      "added_at": "2021-04-23 09:55:04",
+      "album": {
+        "name": "Studio One Classics",
+        "url": "https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR"
+      },
+      "artists": [
+        {
+          "name": "The Wailers",
+          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
+        }
+      ],
+      "duration_ms": 172266,
+      "name": "Simmer Down",
+      "url": "https://open.spotify.com/track/2qUkkHORN5objY895DYs55"
+    },
+    {
+      "added_at": "2021-04-23 09:55:04",
+      "album": {
+        "name": "Studio One Sound",
+        "url": "https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze"
+      },
+      "artists": [
+        {
+          "name": "Dub Specialist",
+          "url": "https://open.spotify.com/artist/2Z6eWhLfvDVcgULunQskjk"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Happy Feelings",
+      "url": "https://open.spotify.com/track/5cERnwvQmaeAFNaJavhw1X"
+    },
+    {
+      "added_at": "2021-04-23 09:55:04",
+      "album": {
         "name": "Studio One Rockers",
         "url": "https://open.spotify.com/album/1EFphq3puPV57G4nDjqodc"
       },
@@ -347,18 +443,194 @@
     {
       "added_at": "2021-04-23 09:55:04",
       "album": {
+        "name": "Studio One Roots",
+        "url": "https://open.spotify.com/album/7tzWLTSaZIt4BXjIMcAfDI"
+      },
+      "artists": [
+        {
+          "name": "Devon \"Soul\" Russell",
+          "url": "https://open.spotify.com/artist/6mN77Xtmaxsk2zvOrDRHTE"
+        }
+      ],
+      "duration_ms": 233653,
+      "name": "Drum Song",
+      "url": "https://open.spotify.com/track/7m7XbZbG4otW7AtUOtn7iU"
+    },
+    {
+      "added_at": "2021-04-23 09:55:04",
+      "album": {
+        "name": "Catch A Fire",
+        "url": "https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 217800,
+      "name": "Stir It Up - Jamaican Version",
+      "url": "https://open.spotify.com/track/1XjUvJv6w3aTu8o6XszTHS"
+    },
+    {
+      "added_at": "2021-04-23 09:55:04",
+      "album": {
+        "name": "Studio One Ironsides",
+        "url": "https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG"
+      },
+      "artists": [
+        {
+          "name": "Freddie McGregor",
+          "url": "https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq"
+        }
+      ],
+      "duration_ms": 198720,
+      "name": "I Man A Rasta",
+      "url": "https://open.spotify.com/track/1IgXDScq9yS18nIGnHVoQ2"
+    },
+    {
+      "added_at": "2021-04-23 09:55:04",
+      "album": {
+        "name": "Studio One Classics",
+        "url": "https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR"
+      },
+      "artists": [
+        {
+          "name": "Prince Jazzbo",
+          "url": "https://open.spotify.com/artist/7CmIncM3YcuhayKc0ag2w3"
+        }
+      ],
+      "duration_ms": 158186,
+      "name": "School",
+      "url": "https://open.spotify.com/track/6uZVfM3Nr4JWZpcKckTmH7"
+    },
+    {
+      "added_at": "2021-04-23 09:55:04",
+      "album": {
         "name": "Soul Jazz Records Presents Studio One Rocksteady 2: The Soul of Young Jamaica: Rocksteady, Soul and Early Reggae at Studio One",
         "url": "https://open.spotify.com/album/5d74Pe7mcGtyVoXmwVfowG"
       },
       "artists": [
         {
-          "name": "Owen Gray",
-          "url": "https://open.spotify.com/artist/4wJme0MlgnqzMk2M9kypjj"
+          "name": "Cannon & The Soul Vendors",
+          "url": "https://open.spotify.com/artist/6WbLpFGT1pphhgLCfB3pf4"
         }
       ],
-      "duration_ms": 187253,
-      "name": "Give Me a Little Sign",
-      "url": "https://open.spotify.com/track/51ugwuIN5G93zhBJ5qo6BB"
+      "duration_ms": 182773,
+      "name": "Bad Treatment",
+      "url": "https://open.spotify.com/track/215IEBl0xMCM6lhSPFY0uV"
+    },
+    {
+      "added_at": "2021-04-23 09:55:04",
+      "album": {
+        "name": "Studio One Funk",
+        "url": "https://open.spotify.com/album/5Ywu5U2ufJsj751yuKw3V4"
+      },
+      "artists": [
+        {
+          "name": "Im and Sound Dimension",
+          "url": "https://open.spotify.com/artist/1nfvWfqnzY3Mkn6CFwfe96"
+        }
+      ],
+      "duration_ms": 156853,
+      "name": "Love Jah",
+      "url": "https://open.spotify.com/track/2kNtkx2Bh9qRKELpJMdIks"
+    },
+    {
+      "added_at": "2021-04-23 09:55:04",
+      "album": {
+        "name": "Studio One Kings",
+        "url": "https://open.spotify.com/album/5JLles4GqvCZK7JeikZjDj"
+      },
+      "artists": [
+        {
+          "name": "Alton Ellis",
+          "url": "https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi"
+        }
+      ],
+      "duration_ms": 153626,
+      "name": "The Well Run Dry",
+      "url": "https://open.spotify.com/track/30b90XD4VP61a8h70iv31o"
+    },
+    {
+      "added_at": "2021-04-23 09:55:04",
+      "album": {
+        "name": "Studio One Scorcher",
+        "url": "https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi"
+      },
+      "artists": [
+        {
+          "name": "Lester Sterling",
+          "url": "https://open.spotify.com/artist/0bxvspvRBbcpshzQFSqKVv"
+        }
+      ],
+      "duration_ms": 176786,
+      "name": "Afrikaan Beat",
+      "url": "https://open.spotify.com/track/3fFXhwkwFDhcCuEjzm4EqM"
+    },
+    {
+      "added_at": "2021-04-23 09:55:04",
+      "album": {
+        "name": "Studio One Roots",
+        "url": "https://open.spotify.com/album/7tzWLTSaZIt4BXjIMcAfDI"
+      },
+      "artists": [
+        {
+          "name": "Linton Cooper (w. The Brentford Disco Set)",
+          "url": "https://open.spotify.com/artist/0Zc8HYdVsRDDYj2atgS3aI"
+        }
+      ],
+      "duration_ms": 176706,
+      "name": "You'll Get Your Pay",
+      "url": "https://open.spotify.com/track/0QS4vNmAoV6Y0FMz0FTYhe"
+    },
+    {
+      "added_at": "2021-04-23 09:55:04",
+      "album": {
+        "name": "Studio One Groups",
+        "url": "https://open.spotify.com/album/3vFEdqMMbJas3yRrxcBtUo"
+      },
+      "artists": [
+        {
+          "name": "The Bassies",
+          "url": "https://open.spotify.com/artist/0iRfV89CEYWMpwoYb1SUIZ"
+        }
+      ],
+      "duration_ms": 154533,
+      "name": "Things a Come Up to Bump",
+      "url": "https://open.spotify.com/track/1V8TACzzOdmBYczCBBoKwt"
+    },
+    {
+      "added_at": "2021-04-23 09:55:04",
+      "album": {
+        "name": "Studio One Lovers",
+        "url": "https://open.spotify.com/album/0RAY8NtmtYwIEh6G5avSyi"
+      },
+      "artists": [
+        {
+          "name": "The Sharks",
+          "url": "https://open.spotify.com/artist/5YUnGJyBSdPLoJExvs7qHF"
+        }
+      ],
+      "duration_ms": 191813,
+      "name": "How Could I Live",
+      "url": "https://open.spotify.com/track/4dY12uO1KLfh79TUyZVSEN"
+    },
+    {
+      "added_at": "2021-04-23 09:55:04",
+      "album": {
+        "name": "Studio One Scorcher",
+        "url": "https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi"
+      },
+      "artists": [
+        {
+          "name": "Liberation Group",
+          "url": "https://open.spotify.com/artist/5ndZzvsrg96O78vOjnwUx4"
+        }
+      ],
+      "duration_ms": 215946,
+      "name": "Namibia",
+      "url": "https://open.spotify.com/track/0tzz52F0Y1bPeRT31cIdCr"
     },
     {
       "added_at": "2021-04-23 09:55:04",
@@ -391,54 +663,6 @@
       "duration_ms": 238066,
       "name": "Trouble Maker",
       "url": "https://open.spotify.com/track/3rynEqoZC5xwZ0FgSj3m49"
-    },
-    {
-      "added_at": "2021-04-23 09:55:04",
-      "album": {
-        "name": "Studio One Scorcher",
-        "url": "https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi"
-      },
-      "artists": [
-        {
-          "name": "Jackie Mittoo & Ernest Ranglin",
-          "url": "https://open.spotify.com/artist/3qqbVqjun4ZUlWsjwg8tQq"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Jericho Skank",
-      "url": "https://open.spotify.com/track/3TJ7zlTrUnssanybZDirCu"
-    },
-    {
-      "added_at": "2021-04-23 09:55:04",
-      "album": {
-        "name": "Catch A Fire",
-        "url": "https://open.spotify.com/album/39kLAVdcgW7jbMcTEaY2qy"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 217800,
-      "name": "Stir It Up - Jamaican Version",
-      "url": "https://open.spotify.com/track/1XjUvJv6w3aTu8o6XszTHS"
-    },
-    {
-      "added_at": "2021-04-23 09:55:04",
-      "album": {
-        "name": "Studio One Rockers",
-        "url": "https://open.spotify.com/album/1EFphq3puPV57G4nDjqodc"
-      },
-      "artists": [
-        {
-          "name": "Johnny Osbourne",
-          "url": "https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO"
-        }
-      ],
-      "duration_ms": 181693,
-      "name": "Truth And Rights",
-      "url": "https://open.spotify.com/track/4UDhprhFPKxJZ2ChNSJsKG"
     },
     {
       "added_at": "2021-04-23 09:55:04",
@@ -555,54 +779,6 @@
     {
       "added_at": "2021-04-23 09:55:04",
       "album": {
-        "name": "Studio One Classics",
-        "url": "https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR"
-      },
-      "artists": [
-        {
-          "name": "The Wailers",
-          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
-        }
-      ],
-      "duration_ms": 172266,
-      "name": "Simmer Down",
-      "url": "https://open.spotify.com/track/2qUkkHORN5objY895DYs55"
-    },
-    {
-      "added_at": "2021-04-23 09:55:04",
-      "album": {
-        "name": "Studio One Sound",
-        "url": "https://open.spotify.com/album/4A6Fpk3NTbzdIXAAFNtJze"
-      },
-      "artists": [
-        {
-          "name": "Dub Specialist",
-          "url": "https://open.spotify.com/artist/2Z6eWhLfvDVcgULunQskjk"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Happy Feelings",
-      "url": "https://open.spotify.com/track/5cERnwvQmaeAFNaJavhw1X"
-    },
-    {
-      "added_at": "2021-04-23 09:55:04",
-      "album": {
-        "name": "Studio One Roots",
-        "url": "https://open.spotify.com/album/7tzWLTSaZIt4BXjIMcAfDI"
-      },
-      "artists": [
-        {
-          "name": "Devon \"Soul\" Russell",
-          "url": "https://open.spotify.com/artist/6mN77Xtmaxsk2zvOrDRHTE"
-        }
-      ],
-      "duration_ms": 233653,
-      "name": "Drum Song",
-      "url": "https://open.spotify.com/track/7m7XbZbG4otW7AtUOtn7iU"
-    },
-    {
-      "added_at": "2021-04-23 09:55:04",
-      "album": {
         "name": "Studio One Scorcher Volume 2",
         "url": "https://open.spotify.com/album/7uBodlWM79A8BbXJqHS90a"
       },
@@ -635,22 +811,6 @@
     {
       "added_at": "2021-04-23 09:55:04",
       "album": {
-        "name": "Studio One Ironsides",
-        "url": "https://open.spotify.com/album/0Ym3DwPjz2z97Yd4K9w0gG"
-      },
-      "artists": [
-        {
-          "name": "Freddie McGregor",
-          "url": "https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq"
-        }
-      ],
-      "duration_ms": 198720,
-      "name": "I Man A Rasta",
-      "url": "https://open.spotify.com/track/1IgXDScq9yS18nIGnHVoQ2"
-    },
-    {
-      "added_at": "2021-04-23 09:55:04",
-      "album": {
         "name": "Studio One Roots",
         "url": "https://open.spotify.com/album/7tzWLTSaZIt4BXjIMcAfDI"
       },
@@ -663,38 +823,6 @@
       "duration_ms": 193813,
       "name": "African Challenge",
       "url": "https://open.spotify.com/track/08g8gyOGAMuEbMQVizsWDg"
-    },
-    {
-      "added_at": "2021-04-23 09:55:04",
-      "album": {
-        "name": "Studio One Classics",
-        "url": "https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR"
-      },
-      "artists": [
-        {
-          "name": "Prince Jazzbo",
-          "url": "https://open.spotify.com/artist/7CmIncM3YcuhayKc0ag2w3"
-        }
-      ],
-      "duration_ms": 158186,
-      "name": "School",
-      "url": "https://open.spotify.com/track/6uZVfM3Nr4JWZpcKckTmH7"
-    },
-    {
-      "added_at": "2021-04-23 09:55:04",
-      "album": {
-        "name": "Soul Jazz Records Presents Studio One Rocksteady 2: The Soul of Young Jamaica: Rocksteady, Soul and Early Reggae at Studio One",
-        "url": "https://open.spotify.com/album/5d74Pe7mcGtyVoXmwVfowG"
-      },
-      "artists": [
-        {
-          "name": "Cannon & The Soul Vendors",
-          "url": "https://open.spotify.com/artist/6WbLpFGT1pphhgLCfB3pf4"
-        }
-      ],
-      "duration_ms": 182773,
-      "name": "Bad Treatment",
-      "url": "https://open.spotify.com/track/215IEBl0xMCM6lhSPFY0uV"
     },
     {
       "added_at": "2021-04-23 09:55:04",
@@ -811,22 +939,6 @@
     {
       "added_at": "2021-04-23 09:55:04",
       "album": {
-        "name": "Studio One Funk",
-        "url": "https://open.spotify.com/album/5Ywu5U2ufJsj751yuKw3V4"
-      },
-      "artists": [
-        {
-          "name": "Im and Sound Dimension",
-          "url": "https://open.spotify.com/artist/1nfvWfqnzY3Mkn6CFwfe96"
-        }
-      ],
-      "duration_ms": 156853,
-      "name": "Love Jah",
-      "url": "https://open.spotify.com/track/2kNtkx2Bh9qRKELpJMdIks"
-    },
-    {
-      "added_at": "2021-04-23 09:55:04",
-      "album": {
         "name": "Studio One Dub Volume 2",
         "url": "https://open.spotify.com/album/4c5MDMjgliQuLDMq04ecp3"
       },
@@ -855,118 +967,6 @@
       "duration_ms": 161013,
       "name": "The People Skanking",
       "url": "https://open.spotify.com/track/72IAXR6AyefztBCOaYaIIx"
-    },
-    {
-      "added_at": "2021-04-23 09:55:04",
-      "album": {
-        "name": "Soul Jazz Records Presents Studio One Showcase: The Sound of Studio One in the 1970S",
-        "url": "https://open.spotify.com/album/0L3MiIrqhRpjlJu3wmMGzO"
-      },
-      "artists": [
-        {
-          "name": "The Willows",
-          "url": "https://open.spotify.com/artist/2VKTGKX88xeP0pNOSOeXof"
-        }
-      ],
-      "duration_ms": 363386,
-      "name": "Send Another Moses",
-      "url": "https://open.spotify.com/track/4HSC43MCTRxCA6ohDU4MNB"
-    },
-    {
-      "added_at": "2021-04-23 09:55:04",
-      "album": {
-        "name": "Studio One Kings",
-        "url": "https://open.spotify.com/album/5JLles4GqvCZK7JeikZjDj"
-      },
-      "artists": [
-        {
-          "name": "Alton Ellis",
-          "url": "https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi"
-        }
-      ],
-      "duration_ms": 153626,
-      "name": "The Well Run Dry",
-      "url": "https://open.spotify.com/track/30b90XD4VP61a8h70iv31o"
-    },
-    {
-      "added_at": "2021-04-23 09:55:04",
-      "album": {
-        "name": "Soul Jazz Records presents Sugar Minott at Studio One",
-        "url": "https://open.spotify.com/album/2S0HvAeuZShMBQpk982CGp"
-      },
-      "artists": [
-        {
-          "name": "Sugar Minott",
-          "url": "https://open.spotify.com/artist/6iTD167bhyfYwEd7fd2bGn"
-        }
-      ],
-      "duration_ms": 172373,
-      "name": "Hang On Natty",
-      "url": "https://open.spotify.com/track/1TKDhky8F2v7Dlz69mH8yq"
-    },
-    {
-      "added_at": "2021-04-23 09:55:04",
-      "album": {
-        "name": "Studio One Scorcher Volume 2",
-        "url": "https://open.spotify.com/album/7uBodlWM79A8BbXJqHS90a"
-      },
-      "artists": [
-        {
-          "name": "Brentford All Stars",
-          "url": "https://open.spotify.com/artist/140dNiDsAyiwBMNCKLZJXc"
-        }
-      ],
-      "duration_ms": 137400,
-      "name": "Race Track",
-      "url": "https://open.spotify.com/track/0AgvO8IHuz0AqAnOK2Js7h"
-    },
-    {
-      "added_at": "2021-04-23 09:55:04",
-      "album": {
-        "name": "Studio One Classics",
-        "url": "https://open.spotify.com/album/2orEiw3UrGUBEADbQNxDYR"
-      },
-      "artists": [
-        {
-          "name": "Slim Smith",
-          "url": "https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41"
-        }
-      ],
-      "duration_ms": 186893,
-      "name": "Rougher Yet",
-      "url": "https://open.spotify.com/track/1NumiJgifR6HwMqasRRqpZ"
-    },
-    {
-      "added_at": "2021-04-23 09:55:04",
-      "album": {
-        "name": "Studio One Rockers",
-        "url": "https://open.spotify.com/album/1EFphq3puPV57G4nDjqodc"
-      },
-      "artists": [
-        {
-          "name": "Prince Jazzbo",
-          "url": "https://open.spotify.com/artist/7CmIncM3YcuhayKc0ag2w3"
-        }
-      ],
-      "duration_ms": 195306,
-      "name": "Crabwalking",
-      "url": "https://open.spotify.com/track/4jYXEy2Rv5V5jcf4JAiR7o"
-    },
-    {
-      "added_at": "2021-04-23 09:55:04",
-      "album": {
-        "name": "Studio One Scorcher",
-        "url": "https://open.spotify.com/album/1029hBjeSFRkXBRBsy1jvi"
-      },
-      "artists": [
-        {
-          "name": "Lester Sterling",
-          "url": "https://open.spotify.com/artist/0bxvspvRBbcpshzQFSqKVv"
-        }
-      ],
-      "duration_ms": 176786,
-      "name": "Afrikaan Beat",
-      "url": "https://open.spotify.com/track/3fFXhwkwFDhcCuEjzm4EqM"
     }
   ],
   "unique_name": "Vintage Vibes: Sunny Reggae",

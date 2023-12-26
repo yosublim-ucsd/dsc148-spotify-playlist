@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > Our editor’s picks for best desi indie songs of the year\. Cover: Abdul Hannan
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,728 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,855 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 | 49 | [Hazir Main Rahun](https://open.spotify.com/track/10JqzOpxi2zL4RcuvwBRtW) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Hazir Main Rahun](https://open.spotify.com/album/3JcvdHatu4INAgwuSAPnCr) | 4:07 |
 | 50 | [Pardes Katenda](https://open.spotify.com/track/4IR5cCTkL4DjgJwtSijbjL) | [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc) | [Pardes Katenda](https://open.spotify.com/album/0Vvg3mHBvuZkXTg7rRSLnd) | 2:47 |
 
-Snapshot ID: `MCw1YjRmMDBjNGU3ODZmMzhhZWRkNDQyZmU0ZDAzMTk2YWQzYjFjMzBh`
+Snapshot ID: `MCw4MWNkNmFjZjQyMjA3NzQxNGFkYmMzMjZhYjk0YWZmODk1YTgyMTU0`

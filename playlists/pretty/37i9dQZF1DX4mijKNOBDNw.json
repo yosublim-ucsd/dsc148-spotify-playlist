@@ -1,12 +1,12 @@
 {
   "description": "Si tocan a una respondemos todas.",
-  "num_followers": 54690,
+  "num_followers": 54693,
   "original_name": "Himnos de Sororidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWJkZjkyYWE0ZjAxMGRmYjAxNGI5NGIyOTE2YmMxMmMwMmZkMWI4",
+  "snapshot_id": "MCwzZWRiNjNiY2EwZWM0MzZlM2U1Nzc5MWQ0OTBjM2JhNjI3OTY0OTk5",
   "tracks": [
     {
       "added_at": "2023-12-15 03:00:00",
@@ -243,6 +243,34 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Faroles",
+        "url": "https://open.spotify.com/album/6E2eSxShTgMRZi3WKjJev0"
+      },
+      "artists": [
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        },
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        },
+        {
+          "name": "Shirel",
+          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
+        },
+        {
+          "name": "KYA",
+          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
+        }
+      ],
+      "duration_ms": 178479,
+      "name": "Faroles",
+      "url": "https://open.spotify.com/track/4eh4Et24YVZ97mCumJe0IK"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Se\u00f1orita Revoluci\u00f3n",
         "url": "https://open.spotify.com/album/12rvlwP0OW2UKV1lmTqQtm"
       },
@@ -287,34 +315,6 @@
       "duration_ms": 235800,
       "name": "La Fortaleza",
       "url": "https://open.spotify.com/track/1VXPKfgMIAn95PFK4TlyDD"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Faroles",
-        "url": "https://open.spotify.com/album/6E2eSxShTgMRZi3WKjJev0"
-      },
-      "artists": [
-        {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
-        },
-        {
-          "name": "SOULFIA",
-          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
-        },
-        {
-          "name": "Shirel",
-          "url": "https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln"
-        },
-        {
-          "name": "KYA",
-          "url": "https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP"
-        }
-      ],
-      "duration_ms": 178479,
-      "name": "Faroles",
-      "url": "https://open.spotify.com/track/4eh4Et24YVZ97mCumJe0IK"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Caminar Sola",
+        "url": "https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "Caminar Sola",
+      "url": "https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Alma de Cantaora",
         "url": "https://open.spotify.com/album/4RZtmfEuBbn9QVZguelVmO"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 283500,
       "name": "Se Quem\u00f3",
       "url": "https://open.spotify.com/track/4tbirX3tFHgyWmgfO9ZQC2"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Caminar Sola",
-        "url": "https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "Caminar Sola",
-      "url": "https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "SE BUSCA",
-        "url": "https://open.spotify.com/album/3tITprG2WPraA2ejbTaZVD"
-      },
-      "artists": [
-        {
-          "name": "Mare Advertencia Lirika",
-          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
-        }
-      ],
-      "duration_ms": 154450,
-      "name": "Se Busca",
-      "url": "https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Libres",
         "url": "https://open.spotify.com/album/1O16JRkcbct2LxYaanL3ye"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 221278,
       "name": "Libres",
       "url": "https://open.spotify.com/track/1XZ3fMlt3ajzDAPDkMqh6C"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "SE BUSCA",
+        "url": "https://open.spotify.com/album/3tITprG2WPraA2ejbTaZVD"
+      },
+      "artists": [
+        {
+          "name": "Mare Advertencia Lirika",
+          "url": "https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh"
+        }
+      ],
+      "duration_ms": 154450,
+      "name": "Se Busca",
+      "url": "https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Nos Queremos Vivas",
-        "url": "https://open.spotify.com/album/5Dqwsm0uvmt6TvPHScZ35W"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Lane",
-          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
-        }
-      ],
-      "duration_ms": 220576,
-      "name": "Nos Queremos Vivas",
-      "url": "https://open.spotify.com/track/4UYBH2rHhTDa655jgcfZUt"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Amiga",
         "url": "https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x"
       },
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Nos Queremos Vivas",
+        "url": "https://open.spotify.com/album/5Dqwsm0uvmt6TvPHScZ35W"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Lane",
+          "url": "https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq"
+        }
+      ],
+      "duration_ms": 220576,
+      "name": "Nos Queremos Vivas",
+      "url": "https://open.spotify.com/track/4UYBH2rHhTDa655jgcfZUt"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "D\u00e9jame de Matar",
         "url": "https://open.spotify.com/album/7q70Mz0YbW2oxJZVqSUEXK"
       },
@@ -1039,22 +1039,6 @@
       "duration_ms": 190169,
       "name": "D\u00e9jame de Matar",
       "url": "https://open.spotify.com/track/2fAGXnJeAgNXRzdHbEArIS"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Mujeres",
-        "url": "https://open.spotify.com/album/2umjf37Z9va9M5JSgEPR5V"
-      },
-      "artists": [
-        {
-          "name": "Banda Femenil Regional \"Mujeres del Viento Florido\"",
-          "url": "https://open.spotify.com/artist/1x4v8vs04mwdQwKy74mQBd"
-        }
-      ],
-      "duration_ms": 195560,
-      "name": "Mujeres",
-      "url": "https://open.spotify.com/track/34bvJEceDRCHVQDyPd7sa2"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1139,6 +1123,22 @@
       "duration_ms": 245441,
       "name": "Mi Fuerza Es Tuya",
       "url": "https://open.spotify.com/track/1FktdfIFdccuJlOBIGW6ga"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Mujeres",
+        "url": "https://open.spotify.com/album/2umjf37Z9va9M5JSgEPR5V"
+      },
+      "artists": [
+        {
+          "name": "Banda Femenil Regional \"Mujeres del Viento Florido\"",
+          "url": "https://open.spotify.com/artist/1x4v8vs04mwdQwKy74mQBd"
+        }
+      ],
+      "duration_ms": 195560,
+      "name": "Mujeres",
+      "url": "https://open.spotify.com/track/34bvJEceDRCHVQDyPd7sa2"
     },
     {
       "added_at": "2023-12-15 03:00:00",

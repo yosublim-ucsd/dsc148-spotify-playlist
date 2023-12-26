@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-414 songs - 20 hr 19 min
+415 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,7 +316,7 @@
 | [PPL](https://open.spotify.com/track/3d3rarz1eXjs8BPGKoFNYQ) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Johnny GOLD](https://open.spotify.com/artist/42s6z4jFABqd0XFJHyma3p) | [PPL](https://open.spotify.com/album/0iLCnQIjG3HZA4EVcyqu5q) | 2:42 | 2022-04-29 | 2023-06-01 |
 | [Pray 4 Love](https://open.spotify.com/track/4DzW3slkjnkDkl8VdbbicG) | [Salento Guys](https://open.spotify.com/artist/51wnfYz48wZ4bYp9VqhLv4), [Paki](https://open.spotify.com/artist/793dBnJnnRuDvckoUA1mWr), [Nicola Fasano](https://open.spotify.com/artist/0AJ9YvsEOnAqMB9Q15TfYQ) | [Pray 4 Love](https://open.spotify.com/album/4QwkjPFseoDJkmQbS3N78U) | 3:08 | 2023-12-15 |  |
 | [Pressure](https://open.spotify.com/track/4D8Jh26RrDmNTeXL43kXBE) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Pressure](https://open.spotify.com/album/14oFsRCnzCf9gS2RKZR47f) | 2:51 | 2022-03-04 | 2023-09-23 |
-| [Pride \(A Deeper Love\)](https://open.spotify.com/track/4NRqCwAgnxkPUE81qV7TtP) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [Dance Therapy](https://open.spotify.com/artist/3UDGcXWgpqS9j7PMCVtmA0), [Tally](https://open.spotify.com/artist/1BGmvURhdsSvMFEmQkL71k) | [Pride \(A Deeper Love\)](https://open.spotify.com/album/4ML8wtte3WRu7D8J79WAVt) | 2:26 | 2023-12-15 |  |
+| [Pride \(A Deeper Love\)](https://open.spotify.com/track/4NRqCwAgnxkPUE81qV7TtP) | [HÄWK](https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady), [Dance Therapy](https://open.spotify.com/artist/3UDGcXWgpqS9j7PMCVtmA0), [Tally](https://open.spotify.com/artist/1BGmvURhdsSvMFEmQkL71k) | [Pride \(A Deeper Love\)](https://open.spotify.com/album/4ML8wtte3WRu7D8J79WAVt) | 2:26 | 2023-12-15 | 2023-12-26 |
 | [Problems](https://open.spotify.com/track/2dyrLrVopYKGc3H9oOYSmZ) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L), [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [Problems](https://open.spotify.com/album/6L2C3wz8KVARtC4wqrDJTG) | 2:59 | 2021-10-29 | 2022-10-08 |
 | [Prophecy](https://open.spotify.com/track/3TKYpVvhTKoKl5vIrX96AD) | [Castion](https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR) | [Prophecy](https://open.spotify.com/album/4tpO8jKHrIOAwWIbJS2zfW) | 2:27 | 2021-10-29 | 2022-03-23 |
 | [Pump Up The Jam \(with MOTi\)](https://open.spotify.com/track/1uNKDCkSaGNqIsMtvfsr2O) | [Mary N'diaye](https://open.spotify.com/artist/0AMCPHyPTxIV2J2HthnnX4), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Pump Up The Jam \(with MOTi\)](https://open.spotify.com/album/4qSEvbsVZLmFjHNywNm9YA) | 3:29 | 2021-10-29 | 2022-08-27 |
@@ -359,6 +359,7 @@
 | [Something](https://open.spotify.com/track/6LHXb1sGs72iTmpSr0603b) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC) | [Something](https://open.spotify.com/album/7GFLvptwUjJfXt21DbQmQQ) | 2:43 | 2022-07-29 |  |
 | [Something's about to go down](https://open.spotify.com/track/0MmCny6gGuYPM4wT1rqoz3) | [Anti Up](https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF) | [Something's about to go down](https://open.spotify.com/album/5pBZxgiRxPdcaTCFnac9CK) | 3:35 | 2021-10-29 | 2022-12-17 |
 | [Sorry](https://open.spotify.com/track/3vkzxY2aRL7uhz2BIFzT0V) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Sorry](https://open.spotify.com/album/3QEx4nahZb3ewLKs8b87UV) | 2:42 | 2021-10-29 | 2022-08-06 |
+| [Speaker Cone](https://open.spotify.com/track/5sQLYZQygPgCsdtytZQua7) | [Charmes](https://open.spotify.com/artist/3Lat1XFXy1jjal8bckU6ZQ) | [Speaker Cone](https://open.spotify.com/album/2d1mv9X62XccxWXaEteTPL) | 2:59 | 2023-12-15 |  |
 | [Spirits](https://open.spotify.com/track/73XK1IzeAze8hYceZwTelV) | [Me & My Toothbrush](https://open.spotify.com/artist/5X83BYTRaFGSoKLknnIpWz) | [Spirits](https://open.spotify.com/album/2tj2FGo35WbsWgFjfAd8TD) | 3:10 | 2022-04-01 | 2022-04-19 |
 | [Stay Awake \- Don Diablo VIP Mix](https://open.spotify.com/track/1kp7epwsW5zkObe35QAl5C) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Freak Fantastique](https://open.spotify.com/artist/3aLw8FpbsV03fqQc7PdlEl) | [Stay Awake \(Don Diablo VIP Mix\)](https://open.spotify.com/album/6bIP2bFeiGUS5qnBkUkczJ) | 3:17 | 2021-12-03 | 2022-09-03 |
 | [Step Back](https://open.spotify.com/track/7opSc1BeR7P8v0i3QYUi0W) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Step Back](https://open.spotify.com/album/2L8DBsnUXZTi2R9y0BTzjI) | 2:53 | 2023-04-28 | 2023-10-28 |

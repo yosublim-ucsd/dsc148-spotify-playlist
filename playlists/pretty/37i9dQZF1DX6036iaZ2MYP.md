@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Yemi Alade
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,616 likes - 49 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,689 likes - 49 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 48 | [Bom Bom](https://open.spotify.com/track/6Un2RiAiS25kTOXFJOOOj6) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Bom Bom](https://open.spotify.com/album/4FHCcifPG04NST3LFhYTNe) | 2:38 |
 | 49 | [η\. LIDJA](https://open.spotify.com/track/4TwXrpZXGgGB4vqzv99tAS) | [DSK On The Beat](https://open.spotify.com/artist/38A7ltaUhw1eX3FTqTNyhE), [Sonik](https://open.spotify.com/artist/42EAELoCK4ZKLHGrLuOiII) | [HUMAN 30](https://open.spotify.com/album/2qxrvbLOUqz1iGXNQyTnOk) | 2:35 |
 
-Snapshot ID: `MCw1ODNmZGM4MGE0ZDMyNzMwOGZmZTNhYjZjNmNjM2E2NTIwN2ZhMjBi`
+Snapshot ID: `MCw4ZDhjZTIwOGY0YzRkNzhjM2JhMzVmMDg2OTY1Yjk0YTBkNGZiNzA5`

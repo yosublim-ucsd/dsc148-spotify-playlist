@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 9371,
+  "num_followers": 9369,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzM4N2VjMjQ0ZTFhYzdlODlhMzY3ZTc1ZTBlZmRhZjg2Zjg0YzIw",
+  "snapshot_id": "MCxkZjg0NWQxZTY5MTQyNmE0MTY2OWQ4NjYwNmUzMmU4MGZkYzUxNzA1",
   "tracks": [
     {
       "added_at": "2023-11-15 14:49:16",
@@ -167,26 +167,6 @@
     {
       "added_at": "2023-11-15 14:49:16",
       "album": {
-        "name": "WATERFALL",
-        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
-      },
-      "artists": [
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        },
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 194111,
-      "name": "Daydream (feat. LeeHi)",
-      "url": "https://open.spotify.com/track/3dpXHWngKfsQ7YbyiC3VpH"
-    },
-    {
-      "added_at": "2023-11-15 14:49:16",
-      "album": {
         "name": "School Rapper4 Semi Final 2",
         "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
       },
@@ -203,50 +183,6 @@
       "duration_ms": 213626,
       "name": "PARADISE (Feat. meenoi)",
       "url": "https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7"
-    },
-    {
-      "added_at": "2023-11-15 14:49:16",
-      "album": {
-        "name": "SHOW ME THE MONEY 11 Final",
-        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 236524,
-      "name": "HUG (Feat. Zion.T, Wonstein) (Prod. by Slom)",
-      "url": "https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc"
-    },
-    {
-      "added_at": "2023-11-15 14:49:16",
-      "album": {
-        "name": "FRIENDS",
-        "url": "https://open.spotify.com/album/15qT5zhGXLx7Oz725k8aZV"
-      },
-      "artists": [
-        {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 190690,
-      "name": "FRIENDS",
-      "url": "https://open.spotify.com/track/1Y8tCOCqwav6RBvfNjYphx"
     },
     {
       "added_at": "2023-11-15 14:49:16",
@@ -303,6 +239,78 @@
       "duration_ms": 199733,
       "name": "Just Like This (Feat. george)",
       "url": "https://open.spotify.com/track/3ptp3j48p6tPwGEJUCbSu0"
+    },
+    {
+      "added_at": "2023-11-15 14:49:16",
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Final",
+        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 236524,
+      "name": "HUG (Feat. Zion.T, Wonstein) (Prod. by Slom)",
+      "url": "https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc"
+    },
+    {
+      "added_at": "2023-11-15 14:49:16",
+      "album": {
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 194111,
+      "name": "Daydream (feat. LeeHi)",
+      "url": "https://open.spotify.com/track/3dpXHWngKfsQ7YbyiC3VpH"
+    },
+    {
+      "added_at": "2023-11-15 14:49:16",
+      "album": {
+        "name": "Show Me The Money 9 Final",
+        "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
+      },
+      "artists": [
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        },
+        {
+          "name": "YUMDDA",
+          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "duration_ms": 247718,
+      "name": "CREDIT (Feat. YUMDDA, GIRIBOY, Zion.T)",
+      "url": "https://open.spotify.com/track/2lHmx4nJOTGHx2PkEFMADF"
     },
     {
       "added_at": "2023-11-15 14:49:16",
@@ -379,50 +387,6 @@
     {
       "added_at": "2023-11-15 14:49:16",
       "album": {
-        "name": "Show Me The Money 9 Final",
-        "url": "https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq"
-      },
-      "artists": [
-        {
-          "name": "lIlBOI",
-          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
-        },
-        {
-          "name": "YUMDDA",
-          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
-        },
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
-        },
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        }
-      ],
-      "duration_ms": 247718,
-      "name": "CREDIT (Feat. YUMDDA, GIRIBOY, Zion.T)",
-      "url": "https://open.spotify.com/track/2lHmx4nJOTGHx2PkEFMADF"
-    },
-    {
-      "added_at": "2023-11-15 14:49:16",
-      "album": {
-        "name": "WATERFALL",
-        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
-      },
-      "artists": [
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        }
-      ],
-      "duration_ms": 203615,
-      "name": "Re-Birth",
-      "url": "https://open.spotify.com/track/48KTWbSSxOh07mbYtitG2x"
-    },
-    {
-      "added_at": "2023-11-15 14:49:16",
-      "album": {
         "name": "She Gonna Stop",
         "url": "https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN"
       },
@@ -463,6 +427,42 @@
       "duration_ms": 252258,
       "name": "Comfortable",
       "url": "https://open.spotify.com/track/2lEzKOtt7q64jQZ5meZsY8"
+    },
+    {
+      "added_at": "2023-11-15 14:49:16",
+      "album": {
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "duration_ms": 203615,
+      "name": "Re-Birth",
+      "url": "https://open.spotify.com/track/48KTWbSSxOh07mbYtitG2x"
+    },
+    {
+      "added_at": "2023-11-15 14:49:16",
+      "album": {
+        "name": "FRIENDS",
+        "url": "https://open.spotify.com/album/15qT5zhGXLx7Oz725k8aZV"
+      },
+      "artists": [
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 190690,
+      "name": "FRIENDS",
+      "url": "https://open.spotify.com/track/1Y8tCOCqwav6RBvfNjYphx"
     },
     {
       "added_at": "2023-11-15 14:49:16",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-11-15 14:49:16",
       "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/7mxRhBvxm7zjMzSsO24kIq"
+    },
+    {
+      "added_at": "2023-11-15 14:49:16",
+      "album": {
         "name": "2 4 : 2 6",
         "url": "https://open.spotify.com/album/7eaR08LzRS8EOKXBWMzaqV"
       },
@@ -787,22 +803,6 @@
     {
       "added_at": "2023-11-15 14:49:16",
       "album": {
-        "name": "Epik High Is Here \u4e0b (Part 2)",
-        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "Champagne",
-      "url": "https://open.spotify.com/track/7mxRhBvxm7zjMzSsO24kIq"
-    },
-    {
-      "added_at": "2023-11-15 14:49:16",
-      "album": {
         "name": "Lonely Night",
         "url": "https://open.spotify.com/album/1pLKSCkBrzd8Cwh2vK0DTf"
       },
@@ -819,6 +819,26 @@
       "duration_ms": 217019,
       "name": "Lonely Night (feat.GAEKO)",
       "url": "https://open.spotify.com/track/7ftv3uigGigYVND065syjM"
+    },
+    {
+      "added_at": "2023-11-15 14:49:16",
+      "album": {
+        "name": "Epik High Is Here \u4e0b (Part 2)",
+        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "duration_ms": 286226,
+      "name": "Family Portrait (Feat. Kim Feel)",
+      "url": "https://open.spotify.com/track/20LM2NJWXVwCqtkVeJIb7B"
     },
     {
       "added_at": "2023-11-15 14:49:16",
@@ -871,26 +891,6 @@
       "duration_ms": 209086,
       "name": "Home Sh*t Home (Feat. JINBO)",
       "url": "https://open.spotify.com/track/2pdIj0UkQBu0eB0BMIoJcT"
-    },
-    {
-      "added_at": "2023-11-15 14:49:16",
-      "album": {
-        "name": "Epik High Is Here \u4e0b (Part 2)",
-        "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
-      },
-      "artists": [
-        {
-          "name": "Epik High",
-          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
-        },
-        {
-          "name": "Kim Feel",
-          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
-        }
-      ],
-      "duration_ms": 286226,
-      "name": "Family Portrait (Feat. Kim Feel)",
-      "url": "https://open.spotify.com/track/20LM2NJWXVwCqtkVeJIb7B"
     },
     {
       "added_at": "2023-11-15 14:49:16",

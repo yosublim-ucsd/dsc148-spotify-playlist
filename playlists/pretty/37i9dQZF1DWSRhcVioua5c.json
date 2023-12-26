@@ -1,12 +1,12 @@
 {
   "description": "Canciones de ayer y de hoy grabadas a fuego en el coraz\u00f3n.",
-  "num_followers": 69907,
+  "num_followers": 69949,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2Q3ODkzM2JmZTFlMzI4MDVkNWI3OGI1OWQ4MWNkMWVkNGEzOGRm",
+  "snapshot_id": "MCw4NWU3MzlkOWE3MjQwMGY3ZmU2NDUzMDRmNTk2OGU3NjVmNTg4NjNm",
   "tracks": [
     {
       "added_at": "2023-12-15 03:00:00",
@@ -131,6 +131,38 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Lo Mejor de Mi...",
+        "url": "https://open.spotify.com/album/6jaKNEm0vp1mzqyNx3Emdn"
+      },
+      "artists": [
+        {
+          "name": "Tamara Castro",
+          "url": "https://open.spotify.com/artist/11PnNvuse5a0xPupBIeHyW"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "Zamba de Amor en Vuelo",
+      "url": "https://open.spotify.com/track/2cVlTjHnCyozDmiUR64dmy"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Zambas Rom\u00e1nticas: Mujer, Ni\u00f1a y Amiga / Gustito a Mistol / Gallitos del Aire / Jazm\u00edn de Luna",
+        "url": "https://open.spotify.com/album/475rRqqrmSGkwYYJFcOUaz"
+      },
+      "artists": [
+        {
+          "name": "Campedrinos",
+          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
+        }
+      ],
+      "duration_ms": 446264,
+      "name": "Zambas Rom\u00e1nticas: Mujer, Ni\u00f1a y Amiga / Gustito a Mistol / Gallitos del Aire / Jazm\u00edn de Luna",
+      "url": "https://open.spotify.com/track/4fGfiuxECgwNDL8cTC9SOT"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "La Voz Del Viento",
         "url": "https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a"
       },
@@ -175,38 +207,6 @@
       "duration_ms": 195266,
       "name": "Amor Salvaje",
       "url": "https://open.spotify.com/track/3uXcL2mkNMUB8aK26xA0jE"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Lo Mejor de Mi...",
-        "url": "https://open.spotify.com/album/6jaKNEm0vp1mzqyNx3Emdn"
-      },
-      "artists": [
-        {
-          "name": "Tamara Castro",
-          "url": "https://open.spotify.com/artist/11PnNvuse5a0xPupBIeHyW"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "Zamba de Amor en Vuelo",
-      "url": "https://open.spotify.com/track/2cVlTjHnCyozDmiUR64dmy"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Zambas Rom\u00e1nticas: Mujer, Ni\u00f1a y Amiga / Gustito a Mistol / Gallitos del Aire / Jazm\u00edn de Luna",
-        "url": "https://open.spotify.com/album/475rRqqrmSGkwYYJFcOUaz"
-      },
-      "artists": [
-        {
-          "name": "Campedrinos",
-          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
-        }
-      ],
-      "duration_ms": 446264,
-      "name": "Zambas Rom\u00e1nticas: Mujer, Ni\u00f1a y Amiga / Gustito a Mistol / Gallitos del Aire / Jazm\u00edn de Luna",
-      "url": "https://open.spotify.com/track/4fGfiuxECgwNDL8cTC9SOT"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Nocheros",
-        "url": "https://open.spotify.com/album/3zK6I5P3OOV33Mr0DP1H2n"
-      },
-      "artists": [
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        }
-      ],
-      "duration_ms": 253466,
-      "name": "Roja Boca",
-      "url": "https://open.spotify.com/track/1361babwNajrOi2roMF78b"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Sombra Herida",
         "url": "https://open.spotify.com/album/2mBQU6Vnz2t13oBpM5F6iv"
       },
@@ -291,6 +275,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Nocheros",
+        "url": "https://open.spotify.com/album/3zK6I5P3OOV33Mr0DP1H2n"
+      },
+      "artists": [
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        }
+      ],
+      "duration_ms": 253466,
+      "name": "Roja Boca",
+      "url": "https://open.spotify.com/track/1361babwNajrOi2roMF78b"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Due\u00f1a de Mi Alma",
         "url": "https://open.spotify.com/album/2STMKBpE4k24Q7y1Dk7pfa"
       },
@@ -303,6 +303,26 @@
       "duration_ms": 249090,
       "name": "Due\u00f1a de Mi Alma",
       "url": "https://open.spotify.com/track/4X6W8eU2duqUHmSN1euAHY"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Ahyre",
+        "url": "https://open.spotify.com/album/2jJyXMCAAQmgk1WlsFFwAN"
+      },
+      "artists": [
+        {
+          "name": "AHYRE",
+          "url": "https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP"
+        },
+        {
+          "name": "Raly Barrionuevo",
+          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
+        }
+      ],
+      "duration_ms": 236612,
+      "name": "Bellasombra",
+      "url": "https://open.spotify.com/track/5YJstLbbwtemVuiGJjNRvl"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -339,26 +359,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Carnaval, Pasi\u00f3n del Norte",
-        "url": "https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC"
-      },
-      "artists": [
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        },
-        {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
-        }
-      ],
-      "duration_ms": 297360,
-      "name": "Vuela una Lagrima",
-      "url": "https://open.spotify.com/track/2qhnJ56sGfxNQuuG3QulPP"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Gira",
         "url": "https://open.spotify.com/album/1VyygGuS90quhVk1uG01SM"
       },
@@ -371,58 +371,6 @@
       "duration_ms": 225573,
       "name": "Hoy",
       "url": "https://open.spotify.com/track/5LwjcFrvqLcfa4ONEcDP3o"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Lo Mejor de la Zamba Argentina",
-        "url": "https://open.spotify.com/album/0Pp6Z81iR3LT1y88KpX07g"
-      },
-      "artists": [
-        {
-          "name": "El Chango Nieto",
-          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
-        }
-      ],
-      "duration_ms": 223293,
-      "name": "Zamba del Cantor Enamorado",
-      "url": "https://open.spotify.com/track/7Jq2TLAjRAiKZH0EctiAhJ"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Ahyre",
-        "url": "https://open.spotify.com/album/2jJyXMCAAQmgk1WlsFFwAN"
-      },
-      "artists": [
-        {
-          "name": "AHYRE",
-          "url": "https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP"
-        },
-        {
-          "name": "Raly Barrionuevo",
-          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
-        }
-      ],
-      "duration_ms": 236612,
-      "name": "Bellasombra",
-      "url": "https://open.spotify.com/track/5YJstLbbwtemVuiGJjNRvl"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Folklore Rom\u00e1ntico: Nada Tengo de Ti / Canci\u00f3n del Adi\u00f3s / Due\u00f1a de Mi Alma / Zamba para Olvidarte",
-        "url": "https://open.spotify.com/album/3MuAn8aG7ZvtCop2C8GH3G"
-      },
-      "artists": [
-        {
-          "name": "Campedrinos",
-          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
-        }
-      ],
-      "duration_ms": 475764,
-      "name": "Folklore Rom\u00e1ntico: Nada Tengo de Ti / Canci\u00f3n del Adi\u00f3s / Due\u00f1a de Mi Alma / Zamba para Olvidarte",
-      "url": "https://open.spotify.com/track/3YicOdQ4o9KZcyxY8bZWu5"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -443,6 +391,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Lo Mejor de la Zamba Argentina",
+        "url": "https://open.spotify.com/album/0Pp6Z81iR3LT1y88KpX07g"
+      },
+      "artists": [
+        {
+          "name": "El Chango Nieto",
+          "url": "https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM"
+        }
+      ],
+      "duration_ms": 223293,
+      "name": "Zamba del Cantor Enamorado",
+      "url": "https://open.spotify.com/track/7Jq2TLAjRAiKZH0EctiAhJ"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Si La Vieras",
         "url": "https://open.spotify.com/album/4RcPHUbcXSib4fo1c6h522"
       },
@@ -459,34 +423,58 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Mas Alla De La Ternura",
-        "url": "https://open.spotify.com/album/7bDXvo0f6646ayD4xSaeBc"
+        "name": "Carnaval, Pasi\u00f3n del Norte",
+        "url": "https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC"
       },
       "artists": [
         {
-          "name": "Los Changos",
-          "url": "https://open.spotify.com/artist/5fQdSkybNhdOYKwLLUWL71"
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        },
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
         }
       ],
-      "duration_ms": 252813,
-      "name": "Anaranjado - Mas All\u00e1 De La Ternura",
-      "url": "https://open.spotify.com/track/6gSV038YhbtaZ5IXPSQpzk"
+      "duration_ms": 297360,
+      "name": "Vuela una Lagrima",
+      "url": "https://open.spotify.com/track/2qhnJ56sGfxNQuuG3QulPP"
     },
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Mi Cantar",
-        "url": "https://open.spotify.com/album/2K9taShKqjDEg9ebn4yngX"
+        "name": "C\u00f3mplices",
+        "url": "https://open.spotify.com/album/55QxtsOzQKo2F0g0puf4jM"
       },
       "artists": [
         {
-          "name": "Jorge Rojas",
-          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+          "name": "AHYRE",
+          "url": "https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP"
+        },
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
         }
       ],
-      "duration_ms": 259566,
-      "name": "Olvida Que Te He Amado",
-      "url": "https://open.spotify.com/track/0addwQw947UzHhby2thnGg"
+      "duration_ms": 320085,
+      "name": "C\u00f3mplices",
+      "url": "https://open.spotify.com/track/6IjYr3ioZO2yDLFsVWPd6A"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Folklore Rom\u00e1ntico: Nada Tengo de Ti / Canci\u00f3n del Adi\u00f3s / Due\u00f1a de Mi Alma / Zamba para Olvidarte",
+        "url": "https://open.spotify.com/album/3MuAn8aG7ZvtCop2C8GH3G"
+      },
+      "artists": [
+        {
+          "name": "Campedrinos",
+          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
+        }
+      ],
+      "duration_ms": 475764,
+      "name": "Folklore Rom\u00e1ntico: Nada Tengo de Ti / Canci\u00f3n del Adi\u00f3s / Due\u00f1a de Mi Alma / Zamba para Olvidarte",
+      "url": "https://open.spotify.com/track/3YicOdQ4o9KZcyxY8bZWu5"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -523,6 +511,38 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Mi Cantar",
+        "url": "https://open.spotify.com/album/2K9taShKqjDEg9ebn4yngX"
+      },
+      "artists": [
+        {
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+        }
+      ],
+      "duration_ms": 259566,
+      "name": "Olvida Que Te He Amado",
+      "url": "https://open.spotify.com/track/0addwQw947UzHhby2thnGg"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Mas Alla De La Ternura",
+        "url": "https://open.spotify.com/album/7bDXvo0f6646ayD4xSaeBc"
+      },
+      "artists": [
+        {
+          "name": "Los Changos",
+          "url": "https://open.spotify.com/artist/5fQdSkybNhdOYKwLLUWL71"
+        }
+      ],
+      "duration_ms": 252813,
+      "name": "Anaranjado - Mas All\u00e1 De La Ternura",
+      "url": "https://open.spotify.com/track/6gSV038YhbtaZ5IXPSQpzk"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Zamba para Decir Adi\u00f3s",
         "url": "https://open.spotify.com/album/0Yu1ZRD84F4phx551aEUl5"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 234347,
       "name": "Zamba para Decir Adi\u00f3s",
       "url": "https://open.spotify.com/track/1XojvsvPtUsG4SqgHiGiGX"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "C\u00f3mplices",
-        "url": "https://open.spotify.com/album/55QxtsOzQKo2F0g0puf4jM"
-      },
-      "artists": [
-        {
-          "name": "AHYRE",
-          "url": "https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP"
-        },
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 320085,
-      "name": "C\u00f3mplices",
-      "url": "https://open.spotify.com/track/6IjYr3ioZO2yDLFsVWPd6A"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Eterno Amor",
-        "url": "https://open.spotify.com/album/12wekh0j8rkjGbzWejlU1X"
-      },
-      "artists": [
-        {
-          "name": "Los Alonsitos",
-          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
-        }
-      ],
-      "duration_ms": 236854,
-      "name": "Eterno Amor",
-      "url": "https://open.spotify.com/track/3x4TnooiGvW4itV28CVsV7"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Si Pudiera",
         "url": "https://open.spotify.com/album/1wMLkuAbaKSaqZr11xG32C"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 173322,
       "name": "Si Pudiera",
       "url": "https://open.spotify.com/track/2S9oyHCvXTaaIFm2dkpwge"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Eterno Amor",
+        "url": "https://open.spotify.com/album/12wekh0j8rkjGbzWejlU1X"
+      },
+      "artists": [
+        {
+          "name": "Los Alonsitos",
+          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
+        }
+      ],
+      "duration_ms": 236854,
+      "name": "Eterno Amor",
+      "url": "https://open.spotify.com/track/3x4TnooiGvW4itV28CVsV7"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Tierra Mia",
+        "url": "https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK"
+      },
+      "artists": [
+        {
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        }
+      ],
+      "duration_ms": 165399,
+      "name": "Ya No Juegues Conmigo",
+      "url": "https://open.spotify.com/track/46aBmruUOkNlmUQAyHwImt"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Natural",
         "url": "https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx"
       },
@@ -895,18 +911,34 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Tierra Mia",
-        "url": "https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK"
+        "name": "Eterno Amor",
+        "url": "https://open.spotify.com/album/1Yxth9gcry4oASkewP9b6y"
       },
       "artists": [
         {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+          "name": "Los del Portezuelo",
+          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
         }
       ],
-      "duration_ms": 165399,
-      "name": "Ya No Juegues Conmigo",
-      "url": "https://open.spotify.com/track/46aBmruUOkNlmUQAyHwImt"
+      "duration_ms": 190608,
+      "name": "Eterno Amor",
+      "url": "https://open.spotify.com/track/7r16iJ5dJcdqFQJeh08GPs"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Tanto Amor",
+        "url": "https://open.spotify.com/album/1tazdXlkpmlZAEOZTnMvH5"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera y Pampas de Bariloche",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 226629,
+      "name": "Tanto Amor",
+      "url": "https://open.spotify.com/track/0UYDmAoE8TMg4on6RTlk4S"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -943,22 +975,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Eterno Amor",
-        "url": "https://open.spotify.com/album/1Yxth9gcry4oASkewP9b6y"
-      },
-      "artists": [
-        {
-          "name": "Los del Portezuelo",
-          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
-        }
-      ],
-      "duration_ms": 190608,
-      "name": "Eterno Amor",
-      "url": "https://open.spotify.com/track/7r16iJ5dJcdqFQJeh08GPs"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Ojos de Cielo",
         "url": "https://open.spotify.com/album/1NT5OYNcowSUQFdypTjtmA"
       },
@@ -975,18 +991,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Tanto Amor",
-        "url": "https://open.spotify.com/album/1tazdXlkpmlZAEOZTnMvH5"
+        "name": "Tal Como Siento",
+        "url": "https://open.spotify.com/album/4RD7YJolJUp5VbNYGtawfn"
       },
       "artists": [
         {
-          "name": "Sele Vera y Pampas de Bariloche",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
         }
       ],
-      "duration_ms": 226629,
-      "name": "Tanto Amor",
-      "url": "https://open.spotify.com/track/0UYDmAoE8TMg4on6RTlk4S"
+      "duration_ms": 240491,
+      "name": "Tal Como Siento",
+      "url": "https://open.spotify.com/track/1ubO0IhgfyLLsiLilCYryr"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Tal Como Siento",
-        "url": "https://open.spotify.com/album/4RD7YJolJUp5VbNYGtawfn"
-      },
-      "artists": [
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 240491,
-      "name": "Tal Como Siento",
-      "url": "https://open.spotify.com/track/1ubO0IhgfyLLsiLilCYryr"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Andando",
         "url": "https://open.spotify.com/album/4Ni4fgItgWOCP2mCyPce10"
       },
@@ -1067,22 +1067,6 @@
       "duration_ms": 184346,
       "name": "Para Los Ojos M\u00e1s Bellos",
       "url": "https://open.spotify.com/track/669cJlmstiDWCFDyef4pil"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Al Decir Adi\u00f3s",
-        "url": "https://open.spotify.com/album/53cIKsT8pb3688c5hzNpJ9"
-      },
-      "artists": [
-        {
-          "name": "Jorge Rojas",
-          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
-        }
-      ],
-      "duration_ms": 228961,
-      "name": "Al Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/06qoYqycYdCaq6UMfEdiNY"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1115,6 +1099,22 @@
       "duration_ms": 213859,
       "name": "Nada",
       "url": "https://open.spotify.com/track/3MZj5HNiSCfcBE4fMRiSpX"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Al Decir Adi\u00f3s",
+        "url": "https://open.spotify.com/album/53cIKsT8pb3688c5hzNpJ9"
+      },
+      "artists": [
+        {
+          "name": "Jorge Rojas",
+          "url": "https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6"
+        }
+      ],
+      "duration_ms": 228961,
+      "name": "Al Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/06qoYqycYdCaq6UMfEdiNY"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Serenata Oto\u00f1al / Serenata para una Flor / Cuando Llora Mi Guitarra / Adoraci\u00f3n / Mantelito Blanco / Nuestro Juramento / Que Nunca Falte Esta Zamba / El Que Toca Nunca Baila",
+        "url": "https://open.spotify.com/album/4mgOIuHak6A0OQsh6uu5R0"
+      },
+      "artists": [
+        {
+          "name": "Canto Del Alma",
+          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
+        }
+      ],
+      "duration_ms": 758954,
+      "name": "Serenata Oto\u00f1al / Serenata para una Flor / Cuando Llora Mi Guitarra / Adoraci\u00f3n / Mantelito Blanco / Nuestro Juramento / Que Nunca Falte Esta Zamba / El Que Toca Nunca Baila",
+      "url": "https://open.spotify.com/track/2d63TiTyLpNhj6KkdZSDWd"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Entrega de Amor",
         "url": "https://open.spotify.com/album/2LbaW1WZijr0QOrBIQtVSq"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 228388,
       "name": "No Me Quiero Olvidar",
       "url": "https://open.spotify.com/track/0pwdW67It2KSrOIRVqFLiQ"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Serenata Oto\u00f1al / Serenata para una Flor / Cuando Llora Mi Guitarra / Adoraci\u00f3n / Mantelito Blanco / Nuestro Juramento / Que Nunca Falte Esta Zamba / El Que Toca Nunca Baila",
-        "url": "https://open.spotify.com/album/4mgOIuHak6A0OQsh6uu5R0"
-      },
-      "artists": [
-        {
-          "name": "Canto Del Alma",
-          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
-        }
-      ],
-      "duration_ms": 758954,
-      "name": "Serenata Oto\u00f1al / Serenata para una Flor / Cuando Llora Mi Guitarra / Adoraci\u00f3n / Mantelito Blanco / Nuestro Juramento / Que Nunca Falte Esta Zamba / El Que Toca Nunca Baila",
-      "url": "https://open.spotify.com/track/2d63TiTyLpNhj6KkdZSDWd"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1455,26 +1455,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Ansiado Encuentro",
-        "url": "https://open.spotify.com/album/3Z3dyIUxHZfTlBarrWrHLR"
-      },
-      "artists": [
-        {
-          "name": "ALEJANDRO FARIAS",
-          "url": "https://open.spotify.com/artist/5p5tYck12ZHCLPdbFp13rh"
-        },
-        {
-          "name": "La Eulogia Folk",
-          "url": "https://open.spotify.com/artist/044zb14KOZosDnxI71XpGr"
-        }
-      ],
-      "duration_ms": 275563,
-      "name": "Ansiado Encuentro",
-      "url": "https://open.spotify.com/track/4bgaEcs1bsLuV49Q67DtRT"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Vivo",
         "url": "https://open.spotify.com/album/6Pr25N5cC07hZZ2jHTEH1W"
       },
@@ -1491,6 +1471,26 @@
       "duration_ms": 237957,
       "name": "Vivo",
       "url": "https://open.spotify.com/track/0Nvnd56uJQpOB104qIEcOM"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Ansiado Encuentro",
+        "url": "https://open.spotify.com/album/3Z3dyIUxHZfTlBarrWrHLR"
+      },
+      "artists": [
+        {
+          "name": "ALEJANDRO FARIAS",
+          "url": "https://open.spotify.com/artist/5p5tYck12ZHCLPdbFp13rh"
+        },
+        {
+          "name": "La Eulogia Folk",
+          "url": "https://open.spotify.com/artist/044zb14KOZosDnxI71XpGr"
+        }
+      ],
+      "duration_ms": 275563,
+      "name": "Ansiado Encuentro",
+      "url": "https://open.spotify.com/track/4bgaEcs1bsLuV49Q67DtRT"
     },
     {
       "added_at": "2023-12-15 03:00:00",

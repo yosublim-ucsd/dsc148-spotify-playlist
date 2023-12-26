@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvoJqVv7uOD.md) - [plain]
 
 > Easy listening mix of recent hits, everyday favorites & some new songs you'll love\. Cover: Sia
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,510 likes - 86 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,617 likes - 86 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvoJqVv7uOD.md) - [plain]
 | 85 | [In The Stars](https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [In The Stars](https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd) | 3:36 |
 | 86 | [Kissing Strangers](https://open.spotify.com/track/0HDT8RYiXpvc5G1u3RG9vL) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Kissing Strangers](https://open.spotify.com/album/1DYhbM9VgjsIRigZLF5iLe) | 2:27 |
 
-Snapshot ID: `MCwzN2ZjYzBmMmMwYjFkODVlMDdjYjZmYzU2ZGEyY2JiYmJhMzEzZmM1`
+Snapshot ID: `MCwwNmRhMzdmYTgwYmVmYzRlM2VmNWQzMjVhNzUxNTk3MGE1MzFlNzU3`

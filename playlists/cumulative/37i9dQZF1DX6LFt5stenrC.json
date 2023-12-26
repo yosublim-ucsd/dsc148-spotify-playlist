@@ -1771,6 +1771,24 @@
     },
     {
       "album": {
+        "name": "Pokemon - 2.b.a. Master - Music From The Hit Tv Series",
+        "url": "https://open.spotify.com/album/3n86RctzbnrGY599Vo0fhg"
+      },
+      "artists": [
+        {
+          "name": "Pok\u00e9mon",
+          "url": "https://open.spotify.com/artist/6goK4KMSdP4A8lw8jk4ADk"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198186,
+      "name": "Pok\u00e9mon Theme",
+      "url": "https://open.spotify.com/track/5m5uvPjQT3Md5GKK3qyaXy"
+    },
+    {
+      "album": {
         "name": "Power Rangers Dino Charge Theme Song",
         "url": "https://open.spotify.com/album/2TlnrB2whsLXmvMKK1KpQ0"
       },
@@ -1992,7 +2010,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 101850,
       "name": "Shine On Everyone",
       "url": "https://open.spotify.com/track/5Qy4yGFjXdkEAsmIIcagWg"

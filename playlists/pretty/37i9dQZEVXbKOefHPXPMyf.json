@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most viral tracks right now - Costa Rica.",
-  "num_followers": 18085,
+  "num_followers": 18082,
   "original_name": "Viral 50 - Costa Rica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzU2NzgyNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzU2ODY4ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-12-24 16:05:43",
+      "added_at": "2023-12-25 15:10:34",
+      "album": {
+        "name": "La Diabla",
+        "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 172264,
+      "name": "La Diabla",
+      "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
+    },
+    {
+      "added_at": "2023-12-25 15:10:34",
       "album": {
         "name": "MARTILLAZO",
         "url": "https://open.spotify.com/album/1FX1f4X5yS0wlnItHjvhvo"
@@ -33,55 +49,7 @@
       "url": "https://open.spotify.com/track/283ngLR3LX6cdq9unM7MJ0"
     },
     {
-      "added_at": "2023-12-24 16:05:43",
-      "album": {
-        "name": "La Diabla",
-        "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 172264,
-      "name": "La Diabla",
-      "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
-    },
-    {
-      "added_at": "2023-12-24 16:05:43",
-      "album": {
-        "name": "S",
-        "url": "https://open.spotify.com/album/79vKHixvQiLaE3TIJM6Fjy"
-      },
-      "artists": [
-        {
-          "name": "La Ultra Morada - La S",
-          "url": "https://open.spotify.com/artist/63vdlaqhKD7NN41LfG15QE"
-        }
-      ],
-      "duration_ms": 175635,
-      "name": "Viva Saprissa!!",
-      "url": "https://open.spotify.com/track/5CMvb1NoeXFuzb37SNlvmz"
-    },
-    {
-      "added_at": "2023-12-24 16:05:43",
-      "album": {
-        "name": "1 1 1",
-        "url": "https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 184027,
-      "name": "M.A.I",
-      "url": "https://open.spotify.com/track/6ERI20r4GlgPI6ZDVLcGMO"
-    },
-    {
-      "added_at": "2023-12-24 16:05:43",
+      "added_at": "2023-12-25 15:10:34",
       "album": {
         "name": "B\u00e9cane - A COLORS SHOW",
         "url": "https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB"
@@ -97,7 +65,23 @@
       "url": "https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ"
     },
     {
-      "added_at": "2023-12-24 16:05:43",
+      "added_at": "2023-12-25 15:10:34",
+      "album": {
+        "name": "1 1 1",
+        "url": "https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 184027,
+      "name": "M.A.I",
+      "url": "https://open.spotify.com/track/6ERI20r4GlgPI6ZDVLcGMO"
+    },
+    {
+      "added_at": "2023-12-25 15:10:34",
       "album": {
         "name": "FERXXOCALIPSIS",
         "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
@@ -117,7 +101,39 @@
       "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
     },
     {
-      "added_at": "2023-12-24 16:05:43",
+      "added_at": "2023-12-25 15:10:34",
+      "album": {
+        "name": "S",
+        "url": "https://open.spotify.com/album/79vKHixvQiLaE3TIJM6Fjy"
+      },
+      "artists": [
+        {
+          "name": "La Ultra Morada - La S",
+          "url": "https://open.spotify.com/artist/63vdlaqhKD7NN41LfG15QE"
+        }
+      ],
+      "duration_ms": 175635,
+      "name": "Viva Saprissa!!",
+      "url": "https://open.spotify.com/track/5CMvb1NoeXFuzb37SNlvmz"
+    },
+    {
+      "added_at": "2023-12-25 15:10:34",
+      "album": {
+        "name": "VVS Switch",
+        "url": "https://open.spotify.com/album/7EEtDPmhHgyY5aNq62IaGg"
+      },
+      "artists": [
+        {
+          "name": "Pressure 9X19",
+          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
+        }
+      ],
+      "duration_ms": 168178,
+      "name": "VVS Switch",
+      "url": "https://open.spotify.com/track/3pEP9sPglz2hVxA8BUsB7S"
+    },
+    {
+      "added_at": "2023-12-25 15:10:34",
       "album": {
         "name": "Turn Red",
         "url": "https://open.spotify.com/album/5XHE7cIVEdXrJPEfPBbmrr"
@@ -133,7 +149,7 @@
       "url": "https://open.spotify.com/track/6mTcIbKdnX6IIp8c305yQw"
     },
     {
-      "added_at": "2023-12-24 16:05:43",
+      "added_at": "2023-12-25 15:10:34",
       "album": {
         "name": "Alucin",
         "url": "https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB"
@@ -157,23 +173,7 @@
       "url": "https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS"
     },
     {
-      "added_at": "2023-12-24 16:05:43",
-      "album": {
-        "name": "VVS Switch",
-        "url": "https://open.spotify.com/album/7EEtDPmhHgyY5aNq62IaGg"
-      },
-      "artists": [
-        {
-          "name": "Pressure 9X19",
-          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
-        }
-      ],
-      "duration_ms": 168178,
-      "name": "VVS Switch",
-      "url": "https://open.spotify.com/track/3pEP9sPglz2hVxA8BUsB7S"
-    },
-    {
-      "added_at": "2023-12-24 16:05:43",
+      "added_at": "2023-12-25 15:10:34",
       "album": {
         "name": "Patadas de Ahogado",
         "url": "https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj"
@@ -193,23 +193,23 @@
       "url": "https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl"
     },
     {
-      "added_at": "2023-12-24 16:05:43",
+      "added_at": "2023-12-25 15:10:34",
       "album": {
-        "name": "Estrellita",
-        "url": "https://open.spotify.com/album/0dSbNOBz88REk7f8SBGXDW"
+        "name": "La V\u00edctima",
+        "url": "https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr"
       },
       "artists": [
         {
-          "name": "Zhamira Zambrano",
-          "url": "https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3"
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
         }
       ],
-      "duration_ms": 157377,
-      "name": "Estrellita",
-      "url": "https://open.spotify.com/track/7wv09FSKH9ZBqXkNRKBony"
+      "duration_ms": 156345,
+      "name": "La V\u00edctima",
+      "url": "https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY"
     },
     {
-      "added_at": "2023-12-24 16:05:43",
+      "added_at": "2023-12-25 15:10:34",
       "album": {
         "name": "\u0414\u0436\u0430\u0433\u0430-\u0434\u0436\u0430\u0433\u0430",
         "url": "https://open.spotify.com/album/5bqf6dvtEfpmc9IqM2wSLz"
@@ -225,7 +225,39 @@
       "url": "https://open.spotify.com/track/1Hg0KhBCuME4PgsTYMBK9y"
     },
     {
-      "added_at": "2023-12-24 16:05:43",
+      "added_at": "2023-12-25 15:10:34",
+      "album": {
+        "name": "Talento de Vida",
+        "url": "https://open.spotify.com/album/6qxrH0TOwnCuxvj4pvmImH"
+      },
+      "artists": [
+        {
+          "name": "Doble ONE Flow Letal",
+          "url": "https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX"
+        }
+      ],
+      "duration_ms": 188089,
+      "name": "Mi Kryptonita",
+      "url": "https://open.spotify.com/track/1UL2Sn9KX8StSDOp8ZEAOC"
+    },
+    {
+      "added_at": "2023-12-25 15:10:34",
+      "album": {
+        "name": "Estrellita",
+        "url": "https://open.spotify.com/album/0dSbNOBz88REk7f8SBGXDW"
+      },
+      "artists": [
+        {
+          "name": "Zhamira Zambrano",
+          "url": "https://open.spotify.com/artist/2IdDxiUkjLI0WfypRO1Rh3"
+        }
+      ],
+      "duration_ms": 157377,
+      "name": "Estrellita",
+      "url": "https://open.spotify.com/track/7wv09FSKH9ZBqXkNRKBony"
+    },
+    {
+      "added_at": "2023-12-25 15:10:34",
       "album": {
         "name": "BONNIE AND CLYDE (REMIX)",
         "url": "https://open.spotify.com/album/2HeKQhQNkXEbaMxawEv4Om"
@@ -249,39 +281,7 @@
       "url": "https://open.spotify.com/track/08s7guLP2nSMxmYqmjf7oV"
     },
     {
-      "added_at": "2023-12-24 16:05:43",
-      "album": {
-        "name": "Talento de Vida",
-        "url": "https://open.spotify.com/album/6qxrH0TOwnCuxvj4pvmImH"
-      },
-      "artists": [
-        {
-          "name": "Doble ONE Flow Letal",
-          "url": "https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX"
-        }
-      ],
-      "duration_ms": 188089,
-      "name": "Mi Kryptonita",
-      "url": "https://open.spotify.com/track/1UL2Sn9KX8StSDOp8ZEAOC"
-    },
-    {
-      "added_at": "2023-12-24 16:05:43",
-      "album": {
-        "name": "La V\u00edctima",
-        "url": "https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr"
-      },
-      "artists": [
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 156345,
-      "name": "La V\u00edctima",
-      "url": "https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY"
-    },
-    {
-      "added_at": "2023-12-24 16:05:43",
+      "added_at": "2023-12-25 15:10:34",
       "album": {
         "name": "La Purga",
         "url": "https://open.spotify.com/album/3zHAGkOIV9ut97pmLfd76p"
@@ -301,7 +301,7 @@
       "url": "https://open.spotify.com/track/4ELHvTp06qVu1XvWe7sy5Z"
     },
     {
-      "added_at": "2023-12-24 16:05:43",
+      "added_at": "2023-12-25 15:10:34",
       "album": {
         "name": "1 1 1",
         "url": "https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF"
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F"
     },
     {
-      "added_at": "2023-12-24 16:05:43",
+      "added_at": "2023-12-25 15:10:34",
       "album": {
         "name": "Vultures",
         "url": "https://open.spotify.com/album/4BdfszFenZ1eMrISGvourZ"
@@ -349,23 +349,39 @@
       "url": "https://open.spotify.com/track/21vc2kQZMS00cAyNT82a1M"
     },
     {
-      "added_at": "2023-12-24 16:05:43",
+      "added_at": "2023-12-25 15:10:34",
       "album": {
-        "name": "S",
-        "url": "https://open.spotify.com/album/79vKHixvQiLaE3TIJM6Fjy"
+        "name": "fantasmas",
+        "url": "https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3"
       },
       "artists": [
         {
-          "name": "La Ultra Morada - La S",
-          "url": "https://open.spotify.com/artist/63vdlaqhKD7NN41LfG15QE"
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 156130,
-      "name": "Tu Nombre Saprissa",
-      "url": "https://open.spotify.com/track/5RHOfwDpbufHvPJYMjLZTg"
+      "duration_ms": 287248,
+      "name": "fantasmas",
+      "url": "https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR"
     },
     {
-      "added_at": "2023-12-24 16:05:43",
+      "added_at": "2023-12-25 15:10:34",
+      "album": {
+        "name": "BABYMONSTER Debut Digital Single [BATTER UP]",
+        "url": "https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "duration_ms": 188179,
+      "name": "BATTER UP",
+      "url": "https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG"
+    },
+    {
+      "added_at": "2023-12-25 15:10:34",
       "album": {
         "name": "Kittyponeo",
         "url": "https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM"
@@ -385,7 +401,7 @@
       "url": "https://open.spotify.com/track/7yIIeKUxTpn36X6CFJhgEi"
     },
     {
-      "added_at": "2023-12-24 16:05:43",
+      "added_at": "2023-12-25 15:10:34",
       "album": {
         "name": "Good To Be",
         "url": "https://open.spotify.com/album/0GBpszNiUBiRAKZoCRb9KW"
@@ -401,55 +417,7 @@
       "url": "https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6"
     },
     {
-      "added_at": "2023-12-24 16:05:43",
-      "album": {
-        "name": "CANTO A LA VIDA",
-        "url": "https://open.spotify.com/album/78SK9hrSR8KZ9Gi6cvq27n"
-      },
-      "artists": [
-        {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        }
-      ],
-      "duration_ms": 205293,
-      "name": "CANTO A LA VIDA",
-      "url": "https://open.spotify.com/track/3QBF5mHQJbs8Z2ByPHWn7y"
-    },
-    {
-      "added_at": "2023-12-24 16:05:43",
-      "album": {
-        "name": "fantasmas",
-        "url": "https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3"
-      },
-      "artists": [
-        {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
-        }
-      ],
-      "duration_ms": 287248,
-      "name": "fantasmas",
-      "url": "https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR"
-    },
-    {
-      "added_at": "2023-12-24 16:05:43",
-      "album": {
-        "name": "BABYMONSTER Debut Digital Single [BATTER UP]",
-        "url": "https://open.spotify.com/album/2CSQuvvt3XHLDX36O3nRv7"
-      },
-      "artists": [
-        {
-          "name": "BABYMONSTER",
-          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
-        }
-      ],
-      "duration_ms": 188179,
-      "name": "BATTER UP",
-      "url": "https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG"
-    },
-    {
-      "added_at": "2023-12-24 16:05:43",
+      "added_at": "2023-12-25 15:10:34",
       "album": {
         "name": "WYA",
         "url": "https://open.spotify.com/album/510YwmkYmdNRSYPQSxDV2O"
@@ -469,39 +437,55 @@
       "url": "https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF"
     },
     {
-      "added_at": "2023-12-24 16:05:43",
+      "added_at": "2023-12-25 15:10:34",
       "album": {
-        "name": "Besitos",
-        "url": "https://open.spotify.com/album/0ywsmAj4XOjXIP0OwJJJBj"
+        "name": "S",
+        "url": "https://open.spotify.com/album/79vKHixvQiLaE3TIJM6Fjy"
       },
       "artists": [
         {
-          "name": "BARBEL",
-          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+          "name": "La Ultra Morada - La S",
+          "url": "https://open.spotify.com/artist/63vdlaqhKD7NN41LfG15QE"
         }
       ],
-      "duration_ms": 301276,
-      "name": "Besitos",
-      "url": "https://open.spotify.com/track/7yS5ru5Zte13ujlQZqVbtC"
+      "duration_ms": 156130,
+      "name": "Tu Nombre Saprissa",
+      "url": "https://open.spotify.com/track/5RHOfwDpbufHvPJYMjLZTg"
     },
     {
-      "added_at": "2023-12-24 16:05:43",
+      "added_at": "2023-12-25 15:10:34",
       "album": {
-        "name": "COSAS QUE NO TE DIJE",
-        "url": "https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy"
+        "name": "CANTO A LA VIDA",
+        "url": "https://open.spotify.com/album/78SK9hrSR8KZ9Gi6cvq27n"
       },
       "artists": [
         {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
         }
       ],
-      "duration_ms": 224725,
-      "name": "COSAS QUE NO TE DIJE",
-      "url": "https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z"
+      "duration_ms": 205293,
+      "name": "CANTO A LA VIDA",
+      "url": "https://open.spotify.com/track/3QBF5mHQJbs8Z2ByPHWn7y"
     },
     {
-      "added_at": "2023-12-24 16:05:43",
+      "added_at": "2023-12-25 15:10:34",
+      "album": {
+        "name": "El Rey De La Rapidas",
+        "url": "https://open.spotify.com/album/50bcMYI7pmJHrhlaD1LnDa"
+      },
+      "artists": [
+        {
+          "name": "Pressure 9X19",
+          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
+        }
+      ],
+      "duration_ms": 149424,
+      "name": "El Rey De La Rapidas",
+      "url": "https://open.spotify.com/track/06K5Vl4Ui4QhMEHD6IW9U2"
+    },
+    {
+      "added_at": "2023-12-25 15:10:34",
       "album": {
         "name": "me va a costar",
         "url": "https://open.spotify.com/album/7MgPJ608fJvGMf7xCJlPq9"
@@ -517,31 +501,23 @@
       "url": "https://open.spotify.com/track/0Y7NqQ9RNoHZHDTeDS4UnO"
     },
     {
-      "added_at": "2023-12-24 16:05:43",
+      "added_at": "2023-12-25 15:10:34",
       "album": {
-        "name": "The Idol Episode 4 (Music from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
+        "name": "COSAS QUE NO TE DIJE",
+        "url": "https://open.spotify.com/album/52te2AyrVAYPc04onR1Lfy"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        },
-        {
-          "name": "Lily-Rose Depp",
-          "url": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
         }
       ],
-      "duration_ms": 244684,
-      "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
-      "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
+      "duration_ms": 224725,
+      "name": "COSAS QUE NO TE DIJE",
+      "url": "https://open.spotify.com/track/5xSt1wxZobFcLzHrFakv6z"
     },
     {
-      "added_at": "2023-12-24 16:05:43",
+      "added_at": "2023-12-25 15:10:34",
       "album": {
         "name": "ESQUINAS",
         "url": "https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6"
@@ -565,7 +541,47 @@
       "url": "https://open.spotify.com/track/6VsqdsaY4oV06NODea0L0J"
     },
     {
-      "added_at": "2023-12-24 16:05:43",
+      "added_at": "2023-12-25 15:10:34",
+      "album": {
+        "name": "Besitos",
+        "url": "https://open.spotify.com/album/0ywsmAj4XOjXIP0OwJJJBj"
+      },
+      "artists": [
+        {
+          "name": "BARBEL",
+          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        }
+      ],
+      "duration_ms": 301276,
+      "name": "Besitos",
+      "url": "https://open.spotify.com/track/7yS5ru5Zte13ujlQZqVbtC"
+    },
+    {
+      "added_at": "2023-12-25 15:10:34",
+      "album": {
+        "name": "The Idol Episode 4 (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Lily-Rose Depp",
+          "url": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
+        }
+      ],
+      "duration_ms": 244684,
+      "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
+      "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
+    },
+    {
+      "added_at": "2023-12-25 15:10:34",
       "album": {
         "name": "Que Onda",
         "url": "https://open.spotify.com/album/4x6cjOcVz44aiLSOHCLKPd"
@@ -589,39 +605,7 @@
       "url": "https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO"
     },
     {
-      "added_at": "2023-12-24 16:05:43",
-      "album": {
-        "name": "El Rey De La Rapidas",
-        "url": "https://open.spotify.com/album/50bcMYI7pmJHrhlaD1LnDa"
-      },
-      "artists": [
-        {
-          "name": "Pressure 9X19",
-          "url": "https://open.spotify.com/artist/7MNP6nVHIDvPCRvfCeAJpF"
-        }
-      ],
-      "duration_ms": 149424,
-      "name": "El Rey De La Rapidas",
-      "url": "https://open.spotify.com/track/06K5Vl4Ui4QhMEHD6IW9U2"
-    },
-    {
-      "added_at": "2023-12-24 16:05:43",
-      "album": {
-        "name": "Caballo Homosexual De Las Monta\u00f1as",
-        "url": "https://open.spotify.com/album/0tUOF6Ri9RJM99uHQEj4bD"
-      },
-      "artists": [
-        {
-          "name": "Karil",
-          "url": "https://open.spotify.com/artist/2O0QRCDgbkloUKfSCIUtTD"
-        }
-      ],
-      "duration_ms": 300384,
-      "name": "Caballo Homosexual De Las Monta\u00f1as",
-      "url": "https://open.spotify.com/track/5qJ1OFXySmyGcs7Sn6r2cf"
-    },
-    {
-      "added_at": "2023-12-24 16:05:43",
+      "added_at": "2023-12-25 15:10:34",
       "album": {
         "name": "Good God!",
         "url": "https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY"
@@ -637,27 +621,43 @@
       "url": "https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd"
     },
     {
-      "added_at": "2023-12-24 16:05:43",
+      "added_at": "2023-12-25 15:10:34",
       "album": {
-        "name": "Sentimiento, Elegancia y M\u00e1s Maldad",
-        "url": "https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY"
+        "name": "Caballo Homosexual De Las Monta\u00f1as",
+        "url": "https://open.spotify.com/album/0tUOF6Ri9RJM99uHQEj4bD"
       },
       "artists": [
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Karil",
+          "url": "https://open.spotify.com/artist/2O0QRCDgbkloUKfSCIUtTD"
         }
       ],
-      "duration_ms": 224285,
-      "name": "ALV",
-      "url": "https://open.spotify.com/track/32hCeeK3ayPux4UauNPsgA"
+      "duration_ms": 300384,
+      "name": "Caballo Homosexual De Las Monta\u00f1as",
+      "url": "https://open.spotify.com/track/5qJ1OFXySmyGcs7Sn6r2cf"
     },
     {
-      "added_at": "2023-12-24 16:05:43",
+      "added_at": "2023-12-25 15:10:34",
+      "album": {
+        "name": "If I Should Fall from Grace with God (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4V92Puney9WxGPecKtLG4L"
+      },
+      "artists": [
+        {
+          "name": "The Pogues",
+          "url": "https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH"
+        },
+        {
+          "name": "Kirsty MacColl",
+          "url": "https://open.spotify.com/artist/6UlNIFEuWlBqb4TvlVCekq"
+        }
+      ],
+      "duration_ms": 272466,
+      "name": "Fairytale of New York (feat. Kirsty MacColl)",
+      "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
+    },
+    {
+      "added_at": "2023-12-25 15:10:34",
       "album": {
         "name": "Narcotics (with Bryant Myers)",
         "url": "https://open.spotify.com/album/1SpjWWwAvgm4LLMFtqOwUc"
@@ -677,7 +677,43 @@
       "url": "https://open.spotify.com/track/0p0cOpBujR114Wirv5AM7W"
     },
     {
-      "added_at": "2023-12-24 16:05:43",
+      "added_at": "2023-12-25 15:10:34",
+      "album": {
+        "name": "LAS QUE NO TIENEN PAP\u00c1",
+        "url": "https://open.spotify.com/album/4jV2xPaptwajnBeamcIhbf"
+      },
+      "artists": [
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "duration_ms": 198626,
+      "name": "LAS QUE NO TIENEN PAP\u00c1",
+      "url": "https://open.spotify.com/track/6TS8WvNunHz3sIePWAxYfE"
+    },
+    {
+      "added_at": "2023-12-25 15:10:34",
+      "album": {
+        "name": "Sentimiento, Elegancia y M\u00e1s Maldad",
+        "url": "https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 224285,
+      "name": "ALV",
+      "url": "https://open.spotify.com/track/32hCeeK3ayPux4UauNPsgA"
+    },
+    {
+      "added_at": "2023-12-25 15:10:34",
       "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
         "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
@@ -697,39 +733,7 @@
       "url": "https://open.spotify.com/track/1o82DwNisONAd2mu1RcGE6"
     },
     {
-      "added_at": "2023-12-24 16:05:43",
-      "album": {
-        "name": "SPECIALZ",
-        "url": "https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc"
-      },
-      "artists": [
-        {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
-        }
-      ],
-      "duration_ms": 238986,
-      "name": "SPECIALZ",
-      "url": "https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF"
-    },
-    {
-      "added_at": "2023-12-24 16:05:43",
-      "album": {
-        "name": "You're Losing Me (From The Vault)",
-        "url": "https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 277831,
-      "name": "You\u2019re Losing Me (From The Vault)",
-      "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
-    },
-    {
-      "added_at": "2023-12-24 16:05:43",
+      "added_at": "2023-12-25 15:10:34",
       "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
@@ -745,23 +749,95 @@
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
-      "added_at": "2023-12-24 16:05:43",
+      "added_at": "2023-12-25 15:10:34",
       "album": {
-        "name": "LAS QUE NO TIENEN PAP\u00c1",
-        "url": "https://open.spotify.com/album/4jV2xPaptwajnBeamcIhbf"
+        "name": "QUIENES SON",
+        "url": "https://open.spotify.com/album/29oehbbF6k3rgM5BD9D3jW"
       },
       "artists": [
         {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+          "name": "CDobleta",
+          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
         }
       ],
-      "duration_ms": 198626,
-      "name": "LAS QUE NO TIENEN PAP\u00c1",
-      "url": "https://open.spotify.com/track/6TS8WvNunHz3sIePWAxYfE"
+      "duration_ms": 163212,
+      "name": "QUIENES SON",
+      "url": "https://open.spotify.com/track/528T2xvgLJ1T8TWYX7blBy"
     },
     {
-      "added_at": "2023-12-24 16:05:43",
+      "added_at": "2023-12-25 15:10:34",
+      "album": {
+        "name": "Conv\u00e9ncete",
+        "url": "https://open.spotify.com/album/2ECz8iqicVkgCZr6QAVnoP"
+      },
+      "artists": [
+        {
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+        }
+      ],
+      "duration_ms": 216263,
+      "name": "Conv\u00e9ncete",
+      "url": "https://open.spotify.com/track/5UyH584f99c7qErZifyaHy"
+    },
+    {
+      "added_at": "2023-12-25 15:10:34",
+      "album": {
+        "name": "Bugambilia",
+        "url": "https://open.spotify.com/album/2Ex6JjyUiIcQRqFeoTSInw"
+      },
+      "artists": [
+        {
+          "name": "Nasa Histoires",
+          "url": "https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu"
+        }
+      ],
+      "duration_ms": 189640,
+      "name": "Bugambilia",
+      "url": "https://open.spotify.com/track/5hXCTV8OCsNak8OVry7yzM"
+    },
+    {
+      "added_at": "2023-12-25 15:10:34",
+      "album": {
+        "name": "The Forever Story (Extended Version)",
+        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 229938,
+      "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
+      "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
+    },
+    {
+      "added_at": "2023-12-25 15:10:34",
+      "album": {
+        "name": "SPECIALZ",
+        "url": "https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "duration_ms": 238986,
+      "name": "SPECIALZ",
+      "url": "https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF"
+    },
+    {
+      "added_at": "2023-12-25 15:10:34",
       "album": {
         "name": "Bendecidos",
         "url": "https://open.spotify.com/album/4UoVuTXXewpiz2fJWiosZH"
@@ -821,115 +897,23 @@
       "url": "https://open.spotify.com/track/2QEkingmea3KHdvw0dy9K3"
     },
     {
-      "added_at": "2023-12-24 16:05:43",
+      "added_at": "2023-12-25 15:10:34",
       "album": {
-        "name": "Bugambilia",
-        "url": "https://open.spotify.com/album/2Ex6JjyUiIcQRqFeoTSInw"
+        "name": "Lovin On Me",
+        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
       },
       "artists": [
         {
-          "name": "Nasa Histoires",
-          "url": "https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu"
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 189640,
-      "name": "Bugambilia",
-      "url": "https://open.spotify.com/track/5hXCTV8OCsNak8OVry7yzM"
+      "duration_ms": 138411,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
     },
     {
-      "added_at": "2023-12-24 16:05:43",
-      "album": {
-        "name": "Standing Next to You (Usher Remix)",
-        "url": "https://open.spotify.com/album/3bKfV6NFUOd6KMCkDJyEbh"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 214760,
-      "name": "Standing Next to You (Usher Remix)",
-      "url": "https://open.spotify.com/track/0VPFT123HKoQ2J6ipeDcI1"
-    },
-    {
-      "added_at": "2023-12-24 16:05:43",
-      "album": {
-        "name": "Sentimiento, Elegancia y M\u00e1s Maldad",
-        "url": "https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 174719,
-      "name": "No tiene Nombre Esta Canci\u00f3n",
-      "url": "https://open.spotify.com/track/5Xjr84VOEVG57yVTWiA1ru"
-    },
-    {
-      "added_at": "2023-12-24 16:05:43",
-      "album": {
-        "name": "Conv\u00e9ncete",
-        "url": "https://open.spotify.com/album/2ECz8iqicVkgCZr6QAVnoP"
-      },
-      "artists": [
-        {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
-        }
-      ],
-      "duration_ms": 216263,
-      "name": "Conv\u00e9ncete",
-      "url": "https://open.spotify.com/track/5UyH584f99c7qErZifyaHy"
-    },
-    {
-      "added_at": "2023-12-24 16:05:43",
-      "album": {
-        "name": "The Forever Story (Extended Version)",
-        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
-      },
-      "artists": [
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 229938,
-      "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
-      "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
-    },
-    {
-      "added_at": "2023-12-24 16:05:43",
-      "album": {
-        "name": "QUIENES SON",
-        "url": "https://open.spotify.com/album/29oehbbF6k3rgM5BD9D3jW"
-      },
-      "artists": [
-        {
-          "name": "CDobleta",
-          "url": "https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE"
-        }
-      ],
-      "duration_ms": 163212,
-      "name": "QUIENES SON",
-      "url": "https://open.spotify.com/track/528T2xvgLJ1T8TWYX7blBy"
-    },
-    {
-      "added_at": "2023-12-24 16:05:43",
+      "added_at": "2023-12-25 15:10:34",
       "album": {
         "name": "Quien Es Dei V?",
         "url": "https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC"
@@ -945,7 +929,7 @@
       "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
     },
     {
-      "added_at": "2023-12-24 16:05:43",
+      "added_at": "2023-12-25 15:10:34",
       "album": {
         "name": "Colmillo De Leche",
         "url": "https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4"
@@ -959,6 +943,22 @@
       "duration_ms": 186455,
       "name": "Primera Cita",
       "url": "https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm"
+    },
+    {
+      "added_at": "2023-12-25 15:10:34",
+      "album": {
+        "name": "You're Losing Me (From The Vault)",
+        "url": "https://open.spotify.com/album/5q3jthpn2h59P7pe2gmAl7"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 277831,
+      "name": "You\u2019re Losing Me (From The Vault)",
+      "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
     }
   ],
   "unique_name": "Viral 50 - Costa Rica",

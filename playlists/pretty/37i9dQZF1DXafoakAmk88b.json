@@ -1,12 +1,12 @@
 {
   "description": "New indie driving the current. Cover: Jordan Ward",
-  "num_followers": 39486,
+  "num_followers": 39500,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODFlYjFlMmFlZjkyNmUxOWVlYWU2ZDkwM2IwNTAxMDAyMGUxNGNm",
+  "snapshot_id": "MCwyZTkxN2I0NjcxMzA5YmEwZmJlOTAyMmM0NTBkYjZiN2FmYmQwOTQw",
   "tracks": [
     {
       "added_at": "2023-12-08 18:24:00",
@@ -327,6 +327,22 @@
     {
       "added_at": "2023-11-17 03:58:18",
       "album": {
+        "name": "Let\u2019s Start Here.",
+        "url": "https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 190581,
+      "name": "the ride-",
+      "url": "https://open.spotify.com/track/04HeNxRRVjcwctfp2K2kMu"
+    },
+    {
+      "added_at": "2023-11-17 03:58:18",
+      "album": {
         "name": "A Little Love",
         "url": "https://open.spotify.com/album/6E1vE4WcIXDDNOPW4jPYff"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 201893,
       "name": "A Little Love",
       "url": "https://open.spotify.com/track/5k6L1lOs0AANCee7nYW2au"
-    },
-    {
-      "added_at": "2023-11-17 03:58:18",
-      "album": {
-        "name": "Let\u2019s Start Here.",
-        "url": "https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK"
-      },
-      "artists": [
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 190581,
-      "name": "the ride-",
-      "url": "https://open.spotify.com/track/04HeNxRRVjcwctfp2K2kMu"
     },
     {
       "added_at": "2023-11-17 03:58:18",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-11-17 03:58:18",
       "album": {
-        "name": "Come Over And Love Me",
-        "url": "https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM"
-      },
-      "artists": [
-        {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "Come Over And Love Me",
-      "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
-    },
-    {
-      "added_at": "2023-11-17 03:58:18",
-      "album": {
         "name": "Thee Sacred Souls",
         "url": "https://open.spotify.com/album/6ofJrAZaaX0iWTXYXObUxE"
       },
@@ -545,6 +529,22 @@
       "url": "https://open.spotify.com/track/1KeXz6D76LhEaBhYR9n5vI"
     },
     {
+      "added_at": "2023-12-08 18:24:00",
+      "album": {
+        "name": "shutting me out / goo lagoon",
+        "url": "https://open.spotify.com/album/4WJsVZksTyP64i6fsH9Ocq"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 146080,
+      "name": "shutting me out",
+      "url": "https://open.spotify.com/track/1XKLWx4XOnB6nMkl5qFtYi"
+    },
+    {
       "added_at": "2023-11-17 03:58:18",
       "album": {
         "name": "Natural Brown Prom Queen",
@@ -559,22 +559,6 @@
       "duration_ms": 142666,
       "name": "Selfish Soul",
       "url": "https://open.spotify.com/track/3XqP0HAPdDN3Lkdoufds20"
-    },
-    {
-      "added_at": "2023-11-17 03:58:18",
-      "album": {
-        "name": "My Soft Machine",
-        "url": "https://open.spotify.com/album/4YCScpRHPfvu81qmsIGGmn"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 165759,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/5IcivgTMTJQFxh0ug2sg65"
     },
     {
       "added_at": "2023-11-17 03:58:18",
@@ -595,6 +579,38 @@
     {
       "added_at": "2023-11-17 03:58:18",
       "album": {
+        "name": "Come Over And Love Me",
+        "url": "https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "Come Over And Love Me",
+      "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
+    },
+    {
+      "added_at": "2023-11-17 03:58:18",
+      "album": {
+        "name": "My Soft Machine",
+        "url": "https://open.spotify.com/album/4YCScpRHPfvu81qmsIGGmn"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 165759,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/5IcivgTMTJQFxh0ug2sg65"
+    },
+    {
+      "added_at": "2023-11-17 03:58:18",
+      "album": {
         "name": "sever the blight",
         "url": "https://open.spotify.com/album/43FfbhTdXiQlc9gjlLDV59"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 174065,
       "name": "sever the blight",
       "url": "https://open.spotify.com/track/6HWBhda8t2Q68wg3U8T2lf"
-    },
-    {
-      "added_at": "2023-12-08 18:24:00",
-      "album": {
-        "name": "shutting me out / goo lagoon",
-        "url": "https://open.spotify.com/album/4WJsVZksTyP64i6fsH9Ocq"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 146080,
-      "name": "shutting me out",
-      "url": "https://open.spotify.com/track/1XKLWx4XOnB6nMkl5qFtYi"
     },
     {
       "added_at": "2023-11-17 03:58:18",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-11-17 03:58:18",
       "album": {
+        "name": "going...going...GONE!",
+        "url": "https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf"
+      },
+      "artists": [
+        {
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
+        }
+      ],
+      "duration_ms": 224240,
+      "name": "enknee1",
+      "url": "https://open.spotify.com/track/4F7lnSgxGKifUoWOppBJ8W"
+    },
+    {
+      "added_at": "2023-11-17 03:58:18",
+      "album": {
         "name": "no way out",
         "url": "https://open.spotify.com/album/6jSwImVIktHykGxGWURFWP"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 189514,
       "name": "coogie",
       "url": "https://open.spotify.com/track/3kBWttZ4s6uSErpI0x3qLZ"
-    },
-    {
-      "added_at": "2023-11-17 03:58:18",
-      "album": {
-        "name": "going...going...GONE!",
-        "url": "https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf"
-      },
-      "artists": [
-        {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
-        }
-      ],
-      "duration_ms": 224240,
-      "name": "enknee1",
-      "url": "https://open.spotify.com/track/4F7lnSgxGKifUoWOppBJ8W"
     },
     {
       "added_at": "2023-11-17 03:58:18",

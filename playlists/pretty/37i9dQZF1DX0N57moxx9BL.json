@@ -1,12 +1,12 @@
 {
   "description": "Listen to the recent hits of Christian Rock.  Cover:  <a href=\"spotify:artist:09LCTrVGnMsGbxexUFJoap\">Lacey Sturm</a> ",
-  "num_followers": 142232,
+  "num_followers": 142250,
   "original_name": "Top Christian Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTc3NDdkMTE4ODc0Mjc2YzEwMGQ1Nzg4MzVlZmQxMzUzYWMyNzc4",
+  "snapshot_id": "MCxhYzQwNDgzMTk3NWY5OGJkNzM3ODQwZWI4ZjE0ZjY2NDY4Mzg5OTIx",
   "tracks": [
     {
       "added_at": "2023-11-17 22:08:15",
@@ -155,26 +155,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Dominion: Day of Destiny",
-        "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        },
-        {
-          "name": "Adam Gontier",
-          "url": "https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT"
-        }
-      ],
-      "duration_ms": 207759,
-      "name": "Finish Line (feat. Adam Gontier)",
-      "url": "https://open.spotify.com/track/3zkge7duYNYjsByp6Q0qZM"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/36VsMgbY28pCqkiO95mRm9"
       },
@@ -187,22 +167,6 @@
       "duration_ms": 193551,
       "name": "Adhd",
       "url": "https://open.spotify.com/track/2tPy8C6z3eUWGC1iQr4ysZ"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
-        "name": "Divided Frame Of Mind",
-        "url": "https://open.spotify.com/album/4QFDKgHuOrhiYYDhCy2cWy"
-      },
-      "artists": [
-        {
-          "name": "Stephen Stanley",
-          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
-        }
-      ],
-      "duration_ms": 177569,
-      "name": "Holding Me Up",
-      "url": "https://open.spotify.com/track/5hWtMn99mB2ckaLubacTuZ"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -223,6 +187,42 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
+        "name": "Divided Frame Of Mind",
+        "url": "https://open.spotify.com/album/4QFDKgHuOrhiYYDhCy2cWy"
+      },
+      "artists": [
+        {
+          "name": "Stephen Stanley",
+          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
+        }
+      ],
+      "duration_ms": 177569,
+      "name": "Holding Me Up",
+      "url": "https://open.spotify.com/track/5hWtMn99mB2ckaLubacTuZ"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Dominion: Day of Destiny",
+        "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        },
+        {
+          "name": "Adam Gontier",
+          "url": "https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT"
+        }
+      ],
+      "duration_ms": 207759,
+      "name": "Finish Line (feat. Adam Gontier)",
+      "url": "https://open.spotify.com/track/3zkge7duYNYjsByp6Q0qZM"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
         "name": "Not Dead Yet",
         "url": "https://open.spotify.com/album/0KmTOk6a9ny1h2s8QHJLGO"
       },
@@ -235,6 +235,38 @@
       "duration_ms": 216013,
       "name": "Not Dead Yet",
       "url": "https://open.spotify.com/track/4hCkgJwyn7KfnfFSvYf8wF"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Before I Cave In",
+        "url": "https://open.spotify.com/album/3NyafgxbBgTtR4nOSRelDr"
+      },
+      "artists": [
+        {
+          "name": "Too Close To Touch",
+          "url": "https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp"
+        }
+      ],
+      "duration_ms": 260826,
+      "name": "Before I Cave In",
+      "url": "https://open.spotify.com/track/6PB07jO0s8JMyAaQk8CH7q"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Stones",
+        "url": "https://open.spotify.com/album/3Ncre0QjJsoutiGoT2LwBv"
+      },
+      "artists": [
+        {
+          "name": "Manafest",
+          "url": "https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL"
+        }
+      ],
+      "duration_ms": 191423,
+      "name": "Stones",
+      "url": "https://open.spotify.com/track/42H7odYYQQwdWpy3tnjMka"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -271,38 +303,6 @@
       "duration_ms": 192307,
       "name": "Crossfire",
       "url": "https://open.spotify.com/track/4bwvPbiPCsjyMZc6W4VPA2"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
-        "name": "Before I Cave In",
-        "url": "https://open.spotify.com/album/3NyafgxbBgTtR4nOSRelDr"
-      },
-      "artists": [
-        {
-          "name": "Too Close To Touch",
-          "url": "https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp"
-        }
-      ],
-      "duration_ms": 260826,
-      "name": "Before I Cave In",
-      "url": "https://open.spotify.com/track/6PB07jO0s8JMyAaQk8CH7q"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
-        "name": "Stones",
-        "url": "https://open.spotify.com/album/3Ncre0QjJsoutiGoT2LwBv"
-      },
-      "artists": [
-        {
-          "name": "Manafest",
-          "url": "https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL"
-        }
-      ],
-      "duration_ms": 191423,
-      "name": "Stones",
-      "url": "https://open.spotify.com/track/42H7odYYQQwdWpy3tnjMka"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -355,22 +355,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Dominion",
-        "url": "https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 238870,
-      "name": "Surviving The Game",
-      "url": "https://open.spotify.com/track/0urubGmXiODfWyGL6o6W4P"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Let the Light In",
         "url": "https://open.spotify.com/album/3a3YrkBHzsgTJq8gtZh9Fh"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 243699,
       "name": "Erase",
       "url": "https://open.spotify.com/track/5ZCEWXE5I4l6x76GZA2Xby"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Dominion",
+        "url": "https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 238870,
+      "name": "Surviving The Game",
+      "url": "https://open.spotify.com/track/0urubGmXiODfWyGL6o6W4P"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Stronger Than Death",
-        "url": "https://open.spotify.com/album/1Zm1eAKdcDlIHoeZr2l4mh"
-      },
-      "artists": [
-        {
-          "name": "Zahna",
-          "url": "https://open.spotify.com/artist/0HvsF5I55057H9hTIkn60F"
-        }
-      ],
-      "duration_ms": 222967,
-      "name": "Promise You're Coming Home",
-      "url": "https://open.spotify.com/track/6GQCJQD37FBX4ppIfS5qOF"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "HEAVEN DON'T CRY",
         "url": "https://open.spotify.com/album/5EricpSpQU25ngROzHMrSX"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 265706,
       "name": "HEAVEN DON'T CRY",
       "url": "https://open.spotify.com/track/1Jo1KIp5rigqKayHmce0Lz"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Stronger Than Death",
+        "url": "https://open.spotify.com/album/1Zm1eAKdcDlIHoeZr2l4mh"
+      },
+      "artists": [
+        {
+          "name": "Zahna",
+          "url": "https://open.spotify.com/artist/0HvsF5I55057H9hTIkn60F"
+        }
+      ],
+      "duration_ms": 222967,
+      "name": "Promise You're Coming Home",
+      "url": "https://open.spotify.com/track/6GQCJQD37FBX4ppIfS5qOF"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Words of Fire",
-        "url": "https://open.spotify.com/album/237V0zzNkyCtXYUCW4GW6H"
-      },
-      "artists": [
-        {
-          "name": "Kutless",
-          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
-        }
-      ],
-      "duration_ms": 251201,
-      "name": "Words of Fire",
-      "url": "https://open.spotify.com/track/7vWXQlBiKr6Itu4Xaz5bsS"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Dark Cold Night",
         "url": "https://open.spotify.com/album/2eJRAVWbt44uZ2Ce0bMhcB"
       },
@@ -827,6 +811,22 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
+        "name": "Words of Fire",
+        "url": "https://open.spotify.com/album/237V0zzNkyCtXYUCW4GW6H"
+      },
+      "artists": [
+        {
+          "name": "Kutless",
+          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
+        }
+      ],
+      "duration_ms": 251201,
+      "name": "Words of Fire",
+      "url": "https://open.spotify.com/track/7vWXQlBiKr6Itu4Xaz5bsS"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
         "name": "Legendary",
         "url": "https://open.spotify.com/album/5LNUSHuKsMdWwU9tnJV96C"
       },
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Twenty",
-        "url": "https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ"
-      },
-      "artists": [
-        {
-          "name": "Kutless",
-          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
-        }
-      ],
-      "duration_ms": 262254,
-      "name": "Run - Twenty Version",
-      "url": "https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Broken Pieces (Matthew Parker Remix)",
         "url": "https://open.spotify.com/album/327N5SiCa9EagolOyBKSvl"
       },
@@ -891,22 +875,6 @@
       "duration_ms": 233869,
       "name": "Broken Pieces (Matthew Parker Remix)",
       "url": "https://open.spotify.com/track/5ivx3RMOrx3UrDln8DlH7q"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
-        "name": "Surviving The Wasteland",
-        "url": "https://open.spotify.com/album/54BdL7J7JLcb2uzvMqwKnx"
-      },
-      "artists": [
-        {
-          "name": "Seventh Day Slumber",
-          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
-        }
-      ],
-      "duration_ms": 198500,
-      "name": "Surviving The Wasteland",
-      "url": "https://open.spotify.com/track/2IIW9v3uivpmBnLHkKDqNe"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -943,18 +911,34 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "The Light",
-        "url": "https://open.spotify.com/album/7k8gdxamGTnS2G5BnhjZ9C"
+        "name": "Twenty",
+        "url": "https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ"
       },
       "artists": [
         {
-          "name": "Grace Graber",
-          "url": "https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK"
+          "name": "Kutless",
+          "url": "https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX"
         }
       ],
-      "duration_ms": 201851,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/5qkWQFKOdvMquGr2hqGCa0"
+      "duration_ms": 262254,
+      "name": "Run - Twenty Version",
+      "url": "https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Surviving The Wasteland",
+        "url": "https://open.spotify.com/album/54BdL7J7JLcb2uzvMqwKnx"
+      },
+      "artists": [
+        {
+          "name": "Seventh Day Slumber",
+          "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
+        }
+      ],
+      "duration_ms": 198500,
+      "name": "Surviving The Wasteland",
+      "url": "https://open.spotify.com/track/2IIW9v3uivpmBnLHkKDqNe"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -971,6 +955,22 @@
       "duration_ms": 293538,
       "name": "Promise to Live",
       "url": "https://open.spotify.com/track/7uZCf8SZk5lhggbIF68j4k"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/7k8gdxamGTnS2G5BnhjZ9C"
+      },
+      "artists": [
+        {
+          "name": "Grace Graber",
+          "url": "https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK"
+        }
+      ],
+      "duration_ms": 201851,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/5qkWQFKOdvMquGr2hqGCa0"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
+        "name": "The Final Battle",
+        "url": "https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy"
+      },
+      "artists": [
+        {
+          "name": "Stryper",
+          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
+        }
+      ],
+      "duration_ms": 233686,
+      "name": "Ashes to Ashes",
+      "url": "https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
         "name": "Live Again",
         "url": "https://open.spotify.com/album/4i1mcZW2em8MDCY3D8DnWG"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 258706,
       "name": "The Shelter",
       "url": "https://open.spotify.com/track/3nQ5OXzqKOUpL1f55nQ7Se"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
-        "name": "The Final Battle",
-        "url": "https://open.spotify.com/album/5ReMXko8PPw0Om5O6PZsRy"
-      },
-      "artists": [
-        {
-          "name": "Stryper",
-          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
-        }
-      ],
-      "duration_ms": 233686,
-      "name": "Ashes to Ashes",
-      "url": "https://open.spotify.com/track/0VdFJsLHyBZrA5G2R32JIj"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Still Alive",
-        "url": "https://open.spotify.com/album/46JJleyJyvOvbOfiH9TbO3"
-      },
-      "artists": [
-        {
-          "name": "Red",
-          "url": "https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk"
-        }
-      ],
-      "duration_ms": 199933,
-      "name": "Still Alive",
-      "url": "https://open.spotify.com/track/5o5XuQreoeRNYiFXxx3bAk"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
         "name": "Pain",
         "url": "https://open.spotify.com/album/5L4XEDTwh2E0wTEW84oPMm"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 225490,
       "name": "Fear",
       "url": "https://open.spotify.com/track/1wadt2E2tdVBtijuvWykHz"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Still Alive",
+        "url": "https://open.spotify.com/album/46JJleyJyvOvbOfiH9TbO3"
+      },
+      "artists": [
+        {
+          "name": "Red",
+          "url": "https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk"
+        }
+      ],
+      "duration_ms": 199933,
+      "name": "Still Alive",
+      "url": "https://open.spotify.com/track/5o5XuQreoeRNYiFXxx3bAk"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
+        "name": "Songs for the Late Night Drive Home",
+        "url": "https://open.spotify.com/album/11gks8G950AYu1xpBeDZtl"
+      },
+      "artists": [
+        {
+          "name": "Anchor & Braille",
+          "url": "https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "Lower East Side",
+      "url": "https://open.spotify.com/track/0GUWPfLjDo6dRQLej2RDf2"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
         "name": "Pariah",
         "url": "https://open.spotify.com/album/4K5ENmroeroLov90S2QVyv"
       },
@@ -1355,18 +1371,18 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Songs for the Late Night Drive Home",
-        "url": "https://open.spotify.com/album/11gks8G950AYu1xpBeDZtl"
+        "name": "I'm Only Dreaming",
+        "url": "https://open.spotify.com/album/3VwF0Dev44PXIFKyi3UOtP"
       },
       "artists": [
         {
-          "name": "Anchor & Braille",
-          "url": "https://open.spotify.com/artist/0ofu3spkMmDV3INNoMtXbM"
+          "name": "Eisley",
+          "url": "https://open.spotify.com/artist/2IL35FbYiOta150uSYBCEg"
         }
       ],
-      "duration_ms": 211360,
-      "name": "Lower East Side",
-      "url": "https://open.spotify.com/track/0GUWPfLjDo6dRQLej2RDf2"
+      "duration_ms": 236969,
+      "name": "Louder Than a Lion",
+      "url": "https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1383,6 +1399,26 @@
       "duration_ms": 271159,
       "name": "Fear of Missing Out",
       "url": "https://open.spotify.com/track/4NvVIO4OXlYGLXTqcnl9EC"
+    },
+    {
+      "added_at": "2023-11-17 22:08:15",
+      "album": {
+        "name": "Salvation For 100%",
+        "url": "https://open.spotify.com/album/38NXx6sJGeORgzhIK453kF"
+      },
+      "artists": [
+        {
+          "name": "Pennell",
+          "url": "https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R"
+        },
+        {
+          "name": "Jacob Coyne",
+          "url": "https://open.spotify.com/artist/7K73VB30xtMVN68b30wzfR"
+        }
+      ],
+      "duration_ms": 369191,
+      "name": "Salvation For 100%",
+      "url": "https://open.spotify.com/track/6X6pABOKWPYlLe2BSmJknm"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1415,42 +1451,6 @@
       "duration_ms": 204942,
       "name": "What I've Become",
       "url": "https://open.spotify.com/track/5rf8uIF0S4HqLRK3jMifCd"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
-        "name": "Salvation For 100%",
-        "url": "https://open.spotify.com/album/38NXx6sJGeORgzhIK453kF"
-      },
-      "artists": [
-        {
-          "name": "Pennell",
-          "url": "https://open.spotify.com/artist/4II2ZuzGY0QoHXLStyyY7R"
-        },
-        {
-          "name": "Jacob Coyne",
-          "url": "https://open.spotify.com/artist/7K73VB30xtMVN68b30wzfR"
-        }
-      ],
-      "duration_ms": 369191,
-      "name": "Salvation For 100%",
-      "url": "https://open.spotify.com/track/6X6pABOKWPYlLe2BSmJknm"
-    },
-    {
-      "added_at": "2023-11-17 22:08:15",
-      "album": {
-        "name": "I'm Only Dreaming",
-        "url": "https://open.spotify.com/album/3VwF0Dev44PXIFKyi3UOtP"
-      },
-      "artists": [
-        {
-          "name": "Eisley",
-          "url": "https://open.spotify.com/artist/2IL35FbYiOta150uSYBCEg"
-        }
-      ],
-      "duration_ms": 236969,
-      "name": "Louder Than a Lion",
-      "url": "https://open.spotify.com/track/4gwcz4UeluIazCZf7XGOBT"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1539,26 +1539,22 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Boom (The Crystal Method Remix) [2021 Remaster]",
-        "url": "https://open.spotify.com/album/0ShPWwAwhOYolkaEiboDOr"
+        "name": "Strong Enough to Live",
+        "url": "https://open.spotify.com/album/5iaVtM0KucT2XDISJjmRTP"
       },
       "artists": [
         {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+          "name": "Late Night Savior",
+          "url": "https://open.spotify.com/artist/4yMIEw1F5ALRIv7bZz0jid"
         },
         {
-          "name": "Ken Jordan",
-          "url": "https://open.spotify.com/artist/3k0EquL2nh8WcviToiSZ5T"
-        },
-        {
-          "name": "Scott Kirkland",
-          "url": "https://open.spotify.com/artist/5uHXtwyDskuNwKQLVcQD07"
+          "name": "The Veer Union",
+          "url": "https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS"
         }
       ],
-      "duration_ms": 196294,
-      "name": "Boom (The Crystal Method Remix) - 2021 Remaster",
-      "url": "https://open.spotify.com/track/5E10Tq93lSG3gP6usfKAT6"
+      "duration_ms": 220140,
+      "name": "Strong Enough to Live (Acoustic)",
+      "url": "https://open.spotify.com/track/0YQBnvW2XtRrygrgn4sYbl"
     },
     {
       "added_at": "2023-11-17 22:08:15",
@@ -1579,22 +1575,26 @@
     {
       "added_at": "2023-11-17 22:08:15",
       "album": {
-        "name": "Strong Enough to Live",
-        "url": "https://open.spotify.com/album/5iaVtM0KucT2XDISJjmRTP"
+        "name": "Boom (The Crystal Method Remix) [2021 Remaster]",
+        "url": "https://open.spotify.com/album/0ShPWwAwhOYolkaEiboDOr"
       },
       "artists": [
         {
-          "name": "Late Night Savior",
-          "url": "https://open.spotify.com/artist/4yMIEw1F5ALRIv7bZz0jid"
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
         },
         {
-          "name": "The Veer Union",
-          "url": "https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS"
+          "name": "Ken Jordan",
+          "url": "https://open.spotify.com/artist/3k0EquL2nh8WcviToiSZ5T"
+        },
+        {
+          "name": "Scott Kirkland",
+          "url": "https://open.spotify.com/artist/5uHXtwyDskuNwKQLVcQD07"
         }
       ],
-      "duration_ms": 220140,
-      "name": "Strong Enough to Live (Acoustic)",
-      "url": "https://open.spotify.com/track/0YQBnvW2XtRrygrgn4sYbl"
+      "duration_ms": 196294,
+      "name": "Boom (The Crystal Method Remix) - 2021 Remaster",
+      "url": "https://open.spotify.com/track/5E10Tq93lSG3gP6usfKAT6"
     },
     {
       "added_at": "2023-11-17 22:08:15",

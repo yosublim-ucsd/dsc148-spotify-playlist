@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > new gems by artists carving their own lane\. cover: KAYTRANADA
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,072 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,094 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [03:17](https://open.spotify.com/track/2lwarabwOyurbN88Ms33F1) | [Harve](https://open.spotify.com/artist/0QwmEYJLsigRBfQFLNYGBx), [Jaydonclover](https://open.spotify.com/artist/0l5zmyAZvL7Z8JWFzXzMWz) | [03:17](https://open.spotify.com/album/6ewtnYBzfxTjxM7R5fL2qx) | 3:16 |
 | 100 | [Silent Assassin](https://open.spotify.com/track/4mbAgzlDrW35mp0dz4zE40) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Sweet Justice](https://open.spotify.com/album/2TvE3Ck4cUcXwwD7bkO7pl) | 2:07 |
 
-Snapshot ID: `MCw1NmE5MDY0MDVlN2JkZjE5OTYwN2JmNmQ2NzI3ZTYwZDczZjAxZDEw`
+Snapshot ID: `MCw0ZTJiN2Y2YjQyZmIxOWFmMmZkZWYzMzdmYWY1ZmI1NGQ2MDdjM2Jj`

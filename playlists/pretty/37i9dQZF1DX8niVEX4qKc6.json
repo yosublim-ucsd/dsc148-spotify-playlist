@@ -1,12 +1,12 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: El Zar ft Zoe Gotusso",
-  "num_followers": 179479,
+  "num_followers": 179493,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmQ1YmIwY2JkMWZiNmUyMjBkYzFmMWJkYzJiMWZhNDg1YTRiODVh",
+  "snapshot_id": "MCw5OTZmNzM5MTVmNzgwYmMyZjMxZTdmNWI2MWE1ODZmMDEwNDliMDUx",
   "tracks": [
     {
       "added_at": "2023-12-23 00:03:38",
@@ -287,42 +287,6 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "El Bolero (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5P85yo4uOZwMXQT46vubPe"
-      },
-      "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        },
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 209217,
-      "name": "El Bolero - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/27gu4iadh6eZ3seAD74dTM"
-    },
-    {
-      "added_at": "2023-12-23 00:03:38",
-      "album": {
-        "name": "Paris Texas",
-        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
-      },
-      "artists": [
-        {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "siente m\u00e1s",
-      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
-    },
-    {
-      "added_at": "2023-12-23 00:03:38",
-      "album": {
         "name": "Amor (Ft. Mon Laferte) (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw"
       },
@@ -355,6 +319,42 @@
       "duration_ms": 149880,
       "name": "Tu Locura",
       "url": "https://open.spotify.com/track/1nCCY0KmVlfn8WUmGYYwLf"
+    },
+    {
+      "added_at": "2023-12-23 00:03:38",
+      "album": {
+        "name": "El Bolero (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5P85yo4uOZwMXQT46vubPe"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 209217,
+      "name": "El Bolero - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/27gu4iadh6eZ3seAD74dTM"
+    },
+    {
+      "added_at": "2023-12-23 00:03:38",
+      "album": {
+        "name": "Paris Texas",
+        "url": "https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "siente m\u00e1s",
+      "url": "https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "INTENSIDAD",
-        "url": "https://open.spotify.com/album/1YF0w8x0aPfLp8kdWhIhI5"
-      },
-      "artists": [
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
-        }
-      ],
-      "duration_ms": 158297,
-      "name": "INTENSIDAD",
-      "url": "https://open.spotify.com/track/3Uxv4vwiTiVFq53vJGtVzJ"
-    },
-    {
-      "added_at": "2023-12-23 00:03:38",
-      "album": {
         "name": "Ac\u00fastico Gran Rex",
         "url": "https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 276853,
       "name": "Pasan las Horas - En Vivo Ac\u00fastico",
       "url": "https://open.spotify.com/track/4PZVup7z7oXGhwvzsygBMw"
+    },
+    {
+      "added_at": "2023-12-23 00:03:38",
+      "album": {
+        "name": "INTENSIDAD",
+        "url": "https://open.spotify.com/album/1YF0w8x0aPfLp8kdWhIhI5"
+      },
+      "artists": [
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        }
+      ],
+      "duration_ms": 158297,
+      "name": "INTENSIDAD",
+      "url": "https://open.spotify.com/track/3Uxv4vwiTiVFq53vJGtVzJ"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -819,26 +819,6 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "Chica Acuario",
-        "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
-      },
-      "artists": [
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        },
-        {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
-        }
-      ],
-      "duration_ms": 207163,
-      "name": "Chica Acuario",
-      "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
-    },
-    {
-      "added_at": "2023-12-23 00:03:38",
-      "album": {
         "name": "Pu\u00f1al",
         "url": "https://open.spotify.com/album/2g6dGngFLZpfAigXheqNiI"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 273013,
       "name": "A Veces Vuelvo - Acustico",
       "url": "https://open.spotify.com/track/1dfXnEZgqnYD3C5ydo8kxs"
+    },
+    {
+      "added_at": "2023-12-23 00:03:38",
+      "album": {
+        "name": "Chica Acuario",
+        "url": "https://open.spotify.com/album/1u7tofT5wIeYXa0GjGWkAn"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        },
+        {
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+        }
+      ],
+      "duration_ms": 207163,
+      "name": "Chica Acuario",
+      "url": "https://open.spotify.com/track/5c9B03lTeTYbOVgtPS6Tj2"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "Mi Primer D\u00eda Triste",
-        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 150859,
-      "name": "Am\u00e1ndote",
-      "url": "https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU"
-    },
-    {
-      "added_at": "2023-12-23 00:03:38",
-      "album": {
         "name": "Guerras (Un Viaje en el Tiempo)",
         "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 246858,
       "name": "Tan Solo (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/5YvShwXtxESCHIPNs0xGxW"
+    },
+    {
+      "added_at": "2023-12-23 00:03:38",
+      "album": {
+        "name": "Mi Primer D\u00eda Triste",
+        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 150859,
+      "name": "Am\u00e1ndote",
+      "url": "https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "De la Cabeza 2",
-        "url": "https://open.spotify.com/album/3p2WuAT2zLzKwVoDFaPwml"
-      },
-      "artists": [
-        {
-          "name": "Bersuit Vergarabat",
-          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
-        }
-      ],
-      "duration_ms": 277520,
-      "name": "Un Pacto",
-      "url": "https://open.spotify.com/track/3g8vgAx9nQWBWw2USi5xEA"
-    },
-    {
-      "added_at": "2023-12-23 00:03:38",
-      "album": {
         "name": "yen3",
         "url": "https://open.spotify.com/album/2V3ZN5QG0b5TLBaP9sBmBy"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 186625,
       "name": "yen3",
       "url": "https://open.spotify.com/track/4OjtJ3VuA51RYAFcr4O8vV"
+    },
+    {
+      "added_at": "2023-12-23 00:03:38",
+      "album": {
+        "name": "De la Cabeza 2",
+        "url": "https://open.spotify.com/album/3p2WuAT2zLzKwVoDFaPwml"
+      },
+      "artists": [
+        {
+          "name": "Bersuit Vergarabat",
+          "url": "https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO"
+        }
+      ],
+      "duration_ms": 277520,
+      "name": "Un Pacto",
+      "url": "https://open.spotify.com/track/3g8vgAx9nQWBWw2USi5xEA"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "No me pidas que no sea un inconsciente",
-        "url": "https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g"
-      },
-      "artists": [
-        {
-          "name": "Sir Hope",
-          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
-        }
-      ],
-      "duration_ms": 133859,
-      "name": "No me pidas que no sea un inconsciente",
-      "url": "https://open.spotify.com/track/7zHsLEE8CDXjzHyaw3Klc2"
-    },
-    {
-      "added_at": "2023-12-23 00:03:38",
-      "album": {
         "name": "Fin del Mundo",
         "url": "https://open.spotify.com/album/1T24IS66qX4DlVj1xIhUv0"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 232263,
       "name": "Fin del Mundo",
       "url": "https://open.spotify.com/track/4s6KoIwPyCL8vXFCTCXKCw"
+    },
+    {
+      "added_at": "2023-12-23 00:03:38",
+      "album": {
+        "name": "No me pidas que no sea un inconsciente",
+        "url": "https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g"
+      },
+      "artists": [
+        {
+          "name": "Sir Hope",
+          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
+        }
+      ],
+      "duration_ms": 133859,
+      "name": "No me pidas que no sea un inconsciente",
+      "url": "https://open.spotify.com/track/7zHsLEE8CDXjzHyaw3Klc2"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "Nada Tengo",
-        "url": "https://open.spotify.com/album/7i6Tt4suoPjWD8Wb59JdWY"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 272873,
-      "name": "Nada Tengo",
-      "url": "https://open.spotify.com/track/4byXAZwR336SCQ2UfzrNrY"
-    },
-    {
-      "added_at": "2023-12-23 00:03:38",
-      "album": {
         "name": "Guerras (Un Viaje en el Tiempo)",
         "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 265080,
       "name": "M\u00edrenla (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/3adqew32aN0DuInXYwwAzA"
+    },
+    {
+      "added_at": "2023-12-23 00:03:38",
+      "album": {
+        "name": "Nada Tengo",
+        "url": "https://open.spotify.com/album/7i6Tt4suoPjWD8Wb59JdWY"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 272873,
+      "name": "Nada Tengo",
+      "url": "https://open.spotify.com/track/4byXAZwR336SCQ2UfzrNrY"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "Respirar Bajo el Agua",
-        "url": "https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Berra",
-          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
-        }
-      ],
-      "duration_ms": 165032,
-      "name": "Laberinto",
-      "url": "https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9"
-    },
-    {
-      "added_at": "2023-12-23 00:03:38",
-      "album": {
         "name": "Ojos de R\u00edo",
         "url": "https://open.spotify.com/album/0FDjjaaAOmUSmEyGlcPJtM"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 136512,
       "name": "Ojos de R\u00edo",
       "url": "https://open.spotify.com/track/53O5lFOaitGbeEfb6OMFxs"
+    },
+    {
+      "added_at": "2023-12-23 00:03:38",
+      "album": {
+        "name": "Respirar Bajo el Agua",
+        "url": "https://open.spotify.com/album/79GGYEs02s4cfJKaEFLVyZ"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Berra",
+          "url": "https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO"
+        }
+      ],
+      "duration_ms": 165032,
+      "name": "Laberinto",
+      "url": "https://open.spotify.com/track/1byWs41iY3MDKPS8V9QZY9"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "Canciones para escuchar en el r\u00edo",
-        "url": "https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 165625,
-      "name": "Quiero - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3fnc1SnKSPWTFG2B0MKa3f"
-    },
-    {
-      "added_at": "2023-12-23 00:03:38",
-      "album": {
         "name": "T\u00fa Ve",
         "url": "https://open.spotify.com/album/4KSwWkeERQnwgucugHziPV"
       },
@@ -1475,18 +1459,18 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "De Musica Ligera",
-        "url": "https://open.spotify.com/album/5vSmAtrh1r2BEaMjibhXgK"
+        "name": "Canciones para escuchar en el r\u00edo",
+        "url": "https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk"
       },
       "artists": [
         {
-          "name": "S\u00e1mdalo",
-          "url": "https://open.spotify.com/artist/3bN66LSNd6HV80aVnehBo7"
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
         }
       ],
-      "duration_ms": 174096,
-      "name": "De Musica Ligera",
-      "url": "https://open.spotify.com/track/1GS8GZYrkYqLrhTHxDpNqT"
+      "duration_ms": 165625,
+      "name": "Quiero - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3fnc1SnKSPWTFG2B0MKa3f"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -1503,6 +1487,22 @@
       "duration_ms": 250573,
       "name": "Deja de Pedir Perd\u00f3n - MTV Unplugged",
       "url": "https://open.spotify.com/track/2pRfK1DH705B1NL48C31ka"
+    },
+    {
+      "added_at": "2023-12-23 00:03:38",
+      "album": {
+        "name": "De Musica Ligera",
+        "url": "https://open.spotify.com/album/5vSmAtrh1r2BEaMjibhXgK"
+      },
+      "artists": [
+        {
+          "name": "S\u00e1mdalo",
+          "url": "https://open.spotify.com/artist/3bN66LSNd6HV80aVnehBo7"
+        }
+      ],
+      "duration_ms": 174096,
+      "name": "De Musica Ligera",
+      "url": "https://open.spotify.com/track/1GS8GZYrkYqLrhTHxDpNqT"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "Flotando (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
+        "name": "Turf",
+        "url": "https://open.spotify.com/album/0ZFSgOIzslnsomJl9HhXHV"
       },
       "artists": [
         {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
         }
       ],
-      "duration_ms": 256708,
-      "name": "Flotando (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu"
+      "duration_ms": 271266,
+      "name": "Pasos Al Costado",
+      "url": "https://open.spotify.com/track/0WWCWt7FBh0r8pKs20DRF3"
     },
     {
       "added_at": "2023-12-23 00:03:38",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2023-12-23 00:03:38",
       "album": {
-        "name": "Turf",
-        "url": "https://open.spotify.com/album/0ZFSgOIzslnsomJl9HhXHV"
+        "name": "Flotando (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
       },
       "artists": [
         {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
         }
       ],
-      "duration_ms": 271266,
-      "name": "Pasos Al Costado",
-      "url": "https://open.spotify.com/track/0WWCWt7FBh0r8pKs20DRF3"
+      "duration_ms": 256708,
+      "name": "Flotando (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu"
     },
     {
       "added_at": "2023-12-23 00:03:38",

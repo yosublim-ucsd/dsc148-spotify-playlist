@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 
 > This is Jelly Roll\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,420 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,599 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 | 31 | [Twisted](https://open.spotify.com/track/7pM0OKRVs6jXBqRGu81mxD) | [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Twisted](https://open.spotify.com/album/1nIH0JZfg67in1Y7kt8WMH) | 3:22 |
 | 32 | [Love the Heartless](https://open.spotify.com/track/6VvtZ4ZBiwsUdREsAR0tY6) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Crosses and Crossroads](https://open.spotify.com/album/5n9eRSSDsuEa7MR99P4MwX) | 3:20 |
 | 33 | [Church](https://open.spotify.com/track/3XDm5Xh1chJePrcqNB2dwa) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:40 |
-| 34 | [Train Tracks \(feat\. Struggle\)](https://open.spotify.com/track/2pDgan1hrEIgjFU21MOLf6) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Struggle](https://open.spotify.com/artist/0EmCmRWJM3kIDf0IBrj62j) | [Sobriety Sucks](https://open.spotify.com/album/2Y0q8RgRdv3zyX3mndNSPK) | 3:29 |
+| 34 | [Sober](https://open.spotify.com/track/0fYEckNsTfncGvfwafcsEx) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ballads of the Broken](https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL) | 2:36 |
 | 35 | [Glitter](https://open.spotify.com/track/7JR4hNrjNTS9FOTAbfmr4k) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23) | [Waylon & Willie](https://open.spotify.com/album/2XPQn6UyIL06t8Jgv6mba1) | 3:49 |
-| 36 | [Sober](https://open.spotify.com/track/0fYEckNsTfncGvfwafcsEx) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ballads of the Broken](https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL) | 2:36 |
+| 36 | [Train Tracks \(feat\. Struggle\)](https://open.spotify.com/track/2pDgan1hrEIgjFU21MOLf6) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Struggle](https://open.spotify.com/artist/0EmCmRWJM3kIDf0IBrj62j) | [Sobriety Sucks](https://open.spotify.com/album/2Y0q8RgRdv3zyX3mndNSPK) | 3:29 |
 | 37 | [Copenhagen In A Cadillac](https://open.spotify.com/track/7gKSILe05xzPx5qqgYtYj5) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 2:32 |
 | 38 | [Dance With Ghosts](https://open.spotify.com/track/0BnkfcPXRPqxiqk593hnD9) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Self Medicated](https://open.spotify.com/album/5LtYMFZoC0elRSipbMV5sw) | 2:41 |
 | 39 | [Comfort Zone](https://open.spotify.com/track/7vO6yVflgdpdAxArZV6URT) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Addiction Kills](https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP) | 2:33 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Crktg.md) - [plain]
 | 45 | [Money](https://open.spotify.com/track/1MUhjYSAGXuejDzD8Qi8Qo) | [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23) | [Mud Mouth](https://open.spotify.com/album/2gCg9nIRbDzzAAdBFXdK6I) | 5:18 |
 | 46 | [Too Far](https://open.spotify.com/track/6v0OFUHCLCIFwwowVXMXPj) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Ryan Nelson](https://open.spotify.com/artist/3ZWoGIRMCbvG2ucNugtC8d) | [Self Medicated](https://open.spotify.com/album/5LtYMFZoC0elRSipbMV5sw) | 2:06 |
 | 47 | [Double Crown](https://open.spotify.com/track/7CxWLI6FDroqte3DbucNx9) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Crosses and Crossroads](https://open.spotify.com/album/5n9eRSSDsuEa7MR99P4MwX) | 2:57 |
-| 48 | [Echoes](https://open.spotify.com/track/51OjUIiXdsPCr52oB5ntX8) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Cub da CookUpBoss](https://open.spotify.com/artist/6sJKJYlNaVSirnhSyVg4Ps) | [Goodnight Nashville](https://open.spotify.com/album/4BEol4SQk5NthGSNpaxIal) | 3:57 |
-| 49 | [Almost Home](https://open.spotify.com/track/6IsnHsAA1kUOxASB9ynaOl) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Enlisted](https://open.spotify.com/album/5aEnEDTGJInHwBfuOLyyed) | 4:40 |
+| 48 | [Almost Home](https://open.spotify.com/track/6IsnHsAA1kUOxASB9ynaOl) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Enlisted](https://open.spotify.com/album/5aEnEDTGJInHwBfuOLyyed) | 4:40 |
+| 49 | [Echoes](https://open.spotify.com/track/51OjUIiXdsPCr52oB5ntX8) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Cub da CookUpBoss](https://open.spotify.com/artist/6sJKJYlNaVSirnhSyVg4Ps) | [Goodnight Nashville](https://open.spotify.com/album/4BEol4SQk5NthGSNpaxIal) | 3:57 |
 | 50 | [Problem Wit It \(feat\. DJ Paul\)](https://open.spotify.com/track/3E99aSAFKvgFAK4CtOoZVd) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Lil Wyte](https://open.spotify.com/artist/21O7WwRkik43ErKppxDKJq), [DJ Paul](https://open.spotify.com/artist/6T9QVklRmYwXCCesJI0T54) | [No Filter 2](https://open.spotify.com/album/0tQHA4lZ8voLMIJ4W9wcVA) | 4:20 |
 
-Snapshot ID: `MjgzOTAyOTIsMDAwMDAwMDBkZjczODllNzNjYzY3MDAyZmFhOTEyZDQyOWE1ZDQyZA==`
+Snapshot ID: `MjgzOTE3MzUsMDAwMDAwMDBkZDM3ZTU1MWVkYmUxMzFkNTc2OTU2YTY2OTUzYzNmMw==`

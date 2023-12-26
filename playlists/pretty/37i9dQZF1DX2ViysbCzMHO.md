@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,627 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,693 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,14 +76,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 66 | [Take My Name \(Wedding Version\)](https://open.spotify.com/track/5Pe59NlkY1rYND0I1wqgv6) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Take My Name \(Wedding Version\)](https://open.spotify.com/album/2gGSvwn3wS3drhrN07fnSC) | 2:54 |
 | 67 | [Trouble \- Piano Version](https://open.spotify.com/track/42TvKuLe8AtI0MKyvtnzz8) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Trouble \(Piano Version\)](https://open.spotify.com/album/21mY8GTvLZrjy3GT8HlazU) | 3:34 |
 | 68 | [No Horse To Ride \- demo version](https://open.spotify.com/track/0Z1bBXBtzMTb6QN7YkYQlN) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [No Horse To Ride \(demo version\)](https://open.spotify.com/album/1KzOdWkcjSDpJvOINJROAB) | 2:13 |
-| 69 | [Breakin' in Boots \- Stripped](https://open.spotify.com/track/1NF0YGDJOgX0iMixCwDK7d) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Breakin' in Boots \(Stripped\)](https://open.spotify.com/album/5So2dWFevZC3x2WPdZihJG) | 2:34 |
+| 69 | [Best Shot \(Acoustic\)](https://open.spotify.com/track/1i3koBIHigtGkhFSKEW3Gn) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Best Shot \(Acoustic\)](https://open.spotify.com/album/6RKktqrvsQlht15wzaeWR2) | 3:13 |
 | 70 | [Girls Like You \- Stripped](https://open.spotify.com/track/1tFvw8ZzcxNZS6vkzdwyVU) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Girls Like You \- Stripped](https://open.spotify.com/album/0iNFmOXHsrjgNL5NmSVvQu) | 2:59 |
-| 71 | [Best Shot \(Acoustic\)](https://open.spotify.com/track/1i3koBIHigtGkhFSKEW3Gn) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Best Shot \(Acoustic\)](https://open.spotify.com/album/6RKktqrvsQlht15wzaeWR2) | 3:13 |
+| 71 | [Breakin' in Boots \- Stripped](https://open.spotify.com/track/1NF0YGDJOgX0iMixCwDK7d) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Breakin' in Boots \(Stripped\)](https://open.spotify.com/album/5So2dWFevZC3x2WPdZihJG) | 2:34 |
 | 72 | [Little More Be Alright](https://open.spotify.com/track/1fvcAmIhO3FSGEWiNB5XFf) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP) | [Little More Be Alright](https://open.spotify.com/album/1PjknGJiyZnoKGTgUQHamM) | 3:35 |
 | 73 | [The Ocean \- Acoustic Live In Studio \(feat\. Charlie Worsham\)](https://open.spotify.com/track/5ACeiMLF9lMtYU3hadeKXR) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7), [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Honestly \(Deluxe\)](https://open.spotify.com/album/2hwH6mFRvUnXEAF5rAMZgY) | 3:32 |
 | 74 | [For A Day](https://open.spotify.com/track/29LtoylY7DDpmY2hMdEVkx) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [I Hate Cowboys & All Dogs Go To Hell](https://open.spotify.com/album/7rW017JpJNMTKoGXFTvini) | 2:47 |
-| 75 | [Better Off Gone \(Acoustic Sessions\)](https://open.spotify.com/track/4aadXTV9XyGSNTDEj8BGnw) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T) | [Acoustic Sessions](https://open.spotify.com/album/3TNHr3nvLUjMTrOkGI4J1V) | 3:24 |
-| 76 | [I'm Not Pretty \- Acoustic](https://open.spotify.com/track/13xZ7hQo7LEIFKMRJ2DsHz) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [I'm Not Prettier](https://open.spotify.com/album/4t0FJTBU1w5TrB9iTLiCcy) | 2:58 |
+| 75 | [I'm Not Pretty \- Acoustic](https://open.spotify.com/track/13xZ7hQo7LEIFKMRJ2DsHz) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [I'm Not Prettier](https://open.spotify.com/album/4t0FJTBU1w5TrB9iTLiCcy) | 2:58 |
+| 76 | [Better Off Gone \(Acoustic Sessions\)](https://open.spotify.com/track/4aadXTV9XyGSNTDEj8BGnw) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T) | [Acoustic Sessions](https://open.spotify.com/album/3TNHr3nvLUjMTrOkGI4J1V) | 3:24 |
 | 77 | [Faithfully \- Acoustic](https://open.spotify.com/track/2RkRmw3qOdTNeI2FRyAMum) | [Heath Sanders](https://open.spotify.com/artist/1hxrG4rJjRjciMdtODcxEP) | [Faithfully \(Acoustic\)](https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh) | 4:37 |
 | 78 | [Pretty Little Poison \- Piano Version](https://open.spotify.com/track/7Cch8QA1FTnFcCijMkrM8E) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison \(Piano Version\)](https://open.spotify.com/album/00q0IXrfOMAKRrOg8iBEzb) | 3:36 |
 | 79 | [Gone Too Soon \- Acoustic](https://open.spotify.com/track/48ZKh5pk6akQNSazYRxkqf) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Gone Too Soon \(Acoustic\)](https://open.spotify.com/album/6qWAmxDcJspGRWXxTvZN5i) | 2:47 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 92 | [Sober & Skinny](https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Sober & Skinny](https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0) | 3:18 |
 | 93 | [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/track/3nigSojrGL9YcS9RIt8X8U) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/album/75jOuaznH9JpfkrKLt6AmG) | 2:40 |
 | 94 | [Buy Dirt \- Alternate Version](https://open.spotify.com/track/6dYs20Vw8S9pzf8gR7BN0c) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/3T9Iw4QrkSpiJnqN0ZpNTd) | 2:50 |
-| 95 | [Creek Will Rise \- Acoustic](https://open.spotify.com/track/5ItavV1pcc92aYo56k0i6o) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Creek Will Rise \(Acoustic\)](https://open.spotify.com/album/1rTDhlSTMh1DCQtOqU119z) | 2:51 |
-| 96 | [Waves \(Live\)](https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Live from Layman](https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL) | 4:20 |
+| 95 | [Waves \(Live\)](https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Live from Layman](https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL) | 4:20 |
+| 96 | [Creek Will Rise \- Acoustic](https://open.spotify.com/track/5ItavV1pcc92aYo56k0i6o) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Creek Will Rise \(Acoustic\)](https://open.spotify.com/album/1rTDhlSTMh1DCQtOqU119z) | 2:51 |
 | 97 | [God Gave Me A Girl \- Acoustic](https://open.spotify.com/track/4xevwQd0gyWc2Z1BIY2uW2) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [God Gave Me A Girl \(Acoustic\)](https://open.spotify.com/album/3aZs3E4bwlZYr826YmenSI) | 3:21 |
 | 98 | [End of the Rain](https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep) | [Jason Blaine](https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ) | [End of the Rain](https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb) | 3:15 |
-| 99 | [Secret \- Gravel Drive Sounds](https://open.spotify.com/track/0LKQRiJgwtxYNNnlB4djQp) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Secret \(Gravel Drive Sounds\)](https://open.spotify.com/album/2ZUh3hF6Q1jX3PEgWhqZqG) | 3:45 |
-| 100 | [Drinking Alone \- Sunset Session](https://open.spotify.com/track/3SBwfxEUpTvavNFM9w47I4) | [Cole Phillips](https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy) | [Drinking Alone](https://open.spotify.com/album/64PJ8S3L5sW6sCbWwqDccI) | 2:55 |
+| 99 | [Drinking Alone \- Sunset Session](https://open.spotify.com/track/3SBwfxEUpTvavNFM9w47I4) | [Cole Phillips](https://open.spotify.com/artist/2Ew91UUE0bjzHWCEnA8cHy) | [Drinking Alone](https://open.spotify.com/album/64PJ8S3L5sW6sCbWwqDccI) | 2:55 |
+| 100 | [Secret \- Gravel Drive Sounds](https://open.spotify.com/track/0LKQRiJgwtxYNNnlB4djQp) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Secret \(Gravel Drive Sounds\)](https://open.spotify.com/album/2ZUh3hF6Q1jX3PEgWhqZqG) | 3:45 |
 
-Snapshot ID: `MCw4NWM0ZDdhMDY3YTk5YThiNGVhNzljYjdkMmU0OWU3ZjJmNmIzMjg5`
+Snapshot ID: `MCw1YzdhMTA5ZTNlYTQxMGU3NTE5OTcwOGIzYzA2ZmFjMWM5YzRiZGIz`

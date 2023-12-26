@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Bharat Chauhan
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,017 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,037 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 49 | [O Piya](https://open.spotify.com/track/1KkRWq9CYNSiE6bRlmlHFB) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [O Piya](https://open.spotify.com/album/3BG5oKUAYWvOY9PxS1B9WS) | 2:52 |
 | 50 | [Tera Ho Gaya](https://open.spotify.com/track/59FM7MmPIP1MsQE5cMlAAn) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Tera Ho Gaya](https://open.spotify.com/album/2E6IlsJetcFPCCtqxLLCJs) | 2:58 |
 
-Snapshot ID: `MCw5ZDZlNjRiYzMyNTg4YTc5YWY5YWY0NWFiNjA3NWI4ZTkxYmQ3MWVh`
+Snapshot ID: `MCw0NjkzMzMwNzgzZDU1OTBkYjljYjExOWQyZjVhZWU0YjdmMmZjMDNi`

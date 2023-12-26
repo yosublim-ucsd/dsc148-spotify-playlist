@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 
 > This is Lola Indigo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,929 likes - 53 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,940 likes - 53 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 | 52 | [Problema](https://open.spotify.com/track/4qqKKWNXXPbRX2eEi1pP8i) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [MALA](https://open.spotify.com/album/3YI2j0vFoKKdOPmJQ02ByH) | 3:01 |
 | 53 | [Se Pega](https://open.spotify.com/track/4WiySU6ohEQpdnbze6D2CH) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Eso Es Mental](https://open.spotify.com/album/4OLHRygJAxYw6GG5qylWAy) | 2:18 |
 
-Snapshot ID: `MjgzOTAyOTIsMDAwMDAwMDBlMzUxMzZiODkzZjdjMDdlYTk5MzgzZjg2YmVhNTYyOA==`
+Snapshot ID: `MjgzOTE3MzUsMDAwMDAwMDAxZmE2MGM0YWJhMjE0NDA4ZWUzMTJkYzUxNTRhNTZkYw==`

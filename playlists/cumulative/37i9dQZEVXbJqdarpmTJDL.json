@@ -2037,6 +2037,24 @@
     },
     {
       "album": {
+        "name": "Ap' To Vorra Mehri To Noto",
+        "url": "https://open.spotify.com/album/0Qu1SYBRQbtJUWRrRPcqgR"
+      },
+      "artists": [
+        {
+          "name": "Vasilis Karras",
+          "url": "https://open.spotify.com/artist/4P4cATtI7ozt4k4oKho4uz"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186834,
+      "name": "Ap' To Vorra Mehri To Noto",
+      "url": "https://open.spotify.com/track/7AOiKWirY1opdsQnOs1TS1"
+    },
+    {
+      "album": {
         "name": "Apagoreumeno",
         "url": "https://open.spotify.com/album/6teh0vSpGSZPxbQ1ooqVSE"
       },
@@ -9652,7 +9670,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 231986,
       "name": "Fyge - Reworks",
       "url": "https://open.spotify.com/track/3Ooy6ekh20PiZPWW4qSUSY"
@@ -10257,6 +10275,28 @@
     },
     {
       "album": {
+        "name": "Tosa Hiliometra",
+        "url": "https://open.spotify.com/album/4nxv73JtBiJGhhQzqQVkIK"
+      },
+      "artists": [
+        {
+          "name": "Vasilis Karras",
+          "url": "https://open.spotify.com/artist/4P4cATtI7ozt4k4oKho4uz"
+        },
+        {
+          "name": "Pantelis Pantelidis",
+          "url": "https://open.spotify.com/artist/1TubjoUgPPYHfMoUrvJxP3"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207462,
+      "name": "Gia Ton Idio Anthropo Milame",
+      "url": "https://open.spotify.com/track/7sRPpys7mgfQYHaNrmFk3e"
+    },
+    {
+      "album": {
         "name": "LIBERTA",
         "url": "https://open.spotify.com/album/049c0BOb2WWKTE7QoSZr2F"
       },
@@ -10350,7 +10390,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 177600,
       "name": "Gipsy Trap",
       "url": "https://open.spotify.com/track/60vt0ejRx1TMZ5tlsTvwUD"
@@ -12396,7 +12436,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
@@ -12432,7 +12472,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
@@ -12654,7 +12694,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-06",
+      "date_removed": null,
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
@@ -13698,7 +13738,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 126750,
       "name": "Koita Me",
       "url": "https://open.spotify.com/track/0ZXqymmpvFMwb2FmR48C6F"
@@ -14692,7 +14732,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -18929,6 +18969,24 @@
     },
     {
       "album": {
+        "name": "20 Hronia Vasilis Karras",
+        "url": "https://open.spotify.com/album/2JX2sSR0nxvByAdqKJurr3"
+      },
+      "artists": [
+        {
+          "name": "Vasilis Karras",
+          "url": "https://open.spotify.com/artist/4P4cATtI7ozt4k4oKho4uz"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136906,
+      "name": "Nihta Xelogiastra",
+      "url": "https://open.spotify.com/track/3AtTxLZA0tsf6hMvEBmO4N"
+    },
+    {
+      "album": {
         "name": "Nike Boyz (Remix)",
         "url": "https://open.spotify.com/album/1sFWkDYkHQwnSglebhh39X"
       },
@@ -19512,7 +19570,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 203708,
       "name": "Oh Shit",
       "url": "https://open.spotify.com/track/1WzaVtOgPWZ4FZp0W2L4wv"
@@ -20404,7 +20462,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 155714,
       "name": "PAPAGOU",
       "url": "https://open.spotify.com/track/2Z165nc2FmSVJzzkqCskpT"
@@ -20866,6 +20924,28 @@
       "duration_ms": 236619,
       "name": "Pempth Vrady",
       "url": "https://open.spotify.com/track/43JJzQyaFjUpGkgLyUlTml"
+    },
+    {
+      "album": {
+        "name": "Kirios Ma... Ke Alitis",
+        "url": "https://open.spotify.com/album/6Oa52BRyz42leRTgmuzWj8"
+      },
+      "artists": [
+        {
+          "name": "Vasilis Karras",
+          "url": "https://open.spotify.com/artist/4P4cATtI7ozt4k4oKho4uz"
+        },
+        {
+          "name": "Foivos",
+          "url": "https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173633,
+      "name": "Perastika Tis",
+      "url": "https://open.spotify.com/track/1eJWc7iuEiqWFEocvbSM9R"
     },
     {
       "album": {
@@ -23242,7 +23322,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -24800,7 +24880,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 252521,
       "name": "Still Standing",
       "url": "https://open.spotify.com/track/1nRCoRDnsczZSgVmSz41pY"
@@ -26094,7 +26174,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 199714,
       "name": "Theos",
       "url": "https://open.spotify.com/track/7KjuRZ4B0u6Z2aqwMRPNpE"
@@ -28634,7 +28714,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 150857,
       "name": "WKEANOUS",
       "url": "https://open.spotify.com/track/4R2e2aZ1oHB2kZkJTKJtCY"
@@ -28812,7 +28892,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 137540,
       "name": "Xadia",
       "url": "https://open.spotify.com/track/69nHKmTVC5lflFCOlpH42T"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Solo il meglio dello street rap italiano\. Cover: Rhove, ANNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 879,976 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 880,110 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 49 | [Cheerleader \(feat\. MamboLosco\)](https://open.spotify.com/track/0Fo0FNgaE0TkiunXZbrhvR) | [Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Andry The Hitmaker](https://open.spotify.com/artist/6hb3ftxbKAFsOiNCdFbyzJ) | [Cheerleader \(feat\. MamboLosco\)](https://open.spotify.com/album/4rNXH9OKewtZdBqeWyjmL7) | 2:42 |
 | 50 | [F\*\*k the club up \(feat\. Diss Gacha\)](https://open.spotify.com/track/0pSQ12PmPwGkrwbekf40UF) | [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Diss Gacha](https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu) | [F\*\*k the club up \(feat\. Diss Gacha\)](https://open.spotify.com/album/6mQDsMcWWITYk79BxBGhnQ) | 2:20 |
 
-Snapshot ID: `MCwxMDk3MDc4NDhlMjNmNzhjMWQ0ZjQzZTVkYjk1YTM2MjBhZjA5NDE3`
+Snapshot ID: `MCw4OTMyNzhkNzNhYjRmYTg2NjUyYWNhYjllODI1N2Y2NmNhN2RiN2Rl`

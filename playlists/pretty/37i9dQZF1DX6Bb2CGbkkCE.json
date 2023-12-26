@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh?si=s0u7SNJXQQ-JKMPH3p8dSw\">Usain Bolt</a>",
-  "num_followers": 4540,
+  "num_followers": 4543,
   "original_name": "Usain Bolt's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzA4NTQzMzU4YTEyMzBmODMzOGM0YjEzZjhiNjZhOWY4OTdiMTI4",
+  "snapshot_id": "MCxmNmRkNWE3ZTIxY2NhNGM1MWJlODdhNzdmNGYxYzkxNjllMTU0ZWQx",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -147,22 +147,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 215626,
-      "name": "Save Your Tears",
-      "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Don't Start Now",
         "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 183290,
       "name": "Don't Start Now",
       "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 215626,
+      "name": "Save Your Tears",
+      "url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -251,26 +251,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "POPSTAR (feat. Drake)",
-        "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 200221,
-      "name": "POPSTAR (feat. Drake)",
-      "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Levitating (feat. DaBaby)",
         "url": "https://open.spotify.com/album/04m06KhJUuwe1Q487puIud"
       },
@@ -287,6 +267,26 @@
       "duration_ms": 203064,
       "name": "Levitating (feat. DaBaby)",
       "url": "https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "POPSTAR (feat. Drake)",
+        "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 200221,
+      "name": "POPSTAR (feat. Drake)",
+      "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -371,30 +371,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Grateful",
-        "url": "https://open.spotify.com/album/3HhZbSJdhOqMSaRbEt3gtw"
-      },
-      "artists": [
-        {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 204664,
-      "name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
-      "url": "https://open.spotify.com/track/45XhKYRRkyeqoW3teSOkCM"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Party Animal",
         "url": "https://open.spotify.com/album/3eOXiZ4HVNafqio5wKJRcG"
       },
@@ -431,6 +407,30 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/3HhZbSJdhOqMSaRbEt3gtw"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 204664,
+      "name": "Wild Thoughts (feat. Rihanna & Bryson Tiller)",
+      "url": "https://open.spotify.com/track/45XhKYRRkyeqoW3teSOkCM"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Straightenin",
         "url": "https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51"
       },
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "The Off-Season",
+        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 168763,
+      "name": "c l o s e",
+      "url": "https://open.spotify.com/track/4YiY551vHi6glMtgVxuqAy"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "W (feat. Gunna)",
         "url": "https://open.spotify.com/album/4CGh0wfCdEh3xZVHx8uJK5"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 230151,
       "name": "W (feat. Gunna)",
       "url": "https://open.spotify.com/track/6xW2g0c5uSoa3S6xk9eI4j"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "The Off-Season",
-        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 168763,
-      "name": "c l o s e",
-      "url": "https://open.spotify.com/track/4YiY551vHi6glMtgVxuqAy"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -755,26 +755,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Lock Down",
-        "url": "https://open.spotify.com/album/7iJDXxSGrAkRtYxChh4476"
-      },
-      "artists": [
-        {
-          "name": "Cham",
-          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
-        },
-        {
-          "name": "Usain Bolt",
-          "url": "https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh"
-        }
-      ],
-      "duration_ms": 177473,
-      "name": "Lock Down",
-      "url": "https://open.spotify.com/track/1tdmgA42t9diBG4wleVU17"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "KHALED KHALED",
         "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 258982,
       "name": "SORRY NOT SORRY (feat. Nas, JAY-Z & James Fauntleroy) - Harmonies by The Hive",
       "url": "https://open.spotify.com/track/5OypcrFg58e4k2iYHi69ED"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Lock Down",
+        "url": "https://open.spotify.com/album/7iJDXxSGrAkRtYxChh4476"
+      },
+      "artists": [
+        {
+          "name": "Cham",
+          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
+        },
+        {
+          "name": "Usain Bolt",
+          "url": "https://open.spotify.com/artist/2PIYZpNwZRt8BDALIFazZh"
+        }
+      ],
+      "duration_ms": 177473,
+      "name": "Lock Down",
+      "url": "https://open.spotify.com/track/1tdmgA42t9diBG4wleVU17"
     },
     {
       "added_at": "2022-10-01 16:00:00",

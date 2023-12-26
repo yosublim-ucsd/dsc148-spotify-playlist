@@ -4,7 +4,7 @@
 
 > أفضل أغاني الشيلات التي لا يمكن التوقف عن الاستماع اليها\. الغلاف: نادر الشراري
 
-207 songs - 13 hr 33 min
+208 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,8 +188,9 @@
 | [هويتك](https://open.spotify.com/track/6U7cxsbmsvF0NRssvWBWid) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep), [Abdullah Al Mukhles](https://open.spotify.com/artist/6SdRVw4NGUDFrTbWHXaUbH) | [هويتك](https://open.spotify.com/album/5YCf0zGLkiAv7vE13eP859) | 3:37 | 2022-03-30 | 2022-11-03 |
 | [واحشني صوتك](https://open.spotify.com/track/2VRiaExIA3x2AAyp371YWg) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [واحشني صوتك](https://open.spotify.com/album/22xwq4P9SmJdYV0pdoZRhX) | 3:24 | 2022-08-31 | 2023-02-23 |
 | [واحشني صوتك](https://open.spotify.com/track/7v7Ec9YkD7pScPDVk3v5zV) | [Abdullah Al Farwan](https://open.spotify.com/artist/7zjX652bWyemXyFFVhBnch) | [واحشني صوتك](https://open.spotify.com/album/4mnBpLN40p7kdwhP5uixr5) | 3:24 | 2022-03-30 | 2022-11-02 |
-| [ودي ارتاح](https://open.spotify.com/track/0yUb1n9E4tp3uf6hd6xvlM) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [ودي ارتاح](https://open.spotify.com/album/2L824hI35nFE6g47DlImJp) | 4:13 | 2023-02-22 |  |
+| [ودي ارتاح](https://open.spotify.com/track/0yUb1n9E4tp3uf6hd6xvlM) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [ودي ارتاح](https://open.spotify.com/album/2L824hI35nFE6g47DlImJp) | 4:13 | 2023-02-22 | 2023-12-26 |
 | [وزارة اسكاني](https://open.spotify.com/track/4YvlDxpWkMJ5tyzkyveeV6) | [صالح ال كليب](https://open.spotify.com/artist/280TGPMuHgU0HFq9FqUF5C) | [وزارة اسكاني](https://open.spotify.com/album/6gPBVi3twSgqFBJFUwgijh) | 4:12 | 2023-08-11 |  |
+| [وش أعذارك؟](https://open.spotify.com/track/7eYxzed6mzLT3dTMr6XqL5) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [وش أعذارك؟](https://open.spotify.com/album/2WiFUfc6Ch5i5DgbjqkiK1) | 3:17 | 2023-12-25 |  |
 | [وعد مني](https://open.spotify.com/track/2869XYduH4Dp3YfUwvroOe) | [بدر العزي](https://open.spotify.com/artist/3JgiCW6Za1Pvg0dnz7xsjy) | [وعد مني](https://open.spotify.com/album/5adznLBvnzA9GgW76kLOpD) | 3:26 | 2023-02-22 |  |
 | [وينه](https://open.spotify.com/track/4gYCz0aEcywZ3yY5HStjCn) | [نادر الشراري](https://open.spotify.com/artist/6TO4yttkJH47KzzQEQXTKm) | [وينه](https://open.spotify.com/album/23LvBPe1UpqU3KQUelauno) | 3:36 | 2023-02-22 | 2023-09-22 |
 | [وينها أيامك](https://open.spotify.com/track/04TqNXSCZQwFmsR2CW3deb) | [غريب ال مخلص](https://open.spotify.com/artist/4uiWNcw39r8x9YG4WtoQep) | [وينها أيامك](https://open.spotify.com/album/6oxPZ7NoFWbv8FI1KbUD41) | 4:04 | 2023-03-14 | 2023-09-22 |

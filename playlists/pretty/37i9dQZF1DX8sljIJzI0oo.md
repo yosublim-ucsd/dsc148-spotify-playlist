@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Rauw Alejandro is bringing the heat to Fuego this week\. Listen to all mixtapes <a href="spotify:genre:0JQ5DAqbMKFNhzOQgaEZ0b">HERE</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,909,304 likes - 25 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,909,365 likes - 25 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 24 | [Inestable](https://open.spotify.com/track/6iLG2K2RA0wrD4HrdYG7WZ) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Inestable](https://open.spotify.com/album/7aKtEaIfO6g28YtGkKRqX1) | 3:38 |
 | 25 | [Chulo pt.2](https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Chulo pt.2](https://open.spotify.com/album/3gsIT2tGpLm0mQGRCnrZ7j) | 3:39 |
 
-Snapshot ID: `MCw1ZTA3ODFhNjNmMWQ5MGE0MjRjMGM2MzI1YzgyNDc0MDFmZmI1MmVh`
+Snapshot ID: `MCxjYzYwOTk2ZDU4M2JiYjA3ZTdjYjU0YWRlOTRhNGRkN2UxNjZjNTg0`

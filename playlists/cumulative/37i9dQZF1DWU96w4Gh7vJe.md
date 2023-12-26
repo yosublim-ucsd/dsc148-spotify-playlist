@@ -4,7 +4,7 @@
 
 > Sit back and relax to our favorite local indie and R&B sounds.
 
-67 songs - 4 hr 27 min
+68 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [HINAHANAP\-HANAP](https://open.spotify.com/track/5MOuneXW2aavXBilskdGY7) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [HINAHANAP\-HANAP](https://open.spotify.com/album/38Sx6xPGEqsfen69jNid47) | 2:55 | 2023-11-10 | 2023-12-09 |
 | [homebdy \(feat\. Madman Stan\)](https://open.spotify.com/track/01iNOMVE89uKaurFTDZX2Y) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO), [slimedemidemislime](https://open.spotify.com/artist/3gQfw9pQejHU7SPfBNtT3E), [Madman Stan](https://open.spotify.com/artist/0Rr0WdbX3xAbTYlbapkuTs) | [homebdy \(feat\. Madman Stan\)](https://open.spotify.com/album/1eNpFnIEHvsFYcIaSnf3bJ) | 2:21 | 2023-10-20 |  |
 | [how could it be](https://open.spotify.com/track/2fbuZc8ms9dRnKa8TgIrHW) | [Shan Capri](https://open.spotify.com/artist/2v6cSFZEDYoO3C9dAODVjr) | [how could it be](https://open.spotify.com/album/4RuBUy4SQ0EMVwUYcq47bY) | 3:42 | 2023-11-10 | 2023-12-09 |
-| [Huwag Na Lang Kaya](https://open.spotify.com/track/6v5gynE8gZcLwipN1UjCaD) | [True Faith](https://open.spotify.com/artist/6RV3CKY0UJIPKXyGs85Thm) | [Beyond Doubt](https://open.spotify.com/album/7AetQy7fe8Nt13bSJCELXH) | 3:31 | 2023-10-20 |  |
+| [Huwag Na Lang Kaya](https://open.spotify.com/track/6v5gynE8gZcLwipN1UjCaD) | [True Faith](https://open.spotify.com/artist/6RV3CKY0UJIPKXyGs85Thm) | [Beyond Doubt](https://open.spotify.com/album/7AetQy7fe8Nt13bSJCELXH) | 3:31 | 2023-10-20 | 2023-12-26 |
 | [Ikaw Lang](https://open.spotify.com/track/5y6BAZxYtjqyAz4AiuQxTp) | [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd) | [HARANASA](https://open.spotify.com/album/1m5UTDEtgN3wGvr6huasDE) | 4:01 | 2023-10-20 |  |
 | [Imahe](https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Imahe](https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h) | 5:21 | 2023-10-20 |  |
 | [INAANTAY](https://open.spotify.com/track/0xtHhG8bodSM13Y6f62dqy) | [Allegra](https://open.spotify.com/artist/4yW3zpc71yAWvetCxsE9nU), [Iggy Napoles](https://open.spotify.com/artist/5W3GwQT1NcWLptNoNmGCEQ) | [INAANTAY](https://open.spotify.com/album/2YF3kn9QLYp9ClqQDabhwL) | 2:52 | 2023-10-20 | 2023-10-26 |
@@ -50,6 +50,7 @@
 | [lito](https://open.spotify.com/track/4FT7mRLMG9vwTDuKpYK6n5) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [lito](https://open.spotify.com/album/4CagZ4J1OLFu1dEVGmdstr) | 3:03 | 2023-12-08 |  |
 | [Magbalik](https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Destination XYZ](https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6) | 5:26 | 2023-10-20 |  |
 | [Maybe The Night](https://open.spotify.com/track/1yDiru08Q6omDOGkZMPnei) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Maybe The Night](https://open.spotify.com/album/6LhZ3QMHGJeTes9cCTxK8e) | 3:37 | 2023-10-20 |  |
+| [Miss Miss](https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Miss Miss](https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o) | 4:25 | 2023-12-08 |  |
 | [Nagbabakasakali](https://open.spotify.com/track/4fE0gWRGGRTxMCiJ51As3w) | [polaris.](https://open.spotify.com/artist/48iP2a3vIRKl7MtFZDLnUx), [drmfy](https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp) | [Nagbabakasakali](https://open.spotify.com/album/3QGjMQB9pwrBzvdbHacVdQ) | 3:22 | 2023-11-10 | 2023-12-09 |
 | [Ngiti](https://open.spotify.com/track/2086mMaH4riDyU13MSYzzx) | [Ronnie Liang](https://open.spotify.com/artist/6GbCVaJ6iTA0OnZaOiDpl0) | [Ang Aking Awitin](https://open.spotify.com/album/04kUFHCYtia8N4oqq0XeVJ) | 3:32 | 2023-10-20 |  |
 | [o ninanais](https://open.spotify.com/track/0wu1deoRFwktnfD6dTt9KE) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [o ninanais](https://open.spotify.com/album/1X5tEgzP3ie9ViLe68LJNA) | 4:12 | 2023-10-20 |  |

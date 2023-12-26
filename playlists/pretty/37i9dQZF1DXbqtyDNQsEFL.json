@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one!",
-  "num_followers": 56059,
+  "num_followers": 56120,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTllZjk3OGQ0ZTUxYzc1MzNjODA0MmMxZTMwN2YwYWRhZTc5YjFh",
+  "snapshot_id": "MCw5OGE2OTU3MzJmMWNiN2M0MWYxMjk2Zjc0MDMyM2Q1ZmRmNTczNzU2",
   "tracks": [
     {
       "added_at": "2023-12-15 00:01:00",
@@ -179,6 +179,26 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Best Days",
+        "url": "https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ"
+      },
+      "artists": [
+        {
+          "name": "Tamela Mann",
+          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 287573,
+      "name": "Take Me to the King (feat. Kirk Franklin)",
+      "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "YET (feat. Ashley Hess & the King will come)",
         "url": "https://open.spotify.com/album/5UrquVUYkl6qbyHkip4SNb"
       },
@@ -209,26 +229,6 @@
       "url": "https://open.spotify.com/track/4vH0rypLr1NgyymAXehhgG"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Best Days",
-        "url": "https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ"
-      },
-      "artists": [
-        {
-          "name": "Tamela Mann",
-          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 287573,
-      "name": "Take Me to the King (feat. Kirk Franklin)",
-      "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
-    },
-    {
       "added_at": "2023-11-17 00:01:00",
       "album": {
         "name": "I Receive Your Light (feat. Magpsalms) [Remix]",
@@ -247,30 +247,6 @@
       "duration_ms": 539263,
       "name": "I Receive Your Light (feat. Magpsalms) - Remix",
       "url": "https://open.spotify.com/track/2mjArWhZYBBCrn02oS9G0c"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Old Church Basement",
-        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        }
-      ],
-      "duration_ms": 402803,
-      "name": "Old Church Basement (feat. Dante Bowe)",
-      "url": "https://open.spotify.com/track/5j4EazAPhtFyHhwNpbNzEx"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -319,6 +295,30 @@
       "duration_ms": 406440,
       "name": "For Your Glory - Live",
       "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 402803,
+      "name": "Old Church Basement (feat. Dante Bowe)",
+      "url": "https://open.spotify.com/track/5j4EazAPhtFyHhwNpbNzEx"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -519,26 +519,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "TOBECHUKWU",
-        "url": "https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "MERCY CHINWO BLESSED",
-          "url": "https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI"
-        }
-      ],
-      "duration_ms": 487711,
-      "name": "TOBECHUKWU",
-      "url": "https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Shout It Loud (Live)",
         "url": "https://open.spotify.com/album/0hPULPSEg51yOIW4FlwtaG"
       },
@@ -571,6 +551,50 @@
       "duration_ms": 255384,
       "name": "Jesus Oh",
       "url": "https://open.spotify.com/track/6xEE5orPvEG63CHH8WosnD"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "TOBECHUKWU",
+        "url": "https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "MERCY CHINWO BLESSED",
+          "url": "https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI"
+        }
+      ],
+      "duration_ms": 487711,
+      "name": "TOBECHUKWU",
+      "url": "https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "My Matter",
+        "url": "https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Becca Folkes",
+          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
+        }
+      ],
+      "duration_ms": 173290,
+      "name": "My Matter",
+      "url": "https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -631,30 +655,6 @@
       "duration_ms": 316280,
       "name": "Lion of Judah",
       "url": "https://open.spotify.com/track/74crNF63DNXE5J20s1IjNg"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "My Matter",
-        "url": "https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Becca Folkes",
-          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
-        }
-      ],
-      "duration_ms": 173290,
-      "name": "My Matter",
-      "url": "https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -731,6 +731,26 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Desire Pt. 2",
+        "url": "https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "duration_ms": 160308,
+      "name": "Desire Pt. 2",
+      "url": "https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Believe For It",
         "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 502333,
       "name": "Believe For It - Live",
       "url": "https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "These Same Skies (Live)",
-        "url": "https://open.spotify.com/album/08skyG33WqHITgFg6S09LR"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 274534,
-      "name": "That's The Power - Live",
-      "url": "https://open.spotify.com/track/4fA75ecQMGhP7Wld2kT0ZY"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -787,6 +787,26 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "These Same Skies (Live)",
+        "url": "https://open.spotify.com/album/08skyG33WqHITgFg6S09LR"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "duration_ms": 274534,
+      "name": "That's The Power - Live",
+      "url": "https://open.spotify.com/track/4fA75ecQMGhP7Wld2kT0ZY"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Ebenezeri",
         "url": "https://open.spotify.com/album/3R0zYN0v6fjnMIbzGTQK03"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 293782,
       "name": "Ebenezeri",
       "url": "https://open.spotify.com/track/5GXkzrTxiOLVCxdzeRjmId"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Desire Pt. 2",
-        "url": "https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
-        }
-      ],
-      "duration_ms": 160308,
-      "name": "Desire Pt. 2",
-      "url": "https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -875,26 +875,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Daddy wey dey Pamper",
-        "url": "https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Lyrical HI",
-          "url": "https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU"
-        }
-      ],
-      "duration_ms": 760597,
-      "name": "Daddy wey dey Pamper",
-      "url": "https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Olorun Agbaye - You Are Mighty",
         "url": "https://open.spotify.com/album/0bquI98KbNHqOrpGFXpNyS"
       },
@@ -919,6 +899,26 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Daddy wey dey Pamper",
+        "url": "https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Lyrical HI",
+          "url": "https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU"
+        }
+      ],
+      "duration_ms": 760597,
+      "name": "Daddy wey dey Pamper",
+      "url": "https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "No One Like You",
         "url": "https://open.spotify.com/album/2319omaa3ftdBNLmmQmGuf"
       },
@@ -935,6 +935,26 @@
       "duration_ms": 317675,
       "name": "No One Like You",
       "url": "https://open.spotify.com/track/1B6d6tSoQTZyYalEFVu86p"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Talk & Do",
+        "url": "https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "duration_ms": 165254,
+      "name": "Talk & Do",
+      "url": "https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1011,22 +1031,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Talk & Do",
-        "url": "https://open.spotify.com/album/4lqNta0wM1DiICK7PORqx9"
+        "name": "Everything (Amen)",
+        "url": "https://open.spotify.com/album/6tLxca7vxqHrc0nOYWGi2b"
       },
       "artists": [
         {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+          "name": "Timi Dakolo",
+          "url": "https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK"
         }
       ],
-      "duration_ms": 165254,
-      "name": "Talk & Do",
-      "url": "https://open.spotify.com/track/2PXulTyeJgq6204kpwpzVM"
+      "duration_ms": 237725,
+      "name": "Everything (Amen)",
+      "url": "https://open.spotify.com/track/4Dx6l2TXQUmKDFaveeyJuX"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1051,18 +1067,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Everything (Amen)",
-        "url": "https://open.spotify.com/album/6tLxca7vxqHrc0nOYWGi2b"
+        "name": "MAJO",
+        "url": "https://open.spotify.com/album/3rcxWLvZXA2ZtmZzvPNqec"
       },
       "artists": [
         {
-          "name": "Timi Dakolo",
-          "url": "https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK"
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        },
+        {
+          "name": "Jvson",
+          "url": "https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F"
         }
       ],
-      "duration_ms": 237725,
-      "name": "Everything (Amen)",
-      "url": "https://open.spotify.com/track/4Dx6l2TXQUmKDFaveeyJuX"
+      "duration_ms": 173015,
+      "name": "MAJO",
+      "url": "https://open.spotify.com/track/3ixbMvMSAZLWRhqNdlQbnd"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1159,26 +1179,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "MAJO",
-        "url": "https://open.spotify.com/album/3rcxWLvZXA2ZtmZzvPNqec"
-      },
-      "artists": [
-        {
-          "name": "nina shezz",
-          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
-        },
-        {
-          "name": "Jvson",
-          "url": "https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F"
-        }
-      ],
-      "duration_ms": 173015,
-      "name": "MAJO",
-      "url": "https://open.spotify.com/track/3ixbMvMSAZLWRhqNdlQbnd"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "H\u00fcrt No More",
         "url": "https://open.spotify.com/album/1sIpZ7SsKtuVTf0QvwUxhM"
       },
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "As we pray (Prayer charge)",
+        "url": "https://open.spotify.com/album/2AkXQqXDLSrntsnWaLlhgM"
+      },
+      "artists": [
+        {
+          "name": "Pastor Courage",
+          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
+        }
+      ],
+      "duration_ms": 345443,
+      "name": "As we pray - Prayer charge",
+      "url": "https://open.spotify.com/track/4svNtsUGDRGLRCfQq8LSMg"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Born of God",
         "url": "https://open.spotify.com/album/1IkGtT3gU6fHxhqRVL6inf"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 332573,
       "name": "Fix My Eyes on You",
       "url": "https://open.spotify.com/track/1kpwm7MhD1TXAG7Sd9CNNN"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "As we pray (Prayer charge)",
-        "url": "https://open.spotify.com/album/2AkXQqXDLSrntsnWaLlhgM"
-      },
-      "artists": [
-        {
-          "name": "Pastor Courage",
-          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
-        }
-      ],
-      "duration_ms": 345443,
-      "name": "As we pray - Prayer charge",
-      "url": "https://open.spotify.com/track/4svNtsUGDRGLRCfQq8LSMg"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Selense",
-        "url": "https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO"
-      },
-      "artists": [
-        {
-          "name": "Frank Edwards",
-          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
-        }
-      ],
-      "duration_ms": 225153,
-      "name": "Selense",
-      "url": "https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "OL\u00d9GB\u00c8J\u00c0",
         "url": "https://open.spotify.com/album/2hpKtfaNQc6Obg1iEgse2G"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 888000,
       "name": "OL\u00d9GB\u00c8J\u00c0",
       "url": "https://open.spotify.com/track/5DXFUaVUCxYvpvrzbjfhQP"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Selense",
+        "url": "https://open.spotify.com/album/1VGhyaldHyoIHpVv95pzcO"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "duration_ms": 225153,
+      "name": "Selense",
+      "url": "https://open.spotify.com/track/2acuY3pMC7B8FAsqB499uh"
     },
     {
       "added_at": "2023-12-15 00:01:00",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgzODcwMjAsMDAwMDAwMDBlYjYyY2ZlYjY2Y2M3OTJjNzQwNmMyZGUwYmE1ZDdlNw==",
+  "snapshot_id": "MjgzODcwMjAsMDAwMDAwMDBlM2QyNWNkYjBjYWRiM2I5ZDQ2OTY1ZGQ5Nzg4YTEyMA==",
   "tracks": [
     {
       "added_at": "2023-12-22 05:00:00",
@@ -51,6 +51,34 @@
       "duration_ms": 280476,
       "name": "Born Wit It",
       "url": "https://open.spotify.com/track/0V6Nb1GJbWtNMgSmoHXTQ1"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Trillstatik 3",
+        "url": "https://open.spotify.com/album/48A3ZaH8Vdt9Q5ccZtyEEu"
+      },
+      "artists": [
+        {
+          "name": "Bun B",
+          "url": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "JFK",
+          "url": "https://open.spotify.com/artist/1GWCTwPBXPO49TNRMzs5Lv"
+        }
+      ],
+      "duration_ms": 125225,
+      "name": "Set In Stone",
+      "url": "https://open.spotify.com/track/3i7xst5okV5Jowh4RAJNxe"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -231,22 +259,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Hackney Diamonds (Live Edition)",
-        "url": "https://open.spotify.com/album/5rFsKSgldStbYgO4CNygLn"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 334204,
-      "name": "Jumpin' Jack Flash - Live at Racket, NYC",
-      "url": "https://open.spotify.com/track/6WL4mM5lIeRryzX9wf8hgZ"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "What We're Up Against",
         "url": "https://open.spotify.com/album/3LxpLZIrctTM8oLFrSD3VG"
       },
@@ -267,6 +279,22 @@
       "duration_ms": 220133,
       "name": "What We're Up Against feat. Elize Ryd of Amaranthe",
       "url": "https://open.spotify.com/track/7BfZXCDOxgbzeQnXJfzjDr"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Hackney Diamonds (Live Edition)",
+        "url": "https://open.spotify.com/album/5rFsKSgldStbYgO4CNygLn"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 334204,
+      "name": "Jumpin' Jack Flash - Live at Racket, NYC",
+      "url": "https://open.spotify.com/track/6WL4mM5lIeRryzX9wf8hgZ"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -568,33 +596,9 @@
           "url": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
         }
       ],
-      "duration_ms": 215952,
-      "name": "One Of The Girls - Sped Up",
-      "url": "https://open.spotify.com/track/4WfGDkm99oLJSAtELYZYEd"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Carthage",
-        "url": "https://open.spotify.com/album/5HVWGN85bLF31yI7YWe4xq"
-      },
-      "artists": [
-        {
-          "name": "Hanz On",
-          "url": "https://open.spotify.com/artist/7ifoWUchkVgZUnNy6PTl4D"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/2MwoMDYepqVtZK7b6Oi9s2"
-        }
-      ],
-      "duration_ms": 165403,
-      "name": "Highway to Heaven",
-      "url": "https://open.spotify.com/track/1t76vFG3TW5f4w1s8iWDz4"
+      "duration_ms": 305855,
+      "name": "One Of The Girls - Slowed",
+      "url": "https://open.spotify.com/track/3bWm8ejTzkMhPSdBnpxLvl"
     },
     {
       "added_at": "2023-12-22 05:00:00",

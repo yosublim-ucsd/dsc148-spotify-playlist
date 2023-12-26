@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 
 > This is Taking Back Sunday\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,401 likes - 49 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,403 likes - 49 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 | 11 | [Error Operator](https://open.spotify.com/track/3Zcx8pEo36dcrdppEmLVjs) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 2:51 |
 | 12 | [Timberwolves At New Jersey \- Remastered](https://open.spotify.com/track/1JFPraHovseDzutd6BOIry) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(Remastered\)](https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg) | 3:25 |
 | 13 | [Tidal Wave](https://open.spotify.com/track/1LX0mHhWjzv03627Qi80Qd) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tidal Wave](https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC) | 2:32 |
-| 14 | [Amphetamine Smiles](https://open.spotify.com/track/6mIEjaEmDKaQ6CbKOgJqeN) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:05 |
+| 14 | [The One](https://open.spotify.com/track/6pPAZMk6ELhS23soG1G3je) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:17 |
 | 15 | [What's It Feel Like To Be A Ghost?](https://open.spotify.com/track/376GmAj8YF8fIJLe5IwOoH) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Louder Now \(Deluxe Edition\)](https://open.spotify.com/album/3t5ZnNa4NdyldNHZcFhETb) | 3:47 |
 | 16 | [You Know How I Do \- Remastered](https://open.spotify.com/track/7zqyhEbjAajHuvH2Icn1Hr) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(Remastered\)](https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg) | 3:21 |
 | 17 | [This Photograph Is Proof \(I Know You Know\)](https://open.spotify.com/track/3m1OyPw3fzMPAwDMcYcM6Z) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Where You Want To Be](https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9) | 4:11 |
-| 18 | [The One](https://open.spotify.com/track/6pPAZMk6ELhS23soG1G3je) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:17 |
+| 18 | [Amphetamine Smiles](https://open.spotify.com/track/6mIEjaEmDKaQ6CbKOgJqeN) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:05 |
 | 19 | [Sink Into Me](https://open.spotify.com/track/3XctWgpqES8k6NcpJuS1jA) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [New Again](https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS) | 3:03 |
 | 20 | [There's No 'I' In Team \- Remastered](https://open.spotify.com/track/5GDhZIimrLEJAgV7zVshSG) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(Remastered\)](https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg) | 3:48 |
 | 21 | [Number Five With A Bullet](https://open.spotify.com/track/1TDj6SaGAWm81OfkXVbTNr) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Where You Want To Be](https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9) | 3:49 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1b7p16.md) - [plain]
 | 48 | [Death Wolf](https://open.spotify.com/track/2D1i89f8JciKL4IOmUwdEy) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tidal Wave](https://open.spotify.com/album/6vPMvidS9gatI17eT9k1cC) | 4:12 |
 | 49 | [Everything Must Go](https://open.spotify.com/track/3BT2yJJNZ8cfk57TGHdWiF) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [New Again](https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS) | 4:44 |
 
-Snapshot ID: `MjgzOTAyOTIsMDAwMDAwMDA3N2I2NzY4MDZhNDgyM2I3Yjk5YmU2NDQ0ODk0MTg1ZQ==`
+Snapshot ID: `MjgzOTE3MzUsMDAwMDAwMDAxMGIxYTFjM2YwYjA2OWJhZWY2N2U2ZTdmYTcyN2YwOQ==`

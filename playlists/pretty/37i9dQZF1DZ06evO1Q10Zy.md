@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 
 > This is Babyface\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,571 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,578 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 | 19 | [As a matter of fact](https://open.spotify.com/track/7sKqEHM3swTrZAdbwazi7Y) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [As a matter of fact](https://open.spotify.com/album/4MkjomUjWjKm4SKBvO8Ksh) | 2:24 |
 | 20 | [Shoulda \(feat\. Babyface\)](https://open.spotify.com/track/7tAq0hZtDzyE7KWGcRYkhS) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Painted \(Deluxe Edition\)](https://open.spotify.com/album/4tOljQq0yQqk6KaWRmAwua) | 3:37 |
 | 21 | [Take It Back](https://open.spotify.com/track/3iROjO3tSP0wP9QdnIw5ep) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Love, Marriage‎ & Divorce](https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM) | 4:05 |
-| 22 | [Girls Night Out \(with Doechii\)](https://open.spotify.com/track/74FInvmyz8taG35p8QYU6J) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:21 |
-| 23 | [Someone to Love \(feat\. Babyface\)](https://open.spotify.com/track/1ukbwpUGSimFKWxI7KfT8h) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Bonafide](https://open.spotify.com/album/1Os4j9C15CDRcQsfpraAkY) | 4:33 |
+| 22 | [Someone to Love \(feat\. Babyface\)](https://open.spotify.com/track/1ukbwpUGSimFKWxI7KfT8h) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Bonafide](https://open.spotify.com/album/1Os4j9C15CDRcQsfpraAkY) | 4:33 |
+| 23 | [Girls Night Out \(with Doechii\)](https://open.spotify.com/track/74FInvmyz8taG35p8QYU6J) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:21 |
 | 24 | [Always Be My Sunshine](https://open.spotify.com/track/1EkteNRr1GNnrjRZ5zRXWy) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C) | [In My Lifetime, Vol.1](https://open.spotify.com/album/2nJapeqTbOhnhHUhh5tzpB) | 4:43 |
 | 25 | [Reunited](https://open.spotify.com/track/3FUnoNtMGU9XjEKFmgXIR4) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Love, Marriage‎ & Divorce](https://open.spotify.com/album/77JvBkDfZ7r74mcQcTkdqM) | 3:17 |
 | 26 | [Soon as I Get Home](https://open.spotify.com/track/2yZxdm4Fdi8B5UGVqv8IgP) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Tender Lover](https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb) | 5:09 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Q10Zy.md) - [plain]
 | 44 | [Liquor \(with Ari Lennox\)](https://open.spotify.com/track/0Phy2m1BWmxCB56byt2qvh) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Girls Night Out](https://open.spotify.com/album/2GvkwzYNhDZaSyVoj8fxBw) | 3:18 |
 | 45 | [Grown & Sexy](https://open.spotify.com/track/2FlaI8o6RjwfiwyN2eMkOY) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Grown & Sexy](https://open.spotify.com/album/7bgcJhLUw8ISSxIidbnCog) | 4:03 |
 | 46 | [For The Cool In You](https://open.spotify.com/track/6kn5z6hltWF6C9rItSvAzA) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [For The Cool In You](https://open.spotify.com/album/0PkkUYZMtKN25rvrt50EhX) | 4:53 |
-| 47 | [Kim Porter \(feat\. Babyface and John Legend\)](https://open.spotify.com/track/7mabI2ZeervrxqQ2qoWICP) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 7:17 |
+| 47 | [Our Love](https://open.spotify.com/track/3NGqHeg1tIqtgy82EfyKYp) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Return Of The Tender Lover](https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw) | 4:38 |
 | 48 | [Two Occasions \(Live\) \- Live Version](https://open.spotify.com/track/6SoTirMFTzsTEnxEXaDvPy) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [A Closer Look](https://open.spotify.com/album/3scHFBGPXH6we6uOCo6DeT) | 5:52 |
-| 49 | [Our Love](https://open.spotify.com/track/3NGqHeg1tIqtgy82EfyKYp) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Return Of The Tender Lover](https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw) | 4:38 |
+| 49 | [Kim Porter \(feat\. Babyface and John Legend\)](https://open.spotify.com/track/7mabI2ZeervrxqQ2qoWICP) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 7:17 |
 | 50 | [Game Over \(with Queen Naija\)](https://open.spotify.com/track/1l6NtBAh7CHmV4OY4PZZs8) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Game Over \(with Queen Naija\)](https://open.spotify.com/album/6UtOcqphciSIZPqkl66UqR) | 3:28 |
 
-Snapshot ID: `MjgzOTAyOTIsMDAwMDAwMDA2ODc5ZjEwMTU3NTk1NjZiNDcxOGJmNzM2MDEwNjkwNw==`
+Snapshot ID: `MjgzOTE3MzUsMDAwMDAwMDAzODQ1ZWZkOWRjNTBiMGRhMGQwNzllOTJiM2QxM2Y2Mw==`

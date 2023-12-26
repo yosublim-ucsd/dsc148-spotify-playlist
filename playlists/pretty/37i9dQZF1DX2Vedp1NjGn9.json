@@ -1,12 +1,12 @@
 {
   "description": "2011 highlights from the home of indie music.",
-  "num_followers": 108179,
+  "num_followers": 108242,
   "original_name": "Best of Indie 2011",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTczOWU0MTk2NTU1ZWQ2NWE0YTczOTEyMGNjMmFhOGI2ZTAzYjRj",
+  "snapshot_id": "MCxiNjQ4OGQzOGRhN2MwZGJhZjIzZWE5ZGQwNWFjYjY5MzVlMzZjNGU0",
   "tracks": [
     {
       "added_at": "2021-09-02 08:15:11",
@@ -315,6 +315,22 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
+        "name": "The English Riviera",
+        "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        }
+      ],
+      "duration_ms": 290173,
+      "name": "The Bay",
+      "url": "https://open.spotify.com/track/2akjLHnHjDGsgqxuf48VYs"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
         "name": "El Camino",
         "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 251266,
       "name": "Little Black Submarines",
       "url": "https://open.spotify.com/track/1PXsUXSM3LF2XNSkmIldPb"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
-        "name": "Angles",
-        "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 209626,
-      "name": "Machu Picchu",
-      "url": "https://open.spotify.com/track/6mVD1SfTvlFAPVi7txFL5H"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -363,22 +363,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "The English Riviera",
-        "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        }
-      ],
-      "duration_ms": 290173,
-      "name": "The Bay",
-      "url": "https://open.spotify.com/track/2akjLHnHjDGsgqxuf48VYs"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Ceremonials (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 277720,
       "name": "Shake It Out",
       "url": "https://open.spotify.com/track/4lY95OMGb9WxP6IYut64ir"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Angles",
+        "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 209626,
+      "name": "Machu Picchu",
+      "url": "https://open.spotify.com/track/6mVD1SfTvlFAPVi7txFL5H"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -443,22 +443,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Torches",
-        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 174920,
-      "name": "Don't Stop (Color on the Walls)",
-      "url": "https://open.spotify.com/track/4HRa9ZWcmZ8JD7UySPu0wT"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Hurry Up, We're Dreaming",
         "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
       },
@@ -491,6 +475,22 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
+        "name": "Torches",
+        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 174920,
+      "name": "Don't Stop (Color on the Walls)",
+      "url": "https://open.spotify.com/track/4HRa9ZWcmZ8JD7UySPu0wT"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
         "name": "The Oh Hellos EP",
         "url": "https://open.spotify.com/album/4W1OKkOGiLJdfOCz4JQp1W"
       },
@@ -503,6 +503,22 @@
       "duration_ms": 256006,
       "name": "Hello My Old Heart",
       "url": "https://open.spotify.com/track/66MXa8qDIQRtwuxuNtjNCu"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Suck It and See",
+        "url": "https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 183506,
+      "name": "Don't Sit Down 'Cause I've Moved Your Chair",
+      "url": "https://open.spotify.com/track/3czdA0j4iaLDJJCoT5D8iP"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -523,18 +539,18 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Suck It and See",
-        "url": "https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst"
+        "name": "Hurry Up, We're Dreaming",
+        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
       },
       "artists": [
         {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
         }
       ],
-      "duration_ms": 183506,
-      "name": "Don't Sit Down 'Cause I've Moved Your Chair",
-      "url": "https://open.spotify.com/track/3czdA0j4iaLDJJCoT5D8iP"
+      "duration_ms": 151826,
+      "name": "My Tears Are Becoming A Sea",
+      "url": "https://open.spotify.com/track/1Fwj0wThn3kTg8D7KgWdsU"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -571,22 +587,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Hurry Up, We're Dreaming",
-        "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 151826,
-      "name": "My Tears Are Becoming A Sea",
-      "url": "https://open.spotify.com/track/1Fwj0wThn3kTg8D7KgWdsU"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "A Different Kind Of Fix",
         "url": "https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N"
       },
@@ -599,38 +599,6 @@
       "duration_ms": 235293,
       "name": "Shuffle",
       "url": "https://open.spotify.com/track/4yYvWFUWMaKMXtoJKJnmZk"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
-        "name": "Torches",
-        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 238786,
-      "name": "Call It What You Want",
-      "url": "https://open.spotify.com/track/3u1Er1rkjn1oSz1xdZH3ZD"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
-        "name": "Suck It and See",
-        "url": "https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 225986,
-      "name": "Suck It and See",
-      "url": "https://open.spotify.com/track/0LxeKwg9t7HOnyfv4bTALT"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -651,6 +619,22 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
+        "name": "Torches",
+        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 238786,
+      "name": "Call It What You Want",
+      "url": "https://open.spotify.com/track/3u1Er1rkjn1oSz1xdZH3ZD"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
         "name": "Bon Iver (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 188040,
       "name": "Towers",
       "url": "https://open.spotify.com/track/2qHl2VvpKJ6ciB45nCtLB2"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Suck It and See",
+        "url": "https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 225986,
+      "name": "Suck It and See",
+      "url": "https://open.spotify.com/track/0LxeKwg9t7HOnyfv4bTALT"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -699,22 +699,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Torches",
-        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 214080,
-      "name": "I Would Do Anything for You",
-      "url": "https://open.spotify.com/track/5fgb3Md1xjt3mxeBqguiIA"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "What Did You Expect from The Vaccines?",
         "url": "https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW"
       },
@@ -727,22 +711,6 @@
       "duration_ms": 174453,
       "name": "Post Break-Up Sex",
       "url": "https://open.spotify.com/track/47oXAoC5TynVLCZ3FKb0gC"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
-        "name": "Suck It and See",
-        "url": "https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 234920,
-      "name": "She's Thunderstorms",
-      "url": "https://open.spotify.com/track/5xw2cHVLw1rlDPp3cL9Zuv"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -763,18 +731,34 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Never Trust a Happy Song",
-        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
+        "name": "Suck It and See",
+        "url": "https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst"
       },
       "artists": [
         {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 257786,
-      "name": "Colours",
-      "url": "https://open.spotify.com/track/6gSKswfcoWvaadqvuMF3Y7"
+      "duration_ms": 234920,
+      "name": "She's Thunderstorms",
+      "url": "https://open.spotify.com/track/5xw2cHVLw1rlDPp3cL9Zuv"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Torches",
+        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 214080,
+      "name": "I Would Do Anything for You",
+      "url": "https://open.spotify.com/track/5fgb3Md1xjt3mxeBqguiIA"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -791,6 +775,22 @@
       "duration_ms": 196040,
       "name": "Corinne",
       "url": "https://open.spotify.com/track/6guXQ9rHmOofkqp8uHYO8r"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Never Trust a Happy Song",
+        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 257786,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/6gSKswfcoWvaadqvuMF3Y7"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -859,22 +859,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Suck It and See",
-        "url": "https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 217440,
-      "name": "Black Treacle",
-      "url": "https://open.spotify.com/track/7EUcOIbJSePmXGvAe7G79C"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Days",
         "url": "https://open.spotify.com/album/4F6yLWrwSlHv5aZYZ3waAb"
       },
@@ -891,22 +875,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Megalithic Symphony",
-        "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "Kill Your Heroes",
-      "url": "https://open.spotify.com/track/7LJF6AtijSniUJpmZTqKRj"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Angles",
         "url": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
       },
@@ -919,6 +887,38 @@
       "duration_ms": 255240,
       "name": "Life Is Simple in the Moonlight",
       "url": "https://open.spotify.com/track/4ileLT7ldd2uX8bMemWqbm"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Suck It and See",
+        "url": "https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 217440,
+      "name": "Black Treacle",
+      "url": "https://open.spotify.com/track/7EUcOIbJSePmXGvAe7G79C"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Megalithic Symphony",
+        "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "Kill Your Heroes",
+      "url": "https://open.spotify.com/track/7LJF6AtijSniUJpmZTqKRj"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "A Different Kind Of Fix",
-        "url": "https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        }
-      ],
-      "duration_ms": 301346,
-      "name": "Lights Out, Words Gone",
-      "url": "https://open.spotify.com/track/1bKQdPJ9lid6Yg26HAx8Tf"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Ceremonials (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 264000,
       "name": "Polish Girl",
       "url": "https://open.spotify.com/track/5g3TDpgy1J1woAUVuj21EE"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "A Different Kind Of Fix",
+        "url": "https://open.spotify.com/album/4W6ztwnEbK92Arl8kI9c9N"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "duration_ms": 301346,
+      "name": "Lights Out, Words Gone",
+      "url": "https://open.spotify.com/track/1bKQdPJ9lid6Yg26HAx8Tf"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Bon Iver",
-        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 232440,
-      "name": "Minnesota, WI",
-      "url": "https://open.spotify.com/track/6dmqnKIOvBfqjP317AT2tT"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
         "name": "Shake! Shake! Shake!",
         "url": "https://open.spotify.com/album/0hO7tdTpSVN1ADtLbvJiQ5"
       },
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 232440,
+      "name": "Minnesota, WI",
+      "url": "https://open.spotify.com/track/6dmqnKIOvBfqjP317AT2tT"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
         "name": "Megalithic Symphony",
         "url": "https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv"
       },
@@ -1239,6 +1239,22 @@
       "duration_ms": 242466,
       "name": "Not Your Fault",
       "url": "https://open.spotify.com/track/31hUonEmUsEVd0FMRv1s5r"
+    },
+    {
+      "added_at": "2021-09-02 08:15:11",
+      "album": {
+        "name": "Helplessness Blues",
+        "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "duration_ms": 216604,
+      "name": "Montezuma",
+      "url": "https://open.spotify.com/track/5Civg4JEWHLe2gqMG5vW6E"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1275,18 +1291,18 @@
     {
       "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Helplessness Blues",
-        "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
+        "name": "Cults",
+        "url": "https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M"
       },
       "artists": [
         {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
         }
       ],
-      "duration_ms": 216604,
-      "name": "Montezuma",
-      "url": "https://open.spotify.com/track/5Civg4JEWHLe2gqMG5vW6E"
+      "duration_ms": 150373,
+      "name": "You Know What I Mean",
+      "url": "https://open.spotify.com/track/7qGDHuDnjLdGtM787CgKYK"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1303,22 +1319,6 @@
       "duration_ms": 322400,
       "name": "Night Air",
       "url": "https://open.spotify.com/track/73C8W2PBSEbfoNIi1J93MN"
-    },
-    {
-      "added_at": "2021-09-02 08:15:11",
-      "album": {
-        "name": "Cults",
-        "url": "https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M"
-      },
-      "artists": [
-        {
-          "name": "Cults",
-          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
-        }
-      ],
-      "duration_ms": 150373,
-      "name": "You Know What I Mean",
-      "url": "https://open.spotify.com/track/7qGDHuDnjLdGtM787CgKYK"
     },
     {
       "added_at": "2021-09-02 08:15:11",

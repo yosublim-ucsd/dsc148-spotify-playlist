@@ -1,12 +1,12 @@
 {
   "description": "With Bryson Tiller, 6LACK, Tory Lanez and more",
-  "num_followers": 35321,
+  "num_followers": 35358,
   "original_name": "PARTYNEXTDOOR Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDg2NGYxZjA0NWRlOTczYjliMjg1ZDBhMjU4MTFlNWZjOTA4NDBh",
+  "snapshot_id": "MCw4YzZhMmE3YjQ0OTYwYjVjYzU4ODk3ZGQyYzFlMDdhMDQzMGU1YzA4",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Did Me Wrong",
+        "url": "https://open.spotify.com/album/7Fo9oI9z6JriCuD0TWZ7cu"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 177893,
+      "name": "Did Me Wrong",
+      "url": "https://open.spotify.com/track/26nPKzNuW0ty9ChtUhrYYh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Way It Is",
         "url": "https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV"
       },
@@ -43,50 +59,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Day Of Summer",
-        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
+        "name": "Drip Harder",
+        "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 92093,
-      "name": "Deep",
-      "url": "https://open.spotify.com/track/3LfHBTYZBTqmz43tvVXJBd"
+      "duration_ms": 203881,
+      "name": "Close Friends (Lil Baby & Gunna)",
+      "url": "https://open.spotify.com/track/5nzhL67GpF9szXWg5y509A"
     },
     {
       "added_at": null,
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/4LxNdEodxvcd7q41asR17h"
+        "name": "CHASE",
+        "url": "https://open.spotify.com/album/2755rVbg8SJCsmTe0FQTLa"
       },
       "artists": [
         {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+          "name": "Aaron May",
+          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
         }
       ],
-      "duration_ms": 203144,
-      "name": "You Got It",
-      "url": "https://open.spotify.com/track/4lsHZ92XCFOQfzJFBTluk8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revenge",
-        "url": "https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 87560,
-      "name": "I Don't Wanna Do This Anymore",
-      "url": "https://open.spotify.com/track/5de9Ho64dovuQI8Uhn5gPD"
+      "duration_ms": 176531,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/7cLnbmx7ZUWAwyocrKz3wL"
     },
     {
       "added_at": null,
@@ -123,18 +123,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
       },
       "artists": [
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 239266,
-      "name": "Wet Dreamz",
-      "url": "https://open.spotify.com/track/4tqcoej1zPvwePZCzuAjJd"
+      "duration_ms": 135920,
+      "name": "Father Stretch My Hands Pt. 1",
+      "url": "https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8"
     },
     {
       "added_at": null,
@@ -155,34 +155,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parked Car Convos",
-        "url": "https://open.spotify.com/album/5CEfb4A8SgiCOY6R7c7s34"
+        "name": "Self Esteem - #1 Hit (Kisses for Me)",
+        "url": "https://open.spotify.com/album/3c4oSWcwEGxKYIvl9PsnKP"
       },
       "artists": [
         {
-          "name": "Kaash Paige",
-          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+          "name": "Lambo4oe",
+          "url": "https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9"
         }
       ],
-      "duration_ms": 147373,
-      "name": "WMT",
-      "url": "https://open.spotify.com/track/45BRtTfo5SaAENwSD2teoJ"
+      "duration_ms": 128026,
+      "name": "Self Esteem - #1 HIT - Kisses for Me",
+      "url": "https://open.spotify.com/track/3jRDfw9ZpCNuZaMnnfKAEn"
     },
     {
       "added_at": null,
       "album": {
-        "name": "CHASE",
-        "url": "https://open.spotify.com/album/2755rVbg8SJCsmTe0FQTLa"
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
       },
       "artists": [
         {
-          "name": "Aaron May",
-          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
         }
       ],
-      "duration_ms": 176531,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/7cLnbmx7ZUWAwyocrKz3wL"
+      "duration_ms": 204316,
+      "name": "Hrs & Hrs",
+      "url": "https://open.spotify.com/track/3ncmoWTwJgx63LwMTyBCXf"
     },
     {
       "added_at": null,
@@ -203,82 +203,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Life Of Pablo",
-        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 135920,
-      "name": "Father Stretch My Hands Pt. 1",
-      "url": "https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8"
+      "duration_ms": 239266,
+      "name": "Wet Dreamz",
+      "url": "https://open.spotify.com/track/4tqcoej1zPvwePZCzuAjJd"
     },
     {
       "added_at": null,
       "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 125040,
-      "name": "fukumean",
-      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PARTYNEXTDOOR TWO",
-        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 98023,
-      "name": "Belong to the City",
-      "url": "https://open.spotify.com/track/5c3luoCub1Z1Gg74NdNtuq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Self Esteem - #1 Hit (Kisses for Me)",
-        "url": "https://open.spotify.com/album/3c4oSWcwEGxKYIvl9PsnKP"
-      },
-      "artists": [
-        {
-          "name": "Lambo4oe",
-          "url": "https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9"
-        }
-      ],
-      "duration_ms": 128026,
-      "name": "Self Esteem - #1 HIT - Kisses for Me",
-      "url": "https://open.spotify.com/track/3jRDfw9ZpCNuZaMnnfKAEn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Into",
-        "url": "https://open.spotify.com/album/6N5Gc4oQGNp05JXfZi8E5H"
-      },
-      "artists": [
-        {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
-        }
-      ],
-      "duration_ms": 164488,
-      "name": "Care",
-      "url": "https://open.spotify.com/track/3tkxfORwPo2zydAf25YFOc"
+      "duration_ms": 211582,
+      "name": "I KNOW ?",
+      "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
     },
     {
       "added_at": null,
@@ -299,28 +251,92 @@
     {
       "added_at": null,
       "album": {
-        "name": "Over It",
-        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
+        "name": "FORWARD",
+        "url": "https://open.spotify.com/album/367frJ4GG9UMlXlMrVanYL"
+      },
+      "artists": [
+        {
+          "name": "Jordan Ward",
+          "url": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+        },
+        {
+          "name": "Ryan Trey",
+          "url": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
+        }
+      ],
+      "duration_ms": 147773,
+      "name": "WHITE CROCS (with Ryan Trey)",
+      "url": "https://open.spotify.com/track/0VNe1ZE8U2baB3JKZpEBok"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Into",
+        "url": "https://open.spotify.com/album/6N5Gc4oQGNp05JXfZi8E5H"
+      },
+      "artists": [
+        {
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        }
+      ],
+      "duration_ms": 164488,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/3tkxfORwPo2zydAf25YFOc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Last Day Of Summer",
+        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
       },
       "artists": [
         {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 143226,
-      "name": "Playing Games (with Bryson Tiller) - Extended Version",
-      "url": "https://open.spotify.com/track/2xyx0o4xNOLLjBSbOOdcbA"
+      "duration_ms": 92093,
+      "name": "Deep",
+      "url": "https://open.spotify.com/track/3LfHBTYZBTqmz43tvVXJBd"
     },
     {
       "added_at": null,
       "album": {
-        "name": "MASTER",
-        "url": "https://open.spotify.com/album/3WUKQFrLXnp2zeGcJyygkT"
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 98023,
+      "name": "Belong to the City",
+      "url": "https://open.spotify.com/track/5c3luoCub1Z1Gg74NdNtuq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When It's All Said And Done... Take Time",
+        "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 127807,
+      "name": "All To Me",
+      "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buckles Laboratories Presents: The Intermission",
+        "url": "https://open.spotify.com/album/5ml8UPImaD5c3x3YwQTaeS"
       },
       "artists": [
         {
@@ -328,9 +344,41 @@
           "url": "https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E"
         }
       ],
-      "duration_ms": 82653,
-      "name": "Note to You",
-      "url": "https://open.spotify.com/track/5Rh7sj1SBzdfjRZJko2L4O"
+      "duration_ms": 120224,
+      "name": "Only Human",
+      "url": "https://open.spotify.com/track/6XXZzGJ0I1EjsGW8wKyGfO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get You - Single",
+        "url": "https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 270846,
+      "name": "Japanese Denim",
+      "url": "https://open.spotify.com/track/1boXOL0ua7N2iCOUVI1p9F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IRIS",
+        "url": "https://open.spotify.com/album/5C3hbsQQcuLRh19o3QLWpy"
+      },
+      "artists": [
+        {
+          "name": "Nobu Woods",
+          "url": "https://open.spotify.com/artist/5ALcXwMBh6MxbInMWmHElC"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "FAVORITE",
+      "url": "https://open.spotify.com/track/7v6Qfbr1oFbstzCjDUY0Su"
     },
     {
       "added_at": null,
@@ -355,150 +403,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get You - Single",
-        "url": "https://open.spotify.com/album/5qfhZ5YkZ4LhEUbYgjrWt6"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 270846,
-      "name": "Japanese Denim",
-      "url": "https://open.spotify.com/track/1boXOL0ua7N2iCOUVI1p9F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yo Love (From \"Queen & Slim: The Soundtrack\")",
-        "url": "https://open.spotify.com/album/09VyQ2zwUx0EBKTJNBUZv1"
-      },
-      "artists": [
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
-          "name": "Mereba",
-          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
-        }
-      ],
-      "duration_ms": 143830,
-      "name": "Yo Love - From \"Queen & Slim: The Soundtrack\"",
-      "url": "https://open.spotify.com/track/3Vj8RQkFwOmDvUrwu6MtQZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 211582,
-      "name": "I KNOW ?",
-      "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When It's All Said And Done... Take Time",
-        "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
-      },
-      "artists": [
-        {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 127807,
-      "name": "All To Me",
-      "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PARTYMOBILE",
-        "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 170858,
-      "name": "TRAUMA",
-      "url": "https://open.spotify.com/track/1EwY5MatBtBEnHeyAFT8kP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Off-Season",
-        "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
       },
       "artists": [
         {
           "name": "J. Cole",
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Morray",
-          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
         }
       ],
-      "duration_ms": 218801,
-      "name": "m y . l i f e (with 21 Savage & Morray)",
-      "url": "https://open.spotify.com/track/1D3z6HTiQsNmZxjl7F7eoG"
+      "duration_ms": 292799,
+      "name": "No Role Modelz",
+      "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
     },
     {
       "added_at": null,
       "album": {
-        "name": "6pc Hot EP",
-        "url": "https://open.spotify.com/album/37O0Syq7Db1kydzUH8TbwB"
+        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
       },
       "artists": [
         {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 157020,
-      "name": "Long Nights",
-      "url": "https://open.spotify.com/track/1RDLbX9L2G4zDqxXCaMJo5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
         },
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 278179,
-      "name": "Get You (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
+      "duration_ms": 166093,
+      "name": "Overdue (with Travis Scott)",
+      "url": "https://open.spotify.com/track/6LyAwkJsHlW7RQ8S1cYAtM"
     },
     {
       "added_at": null,
@@ -519,18 +455,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Too Hard",
-        "url": "https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt"
+        "name": "6pc Hot EP",
+        "url": "https://open.spotify.com/album/37O0Syq7Db1kydzUH8TbwB"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
         }
       ],
-      "duration_ms": 162053,
-      "name": "Freestyle",
-      "url": "https://open.spotify.com/track/5BbdKBZO0TH0GhfxUfyhL9"
+      "duration_ms": 157020,
+      "name": "Long Nights",
+      "url": "https://open.spotify.com/track/1RDLbX9L2G4zDqxXCaMJo5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Late Nights: The Album",
+        "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
+      },
+      "artists": [
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "duration_ms": 238320,
+      "name": "oui",
+      "url": "https://open.spotify.com/track/0PJIbOdMs3bd5AT8liULMQ"
     },
     {
       "added_at": null,
@@ -567,22 +519,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Street Love",
-        "url": "https://open.spotify.com/album/6Lq7nLkIq7C0zVJp0OGSGO"
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
       },
       "artists": [
         {
-          "name": "Lloyd",
-          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 273133,
-      "name": "You",
-      "url": "https://open.spotify.com/track/5Y77SQxEr1eiofPeUTPHxM"
+      "duration_ms": 89616,
+      "name": "Love It Here",
+      "url": "https://open.spotify.com/track/0uiHv6ieCOkc9sE9ae3nDJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Too Hard",
+        "url": "https://open.spotify.com/album/750APP0eKVlcgOxaZnBnVt"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 162053,
+      "name": "Freestyle",
+      "url": "https://open.spotify.com/track/5BbdKBZO0TH0GhfxUfyhL9"
     },
     {
       "added_at": null,
@@ -596,25 +560,25 @@
           "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
         }
       ],
-      "duration_ms": 187723,
-      "name": "honda civic '98",
-      "url": "https://open.spotify.com/track/1ztPf79mbGpktO7TjB7tWW"
+      "duration_ms": 180266,
+      "name": "too far close",
+      "url": "https://open.spotify.com/track/1rKdNSA119ByMxI9chV5J6"
     },
     {
       "added_at": null,
       "album": {
-        "name": "A Gangsta\u2019s Pain",
-        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
       },
       "artists": [
         {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 89616,
-      "name": "Love It Here",
-      "url": "https://open.spotify.com/track/0uiHv6ieCOkc9sE9ae3nDJ"
+      "duration_ms": 133080,
+      "name": "Yeah, I Said It",
+      "url": "https://open.spotify.com/track/7eDYNlBwRMeFOZHOZ95dZ1"
     },
     {
       "added_at": null,
@@ -635,18 +599,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parked Car Convos",
-        "url": "https://open.spotify.com/album/5CEfb4A8SgiCOY6R7c7s34"
+        "name": "Session 32",
+        "url": "https://open.spotify.com/album/1q6DMLVcuKBfYpfJ1KWtKh"
       },
       "artists": [
         {
-          "name": "Kaash Paige",
-          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
         }
       ],
-      "duration_ms": 148640,
-      "name": "Love Songs - Bonus",
-      "url": "https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv"
+      "duration_ms": 98026,
+      "name": "Session 32",
+      "url": "https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5"
     },
     {
       "added_at": null,
@@ -679,42 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peak (Fed Up)",
-        "url": "https://open.spotify.com/album/0bXAy3LZaokYu7txrbmScK"
-      },
-      "artists": [
-        {
-          "name": "RAAHiiM",
-          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
-        }
-      ],
-      "duration_ms": 188242,
-      "name": "Peak (Fed Up)",
-      "url": "https://open.spotify.com/track/3KcDfeZ1UAMtun8TuvG1kT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oxymoron (Deluxe)",
-        "url": "https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS"
-      },
-      "artists": [
-        {
-          "name": "ScHoolboy Q",
-          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
-        },
-        {
-          "name": "BJ The Chicago Kid",
-          "url": "https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe"
-        }
-      ],
-      "duration_ms": 278066,
-      "name": "Studio",
-      "url": "https://open.spotify.com/track/29gsi1zZrZxdStACmTQB0Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Destined 2 Win",
         "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
       },
@@ -735,86 +663,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
-        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
       "artists": [
         {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 166093,
-      "name": "Overdue (with Travis Scott)",
-      "url": "https://open.spotify.com/track/6LyAwkJsHlW7RQ8S1cYAtM"
+      "duration_ms": 185522,
+      "name": "Loose",
+      "url": "https://open.spotify.com/track/59acp1OhcvxwVBwQJBYKuX"
     },
     {
       "added_at": null,
       "album": {
-        "name": "No Love Lost",
-        "url": "https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9"
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
       "artists": [
         {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 146938,
-      "name": "Overrated",
-      "url": "https://open.spotify.com/track/6Fc9IYSkbmVwv4dlzn8hJb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 292799,
-      "name": "No Role Modelz",
-      "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Queen Naija",
-        "url": "https://open.spotify.com/album/6NjMLOTy7deZD4WfpVt3RL"
-      },
-      "artists": [
-        {
-          "name": "Queen Naija",
-          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
-        }
-      ],
-      "duration_ms": 212174,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/4A58lXGBRCg2cumRXTRxHO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Parked Car Convos",
-        "url": "https://open.spotify.com/album/5CEfb4A8SgiCOY6R7c7s34"
-      },
-      "artists": [
-        {
-          "name": "Kaash Paige",
-          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "Heartbreaker",
-      "url": "https://open.spotify.com/track/5GHXuh69XUrnrMTgDcqJC9"
+      "duration_ms": 218880,
+      "name": "Reminder",
+      "url": "https://open.spotify.com/track/37F0uwRSrdzkBiuj0D5UHI"
     },
     {
       "added_at": null,
@@ -835,6 +711,122 @@
     {
       "added_at": null,
       "album": {
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 143666,
+      "name": "Playing Games",
+      "url": "https://open.spotify.com/track/4hWgC5BV5M7EtTleKVXNxw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parked Car Convos",
+        "url": "https://open.spotify.com/album/5CEfb4A8SgiCOY6R7c7s34"
+      },
+      "artists": [
+        {
+          "name": "Kaash Paige",
+          "url": "https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE"
+        }
+      ],
+      "duration_ms": 148640,
+      "name": "Love Songs - Bonus",
+      "url": "https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Banking On Me",
+        "url": "https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Banking On Me",
+      "url": "https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who Hurt You?",
+        "url": "https://open.spotify.com/album/15M9pZ8gsdoN67yLjyQ039"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 231964,
+      "name": "Who Hurt You?",
+      "url": "https://open.spotify.com/track/23c9gmiiv7RCu7twft0Mym"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back For Everything",
+        "url": "https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 239146,
+      "name": "Love & War",
+      "url": "https://open.spotify.com/track/293mQGfVwgXIOdA1GpiwAt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Love Lost",
+        "url": "https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "duration_ms": 146938,
+      "name": "Overrated",
+      "url": "https://open.spotify.com/track/6Fc9IYSkbmVwv4dlzn8hJb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 144344,
+      "name": "Stressed (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/2mNaugzeRDyAq991bw4nqv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Trap Still Boomin' 2",
         "url": "https://open.spotify.com/album/664vzbSX8o7l1fmXsiI7HE"
       },
@@ -847,22 +839,6 @@
       "duration_ms": 137138,
       "name": "I Been Drinking",
       "url": "https://open.spotify.com/track/7xEMzWZo71RZbrBki6ZraY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just Cause Y'all Waited 2",
-        "url": "https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 125726,
-      "name": "Internet Sensation",
-      "url": "https://open.spotify.com/track/7FRkzDzvNJZKUivOTyAmdp"
     }
   ],
   "unique_name": "PARTYNEXTDOOR Radio",

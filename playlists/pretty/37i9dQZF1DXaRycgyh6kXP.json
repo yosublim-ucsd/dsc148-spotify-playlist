@@ -1,12 +1,12 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 202508,
+  "num_followers": 202617,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTgyNDU0OThmOGQ1MTcwYTE3OTJhOGM0NmE2OTk4MjI0YjA5MjQ5",
+  "snapshot_id": "MCw3ZGZhYWUwZWQ5MjYyZWVmY2FmOTE5NTY3Y2NjYmU3ZThhN2I2YTk5",
   "tracks": [
     {
       "added_at": "2023-11-13 21:00:00",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
+        "name": "Playing Robots Into Heaven",
+        "url": "https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 284551,
+      "name": "Loading",
+      "url": "https://open.spotify.com/track/0GQW2gDyxgT5IsNEM4osbJ"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
         "name": "Kindness",
         "url": "https://open.spotify.com/album/3tZgm1ojrqV5akitFntyTV"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 404630,
       "name": "Saw You for the First Time",
       "url": "https://open.spotify.com/track/44t34AtBWG4TKMF5Xc97kV"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
-        "name": "Playing Robots Into Heaven",
-        "url": "https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 284551,
-      "name": "Loading",
-      "url": "https://open.spotify.com/track/0GQW2gDyxgT5IsNEM4osbJ"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "Time Spent Away From U",
-        "url": "https://open.spotify.com/album/5DlpzmONGJYLOUBcHvjfSM"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        }
-      ],
-      "duration_ms": 368000,
-      "name": "U",
-      "url": "https://open.spotify.com/track/1lvpyd1lQjutZa6YnAE8aH"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
         "name": "Bad Vibes",
         "url": "https://open.spotify.com/album/5KRR8tyAUT6bcMOsCfM2Lh"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 302210,
       "name": "Places",
       "url": "https://open.spotify.com/track/3RN6IMCkcJr44Xm7tdWWaK"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
+        "name": "Time Spent Away From U",
+        "url": "https://open.spotify.com/album/5DlpzmONGJYLOUBcHvjfSM"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "duration_ms": 368000,
+      "name": "U",
+      "url": "https://open.spotify.com/track/1lvpyd1lQjutZa6YnAE8aH"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "Healing Is A Miracle",
-        "url": "https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo"
-      },
-      "artists": [
-        {
-          "name": "Julianna Barwick",
-          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
-        }
-      ],
-      "duration_ms": 252735,
-      "name": "Inspirit",
-      "url": "https://open.spotify.com/track/2ZrCLJz5UGbJCW2JK2OgkK"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
         "name": "Sabresonic",
         "url": "https://open.spotify.com/album/22UTF5k9TRZ1Mg2V0i0qLw"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 256133,
       "name": "Smokebelch II - Beatless Mix",
       "url": "https://open.spotify.com/track/5Z8BtdkhEzHbb8QlYODMgM"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
+        "name": "Healing Is A Miracle",
+        "url": "https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo"
+      },
+      "artists": [
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        }
+      ],
+      "duration_ms": 252735,
+      "name": "Inspirit",
+      "url": "https://open.spotify.com/track/2ZrCLJz5UGbJCW2JK2OgkK"
     },
     {
       "added_at": "2023-11-13 21:00:00",
@@ -1411,6 +1411,26 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
+        "name": "still slipping vol. 1",
+        "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        },
+        {
+          "name": "TYSON",
+          "url": "https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn"
+        }
+      ],
+      "duration_ms": 272093,
+      "name": "born slipping",
+      "url": "https://open.spotify.com/track/0QJ11tqN85By0nwwDJVoeP"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
         "name": "To You EP",
         "url": "https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI"
       },
@@ -1459,42 +1479,6 @@
     {
       "added_at": "2023-11-13 21:00:00",
       "album": {
-        "name": "still slipping vol. 1",
-        "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
-      },
-      "artists": [
-        {
-          "name": "Joy Orbison",
-          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
-        },
-        {
-          "name": "TYSON",
-          "url": "https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn"
-        }
-      ],
-      "duration_ms": 272093,
-      "name": "born slipping",
-      "url": "https://open.spotify.com/track/0QJ11tqN85By0nwwDJVoeP"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
-        "name": "Appeayl 2 U",
-        "url": "https://open.spotify.com/album/08wTaIdQqR22MDT8iEaU2U"
-      },
-      "artists": [
-        {
-          "name": "Gayngs",
-          "url": "https://open.spotify.com/artist/3OUN7gnsDijEfvaHpXAAzI"
-        }
-      ],
-      "duration_ms": 236703,
-      "name": "Appeayl 2 U part 1",
-      "url": "https://open.spotify.com/track/3hOT2KhpXP3OCXoAPlqA75"
-    },
-    {
-      "added_at": "2023-11-13 21:00:00",
-      "album": {
         "name": "Not For Threes",
         "url": "https://open.spotify.com/album/25HKkAZz1rpzQXkWSLpWZL"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 278933,
       "name": "Lilith",
       "url": "https://open.spotify.com/track/4QcR7D7O1O7OUNVI2ICuwY"
+    },
+    {
+      "added_at": "2023-11-13 21:00:00",
+      "album": {
+        "name": "Appeayl 2 U",
+        "url": "https://open.spotify.com/album/08wTaIdQqR22MDT8iEaU2U"
+      },
+      "artists": [
+        {
+          "name": "Gayngs",
+          "url": "https://open.spotify.com/artist/3OUN7gnsDijEfvaHpXAAzI"
+        }
+      ],
+      "duration_ms": 236703,
+      "name": "Appeayl 2 U part 1",
+      "url": "https://open.spotify.com/track/3hOT2KhpXP3OCXoAPlqA75"
     },
     {
       "added_at": "2023-11-13 21:00:00",

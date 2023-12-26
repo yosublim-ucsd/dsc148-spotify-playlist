@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 
 > Lekker rustig aan doen op zondag met deze zachte pop liedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,931 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,932 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 | 99 | [Corners](https://open.spotify.com/track/5InaPMeIHecsyEVzTnmXfb) | [Octave Lissner](https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7) | [Corners](https://open.spotify.com/album/2IZtWvH7yrESKey65JeHkM) | 3:39 |
 | 100 | [Stone](https://open.spotify.com/track/5TDxhVHsd9AxcWieCsYtcs) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR), [Sebastian Kole](https://open.spotify.com/artist/2Ve76xf8WEVRRfanpQHgLs) | [Know\-It\-All \(Deluxe\)](https://open.spotify.com/album/2AGNF8r2y8HL85yVk2bwmS) | 3:48 |
 
-Snapshot ID: `MCxhYWE0NDA3ODYyYzRjOTE2NDc2NGRhZDE2NzhkNTE2ZmE2YmFkZTgw`
+Snapshot ID: `MCxlMjU1MmI3MzU5MzNiYjcxYTllMzYxNzZhNzVhOGQwOTJmZDlmYzA1`

@@ -4,7 +4,7 @@
 
 > Energy tracks to get your beast mode on.
 
-328 songs - 16 hr 12 min
+329 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [FULLY LOADED \(feat\. Future & Lil Baby\)](https://open.spotify.com/track/45M6MPP3yI5I1PXse40lpR) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 2:55 | 2023-01-26 | 2023-04-09 |
 | [FWMGAB](https://open.spotify.com/track/52ekzF7DfQBszZq87MIbPY) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [FWMGAB](https://open.spotify.com/album/58zbc1nYIQmLd4rxnH1Blt) | 3:07 | 2021-06-11 | 2022-07-29 |
 | [GBG \(feat\. Marshmello\)](https://open.spotify.com/track/6gmwkJCHUJa6f9RP4UrjSk) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [GBG \(feat\. Marshmello\)](https://open.spotify.com/album/6Dnz4ttJCfBT9ZgsswTa1E) | 2:10 | 2023-08-11 | 2023-11-11 |
+| [Get Deady](https://open.spotify.com/track/273T9K9df4B9KpipYZY4o4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Get Deady](https://open.spotify.com/album/6Psv0LAWUceyyIo7YVzToC) | 3:23 | 2023-12-15 |  |
 | [Ghetto Superstar \(feat\. G Herbo & Doe Boy\)](https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [Ghetto Superstar \(feat\. G Herbo & Doe Boy\)](https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j) | 4:04 | 2022-09-09 | 2023-01-14 |
 | [GO AGAIN \- Intro](https://open.spotify.com/track/7gDBTPpsYhVi93lvhVTJWZ) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Baby On Baby 2](https://open.spotify.com/album/6x5UJEgPpRGdXjpeRY5QSz) | 2:06 | 2022-09-23 | 2022-10-01 |
 | [Go Hard](https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Go Hard](https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo) | 3:37 | 2023-05-05 |  |
@@ -333,7 +334,7 @@
 | [Wit Da Racks \(feat\. 21 Savage, Travis Scott & Yak Gotti\)](https://open.spotify.com/track/0r75DNlHu4recmKUdZeMfG) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Yak Gotti](https://open.spotify.com/artist/0dvFTsuG02c4cRbcSQ8zE6), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:46 | 2023-06-23 | 2023-07-01 |
 | [Worldwide Steppers](https://open.spotify.com/track/66mVPWmFvXPFf8pjK5ttOW) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX) | 3:23 | 2022-05-13 | 2022-12-03 |
 | [Wow\. \- Remix](https://open.spotify.com/track/0fcq51a3gOI6gPvzc0YLsk) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Wow\. \(Remix\)](https://open.spotify.com/album/1Id3Zj9GMvi7dPj3u6cMNs) | 2:50 | 2021-01-04 | 2023-09-30 |
-| [x2](https://open.spotify.com/track/3a36nM6fPVA8K1vqq6d03o) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:54 | 2023-06-30 |  |
+| [x2](https://open.spotify.com/track/3a36nM6fPVA8K1vqq6d03o) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:54 | 2023-06-30 | 2023-12-26 |
 | [YKWSF](https://open.spotify.com/track/2wh6X8QOog1zVwhTKhEk3Q) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Big Hit](https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [SURF OR DROWN, Vol\. 2](https://open.spotify.com/album/1Qsm0Hz3FJlkzf46QWaq3i) | 3:04 | 2023-06-16 | 2023-07-01 |
 | [You A Dime](https://open.spotify.com/track/3asjKt5lvYEs5M8Pm2Mald) | [DJ Chose](https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [You A Dime](https://open.spotify.com/album/7kv5MIuO2CyXjLQU7Ahl1I) | 2:44 | 2021-01-22 | 2022-04-21 |
 

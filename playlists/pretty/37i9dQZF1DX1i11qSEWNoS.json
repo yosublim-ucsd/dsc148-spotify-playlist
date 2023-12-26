@@ -1,12 +1,12 @@
 {
   "description": "und macht laune",
-  "num_followers": 534821,
+  "num_followers": 535005,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWI0ZWU0NjJmOWVjODRmZDdjM2Q1NDBkYzc4OGQ5OWQ4MzhjOWM0",
+  "snapshot_id": "MCwwOWI2ZDFkOGFmY2VjMmI3NDRhYTJiODhmNGZiNDk1M2Y1YmQxNjNm",
   "tracks": [
     {
       "added_at": "2023-12-19 17:39:47",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-12-19 17:39:47",
       "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
-    },
-    {
-      "added_at": "2023-12-19 17:39:47",
-      "album": {
         "name": "Come Into My Life (The Album)",
         "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 213394,
       "name": "Freed From Desire - prod. Molella, Phil Jay",
       "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
+    },
+    {
+      "added_at": "2023-12-19 17:39:47",
+      "album": {
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     },
     {
       "added_at": "2023-12-19 17:39:47",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-12-19 17:39:47",
       "album": {
+        "name": "Be The One",
+        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 169852,
+      "name": "Be The One",
+      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
+    },
+    {
+      "added_at": "2023-12-19 17:39:47",
+      "album": {
         "name": "EWIGKEIT (REMIX)",
         "url": "https://open.spotify.com/album/7g9MhzAbsC7Z7Orsa0Z7Dz"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 137647,
       "name": "EWIGKEIT - REMIX",
       "url": "https://open.spotify.com/track/4kcgrgZhd4h8chSAJ86mIq"
-    },
-    {
-      "added_at": "2023-12-19 17:39:47",
-      "album": {
-        "name": "Be The One",
-        "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
-      },
-      "artists": [
-        {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
-        }
-      ],
-      "duration_ms": 169852,
-      "name": "Be The One",
-      "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
     },
     {
       "added_at": "2023-12-19 17:39:47",
@@ -667,6 +667,26 @@
     {
       "added_at": "2023-12-19 17:39:47",
       "album": {
+        "name": "denk mal dr\u00fcber nach...",
+        "url": "https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "SIRA",
+          "url": "https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA"
+        }
+      ],
+      "duration_ms": 141026,
+      "name": "mietfrei",
+      "url": "https://open.spotify.com/track/0fq2RzyyUoqELsONRF8ZzP"
+    },
+    {
+      "added_at": "2023-12-19 17:39:47",
+      "album": {
         "name": "Sleepless",
         "url": "https://open.spotify.com/album/2d5mKkSWO8rz96HFrdLPZ9"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 165263,
       "name": "Sleepless",
       "url": "https://open.spotify.com/track/75HBVc7kJLjC2LlPc4ScfH"
-    },
-    {
-      "added_at": "2023-12-19 17:39:47",
-      "album": {
-        "name": "denk mal dr\u00fcber nach...",
-        "url": "https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx"
-      },
-      "artists": [
-        {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        },
-        {
-          "name": "SIRA",
-          "url": "https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA"
-        }
-      ],
-      "duration_ms": 141026,
-      "name": "mietfrei",
-      "url": "https://open.spotify.com/track/0fq2RzyyUoqELsONRF8ZzP"
     },
     {
       "added_at": "2023-12-19 17:39:47",
@@ -823,26 +823,6 @@
     {
       "added_at": "2023-12-19 17:39:47",
       "album": {
-        "name": "Sehnsucht",
-        "url": "https://open.spotify.com/album/1lIE5a9GgW0UN9BJ25UpyZ"
-      },
-      "artists": [
-        {
-          "name": "Miksu / Macloud",
-          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
-        },
-        {
-          "name": "t-low",
-          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
-        }
-      ],
-      "duration_ms": 152826,
-      "name": "Sehnsucht",
-      "url": "https://open.spotify.com/track/7xaqxUl08zOg0YNUHokQpq"
-    },
-    {
-      "added_at": "2023-12-19 17:39:47",
-      "album": {
         "name": "Turn On The Lights again.. (feat. Future)",
         "url": "https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 137847,
       "name": "Party Sahne",
       "url": "https://open.spotify.com/track/2hFOXN8Eq2gXIGGMIdHdWJ"
+    },
+    {
+      "added_at": "2023-12-19 17:39:47",
+      "album": {
+        "name": "Sehnsucht",
+        "url": "https://open.spotify.com/album/1lIE5a9GgW0UN9BJ25UpyZ"
+      },
+      "artists": [
+        {
+          "name": "Miksu / Macloud",
+          "url": "https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU"
+        },
+        {
+          "name": "t-low",
+          "url": "https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD"
+        }
+      ],
+      "duration_ms": 152826,
+      "name": "Sehnsucht",
+      "url": "https://open.spotify.com/track/7xaqxUl08zOg0YNUHokQpq"
     },
     {
       "added_at": "2023-12-19 17:39:47",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-12-19 17:39:47",
       "album": {
-        "name": "Moment",
-        "url": "https://open.spotify.com/album/5l4IBxY3EZwenZLXqzFCDV"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Binder",
-          "url": "https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Moment",
-      "url": "https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ"
-    },
-    {
-      "added_at": "2023-12-19 17:39:47",
-      "album": {
         "name": "Dance For Me (1, 2, 3) [Stutter Techno]",
         "url": "https://open.spotify.com/album/4tdjof8Q9w84L19SH3gY2K"
       },
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2023-12-19 17:39:47",
       "album": {
+        "name": "Moment",
+        "url": "https://open.spotify.com/album/5l4IBxY3EZwenZLXqzFCDV"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Binder",
+          "url": "https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ"
+    },
+    {
+      "added_at": "2023-12-19 17:39:47",
+      "album": {
         "name": "denk mal dr\u00fcber nach...",
         "url": "https://open.spotify.com/album/2amQje8nzCnpbbjYpTJizx"
       },
@@ -1083,6 +1083,26 @@
       "duration_ms": 147960,
       "name": "MAXIMUM RIZZ",
       "url": "https://open.spotify.com/track/73JHeIhYKRV1c6RI4ZXsjW"
+    },
+    {
+      "added_at": "2023-12-19 17:39:47",
+      "album": {
+        "name": "How You Remind Me",
+        "url": "https://open.spotify.com/album/0W6erefb8fRvnBVvfxCS1P"
+      },
+      "artists": [
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        },
+        {
+          "name": "Captain Curtis",
+          "url": "https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR"
+        }
+      ],
+      "duration_ms": 148411,
+      "name": "How You Remind Me",
+      "url": "https://open.spotify.com/track/2SqCxbiL0ClhKZgIQxAgK0"
     },
     {
       "added_at": "2023-12-19 17:39:47",
@@ -1107,26 +1127,6 @@
       "duration_ms": 155020,
       "name": "Anders",
       "url": "https://open.spotify.com/track/5TYmnScjaRecWuBqEaA7S5"
-    },
-    {
-      "added_at": "2023-12-19 17:39:47",
-      "album": {
-        "name": "How You Remind Me",
-        "url": "https://open.spotify.com/album/0W6erefb8fRvnBVvfxCS1P"
-      },
-      "artists": [
-        {
-          "name": "HBz",
-          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
-        },
-        {
-          "name": "Captain Curtis",
-          "url": "https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR"
-        }
-      ],
-      "duration_ms": 148411,
-      "name": "How You Remind Me",
-      "url": "https://open.spotify.com/track/2SqCxbiL0ClhKZgIQxAgK0"
     },
     {
       "added_at": "2023-12-19 17:39:47",
@@ -1199,34 +1199,6 @@
     {
       "added_at": "2023-12-19 17:39:47",
       "album": {
-        "name": "Durstl\u00f6scher",
-        "url": "https://open.spotify.com/album/4RF1l08nRRHF3lWfM35bUx"
-      },
-      "artists": [
-        {
-          "name": "01099",
-          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
-        },
-        {
-          "name": "AVO",
-          "url": "https://open.spotify.com/artist/3g8GEfox7TneqzId98rNGi"
-        },
-        {
-          "name": "Gustav",
-          "url": "https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC"
-        },
-        {
-          "name": "Zachi",
-          "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
-        }
-      ],
-      "duration_ms": 161440,
-      "name": "Durstl\u00f6scher",
-      "url": "https://open.spotify.com/track/2QAsTQ1tydZ6mhYH2FyzfG"
-    },
-    {
-      "added_at": "2023-12-19 17:39:47",
-      "album": {
         "name": "Thank You (Not So Bad)",
         "url": "https://open.spotify.com/album/3SmoOc6Jcej35ioy9xpB7j"
       },
@@ -1263,6 +1235,34 @@
       "duration_ms": 158774,
       "name": "Down Under (feat. Colin Hay)",
       "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
+    },
+    {
+      "added_at": "2023-12-19 17:39:47",
+      "album": {
+        "name": "Durstl\u00f6scher",
+        "url": "https://open.spotify.com/album/4RF1l08nRRHF3lWfM35bUx"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        },
+        {
+          "name": "AVO",
+          "url": "https://open.spotify.com/artist/3g8GEfox7TneqzId98rNGi"
+        },
+        {
+          "name": "Gustav",
+          "url": "https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC"
+        },
+        {
+          "name": "Zachi",
+          "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
+        }
+      ],
+      "duration_ms": 161440,
+      "name": "Durstl\u00f6scher",
+      "url": "https://open.spotify.com/track/2QAsTQ1tydZ6mhYH2FyzfG"
     },
     {
       "added_at": "2023-12-19 17:39:47",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-12-19 17:39:47",
       "album": {
-        "name": "The Middle",
-        "url": "https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
-        }
-      ],
-      "duration_ms": 147680,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz"
-    },
-    {
-      "added_at": "2023-12-19 17:39:47",
-      "album": {
         "name": "Nothing but the Beat 2.0",
         "url": "https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn"
       },
@@ -1403,22 +1387,18 @@
     {
       "added_at": "2023-12-19 17:39:47",
       "album": {
-        "name": "Maneater",
-        "url": "https://open.spotify.com/album/1IzIjAIaqxbIkcs8gjyifw"
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq"
       },
       "artists": [
         {
-          "name": "JKRS",
-          "url": "https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv"
-        },
-        {
-          "name": "ECHO",
-          "url": "https://open.spotify.com/artist/5Spgsyg6iHiNNu3Bqg32cI"
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
         }
       ],
-      "duration_ms": 154285,
-      "name": "Maneater",
-      "url": "https://open.spotify.com/track/2apRbQlpckuUM282gW1Z6p"
+      "duration_ms": 147680,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz"
     },
     {
       "added_at": "2023-12-19 17:39:47",
@@ -1439,6 +1419,26 @@
       "duration_ms": 134607,
       "name": "Sar\u00e0 perch\u00e9 ti amo",
       "url": "https://open.spotify.com/track/6nQLIugrQVRZ7UKaTVdnmS"
+    },
+    {
+      "added_at": "2023-12-19 17:39:47",
+      "album": {
+        "name": "Maneater",
+        "url": "https://open.spotify.com/album/1IzIjAIaqxbIkcs8gjyifw"
+      },
+      "artists": [
+        {
+          "name": "JKRS",
+          "url": "https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv"
+        },
+        {
+          "name": "ECHO",
+          "url": "https://open.spotify.com/artist/5Spgsyg6iHiNNu3Bqg32cI"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Maneater",
+      "url": "https://open.spotify.com/track/2apRbQlpckuUM282gW1Z6p"
     },
     {
       "added_at": "2023-12-19 17:39:47",
@@ -1783,26 +1783,6 @@
     {
       "added_at": "2023-12-19 17:39:47",
       "album": {
-        "name": "We Are The People (southstar Remix)",
-        "url": "https://open.spotify.com/album/28E0EqraSPvGhUQ0jNkUvb"
-      },
-      "artists": [
-        {
-          "name": "Empire of the Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        },
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 236068,
-      "name": "We Are The People - southstar Remix",
-      "url": "https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS"
-    },
-    {
-      "added_at": "2023-12-19 17:39:47",
-      "album": {
         "name": "ECHT (Techno Mix)",
         "url": "https://open.spotify.com/album/6EOe0HCjcuiOImjKJ7yAzR"
       },
@@ -1827,6 +1807,26 @@
       "duration_ms": 124327,
       "name": "ECHT - Techno Mix",
       "url": "https://open.spotify.com/track/2Pyfpd75r3dC3nDgVA4fnX"
+    },
+    {
+      "added_at": "2023-12-19 17:39:47",
+      "album": {
+        "name": "We Are The People (southstar Remix)",
+        "url": "https://open.spotify.com/album/28E0EqraSPvGhUQ0jNkUvb"
+      },
+      "artists": [
+        {
+          "name": "Empire of the Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        },
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 236068,
+      "name": "We Are The People - southstar Remix",
+      "url": "https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS"
     },
     {
       "added_at": "2023-12-19 17:39:47",

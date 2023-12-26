@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 112047,
+  "num_followers": 112094,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2I4MzQzZDg2MTc2MmZhM2ExNjQzMGYyMTJlNTA4YWRlNTM2MmI3",
+  "snapshot_id": "MCw2MmUyZDc1ZmE0NjIyODAzZjRkMzliN2I0MjliZmViZjlhYTFhNTU0",
   "tracks": [
     {
       "added_at": "2023-12-22 18:25:24",
@@ -187,6 +187,22 @@
     {
       "added_at": "2023-12-22 18:25:24",
       "album": {
+        "name": "Dif\u00edcil De Igualar",
+        "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 303413,
+      "name": "Dificil de igualar",
+      "url": "https://open.spotify.com/track/3vhej4TjgOt4d6OS4uMIVO"
+    },
+    {
+      "added_at": "2023-12-22 18:25:24",
+      "album": {
         "name": "Welcome To The Jungle",
         "url": "https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 251626,
       "name": "Ni Contigo, Ni Sin Ti",
       "url": "https://open.spotify.com/track/3tHYpuF2eIc4pDrzIdNN3Y"
-    },
-    {
-      "added_at": "2023-12-22 18:25:24",
-      "album": {
-        "name": "Dif\u00edcil De Igualar",
-        "url": "https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 303413,
-      "name": "Dificil de igualar",
-      "url": "https://open.spotify.com/track/3vhej4TjgOt4d6OS4uMIVO"
     },
     {
       "added_at": "2023-12-22 18:25:24",
@@ -415,6 +415,42 @@
     {
       "added_at": "2023-12-22 18:25:24",
       "album": {
+        "name": "Paso la Vida Pensando",
+        "url": "https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        },
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+        }
+      ],
+      "duration_ms": 242277,
+      "name": "Paso la Vida Pensando",
+      "url": "https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj"
+    },
+    {
+      "added_at": "2023-12-22 18:25:24",
+      "album": {
+        "name": "Sentimientos Encontrados",
+        "url": "https://open.spotify.com/album/28VLJjvWgWvYfd4gDjWtQm"
+      },
+      "artists": [
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+        }
+      ],
+      "duration_ms": 211240,
+      "name": "Cinco Minutos",
+      "url": "https://open.spotify.com/track/7Ihrw9IeHLBs9xiGJiSmAM"
+    },
+    {
+      "added_at": "2023-12-22 18:25:24",
+      "album": {
         "name": "Las Mejores Vol. 1",
         "url": "https://open.spotify.com/album/6UiASzAqGZh0l3u43mktIY"
       },
@@ -451,26 +487,6 @@
     {
       "added_at": "2023-12-22 18:25:24",
       "album": {
-        "name": "Paso la Vida Pensando",
-        "url": "https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        },
-        {
-          "name": "Lucas Sugo",
-          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
-        }
-      ],
-      "duration_ms": 242277,
-      "name": "Paso la Vida Pensando",
-      "url": "https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj"
-    },
-    {
-      "added_at": "2023-12-22 18:25:24",
-      "album": {
         "name": "Pense Que Te Olvide (feat. 8 Corazones)",
         "url": "https://open.spotify.com/album/6JrEX1kd59eIxeJW1fqldp"
       },
@@ -491,22 +507,6 @@
     {
       "added_at": "2023-12-22 18:25:24",
       "album": {
-        "name": "Sentimientos Encontrados",
-        "url": "https://open.spotify.com/album/28VLJjvWgWvYfd4gDjWtQm"
-      },
-      "artists": [
-        {
-          "name": "Lucas Sugo",
-          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
-        }
-      ],
-      "duration_ms": 211240,
-      "name": "Cinco Minutos",
-      "url": "https://open.spotify.com/track/7Ihrw9IeHLBs9xiGJiSmAM"
-    },
-    {
-      "added_at": "2023-12-22 18:25:24",
-      "album": {
         "name": "Qmbia Juan",
         "url": "https://open.spotify.com/album/4sFUDXIva4T2Stxdw2W9A6"
       },
@@ -519,6 +519,22 @@
       "duration_ms": 237844,
       "name": "Ay Que Vida",
       "url": "https://open.spotify.com/track/49XZJFdzkBNWQ7q7aMTZWe"
+    },
+    {
+      "added_at": "2023-12-22 18:25:24",
+      "album": {
+        "name": "\u00a1Anotate!",
+        "url": "https://open.spotify.com/album/7uyyHMMuriePK9dFV9aOLb"
+      },
+      "artists": [
+        {
+          "name": "El Plan",
+          "url": "https://open.spotify.com/artist/4eAOSYptOersSMJJGPGWwx"
+        }
+      ],
+      "duration_ms": 191680,
+      "name": "So\u00f1ador Eterno",
+      "url": "https://open.spotify.com/track/20KylBs1yoC0nhlgRKI8H5"
     },
     {
       "added_at": "2023-12-22 18:25:24",
@@ -555,22 +571,6 @@
       "duration_ms": 155191,
       "name": "El Gallo Rojo",
       "url": "https://open.spotify.com/track/6fofmRFBOcURZhv1erfaJ3"
-    },
-    {
-      "added_at": "2023-12-22 18:25:24",
-      "album": {
-        "name": "\u00a1Anotate!",
-        "url": "https://open.spotify.com/album/7uyyHMMuriePK9dFV9aOLb"
-      },
-      "artists": [
-        {
-          "name": "El Plan",
-          "url": "https://open.spotify.com/artist/4eAOSYptOersSMJJGPGWwx"
-        }
-      ],
-      "duration_ms": 191680,
-      "name": "So\u00f1ador Eterno",
-      "url": "https://open.spotify.com/track/20KylBs1yoC0nhlgRKI8H5"
     },
     {
       "added_at": "2023-12-22 18:25:24",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-12-22 18:25:24",
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/1YWjYbZUVDXgnUqa7MSaWE"
-      },
-      "artists": [
-        {
-          "name": "Cumbia Juan",
-          "url": "https://open.spotify.com/artist/14W5NzubXTLLLVF4XjtCU2"
-        }
-      ],
-      "duration_ms": 203253,
-      "name": "Que Loco Amor",
-      "url": "https://open.spotify.com/track/51LmGYcyw9WRnR2zopCF2C"
-    },
-    {
-      "added_at": "2023-12-22 18:25:24",
-      "album": {
         "name": "Banda Santa Fe, con m\u00e1s estilo...",
         "url": "https://open.spotify.com/album/2wcBjXnBHcj9aEpiXI9XNT"
       },
@@ -759,6 +743,22 @@
     {
       "added_at": "2023-12-22 18:25:24",
       "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/1YWjYbZUVDXgnUqa7MSaWE"
+      },
+      "artists": [
+        {
+          "name": "Cumbia Juan",
+          "url": "https://open.spotify.com/artist/14W5NzubXTLLLVF4XjtCU2"
+        }
+      ],
+      "duration_ms": 203253,
+      "name": "Que Loco Amor",
+      "url": "https://open.spotify.com/track/51LmGYcyw9WRnR2zopCF2C"
+    },
+    {
+      "added_at": "2023-12-22 18:25:24",
+      "album": {
         "name": "180 Grados",
         "url": "https://open.spotify.com/album/7o4MMZwV9JSG0kkXrdKMvn"
       },
@@ -771,22 +771,6 @@
       "duration_ms": 197761,
       "name": "Mi Dulce Ni\u00f1a - Remasterizado 2017",
       "url": "https://open.spotify.com/track/5zxQLnG4DhQT1lUPQJSCC4"
-    },
-    {
-      "added_at": "2023-12-22 18:25:24",
-      "album": {
-        "name": "Qmbia Base",
-        "url": "https://open.spotify.com/album/24BnA1nhiPNXjOIx81hSzY"
-      },
-      "artists": [
-        {
-          "name": "Qmbia Base",
-          "url": "https://open.spotify.com/artist/32uFGCnRZ9pD5CXmlfaJcU"
-        }
-      ],
-      "duration_ms": 217385,
-      "name": "T\u00fa y yo",
-      "url": "https://open.spotify.com/track/2aZka304WFsTFRVk5MQsy4"
     },
     {
       "added_at": "2023-12-22 18:25:24",
@@ -807,6 +791,22 @@
     {
       "added_at": "2023-12-22 18:25:24",
       "album": {
+        "name": "Qmbia Base",
+        "url": "https://open.spotify.com/album/24BnA1nhiPNXjOIx81hSzY"
+      },
+      "artists": [
+        {
+          "name": "Qmbia Base",
+          "url": "https://open.spotify.com/artist/32uFGCnRZ9pD5CXmlfaJcU"
+        }
+      ],
+      "duration_ms": 217385,
+      "name": "T\u00fa y yo",
+      "url": "https://open.spotify.com/track/2aZka304WFsTFRVk5MQsy4"
+    },
+    {
+      "added_at": "2023-12-22 18:25:24",
+      "album": {
         "name": "Los Meketrefes grandes exitos",
         "url": "https://open.spotify.com/album/72NwFvWV9HckI9kd5PFN8e"
       },
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-12-22 18:25:24",
       "album": {
-        "name": "Hemisferios",
-        "url": "https://open.spotify.com/album/6IfGYAiEViUQFCLKkx6GLh"
-      },
-      "artists": [
-        {
-          "name": "La De Roberto",
-          "url": "https://open.spotify.com/artist/6RtpeKo8M8Ma1sADlQgI3U"
-        }
-      ],
-      "duration_ms": 209773,
-      "name": "Hemisferios",
-      "url": "https://open.spotify.com/track/23PqbeqTrFllYLOUER2FVy"
-    },
-    {
-      "added_at": "2023-12-22 18:25:24",
-      "album": {
         "name": "Bailalo Como Quieras, Que Esto Cumbia Villera",
         "url": "https://open.spotify.com/album/1BfrDLGjWr6BTQjW2ZTSAV"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 215981,
       "name": "Una Cerveza",
       "url": "https://open.spotify.com/track/3LUxexs29ODGnrup1G4y89"
+    },
+    {
+      "added_at": "2023-12-22 18:25:24",
+      "album": {
+        "name": "Hemisferios",
+        "url": "https://open.spotify.com/album/6IfGYAiEViUQFCLKkx6GLh"
+      },
+      "artists": [
+        {
+          "name": "La De Roberto",
+          "url": "https://open.spotify.com/artist/6RtpeKo8M8Ma1sADlQgI3U"
+        }
+      ],
+      "duration_ms": 209773,
+      "name": "Hemisferios",
+      "url": "https://open.spotify.com/track/23PqbeqTrFllYLOUER2FVy"
     }
   ],
   "unique_name": "Mi Terer\u00e9",

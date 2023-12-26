@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,204 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,247 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 49 | [El Karma](https://open.spotify.com/track/28ePagXQlJN3w7n2ev0wGS) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [5 Años Despues](https://open.spotify.com/album/0dGdjf5RzkSb11Mso8Bal2) | 3:30 |
 | 50 | [Cartel De Badiraguato \- En Vivo](https://open.spotify.com/track/71xO201aCjm5MzgTGzu7m4) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF) | [Cartel De Badiraguato \(En Vivo\)](https://open.spotify.com/album/7xXdmxwPCaPkV5gyeVuACo) | 3:32 |
 
-Snapshot ID: `MjgzOTAyOTIsMDAwMDAwMDAxMTI2MTkxNTFhYWYzOGZjZmJkMzRkYjdiNDQyOGI5OA==`
+Snapshot ID: `MjgzOTE3MzQsMDAwMDAwMDBlNWJiMmY2MjQ5MjBhMGRlY2NjYzZiYmE0YTAyMGJlZQ==`

@@ -4,7 +4,7 @@
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-61 songs - 3 hr 59 min
+62 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,9 +13,10 @@
 | [Asan Ka Na Ba](https://open.spotify.com/track/5MYPzdIWgx3pMLRGlq2fVq) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Asan Ka Na Ba](https://open.spotify.com/album/0MK93ibEen72O8dosu3WXE) | 4:01 | 2023-10-18 | 2023-12-19 |
 | [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 | 2023-11-10 |  |
 | [Bakit?](https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Bakit?](https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI) | 3:14 | 2023-11-10 | 2023-11-28 |
+| [Binibini](https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Binibini](https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0) | 3:41 | 2023-12-08 |  |
 | [Bituin](https://open.spotify.com/track/014ZhS6LpxihZ1lW8hir4F) | [Ame](https://open.spotify.com/artist/5FBMWQ27y0de4TaZawQ7bN) | [Bituin](https://open.spotify.com/album/1N0KVT7nC3flNBZn7cjFto) | 5:50 | 2023-10-18 | 2023-11-11 |
 | [Courage \(Acoustic Version\)](https://open.spotify.com/track/2qsd9R4G0g1dZwVejfGowK) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Courage \(Acoustic Version\)](https://open.spotify.com/album/3KNTVXEXg2Y99cbsQcb34u) | 4:46 | 2023-10-18 | 2023-11-11 |
-| [Crazier](https://open.spotify.com/track/0PQ84nbR1Owkr7RtGBmZI7) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Crazier](https://open.spotify.com/album/1RKdiat44rgOshOsNdgSXf) | 3:53 | 2023-10-18 |  |
+| [Crazier](https://open.spotify.com/track/0PQ84nbR1Owkr7RtGBmZI7) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Crazier](https://open.spotify.com/album/1RKdiat44rgOshOsNdgSXf) | 3:53 | 2023-10-18 | 2023-12-26 |
 | [Dal'wang Patinig](https://open.spotify.com/track/1RuU3Nuwnv5RZExtG5w94l) | [SunKissed Lola](https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2) | [Dal'wang Patinig](https://open.spotify.com/album/5e1cXY60hFMJYetPBFl2di) | 3:49 | 2023-11-10 | 2023-12-09 |
 | [DELULU](https://open.spotify.com/track/0CBDY0SfSIaVWnOFrwzSbv) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [DELULU](https://open.spotify.com/album/2RIrEQbhMyFMJo58o5bLDA) | 3:16 | 2023-11-10 |  |
 | [Gabi](https://open.spotify.com/track/6bRB6pvgrVRAi1VdFz9TJb) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ), [Zild](https://open.spotify.com/artist/7BxbcnOfx5r4d53UQl2I1s) | [Sad Songs and Bullshit Part 1](https://open.spotify.com/album/7H0mDAUmK6BUuGZCy10kcv) | 5:17 | 2023-10-18 | 2023-11-21 |

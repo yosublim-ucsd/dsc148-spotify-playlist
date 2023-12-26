@@ -4,13 +4,13 @@
 
 > For the pain, tears and heartbreak.
 
-150 songs - 8 hr 12 min
+151 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4 Nothin'](https://open.spotify.com/track/2z3aAvPD98LnO2etDd5g12) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Summers](https://open.spotify.com/album/4Lg9SI9ZEG7qDH1oPxJxVb) | 3:29 | 2022-02-11 | 2023-05-15 |
 | [4 Nothin'](https://open.spotify.com/track/4MNoQpjih78o8s5RYhhUrL) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Summers](https://open.spotify.com/album/3DGeD2ap8hARpbFZZpmwVb) | 3:29 | 2023-05-11 |  |
-| [7 in the Morning](https://open.spotify.com/track/1ECMAbJySsfImTUuDRj9J7) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [7 in the Morning](https://open.spotify.com/album/33HDZIBuxNPHLvSB8Rs9L7) | 3:34 | 2023-07-14 |  |
+| [7 in the Morning](https://open.spotify.com/track/1ECMAbJySsfImTUuDRj9J7) | [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [7 in the Morning](https://open.spotify.com/album/33HDZIBuxNPHLvSB8Rs9L7) | 3:34 | 2023-07-14 | 2023-12-26 |
 | [A1 \(Feeling Disorder\)](https://open.spotify.com/track/5lsnlGFJTOytJFgJH5tuMu) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [A1 \(Feeling Disorder\)](https://open.spotify.com/album/310NyAQdWMgHJNjq7AKLvo) | 2:05 | 2023-06-09 |  |
 | [Affairs](https://open.spotify.com/track/7jbLmF56d83iYzKZMnwP8a) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9), [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Pure Akan](https://open.spotify.com/artist/7gokJukppUKeH1t6RBiclx) | [Affairs](https://open.spotify.com/album/4G7HCFjj6K39ELUmXSO49G) | 2:44 | 2023-05-04 | 2023-05-12 |
 | [Amaka \(feat\. Peruzzi\)](https://open.spotify.com/track/2F5EpzUXZBX46ruU0muOx0) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Warriors](https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK) | 3:47 | 2022-02-11 | 2023-03-18 |
@@ -48,6 +48,7 @@
 | [Everything \(feat\. Stonebwoy\)](https://open.spotify.com/track/4DQUYxDUePsa8ZGLQWYXc5) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Everything \(feat\. Stonebwoy\)](https://open.spotify.com/album/5SsU6nRNTKpbmMB2sCk6XC) | 2:48 | 2023-02-10 | 2023-05-20 |
 | [EX BOYFRIEND](https://open.spotify.com/track/3pcITc6cPAvj5JtOnXiB1X) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [EX BOYFRIEND](https://open.spotify.com/album/1OVZQ2AGHb6fQM0CFAviQq) | 2:14 | 2022-06-30 |  |
 | [Feel Different](https://open.spotify.com/track/0nTgtjFQzLhvU3VLciMPlN) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Feel Different](https://open.spotify.com/album/3WkYJGUSNOTvGoe4YkIVjM) | 2:59 | 2023-06-09 |  |
+| [Fun For Love](https://open.spotify.com/track/0IB4hLGhMuo43wdf4zhduC) | [Davolee](https://open.spotify.com/artist/5sw96lcKm8tdmqudO4AJ8a), [Otega](https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs) | [Na My Shoe I Buckle](https://open.spotify.com/album/2gQ8tkRtc3QwHpJ71ZSC4k) | 2:38 | 2023-12-08 |  |
 | [Fun for Love](https://open.spotify.com/track/3doWW3a8etr8hhVSJXYhFv) | [Davolee](https://open.spotify.com/artist/5sw96lcKm8tdmqudO4AJ8a), [Otega](https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs) | [Fun for Love](https://open.spotify.com/album/3SHD5LOEnhMsJqwEoozkbQ) | 2:38 | 2023-03-17 | 2023-12-21 |
 | [Gentility](https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Gentility \(feat\. Wande Coal\)](https://open.spotify.com/album/6v8LdWReU2z42hUXe7VdMg) | 3:45 | 2022-04-25 |  |
 | [Gone Back](https://open.spotify.com/track/1SfzUZfk6wiNqJNWv0dz9u) | [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Gone Back](https://open.spotify.com/album/5TGbLOhXDrvgJhzSiobOSo) | 2:36 | 2023-05-19 |  |

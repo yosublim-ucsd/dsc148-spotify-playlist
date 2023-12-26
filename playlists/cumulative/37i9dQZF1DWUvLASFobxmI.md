@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Regulo Caro y El Padrinito Toys en portada.
 
-444 songs - 23 hr 52 min
+445 songs - 23 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [No Fue Por Suerte \(En Vivo\)](https://open.spotify.com/track/6ei8QQ1AVmz1pPXayot3P7) | [Doble Vision](https://open.spotify.com/artist/5YQwShxECKFKPcmHRx9LDa) | [No Fue Por Suerte \(En Vivo\)](https://open.spotify.com/album/5jLl1BrU3HkKqrdQFrdvk5) | 3:06 | 2023-01-20 | 2023-01-28 |
 | [No Lastimes Más](https://open.spotify.com/track/2EmetN24XiKK70iqMucNXp) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [No Lastimes Más](https://open.spotify.com/album/2NUju8s9hexvf03Vrmny6Z) | 3:23 | 2023-12-15 |  |
 | [No Me Faltes Tú](https://open.spotify.com/track/2Ps92OxgYoOY012JX2Anfv) | [Los Elegantes de Jerez](https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav) | [No Me Faltes Tú](https://open.spotify.com/album/45kO6SXe0acdEFYZ8TJpUg) | 3:50 | 2023-06-16 | 2023-07-29 |
+| [No Me Hablen de Amor](https://open.spotify.com/track/2FHW0H29DDCTWYLXwpAwpu) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [A la Medida](https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1) | 3:09 | 2023-12-21 |  |
 | [No Me Hablen de Amor](https://open.spotify.com/track/7K0uP89lMORMUgH1hBwpJc) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [No Me Hablen de Amor](https://open.spotify.com/album/05ef9VbIUj8OwNCZSbW8At) | 3:09 | 2022-08-16 | 2023-09-02 |
 | [No Me Hubiera Enamorado](https://open.spotify.com/track/6XiSceaDaO2vaYF2B2A70t) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [El Problema](https://open.spotify.com/album/3wZCydFnWWZhm5osBdul0s) | 3:27 | 2021-12-17 |  |
 | [No Paras de Hacerme Feliz](https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [No Paras de Hacerme Feliz](https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi) | 3:05 | 2021-12-17 |  |
@@ -409,7 +410,7 @@
 | [Te Amo](https://open.spotify.com/track/2r69ZhXm40bzjGIPdRvaqk) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Te Amo](https://open.spotify.com/album/52PyyMTKyJtiNzxvnoGaPq) | 3:13 | 2022-11-04 |  |
 | [Te Invito a Ser Feliz](https://open.spotify.com/track/3bUzFhNuke83LHTBw0XhYr) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Invito a Ser Feliz](https://open.spotify.com/album/7ukaZijb4JKauWNUYv8ddm) | 3:16 | 2023-02-24 | 2023-04-15 |
 | [Te Mereces](https://open.spotify.com/track/7MOsxXYlhSoQUSJhR09QGB) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Jalas o No Jalas, Vol.2](https://open.spotify.com/album/1W2Atto04JwV3G32tP5rPO) | 2:38 | 2022-07-01 | 2022-11-05 |
-| [TE QUIERO](https://open.spotify.com/track/7r3xWBPAiFNZS7QVxXc3HJ) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [TE QUIERO](https://open.spotify.com/album/4JQx52nfJX5YfcEMTs1ceq) | 2:33 | 2023-01-20 |  |
+| [TE QUIERO](https://open.spotify.com/track/7r3xWBPAiFNZS7QVxXc3HJ) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [TE QUIERO](https://open.spotify.com/album/4JQx52nfJX5YfcEMTs1ceq) | 2:33 | 2023-01-20 | 2023-12-26 |
 | [Te Quiero](https://open.spotify.com/track/30cecr0ZkOxzBAmdA8fWeu) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Te Quiero](https://open.spotify.com/album/2SEQvr4tdaQguLDvjYtnKr) | 3:06 | 2023-03-09 | 2023-03-11 |
 | [Te Quiero Besar](https://open.spotify.com/track/3iwKWIaEZ5jafPYZZSCDLz) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Te Quiero Besar](https://open.spotify.com/album/3nzB6RJLeWrgaATXF5ZIkr) | 3:10 | 2023-02-24 |  |
 | [Te vez Buena](https://open.spotify.com/track/0GzOtepkwolnl5WrDv61ys) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [De Parranda Lives Vol\. 5](https://open.spotify.com/album/1JsM9bGRvLyZvZbALOFj3E) | 4:12 | 2022-04-15 | 2022-11-03 |

@@ -4,7 +4,7 @@
 
 > Favor de hacer doble fila para bailar estos cumbiones ¡Súbale hay lugares!
 
-220 songs - 14 hr 41 min
+221 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [El Angel Del Amor](https://open.spotify.com/track/2q5YyxChGazXIMIsTKUrdU) | [Los Tepoz](https://open.spotify.com/artist/1yu6r3vgWWDpQLOVHtM8pW) | [El Angel Del Amor](https://open.spotify.com/album/2Seyfb2z21MPHZs4As75ba) | 3:56 | 2022-06-07 |  |
 | [El Baile De San Juan](https://open.spotify.com/track/3OWgaoLMcjnF6RRbzZrS7O) | [Grupo La Chomba](https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd) | [Con Musica Del Barrio y Para El Barrio](https://open.spotify.com/album/35L0etvGB9w2whJfmkkXQo) | 4:14 | 2021-12-27 | 2022-07-29 |
 | [El Baile de San Juan](https://open.spotify.com/track/25KUL02kWrFzEVhANo0ESg) | [Grupo La Chomba](https://open.spotify.com/artist/1PU5TO9w2QczOKNvSjtctd) | [El Baile de San Juan](https://open.spotify.com/album/6I3BGNjjCmPZ6NKvB9krta) | 4:14 | 2022-06-07 |  |
-| [El Burro Loco](https://open.spotify.com/track/1daCaKKKumwrRr8vMqyn6A) | [El Compa Sebas Y Su Teclado](https://open.spotify.com/artist/7yFKqPasXxhmMvQgPrpsdu) | [El Burro Loco](https://open.spotify.com/album/0lLCNXX3w4XBNukORTkd7u) | 3:24 | 2023-01-10 |  |
+| [El Burro Loco](https://open.spotify.com/track/1daCaKKKumwrRr8vMqyn6A) | [El Compa Sebas Y Su Teclado](https://open.spotify.com/artist/7yFKqPasXxhmMvQgPrpsdu) | [El Burro Loco](https://open.spotify.com/album/0lLCNXX3w4XBNukORTkd7u) | 3:24 | 2023-01-10 | 2023-12-26 |
 | [El Fantasma del Amor](https://open.spotify.com/track/2P0CVPl7JUmoKOXSFoL2wH) | [Grupo Ternura Dinastia Toxqui](https://open.spotify.com/artist/6zgNAWCeLAvNWLasnMi2oZ) | [El Fantasma del Amor](https://open.spotify.com/album/10uRdZo4A5BxPHERGzd2jZ) | 4:13 | 2021-12-27 |  |
 | [El Final de Nuestra Historia](https://open.spotify.com/track/4m2r8uvZFYzhWNMtEonxKn) | [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc) | [Haciendo Historia](https://open.spotify.com/album/6BwYbIiNj3OW3X7kcSzb5e) | 4:36 | 2021-12-27 |  |
 | [El Listón De Tu Pelo](https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:36 | 2021-12-27 |  |
@@ -128,6 +128,7 @@
 | [La Triste Despedida](https://open.spotify.com/track/6mfl8ppmtBBtmv2sSPVkif) | [Grupo Ju\-Juy](https://open.spotify.com/artist/1pTAkO3OrwVOKUh3bfGv5m) | [Un Monton De Estrellas](https://open.spotify.com/album/42oEsxcnZj483G6zXYWpcH) | 4:43 | 2022-12-30 |  |
 | [La Vampiresa](https://open.spotify.com/track/06uyFPb72xxh5takZ206Of) | [Explosion Colombiana De Ortiz Ortiz](https://open.spotify.com/artist/0TnUsXdjrYnKIU6BCBbWop) | [La Vampiresa](https://open.spotify.com/album/2zwdkKmfduNetGgWDlUM3T) | 5:14 | 2023-11-08 |  |
 | [Lagrimas de Escarcha](https://open.spotify.com/track/4rRX8M117ii4lulb7Iw379) | [Tiberio Y Sus Gatos Negros](https://open.spotify.com/artist/6a5iqJmvklikJ2kUIl2xl1) | [Los Exitos de Tiberio y Sus Gatos Negros](https://open.spotify.com/album/2zUls9Mq7XLfndfTtKeynj) | 3:44 | 2021-12-27 |  |
+| [Las Amo a las Dos](https://open.spotify.com/track/7ijgUWYZNzvvBcWpSzmY2t) | [Cumbias Poblanas](https://open.spotify.com/artist/3SSGvoGR7r1IzKEfe81zyu) | [Cumbias Pa' Seguir Bailando \- Cumbias Poblanas](https://open.spotify.com/album/0tPUMu4zHrmKpwM4a4EjTQ) | 4:49 | 2023-11-08 |  |
 | [Las Amo a Las Dos](https://open.spotify.com/track/0jhtqu6qU7UU4qEfQuv634) | [Cumbias Poblanas](https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4) | [Cumbia Pa' seguir Bailando](https://open.spotify.com/album/0XgaEEDzNf5VjXlaSV1eHK) | 4:49 | 2021-12-27 | 2022-07-29 |
 | [Las Amo a Las Dos](https://open.spotify.com/track/4XqXGdhCvH9GL7DWeqUrWm) | [Cumbias Poblanas](https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4) | [Cumbia Pa' seguir Bailando](https://open.spotify.com/album/6StHl9h5jusxFp10JAKmZu) | 4:49 | 2022-06-07 | 2023-12-22 |
 | [Las Mujers No Se Acaban](https://open.spotify.com/track/0NLSsL8sIElmNuTySSb3s6) | [Grupo Kual? Dinastia Pedraza Es Grupo Kein?](https://open.spotify.com/artist/3mtUQL8wfuXoI3bcciosLd), [Grupo Kien? Los reyes del sabor](https://open.spotify.com/artist/6fEzGwsCbebAQaAXoSh2gy) | [Para Que La Cuña Apriete](https://open.spotify.com/album/643Req8SJXX188L5fuuVD2) | 4:30 | 2021-12-27 |  |
@@ -177,7 +178,7 @@
 | [Princesa Talibana](https://open.spotify.com/track/0f0czUFLxXOPGj91ib5L2X) | [Super Grupo G](https://open.spotify.com/artist/40vlmUq8Zn9LIYysuGL8Z7) | [Gran Encuentro](https://open.spotify.com/album/0vIKDr74lkdvjJwHjvcP9L) | 3:16 | 2021-12-27 | 2022-07-28 |
 | [Que Dolor](https://open.spotify.com/track/7gbXqohYAdWbcUEoznCrqO) | [Los Marios](https://open.spotify.com/artist/1A5MEaeDJeABkpcW9crr8z) | [El Campeon](https://open.spotify.com/album/0CtZ6ma3A8N1bcpzjpXT3U) | 3:25 | 2023-01-10 |  |
 | [Que Levante La Mano](https://open.spotify.com/track/36TIklA7o1T0eXS83n1amI) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Te Voy A Enamorar](https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp) | 3:50 | 2021-12-27 |  |
-| [Que Me Toque Una Cumbita \(La Cumbita\)](https://open.spotify.com/track/1KD4PIbyvS4Gq2AQUVluWf) | [KUMBIAMBEROS RS](https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak) | [La Pura Crema](https://open.spotify.com/album/0VYlMRjGyHFZtnq7lZZ7wW) | 3:47 | 2023-01-10 |  |
+| [Que Me Toque Una Cumbita \(La Cumbita\)](https://open.spotify.com/track/1KD4PIbyvS4Gq2AQUVluWf) | [KUMBIAMBEROS RS](https://open.spotify.com/artist/4dH4CQPLPsx2YDuH4Insak) | [La Pura Crema](https://open.spotify.com/album/0VYlMRjGyHFZtnq7lZZ7wW) | 3:47 | 2023-01-10 | 2023-12-26 |
 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/2YM0K9Xgqyy8hNcj5cPmTE) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Música Tropical de Colombia \(Vol\. 11\)](https://open.spotify.com/album/2cLqohSX24vIgyyOmyWijh) | 4:04 | 2021-12-27 | 2022-07-28 |
 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/746BX8eh7gTFJUaVwF3Hpk) | [Sonora Siguaray](https://open.spotify.com/artist/5mJH0BUCHkK1xHYde4pAgv) | [De Mil Maneras](https://open.spotify.com/album/2KY2R606LkTJcyDy0pPGc8) | 4:06 | 2022-06-07 |  |
 | [Que Te Vaya Bien](https://open.spotify.com/track/5IdaVuUzEDF3T56U5vS5ck) | [Grupo Jalado](https://open.spotify.com/artist/71mQj8OrRgy3smRMjnFioM) | [Que Te Vaya Bien](https://open.spotify.com/album/40Dl0QnoNEuO3tsbftHtIS) | 3:37 | 2021-12-27 |  |
@@ -189,7 +190,7 @@
 | [Sensacion Latina](https://open.spotify.com/track/1z7YvRwJKKCxzEMLPA2WbL) | [Yucateco](https://open.spotify.com/artist/6cWxc7Lnk8MqzVZXiibgWN) | [Sensacion Latina](https://open.spotify.com/album/5Da24tiYjKHIhWSdqxV9cf) | 2:45 | 2022-12-30 | 2023-03-26 |
 | [Si No La Tengo](https://open.spotify.com/track/5BSYu3CEg0L9sDBNXOwKTk) | [Diablos Locos](https://open.spotify.com/artist/4VB5hjhR9zb2ZdkShUBGvY) | [15 Grandes](https://open.spotify.com/album/5IFN7h62KHYzNaI5BBIpHj) | 5:08 | 2021-12-27 |  |
 | [Si Te Hubieras Quedado](https://open.spotify.com/track/2lxgLyM4PgdRb1E7jrSfaZ) | [Grupo la Ley Siete de Enrike Fortunato](https://open.spotify.com/artist/6NXg2WVQSGgmOfdtHI7CbI) | [Si Te Hubieras Quedado](https://open.spotify.com/album/6hzxNwknOcWOvoVlCQk08F) | 4:38 | 2023-01-10 |  |
-| [Sin Ella](https://open.spotify.com/track/6UvJvZ5asLHazFpCxhHTVM) | [Los Marios](https://open.spotify.com/artist/1A5MEaeDJeABkpcW9crr8z) | [El Toque Tropical del Barrio Vol\. 3](https://open.spotify.com/album/6TWE8uxJLDv912MqhXnxP1) | 4:04 | 2023-11-08 | 2023-12-16 |
+| [Sin Ella](https://open.spotify.com/track/6UvJvZ5asLHazFpCxhHTVM) | [Los Marios](https://open.spotify.com/artist/1A5MEaeDJeABkpcW9crr8z) | [El Toque Tropical del Barrio Vol\. 3](https://open.spotify.com/album/6TWE8uxJLDv912MqhXnxP1) | 4:04 | 2023-11-08 |  |
 | [Sin Ti No Sé Vivir](https://open.spotify.com/track/2tkeEsJUjKLM1zKeWJ3RqU) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:44 | 2021-12-27 | 2023-01-11 |
 | [Solo una Noche](https://open.spotify.com/track/2UBLFphvbPCnnau4kxBWOU) | [El Grupo De Mayor Impacto Apasionadoz](https://open.spotify.com/artist/3UoG37LDn0i3I43VIeS2J8) | [Y De Nuevo Otra Vez !!!](https://open.spotify.com/album/04h1TCgDD9MFwQ63HZAD2A) | 3:47 | 2022-06-07 | 2023-01-11 |
 | [Soy Maraquero](https://open.spotify.com/track/1VyoVchWIOMkQ1dbRJVgII) | [Kual](https://open.spotify.com/artist/0MYzX59ADPWfK15pDNZzuo) | [Lo Mas Ka\-Bron Sonidero](https://open.spotify.com/album/1XiYKT5lO5c1bwwTwiiOIA) | 5:00 | 2021-12-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4x3X2w.md) - [plain]
 
 > This is Aerosmith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 672,782 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 672,841 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4x3X2w.md) - [plain]
 | 46 | [Nine Lives](https://open.spotify.com/track/1baMSM7DZXYKVTHyxnYgzd) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI) | 4:01 |
 | 47 | [Walkin' The Dog](https://open.spotify.com/track/0AgJGo7JNWYBeHqbdzCXC0) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith](https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE) | 3:13 |
 | 48 | [Lightning Strikes](https://open.spotify.com/track/2ervbJ7zh4Ry2hggiNeT3q) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Rock In A Hard Place](https://open.spotify.com/album/15e4kGDE06PRB9RMunBZe9) | 4:26 |
-| 49 | [Let The Music Do The Talking](https://open.spotify.com/track/2oUp3nS5lhoHZsoaLaKdRa) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Done With Mirrors](https://open.spotify.com/album/4V95fty2dd1ig3a1JzmjYf) | 3:47 |
-| 50 | [Adam's Apple](https://open.spotify.com/track/4p3RAb1HkCRugbC8LGSP2K) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD) | 4:33 |
+| 49 | [Adam's Apple](https://open.spotify.com/track/4p3RAb1HkCRugbC8LGSP2K) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD) | 4:33 |
+| 50 | [Let The Music Do The Talking](https://open.spotify.com/track/2oUp3nS5lhoHZsoaLaKdRa) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Done With Mirrors](https://open.spotify.com/album/4V95fty2dd1ig3a1JzmjYf) | 3:47 |
 
-Snapshot ID: `MjgzOTAyOTIsMDAwMDAwMDA2M2VkNzIzZjY2OTlhYTY5ZjllZTEzOGVjY2I2ZTQ3OQ==`
+Snapshot ID: `MjgzOTE3MzUsMDAwMDAwMDBlOTIzMmUyMDdmYTRhNTNhNWRkYjU5ODNiMWY4NzczMA==`

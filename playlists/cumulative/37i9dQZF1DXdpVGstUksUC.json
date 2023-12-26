@@ -3656,7 +3656,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 523466,
       "name": "Psychotzar",
       "url": "https://open.spotify.com/track/0KzZugT2zOfg3U0ZkD2Iq3"
@@ -4578,6 +4578,24 @@
       "duration_ms": 267493,
       "name": "Superhuman God",
       "url": "https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh"
+    },
+    {
+      "album": {
+        "name": "Superjudge",
+        "url": "https://open.spotify.com/album/1JQ37QyKofGEp5UEz3Gay4"
+      },
+      "artists": [
+        {
+          "name": "Monster Magnet",
+          "url": "https://open.spotify.com/artist/4hvwEwrCmGj22uURGVET7Q"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409466,
+      "name": "Superjudge",
+      "url": "https://open.spotify.com/track/0YMwyd5XZzHZZuRFCj04Zs"
     },
     {
       "album": {

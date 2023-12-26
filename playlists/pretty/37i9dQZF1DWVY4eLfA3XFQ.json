@@ -1,12 +1,12 @@
 {
   "description": "Tech house technicians, featuring Odd Mob",
-  "num_followers": 602175,
+  "num_followers": 602312,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjM2I1MDMyZDEyMTZjY2VlNDYwMGRiMWRlZTIxZTBkZmYwNGJjZmIx",
+  "snapshot_id": "MCw2MjEzNWQxMmNiMmMwMjk5ZmRkY2VkMWYyMGViZjAyZjU3ODhjODNi",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1041,6 +1041,30 @@
       "url": "https://open.spotify.com/track/3FrlcqYxS1A3W7pCGAHai6"
     },
     {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Diamond Therapy",
+        "url": "https://open.spotify.com/album/72xjIhQnOwXZMvdtlYa3Ep"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 199472,
+      "name": "Diamond Therapy",
+      "url": "https://open.spotify.com/track/5lSfq3EFWwD9yylL0zaqqj"
+    },
+    {
       "added_at": "2023-12-08 05:00:00",
       "album": {
         "name": "Levitate",
@@ -1099,30 +1123,6 @@
       "duration_ms": 211586,
       "name": "Better Recognize",
       "url": "https://open.spotify.com/track/1ME5pFc81YOLOrcV1Z4Ovb"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Diamond Therapy",
-        "url": "https://open.spotify.com/album/72xjIhQnOwXZMvdtlYa3Ep"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Walker & Royce",
-          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 199472,
-      "name": "Diamond Therapy",
-      "url": "https://open.spotify.com/track/5lSfq3EFWwD9yylL0zaqqj"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1409,26 +1409,6 @@
       "url": "https://open.spotify.com/track/6LDoJdEJW4NTOTOLTH71IL"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Favela Joint",
-        "url": "https://open.spotify.com/album/5tGqwxDFlJMRXm4Iiwnqb9"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Kura",
-          "url": "https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T"
-        }
-      ],
-      "duration_ms": 218604,
-      "name": "Favela Joint",
-      "url": "https://open.spotify.com/track/1ygoSdSGNwK3PIWxizJRnm"
-    },
-    {
       "added_at": "2023-11-24 05:00:00",
       "album": {
         "name": "Never Enough",
@@ -1451,6 +1431,26 @@
       "duration_ms": 221250,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/1pIugPaeYrwzjoBi8SC2ts"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Favela Joint",
+        "url": "https://open.spotify.com/album/5tGqwxDFlJMRXm4Iiwnqb9"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Kura",
+          "url": "https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T"
+        }
+      ],
+      "duration_ms": 218604,
+      "name": "Favela Joint",
+      "url": "https://open.spotify.com/track/1ygoSdSGNwK3PIWxizJRnm"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1841,22 +1841,6 @@
       "url": "https://open.spotify.com/track/04KlP6jVpk4lbOnBCPKUlg"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Jack The House 4",
-        "url": "https://open.spotify.com/album/544MMaUVvbfjueaRYH0SDl"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        }
-      ],
-      "duration_ms": 176692,
-      "name": "My Mind",
-      "url": "https://open.spotify.com/track/4ZNuShYJjCqhDq83ZtYGgr"
-    },
-    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Bim Boom Bam",
@@ -1871,6 +1855,22 @@
       "duration_ms": 144023,
       "name": "Bim Boom Bam",
       "url": "https://open.spotify.com/track/0hRRxfLwMUlO6Bvoz8iNbf"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Jack The House 4",
+        "url": "https://open.spotify.com/album/544MMaUVvbfjueaRYH0SDl"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "duration_ms": 176692,
+      "name": "My Mind",
+      "url": "https://open.spotify.com/track/4ZNuShYJjCqhDq83ZtYGgr"
     },
     {
       "added_at": "2023-11-03 04:00:00",
@@ -1939,26 +1939,6 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Ooh LALA",
-        "url": "https://open.spotify.com/album/6YNwQIGlbGbHdgGH0aucVs"
-      },
-      "artists": [
-        {
-          "name": "Idris Elba",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
-        },
-        {
-          "name": "Sasha GiGi",
-          "url": "https://open.spotify.com/artist/49Gce8amMAHaw4B0Jfb8i5"
-        }
-      ],
-      "duration_ms": 163048,
-      "name": "Ohh LALA",
-      "url": "https://open.spotify.com/track/41LNU3imoWigrWUGkHKzLH"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
         "name": "Drum Machine",
         "url": "https://open.spotify.com/album/0MKp1ezYjLB8jzz8o9JIVN"
       },
@@ -1975,6 +1955,26 @@
       "duration_ms": 146250,
       "name": "Drum Machine",
       "url": "https://open.spotify.com/track/2vuMD95467vEtEUja63LxH"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Ooh LALA",
+        "url": "https://open.spotify.com/album/6YNwQIGlbGbHdgGH0aucVs"
+      },
+      "artists": [
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        },
+        {
+          "name": "Sasha GiGi",
+          "url": "https://open.spotify.com/artist/49Gce8amMAHaw4B0Jfb8i5"
+        }
+      ],
+      "duration_ms": 163048,
+      "name": "Ohh LALA",
+      "url": "https://open.spotify.com/track/41LNU3imoWigrWUGkHKzLH"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -2165,6 +2165,26 @@
       "url": "https://open.spotify.com/track/74JGPkr0Lb0KOTJJvp28UH"
     },
     {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Give Me A Sign",
+        "url": "https://open.spotify.com/album/6ZiDFr9Ouak1wdsOSkWvIs"
+      },
+      "artists": [
+        {
+          "name": "Wahlstedt",
+          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
+        },
+        {
+          "name": "TOOMANYLEFTHANDS",
+          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
+        }
+      ],
+      "duration_ms": 169687,
+      "name": "Give Me A Sign",
+      "url": "https://open.spotify.com/track/66Q1xT5uKtmC4cFh6o4uL6"
+    },
+    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "Club Rompas",
@@ -2209,24 +2229,20 @@
       "url": "https://open.spotify.com/track/1pCriEGIU8StrJreMlk23u"
     },
     {
-      "added_at": "2023-12-08 05:00:00",
+      "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Give Me A Sign",
-        "url": "https://open.spotify.com/album/6ZiDFr9Ouak1wdsOSkWvIs"
+        "name": "Boiling Room",
+        "url": "https://open.spotify.com/album/3hHdKTqywXKpJjOYjHCkui"
       },
       "artists": [
         {
-          "name": "Wahlstedt",
-          "url": "https://open.spotify.com/artist/7yOWqfe8iP613Ne5SV9XPP"
-        },
-        {
-          "name": "TOOMANYLEFTHANDS",
-          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
         }
       ],
-      "duration_ms": 169687,
-      "name": "Give Me A Sign",
-      "url": "https://open.spotify.com/track/66Q1xT5uKtmC4cFh6o4uL6"
+      "duration_ms": 180000,
+      "name": "Boiling Room",
+      "url": "https://open.spotify.com/track/5wdAiwQ6QsqH6tHWcE76qM"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2251,38 +2267,6 @@
       "duration_ms": 170170,
       "name": "Valodja (Kryder Remix)",
       "url": "https://open.spotify.com/track/4D2PtwM3U40QFFBA62I49P"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Work It",
-        "url": "https://open.spotify.com/album/1NZEAAcBizqIPTlViPC59g"
-      },
-      "artists": [
-        {
-          "name": "Florian Picasso",
-          "url": "https://open.spotify.com/artist/4GWqzTTt2uA9Ms6HfUhWUn"
-        }
-      ],
-      "duration_ms": 167760,
-      "name": "Work It",
-      "url": "https://open.spotify.com/track/4TqGe1UaneqGotEIwraZ75"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Fakez",
-        "url": "https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X"
-      },
-      "artists": [
-        {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Fakez",
-      "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2315,18 +2299,34 @@
     {
       "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "Boiling Room",
-        "url": "https://open.spotify.com/album/3hHdKTqywXKpJjOYjHCkui"
+        "name": "Fakez",
+        "url": "https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X"
       },
       "artists": [
         {
-          "name": "Tony Romera",
-          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Boiling Room",
-      "url": "https://open.spotify.com/track/5wdAiwQ6QsqH6tHWcE76qM"
+      "duration_ms": 271200,
+      "name": "Fakez",
+      "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Work It",
+        "url": "https://open.spotify.com/album/1NZEAAcBizqIPTlViPC59g"
+      },
+      "artists": [
+        {
+          "name": "Florian Picasso",
+          "url": "https://open.spotify.com/artist/4GWqzTTt2uA9Ms6HfUhWUn"
+        }
+      ],
+      "duration_ms": 167760,
+      "name": "Work It",
+      "url": "https://open.spotify.com/track/4TqGe1UaneqGotEIwraZ75"
     },
     {
       "added_at": "2023-10-27 04:01:00",

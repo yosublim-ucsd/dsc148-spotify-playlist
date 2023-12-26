@@ -4,7 +4,7 @@
 
 > Cumbias de antaño para bailar.
 
-273 songs - 16 hr 26 min
+274 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Cangrejito Playero](https://open.spotify.com/track/6mitEFB3w4GBe8YDlLfITL) | [Acapulco Tropical](https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV) | [El Soltero](https://open.spotify.com/album/0bjpHFI6ooAjv8ePZj8NsL) | 2:26 | 2022-06-07 |  |
 | [Capullo Y Sorullo](https://open.spotify.com/track/7Fb6v0gMGCM5olFLxyOSvM) | [Cumbias Viejitas](https://open.spotify.com/artist/7uZMoloUqYrmMFJbiu9DCV) | [Cumbias](https://open.spotify.com/album/41lOZhgjYvRshjBaIXz0G1) | 4:15 | 2022-06-07 | 2022-07-21 |
 | [Capullo y Sorullo](https://open.spotify.com/track/30y7TEQ9H7OiJC7i3sFJxu) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Cumbias de Oro: 16 Grandes Éxitos](https://open.spotify.com/album/1lFsVuX8eLCcNU6PCG8MHY) | 4:09 | 2022-06-07 | 2022-07-29 |
+| [Capullo y Sorullo](https://open.spotify.com/track/6ZsHgpnSsHr87zwnxRp2Pw) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Margarita](https://open.spotify.com/artist/0L921lGxWEpNId5sF8rBbl) | [Música Tropical de Colombia, Vol\. 3](https://open.spotify.com/album/2GDi9jf5Xtc1f8BGWOSHs9) | 4:10 | 2022-12-07 |  |
 | [Cariñito](https://open.spotify.com/track/2jQj5bsJeOad1YoaPWjJHm) | [Los Hijos del sol](https://open.spotify.com/artist/2eDtYwKCGACUH3hFyaZ7Ah) | [Tropicalísimo: Clásicos de Cumbia Peruana](https://open.spotify.com/album/4y6v6W4BoxN7HjlbxKL6lW) | 4:05 | 2022-06-07 |  |
 | [Cariñito Sin MI](https://open.spotify.com/track/7zSluZ0cnnNomeIGYSThMm) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 2](https://open.spotify.com/album/60LUbwOhyXfoMZDOV1fXQv) | 3:55 | 2022-06-07 |  |
 | [Carta De Recuerdo](https://open.spotify.com/track/7gKRB1lnS911o6rfunYZsd) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Matamoros Querido](https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR) | 3:12 | 2022-06-07 |  |
@@ -193,7 +194,7 @@
 | [Paisaje](https://open.spotify.com/track/6NipZljiEekGRNF6vddEP3) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Corazón Valiente](https://open.spotify.com/album/3WuwesFp1zHaIQa98Y3Fcn) | 4:24 | 2022-07-19 | 2023-03-12 |
 | [Paloma Ajena](https://open.spotify.com/track/4B3PNNSg06yZ6Jj7novC8l) | [Claudio Morán](https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO), [Los Universales](https://open.spotify.com/artist/2i5GSJG12PicnskMwuoQ99) | [Cumbiando Este 5 De Mayo](https://open.spotify.com/album/1PWKIRqLB0BPIgJuGMlyfb) | 4:03 | 2021-10-19 | 2023-02-03 |
 | [Paloma Ajena](https://open.spotify.com/track/0xQ9ffzl3I05FTDcYUnQ4X) | [La Banda Tecno](https://open.spotify.com/artist/6FIQoXCHsjUVZBFab3sXbM) | [Tropical & Rumbero: Vuelve](https://open.spotify.com/album/6ph0pyKPe1ffEOA3jC6kLx) | 4:10 | 2022-12-07 | 2023-05-03 |
-| [Paloma Mensajera](https://open.spotify.com/track/30HqMk10iQ4Z9RrbiNnp8B) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Matamoros Querido](https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR) | 3:12 | 2022-06-07 |  |
+| [Paloma Mensajera](https://open.spotify.com/track/30HqMk10iQ4Z9RrbiNnp8B) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Matamoros Querido](https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR) | 3:12 | 2022-06-07 | 2023-12-26 |
 | [Pasito Tun, Tun](https://open.spotify.com/track/2IiqERlz1TkGtLECHyIrQw) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [La Orquesta de Siempre: Volume 1](https://open.spotify.com/album/5G6TyXW0k0c45RYochgxHB) | 3:46 | 2022-12-07 |  |
 | [Pasito Tun, Tun](https://open.spotify.com/track/44DJn7xXxlUbTzErTY8DiB) | [Billo's](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Los Años De Oro \- La Orquesta De Siempre](https://open.spotify.com/album/4lxclNX6RVc7Fldg82i1tz) | 3:46 | 2022-06-07 | 2022-12-09 |
 | [Pero La Recuerdo \(Cumbia Santa María\)](https://open.spotify.com/track/7xbRLQyE9t7zkA3osC8S2d) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Mariachi Santa María](https://open.spotify.com/artist/54oub6uzta6IHPRNCQlttQ) | [Invéntame Un Amor](https://open.spotify.com/album/5dBVOTpKgEeHf9pAYDJ86J) | 3:47 | 2022-07-19 |  |

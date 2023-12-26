@@ -2298,7 +2298,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 205146,
       "name": "Si Te Ven Conmigo",
       "url": "https://open.spotify.com/track/5krDJ8Za89PMJWtu40KbIU"
@@ -2616,6 +2616,24 @@
       "duration_ms": 177887,
       "name": "Vas a Llorar",
       "url": "https://open.spotify.com/track/0L1n3OFH2fZkU7f4iNh2iQ"
+    },
+    {
+      "album": {
+        "name": "Seguimos Firmes",
+        "url": "https://open.spotify.com/album/2gtuFY8OsphtndFOjLD0Du"
+      },
+      "artists": [
+        {
+          "name": "Banda Saucitos",
+          "url": "https://open.spotify.com/artist/0N20ZTWNbKIiHIwT4QH9UM"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206928,
+      "name": "Vas a Recordarme",
+      "url": "https://open.spotify.com/track/68sLYh83RjZkPFlNg3cDR9"
     },
     {
       "album": {

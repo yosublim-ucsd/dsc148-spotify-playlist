@@ -770,7 +770,7 @@
       ],
       "date_added": "2022-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 232726,
       "name": "Jiya Karay",
       "url": "https://open.spotify.com/track/206UN5EVjSCzn2tOPaF1Id"
@@ -796,6 +796,28 @@
       "duration_ms": 232726,
       "name": "Jiya Karay",
       "url": "https://open.spotify.com/track/6cxCOdieJlBZ3iKfpK2KjO"
+    },
+    {
+      "album": {
+        "name": "Jiya Karay (Coke Studio Season 8)",
+        "url": "https://open.spotify.com/album/10YsH6UC9NpiCNkaDRLPbc"
+      },
+      "artists": [
+        {
+          "name": "Sara Raza",
+          "url": "https://open.spotify.com/artist/3rdQR5do6o3piXTzXEdlOM"
+        },
+        {
+          "name": "Ali Haider",
+          "url": "https://open.spotify.com/artist/2oKGNzsdWoQGH97EnK2P42"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232726,
+      "name": "Jiya Karay - Coke Studio Season 8",
+      "url": "https://open.spotify.com/track/2EUGyZOMPy29Wzx3MFOQmK"
     },
     {
       "album": {

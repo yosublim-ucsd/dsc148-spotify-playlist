@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 
 > 2023년 EQUAL K\-Pop을 빛낸 트랙들을 만나보세요! \(Highlights of 2023, listen to women at full volume.\) \(Cover: Red Velvet\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 957,412 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 957,546 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 | 49 | [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 |
 | 50 | [FANCY](https://open.spotify.com/track/2qQpFbqqkLOGySgNK8wBXt) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/3aLpWFejbsdyafODLXRqwF) | 3:33 |
 
-Snapshot ID: `MCw5MDE5MWY2OTRlNWRhMDhmYmEwMDliY2IzYTM4NjNiMDhjM2JjNzQ5`
+Snapshot ID: `MCw5YjFiOWRkZjIwYjFiOGJmYzllYzI4Y2RlYmQwZTQ3ZDg5YmZlMGI3`

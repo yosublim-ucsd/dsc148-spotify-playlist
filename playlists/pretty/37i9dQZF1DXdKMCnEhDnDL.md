@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 
 > De beste Nederlandse hits van vroeger en nu\. Cover: Donnie & Marco Schuitmaker
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,529 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,551 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 9 | [Therapie](https://open.spotify.com/track/323zcUSa2qrq0aUAwL30sT) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Therapie](https://open.spotify.com/album/7K56y28CXxhIvGI2MKcHIO) | 3:01 |
 | 10 | [Champions League](https://open.spotify.com/track/5iH8UrvxTButDRaWECLDol) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Champions League](https://open.spotify.com/album/3BTw4LwFMLk7mHp0PjNAec) | 2:22 |
 | 11 | [Troostzoekers \(met Froukje\)](https://open.spotify.com/track/1EGEgAKpYg1T9zOVZKyP8J) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G), [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Sterrenlopen](https://open.spotify.com/album/5GMxtUUhppf2fnfCSivkKQ) | 3:32 |
-| 12 | [Zoals Ik Jou Gevonden Heb](https://open.spotify.com/track/5a6qqTtSbLkhPJyOIGkW8K) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/63FODmXDW9eScFLFN5dPVs) | 3:07 |
-| 13 | [Waterdicht](https://open.spotify.com/track/1guLggb4orDoc7Dmh2cSuL) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Waterdicht](https://open.spotify.com/album/6RB3yTXoYgKACU6TCqj9qa) | 2:51 |
-| 14 | [Noodgeval](https://open.spotify.com/track/2LcmbuYX7tyR4DWy3b273L) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Betaalbare Romantiek](https://open.spotify.com/album/2z44b4hwadRlEaNm2SutKO) | 3:34 |
+| 12 | [Waterdicht](https://open.spotify.com/track/1guLggb4orDoc7Dmh2cSuL) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Waterdicht](https://open.spotify.com/album/6RB3yTXoYgKACU6TCqj9qa) | 2:51 |
+| 13 | [Noodgeval](https://open.spotify.com/track/2LcmbuYX7tyR4DWy3b273L) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Betaalbare Romantiek](https://open.spotify.com/album/2z44b4hwadRlEaNm2SutKO) | 3:34 |
+| 14 | [Zoals Ik Jou Gevonden Heb](https://open.spotify.com/track/5a6qqTtSbLkhPJyOIGkW8K) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/63FODmXDW9eScFLFN5dPVs) | 3:07 |
 | 15 | [Het Heeft Zo Moeten Zijn](https://open.spotify.com/track/2vEIeP2yzMbijx7o27YT39) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Het Heeft Zo Moeten Zijn](https://open.spotify.com/album/3Zm4rS2BrqDniIQxHWy8kE) | 3:42 |
 | 16 | [Ruggengraat](https://open.spotify.com/track/0rLMwM9J5DkkucxXByncSZ) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Ruggengraat](https://open.spotify.com/album/3JVuWFwn71zVGhyMKyw85V) | 2:34 |
 | 17 | [Wacht Op Mij](https://open.spotify.com/track/4YmbvryKSbLnsN1IqAI3eK) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Wacht Op Mij](https://open.spotify.com/album/2WSQUoSEGPgHz5dcZGahpg) | 2:17 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 99 | [Allermeest](https://open.spotify.com/track/0feAMm6cs12Ped1uuoNKjG) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Allermeest](https://open.spotify.com/album/0MsIqJcvATIVhrnDZSlzLv) | 2:46 |
 | 100 | [Vroeger](https://open.spotify.com/track/4ZxRhotBmIcc1WUCdSJIQt) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj) | [Vroeger](https://open.spotify.com/album/2tKIKvy498Gp8pqsfYobV4) | 2:44 |
 
-Snapshot ID: `MCw1NjY3ZWNiODQxNzIxNmU5OGVkODBiODRmMDM5NzkyMWM1OWE1NjA0`
+Snapshot ID: `MCwwODJjYmVkMWZlMmY0MjQ2NGYzNTM0MjdkYjVlNmI5MGQ2MzA4NzA5`

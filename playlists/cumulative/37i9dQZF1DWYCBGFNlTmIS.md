@@ -4,7 +4,7 @@
 
 > 生命中有各種離別時刻，在告別前，你會點播那一首歌給那位聽？
 
-99 songs - 6 hr 30 min
+100 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [生](https://open.spotify.com/track/2jvSY489LEysR7h3vK3L4t) | [Pong Nan](https://open.spotify.com/artist/6G7bdG4rBz6OQgKudNjoGL) | [生](https://open.spotify.com/album/0eRcJrxg7A7b6SAg38oHuv) | 4:24 | 2022-01-13 |  |
 | [生不逢時](https://open.spotify.com/track/5vpP6uz2lQsPpm3F3ySRJr) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [LIFE / LINE](https://open.spotify.com/album/5COhcdEYRQm7wFjsfB8NxA) | 4:11 | 2022-01-13 |  |
 | [留下來的人](https://open.spotify.com/track/5Mg4jtsrw6DVRXApAhQm7j) | [C AllStar](https://open.spotify.com/artist/0ip5ivJzpy0v4DWVVKxc4D) | [留下來的人](https://open.spotify.com/album/65gZmrFaxPaiVEXI2jMuTP) | 4:04 | 2022-01-13 |  |
-| [皇后大道東](https://open.spotify.com/track/5X0ZFdwP8acfuyMoxSJ6pf) | [羅大佑](https://open.spotify.com/artist/7tuWI2luTp61HHGmviWid8) | [皇后大道東](https://open.spotify.com/album/3cPKZnvp9Wam5VnR4okGwJ) | 4:10 | 2022-01-13 |  |
+| [皇后大道東](https://open.spotify.com/track/5X0ZFdwP8acfuyMoxSJ6pf) | [羅大佑](https://open.spotify.com/artist/7tuWI2luTp61HHGmviWid8) | [皇后大道東](https://open.spotify.com/album/3cPKZnvp9Wam5VnR4okGwJ) | 4:10 | 2022-01-13 | 2023-12-26 |
+| [皇后大道東](https://open.spotify.com/track/7nTS3lbkRgctg7PojNKCNG) | [羅大佑](https://open.spotify.com/artist/7tuWI2luTp61HHGmviWid8), [蔣志光](https://open.spotify.com/artist/0xww7UDomE27mzi2gYnQsl) | [羅大佑自選輯](https://open.spotify.com/album/4c3u4rq4DhbjWK0gnICM2p) | 4:12 | 2022-12-22 |  |
 | [等埋你](https://open.spotify.com/track/1nqIx6DfB1ic1FBHkhNoj3) | [Eric Kwok](https://open.spotify.com/artist/72wRq0GElb2KjMlRntouI7) | [等埋你](https://open.spotify.com/album/1sgj86M6Wqm5e2MevD2NkN) | 3:28 | 2022-04-13 |  |
 | [精神流亡 \(feat\. Serrini\)](https://open.spotify.com/track/2TUVZBJdWct3J6EIPzpOzN) | [Zarahn](https://open.spotify.com/artist/3whYck27PvOQEoh6rSPSMK), [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [精神流亡 \(feat\. Serrini\)](https://open.spotify.com/album/4iPTu4h5ht0utanobgwiXa) | 3:59 | 2022-11-04 |  |
 | [給缺席的人唱首歌](https://open.spotify.com/track/0ZnUxq0HrUPilUSf9ZlQaT) | [Jay Fung](https://open.spotify.com/artist/4EXI1ieJe2VDbvNsKOaNQL) | [給缺席的人唱首歌](https://open.spotify.com/album/0skB0wEikdxjH6uigz4fik) | 3:57 | 2022-11-04 |  |

@@ -1,12 +1,12 @@
 {
   "description": "For all of us dancing on our own.",
-  "num_followers": 586267,
+  "num_followers": 586351,
   "original_name": "Sad Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWM4NjAwYzAyMzk4ZWExN2EwNmY5NzlkNzVjNGJhY2NhMWRjMDYw",
+  "snapshot_id": "MCxmMWZmMDFkOTEzNmZkZDA2YTg3ZjY0MTYyZDI0NmIwZGM2NjFmMmU3",
   "tracks": [
     {
       "added_at": "2023-12-22 04:53:23",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-12-22 04:53:23",
       "album": {
-        "name": "rubberband",
-        "url": "https://open.spotify.com/album/3CWYvhScPEskXPOYiXG8SH"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 147713,
-      "name": "rubberband",
-      "url": "https://open.spotify.com/track/05ABOPiW13nqIedJfqmfPM"
-    },
-    {
-      "added_at": "2023-12-22 04:53:23",
-      "album": {
         "name": "Be the One",
         "url": "https://open.spotify.com/album/27BxsWgarjLePdql0KzOLP"
       },
@@ -619,18 +603,18 @@
     {
       "added_at": "2023-12-22 04:53:23",
       "album": {
-        "name": "Arrival",
-        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
+        "name": "rubberband",
+        "url": "https://open.spotify.com/album/3CWYvhScPEskXPOYiXG8SH"
       },
       "artists": [
         {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 241920,
-      "name": "Knowing Me, Knowing You",
-      "url": "https://open.spotify.com/track/798cuJeotvXP8UVa8GJPnD"
+      "duration_ms": 147713,
+      "name": "rubberband",
+      "url": "https://open.spotify.com/track/05ABOPiW13nqIedJfqmfPM"
     },
     {
       "added_at": "2023-12-22 04:53:23",
@@ -647,6 +631,22 @@
       "duration_ms": 176058,
       "name": "So Good",
       "url": "https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu"
+    },
+    {
+      "added_at": "2023-12-22 04:53:23",
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 241920,
+      "name": "Knowing Me, Knowing You",
+      "url": "https://open.spotify.com/track/798cuJeotvXP8UVa8GJPnD"
     },
     {
       "added_at": "2023-12-22 04:53:23",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-12-22 04:53:23",
       "album": {
-        "name": "feel like shit",
-        "url": "https://open.spotify.com/album/1auWLVcrhwCbtCD6k4KuZB"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 204314,
-      "name": "feel like shit",
-      "url": "https://open.spotify.com/track/2EBnvom1dTybtm75a3Xh1T"
-    },
-    {
-      "added_at": "2023-12-22 04:53:23",
-      "album": {
         "name": "Telepath",
         "url": "https://open.spotify.com/album/6npBFQje5ZenFSLErcNflE"
       },
@@ -787,6 +771,22 @@
     {
       "added_at": "2023-12-22 04:53:23",
       "album": {
+        "name": "feel like shit",
+        "url": "https://open.spotify.com/album/1auWLVcrhwCbtCD6k4KuZB"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 204314,
+      "name": "feel like shit",
+      "url": "https://open.spotify.com/track/2EBnvom1dTybtm75a3Xh1T"
+    },
+    {
+      "added_at": "2023-12-22 04:53:23",
+      "album": {
         "name": "Laurel Hell",
         "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
       },
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-12-22 04:53:23",
       "album": {
-        "name": "Can't Do Better",
-        "url": "https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 188616,
-      "name": "Can't Do Better",
-      "url": "https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd"
-    },
-    {
-      "added_at": "2023-12-22 04:53:23",
-      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 244120,
       "name": "Dancing with Tears in My Eyes",
       "url": "https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen"
+    },
+    {
+      "added_at": "2023-12-22 04:53:23",
+      "album": {
+        "name": "Can't Do Better",
+        "url": "https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 188616,
+      "name": "Can't Do Better",
+      "url": "https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd"
     },
     {
       "added_at": "2023-12-22 04:53:23",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-12-22 04:53:23",
       "album": {
-        "name": "How Long (From \"Euphoria\" An HBO Original Series)",
-        "url": "https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 199314,
-      "name": "How Long - From\"Euphoria\" An HBO Original Series",
-      "url": "https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS"
-    },
-    {
-      "added_at": "2023-12-22 04:53:23",
-      "album": {
         "name": "Paint My Bedroom Black",
         "url": "https://open.spotify.com/album/7xpV6gsna8TzskCRjmSxLE"
       },
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2023-12-22 04:53:23",
       "album": {
-        "name": "Looks Like Me",
-        "url": "https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M"
+        "name": "How Long (From \"Euphoria\" An HBO Original Series)",
+        "url": "https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ"
       },
       "artists": [
         {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
         }
       ],
-      "duration_ms": 190527,
-      "name": "Looks Like Me",
-      "url": "https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA"
+      "duration_ms": 199314,
+      "name": "How Long - From\"Euphoria\" An HBO Original Series",
+      "url": "https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS"
     },
     {
       "added_at": "2023-12-22 04:53:23",
@@ -1075,6 +1059,22 @@
       "duration_ms": 197250,
       "name": "Different Lives",
       "url": "https://open.spotify.com/track/7e7JVMegy4WBMnzuZE9Srq"
+    },
+    {
+      "added_at": "2023-12-22 04:53:23",
+      "album": {
+        "name": "Looks Like Me",
+        "url": "https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 190527,
+      "name": "Looks Like Me",
+      "url": "https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA"
     },
     {
       "added_at": "2023-12-22 04:53:23",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-12-22 04:53:23",
       "album": {
-        "name": "Sorry To Me Too",
-        "url": "https://open.spotify.com/album/6tIdThlPKMAhHuB3wKSuNS"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 209596,
-      "name": "Sorry To Me Too",
-      "url": "https://open.spotify.com/track/4SDccIA3pVkjaZsivDPaV5"
-    },
-    {
-      "added_at": "2023-12-22 04:53:23",
-      "album": {
         "name": "Voulez-Vous",
         "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 309320,
       "name": "If It Wasn't For The Nights",
       "url": "https://open.spotify.com/track/3R47KOuGuGvmoeQqbODPa3"
+    },
+    {
+      "added_at": "2023-12-22 04:53:23",
+      "album": {
+        "name": "Sorry To Me Too",
+        "url": "https://open.spotify.com/album/6tIdThlPKMAhHuB3wKSuNS"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 209596,
+      "name": "Sorry To Me Too",
+      "url": "https://open.spotify.com/track/4SDccIA3pVkjaZsivDPaV5"
     },
     {
       "added_at": "2023-12-22 04:53:23",

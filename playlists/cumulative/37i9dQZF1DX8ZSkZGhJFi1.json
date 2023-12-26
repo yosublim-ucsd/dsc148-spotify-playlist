@@ -1309,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "california",
+        "url": "https://open.spotify.com/album/7a68JtMeslLirwdqYdWgex"
+      },
+      "artists": [
+        {
+          "name": "L\u00f8wkey",
+          "url": "https://open.spotify.com/artist/0CgkKi2bj6cYB9sNMn0JPz"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91428,
+      "name": "california",
+      "url": "https://open.spotify.com/track/4uVEcEx7qmWuH7EkrvzWG3"
+    },
+    {
+      "album": {
         "name": "Calypso's Groove",
         "url": "https://open.spotify.com/album/1yPQjGsSWcfXbrA4qazF2U"
       },
@@ -5904,7 +5922,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 97340,
       "name": "low wave",
       "url": "https://open.spotify.com/track/0uJzNH4kMiF3k8JotEVf4h"

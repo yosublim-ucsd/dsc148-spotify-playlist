@@ -4,7 +4,7 @@
 
 > Chai, Baarish and some Indie tunes to accompany you!
 
-73 songs - 4 hr 45 min
+74 songs - 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Sawan](https://open.spotify.com/track/2EYExMxUzn2FapSlnxDjTn) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Naalayak EP](https://open.spotify.com/album/2488cmTJwsCQv4nvLUb1fK) | 4:22 | 2023-05-09 | 2023-12-16 |
 | [Tere Jaane Se](https://open.spotify.com/track/6smPjrA4Hf7J3kFe9afb1E) | [Anurag Vashisht](https://open.spotify.com/artist/6o0MDEgo8moHPwQ1QXIs4c) | [Tere Jaane Se](https://open.spotify.com/album/3XXavGVCTjh5OQo8sEP0Ri) | 3:31 | 2023-05-09 |  |
 | [Teri Justajoo \- Saaware](https://open.spotify.com/track/4F7PpDimSVRa7Bo4Ye3ZVW) | [Kshitij Tarey](https://open.spotify.com/artist/1W8O3VMkoLKHlnPtojVU8l) | [Teri Justajoo](https://open.spotify.com/album/1DIpSl10vWYS85snGZ0gab) | 4:37 | 2023-05-09 |  |
-| [Tu Bata](https://open.spotify.com/track/4T3vh1KcGAOKewcCj8A1uj) | [Roney Guha](https://open.spotify.com/artist/3IK0Y8r68JB2VykGqVVuvM) | [Tu Bata](https://open.spotify.com/album/7aiZE6N1LmgeJLn7iQ2VrB) | 3:29 | 2023-05-09 |  |
+| [Tu Bata](https://open.spotify.com/track/0WKbEabKVKaGHAULfbAOas) | [Roney Guha](https://open.spotify.com/artist/3IK0Y8r68JB2VykGqVVuvM) | [Tu Bata](https://open.spotify.com/album/4gymyeXX6y2Wbtot6AMSxa) | 3:29 | 2023-12-18 |  |
+| [Tu Bata](https://open.spotify.com/track/4T3vh1KcGAOKewcCj8A1uj) | [Roney Guha](https://open.spotify.com/artist/3IK0Y8r68JB2VykGqVVuvM) | [Tu Bata](https://open.spotify.com/album/7aiZE6N1LmgeJLn7iQ2VrB) | 3:29 | 2023-05-09 | 2023-12-26 |
 | [Tum Ho Yahaan](https://open.spotify.com/track/0B7FbDb0GQxMX5KSXGv3sg) | [Abhilasha Sinha](https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW) | [Tum Ho Yahaan](https://open.spotify.com/album/15rUYK7QOg6qIpXbdqmghS) | 3:16 | 2023-05-09 |  |
 | [Waqt Ki Baatein](https://open.spotify.com/track/0cJTjTH3XVTTJh8F4Uq1db) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Waqt Ki Baatein](https://open.spotify.com/album/35pKiC2zx1UzIgZgN48ZkO) | 4:03 | 2023-05-09 |  |
 

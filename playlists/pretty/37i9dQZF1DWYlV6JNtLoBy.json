@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 4241,
+  "num_followers": 4249,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGUzMjEwYWE4M2RhZjdkODdkMmE2MzIxZmQ2ZjJjOWZiYzhlZGZh",
+  "snapshot_id": "MCw3OGIxMmM4NTUzOWEyNzYzMTZkZmU5NTY1MzQ1OTdmNTU5MWJmOWY0",
   "tracks": [
     {
       "added_at": "2023-11-17 00:01:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Way Maker",
-        "url": "https://open.spotify.com/album/3rnFSwqvcBtB9OP7em9C2H"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 306780,
-      "name": "Way Maker",
-      "url": "https://open.spotify.com/track/3VACsP3SHXxGbpvSEd5KkR"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Old Church Basement",
         "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
       },
@@ -263,6 +247,38 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Way Maker",
+        "url": "https://open.spotify.com/album/3rnFSwqvcBtB9OP7em9C2H"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 306780,
+      "name": "Way Maker",
+      "url": "https://open.spotify.com/track/3VACsP3SHXxGbpvSEd5KkR"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 192029,
+      "name": "Carry me like Baby",
+      "url": "https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "No Longer Bound (I'm Free)",
         "url": "https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 175188,
       "name": "No Longer Bound (I'm Free)",
       "url": "https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 192029,
-      "name": "Carry me like Baby",
-      "url": "https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Trust In God (Radio Version)",
-        "url": "https://open.spotify.com/album/6IW9jcM4HMToKGO1aE8dbv"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 243715,
-      "name": "Trust In God - Radio Version",
-      "url": "https://open.spotify.com/track/7mqEjKUiNZUfsDD9QQHqaw"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Moy\u2019 Oyingcwele (Live)",
         "url": "https://open.spotify.com/album/2kxH7Iei0VyjWOGydkLUbu"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 500087,
       "name": "Moy\u2019 Oyingcwele (Live)",
       "url": "https://open.spotify.com/track/710zL5SAbc6dbHEsLiBwME"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Trust In God (Radio Version)",
+        "url": "https://open.spotify.com/album/6IW9jcM4HMToKGO1aE8dbv"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 243715,
+      "name": "Trust In God - Radio Version",
+      "url": "https://open.spotify.com/track/7mqEjKUiNZUfsDD9QQHqaw"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Everything (Amen)",
+        "url": "https://open.spotify.com/album/6tLxca7vxqHrc0nOYWGi2b"
+      },
+      "artists": [
+        {
+          "name": "Timi Dakolo",
+          "url": "https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK"
+        }
+      ],
+      "duration_ms": 237725,
+      "name": "Everything (Amen)",
+      "url": "https://open.spotify.com/track/4Dx6l2TXQUmKDFaveeyJuX"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Another Miracle",
         "url": "https://open.spotify.com/album/2DtdcUoZzFKJBFx5qaHRsU"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 212869,
       "name": "Another Miracle",
       "url": "https://open.spotify.com/track/6KzOfBQbzxEZEpUKzJVDtG"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Everything (Amen)",
-        "url": "https://open.spotify.com/album/6tLxca7vxqHrc0nOYWGi2b"
-      },
-      "artists": [
-        {
-          "name": "Timi Dakolo",
-          "url": "https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK"
-        }
-      ],
-      "duration_ms": 237725,
-      "name": "Everything (Amen)",
-      "url": "https://open.spotify.com/track/4Dx6l2TXQUmKDFaveeyJuX"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
+        "name": "Nipe Macho",
+        "url": "https://open.spotify.com/album/0GB03IydOiczdTv1bTK7DV"
+      },
+      "artists": [
+        {
+          "name": "Christina Shusho",
+          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
+        }
+      ],
+      "duration_ms": 353720,
+      "name": "Nipe Macho",
+      "url": "https://open.spotify.com/track/6RShwwY6EHo3sOJtkUMKvh"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
         "name": "Ndio",
         "url": "https://open.spotify.com/album/5CzUS1DY6pEqcYUxq9fiLm"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 295920,
       "name": "Ebenezer",
       "url": "https://open.spotify.com/track/0FMRioTf40f4KVHSeVvqLh"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
-        "name": "Nipe Macho",
-        "url": "https://open.spotify.com/album/0GB03IydOiczdTv1bTK7DV"
-      },
-      "artists": [
-        {
-          "name": "Christina Shusho",
-          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
-        }
-      ],
-      "duration_ms": 353720,
-      "name": "Nipe Macho",
-      "url": "https://open.spotify.com/track/6RShwwY6EHo3sOJtkUMKvh"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Nipe Macho",
-        "url": "https://open.spotify.com/album/0GB03IydOiczdTv1bTK7DV"
-      },
-      "artists": [
-        {
-          "name": "Christina Shusho",
-          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
-        }
-      ],
-      "duration_ms": 315213,
-      "name": "Thamani Ya Wokovu",
-      "url": "https://open.spotify.com/track/5npUvkxp8M3tT4DMSjvoeS"
-    },
-    {
-      "added_at": "2023-11-17 00:01:00",
-      "album": {
         "name": "Wonder",
         "url": "https://open.spotify.com/album/6LGi14GqL0mpLw0HbphcAe"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 347593,
       "name": "Ipo Siku",
       "url": "https://open.spotify.com/track/3fFvTmzx1VcXY27OZ81FgH"
+    },
+    {
+      "added_at": "2023-11-17 00:01:00",
+      "album": {
+        "name": "Nipe Macho",
+        "url": "https://open.spotify.com/album/0GB03IydOiczdTv1bTK7DV"
+      },
+      "artists": [
+        {
+          "name": "Christina Shusho",
+          "url": "https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL"
+        }
+      ],
+      "duration_ms": 315213,
+      "name": "Thamani Ya Wokovu",
+      "url": "https://open.spotify.com/track/5npUvkxp8M3tT4DMSjvoeS"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -851,18 +851,22 @@
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Trip of the Faith",
-        "url": "https://open.spotify.com/album/6RO1J4ULw7wSCXVfvEAbTF"
+        "name": "Tumeshinda",
+        "url": "https://open.spotify.com/album/1RdqSSPAjSvXgGo7IhXNo9"
       },
       "artists": [
         {
-          "name": "Grace Lokwa",
-          "url": "https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW"
+          "name": "Eunice Njeri",
+          "url": "https://open.spotify.com/artist/1n8hmSTaHZs3Pz2VuVfda4"
+        },
+        {
+          "name": "Godwill Babette",
+          "url": "https://open.spotify.com/artist/5lv5S2ScpxW28v6koO2f4X"
         }
       ],
-      "duration_ms": 195789,
-      "name": "Promesse",
-      "url": "https://open.spotify.com/track/3KtzWPaxaJEinXDnGCK30B"
+      "duration_ms": 365417,
+      "name": "Tumeshinda",
+      "url": "https://open.spotify.com/track/4P7IRSGCVIynyzUWRoXHBK"
     },
     {
       "added_at": "2023-11-17 00:01:00",
@@ -881,40 +885,36 @@
       "url": "https://open.spotify.com/track/6vacqGQJFXankKL8FKmip3"
     },
     {
-      "added_at": "2023-11-24 00:01:00",
+      "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "IMTHANDAZO YAMI",
-        "url": "https://open.spotify.com/album/2UEZeMkxZuHTmsL2umqtQY"
+        "name": "Sweetie Sweetie",
+        "url": "https://open.spotify.com/album/1gp2BVV3amp3NTsJN59IOg"
       },
       "artists": [
         {
-          "name": "Lungelo Hlongwane",
-          "url": "https://open.spotify.com/artist/5tV1nKSYdBNGEBBAODXqrv"
+          "name": "Zabron Singers",
+          "url": "https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP"
         }
       ],
-      "duration_ms": 316666,
-      "name": "IMTHANDAZO YAMI",
-      "url": "https://open.spotify.com/track/2PTqfW2JIhX1Rw4VykTbg4"
+      "duration_ms": 316473,
+      "name": "Sweetie Sweetie",
+      "url": "https://open.spotify.com/track/3mnMhG3NCpHuWixUJSZADP"
     },
     {
       "added_at": "2023-11-17 00:01:00",
       "album": {
-        "name": "Tumeshinda",
-        "url": "https://open.spotify.com/album/1RdqSSPAjSvXgGo7IhXNo9"
+        "name": "Trip of the Faith",
+        "url": "https://open.spotify.com/album/6RO1J4ULw7wSCXVfvEAbTF"
       },
       "artists": [
         {
-          "name": "Eunice Njeri",
-          "url": "https://open.spotify.com/artist/1n8hmSTaHZs3Pz2VuVfda4"
-        },
-        {
-          "name": "Godwill Babette",
-          "url": "https://open.spotify.com/artist/5lv5S2ScpxW28v6koO2f4X"
+          "name": "Grace Lokwa",
+          "url": "https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW"
         }
       ],
-      "duration_ms": 365417,
-      "name": "Tumeshinda",
-      "url": "https://open.spotify.com/track/4P7IRSGCVIynyzUWRoXHBK"
+      "duration_ms": 195789,
+      "name": "Promesse",
+      "url": "https://open.spotify.com/track/3KtzWPaxaJEinXDnGCK30B"
     }
   ],
   "unique_name": "Sunday Service",

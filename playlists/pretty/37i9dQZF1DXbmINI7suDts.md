@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 
 > Get your spirits up and manage your mood any time of the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,845 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,864 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 59 | [Okello](https://open.spotify.com/track/1nvQCAasIUQCgVGsGh4kKf) | [Qwela](https://open.spotify.com/artist/6PcgYouyAJh2KQlrhadC8C) | [Afrotopia](https://open.spotify.com/album/6Cjc8BIj9Dhgt6Cp18Nra1) | 4:05 |
 | 60 | [Obsession](https://open.spotify.com/track/68QPAQP4IqF1cedu2jwk5H) | [Tungi](https://open.spotify.com/artist/4SsqtdEL2Ahe4u331D0efV) | [Pearl Of Africa, Vol\. 2](https://open.spotify.com/album/74m1krd8ypMQFtwCLtiuuH) | 4:29 |
 
-Snapshot ID: `MCxjMzkxY2E5NzQyODhhZjliNjgxMWRlZjkyZjk0NTA4YWM5OTdiZDY0`
+Snapshot ID: `MCxiMWU4ODI3Y2VhNTJiMGZhYTFkMzBiMTY3MzhhYjdmNzUyODRlYTFi`

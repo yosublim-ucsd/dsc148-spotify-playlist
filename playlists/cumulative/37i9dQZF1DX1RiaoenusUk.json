@@ -157,6 +157,28 @@
     },
     {
       "album": {
+        "name": "El Reino",
+        "url": "https://open.spotify.com/album/6n1MzVCGv5bsBOYl3HH02m"
+      },
+      "artists": [
+        {
+          "name": "Halks",
+          "url": "https://open.spotify.com/artist/1ppSnWLPr4wR5aPoMh1aTo"
+        },
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215480,
+      "name": "Agitando",
+      "url": "https://open.spotify.com/track/6cZ0HOx7jElFdcfARajfnd"
+    },
+    {
+      "album": {
         "name": "A Pesar de la Tormenta",
         "url": "https://open.spotify.com/album/4CMImKp9OiSozGXqoN6EdW"
       },
@@ -186,10 +208,28 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 190373,
       "name": "Aire",
       "url": "https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ"
+    },
+    {
+      "album": {
+        "name": "Inmunidad",
+        "url": "https://open.spotify.com/album/3SJ7gTxtIxHXZ1e2xnJ6TG"
+      },
+      "artists": [
+        {
+          "name": "Milhojas",
+          "url": "https://open.spotify.com/artist/5SYSiqQnMA3kKiIe1BzQdb"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211654,
+      "name": "Al Otro Lado",
+      "url": "https://open.spotify.com/track/3z4qhzZR43nyO2iyJvr8ZR"
     },
     {
       "album": {
@@ -274,9 +314,27 @@
           "url": "https://open.spotify.com/artist/0RL00Y8FR6izezA58JczU8"
         }
       ],
-      "date_added": "2023-02-17",
+      "date_added": "2023-12-08",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 301600,
+      "name": "Aspiradora",
+      "url": "https://open.spotify.com/track/5pF1fRrOEv9pYSWNnb4ow1"
+    },
+    {
+      "album": {
+        "name": "La Negra Nieves",
+        "url": "https://open.spotify.com/album/6sPBV1t4LgqATxFjb6VPpj"
+      },
+      "artists": [
+        {
+          "name": "La Negra Nieves",
+          "url": "https://open.spotify.com/artist/0RL00Y8FR6izezA58JczU8"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-26",
       "duration_ms": 259480,
       "name": "Asterisco",
       "url": "https://open.spotify.com/track/2jfEG3HUT7tCsmQGRzBxL2"
@@ -374,7 +432,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 185024,
       "name": "Best Of Us",
       "url": "https://open.spotify.com/track/4wrdly1XwZaZP8b2I4Iv5t"
@@ -1354,7 +1412,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 233777,
       "name": "Monte Fuji",
       "url": "https://open.spotify.com/track/2rUOSo8ttuETxWH1CqulhS"
@@ -1416,6 +1474,24 @@
       "duration_ms": 183312,
       "name": "Nocaut",
       "url": "https://open.spotify.com/track/0rZ21PT9MDXup9hwbzcLsT"
+    },
+    {
+      "album": {
+        "name": "A Pesar de la Tormenta",
+        "url": "https://open.spotify.com/album/4CMImKp9OiSozGXqoN6EdW"
+      },
+      "artists": [
+        {
+          "name": "Florencia Andrada",
+          "url": "https://open.spotify.com/artist/3Yn6NUVSA13dcEZpw79Vd2"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207523,
+      "name": "Nuestro Destino",
+      "url": "https://open.spotify.com/track/1Lfy91Y2ecc9S18JV0MhN5"
     },
     {
       "album": {
@@ -1688,7 +1764,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 210796,
       "name": "Selva",
       "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
@@ -1970,7 +2046,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 270706,
       "name": "Traffic (Groovin' de bondi)",
       "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"

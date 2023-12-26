@@ -4,7 +4,7 @@
 
 > Songs from your family's favorite TV shows.
 
-131 songs - 3 hr 31 min
+132 songs - 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [PJ Masks Theme Song](https://open.spotify.com/track/5MDDJSZejveWvRMOYnxnpB) | [PJ Masks](https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ) | [Here We Come](https://open.spotify.com/album/6y77mrn553xhcbN9Po2XCv) | 0:40 | 2023-01-27 |  |
 | [PJ Masks Theme Song](https://open.spotify.com/track/7eKpWdTDReOTNn1mXPyuzf) | [PJ Masks](https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ) | [Here We Come](https://open.spotify.com/album/5EMXt35wUlhAYTpQHiuSsR) | 0:40 | 2022-04-15 | 2023-09-01 |
 | [Pokémon Theme](https://open.spotify.com/track/3OIHgTyQdiAGMmpjQaNxp3) | [Pokémon](https://open.spotify.com/artist/6goK4KMSdP4A8lw8jk4ADk) | [Pokemon \- 2.b.a\. Master \- Music From The Hit Tv Series](https://open.spotify.com/album/4R0boGQyiCUt3i7pAKCitR) | 3:18 | 2022-04-15 | 2023-12-24 |
+| [Pokémon Theme](https://open.spotify.com/track/5m5uvPjQT3Md5GKK3qyaXy) | [Pokémon](https://open.spotify.com/artist/6goK4KMSdP4A8lw8jk4ADk) | [Pokemon \- 2.b.a\. Master \- Music From The Hit Tv Series](https://open.spotify.com/album/3n86RctzbnrGY599Vo0fhg) | 3:18 | 2023-01-27 |  |
 | [Power Rangers Dino Charge Theme Song \- Extended Full Version](https://open.spotify.com/track/7GmlAIzyeG3OjQLB7BUkgz) | [Power Rangers](https://open.spotify.com/artist/7cTXTmhaqdEVifI1B33cnx), [Noam Kaniel](https://open.spotify.com/artist/7rW1m5GAR0FkbA74j0xztI) | [Power Rangers Dino Charge Theme Song](https://open.spotify.com/album/2TlnrB2whsLXmvMKK1KpQ0) | 1:55 | 2022-04-15 |  |
 | [Power Rangers Megamix](https://open.spotify.com/track/0fTQdOS8FucxBQilLTp2ha) | [Power Rangers](https://open.spotify.com/artist/7cTXTmhaqdEVifI1B33cnx), [PelleK](https://open.spotify.com/artist/1qLwXsUtyW2Ba2Iotg4gE3) | [Power Rangers Megamix](https://open.spotify.com/album/50ggbyZ86toFZBzQDAmEBy) | 12:02 | 2022-04-15 |  |
 | [Santiago of the Seas Theme \- Extended](https://open.spotify.com/track/15wnCuuVPp9DVRwz4E3uGC) | [Santiago of the Seas](https://open.spotify.com/artist/7nd3IyYB4wMpZ2MuVjdNlu) | [Santiago's Sea Shanties](https://open.spotify.com/album/30bd7R8eBRBJizOc0VNwUK) | 1:31 | 2022-04-15 |  |
@@ -104,7 +105,7 @@
 | [Shimmer and Shine Theme Song \- Extended Version](https://open.spotify.com/track/10v3ba3brdnOTfHgjTULyC) | [Shimmer and Shine](https://open.spotify.com/artist/6EACW7fkHHUd8wJEGUY9MR) | [Shimmer and Shine: Groove Zahramay!](https://open.spotify.com/album/5wWDNNCRp5rkcktZounG1e) | 2:35 | 2022-04-15 | 2022-10-13 |
 | [Shimmer and Shine Theme Song \- Extended Version](https://open.spotify.com/track/4EYwZTTaJ9kQJyIJnCODvM) | [Shimmer and Shine](https://open.spotify.com/artist/6EACW7fkHHUd8wJEGUY9MR) | [Shimmer and Shine: Groove Zahramay!](https://open.spotify.com/album/7hs3ZOSqQvXTOgCwJAzY2p) | 2:35 | 2022-04-15 | 2022-11-24 |
 | [Shimmer and Shine Theme Song \- Extended Version](https://open.spotify.com/track/6zE8WAlvEiCW3riCVoOqJQ) | [Shimmer and Shine](https://open.spotify.com/artist/6EACW7fkHHUd8wJEGUY9MR) | [Shimmer and Shine: Groove Zahramay!](https://open.spotify.com/album/4z2aJmtcWdIkoePZfSMiN7) | 2:35 | 2022-04-15 |  |
-| [Shine On Everyone](https://open.spotify.com/track/5Qy4yGFjXdkEAsmIIcagWg) | [PJ Masks](https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ) | [PJ Power Up](https://open.spotify.com/album/4NplMo0hWhheo1PR9LQOie) | 1:41 | 2023-01-27 |  |
+| [Shine On Everyone](https://open.spotify.com/track/5Qy4yGFjXdkEAsmIIcagWg) | [PJ Masks](https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ) | [PJ Power Up](https://open.spotify.com/album/4NplMo0hWhheo1PR9LQOie) | 1:41 | 2023-01-27 | 2023-12-26 |
 | [Shine On Everyone](https://open.spotify.com/track/7nTCmhPnplDQ21oOyeh5wd) | [PJ Masks](https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ) | [Shine On Everyone](https://open.spotify.com/album/5M4wisJxzqcU0GVQaOFv9E) | 1:41 | 2022-04-15 | 2022-07-29 |
 | [Sid the Science Kid Theme Song](https://open.spotify.com/track/131DnrFnS9XAKQX0LG70AJ) | [Jim Henson's Sid the Science Kid](https://open.spotify.com/artist/24J1jPqrTfwaASivMTPuHd) | [Work Your Body](https://open.spotify.com/album/66hZhoeuuTFV9gMpv1ZzwY) | 0:33 | 2022-04-15 | 2022-07-29 |
 | [SpongeBob SquarePants Theme](https://open.spotify.com/track/1L76g7YKUBaOobB192tZBz) | [Painty The Pirate and Kids](https://open.spotify.com/artist/6crTzJTM4gbjjqF1FKFMw1) | [Spongebob Squarepants: Original Theme Highlights](https://open.spotify.com/album/7rGK4xRxVlmDuV7dKsGZZn) | 0:45 | 2022-04-15 | 2022-07-29 |

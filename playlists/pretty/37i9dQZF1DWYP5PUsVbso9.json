@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 290290,
+  "num_followers": 290334,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzZmNTIzMjE1YzBkMThkMjEyOWE2ZWI1MDY2Y2VhMmNmMGM5MWZm",
+  "snapshot_id": "MCw0YzQ3MjU4NGI1YTVmYThiN2U5OGVhZjNjZGY2MzE5ZGI5ZTQ4ZTYz",
   "tracks": [
     {
       "added_at": "2023-08-21 19:26:53",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Whiskey Bent And Hell Bound",
-        "url": "https://open.spotify.com/album/03TVlYFvPcuB0axrjswBhb"
-      },
-      "artists": [
-        {
-          "name": "Hank Williams, Jr.",
-          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
-        }
-      ],
-      "duration_ms": 188386,
-      "name": "Whiskey Bent And Hell Bound",
-      "url": "https://open.spotify.com/track/5TWhLgjy8cgb6CRPnnlnn2"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
         "name": "Summertime Dream",
         "url": "https://open.spotify.com/album/7Ah40XNSL08oO3p0RAGro8"
       },
@@ -219,6 +203,22 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
+        "name": "Whiskey Bent And Hell Bound",
+        "url": "https://open.spotify.com/album/03TVlYFvPcuB0axrjswBhb"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+        }
+      ],
+      "duration_ms": 188386,
+      "name": "Whiskey Bent And Hell Bound",
+      "url": "https://open.spotify.com/track/5TWhLgjy8cgb6CRPnnlnn2"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
         "name": "Coal Miner's Daughter",
         "url": "https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr"
       },
@@ -231,6 +231,22 @@
       "duration_ms": 180960,
       "name": "Coal Miner's Daughter - Single Version",
       "url": "https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
+        "name": "Kenny",
+        "url": "https://open.spotify.com/album/3dJ7K3zS6Ux7OFAWcG8eWI"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "duration_ms": 258733,
+      "name": "Coward Of The County",
+      "url": "https://open.spotify.com/track/0JkIre0YxNmKGMU5V7ZiDx"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -255,22 +271,6 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Silver",
-        "url": "https://open.spotify.com/album/5LWsHgqyGqhd6HNBYLb6W7"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 224813,
-      "name": "(Ghost) Riders in the Sky",
-      "url": "https://open.spotify.com/track/3I1vEQhGwRK7URrTq4BqNl"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
         "name": "Waylon & Willie",
         "url": "https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO"
       },
@@ -291,18 +291,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Rose Garden",
-        "url": "https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af"
+        "name": "Rocky Mountain High",
+        "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
       },
       "artists": [
         {
-          "name": "Lynn Anderson",
-          "url": "https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2"
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
         }
       ],
-      "duration_ms": 175866,
-      "name": "Rose Garden",
-      "url": "https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey"
+      "duration_ms": 283640,
+      "name": "Rocky Mountain High",
+      "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -387,8 +387,40 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Rocky Mountain High",
-        "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
+        "name": "Silver",
+        "url": "https://open.spotify.com/album/5LWsHgqyGqhd6HNBYLb6W7"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 224813,
+      "name": "(Ghost) Riders in the Sky",
+      "url": "https://open.spotify.com/track/3I1vEQhGwRK7URrTq4BqNl"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
+        "name": "Rose Garden",
+        "url": "https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af"
+      },
+      "artists": [
+        {
+          "name": "Lynn Anderson",
+          "url": "https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2"
+        }
+      ],
+      "duration_ms": 175866,
+      "name": "Rose Garden",
+      "url": "https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
+        "name": "Back Home Again",
+        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
       },
       "artists": [
         {
@@ -396,41 +428,9 @@
           "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
         }
       ],
-      "duration_ms": 283640,
-      "name": "Rocky Mountain High",
-      "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
-        "name": "Kenny",
-        "url": "https://open.spotify.com/album/3dJ7K3zS6Ux7OFAWcG8eWI"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        }
-      ],
-      "duration_ms": 258733,
-      "name": "Coward Of The County",
-      "url": "https://open.spotify.com/track/0JkIre0YxNmKGMU5V7ZiDx"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
-        "name": "A Decade Of Hits",
-        "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
-      },
-      "artists": [
-        {
-          "name": "The Charlie Daniels Band",
-          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
-        }
-      ],
-      "duration_ms": 240106,
-      "name": "Long Haired Country Boy",
-      "url": "https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8"
+      "duration_ms": 193093,
+      "name": "Thank God I'm a Country Boy",
+      "url": "https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -451,34 +451,34 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Red Headed Stranger",
-        "url": "https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM"
+        "name": "A Decade Of Hits",
+        "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "The Charlie Daniels Band",
+          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
         }
       ],
-      "duration_ms": 138600,
-      "name": "Blue Eyes Crying In the Rain",
-      "url": "https://open.spotify.com/track/2uRVPeQbsEpRQD0DKr1WTo"
+      "duration_ms": 240106,
+      "name": "Long Haired Country Boy",
+      "url": "https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8"
     },
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Man In Black",
-        "url": "https://open.spotify.com/album/3fH6txVtapyIaCdoJkUNTd"
+        "name": "Kenny Rogers",
+        "url": "https://open.spotify.com/album/5LYk7eiOau7NSQn6GQbF9k"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
         }
       ],
-      "duration_ms": 172986,
-      "name": "Man in Black",
-      "url": "https://open.spotify.com/track/7wL9EVloIobMw22rT7Ve8x"
+      "duration_ms": 220866,
+      "name": "Lucille",
+      "url": "https://open.spotify.com/track/15ADURMdkO25JGD5mIcodM"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -499,18 +499,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Rose Colored Glasses",
-        "url": "https://open.spotify.com/album/3rRwWX6dg9IBQBalgqEgSN"
+        "name": "Red Headed Stranger",
+        "url": "https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM"
       },
       "artists": [
         {
-          "name": "John Conlee",
-          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 200493,
-      "name": "Rose Colored Glasses",
-      "url": "https://open.spotify.com/track/1Ko3qmw2ItUEefsjDjpLWL"
+      "duration_ms": 138600,
+      "name": "Blue Eyes Crying In the Rain",
+      "url": "https://open.spotify.com/track/2uRVPeQbsEpRQD0DKr1WTo"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -535,34 +535,34 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Kenny Rogers",
-        "url": "https://open.spotify.com/album/5LYk7eiOau7NSQn6GQbF9k"
+        "name": "Man In Black",
+        "url": "https://open.spotify.com/album/3fH6txVtapyIaCdoJkUNTd"
       },
       "artists": [
         {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 220866,
-      "name": "Lucille",
-      "url": "https://open.spotify.com/track/15ADURMdkO25JGD5mIcodM"
+      "duration_ms": 172986,
+      "name": "Man in Black",
+      "url": "https://open.spotify.com/track/7wL9EVloIobMw22rT7Ve8x"
     },
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Back Home Again",
-        "url": "https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm"
+        "name": "Rose Colored Glasses",
+        "url": "https://open.spotify.com/album/3rRwWX6dg9IBQBalgqEgSN"
       },
       "artists": [
         {
-          "name": "John Denver",
-          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+          "name": "John Conlee",
+          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
         }
       ],
-      "duration_ms": 193093,
-      "name": "Thank God I'm a Country Boy",
-      "url": "https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M"
+      "duration_ms": 200493,
+      "name": "Rose Colored Glasses",
+      "url": "https://open.spotify.com/track/1Ko3qmw2ItUEefsjDjpLWL"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -763,6 +763,22 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
+        "name": "Rocky Mountain Music",
+        "url": "https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI"
+      },
+      "artists": [
+        {
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+        }
+      ],
+      "duration_ms": 142773,
+      "name": "Two Dollars in the Jukebox - 2008 Remaster",
+      "url": "https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
         "name": "Ultimate Waylon Jennings",
         "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 178733,
       "name": "Good Hearted Woman",
       "url": "https://open.spotify.com/track/3CqLvQ9fPOLtLIKb7r5ti6"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
-        "name": "Country Classics: American Legends Tom T. Hall (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5"
-      },
-      "artists": [
-        {
-          "name": "Tom T. Hall",
-          "url": "https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T"
-        }
-      ],
-      "duration_ms": 126666,
-      "name": "I Love",
-      "url": "https://open.spotify.com/track/5fTwUw09NNgCIOkEKu3bGB"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Rocky Mountain Music",
-        "url": "https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI"
+        "name": "Country Classics: American Legends Tom T. Hall (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5"
       },
       "artists": [
         {
-          "name": "Eddie Rabbitt",
-          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+          "name": "Tom T. Hall",
+          "url": "https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T"
         }
       ],
-      "duration_ms": 142773,
-      "name": "Two Dollars in the Jukebox - 2008 Remaster",
-      "url": "https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C"
+      "duration_ms": 126666,
+      "name": "I Love",
+      "url": "https://open.spotify.com/track/5fTwUw09NNgCIOkEKu3bGB"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
+        "name": "The Best Of Billy Swan",
+        "url": "https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi"
+      },
+      "artists": [
+        {
+          "name": "Billy Swan",
+          "url": "https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "I Can Help",
+      "url": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
         "name": "Honky Tonk Girl: The Loretta Lynn Collection",
         "url": "https://open.spotify.com/album/6KSIeegoDEnb4PxvKUwYDb"
       },
@@ -1083,26 +1099,6 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "The Essential Johnny Duncan",
-        "url": "https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk"
-      },
-      "artists": [
-        {
-          "name": "Johnny Duncan",
-          "url": "https://open.spotify.com/artist/2ahMUMyJ2xTC1Qaneot7Sm"
-        },
-        {
-          "name": "Janie Fricke",
-          "url": "https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV"
-        }
-      ],
-      "duration_ms": 189786,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/3OBmAls7qBqUb6A9kZimw3"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
         "name": "The Essential Dolly Parton",
         "url": "https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS"
       },
@@ -1119,18 +1115,22 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "The Best Of Billy Swan",
-        "url": "https://open.spotify.com/album/5fjc7x9genFjAynvs3g1oi"
+        "name": "The Essential Johnny Duncan",
+        "url": "https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk"
       },
       "artists": [
         {
-          "name": "Billy Swan",
-          "url": "https://open.spotify.com/artist/6nNkKMkPl1qBCEW3Al9eVV"
+          "name": "Johnny Duncan",
+          "url": "https://open.spotify.com/artist/2ahMUMyJ2xTC1Qaneot7Sm"
+        },
+        {
+          "name": "Janie Fricke",
+          "url": "https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV"
         }
       ],
-      "duration_ms": 238333,
-      "name": "I Can Help",
-      "url": "https://open.spotify.com/track/4oW1lGOw5Q5OLvoJv92qoE"
+      "duration_ms": 189786,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/3OBmAls7qBqUb6A9kZimw3"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "20 Greatest Hits",
-        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
+        "name": "The Freddy Fender Collection",
+        "url": "https://open.spotify.com/album/7nXadSb5djsc7Lfdv4IPLp"
       },
       "artists": [
         {
-          "name": "Don Williams",
-          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+          "name": "Freddy Fender",
+          "url": "https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6"
         }
       ],
-      "duration_ms": 192800,
-      "name": "Tulsa Time",
-      "url": "https://open.spotify.com/track/5BTUfUNq9sa7OUbles1qvS"
+      "duration_ms": 158306,
+      "name": "Before the Next Teardrop Falls",
+      "url": "https://open.spotify.com/track/3awuorsQsio2PUOvzq3hpd"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "The Freddy Fender Collection",
-        "url": "https://open.spotify.com/album/7nXadSb5djsc7Lfdv4IPLp"
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
       },
       "artists": [
         {
-          "name": "Freddy Fender",
-          "url": "https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6"
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
         }
       ],
-      "duration_ms": 158306,
-      "name": "Before the Next Teardrop Falls",
-      "url": "https://open.spotify.com/track/3awuorsQsio2PUOvzq3hpd"
+      "duration_ms": 192800,
+      "name": "Tulsa Time",
+      "url": "https://open.spotify.com/track/5BTUfUNq9sa7OUbles1qvS"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "If You Love Me, Let Me Know",
-        "url": "https://open.spotify.com/album/3rjkhRSQsNjjeTjkC7ZnHg"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 196266,
-      "name": "If You Love Me (Let Me Know)",
-      "url": "https://open.spotify.com/track/2sU0wR5zAs6tsen499fTcl"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
         "name": "20 Greatest Hits",
         "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 168360,
       "name": "Some Broken Hearts Never Mend - Single Version",
       "url": "https://open.spotify.com/track/6OREPdoHWU3IehSiZA6rcw"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
+        "name": "If You Love Me, Let Me Know",
+        "url": "https://open.spotify.com/album/3rjkhRSQsNjjeTjkC7ZnHg"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 196266,
+      "name": "If You Love Me (Let Me Know)",
+      "url": "https://open.spotify.com/track/2sU0wR5zAs6tsen499fTcl"
     }
   ],
   "unique_name": "70s Country",

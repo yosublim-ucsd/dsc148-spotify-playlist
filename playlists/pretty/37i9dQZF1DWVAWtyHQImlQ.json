@@ -1,12 +1,12 @@
 {
   "description": "All 60s, all ballads. Cover: Etta James",
-  "num_followers": 141034,
+  "num_followers": 141065,
   "original_name": "60s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjkwODRmY2I0YmI2OWQ5ZTNlMGFmZDY2NDQ0NmViMDhmNzdiNDM0",
+  "snapshot_id": "MCw0OWQzZTI0OGE0MjJlMTcyMGFmOTEwMDE0NjJkZTBlZmNlZGU1NTQ4",
   "tracks": [
     {
       "added_at": "2023-01-02 17:54:36",
@@ -155,18 +155,18 @@
     {
       "added_at": "2023-01-02 17:54:36",
       "album": {
-        "name": "Days Of Future Passed (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3JyYXOBRAuc3XFQxFxrEcM"
+        "name": "Hits'n'Flips",
+        "url": "https://open.spotify.com/album/03yc1eq0YoS5Bgt6KSY9Wg"
       },
       "artists": [
         {
-          "name": "The Moody Blues",
-          "url": "https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1"
+          "name": "Procol Harum",
+          "url": "https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C"
         }
       ],
-      "duration_ms": 269106,
-      "name": "Nights In White Satin - Single Version / Mono",
-      "url": "https://open.spotify.com/track/6L5BZEcZmD6RBJnimzlyKr"
+      "duration_ms": 248946,
+      "name": "A Whiter Shade of Pale - Original Single Version",
+      "url": "https://open.spotify.com/track/7DsQgIwg23u9gooCxkRTu3"
     },
     {
       "added_at": "2023-01-02 17:54:36",
@@ -187,18 +187,18 @@
     {
       "added_at": "2023-01-02 17:54:36",
       "album": {
-        "name": "Hits'n'Flips",
-        "url": "https://open.spotify.com/album/03yc1eq0YoS5Bgt6KSY9Wg"
+        "name": "Days Of Future Passed (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3JyYXOBRAuc3XFQxFxrEcM"
       },
       "artists": [
         {
-          "name": "Procol Harum",
-          "url": "https://open.spotify.com/artist/0GbqW5TJr7n4is453VOY4C"
+          "name": "The Moody Blues",
+          "url": "https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1"
         }
       ],
-      "duration_ms": 248946,
-      "name": "A Whiter Shade of Pale - Original Single Version",
-      "url": "https://open.spotify.com/track/7DsQgIwg23u9gooCxkRTu3"
+      "duration_ms": 269106,
+      "name": "Nights In White Satin - Single Version / Mono",
+      "url": "https://open.spotify.com/track/6L5BZEcZmD6RBJnimzlyKr"
     },
     {
       "added_at": "2023-01-02 17:54:36",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-01-02 17:54:36",
       "album": {
-        "name": "And Then...Along Comes",
-        "url": "https://open.spotify.com/album/6NDt4G1QiGzMNnri4kxq6f"
-      },
-      "artists": [
-        {
-          "name": "The Association",
-          "url": "https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS"
-        }
-      ],
-      "duration_ms": 207133,
-      "name": "Cherish",
-      "url": "https://open.spotify.com/track/7uGeDI6nJEdUYMsMd7mQyl"
-    },
-    {
-      "added_at": "2023-01-02 17:54:36",
-      "album": {
         "name": "Singles 1965-1967",
         "url": "https://open.spotify.com/album/1IeXdR2ptc5Jhxmko89CgE"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 171373,
       "name": "Anyone Who Had a Heart - 2003 Remaster",
       "url": "https://open.spotify.com/track/28Y2taEFmHofu2EsU04ILf"
+    },
+    {
+      "added_at": "2023-01-02 17:54:36",
+      "album": {
+        "name": "And Then...Along Comes",
+        "url": "https://open.spotify.com/album/6NDt4G1QiGzMNnri4kxq6f"
+      },
+      "artists": [
+        {
+          "name": "The Association",
+          "url": "https://open.spotify.com/artist/2kuNswDC82PL9xRbfaZJaS"
+        }
+      ],
+      "duration_ms": 207133,
+      "name": "Cherish",
+      "url": "https://open.spotify.com/track/7uGeDI6nJEdUYMsMd7mQyl"
     },
     {
       "added_at": "2023-01-02 17:54:36",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > ¡Mujeres mexicanas icónicas del 2023 a todo volumen! Vivir Quintana en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,718 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,720 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 37 | [Mis Mejores Poses](https://open.spotify.com/track/7FZ5Dtc1RbWd0qXgFqZ4zS) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Mis Mejores Poses](https://open.spotify.com/album/4mqqDapNQ10WynQPGRCkol) | 2:20 |
 | 38 | [Toda La Noche](https://open.spotify.com/track/6G2moJDXjY6T1sV1rvVdOO) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Toda La Noche](https://open.spotify.com/album/1rkHVLrH6Rf8t1RuHZ74sH) | 2:42 |
 | 39 | [Guadalajara](https://open.spotify.com/track/6SImgmPvVI0sGL2jkzMftw) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Piscis](https://open.spotify.com/album/2VjNyPPi9RWrA16YibDJi6) | 3:49 |
-| 40 | [Cypher 1: Ella \(feat\. Delfina Dib\)](https://open.spotify.com/track/1syrgjPK0foTlggQJJ48GY) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J), [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh), [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Cypher 1: Ella \(feat\. Delfina Dib\)](https://open.spotify.com/album/308VA4UV7GdELyQHd5TGLD) | 3:29 |
-| 41 | [M.A.D](https://open.spotify.com/track/3xIwTkW38ynlLRyTWEgdd4) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i), [P\. Jaguar](https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB) | [M.A.D](https://open.spotify.com/album/1yJrR1qgfd1CTkSzOg59dV) | 3:19 |
+| 40 | [M.A.D](https://open.spotify.com/track/3xIwTkW38ynlLRyTWEgdd4) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Astrid Cruz](https://open.spotify.com/artist/1WhuV4MAbMhWKjYXojKN8i), [P\. Jaguar](https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB) | [M.A.D](https://open.spotify.com/album/1yJrR1qgfd1CTkSzOg59dV) | 3:19 |
+| 41 | [Cypher 1: Ella \(feat\. Delfina Dib\)](https://open.spotify.com/track/1syrgjPK0foTlggQJJ48GY) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J), [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn), [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh), [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ) | [Cypher 1: Ella \(feat\. Delfina Dib\)](https://open.spotify.com/album/308VA4UV7GdELyQHd5TGLD) | 3:29 |
 | 42 | [Hospital Sentimental](https://open.spotify.com/track/3RBVoUW2d2sLchpeqr1o4Y) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Hospital Sentimental](https://open.spotify.com/album/2TI5EI92Ji5MrzH9GcglFO) | 3:19 |
 | 43 | [Mala Amiga](https://open.spotify.com/track/6acWLZMJWZw29wcehfY1WU) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z) | [Mala Amiga](https://open.spotify.com/album/7uVtPIsdz0UNaiWZOXWKZr) | 3:15 |
 | 44 | [SKB](https://open.spotify.com/track/6gXpd9hQ2nBKlfCFBDQHsF) | [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [SKB](https://open.spotify.com/album/45Y4FneTtW9gZYhd98Sunp) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 49 | [El Espejo Y El Oro](https://open.spotify.com/track/2ntloEnUxFOFgQ6lh6Xlob) | [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV), [Bungalo Dub](https://open.spotify.com/artist/69JPOTvYfcr3R57sMZdJU0), [Bhajan](https://open.spotify.com/artist/03gjTMhvuxszNbXMxwYJmv) | [Ruta Mexicolombia](https://open.spotify.com/album/6c2d10wfbQZuV7zCCfqLCy) | 4:09 |
 | 50 | [Calor](https://open.spotify.com/track/1tjwpYaTif4HRMUADJzzgf) | [Herbolaria](https://open.spotify.com/artist/5DrflPAe5ZoSkw2FtxrnZW) | [Calor](https://open.spotify.com/album/50HwL1s1yIlbECtQ3SznIs) | 3:23 |
 
-Snapshot ID: `MCw1Zjg2ZjI4OGRjYmM1NmI1MGU2ZmMxZTU2MDcwZDgwODBiYjY4ODY0`
+Snapshot ID: `MCw2MGQ4ODkzNWUzNzk1MjY2M2JmNTcwNDg0MjQwZmZjYTE3OWRhZTBj`

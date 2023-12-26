@@ -1,12 +1,12 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. La Banda Bast\u00f6n en portada. ",
-  "num_followers": 171961,
+  "num_followers": 171985,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2VmZjY5MzY2YTg1ZTNhYjEzZGYzNGU5ZjhjMjdhYTg2Y2E5MWFi",
+  "snapshot_id": "MCwwZjFlNDUxMDM5OTNjYWM0Y2M5OGI3NjA5M2RmYzE3MmQ0MGQ5ZTcy",
   "tracks": [
     {
       "added_at": "2023-08-08 02:05:58",
@@ -131,22 +131,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Muerte",
-        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
-      },
-      "artists": [
-        {
-          "name": "Canserbero",
-          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
-        }
-      ],
-      "duration_ms": 361978,
-      "name": "Es \u00c9pico",
-      "url": "https://open.spotify.com/track/2kd0T6zgABT8P0s2h9QU5O"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "Necesidad",
         "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
       },
@@ -167,22 +151,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Cartel De Santa",
-        "url": "https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 223093,
-      "name": "Todas Mueren por M\u00ed",
-      "url": "https://open.spotify.com/track/57DZJLuPk9a5ULzdER3ZFy"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "As\u00ed Soy Yo",
         "url": "https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi"
       },
@@ -199,6 +167,22 @@
       "duration_ms": 289013,
       "name": "\u00c9xtasis",
       "url": "https://open.spotify.com/track/3NqbKUOgaU2LgIFRbu4B12"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Muerte",
+        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "duration_ms": 361978,
+      "name": "Es \u00c9pico",
+      "url": "https://open.spotify.com/track/2kd0T6zgABT8P0s2h9QU5O"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -251,6 +235,22 @@
       "duration_ms": 250697,
       "name": "Me Tiene Mal",
       "url": "https://open.spotify.com/track/1lI3pfm02Fw6zajcGyxJsg"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Cartel De Santa",
+        "url": "https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 223093,
+      "name": "Todas Mueren por M\u00ed",
+      "url": "https://open.spotify.com/track/57DZJLuPk9a5ULzdER3ZFy"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -335,34 +335,18 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Vol. II",
-        "url": "https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x"
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/2rmhl1gQux3WGPJA77FgRN"
       },
       "artists": [
         {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
         }
       ],
-      "duration_ms": 262746,
-      "name": "El Arte del Enga\u00f1o",
-      "url": "https://open.spotify.com/track/0sQdIxWPpjCFLLUfOXhR0V"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
-        "name": "Santos Grifos, Vol. 1",
-        "url": "https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 380200,
-      "name": "El Diablo Anda Suelto",
-      "url": "https://open.spotify.com/track/1uSj6BBujIU1oaZFqIyZg7"
+      "duration_ms": 182831,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1EljzqiV1RDtXj1QUbx3db"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -415,18 +399,34 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/2rmhl1gQux3WGPJA77FgRN"
+        "name": "Vol. II",
+        "url": "https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x"
       },
       "artists": [
         {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
         }
       ],
-      "duration_ms": 182831,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/1EljzqiV1RDtXj1QUbx3db"
+      "duration_ms": 262746,
+      "name": "El Arte del Enga\u00f1o",
+      "url": "https://open.spotify.com/track/0sQdIxWPpjCFLLUfOXhR0V"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Santos Grifos, Vol. 1",
+        "url": "https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 380200,
+      "name": "El Diablo Anda Suelto",
+      "url": "https://open.spotify.com/track/1uSj6BBujIU1oaZFqIyZg7"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -467,22 +467,6 @@
       "duration_ms": 213560,
       "name": "Si Nunca Va a Amanecer",
       "url": "https://open.spotify.com/track/1WhJWRZt4yHGtICCRZaJsb"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
-        "name": "Muerte",
-        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
-      },
-      "artists": [
-        {
-          "name": "Canserbero",
-          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
-        }
-      ],
-      "duration_ms": 284813,
-      "name": "Mundo de Piedra",
-      "url": "https://open.spotify.com/track/4fhF0iJffyUJReKSecg78m"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -535,18 +519,18 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
+        "name": "Muerte",
+        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
       },
       "artists": [
         {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
         }
       ],
-      "duration_ms": 165714,
-      "name": "Categor\u00eda 5",
-      "url": "https://open.spotify.com/track/4t4GM7XWaNthFLmrkGc82L"
+      "duration_ms": 284813,
+      "name": "Mundo de Piedra",
+      "url": "https://open.spotify.com/track/4fhF0iJffyUJReKSecg78m"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -571,6 +555,22 @@
       "duration_ms": 206884,
       "name": "Hijo de la Noche",
       "url": "https://open.spotify.com/track/46xx1V1UK5085ekWgIntp8"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 165714,
+      "name": "Categor\u00eda 5",
+      "url": "https://open.spotify.com/track/4t4GM7XWaNthFLmrkGc82L"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
+        "name": "CARAVANA",
+        "url": "https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91"
+      },
+      "artists": [
+        {
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+        }
+      ],
+      "duration_ms": 196745,
+      "name": "CANGURO",
+      "url": "https://open.spotify.com/track/2UAWYufVaO3EnUUNzl0ppO"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
         "name": "Proyecto Akwid",
         "url": "https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM"
       },
@@ -699,22 +715,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "CARAVANA",
-        "url": "https://open.spotify.com/album/7L6gLnSJBTU0tOneX0Ol91"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 196745,
-      "name": "CANGURO",
-      "url": "https://open.spotify.com/track/2UAWYufVaO3EnUUNzl0ppO"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "S\u00faper Sangre Joven",
         "url": "https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt"
       },
@@ -727,6 +727,22 @@
       "duration_ms": 164457,
       "name": "Goteo",
       "url": "https://open.spotify.com/track/57kdZIOAaolxAjB67d2yU3"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Artilleria Pesada, Presenta:",
+        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
+      },
+      "artists": [
+        {
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+        }
+      ],
+      "duration_ms": 253880,
+      "name": "Si Se\u00f1or",
+      "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -779,22 +795,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Artilleria Pesada, Presenta:",
-        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
-      },
-      "artists": [
-        {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 253880,
-      "name": "Si Se\u00f1or",
-      "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu"
       },
@@ -807,42 +807,6 @@
       "duration_ms": 192680,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/5vS3tfCF9cEnK32q7YrVNs"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
-        "name": "C.R.O - Rock",
-        "url": "https://open.spotify.com/album/6vOPEgatfAYa5TSq2PaCNu"
-      },
-      "artists": [
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        }
-      ],
-      "duration_ms": 208378,
-      "name": "Ciudad Gris",
-      "url": "https://open.spotify.com/track/74oRVj4gRTVVFUVwTXAEl6"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
-        "name": "Sin Culpa (feat. DrefQuila)",
-        "url": "https://open.spotify.com/album/0saZWvAogHzd9Cf3mesXc4"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        }
-      ],
-      "duration_ms": 244771,
-      "name": "Sin Culpa (feat.DrefQuila)",
-      "url": "https://open.spotify.com/track/03PZ9C7f90TLbDk3dYjBd2"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -863,6 +827,22 @@
       "duration_ms": 275400,
       "name": "El Chivo (feat. T3r Elemento)",
       "url": "https://open.spotify.com/track/1t0P9nBKpnrh5MntGd3qw6"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "C.R.O - Rock",
+        "url": "https://open.spotify.com/album/6vOPEgatfAYa5TSq2PaCNu"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "duration_ms": 208378,
+      "name": "Ciudad Gris",
+      "url": "https://open.spotify.com/track/74oRVj4gRTVVFUVwTXAEl6"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -931,6 +911,26 @@
       "duration_ms": 206800,
       "name": "Salud y Vida",
       "url": "https://open.spotify.com/track/25KbjEXRp7kYaxhEQixl2D"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Sin Culpa (feat. DrefQuila)",
+        "url": "https://open.spotify.com/album/0saZWvAogHzd9Cf3mesXc4"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        }
+      ],
+      "duration_ms": 244771,
+      "name": "Sin Culpa (feat.DrefQuila)",
+      "url": "https://open.spotify.com/track/03PZ9C7f90TLbDk3dYjBd2"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Teorema",
-        "url": "https://open.spotify.com/album/4BrZpyJrJ3cPWgqIr6FLIU"
-      },
-      "artists": [
-        {
-          "name": "Movimiento Original",
-          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
-        }
-      ],
-      "duration_ms": 204125,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/3tsBwY0wRBkiy8EBOY3O7z"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "El Morroeste",
         "url": "https://open.spotify.com/album/1FaFnc7lRcUSy2fk8DSHNe"
       },
@@ -1315,6 +1299,38 @@
       "duration_ms": 311500,
       "name": "I Love You a Lo V\u00edo",
       "url": "https://open.spotify.com/track/1J2LwSgNeYGtAZdlF4jZH3"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Teorema",
+        "url": "https://open.spotify.com/album/4BrZpyJrJ3cPWgqIr6FLIU"
+      },
+      "artists": [
+        {
+          "name": "Movimiento Original",
+          "url": "https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo"
+        }
+      ],
+      "duration_ms": 204125,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/3tsBwY0wRBkiy8EBOY3O7z"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Merry Go Round",
+        "url": "https://open.spotify.com/album/7urGVhRGLgozoouBLDKhom"
+      },
+      "artists": [
+        {
+          "name": "Delinquent Habits",
+          "url": "https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U"
+        }
+      ],
+      "duration_ms": 254640,
+      "name": "Return Of The Tres",
+      "url": "https://open.spotify.com/track/5qVF2rEf75oPrZHhmZmDKk"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1371,22 +1387,6 @@
       "duration_ms": 273176,
       "name": "Solo Como Amigos",
       "url": "https://open.spotify.com/track/0LC8PbKuTyhCpsrdLtL3jz"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
-        "name": "Merry Go Round",
-        "url": "https://open.spotify.com/album/7urGVhRGLgozoouBLDKhom"
-      },
-      "artists": [
-        {
-          "name": "Delinquent Habits",
-          "url": "https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U"
-        }
-      ],
-      "duration_ms": 254640,
-      "name": "Return Of The Tres",
-      "url": "https://open.spotify.com/track/5qVF2rEf75oPrZHhmZmDKk"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1579,6 +1579,26 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Loop\u2019n Soup",
+          "url": "https://open.spotify.com/artist/7aCwMyxItJHSUrLKpUnBTJ"
+        }
+      ],
+      "duration_ms": 135592,
+      "name": "Me Est\u00e1s Matando",
+      "url": "https://open.spotify.com/track/2mAEh1VRtDyesBTJvnOwHw"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
         "name": "1977",
         "url": "https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3"
       },
@@ -1611,26 +1631,6 @@
       "duration_ms": 237760,
       "name": "Siempre Peligroso (feat. Fermin IV Caballero)",
       "url": "https://open.spotify.com/track/1hSJnfkEqbGF5afz5aqKqi"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Loop\u2019n Soup",
-          "url": "https://open.spotify.com/artist/7aCwMyxItJHSUrLKpUnBTJ"
-        }
-      ],
-      "duration_ms": 135592,
-      "name": "Me Est\u00e1s Matando",
-      "url": "https://open.spotify.com/track/2mAEh1VRtDyesBTJvnOwHw"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "No Copio",
-        "url": "https://open.spotify.com/album/2A3JkMQdIK53qMJo6PcXhT"
-      },
-      "artists": [
-        {
-          "name": "Crudo Means Raw",
-          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
-        }
-      ],
-      "duration_ms": 205255,
-      "name": "No Copio",
-      "url": "https://open.spotify.com/track/20ULOJfgc85eBXq83rjKEf"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "Unidad 9",
         "url": "https://open.spotify.com/album/4h2vgnpajpNUUnilwMjxjQ"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 160470,
       "name": "Unidad 9",
       "url": "https://open.spotify.com/track/4e4zBLxCHWwOyfT1qkXcFb"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "No Copio",
+        "url": "https://open.spotify.com/album/2A3JkMQdIK53qMJo6PcXhT"
+      },
+      "artists": [
+        {
+          "name": "Crudo Means Raw",
+          "url": "https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53"
+        }
+      ],
+      "duration_ms": 205255,
+      "name": "No Copio",
+      "url": "https://open.spotify.com/track/20ULOJfgc85eBXq83rjKEf"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Vicios y Virtudes",
-        "url": "https://open.spotify.com/album/6SaShuiobMOc9mIiSmP2kY"
-      },
-      "artists": [
-        {
-          "name": "Violadores Del Verso",
-          "url": "https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY"
-        }
-      ],
-      "duration_ms": 269160,
-      "name": "Ninguna Chavala Tiene Due\u00f1o - Porque Ella Me Lo Dijo",
-      "url": "https://open.spotify.com/track/5fIJBM9OxVNiu4fQLX9vqo"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "La Familia, Cap. 1",
         "url": "https://open.spotify.com/album/246c5sNjasakCN9bGXQZvZ"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 309733,
       "name": "Gaminart",
       "url": "https://open.spotify.com/track/0KjEYmw0KaSg3uXS0GU7un"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "24/Siempre Vol.1",
+        "url": "https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr"
+      },
+      "artists": [
+        {
+          "name": "El Triangulo Estudio",
+          "url": "https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm"
+        }
+      ],
+      "duration_ms": 152298,
+      "name": "Homer el Mero Mero",
+      "url": "https://open.spotify.com/track/1V6KZnJeDj25lYJdqDoydT"
     }
   ],
   "unique_name": "Cl\u00e1sicos del Hip Hop Latino",

@@ -1,12 +1,12 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 290595,
+  "num_followers": 290813,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjg2ODBjMGZiNmQ1NWQ5NDQ3OTYyZDE1NDg3MjczMzkzZDYwZjRi",
+  "snapshot_id": "MCw0ZWU3MjMxYjIyOGM5NWFhZDc1OWE3MTQwNzY5NjczOTdlNmVlYmM1",
   "tracks": [
     {
       "added_at": "2023-03-10 23:34:06",
@@ -199,6 +199,22 @@
     {
       "added_at": "2023-03-10 23:34:06",
       "album": {
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+      },
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+        }
+      ],
+      "duration_ms": 191240,
+      "name": "The Sign",
+      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
+    },
+    {
+      "added_at": "2023-03-10 23:34:06",
+      "album": {
         "name": "We See The Same Sun",
         "url": "https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 227933,
       "name": "Gettin' Jiggy Wit It",
       "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
-    },
-    {
-      "added_at": "2023-03-10 23:34:06",
-      "album": {
-        "name": "The Sign",
-        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
-      },
-      "artists": [
-        {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
-        }
-      ],
-      "duration_ms": 191240,
-      "name": "The Sign",
-      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
     },
     {
       "added_at": "2023-03-10 23:34:06",
@@ -311,22 +311,6 @@
     {
       "added_at": "2023-03-10 23:34:06",
       "album": {
-        "name": "Unleash The Dragon",
-        "url": "https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm"
-      },
-      "artists": [
-        {
-          "name": "Sisqo",
-          "url": "https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg"
-        }
-      ],
-      "duration_ms": 253733,
-      "name": "Thong Song",
-      "url": "https://open.spotify.com/track/5Mmk2ii6laakqfeCT7OnVD"
-    },
-    {
-      "added_at": "2023-03-10 23:34:06",
-      "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 252106,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"
+    },
+    {
+      "added_at": "2023-03-10 23:34:06",
+      "album": {
+        "name": "Unleash The Dragon",
+        "url": "https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm"
+      },
+      "artists": [
+        {
+          "name": "Sisqo",
+          "url": "https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg"
+        }
+      ],
+      "duration_ms": 253733,
+      "name": "Thong Song",
+      "url": "https://open.spotify.com/track/5Mmk2ii6laakqfeCT7OnVD"
     },
     {
       "added_at": "2023-03-10 23:34:06",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-03-10 23:34:06",
       "album": {
-        "name": "Hot, Cool & Vicious",
-        "url": "https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d"
-      },
-      "artists": [
-        {
-          "name": "Salt-N-Pepa",
-          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
-        }
-      ],
-      "duration_ms": 272133,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80"
-    },
-    {
-      "added_at": "2023-03-10 23:34:06",
-      "album": {
         "name": "Surprise",
         "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 451826,
       "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Basement Boy Strip To The Bone Mix",
       "url": "https://open.spotify.com/track/1SShxVVBeZBCY7WddnksPz"
+    },
+    {
+      "added_at": "2023-03-10 23:34:06",
+      "album": {
+        "name": "Hot, Cool & Vicious",
+        "url": "https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d"
+      },
+      "artists": [
+        {
+          "name": "Salt-N-Pepa",
+          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
+        }
+      ],
+      "duration_ms": 272133,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80"
     },
     {
       "added_at": "2023-03-10 23:34:06",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-03-10 23:34:06",
       "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 235973,
+      "name": "Say You'll Be There",
+      "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
+    },
+    {
+      "added_at": "2023-03-10 23:34:06",
+      "album": {
         "name": "This Is How We Do It",
         "url": "https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL"
       },
@@ -567,22 +583,6 @@
     {
       "added_at": "2023-03-10 23:34:06",
       "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/74QhQQa0lhpkOSrz9HXWyE"
-      },
-      "artists": [
-        {
-          "name": "Skee-Lo",
-          "url": "https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy"
-        }
-      ],
-      "duration_ms": 252306,
-      "name": "I Wish - Radio Edit",
-      "url": "https://open.spotify.com/track/0QMHVTnrFTQJoaqmkdsKhT"
-    },
-    {
-      "added_at": "2023-03-10 23:34:06",
-      "album": {
         "name": "Move It!",
         "url": "https://open.spotify.com/album/4scvdAWWY9lXFoRL7Bfqff"
       },
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-03-10 23:34:06",
       "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/74QhQQa0lhpkOSrz9HXWyE"
       },
       "artists": [
         {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+          "name": "Skee-Lo",
+          "url": "https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy"
         }
       ],
-      "duration_ms": 235973,
-      "name": "Say You'll Be There",
-      "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
+      "duration_ms": 252306,
+      "name": "I Wish - Radio Edit",
+      "url": "https://open.spotify.com/track/0QMHVTnrFTQJoaqmkdsKhT"
     },
     {
       "added_at": "2023-03-10 23:34:06",
@@ -787,6 +787,38 @@
     {
       "added_at": "2023-03-10 23:34:06",
       "album": {
+        "name": "Fiesta Macarena",
+        "url": "https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU"
+      },
+      "artists": [
+        {
+          "name": "Los Del Rio",
+          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
+        }
+      ],
+      "duration_ms": 252133,
+      "name": "Macarena - Bayside Boys Remix",
+      "url": "https://open.spotify.com/track/7obdw7ZGr6l1GqSBkFiY11"
+    },
+    {
+      "added_at": "2023-03-10 23:34:06",
+      "album": {
+        "name": "Get Ready",
+        "url": "https://open.spotify.com/album/6NhL15fEltVRFpld3hvaWV"
+      },
+      "artists": [
+        {
+          "name": "2 Unlimited",
+          "url": "https://open.spotify.com/artist/18JD8DVlD1fakDAw7E9LFC"
+        }
+      ],
+      "duration_ms": 222911,
+      "name": "Get Ready",
+      "url": "https://open.spotify.com/track/4tvOVmc2jorV20Z2hFDtDg"
+    },
+    {
+      "added_at": "2023-03-10 23:34:06",
+      "album": {
         "name": "You Got the Love",
         "url": "https://open.spotify.com/album/2FkSbzjwgmF6KvU2tQCOgs"
       },
@@ -815,34 +847,18 @@
     {
       "added_at": "2023-03-10 23:34:06",
       "album": {
-        "name": "Get Ready",
-        "url": "https://open.spotify.com/album/6NhL15fEltVRFpld3hvaWV"
+        "name": "Ladies And Gentlemen... The Best Of George Michael",
+        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
       },
       "artists": [
         {
-          "name": "2 Unlimited",
-          "url": "https://open.spotify.com/artist/18JD8DVlD1fakDAw7E9LFC"
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 222911,
-      "name": "Get Ready",
-      "url": "https://open.spotify.com/track/4tvOVmc2jorV20Z2hFDtDg"
-    },
-    {
-      "added_at": "2023-03-10 23:34:06",
-      "album": {
-        "name": "Fiesta Macarena",
-        "url": "https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU"
-      },
-      "artists": [
-        {
-          "name": "Los Del Rio",
-          "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
-        }
-      ],
-      "duration_ms": 252133,
-      "name": "Macarena - Bayside Boys Remix",
-      "url": "https://open.spotify.com/track/7obdw7ZGr6l1GqSBkFiY11"
+      "duration_ms": 388400,
+      "name": "Freedom! '90",
+      "url": "https://open.spotify.com/track/1SKApv6ZfJ9bkUxeRObJEF"
     },
     {
       "added_at": "2023-03-10 23:34:06",
@@ -863,22 +879,6 @@
     {
       "added_at": "2023-03-10 23:34:06",
       "album": {
-        "name": "Ladies And Gentlemen... The Best Of George Michael",
-        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 388400,
-      "name": "Freedom! '90",
-      "url": "https://open.spotify.com/track/1SKApv6ZfJ9bkUxeRObJEF"
-    },
-    {
-      "added_at": "2023-03-10 23:34:06",
-      "album": {
         "name": "Don't Be Cruel",
         "url": "https://open.spotify.com/album/44w4sVYJVQzhH2dN3IwyIK"
       },
@@ -891,6 +891,22 @@
       "duration_ms": 291560,
       "name": "My Prerogative",
       "url": "https://open.spotify.com/track/0v9kGNjkKdQUdDoBIuiph4"
+    },
+    {
+      "added_at": "2023-03-10 23:34:06",
+      "album": {
+        "name": "Whoomp! There It Is (Radio Edit)",
+        "url": "https://open.spotify.com/album/4XHoIt7yz57IiEOApotVMw"
+      },
+      "artists": [
+        {
+          "name": "Tag Team",
+          "url": "https://open.spotify.com/artist/3NfJ6VPVz0lf3jWy5F1N7g"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "Whoomp! There It Is - Radio Edit",
+      "url": "https://open.spotify.com/track/3oWXoSkjdbTlQlteizN7Hb"
     },
     {
       "added_at": "2023-03-10 23:34:06",
@@ -911,22 +927,6 @@
       "duration_ms": 258200,
       "name": "Now That We Found Love",
       "url": "https://open.spotify.com/track/1KONmY3enP3r3nIPQidWAy"
-    },
-    {
-      "added_at": "2023-03-10 23:34:06",
-      "album": {
-        "name": "Whoomp! There It Is (Radio Edit)",
-        "url": "https://open.spotify.com/album/4XHoIt7yz57IiEOApotVMw"
-      },
-      "artists": [
-        {
-          "name": "Tag Team",
-          "url": "https://open.spotify.com/artist/3NfJ6VPVz0lf3jWy5F1N7g"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "Whoomp! There It Is - Radio Edit",
-      "url": "https://open.spotify.com/track/3oWXoSkjdbTlQlteizN7Hb"
     },
     {
       "added_at": "2023-03-10 23:34:06",

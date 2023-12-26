@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > The bassline keeps you moving.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,270 likes - 60 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,328 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 40 | [Speed of Light](https://open.spotify.com/track/7KWepVXoO7Tbo7zWNtjrvC) | [Drive With Beats](https://open.spotify.com/artist/7EvWHkvaWF9QIn04zNDJBa), [Beachbag](https://open.spotify.com/artist/2dZshj2g0klBLuEML2xkWg) | [Speed of Light](https://open.spotify.com/album/4caqXkdm8bmOqRbYOS9hZj) | 2:56 |
 | 41 | [Party All The Time](https://open.spotify.com/track/1LBlcDruAKflMoNV0Ue0AK) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [Masove](https://open.spotify.com/artist/1SridnvhrGK3S0cfnVcOYR) | [Party All The Time](https://open.spotify.com/album/3zGETi4jg5TAtkdUogqAxh) | 2:14 |
 | 42 | [Gangsta's Paradise](https://open.spotify.com/track/6Cm7r5U5igaAnwKOWjFhTq) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [Bodybangers](https://open.spotify.com/artist/7koJQAjVzXoUpH6pXrihXA), [Lotus](https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b) | [Gangsta's Paradise](https://open.spotify.com/album/5miAnRqv7eWbmgY4nK7jU9) | 2:48 |
-| 43 | [Queen of Kings](https://open.spotify.com/track/5fjTWNXJij0V6JGgcnC61K) | [VARGENTA](https://open.spotify.com/artist/4hg56haGFxxnKEt3AkW3fo), [MITCH DB](https://open.spotify.com/artist/6fMSq8NSVe1QWRSTiBCxwL), [Maxim Schunk](https://open.spotify.com/artist/0KLoDGhaSkX3k59O9PzniB) | [Queen of Kings](https://open.spotify.com/album/6bEjekJctuBJt6KNSFQOic) | 2:31 |
-| 44 | [Skippin](https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F) | [MAXAM](https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Skippin](https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB) | 2:37 |
+| 43 | [Skippin](https://open.spotify.com/track/6UmkLiuqMDw88HKr9H4B2F) | [MAXAM](https://open.spotify.com/artist/3dBS6HZxtKdJwcNyx9kThH), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Skippin](https://open.spotify.com/album/114HqXOv5hLDuk7SVP0XVB) | 2:37 |
+| 44 | [Queen of Kings](https://open.spotify.com/track/5fjTWNXJij0V6JGgcnC61K) | [VARGENTA](https://open.spotify.com/artist/4hg56haGFxxnKEt3AkW3fo), [MITCH DB](https://open.spotify.com/artist/6fMSq8NSVe1QWRSTiBCxwL), [Maxim Schunk](https://open.spotify.com/artist/0KLoDGhaSkX3k59O9PzniB) | [Queen of Kings](https://open.spotify.com/album/6bEjekJctuBJt6KNSFQOic) | 2:31 |
 | 45 | [Shooting Darts \(with R3HAB & Prezioso\)](https://open.spotify.com/track/5yj8QDJ967St7PUG7sFD0n) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Shooting Darts \(with R3HAB & Prezioso\)](https://open.spotify.com/album/27b3Ufr52LTyphs8s3PEZB) | 2:32 |
 | 46 | [Bang Bang](https://open.spotify.com/track/2mq1P9N8F2zVqM1FcJGia6) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Bang Bang](https://open.spotify.com/album/3JlZLUSr1NV4ODN16N9c6U) | 2:42 |
 | 47 | [Baby Steps](https://open.spotify.com/track/2omzZ5Edn2sMpQxvARgbwj) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [ISAAK](https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p) | [Baby Steps](https://open.spotify.com/album/3F3aPvdeNuZRr8HHj2N3UB) | 2:23 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 59 | [Under the Influence](https://open.spotify.com/track/6nbVuVm0K2Rg4RSkuY63hr) | [Krmoni](https://open.spotify.com/artist/0VdvafugKlyxzDZ4S7t1Dz), [Coffeeshop](https://open.spotify.com/artist/4fPtMuPhGVwUEPW9g4dJlC), [Tommy Rage](https://open.spotify.com/artist/4rjQWq7EYFvbZacPNhUPr3) | [Under the Influence](https://open.spotify.com/album/7GmeY098l16Trs88BcQeDx) | 2:45 |
 | 60 | [It's A Hard Knock Life \- Prezioso Remix](https://open.spotify.com/track/2ibx46fwgGe3u2pirSgjj7) | [D.T.E](https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [It's A Hard Knock Life \(Prezioso Remix\)](https://open.spotify.com/album/6SNomlenerzizegZNU4yoU) | 2:29 |
 
-Snapshot ID: `MCw3MGVlYzMxOWJiOGViNjg1YWI4N2NjYmNlMjJlNDQ3MGFmMThjMTJl`
+Snapshot ID: `MCwwYzJiYzkxMzA0ZWFjYjdjNDgzYWU3ZDVlMjU0NjllZjk4N2IwOGU5`

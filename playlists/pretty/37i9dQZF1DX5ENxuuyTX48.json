@@ -1,12 +1,12 @@
 {
   "description": "wru? OTW! Cover: Charlie Lim",
-  "num_followers": 18249,
+  "num_followers": 18265,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDBiYjA4M2U1YmMxMGJkZjA4ZDg1OGY1OTU5NjczZDNmZmRjZTNk",
+  "snapshot_id": "MCwyOGM2MmVlMWJmNDRmN2FjMTgyN2ZmYjlhZWIzNTRhZjVlNzJiZTAz",
   "tracks": [
     {
       "added_at": "2023-12-21 17:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-12-21 17:00:00",
       "album": {
-        "name": "Mencintaimu",
-        "url": "https://open.spotify.com/album/6sGKwCYtM7MlRkVYFWbNQY"
-      },
-      "artists": [
-        {
-          "name": "Sal Priadi",
-          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
-        }
-      ],
-      "duration_ms": 274041,
-      "name": "Mencintaimu",
-      "url": "https://open.spotify.com/track/26aNjbOgTVrFZEx7was69A"
-    },
-    {
-      "added_at": "2023-12-21 17:00:00",
-      "album": {
         "name": "Ku Ingin Pisah",
         "url": "https://open.spotify.com/album/3ngxVN1TATHxEYzefJPTQO"
       },
@@ -515,18 +499,18 @@
     {
       "added_at": "2023-12-21 17:00:00",
       "album": {
-        "name": "Tega",
-        "url": "https://open.spotify.com/album/6VbwcSfUBjsGTReD8wTh5Z"
+        "name": "Mencintaimu",
+        "url": "https://open.spotify.com/album/6sGKwCYtM7MlRkVYFWbNQY"
       },
       "artists": [
         {
-          "name": "Tiara Andini",
-          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+          "name": "Sal Priadi",
+          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
         }
       ],
-      "duration_ms": 275900,
-      "name": "Tega",
-      "url": "https://open.spotify.com/track/0aD0wrs2WlqnV3l7VXqlfM"
+      "duration_ms": 274041,
+      "name": "Mencintaimu",
+      "url": "https://open.spotify.com/track/26aNjbOgTVrFZEx7was69A"
     },
     {
       "added_at": "2023-12-21 17:00:00",
@@ -543,6 +527,22 @@
       "duration_ms": 240000,
       "name": "Diri",
       "url": "https://open.spotify.com/track/2qgjqbi96IAOBzZFC6H57U"
+    },
+    {
+      "added_at": "2023-12-21 17:00:00",
+      "album": {
+        "name": "Tega",
+        "url": "https://open.spotify.com/album/6VbwcSfUBjsGTReD8wTh5Z"
+      },
+      "artists": [
+        {
+          "name": "Tiara Andini",
+          "url": "https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm"
+        }
+      ],
+      "duration_ms": 275900,
+      "name": "Tega",
+      "url": "https://open.spotify.com/track/0aD0wrs2WlqnV3l7VXqlfM"
     },
     {
       "added_at": "2023-12-21 17:00:00",
@@ -579,26 +579,6 @@
     {
       "added_at": "2023-12-21 17:00:00",
       "album": {
-        "name": "when it all ends HERE",
-        "url": "https://open.spotify.com/album/1GqVTlNRWsjQo9b4HcuEpL"
-      },
-      "artists": [
-        {
-          "name": "Umay Shahab",
-          "url": "https://open.spotify.com/artist/1Mupz2Po4xVP1xQL8yPDGa"
-        },
-        {
-          "name": "Natania Karin",
-          "url": "https://open.spotify.com/artist/4HtAIvJXDROCWO5Bb9dL9d"
-        }
-      ],
-      "duration_ms": 285810,
-      "name": "perayaan mati rasa",
-      "url": "https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f"
-    },
-    {
-      "added_at": "2023-12-21 17:00:00",
-      "album": {
         "name": "Ada",
         "url": "https://open.spotify.com/album/6oP8VmNt84dc4Kn00FM46C"
       },
@@ -619,6 +599,26 @@
     {
       "added_at": "2023-12-21 17:00:00",
       "album": {
+        "name": "when it all ends HERE",
+        "url": "https://open.spotify.com/album/1GqVTlNRWsjQo9b4HcuEpL"
+      },
+      "artists": [
+        {
+          "name": "Umay Shahab",
+          "url": "https://open.spotify.com/artist/1Mupz2Po4xVP1xQL8yPDGa"
+        },
+        {
+          "name": "Natania Karin",
+          "url": "https://open.spotify.com/artist/4HtAIvJXDROCWO5Bb9dL9d"
+        }
+      ],
+      "duration_ms": 285810,
+      "name": "perayaan mati rasa",
+      "url": "https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f"
+    },
+    {
+      "added_at": "2023-12-21 17:00:00",
+      "album": {
         "name": "Asing",
         "url": "https://open.spotify.com/album/08pl2TGC3mp8XJ9CUfzID7"
       },
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-12-21 17:00:00",
       "album": {
-        "name": "Renung Resah",
-        "url": "https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj"
-      },
-      "artists": [
-        {
-          "name": "raissa anggiani",
-          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Itu Aku",
-      "url": "https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE"
-    },
-    {
-      "added_at": "2023-12-21 17:00:00",
-      "album": {
         "name": "Senja Teduh Pelita",
         "url": "https://open.spotify.com/album/7MOtj3C2YQZYXJDL7nInP0"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 270640,
       "name": "Senja Teduh Pelita",
       "url": "https://open.spotify.com/track/4jlhUj1aT0IxzaodNEV7xs"
+    },
+    {
+      "added_at": "2023-12-21 17:00:00",
+      "album": {
+        "name": "Renung Resah",
+        "url": "https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj"
+      },
+      "artists": [
+        {
+          "name": "raissa anggiani",
+          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Itu Aku",
+      "url": "https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE"
     },
     {
       "added_at": "2023-12-21 17:00:00",

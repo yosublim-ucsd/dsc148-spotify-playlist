@@ -1,12 +1,12 @@
 {
   "description": "Endless miles of Krautrock, Motorik Beats, Kosmische Musik, and all infinite deviations.",
-  "num_followers": 11434,
+  "num_followers": 11438,
   "original_name": "Krautrock Highway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMThhOTJhMGM2MDgxNzNjZWU0ZDljMzg5MmFlYTdiZmM5ZDIwMzIw",
+  "snapshot_id": "MCxmNzhlMjQ0OWYyYzE1ODMwMWE0MzRlNjE5OWUxNzVmZmY3YjM5YTQy",
   "tracks": [
     {
       "added_at": "2021-07-30 14:56:06",
@@ -219,6 +219,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Flying Microtonal Banana",
+        "url": "https://open.spotify.com/album/4G9ANFGk9579p2uirMbVT0"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 468093,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/4HOnIpqP8txGle3UvfjStU"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Masana Temples",
         "url": "https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 202260,
       "name": "You Look Certain (I\u2019m Not So Sure)",
       "url": "https://open.spotify.com/track/4ZW7w36xfKuH5KndE37s5C"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "Flying Microtonal Banana",
-        "url": "https://open.spotify.com/album/4G9ANFGk9579p2uirMbVT0"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 468093,
-      "name": "Rattlesnake",
-      "url": "https://open.spotify.com/track/4HOnIpqP8txGle3UvfjStU"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -383,6 +383,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "Third",
+        "url": "https://open.spotify.com/album/4BnNSzOWadogStvyYshJIo"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 387786,
+      "name": "We Carry On",
+      "url": "https://open.spotify.com/track/0ig9qLenoEShtGuX1lSb47"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Rose City Band",
         "url": "https://open.spotify.com/album/60HnmgpdTXNEQBQULnwPhs"
       },
@@ -431,18 +447,18 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Third",
-        "url": "https://open.spotify.com/album/4BnNSzOWadogStvyYshJIo"
+        "name": "A Ghost Is Born (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1f8UM82zkRXTLy7qGp4lJF"
       },
       "artists": [
         {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
         }
       ],
-      "duration_ms": 387786,
-      "name": "We Carry On",
-      "url": "https://open.spotify.com/track/0ig9qLenoEShtGuX1lSb47"
+      "duration_ms": 642200,
+      "name": "Spiders (Kidsmoke)",
+      "url": "https://open.spotify.com/track/5VT6IkQWpeXhWa7ZWjKDQp"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -459,22 +475,6 @@
       "duration_ms": 200133,
       "name": "Knickerbocker",
       "url": "https://open.spotify.com/track/2LaxQIT4heN80xHBuKOhHY"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
-        "name": "A Ghost Is Born (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1f8UM82zkRXTLy7qGp4lJF"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 642200,
-      "name": "Spiders (Kidsmoke)",
-      "url": "https://open.spotify.com/track/5VT6IkQWpeXhWa7ZWjKDQp"
     },
     {
       "added_at": "2023-03-23 21:21:38",
@@ -575,26 +575,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "You Look Certain (I\u2019m Not So Sure) [WXAXRXP Session]",
-        "url": "https://open.spotify.com/album/5NCQHHDqFyaLrUmiznDvYj"
-      },
-      "artists": [
-        {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
-        },
-        {
-          "name": "Andrea Balency",
-          "url": "https://open.spotify.com/artist/19WKgM9hPs6GwwBciAyxYF"
-        }
-      ],
-      "duration_ms": 334979,
-      "name": "You Look Certain (I\u2019m Not So Sure) - WXAXRXP Session",
-      "url": "https://open.spotify.com/track/6MNkorcBe6CHUtdddE6ytF"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Now Here Is Nowhere",
         "url": "https://open.spotify.com/album/2kNoabGHULl2qxquLyOscg"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 434989,
       "name": "Trees",
       "url": "https://open.spotify.com/track/6RTPhBy716vfQKcfCOVi3I"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "You Look Certain (I\u2019m Not So Sure) [WXAXRXP Session]",
+        "url": "https://open.spotify.com/album/5NCQHHDqFyaLrUmiznDvYj"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        },
+        {
+          "name": "Andrea Balency",
+          "url": "https://open.spotify.com/artist/19WKgM9hPs6GwwBciAyxYF"
+        }
+      ],
+      "duration_ms": 334979,
+      "name": "You Look Certain (I\u2019m Not So Sure) - WXAXRXP Session",
+      "url": "https://open.spotify.com/track/6MNkorcBe6CHUtdddE6ytF"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -707,22 +707,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Zuckerzeit",
-        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
-      },
-      "artists": [
-        {
-          "name": "Cluster",
-          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
-        }
-      ],
-      "duration_ms": 285933,
-      "name": "Hollywood",
-      "url": "https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Not The Time / Callous",
         "url": "https://open.spotify.com/album/1uXHnCnyJxEXUc8znM3gLU"
       },
@@ -737,20 +721,20 @@
       "url": "https://open.spotify.com/track/2kz4JUPAQLcaViOVgYxzfF"
     },
     {
-      "added_at": "2023-03-23 21:21:38",
+      "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Ghost Power",
-        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
+        "name": "Zuckerzeit",
+        "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
       },
       "artists": [
         {
-          "name": "Ghost Power",
-          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
+          "name": "Cluster",
+          "url": "https://open.spotify.com/artist/5mNY0NPszdalbrb4ITO3M8"
         }
       ],
-      "duration_ms": 221701,
-      "name": "Asteroid Witch",
-      "url": "https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn"
+      "duration_ms": 285933,
+      "name": "Hollywood",
+      "url": "https://open.spotify.com/track/741KQX9BobWT2bV5s5nO2D"
     },
     {
       "added_at": "2022-08-09 01:36:21",
@@ -771,6 +755,22 @@
       "duration_ms": 646683,
       "name": "Simple Headphone Mind",
       "url": "https://open.spotify.com/track/1lkxzamwyP2Th5HMmcmeS7"
+    },
+    {
+      "added_at": "2023-03-23 21:21:38",
+      "album": {
+        "name": "Ghost Power",
+        "url": "https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d"
+      },
+      "artists": [
+        {
+          "name": "Ghost Power",
+          "url": "https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8"
+        }
+      ],
+      "duration_ms": 221701,
+      "name": "Asteroid Witch",
+      "url": "https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -807,38 +807,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "BGM",
-        "url": "https://open.spotify.com/album/5ouO0cdsV0laOO5u6jWHk4"
-      },
-      "artists": [
-        {
-          "name": "YELLOW MAGIC ORCHESTRA",
-          "url": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
-        }
-      ],
-      "duration_ms": 272840,
-      "name": "\u30ad\u30e5\u30fc",
-      "url": "https://open.spotify.com/track/15beQw4bH4fePS8oAE2Yef"
-    },
-    {
-      "added_at": "2023-03-23 20:53:14",
-      "album": {
-        "name": "Matters",
-        "url": "https://open.spotify.com/album/3T0gHeXi1e900Bb9eue4e5"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00f6st",
-          "url": "https://open.spotify.com/artist/0thj1Xly1i0lA2XKQLH9gE"
-        }
-      ],
-      "duration_ms": 209630,
-      "name": "Record Still Spinning",
-      "url": "https://open.spotify.com/track/6h2jvV3Gwg6onowB0366IB"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Murder of the Universe",
         "url": "https://open.spotify.com/album/2y5bwmtV2nSBUrVoWzGXmS"
       },
@@ -855,6 +823,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "BGM",
+        "url": "https://open.spotify.com/album/5ouO0cdsV0laOO5u6jWHk4"
+      },
+      "artists": [
+        {
+          "name": "YELLOW MAGIC ORCHESTRA",
+          "url": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
+        }
+      ],
+      "duration_ms": 272840,
+      "name": "\u30ad\u30e5\u30fc",
+      "url": "https://open.spotify.com/track/15beQw4bH4fePS8oAE2Yef"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Zuckerzeit",
         "url": "https://open.spotify.com/album/0g1Qjt5r2u56wtvqXDC0pb"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 189040,
       "name": "Caramel",
       "url": "https://open.spotify.com/track/2OqsnTNCy43fwWAVmkiJj8"
+    },
+    {
+      "added_at": "2023-03-23 20:53:14",
+      "album": {
+        "name": "Matters",
+        "url": "https://open.spotify.com/album/3T0gHeXi1e900Bb9eue4e5"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00f6st",
+          "url": "https://open.spotify.com/artist/0thj1Xly1i0lA2XKQLH9gE"
+        }
+      ],
+      "duration_ms": 209630,
+      "name": "Record Still Spinning",
+      "url": "https://open.spotify.com/track/6h2jvV3Gwg6onowB0366IB"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "No Shouts, No Calls",
-        "url": "https://open.spotify.com/album/0l9mVAWNzHKX0B7o9IEIeB"
-      },
-      "artists": [
-        {
-          "name": "Electrelane",
-          "url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
-        }
-      ],
-      "duration_ms": 295026,
-      "name": "To the East",
-      "url": "https://open.spotify.com/track/1OfR8T0YBBwKXxt7nbAJaT"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Empty Estate",
         "url": "https://open.spotify.com/album/6jQGv6CXR9quOlin4TDvTq"
       },
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
+        "name": "No Shouts, No Calls",
+        "url": "https://open.spotify.com/album/0l9mVAWNzHKX0B7o9IEIeB"
+      },
+      "artists": [
+        {
+          "name": "Electrelane",
+          "url": "https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY"
+        }
+      ],
+      "duration_ms": 295026,
+      "name": "To the East",
+      "url": "https://open.spotify.com/track/1OfR8T0YBBwKXxt7nbAJaT"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
         "name": "Ege Bamyasi (Remastered Version)",
         "url": "https://open.spotify.com/album/3Qa2CdymyGvXkqoqIZykmT"
       },
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "Creatures of an Hour",
-        "url": "https://open.spotify.com/album/7jD6Vz4DvhpjJ6x16oWv1y"
-      },
-      "artists": [
-        {
-          "name": "Still Corners",
-          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
-        }
-      ],
-      "duration_ms": 247465,
-      "name": "Submarine",
-      "url": "https://open.spotify.com/track/7r7xmYxgBhwCDvgKzNwj4p"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Haha Sound",
         "url": "https://open.spotify.com/album/7LhYW5INITQKexibfDCmtP"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 261426,
       "name": "Pendulum",
       "url": "https://open.spotify.com/track/6hbP2Xs5W0SVvepjLWnTeL"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "Creatures of an Hour",
+        "url": "https://open.spotify.com/album/7jD6Vz4DvhpjJ6x16oWv1y"
+      },
+      "artists": [
+        {
+          "name": "Still Corners",
+          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
+        }
+      ],
+      "duration_ms": 247465,
+      "name": "Submarine",
+      "url": "https://open.spotify.com/track/7r7xmYxgBhwCDvgKzNwj4p"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1241,22 +1241,6 @@
       "url": "https://open.spotify.com/track/1pcfHrnFMKvWN5V5HIRefT"
     },
     {
-      "added_at": "2022-03-29 02:06:14",
-      "album": {
-        "name": "QUAKENBR\u00dcCK [Version]",
-        "url": "https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7"
-      },
-      "artists": [
-        {
-          "name": "Bitchin Bajas",
-          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
-        }
-      ],
-      "duration_ms": 279601,
-      "name": "Quakenbr\u00fcck - version",
-      "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "Ohms",
@@ -1271,6 +1255,22 @@
       "duration_ms": 136426,
       "name": "State of Clear",
       "url": "https://open.spotify.com/track/1RpcIabGrqPQQe1jSHwpna"
+    },
+    {
+      "added_at": "2022-03-29 02:06:14",
+      "album": {
+        "name": "QUAKENBR\u00dcCK [Version]",
+        "url": "https://open.spotify.com/album/6LkHBWg8yy3FUH0cA88Tn7"
+      },
+      "artists": [
+        {
+          "name": "Bitchin Bajas",
+          "url": "https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I"
+        }
+      ],
+      "duration_ms": 279601,
+      "name": "Quakenbr\u00fcck - version",
+      "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
     },
     {
       "added_at": "2022-03-18 05:36:55",
@@ -1373,22 +1373,6 @@
       "url": "https://open.spotify.com/track/6Nwp612WhVxuIVwbxKqUKH"
     },
     {
-      "added_at": "2023-09-04 19:37:16",
-      "album": {
-        "name": "Bang",
-        "url": "https://open.spotify.com/album/3aF0MSTARYcK5kPlE6KXvY"
-      },
-      "artists": [
-        {
-          "name": "Melenas",
-          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
-        }
-      ],
-      "duration_ms": 310093,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/6vp9GwKIXt60WV3QxsemRN"
-    },
-    {
       "added_at": "2021-07-30 14:56:06",
       "album": {
         "name": "The Power Out",
@@ -1435,6 +1419,22 @@
       "duration_ms": 566520,
       "name": "F\u00fcr Dich",
       "url": "https://open.spotify.com/track/2NpCvpwdrxQ6y6LQ8jQo43"
+    },
+    {
+      "added_at": "2023-09-04 19:37:16",
+      "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/3aF0MSTARYcK5kPlE6KXvY"
+      },
+      "artists": [
+        {
+          "name": "Melenas",
+          "url": "https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f"
+        }
+      ],
+      "duration_ms": 310093,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/6vp9GwKIXt60WV3QxsemRN"
     },
     {
       "added_at": "2021-07-30 14:56:06",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2021-07-30 14:56:06",
       "album": {
-        "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 1",
-        "url": "https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ"
-      },
-      "artists": [
-        {
-          "name": "Kosmischer L\u00e4ufer",
-          "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
-        }
-      ],
-      "duration_ms": 386173,
-      "name": "Sandtrommel",
-      "url": "https://open.spotify.com/track/4IkU7Se7vWYxQPqPMday4O"
-    },
-    {
-      "added_at": "2021-07-30 14:56:06",
-      "album": {
         "name": "Axes",
         "url": "https://open.spotify.com/album/6URJwDxKSs8MWXm8WnMcTk"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 278026,
       "name": "Bells",
       "url": "https://open.spotify.com/track/7MeZ2vkj3UNOsMiekKRbGM"
+    },
+    {
+      "added_at": "2021-07-30 14:56:06",
+      "album": {
+        "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 1",
+        "url": "https://open.spotify.com/album/2hWjO2b5jqAym0JfquVvNQ"
+      },
+      "artists": [
+        {
+          "name": "Kosmischer L\u00e4ufer",
+          "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
+        }
+      ],
+      "duration_ms": 386173,
+      "name": "Sandtrommel",
+      "url": "https://open.spotify.com/track/4IkU7Se7vWYxQPqPMday4O"
     },
     {
       "added_at": "2021-07-30 14:56:06",

@@ -4,11 +4,11 @@
 
 > This is Inspector\. The essential tracks, all in one playlist.
 
-64 songs - 3 hr 58 min
+65 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ["Lamba Do Ska" \(Llorando Se Fue\)](https://open.spotify.com/track/6KNGqIRhE44Cf56dvcgi1l) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 3:48 | 2023-01-14 |  |
+| ["Lamba Do Ska" \(Llorando Se Fue\)](https://open.spotify.com/track/6KNGqIRhE44Cf56dvcgi1l) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 3:48 | 2023-01-14 | 2023-12-26 |
 | [Alma En Fuego](https://open.spotify.com/track/5Jk1TpnDH4MzaOg05NMiKO) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Unidad, Cerveza y Ska](https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd) | 4:07 | 2023-01-14 | 2023-09-16 |
 | [Amar O Morir](https://open.spotify.com/track/0WGw8hRQjJFwz0fNyrj91A) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspección Retroacústica](https://open.spotify.com/album/6BPO85IdQxuZ1TtoiM7ysk) | 3:56 | 2023-01-14 |  |
 | [Amargo Adiós](https://open.spotify.com/track/0zCOT028cU3DeCqN1G18wE) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 3:48 | 2023-01-14 |  |
@@ -29,6 +29,7 @@
 | [Deja Ya de Mentir](https://open.spotify.com/track/50g55TOo4ZYIaKeWEaMKGB) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Lollypop Lorry](https://open.spotify.com/artist/78fGkSqH726lfIWGxSg6uX) | [A2í 5uena!, Vol 1](https://open.spotify.com/album/32IXwoxYqeTDQSZd2H9PIS) | 3:13 | 2023-04-01 |  |
 | [Dolor en el Sur](https://open.spotify.com/track/26G3ejHXZlHm1o2GTaCqUr) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Blanco y Negro](https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika) | 3:56 | 2023-01-14 | 2023-07-10 |
 | [El Amargado](https://open.spotify.com/track/6MxqbiUTPF5FmNPJfIkwAH) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Serpientes Y Escaleras](https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ) | 3:44 | 2023-09-09 |  |
+| [El Año Viejo \(feat\. Celso Piña\)](https://open.spotify.com/track/4vTtvXQ1ZsQ01OBFDB0CuP) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 3:18 | 2023-12-25 |  |
 | [El Dejado](https://open.spotify.com/track/0O9DNo4Mj9hvxuPFnlZhss) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [Los Skarnales](https://open.spotify.com/artist/0Fs8ncEYnVSmzepxUocr5n) | [El Dejado](https://open.spotify.com/album/3mCVfLCdPULRjC1bAdbatI) | 4:56 | 2023-01-14 |  |
 | [El Relato](https://open.spotify.com/track/7dLsthrW8ROlkLeOTglRsz) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 3:33 | 2023-08-07 |  |
 | [Es Por Ti](https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:35 | 2023-01-14 |  |

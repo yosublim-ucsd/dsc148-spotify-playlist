@@ -4,7 +4,7 @@
 
 > baby look at the sky \*\*\*<br/>cover: Juliet Ivy
 
-1,887 songs - 3 day 23 hr 27 min
+1,888 songs - 3 day 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -838,6 +838,7 @@
 | [I Won't Bite](https://open.spotify.com/track/3NJe9t6oxZgzErlBrWDuKx) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6) | [I Won't Bite](https://open.spotify.com/album/6qn9Deaiebh89YVpukAhcX) | 4:17 | 2022-03-04 | 2022-03-26 |
 | [I Would Probably Hate You](https://open.spotify.com/track/6cZRlGzpks6vcWAidMAb88) | [Jules Paymer](https://open.spotify.com/artist/5RsYo1rckHPH2ERWm3tGeS) | [I Would Probably Hate You](https://open.spotify.com/album/7iM4xNI1QxQP3MuCLGQDCA) | 3:00 | 2022-06-06 | 2022-07-29 |
 | [I Wouldn't Love Me](https://open.spotify.com/track/6UaXAuHztXaCePnBNZdUPS) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [I Wouldn't Love Me](https://open.spotify.com/album/7l2SSvHuReN5yS6gdf8FFZ) | 2:16 | 2023-06-23 | 2023-09-16 |
+| [I WRITE SONGS ABOUT YOU](https://open.spotify.com/track/0qYeqpxqxQB7VSegLNRBRc) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [CATALYST\- EP](https://open.spotify.com/album/6gyeFXC2dYLrU3O0tovWqC) | 2:14 | 2023-12-08 |  |
 | [i'm drunk and i miss you still \(feat\. 1nonly & lilbubblegum\)](https://open.spotify.com/track/6zWJc78D3bIkRM8e7sopl9) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [i'm drunk and i miss you still \(feat\. 1nonly & lilbubblegum\)](https://open.spotify.com/album/7bjCPBwFKkM1nZpldVF6Pl) | 2:54 | 2021-02-22 | 2021-05-28 |
 | [I'm Good](https://open.spotify.com/track/5Qlsugh2ZVlaOgPSHpI8D7) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [I'm Good](https://open.spotify.com/album/4XJE2ic3Z1Ir4ylBaKVVnU) | 3:37 | 2019-05-26\* | 2019-08-13 |
 | [I'm Good \(feat\. charlieonnafriday\)](https://open.spotify.com/track/3FUbt6McYmAEx3vQusM97c) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG), [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [I'm Good \(feat\. charlieonnafriday\)](https://open.spotify.com/album/6pRTGGtSp7KcnT7qOo2PLn) | 2:45 | 2023-07-07 |  |
@@ -1091,7 +1092,7 @@
 | [Miss Independent \- Spotify Singles](https://open.spotify.com/track/3gbeY1MzOJ5X7SWItYD0jk) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Spotify Singles](https://open.spotify.com/album/62LIDyIEMgZU8c7oyGHAhL) | 3:32 | 2023-06-16 | 2023-07-31 |
 | [Miss Me Too](https://open.spotify.com/track/3BxbORnLyAri7AhJS8a2G1) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Crush\(ed\)](https://open.spotify.com/album/1ywjVKTQbH3wRO6EwFbbEG) | 2:30 | 2022-10-28 | 2022-12-24 |
 | [Miss Me Too](https://open.spotify.com/track/7dCZc6VWhdROmkol6ZlBOr) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Miss Me Too](https://open.spotify.com/album/0DYdkkaZ6fjwmJ0pVAfOxB) | 2:30 | 2022-10-21 | 2022-10-30 |
-| [missin u](https://open.spotify.com/track/4TQCxVR2rmR3ozusDumesX) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [missin u](https://open.spotify.com/album/6ZkHlcIqV4N7cNyqNtvpNk) | 2:57 | 2023-03-17 |  |
+| [missin u](https://open.spotify.com/track/4TQCxVR2rmR3ozusDumesX) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [missin u](https://open.spotify.com/album/6ZkHlcIqV4N7cNyqNtvpNk) | 2:57 | 2023-03-17 | 2023-12-26 |
 | [Missing Somebody](https://open.spotify.com/track/7sdBSpr1CRXtPE6yjKLDk2) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [This Is How The World Made Me](https://open.spotify.com/album/3ttrsJgrYIHhpbk1p85TGs) | 3:19 | 2022-06-24 | 2022-06-28 |
 | [Mistake](https://open.spotify.com/track/6N5gf2cpBr7oZxwSaHkoIq) | [Bambi Bains](https://open.spotify.com/artist/2HspNtajToyPB9hjki4CVV) | [Mistake](https://open.spotify.com/album/7GrUYjKiUFLPrrMKtt0Osf) | 3:33 | 2022-05-06 | 2022-06-20 |
 | [Mistake](https://open.spotify.com/track/3cKEPwsUlavywIrz3yjfw4) | [Sawyer](https://open.spotify.com/artist/0kWDZRay8upBU5u89Kmc7F) | [Mistake](https://open.spotify.com/album/0C9TJmoKVNAcdnQxr6BmHh) | 2:28 | 2022-10-28 | 2023-02-11 |

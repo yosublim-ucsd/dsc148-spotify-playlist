@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 
 > This is Flo Milli\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,896 likes - 51 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,908 likes - 51 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 19 | [Whole Family \(feat\. Flo Milli\)](https://open.spotify.com/track/59COzThWJAOeIM6SBItYZI) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Whole Family \(feat\. Flo Milli\)](https://open.spotify.com/album/1F0Q3jnivsGYle3Kl36aSJ) | 2:26 |
 | 20 | [Anything Flows \(feat\. Maiya The Don, 2Rare & Kari Faux\)](https://open.spotify.com/track/5MnqugWyPeiodmvBbFIZ6m) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ), [Kari Faux](https://open.spotify.com/artist/4c2ighP1wj8E5dVGJDCOiB) | [Anything Flows \(feat\. Maiya The Don, 2Rare & Kari Faux\)](https://open.spotify.com/album/60LPFmZ5vcbDBZRexNZ9c1) | 3:18 |
 | 21 | [B.T.W](https://open.spotify.com/track/3oBZ28fHxN2N3MHhUCav0M) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [B.T.W](https://open.spotify.com/album/663RYnWALwCApODIwyqG1d) | 2:04 |
-| 22 | [Pretty Girls](https://open.spotify.com/track/2u3hKhl5ltq0gbFo8ivsbB) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:18 |
-| 23 | [Plain \(feat\. Lily Allen & Flo Milli\)](https://open.spotify.com/track/4CwcIiZQvy4d9SxAUn5OaJ) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:51 |
-| 24 | [Clap For 'Em \(feat\. Flo Milli & Sada Baby\)](https://open.spotify.com/track/5caZgotE4D6elZpd5S4wlX) | [YungManny](https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Clap For 'Em \(feat\. Flo Milli & Sada Baby\)](https://open.spotify.com/album/7nYMFoZJEsTdliAf5MUQvJ) | 2:05 |
+| 22 | [Plain \(feat\. Lily Allen & Flo Milli\)](https://open.spotify.com/track/4CwcIiZQvy4d9SxAUn5OaJ) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:51 |
+| 23 | [Clap For 'Em \(feat\. Flo Milli & Sada Baby\)](https://open.spotify.com/track/5caZgotE4D6elZpd5S4wlX) | [YungManny](https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Clap For 'Em \(feat\. Flo Milli & Sada Baby\)](https://open.spotify.com/album/7nYMFoZJEsTdliAf5MUQvJ) | 2:05 |
+| 24 | [Pretty Girls](https://open.spotify.com/track/2u3hKhl5ltq0gbFo8ivsbB) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:18 |
 | 25 | [No Love Shemix](https://open.spotify.com/track/3aSmunIOrv4HRHXeMYT2Ob) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ), [J.K\. Mac](https://open.spotify.com/artist/5kztDpSaIqaQ5nHdDoTIlq) | [No Love Shemix](https://open.spotify.com/album/7iRhbI7T7e0YDwd48qF8gi) | 3:17 |
 | 26 | [Not Friendly](https://open.spotify.com/track/2le8xbpMJ1aA0SpJZRMbRw) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ho, why is you here ?](https://open.spotify.com/album/49FIsErcdC5rfTFhRpPZ7P) | 3:54 |
 | 27 | [Roaring 20s](https://open.spotify.com/track/5N4oNpf3YH76vNhXKc5usy) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Roaring 20s](https://open.spotify.com/album/6o4bP0wIOQVPgtaKOHO3af) | 2:09 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 50 | [Toot It Up](https://open.spotify.com/track/654vCNETmkVbg5vpD38OUj) | [Sally Sossa](https://open.spotify.com/artist/58q28H7IgX06YXkPvUtGgR), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [4EVER SOSSA](https://open.spotify.com/album/7DB5LVm0cNsq3fJp6JGWeM) | 2:49 |
 | 51 | [Cherry \- Remix](https://open.spotify.com/track/1QsxMw8pGrJ9juETzspO3g) | [Almondmilkhunni](https://open.spotify.com/artist/778bhPsYwr6sAELsBBX8MC), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Cherry \(Remix\)](https://open.spotify.com/album/1ojIoYoDIciIGMgaSEs2Rr) | 2:12 |
 
-Snapshot ID: `MjgzOTAyOTIsMDAwMDAwMDBlZGY0NDE2MDE4ZGI0ZjFkM2FmMGQ5MjRhOGEzOWJlNg==`
+Snapshot ID: `MjgzOTE3MzQsMDAwMDAwMDBkMjEwNjE5ZTc3ZTM1MzdiMGVmMGY2MTgzYWMzYjkxNg==`

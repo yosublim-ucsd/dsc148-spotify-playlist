@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 
 > Jungle is still massive!
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,504 likes - 50 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,517 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 5 | [Vérité](https://open.spotify.com/track/35IlONRZh770GBVlnU1lc9) | [Sully](https://open.spotify.com/artist/6ryGFEDvM7703b889hPUFZ) | [Vérité](https://open.spotify.com/album/2dJX4pK9GkznEQyYbxocAB) | 5:48 |
 | 6 | [BMW Track](https://open.spotify.com/track/1dkaug0lOb0SEd4H7jfTvl) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [BMW Track](https://open.spotify.com/album/5kCMzwAQ2IipDAYmUUt1Qn) | 7:23 |
 | 7 | [Show Me](https://open.spotify.com/track/6wBXGUAcDsK3T7fidop2Gc) | [Jubei](https://open.spotify.com/artist/748MGeLsgxl6GVGuDvHbsY), [dBridge](https://open.spotify.com/artist/4G1BTcGLvvsItegHSvBH0y) | [Show Me](https://open.spotify.com/album/6tUgcJ42LlOwmQiUEuaYhF) | 4:33 |
-| 8 | [Consume Me](https://open.spotify.com/track/1YI9fO96xKOVCijqjztRhm) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Beautiful Presents: Beautiful Vol\. 1](https://open.spotify.com/album/4kSUZA5yg18mmOVE1dY6sY) | 3:17 |
-| 9 | [Bridging Mechanics](https://open.spotify.com/track/1HNBnJhWryX0mbQBDwOdka) | [Pépe](https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ) | [gayphextwin/Pépe](https://open.spotify.com/album/5nF9wHwhNxfXtyYHtV4ueg) | 5:58 |
-| 10 | [What You Wanna Do](https://open.spotify.com/track/6OhicWRzXoGeTrGk0S0KxE) | [Submerse](https://open.spotify.com/artist/6iNVICWoG8BfqoyejEQdpF) | [What You Wanna Do / Good Lookin Out](https://open.spotify.com/album/3HrGqKUzRW8TzjH6UUUp9K) | 3:27 |
+| 8 | [Bridging Mechanics](https://open.spotify.com/track/1HNBnJhWryX0mbQBDwOdka) | [Pépe](https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ) | [gayphextwin/Pépe](https://open.spotify.com/album/5nF9wHwhNxfXtyYHtV4ueg) | 5:58 |
+| 9 | [What You Wanna Do](https://open.spotify.com/track/6OhicWRzXoGeTrGk0S0KxE) | [Submerse](https://open.spotify.com/artist/6iNVICWoG8BfqoyejEQdpF) | [What You Wanna Do / Good Lookin Out](https://open.spotify.com/album/3HrGqKUzRW8TzjH6UUUp9K) | 3:27 |
+| 10 | [Gold Soul](https://open.spotify.com/track/2puGT4f9oJn6drCWQvWsPe) | [Nectax](https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf) | [Gold Soul](https://open.spotify.com/album/6gq5UMNlJ6XX5xghGm1DVh) | 4:51 |
 | 11 | [On the Flip \- Synkro's Ambient Jungle Flip](https://open.spotify.com/track/6d6dPslSIy1xu34XlfE1Tj) | [Speckman](https://open.spotify.com/artist/6HMaWR5x7y2AYCWydAipj7), [Synkro](https://open.spotify.com/artist/4B5oxjbZ2CClTNt8iEiC4n) | [On the Flip \(Synkro's Ambient Jungle Flip\)](https://open.spotify.com/album/46RaJyyWg5I3Y8cctEBDf0) | 9:00 |
-| 12 | [Gold Soul](https://open.spotify.com/track/2puGT4f9oJn6drCWQvWsPe) | [Nectax](https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf) | [Gold Soul](https://open.spotify.com/album/6gq5UMNlJ6XX5xghGm1DVh) | 4:51 |
+| 12 | [Consume Me](https://open.spotify.com/track/1YI9fO96xKOVCijqjztRhm) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Beautiful Presents: Beautiful Vol\. 1](https://open.spotify.com/album/4kSUZA5yg18mmOVE1dY6sY) | 3:17 |
 | 13 | [Surfing The Anxiety Waves](https://open.spotify.com/track/6tbQHnuPgy7m4ElWYhr9tP) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Surfing The Anxiety Waves](https://open.spotify.com/album/0XcdWrmdAbRkGuXNKjbEMQ) | 4:03 |
 | 14 | [War Drum Riddim](https://open.spotify.com/track/5LseY3WYQPxMiRxN0rYkPp) | [Hugh Hardie](https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW), [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG) | [War Drum Riddim](https://open.spotify.com/album/5BGpY2e5DnJqK67GXno6tv) | 3:18 |
 | 15 | [Who Started Jungle](https://open.spotify.com/track/6n15iBMrAgeAhiCSF0iFUs) | [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [To the Core](https://open.spotify.com/album/5jg7MkaU3gRhwufJRjxgeP) | 4:00 |
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 37 | [Loss of Self Identity](https://open.spotify.com/track/5dX5ocS9rXxhnFDsnAFx2q) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Loss of Self Identity](https://open.spotify.com/album/7GTZWxrsEtMaUQ8xyforOg) | 4:26 |
 | 38 | [Close Proximity](https://open.spotify.com/track/316jcVxjSLAM4oCwoTJhs8) | [Mani Festo](https://open.spotify.com/artist/5Uhy5m7C7k0TaJsDy6yQNg) | [SNKRX07](https://open.spotify.com/album/6acE2p1yUmLXPupsrzrXLg) | 8:34 |
 | 39 | [Invisible Shell of Energy](https://open.spotify.com/track/06WdIZPB6gyGtCxAWDw1yQ) | [THUGWIDOW](https://open.spotify.com/artist/3tELV0yYAVL2YapPUThKJ1) | [Post Modern](https://open.spotify.com/album/0XxxGfjHfPm5cWCxzb3LcH) | 6:42 |
-| 40 | [Cloud Busting](https://open.spotify.com/track/626yGgf3EhAd2FEYyZljIi) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Cloud Busting / Octopus](https://open.spotify.com/album/5vILT1JDVDMq9SaxaPfRz3) | 6:50 |
-| 41 | [Myth & Fire](https://open.spotify.com/track/1lNYFUJp7Uu3lAGQk4qxCi) | [Dead Man's Chest](https://open.spotify.com/artist/4iTe4cVejrjgGipSNujZgG) | [Myth & Fire](https://open.spotify.com/album/1PcFFp5G1xFZDP2woQYc7d) | 7:42 |
+| 40 | [Myth & Fire](https://open.spotify.com/track/1lNYFUJp7Uu3lAGQk4qxCi) | [Dead Man's Chest](https://open.spotify.com/artist/4iTe4cVejrjgGipSNujZgG) | [Myth & Fire](https://open.spotify.com/album/1PcFFp5G1xFZDP2woQYc7d) | 7:42 |
+| 41 | [Cloud Busting](https://open.spotify.com/track/626yGgf3EhAd2FEYyZljIi) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Cloud Busting / Octopus](https://open.spotify.com/album/5vILT1JDVDMq9SaxaPfRz3) | 6:50 |
 | 42 | [Elysian Fields \- Tim Reaper Remix](https://open.spotify.com/track/39Z0mirXM0t0G61M8LLvPq) | [Special Request](https://open.spotify.com/artist/59xdAObFYuaKO2phzzz07H), [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd) | [Hooversound Presents: Special Request and Tim Reaper](https://open.spotify.com/album/6Q2HpsQaIOENWkvc2wo1L3) | 6:52 |
-| 43 | [Black Rave Culture](https://open.spotify.com/track/5GC1sO0S9cFUGqnhZ3kxDC) | [Black Rave Culture](https://open.spotify.com/artist/2bKneBiy41WYebpWATs5NS) | [Black Rave Culture](https://open.spotify.com/album/0BBcuJVrHGYrisoIZa3Om9) | 3:25 |
-| 44 | [Drivin' Me Crazy](https://open.spotify.com/track/35E37Gwk2fCeryQDE8iwLV) | [Particle](https://open.spotify.com/artist/7rLJelomw75vyEpt1HwwP0) | [Drivin' Me Crazy](https://open.spotify.com/album/5fMCnPA5dfRfG7cddhSGUQ) | 3:38 |
+| 43 | [Drivin' Me Crazy](https://open.spotify.com/track/35E37Gwk2fCeryQDE8iwLV) | [Particle](https://open.spotify.com/artist/7rLJelomw75vyEpt1HwwP0) | [Drivin' Me Crazy](https://open.spotify.com/album/5fMCnPA5dfRfG7cddhSGUQ) | 3:38 |
+| 44 | [Black Rave Culture](https://open.spotify.com/track/5GC1sO0S9cFUGqnhZ3kxDC) | [Black Rave Culture](https://open.spotify.com/artist/2bKneBiy41WYebpWATs5NS) | [Black Rave Culture](https://open.spotify.com/album/0BBcuJVrHGYrisoIZa3Om9) | 3:25 |
 | 45 | [Yes, Ok?](https://open.spotify.com/track/6TfEn8jq0laP1hN0pw1Clf) | [Beep Tzt](https://open.spotify.com/artist/0OPS6KMivVzxP2moJjMvSS) | [Beep Tzt](https://open.spotify.com/album/3RSLqqDvm5YYXjytf1sMle) | 7:56 |
 | 46 | [Breakout \(Radio Edit\)](https://open.spotify.com/track/7BEW3kDFsv5ZrcI038JQHz) | [Phaeleh](https://open.spotify.com/artist/5NkUpXWkeXspvu7iQQOHhP) | [Breakout](https://open.spotify.com/album/1CUTjQ5IGKUZ87EAEMzDXl) | 3:29 |
 | 47 | [DANGER!](https://open.spotify.com/track/7FW0vBBn9JB364K2aUOWCp) | [Good Luck](https://open.spotify.com/artist/4qjYf4FY77csjIalUFicQS) | [DANGER!](https://open.spotify.com/album/0A2QLAw1OqmIUleF57n52T) | 2:56 |
 | 48 | [Stretchpants](https://open.spotify.com/track/2EAYnPgqUx33xH4d1pOnJL) | [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd), [Dwarde](https://open.spotify.com/artist/6Yj4KzTFxItt3bGK9DuX4O) | [Stretchpants](https://open.spotify.com/album/64m3AzlGBOriNpCM8jTLd9) | 6:04 |
 | 49 | [Casca](https://open.spotify.com/track/4Qu41yeeAQ3bCQ4Dd8JUuG) | [Pugilist](https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S), [Tamen](https://open.spotify.com/artist/2HVIdpqXvq82kEqaXzWIc6) | [Casca EP](https://open.spotify.com/album/3M4zL1J2RN7sZrRb4LcG4j) | 5:55 |
-| 50 | [1 Million Breaks](https://open.spotify.com/track/11CNiCDrhdElGjJB53Pxuv) | [AceMoMa](https://open.spotify.com/artist/5igyz9vWH6ban6NMfKeCir), [AceMo](https://open.spotify.com/artist/2NArTWfXN317Ok1Ale3xkX), [MoMa Ready](https://open.spotify.com/artist/5X6LaznpXYDwhSt5eirvRV) | [A Future](https://open.spotify.com/album/0DJkcrqqnMlkHt2ybbz7Qn) | 6:55 |
+| 50 | [Memories](https://open.spotify.com/track/4ODFIOLukNMkAP2SQTnuBj) | [Lugovskiy](https://open.spotify.com/artist/6wozPdzuBdOnDCoesMPIkT) | [Memories](https://open.spotify.com/album/3BwiqqO6tBI5j4LoqiHJy6) | 3:15 |
 
-Snapshot ID: `MCxhNzg5YWVmZWY1MDQ5OTNiN2M2NDY2ZDRhM2EwMzAwMmIxYWYwMzgz`
+Snapshot ID: `MCxjMjI4OWQwMzk5OWQ0NjRiYjgyNGJiNzJiN2IyMTVmYzdjZGMzYTYy`

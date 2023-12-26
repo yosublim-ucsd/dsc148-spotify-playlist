@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "HEART BEAT",
+        "url": "https://open.spotify.com/album/2af8DYGcIT3jG1aC0sC2sF"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335465,
+      "name": "HEART BEAT",
+      "url": "https://open.spotify.com/track/3J99JXowSczha1Cp0LtFoc"
+    },
+    {
+      "album": {
         "name": "Idol",
         "url": "https://open.spotify.com/album/2t5eAUqMwN0Kb2JGTxW2w0"
       },

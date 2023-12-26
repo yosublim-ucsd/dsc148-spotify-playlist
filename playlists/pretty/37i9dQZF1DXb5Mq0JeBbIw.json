@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 6383,
+  "num_followers": 6403,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzY4YmU0ODc4NDNiYzFkNTNhNTYzMTUwNjU3YWQ5NDk0MTM4NWFk",
+  "snapshot_id": "MCw3YTgzNDcwMWUyNGJhYjNiMmQ4NjVmZTI5NTI5ZjFkYWY1YWYyNDFm",
   "tracks": [
     {
       "added_at": "2023-10-10 12:23:51",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Issues (Acoustic)",
-        "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 175280,
-      "name": "Issues - Acoustic",
-      "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Stranger in the Alps (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 232373,
       "name": "Funeral",
       "url": "https://open.spotify.com/track/4GvdsVns332wQ3JsWAg2OV"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Issues (Acoustic)",
+        "url": "https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 175280,
+      "name": "Issues - Acoustic",
+      "url": "https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -401,22 +401,6 @@
       "url": "https://open.spotify.com/track/5sVyefkGgQeYCgnqr4KslQ"
     },
     {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Pearl",
-        "url": "https://open.spotify.com/album/0fKvusBkfI3ObQrICo9TwN"
-      },
-      "artists": [
-        {
-          "name": "Ellen Krauss",
-          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
-        }
-      ],
-      "duration_ms": 191386,
-      "name": "The One I Love",
-      "url": "https://open.spotify.com/track/7nCkMU8PCIACMpMgvp82JJ"
-    },
-    {
       "added_at": "2023-02-24 11:06:00",
       "album": {
         "name": "Mean It",
@@ -431,6 +415,22 @@
       "duration_ms": 171138,
       "name": "Mean It",
       "url": "https://open.spotify.com/track/5IyuGEmlFsnp1TN1M9OSd8"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Pearl",
+        "url": "https://open.spotify.com/album/0fKvusBkfI3ObQrICo9TwN"
+      },
+      "artists": [
+        {
+          "name": "Ellen Krauss",
+          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
+        }
+      ],
+      "duration_ms": 191386,
+      "name": "The One I Love",
+      "url": "https://open.spotify.com/track/7nCkMU8PCIACMpMgvp82JJ"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Please Keep Loving Me (Acoustic)",
-        "url": "https://open.spotify.com/album/12EsSwU4gUwWmSaM6ziFxX"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 197626,
-      "name": "Please Keep Loving Me - Acoustic",
-      "url": "https://open.spotify.com/track/6lay0FicAbIevv4Oxfv4Bz"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 181897,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/0v1yN5C75um5Wx2WPtFl6k"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Please Keep Loving Me (Acoustic)",
+        "url": "https://open.spotify.com/album/12EsSwU4gUwWmSaM6ziFxX"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 197626,
+      "name": "Please Keep Loving Me - Acoustic",
+      "url": "https://open.spotify.com/track/6lay0FicAbIevv4Oxfv4Bz"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Fill Me Up",
-        "url": "https://open.spotify.com/album/2YR8pbTnU6vA1rOfTFwU14"
-      },
-      "artists": [
-        {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
-        }
-      ],
-      "duration_ms": 154560,
-      "name": "Fill Me Up",
-      "url": "https://open.spotify.com/track/2EsqgX8ZfyZrJqVTAowTvY"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Mystery",
         "url": "https://open.spotify.com/album/0c9oFRyzGPgAPQZ5Oj9TLe"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 192573,
       "name": "Sorrow",
       "url": "https://open.spotify.com/track/18iNTpD8inRf8iWDcDCFbH"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Fill Me Up",
+        "url": "https://open.spotify.com/album/2YR8pbTnU6vA1rOfTFwU14"
+      },
+      "artists": [
+        {
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+        }
+      ],
+      "duration_ms": 154560,
+      "name": "Fill Me Up",
+      "url": "https://open.spotify.com/track/2EsqgX8ZfyZrJqVTAowTvY"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "OK",
-        "url": "https://open.spotify.com/album/6N6OAhnaaEAzXT6nd3kq3A"
-      },
-      "artists": [
-        {
-          "name": "Canyon City",
-          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "OK",
-      "url": "https://open.spotify.com/track/2gBYjMXW65daBB1elr68JK"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Clean Eyes",
         "url": "https://open.spotify.com/album/3uxb4SRPfNoZEwVo4GWK9f"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 222810,
       "name": "Clean Eyes - Acoustic",
       "url": "https://open.spotify.com/track/0ixVfs0GvBfLNRA2qgjjk5"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "OK",
+        "url": "https://open.spotify.com/album/6N6OAhnaaEAzXT6nd3kq3A"
+      },
+      "artists": [
+        {
+          "name": "Canyon City",
+          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "OK",
+      "url": "https://open.spotify.com/track/2gBYjMXW65daBB1elr68JK"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Malibu Nights",
+        "url": "https://open.spotify.com/album/2yU2mqKklmIE9bWWLDjLsW"
+      },
+      "artists": [
+        {
+          "name": "Cole Norton",
+          "url": "https://open.spotify.com/artist/4DTWz8iNRSxYYpHqPNCixy"
+        }
+      ],
+      "duration_ms": 216422,
+      "name": "Malibu Nights",
+      "url": "https://open.spotify.com/track/59ETcec0EX4fyuq9TlTAmR"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "Hey (Acoustic Version)",
         "url": "https://open.spotify.com/album/2ZwzsbOlmqGn7AGgK4pVNC"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 156804,
       "name": "Hey - Acoustic",
       "url": "https://open.spotify.com/track/28vyxr4A3WyiZ9dR1mTIr5"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Malibu Nights",
-        "url": "https://open.spotify.com/album/2yU2mqKklmIE9bWWLDjLsW"
-      },
-      "artists": [
-        {
-          "name": "Cole Norton",
-          "url": "https://open.spotify.com/artist/4DTWz8iNRSxYYpHqPNCixy"
-        }
-      ],
-      "duration_ms": 216422,
-      "name": "Malibu Nights",
-      "url": "https://open.spotify.com/track/59ETcec0EX4fyuq9TlTAmR"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Chasing After the Moon",
-        "url": "https://open.spotify.com/album/5oAZS3TVg68hPGLlbkiP0u"
-      },
-      "artists": [
-        {
-          "name": "Michael Shynes",
-          "url": "https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3"
-        }
-      ],
-      "duration_ms": 238994,
-      "name": "Chasing After the Moon",
-      "url": "https://open.spotify.com/track/5KPoo3VVnP0DTA8JVj8Y4j"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/6CEQVWd8lCfQN849wYVIxc"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 272680,
       "name": "Without You",
       "url": "https://open.spotify.com/track/0GuIHTNw6hNvkMNLf8bBdh"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Chasing After the Moon",
+        "url": "https://open.spotify.com/album/5oAZS3TVg68hPGLlbkiP0u"
+      },
+      "artists": [
+        {
+          "name": "Michael Shynes",
+          "url": "https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3"
+        }
+      ],
+      "duration_ms": 238994,
+      "name": "Chasing After the Moon",
+      "url": "https://open.spotify.com/track/5KPoo3VVnP0DTA8JVj8Y4j"
     },
     {
       "added_at": "2023-03-14 14:57:00",
@@ -1585,6 +1585,22 @@
       "url": "https://open.spotify.com/track/6HJLwdHd1JJ2CkfJfPxX98"
     },
     {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Used To Be Friends",
+        "url": "https://open.spotify.com/album/79akwCBsh45bYm4j5Gumix"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 335503,
+      "name": "Used To Be Friends",
+      "url": "https://open.spotify.com/track/4fbeu4wV0MOBukfwLpj9gB"
+    },
+    {
       "added_at": "2023-06-23 11:57:00",
       "album": {
         "name": "Can\u2019t Forget You (feat. James Blunt) [Acoustic]",
@@ -1611,22 +1627,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Used To Be Friends",
-        "url": "https://open.spotify.com/album/79akwCBsh45bYm4j5Gumix"
-      },
-      "artists": [
-        {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
-        }
-      ],
-      "duration_ms": 335503,
-      "name": "Used To Be Friends",
-      "url": "https://open.spotify.com/track/4fbeu4wV0MOBukfwLpj9gB"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "I'm Not The Only One (Acoustic Version)",
         "url": "https://open.spotify.com/album/6QDUsAAMMBkqX8y2S5N884"
       },
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Hold On To Happiness",
+        "url": "https://open.spotify.com/album/69cdPGw9UxCq2aoO4yiEjZ"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 217306,
+      "name": "Hold On To Happiness",
+      "url": "https://open.spotify.com/track/2GpHwqp9mNHyma8C3HliD8"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "I Still Haven't Found What I'm Looking For",
         "url": "https://open.spotify.com/album/2hfiqE3A9MDiS0VbGhWLYr"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 163588,
       "name": "I Still Haven't Found What I'm Looking For",
       "url": "https://open.spotify.com/track/3pAsI7X41AWYTeH50ryxAs"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Without Me (Acoustic)",
-        "url": "https://open.spotify.com/album/3NwjEGRRH0zOZUihZcfYHn"
-      },
-      "artists": [
-        {
-          "name": "Ben Woodward",
-          "url": "https://open.spotify.com/artist/142VT1MtWzaD13CnOiKFDn"
-        }
-      ],
-      "duration_ms": 193318,
-      "name": "Without Me (Acoustic)",
-      "url": "https://open.spotify.com/track/3pnEPFXuYoYKEiBRTCElog"
     }
   ],
   "unique_name": "Soft Morning",

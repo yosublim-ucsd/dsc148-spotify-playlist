@@ -1,12 +1,12 @@
 {
   "description": "The essential tracks from the label VP Records. Cover: Beenie Man",
-  "num_followers": 47652,
+  "num_followers": 47690,
   "original_name": "Legendary Labels: VP Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MmEwYWU4YjEyZTAxNGM4YTBlNDY3NDFhOGI4NTM5N2U4ZmVkMTgy",
+  "snapshot_id": "MCw5Y2UxNGYxNTE3NzFlOWUzYWMxZTZkODYyZGU1MzQwZGM0YjM5NmQ4",
   "tracks": [
     {
       "added_at": "2020-10-19 09:02:25",
@@ -283,6 +283,22 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
+        "name": "Parts Of The Puzzle",
+        "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "duration_ms": 220464,
+      "name": "Stay So",
+      "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
         "name": "Escape From Babylon",
         "url": "https://open.spotify.com/album/2wrZVi0cgQtRhpYytAHpdD"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 222960,
       "name": "I Feel Good",
       "url": "https://open.spotify.com/track/2OwvleQsnjgOYbH3RRfwQr"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
-        "name": "Parts Of The Puzzle",
-        "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
-      },
-      "artists": [
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        }
-      ],
-      "duration_ms": 220464,
-      "name": "Stay So",
-      "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
     },
     {
       "added_at": "2020-10-19 09:02:25",

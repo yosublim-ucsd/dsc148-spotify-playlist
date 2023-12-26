@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7?si=3qmWiryeQw2ebI\-jOFrEVA"> بهاء سلطان </a>
 
-714 songs - 1 day 16 hr 33 min
+715 songs - 1 day 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [Kobtan](https://open.spotify.com/track/4bHz4sVrmpeLLUsu0i9liP) | [Mohamed Adawya](https://open.spotify.com/artist/4isXJBD1o2NfaC5EcotlXN) | [Kobtan](https://open.spotify.com/album/2f4yayWGqNkfjocXF84vf7) | 3:06 | 2023-11-16 |  |
 | [Kol Elly Fi Alby](https://open.spotify.com/track/0eCQyp0QixPbUn6yn0GIDg) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Kol Elly Fi Alby](https://open.spotify.com/album/3mljnESPv1qiYVXy0yYBV0) | 3:13 | 2021-12-23 | 2022-01-21 |
 | [Kol Youm](https://open.spotify.com/track/3IGIcmSEULycb9jwx6iUhX) | [ميمز](https://open.spotify.com/artist/1S1mn0Jg5ZaI2Kya26uE8K) | [Kol Youm](https://open.spotify.com/album/5F0Rcxjd3TOBcu059YbTS3) | 2:48 | 2023-09-28 |  |
+| [Kolo Falso](https://open.spotify.com/track/1il1wNIj3ful9IlWgxLRmX) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7), [Esaad Younis](https://open.spotify.com/artist/2VtjN9mCdwy6DBkms1ujiQ) | [Kolo Falso](https://open.spotify.com/album/7mbfcm8CXhfUEJVf2ioUwF) | 2:58 | 2023-12-26 |  |
 | [Konty 2olely](https://open.spotify.com/track/49odA1EtwSkPefTEeIwqBx) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Konty 2olely](https://open.spotify.com/album/7ko3njN5mraY8cgakYCmbf) | 2:48 | 2021-12-23 | 2022-02-25 |
 | [Kool Sana](https://open.spotify.com/track/0OPojykcf3Ob8loFvWPcTe) | [Flomine](https://open.spotify.com/artist/4ftrhn6reSyzhgXgCYb9qs), [L5VAV](https://open.spotify.com/artist/7iriVfN6kftRpKDqdm492u) | [Kool Sana](https://open.spotify.com/album/7mrv6lThitzSW3QQ5ABEnh) | 2:42 | 2023-08-04 | 2023-08-24 |
 | [Korbag](https://open.spotify.com/track/0gBY3xJ8eig3YWnbASh5Xy) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Korbag](https://open.spotify.com/album/5bNkoDJ2IKDVJu6sNcgzXt) | 3:18 | 2022-08-23 | 2022-11-11 |
@@ -606,7 +607,7 @@
 | [خطير يا أخوانا](https://open.spotify.com/track/1cfFsCfABOXS6QXEZ8oCHl) | [Medhat Saleh](https://open.spotify.com/artist/7z2djNV3tKrdEsotTv8KH0), [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi) | [خطير يا أخوانا](https://open.spotify.com/album/5Z3VmUZ2YRl1vwMUpJ3y9v) | 2:41 | 2023-09-19 | 2023-09-21 |
 | [خليني](https://open.spotify.com/track/6fO7U0lirfa5kcgJngHqA8) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [خليني](https://open.spotify.com/album/5fE5KlF2945Q1Vm2sQXOuU) | 3:12 | 2023-03-02 | 2023-05-05 |
 | [خليني شوية معاك](https://open.spotify.com/track/72MgKDXeRf7NRQ2kMUmags) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [خليني شوية معاك](https://open.spotify.com/album/7CltOkKejw4x6BoD3aWOZc) | 4:12 | 2023-02-14 | 2023-03-31 |
-| [دادينا](https://open.spotify.com/track/7AInJeOGXWBT9xnxhRTVZW) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [دادينا](https://open.spotify.com/album/69fom2qf7DQkMcBdsMYdfw) | 3:18 | 2023-10-15 |  |
+| [دادينا](https://open.spotify.com/track/7AInJeOGXWBT9xnxhRTVZW) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [دادينا](https://open.spotify.com/album/69fom2qf7DQkMcBdsMYdfw) | 3:18 | 2023-10-15 | 2023-12-26 |
 | [دلعنا كتير](https://open.spotify.com/track/6zNFUlt8E8NcT2ljRqK5GM) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [دلعنا كتير](https://open.spotify.com/album/4fXbai8cyBy3BdHgVMTGu1) | 2:52 | 2023-08-24 | 2023-12-08 |
 | [ده قلبي ده](https://open.spotify.com/track/4r7wv4TkFq2yu2R3B294Gt) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [ده قلبي ده](https://open.spotify.com/album/5Bojtv4l3gbG6ZsZ6WbDNl) | 2:58 | 2023-08-18 | 2023-09-01 |
 | [رايق اوي \- اورنچ و احمد سعد](https://open.spotify.com/track/6BlG5SOrK1H57svuWMKMba) | [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W) | [رايق اوي \- اورنچ و احمد سعد](https://open.spotify.com/album/5m3TBcO1hB3MjV1l9xLu0p) | 1:51 | 2023-06-26 | 2023-07-28 |

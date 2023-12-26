@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "Spotify Japan\u306e\u30c7\u30a4\u30ea\u30fc\u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8\u300212\u670823\u65e5\u4ed8\u3002",
+  "description": "Spotify Japan\u306e\u30c7\u30a4\u30ea\u30fc\u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8\u300212\u670824\u65e5\u4ed8\u3002",
   "name": "Spotify Japan \u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8",
   "tracks": [
     {
@@ -4526,7 +4526,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 223302,
       "name": "Closer Than This",
       "url": "https://open.spotify.com/track/3k6q0O9JnO2GhvD6C8fs20"
@@ -10921,6 +10921,24 @@
     },
     {
       "album": {
+        "name": "Title (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219653,
+      "name": "I'll Be Home",
+      "url": "https://open.spotify.com/track/0lTurWECr2XL607eJAj1A3"
+    },
+    {
+      "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/16Bd2ZNChy3Emmy1Vmdo0e"
       },
@@ -11444,7 +11462,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
@@ -11664,6 +11682,46 @@
       "duration_ms": 142893,
       "name": "Jingle Bell Rock -Spotify Singles Holiday",
       "url": "https://open.spotify.com/track/7Ao5aouOwI94DuwcXa5X1i"
+    },
+    {
+      "album": {
+        "name": "Music Collection for Annual Events",
+        "url": "https://open.spotify.com/album/30Ttrrk8lBXqDKf9rM4lIp"
+      },
+      "artists": [
+        {
+          "name": "Satoko Yamano",
+          "url": "https://open.spotify.com/artist/6RN3CWxzQHF7m1txkot9Bm"
+        },
+        {
+          "name": "\u30b3\u30ed\u30e0\u30d3\u30a2\u3086\u308a\u304b\u3054\u4f1a",
+          "url": "https://open.spotify.com/artist/4oS9xbsyYsTNOiNat3dvpa"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178080,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/1Vb10DrtxfOPtPyt9MXdWT"
+    },
+    {
+      "album": {
+        "name": "A Jolly Christmas From Frank Sinatra",
+        "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120693,
+      "name": "Jingle Bells - Remastered 1999",
+      "url": "https://open.spotify.com/track/4HEOgBHRCExyYVeTyrXsnL"
     },
     {
       "album": {
@@ -15182,7 +15240,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 289173,
       "name": "more than words",
       "url": "https://open.spotify.com/track/2kXER8pkjxDVQnlagpVJJw"
@@ -24244,7 +24302,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 193066,
       "name": "TOXIC",
       "url": "https://open.spotify.com/track/08j6YjQCkCyRFXoKmh8e0H"
@@ -26270,6 +26328,24 @@
       "duration_ms": 243520,
       "name": "WINTER WITHOUT YOU",
       "url": "https://open.spotify.com/track/5KxTHd0r8eM6T2K65zxt2L"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132800,
+      "name": "Winter Wonderland - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN"
     },
     {
       "album": {
@@ -28618,7 +28694,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 211733,
       "name": "\u30a2\u30a4\u30c9\u30eb",
       "url": "https://open.spotify.com/track/1hAloWiinXLPQUJxrJReb1"
@@ -29542,7 +29618,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 256346,
       "name": "\u30af\u30ea\u30b9\u30de\u30b9\uff65\u30a4\u30d6",
       "url": "https://open.spotify.com/track/04utPBobXAMjh3QF0MxyqA"
@@ -29600,7 +29676,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 272226,
       "name": "\u30b1\u30bb\u30e9\u30bb\u30e9",
       "url": "https://open.spotify.com/track/0teqQ0PYqVDyyXJuPOyMhu"
@@ -36954,7 +37030,7 @@
       ],
       "date_added": "2023-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 199333,
       "name": "\u82b1\u306b\u306a\u3063\u3066 - Be a flower",
       "url": "https://open.spotify.com/track/2EmkTBTh964LQen4Vz0svg"

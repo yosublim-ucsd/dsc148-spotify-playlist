@@ -1,12 +1,12 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 399460,
+  "num_followers": 399477,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWIzN2Y1NDc5NDI4ODdmZjZlMTY2YzQwNTkyYzliMTc0M2JiOGY4",
+  "snapshot_id": "MCwyMjlhNWI0OWNmMjYwNGNkMmFjMWU4MmRkMDg3NDk0NDk4YWYyNzU2",
   "tracks": [
     {
       "added_at": "2023-12-06 20:28:35",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-12-06 20:28:35",
       "album": {
-        "name": "All Inclusive",
-        "url": "https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI"
-      },
-      "artists": [
-        {
-          "name": "Marissa Mur",
-          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
-        }
-      ],
-      "duration_ms": 200303,
-      "name": "Que Te Vaya Bonito",
-      "url": "https://open.spotify.com/track/5H5tnAAoq5D3feuLB9dt6H"
-    },
-    {
-      "added_at": "2023-12-06 20:28:35",
-      "album": {
         "name": "Treinta D\u00edas",
         "url": "https://open.spotify.com/album/58Y71EOtzHbVnUfCqXC9NB"
       },
@@ -831,22 +815,34 @@
     {
       "added_at": "2023-12-06 20:28:35",
       "album": {
-        "name": "Cartagena",
-        "url": "https://open.spotify.com/album/2moAPQ5wUo2OFVY6hGOKz9"
+        "name": "Flora y Fauna",
+        "url": "https://open.spotify.com/album/0K2e7hGdBB7FKM0NtpkYaK"
       },
       "artists": [
         {
-          "name": "Rafael Pond\u00e9",
-          "url": "https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc"
-        },
-        {
-          "name": "Melo G\u00eda",
-          "url": "https://open.spotify.com/artist/1mBhm9EVdCyvCSS9ujhseU"
+          "name": "Camila Luna",
+          "url": "https://open.spotify.com/artist/1aMXU2xuC6FdOyD7SFdL3X"
         }
       ],
-      "duration_ms": 221111,
-      "name": "Cartagena",
-      "url": "https://open.spotify.com/track/7nuAQwrVIe6ulWBaM1eR71"
+      "duration_ms": 173311,
+      "name": "Amor Frutero",
+      "url": "https://open.spotify.com/track/5TVDnNLRq8ABVgfVqVqtsQ"
+    },
+    {
+      "added_at": "2023-12-06 20:28:35",
+      "album": {
+        "name": "All Inclusive",
+        "url": "https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI"
+      },
+      "artists": [
+        {
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+        }
+      ],
+      "duration_ms": 200303,
+      "name": "Que Te Vaya Bonito",
+      "url": "https://open.spotify.com/track/5H5tnAAoq5D3feuLB9dt6H"
     },
     {
       "added_at": "2023-12-06 20:28:35",
@@ -867,18 +863,22 @@
     {
       "added_at": "2023-12-06 20:28:35",
       "album": {
-        "name": "Flora y Fauna",
-        "url": "https://open.spotify.com/album/0K2e7hGdBB7FKM0NtpkYaK"
+        "name": "Cartagena",
+        "url": "https://open.spotify.com/album/2moAPQ5wUo2OFVY6hGOKz9"
       },
       "artists": [
         {
-          "name": "Camila Luna",
-          "url": "https://open.spotify.com/artist/1aMXU2xuC6FdOyD7SFdL3X"
+          "name": "Rafael Pond\u00e9",
+          "url": "https://open.spotify.com/artist/63ONM3te92h07qo9t6OYzc"
+        },
+        {
+          "name": "Melo G\u00eda",
+          "url": "https://open.spotify.com/artist/1mBhm9EVdCyvCSS9ujhseU"
         }
       ],
-      "duration_ms": 173311,
-      "name": "Amor Frutero",
-      "url": "https://open.spotify.com/track/5TVDnNLRq8ABVgfVqVqtsQ"
+      "duration_ms": 221111,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/7nuAQwrVIe6ulWBaM1eR71"
     },
     {
       "added_at": "2023-12-06 20:28:35",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-12-06 20:28:35",
       "album": {
+        "name": "Tr\u00e9bol",
+        "url": "https://open.spotify.com/album/1d75UCUMQna3KfPPZ9tAcg"
+      },
+      "artists": [
+        {
+          "name": "Pantoja",
+          "url": "https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc"
+        }
+      ],
+      "duration_ms": 159790,
+      "name": "Si Te Contara",
+      "url": "https://open.spotify.com/track/4FZjsJCf0MO19udtVY4rfx"
+    },
+    {
+      "added_at": "2023-12-06 20:28:35",
+      "album": {
         "name": "Bienvenido a mi habitaci\u00f3n",
         "url": "https://open.spotify.com/album/4nEsMSMUDN7x646cLbaXBp"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 224133,
       "name": "Chocolat (Swing)",
       "url": "https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq"
-    },
-    {
-      "added_at": "2023-12-06 20:28:35",
-      "album": {
-        "name": "Tr\u00e9bol",
-        "url": "https://open.spotify.com/album/1d75UCUMQna3KfPPZ9tAcg"
-      },
-      "artists": [
-        {
-          "name": "Pantoja",
-          "url": "https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc"
-        }
-      ],
-      "duration_ms": 159790,
-      "name": "Si Te Contara",
-      "url": "https://open.spotify.com/track/4FZjsJCf0MO19udtVY4rfx"
     },
     {
       "added_at": "2023-12-06 20:28:35",
@@ -1147,42 +1147,6 @@
     {
       "added_at": "2023-12-06 20:28:35",
       "album": {
-        "name": "El Caudal",
-        "url": "https://open.spotify.com/album/57zjLKLycEw9ezNKgXBDtI"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 237619,
-      "name": "El Caudal",
-      "url": "https://open.spotify.com/track/3Eofn5MhdnUYozRhcxGYLN"
-    },
-    {
-      "added_at": "2023-12-06 20:28:35",
-      "album": {
-        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
-        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
-      },
-      "artists": [
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        }
-      ],
-      "duration_ms": 162986,
-      "name": "Un Telegrama",
-      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
-    },
-    {
-      "added_at": "2023-12-06 20:28:35",
-      "album": {
         "name": "Calentura: Global Bassment",
         "url": "https://open.spotify.com/album/6slKSPfGlzrhQkP1ShncUu"
       },
@@ -1207,6 +1171,22 @@
     {
       "added_at": "2023-12-06 20:28:35",
       "album": {
+        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
+        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
+      },
+      "artists": [
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        }
+      ],
+      "duration_ms": 162986,
+      "name": "Un Telegrama",
+      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
+    },
+    {
+      "added_at": "2023-12-06 20:28:35",
+      "album": {
         "name": "Parrilladas Vargas",
         "url": "https://open.spotify.com/album/7c7jxSHqMJo53KLPeCyBMR"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 131897,
       "name": "Una Piedra en el Cielo",
       "url": "https://open.spotify.com/track/5lJurIvlMy2V1NiF6Wasxu"
+    },
+    {
+      "added_at": "2023-12-06 20:28:35",
+      "album": {
+        "name": "El Caudal",
+        "url": "https://open.spotify.com/album/57zjLKLycEw9ezNKgXBDtI"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 237619,
+      "name": "El Caudal",
+      "url": "https://open.spotify.com/track/3Eofn5MhdnUYozRhcxGYLN"
     },
     {
       "added_at": "2023-12-06 20:28:35",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-12-06 20:28:35",
       "album": {
+        "name": "Pelear",
+        "url": "https://open.spotify.com/album/2DzQ7GgN00WQRvXt7U4Qva"
+      },
+      "artists": [
+        {
+          "name": "Blanco Palamera",
+          "url": "https://open.spotify.com/artist/6SEgrMW4qNH72UAx4h9epk"
+        }
+      ],
+      "duration_ms": 252397,
+      "name": "Pelear",
+      "url": "https://open.spotify.com/track/6VJyMwGnx1TvDXVmTDKxwM"
+    },
+    {
+      "added_at": "2023-12-06 20:28:35",
+      "album": {
         "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
         "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 185160,
       "name": "Mar Y Cielo",
       "url": "https://open.spotify.com/track/01OHq1JrkmDeyQTLQVxdTL"
-    },
-    {
-      "added_at": "2023-12-06 20:28:35",
-      "album": {
-        "name": "Pelear",
-        "url": "https://open.spotify.com/album/2DzQ7GgN00WQRvXt7U4Qva"
-      },
-      "artists": [
-        {
-          "name": "Blanco Palamera",
-          "url": "https://open.spotify.com/artist/6SEgrMW4qNH72UAx4h9epk"
-        }
-      ],
-      "duration_ms": 252397,
-      "name": "Pelear",
-      "url": "https://open.spotify.com/track/6VJyMwGnx1TvDXVmTDKxwM"
     },
     {
       "added_at": "2023-12-06 20:28:35",
@@ -1575,6 +1575,26 @@
     {
       "added_at": "2023-12-06 20:28:35",
       "album": {
+        "name": "Meus Momentos: Paulinho Da Viola",
+        "url": "https://open.spotify.com/album/5DJ8Iu9nfpGykmggpCLsYu"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+        },
+        {
+          "name": "Elton Medeiros",
+          "url": "https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV"
+        }
+      ],
+      "duration_ms": 240640,
+      "name": "Perdoa",
+      "url": "https://open.spotify.com/track/3SLfDGY3UqESBUEdd7K2Ev"
+    },
+    {
+      "added_at": "2023-12-06 20:28:35",
+      "album": {
         "name": "Calentura: Toque (Captain Planet Remixes)",
         "url": "https://open.spotify.com/album/3mBNM16s2Nq2hfPNkhHSpz"
       },
@@ -1595,26 +1615,6 @@
       "duration_ms": 244043,
       "name": "Ya Lleg\u00f3 - Captain Planet Remix",
       "url": "https://open.spotify.com/track/0PIeefi6RLeFt2O0NUfRps"
-    },
-    {
-      "added_at": "2023-12-06 20:28:35",
-      "album": {
-        "name": "Meus Momentos: Paulinho Da Viola",
-        "url": "https://open.spotify.com/album/5DJ8Iu9nfpGykmggpCLsYu"
-      },
-      "artists": [
-        {
-          "name": "Paulinho Da Viola",
-          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
-        },
-        {
-          "name": "Elton Medeiros",
-          "url": "https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "Perdoa",
-      "url": "https://open.spotify.com/track/3SLfDGY3UqESBUEdd7K2Ev"
     },
     {
       "added_at": "2023-12-06 20:28:35",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2023-12-06 20:28:35",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/01NDjxuV02b5rlRHyT3nUU"
+      },
+      "artists": [
+        {
+          "name": "Si*S\u00e9",
+          "url": "https://open.spotify.com/artist/64CWqLWhLQhrerPastRKW9"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Donde Est\u00e1",
+      "url": "https://open.spotify.com/track/0fjCKNenDu2DBaMcIp3rXS"
+    },
+    {
+      "added_at": "2023-12-06 20:28:35",
+      "album": {
         "name": "Todo Cambi\u00f3",
         "url": "https://open.spotify.com/album/1Zc8gfpNoHmszL1ybIF2jb"
       },
@@ -1671,18 +1687,18 @@
     {
       "added_at": "2023-12-06 20:28:35",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/01NDjxuV02b5rlRHyT3nUU"
+        "name": "The Now Sound of Ursula 1000 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7pyqMk8bzqQDIAFT2MdRKK"
       },
       "artists": [
         {
-          "name": "Si*S\u00e9",
-          "url": "https://open.spotify.com/artist/64CWqLWhLQhrerPastRKW9"
+          "name": "Ursula 1000",
+          "url": "https://open.spotify.com/artist/02AgDpYGR3r3u3mvlApNqT"
         }
       ],
-      "duration_ms": 224826,
-      "name": "Donde Est\u00e1",
-      "url": "https://open.spotify.com/track/0fjCKNenDu2DBaMcIp3rXS"
+      "duration_ms": 340946,
+      "name": "Mambo 1000",
+      "url": "https://open.spotify.com/track/1NuSZFERO5CMr0dSrWO3Lu"
     },
     {
       "added_at": "2023-12-06 20:28:35",
@@ -1707,6 +1723,22 @@
     {
       "added_at": "2023-12-06 20:28:35",
       "album": {
+        "name": "Caminando por Quisqueya",
+        "url": "https://open.spotify.com/album/1z6vx39dIoXCScxQ8c6xn4"
+      },
+      "artists": [
+        {
+          "name": "ChiChi Peralta",
+          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "Caminando por Quisqueya",
+      "url": "https://open.spotify.com/track/2avb4jaEXShHqfAF3yuKhX"
+    },
+    {
+      "added_at": "2023-12-06 20:28:35",
+      "album": {
         "name": "Atacama!",
         "url": "https://open.spotify.com/album/6q0GpmH0bkdDuUvTd8leOf"
       },
@@ -1719,22 +1751,6 @@
       "duration_ms": 251830,
       "name": "El hombre que quiso ser canci\u00f3n",
       "url": "https://open.spotify.com/track/30hpm4A4rtS0qNzt1vh5Ct"
-    },
-    {
-      "added_at": "2023-12-06 20:28:35",
-      "album": {
-        "name": "The Now Sound of Ursula 1000 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7pyqMk8bzqQDIAFT2MdRKK"
-      },
-      "artists": [
-        {
-          "name": "Ursula 1000",
-          "url": "https://open.spotify.com/artist/02AgDpYGR3r3u3mvlApNqT"
-        }
-      ],
-      "duration_ms": 340946,
-      "name": "Mambo 1000",
-      "url": "https://open.spotify.com/track/1NuSZFERO5CMr0dSrWO3Lu"
     },
     {
       "added_at": "2023-12-06 20:28:35",
@@ -1755,22 +1771,6 @@
       "duration_ms": 229609,
       "name": "Por Si las Dudas",
       "url": "https://open.spotify.com/track/1mSZtzrkyjPVHryN28833M"
-    },
-    {
-      "added_at": "2023-12-06 20:28:35",
-      "album": {
-        "name": "Caminando por Quisqueya",
-        "url": "https://open.spotify.com/album/1z6vx39dIoXCScxQ8c6xn4"
-      },
-      "artists": [
-        {
-          "name": "ChiChi Peralta",
-          "url": "https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "Caminando por Quisqueya",
-      "url": "https://open.spotify.com/track/2avb4jaEXShHqfAF3yuKhX"
     },
     {
       "added_at": "2023-12-06 20:28:35",

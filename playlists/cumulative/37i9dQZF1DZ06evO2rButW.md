@@ -4,7 +4,7 @@
 
 > This is Mon Laferte\. The essential tracks, all in one playlist.
 
-67 songs - 4 hr 6 min
+68 songs - 4 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,10 +35,11 @@
 | [Invéntame](https://open.spotify.com/track/6g6FWPdAMf55CpmkoE7jF1) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Invéntame](https://open.spotify.com/album/5kiDMxfW38PbWnmIABlXBq) | 3:25 | 2023-03-24 |  |
 | [La Danza de las Libélulas](https://open.spotify.com/track/7l62bYBU4F4SiRdGDhnqTn) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Danza de las Libélulas](https://open.spotify.com/album/7mZmCL8uOUXpA2BASkmn5f) | 3:40 | 2023-03-24 |  |
 | [La Mujer](https://open.spotify.com/track/3sQf1MpSqYoqVfdvao8vKt) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:09 | 2023-03-24 |  |
-| [Metamorfosis](https://open.spotify.com/track/3CsUXmvprDXpBLACoBBJrN) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 3:10 | 2023-12-13 |  |
+| [Metamorfosis](https://open.spotify.com/track/3CsUXmvprDXpBLACoBBJrN) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 3:10 | 2023-12-13 | 2023-12-26 |
 | [Mi Buen Amor](https://open.spotify.com/track/28UP90XhjCovLtieduYr9P) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Bunbury](https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 3:47 | 2023-03-24 |  |
 | [No Soy Para Ti](https://open.spotify.com/track/06uVO4cR3ZReuXxW5eTH9F) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 3:31 | 2023-03-24 |  |
 | [NO+SAD](https://open.spotify.com/track/1hdpMoNDNKvsgosL6c7ywF) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [NO+SAD](https://open.spotify.com/album/5PayAvswrSHHs3J0nrnIam) | 2:54 | 2023-11-10 | 2023-12-14 |
+| [NO+SAD](https://open.spotify.com/track/4CbeNOtHNUfy6yaQzlOQ2B) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 2:54 | 2023-12-25 |  |
 | [Paisaje Japonés](https://open.spotify.com/track/0Yo6IZJ5e4DJFKxlVPtzma) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Paisaje Japonés](https://open.spotify.com/album/1h4yooOKEv9XQRhmSG66PX) | 3:24 | 2023-03-30 | 2023-07-21 |
 | [Palabras Tristes](https://open.spotify.com/track/1UX1kt5jsniuhSpjIJTFGI) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Así Te Quiero Yo](https://open.spotify.com/album/3gpg9uMXT5gX6AJkeDH4Ok) | 3:51 | 2023-03-24 |  |
 | [Palmar](https://open.spotify.com/track/06FhHrnpYCmIxIxIGUehxQ) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Palmar](https://open.spotify.com/album/4yLAjcAidjMfi621CSBJTY) | 3:12 | 2023-03-24 |  |

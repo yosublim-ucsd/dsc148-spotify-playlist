@@ -56,7 +56,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 186986,
       "name": "2002",
       "url": "https://open.spotify.com/track/4Pbg79cTBu4vgSphoyNq3j"
@@ -598,7 +598,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 263120,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/23TxRN09aR1RB0G0tFoT0b"
@@ -1831,6 +1831,24 @@
     },
     {
       "album": {
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/2xIW65knjZO5DBlsTBFiHl"
+      },
+      "artists": [
+        {
+          "name": "Summer Will End",
+          "url": "https://open.spotify.com/artist/44choK7c5Uf5GKBzwZ7cQY"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167850,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/5IlPh2lpknbaVoB7pytO6t"
+    },
+    {
+      "album": {
         "name": "Happiness Begins",
         "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
       },
@@ -2438,6 +2456,28 @@
       "duration_ms": 170932,
       "name": "lately",
       "url": "https://open.spotify.com/track/0xEpNvwICCpdZU6i2h0GUr"
+    },
+    {
+      "album": {
+        "name": "Let It Rain",
+        "url": "https://open.spotify.com/album/4IZbTGF4UTaEFRHDrA8rIC"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        },
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210322,
+      "name": "Let It Rain",
+      "url": "https://open.spotify.com/track/6uOSgCjfRFc4hrqK2PEq12"
     },
     {
       "album": {
@@ -3140,7 +3180,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 189280,
       "name": "New Man",
       "url": "https://open.spotify.com/track/5HDPtsnyb3maFmPL8LLUTG"
@@ -3930,7 +3970,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 182895,
       "name": "Skyline",
       "url": "https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4"

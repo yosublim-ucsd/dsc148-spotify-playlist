@@ -1,12 +1,12 @@
 {
   "description": "New song and hits from your favorite Alternative artists. Cover: Jack White",
-  "num_followers": 73707,
+  "num_followers": 73742,
   "original_name": "Your Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZjk1ZGVkN2UxYWZmMTcwNDZjNjhmYWRjOTA4NWViZDQ1MDI4MjBi",
+  "snapshot_id": "MCw3MGI2NWY0NzkxMWEzMTBiMTc5YWU0Y2U2YzIyMzBlNTI2MmZmYWVi",
   "tracks": [
     {
       "added_at": "2022-02-04 05:01:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
-        "name": "Social Cues",
-        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 226533,
-      "name": "Black Madonna",
-      "url": "https://open.spotify.com/track/4Y6GIje3GErVRIq1Ff5BJq"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
         "name": "Silent Alarm",
         "url": "https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 196613,
       "name": "Banquet",
       "url": "https://open.spotify.com/track/2YxXuCdbUpil3P7tRjhW1t"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "Social Cues",
+        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 226533,
+      "name": "Black Madonna",
+      "url": "https://open.spotify.com/track/4Y6GIje3GErVRIq1Ff5BJq"
     },
     {
       "added_at": "2022-02-04 05:01:00",
@@ -839,6 +839,26 @@
     {
       "added_at": "2022-02-04 05:01:00",
       "album": {
+        "name": "Social Cues",
+        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        },
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "Night Running",
+      "url": "https://open.spotify.com/track/0wSmZykDgah7GfaUNZUZCb"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
         "name": "We Are The Wrecks",
         "url": "https://open.spotify.com/album/0vQRfUULb3EpObpn28YOkH"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 249200,
       "name": "You Oughta Know",
       "url": "https://open.spotify.com/track/0Dw9z44gXhplDh5HCWZIxP"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
-        "name": "Social Cues",
-        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        },
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "Night Running",
-      "url": "https://open.spotify.com/track/0wSmZykDgah7GfaUNZUZCb"
     },
     {
       "added_at": "2022-02-04 05:01:00",

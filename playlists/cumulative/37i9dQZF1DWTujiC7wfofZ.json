@@ -1848,7 +1848,7 @@
       ],
       "date_added": "2022-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 224714,
       "name": "Gutter Girl",
       "url": "https://open.spotify.com/track/1sEzuZNasuG8s1OOHwYfN2"
@@ -4890,6 +4890,24 @@
       "duration_ms": 242960,
       "name": "Vanished",
       "url": "https://open.spotify.com/track/0Q2YGyMeeZMAvzebtxoQ5f"
+    },
+    {
+      "album": {
+        "name": "Crystal Castles",
+        "url": "https://open.spotify.com/album/6rTfUUv8Kefr6Uo3AaecXi"
+      },
+      "artists": [
+        {
+          "name": "Crystal Castles",
+          "url": "https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242960,
+      "name": "Vanished",
+      "url": "https://open.spotify.com/track/4bQ7mjty0UVlKRalhizpGT"
     },
     {
       "album": {

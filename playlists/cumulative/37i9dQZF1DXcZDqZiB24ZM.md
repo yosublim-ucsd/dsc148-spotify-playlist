@@ -4,7 +4,7 @@
 
 > Les essentiels du hip\-hop québécois des dernières années\. Photo: FouKi
 
-195 songs - 11 hr 40 min
+196 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,12 +37,13 @@
 | [Bruce Wayne](https://open.spotify.com/track/2jIxXjnutJGHMBSnc6ZcBj) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Izzy\-S](https://open.spotify.com/artist/76DXtaWMXZQbRZUHkQEdDQ) | [Bonhomme Pendu \(Chapitre 2\)](https://open.spotify.com/album/3oHGb2ocvUAPmuppxIDoXl) | 3:55 | 2022-03-11 |  |
 | [Bâtiment](https://open.spotify.com/track/25GCROc6FbTgRcif4sAJDB) | [Yung Duce](https://open.spotify.com/artist/3xR8mAOFhKZZ8V89C4RWrl), [Dix](https://open.spotify.com/artist/5DnW1DjeRoeHEiD1d2Q0oN), [Mouss](https://open.spotify.com/artist/7D4rgoFxldk2wari7UObNY) | [Bâtiment](https://open.spotify.com/album/7ymXUtwoouExMHp6KlyMzp) | 2:47 | 2022-03-11 |  |
 | [Catherine](https://open.spotify.com/track/5kvv0hFIsENrRGZfev16n5) | [Nate Husser](https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4) | [Geto Rock for the Youth](https://open.spotify.com/album/61ayZWNfFBA7Nmskd03sf8) | 3:18 | 2022-03-11 | 2022-07-11 |
-| [Cest la vie](https://open.spotify.com/track/1nDzpmP87QECplOn8I0L3E) | [Soubillz](https://open.spotify.com/artist/6MtBOm6B7RFEIkQ6SxFdVp), [YH](https://open.spotify.com/artist/3js5jvTuoFgetWV7s8EVT5) | [Cest la vie](https://open.spotify.com/album/6ZFQ1NRQ68TWF7xHIQJ4nV) | 3:02 | 2022-03-11 |  |
+| [Cest la vie](https://open.spotify.com/track/1nDzpmP87QECplOn8I0L3E) | [Soubillz](https://open.spotify.com/artist/6MtBOm6B7RFEIkQ6SxFdVp), [YH](https://open.spotify.com/artist/3js5jvTuoFgetWV7s8EVT5) | [Cest la vie](https://open.spotify.com/album/6ZFQ1NRQ68TWF7xHIQJ4nV) | 3:02 | 2022-03-11 | 2023-12-26 |
 | [Chacun son récit](https://open.spotify.com/track/2465tuccWnYlZzvebuBJOB) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Blacklist](https://open.spotify.com/album/3ZoYcp29VE8yLSWsS7kQA2) | 3:51 | 2022-03-11 |  |
 | [Chill?](https://open.spotify.com/track/3zQI8CC3IokFvAqgXgY5KB) | [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Fouette Saint\-Patrick](https://open.spotify.com/album/1OKQUHt3LCz5JnqgTEggce) | 2:43 | 2022-03-11 |  |
 | [Ciel](https://open.spotify.com/track/0hZXdVHvyIpCjGZ1JXTHUT) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n), [Alicia Moffet](https://open.spotify.com/artist/5ph9A8j6xyDlLNZTqYgNV1) | [Ciel](https://open.spotify.com/album/5WwJNEopJyLHy4bD1YjDK2) | 2:34 | 2022-03-11 |  |
 | [Cinq à sept](https://open.spotify.com/track/6XS5Qi2wUMgj88QdBXx69B) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [La Nuit des Longs Couteaux](https://open.spotify.com/album/5bYvCCyPQ5D3PWDrapUymX) | 3:28 | 2022-03-11 |  |
 | [Come Inside \(Kaytranada Edit\)](https://open.spotify.com/track/3jQL0t4Jg4EZ77oNEvjEtN) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [002 / LOVE ME](https://open.spotify.com/album/06tuQubTO3GAXGOcMtfHok) | 4:26 | 2022-03-11 | 2023-12-24 |
+| [Come Inside \(Kaytranada Edit\)](https://open.spotify.com/track/7vE5BCq8NB9aOrCo8IVhw6) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [002 / LOVE ME](https://open.spotify.com/album/5leZNrFKUULuMcQjhlA2Kj) | 4:26 | 2022-03-11 |  |
 | [Commando](https://open.spotify.com/track/4XnKzp3Mf6JiB3e6KVGzIF) | [Joe Rocca](https://open.spotify.com/artist/02nyUoWQbKuMviHAb3PSmi) | [French Kiss](https://open.spotify.com/album/1OzA3PBf90UfankK9n293L) | 3:56 | 2022-03-11 | 2022-07-28 |
 | [Copy / Paste](https://open.spotify.com/track/6VHPmRRElbCkzJoYUqIBlh) | [Eman X Vlooper](https://open.spotify.com/artist/4ldnVAuXXq9U5bN7BKHIKu) | [LA JOIE](https://open.spotify.com/album/41sBtf8a1k6E4CCpcqjR0D) | 3:27 | 2022-03-11 | 2022-07-22 |
 | [CQJVD](https://open.spotify.com/track/66adaIJbJrkVroQUhM4nIA) | [Obia le Chef](https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3), [Caballero](https://open.spotify.com/artist/5DE0by3fZT0nrlJSutY2D7), [JeanJass](https://open.spotify.com/artist/11jTIrOwxFOLvhJIdb4FYo) | [Soufflette](https://open.spotify.com/album/6npTkgdjEFrrIkswNASwS0) | 6:01 | 2022-03-11 | 2022-07-23 |

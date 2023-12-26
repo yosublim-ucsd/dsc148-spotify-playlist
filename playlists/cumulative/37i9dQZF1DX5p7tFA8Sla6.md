@@ -4,7 +4,7 @@
 
 > Funk \- new and old \- to accompany your drive.
 
-107 songs - 7 hr 46 min
+108 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Ace of Aces](https://open.spotify.com/track/1SlkhRMOEJp97Ho0BaIOkj) | [The Fearless Flyers](https://open.spotify.com/artist/1JyLSGXC3aWzjY6ZdxvIXh) | [The Fearless Flyers](https://open.spotify.com/album/2GEQWuTviG5lXO66aiOYqt) | 2:04 | 2019-08-22 |  |
 | [All This Love That I'm Giving](https://open.spotify.com/track/5hj0KzWvcfEZ4M1JjIwbU3) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE), [Adryon de León](https://open.spotify.com/artist/2fwY7A1HBVzbD44cGTn9Uo) | [Undercover Mixtape](https://open.spotify.com/album/6XnaRujtyMCICItpFo4lQY) | 4:34 | 2019-08-22 |  |
 | [Back to the Funkture](https://open.spotify.com/track/1nPjlM25TcwClEvSkG712O) | [Alissia](https://open.spotify.com/artist/0yq0ZW3g1vX4Vsfz9wH7rO) | [Back to the Funkture](https://open.spotify.com/album/6Zcd7o14QCOx32RbouEuHz) | 4:01 | 2019-08-22 | 2023-05-07 |
-| [Black Rider](https://open.spotify.com/track/2gokmhdXfwVtg3za6zdAfQ) | [Alan Evans Trio](https://open.spotify.com/artist/782YLYIMEd3KKv9V7IPvBi) | [Black Rider](https://open.spotify.com/album/62ut4QVeomirNro89DoVeI) | 3:58 | 2019-08-22 |  |
+| [Black Rider](https://open.spotify.com/track/2gokmhdXfwVtg3za6zdAfQ) | [Alan Evans Trio](https://open.spotify.com/artist/782YLYIMEd3KKv9V7IPvBi) | [Black Rider](https://open.spotify.com/album/62ut4QVeomirNro89DoVeI) | 3:58 | 2019-08-22 | 2023-12-26 |
 | [Body Party](https://open.spotify.com/track/5H8ClXF0WMHASLLmqMyuLq) | [Pimps of Joytime](https://open.spotify.com/artist/6NPWjCsZUtFRognZKJm5N4) | [Jukestone Paradise](https://open.spotify.com/album/7iffpPqDJH74f03Eu6HZ2y) | 4:02 | 2019-08-22 |  |
 | [Boogie Witcha, Baby](https://open.spotify.com/track/5NqRwz0rPh3aK4iWyJLXxy) | [Larry Graham & Graham Central Station](https://open.spotify.com/artist/6NodJUvzLqPU2HtPLhDuf5) | [My Radio Sure Sounds Good To Me](https://open.spotify.com/album/5DldGiP8hbKtAjGzzcdYEq) | 3:47 | 2019-08-22 |  |
 | [Bootzilla](https://open.spotify.com/track/5js0eS99CZbJpbZW6A9T95) | [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [Back In The Day: The Best Of Bootsy](https://open.spotify.com/album/5drHXExICEAsiNehDQvYwV) | 5:39 | 2019-08-22 |  |
@@ -51,6 +51,7 @@
 | [Hair](https://open.spotify.com/track/4o1yx2u3jBmR360WIXZ3L0) | [Graham Central Station](https://open.spotify.com/artist/1OGcRXAY9iO4egWiIBqX8F) | [Graham Central Station](https://open.spotify.com/album/4ZYY6rKxpgH76mdF0u3hvj) | 4:55 | 2019-08-22 |  |
 | [Hangin' with My Baby](https://open.spotify.com/track/3ZoLqDFPHCyq4jeIMHBODq) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Soul Side of Town](https://open.spotify.com/album/6meVai9RNunLTuXrz5IcVJ) | 5:28 | 2019-08-22 |  |
 | [Head](https://open.spotify.com/track/3dFVdhSdZ88dmGNlTHWC5P) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Dirty Mind](https://open.spotify.com/album/4JsSbaggaprB1AfDylXnxO) | 4:45 | 2019-08-22 |  |
+| [Highly Compatible](https://open.spotify.com/track/2ODU2nsPtVrNIEmBGqhLaH) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Death or Devotion](https://open.spotify.com/album/5u4QWSGcNGl7u9c4PMBbIj) | 6:05 | 2019-08-22 |  |
 | [Highly Compatible](https://open.spotify.com/track/6duiqRWqHNVhCNCqPzd65q) | [The Motet](https://open.spotify.com/artist/4nEUXGyTWXweCdfVf7f8zN) | [Death or Devotion](https://open.spotify.com/album/6n1UQ3O3RHsnxBd1FNGgVl) | 6:05 | 2019-08-22 | 2023-12-25 |
 | [Housequake](https://open.spotify.com/track/5xP9clzYBKZ6F3u2VZUaBJ) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Sign "O" the Times](https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B) | 4:42 | 2019-08-22 |  |
 | [I Can Understand It](https://open.spotify.com/track/65x1aCYMTLRNitjuWzWjL8) | [The New Birth](https://open.spotify.com/artist/34Bm9d5DAJjSnaI02BCjdA) | [Birth Day](https://open.spotify.com/album/0M3myHr9PVkY1SzbjWFDS3) | 6:23 | 2019-08-22 |  |

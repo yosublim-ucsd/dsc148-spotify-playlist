@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "MTEzNCxjZTdiYmJlMDljNmIzZjc2Y2I1Y2I5NmI2ZTM5OWQxODY3YmY0NDNm",
+  "snapshot_id": "MTEzOSxmZjZlZjIzYTdjZGQ4MGMyMDY2YTE2MWI0M2EyMDFmMTM4OWUxYWY3",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -4737,22 +4737,6 @@
       "url": "https://open.spotify.com/track/5UBJPtR2I4dAkZKOtY3ES6"
     },
     {
-      "added_at": "2023-12-13 05:51:44",
-      "album": {
-        "name": "Something to Tell You",
-        "url": "https://open.spotify.com/album/5m9rXTBF7mHFGQlFsiEHrY"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 232120,
-      "name": "Want You Back",
-      "url": "https://open.spotify.com/track/2wXhdaTnmkkFSOidKfnOxA"
-    },
-    {
       "added_at": "2023-12-13 05:55:12",
       "album": {
         "name": "Acid Tongue",
@@ -4799,26 +4783,6 @@
       "duration_ms": 75626,
       "name": "Wildlife Analysis",
       "url": "https://open.spotify.com/track/1XZdwzd8DTDvkjVc0eJ9BI"
-    },
-    {
-      "added_at": "2023-12-15 23:22:01",
-      "album": {
-        "name": "Wicked City",
-        "url": "https://open.spotify.com/album/6E2VHYLPTtFOtdRcpt6YwP"
-      },
-      "artists": [
-        {
-          "name": "Jockstrap",
-          "url": "https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k"
-        },
-        {
-          "name": "Injury Reserve",
-          "url": "https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73"
-        }
-      ],
-      "duration_ms": 209866,
-      "name": "Robert",
-      "url": "https://open.spotify.com/track/2e8lfpyLA5OBzZqdcMEuIN"
     },
     {
       "added_at": "2023-12-16 23:00:38",
@@ -5003,6 +4967,38 @@
       "duration_ms": 482471,
       "name": "Baby Teeth",
       "url": "https://open.spotify.com/track/0rMUVKJNVdtvfv7X8fmyJQ"
+    },
+    {
+      "added_at": "2023-12-25 17:30:32",
+      "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 246573,
+      "name": "Pin It Down",
+      "url": "https://open.spotify.com/track/4G0cKJupBY79cAoYDihZwI"
+    },
+    {
+      "added_at": "2023-12-25 06:49:40",
+      "album": {
+        "name": "Twin Plagues",
+        "url": "https://open.spotify.com/album/00rOqMAZR9zHdtRP5KQ64H"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 248489,
+      "name": "Twin Plagues",
+      "url": "https://open.spotify.com/track/5OeHMVPyqAyfAkeZm9MwSI"
     }
   ],
   "unique_name": "Zacklog",

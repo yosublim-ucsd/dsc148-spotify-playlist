@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 32032,
+  "num_followers": 32042,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWJmYzNmMjA3MTcxYjcwZjVlZDZjZmNkNmEwZWFiNGM5Y2FkMzFh",
+  "snapshot_id": "MCw1MWQ0YmUxNjZiMGM4OTU2MWU3YWQ0YTYxMGU1MDM0YWM3MTdkZTg1",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -291,30 +291,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Stop Playing With My Mind (feat. Darryl D'Bonneau)",
-        "url": "https://open.spotify.com/album/2v2qF0ctOCnJjcM0RxBZzH"
-      },
-      "artists": [
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        },
-        {
-          "name": "Darryl D'Bonneau",
-          "url": "https://open.spotify.com/artist/5Y5uAk2EaMYhSsxAyZHlTw"
-        },
-        {
-          "name": "Whiplash & Turner",
-          "url": "https://open.spotify.com/artist/52wFnNL0bRnnizsGeNtzza"
-        }
-      ],
-      "duration_ms": 566013,
-      "name": "Stop Playing With My Mind (feat. Darryl D'Bonneau) (Whiplash and Turner Vocal Mix)",
-      "url": "https://open.spotify.com/track/4QtptxnekTn0OBDUmhTk4G"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "(Who?) Keeps Changing Your Mind",
         "url": "https://open.spotify.com/album/1nDuo6QoHqcjkLIAwZxDV5"
       },
@@ -343,6 +319,30 @@
       "duration_ms": 474560,
       "name": "Zulu (Change Mix)",
       "url": "https://open.spotify.com/track/3K0HgKUzvMjggsHMWbq8EY"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Stop Playing With My Mind (feat. Darryl D'Bonneau)",
+        "url": "https://open.spotify.com/album/2v2qF0ctOCnJjcM0RxBZzH"
+      },
+      "artists": [
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        },
+        {
+          "name": "Darryl D'Bonneau",
+          "url": "https://open.spotify.com/artist/5Y5uAk2EaMYhSsxAyZHlTw"
+        },
+        {
+          "name": "Whiplash & Turner",
+          "url": "https://open.spotify.com/artist/52wFnNL0bRnnizsGeNtzza"
+        }
+      ],
+      "duration_ms": 566013,
+      "name": "Stop Playing With My Mind (feat. Darryl D'Bonneau) (Whiplash and Turner Vocal Mix)",
+      "url": "https://open.spotify.com/track/4QtptxnekTn0OBDUmhTk4G"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -411,22 +411,6 @@
       "duration_ms": 350066,
       "name": "Sindae (feat. L.G.) (Masters At Work Club Mix)",
       "url": "https://open.spotify.com/track/0aTZHaKTK9htjALc7afCi5"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "I Get Lifted",
-        "url": "https://open.spotify.com/album/637NV5ZJkiEW3lQcFC3MB4"
-      },
-      "artists": [
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        }
-      ],
-      "duration_ms": 433373,
-      "name": "I Get Lifted (The Underground Network Mix)",
-      "url": "https://open.spotify.com/track/07nT2GYH0JJbPwtWmrmJFf"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -515,22 +499,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Generate Power (feat. Paula Brion) [2010 Mixes]",
-        "url": "https://open.spotify.com/album/2gO7YHUxRWuNaYKYBDJ3SB"
+        "name": "I Get Lifted",
+        "url": "https://open.spotify.com/album/637NV5ZJkiEW3lQcFC3MB4"
       },
       "artists": [
         {
-          "name": "Photon Inc.",
-          "url": "https://open.spotify.com/artist/7zDNKiiS6xgYtgDUUgfRCP"
-        },
-        {
-          "name": "Paula Brion",
-          "url": "https://open.spotify.com/artist/60TD8QdUfVWZMl8gMjcTd4"
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
         }
       ],
-      "duration_ms": 523906,
-      "name": "Generate Power (feat. Paula Brion) (Wild Pitch Mix)",
-      "url": "https://open.spotify.com/track/1FJZ5ut6DOWiDwyUV7jWL6"
+      "duration_ms": 433373,
+      "name": "I Get Lifted (The Underground Network Mix)",
+      "url": "https://open.spotify.com/track/07nT2GYH0JJbPwtWmrmJFf"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -551,6 +531,26 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Generate Power (feat. Paula Brion) [2010 Mixes]",
+        "url": "https://open.spotify.com/album/2gO7YHUxRWuNaYKYBDJ3SB"
+      },
+      "artists": [
+        {
+          "name": "Photon Inc.",
+          "url": "https://open.spotify.com/artist/7zDNKiiS6xgYtgDUUgfRCP"
+        },
+        {
+          "name": "Paula Brion",
+          "url": "https://open.spotify.com/artist/60TD8QdUfVWZMl8gMjcTd4"
+        }
+      ],
+      "duration_ms": 523906,
+      "name": "Generate Power (feat. Paula Brion) (Wild Pitch Mix)",
+      "url": "https://open.spotify.com/track/1FJZ5ut6DOWiDwyUV7jWL6"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Higher State of Consciousness",
         "url": "https://open.spotify.com/album/4DMsPDskkWhCfALt696an6"
       },
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Blues for You",
-        "url": "https://open.spotify.com/album/2HrwuxTYrSqZ1CZcyr1ODA"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/6rpTmAVssi39dK1wX5ncZT"
-        }
-      ],
-      "duration_ms": 377093,
-      "name": "Blues for You (Vocal Mix #1)",
-      "url": "https://open.spotify.com/track/6o96U40oTGxjZXGt8dcQis"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Asuca",
         "url": "https://open.spotify.com/album/5DRODMw9XhelyGqmZn3VHM"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 356676,
       "name": "Asuca (Tribal Mix)",
       "url": "https://open.spotify.com/track/6iJIfytcXqldt0uD4Ts02X"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Blues for You",
+        "url": "https://open.spotify.com/album/2HrwuxTYrSqZ1CZcyr1ODA"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/6rpTmAVssi39dK1wX5ncZT"
+        }
+      ],
+      "duration_ms": 377093,
+      "name": "Blues for You (Vocal Mix #1)",
+      "url": "https://open.spotify.com/track/6o96U40oTGxjZXGt8dcQis"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/3BLGNLZATTflFNr861JgiQ"
-      },
-      "artists": [
-        {
-          "name": "James Roach",
-          "url": "https://open.spotify.com/artist/6rop3rDr8Dtl7uNwsONcyP"
-        }
-      ],
-      "duration_ms": 369461,
-      "name": "Special (Club Mix)",
-      "url": "https://open.spotify.com/track/7oOS89jZA2PS7YyvCf2A6m"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "You Don't Know (MuthaFunkaz Mixes)",
         "url": "https://open.spotify.com/album/4PqEJS2uVhkonuNw128HWO"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Strictly Phuture",
-        "url": "https://open.spotify.com/album/17WcHELbVmsO6aHKghBIv8"
+        "name": "Special",
+        "url": "https://open.spotify.com/album/3BLGNLZATTflFNr861JgiQ"
       },
       "artists": [
         {
-          "name": "Phuture",
-          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
+          "name": "James Roach",
+          "url": "https://open.spotify.com/artist/6rop3rDr8Dtl7uNwsONcyP"
         }
       ],
-      "duration_ms": 352360,
-      "name": "Rise from Your Grave (Wake Da F___ Up Mix)",
-      "url": "https://open.spotify.com/track/1iNKvXfnFZXKr9CPMVYS12"
+      "duration_ms": 369461,
+      "name": "Special (Club Mix)",
+      "url": "https://open.spotify.com/track/7oOS89jZA2PS7YyvCf2A6m"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -727,6 +711,22 @@
       "duration_ms": 297037,
       "name": "Wanna Be Your Girl (A 'G' Thang Mix)",
       "url": "https://open.spotify.com/track/7EewnEBTJx3JDYoy7oFwc0"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Strictly Phuture",
+        "url": "https://open.spotify.com/album/17WcHELbVmsO6aHKghBIv8"
+      },
+      "artists": [
+        {
+          "name": "Phuture",
+          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
+        }
+      ],
+      "duration_ms": 352360,
+      "name": "Rise from Your Grave (Wake Da F___ Up Mix)",
+      "url": "https://open.spotify.com/track/1iNKvXfnFZXKr9CPMVYS12"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -783,6 +783,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/6714X9DTEcUC6K6yv1uQpE"
+      },
+      "artists": [
+        {
+          "name": "Shadii",
+          "url": "https://open.spotify.com/artist/1Kn2EZ3n656E7R9Cl6p9l2"
+        }
+      ],
+      "duration_ms": 342621,
+      "name": "My People (My People Mix)",
+      "url": "https://open.spotify.com/track/23kx0OirzCk4PQbbKs6rya"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Hey! / The Size (Mixes)",
         "url": "https://open.spotify.com/album/0XkBAnu83dKmmUNgPSBoqi"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 441120,
       "name": "Curious (Vocal Mix)",
       "url": "https://open.spotify.com/track/7Mfn2DaQvcnvjfRb18c4g1"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/6714X9DTEcUC6K6yv1uQpE"
-      },
-      "artists": [
-        {
-          "name": "Shadii",
-          "url": "https://open.spotify.com/artist/1Kn2EZ3n656E7R9Cl6p9l2"
-        }
-      ],
-      "duration_ms": 342621,
-      "name": "My People (My People Mix)",
-      "url": "https://open.spotify.com/track/23kx0OirzCk4PQbbKs6rya"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -899,6 +899,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Stay Together",
+        "url": "https://open.spotify.com/album/0xrqODIep7KKo2vidLXRwa"
+      },
+      "artists": [
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        }
+      ],
+      "duration_ms": 777623,
+      "name": "Stay Together (Armand's ''Crazy'' Trauma Mix)",
+      "url": "https://open.spotify.com/track/3WRopB0zlN46JeckfHUF3G"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Get Up",
         "url": "https://open.spotify.com/album/4ZwpOTuIbV15jhyWfJMb7D"
       },
@@ -931,22 +947,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Stay Together",
-        "url": "https://open.spotify.com/album/0xrqODIep7KKo2vidLXRwa"
-      },
-      "artists": [
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        }
-      ],
-      "duration_ms": 777623,
-      "name": "Stay Together (Armand's ''Crazy'' Trauma Mix)",
-      "url": "https://open.spotify.com/track/3WRopB0zlN46JeckfHUF3G"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Justify",
         "url": "https://open.spotify.com/album/6PhheNrljrGFJyhGe6RQSH"
       },
@@ -959,38 +959,6 @@
       "duration_ms": 545040,
       "name": "Justify (Vocal Mix)",
       "url": "https://open.spotify.com/track/4Eo3NoZQN7K4q8DJd3a2v9"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Just An Organ / Getting Bigger (Mixes)",
-        "url": "https://open.spotify.com/album/5BnDOPtqUI0eR3yIorHn7j"
-      },
-      "artists": [
-        {
-          "name": "D-Tune",
-          "url": "https://open.spotify.com/artist/26P8hiVKDgo3V5CfdYwSWm"
-        }
-      ],
-      "duration_ms": 337901,
-      "name": "Just an Organ (Just An Organ Mix)",
-      "url": "https://open.spotify.com/track/5sUqzg4M6ghFpcTciCiSiH"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Muevete Mama",
-        "url": "https://open.spotify.com/album/3zmd8wHIeDNeAGHZS5TTwx"
-      },
-      "artists": [
-        {
-          "name": "Afro-Cube",
-          "url": "https://open.spotify.com/artist/404yHHpunUI8aDneAYbY1u"
-        }
-      ],
-      "duration_ms": 414378,
-      "name": "Muevete Mama (Broder Mix)",
-      "url": "https://open.spotify.com/track/3INDjdGtsfQPzfp1MMjcWK"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1011,6 +979,38 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Muevete Mama",
+        "url": "https://open.spotify.com/album/3zmd8wHIeDNeAGHZS5TTwx"
+      },
+      "artists": [
+        {
+          "name": "Afro-Cube",
+          "url": "https://open.spotify.com/artist/404yHHpunUI8aDneAYbY1u"
+        }
+      ],
+      "duration_ms": 414378,
+      "name": "Muevete Mama (Broder Mix)",
+      "url": "https://open.spotify.com/track/3INDjdGtsfQPzfp1MMjcWK"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Just An Organ / Getting Bigger (Mixes)",
+        "url": "https://open.spotify.com/album/5BnDOPtqUI0eR3yIorHn7j"
+      },
+      "artists": [
+        {
+          "name": "D-Tune",
+          "url": "https://open.spotify.com/artist/26P8hiVKDgo3V5CfdYwSWm"
+        }
+      ],
+      "duration_ms": 337901,
+      "name": "Just an Organ (Just An Organ Mix)",
+      "url": "https://open.spotify.com/track/5sUqzg4M6ghFpcTciCiSiH"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Set My Spirit Free",
         "url": "https://open.spotify.com/album/26niUzngjZz2T00CSUek56"
       },
@@ -1027,6 +1027,26 @@
       "duration_ms": 468520,
       "name": "Set My Spirit Free (feat. Sandy Rivera)",
       "url": "https://open.spotify.com/track/1Atpos1RTfmnpMzeSTkMHx"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: Tony Humphries Strictly Rhythm Mix",
+        "url": "https://open.spotify.com/album/5OnKjcZw9bdTwtehVtdBcp"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/6rpTmAVssi39dK1wX5ncZT"
+        },
+        {
+          "name": "Claude Monnet",
+          "url": "https://open.spotify.com/artist/08UnNnUkmKlxFVb25yboWo"
+        }
+      ],
+      "duration_ms": 233466,
+      "name": "The Warning (2 Copy Mix)",
+      "url": "https://open.spotify.com/track/6zUi8w1eVSwqBl1YbmxDKS"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1067,26 +1087,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Tony Humphries Strictly Rhythm Mix",
-        "url": "https://open.spotify.com/album/5OnKjcZw9bdTwtehVtdBcp"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/6rpTmAVssi39dK1wX5ncZT"
-        },
-        {
-          "name": "Claude Monnet",
-          "url": "https://open.spotify.com/artist/08UnNnUkmKlxFVb25yboWo"
-        }
-      ],
-      "duration_ms": 233466,
-      "name": "The Warning (2 Copy Mix)",
-      "url": "https://open.spotify.com/track/6zUi8w1eVSwqBl1YbmxDKS"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
         "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
       },
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
-        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
-      },
-      "artists": [
-        {
-          "name": "Barbara Douglas",
-          "url": "https://open.spotify.com/artist/6lCEiSHsqoAZ61AiHbTw6w"
-        }
-      ],
-      "duration_ms": 260065,
-      "name": "Shine (Sundown Dub)",
-      "url": "https://open.spotify.com/track/20PGCMaMNwACzTtZGdiCBm"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Strictly Rhythms, Vol. 1",
         "url": "https://open.spotify.com/album/6VfiD0SC34baxLDlDxtPI2"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 766733,
       "name": "Tribal Seagulls",
       "url": "https://open.spotify.com/track/0QsxEwYwa7FeF3u5lE6lc6"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition - Unmixed]",
+        "url": "https://open.spotify.com/album/2guPG5i6ZbQvKmNmLGOSKz"
+      },
+      "artists": [
+        {
+          "name": "Barbara Douglas",
+          "url": "https://open.spotify.com/artist/6lCEiSHsqoAZ61AiHbTw6w"
+        }
+      ],
+      "duration_ms": 260065,
+      "name": "Shine (Sundown Dub)",
+      "url": "https://open.spotify.com/track/20PGCMaMNwACzTtZGdiCBm"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Everybody Dance",
+        "url": "https://open.spotify.com/album/6cLUkcaFe8voggxAoWXEDS"
+      },
+      "artists": [
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        }
+      ],
+      "duration_ms": 479440,
+      "name": "Everybody Dance (M.A.S. Club Vocal)",
+      "url": "https://open.spotify.com/track/2kAjEH6vpzYTrp5vRnJkBE"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "The Beat That Makes U Move",
         "url": "https://open.spotify.com/album/5GyM1JW6iNfthvDAAuQZnX"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 458306,
       "name": "The Beat That Makes U Move (The Rhythm Hype Mix)",
       "url": "https://open.spotify.com/track/2un4L4HUr8Q17tHtehjM81"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Everybody Dance",
-        "url": "https://open.spotify.com/album/6cLUkcaFe8voggxAoWXEDS"
-      },
-      "artists": [
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        }
-      ],
-      "duration_ms": 479440,
-      "name": "Everybody Dance (M.A.S. Club Vocal)",
-      "url": "https://open.spotify.com/track/2kAjEH6vpzYTrp5vRnJkBE"
     },
     {
       "added_at": "2022-03-03 13:59:16",

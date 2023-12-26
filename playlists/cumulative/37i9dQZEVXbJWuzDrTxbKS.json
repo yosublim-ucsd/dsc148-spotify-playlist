@@ -5364,7 +5364,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 242495,
       "name": "Christmas Lights",
       "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
@@ -10810,7 +10810,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -12904,7 +12904,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 260111,
       "name": "IDGAF (feat. Yeat)",
       "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
@@ -16420,7 +16420,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
@@ -19366,7 +19366,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 280466,
       "name": "Nakts",
       "url": "https://open.spotify.com/track/6L9dtMNX2QrY7Tuif7OwSg"
@@ -23034,7 +23034,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 195533,
       "name": "Reiz Ziemassvetkos",
       "url": "https://open.spotify.com/track/0su6rOQahlgNLQMI6EmH15"
@@ -24198,7 +24198,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 144013,
       "name": "Santa Claus Is Coming To Town",
       "url": "https://open.spotify.com/track/2QpN1ZVw8eJO5f7WcvUA1k"
@@ -25827,6 +25827,24 @@
     },
     {
       "album": {
+        "name": "Sniega Pika",
+        "url": "https://open.spotify.com/album/2z7qHS6UPGDrozGRM1jopD"
+      },
+      "artists": [
+        {
+          "name": "Bermudu Divst\u016bris",
+          "url": "https://open.spotify.com/artist/7hkFOXZNtMKGG8QXTRSQcT"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207075,
+      "name": "Sniega Pika",
+      "url": "https://open.spotify.com/track/191RCTIttXwq2GDHCCWqSO"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -26640,7 +26658,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 272333,
       "name": "Step Into Christmas - Remastered 1995",
       "url": "https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK"
@@ -26716,7 +26734,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 172964,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
@@ -28685,6 +28703,24 @@
     },
     {
       "album": {
+        "name": "Tik Balti",
+        "url": "https://open.spotify.com/album/5oiVgoDg9nYVij281fQJdK"
+      },
+      "artists": [
+        {
+          "name": "Lauris Reiniks",
+          "url": "https://open.spotify.com/artist/1yGNovmRGFnbVA4TFOxmDt"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213133,
+      "name": "Tik balti",
+      "url": "https://open.spotify.com/track/4zpSBYJgOPaIIlFa78dfW4"
+    },
+    {
+      "album": {
         "name": "Le\u0123endas. Oj\u0101rs Gr\u012bnbergs",
         "url": "https://open.spotify.com/album/43dL2gMWCzVk5KoX8O6PAj"
       },
@@ -29952,6 +29988,24 @@
       "duration_ms": 204255,
       "name": "Uz Seen",
       "url": "https://open.spotify.com/track/3HsWEpUnpzEITFJnbTyLTM"
+    },
+    {
+      "album": {
+        "name": "Latvijas ziema",
+        "url": "https://open.spotify.com/album/74C4980K9rAZQJUCOAVE2X"
+      },
+      "artists": [
+        {
+          "name": "\u0100ris un Saulceris Zieme\u013ci",
+          "url": "https://open.spotify.com/artist/5BachNQ3UX6HtmrpXs206O"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261706,
+      "name": "Uzsniga sniedzi\u0146\u0161 balts",
+      "url": "https://open.spotify.com/track/32sArpwU88TI0FZROvPtcZ"
     },
     {
       "album": {
@@ -31967,6 +32021,24 @@
     },
     {
       "album": {
+        "name": "Vair\u0101k nek\u0101 ska\u013ci",
+        "url": "https://open.spotify.com/album/1fQ1gHkZMNsemrO09g4m20"
+      },
+      "artists": [
+        {
+          "name": "Pr\u0101ta V\u0113tra",
+          "url": "https://open.spotify.com/artist/52SusfPq6EW5PgrjUqMHSy"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150986,
+      "name": "Ziema",
+      "url": "https://open.spotify.com/track/2YJQTgU0jkYgNteVihut8W"
+    },
+    {
+      "album": {
         "name": "Eiropa M\u016bs Nesaprat\u012bs",
         "url": "https://open.spotify.com/album/6CVPnBu3f5Dov3mmH6h0VH"
       },
@@ -31996,7 +32068,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 177400,
       "name": "Ziemassv\u0113tku dziesmi\u0146a",
       "url": "https://open.spotify.com/track/6E0S46NSXaKs00pG80614F"
@@ -32089,12 +32161,12 @@
         },
         {
           "name": "Kn\u012bpas un Knau\u0137i",
-          "url": "https://open.spotify.com/artist/5YtPZBQKhvb7IDWHrFk4Aw"
+          "url": "https://open.spotify.com/artist/1wfapfurhBQJIFlXyfSEvY"
         }
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 174120,
       "name": "Zvani\u0146\u0161 skan",
       "url": "https://open.spotify.com/track/3soGpfgx6HxraJLWDuiL94"
@@ -34152,7 +34224,7 @@
       ],
       "date_added": "2023-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 210465,
       "name": "\u041f\u044b\u044f\u043b\u0430",
       "url": "https://open.spotify.com/track/1nZHWDoDoP0Dtgup8jTW2u"

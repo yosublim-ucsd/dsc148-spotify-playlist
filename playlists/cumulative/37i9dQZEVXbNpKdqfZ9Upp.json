@@ -3114,7 +3114,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 188179,
       "name": "BATTER UP",
       "url": "https://open.spotify.com/track/3VBj0lzjmhTzVFPEDOjNCG"
@@ -9164,7 +9164,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-31",
+      "date_removed": null,
       "duration_ms": 322024,
       "name": "El Soldado Ausente",
       "url": "https://open.spotify.com/track/2bBWSsirMnwnF8ysNXwPf7"
@@ -14060,6 +14060,24 @@
       "duration_ms": 164482,
       "name": "LA 701",
       "url": "https://open.spotify.com/track/62vhlXTC4rrb13dVUlyYpO"
+    },
+    {
+      "album": {
+        "name": "15 Super Exitos, Vol. 3",
+        "url": "https://open.spotify.com/album/2WnXNtvfT4LRE01h7aQvNY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Decadas",
+          "url": "https://open.spotify.com/artist/1ZOX3XSGg9qsvHv3NWfAJw"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281960,
+      "name": "La Avispa",
+      "url": "https://open.spotify.com/track/5tqkBtox5PH5P8zHlfek4n"
     },
     {
       "album": {
@@ -23442,7 +23460,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 163212,
       "name": "QUIENES SON",
       "url": "https://open.spotify.com/track/528T2xvgLJ1T8TWYX7blBy"
@@ -23618,7 +23636,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 192266,
       "name": "QU\u00c9 ROLLITO PRIMAVERA",
       "url": "https://open.spotify.com/track/3WoxwWoay78KXzGRlAm7J7"
@@ -26108,7 +26126,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 229013,
       "name": "Snow Flower (feat. Peakboy)",
       "url": "https://open.spotify.com/track/34IGOyXR6cn0YI9VBu8m0y"
@@ -26644,7 +26662,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 214760,
       "name": "Standing Next to You (Usher Remix)",
       "url": "https://open.spotify.com/track/0VPFT123HKoQ2J6ipeDcI1"
@@ -27068,7 +27086,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 229938,
       "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
       "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"

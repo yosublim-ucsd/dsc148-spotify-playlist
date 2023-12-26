@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 
 > This is Bruce Springsteen\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,813 likes - 52 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,911 likes - 52 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1S7maQ.md) - [plain]
 | 51 | [Addicted to Romance \- from the film 'She Came to Me'](https://open.spotify.com/track/0SQ4VQXznjjfueQeMh0Ve1) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT), [Patti Scialfa](https://open.spotify.com/artist/6kZQOOVmBEdPxeWYe4xbDj) | [Addicted to Romance \(from the film 'She Came to Me'\)](https://open.spotify.com/album/1uV57fy7S2AH4DxfgmJDRd) | 3:05 |
 | 52 | [I Wish I Were Blind \- Live at Van Andel Arena, Grand Rapids, MI \- 8/3/2005](https://open.spotify.com/track/6Y0e8tZkyR5dDxwpDMaPxf) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The Live Series: Songs on Keys](https://open.spotify.com/album/6pqzdpIh3iUrsuYLehcDq3) | 3:55 |
 
-Snapshot ID: `MjgzOTAyOTIsMDAwMDAwMDBhZDFkZjRmMjgxODNlZTcxMTM5NzIyYWZlMDJjMzAxNg==`
+Snapshot ID: `MjgzOTE3MzUsMDAwMDAwMDAxMmIwYzYyOGZmNWI4YWVmOWNmMDIzZDE4YmE1NDhiNw==`

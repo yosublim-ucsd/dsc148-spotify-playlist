@@ -608,7 +608,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 225312,
       "name": "Always",
       "url": "https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus"
@@ -1296,7 +1296,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 263250,
       "name": "bad",
       "url": "https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6"
@@ -2420,6 +2420,24 @@
       "duration_ms": 161684,
       "name": "Chosen (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1dIWPXMX4kRHj6Dt2DStUQ"
+    },
+    {
+      "album": {
+        "name": "Christmas in Our Hearts",
+        "url": "https://open.spotify.com/album/1M1Gi9L0gttpvARre57p7y"
+      },
+      "artists": [
+        {
+          "name": "Jose Mari Chan",
+          "url": "https://open.spotify.com/artist/1EHAbA1GMYOfkh9ds9eNfS"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Christmas in Our Hearts",
+      "url": "https://open.spotify.com/track/6fu6uFC8eSFWnEcZnkIUdJ"
     },
     {
       "album": {
@@ -4782,7 +4800,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 261866,
       "name": "Hanggang Kailan - Umuwi Ka Na Baby",
       "url": "https://open.spotify.com/track/69u8qQcaA3o0A7Ko87juqp"
@@ -5222,7 +5240,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 119786,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
@@ -5856,7 +5874,7 @@
       ],
       "date_added": "2021-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 263500,
       "name": "Ikaw Lang",
       "url": "https://open.spotify.com/track/16iRlyUMJVPqz62DlomMre"
@@ -6066,7 +6084,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 269256,
       "name": "Isa lang",
       "url": "https://open.spotify.com/track/0HAG6nIiEKd75yGpovuSJQ"
@@ -6120,7 +6138,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
@@ -6138,7 +6156,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
@@ -6228,7 +6246,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
@@ -6379,6 +6397,24 @@
     },
     {
       "album": {
+        "name": "Pamasko Ng Mga Bituin",
+        "url": "https://open.spotify.com/album/1CIUzJ8OkF00ewxIQgVzhq"
+      },
+      "artists": [
+        {
+          "name": "Leo Valdez",
+          "url": "https://open.spotify.com/artist/55yK9bebS7rDYaiTiR0slN"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174133,
+      "name": "Kampana Ng Simbahan",
+      "url": "https://open.spotify.com/track/3WJNclt6udgjcPiSy0hMNb"
+    },
+    {
+      "album": {
         "name": "Pebble House, Vol. 1: Kuwaderno",
         "url": "https://open.spotify.com/album/0UeeygFdIo8k7PgxpLEGWI"
       },
@@ -6496,7 +6532,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
@@ -6990,7 +7026,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 234052,
       "name": "Leonora",
       "url": "https://open.spotify.com/track/1K0rybxoxW5svDYwXezXyN"
@@ -7008,7 +7044,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -7228,7 +7264,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 163964,
       "name": "Lil Kasalanan Shortie",
       "url": "https://open.spotify.com/track/6zdryckXPbIeQE5npNqvNp"
@@ -7830,7 +7866,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 201951,
       "name": "Mahika",
       "url": "https://open.spotify.com/track/2nqlM3gNBMi5Zf9MDzp2Xi"
@@ -8162,7 +8198,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
@@ -8528,6 +8564,24 @@
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+    },
+    {
+      "album": {
+        "name": "MY THANG (GO GETTA 2)",
+        "url": "https://open.spotify.com/album/2iLm8scmBP9VcNixtMIf4G"
+      },
+      "artists": [
+        {
+          "name": "O SIDE MAFIA",
+          "url": "https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190660,
+      "name": "MY THANG (GO GETTA 2)",
+      "url": "https://open.spotify.com/track/1fRLcqxVwpzpua8E6Se2sN"
     },
     {
       "album": {
@@ -9244,7 +9298,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 218051,
       "name": "Palagi",
       "url": "https://open.spotify.com/track/0sqnYgWOw9DMc6jRgkcB2m"
@@ -10162,7 +10216,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
@@ -11405,6 +11459,24 @@
     },
     {
       "album": {
+        "name": "Magkasama Tayo Sa Kwento Ng Pasko",
+        "url": "https://open.spotify.com/album/1WS9Czrzo4yPXJMRhREseD"
+      },
+      "artists": [
+        {
+          "name": "ABS-CBN Music All Star",
+          "url": "https://open.spotify.com/artist/2H4bbbOohoe9zhqEsiRi7j"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267080,
+      "name": "Star ng Pasko",
+      "url": "https://open.spotify.com/track/0VM3fjo52ixDZVrlv4VYBm"
+    },
+    {
+      "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6x9s2ObPdpATZgrwxsk9c0"
       },
@@ -12110,7 +12182,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 222446,
       "name": "Tadhana",
       "url": "https://open.spotify.com/track/6FIEuf1JIzmCtach0gXpeG"
@@ -13266,6 +13338,24 @@
     {
       "album": {
         "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229640,
+      "name": "Underneath the Tree",
+      "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
+    },
+    {
+      "album": {
+        "name": "Wrapped In Red",
         "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
       },
       "artists": [
@@ -13490,7 +13580,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 219724,
       "name": "vampire",
       "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"

@@ -1,12 +1,12 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 72523,
+  "num_followers": 72539,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGE0MDU5YTU3ODY4OWY4MWRlNTNlNDcwNjYxZjQ4Mzc4N2FjNzFk",
+  "snapshot_id": "MCxlNDc3YjZmYzI4NDZiMzk0NTA3NTYwNTcwZGY4NmM4ZmEzOTUzNjk0",
   "tracks": [
     {
       "added_at": "2023-12-14 23:00:00",
@@ -143,6 +143,22 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
+        "name": "Og s\u00e5 kom resten av livet",
+        "url": "https://open.spotify.com/album/6GJG4JNQbwF4KqFIVLP4dN"
+      },
+      "artists": [
+        {
+          "name": "Kari Bremnes",
+          "url": "https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd"
+        }
+      ],
+      "duration_ms": 311453,
+      "name": "E du nord",
+      "url": "https://open.spotify.com/track/5YgL7RNkh1QttjkQrfYfqc"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
         "name": "Hver Gang Vi M\u00f8tes 2023",
         "url": "https://open.spotify.com/album/272tAO2vDpKaaD1FjHTeRY"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 156189,
       "name": "For v\u00e5r jord",
       "url": "https://open.spotify.com/track/7ERi1NHykO7dt8f1lmyCTn"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Og s\u00e5 kom resten av livet",
-        "url": "https://open.spotify.com/album/6GJG4JNQbwF4KqFIVLP4dN"
-      },
-      "artists": [
-        {
-          "name": "Kari Bremnes",
-          "url": "https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd"
-        }
-      ],
-      "duration_ms": 311453,
-      "name": "E du nord",
-      "url": "https://open.spotify.com/track/5YgL7RNkh1QttjkQrfYfqc"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -231,18 +231,18 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "S\u00f8vnlaus",
-        "url": "https://open.spotify.com/album/3O6xwlooceiBfpcZRrtqsp"
+        "name": "Svarte Skyer",
+        "url": "https://open.spotify.com/album/1I48BUxY2ikuoJXRRwxT1R"
       },
       "artists": [
         {
-          "name": "Hellbillies",
-          "url": "https://open.spotify.com/artist/0PqNs9XCK5D16ihtRMuOoU"
+          "name": "Hanne S\u00f8rvaag",
+          "url": "https://open.spotify.com/artist/6qFrcxPy2n6NfXZniuEvEH"
         }
       ],
-      "duration_ms": 246626,
-      "name": "20 \u00e5r p\u00e5 vegen",
-      "url": "https://open.spotify.com/track/2z9qzLuCkfRdGNI1u08EyO"
+      "duration_ms": 180328,
+      "name": "Svarte Skyer",
+      "url": "https://open.spotify.com/track/7vc20svG3dLSILMi1nUMv5"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -263,18 +263,18 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Svarte Skyer",
-        "url": "https://open.spotify.com/album/1I48BUxY2ikuoJXRRwxT1R"
+        "name": "S\u00f8vnlaus",
+        "url": "https://open.spotify.com/album/3O6xwlooceiBfpcZRrtqsp"
       },
       "artists": [
         {
-          "name": "Hanne S\u00f8rvaag",
-          "url": "https://open.spotify.com/artist/6qFrcxPy2n6NfXZniuEvEH"
+          "name": "Hellbillies",
+          "url": "https://open.spotify.com/artist/0PqNs9XCK5D16ihtRMuOoU"
         }
       ],
-      "duration_ms": 180328,
-      "name": "Svarte Skyer",
-      "url": "https://open.spotify.com/track/7vc20svG3dLSILMi1nUMv5"
+      "duration_ms": 246626,
+      "name": "20 \u00e5r p\u00e5 vegen",
+      "url": "https://open.spotify.com/track/2z9qzLuCkfRdGNI1u08EyO"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -291,22 +291,6 @@
       "duration_ms": 244120,
       "name": "Bestevenn",
       "url": "https://open.spotify.com/track/0bQLTkISNpcZ70TbGGisTA"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Liten fuggel (Med kommentarer)",
-        "url": "https://open.spotify.com/album/2rPi9btQoagJ9Kzv6Hg8tr"
-      },
-      "artists": [
-        {
-          "name": "Vamp",
-          "url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk"
-        }
-      ],
-      "duration_ms": 191173,
-      "name": "Liten fuggel",
-      "url": "https://open.spotify.com/track/5ZCHRkU8DiInkWQmzpfckE"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -343,22 +327,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Jippi",
-        "url": "https://open.spotify.com/album/4oofUdb8zptFJzi5AlhQ6u"
-      },
-      "artists": [
-        {
-          "name": "D.D.E.",
-          "url": "https://open.spotify.com/artist/4bCGs1M7PyTfQFtxvRvUom"
-        }
-      ],
-      "duration_ms": 259986,
-      "name": "Det Fine Vi Hadd' Sammen",
-      "url": "https://open.spotify.com/track/6xndjhJtBSxxL7bcZdAiEJ"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "Sol\u00f8ye",
         "url": "https://open.spotify.com/album/5G5WRvcAMhNFEEBa57INLW"
       },
@@ -379,6 +347,38 @@
       "duration_ms": 203937,
       "name": "\u00c5 Kunne \u00c6 Skrive",
       "url": "https://open.spotify.com/track/3Q5UYAQJ4l3crdc3YjnqbK"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Liten fuggel (Med kommentarer)",
+        "url": "https://open.spotify.com/album/2rPi9btQoagJ9Kzv6Hg8tr"
+      },
+      "artists": [
+        {
+          "name": "Vamp",
+          "url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk"
+        }
+      ],
+      "duration_ms": 191173,
+      "name": "Liten fuggel",
+      "url": "https://open.spotify.com/track/5ZCHRkU8DiInkWQmzpfckE"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Jippi",
+        "url": "https://open.spotify.com/album/4oofUdb8zptFJzi5AlhQ6u"
+      },
+      "artists": [
+        {
+          "name": "D.D.E.",
+          "url": "https://open.spotify.com/artist/4bCGs1M7PyTfQFtxvRvUom"
+        }
+      ],
+      "duration_ms": 259986,
+      "name": "Det Fine Vi Hadd' Sammen",
+      "url": "https://open.spotify.com/track/6xndjhJtBSxxL7bcZdAiEJ"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
+        "name": "Alt det som skinner",
+        "url": "https://open.spotify.com/album/2R6Dqa6ORZaDkBXeD9SMbr"
+      },
+      "artists": [
+        {
+          "name": "Anne Grete Preus",
+          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
+        }
+      ],
+      "duration_ms": 250403,
+      "name": "Alt det som skinner",
+      "url": "https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
         "name": "Gressholmen",
         "url": "https://open.spotify.com/album/5ZUNIkbIigepocjfzRWdX9"
       },
@@ -559,38 +575,6 @@
       "duration_ms": 279240,
       "name": "P\u00e5 vei",
       "url": "https://open.spotify.com/track/0lRtPuJoG47Mhm6a69Uewk"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Det jeg vil ha (fra deg)",
-        "url": "https://open.spotify.com/album/0oRXCrnDAsKWQg6XoOvf0i"
-      },
-      "artists": [
-        {
-          "name": "Frida \u00c5nnevik",
-          "url": "https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2"
-        }
-      ],
-      "duration_ms": 203263,
-      "name": "Det jeg vil ha (fra deg)",
-      "url": "https://open.spotify.com/track/7FzPmvCXC8CqwP9AkIkPA9"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
-        "name": "Alt det som skinner",
-        "url": "https://open.spotify.com/album/2R6Dqa6ORZaDkBXeD9SMbr"
-      },
-      "artists": [
-        {
-          "name": "Anne Grete Preus",
-          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
-        }
-      ],
-      "duration_ms": 250403,
-      "name": "Alt det som skinner",
-      "url": "https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD"
     },
     {
       "added_at": "2023-12-14 23:00:00",
@@ -643,6 +627,22 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
+        "name": "Det jeg vil ha (fra deg)",
+        "url": "https://open.spotify.com/album/0oRXCrnDAsKWQg6XoOvf0i"
+      },
+      "artists": [
+        {
+          "name": "Frida \u00c5nnevik",
+          "url": "https://open.spotify.com/artist/0SlejFsyHq7i1ZgWoRWdH2"
+        }
+      ],
+      "duration_ms": 203263,
+      "name": "Det jeg vil ha (fra deg)",
+      "url": "https://open.spotify.com/track/7FzPmvCXC8CqwP9AkIkPA9"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
         "name": "Bru over m\u00f8rke b\u00f8lger",
         "url": "https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4"
       },
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Brev",
-        "url": "https://open.spotify.com/album/7dHWUhM8sCYDe6OGiYFwiM"
-      },
-      "artists": [
-        {
-          "name": "Vamp",
-          "url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk"
-        }
-      ],
-      "duration_ms": 201280,
-      "name": "Rosa",
-      "url": "https://open.spotify.com/track/6sxLAqdDH7bzWX59dbenzB"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "Under deg",
         "url": "https://open.spotify.com/album/7aCZa7V8vkhBKJ1Fbfe7el"
       },
@@ -739,6 +723,22 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
+        "name": "Brev",
+        "url": "https://open.spotify.com/album/7dHWUhM8sCYDe6OGiYFwiM"
+      },
+      "artists": [
+        {
+          "name": "Vamp",
+          "url": "https://open.spotify.com/artist/5kOdtYNbevIlgUOQkhASnk"
+        }
+      ],
+      "duration_ms": 201280,
+      "name": "Rosa",
+      "url": "https://open.spotify.com/track/6sxLAqdDH7bzWX59dbenzB"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
         "name": "Evig kvile",
         "url": "https://open.spotify.com/album/3FXRGtIbIadCBWasFSyOaq"
       },
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-12-14 23:00:00",
       "album": {
-        "name": "Jeg er en by",
-        "url": "https://open.spotify.com/album/196A7L4UDQrAI08K9qTCE2"
-      },
-      "artists": [
-        {
-          "name": "Odd Nordstoga",
-          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
-        }
-      ],
-      "duration_ms": 271160,
-      "name": "Jeg er en by",
-      "url": "https://open.spotify.com/track/6j97FYSITizHL50hD5Q5n5"
-    },
-    {
-      "added_at": "2023-12-14 23:00:00",
-      "album": {
         "name": "Kr\u00e5keviks Songbok",
         "url": "https://open.spotify.com/album/5SdOIn61IrYoS5xg5sejzf"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 178760,
       "name": "Den Fyrste Song",
       "url": "https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe"
+    },
+    {
+      "added_at": "2023-12-14 23:00:00",
+      "album": {
+        "name": "Jeg er en by",
+        "url": "https://open.spotify.com/album/196A7L4UDQrAI08K9qTCE2"
+      },
+      "artists": [
+        {
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+        }
+      ],
+      "duration_ms": 271160,
+      "name": "Jeg er en by",
+      "url": "https://open.spotify.com/track/6j97FYSITizHL50hD5Q5n5"
     },
     {
       "added_at": "2023-12-14 23:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 10286,
+  "num_followers": 10287,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGMyMjU1ZGE5YjdmZTQ2Y2FmZjYxNTBiZjE1MTU5MGEzZmQ4MTll",
+  "snapshot_id": "MCwyYTZmYzQwZWMwNmVjMDg4MjIxYTVhNTUwMzY4Y2ZiODBlZDZiZjJk",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -135,22 +135,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Wi Deh Yah",
-        "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Wi Deh Yah",
-      "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Famalay",
         "url": "https://open.spotify.com/album/6ZhAG5mWqLEq3ZB3C1dx5q"
       },
@@ -215,18 +199,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "I Wish",
-        "url": "https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h"
+        "name": "Wi Deh Yah",
+        "url": "https://open.spotify.com/album/6VS3rD5JvrO6d7L9v1G7W1"
       },
       "artists": [
         {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
         }
       ],
-      "duration_ms": 175187,
-      "name": "I Wish",
-      "url": "https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK"
+      "duration_ms": 146400,
+      "name": "Wi Deh Yah",
+      "url": "https://open.spotify.com/track/6EnfbMj5Ui3jkIw8CDaYIW"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -299,8 +283,8 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Update",
-        "url": "https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe"
+        "name": "I Wish",
+        "url": "https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h"
       },
       "artists": [
         {
@@ -308,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
         }
       ],
-      "duration_ms": 204257,
-      "name": "Update",
-      "url": "https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ"
+      "duration_ms": 175187,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -367,26 +351,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Dear Promoter",
-        "url": "https://open.spotify.com/album/3fiMNWUuR76Xj38ugSEIHe"
-      },
-      "artists": [
-        {
-          "name": "Voice",
-          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
-        },
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 244578,
-      "name": "Dear Promoter",
-      "url": "https://open.spotify.com/track/74F3DNzHUSrJ6sNz4YkFWe"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Heaven Passport",
         "url": "https://open.spotify.com/album/2isP74vOyY08TNii3xoeaZ"
       },
@@ -403,6 +367,26 @@
       "duration_ms": 187375,
       "name": "Heaven Passport",
       "url": "https://open.spotify.com/track/3MEO3XzuF79wbokXOnWEJg"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Dear Promoter",
+        "url": "https://open.spotify.com/album/3fiMNWUuR76Xj38ugSEIHe"
+      },
+      "artists": [
+        {
+          "name": "Voice",
+          "url": "https://open.spotify.com/artist/61buXyJGplh38VDpEaB2ds"
+        },
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 244578,
+      "name": "Dear Promoter",
+      "url": "https://open.spotify.com/track/74F3DNzHUSrJ6sNz4YkFWe"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -439,6 +423,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Update",
+        "url": "https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "duration_ms": 204257,
+      "name": "Update",
+      "url": "https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Demon Girl",
         "url": "https://open.spotify.com/album/6hpa86C5a60B5CDjAAXixD"
       },
@@ -451,6 +451,22 @@
       "duration_ms": 202422,
       "name": "Demon Girl",
       "url": "https://open.spotify.com/track/6msQvyBUYXUGCTANfYFjer"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Run Wid It",
+        "url": "https://open.spotify.com/album/3FZhpdntOoX90CLSeb2vBG"
+      },
+      "artists": [
+        {
+          "name": "Mr. Killa",
+          "url": "https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq"
+        }
+      ],
+      "duration_ms": 191714,
+      "name": "Run Wid It",
+      "url": "https://open.spotify.com/track/68rYSuJb2351hhpe4Lzvm4"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -471,22 +487,6 @@
       "duration_ms": 183875,
       "name": "Issa Snack",
       "url": "https://open.spotify.com/track/6eIdwZaZNpqvh61NudvQre"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Run Wid It",
-        "url": "https://open.spotify.com/album/3FZhpdntOoX90CLSeb2vBG"
-      },
-      "artists": [
-        {
-          "name": "Mr. Killa",
-          "url": "https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq"
-        }
-      ],
-      "duration_ms": 191714,
-      "name": "Run Wid It",
-      "url": "https://open.spotify.com/track/68rYSuJb2351hhpe4Lzvm4"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -543,6 +543,26 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Stage Gone Bad",
+        "url": "https://open.spotify.com/album/7u4TbngsJ9JaETb6M6wKEe"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        },
+        {
+          "name": "Iwer George",
+          "url": "https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw"
+        }
+      ],
+      "duration_ms": 193893,
+      "name": "Stage Gone Bad",
+      "url": "https://open.spotify.com/track/0W8TTEoiyHqvp0ENoTjfRy"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Pop's Guitar Riddim",
         "url": "https://open.spotify.com/album/6uXnKJxCwFGt9oGtT4fBX2"
       },
@@ -591,26 +611,6 @@
       "duration_ms": 219846,
       "name": "Play Harder",
       "url": "https://open.spotify.com/track/6Cn3zyojCFk7QsVoQrU0xe"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Stage Gone Bad",
-        "url": "https://open.spotify.com/album/7u4TbngsJ9JaETb6M6wKEe"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        },
-        {
-          "name": "Iwer George",
-          "url": "https://open.spotify.com/artist/17yfwLTJwB0dTYJftQWrvw"
-        }
-      ],
-      "duration_ms": 193893,
-      "name": "Stage Gone Bad",
-      "url": "https://open.spotify.com/track/0W8TTEoiyHqvp0ENoTjfRy"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Baila Riddim",
+        "url": "https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS"
+      },
+      "artists": [
+        {
+          "name": "Motto",
+          "url": "https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O"
+        }
+      ],
+      "duration_ms": 137195,
+      "name": "Shots (One for Di Road)",
+      "url": "https://open.spotify.com/track/6rIE6JA0jPE3OyuNPGrX2C"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Knock About Riddim",
         "url": "https://open.spotify.com/album/0rjdrM2IvkSXQodZMGEoZw"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 146681,
       "name": "Ba Ba Ben (Wine & Ben Pt. 2)",
       "url": "https://open.spotify.com/track/1QNYJ6R4zW90nEyjvWnTjt"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Baila Riddim",
-        "url": "https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS"
-      },
-      "artists": [
-        {
-          "name": "Motto",
-          "url": "https://open.spotify.com/artist/2yK06HIkW6eitM49lypo0O"
-        }
-      ],
-      "duration_ms": 137195,
-      "name": "Shots (One for Di Road)",
-      "url": "https://open.spotify.com/track/6rIE6JA0jPE3OyuNPGrX2C"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -931,34 +931,6 @@
       "duration_ms": 169241,
       "name": "Weak",
       "url": "https://open.spotify.com/track/607EfTzykwvBsL3w9rBhyM"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Ba Ba Ben (Remix)",
-        "url": "https://open.spotify.com/album/5BXDWRiFkMijKVlK7yV3ug"
-      },
-      "artists": [
-        {
-          "name": "DJ CHEEM",
-          "url": "https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ"
-        },
-        {
-          "name": "Lyrikal",
-          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
-        },
-        {
-          "name": "Noah Powa",
-          "url": "https://open.spotify.com/artist/48gJBFt1TIiFXaUEHnzNwN"
-        },
-        {
-          "name": "Lil Rick",
-          "url": "https://open.spotify.com/artist/2JHvSRTVaQp5riTM8GoXBA"
-        }
-      ],
-      "duration_ms": 205139,
-      "name": "Ba Ba Ben - Remix",
-      "url": "https://open.spotify.com/track/71XZiTsbFbZoYFwIVBYSQR"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1039,6 +1011,54 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "We Muzik: Soca 2018 Trinidad and Tobago Carnival, Vol. 9",
+        "url": "https://open.spotify.com/album/5ae3pB9huSD5ZRXWBK2zih"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Precision Productions",
+          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
+        }
+      ],
+      "duration_ms": 203600,
+      "name": "Rough Wine",
+      "url": "https://open.spotify.com/track/2bdltgpX7AB5E6oISNcGKt"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Ba Ba Ben (Remix)",
+        "url": "https://open.spotify.com/album/5BXDWRiFkMijKVlK7yV3ug"
+      },
+      "artists": [
+        {
+          "name": "DJ CHEEM",
+          "url": "https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ"
+        },
+        {
+          "name": "Lyrikal",
+          "url": "https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng"
+        },
+        {
+          "name": "Noah Powa",
+          "url": "https://open.spotify.com/artist/48gJBFt1TIiFXaUEHnzNwN"
+        },
+        {
+          "name": "Lil Rick",
+          "url": "https://open.spotify.com/artist/2JHvSRTVaQp5riTM8GoXBA"
+        }
+      ],
+      "duration_ms": 205139,
+      "name": "Ba Ba Ben - Remix",
+      "url": "https://open.spotify.com/track/71XZiTsbFbZoYFwIVBYSQR"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Baby Bells Riddim",
         "url": "https://open.spotify.com/album/71I3LHledB7nFklXLc0GCY"
       },
@@ -1067,22 +1087,18 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "We Muzik: Soca 2018 Trinidad and Tobago Carnival, Vol. 9",
-        "url": "https://open.spotify.com/album/5ae3pB9huSD5ZRXWBK2zih"
+        "name": "Toco Loco Riddim",
+        "url": "https://open.spotify.com/album/2ob3YAOPzGhkHbj9JjIq7R"
       },
       "artists": [
         {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        },
-        {
-          "name": "Precision Productions",
-          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
         }
       ],
-      "duration_ms": 203600,
-      "name": "Rough Wine",
-      "url": "https://open.spotify.com/track/2bdltgpX7AB5E6oISNcGKt"
+      "duration_ms": 184800,
+      "name": "Wine",
+      "url": "https://open.spotify.com/track/2gWT6JsauOrGYR1jForaRQ"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1099,22 +1115,6 @@
       "duration_ms": 190560,
       "name": "Earthquake",
       "url": "https://open.spotify.com/track/7GDr5YggWKJr1LAUvLhTkh"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Toco Loco Riddim",
-        "url": "https://open.spotify.com/album/2ob3YAOPzGhkHbj9JjIq7R"
-      },
-      "artists": [
-        {
-          "name": "Charly Black",
-          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Wine",
-      "url": "https://open.spotify.com/track/2gWT6JsauOrGYR1jForaRQ"
     },
     {
       "added_at": "2022-02-24 18:00:00",

@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-05",
+      "date_removed": null,
       "duration_ms": 318000,
       "name": "Ausencia",
       "url": "https://open.spotify.com/track/4iLjYx9Zcijv6QmRJYhegx"
@@ -1274,7 +1274,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-12",
+      "date_removed": null,
       "duration_ms": 217346,
       "name": "Baby Blue - Remastered 2010",
       "url": "https://open.spotify.com/track/6S3JlDAGk3uu3NtZbPnuhS"
@@ -2038,7 +2038,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-12",
+      "date_removed": null,
       "duration_ms": 205813,
       "name": "Bombardero",
       "url": "https://open.spotify.com/track/1O1gVASaeJW2EHrPKg7VI3"
@@ -2438,7 +2438,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 205824,
       "name": "Calibraciones (sin censura)",
       "url": "https://open.spotify.com/track/2mjMjovgyCRqEdLAe4NGv9"
@@ -2766,7 +2766,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 210426,
       "name": "Cha-Cha-Cha",
       "url": "https://open.spotify.com/track/2TuoRWJFfN2DRBNhEaoc6L"
@@ -3746,7 +3746,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 290920,
       "name": "Deshacer el Mundo",
       "url": "https://open.spotify.com/track/03QuZlIrO7RGx12G7T8enl"
@@ -4430,7 +4430,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-05",
+      "date_removed": null,
       "duration_ms": 311893,
       "name": "El amor despu\u00e9s del amor",
       "url": "https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ"
@@ -4466,7 +4466,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-05",
+      "date_removed": null,
       "duration_ms": 306626,
       "name": "El Anillo del Capit\u00e1n Beto",
       "url": "https://open.spotify.com/track/23jMDvKil4frbTA35BVzBY"
@@ -4592,7 +4592,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 320293,
       "name": "El Himno",
       "url": "https://open.spotify.com/track/6ySGtcU6rehPcsxwWX2K83"
@@ -4848,7 +4848,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 252866,
       "name": "En Tus Manos",
       "url": "https://open.spotify.com/track/28sKeAfc8lTSUsncvSro4f"
@@ -5100,7 +5100,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 146480,
       "name": "Faith",
       "url": "https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p"
@@ -6418,7 +6418,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 292813,
       "name": "Hijo de la Luna",
       "url": "https://open.spotify.com/track/6XqCO6Qh5fSZppnSr9hQeV"
@@ -9044,7 +9044,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-05",
+      "date_removed": null,
       "duration_ms": 259066,
       "name": "Mal De La Cabeza",
       "url": "https://open.spotify.com/track/7MZWoY8ZFqopFFVqbnv8Mc"
@@ -9062,7 +9062,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 175080,
       "name": "Maldito",
       "url": "https://open.spotify.com/track/4AuYIbNIESLMG3h5gTLXho"
@@ -12544,7 +12544,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 214000,
       "name": "Rutina",
       "url": "https://open.spotify.com/track/7L3VPUjzc5RF61Da0bG5Mr"
@@ -12836,6 +12836,24 @@
       "duration_ms": 175146,
       "name": "Selfdestructo Bust",
       "url": "https://open.spotify.com/track/7HloAcybLs5sdwUl4sQf1G"
+    },
+    {
+      "album": {
+        "name": "Fuera de Sektor",
+        "url": "https://open.spotify.com/album/4fWr6ETKLygdRCOQ7N1bj1"
+      },
+      "artists": [
+        {
+          "name": "Los Violadores",
+          "url": "https://open.spotify.com/artist/4EkrhlCS2DbFxvC3Uhq6p2"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261746,
+      "name": "Sentimiento Fatal",
+      "url": "https://open.spotify.com/track/3nBRVxwGsrklnueJPDhLWP"
     },
     {
       "album": {
@@ -13718,7 +13736,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 242600,
       "name": "Somos Uno",
       "url": "https://open.spotify.com/track/1wQqeNE9vcQARph6dhBuDf"
@@ -13736,7 +13754,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 272306,
       "name": "Somos Violentos",
       "url": "https://open.spotify.com/track/1QDHzn1IcUJSrS8ewBf3SA"
@@ -14010,7 +14028,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 201746,
       "name": "Still Ill - 2011 Remaster",
       "url": "https://open.spotify.com/track/0uLI1jac8ZJSSRG4QJDo3J"
@@ -14172,7 +14190,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 229997,
       "name": "Sucio Policia",
       "url": "https://open.spotify.com/track/5ZMYggZmihQ4D7p7OUq3qX"
@@ -14208,7 +14226,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-28",
+      "date_removed": null,
       "duration_ms": 273066,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/6yCjhDzcVIfxvTjBKhhn7P"
@@ -14460,7 +14478,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 244426,
       "name": "S\u00e9 Vos",
       "url": "https://open.spotify.com/track/4MUhGA8YfsYDqD4NhTUtSf"
@@ -16186,7 +16204,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 256293,
       "name": "Violent & Funky",
       "url": "https://open.spotify.com/track/7je6HRz7AoYt0HoW0gEUdP"
@@ -16348,7 +16366,7 @@
       ],
       "date_added": "2023-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 298400,
       "name": "Warmikuna Yupay-Chasqapuni Kasunchik",
       "url": "https://open.spotify.com/track/3BBuihi9T5iGaV0Tt0ht8V"

@@ -598,7 +598,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 485773,
       "name": "Saffron Dreams (The Night Mudra)",
       "url": "https://open.spotify.com/track/0Tr9JSBOWMlliyAzw0ATq5"
@@ -886,6 +886,36 @@
       "duration_ms": 154666,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/6sZgorH2FrlsrkDKY5nI58"
+    },
+    {
+      "album": {
+        "name": "Tablet vs Sitar - Yaman",
+        "url": "https://open.spotify.com/album/0boxQEMaR1M7RkNo6PmBmt"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Sharma",
+          "url": "https://open.spotify.com/artist/1yxElNCCvyGH3Ee0lqgZrn"
+        },
+        {
+          "name": "IndianRaga",
+          "url": "https://open.spotify.com/artist/5DbZM6EMfteh7XubuLMtoC"
+        },
+        {
+          "name": "Mahesh Raghvan",
+          "url": "https://open.spotify.com/artist/3pIP5lTDPYWqjrjJeHeosi"
+        },
+        {
+          "name": "Shailesh Venkatraman",
+          "url": "https://open.spotify.com/artist/3XSngyg0MX68i5gNeonLKf"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320893,
+      "name": "Tablet vs Sitar - Yaman - Ek taal",
+      "url": "https://open.spotify.com/track/6oUpiJfTJrQ5ryErRDr2w6"
     },
     {
       "album": {

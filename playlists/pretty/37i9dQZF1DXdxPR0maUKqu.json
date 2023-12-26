@@ -1,12 +1,12 @@
 {
   "description": "\u7406\u7531\u306e\u306a\u3044\u7126\u308a\u3001\u82db\u7acb\u3061\u3002\u308f\u3051\u3082\u306a\u304f\u53eb\u3073\u305f\u304f\u306a\u308b\u3002\u601d\u6625\u671f\u3092\u904e\u3054\u3059\u5168\u3066\u306e\u30c6\u30a3\u30fc\u30f3\u306b\u8d08\u308b\u3001\u5e30\u308a\u9053\u306e\u5fdc\u63f4\u6b4c\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 67720,
+  "num_followers": 67742,
   "original_name": "\u5915\u65b9\u30b8\u30a7\u30cd\u30ec\u30fc\u30b7\u30e7\u30f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjA5YjZiYjVhYTJlZThlZjQ5MGE0ZjRmOTdmOTY4ZTg3Y2M0ZTIz",
+  "snapshot_id": "MCw5NmQ0NjNmODBmNmU2ODQ4MmZlNzJhNzVkN2E1ZjI5Yzk3Njg1YzI1",
   "tracks": [
     {
       "added_at": "2023-12-19 16:15:51",
@@ -235,18 +235,18 @@
     {
       "added_at": "2023-12-19 16:15:51",
       "album": {
-        "name": "\u9752\u6625\u306e\u30a8\u30ad\u30b5\u30a4\u30c8\u30e1\u30f3\u30c8",
-        "url": "https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft"
+        "name": "Love me, Love you",
+        "url": "https://open.spotify.com/album/21awaIwNyYDin6Zzbtos4g"
       },
       "artists": [
         {
-          "name": "Aimyon",
-          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
         }
       ],
-      "duration_ms": 235240,
-      "name": "\u611b\u3092\u4f1d\u3048\u305f\u3044\u3060\u3068\u304b",
-      "url": "https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO"
+      "duration_ms": 183800,
+      "name": "\u6625\u6101",
+      "url": "https://open.spotify.com/track/5SHguvOUbyPTINNjCvRo8K"
     },
     {
       "added_at": "2023-12-19 16:15:51",
@@ -267,18 +267,18 @@
     {
       "added_at": "2023-12-19 16:15:51",
       "album": {
-        "name": "YANKEE",
-        "url": "https://open.spotify.com/album/64SAjax288grKsmuLDfA6G"
+        "name": "\u30b5\u30de\u30fc\u30bf\u30a4\u30e0\u30b7\u30f3\u30c7\u30ec\u30e9",
+        "url": "https://open.spotify.com/album/7hjjJpO7sTSbT90FN9hcZ2"
       },
       "artists": [
         {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
         }
       ],
-      "duration_ms": 288013,
-      "name": "\u30a2\u30a4\u30cd\u30af\u30e9\u30a4\u30cd",
-      "url": "https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB"
+      "duration_ms": 228920,
+      "name": "\u30b5\u30de\u30fc\u30bf\u30a4\u30e0\u30b7\u30f3\u30c7\u30ec\u30e9",
+      "url": "https://open.spotify.com/track/6SwATVDZUy3jha72jDyxe2"
     },
     {
       "added_at": "2023-12-19 16:15:51",
@@ -299,18 +299,18 @@
     {
       "added_at": "2023-12-19 16:15:51",
       "album": {
-        "name": "Love me, Love you",
-        "url": "https://open.spotify.com/album/21awaIwNyYDin6Zzbtos4g"
+        "name": "\u9752\u6625\u306e\u30a8\u30ad\u30b5\u30a4\u30c8\u30e1\u30f3\u30c8",
+        "url": "https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft"
       },
       "artists": [
         {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
         }
       ],
-      "duration_ms": 183800,
-      "name": "\u6625\u6101",
-      "url": "https://open.spotify.com/track/5SHguvOUbyPTINNjCvRo8K"
+      "duration_ms": 235240,
+      "name": "\u611b\u3092\u4f1d\u3048\u305f\u3044\u3060\u3068\u304b",
+      "url": "https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO"
     },
     {
       "added_at": "2023-12-19 16:15:51",
@@ -363,18 +363,22 @@
     {
       "added_at": "2023-12-19 16:15:51",
       "album": {
-        "name": "\u30b5\u30de\u30fc\u30bf\u30a4\u30e0\u30b7\u30f3\u30c7\u30ec\u30e9",
-        "url": "https://open.spotify.com/album/7hjjJpO7sTSbT90FN9hcZ2"
+        "name": "\u30d6\u30eb\u30fc\u30a2\u30f3\u30d3\u30a8\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/4fbghPZI7ZAQIbO4V7yrVj"
       },
       "artists": [
         {
-          "name": "Ryokuoushoku Shakai",
-          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        },
+        {
+          "name": "asmi",
+          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
         }
       ],
-      "duration_ms": 228920,
-      "name": "\u30b5\u30de\u30fc\u30bf\u30a4\u30e0\u30b7\u30f3\u30c7\u30ec\u30e9",
-      "url": "https://open.spotify.com/track/6SwATVDZUy3jha72jDyxe2"
+      "duration_ms": 250773,
+      "name": "\u30d6\u30eb\u30fc\u30a2\u30f3\u30d3\u30a8\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/1S1WSh4uCprvucg6Hx57Eh"
     },
     {
       "added_at": "2023-12-19 16:15:51",
@@ -395,18 +399,18 @@
     {
       "added_at": "2023-12-19 16:15:51",
       "album": {
-        "name": "Sketch",
-        "url": "https://open.spotify.com/album/5aCgGOMefRFhsLgclMThoy"
+        "name": "YANKEE",
+        "url": "https://open.spotify.com/album/64SAjax288grKsmuLDfA6G"
       },
       "artists": [
         {
-          "name": "Lilas Ikuta",
-          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
         }
       ],
-      "duration_ms": 210500,
-      "name": "\u30b9\u30d1\u30fc\u30af\u30eb",
-      "url": "https://open.spotify.com/track/3MR8qQiK1Bydhw9WjAzwzU"
+      "duration_ms": 288013,
+      "name": "\u30a2\u30a4\u30cd\u30af\u30e9\u30a4\u30cd",
+      "url": "https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB"
     },
     {
       "added_at": "2023-12-19 16:15:51",
@@ -427,18 +431,18 @@
     {
       "added_at": "2023-12-19 16:15:51",
       "album": {
-        "name": "\u6c34\u5e73\u7dda",
-        "url": "https://open.spotify.com/album/4Z7pjeWlxxT8EXXlxW5i4y"
+        "name": "Sketch",
+        "url": "https://open.spotify.com/album/5aCgGOMefRFhsLgclMThoy"
       },
       "artists": [
         {
-          "name": "back number",
-          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+          "name": "Lilas Ikuta",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
         }
       ],
-      "duration_ms": 285396,
-      "name": "\u6c34\u5e73\u7dda",
-      "url": "https://open.spotify.com/track/5m1i6hq7dmRlp3c1utE48L"
+      "duration_ms": 210500,
+      "name": "\u30b9\u30d1\u30fc\u30af\u30eb",
+      "url": "https://open.spotify.com/track/3MR8qQiK1Bydhw9WjAzwzU"
     },
     {
       "added_at": "2023-12-19 16:15:51",
@@ -459,18 +463,18 @@
     {
       "added_at": "2023-12-19 16:15:51",
       "album": {
-        "name": "\u30ea\u30ab",
-        "url": "https://open.spotify.com/album/5luFrHAHn4fb5r7KhdoYlE"
+        "name": "\u6c34\u5e73\u7dda",
+        "url": "https://open.spotify.com/album/4Z7pjeWlxxT8EXXlxW5i4y"
       },
       "artists": [
         {
-          "name": "SIX LOUNGE",
-          "url": "https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX"
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
         }
       ],
-      "duration_ms": 216366,
-      "name": "\u30ea\u30ab",
-      "url": "https://open.spotify.com/track/5iPPyvEn7BcWw34aGKGd6W"
+      "duration_ms": 285396,
+      "name": "\u6c34\u5e73\u7dda",
+      "url": "https://open.spotify.com/track/5m1i6hq7dmRlp3c1utE48L"
     },
     {
       "added_at": "2023-12-19 16:15:51",
@@ -587,22 +591,18 @@
     {
       "added_at": "2023-12-19 16:15:51",
       "album": {
-        "name": "\u30d6\u30eb\u30fc\u30a2\u30f3\u30d3\u30a8\u30f3\u30b9",
-        "url": "https://open.spotify.com/album/4fbghPZI7ZAQIbO4V7yrVj"
+        "name": "\u30ea\u30ab",
+        "url": "https://open.spotify.com/album/5luFrHAHn4fb5r7KhdoYlE"
       },
       "artists": [
         {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
-        },
-        {
-          "name": "asmi",
-          "url": "https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza"
+          "name": "SIX LOUNGE",
+          "url": "https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX"
         }
       ],
-      "duration_ms": 250773,
-      "name": "\u30d6\u30eb\u30fc\u30a2\u30f3\u30d3\u30a8\u30f3\u30b9",
-      "url": "https://open.spotify.com/track/1S1WSh4uCprvucg6Hx57Eh"
+      "duration_ms": 216366,
+      "name": "\u30ea\u30ab",
+      "url": "https://open.spotify.com/track/5iPPyvEn7BcWw34aGKGd6W"
     },
     {
       "added_at": "2023-12-19 16:15:51",

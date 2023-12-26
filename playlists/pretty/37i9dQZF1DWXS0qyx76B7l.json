@@ -1,12 +1,12 @@
 {
   "description": "Songs about the iconic city. Welcome to the Big Apple! ",
-  "num_followers": 133522,
+  "num_followers": 133573,
   "original_name": "I Love NYC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzQ1MGViMTQzMGMxYTVjNGFiZTQzMjE0MjFjMjY3NjY1MDkxNjll",
+  "snapshot_id": "MCw0YzI2OTRkYWIxNzU5ZDkzZTIxMDM5ZmFhZmE1M2E1OWQ3ZDUyOWUy",
   "tracks": [
     {
       "added_at": "2023-08-14 15:01:29",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-08-14 15:01:29",
       "album": {
+        "name": "The Rising",
+        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 287040,
+      "name": "The Rising",
+      "url": "https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP"
+    },
+    {
+      "added_at": "2023-08-14 15:01:29",
+      "album": {
         "name": "Brooklyn In The Summer",
         "url": "https://open.spotify.com/album/2e2K7qbaFSqnBQWvYmgS4L"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 211304,
       "name": "girl in new york",
       "url": "https://open.spotify.com/track/6APTEV2EIRpBEvuTrS5XTv"
-    },
-    {
-      "added_at": "2023-08-14 15:01:29",
-      "album": {
-        "name": "The Rising",
-        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 287040,
-      "name": "The Rising",
-      "url": "https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP"
     }
   ],
   "unique_name": "I Love NYC",

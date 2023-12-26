@@ -1,12 +1,12 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 728703,
+  "num_followers": 728802,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMGFmZmYzNjliYTZkZmUyOTllZjA0MDk1ZGQ5N2RhNzg1YjU5ZDE5",
+  "snapshot_id": "MCw0MDc5YjM5NjQ5ZjQzYWQyMDkzNmE5ZWU5MzI1YTJlZjZlMTBlYzIw",
   "tracks": [
     {
       "added_at": "2023-12-22 16:30:00",
@@ -643,26 +643,6 @@
     {
       "added_at": "2023-12-22 16:30:00",
       "album": {
-        "name": "Let Me Think About It Again",
-        "url": "https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz"
-      },
-      "artists": [
-        {
-          "name": "Showtek",
-          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
-        },
-        {
-          "name": "Ida Corr",
-          "url": "https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh"
-        }
-      ],
-      "duration_ms": 195813,
-      "name": "Let Me Think About It Again",
-      "url": "https://open.spotify.com/track/4J4Fk7x2y8jQBxm332n0oY"
-    },
-    {
-      "added_at": "2023-12-22 16:30:00",
-      "album": {
         "name": "Disconnected",
         "url": "https://open.spotify.com/album/6SGpVej56gEYCk3Z0u8ZSP"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 194523,
       "name": "Disconnected",
       "url": "https://open.spotify.com/track/3MK2rvp7XjarzRKFrPGMOb"
+    },
+    {
+      "added_at": "2023-12-22 16:30:00",
+      "album": {
+        "name": "Let Me Think About It Again",
+        "url": "https://open.spotify.com/album/5BiDACecOtLeeDR7ElF7zz"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "Ida Corr",
+          "url": "https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh"
+        }
+      ],
+      "duration_ms": 195813,
+      "name": "Let Me Think About It Again",
+      "url": "https://open.spotify.com/track/4J4Fk7x2y8jQBxm332n0oY"
     },
     {
       "added_at": "2023-12-22 16:30:00",
@@ -775,26 +775,6 @@
     {
       "added_at": "2023-12-22 16:30:00",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/56aYNth1A4q02fd3cUn3QQ"
-      },
-      "artists": [
-        {
-          "name": "71 Digits",
-          "url": "https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC"
-        },
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 135483,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/4bAzLbJOkwkZEakSiKd3sZ"
-    },
-    {
-      "added_at": "2023-12-22 16:30:00",
-      "album": {
         "name": "Follow",
         "url": "https://open.spotify.com/album/0mHq8oTwln3MA72n3uHscJ"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 221220,
       "name": "Follow",
       "url": "https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67"
+    },
+    {
+      "added_at": "2023-12-22 16:30:00",
+      "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/56aYNth1A4q02fd3cUn3QQ"
+      },
+      "artists": [
+        {
+          "name": "71 Digits",
+          "url": "https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC"
+        },
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "duration_ms": 135483,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/4bAzLbJOkwkZEakSiKd3sZ"
     },
     {
       "added_at": "2023-12-22 16:30:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-12-22 16:30:00",
       "album": {
-        "name": "Bongo Remix",
-        "url": "https://open.spotify.com/album/4XFLyCczpHejrOtlkB2APk"
-      },
-      "artists": [
-        {
-          "name": "Max + Johann",
-          "url": "https://open.spotify.com/artist/7tUuueEA6DzbvvHmDy79Ow"
-        }
-      ],
-      "duration_ms": 160901,
-      "name": "Bongo Remix",
-      "url": "https://open.spotify.com/track/0buvr23Xkpe54fGb0Xqsc6"
-    },
-    {
-      "added_at": "2023-12-22 16:30:00",
-      "album": {
         "name": "Drinkin",
         "url": "https://open.spotify.com/album/2M4jhdsyvC0xpuXXc1SKWE"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 136615,
       "name": "Drinkin",
       "url": "https://open.spotify.com/track/1Usa0Fv8L9NmRKY4UYk4sD"
+    },
+    {
+      "added_at": "2023-12-22 16:30:00",
+      "album": {
+        "name": "Bongo Remix",
+        "url": "https://open.spotify.com/album/4XFLyCczpHejrOtlkB2APk"
+      },
+      "artists": [
+        {
+          "name": "Max + Johann",
+          "url": "https://open.spotify.com/artist/7tUuueEA6DzbvvHmDy79Ow"
+        }
+      ],
+      "duration_ms": 160901,
+      "name": "Bongo Remix",
+      "url": "https://open.spotify.com/track/0buvr23Xkpe54fGb0Xqsc6"
     },
     {
       "added_at": "2023-12-22 16:30:00",

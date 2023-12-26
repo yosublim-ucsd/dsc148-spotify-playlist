@@ -1,12 +1,12 @@
 {
   "description": "Real rap music from the golden era.\n",
-  "num_followers": 8279109,
+  "num_followers": 8280936,
   "original_name": "I Love My '90s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmJjOThlZTkwMjhlMDg3OGJhOTE2MzM5NGRjYTQyYjQ2NzJjNjg0",
+  "snapshot_id": "MCwxZjQyOGM4N2EzMjdkOGZkYmZhOTZiYjBjOGQ3OWM1MjlmODBkY2Nk",
   "tracks": [
     {
       "added_at": "2023-12-07 13:46:52",
@@ -159,26 +159,6 @@
     {
       "added_at": "2023-12-07 13:46:52",
       "album": {
-        "name": "2001",
-        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 161506,
-      "name": "The Next Episode",
-      "url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"
-    },
-    {
-      "added_at": "2023-12-07 13:46:52",
-      "album": {
         "name": "The Infamous",
         "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
       },
@@ -243,18 +223,22 @@
     {
       "added_at": "2023-12-07 13:46:52",
       "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+        "name": "2001",
+        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
       "artists": [
         {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 320266,
-      "name": "Doo Wop (That Thing)",
-      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
+      "duration_ms": 161506,
+      "name": "The Next Episode",
+      "url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"
     },
     {
       "added_at": "2023-12-07 13:46:52",
@@ -275,6 +259,22 @@
       "duration_ms": 307773,
       "name": "All Eyez On Me (ft. Big Syke)",
       "url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo"
+    },
+    {
+      "added_at": "2023-12-07 13:46:52",
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 320266,
+      "name": "Doo Wop (That Thing)",
+      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
     },
     {
       "added_at": "2023-12-07 13:46:52",
@@ -311,6 +311,26 @@
     {
       "added_at": "2023-12-07 13:46:52",
       "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 222293,
+      "name": "Forgot About Dre",
+      "url": "https://open.spotify.com/track/7iXF2W9vKmDoGAhlHdpyIa"
+    },
+    {
+      "added_at": "2023-12-07 13:46:52",
+      "album": {
         "name": "Operation Stackola",
         "url": "https://open.spotify.com/album/5pMShIZc6oWiEtcQvXsKfb"
       },
@@ -331,6 +351,22 @@
     {
       "added_at": "2023-12-07 13:46:52",
       "album": {
+        "name": "R U Still Down? [Remember Me]",
+        "url": "https://open.spotify.com/album/7zURSbIVZ5vl3NIKkrVRvl"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 281600,
+      "name": "Do For Love",
+      "url": "https://open.spotify.com/track/4AE7Lj39VnSZNOmGH2iZaq"
+    },
+    {
+      "added_at": "2023-12-07 13:46:52",
+      "album": {
         "name": "Regulate\u2026 G Funk Era",
         "url": "https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu"
       },
@@ -347,26 +383,6 @@
       "duration_ms": 248866,
       "name": "Regulate",
       "url": "https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J"
-    },
-    {
-      "added_at": "2023-12-07 13:46:52",
-      "album": {
-        "name": "2001",
-        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 222293,
-      "name": "Forgot About Dre",
-      "url": "https://open.spotify.com/track/7iXF2W9vKmDoGAhlHdpyIa"
     },
     {
       "added_at": "2023-12-07 13:46:52",
@@ -427,42 +443,6 @@
     {
       "added_at": "2023-12-07 13:46:52",
       "album": {
-        "name": "R U Still Down? [Remember Me]",
-        "url": "https://open.spotify.com/album/7zURSbIVZ5vl3NIKkrVRvl"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 281600,
-      "name": "Do For Love",
-      "url": "https://open.spotify.com/track/4AE7Lj39VnSZNOmGH2iZaq"
-    },
-    {
-      "added_at": "2023-12-07 13:46:52",
-      "album": {
-        "name": "The Chronic",
-        "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 237573,
-      "name": "Nuthin' But A \"G\" Thang",
-      "url": "https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD"
-    },
-    {
-      "added_at": "2023-12-07 13:46:52",
-      "album": {
         "name": "The Score (Expanded Edition)",
         "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 246200,
       "name": "Who Am I (What\u2019s My Name)?",
       "url": "https://open.spotify.com/track/0eO8MW9YSTK3CjdaTYKlhF"
+    },
+    {
+      "added_at": "2023-12-07 13:46:52",
+      "album": {
+        "name": "The Chronic",
+        "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 237573,
+      "name": "Nuthin' But A \"G\" Thang",
+      "url": "https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD"
     },
     {
       "added_at": "2023-12-07 13:46:52",
@@ -591,26 +591,6 @@
     {
       "added_at": "2023-12-07 13:46:52",
       "album": {
-        "name": "It Was Written",
-        "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 282373,
-      "name": "If I Ruled the World (Imagine That) (feat. Lauryn Hill)",
-      "url": "https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2"
-    },
-    {
-      "added_at": "2023-12-07 13:46:52",
-      "album": {
         "name": "The Infamous",
         "url": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 251573,
       "name": "Can I Kick It?",
       "url": "https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I"
+    },
+    {
+      "added_at": "2023-12-07 13:46:52",
+      "album": {
+        "name": "It Was Written",
+        "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 282373,
+      "name": "If I Ruled the World (Imagine That) (feat. Lauryn Hill)",
+      "url": "https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2"
     },
     {
       "added_at": "2023-12-07 13:46:52",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-12-07 13:46:52",
       "album": {
-        "name": "ATLiens",
-        "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "ATLiens",
-      "url": "https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz"
-    },
-    {
-      "added_at": "2023-12-07 13:46:52",
-      "album": {
         "name": "Very Necessary",
         "url": "https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 248573,
       "name": "Shoop",
       "url": "https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ"
+    },
+    {
+      "added_at": "2023-12-07 13:46:52",
+      "album": {
+        "name": "ATLiens",
+        "url": "https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "ATLiens",
+      "url": "https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz"
     },
     {
       "added_at": "2023-12-07 13:46:52",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-12-07 13:46:52",
       "album": {
+        "name": "Vol.2... Hard Knock Life",
+        "url": "https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 238466,
+      "name": "Hard Knock Life (Ghetto Anthem)",
+      "url": "https://open.spotify.com/track/5Tl0HJvynZtKdSUMKbFVVX"
+    },
+    {
+      "added_at": "2023-12-07 13:46:52",
+      "album": {
         "name": "Hello Nasty (Deluxe Edition/Remastered)",
         "url": "https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 226133,
       "name": "Electric Relaxation",
       "url": "https://open.spotify.com/track/0eEXcw3JLVXcRxYrVYMy68"
-    },
-    {
-      "added_at": "2023-12-07 13:46:52",
-      "album": {
-        "name": "Vol.2... Hard Knock Life",
-        "url": "https://open.spotify.com/album/3j1xCJdBMCl6wYQXurz2tb"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 238466,
-      "name": "Hard Knock Life (Ghetto Anthem)",
-      "url": "https://open.spotify.com/track/5Tl0HJvynZtKdSUMKbFVVX"
     },
     {
       "added_at": "2023-12-07 13:46:52",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-12-07 13:46:52",
       "album": {
-        "name": "Illmatic",
-        "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
-      },
-      "artists": [
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        }
-      ],
-      "duration_ms": 202106,
-      "name": "It Ain't Hard to Tell",
-      "url": "https://open.spotify.com/track/2CPturRUlpvirYr7VpkXCV"
-    },
-    {
-      "added_at": "2023-12-07 13:46:52",
-      "album": {
         "name": "Totally Krossed Out",
         "url": "https://open.spotify.com/album/5bGumbB29JBPlv4ECVURka"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 195106,
       "name": "Jump",
       "url": "https://open.spotify.com/track/27AHAtAirQapVldIm4c9ZX"
+    },
+    {
+      "added_at": "2023-12-07 13:46:52",
+      "album": {
+        "name": "Illmatic",
+        "url": "https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 202106,
+      "name": "It Ain't Hard to Tell",
+      "url": "https://open.spotify.com/track/2CPturRUlpvirYr7VpkXCV"
     },
     {
       "added_at": "2023-12-07 13:46:52",
@@ -987,22 +987,6 @@
       "duration_ms": 203026,
       "name": "This D.J.",
       "url": "https://open.spotify.com/track/2ImuQo1g14CTR9hZAZD3aQ"
-    },
-    {
-      "added_at": "2023-12-07 13:46:52",
-      "album": {
-        "name": "Creepin on Ah Come Up",
-        "url": "https://open.spotify.com/album/5g2FfZVMvBqRmuHjNsaf3l"
-      },
-      "artists": [
-        {
-          "name": "Bone Thugs-N-Harmony",
-          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
-        }
-      ],
-      "duration_ms": 281773,
-      "name": "Thuggish Ruggish Bone",
-      "url": "https://open.spotify.com/track/7qHAjAL7CpadaZLamuBZRm"
     },
     {
       "added_at": "2023-12-07 13:46:52",
@@ -1031,6 +1015,38 @@
       "duration_ms": 260066,
       "name": "Fu-Gee-La",
       "url": "https://open.spotify.com/track/1rJM37Dd4OcSJvzI84yCcP"
+    },
+    {
+      "added_at": "2023-12-07 13:46:52",
+      "album": {
+        "name": "Return to the 36 Chambers: The Dirty Version",
+        "url": "https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR"
+      },
+      "artists": [
+        {
+          "name": "Ol' Dirty Bastard",
+          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
+        }
+      ],
+      "duration_ms": 161400,
+      "name": "Shimmy Shimmy Ya",
+      "url": "https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi"
+    },
+    {
+      "added_at": "2023-12-07 13:46:52",
+      "album": {
+        "name": "Creepin on Ah Come Up",
+        "url": "https://open.spotify.com/album/5g2FfZVMvBqRmuHjNsaf3l"
+      },
+      "artists": [
+        {
+          "name": "Bone Thugs-N-Harmony",
+          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+        }
+      ],
+      "duration_ms": 281773,
+      "name": "Thuggish Ruggish Bone",
+      "url": "https://open.spotify.com/track/7qHAjAL7CpadaZLamuBZRm"
     },
     {
       "added_at": "2023-12-07 13:46:52",
@@ -1131,38 +1147,6 @@
     {
       "added_at": "2023-12-07 13:46:52",
       "album": {
-        "name": "Return to the 36 Chambers: The Dirty Version",
-        "url": "https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR"
-      },
-      "artists": [
-        {
-          "name": "Ol' Dirty Bastard",
-          "url": "https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu"
-        }
-      ],
-      "duration_ms": 161400,
-      "name": "Shimmy Shimmy Ya",
-      "url": "https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi"
-    },
-    {
-      "added_at": "2023-12-07 13:46:52",
-      "album": {
-        "name": "E. 1999 Eternal",
-        "url": "https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9"
-      },
-      "artists": [
-        {
-          "name": "Bone Thugs-N-Harmony",
-          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
-        }
-      ],
-      "duration_ms": 314680,
-      "name": "1st of Tha Month",
-      "url": "https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr"
-    },
-    {
-      "added_at": "2023-12-07 13:46:52",
-      "album": {
         "name": "Capital Punishment",
         "url": "https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 228173,
       "name": "Twinz (feat. Fat Joe)",
       "url": "https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA"
+    },
+    {
+      "added_at": "2023-12-07 13:46:52",
+      "album": {
+        "name": "E. 1999 Eternal",
+        "url": "https://open.spotify.com/album/3r25XjxAmLMOhOWoV6X8N9"
+      },
+      "artists": [
+        {
+          "name": "Bone Thugs-N-Harmony",
+          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+        }
+      ],
+      "duration_ms": 314680,
+      "name": "1st of Tha Month",
+      "url": "https://open.spotify.com/track/1dF5Y2dd7Wm4wZKvVjWBpr"
     },
     {
       "added_at": "2023-12-07 13:46:52",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2023-12-07 13:46:52",
       "album": {
+        "name": "Poverty's Paradise (25th Anniversary - Remastered)",
+        "url": "https://open.spotify.com/album/42kVt8FRpWDR6NWr3tWRwV"
+      },
+      "artists": [
+        {
+          "name": "Naughty By Nature",
+          "url": "https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC"
+        }
+      ],
+      "duration_ms": 212760,
+      "name": "Feel Me Flow",
+      "url": "https://open.spotify.com/track/4dbZObCjUs95HtmEHfKbnU"
+    },
+    {
+      "added_at": "2023-12-07 13:46:52",
+      "album": {
         "name": "Labcabincalifornia (Deluxe Edition)",
         "url": "https://open.spotify.com/album/05Qg48LlYGKYdeXrNGg00g"
       },
@@ -1371,22 +1387,6 @@
     {
       "added_at": "2023-12-07 13:46:52",
       "album": {
-        "name": "Poverty's Paradise (25th Anniversary - Remastered)",
-        "url": "https://open.spotify.com/album/42kVt8FRpWDR6NWr3tWRwV"
-      },
-      "artists": [
-        {
-          "name": "Naughty By Nature",
-          "url": "https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC"
-        }
-      ],
-      "duration_ms": 212760,
-      "name": "Feel Me Flow",
-      "url": "https://open.spotify.com/track/4dbZObCjUs95HtmEHfKbnU"
-    },
-    {
-      "added_at": "2023-12-07 13:46:52",
-      "album": {
         "name": "Hell On Earth",
         "url": "https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5"
       },
@@ -1419,26 +1419,6 @@
       "duration_ms": 199333,
       "name": "Guilty Conscience",
       "url": "https://open.spotify.com/track/6da04YB906XonC6IQNC44u"
-    },
-    {
-      "added_at": "2023-12-07 13:46:52",
-      "album": {
-        "name": "Midnight Marauders",
-        "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
-      },
-      "artists": [
-        {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
-        },
-        {
-          "name": "Trugoy The Dove",
-          "url": "https://open.spotify.com/artist/2DGyhsOLrggY3ORo3GZNf0"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "Award Tour (feat. Trugoy The Dove)",
-      "url": "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ"
     },
     {
       "added_at": "2023-12-07 13:46:52",
@@ -1519,18 +1499,22 @@
     {
       "added_at": "2023-12-07 13:46:52",
       "album": {
-        "name": "The Love Movement",
-        "url": "https://open.spotify.com/album/0FH3WsTCWaDmfpEojJ4sN2"
+        "name": "Midnight Marauders",
+        "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
       },
       "artists": [
         {
           "name": "A Tribe Called Quest",
           "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        },
+        {
+          "name": "Trugoy The Dove",
+          "url": "https://open.spotify.com/artist/2DGyhsOLrggY3ORo3GZNf0"
         }
       ],
-      "duration_ms": 203066,
-      "name": "Find a Way",
-      "url": "https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8"
+      "duration_ms": 226440,
+      "name": "Award Tour (feat. Trugoy The Dove)",
+      "url": "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ"
     },
     {
       "added_at": "2023-12-07 13:46:52",
@@ -1659,6 +1643,22 @@
       "duration_ms": 338186,
       "name": "Triumph (feat. Ol' Dirty Bastard, Inspectah Deck, Method Man, Cappadonna, U-God, RZA, GZA, Masta Killa, Ghostface Killah & Raekwon)",
       "url": "https://open.spotify.com/track/3glqlA5qY3bbo8UaUDGPnw"
+    },
+    {
+      "added_at": "2023-12-07 13:46:52",
+      "album": {
+        "name": "The Love Movement",
+        "url": "https://open.spotify.com/album/0FH3WsTCWaDmfpEojJ4sN2"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        }
+      ],
+      "duration_ms": 203066,
+      "name": "Find a Way",
+      "url": "https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8"
     },
     {
       "added_at": "2023-12-07 13:46:52",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2023-12-07 13:46:52",
       "album": {
-        "name": "Tical",
-        "url": "https://open.spotify.com/album/26RDYvX2sIuiEUhqVPkNaf"
-      },
-      "artists": [
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        }
-      ],
-      "duration_ms": 189760,
-      "name": "Bring The Pain",
-      "url": "https://open.spotify.com/track/3F3R4uyTMkX9jRCEVVmdz6"
-    },
-    {
-      "added_at": "2023-12-07 13:46:52",
-      "album": {
         "name": "Ill Na Na",
         "url": "https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 229400,
       "name": "Get Me Home",
       "url": "https://open.spotify.com/track/6Xo9osN1HErsEJoqwj4eDg"
+    },
+    {
+      "added_at": "2023-12-07 13:46:52",
+      "album": {
+        "name": "Tical",
+        "url": "https://open.spotify.com/album/26RDYvX2sIuiEUhqVPkNaf"
+      },
+      "artists": [
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "duration_ms": 189760,
+      "name": "Bring The Pain",
+      "url": "https://open.spotify.com/track/3F3R4uyTMkX9jRCEVVmdz6"
     },
     {
       "added_at": "2023-12-07 13:46:52",

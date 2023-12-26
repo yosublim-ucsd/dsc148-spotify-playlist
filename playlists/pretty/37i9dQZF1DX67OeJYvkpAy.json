@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Prinz",
-  "num_followers": 90382,
+  "num_followers": 90376,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODk5ODA1YWVjZjY2MTkzZGJiMWVhMjA5YTlmNGM3NjI4ZmNhZjY1",
+  "snapshot_id": "MCwzNDA5MTdkZGVhNDIzOWU5YWVlYjgwMDU5YjlkNmE1ZTM1ZGEwZGUz",
   "tracks": [
     {
       "added_at": "2023-08-01 17:14:44",
@@ -135,6 +135,26 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "Next Up - S4-E2",
+        "url": "https://open.spotify.com/album/0j070iW9OV0gL2IbSWIHcE"
+      },
+      "artists": [
+        {
+          "name": "JBEE",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
+        },
+        {
+          "name": "Mixtape Madness",
+          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
+        }
+      ],
+      "duration_ms": 120839,
+      "name": "Next Up - S4-E2, Pt. 1",
+      "url": "https://open.spotify.com/track/5wwPdWKbDEiybmWkZqsGGn"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "Coming for You (feat. A1 x J1)",
         "url": "https://open.spotify.com/album/21CCyLhWrr8nA2wKhUf6zH"
       },
@@ -155,22 +175,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Frozen Gold",
-        "url": "https://open.spotify.com/album/0mdcVQyvW9bXKydpQA5Bz3"
-      },
-      "artists": [
-        {
-          "name": "MKAY",
-          "url": "https://open.spotify.com/artist/4syLia9OumKwAqv3PQjNej"
-        }
-      ],
-      "duration_ms": 138135,
-      "name": "Frozen Gold",
-      "url": "https://open.spotify.com/track/0c0V2jXzEvEPRKKNdPHVk6"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Fly Away",
         "url": "https://open.spotify.com/album/7r27fHeDmcrGO6qKYb1Pq1"
       },
@@ -187,22 +191,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Next Up - S4-E2",
-        "url": "https://open.spotify.com/album/0j070iW9OV0gL2IbSWIHcE"
+        "name": "Frozen Gold",
+        "url": "https://open.spotify.com/album/0mdcVQyvW9bXKydpQA5Bz3"
       },
       "artists": [
         {
-          "name": "JBEE",
-          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
-        },
-        {
-          "name": "Mixtape Madness",
-          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
+          "name": "MKAY",
+          "url": "https://open.spotify.com/artist/4syLia9OumKwAqv3PQjNej"
         }
       ],
-      "duration_ms": 120839,
-      "name": "Next Up - S4-E2, Pt. 1",
-      "url": "https://open.spotify.com/track/5wwPdWKbDEiybmWkZqsGGn"
+      "duration_ms": 138135,
+      "name": "Frozen Gold",
+      "url": "https://open.spotify.com/track/0c0V2jXzEvEPRKKNdPHVk6"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Clearest of Signs",
-        "url": "https://open.spotify.com/album/3670XTwHfYQbX1cE0iBWrN"
-      },
-      "artists": [
-        {
-          "name": "SwitchOTR",
-          "url": "https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv"
-        }
-      ],
-      "duration_ms": 135416,
-      "name": "Clearest of Signs",
-      "url": "https://open.spotify.com/track/6Jfn2Ut4F7snIXmOp7LLco"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "4am",
         "url": "https://open.spotify.com/album/0SDeBHRN5zC4oWSWyyKrep"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 203128,
       "name": "Two Years Clear",
       "url": "https://open.spotify.com/track/3URoC0bjXO9bH8DHKZaSB8"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Clearest of Signs",
+        "url": "https://open.spotify.com/album/3670XTwHfYQbX1cE0iBWrN"
+      },
+      "artists": [
+        {
+          "name": "SwitchOTR",
+          "url": "https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv"
+        }
+      ],
+      "duration_ms": 135416,
+      "name": "Clearest of Signs",
+      "url": "https://open.spotify.com/track/6Jfn2Ut4F7snIXmOp7LLco"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -411,22 +411,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Someone Else",
-        "url": "https://open.spotify.com/album/0TTr3dLOtveoJtYq7wNPw1"
-      },
-      "artists": [
-        {
-          "name": "Private Zero",
-          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
-        }
-      ],
-      "duration_ms": 205033,
-      "name": "Someone Else",
-      "url": "https://open.spotify.com/track/7u52L92Itro4My0Ut5u8rA"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Talking Stage",
         "url": "https://open.spotify.com/album/5NLili28W2k9Uei0PLB0fd"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 180047,
       "name": "Talking Stage",
       "url": "https://open.spotify.com/track/2wqit987hOdo26WWk95BIK"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Someone Else",
+        "url": "https://open.spotify.com/album/0TTr3dLOtveoJtYq7wNPw1"
+      },
+      "artists": [
+        {
+          "name": "Private Zero",
+          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
+        }
+      ],
+      "duration_ms": 205033,
+      "name": "Someone Else",
+      "url": "https://open.spotify.com/track/7u52L92Itro4My0Ut5u8rA"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -491,18 +491,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Rise Above Hate",
-        "url": "https://open.spotify.com/album/1ayupZtO3Z583NZ4HNPRmg"
+        "name": "HBK",
+        "url": "https://open.spotify.com/album/1xzgBS9qmcqPsZf4ZbC6tX"
       },
       "artists": [
         {
-          "name": "Unknown T",
-          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+          "name": "JBEE",
+          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
         }
       ],
-      "duration_ms": 112043,
-      "name": "SS Interlude",
-      "url": "https://open.spotify.com/track/0L0sXaqVYGpvXWcikG6zlk"
+      "duration_ms": 145306,
+      "name": "Heart On Ice",
+      "url": "https://open.spotify.com/track/3D46l95LQ8iND0qzPHoxEf"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -519,6 +519,54 @@
       "duration_ms": 152137,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/6SHx5TR6SqJdGiwi8tlObe"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k"
+      },
+      "artists": [
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+        }
+      ],
+      "duration_ms": 80613,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/1eqIZ2Aki8uty86Qy4bk4N"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Stuck In My Ways",
+        "url": "https://open.spotify.com/album/28wWPwJNWOyoVIYcmNJrxl"
+      },
+      "artists": [
+        {
+          "name": "L24",
+          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
+        }
+      ],
+      "duration_ms": 111253,
+      "name": "Stuck In My Ways",
+      "url": "https://open.spotify.com/track/5JzV1vTAr7dLQ2YU6b8GrF"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Rise Above Hate",
+        "url": "https://open.spotify.com/album/1ayupZtO3Z583NZ4HNPRmg"
+      },
+      "artists": [
+        {
+          "name": "Unknown T",
+          "url": "https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3"
+        }
+      ],
+      "duration_ms": 112043,
+      "name": "SS Interlude",
+      "url": "https://open.spotify.com/track/0L0sXaqVYGpvXWcikG6zlk"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -543,54 +591,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k"
-      },
-      "artists": [
-        {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
-        }
-      ],
-      "duration_ms": 80613,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/1eqIZ2Aki8uty86Qy4bk4N"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "In The Loop",
-        "url": "https://open.spotify.com/album/1ailFDm9fOYJ1gXTZf9fZS"
-      },
-      "artists": [
-        {
-          "name": "DC",
-          "url": "https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD"
-        }
-      ],
-      "duration_ms": 195933,
-      "name": "Paro(noia)",
-      "url": "https://open.spotify.com/track/3K7mXKhaan7cLsHUg4VL2I"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "HBK",
-        "url": "https://open.spotify.com/album/1xzgBS9qmcqPsZf4ZbC6tX"
-      },
-      "artists": [
-        {
-          "name": "JBEE",
-          "url": "https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq"
-        }
-      ],
-      "duration_ms": 145306,
-      "name": "Heart On Ice",
-      "url": "https://open.spotify.com/track/3D46l95LQ8iND0qzPHoxEf"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Left Back (Remix)",
         "url": "https://open.spotify.com/album/2o0x78MDfVvBaDLhHZ3By8"
       },
@@ -611,18 +611,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Stuck In My Ways",
-        "url": "https://open.spotify.com/album/28wWPwJNWOyoVIYcmNJrxl"
+        "name": "In The Loop",
+        "url": "https://open.spotify.com/album/1ailFDm9fOYJ1gXTZf9fZS"
       },
       "artists": [
         {
-          "name": "L24",
-          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
+          "name": "DC",
+          "url": "https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD"
         }
       ],
-      "duration_ms": 111253,
-      "name": "Stuck In My Ways",
-      "url": "https://open.spotify.com/track/5JzV1vTAr7dLQ2YU6b8GrF"
+      "duration_ms": 195933,
+      "name": "Paro(noia)",
+      "url": "https://open.spotify.com/track/3K7mXKhaan7cLsHUg4VL2I"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -691,38 +691,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "DSLM?",
-        "url": "https://open.spotify.com/album/4YcQIKvYtKagM8EokiEEAP"
-      },
-      "artists": [
-        {
-          "name": "Idi Akz",
-          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
-        }
-      ],
-      "duration_ms": 189020,
-      "name": "DSLM?",
-      "url": "https://open.spotify.com/track/5tZsq6ChyWytdmtwBuvcsx"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "Deeper Than Drill",
-        "url": "https://open.spotify.com/album/2srLqC88s3SZBpI9Zs5aNF"
-      },
-      "artists": [
-        {
-          "name": "Ronzo",
-          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "Deeper Than Drill",
-      "url": "https://open.spotify.com/track/0AaFp8J9BS17oH4xIybF5n"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Broken Hearted Crook",
         "url": "https://open.spotify.com/album/6FxWacdUVFgdyDjbuRxTFR"
       },
@@ -735,6 +703,22 @@
       "duration_ms": 168135,
       "name": "Broken Hearted Crook",
       "url": "https://open.spotify.com/track/60clenfS2gkpTwndV2a8Cv"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "DSLM?",
+        "url": "https://open.spotify.com/album/4YcQIKvYtKagM8EokiEEAP"
+      },
+      "artists": [
+        {
+          "name": "Idi Akz",
+          "url": "https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf"
+        }
+      ],
+      "duration_ms": 189020,
+      "name": "DSLM?",
+      "url": "https://open.spotify.com/track/5tZsq6ChyWytdmtwBuvcsx"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -771,6 +755,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "Deeper Than Drill",
+        "url": "https://open.spotify.com/album/2srLqC88s3SZBpI9Zs5aNF"
+      },
+      "artists": [
+        {
+          "name": "Ronzo",
+          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "Deeper Than Drill",
+      "url": "https://open.spotify.com/track/0AaFp8J9BS17oH4xIybF5n"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "If I Die Young",
         "url": "https://open.spotify.com/album/21yWDNOLIhn37Kd6UtYua4"
       },
@@ -799,26 +799,6 @@
       "duration_ms": 182937,
       "name": "2:30AM",
       "url": "https://open.spotify.com/track/2smzqbNFB3VZXQ0IBZrBZx"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "Trust Issues",
-        "url": "https://open.spotify.com/album/6ogdhmuZyJzHxtNd010qZo"
-      },
-      "artists": [
-        {
-          "name": "Ronzo",
-          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
-        },
-        {
-          "name": "BlixzBeatz",
-          "url": "https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Trust Issues",
-      "url": "https://open.spotify.com/track/0f6YeGWZMfFJ0PieTY6Y2R"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -855,22 +835,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Never Been Ordinary",
-        "url": "https://open.spotify.com/album/64qtcm4JdwhwtLDJjfSrmF"
-      },
-      "artists": [
-        {
-          "name": "French The Kid",
-          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
-        }
-      ],
-      "duration_ms": 194693,
-      "name": "Window Blues",
-      "url": "https://open.spotify.com/track/1RCRhvOyJFhZFpXdqHGzZQ"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "9AM",
         "url": "https://open.spotify.com/album/1ucTQSkMf86AVwVfkpZZK8"
       },
@@ -891,18 +855,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/34WR40SRw2MnKwjuQPYa27"
+        "name": "Never Been Ordinary",
+        "url": "https://open.spotify.com/album/64qtcm4JdwhwtLDJjfSrmF"
       },
       "artists": [
         {
-          "name": "Emzorearner",
-          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
+          "name": "French The Kid",
+          "url": "https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC"
         }
       ],
-      "duration_ms": 152571,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0AtyNYZ0kygG1AW1japLyX"
+      "duration_ms": 194693,
+      "name": "Window Blues",
+      "url": "https://open.spotify.com/track/1RCRhvOyJFhZFpXdqHGzZQ"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -935,6 +899,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/34WR40SRw2MnKwjuQPYa27"
+      },
+      "artists": [
+        {
+          "name": "Emzorearner",
+          "url": "https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A"
+        }
+      ],
+      "duration_ms": 152571,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0AtyNYZ0kygG1AW1japLyX"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "Retrogress (Season 1)",
         "url": "https://open.spotify.com/album/6AX4iSMeS5jefTcnEpZm2E"
       },
@@ -944,9 +924,29 @@
           "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 176680,
-      "name": "I Thought I'd Die In Your Arms",
-      "url": "https://open.spotify.com/track/3ORQ3o3VhlmbqSkGTNweMY"
+      "duration_ms": 199705,
+      "name": "She Comes & Goes",
+      "url": "https://open.spotify.com/track/1OfoIbhQT9AjGe9WF8qQae"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Trust Issues",
+        "url": "https://open.spotify.com/album/6ogdhmuZyJzHxtNd010qZo"
+      },
+      "artists": [
+        {
+          "name": "Ronzo",
+          "url": "https://open.spotify.com/artist/5i6r27cMI5xAJHs3awxmmd"
+        },
+        {
+          "name": "BlixzBeatz",
+          "url": "https://open.spotify.com/artist/6PJkfSkEh4Su3utDeRI6MT"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/0f6YeGWZMfFJ0PieTY6Y2R"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1024,9 +1024,9 @@
           "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 199705,
-      "name": "She Comes & Goes",
-      "url": "https://open.spotify.com/track/1OfoIbhQT9AjGe9WF8qQae"
+      "duration_ms": 176680,
+      "name": "I Thought I'd Die In Your Arms",
+      "url": "https://open.spotify.com/track/3ORQ3o3VhlmbqSkGTNweMY"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1187,18 +1187,18 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Red Flags",
-        "url": "https://open.spotify.com/album/1H4KSuq4PXlTLubVl06DFs"
+        "name": "Novacane",
+        "url": "https://open.spotify.com/album/2S4RILOQgJXWNI1xiFjhUJ"
       },
       "artists": [
         {
-          "name": "Private Zero",
-          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
+          "name": "J4TT",
+          "url": "https://open.spotify.com/artist/07b7fDFq0MD93AByJSH8B6"
         }
       ],
-      "duration_ms": 167172,
-      "name": "Red Flags",
-      "url": "https://open.spotify.com/track/6SU3VtISJbWcuAIF9nsHBp"
+      "duration_ms": 192004,
+      "name": "Novacane",
+      "url": "https://open.spotify.com/track/3a9ydOZeQaduBvqr6DS58a"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1223,18 +1223,34 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Novacane",
-        "url": "https://open.spotify.com/album/2S4RILOQgJXWNI1xiFjhUJ"
+        "name": "Red Flags",
+        "url": "https://open.spotify.com/album/1H4KSuq4PXlTLubVl06DFs"
       },
       "artists": [
         {
-          "name": "J4TT",
-          "url": "https://open.spotify.com/artist/07b7fDFq0MD93AByJSH8B6"
+          "name": "Private Zero",
+          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
         }
       ],
-      "duration_ms": 192004,
-      "name": "Novacane",
-      "url": "https://open.spotify.com/track/3a9ydOZeQaduBvqr6DS58a"
+      "duration_ms": 167172,
+      "name": "Red Flags",
+      "url": "https://open.spotify.com/track/6SU3VtISJbWcuAIF9nsHBp"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Love, Eternity & Faith",
+        "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
+      },
+      "artists": [
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Just You",
+      "url": "https://open.spotify.com/track/56mVQm5xqsaDQ15uBW769i"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1283,42 +1299,6 @@
       "duration_ms": 199799,
       "name": "Role Model",
       "url": "https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "Love, Eternity & Faith",
-        "url": "https://open.spotify.com/album/4vc27sJyxvNCRFCVwXAo6a"
-      },
-      "artists": [
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Just You",
-      "url": "https://open.spotify.com/track/56mVQm5xqsaDQ15uBW769i"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "Losing Interest",
-        "url": "https://open.spotify.com/album/3p7UyKo0CDHbOhGycdtjzq"
-      },
-      "artists": [
-        {
-          "name": "Kstan",
-          "url": "https://open.spotify.com/artist/1ZYHfzTiCuGSs3zJqKa57i"
-        },
-        {
-          "name": "WiTTZ SG",
-          "url": "https://open.spotify.com/artist/0XgsAUBAg2UrPFpR4aHDFx"
-        }
-      ],
-      "duration_ms": 159753,
-      "name": "Losing Interest",
-      "url": "https://open.spotify.com/track/5ofyjvBIKa8VeP1nb3U7Kp"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1375,6 +1355,26 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "Losing Interest",
+        "url": "https://open.spotify.com/album/3p7UyKo0CDHbOhGycdtjzq"
+      },
+      "artists": [
+        {
+          "name": "Kstan",
+          "url": "https://open.spotify.com/artist/1ZYHfzTiCuGSs3zJqKa57i"
+        },
+        {
+          "name": "WiTTZ SG",
+          "url": "https://open.spotify.com/artist/0XgsAUBAg2UrPFpR4aHDFx"
+        }
+      ],
+      "duration_ms": 159753,
+      "name": "Losing Interest",
+      "url": "https://open.spotify.com/track/5ofyjvBIKa8VeP1nb3U7Kp"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "Berlin Luv",
         "url": "https://open.spotify.com/album/1PuPwsACjhsVMxEi2KkhYU"
       },
@@ -1391,6 +1391,22 @@
       "duration_ms": 140146,
       "name": "Berlin Luv",
       "url": "https://open.spotify.com/track/42EWThzCZiinQFmHM4yv2s"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Hearts Get Numb",
+        "url": "https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG"
+      },
+      "artists": [
+        {
+          "name": "Kay9ine",
+          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
+        }
+      ],
+      "duration_ms": 175774,
+      "name": "Hearts Get Numb",
+      "url": "https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1451,22 +1467,6 @@
       "duration_ms": 121756,
       "name": "One Mic",
       "url": "https://open.spotify.com/track/6YFfJSE4pqZIbYRwAxcMLW"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "Hearts Get Numb",
-        "url": "https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG"
-      },
-      "artists": [
-        {
-          "name": "Kay9ine",
-          "url": "https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ"
-        }
-      ],
-      "duration_ms": 175774,
-      "name": "Hearts Get Numb",
-      "url": "https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89"
     },
     {
       "added_at": "2023-08-01 17:14:44",

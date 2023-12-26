@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 
 > Les meilleurs Pop Hits Maghrébins sont ici\. Cover: Mounim Slimani
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,460 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,487 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,12 +12,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 | 2 | [Follow](https://open.spotify.com/track/09VlHQlBTWASlJMibldUFl) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6), [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [Follow](https://open.spotify.com/album/1tfaS0PrCsIVRMx0bhL5iP) | 3:25 |
 | 3 | [Annani](https://open.spotify.com/track/0twBNB57gTFcFai9fbclTl) | [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW), [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [Annani](https://open.spotify.com/album/3p49TlN2ALFc9CRiTvU6T0) | 3:53 |
 | 4 | [Favori](https://open.spotify.com/track/48kp069SRdTvuGFobRyhlQ) | [Yasmine Belkacem](https://open.spotify.com/artist/7EmOe92RLgv1axv2KyxGVR), [Tarek Kadem](https://open.spotify.com/artist/43BDWBOkq6wZHr9UNmqSHw) | [Favori](https://open.spotify.com/album/3nGqVqbJSdDkM6ma5NGpO6) | 3:20 |
-| 5 | [BABA \(feat\. Ghali\)](https://open.spotify.com/track/5eqpqdHsOKMqeI1UXUjAUg) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [BABA \(feat\. Ghali\)](https://open.spotify.com/album/7tfYeVFoIFOk2dun7OXBd5) | 2:49 |
-| 6 | [Alaise](https://open.spotify.com/track/2Q2s8px0dqAeyUylvZr1u4) | [Aminux](https://open.spotify.com/artist/4BgFW9XAMsJMkMZQJ6lGD9) | [Alaise](https://open.spotify.com/album/2bsjO6jSKij9v47QD4LO9C) | 2:26 |
-| 7 | [Taline](https://open.spotify.com/track/0RwL13X9AdtPI2SCSaJd3J) | [Rajaa Belmir](https://open.spotify.com/artist/6Ap4eCAS7mQixYK8mbbYAp) | [Taline](https://open.spotify.com/album/1RKFJci69gAvYiezUyPB89) | 3:19 |
-| 8 | [LI GALOU](https://open.spotify.com/track/5cT4iZk4zHjHWQV6isNQay) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y) | [LI GALOU](https://open.spotify.com/album/03vy9llHAUx6NnE0P8TCOm) | 2:45 |
-| 9 | [MA DENBI](https://open.spotify.com/track/447567rKGG5x3ZGHcIp2Cm) | [L7or](https://open.spotify.com/artist/5NIanI5i7BSxYhc7DKpGZr) | [MA DENBI](https://open.spotify.com/album/5JrL5ugsY0fkGmjeMlFnfh) | 3:11 |
-| 10 | [Hyati](https://open.spotify.com/track/0WaDpKGrvP2jkER9Ewv1gQ) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Hyati](https://open.spotify.com/album/03BIDG67ZTLLFEN7ywsS8q) | 2:59 |
+| 5 | [Hyati](https://open.spotify.com/track/0WaDpKGrvP2jkER9Ewv1gQ) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Hyati](https://open.spotify.com/album/03BIDG67ZTLLFEN7ywsS8q) | 2:59 |
+| 6 | [BABA \(feat\. Ghali\)](https://open.spotify.com/track/5eqpqdHsOKMqeI1UXUjAUg) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [BABA \(feat\. Ghali\)](https://open.spotify.com/album/7tfYeVFoIFOk2dun7OXBd5) | 2:49 |
+| 7 | [Alaise](https://open.spotify.com/track/2Q2s8px0dqAeyUylvZr1u4) | [Aminux](https://open.spotify.com/artist/4BgFW9XAMsJMkMZQJ6lGD9) | [Alaise](https://open.spotify.com/album/2bsjO6jSKij9v47QD4LO9C) | 2:26 |
+| 8 | [Taline](https://open.spotify.com/track/0RwL13X9AdtPI2SCSaJd3J) | [Rajaa Belmir](https://open.spotify.com/artist/6Ap4eCAS7mQixYK8mbbYAp) | [Taline](https://open.spotify.com/album/1RKFJci69gAvYiezUyPB89) | 3:19 |
+| 9 | [LI GALOU](https://open.spotify.com/track/5cT4iZk4zHjHWQV6isNQay) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y) | [LI GALOU](https://open.spotify.com/album/03vy9llHAUx6NnE0P8TCOm) | 2:45 |
+| 10 | [MA DENBI](https://open.spotify.com/track/447567rKGG5x3ZGHcIp2Cm) | [L7or](https://open.spotify.com/artist/5NIanI5i7BSxYhc7DKpGZr) | [MA DENBI](https://open.spotify.com/album/5JrL5ugsY0fkGmjeMlFnfh) | 3:11 |
 | 11 | [Mriyech](https://open.spotify.com/track/7735rwGeak348luaiQVRNE) | [Mehdi Fadili](https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG) | [Mriyech](https://open.spotify.com/album/4eLxm3sq1QQ8y22wZi7n2H) | 3:28 |
 | 12 | [Hyati](https://open.spotify.com/track/1p6ewW5oS6NerlFRbQ3Mow) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Hyati](https://open.spotify.com/album/6iFKqpX8QbNjzAvMoREpRu) | 2:35 |
 | 13 | [Ghanili](https://open.spotify.com/track/0sobdrww1wYUfqhrCAzwz0) | [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Ghanili](https://open.spotify.com/album/5l7tQsPjmtqu7IkyDREAjI) | 2:57 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 | 59 | [DRAILL](https://open.spotify.com/track/2UYZDBQ89KYUdU3CspLZJ2) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [DRAILL](https://open.spotify.com/album/4Sx9SrFQdcCD5pSY6bwU8M) | 3:40 |
 | 60 | [Anaconda](https://open.spotify.com/track/52v6JiIMBEvnuvRFOyxhMQ) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [Anaconda](https://open.spotify.com/album/38NNxIG32ee7rKe0thztPa) | 3:26 |
 
-Snapshot ID: `MCw0ZTRjZWMyZGY0ZDEwMTBiZmFiZmJiMmE0ZGI2OWI5ZDE5ZWYwMDUz`
+Snapshot ID: `MCxmOTI2NjcxZjQwNDA4MmM4MDNkZGZkNWE5ZGYzOGJiY2E4ZGNjOGNk`

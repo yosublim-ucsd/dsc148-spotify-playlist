@@ -1,12 +1,12 @@
 {
   "description": "make the whole place shimmer \u2728",
-  "num_followers": 198915,
+  "num_followers": 198978,
   "original_name": "neon cowgirl",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmZiNzQzN2I4ZWNhMzliMGZmOWJiMWE4NWVhODNiYjQ3NzdkYjA2",
+  "snapshot_id": "MCxkNmIyYzQ3OTQ2MjI0YjNhNzdiNGFhYmRhYmM1N2U4YWVlMGM5NWZk",
   "tracks": [
     {
       "added_at": "2023-07-24 19:45:41",
@@ -199,6 +199,22 @@
     {
       "added_at": "2023-07-24 19:45:41",
       "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 161533,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
+    },
+    {
+      "added_at": "2023-07-24 19:45:41",
+      "album": {
         "name": "Love Stuff",
         "url": "https://open.spotify.com/album/0B4eikFaUJcf3hc6DaSVov"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 205473,
       "name": "You should be sad",
       "url": "https://open.spotify.com/track/7lidXGPXPYLNThITAOTlkK"
-    },
-    {
-      "added_at": "2023-07-24 19:45:41",
-      "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 161533,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
     },
     {
       "added_at": "2023-07-24 19:45:41",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-07-24 19:45:41",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
-    },
-    {
-      "added_at": "2023-07-24 19:45:41",
-      "album": {
         "name": "Start Walkin' 1965-1976",
         "url": "https://open.spotify.com/album/1J3CtRxcG9Tkuw2xQ59NEk"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 166133,
       "name": "These Boots Are Made for Walkin'",
       "url": "https://open.spotify.com/track/2HEgBBls7l0smWTxPx0MtZ"
+    },
+    {
+      "added_at": "2023-07-24 19:45:41",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
       "added_at": "2023-07-24 19:45:41",
@@ -471,6 +471,22 @@
     {
       "added_at": "2023-07-24 19:45:41",
       "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 204852,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf"
+    },
+    {
+      "added_at": "2023-07-24 19:45:41",
+      "album": {
         "name": "Drunk (And I Don't Wanna Go Home)",
         "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
       },
@@ -491,22 +507,6 @@
     {
       "added_at": "2023-07-24 19:45:41",
       "album": {
-        "name": "Rumor Has It",
-        "url": "https://open.spotify.com/album/5XrjQp24z8Pr5dsB1SnsIQ"
-      },
-      "artists": [
-        {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        }
-      ],
-      "duration_ms": 299733,
-      "name": "Fancy",
-      "url": "https://open.spotify.com/track/0FtV0YbnnjD7PXpLHFHPhn"
-    },
-    {
-      "added_at": "2023-07-24 19:45:41",
-      "album": {
         "name": "Stronger (Deluxe Version)",
         "url": "https://open.spotify.com/album/1MNvMtEmMMdBXZBDcFNcWj"
       },
@@ -523,38 +523,6 @@
     {
       "added_at": "2023-07-24 19:45:41",
       "album": {
-        "name": "Here You Come Again",
-        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 179491,
-      "name": "Here You Come Again",
-      "url": "https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L"
-    },
-    {
-      "added_at": "2023-07-24 19:45:41",
-      "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 204852,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf"
-    },
-    {
-      "added_at": "2023-07-24 19:45:41",
-      "album": {
         "name": "Crazy Ex-Girlfriend",
         "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
       },
@@ -567,6 +535,38 @@
       "duration_ms": 191693,
       "name": "Gunpowder & Lead",
       "url": "https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT"
+    },
+    {
+      "added_at": "2023-07-24 19:45:41",
+      "album": {
+        "name": "Rumor Has It",
+        "url": "https://open.spotify.com/album/5XrjQp24z8Pr5dsB1SnsIQ"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "duration_ms": 299733,
+      "name": "Fancy",
+      "url": "https://open.spotify.com/track/0FtV0YbnnjD7PXpLHFHPhn"
+    },
+    {
+      "added_at": "2023-07-24 19:45:41",
+      "album": {
+        "name": "Here You Come Again",
+        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 179491,
+      "name": "Here You Come Again",
+      "url": "https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L"
     },
     {
       "added_at": "2023-07-24 19:45:41",
@@ -635,26 +635,6 @@
     {
       "added_at": "2023-07-24 19:45:41",
       "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 169586,
-      "name": "Somethin' Bad (with Carrie Underwood) - Duet with Carrie Underwood [Album]",
-      "url": "https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2"
-    },
-    {
-      "added_at": "2023-07-24 19:45:41",
-      "album": {
         "name": "Rainbow",
         "url": "https://open.spotify.com/album/1IYVB8NfiRqhdZlTxjspNh"
       },
@@ -675,22 +655,6 @@
     {
       "added_at": "2023-07-24 19:45:41",
       "album": {
-        "name": "Everything She Ain\u2019t",
-        "url": "https://open.spotify.com/album/761yinsOXW3p74dFBge4c7"
-      },
-      "artists": [
-        {
-          "name": "Hailey Whitters",
-          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
-        }
-      ],
-      "duration_ms": 151973,
-      "name": "Everything She Ain\u2019t",
-      "url": "https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0"
-    },
-    {
-      "added_at": "2023-07-24 19:45:41",
-      "album": {
         "name": "747",
         "url": "https://open.spotify.com/album/1JHNRou038CfCC0RZztDz8"
       },
@@ -703,6 +667,42 @@
       "duration_ms": 198266,
       "name": "Bartender",
       "url": "https://open.spotify.com/track/6olKv2HP3XgBpvVxAswowe"
+    },
+    {
+      "added_at": "2023-07-24 19:45:41",
+      "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 169586,
+      "name": "Somethin' Bad (with Carrie Underwood) - Duet with Carrie Underwood [Album]",
+      "url": "https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2"
+    },
+    {
+      "added_at": "2023-07-24 19:45:41",
+      "album": {
+        "name": "Everything She Ain\u2019t",
+        "url": "https://open.spotify.com/album/761yinsOXW3p74dFBge4c7"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "duration_ms": 151973,
+      "name": "Everything She Ain\u2019t",
+      "url": "https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0"
     },
     {
       "added_at": "2023-07-24 19:45:41",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-07-24 19:45:41",
       "album": {
-        "name": "Unapologetically (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 192840,
-      "name": "Miss Me More",
-      "url": "https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2"
-    },
-    {
-      "added_at": "2023-07-24 19:45:41",
-      "album": {
         "name": "Wide Open Spaces",
         "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 193064,
       "name": "There's Your Trouble",
       "url": "https://open.spotify.com/track/69m9WDPBvemwujQwdONslk"
+    },
+    {
+      "added_at": "2023-07-24 19:45:41",
+      "album": {
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 192840,
+      "name": "Miss Me More",
+      "url": "https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2"
     },
     {
       "added_at": "2023-07-24 19:45:41",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-07-24 19:45:41",
       "album": {
-        "name": "Stop Draggin' Your Boots",
-        "url": "https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP"
-      },
-      "artists": [
-        {
-          "name": "Danielle Bradbery",
-          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
-        }
-      ],
-      "duration_ms": 164347,
-      "name": "Stop Draggin' Your Boots",
-      "url": "https://open.spotify.com/track/0ODaBMQ3tbTefbmbMWTwdT"
-    },
-    {
-      "added_at": "2023-07-24 19:45:41",
-      "album": {
         "name": "Britney (Digital Deluxe Version)",
         "url": "https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 231066,
       "name": "I'm Not a Girl, Not Yet a Woman",
       "url": "https://open.spotify.com/track/1xg1yGPy1Y3YUf44s6TB1o"
+    },
+    {
+      "added_at": "2023-07-24 19:45:41",
+      "album": {
+        "name": "Stop Draggin' Your Boots",
+        "url": "https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP"
+      },
+      "artists": [
+        {
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+        }
+      ],
+      "duration_ms": 164347,
+      "name": "Stop Draggin' Your Boots",
+      "url": "https://open.spotify.com/track/0ODaBMQ3tbTefbmbMWTwdT"
     },
     {
       "added_at": "2023-07-24 19:45:41",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-07-24 19:45:41",
       "album": {
-        "name": "Frame By Frame",
-        "url": "https://open.spotify.com/album/7IoVJIpP7XtjMJkgYxJkrn"
-      },
-      "artists": [
-        {
-          "name": "Cassadee Pope",
-          "url": "https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG"
-        }
-      ],
-      "duration_ms": 215640,
-      "name": "Wasting All These Tears",
-      "url": "https://open.spotify.com/track/25zXRQGuwYZdIp88fVZOPC"
-    },
-    {
-      "added_at": "2023-07-24 19:45:41",
-      "album": {
         "name": "Blown Away",
         "url": "https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 205560,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/20DfkHC5grnKNJCzZQB6KC"
+    },
+    {
+      "added_at": "2023-07-24 19:45:41",
+      "album": {
+        "name": "Frame By Frame",
+        "url": "https://open.spotify.com/album/7IoVJIpP7XtjMJkgYxJkrn"
+      },
+      "artists": [
+        {
+          "name": "Cassadee Pope",
+          "url": "https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG"
+        }
+      ],
+      "duration_ms": 215640,
+      "name": "Wasting All These Tears",
+      "url": "https://open.spotify.com/track/25zXRQGuwYZdIp88fVZOPC"
     },
     {
       "added_at": "2023-07-24 19:45:41",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-07-24 19:45:41",
       "album": {
-        "name": "Storyteller",
-        "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "Dirty Laundry",
-      "url": "https://open.spotify.com/track/5qRRiqndqXaq2QBudIrkYU"
-    },
-    {
-      "added_at": "2023-07-24 19:45:41",
-      "album": {
         "name": "hole in the bottle (with Shania Twain)",
         "url": "https://open.spotify.com/album/16by1M7adOE6AeoyLzQZVc"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 194680,
       "name": "Better Dig Two",
       "url": "https://open.spotify.com/track/3z0a8G407NbxfjTRffvQiP"
+    },
+    {
+      "added_at": "2023-07-24 19:45:41",
+      "album": {
+        "name": "Storyteller",
+        "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "Dirty Laundry",
+      "url": "https://open.spotify.com/track/5qRRiqndqXaq2QBudIrkYU"
     },
     {
       "added_at": "2023-07-24 19:45:41",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-07-24 19:45:41",
       "album": {
-        "name": "Cry Pretty",
-        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 202853,
-      "name": "Southbound",
-      "url": "https://open.spotify.com/track/7qXPZxXn6Xmv1sjh03skiW"
-    },
-    {
-      "added_at": "2023-07-24 19:45:41",
-      "album": {
         "name": "Only What I Feel",
         "url": "https://open.spotify.com/album/4ZyxBpJuAeEcrW2waHYuiB"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 213693,
       "name": "Blame It on Your Heart",
       "url": "https://open.spotify.com/track/1mICUTQCbRkAvGmO0cwoAz"
+    },
+    {
+      "added_at": "2023-07-24 19:45:41",
+      "album": {
+        "name": "Cry Pretty",
+        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 202853,
+      "name": "Southbound",
+      "url": "https://open.spotify.com/track/7qXPZxXn6Xmv1sjh03skiW"
     },
     {
       "added_at": "2023-07-24 19:45:41",
@@ -1447,30 +1447,6 @@
     {
       "added_at": "2023-07-24 19:45:41",
       "album": {
-        "name": "SUBJECT TO CHANGE",
-        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        },
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        },
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 175229,
-      "name": "YOU'RE DRUNK, GO HOME",
-      "url": "https://open.spotify.com/track/0XVBahLtPyfg5m1LxPxRTd"
-    },
-    {
-      "added_at": "2023-07-24 19:45:41",
-      "album": {
         "name": "Baytown",
         "url": "https://open.spotify.com/album/3Ij6h1an3zzaFqY7PnW0JX"
       },
@@ -1531,6 +1507,30 @@
       "duration_ms": 212280,
       "name": "Sway",
       "url": "https://open.spotify.com/track/6EUDUDQP5ynE3g5SWCA8sc"
+    },
+    {
+      "added_at": "2023-07-24 19:45:41",
+      "album": {
+        "name": "SUBJECT TO CHANGE",
+        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        },
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 175229,
+      "name": "YOU'RE DRUNK, GO HOME",
+      "url": "https://open.spotify.com/track/0XVBahLtPyfg5m1LxPxRTd"
     },
     {
       "added_at": "2023-07-24 19:45:41",

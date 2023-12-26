@@ -1,12 +1,12 @@
 {
   "description": "Celebrate, amplify, and support LGBTQ+ API musicians. Cover: Deb Never.",
-  "num_followers": 8701,
+  "num_followers": 8705,
   "original_name": "API Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTcwZDQ3MjJlZWExZDE4NzQxYWI2NzZmODFiYTIxMjE4YzdjYzJh",
+  "snapshot_id": "MCxiMTljZDViMzcxODgzMGMyZTdhOTU3NjlhYTJlM2M2NjA5ZmE2Y2Ix",
   "tracks": [
     {
       "added_at": "2023-06-30 23:59:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Tweety",
-        "url": "https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T"
-      },
-      "artists": [
-        {
-          "name": "Raveena",
-          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
-        }
-      ],
-      "duration_ms": 232773,
-      "name": "Tweety",
-      "url": "https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
         "name": "I'm Not Afraid",
         "url": "https://open.spotify.com/album/1DU15BJPvPQxgFGtRMdLf2"
       },
@@ -295,22 +279,6 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "whatever u like",
-        "url": "https://open.spotify.com/album/721LnudJW05TovLVLcSoMa"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 200877,
-      "name": "whatever u like",
-      "url": "https://open.spotify.com/track/4tv72g5KnIy4XbyDBhEFgA"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
         "name": "Kaitlin",
         "url": "https://open.spotify.com/album/4HKc9NdbLgaMnjqZMM2FnY"
       },
@@ -323,6 +291,38 @@
       "duration_ms": 263400,
       "name": "Kaitlin",
       "url": "https://open.spotify.com/track/0GY8oiVq2iY4lufOmhXPW4"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
+        "name": "Tweety",
+        "url": "https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "duration_ms": 232773,
+      "name": "Tweety",
+      "url": "https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
+        "name": "whatever u like",
+        "url": "https://open.spotify.com/album/721LnudJW05TovLVLcSoMa"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "duration_ms": 200877,
+      "name": "whatever u like",
+      "url": "https://open.spotify.com/track/4tv72g5KnIy4XbyDBhEFgA"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "What Happened, Happened",
-        "url": "https://open.spotify.com/album/38Vulf6o5aVnrQae85FmOZ"
-      },
-      "artists": [
-        {
-          "name": "Emily Vu",
-          "url": "https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS"
-        }
-      ],
-      "duration_ms": 184528,
-      "name": "What Happened, Happened",
-      "url": "https://open.spotify.com/track/2Ck8r31kURBqC7K2G9lLBo"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
         "name": "Rules!",
         "url": "https://open.spotify.com/album/0kk6iwrHZ2eoRyHXMFhwga"
       },
@@ -403,22 +387,6 @@
       "duration_ms": 202389,
       "name": "Robbed",
       "url": "https://open.spotify.com/track/29IHIrE9eWpH8j6c3P10nq"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
-        "name": "good juju : vol. 1",
-        "url": "https://open.spotify.com/album/2JBGnfjeAuIK26Ysk3XlIS"
-      },
-      "artists": [
-        {
-          "name": "Jujubee",
-          "url": "https://open.spotify.com/artist/4YJKhu78Ddth48vou16B7U"
-        }
-      ],
-      "duration_ms": 181424,
-      "name": "Need Ya",
-      "url": "https://open.spotify.com/track/7DdiwiiHRuqRZizeq6s1NM"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -439,6 +407,22 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
+        "name": "What Happened, Happened",
+        "url": "https://open.spotify.com/album/38Vulf6o5aVnrQae85FmOZ"
+      },
+      "artists": [
+        {
+          "name": "Emily Vu",
+          "url": "https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS"
+        }
+      ],
+      "duration_ms": 184528,
+      "name": "What Happened, Happened",
+      "url": "https://open.spotify.com/track/2Ck8r31kURBqC7K2G9lLBo"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
         "name": "NEVERLAND",
         "url": "https://open.spotify.com/album/2y8I9aWRSnBXSUtVWVwBes"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 222928,
       "name": "NEVERLAND",
       "url": "https://open.spotify.com/track/5e9gNMrGlVblMER6iN2tnJ"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
+        "name": "good juju : vol. 1",
+        "url": "https://open.spotify.com/album/2JBGnfjeAuIK26Ysk3XlIS"
+      },
+      "artists": [
+        {
+          "name": "Jujubee",
+          "url": "https://open.spotify.com/artist/4YJKhu78Ddth48vou16B7U"
+        }
+      ],
+      "duration_ms": 181424,
+      "name": "Need Ya",
+      "url": "https://open.spotify.com/track/7DdiwiiHRuqRZizeq6s1NM"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -483,6 +483,22 @@
       "duration_ms": 212080,
       "name": "Mess",
       "url": "https://open.spotify.com/track/0qGy2mmBbemdvjHy1cfmrD"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
+        "name": "Honey Understand",
+        "url": "https://open.spotify.com/album/5fNeCyH1z4hzntsX0bfRrM"
+      },
+      "artists": [
+        {
+          "name": "NoSo",
+          "url": "https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o"
+        }
+      ],
+      "duration_ms": 241920,
+      "name": "Honey Understand",
+      "url": "https://open.spotify.com/track/3q5eBVe8qOa1x3f24xoBkc"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -583,22 +599,6 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Honey Understand",
-        "url": "https://open.spotify.com/album/5fNeCyH1z4hzntsX0bfRrM"
-      },
-      "artists": [
-        {
-          "name": "NoSo",
-          "url": "https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o"
-        }
-      ],
-      "duration_ms": 241920,
-      "name": "Honey Understand",
-      "url": "https://open.spotify.com/track/3q5eBVe8qOa1x3f24xoBkc"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
         "name": "All I Have To Do Is Dream",
         "url": "https://open.spotify.com/album/0uoZnGYyRF3QWuf0RKU1mo"
       },
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
+        "name": "Hyperdome",
+        "url": "https://open.spotify.com/album/4WQ745zAz9eRVRVDMBk4IE"
+      },
+      "artists": [
+        {
+          "name": "SuperKnova",
+          "url": "https://open.spotify.com/artist/7om8BpNIYHtacdW2rDVHuD"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Hyperdome",
+      "url": "https://open.spotify.com/track/47z3fqsE7tSXGkFFCzNaFH"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
         "name": "Open up Babe (Perry twins remix)",
         "url": "https://open.spotify.com/album/7rYucvcu1gCVuPffMT5wmx"
       },
@@ -703,18 +719,18 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Hyperdome",
-        "url": "https://open.spotify.com/album/4WQ745zAz9eRVRVDMBk4IE"
+        "name": "Safe",
+        "url": "https://open.spotify.com/album/4eFyjZxTpRbmYDdjYpgWjI"
       },
       "artists": [
         {
-          "name": "SuperKnova",
-          "url": "https://open.spotify.com/artist/7om8BpNIYHtacdW2rDVHuD"
+          "name": "Somaya",
+          "url": "https://open.spotify.com/artist/1T4lXkUsMvWaBpk4DjMrdZ"
         }
       ],
-      "duration_ms": 193333,
-      "name": "Hyperdome",
-      "url": "https://open.spotify.com/track/47z3fqsE7tSXGkFFCzNaFH"
+      "duration_ms": 203997,
+      "name": "Safe",
+      "url": "https://open.spotify.com/track/4A4K4HsjZkKJ56qJI2oRhV"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -731,22 +747,6 @@
       "duration_ms": 160226,
       "name": "out!",
       "url": "https://open.spotify.com/track/7BB8XTZKAuFkgQavowZUxN"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
-        "name": "Safe",
-        "url": "https://open.spotify.com/album/4eFyjZxTpRbmYDdjYpgWjI"
-      },
-      "artists": [
-        {
-          "name": "Somaya",
-          "url": "https://open.spotify.com/artist/1T4lXkUsMvWaBpk4DjMrdZ"
-        }
-      ],
-      "duration_ms": 203997,
-      "name": "Safe",
-      "url": "https://open.spotify.com/track/4A4K4HsjZkKJ56qJI2oRhV"
     }
   ],
   "unique_name": "API Pride",

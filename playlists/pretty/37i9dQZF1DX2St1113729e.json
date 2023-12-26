@@ -1,12 +1,12 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. PauByChance",
-  "num_followers": 124584,
+  "num_followers": 124600,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODM4NTgyMWQ2NDgzMzYzNzViYTczYTgxYTkwYTA2MzU0MTM4MTk2",
+  "snapshot_id": "MCxmYTc1ZmE2OGNkYmIzMzg3ZTE5MTEwYTYwYTBlNGYxNjIyZTE2NGU1",
   "tracks": [
     {
       "added_at": "2023-12-15 09:57:03",
@@ -339,26 +339,6 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
-        "name": "Noche De Halloween",
-        "url": "https://open.spotify.com/album/6PT21KgYvTicvn4vgAWwpr"
-      },
-      "artists": [
-        {
-          "name": "KYOTTO",
-          "url": "https://open.spotify.com/artist/6DGfzsM8doRBRyvYmgibkd"
-        },
-        {
-          "name": "mauvetrip",
-          "url": "https://open.spotify.com/artist/5tGSRe3Dn91WESmIuRssIR"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Noche De Halloween",
-      "url": "https://open.spotify.com/track/5wNaN0pQR09RT9qJrI5hJS"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
         "name": "NADIE LO VA A HACER POR M\u00cd",
         "url": "https://open.spotify.com/album/6dpQqCpsUYtopWwBuuTWzO"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 230794,
       "name": "MALOS D\u00cdAS",
       "url": "https://open.spotify.com/track/09xDpPPwrI5BF77raOOgNY"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
+        "name": "Noche De Halloween",
+        "url": "https://open.spotify.com/album/6PT21KgYvTicvn4vgAWwpr"
+      },
+      "artists": [
+        {
+          "name": "KYOTTO",
+          "url": "https://open.spotify.com/artist/6DGfzsM8doRBRyvYmgibkd"
+        },
+        {
+          "name": "mauvetrip",
+          "url": "https://open.spotify.com/artist/5tGSRe3Dn91WESmIuRssIR"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Noche De Halloween",
+      "url": "https://open.spotify.com/track/5wNaN0pQR09RT9qJrI5hJS"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -455,6 +455,30 @@
       "duration_ms": 204000,
       "name": "Myspace",
       "url": "https://open.spotify.com/track/51iKD7bo0AT1o8kF5qFEuT"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
+        "name": "RUIDO",
+        "url": "https://open.spotify.com/album/45z22BuxWT6IWGwvbBpd1M"
+      },
+      "artists": [
+        {
+          "name": "Rakky Ripper",
+          "url": "https://open.spotify.com/artist/709Jlt6vuJFApBGA8oXabj"
+        },
+        {
+          "name": "RIZHA",
+          "url": "https://open.spotify.com/artist/0uqXDD3RrzFosE8bZVFriI"
+        },
+        {
+          "name": "detunedfreq",
+          "url": "https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K"
+        }
+      ],
+      "duration_ms": 201624,
+      "name": "RUIDO",
+      "url": "https://open.spotify.com/track/1D4M14uj2mFZKgq5Hro3qw"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -539,46 +563,6 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
-        "name": "Mu\u00aa",
-        "url": "https://open.spotify.com/album/3TsePG9RE5sNLxEROVLB66"
-      },
-      "artists": [
-        {
-          "name": "Mda",
-          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
-        }
-      ],
-      "duration_ms": 163513,
-      "name": "Mu\u00aa",
-      "url": "https://open.spotify.com/track/2z8XbTZQYKOIFfiEbGu8HF"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
-        "name": "RUIDO",
-        "url": "https://open.spotify.com/album/45z22BuxWT6IWGwvbBpd1M"
-      },
-      "artists": [
-        {
-          "name": "Rakky Ripper",
-          "url": "https://open.spotify.com/artist/709Jlt6vuJFApBGA8oXabj"
-        },
-        {
-          "name": "RIZHA",
-          "url": "https://open.spotify.com/artist/0uqXDD3RrzFosE8bZVFriI"
-        },
-        {
-          "name": "detunedfreq",
-          "url": "https://open.spotify.com/artist/3Arhn0WJKerUnT3OXU705K"
-        }
-      ],
-      "duration_ms": 201624,
-      "name": "RUIDO",
-      "url": "https://open.spotify.com/track/1D4M14uj2mFZKgq5Hro3qw"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
         "name": "Mantis",
         "url": "https://open.spotify.com/album/5faoXY65IPubWn4Xorn6CD"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 151000,
       "name": "Mantis",
       "url": "https://open.spotify.com/track/2cwXZz5Xpredp9Mdg5jRvV"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
+        "name": "Mu\u00aa",
+        "url": "https://open.spotify.com/album/3TsePG9RE5sNLxEROVLB66"
+      },
+      "artists": [
+        {
+          "name": "Mda",
+          "url": "https://open.spotify.com/artist/6goQbtqjPhPns8RVRXTyp7"
+        }
+      ],
+      "duration_ms": 163513,
+      "name": "Mu\u00aa",
+      "url": "https://open.spotify.com/track/2z8XbTZQYKOIFfiEbGu8HF"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
+        "name": "Cuando Te Veo Pasar",
+        "url": "https://open.spotify.com/album/3ZHBsywOrpe87mkmrlUEwm"
+      },
+      "artists": [
+        {
+          "name": "Vanity Vercetti",
+          "url": "https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w"
+        }
+      ],
+      "duration_ms": 134697,
+      "name": "Cuando Te Veo Pasar",
+      "url": "https://open.spotify.com/track/0zRtCkIs4ktQucQnwlAnv0"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
         "name": "Ultras del Amor",
         "url": "https://open.spotify.com/album/1DSz19Z32UIz7g6nwCVF0K"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 183447,
       "name": "LindooOo",
       "url": "https://open.spotify.com/track/5MuM4zRjSj2Zqy6FsGutRG"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
-        "name": "Cuando Te Veo Pasar",
-        "url": "https://open.spotify.com/album/3ZHBsywOrpe87mkmrlUEwm"
-      },
-      "artists": [
-        {
-          "name": "Vanity Vercetti",
-          "url": "https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w"
-        }
-      ],
-      "duration_ms": 134697,
-      "name": "Cuando Te Veo Pasar",
-      "url": "https://open.spotify.com/track/0zRtCkIs4ktQucQnwlAnv0"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -923,26 +923,6 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
-        "name": "GRIS",
-        "url": "https://open.spotify.com/album/2qnDfIFPrpJcOxrfuNXqAr"
-      },
-      "artists": [
-        {
-          "name": "LoLo",
-          "url": "https://open.spotify.com/artist/04gHmjV4hmiIrT3PHXlTbZ"
-        },
-        {
-          "name": "Bardo",
-          "url": "https://open.spotify.com/artist/344GueD4a3lOx05pX5I6n6"
-        }
-      ],
-      "duration_ms": 125991,
-      "name": "GRIS",
-      "url": "https://open.spotify.com/track/1Uhtp4LoA7qxapCAimRaOz"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
         "name": "d hielo",
         "url": "https://open.spotify.com/album/48enb8VUU4OTCGd39GJz5I"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 203172,
       "name": "d hielo",
       "url": "https://open.spotify.com/track/092Vvrq3s7ajxb3MsLUD1Y"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
+        "name": "GRIS",
+        "url": "https://open.spotify.com/album/2qnDfIFPrpJcOxrfuNXqAr"
+      },
+      "artists": [
+        {
+          "name": "LoLo",
+          "url": "https://open.spotify.com/artist/04gHmjV4hmiIrT3PHXlTbZ"
+        },
+        {
+          "name": "Bardo",
+          "url": "https://open.spotify.com/artist/344GueD4a3lOx05pX5I6n6"
+        }
+      ],
+      "duration_ms": 125991,
+      "name": "GRIS",
+      "url": "https://open.spotify.com/track/1Uhtp4LoA7qxapCAimRaOz"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
-        "name": "Lun\u00e1tico",
-        "url": "https://open.spotify.com/album/71icODq6GLIj9NQpU5XJWx"
-      },
-      "artists": [
-        {
-          "name": "New Boix",
-          "url": "https://open.spotify.com/artist/4IACNJzFCAIe9W5lVBUsvI"
-        }
-      ],
-      "duration_ms": 154701,
-      "name": "Otra Noche de Verano",
-      "url": "https://open.spotify.com/track/2NYc4s8dBf5nBhlXRaydlq"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
         "name": "L\u00aa N\u00aave",
         "url": "https://open.spotify.com/album/2krXsG88F9yuWO0lrw80ar"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 144544,
       "name": "L\u00aa N\u00aave",
       "url": "https://open.spotify.com/track/2Qn5ZSdjOunwUFEaifjWhU"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
+        "name": "Lun\u00e1tico",
+        "url": "https://open.spotify.com/album/71icODq6GLIj9NQpU5XJWx"
+      },
+      "artists": [
+        {
+          "name": "New Boix",
+          "url": "https://open.spotify.com/artist/4IACNJzFCAIe9W5lVBUsvI"
+        }
+      ],
+      "duration_ms": 154701,
+      "name": "Otra Noche de Verano",
+      "url": "https://open.spotify.com/track/2NYc4s8dBf5nBhlXRaydlq"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
-        "name": "Sangre",
-        "url": "https://open.spotify.com/album/09RMX5vSign9TSfm11I18W"
-      },
-      "artists": [
-        {
-          "name": "Tekilas",
-          "url": "https://open.spotify.com/artist/6asFFldfwacpWS6tsmPODw"
-        }
-      ],
-      "duration_ms": 181092,
-      "name": "Sangre",
-      "url": "https://open.spotify.com/track/0vh4qde6Oqg7MknExXcGdv"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
         "name": "EL TRUCO",
         "url": "https://open.spotify.com/album/1Xp2oUvdcyeb4KTIErNh37"
       },
@@ -1463,6 +1447,22 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
+        "name": "Sangre",
+        "url": "https://open.spotify.com/album/09RMX5vSign9TSfm11I18W"
+      },
+      "artists": [
+        {
+          "name": "Tekilas",
+          "url": "https://open.spotify.com/artist/6asFFldfwacpWS6tsmPODw"
+        }
+      ],
+      "duration_ms": 181092,
+      "name": "Sangre",
+      "url": "https://open.spotify.com/track/0vh4qde6Oqg7MknExXcGdv"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
         "name": "PURGATORIO",
         "url": "https://open.spotify.com/album/6VIEndH3EFAVPvCUhlZWtl"
       },
@@ -1475,22 +1475,6 @@
       "duration_ms": 118904,
       "name": "MICPAPALOTL",
       "url": "https://open.spotify.com/track/13PBhn5XdUPYty1ErFsru3"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
-        "name": "No puedo decirte que no",
-        "url": "https://open.spotify.com/album/29suSoGKjek1j6nHY9Ysmd"
-      },
-      "artists": [
-        {
-          "name": "Vanity Vercetti",
-          "url": "https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w"
-        }
-      ],
-      "duration_ms": 136293,
-      "name": "No puedo decirte que no",
-      "url": "https://open.spotify.com/track/0PBfQNKuU3IIZgToqRUoY1"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -1543,6 +1527,38 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
+        "name": "No puedo decirte que no",
+        "url": "https://open.spotify.com/album/29suSoGKjek1j6nHY9Ysmd"
+      },
+      "artists": [
+        {
+          "name": "Vanity Vercetti",
+          "url": "https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w"
+        }
+      ],
+      "duration_ms": 136293,
+      "name": "No puedo decirte que no",
+      "url": "https://open.spotify.com/track/0PBfQNKuU3IIZgToqRUoY1"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
+        "name": "Santuario de Amana",
+        "url": "https://open.spotify.com/album/72tR2JvY5gPLdTAXrgSSMW"
+      },
+      "artists": [
+        {
+          "name": "Sanju",
+          "url": "https://open.spotify.com/artist/6bYIsGX90Q8lPMeGRE28XD"
+        }
+      ],
+      "duration_ms": 145500,
+      "name": "Santuario de Amana",
+      "url": "https://open.spotify.com/track/2Uwds45ycKbgei17pWVTl2"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
         "name": "#Killaocore 2",
         "url": "https://open.spotify.com/album/4CtwI2YxtVF5Lb318YpdND"
       },
@@ -1587,38 +1603,6 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
-        "name": "Santuario de Amana",
-        "url": "https://open.spotify.com/album/72tR2JvY5gPLdTAXrgSSMW"
-      },
-      "artists": [
-        {
-          "name": "Sanju",
-          "url": "https://open.spotify.com/artist/6bYIsGX90Q8lPMeGRE28XD"
-        }
-      ],
-      "duration_ms": 145500,
-      "name": "Santuario de Amana",
-      "url": "https://open.spotify.com/track/2Uwds45ycKbgei17pWVTl2"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
-        "name": "no lo volver\u00e9 a hacer",
-        "url": "https://open.spotify.com/album/6PSAYNmG1mMnHK4R9erHwl"
-      },
-      "artists": [
-        {
-          "name": "Carlo Frio",
-          "url": "https://open.spotify.com/artist/2ZkSJkvuz5kzvPe4ff1jqc"
-        }
-      ],
-      "duration_ms": 120284,
-      "name": "no lo volver\u00e9 a hacer",
-      "url": "https://open.spotify.com/track/61tr8wG7cG1NaB6NQRb7li"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
         "name": "2035",
         "url": "https://open.spotify.com/album/7xcHmGc4ctuRjSQn54hZst"
       },
@@ -1639,6 +1623,22 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
+        "name": "no lo volver\u00e9 a hacer",
+        "url": "https://open.spotify.com/album/6PSAYNmG1mMnHK4R9erHwl"
+      },
+      "artists": [
+        {
+          "name": "Carlo Frio",
+          "url": "https://open.spotify.com/artist/2ZkSJkvuz5kzvPe4ff1jqc"
+        }
+      ],
+      "duration_ms": 120284,
+      "name": "no lo volver\u00e9 a hacer",
+      "url": "https://open.spotify.com/track/61tr8wG7cG1NaB6NQRb7li"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
         "name": "Hyperandom.Mp3",
         "url": "https://open.spotify.com/album/0lIGjZNui4AS8UHVTml2fF"
       },
@@ -1651,6 +1651,22 @@
       "duration_ms": 97896,
       "name": "Hyperandom.Mp3",
       "url": "https://open.spotify.com/track/5GuctQvRHBBTKQzErDzP47"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
+        "name": "BRAGUETA ABIERTA",
+        "url": "https://open.spotify.com/album/4emlv8delY0w6iM75ikyNT"
+      },
+      "artists": [
+        {
+          "name": "Sergi Prim",
+          "url": "https://open.spotify.com/artist/0QX72xwJCZnISwlruqyehy"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "BRAGUETA ABIERTA",
+      "url": "https://open.spotify.com/track/3aWGjHjRnXX6eGkPWebvoU"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -1687,22 +1703,6 @@
       "duration_ms": 205241,
       "name": "fireflies",
       "url": "https://open.spotify.com/track/4YVEw9KuT1rAmjGkkKZPuG"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
-        "name": "BRAGUETA ABIERTA",
-        "url": "https://open.spotify.com/album/4emlv8delY0w6iM75ikyNT"
-      },
-      "artists": [
-        {
-          "name": "Sergi Prim",
-          "url": "https://open.spotify.com/artist/0QX72xwJCZnISwlruqyehy"
-        }
-      ],
-      "duration_ms": 179250,
-      "name": "BRAGUETA ABIERTA",
-      "url": "https://open.spotify.com/track/3aWGjHjRnXX6eGkPWebvoU"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
-        "name": "Entre Tanta Gente",
-        "url": "https://open.spotify.com/album/45F6t9OxN6HekLxQtEbRXo"
-      },
-      "artists": [
-        {
-          "name": "Jonyx Ni\u00f1o Perdido",
-          "url": "https://open.spotify.com/artist/2ccGby3xTAUXBtkULIn0x4"
-        }
-      ],
-      "duration_ms": 129229,
-      "name": "Entre Tanta Gente",
-      "url": "https://open.spotify.com/track/20O2VCZGEykubAmvurLrwv"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
         "name": "GUAPO",
         "url": "https://open.spotify.com/album/1z1A6QmxA6t9DbUFsBZ8bT"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 152202,
       "name": "GUAPO",
       "url": "https://open.spotify.com/track/7Mlbm8PnW1HhyosWntcqdG"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
+        "name": "Entre Tanta Gente",
+        "url": "https://open.spotify.com/album/45F6t9OxN6HekLxQtEbRXo"
+      },
+      "artists": [
+        {
+          "name": "Jonyx Ni\u00f1o Perdido",
+          "url": "https://open.spotify.com/artist/2ccGby3xTAUXBtkULIn0x4"
+        }
+      ],
+      "duration_ms": 129229,
+      "name": "Entre Tanta Gente",
+      "url": "https://open.spotify.com/track/20O2VCZGEykubAmvurLrwv"
     },
     {
       "added_at": "2023-12-15 09:57:03",
@@ -1943,6 +1943,22 @@
     {
       "added_at": "2023-12-15 09:57:03",
       "album": {
+        "name": "AAAaaahhhhh!!!!",
+        "url": "https://open.spotify.com/album/6BrDEEOfUX64GrHVksTYrq"
+      },
+      "artists": [
+        {
+          "name": "Hadren",
+          "url": "https://open.spotify.com/artist/1jSFbCOAXXkFUk3UA2J8ln"
+        }
+      ],
+      "duration_ms": 172857,
+      "name": "Close2u",
+      "url": "https://open.spotify.com/track/6ZqrVQMqPeRiM776RUfdAC"
+    },
+    {
+      "added_at": "2023-12-15 09:57:03",
+      "album": {
         "name": "AnKur",
         "url": "https://open.spotify.com/album/40SX8MUqAxrVtI6XpsgnsW"
       },
@@ -1971,22 +1987,6 @@
       "duration_ms": 110769,
       "name": "Grand Fall!",
       "url": "https://open.spotify.com/track/4DSQw41VZhenTaUI4FcDXW"
-    },
-    {
-      "added_at": "2023-12-15 09:57:03",
-      "album": {
-        "name": "No Future",
-        "url": "https://open.spotify.com/album/2q5CsxQFGWPFCZdS9UsM03"
-      },
-      "artists": [
-        {
-          "name": "LocoAlien",
-          "url": "https://open.spotify.com/artist/6WW9x3k9ErTm4GNr6efdZp"
-        }
-      ],
-      "duration_ms": 155776,
-      "name": "No Future",
-      "url": "https://open.spotify.com/track/5WqdhHhWaHbNKYsmr6OwCj"
     }
   ],
   "unique_name": "helium",

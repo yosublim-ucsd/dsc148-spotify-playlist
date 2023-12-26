@@ -390,6 +390,24 @@
     {
       "album": {
         "name": "Dazed",
+        "url": "https://open.spotify.com/album/4oLn1rTRoZtozr8uRYUKu8"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247170,
+      "name": "Mirror Talk",
+      "url": "https://open.spotify.com/track/23tjVnRlLeAkXKm4HDDZ4e"
+    },
+    {
+      "album": {
+        "name": "Dazed",
         "url": "https://open.spotify.com/album/5OMhpOEVJ9kXp2ayrCFMLK"
       },
       "artists": [
@@ -400,7 +418,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 247170,
       "name": "Mirror Talk",
       "url": "https://open.spotify.com/track/6VBoEu64cDeRDE6f60XPts"

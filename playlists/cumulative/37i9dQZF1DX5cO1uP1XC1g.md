@@ -2,9 +2,9 @@
 
 ### [Yalla ](https://open.spotify.com/playlist/37i9dQZF1DX5cO1uP1XC1g)
 
-> The biggest Arabic hits all in one place\. Cover:  <a href="https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl?si=0YJbRhSmTM\-p68DBwaI\_Ag">Assala</a>
+> The biggest Arabic hits all in one place\. Cover:  Ahmed Saad & Bahaa Sultan
 
-346 songs - 20 hr 47 min
+347 songs - 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [khateera](https://open.spotify.com/track/3y1tMUZAy2v5LMyKo7Ko8J) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [khateera](https://open.spotify.com/album/3t3U7jth4HV9tx11NMwC0N) | 3:24 | 2021-12-12 | 2022-01-04 |
 | [Kol El Nas](https://open.spotify.com/track/6GjW5aqVmn2mIHdMiWn8sR) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t), [Hassan Abouelrouss](https://open.spotify.com/artist/7xwMn1tewzj0idd87bXpQm) | [Kol El Nas](https://open.spotify.com/album/5G6eYqkydwunUSmbRqk5gv) | 2:55 | 2021-12-12 | 2022-11-02 |
 | [Kol Youm](https://open.spotify.com/track/3iWRuqeYt3ezyPOSdVo9Hz) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Kol Youm](https://open.spotify.com/album/425JKkR2C6PwmFgeriOlwm) | 3:25 | 2021-12-12 | 2022-09-23 |
+| [Kolo Falso](https://open.spotify.com/track/1il1wNIj3ful9IlWgxLRmX) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7), [Esaad Younis](https://open.spotify.com/artist/2VtjN9mCdwy6DBkms1ujiQ) | [Kolo Falso](https://open.spotify.com/album/7mbfcm8CXhfUEJVf2ioUwF) | 2:58 | 2023-12-25 |  |
 | [Koun](https://open.spotify.com/track/3mlQfTMo8VmL3l8tXjAX8j) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Koun](https://open.spotify.com/album/3VHCM2iQcOgqHgHcHJmwqv) | 3:23 | 2023-04-23 | 2023-06-05 |
 | [La Malama \(Bonus Track\)](https://open.spotify.com/track/5ZsSIC9ea0OEi7gMMv7b1t) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj) | 3:48 | 2021-12-12 | 2023-07-28 |
 | [Lama Tkooni](https://open.spotify.com/track/3eFh5hiL65ylUoGAAI3Rl1) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Lama Tkooni](https://open.spotify.com/album/5UtCKCQtEMEgenYWqYmxIB) | 3:31 | 2022-11-01 | 2023-07-08 |

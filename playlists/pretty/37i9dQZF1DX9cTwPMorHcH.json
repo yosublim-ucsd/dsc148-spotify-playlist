@@ -1,12 +1,12 @@
 {
   "description": "Blues - new and old - to accompany your drive. Cover: B.B. King",
-  "num_followers": 81853,
+  "num_followers": 81876,
   "original_name": "Blues Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NzUzOTJhNGI3ODVmNzUwNTdhNmE1MmNjNzczZTdmODZkZjFhM2Yz",
+  "snapshot_id": "MCwxM2UwZTBlOGNiZmI3ODNhYmQ3ZDdiZTcxYzU4NTRhMmM4NGE5MTNh",
   "tracks": [
     {
       "added_at": "2021-03-03 17:28:10",
@@ -465,42 +465,6 @@
       "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
     },
     {
-      "added_at": "2021-12-07 19:02:16",
-      "album": {
-        "name": "Deuces Wild",
-        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        },
-        {
-          "name": "Paul Carrack",
-          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
-        }
-      ],
-      "duration_ms": 190373,
-      "name": "Bring It On Home To Me",
-      "url": "https://open.spotify.com/track/4Vfgc4BdSKM2hRlkaRFc9C"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
-        "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
-      },
-      "artists": [
-        {
-          "name": "Derek & The Dominos",
-          "url": "https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z"
-        }
-      ],
-      "duration_ms": 412960,
-      "name": "Have You Ever Loved A Woman?",
-      "url": "https://open.spotify.com/track/2ROJOb98GorxStuOuZWcGd"
-    },
-    {
       "added_at": "2021-03-03 17:28:10",
       "album": {
         "name": "Lie To Me",
@@ -535,6 +499,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
+        "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
+      },
+      "artists": [
+        {
+          "name": "Derek & The Dominos",
+          "url": "https://open.spotify.com/artist/2rc78XDH9zuJP6bm78lU8Z"
+        }
+      ],
+      "duration_ms": 412960,
+      "name": "Have You Ever Loved A Woman?",
+      "url": "https://open.spotify.com/track/2ROJOb98GorxStuOuZWcGd"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Give It Up (2008 Remaster)",
         "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 192200,
       "name": "Love Me Like a Man - 2008 Remaster",
       "url": "https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk"
+    },
+    {
+      "added_at": "2021-12-07 19:02:16",
+      "album": {
+        "name": "Deuces Wild",
+        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "Paul Carrack",
+          "url": "https://open.spotify.com/artist/0FFuvdY7fuiuTmHN9unYoz"
+        }
+      ],
+      "duration_ms": 190373,
+      "name": "Bring It On Home To Me",
+      "url": "https://open.spotify.com/track/4Vfgc4BdSKM2hRlkaRFc9C"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -583,22 +583,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Blues Deluxe",
-        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 440200,
-      "name": "Blues Deluxe",
-      "url": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Heart & Soul: A Retrospective",
         "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 178440,
       "name": "Do Right Woman, Do Right Man",
       "url": "https://open.spotify.com/track/2mVp83pLkWJN03Ha8Txydf"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Blues Deluxe",
+        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 440200,
+      "name": "Blues Deluxe",
+      "url": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -695,22 +695,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Couldn't Stand The Weather (Legacy Edition)",
-        "url": "https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 240986,
-      "name": "Cold Shot",
-      "url": "https://open.spotify.com/track/3QwDN08fGnGfRrsn5wLTej"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
         "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 166400,
       "name": "The Sky Is Crying",
       "url": "https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Couldn't Stand The Weather (Legacy Edition)",
+        "url": "https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 240986,
+      "name": "Cold Shot",
+      "url": "https://open.spotify.com/track/3QwDN08fGnGfRrsn5wLTej"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -811,22 +811,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Run Home Slow",
-        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 272640,
-      "name": "Carry You",
-      "url": "https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "My Feeling For the Blues",
         "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 216626,
       "name": "Stumble",
       "url": "https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Run Home Slow",
+        "url": "https://open.spotify.com/album/1kAEI20bjSPsByL6LNIyCT"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 272640,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/3CQuCLPRRf5cD9Xubjcrf2"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -971,6 +971,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Blues Breakers",
+        "url": "https://open.spotify.com/album/3W45Tazulh4zb48uL1RV8H"
+      },
+      "artists": [
+        {
+          "name": "John Mayall & The Bluesbreakers",
+          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+        }
+      ],
+      "duration_ms": 216200,
+      "name": "All Your Love",
+      "url": "https://open.spotify.com/track/1tPZlhOHo1GOZRrJR3hGOx"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "An Honest Man",
         "url": "https://open.spotify.com/album/6YqoghPHyDIIgSsAp7QFdj"
       },
@@ -987,18 +1003,18 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Blues Breakers",
-        "url": "https://open.spotify.com/album/3W45Tazulh4zb48uL1RV8H"
+        "name": "Blak and Blu (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
       },
       "artists": [
         {
-          "name": "John Mayall & The Bluesbreakers",
-          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
         }
       ],
-      "duration_ms": 216200,
-      "name": "All Your Love",
-      "url": "https://open.spotify.com/track/1tPZlhOHo1GOZRrJR3hGOx"
+      "duration_ms": 324786,
+      "name": "Bright Lights",
+      "url": "https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1051,22 +1067,6 @@
       "duration_ms": 215946,
       "name": "We Get By",
       "url": "https://open.spotify.com/track/5PqC3OJ24NIO5pP7me68dn"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Blak and Blu (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0YaeFHEYGpdzdFIxDRFvCv"
-      },
-      "artists": [
-        {
-          "name": "Gary Clark Jr.",
-          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
-        }
-      ],
-      "duration_ms": 324786,
-      "name": "Bright Lights",
-      "url": "https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Strange Pleasure",
-        "url": "https://open.spotify.com/album/0XP5X222ItUVr3YEgmALg7"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
-        }
-      ],
-      "duration_ms": 260733,
-      "name": "Don't Cha Know",
-      "url": "https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Don't Explain",
         "url": "https://open.spotify.com/album/2uyORQ080sXcPN0oO5lXvT"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 300880,
       "name": "Your Heart Is As Black As Night",
       "url": "https://open.spotify.com/track/5pjQtnAoVLWChCwIZEL2C1"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Strange Pleasure",
+        "url": "https://open.spotify.com/album/0XP5X222ItUVr3YEgmALg7"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+        }
+      ],
+      "duration_ms": 260733,
+      "name": "Don't Cha Know",
+      "url": "https://open.spotify.com/track/4nFUyC6eDW1wJsYSYLMqZd"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1433,22 +1433,6 @@
       "url": "https://open.spotify.com/track/0Wv8SrR4kycxh3GIpl2adV"
     },
     {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Kingfish",
-        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
-      },
-      "artists": [
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 228019,
-      "name": "Fresh Out",
-      "url": "https://open.spotify.com/track/0hLEks6H1dPXioRyyHWCBz"
-    },
-    {
       "added_at": "2021-07-23 04:01:00",
       "album": {
         "name": "I Be Trying",
@@ -1465,22 +1449,6 @@
       "url": "https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "The Pleasure's All Mine: The Complete Blues, Ballads and Favorites Sessions",
-        "url": "https://open.spotify.com/album/1inwZe8lEy9j9uhJaTRcbE"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
-        }
-      ],
-      "duration_ms": 223533,
-      "name": "The Pleasure's All Mine",
-      "url": "https://open.spotify.com/track/2x4Ag6Npxj78rsp849NDN7"
-    },
-    {
       "added_at": "2021-03-03 17:28:10",
       "album": {
         "name": "Bring 'Em In",
@@ -1495,6 +1463,38 @@
       "duration_ms": 317320,
       "name": "What Kind Of Woman Is This?",
       "url": "https://open.spotify.com/track/0BrmbJnPYcd7gnvLYqxw0r"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Kingfish",
+        "url": "https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 228019,
+      "name": "Fresh Out",
+      "url": "https://open.spotify.com/track/0hLEks6H1dPXioRyyHWCBz"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "The Pleasure's All Mine: The Complete Blues, Ballads and Favorites Sessions",
+        "url": "https://open.spotify.com/album/1inwZe8lEy9j9uhJaTRcbE"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+        }
+      ],
+      "duration_ms": 223533,
+      "name": "The Pleasure's All Mine",
+      "url": "https://open.spotify.com/track/2x4Ag6Npxj78rsp849NDN7"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Kill Or Be Kind",
-        "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
-      },
-      "artists": [
-        {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        }
-      ],
-      "duration_ms": 319253,
-      "name": "Bulletproof - Tangle Eye Mix",
-      "url": "https://open.spotify.com/track/6iy2u83vc4L95HS3JYxSQs"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "The Essential Sonny Boy Williamson",
         "url": "https://open.spotify.com/album/4DF0rg3dCm8qKrVCpZWIDc"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 188240,
       "name": "Help Me",
       "url": "https://open.spotify.com/track/0RYe9pP6Fa3jzEh1n0RZou"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Kill Or Be Kind",
+        "url": "https://open.spotify.com/album/0Z917mMSP3EHtJicbhSAhA"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        }
+      ],
+      "duration_ms": 319253,
+      "name": "Bulletproof - Tangle Eye Mix",
+      "url": "https://open.spotify.com/track/6iy2u83vc4L95HS3JYxSQs"
     },
     {
       "added_at": "2021-03-03 17:28:10",

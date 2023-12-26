@@ -3683,6 +3683,28 @@
     },
     {
       "album": {
+        "name": "Hou Mij Vast",
+        "url": "https://open.spotify.com/album/1Feu6CV2sQb2tK5m6hX2qQ"
+      },
+      "artists": [
+        {
+          "name": "Bazart",
+          "url": "https://open.spotify.com/artist/3kcwSBHk3lMgHMHuxjJLNZ"
+        },
+        {
+          "name": "Pommelien Thijs",
+          "url": "https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153358,
+      "name": "Hou Mij Vast",
+      "url": "https://open.spotify.com/track/2DgtPHgQeLFRAMHKIBNN4W"
+    },
+    {
+      "album": {
         "name": "Houden Van Mij",
         "url": "https://open.spotify.com/album/3QUGk8yFDNJWqlUU8iu0ty"
       },

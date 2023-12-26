@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKXbV17YqGw.md) - [plain]
 
 > NATIVELAND's detty december playlist is all the rage and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,510 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,541 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKXbV17YqGw.md) - [plain]
 | 49 | [Cold Freestyle \(with Bloody Civilian & SHŌLZ\)](https://open.spotify.com/track/6xNzUgtX8xhsUTr4LZ8yHK) | [NATIVE Sound System](https://open.spotify.com/artist/5Vug6iR3M9khAmBF8TL5fy), [Sholz](https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67), [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [NATIVEWORLD](https://open.spotify.com/album/66qZw3xUgH56lpOlDvXyPO) | 3:04 |
 | 50 | [Good Morning Riddim](https://open.spotify.com/track/3H2yJkmKQXfjOtIKlPm300) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Sinym \(Sarz Is Not Your Mate\)](https://open.spotify.com/album/3ZPMvMpc49XwdxVMZZsjRy) | 3:35 |
 
-Snapshot ID: `MCwzYzJiODAwZTFiM2U1MjQxMTQ4MTM4N2RlY2ExMjI2ZjVjY2UxZjBj`
+Snapshot ID: `MCw3MDFjMDJhMWJkNWFjNjk1MTBmODI2ZWZjMjA4ZjQ5OGE3NTkyM2Vm`

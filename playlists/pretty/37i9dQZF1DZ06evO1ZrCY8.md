@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZrCY8.md) - [plain]
 
 > This is Heroes Del Silencio\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,896 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,945 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZrCY8.md) - [plain]
 | 49 | [...Y para siempre](https://open.spotify.com/track/6D7gPrYpET9NhpowaUFT2E) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha\- Edición Especial](https://open.spotify.com/album/5e1v1vALoEYeOLFaFwmxi4) | 3:45 |
 | 50 | [Medicina húmeda](https://open.spotify.com/track/6MnOGlJkoOKRrkVnzw2dcE) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Rarezas](https://open.spotify.com/album/40IpNBUT1eth8c6UTOrBxh) | 3:01 |
 
-Snapshot ID: `MjgzOTAyOTIsMDAwMDAwMDBmM2I3NWEwY2I4NTNkZjM1MTUzMjE0MTZkMWM1YTc4Zg==`
+Snapshot ID: `MjgzOTE3MzUsMDAwMDAwMDA3YTE5YzkxZDViOTc1ZDZmNTliNDc2YWI0MGQ0NDkwMg==`

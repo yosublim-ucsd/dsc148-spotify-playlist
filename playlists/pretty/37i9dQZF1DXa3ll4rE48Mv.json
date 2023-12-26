@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: The Oozes",
-  "num_followers": 180786,
+  "num_followers": 180854,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjcwYWQ3MjJmMjVmOTBjNzQ5NGNlNTdmYWQ2ZDMyN2UwOGM0ZDE5",
+  "snapshot_id": "MCw2MzE3ZWQ2ZTdlNTg0YWQ3NzNmMWRkNzUzMzUwZTQ2NmJjZGJhZGE5",
   "tracks": [
     {
       "added_at": "2023-05-25 14:38:53",
@@ -171,6 +171,22 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
+        "name": "Bitchboy",
+        "url": "https://open.spotify.com/album/4fCa5qkqmOyFhyWpg5VyqG"
+      },
+      "artists": [
+        {
+          "name": "The Oozes",
+          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
+        }
+      ],
+      "duration_ms": 107162,
+      "name": "Bitchboy",
+      "url": "https://open.spotify.com/track/1QQ0bhZ39lG5LVjWIGiryS"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
         "name": "Standing in the Way of Control",
         "url": "https://open.spotify.com/album/4JRTqlBGtuMjXNaK3macIW"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 233453,
       "name": "Hate Me (Sometimes)",
       "url": "https://open.spotify.com/track/69Y6dB1U7AZ0FfDdzol6ir"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
-        "name": "Bitchboy",
-        "url": "https://open.spotify.com/album/4fCa5qkqmOyFhyWpg5VyqG"
-      },
-      "artists": [
-        {
-          "name": "The Oozes",
-          "url": "https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF"
-        }
-      ],
-      "duration_ms": 107162,
-      "name": "Bitchboy",
-      "url": "https://open.spotify.com/track/1QQ0bhZ39lG5LVjWIGiryS"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Undressed",
-        "url": "https://open.spotify.com/album/3FQM6XQYuV0CMKzs1jTTBF"
-      },
-      "artists": [
-        {
-          "name": "Pansy Division",
-          "url": "https://open.spotify.com/artist/5OyEfwMlXpCWU8dWVENGgm"
-        }
-      ],
-      "duration_ms": 124316,
-      "name": "Fem in a Black Leather Jacket",
-      "url": "https://open.spotify.com/track/7Gjze5dPQjujzoHGOQReWT"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Intractable",
         "url": "https://open.spotify.com/album/4UH7wsiFLZ6yvw24HGzh1J"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 124653,
       "name": "So-Called Str8 Grrrl",
       "url": "https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Undressed",
+        "url": "https://open.spotify.com/album/3FQM6XQYuV0CMKzs1jTTBF"
+      },
+      "artists": [
+        {
+          "name": "Pansy Division",
+          "url": "https://open.spotify.com/artist/5OyEfwMlXpCWU8dWVENGgm"
+        }
+      ],
+      "duration_ms": 124316,
+      "name": "Fem in a Black Leather Jacket",
+      "url": "https://open.spotify.com/track/7Gjze5dPQjujzoHGOQReWT"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Always Happy",
-        "url": "https://open.spotify.com/album/3Pygq0SBpzO6CKbdLjrYEa"
-      },
-      "artists": [
-        {
-          "name": "Grandmas House",
-          "url": "https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv"
-        }
-      ],
-      "duration_ms": 158372,
-      "name": "Always Happy",
-      "url": "https://open.spotify.com/track/3sBNnodq6ff1kcM69Kxdtw"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Dream Wife",
         "url": "https://open.spotify.com/album/4XNMQKhyNE3BYCPhwTzcFF"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 175760,
       "name": "Let's Make Out",
       "url": "https://open.spotify.com/track/3mTP21FXfGTeZsvyfhiVvO"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Always Happy",
+        "url": "https://open.spotify.com/album/3Pygq0SBpzO6CKbdLjrYEa"
+      },
+      "artists": [
+        {
+          "name": "Grandmas House",
+          "url": "https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv"
+        }
+      ],
+      "duration_ms": 158372,
+      "name": "Always Happy",
+      "url": "https://open.spotify.com/track/3sBNnodq6ff1kcM69Kxdtw"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Home Recordings 2020 - 2021",
-        "url": "https://open.spotify.com/album/5gqmQpbigY2VUdn0vwdbGE"
-      },
-      "artists": [
-        {
-          "name": "Tokky Horror",
-          "url": "https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp"
-        }
-      ],
-      "duration_ms": 188374,
-      "name": "Girlracer",
-      "url": "https://open.spotify.com/track/4GHmY6MxPzapdarlVs7yku"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Back Home",
         "url": "https://open.spotify.com/album/6hRU0VsRHXdlompg7pC79m"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 160472,
       "name": "Happier Still",
       "url": "https://open.spotify.com/track/3NSmfa5DmtEy27GgSPScdl"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Home Recordings 2020 - 2021",
+        "url": "https://open.spotify.com/album/5gqmQpbigY2VUdn0vwdbGE"
+      },
+      "artists": [
+        {
+          "name": "Tokky Horror",
+          "url": "https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp"
+        }
+      ],
+      "duration_ms": 188374,
+      "name": "Girlracer",
+      "url": "https://open.spotify.com/track/4GHmY6MxPzapdarlVs7yku"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Home Recordings 2020 - 2021",
-        "url": "https://open.spotify.com/album/5gqmQpbigY2VUdn0vwdbGE"
-      },
-      "artists": [
-        {
-          "name": "Tokky Horror",
-          "url": "https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp"
-        }
-      ],
-      "duration_ms": 86842,
-      "name": "Eden on Acid",
-      "url": "https://open.spotify.com/track/5h8VuvFvYuQ0dzJhxPcqjZ"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "The Reson For Hardcore Vibes Again",
         "url": "https://open.spotify.com/album/2ulPQaaJiq1rK6YK86wPsI"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 55733,
       "name": "Save the Planet, You Dumb Shit",
       "url": "https://open.spotify.com/track/6Kk9Zy9dYzgvTEPNCh2s8o"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Home Recordings 2020 - 2021",
+        "url": "https://open.spotify.com/album/5gqmQpbigY2VUdn0vwdbGE"
+      },
+      "artists": [
+        {
+          "name": "Tokky Horror",
+          "url": "https://open.spotify.com/artist/2TJkCzhISn0eZv1cQ8eLSp"
+        }
+      ],
+      "duration_ms": 86842,
+      "name": "Eden on Acid",
+      "url": "https://open.spotify.com/track/5h8VuvFvYuQ0dzJhxPcqjZ"
     },
     {
       "added_at": "2023-05-25 14:38:53",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
+        "name": "Always Already",
+        "url": "https://open.spotify.com/album/266CkD6b9yrFX60cDNAyKy"
+      },
+      "artists": [
+        {
+          "name": "La Luna",
+          "url": "https://open.spotify.com/artist/61DB9tvIGdQwz1B4IxdP7g"
+        }
+      ],
+      "duration_ms": 113413,
+      "name": "House Party",
+      "url": "https://open.spotify.com/track/4LeuJ3WfqbEm0TiYOjdm89"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
         "name": "Every Now and Then",
         "url": "https://open.spotify.com/album/1WXuhPXstAtp8SSSUOMYDt"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 153813,
       "name": "Woodchuck",
       "url": "https://open.spotify.com/track/6GUeUdO8AOZ52UcRFPn1eH"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
-        "name": "Bad Girls Go to Hell",
-        "url": "https://open.spotify.com/album/1USnl3zRNiSnGZF7toUpcp"
-      },
-      "artists": [
-        {
-          "name": "The Degenerettes",
-          "url": "https://open.spotify.com/artist/5aLqmIsEKz8r0bIaSRsf7z"
-        }
-      ],
-      "duration_ms": 128880,
-      "name": "Queer For You",
-      "url": "https://open.spotify.com/track/3wOIv5bly3SnBum3gLRsCa"
     }
   ],
   "unique_name": "Queercore",

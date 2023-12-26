@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Wizkid
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,704 likes - 79 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,700 likes - 79 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 78 | [Upset \(feat\. Tommy Richman & FELIX!\)](https://open.spotify.com/track/5iwUwADk4uQUvgMF6PlTRl) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [FELIX!](https://open.spotify.com/artist/1DN9Pgv4fiAaRSSgiisj5G), [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 2:57 |
 | 79 | [Boyfriend](https://open.spotify.com/track/3hRG2nZPcYUN0VYohLBds1) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Boyfriend](https://open.spotify.com/album/471LKZ5JPTXVww871Bn9cf) | 3:46 |
 
-Snapshot ID: `MCxjNjU3MDMyNjY5MjEyNzY0YzI5MzdhMTA2MTQ5M2YyNTk2OWIyMzJl`
+Snapshot ID: `MCwxYTQ0MjYwOThiNjA0NzI5YjY0ZDllNDM1ZWU4ODAzZTBiMWIxMDQ1`

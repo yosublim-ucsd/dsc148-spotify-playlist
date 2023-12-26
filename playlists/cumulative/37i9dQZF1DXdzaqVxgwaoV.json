@@ -342,7 +342,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 158973,
       "name": "Colombia Tierra Querida",
       "url": "https://open.spotify.com/track/3DwedX467tabb9zUzdqfcq"
@@ -744,7 +744,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-18",
+      "date_removed": null,
       "duration_ms": 216711,
       "name": "El Solitario",
       "url": "https://open.spotify.com/track/7q82VvrWXF2ENfLkCZzSAD"
@@ -1034,7 +1034,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 311213,
       "name": "La Due\u00f1a de Mi Suerte",
       "url": "https://open.spotify.com/track/6d2ZhAW3xzDwI5fDVbas02"
@@ -1335,6 +1335,28 @@
     },
     {
       "album": {
+        "name": "Para Mi Fanaticada",
+        "url": "https://open.spotify.com/album/43vnYNazgx4KoAaw5m4DFa"
+      },
+      "artists": [
+        {
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+        },
+        {
+          "name": "Colacho Mendoza",
+          "url": "https://open.spotify.com/artist/54LZrrClgVEeAQcFrk3BJj"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255893,
+      "name": "Mensaje De Navidad",
+      "url": "https://open.spotify.com/track/5cNCj7aVKzMFiVQ85fZ7NR"
+    },
+    {
+      "album": {
         "name": "La Orquesta Que Impone El Ritmo",
         "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
       },
@@ -1448,6 +1470,24 @@
       "duration_ms": 268106,
       "name": "No Hay Cama Pa' Tanta Gente",
       "url": "https://open.spotify.com/track/6InAsgddPjAcuF7mSHDT8K"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2irtmCoBvtFbvPqARMflg6"
+      },
+      "artists": [
+        {
+          "name": "El Rey de los Diciembres",
+          "url": "https://open.spotify.com/artist/3lXyd3sTGI4rJ9sGsqvZ5Y"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220504,
+      "name": "Ojitos Hechiceros (Live)",
+      "url": "https://open.spotify.com/track/5ux1midcVSDCZCuOTlU5Uy"
     },
     {
       "album": {
@@ -1698,7 +1738,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 204604,
       "name": "Sobre las Olas",
       "url": "https://open.spotify.com/track/2ldG5rONyzUeVGIjzqbHOI"

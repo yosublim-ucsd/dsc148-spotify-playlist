@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 155734,
+  "num_followers": 155764,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMGUzYmIyNDBiNDIzYWZmYzY5NTk3MTJjNDExZTZlYTJlZTJmMmM3",
+  "snapshot_id": "MCw1ODY4MzAxNGFmNDgyZGRjZjA2ZDMwNzU0NWU1ZDMzMmJmMzEzZDk2",
   "tracks": [
     {
       "added_at": "2023-12-24 03:01:00",
@@ -303,6 +303,62 @@
     {
       "added_at": "2023-12-24 03:01:00",
       "album": {
+        "name": "Poesia Ac\u00fastica 15",
+        "url": "https://open.spotify.com/album/1FRHQdfzxbxAKjfh1jVLaK"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Luiz Lins",
+          "url": "https://open.spotify.com/artist/0hWRVPGWjaXcEvg8l65Tx0"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "JayA Luuck",
+          "url": "https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        }
+      ],
+      "duration_ms": 680816,
+      "name": "Poesia Ac\u00fastica 15",
+      "url": "https://open.spotify.com/track/1kolqJR4ZYYfuZy7v5GwBx"
+    },
+    {
+      "added_at": "2023-12-24 03:01:00",
+      "album": {
         "name": "Amor e \u00d3dio",
         "url": "https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt"
       },
@@ -495,26 +551,6 @@
     {
       "added_at": "2023-12-24 03:01:00",
       "album": {
-        "name": "Equa\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/0fzp4jZE1x6qbA4sIeSLCC"
-      },
-      "artists": [
-        {
-          "name": "Mun-Ra",
-          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 182205,
-      "name": "Equa\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/6qm6PhLt6mRX53gR9pn0Iy"
-    },
-    {
-      "added_at": "2023-12-24 03:01:00",
-      "album": {
         "name": "Probleminha Di\u00e1rio (Papasessions #7)",
         "url": "https://open.spotify.com/album/7A8XaIPQmaZtvgo25ut9i8"
       },
@@ -555,6 +591,26 @@
       "duration_ms": 136901,
       "name": "Madrugada",
       "url": "https://open.spotify.com/track/1HEy5wolNdmeHCB9Qw6At7"
+    },
+    {
+      "added_at": "2023-12-24 03:01:00",
+      "album": {
+        "name": "Equa\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/0fzp4jZE1x6qbA4sIeSLCC"
+      },
+      "artists": [
+        {
+          "name": "Mun-Ra",
+          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 182205,
+      "name": "Equa\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/6qm6PhLt6mRX53gR9pn0Iy"
     },
     {
       "added_at": "2023-12-24 03:01:00",
@@ -803,6 +859,78 @@
     {
       "added_at": "2023-12-24 03:01:00",
       "album": {
+        "name": "Mais Al\u00e9m",
+        "url": "https://open.spotify.com/album/3oFspd25fezaVVMFUPwXmN"
+      },
+      "artists": [
+        {
+          "name": "Lipe",
+          "url": "https://open.spotify.com/artist/2rcNASpHwDrTguKeGRWUE3"
+        },
+        {
+          "name": "Crod",
+          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
+        },
+        {
+          "name": "Lobo",
+          "url": "https://open.spotify.com/artist/1jahAth5iScVQXLQsPjzlJ"
+        },
+        {
+          "name": "Ricca",
+          "url": "https://open.spotify.com/artist/7mk7g6IiTDEVc9aSRe2Yxc"
+        }
+      ],
+      "duration_ms": 193854,
+      "name": "Mais Al\u00e9m",
+      "url": "https://open.spotify.com/track/4usWhbl28jDY4RhZf3oJea"
+    },
+    {
+      "added_at": "2023-12-24 03:01:00",
+      "album": {
+        "name": "Conex\u00e3o",
+        "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Luan LDS",
+          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
+        }
+      ],
+      "duration_ms": 143448,
+      "name": "Conex\u00e3o",
+      "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
+    },
+    {
+      "added_at": "2023-12-24 03:01:00",
+      "album": {
+        "name": "Pra Voc\u00ea Ficar",
+        "url": "https://open.spotify.com/album/3Ub14El2fpwfXczl3uPPrl"
+      },
+      "artists": [
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        },
+        {
+          "name": "Mun-Ra",
+          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
+        }
+      ],
+      "duration_ms": 160819,
+      "name": "Pra Voc\u00ea Ficar",
+      "url": "https://open.spotify.com/track/7nfuTyQl3FDwxBspaww3Ng"
+    },
+    {
+      "added_at": "2023-12-24 03:01:00",
+      "album": {
         "name": "Fim de Semana",
         "url": "https://open.spotify.com/album/1VseR4x7w6UFb9BlxQAZqM"
       },
@@ -835,78 +963,6 @@
       "duration_ms": 163030,
       "name": "Fim de Semana",
       "url": "https://open.spotify.com/track/0WhV2RQb0a7WDoJnMQRbnt"
-    },
-    {
-      "added_at": "2023-12-24 03:01:00",
-      "album": {
-        "name": "Conex\u00e3o",
-        "url": "https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Luan LDS",
-          "url": "https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J"
-        }
-      ],
-      "duration_ms": 143448,
-      "name": "Conex\u00e3o",
-      "url": "https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva"
-    },
-    {
-      "added_at": "2023-12-24 03:01:00",
-      "album": {
-        "name": "Mais Al\u00e9m",
-        "url": "https://open.spotify.com/album/3oFspd25fezaVVMFUPwXmN"
-      },
-      "artists": [
-        {
-          "name": "Lipe",
-          "url": "https://open.spotify.com/artist/2rcNASpHwDrTguKeGRWUE3"
-        },
-        {
-          "name": "Crod",
-          "url": "https://open.spotify.com/artist/1VI8uzUXTMpjdIvM6Rsh0j"
-        },
-        {
-          "name": "Lobo",
-          "url": "https://open.spotify.com/artist/1jahAth5iScVQXLQsPjzlJ"
-        },
-        {
-          "name": "Ricca",
-          "url": "https://open.spotify.com/artist/7mk7g6IiTDEVc9aSRe2Yxc"
-        }
-      ],
-      "duration_ms": 193854,
-      "name": "Mais Al\u00e9m",
-      "url": "https://open.spotify.com/track/4usWhbl28jDY4RhZf3oJea"
-    },
-    {
-      "added_at": "2023-12-24 03:01:00",
-      "album": {
-        "name": "Pra Voc\u00ea Ficar",
-        "url": "https://open.spotify.com/album/3Ub14El2fpwfXczl3uPPrl"
-      },
-      "artists": [
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
-        },
-        {
-          "name": "Mun-Ra",
-          "url": "https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96"
-        }
-      ],
-      "duration_ms": 160819,
-      "name": "Pra Voc\u00ea Ficar",
-      "url": "https://open.spotify.com/track/7nfuTyQl3FDwxBspaww3Ng"
     },
     {
       "added_at": "2023-12-24 03:01:00",
@@ -1015,6 +1071,22 @@
     {
       "added_at": "2023-12-24 03:01:00",
       "album": {
+        "name": "Certo pra Voc\u00ea",
+        "url": "https://open.spotify.com/album/5P4NC7RHetv1NH9OrHcQDv"
+      },
+      "artists": [
+        {
+          "name": "MTK",
+          "url": "https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9"
+        }
+      ],
+      "duration_ms": 211549,
+      "name": "Certo pra Voc\u00ea",
+      "url": "https://open.spotify.com/track/4lPvpx8AgI31GsZP9HjkGI"
+    },
+    {
+      "added_at": "2023-12-24 03:01:00",
+      "album": {
         "name": "Fica",
         "url": "https://open.spotify.com/album/0hDmNQipUfQwvbLxvHh9Ty"
       },
@@ -1031,22 +1103,6 @@
       "duration_ms": 169472,
       "name": "Fica",
       "url": "https://open.spotify.com/track/6EOdzYr7hlBGKb9DzSBeb3"
-    },
-    {
-      "added_at": "2023-12-24 03:01:00",
-      "album": {
-        "name": "Certo pra Voc\u00ea",
-        "url": "https://open.spotify.com/album/5P4NC7RHetv1NH9OrHcQDv"
-      },
-      "artists": [
-        {
-          "name": "MTK",
-          "url": "https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9"
-        }
-      ],
-      "duration_ms": 211549,
-      "name": "Certo pra Voc\u00ea",
-      "url": "https://open.spotify.com/track/4lPvpx8AgI31GsZP9HjkGI"
     },
     {
       "added_at": "2023-12-24 03:01:00",
@@ -1291,22 +1347,6 @@
     {
       "added_at": "2023-12-24 03:01:00",
       "album": {
-        "name": "Spoiler",
-        "url": "https://open.spotify.com/album/45PCXFfR2DT6yXuhLfwcbs"
-      },
-      "artists": [
-        {
-          "name": "Roig",
-          "url": "https://open.spotify.com/artist/20vqMkiF1RvZrVGNiDpdzk"
-        }
-      ],
-      "duration_ms": 196729,
-      "name": "Spoiler",
-      "url": "https://open.spotify.com/track/2zZ8HX3Q66MkYNmfgTiWgK"
-    },
-    {
-      "added_at": "2023-12-24 03:01:00",
-      "album": {
         "name": "Qualquer Maneira",
         "url": "https://open.spotify.com/album/7j1DUPvd4pw2Z6uI3QJj7r"
       },
@@ -1319,6 +1359,46 @@
       "duration_ms": 331054,
       "name": "Qualquer Maneira",
       "url": "https://open.spotify.com/track/4OuOPF6CxMSUTXCuKhwKZT"
+    },
+    {
+      "added_at": "2023-12-24 03:01:00",
+      "album": {
+        "name": "\u00c9 Voc\u00ea",
+        "url": "https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa"
+      },
+      "artists": [
+        {
+          "name": "Lontraz",
+          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+        },
+        {
+          "name": "Mc Chagas",
+          "url": "https://open.spotify.com/artist/0IjA8u18H9avxbo1ioOHdj"
+        },
+        {
+          "name": "Mc Rei Delas",
+          "url": "https://open.spotify.com/artist/4Kl6JWs9QqrJbtz9x75p6i"
+        }
+      ],
+      "duration_ms": 197067,
+      "name": "\u00c9 Voc\u00ea",
+      "url": "https://open.spotify.com/track/1e75Ro02st0st8uA2hsUxl"
+    },
+    {
+      "added_at": "2023-12-24 03:01:00",
+      "album": {
+        "name": "Spoiler",
+        "url": "https://open.spotify.com/album/45PCXFfR2DT6yXuhLfwcbs"
+      },
+      "artists": [
+        {
+          "name": "Roig",
+          "url": "https://open.spotify.com/artist/20vqMkiF1RvZrVGNiDpdzk"
+        }
+      ],
+      "duration_ms": 196729,
+      "name": "Spoiler",
+      "url": "https://open.spotify.com/track/2zZ8HX3Q66MkYNmfgTiWgK"
     },
     {
       "added_at": "2023-12-24 03:01:00",
@@ -1359,6 +1439,22 @@
     {
       "added_at": "2023-12-24 03:01:00",
       "album": {
+        "name": "Lua",
+        "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
+      },
+      "artists": [
+        {
+          "name": "24por7",
+          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
+        }
+      ],
+      "duration_ms": 164713,
+      "name": "Lua",
+      "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
+    },
+    {
+      "added_at": "2023-12-24 03:01:00",
+      "album": {
         "name": "Interfone",
         "url": "https://open.spotify.com/album/3isbuTBsnIoXfDg7bGedYs"
       },
@@ -1387,46 +1483,6 @@
     {
       "added_at": "2023-12-24 03:01:00",
       "album": {
-        "name": "\u00c9 Voc\u00ea",
-        "url": "https://open.spotify.com/album/5gATIdtYF8ER6ROdxO8mGa"
-      },
-      "artists": [
-        {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
-        },
-        {
-          "name": "Mc Chagas",
-          "url": "https://open.spotify.com/artist/0IjA8u18H9avxbo1ioOHdj"
-        },
-        {
-          "name": "Mc Rei Delas",
-          "url": "https://open.spotify.com/artist/4Kl6JWs9QqrJbtz9x75p6i"
-        }
-      ],
-      "duration_ms": 197067,
-      "name": "\u00c9 Voc\u00ea",
-      "url": "https://open.spotify.com/track/1e75Ro02st0st8uA2hsUxl"
-    },
-    {
-      "added_at": "2023-12-24 03:01:00",
-      "album": {
-        "name": "Lua",
-        "url": "https://open.spotify.com/album/1s4g1k6HfcFkPdJqlIMkmd"
-      },
-      "artists": [
-        {
-          "name": "24por7",
-          "url": "https://open.spotify.com/artist/6QS49Xs3VgK7P3ZuTkDhqF"
-        }
-      ],
-      "duration_ms": 164713,
-      "name": "Lua",
-      "url": "https://open.spotify.com/track/4AFP0wGCkxdijZxxMAbzhg"
-    },
-    {
-      "added_at": "2023-12-24 03:01:00",
-      "album": {
         "name": "Voe",
         "url": "https://open.spotify.com/album/19QEAyEf7chXx2vpyKOoGs"
       },
@@ -1447,6 +1503,34 @@
       "duration_ms": 152000,
       "name": "Voe",
       "url": "https://open.spotify.com/track/3QRRlJmJbIlBi3i4YzLgvc"
+    },
+    {
+      "added_at": "2023-12-24 03:01:00",
+      "album": {
+        "name": "Jeito Bom #2",
+        "url": "https://open.spotify.com/album/66QSLm3YXD0m3NFhIlk03Z"
+      },
+      "artists": [
+        {
+          "name": "RM no Beat",
+          "url": "https://open.spotify.com/artist/0l2UV4PlNSSXoiIDgjjZ8t"
+        },
+        {
+          "name": "Caio Big",
+          "url": "https://open.spotify.com/artist/6Gi3be9OreKNlPhRRw32cN"
+        },
+        {
+          "name": "Sobral",
+          "url": "https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2"
+        },
+        {
+          "name": "Tain\u00e1 Seabra",
+          "url": "https://open.spotify.com/artist/2r5UJ7U0menvezmMcIcicf"
+        }
+      ],
+      "duration_ms": 209378,
+      "name": "Jeito Bom #2",
+      "url": "https://open.spotify.com/track/4eCqCBFrINfSySeSQyXsEs"
     },
     {
       "added_at": "2023-12-24 03:01:00",
@@ -1487,34 +1571,6 @@
     {
       "added_at": "2023-12-24 03:01:00",
       "album": {
-        "name": "Jeito Bom #2",
-        "url": "https://open.spotify.com/album/66QSLm3YXD0m3NFhIlk03Z"
-      },
-      "artists": [
-        {
-          "name": "RM no Beat",
-          "url": "https://open.spotify.com/artist/0l2UV4PlNSSXoiIDgjjZ8t"
-        },
-        {
-          "name": "Caio Big",
-          "url": "https://open.spotify.com/artist/6Gi3be9OreKNlPhRRw32cN"
-        },
-        {
-          "name": "Sobral",
-          "url": "https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2"
-        },
-        {
-          "name": "Tain\u00e1 Seabra",
-          "url": "https://open.spotify.com/artist/2r5UJ7U0menvezmMcIcicf"
-        }
-      ],
-      "duration_ms": 209378,
-      "name": "Jeito Bom #2",
-      "url": "https://open.spotify.com/track/4eCqCBFrINfSySeSQyXsEs"
-    },
-    {
-      "added_at": "2023-12-24 03:01:00",
-      "album": {
         "name": "Ela N\u00e3o Cansa",
         "url": "https://open.spotify.com/album/0IPKdGoYVmf7ZiJR1dme9H"
       },
@@ -1531,6 +1587,22 @@
       "duration_ms": 174715,
       "name": "Ela N\u00e3o Cansa",
       "url": "https://open.spotify.com/track/2lI0swzcw6gQ7hks7o2VLJ"
+    },
+    {
+      "added_at": "2023-12-24 03:01:00",
+      "album": {
+        "name": "Cartas ao Divino",
+        "url": "https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi"
+      },
+      "artists": [
+        {
+          "name": "Lontraz",
+          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+        }
+      ],
+      "duration_ms": 190769,
+      "name": "Adaptar",
+      "url": "https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk"
     },
     {
       "added_at": "2023-12-24 03:01:00",
@@ -1611,38 +1683,6 @@
     {
       "added_at": "2023-12-24 03:01:00",
       "album": {
-        "name": "Cartas ao Divino",
-        "url": "https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi"
-      },
-      "artists": [
-        {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
-        }
-      ],
-      "duration_ms": 190769,
-      "name": "Adaptar",
-      "url": "https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk"
-    },
-    {
-      "added_at": "2023-12-24 03:01:00",
-      "album": {
-        "name": "Rosas Rositas",
-        "url": "https://open.spotify.com/album/5eX7MhfxlDUmN94GuJVFVt"
-      },
-      "artists": [
-        {
-          "name": "Inc\u00f3gnito",
-          "url": "https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8"
-        }
-      ],
-      "duration_ms": 309406,
-      "name": "Rosas Rositas",
-      "url": "https://open.spotify.com/track/6guxeipY9PFAQdCcJRqKFg"
-    },
-    {
-      "added_at": "2023-12-24 03:01:00",
-      "album": {
         "name": "V\u00e1rios Planos",
         "url": "https://open.spotify.com/album/48gdIpMmEfBWmJXOAQAazI"
       },
@@ -1663,6 +1703,22 @@
       "duration_ms": 180705,
       "name": "V\u00e1rios Planos",
       "url": "https://open.spotify.com/track/4p7fGgYN66OANZYwLjubv9"
+    },
+    {
+      "added_at": "2023-12-24 03:01:00",
+      "album": {
+        "name": "Rosas Rositas",
+        "url": "https://open.spotify.com/album/5eX7MhfxlDUmN94GuJVFVt"
+      },
+      "artists": [
+        {
+          "name": "Inc\u00f3gnito",
+          "url": "https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8"
+        }
+      ],
+      "duration_ms": 309406,
+      "name": "Rosas Rositas",
+      "url": "https://open.spotify.com/track/6guxeipY9PFAQdCcJRqKFg"
     },
     {
       "added_at": "2023-12-24 03:01:00",
@@ -1691,38 +1747,6 @@
       "duration_ms": 172203,
       "name": "Descanso de Tela",
       "url": "https://open.spotify.com/track/6wM0ZuX5eOxmbDPciwt7zb"
-    },
-    {
-      "added_at": "2023-12-24 03:01:00",
-      "album": {
-        "name": "Mortadela",
-        "url": "https://open.spotify.com/album/0lDpbbMN5rHK3Fi69wv74t"
-      },
-      "artists": [
-        {
-          "name": "Urbanamente",
-          "url": "https://open.spotify.com/artist/49rYuhLNSc8WNdIw5CV0kT"
-        },
-        {
-          "name": "Tio Phil",
-          "url": "https://open.spotify.com/artist/1ysE9rRhvtrmrFlrjwgthR"
-        },
-        {
-          "name": "MC Estudante",
-          "url": "https://open.spotify.com/artist/27EYCpBghCafQbmGDemUD6"
-        },
-        {
-          "name": "Nanno",
-          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
-        },
-        {
-          "name": "Dj Batata",
-          "url": "https://open.spotify.com/artist/2rUOBAmeKcpfmd83cIj5Au"
-        }
-      ],
-      "duration_ms": 162831,
-      "name": "Mortadela",
-      "url": "https://open.spotify.com/track/19JeRq3JBuKRQ3tb07YFQB"
     }
   ],
   "unique_name": "Resenha na Praia",

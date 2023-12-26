@@ -1,12 +1,12 @@
 {
   "description": "Music from the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 715971,
+  "num_followers": 716081,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDUyMGMzOTU1NTY4NDI2ODgxMDI0N2RkYjY0OTc5YjE2Y2Y5Zjg2",
+  "snapshot_id": "MCxmNWRmMDZhYzQ5MTQ5Zjk1MWJlYjdlZjQ5ZmQzNWExOWNiMGYxNjZm",
   "tracks": [
     {
       "added_at": "2021-04-29 10:16:48",
@@ -155,22 +155,6 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
-        "name": "Dusty In Memphis [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 149160,
-      "name": "Son of a Preacher Man",
-      "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
-    },
-    {
-      "added_at": "2021-04-29 10:16:48",
-      "album": {
         "name": "What's Going On",
         "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 233000,
       "name": "What's Going On",
       "url": "https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l"
+    },
+    {
+      "added_at": "2021-04-29 10:16:48",
+      "album": {
+        "name": "Dusty In Memphis [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 149160,
+      "name": "Son of a Preacher Man",
+      "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
     },
     {
       "added_at": "2021-04-29 10:16:48",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/53lp2W57Y52Ln5RmRHjW6k"
-      },
-      "artists": [
-        {
-          "name": "Maxine Brown",
-          "url": "https://open.spotify.com/artist/1kCqTUSrWJEHZm2GSpRuMV"
-        }
-      ],
-      "duration_ms": 157653,
-      "name": "Oh No Not My Baby",
-      "url": "https://open.spotify.com/track/4BQwQ4XzsWT7yRZ3Sx1bFm"
-    },
-    {
-      "added_at": "2021-04-29 10:16:48",
-      "album": {
         "name": "LOVE",
         "url": "https://open.spotify.com/album/7KRJ8x3IpetRApZ8LGS2Pi"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 238093,
       "name": "That Lady (Part 1)",
       "url": "https://open.spotify.com/track/6jIKlJaCbvGMUBpRViFrSD"
+    },
+    {
+      "added_at": "2021-04-29 10:16:48",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/53lp2W57Y52Ln5RmRHjW6k"
+      },
+      "artists": [
+        {
+          "name": "Maxine Brown",
+          "url": "https://open.spotify.com/artist/1kCqTUSrWJEHZm2GSpRuMV"
+        }
+      ],
+      "duration_ms": 157653,
+      "name": "Oh No Not My Baby",
+      "url": "https://open.spotify.com/track/4BQwQ4XzsWT7yRZ3Sx1bFm"
     },
     {
       "added_at": "2021-04-29 10:16:48",

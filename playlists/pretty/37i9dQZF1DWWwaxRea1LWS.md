@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > Get into the holiday spirit with \#SpotifyTBT and these 90s/00s classics\. Cover: Mariah Carey
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,279,161 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,279,220 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 | 49 | [Santa Claus Is Coming to Town](https://open.spotify.com/track/3xg6GhgOrdsl5BQuV78iFP) | [All\-4\-One](https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG) | [An All\-4\-One Christmas](https://open.spotify.com/album/5AYLvZZREetd8Zw6Dw6C4M) | 4:07 |
 | 50 | [Angels We Have Heard On High](https://open.spotify.com/track/7iHIzfIp63jLzWlzS3PlpA) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [The Dawn Of Grace](https://open.spotify.com/album/6voMEQY1GauUODPi8xA9yT) | 4:15 |
 
-Snapshot ID: `MCxkMzQyOGU1ZWI5MGM3ZjY0M2VjMDdiN2QxZmYwMDRhYjk3M2M4YmE5`
+Snapshot ID: `MCw0OWRkODNiNGQ3ZWE4YmQ0NTA3N2RmYjI1MmQxMmM4NjE3YTIzZmRm`

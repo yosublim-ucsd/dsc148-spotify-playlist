@@ -1,12 +1,12 @@
 {
   "description": "have fun with it.",
-  "num_followers": 708513,
+  "num_followers": 708537,
   "original_name": "it's alt good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2Q2OWYxMjdlMGQ0OGVkZTRiMThmZDk5YTE4ZDdkMDdlOWNkYjU1",
+  "snapshot_id": "MCxhMTU2MTc4MGFkNWM4MjhmMTA0NGZkMjA3OWU3ZTBhYTIyOGE2NWU5",
   "tracks": [
     {
       "added_at": "2023-12-15 14:55:15",
@@ -163,22 +163,6 @@
     {
       "added_at": "2023-12-15 14:55:15",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 211141,
-      "name": "get him back!",
-      "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
-    },
-    {
-      "added_at": "2023-12-15 14:55:15",
-      "album": {
         "name": "Hell N Back (Sped Up)",
         "url": "https://open.spotify.com/album/39qJcvWj03Pcm9HJdb1NR8"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 213573,
       "name": "Hell N Back",
       "url": "https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP"
+    },
+    {
+      "added_at": "2023-12-15 14:55:15",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 211141,
+      "name": "get him back!",
+      "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
     },
     {
       "added_at": "2023-12-15 14:55:15",
@@ -307,18 +307,18 @@
     {
       "added_at": "2023-12-15 14:55:15",
       "album": {
-        "name": "Passive Me, Aggressive You",
-        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
       },
       "artists": [
         {
-          "name": "The Naked And Famous",
-          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 246600,
-      "name": "Young Blood",
-      "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
+      "duration_ms": 203369,
+      "name": "ballad of a homeschooled girl",
+      "url": "https://open.spotify.com/track/5sp71CUt0jXRNqHblPGp7b"
     },
     {
       "added_at": "2023-12-15 14:55:15",
@@ -343,18 +343,18 @@
     {
       "added_at": "2023-12-15 14:55:15",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+        "name": "Passive Me, Aggressive You",
+        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "The Naked And Famous",
+          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
         }
       ],
-      "duration_ms": 203369,
-      "name": "ballad of a homeschooled girl",
-      "url": "https://open.spotify.com/track/5sp71CUt0jXRNqHblPGp7b"
+      "duration_ms": 246600,
+      "name": "Young Blood",
+      "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
     },
     {
       "added_at": "2023-12-15 14:55:15",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-12-15 14:55:15",
       "album": {
+        "name": "The 1975",
+        "url": "https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 224640,
+      "name": "Chocolate",
+      "url": "https://open.spotify.com/track/44Ljlpy44mHvLJxcYUvTK0"
+    },
+    {
+      "added_at": "2023-12-15 14:55:15",
+      "album": {
         "name": "Re: This Is Why",
         "url": "https://open.spotify.com/album/3GteSAGBQKHhmSN5OU819j"
       },
@@ -603,22 +619,6 @@
     {
       "added_at": "2023-12-15 14:55:15",
       "album": {
-        "name": "The 1975",
-        "url": "https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 224640,
-      "name": "Chocolate",
-      "url": "https://open.spotify.com/track/44Ljlpy44mHvLJxcYUvTK0"
-    },
-    {
-      "added_at": "2023-12-15 14:55:15",
-      "album": {
         "name": "Caffeine",
         "url": "https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO"
       },
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-12-15 14:55:15",
       "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 227240,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
-    },
-    {
-      "added_at": "2023-12-15 14:55:15",
-      "album": {
         "name": "Happy Face",
         "url": "https://open.spotify.com/album/663C3TEQrU97Lm6gVKp5zi"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 169760,
       "name": "Happy Face",
       "url": "https://open.spotify.com/track/6QNCvcs758QuBEBISL6XIV"
+    },
+    {
+      "added_at": "2023-12-15 14:55:15",
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 227240,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
     },
     {
       "added_at": "2023-12-15 14:55:15",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-12-15 14:55:15",
       "album": {
-        "name": "People In Motion",
-        "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "Then It All Goes Away",
-      "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
-    },
-    {
-      "added_at": "2023-12-15 14:55:15",
-      "album": {
         "name": "Carnival",
         "url": "https://open.spotify.com/album/59z895VS27PtxzCwDV6dRY"
       },
@@ -875,18 +859,18 @@
     {
       "added_at": "2023-12-15 14:55:15",
       "album": {
-        "name": "hotline",
-        "url": "https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f"
+        "name": "People In Motion",
+        "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
       },
       "artists": [
         {
-          "name": "bby",
-          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
         }
       ],
-      "duration_ms": 137404,
-      "name": "hotline",
-      "url": "https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F"
+      "duration_ms": 183440,
+      "name": "Then It All Goes Away",
+      "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
     },
     {
       "added_at": "2023-12-15 14:55:15",
@@ -903,6 +887,22 @@
       "duration_ms": 159646,
       "name": "Long Drives",
       "url": "https://open.spotify.com/track/2jDrRaea7deXVEt4JmpvBU"
+    },
+    {
+      "added_at": "2023-12-15 14:55:15",
+      "album": {
+        "name": "hotline",
+        "url": "https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "duration_ms": 137404,
+      "name": "hotline",
+      "url": "https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F"
     },
     {
       "added_at": "2023-12-15 14:55:15",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-12-15 14:55:15",
       "album": {
-        "name": "The Dark",
-        "url": "https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou"
-      },
-      "artists": [
-        {
-          "name": "The Band CAMINO",
-          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
-        }
-      ],
-      "duration_ms": 172714,
-      "name": "What Am I Missing?",
-      "url": "https://open.spotify.com/track/61noMxtCbfnzewtJmUIQ13"
-    },
-    {
-      "added_at": "2023-12-15 14:55:15",
-      "album": {
         "name": "Heartbeat Highway",
         "url": "https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 194594,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/5MVJI1eQ7cLoC0fr6NRE69"
+    },
+    {
+      "added_at": "2023-12-15 14:55:15",
+      "album": {
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou"
+      },
+      "artists": [
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
+        }
+      ],
+      "duration_ms": 172714,
+      "name": "What Am I Missing?",
+      "url": "https://open.spotify.com/track/61noMxtCbfnzewtJmUIQ13"
     },
     {
       "added_at": "2023-12-15 14:55:15",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2023-12-15 14:55:15",
       "album": {
+        "name": "only wanna dance",
+        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 144391,
+      "name": "only wanna dance",
+      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
+    },
+    {
+      "added_at": "2023-12-15 14:55:15",
+      "album": {
         "name": "Odelay",
         "url": "https://open.spotify.com/album/1Pus5h1qGedCn4CtOuPVtp"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 184910,
       "name": "ALL CAPS (feat. John the Ghost)",
       "url": "https://open.spotify.com/track/2N9j5SNc6cQMYpUeyXYlBV"
-    },
-    {
-      "added_at": "2023-12-15 14:55:15",
-      "album": {
-        "name": "only wanna dance",
-        "url": "https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 144391,
-      "name": "only wanna dance",
-      "url": "https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA"
     },
     {
       "added_at": "2023-12-15 14:55:15",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-12-15 14:55:15",
       "album": {
-        "name": "Matter",
-        "url": "https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK"
-      },
-      "artists": [
-        {
-          "name": "St. Lucia",
-          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "Dancing On Glass",
-      "url": "https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt"
-    },
-    {
-      "added_at": "2023-12-15 14:55:15",
-      "album": {
         "name": "Moment In The Sun",
         "url": "https://open.spotify.com/album/0gLTyqbV19rhb8pNZQ0Msx"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 189634,
       "name": "Moment In The Sun",
       "url": "https://open.spotify.com/track/3srgB1L9XfePDOIY4DrN2K"
+    },
+    {
+      "added_at": "2023-12-15 14:55:15",
+      "album": {
+        "name": "Matter",
+        "url": "https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK"
+      },
+      "artists": [
+        {
+          "name": "St. Lucia",
+          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
+        }
+      ],
+      "duration_ms": 246333,
+      "name": "Dancing On Glass",
+      "url": "https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt"
     }
   ],
   "unique_name": "it's alt good",

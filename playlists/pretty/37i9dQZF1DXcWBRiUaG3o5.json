@@ -1,12 +1,12 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1305724,
+  "num_followers": 1305711,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmI2MzViMzU0ODRjNTliZDRkZjVhMjg3N2M4OTdhNjAxNGZlYTQ3",
+  "snapshot_id": "MCxlMjJhMGI5ODk4MjI2Zjk2MmU3MTMzNTNiMWIxNTRiZmEzZmZhYzE0",
   "tracks": [
     {
       "added_at": "2023-10-20 04:00:00",
@@ -107,6 +107,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Haven (from Life Is Strange)",
+        "url": "https://open.spotify.com/album/1tCKB58FqUBj5beC5nfpFE"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Haven (from Life Is Strange)",
+      "url": "https://open.spotify.com/track/0bndF6tTweNXPjwpPL7Slt"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "For Emma, Forever Ago",
         "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 152613,
       "name": "Naked as We Came",
       "url": "https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Haven (from Life Is Strange)",
-        "url": "https://open.spotify.com/album/1tCKB58FqUBj5beC5nfpFE"
-      },
-      "artists": [
-        {
-          "name": "Novo Amor",
-          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Haven (from Life Is Strange)",
-      "url": "https://open.spotify.com/track/0bndF6tTweNXPjwpPL7Slt"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Slow Tide",
-        "url": "https://open.spotify.com/album/1OUc76NQYG5Fb9gXH6G8TA"
-      },
-      "artists": [
-        {
-          "name": "Ocie Elliott",
-          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
-        }
-      ],
-      "duration_ms": 191916,
-      "name": "Now You Don't",
-      "url": "https://open.spotify.com/track/2pWEUd5k9xIeMn4AMKM5CK"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Colder Heavens EP",
         "url": "https://open.spotify.com/album/5OxtmtnqvwogIYMdo2h4eQ"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 307000,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/66nJBHV6WtQI3IiU6n8fY5"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Slow Tide",
+        "url": "https://open.spotify.com/album/1OUc76NQYG5Fb9gXH6G8TA"
+      },
+      "artists": [
+        {
+          "name": "Ocie Elliott",
+          "url": "https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT"
+        }
+      ],
+      "duration_ms": 191916,
+      "name": "Now You Don't",
+      "url": "https://open.spotify.com/track/2pWEUd5k9xIeMn4AMKM5CK"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Fickle Heart",
-        "url": "https://open.spotify.com/album/1bUQh6ejZ3TWI2uilCJN5Z"
-      },
-      "artists": [
-        {
-          "name": "Ira Wolf",
-          "url": "https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s"
-        }
-      ],
-      "duration_ms": 201116,
-      "name": "Fickle Heart",
-      "url": "https://open.spotify.com/track/6tQ0NRz73GtyDKklLzgJlD"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "La Lune",
         "url": "https://open.spotify.com/album/1q07FQXhMgTtjMqOHXycAA"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 188426,
       "name": "La Lune",
       "url": "https://open.spotify.com/track/36DcfX0BSdwNHPqsBPQ1AH"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Fickle Heart",
+        "url": "https://open.spotify.com/album/1bUQh6ejZ3TWI2uilCJN5Z"
+      },
+      "artists": [
+        {
+          "name": "Ira Wolf",
+          "url": "https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s"
+        }
+      ],
+      "duration_ms": 201116,
+      "name": "Fickle Heart",
+      "url": "https://open.spotify.com/track/6tQ0NRz73GtyDKklLzgJlD"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Golden (Acoustic)",
-        "url": "https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br"
-      },
-      "artists": [
-        {
-          "name": "Becca Mancari",
-          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
-        }
-      ],
-      "duration_ms": 307312,
-      "name": "Golden (Acoustic)",
-      "url": "https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Still I Wait",
         "url": "https://open.spotify.com/album/6FWJCsTKkSXcnf4LjwVdUi"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 229880,
       "name": "Still I Wait",
       "url": "https://open.spotify.com/track/2PxnTu2sRwHWEU40frBGCo"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Golden (Acoustic)",
+        "url": "https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br"
+      },
+      "artists": [
+        {
+          "name": "Becca Mancari",
+          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
+        }
+      ],
+      "duration_ms": 307312,
+      "name": "Golden (Acoustic)",
+      "url": "https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Dead & Born & Grown",
-        "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 246413,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "God I Hope This Year Is Better Than the Last",
         "url": "https://open.spotify.com/album/0uc3cq7SlAfQwTmC26p0zL"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 236849,
       "name": "God I Hope This Year Is Better Than The Last",
       "url": "https://open.spotify.com/track/68HuYxpnrwRnXmIo7xcYmY"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Dead & Born & Grown",
+        "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 246413,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 212634,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
         "name": "Living Water",
         "url": "https://open.spotify.com/album/6ErBtQXSqQZfmzVX1ns4zu"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 155062,
       "name": "The Moons Detriment",
       "url": "https://open.spotify.com/track/0tVGryiARVH5XuOM2S8Rn0"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 212634,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Year In The Kingdom",
+        "url": "https://open.spotify.com/album/50UnH0t4AHlGSa1sqqxYAg"
+      },
+      "artists": [
+        {
+          "name": "J. Tillman",
+          "url": "https://open.spotify.com/artist/21XbnrbEMUTZelIfoV12hC"
+        }
+      ],
+      "duration_ms": 214640,
+      "name": "Howling Light",
+      "url": "https://open.spotify.com/track/0wZ5Yxp0MDP7aAsc68UF87"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Adaptations",
         "url": "https://open.spotify.com/album/75KCEmU9IxlwClwPnM4KEC"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 206015,
       "name": "Wilderness",
       "url": "https://open.spotify.com/track/2qw3TJxd8Wn2ZVGHkf8YaW"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Granny Music",
-        "url": "https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q"
-      },
-      "artists": [
-        {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
-        }
-      ],
-      "duration_ms": 214013,
-      "name": "Millionaire",
-      "url": "https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0"
     },
     {
       "added_at": "2023-10-20 04:00:00",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-10-20 04:00:00",
       "album": {
+        "name": "Granny Music",
+        "url": "https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "duration_ms": 214013,
+      "name": "Millionaire",
+      "url": "https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0"
+    },
+    {
+      "added_at": "2023-10-20 04:00:00",
+      "album": {
         "name": "Aldous Harding",
         "url": "https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 338639,
       "name": "Stop Your Tears",
       "url": "https://open.spotify.com/track/2zWAa5XkVa1yg756YauQHF"
-    },
-    {
-      "added_at": "2023-10-20 04:00:00",
-      "album": {
-        "name": "Year In The Kingdom",
-        "url": "https://open.spotify.com/album/50UnH0t4AHlGSa1sqqxYAg"
-      },
-      "artists": [
-        {
-          "name": "J. Tillman",
-          "url": "https://open.spotify.com/artist/21XbnrbEMUTZelIfoV12hC"
-        }
-      ],
-      "duration_ms": 214640,
-      "name": "Howling Light",
-      "url": "https://open.spotify.com/track/0wZ5Yxp0MDP7aAsc68UF87"
     },
     {
       "added_at": "2023-10-20 04:00:00",

@@ -4,7 +4,7 @@
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-109 songs - 4 hr 41 min
+110 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [F.H.D.S!](https://open.spotify.com/track/1N0yatFpCrTgSEg0D3osd4) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9) | [F.H.D.S!](https://open.spotify.com/album/57nk6LQlgsL7PMyxHnSAxj) | 2:38 | 2023-11-09 |  |
 | [Fantasy](https://open.spotify.com/track/3vFlpYjJgaTHe0B5LGNaBy) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Fantasy](https://open.spotify.com/album/0Zpv2L3usXFp6RWzcGBKeI) | 2:18 | 2023-09-21 |  |
 | [Feeling Myself](https://open.spotify.com/track/0SOgdDDCI704FegadgOfc1) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Feeling Myself](https://open.spotify.com/album/0KOYsqi0RwEZWPIt6V9ICU) | 3:02 | 2023-09-21 |  |
-| [FLEX](https://open.spotify.com/track/2WDNr2kjwAhtlqEXELyYkz) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ) | [FLEX](https://open.spotify.com/album/5phOcxFTbyfLAHaIVflpLf) | 2:14 | 2023-12-08 |  |
+| [FLEX](https://open.spotify.com/track/2WDNr2kjwAhtlqEXELyYkz) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ) | [FLEX](https://open.spotify.com/album/5phOcxFTbyfLAHaIVflpLf) | 2:14 | 2023-12-08 | 2023-12-26 |
 | [Frossa](https://open.spotify.com/track/660EPoIBj3FnUhHlcKgN5H) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Frossa](https://open.spotify.com/album/0HIQvy6LtEhW4phvG12OEO) | 2:34 | 2023-09-21 | 2023-10-23 |
 | [G63](https://open.spotify.com/track/3pBTElvw1OK7pDDI3MR4qC) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [G63](https://open.spotify.com/album/7w1lkm0KtSeu6bfs8S21d5) | 2:42 | 2023-09-21 | 2023-09-30 |
 | [G63](https://open.spotify.com/track/3iGLZavFFEdLHOEWANcQiF) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [G63](https://open.spotify.com/album/0pB9N7JNV5TLGse7UUVXA0) | 2:42 | 2023-09-28 |  |
@@ -66,6 +66,7 @@
 | [Konstnärer](https://open.spotify.com/track/42YORRVJuaCskxH8XbLb05) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Konstnärer](https://open.spotify.com/album/4v8mqTXuAn0wc3wVdDORX4) | 2:30 | 2023-09-28 |  |
 | [Koppla Av](https://open.spotify.com/track/5x50GMyuhq1hDixrPzNs3S) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Koppla Av](https://open.spotify.com/album/2AbUZYMLbNr7PEQqKeWOXX) | 2:53 | 2023-09-21 | 2023-11-11 |
 | [Koppla Av](https://open.spotify.com/track/6TzmXkA7Y047fYtPjQLxug) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Koppla Av](https://open.spotify.com/album/3NUr1KOsJkDcK7x20aL0OR) | 2:53 | 2023-11-16 |  |
+| [Kvar \- Spotify Studio 100 Recording](https://open.spotify.com/track/374PJMUFDX43vavFdz2Jvi) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB), [Youzie](https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte) | [Kvar \- Spotify Studio 100 Recording](https://open.spotify.com/album/3IPLGtRogxj4qRIh1sb8YL) | 2:41 | 2023-12-14 |  |
 | [Känslokall](https://open.spotify.com/track/4eamNeQdsYOWCxqm6s4r8w) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Känslokall](https://open.spotify.com/album/0by3vmltZZetCzPLg90D1p) | 2:03 | 2023-09-21 |  |
 | [Ledare](https://open.spotify.com/track/45OulrUXeS81JnnRW7QXwz) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Ledare](https://open.spotify.com/album/0D4wR55WsMH2w4ZGls1HCA) | 2:41 | 2023-09-21 |  |
 | [Lenge Leve](https://open.spotify.com/track/0eoNXHlt2V32uXCy60jCCa) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 2:15 | 2023-09-21 |  |

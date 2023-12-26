@@ -1,12 +1,12 @@
 {
   "description": "in our emo cowgirl era",
-  "num_followers": 134494,
+  "num_followers": 134571,
   "original_name": "sad girl country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjU1YWE0ZDRkZDUzY2IwMDNjZGI3MDcxNzZjYzFlNTkwN2RmYzMx",
+  "snapshot_id": "MCw3ZTVmYWJmNDI1NzEwN2Q2M2U1OGVmZjU1MDc0ZWI0OTJiZTA2MWQ5",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Fearless (Taylor's Version)",
-        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 261842,
-      "name": "You\u2019re Not Sorry (Taylor\u2019s Version)",
-      "url": "https://open.spotify.com/track/6iiAfo4wTA2CVC3Uwx9uh8"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Revolution",
         "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
       },
@@ -287,6 +271,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Fearless (Taylor's Version)",
+        "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 261842,
+      "name": "You\u2019re Not Sorry (Taylor\u2019s Version)",
+      "url": "https://open.spotify.com/track/6iiAfo4wTA2CVC3Uwx9uh8"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt"
       },
@@ -299,22 +299,6 @@
       "duration_ms": 230549,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Pain Killer",
-        "url": "https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H"
-      },
-      "artists": [
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        }
-      ],
-      "duration_ms": 193320,
-      "name": "Girl Crush",
-      "url": "https://open.spotify.com/track/11qh54D0PKkBwelpDxxiEU"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -351,6 +335,22 @@
       "duration_ms": 199383,
       "name": "Fix You Too (feat. Kameron Marlowe)",
       "url": "https://open.spotify.com/track/4eIGig7wMD4iZfPKGinoGr"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Pain Killer",
+        "url": "https://open.spotify.com/album/49lwR8y1i51wrQRnhw5C3H"
+      },
+      "artists": [
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        }
+      ],
+      "duration_ms": 193320,
+      "name": "Girl Crush",
+      "url": "https://open.spotify.com/track/11qh54D0PKkBwelpDxxiEU"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "The First Time",
+        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/2wqXQjOmQ9KoBm9Ssgt4Fo"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Hemingway's Whiskey",
         "url": "https://open.spotify.com/album/0EJVUQGqNRxYBBCS0OLqY7"
       },
@@ -531,38 +547,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "The First Time",
-        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Peter Pan",
-      "url": "https://open.spotify.com/track/2wqXQjOmQ9KoBm9Ssgt4Fo"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Speak Now",
-        "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 293026,
-      "name": "Back To December",
-      "url": "https://open.spotify.com/track/3DrjZArsPsoqbLzUZZV1Id"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "California Sunrise",
         "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },
@@ -575,22 +559,6 @@
       "duration_ms": 198466,
       "name": "She Ain't In It",
       "url": "https://open.spotify.com/track/1Be8liECvEP5NYZjYvukbI"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "All Too Well (Sad Girl Autumn Version) - Recorded at Long Pond Studios",
-        "url": "https://open.spotify.com/album/4qgs0gHJBgycj5SKqafFOB"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 598150,
-      "name": "All Too Well (Sad Girl Autumn Version) - Recorded at Long Pond Studios",
-      "url": "https://open.spotify.com/track/1n3b9Eekoy3S9ZSZ5DmTW1"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -611,6 +579,22 @@
       "duration_ms": 218093,
       "name": "when was it over? (feat. Sam Hunt)",
       "url": "https://open.spotify.com/track/779UN3kabApm2zfqX549vf"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "All Too Well (Sad Girl Autumn Version) - Recorded at Long Pond Studios",
+        "url": "https://open.spotify.com/album/4qgs0gHJBgycj5SKqafFOB"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 598150,
+      "name": "All Too Well (Sad Girl Autumn Version) - Recorded at Long Pond Studios",
+      "url": "https://open.spotify.com/track/1n3b9Eekoy3S9ZSZ5DmTW1"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -663,22 +647,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Rolling Up the Welcome Mat",
-        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 183080,
-      "name": "Penthouse",
-      "url": "https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Wishful Drinking (with Sam Hunt)",
         "url": "https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe"
       },
@@ -695,6 +663,38 @@
       "duration_ms": 194544,
       "name": "Wishful Drinking (with Sam Hunt)",
       "url": "https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 183080,
+      "name": "Penthouse",
+      "url": "https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Speak Now",
+        "url": "https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 293026,
+      "name": "Back To December",
+      "url": "https://open.spotify.com/track/3DrjZArsPsoqbLzUZZV1Id"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -831,22 +831,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Girl Of My Dreams (Deluxe)",
-        "url": "https://open.spotify.com/album/5KbQGzcWL7VgTeLqjftNWH"
+        "name": "Wide Open Spaces",
+        "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
       },
       "artists": [
         {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        },
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
         }
       ],
-      "duration_ms": 173893,
-      "name": "Better Version (feat. Kelsea Ballerini)",
-      "url": "https://open.spotify.com/track/4hVTfI6ZXLt0BAeTZhAalr"
+      "duration_ms": 217807,
+      "name": "You Were Mine",
+      "url": "https://open.spotify.com/track/2qdVHdkLxKntNjPh3Ssz7s"
     }
   ],
   "unique_name": "sad girl country",

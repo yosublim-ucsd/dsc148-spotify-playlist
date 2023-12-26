@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 
 > The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM?si=GSlgMf5LQtiLl\-TGgrs1YA">Ebuka Songs</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,470 likes - 50 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,754 likes - 50 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lAYMw7KoAO.md) - [plain]
 | 49 | [Day By Day](https://open.spotify.com/track/33ztFxjys2xXQZBn0upbeE) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Day By Day](https://open.spotify.com/album/5O1tpz2vdJXhGnFIwSzU9Z) | 2:52 |
 | 50 | [He Fights For Me](https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Grace Omosebi](https://open.spotify.com/artist/0MjHUPDq9KVCCqjAcTdVRQ), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [HEAVEN HAS COME](https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz) | 6:19 |
 
-Snapshot ID: `MCw3ZGYxNTNjMWY2OTQ0OTFlMThlNjg1M2QyZTZjMzEzNGM1MDg1ODZk`
+Snapshot ID: `MCw2YTgwOTgyODlkZTBhODIyN2FmZWRmMDBmNTU4ZTkwZTZmZjc2YjEw`

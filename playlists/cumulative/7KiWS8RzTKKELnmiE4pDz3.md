@@ -4,7 +4,7 @@
 
 > 
 
-572 songs - 1 day 2 hr 46 min
+574 songs - 1 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Fly by Night \(feat\. Five Deez\)](https://open.spotify.com/track/5ve8FDBRZEFtikETy4w0Hs) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Five Deez](https://open.spotify.com/artist/2fxf19eScHHFOfmTwxWcGz) | [2nd Collection](https://open.spotify.com/album/1uFAVpKOz5CBiaMxVnA9UW) | 3:57 | 2023-10-12 |  |
 | [For Da Flex](https://open.spotify.com/track/1U2XsDhee3a0uJayBKA6dy) | [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [Flex Musix](https://open.spotify.com/album/075lV4wdtLwFvIvCUdSYhL) | 1:57 | 2023-12-08 |  |
 | [Free Me](https://open.spotify.com/track/5tLXeCSifkKGCieDgEgwxQ) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Free Me](https://open.spotify.com/album/6V23UK6DifxHQMxE1NptsN) | 2:35 | 2022-12-30 | 2023-12-14 |
+| [Free Young Thug](https://open.spotify.com/track/459TcVn4q9fN9NJe29RmjL) | [jahhde](https://open.spotify.com/artist/3iwgpA6jf4fXM5ZuH7qglb), [Ifys](https://open.spotify.com/artist/2JJuMFyGSGUltwqf32E8YT) | [Lost Files 4](https://open.spotify.com/album/6vlzHLRHhhQWKhIsxsbH5P) | 2:29 | 2023-12-25 |  |
 | [Free Young Thug](https://open.spotify.com/track/7LFvmOPOmBMMIb57swvhQm) | [user00xman](https://open.spotify.com/artist/6UWnzCvZ8dOv4f3grPg2wT) | [Lost ?](https://open.spotify.com/album/5FJyFYEfCJy8moRbDfEMBt) | 2:29 | 2023-01-07 | 2023-05-09 |
 | [Freestyle 2](https://open.spotify.com/track/28niVl6iodHnHpE1bCeJiV) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 2:18 | 2023-10-03 |  |
 | [Freestyle 3](https://open.spotify.com/track/3ZuKr1NfTecyfGuYwuXb7c) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 2:22 | 2022-10-31 | 2023-05-09 |
@@ -575,6 +576,7 @@
 | [Woah](https://open.spotify.com/track/02RCbjb9czvQKNGBmEmWob) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 3:03 | 2022-05-06 | 2023-12-14 |
 | [Woosah Freestyle](https://open.spotify.com/track/61Iqz8Ppm9cVdAQJFkMtVD) | [Kankan Archived](https://open.spotify.com/artist/2ml1cn1EjsA321NEfWMblf) | [Woosah Freestyle](https://open.spotify.com/album/6hw31ruG07RBmVmeGuPTRu) | 2:09 | 2022-12-21 | 2023-05-09 |
 | [World Champ](https://open.spotify.com/track/4VIznE5GISZrFlTxFNE7Pc) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [While We're Here](https://open.spotify.com/album/5wlqekVOKMlrcpMrlUfwW5) | 2:26 | 2023-04-02 | 2023-12-14 |
+| [X For Breakfast](https://open.spotify.com/track/1P1g0AgYauDpZUExzrnP2d) | [riphoops!](https://open.spotify.com/artist/60ywn31mXgdYzCKElw10PE), [user00xman](https://open.spotify.com/artist/4YkU1TtBH2NqSJC7QQzaQj) | [X For Breakfast](https://open.spotify.com/album/61Wfi44HY3LfQwkizkx8Gx) | 2:17 | 2023-12-25 |  |
 | [X FOR BREAKFAST](https://open.spotify.com/track/3dklnIwy1IC4lve2qk5aaN) | [user00xman](https://open.spotify.com/artist/4YkU1TtBH2NqSJC7QQzaQj) | [X TWO THREE](https://open.spotify.com/album/2RcQF2Oy8XT4HtlWPAWk8p) | 2:16 | 2022-11-04 | 2023-04-24 |
 | [X n Oxy](https://open.spotify.com/track/6nK1Df8DkPjhoItmhGbq0f) | [Kankan Archived](https://open.spotify.com/artist/2ml1cn1EjsA321NEfWMblf), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [X n Oxy](https://open.spotify.com/album/5kHdP5vedcvCK430MYoN29) | 2:57 | 2022-06-30 | 2023-05-09 |
 | [x2](https://open.spotify.com/track/3a36nM6fPVA8K1vqq6d03o) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:54 | 2023-07-12 | 2023-12-14 |

@@ -1,12 +1,12 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 166141,
+  "num_followers": 166223,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzUzZjA0ZTZiYjI2Y2Y2NWFiMzIzNzk2MWYxYjk3YzFjNmM4ZWQx",
+  "snapshot_id": "MCxjYzU3MTIyZDVmZThiYWRhNmY2N2E0NWY1MWY4MzYwMjhmNmU4Mzdl",
   "tracks": [
     {
       "added_at": "2021-10-20 20:05:06",
@@ -131,18 +131,18 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "On",
-        "url": "https://open.spotify.com/album/6AmmrlB9qABCgBdr8SCLZt"
+        "name": "Con Todo El Mundo",
+        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
       },
       "artists": [
         {
-          "name": "Altin G\u00fcn",
-          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 240093,
-      "name": "Goca D\u00fcnya",
-      "url": "https://open.spotify.com/track/5QO3UJc1gF1ummP75n2b3R"
+      "duration_ms": 190999,
+      "name": "Maria Tambi\u00e9n",
+      "url": "https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X"
     },
     {
       "added_at": "2023-12-05 16:22:29",
@@ -179,18 +179,18 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Con Todo El Mundo",
-        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
+        "name": "On",
+        "url": "https://open.spotify.com/album/6AmmrlB9qABCgBdr8SCLZt"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "Altin G\u00fcn",
+          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
         }
       ],
-      "duration_ms": 190999,
-      "name": "Maria Tambi\u00e9n",
-      "url": "https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X"
+      "duration_ms": 240093,
+      "name": "Goca D\u00fcnya",
+      "url": "https://open.spotify.com/track/5QO3UJc1gF1ummP75n2b3R"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -393,22 +393,6 @@
       "url": "https://open.spotify.com/track/68wrmZ8GgYlidAhERxI0Bz"
     },
     {
-      "added_at": "2022-07-01 02:44:20",
-      "album": {
-        "name": "Sacatela",
-        "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
-      },
-      "artists": [
-        {
-          "name": "La Femme",
-          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
-        }
-      ],
-      "duration_ms": 172026,
-      "name": "Sacatela",
-      "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
-    },
-    {
       "added_at": "2023-12-12 21:18:55",
       "album": {
         "name": "False Lankum",
@@ -423,6 +407,22 @@
       "duration_ms": 343000,
       "name": "Newcastle",
       "url": "https://open.spotify.com/track/2GiVRxdolsLBU3QZ8U7CNk"
+    },
+    {
+      "added_at": "2022-07-01 02:44:20",
+      "album": {
+        "name": "Sacatela",
+        "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
+      },
+      "artists": [
+        {
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
+        }
+      ],
+      "duration_ms": 172026,
+      "name": "Sacatela",
+      "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -553,22 +553,6 @@
       "url": "https://open.spotify.com/track/28c8ZDVltaCcs4OfIAuI8Z"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Mosaic of the Orient",
-        "url": "https://open.spotify.com/album/35V308120K0txY7JUMoN6M"
-      },
-      "artists": [
-        {
-          "name": "Elias Rahbani",
-          "url": "https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS"
-        }
-      ],
-      "duration_ms": 167293,
-      "name": "Dance of Maria",
-      "url": "https://open.spotify.com/track/0f7iz1qAWSz61BdHTXbzvC"
-    },
-    {
       "added_at": "2023-12-12 21:18:55",
       "album": {
         "name": "The Livelong Day",
@@ -583,6 +567,22 @@
       "duration_ms": 614363,
       "name": "The Wild Rover",
       "url": "https://open.spotify.com/track/0hJuFoWIujL61y6bFwUpsL"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Mosaic of the Orient",
+        "url": "https://open.spotify.com/album/35V308120K0txY7JUMoN6M"
+      },
+      "artists": [
+        {
+          "name": "Elias Rahbani",
+          "url": "https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS"
+        }
+      ],
+      "duration_ms": 167293,
+      "name": "Dance of Maria",
+      "url": "https://open.spotify.com/track/0f7iz1qAWSz61BdHTXbzvC"
     },
     {
       "added_at": "2022-02-03 23:38:31",
@@ -661,22 +661,6 @@
       "url": "https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI"
     },
     {
-      "added_at": "2022-08-31 03:53:27",
-      "album": {
-        "name": "Under No Nation (Radio Edit)",
-        "url": "https://open.spotify.com/album/6NpZ9v8aJwdLdhhVEJq3Lm"
-      },
-      "artists": [
-        {
-          "name": "Goat",
-          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
-        }
-      ],
-      "duration_ms": 184256,
-      "name": "Under No Nation - Radio Edit",
-      "url": "https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "K.G.",
@@ -691,6 +675,22 @@
       "duration_ms": 209803,
       "name": "Automation",
       "url": "https://open.spotify.com/track/03CS8ifzdYuzNCyzshYl7Z"
+    },
+    {
+      "added_at": "2022-08-31 03:53:27",
+      "album": {
+        "name": "Under No Nation (Radio Edit)",
+        "url": "https://open.spotify.com/album/6NpZ9v8aJwdLdhhVEJq3Lm"
+      },
+      "artists": [
+        {
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP"
+        }
+      ],
+      "duration_ms": 184256,
+      "name": "Under No Nation - Radio Edit",
+      "url": "https://open.spotify.com/track/4FtumUPkZgKXyItJx2telR"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -765,6 +765,22 @@
       "url": "https://open.spotify.com/track/6FDGkw2X2Pmp4AaQP8x6mX"
     },
     {
+      "added_at": "2023-11-23 03:51:02",
+      "album": {
+        "name": "The Livelong Day",
+        "url": "https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC"
+      },
+      "artists": [
+        {
+          "name": "Lankum",
+          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+        }
+      ],
+      "duration_ms": 331500,
+      "name": "Bear Creek",
+      "url": "https://open.spotify.com/track/1olcVMgFm2KGCDVK4g5b76"
+    },
+    {
       "added_at": "2022-02-03 23:38:31",
       "album": {
         "name": "Aboogi",
@@ -795,22 +811,6 @@
       "duration_ms": 214226,
       "name": "Fire By The River",
       "url": "https://open.spotify.com/track/6Nnq45sf7tv9Xjlbga83Lj"
-    },
-    {
-      "added_at": "2023-11-23 03:51:02",
-      "album": {
-        "name": "The Livelong Day",
-        "url": "https://open.spotify.com/album/4h6xvRg0yciHX5BidpT1yC"
-      },
-      "artists": [
-        {
-          "name": "Lankum",
-          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
-        }
-      ],
-      "duration_ms": 331500,
-      "name": "Bear Creek",
-      "url": "https://open.spotify.com/track/1olcVMgFm2KGCDVK4g5b76"
     },
     {
       "added_at": "2022-02-18 02:21:25",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Afrique Victime",
-        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
+        "name": "Light",
+        "url": "https://open.spotify.com/album/3ZtpOPSQuN6hOtAlyBJqFT"
       },
       "artists": [
         {
-          "name": "Mdou Moctar",
-          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+          "name": "DakhaBrakha",
+          "url": "https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5"
         }
       ],
-      "duration_ms": 338108,
-      "name": "Tala Tannam",
-      "url": "https://open.spotify.com/track/7FDVKzLOGTeeLEsR91ck9W"
+      "duration_ms": 346413,
+      "name": "Kolyskova",
+      "url": "https://open.spotify.com/track/02aLw97KKhqN6iMqjJntf3"
     },
     {
       "added_at": "2023-04-14 00:27:25",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/3ZtpOPSQuN6hOtAlyBJqFT"
-      },
-      "artists": [
-        {
-          "name": "DakhaBrakha",
-          "url": "https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5"
-        }
-      ],
-      "duration_ms": 346413,
-      "name": "Kolyskova",
-      "url": "https://open.spotify.com/track/02aLw97KKhqN6iMqjJntf3"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Grandeza",
         "url": "https://open.spotify.com/album/0xMUBvCjRGQqWps0tKcnBn"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 214787,
       "name": "Flor do Real",
       "url": "https://open.spotify.com/track/2Xnn9KSLIeECnBfACC4LKj"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Afrique Victime",
+        "url": "https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2"
+      },
+      "artists": [
+        {
+          "name": "Mdou Moctar",
+          "url": "https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94"
+        }
+      ],
+      "duration_ms": 338108,
+      "name": "Tala Tannam",
+      "url": "https://open.spotify.com/track/7FDVKzLOGTeeLEsR91ck9W"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1313,22 +1313,6 @@
       "url": "https://open.spotify.com/track/250EZZGyjYplBum6Simk1B"
     },
     {
-      "added_at": "2022-02-03 23:25:28",
-      "album": {
-        "name": "Tonkori In The Moonlight",
-        "url": "https://open.spotify.com/album/5R83YBUE67ySdEaSc1Wpsx"
-      },
-      "artists": [
-        {
-          "name": "OKI",
-          "url": "https://open.spotify.com/artist/1DyqDoMaDbFucSdywPnwhO"
-        }
-      ],
-      "duration_ms": 310446,
-      "name": "Yaykatekar Dub (Love Dub)",
-      "url": "https://open.spotify.com/track/6RAt5KUqAzW3XT8pVHTuTT"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Black To The Future",
@@ -1347,6 +1331,22 @@
       "duration_ms": 318226,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/2pKdE8YhzKRshWuQkolWlV"
+    },
+    {
+      "added_at": "2022-02-03 23:25:28",
+      "album": {
+        "name": "Tonkori In The Moonlight",
+        "url": "https://open.spotify.com/album/5R83YBUE67ySdEaSc1Wpsx"
+      },
+      "artists": [
+        {
+          "name": "OKI",
+          "url": "https://open.spotify.com/artist/1DyqDoMaDbFucSdywPnwhO"
+        }
+      ],
+      "duration_ms": 310446,
+      "name": "Yaykatekar Dub (Love Dub)",
+      "url": "https://open.spotify.com/track/6RAt5KUqAzW3XT8pVHTuTT"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Yol",
-        "url": "https://open.spotify.com/album/6IjH8qpZNlh4L5yJ2vzS6k"
-      },
-      "artists": [
-        {
-          "name": "Altin G\u00fcn",
-          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
-        }
-      ],
-      "duration_ms": 258315,
-      "name": "Y\u00fcce Dag Basinda",
-      "url": "https://open.spotify.com/track/6uO8my6yaAbNVXxJNQ48rH"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Zan",
         "url": "https://open.spotify.com/album/3gzvo3s0ZBcBaQ5AJeYR77"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 216640,
       "name": "Bia Bia",
       "url": "https://open.spotify.com/track/4IDK0f5LqdadZDSPhstlHb"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Yol",
+        "url": "https://open.spotify.com/album/6IjH8qpZNlh4L5yJ2vzS6k"
+      },
+      "artists": [
+        {
+          "name": "Altin G\u00fcn",
+          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
+        }
+      ],
+      "duration_ms": 258315,
+      "name": "Y\u00fcce Dag Basinda",
+      "url": "https://open.spotify.com/track/6uO8my6yaAbNVXxJNQ48rH"
     },
     {
       "added_at": "2022-08-31 05:11:30",
@@ -1653,22 +1653,6 @@
       "url": "https://open.spotify.com/track/5CW8Sionqq9jxe1uZxN5h7"
     },
     {
-      "added_at": "2023-06-05 21:04:25",
-      "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 300866,
-      "name": "Dividual Individual",
-      "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Optimisme",
@@ -1701,20 +1685,36 @@
       "url": "https://open.spotify.com/track/74RYxK9eVeNDLdlCJTmQnJ"
     },
     {
-      "added_at": "2023-03-29 18:06:57",
+      "added_at": "2023-06-05 21:04:25",
       "album": {
-        "name": "A\u015fk",
-        "url": "https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8"
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
       },
       "artists": [
         {
-          "name": "Altin G\u00fcn",
-          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
         }
       ],
-      "duration_ms": 244800,
-      "name": "Su S\u0131z\u0131yor",
-      "url": "https://open.spotify.com/track/5Yw2orljyPxOQe9s1JfPqU"
+      "duration_ms": 300866,
+      "name": "Dividual Individual",
+      "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
+    },
+    {
+      "added_at": "2023-02-10 03:09:47",
+      "album": {
+        "name": "Khun Narin's Electric Phin Band",
+        "url": "https://open.spotify.com/album/5jScyP5lgOyDuXwi720t2S"
+      },
+      "artists": [
+        {
+          "name": "Khun Narin",
+          "url": "https://open.spotify.com/artist/63zawOgIPFW8J6QTTJiRX1"
+        }
+      ],
+      "duration_ms": 357552,
+      "name": "Lam Phu Thai # 1",
+      "url": "https://open.spotify.com/track/6dsZAzOrP9af5rmzGl9Tlr"
     }
   ],
   "unique_name": "Folk Fabrique",

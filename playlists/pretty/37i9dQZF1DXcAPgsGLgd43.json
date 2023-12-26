@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 3721,
+  "num_followers": 3724,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmMwYTY2OTMwMjQ4NDU4Mjg3NDlhMmZmZGM5YTg0NWFjZWYwY2U5",
+  "snapshot_id": "MCxhMzI4NjU1M2NiYWI5ZGNhNjBjZTg3MTc1YzY4Zjc3ZWMxY2IwNzEw",
   "tracks": [
     {
       "added_at": "2023-12-15 14:37:13",
@@ -483,30 +483,6 @@
     {
       "added_at": "2023-12-15 14:37:13",
       "album": {
-        "name": "Marianela (Que Pasa)",
-        "url": "https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Merk & Kremont",
-          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
-        },
-        {
-          "name": "Lirico En La Casa",
-          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
-        }
-      ],
-      "duration_ms": 145766,
-      "name": "Marianela (Que Pasa)",
-      "url": "https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl"
-    },
-    {
-      "added_at": "2023-12-15 14:37:13",
-      "album": {
         "name": "Asereje",
         "url": "https://open.spotify.com/album/7FH5hS1VYDTy0hE1yni0cV"
       },
@@ -519,6 +495,26 @@
       "duration_ms": 168538,
       "name": "Asereje",
       "url": "https://open.spotify.com/track/4DrUjTGCmZHbeAnRCFX5QM"
+    },
+    {
+      "added_at": "2023-12-15 14:37:13",
+      "album": {
+        "name": "Mi Amor",
+        "url": "https://open.spotify.com/album/320kp38VL1lsenxJD9nGBc"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Wade",
+          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+        }
+      ],
+      "duration_ms": 195952,
+      "name": "Mi Amor",
+      "url": "https://open.spotify.com/track/2Suk7DzVMim77YswOSMvJL"
     },
     {
       "added_at": "2023-12-15 14:37:13",
@@ -547,22 +543,26 @@
     {
       "added_at": "2023-12-15 14:37:13",
       "album": {
-        "name": "Mi Amor",
-        "url": "https://open.spotify.com/album/320kp38VL1lsenxJD9nGBc"
+        "name": "Marianela (Que Pasa)",
+        "url": "https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0"
       },
       "artists": [
         {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         },
         {
-          "name": "Wade",
-          "url": "https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR"
+          "name": "Merk & Kremont",
+          "url": "https://open.spotify.com/artist/5rRcnWrevHgbuWjl7Lhft7"
+        },
+        {
+          "name": "Lirico En La Casa",
+          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
         }
       ],
-      "duration_ms": 195952,
-      "name": "Mi Amor",
-      "url": "https://open.spotify.com/track/2Suk7DzVMim77YswOSMvJL"
+      "duration_ms": 145766,
+      "name": "Marianela (Que Pasa)",
+      "url": "https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl"
     },
     {
       "added_at": "2023-12-15 14:37:13",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-12-15 14:37:13",
       "album": {
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/5T10GMsxlnyizGo6RL5fvI"
+    },
+    {
+      "added_at": "2023-12-15 14:37:13",
+      "album": {
         "name": "Chakachaka",
         "url": "https://open.spotify.com/album/3ZLiJSNwRdxYmm669cq1pv"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 160645,
       "name": "Chakachaka",
       "url": "https://open.spotify.com/track/5qQ9Hemq7CpsrDRnAgToVI"
-    },
-    {
-      "added_at": "2023-12-15 14:37:13",
-      "album": {
-        "name": "Reflection",
-        "url": "https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/5T10GMsxlnyizGo6RL5fvI"
     },
     {
       "added_at": "2023-12-15 14:37:13",
@@ -923,6 +923,26 @@
     {
       "added_at": "2023-12-15 14:37:13",
       "album": {
+        "name": "T\u00f3cate",
+        "url": "https://open.spotify.com/album/45ErjEPHCNkHQrBaaUuvdX"
+      },
+      "artists": [
+        {
+          "name": "Cach House",
+          "url": "https://open.spotify.com/artist/4Ulkh8tuR73CcyXaJ5F8oc"
+        },
+        {
+          "name": "Conrado",
+          "url": "https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e"
+        }
+      ],
+      "duration_ms": 190393,
+      "name": "T\u00f3cate",
+      "url": "https://open.spotify.com/track/2ibLngG6Pl2imDQhw5B5Nq"
+    },
+    {
+      "added_at": "2023-12-15 14:37:13",
+      "album": {
         "name": "Pa Lante",
         "url": "https://open.spotify.com/album/4c5PIf7olnUOXJPR4nlq22"
       },
@@ -951,22 +971,6 @@
     {
       "added_at": "2023-12-15 14:37:13",
       "album": {
-        "name": "La La La",
-        "url": "https://open.spotify.com/album/1yyYH9ehC041fuy4eujShO"
-      },
-      "artists": [
-        {
-          "name": "TECH IT DEEP",
-          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "La La La",
-      "url": "https://open.spotify.com/track/0kZwdBQo5iJfM9DYsFCYSD"
-    },
-    {
-      "added_at": "2023-12-15 14:37:13",
-      "album": {
         "name": "Toma Dale",
         "url": "https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr"
       },
@@ -987,22 +991,18 @@
     {
       "added_at": "2023-12-15 14:37:13",
       "album": {
-        "name": "T\u00f3cate",
-        "url": "https://open.spotify.com/album/45ErjEPHCNkHQrBaaUuvdX"
+        "name": "La La La",
+        "url": "https://open.spotify.com/album/1yyYH9ehC041fuy4eujShO"
       },
       "artists": [
         {
-          "name": "Cach House",
-          "url": "https://open.spotify.com/artist/4Ulkh8tuR73CcyXaJ5F8oc"
-        },
-        {
-          "name": "Conrado",
-          "url": "https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e"
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
         }
       ],
-      "duration_ms": 190393,
-      "name": "T\u00f3cate",
-      "url": "https://open.spotify.com/track/2ibLngG6Pl2imDQhw5B5Nq"
+      "duration_ms": 176250,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/0kZwdBQo5iJfM9DYsFCYSD"
     },
     {
       "added_at": "2023-12-15 14:37:13",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2023-12-15 14:37:13",
       "album": {
-        "name": "Toma Que Toma",
-        "url": "https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd"
+        "name": "Quema Quema",
+        "url": "https://open.spotify.com/album/5NRmxv41JcMSN7ZznTEVAZ"
       },
       "artists": [
         {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+          "name": "Mister Pancho",
+          "url": "https://open.spotify.com/artist/4NtBRx1ZiUjghjkMEEgRGe"
         }
       ],
-      "duration_ms": 227076,
-      "name": "Toma Que Toma",
-      "url": "https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1"
+      "duration_ms": 126707,
+      "name": "Quema Quema",
+      "url": "https://open.spotify.com/track/4IQe3wmj64IDRU57zsTdau"
     },
     {
       "added_at": "2023-12-15 14:37:13",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2023-12-15 14:37:13",
       "album": {
-        "name": "Quema Quema",
-        "url": "https://open.spotify.com/album/5NRmxv41JcMSN7ZznTEVAZ"
+        "name": "Toma Que Toma",
+        "url": "https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd"
       },
       "artists": [
         {
-          "name": "Mister Pancho",
-          "url": "https://open.spotify.com/artist/4NtBRx1ZiUjghjkMEEgRGe"
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
         }
       ],
-      "duration_ms": 126707,
-      "name": "Quema Quema",
-      "url": "https://open.spotify.com/track/4IQe3wmj64IDRU57zsTdau"
+      "duration_ms": 227076,
+      "name": "Toma Que Toma",
+      "url": "https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1"
     },
     {
       "added_at": "2023-12-15 14:37:13",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2023-12-15 14:37:13",
       "album": {
-        "name": "La Bulla",
-        "url": "https://open.spotify.com/album/406Xu0Zh1jTzjzBPsJCYmo"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        },
-        {
-          "name": "Many Malon",
-          "url": "https://open.spotify.com/artist/7KizV6niQzeuEqXKvMMXYM"
-        }
-      ],
-      "duration_ms": 170403,
-      "name": "La Bulla",
-      "url": "https://open.spotify.com/track/0TaXn3UgkHmba7ew4JFZEM"
-    },
-    {
-      "added_at": "2023-12-15 14:37:13",
-      "album": {
         "name": "Dimini",
         "url": "https://open.spotify.com/album/3ygKQsnMN1nBrpsxYYnlny"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 142447,
       "name": "Dimini",
       "url": "https://open.spotify.com/track/3UwlHoQ1pEHHds28BJ2bvb"
+    },
+    {
+      "added_at": "2023-12-15 14:37:13",
+      "album": {
+        "name": "La Bulla",
+        "url": "https://open.spotify.com/album/406Xu0Zh1jTzjzBPsJCYmo"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Many Malon",
+          "url": "https://open.spotify.com/artist/7KizV6niQzeuEqXKvMMXYM"
+        }
+      ],
+      "duration_ms": 170403,
+      "name": "La Bulla",
+      "url": "https://open.spotify.com/track/0TaXn3UgkHmba7ew4JFZEM"
     },
     {
       "added_at": "2023-12-15 14:37:13",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-12-15 14:37:13",
       "album": {
+        "name": "Gitrox",
+        "url": "https://open.spotify.com/album/02LTijbsb6BLbfZMKOEip1"
+      },
+      "artists": [
+        {
+          "name": "Los Padres",
+          "url": "https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU"
+        }
+      ],
+      "duration_ms": 197209,
+      "name": "Gitrox",
+      "url": "https://open.spotify.com/track/7jQZtYrb5nyWXEiNlu0VMQ"
+    },
+    {
+      "added_at": "2023-12-15 14:37:13",
+      "album": {
         "name": "Desconocidos",
         "url": "https://open.spotify.com/album/0Kpg2Flv9TK2V8s7bJrade"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 322501,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/1Hd36cEZ37e9dNyxJy9ys6"
-    },
-    {
-      "added_at": "2023-12-15 14:37:13",
-      "album": {
-        "name": "Gitrox",
-        "url": "https://open.spotify.com/album/02LTijbsb6BLbfZMKOEip1"
-      },
-      "artists": [
-        {
-          "name": "Los Padres",
-          "url": "https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU"
-        }
-      ],
-      "duration_ms": 197209,
-      "name": "Gitrox",
-      "url": "https://open.spotify.com/track/7jQZtYrb5nyWXEiNlu0VMQ"
     },
     {
       "added_at": "2023-12-15 14:37:13",

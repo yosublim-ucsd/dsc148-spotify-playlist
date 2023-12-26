@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/cheetah/\">Tyreek Hill</a>",
-  "num_followers": 35714,
+  "num_followers": 35794,
   "original_name": "Tyreek Hill's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDIxYWI0MWNkZDU1NzBiYWRjY2Y0MjVmYzRkM2QxMmU5NzZkNjQ3",
+  "snapshot_id": "MCxmM2JlZDdiYTJhYWQ5M2ViZGNjZTZmM2YxZjkxZjJmMGM4ZmUzMDlk",
   "tracks": [
     {
       "added_at": "2022-10-02 01:51:23",
@@ -371,6 +371,22 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
+        "name": "H.E.R.",
+        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 200133,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs"
+    },
+    {
+      "added_at": "2022-10-02 01:51:23",
+      "album": {
         "name": "WFM",
         "url": "https://open.spotify.com/album/0bhFNhb3j8MRYLFXvnIXGp"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 290600,
       "name": "Sweet Lady",
       "url": "https://open.spotify.com/track/1Dx8rIZaXzZPvUQRF2j9hB"
-    },
-    {
-      "added_at": "2022-10-02 01:51:23",
-      "album": {
-        "name": "H.E.R.",
-        "url": "https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 200133,
-      "name": "Focus",
-      "url": "https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs"
     },
     {
       "added_at": "2022-10-02 01:51:23",
@@ -483,18 +483,22 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
-        "name": "Comfortable",
-        "url": "https://open.spotify.com/album/04w2ildzatiXBlYq4AwIOm"
+        "name": "Come Through (feat. Chris Brown)",
+        "url": "https://open.spotify.com/album/7qKY8n8wPUizIo2bfSWUEB"
       },
       "artists": [
         {
           "name": "H.E.R.",
           "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 255065,
-      "name": "Comfortable",
-      "url": "https://open.spotify.com/track/3f3cliOygeuUpGRwdohy12"
+      "duration_ms": 214093,
+      "name": "Come Through (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/3krZxyBsWEHfEfJegYaWTd"
     },
     {
       "added_at": "2022-10-02 01:51:23",
@@ -579,22 +583,18 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
-        "name": "Come Through (feat. Chris Brown)",
-        "url": "https://open.spotify.com/album/7qKY8n8wPUizIo2bfSWUEB"
+        "name": "Comfortable",
+        "url": "https://open.spotify.com/album/04w2ildzatiXBlYq4AwIOm"
       },
       "artists": [
         {
           "name": "H.E.R.",
           "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 214093,
-      "name": "Come Through (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/3krZxyBsWEHfEfJegYaWTd"
+      "duration_ms": 255065,
+      "name": "Comfortable",
+      "url": "https://open.spotify.com/track/3f3cliOygeuUpGRwdohy12"
     },
     {
       "added_at": "2022-10-02 01:51:23",
@@ -779,6 +779,26 @@
     {
       "added_at": "2022-10-02 01:51:23",
       "album": {
+        "name": "Ghetto Love",
+        "url": "https://open.spotify.com/album/2Hvu2Yh4ghgcLvYLr3V5dM"
+      },
+      "artists": [
+        {
+          "name": "Jaheim",
+          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
+        },
+        {
+          "name": "Next",
+          "url": "https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA"
+        }
+      ],
+      "duration_ms": 287026,
+      "name": "Anything (feat. Next)",
+      "url": "https://open.spotify.com/track/38084tN66v4KHqiLpl9cN8"
+    },
+    {
+      "added_at": "2022-10-02 01:51:23",
+      "album": {
         "name": "Rome",
         "url": "https://open.spotify.com/album/4ol8aChmHBMIL85LzG10ja"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 242306,
       "name": "Fuckin' wit Me",
       "url": "https://open.spotify.com/track/3v10vlZlZPApvDz3kE4aNe"
-    },
-    {
-      "added_at": "2022-10-02 01:51:23",
-      "album": {
-        "name": "Ghetto Love",
-        "url": "https://open.spotify.com/album/2Hvu2Yh4ghgcLvYLr3V5dM"
-      },
-      "artists": [
-        {
-          "name": "Jaheim",
-          "url": "https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3"
-        },
-        {
-          "name": "Next",
-          "url": "https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA"
-        }
-      ],
-      "duration_ms": 287026,
-      "name": "Anything (feat. Next)",
-      "url": "https://open.spotify.com/track/38084tN66v4KHqiLpl9cN8"
     },
     {
       "added_at": "2022-10-02 01:51:23",

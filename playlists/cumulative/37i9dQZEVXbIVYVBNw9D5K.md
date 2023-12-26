@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-814 songs - 1 day 16 hr 51 min
+815 songs - 1 day 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [Canıma Minnet](https://open.spotify.com/track/5mCfj3EpRzSSjm5Y5IMzzz) | [Sakiler](https://open.spotify.com/artist/25gzpFRLdteuie1gW4a4hK) | [Canıma Minnet](https://open.spotify.com/album/2pEJ0Iv7MLynZF0QAFaUfS) | 3:27 | 2022-05-01 | 2022-07-24 |
 | [Canın Sağ Olsun](https://open.spotify.com/track/0mYqW8vhiw9rgwSwB21JQz) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Rast](https://open.spotify.com/artist/0Dl0DuG2pk6VWJ3XLKcvt3) | [Canın Sağ Olsun](https://open.spotify.com/album/6fpX97EwxmnNGNYeBneybh) | 2:59 | 2023-04-22 |  |
 | [CEHENNEM](https://open.spotify.com/track/2ipcDCBzdfj8KCcga2h39C) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Ayaz](https://open.spotify.com/artist/4BNyQQUayFkUOdf2sw9cLY) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 3:28 | 2022-09-10 | 2022-09-15 |
-| [Cehennemin Dibi](https://open.spotify.com/track/408CB6C3xSUJJJpMopjJ1y) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Cehennemin Dibi](https://open.spotify.com/album/5d0khevKWVD2hMghDEKpaR) | 2:50 | 2023-12-23 |  |
+| [Cehennemin Dibi](https://open.spotify.com/track/408CB6C3xSUJJJpMopjJ1y) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Cehennemin Dibi](https://open.spotify.com/album/5d0khevKWVD2hMghDEKpaR) | 2:50 | 2023-12-23 | 2023-12-26 |
 | [Celladına Aşık](https://open.spotify.com/track/2PaQb8AtQqIxawPA2O7Vaw) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Celladına Aşık](https://open.spotify.com/album/4wpiazClszgAftff9hXMcG) | 3:21 | 2023-05-22 | 2023-12-25 |
 | [Cesaretsizce Olmuyor](https://open.spotify.com/track/3GXkYMKJ443tsH5KmOABnw) | [Jabbar](https://open.spotify.com/artist/7JrZbwBSIfKcc2gn1Xa4Bd) | [Yineleme](https://open.spotify.com/album/0BWmz7idU4DyD2MENZiwB3) | 3:12 | 2022-12-04 | 2022-12-22 |
 | [Cindy](https://open.spotify.com/track/40UN1GTSOsEtp7nAZYKrYq) | [Nufrain](https://open.spotify.com/artist/3UIBCL0QqPjEiolLMsLMJN), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [Cindy](https://open.spotify.com/album/5heDTlRs2OOzVf136RSW5e) | 1:59 | 2021-09-25 | 2021-09-26 |
@@ -689,6 +689,7 @@
 | [Son Durak](https://open.spotify.com/track/2kMSKgXjLr7mURZaDiGfty) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Son Durak](https://open.spotify.com/album/6FgFKVRTxzmoT9ce7ifjuy) | 3:54 | 2022-11-19 | 2022-11-22 |
 | [Son Durağın](https://open.spotify.com/track/63PJ7AVOjL5WcaYmPxiblX) | [Kahraman Deniz](https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X) | [Son Durağın](https://open.spotify.com/album/1ByJNjITFk1Imru7zBM1al) | 3:56 | 2022-04-11 | 2022-08-14 |
 | [Son Seslenişim](https://open.spotify.com/track/1Xn2GNoMUPxjgxweGjypQ8) | [Yüzyüzeyken Konuşuruz](https://open.spotify.com/artist/7gobcoscOfsY0nOeqqFzvU) | [Son Seslenişim](https://open.spotify.com/album/6atuS98HWihPwNIIKJwJ30) | 4:36 | 2021-09-19 | 2022-01-15 |
+| [Sopa](https://open.spotify.com/track/4zCdOprX0xQU0TPFPtusvr) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Hande'ye Neler Oluyor](https://open.spotify.com/album/7v4Xeh4UPvV717DF7I6czt) | 4:01 | 2023-12-25 |  |
 | [Sopa \- Clup Remix](https://open.spotify.com/track/2rkDwpmqASO9ZmUFjqwrR3) | [Hande Yener](https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R) | [Hande'ye Neler Oluyor](https://open.spotify.com/album/7v4Xeh4UPvV717DF7I6czt) | 4:03 | 2023-12-18 |  |
 | [Sor](https://open.spotify.com/track/4K5IIAsu1g5baNEonmTAwu) | [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm), [Gülşen](https://open.spotify.com/artist/1F2v33FQTavJyaD7ZsyhdA) | [Sor](https://open.spotify.com/album/4QqI8mKKCxfwYo6N06ywIB) | 2:28 | 2023-08-19 | 2023-10-09 |
 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3: OVER YOU](https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2) | 2:21 | 2021-08-18 | 2021-09-28 |

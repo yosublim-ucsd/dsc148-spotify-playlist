@@ -1,12 +1,12 @@
 {
   "description": "Musica da ascoltare con un Negroni in mano. \ud83c\udf79",
-  "num_followers": 250013,
+  "num_followers": 250022,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NThlN2ZjNzQzNjRiMTQxYTM3M2YyNDQxMTRkYmU5YjZiYTY0M2Y5",
+  "snapshot_id": "MCwwODIxMWFkNDdjNjFkMjBlOWE2YzVkNzM3MzJjMWU1NjUwOWUwYWJj",
   "tracks": [
     {
       "added_at": "2023-11-24 00:01:00",
@@ -135,22 +135,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Walking On A Dream",
-        "url": "https://open.spotify.com/album/3qFui1PcteHFky44CeUflG"
-      },
-      "artists": [
-        {
-          "name": "Empire of the Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 198440,
-      "name": "Walking On A Dream",
-      "url": "https://open.spotify.com/track/3HfhB8sYqLlVmpBPb7cc2x"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Loving In Stereo",
         "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 240880,
       "name": "Keep Moving",
       "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Walking On A Dream",
+        "url": "https://open.spotify.com/album/3qFui1PcteHFky44CeUflG"
+      },
+      "artists": [
+        {
+          "name": "Empire of the Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 198440,
+      "name": "Walking On A Dream",
+      "url": "https://open.spotify.com/track/3HfhB8sYqLlVmpBPb7cc2x"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Born a Loser",
-        "url": "https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd"
-      },
-      "artists": [
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        }
-      ],
-      "duration_ms": 207373,
-      "name": "The Sun",
-      "url": "https://open.spotify.com/track/5UEZzRsrB4FKw1SIMoMD2y"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "I Believe In Love Again",
         "url": "https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 176524,
       "name": "I Believe In Love Again",
       "url": "https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Born a Loser",
+        "url": "https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd"
+      },
+      "artists": [
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 207373,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/5UEZzRsrB4FKw1SIMoMD2y"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -283,6 +283,22 @@
       "duration_ms": 289471,
       "name": "Serotonin Moonbeams",
       "url": "https://open.spotify.com/track/0hJfuyUwtEYMlGgvr3nzz9"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Starry Night",
+        "url": "https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 233978,
+      "name": "Starry Night - Edit",
+      "url": "https://open.spotify.com/track/6FwPQVdtjwfORrrFkpGhrz"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -343,22 +359,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Amor Fati",
-        "url": "https://open.spotify.com/album/67gwUv9SBJYgjhTnysFPU6"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 189760,
-      "name": "El Layali",
-      "url": "https://open.spotify.com/track/51qw9DAEYn0RS23LtwZU84"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Miracles",
         "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
       },
@@ -371,38 +371,6 @@
       "duration_ms": 269249,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
-        "name": "Parcels",
-        "url": "https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 237227,
-      "name": "Lightenup",
-      "url": "https://open.spotify.com/track/1qtiESAzfGMw3YqJvI97ki"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
-        "name": "Starry Night",
-        "url": "https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 233978,
-      "name": "Starry Night - Edit",
-      "url": "https://open.spotify.com/track/6FwPQVdtjwfORrrFkpGhrz"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -423,6 +391,38 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
+        "name": "Amor Fati",
+        "url": "https://open.spotify.com/album/67gwUv9SBJYgjhTnysFPU6"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 189760,
+      "name": "El Layali",
+      "url": "https://open.spotify.com/track/51qw9DAEYn0RS23LtwZU84"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Parcels",
+        "url": "https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 237227,
+      "name": "Lightenup",
+      "url": "https://open.spotify.com/track/1qtiESAzfGMw3YqJvI97ki"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
         "name": "Goodbye Country (Hello Nightclub)",
         "url": "https://open.spotify.com/album/1bS1J4OVGrpu6e2U2pHge6"
       },
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Roches blanches",
-        "url": "https://open.spotify.com/album/07eeR01mBl7EOYLPJ1iW3d"
-      },
-      "artists": [
-        {
-          "name": "Mizmo",
-          "url": "https://open.spotify.com/artist/31sy2Lzz49t83efKMvk3qV"
-        }
-      ],
-      "duration_ms": 156298,
-      "name": "Roches blanches",
-      "url": "https://open.spotify.com/track/3gHqqfGzGlA6AomepHu4zj"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "We Are Family (1995 Remaster)",
         "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 266826,
       "name": "Thinking of You - 1995 Remaster",
       "url": "https://open.spotify.com/track/7mimnm2QlSzW3J38FRMETP"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Roches blanches",
+        "url": "https://open.spotify.com/album/07eeR01mBl7EOYLPJ1iW3d"
+      },
+      "artists": [
+        {
+          "name": "Mizmo",
+          "url": "https://open.spotify.com/artist/31sy2Lzz49t83efKMvk3qV"
+        }
+      ],
+      "duration_ms": 156298,
+      "name": "Roches blanches",
+      "url": "https://open.spotify.com/track/3gHqqfGzGlA6AomepHu4zj"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -879,18 +879,22 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Dance of the Crab",
-        "url": "https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL"
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh"
       },
       "artists": [
         {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
         }
       ],
-      "duration_ms": 144479,
-      "name": "Dance of the Crab - Edit",
-      "url": "https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k"
+      "duration_ms": 345310,
+      "name": "Peach",
+      "url": "https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -915,22 +919,18 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh"
+        "name": "Dance of the Crab",
+        "url": "https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL"
       },
       "artists": [
         {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        },
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 345310,
-      "name": "Peach",
-      "url": "https://open.spotify.com/track/5cGZN0P1QnSfhCFBCHtp2N"
+      "duration_ms": 144479,
+      "name": "Dance of the Crab - Edit",
+      "url": "https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/4s4o0cdIjRxqL92hFa30c9"
+      },
+      "artists": [
+        {
+          "name": "Gwen McCrae",
+          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
+        }
+      ],
+      "duration_ms": 344546,
+      "name": "Keep the Fire Burning",
+      "url": "https://open.spotify.com/track/4rS4K30qVDExdjeU4feF4c"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
         "name": "Melody A.M.",
         "url": "https://open.spotify.com/album/4WOZU9evfEO7eI6ICsoGN0"
       },
@@ -1023,18 +1039,18 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/4s4o0cdIjRxqL92hFa30c9"
+        "name": "Since I Left You (20th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0YtYaaO0aipyeQl0xhAWTO"
       },
       "artists": [
         {
-          "name": "Gwen McCrae",
-          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
         }
       ],
-      "duration_ms": 344546,
-      "name": "Keep the Fire Burning",
-      "url": "https://open.spotify.com/track/4rS4K30qVDExdjeU4feF4c"
+      "duration_ms": 262840,
+      "name": "Since I Left You",
+      "url": "https://open.spotify.com/track/1AAYbsAIgEJMbxgLgpjE9y"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1055,22 +1071,6 @@
       "duration_ms": 167093,
       "name": "Moving Men",
       "url": "https://open.spotify.com/track/3OrQzlqFmedMua5WxgCVrI"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
-        "name": "Since I Left You (20th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0YtYaaO0aipyeQl0xhAWTO"
-      },
-      "artists": [
-        {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
-        }
-      ],
-      "duration_ms": 262840,
-      "name": "Since I Left You",
-      "url": "https://open.spotify.com/track/1AAYbsAIgEJMbxgLgpjE9y"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Ithaque",
-        "url": "https://open.spotify.com/album/1bqWfUAoboTiP0TdsBqBTp"
-      },
-      "artists": [
-        {
-          "name": "Sara Costa",
-          "url": "https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49"
-        }
-      ],
-      "duration_ms": 189026,
-      "name": "Ithaque",
-      "url": "https://open.spotify.com/track/3VOtDNKPohGZKv1OAO5QKR"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "Bar Mediterraneo",
         "url": "https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 200135,
       "name": "Praja Magia",
       "url": "https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Ithaque",
+        "url": "https://open.spotify.com/album/1bqWfUAoboTiP0TdsBqBTp"
+      },
+      "artists": [
+        {
+          "name": "Sara Costa",
+          "url": "https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49"
+        }
+      ],
+      "duration_ms": 189026,
+      "name": "Ithaque",
+      "url": "https://open.spotify.com/track/3VOtDNKPohGZKv1OAO5QKR"
     },
     {
       "added_at": "2023-11-24 00:01:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2023-11-24 00:01:00",
       "album": {
-        "name": "Era",
-        "url": "https://open.spotify.com/album/44Dmctrx2WxkdQ2RmA7Re8"
-      },
-      "artists": [
-        {
-          "name": "Jacana People",
-          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
-        }
-      ],
-      "duration_ms": 234926,
-      "name": "Era - Edit",
-      "url": "https://open.spotify.com/track/6e7pRMDh1Sf7GJWQGqUwT1"
-    },
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
         "name": "I Go",
         "url": "https://open.spotify.com/album/1221WGmWD1oF62vZtMScdk"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 224000,
       "name": "I Go - Edit",
       "url": "https://open.spotify.com/track/6tmlxpASowJoNYy6pnDdjq"
+    },
+    {
+      "added_at": "2023-11-24 00:01:00",
+      "album": {
+        "name": "Era",
+        "url": "https://open.spotify.com/album/44Dmctrx2WxkdQ2RmA7Re8"
+      },
+      "artists": [
+        {
+          "name": "Jacana People",
+          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
+        }
+      ],
+      "duration_ms": 234926,
+      "name": "Era - Edit",
+      "url": "https://open.spotify.com/track/6e7pRMDh1Sf7GJWQGqUwT1"
     },
     {
       "added_at": "2023-11-24 00:01:00",

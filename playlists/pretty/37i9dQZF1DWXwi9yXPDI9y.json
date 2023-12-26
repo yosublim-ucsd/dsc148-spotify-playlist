@@ -1,12 +1,12 @@
 {
   "description": "Have a drink and relax to the Jazz played in the background in the bar.",
-  "num_followers": 75147,
+  "num_followers": 75284,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTBhYTE5ZWI0YjljM2U4OTI5MjY1MjA2NDUyZGI0ODdmNjUxNWI5",
+  "snapshot_id": "MCw5MzA1MzgyMDNiZDU3MGVmYzVkNjJlYzBlZjFmMmJmOTgyOTkxOTRj",
   "tracks": [
     {
       "added_at": "2023-12-19 14:07:03",
@@ -151,22 +151,6 @@
     {
       "added_at": "2023-12-19 14:07:03",
       "album": {
-        "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
-        "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 424493,
-      "name": "Autumn In New York",
-      "url": "https://open.spotify.com/track/4PkJlDmHpr9o7KUxm0Uflx"
-    },
-    {
-      "added_at": "2023-12-19 14:07:03",
-      "album": {
         "name": "Volume 2 (Vol. 2)",
         "url": "https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 209012,
       "name": "I Waited For You - Remastered 1998",
       "url": "https://open.spotify.com/track/5h7ww9vWMlfYJ2cPhmt9pz"
+    },
+    {
+      "added_at": "2023-12-19 14:07:03",
+      "album": {
+        "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
+        "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 424493,
+      "name": "Autumn In New York",
+      "url": "https://open.spotify.com/track/4PkJlDmHpr9o7KUxm0Uflx"
     },
     {
       "added_at": "2023-12-19 14:07:03",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-12-19 14:07:03",
       "album": {
-        "name": "Baker's Holiday",
-        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 174040,
-      "name": "When Your Lover Has Gone",
-      "url": "https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4"
-    },
-    {
-      "added_at": "2023-12-19 14:07:03",
-      "album": {
         "name": "I Just Dropped By To Say Hello",
         "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 250813,
       "name": "Don't You Know I Care",
       "url": "https://open.spotify.com/track/7Ldtha80cQeZf2TjPJe1OC"
+    },
+    {
+      "added_at": "2023-12-19 14:07:03",
+      "album": {
+        "name": "Baker's Holiday",
+        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 174040,
+      "name": "When Your Lover Has Gone",
+      "url": "https://open.spotify.com/track/4cAZSwLu81TpobAB0M9kz4"
     },
     {
       "added_at": "2023-12-19 14:07:03",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-12-19 14:07:03",
       "album": {
-        "name": "I Just Dropped By To Say Hello",
-        "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 185786,
-      "name": "Stairway To The Stars",
-      "url": "https://open.spotify.com/track/1EpnnS4RqJQrA3OMxVJ6Ks"
-    },
-    {
-      "added_at": "2023-12-19 14:07:03",
-      "album": {
         "name": "All Through The Night: Julie London Sings The Choicest Of Cole Porter (Bonus Tracks)",
         "url": "https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn"
       },
@@ -471,38 +455,18 @@
     {
       "added_at": "2023-12-19 14:07:03",
       "album": {
-        "name": "Blossom Dearie (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
+        "name": "I Just Dropped By To Say Hello",
+        "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
       },
       "artists": [
         {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
         }
       ],
-      "duration_ms": 166573,
-      "name": "Lover Man (Oh Where Can You Be)",
-      "url": "https://open.spotify.com/track/6R9KBVibYQz0OjFSDlPdrn"
-    },
-    {
-      "added_at": "2023-12-19 14:07:03",
-      "album": {
-        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
-        "url": "https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Oscar Peterson",
-          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
-        }
-      ],
-      "duration_ms": 207413,
-      "name": "Mood Indigo",
-      "url": "https://open.spotify.com/track/6wDBY75wrVJoQZsSCyM234"
+      "duration_ms": 185786,
+      "name": "Stairway To The Stars",
+      "url": "https://open.spotify.com/track/1EpnnS4RqJQrA3OMxVJ6Ks"
     },
     {
       "added_at": "2023-12-19 14:07:03",
@@ -523,6 +487,22 @@
     {
       "added_at": "2023-12-19 14:07:03",
       "album": {
+        "name": "Blossom Dearie (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 166573,
+      "name": "Lover Man (Oh Where Can You Be)",
+      "url": "https://open.spotify.com/track/6R9KBVibYQz0OjFSDlPdrn"
+    },
+    {
+      "added_at": "2023-12-19 14:07:03",
+      "album": {
         "name": "Johnny Hodges With Billy Strayhorn And The Orchestra",
         "url": "https://open.spotify.com/album/5CGVW3S012Wp5KteaW61kG"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 180306,
       "name": "Your Love Has Faded",
       "url": "https://open.spotify.com/track/1X5DC9OMRJ2O7F9uJzlVqO"
+    },
+    {
+      "added_at": "2023-12-19 14:07:03",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
+        "url": "https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "duration_ms": 207413,
+      "name": "Mood Indigo",
+      "url": "https://open.spotify.com/track/6wDBY75wrVJoQZsSCyM234"
     },
     {
       "added_at": "2023-12-19 14:07:03",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-12-19 14:07:03",
       "album": {
-        "name": "Waiter, Make Mine The Blues",
-        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 200960,
-      "name": "Waiter, Make Mine Blues",
-      "url": "https://open.spotify.com/track/41mub0g6KnqXhOcmggtjWK"
-    },
-    {
-      "added_at": "2023-12-19 14:07:03",
-      "album": {
         "name": "Great Ladies Of Song / Spotlight On Dinah Shore",
         "url": "https://open.spotify.com/album/5ilLtUVtszxkepkVCrqECy"
       },
@@ -611,6 +595,22 @@
     {
       "added_at": "2023-12-19 14:07:03",
       "album": {
+        "name": "Waiter, Make Mine The Blues",
+        "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        }
+      ],
+      "duration_ms": 200960,
+      "name": "Waiter, Make Mine Blues",
+      "url": "https://open.spotify.com/track/41mub0g6KnqXhOcmggtjWK"
+    },
+    {
+      "added_at": "2023-12-19 14:07:03",
+      "album": {
         "name": "Night Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
       },
@@ -623,22 +623,6 @@
       "duration_ms": 276133,
       "name": "Things Ain't What They Used To Be",
       "url": "https://open.spotify.com/track/69enZcR3Rr9Bg3fNzHEp9y"
-    },
-    {
-      "added_at": "2023-12-19 14:07:03",
-      "album": {
-        "name": "The Jazz Giants '56",
-        "url": "https://open.spotify.com/album/7vuPKUQhuvq0GFnmojAkX1"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        }
-      ],
-      "duration_ms": 569880,
-      "name": "I Guess I'll Have To Change My Plan",
-      "url": "https://open.spotify.com/track/0G1hOjlv35tcw3i1mgv8xG"
     },
     {
       "added_at": "2023-12-19 14:07:03",
@@ -659,6 +643,22 @@
       "duration_ms": 224066,
       "name": "Trav'lin Light",
       "url": "https://open.spotify.com/track/6ZgX2bh1R61zOcGIntTC7e"
+    },
+    {
+      "added_at": "2023-12-19 14:07:03",
+      "album": {
+        "name": "The Jazz Giants '56",
+        "url": "https://open.spotify.com/album/7vuPKUQhuvq0GFnmojAkX1"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        }
+      ],
+      "duration_ms": 569880,
+      "name": "I Guess I'll Have To Change My Plan",
+      "url": "https://open.spotify.com/track/0G1hOjlv35tcw3i1mgv8xG"
     },
     {
       "added_at": "2023-12-19 14:07:03",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-12-19 14:07:03",
       "album": {
-        "name": "For Those In Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 285693,
-      "name": "If I Had You - Bonus Track",
-      "url": "https://open.spotify.com/track/54U0BdTlsSah7SI6bxJeF6"
-    },
-    {
-      "added_at": "2023-12-19 14:07:03",
-      "album": {
         "name": "The Total - Vol. 1",
         "url": "https://open.spotify.com/album/23M5IolFq5GgcaYSikTyQH"
       },
@@ -1003,6 +987,38 @@
       "duration_ms": 192506,
       "name": "Oh Look At Me Now - Studio",
       "url": "https://open.spotify.com/track/4NIwb9EH9WrjDq3xLkdA56"
+    },
+    {
+      "added_at": "2023-12-19 14:07:03",
+      "album": {
+        "name": "For Those In Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/79co4mGqrQdDK93j5ZuqH2"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 285693,
+      "name": "If I Had You - Bonus Track",
+      "url": "https://open.spotify.com/track/54U0BdTlsSah7SI6bxJeF6"
+    },
+    {
+      "added_at": "2023-12-19 14:07:03",
+      "album": {
+        "name": "The Hawk Relaxes",
+        "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "When Day Is Done",
+      "url": "https://open.spotify.com/track/77fv87hNviECO3uWrKKKCM"
     },
     {
       "added_at": "2023-12-19 14:07:03",
@@ -1035,22 +1051,6 @@
       "duration_ms": 467626,
       "name": "Diane",
       "url": "https://open.spotify.com/track/1Bc6DBlULAm002j4GeXP68"
-    },
-    {
-      "added_at": "2023-12-19 14:07:03",
-      "album": {
-        "name": "The Hawk Relaxes",
-        "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "When Day Is Done",
-      "url": "https://open.spotify.com/track/77fv87hNviECO3uWrKKKCM"
     },
     {
       "added_at": "2023-12-19 14:07:03",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-12-19 14:07:03",
       "album": {
+        "name": "The Hawk Relaxes",
+        "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        }
+      ],
+      "duration_ms": 356973,
+      "name": "Moonglow",
+      "url": "https://open.spotify.com/track/6X5JwYOrUQzMY1rYVTVKik"
+    },
+    {
+      "added_at": "2023-12-19 14:07:03",
+      "album": {
         "name": "Verve Jazz Masters 43: Ben Webster",
         "url": "https://open.spotify.com/album/4hafeOXr4qO4FqaFGRgCOe"
       },
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2023-12-19 14:07:03",
       "album": {
-        "name": "Jazz 'Round Midnight",
-        "url": "https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD"
-      },
-      "artists": [
-        {
-          "name": "The Ben Webster Quintet",
-          "url": "https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU"
-        }
-      ],
-      "duration_ms": 258160,
-      "name": "Time On My Hands",
-      "url": "https://open.spotify.com/track/4xqIedpD7DajzLlyS9b7rl"
-    },
-    {
-      "added_at": "2023-12-19 14:07:03",
-      "album": {
         "name": "Blue Hour",
         "url": "https://open.spotify.com/album/1Ho6TDqRIfgliR193SyRaO"
       },
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2023-12-19 14:07:03",
       "album": {
-        "name": "The Hawk Relaxes",
-        "url": "https://open.spotify.com/album/3fRgp7LyVaJow0lcZ9dZyH"
+        "name": "Jazz 'Round Midnight",
+        "url": "https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD"
       },
       "artists": [
         {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+          "name": "The Ben Webster Quintet",
+          "url": "https://open.spotify.com/artist/3jum9vTIyGt9e42ONsgeIU"
         }
       ],
-      "duration_ms": 356973,
-      "name": "Moonglow",
-      "url": "https://open.spotify.com/track/6X5JwYOrUQzMY1rYVTVKik"
+      "duration_ms": 258160,
+      "name": "Time On My Hands",
+      "url": "https://open.spotify.com/track/4xqIedpD7DajzLlyS9b7rl"
     }
   ],
   "unique_name": "Jazz Bar",

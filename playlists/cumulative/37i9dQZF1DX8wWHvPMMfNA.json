@@ -5872,7 +5872,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 304213,
       "name": "Just A Gigolo",
       "url": "https://open.spotify.com/track/1S653s5e7kQV7MxIKZcCIc"
@@ -9700,6 +9700,24 @@
       "duration_ms": 160919,
       "name": "Sometime Ago",
       "url": "https://open.spotify.com/track/6HZgxhesyOy8jkTiAFfQmR"
+    },
+    {
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/0shZE0rf62F4ei2ioJs9Fs"
+      },
+      "artists": [
+        {
+          "name": "Hermie",
+          "url": "https://open.spotify.com/artist/79egg74LRIcDzIxYb0XVSK"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224731,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/1o4HX3IdpPdoT3zB8bThhb"
     },
     {
       "album": {

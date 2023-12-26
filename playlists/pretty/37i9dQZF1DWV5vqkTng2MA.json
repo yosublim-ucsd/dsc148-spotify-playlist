@@ -1,12 +1,12 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Abraham Alexander",
-  "num_followers": 378170,
+  "num_followers": 378229,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODZjNWRmNzA2NjE1MjcxMGVjOGZmOWI5YTZkZThlNTU1ZDBmODhk",
+  "snapshot_id": "MCxmMzE5NDQ5MzUwOWIyZmUyODlkOGI3ZGIyMjlmYTg2ZDU0NDEwYjUy",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Half Mile Harvest",
-        "url": "https://open.spotify.com/album/6seixGAN22NspEmvRID4fG"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 240912,
-      "name": "Pain and Misery",
-      "url": "https://open.spotify.com/track/2W5dSuM7DDdWymjzZsICBn"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Coming Home (Deluxe)",
         "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 206386,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Half Mile Harvest",
+        "url": "https://open.spotify.com/album/6seixGAN22NspEmvRID4fG"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 240912,
+      "name": "Pain and Misery",
+      "url": "https://open.spotify.com/track/2W5dSuM7DDdWymjzZsICBn"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "If I Should Go Before You",
-        "url": "https://open.spotify.com/album/33HoOi4X8Q6QZNZVOuvPud"
-      },
-      "artists": [
-        {
-          "name": "City and Colour",
-          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
-        }
-      ],
-      "duration_ms": 234698,
-      "name": "Lover Come Back",
-      "url": "https://open.spotify.com/track/7G9yE2L2bXxqaQKVL2rKAr"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Coming Home (Deluxe)",
         "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
       },
@@ -451,6 +435,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "If I Should Go Before You",
+        "url": "https://open.spotify.com/album/33HoOi4X8Q6QZNZVOuvPud"
+      },
+      "artists": [
+        {
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+        }
+      ],
+      "duration_ms": 234698,
+      "name": "Lover Come Back",
+      "url": "https://open.spotify.com/track/7G9yE2L2bXxqaQKVL2rKAr"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "If My Wife New I'd Be Dead (Deluxe)",
         "url": "https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh"
       },
@@ -463,6 +463,22 @@
       "duration_ms": 244693,
       "name": "I Don't Really Care for You",
       "url": "https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Sound & Color",
+        "url": "https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 232546,
+      "name": "Don't Wanna Fight",
+      "url": "https://open.spotify.com/track/6q0lIjDSuZDhrg9GC9yUQO"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -515,38 +531,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 223120,
-      "name": "Jackie and Wilson",
-      "url": "https://open.spotify.com/track/0PywzrV955BnXDC8FHAf0n"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Sound & Color",
-        "url": "https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 232546,
-      "name": "Don't Wanna Fight",
-      "url": "https://open.spotify.com/track/6q0lIjDSuZDhrg9GC9yUQO"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Coming Home (Deluxe)",
         "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 183333,
       "name": "Smooth Sailin'",
       "url": "https://open.spotify.com/track/3jpeI1goQHPIwwCMxrLrwx"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 223120,
+      "name": "Jackie and Wilson",
+      "url": "https://open.spotify.com/track/0PywzrV955BnXDC8FHAf0n"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Kids In The Street",
+        "url": "https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU"
+      },
+      "artists": [
+        {
+          "name": "Justin Townes Earle",
+          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
+        }
+      ],
+      "duration_ms": 202320,
+      "name": "Trouble Is",
+      "url": "https://open.spotify.com/track/6hEXUoac3X1sDGUzMtzVPK"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "The Very Last Day",
         "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 245333,
       "name": "For the Time Being",
       "url": "https://open.spotify.com/track/0b0rwzZCms56M9VvEWkd0M"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Kids In The Street",
-        "url": "https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU"
-      },
-      "artists": [
-        {
-          "name": "Justin Townes Earle",
-          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
-        }
-      ],
-      "duration_ms": 202320,
-      "name": "Trouble Is",
-      "url": "https://open.spotify.com/track/6hEXUoac3X1sDGUzMtzVPK"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -891,6 +891,26 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "My Back Was A Bridge For You To Cross",
+        "url": "https://open.spotify.com/album/1dCATYrVa8hV0sbVGBGacz"
+      },
+      "artists": [
+        {
+          "name": "ANOHNI",
+          "url": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
+        },
+        {
+          "name": "Antony and the Johnsons",
+          "url": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
+        }
+      ],
+      "duration_ms": 295013,
+      "name": "It Must Change",
+      "url": "https://open.spotify.com/track/6IvbVGkQgz03zyOMR5eIkz"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "UNDIVIDED HEART & SOUL",
         "url": "https://open.spotify.com/album/3W3o75jSGuCqimWodjCUPB"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 204693,
       "name": "Diamond Studded Shoes",
       "url": "https://open.spotify.com/track/5SfM1f729pv1DdiEcyDiex"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "My Back Was A Bridge For You To Cross",
-        "url": "https://open.spotify.com/album/1dCATYrVa8hV0sbVGBGacz"
-      },
-      "artists": [
-        {
-          "name": "ANOHNI",
-          "url": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
-        },
-        {
-          "name": "Antony and the Johnsons",
-          "url": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
-        }
-      ],
-      "duration_ms": 295013,
-      "name": "It Must Change",
-      "url": "https://open.spotify.com/track/6IvbVGkQgz03zyOMR5eIkz"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Human Nature",
+        "url": "https://open.spotify.com/album/4qEAS3yOfHikRMdRiPI4Dg"
+      },
+      "artists": [
+        {
+          "name": "Caught A Ghost",
+          "url": "https://open.spotify.com/artist/2e898fil1F5umrc2LBtV93"
+        }
+      ],
+      "duration_ms": 208213,
+      "name": "No Sugar In My Coffee",
+      "url": "https://open.spotify.com/track/7KbVuShFCBsTKZQd5RIwYE"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/6vH6hPl0Woh6Cp1EUbpYq7"
       },
@@ -991,22 +1007,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Walk Through Fire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
-      },
-      "artists": [
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
-        }
-      ],
-      "duration_ms": 213204,
-      "name": "Love All Night (Work All Day)",
-      "url": "https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Allen Stone",
         "url": "https://open.spotify.com/album/6thR6jvixyobv21QPAQrcz"
       },
@@ -1019,22 +1019,6 @@
       "duration_ms": 146493,
       "name": "Sleep",
       "url": "https://open.spotify.com/track/5n7pR4SK5ZGuHHu3AiODJ2"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Human Nature",
-        "url": "https://open.spotify.com/album/4qEAS3yOfHikRMdRiPI4Dg"
-      },
-      "artists": [
-        {
-          "name": "Caught A Ghost",
-          "url": "https://open.spotify.com/artist/2e898fil1F5umrc2LBtV93"
-        }
-      ],
-      "duration_ms": 208213,
-      "name": "No Sugar In My Coffee",
-      "url": "https://open.spotify.com/track/7KbVuShFCBsTKZQd5RIwYE"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "CLAIM",
+        "url": "https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br"
+      },
+      "artists": [
+        {
+          "name": "Jesper Munk",
+          "url": "https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw"
+        }
+      ],
+      "duration_ms": 215853,
+      "name": "Morning Coffee",
+      "url": "https://open.spotify.com/track/5JChez1hix3cio2LrHgScq"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Manic Revelations",
         "url": "https://open.spotify.com/album/1Arn19nO6SGk8kA0cqN3MA"
       },
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "CLAIM",
-        "url": "https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br"
+        "name": "Walk Through Fire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0XOpyZAAkGomyeXBSQcFiL"
       },
       "artists": [
         {
-          "name": "Jesper Munk",
-          "url": "https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw"
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
         }
       ],
-      "duration_ms": 215853,
-      "name": "Morning Coffee",
-      "url": "https://open.spotify.com/track/5JChez1hix3cio2LrHgScq"
+      "duration_ms": 213204,
+      "name": "Love All Night (Work All Day)",
+      "url": "https://open.spotify.com/track/5hU65O4zB6ZadLcFWApNf8"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "All My Shades Of Blue",
-        "url": "https://open.spotify.com/album/5ZfLIL2IFjtgKAAxvW7WiJ"
-      },
-      "artists": [
-        {
-          "name": "Ruen Brothers",
-          "url": "https://open.spotify.com/artist/0CBu2ZuF5503TaauGVk1Go"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Summer Sun",
-      "url": "https://open.spotify.com/track/2YMIYzyip7FRqV1pasIGc9"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Gold Shadow",
         "url": "https://open.spotify.com/album/3ONqRU4a6LR16GJ80ld0Gz"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 156993,
       "name": "Over My Head",
       "url": "https://open.spotify.com/track/36G3OLXhaR43SQDAC98dzt"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "All My Shades Of Blue",
+        "url": "https://open.spotify.com/album/5ZfLIL2IFjtgKAAxvW7WiJ"
+      },
+      "artists": [
+        {
+          "name": "Ruen Brothers",
+          "url": "https://open.spotify.com/artist/0CBu2ZuF5503TaauGVk1Go"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Summer Sun",
+      "url": "https://open.spotify.com/track/2YMIYzyip7FRqV1pasIGc9"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/1FOyCt7ibwzAUlfvQYh28l"
+        "name": "First Time Feeling",
+        "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
       },
       "artists": [
         {
-          "name": "Jesse Roper",
-          "url": "https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt"
+          "name": "Leah Blevins",
+          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
         }
       ],
-      "duration_ms": 244108,
-      "name": "Two Wolves",
-      "url": "https://open.spotify.com/track/1AbzihR3bhDonO8mNidgEb"
+      "duration_ms": 186016,
+      "name": "First Time Feeling",
+      "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1439,18 +1439,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "First Time Feeling",
-        "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/1FOyCt7ibwzAUlfvQYh28l"
       },
       "artists": [
         {
-          "name": "Leah Blevins",
-          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
+          "name": "Jesse Roper",
+          "url": "https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt"
         }
       ],
-      "duration_ms": 186016,
-      "name": "First Time Feeling",
-      "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
+      "duration_ms": 244108,
+      "name": "Two Wolves",
+      "url": "https://open.spotify.com/track/1AbzihR3bhDonO8mNidgEb"
     },
     {
       "added_at": "2023-09-15 04:00:00",

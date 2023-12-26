@@ -1,12 +1,12 @@
 {
   "description": "Anda pa'lante galopante con los grandes del g\u00e9nero rom\u00e1ntico. Los Temerarios en portada. ",
-  "num_followers": 389984,
+  "num_followers": 390217,
   "original_name": "Romance Grupero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjE4YzMwYmQ5MjE1YzAzMDk4MzJhZWQ2Yjk4NDk1MjVhYjhiZmFm",
+  "snapshot_id": "MCw4ZDY4OGVhZWZiNDE5Zjk5MDU0NzBmZDdjZGEzNTliZjc2YTNiMmNh",
   "tracks": [
     {
       "added_at": "2023-09-05 19:24:08",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-09-05 19:24:08",
       "album": {
-        "name": "Internacionales Y Rom\u00e1nticos",
-        "url": "https://open.spotify.com/album/5Ze16psciPmtUvLIOLE5D3"
-      },
-      "artists": [
-        {
-          "name": "Los Temerarios",
-          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
-        }
-      ],
-      "duration_ms": 175013,
-      "name": "Ven Porque Te Necesito",
-      "url": "https://open.spotify.com/track/4MNfkZ8dtva3cjJ2biqnDS"
-    },
-    {
-      "added_at": "2023-09-05 19:24:08",
-      "album": {
         "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
         "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
       },
@@ -155,6 +139,22 @@
     {
       "added_at": "2023-09-05 19:24:08",
       "album": {
+        "name": "Internacionales Y Rom\u00e1nticos",
+        "url": "https://open.spotify.com/album/5Ze16psciPmtUvLIOLE5D3"
+      },
+      "artists": [
+        {
+          "name": "Los Temerarios",
+          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
+        }
+      ],
+      "duration_ms": 175013,
+      "name": "Ven Porque Te Necesito",
+      "url": "https://open.spotify.com/track/4MNfkZ8dtva3cjJ2biqnDS"
+    },
+    {
+      "added_at": "2023-09-05 19:24:08",
+      "album": {
         "name": "Ahora Y Siempre",
         "url": "https://open.spotify.com/album/5qyplunAv21gUahEdLkXe7"
       },
@@ -167,22 +167,6 @@
       "duration_ms": 203293,
       "name": "En La Misma Cama",
       "url": "https://open.spotify.com/track/6y7KWAnxSQcuDDW47wWs3E"
-    },
-    {
-      "added_at": "2023-09-05 19:24:08",
-      "album": {
-        "name": "Tu Amor Secreto",
-        "url": "https://open.spotify.com/album/1ICfNn1KnGQnjyXaYOiB3c"
-      },
-      "artists": [
-        {
-          "name": "Grupo Bryndis",
-          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
-        }
-      ],
-      "duration_ms": 214293,
-      "name": "Tu Traici\u00f3n",
-      "url": "https://open.spotify.com/track/2ObbqCZZgwK8VowFYf0RPh"
     },
     {
       "added_at": "2023-09-05 19:24:08",
@@ -219,18 +203,34 @@
     {
       "added_at": "2023-09-05 19:24:08",
       "album": {
-        "name": "Tu \u00daltima Canci\u00f3n",
-        "url": "https://open.spotify.com/album/0uunEJN1BK7y3yg2GncXxa"
+        "name": "L\u00e1piz Labial",
+        "url": "https://open.spotify.com/album/6FDTr5zPZrfMmeOsFaDTmt"
       },
       "artists": [
         {
-          "name": "Los Temerarios",
-          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
+          "name": "Los Felinos",
+          "url": "https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX"
         }
       ],
-      "duration_ms": 262333,
-      "name": "Tu \u00daltima Canci\u00f3n",
-      "url": "https://open.spotify.com/track/7dWSrvzawBZPa7VVeHZBn7"
+      "duration_ms": 172512,
+      "name": "L\u00e1piz Labial",
+      "url": "https://open.spotify.com/track/0bndT74WaGo5vnd6TLex8U"
+    },
+    {
+      "added_at": "2023-09-05 19:24:08",
+      "album": {
+        "name": "Tu Amor Secreto",
+        "url": "https://open.spotify.com/album/1ICfNn1KnGQnjyXaYOiB3c"
+      },
+      "artists": [
+        {
+          "name": "Grupo Bryndis",
+          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
+        }
+      ],
+      "duration_ms": 214293,
+      "name": "Tu Traici\u00f3n",
+      "url": "https://open.spotify.com/track/2ObbqCZZgwK8VowFYf0RPh"
     },
     {
       "added_at": "2023-09-05 19:24:08",
@@ -251,34 +251,18 @@
     {
       "added_at": "2023-09-05 19:24:08",
       "album": {
-        "name": "L\u00e1piz Labial",
-        "url": "https://open.spotify.com/album/6FDTr5zPZrfMmeOsFaDTmt"
+        "name": "Tu \u00daltima Canci\u00f3n",
+        "url": "https://open.spotify.com/album/0uunEJN1BK7y3yg2GncXxa"
       },
       "artists": [
         {
-          "name": "Los Felinos",
-          "url": "https://open.spotify.com/artist/6RVdNANISrVp76M0Wjy4hX"
+          "name": "Los Temerarios",
+          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
         }
       ],
-      "duration_ms": 172512,
-      "name": "L\u00e1piz Labial",
-      "url": "https://open.spotify.com/track/0bndT74WaGo5vnd6TLex8U"
-    },
-    {
-      "added_at": "2023-09-05 19:24:08",
-      "album": {
-        "name": "Hasta La Eternidad (Cl\u00e1sicos Digitalizados)",
-        "url": "https://open.spotify.com/album/6f3szSu0uNGBOmcW01a6ZN"
-      },
-      "artists": [
-        {
-          "name": "Los Acosta",
-          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
-        }
-      ],
-      "duration_ms": 239693,
-      "name": "Deja Una Rosa En Tu Balc\u00f3n",
-      "url": "https://open.spotify.com/track/1InGWsgNYr5cYTE4JWqGqu"
+      "duration_ms": 262333,
+      "name": "Tu \u00daltima Canci\u00f3n",
+      "url": "https://open.spotify.com/track/7dWSrvzawBZPa7VVeHZBn7"
     },
     {
       "added_at": "2023-09-05 19:24:08",
@@ -299,6 +283,22 @@
     {
       "added_at": "2023-09-05 19:24:08",
       "album": {
+        "name": "Hasta La Eternidad (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/6f3szSu0uNGBOmcW01a6ZN"
+      },
+      "artists": [
+        {
+          "name": "Los Acosta",
+          "url": "https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x"
+        }
+      ],
+      "duration_ms": 239693,
+      "name": "Deja Una Rosa En Tu Balc\u00f3n",
+      "url": "https://open.spotify.com/track/1InGWsgNYr5cYTE4JWqGqu"
+    },
+    {
+      "added_at": "2023-09-05 19:24:08",
+      "album": {
         "name": "Puras Rom\u00e1nticas",
         "url": "https://open.spotify.com/album/22G9x42HPowUEACL8QxuAD"
       },
@@ -315,18 +315,18 @@
     {
       "added_at": "2023-09-05 19:24:08",
       "album": {
-        "name": "Como Te Recuerdo",
-        "url": "https://open.spotify.com/album/4VwV8hjVXteVkVNDCYPN1M"
+        "name": "Yo Te Necesito",
+        "url": "https://open.spotify.com/album/3hEe5rX51oJiXS3Lv9Yeiz"
       },
       "artists": [
         {
-          "name": "Los Temerarios",
-          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
         }
       ],
-      "duration_ms": 305293,
-      "name": "Como Te Recuerdo",
-      "url": "https://open.spotify.com/track/3CH8ti307xUz5NlaHoQBPR"
+      "duration_ms": 178240,
+      "name": "Yo Te Necesito",
+      "url": "https://open.spotify.com/track/7yMWuJ6JOZ8Joo5gQrNaYA"
     },
     {
       "added_at": "2023-09-05 19:24:08",
@@ -343,22 +343,6 @@
       "duration_ms": 254440,
       "name": "La Loca",
       "url": "https://open.spotify.com/track/7mpz4Drmu692aPo4qsaHTC"
-    },
-    {
-      "added_at": "2023-09-05 19:24:08",
-      "album": {
-        "name": "Yo Te Necesito",
-        "url": "https://open.spotify.com/album/3hEe5rX51oJiXS3Lv9Yeiz"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 178240,
-      "name": "Yo Te Necesito",
-      "url": "https://open.spotify.com/track/7yMWuJ6JOZ8Joo5gQrNaYA"
     },
     {
       "added_at": "2023-09-05 19:24:08",
@@ -399,24 +383,8 @@
     {
       "added_at": "2023-09-05 19:24:08",
       "album": {
-        "name": "En El Camino",
-        "url": "https://open.spotify.com/album/6JckkNzJVY33kAwZ7FOd4J"
-      },
-      "artists": [
-        {
-          "name": "Mandingo",
-          "url": "https://open.spotify.com/artist/4KPkl90SSF2y1VYNt7dmba"
-        }
-      ],
-      "duration_ms": 158373,
-      "name": "Te V\u00ed Con El",
-      "url": "https://open.spotify.com/track/3TK5wK5bPpM4vIpAmkhkuX"
-    },
-    {
-      "added_at": "2023-09-05 19:24:08",
-      "album": {
-        "name": "Tu \u00daltima Canci\u00f3n",
-        "url": "https://open.spotify.com/album/0uunEJN1BK7y3yg2GncXxa"
+        "name": "Como Te Recuerdo",
+        "url": "https://open.spotify.com/album/4VwV8hjVXteVkVNDCYPN1M"
       },
       "artists": [
         {
@@ -424,9 +392,9 @@
           "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
         }
       ],
-      "duration_ms": 249200,
-      "name": "Enamorado de Ti",
-      "url": "https://open.spotify.com/track/3pY68z0dH4i4gF1zzONS0q"
+      "duration_ms": 305293,
+      "name": "Como Te Recuerdo",
+      "url": "https://open.spotify.com/track/3CH8ti307xUz5NlaHoQBPR"
     },
     {
       "added_at": "2023-09-05 19:24:08",
@@ -443,6 +411,22 @@
       "duration_ms": 245786,
       "name": "Mi Mayor Necesidad",
       "url": "https://open.spotify.com/track/5Cl5cfFNJTnTmtgSwleobq"
+    },
+    {
+      "added_at": "2023-09-05 19:24:08",
+      "album": {
+        "name": "En El Camino",
+        "url": "https://open.spotify.com/album/6JckkNzJVY33kAwZ7FOd4J"
+      },
+      "artists": [
+        {
+          "name": "Mandingo",
+          "url": "https://open.spotify.com/artist/4KPkl90SSF2y1VYNt7dmba"
+        }
+      ],
+      "duration_ms": 158373,
+      "name": "Te V\u00ed Con El",
+      "url": "https://open.spotify.com/track/3TK5wK5bPpM4vIpAmkhkuX"
     },
     {
       "added_at": "2023-09-05 19:24:08",
@@ -495,6 +479,22 @@
     {
       "added_at": "2023-09-05 19:24:08",
       "album": {
+        "name": "Tu \u00daltima Canci\u00f3n",
+        "url": "https://open.spotify.com/album/0uunEJN1BK7y3yg2GncXxa"
+      },
+      "artists": [
+        {
+          "name": "Los Temerarios",
+          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
+        }
+      ],
+      "duration_ms": 249200,
+      "name": "Enamorado de Ti",
+      "url": "https://open.spotify.com/track/3pY68z0dH4i4gF1zzONS0q"
+    },
+    {
+      "added_at": "2023-09-05 19:24:08",
+      "album": {
         "name": "Los Felinos",
         "url": "https://open.spotify.com/album/4PskUSrvXsKUQ6V0YSlVdI"
       },
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-09-05 19:24:08",
       "album": {
-        "name": "Verano De Amor",
-        "url": "https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5"
-      },
-      "artists": [
-        {
-          "name": "Industria del Amor",
-          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
-        }
-      ],
-      "duration_ms": 210800,
-      "name": "Rosas Rojas",
-      "url": "https://open.spotify.com/track/4Yu2U0ItuhN1eZ5rA5wAtZ"
-    },
-    {
-      "added_at": "2023-09-05 19:24:08",
-      "album": {
         "name": "10 De Coleccion",
         "url": "https://open.spotify.com/album/5Gg6sl1wzelCYH6FloTo0O"
       },
@@ -539,38 +523,6 @@
       "duration_ms": 190560,
       "name": "Amor Se Escribe Con Llanto",
       "url": "https://open.spotify.com/track/0EkZZm6d3j05yrFfKkAHn7"
-    },
-    {
-      "added_at": "2023-09-05 19:24:08",
-      "album": {
-        "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
-        "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
-      },
-      "artists": [
-        {
-          "name": "Los Caminantes",
-          "url": "https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut"
-        }
-      ],
-      "duration_ms": 193880,
-      "name": "Amor Sin Palabras",
-      "url": "https://open.spotify.com/track/199p1rquWNc5inYj6u8UhW"
-    },
-    {
-      "added_at": "2023-09-05 19:24:08",
-      "album": {
-        "name": "\u00daltimas Noticias",
-        "url": "https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177"
-      },
-      "artists": [
-        {
-          "name": "Viento Y Sol",
-          "url": "https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s"
-        }
-      ],
-      "duration_ms": 173133,
-      "name": "Ultimas Noticias",
-      "url": "https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I"
     },
     {
       "added_at": "2023-09-05 19:24:08",
@@ -619,6 +571,54 @@
       "duration_ms": 202920,
       "name": "Nuestra Canci\u00f3n",
       "url": "https://open.spotify.com/track/6t86si8IaIgLHEuZnaha33"
+    },
+    {
+      "added_at": "2023-09-05 19:24:08",
+      "album": {
+        "name": "Nuestras Canciones Romanticas Favoritas \"20 Exitazos\"",
+        "url": "https://open.spotify.com/album/0laRQXcW652scqzEAKqRMM"
+      },
+      "artists": [
+        {
+          "name": "Los Caminantes",
+          "url": "https://open.spotify.com/artist/6ziEnj8UydSg8dr68C3aut"
+        }
+      ],
+      "duration_ms": 193880,
+      "name": "Amor Sin Palabras",
+      "url": "https://open.spotify.com/track/199p1rquWNc5inYj6u8UhW"
+    },
+    {
+      "added_at": "2023-09-05 19:24:08",
+      "album": {
+        "name": "Verano De Amor",
+        "url": "https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5"
+      },
+      "artists": [
+        {
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+        }
+      ],
+      "duration_ms": 210800,
+      "name": "Rosas Rojas",
+      "url": "https://open.spotify.com/track/4Yu2U0ItuhN1eZ5rA5wAtZ"
+    },
+    {
+      "added_at": "2023-09-05 19:24:08",
+      "album": {
+        "name": "\u00daltimas Noticias",
+        "url": "https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177"
+      },
+      "artists": [
+        {
+          "name": "Viento Y Sol",
+          "url": "https://open.spotify.com/artist/4d4OGW8V5resuylQWT6S9s"
+        }
+      ],
+      "duration_ms": 173133,
+      "name": "Ultimas Noticias",
+      "url": "https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I"
     },
     {
       "added_at": "2023-09-05 19:24:08",
@@ -703,38 +703,6 @@
     {
       "added_at": "2023-09-05 19:24:08",
       "album": {
-        "name": "Para Ti",
-        "url": "https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM"
-      },
-      "artists": [
-        {
-          "name": "Industria del Amor",
-          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
-        }
-      ],
-      "duration_ms": 217026,
-      "name": "Y T\u00fa Con \u00c9l",
-      "url": "https://open.spotify.com/track/1UcuiA4y04FqFZnWUBGIDS"
-    },
-    {
-      "added_at": "2023-09-05 19:24:08",
-      "album": {
-        "name": "Salvaje Y Tierno",
-        "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 190653,
-      "name": "Oro",
-      "url": "https://open.spotify.com/track/50QgKV8vabHHc7au535IqK"
-    },
-    {
-      "added_at": "2023-09-05 19:24:08",
-      "album": {
         "name": "Album de Oro",
         "url": "https://open.spotify.com/album/7yZcbdxZv4trwSe3RfY8LE"
       },
@@ -747,6 +715,22 @@
       "duration_ms": 208640,
       "name": "Voy a pintar un coraz\u00f3n",
       "url": "https://open.spotify.com/track/6ztkxjvne5bjzUUnoskShx"
+    },
+    {
+      "added_at": "2023-09-05 19:24:08",
+      "album": {
+        "name": "Para Ti",
+        "url": "https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM"
+      },
+      "artists": [
+        {
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+        }
+      ],
+      "duration_ms": 217026,
+      "name": "Y T\u00fa Con \u00c9l",
+      "url": "https://open.spotify.com/track/1UcuiA4y04FqFZnWUBGIDS"
     },
     {
       "added_at": "2023-09-05 19:24:08",
@@ -767,34 +751,18 @@
     {
       "added_at": "2023-09-05 19:24:08",
       "album": {
-        "name": "16 \u00c9xitos De Oro",
-        "url": "https://open.spotify.com/album/3E6LOBclSiqtnKW3WWJND9"
+        "name": "Salvaje Y Tierno",
+        "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
       },
       "artists": [
         {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
         }
       ],
-      "duration_ms": 213600,
-      "name": "Soy Yo",
-      "url": "https://open.spotify.com/track/49NsFSiOiBOYDAYfZz4fjl"
-    },
-    {
-      "added_at": "2023-09-05 19:24:08",
-      "album": {
-        "name": "Preg\u00fantame A Mi",
-        "url": "https://open.spotify.com/album/0HHGcxzBZPPXvS58Jnyc8k"
-      },
-      "artists": [
-        {
-          "name": "Los Rehenes",
-          "url": "https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8"
-        }
-      ],
-      "duration_ms": 174293,
-      "name": "Ni El Primero Ni El \u00daltimo",
-      "url": "https://open.spotify.com/track/5s5K4wDAyhKr9KANDwt1xI"
+      "duration_ms": 190653,
+      "name": "Oro",
+      "url": "https://open.spotify.com/track/50QgKV8vabHHc7au535IqK"
     },
     {
       "added_at": "2023-09-05 19:24:08",
@@ -815,6 +783,38 @@
     {
       "added_at": "2023-09-05 19:24:08",
       "album": {
+        "name": "Preg\u00fantame A Mi",
+        "url": "https://open.spotify.com/album/0HHGcxzBZPPXvS58Jnyc8k"
+      },
+      "artists": [
+        {
+          "name": "Los Rehenes",
+          "url": "https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8"
+        }
+      ],
+      "duration_ms": 174293,
+      "name": "Ni El Primero Ni El \u00daltimo",
+      "url": "https://open.spotify.com/track/5s5K4wDAyhKr9KANDwt1xI"
+    },
+    {
+      "added_at": "2023-09-05 19:24:08",
+      "album": {
+        "name": "16 \u00c9xitos De Oro",
+        "url": "https://open.spotify.com/album/3E6LOBclSiqtnKW3WWJND9"
+      },
+      "artists": [
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/49NsFSiOiBOYDAYfZz4fjl"
+    },
+    {
+      "added_at": "2023-09-05 19:24:08",
+      "album": {
         "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
         "url": "https://open.spotify.com/album/3RMafNWPxjqnrg1MU44Uei"
       },
@@ -827,38 +827,6 @@
       "duration_ms": 194426,
       "name": "Par De Anillos",
       "url": "https://open.spotify.com/track/3hNa7iKRzCK06IawGLlsbz"
-    },
-    {
-      "added_at": "2023-09-05 19:24:08",
-      "album": {
-        "name": "Desde El Corazon",
-        "url": "https://open.spotify.com/album/6f0iQNDK9xsmaWfiuhFUj5"
-      },
-      "artists": [
-        {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
-        }
-      ],
-      "duration_ms": 173626,
-      "name": "Notas de Sociedad",
-      "url": "https://open.spotify.com/track/1SZCsIFSRXG2m6J6GFqv4g"
-    },
-    {
-      "added_at": "2023-09-05 19:24:08",
-      "album": {
-        "name": "Siempre Te Amar\u00e9",
-        "url": "https://open.spotify.com/album/2vBkgzqbxptOQOnFqwJHos"
-      },
-      "artists": [
-        {
-          "name": "Los Yonic's",
-          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
-        }
-      ],
-      "duration_ms": 237440,
-      "name": "Perd\u00f3n Por Tus L\u00e1grimas",
-      "url": "https://open.spotify.com/track/3YoLl2RHRhzKg3WhpaFRES"
     },
     {
       "added_at": "2023-09-05 19:24:08",
@@ -879,6 +847,22 @@
     {
       "added_at": "2023-09-05 19:24:08",
       "album": {
+        "name": "Desde El Corazon",
+        "url": "https://open.spotify.com/album/6f0iQNDK9xsmaWfiuhFUj5"
+      },
+      "artists": [
+        {
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+        }
+      ],
+      "duration_ms": 173626,
+      "name": "Notas de Sociedad",
+      "url": "https://open.spotify.com/track/1SZCsIFSRXG2m6J6GFqv4g"
+    },
+    {
+      "added_at": "2023-09-05 19:24:08",
+      "album": {
         "name": "En La Luna",
         "url": "https://open.spotify.com/album/5WafO5nBowjxkbpA8c2ase"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 192029,
       "name": "P\u00eddeme La Luna",
       "url": "https://open.spotify.com/track/09CI3BbRrcwkCoRU0ho2RR"
+    },
+    {
+      "added_at": "2023-09-05 19:24:08",
+      "album": {
+        "name": "Siempre Te Amar\u00e9",
+        "url": "https://open.spotify.com/album/2vBkgzqbxptOQOnFqwJHos"
+      },
+      "artists": [
+        {
+          "name": "Los Yonic's",
+          "url": "https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt"
+        }
+      ],
+      "duration_ms": 237440,
+      "name": "Perd\u00f3n Por Tus L\u00e1grimas",
+      "url": "https://open.spotify.com/track/3YoLl2RHRhzKg3WhpaFRES"
     },
     {
       "added_at": "2023-09-05 19:24:08",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-09-05 19:24:08",
       "album": {
-        "name": "Contigo O Sin Ti",
-        "url": "https://open.spotify.com/album/0ksx8DM2NPBg7EuRB2qUFZ"
-      },
-      "artists": [
-        {
-          "name": "Samuray",
-          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
-        }
-      ],
-      "duration_ms": 218066,
-      "name": "Contigo O Sin Ti",
-      "url": "https://open.spotify.com/track/6DkYArFhupR3gX2v8yDLhK"
-    },
-    {
-      "added_at": "2023-09-05 19:24:08",
-      "album": {
         "name": "Quier\u00e9me M\u00e1s",
         "url": "https://open.spotify.com/album/2wsCHBk0u8GntU6sWCF14j"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 238493,
       "name": "Qui\u00e9reme M\u00e1s",
       "url": "https://open.spotify.com/track/3pFenid397ZiUWJKGW668V"
+    },
+    {
+      "added_at": "2023-09-05 19:24:08",
+      "album": {
+        "name": "Contigo O Sin Ti",
+        "url": "https://open.spotify.com/album/0ksx8DM2NPBg7EuRB2qUFZ"
+      },
+      "artists": [
+        {
+          "name": "Samuray",
+          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
+        }
+      ],
+      "duration_ms": 218066,
+      "name": "Contigo O Sin Ti",
+      "url": "https://open.spotify.com/track/6DkYArFhupR3gX2v8yDLhK"
     },
     {
       "added_at": "2023-09-05 19:24:08",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-09-05 19:24:08",
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/47BG0SjWkoyPPCYbEGF8gM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Libra",
-          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
-        }
-      ],
-      "duration_ms": 210976,
-      "name": "A Mentir A La Calle",
-      "url": "https://open.spotify.com/track/05ww9jCVHDWWucXYarb3r2"
-    },
-    {
-      "added_at": "2023-09-05 19:24:08",
-      "album": {
         "name": "Viva el Amor",
         "url": "https://open.spotify.com/album/6agj4FL2hImOYAV3WAGXBN"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 159306,
       "name": "Dulcemente Enamorada",
       "url": "https://open.spotify.com/track/2hWTlxqGczIVUC3tl6LaMJ"
+    },
+    {
+      "added_at": "2023-09-05 19:24:08",
+      "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/47BG0SjWkoyPPCYbEGF8gM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Libra",
+          "url": "https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt"
+        }
+      ],
+      "duration_ms": 210976,
+      "name": "A Mentir A La Calle",
+      "url": "https://open.spotify.com/track/05ww9jCVHDWWucXYarb3r2"
     },
     {
       "added_at": "2023-09-05 19:24:08",
@@ -1063,38 +1063,6 @@
     {
       "added_at": "2023-09-05 19:24:08",
       "album": {
-        "name": "Un D\u00eda Sin Ti",
-        "url": "https://open.spotify.com/album/5bsMdv3Jx9RYsTVMRyuYw8"
-      },
-      "artists": [
-        {
-          "name": "Samuray",
-          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
-        }
-      ],
-      "duration_ms": 214346,
-      "name": "Un D\u00eda Sin Ti",
-      "url": "https://open.spotify.com/track/0d84xhPNswA2pckcvtzQlV"
-    },
-    {
-      "added_at": "2023-09-05 19:24:08",
-      "album": {
-        "name": "Amor, Familia Y Respeto",
-        "url": "https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ"
-      },
-      "artists": [
-        {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Te Quiero A T\u00ed",
-      "url": "https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq"
-    },
-    {
-      "added_at": "2023-09-05 19:24:08",
-      "album": {
         "name": "Ilusiones",
         "url": "https://open.spotify.com/album/2x3WVxktKtTosn6ezwNzXL"
       },
@@ -1111,6 +1079,22 @@
     {
       "added_at": "2023-09-05 19:24:08",
       "album": {
+        "name": "Un D\u00eda Sin Ti",
+        "url": "https://open.spotify.com/album/5bsMdv3Jx9RYsTVMRyuYw8"
+      },
+      "artists": [
+        {
+          "name": "Samuray",
+          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
+        }
+      ],
+      "duration_ms": 214346,
+      "name": "Un D\u00eda Sin Ti",
+      "url": "https://open.spotify.com/track/0d84xhPNswA2pckcvtzQlV"
+    },
+    {
+      "added_at": "2023-09-05 19:24:08",
+      "album": {
         "name": "Juntos Para Siempre",
         "url": "https://open.spotify.com/album/0hzBrUq9vGTTyb0TnAdAjU"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 205400,
       "name": "Me Est\u00e1 Doliendo Dejarte",
       "url": "https://open.spotify.com/track/1S05r50Qef8J6Yh6sGtjPj"
+    },
+    {
+      "added_at": "2023-09-05 19:24:08",
+      "album": {
+        "name": "Amor, Familia Y Respeto",
+        "url": "https://open.spotify.com/album/5XuNzqgx79H4Z2jhfdzFFQ"
+      },
+      "artists": [
+        {
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "Te Quiero A T\u00ed",
+      "url": "https://open.spotify.com/track/4v9dVYIvD3EFuzWiXngmDq"
     },
     {
       "added_at": "2023-09-05 19:24:08",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-09-05 19:24:08",
       "album": {
+        "name": "Verano De Amor",
+        "url": "https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5"
+      },
+      "artists": [
+        {
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+        }
+      ],
+      "duration_ms": 205346,
+      "name": "Me Quede Llorando",
+      "url": "https://open.spotify.com/track/1miGbo3IxDxe1im0b4fvBM"
+    },
+    {
+      "added_at": "2023-09-05 19:24:08",
+      "album": {
         "name": "Romances",
         "url": "https://open.spotify.com/album/5QaE8igXsDA3r0Vz8xg7Wq"
       },
@@ -1179,34 +1195,18 @@
     {
       "added_at": "2023-09-05 19:24:08",
       "album": {
-        "name": "Verano De Amor",
-        "url": "https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5"
+        "name": "Vanidosa",
+        "url": "https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs"
       },
       "artists": [
         {
-          "name": "Industria del Amor",
-          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+          "name": "Los Fugitivos",
+          "url": "https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq"
         }
       ],
-      "duration_ms": 205346,
-      "name": "Me Quede Llorando",
-      "url": "https://open.spotify.com/track/1miGbo3IxDxe1im0b4fvBM"
-    },
-    {
-      "added_at": "2023-09-05 19:24:08",
-      "album": {
-        "name": "Dulce Veneno",
-        "url": "https://open.spotify.com/album/0LKfjHqTJ4Gp6F0HPplz1D"
-      },
-      "artists": [
-        {
-          "name": "Los Due\u00f1os Del Sol",
-          "url": "https://open.spotify.com/artist/1RN7jx2p7hBFXKJ2HyYu8d"
-        }
-      ],
-      "duration_ms": 200620,
-      "name": "Dulce Veneno",
-      "url": "https://open.spotify.com/track/1rg9ILnB4n7cxlO9UdIXaG"
+      "duration_ms": 184733,
+      "name": "Es Que Te Amo",
+      "url": "https://open.spotify.com/track/201DoWLysj5vR8va945CCW"
     },
     {
       "added_at": "2023-09-05 19:24:08",
@@ -1227,34 +1227,34 @@
     {
       "added_at": "2023-09-05 19:24:08",
       "album": {
-        "name": "Vanidosa",
-        "url": "https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs"
+        "name": "Juntos Para Siempre",
+        "url": "https://open.spotify.com/album/0hzBrUq9vGTTyb0TnAdAjU"
       },
       "artists": [
         {
-          "name": "Los Fugitivos",
-          "url": "https://open.spotify.com/artist/4S7UxwDIG6o3FJkcGPdaBq"
+          "name": "Los Mismos",
+          "url": "https://open.spotify.com/artist/7nkBA0CcBFVR78vPhgcTa7"
         }
       ],
-      "duration_ms": 184733,
-      "name": "Es Que Te Amo",
-      "url": "https://open.spotify.com/track/201DoWLysj5vR8va945CCW"
+      "duration_ms": 188906,
+      "name": "Se Fue Mi Paloma",
+      "url": "https://open.spotify.com/track/6v4btqrnQRhliof9wGuB3I"
     },
     {
       "added_at": "2023-09-05 19:24:08",
       "album": {
-        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
-        "url": "https://open.spotify.com/album/6LSJiYBx30s3rMhgUGJPCs"
+        "name": "Dulce Veneno",
+        "url": "https://open.spotify.com/album/0LKfjHqTJ4Gp6F0HPplz1D"
       },
       "artists": [
         {
-          "name": "Los Rehenes",
-          "url": "https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8"
+          "name": "Los Due\u00f1os Del Sol",
+          "url": "https://open.spotify.com/artist/1RN7jx2p7hBFXKJ2HyYu8d"
         }
       ],
-      "duration_ms": 169146,
-      "name": "Cosas Buenas Que Parecen Malas",
-      "url": "https://open.spotify.com/track/22gj9wemYAZa74lfk38eqN"
+      "duration_ms": 200620,
+      "name": "Dulce Veneno",
+      "url": "https://open.spotify.com/track/1rg9ILnB4n7cxlO9UdIXaG"
     },
     {
       "added_at": "2023-09-05 19:24:08",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2023-09-05 19:24:08",
       "album": {
-        "name": "Juntos Para Siempre",
-        "url": "https://open.spotify.com/album/0hzBrUq9vGTTyb0TnAdAjU"
+        "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
+        "url": "https://open.spotify.com/album/6LSJiYBx30s3rMhgUGJPCs"
       },
       "artists": [
         {
-          "name": "Los Mismos",
-          "url": "https://open.spotify.com/artist/7nkBA0CcBFVR78vPhgcTa7"
+          "name": "Los Rehenes",
+          "url": "https://open.spotify.com/artist/5IaAggho4F1gWHE5REe1e8"
         }
       ],
-      "duration_ms": 188906,
-      "name": "Se Fue Mi Paloma",
-      "url": "https://open.spotify.com/track/6v4btqrnQRhliof9wGuB3I"
+      "duration_ms": 169146,
+      "name": "Cosas Buenas Que Parecen Malas",
+      "url": "https://open.spotify.com/track/22gj9wemYAZa74lfk38eqN"
     },
     {
       "added_at": "2023-09-05 19:24:08",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2023-09-05 19:24:08",
       "album": {
+        "name": "Lo Mas Romantico De Ayer Con Los Mas Romanticos De Hoy",
+        "url": "https://open.spotify.com/album/3It5f5lrSbIRS97VcFfJZc"
+      },
+      "artists": [
+        {
+          "name": "Guardianes Del Amor",
+          "url": "https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx"
+        }
+      ],
+      "duration_ms": 218200,
+      "name": "Dame un Beso y Dime Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1ysGXIszdrfCtyALss67QP"
+    },
+    {
+      "added_at": "2023-09-05 19:24:08",
+      "album": {
         "name": "Que No Quede Huella",
         "url": "https://open.spotify.com/album/7wKNGBwWNMq7pb0bNFOaed"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 196066,
       "name": "D\u00e9jala Que Se Divierta",
       "url": "https://open.spotify.com/track/3T9kuZcg6HoPlHSwVSdhDj"
-    },
-    {
-      "added_at": "2023-09-05 19:24:08",
-      "album": {
-        "name": "Lo Mas Romantico De Ayer Con Los Mas Romanticos De Hoy",
-        "url": "https://open.spotify.com/album/3It5f5lrSbIRS97VcFfJZc"
-      },
-      "artists": [
-        {
-          "name": "Guardianes Del Amor",
-          "url": "https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx"
-        }
-      ],
-      "duration_ms": 218200,
-      "name": "Dame un Beso y Dime Adi\u00f3s",
-      "url": "https://open.spotify.com/track/1ysGXIszdrfCtyALss67QP"
     },
     {
       "added_at": "2023-09-05 19:24:08",

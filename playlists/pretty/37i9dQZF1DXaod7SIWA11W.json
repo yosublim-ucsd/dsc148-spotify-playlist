@@ -1,12 +1,12 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover: <a href=\"spotify:artist:5YxebzzreNswbtYC1td4cx\">Tasha Cobbs Leonard</a> ",
-  "num_followers": 65901,
+  "num_followers": 65936,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNzY2YjgxZDc1MDdjMWEzYmE0NjJlZGI4ODY4MGFkNzc3YmRhNGZh",
+  "snapshot_id": "MCwxNGFhMmE0MjMyMThiZGVlNjgxMDAwYTY0NzhkMWZhZWRiNTkxYTZl",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "All Things",
-        "url": "https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 189799,
-      "name": "All Things",
-      "url": "https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Desire Pt. 2",
         "url": "https://open.spotify.com/album/3sR1BpjFiSiBYIakNA09Ne"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 160308,
       "name": "Desire Pt. 2",
       "url": "https://open.spotify.com/track/4KyLwJ8ozG534aCtba71qO"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "All Things",
+        "url": "https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 189799,
+      "name": "All Things",
+      "url": "https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "My Tribe (Extended Edition)",
+        "url": "https://open.spotify.com/album/4xwLMnQG1UoZ4uP6DN8gG8"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 163457,
+      "name": "Good Good",
+      "url": "https://open.spotify.com/track/5ISFFwzDlnzcFrvhp0egaf"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Any Attack",
         "url": "https://open.spotify.com/album/4ExHApgVElRUkAatEQYFgg"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 113051,
       "name": "Any Attack",
       "url": "https://open.spotify.com/track/0RPgPDZ7hoAJRyaS7uTF3y"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "My Tribe (Extended Edition)",
-        "url": "https://open.spotify.com/album/4xwLMnQG1UoZ4uP6DN8gG8"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 163457,
-      "name": "Good Good",
-      "url": "https://open.spotify.com/track/5ISFFwzDlnzcFrvhp0egaf"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Legendary",
+        "url": "https://open.spotify.com/album/3k3jLvON0A6tUcrwFYq7X8"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 129843,
+      "name": "Legendary",
+      "url": "https://open.spotify.com/track/7jBZrY5Em6uhlNIrS8tazh"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "FIND MY WAY",
         "url": "https://open.spotify.com/album/6zMB1gaaFKxJIWQtYnsES5"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 110030,
       "name": "FIND MY WAY",
       "url": "https://open.spotify.com/track/32oM6ZiwrFcXtscoQWpN76"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Legendary",
-        "url": "https://open.spotify.com/album/3k3jLvON0A6tUcrwFYq7X8"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 129843,
-      "name": "Legendary",
-      "url": "https://open.spotify.com/track/7jBZrY5Em6uhlNIrS8tazh"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Matthew 6:33",
+        "url": "https://open.spotify.com/album/7ChiyCA6LkJQiQY4IsovDb"
+      },
+      "artists": [
+        {
+          "name": "ALIA LARA",
+          "url": "https://open.spotify.com/artist/7LZtbcOzfx11Fhapw8iiOO"
+        }
+      ],
+      "duration_ms": 182019,
+      "name": "Matthew 6:33",
+      "url": "https://open.spotify.com/track/5mARaySmtSd60C7UHgQvuk"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "More On The Way (feat. nobigdyl.)",
         "url": "https://open.spotify.com/album/6sbOyBtYzDFuhFLfunI85F"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 194565,
       "name": "More On The Way (feat. nobigdyl.)",
       "url": "https://open.spotify.com/track/6ZcFR4CvTxdEjTKwgTNcg1"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Matthew 6:33",
-        "url": "https://open.spotify.com/album/7ChiyCA6LkJQiQY4IsovDb"
-      },
-      "artists": [
-        {
-          "name": "ALIA LARA",
-          "url": "https://open.spotify.com/artist/7LZtbcOzfx11Fhapw8iiOO"
-        }
-      ],
-      "duration_ms": 182019,
-      "name": "Matthew 6:33",
-      "url": "https://open.spotify.com/track/5mARaySmtSd60C7UHgQvuk"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/0qAatrpLz8e3mTDfgehXCH"
-      },
-      "artists": [
-        {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
-        }
-      ],
-      "duration_ms": 154970,
-      "name": "Glory",
-      "url": "https://open.spotify.com/track/4srODfoVNeEl1Djn2ZAvKc"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Nothing",
         "url": "https://open.spotify.com/album/6bLyGhK2QLpi8yS3GWtRML"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 216000,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/6BFVwjDZLLtmxaxsl1t3lP"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/0qAatrpLz8e3mTDfgehXCH"
+      },
+      "artists": [
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        }
+      ],
+      "duration_ms": 154970,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/4srODfoVNeEl1Djn2ZAvKc"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1047,26 +1047,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Mansion",
-        "url": "https://open.spotify.com/album/5M1yhftzJLwUKtj8xp06HN"
-      },
-      "artists": [
-        {
-          "name": "Dwan Hill",
-          "url": "https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ"
-        },
-        {
-          "name": "Evvie McKinney",
-          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
-        }
-      ],
-      "duration_ms": 251490,
-      "name": "Mansion",
-      "url": "https://open.spotify.com/track/2b61pV5moornb1nvpPuK9N"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Valley (CalledOut Music Remix)",
         "url": "https://open.spotify.com/album/6K8MrDCAJxTbGdBNKgXiLp"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 187124,
       "name": "Valley - CalledOut Music Remix",
       "url": "https://open.spotify.com/track/56SVOpxc9ilgsoM5vjGNSf"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Mansion",
+        "url": "https://open.spotify.com/album/5M1yhftzJLwUKtj8xp06HN"
+      },
+      "artists": [
+        {
+          "name": "Dwan Hill",
+          "url": "https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ"
+        },
+        {
+          "name": "Evvie McKinney",
+          "url": "https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ"
+        }
+      ],
+      "duration_ms": 251490,
+      "name": "Mansion",
+      "url": "https://open.spotify.com/track/2b61pV5moornb1nvpPuK9N"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "It's Alright",
-        "url": "https://open.spotify.com/album/4EEMuP3WN69ObKivvZ8d5V"
-      },
-      "artists": [
-        {
-          "name": "S.O.",
-          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
-        }
-      ],
-      "duration_ms": 205635,
-      "name": "It's Alright",
-      "url": "https://open.spotify.com/track/3INuuULY6TANh1Aov4Cxc8"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Kingdom Business",
         "url": "https://open.spotify.com/album/7slHnMjanj0tMxf0jVcQbr"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 210631,
       "name": "Kingdom Business",
       "url": "https://open.spotify.com/track/0eRXjkHgPK8nfgSz1W6On8"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "It's Alright",
+        "url": "https://open.spotify.com/album/4EEMuP3WN69ObKivvZ8d5V"
+      },
+      "artists": [
+        {
+          "name": "S.O.",
+          "url": "https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33"
+        }
+      ],
+      "duration_ms": 205635,
+      "name": "It's Alright",
+      "url": "https://open.spotify.com/track/3INuuULY6TANh1Aov4Cxc8"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "My Worship",
+        "url": "https://open.spotify.com/album/1QzUNxdSUQ1cWY0Q7wzP3v"
+      },
+      "artists": [
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        }
+      ],
+      "duration_ms": 201938,
+      "name": "My Worship",
+      "url": "https://open.spotify.com/track/6YJdaaNqDeks5Q0zYuTAw7"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Blues and Roses",
         "url": "https://open.spotify.com/album/1ZFR3JEObwGawMRnvj2ZDY"
       },
@@ -1303,18 +1319,34 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "My Worship",
-        "url": "https://open.spotify.com/album/1QzUNxdSUQ1cWY0Q7wzP3v"
+        "name": "It's You",
+        "url": "https://open.spotify.com/album/6aS85jgNXuGFYN190ytedS"
       },
       "artists": [
         {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+          "name": "Toyalove",
+          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
         }
       ],
-      "duration_ms": 201938,
-      "name": "My Worship",
-      "url": "https://open.spotify.com/track/6YJdaaNqDeks5Q0zYuTAw7"
+      "duration_ms": 135819,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/401iOVzoxC7ZhhrwP2zh9h"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "duration_ms": 185382,
+      "name": "Blak Sheep Freestyle",
+      "url": "https://open.spotify.com/track/1AzvAbhRMCcebGkq6dkkx6"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1335,22 +1367,6 @@
       "duration_ms": 156000,
       "name": "PAWA",
       "url": "https://open.spotify.com/track/3OLORCu80i3HVzBzpf9Sul"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "It's You",
-        "url": "https://open.spotify.com/album/6aS85jgNXuGFYN190ytedS"
-      },
-      "artists": [
-        {
-          "name": "Toyalove",
-          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
-        }
-      ],
-      "duration_ms": 135819,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/401iOVzoxC7ZhhrwP2zh9h"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1407,22 +1423,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Impossible",
-        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
-      },
-      "artists": [
-        {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
-        }
-      ],
-      "duration_ms": 185382,
-      "name": "Blak Sheep Freestyle",
-      "url": "https://open.spotify.com/track/1AzvAbhRMCcebGkq6dkkx6"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Steady",
         "url": "https://open.spotify.com/album/2EWfsVbf3AwGAovgE7e5W2"
       },
@@ -1435,22 +1435,6 @@
       "duration_ms": 226248,
       "name": "Steady",
       "url": "https://open.spotify.com/track/6gGfORW04FjcMSn2u8zgHH"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Don't Eat Crow",
-        "url": "https://open.spotify.com/album/6m8KBofA7DLoeph9I1Rj72"
-      },
-      "artists": [
-        {
-          "name": "A.I. The Anomaly",
-          "url": "https://open.spotify.com/artist/3PoVfuLf8nvX4HLntiLTUa"
-        }
-      ],
-      "duration_ms": 246774,
-      "name": "Don't Eat Crow",
-      "url": "https://open.spotify.com/track/1ZaSsBG2OwORPzE6g4NSek"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1491,6 +1475,22 @@
       "duration_ms": 224416,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/1dMziINdISRb67vXMFsT2J"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Don't Eat Crow",
+        "url": "https://open.spotify.com/album/6m8KBofA7DLoeph9I1Rj72"
+      },
+      "artists": [
+        {
+          "name": "A.I. The Anomaly",
+          "url": "https://open.spotify.com/artist/3PoVfuLf8nvX4HLntiLTUa"
+        }
+      ],
+      "duration_ms": 246774,
+      "name": "Don't Eat Crow",
+      "url": "https://open.spotify.com/track/1ZaSsBG2OwORPzE6g4NSek"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "El Shaddai",
+        "url": "https://open.spotify.com/album/5BJf6P5PmlCLriuQDmJu2i"
+      },
+      "artists": [
+        {
+          "name": "Victory",
+          "url": "https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr"
+        }
+      ],
+      "duration_ms": 203200,
+      "name": "El Shaddai",
+      "url": "https://open.spotify.com/track/2f3lgzTjKA7gMfzaokghVy"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Closer Than You Think",
         "url": "https://open.spotify.com/album/3ZPJpdPrrLgi4rxoXSYLKP"
       },
@@ -1631,18 +1647,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "El Shaddai",
-        "url": "https://open.spotify.com/album/5BJf6P5PmlCLriuQDmJu2i"
+        "name": "Hymns: The Brooklyn Sessions (Live)",
+        "url": "https://open.spotify.com/album/7c2v5UZkdt3t4VdNq6GKiL"
       },
       "artists": [
         {
-          "name": "Victory",
-          "url": "https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr"
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 203200,
-      "name": "El Shaddai",
-      "url": "https://open.spotify.com/track/2f3lgzTjKA7gMfzaokghVy"
+      "duration_ms": 257465,
+      "name": "Burdens Down - Live",
+      "url": "https://open.spotify.com/track/1fLgFGtbv5wyvcnPze7KV3"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1667,38 +1683,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Hymns: The Brooklyn Sessions (Live)",
-        "url": "https://open.spotify.com/album/7c2v5UZkdt3t4VdNq6GKiL"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 257465,
-      "name": "Burdens Down - Live",
-      "url": "https://open.spotify.com/track/1fLgFGtbv5wyvcnPze7KV3"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "SURREAL",
-        "url": "https://open.spotify.com/album/3gEUKNl13U2UbK5kkpPEkf"
-      },
-      "artists": [
-        {
-          "name": "Phil J.",
-          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
-        }
-      ],
-      "duration_ms": 174409,
-      "name": "SURREAL",
-      "url": "https://open.spotify.com/track/2aWCddpZS2rHZyXlqpHt4H"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "NOW",
         "url": "https://open.spotify.com/album/0008KTgbnIMu8pvOrfYYOv"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 223524,
       "name": "NOW",
       "url": "https://open.spotify.com/track/68N09T45EtsG8BdvKjDjvz"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "SURREAL",
+        "url": "https://open.spotify.com/album/3gEUKNl13U2UbK5kkpPEkf"
+      },
+      "artists": [
+        {
+          "name": "Phil J.",
+          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
+        }
+      ],
+      "duration_ms": 174409,
+      "name": "SURREAL",
+      "url": "https://open.spotify.com/track/2aWCddpZS2rHZyXlqpHt4H"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Trust And Obey",
-        "url": "https://open.spotify.com/album/7v8jeOwumU7aGUbEt84srF"
-      },
-      "artists": [
-        {
-          "name": "Erica Campbell",
-          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
-        }
-      ],
-      "duration_ms": 216801,
-      "name": "Trust And Obey",
-      "url": "https://open.spotify.com/track/2WejXaH5aMxcd0AEb6dsC0"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Veil",
         "url": "https://open.spotify.com/album/3OSOyi6kUgfrZKUrOklrol"
       },
@@ -1835,18 +1819,34 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "In Times Like These",
-        "url": "https://open.spotify.com/album/2PALArxxYv8saqhds083oC"
+        "name": "Trust And Obey",
+        "url": "https://open.spotify.com/album/7v8jeOwumU7aGUbEt84srF"
       },
       "artists": [
         {
-          "name": "Praise Lubangu",
-          "url": "https://open.spotify.com/artist/4HhRKQggbwOvVNliPn1OsQ"
+          "name": "Erica Campbell",
+          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
         }
       ],
-      "duration_ms": 164426,
-      "name": "Midnight Hour",
-      "url": "https://open.spotify.com/track/4KYWyAouNeRHw3eTyxEX5n"
+      "duration_ms": 216801,
+      "name": "Trust And Obey",
+      "url": "https://open.spotify.com/track/2WejXaH5aMxcd0AEb6dsC0"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "By the River",
+        "url": "https://open.spotify.com/album/4R63Gff88BFdSCdpsAbMK7"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "By the River",
+      "url": "https://open.spotify.com/track/52ivV2XnZz3M9JufTsInV1"
     }
   ],
   "unique_name": "Lifted Frequency",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 
 > Open that sh\*t up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,456 likes - 50 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,784 likes - 50 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 | 49 | [on dat shit](https://open.spotify.com/track/02g10S6jIeoyTgw4qWs00h) | [Highway](https://open.spotify.com/artist/3ipYF6lYiU7lmIb5k3JGej) | [on dat shit](https://open.spotify.com/album/4GA1Wxbvo1S9MBV1HYD5cE) | 2:58 |
 | 50 | [i suppose'](https://open.spotify.com/track/3gcWCQg7hbMzBj1NzYsHhE) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR) | [searching for klarity](https://open.spotify.com/album/220lwYHC2mt97anoKSMFj2) | 3:18 |
 
-Snapshot ID: `MCwzZjg1ZWU3YWJiY2Q2MWEwOTYwYTYzMTMyOTA0YjJmN2JhMTMyOWYw`
+Snapshot ID: `MCwzMGZmMWI1MGMzYzMwYTlkMWQ4ZTc2MmQ0MGY1MjMxYWRkN2I1NmMx`

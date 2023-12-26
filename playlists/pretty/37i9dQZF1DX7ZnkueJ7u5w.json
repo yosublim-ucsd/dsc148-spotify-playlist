@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica sabrosa para festejar la temporada de carnavales en M\u00e9xico. ",
-  "num_followers": 266151,
+  "num_followers": 266192,
   "original_name": "Carnaval en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZTY4ZjRkYTQ1ZDc3MTcwYjFjNzQwMWMwOGNjYzk0ZjcxMGRhMzc4",
+  "snapshot_id": "MCw3NjNhZWJlMzAxMTM3ZjBhNDU3ZDJkZjA1ZDY2ZGM5YmUzOTMyNWM3",
   "tracks": [
     {
       "added_at": "2022-08-02 22:46:01",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-08-02 22:46:01",
       "album": {
-        "name": "Guajiro Natural",
-        "url": "https://open.spotify.com/album/1X7NlROjvvMICSei8xcFJh"
-      },
-      "artists": [
-        {
-          "name": "Polo Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/0NJbkbtOgSj2Q5bkUV3FPz"
-        }
-      ],
-      "duration_ms": 364573,
-      "name": "Un Mont\u00f3n De Estrellas",
-      "url": "https://open.spotify.com/track/21iD8UKoYicaMmVISo6Pi4"
-    },
-    {
-      "added_at": "2022-08-02 22:46:01",
-      "album": {
         "name": "Sentimental de Punta a Punta",
         "url": "https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2"
       },
@@ -315,6 +299,22 @@
     {
       "added_at": "2022-08-02 22:46:01",
       "album": {
+        "name": "Guajiro Natural",
+        "url": "https://open.spotify.com/album/1X7NlROjvvMICSei8xcFJh"
+      },
+      "artists": [
+        {
+          "name": "Polo Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/0NJbkbtOgSj2Q5bkUV3FPz"
+        }
+      ],
+      "duration_ms": 364573,
+      "name": "Un Mont\u00f3n De Estrellas",
+      "url": "https://open.spotify.com/track/21iD8UKoYicaMmVISo6Pi4"
+    },
+    {
+      "added_at": "2022-08-02 22:46:01",
+      "album": {
         "name": "Fabricando Fantas\u00edas",
         "url": "https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8"
       },
@@ -327,6 +327,22 @@
       "duration_ms": 272266,
       "name": "Fabricando Fantas\u00edas - Salsa Version",
       "url": "https://open.spotify.com/track/5bkWgrKyNhMcriQP3CrHEA"
+    },
+    {
+      "added_at": "2022-08-02 22:46:01",
+      "album": {
+        "name": "El Sapo",
+        "url": "https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB"
+      },
+      "artists": [
+        {
+          "name": "Azul Azul",
+          "url": "https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa"
+        }
+      ],
+      "duration_ms": 123960,
+      "name": "La Bomba",
+      "url": "https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb"
     },
     {
       "added_at": "2022-08-02 22:46:01",
@@ -351,22 +367,6 @@
       "duration_ms": 193533,
       "name": "Inte\u0301ntalo (feat. Ame\u0301rica Sierra & El Bebeto)",
       "url": "https://open.spotify.com/track/61aPpbJMAD5BjWkiHeX9R6"
-    },
-    {
-      "added_at": "2022-08-02 22:46:01",
-      "album": {
-        "name": "El Sapo",
-        "url": "https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB"
-      },
-      "artists": [
-        {
-          "name": "Azul Azul",
-          "url": "https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa"
-        }
-      ],
-      "duration_ms": 123960,
-      "name": "La Bomba",
-      "url": "https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb"
     },
     {
       "added_at": "2022-08-02 22:46:01",
@@ -803,18 +803,18 @@
     {
       "added_at": "2022-08-02 22:46:01",
       "album": {
-        "name": "Chiquetere",
-        "url": "https://open.spotify.com/album/0rid7a3i8rgeKhdk7UlTNx"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/2se2DHy9J2L20JV02zwQHx"
       },
       "artists": [
         {
-          "name": "Rafa Villalba",
-          "url": "https://open.spotify.com/artist/55r5KF4IQdMkhXEzoluxUm"
+          "name": "Fulanito",
+          "url": "https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE"
         }
       ],
-      "duration_ms": 292490,
-      "name": "Chiquetere",
-      "url": "https://open.spotify.com/track/4hjr315izfD3i8uAHJhpUA"
+      "duration_ms": 206493,
+      "name": "El Cepillo",
+      "url": "https://open.spotify.com/track/2EWZswsvSERfAWzXPE2trG"
     },
     {
       "added_at": "2022-08-02 22:46:01",
@@ -835,18 +835,18 @@
     {
       "added_at": "2022-08-02 22:46:01",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/2se2DHy9J2L20JV02zwQHx"
+        "name": "Chiquetere",
+        "url": "https://open.spotify.com/album/0rid7a3i8rgeKhdk7UlTNx"
       },
       "artists": [
         {
-          "name": "Fulanito",
-          "url": "https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE"
+          "name": "Rafa Villalba",
+          "url": "https://open.spotify.com/artist/55r5KF4IQdMkhXEzoluxUm"
         }
       ],
-      "duration_ms": 206493,
-      "name": "El Cepillo",
-      "url": "https://open.spotify.com/track/2EWZswsvSERfAWzXPE2trG"
+      "duration_ms": 292490,
+      "name": "Chiquetere",
+      "url": "https://open.spotify.com/track/4hjr315izfD3i8uAHJhpUA"
     },
     {
       "added_at": "2022-08-02 22:46:01",
@@ -1023,6 +1023,30 @@
     {
       "added_at": "2022-08-02 22:46:01",
       "album": {
+        "name": "Greatest Cumbia Classics Of Colombia, Vol. 1",
+        "url": "https://open.spotify.com/album/53W9qG1q6xaKlUVuzkBNPV"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        },
+        {
+          "name": "Lucho Argain",
+          "url": "https://open.spotify.com/artist/69KQI0QMvoPN5OcpNgTC2b"
+        },
+        {
+          "name": "La India Meliyar\u00e1",
+          "url": "https://open.spotify.com/artist/0zBKolPOzGoV8uja8nnaUG"
+        }
+      ],
+      "duration_ms": 234706,
+      "name": "Mi Cucu",
+      "url": "https://open.spotify.com/track/2cUKBUN66IsL9lc8PdISQY"
+    },
+    {
+      "added_at": "2022-08-02 22:46:01",
+      "album": {
         "name": "Best Of The Best",
         "url": "https://open.spotify.com/album/6FHozfvoQ11QmsvbulUNlo"
       },
@@ -1075,30 +1099,6 @@
       "duration_ms": 274960,
       "name": "Qu\u00e9 Bello (with Carla Morrison)",
       "url": "https://open.spotify.com/track/3OwRp219CRhplsvg8WLWtb"
-    },
-    {
-      "added_at": "2022-08-02 22:46:01",
-      "album": {
-        "name": "Greatest Cumbia Classics Of Colombia, Vol. 1",
-        "url": "https://open.spotify.com/album/53W9qG1q6xaKlUVuzkBNPV"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        },
-        {
-          "name": "Lucho Argain",
-          "url": "https://open.spotify.com/artist/69KQI0QMvoPN5OcpNgTC2b"
-        },
-        {
-          "name": "La India Meliyar\u00e1",
-          "url": "https://open.spotify.com/artist/0zBKolPOzGoV8uja8nnaUG"
-        }
-      ],
-      "duration_ms": 234706,
-      "name": "Mi Cucu",
-      "url": "https://open.spotify.com/track/2cUKBUN66IsL9lc8PdISQY"
     },
     {
       "added_at": "2022-08-02 22:46:01",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2022-08-02 22:46:01",
       "album": {
+        "name": "La Sonora Santanera en Su 60 Aniversario",
+        "url": "https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 204640,
+      "name": "Los Luchadores",
+      "url": "https://open.spotify.com/track/0HBiHi1FZBpI8QOqiS0oBm"
+    },
+    {
+      "added_at": "2022-08-02 22:46:01",
+      "album": {
         "name": "Contraste En Salsa",
         "url": "https://open.spotify.com/album/0GxUdSpTj1PeJlqq0knC5I"
       },
@@ -1199,6 +1215,22 @@
       "duration_ms": 266786,
       "name": "Conteo Regresivo - Salsa Version",
       "url": "https://open.spotify.com/track/5YfqVqJwjxiyhxvofbCnHp"
+    },
+    {
+      "added_at": "2022-08-02 22:46:01",
+      "album": {
+        "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 1",
+        "url": "https://open.spotify.com/album/3j4M5k6i3DA7fxfHXasvSp"
+      },
+      "artists": [
+        {
+          "name": "Grupo Caneo",
+          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
+        }
+      ],
+      "duration_ms": 261484,
+      "name": "De Punta a Punta",
+      "url": "https://open.spotify.com/track/21SlXIY6FZw7RcMqLRm901"
     },
     {
       "added_at": "2022-08-02 22:46:01",
@@ -1219,22 +1251,6 @@
     {
       "added_at": "2022-08-02 22:46:01",
       "album": {
-        "name": "La Sonora Santanera en Su 60 Aniversario",
-        "url": "https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 204640,
-      "name": "Los Luchadores",
-      "url": "https://open.spotify.com/track/0HBiHi1FZBpI8QOqiS0oBm"
-    },
-    {
-      "added_at": "2022-08-02 22:46:01",
-      "album": {
         "name": "Descarga Espectacular",
         "url": "https://open.spotify.com/album/6NK3Dj0pKVYzY7IUsTDsvP"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 297386,
       "name": "Cachondea",
       "url": "https://open.spotify.com/track/4TedxdAWvmtDCpYY9M6kue"
-    },
-    {
-      "added_at": "2022-08-02 22:46:01",
-      "album": {
-        "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 1",
-        "url": "https://open.spotify.com/album/3j4M5k6i3DA7fxfHXasvSp"
-      },
-      "artists": [
-        {
-          "name": "Grupo Caneo",
-          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
-        }
-      ],
-      "duration_ms": 261484,
-      "name": "De Punta a Punta",
-      "url": "https://open.spotify.com/track/21SlXIY6FZw7RcMqLRm901"
     },
     {
       "added_at": "2022-08-02 22:46:01",

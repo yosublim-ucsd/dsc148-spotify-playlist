@@ -1,12 +1,12 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 31099,
+  "num_followers": 31128,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDg5NmZhODZlNDI2MzY5NGNlZjEzYjIwZjA5MGYxZmEzZmIwNDll",
+  "snapshot_id": "MCw5ZTZhNTY4OWU4ODY1NTk4M2E3ODA3NmQyNjUyZWVhOGNmNDczZDEw",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Roll Play",
-        "url": "https://open.spotify.com/album/20pvV7NCcoCn9kPlCxOB1s"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        }
-      ],
-      "duration_ms": 203437,
-      "name": "Roll Play",
-      "url": "https://open.spotify.com/track/4szwPQ7ajXpyqykjtv6RLE"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Bongoloco",
         "url": "https://open.spotify.com/album/14L2mKGJukRn3jtAB04ZxV"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 206250,
       "name": "Bongoloco",
       "url": "https://open.spotify.com/track/3k45oaugo4fin6M1KrtO8f"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Roll Play",
+        "url": "https://open.spotify.com/album/20pvV7NCcoCn9kPlCxOB1s"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "duration_ms": 203437,
+      "name": "Roll Play",
+      "url": "https://open.spotify.com/track/4szwPQ7ajXpyqykjtv6RLE"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Club Vibes Part 04",
-        "url": "https://open.spotify.com/album/1a1VIF72alzsXubcQWH0QS"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 432000,
-      "name": "Knocking Birds",
-      "url": "https://open.spotify.com/track/13ITRaPyITlYNAuJHYG6H0"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Lovelee Dae",
         "url": "https://open.spotify.com/album/4GUOfZ9RjMWnOjzRkkTZeg"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 382278,
       "name": "Lovelee Dae",
       "url": "https://open.spotify.com/track/6rHyMTHlEn0ukuL4XRhG7X"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Club Vibes Part 04",
+        "url": "https://open.spotify.com/album/1a1VIF72alzsXubcQWH0QS"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 432000,
+      "name": "Knocking Birds",
+      "url": "https://open.spotify.com/track/13ITRaPyITlYNAuJHYG6H0"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Fakez",
-        "url": "https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X"
-      },
-      "artists": [
-        {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Fakez",
-      "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Vamo",
         "url": "https://open.spotify.com/album/5fpcn6vdsxTyh1m3XmGDHA"
       },
@@ -783,6 +767,38 @@
       "duration_ms": 216000,
       "name": "Vamo",
       "url": "https://open.spotify.com/track/1TyO82OeIOUO6845tQH3Yu"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Fakez",
+        "url": "https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Fakez",
+      "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Whispers In The Wind",
+        "url": "https://open.spotify.com/album/6n13FWbhg1ILq1gZmuwT5f"
+      },
+      "artists": [
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        }
+      ],
+      "duration_ms": 368852,
+      "name": "Whispers In The Wind",
+      "url": "https://open.spotify.com/track/3QUVgi7fLRKQL5j0irl5jd"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -811,22 +827,6 @@
       "duration_ms": 222438,
       "name": "Sete - Carlita Remix",
       "url": "https://open.spotify.com/track/5jhpcEksB86jVuf71FRXHS"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Whispers In The Wind",
-        "url": "https://open.spotify.com/album/6n13FWbhg1ILq1gZmuwT5f"
-      },
-      "artists": [
-        {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
-        }
-      ],
-      "duration_ms": 368852,
-      "name": "Whispers In The Wind",
-      "url": "https://open.spotify.com/track/3QUVgi7fLRKQL5j0irl5jd"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -863,6 +863,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Unfair",
+        "url": "https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "duration_ms": 247566,
+      "name": "Unfair",
+      "url": "https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "The Attention Deficit Track",
         "url": "https://open.spotify.com/album/45KWFCVez0XRbv74zCYSTc"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 228420,
       "name": "The Attention Deficit Track - Edit",
       "url": "https://open.spotify.com/track/7AKaUvMxAw88jMdy9wXYFW"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Unfair",
-        "url": "https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ"
-      },
-      "artists": [
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        }
-      ],
-      "duration_ms": 247566,
-      "name": "Unfair",
-      "url": "https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/1DI8trL5leqaA8twkT4H0h"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "duration_ms": 190874,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/4r2xLZbF6dz6Sq3DkEQF7Z"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Hip Trumpets",
         "url": "https://open.spotify.com/album/4VUQYr2q75PTwBQqg4Lno4"
       },
@@ -1095,18 +1111,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/1DI8trL5leqaA8twkT4H0h"
+        "name": "The Track / Tobago",
+        "url": "https://open.spotify.com/album/0cFBXj9g1Lv86ttvwRGflE"
       },
       "artists": [
         {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+          "name": "Daniel Steinberg",
+          "url": "https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV"
         }
       ],
-      "duration_ms": 190874,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/4r2xLZbF6dz6Sq3DkEQF7Z"
+      "duration_ms": 219048,
+      "name": "The Track",
+      "url": "https://open.spotify.com/track/3GCmKFjQaS6mcFB4xHcbkg"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1123,22 +1139,6 @@
       "duration_ms": 320000,
       "name": "What We Got",
       "url": "https://open.spotify.com/track/0VSqvYrv6dK7W6oCBmNDWQ"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "The Track / Tobago",
-        "url": "https://open.spotify.com/album/0cFBXj9g1Lv86ttvwRGflE"
-      },
-      "artists": [
-        {
-          "name": "Daniel Steinberg",
-          "url": "https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV"
-        }
-      ],
-      "duration_ms": 219048,
-      "name": "The Track",
-      "url": "https://open.spotify.com/track/3GCmKFjQaS6mcFB4xHcbkg"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "This Energy EP",
+        "url": "https://open.spotify.com/album/6BhhDPtDrqadoXUT3y9FUU"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "This Energy",
+      "url": "https://open.spotify.com/track/0FAIsPkDqH7IYxVtetwvrU"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Do One EP",
         "url": "https://open.spotify.com/album/5aGWQJq8ewvgKOgRpIFddl"
       },
@@ -1247,38 +1263,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Fuck The Regs EP",
-        "url": "https://open.spotify.com/album/4haBApGeAHHH11EPiHaghy"
-      },
-      "artists": [
-        {
-          "name": "Josh Butler",
-          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
-        }
-      ],
-      "duration_ms": 204836,
-      "name": "Fuck The Regs",
-      "url": "https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "This Energy EP",
-        "url": "https://open.spotify.com/album/6BhhDPtDrqadoXUT3y9FUU"
-      },
-      "artists": [
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "This Energy",
-      "url": "https://open.spotify.com/track/0FAIsPkDqH7IYxVtetwvrU"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Thrill Me (LO'99 Remix)",
         "url": "https://open.spotify.com/album/3EK4iKouxMfsNlD8EXAUGj"
       },
@@ -1299,22 +1283,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "World Is Empty",
-        "url": "https://open.spotify.com/album/6XEry2Mab6D2CmMJMSQdNl"
+        "name": "Fuck The Regs EP",
+        "url": "https://open.spotify.com/album/4haBApGeAHHH11EPiHaghy"
       },
       "artists": [
         {
-          "name": "Jansons",
-          "url": "https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY"
-        },
-        {
-          "name": "Skream",
-          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+          "name": "Josh Butler",
+          "url": "https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX"
         }
       ],
-      "duration_ms": 196030,
-      "name": "World Is Empty",
-      "url": "https://open.spotify.com/track/2nXrGRA0qLwXtZ4QtQD6Jg"
+      "duration_ms": 204836,
+      "name": "Fuck The Regs",
+      "url": "https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1331,6 +1311,26 @@
       "duration_ms": 185759,
       "name": "Lucky Bastard",
       "url": "https://open.spotify.com/track/2hGg0mGHm3A0fqgpfpLwEi"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "World Is Empty",
+        "url": "https://open.spotify.com/album/6XEry2Mab6D2CmMJMSQdNl"
+      },
+      "artists": [
+        {
+          "name": "Jansons",
+          "url": "https://open.spotify.com/artist/0gztzLIt9uRDJd4Jl9TSLY"
+        },
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        }
+      ],
+      "duration_ms": 196030,
+      "name": "World Is Empty",
+      "url": "https://open.spotify.com/track/2nXrGRA0qLwXtZ4QtQD6Jg"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Bliss",
-        "url": "https://open.spotify.com/album/6t0gCJ3EsuUoIeAZJ7XfgS"
-      },
-      "artists": [
-        {
-          "name": "Kyle Walker",
-          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
-        }
-      ],
-      "duration_ms": 220957,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/1Rrn1xTm9PP6bRWoCJ9CiG"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Really Really Hot",
         "url": "https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 232133,
       "name": "Really Really Hot",
       "url": "https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/6t0gCJ3EsuUoIeAZJ7XfgS"
+      },
+      "artists": [
+        {
+          "name": "Kyle Walker",
+          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
+        }
+      ],
+      "duration_ms": 220957,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/1Rrn1xTm9PP6bRWoCJ9CiG"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Picante EP",
-        "url": "https://open.spotify.com/album/1AyirEP5GhX0ZsTrCHJCvE"
-      },
-      "artists": [
-        {
-          "name": "Manda Moor",
-          "url": "https://open.spotify.com/artist/5TkMEJqmPYr0QRgX6uFOhP"
-        }
-      ],
-      "duration_ms": 344000,
-      "name": "Picante",
-      "url": "https://open.spotify.com/track/5xjNoD2MFDh3YdF0RrBai1"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Strung Up",
         "url": "https://open.spotify.com/album/66FblVKMFIsHhvIB6mRt5p"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 200625,
       "name": "Strung Up",
       "url": "https://open.spotify.com/track/6vOr19HgqGzzCMv040ePVq"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Picante EP",
+        "url": "https://open.spotify.com/album/1AyirEP5GhX0ZsTrCHJCvE"
+      },
+      "artists": [
+        {
+          "name": "Manda Moor",
+          "url": "https://open.spotify.com/artist/5TkMEJqmPYr0QRgX6uFOhP"
+        }
+      ],
+      "duration_ms": 344000,
+      "name": "Picante",
+      "url": "https://open.spotify.com/track/5xjNoD2MFDh3YdF0RrBai1"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Ole",
-        "url": "https://open.spotify.com/album/0l4eUj59yCd8EfXuiNCnen"
-      },
-      "artists": [
-        {
-          "name": "Zilka",
-          "url": "https://open.spotify.com/artist/0SoSPYY6c3UihbZfluCvjP"
-        }
-      ],
-      "duration_ms": 158343,
-      "name": "Ole",
-      "url": "https://open.spotify.com/track/22u9Mz1YIpNeOgLxiQ7VIe"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Azabache",
         "url": "https://open.spotify.com/album/4peWNj8D8DduNm5rdktO9Y"
       },
@@ -1703,6 +1687,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Ole",
+        "url": "https://open.spotify.com/album/0l4eUj59yCd8EfXuiNCnen"
+      },
+      "artists": [
+        {
+          "name": "Zilka",
+          "url": "https://open.spotify.com/artist/0SoSPYY6c3UihbZfluCvjP"
+        }
+      ],
+      "duration_ms": 158343,
+      "name": "Ole",
+      "url": "https://open.spotify.com/track/22u9Mz1YIpNeOgLxiQ7VIe"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Where Ya At",
         "url": "https://open.spotify.com/album/1IdxL4BAGoA9Cf5Vi2UfQ4"
       },
@@ -1715,22 +1715,6 @@
       "duration_ms": 228750,
       "name": "Where Ya At",
       "url": "https://open.spotify.com/track/5ly24DpozyrKv1FFDivUHx"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Galactica",
-        "url": "https://open.spotify.com/album/4qQywGdWd8QiCiND1bwTk3"
-      },
-      "artists": [
-        {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        }
-      ],
-      "duration_ms": 310289,
-      "name": "Galactica",
-      "url": "https://open.spotify.com/track/6mMSSMNcl1WXtSP5A5tG0u"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1795,6 +1779,26 @@
       "duration_ms": 263931,
       "name": "Honey Bee - Edit",
       "url": "https://open.spotify.com/track/2xH4BN0PnHxLhLSWufL370"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Scout",
+        "url": "https://open.spotify.com/album/5FMzEjhMgICTx0ynFYbTig"
+      },
+      "artists": [
+        {
+          "name": "SLUMBERJACK",
+          "url": "https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS"
+        },
+        {
+          "name": "Posij",
+          "url": "https://open.spotify.com/artist/7nmucrDZXxIQNGLwCqPQpO"
+        }
+      ],
+      "duration_ms": 234193,
+      "name": "Scout",
+      "url": "https://open.spotify.com/track/1wvlh0A1mMVAb7Gw2dGV9a"
     }
   ],
   "unique_name": "Minimal Tech",

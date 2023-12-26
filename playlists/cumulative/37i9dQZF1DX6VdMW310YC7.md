@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,549 songs - 4 day 10 hr 40 min
+1,550 songs - 4 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -855,7 +855,7 @@
 | [Make Sense](https://open.spotify.com/track/3k5qpizh47tL2CmTsxjs8L) | [Hior Chronik](https://open.spotify.com/artist/0WwDqOLT2m5PuAsFGkEybC), [Anna\-Maria Marjamäki](https://open.spotify.com/artist/3jLyfJjicxYfifKU3dXfLJ) | [Descent](https://open.spotify.com/album/2rowpF97jKbr5ZwqBnMJVk) | 4:37 | 2020-03-17 | 2022-04-21 |
 | [Maker](https://open.spotify.com/track/4DP7DimT3KRKbsvjfIrcoX) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Superdream](https://open.spotify.com/album/7LZAgsQQr0cm61SmUdgKlz) | 4:11 | 2022-07-01 | 2022-09-24 |
 | [Maker](https://open.spotify.com/track/6w32mXhIaosDV03bo216QI) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Joypunks / Maker](https://open.spotify.com/album/4nr116yOgerXCvvisMjZfa) | 4:11 | 2020-03-20 | 2022-04-20 |
-| [Making Time](https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Making Time](https://open.spotify.com/album/25lUESkThyWEygZ6iZcWt6) | 4:31 | 2023-01-13 |  |
+| [Making Time](https://open.spotify.com/track/3hYVvOf0m67UxBdG57vgd5) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Making Time](https://open.spotify.com/album/25lUESkThyWEygZ6iZcWt6) | 4:31 | 2023-01-13 | 2023-12-26 |
 | [Making Time x Cycles](https://open.spotify.com/track/6Ffy25UA4G6BFw7Q5sS8wB) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Making Time x Cycles](https://open.spotify.com/album/4n2aCkAqTfzoM6dsZ52r2e) | 4:39 | 2023-07-07 | 2023-07-28 |
 | [Mala](https://open.spotify.com/track/5Fv4EVQN6GEYYnMZ3L6NOl) | [Classic Unknwn](https://open.spotify.com/artist/1dZll1W7w0FMBahKsYi7F0) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 5:01 | 2020-03-19 | 2022-06-30 |
 | [Mana](https://open.spotify.com/track/6BO5kq5A7XCntn2SoQws0v) | [Fakear](https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT) | [Mana](https://open.spotify.com/album/16rmHSa9CPjFFrWH3zFG74) | 3:32 | 2020-03-21 | 2022-08-25 |
@@ -1138,6 +1138,7 @@
 | [Ronda](https://open.spotify.com/track/4WyhOKXtCkNVcgfTBpYaxm) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Ronda](https://open.spotify.com/album/7APlMJ7deciAoJCir8eSOz) | 5:46 | 2020-10-23 | 2022-12-29 |
 | [Roots \(feat\. Amanda Fondell\)](https://open.spotify.com/track/74wHqDbloTZMMUjdJ7aBW5) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Amanda Fondell](https://open.spotify.com/artist/5rL1bpxszSXKHmVPXR5ZGs) | [Places We Don't Know](https://open.spotify.com/album/7v5PnPxKBVwKVQ6tytgUzG) | 3:46 | 2020-05-18 | 2020-07-03 |
 | [Rosewood](https://open.spotify.com/track/3MOhipHFUkGpS0rV7cKrJO) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Rosewood](https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj) | 4:02 | 2022-01-21 | 2022-02-12 |
+| [Roused](https://open.spotify.com/track/4gdHfPy1CdnEPJNL442JwZ) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Roused](https://open.spotify.com/album/0PglcPyz0IqanKtax5Bkx1) | 4:11 | 2023-12-15 |  |
 | [Rudeboy Lovesong \(feat\. Sweetie Irie & Cara Delevingne\)](https://open.spotify.com/track/4cZRjRwTZ8fhKmpJ6xFFhH) | [SHY FX](https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j), [Sweetie Irie](https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b), [Cara Delevingne](https://open.spotify.com/artist/4sv0K6oriSqkSI5O9bQbmd) | [Rudeboy Lovesong \(feat\. Sweetie Irie & Cara Delevingne\)](https://open.spotify.com/album/4z0ADEl2XhhCtDB1lpSDvy) | 3:37 | 2020-05-18 | 2020-10-09 |
 | [Rule The World](https://open.spotify.com/track/5h0uSprKS095tjlzkVhG3t) | [ricky retro](https://open.spotify.com/artist/1fA8WmzG2eU2q13kAAjoN8), [Scorz](https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn) | [Rule The World](https://open.spotify.com/album/1tXbZl7KpKIsBcNfYi2qth) | 2:56 | 2023-07-07 |  |
 | [Run](https://open.spotify.com/track/6r0Qbwh8LySYwjbMm1LXzb) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Run](https://open.spotify.com/album/2jtCQJ5O8eQZWFrdOOjFVk) | 3:48 | 2021-07-16 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicas rom\u00e1nticas, melodiosas, apacibles.",
-  "num_followers": 81059,
+  "num_followers": 81150,
   "original_name": "bohemia tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTFjZTBlMGZjNDM3YzM0Y2RjYWI2MjdjNmY5YmI0YmJkYTMzNGFh",
+  "snapshot_id": "MCxjOWVmZjBjMTZkNDI1YmQ0ODk1ZjEzN2Q0ZDUxMWIyNzk3MDA5MTg5",
   "tracks": [
     {
       "added_at": "2021-12-25 17:56:56",
@@ -91,22 +91,6 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 229853,
-      "name": "No S\u00e9 T\u00fa",
-      "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
-    },
-    {
-      "added_at": "2021-12-25 17:56:56",
-      "album": {
         "name": "Gracias",
         "url": "https://open.spotify.com/album/306myLvJlcA5LBGoIYDp2D"
       },
@@ -187,22 +171,18 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
-        "name": "Rayando El Sol (feat. Pablo Albor\u00e1n)",
-        "url": "https://open.spotify.com/album/7h8WIue8MJiW8Erw1Nr6N8"
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 258937,
-      "name": "Rayando el Sol (feat. Pablo Albor\u00e1n)",
-      "url": "https://open.spotify.com/track/3uKdu7AtigAJ8GgTu0yJTe"
+      "duration_ms": 229853,
+      "name": "No S\u00e9 T\u00fa",
+      "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
     },
     {
       "added_at": "2021-12-25 17:56:56",
@@ -219,6 +199,26 @@
       "duration_ms": 218760,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ"
+    },
+    {
+      "added_at": "2021-12-25 17:56:56",
+      "album": {
+        "name": "Rayando El Sol (feat. Pablo Albor\u00e1n)",
+        "url": "https://open.spotify.com/album/7h8WIue8MJiW8Erw1Nr6N8"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 258937,
+      "name": "Rayando el Sol (feat. Pablo Albor\u00e1n)",
+      "url": "https://open.spotify.com/track/3uKdu7AtigAJ8GgTu0yJTe"
     },
     {
       "added_at": "2021-12-25 17:56:56",
@@ -383,6 +383,22 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
+        "name": "Rocanrol Bumerang",
+        "url": "https://open.spotify.com/album/1YIw799VStxgysT27cUGwp"
+      },
+      "artists": [
+        {
+          "name": "Miguel R\u00edos",
+          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Santa Lucia - Remastered 2005",
+      "url": "https://open.spotify.com/track/5bycn7SuJzYnxte0W54mNX"
+    },
+    {
+      "added_at": "2021-12-25 17:56:56",
+      "album": {
         "name": "Siempre En Mi Mente",
         "url": "https://open.spotify.com/album/7mTaxiOrJEbh3aCHC7Gnkm"
       },
@@ -399,18 +415,18 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
-        "name": "Rocanrol Bumerang",
-        "url": "https://open.spotify.com/album/1YIw799VStxgysT27cUGwp"
+        "name": "Fisica Y Quimica",
+        "url": "https://open.spotify.com/album/6MeLjaERUK6fJ58YZpPlyC"
       },
       "artists": [
         {
-          "name": "Miguel R\u00edos",
-          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
         }
       ],
-      "duration_ms": 224826,
-      "name": "Santa Lucia - Remastered 2005",
-      "url": "https://open.spotify.com/track/5bycn7SuJzYnxte0W54mNX"
+      "duration_ms": 302933,
+      "name": "Y Nos Dieron las Diez",
+      "url": "https://open.spotify.com/track/1eCie6lwjb4crxeAvkRaSi"
     },
     {
       "added_at": "2021-12-25 17:56:56",
@@ -461,22 +477,6 @@
       "url": "https://open.spotify.com/track/4tAwP9QKeLEQJ2fgd1RWcY"
     },
     {
-      "added_at": "2021-12-25 17:56:56",
-      "album": {
-        "name": "Fisica Y Quimica",
-        "url": "https://open.spotify.com/album/6MeLjaERUK6fJ58YZpPlyC"
-      },
-      "artists": [
-        {
-          "name": "Joaqu\u00edn Sabina",
-          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
-        }
-      ],
-      "duration_ms": 302933,
-      "name": "Y Nos Dieron las Diez",
-      "url": "https://open.spotify.com/track/1eCie6lwjb4crxeAvkRaSi"
-    },
-    {
       "added_at": "2023-12-12 20:14:21",
       "album": {
         "name": "A la Mar",
@@ -507,6 +507,22 @@
       "duration_ms": 144632,
       "name": "\u00d3leo de Mujer Con Sombrero",
       "url": "https://open.spotify.com/track/1w6mcMacExya7bvbElMuar"
+    },
+    {
+      "added_at": "2021-12-25 17:56:56",
+      "album": {
+        "name": "Yo, Mi, Me, Contigo",
+        "url": "https://open.spotify.com/album/0C4Nm6vpiyldyOKNAESuSI"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Sabina",
+          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
+        }
+      ],
+      "duration_ms": 279266,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/5yIVcrwQXdIlDgTMc8pa6z"
     },
     {
       "added_at": "2021-12-25 17:56:56",
@@ -559,22 +575,6 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
-        "name": "Yo, Mi, Me, Contigo",
-        "url": "https://open.spotify.com/album/0C4Nm6vpiyldyOKNAESuSI"
-      },
-      "artists": [
-        {
-          "name": "Joaqu\u00edn Sabina",
-          "url": "https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/5yIVcrwQXdIlDgTMc8pa6z"
-    },
-    {
-      "added_at": "2021-12-25 17:56:56",
-      "album": {
         "name": "Mediterr\u00e1neo",
         "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
       },
@@ -589,20 +589,20 @@
       "url": "https://open.spotify.com/track/7Bewui7KtaMzROeteRitRz"
     },
     {
-      "added_at": "2023-12-12 20:14:21",
+      "added_at": "2021-12-25 17:56:56",
       "album": {
-        "name": "Their Satanic Majesties' Second Request",
-        "url": "https://open.spotify.com/album/4kXc4XcGYOpHpXRlWq1RFi"
+        "name": "Primer Amor Los \u00c9xitos",
+        "url": "https://open.spotify.com/album/1XQYOY8gKZjku7pnMEJjSg"
       },
       "artists": [
         {
-          "name": "The Brian Jonestown Massacre",
-          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
         }
       ],
-      "duration_ms": 334466,
-      "name": "Anemone",
-      "url": "https://open.spotify.com/track/70WSr32oW4jC1na5I0j0D6"
+      "duration_ms": 248866,
+      "name": "Vu\u00e9lveme A Querer",
+      "url": "https://open.spotify.com/track/1PkTGKasoP8iuXad5LfQqz"
     },
     {
       "added_at": "2021-12-25 17:56:56",
@@ -621,20 +621,20 @@
       "url": "https://open.spotify.com/track/7imPloXAqWjd1UdUdJEAXF"
     },
     {
-      "added_at": "2021-12-25 17:56:56",
+      "added_at": "2023-12-12 20:14:21",
       "album": {
-        "name": "Primer Amor Los \u00c9xitos",
-        "url": "https://open.spotify.com/album/1XQYOY8gKZjku7pnMEJjSg"
+        "name": "Their Satanic Majesties' Second Request",
+        "url": "https://open.spotify.com/album/4kXc4XcGYOpHpXRlWq1RFi"
       },
       "artists": [
         {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+          "name": "The Brian Jonestown Massacre",
+          "url": "https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy"
         }
       ],
-      "duration_ms": 248866,
-      "name": "Vu\u00e9lveme A Querer",
-      "url": "https://open.spotify.com/track/1PkTGKasoP8iuXad5LfQqz"
+      "duration_ms": 334466,
+      "name": "Anemone",
+      "url": "https://open.spotify.com/track/70WSr32oW4jC1na5I0j0D6"
     },
     {
       "added_at": "2023-12-12 20:14:21",
@@ -703,22 +703,6 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
-        "name": "Mocedades 5",
-        "url": "https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx"
-      },
-      "artists": [
-        {
-          "name": "Mocedades",
-          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "T\u00f3mame o D\u00e9jame - Remasterizado",
-      "url": "https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx"
-    },
-    {
-      "added_at": "2021-12-25 17:56:56",
-      "album": {
         "name": "El Concierto",
         "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 992440,
       "name": "Medley (Yo Que No Vivo Sin Ti / Culpable O No / M\u00e1s All\u00e1 De Todo / Fr\u00eda Como El Viento / Entr\u00e9gate /Tengo Todo Excepto A Ti / La Incondicional) - En Vivo",
       "url": "https://open.spotify.com/track/2VbKzmGzbd2qjO0xw3WhKq"
+    },
+    {
+      "added_at": "2021-12-25 17:56:56",
+      "album": {
+        "name": "Mocedades 5",
+        "url": "https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx"
+      },
+      "artists": [
+        {
+          "name": "Mocedades",
+          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "T\u00f3mame o D\u00e9jame - Remasterizado",
+      "url": "https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx"
     },
     {
       "added_at": "2021-12-25 17:56:56",
@@ -751,38 +751,6 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
-        "name": "Rocio Banquells",
-        "url": "https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz"
-      },
-      "artists": [
-        {
-          "name": "Rocio Banquells",
-          "url": "https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz"
-        }
-      ],
-      "duration_ms": 253066,
-      "name": "Luna m\u00e1gica",
-      "url": "https://open.spotify.com/track/38TOLZUaluhotS1fOFtpOb"
-    },
-    {
-      "added_at": "2023-12-12 20:14:21",
-      "album": {
-        "name": "Primeras Canciones",
-        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 201674,
-      "name": "Te Guardo",
-      "url": "https://open.spotify.com/track/1cvSHX6jBzX93A6b6Q1j3K"
-    },
-    {
-      "added_at": "2021-12-25 17:56:56",
-      "album": {
         "name": "Dedicado A Antonio Machado, Poeta",
         "url": "https://open.spotify.com/album/3EF2QL5cEctLrXwNqTIBZX"
       },
@@ -799,6 +767,22 @@
     {
       "added_at": "2021-12-25 17:56:56",
       "album": {
+        "name": "Rocio Banquells",
+        "url": "https://open.spotify.com/album/2XWgQoX6V3MDSm9dGZGkGz"
+      },
+      "artists": [
+        {
+          "name": "Rocio Banquells",
+          "url": "https://open.spotify.com/artist/0WaPMyYYZZ7yxzG1qhZ5kz"
+        }
+      ],
+      "duration_ms": 253066,
+      "name": "Luna m\u00e1gica",
+      "url": "https://open.spotify.com/track/38TOLZUaluhotS1fOFtpOb"
+    },
+    {
+      "added_at": "2021-12-25 17:56:56",
+      "album": {
         "name": "Vida Loca",
         "url": "https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 204533,
       "name": "Se\u00f1ora",
       "url": "https://open.spotify.com/track/3sKfWfo0VSspTmBmK3jKzr"
+    },
+    {
+      "added_at": "2023-12-12 20:14:21",
+      "album": {
+        "name": "Primeras Canciones",
+        "url": "https://open.spotify.com/album/2MTdMQ9S3ro39aKgQMmms3"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 201674,
+      "name": "Te Guardo",
+      "url": "https://open.spotify.com/track/1cvSHX6jBzX93A6b6Q1j3K"
     }
   ],
   "unique_name": "bohemia tranqui",

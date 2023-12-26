@@ -586,7 +586,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 234323,
       "name": "Cinderella Boy",
       "url": "https://open.spotify.com/track/4UALTBWz0OdQcjbTsjFceV"
@@ -1767,6 +1767,28 @@
     },
     {
       "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208546,
+      "name": "Merry Christmas",
+      "url": "https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg"
+    },
+    {
+      "album": {
         "name": "Mixed Nuts",
         "url": "https://open.spotify.com/album/2PN9UPqCKmZgXNtZPJtsc4"
       },
@@ -2056,7 +2078,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 226813,
       "name": "New Genesis",
       "url": "https://open.spotify.com/track/6A8NfypDHuwiLWbo4a1yca"
@@ -3148,7 +3170,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 288099,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/6wffxmLgeZTbvS1hYvLkht"
@@ -4527,6 +4549,24 @@
     },
     {
       "album": {
+        "name": "INDEPENDENT",
+        "url": "https://open.spotify.com/album/4RTzwKeZd6nL1JQxRG6CFU"
+      },
+      "artists": [
+        {
+          "name": "AI",
+          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255760,
+      "name": "\u30cf\u30d4\u30cd\u30b9",
+      "url": "https://open.spotify.com/track/4Ls20opS0EzPb7NuA6F8VI"
+    },
+    {
+      "album": {
         "name": "THE BOOK",
         "url": "https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv"
       },
@@ -4596,6 +4636,24 @@
       "duration_ms": 251050,
       "name": "\u30d0\u30cb\u30e9",
       "url": "https://open.spotify.com/track/0zfNtgPJ5FLkbveRjSdCMb"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30f3\u30c7\u30ea\u30a2",
+        "url": "https://open.spotify.com/album/6TrqbAJxtGl4HWK5SUbFLT"
+      },
+      "artists": [
+        {
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269786,
+      "name": "\u30d2\u30ed\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/3hBAYbAECEix9raaTq8S3H"
     },
     {
       "album": {
@@ -4862,7 +4920,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 332433,
       "name": "\u30e1\u30ea\u30af\u30ea",
       "url": "https://open.spotify.com/track/3fxaN9pj6g4crVCzMTqRd0"
@@ -5616,7 +5674,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 207800,
       "name": "\u60f3\u50cf\u4ee5\u4e0a",
       "url": "https://open.spotify.com/track/0aRGEJtIkhnK5GcTjCQy5d"

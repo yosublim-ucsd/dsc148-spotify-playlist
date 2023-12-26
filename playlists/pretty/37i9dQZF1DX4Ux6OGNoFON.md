@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ux6OGNoFON.md) - [plain]
 
 > Saca, prende y sorprende con esta selección de buenas vibras\. Foto: Cultura Profética
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,642 likes - 60 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,703 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ux6OGNoFON.md) - [plain]
 | 41 | [Sube el Humo](https://open.spotify.com/track/7ChGr8JqBeKaOhgvattRGs) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [M\. O\. T\. A.](https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7) | 4:41 |
 | 42 | [Cómo Ver?](https://open.spotify.com/track/0MNpiDfmdKHbe5l2w0gq2w) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Cómo Ver?](https://open.spotify.com/album/0EKBRzjauMax0KqQAF8eZc) | 5:08 |
 | 43 | [Qué es Vivir \(What is Life\)](https://open.spotify.com/track/0iOv981COUDmcUin4dTmaU) | [Los Guardianes de Gregory](https://open.spotify.com/artist/7yysL6dfPj3b9XHyZWkUWL), [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Sonidos de Libertad](https://open.spotify.com/album/7JpJFHhcMt2EjqNXkeMyE4) | 5:56 |
-| 44 | [Suavemente](https://open.spotify.com/track/0YZyA7EF2LeTat01RWWzGQ) | [Don Páli](https://open.spotify.com/artist/0vmHcxir9eaM0VLfstxKMt) | [Suavemente](https://open.spotify.com/album/7qRi1ylJhlb2Kr5Fb6XF4Q) | 4:30 |
+| 44 | [Suavemente](https://open.spotify.com/track/08nDWHJOHqAQHBuagonRDf) | [Don Páli](https://open.spotify.com/artist/0vmHcxir9eaM0VLfstxKMt) | [Suavemente](https://open.spotify.com/album/690cPvLs0NIomnvABfsPOl) | 4:30 |
 | 45 | [Voló](https://open.spotify.com/track/4IXek6EkG8BwxvP9ODN5Fo) | [Golden Ganga](https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0) | [Voló](https://open.spotify.com/album/35km1sHybswdMTiBP2Tpv8) | 4:24 |
 | 46 | [Tranquiliboy](https://open.spotify.com/track/3IyiIBDEQmWP9Y17ueWWMB) | [La Merfi](https://open.spotify.com/artist/5TXJa9XiARe5SWqn8m5J9R) | [Tranquiliboy](https://open.spotify.com/album/6rHuYjxs5Oyu8Dqs0Jtbr7) | 2:46 |
 | 47 | [Ready](https://open.spotify.com/track/105s2PTUiEcGtKsL1rl0Fl) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Ready](https://open.spotify.com/album/6eSOrBQDFoAT27MUPHW5d4) | 2:30 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ux6OGNoFON.md) - [plain]
 | 59 | [Walk Away](https://open.spotify.com/track/2aOgorHvy6GVgACinaoqUo) | [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf) | [Walk Away](https://open.spotify.com/album/4V4h1DHnwa4IHz4kBsrZ2f) | 3:34 |
 | 60 | [Al oírla cantar](https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r) | [Al oírla cantar](https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h) | 5:36 |
 
-Snapshot ID: `MCxkYTg0NjgwMzM0ODEzYTE2NDZiNmI3MzVlZTIyODk1NTg2NzU2N2Ey`
+Snapshot ID: `MCw1NTczNTNhMzc4NDAyN2IzNWFiYjZiMTg3NmQ2ZmYwNGU3NmU5Y2Uy`

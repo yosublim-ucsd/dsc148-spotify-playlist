@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4euSju.md) - [plain]
 
 > This is Teenage Wrist\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,134 likes - 28 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,135 likes - 28 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4euSju.md) - [plain]
 | 23 | [Stella](https://open.spotify.com/track/0V1Ww4KZzeNvImlv3BnLBl) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 4:40 |
 | 24 | [Chrome Neon Jesus](https://open.spotify.com/track/5sGU6CsPHoY0xngEjsBPkQ) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:43 |
 | 25 | [Afterglow](https://open.spotify.com/track/6XZFf9VlLpjaVGkaHfYnJO) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Afterglow](https://open.spotify.com/album/1zSuLk1sl9xh1b7xKO0vJL) | 4:44 |
-| 26 | [Outside of Love](https://open.spotify.com/track/1igt3E8ffAckDkdREZ12HB) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed](https://open.spotify.com/album/4oLn1rTRoZtozr8uRYUKu8) | 4:06 |
-| 27 | [Mirror Talk](https://open.spotify.com/track/6VBoEu64cDeRDE6f60XPts) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed](https://open.spotify.com/album/5OMhpOEVJ9kXp2ayrCFMLK) | 4:07 |
+| 26 | [Mirror Talk](https://open.spotify.com/track/23tjVnRlLeAkXKm4HDDZ4e) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed](https://open.spotify.com/album/4oLn1rTRoZtozr8uRYUKu8) | 4:07 |
+| 27 | [Outside of Love](https://open.spotify.com/track/1igt3E8ffAckDkdREZ12HB) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed](https://open.spotify.com/album/4oLn1rTRoZtozr8uRYUKu8) | 4:06 |
 | 28 | [Summer](https://open.spotify.com/track/3YpvQGhkRJ2Nb9rTwknxZw) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Dazed](https://open.spotify.com/album/4oLn1rTRoZtozr8uRYUKu8) | 5:01 |
 
-Snapshot ID: `MjgzOTAyOTIsMDAwMDAwMDA0ZTU1YzNmZGVkZDE1MTgzODAwZjI5ODY3YjkzMzlhMw==`
+Snapshot ID: `MjgzOTE3MzUsMDAwMDAwMDA0OWExY2QwZjg4YmJmNTYwYzMxZTRmN2MyMmE2ZmY5Mg==`

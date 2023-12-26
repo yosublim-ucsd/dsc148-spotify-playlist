@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pqUP7.md) - [plain]
 
 > This is Lunay\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,895 likes - 51 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,905 likes - 51 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pqUP7.md) - [plain]
 | 24 | [Prendemos](https://open.spotify.com/track/3YLbntjcsRoButdoVta3rq) | [Haze](https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Prendemos](https://open.spotify.com/album/1X0vimVNeLVhLzIkLUxyWf) | 3:37 |
 | 25 | [En Mi Habitación](https://open.spotify.com/track/4ie9colBgieHEOULuCfK3E) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [En Mi Habitación](https://open.spotify.com/album/5YluAzUmLLk8ajKIsHj0lY) | 3:55 |
 | 26 | [Llégale](https://open.spotify.com/track/4vK8Kvyw1mabkMXJqbZOZT) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Llégale](https://open.spotify.com/album/2FMRC7RV3fbyyMH1oLsdiB) | 4:13 |
-| 27 | [Nadie \(feat\. Sech & Sharo Towers\) \- Remix](https://open.spotify.com/track/6pNjmMB8FTMEcqGSgs7Mji) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Sharo Towers](https://open.spotify.com/artist/4h6Eg0dBZ4Fr8vRcSn8r5r) | [Nadie \(feat\. Sech & Sharo Towers\) \[Remix\]](https://open.spotify.com/album/4N2GPRKAskxYf1HQWveeFR) | 4:30 |
-| 28 | [INTERLUDE / REPORTE DEL TIEMPO](https://open.spotify.com/track/3NLDHndVSYmUt57fofO14y) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Susan Soltero](https://open.spotify.com/artist/7DdMp8sUGVIXO4dMesY6Mx) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 0:43 |
+| 27 | [INTERLUDE / REPORTE DEL TIEMPO](https://open.spotify.com/track/3NLDHndVSYmUt57fofO14y) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Susan Soltero](https://open.spotify.com/artist/7DdMp8sUGVIXO4dMesY6Mx) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 0:43 |
+| 28 | [Nadie \(feat\. Sech & Sharo Towers\) \- Remix](https://open.spotify.com/track/6pNjmMB8FTMEcqGSgs7Mji) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Sharo Towers](https://open.spotify.com/artist/4h6Eg0dBZ4Fr8vRcSn8r5r) | [Nadie \(feat\. Sech & Sharo Towers\) \[Remix\]](https://open.spotify.com/album/4N2GPRKAskxYf1HQWveeFR) | 4:30 |
 | 29 | [Bandida](https://open.spotify.com/track/1p5vF77FRuvyEQfAH5mNMP) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Bandida](https://open.spotify.com/album/5KpspLxsm5AzGLSsIxJrD2) | 2:54 |
 | 30 | [Mi Favorita](https://open.spotify.com/track/439FqaiIK6wg9eIzm4HPgL) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 3:49 |
 | 31 | [Relaciones](https://open.spotify.com/track/2TL9UACmry1qTiurBc2PjV) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Relaciones](https://open.spotify.com/album/1zzTbQ8f5t1WO3NnTgAwzu) | 3:26 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pqUP7.md) - [plain]
 | 46 | [ENERO](https://open.spotify.com/track/6i9OFbEx4fELdEbI8Q9XtO) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [El Niño](https://open.spotify.com/album/0hZRo3fmA48T0agQDHKPay) | 3:35 |
 | 47 | [Subconsciente](https://open.spotify.com/track/456NTGEm7RgEumnZuCYtJL) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Quien Contra Mi 2](https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy) | 3:46 |
 | 48 | [Ronca](https://open.spotify.com/track/5J0FhGzHv6QjlZTJfZffHb) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Ronca](https://open.spotify.com/album/7DdUS4g3GA2LegRovzMmPw) | 2:25 |
-| 49 | [Si Te Vas Conmigo](https://open.spotify.com/track/3KxiuTv3b3HqmmqsKrGNVI) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Si Te Vas Conmigo](https://open.spotify.com/album/6AAlu0DqcjBVH2bkJZoInM) | 2:40 |
-| 50 | [Fin De Semana](https://open.spotify.com/track/2DFn7QiaiaNNWXuWLABatP) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Fin De Semana](https://open.spotify.com/album/5xoULy1zmC7mR6u23LMW6B) | 2:31 |
+| 49 | [Fin De Semana](https://open.spotify.com/track/2DFn7QiaiaNNWXuWLABatP) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Fin De Semana](https://open.spotify.com/album/5xoULy1zmC7mR6u23LMW6B) | 2:31 |
+| 50 | [Si Te Vas Conmigo](https://open.spotify.com/track/3KxiuTv3b3HqmmqsKrGNVI) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Si Te Vas Conmigo](https://open.spotify.com/album/6AAlu0DqcjBVH2bkJZoInM) | 2:40 |
 | 51 | [LE GUSTA QUE LA VEAN](https://open.spotify.com/track/1VkfjnJvS5Q5Zn5TmqvcFZ) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [LE GUSTA QUE LA VEAN](https://open.spotify.com/album/52tk7FBtVA5xgzLfnzQ4jn) | 2:49 |
 
-Snapshot ID: `MjgzOTAyOTIsMDAwMDAwMDBhNDJmNzcwMzRmMWY2ZGViMmU3MWEzNDNmMjEyNTNiNA==`
+Snapshot ID: `MjgzOTE3MzQsMDAwMDAwMDBlYjdlY2NhNDk5YWM1OWFmMGRiYmIwZDFmMmM2ZTFjYw==`

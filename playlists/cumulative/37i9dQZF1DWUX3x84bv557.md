@@ -4,7 +4,7 @@
 
 > De nieuwste Nederlandse pop! Cover: Isabèl Usher
 
-448 songs - 21 hr 49 min
+449 songs - 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -201,6 +201,7 @@
 | [Hou Me Vast](https://open.spotify.com/track/5cEXuATPIXChMiJ9J2K8N5) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Hou Me Vast](https://open.spotify.com/album/1V0jz27qKfVx0veO3QrdhJ) | 3:03 | 2023-02-23 | 2023-05-19 |
 | [Hou Me Vast](https://open.spotify.com/track/575YSTycxx4BQpgNB5oG49) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Helen / Hou Me Vast](https://open.spotify.com/album/6G2S6NyTPsoPqtKAa6S1bl) | 3:36 | 2023-02-23 | 2023-05-10 |
 | [Hou Me Vast](https://open.spotify.com/track/4dvcGvGH1mplQpqfA0XeU9) | [Sem van Dijk](https://open.spotify.com/artist/3d8u5GVopjyTpSDW3v534V), [Xander de Buisonjé](https://open.spotify.com/artist/0VuP43Q70c5QRXrdgVNQXP) | [Hou Me Vast](https://open.spotify.com/album/01Dhacpie9pClDaIe3qCXj) | 3:11 | 2023-06-15 | 2023-09-22 |
+| [Hou Mij Vast](https://open.spotify.com/track/2DgtPHgQeLFRAMHKIBNN4W) | [Bazart](https://open.spotify.com/artist/3kcwSBHk3lMgHMHuxjJLNZ), [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Hou Mij Vast](https://open.spotify.com/album/1Feu6CV2sQb2tK5m6hX2qQ) | 2:33 | 2023-12-25 |  |
 | [Houden Van Mij](https://open.spotify.com/track/6YydP7xxbousqGYDNIpwtc) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Houden Van Mij](https://open.spotify.com/album/3QUGk8yFDNJWqlUU8iu0ty) | 2:18 | 2023-10-26 |  |
 | [Houden Van Mij](https://open.spotify.com/track/6EuitFOryzqbENBhziq2aS) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Houden Van Mij](https://open.spotify.com/album/0H1bolHYB0kTUHvs7cc7Zd) | 2:38 | 2023-08-24 | 2023-09-22 |
 | [Hypnose](https://open.spotify.com/track/4qghq0qfx432ZSTF7DhUPT) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Hypnose](https://open.spotify.com/album/3SyrnhZBklWC6wMamSxfQF) | 2:32 | 2023-07-13 | 2023-09-22 |

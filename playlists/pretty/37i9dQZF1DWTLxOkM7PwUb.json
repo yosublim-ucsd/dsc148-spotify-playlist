@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 36914,
+  "num_followers": 36955,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2QyNGM0NDZiYmU2MjM2YWM1YjVlZjRiYjcxYmNhM2I0ZDExZGM1",
+  "snapshot_id": "MCxjMmYzZmM5MDI1M2FjMWJmMGE4YTRiYzlmYmY4NjYwMDRiZDdmZGQ5",
   "tracks": [
     {
       "added_at": "2023-12-22 18:24:22",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-12-22 18:24:22",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Dos Mil 16",
-      "url": "https://open.spotify.com/track/4d4ZXH4dr5bYfgErHiZCX2"
-    },
-    {
-      "added_at": "2023-12-22 18:24:22",
-      "album": {
         "name": "C\u00f3mo Le Digo",
         "url": "https://open.spotify.com/album/4r9ruIPQRfmUwN2YwqUN0c"
       },
@@ -211,22 +195,6 @@
     {
       "added_at": "2023-12-22 18:24:22",
       "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 221083,
-      "name": "Chica Paranormal",
-      "url": "https://open.spotify.com/track/3krzcyMKlRXjVkJFZqMN4t"
-    },
-    {
-      "added_at": "2023-12-22 18:24:22",
-      "album": {
         "name": "Culpables",
         "url": "https://open.spotify.com/album/0WmqKVGQgIYleOI8gtWP1w"
       },
@@ -267,8 +235,8 @@
     {
       "added_at": "2023-12-22 18:24:22",
       "album": {
-        "name": "Amorfoda",
-        "url": "https://open.spotify.com/album/4BrJhFl3j50A69ZktbzZAg"
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
       "artists": [
         {
@@ -276,37 +244,25 @@
           "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 153887,
-      "name": "Amorfoda",
-      "url": "https://open.spotify.com/track/68QcquxCS39cQGTsRrJWIR"
+      "duration_ms": 208615,
+      "name": "Dos Mil 16",
+      "url": "https://open.spotify.com/track/4d4ZXH4dr5bYfgErHiZCX2"
     },
     {
       "added_at": "2023-12-22 18:24:22",
       "album": {
-        "name": "Loca Remix",
-        "url": "https://open.spotify.com/album/5EuK2rW0iPINmt21KPbIUQ"
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
       },
       "artists": [
         {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 346460,
-      "name": "Loca - Remix",
-      "url": "https://open.spotify.com/track/2ECIwi1a7mfokdDkkJ08Ne"
+      "duration_ms": 221083,
+      "name": "Chica Paranormal",
+      "url": "https://open.spotify.com/track/3krzcyMKlRXjVkJFZqMN4t"
     },
     {
       "added_at": "2023-12-22 18:24:22",
@@ -367,6 +323,34 @@
     {
       "added_at": "2023-12-22 18:24:22",
       "album": {
+        "name": "Loca Remix",
+        "url": "https://open.spotify.com/album/5EuK2rW0iPINmt21KPbIUQ"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 346460,
+      "name": "Loca - Remix",
+      "url": "https://open.spotify.com/track/2ECIwi1a7mfokdDkkJ08Ne"
+    },
+    {
+      "added_at": "2023-12-22 18:24:22",
+      "album": {
         "name": "Arriba",
         "url": "https://open.spotify.com/album/0HlvBztJb8mQPHUZqZDHzb"
       },
@@ -411,6 +395,26 @@
     {
       "added_at": "2023-12-22 18:24:22",
       "album": {
+        "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
+        "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "duration_ms": 146341,
+      "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
+      "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
+    },
+    {
+      "added_at": "2023-12-22 18:24:22",
+      "album": {
         "name": "Dime Cuantas Veces",
         "url": "https://open.spotify.com/album/1wSMAcEuohxdQXrz8uBzqd"
       },
@@ -447,22 +451,18 @@
     {
       "added_at": "2023-12-22 18:24:22",
       "album": {
-        "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
-        "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
+        "name": "Amorfoda",
+        "url": "https://open.spotify.com/album/4BrJhFl3j50A69ZktbzZAg"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 146341,
-      "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
-      "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
+      "duration_ms": 153887,
+      "name": "Amorfoda",
+      "url": "https://open.spotify.com/track/68QcquxCS39cQGTsRrJWIR"
     },
     {
       "added_at": "2023-12-22 18:24:22",
@@ -483,22 +483,6 @@
       "duration_ms": 191846,
       "name": "No Me Llores",
       "url": "https://open.spotify.com/track/2fBL047Cv32R3UFEup6xkP"
-    },
-    {
-      "added_at": "2023-12-22 18:24:22",
-      "album": {
-        "name": "Soy Peor",
-        "url": "https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 257384,
-      "name": "Soy Peor",
-      "url": "https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN"
     },
     {
       "added_at": "2023-12-22 18:24:22",
@@ -579,6 +563,66 @@
     {
       "added_at": "2023-12-22 18:24:22",
       "album": {
+        "name": "YaMeFui",
+        "url": "https://open.spotify.com/album/1leCmYLFE8LDdd8uCK16U2"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 182594,
+      "name": "YaMeFui",
+      "url": "https://open.spotify.com/track/42ahuAFlYGjIGBpVdHcLij"
+    },
+    {
+      "added_at": "2023-12-22 18:24:22",
+      "album": {
+        "name": "Soy Peor",
+        "url": "https://open.spotify.com/album/7ofZgPzOIVXY4ADCrGUqgF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 257384,
+      "name": "Soy Peor",
+      "url": "https://open.spotify.com/track/1JxhrUWZjuI8AOjDJ1JpMN"
+    },
+    {
+      "added_at": "2023-12-22 18:24:22",
+      "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/2dDtHdc2Pc6S3na6jIqqCn"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "duration_ms": 182183,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/0BMXB8USeC2zVufRWBcMuY"
+    },
+    {
+      "added_at": "2023-12-22 18:24:22",
+      "album": {
         "name": "Tres Rosas",
         "url": "https://open.spotify.com/album/6mvvlcmcxcEb5dGRbGPa06"
       },
@@ -611,46 +655,6 @@
       "duration_ms": 216306,
       "name": "GPS (feat. French Montana)",
       "url": "https://open.spotify.com/track/3t6j6WNv2OSn6qm5Vxynub"
-    },
-    {
-      "added_at": "2023-12-22 18:24:22",
-      "album": {
-        "name": "Dime Si Te Acuerdas",
-        "url": "https://open.spotify.com/album/3rnV3xx6ipgydVX9ADJKh1"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 187272,
-      "name": "Dime Si Te Acuerdas",
-      "url": "https://open.spotify.com/track/3kG1jgWIDmjJkXhOiOmioO"
-    },
-    {
-      "added_at": "2023-12-22 18:24:22",
-      "album": {
-        "name": "YaMeFui",
-        "url": "https://open.spotify.com/album/1leCmYLFE8LDdd8uCK16U2"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 182594,
-      "name": "YaMeFui",
-      "url": "https://open.spotify.com/track/42ahuAFlYGjIGBpVdHcLij"
     },
     {
       "added_at": "2023-12-22 18:24:22",
@@ -699,26 +703,6 @@
     {
       "added_at": "2023-12-22 18:24:22",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/2dDtHdc2Pc6S3na6jIqqCn"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
-        }
-      ],
-      "duration_ms": 182183,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/0BMXB8USeC2zVufRWBcMuY"
-    },
-    {
-      "added_at": "2023-12-22 18:24:22",
-      "album": {
         "name": "Homerun",
         "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
       },
@@ -735,6 +719,22 @@
     {
       "added_at": "2023-12-22 18:24:22",
       "album": {
+        "name": "S.A.D",
+        "url": "https://open.spotify.com/album/2y4bx11ZTk9jxo0zXwLhLm"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 128375,
+      "name": "S.A.D",
+      "url": "https://open.spotify.com/track/0ZGNuav3HfUf1iOLoF3CaO"
+    },
+    {
+      "added_at": "2023-12-22 18:24:22",
+      "album": {
         "name": "Colocao",
         "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
       },
@@ -747,6 +747,22 @@
       "duration_ms": 179966,
       "name": "Colocao",
       "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
+    },
+    {
+      "added_at": "2023-12-22 18:24:22",
+      "album": {
+        "name": "Dime Si Te Acuerdas",
+        "url": "https://open.spotify.com/album/3rnV3xx6ipgydVX9ADJKh1"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 187272,
+      "name": "Dime Si Te Acuerdas",
+      "url": "https://open.spotify.com/track/3kG1jgWIDmjJkXhOiOmioO"
     },
     {
       "added_at": "2023-12-22 18:24:22",
@@ -787,22 +803,6 @@
       "duration_ms": 141864,
       "name": "La Trampa es Ley",
       "url": "https://open.spotify.com/track/5Us3svqTvNAdnQfEYfoL5g"
-    },
-    {
-      "added_at": "2023-12-22 18:24:22",
-      "album": {
-        "name": "S.A.D",
-        "url": "https://open.spotify.com/album/2y4bx11ZTk9jxo0zXwLhLm"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 128375,
-      "name": "S.A.D",
-      "url": "https://open.spotify.com/track/0ZGNuav3HfUf1iOLoF3CaO"
     },
     {
       "added_at": "2023-12-22 18:24:22",
@@ -859,6 +859,26 @@
     {
       "added_at": "2023-12-22 18:24:22",
       "album": {
+        "name": "La Oscuridad",
+        "url": "https://open.spotify.com/album/0F7m8664oTaF5SbaqoDINb"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 264905,
+      "name": "Triste",
+      "url": "https://open.spotify.com/track/6pnzUCBMwMT5rvx6PyhusZ"
+    },
+    {
+      "added_at": "2023-12-22 18:24:22",
+      "album": {
         "name": "Cerca de ti (feat. Rusherking, Bhavi, Tobi) [Remix]",
         "url": "https://open.spotify.com/album/6vrYsaL806YXpu93pEqFY3"
       },
@@ -891,22 +911,6 @@
       "duration_ms": 241847,
       "name": "Cerca de ti (feat. Rusherking, Bhavi, Tobi) - Remix",
       "url": "https://open.spotify.com/track/7ifCZvsDAyzveOHqUYbrpz"
-    },
-    {
-      "added_at": "2023-12-22 18:24:22",
-      "album": {
-        "name": "Si Te Vas",
-        "url": "https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b"
-      },
-      "artists": [
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 240441,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e"
     },
     {
       "added_at": "2023-12-22 18:24:22",
@@ -967,6 +971,22 @@
     {
       "added_at": "2023-12-22 18:24:22",
       "album": {
+        "name": "Si Te Vas",
+        "url": "https://open.spotify.com/album/70pzt9WWiOAgyOugEXpF2b"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 240441,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/5VsHkOtg0Llpa6mTGZhp5e"
+    },
+    {
+      "added_at": "2023-12-22 18:24:22",
+      "album": {
         "name": "Sigues Preguntando (Remix)",
         "url": "https://open.spotify.com/album/0RxPmbaFmVq10fSVw5xeOv"
       },
@@ -1011,26 +1031,6 @@
       "duration_ms": 196363,
       "name": "C14TORCE II",
       "url": "https://open.spotify.com/track/2e2ZtZbe6rQoOnUizqowNT"
-    },
-    {
-      "added_at": "2023-12-22 18:24:22",
-      "album": {
-        "name": "La Oscuridad",
-        "url": "https://open.spotify.com/album/0F7m8664oTaF5SbaqoDINb"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 264905,
-      "name": "Triste",
-      "url": "https://open.spotify.com/track/6pnzUCBMwMT5rvx6PyhusZ"
     },
     {
       "added_at": "2023-12-22 18:24:22",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2023-12-22 18:24:22",
       "album": {
-        "name": "Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
-        }
-      ],
-      "duration_ms": 245141,
-      "name": "Dejar Atr\u00e1s / Rompe Corazones",
-      "url": "https://open.spotify.com/track/2UZkyyrceQx4PP1cMIpMkO"
-    },
-    {
-      "added_at": "2023-12-22 18:24:22",
-      "album": {
         "name": "Sexy (feat. Marlku)",
         "url": "https://open.spotify.com/album/0kVRyKb6YCBggbll6m5QSu"
       },
@@ -1219,22 +1199,22 @@
     {
       "added_at": "2023-12-22 18:24:22",
       "album": {
-        "name": "Ahora No (feat. Kodigo)",
-        "url": "https://open.spotify.com/album/6hoAtWCxorwTPscEuWK4Ys"
+        "name": "Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi"
       },
       "artists": [
         {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
         },
         {
-          "name": "Kodigo",
-          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
         }
       ],
-      "duration_ms": 199160,
-      "name": "Ahora No (feat. Kodigo)",
-      "url": "https://open.spotify.com/track/26CBgVxQ7oxdiKWVpfN9xJ"
+      "duration_ms": 245141,
+      "name": "Dejar Atr\u00e1s / Rompe Corazones",
+      "url": "https://open.spotify.com/track/2UZkyyrceQx4PP1cMIpMkO"
     },
     {
       "added_at": "2023-12-22 18:24:22",
@@ -1323,6 +1303,26 @@
     {
       "added_at": "2023-12-22 18:24:22",
       "album": {
+        "name": "Ahora No (feat. Kodigo)",
+        "url": "https://open.spotify.com/album/6hoAtWCxorwTPscEuWK4Ys"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "Kodigo",
+          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
+        }
+      ],
+      "duration_ms": 199160,
+      "name": "Ahora No (feat. Kodigo)",
+      "url": "https://open.spotify.com/track/26CBgVxQ7oxdiKWVpfN9xJ"
+    },
+    {
+      "added_at": "2023-12-22 18:24:22",
+      "album": {
         "name": "A fuego (Bizarrap Remix)",
         "url": "https://open.spotify.com/album/3s7yFDaJ8eEFQyHvhvD0ap"
       },
@@ -1363,6 +1363,22 @@
       "duration_ms": 233691,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/42aeewG3eWoiBVPHL4uIXs"
+    },
+    {
+      "added_at": "2023-12-22 18:24:22",
+      "album": {
+        "name": "C14TORCE III",
+        "url": "https://open.spotify.com/album/588LtwOHlhE4L4VulRdO7e"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 143680,
+      "name": "C14TORCE III",
+      "url": "https://open.spotify.com/track/5feYWe3hr9hZ7jEXfa2UcS"
     },
     {
       "added_at": "2023-12-22 18:24:22",
@@ -1423,22 +1439,6 @@
     {
       "added_at": "2023-12-22 18:24:22",
       "album": {
-        "name": "C14TORCE III",
-        "url": "https://open.spotify.com/album/588LtwOHlhE4L4VulRdO7e"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 143680,
-      "name": "C14TORCE III",
-      "url": "https://open.spotify.com/track/5feYWe3hr9hZ7jEXfa2UcS"
-    },
-    {
-      "added_at": "2023-12-22 18:24:22",
-      "album": {
         "name": "Roto",
         "url": "https://open.spotify.com/album/4t8ZGNfpheMeR1LtpPcFO3"
       },
@@ -1455,46 +1455,6 @@
       "duration_ms": 208788,
       "name": "Roto",
       "url": "https://open.spotify.com/track/7smdtKHVmp95gIMGSoIul4"
-    },
-    {
-      "added_at": "2023-12-22 18:24:22",
-      "album": {
-        "name": "Parte de Mi (feat. Lit Killah)",
-        "url": "https://open.spotify.com/album/4xkKYfcSKi3SgMdO7zi6Bo"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        }
-      ],
-      "duration_ms": 194092,
-      "name": "Parte de Mi (feat. Lit Killah)",
-      "url": "https://open.spotify.com/track/4OocfNloIRk77ncIKBdYwb"
-    },
-    {
-      "added_at": "2023-12-22 18:24:22",
-      "album": {
-        "name": "DESPUES QUE TE PERDI",
-        "url": "https://open.spotify.com/album/42WNwBmPUmwfEfU92jiLvn"
-      },
-      "artists": [
-        {
-          "name": "Jon Z",
-          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
-        },
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 247174,
-      "name": "DESPUES QUE TE PERDI",
-      "url": "https://open.spotify.com/track/5gsW8TMmNVnevjq13h0Nlp"
     },
     {
       "added_at": "2023-12-22 18:24:22",
@@ -1519,6 +1479,46 @@
       "duration_ms": 197107,
       "name": "LA PRIMERA VEZ",
       "url": "https://open.spotify.com/track/4ycnpTN1gmqOfxkLfBNbWB"
+    },
+    {
+      "added_at": "2023-12-22 18:24:22",
+      "album": {
+        "name": "DESPUES QUE TE PERDI",
+        "url": "https://open.spotify.com/album/42WNwBmPUmwfEfU92jiLvn"
+      },
+      "artists": [
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 247174,
+      "name": "DESPUES QUE TE PERDI",
+      "url": "https://open.spotify.com/track/5gsW8TMmNVnevjq13h0Nlp"
+    },
+    {
+      "added_at": "2023-12-22 18:24:22",
+      "album": {
+        "name": "Parte de Mi (feat. Lit Killah)",
+        "url": "https://open.spotify.com/album/4xkKYfcSKi3SgMdO7zi6Bo"
+      },
+      "artists": [
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "duration_ms": 194092,
+      "name": "Parte de Mi (feat. Lit Killah)",
+      "url": "https://open.spotify.com/track/4OocfNloIRk77ncIKBdYwb"
     },
     {
       "added_at": "2023-12-22 18:24:22",
@@ -1939,30 +1939,6 @@
     {
       "added_at": "2023-12-22 18:24:22",
       "album": {
-        "name": "Calle 2 (Remix)",
-        "url": "https://open.spotify.com/album/1o0MhCJitsOdbXSifxCH07"
-      },
-      "artists": [
-        {
-          "name": "FMK",
-          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
-        },
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Coscu",
-          "url": "https://open.spotify.com/artist/1zRCMyk3hHYkMScpzvIVQm"
-        }
-      ],
-      "duration_ms": 222080,
-      "name": "Calle 2 - Remix",
-      "url": "https://open.spotify.com/track/45qpVdZAbONKliwh1ZD8nK"
-    },
-    {
-      "added_at": "2023-12-22 18:24:22",
-      "album": {
         "name": "CON OTRA",
         "url": "https://open.spotify.com/album/52PuSx5sskih9PSdXE254e"
       },
@@ -2011,6 +1987,22 @@
       "duration_ms": 118746,
       "name": "Te Vas",
       "url": "https://open.spotify.com/track/2mFfut7uFV9zEwAcIZIw0B"
+    },
+    {
+      "added_at": "2023-12-22 18:24:22",
+      "album": {
+        "name": "P\u00e1lida",
+        "url": "https://open.spotify.com/album/4uYwoI1en0Kz8GreBrvYaI"
+      },
+      "artists": [
+        {
+          "name": "Robert Tiamo",
+          "url": "https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "P\u00e1lida",
+      "url": "https://open.spotify.com/track/2G79QDw6dd7sdppfyAf2tQ"
     }
   ],
   "unique_name": "Trap Luv",

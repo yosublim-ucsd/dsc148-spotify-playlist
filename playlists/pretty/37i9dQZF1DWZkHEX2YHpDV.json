@@ -1,12 +1,12 @@
 {
   "description": "pop punk, emo, post-hardcore, alt, & more. Cover: Four Year Strong",
-  "num_followers": 457149,
+  "num_followers": 457173,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmQ0ZTBjNTE0ZmZjMjIwZWUwMjM3NjAxYzI2NTRiZDMyYTI0OTU1",
+  "snapshot_id": "MCw2ZjUyYjBmYmRjM2RhMGE3NGZiZjVhMTRhOWYzZDhhMzY2Y2YzNmZj",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "RUCKUS!",
-        "url": "https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 199196,
-      "name": "I Hope You Choke!",
-      "url": "https://open.spotify.com/track/5q6pgHMUEIdq78NVmmytL5"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Basement",
         "url": "https://open.spotify.com/album/0hWOLHDlMwS0hDhf1ITHVz"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 204147,
       "name": "Basement",
       "url": "https://open.spotify.com/track/2acM5LqZRO1Tsv2PFKOXKy"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "RUCKUS!",
+        "url": "https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 199196,
+      "name": "I Hope You Choke!",
+      "url": "https://open.spotify.com/track/5q6pgHMUEIdq78NVmmytL5"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Perfect",
-        "url": "https://open.spotify.com/album/7Ecotv7Pdu4utXTqulJ45n"
-      },
-      "artists": [
-        {
-          "name": "The Veronicas",
-          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
-        }
-      ],
-      "duration_ms": 153642,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/5Vfl6AYr1PyG4BcEMIr8oT"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "When You Were Here",
         "url": "https://open.spotify.com/album/7GZBTgJndaIafQWJaXGZw0"
       },
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "SCUMBAG",
-        "url": "https://open.spotify.com/album/3T9sAXQL2HqNvpA2lE6t1C"
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/7Ecotv7Pdu4utXTqulJ45n"
       },
       "artists": [
         {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+          "name": "The Veronicas",
+          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
         }
       ],
-      "duration_ms": 186910,
-      "name": "SCUMBAG",
-      "url": "https://open.spotify.com/track/0kYWQcuHGs0tqZHRTCfhR1"
+      "duration_ms": 153642,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/5Vfl6AYr1PyG4BcEMIr8oT"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1163,6 +1147,22 @@
       "duration_ms": 171160,
       "name": "A Part Is Better Than Zero",
       "url": "https://open.spotify.com/track/543wagQkIF3rRZQh12hoQH"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "SCUMBAG",
+        "url": "https://open.spotify.com/album/3T9sAXQL2HqNvpA2lE6t1C"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "duration_ms": 186910,
+      "name": "SCUMBAG",
+      "url": "https://open.spotify.com/track/0kYWQcuHGs0tqZHRTCfhR1"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Alameda County Fair",
-        "url": "https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P"
-      },
-      "artists": [
-        {
-          "name": "Mom Jeans.",
-          "url": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h"
-        }
-      ],
-      "duration_ms": 147546,
-      "name": "Alameda County Fair",
-      "url": "https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "I Left You In Minnesota",
         "url": "https://open.spotify.com/album/5okhFmMB4fzu8QCB4ZGXWP"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 144272,
       "name": "Alone (feat. Travis Barker)",
       "url": "https://open.spotify.com/track/7cPUCY8PwRVhamOe7p2j3u"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Alameda County Fair",
+        "url": "https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P"
+      },
+      "artists": [
+        {
+          "name": "Mom Jeans.",
+          "url": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h"
+        }
+      ],
+      "duration_ms": 147546,
+      "name": "Alameda County Fair",
+      "url": "https://open.spotify.com/track/4TH0Qoe9V6gtXMvr75SwKt"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "The Hum Goes on Forever",
-        "url": "https://open.spotify.com/album/0g2D3Epl3VzLbvtVeQhJQv"
-      },
-      "artists": [
-        {
-          "name": "The Wonder Years",
-          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
-        }
-      ],
-      "duration_ms": 225838,
-      "name": "Wyatt\u2019s Song (Your Name)",
-      "url": "https://open.spotify.com/track/2zTZW5oH5ccgAYV2e1YsDl"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Disposable Everything",
         "url": "https://open.spotify.com/album/0uDWPhORO8SgKok6AuEyAc"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 120659,
       "name": "Dissonance",
       "url": "https://open.spotify.com/track/7mOD2D8wpU4X5XgZS0dhTA"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "The Hum Goes on Forever",
+        "url": "https://open.spotify.com/album/0g2D3Epl3VzLbvtVeQhJQv"
+      },
+      "artists": [
+        {
+          "name": "The Wonder Years",
+          "url": "https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K"
+        }
+      ],
+      "duration_ms": 225838,
+      "name": "Wyatt\u2019s Song (Your Name)",
+      "url": "https://open.spotify.com/track/2zTZW5oH5ccgAYV2e1YsDl"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1995,6 +1995,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Join The Club",
+        "url": "https://open.spotify.com/album/45XFiYaalYoNTcM5Kb4IXW"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "duration_ms": 185294,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/0kNU85u2uCl9k9zAJLfo9T"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Heart To Heart",
         "url": "https://open.spotify.com/album/1RKGfcA6p650pXnS8iirDU"
       },
@@ -2015,22 +2031,6 @@
       "duration_ms": 218400,
       "name": "Heart To Heart",
       "url": "https://open.spotify.com/track/5yuVgliuMEcgFcEwNCTfiz"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Join The Club",
-        "url": "https://open.spotify.com/album/45XFiYaalYoNTcM5Kb4IXW"
-      },
-      "artists": [
-        {
-          "name": "As December Falls",
-          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
-        }
-      ],
-      "duration_ms": 185294,
-      "name": "Carousel",
-      "url": "https://open.spotify.com/track/0kNU85u2uCl9k9zAJLfo9T"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2123,26 +2123,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "A. Hole",
-        "url": "https://open.spotify.com/album/0oyN7KFYXUH32KK5jxxcDj"
-      },
-      "artists": [
-        {
-          "name": "Phi11a",
-          "url": "https://open.spotify.com/artist/1QrAumNRmmekZeMDVTUfbS"
-        },
-        {
-          "name": "BESTIES",
-          "url": "https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj"
-        }
-      ],
-      "duration_ms": 152060,
-      "name": "A. Hole",
-      "url": "https://open.spotify.com/track/6E3Eza0e2suQcGmVDLSa97"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "CYAN1DE (feat. Pete Wentz)",
         "url": "https://open.spotify.com/album/10fQxebU1iCQ64dLuNcjMR"
       },
@@ -2159,6 +2139,26 @@
       "duration_ms": 231882,
       "name": "CYAN1DE (feat. PETE WENTZ)",
       "url": "https://open.spotify.com/track/1v64n1ScLjCccCw75vgqAY"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "A. Hole",
+        "url": "https://open.spotify.com/album/0oyN7KFYXUH32KK5jxxcDj"
+      },
+      "artists": [
+        {
+          "name": "Phi11a",
+          "url": "https://open.spotify.com/artist/1QrAumNRmmekZeMDVTUfbS"
+        },
+        {
+          "name": "BESTIES",
+          "url": "https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj"
+        }
+      ],
+      "duration_ms": 152060,
+      "name": "A. Hole",
+      "url": "https://open.spotify.com/track/6E3Eza0e2suQcGmVDLSa97"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Everything Else Can Wait",
-        "url": "https://open.spotify.com/album/32m8WHzsazOVcVLTL6IKiN"
-      },
-      "artists": [
-        {
-          "name": "We The Kings",
-          "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
-        }
-      ],
-      "duration_ms": 218290,
-      "name": "Everything Else Can Wait",
-      "url": "https://open.spotify.com/track/7sgmhETQa3Q2AcbBUmDj1r"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "brkdwn",
         "url": "https://open.spotify.com/album/7pkLbvZVOIfOd5e4C1N3t1"
       },
@@ -2403,22 +2387,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "catastrophe",
-        "url": "https://open.spotify.com/album/2jEt25RLXZn6gtav3jtven"
+        "name": "Everything Else Can Wait",
+        "url": "https://open.spotify.com/album/32m8WHzsazOVcVLTL6IKiN"
       },
       "artists": [
         {
-          "name": "poptropicaslutz!",
-          "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
-        },
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+          "name": "We The Kings",
+          "url": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
         }
       ],
-      "duration_ms": 156430,
-      "name": "catastrophe",
-      "url": "https://open.spotify.com/track/23CIjjRFiqwaAGHmF1p5oX"
+      "duration_ms": 218290,
+      "name": "Everything Else Can Wait",
+      "url": "https://open.spotify.com/track/7sgmhETQa3Q2AcbBUmDj1r"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2447,6 +2427,26 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "catastrophe",
+        "url": "https://open.spotify.com/album/2jEt25RLXZn6gtav3jtven"
+      },
+      "artists": [
+        {
+          "name": "poptropicaslutz!",
+          "url": "https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8"
+        },
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "duration_ms": 156430,
+      "name": "catastrophe",
+      "url": "https://open.spotify.com/track/23CIjjRFiqwaAGHmF1p5oX"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Punkstar (feat. Royal & the Serpent)",
         "url": "https://open.spotify.com/album/5waz9PhRXRpr5LKEkPr09t"
       },
@@ -2467,22 +2467,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Lacerate",
-        "url": "https://open.spotify.com/album/0tUGsLsmMtRk1YzpGExEhX"
-      },
-      "artists": [
-        {
-          "name": "Anberlin",
-          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
-        }
-      ],
-      "duration_ms": 210022,
-      "name": "Lacerate",
-      "url": "https://open.spotify.com/track/2rR7ZDUEZNahj6RcV6U80J"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "toothfairy",
         "url": "https://open.spotify.com/album/3h7BdSI3zOT1c4WhAGOEHd"
       },
@@ -2495,6 +2479,22 @@
       "duration_ms": 140598,
       "name": "toothfairy",
       "url": "https://open.spotify.com/track/4mG5tpeiYVHiy8gRKNCVcn"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Lacerate",
+        "url": "https://open.spotify.com/album/0tUGsLsmMtRk1YzpGExEhX"
+      },
+      "artists": [
+        {
+          "name": "Anberlin",
+          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
+        }
+      ],
+      "duration_ms": 210022,
+      "name": "Lacerate",
+      "url": "https://open.spotify.com/track/2rR7ZDUEZNahj6RcV6U80J"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2583,18 +2583,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Hell Is A Teenage Girl",
-        "url": "https://open.spotify.com/album/7Dggd87vkUC1VsMmrUw4bZ"
+        "name": "F.A.K.E.",
+        "url": "https://open.spotify.com/album/7goGf0jKhZplndWQVT7KkH"
       },
       "artists": [
         {
-          "name": "Hannah Grae",
-          "url": "https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV"
+          "name": "CLIFFDIVER",
+          "url": "https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x"
         }
       ],
-      "duration_ms": 184733,
-      "name": "Well I Hope Ur Happy",
-      "url": "https://open.spotify.com/track/0BAwN4aylbMlgX10Gaaw8o"
+      "duration_ms": 137397,
+      "name": "F.A.K.E.",
+      "url": "https://open.spotify.com/track/4wwOhNPQXD88Tz0AY5a7Lj"
     }
   ],
   "unique_name": "The Scene",

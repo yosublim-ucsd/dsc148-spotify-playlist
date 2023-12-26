@@ -1,12 +1,12 @@
 {
   "description": "A sizzling hot soundtrack for your sunshine social.",
-  "num_followers": 633960,
+  "num_followers": 633972,
   "original_name": "Summer BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjVlOTdkMDk3YWVjYzBlZDcxZGExOThkNDVlZDNlZGFlMjBhZWZj",
+  "snapshot_id": "MCw1YzM4ZjBiM2VkNGJlYzFlZGQ2ZjVmYzFhZmU1ODkzYjdhYTM3MWQ3",
   "tracks": [
     {
       "added_at": "2023-05-23 14:59:14",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-05-23 14:59:14",
       "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 172933,
+      "name": "One Love / People Get Ready - Medley",
+      "url": "https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV"
+    },
+    {
+      "added_at": "2023-05-23 14:59:14",
+      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 227933,
       "name": "Gettin' Jiggy Wit It",
       "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp"
-    },
-    {
-      "added_at": "2023-05-23 14:59:14",
-      "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 172933,
-      "name": "One Love / People Get Ready - Medley",
-      "url": "https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV"
     },
     {
       "added_at": "2023-05-23 14:59:14",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-05-23 14:59:14",
       "album": {
-        "name": "Big Willie Style",
-        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+        "name": "Confrontation",
+        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
       },
       "artists": [
         {
-          "name": "Will Smith",
-          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 197560,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
+      "duration_ms": 255840,
+      "name": "Buffalo Soldier",
+      "url": "https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb"
     },
     {
       "added_at": "2023-05-23 14:59:14",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-05-23 14:59:14",
       "album": {
-        "name": "Confrontation",
-        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 255840,
-      "name": "Buffalo Soldier",
-      "url": "https://open.spotify.com/track/7BfW1eoDh27W69nxsmRicb"
-    },
-    {
-      "added_at": "2023-05-23 14:59:14",
-      "album": {
         "name": "Paul Simon",
         "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
       },
@@ -703,6 +687,22 @@
     {
       "added_at": "2023-05-23 14:59:14",
       "album": {
+        "name": "Big Willie Style",
+        "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
+      },
+      "artists": [
+        {
+          "name": "Will Smith",
+          "url": "https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx"
+        }
+      ],
+      "duration_ms": 197560,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
+    },
+    {
+      "added_at": "2023-05-23 14:59:14",
+      "album": {
         "name": "Welcome to Jamrock",
         "url": "https://open.spotify.com/album/4Y0PrDckfFKxKaVXsscDLB"
       },
@@ -719,18 +719,18 @@
     {
       "added_at": "2023-05-23 14:59:14",
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
+        "name": "World Clique",
+        "url": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Deee-Lite",
+          "url": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
         }
       ],
-      "duration_ms": 231618,
-      "name": "Ye",
-      "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
+      "duration_ms": 231786,
+      "name": "Groove Is in the Heart",
+      "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb"
     },
     {
       "added_at": "2023-05-23 14:59:14",
@@ -751,18 +751,18 @@
     {
       "added_at": "2023-05-23 14:59:14",
       "album": {
-        "name": "World Clique",
-        "url": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
       },
       "artists": [
         {
-          "name": "Deee-Lite",
-          "url": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 231786,
-      "name": "Groove Is in the Heart",
-      "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb"
+      "duration_ms": 231618,
+      "name": "Ye",
+      "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
     },
     {
       "added_at": "2023-05-23 14:59:14",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-05-23 14:59:14",
       "album": {
-        "name": "The Best of Big Mountain",
-        "url": "https://open.spotify.com/album/4QHFXQLRwZx5122InHluo5"
-      },
-      "artists": [
-        {
-          "name": "Big Mountain",
-          "url": "https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH"
-        }
-      ],
-      "duration_ms": 249520,
-      "name": "Baby, I Love Your Way",
-      "url": "https://open.spotify.com/track/1Rvl8qsKJurfFTyWLBI9ib"
-    },
-    {
-      "added_at": "2023-05-23 14:59:14",
-      "album": {
         "name": "Straight from the Heart (Remastered)",
         "url": "https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g"
       },
@@ -899,18 +883,34 @@
     {
       "added_at": "2023-05-23 14:59:14",
       "album": {
-        "name": "Everybody Loves The Sunshine (Reissue)",
-        "url": "https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf"
+        "name": "The Best of Big Mountain",
+        "url": "https://open.spotify.com/album/4QHFXQLRwZx5122InHluo5"
       },
       "artists": [
         {
-          "name": "Roy Ayers Ubiquity",
-          "url": "https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7"
+          "name": "Big Mountain",
+          "url": "https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH"
         }
       ],
-      "duration_ms": 239666,
-      "name": "Everybody Loves The Sunshine",
-      "url": "https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso"
+      "duration_ms": 249520,
+      "name": "Baby, I Love Your Way",
+      "url": "https://open.spotify.com/track/1Rvl8qsKJurfFTyWLBI9ib"
+    },
+    {
+      "added_at": "2023-05-23 14:59:14",
+      "album": {
+        "name": "In the Summertime",
+        "url": "https://open.spotify.com/album/17JTrT5dXyWYs0xmsnunp7"
+      },
+      "artists": [
+        {
+          "name": "Mungo Jerry",
+          "url": "https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb"
+        }
+      ],
+      "duration_ms": 211880,
+      "name": "In the Summertime",
+      "url": "https://open.spotify.com/track/2uzlv8PjqsVvF1DhEahyhy"
     },
     {
       "added_at": "2023-05-23 14:59:14",
@@ -931,18 +931,18 @@
     {
       "added_at": "2023-05-23 14:59:14",
       "album": {
-        "name": "In the Summertime",
-        "url": "https://open.spotify.com/album/17JTrT5dXyWYs0xmsnunp7"
+        "name": "Everybody Loves The Sunshine (Reissue)",
+        "url": "https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf"
       },
       "artists": [
         {
-          "name": "Mungo Jerry",
-          "url": "https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb"
+          "name": "Roy Ayers Ubiquity",
+          "url": "https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7"
         }
       ],
-      "duration_ms": 211880,
-      "name": "In the Summertime",
-      "url": "https://open.spotify.com/track/2uzlv8PjqsVvF1DhEahyhy"
+      "duration_ms": 239666,
+      "name": "Everybody Loves The Sunshine",
+      "url": "https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso"
     },
     {
       "added_at": "2023-05-23 14:59:14",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-05-23 14:59:14",
       "album": {
-        "name": "Stand",
-        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
-      },
-      "artists": [
-        {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
-        }
-      ],
-      "duration_ms": 141506,
-      "name": "Everyday People",
-      "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
-    },
-    {
-      "added_at": "2023-05-23 14:59:14",
-      "album": {
         "name": "Bloody Tourists",
         "url": "https://open.spotify.com/album/3MecVG0PeBObAhjwEAczFG"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 267946,
       "name": "Dreadlock Holiday",
       "url": "https://open.spotify.com/track/1LOZMYF5s8qhW7Rv4w2gun"
+    },
+    {
+      "added_at": "2023-05-23 14:59:14",
+      "album": {
+        "name": "Stand",
+        "url": "https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD"
+      },
+      "artists": [
+        {
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+        }
+      ],
+      "duration_ms": 141506,
+      "name": "Everyday People",
+      "url": "https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7"
     },
     {
       "added_at": "2023-05-23 14:59:14",

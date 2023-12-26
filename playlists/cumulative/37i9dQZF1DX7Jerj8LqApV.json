@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Binibini",
+        "url": "https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0"
+      },
+      "artists": [
+        {
+          "name": "Zack Tabudlo",
+          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Binibini",
+      "url": "https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX"
+    },
+    {
+      "album": {
         "name": "Bituin",
         "url": "https://open.spotify.com/album/1N0KVT7nC3flNBZn7cjFto"
       },
@@ -146,7 +164,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 233339,
       "name": "Crazier",
       "url": "https://open.spotify.com/track/0PQ84nbR1Owkr7RtGBmZI7"

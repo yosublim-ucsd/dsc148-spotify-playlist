@@ -1,12 +1,12 @@
 {
   "description": "Wat kan het Nederlands toch mooi zijn. Cover: Andr\u00e9 van Duin",
-  "num_followers": 21471,
+  "num_followers": 21487,
   "original_name": "Mooi Nederlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MGE2MDgyM2I0ZmIwYTk2MzA1NDMwMDgxYmE5ZTczYzk2MDFjNzlh",
+  "snapshot_id": "MCw0Y2E0YjBmYzZhODdmZTE5MWVhZjJiNjU1Y2NlNzg5YmM2ZGZkNjZi",
   "tracks": [
     {
       "added_at": "2023-12-05 10:21:02",
@@ -39,6 +39,90 @@
       "duration_ms": 211174,
       "name": "Dat heb jij gedaan",
       "url": "https://open.spotify.com/track/4wn7cO2iHlWueXGDd4gH9g"
+    },
+    {
+      "added_at": "2023-12-05 10:21:02",
+      "album": {
+        "name": "Beste Zangers 2020 (Miss Montreal)",
+        "url": "https://open.spotify.com/album/6g8ZS309YWXN7pUzfBQYhB"
+      },
+      "artists": [
+        {
+          "name": "Miss Montreal",
+          "url": "https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2"
+        },
+        {
+          "name": "Beste Zangers",
+          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
+        }
+      ],
+      "duration_ms": 170277,
+      "name": "Door De Wind",
+      "url": "https://open.spotify.com/track/3h7NZT1CATbn4GqUs51vwf"
+    },
+    {
+      "added_at": "2023-12-05 10:21:02",
+      "album": {
+        "name": "Is Dit Nu Later",
+        "url": "https://open.spotify.com/album/40pPse6bXBsVtjk8JJmovD"
+      },
+      "artists": [
+        {
+          "name": "Stef Bos",
+          "url": "https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW"
+        }
+      ],
+      "duration_ms": 193093,
+      "name": "Papa",
+      "url": "https://open.spotify.com/track/6NP6BCW2M2I4vdcnXMAvjl"
+    },
+    {
+      "added_at": "2023-12-05 10:21:02",
+      "album": {
+        "name": "! Ich Kann",
+        "url": "https://open.spotify.com/album/28WDaaO5SVwnUJ727nZ62Q"
+      },
+      "artists": [
+        {
+          "name": "Reinhard Mey",
+          "url": "https://open.spotify.com/artist/119CgQj02xyMpOobWjdb3C"
+        }
+      ],
+      "duration_ms": 315173,
+      "name": "Als De Dag Van Toen",
+      "url": "https://open.spotify.com/track/6HFGuidrK5g7QpMrBdJaBt"
+    },
+    {
+      "added_at": "2023-12-05 10:21:02",
+      "album": {
+        "name": "Kleine Jongen",
+        "url": "https://open.spotify.com/album/3bFmAoee6ezDnTaWMP7USl"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 223133,
+      "name": "Kleine Jongen",
+      "url": "https://open.spotify.com/track/0NMvLLGLKKJmSMqQSR38Sx"
+    },
+    {
+      "added_at": "2023-12-05 10:21:02",
+      "album": {
+        "name": "Blauwe Ruis",
+        "url": "https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 278600,
+      "name": "Mooie Dag",
+      "url": "https://open.spotify.com/track/0tWU6puNvcL3xTgWQxZ0DP"
     },
     {
       "added_at": "2023-12-05 10:21:02",
@@ -403,26 +487,6 @@
     {
       "added_at": "2023-12-05 10:21:02",
       "album": {
-        "name": "Beste Zangers 2020 (Miss Montreal)",
-        "url": "https://open.spotify.com/album/6g8ZS309YWXN7pUzfBQYhB"
-      },
-      "artists": [
-        {
-          "name": "Miss Montreal",
-          "url": "https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2"
-        },
-        {
-          "name": "Beste Zangers",
-          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
-        }
-      ],
-      "duration_ms": 170277,
-      "name": "Door De Wind",
-      "url": "https://open.spotify.com/track/3h7NZT1CATbn4GqUs51vwf"
-    },
-    {
-      "added_at": "2023-12-05 10:21:02",
-      "album": {
         "name": "Dag En Nacht",
         "url": "https://open.spotify.com/album/7Mjuv0IphBgLcHXhUyzCJe"
       },
@@ -547,22 +611,6 @@
     {
       "added_at": "2023-12-05 10:21:02",
       "album": {
-        "name": "Is Dit Nu Later",
-        "url": "https://open.spotify.com/album/40pPse6bXBsVtjk8JJmovD"
-      },
-      "artists": [
-        {
-          "name": "Stef Bos",
-          "url": "https://open.spotify.com/artist/4Rw9pvzG1NLs1RbB8cxBfW"
-        }
-      ],
-      "duration_ms": 193093,
-      "name": "Papa",
-      "url": "https://open.spotify.com/track/6NP6BCW2M2I4vdcnXMAvjl"
-    },
-    {
-      "added_at": "2023-12-05 10:21:02",
-      "album": {
         "name": "Oceaan",
         "url": "https://open.spotify.com/album/60F6MFfL8sCz9R21HCZ6Ac"
       },
@@ -623,22 +671,6 @@
       "duration_ms": 215493,
       "name": "Er Wordt Op Je Gewacht",
       "url": "https://open.spotify.com/track/59L9doBK0VFybuPglXAqzo"
-    },
-    {
-      "added_at": "2023-12-05 10:21:02",
-      "album": {
-        "name": "! Ich Kann",
-        "url": "https://open.spotify.com/album/28WDaaO5SVwnUJ727nZ62Q"
-      },
-      "artists": [
-        {
-          "name": "Reinhard Mey",
-          "url": "https://open.spotify.com/artist/119CgQj02xyMpOobWjdb3C"
-        }
-      ],
-      "duration_ms": 315173,
-      "name": "Als De Dag Van Toen",
-      "url": "https://open.spotify.com/track/6HFGuidrK5g7QpMrBdJaBt"
     },
     {
       "added_at": "2023-12-05 10:21:02",
@@ -1123,22 +1155,6 @@
     {
       "added_at": "2023-12-05 10:21:02",
       "album": {
-        "name": "Kleine Jongen",
-        "url": "https://open.spotify.com/album/3bFmAoee6ezDnTaWMP7USl"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 223133,
-      "name": "Kleine Jongen",
-      "url": "https://open.spotify.com/track/0NMvLLGLKKJmSMqQSR38Sx"
-    },
-    {
-      "added_at": "2023-12-05 10:21:02",
-      "album": {
         "name": "Het Beste Van",
         "url": "https://open.spotify.com/album/0J3DulwNVPpjHZSm6R6TAm"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 243733,
       "name": "Kronenburg Park",
       "url": "https://open.spotify.com/track/5l0mUA4hwewx7cj8KzBGGE"
-    },
-    {
-      "added_at": "2023-12-05 10:21:02",
-      "album": {
-        "name": "Blauwe Ruis",
-        "url": "https://open.spotify.com/album/1fkpvvE4Y5nZh6TAM9SOmK"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 278600,
-      "name": "Mooie Dag",
-      "url": "https://open.spotify.com/track/0tWU6puNvcL3xTgWQxZ0DP"
     }
   ],
   "unique_name": "Mooi Nederlands",

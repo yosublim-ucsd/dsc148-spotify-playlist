@@ -1,12 +1,12 @@
 {
   "description": "Soothing, soft piano. ",
-  "num_followers": 339862,
+  "num_followers": 339902,
   "original_name": "Soft Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2EyMjE5Y2MxNmZhYTM5ZGU1OWI1Mzg5NTQxOTMyNzc4OWJkYTU4",
+  "snapshot_id": "MCwwMWU5Y2FhYjQ0ZWE3ZmFjY2IzYTU5NzI3OWI3MTgwNGZjMGNmOWNl",
   "tracks": [
     {
       "added_at": "2023-10-24 09:37:52",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-10-24 09:37:52",
       "album": {
-        "name": "Chasing lights",
-        "url": "https://open.spotify.com/album/2hD5lpDeL7dOU3EQGxkfGX"
-      },
-      "artists": [
-        {
-          "name": "Giles Garnier",
-          "url": "https://open.spotify.com/artist/7kROE0Pp2o1NqMVIWLX3Vg"
-        }
-      ],
-      "duration_ms": 134109,
-      "name": "Chasing lights",
-      "url": "https://open.spotify.com/track/1oxnn6zzA7x9p8o46JetXm"
-    },
-    {
-      "added_at": "2023-10-24 09:37:52",
-      "album": {
         "name": "Emergence",
         "url": "https://open.spotify.com/album/1PDA8OAoJh0JIuVmuoxWuC"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 126579,
       "name": "Emergence",
       "url": "https://open.spotify.com/track/31euvr3EhfWo8GbsVVsQjy"
+    },
+    {
+      "added_at": "2023-10-24 09:37:52",
+      "album": {
+        "name": "Chasing lights",
+        "url": "https://open.spotify.com/album/2hD5lpDeL7dOU3EQGxkfGX"
+      },
+      "artists": [
+        {
+          "name": "Giles Garnier",
+          "url": "https://open.spotify.com/artist/7kROE0Pp2o1NqMVIWLX3Vg"
+        }
+      ],
+      "duration_ms": 134109,
+      "name": "Chasing lights",
+      "url": "https://open.spotify.com/track/1oxnn6zzA7x9p8o46JetXm"
     },
     {
       "added_at": "2023-10-24 09:37:52",

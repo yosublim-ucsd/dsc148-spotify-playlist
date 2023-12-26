@@ -892,7 +892,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 148797,
       "name": "3 Haseln\u00fcsse",
       "url": "https://open.spotify.com/track/38XziJOR1OFb4fJ44IUrX1"
@@ -1730,7 +1730,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 165493,
       "name": "Airberlin",
       "url": "https://open.spotify.com/track/5422qkk67RSNZizub4XkDX"
@@ -10283,6 +10283,24 @@
     },
     {
       "album": {
+        "name": "Pop Christmas Songs",
+        "url": "https://open.spotify.com/album/559V3ZrVMqvhdPz014VgGn"
+      },
+      "artists": [
+        {
+          "name": "Band Aid 30",
+          "url": "https://open.spotify.com/artist/6KfzyefHYuqfWaI5taICaN"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228916,
+      "name": "Do They Know It's Christmas? - 2014",
+      "url": "https://open.spotify.com/track/03Dpt8Z4Zww4NGJb8503zb"
+    },
+    {
+      "album": {
         "name": "Do They Know It's Christmas? (2014)",
         "url": "https://open.spotify.com/album/52BftpQh33Q4ajNsNHj4oE"
       },
@@ -10874,7 +10892,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 155573,
       "name": "drau\u00dfen essen sp\u00e4t schlafen \ud83d\udca4",
       "url": "https://open.spotify.com/track/5I9vAmNTBXXWBtKmjnBSGS"
@@ -13356,7 +13374,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-29",
+      "date_removed": null,
       "duration_ms": 272466,
       "name": "Fairytale of New York (feat. Kirsty MacColl)",
       "url": "https://open.spotify.com/track/3VTNVsTTu05dmTsVFrmGpK"
@@ -16656,7 +16674,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -17580,6 +17598,24 @@
       "duration_ms": 151750,
       "name": "Heimweh",
       "url": "https://open.spotify.com/track/2Up73vo91O3pfzjfJSdZjm"
+    },
+    {
+      "album": {
+        "name": "Rudolph The Red Nosed Reindeer And Other Christmas Classics",
+        "url": "https://open.spotify.com/album/3BPDSjoJlho8oiUPUNrShM"
+      },
+      "artists": [
+        {
+          "name": "Gene Autry",
+          "url": "https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150266,
+      "name": "Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version",
+      "url": "https://open.spotify.com/track/25leEEaz1gIpp7o21Fqyjo"
     },
     {
       "album": {
@@ -20298,7 +20334,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 155933,
       "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
       "url": "https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa"
@@ -20722,7 +20758,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 120693,
       "name": "Jingle Bells - Remastered 1999",
       "url": "https://open.spotify.com/track/4HEOgBHRCExyYVeTyrXsnL"
@@ -24712,7 +24748,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
@@ -32784,7 +32820,7 @@
       ],
       "date_added": "2023-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
@@ -35231,6 +35267,28 @@
     },
     {
       "album": {
+        "name": "Heavenly Eartha",
+        "url": "https://open.spotify.com/album/6gOVmmV26wBBgxUtbF8YZd"
+      },
+      "artists": [
+        {
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+        },
+        {
+          "name": "Henri Ren\u00e9 and His Orchestra",
+          "url": "https://open.spotify.com/artist/0oK8UXKZbQezeRhE0KeBAV"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206066,
+      "name": "Santa Baby (with Henri Ren\u00e9 & His Orchestra)",
+      "url": "https://open.spotify.com/track/1foCxQtxBweJtZmdxhEHVO"
+    },
+    {
+      "album": {
         "name": "Christmas Songs by Sinatra",
         "url": "https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU"
       },
@@ -35242,10 +35300,28 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 154640,
       "name": "Santa Claus Is Comin' to Town",
       "url": "https://open.spotify.com/track/6YeDjSHCDmJKgU8foiaruL"
+    },
+    {
+      "album": {
+        "name": "Santa Claus Is Comin' to Town (Live at C.W. Post College, Greenvale, NY - December 1975)",
+        "url": "https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267600,
+      "name": "Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",
+      "url": "https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee"
     },
     {
       "album": {
@@ -37426,7 +37502,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 121649,
       "name": "sonnenbank.mp3",
       "url": "https://open.spotify.com/track/30vg2QguPyaa7PcAJTn9YE"
@@ -42568,7 +42644,7 @@
       ],
       "date_added": "2023-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 178156,
       "name": "Vois sur ton chemin - Techno Mix",
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"

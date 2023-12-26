@@ -4,7 +4,7 @@
 
 > 
 
-416 songs - 21 hr 53 min
+417 songs - 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Same As Usual](https://open.spotify.com/track/7E7UnuDjlg1rLIrOvPfXxC) | [Lyn Ardbeg](https://open.spotify.com/artist/6cUNyotmONFDiZvl8LafA6) | [Same As Usual](https://open.spotify.com/album/0DqnmKlSE720tR5xG1AFu7) | 2:36 | 2023-12-22 |  |
 | [Sapphire Skies and Velvet Dreams](https://open.spotify.com/track/3Aon4cYBKcNb5RLopJPPrG) | [Hamilton Reed](https://open.spotify.com/artist/48VtkBYuWbEZxRWaXLJlkb) | [Sapphire Skies and Velvet Dreams](https://open.spotify.com/album/4Oqx0PEt8Yvw4YezkBu3vv) | 2:01 | 2023-06-08 |  |
 | [Say It \(Over And Over Again\)](https://open.spotify.com/track/71cmAPzuEmZZ1HZu1PDUwU) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [Say It \(Over And Over Again\)](https://open.spotify.com/album/4bw5L1NlVh6CQOccEEbOJw) | 4:27 | 2023-03-23 |  |
+| [Second Time Around](https://open.spotify.com/track/6UVDL7iRD2koITeSrXeYo0) | [Trent Garner](https://open.spotify.com/artist/6vrs8wBxBAdOuzOAr0LsZm) | [Second Time Around](https://open.spotify.com/album/7KJ6N0sOmOUq9oEH4TAoXZ) | 2:08 | 2023-12-22 |  |
 | [Sense of deja vu](https://open.spotify.com/track/6skHdCKQql2JWRHv7A6kY0) | [Irvine Martin](https://open.spotify.com/artist/14fHRMD5WDw92XuxlDXaa9) | [Sense of deja vu](https://open.spotify.com/album/5xiZ8E2KJx45TZ8tRVfff7) | 2:51 | 2023-08-11 |  |
 | [September Song](https://open.spotify.com/track/0I4fzEcHoiQTuvWw928Z6C) | [George Alec](https://open.spotify.com/artist/6qy9Pwg24brS7agh5Q4q1w) | [September Song](https://open.spotify.com/album/6JnRwXgYca3ywxqOmhuR1B) | 3:17 | 2023-03-23 |  |
 | [She's Funny That Way](https://open.spotify.com/track/0ntMtObu5NMlzV17NSvhPg) | [Ron de Lauren](https://open.spotify.com/artist/5P9IE3snjc1rSoMKPIjzod) | [She's Funny That Way](https://open.spotify.com/album/5yYAlWUjZX4PR2gHMaPyh6) | 2:23 | 2023-08-31 |  |
@@ -407,7 +408,7 @@
 | [When I Fall In Love](https://open.spotify.com/track/3Ko863Oq3qXwXXyor9VNci) | [Danny Walgreen](https://open.spotify.com/artist/5wLYued1hgW5dBLySxqoF5) | [When I Fall In Love](https://open.spotify.com/album/6YfxosS29pThRt7j2ACrom) | 4:12 | 2023-03-23 |  |
 | [When My Piano Sleeps](https://open.spotify.com/track/5phC8Pv8rQvGNwUnKmU4cZ) | [Trent Garner](https://open.spotify.com/artist/6vrs8wBxBAdOuzOAr0LsZm) | [When My Piano Sleeps](https://open.spotify.com/album/5ybfirWoSKN4w1MDQlxmIb) | 2:25 | 2023-11-17 |  |
 | [When Sunny Gets Blue](https://open.spotify.com/track/3XjlqdQQHehUrAUMYofN7a) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [When Sunny Gets Blue](https://open.spotify.com/album/52eXoXB6bX5hvKocauqYKC) | 4:03 | 2023-03-23 |  |
-| [When We Lay Down](https://open.spotify.com/track/2fra5fucGEJTFXnE7NwnKZ) | [Angelina Winter](https://open.spotify.com/artist/59hnRNabyJTGrtAmliJFEl) | [When We Lay Down](https://open.spotify.com/album/2ajchSRiNVpcEnCFSZvHNB) | 4:16 | 2023-06-08 |  |
+| [When We Lay Down](https://open.spotify.com/track/2fra5fucGEJTFXnE7NwnKZ) | [Angelina Winter](https://open.spotify.com/artist/59hnRNabyJTGrtAmliJFEl) | [When We Lay Down](https://open.spotify.com/album/2ajchSRiNVpcEnCFSZvHNB) | 4:16 | 2023-06-08 | 2023-12-26 |
 | [Where Oceans Meet](https://open.spotify.com/track/41ng9ZQDM3SPKMDT2OdZlq) | [Lee Bendroth](https://open.spotify.com/artist/1asg7ElYSc6LhJ7b9fMaFF) | [Where Oceans Meet](https://open.spotify.com/album/0DSaYTJggLCfKJnomLgKWY) | 2:26 | 2023-03-23 |  |
 | [Who Could Have Known](https://open.spotify.com/track/70Ke4CBLI0C1N0pI9hbvib) | [Karl\-Erik](https://open.spotify.com/artist/3zHaWg01z30TzjlWqSpeB4) | [I'd Never Lie to You](https://open.spotify.com/album/7dDDmbvO3WZWZ3gyhQVqiw) | 2:50 | 2023-03-23 |  |
 | [Why try to change me now](https://open.spotify.com/track/6eGpLVtbSxsiOLXT47AcIe) | [Herman Anderson](https://open.spotify.com/artist/3SoWeHWTQIqJhegPfsR5Wp) | [Why try to change me now](https://open.spotify.com/album/5uCLR0oUrQISjDJpZyqvpi) | 5:19 | 2023-03-23 |  |

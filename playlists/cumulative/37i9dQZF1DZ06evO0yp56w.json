@@ -572,10 +572,28 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 37666,
       "name": "Interlude",
       "url": "https://open.spotify.com/track/7gmQ329Ocmvb9OImqevFBF"
+    },
+    {
+      "album": {
+        "name": "Absolution",
+        "url": "https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38469,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/0Qe6Us6taV5fVd3r87dFRP"
     },
     {
       "album": {

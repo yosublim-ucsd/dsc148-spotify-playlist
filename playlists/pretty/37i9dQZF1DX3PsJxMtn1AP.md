@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 
 > A sonic wonderland of mesmerizing tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,733 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,777 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 49 | [Sunflower](https://open.spotify.com/track/5Iv0imXfXBd7URaPqlF3Te) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Sunflower](https://open.spotify.com/album/59jNWoQlsY5cudwYzu44Bl) | 4:00 |
 | 50 | [coma](https://open.spotify.com/track/5gpEgBBVfRQRJCC7qfC0bu) | [Blue Smiley](https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL) | [coma](https://open.spotify.com/album/0G0FpaE92mPvnBpEnaimyg) | 2:46 |
 
-Snapshot ID: `MCxmZjcxZjZlYmVkOTE5YmZiZWQ4YThjMWM4MWM2Njc3YTc3NTI2M2Q3`
+Snapshot ID: `MCw4MzFkM2MwN2JhNDg5MGIzOWFmMmQ0MDM3ZDljMzIxMjUxNGI3OTg0`

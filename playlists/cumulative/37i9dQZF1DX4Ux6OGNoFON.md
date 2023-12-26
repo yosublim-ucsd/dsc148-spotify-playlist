@@ -4,7 +4,7 @@
 
 > Saca, prende y sorprende con esta selección de buenas vibras\. Foto: Cultura Profética
 
-97 songs - 6 hr 16 min
+98 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Sentimiento Irie](https://open.spotify.com/track/7JH96fwwAYOxiRRLNKQcbc) | [La Tifa](https://open.spotify.com/artist/4iEgVksJc31oR01iG8vhGh) | [Pueblo](https://open.spotify.com/album/0qdHmF2X6AiVhecplSEfNU) | 3:48 | 2022-05-13 | 2022-07-29 |
 | [Sol](https://open.spotify.com/track/5puRHAfjknvAqfgHCpIdo1) | [Alaíde](https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i) | [Sol](https://open.spotify.com/album/51EJaWaQVRJXo9ZeQW0G69) | 3:11 | 2022-05-13 | 2023-03-04 |
 | [Solo Un Eco](https://open.spotify.com/track/4hWmuhICX1vxZOL1y8vYe4) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [Solo Un Eco](https://open.spotify.com/album/5gZfKeS7i3RaNBrjn5Dbl0) | 4:45 | 2023-03-17 |  |
-| [Suavemente](https://open.spotify.com/track/0YZyA7EF2LeTat01RWWzGQ) | [Don Páli](https://open.spotify.com/artist/0vmHcxir9eaM0VLfstxKMt) | [Suavemente](https://open.spotify.com/album/7qRi1ylJhlb2Kr5Fb6XF4Q) | 4:30 | 2022-05-13 |  |
+| [Suavemente](https://open.spotify.com/track/08nDWHJOHqAQHBuagonRDf) | [Don Páli](https://open.spotify.com/artist/0vmHcxir9eaM0VLfstxKMt) | [Suavemente](https://open.spotify.com/album/690cPvLs0NIomnvABfsPOl) | 4:30 | 2023-05-05 |  |
+| [Suavemente](https://open.spotify.com/track/0YZyA7EF2LeTat01RWWzGQ) | [Don Páli](https://open.spotify.com/artist/0vmHcxir9eaM0VLfstxKMt) | [Suavemente](https://open.spotify.com/album/7qRi1ylJhlb2Kr5Fb6XF4Q) | 4:30 | 2022-05-13 | 2023-12-26 |
 | [Sube el Humo](https://open.spotify.com/track/7ChGr8JqBeKaOhgvattRGs) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [M\. O\. T\. A.](https://open.spotify.com/album/6vhnau5N0tJQLP26LVJLn7) | 4:41 | 2022-07-01 |  |
 | [Sube El Humo](https://open.spotify.com/track/7u6a1GgYKhHAmJzkgf3Z9O) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [M.O.T.a.](https://open.spotify.com/album/7LF63ySuhryyEIs69iNnDv) | 4:41 | 2022-05-13 | 2022-07-29 |
 | [Things You Can't Control](https://open.spotify.com/track/389BGaLv0BIG8hcIY1a0im) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Trevor Young](https://open.spotify.com/artist/6FdpwFQezfnM4CtJuh2zaJ) | [Beauty In The Silence](https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8) | 4:04 | 2023-05-05 |  |

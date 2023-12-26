@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Austria.
 
-1,839 songs - 3 day 20 hr 0 min
+1,840 songs - 3 day 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -708,7 +708,7 @@
 | [HAPPY BIRTHDAY](https://open.spotify.com/track/3bmhalgSjoDFfDwdu21aws) | [Farid Bang](https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1), [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [HAPPY BIRTHDAY](https://open.spotify.com/album/3tla6YPbS2QgtjHC9fVGFh) | 2:52 | 2021-06-06 | 2021-06-07 |
 | [Happy End \(feat\. Sido\)](https://open.spotify.com/track/1YRaS0rNK8y9E5NeTrKe03) | [Vanessa Mai](https://open.spotify.com/artist/3WUe8ADT5d65WeByR3ubl7), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq) | [Happy End \(feat\. Sido\)](https://open.spotify.com/album/6mn16OCLGY5GW0cJiawtpM) | 2:17 | 2021-10-17 | 2021-10-26 |
 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 | 2021-11-27 |  |
-| [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK) | 2:50 | 2021-12-24 |  |
+| [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1Qi2wh8fFgDV7tl4Sj3f2K) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/3nCpXy6LlyXWuFR08tMycK) | 2:50 | 2021-12-24 | 2023-12-26 |
 | [Have Yourself A Merry Little Christmas \- Remastered 1999](https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 3:26 | 2022-12-04 | 2022-12-28 |
 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO) | 2:46 | 2021-03-27\* | 2022-01-03 |
 | [Head Shoulders Knees & Toes \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/6i7zAdNhzUN2k1HcrBxPHG) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Head Shoulders Knees & Toes \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/1MZ3ZQqAV3wFjHjaOe6KFz) | 2:36 | 2021-03-27\* | 2021-07-13 |
@@ -1795,6 +1795,7 @@
 | [Wildberry Lillet](https://open.spotify.com/track/6yeZM8gyykjaf8w0GqRfK4) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Wildberry Lillet](https://open.spotify.com/album/1zzkAbY0FKMPjn56qrgxme) | 2:12 | 2022-08-13 | 2023-02-26 |
 | [Wildberry Lillet \(Remix feat\. Juju\)](https://open.spotify.com/track/1ywM9BP8vzh0Pu1zbnGAfY) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5), [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF) | [Wildberry Lillet \(Remix feat\. Juju\)](https://open.spotify.com/album/68YT84vuoXApmgcibxxM9v) | 2:18 | 2022-09-17 | 2022-09-19 |
 | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/track/1K39ty6o1sHwwlZwO6a7wK) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:40 | 2023-10-28 | 2023-10-30 |
+| [Winter Wonderland](https://open.spotify.com/track/1YBItUnKj01KBXhpFtvINp) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 2:24 | 2023-12-25 |  |
 | [Wish You The Best](https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best](https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS) | 3:30 | 2023-04-15 | 2023-04-29 |
 | [Without Me](https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:50 | 2022-02-13 | 2023-05-21 |
 | [WITHOUT YOU](https://open.spotify.com/track/27OeeYzk6klgBh83TSvGMA) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE \(SAVAGE\)](https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst) | 2:41 | 2021-03-27\* | 2021-06-13 |

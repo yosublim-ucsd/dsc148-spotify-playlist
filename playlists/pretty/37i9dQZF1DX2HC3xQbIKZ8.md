@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 
 > Reggae, roots and dub\. Relax, you're on island time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,178 likes - 86 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,236 likes - 86 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 85 | [Good Time](https://open.spotify.com/track/4RzIZS83SMXWrSGsP7XPiS) | [NLC](https://open.spotify.com/artist/3TqJF164i0btEXB3SskiLf) | [Trouble](https://open.spotify.com/album/6Ex5buL9V8s8gEZuejwBfU) | 3:24 |
 | 86 | [Be Better](https://open.spotify.com/track/0PcUzCpDtur5KiTqKYyfyj) | [Fia](https://open.spotify.com/artist/3uwg3MMPpcXtJ7OknqdO9W), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Cali Roots Riddim 2021](https://open.spotify.com/album/47ngDCKILaUidvXeest7sz) | 2:22 |
 
-Snapshot ID: `MCwzYWVkOTliMDc2NTk4ZDEzMWRiYTM0MzQ3ZTJlZGQ0MmJiZjhhNDUy`
+Snapshot ID: `MCxlMzM2Mjc1NGM3NjAyZTNiMzgyMzUyZWFmNjQxZDU5NmM1MWExZDE3`

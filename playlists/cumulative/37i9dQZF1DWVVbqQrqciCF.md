@@ -4,7 +4,7 @@
 
 > コンポーザーのAyase、ボーカルのikuraからなる「小説を音楽にするユニット」、YOASOBIの楽曲をひとつのプレイリストに。
 
-55 songs - 4 hr 16 min
+56 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Halzion](https://open.spotify.com/track/6YgWUfKPwZJigKBbSDwu7e) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 3:18 | 2022-11-17 |  |
 | [Haruka](https://open.spotify.com/track/0jFon5RVg19KlwNVnXVX0s) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 4:02 | 2022-11-17 |  |
 | [Haven't](https://open.spotify.com/track/33ALvsldNGJduk3Bqr7VjS) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE](https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R) | 4:16 | 2022-11-17 |  |
+| [HEART BEAT](https://open.spotify.com/track/3J99JXowSczha1Cp0LtFoc) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [HEART BEAT](https://open.spotify.com/album/2af8DYGcIT3jG1aC0sC2sF) | 5:35 | 2023-12-25 |  |
 | [Idol](https://open.spotify.com/track/1zVsw1SqQKgtzE4aqmE8nE) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [Idol](https://open.spotify.com/album/2t5eAUqMwN0Kb2JGTxW2w0) | 3:33 | 2023-05-25 |  |
 | [If I Could Draw Life](https://open.spotify.com/track/5ASNsnnOvreLu9FtvA3jpR) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 2](https://open.spotify.com/album/0ojhCKa6vLf8p81CNJ7ctO) | 3:22 | 2022-11-17 |  |
 | [Interlude "Awakening"](https://open.spotify.com/track/3wT58LylGS5wfXLBWRsMaZ) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 3](https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl) | 0:48 | 2023-10-03 |  |

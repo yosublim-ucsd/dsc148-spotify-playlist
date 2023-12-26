@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Dread MC",
-  "num_followers": 201035,
+  "num_followers": 201052,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODc2ZWJhMWU2YzcxMzA2ZWI0ZWY5NmVjOGIwNTZkY2M0ZjYxY2Nh",
+  "snapshot_id": "MCxhYmUwMzA5M2I4Mzc2NzVmYjUyODJiNjZlNDYwOTU0ZTQxODEzMmE1",
   "tracks": [
     {
       "added_at": "2023-12-22 00:01:00",
@@ -407,6 +407,30 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Pressure Drop",
+        "url": "https://open.spotify.com/album/1CxVudK7TbRFpUdPCPSZaB"
+      },
+      "artists": [
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        },
+        {
+          "name": "Try Me",
+          "url": "https://open.spotify.com/artist/5F7UnHRhLHiqANbzjdssT3"
+        },
+        {
+          "name": "Axel Boy",
+          "url": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ"
+        }
+      ],
+      "duration_ms": 187968,
+      "name": "Don't Be Shady",
+      "url": "https://open.spotify.com/track/1E3fZG15mv6M7ZHasmmB2i"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Get Mad",
         "url": "https://open.spotify.com/album/2zBWo4P4UdZzkLrKQqlJ98"
       },
@@ -419,30 +443,6 @@
       "duration_ms": 217344,
       "name": "Get Mad",
       "url": "https://open.spotify.com/track/51MfeTycH4Do5oH8APvph3"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "EGODEATH",
-        "url": "https://open.spotify.com/album/22fzZWdUIIywKnUPiSZ6D4"
-      },
-      "artists": [
-        {
-          "name": "GHENGHIS OTT",
-          "url": "https://open.spotify.com/artist/5QK20C8SnSQhtYwEL5wrbO"
-        },
-        {
-          "name": "GRM Daily",
-          "url": "https://open.spotify.com/artist/73WrjE9NzxHTBTD8tkREDW"
-        },
-        {
-          "name": "6HRS",
-          "url": "https://open.spotify.com/artist/64aAUlycnpUelu81j7FPi0"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "EGODEATH",
-      "url": "https://open.spotify.com/track/6yrMWKRUdGZ8He2TibxkCo"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -467,26 +467,26 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Pressure Drop",
-        "url": "https://open.spotify.com/album/1CxVudK7TbRFpUdPCPSZaB"
+        "name": "EGODEATH",
+        "url": "https://open.spotify.com/album/22fzZWdUIIywKnUPiSZ6D4"
       },
       "artists": [
         {
-          "name": "Dread MC",
-          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+          "name": "GHENGHIS OTT",
+          "url": "https://open.spotify.com/artist/5QK20C8SnSQhtYwEL5wrbO"
         },
         {
-          "name": "Try Me",
-          "url": "https://open.spotify.com/artist/5F7UnHRhLHiqANbzjdssT3"
+          "name": "GRM Daily",
+          "url": "https://open.spotify.com/artist/73WrjE9NzxHTBTD8tkREDW"
         },
         {
-          "name": "Axel Boy",
-          "url": "https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ"
+          "name": "6HRS",
+          "url": "https://open.spotify.com/artist/64aAUlycnpUelu81j7FPi0"
         }
       ],
-      "duration_ms": 187968,
-      "name": "Don't Be Shady",
-      "url": "https://open.spotify.com/track/1E3fZG15mv6M7ZHasmmB2i"
+      "duration_ms": 192000,
+      "name": "EGODEATH",
+      "url": "https://open.spotify.com/track/6yrMWKRUdGZ8He2TibxkCo"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -535,18 +535,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Live And Direct",
-        "url": "https://open.spotify.com/album/3Y25vmDNLn0ByJPZIBi8Td"
+        "name": "Behind the Scenes / Reeces Pieces",
+        "url": "https://open.spotify.com/album/0azeR1xCVvGFxRXSvnQHwY"
       },
       "artists": [
         {
-          "name": "Diffrent",
-          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "Jess Spink",
+          "url": "https://open.spotify.com/artist/1tgraTEgO9OYhLUUdpn7Jz"
         }
       ],
-      "duration_ms": 171642,
-      "name": "Live And Direct",
-      "url": "https://open.spotify.com/track/36xxmNRjLOJdQzVuNDPRJo"
+      "duration_ms": 282890,
+      "name": "Behind the Scenes (feat. Jess Spink)",
+      "url": "https://open.spotify.com/track/4T1J5mZ2doy1HJ8373eI0A"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -587,26 +591,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Behind the Scenes / Reeces Pieces",
-        "url": "https://open.spotify.com/album/0azeR1xCVvGFxRXSvnQHwY"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        },
-        {
-          "name": "Jess Spink",
-          "url": "https://open.spotify.com/artist/1tgraTEgO9OYhLUUdpn7Jz"
-        }
-      ],
-      "duration_ms": 282890,
-      "name": "Behind the Scenes (feat. Jess Spink)",
-      "url": "https://open.spotify.com/track/4T1J5mZ2doy1HJ8373eI0A"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Overrated",
         "url": "https://open.spotify.com/album/7MoY9ZvnB9hyIU1TGGSp0g"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 227555,
       "name": "Overrated",
       "url": "https://open.spotify.com/track/6VWDavwPns4qyPimkdBxP5"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Live And Direct",
+        "url": "https://open.spotify.com/album/3Y25vmDNLn0ByJPZIBi8Td"
+      },
+      "artists": [
+        {
+          "name": "Diffrent",
+          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
+        }
+      ],
+      "duration_ms": 171642,
+      "name": "Live And Direct",
+      "url": "https://open.spotify.com/track/36xxmNRjLOJdQzVuNDPRJo"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -715,6 +715,26 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Party Right / Snake Charmer",
+        "url": "https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "Logan_olm",
+          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
+        }
+      ],
+      "duration_ms": 216715,
+      "name": "Party Right",
+      "url": "https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Surgery",
         "url": "https://open.spotify.com/album/4MDbJWczpWtc5fk7f5D3Dr"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 129625,
       "name": "Surgery",
       "url": "https://open.spotify.com/track/1cLCoQ6yp9RPNI8yI3NSjK"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Ruins",
-        "url": "https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv"
-      },
-      "artists": [
-        {
-          "name": "Sisko",
-          "url": "https://open.spotify.com/artist/0helc55eMzPEXyUqV0qZt3"
-        },
-        {
-          "name": "3000 Bass",
-          "url": "https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM"
-        }
-      ],
-      "duration_ms": 237293,
-      "name": "Ruins",
-      "url": "https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -775,22 +775,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Party Right / Snake Charmer",
-        "url": "https://open.spotify.com/album/1ZDew2sa32OfMmXnUJCzBx"
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv"
       },
       "artists": [
         {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+          "name": "Sisko",
+          "url": "https://open.spotify.com/artist/0helc55eMzPEXyUqV0qZt3"
         },
         {
-          "name": "Logan_olm",
-          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
+          "name": "3000 Bass",
+          "url": "https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM"
         }
       ],
-      "duration_ms": 216715,
-      "name": "Party Right",
-      "url": "https://open.spotify.com/track/6cS27V3QGz0WdRqSRioDu3"
+      "duration_ms": 237293,
+      "name": "Ruins",
+      "url": "https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -807,22 +807,6 @@
       "duration_ms": 225000,
       "name": "Acid",
       "url": "https://open.spotify.com/track/1RvSHMTBwIpNbqvpSPHcNV"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/4U1NmXaUZTF5PzKwnU3BSV"
-      },
-      "artists": [
-        {
-          "name": "Birch",
-          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
-        }
-      ],
-      "duration_ms": 216893,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/1VejWyeRqpiexvnQQXmacA"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -863,6 +847,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/4U1NmXaUZTF5PzKwnU3BSV"
+      },
+      "artists": [
+        {
+          "name": "Birch",
+          "url": "https://open.spotify.com/artist/30XFjY5QiLhaU51gQGAKNv"
+        }
+      ],
+      "duration_ms": 216893,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/1VejWyeRqpiexvnQQXmacA"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Affiliation",
         "url": "https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU"
       },
@@ -875,6 +875,26 @@
       "duration_ms": 190437,
       "name": "Affiliation",
       "url": "https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/4qYKUGewjnrJ8ahXM4Vw9g"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "Aleya Mae",
+          "url": "https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb"
+        }
+      ],
+      "duration_ms": 213743,
+      "name": "Let Go (with Aleya Mae)",
+      "url": "https://open.spotify.com/track/7gW131CT4bxZ7M3uQqUheT"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -939,26 +959,6 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/4qYKUGewjnrJ8ahXM4Vw9g"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        },
-        {
-          "name": "Aleya Mae",
-          "url": "https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb"
-        }
-      ],
-      "duration_ms": 213743,
-      "name": "Let Go (with Aleya Mae)",
-      "url": "https://open.spotify.com/track/7gW131CT4bxZ7M3uQqUheT"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
         "name": "Chances",
         "url": "https://open.spotify.com/album/5I2lhIqmWeAtsQD1kXtyC7"
       },
@@ -971,66 +971,6 @@
       "duration_ms": 310909,
       "name": "Chances",
       "url": "https://open.spotify.com/track/59PTNOT9TYu7MFJ6pSrCNZ"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Check Yourself",
-        "url": "https://open.spotify.com/album/7HlM6tx37YlyZtIBIdsjFl"
-      },
-      "artists": [
-        {
-          "name": "909",
-          "url": "https://open.spotify.com/artist/1BGPK5MFxGtMlDfMym8fQF"
-        },
-        {
-          "name": "Dread MC",
-          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
-        }
-      ],
-      "duration_ms": 207619,
-      "name": "Check Yourself",
-      "url": "https://open.spotify.com/track/3CBdMIBhkAffORLkygycWR"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Get Out",
-        "url": "https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2"
-      },
-      "artists": [
-        {
-          "name": "Gecha",
-          "url": "https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC"
-        },
-        {
-          "name": "3000 Bass",
-          "url": "https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM"
-        }
-      ],
-      "duration_ms": 268000,
-      "name": "Get Out",
-      "url": "https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "All My Love",
-        "url": "https://open.spotify.com/album/1aNYbx5BHK36hFD5bbXW98"
-      },
-      "artists": [
-        {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
-        },
-        {
-          "name": "Reigns",
-          "url": "https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG"
-        }
-      ],
-      "duration_ms": 169385,
-      "name": "All My Love",
-      "url": "https://open.spotify.com/track/1v0pYeyqnuqVXfwvT4VodR"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1059,6 +999,26 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Get Out",
+        "url": "https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2"
+      },
+      "artists": [
+        {
+          "name": "Gecha",
+          "url": "https://open.spotify.com/artist/1hZ5jgkS8PQxUQTf62pubC"
+        },
+        {
+          "name": "3000 Bass",
+          "url": "https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Want (ur body)",
         "url": "https://open.spotify.com/album/7J9Cj4yEiCU7cFsuxvNuts"
       },
@@ -1071,6 +1031,46 @@
       "duration_ms": 274672,
       "name": "Want (ur body)",
       "url": "https://open.spotify.com/track/7h4ubaopYMigwEXZpTLi9s"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Check Yourself",
+        "url": "https://open.spotify.com/album/7HlM6tx37YlyZtIBIdsjFl"
+      },
+      "artists": [
+        {
+          "name": "909",
+          "url": "https://open.spotify.com/artist/1BGPK5MFxGtMlDfMym8fQF"
+        },
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        }
+      ],
+      "duration_ms": 207619,
+      "name": "Check Yourself",
+      "url": "https://open.spotify.com/track/3CBdMIBhkAffORLkygycWR"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "All My Love",
+        "url": "https://open.spotify.com/album/1aNYbx5BHK36hFD5bbXW98"
+      },
+      "artists": [
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        },
+        {
+          "name": "Reigns",
+          "url": "https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG"
+        }
+      ],
+      "duration_ms": 169385,
+      "name": "All My Love",
+      "url": "https://open.spotify.com/track/1v0pYeyqnuqVXfwvT4VodR"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1091,6 +1091,26 @@
       "duration_ms": 221024,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/6KBLXJFOWh0vbBEfejbMW8"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
+        "name": "Never",
+        "url": "https://open.spotify.com/album/1xmjSW9vcDWID0kWHWcZGn"
+      },
+      "artists": [
+        {
+          "name": "Darkzy",
+          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
+        },
+        {
+          "name": "Aleya Mae",
+          "url": "https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb"
+        }
+      ],
+      "duration_ms": 206500,
+      "name": "Never",
+      "url": "https://open.spotify.com/track/4HfPqI7QIU5YzjjxxSMmRo"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1131,26 +1151,6 @@
       "duration_ms": 252000,
       "name": "Inside",
       "url": "https://open.spotify.com/track/5Yux6ipN64rjAdUrs5kqGI"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Never",
-        "url": "https://open.spotify.com/album/1xmjSW9vcDWID0kWHWcZGn"
-      },
-      "artists": [
-        {
-          "name": "Darkzy",
-          "url": "https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry"
-        },
-        {
-          "name": "Aleya Mae",
-          "url": "https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb"
-        }
-      ],
-      "duration_ms": 206500,
-      "name": "Never",
-      "url": "https://open.spotify.com/track/4HfPqI7QIU5YzjjxxSMmRo"
     },
     {
       "added_at": "2023-12-22 00:01:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-12-22 00:01:00",
       "album": {
+        "name": "Solid Ground",
+        "url": "https://open.spotify.com/album/5fFfvdKjfNsGKeupqwN6be"
+      },
+      "artists": [
+        {
+          "name": "KDYN",
+          "url": "https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N"
+        }
+      ],
+      "duration_ms": 241860,
+      "name": "Solid Ground",
+      "url": "https://open.spotify.com/track/6cvtG4MQU3F9CaQbpnrJdY"
+    },
+    {
+      "added_at": "2023-12-22 00:01:00",
+      "album": {
         "name": "Hard Hitters",
         "url": "https://open.spotify.com/album/10ugYCkUnBCin3OWtGTlMl"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 232602,
       "name": "Hard Hitters",
       "url": "https://open.spotify.com/track/6T4YgCYDVBlzpdtsknFeQ7"
-    },
-    {
-      "added_at": "2023-12-22 00:01:00",
-      "album": {
-        "name": "Solid Ground",
-        "url": "https://open.spotify.com/album/5fFfvdKjfNsGKeupqwN6be"
-      },
-      "artists": [
-        {
-          "name": "KDYN",
-          "url": "https://open.spotify.com/artist/3HCAcFMOAXLFYEfpTgQ20N"
-        }
-      ],
-      "duration_ms": 241860,
-      "name": "Solid Ground",
-      "url": "https://open.spotify.com/track/6cvtG4MQU3F9CaQbpnrJdY"
     },
     {
       "added_at": "2023-12-22 00:01:00",

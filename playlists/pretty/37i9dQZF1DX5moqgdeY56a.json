@@ -1,12 +1,12 @@
 {
   "description": "Antonio, Pepe, \u00c1ngela, Majo & Leonardo... Los Aguilar a trav\u00e9s de las generaciones.",
-  "num_followers": 40486,
+  "num_followers": 40523,
   "original_name": "La Dinast\u00eda de... Los Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjFmMDlkNDlhYjBjNGZlZDQ0NmVhOTYzZTE5MTgwNWNiODhhZTlj",
+  "snapshot_id": "MCw1ZDU2N2I4NjYyMjhiMWIxZjBjMTA0NmRiY2NhZmVhZGMwNmRiODlm",
   "tracks": [
     {
       "added_at": "2023-10-13 15:20:09",
@@ -247,6 +247,22 @@
     {
       "added_at": "2023-10-13 15:20:09",
       "album": {
+        "name": "Por Mujeres Como T\u00fa",
+        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "Directo Al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB"
+    },
+    {
+      "added_at": "2023-10-13 15:20:09",
+      "album": {
         "name": "Esto S\u00ed Es Cumbia",
         "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
       },
@@ -267,18 +283,34 @@
     {
       "added_at": "2023-10-13 15:20:09",
       "album": {
-        "name": "Por Mujeres Como T\u00fa",
-        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
+        "name": "Antonio Aguilar con Mariachi",
+        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 200480,
-      "name": "Directo Al Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB"
+      "duration_ms": 233116,
+      "name": "Triste Recuerdo",
+      "url": "https://open.spotify.com/track/5wLqk86XlgZCzP8mMG9PrF"
+    },
+    {
+      "added_at": "2023-10-13 15:20:09",
+      "album": {
+        "name": "PRIMERO SOY MEXICANA",
+        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 490762,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/3pSjS1IJJMQ6MhVIPiE0Om"
     },
     {
       "added_at": "2023-10-13 15:20:09",
@@ -303,22 +335,6 @@
     {
       "added_at": "2023-10-13 15:20:09",
       "album": {
-        "name": "PRIMERO SOY MEXICANA",
-        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 490762,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/3pSjS1IJJMQ6MhVIPiE0Om"
-    },
-    {
-      "added_at": "2023-10-13 15:20:09",
-      "album": {
         "name": "RCA 100 A\u00f1os De Musica",
         "url": "https://open.spotify.com/album/439PoHmgdLpwc6LOF66FwH"
       },
@@ -339,22 +355,6 @@
     {
       "added_at": "2023-10-13 15:20:09",
       "album": {
-        "name": "Antonio Aguilar con Mariachi",
-        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 233116,
-      "name": "Triste Recuerdo",
-      "url": "https://open.spotify.com/track/5wLqk86XlgZCzP8mMG9PrF"
-    },
-    {
-      "added_at": "2023-10-13 15:20:09",
-      "album": {
         "name": "No Voy A Llorar",
         "url": "https://open.spotify.com/album/7BP2b79XEPJYHEgChKkiF6"
       },
@@ -367,26 +367,6 @@
       "duration_ms": 197253,
       "name": "No Voy A Llorar",
       "url": "https://open.spotify.com/track/3v6f1Bn9Pyz6NkI2ISINPt"
-    },
-    {
-      "added_at": "2023-10-13 15:20:09",
-      "album": {
-        "name": "Nada de Ti",
-        "url": "https://open.spotify.com/album/1vMml3En3NNjiSmokeLg4q"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        },
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 223578,
-      "name": "Nada de Ti",
-      "url": "https://open.spotify.com/track/5ikUjQaH48yITEb174TQIi"
     },
     {
       "added_at": "2023-10-13 15:20:09",
@@ -435,6 +415,58 @@
     {
       "added_at": "2023-10-13 15:20:09",
       "album": {
+        "name": "Rancher\u00edsimo, Vol. 2",
+        "url": "https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 195117,
+      "name": "El Hijo Desobediente",
+      "url": "https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x"
+    },
+    {
+      "added_at": "2023-10-13 15:20:09",
+      "album": {
+        "name": "Lo Mejor De Nosotros",
+        "url": "https://open.spotify.com/album/6DKj6CdMCUYRYJ4BnJnjd0"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 260829,
+      "name": "Me Vas A Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/47UjuR24Bp3LgCTHNTynXu"
+    },
+    {
+      "added_at": "2023-10-13 15:20:09",
+      "album": {
+        "name": "Nada de Ti",
+        "url": "https://open.spotify.com/album/1vMml3En3NNjiSmokeLg4q"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 223578,
+      "name": "Nada de Ti",
+      "url": "https://open.spotify.com/track/5ikUjQaH48yITEb174TQIi"
+    },
+    {
+      "added_at": "2023-10-13 15:20:09",
+      "album": {
         "name": "Homenaje a Los Grandes Compositores",
         "url": "https://open.spotify.com/album/1JdG9NiSeff8ZcFt5iG3fB"
       },
@@ -463,34 +495,38 @@
     {
       "added_at": "2023-10-13 15:20:09",
       "album": {
-        "name": "Lo Mejor De Nosotros",
-        "url": "https://open.spotify.com/album/6DKj6CdMCUYRYJ4BnJnjd0"
+        "name": "Un Canto por M\u00e9xico, Vol. II",
+        "url": "https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0"
       },
       "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
         {
           "name": "Pepe Aguilar",
           "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 260829,
-      "name": "Me Vas A Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/47UjuR24Bp3LgCTHNTynXu"
+      "duration_ms": 222453,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/4SL8wbnGRP0nkIYyjeIKRU"
     },
     {
       "added_at": "2023-10-13 15:20:09",
       "album": {
-        "name": "Rancher\u00edsimo, Vol. 2",
-        "url": "https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U"
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
       },
       "artists": [
         {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 195117,
-      "name": "El Hijo Desobediente",
-      "url": "https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x"
+      "duration_ms": 244642,
+      "name": "Ah\u00ed Donde Me Ven",
+      "url": "https://open.spotify.com/track/2HsN4JUcjkdVKyafNlu7pL"
     },
     {
       "added_at": "2023-10-13 15:20:09",
@@ -511,22 +547,34 @@
     {
       "added_at": "2023-10-13 15:20:09",
       "album": {
-        "name": "Un Canto por M\u00e9xico, Vol. II",
-        "url": "https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0"
+        "name": "Colecci\u00f3n De Oro De Antonio Aguilar, Vol. 5: 1990-2000",
+        "url": "https://open.spotify.com/album/4fNCUyeFb9HMw0iBBbNIQy"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 187907,
+      "name": "Que Me Entierren Con La Banda",
+      "url": "https://open.spotify.com/track/26CKi8JrfHO28g0rJ7RMUD"
+    },
+    {
+      "added_at": "2023-10-13 15:20:09",
+      "album": {
+        "name": "Por Una Mujer Bonita",
+        "url": "https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS"
+      },
+      "artists": [
         {
           "name": "Pepe Aguilar",
           "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
         }
       ],
-      "duration_ms": 222453,
-      "name": "Cien A\u00f1os",
-      "url": "https://open.spotify.com/track/4SL8wbnGRP0nkIYyjeIKRU"
+      "duration_ms": 164720,
+      "name": "Por Una Mujer Bonita",
+      "url": "https://open.spotify.com/track/0ttipGf9tKRBGayR53Zy79"
     },
     {
       "added_at": "2023-10-13 15:20:09",
@@ -567,22 +615,6 @@
     {
       "added_at": "2023-10-13 15:20:09",
       "album": {
-        "name": "Colecci\u00f3n De Oro De Antonio Aguilar, Vol. 5: 1990-2000",
-        "url": "https://open.spotify.com/album/4fNCUyeFb9HMw0iBBbNIQy"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 187907,
-      "name": "Que Me Entierren Con La Banda",
-      "url": "https://open.spotify.com/track/26CKi8JrfHO28g0rJ7RMUD"
-    },
-    {
-      "added_at": "2023-10-13 15:20:09",
-      "album": {
         "name": "Antonio Aguilar con Mariachi",
         "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
       },
@@ -599,34 +631,18 @@
     {
       "added_at": "2023-10-13 15:20:09",
       "album": {
-        "name": "Por Una Mujer Bonita",
-        "url": "https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS"
+        "name": "M\u00e9xico Mi Amor",
+        "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 164720,
-      "name": "Por Una Mujer Bonita",
-      "url": "https://open.spotify.com/track/0ttipGf9tKRBGayR53Zy79"
-    },
-    {
-      "added_at": "2023-10-13 15:20:09",
-      "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 244642,
-      "name": "Ah\u00ed Donde Me Ven",
-      "url": "https://open.spotify.com/track/2HsN4JUcjkdVKyafNlu7pL"
+      "duration_ms": 205120,
+      "name": "Paloma Negra",
+      "url": "https://open.spotify.com/track/6azmVYavoYRuLjLYhMwTDP"
     },
     {
       "added_at": "2023-10-13 15:20:09",
@@ -643,22 +659,6 @@
       "duration_ms": 211773,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/5Ss6PEMm27CQUCotqWLKe6"
-    },
-    {
-      "added_at": "2023-10-13 15:20:09",
-      "album": {
-        "name": "M\u00e9xico Mi Amor",
-        "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 205120,
-      "name": "Paloma Negra",
-      "url": "https://open.spotify.com/track/6azmVYavoYRuLjLYhMwTDP"
     },
     {
       "added_at": "2023-10-13 15:20:09",
@@ -847,6 +847,34 @@
     {
       "added_at": "2023-10-13 15:20:09",
       "album": {
+        "name": "MTV Unplugged (En Vivo)",
+        "url": "https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "Melissa",
+          "url": "https://open.spotify.com/artist/5OWPM4ybplRvlK9RJgAtSm"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        }
+      ],
+      "duration_ms": 305120,
+      "name": "Prometiste (En Vivo)",
+      "url": "https://open.spotify.com/track/1VHkHdFww8aXRTqj4VVSwC"
+    },
+    {
+      "added_at": "2023-10-13 15:20:09",
+      "album": {
         "name": "Antonio Aguilar Con Tambora, Vol. 2",
         "url": "https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd"
       },
@@ -891,34 +919,6 @@
       "duration_ms": 224525,
       "name": "La Chancla",
       "url": "https://open.spotify.com/track/312yuF1Zl8N7M2RuuJ4MUi"
-    },
-    {
-      "added_at": "2023-10-13 15:20:09",
-      "album": {
-        "name": "MTV Unplugged (En Vivo)",
-        "url": "https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
-        {
-          "name": "Melissa",
-          "url": "https://open.spotify.com/artist/5OWPM4ybplRvlK9RJgAtSm"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        }
-      ],
-      "duration_ms": 305120,
-      "name": "Prometiste (En Vivo)",
-      "url": "https://open.spotify.com/track/1VHkHdFww8aXRTqj4VVSwC"
     }
   ],
   "unique_name": "La Dinast\u00eda de... Los Aguilar",

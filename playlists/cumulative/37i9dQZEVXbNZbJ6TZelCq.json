@@ -1879,6 +1879,24 @@
     },
     {
       "album": {
+        "name": "Ast\u0103zi E Cr\u0103ciunul Sf\u00e2nt",
+        "url": "https://open.spotify.com/album/2G1jFduALQVOAOemIjaXpu"
+      },
+      "artists": [
+        {
+          "name": "Colind\u0103tori Din Vestul \u0162\u0103rii",
+          "url": "https://open.spotify.com/artist/2SIGYTZUHOoU5l6UDHnaDb"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360666,
+      "name": "Ast\u0103zi E Cr\u0103ciunul Sf\u00e2nt",
+      "url": "https://open.spotify.com/track/5toIzK0h5yOKbIJCbhhBdE"
+    },
+    {
+      "album": {
         "name": "\u0218tefan III (Deluxe Version)",
         "url": "https://open.spotify.com/album/2EToQ5PohvLVefctkBDGfB"
       },
@@ -2050,6 +2068,28 @@
       "duration_ms": 134265,
       "name": "B 808 ZEN",
       "url": "https://open.spotify.com/track/2lS7WbiKOwkqiZJthZTdCB"
+    },
+    {
+      "album": {
+        "name": "Glow",
+        "url": "https://open.spotify.com/album/6FjK2XLQJloz36NgRciCHv"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        },
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173560,
+      "name": "Baby, It's Cold Outside (feat. Meghan Trainor)",
+      "url": "https://open.spotify.com/track/5Q2P43CJra0uRAogjHyJDK"
     },
     {
       "album": {
@@ -4808,7 +4848,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 166453,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/47ohYW8e7dxCYn9qbUMBCI"
@@ -5346,7 +5386,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 189240,
       "name": "Colindam, Colindam",
       "url": "https://open.spotify.com/track/6jinEAvpeFUuXTQLVwb9mN"
@@ -6382,9 +6422,9 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 68760,
-      "name": "Deck The Halls",
+      "name": "Deck The Hall",
       "url": "https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90"
     },
     {
@@ -7740,7 +7780,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 148238,
       "name": "Ebal - From \u201cRomina VTM\u201d The Movie",
       "url": "https://open.spotify.com/track/4vc40DbwS0XjindGtlZkwq"
@@ -7798,7 +7838,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 129000,
       "name": "Emirate",
       "url": "https://open.spotify.com/track/65uHYuqIZqueZNG6DbpSJi"
@@ -8432,7 +8472,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 142165,
       "name": "Fata cu paharul",
       "url": "https://open.spotify.com/track/26i4jKBlWSrlzpiB9V9gDB"
@@ -10186,7 +10226,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -10564,7 +10604,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 165882,
       "name": "Havana",
       "url": "https://open.spotify.com/track/4i9Ul89UPf5YPppdOspCH6"
@@ -11778,7 +11818,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 260111,
       "name": "IDGAF (feat. Yeat)",
       "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
@@ -12401,6 +12441,32 @@
     },
     {
       "album": {
+        "name": "Greatest Christmas Songs",
+        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        },
+        {
+          "name": "The Fontane Sisters",
+          "url": "https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15"
+        },
+        {
+          "name": "Mitchell Ayres & His Orchestra",
+          "url": "https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155933,
+      "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
+      "url": "https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa"
+    },
+    {
+      "album": {
         "name": "The Andy Williams Christmas Album",
         "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
       },
@@ -12634,7 +12700,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 120693,
       "name": "Jingle Bells - Remastered 1999",
       "url": "https://open.spotify.com/track/4HEOgBHRCExyYVeTyrXsnL"
@@ -15050,7 +15116,7 @@
       ],
       "date_added": "2023-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 158297,
       "name": "MARATON - From \"Haita De Ac\u021biune\" The Movie",
       "url": "https://open.spotify.com/track/3YCtgIn37ssc8PQmw6WLC5"
@@ -15398,7 +15464,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-28",
+      "date_removed": null,
       "duration_ms": 220160,
       "name": "Merry Christmas Everyone",
       "url": "https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn"
@@ -18352,7 +18418,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 210811,
       "name": "Papusa Barbie",
       "url": "https://open.spotify.com/track/5hlKmxQyK8TXVsuUBY0ZLo"
@@ -18850,7 +18916,7 @@
       ],
       "date_added": "2023-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 187200,
       "name": "Ping Pong",
       "url": "https://open.spotify.com/track/3qnJsnPfN3IeBg2dzWazVV"
@@ -19428,7 +19494,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 168500,
       "name": "Prietena ta",
       "url": "https://open.spotify.com/track/5CVzlpSX7O8InwOvubCBXd"
@@ -21226,8 +21292,8 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2021-12-27",
-      "duration_ms": 205266,
+      "date_removed": null,
+      "duration_ms": 206539,
       "name": "Santa's Coming for Us",
       "url": "https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv"
     },
@@ -23594,6 +23660,24 @@
       "duration_ms": 231000,
       "name": "Style (Taylor's Version)",
       "url": "https://open.spotify.com/track/1hjRhYpWyqDpPahmSlUTlc"
+    },
+    {
+      "album": {
+        "name": "Sub Fereastra La Om Bun",
+        "url": "https://open.spotify.com/album/6O8xXZv6TRdkntzuCqDTQb"
+      },
+      "artists": [
+        {
+          "name": "Suzana \u0219i Daciana Vlad",
+          "url": "https://open.spotify.com/artist/12app1Pz3LIKxcvBfWVJI4"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246866,
+      "name": "Sub Fereastra La Om Bun",
+      "url": "https://open.spotify.com/track/7txb4BYsSxE9wZ2RxFucPy"
     },
     {
       "album": {

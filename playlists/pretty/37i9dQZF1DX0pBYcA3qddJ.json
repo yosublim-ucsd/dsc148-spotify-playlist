@@ -1,12 +1,12 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 51759,
+  "num_followers": 51760,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjY1ZTc3NmE2NjA2ZTVhNjc3MDQwM2IzNWYyYWQ5OGJhMjk2YWYx",
+  "snapshot_id": "MCw3Y2FiMzQ0OTU1NTdhNDk2MGU3YWNmYzFhYzIwZTA5YjliNTI2MjNl",
   "tracks": [
     {
       "added_at": "2023-12-19 15:00:00",
@@ -759,18 +759,22 @@
     {
       "added_at": "2023-12-19 15:00:00",
       "album": {
-        "name": "piano room",
-        "url": "https://open.spotify.com/album/065gbiFR9Km7J1hQATfXtG"
+        "name": "Texas Moon",
+        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
       "artists": [
         {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 150833,
-      "name": "Koto - piano room",
-      "url": "https://open.spotify.com/track/48Jivh6jAj87eK6lj3FtUo"
+      "duration_ms": 190433,
+      "name": "Chocolate Hills",
+      "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
     },
     {
       "added_at": "2023-12-19 15:00:00",
@@ -791,22 +795,18 @@
     {
       "added_at": "2023-12-19 15:00:00",
       "album": {
-        "name": "Texas Moon",
-        "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
+        "name": "piano room",
+        "url": "https://open.spotify.com/album/065gbiFR9Km7J1hQATfXtG"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
         }
       ],
-      "duration_ms": 190433,
-      "name": "Chocolate Hills",
-      "url": "https://open.spotify.com/track/1EUOby36hEzSkTVVKRAWQP"
+      "duration_ms": 150833,
+      "name": "Koto - piano room",
+      "url": "https://open.spotify.com/track/48Jivh6jAj87eK6lj3FtUo"
     },
     {
       "added_at": "2023-12-19 15:00:00",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-12-19 15:00:00",
       "album": {
-        "name": "Two Hearts",
-        "url": "https://open.spotify.com/album/4FM62Z8aXRnYi3Z6mCLgnE"
+        "name": "THE GREATEST UNKNOWN",
+        "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
       },
       "artists": [
         {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
         }
       ],
-      "duration_ms": 246796,
-      "name": "Two Hearts",
-      "url": "https://open.spotify.com/track/5Y65gREADmqP7wGn4rOPCJ"
+      "duration_ms": 94813,
+      "name": "\u042fO\u042f\u042fIM",
+      "url": "https://open.spotify.com/track/6HarCUDU9WTswYLNRgRdJH"
     },
     {
       "added_at": "2023-12-19 15:00:00",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-12-19 15:00:00",
       "album": {
-        "name": "THE GREATEST UNKNOWN",
-        "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
+        "name": "Two Hearts",
+        "url": "https://open.spotify.com/album/4FM62Z8aXRnYi3Z6mCLgnE"
       },
       "artists": [
         {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
         }
       ],
-      "duration_ms": 94813,
-      "name": "\u042fO\u042f\u042fIM",
-      "url": "https://open.spotify.com/track/6HarCUDU9WTswYLNRgRdJH"
+      "duration_ms": 246796,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/5Y65gREADmqP7wGn4rOPCJ"
     },
     {
       "added_at": "2023-12-19 15:00:00",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2023-12-19 15:00:00",
       "album": {
-        "name": "Nature undisclosed",
-        "url": "https://open.spotify.com/album/4MncWHjrU2jTWsDUaJjpo6"
+        "name": "NOCHE",
+        "url": "https://open.spotify.com/album/4miUxGfTsngMRsrVKwB2D4"
       },
       "artists": [
         {
-          "name": "Keiko Ishida",
-          "url": "https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW"
+          "name": "Sofiane Pamart",
+          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
         }
       ],
-      "duration_ms": 147661,
-      "name": "Nature undisclosed",
-      "url": "https://open.spotify.com/track/48aOlsvnC4e8cdMsrw59Qd"
+      "duration_ms": 136881,
+      "name": "Vera",
+      "url": "https://open.spotify.com/track/5Lu0PGLEEPGNtj1YOREOCe"
     },
     {
       "added_at": "2023-12-19 15:00:00",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2023-12-19 15:00:00",
       "album": {
-        "name": "NOCHE",
-        "url": "https://open.spotify.com/album/4miUxGfTsngMRsrVKwB2D4"
+        "name": "Nature undisclosed",
+        "url": "https://open.spotify.com/album/4MncWHjrU2jTWsDUaJjpo6"
       },
       "artists": [
         {
-          "name": "Sofiane Pamart",
-          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
+          "name": "Keiko Ishida",
+          "url": "https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW"
         }
       ],
-      "duration_ms": 136881,
-      "name": "Vera",
-      "url": "https://open.spotify.com/track/5Lu0PGLEEPGNtj1YOREOCe"
+      "duration_ms": 147661,
+      "name": "Nature undisclosed",
+      "url": "https://open.spotify.com/track/48aOlsvnC4e8cdMsrw59Qd"
     },
     {
       "added_at": "2023-12-19 15:00:00",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2023-12-19 15:00:00",
       "album": {
-        "name": "Columbo",
-        "url": "https://open.spotify.com/album/77ecNwHIYZfoOSgQ1FMSAS"
+        "name": "Blue Stone of Atlas (Piano Solo Version)",
+        "url": "https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3"
       },
       "artists": [
         {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+          "name": "Hikaru Shirosu",
+          "url": "https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a"
         }
       ],
-      "duration_ms": 213316,
-      "name": "Columbo",
-      "url": "https://open.spotify.com/track/26WZOTF738D3bR4t27zlkL"
+      "duration_ms": 158000,
+      "name": "Blue Stone of Atlas - Piano Solo Version",
+      "url": "https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF"
     },
     {
       "added_at": "2023-12-19 15:00:00",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2023-12-19 15:00:00",
       "album": {
-        "name": "Blue Stone of Atlas (Piano Solo Version)",
-        "url": "https://open.spotify.com/album/0mLW4L7tLug2LUVvVfoOE3"
+        "name": "Columbo",
+        "url": "https://open.spotify.com/album/77ecNwHIYZfoOSgQ1FMSAS"
       },
       "artists": [
         {
-          "name": "Hikaru Shirosu",
-          "url": "https://open.spotify.com/artist/3WJfB0QSAWAO283H19gL5a"
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Blue Stone of Atlas - Piano Solo Version",
-      "url": "https://open.spotify.com/track/7N05mAG1X23Sd2PNOyoJSF"
+      "duration_ms": 213316,
+      "name": "Columbo",
+      "url": "https://open.spotify.com/track/26WZOTF738D3bR4t27zlkL"
     },
     {
       "added_at": "2023-12-19 15:00:00",

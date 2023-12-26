@@ -1,12 +1,12 @@
 {
   "description": "Sometimes upbeat, sometimes chill, these songs will encourage you and warm your heart and soul.",
-  "num_followers": 249929,
+  "num_followers": 250052,
   "original_name": "Love Coffee, Love Jesus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDBhZDMwMDU4ZDZmYmUyOWVlNTBiOWE1NmE5OGJmZTE5NGY5ZTFh",
+  "snapshot_id": "MCw0NzQwNzQ3YjE1Mjg2ZWE5ODMxOGRhMDAzNjAxNTI4NjJmYmU5YTZl",
   "tracks": [
     {
       "added_at": "2023-07-28 04:01:00",
@@ -63,6 +63,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "By The Water",
+        "url": "https://open.spotify.com/album/5uPncwBKPjbBEwNfBfS0vn"
+      },
+      "artists": [
+        {
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+        }
+      ],
+      "duration_ms": 170322,
+      "name": "Elohim",
+      "url": "https://open.spotify.com/track/5Q4JduIFVtirezPnU9RggG"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "pure",
         "url": "https://open.spotify.com/album/5iuqsJpvEOWblbICZuUcv0"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 356962,
       "name": "pure",
       "url": "https://open.spotify.com/track/1poxng9cBRa5CMzyANuhnH"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "By The Water",
-        "url": "https://open.spotify.com/album/5uPncwBKPjbBEwNfBfS0vn"
-      },
-      "artists": [
-        {
-          "name": "Sondae",
-          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
-        }
-      ],
-      "duration_ms": 170322,
-      "name": "Elohim",
-      "url": "https://open.spotify.com/track/5Q4JduIFVtirezPnU9RggG"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Wide Place",
+        "url": "https://open.spotify.com/album/7crZBLTSSyZruPHligC2sp"
+      },
+      "artists": [
+        {
+          "name": "Laity",
+          "url": "https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41"
+        }
+      ],
+      "duration_ms": 262889,
+      "name": "Wide Place",
+      "url": "https://open.spotify.com/track/1qFmMmrBHzQUqyJJdzw8dM"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "The Wait",
         "url": "https://open.spotify.com/album/69YX5aF5IQ7Wg0lVhCoK0w"
       },
@@ -671,18 +687,18 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Wide Place",
-        "url": "https://open.spotify.com/album/7crZBLTSSyZruPHligC2sp"
+        "name": "The Things We Did at First",
+        "url": "https://open.spotify.com/album/3VS7ZrBjKzBWB7rYca7ALh"
       },
       "artists": [
         {
-          "name": "Laity",
-          "url": "https://open.spotify.com/artist/4K2tvMk8OdoG0Lo3PHir41"
+          "name": "Sean Feucht",
+          "url": "https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR"
         }
       ],
-      "duration_ms": 262889,
-      "name": "Wide Place",
-      "url": "https://open.spotify.com/track/1qFmMmrBHzQUqyJJdzw8dM"
+      "duration_ms": 238478,
+      "name": "When My Heart Became Aware",
+      "url": "https://open.spotify.com/track/0KitfgfQREza7nK9gkPouX"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -703,22 +719,6 @@
       "duration_ms": 213157,
       "name": "Charmed",
       "url": "https://open.spotify.com/track/0IQeeIqzADdN1xh0B3ZAwu"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "The Things We Did at First",
-        "url": "https://open.spotify.com/album/3VS7ZrBjKzBWB7rYca7ALh"
-      },
-      "artists": [
-        {
-          "name": "Sean Feucht",
-          "url": "https://open.spotify.com/artist/3DJuBJtjHdjAXlpIZCltTR"
-        }
-      ],
-      "duration_ms": 238478,
-      "name": "When My Heart Became Aware",
-      "url": "https://open.spotify.com/track/0KitfgfQREza7nK9gkPouX"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Ashes to Skies",
-        "url": "https://open.spotify.com/album/7v4PeeSV3foDa4GFnIqdwX"
-      },
-      "artists": [
-        {
-          "name": "Shaylee Simeone",
-          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
-        }
-      ],
-      "duration_ms": 274546,
-      "name": "Ashes to Skies",
-      "url": "https://open.spotify.com/track/4aJF4yZ2bTfeHjuDiDD1ix"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Keeper of Days",
         "url": "https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 354223,
       "name": "Teach Us That One Song",
       "url": "https://open.spotify.com/track/3hImGfeJiJpKI8o3C3mTzY"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Ashes to Skies",
+        "url": "https://open.spotify.com/album/7v4PeeSV3foDa4GFnIqdwX"
+      },
+      "artists": [
+        {
+          "name": "Shaylee Simeone",
+          "url": "https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ"
+        }
+      ],
+      "duration_ms": 274546,
+      "name": "Ashes to Skies",
+      "url": "https://open.spotify.com/track/4aJF4yZ2bTfeHjuDiDD1ix"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Refuge",
+        "url": "https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH"
+      },
+      "artists": [
+        {
+          "name": "Grant Leslie",
+          "url": "https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6"
+        }
+      ],
+      "duration_ms": 277565,
+      "name": "Refuge",
+      "url": "https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "\u2020 (just the cross)",
         "url": "https://open.spotify.com/album/2VtKxCuuUif33fWcFTojyH"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 232238,
       "name": "YOUR NAME IS POWER - Acoustic",
       "url": "https://open.spotify.com/track/5BBd53oJDxtKuK92jWZryD"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Refuge",
-        "url": "https://open.spotify.com/album/2rPhIcGwjnoNlXRpM454LH"
-      },
-      "artists": [
-        {
-          "name": "Grant Leslie",
-          "url": "https://open.spotify.com/artist/0ROcoHoVwoXQe33cszx7A6"
-        }
-      ],
-      "duration_ms": 277565,
-      "name": "Refuge",
-      "url": "https://open.spotify.com/track/0NAqAuO6pLsB1IdTQZB3lp"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Worth The Wait",
-        "url": "https://open.spotify.com/album/0HVDvrqGkOecGZKgnZvX0h"
-      },
-      "artists": [
-        {
-          "name": "Bryan McCleery",
-          "url": "https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1"
-        }
-      ],
-      "duration_ms": 235056,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/4TtOwhTnpdQdlPOt9Ar2V5"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "Different Story",
         "url": "https://open.spotify.com/album/2vpYCtGLJmLKzYVYngghO6"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 244746,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/1a1KmE1iV6qqfj7t7OGUlC"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Worth The Wait",
+        "url": "https://open.spotify.com/album/0HVDvrqGkOecGZKgnZvX0h"
+      },
+      "artists": [
+        {
+          "name": "Bryan McCleery",
+          "url": "https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1"
+        }
+      ],
+      "duration_ms": 235056,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/4TtOwhTnpdQdlPOt9Ar2V5"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/6PPK6jGfdlNYfsH9jt4YZh"
-      },
-      "artists": [
-        {
-          "name": "London Gatch",
-          "url": "https://open.spotify.com/artist/50l42yX9ACfwA0plxFO0Ah"
-        }
-      ],
-      "duration_ms": 390497,
-      "name": "Home - Acoustic",
-      "url": "https://open.spotify.com/track/5s5PmLUIIfh2glhkoBF0aS"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
         "name": "New York Sessions",
         "url": "https://open.spotify.com/album/1GmGKswBRZfOb36V1PNX8K"
       },
@@ -1503,6 +1487,22 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/6PPK6jGfdlNYfsH9jt4YZh"
+      },
+      "artists": [
+        {
+          "name": "London Gatch",
+          "url": "https://open.spotify.com/artist/50l42yX9ACfwA0plxFO0Ah"
+        }
+      ],
+      "duration_ms": 390497,
+      "name": "Home - Acoustic",
+      "url": "https://open.spotify.com/track/5s5PmLUIIfh2glhkoBF0aS"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Magnified (Acoustic)",
         "url": "https://open.spotify.com/album/1ubwV6NBMwJxIFJgFSEYI4"
       },
@@ -1531,6 +1531,26 @@
       "duration_ms": 268970,
       "name": "Light & Momentary",
       "url": "https://open.spotify.com/track/08DEpqd2B46uUj5MeagoC6"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
+        "name": "Valley (CalledOut Music Remix)",
+        "url": "https://open.spotify.com/album/6K8MrDCAJxTbGdBNKgXiLp"
+      },
+      "artists": [
+        {
+          "name": "DAYASOUL",
+          "url": "https://open.spotify.com/artist/4AVCd5KaoGCrfue1bOWSww"
+        },
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 187124,
+      "name": "Valley - CalledOut Music Remix",
+      "url": "https://open.spotify.com/track/56SVOpxc9ilgsoM5vjGNSf"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1567,26 +1587,6 @@
       "duration_ms": 202117,
       "name": "Simple Song",
       "url": "https://open.spotify.com/track/6gwpHIcYcnpXsvKFA3Gkyz"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Valley (CalledOut Music Remix)",
-        "url": "https://open.spotify.com/album/6K8MrDCAJxTbGdBNKgXiLp"
-      },
-      "artists": [
-        {
-          "name": "DAYASOUL",
-          "url": "https://open.spotify.com/artist/4AVCd5KaoGCrfue1bOWSww"
-        },
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 187124,
-      "name": "Valley - CalledOut Music Remix",
-      "url": "https://open.spotify.com/track/56SVOpxc9ilgsoM5vjGNSf"
     },
     {
       "added_at": "2023-07-28 04:01:00",
@@ -1655,6 +1655,26 @@
     {
       "added_at": "2023-07-28 04:01:00",
       "album": {
+        "name": "Here",
+        "url": "https://open.spotify.com/album/2KA8x4fFCG9HGhmFszrorh"
+      },
+      "artists": [
+        {
+          "name": "Vineyard Worship",
+          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
+        },
+        {
+          "name": "Samuel Lane",
+          "url": "https://open.spotify.com/artist/7gjXbYoKHoNcdxVCBWpEKo"
+        }
+      ],
+      "duration_ms": 437188,
+      "name": "More Than Anything",
+      "url": "https://open.spotify.com/track/7i0MfRdyGrNddq0H1dqSHR"
+    },
+    {
+      "added_at": "2023-07-28 04:01:00",
+      "album": {
         "name": "Letting Go (Alternate Version)",
         "url": "https://open.spotify.com/album/4OnW0Q4uEWqOFxz10S7fQJ"
       },
@@ -1699,26 +1719,6 @@
       "duration_ms": 213453,
       "name": "Teach Me",
       "url": "https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2"
-    },
-    {
-      "added_at": "2023-07-28 04:01:00",
-      "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/2KA8x4fFCG9HGhmFszrorh"
-      },
-      "artists": [
-        {
-          "name": "Vineyard Worship",
-          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
-        },
-        {
-          "name": "Samuel Lane",
-          "url": "https://open.spotify.com/artist/7gjXbYoKHoNcdxVCBWpEKo"
-        }
-      ],
-      "duration_ms": 437188,
-      "name": "More Than Anything",
-      "url": "https://open.spotify.com/track/7i0MfRdyGrNddq0H1dqSHR"
     },
     {
       "added_at": "2023-07-28 04:01:00",

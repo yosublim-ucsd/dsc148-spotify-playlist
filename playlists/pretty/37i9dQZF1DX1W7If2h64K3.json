@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 45547,
+  "num_followers": 45562,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NGE5ZTdjNDE2ZWJlNTkxNTk2YjQ3MjM2ZmEzYWQ3ZGMyZjY5MTk5",
+  "snapshot_id": "MCw5N2MxYmZkZTJjZTViOGQxZWMwZGIzYzgxNTZhNTdmMWZmMDU3YTQw",
   "tracks": [
     {
       "added_at": "2022-11-04 13:17:00",
@@ -447,26 +447,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann: Kreisleriana; Kinderszenen; Fantasiest\u00fccke",
-        "url": "https://open.spotify.com/album/5vek6eoWa9v7lhnV2IbYWW"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Alfred Brendel",
-          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "8 Fantasiest\u00fccke, Op. 12: 3. Warum?",
-      "url": "https://open.spotify.com/track/5QDEgTgdhunlzQBa40pgkI"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Schumann: Symphonies Nos. 1-4",
         "url": "https://open.spotify.com/album/1EoQmT4c5JMm6oajMiNU5G"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 623369,
       "name": "Schumann: Symphony No. 2 in C Major, Op. 61: III. Adagio espressivo",
       "url": "https://open.spotify.com/track/6D60l5TKz2VxaxERhjt0QX"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Schumann: Kreisleriana; Kinderszenen; Fantasiest\u00fccke",
+        "url": "https://open.spotify.com/album/5vek6eoWa9v7lhnV2IbYWW"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Alfred Brendel",
+          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "8 Fantasiest\u00fccke, Op. 12: 3. Warum?",
+      "url": "https://open.spotify.com/track/5QDEgTgdhunlzQBa40pgkI"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -891,26 +891,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann: Myrthen",
-        "url": "https://open.spotify.com/album/7I0LzTM3LnH0byXdDn3cGf"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Camilla Tilling",
-          "url": "https://open.spotify.com/artist/125PYk9VJbA5d7CQ0DjLtK"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Myrthen, Op. 25: No. 1, Widmung",
-      "url": "https://open.spotify.com/track/29jmWDvrfrcSVDE3U0twzg"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Schumann, R.: Dichterliebe, Op. 48 / Liederkreis, Op. 39",
         "url": "https://open.spotify.com/album/5En6DGCjjYAZqLZ39egU8A"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 801000,
       "name": "Fantasy for Violin and Orchestra in C Major, Op. 131: Moderato semplice ma espressivo (Transcr. by Fritz Kreisler) - Live",
       "url": "https://open.spotify.com/track/7iqtk0DuSB3McFvAs6WQgp"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Schumann: Myrthen",
+        "url": "https://open.spotify.com/album/7I0LzTM3LnH0byXdDn3cGf"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Camilla Tilling",
+          "url": "https://open.spotify.com/artist/125PYk9VJbA5d7CQ0DjLtK"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Myrthen, Op. 25: No. 1, Widmung",
+      "url": "https://open.spotify.com/track/29jmWDvrfrcSVDE3U0twzg"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -1103,30 +1103,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann: Lied Edition, Vol. 4: 12 Gedichte, Op. 35 - 5 Lieder Und Ges\u00e4nge, Op. 127 - 4 Ges\u00e4nge, Op. 142",
-        "url": "https://open.spotify.com/album/2gMMvfkICzWt9IpFfKedS1"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Hans-J\u00f6rg Mammel",
-          "url": "https://open.spotify.com/artist/19HTwufflsRQULGPkxN9m5"
-        },
-        {
-          "name": "Uta Hielscher",
-          "url": "https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq"
-        }
-      ],
-      "duration_ms": 170506,
-      "name": "12 Gedichte, Op. 35: No. 10, Stille Tranen",
-      "url": "https://open.spotify.com/track/4iUF6VfUUPziBpZP7A3Hcf"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Schumann: Symphony No.2; \"Manfred\" Overture; Konzertst\u00fcck for 4 Horns",
         "url": "https://open.spotify.com/album/0wWKS7tKOF2KxpMSURs08f"
       },
@@ -1167,6 +1143,30 @@
       "duration_ms": 275466,
       "name": "M\u00e4rchenerz\u00e4hlungen for Piano, Clarinet and Viola, Op. 132",
       "url": "https://open.spotify.com/track/33kssi5UBcOtZIby6VxQhR"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Schumann: Lied Edition, Vol. 4: 12 Gedichte, Op. 35 - 5 Lieder Und Ges\u00e4nge, Op. 127 - 4 Ges\u00e4nge, Op. 142",
+        "url": "https://open.spotify.com/album/2gMMvfkICzWt9IpFfKedS1"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Hans-J\u00f6rg Mammel",
+          "url": "https://open.spotify.com/artist/19HTwufflsRQULGPkxN9m5"
+        },
+        {
+          "name": "Uta Hielscher",
+          "url": "https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq"
+        }
+      ],
+      "duration_ms": 170506,
+      "name": "12 Gedichte, Op. 35: No. 10, Stille Tranen",
+      "url": "https://open.spotify.com/track/4iUF6VfUUPziBpZP7A3Hcf"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann Recital",
-        "url": "https://open.spotify.com/album/2rn9cFuujCXaJtDDu6DeXr"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Jonathan Biss",
-          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
-        }
-      ],
-      "duration_ms": 234986,
-      "name": "Schumann: Kreisleriana, Op. 16: VIII. Schnell und spielend",
-      "url": "https://open.spotify.com/track/4j8lYY8CxTPkY2DLLQT4hy"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Schumann: Liederkreis; Romances and Ballades",
         "url": "https://open.spotify.com/album/4dd5w7LFFg8aCP49P5TxTz"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 207000,
       "name": "\"Mein Wagen rollet langsam\", Op. 142, No. 4",
       "url": "https://open.spotify.com/track/2IiB2he5PNntuhU9yP7jJc"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Schumann Recital",
+        "url": "https://open.spotify.com/album/2rn9cFuujCXaJtDDu6DeXr"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jonathan Biss",
+          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
+        }
+      ],
+      "duration_ms": 234986,
+      "name": "Schumann: Kreisleriana, Op. 16: VIII. Schnell und spielend",
+      "url": "https://open.spotify.com/track/4j8lYY8CxTPkY2DLLQT4hy"
     },
     {
       "added_at": "2022-11-04 13:17:00",

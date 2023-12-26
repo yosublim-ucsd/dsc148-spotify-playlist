@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 
 > インスタ音楽メディア『<a href="https://www.instagram.com/playlist\_of/">PLAYLIST</a>』が失恋をテーマに選曲。<br/>音楽はいつでもあなたに寄り添ってくれるから今はこのプレイリストを聴いてたくさん泣こう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,297 likes - 30 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,300 likes - 30 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 | 29 | [傷口](https://open.spotify.com/track/0Nf2s2IyVZd9BAbnpQfxTU) | [HATAKE](https://open.spotify.com/artist/0ABSeIulfcc4Rk6WYUWjH0) | [Boy's](https://open.spotify.com/album/2QTzM16TwtZIiq0MxJTmXT) | 4:48 |
 | 30 | [Chapudding](https://open.spotify.com/track/3lJOqH447TrXuFEFIUBmls) | [chef's](https://open.spotify.com/artist/7I6vgeUew4Ew1pxztnFhMa) | [Chapudding](https://open.spotify.com/album/76LzjtU055nmUCg8lDzPzQ) | 3:31 |
 
-Snapshot ID: `MCwwMDdjMTc1MDJmYzkzMTNmOTBjNDI0ZDc4MGQ1NTk5ZTYwMzJlZDVi`
+Snapshot ID: `MCw4OGFlNDNlNjIwNDk3YjhkZDk2NGEzY2UyN2M5M2Y4MDUwNWVlMzRj`

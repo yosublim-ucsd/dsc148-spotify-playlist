@@ -4,7 +4,7 @@
 
 > Electronic Trap House with Arab spices\. Cover: DJ KABOO.
 
-86 songs - 4 hr 40 min
+88 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,13 +38,14 @@
 | [GHADAB](https://open.spotify.com/track/5xY9zklrXn7jmdJYJIXQDU) | [El\-M3allem](https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW) | [GHADAB](https://open.spotify.com/album/3CJnkIETq3FgJVHyfSSQZG) | 2:31 | 2021-11-09 | 2022-12-03 |
 | [Golden](https://open.spotify.com/track/6gItxgLiMUYV5n3ityPec4) | [BoyPanda](https://open.spotify.com/artist/5ef7ha77ippshsIdZzGnaN) | [Golden](https://open.spotify.com/album/214Aa5BZhPB2AUbXmBx59S) | 3:30 | 2021-11-09 |  |
 | [Hawa \(Arab Trap 8\)](https://open.spotify.com/track/1WzCTw3PIv4oWwxW57VIbW) | [DJ KABOO](https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q), [NGM](https://open.spotify.com/artist/2VsF2NWvL9ZA1IT2Ubpmjn) | [Hawa \(Arab Trap 8\)](https://open.spotify.com/album/77tT5i4ifAjyCmt4SgDqnH) | 2:44 | 2022-09-30 |  |
-| [Hopeless](https://open.spotify.com/track/1y8M13DKjsyJtyuQadwQmV) | [Rami Eid](https://open.spotify.com/artist/4fQqnIuVrFLegT0pBmZ5fm), [Hidden Tigress](https://open.spotify.com/artist/53ZEdEG4hThZtzjhfQRHEu) | [Hopeless](https://open.spotify.com/album/3fU4JzytCzFvYJ1QAaC5GS) | 7:21 | 2021-11-09 |  |
+| [Hopeless](https://open.spotify.com/track/1y8M13DKjsyJtyuQadwQmV) | [Rami Eid](https://open.spotify.com/artist/4fQqnIuVrFLegT0pBmZ5fm), [Hidden Tigress](https://open.spotify.com/artist/53ZEdEG4hThZtzjhfQRHEu) | [Hopeless](https://open.spotify.com/album/3fU4JzytCzFvYJ1QAaC5GS) | 7:21 | 2021-11-09 | 2023-12-26 |
 | [Illumine \- Original Mix](https://open.spotify.com/track/3HvRFELeWQ5ib6G5w9wvJi) | [Darko De Jan](https://open.spotify.com/artist/4JMknrStbwkcRZavaIEjrA) | [Illumine](https://open.spotify.com/album/2eLdRmXRzyfdL2oXIT0qNH) | 6:49 | 2021-11-09 | 2022-04-07 |
 | [INVASION](https://open.spotify.com/track/32ab08QJ6UyJKqtCZNqiTh) | [Dj Khalid Music](https://open.spotify.com/artist/5iu1vM00YZHexw3A8dCdkt), [Hassan Hajila](https://open.spotify.com/artist/5HOFVs3MrexrlD9Vgapn54) | [INVASION](https://open.spotify.com/album/2zua6hf4PwprRmsUaS1ooj) | 3:33 | 2021-11-09 |  |
 | [Iridescent](https://open.spotify.com/track/6mPv3AEn0hX8BK1NjQlrIh) | [MVGMVR](https://open.spotify.com/artist/4awPepWH6Qom61mJvUCe3u) | [Iridescent](https://open.spotify.com/album/0lx0Z2R9v6IAeEkn41YXig) | 2:56 | 2021-11-09 | 2023-12-14 |
 | [Izdaja](https://open.spotify.com/track/2oUAGVmjS4FMaHKxa7KQDh) | [NIN9](https://open.spotify.com/artist/0DJeag58upLxC4iA5Ju7MO) | [Izdaja](https://open.spotify.com/album/4JHBVlegmR6YPQxnGKuSTA) | 2:56 | 2021-11-09 |  |
 | [İz](https://open.spotify.com/track/4FvTKZ0ZTuHcj9QZfWKlC9) | [FG](https://open.spotify.com/artist/7dGG5t1lq8eRel7cRvLj0F) | [Arabic Trap, Pt\. 3](https://open.spotify.com/album/3G3Ze4AlL2KMmbx4s19e9v) | 3:05 | 2021-11-09 |  |
 | [Katyar](https://open.spotify.com/track/3CrDFdN7MKM3Mx9T3znBts) | [MVGMVR](https://open.spotify.com/artist/4awPepWH6Qom61mJvUCe3u) | [Katyar](https://open.spotify.com/album/5DYELPV7UQqMHVJ4JxaYhQ) | 3:44 | 2021-11-09 | 2023-12-09 |
+| [Katyar](https://open.spotify.com/track/6Pb565EFNrMdqjlw62gKUM) | [MVGMVR](https://open.spotify.com/artist/4awPepWH6Qom61mJvUCe3u) | [Katyar](https://open.spotify.com/album/17VbZf0dZZdcRA9YlNgVM5) | 3:44 | 2023-02-17 |  |
 | [Khalīfah خليفة](https://open.spotify.com/track/6Tug6cAjUEfmKJvvrJcauP) | [Gillionaire](https://open.spotify.com/artist/74rsMLFnDYIf54HLWuKAty) | [Khalīfah خليفة](https://open.spotify.com/album/69U97qF3lUP5SUFSwzkbIV) | 3:52 | 2021-11-09 |  |
 | [Kobra \(feat\. Pouvoir Magique\)](https://open.spotify.com/track/6JTUikvtPRHUhcg0K3eXid) | [Fakear](https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT), [Pouvoir Magique](https://open.spotify.com/artist/6jOzYw2JWxujmMIwwiAaEA) | [Kobra \(feat\. Pouvoir Magique\)](https://open.spotify.com/album/3TOeBRsAVOjxnP2bGU5aWx) | 3:18 | 2021-11-09 |  |
 | [Kyojin](https://open.spotify.com/track/1mE8UXeTQrTNhQpazVccff) | [MVGMVR](https://open.spotify.com/artist/4awPepWH6Qom61mJvUCe3u) | [Kyojin](https://open.spotify.com/album/5vwBPtwZYDVC3OBtqdkTeU) | 2:30 | 2023-02-17 |  |
@@ -91,8 +92,9 @@
 | [Tomb \(feat\. Rasha Kamal\)](https://open.spotify.com/track/4Ilhu67UnrkeG5gtGytsij) | [Adrinaline](https://open.spotify.com/artist/3v3DkyxS6vk3Je2Uk1unJn), [Fady Haroun](https://open.spotify.com/artist/1D2jk1MgsTms2iiJgNRXdV), [Rasha Kamal](https://open.spotify.com/artist/5iLDAAxXFGVIrUO0l77i8X) | [Tomb \(feat\. Rasha Kamal\)](https://open.spotify.com/album/4CxRw7HbgNHvzU3aomYs7J) | 2:57 | 2021-11-09 | 2022-07-29 |
 | [Tomb \(feat\. Rasha Kamal\)](https://open.spotify.com/track/1VDWeFIMVzEtosr7g8nlNA) | [Fady Haroun](https://open.spotify.com/artist/1D2jk1MgsTms2iiJgNRXdV), [Adrinaline](https://open.spotify.com/artist/3v3DkyxS6vk3Je2Uk1unJn), [Rasha Kamal](https://open.spotify.com/artist/5iLDAAxXFGVIrUO0l77i8X) | [Tomb \(feat\. Rasha Kamal\)](https://open.spotify.com/album/4aifbVzyNA4yp2ENybRQFX) | 2:57 | 2022-04-07 |  |
 | [Tribe](https://open.spotify.com/track/3A1fJKVctpV28WnnW5xOsX) | [Dav the Ninja](https://open.spotify.com/artist/0Ddd55lzvz41th2dA7Limg) | [In Peace](https://open.spotify.com/album/6c1b7pIkqXWuE5HqGOXj7p) | 3:39 | 2021-11-09 | 2023-12-09 |
+| [Tribe](https://open.spotify.com/track/6WPF6CtkciFI5O33xTpnkO) | [Dav the Ninja](https://open.spotify.com/artist/0Ddd55lzvz41th2dA7Limg) | [In Peace](https://open.spotify.com/album/5YjWQeUmO2KIFI9zAwPbvK) | 3:39 | 2023-02-17 |  |
 | [Unity](https://open.spotify.com/track/21YIVa2yIkwPXAQ7HxheUF) | [Hypersia](https://open.spotify.com/artist/0J7xP06wlFNZdFuSyev5jp), [Saman Mehmani](https://open.spotify.com/artist/37E7gpurZftsqEvqXkflz6), [Parsa Q](https://open.spotify.com/artist/3zmGD72DUHMMrySR1cnGZZ) | [Unity](https://open.spotify.com/album/62S1qNPlGk3XgbeeTFckkN) | 5:23 | 2021-11-09 |  |
 | [Up](https://open.spotify.com/track/3aQ1FibqovngIl7WmQYgWC) | [Naffar](https://open.spotify.com/artist/3QIEbSFF0qzlYo0EDcr7r9) | [Up](https://open.spotify.com/album/40FRIOXfDACAYFUMrygBxW) | 2:42 | 2021-11-09 |  |
-| [Ya Bnayya \- Bad Royale Remix](https://open.spotify.com/track/54w6HSR0vBATL3XLN6KW7K) | [Omar Souleyman](https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK), [Bad Royale](https://open.spotify.com/artist/7kHe4uFK1KQFqMRP7td4mS) | [To Syria, With Love \(Remixes\)](https://open.spotify.com/album/62vdZUBIHbEDWjphdWj0og) | 3:21 | 2021-11-09 |  |
+| [Ya Bnayya \- Bad Royale Remix](https://open.spotify.com/track/54w6HSR0vBATL3XLN6KW7K) | [Omar Souleyman](https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK), [Bad Royale](https://open.spotify.com/artist/7kHe4uFK1KQFqMRP7td4mS) | [To Syria, With Love \(Remixes\)](https://open.spotify.com/album/62vdZUBIHbEDWjphdWj0og) | 3:21 | 2021-11-09 | 2023-12-26 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

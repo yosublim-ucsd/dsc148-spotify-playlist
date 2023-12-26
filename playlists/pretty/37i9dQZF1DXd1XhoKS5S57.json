@@ -1,12 +1,12 @@
 {
   "description": "Retour en arri\u00e8re avec les meilleurs titres de l'ann\u00e9e 2004. Photo : Usher",
-  "num_followers": 11959,
+  "num_followers": 11962,
   "original_name": "Top Hits France 2004",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjZjMDk1YmFjODNhZGZiNTlkNzJmYTJhYmQwNDE2ZDhiN2RjZWJh",
+  "snapshot_id": "MCw2YzUyZDJhYWU0ZjQ2YjY3MDM1M2ZjZjdmMTZmOTM3OTRhNjNhYmJm",
   "tracks": [
     {
       "added_at": "2020-10-27 12:12:52",
@@ -471,38 +471,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "In The Zone",
-        "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 230306,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/0dRhSF9LV0HR8Jwd3MMMKJ"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
-        "name": "Kevin Lyttle (US Domestic Release)",
-        "url": "https://open.spotify.com/album/0OWwtYwEZFMquSeHGNv3cw"
-      },
-      "artists": [
-        {
-          "name": "Kevin Lyttle",
-          "url": "https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba"
-        }
-      ],
-      "duration_ms": 192106,
-      "name": "Turn Me On",
-      "url": "https://open.spotify.com/track/0BBOLOV5JntPL3341swIre"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "Trading Snakeoil for Wolftickets",
         "url": "https://open.spotify.com/album/1OydCrx4m7fguwcX4stR9z"
       },
@@ -523,18 +491,34 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "JoJo",
-        "url": "https://open.spotify.com/album/1UIesw6QSRT3VrFN36hwgp"
+        "name": "Kevin Lyttle (US Domestic Release)",
+        "url": "https://open.spotify.com/album/0OWwtYwEZFMquSeHGNv3cw"
       },
       "artists": [
         {
-          "name": "JoJo",
-          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+          "name": "Kevin Lyttle",
+          "url": "https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba"
         }
       ],
-      "duration_ms": 242840,
-      "name": "Leave (Get Out)",
-      "url": "https://open.spotify.com/track/3DOxMCaNBNvnjSzpHUSjE3"
+      "duration_ms": 192106,
+      "name": "Turn Me On",
+      "url": "https://open.spotify.com/track/0BBOLOV5JntPL3341swIre"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "In The Zone",
+        "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 230306,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/0dRhSF9LV0HR8Jwd3MMMKJ"
     },
     {
       "added_at": "2020-10-27 12:12:52",
@@ -551,6 +535,22 @@
       "duration_ms": 196906,
       "name": "Breaking the Habit",
       "url": "https://open.spotify.com/track/6n8TMVyFKoUmDc4apxceRD"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "JoJo",
+        "url": "https://open.spotify.com/album/1UIesw6QSRT3VrFN36hwgp"
+      },
+      "artists": [
+        {
+          "name": "JoJo",
+          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+        }
+      ],
+      "duration_ms": 242840,
+      "name": "Leave (Get Out)",
+      "url": "https://open.spotify.com/track/3DOxMCaNBNvnjSzpHUSjE3"
     },
     {
       "added_at": "2020-10-27 12:12:52",
@@ -727,22 +727,6 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "Pieces of A Dream",
-        "url": "https://open.spotify.com/album/1wuzyMw7UrEv65yXblge8w"
-      },
-      "artists": [
-        {
-          "name": "Anastacia",
-          "url": "https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH"
-        }
-      ],
-      "duration_ms": 258800,
-      "name": "Left Outside Alone",
-      "url": "https://open.spotify.com/track/2uNq2hKb4X1S30hBgoywOF"
-    },
-    {
-      "added_at": "2020-10-27 12:12:52",
-      "album": {
         "name": "Dangerously In Love",
         "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 301133,
       "name": "Me, Myself and I",
       "url": "https://open.spotify.com/track/6XsT5UGfpaFeHQf5LRIy4W"
+    },
+    {
+      "added_at": "2020-10-27 12:12:52",
+      "album": {
+        "name": "Pieces of A Dream",
+        "url": "https://open.spotify.com/album/1wuzyMw7UrEv65yXblge8w"
+      },
+      "artists": [
+        {
+          "name": "Anastacia",
+          "url": "https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH"
+        }
+      ],
+      "duration_ms": 258800,
+      "name": "Left Outside Alone",
+      "url": "https://open.spotify.com/track/2uNq2hKb4X1S30hBgoywOF"
     },
     {
       "added_at": "2020-10-27 12:12:52",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2020-10-27 12:12:52",
       "album": {
-        "name": "Liebling (France version)",
-        "url": "https://open.spotify.com/album/5JP2ldSSJOjHsLmiKNZmsP"
+        "name": "DiscO-Zone",
+        "url": "https://open.spotify.com/album/6mTzM3bE0LkkVLAgdBWHYu"
       },
       "artists": [
         {
-          "name": "Andreas Johnson",
-          "url": "https://open.spotify.com/artist/5CKhp4ovgbSd7PdVIza7cC"
+          "name": "O-Zone",
+          "url": "https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r"
         }
       ],
-      "duration_ms": 207293,
-      "name": "Glorious",
-      "url": "https://open.spotify.com/track/3Mx6U6CpcvLj4fHYneg5RB"
+      "duration_ms": 214560,
+      "name": "Dragostea Din Tei - Original Romanian Version",
+      "url": "https://open.spotify.com/track/6YkHLUPBUttfwepwFgNNGX"
     }
   ],
   "unique_name": "Top Hits France 2004",

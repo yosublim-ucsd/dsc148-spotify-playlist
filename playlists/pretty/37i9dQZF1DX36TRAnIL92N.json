@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 257802,
+  "num_followers": 258037,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZGU3YjA4YjA4OWJjYTdmMmJkNTk3OWExYmM4YmNiMjYyZDZlMGNi",
+  "snapshot_id": "MCxhNDVkZmQxNzg5M2E3YjMyMTA1OWZlMzVlMmMwMmVkNTY0MjdiMDU3",
   "tracks": [
     {
       "added_at": "2023-11-10 11:30:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-11-10 11:30:00",
       "album": {
-        "name": "MNML",
-        "url": "https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8"
-      },
-      "artists": [
-        {
-          "name": "Deborah de Luca",
-          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
-        }
-      ],
-      "duration_ms": 390447,
-      "name": "Minimal",
-      "url": "https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8"
-    },
-    {
-      "added_at": "2023-11-10 11:30:00",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/3CBJ2fnrJfyp5UnrIt6Wvw"
       },
@@ -567,18 +551,18 @@
     {
       "added_at": "2023-11-10 11:30:00",
       "album": {
-        "name": "Silence EP",
-        "url": "https://open.spotify.com/album/1yEygTNMJpqohn7MATAnSc"
+        "name": "MNML",
+        "url": "https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8"
       },
       "artists": [
         {
-          "name": "Enrico Sangiuliano",
-          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
         }
       ],
-      "duration_ms": 509090,
-      "name": "Future Dust",
-      "url": "https://open.spotify.com/track/7BbdmhlX1kVgFrn1YlKJG2"
+      "duration_ms": 390447,
+      "name": "Minimal",
+      "url": "https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8"
     },
     {
       "added_at": "2023-11-10 11:30:00",
@@ -599,6 +583,22 @@
       "duration_ms": 191641,
       "name": "Seduction",
       "url": "https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx"
+    },
+    {
+      "added_at": "2023-11-10 11:30:00",
+      "album": {
+        "name": "Silence EP",
+        "url": "https://open.spotify.com/album/1yEygTNMJpqohn7MATAnSc"
+      },
+      "artists": [
+        {
+          "name": "Enrico Sangiuliano",
+          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+        }
+      ],
+      "duration_ms": 509090,
+      "name": "Future Dust",
+      "url": "https://open.spotify.com/track/7BbdmhlX1kVgFrn1YlKJG2"
     },
     {
       "added_at": "2023-11-10 11:30:00",

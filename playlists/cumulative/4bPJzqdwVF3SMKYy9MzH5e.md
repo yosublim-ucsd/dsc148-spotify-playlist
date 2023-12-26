@@ -4,7 +4,7 @@
 
 > 
 
-1,833 songs - 4 day 3 hr 11 min
+1,836 songs - 4 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1149,6 +1149,7 @@
 | [North](https://open.spotify.com/track/0zzz9l8ZX5vDBJmNHnWOom) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:33 | 2021-08-05 |  |
 | [North Memphis](https://open.spotify.com/track/0SzDVyiiUDpuhzrphnoejr) | [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0) | [North Memphis](https://open.spotify.com/album/1lct5ZQWEx7w2r3qyajVOq) | 2:15 | 2021-08-05 |  |
 | [Not Allowed](https://open.spotify.com/track/0jA4h2SD50Oak4C3Vn905a) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/5tm1XKTwxHAL80b1yoPQ5U) | 2:47 | 2021-08-05 |  |
+| [Not Even Ghosts Are This Empty](https://open.spotify.com/track/7rzNKooM3JrKVT40fR22HI) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear The Razor Guarding My Heel \(V\)](https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas) | 3:00 | 2023-12-26 |  |
 | [Not Okay \- Alone Mix](https://open.spotify.com/track/2rItExC2Ht8PcgMV0lqbf8) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/0cIIXn7HSL6zFbAsSO3Lrz) | 1:24 | 2021-11-14 |  |
 | [Not Thinkin' Bout You](https://open.spotify.com/track/2awExtNBABpwOFC78XViJd) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Ready](https://open.spotify.com/album/4iosTZ1wD4C0psaI0E2pS5) | 3:08 | 2021-08-05 |  |
 | [Not Waving But Drowning](https://open.spotify.com/track/6d66xhuOy1Fg9gTt2RUgqT) | [I Hate Myself](https://open.spotify.com/artist/5m858bXqt99f2hWD72hySB) | [Ten Songs](https://open.spotify.com/album/3jLWGkPi9b5xbrrFaQIpzH) | 3:49 | 2023-06-25 | 2023-07-01 |
@@ -1604,6 +1605,7 @@
 | [The Last Of The Real Ones](https://open.spotify.com/track/6e13443Ve7RGcAUScTgYtl) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [MANIA](https://open.spotify.com/album/02s2F3XMnv9vr2syELbSsu) | 3:50 | 2021-08-05 |  |
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2021-08-05 |  |
 | [The Louvre](https://open.spotify.com/track/5q4BpnMrYEFzLO0dYODj6J) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 4:31 | 2022-02-04 |  |
+| [The Number You Have Dialed Is Not in Service](https://open.spotify.com/track/4gAtj23mqTx5pjfkzVaXhh) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:45 | 2023-12-26 |  |
 | [The Passion of Lovers](https://open.spotify.com/track/3BnW7igjh4qezy645pckgX) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [Mask](https://open.spotify.com/album/378ahhobt690RQEsyD8DaK) | 3:52 | 2022-05-18 |  |
 | [The Perfect Girl](https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [The Perfect Girl](https://open.spotify.com/album/2JnZQM70jbT0J1Xq0qgl24) | 3:14 | 2021-12-30 |  |
 | [The Perfect Girl](https://open.spotify.com/track/7kOc8ZyNRLJcwzFlv7szaT) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa) | 2:35 | 2021-12-30 |  |
@@ -1695,6 +1697,7 @@
 | [u U U U u U did i mfken stutter?](https://open.spotify.com/track/368hMk29q0OhJuRjWL44Fm) | [swimcoach](https://open.spotify.com/artist/55kM6YHZNtzPFa6veTc2Zf) | [u U U U u U did i mfken stutter?](https://open.spotify.com/album/6qNoaIgbAqeI6ynSsJ3kej) | 1:53 | 2021-08-05 |  |
 | [U,U,D,D,L,R,L,R,A,B,Select,Start](https://open.spotify.com/track/7br4LajZITrs7eNPbwll9R) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Saturday Night Wrist](https://open.spotify.com/album/4o1KnoVpzXZceJxyjELEQB) | 4:12 | 2022-04-03 |  |
 | [Uber Everywhere](https://open.spotify.com/track/7zBPzAjKAqQpcv8F8GCq5s) | [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [Uber Everywhere](https://open.spotify.com/album/7asvyIMzbsyAJpbC47wjBV) | 2:33 | 2021-08-05 |  |
+| [Ugliest](https://open.spotify.com/track/2Q9nA56DKKJhj4cHMbHlAS) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:58 | 2023-12-26 |  |
 | [UNBREAKABLE](https://open.spotify.com/track/3rcW5osqGbwP1KUdAhtkBF) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [UNBREAKABLE](https://open.spotify.com/album/48PMOYTHYgM6vuiy0JiJQb) | 2:55 | 2021-11-14 |  |
 | [Undercover Agents](https://open.spotify.com/track/7Mr7iSIDm5CnZ5b3DIPQO5) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [The Spark](https://open.spotify.com/album/6i96oOlC1X5vz2XBE5fL3V) | 4:30 | 2021-08-05 |  |
 | [Undress](https://open.spotify.com/track/3vHTp0PSVjgnqocdLHCk19) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Deep Divine](https://open.spotify.com/album/5eS6gZNJGVUix4rp2WyUyQ) | 3:59 | 2022-10-01 |  |

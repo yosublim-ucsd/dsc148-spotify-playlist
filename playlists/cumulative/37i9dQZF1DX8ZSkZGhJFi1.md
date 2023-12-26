@@ -4,7 +4,7 @@
 
 > Beats instrumentais para te ajudar a focar mantendo o ânimo.
 
-671 songs - 1 day 3 hr 11 min
+672 songs - 1 day 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [C & H](https://open.spotify.com/track/7E5dWj4quPocWXIJehXinq) | [Damien Thorpe](https://open.spotify.com/artist/2gWKTDvpiP3BHKAU07jBYW) | [C & H](https://open.spotify.com/album/2n6RJpJnvmYuh2dVYua7fa) | 2:10 | 2022-02-17 | 2023-09-09 |
 | [Café Zimmermann](https://open.spotify.com/track/7Me1bh396LceRfiRuna7V8) | [Ed Mate](https://open.spotify.com/artist/6DJfY1YYdNAMLbd1Aj9ITV), [Seventropic](https://open.spotify.com/artist/5RfMWlQODNTGPjALPrsGfP) | [Café Zimmermann](https://open.spotify.com/album/4t831ryNDYD4cnMyef4VfR) | 1:46 | 2023-09-08 |  |
 | [Cali Sunshine](https://open.spotify.com/track/5YwI4vVk3SHkwIVVoSwp5n) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym) | [Cali Sunshine](https://open.spotify.com/album/6AyEYNLT0JWgsjhUUqbC2i) | 1:45 | 2023-09-08 |  |
+| [california](https://open.spotify.com/track/4uVEcEx7qmWuH7EkrvzWG3) | [Løwkey](https://open.spotify.com/artist/0CgkKi2bj6cYB9sNMn0JPz) | [california](https://open.spotify.com/album/7a68JtMeslLirwdqYdWgex) | 1:31 | 2023-12-22 |  |
 | [Calypso's Groove](https://open.spotify.com/track/32CSGiAJ3IJTyIWBG1K2CC) | [Jules Hiero](https://open.spotify.com/artist/2eK4vL0m6Ws2vg078EGk8J) | [Calypso's Groove](https://open.spotify.com/album/1yPQjGsSWcfXbrA4qazF2U) | 2:04 | 2023-09-08 |  |
 | [Caminos](https://open.spotify.com/track/6908A1nEezSYjpplzdfs2z) | [Rio Nilo](https://open.spotify.com/artist/4iS1CcjF3gNKPHrvNIoPLn) | [Caminos](https://open.spotify.com/album/1pe8XllgZslSzHlK4QgA3n) | 2:18 | 2023-09-08 |  |
 | [Campanuela](https://open.spotify.com/track/60tPYJtm2HlE9BMRB1buVY) | [Nacho Datúr](https://open.spotify.com/artist/5tqsx6BPIV6KA02eum8i5m) | [Campanuela](https://open.spotify.com/album/4PkcikpHhznpMaALaL1BLB) | 1:53 | 2023-10-27 |  |
@@ -320,7 +321,7 @@
 | [Lotus](https://open.spotify.com/track/3I2UfvebTSME6qOSvvuxnI) | [karasu.](https://open.spotify.com/artist/5DqGtuUBthl8KW4C98OYae) | [Lotus](https://open.spotify.com/album/2IOMBujAQ7aN3vKSnDX4pM) | 3:23 | 2022-02-17 | 2023-09-09 |
 | [Love Is Being Stupid Together](https://open.spotify.com/track/4kjYlte22vgJfHr48NSPRO) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Love Is Being Stupid Together](https://open.spotify.com/album/5cF1s5q3TCm53jR9vIPaOH) | 2:10 | 2023-09-08 | 2023-11-29 |
 | [Low Jump](https://open.spotify.com/track/0fdLkJqb4NrPUVzyxO8Gxn) | [Gidde](https://open.spotify.com/artist/5DwyCd0VM31aNwkklawG0l) | [Low Jump](https://open.spotify.com/album/6AGB5bdyxvecqWmGO6XKyJ) | 1:36 | 2023-09-08 |  |
-| [low wave](https://open.spotify.com/track/0uJzNH4kMiF3k8JotEVf4h) | [Angry Apple](https://open.spotify.com/artist/3rcNqFlMCnywhkqxW6e0vW) | [low wave](https://open.spotify.com/album/7nYHKRzvaKeJ4XOzIC8bXw) | 1:37 | 2023-09-08 |  |
+| [low wave](https://open.spotify.com/track/0uJzNH4kMiF3k8JotEVf4h) | [Angry Apple](https://open.spotify.com/artist/3rcNqFlMCnywhkqxW6e0vW) | [low wave](https://open.spotify.com/album/7nYHKRzvaKeJ4XOzIC8bXw) | 1:37 | 2023-09-08 | 2023-12-26 |
 | [lucid](https://open.spotify.com/track/5Mmwj21GsWUNJga9RQSolY) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [lucid](https://open.spotify.com/album/0rMoBJlYV5Ie2EYnfZnR2g) | 2:06 | 2023-12-08 |  |
 | [Lucid Living](https://open.spotify.com/track/4wzysfxJsTFm2UvgOYFvrV) | [Ben Jammin' Beats](https://open.spotify.com/artist/58flJQprTkM8cMJwnQ6aIi), [Whilst](https://open.spotify.com/artist/1TuQVlt2pf14yyNcXunZYt) | [Lucid Living](https://open.spotify.com/album/2ynlL4uaTJ9hMecU8W5LKb) | 2:26 | 2023-09-08 |  |
 | [lucky punch](https://open.spotify.com/track/4Q7dEitZXGBrgu3UzAfeZo) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [lucky punch](https://open.spotify.com/album/0ufZPC4ZmewfYvz84hExIS) | 2:08 | 2023-09-08 |  |

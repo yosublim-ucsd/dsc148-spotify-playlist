@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 
 > Teddy Swims au sommet de la première playlist de France.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,216,436 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,217,082 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVuV87wUBNwc.md) - [plain]
 | 49 | [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 |
 | 50 | [People Love](https://open.spotify.com/track/6j09kFtLDQBLH4a8RBWxlc) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis) | [People Love](https://open.spotify.com/album/7oyw7Ymq9sNGbwFDQV3YMD) | 2:16 |
 
-Snapshot ID: `MCw2NGZlODUwNTJhYjI2OTEzMGE4ZGZlY2FkNGFhYjA5NWQ5OWNhMDgy`
+Snapshot ID: `MCw5ODg1NDc3ZjNmNGFkMWFlYzZhMDdlNGFhZDhkZThhYzljOTJjMWM1`

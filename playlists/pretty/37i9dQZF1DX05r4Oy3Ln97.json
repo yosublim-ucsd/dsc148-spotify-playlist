@@ -1,12 +1,12 @@
 {
   "description": "Dip your feet in the pool and enjoy this perfect summer house mix \u2600\ufe0f\u200a",
-  "num_followers": 552610,
+  "num_followers": 552664,
   "original_name": "Summer House 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmI4NTgwMTEwOWI2MGFiOGE0ZDc2MTU5NTZlZTI0Y2MyZTMxMjkx",
+  "snapshot_id": "MCxlODZkYzI5NzhkOWEzMzcyODQ5NGU5MTMwOTllZWQ3MWZhMTA4MDc5",
   "tracks": [
     {
       "added_at": "2023-12-22 16:00:00",
@@ -235,6 +235,22 @@
     {
       "added_at": "2023-12-22 16:00:00",
       "album": {
+        "name": "Lose It All (I Don't Wanna)",
+        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "duration_ms": 139071,
+      "name": "Lose It All (I Don't Wanna)",
+      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
+    },
+    {
+      "added_at": "2023-12-22 16:00:00",
+      "album": {
         "name": "Something Stronger",
         "url": "https://open.spotify.com/album/6jjwM9Sheset9qyHMMA4PB"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 147818,
       "name": "Samba",
       "url": "https://open.spotify.com/track/0skgJbXMM4sPRwSKXvO2id"
-    },
-    {
-      "added_at": "2023-12-22 16:00:00",
-      "album": {
-        "name": "Lose It All (I Don't Wanna)",
-        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        }
-      ],
-      "duration_ms": 139071,
-      "name": "Lose It All (I Don't Wanna)",
-      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
     },
     {
       "added_at": "2023-12-22 16:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-12-22 16:00:00",
       "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/1Iiu7xbEoH46CCvp5F9o7D"
-      },
-      "artists": [
-        {
-          "name": "TWOPILOTS",
-          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "King",
-      "url": "https://open.spotify.com/track/7yH9SbrDQfNIh89ACCR7Ib"
-    },
-    {
-      "added_at": "2023-12-22 16:00:00",
-      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/0lnPUG1O0J3zTNgLa6B5Nj"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 156985,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/6Hht0SIzJwQYBkDD07Dnoj"
+    },
+    {
+      "added_at": "2023-12-22 16:00:00",
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/1Iiu7xbEoH46CCvp5F9o7D"
+      },
+      "artists": [
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "King",
+      "url": "https://open.spotify.com/track/7yH9SbrDQfNIh89ACCR7Ib"
     },
     {
       "added_at": "2023-12-22 16:00:00",
@@ -1043,30 +1043,6 @@
     {
       "added_at": "2023-12-22 16:00:00",
       "album": {
-        "name": "In Too Deep",
-        "url": "https://open.spotify.com/album/1Vn4wZXUWARO2ccRQCa37z"
-      },
-      "artists": [
-        {
-          "name": "WEEKLESS",
-          "url": "https://open.spotify.com/artist/5dcTpvZKfsW5kr0UonRGTF"
-        },
-        {
-          "name": "WEDONT",
-          "url": "https://open.spotify.com/artist/1R51BjTIFXli8N3teyDRMe"
-        },
-        {
-          "name": "ROBINS",
-          "url": "https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM"
-        }
-      ],
-      "duration_ms": 165551,
-      "name": "In Too Deep",
-      "url": "https://open.spotify.com/track/5oxxcYAnxA79DHWNgmuHhU"
-    },
-    {
-      "added_at": "2023-12-22 16:00:00",
-      "album": {
         "name": "Wake Up! (feat. Kaleta)",
         "url": "https://open.spotify.com/album/3tTRLML0NouWERt09k2Whv"
       },
@@ -1087,6 +1063,30 @@
       "duration_ms": 232745,
       "name": "Wake Up! (feat. Kaleta)",
       "url": "https://open.spotify.com/track/7sMYJtxTHZKCDr48rAoA4J"
+    },
+    {
+      "added_at": "2023-12-22 16:00:00",
+      "album": {
+        "name": "In Too Deep",
+        "url": "https://open.spotify.com/album/1Vn4wZXUWARO2ccRQCa37z"
+      },
+      "artists": [
+        {
+          "name": "WEEKLESS",
+          "url": "https://open.spotify.com/artist/5dcTpvZKfsW5kr0UonRGTF"
+        },
+        {
+          "name": "WEDONT",
+          "url": "https://open.spotify.com/artist/1R51BjTIFXli8N3teyDRMe"
+        },
+        {
+          "name": "ROBINS",
+          "url": "https://open.spotify.com/artist/3jB0kLyOjPj9pZHMect1BM"
+        }
+      ],
+      "duration_ms": 165551,
+      "name": "In Too Deep",
+      "url": "https://open.spotify.com/track/5oxxcYAnxA79DHWNgmuHhU"
     },
     {
       "added_at": "2023-12-22 16:00:00",

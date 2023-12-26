@@ -1,12 +1,12 @@
 {
   "description": "Descubra Abbot e novos talentos brasileiros no horizonte.",
-  "num_followers": 418907,
+  "num_followers": 418891,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTYyMjVhYjA4N2ExZTlmNTAzMWY0NTMwM2FiOTUzMzE0NzU1NjM3",
+  "snapshot_id": "MCwzZjUwZGI5ZjQxZTQyMmU0MmE3ODllNjg2YmQ5YzNhNzk5NTc2N2Uz",
   "tracks": [
     {
       "added_at": "2023-10-05 08:00:00",
@@ -99,6 +99,46 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
+        "name": "Joga na Cara",
+        "url": "https://open.spotify.com/album/6wAmvT3thzRT1weMOvVABC"
+      },
+      "artists": [
+        {
+          "name": "MC Braz",
+          "url": "https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ"
+        },
+        {
+          "name": "MC Gabluca",
+          "url": "https://open.spotify.com/artist/3t79G9FgRevO8CGsP9B6I8"
+        }
+      ],
+      "duration_ms": 109846,
+      "name": "Joga na Cara",
+      "url": "https://open.spotify.com/track/1gKXrwKn5ub6wyefqMsnZp"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "Toda Noite",
+        "url": "https://open.spotify.com/album/1ybO5RFlM3hhjgssvNfKNe"
+      },
+      "artists": [
+        {
+          "name": "Abbot",
+          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
+        },
+        {
+          "name": "Pepito",
+          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
+        }
+      ],
+      "duration_ms": 128695,
+      "name": "Romance de Novela",
+      "url": "https://open.spotify.com/track/3Ddco5MUY23qxHZE2s3siS"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
         "name": "Essa \u00e9 a Vida de um Corredor",
         "url": "https://open.spotify.com/album/7bBlOZxxwCMSMpFngmSIPO"
       },
@@ -127,46 +167,6 @@
       "duration_ms": 136875,
       "name": "DAMN!",
       "url": "https://open.spotify.com/track/4unpSpFKk3d8H08AmLvrHj"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "Toda Noite",
-        "url": "https://open.spotify.com/album/1ybO5RFlM3hhjgssvNfKNe"
-      },
-      "artists": [
-        {
-          "name": "Abbot",
-          "url": "https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ"
-        },
-        {
-          "name": "Pepito",
-          "url": "https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE"
-        }
-      ],
-      "duration_ms": 128695,
-      "name": "Romance de Novela",
-      "url": "https://open.spotify.com/track/3Ddco5MUY23qxHZE2s3siS"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "Joga na Cara",
-        "url": "https://open.spotify.com/album/6wAmvT3thzRT1weMOvVABC"
-      },
-      "artists": [
-        {
-          "name": "MC Braz",
-          "url": "https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ"
-        },
-        {
-          "name": "MC Gabluca",
-          "url": "https://open.spotify.com/artist/3t79G9FgRevO8CGsP9B6I8"
-        }
-      ],
-      "duration_ms": 109846,
-      "name": "Joga na Cara",
-      "url": "https://open.spotify.com/track/1gKXrwKn5ub6wyefqMsnZp"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -375,30 +375,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "3AM (PXT4 RASA) [Remix]",
-        "url": "https://open.spotify.com/album/1acHuLX2pd5QNZ46ZvHD8r"
-      },
-      "artists": [
-        {
-          "name": "Sotam",
-          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
-        },
-        {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Matheus Muniz",
-          "url": "https://open.spotify.com/artist/3ZfuJqd34fmfkTMpqDW2iI"
-        }
-      ],
-      "duration_ms": 122192,
-      "name": "3AM (PXT4 RASA) - Remix",
-      "url": "https://open.spotify.com/track/0niFRLaq6SNmy6PThNORj0"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "Movimento - Spotify Singles",
         "url": "https://open.spotify.com/album/7C5Wqc2KWxxTvRg6UmcxSU"
       },
@@ -423,6 +399,30 @@
       "duration_ms": 158076,
       "name": "Movimento - Spotify Singles",
       "url": "https://open.spotify.com/track/6SMH0vJtez9fJmg3Nh2heG"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "3AM (PXT4 RASA) [Remix]",
+        "url": "https://open.spotify.com/album/1acHuLX2pd5QNZ46ZvHD8r"
+      },
+      "artists": [
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Matheus Muniz",
+          "url": "https://open.spotify.com/artist/3ZfuJqd34fmfkTMpqDW2iI"
+        }
+      ],
+      "duration_ms": 122192,
+      "name": "3AM (PXT4 RASA) - Remix",
+      "url": "https://open.spotify.com/track/0niFRLaq6SNmy6PThNORj0"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -791,6 +791,26 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
+        "name": "O outro lado do rio",
+        "url": "https://open.spotify.com/album/1lVG4rP4Lqpk0fkHC5z61C"
+      },
+      "artists": [
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        },
+        {
+          "name": "Mathias",
+          "url": "https://open.spotify.com/artist/2HzSGi7gfIwWf25UmgFe28"
+        }
+      ],
+      "duration_ms": 194351,
+      "name": "Me chama pra dan\u00e7ar",
+      "url": "https://open.spotify.com/track/7zQB0CvUfqnziNBF4kLW1a"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
         "name": "Notas",
         "url": "https://open.spotify.com/album/5JxbFGCIxfZPOPSuSs5GAY"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 201951,
       "name": "Notas",
       "url": "https://open.spotify.com/track/2AuH6RO1u7PMqCUv8HNg43"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "O outro lado do rio",
-        "url": "https://open.spotify.com/album/1lVG4rP4Lqpk0fkHC5z61C"
-      },
-      "artists": [
-        {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
-        },
-        {
-          "name": "Mathias",
-          "url": "https://open.spotify.com/artist/2HzSGi7gfIwWf25UmgFe28"
-        }
-      ],
-      "duration_ms": 194351,
-      "name": "Me chama pra dan\u00e7ar",
-      "url": "https://open.spotify.com/track/7zQB0CvUfqnziNBF4kLW1a"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -895,26 +895,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Aquecimento",
-        "url": "https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw"
-      },
-      "artists": [
-        {
-          "name": "SHURY",
-          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
-        },
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        }
-      ],
-      "duration_ms": 123444,
-      "name": "Aquecimento",
-      "url": "https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "PELE",
         "url": "https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 134264,
       "name": "Matem\u00e1tica",
       "url": "https://open.spotify.com/track/1xRxdXBGDY5O89pKp40i0L"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "Aquecimento",
+        "url": "https://open.spotify.com/album/7D9ko1HfH2A1tTOA8UYyaw"
+      },
+      "artists": [
+        {
+          "name": "SHURY",
+          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        }
+      ],
+      "duration_ms": 123444,
+      "name": "Aquecimento",
+      "url": "https://open.spotify.com/track/50xFtTjve71h0UwBRM5aWW"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Cara, Hoje \u00c9 Meu Anivers\u00e1rio",
-        "url": "https://open.spotify.com/album/29B30ocnhpIQndlp0UtEtD"
-      },
-      "artists": [
-        {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
-        },
-        {
-          "name": "Su Madre Mandrake",
-          "url": "https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i"
-        }
-      ],
-      "duration_ms": 121607,
-      "name": "Cara, Hoje \u00c9 Meu Anivers\u00e1rio",
-      "url": "https://open.spotify.com/track/2DpgbrHd6RCrmFA6oLInv1"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "24K o Spotify Que Paga",
         "url": "https://open.spotify.com/album/36xMrm390G9SD1R6e1jtfR"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 180000,
       "name": "24K o Spotify Que Paga",
       "url": "https://open.spotify.com/track/7x0begSPdxT8KgFgwG3XaQ"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "Cara, Hoje \u00c9 Meu Anivers\u00e1rio",
+        "url": "https://open.spotify.com/album/29B30ocnhpIQndlp0UtEtD"
+      },
+      "artists": [
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9"
+        },
+        {
+          "name": "Su Madre Mandrake",
+          "url": "https://open.spotify.com/artist/1S1jcqQMtTQhQF1D2yhk4i"
+        }
+      ],
+      "duration_ms": 121607,
+      "name": "Cara, Hoje \u00c9 Meu Anivers\u00e1rio",
+      "url": "https://open.spotify.com/track/2DpgbrHd6RCrmFA6oLInv1"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1207,6 +1207,30 @@
       "duration_ms": 152062,
       "name": "Face ID",
       "url": "https://open.spotify.com/track/3ib4SClHlSQXqV8EwChkWZ"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "Rompe",
+        "url": "https://open.spotify.com/album/283BKOpijdldRWEsKOfAmT"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "PK Delas",
+          "url": "https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3"
+        },
+        {
+          "name": "Dj Alle da coro",
+          "url": "https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x"
+        }
+      ],
+      "duration_ms": 153004,
+      "name": "Rompe",
+      "url": "https://open.spotify.com/track/5ay5pvM8CuZTsbrr0wfxRH"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1279,30 +1303,6 @@
       "duration_ms": 182526,
       "name": "Ver\u00e3o 021",
       "url": "https://open.spotify.com/track/74uMkyhm8QY9XDjOou0t9i"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "Rompe",
-        "url": "https://open.spotify.com/album/283BKOpijdldRWEsKOfAmT"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "PK Delas",
-          "url": "https://open.spotify.com/artist/6gqBZ0kAjgVLsZQKkHcaB3"
-        },
-        {
-          "name": "Dj Alle da coro",
-          "url": "https://open.spotify.com/artist/6fGH2Qk8eKAcvEU1nHOi8x"
-        }
-      ],
-      "duration_ms": 153004,
-      "name": "Rompe",
-      "url": "https://open.spotify.com/track/5ay5pvM8CuZTsbrr0wfxRH"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
-        "url": "https://open.spotify.com/album/068AREijgAvQQuZkiAfap3"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 141557,
-      "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
-      "url": "https://open.spotify.com/track/66T9qmi90u64HeZHTZSH2j"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
         "name": "Ruas Perigosas",
         "url": "https://open.spotify.com/album/4v2JRf5uvB7JYnwMABEZzV"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 195428,
       "name": "Ruas Perigosas",
       "url": "https://open.spotify.com/track/4ncbfsjnaim9mWZPJCrDds"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
+        "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
+        "url": "https://open.spotify.com/album/068AREijgAvQQuZkiAfap3"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 141557,
+      "name": "Vis\u00e3o de On\u00e7a - Spotify Singles",
+      "url": "https://open.spotify.com/track/66T9qmi90u64HeZHTZSH2j"
     },
     {
       "added_at": "2023-10-05 08:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 
 > All juice
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,444 likes - 173 songs - 10 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,450 likes - 173 songs - 10 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nkDUiMktkK.md) - [plain]
 | 172 | [Four Tet Is My Godmother](https://open.spotify.com/track/6KsRWn1YysBAeBEB384iVT) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Four Tet Is My Godmother](https://open.spotify.com/album/3Vs3clSmo2AS7u3JywlVOP) | 5:00 |
 | 173 | [It's Very Loud](https://open.spotify.com/track/4pVpPtYTEGLVhfgljGM2Xl) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [It's Very Loud](https://open.spotify.com/album/6IERtDEcLcMkt23FEueAH7) | 6:20 |
 
-Snapshot ID: `MCw5MTczMDE3OWQwOTRkOGJjZjIyYjRlY2RhOWRhZTgyMzMwNTQzYmUy`
+Snapshot ID: `MCxjZDc2NzQyY2FkYTExYzAzNmRmYjc1MGRlYzdjODBkZGQxNDM1MzNk`

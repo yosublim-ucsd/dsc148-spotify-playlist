@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Zhamira Zambrano & Jay Wheeler",
-  "num_followers": 286658,
+  "num_followers": 286683,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTVhNzFiZWRlZGIxOWQ1ZjRlZTVlNWEzNDcxOTNiYzkyYWJiMjI1",
+  "snapshot_id": "MCwwN2Y2Y2ZkYzJjZjUyY2Q3MWQyZTQyYjMzYTk1Mjg2NTE2NTk1NmU2",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -195,38 +195,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Demasiado Lejos",
-        "url": "https://open.spotify.com/album/6ffoY6voawepJR0R8xIyQA"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 179123,
-      "name": "Demasiado Lejos",
-      "url": "https://open.spotify.com/track/5ssfE8stObAdewUXpSdG2I"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "remolino",
-        "url": "https://open.spotify.com/album/5IjZiLDCW81IgyMelsIvEJ"
-      },
-      "artists": [
-        {
-          "name": "Yarge",
-          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
-        }
-      ],
-      "duration_ms": 129104,
-      "name": "remolino",
-      "url": "https://open.spotify.com/track/62rB5prwqc1oA6NAMzofWW"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Santorini",
         "url": "https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z"
       },
@@ -247,18 +215,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "bien hecho",
-        "url": "https://open.spotify.com/album/5MNb2jx4ncbpNMimeEUczU"
+        "name": "remolino",
+        "url": "https://open.spotify.com/album/5IjZiLDCW81IgyMelsIvEJ"
       },
       "artists": [
         {
-          "name": "Humbe",
-          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+          "name": "Yarge",
+          "url": "https://open.spotify.com/artist/1K2Ti5gTHnn2w1MFUWAKK4"
         }
       ],
-      "duration_ms": 241038,
-      "name": "bien hecho",
-      "url": "https://open.spotify.com/track/2jMrMVUprU2f03AZYRpWfB"
+      "duration_ms": 129104,
+      "name": "remolino",
+      "url": "https://open.spotify.com/track/62rB5prwqc1oA6NAMzofWW"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -279,22 +247,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Que Alguien Me Saque De Este Mood",
-        "url": "https://open.spotify.com/album/7A3ydblddkJBrKAwyXBGqd"
+        "name": "Demasiado Lejos",
+        "url": "https://open.spotify.com/album/6ffoY6voawepJR0R8xIyQA"
       },
       "artists": [
         {
-          "name": "Olivia Wald",
-          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
-        },
-        {
-          "name": "Jaz",
-          "url": "https://open.spotify.com/artist/1rGCJdI1tiJS0RRo5OToeM"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         }
       ],
-      "duration_ms": 167920,
-      "name": "Que Alguien Me Saque De Este Mood",
-      "url": "https://open.spotify.com/track/51CEK6LaFSbCyGjliYPNBd"
+      "duration_ms": 179123,
+      "name": "Demasiado Lejos",
+      "url": "https://open.spotify.com/track/5ssfE8stObAdewUXpSdG2I"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -331,6 +295,42 @@
       "duration_ms": 217346,
       "name": "Cerquita De Ti",
       "url": "https://open.spotify.com/track/70FJ7VpGX4Luv8GlMGSLRM"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Que Alguien Me Saque De Este Mood",
+        "url": "https://open.spotify.com/album/7A3ydblddkJBrKAwyXBGqd"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        },
+        {
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/1rGCJdI1tiJS0RRo5OToeM"
+        }
+      ],
+      "duration_ms": 167920,
+      "name": "Que Alguien Me Saque De Este Mood",
+      "url": "https://open.spotify.com/track/51CEK6LaFSbCyGjliYPNBd"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "bien hecho",
+        "url": "https://open.spotify.com/album/5MNb2jx4ncbpNMimeEUczU"
+      },
+      "artists": [
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "duration_ms": 241038,
+      "name": "bien hecho",
+      "url": "https://open.spotify.com/track/2jMrMVUprU2f03AZYRpWfB"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "HOY ME PORTO MAL",
-        "url": "https://open.spotify.com/album/4kX2CfhYUBVoEHmy1cnZnZ"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 133051,
-      "name": "HOY ME PORTO MAL",
-      "url": "https://open.spotify.com/track/5o219CGhIIAqx41eXEunRL"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "\u00bfPor Qu\u00e9 No Me Fui Antes?",
         "url": "https://open.spotify.com/album/5EsXC7mx9m2O11NHQvr21L"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 149379,
       "name": "Imagin\u00e1ndote",
       "url": "https://open.spotify.com/track/6zxkr2tSIZMIKHaALNvoCr"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "HOY ME PORTO MAL",
+        "url": "https://open.spotify.com/album/4kX2CfhYUBVoEHmy1cnZnZ"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 133051,
+      "name": "HOY ME PORTO MAL",
+      "url": "https://open.spotify.com/track/5o219CGhIIAqx41eXEunRL"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "REVOLUCION AZUL",
-        "url": "https://open.spotify.com/album/4qmFz9qSSzSMkqgmszlXBm"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 254439,
-      "name": "REVOLUCION AZUL",
-      "url": "https://open.spotify.com/track/2ebfsQkDYWCq8d0otA1zbu"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Nuez",
         "url": "https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 212698,
       "name": "Nuez",
       "url": "https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "REVOLUCION AZUL",
+        "url": "https://open.spotify.com/album/4qmFz9qSSzSMkqgmszlXBm"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 254439,
+      "name": "REVOLUCION AZUL",
+      "url": "https://open.spotify.com/track/2ebfsQkDYWCq8d0otA1zbu"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -699,38 +699,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "en el pasado",
-        "url": "https://open.spotify.com/album/78EFQKhgET0w845QMun4na"
-      },
-      "artists": [
-        {
-          "name": "Alex Ponce",
-          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
-        }
-      ],
-      "duration_ms": 223124,
-      "name": "en el pasado",
-      "url": "https://open.spotify.com/track/5yaLbxJA06rXg1W3jI7M5Q"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "cielo violeta",
-        "url": "https://open.spotify.com/album/4ALW8npMQxUxWmBkOvhTUK"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "cielo violeta",
-      "url": "https://open.spotify.com/track/57qJbIewi6XBJ0WNQmQbXW"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "En Privado ft. Ovy On The Drums - Spotify Singles",
         "url": "https://open.spotify.com/album/5IUwO78bOZoPZ6f8cfAmCQ"
       },
@@ -751,18 +719,34 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
-        "url": "https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL"
+        "name": "cielo violeta",
+        "url": "https://open.spotify.com/album/4ALW8npMQxUxWmBkOvhTUK"
       },
       "artists": [
         {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
         }
       ],
-      "duration_ms": 121836,
-      "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
-      "url": "https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh"
+      "duration_ms": 160000,
+      "name": "cielo violeta",
+      "url": "https://open.spotify.com/track/57qJbIewi6XBJ0WNQmQbXW"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "en el pasado",
+        "url": "https://open.spotify.com/album/78EFQKhgET0w845QMun4na"
+      },
+      "artists": [
+        {
+          "name": "Alex Ponce",
+          "url": "https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO"
+        }
+      ],
+      "duration_ms": 223124,
+      "name": "en el pasado",
+      "url": "https://open.spotify.com/track/5yaLbxJA06rXg1W3jI7M5Q"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -779,6 +763,22 @@
       "duration_ms": 197739,
       "name": "Piloto",
       "url": "https://open.spotify.com/track/5zkg48j0gxSLy59XSVzs9K"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
+        "url": "https://open.spotify.com/album/0NdnCSGS68KynP5IOlaiGL"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "duration_ms": 121836,
+      "name": "MI NI\u00d1A (RubyRose_Am_98BPM)",
+      "url": "https://open.spotify.com/track/2RRq4PrIGH6XCqMz4URWNh"
     },
     {
       "added_at": "2023-12-15 05:00:00",

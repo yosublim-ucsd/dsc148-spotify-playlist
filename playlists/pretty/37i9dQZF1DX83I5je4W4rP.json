@@ -1,12 +1,12 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1064563,
+  "num_followers": 1064566,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDhlNjAwNGIzZjVjOWY2MmZjOWIzMWFlYzg0MTE2MWUxZGUyYWU4",
+  "snapshot_id": "MCxhODI0YTIwMjM0MmVhMDdiNjMyNzEyZmUzNjBiODU2NjkwOTUxMDRk",
   "tracks": [
     {
       "added_at": "2023-11-13 22:46:04",
@@ -151,18 +151,18 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Closer to the Sun",
-        "url": "https://open.spotify.com/album/5FWZm9haAG0NhY6WmdS4oW"
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
       },
       "artists": [
         {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 145560,
-      "name": "Closer to the Sun",
-      "url": "https://open.spotify.com/track/1UL8GkVAs6UcWF6BZ3DYZt"
+      "duration_ms": 180266,
+      "name": "Three Little Birds",
+      "url": "https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -203,18 +203,18 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+        "name": "Sublime",
+        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
         }
       ],
-      "duration_ms": 180266,
-      "name": "Three Little Birds",
-      "url": "https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn"
+      "duration_ms": 170906,
+      "name": "What I Got",
+      "url": "https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -251,18 +251,18 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Sublime",
-        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
+        "name": "Closer to the Sun",
+        "url": "https://open.spotify.com/album/5FWZm9haAG0NhY6WmdS4oW"
       },
       "artists": [
         {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
         }
       ],
-      "duration_ms": 170906,
-      "name": "What I Got",
-      "url": "https://open.spotify.com/track/3B4q6KbHbGV51HO3GznBFF"
+      "duration_ms": 145560,
+      "name": "Closer to the Sun",
+      "url": "https://open.spotify.com/track/1UL8GkVAs6UcWF6BZ3DYZt"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Everything You Need",
-        "url": "https://open.spotify.com/album/4MJf9OmWPH5zlvRAfoIWx6"
-      },
-      "artists": [
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
-        }
-      ],
-      "duration_ms": 133080,
-      "name": "Collie Man",
-      "url": "https://open.spotify.com/track/0psXs0SxH2hGnJoj8C2fFf"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
         "name": "Dragonfly",
         "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 225600,
       "name": "True To Myself",
       "url": "https://open.spotify.com/track/5N0lcnJTtKj4wNDvurHige"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
+        "name": "Kona Town",
+        "url": "https://open.spotify.com/album/37ijUtHcOrsDCIQRsa5sB4"
+      },
+      "artists": [
+        {
+          "name": "Pepper",
+          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
+        }
+      ],
+      "duration_ms": 254800,
+      "name": "Stone Love",
+      "url": "https://open.spotify.com/track/1AO26gK1sI6PoFY9eUF8yV"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -347,18 +347,18 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Kona Town",
-        "url": "https://open.spotify.com/album/37ijUtHcOrsDCIQRsa5sB4"
+        "name": "Jah Won't Pay The Bills",
+        "url": "https://open.spotify.com/album/02VqlfUtNMogzTh1lckGOF"
       },
       "artists": [
         {
-          "name": "Pepper",
-          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
         }
       ],
-      "duration_ms": 254800,
-      "name": "Stone Love",
-      "url": "https://open.spotify.com/track/1AO26gK1sI6PoFY9eUF8yV"
+      "duration_ms": 188085,
+      "name": "Badfish",
+      "url": "https://open.spotify.com/track/4paJ10JPNCyOaLtz2cY928"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Jah Won't Pay The Bills",
-        "url": "https://open.spotify.com/album/02VqlfUtNMogzTh1lckGOF"
+        "name": "Everything You Need",
+        "url": "https://open.spotify.com/album/4MJf9OmWPH5zlvRAfoIWx6"
       },
       "artists": [
         {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
         }
       ],
-      "duration_ms": 188085,
-      "name": "Badfish",
-      "url": "https://open.spotify.com/track/4paJ10JPNCyOaLtz2cY928"
+      "duration_ms": 133080,
+      "name": "Collie Man",
+      "url": "https://open.spotify.com/track/0psXs0SxH2hGnJoj8C2fFf"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Dirty Heads",
-        "url": "https://open.spotify.com/album/5roECT2OKdlszQBDtuECHW"
-      },
-      "artists": [
-        {
-          "name": "Dirty Heads",
-          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
-        }
-      ],
-      "duration_ms": 225394,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/1SamKkYJelI1ktQMrtBtfW"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
         "name": "Born In Babylon",
         "url": "https://open.spotify.com/album/4XylolsNO125zA2WtvpoXl"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
+        "name": "Dirty Heads",
+        "url": "https://open.spotify.com/album/5roECT2OKdlszQBDtuECHW"
+      },
+      "artists": [
+        {
+          "name": "Dirty Heads",
+          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+        }
+      ],
+      "duration_ms": 225394,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/1SamKkYJelI1ktQMrtBtfW"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
         "name": "World on Fire",
         "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
       },
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Summer Nights",
-        "url": "https://open.spotify.com/album/5KYbDlIP0eFNJv4KBaokTY"
-      },
-      "artists": [
-        {
-          "name": "Iration",
-          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
-        }
-      ],
-      "duration_ms": 236092,
-      "name": "Summer Nights",
-      "url": "https://open.spotify.com/track/0QkWubamAKEvvcOTriSKX3"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
         "name": "Count Me In",
         "url": "https://open.spotify.com/album/05SuSxEPuEJI1RnwTcOCRg"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 209253,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/4TyCnstYu6LGrjka5WW6ft"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/5KYbDlIP0eFNJv4KBaokTY"
+      },
+      "artists": [
+        {
+          "name": "Iration",
+          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
+        }
+      ],
+      "duration_ms": 236092,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/0QkWubamAKEvvcOTriSKX3"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Goodbyes",
-        "url": "https://open.spotify.com/album/0KtW3jjoLmaRfEymHu8P7B"
-      },
-      "artists": [
-        {
-          "name": "Sublime With Rome",
-          "url": "https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ"
-        }
-      ],
-      "duration_ms": 131855,
-      "name": "Goodbyes",
-      "url": "https://open.spotify.com/track/6kpKgO0iPsRkmslT5woRh5"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
         "name": "A Seafarer and the Infinite Dream",
         "url": "https://open.spotify.com/album/2byxJMI52Ov7gWQp0imRER"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 196973,
       "name": "We'll Be Alright",
       "url": "https://open.spotify.com/track/5k0U1CVgDmBZ6xutJVIU8r"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
+        "name": "Down with You",
+        "url": "https://open.spotify.com/album/6NrOQKsvkxcCDIOsnHJyEa"
+      },
+      "artists": [
+        {
+          "name": "Katchafire",
+          "url": "https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa"
+        }
+      ],
+      "duration_ms": 210050,
+      "name": "Down with You",
+      "url": "https://open.spotify.com/track/400SwUtzaJ3Ge8gqBU7Qdt"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Down with You",
-        "url": "https://open.spotify.com/album/6NrOQKsvkxcCDIOsnHJyEa"
-      },
-      "artists": [
-        {
-          "name": "Katchafire",
-          "url": "https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa"
-        }
-      ],
-      "duration_ms": 210050,
-      "name": "Down with You",
-      "url": "https://open.spotify.com/track/400SwUtzaJ3Ge8gqBU7Qdt"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
         "name": "Work Hard and Be Nice",
         "url": "https://open.spotify.com/album/7hvm1xQnsTkIrcHYHGA5mR"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 216098,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/2yOJBslB31F2WMHM3s1FRN"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
+        "name": "Goodbyes",
+        "url": "https://open.spotify.com/album/0KtW3jjoLmaRfEymHu8P7B"
+      },
+      "artists": [
+        {
+          "name": "Sublime With Rome",
+          "url": "https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ"
+        }
+      ],
+      "duration_ms": 131855,
+      "name": "Goodbyes",
+      "url": "https://open.spotify.com/track/6kpKgO0iPsRkmslT5woRh5"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "One Lovely Day",
-        "url": "https://open.spotify.com/album/08H1gq5VICAZyVXf9XDJax"
-      },
-      "artists": [
-        {
-          "name": "Citizen Cope",
-          "url": "https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F"
-        }
-      ],
-      "duration_ms": 221840,
-      "name": "Something to Believe In",
-      "url": "https://open.spotify.com/track/0z1hoxTVVdZn1OxciNsRuw"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
         "name": "Beauty In The Silence",
         "url": "https://open.spotify.com/album/7A0gqTE9Jk3FwwADecN9w8"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 274810,
       "name": "Press Rewind",
       "url": "https://open.spotify.com/track/1Js26hznhkLlFeRoxCtyNq"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
+        "name": "One Lovely Day",
+        "url": "https://open.spotify.com/album/08H1gq5VICAZyVXf9XDJax"
+      },
+      "artists": [
+        {
+          "name": "Citizen Cope",
+          "url": "https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F"
+        }
+      ],
+      "duration_ms": 221840,
+      "name": "Something to Believe In",
+      "url": "https://open.spotify.com/track/0z1hoxTVVdZn1OxciNsRuw"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Life's Been Good",
-        "url": "https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto"
-      },
-      "artists": [
-        {
-          "name": "Dirty Heads",
-          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
-        }
-      ],
-      "duration_ms": 193950,
-      "name": "Life's Been Good",
-      "url": "https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
         "name": "Cool & Collected",
         "url": "https://open.spotify.com/album/2yplQKzNbpJS0FiFZddgYm"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 193941,
       "name": "Cool & Collected",
       "url": "https://open.spotify.com/track/0aYdeu6ICosEexS6C6gPD7"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
+        "name": "Life's Been Good",
+        "url": "https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto"
+      },
+      "artists": [
+        {
+          "name": "Dirty Heads",
+          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
+        }
+      ],
+      "duration_ms": 193950,
+      "name": "Life's Been Good",
+      "url": "https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -1331,46 +1331,6 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Way of Life (with Slightly Stoopid)",
-        "url": "https://open.spotify.com/album/1bp9MTK6nCCpNEH257yo2t"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
-        }
-      ],
-      "duration_ms": 253794,
-      "name": "Way of Life (with Slightly Stoopid)",
-      "url": "https://open.spotify.com/track/3Ov05KIwJljawDuWbd7oKn"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
-        "name": "Sunday Vibe",
-        "url": "https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc"
-      },
-      "artists": [
-        {
-          "name": "Cisco Adler",
-          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
-        },
-        {
-          "name": "G. Love & Special Sauce",
-          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
-        }
-      ],
-      "duration_ms": 186760,
-      "name": "Sunday Vibe",
-      "url": "https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
         "name": "From Here To Now To You",
         "url": "https://open.spotify.com/album/61427AKV7p3p30uvrniI4L"
       },
@@ -1399,6 +1359,46 @@
       "duration_ms": 166400,
       "name": "Bad Seeds",
       "url": "https://open.spotify.com/track/1nAowDnk4GGdV4YsE08wd7"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
+        "name": "Sunday Vibe",
+        "url": "https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc"
+      },
+      "artists": [
+        {
+          "name": "Cisco Adler",
+          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
+        },
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        }
+      ],
+      "duration_ms": 186760,
+      "name": "Sunday Vibe",
+      "url": "https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
+        "name": "Way of Life (with Slightly Stoopid)",
+        "url": "https://open.spotify.com/album/1bp9MTK6nCCpNEH257yo2t"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        }
+      ],
+      "duration_ms": 253794,
+      "name": "Way of Life (with Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/3Ov05KIwJljawDuWbd7oKn"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/4pBLC0RkDw24WL5QyDLn6s"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 250397,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/7LYP8spevMtQh0c2lUVxln"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
         "name": "Sounds of Summer (with Slightly Stoopid & J Boog) [Remix]",
         "url": "https://open.spotify.com/album/0N5fhkX7dxDh0cYpPavO6y"
       },
@@ -1519,26 +1503,6 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Mood Swing",
-        "url": "https://open.spotify.com/album/0vu3HrudrHm4M0zMIfAMzY"
-      },
-      "artists": [
-        {
-          "name": "HIRIE",
-          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
-        },
-        {
-          "name": "Spragga Benz",
-          "url": "https://open.spotify.com/artist/2RUW6D53228zMHAXjaQI8f"
-        }
-      ],
-      "duration_ms": 156646,
-      "name": "I Miss You (with Spragga Benz)",
-      "url": "https://open.spotify.com/track/4dAGBHZk6GxsqxM3Kw6xYL"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
         "name": "Put Down What You Are Carrying (with Brett Dennen)",
         "url": "https://open.spotify.com/album/2lzYJjnD2rPbjMdmBh45KB"
       },
@@ -1559,6 +1523,26 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
+        "name": "Mood Swing",
+        "url": "https://open.spotify.com/album/0vu3HrudrHm4M0zMIfAMzY"
+      },
+      "artists": [
+        {
+          "name": "HIRIE",
+          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
+        },
+        {
+          "name": "Spragga Benz",
+          "url": "https://open.spotify.com/artist/2RUW6D53228zMHAXjaQI8f"
+        }
+      ],
+      "duration_ms": 156646,
+      "name": "I Miss You (with Spragga Benz)",
+      "url": "https://open.spotify.com/track/4dAGBHZk6GxsqxM3Kw6xYL"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
         "name": "Dance My Stress Away (with Stephen Marley)",
         "url": "https://open.spotify.com/album/4qAB2fZm1df7LhxPIiXAmW"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 214122,
       "name": "Dance My Stress Away (with Stephen Marley)",
       "url": "https://open.spotify.com/track/4YzBQfeZtXKEQABl61rT6f"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/4pBLC0RkDw24WL5QyDLn6s"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 250397,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7LYP8spevMtQh0c2lUVxln"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -1627,6 +1627,26 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
+        "name": "Open The Door",
+        "url": "https://open.spotify.com/album/4hyuyhzLfqaEYOwwJ09Odb"
+      },
+      "artists": [
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        },
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        }
+      ],
+      "duration_ms": 192492,
+      "name": "Open The Door",
+      "url": "https://open.spotify.com/track/4TRPafTYREs0Ic97JfcdPo"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
         "name": "Lemonade",
         "url": "https://open.spotify.com/album/7EpOT6X96uXWWnD0ilkRLr"
       },
@@ -1643,22 +1663,6 @@
       "duration_ms": 171764,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/1obuz0c6zjQ77jPTKm9DdE"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
-        "name": "Middle Finger",
-        "url": "https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH"
-      },
-      "artists": [
-        {
-          "name": "Ballyhoo!",
-          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
-        }
-      ],
-      "duration_ms": 206032,
-      "name": "Middle Finger",
-      "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -1691,6 +1695,22 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
+        "name": "Middle Finger",
+        "url": "https://open.spotify.com/album/3mHlnMg1GsCzHy142QBpzH"
+      },
+      "artists": [
+        {
+          "name": "Ballyhoo!",
+          "url": "https://open.spotify.com/artist/6py4uFIC7T6RdrZnH6hFYJ"
+        }
+      ],
+      "duration_ms": 206032,
+      "name": "Middle Finger",
+      "url": "https://open.spotify.com/track/6xt46jtvhOjqf0bbJ3wT3v"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
         "name": "Mood Swing",
         "url": "https://open.spotify.com/album/0vu3HrudrHm4M0zMIfAMzY"
       },
@@ -1711,22 +1731,18 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Open The Door",
-        "url": "https://open.spotify.com/album/4hyuyhzLfqaEYOwwJ09Odb"
+        "name": "Ride (Edit)",
+        "url": "https://open.spotify.com/album/3P0bUyvkWgzD8IwVobUwZo"
       },
       "artists": [
         {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
-        },
-        {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 192492,
-      "name": "Open The Door",
-      "url": "https://open.spotify.com/track/4TRPafTYREs0Ic97JfcdPo"
+      "duration_ms": 220310,
+      "name": "Ride (Edit)",
+      "url": "https://open.spotify.com/track/1nBZjJhrHIFy1vavFiluy9"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -1747,22 +1763,6 @@
       "duration_ms": 193361,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/5MqWp5KtqxXV601aXTbwFi"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
-        "name": "Ride (Edit)",
-        "url": "https://open.spotify.com/album/3P0bUyvkWgzD8IwVobUwZo"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 220310,
-      "name": "Ride (Edit)",
-      "url": "https://open.spotify.com/track/1nBZjJhrHIFy1vavFiluy9"
     },
     {
       "added_at": "2023-11-13 22:46:04",
@@ -2135,26 +2135,6 @@
     {
       "added_at": "2023-11-13 22:46:04",
       "album": {
-        "name": "Batshit Crazy",
-        "url": "https://open.spotify.com/album/1CrDdAUE0rljeRWxPKXV7G"
-      },
-      "artists": [
-        {
-          "name": "Artikal Sound System",
-          "url": "https://open.spotify.com/artist/5wbZwShmxCGRjgjTQQr7Sr"
-        },
-        {
-          "name": "Little Stranger",
-          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
-        }
-      ],
-      "duration_ms": 205142,
-      "name": "Batshit Crazy",
-      "url": "https://open.spotify.com/track/1kht76yGOThdMDpp0UKFKW"
-    },
-    {
-      "added_at": "2023-11-13 22:46:04",
-      "album": {
         "name": "Departure",
         "url": "https://open.spotify.com/album/1hVbu9jTKeMS477FLE8tX5"
       },
@@ -2171,6 +2151,26 @@
       "duration_ms": 195143,
       "name": "Rollin' (with Eli Mac)",
       "url": "https://open.spotify.com/track/7KgeB13kf4VXVEOT4AVtBX"
+    },
+    {
+      "added_at": "2023-11-13 22:46:04",
+      "album": {
+        "name": "Batshit Crazy",
+        "url": "https://open.spotify.com/album/1CrDdAUE0rljeRWxPKXV7G"
+      },
+      "artists": [
+        {
+          "name": "Artikal Sound System",
+          "url": "https://open.spotify.com/artist/5wbZwShmxCGRjgjTQQr7Sr"
+        },
+        {
+          "name": "Little Stranger",
+          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
+        }
+      ],
+      "duration_ms": 205142,
+      "name": "Batshit Crazy",
+      "url": "https://open.spotify.com/track/1kht76yGOThdMDpp0UKFKW"
     },
     {
       "added_at": "2023-11-13 22:46:04",

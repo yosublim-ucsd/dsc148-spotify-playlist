@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out.",
-  "num_followers": 942045,
+  "num_followers": 942116,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTdkNjhmYWI4YjMwMjY5YWI0ZWY3NTkzZmIwZGQ5YzA3MzdkYTI0",
+  "snapshot_id": "MCwwNjc2ZTExNDFjOWIxMTMwZWFmN2MwMDBmYjVhYzFiZWM1NWU4NjNi",
   "tracks": [
     {
       "added_at": "2023-12-15 05:00:00",
@@ -863,6 +863,26 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Dance No More (with Kaleena Zanders)",
+        "url": "https://open.spotify.com/album/7uvMgsCSqtqOGaUfTRMZpL"
+      },
+      "artists": [
+        {
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+        },
+        {
+          "name": "Kaleena Zanders",
+          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
+        }
+      ],
+      "duration_ms": 202657,
+      "name": "Dance No More (with Kaleena Zanders)",
+      "url": "https://open.spotify.com/track/7gDgphzQU0urJU3AtoLJup"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/4kfORdPZiXbOTGFBceUrf9"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 156093,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/5czwOsSExLRO25zcnaJuRr"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Dance No More (with Kaleena Zanders)",
-        "url": "https://open.spotify.com/album/7uvMgsCSqtqOGaUfTRMZpL"
-      },
-      "artists": [
-        {
-          "name": "Sunday Scaries",
-          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
-        },
-        {
-          "name": "Kaleena Zanders",
-          "url": "https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK"
-        }
-      ],
-      "duration_ms": 202657,
-      "name": "Dance No More (with Kaleena Zanders)",
-      "url": "https://open.spotify.com/track/7gDgphzQU0urJU3AtoLJup"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/7C6Oa0Myixsesf55mp5yO1"
-      },
-      "artists": [
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/2v0d2zo4bgHkge4B1O6e3c"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Lipstick (feat. Robbie Rise)",
         "url": "https://open.spotify.com/album/6KPTfOQQ0JPzuqey5uksR7"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 226615,
       "name": "Lipstick (feat. Robbie Rise)",
       "url": "https://open.spotify.com/track/3EKj57pZTbNfbIKryAl5Dw"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/7C6Oa0Myixsesf55mp5yO1"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/2v0d2zo4bgHkge4B1O6e3c"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Still Cutting Shapes",
+        "url": "https://open.spotify.com/album/6EcQPDgEbAbKIwWv24Jjb1"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "Still Cutting Shapes",
+      "url": "https://open.spotify.com/track/5dFbW0PcNAm69j8Rnooc2I"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Backseat Tape",
         "url": "https://open.spotify.com/album/3kukhQjrtZcMNL43oLBedf"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 153749,
       "name": "Ravers",
       "url": "https://open.spotify.com/track/5YWxunBgmnSlEq2xz49FqI"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Still Cutting Shapes",
-        "url": "https://open.spotify.com/album/6EcQPDgEbAbKIwWv24Jjb1"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "Still Cutting Shapes",
-      "url": "https://open.spotify.com/track/5dFbW0PcNAm69j8Rnooc2I"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1215,6 +1215,22 @@
       "duration_ms": 190498,
       "name": "Silent",
       "url": "https://open.spotify.com/track/5MvvEKnfgMVLLBkzsgStpD"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "All That You Need",
+        "url": "https://open.spotify.com/album/1e5Rj4woY91M2jw7lNUMBt"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 160312,
+      "name": "All That You Need",
+      "url": "https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "All That You Need",
-        "url": "https://open.spotify.com/album/1e5Rj4woY91M2jw7lNUMBt"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 160312,
-      "name": "All That You Need",
-      "url": "https://open.spotify.com/track/7K8B2mdPHwZKhyShkl55Bh"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Feeling Good",
         "url": "https://open.spotify.com/album/0hlko6kYwEuUbQAmzsyDdL"
       },
@@ -1355,46 +1355,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Outer Space",
-        "url": "https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        },
-        {
-          "name": "Roderick Porter",
-          "url": "https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy"
-        }
-      ],
-      "duration_ms": 192382,
-      "name": "Outer Space",
-      "url": "https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Alok Club Series 2023",
-        "url": "https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 188226,
-      "name": "2 Much 2 Handle",
-      "url": "https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "TikTak",
         "url": "https://open.spotify.com/album/3HteKaFElXCIRl6UG21C9u"
       },
@@ -1419,22 +1379,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "My City\u2019s On Fire (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP"
+        "name": "Outer Space",
+        "url": "https://open.spotify.com/album/3MIrhsxTtEXfqgzRkvU5DY"
       },
       "artists": [
         {
-          "name": "Jimi Jules",
-          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
         },
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Roderick Porter",
+          "url": "https://open.spotify.com/artist/7Lcln0AXqNHMahrca8KVpy"
         }
       ],
-      "duration_ms": 141666,
-      "name": "My City\u2019s On Fire - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU"
+      "duration_ms": 192382,
+      "name": "Outer Space",
+      "url": "https://open.spotify.com/track/4BSpzPw0jNM5YdfE6rbFi9"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1455,6 +1415,46 @@
       "duration_ms": 209523,
       "name": "Goodies - Knock2 Remix",
       "url": "https://open.spotify.com/track/11u8UpRXIdNNzJszoskdcb"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Alok Club Series 2023",
+        "url": "https://open.spotify.com/album/5gdnagxUxbz8mIbb7DVdLT"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "duration_ms": 188226,
+      "name": "2 Much 2 Handle",
+      "url": "https://open.spotify.com/track/2ivy0p2Ib5acN3D9Dfio8K"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "My City\u2019s On Fire (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP"
+      },
+      "artists": [
+        {
+          "name": "Jimi Jules",
+          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 141666,
+      "name": "My City\u2019s On Fire - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Quick Highs",
-        "url": "https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        },
-        {
-          "name": "Helen",
-          "url": "https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl"
-        }
-      ],
-      "duration_ms": 194243,
-      "name": "Quick Highs",
-      "url": "https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Welcome To The Future",
         "url": "https://open.spotify.com/album/5Ynhd8mwNNB1ULBRMYRpKb"
       },
@@ -1551,6 +1531,26 @@
       "duration_ms": 172800,
       "name": "Welcome To The Future",
       "url": "https://open.spotify.com/track/6rwKmp46Ssl0D9VDVaGKVo"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Quick Highs",
+        "url": "https://open.spotify.com/album/7JyrchSeYCqkjbzrajEXOf"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "Helen",
+          "url": "https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl"
+        }
+      ],
+      "duration_ms": 194243,
+      "name": "Quick Highs",
+      "url": "https://open.spotify.com/track/46Gsf4884pmAWdul0n5Px0"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Body Move",
-        "url": "https://open.spotify.com/album/5TyjyT6103AqJNbUFukmuG"
-      },
-      "artists": [
-        {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
-        },
-        {
-          "name": "Aries",
-          "url": "https://open.spotify.com/artist/6uj8itikYSe2m6oExXXSZH"
-        }
-      ],
-      "duration_ms": 130500,
-      "name": "Body Move",
-      "url": "https://open.spotify.com/track/1INJXUsFg4bLYN9Wtw87EG"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "For The People",
         "url": "https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj"
       },
@@ -1703,6 +1683,22 @@
       "duration_ms": 219345,
       "name": "For The People",
       "url": "https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Power Stone",
+        "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "Power Stone",
+      "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1727,18 +1723,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Power Stone",
-        "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
+        "name": "Body Move",
+        "url": "https://open.spotify.com/album/5TyjyT6103AqJNbUFukmuG"
       },
       "artists": [
         {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        },
+        {
+          "name": "Aries",
+          "url": "https://open.spotify.com/artist/6uj8itikYSe2m6oExXXSZH"
         }
       ],
-      "duration_ms": 167272,
-      "name": "Power Stone",
-      "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
+      "duration_ms": 130500,
+      "name": "Body Move",
+      "url": "https://open.spotify.com/track/1INJXUsFg4bLYN9Wtw87EG"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Can't Talk Right Now",
-        "url": "https://open.spotify.com/album/5yeCt6aAyUjUS4ZKHu1OXQ"
-      },
-      "artists": [
-        {
-          "name": "Lady Bee",
-          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
-        }
-      ],
-      "duration_ms": 199218,
-      "name": "Can't Talk Right Now",
-      "url": "https://open.spotify.com/track/2NlH2mGYXQmheI8ll2dLAx"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Turn It Up! (The Crew Motorfest Official Trailer)",
         "url": "https://open.spotify.com/album/0cOotGbhLVZpkUlVGNSKN7"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 141692,
       "name": "Hello",
       "url": "https://open.spotify.com/track/4Sl7FLTwgrbbBaGYEEJ9ee"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Can't Talk Right Now",
+        "url": "https://open.spotify.com/album/5yeCt6aAyUjUS4ZKHu1OXQ"
+      },
+      "artists": [
+        {
+          "name": "Lady Bee",
+          "url": "https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN"
+        }
+      ],
+      "duration_ms": 199218,
+      "name": "Can't Talk Right Now",
+      "url": "https://open.spotify.com/track/2NlH2mGYXQmheI8ll2dLAx"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1903,26 +1903,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Pride (A Deeper Love)",
-        "url": "https://open.spotify.com/album/4ML8wtte3WRu7D8J79WAVt"
+        "name": "Speaker Cone",
+        "url": "https://open.spotify.com/album/2d1mv9X62XccxWXaEteTPL"
       },
       "artists": [
         {
-          "name": "H\u00c4WK",
-          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
-        },
-        {
-          "name": "Dance Therapy",
-          "url": "https://open.spotify.com/artist/3UDGcXWgpqS9j7PMCVtmA0"
-        },
-        {
-          "name": "Tally",
-          "url": "https://open.spotify.com/artist/1BGmvURhdsSvMFEmQkL71k"
+          "name": "Charmes",
+          "url": "https://open.spotify.com/artist/3Lat1XFXy1jjal8bckU6ZQ"
         }
       ],
-      "duration_ms": 146306,
-      "name": "Pride (A Deeper Love)",
-      "url": "https://open.spotify.com/track/4NRqCwAgnxkPUE81qV7TtP"
+      "duration_ms": 179572,
+      "name": "Speaker Cone",
+      "url": "https://open.spotify.com/track/5sQLYZQygPgCsdtytZQua7"
     },
     {
       "added_at": "2023-12-15 05:00:00",

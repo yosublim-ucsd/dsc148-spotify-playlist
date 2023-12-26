@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 260214,
+  "num_followers": 260239,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDA1NDE3NzNjNGUxMTQ0MzFlMWU5YWJlZDc2NzU5Yjc3YTYxM2Zm",
+  "snapshot_id": "MCw3ODdhOTM2NWRhZTExYTlkZDNhMzFlZjc3ZDYyZTNkNTdiMTEwYmEy",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -203,22 +203,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R"
-      },
-      "artists": [
-        {
-          "name": "In Love With a Ghost",
-          "url": "https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O"
-        }
-      ],
-      "duration_ms": 199603,
-      "name": "We've Never Met but Can We Have a Cup of Coffee or Something",
-      "url": "https://open.spotify.com/track/5cvbog6wen3r3bBbcwL16U"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "D97",
         "url": "https://open.spotify.com/album/1mE4mVb9LnzCHVBXKrVTD3"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 230000,
       "name": "Waiting for You",
       "url": "https://open.spotify.com/track/1olz3HctPa2yXmSniaCNLN"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R"
+      },
+      "artists": [
+        {
+          "name": "In Love With a Ghost",
+          "url": "https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O"
+        }
+      ],
+      "duration_ms": 199603,
+      "name": "We've Never Met but Can We Have a Cup of Coffee or Something",
+      "url": "https://open.spotify.com/track/5cvbog6wen3r3bBbcwL16U"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -419,22 +419,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Lagoon",
-        "url": "https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE"
-      },
-      "artists": [
-        {
-          "name": "Laura Misch",
-          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
-        }
-      ],
-      "duration_ms": 255214,
-      "name": "Lagoon",
-      "url": "https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Green Twins",
         "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 225360,
       "name": "Bet She Looks Like You",
       "url": "https://open.spotify.com/track/04WCtUqAyuEr9TDt7Hm6Wi"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Lagoon",
+        "url": "https://open.spotify.com/album/3iEWAuVwDEYuGuOpl0ztyE"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "duration_ms": 255214,
+      "name": "Lagoon",
+      "url": "https://open.spotify.com/track/1He6UQuHm8q2skPrOFKnja"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -535,6 +535,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Green Twins",
+        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 211826,
+      "name": "Needy Bees",
+      "url": "https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Naps",
         "url": "https://open.spotify.com/album/45W9TD0q09XTATVcpiMvbl"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 245000,
       "name": "Homegrown - Empty Woods Remix",
       "url": "https://open.spotify.com/track/6hBLjkIOP23jWYcPsrJM43"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Green Twins",
-        "url": "https://open.spotify.com/album/3QqPgCaqDKmskJqijCG7sV"
-      },
-      "artists": [
-        {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
-        }
-      ],
-      "duration_ms": 211826,
-      "name": "Needy Bees",
-      "url": "https://open.spotify.com/track/4R1V7Ri8CP85PpRh56v0Is"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -695,6 +695,26 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "VIII",
+        "url": "https://open.spotify.com/album/1WLT9X55scygUSpb304x4L"
+      },
+      "artists": [
+        {
+          "name": "Wafia",
+          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
+        },
+        {
+          "name": "Ta-ku",
+          "url": "https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV"
+        }
+      ],
+      "duration_ms": 130271,
+      "name": "(Interlude)",
+      "url": "https://open.spotify.com/track/4GojDZAcFshu4ELQuGXrhz"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "frozenthere",
         "url": "https://open.spotify.com/album/15YxAgNtUHQIUOpxF1uU8T"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 210745,
       "name": "Pinch",
       "url": "https://open.spotify.com/track/4aBSowf9IG9wauVq8tddRz"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "VIII",
-        "url": "https://open.spotify.com/album/1WLT9X55scygUSpb304x4L"
-      },
-      "artists": [
-        {
-          "name": "Wafia",
-          "url": "https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U"
-        },
-        {
-          "name": "Ta-ku",
-          "url": "https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV"
-        }
-      ],
-      "duration_ms": 130271,
-      "name": "(Interlude)",
-      "url": "https://open.spotify.com/track/4GojDZAcFshu4ELQuGXrhz"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -851,6 +851,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Infinite Games",
+        "url": "https://open.spotify.com/album/1ecw6KXijgoxSn6NuDhIXI"
+      },
+      "artists": [
+        {
+          "name": "Zola Blood",
+          "url": "https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ"
+        }
+      ],
+      "duration_ms": 208706,
+      "name": "Get Light",
+      "url": "https://open.spotify.com/track/3nDP5r5PBBYnxxtXpUq74B"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Fleur",
         "url": "https://open.spotify.com/album/03TbEEt7j2I4NnSqOa2F44"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 259423,
       "name": "Fleur",
       "url": "https://open.spotify.com/track/3xSZxEmRIZAZT7pgzT0Ik0"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Infinite Games",
-        "url": "https://open.spotify.com/album/1ecw6KXijgoxSn6NuDhIXI"
-      },
-      "artists": [
-        {
-          "name": "Zola Blood",
-          "url": "https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "Get Light",
-      "url": "https://open.spotify.com/track/3nDP5r5PBBYnxxtXpUq74B"
     },
     {
       "added_at": "2019-03-18 20:29:35",

@@ -1,12 +1,12 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 87614,
+  "num_followers": 87637,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNzBhZDdhZTA1NzcxMTFjZTZkMzZiZGMwYTVlY2Y0N2ZmNmM0NDk3",
+  "snapshot_id": "MCxmZDE4MjAxZTgwN2JmMmJiMTk1NmU2ZjVmYzY3M2IzZmJhZWE5ZmQ4",
   "tracks": [
     {
       "added_at": "2023-10-26 20:41:14",
@@ -187,6 +187,22 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
+        "name": "Neptune's Lair",
+        "url": "https://open.spotify.com/album/7bBx5uPv2YgRIAFyXBWhEV"
+      },
+      "artists": [
+        {
+          "name": "Drexciya",
+          "url": "https://open.spotify.com/artist/3KcV1kKG7Y0Gq7xPAGVjkZ"
+        }
+      ],
+      "duration_ms": 376680,
+      "name": "Andreaen Sand Dunes",
+      "url": "https://open.spotify.com/track/5vcCF1Q328JhaZj4MS6XqO"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
         "name": "Big Fun (Remastered)",
         "url": "https://open.spotify.com/album/63Tyk1UCFndIYpHtZUKRWr"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 198688,
       "name": "Big Fun (Remastered)",
       "url": "https://open.spotify.com/track/0iiQCzqzytQsVmlkGjTGB1"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Neptune's Lair",
-        "url": "https://open.spotify.com/album/7bBx5uPv2YgRIAFyXBWhEV"
-      },
-      "artists": [
-        {
-          "name": "Drexciya",
-          "url": "https://open.spotify.com/artist/3KcV1kKG7Y0Gq7xPAGVjkZ"
-        }
-      ],
-      "duration_ms": 376680,
-      "name": "Andreaen Sand Dunes",
-      "url": "https://open.spotify.com/track/5vcCF1Q328JhaZj4MS6XqO"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -299,26 +299,6 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Pennies From Heaven (Remastered)",
-        "url": "https://open.spotify.com/album/0OU1d6ClYVzKrvtNzZANKB"
-      },
-      "artists": [
-        {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        },
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        }
-      ],
-      "duration_ms": 198159,
-      "name": "Pennies From Heaven (Remastered)",
-      "url": "https://open.spotify.com/track/4EfIHd5ymQthDOEpZifCZ9"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
         "name": "The Album Formerly Known As ...",
         "url": "https://open.spotify.com/album/6AwKcT6k1YlIDkEBA3KDKM"
       },
@@ -367,6 +347,26 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
+        "name": "Pennies From Heaven (Remastered)",
+        "url": "https://open.spotify.com/album/0OU1d6ClYVzKrvtNzZANKB"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        }
+      ],
+      "duration_ms": 198159,
+      "name": "Pennies From Heaven (Remastered)",
+      "url": "https://open.spotify.com/track/4EfIHd5ymQthDOEpZifCZ9"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
         "name": "Azimuth",
         "url": "https://open.spotify.com/album/7JOhFImXm0Upt1MqptmN5X"
       },
@@ -379,6 +379,22 @@
       "duration_ms": 341106,
       "name": "Tedra",
       "url": "https://open.spotify.com/track/0LXrOoeTSHbDF4gsxZXRSD"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "Back To Basics (Part 1)",
+        "url": "https://open.spotify.com/album/5z8fs4gCaZ3jBYDmgvofYf"
+      },
+      "artists": [
+        {
+          "name": "Juan Atkins",
+          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
+        }
+      ],
+      "duration_ms": 361400,
+      "name": "Track Ten",
+      "url": "https://open.spotify.com/track/2TUSbKRL9amtnbH5bwYnt0"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -399,22 +415,6 @@
       "duration_ms": 208818,
       "name": "World Of Deep",
       "url": "https://open.spotify.com/track/06i10JXZGO969A5NR4MXGD"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Back To Basics (Part 1)",
-        "url": "https://open.spotify.com/album/5z8fs4gCaZ3jBYDmgvofYf"
-      },
-      "artists": [
-        {
-          "name": "Juan Atkins",
-          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
-        }
-      ],
-      "duration_ms": 361400,
-      "name": "Track Ten",
-      "url": "https://open.spotify.com/track/2TUSbKRL9amtnbH5bwYnt0"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -467,6 +467,26 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
+        "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
+        "url": "https://open.spotify.com/album/7kTo32LJe7JOUiYnsATgLT"
+      },
+      "artists": [
+        {
+          "name": "Juan Atkins",
+          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
+        },
+        {
+          "name": "Moritz Von Oswald",
+          "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
+        }
+      ],
+      "duration_ms": 554692,
+      "name": "Riod",
+      "url": "https://open.spotify.com/track/4DpgPdsES4Hxdz3eqOP3Ac"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
         "name": "Clocks / Low Life / Go",
         "url": "https://open.spotify.com/album/3mTABh6bXq2UMtpyxuvXI1"
       },
@@ -515,22 +535,22 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
-        "url": "https://open.spotify.com/album/7kTo32LJe7JOUiYnsATgLT"
+        "name": "Can You Feel It (Kevin Saunderson Remix)",
+        "url": "https://open.spotify.com/album/2u3BYiVEAS9WPBBeUUsiuh"
       },
       "artists": [
         {
-          "name": "Juan Atkins",
-          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
+          "name": "Chez Damier",
+          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
         },
         {
-          "name": "Moritz Von Oswald",
-          "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
         }
       ],
-      "duration_ms": 554692,
-      "name": "Riod",
-      "url": "https://open.spotify.com/track/4DpgPdsES4Hxdz3eqOP3Ac"
+      "duration_ms": 208210,
+      "name": "Can You Feel It - Kevin Saunderson Remix",
+      "url": "https://open.spotify.com/track/7q7jB2AIEGwFhoin6sWHwr"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -559,26 +579,6 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Can You Feel It (Kevin Saunderson Remix)",
-        "url": "https://open.spotify.com/album/2u3BYiVEAS9WPBBeUUsiuh"
-      },
-      "artists": [
-        {
-          "name": "Chez Damier",
-          "url": "https://open.spotify.com/artist/6ElgoHFh30ap09Koe8jf7C"
-        },
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        }
-      ],
-      "duration_ms": 208210,
-      "name": "Can You Feel It - Kevin Saunderson Remix",
-      "url": "https://open.spotify.com/track/7q7jB2AIEGwFhoin6sWHwr"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
         "name": "Just Want Another Chance",
         "url": "https://open.spotify.com/album/4XagqaRMPdxYcBibgCgCWH"
       },
@@ -595,6 +595,22 @@
       "duration_ms": 312894,
       "name": "Just Want Another Chance - Original Mix",
       "url": "https://open.spotify.com/track/2fLoViPlr6qskNBS19sO7j"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "Best of Techno (Compilation Tracks)",
+        "url": "https://open.spotify.com/album/2GEevWXNKUigGbxea87nGK"
+      },
+      "artists": [
+        {
+          "name": "Carl Craig",
+          "url": "https://open.spotify.com/artist/0e1xN832756AiKLVqLEKns"
+        }
+      ],
+      "duration_ms": 223626,
+      "name": "Throw",
+      "url": "https://open.spotify.com/track/5dRpsg0PELeucS5Enghyq9"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -627,22 +643,6 @@
       "duration_ms": 219573,
       "name": "The Curse Breaker",
       "url": "https://open.spotify.com/track/0cSjUF4T2ETqFaiajbP2Rj"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Best of Techno (Compilation Tracks)",
-        "url": "https://open.spotify.com/album/2GEevWXNKUigGbxea87nGK"
-      },
-      "artists": [
-        {
-          "name": "Carl Craig",
-          "url": "https://open.spotify.com/artist/0e1xN832756AiKLVqLEKns"
-        }
-      ],
-      "duration_ms": 223626,
-      "name": "Throw",
-      "url": "https://open.spotify.com/track/5dRpsg0PELeucS5Enghyq9"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -703,26 +703,6 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Heavenly Revisited Album",
-        "url": "https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs"
-      },
-      "artists": [
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
-        },
-        {
-          "name": "e-Dancer",
-          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
-        }
-      ],
-      "duration_ms": 209529,
-      "name": "Savage & Beyond",
-      "url": "https://open.spotify.com/track/0lkJ2mQVyImdu1qXDvKF6j"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
         "name": "We All Move Together",
         "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 188225,
       "name": "SoundwaveZ",
       "url": "https://open.spotify.com/track/6aPjtXcpw51zPzpxAqnyLg"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "Heavenly Revisited Album",
+        "url": "https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs"
+      },
+      "artists": [
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "e-Dancer",
+          "url": "https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ"
+        }
+      ],
+      "duration_ms": 209529,
+      "name": "Savage & Beyond",
+      "url": "https://open.spotify.com/track/0lkJ2mQVyImdu1qXDvKF6j"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -887,18 +887,22 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "On A Journey",
-        "url": "https://open.spotify.com/album/1qg6gKQtN4rOrHQp1qv412"
+        "name": "We All Move Together",
+        "url": "https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid"
       },
       "artists": [
         {
-          "name": "K-Hand",
-          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "Idris Elba",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
         }
       ],
-      "duration_ms": 271464,
-      "name": "On A Journey",
-      "url": "https://open.spotify.com/track/1DzZRyXgpD3IlRqsC7fqzD"
+      "duration_ms": 352599,
+      "name": "We All Move Together - Album Mix",
+      "url": "https://open.spotify.com/track/5bdh7s1mGPfiBh2Thxlxsu"
     }
   ],
   "unique_name": "Detroit Techno",

@@ -1,12 +1,12 @@
 {
   "description": "Got that summertime feeling \ud83c\udf34",
-  "num_followers": 57861,
+  "num_followers": 57989,
   "original_name": "Pool Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2JkYThlYTRhMjgyYjhlYWJmZmYyMjc2YWMwNDk2ZDFhNGU5OTE1",
+  "snapshot_id": "MCxlOWMxNGEzM2FjNTczMDllZDVlNGY2NzUyNTdkYjQzMGRlNTk5M2Vk",
   "tracks": [
     {
       "added_at": "2023-12-19 09:07:27",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
+        "name": "Desire, I Want To Turn Into You",
+        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 232625,
+      "name": "Welcome To My Island",
+      "url": "https://open.spotify.com/track/4bp2wYweUPvsBrQfntdYcr"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
         "name": "Sunburn",
         "url": "https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 222839,
       "name": "Think Fast (feat. Weezer)",
       "url": "https://open.spotify.com/track/4Z59a9hIn8EMsni3OiqGso"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
-        "name": "Desire, I Want To Turn Into You",
-        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 232625,
-      "name": "Welcome To My Island",
-      "url": "https://open.spotify.com/track/4bp2wYweUPvsBrQfntdYcr"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Still Have Room",
-        "url": "https://open.spotify.com/album/1GmmNjn5tr3pb4ka13c9V1"
-      },
-      "artists": [
-        {
-          "name": "Hockey Dad",
-          "url": "https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2"
-        }
-      ],
-      "duration_ms": 142584,
-      "name": "Still Have Room",
-      "url": "https://open.spotify.com/track/1CqISEsTc9TDUDyfAtJNmc"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
         "name": "Daydreaming",
         "url": "https://open.spotify.com/album/4kbNKlVp255OjdXPDii8Nz"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 183377,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/4vOXQM1c4M6CCASiWkR2n0"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
+        "name": "Still Have Room",
+        "url": "https://open.spotify.com/album/1GmmNjn5tr3pb4ka13c9V1"
+      },
+      "artists": [
+        {
+          "name": "Hockey Dad",
+          "url": "https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2"
+        }
+      ],
+      "duration_ms": 142584,
+      "name": "Still Have Room",
+      "url": "https://open.spotify.com/track/1CqISEsTc9TDUDyfAtJNmc"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Everything's Fine",
-        "url": "https://open.spotify.com/album/2OOTl13Kx9KxMF1ESG2u58"
-      },
-      "artists": [
-        {
-          "name": "Matt Corby",
-          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-        }
-      ],
-      "duration_ms": 208250,
-      "name": "Reelin'",
-      "url": "https://open.spotify.com/track/0pZrbb5wNwxRA3mqsl1SWN"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
         "name": "Things Don't Always Go The Way You Plan",
         "url": "https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 233859,
       "name": "Rhinestone 1.7.2 [2018 Export Wav] feat. Isabella Manfredi",
       "url": "https://open.spotify.com/track/06gtPF7fljlItis2PohQP0"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
+        "name": "Everything's Fine",
+        "url": "https://open.spotify.com/album/2OOTl13Kx9KxMF1ESG2u58"
+      },
+      "artists": [
+        {
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+        }
+      ],
+      "duration_ms": 208250,
+      "name": "Reelin'",
+      "url": "https://open.spotify.com/track/0pZrbb5wNwxRA3mqsl1SWN"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
+        "name": "Jesus At The Gay Bar",
+        "url": "https://open.spotify.com/album/5ysXcSOiSf2pSPGjuZRh7K"
+      },
+      "artists": [
+        {
+          "name": "Cub Sport",
+          "url": "https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt"
+        }
+      ],
+      "duration_ms": 207875,
+      "name": "Always Got The Love",
+      "url": "https://open.spotify.com/track/7b6qmu1okgI61UixU29UcK"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
         "name": "I Like It",
         "url": "https://open.spotify.com/album/2dOegifzkyE9ZrdwW33tq4"
       },
@@ -927,18 +943,18 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Jesus At The Gay Bar",
-        "url": "https://open.spotify.com/album/5ysXcSOiSf2pSPGjuZRh7K"
+        "name": "Firebreak",
+        "url": "https://open.spotify.com/album/3OBXMr3YKWecqcRO1Ay6Vv"
       },
       "artists": [
         {
-          "name": "Cub Sport",
-          "url": "https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt"
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
         }
       ],
-      "duration_ms": 207875,
-      "name": "Always Got The Love",
-      "url": "https://open.spotify.com/track/7b6qmu1okgI61UixU29UcK"
+      "duration_ms": 147716,
+      "name": "Firebreak - Edit",
+      "url": "https://open.spotify.com/track/5eD7gQPf53vmuQ0Ka6KUdb"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -975,22 +991,6 @@
       "duration_ms": 123979,
       "name": "Asthma - Billy Lemos Remix",
       "url": "https://open.spotify.com/track/7CpGmUMgrTTldy5yuhd1Bh"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
-        "name": "Firebreak",
-        "url": "https://open.spotify.com/album/3OBXMr3YKWecqcRO1Ay6Vv"
-      },
-      "artists": [
-        {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        }
-      ],
-      "duration_ms": 147716,
-      "name": "Firebreak - Edit",
-      "url": "https://open.spotify.com/track/5eD7gQPf53vmuQ0Ka6KUdb"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -1047,22 +1047,18 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Morning Light",
-        "url": "https://open.spotify.com/album/5mMNVDT4FcwzAVQSJDGco6"
+        "name": "AudioLust & HigherLove",
+        "url": "https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8"
       },
       "artists": [
         {
-          "name": "Tentendo",
-          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
-        },
-        {
-          "name": "Annalisa Fernandez",
-          "url": "https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f"
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
         }
       ],
-      "duration_ms": 203806,
-      "name": "Shining",
-      "url": "https://open.spotify.com/track/3fELwzVdYerUr3JuxaEa5C"
+      "duration_ms": 216018,
+      "name": "Oh Laura",
+      "url": "https://open.spotify.com/track/2Lq7rOLcBBTvBa86k1YTW0"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -1083,6 +1079,26 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
+        "name": "Morning Light",
+        "url": "https://open.spotify.com/album/5mMNVDT4FcwzAVQSJDGco6"
+      },
+      "artists": [
+        {
+          "name": "Tentendo",
+          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
+        },
+        {
+          "name": "Annalisa Fernandez",
+          "url": "https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f"
+        }
+      ],
+      "duration_ms": 203806,
+      "name": "Shining",
+      "url": "https://open.spotify.com/track/3fELwzVdYerUr3JuxaEa5C"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
         "name": "Speedracer",
         "url": "https://open.spotify.com/album/6iYJWiUGoeuKN3tlZBlyE4"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 178348,
       "name": "Speedracer",
       "url": "https://open.spotify.com/track/5NZFQfsInH8LasOfEZVsfm"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
-        "name": "AudioLust & HigherLove",
-        "url": "https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 216018,
-      "name": "Oh Laura",
-      "url": "https://open.spotify.com/track/2Lq7rOLcBBTvBa86k1YTW0"
     },
     {
       "added_at": "2023-12-19 09:07:27",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-12-19 09:07:27",
       "album": {
-        "name": "Mosquito Love",
-        "url": "https://open.spotify.com/album/6BSM2BWyG87s0j7hWIQC1V"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        }
-      ],
-      "duration_ms": 195610,
-      "name": "Sour Berry",
-      "url": "https://open.spotify.com/track/2SDyTX6UVufhOds0mg2No8"
-    },
-    {
-      "added_at": "2023-12-19 09:07:27",
-      "album": {
         "name": "Good Mood",
         "url": "https://open.spotify.com/album/3rTINDQ7FOcyfFx6LQs8bA"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 223908,
       "name": "Coup De Gr\u00e2ce",
       "url": "https://open.spotify.com/track/49taD9wqpnNwqy3dNab8m7"
+    },
+    {
+      "added_at": "2023-12-19 09:07:27",
+      "album": {
+        "name": "Mosquito Love",
+        "url": "https://open.spotify.com/album/6BSM2BWyG87s0j7hWIQC1V"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "duration_ms": 195610,
+      "name": "Sour Berry",
+      "url": "https://open.spotify.com/track/2SDyTX6UVufhOds0mg2No8"
     }
   ],
   "unique_name": "Pool Party (2)",

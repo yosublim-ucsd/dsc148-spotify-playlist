@@ -1,18 +1,18 @@
 {
   "description": "With FM-84, Timecop1983, Kalax and more",
-  "num_followers": 15414,
+  "num_followers": 15423,
   "original_name": "The Midnight Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzMzOGY3NTM4ZTliZjE2ZTg1NjkxZTlkZDA2MzE0Njg0ODk5Mzhi",
+  "snapshot_id": "MCxlMTc0MzE2ZDRlYzYyMjJmYzRlMGY3MjZjNzBhZjI5YmE2M2FlOTdl",
   "tracks": [
     {
       "added_at": null,
       "album": {
-        "name": "Monsters",
-        "url": "https://open.spotify.com/album/1WKMbxcldmwnXaCIGgEpUW"
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/7DZuN9XYdWLa2l4huvH3jy"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
         }
       ],
-      "duration_ms": 184573,
-      "name": "Night Skies",
-      "url": "https://open.spotify.com/track/2NKPXLNPfa7jHQHl250iPz"
+      "duration_ms": 133825,
+      "name": "Kids (Prelude)",
+      "url": "https://open.spotify.com/track/6P020yJks9HyANVgCGNudq"
     },
     {
       "added_at": null,
@@ -63,6 +63,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Figuratives",
+        "url": "https://open.spotify.com/album/4R83r8uqp3zKtTUB8GhCZE"
+      },
+      "artists": [
+        {
+          "name": "MODERNS",
+          "url": "https://open.spotify.com/artist/11ixZj3J67XqAo6Tzn3vcf"
+        }
+      ],
+      "duration_ms": 208026,
+      "name": "Figuratives",
+      "url": "https://open.spotify.com/track/5wJInZJJbCNBFf6u5SoQ7U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Soulless Computer Boy and the Eternal Render",
         "url": "https://open.spotify.com/album/5TF3a1VrbsQ68hUMrdNqeo"
       },
@@ -79,24 +95,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Retro Future",
-        "url": "https://open.spotify.com/album/7LkDO9Yr7ZadQlOTBv92XG"
-      },
-      "artists": [
-        {
-          "name": "Betamaxx",
-          "url": "https://open.spotify.com/artist/3uIfha7lvdSsoFeJNJS3vJ"
-        }
-      ],
-      "duration_ms": 188178,
-      "name": "Guided By Moonlight - Original Mix",
-      "url": "https://open.spotify.com/track/0RkcVumvm3FTRaOU4gzuMV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Days of Thunder",
-        "url": "https://open.spotify.com/album/54xM746igJkdPJenRhW1za"
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/1WKMbxcldmwnXaCIGgEpUW"
       },
       "artists": [
         {
@@ -104,9 +104,9 @@
           "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
         }
       ],
-      "duration_ms": 324018,
-      "name": "Days of Thunder",
-      "url": "https://open.spotify.com/track/6tJPdGKrbAeyhkkhn44RHR"
+      "duration_ms": 184573,
+      "name": "Night Skies",
+      "url": "https://open.spotify.com/track/2NKPXLNPfa7jHQHl250iPz"
     },
     {
       "added_at": null,
@@ -127,8 +127,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Electric Dreams",
-        "url": "https://open.spotify.com/album/1E7IaJhJ7z7Vu87D8q3dRP"
+        "name": "Transmission",
+        "url": "https://open.spotify.com/album/5OcuXU4YAlttA7FZtxMUrw"
+      },
+      "artists": [
+        {
+          "name": "Saffari",
+          "url": "https://open.spotify.com/artist/4geZSVxo3NmU8J6Vpm4j6B"
+        }
+      ],
+      "duration_ms": 186947,
+      "name": "Transmission",
+      "url": "https://open.spotify.com/track/1gA8J5GAooJ3kx4YOj6GZg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Echoes of Tomorrow",
+        "url": "https://open.spotify.com/album/3qCftdUSfzxXbkQTHjpMGu"
       },
       "artists": [
         {
@@ -136,45 +152,105 @@
           "url": "https://open.spotify.com/artist/4aolnmP2EYl4MsselyDVqw"
         }
       ],
-      "duration_ms": 139723,
-      "name": "Lovers",
-      "url": "https://open.spotify.com/track/0uxyPPTvyc3m3URXid00Gn"
+      "duration_ms": 189018,
+      "name": "Take on Me Too",
+      "url": "https://open.spotify.com/track/1OXCx9CQXPjZ9RER1URRCy"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Clean Eyes (The Midnight Remix)",
-        "url": "https://open.spotify.com/album/4oVPznrffwpCG11ft0yQaa"
+        "name": "OutRun EP",
+        "url": "https://open.spotify.com/album/52mt0eMTecetwOJabKRD3I"
       },
       "artists": [
         {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        },
+          "name": "Absinth3",
+          "url": "https://open.spotify.com/artist/2rP6AMwZCN1E1zl5Rpxftm"
+        }
+      ],
+      "duration_ms": 195012,
+      "name": "Night Patrol",
+      "url": "https://open.spotify.com/track/0bBqRn9Ei6n5aRoJBt3fq0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/4Krg8zvprquh7TVn9OxZn8"
+      },
+      "artists": [
         {
           "name": "The Midnight",
           "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
         }
       ],
-      "duration_ms": 234444,
-      "name": "Clean Eyes - The Midnight Remix Instrumental",
-      "url": "https://open.spotify.com/track/6vZKhpqVDmOw7sjxq1oHGC"
+      "duration_ms": 229014,
+      "name": "The Equaliser (Not Alone)",
+      "url": "https://open.spotify.com/track/0hy26hhVBNp0X87ENwuhfX"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Summer Love",
-        "url": "https://open.spotify.com/album/4Zl1Yj7CrI9eu3IqYSosCd"
+        "name": "All Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/10XsGcPLT5yXbGQEpziLOR"
       },
       "artists": [
         {
-          "name": "Trevor Something",
-          "url": "https://open.spotify.com/artist/6bWylzDlsTfR8khADRQJfd"
+          "name": "PRIZM",
+          "url": "https://open.spotify.com/artist/0elWefATNt1GKkpPX2L5bo"
         }
       ],
-      "duration_ms": 215727,
-      "name": "Summer Love",
-      "url": "https://open.spotify.com/track/5lAFwreoMCApCdeUHxPFUm"
+      "duration_ms": 198900,
+      "name": "Lose You",
+      "url": "https://open.spotify.com/track/5O6HNOevUadiW6diq2bLui"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When Summer Ends",
+        "url": "https://open.spotify.com/album/42LBvYSxzlgtzNsUhJM5IW"
+      },
+      "artists": [
+        {
+          "name": "Android Automatic",
+          "url": "https://open.spotify.com/artist/314DqcJ4phYY7G4zhDKdKz"
+        }
+      ],
+      "duration_ms": 217537,
+      "name": "When Summer Ends",
+      "url": "https://open.spotify.com/track/5TeIIIiALv9m2bkn9UlEfA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outland",
+        "url": "https://open.spotify.com/album/38w8Y4sFtjMdPYVYzHozt5"
+      },
+      "artists": [
+        {
+          "name": "Dream Fiend",
+          "url": "https://open.spotify.com/artist/5L6COTBfO2KjrJgFYe96Q7"
+        }
+      ],
+      "duration_ms": 77942,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/02a5CtLHfjNBML0YQjVHM4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walls",
+        "url": "https://open.spotify.com/album/2O47TCvygCIjc9rkeMHQDz"
+      },
+      "artists": [
+        {
+          "name": "Icarus",
+          "url": "https://open.spotify.com/artist/17IDrizGUiveZm4P77Kkio"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Walls",
+      "url": "https://open.spotify.com/track/0t2UWqIog9hL6VaDasZgOp"
     },
     {
       "added_at": null,
@@ -199,198 +275,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/10XsGcPLT5yXbGQEpziLOR"
+        "name": "Miami Overdrive",
+        "url": "https://open.spotify.com/album/4TWgj5leWYtH2jobOkuZFE"
       },
       "artists": [
         {
-          "name": "PRIZM",
-          "url": "https://open.spotify.com/artist/0elWefATNt1GKkpPX2L5bo"
+          "name": "Gryff",
+          "url": "https://open.spotify.com/artist/3M4MXoiDxsDBq9Cm3vKNOk"
         }
       ],
-      "duration_ms": 218000,
-      "name": "We Were Young",
-      "url": "https://open.spotify.com/track/0WkVBNfptu21IW0ubJZLLY"
+      "duration_ms": 234343,
+      "name": "Miami Overdrive - Radio Edit",
+      "url": "https://open.spotify.com/track/4MJRt7dY6Dcm5yNl3KYf74"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Digital Memories :: Analog Emotions (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5Tn0U3lIgjvBJPurMikbI7"
+        "name": "Zero Wave",
+        "url": "https://open.spotify.com/album/4wBlEFwojUgU1rld69M7r3"
       },
       "artists": [
         {
-          "name": "Ace Marino",
-          "url": "https://open.spotify.com/artist/3nbnvRGvveekypJ0FJ3RPb"
+          "name": "admo",
+          "url": "https://open.spotify.com/artist/6azdwGecDNGbIpCpOOdWsG"
         }
       ],
-      "duration_ms": 150810,
-      "name": "Muscle Beach",
-      "url": "https://open.spotify.com/track/5UhUc0uhz2TJdwG4XTVwGD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Echoes of Tomorrow",
-        "url": "https://open.spotify.com/album/3qCftdUSfzxXbkQTHjpMGu"
-      },
-      "artists": [
-        {
-          "name": "Siamese Youth",
-          "url": "https://open.spotify.com/artist/4aolnmP2EYl4MsselyDVqw"
-        }
-      ],
-      "duration_ms": 189018,
-      "name": "Take on Me Too",
-      "url": "https://open.spotify.com/track/1OXCx9CQXPjZ9RER1URRCy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crystal City",
-        "url": "https://open.spotify.com/album/5b1hSABNZInpfwEBy3qH5m"
-      },
-      "artists": [
-        {
-          "name": "Robert Parker",
-          "url": "https://open.spotify.com/artist/0eEcbHGsAvOTCZzF5pg8GD"
-        },
-        {
-          "name": "Miss K",
-          "url": "https://open.spotify.com/artist/4W6G1aOwd26vBChDMlEN2c"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "'85 Again (feat. Miss K)",
-      "url": "https://open.spotify.com/track/55ACS6JsMV0OXSaLswoIEw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Endless Summer",
-        "url": "https://open.spotify.com/album/4Krg8zvprquh7TVn9OxZn8"
-      },
-      "artists": [
-        {
-          "name": "The Midnight",
-          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
-        }
-      ],
-      "duration_ms": 229014,
-      "name": "The Equaliser (Not Alone)",
-      "url": "https://open.spotify.com/track/0hy26hhVBNp0X87ENwuhfX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OutRun EP",
-        "url": "https://open.spotify.com/album/52mt0eMTecetwOJabKRD3I"
-      },
-      "artists": [
-        {
-          "name": "Absinth3",
-          "url": "https://open.spotify.com/artist/2rP6AMwZCN1E1zl5Rpxftm"
-        }
-      ],
-      "duration_ms": 195012,
-      "name": "Night Patrol",
-      "url": "https://open.spotify.com/track/0bBqRn9Ei6n5aRoJBt3fq0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Worlds Apart",
-        "url": "https://open.spotify.com/album/0fj2lXDmwx8Ls8YpgWHGfK"
-      },
-      "artists": [
-        {
-          "name": "Killstarr",
-          "url": "https://open.spotify.com/artist/1kWtjMazlZQwIm7ZWIiBKk"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "In Motion",
-      "url": "https://open.spotify.com/track/68onYUazwFbfW3657vWzFL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outland",
-        "url": "https://open.spotify.com/album/38w8Y4sFtjMdPYVYzHozt5"
-      },
-      "artists": [
-        {
-          "name": "Dream Fiend",
-          "url": "https://open.spotify.com/artist/5L6COTBfO2KjrJgFYe96Q7"
-        }
-      ],
-      "duration_ms": 77942,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/02a5CtLHfjNBML0YQjVHM4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Night (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/10XsGcPLT5yXbGQEpziLOR"
-      },
-      "artists": [
-        {
-          "name": "PRIZM",
-          "url": "https://open.spotify.com/artist/0elWefATNt1GKkpPX2L5bo"
-        }
-      ],
-      "duration_ms": 198900,
-      "name": "Lose You",
-      "url": "https://open.spotify.com/track/5O6HNOevUadiW6diq2bLui"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Monsters",
-        "url": "https://open.spotify.com/album/1WKMbxcldmwnXaCIGgEpUW"
-      },
-      "artists": [
-        {
-          "name": "The Midnight",
-          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
-        }
-      ],
-      "duration_ms": 237680,
-      "name": "Deep Blue",
-      "url": "https://open.spotify.com/track/5gQ13Ix8QCTagOPUKPfDPn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Space and Time (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6kHxPKAWHgv7wVaM2qcKlV"
-      },
-      "artists": [
-        {
-          "name": "The Bad Dreamers",
-          "url": "https://open.spotify.com/artist/71Char2jLgXkG97fBjqNNY"
-        }
-      ],
-      "duration_ms": 227272,
-      "name": "Georgetown",
-      "url": "https://open.spotify.com/track/1LJXg27KpKvIWQCo1xGlia"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Resilience",
-        "url": "https://open.spotify.com/album/3uzHpU2KODLHgv2InQBOIo"
-      },
-      "artists": [
-        {
-          "name": "Dream Shore",
-          "url": "https://open.spotify.com/artist/0pb23uLW06RUFTBRnbEtii"
-        }
-      ],
-      "duration_ms": 187636,
-      "name": "Resilience",
-      "url": "https://open.spotify.com/track/5ueba932ze6L0vLVX4ZErS"
+      "duration_ms": 192000,
+      "name": "Coastal Drive",
+      "url": "https://open.spotify.com/track/6mVhh8bvVhrmVNdqhhkOx8"
     },
     {
       "added_at": null,
@@ -440,174 +352,6 @@
           "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
         }
       ],
-      "duration_ms": 133825,
-      "name": "Kids (Prelude)",
-      "url": "https://open.spotify.com/track/6P020yJks9HyANVgCGNudq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Parallels",
-        "url": "https://open.spotify.com/album/2rexGxWpXWUctILKiIQTcB"
-      },
-      "artists": [
-        {
-          "name": "Earmake",
-          "url": "https://open.spotify.com/artist/03wVieMf0FnJdDsHNVArlC"
-        }
-      ],
-      "duration_ms": 261230,
-      "name": "Sensual",
-      "url": "https://open.spotify.com/track/1iQAU5rssr0ogNzPbL8af9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When We Touch",
-        "url": "https://open.spotify.com/album/1x8Pv29DecQEtVm2Y7bLen"
-      },
-      "artists": [
-        {
-          "name": "Benny Smiles",
-          "url": "https://open.spotify.com/artist/6O1kKmQt2LuXaIgt2eKl2M"
-        }
-      ],
-      "duration_ms": 193628,
-      "name": "When We Touch",
-      "url": "https://open.spotify.com/track/4L9JfSWGhatpxfPPvEf46b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Neon Road",
-        "url": "https://open.spotify.com/album/45qmKImhXIXu9yYjB1ZVV2"
-      },
-      "artists": [
-        {
-          "name": "PRIZM",
-          "url": "https://open.spotify.com/artist/0elWefATNt1GKkpPX2L5bo"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Neon Road",
-      "url": "https://open.spotify.com/track/5DtHbXyap9UqaoV4OBqqTK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electric Dreams",
-        "url": "https://open.spotify.com/album/1E7IaJhJ7z7Vu87D8q3dRP"
-      },
-      "artists": [
-        {
-          "name": "Siamese Youth",
-          "url": "https://open.spotify.com/artist/4aolnmP2EYl4MsselyDVqw"
-        }
-      ],
-      "duration_ms": 222051,
-      "name": "Dream On",
-      "url": "https://open.spotify.com/track/477qFNpf0lrYfIrxvGYdI6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Endless Summer",
-        "url": "https://open.spotify.com/album/4Krg8zvprquh7TVn9OxZn8"
-      },
-      "artists": [
-        {
-          "name": "The Midnight",
-          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
-        }
-      ],
-      "duration_ms": 228630,
-      "name": "Nighthawks",
-      "url": "https://open.spotify.com/track/45B3i2YN4kvLAcVhc0BOIR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Night Drive",
-        "url": "https://open.spotify.com/album/7wiOmbSCQXl0dcHzxDS13i"
-      },
-      "artists": [
-        {
-          "name": "Timecop1983",
-          "url": "https://open.spotify.com/artist/6zrgIu0skCCFS7Ke9xOj1r"
-        },
-        {
-          "name": "The Bad Dreamers",
-          "url": "https://open.spotify.com/artist/71Char2jLgXkG97fBjqNNY"
-        }
-      ],
-      "duration_ms": 268049,
-      "name": "Back to You",
-      "url": "https://open.spotify.com/track/0Vj2je2PLl1TU78DAMArat"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Far From Home",
-        "url": "https://open.spotify.com/album/7j2q50hog9KztmatXL5GSz"
-      },
-      "artists": [
-        {
-          "name": "Juno Dreams",
-          "url": "https://open.spotify.com/artist/0EUPJObeCnU0yyMon1OzAV"
-        }
-      ],
-      "duration_ms": 218872,
-      "name": "Far From Home",
-      "url": "https://open.spotify.com/track/3VA0MbKd8BHOnS7neOKwz5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unknown Frequency (The Remixes)",
-        "url": "https://open.spotify.com/album/0v4ccGKmL6wAO1BdtaPxZg"
-      },
-      "artists": [
-        {
-          "name": "Lucy In Disguise",
-          "url": "https://open.spotify.com/artist/1FwlK3oTrK60CBk54koZJg"
-        },
-        {
-          "name": "Efence",
-          "url": "https://open.spotify.com/artist/3UQ87SmqkLxIMdenYnsLld"
-        }
-      ],
-      "duration_ms": 202758,
-      "name": "Skylights (Efence Remix)",
-      "url": "https://open.spotify.com/track/4IrCbKdrdJFhYFuJRZ3LDu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midnight FM",
-        "url": "https://open.spotify.com/album/3Ea2pLLsRi00RS6Fmr67Le"
-      },
-      "artists": [
-        {
-          "name": "PRIZM",
-          "url": "https://open.spotify.com/artist/0elWefATNt1GKkpPX2L5bo"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Midnight FM",
-      "url": "https://open.spotify.com/track/0G8BB5FLiZGgR44L5AzcHL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kids",
-        "url": "https://open.spotify.com/album/7DZuN9XYdWLa2l4huvH3jy"
-      },
-      "artists": [
-        {
-          "name": "The Midnight",
-          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
-        }
-      ],
       "duration_ms": 256874,
       "name": "Explorers",
       "url": "https://open.spotify.com/track/5fZ3BmBaq29MYI2Xsb5FBR"
@@ -615,54 +359,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream for Life",
-        "url": "https://open.spotify.com/album/4XiD6tbsi6rZjjlJxnk3dG"
+        "name": "Dream Dust",
+        "url": "https://open.spotify.com/album/5lGCk7Grg3emarpvpLY702"
       },
       "artists": [
         {
-          "name": "IcoS",
-          "url": "https://open.spotify.com/artist/41GQStG7yqyPqbOKvouab8"
-        },
-        {
-          "name": "IsyKim",
-          "url": "https://open.spotify.com/artist/40m3SDHuIJJMh0iHJ2ywVs"
+          "name": "Juno Dreams",
+          "url": "https://open.spotify.com/artist/0EUPJObeCnU0yyMon1OzAV"
         }
       ],
-      "duration_ms": 160050,
-      "name": "Dream for Life",
-      "url": "https://open.spotify.com/track/16i3ZwnMwzhPahYjxxkjm3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mojave",
-        "url": "https://open.spotify.com/album/2XCd4YXwmphwn7twDPeH0o"
-      },
-      "artists": [
-        {
-          "name": "Android Automatic",
-          "url": "https://open.spotify.com/artist/314DqcJ4phYY7G4zhDKdKz"
-        }
-      ],
-      "duration_ms": 210293,
-      "name": "Lost in the Desert Sky",
-      "url": "https://open.spotify.com/track/58GQfb283AC35toUvifQK2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "195",
-        "url": "https://open.spotify.com/album/6rXwhbgEy5Kiss3ETnuxuC"
-      },
-      "artists": [
-        {
-          "name": "OGRE Sound",
-          "url": "https://open.spotify.com/artist/1cSXroP62yDewheYORCPoj"
-        }
-      ],
-      "duration_ms": 148285,
-      "name": "Negotiation's Over",
-      "url": "https://open.spotify.com/track/19Oy2pBYfpz7OhraQQgUn8"
+      "duration_ms": 220134,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/0JkiNoRYiGQBrK8W6LGH71"
     },
     {
       "added_at": null,
@@ -683,26 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Endless Summer",
-        "url": "https://open.spotify.com/album/4Krg8zvprquh7TVn9OxZn8"
-      },
-      "artists": [
-        {
-          "name": "The Midnight",
-          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
-        },
-        {
-          "name": "Nikki Flores",
-          "url": "https://open.spotify.com/artist/21q45xu51WtV5Td6ZBJHiB"
-        }
-      ],
-      "duration_ms": 331743,
-      "name": "Jason",
-      "url": "https://open.spotify.com/track/3nNNYRBtkNsKjertmtTRMO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Retropolis",
         "url": "https://open.spotify.com/album/4hcHIAWAHPOWJWVGTEGG32"
       },
@@ -719,18 +407,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything Is Awful, Nothing Is Fine, So I Guess I'll Watch Back to the Future Again and Maybe When I Wake Up Tomorrow I'll Feel Better",
-        "url": "https://open.spotify.com/album/6lic1dCQHAo3Ai5bQlWQW4"
+        "name": "195",
+        "url": "https://open.spotify.com/album/6rXwhbgEy5Kiss3ETnuxuC"
       },
       "artists": [
         {
-          "name": "The Alphabet Zero",
-          "url": "https://open.spotify.com/artist/4BSl8sH6GF7e4KfUtdTojS"
+          "name": "OGRE Sound",
+          "url": "https://open.spotify.com/artist/1cSXroP62yDewheYORCPoj"
         }
       ],
-      "duration_ms": 217941,
-      "name": "I'll Feel Better",
-      "url": "https://open.spotify.com/track/6cmQTcBCldcJsWSQLjcWOC"
+      "duration_ms": 148285,
+      "name": "Negotiation's Over",
+      "url": "https://open.spotify.com/track/19Oy2pBYfpz7OhraQQgUn8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/1WKMbxcldmwnXaCIGgEpUW"
+      },
+      "artists": [
+        {
+          "name": "The Midnight",
+          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+        }
+      ],
+      "duration_ms": 237680,
+      "name": "Deep Blue",
+      "url": "https://open.spotify.com/track/5gQ13Ix8QCTagOPUKPfDPn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lost Years",
+        "url": "https://open.spotify.com/album/7zjFpjrJPPuhcNxWjgEb5e"
+      },
+      "artists": [
+        {
+          "name": "The Strike",
+          "url": "https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj"
+        }
+      ],
+      "duration_ms": 289408,
+      "name": "Nothing New",
+      "url": "https://open.spotify.com/track/3FvlayEQ7rHflEnZCt1zdH"
     },
     {
       "added_at": null,
@@ -751,24 +471,40 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bots Don't Cry",
-        "url": "https://open.spotify.com/album/58tKQ3Sbf1Yx79AnZIUufD"
+        "name": "Electric Dreams",
+        "url": "https://open.spotify.com/album/1E7IaJhJ7z7Vu87D8q3dRP"
       },
       "artists": [
         {
-          "name": "Trevor Something",
-          "url": "https://open.spotify.com/artist/6bWylzDlsTfR8khADRQJfd"
+          "name": "Siamese Youth",
+          "url": "https://open.spotify.com/artist/4aolnmP2EYl4MsselyDVqw"
         }
       ],
-      "duration_ms": 199818,
-      "name": "Confessions of an Addict",
-      "url": "https://open.spotify.com/track/7MsqqY2RH0SzpLC0W4CI4Y"
+      "duration_ms": 209125,
+      "name": "Lying to Myself",
+      "url": "https://open.spotify.com/track/37A4nDMBJLMiwubQMjCWYo"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Kids",
-        "url": "https://open.spotify.com/album/7DZuN9XYdWLa2l4huvH3jy"
+        "name": "OutRun EP",
+        "url": "https://open.spotify.com/album/52mt0eMTecetwOJabKRD3I"
+      },
+      "artists": [
+        {
+          "name": "Absinth3",
+          "url": "https://open.spotify.com/artist/2rP6AMwZCN1E1zl5Rpxftm"
+        }
+      ],
+      "duration_ms": 201606,
+      "name": "Sunset Boulevard",
+      "url": "https://open.spotify.com/track/7uOZo8sNyjMJXsz718jhra"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/4Krg8zvprquh7TVn9OxZn8"
       },
       "artists": [
         {
@@ -776,25 +512,9 @@
           "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
         }
       ],
-      "duration_ms": 241500,
-      "name": "America 2",
-      "url": "https://open.spotify.com/track/71MtHnoAqsvgyNOGvESoiQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kristine",
-        "url": "https://open.spotify.com/album/7McQf4SkP9hQpgB30agxUj"
-      },
-      "artists": [
-        {
-          "name": "KRISTINE",
-          "url": "https://open.spotify.com/artist/5MveLSSy2uJw20qq12EQ94"
-        }
-      ],
-      "duration_ms": 220146,
-      "name": "The Danger",
-      "url": "https://open.spotify.com/track/5uSk7CgfTunJpnMbADEUof"
+      "duration_ms": 228630,
+      "name": "Nighthawks",
+      "url": "https://open.spotify.com/track/45B3i2YN4kvLAcVhc0BOIR"
     },
     {
       "added_at": null,
@@ -815,6 +535,74 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bots Don't Cry",
+        "url": "https://open.spotify.com/album/58tKQ3Sbf1Yx79AnZIUufD"
+      },
+      "artists": [
+        {
+          "name": "Trevor Something",
+          "url": "https://open.spotify.com/artist/6bWylzDlsTfR8khADRQJfd"
+        }
+      ],
+      "duration_ms": 199818,
+      "name": "Confessions of an Addict",
+      "url": "https://open.spotify.com/track/7MsqqY2RH0SzpLC0W4CI4Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Police Heartbreaker",
+        "url": "https://open.spotify.com/album/01mkMMyGns25JZqy5AbUCP"
+      },
+      "artists": [
+        {
+          "name": "Absolute Valentine",
+          "url": "https://open.spotify.com/artist/0ntJWEv4bwPUp16SabEbKM"
+        }
+      ],
+      "duration_ms": 238709,
+      "name": "Bad News",
+      "url": "https://open.spotify.com/track/7DAk5oLyfCSSQMazwbHzzM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Dreams",
+        "url": "https://open.spotify.com/album/1E7IaJhJ7z7Vu87D8q3dRP"
+      },
+      "artists": [
+        {
+          "name": "Siamese Youth",
+          "url": "https://open.spotify.com/artist/4aolnmP2EYl4MsselyDVqw"
+        },
+        {
+          "name": "Futurecop!",
+          "url": "https://open.spotify.com/artist/10yA9Y6h5wbDaX5XuZuA9X"
+        }
+      ],
+      "duration_ms": 215860,
+      "name": "Nariyeh Thanei",
+      "url": "https://open.spotify.com/track/6MgsjkqYzAgn44hbOj2J76"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Days of Thunder",
+        "url": "https://open.spotify.com/album/54xM746igJkdPJenRhW1za"
+      },
+      "artists": [
+        {
+          "name": "The Midnight",
+          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+        }
+      ],
+      "duration_ms": 289897,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/2R3v2gnBITuIi5yfuEHMnQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All the Way",
         "url": "https://open.spotify.com/album/1o4ZoaecxNu1sj2Xh9NCOO"
       },
@@ -831,18 +619,222 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nightdrive",
-        "url": "https://open.spotify.com/album/0HS2rhWZNWH898BcnbxcyA"
+        "name": "Unstable",
+        "url": "https://open.spotify.com/album/0RTR4xxBltSYLonGGzZ6Y0"
       },
       "artists": [
         {
-          "name": "VHS Dreams",
-          "url": "https://open.spotify.com/artist/4sHCqGPH8ssoMeOeKrRZ38"
+          "name": "Absinth3",
+          "url": "https://open.spotify.com/artist/2rP6AMwZCN1E1zl5Rpxftm"
         }
       ],
-      "duration_ms": 248640,
-      "name": "Nightdrive",
-      "url": "https://open.spotify.com/track/4F00BHvoYuKwWjBMOEqX3L"
+      "duration_ms": 124888,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/0N37KUVuVgc6GFxV2mtXh8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "End of the Night",
+        "url": "https://open.spotify.com/album/5RF60Ao2uqDcPTVq8vu9tX"
+      },
+      "artists": [
+        {
+          "name": "Robert Parker",
+          "url": "https://open.spotify.com/artist/0eEcbHGsAvOTCZzF5pg8GD"
+        },
+        {
+          "name": "Doubleboy",
+          "url": "https://open.spotify.com/artist/5pW7z7jKT6YI37HP8lHWAJ"
+        }
+      ],
+      "duration_ms": 236311,
+      "name": "End of the Night (feat. Doubleboy)",
+      "url": "https://open.spotify.com/track/59q31baYiGMndSq261KEkq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Deepest Blue",
+        "url": "https://open.spotify.com/album/6vpk8Dt2mmrvtU2ncT7lpA"
+      },
+      "artists": [
+        {
+          "name": "KRISTINE",
+          "url": "https://open.spotify.com/artist/5MveLSSy2uJw20qq12EQ94"
+        }
+      ],
+      "duration_ms": 220758,
+      "name": "The Deepest Blue (Dance with the Dead Remix)",
+      "url": "https://open.spotify.com/track/56C4hFDqiaQgpBMXeh2Z4C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Horror Show",
+        "url": "https://open.spotify.com/album/2Qse49swFybD2LtrWM5kTq"
+      },
+      "artists": [
+        {
+          "name": "The Midnight",
+          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+        }
+      ],
+      "duration_ms": 296546,
+      "name": "Devil Make a Deal",
+      "url": "https://open.spotify.com/track/0p4rVpy5DAL6JIIneGUugm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Dreams",
+        "url": "https://open.spotify.com/album/1E7IaJhJ7z7Vu87D8q3dRP"
+      },
+      "artists": [
+        {
+          "name": "Siamese Youth",
+          "url": "https://open.spotify.com/artist/4aolnmP2EYl4MsselyDVqw"
+        }
+      ],
+      "duration_ms": 139723,
+      "name": "Lovers",
+      "url": "https://open.spotify.com/track/0uxyPPTvyc3m3URXid00Gn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/48pjPtr7d3rLK8LriT6p25"
+      },
+      "artists": [
+        {
+          "name": "Michael Oakley",
+          "url": "https://open.spotify.com/artist/7mxepENRg71jHuLHVeK07c"
+        },
+        {
+          "name": "Missing Words",
+          "url": "https://open.spotify.com/artist/3aH78frRoVRLPNrm5QXQnN"
+        }
+      ],
+      "duration_ms": 222918,
+      "name": "California",
+      "url": "https://open.spotify.com/track/1FXKOpxhAgM8i9GE7owYoZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Night (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/10XsGcPLT5yXbGQEpziLOR"
+      },
+      "artists": [
+        {
+          "name": "PRIZM",
+          "url": "https://open.spotify.com/artist/0elWefATNt1GKkpPX2L5bo"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Can't Go Back",
+      "url": "https://open.spotify.com/track/1Qa7UpG3l3RyYIUhgcopQW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "We Used to Feel Alone",
+        "url": "https://open.spotify.com/album/7oOvmtW1tjlUqIB96RWLxb"
+      },
+      "artists": [
+        {
+          "name": "The Alphabet Zero",
+          "url": "https://open.spotify.com/artist/4BSl8sH6GF7e4KfUtdTojS"
+        },
+        {
+          "name": "Kellie Besch",
+          "url": "https://open.spotify.com/artist/13aAt4DTN6tNtIY3oBynJx"
+        }
+      ],
+      "duration_ms": 236440,
+      "name": "Friends Don't Lie",
+      "url": "https://open.spotify.com/track/4l2GlP2bNCO5Dk6U1CUruU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Endless Summer (5 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3KpEQPuiA4O2zlGTQIqonm"
+      },
+      "artists": [
+        {
+          "name": "The Midnight",
+          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+        }
+      ],
+      "duration_ms": 317109,
+      "name": "Comet (Bonus Track)",
+      "url": "https://open.spotify.com/track/4HHOLKcCb52sm5FCJWGU6u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/74lNj3qYmgDJA8Qb3rwu3P"
+      },
+      "artists": [
+        {
+          "name": "LAU",
+          "url": "https://open.spotify.com/artist/3i1ZPTMkrfR7cAHBY77Bz4"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "Recognise",
+      "url": "https://open.spotify.com/track/2Q8Mjv7sGqOwwG5lJVwE9N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Drive",
+        "url": "https://open.spotify.com/album/0WO01S5Fk6yE7PT5E6inBR"
+      },
+      "artists": [
+        {
+          "name": "You Drive",
+          "url": "https://open.spotify.com/artist/0UXTxqsApsmzX9C6P8IVTN"
+        }
+      ],
+      "duration_ms": 194706,
+      "name": "Royal Blue",
+      "url": "https://open.spotify.com/track/12KFsP17rnqEXVAxOUwyFq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Adamo",
+        "url": "https://open.spotify.com/album/6Y9N6GkECmc6F8oSsW9vQ5"
+      },
+      "artists": [
+        {
+          "name": "Arcis",
+          "url": "https://open.spotify.com/artist/11jVTF2G0ClyW9H9tZeUHM"
+        }
+      ],
+      "duration_ms": 172109,
+      "name": "The Arcane Arts",
+      "url": "https://open.spotify.com/track/5sPkgogsCQFYKnYZMwkODz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Retro Future",
+        "url": "https://open.spotify.com/album/7LkDO9Yr7ZadQlOTBv92XG"
+      },
+      "artists": [
+        {
+          "name": "Betamaxx",
+          "url": "https://open.spotify.com/artist/3uIfha7lvdSsoFeJNJS3vJ"
+        }
+      ],
+      "duration_ms": 188178,
+      "name": "Guided By Moonlight - Original Mix",
+      "url": "https://open.spotify.com/track/0RkcVumvm3FTRaOU4gzuMV"
     }
   ],
   "unique_name": "The Midnight Radio",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 984,470 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 984,466 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 99 | [On Fire \(Ingrid Andress Version\)](https://open.spotify.com/track/79z7tGjpNtsgHwZxYCb5EM) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [On Fire \(Ingrid Andress Version\)](https://open.spotify.com/album/65QH2YwXmAfBIjQLfotGHL) | 3:33 |
 | 100 | [Dayglow](https://open.spotify.com/track/4YAaaOovDd3v20msKGvqdp) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love Lines](https://open.spotify.com/album/6E7FmOKkt2McJF0I411HzL) | 3:30 |
 
-Snapshot ID: `MCw3ZGFkZjA1ZjBjMjdlMGE3OTU5Yzk4NmMwNTg0NTIwZTZjNmEzZjg1`
+Snapshot ID: `MCxlMTUyYzgxNDZjZGQzNTNlZjZjMjk1ZGRiZjg1M2FmMjg0MWFkZWU2`

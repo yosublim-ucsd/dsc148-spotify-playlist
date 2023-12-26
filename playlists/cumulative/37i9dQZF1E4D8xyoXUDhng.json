@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 301226,
       "name": "A Heart That Forgives",
       "url": "https://open.spotify.com/track/7D0M9iVc5ayttzlJ4CODDj"
@@ -330,7 +330,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 248034,
       "name": "Ain't Easy",
       "url": "https://open.spotify.com/track/1JvqjkgpACSerbj3wMYQYn"
@@ -4058,7 +4058,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 210122,
       "name": "Glory / Stranger",
       "url": "https://open.spotify.com/track/6GibNJNmxfbTiVMWAp3fux"
@@ -4510,7 +4510,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 311693,
       "name": "God's Favor - Live",
       "url": "https://open.spotify.com/track/4OAXau7y8E43Tb3UxdpMxG"
@@ -4992,7 +4992,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 364066,
       "name": "Hallelujah, Salvation and Glory",
       "url": "https://open.spotify.com/track/3wtEG3QWtLk7nO8WjSrokl"
@@ -5192,7 +5192,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 225266,
       "name": "He Reigns",
       "url": "https://open.spotify.com/track/56EtKmyMIu5gltU5hE80m0"
@@ -6340,7 +6340,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 178889,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/4CG0XPNBUUaHnLt7JBZX5z"
@@ -7104,7 +7104,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 234590,
       "name": "I Try",
       "url": "https://open.spotify.com/track/5jD7XOyHYTU6MjAJLqGGnG"
@@ -7408,7 +7408,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 225473,
       "name": "I'll Always Be Thankful (feat. the Pace Family)",
       "url": "https://open.spotify.com/track/3QKhnaRMGjvmLsQLeadTQG"
@@ -8132,7 +8132,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-14",
+      "date_removed": null,
       "duration_ms": 253493,
       "name": "In The Room",
       "url": "https://open.spotify.com/track/1i4YrrOF2NcXUDZMxnOSt0"
@@ -8872,7 +8872,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 392040,
       "name": "Jesus,Jesus,Jesus",
       "url": "https://open.spotify.com/track/78gFt4rqI0sY4E34494SWs"
@@ -9814,7 +9814,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 236387,
       "name": "Livin' my Dream",
       "url": "https://open.spotify.com/track/1DgJRBndlOgalOMy2M02DW"
@@ -10006,6 +10006,24 @@
       "duration_ms": 179066,
       "name": "Lord, Don't Move The Mountain",
       "url": "https://open.spotify.com/track/4ujCcCj2yQtfV8cFJKPg3D"
+    },
+    {
+      "album": {
+        "name": "Bishop T.D. Jakes Presents Woman Thou Art Loosed Worship 2002: Run to the Water...the River Within",
+        "url": "https://open.spotify.com/album/7nzgUokTcsRD6dLgB3lUF2"
+      },
+      "artists": [
+        {
+          "name": "Bishop T. D. Jakes",
+          "url": "https://open.spotify.com/artist/6OJuJodFHP97mJBGSJUucE"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299293,
+      "name": "Lord, I Lift Your Name on High",
+      "url": "https://open.spotify.com/track/4rOeJRU5QgPzRpeKYmVXX7"
     },
     {
       "album": {
@@ -10672,7 +10690,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 278426,
       "name": "Maybe God Is Tryin' To Tell You Somethin' - From \"The Color Purple\" Soundtrack",
       "url": "https://open.spotify.com/track/4JXiNTDq6OGkyp5aZ7X7cn"
@@ -10932,7 +10950,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 250893,
       "name": "More Abundantly",
       "url": "https://open.spotify.com/track/5LhDlzZY48ePfGxR64gioC"
@@ -11040,7 +11058,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 293306,
       "name": "Morning Glory",
       "url": "https://open.spotify.com/track/4sI8zLNVGocEJCtllpkPDC"
@@ -11116,7 +11134,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 290840,
       "name": "Moving Forward",
       "url": "https://open.spotify.com/track/2MtAz3G4DXpy4iQIFqMtOJ"
@@ -12012,6 +12030,24 @@
       "duration_ms": 300489,
       "name": "Oh Give Thanks",
       "url": "https://open.spotify.com/track/4m8IRET6HIiUT2cF9PXyFq"
+    },
+    {
+      "album": {
+        "name": "Live out Loud",
+        "url": "https://open.spotify.com/album/5jabxKBPvEXARWeXQF2Udv"
+      },
+      "artists": [
+        {
+          "name": "Preashea Hilliard",
+          "url": "https://open.spotify.com/artist/5WglKKRgHpAp0K1wvW2dVI"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123529,
+      "name": "Oh How We Love You (Prayer)",
+      "url": "https://open.spotify.com/track/5wG9gPOdS9n3vJ7QX2Ie7w"
     },
     {
       "album": {
@@ -13044,7 +13080,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 192706,
       "name": "Precious Lord",
       "url": "https://open.spotify.com/track/5q5uaAKYslrqN6YA2kiWLR"
@@ -13458,7 +13494,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 312424,
       "name": "Ride on King Jesus",
       "url": "https://open.spotify.com/track/6xuGvy7xMqMMsI0Zk8EMap"
@@ -13494,7 +13530,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 155186,
       "name": "Rock of Ages",
       "url": "https://open.spotify.com/track/5I5EB7h4gC21ceQ8AKOPb8"
@@ -13896,7 +13932,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 234026,
       "name": "Shackles",
       "url": "https://open.spotify.com/track/61ZMYyPyd9wfTErVyaYaIF"
@@ -14504,7 +14540,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-18",
+      "date_removed": null,
       "duration_ms": 315541,
       "name": "Soul\u2019s Anthem (It Is Well)",
       "url": "https://open.spotify.com/track/3p5z6hZE4twttR81jsbwKa"
@@ -14956,7 +14992,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 243946,
       "name": "Take Care",
       "url": "https://open.spotify.com/track/1avoVGeplto160jp5XIltJ"
@@ -15306,7 +15342,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 270367,
       "name": "The Best Day of My Life",
       "url": "https://open.spotify.com/track/2tCeJtxgpzRZ0IGJS2jP6k"
@@ -16554,7 +16590,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 292137,
       "name": "Trade it All",
       "url": "https://open.spotify.com/track/2b0pTG6VvqNwbRO6PkBF8g"
@@ -16858,7 +16894,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 225192,
       "name": "Wait (Radio Edit)",
       "url": "https://open.spotify.com/track/3uiHj1PHzUYA80Ow2bwgqx"
@@ -17314,7 +17350,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 176193,
       "name": "When The Saints Go To Worship - Live",
       "url": "https://open.spotify.com/track/7Co7aixEBSghbiZj7Zkthw"
@@ -17516,7 +17552,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 179693,
       "name": "Won't Be Moved",
       "url": "https://open.spotify.com/track/5qhtdHmxEtZSEM1H7rn8Mj"
@@ -17578,7 +17614,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 192227,
       "name": "Wonderful Is Your Name",
       "url": "https://open.spotify.com/track/6IH3XfSDOaVknLHhsIvyuX"

@@ -1,12 +1,12 @@
 {
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
-  "num_followers": 6327,
+  "num_followers": 6328,
   "original_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2M4Yjk0OTVhMTM4MWRjZjA1OTVmMTY1ZDM3MzkzZWVkMTM5ZmRj",
+  "snapshot_id": "MCwwY2M0MzExMDYyMWViMWJjY2QzNjljNTZmMzFkMGI0ZjQxMWY1YWZj",
   "tracks": [
     {
       "added_at": "2023-11-03 06:14:32",
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "BBIBBI",
-        "url": "https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 194426,
-      "name": "BBIBBI",
-      "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
-    },
-    {
-      "added_at": "2023-11-03 06:14:32",
-      "album": {
         "name": "White Wind",
         "url": "https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 195855,
       "name": "gogobebe",
       "url": "https://open.spotify.com/track/6E7jAJN2e3znSHyPCdQqx8"
+    },
+    {
+      "added_at": "2023-11-03 06:14:32",
+      "album": {
+        "name": "BBIBBI",
+        "url": "https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 194426,
+      "name": "BBIBBI",
+      "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
     },
     {
       "added_at": "2023-11-03 06:14:32",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "Heng:gar\u00e6",
-        "url": "https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 244400,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/4yLHe4OAlIFnHerGgHNXBm"
-    },
-    {
-      "added_at": "2023-11-03 06:14:32",
-      "album": {
         "name": "Heroine",
         "url": "https://open.spotify.com/album/4lWDPUQmrZPyO9T9pWfZc2"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 195000,
       "name": "Heroine",
       "url": "https://open.spotify.com/track/5gA9Xn8oPts2aewPgxVkPD"
+    },
+    {
+      "added_at": "2023-11-03 06:14:32",
+      "album": {
+        "name": "Heng:gar\u00e6",
+        "url": "https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 244400,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/4yLHe4OAlIFnHerGgHNXBm"
     },
     {
       "added_at": "2023-11-03 06:14:32",
@@ -587,6 +587,26 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
+        "name": "SELFISH",
+        "url": "https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        },
+        {
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+        }
+      ],
+      "duration_ms": 192577,
+      "name": "SELFISH (Feat. SEULGI Of Red Velvet)",
+      "url": "https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj"
+    },
+    {
+      "added_at": "2023-11-03 06:14:32",
+      "album": {
         "name": "Childhood",
         "url": "https://open.spotify.com/album/6Nb2vk4KMl2TH12CXc6YAb"
       },
@@ -619,22 +639,18 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "SELFISH",
-        "url": "https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1"
+        "name": "Guardian (Original Television Soundtrack), Pt. 13",
+        "url": "https://open.spotify.com/album/1CTZAMwWAamqCaJMyeKUK9"
       },
       "artists": [
         {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
-        },
-        {
-          "name": "SEULGI",
-          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
         }
       ],
-      "duration_ms": 192577,
-      "name": "SELFISH (Feat. SEULGI Of Red Velvet)",
-      "url": "https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj"
+      "duration_ms": 177818,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/0qf9yGk04iJ8LMQ8jApcRL"
     },
     {
       "added_at": "2023-11-03 06:14:32",
@@ -687,22 +703,6 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "Guardian (Original Television Soundtrack), Pt. 13",
-        "url": "https://open.spotify.com/album/1CTZAMwWAamqCaJMyeKUK9"
-      },
-      "artists": [
-        {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
-        }
-      ],
-      "duration_ms": 177818,
-      "name": "LOVE",
-      "url": "https://open.spotify.com/track/0qf9yGk04iJ8LMQ8jApcRL"
-    },
-    {
-      "added_at": "2023-11-03 06:14:32",
-      "album": {
         "name": "School Rapper4 Semi Final 2",
         "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
       },
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
-        "name": "Can you stay (From Semantic Error)",
-        "url": "https://open.spotify.com/album/3gQtw0KG5524di5gAXGxrU"
-      },
-      "artists": [
-        {
-          "name": "Coldin",
-          "url": "https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Can you stay",
-      "url": "https://open.spotify.com/track/1u2WfYwwpnI9MnC9LolkRF"
-    },
-    {
-      "added_at": "2023-11-03 06:14:32",
-      "album": {
         "name": "5.4 [My Ultimate First Love]",
         "url": "https://open.spotify.com/album/1nUlrJhEFlXlLDWF5DgBpT"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 266146,
       "name": "My Ultimate First Love",
       "url": "https://open.spotify.com/track/0CTjpVWIfGtKKrluFFF0Ua"
+    },
+    {
+      "added_at": "2023-11-03 06:14:32",
+      "album": {
+        "name": "Can you stay (From Semantic Error)",
+        "url": "https://open.spotify.com/album/3gQtw0KG5524di5gAXGxrU"
+      },
+      "artists": [
+        {
+          "name": "Coldin",
+          "url": "https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Can you stay",
+      "url": "https://open.spotify.com/track/1u2WfYwwpnI9MnC9LolkRF"
     },
     {
       "added_at": "2023-11-03 06:14:32",
@@ -951,6 +951,22 @@
     {
       "added_at": "2023-11-03 06:14:32",
       "album": {
+        "name": "LIMELIGHT DEBUT EP 'LOVE & HAPPINESS'",
+        "url": "https://open.spotify.com/album/6bGjdmkGl8QqTa1ElccP3C"
+      },
+      "artists": [
+        {
+          "name": "LIMELIGHT",
+          "url": "https://open.spotify.com/artist/1mDDvUPSs2dSr4QKAQmOql"
+        }
+      ],
+      "duration_ms": 189746,
+      "name": "Honestly",
+      "url": "https://open.spotify.com/track/5HB8Olk0vxhv8ynsh1x04y"
+    },
+    {
+      "added_at": "2023-11-03 06:14:32",
+      "album": {
         "name": "Lee Seung Chul 35th Anniversary Album Special 'My Love'",
         "url": "https://open.spotify.com/album/3gAshpQbkBHturbpMAB3YL"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 227000,
       "name": "My Love (Duet Ver.)",
       "url": "https://open.spotify.com/track/0K0HXYXl26keaIiVH8dPI1"
-    },
-    {
-      "added_at": "2023-11-03 06:14:32",
-      "album": {
-        "name": "LIMELIGHT DEBUT EP 'LOVE & HAPPINESS'",
-        "url": "https://open.spotify.com/album/6bGjdmkGl8QqTa1ElccP3C"
-      },
-      "artists": [
-        {
-          "name": "LIMELIGHT",
-          "url": "https://open.spotify.com/artist/1mDDvUPSs2dSr4QKAQmOql"
-        }
-      ],
-      "duration_ms": 189746,
-      "name": "Honestly",
-      "url": "https://open.spotify.com/track/5HB8Olk0vxhv8ynsh1x04y"
     },
     {
       "added_at": "2023-11-03 06:14:32",

@@ -1,12 +1,12 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 15083,
+  "num_followers": 15092,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGI3OGFjMjM5MTM5ODUxZTViMTEwNTJlMDg2YTlmZTk2OTJiYzdh",
+  "snapshot_id": "MCwwOGQ0ZjE1NmMxMTIxOWRjYTg3ZWZjNzYwMjBiMDIyMmMwZDU4ZGUy",
   "tracks": [
     {
       "added_at": "2023-11-03 06:18:18",
@@ -207,42 +207,6 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
-        "name": "OO",
-        "url": "https://open.spotify.com/album/20WQSlujuTbzd9d5V46mkc"
-      },
-      "artists": [
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        },
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        }
-      ],
-      "duration_ms": 207492,
-      "name": "Complex (Feat. G-DRAGON)",
-      "url": "https://open.spotify.com/track/3v7M2SwKHQZ8domnAQV2DJ"
-    },
-    {
-      "added_at": "2023-11-03 06:18:18",
-      "album": {
-        "name": "Love poem",
-        "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 217053,
-      "name": "Blueming",
-      "url": "https://open.spotify.com/track/4Dr2hJ3EnVh2Aaot6fRwDO"
-    },
-    {
-      "added_at": "2023-11-03 06:18:18",
-      "album": {
         "name": "Red Moon: To You My Light",
         "url": "https://open.spotify.com/album/1pqAIHe422sy6zGwJhvcqO"
       },
@@ -263,6 +227,22 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
+        "name": "Love poem",
+        "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 217053,
+      "name": "Blueming",
+      "url": "https://open.spotify.com/track/4Dr2hJ3EnVh2Aaot6fRwDO"
+    },
+    {
+      "added_at": "2023-11-03 06:18:18",
+      "album": {
         "name": "Slow",
         "url": "https://open.spotify.com/album/2RhEisiqycAq2YrXJcUL4r"
       },
@@ -279,6 +259,26 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
+        "name": "OO",
+        "url": "https://open.spotify.com/album/20WQSlujuTbzd9d5V46mkc"
+      },
+      "artists": [
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "duration_ms": 207492,
+      "name": "Complex (Feat. G-DRAGON)",
+      "url": "https://open.spotify.com/track/3v7M2SwKHQZ8domnAQV2DJ"
+    },
+    {
+      "added_at": "2023-11-03 06:18:18",
+      "album": {
         "name": "Take You Home - SM STATION",
         "url": "https://open.spotify.com/album/35xEwaC2WlMzkllTa3XwhK"
       },
@@ -291,22 +291,6 @@
       "duration_ms": 234954,
       "name": "Take You Home",
       "url": "https://open.spotify.com/track/54Nx0KMNIIA0tAPewmd69X"
-    },
-    {
-      "added_at": "2023-11-03 06:18:18",
-      "album": {
-        "name": "I can't tell you everything",
-        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Today's Mood",
-      "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
     },
     {
       "added_at": "2023-11-03 06:18:18",
@@ -331,6 +315,22 @@
       "duration_ms": 236524,
       "name": "HUG (Feat. Zion.T, Wonstein) (Prod. by Slom)",
       "url": "https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc"
+    },
+    {
+      "added_at": "2023-11-03 06:18:18",
+      "album": {
+        "name": "I can't tell you everything",
+        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Today's Mood",
+      "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
     },
     {
       "added_at": "2023-11-03 06:18:18",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-11-03 06:18:18",
       "album": {
-        "name": "Palette",
-        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 253293,
-      "name": "Through the Night",
-      "url": "https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd"
-    },
-    {
-      "added_at": "2023-11-03 06:18:18",
-      "album": {
         "name": "be",
         "url": "https://open.spotify.com/album/33UNyWkPMOczcDOk4kxWd2"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 245349,
       "name": "Bravo, My Life!",
       "url": "https://open.spotify.com/track/5IBGJAEwVNkV1zF5oQzu1N"
+    },
+    {
+      "added_at": "2023-11-03 06:18:18",
+      "album": {
+        "name": "Palette",
+        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 253293,
+      "name": "Through the Night",
+      "url": "https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd"
     },
     {
       "added_at": "2023-11-03 06:18:18",
@@ -611,22 +611,6 @@
       "duration_ms": 225861,
       "name": "IYAH",
       "url": "https://open.spotify.com/track/3EC9jQuk4yPP3IhKOJvbPw"
-    },
-    {
-      "added_at": "2023-11-03 06:18:18",
-      "album": {
-        "name": "Love poem",
-        "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 258238,
-      "name": "Love poem",
-      "url": "https://open.spotify.com/track/7HrE6HtYNBbGqp5GmHbFV0"
     },
     {
       "added_at": "2023-11-03 06:18:18",
@@ -711,6 +695,22 @@
       "duration_ms": 218523,
       "name": "Dear Diary",
       "url": "https://open.spotify.com/track/2qgA8fMwtftAhDzkd6mhgD"
+    },
+    {
+      "added_at": "2023-11-03 06:18:18",
+      "album": {
+        "name": "Love poem",
+        "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 258238,
+      "name": "Love poem",
+      "url": "https://open.spotify.com/track/7HrE6HtYNBbGqp5GmHbFV0"
     },
     {
       "added_at": "2023-11-03 06:18:18",

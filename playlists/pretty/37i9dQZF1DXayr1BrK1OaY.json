@@ -1,12 +1,12 @@
 {
   "description": "let the dj set u free",
-  "num_followers": 202312,
+  "num_followers": 202396,
   "original_name": "crying on the dance floor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTc2ZTU4ZjdmYzIyYzYwNzgyMzI2MGM2NDI0ZjkzZWEyODI2Mzg3",
+  "snapshot_id": "MCwwZWFiNWQyOGE0OGFkOTRkNzFmNmYzNTIwNDg3N2VkN2E1MmVlZjU5",
   "tracks": [
     {
       "added_at": "2023-12-15 17:29:19",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-12-15 17:29:19",
       "album": {
-        "name": "Hold Me",
-        "url": "https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W"
-      },
-      "artists": [
-        {
-          "name": "Lavern",
-          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Hold Me",
-      "url": "https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg"
-    },
-    {
-      "added_at": "2023-12-15 17:29:19",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/4EAehCii5lZgeewct1LA5p"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 578040,
       "name": "Innerbloom",
       "url": "https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0"
+    },
+    {
+      "added_at": "2023-12-15 17:29:19",
+      "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W"
+      },
+      "artists": [
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg"
     },
     {
       "added_at": "2023-12-15 17:29:19",
@@ -591,6 +591,26 @@
     {
       "added_at": "2023-12-15 17:29:19",
       "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 176766,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg"
+    },
+    {
+      "added_at": "2023-12-15 17:29:19",
+      "album": {
         "name": "Breathing",
         "url": "https://open.spotify.com/album/1bgPsKJwqED6DoNaZNdM42"
       },
@@ -615,26 +635,6 @@
     {
       "added_at": "2023-12-15 17:29:19",
       "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/2wUKHXscUlHKW0tEVVYqRs"
-      },
-      "artists": [
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI"
-    },
-    {
-      "added_at": "2023-12-15 17:29:19",
-      "album": {
         "name": "These Things Will Come To Be",
         "url": "https://open.spotify.com/album/3RGrGXf9ZsPOuqHm02SSl7"
       },
@@ -651,22 +651,22 @@
     {
       "added_at": "2023-12-15 17:29:19",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs"
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/2wUKHXscUlHKW0tEVVYqRs"
       },
       "artists": [
         {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
         },
         {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
         }
       ],
-      "duration_ms": 176766,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg"
+      "duration_ms": 144000,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI"
     },
     {
       "added_at": "2023-12-15 17:29:19",
@@ -707,18 +707,26 @@
     {
       "added_at": "2023-12-15 17:29:19",
       "album": {
-        "name": "Isles",
-        "url": "https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9"
+        "name": "Better (feat. Teddy Swims)",
+        "url": "https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI"
       },
       "artists": [
         {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "BURNS",
+          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 246506,
-      "name": "Apricots",
-      "url": "https://open.spotify.com/track/0WfOuXw05LJq4ik1lVvTzi"
+      "duration_ms": 182462,
+      "name": "Better (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna"
     },
     {
       "added_at": "2023-12-15 17:29:19",
@@ -743,26 +751,18 @@
     {
       "added_at": "2023-12-15 17:29:19",
       "album": {
-        "name": "Better (feat. Teddy Swims)",
-        "url": "https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI"
+        "name": "Isles",
+        "url": "https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9"
       },
       "artists": [
         {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        },
-        {
-          "name": "BURNS",
-          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
         }
       ],
-      "duration_ms": 182462,
-      "name": "Better (feat. Teddy Swims)",
-      "url": "https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna"
+      "duration_ms": 246506,
+      "name": "Apricots",
+      "url": "https://open.spotify.com/track/0WfOuXw05LJq4ik1lVvTzi"
     },
     {
       "added_at": "2023-12-15 17:29:19",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-12-15 17:29:19",
       "album": {
+        "name": "On My Knees",
+        "url": "https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 261001,
+      "name": "On My Knees",
+      "url": "https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT"
+    },
+    {
+      "added_at": "2023-12-15 17:29:19",
+      "album": {
         "name": "I Remember (John Summit Remix)",
         "url": "https://open.spotify.com/album/3Y6nr0KlQL9EYVbmvhSf9a"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 240000,
       "name": "I Remember - John Summit Remix",
       "url": "https://open.spotify.com/track/3zFsJdVCu29em7VUB3Ujqp"
-    },
-    {
-      "added_at": "2023-12-15 17:29:19",
-      "album": {
-        "name": "On My Knees",
-        "url": "https://open.spotify.com/album/67AAnBLQfoNPbHLdtJHa6Q"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 261001,
-      "name": "On My Knees",
-      "url": "https://open.spotify.com/track/7ABUiQBM8cjktnp6QLTTaT"
     },
     {
       "added_at": "2023-12-15 17:29:19",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-12-15 17:29:19",
       "album": {
-        "name": "Alchemy",
-        "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 196598,
-      "name": "Higher Than Ever Before",
-      "url": "https://open.spotify.com/track/0H2idlyIDxyotmpAJ2NUeh"
-    },
-    {
-      "added_at": "2023-12-15 17:29:19",
-      "album": {
         "name": "In The Rain",
         "url": "https://open.spotify.com/album/1dKSdR7wJvaNwbB1cE0Mha"
       },
@@ -1015,22 +999,6 @@
     {
       "added_at": "2023-12-15 17:29:19",
       "album": {
-        "name": "Gloria",
-        "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 190243,
-      "name": "Lose You",
-      "url": "https://open.spotify.com/track/00I5NjPGm836J2MQmYxhs9"
-    },
-    {
-      "added_at": "2023-12-15 17:29:19",
-      "album": {
         "name": "Body Talk",
         "url": "https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns"
       },
@@ -1043,6 +1011,38 @@
       "duration_ms": 278080,
       "name": "Dancing On My Own - Radio Edit",
       "url": "https://open.spotify.com/track/7g13jf3zqlP5S68Voo5v9m"
+    },
+    {
+      "added_at": "2023-12-15 17:29:19",
+      "album": {
+        "name": "Alchemy",
+        "url": "https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 196598,
+      "name": "Higher Than Ever Before",
+      "url": "https://open.spotify.com/track/0H2idlyIDxyotmpAJ2NUeh"
+    },
+    {
+      "added_at": "2023-12-15 17:29:19",
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 190243,
+      "name": "Lose You",
+      "url": "https://open.spotify.com/track/00I5NjPGm836J2MQmYxhs9"
     },
     {
       "added_at": "2023-12-15 17:29:19",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-12-15 17:29:19",
       "album": {
+        "name": "Dirt Femme",
+        "url": "https://open.spotify.com/album/0HO9NtwyP7ZqB1jZ70MJL6"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 186018,
+      "name": "No One Dies From Love",
+      "url": "https://open.spotify.com/track/51DXwluqCo7bx4QAFuGoEm"
+    },
+    {
+      "added_at": "2023-12-15 17:29:19",
+      "album": {
         "name": "Keep On Dancing",
         "url": "https://open.spotify.com/album/5kpKJ5RolSyJGW80Y1VqDi"
       },
@@ -1135,38 +1151,6 @@
     {
       "added_at": "2023-12-15 17:29:19",
       "album": {
-        "name": "Dirt Femme",
-        "url": "https://open.spotify.com/album/0HO9NtwyP7ZqB1jZ70MJL6"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 186018,
-      "name": "No One Dies From Love",
-      "url": "https://open.spotify.com/track/51DXwluqCo7bx4QAFuGoEm"
-    },
-    {
-      "added_at": "2023-12-15 17:29:19",
-      "album": {
-        "name": "Safe In My Arms / YourLove",
-        "url": "https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3"
-      },
-      "artists": [
-        {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
-        }
-      ],
-      "duration_ms": 172129,
-      "name": "YourLove",
-      "url": "https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41"
-    },
-    {
-      "added_at": "2023-12-15 17:29:19",
-      "album": {
         "name": "Gravity",
         "url": "https://open.spotify.com/album/2IAVHJdaRPFA6MQqXHoG75"
       },
@@ -1187,22 +1171,18 @@
     {
       "added_at": "2023-12-15 17:29:19",
       "album": {
-        "name": "Actual Life (April 14 - December 17 2020)",
-        "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
+        "name": "Safe In My Arms / YourLove",
+        "url": "https://open.spotify.com/album/2B7X9jUKwOhDLouk997Ut3"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
         }
       ],
-      "duration_ms": 285093,
-      "name": "Angie (i\u2019ve been lost) [feat. Angie McMahon]",
-      "url": "https://open.spotify.com/track/24CoUR3GwPXeWJzGizLzhR"
+      "duration_ms": 172129,
+      "name": "YourLove",
+      "url": "https://open.spotify.com/track/2yQweA8nCYuzFj15LiOb41"
     },
     {
       "added_at": "2023-12-15 17:29:19",
@@ -1227,6 +1207,26 @@
     {
       "added_at": "2023-12-15 17:29:19",
       "album": {
+        "name": "Actual Life (April 14 - December 17 2020)",
+        "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "duration_ms": 285093,
+      "name": "Angie (i\u2019ve been lost) [feat. Angie McMahon]",
+      "url": "https://open.spotify.com/track/24CoUR3GwPXeWJzGizLzhR"
+    },
+    {
+      "added_at": "2023-12-15 17:29:19",
+      "album": {
         "name": "Maze",
         "url": "https://open.spotify.com/album/3IoThqpjyqj8cjbz5RCTrj"
       },
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2023-12-15 17:29:19",
       "album": {
-        "name": "Aftertaste (D.O.D Remix)",
-        "url": "https://open.spotify.com/album/6Sk0Mnki17p8mxtT4t6HjW"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Morgan St. Jean",
-          "url": "https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB"
-        }
-      ],
-      "duration_ms": 197082,
-      "name": "Aftertaste",
-      "url": "https://open.spotify.com/track/4fI6RSIPnwSDhGP0LXtpxG"
-    },
-    {
-      "added_at": "2023-12-15 17:29:19",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 203947,
       "name": "Broken Glass",
       "url": "https://open.spotify.com/track/78ldtCaBRJVp2i91B715L0"
+    },
+    {
+      "added_at": "2023-12-15 17:29:19",
+      "album": {
+        "name": "Aftertaste (D.O.D Remix)",
+        "url": "https://open.spotify.com/album/6Sk0Mnki17p8mxtT4t6HjW"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Morgan St. Jean",
+          "url": "https://open.spotify.com/artist/4kAyoGhVlC6PFg0FvMqmFB"
+        }
+      ],
+      "duration_ms": 197082,
+      "name": "Aftertaste",
+      "url": "https://open.spotify.com/track/4fI6RSIPnwSDhGP0LXtpxG"
     },
     {
       "added_at": "2023-12-15 17:29:19",
@@ -1327,26 +1327,6 @@
     {
       "added_at": "2023-12-15 17:29:19",
       "album": {
-        "name": "Little Planets - Remix",
-        "url": "https://open.spotify.com/album/1jyr9byDQASsa5aR5oQbqg"
-      },
-      "artists": [
-        {
-          "name": "RIZ LA VIE",
-          "url": "https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k"
-        },
-        {
-          "name": "\u0141aszewo",
-          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Little Planets - Remix",
-      "url": "https://open.spotify.com/track/0kfNu4qJOo7vgRWDCnMiBa"
-    },
-    {
-      "added_at": "2023-12-15 17:29:19",
-      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN"
       },
@@ -1363,6 +1343,26 @@
       "duration_ms": 204567,
       "name": "Be Someone",
       "url": "https://open.spotify.com/track/3OCFPScaJuLwmHJkqtVWoL"
+    },
+    {
+      "added_at": "2023-12-15 17:29:19",
+      "album": {
+        "name": "Little Planets - Remix",
+        "url": "https://open.spotify.com/album/1jyr9byDQASsa5aR5oQbqg"
+      },
+      "artists": [
+        {
+          "name": "RIZ LA VIE",
+          "url": "https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k"
+        },
+        {
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Little Planets - Remix",
+      "url": "https://open.spotify.com/track/0kfNu4qJOo7vgRWDCnMiBa"
     },
     {
       "added_at": "2023-12-15 17:29:19",
@@ -1411,18 +1411,18 @@
     {
       "added_at": "2023-12-15 17:29:19",
       "album": {
-        "name": "win your love",
-        "url": "https://open.spotify.com/album/7rgMBpHoFHoyMFmoDmblst"
+        "name": "THERE 4 U",
+        "url": "https://open.spotify.com/album/0lSwV1L7rakokVE9Uny2Nf"
       },
       "artists": [
         {
-          "name": "SHEE",
-          "url": "https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv"
+          "name": "Alex LeMirage",
+          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
         }
       ],
-      "duration_ms": 215413,
-      "name": "win your love",
-      "url": "https://open.spotify.com/track/3sw09qpH0FM5PRKcgJ358h"
+      "duration_ms": 200000,
+      "name": "THERE 4 U",
+      "url": "https://open.spotify.com/track/214XTwNwwp16zM1id05Xxj"
     }
   ],
   "unique_name": "crying on the dance floor",

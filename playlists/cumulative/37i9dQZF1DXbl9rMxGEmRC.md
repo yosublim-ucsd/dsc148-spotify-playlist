@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-571 songs - 2 day 0 hr 41 min
+572 songs - 2 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Fn .380 Acp\#19074](https://open.spotify.com/track/3yYfPXQ5hRYVV7lgOFlPWr) | [1914](https://open.spotify.com/artist/0IpKWttPlwhd7Cevxsh1Bz) | [Where Fear and Weapons Meet](https://open.spotify.com/album/05u8REOHWoW9b25e7KvZvW) | 5:54 | 2022-06-10 | 2023-07-04 |
 | [FN SCAR 16](https://open.spotify.com/track/5IiT9uOFW5v4AN3PstKB3S) | [Wiegedood](https://open.spotify.com/artist/1JjP30v8j95bAMZN3ws8Kb) | [FN SCAR 16](https://open.spotify.com/album/4RnKTCpcGFoJ2301aeQboD) | 4:07 | 2021-12-17 | 2022-07-28 |
 | [Focus](https://open.spotify.com/track/34zePJ5FTg2gyhOSEiExIT) | [Rivers of Nihil](https://open.spotify.com/artist/3UJmyt9ApeZTmOlMvBNGLN) | [Focus](https://open.spotify.com/album/5nEEG3gnVTvjqmXNuEKSqh) | 4:54 | 2021-12-17 | 2022-04-02 |
-| [For A New God](https://open.spotify.com/track/04t8WfipD4SrZI6gRstbNS) | [Genus Ordinis Dei](https://open.spotify.com/artist/4PorUDN5C5JRpJtinoVyTD) | [For A New God](https://open.spotify.com/album/7auc6DmRLsJaYg0igD9JJ7) | 5:58 | 2023-11-17 |  |
+| [For A New God](https://open.spotify.com/track/04t8WfipD4SrZI6gRstbNS) | [Genus Ordinis Dei](https://open.spotify.com/artist/4PorUDN5C5JRpJtinoVyTD) | [For A New God](https://open.spotify.com/album/7auc6DmRLsJaYg0igD9JJ7) | 5:58 | 2023-11-17 | 2023-12-26 |
 | [Forest Whispers My Name](https://open.spotify.com/track/39KAA4qcUwhb9KZliy0nYC) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [The Principle Of Evil Made Flesh](https://open.spotify.com/album/15usnPSpMX62IcvbG2PrDN) | 5:06 | 2022-07-13 | 2022-07-29 |
 | [Forført Av Kulden](https://open.spotify.com/track/6HS4agidoOvDkRGKiY6Jt3) | [Mork](https://open.spotify.com/artist/6txf2ksDlbyt06kNh1m4o7) | [Dypet](https://open.spotify.com/album/2dPuve2VirTp81dO4gwHIO) | 5:20 | 2023-03-31 | 2023-04-19 |
 | [Fortress of Solitude](https://open.spotify.com/track/2twxjWRMdh6fJUnUkRwJsN) | [Thy Kingdom Will Burn](https://open.spotify.com/artist/3NF3YgS5HwEFVfGoAnoWoR) | [Fortress of Solitude](https://open.spotify.com/album/2FiGydND74LKbKzzC5oKMc) | 5:29 | 2022-04-29 | 2022-05-21 |
@@ -242,6 +242,7 @@
 | [Hourglass](https://open.spotify.com/track/1QMzhZVu4eFIOGZbacCDxp) | [Armed For Apocalypse](https://open.spotify.com/artist/5ufZ6hgaupQvTqk7T3otxz) | [Hourglass](https://open.spotify.com/album/1kWdwDo0IxBJTGk6rGNEyS) | 2:59 | 2022-08-12 | 2022-08-27 |
 | [How Many Can Die](https://open.spotify.com/track/77e5CvS2IDBGdQfzXd5YTv) | [Venom Inc.](https://open.spotify.com/artist/3MHIoEboWZOn2vX4O3GrjM) | [How Many Can Die](https://open.spotify.com/album/4sUjcJd3skHdB8RQ2C3nc6) | 3:20 | 2022-04-22 | 2022-07-29 |
 | [How Many Tears to Nurture a Rose?](https://open.spotify.com/track/56uFi2FNOiPTwwMTmnQb9b) | [Cradle Of Filth](https://open.spotify.com/artist/0NTSMFFapnyZfvmCwzcYPd) | [Existence Is Futile](https://open.spotify.com/album/3KpVEHzcarxhbDLaxSREiI) | 4:34 | 2021-12-17 |  |
+| [Hrodgaud](https://open.spotify.com/track/5HbcmiWrUkM8K6RHiboDC7) | [Kanseil](https://open.spotify.com/artist/5uFYutf9HxPXTLCxC6p832) | [Hrodgaud](https://open.spotify.com/album/3qUxKtbPdY9LgSTTYLsucn) | 6:22 | 2023-12-15 |  |
 | [Human Scum](https://open.spotify.com/track/2CXoE7kgrfepUxvfuApzNw) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Human Scum](https://open.spotify.com/album/5cSjClzqXAx0MXW6kUodZF) | 4:35 | 2022-10-14 |  |
 | [Hvite Krists Død](https://open.spotify.com/track/5FpE6NBSSK8T6w12PjxJjt) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Shadowthrone](https://open.spotify.com/album/0ugoROOjkNINkn2dt6he4V) | 8:27 | 2022-07-13 | 2022-07-29 |
 | [Hvite Krists Død \- Remastered 2021](https://open.spotify.com/track/31LJZdWVxmboDQW0kPKZcw) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Shadowthrone \(Remastered 2021\)](https://open.spotify.com/album/1CqVugK1U61uHDGONlHnzy) | 8:27 | 2022-07-13 |  |

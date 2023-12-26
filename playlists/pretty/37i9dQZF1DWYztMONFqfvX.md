@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 
 > Bollywood crooner's essential songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 930,268 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 930,908 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYztMONFqfvX.md) - [plain]
 | 49 | [Tu Har Lamha](https://open.spotify.com/track/2EPOgSRhA90xWGVtNZwEv8) | [Bobby\-Imran](https://open.spotify.com/artist/5HgB3r11CTMckYeopesztP), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Khamoshiyan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6mJIpY6r2SzZbLN3ClYCbb) | 4:32 |
 | 50 | [Bulleya \- Reprise](https://open.spotify.com/track/0FeJltV3BtqpyQZ0hv49oi) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 5:48 |
 
-Snapshot ID: `MCw0ZTc0MWE0NWRkYmExMjExYzUwYTQzNTkwNjJlNWY1NWY4NDJiMGY1`
+Snapshot ID: `MCwyNjZjMWE4YjA4Y2JiY2VmOTJmNWRkNzkxZjQ0NGFiMDMwM2UyNjZl`

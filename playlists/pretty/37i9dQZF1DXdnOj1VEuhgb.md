@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Jeff Redd
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,326,087 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,326,257 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [Özür](https://open.spotify.com/track/0K2nzvf5Pn6IO0Xyt36iNi) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r) | [Özür](https://open.spotify.com/album/2qxO3eFHhuGDuFltNeXKjg) | 2:15 |
 | 50 | [İmparator](https://open.spotify.com/track/7lOGCEsmoHqai3PHS9kbTa) | [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [İmparator](https://open.spotify.com/album/7fzrnc30uFdoKs3MYCExre) | 2:04 |
 
-Snapshot ID: `MCxlZWYwYzIxYmQzNWY3NDRmZDFkNzQwZDg2MTMwNGJlNTk4Mjc5YWYx`
+Snapshot ID: `MCw2MWMzYTMwOTZlNTQxMDIwYWQ1ZDAxNjlhYTg5MWU4OTg5Yjk4ZWY5`

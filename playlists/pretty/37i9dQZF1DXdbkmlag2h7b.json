@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 635838,
+  "num_followers": 635887,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGU4NzZiNTcxZGY0Yjg3NTE3YjJiZTMzOWIxZTU0MzlkNWU2YjE0",
+  "snapshot_id": "MCw2NzUyM2M1N2MxZTk0YjA5YmYwYzg2NmQ0NDVjYjJlOThlZmU4OTBh",
   "tracks": [
     {
       "added_at": "2023-12-01 18:12:17",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
-        "name": "Intrinsic Silence",
-        "url": "https://open.spotify.com/album/2mEo8AqAkefEdUT5G4VP03"
-      },
-      "artists": [
-        {
-          "name": "Hatha Priya",
-          "url": "https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6"
-        }
-      ],
-      "duration_ms": 164017,
-      "name": "Intrinsic Silence",
-      "url": "https://open.spotify.com/track/1io6Gt0Vb9cpmRcNwoA4eE"
-    },
-    {
-      "added_at": "2023-12-01 18:12:17",
-      "album": {
         "name": "Even Silence",
         "url": "https://open.spotify.com/album/5AOSpri4QnbpLT0aTVvBcj"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 140000,
       "name": "Even Silence",
       "url": "https://open.spotify.com/track/13UDiSFsM5AmnAvMZqK61r"
+    },
+    {
+      "added_at": "2023-12-01 18:12:17",
+      "album": {
+        "name": "Intrinsic Silence",
+        "url": "https://open.spotify.com/album/2mEo8AqAkefEdUT5G4VP03"
+      },
+      "artists": [
+        {
+          "name": "Hatha Priya",
+          "url": "https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6"
+        }
+      ],
+      "duration_ms": 164017,
+      "name": "Intrinsic Silence",
+      "url": "https://open.spotify.com/track/1io6Gt0Vb9cpmRcNwoA4eE"
     },
     {
       "added_at": "2023-12-01 18:12:17",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
-        "name": "My Halo Orbit",
-        "url": "https://open.spotify.com/album/3cwIS81w4HcrlgE6RCg3WA"
-      },
-      "artists": [
-        {
-          "name": "DEX 1200",
-          "url": "https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d"
-        }
-      ],
-      "duration_ms": 199923,
-      "name": "My Halo Orbit",
-      "url": "https://open.spotify.com/track/2p2mFunyYlzwWAOomLVEKt"
-    },
-    {
-      "added_at": "2023-12-01 18:12:17",
-      "album": {
         "name": "Upwards",
         "url": "https://open.spotify.com/album/4XWS0IIopEkOgR6O7mO9Xw"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 190000,
       "name": "Upwards",
       "url": "https://open.spotify.com/track/044ltj4MTVLeCHXQZX1lFO"
+    },
+    {
+      "added_at": "2023-12-01 18:12:17",
+      "album": {
+        "name": "My Halo Orbit",
+        "url": "https://open.spotify.com/album/3cwIS81w4HcrlgE6RCg3WA"
+      },
+      "artists": [
+        {
+          "name": "DEX 1200",
+          "url": "https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d"
+        }
+      ],
+      "duration_ms": 199923,
+      "name": "My Halo Orbit",
+      "url": "https://open.spotify.com/track/2p2mFunyYlzwWAOomLVEKt"
     },
     {
       "added_at": "2023-12-01 18:12:17",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
-        "name": "Charcoal",
-        "url": "https://open.spotify.com/album/6wIw0on4JGm2gdtfSs0h9f"
-      },
-      "artists": [
-        {
-          "name": "Brambles",
-          "url": "https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX"
-        }
-      ],
-      "duration_ms": 329773,
-      "name": "Such Owls As You",
-      "url": "https://open.spotify.com/track/3EIrbAYM18GhcimENnuO91"
-    },
-    {
-      "added_at": "2023-12-01 18:12:17",
-      "album": {
         "name": "Beautiful Morning",
         "url": "https://open.spotify.com/album/0Mqhh958wkwxu4UvUAQos0"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 252000,
       "name": "First Day",
       "url": "https://open.spotify.com/track/2Wsu9gvKCWRXLA1nEdFfXt"
+    },
+    {
+      "added_at": "2023-12-01 18:12:17",
+      "album": {
+        "name": "Charcoal",
+        "url": "https://open.spotify.com/album/6wIw0on4JGm2gdtfSs0h9f"
+      },
+      "artists": [
+        {
+          "name": "Brambles",
+          "url": "https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX"
+        }
+      ],
+      "duration_ms": 329773,
+      "name": "Such Owls As You",
+      "url": "https://open.spotify.com/track/3EIrbAYM18GhcimENnuO91"
     },
     {
       "added_at": "2023-12-01 18:12:17",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
-        "name": "Deep Thoughts",
-        "url": "https://open.spotify.com/album/3Hrxi0EvyWfNyA3l86ZCBI"
-      },
-      "artists": [
-        {
-          "name": "Danny Shamoun",
-          "url": "https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Deep Thoughts",
-      "url": "https://open.spotify.com/track/3FVd5GGOeJFvU97JFH7jMH"
-    },
-    {
-      "added_at": "2023-12-01 18:12:17",
-      "album": {
         "name": "Prism",
         "url": "https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 172000,
       "name": "Prism",
       "url": "https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2"
+    },
+    {
+      "added_at": "2023-12-01 18:12:17",
+      "album": {
+        "name": "Deep Thoughts",
+        "url": "https://open.spotify.com/album/3Hrxi0EvyWfNyA3l86ZCBI"
+      },
+      "artists": [
+        {
+          "name": "Danny Shamoun",
+          "url": "https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Deep Thoughts",
+      "url": "https://open.spotify.com/track/3FVd5GGOeJFvU97JFH7jMH"
     },
     {
       "added_at": "2023-12-01 18:12:17",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
-        "name": "Elementaries",
-        "url": "https://open.spotify.com/album/2g6zhcNijAdGtozLJlYpAI"
-      },
-      "artists": [
-        {
-          "name": "Michel LeBond",
-          "url": "https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA"
-        },
-        {
-          "name": "Max Schrammel",
-          "url": "https://open.spotify.com/artist/02urVxAvr1s1zcKdVaGjpg"
-        }
-      ],
-      "duration_ms": 182783,
-      "name": "Raising Life",
-      "url": "https://open.spotify.com/track/3G0zjnMRZjcjdrlK1dADUz"
-    },
-    {
-      "added_at": "2023-12-01 18:12:17",
-      "album": {
         "name": "Behind Your Eyes",
         "url": "https://open.spotify.com/album/3LDJc1oFquIFUg7Q8v2aWh"
       },
@@ -1219,18 +1199,22 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
-        "name": "The Seasons",
-        "url": "https://open.spotify.com/album/5N9ne8TG9Zi6tTn861vTgF"
+        "name": "Elementaries",
+        "url": "https://open.spotify.com/album/2g6zhcNijAdGtozLJlYpAI"
       },
       "artists": [
         {
-          "name": "Hans Wolfgang Ziegler",
-          "url": "https://open.spotify.com/artist/66wCtsoRnWiSmoHSvXPK5m"
+          "name": "Michel LeBond",
+          "url": "https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA"
+        },
+        {
+          "name": "Max Schrammel",
+          "url": "https://open.spotify.com/artist/02urVxAvr1s1zcKdVaGjpg"
         }
       ],
-      "duration_ms": 137796,
-      "name": "Sunny & Cloudy",
-      "url": "https://open.spotify.com/track/26lZ3W0igUyTsLdXVFPcf0"
+      "duration_ms": 182783,
+      "name": "Raising Life",
+      "url": "https://open.spotify.com/track/3G0zjnMRZjcjdrlK1dADUz"
     },
     {
       "added_at": "2023-12-01 18:12:17",
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
+        "name": "The Seasons",
+        "url": "https://open.spotify.com/album/5N9ne8TG9Zi6tTn861vTgF"
+      },
+      "artists": [
+        {
+          "name": "Hans Wolfgang Ziegler",
+          "url": "https://open.spotify.com/artist/66wCtsoRnWiSmoHSvXPK5m"
+        }
+      ],
+      "duration_ms": 137796,
+      "name": "Sunny & Cloudy",
+      "url": "https://open.spotify.com/track/26lZ3W0igUyTsLdXVFPcf0"
+    },
+    {
+      "added_at": "2023-12-01 18:12:17",
+      "album": {
         "name": "Distant Voices",
         "url": "https://open.spotify.com/album/7awFxbltxhtOq6iakKUof5"
       },
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
-        "name": "Would I Bother",
-        "url": "https://open.spotify.com/album/4vCsG7LORSKEu6XKJ7F3K2"
-      },
-      "artists": [
-        {
-          "name": "Fredrik Johansson",
-          "url": "https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "Would I Bother",
-      "url": "https://open.spotify.com/track/52k9R9dNiac9kik66wod1g"
-    },
-    {
-      "added_at": "2023-12-01 18:12:17",
-      "album": {
         "name": "Flow",
         "url": "https://open.spotify.com/album/0BEJfJ1WCQpwWIIXKR2Ioz"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 175661,
       "name": "Flow",
       "url": "https://open.spotify.com/track/2y7ZFxhjW14tUWwuQUkYQs"
+    },
+    {
+      "added_at": "2023-12-01 18:12:17",
+      "album": {
+        "name": "Would I Bother",
+        "url": "https://open.spotify.com/album/4vCsG7LORSKEu6XKJ7F3K2"
+      },
+      "artists": [
+        {
+          "name": "Fredrik Johansson",
+          "url": "https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "Would I Bother",
+      "url": "https://open.spotify.com/track/52k9R9dNiac9kik66wod1g"
     },
     {
       "added_at": "2023-12-01 18:12:17",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
-        "name": "Liquid Air",
-        "url": "https://open.spotify.com/album/70mPe6QZPnJJmQCok7bxBW"
-      },
-      "artists": [
-        {
-          "name": "Sea of Waves",
-          "url": "https://open.spotify.com/artist/4R8zw6rwLPscyd42vMpMmo"
-        }
-      ],
-      "duration_ms": 213878,
-      "name": "Liquid Air",
-      "url": "https://open.spotify.com/track/0EReYmRKdy1iq1rfuGaEP5"
-    },
-    {
-      "added_at": "2023-12-01 18:12:17",
-      "album": {
         "name": "Gotham",
         "url": "https://open.spotify.com/album/061InFYOX8CN8iuTyOJT7c"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 150550,
       "name": "Gotham (acoustic)",
       "url": "https://open.spotify.com/track/3bcRe9CcEZ9Dr7JyRoQ7Xb"
+    },
+    {
+      "added_at": "2023-12-01 18:12:17",
+      "album": {
+        "name": "Liquid Air",
+        "url": "https://open.spotify.com/album/70mPe6QZPnJJmQCok7bxBW"
+      },
+      "artists": [
+        {
+          "name": "Sea of Waves",
+          "url": "https://open.spotify.com/artist/4R8zw6rwLPscyd42vMpMmo"
+        }
+      ],
+      "duration_ms": 213878,
+      "name": "Liquid Air",
+      "url": "https://open.spotify.com/track/0EReYmRKdy1iq1rfuGaEP5"
     },
     {
       "added_at": "2023-12-01 18:12:17",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2023-12-01 18:12:17",
       "album": {
-        "name": "Hope And Glory",
-        "url": "https://open.spotify.com/album/1VQrnnzNwCvlVSGyByljgE"
+        "name": "Affinity",
+        "url": "https://open.spotify.com/album/6uD6JL6Uw4zWYUc0aRUUvt"
       },
       "artists": [
         {
-          "name": "Figgy Malone",
-          "url": "https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl"
+          "name": "FANAR",
+          "url": "https://open.spotify.com/artist/2cmv3GP75BReBnDT1kWyOE"
         }
       ],
-      "duration_ms": 204870,
-      "name": "Hope And Glory",
-      "url": "https://open.spotify.com/track/25UAQI7VfhuesIWLxUd6Tp"
+      "duration_ms": 172000,
+      "name": "Affinity",
+      "url": "https://open.spotify.com/track/0N0nIMZDHHv9vCbo1XfN5a"
     }
   ],
   "unique_name": "DayDreamer",

@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 380244,
+  "num_followers": 380304,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWEyYTAzMDc3YWMxNjc0ZTM2ZTNhMjVjYzgyMGE2YzgwNjhjMTRh",
+  "snapshot_id": "MCwwNTgyMzJlOGYxM2FmZmNiMmM4YmVlYzRlNDJlNGI5OGQ1MzE0Y2E3",
   "tracks": [
     {
       "added_at": "2023-12-07 13:46:05",
@@ -359,26 +359,6 @@
     {
       "added_at": "2023-12-07 13:46:05",
       "album": {
-        "name": "Paid In Full",
-        "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
-      },
-      "artists": [
-        {
-          "name": "Eric B. & Rakim",
-          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
-        },
-        {
-          "name": "Marley Marl",
-          "url": "https://open.spotify.com/artist/0AqfGv5Nifg1klh0iH4Nqs"
-        }
-      ],
-      "duration_ms": 228666,
-      "name": "Paid In Full",
-      "url": "https://open.spotify.com/track/20s3FayrStM8GY0m4dRFsw"
-    },
-    {
-      "added_at": "2023-12-07 13:46:05",
-      "album": {
         "name": "Strictly Business",
         "url": "https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5"
       },
@@ -411,22 +391,6 @@
     {
       "added_at": "2023-12-07 13:46:05",
       "album": {
-        "name": "RUN-DMC (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 290280,
-      "name": "It's Like That",
-      "url": "https://open.spotify.com/track/2J6QnTjHIWwXErNWyF0RUC"
-    },
-    {
-      "added_at": "2023-12-07 13:46:05",
-      "album": {
         "name": "Future Shock",
         "url": "https://open.spotify.com/album/108uNBYGawRo3aQiaA7lQY"
       },
@@ -439,6 +403,42 @@
       "duration_ms": 325133,
       "name": "Rockit",
       "url": "https://open.spotify.com/track/2nWHzbBWBOePUvAImQv2So"
+    },
+    {
+      "added_at": "2023-12-07 13:46:05",
+      "album": {
+        "name": "Paid In Full",
+        "url": "https://open.spotify.com/album/3miZDfDnP7SmOXAJXWdFmz"
+      },
+      "artists": [
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        },
+        {
+          "name": "Marley Marl",
+          "url": "https://open.spotify.com/artist/0AqfGv5Nifg1klh0iH4Nqs"
+        }
+      ],
+      "duration_ms": 228666,
+      "name": "Paid In Full",
+      "url": "https://open.spotify.com/track/20s3FayrStM8GY0m4dRFsw"
+    },
+    {
+      "added_at": "2023-12-07 13:46:05",
+      "album": {
+        "name": "RUN-DMC (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5nK0vU32lSmcGrglfcOfg8"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 290280,
+      "name": "It's Like That",
+      "url": "https://open.spotify.com/track/2J6QnTjHIWwXErNWyF0RUC"
     },
     {
       "added_at": "2023-12-07 13:46:05",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-12-07 13:46:05",
       "album": {
+        "name": "Raising Hell",
+        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 167880,
+      "name": "My Adidas",
+      "url": "https://open.spotify.com/track/6LdpVTJzigyi2vbKe8mZAr"
+    },
+    {
+      "added_at": "2023-12-07 13:46:05",
+      "album": {
         "name": "Follow The Leader (Expanded Edition)",
         "url": "https://open.spotify.com/album/42p4dRDB24b9mvBmMb0QR9"
       },
@@ -551,38 +567,6 @@
       "duration_ms": 195883,
       "name": "The Magic Number",
       "url": "https://open.spotify.com/track/2lPrtCVXwPvlOM96nrXO5c"
-    },
-    {
-      "added_at": "2023-12-07 13:46:05",
-      "album": {
-        "name": "Raising Hell",
-        "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 167880,
-      "name": "My Adidas",
-      "url": "https://open.spotify.com/track/6LdpVTJzigyi2vbKe8mZAr"
-    },
-    {
-      "added_at": "2023-12-07 13:46:05",
-      "album": {
-        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
-      },
-      "artists": [
-        {
-          "name": "Public Enemy",
-          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
-        }
-      ],
-      "duration_ms": 226040,
-      "name": "Bring The Noise",
-      "url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
     },
     {
       "added_at": "2023-12-07 13:46:05",
@@ -655,6 +639,38 @@
     {
       "added_at": "2023-12-07 13:46:05",
       "album": {
+        "name": "King Of Rock (Expanded Edition)",
+        "url": "https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 314146,
+      "name": "King of Rock",
+      "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
+    },
+    {
+      "added_at": "2023-12-07 13:46:05",
+      "album": {
+        "name": "It Takes A Nation Of Millions To Hold Us Back (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ"
+      },
+      "artists": [
+        {
+          "name": "Public Enemy",
+          "url": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+        }
+      ],
+      "duration_ms": 226040,
+      "name": "Bring The Noise",
+      "url": "https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv"
+    },
+    {
+      "added_at": "2023-12-07 13:46:05",
+      "album": {
         "name": "NOW Hip-Hop At 50",
         "url": "https://open.spotify.com/album/21dSLsquSIRfQqACMgITXH"
       },
@@ -687,42 +703,6 @@
     {
       "added_at": "2023-12-07 13:46:05",
       "album": {
-        "name": "King Of Rock (Expanded Edition)",
-        "url": "https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 314146,
-      "name": "King of Rock",
-      "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
-    },
-    {
-      "added_at": "2023-12-07 13:46:05",
-      "album": {
-        "name": "Planet Rock: The Album",
-        "url": "https://open.spotify.com/album/3qX0GugLujpIodkT6r06hf"
-      },
-      "artists": [
-        {
-          "name": "Afrika Bambaataa",
-          "url": "https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p"
-        },
-        {
-          "name": "The Soulsonic Force",
-          "url": "https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP"
-        }
-      ],
-      "duration_ms": 422493,
-      "name": "Looking for the Perfect Beat - Original 12\" Version",
-      "url": "https://open.spotify.com/track/3grljpi1aYIRA6TuXvGigL"
-    },
-    {
-      "added_at": "2023-12-07 13:46:05",
-      "album": {
         "name": "Criminal Minded (Deluxe)",
         "url": "https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 282866,
       "name": "Freaks Come Out at Night",
       "url": "https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy"
+    },
+    {
+      "added_at": "2023-12-07 13:46:05",
+      "album": {
+        "name": "Planet Rock: The Album",
+        "url": "https://open.spotify.com/album/3qX0GugLujpIodkT6r06hf"
+      },
+      "artists": [
+        {
+          "name": "Afrika Bambaataa",
+          "url": "https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p"
+        },
+        {
+          "name": "The Soulsonic Force",
+          "url": "https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP"
+        }
+      ],
+      "duration_ms": 422493,
+      "name": "Looking for the Perfect Beat - Original 12\" Version",
+      "url": "https://open.spotify.com/track/3grljpi1aYIRA6TuXvGigL"
     },
     {
       "added_at": "2023-12-07 13:46:05",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-12-07 13:46:05",
       "album": {
-        "name": "Biz's Baddest Beats: The Best of Biz Markie",
-        "url": "https://open.spotify.com/album/2OKf5WlgqFgszrDsxMq07t"
-      },
-      "artists": [
-        {
-          "name": "Biz Markie",
-          "url": "https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4"
-        }
-      ],
-      "duration_ms": 362293,
-      "name": "Vapors",
-      "url": "https://open.spotify.com/track/73lzOeqHJSH8ddRls5GonC"
-    },
-    {
-      "added_at": "2023-12-07 13:46:05",
-      "album": {
         "name": "By All Means Necessary (Expanded Edition)",
         "url": "https://open.spotify.com/album/1ucCcn3bSPePeI67kUapwB"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 340133,
       "name": "My Philosophy",
       "url": "https://open.spotify.com/track/2P8KBF5BtraQiGpxDXrCnF"
+    },
+    {
+      "added_at": "2023-12-07 13:46:05",
+      "album": {
+        "name": "Biz's Baddest Beats: The Best of Biz Markie",
+        "url": "https://open.spotify.com/album/2OKf5WlgqFgszrDsxMq07t"
+      },
+      "artists": [
+        {
+          "name": "Biz Markie",
+          "url": "https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4"
+        }
+      ],
+      "duration_ms": 362293,
+      "name": "Vapors",
+      "url": "https://open.spotify.com/track/73lzOeqHJSH8ddRls5GonC"
     },
     {
       "added_at": "2023-12-07 13:46:05",

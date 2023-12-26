@@ -1,12 +1,12 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 91091,
+  "num_followers": 91176,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTc4M2UxMzgyMzRjNWIzNzQ3YmE1M2Q5ZGZkOWY2YmJmMmIxNjJh",
+  "snapshot_id": "MCxlMTE2ZGNjZTc3YjE2ZDUyZDhhNTk2NDIwMmFkOGRjOGFkNmJkZmNk",
   "tracks": [
     {
       "added_at": "2023-09-14 19:15:58",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "20/20",
-        "url": "https://open.spotify.com/album/23HV3deh17hOFNg3OKmGnW"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 242678,
-      "name": "Nothing's Gonna Change My Love for You",
-      "url": "https://open.spotify.com/track/0vB4Vd6PtkJSEnWsmqATnZ"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "Midnight Love",
         "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 238600,
       "name": "Sexual Healing",
       "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "20/20",
+        "url": "https://open.spotify.com/album/23HV3deh17hOFNg3OKmGnW"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 242678,
+      "name": "Nothing's Gonna Change My Love for You",
+      "url": "https://open.spotify.com/track/0vB4Vd6PtkJSEnWsmqATnZ"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -135,6 +135,22 @@
       "duration_ms": 269840,
       "name": "Holding Back the Years - 2008 Remaster",
       "url": "https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "Let's Get It On",
+        "url": "https://open.spotify.com/album/1oIICL75sMuInkEhX8jj3b"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 291360,
+      "name": "Let's Get It On",
+      "url": "https://open.spotify.com/track/627teoJpK7qZOxRRY8TNnv"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -203,22 +219,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Let's Get It On",
-        "url": "https://open.spotify.com/album/1oIICL75sMuInkEhX8jj3b"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 291360,
-      "name": "Let's Get It On",
-      "url": "https://open.spotify.com/track/627teoJpK7qZOxRRY8TNnv"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "Barry White - The Collection",
         "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
       },
@@ -267,22 +267,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "That's The Way Of The World",
-        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 299333,
-      "name": "Reasons",
-      "url": "https://open.spotify.com/track/1srD2uc11TcQiOmHHrJp8M"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "Rockin' Roll Baby",
         "url": "https://open.spotify.com/album/0b1uWSG9X6poSc9SLTYEfz"
       },
@@ -315,6 +299,22 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
+        "name": "That's The Way Of The World",
+        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 299333,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/1srD2uc11TcQiOmHHrJp8M"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
         "name": "Harold Melvin & The Blue Notes (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/3Yqyi7rmyXYDbcc0qJzXef"
       },
@@ -331,22 +331,6 @@
       "duration_ms": 205906,
       "name": "If You Don't Know Me by Now (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
-        "name": "Between the Sheets",
-        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 340013,
-      "name": "Between the Sheets",
-      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -415,6 +399,22 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
+        "name": "Between the Sheets",
+        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 340013,
+      "name": "Between the Sheets",
+      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
         "name": "Sweet Love",
         "url": "https://open.spotify.com/album/5ua8gCeWXrvivM9hfVCXhD"
       },
@@ -427,6 +427,22 @@
       "duration_ms": 262266,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/4xVXe1VS5zlQyECVk6GRrL"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 269333,
+      "name": "I Can't Help It",
+      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -463,22 +479,6 @@
       "duration_ms": 431506,
       "name": "I'm Gonna Love You Just A Little More Baby",
       "url": "https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 269333,
-      "name": "I Can't Help It",
-      "url": "https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Ben",
-        "url": "https://open.spotify.com/album/3xo2soey9XEBI5DlmT4KlQ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 167386,
-      "name": "Ben - Single Version",
-      "url": "https://open.spotify.com/track/0ZFqB9g2FujbmMSrjqsL3j"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "A Bit Of Soul",
         "url": "https://open.spotify.com/album/2RmmiMocgFh0MxSeUy6D0S"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 153600,
       "name": "One Step Ahead",
       "url": "https://open.spotify.com/track/0dSRoWYf0GOzX9L44g53sZ"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "Ben",
+        "url": "https://open.spotify.com/album/3xo2soey9XEBI5DlmT4KlQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 167386,
+      "name": "Ben - Single Version",
+      "url": "https://open.spotify.com/track/0ZFqB9g2FujbmMSrjqsL3j"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
+        "name": "The Essential Isley Brothers",
+        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 337333,
+      "name": "For the Love of You, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
         "name": "The Dude",
         "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 259040,
       "name": "One Hundred Ways",
       "url": "https://open.spotify.com/track/0Yp603BgzIKDDcSUBrYYba"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
-        "name": "The Essential Isley Brothers",
-        "url": "https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 337333,
-      "name": "For the Love of You, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/6k0GXtn49Ga6kfA8ZvLtVX"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "You've Got It Bad Girl",
-        "url": "https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        }
-      ],
-      "duration_ms": 244440,
-      "name": "Summer In The City",
-      "url": "https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "3+3",
         "url": "https://open.spotify.com/album/27eI33obJuyKebMTxAJJam"
       },
@@ -927,18 +911,18 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "All In The Name Of Love",
-        "url": "https://open.spotify.com/album/1ciLacI1DyPsAWFW4fCE15"
+        "name": "You've Got It Bad Girl",
+        "url": "https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB"
       },
       "artists": [
         {
-          "name": "Atlantic Starr",
-          "url": "https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm"
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
         }
       ],
-      "duration_ms": 286973,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/5ecomU85GzPgOJZ315oZ88"
+      "duration_ms": 244440,
+      "name": "Summer In The City",
+      "url": "https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -955,6 +939,22 @@
       "duration_ms": 253004,
       "name": "Betcha by Golly Wow (Live)",
       "url": "https://open.spotify.com/track/0w6qnStMvC77oV25dTSiYg"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "All In The Name Of Love",
+        "url": "https://open.spotify.com/album/1ciLacI1DyPsAWFW4fCE15"
+      },
+      "artists": [
+        {
+          "name": "Atlantic Starr",
+          "url": "https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm"
+        }
+      ],
+      "duration_ms": 286973,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/5ecomU85GzPgOJZ315oZ88"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Rejoice",
-        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
-      },
-      "artists": [
-        {
-          "name": "The Emotions",
-          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
-        }
-      ],
-      "duration_ms": 267066,
-      "name": "Don't Ask My Neighbors",
-      "url": "https://open.spotify.com/track/2GZe8LsPldakpQy5T8151f"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "I'm In Love Again",
         "url": "https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 285333,
       "name": "If Only You Knew",
       "url": "https://open.spotify.com/track/60kYnvU89eL92jJ3eQcPXq"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA"
+      },
+      "artists": [
+        {
+          "name": "The Emotions",
+          "url": "https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr"
+        }
+      ],
+      "duration_ms": 267066,
+      "name": "Don't Ask My Neighbors",
+      "url": "https://open.spotify.com/track/2GZe8LsPldakpQy5T8151f"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Rhythm Nation 1814",
-        "url": "https://open.spotify.com/album/4OD3LU6001esAtFshDX46M"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 332741,
-      "name": "Come Back To Me",
-      "url": "https://open.spotify.com/track/0NSSqYISjnav81CEn6EgBY"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "Patti LaBelle's Greatest Hits",
         "url": "https://open.spotify.com/album/12ENRe4Pw9qXVXz10nng3R"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 283440,
       "name": "On My Own - Single Version",
       "url": "https://open.spotify.com/track/29UXndgjLVTUZ8b1Mhz9CR"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "Rhythm Nation 1814",
+        "url": "https://open.spotify.com/album/4OD3LU6001esAtFshDX46M"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 332741,
+      "name": "Come Back To Me",
+      "url": "https://open.spotify.com/track/0NSSqYISjnav81CEn6EgBY"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "The Love Songs Collection",
-        "url": "https://open.spotify.com/album/2Q8dU9GQEeuZRfJ6gpietG"
-      },
-      "artists": [
-        {
-          "name": "Al Green",
-          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
-        }
-      ],
-      "duration_ms": 373893,
-      "name": "For the Good Times",
-      "url": "https://open.spotify.com/track/1lRcKtjXlqcemLvShWPK8C"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "Nossa Imagina\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/5xigVAuBgDEeKPJMdEu3n9"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 216333,
       "name": "Pensando Nela",
       "url": "https://open.spotify.com/track/4FFDhzWVlhcg0Y6ujrYsm0"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "The Love Songs Collection",
+        "url": "https://open.spotify.com/album/2Q8dU9GQEeuZRfJ6gpietG"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        }
+      ],
+      "duration_ms": 373893,
+      "name": "For the Good Times",
+      "url": "https://open.spotify.com/track/1lRcKtjXlqcemLvShWPK8C"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
+        "name": "Saci Perer\u00ea",
+        "url": "https://open.spotify.com/album/3GcvpFejoLlbT2YsYHuyxF"
+      },
+      "artists": [
+        {
+          "name": "Banda Black Rio",
+          "url": "https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv"
+        }
+      ],
+      "duration_ms": 245800,
+      "name": "Amor Natural",
+      "url": "https://open.spotify.com/track/3zI1MxYwvge3bTxdB3LOri"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
         "name": "Injoy",
         "url": "https://open.spotify.com/album/1qxa6VbQVlc4PHelzTGXFo"
       },
@@ -1575,18 +1591,18 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Saci Perer\u00ea",
-        "url": "https://open.spotify.com/album/3GcvpFejoLlbT2YsYHuyxF"
+        "name": "Nossa Imagina\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5xigVAuBgDEeKPJMdEu3n9"
       },
       "artists": [
         {
-          "name": "Banda Black Rio",
-          "url": "https://open.spotify.com/artist/47UDFBXxSM6d5zbKvflXhv"
+          "name": "Don Beto",
+          "url": "https://open.spotify.com/artist/7yuXKHgZGdEX0z4Fvx4laa"
         }
       ],
-      "duration_ms": 245800,
-      "name": "Amor Natural",
-      "url": "https://open.spotify.com/track/3zI1MxYwvge3bTxdB3LOri"
+      "duration_ms": 215106,
+      "name": "Num Para\u00edso",
+      "url": "https://open.spotify.com/track/70EBZBh1LIwvYuzdvtvPCI"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -1619,22 +1635,6 @@
       "duration_ms": 101150,
       "name": "Girassol",
       "url": "https://open.spotify.com/track/6qrwtFwKy3brvOIuDhDfQ1"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
-        "name": "Nossa Imagina\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5xigVAuBgDEeKPJMdEu3n9"
-      },
-      "artists": [
-        {
-          "name": "Don Beto",
-          "url": "https://open.spotify.com/artist/7yuXKHgZGdEX0z4Fvx4laa"
-        }
-      ],
-      "duration_ms": 215106,
-      "name": "Num Para\u00edso",
-      "url": "https://open.spotify.com/track/70EBZBh1LIwvYuzdvtvPCI"
     },
     {
       "added_at": "2023-09-14 19:15:58",

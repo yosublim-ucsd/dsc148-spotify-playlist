@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o",
-  "num_followers": 127428,
+  "num_followers": 127472,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWZiYzdhZThkYTkxZDZkMDlkNjk2ZmY5ZGUwYjUwMGNhYTNlYWYw",
+  "snapshot_id": "MCxhZDFlMzc3NzFkNWM4MjMxNjhkNWY4NDUxMzVjNzJmMTQxMzA0OTA1",
   "tracks": [
     {
       "added_at": "2023-12-15 03:01:00",
@@ -207,18 +207,30 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "M\u00e1quina do Tempo",
-        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
+        "name": "Pecado Capital",
+        "url": "https://open.spotify.com/album/285LCOhTbxMYMSR5VOE2r3"
       },
       "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Bagua Records",
+          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        },
         {
           "name": "Matu\u00ea",
           "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
         }
       ],
-      "duration_ms": 157687,
-      "name": "\u00c9 Sal",
-      "url": "https://open.spotify.com/track/2c80HnIOPMmQQVQllQEWb5"
+      "duration_ms": 185310,
+      "name": "Lux\u00faria",
+      "url": "https://open.spotify.com/track/5kuUOpHZlZjL8b7HXkxRsm"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -259,50 +271,6 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "Fim de Semana no Rio",
-        "url": "https://open.spotify.com/album/02q2gOT5jYZN9fXLPFxy9S"
-      },
-      "artists": [
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        }
-      ],
-      "duration_ms": 165882,
-      "name": "Fim de Semana no Rio",
-      "url": "https://open.spotify.com/track/7afaZ37wJJL6880z1NRgJS"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
-        "name": "Pecado Capital",
-        "url": "https://open.spotify.com/album/285LCOhTbxMYMSR5VOE2r3"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Bagua Records",
-          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
-        },
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
-        },
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 185310,
-      "name": "Lux\u00faria",
-      "url": "https://open.spotify.com/track/5kuUOpHZlZjL8b7HXkxRsm"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
         "name": "60K",
         "url": "https://open.spotify.com/album/280tU4xoWJ10EcJoc0YOkT"
       },
@@ -323,6 +291,38 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
+        "name": "M\u00e1quina do Tempo",
+        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 157687,
+      "name": "\u00c9 Sal",
+      "url": "https://open.spotify.com/track/2c80HnIOPMmQQVQllQEWb5"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "Fim de Semana no Rio",
+        "url": "https://open.spotify.com/album/02q2gOT5jYZN9fXLPFxy9S"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 165882,
+      "name": "Fim de Semana no Rio",
+      "url": "https://open.spotify.com/track/7afaZ37wJJL6880z1NRgJS"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
         "name": "Imaterial",
         "url": "https://open.spotify.com/album/2H42sYw7tkkEy5d0gdTY9U"
       },
@@ -339,22 +339,6 @@
       "duration_ms": 152582,
       "name": "War",
       "url": "https://open.spotify.com/track/63400Pm7x5Awe4NH82oRYe"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
-        "name": "A Morte do Autotune",
-        "url": "https://open.spotify.com/album/3wtW4Pv6ED7nUpQL5GY5Vx"
-      },
-      "artists": [
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 216710,
-      "name": "A Morte do Autotune",
-      "url": "https://open.spotify.com/track/4MF0VMffyxHsy3GZwwUnAs"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -487,22 +471,6 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "previas.zip",
-        "url": "https://open.spotify.com/album/1Mp4qx0rzYoZHXmTX5ViS4"
-      },
-      "artists": [
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Paypal",
-      "url": "https://open.spotify.com/track/6x1FttETfbRLerumlTn0ZH"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
         "name": "Dos Pr\u00e9dios Deluxe",
         "url": "https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b"
       },
@@ -535,6 +503,22 @@
       "duration_ms": 195073,
       "name": "Tendenciosa",
       "url": "https://open.spotify.com/track/3hLoH18k4pP6eXEljzNHHr"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "A Morte do Autotune",
+        "url": "https://open.spotify.com/album/3wtW4Pv6ED7nUpQL5GY5Vx"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 216710,
+      "name": "A Morte do Autotune",
+      "url": "https://open.spotify.com/track/4MF0VMffyxHsy3GZwwUnAs"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -591,18 +575,18 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "M\u00e1quina do Tempo",
-        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
+        "name": "previas.zip",
+        "url": "https://open.spotify.com/album/1Mp4qx0rzYoZHXmTX5ViS4"
       },
       "artists": [
         {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
         }
       ],
-      "duration_ms": 230400,
-      "name": "M\u00e1quina do Tempo",
-      "url": "https://open.spotify.com/track/5oI9blwsXC8AkTWw6wASY8"
+      "duration_ms": 166153,
+      "name": "Paypal",
+      "url": "https://open.spotify.com/track/6x1FttETfbRLerumlTn0ZH"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -739,22 +723,6 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "previas.zip",
-        "url": "https://open.spotify.com/album/1Mp4qx0rzYoZHXmTX5ViS4"
-      },
-      "artists": [
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        }
-      ],
-      "duration_ms": 177442,
-      "name": "Manha",
-      "url": "https://open.spotify.com/track/3ow7zYRhbIO7f4yyHI4ZaD"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
         "name": "Hylander",
         "url": "https://open.spotify.com/album/0XbOcrzCIIltxgcBdBUGAs"
       },
@@ -771,6 +739,38 @@
       "duration_ms": 96624,
       "name": "Hylander",
       "url": "https://open.spotify.com/track/3sOcmmmWB7dqyziUVLXpTi"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "M\u00e1quina do Tempo",
+        "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
+      },
+      "artists": [
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "M\u00e1quina do Tempo",
+      "url": "https://open.spotify.com/track/5oI9blwsXC8AkTWw6wASY8"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "previas.zip",
+        "url": "https://open.spotify.com/album/1Mp4qx0rzYoZHXmTX5ViS4"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        }
+      ],
+      "duration_ms": 177442,
+      "name": "Manha",
+      "url": "https://open.spotify.com/track/3ow7zYRhbIO7f4yyHI4ZaD"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -1231,30 +1231,6 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "Fio a Fio",
-        "url": "https://open.spotify.com/album/0G681ObSuAOUg6LVMV5bu5"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        }
-      ],
-      "duration_ms": 178356,
-      "name": "Fio a Fio",
-      "url": "https://open.spotify.com/track/6XFykQIcRhoIhud5NZSsyL"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
         "name": "MIDNIGHT CALLS",
         "url": "https://open.spotify.com/album/1z0wqOFRl7Q6Jj3qu88hbc"
       },
@@ -1271,22 +1247,6 @@
       "duration_ms": 251923,
       "name": "30 Dias",
       "url": "https://open.spotify.com/track/69ebm9wovT0UJX3vBp571J"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
-        "name": "Avi\u00e3o",
-        "url": "https://open.spotify.com/album/3qB0aw6UmDycNX9pWvyjXf"
-      },
-      "artists": [
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Avi\u00e3o",
-      "url": "https://open.spotify.com/track/3vG5tTQZsAPTDqMiXFhKJy"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -1311,6 +1271,22 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
+        "name": "Avi\u00e3o",
+        "url": "https://open.spotify.com/album/3qB0aw6UmDycNX9pWvyjXf"
+      },
+      "artists": [
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Avi\u00e3o",
+      "url": "https://open.spotify.com/track/3vG5tTQZsAPTDqMiXFhKJy"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
         "name": "Love And Choppa",
         "url": "https://open.spotify.com/album/4cTdjeCkYYssaUIWdhZhyF"
       },
@@ -1327,26 +1303,26 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "\u00c9TPM?!",
-        "url": "https://open.spotify.com/album/2LT3aMTtIP0KMyKlMLNkXV"
+        "name": "Fio a Fio",
+        "url": "https://open.spotify.com/album/0G681ObSuAOUg6LVMV5bu5"
       },
       "artists": [
         {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
         },
         {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
         },
         {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
         }
       ],
-      "duration_ms": 159010,
-      "name": "Tapa",
-      "url": "https://open.spotify.com/track/3IlV0oQTh8DrBp38CVJ91p"
+      "duration_ms": 178356,
+      "name": "Fio a Fio",
+      "url": "https://open.spotify.com/track/6XFykQIcRhoIhud5NZSsyL"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -1419,6 +1395,46 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
+        "name": "\u00c9TPM?!",
+        "url": "https://open.spotify.com/album/2LT3aMTtIP0KMyKlMLNkXV"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 159010,
+      "name": "Tapa",
+      "url": "https://open.spotify.com/track/3IlV0oQTh8DrBp38CVJ91p"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "Ok Baby",
+        "url": "https://open.spotify.com/album/0N8j8hvyEfBrQbBPMhNGD9"
+      },
+      "artists": [
+        {
+          "name": "Japa",
+          "url": "https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "Ok Baby",
+      "url": "https://open.spotify.com/track/6EHSC5FGDVtL3LPcHkZQCi"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
         "name": "Oclin e Evoque",
         "url": "https://open.spotify.com/album/1lm0ePGaAMF91JfN3O9sI7"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 212581,
       "name": "Oclin e Evoque",
       "url": "https://open.spotify.com/track/3PnDIGbfmswMaxX386zp3X"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
-        "name": "Ok Baby",
-        "url": "https://open.spotify.com/album/0N8j8hvyEfBrQbBPMhNGD9"
-      },
-      "artists": [
-        {
-          "name": "Japa",
-          "url": "https://open.spotify.com/artist/3455RNeKZ9giouA4pde2qA"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "Ok Baby",
-      "url": "https://open.spotify.com/track/6EHSC5FGDVtL3LPcHkZQCi"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -1787,6 +1787,26 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
+        "name": "Apoteose",
+        "url": "https://open.spotify.com/album/5zLYG5pdbwVyQD96FYgGdQ"
+      },
+      "artists": [
+        {
+          "name": "Mateca",
+          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
+        },
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        }
+      ],
+      "duration_ms": 176888,
+      "name": "Probleminha",
+      "url": "https://open.spotify.com/track/1zCJZUgIsBrs1wlKTm52oo"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
         "name": "Menino Ney",
         "url": "https://open.spotify.com/album/3IWRs9fZhKc4i7lCkqNPHU"
       },
@@ -1807,26 +1827,6 @@
       "duration_ms": 139636,
       "name": "Menino Ney",
       "url": "https://open.spotify.com/track/3n7ASTQanOp5milmESBqlt"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
-        "name": "Apoteose",
-        "url": "https://open.spotify.com/album/5zLYG5pdbwVyQD96FYgGdQ"
-      },
-      "artists": [
-        {
-          "name": "Mateca",
-          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
-        },
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
-        }
-      ],
-      "duration_ms": 176888,
-      "name": "Probleminha",
-      "url": "https://open.spotify.com/track/1zCJZUgIsBrs1wlKTm52oo"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -2159,34 +2159,6 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/0ujQ7p7VDbqL9YpAhIb4dO"
-      },
-      "artists": [
-        {
-          "name": "UCL\u00c3",
-          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
-        },
-        {
-          "name": "Sueth",
-          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
-        },
-        {
-          "name": "Sos",
-          "url": "https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK"
-        },
-        {
-          "name": "Sobs",
-          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "21",
-      "url": "https://open.spotify.com/track/2lLygaAejjDX1yMt5XuMGG"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
         "name": "Flutuo",
         "url": "https://open.spotify.com/album/3893W2jIaByc6Xk0lziixq"
       },
@@ -2219,6 +2191,34 @@
       "duration_ms": 140487,
       "name": "Suco de Fruta",
       "url": "https://open.spotify.com/track/4sbR19WEgjJUfRsU1z2DY2"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/0ujQ7p7VDbqL9YpAhIb4dO"
+      },
+      "artists": [
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        },
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        },
+        {
+          "name": "Sos",
+          "url": "https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK"
+        },
+        {
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "21",
+      "url": "https://open.spotify.com/track/2lLygaAejjDX1yMt5XuMGG"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -2263,42 +2263,6 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "Ouro Ros\u00e9",
-        "url": "https://open.spotify.com/album/3hRlp9PlDxPTJd5c1X3lJL"
-      },
-      "artists": [
-        {
-          "name": "UCL\u00c3",
-          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
-        },
-        {
-          "name": "Sueth",
-          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
-        },
-        {
-          "name": "Real G",
-          "url": "https://open.spotify.com/artist/4VBvroduJdLVzx7N0gKKO8"
-        },
-        {
-          "name": "Sos",
-          "url": "https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK"
-        },
-        {
-          "name": "Duzz",
-          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
-        },
-        {
-          "name": "Peunubeat",
-          "url": "https://open.spotify.com/artist/17E8w3INI7HVddLkdDKYVA"
-        }
-      ],
-      "duration_ms": 290000,
-      "name": "Ouro Ros\u00e9",
-      "url": "https://open.spotify.com/track/6keP0AfCE5v4CTI1E5nrLv"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
         "name": "Intoc\u00e1vel",
         "url": "https://open.spotify.com/album/0tPRn8Y8Xmj6xErQPnuExw"
       },
@@ -2315,26 +2279,6 @@
       "duration_ms": 155355,
       "name": "Preto de Gueto",
       "url": "https://open.spotify.com/track/2YHdQVG5x6XI8HmdcqGJnn"
-    },
-    {
-      "added_at": "2023-12-15 03:01:00",
-      "album": {
-        "name": "A noite toda",
-        "url": "https://open.spotify.com/album/66t4TpL1KlIxNLTBQFj9AL"
-      },
-      "artists": [
-        {
-          "name": "Lionel",
-          "url": "https://open.spotify.com/artist/0kgUQXfIgn7sKY38YQMPJA"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 184615,
-      "name": "A noite toda",
-      "url": "https://open.spotify.com/track/3riONrdS3ALgp0F01fv9pq"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -2363,22 +2307,22 @@
     {
       "added_at": "2023-12-15 03:01:00",
       "album": {
-        "name": "Fuuga",
-        "url": "https://open.spotify.com/album/5Rlri89W7uov0vfeG2bHXl"
+        "name": "A noite toda",
+        "url": "https://open.spotify.com/album/66t4TpL1KlIxNLTBQFj9AL"
       },
       "artists": [
         {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+          "name": "Lionel",
+          "url": "https://open.spotify.com/artist/0kgUQXfIgn7sKY38YQMPJA"
         },
         {
-          "name": "Dj Coala",
-          "url": "https://open.spotify.com/artist/2GrFc0VerkHwntKlGXoToI"
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
         }
       ],
-      "duration_ms": 135813,
-      "name": "Fuuga",
-      "url": "https://open.spotify.com/track/44JedU7eYNmip1BfvtLIqw"
+      "duration_ms": 184615,
+      "name": "A noite toda",
+      "url": "https://open.spotify.com/track/3riONrdS3ALgp0F01fv9pq"
     },
     {
       "added_at": "2023-12-15 03:01:00",
@@ -2419,6 +2363,62 @@
       "duration_ms": 206608,
       "name": "OUTRO PATAMAR",
       "url": "https://open.spotify.com/track/48zE1jY1K1oqjpD3G6UGfH"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "Ouro Ros\u00e9",
+        "url": "https://open.spotify.com/album/3hRlp9PlDxPTJd5c1X3lJL"
+      },
+      "artists": [
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        },
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        },
+        {
+          "name": "Real G",
+          "url": "https://open.spotify.com/artist/4VBvroduJdLVzx7N0gKKO8"
+        },
+        {
+          "name": "Sos",
+          "url": "https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK"
+        },
+        {
+          "name": "Duzz",
+          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
+        },
+        {
+          "name": "Peunubeat",
+          "url": "https://open.spotify.com/artist/17E8w3INI7HVddLkdDKYVA"
+        }
+      ],
+      "duration_ms": 290000,
+      "name": "Ouro Ros\u00e9",
+      "url": "https://open.spotify.com/track/6keP0AfCE5v4CTI1E5nrLv"
+    },
+    {
+      "added_at": "2023-12-15 03:01:00",
+      "album": {
+        "name": "Fuuga",
+        "url": "https://open.spotify.com/album/5Rlri89W7uov0vfeG2bHXl"
+      },
+      "artists": [
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        },
+        {
+          "name": "Dj Coala",
+          "url": "https://open.spotify.com/artist/2GrFc0VerkHwntKlGXoToI"
+        }
+      ],
+      "duration_ms": 135813,
+      "name": "Fuuga",
+      "url": "https://open.spotify.com/track/44JedU7eYNmip1BfvtLIqw"
     },
     {
       "added_at": "2023-12-15 03:01:00",

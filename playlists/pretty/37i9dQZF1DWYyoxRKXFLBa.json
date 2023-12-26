@@ -1,12 +1,12 @@
 {
   "description": "Conoce a puras morras rifadas en La Marketa. \u00a1S\u00fabele al volumen, te esperamos el 6 de Agosto en Jard\u00edn Ju\u00e1rez! En portada: Now Girls Rule",
-  "num_followers": 8693,
+  "num_followers": 8696,
   "original_name": "Ruidosas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjljNTI0YzgxYjgzOTI5NTMxNjJkMDI2ZTRiOGNhODhlOWZlNWEw",
+  "snapshot_id": "MCxmNjQxMjRlYWE1YWYyYTljOTI1N2Y0YjZjYWI4NTM4NWQ5MTdlMzA3",
   "tracks": [
     {
       "added_at": "2023-07-28 20:39:17",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Chaise Longue",
-        "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 196905,
-      "name": "Chaise Longue",
-      "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "ERROR",
         "url": "https://open.spotify.com/album/0el7KHRPZwYXPwXNeSNdJB"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 231854,
       "name": "CHOKE",
       "url": "https://open.spotify.com/track/1GQv9r0tn00ZfHTw92jAcW"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "Chaise Longue",
+        "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 196905,
+      "name": "Chaise Longue",
+      "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -407,22 +407,6 @@
       "duration_ms": 193373,
       "name": "Mind Your Own Business",
       "url": "https://open.spotify.com/track/6bEjOYezTuD2gYq5X7tGlP"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 202146,
-      "name": "lejos",
-      "url": "https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -495,22 +479,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "daydreaming",
-        "url": "https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn"
-      },
-      "artists": [
-        {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
-        }
-      ],
-      "duration_ms": 162421,
-      "name": "daydreaming",
-      "url": "https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "Wet Leg",
         "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
       },
@@ -523,6 +491,38 @@
       "duration_ms": 232320,
       "name": "Angelica",
       "url": "https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "tdbn",
+        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 202146,
+      "name": "lejos",
+      "url": "https://open.spotify.com/track/2ehzgbfJuRUvEB4Pkm4Ic1"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "daydreaming",
+        "url": "https://open.spotify.com/album/1zsf05JNT2seWKnDbwQzfn"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        }
+      ],
+      "duration_ms": 162421,
+      "name": "daydreaming",
+      "url": "https://open.spotify.com/track/77TNJhVDMPwRYxeMOED5Bl"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Hola Lola",
-        "url": "https://open.spotify.com/album/5QMxRYcUld2N5Oe75ePcge"
-      },
-      "artists": [
-        {
-          "name": "Andru",
-          "url": "https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W"
-        }
-      ],
-      "duration_ms": 237142,
-      "name": "Hola Lola",
-      "url": "https://open.spotify.com/track/5IfspIqcWREksXTijVm3M9"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "Superdependiente",
         "url": "https://open.spotify.com/album/2ed6coeNxYURUDCMDaW20t"
       },
@@ -947,18 +931,18 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Kill V. Maim",
-        "url": "https://open.spotify.com/album/2VKbyz0lCi3tw7DBGAY5g6"
+        "name": "Hola Lola",
+        "url": "https://open.spotify.com/album/5QMxRYcUld2N5Oe75ePcge"
       },
       "artists": [
         {
-          "name": "Nenagenix",
-          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
+          "name": "Andru",
+          "url": "https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W"
         }
       ],
-      "duration_ms": 254328,
-      "name": "Kill V. Maim",
-      "url": "https://open.spotify.com/track/3HPi0ghN9BErsKwlTlFz31"
+      "duration_ms": 237142,
+      "name": "Hola Lola",
+      "url": "https://open.spotify.com/track/5IfspIqcWREksXTijVm3M9"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -975,6 +959,22 @@
       "duration_ms": 144500,
       "name": "Amarillo",
       "url": "https://open.spotify.com/track/3uNedRR60eGommt5hVXjHT"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "Kill V. Maim",
+        "url": "https://open.spotify.com/album/2VKbyz0lCi3tw7DBGAY5g6"
+      },
+      "artists": [
+        {
+          "name": "Nenagenix",
+          "url": "https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I"
+        }
+      ],
+      "duration_ms": 254328,
+      "name": "Kill V. Maim",
+      "url": "https://open.spotify.com/track/3HPi0ghN9BErsKwlTlFz31"
     },
     {
       "added_at": "2023-07-28 20:39:17",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "Lilith",
-        "url": "https://open.spotify.com/album/1g3IB4r5OnU3guMehCPAie"
-      },
-      "artists": [
-        {
-          "name": "Vondr\u00e9",
-          "url": "https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom"
-        }
-      ],
-      "duration_ms": 168500,
-      "name": "Lilith",
-      "url": "https://open.spotify.com/track/2Vnl0gMfZ9pct8LvLDm0KJ"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "Las Distancias",
         "url": "https://open.spotify.com/album/6iw6U4obwRM38eN7JZ33Dm"
       },
@@ -1171,6 +1155,22 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
+        "name": "Lilith",
+        "url": "https://open.spotify.com/album/1g3IB4r5OnU3guMehCPAie"
+      },
+      "artists": [
+        {
+          "name": "Vondr\u00e9",
+          "url": "https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom"
+        }
+      ],
+      "duration_ms": 168500,
+      "name": "Lilith",
+      "url": "https://open.spotify.com/track/2Vnl0gMfZ9pct8LvLDm0KJ"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
         "name": "Ikite Iru",
         "url": "https://open.spotify.com/album/26U7D0QxDGkKhtw2sBCVRF"
       },
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-07-28 20:39:17",
       "album": {
-        "name": "La Ciudad Que Dejamos",
-        "url": "https://open.spotify.com/album/17wOANgahKkdnXVZpkw6ey"
-      },
-      "artists": [
-        {
-          "name": "Fin del Mundo",
-          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
-        }
-      ],
-      "duration_ms": 274414,
-      "name": "Desvelo",
-      "url": "https://open.spotify.com/track/1jxb4xO5jc3yOazCbl5jy3"
-    },
-    {
-      "added_at": "2023-07-28 20:39:17",
-      "album": {
         "name": "Contradicktion",
         "url": "https://open.spotify.com/album/7H75c5aOTznuxDg2fEt7wt"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 125250,
       "name": "Contradicktion",
       "url": "https://open.spotify.com/track/4ZRT63eSHEA1NmeyNzTliU"
+    },
+    {
+      "added_at": "2023-07-28 20:39:17",
+      "album": {
+        "name": "La Ciudad Que Dejamos",
+        "url": "https://open.spotify.com/album/17wOANgahKkdnXVZpkw6ey"
+      },
+      "artists": [
+        {
+          "name": "Fin del Mundo",
+          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
+        }
+      ],
+      "duration_ms": 274414,
+      "name": "Desvelo",
+      "url": "https://open.spotify.com/track/1jxb4xO5jc3yOazCbl5jy3"
     },
     {
       "added_at": "2023-07-28 20:39:17",

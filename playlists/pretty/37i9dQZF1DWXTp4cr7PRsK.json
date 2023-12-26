@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ogchaseb/\">Chase B</a>",
-  "num_followers": 5948,
+  "num_followers": 5958,
   "original_name": "Chase B's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMjgzODU3MmY3ZWJkOWU4MzE0MDAzNjQ0NzVhM2UyOTIwYjNhODQ5",
+  "snapshot_id": "MCw2ZDhmNGE0ZGVkZjNjOGRjZmRkZjJkNzYzNjZhZmMwYmE3NzllM2Fl",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -431,6 +431,30 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "MAYDAY (feat. Sheck Wes & Young Thug)",
+        "url": "https://open.spotify.com/album/3dPUHr57sBFTHiVtpeO7rv"
+      },
+      "artists": [
+        {
+          "name": "CHASE B",
+          "url": "https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD"
+        },
+        {
+          "name": "Sheck Wes",
+          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 179533,
+      "name": "MAYDAY (feat. Sheck Wes & Young Thug)",
+      "url": "https://open.spotify.com/track/7J2DtwsxdoyrhgNV3Vzmos"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "SAVAGE MODE II [CHOPPED NOT SLOPPED]",
         "url": "https://open.spotify.com/album/263anqt2ayA25jSEXfs0i1"
       },
@@ -447,22 +471,6 @@
       "duration_ms": 185036,
       "name": "Slidin",
       "url": "https://open.spotify.com/track/1ztkjvyidhhYNg1QSG3KjA"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Barnacles",
-        "url": "https://open.spotify.com/album/1oETzMX4n5eWGZhrBbjNgw"
-      },
-      "artists": [
-        {
-          "name": "SahBabii",
-          "url": "https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T"
-        }
-      ],
-      "duration_ms": 138926,
-      "name": "Barnacles",
-      "url": "https://open.spotify.com/track/7zHsmufvSqrrYJkDhbkW1T"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -487,6 +495,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Barnacles",
+        "url": "https://open.spotify.com/album/1oETzMX4n5eWGZhrBbjNgw"
+      },
+      "artists": [
+        {
+          "name": "SahBabii",
+          "url": "https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T"
+        }
+      ],
+      "duration_ms": 138926,
+      "name": "Barnacles",
+      "url": "https://open.spotify.com/track/7zHsmufvSqrrYJkDhbkW1T"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "CASINO",
         "url": "https://open.spotify.com/album/2ei8Qi53hzaa0c7BXrRIW4"
       },
@@ -503,30 +527,6 @@
       "duration_ms": 214847,
       "name": "CASINO",
       "url": "https://open.spotify.com/track/4gnPzSCKecLy9WJeHeJBrk"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "MAYDAY (feat. Sheck Wes & Young Thug)",
-        "url": "https://open.spotify.com/album/3dPUHr57sBFTHiVtpeO7rv"
-      },
-      "artists": [
-        {
-          "name": "CHASE B",
-          "url": "https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD"
-        },
-        {
-          "name": "Sheck Wes",
-          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 179533,
-      "name": "MAYDAY (feat. Sheck Wes & Young Thug)",
-      "url": "https://open.spotify.com/track/7J2DtwsxdoyrhgNV3Vzmos"
     },
     {
       "added_at": "2022-10-01 16:00:00",

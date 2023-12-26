@@ -4,7 +4,7 @@
 
 > Música navideña para las fiestas decembrinas\. Cover: Panter Belico
 
-118 songs - 6 hr 20 min
+119 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [El Colesterol](https://open.spotify.com/track/0cMIrWqljfkcl99TIYTtqf) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Exitos Inolvidables](https://open.spotify.com/album/1vmEJQwpLyDznLxVsr1WCv) | 2:23 | 2022-11-25 |  |
 | [El Mejor Regalo](https://open.spotify.com/track/1HlS59V3jDAQx9VWfj1Ztm) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo) | [Navidad Para Ti](https://open.spotify.com/album/108W3Sw4RC5FhmyDhB9sA3) | 2:56 | 2022-11-25 | 2022-12-26 |
 | [El Niño del Tambor](https://open.spotify.com/track/1C0Uip3Flj5zCvpUeKcLmF) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Navidad Con Angela Aguilar](https://open.spotify.com/album/602qxwQA6vuw9d8ukke3XX) | 3:16 | 2022-11-25 | 2023-12-22 |
+| [El Niño Del Tambor](https://open.spotify.com/track/5jGT4Ex7tp33av5SZVzf1Q) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Navidad con Ángela Aguilar](https://open.spotify.com/album/08gmZBkIqe0wxtGzoDrDla) | 3:16 | 2023-11-30 |  |
 | [El Pasado \(Feat\. Nabález, Los Nietos De Terán, Grace Guillén, Randy Ortiz, Kevin Apolo\)](https://open.spotify.com/track/2ENAB9Rfh8hmtp6awBInxS) | [Banda La Ejecutiva de Mazatlan Sinaloa](https://open.spotify.com/artist/6BHFzhrhbK5ogpJ8H2z71Y), [Uriel Barrera](https://open.spotify.com/artist/3pfVmZKUiPAsoIVAa1I8lH), [La Nueva Estrategia](https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0), [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF), [Los Nietos De Terán](https://open.spotify.com/artist/2aRlqEM3PhwgKtXmYOWhFf), [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD), [Randy Ortiz](https://open.spotify.com/artist/6XVpqvozhSd6poOFT5cN0J), [Kevin Apolo](https://open.spotify.com/artist/5nWxW2KyBENRSOPv4SsoiY) | [El Pasado \(Feat\. Nabález, Los Nietos De Terán, Grace Guillén, Randy Ortiz, Kevin Apolo\)](https://open.spotify.com/album/7Kgewkz5TPdZo4NQpD2fvJ) | 2:56 | 2022-12-18 | 2023-11-22 |
 | [El Tucanazo](https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Oro ..\. Secuestro De Amor](https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ) | 2:54 | 2022-11-25 |  |
 | [El Viejo del Sombreron](https://open.spotify.com/track/3SUDA3OTL2sRMyTlRuaI4D) | [Sonora Explosiva](https://open.spotify.com/artist/3igXchKgUxPwUiZQVVp9K7) | [A Bailar Sabroso Con La Sonora Explosiva](https://open.spotify.com/album/63MOeFmNIvAuhfV8YGpH4e) | 3:53 | 2022-11-25 |  |
@@ -72,7 +73,7 @@
 | [Manantial en la Arena](https://open.spotify.com/track/2MMSi1VHFZJPiAvLdjFLtE) | [Los Aguas Aguas](https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG) | [Manantial en la Arena](https://open.spotify.com/album/27hp3mqAlbKkVyV7T4f02U) | 3:59 | 2022-11-25 | 2023-12-23 |
 | [Me llamo Raquel](https://open.spotify.com/track/6sr4ax5EHAsAxC4jjEaZJ0) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [La Reunión](https://open.spotify.com/album/62bBdP4of4gbqzArrfCw4J) | 2:47 | 2022-11-25 |  |
 | [Mi Burrito Sabanero](https://open.spotify.com/track/0iGJYuwI3jOn6lo0JeUvAB) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Mi Burrito Sabanero](https://open.spotify.com/album/3Jjt4XVl9u8bNHxii9jrk2) | 2:58 | 2022-11-25 |  |
-| [Mi Burrito Sabanero](https://open.spotify.com/track/6I5I4L2kRifxJ2RyAAaeca) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY) | [Mi Burrito Sabanero](https://open.spotify.com/album/69Ez1GJ0OaOsMlNwj0nbPp) | 3:10 | 2022-11-25 |  |
+| [Mi Burrito Sabanero](https://open.spotify.com/track/6I5I4L2kRifxJ2RyAAaeca) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY) | [Mi Burrito Sabanero](https://open.spotify.com/album/69Ez1GJ0OaOsMlNwj0nbPp) | 3:10 | 2022-11-25 | 2023-12-26 |
 | [Navidad En Mi Rancho](https://open.spotify.com/track/58poRvBpaSao6M24ZItrMq) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Momentos Inolvidables](https://open.spotify.com/album/4j52g8PEdpDLzznzt3lGUO) | 3:59 | 2022-11-25 |  |
 | [Navidad Navidad](https://open.spotify.com/track/6F12TIRr8vhHY1kIq8JB8h) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY) | [Navidad Navidad](https://open.spotify.com/album/3gShHWa2czJY8mtv0QEXlg) | 2:31 | 2022-11-25 | 2023-11-22 |
 | [Navidad Para Todos](https://open.spotify.com/track/1t7WzMMEHN7r2mhh4hD6RM) | [Los Fiero](https://open.spotify.com/artist/6xopyXxEho7mi9lThOI0bW) | [Navidad Para Todos](https://open.spotify.com/album/5Y2JN7UDIZxUNFUJzxP7i3) | 2:48 | 2022-12-22 | 2023-11-22 |

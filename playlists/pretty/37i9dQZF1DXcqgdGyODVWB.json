@@ -1,12 +1,12 @@
 {
   "description": "Cumbia Norte\u00f1a y Norte\u00f1o Sax para las vibras de verano.",
-  "num_followers": 14211,
+  "num_followers": 14264,
   "original_name": "Norte\u00f1o Pa' La Fiesta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGU4MmJmNGJjN2M3ZTJjZmRiYzc2NDczNWIwMGRkN2JhM2MyMTQy",
+  "snapshot_id": "MCxjMDBjNTRjMmRjZjI5ZTY5MmQyZjIwYWM5YTAyOThjM2FlMzllMjYz",
   "tracks": [
     {
       "added_at": "2023-12-07 01:18:03",
@@ -143,26 +143,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "un x100to",
-        "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 194563,
-      "name": "un x100to",
-      "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "DESVELADO",
         "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
       },
@@ -219,6 +199,26 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
+        "name": "un x100to",
+        "url": "https://open.spotify.com/album/7aGzSSUD8S6IhPCsZSiuMT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 194563,
+      "name": "un x100to",
+      "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
         "name": "Vuelvo Contigo",
         "url": "https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU"
       },
@@ -231,22 +231,6 @@
       "duration_ms": 161493,
       "name": "A M\u00ed, \u00bfQu\u00e9 Me Qued\u00f3?",
       "url": "https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 193816,
-      "name": "NO SE VA - EN VIVO",
-      "url": "https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -331,18 +315,18 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Underground",
-        "url": "https://open.spotify.com/album/0webdnEw8ZfPGn4gQpN1g0"
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT"
       },
       "artists": [
         {
-          "name": "La Zenda Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 190258,
-      "name": "En Silencio",
-      "url": "https://open.spotify.com/track/3DR6MSiWnmppbRWWrGsarE"
+      "duration_ms": 193816,
+      "name": "NO SE VA - EN VIVO",
+      "url": "https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -363,18 +347,34 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW"
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/0webdnEw8ZfPGn4gQpN1g0"
       },
       "artists": [
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
         }
       ],
-      "duration_ms": 175471,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS"
+      "duration_ms": 190258,
+      "name": "En Silencio",
+      "url": "https://open.spotify.com/track/3DR6MSiWnmppbRWWrGsarE"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "El Botecito",
+        "url": "https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos Del Pueblo",
+          "url": "https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ"
+        }
+      ],
+      "duration_ms": 150360,
+      "name": "El Botecito",
+      "url": "https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -391,6 +391,22 @@
       "duration_ms": 174160,
       "name": "El Tucanazo",
       "url": "https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 175471,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -431,22 +447,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "El Botecito",
-        "url": "https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos Del Pueblo",
-          "url": "https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ"
-        }
-      ],
-      "duration_ms": 150360,
-      "name": "El Botecito",
-      "url": "https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "En Las Buenas Y En Las Malas",
         "url": "https://open.spotify.com/album/0UUt2tlrb16UMupr6bF6TZ"
       },
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Chiquita Bonita",
-        "url": "https://open.spotify.com/album/3Opmczjz0JKKUrX9LFJ0FB"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 156757,
-      "name": "Chiquita Bonita",
-      "url": "https://open.spotify.com/track/2OE3DPyc9S0IBLhy9S3vcn"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "LE VA DOLER",
         "url": "https://open.spotify.com/album/5MjazAGZr2K4t22z3sqyy7"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 153645,
       "name": "LE VA DOLER",
       "url": "https://open.spotify.com/track/5dDN8h9dqErwnc88uyKq1b"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "Chiquita Bonita",
+        "url": "https://open.spotify.com/album/3Opmczjz0JKKUrX9LFJ0FB"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 156757,
+      "name": "Chiquita Bonita",
+      "url": "https://open.spotify.com/track/2OE3DPyc9S0IBLhy9S3vcn"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -547,22 +547,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Ojos Marrones",
-        "url": "https://open.spotify.com/album/3Jq1Yjivop6j5TLUMtjjGb"
-      },
-      "artists": [
-        {
-          "name": "La Pocima Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
-        }
-      ],
-      "duration_ms": 163866,
-      "name": "Ojos Marrones",
-      "url": "https://open.spotify.com/track/0xxJFCgRXDbRJeUlwb4m00"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "Fuentes de Ortiz",
         "url": "https://open.spotify.com/album/6fcrLDiVt4ukz1j7UBoHss"
       },
@@ -575,22 +559,6 @@
       "duration_ms": 231932,
       "name": "Fuentes de Ortiz",
       "url": "https://open.spotify.com/track/4vvxsS3eN7EGJf1Ejdbmz6"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
-        "name": "La Boca Les Callamos",
-        "url": "https://open.spotify.com/album/2kVbNXRSfZPLgyH4lhrhp9"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 164650,
-      "name": "La Boca Les Callamos",
-      "url": "https://open.spotify.com/track/6bXfM7zpnRP5qkyYWzHjWO"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -611,6 +579,22 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
+        "name": "Ojos Marrones",
+        "url": "https://open.spotify.com/album/3Jq1Yjivop6j5TLUMtjjGb"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "duration_ms": 163866,
+      "name": "Ojos Marrones",
+      "url": "https://open.spotify.com/track/0xxJFCgRXDbRJeUlwb4m00"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
         "name": "Huapango Amor Ranchero",
         "url": "https://open.spotify.com/album/40EvvWuBGio70bkcFLk6Fl"
       },
@@ -623,22 +607,6 @@
       "duration_ms": 199314,
       "name": "Huapango Amor Ranchero",
       "url": "https://open.spotify.com/track/4h8xnS3HBT19lpOvOfctS5"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
-        "name": "Que nos Pas\u00f3?",
-        "url": "https://open.spotify.com/album/4Xyck3G0D1Rw2jkYmhqF6E"
-      },
-      "artists": [
-        {
-          "name": "La Zenda Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
-        }
-      ],
-      "duration_ms": 159519,
-      "name": "San Lucas",
-      "url": "https://open.spotify.com/track/2lFhc7gAK3koo59b1Y0WpD"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -659,6 +627,22 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
+        "name": "Que nos Pas\u00f3?",
+        "url": "https://open.spotify.com/album/4Xyck3G0D1Rw2jkYmhqF6E"
+      },
+      "artists": [
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "duration_ms": 159519,
+      "name": "San Lucas",
+      "url": "https://open.spotify.com/track/2lFhc7gAK3koo59b1Y0WpD"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
         "name": "B\u00e1ilame",
         "url": "https://open.spotify.com/album/7AvxbMK6oSHcKp4GAvD0m1"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 179506,
       "name": "B\u00e1ilame",
       "url": "https://open.spotify.com/track/1qhycrSgnNJKjH6jRyL1HS"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "La Boca Les Callamos",
+        "url": "https://open.spotify.com/album/2kVbNXRSfZPLgyH4lhrhp9"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 164650,
+      "name": "La Boca Les Callamos",
+      "url": "https://open.spotify.com/track/6bXfM7zpnRP5qkyYWzHjWO"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
+        "name": "Cumbias Sin Control",
+        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 172706,
+      "name": "Tao, Tao",
+      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
         "name": "V\u00e1monos a Marte",
         "url": "https://open.spotify.com/album/2bWa8CqwRv3XsPOrW1UGb9"
       },
@@ -707,38 +723,6 @@
       "duration_ms": 191851,
       "name": "V\u00e1monos a Marte",
       "url": "https://open.spotify.com/track/6938ta8fOtvfFr54WCAy2C"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
-        "name": "No Paras de Hacerme Feliz",
-        "url": "https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 185296,
-      "name": "No Paras de Hacerme Feliz",
-      "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
-        "name": "Cumbias Sin Control",
-        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 172706,
-      "name": "Tao, Tao",
-      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -787,6 +771,22 @@
       "duration_ms": 208927,
       "name": "El Condor Pasa",
       "url": "https://open.spotify.com/track/00mUyQ38B8S51x3cQhU5ia"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "No Paras de Hacerme Feliz",
+        "url": "https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 185296,
+      "name": "No Paras de Hacerme Feliz",
+      "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "La Boca Les Callamos, Vol. 2",
-        "url": "https://open.spotify.com/album/7EesU3azH6jPG5osiPex59"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 204805,
-      "name": "Te Vas a Acordar de Mi",
-      "url": "https://open.spotify.com/track/5pdfnefsLnfBFo7gxHvqBK"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "Las Ag\u00fcitas",
         "url": "https://open.spotify.com/album/0AzqeBnrMhpNakIGdnRwKD"
       },
@@ -899,22 +883,6 @@
       "duration_ms": 176333,
       "name": "El Colesterol",
       "url": "https://open.spotify.com/track/2j8FWFwF1kvyGcdQwzMl3F"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
-        "name": "El Fen\u00f3meno",
-        "url": "https://open.spotify.com/album/2ha9AYHQfi9sA6sMyC5kgs"
-      },
-      "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        }
-      ],
-      "duration_ms": 162400,
-      "name": "As\u00ed Ya No",
-      "url": "https://open.spotify.com/track/0rc9jL9G6RQHtgvIDYUmLD"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -935,6 +903,38 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
+        "name": "La Boca Les Callamos, Vol. 2",
+        "url": "https://open.spotify.com/album/7EesU3azH6jPG5osiPex59"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 204805,
+      "name": "Te Vas a Acordar de Mi",
+      "url": "https://open.spotify.com/track/5pdfnefsLnfBFo7gxHvqBK"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "El Fen\u00f3meno",
+        "url": "https://open.spotify.com/album/2ha9AYHQfi9sA6sMyC5kgs"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 162400,
+      "name": "As\u00ed Ya No",
+      "url": "https://open.spotify.com/track/0rc9jL9G6RQHtgvIDYUmLD"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
         "name": "De Coraz\u00f3n Norte\u00f1o",
         "url": "https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb"
       },
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Esper\u00e1ndote",
-        "url": "https://open.spotify.com/album/1hRk2jBvzatrEbqFtZmUVo"
-      },
-      "artists": [
-        {
-          "name": "Grupo Legitimo",
-          "url": "https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm"
-        }
-      ],
-      "duration_ms": 169041,
-      "name": "Y Me Da Verg\u00fcenza",
-      "url": "https://open.spotify.com/track/6n7MYzA52JLIgkgx5RgN7b"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "Modo Inc\u00f3gnito",
         "url": "https://open.spotify.com/album/6alvJhuwlYz1j12wdWIOi3"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 250872,
       "name": "Modo Inc\u00f3gnito",
       "url": "https://open.spotify.com/track/7C3ajbwFKs2tThsJfTC9Hf"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "Esper\u00e1ndote",
+        "url": "https://open.spotify.com/album/1hRk2jBvzatrEbqFtZmUVo"
+      },
+      "artists": [
+        {
+          "name": "Grupo Legitimo",
+          "url": "https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm"
+        }
+      ],
+      "duration_ms": 169041,
+      "name": "Y Me Da Verg\u00fcenza",
+      "url": "https://open.spotify.com/track/6n7MYzA52JLIgkgx5RgN7b"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Me Rehuso",
-        "url": "https://open.spotify.com/album/2PoPSX8a3Nw2CUe3rha7DY"
+        "name": "A Bailar Huapangos",
+        "url": "https://open.spotify.com/album/3HwzYVu702BGntM846aF8T"
       },
       "artists": [
         {
-          "name": "La Pocima Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+          "name": "Los Igualados",
+          "url": "https://open.spotify.com/artist/7CZBDOxXPcGXM2IAoZHCmB"
         }
       ],
-      "duration_ms": 167131,
-      "name": "Me Rehuso",
-      "url": "https://open.spotify.com/track/03lyJ1k9n9Q513D4Yw7hya"
+      "duration_ms": 252000,
+      "name": "El P\u00e1vido N\u00e1vido",
+      "url": "https://open.spotify.com/track/0sTV1ucJEAj8M15YJQCLsR"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "A Bailar Huapangos",
-        "url": "https://open.spotify.com/album/3HwzYVu702BGntM846aF8T"
+        "name": "Me Rehuso",
+        "url": "https://open.spotify.com/album/2PoPSX8a3Nw2CUe3rha7DY"
       },
       "artists": [
         {
-          "name": "Los Igualados",
-          "url": "https://open.spotify.com/artist/7CZBDOxXPcGXM2IAoZHCmB"
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
         }
       ],
-      "duration_ms": 252000,
-      "name": "El P\u00e1vido N\u00e1vido",
-      "url": "https://open.spotify.com/track/0sTV1ucJEAj8M15YJQCLsR"
+      "duration_ms": 167131,
+      "name": "Me Rehuso",
+      "url": "https://open.spotify.com/track/03lyJ1k9n9Q513D4Yw7hya"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Comenzando Nuestra Historia",
-        "url": "https://open.spotify.com/album/7jUtCXSnAuhsFreydops6E"
-      },
-      "artists": [
-        {
-          "name": "Los Elegantes de Jerez",
-          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
-        }
-      ],
-      "duration_ms": 153648,
-      "name": "El Vaquero",
-      "url": "https://open.spotify.com/track/7HEISozQwYYU9JGUnQuxA7"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "Mi Trokita Cumbia",
         "url": "https://open.spotify.com/album/0tMsvi0IzNyRZFqF9qeFCz"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 134785,
       "name": "Mi Trokita Cumbia",
       "url": "https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "Comenzando Nuestra Historia",
+        "url": "https://open.spotify.com/album/7jUtCXSnAuhsFreydops6E"
+      },
+      "artists": [
+        {
+          "name": "Los Elegantes de Jerez",
+          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
+        }
+      ],
+      "duration_ms": 153648,
+      "name": "El Vaquero",
+      "url": "https://open.spotify.com/track/7HEISozQwYYU9JGUnQuxA7"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/5OCwrv3QDZ49BpNnhVDu49"
-      },
-      "artists": [
-        {
-          "name": "La Alianza Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw"
-        }
-      ],
-      "duration_ms": 205738,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/6Rx86i8mwD37V7LB2RJrIl"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "A La Caza",
         "url": "https://open.spotify.com/album/5B0wpHiMb1YSmiC4TGwbb4"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 173480,
       "name": "La \u00c9tica",
       "url": "https://open.spotify.com/track/5lme9vHMk1a85L6bEUvp6G"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/5OCwrv3QDZ49BpNnhVDu49"
+      },
+      "artists": [
+        {
+          "name": "La Alianza Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw"
+        }
+      ],
+      "duration_ms": 205738,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/6Rx86i8mwD37V7LB2RJrIl"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Voy a Conquistarte",
-        "url": "https://open.spotify.com/album/5tb09wCXY5tZr1Xz6Obul4"
-      },
-      "artists": [
-        {
-          "name": "Los Pescadores Del Rio Conchos",
-          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
-        }
-      ],
-      "duration_ms": 198520,
-      "name": "Voy a Conquistarte",
-      "url": "https://open.spotify.com/track/4wR1PmSCcxNMjP9koGWWd8"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "De Cuando Ac\u00e1",
         "url": "https://open.spotify.com/album/05RvA9U5fT5ojjzH91W5Ki"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 178474,
       "name": "De Cuando Ac\u00e1",
       "url": "https://open.spotify.com/track/2sZ9VjimnCq5JrLPR0GUui"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "Voy a Conquistarte",
+        "url": "https://open.spotify.com/album/5tb09wCXY5tZr1Xz6Obul4"
+      },
+      "artists": [
+        {
+          "name": "Los Pescadores Del Rio Conchos",
+          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
+        }
+      ],
+      "duration_ms": 198520,
+      "name": "Voy a Conquistarte",
+      "url": "https://open.spotify.com/track/4wR1PmSCcxNMjP9koGWWd8"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
-        "name": "Nunca Imagin\u00e9",
-        "url": "https://open.spotify.com/album/4rGVMonf0nBGkWWR8nnuEL"
-      },
-      "artists": [
-        {
-          "name": "Los Vendavales de Adan Melendez",
-          "url": "https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4"
-        }
-      ],
-      "duration_ms": 232680,
-      "name": "Quiero Saber de Ti",
-      "url": "https://open.spotify.com/track/5EYvfSYETZF8vBAuQV9OET"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
         "name": "De Parranda Lives Vol. 2/3",
         "url": "https://open.spotify.com/album/2qI4lRalMMAEAY7vOkd9Q1"
       },
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
+        "name": "Nunca Imagin\u00e9",
+        "url": "https://open.spotify.com/album/4rGVMonf0nBGkWWR8nnuEL"
+      },
+      "artists": [
+        {
+          "name": "Los Vendavales de Adan Melendez",
+          "url": "https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4"
+        }
+      ],
+      "duration_ms": 232680,
+      "name": "Quiero Saber de Ti",
+      "url": "https://open.spotify.com/track/5EYvfSYETZF8vBAuQV9OET"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
         "name": "Fuiste Mala",
         "url": "https://open.spotify.com/album/3ME3ProACErxI1b0Inwfbw"
       },
@@ -1595,42 +1595,6 @@
       "duration_ms": 204078,
       "name": "Fuiste Mala",
       "url": "https://open.spotify.com/track/3L4Uma47VZ9pxoRJ5A4P3o"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
-        "name": "Cortinas Guindas",
-        "url": "https://open.spotify.com/album/3xEmGMycmtgDG6wKfmYI6N"
-      },
-      "artists": [
-        {
-          "name": "Los Vendavales de Adan Melendez",
-          "url": "https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4"
-        },
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "Cortinas Guindas",
-      "url": "https://open.spotify.com/track/6mEkvLnD8knuzA9KCKVvEB"
-    },
-    {
-      "added_at": "2023-12-07 01:18:03",
-      "album": {
-        "name": "Aclarando la Mente",
-        "url": "https://open.spotify.com/album/1g0abe216Yaxv2GNMaaL6L"
-      },
-      "artists": [
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        }
-      ],
-      "duration_ms": 205156,
-      "name": "La Bailadora",
-      "url": "https://open.spotify.com/track/2l52pr1dzM4fHEhQUMqOAU"
     },
     {
       "added_at": "2023-12-07 01:18:03",
@@ -1651,6 +1615,22 @@
     {
       "added_at": "2023-12-07 01:18:03",
       "album": {
+        "name": "Aclarando la Mente",
+        "url": "https://open.spotify.com/album/1g0abe216Yaxv2GNMaaL6L"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        }
+      ],
+      "duration_ms": 205156,
+      "name": "La Bailadora",
+      "url": "https://open.spotify.com/track/2l52pr1dzM4fHEhQUMqOAU"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
         "name": "On The Road",
         "url": "https://open.spotify.com/album/1ix9kL2uDaBIf1HDhiSLhG"
       },
@@ -1667,6 +1647,22 @@
       "duration_ms": 172374,
       "name": "Por las Noches",
       "url": "https://open.spotify.com/track/0p8lGoIPQESNxb79UOt80R"
+    },
+    {
+      "added_at": "2023-12-07 01:18:03",
+      "album": {
+        "name": "Abrazame",
+        "url": "https://open.spotify.com/album/0HcDnNUTvLQEB07M9coTkz"
+      },
+      "artists": [
+        {
+          "name": "Los Garcia Bros.",
+          "url": "https://open.spotify.com/artist/4oI2xE94fPz2FbKvtrJEgD"
+        }
+      ],
+      "duration_ms": 189200,
+      "name": "Cha Cu Cha",
+      "url": "https://open.spotify.com/track/1QHSwIjIIfqMuu0DLQFVFr"
     }
   ],
   "unique_name": "Norte\u00f1o Pa' La Fiesta",

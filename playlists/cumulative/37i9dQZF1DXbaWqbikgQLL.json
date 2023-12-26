@@ -2596,7 +2596,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 204280,
       "name": "Todo Lo Encuentro En Ti",
       "url": "https://open.spotify.com/track/4cgq205eLudbUk73MkQdsn"
@@ -2874,6 +2874,24 @@
       "duration_ms": 273763,
       "name": "Virgen",
       "url": "https://open.spotify.com/track/1HWbpfmzt1YplLceHgirCv"
+    },
+    {
+      "album": {
+        "name": "La Suegra",
+        "url": "https://open.spotify.com/album/0tIsBHGWrYG0jw699RvDFa"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Meza",
+          "url": "https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244375,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/3Esfvvg5LxI9av1sUgYlDO"
     },
     {
       "album": {

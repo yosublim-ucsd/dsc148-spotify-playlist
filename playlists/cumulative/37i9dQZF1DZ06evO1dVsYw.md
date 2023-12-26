@@ -4,7 +4,7 @@
 
 > This is Racionais MC's\. The essential tracks, all in one playlist.
 
-38 songs - 3 hr 38 min
+40 songs - 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,13 +33,15 @@
 | [Mil Faces de um Homem Leal \(Marighella\)](https://open.spotify.com/track/5MYKqp6J8rstffAQBCE2nl) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Mil Faces de um Homem Leal \(Marighella\)](https://open.spotify.com/album/1hqniVJju4Nj9qGJR2ZeIR) | 9:58 | 2023-09-18 |  |
 | [Negro Drama](https://open.spotify.com/track/3ytXzEJFeVydFfmUhHvti8) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Nada Como um Dia Após o Outro Dia, Vol\. 1 & 2](https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn) | 6:51 | 2023-09-18 | 2023-12-24 |
 | [Negro Drama \- Ao Vivo](https://open.spotify.com/track/4hPY8Hyit0AqHTZZp4a861) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 5:54 | 2023-12-23 |  |
-| [O Mal e o Bem](https://open.spotify.com/track/76Nv2osNj3GmNnb1W8YWw5) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 4:54 | 2023-12-24 |  |
-| [Panico na Zona Sul](https://open.spotify.com/track/6uNitskNYppKgkaQQgjKmZ) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Raio X do Brasil](https://open.spotify.com/album/2QMZRtm35gtG3ZJs0yl9EM) | 4:38 | 2023-09-18 |  |
+| [O Mal e o Bem](https://open.spotify.com/track/76Nv2osNj3GmNnb1W8YWw5) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 4:54 | 2023-12-24 | 2023-12-26 |
+| [Panico na Zona Sul](https://open.spotify.com/track/6uNitskNYppKgkaQQgjKmZ) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Raio X do Brasil](https://open.spotify.com/album/2QMZRtm35gtG3ZJs0yl9EM) | 4:38 | 2023-09-18 | 2023-12-26 |
 | [Periferia / Sample: Fim De Semana No Parque](https://open.spotify.com/track/7hXQTTsfyeIiT7TB1ilBel) | [Helião](https://open.spotify.com/artist/4E18TGN1tOs6QTHAOupZgV), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn), [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr), [Mano Brown](https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ) | [Guerreiro, Guerreira](https://open.spotify.com/album/5CGbKL3fvKpdcU1i8VP3Zo) | 4:27 | 2023-09-18 |  |
 | [Preto Zica](https://open.spotify.com/track/1gD4sDZi8BaHunIj4zNF8B) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr), [DJ Cia](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL) | [Cores & Valores](https://open.spotify.com/album/1CYfSGAq6xQNF5V8CAeP7m) | 2:03 | 2023-09-18 |  |
+| [Pânico na Zona Sul \- Ao Vivo](https://open.spotify.com/track/7pD1bfCSOr5i5VN8k4OeR0) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 3:15 | 2023-12-25 |  |
 | [Racistas Otários](https://open.spotify.com/track/0zGuJbbRk2QV18xHxvHB1Z) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Holocausto Urbano](https://open.spotify.com/album/5xQx7NRZ0P9s03owKob8iP) | 5:45 | 2023-09-18 | 2023-11-11 |
 | [Somos o Que Somos](https://open.spotify.com/track/2u9TNvu3s7bvuzluO18B0P) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr), [DJ Cia](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL) | [Cores & Valores](https://open.spotify.com/album/1CYfSGAq6xQNF5V8CAeP7m) | 1:07 | 2023-09-18 |  |
-| [Tempos Difíceis](https://open.spotify.com/track/6ieCyW9A3EzOtXChxJwXsh) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Holocausto Urbano](https://open.spotify.com/album/5xQx7NRZ0P9s03owKob8iP) | 4:03 | 2023-09-18 |  |
+| [Tempos Difíceis](https://open.spotify.com/track/6ieCyW9A3EzOtXChxJwXsh) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Holocausto Urbano](https://open.spotify.com/album/5xQx7NRZ0P9s03owKob8iP) | 4:03 | 2023-09-18 | 2023-12-26 |
+| [Tempos Difíceis \- Ao Vivo](https://open.spotify.com/track/1Ldsc5zXVqOiUdKsDTq5HG) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 3:44 | 2023-12-25 |  |
 | [Tô Ouvindo Alguém Me Chamar](https://open.spotify.com/track/63piuNbKgyASwtlj3kq4ye) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Sobrevivendo no Inferno](https://open.spotify.com/album/1UzrzuOmZfBgXyS3pgKD10) | 11:12 | 2023-09-18 |  |
 | [Vida Loka, Pt\. 1](https://open.spotify.com/track/6m8AgjfI28ER6odzMxmHtR) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Nada Como um Dia Após o Outro Dia, Vol\. 1 & 2](https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn) | 5:03 | 2023-09-18 |  |
 | [Vida Loka, Pt\. 2](https://open.spotify.com/track/4nTrxp4aH0g2yLVPkFmljF) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Nada Como um Dia Após o Outro Dia, Vol\. 1 & 2](https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn) | 5:50 | 2023-09-18 |  |

@@ -2584,7 +2584,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 136124,
       "name": "Bejby",
       "url": "https://open.spotify.com/track/11oUseW6uGWlPDQ77M2GT1"
@@ -4750,7 +4750,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 242495,
       "name": "Christmas Lights",
       "url": "https://open.spotify.com/track/4fzyvSu73BhGvi96p2zwjL"
@@ -6836,7 +6836,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 164000,
       "name": "Dopamin",
       "url": "https://open.spotify.com/track/6AMZm12a1B2kpgN7qOA7Cy"
@@ -9708,7 +9708,7 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -12290,7 +12290,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 155933,
       "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
       "url": "https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa"
@@ -12846,7 +12846,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-27",
+      "date_removed": null,
       "duration_ms": 120693,
       "name": "Jingle Bells - Remastered 1999",
       "url": "https://open.spotify.com/track/4HEOgBHRCExyYVeTyrXsnL"
@@ -21045,6 +21045,24 @@
     },
     {
       "album": {
+        "name": "Podme bratia do Betlehema",
+        "url": "https://open.spotify.com/album/4ilWQnXrQLgdrjamOUAONJ"
+      },
+      "artists": [
+        {
+          "name": "Tublatanka",
+          "url": "https://open.spotify.com/artist/0C3z9wx7oGwZ6SuJhrvBKM"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252520,
+      "name": "Podme bratia do Betlehema",
+      "url": "https://open.spotify.com/track/33rWjlS98fiXLIqHu0EKQU"
+    },
+    {
+      "album": {
         "name": "PUNK HEART",
         "url": "https://open.spotify.com/album/0OBtf8V3mjXUxraPwteH3B"
       },
@@ -23504,7 +23522,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 149589,
       "name": "Saf\u00edr",
       "url": "https://open.spotify.com/track/1tpWtFdAuY9chjl5YhzsTP"
@@ -26398,7 +26416,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 155520,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/4WXX611x1aCtwcqVJgA3xb"
@@ -32034,6 +32052,24 @@
       "duration_ms": 144000,
       "name": "\u0160\u00edlen\u00fd",
       "url": "https://open.spotify.com/track/23Eonfmg2iwhn0NSbPOqjf"
+    },
+    {
+      "album": {
+        "name": "Koleda Viano\u010dn\u00e9 Piesne",
+        "url": "https://open.spotify.com/album/45kPPcR9P50sWuwwpwCcJb"
+      },
+      "artists": [
+        {
+          "name": "Kandr\u00e1\u010dovci",
+          "url": "https://open.spotify.com/artist/5lLpwQ6qv9uml76PIiRhxn"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180946,
+      "name": "\u0160\u0165astn\u00e9 Vianoce",
+      "url": "https://open.spotify.com/track/6XgeZZ2jzDcUyq1Y0BqPKF"
     },
     {
       "album": {

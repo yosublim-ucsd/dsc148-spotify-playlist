@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 
 > This is NOFX\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,324 likes - 47 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,341 likes - 47 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 | 46 | [I Gotta Pee](https://open.spotify.com/track/1T2LrvpmZ8q9e9LaHFQICn) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [45 or 46 Songs That Weren't Good Enough to Go on Our Other Records](https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn) | 0:32 |
 | 47 | [Instant Crassic](https://open.spotify.com/track/6VS4sE4kaGhZ9MMb52gwo2) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Wolves in Wolves' Clothing](https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P) | 0:34 |
 
-Snapshot ID: `MjgzOTAyOTIsMDAwMDAwMDA0ZTM1NTE3OGE5YTk1NGEwZmExMDg4M2NlOWY1NGVhOQ==`
+Snapshot ID: `MjgzOTE3MzUsMDAwMDAwMDAxNmE0YThkYzM3MWMzMTU0MWFkMWUwNGE3MGRhZTk2Mw==`

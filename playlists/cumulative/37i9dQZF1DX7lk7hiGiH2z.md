@@ -4,7 +4,7 @@
 
 > Zeit für Plätzchen backen, Schlittschuhlaufen und Schneemann bauen 🍪⛸️☃️
 
-270 songs - 12 hr 49 min
+271 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,7 @@
 | [Was zieh' ich an?](https://open.spotify.com/track/2mB1Bd0hw1b5cJr3AfvmRH) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Rolfs neue Schulweg\-Hitparade](https://open.spotify.com/album/09au3ViAkjIjJA4dEjIJTp) | 3:00 | 2023-08-31 | 2023-10-17 |
 | [Weihnachten im Zoo](https://open.spotify.com/track/3HELc2Q8PkHC4pwYZY8wYn) | [Benjamin Blümchen](https://open.spotify.com/artist/1l6d0RIxTL3JytlLGvWzYe) | [Folge 74 \- Benjamin Blümchen singt Weihnachtslieder](https://open.spotify.com/album/6AVz3QZh2M5qneXF3MyNua) | 3:15 | 2023-11-14 |  |
 | [Weihnachtskeksrakete](https://open.spotify.com/track/7hyisV0kr3uhzNcgJef3aO) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Weihnachtskeksrakete](https://open.spotify.com/album/34ra71Y7hPwBvbwe1kse7o) | 2:15 | 2023-11-14 |  |
-| [Weihnachtssong \(Santa Claus Rap\)](https://open.spotify.com/track/19FbU9S8eTXqtwiBRlOJIH) | [Kinders](https://open.spotify.com/artist/63MX07R69cmkANXsTcgpwN) | [Weihnachtssong \(Santa Claus Rap\)](https://open.spotify.com/album/6gIBEoHrbndw5WRV0uwGy1) | 2:19 | 2023-12-08 |  |
+| [Weihnachtssong \(Santa Claus Rap\)](https://open.spotify.com/track/19FbU9S8eTXqtwiBRlOJIH) | [Kinders](https://open.spotify.com/artist/63MX07R69cmkANXsTcgpwN) | [Weihnachtssong \(Santa Claus Rap\)](https://open.spotify.com/album/6gIBEoHrbndw5WRV0uwGy1) | 2:19 | 2023-12-08 | 2023-12-26 |
 | [Weihnachtszeit, Kinderzeit](https://open.spotify.com/track/0IHclLb62TS7CauAJJ4SU5) | [Wise Guys](https://open.spotify.com/artist/11YTrgsi6VjRCkExQBY13k), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 4 \- Winterzeit](https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl) | 2:32 | 2023-11-14 |  |
 | [Wenn der Herbst für dich singt](https://open.spotify.com/track/5EvDPBe18z0G5xqcIIdGYW) | [Natalie Rohrer](https://open.spotify.com/artist/16yPiZ50vlvW4hAS00ZvgF) | [Kinder dieser Welt](https://open.spotify.com/album/0VYUUIZ0sDH3BzJqUdvFi1) | 2:13 | 2023-08-31 | 2023-10-17 |
 | [Wenn der Sommer kommt](https://open.spotify.com/track/5Nhu3X0j2OLbYHLWWKfVGA) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Urlaubs\- und Sommerlieder](https://open.spotify.com/album/40g5LCz4YfxQof3b9JqCI6) | 3:06 | 2023-06-28 | 2023-09-01 |
@@ -263,6 +263,7 @@
 | [Willst du einen Schneemann bauen?](https://open.spotify.com/track/5xkRXWqt8MAXh6wlhE3ODp) | [Valeska Gerhart](https://open.spotify.com/artist/53nxqlgr2w5vYE4n0v5Z59), [Magdalena Haier](https://open.spotify.com/artist/0IxXVC6o9wfMF0mEdjJOrv), [Pia Allgaier](https://open.spotify.com/artist/72mHHRrqbN20uxmb99iDJW) | [Die Eiskönigin Völlig Unverfroren \(Deutscher Original Film Soundtrack\)](https://open.spotify.com/album/3E20g5xQv0OcWTeRTTb91N) | 3:27 | 2023-11-14 |  |
 | [Winter ist wie Sommer nur in kalt](https://open.spotify.com/track/4A9BPyAHg5ZwgXAi7EpGe7) | [Die Liga der gewöhnlichen Gentlemen](https://open.spotify.com/artist/7xYldHloSckuP93hORkq8v) | [Unter meinem Bett\. Das Weihnachtsalbum](https://open.spotify.com/album/3AQbRqNj7LdKICSmwIrDQu) | 2:27 | 2023-11-14 |  |
 | [Winter Wunderland](https://open.spotify.com/track/0QFXMMvONbv8W9XARH4Oxb) | [Yvonne Catterfeld](https://open.spotify.com/artist/5bKy7Tu2BNmfoFnDC5mncZ), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 4 \- Winterzeit](https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl) | 2:48 | 2023-11-14 | 2023-12-23 |
+| [Winter Wunderland](https://open.spotify.com/track/1WWWWMY9W4nWnEInjUXKkv) | [Yvonne Catterfeld](https://open.spotify.com/artist/5bKy7Tu2BNmfoFnDC5mncZ), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen Winterlieder](https://open.spotify.com/album/0wLvHZNHXf35ysGUMmlGaz) | 2:48 | 2023-12-08 |  |
 | [Winterzeit](https://open.spotify.com/track/1FMOeO9KbVRD6vlkGWB4Jn) | [Lichterkinder](https://open.spotify.com/artist/5poyNTy0YyDwAMSYBJ7zgv) | [Weihnachts\- und Winterlieder](https://open.spotify.com/album/0pKBO2kSYKw8WBCLkfHOJn) | 3:31 | 2023-11-22 |  |
 | [Winterzeit](https://open.spotify.com/track/6zJviKdcuwQGdSKUVwQDIV) | [Nilsen](https://open.spotify.com/artist/13x0bektBEknCM276OqYMn) | [Das grüne Album](https://open.spotify.com/album/5u87MPxd1JVZ5853FJPn29) | 2:02 | 2023-12-08 |  |
 | [Wir halten die Laternen](https://open.spotify.com/track/4BSk3N9P8FKiZzWKlBSP4M) | [Schnabi Schnabel](https://open.spotify.com/artist/3GxW2mmzRySZHcA0RUk8d8), [Kinderlieder Gang](https://open.spotify.com/artist/2MRBYMwOyQql8G4BngW89E) | [Kinderlieder \- Herbst \(2022\)](https://open.spotify.com/album/08D9Wpnkuq1Obo7ZMhGCe9) | 3:14 | 2023-11-05 | 2023-11-16 |

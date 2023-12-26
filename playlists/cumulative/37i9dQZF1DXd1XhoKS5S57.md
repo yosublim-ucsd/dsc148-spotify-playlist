@@ -4,7 +4,7 @@
 
 > Retour en arrière avec les meilleurs titres de l'année 2004\. Photo : Usher
 
-62 songs - 4 hr 1 min
+63 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,13 +18,14 @@
 | [Dip It Low](https://open.spotify.com/track/4L55p6txv9vuCWhpNnY6eY) | [Christina Milian](https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw) | [Dip It Low](https://open.spotify.com/album/3iJxV52syDyKSOoS6aC3cE) | 3:21 | 2020-10-27 | 2023-12-24 |
 | [Don't Tell Me](https://open.spotify.com/track/0dEQaNYfp5G7Sflek2Qnde) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Under My Skin](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) | 3:22 | 2020-10-27 |  |
 | [Dragostea Din Tei](https://open.spotify.com/track/4nnHlGaBwJHb1rBetqj0Yl) | [O\-Zone](https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r) | [DiscO\-Zone](https://open.spotify.com/album/5Tz9AVbzCljIpaOs8TnJmt) | 3:33 | 2020-10-27 | 2023-10-24 |
+| [Dragostea Din Tei \- Original Romanian Version](https://open.spotify.com/track/6YkHLUPBUttfwepwFgNNGX) | [O\-Zone](https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r) | [DiscO\-Zone](https://open.spotify.com/album/6mTzM3bE0LkkVLAgdBWHYu) | 3:34 | 2020-10-27 |  |
 | [Everybody's Fool](https://open.spotify.com/track/0tWEB6BxbI48XN79QE1JbT) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:15 | 2020-10-27 |  |
 | [Everytime](https://open.spotify.com/track/0dRhSF9LV0HR8Jwd3MMMKJ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:50 | 2020-10-27 |  |
 | [Feeling This](https://open.spotify.com/track/26AYR77170U49cMcXB7aRV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 2:52 | 2020-10-27 |  |
 | [Femme Like U](https://open.spotify.com/track/4iVnfuAmwJNAGsiHz8Po6Y) | [K.Maro](https://open.spotify.com/artist/1a2yfRvULXWkUSvxJbkw75) | [La Good Life](https://open.spotify.com/album/2eGMZPfsXT0YNlc1wOJVJJ) | 4:08 | 2020-10-27 |  |
 | [Flamme \- Radio Edit](https://open.spotify.com/track/2UtoiQC20KmUEEyW4gg5eo) | [Slaï](https://open.spotify.com/artist/7y4UMLXo4Gz5NQbXE7v2Kt) | [Florilège](https://open.spotify.com/album/2lopM9cqpqzJoG1gpYOlQf) | 3:37 | 2020-10-27 |  |
 | [Fuck It \(I Don't Want You Back\)](https://open.spotify.com/track/1p5kC161fWMA2QlwV3Vi4W) | [Eamon](https://open.spotify.com/artist/1y20PpXw0yeuJ1avCD0Ob9) | [I Don't Want You Back](https://open.spotify.com/album/1wpdvR1qooZm5UbSohCuOx) | 3:45 | 2020-10-27 |  |
-| [Glorious](https://open.spotify.com/track/3Mx6U6CpcvLj4fHYneg5RB) | [Andreas Johnson](https://open.spotify.com/artist/5CKhp4ovgbSd7PdVIza7cC) | [Liebling \(France version\)](https://open.spotify.com/album/5JP2ldSSJOjHsLmiKNZmsP) | 3:27 | 2020-10-27 |  |
+| [Glorious](https://open.spotify.com/track/3Mx6U6CpcvLj4fHYneg5RB) | [Andreas Johnson](https://open.spotify.com/artist/5CKhp4ovgbSd7PdVIza7cC) | [Liebling \(France version\)](https://open.spotify.com/album/5JP2ldSSJOjHsLmiKNZmsP) | 3:27 | 2020-10-27 | 2023-12-26 |
 | [Hey Mama](https://open.spotify.com/track/3KDCYRQl4O681lkYI2sCqE) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Elephunk](https://open.spotify.com/album/3eqkfT9f1XyM8GME1gVDrD) | 3:34 | 2020-10-27 |  |
 | [Hey Ya!](https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:55 | 2020-10-27 |  |
 | [I Don't Wanna Know \(feat\. Enya & P\. Diddy\) \- 2016 Remaster](https://open.spotify.com/track/2yr2HnFYl7XvqJk4fXoQBt) | [Mario Winans](https://open.spotify.com/artist/4BIQA9vRkqXEnA2twmq7mU), [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Bad Boy 20th Anniversary Box Set Edition](https://open.spotify.com/album/52TqKxbJkOBsbjKxlKgLwu) | 4:17 | 2020-10-27 |  |

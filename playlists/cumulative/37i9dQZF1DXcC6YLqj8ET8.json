@@ -584,7 +584,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 441615,
       "name": "Hopeless",
       "url": "https://open.spotify.com/track/1y8M13DKjsyJtyuQadwQmV"
@@ -700,6 +700,24 @@
       "duration_ms": 224437,
       "name": "Katyar",
       "url": "https://open.spotify.com/track/3CrDFdN7MKM3Mx9T3znBts"
+    },
+    {
+      "album": {
+        "name": "Katyar",
+        "url": "https://open.spotify.com/album/17VbZf0dZZdcRA9YlNgVM5"
+      },
+      "artists": [
+        {
+          "name": "MVGMVR",
+          "url": "https://open.spotify.com/artist/4awPepWH6Qom61mJvUCe3u"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224437,
+      "name": "Katyar",
+      "url": "https://open.spotify.com/track/6Pb565EFNrMdqjlw62gKUM"
     },
     {
       "album": {
@@ -1611,6 +1629,24 @@
     },
     {
       "album": {
+        "name": "In Peace",
+        "url": "https://open.spotify.com/album/5YjWQeUmO2KIFI9zAwPbvK"
+      },
+      "artists": [
+        {
+          "name": "Dav the Ninja",
+          "url": "https://open.spotify.com/artist/0Ddd55lzvz41th2dA7Limg"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "Tribe",
+      "url": "https://open.spotify.com/track/6WPF6CtkciFI5O33xTpnkO"
+    },
+    {
+      "album": {
         "name": "Unity",
         "url": "https://open.spotify.com/album/62S1qNPlGk3XgbeeTFckkN"
       },
@@ -1670,7 +1706,7 @@
       ],
       "date_added": "2021-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 201600,
       "name": "Ya Bnayya - Bad Royale Remix",
       "url": "https://open.spotify.com/track/54w6HSR0vBATL3XLN6KW7K"

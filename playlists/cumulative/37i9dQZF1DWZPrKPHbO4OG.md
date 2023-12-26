@@ -4,7 +4,7 @@
 
 > Your ultimate gym playlist featuring upbeat Marathi tracks.
 
-43 songs - 2 hr 56 min
+44 songs - 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Punyachi Maina](https://open.spotify.com/track/2BE79QOSOlZm8VvgzXAS9x) | [Dj Abhijeet](https://open.spotify.com/artist/0bYa83XUHjzRzRiQwyLgoH) | [Punyachi Maina](https://open.spotify.com/album/2e5dU4YpgiWFRtNT4c3x3i) | 1:36 | 2023-07-04 |  |
 | [Punyachi Maina Remix](https://open.spotify.com/track/1bgXOWn3IAcVCpmfDQpH31) | [Dj Lucky Yash Nsk](https://open.spotify.com/artist/0angvTZFyh8eFS3RBcx4yY) | [Punyachi Maina Remix](https://open.spotify.com/album/19TXN7lhxkhbJDJYHbVPOK) | 2:45 | 2023-07-04 |  |
 | [Raja Aala](https://open.spotify.com/track/5TPlJn8nfTT6bd9FwGgof8) | [Avadhoot Gupte](https://open.spotify.com/artist/6mxY3ekITToaEK2XGtaock), [Devdutta Manisha Baji](https://open.spotify.com/artist/2JWAqfpZpVmQ5nfYHVFn76) | [Pawankhind](https://open.spotify.com/album/3PSsr8LdIZTDoXSoHIj6em) | 4:20 | 2023-07-04 |  |
-| [Shantabai DJ](https://open.spotify.com/track/0UPVbrPxCWR41qk9uG75gJ) | [Sanjay Londe](https://open.spotify.com/artist/0CNmmi4J9uBFSRjDxsQNOQ) | [Shantabai](https://open.spotify.com/album/50vy5OvF9LLor9cAHW5wM1) | 2:59 | 2023-07-04 |  |
+| [Shantabai DJ](https://open.spotify.com/track/0M5gBsIFBf6rPPmJqVmKhn) | [Sanjay Londe](https://open.spotify.com/artist/0CNmmi4J9uBFSRjDxsQNOQ) | [Shantabai](https://open.spotify.com/album/6ooQ4tSG8uoUB1x7cXsxBs) | 2:59 | 2023-12-20 |  |
+| [Shantabai DJ](https://open.spotify.com/track/0UPVbrPxCWR41qk9uG75gJ) | [Sanjay Londe](https://open.spotify.com/artist/0CNmmi4J9uBFSRjDxsQNOQ) | [Shantabai](https://open.spotify.com/album/50vy5OvF9LLor9cAHW5wM1) | 2:59 | 2023-07-04 | 2023-12-26 |
 | [Shitti Wajali Gaadi Sutali](https://open.spotify.com/track/44FmJZhQSghzLkKd2E5kMy) | [Anand Shinde](https://open.spotify.com/artist/7vJyQMmionozMmzgDkyqUd) | [Rege \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0i1f1m6uGlS7LoL2WtOCEP) | 5:07 | 2023-07-04 |  |
 | [Srivalli Marathi Version](https://open.spotify.com/track/23qDbPM8PDK5K5wJjvu8rA) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Raagini Kavathekar](https://open.spotify.com/artist/2a9YrIjX4ApduWiuIO4ijV) | [Pushpa \- The Rise](https://open.spotify.com/album/7KjTtIqgrorJnFCbG5PxhQ) | 3:18 | 2023-07-04 |  |
 | [Ved Lavlay](https://open.spotify.com/track/7tVqxbTLELBul4nLg08mMn) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Ved \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Zs7pmwTEUYubRl75dvoSR) | 3:51 | 2023-07-04 |  |

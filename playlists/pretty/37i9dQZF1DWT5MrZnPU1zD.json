@@ -1,12 +1,12 @@
 {
   "description": "Pass the sticks & press play. ",
-  "num_followers": 1679116,
+  "num_followers": 1679120,
   "original_name": "Hip Hop Controller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmY2NGQxNTI4NDQ3OTE0OTUxNmMzNTI2Mjk1YzY2ZDQzODMyYjdi",
+  "snapshot_id": "MCw1OTE1NDY4NTRlN2VkOGJiNWVkZDM1ZjMzOWFkMDBlNDliMWJmNjE4",
   "tracks": [
     {
       "added_at": "2023-12-01 05:00:00",
@@ -303,6 +303,26 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "HVN ON EARTH",
+        "url": "https://open.spotify.com/album/5bHwBaNZKESVBhqCvs4Ify"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 188870,
+      "name": "HVN ON EARTH (with Kodak Black)",
+      "url": "https://open.spotify.com/track/4367dXCt02KMgELPisJ2D4"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "bigger th\u00ebn everything",
         "url": "https://open.spotify.com/album/5bVIz2j5nOioetMjM0T4F9"
       },
@@ -355,42 +375,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "HVN ON EARTH",
-        "url": "https://open.spotify.com/album/5bHwBaNZKESVBhqCvs4Ify"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 188870,
-      "name": "HVN ON EARTH (with Kodak Black)",
-      "url": "https://open.spotify.com/track/4367dXCt02KMgELPisJ2D4"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/5ebkIuetHLio3kC1E9CxmU"
-      },
-      "artists": [
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "SOLO STEPPIN CRETE BOY",
-      "url": "https://open.spotify.com/track/7CIvyuVoWcY0LgUYa1aR5J"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Lonestar Luchador",
         "url": "https://open.spotify.com/album/1tX0d5OqKOCkif6yja3TpK"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 185736,
       "name": "Hit List (with BigXthaPlug & Big Yavo)",
       "url": "https://open.spotify.com/track/6tiYQ631gOeBb2jCtaIs0R"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/5ebkIuetHLio3kC1E9CxmU"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "SOLO STEPPIN CRETE BOY",
+      "url": "https://open.spotify.com/track/7CIvyuVoWcY0LgUYa1aR5J"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "FAN",
-        "url": "https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 156306,
-      "name": "FAN",
-      "url": "https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "MVP (feat. G-Eazy)",
         "url": "https://open.spotify.com/album/4pyhYSKl4jBqkemyG94DSG"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Dead or Alive",
-        "url": "https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF"
+        "name": "FAN",
+        "url": "https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK"
       },
       "artists": [
         {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 122487,
-      "name": "Dead or Alive",
-      "url": "https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH"
+      "duration_ms": 156306,
+      "name": "FAN",
+      "url": "https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -731,6 +715,22 @@
       "duration_ms": 146966,
       "name": "Bla Bla (feat. Fivio Foreign)",
       "url": "https://open.spotify.com/track/1xHcIJHIHwr2PUyTmFTWTy"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Dead or Alive",
+        "url": "https://open.spotify.com/album/4g8No0TDtB80QveIDeUTjF"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 122487,
+      "name": "Dead or Alive",
+      "url": "https://open.spotify.com/track/25iB3wmUOdPF4mj9lNjbtH"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -883,6 +883,26 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Blood Moon (feat. Lil Uzi Vert)",
+        "url": "https://open.spotify.com/album/4VubFdZQLlos3I0LbB3qgt"
+      },
+      "artists": [
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Blood Moon (feat. Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/1OaAlsbTJugFODycEgIDUj"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
         "url": "https://open.spotify.com/album/3PqUw83PcGYn3g8pTJod9y"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 229035,
       "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
       "url": "https://open.spotify.com/track/5maOp2FZomEiboxhl9yh2z"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Blood Moon (feat. Lil Uzi Vert)",
-        "url": "https://open.spotify.com/album/4VubFdZQLlos3I0LbB3qgt"
-      },
-      "artists": [
-        {
-          "name": "Mike WiLL Made-It",
-          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Blood Moon (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/1OaAlsbTJugFODycEgIDUj"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Murder & Millions",
+        "url": "https://open.spotify.com/album/5Rkqhaapzmtrpv09cdAHWg"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 150866,
+      "name": "Murder & Millions",
+      "url": "https://open.spotify.com/track/27RWVlCet2iZlGciBETorw"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Walk",
         "url": "https://open.spotify.com/album/7oaVAnz4knG0hU6oRJGcC9"
       },
@@ -1263,38 +1279,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Murder & Millions",
-        "url": "https://open.spotify.com/album/5Rkqhaapzmtrpv09cdAHWg"
-      },
-      "artists": [
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 150866,
-      "name": "Murder & Millions",
-      "url": "https://open.spotify.com/track/27RWVlCet2iZlGciBETorw"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Honeybun",
-        "url": "https://open.spotify.com/album/6BJLFkMbbpa9yTjsEb9a7h"
-      },
-      "artists": [
-        {
-          "name": "LeoStayTrill",
-          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
-        }
-      ],
-      "duration_ms": 128195,
-      "name": "Honeybun",
-      "url": "https://open.spotify.com/track/2fM2PrwFBbaiK88Nw6CjdK"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Frozone",
         "url": "https://open.spotify.com/album/2HZ1eEAW85k2vfpqvDoquR"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 184624,
       "name": "Bulletproof (feat. NLE Choppa)",
       "url": "https://open.spotify.com/track/7gVo4I0bZPEGwgdF3SNkK3"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Honeybun",
+        "url": "https://open.spotify.com/album/6BJLFkMbbpa9yTjsEb9a7h"
+      },
+      "artists": [
+        {
+          "name": "LeoStayTrill",
+          "url": "https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX"
+        }
+      ],
+      "duration_ms": 128195,
+      "name": "Honeybun",
+      "url": "https://open.spotify.com/track/2fM2PrwFBbaiK88Nw6CjdK"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Sideways",
-        "url": "https://open.spotify.com/album/0ylJgtYMwhgSeiz7bgtWr1"
-      },
-      "artists": [
-        {
-          "name": "Fredo Bang",
-          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
-        },
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        }
-      ],
-      "duration_ms": 120105,
-      "name": "Sideways (with NLE Choppa)",
-      "url": "https://open.spotify.com/track/3dX2DItyqF78yNhPJZakmM"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Okay Bet Pt. 2 (feat. Skilla Baby)",
         "url": "https://open.spotify.com/album/48FhsqFEXciRzwi9cGp8Gz"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 159549,
       "name": "Okay Bet Pt. 2 (feat. Skilla Baby)",
       "url": "https://open.spotify.com/track/5ULeTthsfnh8av4MiKWHga"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Sideways",
+        "url": "https://open.spotify.com/album/0ylJgtYMwhgSeiz7bgtWr1"
+      },
+      "artists": [
+        {
+          "name": "Fredo Bang",
+          "url": "https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        }
+      ],
+      "duration_ms": 120105,
+      "name": "Sideways (with NLE Choppa)",
+      "url": "https://open.spotify.com/track/3dX2DItyqF78yNhPJZakmM"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "ROTY",
+        "url": "https://open.spotify.com/album/1bj8fRMTZww5rRfP7jsnvi"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "duration_ms": 129832,
+      "name": "Rapper of the Year",
+      "url": "https://open.spotify.com/track/6LlqdoSjvt0ANFOTIX5cn5"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Pacer",
         "url": "https://open.spotify.com/album/0C4bcDFbb7cQf2W3WH6RVm"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 203851,
       "name": "Everything Dead",
       "url": "https://open.spotify.com/track/3nL3bZOWuFBbH4KKaWW1Vq"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "ROTY",
-        "url": "https://open.spotify.com/album/1bj8fRMTZww5rRfP7jsnvi"
-      },
-      "artists": [
-        {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
-        }
-      ],
-      "duration_ms": 129832,
-      "name": "Rapper of the Year",
-      "url": "https://open.spotify.com/track/6LlqdoSjvt0ANFOTIX5cn5"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1699,26 +1699,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "BUTTERFLY COUPE feat. Quavo (PART 2)",
-        "url": "https://open.spotify.com/album/7dlgyGTSBR0SyN7tMo3R43"
-      },
-      "artists": [
-        {
-          "name": "Kalan.FrFr",
-          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 164848,
-      "name": "BUTTERFLY COUPE (feat. Quavo) - PART 2",
-      "url": "https://open.spotify.com/track/6fxgWsJWzQWKq2YoAJNLey"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Chops on the Blade",
         "url": "https://open.spotify.com/album/1W8rO7SBVNsjB2v197I0bk"
       },
@@ -1751,6 +1731,42 @@
       "duration_ms": 153525,
       "name": "Express Myself",
       "url": "https://open.spotify.com/track/6gMSYXkEiXzHLK09ykXGac"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Brand New Blues",
+        "url": "https://open.spotify.com/album/5fSbf5rRr5VO5zyWnoBPk9"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "duration_ms": 114036,
+      "name": "Brand New Blues",
+      "url": "https://open.spotify.com/track/6dGN5ani0pYe40kfS3wNcx"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "BUTTERFLY COUPE feat. Quavo (PART 2)",
+        "url": "https://open.spotify.com/album/7dlgyGTSBR0SyN7tMo3R43"
+      },
+      "artists": [
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 164848,
+      "name": "BUTTERFLY COUPE (feat. Quavo) - PART 2",
+      "url": "https://open.spotify.com/track/6fxgWsJWzQWKq2YoAJNLey"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1795,22 +1811,6 @@
       "duration_ms": 158549,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/7bPY7SRKFhkQwsjfJUyH5m"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Brand New Blues",
-        "url": "https://open.spotify.com/album/5fSbf5rRr5VO5zyWnoBPk9"
-      },
-      "artists": [
-        {
-          "name": "Luh Tyler",
-          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
-        }
-      ],
-      "duration_ms": 114036,
-      "name": "Brand New Blues",
-      "url": "https://open.spotify.com/track/6dGN5ani0pYe40kfS3wNcx"
     },
     {
       "added_at": "2023-12-01 05:00:00",

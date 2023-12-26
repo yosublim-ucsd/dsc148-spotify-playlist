@@ -1,12 +1,12 @@
 {
   "description": "Hop in.",
-  "num_followers": 1061417,
+  "num_followers": 1061525,
   "original_name": "Indie Rock Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTBkY2VlNzEyYjk2MzgxNmY3ZTJlYmZmYWEzMDVkYjNjZDk5M2Nk",
+  "snapshot_id": "MCwwMjE3YzBjN2YzMjNkNmE4NDg2ZjI4MzJkMjU3NTNhYWYwMmQyYTI4",
   "tracks": [
     {
       "added_at": "2023-12-18 19:12:30",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
-        "name": "White Blood Cells",
-        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 140178,
-      "name": "We're Going to Be Friends",
-      "url": "https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ"
-    },
-    {
-      "added_at": "2023-12-18 19:12:30",
-      "album": {
         "name": "Robbers & Cowards",
         "url": "https://open.spotify.com/album/1LTbo93CjLo48yNP8Ysaz5"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 218786,
       "name": "Hang Me Up To Dry",
       "url": "https://open.spotify.com/track/3IXRdLsQib8m0hBbQpe7T8"
+    },
+    {
+      "added_at": "2023-12-18 19:12:30",
+      "album": {
+        "name": "The Suburbs (Deluxe)",
+        "url": "https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 315026,
+      "name": "The Suburbs",
+      "url": "https://open.spotify.com/track/5iItYl3Q6wCnKVfpK1uNVf"
     },
     {
       "added_at": "2023-12-18 19:12:30",
@@ -771,18 +771,18 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
-        "name": "The Suburbs (Deluxe)",
-        "url": "https://open.spotify.com/album/0gkUcpkyW2SXN49Yktkf6F"
+        "name": "White Blood Cells",
+        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
       },
       "artists": [
         {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
         }
       ],
-      "duration_ms": 315026,
-      "name": "The Suburbs",
-      "url": "https://open.spotify.com/track/5iItYl3Q6wCnKVfpK1uNVf"
+      "duration_ms": 140178,
+      "name": "We're Going to Be Friends",
+      "url": "https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ"
     },
     {
       "added_at": "2023-12-18 19:12:30",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
+        "name": "Funeral",
+        "url": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 335333,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/6Hmj7SrLRbreLVfVS7mV1S"
+    },
+    {
+      "added_at": "2023-12-18 19:12:30",
+      "album": {
         "name": "Inside In / Inside Out",
         "url": "https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz"
       },
@@ -943,22 +959,6 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
-        "name": "Funeral",
-        "url": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH"
-      },
-      "artists": [
-        {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
-        }
-      ],
-      "duration_ms": 335333,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/6Hmj7SrLRbreLVfVS7mV1S"
-    },
-    {
-      "added_at": "2023-12-18 19:12:30",
-      "album": {
         "name": "Hurry Up, We're Dreaming",
         "url": "https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR"
       },
@@ -971,34 +971,6 @@
       "duration_ms": 343253,
       "name": "Wait",
       "url": "https://open.spotify.com/track/3rTnGUeDrnZV22DvRuUuXr"
-    },
-    {
-      "added_at": "2023-12-18 19:12:30",
-      "album": {
-        "name": "the record",
-        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 290360,
-      "name": "Satanist",
-      "url": "https://open.spotify.com/track/4QEsxFZRA3RnjQAPYS3UXa"
     },
     {
       "added_at": "2023-12-18 19:12:30",
@@ -1035,6 +1007,34 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
+        "name": "the record",
+        "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 290360,
+      "name": "Satanist",
+      "url": "https://open.spotify.com/track/4QEsxFZRA3RnjQAPYS3UXa"
+    },
+    {
+      "added_at": "2023-12-18 19:12:30",
+      "album": {
         "name": "Let's Be Still",
         "url": "https://open.spotify.com/album/6KE9bPdNZqkYvXebow0i42"
       },
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
-        "name": "Sure Sure",
-        "url": "https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei"
-      },
-      "artists": [
-        {
-          "name": "Sure Sure",
-          "url": "https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ"
-        }
-      ],
-      "duration_ms": 219260,
-      "name": "This Must Be The Place",
-      "url": "https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01"
-    },
-    {
-      "added_at": "2023-12-18 19:12:30",
-      "album": {
         "name": "And The War Came",
         "url": "https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 212800,
       "name": "Dearly Departed (feat. Esm\u00e9 Patterson)",
       "url": "https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U"
+    },
+    {
+      "added_at": "2023-12-18 19:12:30",
+      "album": {
+        "name": "Sure Sure",
+        "url": "https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei"
+      },
+      "artists": [
+        {
+          "name": "Sure Sure",
+          "url": "https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ"
+        }
+      ],
+      "duration_ms": 219260,
+      "name": "This Must Be The Place",
+      "url": "https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01"
     },
     {
       "added_at": "2023-12-18 19:12:30",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
-        "name": "A Little Lift",
-        "url": "https://open.spotify.com/album/3roe3TTl1o2p9sZZ9HdeX2"
-      },
-      "artists": [
-        {
-          "name": "Morningsiders",
-          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
-        }
-      ],
-      "duration_ms": 199742,
-      "name": "Empress",
-      "url": "https://open.spotify.com/track/4xWqRo8GPwMQ02LjiaX4D8"
-    },
-    {
-      "added_at": "2023-12-18 19:12:30",
-      "album": {
         "name": "Light Upon the Lake",
         "url": "https://open.spotify.com/album/3UhUTuYtGypQWuhqqoImsv"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 237973,
       "name": "No Woman",
       "url": "https://open.spotify.com/track/5KPXcfXaGOaWUqOHLDXFRP"
+    },
+    {
+      "added_at": "2023-12-18 19:12:30",
+      "album": {
+        "name": "A Little Lift",
+        "url": "https://open.spotify.com/album/3roe3TTl1o2p9sZZ9HdeX2"
+      },
+      "artists": [
+        {
+          "name": "Morningsiders",
+          "url": "https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl"
+        }
+      ],
+      "duration_ms": 199742,
+      "name": "Empress",
+      "url": "https://open.spotify.com/track/4xWqRo8GPwMQ02LjiaX4D8"
     },
     {
       "added_at": "2023-12-18 19:12:30",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
-        "name": "Gold Past Life",
-        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
-      },
-      "artists": [
-        {
-          "name": "Fruit Bats",
-          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "The Bottom of It",
-      "url": "https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq"
-    },
-    {
-      "added_at": "2023-12-18 19:12:30",
-      "album": {
         "name": "Miike Snow",
         "url": "https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 252306,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/5ftdTvmQjjsL23t7jxADfI"
+    },
+    {
+      "added_at": "2023-12-18 19:12:30",
+      "album": {
+        "name": "Gold Past Life",
+        "url": "https://open.spotify.com/album/4fu8RdgNHUGQ61GP0sILpp"
+      },
+      "artists": [
+        {
+          "name": "Fruit Bats",
+          "url": "https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "The Bottom of It",
+      "url": "https://open.spotify.com/track/6tZetCGfhxPh5ZIKCGmaKq"
     },
     {
       "added_at": "2023-12-18 19:12:30",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
-        "name": "Everything Else Has Gone Wrong",
-        "url": "https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        }
-      ],
-      "duration_ms": 219893,
-      "name": "Eat, Sleep, Wake (Nothing But You)",
-      "url": "https://open.spotify.com/track/3nClCcBmn9NnrRQkQTkx1J"
-    },
-    {
-      "added_at": "2023-12-18 19:12:30",
-      "album": {
         "name": "Days Are Gone",
         "url": "https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 245293,
       "name": "The Wire",
       "url": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
+    },
+    {
+      "added_at": "2023-12-18 19:12:30",
+      "album": {
+        "name": "Everything Else Has Gone Wrong",
+        "url": "https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "duration_ms": 219893,
+      "name": "Eat, Sleep, Wake (Nothing But You)",
+      "url": "https://open.spotify.com/track/3nClCcBmn9NnrRQkQTkx1J"
     },
     {
       "added_at": "2023-12-18 19:12:30",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
-        "name": "Oh, Inverted World (20th Anniversary Remaster)",
-        "url": "https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE"
-      },
-      "artists": [
-        {
-          "name": "The Shins",
-          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
-        }
-      ],
-      "duration_ms": 199053,
-      "name": "Caring Is Creepy - 2021 Remaster",
-      "url": "https://open.spotify.com/track/1d1Uc9yNUMvUb0RbakGDt0"
-    },
-    {
-      "added_at": "2023-12-18 19:12:30",
-      "album": {
         "name": "We Were Dead Before The Ship Even Sank",
         "url": "https://open.spotify.com/album/2lXBCL76UL5PCPbfAqKBkz"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 264813,
       "name": "Missed the Boat",
       "url": "https://open.spotify.com/track/4asjU3sDnn3002bTJIg2vZ"
+    },
+    {
+      "added_at": "2023-12-18 19:12:30",
+      "album": {
+        "name": "Oh, Inverted World (20th Anniversary Remaster)",
+        "url": "https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE"
+      },
+      "artists": [
+        {
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+        }
+      ],
+      "duration_ms": 199053,
+      "name": "Caring Is Creepy - 2021 Remaster",
+      "url": "https://open.spotify.com/track/1d1Uc9yNUMvUb0RbakGDt0"
     },
     {
       "added_at": "2023-12-18 19:12:30",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2023-12-18 19:12:30",
       "album": {
-        "name": "Earthtones",
-        "url": "https://open.spotify.com/album/1K3XPBfAfPO7jJhqTq4xME"
+        "name": "Designer",
+        "url": "https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI"
       },
       "artists": [
         {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
         }
       ],
-      "duration_ms": 260959,
-      "name": "Way With Words",
-      "url": "https://open.spotify.com/track/6ioeN8jQ8Qc3tS8dhpoAVi"
+      "duration_ms": 299440,
+      "name": "The Barrel",
+      "url": "https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs"
     }
   ],
   "unique_name": "Indie Rock Road Trip",

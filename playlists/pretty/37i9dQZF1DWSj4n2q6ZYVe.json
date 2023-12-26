@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 435549,
+  "num_followers": 435846,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZGMzYWRkYTVmNTNiNmIyNTllNzRlODgxZGI4ZjFjZWI2MWRhNzgy",
+  "snapshot_id": "MCxmODQ1MDk1N2Q1ZjVhMTQ5ODFkZjZmYzBhYzliNjgzM2Q4ZTg2NTdj",
   "tracks": [
     {
       "added_at": "2021-04-29 18:40:15",
@@ -199,6 +199,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "Harder, Better, Faster, Stronger",
+      "url": "https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Rock This Party (Everybody Dance Now)",
         "url": "https://open.spotify.com/album/0FoptdZTKSUm6JU99XVKhO"
       },
@@ -251,22 +267,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
-      },
-      "artists": [
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "Harder, Better, Faster, Stronger",
-      "url": "https://open.spotify.com/track/5W3cjX2J3tjhG8zb6u0qHn"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Singled Out",
         "url": "https://open.spotify.com/album/4nLyl2aEgi2qQrcPiFlmD7"
       },
@@ -299,26 +299,6 @@
       "duration_ms": 197961,
       "name": "Stamp On The Ground",
       "url": "https://open.spotify.com/track/2KgCPRTAECwNbJG1uYdfjl"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Love Generation (Radio Edit)",
-        "url": "https://open.spotify.com/album/18K5xK91s36fWgIcfzkcEt"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "Gary Pine",
-          "url": "https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd"
-        }
-      ],
-      "duration_ms": 204798,
-      "name": "Love Generation - Radio Edit",
-      "url": "https://open.spotify.com/track/7M13FwBAKWNa2jqcZeUhL6"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -419,6 +399,26 @@
       "duration_ms": 176453,
       "name": "All I Ever Wanted - Radio Edit",
       "url": "https://open.spotify.com/track/2PTvik6EqPAIYOclAB3SU8"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Love Generation (Radio Edit)",
+        "url": "https://open.spotify.com/album/18K5xK91s36fWgIcfzkcEt"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Gary Pine",
+          "url": "https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd"
+        }
+      ],
+      "duration_ms": 204798,
+      "name": "Love Generation - Radio Edit",
+      "url": "https://open.spotify.com/track/7M13FwBAKWNa2jqcZeUhL6"
     },
     {
       "added_at": "2021-10-06 04:50:26",
@@ -527,38 +527,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Push The Beat For This Jam (The Second Chapter)",
-        "url": "https://open.spotify.com/album/485YVBf2oC9eWnj39VbtJL"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 235413,
-      "name": "The Logical Song",
-      "url": "https://open.spotify.com/track/18kaCWM0OOdSQTnxCcoSU5"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Push The Button",
-        "url": "https://open.spotify.com/album/715rku55lldqdw9WiEuPgi"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        }
-      ],
-      "duration_ms": 393813,
-      "name": "Galvanize",
-      "url": "https://open.spotify.com/track/4bz7uB4edifWKJXSDxwHcs"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Now You're Gone - The Album",
         "url": "https://open.spotify.com/album/1UjziXy5WUcJkEkmHJKLDZ"
       },
@@ -579,6 +547,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Push The Beat For This Jam (The Second Chapter)",
+        "url": "https://open.spotify.com/album/485YVBf2oC9eWnj39VbtJL"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 235413,
+      "name": "The Logical Song",
+      "url": "https://open.spotify.com/track/18kaCWM0OOdSQTnxCcoSU5"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Tongue N' Cheek (Dirtee Deluxe Edition)",
         "url": "https://open.spotify.com/album/0tbxVYstYiHpBwA7qYL1hC"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 177573,
       "name": "Bonkers",
       "url": "https://open.spotify.com/track/6ddQ5KCkvCggk3j6KdA0zL"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Push The Button",
+        "url": "https://open.spotify.com/album/715rku55lldqdw9WiEuPgi"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "duration_ms": 393813,
+      "name": "Galvanize",
+      "url": "https://open.spotify.com/track/4bz7uB4edifWKJXSDxwHcs"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -647,22 +647,6 @@
       "duration_ms": 199600,
       "name": "You Give Me Something",
       "url": "https://open.spotify.com/track/1x6jPyUfLuTNQ3o5zykG2x"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Encore - Live And Direct",
-        "url": "https://open.spotify.com/album/5hFUbOIIcHOchKYOHm5F0b"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 208933,
-      "name": "Nessaja",
-      "url": "https://open.spotify.com/track/5RGiyzMQrBQQwMRid7SE65"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -743,6 +727,22 @@
       "duration_ms": 161718,
       "name": "Leave The World Behind - Radio Edit",
       "url": "https://open.spotify.com/track/25ZEYUgCJyf3gRxkqYbkIc"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Encore - Live And Direct",
+        "url": "https://open.spotify.com/album/5hFUbOIIcHOchKYOHm5F0b"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 208933,
+      "name": "Nessaja",
+      "url": "https://open.spotify.com/track/5RGiyzMQrBQQwMRid7SE65"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -839,22 +839,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Magikal Journey -The Hits Collection 1998 - 2008",
-        "url": "https://open.spotify.com/album/4MKq1Buhkx4Ksu0ngWHhr3"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 205053,
-      "name": "Adagio For Strings - Radio Edit",
-      "url": "https://open.spotify.com/track/0yMoJXVP6hFLV71DRVxRTk"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Discovery",
         "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 212546,
       "name": "Aerodynamic",
       "url": "https://open.spotify.com/track/3H3cOQ6LBLSvmcaV7QkZEu"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Magikal Journey -The Hits Collection 1998 - 2008",
+        "url": "https://open.spotify.com/album/4MKq1Buhkx4Ksu0ngWHhr3"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 205053,
+      "name": "Adagio For Strings - Radio Edit",
+      "url": "https://open.spotify.com/track/0yMoJXVP6hFLV71DRVxRTk"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "La Roux",
-        "url": "https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy"
-      },
-      "artists": [
-        {
-          "name": "La Roux",
-          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
-        }
-      ],
-      "duration_ms": 248626,
-      "name": "In For The Kill",
-      "url": "https://open.spotify.com/track/6yRraj2ghJiIcVbQ6Vb59Q"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Poetica (feat. Nadia Ali)",
         "url": "https://open.spotify.com/album/64cR11AqqLidCg6VGjUzxD"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 253586,
       "name": "Rapture (feat.Nadia Ali)",
       "url": "https://open.spotify.com/track/0OSAJEA0ekX6pr2nuiPzX7"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "La Roux",
+        "url": "https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy"
+      },
+      "artists": [
+        {
+          "name": "La Roux",
+          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
+        }
+      ],
+      "duration_ms": 248626,
+      "name": "In For The Kill",
+      "url": "https://open.spotify.com/track/6yRraj2ghJiIcVbQ6Vb59Q"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1221,22 +1221,6 @@
       "url": "https://open.spotify.com/track/5ClXLJW6OLZuTLCwhmX9h9"
     },
     {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Who Needs Guitars Anyway?",
-        "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
-      },
-      "artists": [
-        {
-          "name": "Alice Deejay",
-          "url": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
-        }
-      ],
-      "duration_ms": 194072,
-      "name": "Will I Ever",
-      "url": "https://open.spotify.com/track/7FpkmUt2H3Mf9TVEGHkUpk"
-    },
-    {
       "added_at": "2021-10-06 04:50:26",
       "album": {
         "name": "Day 'N' Nite (Crookers Remix)",
@@ -1255,6 +1239,22 @@
       "duration_ms": 281080,
       "name": "Day 'N' Nite - Crookers Remix",
       "url": "https://open.spotify.com/track/6ouTGbETM7ZdID1eMXZJde"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Who Needs Guitars Anyway?",
+        "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
+      },
+      "artists": [
+        {
+          "name": "Alice Deejay",
+          "url": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
+        }
+      ],
+      "duration_ms": 194072,
+      "name": "Will I Ever",
+      "url": "https://open.spotify.com/track/7FpkmUt2H3Mf9TVEGHkUpk"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Jumping All Over The World",
+        "url": "https://open.spotify.com/album/3iMFrl2X1m9XF2sLnq793X"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 228821,
+      "name": "Jumping All Over The World",
+      "url": "https://open.spotify.com/track/6bIkBV2Wpw08A8KDJA7psE"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Made In The Dark",
         "url": "https://open.spotify.com/album/2fZWcwbfKryf2d24wQ4LXQ"
       },
@@ -1383,38 +1399,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/17dTqQJyrp8jd6GQXzx6r9"
-      },
-      "artists": [
-        {
-          "name": "Kate Ryan",
-          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "Voyage voyage",
-      "url": "https://open.spotify.com/track/4HsvdyB7HDERx46V8Q8dV8"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Mind The Gap",
-        "url": "https://open.spotify.com/album/4MkSBDwyuxAL44TqLdD9iS"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 225026,
-      "name": "One (Always Hardcore)",
-      "url": "https://open.spotify.com/track/04frI4TPBnmvaYXHeqELQL"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Ghettoblaster",
         "url": "https://open.spotify.com/album/6raRg9iwPAtH9xgOT1RNjL"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "See Clear Now",
-        "url": "https://open.spotify.com/album/6jyCINx0IQwks3MnchgcOR"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/17dTqQJyrp8jd6GQXzx6r9"
       },
       "artists": [
         {
-          "name": "Wiley",
-          "url": "https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3"
+          "name": "Kate Ryan",
+          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
         }
       ],
-      "duration_ms": 170480,
-      "name": "Wearing My Rolex - Radio Edit",
-      "url": "https://open.spotify.com/track/5liQj4sVRmEEESvvcb64o8"
+      "duration_ms": 184586,
+      "name": "Voyage voyage",
+      "url": "https://open.spotify.com/track/4HsvdyB7HDERx46V8Q8dV8"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1463,6 +1447,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "See Clear Now",
+        "url": "https://open.spotify.com/album/6jyCINx0IQwks3MnchgcOR"
+      },
+      "artists": [
+        {
+          "name": "Wiley",
+          "url": "https://open.spotify.com/artist/7k9T7lZlHjRAM1bb0r9Rm3"
+        }
+      ],
+      "duration_ms": 170480,
+      "name": "Wearing My Rolex - Radio Edit",
+      "url": "https://open.spotify.com/track/5liQj4sVRmEEESvvcb64o8"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/5Y7dFFiVB9zHfGZJPX2Pql"
       },
@@ -1479,8 +1479,8 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Jumping All Over The World",
-        "url": "https://open.spotify.com/album/3iMFrl2X1m9XF2sLnq793X"
+        "name": "Mind The Gap",
+        "url": "https://open.spotify.com/album/4MkSBDwyuxAL44TqLdD9iS"
       },
       "artists": [
         {
@@ -1488,9 +1488,9 @@
           "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
         }
       ],
-      "duration_ms": 228821,
-      "name": "Jumping All Over The World",
-      "url": "https://open.spotify.com/track/6bIkBV2Wpw08A8KDJA7psE"
+      "duration_ms": 225026,
+      "name": "One (Always Hardcore)",
+      "url": "https://open.spotify.com/track/04frI4TPBnmvaYXHeqELQL"
     },
     {
       "added_at": "2021-10-06 04:50:26",

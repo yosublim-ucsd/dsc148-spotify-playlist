@@ -15633,6 +15633,24 @@
     },
     {
       "album": {
+        "name": "CATALYST- EP",
+        "url": "https://open.spotify.com/album/6gyeFXC2dYLrU3O0tovWqC"
+      },
+      "artists": [
+        {
+          "name": "Braden Bales",
+          "url": "https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134060,
+      "name": "I WRITE SONGS ABOUT YOU",
+      "url": "https://open.spotify.com/track/0qYeqpxqxQB7VSegLNRBRc"
+    },
+    {
+      "album": {
         "name": "i'm drunk and i miss you still (feat. 1nonly & lilbubblegum)",
         "url": "https://open.spotify.com/album/7bjCPBwFKkM1nZpldVF6Pl"
       },
@@ -20470,7 +20488,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-12-26",
       "duration_ms": 177524,
       "name": "missin u",
       "url": "https://open.spotify.com/track/4TQCxVR2rmR3ozusDumesX"

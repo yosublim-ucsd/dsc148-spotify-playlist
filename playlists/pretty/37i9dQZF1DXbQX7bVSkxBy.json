@@ -1,12 +1,12 @@
 {
   "description": "Raise a voice and testify with African gospel music.  Cover: <a href=\"https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX?si=LBVezGq6TvOTDK40kWUY1g\">Theresa Phondo</a> ",
-  "num_followers": 16952,
+  "num_followers": 17011,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjkwMWE2NzRlYTYzMmM1NzBlMWQ4YWM4MWZhNWIzZDIzMzE1NWQ3",
+  "snapshot_id": "MCwyMTFjZTI2ZjNkOWU1ZjQ2NTIyNmQ1ZDMwNDFiZGY0ZTQ5MWE2ODRj",
   "tracks": [
     {
       "added_at": "2023-12-15 00:01:00",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Names of God",
-        "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        }
-      ],
-      "duration_ms": 511207,
-      "name": "Adonai",
-      "url": "https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Man Of Galilee",
         "url": "https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 591333,
       "name": "Made A Way",
       "url": "https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Names of God",
+        "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "duration_ms": 511207,
+      "name": "Adonai",
+      "url": "https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -395,6 +395,38 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "The Glory Experience (Live In Houston)",
+        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
+      },
+      "artists": [
+        {
+          "name": "Uche Agu",
+          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
+        }
+      ],
+      "duration_ms": 144213,
+      "name": "Wonderful - African Worship Medley/Live",
+      "url": "https://open.spotify.com/track/7JV1mx4hsvRUtdkcXlZt8L"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "The Gospel of the Kingdom",
+        "url": "https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        }
+      ],
+      "duration_ms": 657059,
+      "name": "Fragrance to Fire",
+      "url": "https://open.spotify.com/track/7eGDM90StP3QFkcwJPaLRg"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "This God Is Too Good",
         "url": "https://open.spotify.com/album/5RCbwQMe3LwArxqneTQMTg"
       },
@@ -435,54 +467,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "The Glory Experience (Live In Houston)",
-        "url": "https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ"
-      },
-      "artists": [
-        {
-          "name": "Uche Agu",
-          "url": "https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj"
-        }
-      ],
-      "duration_ms": 144213,
-      "name": "Wonderful - African Worship Medley/Live",
-      "url": "https://open.spotify.com/track/7JV1mx4hsvRUtdkcXlZt8L"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "The Gospel of the Kingdom",
-        "url": "https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5"
-      },
-      "artists": [
-        {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
-        }
-      ],
-      "duration_ms": 657059,
-      "name": "Fragrance to Fire",
-      "url": "https://open.spotify.com/track/7eGDM90StP3QFkcwJPaLRg"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Man Of Galilee",
-        "url": "https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08"
-      },
-      "artists": [
-        {
-          "name": "Judikay",
-          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
-        }
-      ],
-      "duration_ms": 295262,
-      "name": "More Than Gold",
-      "url": "https://open.spotify.com/track/7aYSK256AQktjtOs3MnIii"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Joy in Chaos (Extended)",
         "url": "https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv"
       },
@@ -507,22 +491,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "The Son of God (& Imela)",
-        "url": "https://open.spotify.com/album/17QFKUXHOJcDzNoDijDcXn"
+        "name": "Man Of Galilee",
+        "url": "https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08"
       },
       "artists": [
         {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        },
-        {
-          "name": "Enitan Adaba",
-          "url": "https://open.spotify.com/artist/1FbZCsyKioGGgzQDj6RIkI"
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
         }
       ],
-      "duration_ms": 354572,
-      "name": "Imela (feat. Enitan Adaba)",
-      "url": "https://open.spotify.com/track/50OHI0yJ1ti2jTWySMz6jY"
+      "duration_ms": 295262,
+      "name": "More Than Gold",
+      "url": "https://open.spotify.com/track/7aYSK256AQktjtOs3MnIii"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -559,26 +539,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Blessings",
-        "url": "https://open.spotify.com/album/2IPCK9h2W6YKCs951ytlfA"
+        "name": "The Son of God (& Imela)",
+        "url": "https://open.spotify.com/album/17QFKUXHOJcDzNoDijDcXn"
       },
       "artists": [
         {
-          "name": "Theresa Phondo",
-          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
         },
         {
-          "name": "Sal Ly",
-          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
-        },
-        {
-          "name": "No\u00ebl Mio",
-          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+          "name": "Enitan Adaba",
+          "url": "https://open.spotify.com/artist/1FbZCsyKioGGgzQDj6RIkI"
         }
       ],
-      "duration_ms": 162569,
-      "name": "Blessings",
-      "url": "https://open.spotify.com/track/4uTANRdemxU9C40FrD9sHO"
+      "duration_ms": 354572,
+      "name": "Imela (feat. Enitan Adaba)",
+      "url": "https://open.spotify.com/track/50OHI0yJ1ti2jTWySMz6jY"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -651,22 +627,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "The King Is Coming",
-        "url": "https://open.spotify.com/album/1zi8tByoRTWt088vDbI6OG"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
-        }
-      ],
-      "duration_ms": 464306,
-      "name": "Yeshua Hamashiach",
-      "url": "https://open.spotify.com/track/6xmcjy9fiHc5UZlUZDg5uy"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Jesus Oh",
         "url": "https://open.spotify.com/album/62srZNS6dHIfKMjU1CHxNL"
       },
@@ -683,6 +643,46 @@
       "duration_ms": 255384,
       "name": "Jesus Oh",
       "url": "https://open.spotify.com/track/6xEE5orPvEG63CHH8WosnD"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "The King Is Coming",
+        "url": "https://open.spotify.com/album/1zi8tByoRTWt088vDbI6OG"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "duration_ms": 464306,
+      "name": "Yeshua Hamashiach",
+      "url": "https://open.spotify.com/track/6xmcjy9fiHc5UZlUZDg5uy"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/2IPCK9h2W6YKCs951ytlfA"
+      },
+      "artists": [
+        {
+          "name": "Theresa Phondo",
+          "url": "https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX"
+        },
+        {
+          "name": "Sal Ly",
+          "url": "https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ"
+        },
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
+        }
+      ],
+      "duration_ms": 162569,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/4uTANRdemxU9C40FrD9sHO"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -743,18 +743,26 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Man Of Galilee",
-        "url": "https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08"
+        "name": "My Matter",
+        "url": "https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF"
       },
       "artists": [
         {
-          "name": "Judikay",
-          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Becca Folkes",
+          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
         }
       ],
-      "duration_ms": 257645,
-      "name": "Omemma",
-      "url": "https://open.spotify.com/track/3t2o1njvVXz9IojLD1FTqk"
+      "duration_ms": 173290,
+      "name": "My Matter",
+      "url": "https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -779,26 +787,18 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "My Matter",
-        "url": "https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF"
+        "name": "Man Of Galilee",
+        "url": "https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08"
       },
       "artists": [
         {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        },
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Becca Folkes",
-          "url": "https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb"
+          "name": "Judikay",
+          "url": "https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x"
         }
       ],
-      "duration_ms": 173290,
-      "name": "My Matter",
-      "url": "https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf"
+      "duration_ms": 257645,
+      "name": "Omemma",
+      "url": "https://open.spotify.com/track/3t2o1njvVXz9IojLD1FTqk"
     },
     {
       "added_at": "2023-12-15 00:01:00",

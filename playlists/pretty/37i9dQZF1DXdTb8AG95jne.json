@@ -1,12 +1,12 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: jisokuryClub(\uc9c0\uc18c\ucfe0\ub9ac\ud074\ub7fd)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 461606,
+  "num_followers": 461630,
   "original_name": "In The K-Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZWUwMTFjNGM5MzhjYTdkYzZiMWExY2JiM2M5ZTU2MGQwYzhkZTMy",
+  "snapshot_id": "MCw2NjZlMWIwM2E1MzliMzc0YjVkZTFlYzMwZjk1MzkwZTIzNzFkMjli",
   "tracks": [
     {
       "added_at": "2023-12-18 03:06:58",
@@ -283,26 +283,6 @@
     {
       "added_at": "2023-12-18 03:06:58",
       "album": {
-        "name": "Puberty Book\u2161 Pum",
-        "url": "https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        },
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Leo (feat. BAEKHYUN)",
-      "url": "https://open.spotify.com/track/0kvtiq8qll4OTfDXvrkXEF"
-    },
-    {
-      "added_at": "2023-12-18 03:06:58",
-      "album": {
         "name": "DREAM LIKE ME",
         "url": "https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 281658,
       "name": "DREAM LIKE ME",
       "url": "https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m"
+    },
+    {
+      "added_at": "2023-12-18 03:06:58",
+      "album": {
+        "name": "Puberty Book\u2161 Pum",
+        "url": "https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        },
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Leo (feat. BAEKHYUN)",
+      "url": "https://open.spotify.com/track/0kvtiq8qll4OTfDXvrkXEF"
     },
     {
       "added_at": "2023-12-18 03:06:58",
@@ -359,30 +359,6 @@
     {
       "added_at": "2023-12-18 03:06:58",
       "album": {
-        "name": "fool",
-        "url": "https://open.spotify.com/album/7dUPtlVTD9sepa5fcaWB44"
-      },
-      "artists": [
-        {
-          "name": "frad",
-          "url": "https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL"
-        },
-        {
-          "name": "Hayne",
-          "url": "https://open.spotify.com/artist/2OuXA3zTqSBjchwV4jD5gL"
-        },
-        {
-          "name": "Milky Day",
-          "url": "https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu"
-        }
-      ],
-      "duration_ms": 130333,
-      "name": "fool",
-      "url": "https://open.spotify.com/track/6lXGf0irWo1XWl8acAlzso"
-    },
-    {
-      "added_at": "2023-12-18 03:06:58",
-      "album": {
         "name": "5.2 (Feat. LEE SUHYUN)",
         "url": "https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0"
       },
@@ -415,6 +391,30 @@
       "duration_ms": 215400,
       "name": "Baby I Need You",
       "url": "https://open.spotify.com/track/7F7s8Hh6h1PgGUyVzpRfDs"
+    },
+    {
+      "added_at": "2023-12-18 03:06:58",
+      "album": {
+        "name": "fool",
+        "url": "https://open.spotify.com/album/7dUPtlVTD9sepa5fcaWB44"
+      },
+      "artists": [
+        {
+          "name": "frad",
+          "url": "https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL"
+        },
+        {
+          "name": "Hayne",
+          "url": "https://open.spotify.com/artist/2OuXA3zTqSBjchwV4jD5gL"
+        },
+        {
+          "name": "Milky Day",
+          "url": "https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu"
+        }
+      ],
+      "duration_ms": 130333,
+      "name": "fool",
+      "url": "https://open.spotify.com/track/6lXGf0irWo1XWl8acAlzso"
     },
     {
       "added_at": "2023-12-18 03:06:58",
@@ -651,6 +651,22 @@
     {
       "added_at": "2023-12-18 03:06:58",
       "album": {
+        "name": "5.1",
+        "url": "https://open.spotify.com/album/3uzxXo7V7MD8IOxDHbXgWg"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 232893,
+      "name": "Winter Breath",
+      "url": "https://open.spotify.com/track/52MhiDWZlaHOVc29nbZBFC"
+    },
+    {
+      "added_at": "2023-12-18 03:06:58",
+      "album": {
         "name": "in the bed",
         "url": "https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj"
       },
@@ -667,38 +683,18 @@
     {
       "added_at": "2023-12-18 03:06:58",
       "album": {
-        "name": "RAL 9002",
-        "url": "https://open.spotify.com/album/5GSpWXgjEc3r0rMcS8yrmY"
+        "name": "Calibrate",
+        "url": "https://open.spotify.com/album/0U8Tdmu885TydIA7hdlZ0y"
       },
       "artists": [
         {
-          "name": "youra",
-          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
-        },
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+          "name": "Ha Hyun Sang",
+          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
         }
       ],
-      "duration_ms": 189533,
-      "name": "RAL 9002 (Feat. Heize)",
-      "url": "https://open.spotify.com/track/1XyMBACv8WJzmnAobpgXiW"
-    },
-    {
-      "added_at": "2023-12-18 03:06:58",
-      "album": {
-        "name": "5.1",
-        "url": "https://open.spotify.com/album/3uzxXo7V7MD8IOxDHbXgWg"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 232893,
-      "name": "Winter Breath",
-      "url": "https://open.spotify.com/track/52MhiDWZlaHOVc29nbZBFC"
+      "duration_ms": 225813,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/6NE7hAW6UFEJWhv2hP6z8X"
     },
     {
       "added_at": "2023-12-18 03:06:58",
@@ -719,18 +715,22 @@
     {
       "added_at": "2023-12-18 03:06:58",
       "album": {
-        "name": "Calibrate",
-        "url": "https://open.spotify.com/album/0U8Tdmu885TydIA7hdlZ0y"
+        "name": "RAL 9002",
+        "url": "https://open.spotify.com/album/5GSpWXgjEc3r0rMcS8yrmY"
       },
       "artists": [
         {
-          "name": "Ha Hyun Sang",
-          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+        },
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
         }
       ],
-      "duration_ms": 225813,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/6NE7hAW6UFEJWhv2hP6z8X"
+      "duration_ms": 189533,
+      "name": "RAL 9002 (Feat. Heize)",
+      "url": "https://open.spotify.com/track/1XyMBACv8WJzmnAobpgXiW"
     },
     {
       "added_at": "2023-12-18 03:06:58",

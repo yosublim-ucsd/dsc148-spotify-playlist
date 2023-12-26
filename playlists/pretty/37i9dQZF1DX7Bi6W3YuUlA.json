@@ -1,12 +1,12 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover:  Tobe Nwigwe",
-  "num_followers": 34876,
+  "num_followers": 34913,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDFmMDk5NjAxODYyZDU3YTg4NzRkZTAxMzlhOTEyZTBjYzVkZDg0",
+  "snapshot_id": "MCw2NDc5OWMzYjVjOTNhZjJlODhjMmE2OTlmZGNiYTAxNWIzOTYyMGFj",
   "tracks": [
     {
       "added_at": "2023-02-18 05:58:41",
@@ -179,6 +179,22 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
+        "name": "Have Me",
+        "url": "https://open.spotify.com/album/07aeUxGzUanC8MPZ5Syw7k"
+      },
+      "artists": [
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "duration_ms": 168989,
+      "name": "Have Me",
+      "url": "https://open.spotify.com/track/6Z1f1hRzEp9ysuprxhNdc5"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
         "name": "Seasons",
         "url": "https://open.spotify.com/album/2YCdel85rHps3LqsMfu1M0"
       },
@@ -211,38 +227,6 @@
       "duration_ms": 150169,
       "name": "Glory",
       "url": "https://open.spotify.com/track/3DjPqQPooCrDf7b2TaAfdP"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "burn for u",
-        "url": "https://open.spotify.com/album/0l6g4tJ50aQJhO680P8hQz"
-      },
-      "artists": [
-        {
-          "name": "gio.",
-          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
-        }
-      ],
-      "duration_ms": 125566,
-      "name": "burn for u",
-      "url": "https://open.spotify.com/track/0EEnBExqpGxsDL3d4UM2QN"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "Have Me",
-        "url": "https://open.spotify.com/album/07aeUxGzUanC8MPZ5Syw7k"
-      },
-      "artists": [
-        {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
-        }
-      ],
-      "duration_ms": 168989,
-      "name": "Have Me",
-      "url": "https://open.spotify.com/track/6Z1f1hRzEp9ysuprxhNdc5"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -283,6 +267,22 @@
       "duration_ms": 113051,
       "name": "Any Attack",
       "url": "https://open.spotify.com/track/0RPgPDZ7hoAJRyaS7uTF3y"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "burn for u",
+        "url": "https://open.spotify.com/album/0l6g4tJ50aQJhO680P8hQz"
+      },
+      "artists": [
+        {
+          "name": "gio.",
+          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
+        }
+      ],
+      "duration_ms": 125566,
+      "name": "burn for u",
+      "url": "https://open.spotify.com/track/0EEnBExqpGxsDL3d4UM2QN"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -403,6 +403,38 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
+        "name": "ONE WAY",
+        "url": "https://open.spotify.com/album/129z9tZwZhdnICLk2o0OQ6"
+      },
+      "artists": [
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "duration_ms": 131317,
+      "name": "ONE WAY",
+      "url": "https://open.spotify.com/track/4KpbX4SG1vdPQOTYtU1eAT"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Spread The Opps",
+        "url": "https://open.spotify.com/album/4gtlXf58XUz10vRE4oBJbK"
+      },
+      "artists": [
+        {
+          "name": "Lecrae",
+          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+        }
+      ],
+      "duration_ms": 181795,
+      "name": "Spread The Opps",
+      "url": "https://open.spotify.com/track/4ihi58h10eos6quCNQzJFl"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
         "name": "Stuff Back",
         "url": "https://open.spotify.com/album/2fdftwjf1S6AsIFZ8UgkmC"
       },
@@ -427,22 +459,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "ONE WAY",
-        "url": "https://open.spotify.com/album/129z9tZwZhdnICLk2o0OQ6"
-      },
-      "artists": [
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 131317,
-      "name": "ONE WAY",
-      "url": "https://open.spotify.com/track/4KpbX4SG1vdPQOTYtU1eAT"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Graves",
         "url": "https://open.spotify.com/album/7IyWwzTZC4NAGp9Sg0UAKM"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 260048,
       "name": "Graves",
       "url": "https://open.spotify.com/track/1CEYsFOS0hAoVxuqtRmaLz"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "Spread The Opps",
-        "url": "https://open.spotify.com/album/4gtlXf58XUz10vRE4oBJbK"
-      },
-      "artists": [
-        {
-          "name": "Lecrae",
-          "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
-        }
-      ],
-      "duration_ms": 181795,
-      "name": "Spread The Opps",
-      "url": "https://open.spotify.com/track/4ihi58h10eos6quCNQzJFl"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -635,6 +635,26 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
+        "name": "We Win (Space Jam: A New Legacy)",
+        "url": "https://open.spotify.com/album/5w1tIaJtvgPEn2mHxiJoVo"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 194999,
+      "name": "We Win (Space Jam: A New Legacy) (and Kirk Franklin)",
+      "url": "https://open.spotify.com/track/4Y9BJZccHjVdHUkee0pBRa"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
         "name": "Never Land II",
         "url": "https://open.spotify.com/album/3YB6qDZLtFID4wyBXvVSbL"
       },
@@ -659,26 +679,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "We Win (Space Jam: A New Legacy)",
-        "url": "https://open.spotify.com/album/5w1tIaJtvgPEn2mHxiJoVo"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 194999,
-      "name": "We Win (Space Jam: A New Legacy) (and Kirk Franklin)",
-      "url": "https://open.spotify.com/track/4Y9BJZccHjVdHUkee0pBRa"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Child of God",
         "url": "https://open.spotify.com/album/4Zuof4EsJMgxsi7iGAQ1wJ"
       },
@@ -691,6 +691,22 @@
       "duration_ms": 255486,
       "name": "Child of God",
       "url": "https://open.spotify.com/track/4N7NekylBrZjnGQmitWo6k"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "God Good",
+        "url": "https://open.spotify.com/album/01LrolnVf2rnfI5tXfn3HG"
+      },
+      "artists": [
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "duration_ms": 153737,
+      "name": "God Good",
+      "url": "https://open.spotify.com/track/2STMTOFNic9TvIcYrhKC8y"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -763,22 +779,6 @@
       "duration_ms": 203478,
       "name": "in my head.",
       "url": "https://open.spotify.com/track/6g8LnpjRpvbiGaQsVpt47j"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "God Good",
-        "url": "https://open.spotify.com/album/01LrolnVf2rnfI5tXfn3HG"
-      },
-      "artists": [
-        {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
-        }
-      ],
-      "duration_ms": 153737,
-      "name": "God Good",
-      "url": "https://open.spotify.com/track/2STMTOFNic9TvIcYrhKC8y"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
+        "name": "FYE FYE",
+        "url": "https://open.spotify.com/album/1KJH4MaROvdW0KbHN6GW5B"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Fat Nwigwe",
+          "url": "https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y"
+        }
+      ],
+      "duration_ms": 232615,
+      "name": "FYE FYE",
+      "url": "https://open.spotify.com/track/4g2OxXjs5skPc9cSFwxLSd"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
         "name": "Ram in the Bush",
         "url": "https://open.spotify.com/album/3gG2gyb4kEHRLE7TKJqXGn"
       },
@@ -1107,26 +1127,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "FYE FYE",
-        "url": "https://open.spotify.com/album/1KJH4MaROvdW0KbHN6GW5B"
-      },
-      "artists": [
-        {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
-        },
-        {
-          "name": "Fat Nwigwe",
-          "url": "https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y"
-        }
-      ],
-      "duration_ms": 232615,
-      "name": "FYE FYE",
-      "url": "https://open.spotify.com/track/4g2OxXjs5skPc9cSFwxLSd"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Club Eden",
         "url": "https://open.spotify.com/album/2MEwAldfLhuqijyIDgSuy6"
       },
@@ -1139,6 +1139,22 @@
       "duration_ms": 145116,
       "name": "Club Eden",
       "url": "https://open.spotify.com/track/0Ql8JLIRWcwydT9zaGUSmZ"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Tricky",
+        "url": "https://open.spotify.com/album/2L7aO5sMbn0jSFj2ZQpdnB"
+      },
+      "artists": [
+        {
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        }
+      ],
+      "duration_ms": 132635,
+      "name": "Tricky",
+      "url": "https://open.spotify.com/track/1X6R3SpHPB4ySRMF5kzdtw"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1207,22 +1223,6 @@
       "duration_ms": 178714,
       "name": "They Didn\u2019t Know II",
       "url": "https://open.spotify.com/track/4kQ8n8jv9d755g6gB9YIoX"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "Tricky",
-        "url": "https://open.spotify.com/album/2L7aO5sMbn0jSFj2ZQpdnB"
-      },
-      "artists": [
-        {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        }
-      ],
-      "duration_ms": 132635,
-      "name": "Tricky",
-      "url": "https://open.spotify.com/track/1X6R3SpHPB4ySRMF5kzdtw"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "No Loss",
-        "url": "https://open.spotify.com/album/4OvpLNfVIOiJmn2H20okwN"
-      },
-      "artists": [
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
-        }
-      ],
-      "duration_ms": 175018,
-      "name": "No Loss",
-      "url": "https://open.spotify.com/track/5MFx3nX3rO7H49RomWdKl7"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "Everyday",
         "url": "https://open.spotify.com/album/641i12iK07r1ALlCWq1xW3"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 184271,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/1fsIS1oqTTr7CJvAkelrXc"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "No Loss",
+        "url": "https://open.spotify.com/album/4OvpLNfVIOiJmn2H20okwN"
+      },
+      "artists": [
+        {
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
+        }
+      ],
+      "duration_ms": 175018,
+      "name": "No Loss",
+      "url": "https://open.spotify.com/track/5MFx3nX3rO7H49RomWdKl7"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
-        "name": "Pray 2 God",
-        "url": "https://open.spotify.com/album/5Wl3TpMmeWfY47wOWdbaec"
-      },
-      "artists": [
-        {
-          "name": "2'Live Bre",
-          "url": "https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F"
-        }
-      ],
-      "duration_ms": 156781,
-      "name": "Pray 2 God",
-      "url": "https://open.spotify.com/track/5fKmS8idOTmtI3x9hWbHhk"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
         "name": "NEW HOLLYWOOD",
         "url": "https://open.spotify.com/album/7BVSP15gMNXLl3DnJkyyjc"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 247539,
       "name": "HUMAN",
       "url": "https://open.spotify.com/track/0JYHhhrkbLDqqV6qZBMwjb"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
+        "name": "Pray 2 God",
+        "url": "https://open.spotify.com/album/5Wl3TpMmeWfY47wOWdbaec"
+      },
+      "artists": [
+        {
+          "name": "2'Live Bre",
+          "url": "https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F"
+        }
+      ],
+      "duration_ms": 156781,
+      "name": "Pray 2 God",
+      "url": "https://open.spotify.com/track/5fKmS8idOTmtI3x9hWbHhk"
     },
     {
       "added_at": "2023-02-18 05:58:41",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2023-02-18 05:58:41",
       "album": {
+        "name": "PRESSURE",
+        "url": "https://open.spotify.com/album/5vrLASRbLFy32QQpAvLkEL"
+      },
+      "artists": [
+        {
+          "name": "Toyalove",
+          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
+        }
+      ],
+      "duration_ms": 157675,
+      "name": "PRESSURE",
+      "url": "https://open.spotify.com/track/1hqAriaUctIMv62hDNBLWi"
+    },
+    {
+      "added_at": "2023-02-18 05:58:41",
+      "album": {
         "name": "bounce back.",
         "url": "https://open.spotify.com/album/748L8OCoABosEZF41AzgtM"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 187200,
       "name": "bounce back.",
       "url": "https://open.spotify.com/track/4tNgJIUHrkkHt6iFESuJRi"
-    },
-    {
-      "added_at": "2023-02-18 05:58:41",
-      "album": {
-        "name": "PRESSURE",
-        "url": "https://open.spotify.com/album/5vrLASRbLFy32QQpAvLkEL"
-      },
-      "artists": [
-        {
-          "name": "Toyalove",
-          "url": "https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6"
-        }
-      ],
-      "duration_ms": 157675,
-      "name": "PRESSURE",
-      "url": "https://open.spotify.com/track/1hqAriaUctIMv62hDNBLWi"
     },
     {
       "added_at": "2023-02-18 05:58:41",
